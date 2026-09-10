@@ -536,6 +536,24 @@ onboarding-refresh-tou-pin =
        *[other] הוספת { -brand-short-name } לשורת המשימות שלך
     }
 onboarding-refresh-tou-default-unchecked = הגנה מובנית בכל גלישה
+onboarding-refresh-tou-pin-unchecked = הדפדפן העצמאי העיקרי היחיד שנמצא במרחק לחיצה
+onboarding-refresh-terms-of-use-with-links = בחירה בהמשך מהווה הסכמה ל<a data-l10n-name="terms_of_use">תנאי השימוש של { -brand-product-name }</a> ול<a data-l10n-name="privacy_notice">הצהרת הפרטיות</a> שלנו. כדי לסייע בשיפור הדפדפן, { -brand-product-name } שולח נתוני אבחון ואינטראקציה אל { -vendor-short-name }.
+onboarding-refresh-data-collection-link = ניהול הגדרות איסוף נתונים
+onboarding-refresh-primary-button = המשך
+onboarding-refresh-fro-import-header = ייבוא הנתונים שלך
+onboarding-refresh-fro-import-body = המידע האישי שלך נשאר אישי. { -brand-product-name } לעולם לא ימכור אותו.
+onboarding-refresh-fro-skip-button = דילוג
+onboarding-refresh-fro-theme-header = התאמה אישית של המראה
+onboarding-refresh-tab-layout-header = לנסות פריסת לשוניות שונה
+onboarding-refresh-tab-layout-top = למעלה
+onboarding-refresh-tab-layout-side = בצד
+onboarding-refresh-tab-layout-minimal = מינימלי
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = חלון דפדפן המציג לשוניות כסמלים קטנים שנמצאים בצד המסך, בסרגל צד ממוזער.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = חלון דפדפן המציג לשוניות כסמלים קטנים שנמצאים בצד המסך, בסרגל צד ממוזער.
 
 ## Smart window switcher callout
 

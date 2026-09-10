@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name }가 저장된
 autofill-edit-payment-method-os-prompt-macos = 저장된 결제 수단 정보 표시
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }가 저장된 결제 수단 정보를 표시하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name }가 저장된 결제 수단 정보를 표시하려고 합니다.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = 저장된 결제 수단 정보 삭제
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name }가 저장된 결제 수단 정보를 삭제하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name }가 저장된 결제 수단 정보를 삭제하려고 합니다.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = 양식 자동 채우기 옵션
 

@@ -49,6 +49,15 @@ about-sync-log-count =
         [one] יומן אחד
        *[other] { $count } יומנים
     }
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = הצלחה - { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = שגיאה - { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
 about-sync-log-badge-success = הצלחה
 about-sync-log-badge-error = שגיאה
 # Variables:
