@@ -1011,6 +1011,7 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Liška u pravého okraje na oranžovém pozadí
 
 ## Firefox
 

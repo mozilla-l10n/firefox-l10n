@@ -242,6 +242,10 @@ browser-layout-horizontal-tabs2 =
     .description = Cilnes augšpusē
     .label = Līmeniskas cilnes
     .title = Cilnes augšpusē
+browser-layout-vertical-tabs2 =
+    .description = Cilnes sānā, sānjoslā
+    .label = Stateniskās cilnes
+    .title = Cilnes sānā, sānjoslā
 
 ## General Section - Language & Appearance
 

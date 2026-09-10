@@ -249,6 +249,10 @@ tail-fox-spotlight-secondary-button = Ne tagad
 
 root-certificate-windows-background-notification-learn-more-button = Uzzināt vairāk
 
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = Stateniskāš cilnes un ciļņu kopas ir klāt!
+
 ## Windows 10 EoS Global Infobar
 
 windows-10-eos-global-infobar-learn-more-link = Uzzināt vairāk

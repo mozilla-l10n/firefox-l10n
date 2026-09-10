@@ -34,7 +34,7 @@ sidebar-search-results-header =
 
 sidebar-customize-firefox-settings = Pārvaldīt { -brand-short-name } iestatījumus
 sidebar-vertical-tabs =
-    .label = Vertikālas cilnes
+    .label = Stateniskas cilnes
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =
@@ -50,6 +50,8 @@ sidebar-context-menu-manage-extension =
     .label = Pārvaldīt paplašinājumu
 sidebar-context-menu-report-extension =
     .label = Ziņot par paplašinājumu
+sidebar-context-menu-enable-vertical-tabs =
+    .label = Ieslēgt stateniskās cilnes
 sidebar-context-menu-customize-sidebar =
     .label = Pielāgot sānjoslu
 

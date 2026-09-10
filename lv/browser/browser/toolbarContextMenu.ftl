@@ -32,9 +32,9 @@ toolbar-context-menu-reopen-closed-tabs =
         }
     .accesskey = A
 toolbar-context-turn-on-vertical-tabs =
-    .label = Ieslēgt vertikālās cilnes
+    .label = Ieslēgt stateniskās cilnes
 toolbar-context-turn-off-vertical-tabs =
-    .label = Ieslēgt vertikālās cilnes
+    .label = Izslēgt stateniskās cilnes
 toolbar-context-customize-sidebar =
     .label = Pielāgot sānjoslu
 toolbar-context-menu-manage-extension =

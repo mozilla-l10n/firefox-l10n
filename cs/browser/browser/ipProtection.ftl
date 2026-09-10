@@ -151,6 +151,7 @@ unauthenticated-private-location-message =
        *[no-cases] Při prohlížení v aplikaci { -brand-product-name } pomáhá <a data-l10n-name="learn-more-vpn">uchovávat vaši polohu v soukromí</a>.
     }
 unauthenticated-choose-location-message-1 = Vyberte si z několika umístění nebo nechte { -brand-product-name } vybrat to nejrychlejší.
+unauthenticated-site-rules-message = Určete, které webové stránky mají používat VPN a které ne.
 unauthenticated-get-started = Začínáme
 unauthenticated-terms-of-service-privacy-notice = Pokračováním souhlasíte s <a data-l10n-name="vpn-terms-of-service">podmínkami poskytování služby</a> a <a data-l10n-name="vpn-privacy-notice">oznámením o ochraně osobních údajů</a>.
 site-exclusion-toggle-enabled-1 =
@@ -160,6 +161,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je pro tuto stránku vypnuta
     .label = Použít VPN pro tuto stránku
 site-exclusion-toggle-description = Stránka nefunguje? Zkuste vypnout VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Správa pravidel VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Vaše pravidlo
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN je pro tuto stránku vypnutá
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN je pro tuto stránku zapnuta
 ipprotection-settings-link =
     .label = Nastavení
 
@@ -314,6 +323,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webových stránek
         }
     .label = Spravovat nastavení webových stránek
+ip-protection-site-rules-header =
+    .heading = Správa pravidel webových stránek
+ip-protection-site-rules-button =
+    .description = Nastavte pravidla pro stránky, které potřebují více soukromí či vypnutou VPN.
+    .label = Správa pravidel webových stránek
 ip-protection-autostart =
     .label = Zapnout VPN automaticky
 ip-protection-autostart-checkbox =

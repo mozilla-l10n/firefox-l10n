@@ -77,6 +77,12 @@ taskbar-tabs-value-prop-callout-title = Pievienot šo saiti uzdevumjoslai
 sidebar-button-callout-title = Sānjoslā rādīt ciļņu virsrakstus
 sidebar-button-callout-subtitle = Sānjoslas poga ir izmantojama, lai izvērstu sānjoslu, lai varētu redzēt ciļņu virsrakstus.
 
+## Sidebar Vertical Tabs Strings
+
+vertical-tabs-callout-1-subtitle = Izmēģini mūsu jauno statenisko ciļņu izkārtojumu, lai ātri pārskatītu ciļņu sarakstu! Agrīnie pārbaudītāji ziņo, ka šis izkārtojums palīdz viņiem justies sakārtotākiem. Pārslēgties var jebkurā laikā.
+vertical-tabs-callout-1-cta-button = Izmēģināt stateniskas cilnes
+vertical-tabs-callout-2-title = Turi atvērtas daudz ciļņu? Izmēģini stateniskās cilnes!
+
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-callout-button = Pielāgot sānjoslu
