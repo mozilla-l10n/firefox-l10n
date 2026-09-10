@@ -110,6 +110,7 @@ unauthenticated-vpn-title = לנסות את ה־VPN המובנה של { -brand-p
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">הסתרת המיקום שלך</a> בזמן גלישה ב־{ -brand-product-name }.
 unauthenticated-private-location-message = מסייע <a data-l10n-name="learn-more-vpn">לשמור על פרטיות המיקום שלך</a> ב־{ -brand-product-name }.
 unauthenticated-choose-location-message-1 = ניתן לבחור מבין מספר מיקומים או לתת ל־{ -brand-product-name } לבחור את המהיר ביותר.
+unauthenticated-site-rules-message = שליטה על אילו אתרים משתמשים ב־VPN ואילו לא.
 unauthenticated-get-started = תחילת עבודה
 unauthenticated-terms-of-service-privacy-notice = בחירה בהמשך התהליך מהווה הסכמה ל<a data-l10n-name="vpn-terms-of-service">תנאי השירות</a> ול<a data-l10n-name="vpn-privacy-notice">הצהרת הפרטיות</a>.
 site-exclusion-toggle-enabled-1 =
@@ -119,6 +120,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = ה־VPN כבוי עבור אתר זה
     .label = שימוש ב־VPN עבור אתר זה
 site-exclusion-toggle-description = האתר לא עובד? ניתן לנסות לכבות את ה־VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = ניהול כללים של VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = הכלל שלך
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = ה־VPN כבוי עבור אתר זה
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = ה־VPN פעיל עבור אתר זה
 ipprotection-settings-link =
     .label = הגדרות
 
@@ -255,6 +264,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } אתרים
         }
     .label = ניהול הגדרות אתרים
+ip-protection-site-rules-header =
+    .heading = ניהול חוקים של אתרים
 ip-protection-autostart =
     .label = הפעלת VPN באופן אוטומטי
 ip-protection-autostart-checkbox =

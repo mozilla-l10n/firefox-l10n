@@ -526,6 +526,12 @@ onboarding-refresh-gratitude-subtitle = 感謝您使用 { -brand-short-name }，
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } 是您的堅強後盾
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-hero-text = 打造來保護您，而非追蹤您。
+onboarding-refresh-tou-default = 用 { -brand-short-name } 開啟所有鏈結
+onboarding-refresh-tou-pin-unchecked = 讓唯一的主流獨立瀏覽器隨手可得
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = 隨時切換智慧與經典視窗。

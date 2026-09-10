@@ -111,6 +111,7 @@ unauthenticated-vpn-title = 試用 { -brand-product-name } 的內建 VPN
 unauthenticated-hide-location-message-3 = 使用 { -brand-product-name } 上網時<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
 unauthenticated-private-location-message = 使用 { -brand-product-name } 上網時可幫助<a data-l10n-name="learn-more-vpn">隱藏您的實際所在位置</a>。
 unauthenticated-choose-location-message-1 = 從多個連線位置挑選，或交由 { -brand-product-name } 為您自動選擇最快的地點。
+unauthenticated-site-rules-message = 控制哪些網站要經由 VPN 開啟，哪些不要。
 unauthenticated-get-started = 開始使用
 unauthenticated-terms-of-service-privacy-notice = 繼續使用，代表您同意我們的<a data-l10n-name="vpn-terms-of-service">服務條款</a>及<a data-l10n-name="vpn-privacy-notice">隱私權公告</a>。
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = 已對此網站關閉 VPN 連線
     .label = 使用 VPN 開啟此網站
 site-exclusion-toggle-description = 網站無法正常運作？可關閉 VPN 試試。
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = 管理 VPN 規則
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = 您的規則
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = 已對此網站關閉 VPN 連線
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = 已對此網站開啟 VPN 連線
 ipprotection-settings-link =
     .label = 設定
 
@@ -252,6 +261,8 @@ ip-protection-not-opted-in-button = 開始使用
 ip-protection-site-exceptions-all-sites-button =
     .description = { $count } 個網站
     .label = 管理網站設定
+ip-protection-site-rules-header =
+    .heading = 管理網站規則
 ip-protection-autostart =
     .label = 自動開啟 VPN
 ip-protection-autostart-checkbox =

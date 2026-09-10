@@ -42,12 +42,21 @@ ipprotection-android-promo-callout-primary-button = Sapratu
 
 ## Panel
 
+unauthenticated-site-rules-message = Pārvaldīt, kuras vietnes izmanto VPN un kuras nē.
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN ir ieslēgts šai vietnei
     .label = Šai vietnei izmantot VPN
 site-exclusion-toggle-disabled-1 =
     .aria-label = Šai vietnei VPN ir izslēgts
     .label = Izmantot VPN šai vietnei
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Pārvaldīt VPN kārtulas
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Tava kārtula
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN ir izslēgts šai vietnei
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN ieslēgts šai vietnei
 
 ## Status card
 
@@ -71,6 +80,11 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN šai vietnei ir 
 ## IP Protection Settings
 
 ip-protection-learn-more = Uzzināt vairāk
+ip-protection-site-rules-header =
+    .heading = Pārvaldīt tīmekļvietnes kārtulas
+ip-protection-site-rules-button =
+    .description = Kārtulu iestatīšana vietnēm, kurās ir nepieciešams papildu privātums vai izslēgts VPN.
+    .label = Pārvaldīt tīmekļvietnes kārtulas
 
 ## IP Protection bandwidth reset callout
 

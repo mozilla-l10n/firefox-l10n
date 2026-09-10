@@ -321,6 +321,25 @@ onboarding-personalization-title = Pielāgo savu { -brand-short-name } pieredzi
 
 onboarding-refresh-onboarding-addons-subtitle = Paplašinājumi ir nelielas lietotnes, kas ļauj pielāgot { -brand-short-name }. Tie var pastiprināt privātumu, uzlabot ražīgumu, mainīt { -brand-short-name } izskatu un vēl daudz vairāk.
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } kopš šī brīža ir Tavā pusē
+onboarding-refresh-hero-text = Radīts, lai Tevi aizsargātu, nevis izsekotu.
+onboarding-refresh-tou-default = Atvērt visas saites ar { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Paturēt { -brand-short-name } Dock
+       *[other] Pievienot { -brand-short-name } uzdevumjoslai
+    }
+onboarding-refresh-tou-default-unchecked = Paturēt iebūvēto aizsardzību katrā pārlūkošanas reizē
+onboarding-refresh-tou-pin-unchecked = Turi vienīgo lielo neatkarīgo pārlūku klikšķa attālumā
+onboarding-refresh-terms-of-use-with-links = Turpinot tu piekrīti <a data-l10n-name="terms_of_use">{ -brand-product-name } izmantošanas noteikumiem</a> un mūsu <a data-l10n-name="privacy_notice">privātuma paziņojumam</a>. Lai palīdzētu uzlabot pārlūku, { -brand-product-name } nosūta { -vendor-short-name } izmeklējošus un mijiedarbības datus.
+onboarding-refresh-data-collection-link = Pārvaldīt datu vākšanas iestatījumus
+onboarding-refresh-primary-button = Turpināt
+onboarding-refresh-fro-import-header = Ņem līdzi savus datus
+onboarding-refresh-fro-import-body = Tavi personīgie dati paliek personīgi. { -brand-product-name } tos nekad nepārdos.
+
 ## Smart Window ToU modal
 
 smartwindow-existing-user-fx-tou-go-back = Doties atpakaļ

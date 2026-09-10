@@ -536,6 +536,26 @@ onboarding-refresh-gratitude-subtitle = Obrigado por utilizar o { -brand-short-n
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = O { -brand-short-name } está aqui para si
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = O { -brand-product-name } está consigo, a partir de agora
+onboarding-refresh-hero-text = Criado para o proteger, não para o monitorizar.
+onboarding-refresh-tou-default = Abrir todas as ligações com { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Manter { -brand-short-name } no Dock
+       *[other] Adicionar { -brand-short-name } à sua barra de tarefas
+    }
+onboarding-refresh-tou-default-unchecked = Mantenha a proteção incorporada sempre que navega
+onboarding-refresh-tou-pin-unchecked = Mantenha o único grande navegador independente a um clique de distância
+onboarding-refresh-terms-of-use-with-links = Ao continuar, aceita os <a data-l10n-name="terms_of_use">Termos de utilização do { -brand-product-name }</a> e a nossa <a data-l10n-name="privacy_notice">Informação de Privacidade</a>. Para ajudar a melhorar o navegador, o { -brand-product-name } envia dados de diagnóstico e de interação para a { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Gerir as definições de recolha de dados
+onboarding-refresh-primary-button = Continuar
+onboarding-refresh-fro-import-header = Traga os seus dados
+onboarding-refresh-fro-import-body = Os seus dados pessoais permanecem pessoais. O { -brand-product-name } nunca os venderá.
+onboarding-refresh-fro-skip-button = Saltar
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Alterne entre as Janelas Clássicas e Inteligentes a qualquer momento.
