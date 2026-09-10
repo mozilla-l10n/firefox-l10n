@@ -5,7 +5,9 @@
 certmgr-title =
     .title = Sertifikātu pārvaldnieks
 certmgr-tab-mine =
-    .label = Jūsu sertifikāti
+    .label = Tavi sertifikāti
+certmgr-tab-remembered =
+    .label = Autentificēšanas lēmumi
 certmgr-tab-people =
     .label = Cilvēki
 certmgr-tab-servers =

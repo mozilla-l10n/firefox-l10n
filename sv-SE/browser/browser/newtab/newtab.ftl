@@ -970,13 +970,13 @@ newtab-wallpaper-firefox-hills-light = En räv som springer över ljusa kullar
 newtab-wallpaper-firefox-tail-dark = En rävs svans mot en mörk bakgrund
 newtab-wallpaper-firefox-tail-light = En rävs svans mot en ljus bakgrund
 newtab-wallpaper-firefox-side-kit-dark = En räv till vänster mot en mörk bakgrund
-newtab-wallpaper-firefox-side-kit-light = En räv på vänster sida, på en ljus bakgrund
-newtab-wallpaper-firefox-sitting-hill-dark = En räv som sitter på mörkt lila kullar
+newtab-wallpaper-firefox-side-kit-light = En räv till vänster mot en ljus bakgrund
+newtab-wallpaper-firefox-sitting-hill-dark = En räv som sitter på mörklila kullar
 newtab-wallpaper-firefox-sitting-hill-light = En räv som sitter på ljusa kullar
-newtab-wallpaper-firefox-peak-dark = Ett rävansikte i vänster kant, på mörk bakgrund
-newtab-wallpaper-firefox-peak-light = Ett rävansikte i vänster kant, mot ljus bakgrund
-newtab-wallpaper-firefox-sky-dark = Mörkt lila kullar under en natthimmel
-newtab-wallpaper-firefox-sky-light = Ljusa kullar under en mjuk himmel
+newtab-wallpaper-firefox-peak-dark = Ett rävansikte längs vänsterkanten mot en mörk bakgrund
+newtab-wallpaper-firefox-peak-light = Ett rävansikte längs vänsterkanten mot en ljus bakgrund
+newtab-wallpaper-firefox-sky-dark = Mörklila kullar under en natthimmel
+newtab-wallpaper-firefox-sky-light = Ljusa kullar under en mild himmel
 
 ## Firefox
 

@@ -539,8 +539,8 @@ onboarding-refresh-gratitude-title = { -brand-short-name } tar hand om dig
 ## First Run Onboarding refresh strings
 
 # "has your back" is an idiom suggesting support and protection
-onboarding-refresh-splash-screen-title = { -brand-product-name } tar hand om dig, med start nu
-onboarding-refresh-hero-text = Byggd för att skydda dig, inte spåra dig.
+onboarding-refresh-splash-screen-title = { -brand-product-name } finns vid din sida från första stund
+onboarding-refresh-hero-text = Utformad för att skydda dig, inte spåra dig.
 onboarding-refresh-tou-default = Öppna alla länkar med { -brand-short-name }
 onboarding-refresh-tou-pin =
     { PLATFORM() ->
@@ -548,8 +548,8 @@ onboarding-refresh-tou-pin =
        *[other] Lägg till { -brand-short-name } i ditt aktivitetsfält
     }
 onboarding-refresh-tou-default-unchecked = Behåll det inbyggda skyddet varje gång du surfar
-onboarding-refresh-tou-pin-unchecked = Ha den enda stora oberoende webbläsaren ett klick bort
-onboarding-refresh-terms-of-use-with-links = Genom att fortsätta godkänner du <a data-l10n-name="terms_of_use">{ -brand-product-name } användarvillkor</a> och våra <a data-l10n-name="privacy_notice">sekretesspolicy</a>. För att hjälpa till att förbättra webbläsaren skickar { -brand-product-name } diagnostik- och interaktionsdata till { -vendor-short-name }.
+onboarding-refresh-tou-pin-unchecked = Ha den enda stora oberoende webbläsaren bara ett klick bort
+onboarding-refresh-terms-of-use-with-links = Genom att fortsätta godkänner du <a data-l10n-name="terms_of_use">användarvillkoren för { -brand-product-name }</a> och vårt <a data-l10n-name="privacy_notice">sekretessmeddelande</a>. För att förbättra webbläsaren skickar { -brand-product-name } diagnostik- och interaktionsdata till { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Hantera inställningar för datainsamling
 onboarding-refresh-primary-button = Fortsätt
 onboarding-refresh-fro-import-header = Ta med din data
