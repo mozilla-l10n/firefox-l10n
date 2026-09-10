@@ -11,6 +11,24 @@
 ##   $extension (String): replaced with the localized name of the extension.
 
 webext-perms-sideload-header = { $extension } اضافه شد
+webext-perms-optional-perms-header2 = { $extension } نیازمند مجوزهای بیشتری است.
+webext-perms-header2 = اضافه کردن { $extension }
+webext-perms-list-intro-unsigned = این افزونهٔ تأییدنشده ممکن است حریم خصوصی یا امنیت دستگاهتان را به خطر بیندازد. تنها در صورتی آن را اضافه کنید که به منبعش اعتماد دارید.
+
+## Headers used in the webextension permissions dialog, inside the content.
+
+webext-perms-header-required-perms = دسترسی‌های الزامی:
+webext-perms-header-optional-settings = تنظیمات اختیاری:
+webext-perms-header-update-required-perms = مجوزهای مورد نیاز جدید:
+webext-perms-header-optional-required-perms = مجوزهای جدید:
+webext-perms-header-data-collection-perms = جمع‌آوری داده‌های مورد نیاز:
+webext-perms-header-data-collection-is-none = جمع‌آوری داده‌ها:
+# This is a header used in the add-ons "update" prompt, shown when the new
+# version requires new data collection permissions.
+webext-perms-header-update-data-collection-perms = جمع‌آوری داده‌های مورد نیاز جدید:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = جمع‌آوری داده‌های جدید:
 
 ##
 
@@ -28,6 +46,9 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = انصراف
     .accesskey = ا
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text2 = { $extension } به‌روزرسانی شده است. برای نصب نگارش به‌روزشده، ابتدا باید مجوزهای جدید را تأیید کنید. با انتخاب «لغو»، نگارش فعلی افزونه حفظ می‌شود.
 webext-perms-update-accept =
     .label = به‌روزرسانی‌
     .accesskey = ب
@@ -39,6 +60,7 @@ webext-perms-optional-perms-deny =
     .label = رد کردن
     .accesskey = ر
 webext-perms-host-description-all-urls = دسترسی به تمامی اطلاعات شما برای تمامی پایگاه های اینترنتی
+webext-perms-host-description-file-urls = دسترسی به فایل‌های روی رایانه شما
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = دسترسی به داده های شما برای پایگاه های اینترنتی در این { $domain } دامنه
@@ -60,6 +82,23 @@ webext-perms-host-description-multiple-domains =
         [one] دسترسی به داده‌های شما برای وبگاه موجود در { $domainCount } دامنه
        *[other] دسترسی به داده‌های شما برای وبگاه‌های موجود در { $domainCount } دامنه
     }
+
+## Strings for data collection permissions in the permission prompt.
+
+webext-perms-description-data-none = به‌گفتهٔ توسعه‌دهنده، این افزونه نیازی به جمع‌آوری داده‌ها ندارد.
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some = به‌گفتهٔ توسعه‌دهنده، این افزونه این موارد را جمع‌آوری می‌کند: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-update = توسعه‌دهنده می‌گوید که این افزونه موارد زیر را جمع‌آوری خواهد کرد: { $permissions }
+# Variables:
+#    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
+webext-perms-description-data-some-optional = توسعه‌دهنده می‌گوید که این افزونه می‌خواهد موارد زیر را جمع‌آوری کند: { $permissions }
+# Variables:
+#   $extension (String): replaced with the localized name of the extension.
+webext-perms-update-text-with-data-collection = { $extension } برای به‌روزرسانی به تنظیمات جدید نیاز دارد
+webext-perms-update-list-intro-with-data-collection = برای حفظ نگارش و تنظیمات فعلی، لغو را انتخاب کنید؛ یا برای دریافت نگارش جدید و تأیید تغییرات، به‌روزرسانی کنید.
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
 ## The part of the string describing what privileges the extension gives should be consistent

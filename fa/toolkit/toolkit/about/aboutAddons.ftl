@@ -538,6 +538,43 @@ mlmodel-addon-detail-model-card = کارت مدل
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = مشاهده در Hugging Face
 
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = به روش خودت { -brand-product-name } را شکل بده
+    .message = ابزارها و سبک‌ها را متناسب با نیازها و سلیقه خود اضافه کنید.
+find-more-addons-promo-open-amo-button = گشت و گذار در افزونه‌ها و قالب‌ها
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = افزونه محبوب بعدی‌تان را پیدا کنید
+    .message = سفارشی‌سازی { -brand-product-name } با ابزارهایی برای تمرکز، حریم خصوصی، خرید و موارد دیگر.
+find-more-extensions-promo-open-amo-button = کاوش افزونه‌ها
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = ظاهرهای جدیدتری پیدا کنید
+    .message = سبکی را انتخاب کنید که { -brand-product-name } حس کنید برای شما ساخته شده است.
+find-more-themes-promo-open-amo-button = کاوش در پوسته‌ها
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = چند افزونه خیلی موثر هستند
+    .message = ما توصیه‌هایی برای کمک به شما در بهبود تمرکز، حفظ حریم خصوصی و موارد دیگر داریم.
+list-empty-get-extensions-promo-button = اولین افزونه خود را پیدا کنید
+
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.
 
@@ -549,3 +586,28 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = دستگاه
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = پوسته‌های { -brand-product-name }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = نمایش بیشتر
+aboutaddons-themes-picker-see-less = نمایش کمتر
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = فعال کردن
+aboutaddons-themes-picker-disable-button =
+    .label = غیرفعال کردن
+aboutaddons-themes-picker-install-button =
+    .label = نصب
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = به‌روزرسانی پوسته انجام نشد. اتصال اینترنت خود را بررسی و دوباره تلاش کنید.
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = استفاده از پوسته سیستمی لینوکس
