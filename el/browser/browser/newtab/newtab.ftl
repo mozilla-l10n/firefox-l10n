@@ -1068,6 +1068,9 @@ newtab-wallpaper-firefox-desert-dark = Μια αλεπού καθισμένη σ
 newtab-wallpaper-firefox-desert-light = Μια αλεπού που τρέχει σε μια ανοιχτόχρωμη έρημο
 newtab-wallpaper-firefox-hills-dark = Μια αλεπού που τρέχει πάνω από σκουρόχρωμους λόφους
 newtab-wallpaper-firefox-hills-light = Μια αλεπού που τρέχει πάνω από ανοιχτόχρωμους λόφους
+newtab-wallpaper-firefox-sitting-hill-light = Μια αλεπού καθισμένη σε ανοιχτόχρωμους λόφους
+newtab-wallpaper-firefox-sky-dark = Σκούροι μοβ λόφοι κάτω από τον νυχτερινό ουρανό
+newtab-wallpaper-firefox-sky-light = Ανοιχτόχρωμοι λόφοι κάτω από τον γαλήνιο ουρανό
 
 ## Firefox
 

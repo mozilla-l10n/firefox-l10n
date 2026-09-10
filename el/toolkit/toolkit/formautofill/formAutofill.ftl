@@ -15,6 +15,10 @@ autofill-use-payment-method-os-prompt-other = Το { -brand-short-name } προ�
 autofill-edit-payment-method-os-prompt-macos = εμφανίσει αποθηκευμένα στοιχεία μεθόδου πληρωμής
 autofill-edit-payment-method-os-prompt-windows = Το { -brand-short-name } προσπαθεί να εμφανίσει αποθηκευμένα στοιχεία μεθόδου πληρωμής. Επιβεβαιώστε παρακάτω την πρόσβαση σε αυτόν τον λογαριασμό των Windows.
 autofill-edit-payment-method-os-prompt-other = Το { -brand-short-name } προσπαθεί να εμφανίσει αποθηκευμένα στοιχεία μεθόδου πληρωμής.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = διαγράψει αποθηκευμένα στοιχεία μεθόδου πληρωμής
+autofill-delete-payment-method-os-prompt-windows = Το { -brand-short-name } προσπαθεί να διαγράψει αποθηκευμένα στοιχεία μεθόδου πληρωμής. Επιβεβαιώστε παρακάτω την πρόσβαση σε αυτόν τον λογαριασμό των Windows.
 autofill-delete-payment-method-os-prompt-other = Το { -brand-short-name } προσπαθεί να διαγράψει αποθηκευμένα στοιχεία μεθόδου πληρωμής.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Επιλογές αυτόματης συμπλήρωσης φορμών
