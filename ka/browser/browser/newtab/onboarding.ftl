@@ -559,6 +559,8 @@ onboarding-refresh-fro-import-body = თქვენი კერძო მო�
 onboarding-refresh-fro-skip-button = გამოტოვება
 onboarding-refresh-tab-layout-header = მოსინჯეთ ჩანართების სხვა განლაგება
 onboarding-refresh-tab-layout-top = ზემოთ
+onboarding-refresh-tab-layout-side = გვერდით
+onboarding-refresh-tab-layout-minimal = სადა
 
 ## Smart window switcher callout
 

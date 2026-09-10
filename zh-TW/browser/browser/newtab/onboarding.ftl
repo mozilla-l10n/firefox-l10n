@@ -550,6 +550,12 @@ onboarding-refresh-tab-layout-header = 試用不同的分頁版面
 onboarding-refresh-tab-layout-top = 置於頂端
 onboarding-refresh-tab-layout-side = 置於側邊
 onboarding-refresh-tab-layout-minimal = 極簡
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = 一個將分頁用小圖示在畫面側邊的最小化側邊欄顯示的瀏覽器視窗。
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = 一個將分頁用小圖示在畫面側邊的最小化側邊欄顯示的瀏覽器視窗。
 
 ## Smart window switcher callout
 
