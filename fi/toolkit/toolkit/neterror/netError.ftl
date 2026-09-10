@@ -39,6 +39,9 @@ neterror-disable-native-feedback-warning = Jatka aina
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Tähän sivustoon ei saada yhteyttä
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = Palvelimeen osoitteessa <strong>{ $hostname }</strong> ei saatu yhteyttä.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = Palvelimeen osoitteessa { $domain } ei saatu yhteyttä.
