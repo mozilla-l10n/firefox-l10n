@@ -32,3 +32,9 @@ autocomplete-edit-address = Upravit tuto adresu
 autocomplete-delete-address = Smazat tuto adresu
 autocomplete-edit-payment-method = Upravit tuto platební metodu
 autocomplete-delete-payment-method = Smazat tuto platební metodu
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }
