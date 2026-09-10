@@ -16,3 +16,7 @@ elevation-more-elevated =
     instalēts nākamo reizi palaižot { -brand-short-name }. Jūs varat pārstartēt
     { -brand-short-name } tagad, vai arī turpināt darbu un pārstartēt vēlāk, vai
     atteikties no šī atjauninājuma.
+sandbox-unprivileged-namespaces-dismiss-button =
+    .label = Vairs nerādīt
+    .accesskey = V
+sandbox-unprivileged-namespaces-howtofix = Kā novērst šo sarežģījumu

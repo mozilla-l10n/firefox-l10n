@@ -245,6 +245,11 @@ pdfjs-editor-signature-add-signature-button-label = Pievienot jaunu parakstu
 
 pdfjs-editor-alt-text-add-description-label = Pievienot aprakstu
 
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Uzzināt vairāk
+
 ## Add a signature dialog
 
 pdfjs-editor-add-signature-dialog-title = Pievienot parakstu
