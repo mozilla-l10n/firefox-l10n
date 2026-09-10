@@ -1014,7 +1014,7 @@ cookies-site-data-group =
 
 ## Privacy Section - Cookie Banner Blocking
 
-cookie-banner-blocker-header = Sīkdatņu paziņojumu bloķētājs
+cookie-banner-blocker-header = Sīkdatņu paziņojumu aizturētājs
 cookie-banner-blocker-description = Kad vietne jautā, vai tā var izmantot sīkdatnes privātās pārlūkošanas režīmā, { -brand-short-name } automātiski atsakās. Tikai atbalstītajās vietnēs.
 cookie-banner-learn-more = Uzzināt vairāk
 cookie-banner-blocker-checkbox-label =

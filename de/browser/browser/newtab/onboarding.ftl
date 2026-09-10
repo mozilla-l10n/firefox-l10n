@@ -541,6 +541,8 @@ onboarding-refresh-gratitude-title = { -brand-short-name } gibt dir Rückendecku
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } steht Ihnen ab sofort zur Seite
 onboarding-refresh-hero-text = Entwickelt, um Sie zu schützen – nicht, um Sie zu verfolgen.
 onboarding-refresh-tou-default = Alle Links mit { -brand-short-name } öffnen
 onboarding-refresh-tou-pin =
@@ -553,6 +555,7 @@ onboarding-refresh-tou-pin-unchecked = Den einzigen großen unabhängigen Browse
 onboarding-refresh-terms-of-use-with-links = Indem Sie fortfahren, stimmen Sie den <a data-l10n-name="terms_of_use">{ -brand-product-name }-Nutzungsbedingungen</a> und unserem <a data-l10n-name="privacy_notice">Datenschutzhinweis zu </a>. { -brand-product-name } sendet Diagnose- und Interaktionsdaten an { -vendor-short-name }, um den Browser zu verbessern.
 onboarding-refresh-data-collection-link = Einstellungen zur Datenerhebung verwalten
 onboarding-refresh-primary-button = Weiter
+onboarding-refresh-fro-import-header = Geben Sie Ihre Daten ein
 onboarding-refresh-fro-import-body = Ihre persönlichen Daten bleiben privat. { -brand-product-name } wird sie niemals verkaufen.
 onboarding-refresh-fro-skip-button = Überspringen
 onboarding-refresh-fro-theme-header = Gestalten Sie Ihren Look

@@ -58,7 +58,7 @@ protections-panel-content-blocking-fingerprinters-label = Ciparnospiedumi
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
-protections-panel-blocking-label = Bloķēts
+protections-panel-blocking-label = Aizturēts
 protections-panel-not-blocking-label = Atļauts
 protections-panel-not-found-label = Nav konstatēts
 
@@ -82,17 +82,15 @@ protections-panel-tracking-content = Vietnes var ielādēt ārējas reklāmas, v
 protections-panel-social-media-trackers = Sabiedriskie tīkli izvieto izsekotājus citās tīmekļvietnēs, lai sekotu līdzi tam, ko dari, redzi un skaties tiešsaistē. Tas ļauj sabiedrisko mediju uzņēmumiem uzzināt vairāk par Tevi — ne tikai to, ar ko dalies savos sabiedrisko mediju profilos.
 protections-panel-description-shim-allowed = Daži tālāk atzīmētie izsekotāji šajā lapā ir daļēji atbloķēti, jo jūs ar tiem mijiedarbojāties.
 protections-panel-description-shim-allowed-learn-more = Uzzināt vairāk
-protections-panel-shim-allowed-indicator =
-    .tooltiptext = Izsekotājs ir daļēji atbloķēts
 protections-panel-content-blocking-manage-settings =
     .label = Pārvaldīt aizsardzības iestatījumus
     .accesskey = P
-protections-panel-cookie-banner-blocker-header = Sīkdatņu paziņojumu bloķētājs
+protections-panel-cookie-banner-blocker-header = Sīkdatņu paziņojumu aizturētājs
 protections-panel-cookie-banner-handling-enabled = Ieslēgts šai vietnei
 protections-panel-cookie-banner-handling-disabled = Izslēgts šai vietnei
 protections-panel-cookie-banner-handling-undetected = Vietne pašlaik netiek atbalstīta
 protections-panel-cookie-banner-blocker-view-title =
-    .title = Sīkdatņu paziņojumu bloķētājs
+    .title = Sīkdatņu paziņojumu aizturētājs
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vai izslēgt sīkdatņu paziņojumu bloķētāju vietnei { $host }?

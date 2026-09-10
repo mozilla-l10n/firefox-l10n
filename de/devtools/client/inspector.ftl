@@ -20,6 +20,9 @@ colorpicker-tooltip-hue-slider-title = Farbton
 colorpicker-tooltip-alpha-slider-title = Deckkraft
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Element-spezifische Pseudoklassen
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = Ansichten-Layout
 # A label for the split orientation menu item that switches the layout
 # automatically based on the panel width.
 inspector-split-orientation-auto = Automatisch

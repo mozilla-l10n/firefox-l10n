@@ -30,7 +30,7 @@ third-party-tag-background = Fons
         Šis modulis nenobloķēja lietotni, jo tas bija ielādēts
         fonā.
 third-party-status-loaded = Ielādēts
-third-party-status-blocked = Bloķēts
+third-party-status-blocked = Liegts
 third-party-status-redirected = Novirzīts
 third-party-button-copy-to-clipboard = Kopēt neapstrādātus datus starpliktuvē
 third-party-button-reload = Pārlādēt ar sistēmas informāciju

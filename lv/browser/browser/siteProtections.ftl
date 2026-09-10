@@ -17,7 +17,7 @@ content-blocking-cookies-view-allowed-label =
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
 content-blocking-cookies-view-blocked-label =
-    .value = Bloķēts
+    .value = Liegts
 # Variables:
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
@@ -84,7 +84,7 @@ protections-footer-blocked-tracker-counter =
         [one] { $trackerCount } bloķēti
        *[other] { $trackerCount } bloķētu
     }
-    .tooltiptext = Kopš { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = Kopš { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -97,7 +97,7 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [zero] { -brand-short-name } bloķējis vairāk nekā { $trackerCount } izsekotāju kopš { DATETIME($date, year: "numeric", month: "long") }
-        [one] { -brand-short-name } bloķējis vairāk nekā { $trackerCount } izsekotājus kopš { DATETIME($date, year: "numeric", month: "long") }
-       *[other] { -brand-short-name } bloķējis vairāk nekā { $trackerCount } izsekotāju kopš { DATETIME($date, year: "numeric", month: "long") }
+        [zero] { -brand-short-name } bloķējis vairāk nekā { $trackerCount } izsekotāju kopš { DATETIME($date, month: "long", year: "numeric") }
+        [one] { -brand-short-name } bloķējis vairāk nekā { $trackerCount } izsekotājus kopš { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } bloķējis vairāk nekā { $trackerCount } izsekotāju kopš { DATETIME($date, month: "long", year: "numeric") }
     }
