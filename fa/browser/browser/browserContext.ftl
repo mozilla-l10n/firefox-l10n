@@ -47,7 +47,7 @@ toolbar-button-forward-2 =
 
 main-context-menu-reload =
     .aria-label = بارگیری مجدد
-    .accesskey = ب
+    .accesskey = م
 # This menuitem is only visible on macOS
 main-context-menu-reload-mac =
     .label = بارگیری مجدد

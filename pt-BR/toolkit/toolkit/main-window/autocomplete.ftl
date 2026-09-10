@@ -32,3 +32,7 @@ autocomplete-edit-address = Editar este endereço
 autocomplete-delete-address = Excluir este endereço
 autocomplete-edit-payment-method = Editar este método de pagamento
 autocomplete-delete-payment-method = Excluir este método de pagamento
+# aria-label and tooltip for the trash button on a form history entry.
+# Variables:
+#   $entry (String) - The text of the saved form history entry that would be deleted.
+autocomplete-delete-form-history-entry2 = Excluir { $entry } do histórico de formulários
