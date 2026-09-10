@@ -1073,6 +1073,14 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
+## Firefox wallpaper descriptions used for screen readers
+
+newtab-wallpaper-firefox-orange = Azeria eskuineko ertzean atzeko plano laranja batean
+newtab-wallpaper-firefox-desert-dark = Azeria desertu ilun batean eserita
+newtab-wallpaper-firefox-desert-light = Azeria desertu argi batean zehar korrika
+newtab-wallpaper-firefox-hills-dark = Azeria muino ilun batzuen gainetik korrika
+newtab-wallpaper-firefox-hills-light = Azeria muino argi batzuen gainetik korrika
+
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }

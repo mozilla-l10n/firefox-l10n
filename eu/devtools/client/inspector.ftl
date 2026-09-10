@@ -20,6 +20,17 @@ colorpicker-tooltip-hue-slider-title = Ñabardura
 colorpicker-tooltip-alpha-slider-title = Opakutasuna
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Elementuaren araberako pseudo-klasea
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = Panelaren diseinua
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Automatikoa
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Alboz albo
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = Pilatuta
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Txandakatu kolore-eskema argiaren emulazioa orriarentzat

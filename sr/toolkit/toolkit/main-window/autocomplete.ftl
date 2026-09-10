@@ -22,3 +22,13 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Сазнајте више
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-edit-password = Измени ову лозинку
+autocomplete-delete-password = Обриши ову лозинку
+autocomplete-edit-address = Измени ову адресу
+autocomplete-delete-address = Обриши ову адресу
+autocomplete-edit-payment-method = Изменити овај начин плаћања?
+autocomplete-delete-payment-method = Обрисати овај начин плаћања?

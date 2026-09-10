@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 containers-window-new2 =
-    .title = Додавање контејнера
     .style = min-width: 45em
+    .title = Додавање контејнера
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings2 =
-    .title = Подешавања контејнера „{ $name }”
     .style = min-width: 45em
+    .title = Подешавања контејнера „{ $name }”
 containers-window-close =
     .key = w
 containers-name-label2 =
@@ -19,6 +19,9 @@ containers-icon-label2 =
     .label = Иконица
 containers-color-label2 =
     .label = Боја
+containers-dialog2 =
+    .buttonlabelaccept = Сачувај
+    .buttonaccesskeyaccept = С
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,16 +33,16 @@ containers-color-label2 =
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
 containers-name-label = Назив
-    .accesskey = Н
     .style = { -containers-labels-style }
+    .accesskey = Н
 containers-name-text =
     .placeholder = Унесите назив контејнера
 containers-icon-label = Икона
+    .style = { -containers-labels-style }
     .accesskey = И
-    .style = { -containers-labels-style }
 containers-color-label = Боја
-    .accesskey = Б
     .style = { -containers-labels-style }
+    .accesskey = Б
 containers-dialog =
     .buttonlabelaccept = Готово
     .buttonaccesskeyaccept = Г
@@ -90,13 +93,32 @@ containers-icon-tree =
 containers-icon-chill =
     .label = Опуштено
 containers-window-new3 =
-    .title = Додај нови контејнер
     .style = min-width: 45em
+    .title = Додај нови контејнер
 # Variables
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
-    .title = Подешавања контејнера { $name }
     .style = min-width: 45em
+    .title = Подешавања контејнера { $name }
+
+## Dialog that binds a website to a container.
+
+containers-site-window =
+    .title = Додавање веб странице
+containers-site-label =
+    .label = Веб страница
+    .placeholder = primer.rs
+containers-site-container-label =
+    .label = Контејнер
+containers-site-dialog =
+    .buttonlabelaccept = Сачувај
+    .buttonaccesskeyaccept = с
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = Унеси исправну и безбедну веб страницу
+# Shown below the website field when the typed website is already bound to a
+# container.
+containers-site-duplicate-error = Ова веб страница је већ на вашем списку
 
 ## Container creation panel, anchored to the URL bar.
 
