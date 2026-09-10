@@ -1061,6 +1061,16 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
+## Firefox wallpaper descriptions used for screen readers
+
+newtab-wallpaper-firefox-orange = שועל בקצה הימני על רקע כתום
+newtab-wallpaper-firefox-colorful-sky = גלים כתומים על פני שמי לילה סגולים
+newtab-wallpaper-firefox-desert-dark = שועל יושב במדבר סגול כהה
+newtab-wallpaper-firefox-desert-light = שועל רץ על פני מדבר בהיר
+newtab-wallpaper-firefox-hills-dark = שועל רץ על גבעות חשוכות
+newtab-wallpaper-firefox-hills-light = שועל רץ על גבעות בהירות
+newtab-wallpaper-firefox-tail-dark = זנב של שועל על רקע כהה
+
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
