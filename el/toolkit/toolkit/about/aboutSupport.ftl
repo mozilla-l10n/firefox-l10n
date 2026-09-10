@@ -140,6 +140,13 @@ a11y-instantiator = Ενεργοποιητής προσβασιμότητας
 pdfjs-title = Προβολή PDF
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = Έκδοση PDF.js
+pdfjs-enabled = Ενεργό
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Ενεργοποιήθηκε η επεξεργασία σχολίων
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Ενεργοποιημένες φόρμες XFA
+pdfjs-open-attachments-inline = Άνοιγμα συνημμένων εντός PDF
 library-version-title = Εκδόσεις βιβλιοθήκης
 copy-text-to-clipboard-label = Αντιγραφή κειμένου στο πρόχειρο
 copy-raw-data-to-clipboard-label = Αντιγραφή ακατέργαστων δεδομένων στο πρόχειρο

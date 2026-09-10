@@ -540,12 +540,18 @@ onboarding-refresh-gratitude-title = Το { -brand-short-name } στο πλευ�
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = Από εδώ και στο εξής, το { -brand-product-name } είναι στο πλευρό σας
+onboarding-refresh-hero-text = Σχεδιασμένο για να σας προστατεύει, όχι για να σας καταγράφει.
 onboarding-refresh-tou-default = Άνοιγμα όλων των συνδέσμων με το { -brand-short-name }
 onboarding-refresh-tou-pin =
     { PLATFORM() ->
         [macos] Διατήρηση του { -brand-short-name } στο Dock
        *[other] Προσθήκη του { -brand-short-name } στη γραμμή εργασιών
     }
+onboarding-refresh-tou-default-unchecked = Διατηρήστε την ενσωματωμένη προστασία σε κάθε περιήγηση
+onboarding-refresh-tou-pin-unchecked = Κρατήστε κοντά σας το μοναδικό μεγάλο ανεξάρτητο πρόγραμμα περιήγησης
+onboarding-refresh-terms-of-use-with-links = Συνεχίζοντας, αποδέχεστε τους <a data-l10n-name="terms_of_use">Όρους χρήσης του { -brand-product-name }</a> και τη <a data-l10n-name="privacy_notice">Δήλωση απορρήτου</a> μας. Για τη βελτίωση του προγράμματος περιήγησης, το { -brand-product-name } στέλνει διαγνωστικά δεδομένα και δεδομένα αλληλεπίδρασης στη { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Διαχείριση ρυθμίσεων συλλογής δεδομένων
 onboarding-refresh-primary-button = Συνέχεια
 onboarding-refresh-fro-import-header = Εισαγάγετε τα δεδομένα σας

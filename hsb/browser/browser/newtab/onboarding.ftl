@@ -543,6 +543,7 @@ onboarding-refresh-gratitude-title = { -brand-short-name } za wami steji
 
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-splash-screen-title = { -brand-product-name } za wami steji, wotnětka
+onboarding-refresh-hero-text = Wuwity, zo by was škitał, nic přesćěhował.
 onboarding-refresh-tou-default = Wšě wotkazy z { -brand-short-name } wočinić
 onboarding-refresh-tou-pin =
     { PLATFORM() ->

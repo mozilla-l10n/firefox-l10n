@@ -18,6 +18,7 @@ about-config-page-title = Papildu iestatījumi
 about-config-search-input1 =
     .placeholder = Meklēt iestatījuma nosaukumu
 about-config-show-all = Parādīt visus
+about-config-show-only-modified = Rādīt tikai izmainītos iestatījumus
 about-config-pref-add-button =
     .title = Pievienot
 about-config-pref-toggle-button =

@@ -238,6 +238,10 @@ settings-tabs-show-image-in-preview =
     .accessKey = d
 browser-layout-header2 =
     .label = Pārlūka izkārtojums
+browser-layout-horizontal-tabs2 =
+    .description = Cilnes augšpusē
+    .label = Līmeniskas cilnes
+    .title = Cilnes augšpusē
 
 ## General Section - Language & Appearance
 

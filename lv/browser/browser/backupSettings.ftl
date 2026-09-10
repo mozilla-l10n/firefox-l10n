@@ -26,3 +26,7 @@ turn-off-scheduled-backups-support-link = Uzzināt vairāk
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 
 enable-backup-encryption-support-link = Uzzināt vairāk
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-disclaimer = Esi drošībā — neizmanto paroles atkāŗtoti! Vairāk padomu <a data-l10n-name="password-support-link">spēcīgu paroļu izveidei</a>.

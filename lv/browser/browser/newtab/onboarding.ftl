@@ -299,6 +299,11 @@ onboarding-new-user-survey-familiarity-based-option-2 = Esmu to izmantojis
 onboarding-new-user-survey-familiarity-based-option-3 = Esmu ar to ļoti pazīstams
 onboarding-new-user-survey-familiarity-based-option-4 = Esmu to izmantojis, bet tas bija sen
 
+## UI strings for the sidebar and vertical tabs
+
+# Text underneath an image used for selecting browser tabs to appear at the top of the browser.
+onboarding-existing-horizontal-tabs-label = Paturēt līmeniskas cilnes
+
 ## New user onboarding checklist
 
 onboarding-checklist-extension = Pievienot paplašinājumu
