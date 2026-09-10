@@ -538,6 +538,11 @@ onboarding-refresh-gratitude-subtitle = Takk for at du bruker { -brand-short-nam
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } passer på deg
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-primary-button = Fortsett
+onboarding-refresh-fro-skip-button = Hopp over
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Bytt mellom smarte og klassiske vinduer når som helst.
