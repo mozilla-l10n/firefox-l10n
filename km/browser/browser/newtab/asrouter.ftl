@@ -248,6 +248,7 @@ etp-strict-exceptions-infobar-not-now = មិន​មែន​ឥឡូវ
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = វា​ហាក់បីដូចជា​អ្នក​មិនទាន់​បាន​ចាប់ផ្ដើម { -brand-short-name } នៅឡើយ។ តើ​អ្នក​ចង់​សម្អាត​វា​ឲ្យ​ស្រស់​ដូចជា​កម្មវិធី​ថ្មី​ឬ? ទោះ​យ៉ាងណា​សូមស្វាគមន៍​ការ​ត្រឡប់​មកវិញ!
 refresh-reinstalled-profile-infobar-message = អ្នក​ដូច​ជា​បាន​ដំឡើង { -brand-short-name } ឡើង​វិញ។ តើ​អ្នក​ចង់​ឲ្យ​យើង​សំអាត​វា​សម្រាប់​បទពិសោធន៍​ថ្មី​ស្រឡាង​ដែរ​ឬ​ទេ?
 refresh-profile-infobar-button = ចាប់ផ្ដើម { -brand-short-name } ឡើងវិញ…
     .accesskey = ច
