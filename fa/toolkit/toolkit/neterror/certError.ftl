@@ -152,7 +152,6 @@ cert-error-bad-signature = ‏{ -brand-short-name } دسترسی به این س�
 cert-error-key-pinning-failure = ‏{ -brand-short-name } دسترسی به این سایت را مسدود کرد زیرا گواهی ارائه‌شده برای { $hostname } از کلید عمومی متفاوتی با آنچه انتظار می‌رفت استفاده می‌کند.
 cert-error-bad-der = ‏{ -brand-short-name } دسترسی به این سایت را مسدود کرد زیرا گواهی ارائه‌شده برای { $hostname } کدگذاری درستی ندارد (خطای DER).
 cert-error-cert-not-in-name-space = ‏{ -brand-short-name } دسترسی به این سایت را مسدود کرد زیرا گواهی ارائه‌شده برای { $hostname } محدودیت‌های نام (Name Constraints) تعیین‌شده توسط گواهی صادرکننده را رعایت نکرده است.
-cert-error-inadequate-cert-type = ‏{ -brand-short-name } دسترسی به این سایت را مسدود کرد زیرا این نوع گواهی اجازهٔ استفاده توسط یک وب‌سرور را ندارد.
 cert-error-path-len-constraint-invalid = ‏{ -brand-short-name } دسترسی به این سایت را مسدود کرد زیرا گواهی ارائه‌شده برای { $hostname } دارای تعداد بیش از حد مجاز گواهی‌های میانی تا گواهی ریشه (Root) است.
 cert-error-invalid-key = ‏{ -brand-short-name } دسترسی به این سایت را مسدود کرد زیرا گواهی ارائه‌شده برای { $hostname } کلید نامعتبر دارد؛ به احتمال زیاد طول کلید برای امنیت کافی بسیار کوتاه است.
 cert-error-unknown-critical-extension = ‏{ -brand-short-name } دسترسی به این سایت را مسدود کرد زیرا گواهی ارائه‌شده برای { $hostname } حاوی یک Critical Extension پشتیبانی‌نشده است.

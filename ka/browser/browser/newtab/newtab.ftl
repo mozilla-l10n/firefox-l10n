@@ -481,6 +481,24 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = ბოლოს მოძიებულის პარამეტრები
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = ვრცლად
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = ბოლოს მოძიებული
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = ხშირად ნანახი
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = ახლახან
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = მოცილდეს „{ $search }“ ბოლოს მოძიებულებიდან
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = ბოლოს მოძიებულები გამოჩნდება აქ, ასე რომ, ნებისმიერ დროს შეგეძლებათ შეარჩიოთ დასაბრუნებლად.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = ხშირად მოძიებულები ამჟამად არაა ხელმისაწვდომი.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

@@ -876,12 +876,7 @@ newtab-wallpaper-your-images-folder =
 # someone added themselves is numbered instead, see the string below.
 # Variables:
 #   $name (string) - The picture's own title, or the Firefox wallpaper's name
-newtab-wallpaper-your-images-item = (Назив):
-# Read by screen readers for an image someone added themselves. Firefox counts
-# these as they are saved rather than keeping the name of their file.
-# Variables:
-#   $number (number) - Which saved image this is, counting from one
-newtab-wallpaper-your-images-item-numbered = Тренутни број слике
+newtab-wallpaper-your-images-item = { $name }
 # Each saved image has its own remove button. The tooltip stays short because
 # a name can be long and some locales put it before the verb, which would push
 # "remove" out of view. The full name is on the label a screen reader reads.

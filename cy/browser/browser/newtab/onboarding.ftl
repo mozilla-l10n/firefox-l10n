@@ -552,7 +552,7 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = Cadw diogelwch cynhenid bob tro byddwch chi'n pori
 onboarding-refresh-tou-pin-unchecked = Cadw'r unig brif borwr annibynnol un clic i ffwrdd
-onboarding-refresh-terms-of-use-with-links = Drwy barhau, rydych yn cytuno i Amodau Defnydd { -brand-product-name } a'n Hysbysiad Preifatrwydd. Er mwyn helpu i wella'r porwr, mae { -brand-product-name } yn anfon data diagnostig a rhyngweithio at { -vendor-short-name }.
+onboarding-refresh-terms-of-use-with-links = Drwy barhau, rydych yn cytuno i <a data-l10n-name="terms_of_use">Amodau Defnydd { -brand-product-name }</a> a'n <a data-l10n-name="privacy_notice">Hysbysiad Preifatrwydd</a>. Er mwyn helpu i wella'r porwr, mae { -brand-product-name } yn anfon data diagnostig a rhyngweithio at { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Rheoli gosodiadau casglu data
 onboarding-refresh-primary-button = Parhau
 onboarding-refresh-fro-import-header = Dewch â'ch data i mewn
