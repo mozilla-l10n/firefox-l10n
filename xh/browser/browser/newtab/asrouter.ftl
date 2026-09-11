@@ -168,6 +168,7 @@
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Kukhangeleka ngathi akukhange uyiqalise { -brand-short-name } kangangexesha elithile. Ingaba ufuna ukuyicoca ukuze ufumane amava afreshi namatsha? Singakhange silibale, siyakwamkela kwakhona!
 refresh-reinstalled-profile-infobar-message = Kukhangelea ngathi uphinde wafaka i-{ -brand-short-name }. Ufuna sikucocele ukuze ibe nembonakalo efreshi, engathi intsha?
 refresh-profile-infobar-button = Seta kwakhona { -brand-short-name }…
     .accesskey = e
