@@ -544,6 +544,30 @@ onboarding-refresh-gratitude-title = Számíthat a { -brand-short-name } böngé
 onboarding-refresh-splash-screen-title = Mostantól számíthat a { -brand-product-name } támogatására
 onboarding-refresh-hero-text = Az Ön védelmére készült, nem a követésére.
 onboarding-refresh-tou-default = Nyissa meg az összes hivatkozást a { -brand-short-name } böngészővel
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Tartsa a { -brand-short-name }ot a Dockban
+       *[other] Adja a { -brand-short-name }ot a tálcához
+    }
+onboarding-refresh-tou-default-unchecked = Tartsa meg a beépített védelmet minden böngészés során
+onboarding-refresh-tou-pin-unchecked = Tartsa egy kattintásnyira az egyetlen jelentős független böngészőt
+onboarding-refresh-terms-of-use-with-links = A folytatással elfogadja a <a data-l10n-name="terms_of_use">{ -brand-product-name } felhasználási feltételeit</a> és az <a data-l10n-name="privacy_notice">Adatvédelmi nyilatkozatunkat </a>. A böngésző fejlesztése érdekében a { -brand-product-name } diagnosztikai és használati adatokat küld a { -vendor-short-name } részére.
+onboarding-refresh-data-collection-link = Adatgyűjtési beállítások módosítása
+onboarding-refresh-primary-button = Folytatás
+onboarding-refresh-fro-import-header = Importálja adatait
+onboarding-refresh-fro-import-body = A személyes adatai személyesek maradnak. A { -brand-product-name } sosem adja el azokat.
+onboarding-refresh-fro-skip-button = Kihagyás
+onboarding-refresh-fro-theme-header = Játsszon a megjelenésével
+onboarding-refresh-tab-layout-header = Próbáljon ki egy másik lapelrendezést
+onboarding-refresh-tab-layout-top = Felül
+onboarding-refresh-tab-layout-side = Oldalt
+onboarding-refresh-tab-layout-minimal = Minimális
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Böngészőablak, amelyben a lapok kis ikonokként jelennek meg a képernyő szélén, egy összecsukott oldalsávon.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Böngészőablak, amelyben a lapok kis ikonokként jelennek meg a képernyő szélén, egy összecsukott oldalsávon.
 
 ## Smart window switcher callout
 
