@@ -50,6 +50,22 @@ about-networking-ssl-tokens-token-list =
         [one] { $count } token
        *[other] { $count } tokens
     }
+about-networking-ssl-tokens-restored =
+    .alt = Restaurado desde el almacenamiento
+    .title = Restaurado desde el almacenamiento
+about-networking-ssl-tokens-new =
+    .alt = Nuevo en esta sesión
+    .title = Nuevo en esta sesión
+about-networking-ssl-tokens-expired =
+    .alt = Expirado
+    .title = Expirado
+# $tokenLength (Number) - Total size in bytes of the raw TLS resumption token(s)
+# $decompressedLength (Number) - Total size in bytes before compression
+# $compressedLength (Number) - Total size in bytes after compression
+about-networking-ssl-tokens-compression-details =
+    .title = Tokens: { $tokenLength } B. Codificados: { $decompressedLength } → { $compressedLength } B.
+about-networking-ssl-tokens-ev-status = Certificado EV
+about-networking-ssl-tokens-ct-status = Estado de transparencia del certificado
 about-networking-refresh = Refrescar
 about-networking-auto-refresh = Refrescar automáticamente cada 3 segundos
 about-networking-hostname = Nombre del servidor
