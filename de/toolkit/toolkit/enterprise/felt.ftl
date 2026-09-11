@@ -8,8 +8,8 @@
 felt-window-title = { -brand-short-name } – Anmeldung
 felt-sso-title = Anmelden
 felt-sso-input-email =
-    .label = E-Mail-Adresse dienstlich
     .description = Die E-Mail-Adresse Ihrer Organisation verwenden
+    .label = E-Mail-Adresse dienstlich
 felt-sso-continue-btn =
     .label = Weiter
 felt-pending-action-notification = Bitte warten Sie, während { -brand-short-name } gestartet wird…
@@ -100,3 +100,21 @@ felt-warning-title-download-attempt-failed =
     .heading = Update konnte nicht heruntergeladen werden
 felt-error-warning-download-attempt-failed-contact-admin = Das neueste Update konnte nicht heruntergeladen werden. Sollte das Problem weiterhin auftreten, wenden Sie sich an Ihren Administrator.
 felt-back-button = Zurück zur Anmeldung
+
+## Console setup dialog, shown before anything else on generic builds where no
+## enterprise console address has been configured yet.
+
+felt-console-setup-window-title = { -brand-short-name } — Einrichtung
+felt-console-setup-title = Erste Schritte
+felt-console-setup-description = Geben Sie die Adresse der Verwaltungskonsole Ihrer Organisation ein. Sie erhalten diese von Ihrem Administrator.
+felt-console-setup-input =
+    .label = Adresse der Konsole
+    .placeholder = https://console.example.com
+felt-console-setup-invalid-address =
+    .message = Geben Sie eine gültige Adresse ein, z.&thinsp;B. https://console.example.com
+felt-console-setup-save-failed =
+    .message = Die Adresse konnte nicht gespeichert werden. Versuchen Sie es bitte erneut, oder wenden Sie sich an Ihren Administrator, falls das Problem weiterhin besteht.
+felt-console-setup-save-btn =
+    .label = Speichern und neu starten
+felt-console-setup-quit-btn =
+    .label = Beenden
