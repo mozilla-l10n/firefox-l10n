@@ -265,6 +265,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webgune
         }
     .label = Kudeatu webgunearen ezarpenak
+ip-protection-site-rules-header =
+    .heading = Kudeatu webguneen arauak
 ip-protection-autostart =
     .label = Aktibatu VPNa automatikoki
 ip-protection-autostart-checkbox =

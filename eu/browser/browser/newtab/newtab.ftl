@@ -481,6 +481,28 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Azken bilaketen aukerak
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Argibide gehiago
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Azken bilaketak
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Joerak
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = { $engine } bidez
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Oraintxe bertan
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Kendu "{ $search }" azken bilaketetatik
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Azken bilaketak hemen agertuko dira hauek edonoiz berrerabiltzeko modua izan dezazun.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Bilaketa-joerak ez daude erabilgarri oraintxe bertan.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
