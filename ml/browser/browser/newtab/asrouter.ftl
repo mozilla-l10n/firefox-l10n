@@ -341,6 +341,7 @@ set-default-menu-message-primary-button-variant = പ്രാഥമിക അ�
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = നിങ്ങള്‍ ഇതു് വരെ { -brand-short-name } ആരംഭിച്ചിട്ടില്ല. നിങ്ങള്‍ക്കു് ഇതു് വെടിപ്പാക്കി പുതുക്കണമോ?
 refresh-reinstalled-profile-infobar-message = നിങ്ങൾ { -brand-short-name } വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്തതായി തോന്നുന്നു. ഉന്‍മേഷഭരിതമായ ഒരു പുതിയ അനുഭവത്തിനായി ഇത് വൃത്തിയാക്കണോ?
 refresh-profile-infobar-button = { -brand-short-name } പുതുക്കുക…
     .accesskey = e
