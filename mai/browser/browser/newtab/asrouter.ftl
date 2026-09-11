@@ -168,5 +168,6 @@
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = एहिना लागैत अछि जे अहाँ हाले मे { -brand-short-name } आरंभ नहि कयलहुँ हन. की अहाँ एकार ताजा साफ करबाक लेल चाहैछी , नव अनुभवक तरह? अहाँक स्वागत अछि!
 refresh-profile-infobar-button = ताजा करू { -brand-short-name }…
     .accesskey = e
