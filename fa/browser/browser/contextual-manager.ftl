@@ -18,6 +18,7 @@ contextual-manager-passwords-command-import-from-browser = درون‌ریزی �
 contextual-manager-passwords-command-import = درون‌ریزی از یک پرونده…
 contextual-manager-passwords-command-export = برون‌ریزی گذرواژه‌ها
 contextual-manager-passwords-command-remove-all = حذف همهٔ گذرواژه‌ها
+contextual-manager-passwords-command-options = گزینه‌ها
 contextual-manager-passwords-command-help = راهنما
 contextual-manager-passwords-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to export a password in about:logins on Windows.
@@ -60,6 +61,12 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = گذرواژه‌ها درون‌ریزی شد
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = جدید: { $added }، به‌روزرسانی‌شده: { $modified }، موارد تکراری: { $no_change }، خطاها: { $error }
 contextual-manager-passwords-import-detailed-report = مشاهده ریز گزارش
 contextual-manager-passwords-import-success-button = انجام شد
 contextual-manager-passwords-import-error-heading-and-message =
@@ -150,6 +157,8 @@ contextual-manager-passwords-password-already-exists-error-button = رفتن ب�
 contextual-manager-passwords-update-password-success-heading =
     .heading = گذرواژه ذخیره شد
 contextual-manager-passwords-update-password-success-button = انجام شد
+contextual-manager-passwords-update-username-success-heading-3 =
+    .heading = نام کاربری ذخیره شد
 # Message to confirm successful removal of a password/passwords.
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-delete-password-success-heading =
@@ -196,11 +205,14 @@ contextual-manager-passwords-no-username-heading-and-message =
     .heading = افزودن نام کاربری
     .message = برای ورود سریع‌تر، یک نام کاربری درج کنید.
 contextual-manager-passwords-add-username-button = افزودن نام کاربری
+contextual-manager-passwords-title = رمزهای عبور
 
 ## Login Form
 
 contextual-manager-passwords-create-label =
     .label = افزودن گذرواژه
+contextual-manager-passwords-update-label =
+    .label = به‌روزرسانی رمز عبور
 contextual-manager-passwords-remove-label =
     .title = حذف گذرواژه
 contextual-manager-passwords-origin-field =
@@ -212,13 +224,17 @@ contextual-manager-passwords-username-field =
 contextual-manager-passwords-username-field-description = نام‌کاربری، نشانی رایانامه یا شماره حساب کاربری که برای ورود استفاده می‌کنید را وارد کنید.
 contextual-manager-passwords-password-field =
     .label = گذرواژه
+contextual-manager-passwords-password-field-description = رمز عبور را برای ورود به این حساب وارد کنید.
 contextual-manager-passwords-origin-tooltip = نشانی دقیق مکانی را که در آن به این وبگاه وارد می‌شوید، وارد کنید.
 contextual-manager-passwords-username-tooltip = نام‌کاربری، نشانی رایانامه یا شماره حساب کاربری که برای ورود استفاده می‌کنید را وارد کنید.
+contextual-manager-passwords-password-tooltip-2 = رمز عبور را برای ورود به این حساب وارد کنید.
 
 ## Password Card
 
 contextual-manager-passwords-list-label =
     .aria-label = گذرواژه‌ها
+contextual-manager-website-icon =
+    .alt = آیکون وب‌سایت
 contextual-manager-copy-icon =
     .alt = رونوشت
 contextual-manager-check-icon-username =
@@ -227,8 +243,55 @@ contextual-manager-check-icon-password =
     .alt = رونوشت شد
 contextual-manager-alert-icon =
     .alt = هشدار
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line =
+    .aria-label = بازدید از { $url }
+    .title = بازدید از { $url }
+# "(Warning)" indicates that a login's origin field has an alert icon.
+# Variables
+#   $url (string) - The url associated with the login
+contextual-manager-origin-login-line-with-alert =
+    .aria-label = بازدید از { $url } (هشدار)
+    .title = بازدید از { $url } (هشدار)
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line =
+    .aria-label = کپی کردن نام کاربری { $username }
+    .title = کپی کردن نام کاربری { $username }
+# "(Warning)" indicates that a login's username field has an alert icon.
+# Variables
+#   $username (string) - The username associated with the login
+contextual-manager-username-login-line-with-alert =
+    .aria-label = کپی کردن نام کاربری { $username } (هشدار)
+    .title = کپی کردن نام کاربری { $username } (هشدار)
+contextual-manager-password-login-line =
+    .aria-label = کپی کردن رمز عبور
+    .title = کپی کردن رمز عبور
+# "(Warning)" indicates that a login's password field has an alert icon.
+contextual-manager-password-login-line-with-alert =
+    .aria-label = کپی کردن رمز عبور (هشدار)
+    .title = کپی کردن رمز عبور (هشدار)
 contextual-manager-edit-login-button = ویرایش
     .tooltiptext = ویرایش گذرواژه
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] مشاهده هشدار
+            [one] مشاهده هشدار
+           *[other] مشاهده هشدارها
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] بازبینی هشدار
+            [one] بازبینی هشدار
+           *[other] بازبینی هشدارها
+        }
 contextual-manager-show-password-button =
     .aria-label = نمایش گذرواژه
     .title = نمایش گذرواژه
@@ -238,6 +301,20 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = هیچ گذرواژه‌ای یافت نشد
+contextual-manager-passwords-no-passwords-found-message-2 = با عبارت دیگری دوباره جستجو کنید.
+
+## When the user has no saved passwords, we display the following messages to inform the user they can save
+## their passwords safely and securely in Firefox:
+
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = همهٔ گذرواژه‌ها رمزنگاری می‌شوند و در صورت افشای اطلاعات و بروز خطر، شما را باخبر خواهیم کرد.
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = برای شروع آنها را اینجا اضافه کنید.
+# This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
+contextual-manager-passwords-add-manually = به صورت دستی اضافه کنید
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = گذرواژه‌های خود را در جایی امن ذخیره کنید
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.

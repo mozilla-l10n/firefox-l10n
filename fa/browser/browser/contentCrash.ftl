@@ -24,6 +24,20 @@ pending-crash-reports-send =
     .label = ارسال
 pending-crash-reports-always-send =
     .label = همیشه ارسال شود
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] شما یک گزارش خرابی ارسال‌نشده مربوط به خرابی‌های در دست بررسی دارید؛ فرستادن آن به بهبود { -brand-product-name } کمک خواهد کرد. بستن این اعلان، این گزارش را نادیده می‌گیرد.
+       *[other] شما { $reportCount } گزارش خرابی ارسال‌نشده مربوط به خرابی‌های در دست بررسی دارید؛ فرستادن آن‌ها به بهبود { -brand-product-name } کمک خواهد کرد. بستن این اعلان، این گزارش‌ها را نادیده می‌گیرد.
+    }
 requested-crash-reports-dont-show-again =
     .label = دیگر این را نمایش نده
     .accesskey = ن
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] شما یک گزارش خرابی ارسال‌نشدهٔ اخیر دارید
+       *[other] شما { $reportCount } گزارش خرابی ارسال‌نشدهٔ اخیر دارید
+    }
