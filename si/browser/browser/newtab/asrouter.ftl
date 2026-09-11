@@ -181,6 +181,9 @@ fox-doodle-pin-secondary = දැන් නොවේ
 set-default-pdf-handler-headline = <strong>ඔබගේ පීඩීඑෆ් දැන් { -brand-short-name } හි විවෘත වේ.</strong>සෘජුව අතිරික්සුවෙන් ආකෘතිපත්‍ සංස්කරණයට හෝ අත්සන් තැබීමට හැකිය. වෙනස් කිරීමට, සැකසුම් තුළ "පීඩීඑෆ්" සොයාගන්න.
 set-default-pdf-handler-primary = තේරුණා
 
+## PDF Annotations strings
+
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = අනාගතයේදී අළුත් උපාංගයක්?
@@ -219,10 +222,26 @@ launch-on-login-infobar-final-message = <strong>ඔබගේ පරිගණක�
 launch-on-login-infobar-final-reject-button = එපා, ස්තුතියි
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-primary-button = { -brand-short-name } සමඟ මාගේ සබැඳි අරින්න
 tail-fox-spotlight-secondary-button = දැන් නොවේ
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -230,9 +249,74 @@ root-certificate-succession-infobar-primary-button =
     .label = යාවත්කාල කරන්න
     .accesskey = U
 
+## Root Certificate Succession Windows Background Notification
+
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
     .aria-label = වසන්න
     .title = වසන්න
 fxa-menu-message-mobile-primary-text = ඔබගේ දුරකථනයට පටිති යවන්න
+
+## Multi-CTA Fox Doodle Spotlight
+
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+
+## Windows 10 EoS Global Infobar
+
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+
+## 'Set to default' messaging displayed within the App menu
+
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-profile-infobar-button = { -brand-short-name } නැවුම් කරන්න…
+    .accesskey = e
