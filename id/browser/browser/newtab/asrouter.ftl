@@ -393,5 +393,6 @@ etp-strict-exceptions-infobar-not-now = Jangan sekarang
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-reinstalled-profile-infobar-message = Sepertinya Anda telah memasang ulang { -brand-short-name }. Ingin kami membersihkannya untuk pengalaman yang segar, seperti baru?
 refresh-profile-infobar-button = Segarkan { -brand-short-name }…
     .accesskey = S
