@@ -538,6 +538,13 @@ onboarding-refresh-gratitude-subtitle = Köszönjük, hogy a { -brand-short-name
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = Számíthat a { -brand-short-name } böngészőre
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = Mostantól számíthat a { -brand-product-name } támogatására
+onboarding-refresh-hero-text = Az Ön védelmére készült, nem a követésére.
+onboarding-refresh-tou-default = Nyissa meg az összes hivatkozást a { -brand-short-name } böngészővel
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Váltson bármikor az intelligens és a klasszikus ablakok között.

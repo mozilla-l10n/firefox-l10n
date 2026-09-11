@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Próbálja ki a { -brand-product-name } beépített 
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Rejtse el a tartózkodási helyét</a> böngészés közben a { -brand-product-name }ban.
 unauthenticated-private-location-message = Segít, hogy <a data-l10n-name="learn-more-vpn">bizalmas maradjon a tartózkodási helye</a> a { -brand-product-name }ban.
 unauthenticated-choose-location-message-1 = Válasszon több hely közül, vagy hagyja, hogy a { -brand-product-name } válassza ki a leggyorsabbat.
+unauthenticated-site-rules-message = Állítsa be, mely webhelyek használják a VPN-t, és melyek ne.
 unauthenticated-get-started = Kezdő lépések
 unauthenticated-terms-of-service-privacy-notice = A folytatással elfogadja a <a data-l10n-name="vpn-terms-of-service">Szolgáltatási feltételeket</a> és az <a data-l10n-name="vpn-privacy-notice">Adatvédelmi nyilatkozatot</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = A VPN ki van kapcsolva ezen a webhelyen
     .label = VPN használata ezen a webhelyen
 site-exclusion-toggle-description = Nem működik a webhely? Próbálja meg kikapcsolni a VPN-t.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = VPN-szabályok kezelése
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Saját szabály
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = A VPN ki van kapcsolva ezen a webhelyen
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = A VPN be van kapcsolva ezen a webhelyen
 ipprotection-settings-link =
     .label = Beállítások
 
@@ -256,6 +265,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webhely
         }
     .label = Webhely beállításainak kezelése
+ip-protection-site-rules-header =
+    .heading = Webhely szabályainak kezelése
+ip-protection-site-rules-button =
+    .description = Állítson be szabályokat azokhoz a webhelyekhez, amelyeknek fokozott adatvédelmet kell biztosítaniuk, vagy ki kell kapcsolni a VPN-t.
+    .label = Webhely szabályainak kezelése
 ip-protection-autostart =
     .label = VPN automatikus bekapcsolása
 ip-protection-autostart-checkbox =

@@ -971,6 +971,11 @@ newtab-wallpaper-firefox-tail-light = La cola de un zorro sobre un fondo claro
 newtab-wallpaper-firefox-side-kit-dark = Un zorro en el lado izquierdo, sobre un fondo oscuro
 newtab-wallpaper-firefox-side-kit-light = Un zorro en el lado izquierdo, sobre un fondo claro
 newtab-wallpaper-firefox-sitting-hill-dark = Un zorro sentado en colinas de color púrpura oscuro
+newtab-wallpaper-firefox-sitting-hill-light = Un zorro sentado en colinas claras
+newtab-wallpaper-firefox-peak-dark = La cara de un zorro en el borde izquierdo, sobre un fondo oscuro
+newtab-wallpaper-firefox-peak-light = La cara de un zorro en el borde izquierdo, sobre un fondo claro
+newtab-wallpaper-firefox-sky-dark = Colinas de color púrpura oscuro bajo un cielo nocturno
+newtab-wallpaper-firefox-sky-light = Colinas de color claro bajo un cielo tenue
 
 ## Firefox
 

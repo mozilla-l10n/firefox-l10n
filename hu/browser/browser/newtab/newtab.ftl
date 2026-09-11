@@ -961,6 +961,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Egy róka a jobb szélen, narancssárga háttérrel
+newtab-wallpaper-firefox-colorful-sky = Narancssárga hullámok a lila éjszakai égbolton
+newtab-wallpaper-firefox-desert-dark = Egy róka ül egy sötét lila sivatagban
+newtab-wallpaper-firefox-desert-light = Egy róka szalad át a világos sivatagban
+newtab-wallpaper-firefox-hills-dark = Egy róka a sötét dombokon fut át
+newtab-wallpaper-firefox-hills-light = Egy róka szalad át a világos dombokon
+newtab-wallpaper-firefox-tail-dark = Egy rókafarok a sötét háttér előtt
+newtab-wallpaper-firefox-tail-light = Egy rókafarok a világos háttér előtt
+newtab-wallpaper-firefox-side-kit-dark = Egy róka a bal oldalon, a sötét háttér előtt
+newtab-wallpaper-firefox-side-kit-light = Egy róka a bal oldalon, világos háttér előtt
+newtab-wallpaper-firefox-sitting-hill-dark = Egy róka ül a sötétlila dombokon
+newtab-wallpaper-firefox-sitting-hill-light = Egy róka ül a világos dombokon
+newtab-wallpaper-firefox-peak-dark = Egy róka arca a bal szélen, a sötét háttér előtt
+newtab-wallpaper-firefox-peak-light = Egy róka arca a bal szélen, világos háttéren
+newtab-wallpaper-firefox-sky-dark = Sötétlila dombok az éjszakai égbolt alatt
+newtab-wallpaper-firefox-sky-light = Világos dombok a lágy égbolt alatt
 
 ## Firefox
 
