@@ -540,10 +540,34 @@ onboarding-refresh-gratitude-title = { -brand-short-name } es tu supporto
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } tege tu spatulas, desde ora
+onboarding-refresh-hero-text = Producite pro proteger te, non traciar te.
 onboarding-refresh-tou-default = Aperir tote le ligamines con { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Retene { -brand-short-name } in Dock
+       *[other] Adde { -brand-short-name } a tu barra del cargas
+    }
+onboarding-refresh-tou-default-unchecked = Mantene le protection integrate cata vice que tu naviga
+onboarding-refresh-tou-pin-unchecked = Mantene le sol grande navigator independente a portata de un clic
+onboarding-refresh-terms-of-use-with-links = Continuante, tu accepta le <a data-l10n-name="terms_of_use">{ -brand-product-name } Conditiones de uso</a> e nostre <a data-l10n-name="privacy_notice">Aviso de confidentialitate</a>. Pro adjutar a meliorar le navigator, { -brand-product-name } invia datos diagnostic e de interaction a { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Gerer parametros de collecta de datos
 onboarding-refresh-primary-button = Continuar
+onboarding-refresh-fro-import-header = Porta con te tu datos
+onboarding-refresh-fro-import-body = Tu datos personal remane personal. { -brand-product-name } jammais los vendera.
 onboarding-refresh-fro-skip-button = Saltar
+onboarding-refresh-fro-theme-header = Crea tu apparentia
+onboarding-refresh-tab-layout-header = Tenta un differente disposition de schedas
+onboarding-refresh-tab-layout-top = Al summitate
+onboarding-refresh-tab-layout-side = Al latere
 onboarding-refresh-tab-layout-minimal = Minime
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Un fenestra de navigator pro monstrar schedas como parve icones preter le latere del schermo, in un barra lateral minimisate.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Un fenestra de navigator pro monstrar schedas como parve icones preter le latere del schermo, in un barra lateral minimisate.
 
 ## Smart window switcher callout
 

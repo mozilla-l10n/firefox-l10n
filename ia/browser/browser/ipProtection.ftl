@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Essaya le VPN integrate de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Cela tu position</a> navigante in { -brand-product-name }.
 unauthenticated-private-location-message = Adjuta <a data-l10n-name="learn-more-vpn">a mantener tu position private</a> in { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Elige de plure positiones o lassa que { -brand-product-name } selige le plus veloce.
+unauthenticated-site-rules-message = Controla que sitos usa e que sitos non usa le VPN.
 unauthenticated-get-started = Comenciar
 unauthenticated-terms-of-service-privacy-notice = Si tu procede, tu accepta le <a data-l10n-name="vpn-terms-of-service">Conditiones de uso del servicio</a> e le <a data-l10n-name="vpn-privacy-notice">Aviso de confidentialitate</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,10 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN es disactivate pro iste sito
     .label = Usar VPN pro iste sito
 site-exclusion-toggle-description = Sito non functionante? Tenta disactivar le VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Gerer regulas de VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Tu regula
 # Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
 site-rules-description-exclusion = VPN es disactivate pro iste sito
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
@@ -260,6 +265,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } sitos web
         }
     .label = Gerer parametros de sitos web
+ip-protection-site-rules-header =
+    .heading = Gerer regulas de sito web
+ip-protection-site-rules-button =
+    .description = Defini regulas pro sitos que besonia de ulterior confidentialitate o VPN disactivate.
+    .label = Gerer regulas de sito web
 ip-protection-autostart =
     .label = Activar VPN automaticamente
 ip-protection-autostart-checkbox =
