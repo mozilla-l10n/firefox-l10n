@@ -504,6 +504,7 @@ launch-options-spotlight-primary-button-launch = Opslaan en doorgaan
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Het lijkt erop dat u { -brand-short-name } een tijd niet hebt gebruikt. Wilt u het opschonen voor een frisse ‘als nieuw’-ervaring? Trouwens, welkom terug!
 refresh-reinstalled-profile-infobar-message = Het lijkt erop dat u { -brand-short-name } opnieuw hebt geïnstalleerd. Wilt u dat we het opschonen voor een frisse ‘als nieuw’-ervaring?
 refresh-profile-infobar-button = { -brand-short-name } opfrissen…
     .accesskey = e
