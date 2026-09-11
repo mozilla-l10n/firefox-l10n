@@ -492,3 +492,13 @@ launch-options-spotlight-primary-button-launch = Eñongatu ha eku’ejey
 lapsed-user-toast-title = { -brand-product-name } ndeykeko gueteri
 lapsed-user-toast-whats-new-button = Oĩpa ipyahuvéva
 lapsed-user-toast-dismiss-button = Emboyke
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-reinstalled-profile-infobar-message = Hi’ã chéve emohenda jey { -brand-short-name }. ¿Eipotápa oñemopotĩ ndéve nerembiapo osẽ porã hag̃ua, ipyahueterõguáicha?
+refresh-profile-infobar-button = Embohekopyahu { -brand-short-name }…
+    .accesskey = e
