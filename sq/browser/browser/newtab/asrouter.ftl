@@ -448,5 +448,7 @@ set-default-menu-message-primary-button-variant = Vëre si shfletuesin parësor
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Duket sikur u bënë kohë që nuk e keni nisur { -brand-short-name }-in. Doni ta pastroni, për një fillim të freskët, thuajse nga e para? Dhe, meqë jemi, mirë se u kthyet!
+refresh-reinstalled-profile-infobar-message = Duket sikur e keni ri-instaluar { -brand-short-name }-in. Doni ta pastrojmë, për një punë të freskët, si të qe i ri?
 refresh-profile-infobar-button = Rifreskojeni { -brand-short-name }-in…
     .accesskey = R
