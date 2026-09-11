@@ -68,6 +68,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Ön kijelentkezett.
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Beállítás befejezése
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Jelentkezzen be a Syncbe
+fxa-menu-signed-out-description = Ön kijelentkezett.
 fxa-avatar-sign-in = Bejelentkezés
 fxa-avatar-sign-up = Regisztráció
 fxa-avatar-tooltip =

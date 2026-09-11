@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = A { -brand-short-name } tárolt fi
 autofill-edit-payment-method-os-prompt-macos = tárolt fizetésimód-információk megjelenítése
 autofill-edit-payment-method-os-prompt-windows = A { -brand-short-name } tárolt fizetésimód-információkat akar megjeleníteni. Erősítse meg a hozzáférést az alábbi Windows-fiókhoz.
 autofill-edit-payment-method-os-prompt-other = A { -brand-short-name } tárolt fizetésimód-információkat akar megjeleníteni.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = törölni a tárolt fizetésimód-adatokat
+autofill-delete-payment-method-os-prompt-windows = A { -brand-short-name } tárolt fizetésimód-információkat akar használni. Erősítse meg a hozzáférést az alábbi Windows-fiókhoz.
+autofill-delete-payment-method-os-prompt-other = A { -brand-short-name } törölni akarja a tárolt fizetésimód-információkat.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Automatikus űrlapkitöltési beállítások
 
