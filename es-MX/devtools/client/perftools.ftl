@@ -166,9 +166,10 @@ perftools-presets-ml-description2 = Ajustes para investigar errores de Machine L
 perftools-presets-networking-label = Redes
 perftools-presets-networking-description = Preestablecido para investigar errores de red en { -brand-shorter-name }.
 perftools-presets-networking-with-logs-label = Redes con registros
+perftools-presets-networking-with-logs-description = Configuración preestablecida para investigar errores de red en { -brand-shorter-name }, incluyendo registros de tráfico. Los registros pueden incluir información sensible (por ejemplo, las URLs que has visitado).
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Energía
-perftools-presets-power-description = Preestablecido para investigar errores de uso de energía en { -brand-shorter-name }, con poca sobrecarga.
+perftools-presets-power-description = Configuración preestablecida para investigar errores de uso de energía en { -brand-shorter-name }, con poca sobrecarga.
 perftools-presets-debug-label = Depurar
 perftools-presets-debug-description = Preestablecido para depuración en { -brand-shorter-name }. Alta sobrecarga, no lo uses para mejoras de rendimiento sino para enfocarte en comprender el comportamiento del navegador.
 perftools-presets-web-compat-label = Compatibilidad web

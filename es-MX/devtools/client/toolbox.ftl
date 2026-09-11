@@ -43,3 +43,10 @@ toolbox-always-on-top-enabled2 = Desactivar siempre visible
     .title = Esto reiniciará las herramientas de desarrollo
 toolbox-always-on-top-disabled2 = Habilitar siempre visible
     .title = Esto reiniciará las herramientas de desarrollo
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = Este documento también se puede cargar desde “{ $url }” usando el “Modo local” de DevTools, disponible en el panel de configuración.
