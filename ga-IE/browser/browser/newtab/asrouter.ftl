@@ -213,5 +213,6 @@ cfr-doorhanger-milestone-ok-button = Féach Uile
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-reinstalled-profile-infobar-message = Shuiteáil tú { -brand-short-name } as an nua, de réir cosúlachta. An bhfuil fonn ort é a ghlanadh, ar nós brabhsálaí úrnua?
 refresh-profile-infobar-button = Athnuaigh { -brand-short-name }…
     .accesskey = t
