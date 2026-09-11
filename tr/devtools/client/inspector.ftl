@@ -20,6 +20,17 @@ colorpicker-tooltip-hue-slider-title = Renk tonu
 colorpicker-tooltip-alpha-slider-title = Saydamlık
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Elemana özgü sözde sınıflar
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = Panel düzeni
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Otomatik
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Yan yana
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = Üst üste
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Bu sayfa için açık renk şeması öykünümünü aç/kapat

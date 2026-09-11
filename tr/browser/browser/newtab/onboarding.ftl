@@ -539,6 +539,12 @@ onboarding-refresh-gratitude-subtitle = { -brand-short-name } tarayıcısını k
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-tab-layout-top = Üstte
+onboarding-refresh-tab-layout-side = Yanda
+onboarding-refresh-tab-layout-minimal = Minimal
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = İstediğiniz zaman akıllı pencereyle klasik pencere arasında geçiş yapabilirsiniz.

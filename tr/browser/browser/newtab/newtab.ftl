@@ -485,6 +485,11 @@ newtab-recent-searches-menu-learn-more = Daha fazla bilgi al
 newtab-recent-searches-tab-recent = Son aramalar
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Az önce
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = “{ $search }” aramasını son aramalardan kaldır
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -965,6 +970,12 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Turuncu bir arka plan üzerinde sağ kenarda bir tilki
+newtab-wallpaper-firefox-colorful-sky = Mor gece göğüne yayılan turuncu dalgalar
+newtab-wallpaper-firefox-desert-dark = Koyu mor bir çölde oturan bir tilki
+newtab-wallpaper-firefox-desert-light = Açık renkli bir çölde koşan tilki
+newtab-wallpaper-firefox-sky-dark = Gece gökyüzünün altında koyu mor tepeler
+newtab-wallpaper-firefox-sky-light = Yumuşak bir gökyüzünün altında aydınlık tepeler
 
 ## Firefox
 
