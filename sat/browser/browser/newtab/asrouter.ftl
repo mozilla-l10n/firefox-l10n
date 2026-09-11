@@ -377,6 +377,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = ᱟᱢᱟᱜ ᱠᱩᱥᱤ �
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = ᱢᱤᱫ ᱳᱠᱛᱚ ᱨᱮ ᱱᱚᱣᱟ { -brand-short-name } ᱵᱟᱢ ᱮᱦᱚᱵ ᱟᱠᱟᱫ ᱳᱱᱠᱟ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ᱾ ᱪᱮᱫ ᱟᱢ ᱱᱟᱣᱟ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ ᱯᱷᱟᱨᱪᱟ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ, ᱱᱟᱣᱟ ᱧᱮᱞ ᱦᱮᱨᱮᱲ ᱞᱮᱠᱟ ? ᱟᱨ ᱳᱱᱠᱟ ᱛᱮᱦᱚᱸ ᱫᱚᱦᱲᱟ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱚᱢ !
 refresh-reinstalled-profile-infobar-message = ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱟᱢ { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱵᱚᱦᱟᱞ ᱠᱮᱜᱼᱟᱢ ᱾ ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱞᱮ ᱥᱟᱯᱷᱟᱭᱟ ᱥᱮ, ᱱᱟᱶᱟ ᱞᱮᱠᱷᱟ ᱵᱩᱡᱷᱟᱹᱣᱜᱼᱟ ?
 refresh-profile-infobar-button = ᱫᱩᱦᱲᱟᱹ ᱟᱹᱨᱩ { -brand-short-name }…
     .accesskey = e
