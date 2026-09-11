@@ -49,6 +49,15 @@ about-sync-log-count =
         [one] Erregistro bat
        *[other] { $count } erregistro
     }
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = Dena ondo — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = Errorea — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
 about-sync-log-badge-success = Dena ondo
 about-sync-log-badge-error = Errorea
 # Variables:

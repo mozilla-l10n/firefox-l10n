@@ -545,6 +545,30 @@ onboarding-refresh-gratitude-title = { -brand-short-name }(e)n babespean zaude
 onboarding-refresh-splash-screen-title = Hemendik aurrera, { -brand-product-name }(e)n babespean zaude
 onboarding-refresh-hero-text = Zu babesteko egina, ez zure jarraipena egiteko.
 onboarding-refresh-tou-default = Ireki lotura guztiak { -brand-short-name } erabiliz
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Mantendu { -brand-short-name } Dock-ean
+       *[other] Gehitu { -brand-short-name } zure ataza-barran
+    }
+onboarding-refresh-tou-default-unchecked = Izan integratutako babesa nabigatzen duzun aldiro
+onboarding-refresh-tou-pin-unchecked = Izan klik bakarrera nabigatzaile independente nagusi bakarra
+onboarding-refresh-terms-of-use-with-links = Jarraitzearekin bat, <a data-l10n-name="terms_of_use">{ -brand-product-name } erabiltzeko baldintzak</a> eta gure <a data-l10n-name="privacy_notice">pribatutasun-oharra</a> onartzen dituzu. Nabigatzailea hobetzen laguntzeko, { -brand-product-name }(e)k diagnostiko- eta interakzio-datuak bidaltzen ditu { -vendor-short-name }(r)a.
+onboarding-refresh-data-collection-link = Kudeatu datu-bilketaren ezarpenak
+onboarding-refresh-primary-button = Jarraitu
+onboarding-refresh-fro-import-header = Ekarri zure datuak
+onboarding-refresh-fro-import-body = Zure datu pertsonalak beti pertsonal mantentzen dira. { -brand-product-name }(e)k ez ditu inoiz salduko.
+onboarding-refresh-fro-skip-button = Saltatu
+onboarding-refresh-fro-theme-header = Jolastu itxurarekin
+onboarding-refresh-tab-layout-header = Probatu fitxen bestelako diseinu bat
+onboarding-refresh-tab-layout-top = Goian
+onboarding-refresh-tab-layout-side = Alboan
+onboarding-refresh-tab-layout-minimal = Gutxienezkoa
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Nabigatzaile-leihoa fitxak ikono txikien modura bistaratzen, pantailaren albo batean, minimizatutako alboko barran.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Nabigatzaile-leihoa fitxak ikono txikien modura bistaratzen, pantailaren albo batean, minimizatutako alboko barran.Nabigatzaile-leihoa fitxak ikono txikien modura bistaratzen, pantailaren albo batean, minimizatutako alboko barran.
 
 ## Smart window switcher callout
 
