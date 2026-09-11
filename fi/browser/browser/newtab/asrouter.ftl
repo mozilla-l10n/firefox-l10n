@@ -509,6 +509,7 @@ lapsed-user-toast-dismiss-button = Hylkää
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Näyttää siltä, että { -brand-short-name }ia ei ole käynnistetty aikoihin. Siivotaanko asetuksia niin, että käyttökokemus on varmasti näpsäkkä ja uudenveroinen? Ja tervetuloa muuten takaisin!
 refresh-reinstalled-profile-infobar-message = Näyttää siltä, että olet asentanut { -brand-short-name }in uudestaan. Siivotaanko asetuksia niin, että käyttökokemus on varmasti näpsäkkä ja uudenveroinen?
 refresh-profile-infobar-button = Palauta { -brand-short-name } uudenveroiseksi…
     .accesskey = P
