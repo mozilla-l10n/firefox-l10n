@@ -507,6 +507,7 @@ lapsed-user-toast-dismiss-button = Елемеу
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = { -brand-short-name } қолданбасын көптен бері іске қоспаған сияқтысыз. Жаңадан орнатылған сияқты түріне келтіруді үшін оны тазартуды қалайсыз ба? Оралуыңызбен!
 refresh-reinstalled-profile-infobar-message = { -brand-short-name } қолданбасын қайта орнатқан сияқтысыз. Жаңадан орнатылған сияқты түріне келтіруді үшін оны тазартуды қалайсыз ба?
 refresh-profile-infobar-button = { -brand-short-name } жұмысын жаңғырту…
     .accesskey = e
