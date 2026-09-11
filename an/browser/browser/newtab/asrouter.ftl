@@ -233,6 +233,7 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Pareix que feba un tiempo que no emplegaba { -brand-short-name }. Quiere escoscar-lo ta una nueva y millor experiencia? Ah, y bienveniu de nuevas!
 refresh-reinstalled-profile-infobar-message = Pareix que ha reinstalau lo { -brand-short-name }. Quiere fer una limpieza pa que s'inicie como si fuese la primer vegada?
 refresh-profile-infobar-button = Refrescar { -brand-short-name }…
     .accesskey = e
