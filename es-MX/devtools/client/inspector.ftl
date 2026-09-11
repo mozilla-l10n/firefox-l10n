@@ -41,3 +41,6 @@ inspector-emulation-panel-color-scheme-light = Claro
 # A label text for the dark color scheme emulation radio button option.
 inspector-emulation-panel-color-scheme-dark = Oscuro
     .aria-label = Habilitar la emulación del esquema de color oscuro
+# A label text for the no color scheme emulation radio button option (uses user's preference).
+inspector-emulation-panel-color-scheme-none = Sin emulación
+    .aria-label = Desactivar la emulación de esquema de color
