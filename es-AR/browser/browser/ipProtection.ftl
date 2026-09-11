@@ -120,6 +120,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN desactivada para este sitio
     .label = Usar VPN para este sitio
 site-exclusion-toggle-description = ¿El sitio no funciona? Intente desactivar la VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Administrar reglas de VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Regla personalizada
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN desactivada para este sitio
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN activada para este sitio
 ipprotection-settings-link =
     .label = Configuración
 
@@ -256,6 +264,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } sitios web
         }
     .label = Administrar configuración del sitio web
+ip-protection-site-rules-header =
+    .heading = Administrar reglas de sitio web
+ip-protection-site-rules-button =
+    .description = Establecer reglas para sitios que necesitan privacidad adicional o VPN desactivada.
+    .label = Administrar reglas de sitio web
 ip-protection-autostart =
     .label = Activar VPN automáticamente
 ip-protection-autostart-checkbox =
