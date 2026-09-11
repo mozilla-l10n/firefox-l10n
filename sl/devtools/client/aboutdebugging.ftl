@@ -85,7 +85,7 @@ about-debugging-refresh-usb-devices-button = Osveži naprave
 # Title of the Setup page.
 about-debugging-setup-title = Namestitev
 # Introduction text in the Setup page to explain how to configure remote debugging.
-about-debugging-setup-intro = Nastavite način povezave, s katero želite oddaljeno razhroščevati napravo.
+about-debugging-setup-intro = Nastavite način povezave, s katero želite na daljavo razhroščevati napravo.
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = Uporabite <a>{ about-debugging-this-firefox-runtime-name }</a> za razhroščevanje razširitev in service workerjev v tej različici { -brand-shorter-name }a.
 # Title of the heading Connect section of the Setup page.

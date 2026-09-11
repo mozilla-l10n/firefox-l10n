@@ -280,6 +280,15 @@ newtab-privacy-message-milestone-total-cta = Ogled zaščit
 # Shown when today's blocked-tracker count reaches the display cap ("100+").
 newtab-privacy-message-daily-cap = (Danes je bilo blokiranih prek 100 sledilcev.) Manj sledilcev pomeni več zasebnosti.
 newtab-privacy-message-daily-cap-cta = Ogled zaščit
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Pred sledilci ste zaščiteni že { $count } dan zapored.
+        [two] Pred sledilci ste zaščiteni že { $count } dni zapored.
+        [few] Pred sledilci ste zaščiteni že { $count } dni zapored.
+       *[other] Pred sledilci ste zaščiteni že { $count } dni zapored.
+    }
 newtab-privacy-message-streak-cta = Ogled zaščit
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Brskajte dalje, { -brand-short-name } pa bo še naprej blokiral sledilce.
@@ -821,6 +830,12 @@ newtab-wallpaper-light-fox-anniversary = Lisica na travnatem polju v megleni gor
 ## can be a file they uploaded, a Picture of the Day they chose to keep, or a
 ## Firefox wallpaper kept for them when it was retired.
 
+newtab-wallpaper-your-images = Vaše slike
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Vaše slike in ozadja, ki ste jih shranili
 # Read by screen readers for a saved image that has a name of its own: a kept
 # Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
 # someone added themselves is numbered instead, see the string below.
@@ -847,6 +862,7 @@ newtab-wallpaper-remove-image =
 newtab-wallpaper-remove-image-numbered =
     .aria-label = Odstrani sliko { $number }
     .title = Odstrani sliko { $number }
+newtab-wallpaper-remove-image-title = Ali želite odstraniti sliko?
 # "This action" refers to removing a saved wallpaper image.
 newtab-wallpaper-remove-image-body = Tega dejanja ni mogoče razveljaviti.
 newtab-wallpaper-remove-image-confirm = Odstrani
@@ -1195,6 +1211,10 @@ newtab-widget-lists-menu-create = Ustvari nov seznam
 newtab-widget-lists-menu-delete = Izbriši ta seznam
 newtab-widget-lists-menu-copy = Kopiraj seznam v odložišče
 newtab-widget-lists-menu-learn-more = Več o tem
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Zamenjaj seznam
+    .title = Zamenjaj seznam
 newtab-widget-lists-button-add-item = Dodaj element
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Dodaj element
@@ -1254,6 +1274,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Skrči vse pripomočke
     .title = Pomanjšaj pripomočke
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Prikaži razdelek s pripomočki
+    .title = Prikaži pripomočke
 newtab-widget-section-menu-button =
     .aria-label = Odpri meni pripomočkov
     .title = Meni Pripomočki

@@ -172,9 +172,9 @@ options-enable-chrome-label = Omogoči orodja za razhroščevanje brskalnika in 
 options-enable-chrome-tooltip =
     .title = Če vključite to možnost, boste omogočili uporabo razvojnih orodij v oknu brskalnika (meni Orodja > Spletni razvoj > Razvojna orodja brskalnika) in razhroščevanje dodatkov iz Upravitelja dodatkov
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
-options-enable-remote-label = Omogoči oddaljeno razhroščevanje
+options-enable-remote-label = Omogoči razhroščevanje na daljavo
 options-enable-remote-tooltip2 =
-    .title = Vklop te možnosti omogoči oddaljeno razhroščevanje tega primerka brskalnika
+    .title = Vklop te možnosti omogoči razhroščevanje tega primerka brskalnika na daljavo
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = Odpri ali zapri razvojna orodja s tipko F12
 options-enable-f12-tooltip =

@@ -111,7 +111,7 @@ unauthenticated-vpn-title = Essayez le VPN intégré à { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Masquez votre localisation</a> lorsque vous naviguez dans { -brand-product-name }.
 unauthenticated-private-location-message = Aide <a data-l10n-name="learn-more-vpn">à garder votre localisation privée</a> dans { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Choisissez parmi plusieurs emplacements ou laissez { -brand-product-name } choisir le plus rapide.
-unauthenticated-site-rules-message = Contrôlez quels sites utilisent le VPN et quels sites n’en utilisent pas.
+unauthenticated-site-rules-message = Choisissez les sites qui utilisent le VPN et ceux qui ne l’utilisent pas.
 unauthenticated-get-started = Démarrer
 unauthenticated-terms-of-service-privacy-notice = En continuant, vous acceptez nos <a data-l10n-name="vpn-terms-of-service">Conditions d’utilisation</a> et notre <a data-l10n-name="vpn-privacy-notice">Politique de confidentialité</a>.
 site-exclusion-toggle-enabled-1 =
@@ -124,7 +124,7 @@ site-exclusion-toggle-description = Le site ne fonctionne pas ? Essayez de dés
 # Manages rules for VPN to turn on or off automatically for certain websites
 site-rules-manage-rules-link-text = Gérer les règles VPN
 # Heading for user defined rules on VPN usage for particular websites
-site-rules-status-heading = Votre règle
+site-rules-status-heading = Règle personnalisée
 # Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
 site-rules-description-exclusion = Le VPN est désactivé pour ce site
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
@@ -265,8 +265,6 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } sites web
         }
     .label = Gérer les paramètres des sites web
-ip-protection-site-rules-header =
-    .heading = Gérer les règles des sites web
 ip-protection-site-rules-button =
     .description = Définissez des règles pour les sites qui ont besoin de plus de confidentialité ou qui ont besoin de désactiver le VPN.
     .label = Gérer les règles des sites web

@@ -227,7 +227,7 @@ intl-regional-prefs = Območne nastavitve
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
-remote-debugging-title = Oddaljeno razhroščevanje (protokol Chromium)
+remote-debugging-title = Razhroščevanje na daljavo (protokol Chromium)
 remote-debugging-accepting-connections = Sprejema povezave
 remote-debugging-url = URL
 
@@ -440,7 +440,7 @@ support-remote-settings-sync-history-infos = Informacije
 
 ## Normandy sections
 
-support-remote-experiments-title = Oddaljeni poskusi
+support-remote-experiments-title = Poskusi na daljavo
 support-remote-experiments-name = Ime
 support-remote-experiments-branch = Področje poskusa
 support-remote-experiments-see-about-studies = Oglejte si <a data-l10n-name="support-about-studies-link">about:studies</a> za več informacij, med drugim o onemogočanju posameznih poskusov ali preprečevanju, da bi { -brand-short-name } izvajal poskuse te vrste v prihodnje.
