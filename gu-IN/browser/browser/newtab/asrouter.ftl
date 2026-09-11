@@ -224,6 +224,7 @@ cfr-whatsnew-button =
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = એવું જણાય છે કે તમે થોડા વખતમાં { -brand-short-name } શરૂ કર્યું નથી. શું તમે તેને તાજેથી સાફ કરવા માંગો છો, નવા અનુભવની જેમ? અને બીજું, તમારું ફરી સ્વાગત છે!
 refresh-reinstalled-profile-infobar-message = એવું લાગે છે કે તમે { -brand-short-name } ફરીથી ઇન્સ્ટોલ કર્યું છે. શું અમે તેને નવેસરથી, નવો અનુભવ માટે સાફ કરવા માંગો છો?
 refresh-profile-infobar-button = તાજું કરો { -brand-short-name }…
     .accesskey = e
