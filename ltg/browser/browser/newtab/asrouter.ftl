@@ -204,6 +204,7 @@ cfr-doorhanger-extension-total-users =
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Rōdīs { -brand-short-name } nav kaidu laiku izmontōts. Voi gribi tū atjaunōt iz teiru i svaigu stōvūkli, kai sōkumā? I nui, mes prīcojomīs Tevi redzeit otkol!
 refresh-reinstalled-profile-infobar-message = Looks like you’ve reinstalled { -brand-short-name }. Want us to clean it up for a fresh, like-new experience?
 refresh-profile-infobar-button = Atjaunynuot { -brand-short-name }…
     .accesskey = t
