@@ -542,7 +542,7 @@ onboarding-refresh-gratitude-title = { -brand-short-name } est toujours de votre
 ## First Run Onboarding refresh strings
 
 # "has your back" is an idiom suggesting support and protection
-onboarding-refresh-splash-screen-title = { -brand-product-name } est derrière vous dès maintenant
+onboarding-refresh-splash-screen-title = { -brand-product-name } est de votre côté, dès à présent
 onboarding-refresh-hero-text = Conçu pour vous protéger, pas pour vous pister.
 onboarding-refresh-tou-default = Ouvrir tous les liens avec { -brand-short-name }
 onboarding-refresh-tou-pin =
@@ -550,7 +550,7 @@ onboarding-refresh-tou-pin =
         [macos] Conserver { -brand-short-name } dans le Dock
        *[other] Ajouter { -brand-short-name } à la barre des tâches
     }
-onboarding-refresh-tou-default-unchecked = Conservez la protection intégrée à chaque navigation
+onboarding-refresh-tou-default-unchecked = Profitez de la protection intégrée à chaque session de navigation
 onboarding-refresh-tou-pin-unchecked = Gardez le seul grand navigateur indépendant à portée de clic
 onboarding-refresh-terms-of-use-with-links = En continuant, vous acceptez les <a data-l10n-name="terms_of_use">Conditions d’utilisation de { -brand-product-name }</a> et notre <a data-l10n-name="privacy_notice">Politique de confidentialité</a>. Pour aider à améliorer le navigateur, { -brand-product-name } envoie des données de diagnostic et d’interaction à { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Gérer les paramètres de collecte de données

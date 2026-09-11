@@ -197,11 +197,11 @@ newtab-privacy-across-sites =
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } bloque les traqueurs pendant que vous naviguez. Vous les verrez ici.
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty-state = { -brand-short-name } bloque automatiquement les traqueurs, pour garder une plus grande partie de votre activité privée.
+newtab-privacy-empty-state = { -brand-short-name } bloque automatiquement les traqueurs afin de mieux protéger la confidentialité de votre activité.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
-newtab-privacy-empty-state-tally = Consultez le pointage en cours ici.
+newtab-privacy-empty-state-tally = Consultez ici le total actualisé en continu.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -961,11 +961,11 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-newtab-wallpaper-firefox-orange = Un renard au bord droit sur un fond orange
-newtab-wallpaper-firefox-colorful-sky = Des vagues orange sur un ciel nocturne violet
-newtab-wallpaper-firefox-desert-dark = Un renard se reposant dans un sable pourpre foncé
-newtab-wallpaper-firefox-desert-light = Un renard court à travers un léger vide
-newtab-wallpaper-firefox-hills-dark = Un renard courant sur de sombres collines
+newtab-wallpaper-firefox-orange = Un renard sur le bord droit d’un fond orange
+newtab-wallpaper-firefox-colorful-sky = Ondulations orangées dans un ciel nocturne violet
+newtab-wallpaper-firefox-desert-dark = Un renard assis dans un désert violet foncé
+newtab-wallpaper-firefox-desert-light = Un renard qui court dans un désert clair
+newtab-wallpaper-firefox-hills-dark = Un renard qui court sur des collines sombres
 newtab-wallpaper-firefox-hills-light = Un renard qui court sur des collines claires
 newtab-wallpaper-firefox-tail-dark = Une queue de renard sur un fond sombre
 newtab-wallpaper-firefox-tail-light = Une queue de renard sur un fond clair
@@ -973,10 +973,10 @@ newtab-wallpaper-firefox-side-kit-dark = Un renard sur le côté gauche, sur un 
 newtab-wallpaper-firefox-side-kit-light = Un renard sur le côté gauche, sur un fond clair
 newtab-wallpaper-firefox-sitting-hill-dark = Un renard assis sur des collines violet foncé
 newtab-wallpaper-firefox-sitting-hill-light = Un renard assis sur des collines claires
-newtab-wallpaper-firefox-peak-dark = Une museau de renard sur le bord gauche, sur un fond sombre
-newtab-wallpaper-firefox-peak-light = Une museau de renard sur le bord gauche, sur un fond clair
-newtab-wallpaper-firefox-sky-dark = Collines pourpre foncé sous un ciel nocturne
-newtab-wallpaper-firefox-sky-light = De légères collines sous un ciel doux
+newtab-wallpaper-firefox-peak-dark = Le visage d’un renard sur le bord gauche, sur un fond sombre
+newtab-wallpaper-firefox-peak-light = Le visage d’un renard sur le bord gauche, sur un fond clair
+newtab-wallpaper-firefox-sky-dark = Collines violet foncé sous un ciel nocturne
+newtab-wallpaper-firefox-sky-light = Collines claires sous un ciel pastel
 
 ## Firefox
 
@@ -1117,7 +1117,7 @@ newtab-section-follow-highlight-subtitle = Suivez vos centres d’intérêt pour
 newtab-topic-navigation-label =
     .aria-label = Sujets
 # Opens a menu listing the topics that did not fit in the row.
-newtab-topic-navigation-more-button = Plus
+newtab-topic-navigation-more-button = Autres
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1258,8 +1258,8 @@ newtab-widget-lists-menu-copy = Copier la liste dans le presse-papiers
 newtab-widget-lists-menu-learn-more = En savoir plus
 # "Change" is a verb here: the button switches which list is shown
 newtab-widget-lists-change-list =
-    .aria-label = Changer la liste
-    .title = Changer la liste
+    .aria-label = Changer de liste
+    .title = Changer de liste
 newtab-widget-lists-button-add-item = Ajouter un élément
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Ajouter un élément
