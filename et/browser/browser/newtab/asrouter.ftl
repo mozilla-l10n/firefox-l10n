@@ -264,6 +264,7 @@ spotlight-pin-secondary-button = Mitte praegu
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Tundub, et sa pole { -brand-short-name }i juba mõnda aega kasutanud. Kas soovid oma profiili ära puhastada, et alustada värskelt lehelt? Ja muuseas, tere tulemast tagasi!
 refresh-reinstalled-profile-infobar-message = Tundub, et sa oled { -brand-short-name }i uuesti paigaldanud. Kas soovid oma profiili ära puhastada, et see tunduks peaaegu nagu uus?
 refresh-profile-infobar-button = Värskenda { -brand-short-name }…
     .accesskey = e
