@@ -539,6 +539,13 @@ onboarding-refresh-gratitude-subtitle = Eskerrik asko { -brand-short-name } erab
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name }(e)n babespean zaude
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = Hemendik aurrera, { -brand-product-name }(e)n babespean zaude
+onboarding-refresh-hero-text = Zu babesteko egina, ez zure jarraipena egiteko.
+onboarding-refresh-tou-default = Ireki lotura guztiak { -brand-short-name } erabiliz
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Aldatu leiho adimendun eta klasikoen artean noiznahi.

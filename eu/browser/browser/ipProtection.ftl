@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Probatu { -brand-product-name }(r)en integratutako V
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ezkutatu zure kokapena</a> { -brand-product-name }(r)ekin nabigatu ahala.
 unauthenticated-private-location-message = { -brand-product-name }(e)n <a data-l10n-name="learn-more-vpn">zure kokapena pribatu mantentzen</a> laguntzen du.
 unauthenticated-choose-location-message-1 = Aukeratu hainbat kokapenen artetik edo utzi { -brand-product-name }(r)i azkarrena hartzen.
+unauthenticated-site-rules-message = Kontrolatu zein gunek erabiltzen duten VPNa eta zeinek ez.
 unauthenticated-get-started = Hasi erabiltzen
 unauthenticated-terms-of-service-privacy-notice = Jarraitzearekin bat, <a data-l10n-name="vpn-terms-of-service">erabiltzeko baldintzak</a> eta <a data-l10n-name="vpn-privacy-notice">pribatutasun-oharra</a> onartzen dituzu.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPNa inaktibo dago gune honetarako
     .label = Erabili VPNa gune honetarako
 site-exclusion-toggle-description = Oraindik ez dabil? Probatu VPNa desaktibatzen.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Kudeatu VPN arauak
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Zure araua
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPNa inaktibo dago gune honetarako
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPNa aktibo dago gune honetarako
 ipprotection-settings-link =
     .label = Ezarpenak
 
