@@ -513,6 +513,7 @@ lapsed-user-toast-dismiss-button = Zavrieť
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Zdá sa, že aplikácia { -brand-short-name } nebola dlhšiu dobu spustená. Chcete ju obnoviť do pôvodných nastavení s cieľom ponúknuť vám čo najlepší zážitok? Mimochodom, vitajte späť!
 refresh-reinstalled-profile-infobar-message = Zdá sa, že ste aplikáciu { -brand-short-name } preinštalovali. Chcete ju vyčistiť, aby fungovala ako nová?
 refresh-profile-infobar-button = Obnoviť { -brand-short-name }…
     .accesskey = b
