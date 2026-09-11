@@ -510,6 +510,7 @@ lapsed-user-toast-dismiss-button = აცილება
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = როგორც ჩანს, დიდი ხანია, { -brand-short-name } არ ჩაგირთავთ. გსურთ მისი შეკეთება და გამოცოცხლება? ჰო, მართლა, კეთილი იყოს თქვენი დაბრუნება!
 refresh-reinstalled-profile-infobar-message = როგორც ჩანს, { -brand-short-name } ხელახლა დააყენეთ. გსურთ მისი გასუფთავება და პირვანდელ მდგომარეობაში დაბრუნება?
 refresh-profile-infobar-button = { -brand-short-name } – შეკეთება…
     .accesskey = კ
