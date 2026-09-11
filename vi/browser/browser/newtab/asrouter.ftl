@@ -482,3 +482,25 @@ launch-options-spotlight-checkbox-restore-previous = Mở lại các cửa sổ 
 launch-options-spotlight-primary-button-close = Lưu và đóng { -brand-short-name }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Lưu và tiếp tục
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-reinstalled-profile-infobar-message = Có vẻ như bạn đã cài đặt lại { -brand-short-name }. Bạn có muốn chúng tôi dọn dẹp nó cho trải nghiệm giống như mới?
+refresh-profile-infobar-button = Làm mới { -brand-short-name }…
+    .accesskey = e
