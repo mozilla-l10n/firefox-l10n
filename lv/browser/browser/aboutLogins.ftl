@@ -79,7 +79,7 @@ about-logins-list-section-week = Pēdējās 7 dienās
 ## Introduction screen
 
 about-logins-login-intro-heading-message = Saglabājiet savas paroles drošā vietā
-login-intro-description2 = Visas paroles, kuras saglabājat uz { -brand-product-name } ir šifrētas. Mēs arī uzraugām, vai ir notikušas paroļu noplūdes, un brīdinām jūs, ja jūsu paroles ir ietekmētas. <a data-l10n-name="breach-alert-link">Uzziniet vairāk</a>
+login-intro-description2 = Visas paroles, kuras saglabā { -brand-product-name }, ir šifrētas. Turklāt uzraugām datu noplūdes, un brīdinām, ja Tavas paroles ir ietekmētas. <a data-l10n-name="breach-alert-link">Uzzināt vairāk</a>
 login-intro-instructions-fxa2 = Izveidojiet vai ierakstieties savā kontā uz ierīces, kur ir saglabāti jūsu lietotājvārdi.
 login-intro-instructions-fxa-settings = Ejiet uz Iestatījumi > Sinhronizācija > Ieslēgt sinhronizāciju… Atlasiet atzīmes rūtiņu LIetotājvārdi un paroles.
 login-intro-instructions-fxa-passwords-help = Apmeklējiet <a data-l10n-name="passwords-help-link">paroļu atbalstu</a>, lai saņemtu vairāk palīdzības.

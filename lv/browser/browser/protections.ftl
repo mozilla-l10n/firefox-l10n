@@ -6,9 +6,9 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-        [zero] { -brand-short-name } pagājušajā nedēļā bloķēja { $count } izsekotāju
-        [one] { -brand-short-name } pagājušajā nedēļā bloķēja { $count } izsekotājus
-       *[other] { -brand-short-name } pagājušajā nedēļā bloķēja { $count } izsekotāju
+        [zero] { -brand-short-name } iepriekšējās nedēļas laikā aizturēja { $count } izsekotājus
+        [one] { -brand-short-name } iepriekšējās nedēļas laikā aizturēja { $count } izsekotāju
+       *[other] { -brand-short-name } iepriekšējās nedēļas laikā aizturēja { $count } izsekotājus
     }
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
@@ -30,10 +30,10 @@ protection-report-page-content-title = Aizsardzības informācijas panelis
 protection-report-page-summary = { -brand-short-name } pārlūkošanas laikā aizkulisēs var aizsargāt Tavu privātumu. Šis ir personalizēts šo aizsardzības līdzekļu kopsavilkums, tostarp rīki, ar kuriem vari pārraudzīt savu tiešsaistes drošību.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = { -brand-short-name } pārlūkošanas laikā aizkulisēs aizsargā Tavu privātumu. Šis ir personalizēts šo aizsardzības līdzekļu kopsavilkums, tostarp rīki, ar kuriem pārraudzīt savu tiešsaistes drošību.
-protection-report-settings-link = Pārvaldiet savus privātuma un drošības iestatījumus
+protection-report-settings-link = Pārvaldi savus privātuma un drošības iestatījumus
 etp-card-title-always = Uzlabotā pretizsekošanas aizsardzība: vienmēr ieslēgta
 etp-card-title-custom-not-blocking = Uzlabotā pretizsekošanas aizsardzība: IZSLĒGTA
-etp-card-content-description = { -brand-short-name } automātiski neļauj uzņēmumiem jums slepeni sekot tīmeklī.
+etp-card-content-description = { -brand-short-name } automātiski aptur uzņēmumus no slepenas Tevis izsekošanas tīmeklī.
 protection-report-etp-card-content-custom-not-blocking = Visa aizsardzība pašlaik ir izslēgta. Jāizvēlas, kurus izsekotājus aizturēt, pārvaldot savus { -brand-short-name } aizsardzības iestatījumus.
 protection-report-manage-protections = Pārvaldīt iestatījumus
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -41,7 +41,7 @@ protection-report-manage-protections = Pārvaldīt iestatījumus
 graph-today = Šodien
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Diagramma, kurā ir norādīts katra šonedēļ bloķētā izsekotāja veida kopējais skaits.
-social-tab-title = Sociālo tīklu izsekotāji
+social-tab-title = Sabiedrisko tīklu izsekotāji
 social-tab-contant = Sabiedriskie tīkli izvieto izsekotājus citās tīmekļvietnēs, lai sekotu līdzi tam, ko dari, redzi un skaties tiešsaistē. Tas ļauj sabiedrisko mediju uzņēmumiem uzzināt vairāk par Tevi — ne tikai to, ar ko dalies savos sabiedrisko mediju profilos. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 cookie-tab-title = Starpvietņu izsekošanas sīkdatnes
 cookie-tab-content = Šīs sīkdatnes seko Tev no vietnes uz vietni, lai ievāktu datus par to, ko dari tiešsaistē. Tās uzstāda trešās puses, piemēram, reklāmdevēji un izpētes uzņēmumi. Starpvietņu izsekošanas sīkdatņu aizturēšana samazina Tev sekojošo reklāmu skaitu. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>

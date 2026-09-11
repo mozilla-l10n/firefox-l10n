@@ -47,8 +47,8 @@ settings-update-other-instance-handling-updates =
 
 aboutdialog-update-manual-with-link = Atjauninājumi ir pieejami te<label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Atjauninājumi ir pieejami te<a data-l10n-name="manual-link">{ $displayUrl }</a>
-update-unsupported = Jūs nevarat veikt turpmākus šīs sistēmas atjauninājumus. <label data-l10n-name="unsupported-link">Uzziniet vairāk</label>
-settings-update-unsupported = Jūs nevarat veikt turpmākus šīs sistēmas atjauninājumus. <a data-l10n-name="unsupported-link">Uzziniet vairāk</a>
+update-unsupported = Tu šajā sistēmā nevari veikt turpmākus atjauninājumus <label data-l10n-name="unsupported-link">Uzzināt vairāk</label>
+settings-update-unsupported = Tu šajā sistēmā nevari veikt turpmākus atjauninājumus. <a data-l10n-name="unsupported-link">Uzzināt vairāk</a>
 update-restarting = Pārstartē…
 settings-update-restarting =
     .label = Pārstartē…

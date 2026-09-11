@@ -236,7 +236,7 @@ newtab-picture-attribution-author = © { $author }
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
 # Context menu item linking to more information about the widget.
-newtab-picture-menu-learn-more = Uzziniet vairāk
+newtab-picture-menu-learn-more = Uzzināt vairāk
 
 ## Strings for the Recent Searches widget
 
