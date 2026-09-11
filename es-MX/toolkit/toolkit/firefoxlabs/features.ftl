@@ -94,3 +94,4 @@ experimental-features-tab-notes-description = Las notas de pestaña son una func
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = Menú de pestañas simplificado
+experimental-features-tab-context-menu-description = Verás un menú contextual más sencillo al hacer clic con el botón derecho en una pestaña. Está diseñado para facilitar el acceso a las acciones comunes. <a data-l10n-name="connect">Compartir comentarios</a>

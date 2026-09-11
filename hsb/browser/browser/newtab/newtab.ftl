@@ -517,6 +517,8 @@ newtab-recent-searches-row-remove =
 
 ## Recent searches widget — empty states
 
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Najnowše pytanja so tu pokazuja, zo byšće je kóždy čas wubrać.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Popularne pytanja tuchwilu k dispoziciji njejsu.
 
