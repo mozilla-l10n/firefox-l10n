@@ -458,6 +458,7 @@ set-default-menu-message-primary-button-variant = Зробити основни�
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Схоже, що ви давно не запускали { -brand-short-name }. Хочете його відновити, щоб він став як новенький? До речі, з поверненням!
 refresh-reinstalled-profile-infobar-message = Схоже, що ви перевстановили { -brand-short-name }. Хочете його відновити, щоб він став як новенький?
 refresh-profile-infobar-button = Відновити { -brand-short-name }…
     .accesskey = В
