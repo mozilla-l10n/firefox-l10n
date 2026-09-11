@@ -50,3 +50,7 @@ toolbox-always-on-top-disabled2 = Habilitar siempre visible
 # Variables:
 #   $url (String): The local mode URL
 toolbox-local-mode-notice = Este documento también se puede cargar desde “{ $url }” usando el “Modo local” de DevTools, disponible en el panel de configuración.
+toolbox-local-mode-notice-add-to-settings-button = Agregar a la configuración
+toolbox-local-mode-notice-try-it-button = Probar
+toolbox-local-mode-notice-navigate-to-existing-mapping = Navegar a un mapeo existente
+toolbox-local-mode-notice-always-hide = No mostrar esto de nuevo
