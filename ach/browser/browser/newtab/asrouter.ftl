@@ -207,6 +207,7 @@ fxa-sync-cfr-secondary = Poo wiya lacen
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Nen calo pud pe icako { -brand-short-name } pi kare malac. Imito lonyo obed manyen, calo tic kwede tyen ma okwongo? Wajoli cen kong eno!
 refresh-reinstalled-profile-infobar-message = Nen calo i nwoyo keto { -brand-short-name }. Imito ni walony obed nyen, calo tic kwede tyen ma okwongo?
 refresh-profile-infobar-button = Cak { -brand-short-name } odoco…
     .accesskey = a
