@@ -277,6 +277,7 @@ etp-strict-exceptions-infobar-learn-more = ఇంకా తెలుసుకో
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = మీరు కొంత కాలంగా { -brand-short-name }‌ను వాడినట్టులేరు. దీన్ని కొత్తగా, తాజాగా అనుభూతి చెందేలా శుభ్రపరచుకుంటారా? అన్నట్టు, పునఃస్వాగతం!
 refresh-reinstalled-profile-infobar-message = మీరు { -brand-short-name }‌ను పునఃస్థాపించుకున్నట్టున్నారు. కొత్తగా, తాజాగా అనుభూతి చెందేలా దాన్ని శుభ్రపరచమంటారా?
 refresh-profile-infobar-button = { -brand-short-name }‌ను తాజాపరచు…
     .accesskey = e
