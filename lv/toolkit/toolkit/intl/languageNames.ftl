@@ -159,6 +159,7 @@ language-name-ru = Krievu
 language-name-rw = Kiņaruandu
 language-name-sa = Sanskrits
 language-name-sc = Sardīniešu
+language-name-sco = Skotu
 language-name-sd = Sindhu
 language-name-se = Ziemeļsāmu
 language-name-sg = Sangu

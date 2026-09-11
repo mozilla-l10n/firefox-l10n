@@ -11,7 +11,7 @@ about-httpsonly-explanation-question = Kas tam varētu būt par cēloni?
 about-httpsonly-explanation-nosupport = Visticamāk, vietne vienkārši neatbalsta HTTPS.
 about-httpsonly-explanation-risk = Iespējams, ka ir iesaistīts uzbrucējs. Ja nolemjat apmeklēt vietni, neievadiet nekādu sensitīvu informāciju, piemēram, paroles, e-pastus vai kredītkartes informāciju.
 about-httpsonly-explanation-continue = Ja turpināsiet, šajā vietnē uz laiku tiks izslēgts režīms tikai-HTTPS.
-about-httpsonly-button-continue-to-site = Turpināt uz HTTP vietni
+about-httpsonly-button-continue-to-site = Doties uz HTTP vietni
 about-httpsonly-button-go-back = Doties atpakaļ
 about-httpsonly-link-learn-more = Uzzināt vairāk…
 

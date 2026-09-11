@@ -91,8 +91,8 @@ neterror-file-not-found-moved = Jāpārliecinās, ka datne nav pārvietota, pār
 #   $path (String) - Path of the local file that could not be found.
 neterror-file-not-found-intro = { -brand-short-name } nevar atrast datni <strong>{ $path }</strong>. Vai nu tā nepastāv, vai arī ceļš ir nepareizs.
 neterror-file-not-found-what-can-you-do = Ja adrese tika ierakstīta pašrocīgi, datnes nosaukumā vai ceļā jāpārbauda lielo un mazo burtu vai citas rakstības kļūdas. Ja tika atvērta saglabāta grāmatzīme vai saite, kopš tās saglabāšanas brīža datne var būt pārvietota, pārdēvēta vai izdzēsta. Jāmēģina atrast to datņu pārvaldniekā vai ar meklēšanu nesenajos vienumos.
-neterror-access-denied = Tas varētu būt aizvākts, pārvietots vai arī faila piekļuves tiesības liedz piekļuvi tam.
-neterror-unknown-protocol = Iespējams, jums jāuzinstalē kāda cita programma, lai apstrādātu šī tipa adreses.
+neterror-access-denied = Tas varētu būt noņemts, pārvietots vai arī datnes atļaujas varētu liegt piekļuvi.
+neterror-unknown-protocol = Varētu būt nepieciešams uzstādīt citu programmatūru, lai atvērtu šo adresi.
 neterror-redirect-loop = Šo problēmu reizēm var atrisināt, deaktivējot sīkdatnes vai nepieņemot tās no šīs lapas.
 neterror-not-cached-intro = Pieprasītais dokuments vairs nav pieejams  { -brand-short-name } kešatmiņā.
 neterror-not-cached-sensitive = Drošības apsvērumu dēļ,  { -brand-short-name } neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.
@@ -115,11 +115,11 @@ certerror-intro = { -brand-short-name } atklāja iespējamus draudus drošībai 
 certerror-sts-intro = { -brand-short-name } noteica iespējamus drošības draudus un neturpināja uz <b>{ $hostname }</b>, jo šai tīmekļvietnei nepieciešams drošs savienojums.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-expired-cert-intro = { -brand-short-name } konstatēja problēmu un nedevās uz <b>{ $hostname }</b>. Mājas lapa ir nepareizi konfigurēta vai datora pulkstenis ir iestatīts nepareizā laikā.
+certerror-expired-cert-intro = { -brand-short-name } noteica nepilnību un nedevās uz <b>{ $hostname }</b>. Tīmekļvietne ir vai nu nepareizi konfigurēta, vai arī datora pulkstenim ir iestatīts nepareizs laiks.
 neterror-corrupted-content-intro = Lappuse, kuru mēģināt skatīt nevar parādīt, jo tika atrasta kļūda datu pārraidi.
 neterror-corrupted-content-contact-website = Lūdzu, sazinieties ar mājas īpašniekiem, lai informētu viņus par šo problēmu.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
-neterror-sslv3-used = Papildus informācija:  ssl_error_unsupported_version
+neterror-sslv3-used = Papildu informācija:  SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 neterror-inadequate-security-intro = <b>{ $hostname }</b> izmanto novecojušu un nedrošu drošības tehnoloģiju. Uzbrucējs varētu piekļūt informācijai, kuru uzskatījāt par droši aizsargātu. Lapas administratoram vajadzēs salabot serveri, pirms varēsiet apmeklē lapu.
