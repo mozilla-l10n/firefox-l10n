@@ -392,6 +392,7 @@ etp-strict-exceptions-infobar-learn-more = Fræðast meira
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Það virðist vera langt síðan þú ræstir { -brand-short-name }. Viltu hreinsa hann til að byrja með hreint og nýtt borð? Vertu einnig velkomin aftur!
 refresh-reinstalled-profile-infobar-message = Svo virðist sem þú hafir sett { -brand-short-name } upp aftur. Viltu að við hreinsum til svo þú fáir ferska og nýja upplifun?
 refresh-profile-infobar-button = Uppfæra { -brand-short-name }…
     .accesskey = U
