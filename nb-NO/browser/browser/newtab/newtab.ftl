@@ -995,6 +995,8 @@ newtab-wallpaper-firefox-sitting-hill-dark = En rev som sitter på mørkelilla �
 newtab-wallpaper-firefox-sitting-hill-light = En rev som sitter på lyse åser
 newtab-wallpaper-firefox-peak-dark = Et reveansikt i venstre kant, mot en mørk bakgrunn
 newtab-wallpaper-firefox-peak-light = Et reveansikt i venstre kant, mot en lys bakgrunn
+newtab-wallpaper-firefox-sky-dark = Mørkelilla åser under en nattehimmel
+newtab-wallpaper-firefox-sky-light = Lyse åser under en myk himmel
 
 ## Firefox
 

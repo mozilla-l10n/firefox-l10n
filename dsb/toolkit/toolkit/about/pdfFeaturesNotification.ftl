@@ -5,3 +5,4 @@
 pdf-features-notification =
     .aria-label = Zdźělenje
     .heading = PDF budu lažčejše w { -brand-short-name }.
+pdf-features-notification-message = Źěliś, zjadnośiś a wěcej. <a data-l10n-name="features-link">Funkcije PDF pokazaś</a>

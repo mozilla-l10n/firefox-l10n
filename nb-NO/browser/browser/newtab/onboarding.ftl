@@ -540,6 +540,11 @@ onboarding-refresh-gratitude-title = { -brand-short-name } passer på deg
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } passer på deg fra første stund
+onboarding-refresh-hero-text = Bygget for å beskytte deg, ikke spore deg.
+onboarding-refresh-tou-default = Åpne alle lenker med { -brand-short-name }
+onboarding-refresh-tou-default-unchecked = Behold innebygd beskyttelse hver gang du surfer
 onboarding-refresh-primary-button = Fortsett
 onboarding-refresh-fro-skip-button = Hopp over
 
