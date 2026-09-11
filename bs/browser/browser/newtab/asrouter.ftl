@@ -381,6 +381,7 @@ multi-cta-fox-doodle-msix-privacy-focused-subtitle = Držite svoj omiljeni pretr
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Čini se da odavno niste pokrenuli { -brand-short-name }. Da li ga želite očistiti za svježe, skoro novo iskustvo? I, uzgred rečeno, dobrodošli nazad!
 refresh-reinstalled-profile-infobar-message = Izgleda da ste reinstalirali { -brand-short-name }. Želite li da obrišemo stare postavke i fajlove za svježe, kao novo iskustvo?
 refresh-profile-infobar-button = Osvježi { -brand-short-name }…
     .accesskey = e
