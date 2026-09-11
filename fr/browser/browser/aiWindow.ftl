@@ -369,11 +369,11 @@ aiwindow-starter-browsing-compare = Compare des onglets
 ## Scrolls the conversation-starter pill row toward its start/end.
 
 aiwindow-starter-scroll-start =
-    .aria-label = Faire défiler vers l’arrière
-    .tooltiptext = Faire défiler vers l’arrière
+    .aria-label = Faire défiler vers le début
+    .tooltiptext = Faire défiler vers le début
 aiwindow-starter-scroll-end =
-    .aria-label = Faire défiler vers l’avant
-    .tooltiptext = Faire défiler vers l’avant
+    .aria-label = Faire défiler vers la fin
+    .tooltiptext = Faire défiler vers la fin
 # Dismisses a "pick up where you left off" resume-activity suggestion pill.
 # Variables:
 #   $text (String) - The suggestion headline being dismissed

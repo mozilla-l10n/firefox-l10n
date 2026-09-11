@@ -559,9 +559,9 @@ onboarding-refresh-fro-import-header = Importer vos données
 onboarding-refresh-fro-import-body = Vos données personnelles restent personnelles. { -brand-product-name } ne les vendra jamais.
 onboarding-refresh-fro-skip-button = Ignorer
 onboarding-refresh-fro-theme-header = Jouez avec votre apparence
-onboarding-refresh-tab-layout-header = Essayer une autre présentation d’onglet
+onboarding-refresh-tab-layout-header = Testez une autre disposition des onglets
 onboarding-refresh-tab-layout-top = En haut
-onboarding-refresh-tab-layout-side = À côté
+onboarding-refresh-tab-layout-side = Sur le côté
 onboarding-refresh-tab-layout-minimal = Minimale
 # Tooltip displayed on hover for minimal tabs image
 onboarding-minimal-tabs-tooltip =
