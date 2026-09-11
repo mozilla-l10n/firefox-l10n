@@ -481,6 +481,12 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Alternativ for nylege søk
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Les meir
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = frå { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Akkurat no
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
