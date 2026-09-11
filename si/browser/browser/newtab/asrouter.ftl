@@ -318,6 +318,7 @@ fxa-menu-message-mobile-primary-text = ඔබගේ දුරකථනයට ප
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = ඔබ කලකින් { -brand-short-name } විවෘත කර නැති සෙයකි. ඔබට නැවුම් සහ අළුත් අත්දැකීමක් සඳහා පිරිසිදු කිරීමට වුවමනා ද? කෙසේ වුවත්, නැවත සාදරයෙන් පිළිගන්නෙමු!
 refresh-reinstalled-profile-infobar-message = { -brand-short-name } නැවත ස්ථාපනය කර තිබෙන බව පෙනේ. නැවුම් සහ අළුත් අත්දැකීමක් සඳහා එය පිරිසිදු කිරීමට අවශ්‍යද?
 refresh-profile-infobar-button = { -brand-short-name } නැවුම් කරන්න…
     .accesskey = e
