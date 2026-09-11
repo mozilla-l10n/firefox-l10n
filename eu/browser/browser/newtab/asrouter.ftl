@@ -509,5 +509,6 @@ lapsed-user-toast-dismiss-button = Baztertu
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-reinstalled-profile-infobar-message = Badirudi { -brand-short-name } berrinstalatu duzula. Nahi duzu goitik behera garbitzea berria bezala uzteko?
 refresh-profile-infobar-button = Berritu { -brand-short-name }…
     .accesskey = e
