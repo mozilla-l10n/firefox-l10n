@@ -66,6 +66,7 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Du er logget ut
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Fullfør oppsettet
+fxa-menu-signed-out-description = Du er logget ut
 fxa-avatar-sign-in = Logg inn
 fxa-avatar-sign-up = Registrer deg
 fxa-avatar-tooltip =
