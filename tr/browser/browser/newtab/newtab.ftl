@@ -481,6 +481,10 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Son aramalar seçenekleri
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Daha fazla bilgi al
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Son aramalar
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Az önce
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

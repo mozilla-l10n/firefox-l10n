@@ -120,6 +120,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = Bu sitede VPN kapalı
     .label = Bu sitede VPN kullan
 site-exclusion-toggle-description = Site çalışmıyor mu? VPN’i kapatmayı deneyin.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = VPN kurallarını yönet
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Kuralınız
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = Bu sitede VPN kapalı
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = Bu sitede VPN açık
 ipprotection-settings-link =
     .label = Ayarlar
 
@@ -256,6 +264,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } web sitesi
         }
     .label = Web sitesi ayarlarını yönet
+ip-protection-site-rules-header =
+    .heading = Site kurallarını yönet
 ip-protection-autostart =
     .label = VPN’i otomatik olarak aç
 ip-protection-autostart-checkbox =
