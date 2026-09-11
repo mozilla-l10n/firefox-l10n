@@ -509,6 +509,7 @@ lapsed-user-toast-dismiss-button = Ignorer
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Il semblerait que vous n’ayez pas démarré { -brand-short-name } depuis un petit moment. Voulez-vous lui donner un coup de jeune pour profiter d’une meilleure navigation ? Au fait, ça fait plaisir de vous retrouver !
 refresh-reinstalled-profile-infobar-message = Il semblerait que { -brand-short-name } ait été réinstallé récemment. Voulez-vous lui donner un coup de jeune pour profiter d’une meilleure navigation ?
 refresh-profile-infobar-button = Réparer { -brand-short-name }…
     .accesskey = R
