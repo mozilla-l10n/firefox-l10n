@@ -484,13 +484,13 @@ newtab-recent-searches-menu-learn-more = Läs mer
 # Tab listing the searches the user has made recently.
 newtab-recent-searches-tab-recent = Senaste sökningar
 # Tab listing what is trending with the user's search engine.
-newtab-recent-searches-tab-trending = Trend
+newtab-recent-searches-tab-trending = Trendar
 # Informs the user which engine the trending results come from.
 # Variables:
 #   $engine (string) - Name of the default search engine, e.g. "Google".
-newtab-recent-searches-trending-attribution = via { $engine }
+newtab-recent-searches-trending-attribution = från { $engine }
 # Relative time shown for a search made less than a minute ago.
-newtab-recent-searches-just-now = Nyss
+newtab-recent-searches-just-now = Nu
 # Screen reader label for the button that forgets one listed search.
 # Variables:
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
@@ -500,7 +500,7 @@ newtab-recent-searches-row-remove =
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
-newtab-recent-searches-empty-recent = De senaste sökningarna visas här så att du kan plocka upp dem igen när som helst.
+newtab-recent-searches-empty-recent = Dina senaste sökningar visas här så att du enkelt kan fortsätta med dem när som helst.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Trendiga sökningar är inte tillgängliga just nu.
 
