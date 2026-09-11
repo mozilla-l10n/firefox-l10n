@@ -188,6 +188,9 @@ fox-doodle-pin-secondary = Ne tagad
 set-default-pdf-handler-headline = <strong>PDF datnes tagad tiek atvērtas ar { -brand-short-name }.</strong> Rediģējiet vai parakstiet veidlapas savā pārlūkā. Lai mainītu, iestatījumos jāmeklē “PDF”.
 set-default-pdf-handler-primary = Sapratu
 
+## PDF Annotations strings
+
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Plānojat tikt pie jaunas ierīces?
@@ -234,6 +237,19 @@ launch-on-login-infobar-final-message = <strong>Atvērt { -brand-short-name } ka
 launch-on-login-infobar-final-reject-button = Nē, paldies
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -245,9 +261,30 @@ tail-fox-spotlight-subtitle = Sakiet ardievas kaitinošajiem reklāmu izsekotāj
 tail-fox-spotlight-primary-button = Atvērt manas saites ar { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ne tagad
 
+## Welcome Back Spotlight and Import
+
+
+## Root Certificate Succession Infobar
+
+
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-learn-more-button = Uzzināt vairāk
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 
@@ -275,10 +312,19 @@ set-default-menu-message-split-layout-subtitle =
        *[other] Iegūsti ātrāku pārlūkošanu un automātisku privātuma aizsardzību.
     }
 
+## Firefox Relay 50 Masks Announcement
+
+
 ## Nova Early Access Infobar
 
 nova-early-access-infobar-primary-button = Sapratu
     .accesskey = S
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
 
 ## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
 ##
@@ -297,3 +343,12 @@ lapsed-user-toast-title = { -brand-product-name } joprojām ir Tavā pusē
 lapsed-user-toast-subtitle = Izmēģini jaunus veidus, kā vari pārlūkot ar vairāk izvēļu, privātuma un vadības.
 lapsed-user-toast-whats-new-button = Apskati, kas jauns
 lapsed-user-toast-dismiss-button = Noraidīt
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-profile-infobar-button = Atjaunināt { -brand-short-name }…
+    .accesskey = t
