@@ -180,6 +180,8 @@ soccer-ball-avatar-alt =
     .alt = Futbola bumba
 sparkle-single-avatar-alt =
     .alt = Dzirkstele
+star-avatar-alt =
+    .alt = Zvaigzne
 video-game-controller-avatar-alt =
     .alt = Videospēļu kontrolieris
 # Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
@@ -196,6 +198,7 @@ bike-avatar-alt =
 ## Tooltips for default avatar icons
 
 book-avatar = Grāmata
+briefcase-avatar = Portfelis
 clock-avatar = Pulkstenis
 custom-avatar = Pielāgots avatārs
 # Diamond refers to the precious stone, not the geometric shape
@@ -218,6 +221,7 @@ plane-avatar = Lidmašīna
 present-avatar = Dāvana
 shopping-avatar = Iepirkumu grozs
 sparkle-single-avatar = Dzirkstele
+star-avatar = Zvaigzne
 video-game-controller-avatar = Videospēļu kontrolieris
 custom-avatar-crop-back-button =
     .aria-label = Atpakaļ

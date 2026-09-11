@@ -73,9 +73,9 @@ tabbrowser-unblock-tab-audio-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title =
     { $tabCount ->
-        [zero] Vai aizvērt { $tabCount } cilni?
-        [one] Vai aizvērt { $tabCount } cilnes?
-       *[other] Vai aizvērt { $tabCount } ciļņu?
+        [zero] Aizvērt { $tabCount } ciļņu?
+        [one] Aizvērt { $tabCount } cilni?
+       *[other] Aizvērt { $tabCount } cilnes?
     }
 tabbrowser-confirm-close-tabs-button = Aizvērt cilnes
 
