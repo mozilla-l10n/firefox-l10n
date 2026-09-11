@@ -237,6 +237,7 @@ spotlight-public-wifi-vpn-link = Hozir emas
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Ancha vaqtlardan buyon { -brand-short-name } ni ishga tushirmaganga o‘xshaysiz. Yangidan ish boshlagan kabi uni tozalashni xohlaysizmi?  Ha aytgancha, yana bir bor xush kelibsiz!
 refresh-reinstalled-profile-infobar-message = { -brand-short-name } dasturini qayta o‘rnatganga o‘xshaysiz. Uni tozalab tashlashimizni va yangidan ishlashni boshlashni xohlaysizmi?
 refresh-profile-infobar-button = { -brand-short-name }ni yangilash…
     .accesskey = a
