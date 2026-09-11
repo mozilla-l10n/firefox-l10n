@@ -368,7 +368,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Veri ihlali uyarıları alın
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = E-postanızı gizli tutun
-appmenuitem-relay-description2 = Gelen kutunuzu spam’den korur
+appmenuitem-relay-description2 = Gelen kutunuzu spam’den koruyun
 # Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
 appmenuitem-relay-title-signed-in = E-posta maskelerini göster
 appmenuitem-relay-description = Gerçek e-posta adresinizi ve telefon numaranızı maskeleyin
