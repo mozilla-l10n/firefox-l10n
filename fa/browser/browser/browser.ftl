@@ -304,8 +304,8 @@ quickactions-addons = مشاهدهٔ افزونه‌ها
 # same word).
 quickactions-cmd-addons3 = افزونه‌ها, تم‌ها, پوسته‌ها, extensions, themes, addons, add-ons
 # Opens preferences page at AI controls
-quickactions-manageai = مدیریت تنظیمات هوش مصنوعی
-quickactions-cmd-manageai = هوش مصنوعی, غیرفعال کردن هوش مصنوعی, ai, disable ai, off ai, manage ai
+quickactions-manageai = مدیریت تنظیمات هوشواره
+quickactions-cmd-manageai = غیرفعال کردن هوشواره، خاموش کردن هوشواره، مدیریت هوشواره
 # Opens the bookmarks library window
 quickactions-bookmarks2 = مدیریت نشانک‌ها
 quickactions-cmd-bookmarks = نشانک‌ها, بوکمارک, bookmarks

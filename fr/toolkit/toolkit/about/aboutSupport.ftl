@@ -146,7 +146,6 @@ pdfjs-enabled = Activée
 pdfjs-enabled-annotation-editor = Éditeur d’annotations activé
 # XFA (XML Form Architecture) refers to Adobe’s technology for forms.
 pdfjs-enabled-xfa = XFA Forms activé
-pdfjs-open-attachments-inline = Ouvrir les pièces jointes PDF
 library-version-title = Versions des bibliothèques
 copy-text-to-clipboard-label = Copier le texte dans le presse-papiers
 copy-raw-data-to-clipboard-label = Copier les informations brutes dans le presse-papiers

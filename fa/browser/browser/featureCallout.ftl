@@ -232,11 +232,11 @@ pin-tabs-callout-4-title = سایت‌های پربازدید را سنجاق ک
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = نوار کناری: جایگاه ابزارها و زبانه‌ها
-sidebar-customization-callout-1-subtitle = نوار کناری { -brand-product-name } بدون این‌که صفحهٔ اصلی را ترک کنید، دسترسی سریعی به تاریخچهٔ مرور، زبانه‌های دستگاه‌های دیگر و دستیار هوش مصنوعی به شما می‌دهد.
+sidebar-customization-callout-1-subtitle = نوار کناری { -brand-product-name } بدون این‌که صفحهٔ اصلی را ترک کنید، دسترسی سریعی به تاریخچهٔ مرور، زبانه‌های دستگاه‌های دیگر و دستیار هوشواره به شما می‌دهد.
 sidebar-customization-callout-callout-button = سفارشی‌سازی نوار کناری
 sidebar-customization-callout-dismiss-button = پنهان کردن نوار کناری
 sidebar-customization-callout-2-title = نوار کناری { -brand-product-name } را به سلیقهٔ خود بسازید
-sidebar-customization-callout-2-subtitle = ابزارها را اضافه و کم کنید. زبانه‌هایتان را در نوار کناری قرار دهید یا دستیار هوش مصنوعی را امتحان کنید. شخصی‌سازی نوار کناری کاملاً در دستان شماست.
+sidebar-customization-callout-2-subtitle = ابزارها را اضافه و کم کنید. زبانه‌هایتان را در نوار کناری قرار دهید یا دستیار گفتگوی هوشواره را امتحان کنید. شخصی‌سازی نوار کناری کاملاً در دستان شماست.
 
 ## Sidebar Callout Survey Strings
 
