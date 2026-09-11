@@ -504,6 +504,7 @@ launch-options-spotlight-primary-button-launch = Bewarje en trochgean
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = It liket as oft jo { -brand-short-name } in tiid lyn net brûkt hawwe. Wolle jo it opskjinje foar in fris ‘lykas-nij’-ûnderfining? En trouwens, wolkom werom!
 refresh-reinstalled-profile-infobar-message = It liket as oft jo { -brand-short-name } opnij ynstallearre hawwe. Wolle jo it opskjinje foar in fris ‘lykas-nij’-ûnderfining?
 refresh-profile-infobar-button = { -brand-short-name } fernije…
     .accesskey = e
