@@ -100,3 +100,21 @@ felt-warning-title-download-attempt-failed =
     .heading = Impossibile scaricare l’aggiornamento
 felt-error-warning-download-attempt-failed-contact-admin = Impossibile scaricare l’ultimo aggiornamento. Se il problema persiste, contattare l’amministratore per assistenza.
 felt-back-button = Ritorna alla pagina di accesso
+
+## Console setup dialog, shown before anything else on generic builds where no
+## enterprise console address has been configured yet.
+
+felt-console-setup-window-title = { -brand-short-name } — Configurazione
+felt-console-setup-title = Inizia
+felt-console-setup-description = Inserisci l’indirizzo della console di gestione della tua organizzazione. Puoi richiederlo all’amministratore.
+felt-console-setup-input =
+    .label = Indirizzo della console
+    .placeholder = https://console.example.com
+felt-console-setup-invalid-address =
+    .message = Inserisci un indirizzo valido, ad esempio https://console.example.com
+felt-console-setup-save-failed =
+    .message = Non è stato possibile salvare l’indirizzo. Riprova o contatta l’amministratore se il problema persiste.
+felt-console-setup-save-btn =
+    .label = Salva e riavvia
+felt-console-setup-quit-btn =
+    .label = Esci
