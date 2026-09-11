@@ -227,5 +227,6 @@ spotlight-pin-secondary-button = ଏବେ ନୁହେଁ
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = ଆପଣ କିଛି ସମୟ ପର୍ଯ୍ୟନ୍ତ { -brand-short-name } କୁ ଆରମ୍ଭ କରିନାହାନ୍ତି ପରି ଦେଖାଯାଉଛି। ଆପଣ ଏହାକୁ ଏକ ସତେଜ, ନୂତନ ଅଭିଜ୍ଞତା ପାଇଁ ସଫା କରିବାକୁ ଚାହୁଁଛନ୍ତି କି? ଏବଂ ଆପଣଙ୍କୁ ପୁଣିଥରେ ସ୍ୱାଗତ କରୁଅଛୁ!
 refresh-profile-infobar-button = { -brand-short-name } କୁ ସତେଜ କରନ୍ତୁ…
     .accesskey = e
