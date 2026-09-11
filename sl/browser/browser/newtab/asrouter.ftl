@@ -510,5 +510,6 @@ launch-options-spotlight-primary-button-launch = Shrani in nadaljuj
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-reinstalled-profile-infobar-message = Kaže, da je { -brand-short-name } nameščen na novo. Želite, da ga počistimo in bo deloval kot nov?
 refresh-profile-infobar-button = Osveži { -brand-short-name } …
     .accesskey = e
