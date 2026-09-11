@@ -91,3 +91,6 @@ experimental-features-semantic-history-search-description = Utiliza un modelo de
 experimental-features-tab-notes =
     .label = Notas de pestaña
 experimental-features-tab-notes-description = Las notas de pestaña son una función experimental que te permite añadir notas adhesivas en las pestañas de tu navegador. Anota contexto, recordatorios o pasos a seguir para que, al regresar, recuerdes por qué las abriste. Nos encantaría recibir tus comentarios para seguir mejorando esta función. <a data-l10n-name="connect">Comparte tus comentarios</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = Menú de pestañas simplificado
