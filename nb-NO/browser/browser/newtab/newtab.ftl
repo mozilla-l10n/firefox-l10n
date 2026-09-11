@@ -481,6 +481,26 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Alternativer for nylige søk
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Les mer
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Nylige søk
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Trender
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = via { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Akkurat nå
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Fjern «{ $search }» fra nylige søk
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Nylige søk vises her, slik at du kan hente dem frem igjen når som helst.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -961,6 +981,20 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = En rev i høyre kant på oransje bakgrunn
+newtab-wallpaper-firefox-colorful-sky = Oransje bølger over en lilla nattehimmel
+newtab-wallpaper-firefox-desert-dark = En rev som sitter i en mørkelilla ørken
+newtab-wallpaper-firefox-desert-light = En rev som løper over en lys ørken
+newtab-wallpaper-firefox-hills-dark = En rev som løper over mørke åser
+newtab-wallpaper-firefox-hills-light = En rev som løper over lyse åser
+newtab-wallpaper-firefox-tail-dark = En revehale mot en mørk bakgrunn
+newtab-wallpaper-firefox-tail-light = En revehale på en lys bakgrunn
+newtab-wallpaper-firefox-side-kit-dark = En rev på venstre side, mot en mørk bakgrunn
+newtab-wallpaper-firefox-side-kit-light = En rev på venstre side, mot en lys bakgrunn
+newtab-wallpaper-firefox-sitting-hill-dark = En rev som sitter på mørkelilla åser
+newtab-wallpaper-firefox-sitting-hill-light = En rev som sitter på lyse åser
+newtab-wallpaper-firefox-peak-dark = Et reveansikt i venstre kant, mot en mørk bakgrunn
+newtab-wallpaper-firefox-peak-light = Et reveansikt i venstre kant, mot en lys bakgrunn
 
 ## Firefox
 

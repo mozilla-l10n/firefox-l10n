@@ -499,6 +499,28 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Nastajenja nejnowšych pytanjow
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Dalšne informacije
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Nejnowše pytanja
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Popularny
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = pśez { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Rowno
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = “{ $search }” z nejnowšych pytanjow wótwónoźeś
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Nejnowše pytanja se how pokazuju, aby je kuždy cas wubraś.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Popularne pytanja tuchylu njejsu k dispoziciji.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
