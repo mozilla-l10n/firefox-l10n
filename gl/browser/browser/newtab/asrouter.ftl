@@ -397,6 +397,7 @@ etp-strict-exceptions-infobar-button = Aplicar correccións
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Semella que fai tempo que non inicia { -brand-short-name }. Realizar unha limpeza para asegurar unha mellor experiencia? Por certo, benvida de novo!
 refresh-reinstalled-profile-infobar-message = Semella que reinstalou { -brand-short-name }. Desexa que lle fagamos unha limpeza para obter unha experiencia desde cero?
 refresh-profile-infobar-button = Refrescar { -brand-short-name }…
     .accesskey = e
