@@ -31,6 +31,14 @@ neterror-add-exception-button = 总是继续打开此网站
 neterror-settings-button = 更改 DNS 设置
 neterror-view-certificate-link = 查看证书
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = 无法连接到 <strong>{ $hostname }</strong> 的服务器。
+
 ##
 
 neterror-pref-reset = 看来可能是您的网络安全设置造成了此问题。您想还原到默认设置吗？
