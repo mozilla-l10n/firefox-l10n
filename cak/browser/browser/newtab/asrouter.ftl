@@ -291,6 +291,7 @@ tail-fox-spotlight-secondary-button = Wakami mani
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Achi'el ta chi man atikirisan ta { -brand-short-name } pa jun q'ijul. ¿La nawajo' najosq'ij richin jun k'ak'a' etamab'äl? ¡Tatz'eta' na pe, matyox chawe xatuqa chik qik'in!
 refresh-reinstalled-profile-infobar-message = Achi'el chi xayäk { -brand-short-name }. ¿La nawajo' chi tiqajosq'ij richin jun k'ak'a' etamab'äl, achi'el k'ak'a'?
 refresh-profile-infobar-button = Titikirisäx { -brand-short-name }…
     .accesskey = t
