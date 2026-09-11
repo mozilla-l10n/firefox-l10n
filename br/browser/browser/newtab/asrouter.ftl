@@ -335,5 +335,6 @@ multi-cta-fox-doodle-start-browsing-primary-button-label = Kregiñ gant ar merde
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-reinstalled-profile-infobar-message = War a-seblant ho peus adstaliet { -brand-short-name }. Fellout a ra deoc'h e naetfemp anezhañ evit ober evel ma vefe nevez-flamm?
 refresh-profile-infobar-button = Freskaat { -brand-short-name }…
     .accesskey = A
