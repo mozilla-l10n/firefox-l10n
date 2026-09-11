@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## These messages are used as headings in the recommendation doorhanger
 
 cfr-doorhanger-extension-heading = প্রস্তাবিত এক্সটেনশন
@@ -10,26 +11,19 @@ cfr-doorhanger-extension-heading = প্রস্তাবিত এক্স�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = আমি এটি কেন দেখছি
-
 cfr-doorhanger-extension-cancel-button = এখন নয়
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = এখন যোগ করুন
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = প্রস্তাবিত সেটিংস পরিচালনা করুন
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = আমাকে এই সুপারিশ দেখাবেন না
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = আরো জানুন
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } দ্বারা
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = সুপারিশ
@@ -54,56 +48,20 @@ cfr-doorhanger-extension-total-users =
        *[other] { $total } জন ব্যবহারকারীরা
     }
 
-## These messages are steps on how to use the feature and are shown together.
+## Mozilla Account messages
 
-
-## Firefox Accounts Message
-
-## Protections panel
 
 ## What's New toolbar button and panel
 
-## Search Bar
-
-## Picture-in-Picture
-
-## Permission Prompt
-
-## Fingerprinter Counter
-
-## Bookmark Sync
-
-## Login Sync
-
-## Send Tab
-
-## Firefox Send
-
-## Social Tracking Protection
 
 ## Enhanced Tracking Protection Milestones
 
-## What’s New Panel Content for Firefox 76
-
-## Lockwise message
-
-## Vulnerable Passwords message
-
-## Picture-in-Picture fullscreen message
-
-## Protections Dashboard message
-
-## Better PDF message
 
 ## DOH Message
 
-## What's new: Cookies message
-
-## Fission Experiment Message
 
 ## Full Video Support CFR message
 
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -111,9 +69,9 @@ cfr-doorhanger-extension-total-users =
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
+
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -128,19 +86,123 @@ cfr-doorhanger-extension-total-users =
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
-## Firefox View CFR
-
-## Firefox View Spotlight
-
-## Colorways expiry reminder CFR
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
+## PDF Annotations strings
+
+
 ## FxA sync CFR
+
 
 ## Device Migration FxA Spotlight
 
+
+## Set as Default PDF Reader Infobar
+
+
+## Launch on login infobar notification
+
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
+## Tail Fox Set Default Spotlight
+
+
+## Welcome Back Spotlight and Import
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+
+## Windows 10 EoS Global Infobar
+
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+
+## 'Set to default' messaging displayed within the App menu
+
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = আপনি যখন একটি { -brand-short-name } শুরু করেছেন মনে হচ্ছে. আপনি একটি তাজা, চাই নতুন অভিজ্ঞতার জন্য এটা পরিষ্কার করতে চান? এবং উপায় দ্বারা, ফিরে আসার জন্য স্বাগতম!
+refresh-reinstalled-profile-infobar-message = দেখাচ্ছে আপনি { -brand-short-name } পুনরায় ইন্সটল করেছেন। আপনি কি চান একটা নতুনের জন্য এটাকে মুছে ফেলতে, মানে নতুন একটা অভিজ্ঞতা?
+refresh-profile-infobar-button = রিফ্রেশ করুন { -brand-short-name }…
+    .accesskey = ফ
