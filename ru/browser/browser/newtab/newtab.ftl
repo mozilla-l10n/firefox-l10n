@@ -971,6 +971,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Лиса справа на оранжевом фоне
+newtab-wallpaper-firefox-colorful-sky = Оранжевые волны на фоне фиолетового ночного неба
+newtab-wallpaper-firefox-desert-dark = Лиса сидит в тёмно-фиолетовой пустыне
+newtab-wallpaper-firefox-desert-light = Лиса бежит по светлой пустыне
+newtab-wallpaper-firefox-hills-dark = Лиса бежит по темным холмам
+newtab-wallpaper-firefox-hills-light = Лиса бежит по светлым холмам
+newtab-wallpaper-firefox-tail-dark = Хвост лисы на тёмном фоне
+newtab-wallpaper-firefox-tail-light = Хвост лисы на светлом фоне
+newtab-wallpaper-firefox-side-kit-dark = Лиса слева, на тёмном фоне
+newtab-wallpaper-firefox-side-kit-light = Лиса слева, на светлом фоне
+newtab-wallpaper-firefox-sitting-hill-dark = Лиса сидит на тёмно-фиолетовых холмах
+newtab-wallpaper-firefox-sitting-hill-light = Лиса сидит на светлых холмах
+newtab-wallpaper-firefox-peak-dark = Морда лисы у левого края на тёмном фоне
+newtab-wallpaper-firefox-peak-light = Морда лисы у левого края на светлом фоне
+newtab-wallpaper-firefox-sky-dark = Тёмно-фиолетовые холмы под ночным небом
+newtab-wallpaper-firefox-sky-light = Светлые холмы под тихим небом
 
 ## Firefox
 

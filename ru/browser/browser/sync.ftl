@@ -70,6 +70,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Вы вышли
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Завершить настройку
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Войти для синхронизации
+fxa-menu-signed-out-description = Вы вышли
 fxa-avatar-sign-in = Войти
 fxa-avatar-sign-up = Зарегистрироваться
 fxa-avatar-tooltip =
