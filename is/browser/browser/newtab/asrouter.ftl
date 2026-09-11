@@ -186,6 +186,9 @@ fox-doodle-pin-secondary = Ekki núna
 set-default-pdf-handler-headline = <strong>PDF-skjölin þín opnast nú í { -brand-short-name }.</strong> Breyttu eða undirritaðu eyðublöð beint í vafranum þínum. Til að breyta þessu skaltu leita „PDF“ í stillingunum.
 set-default-pdf-handler-primary = Ég skil!
 
+## PDF Annotations strings
+
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Nýtt tæki í framtíðinni?
@@ -235,6 +238,19 @@ launch-on-login-infobar-final-message = <strong>Opna { -brand-short-name } í hv
 launch-on-login-infobar-final-reject-button = Nei takk
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -245,6 +261,9 @@ tail-fox-spotlight-title = Haltu leiðinlegum rekjurum frá slóðinni þinni
 tail-fox-spotlight-subtitle = Segðu bless við pirrandi auglýsingarekjara og fáðu öruggari, hraðvirkari internetupplifun.
 tail-fox-spotlight-primary-button = Opna tenglana mína með { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ekki núna
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -306,6 +325,9 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Hafðu eftirlætisvafrann þinn innan seilingar. Stilltu { -brand-short-name } sem sjálfgefinn vafra til að opna tengla og festu hann við verkefnastikuna þína og í ræsivalmyndina.
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = Hefjast handa
@@ -325,6 +347,9 @@ windows-10-eos-sync-callout-get-started-button = Hefjast handa
 windows-10-eos-feature-toast-whats-new-button = Sjáðu hvað er nýtt á seyði
 windows-10-eos-feature-toast-dismiss-button = Afgreiða
 
+## Windows 10 EoS Global Infobar
+
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -333,3 +358,40 @@ windows-10-eos-feature-toast-dismiss-button = Afgreiða
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = Fræðast meira
+
+## 'Set to default' messaging displayed within the App menu
+
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-reinstalled-profile-infobar-message = Svo virðist sem þú hafir sett { -brand-short-name } upp aftur. Viltu að við hreinsum til svo þú fáir ferska og nýja upplifun?
+refresh-profile-infobar-button = Uppfæra { -brand-short-name }…
+    .accesskey = U
