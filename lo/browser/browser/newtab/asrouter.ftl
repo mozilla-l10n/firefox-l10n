@@ -303,6 +303,7 @@ multi-cta-fox-doodle-title = ຍິນ​ດີ​ຕ້ອນ​ຮັບ​ກ
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = ເບິງຄ້າຍຄືວ່າທ່ານບໍ່ໄດ້ເປີດ { -brand-short-name } ມາໄດ້ໄລຍະຫນຶ່ງແລ້ວ. ທ່ານຕ້ອງການຈະລ້າງມັນໃຫມ່ຫມົດຫລືບໍ່? ແລະ ແນວໃດກໍ່ຕາມ ຍິນດີຕ້ອນຮັບກັບຄືນ!
 refresh-reinstalled-profile-infobar-message = ເບິງຄ້າຍຄືວ່າທ່ານໄດ້ທຳການຕິດຕັ້ງ { -brand-short-name } ຄືນໃຫມ່. ທ່ານຕ້ອງການຈະລ້າງມັນໃຫມ່ຫມົດຫລືບໍ່?
 refresh-profile-infobar-button = ຟື້ນຟູ { -brand-short-name }…
     .accesskey = e​
