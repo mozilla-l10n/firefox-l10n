@@ -516,6 +516,7 @@ lapsed-user-toast-dismiss-button = Zaćisnyć
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Zda so, zo njejsće { -brand-short-name } chwilku startował. Chceće jón za čerstwe, takrjec nowe dožiwjenje zrumować? Připódla prajene, witajće wróćo!
 refresh-reinstalled-profile-infobar-message = Zda so, zo sće { -brand-short-name } znowa instalował. Chceće jón za čerstwe, takrjec nowe dožiwjenje zrumować?
 refresh-profile-infobar-button = { -brand-short-name } wobnowić…
     .accesskey = n
