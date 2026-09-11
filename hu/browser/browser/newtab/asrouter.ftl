@@ -510,6 +510,7 @@ lapsed-user-toast-dismiss-button = Eltüntetés
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Úgy tűnik, a { -brand-short-name } nem lett elindítva egy ideje. Szeretné kitakarítani a friss, újszerű élmény érdekében? Egyébként pedig üdvözöljük újra!
 refresh-reinstalled-profile-infobar-message = Úgy tűnik, újratelepítette a { -brand-short-name }ot. Szeretné kitakarítani, hogy friss, újszerű állapotba kerüljön?
 refresh-profile-infobar-button = { -brand-short-name } felfrissítése…
     .accesskey = f
