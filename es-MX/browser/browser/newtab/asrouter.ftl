@@ -493,5 +493,6 @@ launch-options-spotlight-primary-button-launch = Guardar y continuar
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-reinstalled-profile-infobar-message = Parece que se ha reinstalado { -brand-short-name }. ¿Quieres limpiarlo para una nueva experiencia, como arrancar de cero?
 refresh-profile-infobar-button = Restablecer { -brand-short-name }…
     .accesskey = e
