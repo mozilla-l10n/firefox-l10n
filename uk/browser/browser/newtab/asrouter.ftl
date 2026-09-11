@@ -272,6 +272,12 @@ launch-on-login-autostart-infobar-keep-button = Зберегти
 launch-on-login-autostart-infobar-turn-off-button = Вимкнути
     .accesskey = В
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -282,6 +288,9 @@ tail-fox-spotlight-title = Тримайте надокучливі елемен�
 tail-fox-spotlight-subtitle = Попрощайтеся з надокучливим стеженням реклами та приготуйтеся до безпечнішої та швидшої роботи в інтернеті.
 tail-fox-spotlight-primary-button = Відкривати посилання в { -brand-short-name }
 tail-fox-spotlight-secondary-button = Не зараз
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -418,3 +427,38 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Зробити типовим
 set-default-menu-message-primary-button-variant = Зробити основним браузером
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = Схоже, що ви давно не запускали { -brand-short-name }. Хочете його відновити, щоб він став як новенький? До речі, з поверненням!
+refresh-reinstalled-profile-infobar-message = Схоже, що ви перевстановили { -brand-short-name }. Хочете його відновити, щоб він став як новенький?
+refresh-profile-infobar-button = Відновити { -brand-short-name }…
+    .accesskey = В

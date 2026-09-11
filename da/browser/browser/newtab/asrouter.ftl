@@ -254,6 +254,13 @@ launch-on-login-infobar-final-message = <strong>Åbner du { -brand-short-name } 
 launch-on-login-infobar-final-reject-button = Nej tak
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -276,6 +283,9 @@ tail-fox-spotlight-title = Hold irriterende sporings-tjenester på afstand
 tail-fox-spotlight-subtitle = Sig farvel til sporing via reklamer og goddag til en sikrere og hurtigere oplevelse på nettet.
 tail-fox-spotlight-primary-button = Åbn mine links med { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ikke nu
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -462,3 +472,14 @@ launch-options-spotlight-primary-button-launch = Gem og fortsæt
 lapsed-user-toast-title = { -brand-product-name } passer stadig på dig
 lapsed-user-toast-whats-new-button = Se nyhederne
 lapsed-user-toast-dismiss-button = Afvis
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = Det ser ud som om, du ikke har brugt { -brand-short-name } i et stykke tid. Vil du nulstille for at starte med en frisk profil? For øvrigt, velkommen tilbage!
+refresh-reinstalled-profile-infobar-message = Det ser ud som om, du har geninstalleret { -brand-short-name }. Skal vi rydde op, så du får en frisk start?
+refresh-profile-infobar-button = Nulstil { -brand-short-name }…
+    .accesskey = N

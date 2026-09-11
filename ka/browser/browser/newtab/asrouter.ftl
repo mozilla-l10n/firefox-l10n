@@ -503,3 +503,14 @@ lapsed-user-toast-title = { -brand-product-name } კვლავ თქვე�
 lapsed-user-toast-subtitle = გაეცანით ახალ გზებს, როგორ ინახულოთ გვერდები მეტი არჩევანით, პირადულობითა და მართვის შესაძლებლობებით.
 lapsed-user-toast-whats-new-button = იხილეთ სიახლეები
 lapsed-user-toast-dismiss-button = აცილება
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = როგორც ჩანს, დიდი ხანია, { -brand-short-name } არ ჩაგირთავთ. გსურთ მისი შეკეთება და გამოცოცხლება? ჰო, მართლა, კეთილი იყოს თქვენი დაბრუნება!
+refresh-reinstalled-profile-infobar-message = როგორც ჩანს, { -brand-short-name } ხელახლა დააყენეთ. გსურთ მისი გასუფთავება და პირვანდელ მდგომარეობაში დაბრუნება?
+refresh-profile-infobar-button = { -brand-short-name } – შეკეთება…
+    .accesskey = კ

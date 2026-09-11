@@ -186,6 +186,9 @@ fox-doodle-pin-secondary = Agora non
 set-default-pdf-handler-headline = <strong>Os seus PDF agora ábrense en { -brand-short-name }.</strong> Edite ou asine formularios directamente no seu navegador. Para cambiar, busque «PDF» na configuración.
 set-default-pdf-handler-primary = Entendido
 
+## PDF Annotations strings
+
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Novo dispositivo no seu futuro?
@@ -235,6 +238,19 @@ launch-on-login-infobar-final-message = <strong>Abrir { -brand-short-name } cada
 launch-on-login-infobar-final-reject-button = Non, grazas
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -245,6 +261,9 @@ tail-fox-spotlight-title = Mantén os molestos rastrexadores alonxados de ti
 tail-fox-spotlight-subtitle = Despídete dos molestos rastrexadores de anuncios e goza dunha experiencia de Internet máis segura e rápida.
 tail-fox-spotlight-primary-button = Abre as miñas ligazóns con { -brand-short-name }
 tail-fox-spotlight-secondary-button = Agora non
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -331,6 +350,9 @@ windows-10-eos-sync-callout-get-started-button = Comezar
 windows-10-eos-feature-toast-whats-new-button = Ver as novidades
 windows-10-eos-feature-toast-dismiss-button = Rexeitar
 
+## Windows 10 EoS Global Infobar
+
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -341,3 +363,41 @@ windows-10-eos-feature-toast-dismiss-button = Rexeitar
 etp-strict-exceptions-infobar-learn-more = Máis información
 etp-strict-exceptions-infobar-button = Aplicar correccións
     .accesskey = A
+
+## 'Set to default' messaging displayed within the App menu
+
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = Semella que fai tempo que non inicia { -brand-short-name }. Realizar unha limpeza para asegurar unha mellor experiencia? Por certo, benvida de novo!
+refresh-reinstalled-profile-infobar-message = Semella que reinstalou { -brand-short-name }. Desexa que lle fagamos unha limpeza para obter unha experiencia desde cero?
+refresh-profile-infobar-button = Refrescar { -brand-short-name }…
+    .accesskey = e

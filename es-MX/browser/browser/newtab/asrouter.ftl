@@ -474,3 +474,26 @@ launch-options-spotlight-checkbox-restore-previous = Reabrir ventanas y pestaña
 launch-options-spotlight-primary-button-close = Guardar y cerrar { -brand-short-name }
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Guardar y continuar
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = Parece que no has iniciado { -brand-short-name } en un tiempo. ¿Quieres limpiarlo para una nueva experiencia? Y a propósito, ¡bienvenido de nuevo!
+refresh-reinstalled-profile-infobar-message = Parece que se ha reinstalado { -brand-short-name }. ¿Quieres limpiarlo para una nueva experiencia, como arrancar de cero?
+refresh-profile-infobar-button = Restablecer { -brand-short-name }…
+    .accesskey = e

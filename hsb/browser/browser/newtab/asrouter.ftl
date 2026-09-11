@@ -509,3 +509,14 @@ lapsed-user-toast-title = { -brand-product-name } za wami steji
 lapsed-user-toast-subtitle = Testujće nowe móžnosće přehladowanja, z wjace wólbu, priwatnosću a kontrolu.
 lapsed-user-toast-whats-new-button = Čitajće, štož je nowe
 lapsed-user-toast-dismiss-button = Zaćisnyć
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = Zda so, zo njejsće { -brand-short-name } chwilku startował. Chceće jón za čerstwe, takrjec nowe dožiwjenje zrumować? Připódla prajene, witajće wróćo!
+refresh-reinstalled-profile-infobar-message = Zda so, zo sće { -brand-short-name } znowa instalował. Chceće jón za čerstwe, takrjec nowe dožiwjenje zrumować?
+refresh-profile-infobar-button = { -brand-short-name } wobnowić…
+    .accesskey = n

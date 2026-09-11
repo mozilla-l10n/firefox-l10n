@@ -143,6 +143,9 @@ fox-doodle-pin-secondary = ఇప్పుడు కాదు
 
 set-default-pdf-handler-primary = అర్థమైంది
 
+## PDF Annotations strings
+
+
 ## FxA sync CFR
 
 fxa-sync-cfr-primary = ఇంకా తెలుసుకోండి
@@ -168,9 +171,29 @@ launch-on-login-learnmore = ఇంకా తెలుసుకోండి
 launch-on-login-infobar-reject-button = ఇప్పుడు కాదు
     .accesskey = N
 
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = ఇప్పుడు కాదు
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -196,9 +219,21 @@ fxa-menu-message-close-button =
 
 multi-cta-fox-doodle-title = పునఃస్వాగతం
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+
 ## Windows 10 EoS sync messages group 2 feature callouts
 
 windows-10-eos-sync-callout-get-started-button = మొదలుపెట్టండి
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+
+## Windows 10 EoS Global Infobar
+
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
@@ -208,3 +243,41 @@ windows-10-eos-sync-callout-get-started-button = మొదలుపెట్ట�
 ## to fix common site breakage by unblocking essential elements.
 
 etp-strict-exceptions-infobar-learn-more = ఇంకా తెలుసుకోండి
+
+## 'Set to default' messaging displayed within the App menu
+
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = మీరు కొంత కాలంగా { -brand-short-name }‌ను వాడినట్టులేరు. దీన్ని కొత్తగా, తాజాగా అనుభూతి చెందేలా శుభ్రపరచుకుంటారా? అన్నట్టు, పునఃస్వాగతం!
+refresh-reinstalled-profile-infobar-message = మీరు { -brand-short-name }‌ను పునఃస్థాపించుకున్నట్టున్నారు. కొత్తగా, తాజాగా అనుభూతి చెందేలా దాన్ని శుభ్రపరచమంటారా?
+refresh-profile-infobar-button = { -brand-short-name }‌ను తాజాపరచు…
+    .accesskey = e

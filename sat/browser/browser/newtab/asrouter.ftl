@@ -188,6 +188,9 @@ fox-doodle-pin-secondary = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
 set-default-pdf-handler-headline = <strong>ᱟᱵᱚᱣᱟᱜ PDF ᱱᱤᱛᱚᱜ { -brand-short-name } ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱᱟ ᱾</strong> ᱟᱢᱟᱜ ᱵᱨᱟᱣᱡᱚᱨ ᱨᱮᱜᱮ ᱯᱷᱚᱨᱢ ᱥᱟᱯᱲᱟᱣ ᱟᱨᱵᱟᱝ ᱥᱩᱦᱤ ᱠᱟᱜ ᱢᱮ ᱾ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ, ᱥᱟᱡᱟᱣ ᱨᱮ  “PDF” ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ ᱾
 set-default-pdf-handler-primary = ᱵᱩᱡᱷᱟᱹᱣ ᱠᱮᱫᱟ
 
+## PDF Annotations strings
+
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = ᱟᱢᱟᱜ ᱵᱷᱚᱵᱤᱥᱚᱛ ᱨᱮᱭᱟᱜ ᱱᱟᱶᱟ ᱥᱟᱫᱷᱚᱱ ?
@@ -237,6 +240,19 @@ launch-on-login-infobar-final-message = <strong>ᱟᱢᱟᱜ ᱠᱚᱢᱯᱭᱩ�
 launch-on-login-infobar-final-reject-button = ᱵᱟᱝᱟ ᱥᱟᱨᱦᱟᱣ
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -247,6 +263,9 @@ tail-fox-spotlight-title = ᱵᱟᱹᱲᱤᱡ ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱟᱢ �
 tail-fox-spotlight-subtitle = ᱦᱟᱨᱠᱮᱛ ᱮᱰ ᱴᱨᱮᱠᱟᱨ ᱠᱚ ᱵᱤᱫᱟᱹ ᱢᱮᱱ ᱢᱮ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ, ᱩᱥᱟᱹᱨᱟ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱟᱹᱱᱟᱹᱭᱠᱟᱹᱣ ᱨᱮ ᱛᱟᱦᱮᱱ ᱢᱮ᱾
 tail-fox-spotlight-primary-button = { -brand-short-name } ᱥᱟᱶ ᱞᱤᱝᱠ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
 tail-fox-spotlight-secondary-button = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -259,6 +278,9 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = ᱛᱟᱭᱚᱢ ᱛᱮ
     .accesskey = L
+
+## Root Certificate Succession Windows Background Notification
+
 
 ## FxA Menu Message variants
 
@@ -298,3 +320,64 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱱᱤᱥᱚᱱᱼᱠᱚᱱᱫᱽᱨᱚ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱫᱚ ᱢᱤᱫ ᱚᱛᱟ ᱥᱟᱦᱟᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ ᱾ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱞᱮᱠᱟᱛᱮ ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱱᱚᱣᱟ ᱟᱢᱟᱜ ᱴᱟᱥᱠᱵᱨ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱱᱤᱥᱚᱱᱼᱠᱚᱱᱫᱽᱨᱚ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱫᱚ ᱢᱤᱫ ᱚᱛᱟ ᱥᱟᱦᱟᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱜ ᱢᱮ ᱾ ᱞᱤᱝᱠ ᱡᱷᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱟᱢᱟᱜ ᱢᱩᱞ ᱵᱽᱨᱟᱣᱩᱡᱟᱨ ᱞᱮᱠᱟᱛᱮ ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱱᱚᱣᱟ ᱟᱢᱟᱜ ᱴᱟᱥᱠᱵᱨ ᱟᱨ ᱮᱛᱦᱚᱵ ᱢᱮᱱᱩ ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+
+## Windows 10 EoS Global Infobar
+
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+
+## 'Set to default' messaging displayed within the App menu
+
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = ᱢᱤᱫ ᱳᱠᱛᱚ ᱨᱮ ᱱᱚᱣᱟ { -brand-short-name } ᱵᱟᱢ ᱮᱦᱚᱵ ᱟᱠᱟᱫ ᱳᱱᱠᱟ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ᱾ ᱪᱮᱫ ᱟᱢ ᱱᱟᱣᱟ ᱞᱟᱹᱜᱤᱫ ᱱᱚᱣᱟ ᱯᱷᱟᱨᱪᱟ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ, ᱱᱟᱣᱟ ᱧᱮᱞ ᱦᱮᱨᱮᱲ ᱞᱮᱠᱟ ? ᱟᱨ ᱳᱱᱠᱟ ᱛᱮᱦᱚᱸ ᱫᱚᱦᱲᱟ ᱥᱟᱹᱜᱩᱱ ᱫᱟᱨᱚᱢ !
+refresh-reinstalled-profile-infobar-message = ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱟᱢ { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱵᱚᱦᱟᱞ ᱠᱮᱜᱼᱟᱢ ᱾ ᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱞᱮ ᱥᱟᱯᱷᱟᱭᱟ ᱥᱮ, ᱱᱟᱶᱟ ᱞᱮᱠᱷᱟ ᱵᱩᱡᱷᱟᱹᱣᱜᱼᱟ ?
+refresh-profile-infobar-button = ᱫᱩᱦᱲᱟᱹ ᱟᱹᱨᱩ { -brand-short-name }…
+    .accesskey = e

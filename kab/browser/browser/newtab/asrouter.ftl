@@ -186,6 +186,9 @@ fox-doodle-pin-secondary = Mačči tura
 set-default-pdf-handler-headline = <strong>PDFs inek ttaldayen akka tura deg { -brand-short-name }.</strong>Ẓreg neɣ sezmel tiferkiyin srid deg yiminig-ik. I usenfel, nadi “PDF” deg yiɣewwaren.
 set-default-pdf-handler-primary = Awi-t
 
+## PDF Annotations strings
+
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Ibenk amaynut ɣer sdat?
@@ -226,6 +229,19 @@ launch-on-login-infobar-reject-button = Mačči tura
 launch-on-login-infobar-final-reject-button = Ala, tanemmirt
     .accesskey = A
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -235,6 +251,9 @@ launch-on-login-infobar-final-reject-button = Ala, tanemmirt
 tail-fox-spotlight-title = Eǧǧ yir ineḍfaṛen mbaεid
 tail-fox-spotlight-primary-button = Ldi iseɣwan-iw s { -brand-short-name }
 tail-fox-spotlight-secondary-button = Mačči tura
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -283,6 +302,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = Bdu tunigin
 multi-cta-fox-doodle-main-browser-primary-button-label = Err { -brand-short-name } d iminig-iw agejdan
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = Bdu
@@ -295,6 +317,12 @@ windows-10-eos-sync-callout-privacy-info-button = Wali acu yettusweḥlen
 windows-10-eos-sync-callout-next-button = Aḍfir
 windows-10-eos-sync-callout-get-started-button = Bdu
 
+## Windows 10 EoS Sync messages group 2 toast notification
+
+
+## Windows 10 EoS Global Infobar
+
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -304,3 +332,41 @@ windows-10-eos-sync-callout-get-started-button = Bdu
 
 etp-strict-exceptions-infobar-not-now = Mačči tura
     .accesskey = M
+
+## 'Set to default' messaging displayed within the App menu
+
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = Ahat deqs aya ur tsenkreḍ ara { -brand-short-name }. Tevɣiḍ ad tsefḍeḍ-t akken ad tafeḍ-ṭ d azedgan? Ansuf yis-k imi d-tuɣaleḍ!
+refresh-reinstalled-profile-infobar-message = Yettban d akken tesbeddeḍ tikelt-nniḍen { -brand-short-name }. Tebɣiḍ ad tenesfeḍ, am tarmit tamaynut?
+refresh-profile-infobar-button = Smiren { -brand-short-name }…
+    .accesskey = m

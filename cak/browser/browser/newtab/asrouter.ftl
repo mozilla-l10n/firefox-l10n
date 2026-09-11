@@ -161,6 +161,9 @@ mr2022-background-update-toast-primary-button-label = Tijaq { -brand-shorter-nam
 # exceeding characters will be truncated.
 mr2022-background-update-toast-secondary-button-label = Tinatäx pe Chwe pa Jumej
 
+## Cookie Banner Handling CFR
+
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Röj yatqachajij
@@ -173,12 +176,18 @@ fox-doodle-pin-secondary = Wakami mani
 
 set-default-pdf-handler-primary = Xik'o pa nuwi'
 
+## PDF Annotations strings
+
+
 ## FxA sync CFR
 
 fxa-sync-cfr-primary = Tetamäx ch'aqa' chik
     .accesskey = t
 fxa-sync-cfr-secondary = Tinatäx pe chwe
     .accesskey = n
+
+## Device Migration FxA Spotlight
+
 
 ## Set as Default PDF Reader Infobar
 
@@ -190,6 +199,99 @@ pdf-default-notification-decline-button =
 launch-on-login-infobar-reject-button = Wakami mani
     .accesskey = m
 
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-secondary-button = Wakami mani
+
+## Welcome Back Spotlight and Import
+
+
+## Root Certificate Succession Infobar
+
+
+## Root Certificate Succession Windows Background Notification
+
+
+## FxA Menu Message variants
+
+
+## Multi-CTA Fox Doodle Spotlight
+
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+
+## Windows 10 EoS Global Infobar
+
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+
+## 'Set to default' messaging displayed within the App menu
+
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = Achi'el ta chi man atikirisan ta { -brand-short-name } pa jun q'ijul. ¿La nawajo' najosq'ij richin jun k'ak'a' etamab'äl? ¡Tatz'eta' na pe, matyox chawe xatuqa chik qik'in!
+refresh-reinstalled-profile-infobar-message = Achi'el chi xayäk { -brand-short-name }. ¿La nawajo' chi tiqajosq'ij richin jun k'ak'a' etamab'äl, achi'el k'ak'a'?
+refresh-profile-infobar-button = Titikirisäx { -brand-short-name }…
+    .accesskey = t

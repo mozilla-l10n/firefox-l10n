@@ -485,3 +485,26 @@ launch-options-spotlight-checkbox-restore-previous = Eerdere vensters en tabblad
 launch-options-spotlight-primary-button-close = Opslaan en { -brand-short-name } sluiten
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Opslaan en doorgaan
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = Het lijkt erop dat u { -brand-short-name } een tijd niet hebt gebruikt. Wilt u het opschonen voor een frisse ‘als nieuw’-ervaring? Trouwens, welkom terug!
+refresh-reinstalled-profile-infobar-message = Het lijkt erop dat u { -brand-short-name } opnieuw hebt geïnstalleerd. Wilt u dat we het opschonen voor een frisse ‘als nieuw’-ervaring?
+refresh-profile-infobar-button = { -brand-short-name } opfrissen…
+    .accesskey = e
