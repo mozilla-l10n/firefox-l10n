@@ -301,6 +301,7 @@ device-migration-fxa-spotlight-getting-new-device-primary-button = Ciamar a nì 
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Tha coltas nach do thòisich thu { -brand-short-name } o chionn greis. A bheil thu airson a sgioblachadh airson 's gum bi gach rud glan sgiobalta, mar gum biodh e ùr nodha? Agus fàilte air ais, eadar dà sgeul!
 refresh-reinstalled-profile-infobar-message = Tha coltas gun do stàlaich thu { -brand-short-name } às ùr. A bheil thu airson ’s gun sgioblaich sinn dhut e ach am bi e cho glan ùr ’s a ghabhas?
 refresh-profile-infobar-button = Ath-nuadhaich { -brand-short-name }…
     .accesskey = n
