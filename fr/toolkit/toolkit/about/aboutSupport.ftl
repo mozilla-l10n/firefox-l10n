@@ -140,7 +140,7 @@ a11y-instantiator = Générateur d’accessibilité
 pdfjs-title = Visionneuse PDF
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = Version de PDF.js
-pdfjs-enabled = Activé
+pdfjs-enabled = Activée
 # The annotation editor is the set of PDF editing tools (draw, add image, add
 # text, signature).
 pdfjs-enabled-annotation-editor = Éditeur d’annotations activé
