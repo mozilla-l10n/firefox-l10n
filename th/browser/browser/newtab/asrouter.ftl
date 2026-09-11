@@ -482,6 +482,7 @@ nova-early-access-infobar-primary-button = เข้าใจแล้ว
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = ดูเหมือนว่าคุณไม่ได้เปิด { -brand-short-name } มาสักพักแล้ว คุณต้องการล้างทุกอย่างเพื่อเริ่มต้นใหม่หมดจดหรือไม่? อ้อแล้วนอกจากนั้น ยินดีต้อนรับกลับ!
 refresh-reinstalled-profile-infobar-message = ดูเหมือนว่าคุณได้ติดตั้ง { -brand-short-name } ใหม่ ต้องการให้เราล้างทุกอย่างเพื่อเริ่มต้นใหม่หมดจด?
 refresh-profile-infobar-button = ล้าง { -brand-short-name } ใหม่…
     .accesskey = ล
