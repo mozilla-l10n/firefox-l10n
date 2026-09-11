@@ -9,10 +9,23 @@
 ##   $status (Number) - HTTP status code, for example 403
 
 firefox-relay-mask-generation-failed = { -relay-brand-name } نتوانست پوشانه جدیدی ایجاد کند. کد خطای HTTP: { $status }.
+firefox-relay-get-reusable-masks-failed = { -relay-brand-name } نتوانست ماسک‌های قابل استفاده مجدد را پیدا کند. کد خطای HTTP: { $status }.
 
 ##
 
 firefox-relay-must-login-to-account = برای استفاده از پوشانهٔ رایانامهٔ { -relay-brand-name } به حساب کاربری خود وارد شوید.
+firefox-relay-get-unlimited-masks =
+    .label = مدیریت ماسک‌ها
+    .accesskey = م
+# $count (Number) - The number of free email masks the user has used
+firefox-relay-reuse-masks-header =
+    { $count ->
+        [one] شما از تمام { $count } ماسک ایمیل رایگان استفاده کرده‌اید
+       *[other] شما از تمام { $count } ماسک ایمیل رایگان استفاده کرده‌اید
+    }
+# Description following warning that the user has used all their free email masks.
+# The user is presented a list of recently used masks to select, or they can click a button to see all masks.
+firefox-relay-reuse-masks-description-v2 = می‌توانید یکی را دوباره استفاده کنید یا برای انتخاب ماسکی متفاوت، همه ماسک‌ها را ببینید.
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = محافظت از نشانی رایانامه شما:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

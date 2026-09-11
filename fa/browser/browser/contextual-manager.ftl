@@ -319,4 +319,20 @@ contextual-manager-passwords-no-passwords-header-2 = گذرواژه‌های خ�
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = بستن بدون ذخیره کردن؟
+    .message = تغییرات شما ذخیره نخواهد شد.
 contextual-manager-passwords-discard-changes-close-button = بستن
+contextual-manager-passwords-discard-changes-go-back-button = بازگشت
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] بله، گذرواژه را حذف کنید
+        [one] بله، گذرواژه‌ها را حذف کنید
+       *[other] بله، گذرواژه‌ها را حذف کنید
+    }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = برای مشاهده گذرواژه‌های ذخیره شده، رمز اصلی خود را وارد کنید.
+# This string informs the user their primary password is used to authenticate and access their passwords
+contextual-manager-primary-password-reauth-button = وارد کردن گذرواژهٔ اصلی
+contextual-manager-primary-password-learn-more-link = بیشتر بدانید

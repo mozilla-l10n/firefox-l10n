@@ -39,3 +39,6 @@ default-browser-guidance-notification-body-instruction-win11 =
     مرحله ۲: برای { -brand-short-name } روی «تنظیم به عنوان پیش‌فرض» کلیک کنید
 default-browser-guidance-notification-info-page = بهم نشان بده
 default-browser-guidance-notification-dismiss = انجام شد
+default-browser-guidance-notification-v2-title = تکمیل انتخاب { -brand-short-name } به‌عنوان مرورگر پیش‌فرض
+default-browser-guidance-notification-v2-body = در تنظیمات، گزینهٔ «تنظیم به عنوان پیش‌فرض (Set default)» را برای { -brand-short-name } انتخاب کنید.
+default-browser-guidance-notification-v2-title-only = انتخاب { -brand-short-name } به‌عنوان مرورگر پیش‌فرض را در تنظیمات تکمیل کنید
