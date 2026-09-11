@@ -172,6 +172,7 @@ cfr-doorhanger-extension-cancel-button = Nie nou nie
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Dit lyk of { -brand-short-name } vir 'n ruk lank nie begin is nie. Welkom terug! Sal ons als skoonmaak vir 'n vars, so-goed-soos-nuut ervaring?
 refresh-reinstalled-profile-infobar-message = Dit lyk of { -brand-short-name } oorgeïnstalleer is. Sal ons als skoonmaak vir 'n vars, so-goed-soos-nuut ervaring?
 refresh-profile-infobar-button = Verfris { -brand-short-name }…
     .accesskey = e
