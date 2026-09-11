@@ -481,6 +481,28 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Opciones de búsquedas recientes
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Más información
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Búsquedas recientes
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Popular
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = mediante { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Justo ahora
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Eliminar “{ $search }” de las búsquedas recientes
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Aquí se mostrarán tus búsquedas recientes para que puedas retomarlas cuando quieras.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Las búsquedas populares no están disponibles en este momento.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -961,6 +983,7 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Un zorro en el borde derecho sobre un fondo naranja.
 
 ## Firefox
 
