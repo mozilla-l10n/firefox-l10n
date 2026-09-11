@@ -503,6 +503,7 @@ launch-options-spotlight-primary-button-launch = ਸੰਭਾਲੋ ਅਤੇ �
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = ਇੰਝ ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਕੁਝ ਸਮੇਂ ਤੋਂ { -brand-short-name } ਨੂੰ ਵਰਤਿਆ ਨਹੀਂ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਸਾਫ਼ ਕਰਕੇ ਤਾਜ਼ੇ ਨਵੇਂ ਨਕੋਰ ਤਜਰਬੇ ਨਾਲ ਸ਼ੁਰੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ? ਤੇ ਨਾਲੇ ਜੀ ਆਇਆਂ ਨੂੰ!
 refresh-reinstalled-profile-infobar-message = ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਮੁੜ-ਇੰਸਟਾਲ ਕਰੋ। ਤਾਜ਼ਾ, ਨਵੇਂ ਵਰਗਾ ਤਜਰਬਾ ਹਾਸਿਲ ਕਰਨ ਲਈ ਸਾਨੂੰ ਇਸ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 refresh-profile-infobar-button = …{ -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
     .accesskey = e
