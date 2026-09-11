@@ -219,6 +219,7 @@ fxa-menu-message-backup-sync-primary-text = Məlumatlarınızı təhlükəsiz v�
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Bir müddətdir { -brand-short-name } səyyahı istifadə edilməyib. Yeni və fərah bir başlanğıc üçün səyyahı təmizləmək istəyirsiniz mi? Bu arada, yenidən xoş gördük!
 refresh-reinstalled-profile-infobar-message = Görünür { -brand-short-name } səyyahını yenidən qurmusunuz. Yeni səyyah təcrübəsi üçün köhnə məlumatlar silinsin?
 refresh-profile-infobar-button = { -brand-short-name } səyyahını yenilə…
     .accesskey = e
