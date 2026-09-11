@@ -80,9 +80,9 @@ protections-not-blocking-social-media-trackers =
 # In its tooltip, we show the date when we started counting this number.
 protections-footer-blocked-tracker-counter =
     { $trackerCount ->
-        [zero] { $trackerCount } bloķēts
-        [one] { $trackerCount } bloķēti
-       *[other] { $trackerCount } bloķētu
+        [zero] { $trackerCount } aizturēti
+        [one] { $trackerCount } aizturēts
+       *[other] { $trackerCount } aizturēti
     }
     .tooltiptext = Kopš { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
@@ -90,9 +90,9 @@ protections-footer-blocked-tracker-counter =
 # this message is used to leave out the tooltip when the date is not available.
 protections-footer-blocked-tracker-counter-no-tooltip =
     { $trackerCount ->
-        [zero] { $trackerCount } bloķēts
-        [one] { $trackerCount } bloķēti
-       *[other] { $trackerCount } bloķētu
+        [one] { $trackerCount } aizturēts
+        [zero] { $trackerCount } aizturēti
+       *[other] { $trackerCount } aizturēti
     }
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
