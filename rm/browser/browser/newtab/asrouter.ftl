@@ -446,6 +446,7 @@ set-default-menu-message-primary-button-variant = Definir sco navigatur principa
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = I para che ti n'hajas betg avià { -brand-short-name } dapi in temp. Vuls ti nettegiar il program per ch'el funcziunia sco nov? E dal reminent: Bainvegni!
 refresh-reinstalled-profile-infobar-message = I para che ti hajas reinstallà { -brand-short-name }. Vuls ti far urden per ch'il program funcziunia puspè sco nov?
 refresh-profile-infobar-button = Redefinir { -brand-short-name }…
     .accesskey = e
