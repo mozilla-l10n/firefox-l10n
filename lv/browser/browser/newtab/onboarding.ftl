@@ -185,7 +185,7 @@ mr2022-onboarding-set-default-title = Padari { -brand-short-name } par savu iera
 mr2022-onboarding-set-default-primary-button-label = Iestatīt { -brand-short-name } kā noklusējuma pārlūku
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-subtitle = Lietojiet pārlūku, ko atbalsta bezpeļņas organizācija. Mēs aizsargājam jūsu privātumu, kamēr jūs staigājat pa tīmekli.
+mr2022-onboarding-set-default-subtitle = Izmanto pārlūku, ko atbalsta bezpeļņas apvienība. Mēs aizsargājam Tavu privātumu, kamēr Tu klīsti tīmeklī.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
