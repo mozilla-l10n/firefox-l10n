@@ -49,8 +49,8 @@ neterror-search-cta-hint-check-address = Confirme novamente o endereço do site
 neterror-search-cta-hint-search = Pesquisar na Internet para encontrar o site
 # Shown when the Search button is offered, naming the exact query it will run.
 # $query (String) - The search query derived from the address that failed to
-# load, for example "best hiking boots reviews". The query and the quotation
-# marks around it are emphasized.
+# load, beginning with the site's name, for example "example best hiking
+# boots". The query and the quotation marks around it are emphasized.
 neterror-search-cta-hint-search-query = Pesquisar na Internet por <strong>“{ $query }”</strong>
 # .tooltiptext doubles as the button's accessible description, so it explains
 # that results open in a new tab.

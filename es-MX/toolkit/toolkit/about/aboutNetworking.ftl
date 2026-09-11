@@ -19,6 +19,29 @@ about-networking-alt-svc-alpn = ALPN
 about-networking-alt-svc-validated = Validación correcta
 about-networking-alt-svc-ttl = TTL
 about-networking-alt-svc-origin-attributes-suffix = Clave de aislamiento
+about-networking-ssl-tokens = Tokens TLS
+# $count (Number) - Number of cached TLS resumption tokens
+about-networking-ssl-tokens-summary-count =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
+# $count (Number) - Number of cached tokens that have already expired
+about-networking-ssl-tokens-summary-expired =
+    { $count ->
+        [one] ({ $count } vencido)
+       *[other] ({ $count } vencidos)
+    }
+# $decompressedLength (Number) - Total uncompressed size in bytes across all tokens
+# $compressedLength (Number) - Total compressed size in bytes across all tokens
+# $saved (Number) - Percentage of space saved by compression
+about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { $compressedLength } B ({ $saved } % ahorrado)
+# $used (Number) - Cache size currently in use, in kilobytes
+# $capacity (Number) - Total cache capacity, in kilobytes
+# $percent (Number) - Percentage of the cache capacity currently in use
+about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent } %)
+about-networking-ssl-tokens-partition-key = Clave de partición
+about-networking-ssl-tokens-tokens-column = Tokens
 about-networking-refresh = Refrescar
 about-networking-auto-refresh = Refrescar automáticamente cada 3 segundos
 about-networking-hostname = Nombre del servidor

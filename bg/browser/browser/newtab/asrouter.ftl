@@ -185,9 +185,6 @@ fox-doodle-pin-secondary = Не сега
 set-default-pdf-handler-headline = <strong>PDF файловете вече се отварят с { -brand-short-name }.</strong> Променяйте или подписвайте формуляри директно в четеца. За промяна потърсете „PDF“ в настройките.
 set-default-pdf-handler-primary = Разбрах
 
-## PDF Annotations strings
-
-
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Планирате ли ново устройство в бъдеще?
@@ -237,19 +234,6 @@ launch-on-login-infobar-final-message = <strong>Да се отваря ли { -b
 launch-on-login-infobar-final-reject-button = Не, благодаря
     .accesskey = Н
 
-## Launch on login "show and tell" infobar notification
-##
-## Shown after Firefox has automatically launched at Windows sign-in (an
-## experiment enabled launch-on-login for the user), informing them that this
-## happened and letting them keep it on or turn it off.
-
-
-## Launch on login spotlight
-##
-## Shown as a spotlight message when the user closes the browser, offering to set
-## { -brand-short-name } to launch when the computer starts up.
-
-
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -260,9 +244,6 @@ tail-fox-spotlight-title = Дръжте досадното проследява�
 tail-fox-spotlight-subtitle = Кажете сбогом на проследяването от реклами и се наслаждавайте на по-сигурен и бърз интернет.
 tail-fox-spotlight-primary-button = Отваряне на препратки с { -brand-short-name }
 tail-fox-spotlight-secondary-button = Не сега
-
-## Welcome Back Spotlight and Import
-
 
 ## Root Certificate Succession Infobar
 
@@ -323,9 +304,6 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = Дръжте любимия си насочен към поверителността мрежов четец само на щракване разстояние. Задайте { -brand-short-name } подразбиран четец и го дръжте на лентата със задачи и в менюто Start.
 
-## Windows 10 EoS Sync messages group 1 spotlight
-
-
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = Въведение
@@ -360,30 +338,6 @@ etp-strict-exceptions-infobar-learn-more = Научете повече
 set-default-menu-message-simple-layout-title-variant = { -brand-short-name } не е вашият основен браузър
 set-default-menu-message-row-layout-title = Направете { -brand-short-name } основен браузър
 set-default-menu-message-primary-button-variant = Задаване като основен браузър
-
-## Firefox Relay 50 Masks Announcement
-
-
-## Nova Early Access Infobar
-
-
-## Firefox launch options spotlight
-##
-## Shown as a spotlight prompt on browser close or launch, offering
-## launch-on-login, taskbar pinning, and session restore.
-
-
-## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
-##
-## These strings will be displayed by the Windows operating system in a
-## native toast shown by the background task to users who have Firefox
-## installed but haven't opened it recently. The message itself is hosted
-## off-train on Remote Settings via Nimbus; the strings are landed here so
-## localization can begin.
-##
-## The button labels are fitted into narrow fixed-width buttons by
-## Windows and therefore must be as narrow as possible.
-
 
 ## Refresh Firefox infobar
 ##

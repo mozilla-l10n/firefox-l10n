@@ -49,8 +49,8 @@ neterror-search-cta-hint-check-address = ਵੈੱਬਸਾਈਟ ਸਿਰਨ�
 neterror-search-cta-hint-search = ਸਾਈਟ ਲਈ ਵੈੱਬ ਉੱਤੇ ਲੱਭੋ
 # Shown when the Search button is offered, naming the exact query it will run.
 # $query (String) - The search query derived from the address that failed to
-# load, for example "best hiking boots reviews". The query and the quotation
-# marks around it are emphasized.
+# load, beginning with the site's name, for example "example best hiking
+# boots". The query and the quotation marks around it are emphasized.
 neterror-search-cta-hint-search-query = <strong>“{ $query }”</strong> ਲਈ ਵੈੱਬ ਖੋਜੋ
 # .tooltiptext doubles as the button's accessible description, so it explains
 # that results open in a new tab.

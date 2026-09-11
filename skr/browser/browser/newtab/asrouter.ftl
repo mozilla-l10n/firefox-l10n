@@ -185,9 +185,6 @@ fox-doodle-pin-secondary = ہݨ کائناں
 set-default-pdf-handler-headline = <strong>تہاݙیاں PDFs ہݨ { -brand-short-name } وچ کھلدیاں ہن۔</strong> براہ راست آپݨے براؤزر وچ فارماں وچ تبدیلی یا دستخط کرو۔ وٹاوݨ کیتے، ترتیباں وچ  “PDF” ڳولو۔
 set-default-pdf-handler-primary = سمجھ گھدے
 
-## PDF Annotations strings
-
-
 ## FxA sync CFR
 
 fxa-sync-cfr-header = تہاݙے مستقبل وچ نویں ڈیوائس؟
@@ -237,19 +234,6 @@ launch-on-login-infobar-final-message = <strong>ہر واری جہڑیلے تُ�
 launch-on-login-infobar-final-reject-button = کو، شکریہ
     .accesskey = N
 
-## Launch on login "show and tell" infobar notification
-##
-## Shown after Firefox has automatically launched at Windows sign-in (an
-## experiment enabled launch-on-login for the user), informing them that this
-## happened and letting them keep it on or turn it off.
-
-
-## Launch on login spotlight
-##
-## Shown as a spotlight message when the user closes the browser, offering to set
-## { -brand-short-name } to launch when the computer starts up.
-
-
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -260,9 +244,6 @@ tail-fox-spotlight-title = پریشان کُن ٹریکرز کوں آپݨ دُم
 tail-fox-spotlight-subtitle = پریشان کرݨ آلے اشتہاراتی ٹریکرز کوں خیرباد آکھو اَتے ہِک محفوظ، تِکّھی رفتار انٹرنیٹ تجربہ حاصل کرو۔
 tail-fox-spotlight-primary-button = { -brand-short-name } دے نال میݙے لنک کھولو
 tail-fox-spotlight-secondary-button = ہݨ کائناں
-
-## Welcome Back Spotlight and Import
-
 
 ## Root Certificate Succession Infobar
 
@@ -275,9 +256,6 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = بعد وچ
     .accesskey = L
-
-## Root Certificate Succession Windows Background Notification
-
 
 ## FxA Menu Message variants
 
@@ -317,56 +295,6 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] آپݨے پسندیدہ رازداری تے مرکوز براؤزر کوں صرف ہک کلک دے فاصلے تے رکھو۔ لنکس کھولݨ کیتے { -brand-short-name } کوں آپݨے ڈیفالٹ براؤزر دے طور تے سیٹ کرو تے اینکوں آپݨے ٹاسک بار  تے پن کرو۔
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = آپݨے پسندیدہ رازداری تے مرکوز براؤزر کوں صرف ہک کلک دے فاصلے تے رکھو۔ لنکس کھولݨ کیتے { -brand-short-name } کوں آپݨے ڈیفالٹ براؤزر دے طور تے سیٹ کرو تے اینکوں آپݨے ٹاسک بار تے سٹارٹ مینیو تے پن کرو۔
-
-## Windows 10 EoS Sync messages group 1 spotlight
-
-
-## Windows 10 EoS Sync messages group 1 toast notification
-
-
-## Windows 10 EoS sync messages group 2 feature callouts
-
-
-## Windows 10 EoS Sync messages group 2 toast notification
-
-
-## Windows 10 EoS Global Infobar
-
-
-## ETP (Enhanced Tracking Protection) Strict exceptions infobar
-##
-## These strings are displayed in an infobar notification that appears when
-## Enhanced Tracking Protection's Strict mode is causing website functionality
-## issues. The infobar offers users the option to apply automatic exceptions
-## to fix common site breakage by unblocking essential elements.
-
-
-## 'Set to default' messaging displayed within the App menu
-
-
-## Firefox Relay 50 Masks Announcement
-
-
-## Nova Early Access Infobar
-
-
-## Firefox launch options spotlight
-##
-## Shown as a spotlight prompt on browser close or launch, offering
-## launch-on-login, taskbar pinning, and session restore.
-
-
-## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
-##
-## These strings will be displayed by the Windows operating system in a
-## native toast shown by the background task to users who have Firefox
-## installed but haven't opened it recently. The message itself is hosted
-## off-train on Remote Settings via Nimbus; the strings are landed here so
-## localization can begin.
-##
-## The button labels are fitted into narrow fixed-width buttons by
-## Windows and therefore must be as narrow as possible.
-
 
 ## Refresh Firefox infobar
 ##
