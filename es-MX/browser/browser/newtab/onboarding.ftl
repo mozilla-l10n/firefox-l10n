@@ -552,6 +552,7 @@ smartwindow-existing-user-fx-tou-go-back = Regresar
 
 ## Smart Window about:welcome screen
 
+smartwindow-onboarding-title = Utiliza { -smart-window-brand-name(form: "upper-plural") } como punto de partida
 smartwindow-onboarding-primary-button = Continuar
 
 ## Theme Picker screen strings
