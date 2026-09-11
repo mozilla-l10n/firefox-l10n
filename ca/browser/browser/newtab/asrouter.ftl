@@ -502,3 +502,13 @@ lapsed-user-toast-title = { -brand-product-name } us continua fent costat
 lapsed-user-toast-subtitle = Consulteu les noves maneres de navegar amb més opcions, privadesa i control.
 lapsed-user-toast-whats-new-button = Descobriu les novetats
 lapsed-user-toast-dismiss-button = Ignora
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-reinstalled-profile-infobar-message = Sembla que heu reinstal·lat el { -brand-short-name }. Voleu realitzar una neteja per tal que s'iniciï com si fos la primera vegada?
+refresh-profile-infobar-button = Restableix el { -brand-short-name }…
+    .accesskey = e
