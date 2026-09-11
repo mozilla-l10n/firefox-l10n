@@ -227,6 +227,7 @@ cfr-doorhanger-doh-secondary-button = ပိတ်ထားသည်
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = ကြည်ရတာ သင် { -brand-short-name } ကိုမသုံးတာကြာပြီထင်တယ်။ ပိုပြီး ပေါ့ပါးပြီး သစ်လွင်သော ခံစားချက်မျိုးရအောင် သန့်လိုက်မလား ? ဒါနဲ့ ပြန်လာတာကိုကြိုဆိုပါတယ်!
 refresh-reinstalled-profile-infobar-message = { -brand-short-name } ကို ပြန်လည်ထည့်သွင်းတပ်ဆင်ထားပုံရသည်။ အသစ်ကဲ့သို့ လတ်ဆတ်သည့်အတွေ့အကြုံ ရရှိစေရန်အတွက် ၎င်းကို ဖယ်ရှားစေချင်ပါသလား။
 refresh-profile-infobar-button = { -brand-short-name } ကို ပြန်စရန်… e
     .accesskey = e
