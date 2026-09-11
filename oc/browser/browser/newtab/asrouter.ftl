@@ -331,6 +331,7 @@ etp-strict-exceptions-infobar-not-now = Pas ara
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Sembla qu'avètz pas aviat { -brand-short-name } dempuèi un pichon moment. Lo volètz netejar e retrobar un perfil coma nòu ? D'alhors, urós de vos retrobar !
 refresh-reinstalled-profile-infobar-message = Sembla qu’avètz reinstallat { -brand-short-name }. Volètz o netejar per que se tòrne aviar coma s’èra lo primièr còp ?
 refresh-profile-infobar-button = Restablir { -brand-short-name }…
     .accesskey = e
