@@ -42,6 +42,14 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent } %)
 about-networking-ssl-tokens-partition-key = Clave de partición
 about-networking-ssl-tokens-tokens-column = Tokens
+about-networking-ssl-tokens-expires = Expira
+about-networking-ssl-tokens-certificate = Certificado
+# $count (Number) - Number of tokens sharing this row's host and certificate
+about-networking-ssl-tokens-token-list =
+    { $count ->
+        [one] { $count } token
+       *[other] { $count } tokens
+    }
 about-networking-refresh = Refrescar
 about-networking-auto-refresh = Refrescar automáticamente cada 3 segundos
 about-networking-hostname = Nombre del servidor
