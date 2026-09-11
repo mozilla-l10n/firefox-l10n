@@ -460,6 +460,7 @@ launch-options-spotlight-primary-button-launch = Պահել և շարունակ�
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Կարծես դուք տևական ժամանակ  չեք բացել { -brand-short-name }-ը: Ցանկանու՞մ եք այն մաքրել և սկսել աշխատանքը ինչպես որ առաջին անգամ: Եվ ի դեպ՝ բարի վերադարձ :)
 refresh-reinstalled-profile-infobar-message = Կարծես, թե դուք վերատեղադրվել եք { -brand-short-name }-ը: Ցանկանու՞մ եք, որ մենք մաքրենք այն ինչպես նոր տեղադրում:
 refresh-profile-infobar-button = Թարմացնել { -brand-short-name }-ը…
     .accesskey = ա
