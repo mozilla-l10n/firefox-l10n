@@ -254,6 +254,13 @@ launch-on-login-infobar-final-message = <strong>Ҳар вақте ки шумо 
 launch-on-login-infobar-final-reject-button = Не, ташаккур
     .accesskey = Н
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -272,6 +279,9 @@ tail-fox-spotlight-title = Васоити пайгирии безоркунан�
 tail-fox-spotlight-subtitle = Ба васоити пайгирии таблиғотии безоркунанда хайрбод гӯед ва ба таҷрибаи бехатартар ва Интернети босуръат  мубаддал шавед.
 tail-fox-spotlight-primary-button = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
 tail-fox-spotlight-secondary-button = Ҳоло не
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -436,3 +446,26 @@ launch-options-spotlight-checkbox-restore-previous = Аз нав кушодан�
 launch-options-spotlight-primary-button-close = Нигоҳ доштан ва пӯшидани «{ -brand-short-name }»
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Нигоҳ доред ва идома диҳед
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-unused-profile-infobar-message = Чунин ба назар мерасад, ки шумо кайҳо боз { -brand-short-name }-ро оғоз накардед. Шумо мехоҳед, ки онро пок созед, то ки он ҳамчун нав ба кор дарояд? Ва дар омади гап, хуш омадед!
+refresh-reinstalled-profile-infobar-message = Чунин ба назар мерасад, ки шумо { -brand-short-name }-ро аз нав насб кардед. Шумо мехоҳед, ки мо онро пок созем, то ки он ҳамчун нав ба кор дарояд?
+refresh-profile-infobar-button = Нав кардани { -brand-short-name }…
+    .accesskey = e
