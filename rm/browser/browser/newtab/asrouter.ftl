@@ -255,6 +255,19 @@ launch-on-login-infobar-final-message = <strong>Ti avras { -brand-short-name } m
 launch-on-login-infobar-final-reject-button = Na, grazia
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -265,6 +278,9 @@ tail-fox-spotlight-title = Ta liberescha da fastizaders stentus
 tail-fox-spotlight-subtitle = Piglia cumià da fastizaders da reclama stentus e giauda l’internet a moda pli segira e svelta.
 tail-fox-spotlight-primary-button = Avrir mias colliaziuns cun { -brand-short-name }
 tail-fox-spotlight-secondary-button = Betg ussa
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -368,6 +384,9 @@ windows-10-eos-feature-toast-subtitle = { -brand-product-name } ha reagì a la g
 windows-10-eos-feature-toast-whats-new-button = Scuvrir las novaziuns
 windows-10-eos-feature-toast-dismiss-button = Serrar
 
+## Windows 10 EoS Global Infobar
+
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -396,3 +415,36 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Definir sco standard
 set-default-menu-message-primary-button-variant = Definir sco navigatur principal
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-profile-infobar-button = Redefinir { -brand-short-name }…
+    .accesskey = e
