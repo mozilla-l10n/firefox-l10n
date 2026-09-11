@@ -255,6 +255,7 @@ july-jam-set-default-primary = Buksan ang aking mga link gamit ang { -brand-shor
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Mukhang hindi mo pa nasisimulan ang { -brand-short-name } sa ilang sandali. Gusto mo bang linisin ito para sariwa, tulad ng bagong karanasan? Ay nga pala, maligayang pagbabalik!
 refresh-reinstalled-profile-infobar-message = Mukhang inulit mo ang pag-install ng { -brand-short-name }. Gusto mo bang linisin ito para sariwa, tulad ng bagong karanasan?
 refresh-profile-infobar-button = I-refresh { -brand-short-name }…
     .accesskey = e
