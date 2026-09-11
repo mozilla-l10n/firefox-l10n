@@ -216,6 +216,7 @@ cfr-doorhanger-milestone-ok-button = सर्व पाहा
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = आपण { -brand-short-name } सुरू केले नाही, असे आढळले आहे. आपणाला नवीन अनुभवकरिता क्लिनअप करायचे? आणि, आपले स्वागत आहे!
 refresh-reinstalled-profile-infobar-message = आपण { -brand-short-name } पुनःप्रस्थापित केले असं दिसत आहे. एका नवीन अनुभवासाठी मूळस्थितीत आणू इच्छिता?
 refresh-profile-infobar-button = { -brand-short-name } पुनःदाखल करा...
     .accesskey = e
