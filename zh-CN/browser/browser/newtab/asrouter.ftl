@@ -507,6 +507,7 @@ lapsed-user-toast-dismiss-button = 知道了
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = 看起来你有一段时间没有打开 { -brand-short-name } 了。是否要清理一下配置文件以获得近乎全新的体验？顺便说一句，欢迎回来！
 refresh-reinstalled-profile-infobar-message = 看来您重新安装了 { -brand-short-name }。想要清理一下，有个焕然一新的体验吗？
 refresh-profile-infobar-button = 翻新 { -brand-short-name }…
     .accesskey = e
