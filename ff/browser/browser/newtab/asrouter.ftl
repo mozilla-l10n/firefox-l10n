@@ -227,6 +227,7 @@ cfr-doorhanger-milestone-ok-button = Yiy fof
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Ena wayi hono a wayrii hurminde { -brand-short-name } seeɗa. Aɗa yiɗi heɗitinde mo haa o ɓeydoo laaɓde e hesɗude? A jaɓɓaama kisa goɗngol!
 refresh-reinstalled-profile-infobar-message = Ena wayi no a aaftii { -brand-short-name }. Aɗa yiɗi min piɗɗan-ma ngam hesɗtina kadi mbaawaa yitude hee moƴƴere?
 refresh-profile-infobar-button = Hesɗitin { -brand-short-name }…
     .accesskey = e
