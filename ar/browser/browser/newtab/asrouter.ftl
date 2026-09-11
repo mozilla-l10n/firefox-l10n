@@ -489,6 +489,7 @@ launch-options-spotlight-primary-button-launch = احفظ و واصِل
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = يبدو أنك لم تستخدم { -brand-short-name } منذ فترة. أتريد تنظيفه و البدء من جديد؟ و بالمناسبة، مرحبًا بعودتك.
 refresh-reinstalled-profile-infobar-message = يبدو أنك أعدت تنصيب { -brand-short-name }. أتريد تنظيفه و البدء من جديد؟
 refresh-profile-infobar-button = أنعش { -brand-short-name }…
     .accesskey = ن
