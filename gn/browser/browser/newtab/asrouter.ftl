@@ -499,6 +499,7 @@ lapsed-user-toast-dismiss-button = Emboyke
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Neremoñepyrũi { -brand-short-name } are guivéma. Emopotĩsépa eñepyrũ hag̃ua peteĩ apopyrã pyahúva. Eg̃uahẽ porã jey.
 refresh-reinstalled-profile-infobar-message = Hi’ã chéve emohenda jey { -brand-short-name }. ¿Eipotápa oñemopotĩ ndéve nerembiapo osẽ porã hag̃ua, ipyahueterõguáicha?
 refresh-profile-infobar-button = Embohekopyahu { -brand-short-name }…
     .accesskey = e
