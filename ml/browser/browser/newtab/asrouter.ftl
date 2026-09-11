@@ -204,6 +204,13 @@ launch-on-login-infobar-reject-button = ഇപ്പോഴല്ല
 launch-on-login-infobar-final-reject-button = വേണ്ട, നന്ദി
     .accesskey = വ
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -220,6 +227,9 @@ launch-on-login-spotlight-primary-button = { -brand-short-name }-നെ കര�
 
 tail-fox-spotlight-primary-button = കണ്ണികൾ { -brand-short-name } വഴി തുറക്കുക
 tail-fox-spotlight-secondary-button = ഇപ്പോഴല്ല
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -269,6 +279,9 @@ multi-cta-fox-doodle-pin-checkbox =
 multi-cta-fox-doodle-start-browsing-primary-button-label = തിരയാൻ തുടങ്ങുക
 multi-cta-fox-doodle-main-browser-primary-button-label = { -brand-short-name } എന്റെ എഴുന്ന അന്വേഷിയന്ത്രമാക്കി വയ്ക്കുക
 
+## Windows 10 EoS Sync messages group 1 spotlight
+
+
 ## Windows 10 EoS Sync messages group 1 toast notification
 
 windows-10-eos-sync-toast-primary-label = തുടങ്ങാം
@@ -279,7 +292,55 @@ windows-10-eos-sync-toast-secondary-label = എന്നെ പിന്നീ�
 windows-10-eos-sync-callout-next-button = അടുത്തതു്
 windows-10-eos-sync-callout-get-started-button = തുടങ്ങാം
 
+## Windows 10 EoS Sync messages group 2 toast notification
+
+
+## Windows 10 EoS Global Infobar
+
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+
 ## 'Set to default' messaging displayed within the App menu
 
 set-default-menu-message-primary-button = തനിമട്ടാക്കുക
 set-default-menu-message-primary-button-variant = പ്രാഥമിക അന്വേഷിയന്ത്രമാക്കുക
+
+## Firefox Relay 50 Masks Announcement
+
+
+## Nova Early Access Infobar
+
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-reinstalled-profile-infobar-message = നിങ്ങൾ { -brand-short-name } വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്തതായി തോന്നുന്നു. ഉന്‍മേഷഭരിതമായ ഒരു പുതിയ അനുഭവത്തിനായി ഇത് വൃത്തിയാക്കണോ?
+refresh-profile-infobar-button = { -brand-short-name } പുതുക്കുക…
+    .accesskey = e
