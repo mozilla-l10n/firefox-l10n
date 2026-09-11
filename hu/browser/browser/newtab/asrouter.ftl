@@ -503,3 +503,12 @@ lapsed-user-toast-title = Számíthat a { -brand-product-name }ra
 lapsed-user-toast-subtitle = Nézze meg a böngészés új módjait, nagyobb választási lehetőséggel, adatvédelemmel és irányítással.
 lapsed-user-toast-whats-new-button = Újdonságok
 lapsed-user-toast-dismiss-button = Eltüntetés
+
+## Refresh Firefox infobar
+##
+## Shown at startup when the profile has not been used in over 60 days, or when
+## Firefox has just been reinstalled over an existing profile.
+## Both offer to reset the profile to a fresh state.
+
+refresh-profile-infobar-button = { -brand-short-name } felfrissítése…
+    .accesskey = f
