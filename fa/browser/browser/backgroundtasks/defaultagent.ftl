@@ -3,4 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-agent-task-description = زیر برنامهٔ Default Browser Agent بررسی می‌کند که آیا پیش‌فرض از Default Browser Agent به مرورگری دیگر تغییر کرده است یا خیر. اگر تغییر در شرایط مشکوک اتفاق بیفتد، حداکثر دو بار از کاربران می‌خواهد تا آن را به { -brand-short-name } برگردانند. این زیر برنامه بطور خودکار توسط { -brand-short-name } نصب می‌شود و با بروزرسانی { -brand-short-name } هم دوباره نصب می‌شود. برای غیرفعال کردن این زیر برنامه، تنظیمات برگزیده «default-browser-agent.enabled» را در صفحه about:config یا تنظیم خط مشی شرکت { -brand-short-name } «DisableDefaultBrowserAgent» را به‌روزرسانی کنید.
+default-browser-notification-privacy-header-text = ادامه استفاده از { -brand-short-name }؟
+default-browser-notification-privacy-body-text = تنظیم پیش‌فرض شما تغییر کرد. برای حفظ امنیت و حریم‌خصوصی خود، به { -brand-short-name } بازگردید.
 default-browser-notification-yes-button-text = بله
+default-browser-notification-privacy-no-button-text = نه، ممنون!
