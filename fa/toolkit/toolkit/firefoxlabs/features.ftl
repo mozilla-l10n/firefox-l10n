@@ -7,5 +7,9 @@
 experimental-features-media-jxl =
     .label = Media: JPEG XL
 experimental-features-media-jxl-description = با فعال‌سازی این ویژگی، { -brand-short-name } از قالب JPEG XL (JXL) پشتیبانی می‌کند. این یک فرمت تصویری پیشرفته است که از تبدیل بدون افت کیفیت از فایل‌های سنتی JPEG پشتیبانی می‌کند. برای جزئیات بیشتر به <a data-l10n-name="bugzilla">باگ ۱۵۳۹۰۷۵</a> مراجعه کنید.
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
+experimental-features-js-warp-description = فعال‌سازی Warp؛ پروژه‌ای برای بهبود عملکرد و بهینه‌سازی مصرف حافظه در جاوااسکریپت.
 experimental-features-group-developer-tools =
     .label = ابزارهای توسعه‌دهندگان

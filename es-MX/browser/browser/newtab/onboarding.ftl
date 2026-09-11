@@ -553,8 +553,25 @@ smartwindow-existing-user-fx-tou-go-back = Regresar
 ## Smart Window about:welcome screen
 
 smartwindow-onboarding-title = Utiliza { -smart-window-brand-name(form: "upper-plural") } como punto de partida
+smartwindow-onboarding-subtitle = Resume, compara y formula preguntas sin perder el ritmo.
 smartwindow-onboarding-primary-button = Continuar
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = Imagen de Kit, la mascota de { -brand-product-name }, con accesorios en forma de estrella
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = ¿Quieres mantener el asistente cerrado?
+smartwindow-sidebar-auto-open-callout-body = Podrás abrirlo cuando lo necesites.
+smartwindow-sidebar-auto-open-callout-accept = Sí, mantener cerrado
+smartwindow-sidebar-auto-open-callout-dismiss = No, gracias
+smartwindow-sidebar-auto-open-callout-accepted-title = El asistente permanecerá cerrado
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = Usa la opción “Preguntar“ para abrirlo desde cualquier página. Puedes cambiar esta preferencia en <a data-l10n-name="settings">Ajustes</a>.
+smartwindow-sidebar-auto-open-callout-rejected-title = Entendido
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si cambias de opinión, puedes cambiar la configuración predeterminada en <a data-l10n-name="settings">Ajustes</a>.
 
 ## Theme Picker screen strings
 
+onboarding-theme-picker-title = Elige un tema
+onboarding-theme-picker-subtitle = Dale un toque de color a { -brand-short-name }.
 onboarding-theme-picker-button-label = Guardar y continuar
