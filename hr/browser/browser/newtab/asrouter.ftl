@@ -449,6 +449,7 @@ set-default-menu-message-primary-button-variant = Postavi kao primarni pregledni
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = Čini se da { -brand-short-name } već dugo nije bio pokrenut. Želiš li ga očistiti za svježe, potpuno novo iskustvo?
 refresh-reinstalled-profile-infobar-message = Čini se da je { -brand-short-name } ponovo instaliran. Želiš li da izbrišemo stare postavke i datoteke, za svježe, novo iskustvo?
 refresh-profile-infobar-button = Osvježi { -brand-short-name }…
     .accesskey = e
