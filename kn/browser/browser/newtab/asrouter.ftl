@@ -199,6 +199,7 @@ cfr-doorhanger-extension-total-users =
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
+refresh-unused-profile-infobar-message = ನೀವು ಬಹಳ ಸಮಯದಿಂದ { -brand-short-name } ಅನ್ನು ಉಪಯೋಗಿಸಿಲ್ಲ ಎಂದು ಕಾಣಿಸುತ್ತಿದೆ. ನೀವು ಒಂದು ತಾಜಾ, ಹೊಸದಾದ ಅನುಭವಕ್ಕಾಗಿ ಸ್ವಚ್ಛಗೊಳಿಸಲು ಬಯಸುವಿರಾ? ಅಂದ ಹಾಗೆ, ಮರಳಿ ಸ್ವಾಗತ!
 refresh-reinstalled-profile-infobar-message = ನೀವು { -brand-short-name } ಅನ್ನು ಮರಳಿ ಅನುಸ್ಥಾಪಿಸಿದ್ದೀರಿ ಎಂದೆನಿಸುತ್ತಿದೆ. ಒಂದು ಹೊಸತಾದ, ತಾಜಾ ಅನುಭವಕ್ಕಾಗಿ ಅದನ್ನು ಸ್ವಚ್ಛಗೊಳಿಸಲು ಬಯಸುವಿರಾ?
 refresh-profile-infobar-button = Refresh { -brand-short-name }…
     .accesskey = e
