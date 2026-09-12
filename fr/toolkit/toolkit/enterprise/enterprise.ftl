@@ -4,6 +4,8 @@
 
 # Access Connector is an Enterprise feature name and must not be translated.
 -enterprise-feature-access-connector = Connecteur d’accès
+# Shown in the about:support "Application Basics" table on enterprise builds.
+app-basics-device-id = Identifiant de l’appareil
 enterprise-toolbar-button =
     .label = { -brand-short-name }
     .tooltiptext = { -brand-short-name }
@@ -52,6 +54,17 @@ restart-forced-heading = Redémarrer pour continuer à utiliser { -brand-short-n
 restart-forced-intro = Une politique de l’entreprise nécessite le redémarrage de { -brand-short-name }.
 window-restoration-info = Vos fenêtres et vos onglets seront rapidement restaurés, sauf les fenêtres et onglets privés.
 restart-button-label = Redémarrer { -brand-short-name }
+# Variables:
+#   $datetime (number) - Timestamp of the time the browser will be restarted at.
+enterprise-relaunch-warning-message = <strong>Votre administrateur exige le redémarrage de { -brand-short-name }.</strong> Il redémarrera le { DATETIME($datetime, dateStyle: "short", timeStyle: "short") }. Les onglets seront rouverts.
+# Variables:
+#   $minutes (number) - How many minutes are left before the browser restarts.
+enterprise-relaunch-imminent-message =
+    { $minutes ->
+        [one] <strong>{ -brand-short-name } redémarrera dans { $minutes } minute.</strong> Enregistrez votre travail maintenant. Les onglets seront rouverts.
+       *[other] <strong>{ -brand-short-name } redémarrera dans { $minutes } minutes.</strong> Enregistrez votre travail maintenant. Les onglets seront rouverts.
+    }
+enterprise-relaunch-restart-now = Redémarrer maintenant
 extension-firefox-enterprise-light-name = Firefox Enterprise Light
 extension-firefox-enterprise-light-description = Un thème pastel léger avec des touches de soleil matinal dans le coin.
 extension-firefox-enterprise-dark-name = Firefox Enterprise Dark
@@ -79,3 +92,17 @@ crashed-policy-auto-submit-message = Votre administrateur a paramétré { -brand
 fp-neterror-access-connector-error-title = Impossible d’accéder à ce site web
 fp-neterror-access-connector-error-description = Votre organisation fait transiter ce site par un service de connexion sécurisée, mais ce service est actuellement indisponible.
 fp-neterror-access-connector-error-contact-admin = Réessayez ultérieurement, ou contactez votre administrateur si vous avez besoin d’y accéder.
+# Labels the message an administrator wrote for the data protection rule that
+# was matched, shown in the warn and block dialogs above that message.
+contentanalysis-admin-message-label = Message de votre administrateur
+# Shown in the about:preferences data collection section.
+# Variant of data-collection (preferences.ftl) without the description.
+data-collection-enterprise =
+    .label = Collecte de données par { -brand-short-name } et utilisation
+    .searchkeywords = télémétrie
+# Shown in the about:preferences data collection section.
+# Variant of data-collection-backlogged-crash-reports (preferences.ftl).
+data-collection-backlogged-crash-reports-enterprise =
+    .description = Les rapports de plantage aident votre organisation à diagnostiquer et à résoudre les problèmes du navigateur. Les rapports peuvent contenir des données personnelles ou sensibles.
+    .label = Envoyer automatiquement les rapports de plantage
+    .accesskey = E

@@ -100,3 +100,21 @@ felt-warning-title-download-attempt-failed =
     .heading = La mise à jour n’a pas pu être téléchargée
 felt-error-warning-download-attempt-failed-contact-admin = La dernière mise à jour n'a pas pu être téléchargée. Si le problème persiste, contactez votre administrateur pour obtenir de l’aide.
 felt-back-button = Retour à la connexion
+
+## Console setup dialog, shown before anything else on generic builds where no
+## enterprise console address has been configured yet.
+
+felt-console-setup-window-title = { -brand-short-name } — Configuration
+felt-console-setup-title = Pour commencer
+felt-console-setup-description = Saisissez l’adresse de la console de gestion de votre organisation. Votre administrateur peut vous la communiquer.
+felt-console-setup-input =
+    .label = Adresse de la console
+    .placeholder = https://console.example.com
+felt-console-setup-invalid-address =
+    .message = Saisissez une adresse valide, telle que https://console.example.com
+felt-console-setup-save-failed =
+    .message = Impossible d’enregistrer l’adresse. Réessayez ou contactez votre administrateur si le problème persiste.
+felt-console-setup-save-btn =
+    .label = Enregistrer et redémarrer
+felt-console-setup-quit-btn =
+    .label = Quitter
