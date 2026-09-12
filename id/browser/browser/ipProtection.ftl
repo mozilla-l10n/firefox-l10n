@@ -29,3 +29,5 @@ ipprotection-feature-introduction-link-text-2 = Gunakan <a data-l10n-name="learn
 # Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Tambahkan lapisan privasi lainnya
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN bawaan { -brand-product-name }</a> membantu melindungi penjelajahan Anda. Pilih dari beberapa lokasi untuk menjaga dari mana Anda menjelajah lebih pribadi.
+ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">VPN bawaan { -brand-product-name }</a> membantu melindungi penjelajahan Anda. Pilih dari beberapa lokasi untuk menjaga tempat Anda menjelajah lebih pribadi.
+ipprotection-feature-introduction-link-text-privacy-3 = Dapatkan <a data-l10n-name="learn-more-vpn">privasi ekstra</a> dengan memilih dari beberapa lokasi untuk menyembunyikan tempat Anda menjelajah.
