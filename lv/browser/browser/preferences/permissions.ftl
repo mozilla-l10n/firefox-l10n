@@ -109,8 +109,8 @@ permissions-exceptions-saved-passwords-desc = { -brand-short-name } nesaglabās 
 
 permissions-exceptions-addons-window2 =
     .style = { permissions-window2.style }
-    .title = Atļautās lapas - papildinājumu instalēšana
-permissions-exceptions-addons-desc = Jūs varat norādīt, no kurām lapām ir atļauts instalēt papildinājumus. Ierakstiet precīzu lapas adresi, no kuras vēlaties atļaut papildinājumu instalēšanu, un nospiediet Atļaut.
+    .title = Atļautās tīmekļvietnes - papildinājumu uzstādīšana
+permissions-exceptions-addons-desc = Var norādīt, kurām tīmekļvietnēm ir ļauts uzstādīt papildinājumus. Jāievada pareiza vietnes, kurai ļaut papildinājumu uzstādīšanu, adrese un jāklikšķina “Atļaut”.
 
 ## Site Permissions - Autoplay
 

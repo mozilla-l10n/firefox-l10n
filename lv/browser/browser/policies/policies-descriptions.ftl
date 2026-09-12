@@ -84,7 +84,7 @@ policy-HardwareAcceleration = Ja atslēgts (false), atslēdz aparatūras paātri
 policy-Homepage = Iestata un iespējams slēdz sākuma lapu.
 policy-HttpAllowlist = Izcelsmes, kuras netiks uzlabotas uz HTTPS.
 policy-HttpsOnlyMode = Atļaut ieslēgt režīmu Tikai-HTTPS.
-policy-InstallAddonsPermission = Ļauj konkrētām lapām instalēt papildinājumus.
+policy-InstallAddonsPermission = Ļauj noteiktām tīmekļvietnēm uzstādīt papildinājumus.
 policy-LegacyProfiles = Izslēgt funkciju, kas katrai instalācijai nodrošina atsevišķu profilu.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -101,7 +101,7 @@ policy-PrimaryPassword = Pieprasīt vai aizliegt izmantot galveno paroli.
 policy-PrintingEnabled = Ieslēgt vai izslēgt drukāšanu.
 policy-NetworkPrediction = Ieslēgt vai izslēgt tīkla paredzēšanu (DNS priekšpiegādi).
 policy-NewTabPage = Ieslēgt vai izslēgt lapu ”jauna cilne“.
-policy-NoDefaultBookmarks = Deaktivē standarta { -brand-short-name } grāmatzīmju izveidi, piemēram Biežāk izmantotās, Jaunākie tagi. Piezīme: Šī politika būs efektīva vienīgi, ja ir aktivēta pirms pirmās pārlūka palaišanas.
+policy-NoDefaultBookmarks = Atspējot { -brand-short-name } iekļauto noklusējuma grāmatzīmju un viedo grāmatzīmju (visapmeklētākās, nesenās birkas) izveidošanu. Piezīme: šī pamatnostādne ir iedarbīga tikai tad, ja tā tiek izmantota pirms pirmreizējās profila palaišanas.
 policy-OfferToSaveLogins = Iestata vērtību { -brand-short-name } paroļu saglabāšanas iespējai. Iespējamās vērtības it gan true gan false.
 policy-OfferToSaveLoginsDefault = Iestatīt noklusējuma vērtību, vai ļaut { -brand-short-name } piedāvāt atcerēties saglabātos lietotājvārdus un paroles. Tiek pieņemtas vērtības “patiess” un “aplams”.
 policy-OverrideFirstRunPage = Pārraksta pirmās palaišanas lapu. Iestatīt šo pamatnostādni tukšu, ja ir vēlēšanās atspējot pirmās palaišanas lapu.

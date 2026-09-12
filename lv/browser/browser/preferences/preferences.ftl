@@ -1223,13 +1223,13 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-thirdparty-toggle =
-    .label = Ļaut { -brand-short-name } automātiski uzticēties instalētajiem trešās puses saknes sertifikātiem
+    .label = Ļaut { -brand-short-name } automātiski uzticēties uzstādītajiem trešo pušu saknes sertifikātiem
     .accesskey = t
 certs-devices-enable-fips = Ieslēgt FIPS
 space-alert-over-5gb-settings-button =
     .label = Atvērt iestatījumus
     .accesskey = A
-space-alert-over-5gb-message2 = <strong>{ -brand-short-name } beidzas brīvā vieta</strong>. Mājas lapu dati var neattēloties korekti. Saglabātos datus varat notīrīt Iestatījumi > Privātums un drošība > Sīkdatnes un kešatmiņa.
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } beidzas brīvā vieta diskā</strong>. Tīmekļvietņu dati var netikt attēloti pareizi. Saglabātos datus var notīrīt Iestatījumi > Privātums un drošība > Sīkdatnes un vietņu dati.
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } nepietiek vietas diskā.</strong> Lapu saturs var tikt nekorekti attēlots. Apmeklējiet “Uzzināt vairāk”, lai optimizētu diska izmantošanu.
 
 ## Privacy Section - HTTPS-Only

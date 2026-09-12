@@ -58,6 +58,7 @@ edit-profile-page-duplicate-name = Profila nosaukums jau tiek izmantots. Jāmē�
 edit-profile-page-profile-saved = Saglabāts
 new-profile-page-title = Jauns profils
 new-profile-page-header = Pielāgo savu jauno profilu
+new-profile-page-header-description = Katrs profils glabā savu neatkārtojamo pārlūkošanas vēsturi un iestatījumus atsevišķi no citiem profiliem. Turklāt { -brand-short-name } spēcīgā privātuma aizsardzība ir ieslēgta pēc noklusējuma.
 new-profile-page-learn-more = Uzzināt vairāk
 new-profile-page-input-placeholder =
     .placeholder = Izvēlies nosaukumu, piemēram, “Darbs” vai “Personīgs”
