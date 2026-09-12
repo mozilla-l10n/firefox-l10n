@@ -14,6 +14,8 @@ ai-window-personalize-header =
     .heading = { -smart-window-brand-name }
 ai-window-default-section =
     .label = سامووا پؽش فرز
+smart-window-model-radio-group =
+    .aria-label = مودل دستیار
 smart-window-model-learn-link = زبار مودلا دووسته بۊین
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
@@ -21,6 +23,9 @@ smart-window-model-learn-link = زبار مودلا دووسته بۊین
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .description = مودل { $model } ز { $ownerName }
+    .label = زل: زی جواو اده
 smart-window-model-flexible =
     .description = مودل { $model } و دست { $ownerName }
     .label = انعتاف پزیر: موناسو سی بیشتر نیازا
