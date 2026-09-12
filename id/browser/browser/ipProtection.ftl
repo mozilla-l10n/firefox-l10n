@@ -25,3 +25,7 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Memperkenalkan VPN, sekarang di dalam peramban Anda
 ipprotection-feature-introduction-title-1 = Cobalah VPN bawaan { -brand-product-name }
+ipprotection-feature-introduction-link-text-2 = Gunakan <a data-l10n-name="learn-more-vpn">VPN bawaan</a> baru kami untuk menyembunyikan lokasi Anda dan melindungi data Anda.
+# Used for callout for users who expressed interest in privacy in onboarding
+ipprotection-feature-introduction-title-privacy = Tambahkan lapisan privasi lainnya
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN bawaan { -brand-product-name }</a> membantu melindungi penjelajahan Anda. Pilih dari beberapa lokasi untuk menjaga dari mana Anda menjelajah lebih pribadi.
