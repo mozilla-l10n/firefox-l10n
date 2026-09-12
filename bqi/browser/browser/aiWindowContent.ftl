@@ -71,7 +71,8 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = قپ ریت دووارته
-smartwindow-nl-retry-message = ٱر هنی اخۊین بلگه یل ن بووندین، <strong>قپ ریت دووارته</strong> ن پسند کۊنین و من کادر گۊشیڌه بیڌه مووردا ن پسند کۊنین.
+smartwindow-nl-retry-message = ٱر هنی اخۊین بلگه یل ن بووندین، <strong>قپ ریت دووارته</strong> ن پسند کۊنین وو من کادر گۊشیڌه بیڌه مووردا ن پسند کۊنین.
+smartwindow-nl-retry-group-tabs-message = ٱر هنی اخۊین بلگه یل ن بونکۊ بندی کۊنین، <strong>قپ ریت دووارته</strong> ن پسند کۊنین وو من کادر گۊشیڌه بیڌه بلگه یلی ک اخۊین ن پسند کۊنین.
 smartwindow-nl-thinking = ز دین بلگه یل ی جۊر اگردین…
 smartwindow-loading-assistant-response =
     .aria-label = بار ونی جواو دستیار

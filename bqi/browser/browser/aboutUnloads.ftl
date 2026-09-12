@@ -12,6 +12,9 @@ about-unloads-intro =
     تا هر سا هندا ویرگه من دسرس سیستوم کم هڌ، برنومه و دلیل کم بیڌن ویرگه ز کار نوۊفته.
     بلگه بئڌی ک وا ز ویرگه پیاڌه بۊ و ری چنتا ویژیی پسند ابۊ.
     ای بلگه نشووݩ اده ک چتاور { -brand-short-name } بلگه یل ن اولویت بندی اکونه وو یو ک کو بلگه مجالی ک پیاڌه کردن بلگه ره اوۊفته، ٱول پیاڌه ابۊ. هومچیناکو ترین و سۊرت دسای وا کلیک ری دویمه <em>پیاڌه کردن</em> ای لم، پیاڌه کردن بلگه ن ٱنجوم دین.
+# The link points to a Firefox documentation page, only available in English,
+# with title "Tab Unloading"
+about-unloads-learn-more = سی گرؽڌن دووسمندیا قلوه زبار ای ویژیی، <a data-l10n-name="doc-link">پیاڌه کردن بلگه</a> ن بنیرین.
 about-unloads-last-updated = ورۊ رسۊوی دیندایی: { DATETIME($date, day: "numeric", hour: "numeric", hour12: "false", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }
 about-unloads-button-unload = پیاڌه کردن
     .title = بلگه وا واروء ترین اوولویت ن پیاڌه کۊنین
