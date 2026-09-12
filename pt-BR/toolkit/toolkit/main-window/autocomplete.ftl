@@ -40,3 +40,11 @@ autocomplete-delete-form-history-entry2 = Excluir { $entry } do histórico de fo
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = Mais ações de { $entry }
+
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-remove-password-title = Remover senha?
+autocomplete-remove-address-title = Remover endereço?
+autocomplete-remove-payment-method-title = Remover método de pagamento?
+autocomplete-remove-record-message = Esta ação não pode ser desfeita.
