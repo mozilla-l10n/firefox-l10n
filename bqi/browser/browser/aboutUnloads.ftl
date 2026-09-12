@@ -13,9 +13,9 @@ about-unloads-intro =
     بلگه بئڌی ک وا ز ویرگه پیاڌه بۊ و ری چنتا ویژیی پسند ابۊ.
     ای بلگه نشووݩ اده ک چتاور { -brand-short-name } بلگه یل ن اولویت بندی اکونه وو یو ک کو بلگه مجالی ک پیاڌه کردن بلگه ره اوۊفته، ٱول پیاڌه ابۊ. هومچیناکو ترین و سۊرت دسای وا کلیک ری دویمه <em>پیاڌه کردن</em> ای لم، پیاڌه کردن بلگه ن ٱنجوم دین.
 about-unloads-last-updated = ورۊ رسۊوی دیندایی: { DATETIME($date, day: "numeric", hour: "numeric", hour12: "false", minute: "numeric", month: "numeric", second: "numeric", year: "numeric") }
-about-unloads-button-unload = و در کردن
-    .title = بلگه وا واروء ترین اوولویت ن و در کۊنین
-about-unloads-no-unloadable-tab = هیچ بلگه ای قابل و در کردن نؽ.
+about-unloads-button-unload = پیاڌه کردن
+    .title = بلگه وا واروء ترین اوولویت ن پیاڌه کۊنین
+about-unloads-no-unloadable-tab = هیچ بلگه ای قابل پیاڌه کردن نؽ.
 about-unloads-column-priority = اولویت
 about-unloads-column-host = هاست
 about-unloads-column-last-accessed = دسرسی دیندایی

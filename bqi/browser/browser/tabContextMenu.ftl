@@ -201,12 +201,12 @@ tab-context-share-selected-tabs =
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
-            [1] و در کردن بلگه
-            [one] و در کردن بلگه
-           *[other] و در کردن { $tabCount } بلگه
+            [1] پیاڌه کردن بلگه
+            [one] پیاڌه کردن بلگه
+           *[other] پیاڌه کردن { $tabCount } بلگه
         }
     .accesskey = U
 # Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
 tab-context-unload-tabs =
-    .label = و در کردن
+    .label = پیاڌه کردن
     .accesskey = U
