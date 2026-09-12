@@ -104,6 +104,7 @@ aiwindow-firstrun-model-fast-label = زل
 aiwindow-firstrun-model-fast-body = زی جواو اده
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = زل: { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = بؽڌرین گۊزینه سی جواوا زی، مجالی ک عجله دارین
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
@@ -112,6 +113,7 @@ aiwindow-firstrun-model-allpurpose-label = انعتاف پزیر
 aiwindow-firstrun-model-allpurpose-body = موناسو سی بیشتر نیازا
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-flexible-label = انعتاف پزیر: { $shortName }
+aiwindow-firstrun-model-flexible-body = ٱماڌه سی تیف موتنوعی ز کارا
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = پؽشنهاڌ وابیڌه
 aiwindow-firstrun-model-personal-label = سیخومی
@@ -294,6 +296,8 @@ smart-window-default-promo-additional-button = سکو ن
 ## Feedback modal
 
 aiwindow-feedback-modal-title = یک رسۊوی منشڌ
+aiwindow-feedback-choose-any = مووردایی ک راستی آزمایی ابۊن ن پسند کۊنین
+aiwindow-feedback-add-details = ٱر ک اخۊین جۊزعیات ن ازاف کۊنین. دووسمندیا سیخومی ن ازاف نکۊنین.
 aiwindow-feedback-submit = فشناڌن
 aiwindow-feedback-cancel = لقو
 aiwindow-feedback-reason-incorrect-or-misleading = اشتوا یا بلا کوننده
