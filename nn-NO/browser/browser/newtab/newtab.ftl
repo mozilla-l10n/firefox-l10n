@@ -481,12 +481,28 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Alternativ for nylege søk
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Les meir
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Nylege søk
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Trendar
 # Informs the user which engine the trending results come from.
 # Variables:
 #   $engine (string) - Name of the default search engine, e.g. "Google".
 newtab-recent-searches-trending-attribution = frå { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Akkurat no
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Fjern «{ $search }» frå nylege søk
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Nylege søk blir viste her, slik at du, når som helst, kan hente dei fram igjen.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Populære søk er ikkje tilgjengelege akkurat no.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -967,6 +983,14 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Ein rev i høgre kant på oransje bakgrunn
+newtab-wallpaper-firefox-colorful-sky = Oransje bølgjer over ein lilla nattehimmel
+newtab-wallpaper-firefox-desert-dark = Ein rev som sit i ein mørkelilla ørken
+newtab-wallpaper-firefox-desert-light = Ein rev som spring over ein lys ørken
+newtab-wallpaper-firefox-hills-dark = Ein rev som spring over mørke åsar
+newtab-wallpaper-firefox-hills-light = Ein rev som spring over lyse åsar
+newtab-wallpaper-firefox-tail-dark = Ein revehale mot ein mørk bakgrunn
+newtab-wallpaper-firefox-tail-light = Ein revehale på ein lys bakgrunn
 
 ## Firefox
 
