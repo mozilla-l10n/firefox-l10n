@@ -229,3 +229,10 @@ mlmodel-speech-recognition = { -brand-short-name } izmanto to ierīcē esošai r
 find-more-addons-promo =
     .heading = Pielāgo { -brand-product-name } savām vēlmēm
     .message = Pievieno rīkus un noformējumu atbilstoši savām vajadzībām un gaumei!
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Izskats

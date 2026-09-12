@@ -247,6 +247,28 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Neseno meklējumu iespējas
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Uzzināt vairāk
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Nesenie meklējumi
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Bieži
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = ar { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Tikko
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Noņemt “{ $search }” no nesenajiem meklējumiem
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Nesenie meklējumi parādīsies šeit, lai vari tos jebkurā brīdī atkal izmantot
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Biežākie meklējumi šobrīd nav pieejami.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
