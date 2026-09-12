@@ -42,6 +42,11 @@ ipprotection-summer-promo-offramp-dismiss-secondary-button = Noraidīt
 ipprotection-site-settings-callout-title = Izvēlies, kur izmantot VPN
 ipprotection-site-settings-callout-button = Sapratu
 
+## Location selection callout
+
+ipprotection-location-selection-callout-primary-button = Izmēģini
+ipprotection-location-selection-callout-secondary-button = Noraidīt
+
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-title = Ņem līdzi iebūvēto VPN Android ierīcē
@@ -50,7 +55,13 @@ ipprotection-android-promo-callout-primary-button = Sapratu
 
 ## Panel
 
-unauthenticated-site-rules-message = Pārvaldīt, kuras vietnes izmanto VPN un kuras nē.
+# Also used for the callout shown in private browsing
+unauthenticated-vpn-title = Izmēģini { -brand-product-name } iebūvēto VPN
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Paslēp savu atrašanās vietu</a>, kamēr pārlūko ar { -brand-product-name }!
+unauthenticated-private-location-message = Palīdz <a data-l10n-name="learn-more-vpn">saglabāt atrašanās vietu privātu</a> { -brand-product-name }.
+unauthenticated-choose-location-message-1 = Izvēlies no vairākām atrašanās vietām vai ļauj { -brand-product-name } izvēlēties ātrāko!
+unauthenticated-site-rules-message = Pārvaldi, kuras vietnes izmanto VPN un kuras nē!
+unauthenticated-get-started = Sākt
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN ir ieslēgts šai vietnei
     .label = Šai vietnei izmantot VPN
