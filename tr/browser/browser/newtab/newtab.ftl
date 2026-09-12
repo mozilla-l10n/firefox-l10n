@@ -483,6 +483,12 @@ newtab-recent-searches-widget-menu-button =
 newtab-recent-searches-menu-learn-more = Daha fazla bilgi al
 # Tab listing the searches the user has made recently.
 newtab-recent-searches-tab-recent = Son aramalar
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Gündemde
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = { $engine } aracılığıyla
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Az önce
 # Screen reader label for the button that forgets one listed search.
@@ -490,6 +496,13 @@ newtab-recent-searches-just-now = Az önce
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” aramasını son aramalardan kaldır
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Son aramalarınız burada görünür. Böylece istediğiniz zaman kaldığınız yerden devam edebilirsiniz.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Gündemdeki aramalar şu anda görüntülenemiyor.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
