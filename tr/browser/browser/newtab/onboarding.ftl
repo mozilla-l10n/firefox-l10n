@@ -541,6 +541,8 @@ onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor
 
 ## First Run Onboarding refresh strings
 
+onboarding-refresh-hero-text = Sizi izlemek için değil, korumak için geliştirildi.
+onboarding-refresh-tou-default = Tüm bağlantıları { -brand-short-name } ile açın
 onboarding-refresh-data-collection-link = Veri toplama ayarlarını yönet
 onboarding-refresh-primary-button = Devam et
 onboarding-refresh-fro-skip-button = Geç

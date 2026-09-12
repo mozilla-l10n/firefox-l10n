@@ -987,6 +987,10 @@ newtab-wallpaper-firefox-orange = Turuncu bir arka plan üzerinde sağ kenarda b
 newtab-wallpaper-firefox-colorful-sky = Mor gece göğüne yayılan turuncu dalgalar
 newtab-wallpaper-firefox-desert-dark = Koyu mor bir çölde oturan bir tilki
 newtab-wallpaper-firefox-desert-light = Açık renkli bir çölde koşan tilki
+newtab-wallpaper-firefox-hills-dark = Koyu tepelerde koşan bir tilki
+newtab-wallpaper-firefox-hills-light = Açık renkli tepelerde koşan bir tilki
+newtab-wallpaper-firefox-tail-dark = Koyu renkli arka planda tilki kuyruğu
+newtab-wallpaper-firefox-tail-light = Açık renkli arka planda tilki kuyruğu
 newtab-wallpaper-firefox-sky-dark = Gece gökyüzünün altında koyu mor tepeler
 newtab-wallpaper-firefox-sky-light = Yumuşak bir gökyüzünün altında aydınlık tepeler
 
