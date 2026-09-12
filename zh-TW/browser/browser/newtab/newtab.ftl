@@ -449,6 +449,28 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = 最近搜尋選項
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = 更多資訊
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = 最近搜尋內容
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = 熱門
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = 來自 { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = 剛剛
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = 從最近搜尋內容中移除「{ $search }」
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = 最近的搜尋記錄會顯示在此處，方便您隨時繼續搜尋。
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = 目前暫時無法顯示熱門搜尋項目。
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

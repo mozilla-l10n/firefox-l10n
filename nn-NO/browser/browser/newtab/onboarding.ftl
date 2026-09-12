@@ -544,6 +544,11 @@ onboarding-refresh-gratitude-title = { -brand-short-name } passar på deg
 onboarding-refresh-splash-screen-title = { -brand-product-name } passar på deg frå første stund
 onboarding-refresh-hero-text = Bygd for å verne deg, ikkje spore deg.
 onboarding-refresh-tou-default = Opne alle lenker med { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Behald { -brand-short-name } i dokka
+       *[other] Legg til { -brand-short-name } i oppgåvelinja di
+    }
 onboarding-refresh-tou-default-unchecked = Behald innebygd vern kvar gong du surfar
 onboarding-refresh-primary-button = Hald fram
 onboarding-refresh-fro-skip-button = Hopp over

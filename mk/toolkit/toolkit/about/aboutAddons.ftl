@@ -526,6 +526,7 @@ mlmodel-pdfjs = { -brand-short-name } го користи ова за креир
 mlmodel-smart-tab-topic-engine = { -brand-short-name } го користи ова за да предложи имиња за вашите групи на јазичиња
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } го користи ова за да предложи јазичиња за вашите групи на јазичиња
 mlmodel-formfill-engine = { -brand-short-name } го користи ова за да помогне во пополнувањето на формуларите за адреси
+mlmodel-speech-recognition = { -brand-short-name } го користи ова за препознавање на говор на уредот
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = ВИ на уредот
 addon-category-mlmodel-title =
@@ -593,6 +594,9 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Уред
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Изглед
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = Теми за { -brand-product-name }
