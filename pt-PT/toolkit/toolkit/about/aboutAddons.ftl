@@ -600,7 +600,7 @@ themes-mode-device =
     .label = Dispositivo
 # Accessible name for the group of light/dark/device buttons.
 themes-mode =
-    .aria-label = Aspeto
+    .aria-label = Aparência
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = Temas do { -brand-product-name }
