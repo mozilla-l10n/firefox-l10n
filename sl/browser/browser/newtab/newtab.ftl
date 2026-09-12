@@ -932,6 +932,11 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Lisica ob desnem robu oranžnega ozadja
+newtab-wallpaper-firefox-hills-dark = Lisica v teku čez temne hribe
+newtab-wallpaper-firefox-hills-light = Lisica v teku čez svetle hribe
+newtab-wallpaper-firefox-tail-dark = Lisičji rep na temnem ozadju
+newtab-wallpaper-firefox-tail-light = Lisičji rep na svetlem ozadju
 
 ## Firefox
 
