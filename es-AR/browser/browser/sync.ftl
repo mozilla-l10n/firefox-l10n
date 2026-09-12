@@ -68,6 +68,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Se cerró la sesión
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Finalizar configuración
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Iniciar sesión para sincronizar
+fxa-menu-signed-out-description = Se cerró la sesión
 fxa-avatar-sign-in = Iniciar sesión
 fxa-avatar-sign-up = Registrarse
 fxa-avatar-tooltip =

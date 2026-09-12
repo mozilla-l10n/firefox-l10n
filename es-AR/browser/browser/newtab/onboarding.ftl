@@ -554,6 +554,15 @@ onboarding-refresh-data-collection-link = Administrar la configuración de recop
 onboarding-refresh-primary-button = Continuar
 onboarding-refresh-fro-import-body = Los datos personales se mantienen personales. { -brand-product-name } nunca lo venderá.
 onboarding-refresh-fro-skip-button = Omitir
+onboarding-refresh-tab-layout-top = Arriba
+onboarding-refresh-tab-layout-side = A un costado
+onboarding-refresh-tab-layout-minimal = Minimalista
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Una ventana del navegador que muestra las pestañas como pequeños iconos a lo largo del costado de la pantalla, en una barra lateral minimizada.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Una ventana del navegador que muestra las pestañas como pequeños iconos a lo largo del costado de la pantalla, en una barra lateral minimizada.
 
 ## Smart window switcher callout
 

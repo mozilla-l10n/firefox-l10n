@@ -538,6 +538,10 @@ onboarding-refresh-gratitude-subtitle = Коммерциялық емес ұйы
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } сізді қолдайды
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-fro-skip-button = Аттап кету
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Ақылды және классикалық терезелер арасында кез келген уақытта ауысуға болады.

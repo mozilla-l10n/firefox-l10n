@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Probar la VPN integrada de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ocultar ubicación</a> mientras se navega en { -brand-product-name }.
 unauthenticated-private-location-message = Ayuda a <a data-l10n-name="learn-more-vpn">mantener privada la ubicación</a> en { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Elija entre varias ubicaciones o deje que { -brand-product-name } elija la más rápida.
+unauthenticated-site-rules-message = Controlar qué sitios usan VPN y cuáles no.
 unauthenticated-get-started = Comenzar
 unauthenticated-terms-of-service-privacy-notice = Al continuar, se aceptan los <a data-l10n-name="vpn-terms-of-service">términos de servicio</a> y <a data-l10n-name="vpn-privacy-notice">nota de privacidad</a>.
 site-exclusion-toggle-enabled-1 =

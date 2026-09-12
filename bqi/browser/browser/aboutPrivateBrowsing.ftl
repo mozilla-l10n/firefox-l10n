@@ -52,6 +52,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = ی جۊری من اینترنت بگردین ک منی هیچکس نؽنیرتووݩ، بؽ زفت کردن کۊکی یا ویرگار همچونووݩ ک دسکتاپ ایسا ن برازنه.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = وا ماسکا ایمیل، جلاو گرؽڌن اسپم ن بگرین
+about-private-browsing-relay-promo-title = مجال سبت نوم، استیڌن یا یک رسۊوی ریتور، نشۊوی واقعی خوتووݩ ن وا ی ماسک ایمیل بؽڌار کۊنین.
+about-private-browsing-relay-promo-link-text = ماسکا ایمیل ن امتهووݩ کۊنین
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
