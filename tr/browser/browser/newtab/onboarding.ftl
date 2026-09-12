@@ -541,6 +541,11 @@ onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor
 
 ## First Run Onboarding refresh strings
 
+onboarding-refresh-data-collection-link = Veri toplama ayarlarını yönet
+onboarding-refresh-primary-button = Devam et
+onboarding-refresh-fro-skip-button = Geç
+onboarding-refresh-fro-theme-header = Görünümünüzü özelleştirin
+onboarding-refresh-tab-layout-header = Başka bir sekme düzeni deneyin
 onboarding-refresh-tab-layout-top = Üstte
 onboarding-refresh-tab-layout-side = Yanda
 onboarding-refresh-tab-layout-minimal = Minimal

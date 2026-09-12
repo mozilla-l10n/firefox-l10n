@@ -20,6 +20,9 @@ smartwindow-assistant-error-generic-header = موشکلؽ پؽش ٱووڌه. د�
 smartwindow-assistant-error-budget-header = ایسا و مئدۊدیت چت ٱمرۊز رسیڌینه.
 smartwindow-assistant-error-account-header = سی و کار گرؽڌن { -smart-window-brand-name }، وا و من سیستوم یاین.
 smartwindow-assistant-error-capacity-header = زرفیت { -smart-window-brand-name } سکو پور وابیڌه. دینداتر دووارته امتهووݩ کۊنین.
+# Variables:
+#   $status (Number) - HTTP status code returned by the inference back-end
+smartwindow-assistant-error-http-header = ختای سرور (HTTP { $status }). دووارته قپ ریت کۊنین.
 smartwindow-retry-btn = قپ ریت دووارته
 smartwindow-clear-btn = چت نۊ
 smartwindow-signin-btn = و من ٱووڌن
