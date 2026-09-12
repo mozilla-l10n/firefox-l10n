@@ -25,7 +25,7 @@ firefoxview-syncedtabs-adddevice-header-2 = 跨平台接收标签页
 firefoxview-syncedtabs-adddevice-description-2 = 登录手机或其他计算机上的 { -brand-product-name }，即可在此处查看标签页。您可了解<a data-l10n-name="url">连接其他设备的方法</a>。
 firefoxview-syncedtabs-adddevice-primarybutton = 试试 { -brand-product-name } 移动版
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
-firefoxview-syncedtabs-adddevice-header-3 = 标签页们来电 — 手机上见。
+firefoxview-syncedtabs-adddevice-header-3 = 标签页们来电——手机上见。
 firefoxview-syncedtabs-adddevice-description-3 = 扫描二维码即可下载移动版 { -brand-product-name }，开始同步打开的标签页等内容。了解如何<a data-l10n-name="url">连接其他设备</a>。
 firefoxview-tabpickup-synctabs-primarybutton = 同步打开的标签页
 firefoxview-tabpickup-synctabs-primarybutton-2 = 开启标签页同步
