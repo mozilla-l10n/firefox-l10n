@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Попробуйте VPN, встроенный в { 
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Скройте своё местоположение</a> при просмотре через { -brand-product-name }.
 unauthenticated-private-location-message = Помогает <a data-l10n-name="learn-more-vpn">сохранить ваше местоположение приватным</a> в { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Выберите нужное вам местоположение или позвольте { -brand-product-name } выбрать самое быстрое.
+unauthenticated-site-rules-message = Контролируйте, какие сайты используют VPN, а какие нет.
 unauthenticated-get-started = Начать
 unauthenticated-terms-of-service-privacy-notice = Продолжая, вы принимаете <a data-l10n-name="vpn-terms-of-service">Условия использования</a> и <a data-l10n-name="vpn-privacy-notice">Уведомление о конфиденциальности</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN для этого сайта отключён
     .label = Использовать VPN для этого сайта
 site-exclusion-toggle-description = Сайт не работает? Попробуйте отключить VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Управление правилами VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Ваше правило
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN для этого сайта отключён
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN для этого сайта включён
 ipprotection-settings-link =
     .label = Настройки
 
@@ -257,6 +266,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[many] { $count } веб-сайтов
         }
     .label = Управление настройками веб-сайтов
+ip-protection-site-rules-header =
+    .heading = Управление правилами веб-сайтов
+ip-protection-site-rules-button =
+    .description = Устанавливает правила для сайтов, которым необходима дополнительная приватность или отключение VPN.
+    .label = Управление правилами веб-сайтов
 ip-protection-autostart =
     .label = Включать VPN автоматически
 ip-protection-autostart-checkbox =

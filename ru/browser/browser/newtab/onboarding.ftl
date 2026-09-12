@@ -538,6 +538,31 @@ onboarding-refresh-gratitude-subtitle = Спасибо, что использу�
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } прикрывает вашу спину
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } прикрывает вас прямо сейчас
+onboarding-refresh-hero-text = Создан, чтобы защищать вас, а не отслеживать вас.
+onboarding-refresh-tou-default = Открывайте все ссылки с помощью { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Держать { -brand-short-name } в Dock
+       *[other] Добавьте { -brand-short-name } на панель задач
+    }
+onboarding-refresh-tou-default-unchecked = Сохраняйте встроенную защиту при каждом просмотре
+onboarding-refresh-tou-pin-unchecked = Держите единственный популярный независимый браузер на расстоянии одного клика
+onboarding-refresh-terms-of-use-with-links = Продолжив, вы принимаете <a data-l10n-name="terms_of_use">Условия использования { -brand-product-name }</a> и наше <a data-l10n-name="privacy_notice">Уведомление о конфиденциальности </a>. Чтобы помочь улучшить браузер, { -brand-product-name } отправляет данные диагностики и взаимодействия в { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Управление настройками сбора данных
+onboarding-refresh-primary-button = Продолжить
+onboarding-refresh-fro-import-header = Внесите свои данные
+onboarding-refresh-fro-import-body = Ваши личные данные остаются личными. { -brand-product-name } никогда их не продаёт.
+onboarding-refresh-fro-skip-button = Пропустить
+onboarding-refresh-fro-theme-header = Поэкспериментируйте с оформлением
+onboarding-refresh-tab-layout-header = Попробуйте другой макет вкладок
+onboarding-refresh-tab-layout-top = Сверху
+onboarding-refresh-tab-layout-side = Сбоку
+onboarding-refresh-tab-layout-minimal = Минимализм
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Переключайтесь между Умным и Классическим окнами в любое время.
