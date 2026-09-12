@@ -36,3 +36,7 @@ autocomplete-delete-payment-method = Excluir este método de pagamento
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Excluir { $entry } do histórico de formulários
+# aria-label and tooltip for the button that opens the edit/delete menu.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-actions2 = Mais ações de { $entry }
