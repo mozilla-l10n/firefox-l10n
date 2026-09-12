@@ -4,6 +4,8 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = مسدۊد کردن { -smart-window-brand-name }؟
+smart-window-block-description-chats = ای کار چتا مربۊت و { -smart-window-brand-name } ن پاک اکونه.
+smart-window-block-description-memories = ای کار خاترات مربۊت و { -smart-window-brand-name } ن پاک اکونه.
 smart-window-select-label =
     .label = { -smart-window-brand-name }
 ai-window-activate-link =

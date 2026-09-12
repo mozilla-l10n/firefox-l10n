@@ -545,8 +545,10 @@ onboarding-refresh-splash-screen-title = { -brand-product-name } passer på deg 
 onboarding-refresh-hero-text = Bygget for å beskytte deg, ikke spore deg.
 onboarding-refresh-tou-default = Åpne alle lenker med { -brand-short-name }
 onboarding-refresh-tou-default-unchecked = Behold innebygd beskyttelse hver gang du surfer
+onboarding-refresh-data-collection-link = Behandle innstillinger for datainnsamling
 onboarding-refresh-primary-button = Fortsett
 onboarding-refresh-fro-skip-button = Hopp over
+onboarding-refresh-tab-layout-minimal = Minimal
 
 ## Smart window switcher callout
 
