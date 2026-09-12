@@ -48,3 +48,4 @@ autocomplete-remove-password-title = Remover senha?
 autocomplete-remove-address-title = Remover endereço?
 autocomplete-remove-payment-method-title = Remover método de pagamento?
 autocomplete-remove-record-message = Esta ação não pode ser desfeita.
+autocomplete-remove-record-button = Remover
