@@ -20,3 +20,8 @@ ipprotection-experiment-badge =
 ipprotection-help-button =
     .tooltiptext = Buka laman dukungan VPN
 ipprotection-title = VPN
+
+## Buttons used for all feature introduction callouts
+
+ipprotection-feature-introduction-title = Memperkenalkan VPN, sekarang di dalam peramban Anda
+ipprotection-feature-introduction-title-1 = Cobalah VPN bawaan { -brand-product-name }
