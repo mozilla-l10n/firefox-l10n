@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = گۊشیڌن لینگ من { -smart-window-brand-name } نۊ
+    .accesskey = S
 appmenuitem-new-ai-window =
     .label = نۊ { -smart-window-brand-name }
     .value = نۊ { -smart-window-brand-name }

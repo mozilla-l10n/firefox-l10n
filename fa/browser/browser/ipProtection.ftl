@@ -266,7 +266,7 @@ ip-protection-site-exceptions-all-sites-button =
         }
     .label = مدیریت تنظیمات وب‌سایت
 ip-protection-site-rules-header =
-    .heading = مدیریت قوانین وب‌سایت
+    .heading = مدیریت قواعد وب‌سایت‌ها در استفاده از VPN
 ip-protection-site-rules-button =
     .description = تنظیم قوانین برای سایت‌هایی که به حریم‌خصوصی بیشتر یا خاموش بودن VPN نیاز دارند.
     .label = مدیریت قوانین وب‌سایت

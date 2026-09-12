@@ -153,6 +153,14 @@ action-log-reading-page = بلگه خوندن
 action-log-read-page = موئتوا بلگه ن بخۊوین
 action-log-searching-web = پیتینیڌن من وبگه
 action-log-searched-web = وبگه پیتینیڌه
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = هونی اپیتینه منه وب وا <a data-l10n-name="exa-link">Exa</a>
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searched-web-with-exa = من وب وا <a data-l10n-name="exa-link">Exa</a> پیتینیڌه وابی
 action-log-checking-memories = واجۊری خاترات
 action-log-checked-memories = خاترات واجۊری بیڌه
 action-log-searching-settings = پیتینیڌن من سامووا
