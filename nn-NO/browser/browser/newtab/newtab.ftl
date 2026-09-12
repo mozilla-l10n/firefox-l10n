@@ -991,6 +991,14 @@ newtab-wallpaper-firefox-hills-dark = Ein rev som spring over mørke åsar
 newtab-wallpaper-firefox-hills-light = Ein rev som spring over lyse åsar
 newtab-wallpaper-firefox-tail-dark = Ein revehale mot ein mørk bakgrunn
 newtab-wallpaper-firefox-tail-light = Ein revehale på ein lys bakgrunn
+newtab-wallpaper-firefox-side-kit-dark = Ein rev på venstre side, mot ein mørk bakgrunn
+newtab-wallpaper-firefox-side-kit-light = Ein rev på venstre side, mot ein lys bakgrunn
+newtab-wallpaper-firefox-sitting-hill-dark = Ein rev som sit på mørkelilla åsar
+newtab-wallpaper-firefox-sitting-hill-light = Ein rev som sit på lyse åsar
+newtab-wallpaper-firefox-peak-dark = Eit reveansikt i venstre kant, mot ein mørk bakgrunn
+newtab-wallpaper-firefox-peak-light = Eit reveansikt i venstre kant, mot ein lys bakgrunn
+newtab-wallpaper-firefox-sky-dark = Mørkelilla åsar under ein nattehimmel
+newtab-wallpaper-firefox-sky-light = Lyse åsar under ein mjuk himmel
 
 ## Firefox
 
