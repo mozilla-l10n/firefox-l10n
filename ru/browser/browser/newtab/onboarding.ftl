@@ -562,6 +562,12 @@ onboarding-refresh-tab-layout-header = Попробуйте другой мак�
 onboarding-refresh-tab-layout-top = Сверху
 onboarding-refresh-tab-layout-side = Сбоку
 onboarding-refresh-tab-layout-minimal = Минимализм
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Окно браузера, отображающее вкладки в виде небольших значков сбоку экрана, в свёрнутой боковой панели.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Окно браузера, отображающее вкладки в виде небольших значков сбоку экрана, в свёрнутой боковой панели.
 
 ## Smart window switcher callout
 

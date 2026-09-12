@@ -18,6 +18,8 @@ autofill-edit-payment-method-os-prompt-other = { -brand-short-name } пытае�
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-delete-payment-method-os-prompt-macos = удалить сохранённые платёжные данные
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } пытается удалить сохранённую информацию о способе оплаты. Подтвердите ниже доступ к этой учётной записи Windows.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } пытается удалить сохранённую информацию о способе оплаты.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Настройки автозаполнения форм
 
