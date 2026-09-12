@@ -304,7 +304,7 @@ lapsed-user-toast-dismiss-button = Noraidīt
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
-refresh-unused-profile-infobar-message = Šķiet, KA { -brand-short-name } nav kādu laiku izmantots. Vai satīrīt to svaigai, kā no jauna pieredzei? Starp citu, laipni lūdzam atpakaļ!
+refresh-unused-profile-infobar-message = Šķiet, ka { -brand-short-name } nav kādu laiku izmantots. Vai satīrīt to svaigai, kā no jauna pieredzei? Starp citu, laipni lūdzam atpakaļ!
 refresh-reinstalled-profile-infobar-message = Izskatās, ka { -brand-short-name } ir uzstādīts no jauna. Vēlies, lai satīrām to svaigai, kā no jauna pieredzei?
 refresh-profile-infobar-button = Atsvaidzināt { -brand-short-name }…
     .accesskey = s
