@@ -933,10 +933,14 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Lisica ob desnem robu oranžnega ozadja
-newtab-wallpaper-firefox-hills-dark = Lisica v teku čez temne hribe
-newtab-wallpaper-firefox-hills-light = Lisica v teku čez svetle hribe
+newtab-wallpaper-firefox-hills-dark = Lisica v teku čez temne griče
+newtab-wallpaper-firefox-hills-light = Lisica v teku čez svetle griče
 newtab-wallpaper-firefox-tail-dark = Lisičji rep na temnem ozadju
 newtab-wallpaper-firefox-tail-light = Lisičji rep na svetlem ozadju
+newtab-wallpaper-firefox-peak-dark = Lisičji obraz ob levem robu na temnem ozadju
+newtab-wallpaper-firefox-peak-light = Lisičji obraz ob levem robu na svetlem ozadju
+newtab-wallpaper-firefox-sky-dark = Temnovijolični griči pod nočnim nebom
+newtab-wallpaper-firefox-sky-light = Svetli griči pod nežnim nebom
 
 ## Firefox
 

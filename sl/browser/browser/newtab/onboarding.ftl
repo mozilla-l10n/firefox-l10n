@@ -538,6 +538,11 @@ onboarding-refresh-gratitude-subtitle = Hvala, ker uporabljate { -brand-short-na
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vam krije hrbet
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-terms-of-use-with-links = Z nadaljevanjem se strinjate s <a data-l10n-name="terms_of_use">pogoji uporabe { -brand-product-name(sklon: "rodilnik") }</a> in z našim <a data-l10n-name="privacy_notice">obvestilom o zasebnosti</a>. Za izboljšanje brskalnika { -brand-product-name } { -vendor-short-name(sklon: "dajalnik") } pošilja diagnostične podatke in podatke o uporabi.
+onboarding-refresh-primary-button = Nadaljuj
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Kadarkoli lahko preklapljate med pametnimi in običajnimi okni.
