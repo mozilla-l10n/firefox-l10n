@@ -74,6 +74,9 @@ ai-window-no-memories-learning-off =
 ai-window-delete-all-memories-button =
     .label = پاک کردن پوی
 ai-window-delete-all-memories-title = پاک کردن پوی خاترات؟
+# “Learn from…” refers to two different options in settings that start with "Learn from"
+# (ai-window-learn-from-chat-activity and ai-window-learn-from-browsing-activity)
+ai-window-delete-all-memories-message = خاتراتی ک هڌسووݩ پاک ابۊن. ٱر نؽخۊین خاتره نۊیی وورکل بۊ، تیک گۊزینه یل «ویر گرؽڌن ز…» ن من سامووا { -smart-window-brand-name } ووردارین.
 ai-window-delete-all-memories-confirm = پاک کردن
 ai-window-delete-all-memories-cancel = لقو
 # Variables:
@@ -81,6 +84,12 @@ ai-window-delete-all-memories-cancel = لقو
 ai-window-memory-delete-button =
     .aria-label = پاک کردن { $label }
     .title = پاک کردن ویرگه
+smart-window-model-fast-v2 =
+    .description = بؽڌرین گۊزینه سی جواوا زی، مجالی ک ترات ٱهمیت داره. نوم کامل: { $model } ز { $ownerName }
+    .label = { $shortName }: زل
 smart-window-model-flexible-v2 =
     .description = ٱماڌه سی ٱنجوم وزیفه یل موختلف. نوم کامل: { $model } و دست { $ownerName }
     .label = { $shortName }: انعتاف پزیر
+smart-window-model-personal-v2 =
+    .description = تراهی وابیڌه سی هیاری گرؽڌن سیخومی وابیڌه من زووا موختلف. نوم کامل: { $model } ز { $ownerName }
+    .label = { $shortName }: سیخومی
