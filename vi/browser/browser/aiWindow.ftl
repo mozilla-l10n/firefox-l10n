@@ -356,3 +356,19 @@ aiwindow-starter-planning-plan = Giúp lập kế hoạch
 aiwindow-starter-browsing-history = Tìm các thẻ trong lịch sử
 aiwindow-starter-browsing-summarize = Tóm tắt các thẻ
 aiwindow-starter-browsing-compare = So sánh các thẻ
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Cuộn trở lại
+    .tooltiptext = Cuộn trở lại
+aiwindow-starter-scroll-end =
+    .aria-label = Cuộn về phía trước
+    .tooltiptext = Cuộn về phía trước
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Bỏ qua { $text }
+    .title = Bỏ qua { $text }

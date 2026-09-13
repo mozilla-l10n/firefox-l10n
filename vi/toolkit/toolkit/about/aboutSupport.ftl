@@ -134,6 +134,16 @@ a11y-activated = Được kích hoạt
 a11y-force-disabled = Ngăn các tùy chọn về trợ năng
 a11y-handler-used = Xử lý truy cập được sử dụng
 a11y-instantiator = Trợ năng truy cập
+pdfjs-title = Trình xem PDF
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Phiên bản PDF.js
+pdfjs-enabled = Đã bật
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Đã bật trình chỉnh sửa chú thích
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Đã bật XFA Forms
+pdfjs-open-attachments-inline = Mở tập tin đính kèm PDF ngay trong trang
 library-version-title = Phiên bản thư viện
 copy-text-to-clipboard-label = Sao chép văn bản vào bộ nhớ tạm
 copy-raw-data-to-clipboard-label = Sao chép dữ liệu thô vào bộ nhớ tạm

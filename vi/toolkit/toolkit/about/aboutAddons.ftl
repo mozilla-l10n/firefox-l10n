@@ -527,6 +527,7 @@ mlmodel-pdfjs = { -brand-short-name } sử dụng cái này để tạo văn b�
 mlmodel-smart-tab-topic-engine = { -brand-short-name } sử dụng cái này để gợi ý tên cho nhóm thẻ của bạn
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } sử dụng cái này để đề xuất các thẻ cho nhóm thẻ của bạn
 mlmodel-formfill-engine = { -brand-short-name } sử dụng cái này để giúp điền vào các mẫu địa chỉ
+mlmodel-speech-recognition = { -brand-short-name } sử dụng cái này để nhận diện giọng nói trên thiết bị
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI trên thiết bị
 addon-category-mlmodel-title =
@@ -594,6 +595,9 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Thiết bị
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Diện mạo
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = Chủ đề { -brand-product-name }

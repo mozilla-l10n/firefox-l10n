@@ -122,6 +122,10 @@ autofill-card-expires-year-2 =
     .label = Hết hạn vào năm
 autofill-card-billing-address-2 =
     .label = Địa chỉ thanh toán
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Tên trên thẻ
 autofill-card-expires-month = Hết hạn tháng
 autofill-card-expires-year = Hết hạn năm
