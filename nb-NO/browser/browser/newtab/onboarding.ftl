@@ -545,9 +545,17 @@ onboarding-refresh-splash-screen-title = { -brand-product-name } passer på deg 
 onboarding-refresh-hero-text = Bygget for å beskytte deg, ikke spore deg.
 onboarding-refresh-tou-default = Åpne alle lenker med { -brand-short-name }
 onboarding-refresh-tou-default-unchecked = Behold innebygd beskyttelse hver gang du surfer
+onboarding-refresh-tou-pin-unchecked = Ha den eneste store uavhengige nettleseren bare et klikk unna
+onboarding-refresh-terms-of-use-with-links = Ved å fortsette godtar du <a data-l10n-name="terms_of_use">bruksvilkårene for { -brand-product-name }</a> og <a data-l10n-name="privacy_notice">personvernerklæringen vår</a>. For å bidra til å forbedre nettleseren sender { -brand-product-name } diagnostikk- og interaksjonsdata til { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Behandle innstillinger for datainnsamling
 onboarding-refresh-primary-button = Fortsett
+onboarding-refresh-fro-import-header = Ta med dine data
+onboarding-refresh-fro-import-body = Dine personopplysninger forblir personlige. { -brand-product-name } vil aldri selge dem.
 onboarding-refresh-fro-skip-button = Hopp over
+onboarding-refresh-fro-theme-header = Lek med din stil
+onboarding-refresh-tab-layout-header = Prøv en annet faneutforming
+onboarding-refresh-tab-layout-top = På toppen
+onboarding-refresh-tab-layout-side = På siden
 onboarding-refresh-tab-layout-minimal = Minimal
 # Tooltip displayed on hover for minimal tabs image
 onboarding-minimal-tabs-tooltip =

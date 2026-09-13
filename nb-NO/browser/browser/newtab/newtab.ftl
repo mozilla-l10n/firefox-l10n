@@ -501,6 +501,8 @@ newtab-recent-searches-row-remove =
 
 # Shown in place of the list when the user has made no searches recently.
 newtab-recent-searches-empty-recent = Nylige søk vises her, slik at du kan hente dem frem igjen når som helst.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Populære søk er ikke tilgjengelige akkurat nå.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
