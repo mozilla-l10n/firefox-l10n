@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } đang muốn
 autofill-edit-payment-method-os-prompt-macos = hiển thị thông tin phương thức thanh toán được lưu trữ
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } đang muốn hiển thị thông tin phương thức thanh toán được lưu trữ. Xác nhận quyền truy cập vào tài khoản Windows này bên dưới.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } đang muốn hiển thị thông tin phương thức thanh toán được lưu trữ.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = xoá thông tin phương thức thanh toán đã lưu
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } đang cố gắng xóa thông tin phương thức thanh toán đã lưu. Vui lòng xác nhận quyền truy cập vào tài khoản Windows này bên dưới.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } đang cố gắng xóa thông tin phương thức thanh toán đã lưu.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Tùy chọn tự động điền mẫu
 
