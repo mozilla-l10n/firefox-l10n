@@ -776,6 +776,9 @@ onboarding-refresh-primary-button = Pokračovat
 onboarding-refresh-fro-import-header = Přeneste svá data
 onboarding-refresh-fro-skip-button = Přeskočit
 onboarding-refresh-fro-theme-header = Přizpůsobte si vzhled
+onboarding-refresh-tab-layout-header = Vyzkoušejte jiné uspořádání panelů
+onboarding-refresh-tab-layout-top = Nahoře
+onboarding-refresh-tab-layout-side = Na straně
 
 ## Smart window switcher callout
 

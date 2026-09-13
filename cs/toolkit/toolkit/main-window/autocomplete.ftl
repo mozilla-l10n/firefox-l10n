@@ -33,6 +33,14 @@ autocomplete-delete-address = Smazat tuto adresu
 autocomplete-edit-payment-method = Upravit tuto platební metodu
 autocomplete-delete-payment-method = Smazat tuto platební metodu
 
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-remove-address-title = Odebrat adresu?
+autocomplete-remove-payment-method-title = Odebrat platební metodu?
+autocomplete-remove-record-message = Tuto akci nelze vrátit zpět.
+autocomplete-remove-record-button = Odebrat
+
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
 ## do not support device sign-in and fall back to the Primary Password dialog.

@@ -20,6 +20,9 @@ colorpicker-tooltip-hue-slider-title = Odstín
 colorpicker-tooltip-alpha-slider-title = Průhlednost
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseudotřídy specifické pro prvky
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = Rozložení panelů
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Přepnutí emulace barevného schématu stránky
