@@ -481,6 +481,10 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Legutóbbi keresési lehetőségek
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = További tudnivalók
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Legutóbbi keresések
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Népszerű
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
