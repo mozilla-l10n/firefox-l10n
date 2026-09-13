@@ -28,6 +28,8 @@ firefoxview-tabpickup-network-offline-header = منپیز اینترنت خوت�
 firefoxview-tabpickup-network-offline-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-network-offline-header-2 = ‏{ -brand-short-name } سکو نتره منپیز بۊ
 firefoxview-tabpickup-sync-error-header = من هوم گوم کردن موشکل داریم
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = هوم گوم کردن ب موشکل خرد
 firefoxview-tabpickup-sync-error-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-sync-disconnected-header = سی رئڌن وا پؽش، هوم گوم کردن ن رۊشن کۊنین
 firefoxview-tabpickup-sync-disconnected-primarybutton = رۊشن کردن هوم گوم کردن من سامووا
@@ -133,6 +135,7 @@ firefoxview-search-results-empty = نتیجه یل پیتینیڌن سی «{ $qu
 firefoxview-sort-history-by-date-label = ترتیب و ری ویرگار
 firefoxview-sort-history-by-site-label = ترتیب و ری وبگه
 firefoxview-sort-open-tabs-by-recency-label = ترتیب و ری فعالیت دیندایی
+firefoxview-sort-open-tabs-by-order-label = و ری ترتیب بلگه یل
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale

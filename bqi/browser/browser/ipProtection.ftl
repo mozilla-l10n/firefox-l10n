@@ -169,5 +169,6 @@ ipprotection-bandwidth-reset-button = فئمیم
 ## IP Protection alerts
 
 vpn-paused-alert-title = VPN واستا
+vpn-error-page-new-session = ناهاڌن پا ی نشست (Session) نۊ
 vpn-paused-alert-close-tabs-button = بستن پوی بلگه یل
 vpn-error-alert-body = دینداتر دووارته امتهووݩ کۊنین.

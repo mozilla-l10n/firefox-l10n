@@ -75,6 +75,8 @@ genai-page-button-summarize = خولاسه بلگه
 
 genai-onboarding-primary = رئڌن وا پؽش
 genai-onboarding-secondary = بستن
+genai-onboarding-claude-tooltip =
+    .title = Anthropic Claude
 genai-onboarding-chatgpt-tooltip =
     .title = ChatGPT
 genai-onboarding-copilot-tooltip =
@@ -101,10 +103,32 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] زمووݩ خوندن { $range } دیقه
+       *[other] زمووݩ خوندن { $range } دیقه
+    }
+# Error message when something went wrong during key point generation
+link-preview-generation-error-unexpected = موشکلی پؽش ٱووڌ.
 # Text for the retry link when generation fails
 link-preview-generation-retry = قپ ریت دووارته
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = لینگ پؽش نشووݩ سامووا
+# Title that appears when user is shown the opt-in flow for link previews
+link-preview-optin-title = نیشتن دووسمندیا قلوه وا هیاری هۊش مسنۊعی؟
+# Header for the key points section
+link-preview-key-points-header = نوکته یل کیلیتی
+# Onboarding card See a preview button
+link-preview-onboarding-button = نیشتن پؽش نشووݩ
 # Onboarding card Close button
 link-preview-onboarding-close = بستن
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = ره وندن سی کرت ٱولی

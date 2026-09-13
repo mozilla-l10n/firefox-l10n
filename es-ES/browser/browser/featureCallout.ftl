@@ -127,6 +127,26 @@ taskbar-tabs-media-callout-subtitle = Abra sus sitios de streaming como una apli
 taskbar-tabs-value-prop-callout-title = Añadir este sitio a la barra de tareas
 taskbar-tabs-value-prop-callout-subtitle = Ábralo en su propia ventana y en una interfaz simplificada con un solo clic.
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Manténgase conectado desde la barra de tareas
+taskbar-tabs-email-callout-title-v3 = Mantener la bandeja de entrada en la barra de tareas
+taskbar-tabs-email-callout-subtitle-v3 = Abra sus sitios de correo electrónico como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-media-callout-title-v3 = Mantenga sus vídeos en la barra de tareas
+taskbar-tabs-media-callout-subtitle-v3 = Abra sus sitios de medios como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-value-prop-callout-title-v3 = Fije sus sitios favoritos a la barra de tareas
+taskbar-tabs-value-prop-callout-subtitle-v3 = Abra cualquier sitio como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Vuelva a jugar desde su barra de tareas
+taskbar-tabs-gaming-callout-subtitle-v3 = Abra sus sitios de juegos como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Fijar a la barra de tareas
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = No pierda todo lo que haya guardado cuando se pase a Windows 11.
