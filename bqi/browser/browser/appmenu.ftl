@@ -116,6 +116,9 @@ appmenuitem-fxa-sign-in = و من ٱووڌن و { -brand-product-name }
 appmenuitem-fxa-manage-account = دؽوۉداری هساو
 fxa-menu-sync-status-on = هوم گوم کردن رۊشن هڌ
 fxa-menu-sync-status-off = هوم گوم کردن کۊر هڌ
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = هوم گوم کردن داده یل ایسا
 # Shown as a secondary label under "Sync is Off" when the user is signed in but
 # sync is turned off.
 fxa-menu-sync-off-data-description = داده یل ایسا هوم گوم نؽبۊن
@@ -123,6 +126,7 @@ fxa-menu-sync-off-data-description = داده یل ایسا هوم گوم نؽب
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = رۊشن کردن
+fxa-menu-sync-status-turn-on-button-aria-label = رۊشن کردن
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = سی هوم گوم کردن و من بیاین
@@ -370,6 +374,9 @@ appmenuitem-relay-title-signed-in = نیشتن ماسکا ایمیل
 appmenuitem-relay-description = بؽڌار کردن ایمیل وو شوماره تیلیفووݩ واقعی ایسا
 appmenuitem-services-relay-description = داشبورد ره وندن ماسکا ایمیل
 appmenuitem-vpn-title2 = جاگه خوتووݩ ن وا { -mozilla-vpn-brand-name } بؽڌار کۊنین
+appmenuitem-vpn-description5 = زفت وابیڌن قلوه من پوی دسگایل ایسا
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = گرؽڌن { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = پوی دسگا ن زفت کۊنین
 appmenu-services-header = خدمات مو

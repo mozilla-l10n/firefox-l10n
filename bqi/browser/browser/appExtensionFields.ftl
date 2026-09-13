@@ -27,5 +27,25 @@ extension-firefox-alpenglow-description = شؽواتی رنگی سی دویمه 
 # Name for a neutral gray-purple theme. Conveys a standard, default look. Not a
 # color word; translate the sense of "standard."
 extension-default-theme-name2 = پؽش فرز
+# Name for a warm yellow-gold theme. Refers to the color of sunlight.
+extension-nova-sun-name = ٱفتاو
+# Name for a warm orange theme. Refers to a small burst of fire.
+extension-nova-spark-name = جرقه
+# Name for a red-orange theme. Refers to the color of fire.
+extension-nova-flame-name = شوعله
+# Name for a bright pink theme. Refers to a burst of light or fire.
+extension-nova-flare-name = شراره
+# Name for a soft purple theme. Refers to the lavender flower.
+extension-nova-lavender-name = اوستوخودۊس
+# Name for a medium purple theme. Refers to the sky just after sunset.
+extension-nova-dusk-name = ٱفتاو دره
+# Name for a medium blue theme. Refers to a sheltered body of water.
+extension-nova-lagoon-name = منداو
+# Name for a green theme. Refers to pine trees.
+extension-nova-pine-name = کاج
+# Name for a soft teal theme. Refers to ocean tides.
+extension-nova-tide-name = جزر ۉ مد
+# Name for a medium-dark gray theme. Refers to the gray residue left by fire.
+extension-nova-ash-name = هاکشتر
 # Name for a warm gray-beige theme. Refers to the hazy color of smoke.
 extension-nova-smoke-name = دی
