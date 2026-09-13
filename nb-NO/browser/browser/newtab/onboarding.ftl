@@ -549,6 +549,12 @@ onboarding-refresh-data-collection-link = Behandle innstillinger for datainnsaml
 onboarding-refresh-primary-button = Fortsett
 onboarding-refresh-fro-skip-button = Hopp over
 onboarding-refresh-tab-layout-minimal = Minimal
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Et nettleservindu som viser faner som små ikoner langs siden av skjermen, i en minimert sidestolpe.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Et nettleservindu som viser faner som små ikoner langs siden av skjermen, i en minimert sidestolpe.
 
 ## Smart window switcher callout
 
