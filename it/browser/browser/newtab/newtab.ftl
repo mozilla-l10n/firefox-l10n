@@ -1714,6 +1714,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Questo spazio segue le tue regole
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ti consente di navigare come preferisci, offrendoti un modo più personale per iniziare la tua giornata online. Rendi { -brand-product-name } davvero tuo.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Dai il tocco finale a { -brand-product-name }
+newtab-nova-customization-callout-message = Scopri temi chiari o scuri e sfondi che rendono il nuovo { -brand-product-name } più in sintonia con il tuo stile.
+newtab-nova-customization-callout-primary-button =
+    .label = Scegli il tuo stile
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
