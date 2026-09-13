@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Chatbot AI
 menu-view-contextual-password-manager =
     .label = Mật khẩu
+menu-view-resource-monitor =
+    .label = Trình giám sát tài nguyên
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -195,6 +197,8 @@ sidebar-menu-customize-label =
     .label = Tùy biến thanh lề
 sidebar-menu-contextual-password-manager-label =
     .label = Mật khẩu
+sidebar-menu-resource-monitor-label =
+    .label = Trình giám sát tài nguyên
 sidebar-menu-more-tools-label =
     .label = Công cụ khác
 

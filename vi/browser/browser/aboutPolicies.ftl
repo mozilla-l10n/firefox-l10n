@@ -22,3 +22,6 @@ inactive-message = Dịch vụ chính sách doanh nghiệp hiện không hoạt 
 policy-name = Tên của chính sách
 policy-value = Giá trị của chính sách
 policy-errors = Lỗi chính sách
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Chưa được áp dụng hoàn toàn

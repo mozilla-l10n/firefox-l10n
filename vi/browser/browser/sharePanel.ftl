@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Đã sao chép liên kết
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Chia sẻ với Windows…
+            [macos] Chia sẻ với Mac…
+           *[other] Chia sẻ với…
+        }
 share-panel-os-share =
     .label = Chia sẻ với…
 share-panel-mail =
     .label = Gửi email
 share-panel-screenshot =
     .label = Chụp ảnh màn hình
+share-panel-qr-code-2 =
+    .label = Tạo mã QR
 share-panel-qr-code =
     .label = Chia sẻ mã QR
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Gửi đến điện thoại
 share-panel-device-subview =
     .title = Tất cả các thiết bị
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Thêm thiết bị
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =

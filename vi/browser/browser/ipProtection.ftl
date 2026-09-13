@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Hãy thử VPN được tích hợp sẵn của { -b
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ẩn vị trí của bạn</a> khi duyệt trong { -brand-product-name }.
 unauthenticated-private-location-message = Giúp <a data-l10n-name="learn-more-vpn">giữ vị trí của bạn riêng tư</a> trong { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Chọn từ nhiều địa điểm khác nhau hoặc để { -brand-product-name } chọn địa điểm nhanh nhất.
+unauthenticated-site-rules-message = Kiểm soát trang web nào sử dụng VPN và trang web nào không.
 unauthenticated-get-started = Bắt đầu
 unauthenticated-terms-of-service-privacy-notice = Bằng cách tiếp tục, bạn đồng ý với <a data-l10n-name="vpn-terms-of-service">điều khoản dịch vụ</a> và <a data-l10n-name="vpn-privacy-notice">thông báo bảo mật</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = Đã tắt VPN cho trang web này
     .label = Sử dụng VPN cho trang web này
 site-exclusion-toggle-description = Trang web không hoạt động? Hãy thử tắt VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Quản lý quy tắc VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Quy tắc của bạn
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = Đã tắt VPN cho trang web này
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = Đã bật VPN cho trang web này
 ipprotection-settings-link =
     .label = Cài đặt
 
@@ -252,6 +261,11 @@ ip-protection-not-opted-in-button = Bắt đầu
 ip-protection-site-exceptions-all-sites-button =
     .description = { $count } trang web
     .label = Quản lý cài đặt trang web
+ip-protection-site-rules-header =
+    .heading = Quản lý quy tắc trang web
+ip-protection-site-rules-button =
+    .description = Đặt quy tắc cho các trang web cần bảo mật cao hơn hoặc tắt VPN.
+    .label = Quản lý quy tắc trang web
 ip-protection-autostart =
     .label = Tự động bật VPN
 ip-protection-autostart-checkbox =
