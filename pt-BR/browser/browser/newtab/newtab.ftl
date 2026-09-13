@@ -481,6 +481,21 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Opções de pesquisas recentes
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Saiba mais
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Pesquisas recentes
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Em alta
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = via { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = há pouco
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Remover “{ $search }” das pesquisas recentes
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
