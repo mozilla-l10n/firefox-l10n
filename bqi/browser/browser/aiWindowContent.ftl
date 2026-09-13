@@ -23,6 +23,7 @@ smartwindow-assistant-error-capacity-header = زرفیت { -smart-window-brand-n
 smartwindow-assistant-error-budget-body = همچونووݩ ترین من ای نیمدری وب گردی کۊنین. بئڌ وورنشۊوی مئدۊدیت رۊزووه، امکووݩ گوفت ۉ لوفت دووارته فعال ابۊ.
 smartwindow-assistant-error-many-requests-header = یتی واستین وو دووارته قپ ریت کۊنین. پیوما قلوه ای من موڌت زمووݩ کمی فشناڌه وابیڌه.
 smartwindow-assistant-error-max-length-header = تۊل ای گوفت ۉ لوفت و هدکسر موجاز رسیڌه؛ بنین پا ی گوفت ۉ لزفت نۊ.
+smartwindow-assistant-error-request-blocked-header = { -smart-window-brand-name } نترست و سرور منپیز بۊ. شبکه دیری ن امتهووݩ کۊنین یا فیلترشکن (VPN) خوتووݩ ن کۊر کۊنین.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = ختای سرور (HTTP { $status }). دووارته قپ ریت کۊنین.
