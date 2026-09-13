@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } is trying to
 autofill-edit-payment-method-os-prompt-macos = show stored payment method information
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } is trying to show stored payment method information. Confirm access to this Windows account below.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } is trying to show stored payment method information.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = delete stored payment method information
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } is trying to delete stored payment method information. Confirm access to this Windows account below.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } is trying to delete stored payment method information.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Form autofill options
 
@@ -49,6 +54,11 @@ autofill-clear-form-label = Clear Autofill Form
 autofill-manage-addresses-label = Manage addresses
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Manage payment methods
+# Used as the primary label of an autofill drop down suggestion when the focused
+# field is the card security code. The card's masked number is shown underneath
+# it as the secondary label. "CVC" is a common abbreviation for the code printed
+# on a payment card; use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-label = CVC
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
