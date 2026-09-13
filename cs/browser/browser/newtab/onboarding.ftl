@@ -770,6 +770,13 @@ onboarding-refresh-gratitude-subtitle =
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje záda
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-primary-button = Pokračovat
+onboarding-refresh-fro-import-header = Přeneste svá data
+onboarding-refresh-fro-skip-button = Přeskočit
+onboarding-refresh-fro-theme-header = Přizpůsobte si vzhled
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Přepínejte kdykoliv mezi chytrými a klasickými okny.

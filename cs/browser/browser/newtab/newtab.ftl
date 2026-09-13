@@ -526,6 +526,16 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Nastavení pro nedávné vyhledávání
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Zjistit více
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Nedávno vyhledávané
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Populární
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = přes { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Právě teď
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
