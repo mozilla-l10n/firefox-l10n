@@ -556,6 +556,10 @@ onboarding-refresh-data-collection-link = Handsam innstillingar for datainnsamli
 onboarding-refresh-primary-button = Hald fram
 onboarding-refresh-fro-import-header = Ta med deg dataa dine
 onboarding-refresh-fro-skip-button = Hopp over
+onboarding-refresh-tab-layout-header = Prøv ei anna faneutforming
+onboarding-refresh-tab-layout-top = På toppen
+onboarding-refresh-tab-layout-side = På sida
+onboarding-refresh-tab-layout-minimal = Minimal
 
 ## Smart window switcher callout
 
