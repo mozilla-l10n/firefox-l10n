@@ -44,10 +44,19 @@ autocomplete-more-actions2 = Flere handlinger for { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
+autocomplete-remove-password-title = Fjerne passordet?
+autocomplete-remove-address-title = Fjerne adressen?
+autocomplete-remove-payment-method-title = Fjerne betalingsmåte?
+autocomplete-remove-record-message = Du kan ikke angre denne handlingen.
 autocomplete-remove-record-button = Fjern
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
 ## do not support device sign-in and fall back to the Primary Password dialog.
 
+autocomplete-remove-password-os-auth-dialog-message-win = For å slette passordet ditt, skriv inn Windows-påloggingsinformasjonen din. Dette bidrar til å beskytte kontoene dine.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# strings together will be presented by the operating system.
+autocomplete-remove-password-os-auth-dialog-message-macosx = slett det lagrede passordet
 autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

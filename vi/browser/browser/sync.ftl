@@ -70,6 +70,7 @@ fxa-menu-signed-out-message-unverified = Hoàn tất thiết lập
 # signed out - the account they signed out of can no longer be identified, so
 # this copy stands in for the email.
 fxa-menu-signed-out-title = Đăng nhập để đồng bộ hóa
+fxa-menu-signed-out-description = Bạn đã đăng xuất
 fxa-avatar-sign-in = Đăng nhập
 fxa-avatar-sign-up = Đăng ký
 fxa-avatar-tooltip =

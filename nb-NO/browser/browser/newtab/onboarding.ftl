@@ -544,6 +544,11 @@ onboarding-refresh-gratitude-title = { -brand-short-name } passer på deg
 onboarding-refresh-splash-screen-title = { -brand-product-name } passer på deg fra første stund
 onboarding-refresh-hero-text = Bygget for å beskytte deg, ikke spore deg.
 onboarding-refresh-tou-default = Åpne alle lenker med { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Behold { -brand-short-name } i Dock
+       *[other] Legg til { -brand-short-name } på oppgavelinjen
+    }
 onboarding-refresh-tou-default-unchecked = Behold innebygd beskyttelse hver gang du surfer
 onboarding-refresh-tou-pin-unchecked = Ha den eneste store uavhengige nettleseren bare et klikk unna
 onboarding-refresh-terms-of-use-with-links = Ved å fortsette godtar du <a data-l10n-name="terms_of_use">bruksvilkårene for { -brand-product-name }</a> og <a data-l10n-name="privacy_notice">personvernerklæringen vår</a>. For å bidra til å forbedre nettleseren sender { -brand-product-name } diagnostikk- og interaksjonsdata til { -vendor-short-name }.

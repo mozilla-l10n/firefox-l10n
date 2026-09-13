@@ -538,6 +538,20 @@ onboarding-refresh-gratitude-subtitle = Cảm ơn bạn đã sử dụng { -bran
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } luôn hỗ trợ bạn
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } sẽ luôn ở bên bạn, bắt đầu từ bây giờ
+onboarding-refresh-hero-text = Được thiết kế để bảo vệ bạn, không theo dõi bạn.
+onboarding-refresh-tou-default = Mở tất cả các liên kết bằng { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Giữ { -brand-short-name } trong Dock
+       *[other] Thêm { -brand-short-name } vào thanh tác vụ của bạn
+    }
+onboarding-refresh-tou-default-unchecked = Luôn duy trì tính năng bảo vệ tích hợp mỗi khi bạn duyệt web
+onboarding-refresh-tou-pin-unchecked = Luôn giữ trình duyệt độc lập lớn duy nhất bên mình chỉ bằng một cú nhấp chuột
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Chuyển đổi giữa cửa sổ thông mình và thông thường bất cứ lúc nào.

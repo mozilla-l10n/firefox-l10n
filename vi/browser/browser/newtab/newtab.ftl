@@ -184,6 +184,12 @@ newtab-privacy-across-sites = Trên { $count } trang web
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } chặn các trình theo dõi khi bạn duyệt web. Bạn sẽ thấy chúng ở đây.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } tự động chặn các trình theo dõi, giúp giữ cho hoạt động của bạn được riêng tư hơn.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Xem tổng kết cập nhật liên tục tại đây.
 
 ## Privacy widget — Enhanced Tracking Protection off state
 
@@ -439,6 +445,28 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Tuỳ chọn tìm kiếm gần đây
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Tìm hiểu thêm
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Tìm kiếm gần đây
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Thịnh hành
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = từ { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Vừa xong
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Xoá “{ $search }” khỏi các tìm kiếm gần đây
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Các tìm kiếm gần đây sẽ hiển thị ở đây để bạn có thể xem lại bất cứ lúc nào.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Tính năng tìm kiếm thịnh hành hiện không khả dụng.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -751,6 +779,13 @@ newtab-custom-close-menu-button =
     .title = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Quay lại Tuỳ chỉnh
+    .title = Quay lại Tuỳ chỉnh
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -804,6 +839,48 @@ newtab-wallpaper-dark-mountain = Phong cảnh núi
 newtab-wallpaper-dark-city = Phong cảnh thành phố màu tím
 newtab-wallpaper-dark-fox-anniversary = Một chú cáo đứng trên vỉa hè gần khu rừng
 newtab-wallpaper-light-fox-anniversary = Một chú cáo trong cánh đồng xanh cỏ với phong cảnh núi non mờ sương
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Hình ảnh của bạn
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Hình ảnh, hình nền mà bạn đã lưu
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Hình ảnh { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Xoá { $name }
+    .title = Xoá ảnh
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Xoá ảnh { $number }
+    .title = Xoá ảnh { $number }
+newtab-wallpaper-remove-image-title = Xoá hình ảnh?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Thao tác này không thể hoàn tác được.
+newtab-wallpaper-remove-image-confirm = Xoá
+newtab-wallpaper-remove-image-cancel = Huỷ bỏ
 
 ## Solid Colors
 
@@ -869,6 +946,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Một con cáo ở rìa bên phải trên nền màu cam
+newtab-wallpaper-firefox-colorful-sky = Những làn sóng màu cam trải dài trên bầu trời đêm tím
+newtab-wallpaper-firefox-desert-dark = Một con cáo đang ngồi trong sa mạc màu tím sẫm
+newtab-wallpaper-firefox-desert-light = Một con cáo đang chạy băng qua sa mạc ngập nắng
+newtab-wallpaper-firefox-hills-dark = Một con cáo đang chạy trên những ngọn đồi tối
+newtab-wallpaper-firefox-hills-light = Một con cáo đang chạy trên những ngọn đồi thoai thoải
+newtab-wallpaper-firefox-tail-dark = Đuôi cáo trên nền tối
+newtab-wallpaper-firefox-tail-light = Đuôi cáo trên nền sáng
+newtab-wallpaper-firefox-side-kit-dark = Một con cáo ở bên trái, trên nền tối
+newtab-wallpaper-firefox-side-kit-light = Một con cáo ở bên trái, trên nền sáng
+newtab-wallpaper-firefox-sitting-hill-dark = Một con cáo đang ngồi trên những ngọn đồi tím sẫm
+newtab-wallpaper-firefox-sitting-hill-light = Một con cáo đang ngồi trên những ngọn đồi sáng
+newtab-wallpaper-firefox-peak-dark = Khuôn mặt của một con cáo ở cạnh trái, trên nền tối
+newtab-wallpaper-firefox-peak-light = Khuôn mặt của một con cáo ở cạnh trái, trên nền sáng
+newtab-wallpaper-firefox-sky-dark = Những ngọn đồi màu tím sẫm dưới bầu trời đêm
+newtab-wallpaper-firefox-sky-light = Những ngọn đồi thoai thoải dưới bầu trời dịu nhẹ
 
 ## Firefox
 
@@ -896,6 +989,9 @@ newtab-weather-menu-change-location = Thay đổi khu vực
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Tìm kiếm khu vực
     .placeholder = Tìm kiếm khu vực
+newtab-weather-cancel-input =
+    .aria-label = Huỷ bỏ
+    .title = Huỷ bỏ
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Sử dụng khu vực hiện tại
@@ -1005,6 +1101,8 @@ newtab-section-follow-highlight-subtitle = Theo dõi sở thích của bạn đ�
 
 newtab-topic-navigation-label =
     .aria-label = Các chủ đề
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Thêm
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1143,6 +1241,10 @@ newtab-widget-lists-menu-create = Tạo một danh sách mới
 newtab-widget-lists-menu-delete = Xóa danh sách này
 newtab-widget-lists-menu-copy = Sao chép danh sách vào bộ nhớ tạm
 newtab-widget-lists-menu-learn-more = Tìm hiểu thêm
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Thay đổi danh sách
+    .title = Thay đổi danh sách
 newtab-widget-lists-button-add-item = Thêm một mục
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Thêm một mục
@@ -1202,6 +1304,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Thu nhỏ tất cả widget thành kích thước nhỏ gọn
     .title = Thu nhỏ widget
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Hiện phần widget
+    .title = Hiện widget
 newtab-widget-section-menu-button =
     .aria-label = Mở menu widget
     .title = Menu widget
