@@ -42,7 +42,7 @@ neterror-search-cta-intro2 = Nevarēja savienoties ar serveri <strong>{ $hostnam
 neterror-search-cta-intro = Nevarēja savienoties ar serveri { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Jāmēģina šie soļi:
-neterror-search-cta-hint-check-address = jāpārliecināš par tīmekļvietnes adreses pareizību;
+neterror-search-cta-hint-check-address = jāpārliecinās par tīmekļvietnes adreses pareizību;
 # Shown when no Search button is offered, so no specific query can be named.
 neterror-search-cta-hint-search = vietne jāmeklē tīmeklī;
 # Shown when the Search button is offered, naming the exact query it will run.
@@ -78,7 +78,7 @@ neterror-pref-reset = Izskatās, ka jūsu tīkla drošības iestatījumi varētu
 neterror-generic-error = Kāda nezināma iemesla dēļ { -brand-short-name } nevar atvērt šo lapu.
 neterror-load-error-try-again = Vietne varētu būt īslaicīgi nepieejama vai pārāk aizņemta. Pēc kāda brīža jāmēģina vēlreiz.
 neterror-load-error-connection = Ja nevar ielādēt nevienu lapu, jāpārbauda datora savienojums ar tīklu.
-neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecināš, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
+neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecinās, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-captive-portal = Vispirms šajā tīklā jāpiesakās, lai varētu piekļūt internetam.
 neterror-dns-not-found-hint-try-again = Vēlāk jāmēģina vēlreiz
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
@@ -100,7 +100,7 @@ neterror-not-cached-try-again = Jāklikšķina “Mēģināt vēlreiz”, lai no
 neterror-net-offline = Nospiediet “Mēģināt vēlreiz” lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.
 neterror-proxy-resolve-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
 neterror-proxy-resolve-failure-connection = Pārliecinieties, ka datoram ir strādājošs tīkla savienojums.
-neterror-proxy-resolve-failure-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecināš, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
+neterror-proxy-resolve-failure-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecinās, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-proxy-connect-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
 neterror-proxy-connect-failure-contact-admin = Sazinieties ar savu tīkla administratoru, lai pārliecinātos, ka starpniekserveris strādā korekti.
 neterror-content-encoding-error = Lūgums sazināties ar tīmekļvietnes īpašniekiem, lai ziņotu par šo sarežģījumu.

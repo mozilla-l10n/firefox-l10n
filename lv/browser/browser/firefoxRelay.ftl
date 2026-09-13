@@ -13,7 +13,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nevarēja atrast
 
 ##
 
-firefox-relay-must-login-to-account = Jāpiesakāš kontā, lai izmantotu savus { -relay-brand-name } e-pasta aizsegus.
+firefox-relay-must-login-to-account = Jāpiesakās kontā, lai izmantotu savus { -relay-brand-name } e-pasta aizsegus.
 firefox-relay-get-unlimited-masks =
     .label = Pārvaldīt aizsegus
     .accesskey = P
