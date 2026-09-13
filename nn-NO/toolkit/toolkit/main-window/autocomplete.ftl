@@ -54,6 +54,7 @@ autocomplete-remove-record-button = Fjern
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
 ## do not support device sign-in and fall back to the Primary Password dialog.
 
+autocomplete-remove-password-os-auth-dialog-message-win = For å slette passordet ditt, skriv inn Windows-påloggingsinformasjonen din. Dette bidreg til å verne kontoane dine.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # strings together will be presented by the operating system.

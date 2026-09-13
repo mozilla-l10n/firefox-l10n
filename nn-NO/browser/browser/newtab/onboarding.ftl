@@ -554,6 +554,7 @@ onboarding-refresh-tou-pin-unchecked = Ha den einaste store uavhengige nettlesar
 onboarding-refresh-terms-of-use-with-links = Ved å halde fram godtek du <a data-l10n-name="terms_of_use">bruksvilkåra for { -brand-product-name }</a> og <a data-l10n-name="privacy_notice">personvernfråsegna vår</a>. For å bidra til å forbetre nettlesaren sender { -brand-product-name } diagnostikk- og interaksjonsdata til { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Handsam innstillingar for datainnsamling
 onboarding-refresh-primary-button = Hald fram
+onboarding-refresh-fro-import-header = Ta med deg dataa dine
 onboarding-refresh-fro-skip-button = Hopp over
 
 ## Smart window switcher callout
