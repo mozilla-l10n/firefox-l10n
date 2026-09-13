@@ -111,6 +111,7 @@ unauthenticated-vpn-title = { -brand-product-name } құрамындағы VPN �
 unauthenticated-hide-location-message-3 = { -brand-product-name } ішінде шолу кезінде <a data-l10n-name="learn-more-vpn">Орналасқан жеріңізді жасырыңыз</a>.
 unauthenticated-private-location-message = { -brand-product-name } ішінде <a data-l10n-name="learn-more-vpn">орналасуыңызды құпия сақтауға көмектеседі</a>.
 unauthenticated-choose-location-message-1 = Бірнеше орналасудың бірін таңдаңыз немесе ең жылдамын { -brand-product-name } таңдауына рұқсат етіңіз.
+unauthenticated-site-rules-message = Қай сайттар VPN пайдаланатынын және қайсысы пайдаланбайтынын басқару.
 unauthenticated-get-started = Бастау
 unauthenticated-terms-of-service-privacy-notice = Жалғастыру арқылы сіз <a data-l10n-name="vpn-terms-of-service">Қызмет көрсету шарттары</a> және <a data-l10n-name="vpn-privacy-notice">Жекелік ескертуі</a> шарттарымен келісесіз.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,10 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = Бұл сайт үшін VPN сөндірулі тұр
     .label = Бұл сайт үшін VPN пайдалану
 site-exclusion-toggle-description = Сайт жұмыс істемей тұр ма? VPN сөндіріп көріңіз.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = VPN ережелерін басқару
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Сіздің ережеңіз
 ipprotection-settings-link =
     .label = Баптаулар
 

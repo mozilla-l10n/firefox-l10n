@@ -550,6 +550,9 @@ onboarding-refresh-tou-pin =
        *[other] Legg til { -brand-short-name } i oppgåvelinja di
     }
 onboarding-refresh-tou-default-unchecked = Behald innebygd vern kvar gong du surfar
+onboarding-refresh-tou-pin-unchecked = Ha den einaste store uavhengige nettlesaren berre eit klikk unna
+onboarding-refresh-terms-of-use-with-links = Ved å halde fram godtek du <a data-l10n-name="terms_of_use">bruksvilkåra for { -brand-product-name }</a> og <a data-l10n-name="privacy_notice">personvernfråsegna vår</a>. For å bidra til å forbetre nettlesaren sender { -brand-product-name } diagnostikk- og interaksjonsdata til { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Handsam innstillingar for datainnsamling
 onboarding-refresh-primary-button = Hald fram
 onboarding-refresh-fro-skip-button = Hopp over
 
