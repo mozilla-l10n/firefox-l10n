@@ -488,6 +488,12 @@ launch-options-spotlight-primary-button-launch = 保存して続ける
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+# "has your back" is an idiom meaning support and protection; adapt freely
+# rather than translating literally.
+lapsed-user-toast-title = { -brand-product-name } が支援しています
+lapsed-user-toast-subtitle = ブラウジングにさらに多くの選択肢、プライバシー保護と制御をもたらす新機能を確認しましょう。
+lapsed-user-toast-whats-new-button = 新機能を見る
+lapsed-user-toast-dismiss-button = 閉じる
 
 ## Refresh Firefox infobar
 ##
