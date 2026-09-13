@@ -40,6 +40,12 @@ url-classifier-cache-pcache-expiry = Hết hạn bộ nhớ đệm tích cực
 # URL of the resource being tested, i.e. the thing that would be loaded
 # (e.g. an image, script, or tracking pixel).
 url-classifier-content-classifier-url = URL
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Kết quả
+url-classifier-content-classifier-pbm = Duyệt web riêng tư
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = Tiện ích mở rộng không được đề xuất
 # Label for an expandable area showing the detailed per-feature output from the
 # classification engine.
 url-classifier-content-classifier-engine-details = Chi tiết công cụ
