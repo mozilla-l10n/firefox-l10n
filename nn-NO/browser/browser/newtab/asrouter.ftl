@@ -137,7 +137,7 @@ spotlight-peace-mind-header = Vi beskyttar deg
 spotlight-peace-mind-body = Kvar månad blokkerer { -brand-short-name } i gjennomsnitt over 3000 sporarar per brukar. Fordi ingenting, spesielt personvernplager som sporarar, skal stå mellom deg og eit godt internett.
 spotlight-pin-primary-button =
     { PLATFORM() ->
-        [macos] Behald i dokk
+        [macos] Behald i Dock
        *[other] Fest til oppgåvelinja
     }
 spotlight-pin-secondary-button = Ikkje no

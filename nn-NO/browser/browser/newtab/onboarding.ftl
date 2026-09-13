@@ -546,7 +546,7 @@ onboarding-refresh-hero-text = Bygd for å verne deg, ikkje spore deg.
 onboarding-refresh-tou-default = Opne alle lenker med { -brand-short-name }
 onboarding-refresh-tou-pin =
     { PLATFORM() ->
-        [macos] Behald { -brand-short-name } i dokka
+        [macos] Behald { -brand-short-name } i Dock
        *[other] Legg til { -brand-short-name } i oppgåvelinja di
     }
 onboarding-refresh-tou-default-unchecked = Behald innebygd vern kvar gong du surfar
@@ -555,11 +555,19 @@ onboarding-refresh-terms-of-use-with-links = Ved å halde fram godtek du <a data
 onboarding-refresh-data-collection-link = Handsam innstillingar for datainnsamling
 onboarding-refresh-primary-button = Hald fram
 onboarding-refresh-fro-import-header = Ta med deg dataa dine
+onboarding-refresh-fro-import-body = Personopplysningane dine held fram med å vere personlege. { -brand-product-name } vil aldri selje dei.
 onboarding-refresh-fro-skip-button = Hopp over
+onboarding-refresh-fro-theme-header = Leik med din stil
 onboarding-refresh-tab-layout-header = Prøv ei anna faneutforming
 onboarding-refresh-tab-layout-top = På toppen
 onboarding-refresh-tab-layout-side = På sida
 onboarding-refresh-tab-layout-minimal = Minimal
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Eit nettlesarvindauge som viser faner som små ikon langs sida av skjermen, i ein minimert sidestolpe.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Eit nettlesarvindauge som viser faner som små ikon langs sida av skjermen, i ein minimert sidestolpe.
 
 ## Smart window switcher callout
 
