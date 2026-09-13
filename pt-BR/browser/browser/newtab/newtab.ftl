@@ -497,6 +497,11 @@ newtab-recent-searches-just-now = há pouco
 newtab-recent-searches-row-remove =
     .aria-label = Remover “{ $search }” das pesquisas recentes
 
+## Recent searches widget — empty states
+
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Pesquisas em alta não estão disponíveis no momento.
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
