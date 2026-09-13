@@ -551,6 +551,23 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = Luôn duy trì tính năng bảo vệ tích hợp mỗi khi bạn duyệt web
 onboarding-refresh-tou-pin-unchecked = Luôn giữ trình duyệt độc lập lớn duy nhất bên mình chỉ bằng một cú nhấp chuột
+onboarding-refresh-terms-of-use-with-links = Bằng cách tiếp tục, bạn đồng ý với <a data-l10n-name="terms_of_use">Điều khoản dịch vụ của { -brand-product-name }</a> và <a data-l10n-name="privacy_notice">thông báo về quyền riêng tư</a> của chúng tôi. Để giúp cải thiện trình duyệt, { -brand-product-name } sẽ gửi dữ liệu chẩn đoán và tương tác đến { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Quản lý cài đặt thu thập dữ liệu
+onboarding-refresh-primary-button = Tiếp tục
+onboarding-refresh-fro-import-header = Mang theo dữ liệu của bạn
+onboarding-refresh-fro-import-body = Dữ liệu cá nhân của bạn sẽ được bảo mật. { -brand-product-name } sẽ không bao giờ bán dữ liệu đó.
+onboarding-refresh-fro-skip-button = Bỏ qua
+onboarding-refresh-fro-theme-header = Thử phong cách mới
+onboarding-refresh-tab-layout-header = Hãy thử bố cục thẻ khác
+onboarding-refresh-tab-layout-top = Ở trên
+onboarding-refresh-tab-layout-side = Ở bên cạnh
+onboarding-refresh-tab-layout-minimal = Tối giản
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Cửa sổ trình duyệt hiển thị các thẻ dưới dạng các biểu tượng nhỏ dọc theo cạnh màn hình, trong một thanh lề thu gọn.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Cửa sổ trình duyệt hiển thị các thẻ dưới dạng các biểu tượng nhỏ dọc theo cạnh màn hình, trong một thanh lề thu gọn.
 
 ## Smart window switcher callout
 
