@@ -344,7 +344,7 @@ quickactions-cmd-private = privātā pārlūkošana
 quickactions-refresh = Atsvaidzināt { -brand-short-name }
 quickactions-cmd-refresh = atsvaidzināt
 # Restarts the browser
-quickactions-restart = Pārstartēt { -brand-short-name }
+quickactions-restart = Aizvērt { -brand-short-name } un palaist no jauna
 quickactions-cmd-restart = atkārtoti palaist
 # Opens the screenshot tool
 quickactions-screenshot3 = Uzņemt ekrānuzņēmumu

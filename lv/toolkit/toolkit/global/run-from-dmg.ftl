@@ -9,7 +9,7 @@
 ## user accepts.
 
 prompt-to-install-title = Vai pabeigt { -brand-short-name } instalēšanu?
-prompt-to-install-message = Pabeidziet šo viena soļa instalēšanu, lai uzturētu { -brand-short-name } aktuālu un novērstu datu zudumu. { -brand-short-name } tiks pievienots mapei Lietotnes un dokam.
+prompt-to-install-message = Pabeidz šo viena soļa uzstādīšanu, lai palīdzētu uzturēt { -brand-short-name } atjauninātu un novērstu datu zudumu! { -brand-short-name } tiks pievienots lietotņu mapē un dokā.
 prompt-to-install-yes-button = Instalēt
 prompt-to-install-no-button = Neinstalēt
 
@@ -23,6 +23,6 @@ install-failed-message = { -brand-short-name } neizdevās instalēt, taču tas t
 ## rather than the app that was double-clicked in a .dmg.
 
 prompt-to-launch-existing-app-title = Vai atvērt esošu { -brand-short-name } lietotni?
-prompt-to-launch-existing-app-message = Jums jau ir instalēts { -brand-short-name }. Izmantojiet instalēto lietotni, lai uzturētu instalāciju aktuālu un novērstu datu zudumu.
+prompt-to-launch-existing-app-message = { -brand-short-name } jau ir uzstādīts. Jāizmanto uzstādītā lietotne, lai uzturētu to atjauninātu un novērstu datu zudumu.
 prompt-to-launch-existing-app-yes-button = Atvērt esošo
 prompt-to-launch-existing-app-no-button = Nē, paldies
