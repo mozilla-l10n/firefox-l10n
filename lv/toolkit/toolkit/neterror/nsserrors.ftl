@@ -323,6 +323,7 @@ mozilla-pkix-error-validity-too-long = Serveris piedāvāja sertifikātu, kas ir
 mozilla-pkix-error-required-tls-feature-missing = Trūkst nepieciešama TLS funkcija.
 mozilla-pkix-error-invalid-integer-encoding = Servera piedāvātajā sertifikātā ir nekorekts skaitļu kodējums. Biežākais kļūdas iemesls ir negatīvi sērijas numuri, negatīvi RSA moduļi vai kodējumi, kas nav nepieciešami.
 mozilla-pkix-error-empty-issuer-name = Serveris piedāvāja sertifikātu, ar tukšu izdevēja nosaukumu.
+mozilla-pkix-error-additional-policy-constraint-failed = Šī sertifikāta pārbaudīšanas laikā neizdevās papildu pamatnostādņu ierobežojuma pārbaude.
 mozilla-pkix-error-self-signed-cert = Šis sertifikāts nav uzticams, jo tas ir pašparakstīts.
 mozilla-pkix-error-issuer-no-longer-trusted = Sertifikācijas institūcija, kura izsniedza sertifikātu, bija neuzticama pirms sertifikāts tika izsniegts.
 xp-java-remove-principal-error = Nevar aizvākt direktoru
