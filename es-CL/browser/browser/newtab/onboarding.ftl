@@ -538,6 +538,36 @@ onboarding-refresh-gratitude-subtitle = Gracias por usar { -brand-short-name }, 
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } te respalda
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } te respalda, a partir de ahora
+onboarding-refresh-hero-text = Diseñado para protegerte, no para rastrearte.
+onboarding-refresh-tou-default = Abrir todos los enlaces con { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Mantén { -brand-short-name } en el Dock
+       *[other] Añade { -brand-short-name } a tu barra de tareas
+    }
+onboarding-refresh-tou-default-unchecked = Mantén la protección integrada cada vez que navegues
+onboarding-refresh-tou-pin-unchecked = Mantén el único navegador independiente importante a un clic de distancia
+onboarding-refresh-data-collection-link = Gestionar ajustes de recopilación de datos
+onboarding-refresh-primary-button = Continuar
+onboarding-refresh-fro-import-header = Trae tus datos
+onboarding-refresh-fro-import-body = Tus datos personales se mantienen privados. { -brand-product-name } nunca los venderá.
+onboarding-refresh-fro-skip-button = Saltar
+onboarding-refresh-fro-theme-header = Juega con tu look
+onboarding-refresh-tab-layout-header = Prueba con un diseño de pestañas diferente
+onboarding-refresh-tab-layout-top = Arriba
+onboarding-refresh-tab-layout-side = A un lado
+onboarding-refresh-tab-layout-minimal = Minimalista
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Una ventana del navegador que muestra las pestañas como pequeños iconos en el lateral de la pantalla, en una barra lateral minimizada.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Una ventana del navegador que muestra las pestañas como pequeños iconos en el lateral de la pantalla, en una barra lateral minimizada.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Cambia entre Ventanas Inteligentes y Clásicas cuando quieras.

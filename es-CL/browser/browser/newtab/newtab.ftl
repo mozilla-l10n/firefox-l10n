@@ -984,6 +984,21 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Un zorro en el borde derecho sobre un fondo naranja.
+newtab-wallpaper-firefox-colorful-sky = Ondas de color naranja a través del cielo nocturno púrpura
+newtab-wallpaper-firefox-desert-dark = Un zorro sentado en un desierto de color púrpura oscuro
+newtab-wallpaper-firefox-desert-light = Un zorro corriendo a través de un desierto claro
+newtab-wallpaper-firefox-hills-dark = Un zorro corriendo por colinas oscuras
+newtab-wallpaper-firefox-hills-light = Un zorro corriendo por colinas claras
+newtab-wallpaper-firefox-tail-dark = La cola de un zorro sobre un fondo oscuro
+newtab-wallpaper-firefox-tail-light = La cola de un zorro sobre un fondo claro
+newtab-wallpaper-firefox-side-kit-dark = Un zorro en el lado izquierdo, sobre un fondo oscuro
+newtab-wallpaper-firefox-side-kit-light = Un zorro en el lado izquierdo, sobre un fondo claro
+newtab-wallpaper-firefox-sitting-hill-dark = Un zorro sentado en colinas de color púrpura oscuro
+newtab-wallpaper-firefox-sitting-hill-light = Un zorro sentado en colinas claras
+newtab-wallpaper-firefox-peak-dark = El rostro de un zorro en el borde izquierdo, sobre un fondo oscuro
+newtab-wallpaper-firefox-peak-light = El rostro de un zorro en el borde izquierdo, sobre un fondo claro
+newtab-wallpaper-firefox-sky-dark = Colinas de color púrpura oscuro bajo el cielo nocturno
+newtab-wallpaper-firefox-sky-light = Colinas luminosas bajo un cielo suave
 
 ## Firefox
 
