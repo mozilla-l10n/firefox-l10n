@@ -545,12 +545,19 @@ onboarding-refresh-hero-text = Sizi izlemek için değil, korumak için gelişti
 onboarding-refresh-tou-default = Tüm bağlantıları { -brand-short-name } ile açın
 onboarding-refresh-data-collection-link = Veri toplama ayarlarını yönet
 onboarding-refresh-primary-button = Devam et
+onboarding-refresh-fro-import-body = Kişisel verileriniz size özel kalır. { -brand-product-name } asla verilerinizi satmaz.
 onboarding-refresh-fro-skip-button = Geç
 onboarding-refresh-fro-theme-header = Görünümünüzü özelleştirin
 onboarding-refresh-tab-layout-header = Başka bir sekme düzeni deneyin
 onboarding-refresh-tab-layout-top = Üstte
 onboarding-refresh-tab-layout-side = Yanda
 onboarding-refresh-tab-layout-minimal = Minimal
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Sekmeleri ekranın kenarındaki daraltılmış kenar çubuğunda küçük simgeler olarak gösteren bir tarayıcı penceresi.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Sekmeleri ekranın kenarındaki daraltılmış kenar çubuğunda küçük simgeler olarak gösteren bir tarayıcı penceresi.
 
 ## Smart window switcher callout
 
