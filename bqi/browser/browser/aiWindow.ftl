@@ -154,6 +154,8 @@ aiwindow-firstrun-memories-update-settings = هر سا ک خاستین من سا
 
 ## Firstrun set as default onboarding
 
+aiwindow-firstrun-default-title = ‏{ -smart-window-brand-name } ن و پسند همیشه ای خوتووݩ تبدیل کۊنین
+aiwindow-firstrun-default-subtitle = گشتن وب، پیتینیڌن وو پورس کردن پوی من ی جا. اوسو هر سا ک بخۊین ترین نیمدری یل سیخومی وو کلاسیک ن بۊگۊشین.
 aiwindow-firstrun-default-checkbox-label = هی { -brand-product-name } ن من { -smart-window-brand-name } بۊگۊشین
 aiwindow-firstrun-default-checkbox-description = سامووا ن هر سا خاستین آلشت کۊنین
 
