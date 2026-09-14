@@ -1390,10 +1390,20 @@ trustpanel-blocker-header =
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = ایمن نؽ
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } رڌجۊر مسدۊد وابی
+       *[other] { $count } رڌجۊر مسدۊد وابی
+    }
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
+trustpanel-blocker-description = { -brand-product-name } و یو باور داره ک شرکتا وا کمتر ایسا ن رڌجۊری کونن، سی دل هیمو تا اوچو ک ره داره رڌجۊرا مسدۊد ابۊن.
+trustpanel-blocked-header = { -brand-product-name } ای مووردا ن سی ایسا مسدۊد کرده:
 trustpanel-insecure-section-header = منپیز ایسا ایمن نؽ
 trustpanel-list-label-tracking-cookies =
     { $count ->
