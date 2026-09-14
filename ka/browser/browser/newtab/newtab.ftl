@@ -485,6 +485,10 @@ newtab-recent-searches-menu-learn-more = ვრცლად
 newtab-recent-searches-tab-recent = ბოლოს მოძიებული
 # Tab listing what is trending with the user's search engine.
 newtab-recent-searches-tab-trending = ხშირად ნანახი
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = უზრუნვ. { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = ახლახან
 # Screen reader label for the button that forgets one listed search.
