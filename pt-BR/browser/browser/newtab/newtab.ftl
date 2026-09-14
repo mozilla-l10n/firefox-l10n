@@ -499,6 +499,8 @@ newtab-recent-searches-row-remove =
 
 ## Recent searches widget — empty states
 
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Pesquisas recentes aparecem aqui para você retomar quando quiser.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Pesquisas em alta não estão disponíveis no momento.
 
