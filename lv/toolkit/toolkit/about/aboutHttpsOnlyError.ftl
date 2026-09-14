@@ -6,7 +6,7 @@ about-httpsonly-title-alert = Tikai-HTTPS režīma brīdinājums
 about-httpsonly-title-site-not-available = Droša vietne nav pieejama
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
-about-httpsonly-explanation-unavailable2 = Jūs esat ieslēdzis režīmu tikai-HTTPS, lai uzlabotu drošību, un nav pieejama HTTPS versija vietnei <em>{ $websiteUrl }</em>.
+about-httpsonly-explanation-unavailable2 = Papildu drošībai ir iespējota pārlūkošana tikai ar HTTPS, un vietnei <em>{ $websiteUrl }</em> nav pieejama HTTPS versija.
 about-httpsonly-explanation-question = Kas tam varētu būt par cēloni?
 about-httpsonly-explanation-nosupport = Visticamāk, vietne vienkārši neatbalsta HTTPS.
 about-httpsonly-explanation-risk = Iespējams, ka ir iesaistīts uzbrucējs. Ja nolemjat apmeklēt vietni, neievadiet nekādu sensitīvu informāciju, piemēram, paroles, e-pastus vai kredītkartes informāciju.

@@ -50,6 +50,6 @@ browser-languages-downloading =
 browser-languages-select-language =
     .label = Atlasi valodu, kuru pievienot ...
     .placeholder = Atlasi valodu, kuru pievienot ...
-browser-languages-installed-label = Instalētās valodas
+browser-languages-installed-label = Uzstādītās valodas
 browser-languages-available-label = Pieejamās valodas
 browser-languages-error = { -brand-short-name } pašlaik nevar atjaunināt valodas. Pārbaudiet, vai ir izveidots savienojums ar internetu un mēģiniet vēlreiz.

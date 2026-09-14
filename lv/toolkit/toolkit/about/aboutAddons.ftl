@@ -7,7 +7,7 @@ addons-page-title = Papildinājumu pārvaldnieks
 ##
 
 list-empty-installed =
-    .value = Jums nav uzinstalēts neviens šī tipa atjauninājums
+    .value = Nav uzstādīts neviens šāda veida papildinājums.
 list-empty-available-updates =
     .value = Atjauninājumi nav atrasti
 list-empty-recent-updates =
@@ -35,10 +35,10 @@ detail-update-default =
     .tooltiptext = Automātiski uzstādīt atjauninājumus tikai tad, ja tā ir noklusējuma vērtība
 detail-update-automatic =
     .label = Ieslēgta
-    .tooltiptext = Instalēt atjauninājumus automātiski
+    .tooltiptext = Automātiski uzstādīt atjauninājumus
 detail-update-manual =
     .label = Izslēgta
-    .tooltiptext = Neinstalēt atjauninājumus automātiski
+    .tooltiptext = Neuzstādīt atjauninājumus automātiski
 detail-private-browsing-on =
     .label = Atļaut
     .tooltiptext = Iespējot privātajā pārlūkošanā
@@ -151,13 +151,13 @@ addon-updates-manual-updates-found = Aplūkot pieejamos atjauninājumus
 
 ## Add-on install/debug strings for page options menu
 
-addon-install-from-file = Instalēt no faila…
-    .accesskey = I
+addon-install-from-file = Uzstādīt no datnes…
+    .accesskey = U
 # Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
 # pref is set.
 addon-install-or-update-from-file = Uzstādīt vai atjaunināt papildinājumu no datnes…
     .accesskey = U
-addon-install-from-file-dialog-title = Izvēlieties instalējamo papildinājumu
+addon-install-from-file-dialog-title = Atlasīt uzstādāmo papildinājumu
 addon-install-from-file-filter-name = Papildinājumi
 addon-open-about-debugging = Atkļūdot papildinājumus
     .accesskey = d
@@ -206,7 +206,7 @@ details-notification-unsigned-and-disabled2 =
 details-notification-unsigned2 =
     .message = { $name } nevar pārbaudīt izmantošanai ar { -brand-short-name }. Esiet piesardzīgi.
 details-notification-gmp-pending2 =
-    .message = { $name } pēc mirkļa tiks instalēts.
+    .message = { $name } pēc brīža tiks uzstādīts.
 
 ## Gecko Media Plugins (GMPs)
 

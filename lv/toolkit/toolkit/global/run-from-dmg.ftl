@@ -8,15 +8,15 @@
 ## appropriate location before relaunching itself from that location if the
 ## user accepts.
 
-prompt-to-install-title = Vai pabeigt { -brand-short-name } instalēšanu?
+prompt-to-install-title = Pabeigt { -brand-short-name } uzstādīšanu?
 prompt-to-install-message = Pabeidz šo viena soļa uzstādīšanu, lai palīdzētu uzturēt { -brand-short-name } atjauninātu un novērstu datu zudumu! { -brand-short-name } tiks pievienots lietotņu mapē un dokā.
-prompt-to-install-yes-button = Instalēt
-prompt-to-install-no-button = Neinstalēt
+prompt-to-install-yes-button = Uzstādīt
+prompt-to-install-no-button = Neuzstādīt
 
 ## Strings for a dialog that opens if the installation failed.
 
-install-failed-title = { -brand-short-name } instalēšana neizdevās.
-install-failed-message = { -brand-short-name } neizdevās instalēt, taču tas turpinās darboties.
+install-failed-title = { -brand-short-name } uzstādīšana neizdevās.
+install-failed-message = { -brand-short-name } neizdevās uzstādīt, bet tas turpinās darboties.
 
 ## Strings for a dialog that recommends to the user to start an existing
 ## installation of the app in the Applications directory if one is detected,
