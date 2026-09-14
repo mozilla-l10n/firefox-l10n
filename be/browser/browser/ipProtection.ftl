@@ -120,6 +120,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN для гэтага сайта выключаны
     .label = Выкарыстоўваць VPN для гэтага сайта
 site-exclusion-toggle-description = Сайт не працуе? Паспрабуйце адключыць VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Кіраванне правіламі VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Ваша правіла
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN для гэтага сайта выключаны
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN уключаны для гэтага сайта
 ipprotection-settings-link =
     .label = Налады
 

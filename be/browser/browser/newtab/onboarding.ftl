@@ -542,6 +542,9 @@ onboarding-refresh-gratitude-title = { -brand-short-name } прыкрывае в
 
 onboarding-refresh-fro-skip-button = Прапусціць
 onboarding-refresh-tab-layout-header = Паспрабуйце іншы выклад картак
+onboarding-refresh-tab-layout-top = Наверсе
+onboarding-refresh-tab-layout-side = Збоку
+onboarding-refresh-tab-layout-minimal = Мінімалізм
 
 ## Smart window switcher callout
 
