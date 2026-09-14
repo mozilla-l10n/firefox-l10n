@@ -32,6 +32,10 @@ autocomplete-edit-address = Editar esta dirección
 autocomplete-delete-address = Borrar esta dirección
 autocomplete-edit-payment-method = Editar este método de pago
 autocomplete-delete-payment-method = Borrar este método de pago
+# aria-label and tooltip for the trash button on a form history entry.
+# Variables:
+#   $entry (String) - The text of the saved form history entry that would be deleted.
+autocomplete-delete-form-history-entry2 = Borrar { $entry } del historial de formularios
 # aria-label and tooltip for the button that opens the edit/delete menu.
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.

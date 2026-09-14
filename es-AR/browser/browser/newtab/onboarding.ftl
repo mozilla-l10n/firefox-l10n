@@ -541,6 +541,8 @@ onboarding-refresh-gratitude-title = { -brand-short-name } lo cuida
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } lo protege, empezando ahora
 onboarding-refresh-hero-text = Creado para proteger, no para rastrear.
 onboarding-refresh-tou-default = Abrir todos los enlaces con { -brand-short-name }
 onboarding-refresh-tou-pin =

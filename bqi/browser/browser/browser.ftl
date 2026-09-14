@@ -628,6 +628,8 @@ urlbar-result-action-visit = نیشتن
 urlbar-result-action-switch-tab-with-container = جا گورویی و بلگه · <span>{ $container }</span>
 # Used when the target tab is in a tab group that doesn't have a label.
 urlbar-result-action-tab-group-unnamed = بونکۊ بؽ نوم
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = گۊشیڌن لینگ ز کلیپ بورد
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
