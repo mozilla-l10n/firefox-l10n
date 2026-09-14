@@ -1173,6 +1173,10 @@ tabs-toolbar-list-all-tabs =
     .label = نومگهی کردن پوی بلگه یل
     .tooltiptext = نومگهی کردن پوی بلگه یل
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = سی دیسنیڌن، بلگه ن ایچو ول کۊنین
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1360,9 +1364,16 @@ trustpanel-connection-label-insecure = منپیز ٱمن نؽ
 trustpanel-header-enabled = { -brand-product-name } هونی نگهبۊوی اده
 trustpanel-description-enabled2 = ایسا زفت ابۊین. ٱر چیه ن بوینیم، و ایسا وارسۊوی اکۊنیم.
 trustpanel-header-enabled-insecure = ویرت وا ای وبگه بۊ
+trustpanel-description-enabled-insecure = { -brand-product-name } موتوجه فعالیت مشکۊکی وابیڌه.
 trustpanel-header-disabled = ایسا زفت وابیڌنا ن کۊر کردین
+trustpanel-description-disabled = { -brand-product-name } قیر فعال هڌ. پؽشنهاڌ اکۊنیم زفت وابیڌنا ن دووارته رۊشن کۊنین.
 trustpanel-clear-cookies-button = پاک کردن کۊکیا وو داده یل وبگه
 trustpanel-privacy-link = سامووا هریم سیخومی
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = روفتن کۊکیا وو داده یل وبگه سی { $host }
+trustpanel-clear-cookies-description = روفتن کۊکیا وو داده یل وبگه گاشڌ ایسا ن ز وبگه یل و در کونه وو سبدا استیڌنا ایسا ن پتی کونه.
 trustpanel-clear-cookies-subview-button-clear = روفتن
 trustpanel-clear-cookies-subview-button-cancel = لقو
 # Variables
