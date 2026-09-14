@@ -76,6 +76,7 @@ fxa-menu-signed-out-message-unverified = Dokončiť nastavenie
 # signed out - the account they signed out of can no longer be identified, so
 # this copy stands in for the email.
 fxa-menu-signed-out-title = Prihlásiť sa a synchronizovať
+fxa-menu-signed-out-description = Nie ste prihlásení
 fxa-avatar-sign-in = Prihlásiť sa
 fxa-avatar-sign-up = Zaregistrovať sa
 fxa-avatar-tooltip =

@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } chce použi�
 autofill-edit-payment-method-os-prompt-macos = zobraziť uložené informácie o spôsoboch platby
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } chce zobraziť uložené informácie o spôsoboch platby. Prosím, potvrďte prístup k účtu systému Windows.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } chce zobraziť uložené informácie o spôsoboch platby.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = odstrániť uložené informácie o spôsobe platby
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } chce odstrániť uložené informácie o spôsoboch platby. Prosím, potvrďte prístup k účtu systému Windows.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } chce odstrániť uložené informácie o spôsoboch platby.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Možnosti automatického dopĺňania formulárov
 
