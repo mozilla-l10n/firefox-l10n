@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Vyskúšajte vstavanú VPN od { -brand-product-name(
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Skrytie polohy</a> počas prehliadania vo { -brand-product-name(case: "loc") }.
 unauthenticated-private-location-message = Pri prehliadaní vo { -brand-product-name(case: "loc") } pomáha <a data-l10n-name="learn-more-vpn">udržiavať vašu polohu v súkromí</a>.
 unauthenticated-choose-location-message-1 = Vyberte si z niekoľkých lokalít alebo nechajte { -brand-product-name(case: "acc") } vybrať tú najrýchlejšiu.
+unauthenticated-site-rules-message = Určite, ktoré stránky majú používať VPN a ktoré nie.
 unauthenticated-get-started = Začíname
 unauthenticated-terms-of-service-privacy-notice = Pokračovaním súhlasíte so <a data-l10n-name="vpn-terms-of-service">Podmienkami používania</a> a <a data-l10n-name="vpn-privacy-notice">Vyhlásením o ochrane osobných údajov</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je pre túto stránku vypnutá
     .label = Použiť VPN pre túto stránku
 site-exclusion-toggle-description = Stránka nefunguje? Skúste vypnúť VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Spravovať pravidlá VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Vaše pravidlo
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN je pre túto stránku vypnutá
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN je pre túto stránku zapnutá
 ipprotection-settings-link =
     .label = Nastavenia
 
@@ -258,6 +267,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webových stránok
         }
     .label = Spravovať nastavenia webových stránok
+ip-protection-site-rules-header =
+    .heading = Spravovať pravidlá webových stránok
 ip-protection-autostart =
     .label = Automaticky zapínať VPN
 ip-protection-autostart-checkbox =
