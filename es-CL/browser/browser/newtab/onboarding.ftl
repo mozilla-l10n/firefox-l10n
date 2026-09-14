@@ -551,6 +551,7 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = Mantén la protección integrada cada vez que navegues
 onboarding-refresh-tou-pin-unchecked = Mantén el único navegador independiente importante a un clic de distancia
+onboarding-refresh-terms-of-use-with-links = Al continuar, aceptas los <a data-l10n-name="terms_of_use">Términos de uso</a> y el <a data-l10n-name="privacy_notice">Aviso de privacidad de { -brand-product-name }</a>. Para ayudar a mejorar el navegador, { -brand-product-name } envía datos de diagnóstico e interacción a { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Gestionar ajustes de recopilación de datos
 onboarding-refresh-primary-button = Continuar
 onboarding-refresh-fro-import-header = Trae tus datos
