@@ -93,7 +93,7 @@ connectionFailure-title = Nevar pieslēgties
 deniedPortAccess-title = Piekļuve šai adresei ir ierobežota
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = Hmm. Diemžēl mums neizdodas atrast šo lapu.
+dnsNotFound-title = Hmm! Mums ir grūtības ar šīs vietnes atrašanu.
 internet-connection-offline-title = Izskatās, ka ir sarežģījums ar interneta savienojumu.
 fileNotFound-title = Datne nav atrasta
 fileAccessDenied-title = Piekļuve datnei tika noraidīta

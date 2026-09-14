@@ -80,6 +80,7 @@ neterror-load-error-try-again = Vietne varētu būt īslaicīgi nepieejama vai p
 neterror-load-error-connection = Ja nevar ielādēt nevienu lapu, jāpārbauda datora savienojums ar tīklu.
 neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecinās, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-captive-portal = Vispirms šajā tīklā jāpiesakās, lai varētu piekļūt internetam.
+neterror-dns-not-found-hint-header = <strong>Ja ievadīji pareizu adresi, vari;</strong>
 neterror-dns-not-found-hint-try-again = Vēlāk jāmēģina vēlreiz
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
 
