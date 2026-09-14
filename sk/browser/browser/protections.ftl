@@ -187,9 +187,9 @@ bar-tooltip-social =
 bar-tooltip-cookie =
     .aria-label =
         { $count ->
-            [one] { $count } sledovacia cookie ({ $percentage } %)
-            [few] { $count } sledovacie cookies ({ $percentage } %)
-           *[other] { $count } sledovacích cookies ({ $percentage } %)
+            [one] { $count } súbor sledovacích cookies tretích strán ({ $percentage } %)
+            [few] { $count } súbory sledovacích cookies tretích strán ({ $percentage } %)
+           *[other] { $count } súborov sledovacích cookies tretích strán ({ $percentage } %)
         }
     .title = Sledovacie cookies tretích strán
 bar-tooltip-tracker =
