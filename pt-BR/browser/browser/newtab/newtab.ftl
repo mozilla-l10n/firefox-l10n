@@ -996,6 +996,7 @@ newtab-wallpaper-firefox-sitting-hill-light = Uma raposa sentada sobre montes cl
 newtab-wallpaper-firefox-peak-dark = Rosto de raposa no canto esquerdo com fundo escuro
 newtab-wallpaper-firefox-peak-light = Rosto de raposa no canto esquerdo com fundo claro
 newtab-wallpaper-firefox-sky-dark = Montes roxo escuro sob um céu noturno
+newtab-wallpaper-firefox-sky-light = Montes claros sob um céu suave
 
 ## Firefox
 
