@@ -490,6 +490,21 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Параметры нядаўніх пошукаў
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Падрабязней
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Нядаўнія пошукі
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Тэндэнцыі
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = ад { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Толькі што
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Выдаліць «{ $search }» з нядаўніх пошукаў
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
