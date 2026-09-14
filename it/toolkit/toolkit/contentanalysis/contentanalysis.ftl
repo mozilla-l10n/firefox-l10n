@@ -10,27 +10,35 @@ contentanalysis-slow-agent-dialog-header = Scansione in corso
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $filename - Name of the file being analyzed, such as "aFile.txt"
-contentanalysis-slow-agent-dialog-body-file = { $agent } sta verificando “{ $filename }” in base ai criteri per i dati della tua organizzazione. Potrebbe richiedere alcuni istanti.
+contentanalysis-slow-agent-dialog-body-file = { $agent } sta verificando “{ $filename }” in base ai criteri per la protezione dei dati della tua organizzazione. Potrebbe richiedere qualche istante.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $filename - Name of a file being analyzed, such as "aFile.txt"
 #   $count (number) - The number of additional items in the request for analysis
 contentanalysis-slow-agent-dialog-body-file-and-more =
     { $count ->
-        [one] { $agent } sta verificando “{ $filename }” e { $count } altro elemento in base ai criteri per i dati della tua organizzazione. L’operazione potrebbe richiedere alcuni istanti.
-       *[other] { $agent } sta verificando “{ $filename }” e { $count } altri elementi in base ai criteri per i dati della tua organizzazione. L’operazione potrebbe richiedere alcuni istanti.
+        [one] { $agent } sta verificando “{ $filename }” e { $count } altro elemento in base ai criteri per la protezione dei dati della tua organizzazione. L’operazione potrebbe richiedere qualche istante.
+       *[other] { $agent } sta verificando “{ $filename }” e { $count } altri elementi in base ai criteri per la protezione dei dati della tua organizzazione. L’operazione potrebbe richiedere qualche istante.
     }
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-clipboard = { $agent } sta verificando il contenuto incollato in base ai criteri per i dati della tua organizzazione. Potrebbe richiedere alcuni istanti.
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } sta verificando il contenuto incollato in base ai criteri per la protezione dei dati della tua organizzazione. Potrebbe richiedere qualche istante.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } sta verificando il contenuto copiato in base ai criteri per la protezione dei dati della tua organizzazione. Potrebbe richiedere qualche istante.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } sta verificando il testo trascinato in base ai criteri per i dati della tua organizzazione. Potrebbe richiedere alcuni istanti.
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } sta verificando il testo trascinato in base ai criteri per la protezione dei dati della tua organizzazione. Potrebbe richiedere qualche istante.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-print = { $agent } sta verificando il contenuto stampato in base ai criteri per i dati della tua organizzazione. Potrebbe richiedere alcuni istanti.
+contentanalysis-slow-agent-dialog-body-print = { $agent } sta verificando il contenuto stampato in base ai criteri per la protezione dei dati della tua organizzazione. Potrebbe richiedere qualche istante.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = La tua organizzazione non consente di copiare questi contenuti.
 contentanalysis-operationtype-clipboard = appunti
+contentanalysis-operationtype-clipboard-copy = contenuto copiato
 contentanalysis-operationtype-dropped-text = testo trascinato
 contentanalysis-operationtype-print = stampa
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Verifica della firma n
 contentanalysis-error-message-upload-file = Il caricamento di “{ $filename }” è stato rifiutato.
 contentanalysis-error-message-dropped-text = Il trascinamento è stato rifiutato.
 contentanalysis-error-message-clipboard = L’incollatura è stata rifiutata.
+contentanalysis-error-message-clipboard-copy = La copia è stata rifiutata.
 contentanalysis-error-message-print = La stampa è stata rifiutata.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = Non hai il permesso di scaric
 contentanalysis-block-dialog-body-download-file = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di scaricare il file “{ $filename }”. Contatta il tuo amministratore per ulteriori informazioni.
 contentanalysis-block-dialog-title-clipboard = Non hai il permesso di incollare questo contenuto
 contentanalysis-block-dialog-body-clipboard = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di incollare questo contenuto. Contatta il tuo amministratore per ulteriori informazioni.
+contentanalysis-block-dialog-title-clipboard-copy = Non hai il permesso di copiare questo contenuto
+contentanalysis-block-dialog-body-clipboard-copy = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di copiare questo contenuto. Contatta il tuo amministratore per ulteriori informazioni.
 contentanalysis-block-dialog-title-dropped-text = Non hai il permesso di trascinare questo contenuto
 contentanalysis-block-dialog-body-dropped-text = I criteri per la protezione dei dati stabiliti dalla tua organizzazione non consentono di trascinare questo contenuto. Contatta il tuo amministratore per ulteriori informazioni.
 contentanalysis-block-dialog-title-print = Non hai il permesso di stampare questo documento
