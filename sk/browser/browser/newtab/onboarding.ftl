@@ -550,6 +550,24 @@ onboarding-refresh-tou-pin =
        *[other] Pridať { -brand-short-name(case: "acc") } na panel úloh
     }
 onboarding-refresh-tou-default-unchecked = Používať vstavanú ochranu pri každom prehliadaní
+onboarding-refresh-tou-pin-unchecked = Mať jediný významný nezávislý prehliadač na dosah ruky
+onboarding-refresh-terms-of-use-with-links = Pokračovaním vyjadrujete súhlas s <a data-l10n-name="terms_of_use">Podmienkami používania produktu { -brand-product-name }</a> a naším <a data-l10n-name="privacy_notice">Vyhlásením o ochrane osobných údajov</a>. V záujme zlepšovania prehliadača odosiela { -brand-product-name } diagnostické údaje a údaje o interakciách spoločnosti { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Spravovať nastavenia zhromažďovania údajov
+onboarding-refresh-primary-button = Pokračovať
+onboarding-refresh-fro-import-header = Používajte svoje údaje
+onboarding-refresh-fro-import-body = Vaše osobné údaje zostanú súkromné. { -brand-product-name } ich nikdy nepredá.
+onboarding-refresh-fro-skip-button = Preskočiť
+onboarding-refresh-fro-theme-header = Pohrajte sa so vzhľadom
+onboarding-refresh-tab-layout-header = Vyskúšajte si iné rozloženie kariet
+onboarding-refresh-tab-layout-top = Hore
+onboarding-refresh-tab-layout-side = Na bočnej strane
+onboarding-refresh-tab-layout-minimal = Úsporné
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Okno prehliadača s kartami zobrazenými ako malé ikony na okraji obrazovky v minimalizovanom bočnom paneli.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Okno prehliadača s kartami zobrazenými ako malé ikony na okraji obrazovky v minimalizovanom bočnom paneli.
 
 ## Smart window switcher callout
 
