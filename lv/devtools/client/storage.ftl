@@ -14,10 +14,10 @@ storage-table-empty-text = Atlasītajā vietnē nav datu
 storage-table-type-cookies-hint = Apskatīt un labot sīkdatnes, atlasot resursdatoru. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 # Hint shown when the local storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
-storage-table-type-localstorage-hint = Skatiet un rediģējiet vietējo krātuvi, atlasot resursdatoru. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+storage-table-type-localstorage-hint = Apskati un labo vietējo krātuvi ar saimniekdatora atlasīšanu! <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 # Hint shown when the session storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
-storage-table-type-sessionstorage-hint = Skatiet un rediģējiet sesijas krātuvi, atlasot resursdatoru. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+storage-table-type-sessionstorage-hint = Apskati un labo sesijas krātuvi ar saimniekdatora atlasīšanu! <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 # Hint shown when the IndexedDB storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/indexeddb/
 storage-table-type-indexeddb-hint = Skatiet un dzēsiet IndexedDB ierakstus, atlasot datubāzi. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
@@ -26,7 +26,7 @@ storage-table-type-indexeddb-hint = Skatiet un dzēsiet IndexedDB ierakstus, atl
 storage-table-type-cache-hint = Skatiet un dzēsiet kešatmiņas krātuves ierakstus, atlasot krātuvi. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
 # Hint shown when the extension storage type is selected. Clicking the link will open
 # https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
-storage-table-type-extensionstorage-hint = Skatiet un rediģējiet paplašinājuma krātuvi, atlasot resursdatoru. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+storage-table-type-extensionstorage-hint = Apskati un labo paplašinājumu krātuvi ar saimniekdatora atlasīšanu! <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = Atsijāt vienumus

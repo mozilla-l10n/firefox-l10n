@@ -35,9 +35,9 @@ options-collapse-attrs-label = Saīsināt DOM atribūtus
 options-collapse-attrs-tooltip =
     .title = Saīsināt garus atribūtus inspektorā
 # The label for the checkbox option to enable the "drag to update" feature
-options-inspector-draggable-properties-label = Kšķiniet un velciet, lai rediģētu izmēru vērtības
+options-inspector-draggable-properties-label = Jāklikšķina un jāvelk, lai labotu izmēru vērtības
 options-inspector-draggable-properties-tooltip =
-    .title = Kšķiniet un velciet, lai rediģētu izmēru vērtības inspektora kārtulu skatā.
+    .title = Jāklikšķina un jāvelk, lai labotu izmēru vērtības izpētītāja kārtulu skatā.
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Izmantot vienkāršākus izcēlējus ar preferences-reduced-motion
