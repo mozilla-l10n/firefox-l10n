@@ -322,16 +322,24 @@ aiwindow-feedback-submit = فشناڌن
 aiwindow-feedback-cancel = لقو
 aiwindow-feedback-reason-incorrect-or-misleading = اشتوا یا بلا کوننده
 aiwindow-feedback-reason-doesnt-address-my-request = و درخاست مو رسیڌیی نؽکونه
+aiwindow-feedback-reason-lacks-personalization = بؽ سیخومی کردن یا زمینه مورتبت
 aiwindow-feedback-reason-performance-or-usability = موشکل من عملکرد یا قابلیت و کار گرؽڌن
 aiwindow-feedback-reason-harmful-or-offensive = موزر یا توهین کردنی
 aiwindow-feedback-reason-other = دیر
 aiwindow-feedback-preview-report = نیشتن جۊزعیات چت
 aiwindow-feedback-preview-report-with-page = نیشتن جۊزعیات چت وو بلگه
+aiwindow-feedback-include-page-content = یک رسۊوی بلگه یل اشاره وابیڌه من ای چت
 
 ## Smart Window ai-chat-grid
 
 aiwindow-ai-chat-grid-view-controls =
     .aria-label = آلشت تئر بندی نما
+aiwindow-ai-chat-grid-list-view =
+    .aria-label = آلشت هالت: نما نومگهی
+    .tooltiptext = نما نومگهی
+aiwindow-ai-chat-grid-grid-view =
+    .aria-label = آلشت هالت: نما شبکه ای
+    .tooltiptext = نما شبکه ای
 
 ## Smart Window new-tab conversation starters
 ## These are short suggested user queries used to prompt the AI assistant when clicked on.
@@ -348,3 +356,10 @@ aiwindow-starter-planning-plan = هیاری و وورکل تئر
 aiwindow-starter-browsing-history = جوستن بلگه یل من ویرگار
 aiwindow-starter-browsing-summarize = خولاسه کردن بلگه یل
 aiwindow-starter-browsing-compare = موقایسه بلگه یل
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = اسکرۊل و عقب
+    .tooltiptext = اسکرۊل و عقب
