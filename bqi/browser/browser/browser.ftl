@@ -1404,7 +1404,10 @@ urlbar-trust-icon-trackers-blocked-longform-label =
 
 trustpanel-blocker-description = { -brand-product-name } و یو باور داره ک شرکتا وا کمتر ایسا ن رڌجۊری کونن، سی دل هیمو تا اوچو ک ره داره رڌجۊرا مسدۊد ابۊن.
 trustpanel-blocked-header = { -brand-product-name } ای مووردا ن سی ایسا مسدۊد کرده:
+trustpanel-tracking-header = { -brand-product-name } سی خۊو کار کردن وبگه ای مووردا ن موجاز دووست:
+trustpanel-tracking-description = بؽ ی قرده ز رڌجۊرا، عملکرد ی قرده ز دویمه یل، فورما وو فیلدا و من ٱووڌن گاشڌ وا اختلال ری ب ری بۊن.
 trustpanel-insecure-section-header = منپیز ایسا ایمن نؽ
+trustpanel-insecure-description = داده یلی ک ایسا و ای وبگه افشنین رزم ناهاڌه نؽبۊن وو گاشڌ نیشتن، دۊزی یا دستکاری بۊن.
 trustpanel-list-label-tracking-cookies =
     { $count ->
         [one] { $count } کۊکیا رڌجۊر منجا وبگهی
@@ -1416,10 +1419,25 @@ trustpanel-list-label-fingerprinter =
         [one] { $count } جا کلک
        *[other] { $count } جا کلک
     }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } رڌجۊر شبکه یل اجتماعی
+       *[other] { $count } رڌجۊر شبکه یل اجتماعی
+    }
 trustpanel-list-label-cryptominer =
     { $count ->
         [one] { $count } ماینر کریپتو
        *[other] { $count } ماینر کریپتو
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } تعداد { $count } رڌجۊر شبکه یل اجتماعی ن مسدۊد کرد
+       *[other] { -brand-product-name } تعداد { $count } رڌجۊر شبکه یل اجتماعی ن مسدۊد کرد
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } هشت { $count } رڌجۊر شبکه یل اجتماعی فعالیت کونه
+       *[other] { -brand-product-name } هشت { $count } رڌجۊر شبکه یل اجتماعی فعالیت کونه
     }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = ناهاڌن پا اسکن مۊفتی
