@@ -166,6 +166,9 @@ smartwindow-ask-button =
 
 ## Memories toggle button
 
+aiwindow-memories-on =
+    .aria-label = خاترات رۊشن
+    .tooltiptext = ٱر ک ب درد تووݩ خرد، خاترات ن من جواوا و کار بگرین
 aiwindow-memories-off =
     .aria-label = خاترات کۊر
     .tooltiptext = خاترات ن من ولوما و کار مبرین
@@ -211,6 +214,10 @@ aiwindow-fullpage-more =
     .label = قلوه
     .title = قلوه
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = داده یل هوم گوم وابیڌه من هساو ایسا باقی امئنن. نیمدری یل واز { -smart-window-brand-name(plural-form: "true") } و نیمدری یل کلاسیک تبدیل ابۊن.
+
 ## Smart Window Toggle Button (in-page)
 
 smartwindow-switch-to-smart-window = و { -smart-window-brand-name } بریوین
@@ -251,6 +258,11 @@ firefoxview-chat-date-yesterday = دۊش - { DATETIME($date, dateStyle: "full") 
 firefoxview-chat-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
+## Message displayed in Firefox View when the user has no chat data
+
+firefoxview-chats-empty-header = وورگشتن و چتا تووݩ
+firefoxview-chats-empty-description = وا و کار گرؽڌن { -smart-window-brand-name }، چتا تووݩ ایچونا زفت ابۊن.
+
 ## Count displayed in fxview chat search results
 
 firefoxview-search-chat-results-count =
@@ -261,6 +273,9 @@ firefoxview-search-chat-results-count =
 
 ## Clear browsing data dialog
 
+item-history-downloads-and-chat =
+    .label = ویرگار گشتن، دانلود وو چت
+    .accesskey = B
 item-history-downloads-and-chat-description = ویرگار وبگه، دانلود وو چت ن پاک اکونه
 
 ## Natural Language Interactions
@@ -292,12 +307,15 @@ smartwindow-close-tab-callout-subtitle = هر سا خاستین بلگه یل ن
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = ‏{ -smart-window-brand-name } و عونوان پؽش فرز ایسا سامووݩ بۊ؟
+smart-window-default-promo-message = ‏{ -brand-short-name } هر کرت من { -smart-window-brand-name } اگوئشه.
 smart-window-default-promo-primary-button = سامووݩ و عونوان پؽش فرز
 smart-window-default-promo-additional-button = سکو ن
 
 ## Feedback modal
 
 aiwindow-feedback-modal-title = یک رسۊوی منشڌ
+aiwindow-feedback-what-worked-well = چ چیه خۊو کار کرد؟ دووسمندیا سیخومی خوتووݩ ن مزنین.
 aiwindow-feedback-choose-any = مووردایی ک راستی آزمایی ابۊن ن پسند کۊنین
 aiwindow-feedback-add-details = ٱر ک اخۊین جۊزعیات ن ازاف کۊنین. دووسمندیا سیخومی ن ازاف نکۊنین.
 aiwindow-feedback-submit = فشناڌن
