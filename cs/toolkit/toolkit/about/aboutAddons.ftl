@@ -668,6 +668,9 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Podle zařízení
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Vzhled
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading =
