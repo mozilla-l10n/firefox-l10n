@@ -497,6 +497,28 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Nastavenia pre nedávne vyhľadávania
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Ďalšie informácie
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Nedávne vyhľadávania
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Populárne
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = v službe { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Pred chvíľou
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Vymazať “{ $search }” z nedávnych vyhľadávaní
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Tu sa zobrazia vaše nedávne vyhľadávania, aby ste sa k nim mohli kedykoľvek vrátiť.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Populárne vyhľadávania momentálne nie sú k dispozícii.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -978,6 +1000,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Líška pri pravom okraji na oranžovom pozadí
+newtab-wallpaper-firefox-colorful-sky = Oranžové vlny na fialovej nočnej oblohe
+newtab-wallpaper-firefox-desert-dark = Líška sediaca v púšti zahalenej do tmavofialových odtieňov
+newtab-wallpaper-firefox-desert-light = Líška bežiaca cez svetlú púšť
+newtab-wallpaper-firefox-hills-dark = Líška bežiaca po tmavých kopcoch
+newtab-wallpaper-firefox-hills-light = Líška bežiaca po svetlých kopcoch
+newtab-wallpaper-firefox-tail-dark = Chvost líšky na tmavom pozadí
+newtab-wallpaper-firefox-tail-light = Chvost líšky na svetlom pozadí
+newtab-wallpaper-firefox-side-kit-dark = Líška vľavo na tmavom pozadí
+newtab-wallpaper-firefox-side-kit-light = Líška vľavo na svetlom pozadí
+newtab-wallpaper-firefox-sitting-hill-dark = Líška sediaca na tmavofialových kopcoch
+newtab-wallpaper-firefox-sitting-hill-light = Líška sediaca na svetlých pahorkoch
+newtab-wallpaper-firefox-peak-dark = Tvár líšky pri ľavom okraji na tmavom pozadí
+newtab-wallpaper-firefox-peak-light = Tvár líšky pri ľavom okraji na svetlom pozadí
+newtab-wallpaper-firefox-sky-dark = Tmavofialové kopce pod nočnou oblohou
+newtab-wallpaper-firefox-sky-light = Svetlé kopce pod nežnou oblohou
 
 ## Firefox
 

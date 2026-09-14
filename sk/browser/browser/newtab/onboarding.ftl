@@ -538,6 +538,19 @@ onboarding-refresh-gratitude-subtitle = Ďakujeme, že používate { -brand-shor
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje chrbát
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } vám odteraz kryje chrbát
+onboarding-refresh-hero-text = Navrhnutý tak, aby vás chránil, nie sledoval.
+onboarding-refresh-tou-default = Otvárať všetky odkazy v prehliadači { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Ponechať { -brand-short-name(case: "acc") } v Docku
+       *[other] Pridať { -brand-short-name(case: "acc") } na panel úloh
+    }
+onboarding-refresh-tou-default-unchecked = Používať vstavanú ochranu pri každom prehliadaní
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Prepínajte medzi inteligentnými a klasickými oknami kedykoľvek.

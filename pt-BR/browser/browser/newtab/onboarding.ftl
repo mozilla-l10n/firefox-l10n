@@ -551,6 +551,7 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = Conte com a proteção integrada sempre que navegar
 onboarding-refresh-tou-pin-unchecked = Acesse o único grande navegador independente com apenas um clique
+onboarding-refresh-terms-of-use-with-links = Ao continuar, você declara que concorda com os <a data-l10n-name="terms_of_use">termos de uso do { -brand-product-name }</a> e com nosso <a data-l10n-name="privacy_notice">aviso de privacidade</a>. Para ajudar a melhorar o navegador, o { -brand-product-name } envia dados de diagnóstico e interação para a { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Gerenciar configurações de coleta de dados
 onboarding-refresh-primary-button = Avançar
 onboarding-refresh-fro-import-header = Importe seus dados
@@ -561,6 +562,12 @@ onboarding-refresh-tab-layout-header = Experimente uma disposição diferente de
 onboarding-refresh-tab-layout-top = No alto
 onboarding-refresh-tab-layout-side = Ao lado
 onboarding-refresh-tab-layout-minimal = Mínimo
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Uma janela do navegador com abas exibidas como pequenos ícones na lateral da tela, em um painel lateral minimizado.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Uma janela do navegador com abas exibidas como pequenos ícones na lateral da tela, em um painel lateral minimizado.
 
 ## Smart window switcher callout
 
