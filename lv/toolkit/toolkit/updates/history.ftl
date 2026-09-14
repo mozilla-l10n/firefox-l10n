@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Atjaunināšanas vēsture
-history-intro = Ir instalēti šādi atjauninājumi
+history-intro = Tika uzstādīti šādi atjauninājumi
 close-button-label =
     .buttonlabelcancel = Aizvērt
     .title = Atjaunināšanas vēsture
-no-updates-label = Vēl nav instalēts neviens atjauninājums
+no-updates-label = Vēl nav uzstādīts neviens atjauninājums
 name-header = Atjauninājuma nosaukums
-date-header = Instalēšanas datums
+date-header = Uzstādīšanas datums
 type-header = Veids
 state-header = Stāvoklis
 # Used to display update history
@@ -21,7 +21,7 @@ update-full-build-name = { $name } ({ $buildID })
 update-details = Sīkāka informācija
 # Variables:
 #   $date (string) - Date the last update was installed
-update-installed-on = Uzinstalēts: { $date }
+update-installed-on = Uzstādīts: { $date }
 # Variables:
 #   $status (string) - Status of the last update
 update-status = Stāvoklis: { $status }

@@ -9,13 +9,12 @@ elevation-details-link-label =
     .value = Sīkāka informācija
 elevation-error-manual = Varat pašrocīgi atjaunināt { -brand-short-name }, dodoties uz šo saiti un lejupielādējot jaunāko versiju.
 elevation-finished-page = Atjauninājumi ir gatavi uzstādīšanai
-elevation-finished-background-page = { -brand-short-name } drošības atjauninājums ir lejupielādēts un gatavs instalēšanai.
+elevation-finished-background-page = { -brand-short-name } drošības un noturības atjauninājums ir lejupielādēts un gatavs uzstādīšanai.
 elevation-finished-background = Atjauninājums:
 elevation-more-elevated =
-    Šim atjauninājumam ir nepieciešamas administratora tiesības . Atjauninājums tiks
-    instalēts nākamo reizi palaižot { -brand-short-name }. Jūs varat pārstartēt
-    { -brand-short-name } tagad, vai arī turpināt darbu un pārstartēt vēlāk, vai
-    atteikties no šī atjauninājuma.
+    Šim atjauninājumam ir nepieciešamas pārvaldītāja tiesības . Atjauninājums tiks
+    uzstādīts nākamajā { -brand-short-name } palaišanas reizē. { -brand-short-name } var palaist no jauna tagad, var turpināt darbu un palaist no jauna vēlāk vai arī
+    noraidīt šo atjauninājumu.
 sandbox-missing-unprivileged-namespaces = Dažas no { -brand-short-name } drošības iespējām var piedāvāt mazāk aizsardzības pašreizējā operētājsistēmā.
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Vairs nerādīt

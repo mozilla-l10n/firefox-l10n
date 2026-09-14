@@ -65,7 +65,7 @@ split-dismiss-button-default-label =
 # The 'account icon' is the toolbar button with a 'profile' icon of a human
 # head/shoulders. It's for dealing with your Mozilla account. When hovering the
 # icon, the tooltip says 'Account'.
-login-status-advisory-title = Ste odhlásení. Kliknutím na ikonu účtu sa prihláste.
+login-status-advisory-title = Ste odhlásení. Kliknutím na ikonu účtu sa prihlásite.
 
 ## Bookmarks toolbar callout strings
 

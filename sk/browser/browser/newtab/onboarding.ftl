@@ -577,7 +577,7 @@ smartwindow-switcher-callout = Prepínajte medzi inteligentnými a klasickými o
 
 # Existing users
 smartwindow-existing-user-fx-tou-title = Podmienky používania { -brand-product-name(case: "gen") }
-smartwindow-existing-user-fx-tou-body = Ak chcete používať { -smart-window-brand-name(case: "acc") }, súhlaste s <a data-l10n-name="terms_of_use">Podmienkami používania</a> a aktualizovaným <a data-l10n-name="privacy_notice">Vyhlásením o ochrane osobných údajov</a>.
+smartwindow-existing-user-fx-tou-body = Ak chcete používať { -smart-window-brand-name(case: "acc") }, musíte odsúhlasiť <a data-l10n-name="terms_of_use">Podmienky používania</a> a aktualizované <a data-l10n-name="privacy_notice">Vyhlásenie o ochrane osobných údajov</a>.
 smartwindow-existing-user-fx-tou-accept = Prijať
 smartwindow-existing-user-fx-tou-go-back = Prejsť naspäť
 
