@@ -488,7 +488,7 @@ newtab-recent-searches-tab-trending = Tendance
 # Informs the user which engine the trending results come from.
 # Variables:
 #   $engine (string) - Name of the default search engine, e.g. "Google".
-newtab-recent-searches-trending-attribution = par { $engine }
+newtab-recent-searches-trending-attribution = via { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = À l’instant
 # Screen reader label for the button that forgets one listed search.
@@ -500,7 +500,7 @@ newtab-recent-searches-row-remove =
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
-newtab-recent-searches-empty-recent = Les recherches récentes s’afficheront ici afin que vous puissiez les retrouver à tout moment.
+newtab-recent-searches-empty-recent = Vos recherches récentes s’afficheront ici pour que vous puissiez les retrouver à tout moment.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Les recherches populaires ne sont pas disponibles actuellement.
 

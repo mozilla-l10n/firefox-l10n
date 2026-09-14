@@ -6,9 +6,9 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-        [one] Prehliadač { -brand-short-name } zablokoval v priebehu minulého týždňa { $count } sledovací prvok
-        [few] Prehliadač { -brand-short-name } zablokoval v priebehu minulého týždňa { $count } sledovacie prvky
-       *[other] Prehliadač { -brand-short-name } zablokoval v priebehu minulého týždňa { $count } sledovacích prvkov
+        [one] Prehliadač { -brand-short-name } zablokoval za posledných sedem dní { $count } sledovací prvok
+        [few] Prehliadač { -brand-short-name } zablokoval za posledných sedem dní { $count } sledovacie prvky
+       *[other] Prehliadač { -brand-short-name } zablokoval za posledných sedem dní { $count } sledovacích prvkov
     }
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
@@ -58,7 +58,7 @@ mobile-app-title = Blokovanie sledujúcich reklám naprieč zariadeniami
 mobile-app-card-content = Používajte mobilný prehliadač so vstavanou ochranou pred sledujúcimi reklamami.
 mobile-app-links = Prehliadač { -brand-product-name } pre <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Už žiadne zabudnuté heslá
-passwords-title-logged-in = Spravovať heslá
+passwords-title-logged-in = Spravujte svoje heslá
 passwords-header-content = { -brand-product-name } bezpečne uchováva vaše heslá v prehliadači.
 lockwise-header-content-logged-in = Ukladajte a synchronizujte heslá bezpečne naprieč svojimi zariadeniami.
 protection-report-passwords-save-passwords-button = Uložiť heslá
@@ -177,45 +177,45 @@ monitor-resolve-breaches-link = Vyriešiť úniky dát
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Sledovacie prvky sociálnych sietí
     .aria-label =
         { $count ->
             [one] { $count } sledovací prvok sociálnych sietí ({ $percentage } %)
             [few] { $count } sledovacie prvky sociálnych sietí ({ $percentage } %)
            *[other] { $count } sledovacích prvkov sociálnych sietí ({ $percentage } %)
         }
+    .title = Sledovacie prvky sociálnych sietí
 bar-tooltip-cookie =
-    .title = Sledovacie cookies tretích strán
     .aria-label =
         { $count ->
             [one] { $count } sledovacia cookie ({ $percentage } %)
             [few] { $count } sledovacie cookies ({ $percentage } %)
            *[other] { $count } sledovacích cookies ({ $percentage } %)
         }
+    .title = Sledovacie cookies tretích strán
 bar-tooltip-tracker =
-    .title = Sledovací obsah
     .aria-label =
         { $count ->
             [one] { $count } prvok sledujúceho obsahu ({ $percentage } %)
             [few] { $count } prvky sledujúceho obsahu ({ $percentage } %)
            *[other] { $count } prvkov sledujúceho obsahu ({ $percentage } %)
         }
+    .title = Sledovací obsah
 bar-tooltip-fingerprinter =
-    .title = Vytváranie odtlačku prehliadača
     .aria-label =
         { $count ->
             [one] { $count } pokus o vytvorenie odtlačku prehliadača ({ $percentage } %)
             [few] { $count } pokusy o vytvorenie odtlačku prehliadača ({ $percentage } %)
            *[other] { $count } pokusov o vytvorenie odtlačku prehliadača ({ $percentage } %)
         }
+    .title = Vytváranie odtlačku prehliadača
 bar-tooltip-cryptominer =
-    .title = Ťažba kryptomien
     .aria-label =
         { $count ->
             [one] Jeden pokus o ťažbu kryptomien ({ $percentage }%)
             [few] { $count } pokusy o ťažbu kryptomien ({ $percentage }%)
            *[other] { $count } pokusov o ťažbu kryptomien ({ $percentage }%)
         }
+    .title = Ťažba kryptomien
 # Privacy Metrics Card
 privacy-metrics-title = Ochrana súkromia
 # Variables:
