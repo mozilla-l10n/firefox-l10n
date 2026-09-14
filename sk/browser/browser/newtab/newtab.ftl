@@ -178,7 +178,7 @@ newtab-privacy-widget-label =
 #   $count (number) - Number of trackers blocked today
 newtab-privacy-trackers-blocked-today =
     { $count ->
-        [one] Sledovací prvok zablokované dnes
+        [one] Sledovací prvok zablokovaný dnes
         [few] Sledovacie prvky zablokované dnes
         [many] Sledovacích prvkov zablokovaných dnes
        *[other] Sledovacích prvkov zablokovaných dnes
