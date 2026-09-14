@@ -101,7 +101,7 @@ generic-title = Savādi gan...
 captivePortal-title = Pieteikšanās tīklā
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-malformedURI-title = Hmm. Šķiet šī adrese nav korekta.
+malformedURI-title = Hmm! Šī adrese nešķiet pareiza.
 netInterrupt-title = Savienojums tika pārtraukts
 notCached-title = Ir beidzies dokumenta derīgums
 netOffline-title = Nesaistes režīms

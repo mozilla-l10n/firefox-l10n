@@ -82,6 +82,8 @@ neterror-load-error-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmū
 neterror-captive-portal = Vispirms šajā tīklā jāpiesakās, lai varētu piekļūt internetam.
 neterror-dns-not-found-hint-header = <strong>Ja ievadīji pareizu adresi, vari;</strong>
 neterror-dns-not-found-hint-try-again = Vēlāk jāmēģina vēlreiz
+neterror-dns-not-found-hint-check-network = Pārbaudīt savienojumu ar internetu
+neterror-dns-not-found-hint-check-network-2 = Pārbaudīt savienojumu ar internetu.
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
 
 ##
@@ -100,7 +102,7 @@ neterror-not-cached-sensitive = Drošības apsvērumu dēļ,  { -brand-short-nam
 neterror-not-cached-try-again = Jāklikšķina “Mēģināt vēlreiz”, lai no tīmekļvietnes atkārtoti pieprasītu dokumentu.
 neterror-net-offline = Nospiediet “Mēģināt vēlreiz” lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.
 neterror-proxy-resolve-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
-neterror-proxy-resolve-failure-connection = Pārliecinieties, ka datoram ir strādājošs tīkla savienojums.
+neterror-proxy-resolve-failure-connection = Jāpārliecinās, ka datora tīkla savienojums ir darba kārtībā.
 neterror-proxy-resolve-failure-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecinās, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
 neterror-proxy-connect-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
 neterror-proxy-connect-failure-contact-admin = Sazinieties ar savu tīkla administratoru, lai pārliecinātos, ka starpniekserveris strādā korekti.
