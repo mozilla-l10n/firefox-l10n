@@ -137,7 +137,7 @@ permissions-site-location-window2 =
 permissions-site-location-desc = Zemāk esošās tīmekļvietnes ir pieprasījušas piekļuvi atrašanās vietai. Var norādīt, kurām lapām ir atļauts piekļūt atrašanās vietai. Var arī liegt jaunus pieprasījumus, kuros vaicā piekļūt atrašanās vietai.
 permissions-site-location-disable-label =
     .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt atrašanās vietai
-permissions-site-location-disable-desc = Tas liegs jebkurām lapām, kas nav uzskaitītas zemāk, iesniedzēju lūgt piekļuvi atrašanās vietai. Paziņojumu bloķēšana var kaitēt daļai no konkrētās lapas lapas funkcionalitātes.
+permissions-site-location-disable-desc = Tas liegs jebkurām tīmekļvietnēm, kuras nav uzskaitītas augstāk, pieprasīt atļauju piekļūt atrašanās vietai. Piekļuves liegšana atrašanās vietai var kaitēt atsevišķām tīmekļvietnes iespējām.
 
 ## Site Permissions - Virtual Reality
 
