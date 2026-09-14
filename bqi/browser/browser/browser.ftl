@@ -1439,6 +1439,26 @@ trustpanel-social-tracking-not-blocking-tab-header =
         [one] { -brand-product-name } هشت { $count } رڌجۊر شبکه یل اجتماعی فعالیت کونه
        *[other] { -brand-product-name } هشت { $count } رڌجۊر شبکه یل اجتماعی فعالیت کونه
     }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } تعداد { $count } کۊکی رڌجۊر منجا وبگهی ن مسدۊد کرد
+       *[other] { -brand-product-name } تعداد { $count } کۊکی رڌجۊر منجا وبگهی ن مسدۊد کرد
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } هشت { $count } کۊکی رڌجۊر منجا وبگهی فعالیت کونه
+       *[other] { -brand-product-name } هشت { $count } کۊکی رڌجۊر منجا وبگهی فعالیت کونه
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } تعداد { $count } رڌجۊر ن مسدۊد کرد
+       *[other] { -brand-product-name } تعداد { $count } رڌجۊر ن مسدۊد کرد
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } هشت { $count } رڌجۊر فعالیت کونه
+       *[other] { -brand-product-name } هشت { $count } رڌجۊر فعالیت کونه
+    }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = ناهاڌن پا اسکن مۊفتی
 
