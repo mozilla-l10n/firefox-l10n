@@ -31,6 +31,8 @@ customkeys-dev-performance = کارایی
 customkeys-dev-storage = بازرسِ جاگه زفت کردن
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = دسرسی پزیری
+customkeys-dev-profiler-toggle = ناهاڌن پا/واڌاشتن پوروفایل ساز کارایی
+customkeys-dev-profiler-capture = سبت ی پوروفایل کارایی
 customkeys-category-navigation = ناوبری
 customkeys-nav-back = وورگشتن
 customkeys-nav-forward = جلاو رئڌن
@@ -72,13 +74,23 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = کیلیت نۊ ن فشار بڌین:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (قیر قابل آلشت کردن)
 
 ## Confirmation dialogs
 
+customkeys-conflict-confirm-title = پاک کردن ره نهنگ دیر؟
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm-body = ای کیلیت سکو و دست «{ $conflict }» و کار اگؽره.
 customkeys-conflict-confirm-button-confirm = و هر هال و کار بگرین
 customkeys-conflict-confirm-button-cancel = لقو
 customkeys-conflict-unusable-title = کیلیت نتره و کار گرؽڌه بۊ
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-unusable-body = ای کیلیت زیتر و «{ $conflict }» داڌه وابیڌه وو نتره و کار گؽره.
 customkeys-reset-all-confirm-title = وورگندن پؽش فرزا؟
+customkeys-reset-all-confirm-body = پوی ره نهنگا سفارشی ک وورکل کردین پاک ابۊن.
 customkeys-reset-all-confirm-button-confirm = وورگندن پؽش فرزا
 customkeys-reset-all-confirm-button-cancel = لقو
 
