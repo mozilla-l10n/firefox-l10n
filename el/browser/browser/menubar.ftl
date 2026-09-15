@@ -15,7 +15,7 @@ menu-application-set-as-default =
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 menu-application-referrals2 =
-    .label = Κοινή χρήση { -brand-product-name }
+    .label = Σύσταση του { -brand-product-name }
 menu-application-services =
     .label = Υπηρεσίες
 menu-application-hide-this =
@@ -365,4 +365,4 @@ menu-report-broken-site =
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 menu-referrals2 =
-    .label = Κοινή χρήση { -brand-product-name }
+    .label = Σύσταση του { -brand-product-name }
