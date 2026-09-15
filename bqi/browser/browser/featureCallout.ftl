@@ -109,7 +109,10 @@ taskbar-tabs-callout-primary-button-v3 = دیسنیڌن و نوار وزیفه
 
 ## Windows 10 EoS Sync messages group 1 callouts
 
+windows-10-eos-sync-urgency-title-1 = مجال ورۊ رسۊوی و ویندووز 11، دووسمندیا زفت وابیڌه خوتووݩ ن ز دست مڌین.
+windows-10-eos-sync-new-device-title-1 = من دسگا نۊ، ز ٱول منین پا پوی چیا.
 windows-10-eos-sync-new-device-primary-label = سکو هوم گوم کوݩ
+windows-10-eos-sync-tour-title-1 = بلگه یل قلوه؟ وا بونکۊیل بلگه کتن سووݩ کۊنین.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = نشووݩ داڌن پؽشنهاڌا کمتر
 windows-10-eos-sync-dismiss-button-label = رڌ کردن
