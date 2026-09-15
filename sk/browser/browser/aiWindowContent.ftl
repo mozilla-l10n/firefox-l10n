@@ -10,10 +10,10 @@ smartwindow-messages-document-title = Správy z rozhovorov v { -smart-window-bra
 #   $tags (Number) - Number of context chips added in a chat bubble (only when we have 3 or more chips)
 smart-window-context-chips-tag-count =
     { $tags ->
-        [one] { $tags } značka
-        [few] { $tags } značky
-        [many] { $tags } značiek
-       *[other] { $tags } značiek
+        [one] { $tags } označenie
+        [few] { $tags } označenia
+        [many] { $tags } označení
+       *[other] { $tags } označení
     }
 
 ## Error messages in the chat content

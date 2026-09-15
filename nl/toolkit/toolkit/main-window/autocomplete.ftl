@@ -46,3 +46,16 @@ autocomplete-more-actions2 = Meer acties voor { $entry }
 
 autocomplete-remove-password-title = Wachtwoord verwijderen?
 autocomplete-remove-address-title = Adres verwijderen?
+autocomplete-remove-record-message = U kunt deze actie niet ongedaan maken.
+autocomplete-remove-record-button = Verwijderen
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te verwijderen. Hierdoor wordt de beveiliging van uw accounts beschermd.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# strings together will be presented by the operating system.
+autocomplete-remove-password-os-auth-dialog-message-macosx = het opgeslagen wachtwoord te verwijderen
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

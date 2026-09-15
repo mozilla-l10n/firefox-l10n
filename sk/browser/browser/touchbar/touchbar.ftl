@@ -30,4 +30,4 @@ search-search-in = Hľadať v:
 search-bookmarks = záložkách
 search-history = histórii
 search-opentabs = otvorených kartách
-search-tags = značkách
+search-tags = štítkoch
