@@ -13,6 +13,7 @@ customkeys-clear = روفتن
 customkeys-new-key = کیلیت نۊ ن فشار بڌین:
 customkeys-reset-all = وورگندن پوی ره نهنگا و هالت پؽش فرز
 customkeys-file-duplicate-tab = لف گیری بلگه
+customkeys-file-focus-search = رئڌن و نوار پیتینیڌن
 customkeys-history-reopen-tab = گۊشیڌن دووارته بلگه بسته وابیڌه دیندایی
 customkeys-history-reopen-window = گۊشیڌن دووارته نیمدری بسته وابیڌه دیندایی
 customkeys-sidebar-toggle = آلشت هالت نوار کلی

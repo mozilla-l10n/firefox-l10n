@@ -1336,6 +1336,10 @@ popup-trigger-redirect-menuitem =
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-failed-save-somewhere = نیمدری پسند فایل ویندووز نگوئشست. فایل من تور { $path } زفت ابۊ.
+file-picker-failed-save-nowhere = نیمدری پسند فایل ویندووز نگوئشست. دوبلگه پؽش فرز ن نجوست؛ فایل زفت نؽبۊ.
+file-picker-crashed-open = نیمدری پسند فایل ویندووز کرش کرد. فایلی پسند نوابی.
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = نیمدری پسند فایل ویندووز کرش کرد. فایل من تور { $path } زفت ابۊ.
 file-picker-crashed-save-nowhere = نیمدری پسند فایل ویندووز کرش کرد. دوبلگه پؽش فرز ن نجوست؛ فایل زفت نؽبۊ.
 file-picker-crashed-show-in-folder =
