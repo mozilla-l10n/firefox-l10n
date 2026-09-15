@@ -267,6 +267,13 @@ contextual-manager-passwords-no-passwords-header-2 = رزماتووݩ ن من ی
 
 contextual-manager-passwords-discard-changes-close-button = بستن
 contextual-manager-passwords-discard-changes-go-back-button = وورگرت
+#   $total (number) - Total number of passwords
+contextual-manager-passwords-remove-all-passwords-checkbox =
+    { $total ->
+        [1] هری، رزما ن پاک کۊنین
+        [one] هری، رزما ن پاک کۊنین
+       *[other] هری، رزما ن پاک کۊنین
+    }
 # This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
 contextual-manager-primary-password-reauth-header = سی نیشتن رزما زفت وابیڌه، رزم ٱسلی خوتووݩ ن بزنین.
 # This string informs the user their primary password is used to authenticate and access their passwords

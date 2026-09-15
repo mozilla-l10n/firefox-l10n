@@ -39,6 +39,7 @@ customkeys-nav-back = وورگشتن
 customkeys-nav-forward = جلاو رئڌن
 customkeys-nav-home = هووه
 customkeys-nav-reload = گۊشیڌن دووارته
+customkeys-nav-reload-skip-cache = بارونی دووارته (بؽ و کار گرؽڌن کش)
 customkeys-nav-stop = واڌاشتن
 customkeys-nav-select-tab-1 = و بلگه 1 بریوین
 customkeys-nav-select-tab-2 = و بلگه 2 بریوین
