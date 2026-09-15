@@ -222,6 +222,7 @@ region-name-st = Santome un Prinsipi
 region-name-sv = Salvadora
 region-name-sx = Seint Martina
 region-name-sy = Sīrija
+region-name-sz-2019 = Svatini
 region-name-tc = Tērksa un Kaikosa salas
 region-name-td = Čada
 region-name-tf = Franču dienvidu un Antarktikas teritorijas

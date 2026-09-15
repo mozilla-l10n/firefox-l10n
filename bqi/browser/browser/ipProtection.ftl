@@ -151,6 +151,7 @@ ipprotection-connection-status-generic-error-description = چن دیقه دی د
 ipprotection-connection-status-generic-error-try-again = دینداتر دووارته امتهووݩ کۊنین.
 ipprotection-connection-status-network-error-title-1 = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
     .aria-label = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
+ipprotection-connection-status-network-error-description = و اینترنت منپیز بۊین، اوسو رۊشن کردن VPN ن دووارته امتهووݩ کۊنین.
 ipprotection-connection-status-blocked-error-title-1 = VPN من دسرس نؽ
     .aria-label = VPN من دسرس نؽ
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ

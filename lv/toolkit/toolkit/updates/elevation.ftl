@@ -20,3 +20,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = Vairs nerādīt
     .accesskey = V
 sandbox-unprivileged-namespaces-howtofix = Kā novērst šo sarežģījumu
+sandbox-content-disabled-warning = Drošības nošķirtā vide ir atspējota. Konfigurācija netiek atbalstīta un ir mazāk droša.
