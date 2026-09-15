@@ -1469,6 +1469,17 @@ trustpanel-fingerprinter-blocking-tab-header =
         [one] { -brand-product-name } تعداد { $count } رڌجۊر کلک نگار ن مسدۊد کرد
        *[other] { -brand-product-name } تعداد { $count } رڌجۊر کلک نگار ن مسدۊد کرد
     }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } هشت { $count } رڌجۊر کلک نگار فعالیت کونه
+       *[other] { -brand-product-name } هشت { $count } رڌجۊر کلک نگار فعالیت کونه
+    }
+trustpanel-fingerprinter-list-header = ای وبگه یل اخون ز دسگا ایسا کلک نگاری دیجیتال بگرن:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } تعداد { $count } و در کش قیر موجاز رزم ٱرز ن مسدۊد کرد
+       *[other] { -brand-product-name } تعداد { $count } و در کش قیر موجاز رزم ٱرز ن مسدۊد کرد
+    }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = ناهاڌن پا اسکن مۊفتی
 
