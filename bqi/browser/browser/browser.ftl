@@ -1488,6 +1488,7 @@ trustpanel-cryptominer-not-blocking-tab-header =
 trustpanel-cryptominer-tab-list-header = ای وبگه یل اخون قپ ریت کونن تا رزم ٱرز بکشن و در:
 # "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
 trustpanel-breachalerts-anonymous-breached-header = من ای وبگه هساو منتوری دارین؟
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } فئمی ک ای وبگه من 12 ماه گوڌشته دوچار رخنه وو نشت دووسمندی وابیڌه. واجۊری کۊنین ک ایسا هم چیه ب سرتووݩ رئڌه یا ن.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = ناهاڌن پا اسکن مۊفتی
 
