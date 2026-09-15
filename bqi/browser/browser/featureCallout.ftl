@@ -30,11 +30,16 @@ callout-pdfjs-draw-button = فئمیم!
 
 ## Firefox View Discoverability Strings
 
+fx-view-discoverability-title = بلگه ن اشتواهی بستین؟
+fx-view-discoverability-subtitle = هو ن زی ز ایچونا بجۊرین وو دووارته بۊگۊشین. ایما ویرگار بلگه یلی ک هیم دمۊوی بسته وابیڌنه سی ایسا اواڌارنیم.
 fx-view-discoverability-primary-button-label = گۊشیڌن { -firefoxview-brand-name }
 fx-view-discoverability-secondary-button-label = رڌ کردن
 
 ## Split Dismiss Button Labels
 
+# Blocks the message from showing again
+split-dismiss-button-dont-show-option =
+    .label = ای پؽشنهاڌ دی نشووݩ داڌه نبۊ
 # Dismisses message and reduces frequency of message
 split-dismiss-button-show-fewer-option =
     .label = نشووݩ داڌن پؽشنهاڌا کمتر
@@ -45,13 +50,26 @@ split-dismiss-button-manage-settings-option =
 split-dismiss-button-default-label =
     .title = گۊزینه یل قلوه
 
+## Login Status Advisory Callout (points to the account icon)
+
+# The 'account icon' is the toolbar button with a 'profile' icon of a human
+# head/shoulders. It's for dealing with your Mozilla account. When hovering the
+# icon, the tooltip says 'Account'.
+login-status-advisory-title = ز هساو زیڌین و در. سی و من ٱووڌن ری آیکون هساو کلیک کۊنین.
+
 ## Bookmarks toolbar callout strings
 
+bookmarks-toolbar-callout-1-title = ای وبگه و نوار ٱوزار نشووکا ازاف بۊوه؟
+bookmarks-toolbar-callout-1-subtitle = نشووکا ایسا ساف زؽر نوار نشۊوی زفت ابۊن تا دسرسی و هونووݩ زی تر بۊ.
 bookmarks-toolbar-callout-1-primary-button-label = ٱووردن نشووک
 bookmarks-toolbar-callout-1-secondary-button-label = ن ممنووݩ
+# Visible if user adds a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2a-title = ٱووردن آسووݩ نشووکا قلوه
 bookmarks-toolbar-callout-2a-primary-button-label = فئمیم
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2a-secondary-button-label = بؽڌار کردن نوار ٱوزار
+# Visible if user declines to add a bookmark in callout 1, bookmarks toolbar is set to always show when this message renders
+bookmarks-toolbar-callout-2b-title = نوار ٱوزار نشووکا واز بمئنه؟
 bookmarks-toolbar-callout-2b-primary-button-label = گۊشیڌه بؽلس
 # Reverts the bookmarks toolbar to the default setting
 bookmarks-toolbar-callout-2b-secondary-button-label = ن ممنووݩ
@@ -66,16 +84,28 @@ perplexity-callout-secondary-label-2 = فئمیم
 ## Startpage callout strings. Startpage (https://www.startpage.com/) is a
 ## brand name and should not be translated or transliterated.
 
+start-page-callout-primary-label = امتهووݩ Startpage
 start-page-callout-secondary-label = رڌ کردن
 
 ## Account Adoption Passwords callout strings
 
+# Suggestion to backup passwords by signing up for Mozilla account and using sync
+fxa-adoption-passwords-title = رزم زفت وابی. بیاین ی نوسخه لادرار زس بگیریم.
 # Opens Mozilla accounts sign-up page
 fxa-adoption-passwords-primary-button-label = سبت نوم
 
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-chat-callout-title = چت ز نوار وزیفه ایسا
+
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = دیسنیڌن و نوار وزیفه
 
 ## Windows 10 EoS Sync messages group 1 callouts
 

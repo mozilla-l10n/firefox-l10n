@@ -104,5 +104,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = پیتینیڌن ره نهنگا
     .placeholder = پیتینیڌن ره نهنگا
+customkeys-description = بارت گل گرؽڌن وو تعامول خوتووݩ وا { -brand-short-name } ن کونتورول کۊنین.
 customkeys-support-link-text = قلوه دووسته بۊین
 customkeys-reset-all-button = وورگندن پؽش فرزا
