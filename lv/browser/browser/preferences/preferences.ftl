@@ -468,7 +468,7 @@ performance-allow-hw-accel =
 performance-limit-content-process-option = Satura procesu limits
     .accesskey = L
 performance-limit-content-process-enabled-desc = Papildu satura procesi var palielināt veiktspēju izmantojot vairākas cilnes, bet prasīs arī papildu atmiņu.
-performance-limit-content-process-blocked-desc = Modificēt satura procesu skaitu ir iespējama tikai ar vairāku procesu { -brand-short-name }. <a data-l10n-name="learn-more">Kā pārbaudīt, vai pieejams vairāku procesu režīms</a>
+performance-limit-content-process-blocked-desc = Satura procesu skaitu mainīšana ir iespējama tikai ar vairāku procesu { -brand-short-name }. <a data-l10n-name="learn-more">Uzzināt, kā pārbaudīt, vai ir iespējoti vairāki procesi</a>
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =

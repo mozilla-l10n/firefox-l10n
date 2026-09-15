@@ -83,9 +83,9 @@ neterror-captive-portal = Vispirms šajā tīklā jāpiesakās, lai varētu piek
 neterror-dns-not-found-hint-header = <strong>Ja ievadīji pareizu adresi, tad var:</strong>
 neterror-dns-not-found-hint-try-again = Vēlāk mēģināt vēlreiz
 neterror-dns-not-found-hint-check-network = Pārbaudīt savienojumu ar internetu
-neterror-dns-not-found-hint-firewall = Pārbaudīt, ka { -brand-short-name } ir atļauja piekļūt tīmeklim (var būt izveidots savienojums, bet aiz ugunsmūra)
+neterror-dns-not-found-hint-firewall = Pārliecināties, ka { -brand-short-name } ir atļauja piekļūt tīmeklim (var būt izveidots savienojums, bet aiz ugunsmūra)
 neterror-dns-not-found-hint-check-network-2 = Pārbaudīt savienojumu ar internetu.
-neterror-dns-not-found-hint-firewall-2 = Pārbaudīt, ka { -brand-short-name } ir atļauja piekļūt tīmeklim (var būt izveidots savienojums, bet aiz ugunsmūra).
+neterror-dns-not-found-hint-firewall-2 = Pārliecināties, ka { -brand-short-name } ir atļauja piekļūt tīmeklim (var būt izveidots savienojums, bet aiz ugunsmūra).
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
 
 ##

@@ -16,4 +16,4 @@ places-bookmarks-restore-parse-error = Nevar apstrādāt grāmatzīmju dublējum
 places-bookmarks-import = Ievietot grāmatzīmju datni
 places-bookmarks-export = Izgūt grāmatzīmju datni
 places-bookmarks-paste-error-title = Atrasts(-i) nederīgs(-i) URL
-places-bookmarks-paste-error-message-header = Šo(-s) URL nevarēja pievienot jūsu grāmatzīmēm. Pārbaudiet to formatējumu un mēģiniet pievienot tos vēlreiz.
+places-bookmarks-paste-error-message-header = Šo(-s) URL nevarēja pievienot grāmatzīmēm. Jāmēģina pārbaudīt pierakstu un jāmēģina tos pievienot vēlreiz.

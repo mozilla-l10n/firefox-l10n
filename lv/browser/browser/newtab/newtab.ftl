@@ -532,6 +532,7 @@ newtab-wallpaper-reset = Atiestatīt uz noklusējumu
 newtab-wallpaper-add-an-image = Pievienot attēlu
 newtab-wallpaper-toggle-title =
     .label = Tapetes
+newtab-wallpaper-error-upload-file-type = Mēs nevarējām augšupielādēt Tavu datni. Lūgums mēģināt vēlreiz ar attēla datni.
 newtab-wallpaper-light-red-panda = Sarkana panda
 newtab-wallpaper-light-mountain = Balts kalns
 newtab-wallpaper-light-sky = Debesis ar violetiem un rozā mākoņiem

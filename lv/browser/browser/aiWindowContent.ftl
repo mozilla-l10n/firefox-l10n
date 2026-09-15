@@ -5,6 +5,7 @@
 
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = Kaut kas nogāja greizi. Lūgums mēģināt vēlreiz.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Servera kļūda (HTTP { $status }). Lūgums mēģināt vēlreiz.
