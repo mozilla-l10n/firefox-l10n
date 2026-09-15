@@ -1491,6 +1491,11 @@ trustpanel-breachalerts-anonymous-breached-header = من ای وبگه هساو 
 trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } فئمی ک ای وبگه من 12 ماه گوڌشته دوچار رخنه وو نشت دووسمندی وابیڌه. واجۊری کۊنین ک ایسا هم چیه ب سرتووݩ رئڌه یا ن.
 trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = ناهاڌن پا اسکن مۊفتی
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> رڌجۊر من ای وبگه مسدۊد وابین
+       *[other] <span data-l10n-name="count">{ $count }</span> رڌجۊر من ای وبگه مسدۊد وابین
+    }
 
 ## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
