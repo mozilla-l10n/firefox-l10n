@@ -1480,6 +1480,14 @@ trustpanel-cryptominer-blocking-tab-header =
         [one] { -brand-product-name } تعداد { $count } و در کش قیر موجاز رزم ٱرز ن مسدۊد کرد
        *[other] { -brand-product-name } تعداد { $count } و در کش قیر موجاز رزم ٱرز ن مسدۊد کرد
     }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } هشت { $count } و در کش رزم ٱرز فعالیت کونه
+       *[other] { -brand-product-name } هشت { $count } و در کش رزم ٱرز فعالیت کونه
+    }
+trustpanel-cryptominer-tab-list-header = ای وبگه یل اخون قپ ریت کونن تا رزم ٱرز بکشن و در:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = من ای وبگه هساو منتوری دارین؟
 trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = ناهاڌن پا اسکن مۊفتی
 
