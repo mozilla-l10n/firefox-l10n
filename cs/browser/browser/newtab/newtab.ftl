@@ -536,6 +536,16 @@ newtab-recent-searches-tab-trending = Populární
 newtab-recent-searches-trending-attribution = přes { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Právě teď
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Odstranit „{ $search }“ z nedávných vyhledávání
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Nedávné vyhledávání se zobrazí zde, takže je můžete kdykoli znovu obnovit.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

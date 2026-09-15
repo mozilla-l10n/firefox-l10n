@@ -772,13 +772,34 @@ onboarding-refresh-gratitude-title = { -brand-short-name } vám kryje záda
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } vás odteď chrání
+onboarding-refresh-hero-text = Vytvořen tak, aby vás chránil, ne sledoval.
+onboarding-refresh-tou-default = Otevírat všechny odkazy v prohlížeči { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Ponechat { -brand-short-name } v Docku
+       *[other] Přidejte si aplikaci { -brand-short-name } na vaši lištu
+    }
+onboarding-refresh-tou-default-unchecked = Mějte vestavěnou ochranu při každém prohlížení
+onboarding-refresh-tou-pin-unchecked = Ponechte si jediný hlavní nezávislý prohlížeč na jedno klepnutí
+onboarding-refresh-terms-of-use-with-links = Pokračováním souhlasíte s <a data-l10n-name="terms_of_use">podmínkami používání { -brand-product-name(case: "gen") }</a> a našimi <a data-l10n-name="privacy_notice">zásadami ochrany osobních údajů </a>. Za účelem vylepšení prohlížeče { -brand-product-name } odesílá diagnostické údaje a údaje o interakcích organizaci { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Spravovat nastavení shromažďování dat
 onboarding-refresh-primary-button = Pokračovat
 onboarding-refresh-fro-import-header = Přeneste svá data
+onboarding-refresh-fro-import-body = Vaše osobní údaje zůstanou soukromé. { -brand-product-name } je nikdy nebude prodávat.
 onboarding-refresh-fro-skip-button = Přeskočit
 onboarding-refresh-fro-theme-header = Přizpůsobte si vzhled
 onboarding-refresh-tab-layout-header = Vyzkoušejte jiné uspořádání panelů
 onboarding-refresh-tab-layout-top = Nahoře
 onboarding-refresh-tab-layout-side = Na straně
+onboarding-refresh-tab-layout-minimal = Úsporné
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Okno prohlížeče zobrazující panely jako malé ikony po stranách obrazovky v minimalizované postranní liště.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Okno prohlížeče zobrazující panely jako malé ikony po stranách obrazovky v minimalizované postranní liště.
 
 ## Smart window switcher callout
 
