@@ -370,7 +370,7 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Udržujte si e‑mail súkromný
 appmenuitem-relay-description2 = Pomáha predchádzať nevyžiadanej pošte v e‑mailovej schránke
 # Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
-appmenuitem-relay-title-signed-in = Zobraziť masky e‑mailov
+appmenuitem-relay-title-signed-in = Zobraziť e‑mailové masky
 appmenuitem-relay-description = Zamaskujte svoju skutočnú e‑mailovú adresu a telefónne číslo
 appmenuitem-services-relay-description = Spustiť informačný panel e‑mailových masiek
 appmenuitem-vpn-title2 = Skryte svoju polohu pomocou { -mozilla-vpn-brand-name }

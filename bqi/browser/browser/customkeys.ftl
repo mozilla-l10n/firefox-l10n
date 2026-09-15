@@ -19,6 +19,8 @@ customkeys-sidebar-toggle = آلشت هالت نوار کلی
 customkeys-view-bookmarks-toolbar = آلشت وزعیت نوار ٱوزار نشووکا
 customkeys-view-picture-in-picture = شؽوات من شؽوات
 customkeys-view-add-split-view = ٱووردن نما تقسیم وابیڌه
+# Separate is a verb
+customkeys-view-separate-split-view = جوڌا کردن نما تقسیم وابیڌه
 customkeys-dev-tools = ٱوزارا برنومه نویس وب
 customkeys-dev-inspector = بازرسِ DOM وو سبک
 customkeys-dev-webconsole = Web Console

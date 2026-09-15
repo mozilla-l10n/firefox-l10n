@@ -166,6 +166,7 @@ contextual-manager-passwords-alert-back-button =
     .label = وورگشتن
 contextual-manager-passwords-alert-list =
     .aria-label = نومگه پاییڌن
+contextual-manager-passwords-breached-origin-link-message = چتاور { -brand-product-name } ز لوو رئڌنا هوال دار ابۊ؟
 contextual-manager-passwords-change-password-button = آلشت رزم
 contextual-manager-passwords-add-username-button = ٱووردن نوم منتوری
 contextual-manager-passwords-title = رزما
@@ -186,6 +187,7 @@ contextual-manager-passwords-username-field =
 contextual-manager-passwords-password-field =
     .label = رزم
 contextual-manager-passwords-password-field-description = رزم ن سی و من ٱووڌن و ای هساو بزنین.
+contextual-manager-passwords-password-tooltip-2 = رزم ن سی و من ٱووڌن و ای هساو بزنین.
 
 ## Password Card
 
@@ -248,6 +250,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = هیچ رزمی نجۊرست
+contextual-manager-passwords-no-passwords-found-message-2 = وا عبارت دیری دووارته بپیتینین.
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
@@ -262,6 +265,8 @@ contextual-manager-passwords-no-passwords-header-2 = رزماتووݩ ن من ی
 
 contextual-manager-passwords-discard-changes-close-button = بستن
 contextual-manager-passwords-discard-changes-go-back-button = وورگرت
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = سی نیشتن رزما زفت وابیڌه، رزم ٱسلی خوتووݩ ن بزنین.
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = رزم ٱسلی ن بزنین
 contextual-manager-primary-password-learn-more-link = قلوه دووسته بۊین

@@ -24,6 +24,8 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ناهاڌ�
 callout-pdfjs-edit-title = PDF‌ها ن وا ٱوزار هؽل نۊ ایما آلشت کۊنین
 callout-pdfjs-edit-button = بئڌی
 callout-pdfjs-draw-title = امزای سندا وا ٱوزار ترسیم نۊ
+# “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
+callout-pdfjs-draw-body-a = ری فایلا PDF هاشیه نویسی کۊنین وو آلشتکاریا ن زفت کۊنین.
 callout-pdfjs-draw-button = فئمیم!
 
 ## Firefox View Discoverability Strings
