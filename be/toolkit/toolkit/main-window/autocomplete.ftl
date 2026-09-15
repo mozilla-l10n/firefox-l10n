@@ -32,3 +32,12 @@ autocomplete-edit-address = Змяніць гэты адрас
 autocomplete-delete-address = Выдаліць гэты адрас
 autocomplete-edit-payment-method = Змяніць гэты спосаб аплаты
 autocomplete-delete-payment-method = Выдаліць гэты спосаб аплаты
+
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-remove-password-title = Выдаліць пароль?
+autocomplete-remove-address-title = Выдаліць адрас?
+autocomplete-remove-payment-method-title = Выдаліць спосаб аплаты?
+autocomplete-remove-record-message = Вы не зможаце адмяніць гэта дзеянне.
+autocomplete-remove-record-button = Выдаліць
