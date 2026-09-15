@@ -80,6 +80,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = ن ممنووݩ
 
 ## Perplexity callout strings
 
+perplexity-callout-theme-1-title = جواو دییق ن فووری اخۊین؟
 perplexity-callout-theme-2-title = Perplexity ن امتهووݩ کۊنین: ی بارت نۊ سی پیتینیڌن
 perplexity-callout-primary-label = پورس کردن ز پرپلکسیتی
 perplexity-callout-secondary-label-1 = رڌ کردن
