@@ -55,6 +55,7 @@ customkeys-edit-find-previous = جوستن پؽشی
 customkeys-tools-screenshot = شؽوات ز بلگه بگیرین
 customkeys-category-navigation-2 =
     .heading = ناوبری
+customkeys-caution-message = ای ویژیی آزمایشی هڌ وو گاشڌ چونووݩ ک انتزار اروه کار نکونه.
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = ناموعتبر
 customkeys-shortcut-unassigned =
