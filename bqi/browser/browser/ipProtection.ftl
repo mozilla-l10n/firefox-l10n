@@ -31,11 +31,20 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = ن ممنووݩ
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = ن ممنووݩ
+ipprotection-feature-introduction-button-secondary-remove = پاک کردن VPN ز نوار ٱوزار
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = پاک کردن VPN ز نوار ٱوزار
 ipprotection-feature-introduction-button-open-vpn = گۊشیڌن VPN
 ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Generic summer promo offramp message
+ipprotection-summer-promo-offramp-generic-title = سقف مسرف VPN منی ایسا ز 1 سپتامبر وورنشۊوی ابۊ
+# Mozilla VPN subscriber summer promo offramp message
+# Message shown to current subscribers of Mozilla VPN
+# Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscriber-title = ‏VPN منی ایسا بؽڌر وابی
 # Default browser incentive summer promo offramp message
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
@@ -53,6 +62,7 @@ ipprotection-site-settings-callout-button = فئمیم
 
 ## Location selection callout
 
+ipprotection-location-selection-callout-title = نۊ: آلشت جاگه ایسا
 ipprotection-location-selection-callout-primary-button = امتهووس کوݩ
 ipprotection-location-selection-callout-secondary-button = رڌ کردن
 

@@ -30,6 +30,7 @@ firefoxview-tabpickup-network-offline-header-2 = ‏{ -brand-short-name } سکو
 firefoxview-tabpickup-sync-error-header = من هوم گوم کردن موشکل داریم
 # “Sync hit a snag” means that the sync process is having a problem and can’t connect.
 firefoxview-tabpickup-sync-error-header-2 = هوم گوم کردن ب موشکل خرد
+firefoxview-tabpickup-generic-sync-error-description-2 = ‏{ -brand-short-name } نترست منپیز بۊ. یتی واستین وو دووارته امتهووݩ کۊنین
 firefoxview-tabpickup-sync-error-primarybutton = قپ ریت دووارته
 firefoxview-tabpickup-sync-disconnected-header = سی رئڌن وا پؽش، هوم گوم کردن ن رۊشن کۊنین
 firefoxview-tabpickup-sync-disconnected-primarybutton = رۊشن کردن هوم گوم کردن من سامووا
