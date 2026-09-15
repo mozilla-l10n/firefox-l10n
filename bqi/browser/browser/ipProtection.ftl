@@ -68,12 +68,14 @@ ipprotection-location-selection-callout-secondary-button = رڌ کردن
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = ‏VPN منی ن ری ٱندروید وا خوتووݩ داشته بۊین
 ipprotection-android-promo-callout-primary-button = فئمیم
 
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = VPN منی { -brand-product-name } ن امتهووݩ کۊنین
+unauthenticated-site-rules-message = دیاری کۊنین کو وبگه یل VPN ن و کار بگرن وو کو وبگه یل و کار نگرن.
 unauthenticated-get-started = ناهاڌن پا کار
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN سی ای وبگه رۊشن هڌ
@@ -81,6 +83,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .aria-label = VPN سی ای وبگه کۊر هڌ
     .label = و کار گرؽڌن VPN سی ای وبگه
+site-exclusion-toggle-description = وبگه و خۊوی کار نؽکونه؟ کۊر کردن VPN ن امتهووݩ کۊنین.
 # Manages rules for VPN to turn on or off automatically for certain websites
 site-rules-manage-rules-link-text = دؽوۉداری قانووا VPN
 # Heading for user defined rules on VPN usage for particular websites
@@ -117,13 +120,21 @@ ipprotection-connection-status-connecting-1 = VPN هونی منپیز ابۊ…
 # The button displays the selected VPN location.
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = جاگه: پؽشنهاڌ وابیڌه
+ipprotection-recommended-location-description = ‏{ -brand-product-name } زل ترین جاگه ن اجۊره
 ipprotection-recommended-location-badge = نۊ
 # Variables
 #   $country (string) - The country selected for the VPN server location
 ipprotection-location-country-button = جاگه: { $country }
 ipprotection-locations-subview =
     .title = پسند جاگه
+ipprotection-locations-subview-description = جاگه موتفاوتی ن سی گشتن وب پسند کۊنین.
 ipprotecion-locations-subview-recommended-label = پؽشنهاڌ وابیڌه
+ipprotection-locations-subview-recommended-description = زل ترین جاگه ن اجۊره
+# Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = من دسرس نؽ
+    .aria-label = من دسرس نؽ، قیر فعال وابیڌه
 # Label shown next to a VPN location that the user cannot select.
 ipprotection-locations-unavailable-label = مووجۊد نؽ
 ipprotection-locations-subview-promo-button = گرؽڌن { -mozilla-vpn-brand-name }
@@ -131,9 +142,13 @@ ipprotection-locations-subview-promo-button = گرؽڌن { -mozilla-vpn-brand-na
 ## VPN paused state
 
 upgrade-vpn-button = امتهووݩ کردن { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-2 = VPN مووقتن واستا
+    .aria-label = VPN مووقتن واستا
 
 ## Messages and errors
 
+ipprotection-connection-status-generic-error-description = چن دیقه دی دووارته امتهووݩ کۊنین.
+ipprotection-connection-status-generic-error-try-again = دینداتر دووارته امتهووݩ کۊنین.
 ipprotection-connection-status-network-error-title-1 = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
     .aria-label = منپیز اینترنت خوتووݩ ن واجۊری کۊنین
 ipprotection-connection-status-blocked-error-title-1 = VPN من دسرس نؽ

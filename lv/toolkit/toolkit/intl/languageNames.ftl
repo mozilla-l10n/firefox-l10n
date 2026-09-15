@@ -158,6 +158,7 @@ language-name-ro = Rumāņu
 language-name-ru = Krievu
 language-name-rw = Kiņaruandu
 language-name-sa = Sanskrits
+language-name-sat = Santalu
 language-name-sc = Sardīniešu
 language-name-sco = Skotu
 language-name-sd = Sindhu
