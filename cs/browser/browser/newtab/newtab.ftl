@@ -546,6 +546,8 @@ newtab-recent-searches-row-remove =
 
 # Shown in place of the list when the user has made no searches recently.
 newtab-recent-searches-empty-recent = Nedávné vyhledávání se zobrazí zde, takže je můžete kdykoli znovu obnovit.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Trendy vyhledávání nejsou v tuto chvíli k dispozici.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1032,6 +1034,21 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Liška u pravého okraje na oranžovém pozadí
+newtab-wallpaper-firefox-colorful-sky = Vlny oranžové přes fialovou noční oblohu
+newtab-wallpaper-firefox-desert-dark = Liška sedící v tmavě fialové poušti
+newtab-wallpaper-firefox-desert-light = Liška běžící světlou pouští
+newtab-wallpaper-firefox-hills-dark = Liška běžící přes temné kopce
+newtab-wallpaper-firefox-hills-light = Liška běžící přes světlé kopce
+newtab-wallpaper-firefox-tail-dark = Liščí ocas na tmavém pozadí
+newtab-wallpaper-firefox-tail-light = Liščí ocas na světlém pozadí
+newtab-wallpaper-firefox-side-kit-dark = Liška na levé straně, na tmavém pozadí
+newtab-wallpaper-firefox-side-kit-light = Liška na levé straně, na světlém pozadí
+newtab-wallpaper-firefox-sitting-hill-dark = Liška sedící na tmavě fialových kopcích
+newtab-wallpaper-firefox-sitting-hill-light = Liška sedící na světlých kopcích
+newtab-wallpaper-firefox-peak-dark = Liščí tvář u levého okraje na tmavém pozadí
+newtab-wallpaper-firefox-peak-light = Liščí tvář u levého okraje na světlém pozadí
+newtab-wallpaper-firefox-sky-dark = Tmavě fialové kopce pod noční oblohou
+newtab-wallpaper-firefox-sky-light = Světlé kopce pod jemnou oblohou
 
 ## Firefox
 
