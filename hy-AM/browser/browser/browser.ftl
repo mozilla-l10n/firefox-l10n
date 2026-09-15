@@ -1244,13 +1244,20 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Մաքրե՞լ տվյալները և սկսել նոր մասնավոր նիստ։
+reset-pbm-panel-description2 = Սա ջնջում է պատմությունը, թխուկները և կայքի մյուս բոլոր տվյալները՝ առանց ձեր անձնական պատուհանը փակելու։
 reset-pbm-panel-always-ask-checkbox =
     .label = Միշտ հարցնել
     .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = Չեղարկել
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = Մաքրել անձնական նիստը
+    .accesskey = Մ
 reset-pbm-panel-complete = Գաղտնի աշխատաշրջանի տվյալները ջնջվեցին
+reset-pbm-toolbar-button2 =
+    .label = Մաքրել անձնական նիստը
+    .tooltiptext = Մաքրել անձնական նիստը
 
 ## Autorefresh blocker
 

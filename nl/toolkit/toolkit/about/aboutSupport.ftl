@@ -138,6 +138,15 @@ a11y-force-disabled = Toegankelijkheid voorkomen
 a11y-handler-used = Accessible-handler gebruikt
 a11y-instantiator = Toegankelijkheids-instantiator
 pdfjs-title = PDF-lezer
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js-versie
+pdfjs-enabled = Ingeschakeld
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Annotatie-editor ingeschakeld
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA-formulieren ingeschakeld
+pdfjs-open-attachments-inline = PDF-bijlagen inline openen
 library-version-title = Bibliotheekversies
 copy-text-to-clipboard-label = Tekst naar klembord kopiëren
 copy-raw-data-to-clipboard-label = Onbewerkte gegevens naar klembord kopiëren

@@ -68,6 +68,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = U bent afgemeld
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Instellen voltooien
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Aanmelden om te synchroniseren
+fxa-menu-signed-out-description = U bent afgemeld
 fxa-avatar-sign-in = Aanmelden
 fxa-avatar-sign-up = Registreren
 fxa-avatar-tooltip =

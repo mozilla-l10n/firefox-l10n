@@ -539,6 +539,37 @@ onboarding-refresh-gratitude-subtitle = Bedankt voor het gebruik van { -brand-sh
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } is er voor u
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } staat vanaf nu voor u klaar
+onboarding-refresh-hero-text = Gebouwd om u te beschermen, niet om u te volgen.
+onboarding-refresh-tou-default = Alle koppelingen openen met { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } in de Dock houden
+       *[other] { -brand-short-name } aan uw taakbalk toevoegen
+    }
+onboarding-refresh-tou-default-unchecked = Altijd ingebouwde bescherming tijdens het navigeren
+onboarding-refresh-tou-pin-unchecked = Houd de enige grote onafhankelijke browser op een muisklik afstand
+onboarding-refresh-terms-of-use-with-links = Door verder te gaan, gaat u akkoord met de <a data-l10n-name="terms_of_use">Gebruiksvoorwaarden voor { -brand-product-name }</a> en onze <a data-l10n-name="privacy_notice">Privacyverklaring </a>. Om de browser te helpen verbeteren, verzendt { -brand-product-name } diagnostische en interactiegegevens naar { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Instellingen voor gegevensverzameling beheren
+onboarding-refresh-primary-button = Doorgaan
+onboarding-refresh-fro-import-header = Uw gegevens importeren
+onboarding-refresh-fro-import-body = Uw persoonlijke gegevens blijven persoonlijk. { -brand-product-name } zal ze nooit verkopen.
+onboarding-refresh-fro-skip-button = Overslaan
+onboarding-refresh-fro-theme-header = Speel met uw uitstraling
+onboarding-refresh-tab-layout-header = Probeer een andere tabbladindeling
+onboarding-refresh-tab-layout-top = Bovenaan
+onboarding-refresh-tab-layout-side = Aan de zijkant
+onboarding-refresh-tab-layout-minimal = Minimaal
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Een browservenster dat tabbladen als kleine pictogrammen langs de zijkant van het scherm toont, in een verkleinde zijbalk.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Een browservenster dat tabbladen als kleine pictogrammen langs de zijkant van het scherm toont, in een verkleinde zijbalk.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Wissel op elk gewenst moment tussen Slimme en klassieke vensters.

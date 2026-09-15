@@ -906,6 +906,18 @@ newtab-wallpaper-your-images-item-numbered = Afbeelding { $number }
 newtab-wallpaper-remove-image =
     .aria-label = { $name } verwijderen
     .title = Afbeelding verwijderen
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Afbeelding { $number } verwijderen
+    .title = Afbeelding { $number } verwijderen
+newtab-wallpaper-remove-image-title = Afbeelding verwijderen?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Deze actie kan niet ongedaan worden gemaakt.
+newtab-wallpaper-remove-image-confirm = Verwijderen
+newtab-wallpaper-remove-image-cancel = Annuleren
 
 ## Solid Colors
 
@@ -971,6 +983,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Een vos aan de rechterkant op een oranje achtergrond
+newtab-wallpaper-firefox-colorful-sky = Oranje golven tegen een paarse nachtelijke hemel
+newtab-wallpaper-firefox-desert-dark = Een vos zittend in een donkerpaarse woestijn
+newtab-wallpaper-firefox-desert-light = Een vos die door een lichte woestijn rent
+newtab-wallpaper-firefox-hills-dark = Een vos die over donkere heuvels rent
+newtab-wallpaper-firefox-hills-light = Een vos die over lichte heuvels rent
+newtab-wallpaper-firefox-tail-dark = De staart van een vos tegen een donkere achtergrond
+newtab-wallpaper-firefox-tail-light = De staart van een vos tegen een lichte achtergrond
+newtab-wallpaper-firefox-side-kit-dark = Een vos aan de linkerkant, tegen een donkere achtergrond
+newtab-wallpaper-firefox-side-kit-light = Een vos aan de linkerkant, tegen een lichte achtergrond
+newtab-wallpaper-firefox-sitting-hill-dark = Een vos zittend op donkerpaarse heuvels
+newtab-wallpaper-firefox-sitting-hill-light = Een vos zittend op lichte heuvels
+newtab-wallpaper-firefox-peak-dark = Het gezicht van een vos in de linkerrand, tegen een donkere achtergrond
+newtab-wallpaper-firefox-peak-light = Het gezicht van een vos in de linkerrand, tegen een lichte achtergrond
+newtab-wallpaper-firefox-sky-dark = Donkerpaarse heuvels onder een nachtelijke hemel
+newtab-wallpaper-firefox-sky-light = Lichte heuvels onder een zachte hemel
 
 ## Firefox
 
@@ -998,6 +1026,9 @@ newtab-weather-menu-change-location = Locatie wijzigen
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Locatie zoeken
     .placeholder = Locatie zoeken
+newtab-weather-cancel-input =
+    .aria-label = Annuleren
+    .title = Annuleren
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Huidige locatie gebruiken
@@ -1247,6 +1278,10 @@ newtab-widget-lists-menu-create = Een nieuwe lijst aanmaken
 newtab-widget-lists-menu-delete = Deze lijst verwijderen
 newtab-widget-lists-menu-copy = Lijst naar klembord kopiëren
 newtab-widget-lists-menu-learn-more = Meer info
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Lijst wijzigen
+    .title = Lijst wijzigen
 newtab-widget-lists-button-add-item = Een item toevoegen
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Een item toevoegen
