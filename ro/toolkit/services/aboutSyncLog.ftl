@@ -50,6 +50,15 @@ about-sync-log-count =
         [few] { $count } jurnale
        *[other] { $count } de jurnale
     }
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = Succes — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = Eroare — { DATETIME($date, dateStyle: "mediu", timeStyle: "mediu") }
 about-sync-log-badge-success = Succes
 about-sync-log-badge-error = Eroare
 # Variables:

@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } încearcă s
 autofill-edit-payment-method-os-prompt-macos = afișează informațiile stocate despre metoda de plată
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } încearcă să afișeze informațiile stocate despre metoda de plată. Confirmă accesul la acest cont Windows mai jos.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } încearcă să afișeze informațiile stocate despre metoda de plată.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = șterge informațiile stocate despre metoda de plată
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } încearcă să șteargă informațiile stocate despre metoda de plată. Confirmă accesul la acest cont Windows mai jos.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } încearcă să șteargă informațiile stocate despre metoda de plată.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opțiuni de completare automată a formularelor
 

@@ -556,6 +556,7 @@ onboarding-refresh-terms-of-use-with-links = Prin continuare, ești de acord cu 
 onboarding-refresh-data-collection-link = Gestionează setările de colectare a datelor
 onboarding-refresh-primary-button = Continuă
 onboarding-refresh-fro-import-header = Ia-ți datele cu tine
+onboarding-refresh-fro-import-body = Datele tale cu caracter personal rămân personale. { -brand-product-name } nu le va vinde niciodată.
 onboarding-refresh-fro-skip-button = Omite
 onboarding-refresh-fro-theme-header = Joacă-te cu aspectul tău
 onboarding-refresh-tab-layout-header = Încearcă o altă dispunere a filelor
