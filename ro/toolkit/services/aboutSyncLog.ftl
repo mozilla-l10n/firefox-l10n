@@ -58,7 +58,7 @@ about-sync-log-row-success =
 # Variables:
 #   $date (number) - Timestamp of when the log was written.
 about-sync-log-row-error =
-    .heading = Eroare — { DATETIME($date, dateStyle: "mediu", timeStyle: "mediu") }
+    .heading = Eroare — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
 about-sync-log-badge-success = Succes
 about-sync-log-badge-error = Eroare
 # Variables:
