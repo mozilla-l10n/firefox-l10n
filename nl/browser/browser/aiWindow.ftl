@@ -364,3 +364,19 @@ aiwindow-starter-planning-plan = Help een plan te maken
 aiwindow-starter-browsing-history = Zoek tabbladen in de geschiedenis
 aiwindow-starter-browsing-summarize = Vat tabbladen samen
 aiwindow-starter-browsing-compare = Vergelijk tabbladen
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Terug scrollen
+    .tooltiptext = Terug scrollen
+aiwindow-starter-scroll-end =
+    .aria-label = Vooruit scrollen
+    .tooltiptext = Vooruit scrollen
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = { $text } sluiten
+    .title = { $text } sluiten
