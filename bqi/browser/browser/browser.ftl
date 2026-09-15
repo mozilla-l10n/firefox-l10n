@@ -1335,6 +1335,9 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+#   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
+file-picker-crashed-save-somewhere = نیمدری پسند فایل ویندووز کرش کرد. فایل من تور { $path } زفت ابۊ.
+file-picker-crashed-save-nowhere = نیمدری پسند فایل ویندووز کرش کرد. دوبلگه پؽش فرز ن نجوست؛ فایل زفت نؽبۊ.
 file-picker-crashed-show-in-folder =
     .label = نشووݩ داڌن من دوبلگه
     .accessKey = F
@@ -1359,6 +1362,7 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = زفت وابیڌن پؽش رئڌه جلاو رڌجۊری سی { $host } قیر فعال هڌ
 trustpanel-etp-description-enabled = ٱر منی چیه من ای وبگه خراو هڌ، قپ ریت کۊنین زفت وابیڌنا ن کۊر کۊنین.
+trustpanel-etp-description-disabled = { -brand-product-name } و یو باور داره ک شرکتا وا کمتر ایسا ن رڌجۊری کونن، وا رۊشن کردن زفت وابیڌن تا اوچو ک ره داره رڌجۊرا ن مسدۊد اکۊنیم.
 trustpanel-connection-label-secure = منپیز ٱمن
 trustpanel-connection-label-insecure = منپیز ٱمن نؽ
 trustpanel-header-enabled = { -brand-product-name } هونی نگهبۊوی اده
@@ -1458,6 +1462,12 @@ trustpanel-tracking-content-not-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } هشت { $count } رڌجۊر فعالیت کونه
        *[other] { -brand-product-name } هشت { $count } رڌجۊر فعالیت کونه
+    }
+trustpanel-tracking-content-tab-list-header = ای وبگه یل اخون ایسا ن رڌجۊری کونن:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } تعداد { $count } رڌجۊر کلک نگار ن مسدۊد کرد
+       *[other] { -brand-product-name } تعداد { $count } رڌجۊر کلک نگار ن مسدۊد کرد
     }
 trustpanel-breachalerts-anonymous-breached-button-dismiss = رڌ کردن
 trustpanel-breachalerts-anonymous-breached-button-check-monitor = ناهاڌن پا اسکن مۊفتی
