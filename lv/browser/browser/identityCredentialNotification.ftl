@@ -13,7 +13,7 @@
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
 identity-credential-header-providers = Ierakstieties, izmantojot ierakstīšanās pakalpojuma nodrošinātāju
-identity-credential-header-accounts = Ierakstieties ar { $provider }
+identity-credential-header-accounts = Pieteikties ar { $provider }
 identity-credential-urlbar-anchor =
     .tooltiptext = Atveriet ierakstīšanās paneli
 identity-credential-cancel-button =

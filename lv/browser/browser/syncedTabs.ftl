@@ -57,7 +57,7 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Sinhronizēt
     .accesskey = S
-synced-tabs-fxa-sign-in = Ierakstieties, lai sinhronizētu
+synced-tabs-fxa-sign-in = Piesakies, lai vienādotu
 synced-tabs-turn-on-sync = Ieslēgt sinhronizāciju
 # Context for hovering over the close tab button that will
 # send a push to the device to close said tab

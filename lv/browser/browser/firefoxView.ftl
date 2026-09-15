@@ -39,7 +39,7 @@ firefoxview-tabpickup-password-locked-description = Lai izmantotu cilnes, jums b
 firefoxview-tabpickup-password-locked-link = Uzzināt vairāk
 firefoxview-tabpickup-password-locked-primarybutton = Ievadiet galveno paroli
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Uzzināt vairāk</a>
-firefoxview-tabpickup-signed-out-header = Ierakstieties, lai atkal savienotos
+firefoxview-tabpickup-signed-out-header = Piesakies, lai atkal savienotos
 firefoxview-tabpickup-signed-out-description2 = Lai atkal savienotos un paņemtu cilnes, ierakstieties savā kontā.
 firefoxview-tabpickup-signed-out-primarybutton = Ierakstīties
 # Variables:

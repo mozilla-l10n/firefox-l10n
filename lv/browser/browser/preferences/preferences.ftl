@@ -729,7 +729,7 @@ sync-group-label =
 sync-signedout-caption = Paņem tīmekli sev līdz
 sync-signedout-description2 = Sinhronizējiet savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs.
 sync-signedout-account-signin3 =
-    .label = Ierakstieties, lai sinhronizētu…
+    .label = Piesakies, lai vienādotu…
     .accesskey = I
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon

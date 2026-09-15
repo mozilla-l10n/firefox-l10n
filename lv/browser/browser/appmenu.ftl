@@ -83,7 +83,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenu-remote-tabs-sign-into-sync =
-    .label = Pierakstieties, lai sinhronizētu…
+    .label = Jāpiesakās, lai vienādotu…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ieslēgt sinhronizāciju…
 # This is shown after the tabs list if we can display more tabs by clicking on the button
@@ -108,7 +108,7 @@ appmenu-remote-tabs-connectdevice =
 appmenu-remote-tabs-welcome = Skatiet citu savu ierīču ciļņu sarakstu.
 appmenu-remote-tabs-unverified = Jūsu kontam nepieciešams apstiprinājums.
 appmenuitem-fxa-toolbar-sync-now2 = Sinhronizēt tagad
-appmenuitem-fxa-sign-in = Pierakstieties { -brand-product-name }
+appmenuitem-fxa-sign-in = Pieteikties { -brand-product-name }
 appmenuitem-fxa-manage-account = Pārvaldīt kontu
 fxa-menu-sync-status-on = Vienādošana ir ieslēgta
 fxa-menu-sync-status-off = Vienādošana ir izslēgta
@@ -323,7 +323,7 @@ appmenuitem-report-broken-site =
 
 ## Panel for privacy and security products
 
-appmenuitem-sign-in-account = Pierakstieties savā kontā
+appmenuitem-sign-in-account = Piesakies savā kontā
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Saņemt brīdinājumus par datu noplūdēm
 appmenuitem-relay-title = { -relay-brand-short-name }
