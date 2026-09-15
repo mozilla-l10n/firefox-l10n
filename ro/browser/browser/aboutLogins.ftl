@@ -83,7 +83,7 @@ login-intro-description2 = Toate parolele pe care le salvezi în { -brand-produc
 login-intro-instructions-fxa2 = Fă-ți un cont sau intră în contul tău de pe dispozitivul pe care sunt salvate datele de autentificare.
 login-intro-instructions-fxa-settings = Mergi la Setări > Sincronizare > Activează sincronizarea… Bifează caseta de selectare Date de autentificare și parole.
 login-intro-instructions-fxa-passwords-help = Intră pe<a data-l10n-name="passwords-help-link">asistență pentru parole</a> pentru mai mult ajutor.
-about-logins-intro-import3 = Selectează butonul cu semnul plus de mai sus pentru a adăuga o parolă acum. Poți și <a data-l10n-name="import-browser-link">importa parole dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>.
+about-logins-intro-import3 = Selectează butonul cu semnul plus de mai sus ca să adaugi acum o parolă. Poți și <a data-l10n-name="import-browser-link">importa parole dintr-un alt browser</a> sau <a data-l10n-name="import-file-link">dintr-un fișier</a>.
 
 ## Login
 
