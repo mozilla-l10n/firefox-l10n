@@ -552,6 +552,10 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = Păstrezi protecția integrată ori de câte ori navighezi
 onboarding-refresh-tou-pin-unchecked = Ții singurul browser independent de top la doar un clic distanță
+onboarding-refresh-terms-of-use-with-links = Prin continuare, ești de acord cu <a data-l10n-name="terms_of_use">Condițiile de utilizare { -brand-product-name }</a> și <a data-l10n-name="privacy_notice">Notificarea noastră privind confidențialitatea</a>. Pentru a ne ajuta să îmbunătățim browserul, { -brand-product-name } trimite date de diagnosticare și interacțiune către { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Gestionează setările de colectare a datelor
+onboarding-refresh-primary-button = Continuă
+onboarding-refresh-fro-import-header = Ia-ți datele cu tine
 onboarding-refresh-fro-skip-button = Omite
 onboarding-refresh-fro-theme-header = Joacă-te cu aspectul tău
 onboarding-refresh-tab-layout-header = Încearcă o altă dispunere a filelor

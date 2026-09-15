@@ -490,6 +490,28 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Opțiuni căutări recente
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Află mai multe
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Căutări recente
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = În tendințe
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = prin { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Adineauri
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Elimină „{ $search }” din căutările recente
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Căutările recente vor fi afișate aici, astfel încât să le poți accesa din nou oricând.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Căutările în tendințe nu sunt disponibile momentan.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
