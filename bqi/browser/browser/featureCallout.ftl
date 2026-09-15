@@ -23,6 +23,7 @@ continuous-onboarding-firefox-view-tab-pickup-primary-button-label = ناهاڌ�
 
 callout-pdfjs-edit-title = PDF‌ها ن وا ٱوزار هؽل نۊ ایما آلشت کۊنین
 callout-pdfjs-edit-button = بئڌی
+callout-pdfjs-draw-title = امزای سندا وا ٱوزار ترسیم نۊ
 callout-pdfjs-draw-button = فئمیم!
 
 ## Firefox View Discoverability Strings

@@ -185,6 +185,7 @@ contextual-manager-passwords-username-field =
     .label = نوم منتوری
 contextual-manager-passwords-password-field =
     .label = رزم
+contextual-manager-passwords-password-field-description = رزم ن سی و من ٱووڌن و ای هساو بزنین.
 
 ## Password Card
 

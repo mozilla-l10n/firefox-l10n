@@ -27,4 +27,15 @@ content-sharing-modal-sign-in-2 =
     .label = سی یک رسۊوی و من بیاین
 content-sharing-modal-title-2 = ای بلگه یل ن وا هر کسؽ یک رسۊوی کۊنین
 content-sharing-modal-title-signed-in = لینگا ایسا ٱماڌه یک رسۊوی هڌن
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+        [one] تنها { $count } لینگ ٱول قرار اگرن
+       *[other] تنها { $count } لینگ ٱول قرار اگرن
+    }
+content-sharing-modal-no-shareable-links =
+    .heading = هیچ لینگؽ قابل و یک رسۊوی وۊجۊد نڌاره
+    .message = تینا لینگا مربۊت و موئتوا وب قابل و یک رسۊوی هڌن.
 content-sharing-modal-some-invalid-links = ی قرده ز لینگا نترن یک رسۊوی بۊن.
