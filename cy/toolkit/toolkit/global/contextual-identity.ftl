@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Ychwanegu cynhwysydd newydd
     .accesskey = Y
+user-context-new-tab2 =
+    .label = Tab Newydd
+user-context-add-container2 =
+    .label = Ychwanegu cynhwysydd newydd
 user-context-manage-containers2 =
     .label = Rheoli Cynwysyddion
 
