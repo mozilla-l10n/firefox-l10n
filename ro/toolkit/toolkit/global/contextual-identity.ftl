@@ -20,6 +20,12 @@ user-context-shopping =
     .accesskey = S
 user-context-personal2 =
     .label = Personale
+user-context-work2 =
+    .label = Lucru
+user-context-banking2 =
+    .label = Banking
+user-context-shopping2 =
+    .label = Cumpărături
 
 ##
 
