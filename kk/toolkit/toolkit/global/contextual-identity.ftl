@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Шоппинг
     .accesskey = Ш
+user-context-personal2 =
+    .label = Жеке
+user-context-work2 =
+    .label = Жұмыс
+user-context-banking2 =
+    .label = Банкинг
+user-context-shopping2 =
+    .label = Шоппинг
 
 ##
 
