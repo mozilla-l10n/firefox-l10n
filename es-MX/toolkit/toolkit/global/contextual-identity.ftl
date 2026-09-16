@@ -18,6 +18,8 @@ user-context-banking =
 user-context-shopping =
     .label = Comprar
     .accesskey = S
+user-context-personal2 =
+    .label = Personal
 
 ##
 
