@@ -6,4 +6,3 @@ pdf-features-notification =
     .aria-label = Notifica
     .heading = I PDF sono ancora più semplici in { -brand-short-name }.
 pdf-features-notification-message = Dividi, unisci e molto altro. <a data-l10n-name="features-link">Scopri le funzionalità per i PDF</a>
-
