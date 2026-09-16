@@ -18,6 +18,10 @@ user-context-banking =
 user-context-shopping =
     .label = Innkaup
     .accesskey = s
+user-context-personal2 =
+    .label = Persónulegt
+user-context-work2 =
+    .label = Vinna
 
 ##
 
