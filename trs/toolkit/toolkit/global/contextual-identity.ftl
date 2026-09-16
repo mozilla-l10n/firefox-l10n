@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Sa girun'
     .accesskey = S
+user-context-personal2 =
+    .label = Riña man'ânt
+user-context-work2 =
+    .label = Suun
+user-context-banking2 =
+    .label = Bânku
+user-context-shopping2 =
+    .label = Sa girun'
 
 ##
 
@@ -34,6 +42,8 @@ user-context-shopping-panel-item = Sa girun'
     .accesskey = S
 user-context-manage-containers-panel-item = Dugumî hue'ê' kontenedor
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Dugumî hue'ê' kontenedor
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
