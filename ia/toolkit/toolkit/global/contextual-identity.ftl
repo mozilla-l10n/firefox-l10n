@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Adder nove contentor
     .accesskey = A
+user-context-new-tab2 =
+    .label = Nove scheda
+user-context-add-container2 =
+    .label = Adder nove contentor
 user-context-manage-containers2 =
     .label = Gerer le contentores
 
