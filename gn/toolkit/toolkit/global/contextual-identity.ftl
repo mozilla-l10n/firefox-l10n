@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Embojuaju mba’yru pyahu
     .accesskey = A
+user-context-new-tab2 =
+    .label = Tendayke pyahu
+user-context-add-container2 =
+    .label = Embojuaju mba’yru pyahu
 user-context-manage-containers2 =
     .label = Guerekoha ñangarekohára
 
