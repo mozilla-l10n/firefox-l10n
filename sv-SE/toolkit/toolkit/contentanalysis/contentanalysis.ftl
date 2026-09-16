@@ -25,7 +25,7 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } granskar vad du klistrat in mot din organisations datapolicy. Detta kan ta en stund.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } granskar vad du kopierade mot din organisations datapolicyer. Detta kan ta en stund.
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } kontrollerar det du kopierade mot organisationens datapolicyer. Det kan ta en stund.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -36,7 +36,7 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } granskar vad du har sk
 # Written to the system clipboard in place of content that the user was not
 # permitted to copy, so that pasting produces this notice rather than silently
 # producing whatever was on the clipboard beforehand.
-contentanalysis-clipboard-copy-blocked-replacement = Kopiering av detta innehåll är begränsad av din organisation.
+contentanalysis-clipboard-copy-blocked-replacement = Din organisation tillåter inte att det här innehållet kopieras.
 contentanalysis-operationtype-clipboard = urklipp
 contentanalysis-operationtype-clipboard-copy = kopierat innehåll
 contentanalysis-operationtype-dropped-text = släppt text
@@ -93,7 +93,7 @@ contentanalysis-block-dialog-body-download-file = Enligt din organisations datas
 contentanalysis-block-dialog-title-clipboard = Du har inte tillåtelse att klistra in det här innehållet
 contentanalysis-block-dialog-body-clipboard = Enligt din organisations dataskyddspolicy har du inte tillåtelse att klistra in detta innehåll. Kontakta din administratör för mer information.
 contentanalysis-block-dialog-title-clipboard-copy = Du har inte tillåtelse att kopiera detta innehåll
-contentanalysis-block-dialog-body-clipboard-copy = Enligt din organisations dataskyddspolicy har du inte tillåtelse att kopiera detta innehåll. Kontakta din administratör för mer information.
+contentanalysis-block-dialog-body-clipboard-copy = Din organisations dataskyddsregler tillåter inte att du kopierar det här innehållet. Kontakta administratören om du vill veta mer.
 contentanalysis-block-dialog-title-dropped-text = Du har inte tillåtelse att dra och släppa detta innehåll
 contentanalysis-block-dialog-body-dropped-text = Enligt din organisations dataskyddspolicy har du inte tillåtelse att dra och släppa detta innehåll. Kontakta din administratör för mer information.
 contentanalysis-block-dialog-title-print = Du har inte behörighet att skriva ut det här dokumentet

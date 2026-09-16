@@ -46,7 +46,7 @@ about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } kB ({ $
 # $totalBytes (Number) - Uncompressed size of all stored copies, in bytes
 # $distinct (Number) - Number of unique certificates across all tokens
 # $distinctBytes (Number) - Uncompressed size of the unique certificates, in bytes
-about-networking-ssl-tokens-summary-certs = Lagrade certifikat: { $references } ({ $totalBytes } B), distinkta: { $distinct } ({ $distinctBytes } B)
+about-networking-ssl-tokens-summary-certs = Lagrade certifikat: { $references } ({ $totalBytes } B), distinkt: { $distinct } ({ $distinctBytes } B)
 about-networking-ssl-tokens-partition-key = Partitionsnyckel
 about-networking-ssl-tokens-tokens-column = Tokens
 about-networking-ssl-tokens-expires = Upphör
