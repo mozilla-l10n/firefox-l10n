@@ -52,12 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Tilføj ny kontekst
     .accesskey = T
+user-context-new-tab2 =
+    .label = Nyt faneblad
+user-context-add-container2 =
+    .label = Tilføj ny kontekst
 user-context-manage-containers2 =
     .label = Håndter kontekster
 user-context-personal2-panel-item = Personlig
 user-context-work2-panel-item = Arbejde
 user-context-banking2-panel-item = Bank
 user-context-shopping2-panel-item = Shopping
+user-context-new-tab2-panel-item = Nyt faneblad
+user-context-add-container2-panel-item = Tilføj ny kontekst
+user-context-manage-containers2-panel-item = Håndter kontekster
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
