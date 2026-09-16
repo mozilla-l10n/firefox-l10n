@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Stiùirich na soithichean
     .accesskey = O
 user-context-manage-containers2 =
     .label = Stiùirich na soithichean
+user-context-personal2-panel-item = Pearsanta
+user-context-work2-panel-item = Obair
+user-context-banking2-panel-item = Bancaireachd
+user-context-shopping2-panel-item = Seopadaireachd
+user-context-manage-containers2-panel-item = Stiùirich na soithichean
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
