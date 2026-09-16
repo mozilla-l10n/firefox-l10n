@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = הוספת מגירה חדשה
     .accesskey = ה
+user-context-new-tab2 =
+    .label = לשונית חדשה
+user-context-add-container2 =
+    .label = הוספת מגירה חדשה
 user-context-manage-containers2 =
     .label = ניהול מגירות
 
