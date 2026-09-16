@@ -30,6 +30,9 @@ user-context-manage-containers-panel-item = खनथेनारफोरखौ
     .accesskey = O
 user-context-manage-containers2 =
     .label = खनथेनारफोरखौ सामलाय
+user-context-personal2-panel-item = निजि
+user-context-work2-panel-item = खामानि
+user-context-manage-containers2-panel-item = खनथेनारफोरखौ सामलाय
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
