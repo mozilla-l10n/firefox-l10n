@@ -47,6 +47,10 @@ user-context-manage-containers-panel-item = จัดการที่แยก
 user-context-new-tab =
     .label = แท็บใหม่
     .accesskey = ห
+user-context-new-tab2 =
+    .label = แท็บใหม่
+user-context-manage-containers2 =
+    .label = จัดการที่แยกข้อมูล
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
