@@ -523,6 +523,9 @@ newtab-recent-searches-row-remove =
 
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Pytać
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Pytanske nastajenja
 
 ## Recent searches widget — empty states
 
@@ -887,6 +890,9 @@ newtab-wallpaper-add-an-image = Wobraz přidać
 newtab-wallpaper-custom-color = Barbu wubrać
 newtab-wallpaper-toggle-title =
     .label = Pozadkowe wobrazy
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategorije pozadkowych wobrazow
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Wobraz je limit datajoweje wulkosće { $file_size } překročił. Nahrajće prošu mjeńšu dataju.
@@ -1752,6 +1758,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Tute městno po wašich prawidłach hraje
 newtab-activation-window-message-values-focus-message = { -brand-product-name } wam zmóžnja, na wašnje přehladować, kotrež wam so spodoba, z bóle wosobinskej móžnosću, dźeń online započeć. Přiswojće sej { -brand-product-name }.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = Wubjerće swoje zwonkowne
 
 ## Strings for the Clock widget
 

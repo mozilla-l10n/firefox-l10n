@@ -5,6 +5,8 @@
 about-pdf-title = PDF-Editor { -brand-short-name }
 about-pdf-header = PDF { -brand-short-name }
 about-pdf-tagline = Darmotny nastroj za čitanje, zjednoćowanje, signowanje, komentowanje a wjace – ze zatwarjenej priwatnosću
+about-pdf-features-cta =
+    .label = Wuslědźće nastroje PDF
 about-pdf-dropzone =
     .title = Pušćće tu PDF-dataju, zo byšće započał abo tłóčće Enter
 about-pdf-dropzone-hint = Pušćće tu PDF-dataju, zo byšće započał
@@ -25,6 +27,7 @@ about-pdf-dismiss =
 
 ## The about:pdf#features page.
 
+about-pdf-features-header = Nastroje PDF { -brand-short-name }
 about-pdf-features-back =
     .label = Wróćo
 about-pdf-feature-organize-heading = Strony organizować
@@ -32,4 +35,5 @@ about-pdf-feature-organize-description = Přerjadujće, wotstrońće, zjednoćć
 about-pdf-feature-signatures-heading = Signatury składować
 about-pdf-feature-signatures-description = Wutworće wjacore signatury a přidajće je formularam.
 about-pdf-feature-comments-heading = Přispomnjenki přidać
+about-pdf-feature-annotate-description = Přidajće tekst, wuzběhnjenja a rysowanki.
 about-pdf-feature-view-heading = Wubjerće swój napohlad
