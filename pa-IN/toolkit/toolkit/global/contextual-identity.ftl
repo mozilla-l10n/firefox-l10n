@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = ਖਰੀਦਦਾਰੀ
     .accesskey = S
+user-context-personal2 =
+    .label = ਨਿੱਜੀ
+user-context-work2 =
+    .label = ਕੰਮ
+user-context-banking2 =
+    .label = ਬੈਂਕਿੰਗ
+user-context-shopping2 =
+    .label = ਖਰੀਦਦਾਰੀ
 
 ##
 
