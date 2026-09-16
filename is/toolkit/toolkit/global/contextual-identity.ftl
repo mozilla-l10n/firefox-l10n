@@ -22,6 +22,10 @@ user-context-personal2 =
     .label = Persónulegt
 user-context-work2 =
     .label = Vinna
+user-context-banking2 =
+    .label = Netbankar
+user-context-shopping2 =
+    .label = Innkaup
 
 ##
 
@@ -38,6 +42,8 @@ user-context-shopping-panel-item = Innkaup
     .accesskey = s
 user-context-manage-containers-panel-item = Stjórna sérefnisfllipum
     .accesskey = f
+user-context-manage-containers2 =
+    .label = Stjórna sérefnisfllipum
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
