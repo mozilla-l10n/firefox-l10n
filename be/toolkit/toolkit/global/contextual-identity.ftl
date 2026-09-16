@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Пакупкі
     .accesskey = П
+user-context-personal2 =
+    .label = Асабісты
+user-context-work2 =
+    .label = Праца
+user-context-banking2 =
+    .label = Банкінг
+user-context-shopping2 =
+    .label = Пакупкі
 
 ##
 
