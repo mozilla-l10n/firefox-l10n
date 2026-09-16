@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = أضف حاوية جديدة
     .accesskey = ض
+user-context-new-tab2 =
+    .label = لسان جديد
+user-context-add-container2 =
+    .label = أضف حاوية جديدة
 user-context-manage-containers2 =
     .label = أدِر الحاويات
 
