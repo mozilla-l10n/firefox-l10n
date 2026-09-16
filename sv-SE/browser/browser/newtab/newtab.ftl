@@ -1737,8 +1737,8 @@ newtab-activation-window-message-values-focus-message = Med { -brand-product-nam
 # "Put your finishing touch on" means to add the last, personal detail that
 # makes something yours. The call to action is to open the New Tab
 # customization panel and pick a theme or wallpaper.
-newtab-nova-customization-callout-header = Sätt guldet på { -brand-product-name }
-newtab-nova-customization-callout-message = Utforska ljusa eller mörka teman och bakgrundsbilder som gör att de nya { -brand-product-name } känns mer som din.
+newtab-nova-customization-callout-header = Sätt din personliga prägel på { -brand-product-name }
+newtab-nova-customization-callout-message = Upptäck ljusa och mörka teman och bakgrundsbilder som gör nya { -brand-product-name } mer personlig.
 newtab-nova-customization-callout-primary-button =
     .label = Välj ditt utseende
 
