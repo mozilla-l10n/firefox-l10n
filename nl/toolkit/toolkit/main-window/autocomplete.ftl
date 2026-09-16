@@ -46,6 +46,7 @@ autocomplete-more-actions2 = Meer acties voor { $entry }
 
 autocomplete-remove-password-title = Wachtwoord verwijderen?
 autocomplete-remove-address-title = Adres verwijderen?
+autocomplete-remove-payment-method-title = Betaalmethode verwijderen?
 autocomplete-remove-record-message = U kunt deze actie niet ongedaan maken.
 autocomplete-remove-record-button = Verwijderen
 
