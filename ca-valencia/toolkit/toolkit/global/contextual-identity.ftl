@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Gestiona els contenidors
     .accesskey = o
 user-context-manage-containers2 =
     .label = Gestiona els contenidors
+user-context-personal2-panel-item = Personal
+user-context-work2-panel-item = Faena
+user-context-banking2-panel-item = Banca
+user-context-shopping2-panel-item = Compres
+user-context-manage-containers2-panel-item = Gestiona els contenidors
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
