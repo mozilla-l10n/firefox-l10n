@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Pirkiniai
     .accesskey = P
+user-context-personal2 =
+    .label = Asmeninis
+user-context-work2 =
+    .label = Darbas
+user-context-banking2 =
+    .label = Bankininkystė
+user-context-shopping2 =
+    .label = Pirkiniai
 
 ##
 
