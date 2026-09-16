@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Siopadóireacht
     .accesskey = S
+user-context-personal2 =
+    .label = Pearsanta
+user-context-work2 =
+    .label = Obair
+user-context-banking2 =
+    .label = Baincéireacht
+user-context-shopping2 =
+    .label = Siopadóireacht
 
 ##
 
@@ -34,6 +42,8 @@ user-context-shopping-panel-item = Siopadóireacht
     .accesskey = S
 user-context-manage-containers-panel-item = Bainistigh Coimeádáin
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Bainistigh Coimeádáin
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
