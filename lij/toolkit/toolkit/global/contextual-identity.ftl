@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Negòççi
     .accesskey = N
 user-context-manage-containers-panel-item = Gestisci contegnitoî
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Gestisci contegnitoî
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
