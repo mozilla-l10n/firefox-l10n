@@ -22,6 +22,10 @@ user-context-personal2 =
     .label = Ichinan
 user-context-work2 =
     .label = Samaj
+user-context-banking2 =
+    .label = Pwaqb'äl
+user-context-shopping2 =
+    .label = Loq'oj
 
 ##
 
@@ -38,6 +42,8 @@ user-context-shopping-panel-item = Loq'oj
     .accesskey = q
 user-context-manage-containers-panel-item = Kenuk'samajïx K'wayöl
     .accesskey = w
+user-context-manage-containers2 =
+    .label = Kenuk'samajïx K'wayöl
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
