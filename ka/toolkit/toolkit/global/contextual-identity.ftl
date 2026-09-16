@@ -24,6 +24,8 @@ user-context-work2 =
     .label = სამუშაო
 user-context-banking2 =
     .label = საბანკო
+user-context-shopping2 =
+    .label = სავაჭრო
 
 ##
 
@@ -50,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = ახალი სათავსის დამატება
     .accesskey = დ
+user-context-manage-containers2 =
+    .label = სათავსების მართვა
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
