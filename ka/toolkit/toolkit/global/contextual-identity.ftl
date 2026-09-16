@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = ახალი სათავსის დამატება
     .accesskey = დ
+user-context-new-tab2 =
+    .label = ახალი ჩანართი
+user-context-add-container2 =
+    .label = ახალი სათავსის დამატება
 user-context-manage-containers2 =
     .label = სათავსების მართვა
 
