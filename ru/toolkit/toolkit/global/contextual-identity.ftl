@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Добавить новый контейнер
     .accesskey = Ф
+user-context-new-tab2 =
+    .label = Новая вкладка
+user-context-add-container2 =
+    .label = Добавить новый контейнер
 user-context-manage-containers2 =
     .label = Управление контейнерами
 
