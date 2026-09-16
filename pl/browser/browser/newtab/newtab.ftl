@@ -994,6 +994,21 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Lis po prawej stronie na pomarańczowym tle
+newtab-wallpaper-firefox-colorful-sky = Pomarańczowe fale na tle fioletowego nocnego nieba
+newtab-wallpaper-firefox-desert-dark = Lis siedzący na pustyni w ciemnofioletowych barwach
+newtab-wallpaper-firefox-desert-light = Lis biegnący przez jasną pustynię
+newtab-wallpaper-firefox-hills-dark = Lis biegnący po ciemnych wzgórzach
+newtab-wallpaper-firefox-hills-light = Lis biegnący po jasnych wzgórzach
+newtab-wallpaper-firefox-tail-dark = Lisi ogon na ciemnym tle
+newtab-wallpaper-firefox-tail-light = Lisi ogon na jasnym tle
+newtab-wallpaper-firefox-side-kit-dark = Lis po lewej stronie na ciemnym tle
+newtab-wallpaper-firefox-side-kit-light = Lis po lewej stronie na jasnym tle
+newtab-wallpaper-firefox-sitting-hill-dark = Lis siedzący na wzgórzach w ciemnofioletowych barwach
+newtab-wallpaper-firefox-sitting-hill-light = Lis siedzący na jasnych wzgórzach
+newtab-wallpaper-firefox-peak-dark = Pysk lisa po lewej stronie na ciemnym tle
+newtab-wallpaper-firefox-peak-light = Pysk lisa po lewej stronie na jasnym tle
+newtab-wallpaper-firefox-sky-dark = Wzgórza w ciemnofioletowych barwach pod nocnym niebem
+newtab-wallpaper-firefox-sky-light = Jasne wzgórza pod pogodnym niebem
 
 ## Firefox
 
