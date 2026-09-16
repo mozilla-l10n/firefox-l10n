@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Ukuthenga
     .accesskey = U
+user-context-personal2 =
+    .label = Ezobuqu
+user-context-work2 =
+    .label = Umsebenzi
+user-context-banking2 =
+    .label = Ukubhankisha
+user-context-shopping2 =
+    .label = Ukuthenga
 
 ##
 
