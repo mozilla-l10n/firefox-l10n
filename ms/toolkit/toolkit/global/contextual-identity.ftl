@@ -18,6 +18,8 @@ user-context-banking =
 user-context-shopping =
     .label = Beli-belah
     .accesskey = B
+user-context-personal2 =
+    .label = Peribadi
 
 ##
 
