@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Lisää uusi eristystila
     .accesskey = a
+user-context-new-tab2 =
+    .label = Uusi välilehti
+user-context-add-container2 =
+    .label = Lisää uusi eristystila
 user-context-manage-containers2 =
     .label = Muokkaa eristystiloja
 
