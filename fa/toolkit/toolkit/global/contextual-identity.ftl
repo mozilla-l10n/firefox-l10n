@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = خرید
     .accesskey = خ
+user-context-personal2 =
+    .label = شخصی
+user-context-work2 =
+    .label = کاری
+user-context-banking2 =
+    .label = بانکی
+user-context-shopping2 =
+    .label = خرید
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = خرید
     .accesskey = خ
 user-context-manage-containers-panel-item = مدیریت کانتینرها
     .accesskey = O
+user-context-manage-containers2 =
+    .label = مدیریت کانتینرها
+user-context-personal2-panel-item = شخصی
+user-context-work2-panel-item = کاری
+user-context-banking2-panel-item = بانکی
+user-context-shopping2-panel-item = خرید
+user-context-manage-containers2-panel-item = مدیریت کانتینرها
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

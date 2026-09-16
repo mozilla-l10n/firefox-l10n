@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Банкарство
     .accesskey = Б
+user-context-personal2 =
+    .label = Лично
+user-context-work2 =
+    .label = Посао
+user-context-banking2 =
+    .label = Куповина
+user-context-shopping2 =
+    .label = Банкарство
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Додај нови контејнер
     .accesskey = Д
+user-context-new-tab2 =
+    .label = Нови језичак
+user-context-add-container2 =
+    .label = Додај нови контејнер
+user-context-manage-containers2 =
+    .label = Управљај контејнерима
+user-context-personal2-panel-item = Лично
+user-context-work2-panel-item = Посао
+user-context-banking2-panel-item = Куповина
+user-context-shopping2-panel-item = Банкарство
+user-context-new-tab2-panel-item = Нови језичак
+user-context-add-container2-panel-item = Додај нови контејнер
+user-context-manage-containers2-panel-item = Управљај контејнерима
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

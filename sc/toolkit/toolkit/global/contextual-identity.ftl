@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Còmporas
     .accesskey = C
+user-context-personal2 =
+    .label = Personale
+user-context-work2 =
+    .label = Traballu
+user-context-banking2 =
+    .label = Banca
+user-context-shopping2 =
+    .label = Còmporas
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Còmporas
     .accesskey = C
 user-context-manage-containers-panel-item = Manìgia cuntenidores
     .accesskey = M
+user-context-manage-containers2 =
+    .label = Manìgia cuntenidores
+user-context-personal2-panel-item = Personale
+user-context-work2-panel-item = Traballu
+user-context-banking2-panel-item = Banca
+user-context-shopping2-panel-item = Còmporas
+user-context-manage-containers2-panel-item = Manìgia cuntenidores
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

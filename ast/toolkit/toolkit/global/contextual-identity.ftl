@@ -15,6 +15,12 @@ user-context-banking =
 user-context-shopping =
     .label = Tiendes
     .accesskey = i
+user-context-work2 =
+    .label = Trabayu
+user-context-banking2 =
+    .label = Bancu
+user-context-shopping2 =
+    .label = Tiendes
 
 ##
 
@@ -29,6 +35,12 @@ user-context-shopping-panel-item = Tiendes
     .accesskey = i
 user-context-manage-containers-panel-item = Xestionar los contenedores
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Xestionar los contenedores
+user-context-work2-panel-item = Trabayu
+user-context-banking2-panel-item = Bancu
+user-context-shopping2-panel-item = Tiendes
+user-context-manage-containers2-panel-item = Xestionar los contenedores
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

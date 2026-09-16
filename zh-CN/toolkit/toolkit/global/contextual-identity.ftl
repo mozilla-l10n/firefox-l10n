@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = 购物
     .accesskey = S
+user-context-personal2 =
+    .label = 私人
+user-context-work2 =
+    .label = 办公
+user-context-banking2 =
+    .label = 金融
+user-context-shopping2 =
+    .label = 购物
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = 添加新身份
     .accesskey = A
+user-context-new-tab2 =
+    .label = 新建标签页
+user-context-add-container2 =
+    .label = 添加新身份
+user-context-manage-containers2 =
+    .label = 管理身份
+user-context-personal2-panel-item = 私人
+user-context-work2-panel-item = 办公
+user-context-banking2-panel-item = 金融
+user-context-shopping2-panel-item = 购物
+user-context-new-tab2-panel-item = 新建标签页
+user-context-add-container2-panel-item = 添加新身份
+user-context-manage-containers2-panel-item = 管理身份
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

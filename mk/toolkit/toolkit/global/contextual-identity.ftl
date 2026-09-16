@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Пазарување
     .accesskey = з
+user-context-personal2 =
+    .label = Лично
+user-context-work2 =
+    .label = Работа
+user-context-banking2 =
+    .label = Банка
+user-context-shopping2 =
+    .label = Пазарување
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Пазарување
     .accesskey = з
 user-context-manage-containers-panel-item = Управувај со контејнери
     .accesskey = о
+user-context-manage-containers2 =
+    .label = Управувај со контејнери
+user-context-personal2-panel-item = Лично
+user-context-work2-panel-item = Работа
+user-context-banking2-panel-item = Банка
+user-context-shopping2-panel-item = Пазарување
+user-context-manage-containers2-panel-item = Управувај со контејнери
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

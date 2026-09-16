@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = การซื้อของ
     .accesskey = อ
+user-context-personal2 =
+    .label = ส่วนบุคคล
+user-context-work2 =
+    .label = งาน
+user-context-banking2 =
+    .label = ธนาคาร
+user-context-shopping2 =
+    .label = การซื้อของ
 
 ##
 
@@ -39,6 +47,16 @@ user-context-manage-containers-panel-item = จัดการที่แยก
 user-context-new-tab =
     .label = แท็บใหม่
     .accesskey = ห
+user-context-new-tab2 =
+    .label = แท็บใหม่
+user-context-manage-containers2 =
+    .label = จัดการที่แยกข้อมูล
+user-context-personal2-panel-item = ส่วนบุคคล
+user-context-work2-panel-item = งาน
+user-context-banking2-panel-item = ธนาคาร
+user-context-shopping2-panel-item = การซื้อของ
+user-context-new-tab2-panel-item = แท็บใหม่
+user-context-manage-containers2-panel-item = จัดการที่แยกข้อมูล
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

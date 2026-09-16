@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Mercau
     .accesskey = M
+user-context-personal2 =
+    .label = Personal
+user-context-work2 =
+    .label = Treballo
+user-context-banking2 =
+    .label = Banca
+user-context-shopping2 =
+    .label = Mercau
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Mercau
     .accesskey = M
 user-context-manage-containers-panel-item = Chestionar contenedors
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Chestionar contenedors
+user-context-personal2-panel-item = Personal
+user-context-work2-panel-item = Treballo
+user-context-banking2-panel-item = Banca
+user-context-shopping2-panel-item = Mercau
+user-context-manage-containers2-panel-item = Chestionar contenedors
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

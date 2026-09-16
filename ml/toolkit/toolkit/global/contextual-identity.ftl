@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = ഷോപ്പിംഗ്
     .accesskey = S
+user-context-personal2 =
+    .label = വ്യക്തിപരം
+user-context-work2 =
+    .label = ജോലി
+user-context-banking2 =
+    .label = ബാങ്കിങ്ങ്
+user-context-shopping2 =
+    .label = ഷോപ്പിംഗ്
 
 ##
 
@@ -29,6 +37,10 @@ user-context-banking-panel-item = ബാങ്കിങ്ങ്
     .accesskey = ബ
 user-context-shopping-panel-item = ഷോപ്പിംഗ്
     .accesskey = S
+user-context-personal2-panel-item = വ്യക്തിപരം
+user-context-work2-panel-item = ജോലി
+user-context-banking2-panel-item = ബാങ്കിങ്ങ്
+user-context-shopping2-panel-item = ഷോപ്പിംഗ്
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Αγορές
     .accesskey = ο
+user-context-personal2 =
+    .label = Προσωπικά
+user-context-work2 =
+    .label = Εργασία
+user-context-banking2 =
+    .label = Τραπεζική
+user-context-shopping2 =
+    .label = Αγορές
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Προσθήκη νέας θεματικής ενότητας
     .accesskey = α
+user-context-new-tab2 =
+    .label = Νέα καρτέλα
+user-context-add-container2 =
+    .label = Προσθήκη νέας θεματικής ενότητας
+user-context-manage-containers2 =
+    .label = Διαχείριση θεματικών ενοτήτων
+user-context-personal2-panel-item = Προσωπικά
+user-context-work2-panel-item = Εργασία
+user-context-banking2-panel-item = Τραπεζική
+user-context-shopping2-panel-item = Αγορές
+user-context-new-tab2-panel-item = Νέα καρτέλα
+user-context-add-container2-panel-item = Προσθήκη νέας θεματικής ενότητας
+user-context-manage-containers2-panel-item = Διαχείριση θεματικών ενοτήτων
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

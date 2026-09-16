@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Iepirkšanās
     .accesskey = S
+user-context-personal2 =
+    .label = Personīgais
+user-context-work2 =
+    .label = Darba
+user-context-banking2 =
+    .label = Finanšu
+user-context-shopping2 =
+    .label = Iepirkšanās
 
 ##
 
@@ -41,6 +49,17 @@ user-context-manage-containers-panel-item = Pārvaldīt konteinerus
 user-context-add-container =
     .label = Pievienot jaunu konteineru
     .accesskey = P
+user-context-add-container2 =
+    .label = Pievienot jaunu konteineru
+user-context-manage-containers2 =
+    .label = Pārvaldīt konteinerus
+user-context-personal2-panel-item = Personīgs
+user-context-work2-panel-item = Darba
+user-context-banking2-panel-item = Nauda
+user-context-shopping2-panel-item = Iepirkšanās
+user-context-new-tab2-panel-item = Jauna cilne
+user-context-add-container2-panel-item = Pievienot jaunu konteineru
+user-context-manage-containers2-panel-item = Pārvaldīt konteinerus
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

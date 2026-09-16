@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Siopa
     .accesskey = S
+user-context-personal2 =
+    .label = Personol
+user-context-work2 =
+    .label = Gwaith
+user-context-banking2 =
+    .label = Bancio
+user-context-shopping2 =
+    .label = Siopa
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Ychwanegu cynhwysydd newydd
     .accesskey = Y
+user-context-new-tab2 =
+    .label = Tab Newydd
+user-context-add-container2 =
+    .label = Ychwanegu cynhwysydd newydd
+user-context-manage-containers2 =
+    .label = Rheoli Cynwysyddion
+user-context-personal2-panel-item = Personol
+user-context-work2-panel-item = Gwaith
+user-context-banking2-panel-item = Bancio
+user-context-shopping2-panel-item = Siopa
+user-context-new-tab2-panel-item = Tab Newydd
+user-context-add-container2-panel-item = Ychwanegu cynhwysydd newydd
+user-context-manage-containers2-panel-item = Rheoli Cynwysyddion
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = ખરીદદારી
     .accesskey = S
+user-context-personal2 =
+    .label = ખાનગી
+user-context-work2 =
+    .label = કામ
+user-context-banking2 =
+    .label = બેન્કિંગ
+user-context-shopping2 =
+    .label = ખરીદદારી
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = ખરીદદારી
     .accesskey = S
 user-context-manage-containers-panel-item = કન્ટેનર્સનું સંચાલન
     .accesskey = O
+user-context-manage-containers2 =
+    .label = કન્ટેનર્સનું સંચાલન
+user-context-personal2-panel-item = ખાનગી
+user-context-work2-panel-item = કામ
+user-context-banking2-panel-item = બેન્કિંગ
+user-context-shopping2-panel-item = ખરીદદારી
+user-context-manage-containers2-panel-item = કન્ટેનર્સનું સંચાલન
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

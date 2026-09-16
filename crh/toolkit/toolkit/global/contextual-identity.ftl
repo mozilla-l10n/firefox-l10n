@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Alış-beriş
     .accesskey = A
+user-context-personal2 =
+    .label = Şahsiy
+user-context-work2 =
+    .label = İş
+user-context-banking2 =
+    .label = Bankçılıq
+user-context-shopping2 =
+    .label = Alış-beriş
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Alış-beriş
     .accesskey = A
 user-context-manage-containers-panel-item = Konteynerlerni İdare Et
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Konteynerlerni İdare Et
+user-context-personal2-panel-item = Şahsiy
+user-context-work2-panel-item = İş
+user-context-banking2-panel-item = Bankçılıq
+user-context-shopping2-panel-item = Alış-beriş
+user-context-manage-containers2-panel-item = Konteynerlerni İdare Et
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

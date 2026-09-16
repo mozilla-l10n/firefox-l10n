@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Nakupowanje
     .accesskey = N
+user-context-personal2 =
+    .label = Wosobinski
+user-context-work2 =
+    .label = Słužbny
+user-context-banking2 =
+    .label = Bankownistwo
+user-context-shopping2 =
+    .label = Nakupowanje
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Nowy kontejner přidać
     .accesskey = N
+user-context-new-tab2 =
+    .label = Nowy rajtark
+user-context-add-container2 =
+    .label = Nowy kontejner přidać
+user-context-manage-containers2 =
+    .label = Kontejnery rjadować
+user-context-personal2-panel-item = Wosobinski
+user-context-work2-panel-item = Słužbny
+user-context-banking2-panel-item = Bankownistwo
+user-context-shopping2-panel-item = Nakupowanje
+user-context-new-tab2-panel-item = Nowy rajtark
+user-context-add-container2-panel-item = Nowy kontejner přidać
+user-context-manage-containers2-panel-item = Kontejnery rjadować
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

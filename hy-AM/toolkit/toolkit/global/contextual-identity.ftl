@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Առևտուր
     .accesskey = S
+user-context-personal2 =
+    .label = Անձնական
+user-context-work2 =
+    .label = Աշխատանքային
+user-context-banking2 =
+    .label = Բանկային
+user-context-shopping2 =
+    .label = Առևտուր
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Առևտուր
     .accesskey = S
 user-context-manage-containers-panel-item = Կառավարեք պարունակները
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Կառավարեք պարունակները
+user-context-personal2-panel-item = Անձնական
+user-context-work2-panel-item = Աշխատանքային
+user-context-banking2-panel-item = Բանկային
+user-context-shopping2-panel-item = Առևտուր
+user-context-manage-containers2-panel-item = Կառավարեք պարունակները
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

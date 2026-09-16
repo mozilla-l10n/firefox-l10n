@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Nakupovanje
     .accesskey = N
+user-context-personal2 =
+    .label = Osebno
+user-context-work2 =
+    .label = Službeno
+user-context-banking2 =
+    .label = Bančništvo
+user-context-shopping2 =
+    .label = Nakupovanje
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Dodaj nov vsebnik
     .accesskey = a
+user-context-new-tab2 =
+    .label = Nov zavihek
+user-context-add-container2 =
+    .label = Dodaj nov vsebnik
+user-context-manage-containers2 =
+    .label = Upravljanje vsebnikov
+user-context-personal2-panel-item = Osebno
+user-context-work2-panel-item = Službeno
+user-context-banking2-panel-item = Bančništvo
+user-context-shopping2-panel-item = Nakupovanje
+user-context-new-tab2-panel-item = Nov zavihek
+user-context-add-container2-panel-item = Dodaj nov vsebnik
+user-context-manage-containers2-panel-item = Upravljanje vsebnikov
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

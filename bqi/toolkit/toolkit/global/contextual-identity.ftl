@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = استیڌن
     .accesskey = S
+user-context-personal2 =
+    .label = سیخومی
+user-context-work2 =
+    .label = کاری
+user-context-banking2 =
+    .label = بانکی
+user-context-shopping2 =
+    .label = استیڌن
 
 ##
 
@@ -39,6 +47,16 @@ user-context-manage-containers-panel-item = دؽوۉداری هاملا
 user-context-new-tab =
     .label = بلگه نۊ
     .accesskey = N
+user-context-new-tab2 =
+    .label = بلگه نۊ
+user-context-manage-containers2 =
+    .label = دؽوۉداری هاملا
+user-context-personal2-panel-item = سیخومی
+user-context-work2-panel-item = کاری
+user-context-banking2-panel-item = بانکی
+user-context-shopping2-panel-item = استیڌن
+user-context-new-tab2-panel-item = بلگه نۊ
+user-context-manage-containers2-panel-item = دؽوۉداری هاملا
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

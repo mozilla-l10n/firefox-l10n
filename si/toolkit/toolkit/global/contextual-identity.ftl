@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = සාප්පු සවාරි
     .accesskey = S
+user-context-personal2 =
+    .label = පෞද්ගලික
+user-context-work2 =
+    .label = වැඩ
+user-context-banking2 =
+    .label = බැංකුකරණ
+user-context-shopping2 =
+    .label = සාප්පු සවාරි
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = සාප්පු සවාරි
     .accesskey = S
 user-context-manage-containers-panel-item = අඩංගු කළමනාකරණය
     .accesskey = o
+user-context-manage-containers2 =
+    .label = අඩංගු කළමනාකරණය
+user-context-personal2-panel-item = පෞද්ගලික
+user-context-work2-panel-item = වැඩ
+user-context-banking2-panel-item = බැංකුකරණ
+user-context-shopping2-panel-item = සාප්පු සවාරි
+user-context-manage-containers2-panel-item = අඩංගු කළමනාකරණය
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

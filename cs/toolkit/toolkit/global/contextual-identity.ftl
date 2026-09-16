@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Nakupování
     .accesskey = N
+user-context-personal2 =
+    .label = Osobní
+user-context-work2 =
+    .label = Pracovní
+user-context-banking2 =
+    .label = Bankovnictví
+user-context-shopping2 =
+    .label = Nakupování
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Přidat nový kontejner
     .accesskey = k
+user-context-new-tab2 =
+    .label = Nový panel
+user-context-add-container2 =
+    .label = Přidat nový kontejner
+user-context-manage-containers2 =
+    .label = Správa kontejnerů
+user-context-personal2-panel-item = Osobní
+user-context-work2-panel-item = Pracovní
+user-context-banking2-panel-item = Bankovnictví
+user-context-shopping2-panel-item = Nakupování
+user-context-new-tab2-panel-item = Nový panel
+user-context-add-container2-panel-item = Přidat nový kontejner
+user-context-manage-containers2-panel-item = Správa kontejnerů
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

@@ -15,6 +15,12 @@ user-context-work =
 user-context-shopping =
     .label = Meubloe
     .accesskey = S
+user-context-personal2 =
+    .label = Pribadi
+user-context-work2 =
+    .label = Keurija
+user-context-shopping2 =
+    .label = Meubloe
 
 ##
 
@@ -24,6 +30,9 @@ user-context-work-panel-item = Keurija
     .accesskey = W
 user-context-shopping-panel-item = Meubloe
     .accesskey = S
+user-context-personal2-panel-item = Pribadi
+user-context-work2-panel-item = Keurija
+user-context-shopping2-panel-item = Meubloe
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

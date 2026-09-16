@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Tiɣin
     .accesskey = T
+user-context-personal2 =
+    .label = Udmawan
+user-context-work2 =
+    .label = Amahil
+user-context-banking2 =
+    .label = Banking
+user-context-shopping2 =
+    .label = Tiɣin
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Tiɣin
     .accesskey = T
 user-context-manage-containers-panel-item = Sefrek imagbaren
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Sefrek imagbaren
+user-context-personal2-panel-item = Udmawan
+user-context-work2-panel-item = Amahil
+user-context-banking2-panel-item = Banking
+user-context-shopping2-panel-item = Tiɣin
+user-context-manage-containers2-panel-item = Sefrek imagbaren
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

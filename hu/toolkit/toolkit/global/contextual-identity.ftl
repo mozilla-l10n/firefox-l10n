@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Vásárlás
     .accesskey = V
+user-context-personal2 =
+    .label = Személyes
+user-context-work2 =
+    .label = Munkahelyi
+user-context-banking2 =
+    .label = Bankolás
+user-context-shopping2 =
+    .label = Vásárlás
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Új konténer hozzáadása
     .accesskey = a
+user-context-new-tab2 =
+    .label = Új lap
+user-context-add-container2 =
+    .label = Új konténer hozzáadása
+user-context-manage-containers2 =
+    .label = Konténerek kezelése
+user-context-personal2-panel-item = Személyes
+user-context-work2-panel-item = Munkahelyi
+user-context-banking2-panel-item = Bankolás
+user-context-shopping2-panel-item = Vásárlás
+user-context-new-tab2-panel-item = Új lap
+user-context-add-container2-panel-item = Új konténer hozzáadása
+user-context-manage-containers2-panel-item = Konténerek kezelése
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

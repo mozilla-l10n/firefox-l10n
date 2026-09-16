@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Kupovina
     .accesskey = K
+user-context-personal2 =
+    .label = Osobno
+user-context-work2 =
+    .label = Posao
+user-context-banking2 =
+    .label = Bankarstvo
+user-context-shopping2 =
+    .label = Kupovina
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Kupovina
     .accesskey = K
 user-context-manage-containers-panel-item = Upravljaj kontejnerima
     .accesskey = s
+user-context-manage-containers2 =
+    .label = Upravljaj kontejnerima
+user-context-personal2-panel-item = Osobno
+user-context-work2-panel-item = Posao
+user-context-banking2-panel-item = Bankarstvo
+user-context-shopping2-panel-item = Kupovina
+user-context-manage-containers2-panel-item = Upravljaj kontejnerima
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

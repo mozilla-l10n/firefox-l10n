@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Seopadaireachd
     .accesskey = S
+user-context-personal2 =
+    .label = Pearsanta
+user-context-work2 =
+    .label = Obair
+user-context-banking2 =
+    .label = Bancaireachd
+user-context-shopping2 =
+    .label = Seopadaireachd
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Seopadaireachd
     .accesskey = S
 user-context-manage-containers-panel-item = Stiùirich na soithichean
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Stiùirich na soithichean
+user-context-personal2-panel-item = Pearsanta
+user-context-work2-panel-item = Obair
+user-context-banking2-panel-item = Bancaireachd
+user-context-shopping2-panel-item = Seopadaireachd
+user-context-manage-containers2-panel-item = Stiùirich na soithichean
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

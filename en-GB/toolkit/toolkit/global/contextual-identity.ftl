@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Shopping
     .accesskey = S
+user-context-personal2 =
+    .label = Personal
+user-context-work2 =
+    .label = Work
+user-context-banking2 =
+    .label = Banking
+user-context-shopping2 =
+    .label = Shopping
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Add new container
     .accesskey = A
+user-context-new-tab2 =
+    .label = New Tab
+user-context-add-container2 =
+    .label = Add new container
+user-context-manage-containers2 =
+    .label = Manage containers
+user-context-personal2-panel-item = Personal
+user-context-work2-panel-item = Work
+user-context-banking2-panel-item = Banking
+user-context-shopping2-panel-item = Shopping
+user-context-new-tab2-panel-item = New Tab
+user-context-add-container2-panel-item = Add new container
+user-context-manage-containers2-panel-item = Manage containers
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

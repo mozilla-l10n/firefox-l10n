@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Negòççi
     .accesskey = N
+user-context-personal2 =
+    .label = Personâ
+user-context-work2 =
+    .label = Travaggio
+user-context-banking2 =
+    .label = Banca
+user-context-shopping2 =
+    .label = Negòççi
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Negòççi
     .accesskey = N
 user-context-manage-containers-panel-item = Gestisci contegnitoî
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Gestisci contegnitoî
+user-context-personal2-panel-item = Personâ
+user-context-work2-panel-item = Travaggio
+user-context-banking2-panel-item = Banca
+user-context-shopping2-panel-item = Negòççi
+user-context-manage-containers2-panel-item = Gestisci contegnitoî
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Pamimili
     .accesskey = S
+user-context-personal2 =
+    .label = Personal
+user-context-work2 =
+    .label = Trabaho
+user-context-banking2 =
+    .label = Pagbabangko
+user-context-shopping2 =
+    .label = Pamimili
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Pamimili
     .accesskey = S
 user-context-manage-containers-panel-item = Manage Containers
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Manage Containers
+user-context-personal2-panel-item = Personal
+user-context-work2-panel-item = Trabaho
+user-context-banking2-panel-item = Pagbabangko
+user-context-shopping2-panel-item = Pamimili
+user-context-manage-containers2-panel-item = Manage Containers
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

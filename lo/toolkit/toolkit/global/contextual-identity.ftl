@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = ຊັອບ​ປິ່ງ
     .accesskey = S
+user-context-personal2 =
+    .label = ສ່ວນຕົວ
+user-context-work2 =
+    .label = ວຽກ
+user-context-banking2 =
+    .label = ທະນາຄານ
+user-context-shopping2 =
+    .label = ຊັອບ​ປິ່ງ
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = ຊັອບ​ປິ່ງ
     .accesskey = S
 user-context-manage-containers-panel-item = ຈັດການການແຍກຂໍ້ມູນ
     .accesskey = O
+user-context-manage-containers2 =
+    .label = ຈັດການການແຍກຂໍ້ມູນ
+user-context-personal2-panel-item = ສ່ວນຕົວ
+user-context-work2-panel-item = ວຽກ
+user-context-banking2-panel-item = ທະນາຄານ
+user-context-shopping2-panel-item = ຊັອບ​ປິ່ງ
+user-context-manage-containers2-panel-item = ຈັດການການແຍກຂໍ້ມູນ
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

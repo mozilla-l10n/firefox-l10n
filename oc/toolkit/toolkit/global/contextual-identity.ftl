@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Crompas
     .accesskey = C
+user-context-personal2 =
+    .label = Personal
+user-context-work2 =
+    .label = Trabalh
+user-context-banking2 =
+    .label = Banca
+user-context-shopping2 =
+    .label = Crompas
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Crompas
     .accesskey = C
 user-context-manage-containers-panel-item = Gerir los contenedors
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Gerir los contenedors
+user-context-personal2-panel-item = Personal
+user-context-work2-panel-item = Trabalh
+user-context-banking2-panel-item = Banca
+user-context-shopping2-panel-item = Crompas
+user-context-manage-containers2-panel-item = Gerir los contenedors
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

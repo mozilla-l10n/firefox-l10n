@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Shopping
     .accesskey = S
+user-context-personal2 =
+    .label = Personligt
+user-context-work2 =
+    .label = Arbete
+user-context-banking2 =
+    .label = Bank
+user-context-shopping2 =
+    .label = Shopping
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Lägg till ny behållare
     .accesskey = L
+user-context-new-tab2 =
+    .label = Ny flik
+user-context-add-container2 =
+    .label = Lägg till ny behållare
+user-context-manage-containers2 =
+    .label = Hantera behållare
+user-context-personal2-panel-item = Personligt
+user-context-work2-panel-item = Arbete
+user-context-banking2-panel-item = Bank
+user-context-shopping2-panel-item = Shopping
+user-context-new-tab2-panel-item = Ny flik
+user-context-add-container2-panel-item = Lägg till ny behållare
+user-context-manage-containers2-panel-item = Hantera behållare
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

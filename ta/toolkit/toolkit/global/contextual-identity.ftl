@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = பொருள்வாங்கல்
     .accesskey = S
+user-context-personal2 =
+    .label = தனிப்பட்ட
+user-context-work2 =
+    .label = பணி
+user-context-banking2 =
+    .label = வங்கியியல்
+user-context-shopping2 =
+    .label = பொருள்வாங்கல்
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = பொருள்வாங்கல்
     .accesskey = S
 user-context-manage-containers-panel-item = கலன்களை நிர்வகி
     .accesskey = O
+user-context-manage-containers2 =
+    .label = கலன்களை நிர்வகி
+user-context-personal2-panel-item = தனிப்பட்ட
+user-context-work2-panel-item = பணி
+user-context-banking2-panel-item = வங்கியியல்
+user-context-shopping2-panel-item = பொருள்வாங்கல்
+user-context-manage-containers2-panel-item = கலன்களை நிர்வகி
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

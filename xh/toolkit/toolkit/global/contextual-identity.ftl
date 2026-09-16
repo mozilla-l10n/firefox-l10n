@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Ukuthenga
     .accesskey = U
+user-context-personal2 =
+    .label = Ezobuqu
+user-context-work2 =
+    .label = Umsebenzi
+user-context-banking2 =
+    .label = Ukubhankisha
+user-context-shopping2 =
+    .label = Ukuthenga
 
 ##
 
@@ -29,6 +37,10 @@ user-context-banking-panel-item = Ukubhankisha
     .accesskey = U
 user-context-shopping-panel-item = Ukuthenga
     .accesskey = U
+user-context-personal2-panel-item = Ezobuqu
+user-context-work2-panel-item = Umsebenzi
+user-context-banking2-panel-item = Ukubhankisha
+user-context-shopping2-panel-item = Ukuthenga
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

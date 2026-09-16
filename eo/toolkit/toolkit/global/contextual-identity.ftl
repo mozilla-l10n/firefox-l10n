@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Aĉetumado
     .accesskey = A
+user-context-personal2 =
+    .label = Persona
+user-context-work2 =
+    .label = Laboro
+user-context-banking2 =
+    .label = Banka
+user-context-shopping2 =
+    .label = Aĉetumado
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Aldoni novan ingon
     .accesskey = A
+user-context-new-tab2 =
+    .label = Nova langeto
+user-context-add-container2 =
+    .label = Aldoni novan ingon
+user-context-manage-containers2 =
+    .label = Administri ingojn
+user-context-personal2-panel-item = Persona
+user-context-work2-panel-item = Laboro
+user-context-banking2-panel-item = Banka
+user-context-shopping2-panel-item = Aĉetumado
+user-context-new-tab2-panel-item = Nova langeto
+user-context-add-container2-panel-item = Aldoni novan ingon
+user-context-manage-containers2-panel-item = Administri ingojn
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

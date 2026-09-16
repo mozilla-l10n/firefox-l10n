@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Харидорӣ
     .accesskey = S
+user-context-personal2 =
+    .label = Шахсӣ
+user-context-work2 =
+    .label = Корӣ
+user-context-banking2 =
+    .label = Бонкӣ
+user-context-shopping2 =
+    .label = Харидорӣ
 
 ##
 
@@ -39,6 +47,16 @@ user-context-manage-containers-panel-item = Идоракунии дарбарг�
 user-context-new-tab =
     .label = Варақаи нав
     .accesskey = В
+user-context-new-tab2 =
+    .label = Варақаи нав
+user-context-manage-containers2 =
+    .label = Идоракунии дарбаргирандаҳо
+user-context-personal2-panel-item = Шахсӣ
+user-context-work2-panel-item = Корӣ
+user-context-banking2-panel-item = Бонкӣ
+user-context-shopping2-panel-item = Харидорӣ
+user-context-new-tab2-panel-item = Варақаи нав
+user-context-manage-containers2-panel-item = Идоракунии дарбаргирандаҳо
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

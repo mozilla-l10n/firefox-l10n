@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Шоппинг
     .accesskey = Ш
+user-context-personal2 =
+    .label = Жеке
+user-context-work2 =
+    .label = Жұмыс
+user-context-banking2 =
+    .label = Банкинг
+user-context-shopping2 =
+    .label = Шоппинг
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Жаңа контейнерді қосу
     .accesskey = а
+user-context-new-tab2 =
+    .label = Жаңа бет
+user-context-add-container2 =
+    .label = Жаңа контейнерді қосу
+user-context-manage-containers2 =
+    .label = Контейнерлерді басқару
+user-context-personal2-panel-item = Жеке
+user-context-work2-panel-item = Жұмыс
+user-context-banking2-panel-item = Банкинг
+user-context-shopping2-panel-item = Шоппинг
+user-context-new-tab2-panel-item = Жаңа бет
+user-context-add-container2-panel-item = Жаңа контейнерді қосу
+user-context-manage-containers2-panel-item = Контейнерлерді басқару
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

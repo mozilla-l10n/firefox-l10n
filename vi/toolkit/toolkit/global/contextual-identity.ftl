@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Mua sắm
     .accesskey = S
+user-context-personal2 =
+    .label = Cá nhân
+user-context-work2 =
+    .label = Công việc
+user-context-banking2 =
+    .label = Ngân hàng
+user-context-shopping2 =
+    .label = Mua sắm
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Thêm ngăn chứa mới
     .accesskey = A
+user-context-new-tab2 =
+    .label = Không ngăn chứa
+user-context-add-container2 =
+    .label = Thêm ngăn chứa mới
+user-context-manage-containers2 =
+    .label = Quản lý ngăn chứa
+user-context-personal2-panel-item = Cá nhân
+user-context-work2-panel-item = Công việc
+user-context-banking2-panel-item = Ngân hàng
+user-context-shopping2-panel-item = Mua sắm
+user-context-new-tab2-panel-item = Không ngăn chứa
+user-context-add-container2-panel-item = Thêm ngăn chứa mới
+user-context-manage-containers2-panel-item = Quản lý ngăn chứa
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

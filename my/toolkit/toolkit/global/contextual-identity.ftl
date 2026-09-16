@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = စျေးဝယ်ခြင်း
     .accesskey = S
+user-context-personal2 =
+    .label = ကိုယ်ရေးကိုယ်တာ
+user-context-work2 =
+    .label = အလုပ်
+user-context-banking2 =
+    .label = ဘဏ်လုပ်ငန်းဆိုင်ရာ
+user-context-shopping2 =
+    .label = စျေးဝယ်ခြင်း
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = စျေးဝယ်ခြင်း
     .accesskey = S
 user-context-manage-containers-panel-item = ကွန်တိန်နာများ စီမံရန်
     .accesskey = က
+user-context-manage-containers2 =
+    .label = ကွန်တိန်နာများ စီမံရန်
+user-context-personal2-panel-item = ကိုယ်ရေးကိုယ်တာ
+user-context-work2-panel-item = အလုပ်
+user-context-banking2-panel-item = ဘဏ်လုပ်ငန်းဆိုင်ရာ
+user-context-shopping2-panel-item = စျေးဝယ်ခြင်း
+user-context-manage-containers2-panel-item = ကွန်တိန်နာများ စီမံရန်
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

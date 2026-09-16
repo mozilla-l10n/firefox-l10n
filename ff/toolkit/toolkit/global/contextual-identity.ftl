@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Coodayru
     .accesskey = C
+user-context-personal2 =
+    .label = Keeriiɗo
+user-context-work2 =
+    .label = Gollirdu
+user-context-banking2 =
+    .label = Bankayru
+user-context-shopping2 =
+    .label = Coodayru
 
 ##
 
@@ -34,6 +42,13 @@ user-context-shopping-panel-item = Coodayru
     .accesskey = C
 user-context-manage-containers-panel-item = Toppito baɗirɗe
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Toppito baɗirɗe
+user-context-personal2-panel-item = Keeriiɗo
+user-context-work2-panel-item = Gollirdu
+user-context-banking2-panel-item = Bankayru
+user-context-shopping2-panel-item = Coodayru
+user-context-manage-containers2-panel-item = Toppito baɗirɗe
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

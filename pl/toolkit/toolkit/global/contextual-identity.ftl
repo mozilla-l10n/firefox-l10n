@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Zakupy
     .accesskey = Z
+user-context-personal2 =
+    .label = Osobiste
+user-context-work2 =
+    .label = Praca
+user-context-banking2 =
+    .label = Bankowość
+user-context-shopping2 =
+    .label = Zakupy
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Dodaj kontener
     .accesskey = D
+user-context-new-tab2 =
+    .label = Nowa karta
+user-context-add-container2 =
+    .label = Dodaj kontener
+user-context-manage-containers2 =
+    .label = Zarządzaj kontenerami
+user-context-personal2-panel-item = Osobiste
+user-context-work2-panel-item = Praca
+user-context-banking2-panel-item = Bankowość
+user-context-shopping2-panel-item = Zakupy
+user-context-new-tab2-panel-item = Nowa karta
+user-context-add-container2-panel-item = Dodaj kontener
+user-context-manage-containers2-panel-item = Zarządzaj kontenerami
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

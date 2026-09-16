@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Erosketak
     .accesskey = E
+user-context-personal2 =
+    .label = Pertsonala
+user-context-work2 =
+    .label = Lanekoa
+user-context-banking2 =
+    .label = Banka
+user-context-shopping2 =
+    .label = Erosketak
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Gehitu edukiontzi berria
     .accesskey = G
+user-context-new-tab2 =
+    .label = Fitxa berria
+user-context-add-container2 =
+    .label = Gehitu edukiontzi berria
+user-context-manage-containers2 =
+    .label = Kudeatu edukiontziak
+user-context-personal2-panel-item = Pertsonala
+user-context-work2-panel-item = Lanekoa
+user-context-banking2-panel-item = Banka
+user-context-shopping2-panel-item = Erosketak
+user-context-new-tab2-panel-item = Fitxa berria
+user-context-add-container2-panel-item = Gehitu edukiontzi berria
+user-context-manage-containers2-panel-item = Kudeatu edukiontziak
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

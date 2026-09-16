@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Kaupat
     .accesskey = K
+user-context-personal2 =
+    .label = Omat
+user-context-work2 =
+    .label = Työ
+user-context-banking2 =
+    .label = Raha
+user-context-shopping2 =
+    .label = Kaupat
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Lisää uusi eristystila
     .accesskey = a
+user-context-new-tab2 =
+    .label = Uusi välilehti
+user-context-add-container2 =
+    .label = Lisää uusi eristystila
+user-context-manage-containers2 =
+    .label = Muokkaa eristystiloja
+user-context-personal2-panel-item = Omat
+user-context-work2-panel-item = Työ
+user-context-banking2-panel-item = Raha
+user-context-shopping2-panel-item = Kaupat
+user-context-new-tab2-panel-item = Uusi välilehti
+user-context-add-container2-panel-item = Lisää uusi eristystila
+user-context-manage-containers2-panel-item = Muokkaa eristystiloja
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Пакупкі
     .accesskey = П
+user-context-personal2 =
+    .label = Асабісты
+user-context-work2 =
+    .label = Праца
+user-context-banking2 =
+    .label = Банкінг
+user-context-shopping2 =
+    .label = Пакупкі
 
 ##
 
@@ -44,6 +52,19 @@ user-context-new-tab =
 user-context-add-container =
     .label = Дадаць новы кантэйнер
     .accesskey = Д
+user-context-new-tab2 =
+    .label = Новая картка
+user-context-add-container2 =
+    .label = Дадаць новы кантэйнер
+user-context-manage-containers2 =
+    .label = Кіраваць кантэйнерамі
+user-context-personal2-panel-item = Асабісты
+user-context-work2-panel-item = Праца
+user-context-banking2-panel-item = Банкінг
+user-context-shopping2-panel-item = Пакупкі
+user-context-new-tab2-panel-item = Новая картка
+user-context-add-container2-panel-item = Дадаць новы кантэйнер
+user-context-manage-containers2-panel-item = Кіраваць кантэйнерамі
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
