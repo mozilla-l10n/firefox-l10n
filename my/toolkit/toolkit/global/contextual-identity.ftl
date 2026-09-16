@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = ကွန်တိန်နာမျ
     .accesskey = က
 user-context-manage-containers2 =
     .label = ကွန်တိန်နာများ စီမံရန်
+user-context-personal2-panel-item = ကိုယ်ရေးကိုယ်တာ
+user-context-work2-panel-item = အလုပ်
+user-context-banking2-panel-item = ဘဏ်လုပ်ငန်းဆိုင်ရာ
+user-context-shopping2-panel-item = စျေးဝယ်ခြင်း
+user-context-manage-containers2-panel-item = ကွန်တိန်နာများ စီမံရန်
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
