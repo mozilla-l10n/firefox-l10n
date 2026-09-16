@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Adaugă un container nou
 user-context-manage-containers2 =
     .label = Gestionează containerele
+user-context-personal2-panel-item = Personale
+user-context-work2-panel-item = Lucru
+user-context-banking2-panel-item = Banking
+user-context-shopping2-panel-item = Cumpărături
+user-context-new-tab2-panel-item = Filă nouă
+user-context-add-container2-panel-item = Adaugă un container nou
+user-context-manage-containers2-panel-item = Gestionează containerele
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
