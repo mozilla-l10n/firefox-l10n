@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Erosketak
     .accesskey = E
+user-context-personal2 =
+    .label = Pertsonala
+user-context-work2 =
+    .label = Lanekoa
+user-context-banking2 =
+    .label = Banka
+user-context-shopping2 =
+    .label = Erosketak
 
 ##
 
