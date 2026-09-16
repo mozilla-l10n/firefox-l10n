@@ -49,7 +49,7 @@
 -firefox-home-brand-name = Firefox मुख्य पृष्ठ
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
--firefoxview-brand-name = Firefox View
+-firefoxview-brand-name = Firefox व्यू
 # Firefox Labs is the name for a page in Settings to allow users to learn about
 # experimental and in-development features, and turn those features on and off.
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
@@ -57,6 +57,6 @@
 -firefoxlabs-brand-name = Firefox Labs
 -smart-window-brand-name =
     { $plural-form ->
-        [true] Smart Windows
-       *[false] Smart Window
+        [true] स्मार्ट विंडोज़
+       *[false] स्मार्ट विंडो
     }

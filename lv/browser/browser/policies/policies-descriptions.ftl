@@ -79,7 +79,7 @@ policy-FirefoxHome2 = Konfigurēt { -firefox-home-brand-name }.
 policy-FirefoxSuggest = Konfigurēt { -firefox-suggest-brand-name }.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Piespiest skatīties iekšējā tīkla vietnēs, nevis meklēt, kad adreses joslā ieraksta vienu vārdu.
 policy-Handlers = Konfigurēt noklusējuma lietotņu apstrādātājus.
-policy-HardwareAcceleration = Ja atslēgts (false), atslēdz aparatūras paātrināšanu.
+policy-HardwareAcceleration = Ja atslēgts (false), izslēdz aparatūras paātrināšanu.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Iestata un iespējams slēdz sākuma lapu.
 policy-HttpAllowlist = Izcelsmes, kuras netiks uzlabotas uz HTTPS.

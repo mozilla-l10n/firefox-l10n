@@ -48,7 +48,7 @@ cookie-tab-content = Šīs sīkdatnes seko Tev no vietnes uz vietni, lai ievākt
 tracker-tab-title = Izsekošanas saturs
 tracker-tab-description = Vietnes var ielādēt ārējas reklāmas, videoklipus un citu saturu ar izsekošanas kodu. Izsekošanas satura liegšana var palīdzēt vietnēm ielādēties ātrāk, taču dažas pogas, veidlapas un pieteikšanās lauki var nedarboties. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 fingerprinter-tab-title = Ciparnospiedumi
-fingerprinter-tab-content = Ciparnospiedumi apkopo iestatījumus no jūsu pārlūkprogrammas un datora, lai izveidotu jūsu profilu. Izmantojot šo digitālo nospiedumu, viņi var izsekot jums dažādās vietnēs. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
+fingerprinter-tab-content = Ciparnospiedumi apkopo iestatījumus no pārlūka un datora, lai izveidotu Tevis raksturojumu. Ar šo ciparnospiedumu viņi var izsekot Tevi dažādās tīmekļvietnēs. <a data-l10n-name="learn-more-link">Uzzināt vairāk</a>
 cryptominer-tab-title = Kriptominētāji
 cryptominer-tab-content = Kriptominētāji izmanto jūsu sistēmas skaitļošanas jaudu, lai iegūtu digitālo naudu. Kriptominētāju skripti iztukšo akumulatoru, palēnina datora darbību un var palielināt rēķinu par elektrību. <a data-l10n-name="learn-more-link">Uzziniet vairāk</a>
 protections-close-button2 =
