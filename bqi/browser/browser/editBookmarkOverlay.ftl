@@ -34,3 +34,4 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = نشووݩ داڌن پوی برچسبا
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = بؽڌار کردن
+bookmark-overlay-tags-caption-label = سی سازمووݩ دهی وو پیتینیڌن نشووکا من نوار نشۊوی، برچسبا ن و کار بگرین
