@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = הוספת מגירה חדשה
 user-context-manage-containers2 =
     .label = ניהול מגירות
+user-context-personal2-panel-item = פרטי
+user-context-work2-panel-item = עבודה
+user-context-banking2-panel-item = בנקאות
+user-context-shopping2-panel-item = קניות
+user-context-new-tab2-panel-item = לשונית חדשה
+user-context-add-container2-panel-item = הוספת מגירה חדשה
+user-context-manage-containers2-panel-item = ניהול מגירות
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
