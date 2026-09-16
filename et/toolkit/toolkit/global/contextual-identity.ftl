@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Halda konteinereid
     .accesskey = H
 user-context-manage-containers2 =
     .label = Halda konteinereid
+user-context-personal2-panel-item = Isiklik
+user-context-work2-panel-item = Töö
+user-context-banking2-panel-item = Pangandus
+user-context-shopping2-panel-item = Poodlemine
+user-context-manage-containers2-panel-item = Halda konteinereid
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
