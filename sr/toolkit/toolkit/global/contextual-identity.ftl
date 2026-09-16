@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Додај нови контејнер
     .accesskey = Д
+user-context-new-tab2 =
+    .label = Нови језичак
+user-context-add-container2 =
+    .label = Додај нови контејнер
 user-context-manage-containers2 =
     .label = Управљај контејнерима
 
