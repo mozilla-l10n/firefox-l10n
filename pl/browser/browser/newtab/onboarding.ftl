@@ -544,6 +544,22 @@ onboarding-refresh-gratitude-title = { -brand-short-name } jest po Twojej stroni
 onboarding-refresh-splash-screen-title = { -brand-product-name } zawsze jest po Twojej stronie
 onboarding-refresh-hero-text = Zbudowany do ochrony, a nie do śledzenia.
 onboarding-refresh-tou-default = Otwieraj wszystkie odnośniki w { -brand-short-name(case: "loc") }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Zatrzymaj { -brand-short-name(case: "acc") } w Docku
+       *[other] Dodaj { -brand-short-name(case: "acc") } do paska zadań
+    }
+onboarding-refresh-tou-default-unchecked = Korzystaj z wbudowanej ochrony zawsze, kiedy przeglądasz Internet
+onboarding-refresh-tou-pin-unchecked = Jedyna duża niezależna przeglądarka pod jednym kliknięciem
+onboarding-refresh-terms-of-use-with-links = Kontynuując, zgadzasz się na <a data-l10n-name="terms_of_use">warunki korzystania z { -brand-product-name(case: "gen") }</a> i nasze <a data-l10n-name="privacy_notice">zasady ochrony prywatności</a>. Aby pomóc w ulepszaniu przeglądarki, { -brand-product-name } wysyła dane diagnostyczne i o interakcjach do { -vendor-short-name(case: "gen") }.
+onboarding-refresh-data-collection-link = Ustawienia zbierania danych
+onboarding-refresh-primary-button = Kontynuuj
+onboarding-refresh-fro-import-header = Przenieś swoje dane
+onboarding-refresh-fro-import-body = Twoje prywatne dane zawsze będą prywatne. { -brand-product-name } nigdy ich nie sprzeda.
+onboarding-refresh-fro-skip-button = Pomiń
+onboarding-refresh-fro-theme-header = Pobaw się wyglądem przeglądarki
+onboarding-refresh-tab-layout-header = Wypróbuj inny układ kart
+onboarding-refresh-tab-layout-top = Na górze
 
 ## Smart window switcher callout
 
