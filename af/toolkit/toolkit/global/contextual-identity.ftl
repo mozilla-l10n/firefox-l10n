@@ -37,6 +37,10 @@ user-context-banking-panel-item = Bankdienste
     .accesskey = B
 user-context-shopping-panel-item = Inkopies
     .accesskey = s
+user-context-personal2-panel-item = Persoonlik
+user-context-work2-panel-item = Werk
+user-context-banking2-panel-item = Bankdienste
+user-context-shopping2-panel-item = Inkopies
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
