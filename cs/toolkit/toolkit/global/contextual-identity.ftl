@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Přidat nový kontejner
     .accesskey = k
+user-context-new-tab2 =
+    .label = Nový panel
+user-context-add-container2 =
+    .label = Přidat nový kontejner
 user-context-manage-containers2 =
     .label = Správa kontejnerů
 
