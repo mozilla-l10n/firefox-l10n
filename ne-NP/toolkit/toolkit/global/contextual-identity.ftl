@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = किनमेल
     .accesskey = क
+user-context-personal2 =
+    .label = व्यक्तिगत
+user-context-work2 =
+    .label = काम
+user-context-banking2 =
+    .label = बैङ्किङ
+user-context-shopping2 =
+    .label = किनमेल
 
 ##
 
