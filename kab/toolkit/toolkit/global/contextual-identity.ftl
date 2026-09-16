@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Tiɣin
     .accesskey = T
 user-context-manage-containers-panel-item = Sefrek imagbaren
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Sefrek imagbaren
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
