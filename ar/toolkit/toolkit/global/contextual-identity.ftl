@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = أضف حاوية جديدة
     .accesskey = ض
+user-context-manage-containers2 =
+    .label = أدِر الحاويات
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
