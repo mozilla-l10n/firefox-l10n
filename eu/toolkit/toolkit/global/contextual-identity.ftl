@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Gehitu edukiontzi berria
     .accesskey = G
+user-context-manage-containers2 =
+    .label = Kudeatu edukiontziak
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
