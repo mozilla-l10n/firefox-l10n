@@ -42,6 +42,8 @@ user-context-shopping-panel-item = خرید
     .accesskey = خ
 user-context-manage-containers-panel-item = مدیریت کانتینرها
     .accesskey = O
+user-context-manage-containers2 =
+    .label = مدیریت کانتینرها
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
