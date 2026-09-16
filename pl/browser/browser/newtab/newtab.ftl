@@ -757,7 +757,7 @@ newtab-carousel-play =
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
 newtab-error-fallback-info = Coś się nie powiodło podczas wczytywania tej treści
-newtab-error-fallback-refresh-link = Odśwież stronę, by spróbować ponownie
+newtab-error-fallback-refresh-link = Odśwież stronę, aby spróbować ponownie
 
 ## New Tab Appearance (browser theme picker)
 

@@ -560,6 +560,14 @@ onboarding-refresh-fro-skip-button = Pomiń
 onboarding-refresh-fro-theme-header = Pobaw się wyglądem przeglądarki
 onboarding-refresh-tab-layout-header = Wypróbuj inny układ kart
 onboarding-refresh-tab-layout-top = Na górze
+onboarding-refresh-tab-layout-side = Z boku
+onboarding-refresh-tab-layout-minimal = Minimalistyczny
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Okno przeglądarki z kartami wyświetlanymi jako małe ikony z boku ekranu w zminimalizowanym panelu bocznym.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Okno przeglądarki z kartami wyświetlanymi jako małe ikony z boku ekranu w zminimalizowanym panelu bocznym.
 
 ## Smart window switcher callout
 
