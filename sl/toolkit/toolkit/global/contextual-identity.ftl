@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Dodaj nov vsebnik
     .accesskey = a
+user-context-manage-containers2 =
+    .label = Upravljanje vsebnikov
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
