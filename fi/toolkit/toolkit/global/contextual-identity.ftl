@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Lisää uusi eristystila
     .accesskey = a
+user-context-manage-containers2 =
+    .label = Muokkaa eristystiloja
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
