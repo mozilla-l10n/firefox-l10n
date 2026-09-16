@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = 新しいコンテナーを追加
     .accesskey = A
+user-context-new-tab2 =
+    .label = 新しいタブ
+user-context-add-container2 =
+    .label = 新しいコンテナーを追加
 user-context-manage-containers2 =
     .label = コンテナーを管理
 
