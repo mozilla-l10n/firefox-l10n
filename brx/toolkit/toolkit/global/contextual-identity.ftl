@@ -12,6 +12,10 @@ user-context-personal =
 user-context-work =
     .label = खामानि
     .accesskey = W
+user-context-personal2 =
+    .label = निजि
+user-context-work2 =
+    .label = खामानि
 
 ##
 
@@ -24,6 +28,8 @@ user-context-work-panel-item = खामानि
     .accesskey = W
 user-context-manage-containers-panel-item = खनथेनारफोरखौ सामलाय
     .accesskey = O
+user-context-manage-containers2 =
+    .label = खनथेनारफोरखौ सामलाय
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
