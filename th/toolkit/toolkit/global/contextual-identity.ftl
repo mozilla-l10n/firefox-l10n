@@ -22,6 +22,10 @@ user-context-personal2 =
     .label = ส่วนบุคคล
 user-context-work2 =
     .label = งาน
+user-context-banking2 =
+    .label = ธนาคาร
+user-context-shopping2 =
+    .label = การซื้อของ
 
 ##
 
