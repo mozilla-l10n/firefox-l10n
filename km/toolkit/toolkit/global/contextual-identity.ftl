@@ -42,6 +42,8 @@ user-context-shopping-panel-item = ការ​ទិញ
     .accesskey = S
 user-context-manage-containers-panel-item = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
     .accesskey = o
+user-context-manage-containers2 =
+    .label = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
