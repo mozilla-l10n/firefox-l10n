@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Seopadaireachd
     .accesskey = S
 user-context-manage-containers-panel-item = Stiùirich na soithichean
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Stiùirich na soithichean
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
