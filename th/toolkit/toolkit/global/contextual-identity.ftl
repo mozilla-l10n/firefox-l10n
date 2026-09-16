@@ -18,6 +18,10 @@ user-context-banking =
 user-context-shopping =
     .label = การซื้อของ
     .accesskey = อ
+user-context-personal2 =
+    .label = ส่วนบุคคล
+user-context-work2 =
+    .label = งาน
 
 ##
 
