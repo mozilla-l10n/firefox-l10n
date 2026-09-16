@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Adaugă un container nou
     .accesskey = A
+user-context-new-tab2 =
+    .label = Filă nouă
+user-context-add-container2 =
+    .label = Adaugă un container nou
 user-context-manage-containers2 =
     .label = Gestionează containerele
 
