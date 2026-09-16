@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Legg til ny beholder
     .accesskey = L
+user-context-manage-containers2 =
+    .label = Behandle beholdere
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
