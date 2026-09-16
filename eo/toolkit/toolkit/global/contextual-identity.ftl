@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Aldoni novan ingon
 user-context-manage-containers2 =
     .label = Administri ingojn
+user-context-personal2-panel-item = Persona
+user-context-work2-panel-item = Laboro
+user-context-banking2-panel-item = Banka
+user-context-shopping2-panel-item = Aĉetumado
+user-context-new-tab2-panel-item = Nova langeto
+user-context-add-container2-panel-item = Aldoni novan ingon
+user-context-manage-containers2-panel-item = Administri ingojn
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
