@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Daydayyan
     .accesskey = D
+user-context-personal2 =
+    .label = Boralhaali
+user-context-work2 =
+    .label = Goy
+user-context-banking2 =
+    .label = Banku goy
+user-context-shopping2 =
+    .label = Daydayyan
 
 ##
 
