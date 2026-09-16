@@ -42,6 +42,8 @@ user-context-shopping-panel-item = பொருள்வாங்கல்
     .accesskey = S
 user-context-manage-containers-panel-item = கலன்களை நிர்வகி
     .accesskey = O
+user-context-manage-containers2 =
+    .label = கலன்களை நிர்வகி
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
