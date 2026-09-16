@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Dugumî hue'ê' kontenedor
     .accesskey = O
 user-context-manage-containers2 =
     .label = Dugumî hue'ê' kontenedor
+user-context-personal2-panel-item = Riña man'ânt
+user-context-work2-panel-item = Suun
+user-context-banking2-panel-item = Bânku
+user-context-shopping2-panel-item = Sa girun'
+user-context-manage-containers2-panel-item = Dugumî hue'ê' kontenedor
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
