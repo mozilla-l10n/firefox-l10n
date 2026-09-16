@@ -47,6 +47,8 @@ user-context-manage-containers-panel-item = Идоракунии дарбарг�
 user-context-new-tab =
     .label = Варақаи нав
     .accesskey = В
+user-context-new-tab2 =
+    .label = Варақаи нав
 user-context-manage-containers2 =
     .label = Идоракунии дарбаргирандаҳо
 
