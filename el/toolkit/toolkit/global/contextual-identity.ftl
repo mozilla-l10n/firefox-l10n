@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Προσθήκη νέας θεματικής ενότητας
     .accesskey = α
+user-context-new-tab2 =
+    .label = Νέα καρτέλα
+user-context-add-container2 =
+    .label = Προσθήκη νέας θεματικής ενότητας
 user-context-manage-containers2 =
     .label = Διαχείριση θεματικών ενοτήτων
 
