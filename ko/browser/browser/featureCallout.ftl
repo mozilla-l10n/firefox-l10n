@@ -33,9 +33,9 @@ callout-pdfjs-edit-body-b = 무료 온라인 편집기 검색은 건너뛰세요
 callout-pdfjs-edit-button = 다음
 callout-pdfjs-draw-title = 새 그리기 도구로 문서에 서명
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
-callout-pdfjs-draw-body-a = PDF에 표시한 다음 변경 사항을 저장하세요.
+callout-pdfjs-draw-body-a = PDF에 마크업한 다음, 변경 내용을 저장하세요.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
-callout-pdfjs-draw-body-b = 더 이상 인쇄와 스캔이 필요 없습니다. PDF에 표시한 다음 변경 사항을 저장하세요.
+callout-pdfjs-draw-body-b = 더 이상 인쇄와 스캔이 필요 없습니다. PDF에 마크업한 다음, 변경 내용을 저장하세요.
 callout-pdfjs-draw-button = 확인
 
 ## Firefox View Discoverability Strings

@@ -28,7 +28,7 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } PDF 도구
-about-pdf-features-intro = 탐색하는 곳에서 바로 PDF를 읽고, 표시하고, 서명하세요. 간단하고, 무료이며, 사생활을 보호합니다.
+about-pdf-features-intro = 탐색하는 곳에서 바로 PDF를 읽고, 마크업하고, 서명하세요. 간단하고, 무료이며, 사생활을 보호합니다.
 about-pdf-features-back =
     .label = 뒤로
 about-pdf-feature-organize-heading = 페이지 구성
@@ -37,3 +37,12 @@ about-pdf-feature-signatures-heading = 서명 저장
 about-pdf-feature-signatures-description = 여러 개의 서명을 만들어 양식에 추가하세요.
 about-pdf-feature-comments-heading = 메모 추가
 about-pdf-feature-comments-description = 문서를 읽으면서 주석과 기억할 점을 남겨보세요.
+about-pdf-feature-annotate-heading = PDF 마크업
+about-pdf-feature-annotate-description = 텍스트, 강조 표시, 그림을 추가해 보세요.
+about-pdf-feature-images-heading = 접근성이 보장된 이미지를 업로드해 보세요.
+about-pdf-feature-images-description = 더 많은 사람이 문서를 이해할 수 있도록 이미지에 대체 텍스트를 추가해 보세요.
+about-pdf-feature-view-heading = 나에게 맞는 보기 모드를 선택해 보세요.
+about-pdf-feature-view-description = 세로 또는 가로로 스크롤하거나 페이지 레이아웃을 전환해 보세요.
+about-pdf-feature-presentation-heading = PDF를 전체 화면으로 프레젠테이션해 보세요.
+about-pdf-feature-presentation-description = 프레젠테이션 모드에서 불필요한 요소 없이 깔끔한 화면을 공유해 보세요.
+about-pdf-feature-details-heading = 원하는 정보를 더 빠르게 찾아보세요.
