@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Lägg till ny behållare
     .accesskey = L
+user-context-new-tab2 =
+    .label = Ny flik
+user-context-add-container2 =
+    .label = Lägg till ny behållare
 user-context-manage-containers2 =
     .label = Hantera behållare
 
