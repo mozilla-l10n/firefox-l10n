@@ -24,6 +24,8 @@ user-context-work2 =
     .label = ജോലി
 user-context-banking2 =
     .label = ബാങ്കിങ്ങ്
+user-context-shopping2 =
+    .label = ഷോപ്പിംഗ്
 
 ##
 
