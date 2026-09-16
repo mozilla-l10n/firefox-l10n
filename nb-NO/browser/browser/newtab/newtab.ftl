@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Dagens bilde
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Søk
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nylige søk
@@ -497,6 +501,11 @@ newtab-recent-searches-just-now = Akkurat nå
 newtab-recent-searches-row-remove =
     .aria-label = Fjern «{ $search }» fra nylige søk
 
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Søk
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -858,6 +867,9 @@ newtab-wallpaper-add-an-image = Legg til et bilde
 newtab-wallpaper-custom-color = Velg en farge
 newtab-wallpaper-toggle-title =
     .label = Bakgrunnsbilder
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Bakgrunnskategorier
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Bildet overskred filstørrelsesgrensen på { $file_size } MB. Prøv å laste opp en mindre fil.
@@ -1711,6 +1723,13 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Dette området følger reglene dine
 newtab-activation-window-message-values-focus-message = { -brand-product-name } lar deg surfe slik du vil, med en mer personlig måte å starte dagen din på nettet. Gjør { -brand-product-name } til ditt eget.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Sett den siste finishen på { -brand-product-name }
 
 ## Strings for the Clock widget
 
