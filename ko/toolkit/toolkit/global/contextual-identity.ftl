@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = 쇼핑
     .accesskey = S
+user-context-personal2 =
+    .label = 개인
+user-context-work2 =
+    .label = 업무
+user-context-banking2 =
+    .label = 은행
+user-context-shopping2 =
+    .label = 쇼핑
 
 ##
 
@@ -44,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = 새 컨테이너 추가
     .accesskey = A
+user-context-manage-containers2 =
+    .label = 컨테이너 관리
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
