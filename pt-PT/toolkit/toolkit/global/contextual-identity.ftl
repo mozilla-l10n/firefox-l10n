@@ -20,6 +20,12 @@ user-context-shopping =
     .accesskey = s
 user-context-personal2 =
     .label = Pessoal
+user-context-work2 =
+    .label = Trabalho
+user-context-banking2 =
+    .label = Bancário
+user-context-shopping2 =
+    .label = Compras
 
 ##
 
@@ -46,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Adicionar novo contentor
     .accesskey = A
+user-context-manage-containers2 =
+    .label = Gerir contentores
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
