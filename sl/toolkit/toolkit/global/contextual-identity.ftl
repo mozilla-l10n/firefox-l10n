@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Nakupovanje
     .accesskey = N
+user-context-personal2 =
+    .label = Osebno
+user-context-work2 =
+    .label = Službeno
+user-context-banking2 =
+    .label = Bančništvo
+user-context-shopping2 =
+    .label = Nakupovanje
 
 ##
 
