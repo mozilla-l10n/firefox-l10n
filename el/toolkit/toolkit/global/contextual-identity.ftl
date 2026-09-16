@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Αγορές
     .accesskey = ο
+user-context-personal2 =
+    .label = Προσωπικά
+user-context-work2 =
+    .label = Εργασία
+user-context-banking2 =
+    .label = Τραπεζική
+user-context-shopping2 =
+    .label = Αγορές
 
 ##
 
