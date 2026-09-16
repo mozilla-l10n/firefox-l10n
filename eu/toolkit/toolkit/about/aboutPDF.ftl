@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF editorea
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = PDFak irakurri, batu, sinatu, iruzkindu eta gehiago egiteko doako tresna — integratutako pribatutasunarekin
+about-pdf-features-cta =
+    .label = Arakatu PDF tresnak
 about-pdf-dropzone =
     .title = Hasteko, jaregin PDF bat hemen edo sakatu Sartu tekla
 about-pdf-dropzone-hint = Hasteko, jaregin PDF bat hemen
@@ -22,3 +24,10 @@ about-pdf-set-default =
     .label = Ezarri lehenetsi gisa
 about-pdf-dismiss =
     .label = Baztertu
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name } PDF tresnak
+about-pdf-features-back =
+    .label = Atzera
+about-pdf-feature-organize-heading = Antolatu orriak

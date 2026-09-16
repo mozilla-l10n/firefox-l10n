@@ -107,6 +107,10 @@ translations-panel-choose-language =
     .label = Aukeratu hizkuntza
 translations-panel-restore-button =
     .label = Erakutsi jatorrizkoa
+# The label for the target-language dropdown in the revisit view. This may need
+# to be translated differently from translations-panel-to-label to convey that
+# selecting a language will translate the page again.
+translations-panel-revisit-to-label = Itzuli hona
 
 ## Firefox Translations language management in about:preferences.
 

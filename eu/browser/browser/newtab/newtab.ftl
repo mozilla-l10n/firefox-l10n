@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Eguneko argazkia
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Bilaketa
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Azken bilaketak
@@ -497,6 +501,14 @@ newtab-recent-searches-just-now = Oraintxe bertan
 newtab-recent-searches-row-remove =
     .aria-label = Kendu "{ $search }" azken bilaketetatik
 
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Bilaketa
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Bilaketa-aukerak
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -858,6 +870,9 @@ newtab-wallpaper-add-an-image = Gehitu irudia
 newtab-wallpaper-custom-color = Aukeratu kolorea
 newtab-wallpaper-toggle-title =
     .label = Horma-paperak
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Horma-paperen kategoriak
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Irudiak fitxategi-tamainaren { $file_size } MBko muga gainditzen du. Saiatu fitxategi txikiago bat igotzen.
@@ -1717,6 +1732,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Zuk agintzen duzu txoko honetan
 newtab-activation-window-message-values-focus-message = Nahi duzun erara nabigatzen uzten dizu { -brand-product-name }(e)k, zure online eguna hasteko modu pertsonalago batekin. Moldatu { -brand-product-name } zure erara.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Eman zure ukitua { -brand-product-name }(r)i
+newtab-nova-customization-callout-message = Arakatu itxura argi edo ilunak eta horma-paperak, { -brand-product-name } berria zure erara molda dezazun.
+newtab-nova-customization-callout-primary-button =
+    .label = Aukeratu zure itxura
 
 ## Strings for the Clock widget
 
