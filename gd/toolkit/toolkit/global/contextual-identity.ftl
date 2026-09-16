@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Seopadaireachd
     .accesskey = S
+user-context-personal2 =
+    .label = Pearsanta
+user-context-work2 =
+    .label = Obair
+user-context-banking2 =
+    .label = Bancaireachd
+user-context-shopping2 =
+    .label = Seopadaireachd
 
 ##
 
