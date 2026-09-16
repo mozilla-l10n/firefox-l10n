@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Gehitu edukiontzi berria
     .accesskey = G
+user-context-new-tab2 =
+    .label = Fitxa berria
+user-context-add-container2 =
+    .label = Gehitu edukiontzi berria
 user-context-manage-containers2 =
     .label = Kudeatu edukiontziak
 
