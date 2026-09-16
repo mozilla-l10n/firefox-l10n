@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Yeni kapsayıcı ekle
     .accesskey = Y
+user-context-new-tab2 =
+    .label = Yeni sekme
+user-context-add-container2 =
+    .label = Yeni kapsayıcı ekle
 user-context-manage-containers2 =
     .label = Kapsayıcıları yönet
 
