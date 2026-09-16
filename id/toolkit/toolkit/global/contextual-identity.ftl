@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Belanja
     .accesskey = J
+user-context-personal2 =
+    .label = Pribadi
+user-context-work2 =
+    .label = Kantor
+user-context-banking2 =
+    .label = Perbankan
+user-context-shopping2 =
+    .label = Belanja
 
 ##
 
@@ -44,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Tambahkan kontainer baru
     .accesskey = a
+user-context-manage-containers2 =
+    .label = Kelola Kontainer
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
