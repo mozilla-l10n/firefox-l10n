@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Einkaufen
     .accesskey = E
+user-context-personal2 =
+    .label = Freizeit
+user-context-work2 =
+    .label = Arbeit
+user-context-banking2 =
+    .label = Banking
+user-context-shopping2 =
+    .label = Einkaufen
 
 ##
 
@@ -44,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Neue Tab-Umgebung hinzufügen
     .accesskey = U
+user-context-manage-containers2 =
+    .label = Tab-Umgebungen verwalten
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
