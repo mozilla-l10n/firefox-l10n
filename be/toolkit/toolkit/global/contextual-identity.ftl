@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Дадаць новы кантэйнер
     .accesskey = Д
+user-context-new-tab2 =
+    .label = Новая картка
+user-context-add-container2 =
+    .label = Дадаць новы кантэйнер
 user-context-manage-containers2 =
     .label = Кіраваць кантэйнерамі
 
