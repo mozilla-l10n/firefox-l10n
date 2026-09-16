@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Poodlemine
     .accesskey = o
+user-context-personal2 =
+    .label = Isiklik
+user-context-work2 =
+    .label = Töö
+user-context-banking2 =
+    .label = Pangandus
+user-context-shopping2 =
+    .label = Poodlemine
 
 ##
 
@@ -34,6 +42,8 @@ user-context-shopping-panel-item = Poodlemine
     .accesskey = o
 user-context-manage-containers-panel-item = Halda konteinereid
     .accesskey = H
+user-context-manage-containers2 =
+    .label = Halda konteinereid
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
