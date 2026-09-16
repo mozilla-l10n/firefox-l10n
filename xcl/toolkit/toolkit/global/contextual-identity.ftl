@@ -16,6 +16,7 @@ user-context-manage-containers-panel-item = Կառավարել զպարունա�
     .accesskey = O
 user-context-manage-containers2 =
     .label = Կառավարել զպարունակս
+user-context-manage-containers2-panel-item = Կառավարել զպարունակս
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
