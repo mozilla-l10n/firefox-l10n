@@ -49,8 +49,11 @@ user-context-manage-containers-panel-item = Pārvaldīt konteinerus
 user-context-add-container =
     .label = Pievienot jaunu konteineru
     .accesskey = P
+user-context-add-container2 =
+    .label = Pievienot jaunu konteineru
 user-context-manage-containers2 =
     .label = Pārvaldīt konteinerus
+user-context-personal2-panel-item = Personīgs
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
