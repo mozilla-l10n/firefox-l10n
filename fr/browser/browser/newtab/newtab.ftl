@@ -1741,7 +1741,7 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 newtab-nova-customization-callout-header = Apportez la touche finale à { -brand-product-name }
 newtab-nova-customization-callout-message = Découvrez des thèmes et des fonds d’écran clairs ou sombres qui font que le nouveau { -brand-product-name } vous ressemble plus à vous.
 newtab-nova-customization-callout-primary-button =
-    .label = Choisissez votre apparence
+    .label = Choisissez votre style
 
 ## Strings for the Clock widget
 

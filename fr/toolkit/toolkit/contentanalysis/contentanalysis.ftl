@@ -25,7 +25,7 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } vérifie la conformité de ce que vous avez collé à la politique de données de votre organisation. Cette opération peut prendre un moment.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
-contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } compare ce que vous avez copié aux politiques de données de votre organisation. Cela peut prendre un moment.
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } vérifie la conformité de ce que vous avez copié à la politique de données de votre organisation. Cette opération peut prendre un moment.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -36,7 +36,7 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } vérifie la conformit�
 # Written to the system clipboard in place of content that the user was not
 # permitted to copy, so that pasting produces this notice rather than silently
 # producing whatever was on the clipboard beforehand.
-contentanalysis-clipboard-copy-blocked-replacement = La copie de ce contenu est interdite par votre organisation.
+contentanalysis-clipboard-copy-blocked-replacement = Votre organisation n’autorise pas la copie de ce contenu.
 contentanalysis-operationtype-clipboard = presse-papiers
 contentanalysis-operationtype-clipboard-copy = contenu copié
 contentanalysis-operationtype-dropped-text = texte déposé
@@ -92,8 +92,8 @@ contentanalysis-block-dialog-title-download-file = Vous n’avez pas l’autoris
 contentanalysis-block-dialog-body-download-file = En raison des stratégies de protection des données de votre organisation, vous n’avez pas la permission de télécharger le fichier « { $filename } ». Contactez votre administrateur pour plus d’informations.
 contentanalysis-block-dialog-title-clipboard = Vous n’avez pas la permission de coller ce contenu
 contentanalysis-block-dialog-body-clipboard = En raison des stratégies de protection des données de votre organisation, vous n’avez pas la permission de coller ce contenu. Contactez votre administrateur pour plus d’informations.
-contentanalysis-block-dialog-title-clipboard-copy = Vous n’avez pas les droits de copier ce contenu
-contentanalysis-block-dialog-body-clipboard-copy = Selon les politiques de protection des données de votre organisation, vous n’avez pas le droit de copier ce contenu. Contactez votre administrateur pour plus d’informations.
+contentanalysis-block-dialog-title-clipboard-copy = Vous n’avez pas la permission de copier ce contenu
+contentanalysis-block-dialog-body-clipboard-copy = En raison des stratégies de protection des données de votre organisation, vous n’avez pas la permission de copier ce contenu. Contactez votre administrateur pour plus d’informations.
 contentanalysis-block-dialog-title-dropped-text = Vous n’avez pas la permission de glisser-déposer ce contenu
 contentanalysis-block-dialog-body-dropped-text = En raison des stratégies de protection des données de votre organisation, vous n’avez pas la permission de glisser-déposer ce contenu. Contactez votre administrateur pour plus d’informations.
 contentanalysis-block-dialog-title-print = Vous n’avez pas la permission d’imprimer ce document

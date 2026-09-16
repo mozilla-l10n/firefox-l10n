@@ -50,7 +50,7 @@ about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } Ko ({ 
 # $totalBytes (Number) - Uncompressed size of all stored copies, in bytes
 # $distinct (Number) - Number of unique certificates across all tokens
 # $distinctBytes (Number) - Uncompressed size of the unique certificates, in bytes
-about-networking-ssl-tokens-summary-certs = Certificats stockés : { $references } ({ $totalBytes } Go), distincts : { $distinct } ({ $distinctBytes } O)
+about-networking-ssl-tokens-summary-certs = Certificats stockés : { $references } ({ $totalBytes } o), distincts : { $distinct } ({ $distinctBytes } o)
 about-networking-ssl-tokens-partition-key = Clé de partition
 about-networking-ssl-tokens-tokens-column = Jetons
 about-networking-ssl-tokens-expires = Date d’expiration
