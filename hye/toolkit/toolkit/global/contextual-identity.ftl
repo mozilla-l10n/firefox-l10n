@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Կառավարել պարունակ�
     .accesskey = O
 user-context-manage-containers2 =
     .label = Կառավարել պարունակները
+user-context-personal2-panel-item = Անձնական
+user-context-work2-panel-item = Աշխատանքային
+user-context-banking2-panel-item = Բանկային
+user-context-shopping2-panel-item = Առեւտուր
+user-context-manage-containers2-panel-item = Կառավարել պարունակները
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
