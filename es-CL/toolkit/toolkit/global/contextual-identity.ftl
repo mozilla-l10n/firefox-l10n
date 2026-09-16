@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Añadir nuevo contenedor
     .accesskey = A
+user-context-new-tab2 =
+    .label = Nueva pestaña
+user-context-add-container2 =
+    .label = Añadir nuevo contenedor
 user-context-manage-containers2 =
     .label = Gestionar contenedores
 
