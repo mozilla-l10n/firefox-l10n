@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
 user-context-manage-containers2 =
     .label = ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ
+user-context-personal2-panel-item = ਨਿੱਜੀ
+user-context-work2-panel-item = ਕੰਮ
+user-context-banking2-panel-item = ਬੈਂਕਿੰਗ
+user-context-shopping2-panel-item = ਖਰੀਦਦਾਰੀ
+user-context-new-tab2-panel-item = ਨਵੀਂ ਟੈਬ
+user-context-add-container2-panel-item = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
+user-context-manage-containers2-panel-item = ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
