@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = 新規コンテナーを追加
 user-context-manage-containers2 =
     .label = コンテナーを管理
+user-context-personal2-panel-item = 個人
+user-context-work2-panel-item = 仕事
+user-context-banking2-panel-item = 銀行取引
+user-context-shopping2-panel-item = ショッピング
+user-context-new-tab2-panel-item = 新規タブ
+user-context-add-container2-panel-item = 新規コンテナーを追加
+user-context-manage-containers2-panel-item = コンテナーを管理
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
