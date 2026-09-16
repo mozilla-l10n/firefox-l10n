@@ -20,6 +20,12 @@ user-context-shopping =
     .accesskey = C
 user-context-personal2 =
     .label = Pessoal
+user-context-work2 =
+    .label = Trabalho
+user-context-banking2 =
+    .label = Financeiro
+user-context-shopping2 =
+    .label = Compras
 
 ##
 
