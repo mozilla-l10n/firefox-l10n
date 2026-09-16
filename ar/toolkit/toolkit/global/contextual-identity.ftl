@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = تسوق
     .accesskey = ت
+user-context-personal2 =
+    .label = شخصي
+user-context-work2 =
+    .label = عمل
+user-context-banking2 =
+    .label = صيرفة
+user-context-shopping2 =
+    .label = تسوق
 
 ##
 
