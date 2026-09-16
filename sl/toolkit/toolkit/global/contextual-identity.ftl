@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Dodaj nov vsebnik
     .accesskey = a
+user-context-new-tab2 =
+    .label = Nov zavihek
+user-context-add-container2 =
+    .label = Dodaj nov vsebnik
 user-context-manage-containers2 =
     .label = Upravljanje vsebnikov
 
