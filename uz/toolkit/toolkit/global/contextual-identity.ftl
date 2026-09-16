@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Xaridlar
     .accesskey = X
+user-context-personal2 =
+    .label = Shaxsiy
+user-context-work2 =
+    .label = Ish
+user-context-banking2 =
+    .label = Bank ishi
+user-context-shopping2 =
+    .label = Xaridlar
 
 ##
 
