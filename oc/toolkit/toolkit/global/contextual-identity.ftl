@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Crompas
     .accesskey = C
 user-context-manage-containers-panel-item = Gerir los contenedors
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Gerir los contenedors
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
