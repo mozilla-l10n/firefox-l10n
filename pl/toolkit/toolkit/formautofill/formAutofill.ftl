@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } chce użyć 
 autofill-edit-payment-method-os-prompt-macos = wyświetlenie przechowywanych informacji o metodach płatności
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } chce wyświetlić przechowywane informacje o metodach płatności. Potwierdź poniżej, używając konta Windows.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } chce wyświetlić przechowywane informacje o metodach płatności.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = usunięcie przechowywanych informacji o metodach płatności
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } chce usunąć przechowywane informacje o metodach płatności. Potwierdź poniżej, używając konta Windows.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } chce usunąć przechowywane informacje o metodach płatności.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opcje wypełniania formularzy
 
