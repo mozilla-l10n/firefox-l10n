@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Mua sắm
     .accesskey = S
+user-context-personal2 =
+    .label = Cá nhân
+user-context-work2 =
+    .label = Công việc
+user-context-banking2 =
+    .label = Ngân hàng
+user-context-shopping2 =
+    .label = Mua sắm
 
 ##
 
