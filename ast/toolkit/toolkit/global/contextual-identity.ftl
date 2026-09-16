@@ -37,6 +37,10 @@ user-context-manage-containers-panel-item = Xestionar los contenedores
     .accesskey = o
 user-context-manage-containers2 =
     .label = Xestionar los contenedores
+user-context-work2-panel-item = Trabayu
+user-context-banking2-panel-item = Bancu
+user-context-shopping2-panel-item = Tiendes
+user-context-manage-containers2-panel-item = Xestionar los contenedores
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
