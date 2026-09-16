@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Покупки
     .accesskey = П
 user-context-manage-containers-panel-item = Керувати контейнерами
     .accesskey = К
+user-context-manage-containers2 =
+    .label = Керувати контейнерами
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
