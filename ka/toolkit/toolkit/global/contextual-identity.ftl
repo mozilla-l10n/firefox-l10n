@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = ახალი სათავსის დამატება
 user-context-manage-containers2 =
     .label = სათავსების მართვა
+user-context-personal2-panel-item = კერძო
+user-context-work2-panel-item = სამუშაო
+user-context-banking2-panel-item = საბანკო
+user-context-shopping2-panel-item = სავაჭრო
+user-context-new-tab2-panel-item = ახალი ჩანართი
+user-context-add-container2-panel-item = ახალი სათავსის დამატება
+user-context-manage-containers2-panel-item = სათავსების მართვა
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
