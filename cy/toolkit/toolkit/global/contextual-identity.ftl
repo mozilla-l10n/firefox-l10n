@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Siopa
     .accesskey = S
+user-context-personal2 =
+    .label = Personol
+user-context-work2 =
+    .label = Gwaith
+user-context-banking2 =
+    .label = Bancio
+user-context-shopping2 =
+    .label = Siopa
 
 ##
 
