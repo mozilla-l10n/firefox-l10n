@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Nije kontener tafoegje
 user-context-manage-containers2 =
     .label = Konteners beheare
+user-context-personal2-panel-item = Persoanlik
+user-context-work2-panel-item = Wurk
+user-context-banking2-panel-item = Bankiere
+user-context-shopping2-panel-item = Winkelje
+user-context-new-tab2-panel-item = Nij ljepblêd
+user-context-add-container2-panel-item = Nije kontener tafoegje
+user-context-manage-containers2-panel-item = Konteners beheare
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
