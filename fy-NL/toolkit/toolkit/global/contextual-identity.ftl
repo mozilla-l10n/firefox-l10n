@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Winkelje
     .accesskey = k
+user-context-personal2 =
+    .label = Persoanlik
+user-context-work2 =
+    .label = Wurk
+user-context-banking2 =
+    .label = Bankiere
+user-context-shopping2 =
+    .label = Winkelje
 
 ##
 
