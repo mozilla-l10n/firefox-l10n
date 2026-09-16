@@ -101,7 +101,7 @@ move-to-new-window =
 # Variables
 #  $profileName (string): The name of the profile to move tab to
 move-to-new-profile =
-    .label = Переместить в { $profileName }
+    .label = Переместить в «{ $profileName }»
 tab-context-close-multiple-tabs =
     .label = Закрыть несколько вкладок
     .accesskey = ы
@@ -150,7 +150,7 @@ tab-context-close-n-tabs2 =
     .label =
         { $tabCount ->
             [1] Закрыть
-            [one] Закрыть { $tabCount } вкладка
+            [one] Закрыть { $tabCount } вкладку
             [few] Закрыть { $tabCount } вкладки
            *[many] Закрыть { $tabCount } вкладок
         }

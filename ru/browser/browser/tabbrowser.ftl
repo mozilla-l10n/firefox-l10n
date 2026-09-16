@@ -231,10 +231,10 @@ tabbrowser-manager-close-tab =
 # not include "deleted" tab groups (see tab-group-editor-action-delete).
 tabbrowser-manager-closed-tab-group =
     .label = { $tabGroupName }
-    .tooltiptext = { $tabGroupName } — Закрыта
+    .tooltiptext = { $tabGroupName } — закрыта
 tabbrowser-manager-current-window-tab-group =
     .label = { $tabGroupName }
-    .tooltiptext = { $tabGroupName } — Текущее окно
+    .tooltiptext = { $tabGroupName } — текущее окно
 
 ##
 
@@ -268,8 +268,8 @@ tab-group-editor-color-selector2-red = Красный
     .title = Красный
 tab-group-menu-closed-tab-group =
     .label = { $tabGroupName }
-    .title = { $tabGroupName } — Закрыта
-tab-group-description = { $tabGroupName } — Группа вкладок
+    .title = { $tabGroupName } — закрыта
+tab-group-description = { $tabGroupName } — группа вкладок
 tab-group-label-tooltip-collapsed = { $tabGroupName } — свёрнута
 tab-group-label-tooltip-expanded = { $tabGroupName } — развёрнута
 tab-group-preview-name =

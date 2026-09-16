@@ -386,7 +386,7 @@ main-context-menu-eme-learn-more =
 # Variables
 #   $containerName (String): The name of the current container
 main-context-menu-open-link-in-container-tab =
-    .label = Открыть ссылку в новой вкладке в контейнере { $containerName }
+    .label = Открыть ссылку в новой вкладке в контейнере «{ $containerName }»
     .accesskey = н
 main-context-menu-reveal-password =
     .label = Показать пароль

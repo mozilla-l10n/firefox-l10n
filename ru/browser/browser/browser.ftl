@@ -922,7 +922,7 @@ urlbar-result-action-search-actions = Искать в действиях
 urlbar-result-action-switch-to-tabgroup = Переключиться на «{ $group }»
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
-urlbar-result-action-open-saved-tabgroup = Открыть { $group }
+urlbar-result-action-open-saved-tabgroup = Открыть «{ $group }»
 
 ## Used in the menu of a urlbar result.
 

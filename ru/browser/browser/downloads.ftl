@@ -226,8 +226,8 @@ downloads-panel-empty =
 downloads-more-downloading =
     { $count ->
         [one] Скачивается ещё { $count } файл
-        [few] Скачивается ещё { $count } файла
-       *[many] Скачивается ещё { $count } файлов
+        [few] Скачиваются ещё { $count } файла
+       *[many] Скачиваются ещё { $count } файлов
     }
 
 ## Download errors

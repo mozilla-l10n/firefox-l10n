@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Изображение дня
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Поиск
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Последние запросы
@@ -506,6 +510,12 @@ newtab-recent-searches-just-now = Прямо сейчас
 newtab-recent-searches-row-remove =
     .aria-label = Удалить «{ $search }» из недавних поисковых запросов
 
+## Strings for the Search widget
+
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Опции поиска
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -868,6 +878,9 @@ newtab-wallpaper-add-an-image = Добавить изображение
 newtab-wallpaper-custom-color = Выберите цвет
 newtab-wallpaper-toggle-title =
     .label = Обои
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Категории обоев
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Размер файла изображения превысил лимит в { $file_size }МБ. Пожалуйста, попробуйте загрузить файл меньшего размера.
@@ -1730,6 +1743,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Это пространство играет по вашим правилам
 newtab-activation-window-message-values-focus-message = { -brand-product-name } позволяет вам сёрфить так, как вам нравится, более личное начало дня в Интернете. Сделайте { -brand-product-name } своим.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Добавьте последний штрих к { -brand-product-name }
+newtab-nova-customization-callout-message = Выбирайте светлые или тёмные темы и обои, чтобы новый { -brand-product-name } отражал ваш стиль.
+newtab-nova-customization-callout-primary-button =
+    .label = Настроить оформление
 
 ## Strings for the Clock widget
 

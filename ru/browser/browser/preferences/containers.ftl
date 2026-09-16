@@ -24,7 +24,7 @@ containers-window-new3 =
 #   $name (String) - Name of the container
 containers-window-update-settings3 =
     .style = min-width: 32em
-    .title = Настройки контейнера { $name }
+    .title = Настройки контейнера «{ $name }»
 
 ## Dialog that binds a website to a container.
 

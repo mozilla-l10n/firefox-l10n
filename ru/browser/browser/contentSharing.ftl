@@ -39,7 +39,7 @@ content-sharing-modal-policy = Делясь, вы соглашаетесь с н
 content-sharing-modal-too-many-links-2 =
     { $count ->
         [one] Будет включена только { $count } ссылка
-        [few] Будет включено только { $count } ссылки
+        [few] Будут включены только { $count } ссылки
        *[many] Будет включено только { $count } ссылок
     }
 content-sharing-modal-no-shareable-links =

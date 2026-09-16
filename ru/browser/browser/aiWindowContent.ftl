@@ -95,7 +95,7 @@ smart-window-closed-tabs-label =
     }
 smart-window-closed-tabs-summary =
     { $count ->
-        [one] Готово! Вкладка закрыты.
+        [one] Готово! Вкладка закрыта.
         [few] Готово! Вкладки закрыты.
        *[many] Готово! Вкладки закрыты.
     }
@@ -109,7 +109,7 @@ smart-window-restored-row-label =
     }
 smart-window-restore-success-summary =
     { $count ->
-        [one] Вкладки закрыта, затем восстановлена.
+        [one] Вкладка закрыта, затем восстановлена.
         [few] Вкладки закрыты, затем восстановлены.
        *[many] Вкладки закрыты, затем восстановлены.
     }
@@ -199,7 +199,7 @@ smart-window-ungroup-success-summary =
 smart-window-ungrouped-row-label =
     { $count ->
         [one] Разгруппирована { $count } вкладка
-        [few] Разгруппировано { $count } вкладки
+        [few] Разгруппированы { $count } вкладки
        *[many] Разгруппировано { $count } вкладок
     }
 
@@ -231,7 +231,7 @@ action-log-searched-settings = Совершён поиск по настройк
 action-log-completed-steps =
     { $count ->
         [one] Выполнен { $count } шаг
-        [few] Выполнено { $count } шага
+        [few] Выполнены { $count } шага
        *[many] Выполнено { $count } шагов
     }
 

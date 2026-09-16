@@ -259,8 +259,8 @@ contextual-manager-origin-login-line =
 # Variables
 #   $url (string) - The url associated with the login
 contextual-manager-origin-login-line-with-alert =
-    .aria-label = Посетить { $url } (Предупреждение)
-    .title = Посетить { $url } (Предупреждение)
+    .aria-label = Посетить { $url } (предупреждение)
+    .title = Посетить { $url } (предупреждение)
 # Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line =
@@ -270,8 +270,8 @@ contextual-manager-username-login-line =
 # Variables
 #   $username (string) - The username associated with the login
 contextual-manager-username-login-line-with-alert =
-    .aria-label = Копировать имя пользователя { $username } (Предупреждение)
-    .title = Копировать имя пользователя { $username } (Предупреждение)
+    .aria-label = Копировать имя пользователя { $username } (предупреждение)
+    .title = Копировать имя пользователя { $username } (предупреждение)
 contextual-manager-password-login-line =
     .aria-label = Копировать пароль
     .title = Копировать пароль

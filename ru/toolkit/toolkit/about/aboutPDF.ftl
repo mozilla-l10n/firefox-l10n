@@ -5,6 +5,8 @@
 about-pdf-title = PDF-редактор { -brand-short-name }
 about-pdf-header = PDF { -brand-short-name }
 about-pdf-tagline = Бесплатный инструмент для чтения, слияния, подписи, комментариев и многого другого — со встроенной приватностью
+about-pdf-features-cta =
+    .label = Изучите инструменты PDF
 about-pdf-dropzone =
     .title = Перетащите сюда PDF-файл, чтобы начать, или нажмите Enter
 about-pdf-dropzone-hint = Перетащите PDF-файл сюда, чтобы начать
@@ -22,3 +24,20 @@ about-pdf-set-default =
     .label = Установить по умолчанию
 about-pdf-dismiss =
     .label = Убрать
+
+## The about:pdf#features page.
+
+about-pdf-features-intro = Читайте, делайте пометки и подписывайте PDF-файлы прямо там, где вы работаете в Интернете. Это просто, бесплатно и приватно.
+about-pdf-features-back =
+    .label = Назад
+about-pdf-feature-organize-heading = Управление страницами
+about-pdf-feature-organize-description = Пересортируйте, удаляйте, объединяйте и экспортируйте страницы.
+about-pdf-feature-signatures-heading = Сохранить подписи
+about-pdf-feature-signatures-description = Создавайте несколько подписей и добавляйте их в формы.
+about-pdf-feature-comments-heading = Добавить заметки
+about-pdf-feature-comments-description = Оставляйте комментарии и напоминания во время чтения.
+about-pdf-feature-annotate-heading = Разметка PDF-файлов
+about-pdf-feature-annotate-description = Добавляйте текст, выделение и рисунки.
+about-pdf-feature-images-heading = Загрузить доступные изображения
+about-pdf-feature-images-description = Добавьте альтернативный текст, чтобы изображения работали для большего числа людей.
+about-pdf-feature-view-heading = Выберите внешний вид
