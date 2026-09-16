@@ -1002,7 +1002,7 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Zamknij „Obraz w obrazie” ({ $shortcut })
 picture-in-picture-panel-header = Obraz w obrazie
 picture-in-picture-panel-headline = Ta witryna nie zaleca korzystania z funkcji „Obraz w obrazie”
-picture-in-picture-panel-body = W trybie „Obraz w obrazie” filmy mogą nie wyświetlać się tak, jak przewidział to autor witryny.
+picture-in-picture-panel-body = W trybie „Obraz w obrazie” filmy mogą nie wyświetlać się tak, jak przewidzieli to autorzy witryny.
 picture-in-picture-enable-toggle =
     .label = Włącz mimo to
 

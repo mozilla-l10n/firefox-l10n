@@ -113,7 +113,7 @@ pdfjs-document-properties-size-kb = { NUMBER($kb, maximumSignificantDigits: 3) }
 #   $b (Number) - the PDF file size in bytes
 pdfjs-document-properties-size-mb = { NUMBER($mb, maximumSignificantDigits: 3) } MB ({ $b } B)
 pdfjs-document-properties-title = Tytuł:
-pdfjs-document-properties-author = Autor:
+pdfjs-document-properties-author = Autorzy:
 pdfjs-document-properties-subject = Temat:
 pdfjs-document-properties-keywords = Słowa kluczowe:
 pdfjs-document-properties-creation-date = Data utworzenia:

@@ -24,7 +24,7 @@ cfr-doorhanger-extension-learn-more-link = Więcej informacji
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
-cfr-doorhanger-extension-author = Autor: { $name }
+cfr-doorhanger-extension-author = Autorzy: { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Polecenie

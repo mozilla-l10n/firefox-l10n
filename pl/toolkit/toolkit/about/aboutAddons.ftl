@@ -42,7 +42,7 @@ detail-last-updated =
     .label = Ostatnia aktualizacja
 addon-detail-description-expand = Więcej
 addon-detail-description-collapse = Mniej
-detail-contributions-description = Autor tego dodatku prosi o wsparcie niewielką kwotą jego dalszego rozwoju.
+detail-contributions-description = Autorzy tego dodatku proszą o wsparcie niewielką kwotą jego dalszego rozwoju.
 detail-contributions-button = Wspomóż
     .title = Wspomóż rozwój tego dodatku
     .accesskey = s
@@ -273,7 +273,7 @@ privacy-policy = Zasady ochrony prywatności
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
-created-by-author = Autor: <a data-l10n-name="author">{ $author }</a>
+created-by-author = Autorzy: <a data-l10n-name="author">{ $author }</a>
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
@@ -329,7 +329,7 @@ sitepermission-enabled-heading = Włączone
 sitepermission-disabled-heading = Wyłączone
 always-activate-button = Zawsze aktywuj
 never-activate-button = Nigdy nie aktywuj
-addon-detail-author-label = Autor
+addon-detail-author-label = Autorzy
 addon-detail-version-label = Wersja
 addon-detail-last-updated-label = Ostatnia aktualizacja
 addon-detail-homepage-label = Strona domowa
@@ -589,6 +589,9 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Urządzenia
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Wygląd
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = Motywy { -brand-product-name(case: "gen") }
