@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Legg til ny behaldar
     .accesskey = L
+user-context-new-tab2 =
+    .label = Ny fane
+user-context-add-container2 =
+    .label = Legg til ny behaldar
 user-context-manage-containers2 =
     .label = Handsam behaldarar
 
