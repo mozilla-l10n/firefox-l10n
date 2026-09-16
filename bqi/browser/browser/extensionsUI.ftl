@@ -23,6 +23,7 @@ addon-post-install-message = { $addonName } ٱوورده وابی.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = { $addonName } من وبگه یل مئدۊد وابیڌه ره بوۊفته؟
 webext-quarantine-confirmation-line-1 = سی زفت وابیڌن داده یل ایسا، ای وردنی من ای وبگه موجاز نؽ.
+webext-quarantine-confirmation-line-2 = ٱر و ای وردنی سی خوندن وو آلشت داده یل خوتووݩ من وبگه یل مئدۊد وابیڌه و دست { -vendor-short-name } ائتماد دارین، هو ن بؽلین.
 webext-quarantine-confirmation-allow =
     .label = هشتن
     .accesskey = A
