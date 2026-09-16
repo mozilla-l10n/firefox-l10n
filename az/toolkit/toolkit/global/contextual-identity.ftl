@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Bazarlıq
     .accesskey = z
 user-context-manage-containers-panel-item = Konteynerləri idarə et
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Konteynerləri idarə et
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
