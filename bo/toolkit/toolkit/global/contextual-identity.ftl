@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Shopping
     .accesskey = S
+user-context-personal2 =
+    .label = Personal
+user-context-work2 =
+    .label = Work
+user-context-banking2 =
+    .label = Banking
+user-context-shopping2 =
+    .label = Shopping
 
 ##
 
@@ -34,3 +42,12 @@ user-context-shopping-panel-item = Shopping
     .accesskey = S
 user-context-manage-containers-panel-item = འཇུག་སྣོད་དོ་དམ་བྱེད་པ
     .accesskey = O
+user-context-manage-containers2 =
+    .label = འཇུག་སྣོད་དོ་དམ་བྱེད་པ
+
+## Container colors, shown as selectable swatches in the container creation/edit dialog.
+
+
+## Container icons, shown as selectable swatches in the container
+## creation/edit dialog.
+
