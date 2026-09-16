@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Nieuwe container toevoegen
     .accesskey = v
+user-context-new-tab2 =
+    .label = Nieuw tabblad
+user-context-add-container2 =
+    .label = Nieuwe container toevoegen
 user-context-manage-containers2 =
     .label = Containers beheren
 
