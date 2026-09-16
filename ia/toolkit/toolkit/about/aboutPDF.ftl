@@ -22,3 +22,9 @@ about-pdf-set-default =
     .label = Stabilir como predeterminate
 about-pdf-dismiss =
     .label = Dimitter
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Retro
+about-pdf-feature-comments-heading = Adder notas

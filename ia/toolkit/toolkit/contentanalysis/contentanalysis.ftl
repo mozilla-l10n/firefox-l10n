@@ -31,6 +31,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } recense le text
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } recense lo que tu imprimeva contra le politicas del datos de tu organisation.
 contentanalysis-operationtype-clipboard = area de transferentia
+contentanalysis-operationtype-clipboard-copy = contento copiate
 contentanalysis-operationtype-dropped-text = texto deponite
 contentanalysis-operationtype-print = imprimer
 #   $filename - The filename associated with the request, such as "aFile.txt"
