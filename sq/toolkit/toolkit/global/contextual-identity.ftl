@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Blerjesh
     .accesskey = e
+user-context-personal2 =
+    .label = Personale
+user-context-work2 =
+    .label = Pune
+user-context-banking2 =
+    .label = Bankash
+user-context-shopping2 =
+    .label = Blerjesh
 
 ##
 
@@ -34,6 +42,8 @@ user-context-shopping-panel-item = Blerjesh
     .accesskey = e
 user-context-manage-containers-panel-item = Administroni Kontejner
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Administroni Kontejner
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
