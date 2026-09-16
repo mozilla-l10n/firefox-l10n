@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Prenadennoù
     .accesskey = r
 user-context-manage-containers-panel-item = Merañ an endalc'herioù
     .accesskey = e
+user-context-manage-containers2 =
+    .label = Merañ an endalc'herioù
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
