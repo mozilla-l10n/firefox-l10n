@@ -33,6 +33,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } tekst, kotryž 
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } na zakładźe datowych prawidłow wašeje organizacije přepruwuje, štož sće ćišćał. To wokomik traje.
 contentanalysis-operationtype-clipboard = mjezyskład
+contentanalysis-operationtype-clipboard-copy = kopěrowany wobsah
 contentanalysis-operationtype-dropped-text = pušćeny tekst
 contentanalysis-operationtype-print = ćišćeć
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -70,6 +71,7 @@ contentanalysis-invalid-agent-signature-message-content = Přepruwowanje signatu
 contentanalysis-error-message-upload-file = Nahraće “{ $filename }” je so wotpokazało.
 contentanalysis-error-message-dropped-text = Ćehnjenje a pušćenje stej so wotpokazałoj.
 contentanalysis-error-message-clipboard = Zasadźenje je so wotpokazało.
+contentanalysis-error-message-clipboard-copy = Kopija wotpokazana.
 contentanalysis-error-message-print = Ćišćenje je so wotpokazało.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -85,6 +87,7 @@ contentanalysis-block-dialog-title-download-file = Njesměće tutu dataju sćahn
 contentanalysis-block-dialog-body-download-file = Po prawidłach škita datow swojeje organizacije njesměće dataju „{ $filename }“ sćahnyć. Stajće so ze swojim administratorom za dalše informacije.
 contentanalysis-block-dialog-title-clipboard = Njesměće tutón wobsah zasadźić
 contentanalysis-block-dialog-body-clipboard = Po prawidłach škita datow swojeho organizacije njesměće tutón wobsah zasadźić. Stajće so ze swojim administratorom za dalše informacije.
+contentanalysis-block-dialog-title-clipboard-copy = Nimaće prawo tutón wobsah kopěrować.
 contentanalysis-block-dialog-title-dropped-text = Njesměće tutón wobsah pušćić
 contentanalysis-block-dialog-body-dropped-text = Po prawidłach škita datow swojeho organizacije njesměće tutón wobsah ćahnyć a pušćić. Stajće so ze swojim administratorom za dalše informacije.
 contentanalysis-block-dialog-title-print = Njesměće tutón dokument ćišćeć
