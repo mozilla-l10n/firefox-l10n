@@ -18,12 +18,17 @@ user-context-banking =
 user-context-shopping =
     .label = কেনাকাটা
     .accesskey = S
+user-context-personal2 =
+    .label = ব্যক্তিগত
+user-context-work2 =
+    .label = কর্ম
+user-context-banking2 =
+    .label = ব্যাঙ্কিং
+user-context-shopping2 =
+    .label = কেনাকাটা
 
 ##
 
-user-context-none =
-    .label = কোনো কন্টেইনার নেই
-    .accesskey = N
 user-context-manage-containers =
     .label = কন্টেইনারগুলিকে পরিচালনা করুন
     .accesskey = O
