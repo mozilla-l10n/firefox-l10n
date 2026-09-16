@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Kenuk'samajïx K'wayöl
     .accesskey = w
 user-context-manage-containers2 =
     .label = Kenuk'samajïx K'wayöl
+user-context-personal2-panel-item = Ichinan
+user-context-work2-panel-item = Samaj
+user-context-banking2-panel-item = Pwaqb'äl
+user-context-shopping2-panel-item = Loq'oj
+user-context-manage-containers2-panel-item = Kenuk'samajïx K'wayöl
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
