@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Coodayru
     .accesskey = C
 user-context-manage-containers-panel-item = Toppito baɗirɗe
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Toppito baɗirɗe
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
