@@ -15,6 +15,9 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } probeert bet
 autofill-edit-payment-method-os-prompt-macos = opgeslagen betalingsgegevens tonen
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } probeert opgeslagen betalingsgegevens te tonen. Bevestig hieronder toegang tot deze Windows-account.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } probeert opgeslagen betalingsgegevens te tonen.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = opgeslagen betaalmethode verwijderen
 autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } probeert opgeslagen betalingsgegevens te verwijderen. Bevestig hieronder toegang tot deze Windows-account.
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name } probeert betalingsgegevens te verwijderen.
 # The link leads users to Form Autofill browser preferences.
