@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Afegeix un contenidor nou
     .accesskey = A
+user-context-new-tab2 =
+    .label = Pestanya nova
+user-context-add-container2 =
+    .label = Afegeix un contenidor nou
 user-context-manage-containers2 =
     .label = Gestiona els contenidors
 
