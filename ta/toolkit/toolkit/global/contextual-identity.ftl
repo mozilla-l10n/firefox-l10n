@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = பொருள்வாங்கல்
     .accesskey = S
+user-context-personal2 =
+    .label = தனிப்பட்ட
+user-context-work2 =
+    .label = பணி
+user-context-banking2 =
+    .label = வங்கியியல்
+user-context-shopping2 =
+    .label = பொருள்வாங்கல்
 
 ##
 
