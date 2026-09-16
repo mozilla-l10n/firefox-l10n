@@ -863,6 +863,9 @@ newtab-wallpaper-add-an-image = Aggiungi un’immagine
 newtab-wallpaper-custom-color = Scegli un colore
 newtab-wallpaper-toggle-title =
     .label = Sfondi
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Categorie sfondi
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = L’immagine eccede la dimensione massima consentita ({ $file_size } MB). Prova a caricare un file più piccolo.
