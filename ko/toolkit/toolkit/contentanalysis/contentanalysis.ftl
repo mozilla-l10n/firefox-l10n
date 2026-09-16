@@ -19,6 +19,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more = { $agent }이(가) 조직
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent }이(가) 조직의 데이터 정책에 따라 붙여넣은 내용을 분석 중입니다. 잠시 시간이 걸릴 수 있습니다.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent }이(가) 조직의 데이터 정책에 따라 복사한 내용을 분석 중입니다. 잠시 시간이 걸릴 수 있습니다.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -26,7 +29,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent }이(가) 조직�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent }이(가) 조직의 데이터 정책에 따라 인쇄된 내용을 분석 중입니다. 잠시 시간이 걸릴 수 있습니다.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = 조직에서 이 콘텐츠의 복사를 제한합니다.
 contentanalysis-operationtype-clipboard = 클립보드
+contentanalysis-operationtype-clipboard-copy = 복사된 내용
 contentanalysis-operationtype-dropped-text = 드롭된 텍스트
 contentanalysis-operationtype-print = 인쇄
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -64,6 +72,7 @@ contentanalysis-invalid-agent-signature-message-content = { $agent } 에이전�
 contentanalysis-error-message-upload-file = “{ $filename }” 업로드가 거부되었습니다.
 contentanalysis-error-message-dropped-text = 끌어다 놓기가 거부되었습니다.
 contentanalysis-error-message-clipboard = 붙여넣기가 거부되었습니다.
+contentanalysis-error-message-clipboard-copy = 복사가 거부되었습니다.
 contentanalysis-error-message-print = 인쇄가 거부되었습니다.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -79,6 +88,8 @@ contentanalysis-block-dialog-title-download-file = 이 파일을 다운로드할
 contentanalysis-block-dialog-body-download-file = 사용자 조직의 데이터 보호 정책에 따라 '{ $filename }' 파일을 다운로드하는 것이 허용되지 않습니다. 자세한 내용은 관리자에게 문의하세요.
 contentanalysis-block-dialog-title-clipboard = 이 콘텐츠를 붙여넣을 수 있는 권한이 없습니다.
 contentanalysis-block-dialog-body-clipboard = 사용자 조직의 데이터 보호 정책에 따라 이 콘텐츠를 붙여넣는 것이 허용되지 않습니다. 자세한 내용은 관리자에게 문의하세요.
+contentanalysis-block-dialog-title-clipboard-copy = 이 콘텐츠를 복사할 권한이 없습니다.
+contentanalysis-block-dialog-body-clipboard-copy = 사용자 조직의 데이터 보호 정책에 따라 이 콘텐츠를 복사하는 것은 허용되지 않습니다. 자세한 내용은 관리자에게 문의하세요.
 contentanalysis-block-dialog-title-dropped-text = 이 콘텐츠를 끌어다 놓을 권한이 없습니다.
 contentanalysis-block-dialog-body-dropped-text = 사용자 조직의 데이터 보호 정책에 따라 이 콘텐츠를 끌어다 놓을 수 없습니다. 자세한 내용은 관리자에게 문의하세요.
 contentanalysis-block-dialog-title-print = 이 문서를 인쇄할 권한이 없습니다
