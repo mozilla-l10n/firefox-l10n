@@ -16,6 +16,7 @@ user-context-manage-containers-panel-item = कंटेनर केँ प्�
     .accesskey = { "" }
 user-context-manage-containers2 =
     .label = कंटेनर केँ प्रबंधित करू
+user-context-manage-containers2-panel-item = कंटेनर केँ प्रबंधित करू
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
