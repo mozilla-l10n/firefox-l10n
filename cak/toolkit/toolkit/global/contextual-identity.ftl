@@ -18,6 +18,10 @@ user-context-banking =
 user-context-shopping =
     .label = Loq'oj
     .accesskey = q
+user-context-personal2 =
+    .label = Ichinan
+user-context-work2 =
+    .label = Samaj
 
 ##
 
