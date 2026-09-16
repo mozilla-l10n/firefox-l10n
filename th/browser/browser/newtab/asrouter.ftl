@@ -252,6 +252,20 @@ launch-on-login-infobar-final-message = <strong>ต้องการเปิ�
 launch-on-login-infobar-final-reject-button = ไม่เป็นไร ขอบคุณ
     .accesskey = ม
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = ขณะนี้ { -brand-short-name } จะเปิดขึ้นเมื่อคุณลงชื่อเข้า Windows คุณสามารถเปลี่ยนสิ่งนี้ในการตั้งค่าได้ทุกเมื่อ
+launch-on-login-autostart-infobar-keep-button = เปิดไว้
+    .accesskey = ป
+launch-on-login-autostart-infobar-turn-off-button = ปิดใช้งาน
+    .accesskey = ช
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set

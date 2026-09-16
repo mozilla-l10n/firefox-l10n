@@ -41,11 +41,13 @@ migration-source-name-ie = اینترنت اکسپلورر
 migration-source-name-edge = مایکروسافت Edge
 migration-source-name-chrome = گۊگل کروم
 migration-imported-safari-reading-list = نومگه خوندن (ز Safari)
+migration-imported-edge-reading-list = نومگه خوندن (ز Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = ‏{ -brand-short-name } و پوروفایلا پوی گشت گرا پۊرنیڌه وابیڌه ری ای دسگا دسترسی نڌاره.
 migration-no-permissions-instructions-step1 = «رئڌن وا پؽش» ن پسند کۊنین
 
 ##
