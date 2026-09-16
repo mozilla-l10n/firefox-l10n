@@ -18,6 +18,12 @@ user-context-banking =
 user-context-shopping =
     .label = სავაჭრო
     .accesskey = ჭ
+user-context-personal2 =
+    .label = კერძო
+user-context-work2 =
+    .label = სამუშაო
+user-context-banking2 =
+    .label = საბანკო
 
 ##
 
