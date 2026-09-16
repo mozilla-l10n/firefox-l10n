@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Zakupy
     .accesskey = Z
+user-context-personal2 =
+    .label = Osobiste
+user-context-work2 =
+    .label = Praca
+user-context-banking2 =
+    .label = Bankowość
+user-context-shopping2 =
+    .label = Zakupy
 
 ##
 
