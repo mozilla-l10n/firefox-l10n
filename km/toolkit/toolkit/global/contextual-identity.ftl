@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = គ្រប់គ្រង​ប្
     .accesskey = o
 user-context-manage-containers2 =
     .label = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
+user-context-personal2-panel-item = ផ្ទាល់​ខ្លួន
+user-context-work2-panel-item = ការងារ​
+user-context-banking2-panel-item = សេវា​ធនាគារ​
+user-context-shopping2-panel-item = ការ​ទិញ
+user-context-manage-containers2-panel-item = គ្រប់គ្រង​ប្រអប់​ផ្ទុក
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
