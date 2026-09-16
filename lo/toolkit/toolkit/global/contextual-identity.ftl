@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = ຈັດການການແຍກ
     .accesskey = O
 user-context-manage-containers2 =
     .label = ຈັດການການແຍກຂໍ້ມູນ
+user-context-personal2-panel-item = ສ່ວນຕົວ
+user-context-work2-panel-item = ວຽກ
+user-context-banking2-panel-item = ທະນາຄານ
+user-context-shopping2-panel-item = ຊັອບ​ປິ່ງ
+user-context-manage-containers2-panel-item = ຈັດການການແຍກຂໍ້ມູນ
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
