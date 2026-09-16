@@ -22,3 +22,10 @@ about-pdf-set-default =
     .label = Bruk som standard
 about-pdf-dismiss =
     .label = Ignorer
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Tilbake
+about-pdf-feature-organize-heading = Organiser sider
+about-pdf-feature-signatures-heading = Lagre signaturer
