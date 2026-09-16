@@ -16,6 +16,7 @@ user-context-manage-containers-panel-item = কণ্টেইনাৰ পৰ�
     .accesskey = o
 user-context-manage-containers2 =
     .label = কণ্টেইনাৰ পৰিচালনা কৰক
+user-context-manage-containers2-panel-item = কণ্টেইনাৰ পৰিচালনা কৰক
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
