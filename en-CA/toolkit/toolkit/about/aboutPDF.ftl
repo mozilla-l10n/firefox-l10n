@@ -22,3 +22,4 @@ about-pdf-set-default =
     .label = Set as default
 about-pdf-dismiss =
     .label = Dismiss
+

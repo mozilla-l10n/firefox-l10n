@@ -1910,3 +1910,4 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Ho Chi Minh City
 newtab-clock-city-np-kathmandu = Kathmandu
 newtab-clock-city-mm-yangon = Yangon
+
