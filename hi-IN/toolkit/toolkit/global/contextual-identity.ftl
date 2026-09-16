@@ -42,6 +42,8 @@ user-context-shopping-panel-item = खरीदारी
     .accesskey = S
 user-context-manage-containers-panel-item = कंटेनर को प्रबंधित करें
     .accesskey = O
+user-context-manage-containers2 =
+    .label = कंटेनर को प्रबंधित करें
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
