@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Առեւտուր
     .accesskey = S
+user-context-personal2 =
+    .label = Անձնական
+user-context-work2 =
+    .label = Աշխատանքային
+user-context-banking2 =
+    .label = Բանկային
+user-context-shopping2 =
+    .label = Առեւտուր
 
 ##
 
