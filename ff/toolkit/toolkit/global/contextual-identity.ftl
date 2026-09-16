@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Coodayru
     .accesskey = C
+user-context-personal2 =
+    .label = Keeriiɗo
+user-context-work2 =
+    .label = Gollirdu
+user-context-banking2 =
+    .label = Bankayru
+user-context-shopping2 =
+    .label = Coodayru
 
 ##
 
