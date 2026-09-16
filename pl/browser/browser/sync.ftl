@@ -88,7 +88,7 @@ fxa-menu-send-to-mobile-sign-in = Zaloguj się, aby wysyłać karty
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
 # Dialog 1 - different account signing in without option to merge
-sync-profile-different-account-title = Osiągnięto ograniczenie kont dla tego profilu
+sync-profile-different-account-title = Przekroczono ograniczenie kont dla tego profilu
 sync-profile-different-account-header = Ten profil był wcześniej synchronizowany z innym kontem
 # Variables:
 #   $acctEmail (String) - Email of the account signing into sync.
