@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = 새 컨테이너 추가
 user-context-manage-containers2 =
     .label = 컨테이너 관리
+user-context-personal2-panel-item = 개인
+user-context-work2-panel-item = 업무
+user-context-banking2-panel-item = 은행
+user-context-shopping2-panel-item = 쇼핑
+user-context-new-tab2-panel-item = 새 탭
+user-context-add-container2-panel-item = 새 컨테이너 추가
+user-context-manage-containers2-panel-item = 컨테이너 관리
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
