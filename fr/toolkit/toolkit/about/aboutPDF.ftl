@@ -5,6 +5,8 @@
 about-pdf-title = Éditeur PDF de { -brand-short-name }
 about-pdf-header = PDF de { -brand-short-name }
 about-pdf-tagline = Un outil libre et gratuit pour lire, fusionner, signer, commenter et plus encore, dans lequel la confidentialité est intégrée
+about-pdf-features-cta =
+    .label = Parcourir les outils PDF
 about-pdf-dropzone =
     .title = Déposez un PDF ici pour commencer ou appuyez sur Entrée
 about-pdf-dropzone-hint = Déposez un PDF ici pour commencer
@@ -22,3 +24,26 @@ about-pdf-set-default =
     .label = Définir par défaut
 about-pdf-dismiss =
     .label = Ignorer
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name } outils PDF
+about-pdf-features-intro = Lisez, annotez et signez des fichiers PDF où que vous soyez. C’est simple, gratuit et privé.
+about-pdf-features-back =
+    .label = Retour
+about-pdf-feature-organize-heading = Organiser les pages
+about-pdf-feature-organize-description = Réorganisez, supprimez, fusionnez et exporter des pages.
+about-pdf-feature-signatures-heading = Enregistrer les signatures
+about-pdf-feature-signatures-description = Créez plusieurs signatures et ajoutez-les aux formulaires.
+about-pdf-feature-comments-heading = Ajouter des notes
+about-pdf-feature-comments-description = Laissez des commentaires et des rappels pendant la lecture.
+about-pdf-feature-annotate-heading = Annoter des fichiers PDF
+about-pdf-feature-annotate-description = Ajoutez du texte, des surlignages et des dessins.
+about-pdf-feature-images-heading = Envoyer des images accessibles
+about-pdf-feature-images-description = Ajoutez du texte de remplacement pour que les images fonctionnent pour plus de personnes.
+about-pdf-feature-view-heading = Choisissez l’affichage
+about-pdf-feature-view-description = Faites défiler verticalement ou horizontalement, ou changez la mise en page.
+about-pdf-feature-presentation-heading = Présentez les fichiers PDF en plein écran
+about-pdf-feature-presentation-description = Partager une vue régulière en mode présentation.
+about-pdf-feature-details-heading = Accédez plus rapidement aux détails
+about-pdf-feature-details-description = Utilisez les plans, les pièces jointes et les propriétés pour vous déplacer dans vos fichiers PDF.
