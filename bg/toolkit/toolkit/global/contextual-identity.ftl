@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Пазаруване
     .accesskey = п
+user-context-personal2 =
+    .label = Личен
+user-context-work2 =
+    .label = Служебен
+user-context-banking2 =
+    .label = Банкиране
+user-context-shopping2 =
+    .label = Пазаруване
 
 ##
 
