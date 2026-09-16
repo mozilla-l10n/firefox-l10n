@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Tiɣin
     .accesskey = T
+user-context-personal2 =
+    .label = Udmawan
+user-context-work2 =
+    .label = Amahil
+user-context-banking2 =
+    .label = Banking
+user-context-shopping2 =
+    .label = Tiɣin
 
 ##
 
