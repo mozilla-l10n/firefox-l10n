@@ -16,13 +16,27 @@ firefoxview-page-label =
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 firefoxview-just-now-timestamp = Հենց հիմա
 firefoxview-syncedtabs-signin-header-2 = Ձեր { -brand-product-name }-ը ձեր բոլոր սարքերի վրա
+firefoxview-syncedtabs-signin-description-2 = Ձեր հեռախոսում և այլ սարքերում բացված ներդիրները տեսնելու համար մուտք գործեք կամ գրանցվեք հաշիվ ստեղծելու համար: Հաշիվ ունենալով կարող եք նաև համաժամեցնել ձեր գաղտնաբառերը, պատմությունը և այլն:
+# The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
+firefoxview-syncedtabs-signin-header-3 = Նոութբուքից հեռախոս՝ անխափան
+firefoxview-syncedtabs-signin-description-3 = Պահեք ձեր զննարկիչը միացված տարբեր սարքերում՝ ներդիրները, գաղտնաբառերը և պատմությունը՝ բոլորը համաժամեցված։
 firefoxview-syncedtabs-signin-primarybutton-2 = Մուտք գործել
 firefoxview-syncedtabs-adddevice-header-2 = Վերցրեք ներդիրները ցանկացած վայրից
+firefoxview-syncedtabs-adddevice-description-2 = Մուտք գործեք { -brand-product-name } ձեր հեռախոսից կամ մեկ այլ համակարգչից՝ այստեղ ներդիրները տեսնելու համար: Իմացեք, թե ինչպես <a data-l10n-name="url">միացնել լրացուցիչ սարքեր</a>:
 firefoxview-syncedtabs-adddevice-primarybutton = Փորձեք { -brand-product-name }-ը բջջայինի համար
+# "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
+firefoxview-syncedtabs-adddevice-header-3 = Ձեր ներդիրները զանգահարեցին։ Դրանք ձեր հեռախոսում են։
+firefoxview-syncedtabs-adddevice-description-3 = Սկանավորեք QR կոդը՝ { -brand-product-name }-ը բջջային հեռախոսի համար ստանալու և ձեր բաց ներդիրները և այլն համաժամեցնելու համար: Իմացեք, թե ինչպես <a data-l10n-name="url">միացնել լրացուցիչ սարքեր</a>:
 firefoxview-tabpickup-synctabs-primarybutton = Համաժամեցված ներդիրները
+firefoxview-tabpickup-synctabs-primarybutton-2 = Միացնել ներդիրների համաժամացումը
 firefoxview-syncedtabs-synctabs-header = Թարմացրեք ձեր համաժամացման կարգավորումները
+firefoxview-syncedtabs-synctabs-description = Այլ սարքերից ներդիրները տեսնելու համար անհրաժեշտ է համաժամեցնել ձեր բաց ներդիրները։
 firefoxview-syncedtabs-synctabs-header-2 = Ներդիրների համաժամեցումն անջատված է
+firefoxview-syncedtabs-synctabs-description-2 = Միացրեք համաժամեցումը՝ ձեր բոլոր ներդիրները այլ սարքերից ստանալու համար։
 firefoxview-syncedtabs-loading-header = Համաժամացում
+firefoxview-syncedtabs-loading-description = Երբ այն ավարտվի, դուք կտեսնեք բոլոր բացված ներդիրները այլ սարքերում: Ստուգեք կրկին շուտով:
+firefoxview-syncedtabs-loading-header-2 = Ձեր ներդիրները բեռնվում են…
+firefoxview-syncedtabs-loading-description-2 = Համաժամեցումն ընթացքի մեջ է։ Ներդիրները շուտով կլինեն այստեղ։
 firefoxview-tabpickup-fxa-admin-disabled-header = Ձեր կազմակերպությունն անջատել է համաժամացումը
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name }-ը չի կարողանում համաժամացնել ներդիրները սարքերի միջև, քանզի Ձեր կազմակերպությունն անջատել է համաժամացումը:
 firefoxview-tabpickup-fxa-admin-disabled-header-2 = Ներդիրների համաժամեցումն անջատված է
@@ -31,9 +45,15 @@ firefoxview-tabpickup-network-offline-header = Ստուգեք կապակցում
 firefoxview-tabpickup-network-offline-description = Եթե դուք օգտվում եք հրապատից կամ փոխանորդից, ստուգեք, թե արդյոք { -brand-short-name }-ն ունի համացանցին հասանելիության թույլտվություն:
 firefoxview-tabpickup-network-offline-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-network-offline-header-2 = { -brand-short-name }-ը չի կարողանում միանալ այս պահին
+firefoxview-tabpickup-network-offline-description-2 = Հնարավոր է՝ դուք անջատված եք, կամ ինչ-որ բան կարող է խոչընդոտել կապը։
 firefoxview-tabpickup-sync-error-header = Մենք խնդիրներ ունենք համաժամեցման հետ
+firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name }-ը այս պահին չի կարողանում կապ հաստատել համաժամեցման ծառայության հետ։ Փորձեք կրկին մի քանի րոպեից։
+# “Sync hit a snag” means that the sync process is having a problem and can’t connect.
+firefoxview-tabpickup-sync-error-header-2 = Սինխրոնիզացումը խափանվեց
+firefoxview-tabpickup-generic-sync-error-description-2 = { -brand-short-name }-ը չկարողացավ միանալ։ Մի պահ սպասեք, ապա կրկին փորձեք։
 firefoxview-tabpickup-sync-error-primarybutton = Կրկին փորձել
 firefoxview-tabpickup-sync-disconnected-header = Շարունակելու համար միացրեք համաժամացումը
+firefoxview-tabpickup-sync-disconnected-description = Ձեր ներդիրները ստանալու համար դուք պետք է թույլատրեք համաժամեցումը { -brand-short-name }-ում։
 firefoxview-tabpickup-sync-disconnected-primarybutton = Միացրեք համաժամացումը կարգավորումներում
 firefoxview-tabpickup-password-locked-header = Ներդիրները դիտելու համար մուտքագրեք Հիմնական գաղտնաբառը
 firefoxview-tabpickup-password-locked-description = Ձեր ներդիրները ստանալու համար պետք է մուտքագրեք Հիմնական գաղտնաբառը { -brand-short-name }-ի համար:
@@ -41,7 +61,9 @@ firefoxview-tabpickup-password-locked-link = Իմանալ ավելին
 firefoxview-tabpickup-password-locked-primarybutton = Մուտքագրել Հիմնական գաղտնաբառը
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Իմանալ ավելին</a>
 firefoxview-tabpickup-password-locked-header-2 = Բացեք ներդիրները ձեր հիմնական գաղտնաբառով
+firefoxview-tabpickup-password-locked-description-2 = Ձեր գաղտնիության համար համաժամեցված ներդիրները պաշտպանված են: Մուտքագրեք ձեր { -brand-short-name } հիմնական գաղտնաբառը՝ ձեր մյուս սարքերից ներդիրները տեսնելու համար:
 firefoxview-tabpickup-signed-out-header = Մուտք գործեք՝ կրկին կապակցվելու համար
+firefoxview-tabpickup-signed-out-description2 = Վերամիանալու և ձեր ներդիրները ստանալու համար մուտք գործեք ձեր հաշիվ։
 firefoxview-tabpickup-signed-out-primarybutton = Մուտք գործել
 firefoxview-tabpickup-signed-out-header-2 = Մուտք գործեք՝ ձեր ներդիրները տեսնելու համար
 firefoxview-tabpickup-signed-out-description-2 = Վերամիացեք՝ այլ սարքերից ներդիրները դիտելու համար։
@@ -165,6 +187,7 @@ firefoxview-show-all-history = Ցուցադրել ամբողջ պատմությ�
 
 firefoxview-history-empty-header = Վերադարձեք այնտեղ, որտեղ եղել եք
 firefoxview-history-empty-description = Ինչպես որ դիտարկում եք, ձեր այցելած էջերը կցուցադրվեն այստեղ:
+firefoxview-history-empty-description-two = Ձեր գաղտնիության պաշտպանությունը մեր գործունեության հիմքում է։ Ահա թե ինչու դուք կարող եք վերահսկել { -brand-short-name }-ի կողմից հիշվող գործունեությունը ձեր <a data-l10n-name="history-settings-url">պատմության կարգավորումներում</a>։
 
 ##
 

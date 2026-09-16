@@ -88,6 +88,7 @@ perplexity-callout-theme-1-title = Անմիջապես ճիշտ պատասխան�
 perplexity-callout-theme-2-title = Փորձեք շփոթվածությունը. որոնման նոր եղանակ
 perplexity-callout-theme-1-subtitle-1 = Փորձեք «Շփոթվածություն» խաղը։ Ընտրեք այն որոնման կոճակից, երբ ցանկանում եք ստանալ ամբողջական պատասխաններ՝ ներառյալ աղբյուրները։
 perplexity-callout-theme-1-subtitle-2 = Հարցեր տվեք։ Ստացեք ամբողջական, լավ մեջբերված պատասխաններ։ Perplexity-ն փորձելու համար ընտրեք այն որոնման կոճակից։
+perplexity-callout-theme-2-subtitle-1 = Հարցրեք շփոթվածությանը։ Դուք կստանաք ամբողջական պատասխաններ՝ ներառյալ աղբյուրները։
 perplexity-callout-theme-2-subtitle-2 = Հարցեր տվեք։ Ստացեք ամբողջական, լավ մեջբերված պատասխաններ։
 perplexity-callout-primary-label = Հարցրեք շփոթվածությանը
 perplexity-callout-secondary-label-1 = Բաց թողնել
@@ -122,6 +123,26 @@ taskbar-tabs-media-callout-subtitle = Գործարկեք ձեր հոսքային
 taskbar-tabs-value-prop-callout-title = Ավելացրել այս կայքը Ձեր խնդրագոտուն
 taskbar-tabs-value-prop-callout-subtitle = Մեկ կտտոցով թողարկեք այն իր սեփական պատուհանում և պարզեցված միջերեսով:
 
+## Taskbar Tabs callout strings (treatment B copy variants)
+##
+## In the subtitles below, a "streamlined window" is a taskbar tab: the site
+## opens in its own dedicated window with a simplified interface, without the
+## usual browser tabs and toolbars.
+
+# Treatment B changes only the title for chat; the subtitle is unchanged from
+# treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
+taskbar-tabs-chat-callout-title-v3 = Մնացեք կապի մեջ ձեր առաջադրանքների վահանակից
+taskbar-tabs-email-callout-title-v3 = Պահեք ձեր մուտքի արկղը ձեր առաջադրանքների վահանակում
+taskbar-tabs-email-callout-subtitle-v3 = Գործարկեք ձեր էլ. փոստի կայքերը հավելվածի նման՝ { -brand-short-name }-ով պաշտպանված, հեշտացված պատուհանում։
+taskbar-tabs-media-callout-title-v3 = Պահպանեք ձեր հոսքային հեռարձակումը ձեր առաջադրանքների վահանակում
+taskbar-tabs-media-callout-subtitle-v3 = Գործարկեք ձեր մեդիա կայքերը ինչպես հավելված՝ { -brand-short-name }-ով պաշտպանված, հեշտացված պատուհանում։
+taskbar-tabs-value-prop-callout-title-v3 = Ամրացրեք ձեր նախընտրած կայքերը ձեր առաջադրանքների վահանակում
+taskbar-tabs-value-prop-callout-subtitle-v3 = Գործարկեք ցանկացած կայք, օրինակ՝ հավելված, { -brand-short-name }-ով պաշտպանված, հարմարեցված պատուհանում։
+taskbar-tabs-gaming-callout-title-v3 = Վերադարձեք խաղերին ձեր առաջադրանքների վահանակից
+taskbar-tabs-gaming-callout-subtitle-v3 = Գործարկեք ձեր խաղային կայքերը հավելվածի նման՝ { -brand-short-name }-ով պաշտպանված, հարմարեցված պատուհանում։
+# Button that pins the current site to the taskbar as a taskbar tab
+taskbar-tabs-callout-primary-button-v3 = Ամրացնել Խնդրագոտուն
+
 ## Windows 10 EoS Sync messages group 1 callouts
 
 windows-10-eos-sync-urgency-title-1 = Մի կորցրեք ձեր պահպանած ամեն ինչ, երբ անցնեք Windows 11-ի։
@@ -138,7 +159,9 @@ windows-10-eos-sync-general-subtitle-1 = Պահուստավորեք և համա�
 windows-10-eos-sync-general-title-2 = Հիմա լավ ժամանակ է ձեր գաղտնաբառերն ու էջանիշները պահուստավորելու համար։
 windows-10-eos-sync-general-subtitle-2 = Համաժամեցրեք հիմա՝ պաշտպանելու համար այն իրերը, որոնց վստահում եք { -brand-short-name }-ը, և դրանք ցանկացած վայրից, ցանկացած ժամանակ ստանալու համար։
 windows-10-eos-sync-tour-title-1 = Շատ ներդիրներ ունե՞ք։ Կարգավորեք իրավիճակը ներդիրների խմբերի միջոցով։
+windows-10-eos-sync-tour-subtitle-1 = Քաշեք մեկ ներդիրը մյուսի վրա՝ խումբ ստեղծելու և ամեն ինչ կազմակերպված պահելու համար։
 windows-10-eos-sync-tour-title-2 = Կազմակերպվեք Windows 11-ի համար։
+windows-10-eos-sync-tour-subtitle-2 = Համաժամեցրեք ձեր էջանիշները, գաղտնաբառերը և կարգավորումները՝ դրանք պահուստավորելու համար, նախքան անցումը կատարելը։
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = Ցուցադրել ավելի քիչ երաշխավորություններ
 windows-10-eos-sync-dismiss-button-label = Բաց թողնել
@@ -147,6 +170,7 @@ windows-10-eos-sync-callout-primary-advance-button-label = Հաջորդը
 ## Link Preview Onboarding message callout strings
 
 link-preview-onboarding-callout-title = Նոր. Սեղմեք և պահեք՝ հղումները նախադիտելու համար
+link-preview-onboarding-callout-description = Տեսեք կարճ նկարագրությունը, ընթերցման ժամանակը և այլն՝ որոշելու համար, թե արդյոք հղումը արժե սեղմել։ Հասանելի է նաև աջ սեղմումով։
 
 ## Tab Groups Onboarding Strings
 ## These strings appear in a callout shown to users to introduce tab groups,
@@ -155,6 +179,13 @@ link-preview-onboarding-callout-title = Նոր. Սեղմեք և պահեք՝ հ�
 ## natural in their language rather than translating literally — the goal is
 ## an inviting, conversational tone, not a word-for-word match.
 
+# "Cut the clutter" is an English idiom meaning "reduce visual mess." Please
+# adapt to a phrase that conveys the idea of cleaning up or organizing a busy
+# tab strip in a way that sounds natural in your language.
+tab-groups-2026-onboarding-callout-title = Կտրեք ավելորդ բաները ներդիրների խմբերի միջոցով
+# "Drag more in as you go" means users can add additional tabs to the group
+# over time, while they’re working. Please adapt for natural phrasing.
+tab-groups-2026-onboarding-callout-subtitle = Խմբավորեք ձեր ներդիրները ըստ առաջադրանքի կամ թեմայի: Քաշեք ավելին՝ շարժվելիս:
 # Button label — keep short (ideally under ~15 characters) so it fits in the
 # callout UI. "Start a group" means "create a new tab group."
 tab-groups-2026-onboarding-cta-button = Սկսել խումբ
@@ -165,6 +196,7 @@ sidebar-button-callout-title = Ցուցադրել ներդիրների վերն�
 sidebar-button-callout-subtitle = Օգտագործեք կողագոտի կոճակը՝ կողագոտին ընդլայնելու համար, որպեսզի կարողանաք տեսնել ներդիրների վերնագրերը:
 sidebar-button-callout-vertical-tabs = Ձեր ներդիրները ցուցադրելու համար ընտրեք կողագոտու կոճակը գործիքագոտիում:
 sidebar-deprecation-callout-title = Թարմացված կողային վահանակը շուտով կհայտնվի
+sidebar-deprecation-callout-subtitle = Մենք փուլ առ փուլ դադարեցնում ենք կողային վահանակի այն տարբերակը, որն այժմ օգտագործում եք։ Փորձեք թարմացված կողային վահանակը։ Այն ավելի արագ է, և դուք հասանելիություն եք ստանում ավելի շատ գործիքների։
 sidebar-deprecation-cta-button = Փորձել հիմա
 
 ## Sidebar Vertical Tabs Strings
@@ -174,15 +206,18 @@ vertical-tabs-callout-1-subtitle = Փորձեք մեր նոր ուղղահայա
 vertical-tabs-callout-1-cta-button = Փորձեք ուղղահայաց ներդիրները
 vertical-tabs-callout-2-cta-button = Փորձել հիմա
 vertical-tabs-callout-2-title = Շատ ներդիրներ բաց պահե՞լ։ Փորձեք ուղղահայաց ներդիրները։
+vertical-tabs-callout-2-subtitle = Այս դասավորությունը հեշտացնում է ձեր ներդիրների ցանկի արագ սկանավորումը: Բացի այդ, դուք կարող եք կարգավորել լայնությունը՝ ձեր ներդիրների վերնագրերից ավելին կամ պակաս տեսնելու համար:
 
 ## Sidebar Vertical Tabs Pinning Strings
 
 sidebar-pins-callout-title = Կորցնո՞ւմ եք ձեր կարևոր ներդիրների հետքը։
+sidebar-pins-callout-subtitle = Փորձեք ամրացնել դրանք, ինչը կմնա ձեր ներդիրների ցանկի վերևում: Սեղմեք աջ կոճակով այն ներդիրի վրա, որը ցանկանում եք ամրացնել, ապա ընտրեք «Ամրացնել ներդիրը»:
 sidebar-pins-callout-cta-button = Ամրացնել ներդիրը
 
 ## Pinning Tabs Strings
 
 pin-tabs-callout-1-title = Կարևոր գրառումները պահեք հասանելիության սահմաններում
+pin-tabs-callout-1-subtitle = Քաշեք ներդիրը ներդիրների գոտու սկիզբ՝ այն ամրացնելու համար: Կամ սեղմեք աջ կոճակով և ընտրեք «Ամրացնել ներդիրը»:
 pin-tabs-callout-cta-1-button = Ամրացնել այս ներդիրը
 pin-tabs-callout-2-title = Ամրացրեք ամենաշատ այցելվող ներդիրները
 pin-tabs-callout-2-subtitle = Ցանկացած ներդիր ամրացնելու համար՝ քաշեք այն ներդիրի հատվածի մեկնարկ կամ աջ կտտոց և ընտրեք Ամրացնել ներդիրը:
@@ -210,6 +245,9 @@ sidebar-callout-survey-neutral = Չեզոք
 sidebar-callout-survey-dissatisfied-2 = Դժգոհ
 sidebar-callout-survey-very-dissatisfied-2 = Շատ դժգոհ
 sidebar-callout-survey-dont-use-it = Ես այն չեմ օգտագործում
+sidebar-callout-survey-productive-question =
+    Որքանո՞վ եք համաձայն կամ համաձայն չեք այս պնդման հետ.<br/>
+    «{ -brand-short-name } կողային վահանակը օգնում է ինձ ավելի արդյունավետ լինել»:
 sidebar-callout-survey-strongly-agree = Լիովին համաձայն եմ
 sidebar-callout-survey-agree = Համաձայն եմ
 sidebar-callout-survey-disagree = Համաձայն չեմ
@@ -225,6 +263,7 @@ sidebar-genai-survey-satisfaction-question = Որքա՞ն գոհ եք կողագ
 sidebar-genai-survey-productive-question =
     Որքանո՞վ եք համաձայն կամ համաձայն չեք այս պնդման հետ.<br/>
     «Կողային վահանակում գտնվող արհեստական բանականությամբ չաթբոտը օգնում է ինձ ավելի արդյունավետ լինել»:
+splitview-onboarding-callout-title-1 = Բաժանված տեսք. բազմախնդրություն կատարելու ավելի լավ միջոց
 splitview-onboarding-callout-subtitle-1 = Սեղմեք այս ներդիրի աջ կոճակը և ընտրեք «Ավելացնել տրոհված տեսք»՝ միաժամանակ երկու ներդիր տեսնելու համար։
 splitview-onboarding-callout-cta-1 = Փորձել հիմա
 splitview-onboarding-callout-title-2 = Դիտեք երկու ներդիր միաժամանակ՝ բաժանված տեսքով

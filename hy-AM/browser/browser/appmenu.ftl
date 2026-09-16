@@ -126,6 +126,7 @@ fxa-menu-sync-off-data-description = Ձեր տվյալները չեն համաժ
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = Միացնել
+fxa-menu-sync-status-turn-on-button-aria-label = Միացնել
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = Մուտք գործեք համաժամեցման համար
@@ -425,3 +426,15 @@ appmenu-secure-sync-header = Անվտանգ համաժամեցում
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Վերջին ներդիրները
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Դիտել { $tabCount } համաժամեցված ներդիրը
+           *[other] Դիտել բոլոր { $tabCount } համաժամեցված ներդիրները
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Ուղարկել ընթացիկ էջը այս սարքին

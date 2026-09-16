@@ -29,8 +29,14 @@ ipprotection-feature-introduction-title-1 = Փորձեք { -brand-product-name }
 ipprotection-feature-introduction-title-privacy = Ավելացրեք գաղտնիության ևս մեկ շերտ
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
+ipprotection-feature-introduction-description-summer-promo = Ավելի հեռու գնացեք { -brand-product-name }-ի ներկառուցված VPN-ի միջոցով. ավելի շատ վայրեր, անսահմանափակ թողունակություն։ Այժմ մինչև օգոստոսի 31-ը։
+ipprotection-feature-introduction-link-text-private-browsing-2 = Օգտագործեք մեր նոր <a data-l10n-name="learn-more-vpn">ներկառուցված VPN-ը</a>՝ ձեր գտնվելու վայրը թաքցնելու և տվյալները պաշտպանելու համար, նույնիսկ երբ գտնվում եք «Մասնավոր պատուհանում»։
+ipprotection-feature-introduction-description-private-browsing = Զննեք լրացուցիչ պաշտպանությամբ՝ թաքցնելով ձեր գտնվելու վայրը, նույնիսկ երբ գտնվում եք «Մասնավոր պատուհանում»։
 # Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Հանրային Wi-Fi-ի՞ վրա եք։ Փորձեք { -brand-product-name }-ի ներկառուցված VPN-ը։
+ipprotection-feature-introduction-description-captive-portal = Դիտեք լրացուցիչ պաշտպանությամբ՝ թաքցնելով ձեր գտնվելու վայրը, նույնիսկ հանրային Wi-Fi-ում։
+# Used for discovery callouts for both captive portal login and private browsing
+ipprotection-feature-introduction-link-text-captive-portal-1 = Ստացեք <a data-l10n-name="learn-more-vpn">լրացուցիչ գաղտնիություն</a>՝ ընտրելով մի քանի տեղանքներից մեկը՝ ձեր զննարկման վայրը թաքցնելու համար։
 ipprotection-feature-introduction-button-primary = Հաջորդը
 ipprotection-feature-introduction-button-secondary-not-now = Ոչ հիմա
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -48,10 +54,27 @@ ipprotection-feature-introduction-button-get-started = Սկսել
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Ձեր ներկառուցված VPN սահմանափակումները կվերակայվեն սեպտեմբերի 1-ին
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description = Օգտագործեք ձեր { $maxUsage } ԳԲ-ն և 6 տեղակայումները լրացուցիչ գաղտնիության համար, որպեսզի ձեր զննարկիչը դժվար լինի հետևել ձեզ։
+# Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Օգտագործեք ձեր { $maxUsage } ԳԲ-ը և ավելի քան 20 տեղանք՝ լրացուցիչ գաղտնիության համար, որպեսզի ձեր զննարկիչը դժվարանա հետևել ձեզ։
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscriber-title = Ձեր ներկառուցված VPN-ը հենց նոր ավելի լավն է դարձել
+ipprotection-summer-promo-offramp-subscriber-description = Դուք այժմ ստանում եք անսահմանափակ թողունակություն և ավելի շատ վայրեր որպես { -mozilla-vpn-brand-name } բաժանորդ։
+# Default browser incentive summer promo offramp message
+# "Make Firefox your go-to browser" refers to setting Firefox to default.
+# This appears in a promo message with a button labeled "Set to default"
+ipprotection-summer-promo-offramp-default-browser-incentive-title = Պահպանեք ձեր լրացուցիչ ներկառուցված VPN տեղակայումները
+ipprotection-summer-promo-offramp-default-browser-incentive-description = Դարձրեք { -brand-product-name }-ը ձեր հիմնական դիտարկիչը և օգոստոսի 31-ից հետո ստացեք ավելի քան 20 լրացուցիչ վայրեր, որտեղից կարող եք զննել։
+# Mozilla VPN upsell summer promo offramp message
+# "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
+ipprotection-summer-promo-offramp-subscription-upsell-title = Բարձրացրեք մակարդակը { -mozilla-vpn-brand-name }-ով
+ipprotection-summer-promo-offramp-subscription-upsell-description = Պահպանեք անսահմանափակ թողունակությունը օգոստոսի 31-ից հետո՝ 300+ տեղակայմամբ 5 սարքերի վրա, որպեսզի ձեր դիտարկիչը դժվարանա հետևել ձեզ։
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Բացել VPN-ը
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Կայել որպես սկզբնադիր
@@ -73,15 +96,20 @@ ipprotection-location-selection-callout-secondary-button = Բաց թողնել
 
 ## VPN for Android promo callout
 
+ipprotection-android-promo-callout-title = Վերցրեք ներկառուցված VPN-ը ձեզ հետ Android-ում
+ipprotection-android-promo-callout-description = Սկանավորեք QR կոդը՝ Android-ի համար { -brand-product-name }-ը ստանալու համար և միացրեք ներկառուցված VPN-ը՝ ճանապարհին ավելի շատ գաղտնիություն ապահովելու համար: Շուտով հասանելի կլինի նաև iOS-ում:
 ipprotection-android-promo-callout-primary-button = Հասկացա
 
 ## Panel
 
 # Also used for the callout shown in private browsing
 unauthenticated-vpn-title = Փորձեք { -brand-product-name }-ի ներկառուցված VPN-ը
+unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Թաքցրեք ձեր գտնվելու վայրը</a> { -brand-product-name }-ում զննարկելիս։
 unauthenticated-private-location-message = Օգնում է <a data-l10n-name="learn-more-vpn">-ին պահպանել ձեր տեղադրությունը գաղտնի</a> { -brand-product-name }-ում։
 unauthenticated-choose-location-message-1 = Ընտրեք տեղադրությունների մեկը կամ թույլ տվեք { -brand-product-name }-ին ընտրել ամենաարագը։
+unauthenticated-site-rules-message = Վերահսկեք, թե որ կայքերն են օգտագործում VPN, և որոնք՝ ոչ։
 unauthenticated-get-started = Սկսել
+unauthenticated-terms-of-service-privacy-notice = Շարունակելով՝ դուք համաձայնում եք <a data-l10n-name="vpn-terms-of-service">Օգտագործման պայմանների</a> և <a data-l10n-name="vpn-privacy-notice">Գաղտնիության ծանուցման</a> հետ։
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN-ը միացված է այս կայքի համար
     .label = Օգտագործեք VPN այս կայքի համար
@@ -89,6 +117,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN-ը անջատված է այս կայքի համար
     .label = Օգտագործեք VPN այս կայքի համար
 site-exclusion-toggle-description = Կայքը չի՞ աշխատում։ Փորձեք անջատել VPN-ը։
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Կառավարել VPN կանոնները
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Ձեր կանոնը
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN-ն անջատված է այս կայքի համար
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN-ը միացված է այս կայքի համար
 ipprotection-settings-link =
     .label = Կարգավորումներ
 
@@ -142,7 +178,11 @@ ipprotection-locations-subview-promo-button = Ստանալ { -mozilla-vpn-brand-
 ## VPN paused state
 
 upgrade-vpn-title = Ստացեք լրացուցիչ պաշտպանություն՝ բացի զննարկիչից
+upgrade-vpn-description = Ընտրեք ձեր VPN տեղադրությունը, օգտագործեք VPN ձեր բոլոր հավելվածների և մինչև 5 սարքերի համար և մնացեք անվտանգ ցանկացած ցանցում՝ տանը կամ հանրային Wi-Fi-ում։
 upgrade-vpn-button = Փորձեք { -mozilla-vpn-brand-name }-ը
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-connection-status-paused-description-1 = Դուք օգտագործել եք ձեր VPN տվյալների բոլոր { $maxUsage } ԳԲ-ը։ Մուտքը կվերականգնվի հաջորդ ամիս։
 ipprotection-connection-status-paused-title-2 = VPN-ը դադարեցված է
     .aria-label = VPN-ը դադարեցված է
 

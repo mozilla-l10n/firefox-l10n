@@ -62,3 +62,13 @@ about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }-ը �
 about-private-browsing-felt-privacy-v1-info-header = Այս սարքի վրա հետքեր չթողնել
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name }-ը ջնջում է ձեր թխուկները, պատմությունը և կայքի տվյալները, երբ փակում եք բոլոր գաղտնի պատուհանները:
 about-private-browsing-felt-privacy-v1-info-link = Ո՞վ կարող է տեսնել իմ գործունեությունը:
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Բոլոր անձնական պատուհանները փակելը կջնջի ձեր թխուկները, պատմությունը և կայքի տվյալները։
+about-private-browsing-nova-info-link = Ո՞վ կարող է դեռ տեսնել իմ գործունեությունը։
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Դուք գրառումից դուրս եք
+about-private-browsing-nova-info-subheader2 = Մենք կջնջենք բոլոր որոնումներն ու մուտքերը, երբ դուք փակեք ձեր բոլոր մասնավոր պատուհանները։ { -brand-short-name }-ի ներկառուցված պաշտպանությունները նույնպես միացված են այստեղ, օրինակ՝ հետևորդների արգելափակումը։

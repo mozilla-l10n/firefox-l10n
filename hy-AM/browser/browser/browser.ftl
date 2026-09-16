@@ -26,6 +26,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Կառավարել թռուցիկները և երրորդ կողմի վերահասցեավորման կարգավորումները…
     .accesskey = M
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Դիտել կայքի տեղեկությունը
+            [1] Դիտել կայքի տեղեկատվությունը (1 հետագծող արգելափակված է)
+            [one] Դիտել կայքի տեղեկատվությունը ({ $count } հետագծողներ արգելափակված են)
+           *[other] Դիտել կայքի տեղեկատվությունը ({ $count } հետագծողներ արգելափակված են)
+        }
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկությունը
 
@@ -101,6 +111,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Կառավարել { -firefox-sugge
 urlbar-result-menu-report-inaccurate-location2 = Հաղորդել ոճ ճշգրիտ տեղադրության մասին
 urlbar-result-menu-show-less-frequently2 = Ցուցադրել հազվադեպ
 urlbar-result-menu-dont-show-weather-suggestions2 = Չցուցադրել եղանակի առաջարկներ
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Մերժել այս առաջարկը
+    .accesskey = Մ
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Ջնջել պատմությունից
+    .accesskey = Ջ
 urlbar-result-menu-learn-more =
     .label = Իմանալ ավելին
     .accesskey = L
@@ -284,11 +304,14 @@ quickactions-addons = Դիտել հավելումները
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = ընդլայնումներ, ոճեր, հավելումներ, հավելումներ
+# Opens preferences page at AI controls
+quickactions-manageai = Միացնել արհեստական բանականության կառավարումը
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Կառավարել էջանիշները
 quickactions-cmd-bookmarks = Էջանիշեր
 # Opens a SUMO article explaining how to clear history
 quickactions-clearrecenthistory = Մաքրել վերջին պատմությունը
+quickactions-cmd-clearrecenthistory2 = թխուկներ, մաքրել թխուկները, շտեմ, մաքրել շտեմը, դիտարկման տվյալներ, մաքրել դիտարկման տվյալները, պատմություն, մաքրել վերջին պատմությունը
 # Opens about:downloads page
 quickactions-downloads2 = Ցուցադրել ներբեռնումները
 quickactions-cmd-downloads = ներբեռնումներ
@@ -444,6 +467,8 @@ identity-ev-owner-label2 = Վկայականը տրվել է
 identity-verifier-label2 = Հաստատված է
 identity-ev-owner-label = Վկայագիրը թողարկվել է՝
 identity-verifier-label = Ստուգվել է`
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Որակավորված է (ԵՄ) 2024/1183 կանոնակարգում նշվածի համաձայն։
 identity-description-custom-root2 = Mozilla֊ն չի ճանաչում այս վկայագրի թողարկողին։ Այն հնարավոր է ավելացվել է Ձեր գործավարական համակարգից կամ վարիչի կողմից։
 identity-cert-exception-overridden = Դուք այս կայքի համար սահմանել էք անվտանգության բացառություն
 identity-remove-cert-exception =
@@ -458,6 +483,8 @@ identity-description-passive-loaded-insecure2 = Այս կայքը պարունա
 identity-description-passive-loaded-mixed2 = Չնայած { -brand-short-name }-ը արգելափակել է որոշ բովանդակություն՝ այս էջում դեռ կա ոչ անվտանգ բովանդակություն (օր.՝ պատկերներ):
 identity-description-active-loaded = Այս կայքը պարունակում է բովանդակություն, որն անվտանգ չէ (օր.՝ գրվածքներ) և Ձեր միացումը գաղտնի չէ:
 identity-description-active-loaded-insecure = Կայք ուղարկված տեղեկատվությունը կարող է դիտվել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրությունները, քարտային տվյալները և այլն):
+identity-description-tls-key-logging-heading = Ձեր միացումն անվտանգ չէ
+identity-description-tls-key-logging-message = Այս կայքից ձեր կոդավորված երթևեկությունը կարող է տեսնել որևէ հավելված կամ ծառայություն։
 identity-more-info-link-text =
     .label = Մանրամասն
 
@@ -691,6 +718,38 @@ urlbar-result-action-ai-chat = Հարցնել
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative = Դուք վերջին անգամ այցելել եք { $date }
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] Դուք վերջին անգամ այցելել եք { $daysAgo } օր առաջ
+       *[other] Դուք վերջին անգամ այցելել եք { $daysAgo } օր առաջ
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] Դուք վերջին անգամ այցելել եք { $weeksAgo } շաբաթ առաջ
+       *[other] Վերջին անգամ այցելել եք { $weeksAgo } շաբաթ առաջ
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] Վերջին անգամ այցելել եք { $monthsAgo } ամիս առաջ
+       *[other] Վերջին անգամ այցելել եք { $monthsAgo } ամիս առաջ
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = Դուք վերջին անգամ այցելել եք { $date }
 # This explanation is used when the result is bookmarked. The date will be
 # formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
@@ -701,6 +760,13 @@ urlbar-result-explanation-bookmarked = Էջանշված է { $date }
 # Variables:
 #   $date (string) - A localized relative date string
 urlbar-result-explanation-last-visited-relative-2 = Վերջին այցելությունը՝ { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = Վերջին այցելությունը՝ { $date }
 # This explanation is used when the last-visited date is further in the past.
 # The date will be formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
@@ -712,6 +778,8 @@ urlbar-result-explanation-last-visited-absolute-2 = Վերջին այցելու�
 
 # This string is shown as title when Market suggestion are disabled.
 urlbar-result-market-opt-in-title = Ստացեք ֆոնդային շուկայի տվյալները անմիջապես որոնման դաշտում
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = Ցուցադրել շուկայի թարմացումները և մեր գործընկերների կողմից այլ տեղեկություններ, երբ դուք որոնման հարցումների տվյալները կիսում եք { -vendor-short-name }-ի հետ։ <a data-l10n-name="learn-more-link">Իմանալ ավելին</a>
 # This string is shown as button to activate online when realtime suggestion are disabled.
 urlbar-result-realtime-opt-in-allow = Ցուցադրել առաջարկներ
 # This string is shown in split button to dismiss activation the Realtime suggestion.
@@ -803,6 +871,14 @@ urlbar-searchmode-no-keyword2 =
     .title = Բանալի բառերի որոնումը անջատված է
 urlbar-searchmode-dropmarker2 =
     .title = Ավելացնել որոնիչ
+urlbar-searchmode-bookmarks3 = Էջանիշեր
+    .accesskey = Է
+urlbar-searchmode-tabs3 = Ներդիրներ
+    .accesskey = Ն
+urlbar-searchmode-history3 = Պատմություն
+    .accesskey = Պ
+urlbar-searchmode-actions3 = Գործողություններ
+    .accesskey = Գ
 urlbar-searchmode-exit-button2 =
     .title = Փակել
 urlbar-searchmode-default2 =
@@ -818,6 +894,8 @@ urlbar-searchmode-popup-one-off-header = Այս անգամ որոնել հետև
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Որոնել՝
+urlbar-searchmode-popup-search-settings = Որոնման կարգավորումներ
+    .accesskey = Ո
 urlbar-searchmode-popup-settings = Կարգավորումներ
     .accesskey = S
 
@@ -928,6 +1006,7 @@ fullscreen-warning-no-domain = Փաստաթուղթը այժմ լիաէկրան 
 fullscreen-exit-button = Դուրս գալ Լիաէկրանից (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Դուրս գալ Լիաէկրանից (esc)
+fullscreen-keyboardlock-exit-button = Ելք լիաէկրան ռեժիմից (սեղմեք և պահեք Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-keyboardlock-exit-mac-button = Ելք լիաէկրանից (սեղմեք և պահեք Esc)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
@@ -1200,6 +1279,14 @@ private-browsing-indicator-label = Գաղտնի դիտարկում
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Գաղտնի դիտարկում
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Գաղտնի դիտարկման տեղեկություն
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Դուք գաղտնի պատուհանում եք
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = Սա օգնում է թաքցնել ձեր զննարկումը այս սարքի մյուս օգտատերերից, բայց ձեզ անտեսանելի չի դարձնում առցանց։ <a data-l10n-name="learn-more">Ո՞վ կարող է տեսնել իմ գործունեությունը։</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1270,6 +1357,9 @@ refresh-blocked-allow =
 ## Firefox Relay integration
 
 firefox-relay-offer-why-to-use-relay = Մեր անվտանգ, հեշտ օգտագործման դիմակները պաշտպանում են ձեր ինքնությունը և կանխում թափոնը՝ թաքցնելով ձեր էլ.փոստի հասցեն:
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Ձեր էլ. փոստի դիմակներին ուղարկված բոլոր էլ.փոստերը կուղարկվեն <strong>{ $useremail }</strong>:
 
 ## Add-on Pop-up Notifications
 

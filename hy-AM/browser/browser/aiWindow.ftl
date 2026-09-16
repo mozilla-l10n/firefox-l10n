@@ -161,6 +161,15 @@ aiwindow-firstrun-default-checkbox-description = Անջատեք կարգավոր
 smartwindow-ask-button =
     .label = Հարցնել
 
+## Memories toggle button
+
+aiwindow-memories-on =
+    .aria-label = Հիշողությունները միացված են
+    .tooltiptext = Օգտագործեք հիշողությունները պատասխաններում, երբ դրանք օգտակար են
+aiwindow-memories-off =
+    .aria-label = Հիշողությունները անջատված են
+    .tooltiptext = Մի՛ օգտագործեք հիշողություններ պատասխաններում
+
 ## New Chat Button
 
 aiwindow-new-chat =
@@ -202,6 +211,14 @@ aiwindow-fullpage-more =
     .label = Ավելին
     .title = Ավելին
 
+## Sign out dialog
+
+fxa-signout-dialog-body-aiwindow = Համաժամեցված տվյալները կմնան ձեր հաշվում: Բացելով { -smart-window-brand-name(plural-form: "true") } տարբերակը՝ կանցնեք դասական Windows-ի:
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Անցնել { -smart-window-brand-name }-ին
+
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
@@ -241,6 +258,7 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 ## Message displayed in Firefox View when the user has no chat data
 
 firefoxview-chats-empty-header = Վերադարձեք ձեր զրույցներին
+firefoxview-chats-empty-description = { -smart-window-brand-name }-ն օգտագործելիս ձեր զրույցները կպահպանվեն այստեղ։
 
 ## Count displayed in fxview chat search results
 
@@ -252,6 +270,9 @@ firefoxview-search-chat-results-count =
 
 ## Clear browsing data dialog
 
+item-history-downloads-and-chat =
+    .label = Դիտարկման, ներբեռնման և զրույցի պատմություն
+    .accesskey = B
 item-history-downloads-and-chat-description = Մաքրում է կայքի, ներբեռնումների և զրույցի պատմությունը
 
 ## Natural Language Interactions
@@ -279,9 +300,11 @@ smart-window-confirm-close-tabs =
 # Shown after the Smart Window closes the user’s current tab in response to a
 # natural language prompt action, anchored to the toolbar menu button.
 smartwindow-close-tab-callout-title = Ներդիրը փակվեց
+smartwindow-close-tab-callout-subtitle = Վերաբացեք Պատմության ներդիրները ցանկացած պահի։
 
 ## Smart Window new tab promo
 
+smart-window-default-promo-heading = Դարձնե՞լ { -smart-window-brand-name }-ը ձեր լռելյայն տարբերակը։
 smart-window-default-promo-message = { -brand-short-name }-ը ամեն անգամ կբացվի { -smart-window-brand-name }-ում։
 smart-window-default-promo-primary-button = Կայել որպես սկզբնադիր
 smart-window-default-promo-additional-button = Ոչ հիմա
@@ -291,6 +314,8 @@ smart-window-default-promo-additional-button = Ոչ հիմա
 aiwindow-feedback-modal-title = Կիսվեք ձեր կարծիքով
 aiwindow-feedback-what-worked-well = Ի՞նչն էր լավ ստացվել։ Խնդրում եմ, անձնական տեղեկություններ չտրամադրել։
 aiwindow-feedback-choose-any = Ընտրեք համապատասխաններից որևէ մեկը
+aiwindow-feedback-add-details = Ավելացրեք մանրամասներ, եթե ցանկանում եք։ Խնդրում եմ՝ անձնական տեղեկություններ չտրամադրեք։
+aiwindow-feedback-disclaimer = Ուղարկելով՝ դուք կիսվում եք ձեր կարծիքով և այս զրույցով՝ { -brand-shorter-name }-ին օգնելու բարելավել { -smart-window-brand-name }-ը: Ձեր մյուս զրույցները մնում են գաղտնի: <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 aiwindow-feedback-submit = Ուղարկել
 aiwindow-feedback-cancel = Չեղարկել
 aiwindow-feedback-reason-incorrect-or-misleading = Սխալ կամ մոլորեցնող
@@ -329,3 +354,19 @@ aiwindow-starter-planning-plan = Օգնեք պլան կազմել
 aiwindow-starter-browsing-history = Գտնել ներդիրները պատմության մեջ
 aiwindow-starter-browsing-summarize = Ամփոփել ներդիրները
 aiwindow-starter-browsing-compare = Համեմատել ներդիրները
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Գլորել հետ
+    .tooltiptext = Գլորել հետ
+aiwindow-starter-scroll-end =
+    .aria-label = Առաջ գլորել
+    .tooltiptext = Առաջ գլորել
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = Փակել { $text }-ը
+    .title = Փակել { $text }-ը

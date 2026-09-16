@@ -43,10 +43,21 @@ aiwindow-retry-without-memories =
 aiwindow-retry =
     .aria-label = Կրկնել
     .tooltiptext = Կրկնել
+aiwindow-copy-message =
+    .aria-label = Պատճենել հաղորդագրությունը
+    .tooltiptext = Պատճենել
 aiwindow-copy-table =
     .aria-label = Պատճենել աղյուսակը
     .tooltiptext = Պատճենել աղյուսակը
 aiwindow-table-scroll-indicator = Գլորեք՝ ավելին տեսնելու համար
+aiwindow-thumbs-up =
+    .aria-label = Կիսվեք դրական արձագանքով
+    .tooltiptext = Կիսվեք դրական արձագանքով
+aiwindow-thumbs-down =
+    .aria-label = Կիսվեք բացասական արձագանքով
+    .tooltiptext = Կիսվեք բացասական արձագանքով
+aiwindow-applied-memories-popover =
+    .aria-label = Հիշողության վահանակ
 aiwindow-applied-memories-list =
     .aria-label = Հիշողություններ
 # Variables:
@@ -54,18 +65,44 @@ aiwindow-applied-memories-list =
 aiwindow-delete-memory-button =
     .aria-label = Ջնջել { $summary }-ը
 
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Անցնել զրույցի ներքևի մասը
+    .tooltiptext = Անցնել ներքև
+
 ## Natural Language Action
 
 smartwindow-nl-retry-tool-button =
     .label = Կրկնել
+smartwindow-nl-retry-message = Եթե դեռ ցանկանում եք փակել ներդիրները, ընտրեք <strong>Կրկին փորձել</strong> և կատարեք ձեր ընտրությունը բացվող քարտում։
+smartwindow-nl-retry-group-tabs-message = Եթե դեռ ցանկանում եք խմբավորել ներդիրները, ընտրեք <strong>Կրկին փորձել</strong> և ընտրեք բացվող քարտի վրա նշվածները։
+smartwindow-nl-thinking = Համապատասխան ներդիրների որոնում…
+smartwindow-loading-assistant-response =
+    .aria-label = Օգնականի պատասխանը բեռնվում է
 smartwindow-nl-undo-button =
     .label = Հետարկել
 
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] { $count } ներդիրը փակվեց
+       *[other] Փակված { $count } ներդիրներ
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Կատարված է։ Ներդիրը փակ է։
+       *[other] Կատարված է։ Ներդիրները փակ են։
+    }
 smart-window-closed-tabs-row-label = Փակված ներդիրներ
 smart-window-closed-and-restored-label = Փակված և վերականգնված ներդիրներ
+smart-window-restored-row-label =
+    { $count ->
+        [one] Վերականգնված { $count } ներդիր
+       *[other] Վերականգնված { $count } ներդիրներ
+    }
 smart-window-restore-success-summary =
     { $count ->
         [one] Ներդիրները փակվեցին, ապա վերականգնվեցին։
@@ -74,6 +111,12 @@ smart-window-restore-success-summary =
 smart-window-cancelled-label = Հարցումը չեղարկվել է։
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Խումբ
+# Button label - "Group" is a verb (action to group tabs)
+smart-window-confirm-group-tabs =
+    { $count ->
+        [one] Խմբավորել { $count } ներդիրը
+       *[other] Խմբավորել { $count } ներդիրները
+    }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Բացել
 smart-window-grouped-tabs-row-label = Խմբավորված ներդիրներ
