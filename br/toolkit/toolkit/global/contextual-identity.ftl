@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Merañ an endalc'herioù
     .accesskey = e
 user-context-manage-containers2 =
     .label = Merañ an endalc'herioù
+user-context-personal2-panel-item = Personel
+user-context-work2-panel-item = Labour
+user-context-banking2-panel-item = Bank
+user-context-shopping2-panel-item = Prenadennoù
+user-context-manage-containers2-panel-item = Merañ an endalc'herioù
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
