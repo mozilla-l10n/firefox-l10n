@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = خرید
     .accesskey = خ
+user-context-personal2 =
+    .label = شخصی
+user-context-work2 =
+    .label = کاری
+user-context-banking2 =
+    .label = بانکی
+user-context-shopping2 =
+    .label = خرید
 
 ##
 
