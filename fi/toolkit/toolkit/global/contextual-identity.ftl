@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Kaupat
     .accesskey = K
+user-context-personal2 =
+    .label = Omat
+user-context-work2 =
+    .label = Työ
+user-context-banking2 =
+    .label = Raha
+user-context-shopping2 =
+    .label = Kaupat
 
 ##
 
