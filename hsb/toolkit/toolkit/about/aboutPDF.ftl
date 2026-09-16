@@ -22,3 +22,9 @@ about-pdf-set-default =
     .label = Jako standard wužiwać
 about-pdf-dismiss =
     .label = Zaćisnyć
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Wróćo
+about-pdf-feature-organize-heading = Strony organizować

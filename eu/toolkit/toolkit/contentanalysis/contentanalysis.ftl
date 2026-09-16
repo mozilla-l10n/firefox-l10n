@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = Itsatsi duzuna zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = Kopiatu duzuna zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = Jaregin duzun testua zure 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = Inprimatu duzuna zure erakundearen datu-politiken aurka berrikusten ari da { $agent }. Une bat har lezake honek.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Eduki hau kopiatzea mugatu du zure erakundeak.
 contentanalysis-operationtype-clipboard = arbela
+contentanalysis-operationtype-clipboard-copy = edukia kopiatuta
 contentanalysis-operationtype-dropped-text = jaregindako testua
 contentanalysis-operationtype-print = inprimatu
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Sinaduraren egiaztapen
 contentanalysis-error-message-upload-file = "{ $filename }" igotzea ukatu da.
 contentanalysis-error-message-dropped-text = Arrastatu eta jaregitea ukatuta.
 contentanalysis-error-message-clipboard = Itsastea ukatuta.
+contentanalysis-error-message-clipboard-copy = Kopiatzea ukatu da.
 contentanalysis-error-message-print = Inprimatzea ukatuta.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = Ez duzu fitxategi hau deskarg
 contentanalysis-block-dialog-body-download-file = Zure erakundearen datuen babeserako politiken pean, ez duzu "{ $filename }" fitxategia deskargatzeko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
 contentanalysis-block-dialog-title-clipboard = Ez duzu eduki hau itsasteko baimenik
 contentanalysis-block-dialog-body-clipboard = Zure erakundearen datuen babeserako politiken pean, ez duzu eduki hau itsasteko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
+contentanalysis-block-dialog-title-clipboard-copy = Ez duzu eduki hau kopiatzeko baimenik
+contentanalysis-block-dialog-body-clipboard-copy = Zure erakundearen datuen babeserako politiken pean, ez duzu eduki hau kopiatzeko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
 contentanalysis-block-dialog-title-dropped-text = Ez duzu eduki hau jaregiteko baimenik
 contentanalysis-block-dialog-body-dropped-text = Zure erakundearen datuen babeserako politiken pean, ez duzu eduki hau arrastatu eta jaregiteko baimenik. Informazio gehiagorako, jarri harremanetan zure kudeatzailearekin.
 contentanalysis-block-dialog-title-print = Ez duzu dokumentu hau inprimatzeko baimenik
