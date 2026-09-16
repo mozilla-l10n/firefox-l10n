@@ -54,6 +54,10 @@ user-context-add-container =
     .accesskey = T
 user-context-manage-containers2 =
     .label = Håndter kontekster
+user-context-personal2-panel-item = Personlig
+user-context-work2-panel-item = Arbejde
+user-context-banking2-panel-item = Bank
+user-context-shopping2-panel-item = Shopping
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
