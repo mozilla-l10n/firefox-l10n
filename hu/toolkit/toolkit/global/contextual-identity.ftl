@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Új konténer hozzáadása
     .accesskey = a
+user-context-new-tab2 =
+    .label = Új lap
+user-context-add-container2 =
+    .label = Új konténer hozzáadása
 user-context-manage-containers2 =
     .label = Konténerek kezelése
 
