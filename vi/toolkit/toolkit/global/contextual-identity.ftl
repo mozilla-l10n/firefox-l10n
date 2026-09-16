@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Thêm ngăn chứa mới
     .accesskey = A
+user-context-new-tab2 =
+    .label = Không ngăn chứa
+user-context-add-container2 =
+    .label = Thêm ngăn chứa mới
 user-context-manage-containers2 =
     .label = Quản lý ngăn chứa
 
