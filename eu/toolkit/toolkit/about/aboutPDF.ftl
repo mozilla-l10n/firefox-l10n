@@ -31,3 +31,7 @@ about-pdf-features-header = { -brand-short-name } PDF tresnak
 about-pdf-features-back =
     .label = Atzera
 about-pdf-feature-organize-heading = Antolatu orriak
+about-pdf-feature-organize-description = Berrordenatu, kendu, elkartu eta esportatu orriak.
+about-pdf-feature-signatures-heading = Gorde sinadurak
+about-pdf-feature-signatures-description = Sortu hainbat sinadura eta gehitu hauek inprimakietara.
+about-pdf-feature-comments-heading = Gehitu oharrak
