@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = စျေးဝယ်ခြင်း
     .accesskey = S
+user-context-personal2 =
+    .label = ကိုယ်ရေးကိုယ်တာ
+user-context-work2 =
+    .label = အလုပ်
+user-context-banking2 =
+    .label = ဘဏ်လုပ်ငန်းဆိုင်ရာ
+user-context-shopping2 =
+    .label = စျေးဝယ်ခြင်း
 
 ##
 
