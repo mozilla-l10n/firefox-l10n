@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Embojuaju mba’yru pyahu
 user-context-manage-containers2 =
     .label = Guerekoha ñangarekohára
+user-context-personal2-panel-item = Mba’etéva
+user-context-work2-panel-item = Mba’eapo
+user-context-banking2-panel-item = Virurendagua
+user-context-shopping2-panel-item = Ñemuhaguasu
+user-context-new-tab2-panel-item = Tendayke pyahu
+user-context-add-container2-panel-item = Embojuaju mba’yru pyahu
+user-context-manage-containers2-panel-item = Guerekoha ñangarekohára
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
