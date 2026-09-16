@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Dagens bilde
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Søk
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nylege søk
@@ -497,6 +501,11 @@ newtab-recent-searches-just-now = Akkurat no
 newtab-recent-searches-row-remove =
     .aria-label = Fjern «{ $search }» frå nylege søk
 
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Søk
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -858,6 +867,9 @@ newtab-wallpaper-add-an-image = Legg til eit bilde
 newtab-wallpaper-custom-color = Vel ein farge
 newtab-wallpaper-toggle-title =
     .label = Bakgrunnsbilde
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Bakgrunnskategoriar
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Bildet overskreid filstorleiksgrensa på { $file_size }MB. Prøv å laste opp ei mindre fil.
