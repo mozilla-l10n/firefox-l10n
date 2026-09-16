@@ -42,6 +42,8 @@ user-context-shopping-panel-item = షాపింగ్
     .accesskey = S
 user-context-manage-containers-panel-item = కంటెయినర్లను నిర్వహించండి
     .accesskey = O
+user-context-manage-containers2 =
+    .label = కంటెయినర్లను నిర్వహించండి
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
