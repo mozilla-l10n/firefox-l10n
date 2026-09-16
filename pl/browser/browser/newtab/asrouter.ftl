@@ -517,5 +517,5 @@ lapsed-user-toast-dismiss-button = Zamknij
 
 refresh-unused-profile-infobar-message = Wygląda na to, że { -brand-short-name } nie był włączany od jakiegoś czasu. Czy chcesz go wyczyścić, żeby śmigał jak nowy? No i witaj z powrotem!
 refresh-reinstalled-profile-infobar-message = Wygląda na to, że { -brand-short-name } został zainstalowany ponownie. Czy chcesz go wyczyścić, żeby śmigał jak nowy?
-refresh-profile-infobar-button = Odśwież program { -brand-short-name }…
+refresh-profile-infobar-button = Odśwież { -brand-short-name(case: "acc") }…
     .accesskey = O

@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 troubleshoot-mode-window =
-    .title = Otworzyć program { -brand-short-name } w trybie rozwiązywania problemów?
     .style = max-width: 400px
+    .title = Czy otworzyć { -brand-short-name(case: "acc") } w trybie rozwiązywania problemów?
 start-troubleshoot-mode =
     .label = Otwórz
 refresh-profile =
-    .label = Odśwież program { -brand-short-name }
-troubleshoot-mode-description = Użyj tego specjalnego trybu przeglądarki { -brand-short-name } do diagnozowania problemów. Rozszerzenia i ustawienia użytkownika zostaną tymczasowo wyłączone.
-skip-troubleshoot-refresh-profile = Można także pominąć rozwiązywanie problemów i zamiast tego odświeżyć program { -brand-short-name }.
+    .label = Odśwież { -brand-short-name(case: "acc") }
+troubleshoot-mode-description = Użyj tego specjalnego trybu { -brand-short-name(case: "gen") } do diagnozowania problemów. Rozszerzenia i ustawienia użytkownika zostaną tymczasowo wyłączone.
+skip-troubleshoot-refresh-profile = Można także pominąć rozwiązywanie problemów i zamiast tego odświeżyć { -brand-short-name(case: "acc") }.
 # Shown on the safe mode dialog after multiple startup crashes.
 auto-safe-mode-description = { -brand-short-name } nieoczekiwanie zakończył działanie podczas uruchamiania. Mogło to zostać spowodowane przez dodatki lub inny problem. Można spróbować zbadać sytuację i rozwiązać problem w trybie awaryjnym.
