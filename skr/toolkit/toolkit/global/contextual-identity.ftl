@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = کنٹینرز دا بندوبست �
     .accesskey = o
 user-context-manage-containers2 =
     .label = کنٹینرز دا بندوبست کرو
+user-context-personal2-panel-item = ذاتی
+user-context-work2-panel-item = کم
+user-context-banking2-panel-item = بینکاری
+user-context-shopping2-panel-item = خریداری
+user-context-manage-containers2-panel-item = کنٹینرز دا بندوبست کرو
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
