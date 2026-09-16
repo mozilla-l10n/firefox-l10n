@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Prenadennoù
     .accesskey = r
+user-context-personal2 =
+    .label = Personel
+user-context-work2 =
+    .label = Labour
+user-context-banking2 =
+    .label = Bank
+user-context-shopping2 =
+    .label = Prenadennoù
 
 ##
 
