@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Kupowanie
     .accesskey = K
 user-context-manage-containers-panel-item = Regyruj kōntynerami
     .accesskey = k
+user-context-manage-containers2 =
+    .label = Regyruj kōntynerami
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
