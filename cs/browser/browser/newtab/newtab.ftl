@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Obrázek dne
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Hledat
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nedávno vyhledávané
@@ -542,6 +546,14 @@ newtab-recent-searches-just-now = Právě teď
 newtab-recent-searches-row-remove =
     .aria-label = Odstranit „{ $search }“ z nedávných vyhledávání
 
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Vyhledávání
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Možnosti hledání
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -908,6 +920,9 @@ newtab-wallpaper-add-an-image = Přidat obrázek
 newtab-wallpaper-custom-color = Vybrat barvu
 newtab-wallpaper-toggle-title =
     .label = Tapety
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategorie tapet
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Obrázek překročil limit velikosti souboru { $file_size } MB. Zkuste nahrát menší soubor.
@@ -1809,6 +1824,20 @@ newtab-activation-window-message-values-focus-message =
         [with-cases] { -brand-product-name } vám umožní procházet internet způsobem, který vám vyhovuje a je přizpůsoben vašemu dennímu programu. Přizpůsobte si { -brand-product-name(case: "acc") }.
        *[no-cases] { -brand-product-name } vám umožní procházet internet způsobem, který vám vyhovuje a je přizpůsoben vašemu dennímu programu. Přizpůsobte si aplikaci { -brand-product-name }.
     }
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header =
+    { -brand-product-name.case-status ->
+        [with-cases] Dolaďte si { -brand-product-name(case: "acc") } podle sebe
+       *[no-cases] Dolaďte si aplikaci { -brand-product-name } podle sebe
+    }
+newtab-nova-customization-callout-message = Prozkoumejte světlé nebo tmavé motivy a tapety, se kterými bude nový { -brand-product-name } vypadat jako váš.
+newtab-nova-customization-callout-primary-button =
+    .label = Vyberte si vzhled
 
 ## Strings for the Clock widget
 
