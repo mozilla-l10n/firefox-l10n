@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
     .accesskey = A
+user-context-new-tab2 =
+    .label = ਨਵੀਂ ਟੈਬ
+user-context-add-container2 =
+    .label = ਨਵਾਂ ਕਨਟੇਨਰ ਜੋੜੋ
 user-context-manage-containers2 =
     .label = ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ
 
