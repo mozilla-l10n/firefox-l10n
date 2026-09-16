@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = 添加新身份
 user-context-manage-containers2 =
     .label = 管理身份
+user-context-personal2-panel-item = 私人
+user-context-work2-panel-item = 办公
+user-context-banking2-panel-item = 金融
+user-context-shopping2-panel-item = 购物
+user-context-new-tab2-panel-item = 新建标签页
+user-context-add-container2-panel-item = 添加新身份
+user-context-manage-containers2-panel-item = 管理身份
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
