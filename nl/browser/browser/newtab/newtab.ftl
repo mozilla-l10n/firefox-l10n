@@ -472,7 +472,7 @@ newtab-picture-check-back = Kom morgen terug voor een nieuwe foto
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons-afbeelding van de dag
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Recente zoekopdrachten

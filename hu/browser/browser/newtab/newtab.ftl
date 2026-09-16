@@ -472,7 +472,7 @@ newtab-picture-check-back = Nézzen vissza holnap új képért
 # provides no localized description.
 newtab-picture-image-alt = A nap képe a Wikimedia Commonson
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Legutóbbi keresések

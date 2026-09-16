@@ -472,7 +472,7 @@ newtab-picture-check-back = فردا برای دیدن تصویر جدید دو�
 # provides no localized description.
 newtab-picture-image-alt = تصویر روز Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = جست‌وجوهای اخیر

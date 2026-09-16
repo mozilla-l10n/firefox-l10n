@@ -436,7 +436,7 @@ newtab-picture-check-back = Hãy quay lại vào ngày mai để xem hình ảnh
 # provides no localized description.
 newtab-picture-image-alt = Hình ảnh của ngày trên Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Tìm kiếm gần đây

@@ -517,7 +517,7 @@ newtab-picture-check-back = Zítra se sem zase podívejte na novou fotku
 # provides no localized description.
 newtab-picture-image-alt = Obrázek dne od Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Nedávno vyhledávané

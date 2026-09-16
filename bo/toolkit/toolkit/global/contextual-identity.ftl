@@ -49,10 +49,3 @@ user-context-work2-panel-item = Work
 user-context-banking2-panel-item = Banking
 user-context-shopping2-panel-item = Shopping
 user-context-manage-containers2-panel-item = འཇུག་སྣོད་དོ་དམ་བྱེད་པ
-
-## Container colors, shown as selectable swatches in the container creation/edit dialog.
-
-
-## Container icons, shown as selectable swatches in the container
-## creation/edit dialog.
-

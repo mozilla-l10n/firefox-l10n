@@ -490,7 +490,7 @@ newtab-picture-check-back = Wróćće so jutře, zo byšće nowy wobraz widźał
 # provides no localized description.
 newtab-picture-image-alt = Wobraz dnja Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Najnowše pytanja

@@ -426,7 +426,7 @@ newtab-picture-check-back = 明天再来看看有没有新照片吧
 # provides no localized description.
 newtab-picture-image-alt = 维基共享资源 · 每日一图
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = 近期搜索

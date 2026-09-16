@@ -472,7 +472,7 @@ newtab-picture-check-back = Kontrolu denove morgaŭ por malkovri novan bildon
 # provides no localized description.
 newtab-picture-image-alt = Bildo de la tago de Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Ĵusaj serĉoj

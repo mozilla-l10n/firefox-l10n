@@ -83,6 +83,7 @@ translations-panel-error-change-button =
 translations-panel-error-unsupported-hint-known-2 = Beklager, vi understøtter ikke oversættelser fra { $language } endnu.
 translations-panel-error-unsupported-hint-unknown-2 = Beklager, vi understøtter ikke oversættelser fra dette sprog endnu.
 
+## The default translation view contains two language dropdowns.
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`

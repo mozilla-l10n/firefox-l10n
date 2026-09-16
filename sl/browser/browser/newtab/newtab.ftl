@@ -448,7 +448,7 @@ newtab-picture-check-back = Pridite spet jutri za novo sliko
 # provides no localized description.
 newtab-picture-image-alt = Slika dneva Wikimedijine zbirke
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Nedavna iskanja

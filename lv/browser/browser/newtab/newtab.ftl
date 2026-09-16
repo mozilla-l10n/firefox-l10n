@@ -238,7 +238,7 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Uzzināt vairāk
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Nesenie meklējumi

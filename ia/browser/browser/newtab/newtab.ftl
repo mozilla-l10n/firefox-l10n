@@ -472,7 +472,7 @@ newtab-picture-check-back = Re-controla deman pro un nove imagine
 # provides no localized description.
 newtab-picture-image-alt = Imagine del die de Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Recercas recente

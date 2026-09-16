@@ -472,7 +472,7 @@ newtab-picture-check-back = Επιστρέψτε αύριο για μια νέα
 # provides no localized description.
 newtab-picture-image-alt = Εικόνα της ημέρας από το Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Πρόσφατες αναζητήσεις

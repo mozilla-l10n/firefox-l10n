@@ -472,7 +472,7 @@ newtab-picture-check-back = Itzuli bihar argazki berri bat ikusteko
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons-eko eguneko argazkia
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Azken bilaketak

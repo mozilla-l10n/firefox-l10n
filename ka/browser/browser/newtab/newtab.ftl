@@ -472,7 +472,7 @@ newtab-picture-check-back = ხვალაც შეამოწმეთ ა�
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons – დღის სურათი
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = ბოლოს მოძიებული

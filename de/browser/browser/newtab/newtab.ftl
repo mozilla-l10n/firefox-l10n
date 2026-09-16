@@ -472,7 +472,7 @@ newtab-picture-check-back = Schauen Sie morgen wieder vorbei, um ein neues Bild 
 # provides no localized description.
 newtab-picture-image-alt = Bild des Tages der Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Letzte Suchanfragen

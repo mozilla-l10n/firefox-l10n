@@ -73,6 +73,7 @@ translations-panel-error-dismiss-button =
 translations-panel-error-change-button =
     .label = මූලාශ්‍ර භාෂාව වෙනස් කරන්න
 
+## The default translation view contains two language dropdowns.
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`

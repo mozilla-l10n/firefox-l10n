@@ -436,7 +436,7 @@ newtab-picture-check-back = 새로운 사진은 내일 다시 확인해 주세�
 # provides no localized description.
 newtab-picture-image-alt = 위키미디어 공용 오늘의 사진
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = 최근 검색

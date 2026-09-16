@@ -423,7 +423,7 @@ newtab-picture-check-back = Eju jey ko’ẽrõ ta’ãnga pyahurã rekávo
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons ra’ãnga araguáva
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Ojeheka ramóva

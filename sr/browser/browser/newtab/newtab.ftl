@@ -481,7 +481,7 @@ newtab-picture-check-back = Поново проверите сутра за но
 # provides no localized description.
 newtab-picture-image-alt = Слика дана са Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Недавне претраге

@@ -465,7 +465,7 @@ newtab-picture-check-back = כדאי לחזור מחר לתמונה חדשה
 # provides no localized description.
 newtab-picture-image-alt = תמונה של היום של Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = חיפושים אחרונים

@@ -472,7 +472,7 @@ newtab-picture-check-back = Жаңа суретті көру үшін ертең
 # provides no localized description.
 newtab-picture-image-alt = Wikimedia Commons: күн суреті
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Жуырдағы іздеулер

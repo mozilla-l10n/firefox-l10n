@@ -481,7 +481,7 @@ newtab-picture-check-back = Зазірніце заўтра, каб убачыц
 # provides no localized description.
 newtab-picture-image-alt = Фота дня з Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Нядаўнія пошукі
@@ -505,6 +505,13 @@ newtab-recent-searches-just-now = Толькі што
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Выдаліць «{ $search }» з нядаўніх пошукаў
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Нядаўнія пошукавыя запыты будуць адлюстроўвацца тут, каб вы маглі вярнуцца да іх у кожную хвіліну.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Папулярныя пошукавыя запыты зараз недаступныя.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -986,11 +993,16 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Ліса з правага краю на аранжавым фоне
+newtab-wallpaper-firefox-colorful-sky = Хвалі аранжавага колеру на фіялетавым начным небе
+newtab-wallpaper-firefox-hills-dark = Ліса бяжыць па цёмных пагорках
+newtab-wallpaper-firefox-hills-light = Ліса бяжыць па светлых пагорках
 newtab-wallpaper-firefox-tail-dark = Лісіны хвост на цёмным фоне
 newtab-wallpaper-firefox-tail-light = Лісіны хвост на светлым фоне
 newtab-wallpaper-firefox-side-kit-dark = Ліса злева, на цёмным фоне
 newtab-wallpaper-firefox-side-kit-light = Ліса злева, на светлым фоне
 newtab-wallpaper-firefox-sitting-hill-dark = Ліса сядзіць на цёмна-фіялетавых пагорках
+newtab-wallpaper-firefox-sitting-hill-light = Ліса сядзіць на светлых пагорках
 
 ## Firefox
 

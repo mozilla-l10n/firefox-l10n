@@ -481,7 +481,7 @@ newtab-picture-check-back = Revino mâine pentru o imagine nouă
 # provides no localized description.
 newtab-picture-image-alt = Imaginea zilei de pe Wikimedia Commons
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Căutări recente

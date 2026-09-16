@@ -298,7 +298,7 @@ newtab-picture-show-button =
     .aria-label = نشووݩ داڌن شؽوات ٱمرۊز
     .title = نشووݩ داڌن شؽوات ٱمرۊز
 
-## Strings for the Recent Searches widget
+## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = پیتینیڌنا دیندایی
