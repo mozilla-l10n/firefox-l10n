@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Afegeix un contenidor nou
     .accesskey = A
+user-context-manage-containers2 =
+    .label = Gestiona els contenidors
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
