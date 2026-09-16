@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Vásárlás
     .accesskey = V
+user-context-personal2 =
+    .label = Személyes
+user-context-work2 =
+    .label = Munkahelyi
+user-context-banking2 =
+    .label = Bankolás
+user-context-shopping2 =
+    .label = Vásárlás
 
 ##
 
