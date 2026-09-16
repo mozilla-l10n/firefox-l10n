@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Shopping
     .accesskey = S
+user-context-personal2 =
+    .label = Personal
+user-context-work2 =
+    .label = Work
+user-context-banking2 =
+    .label = Banking
+user-context-shopping2 =
+    .label = Shopping
 
 ##
 
