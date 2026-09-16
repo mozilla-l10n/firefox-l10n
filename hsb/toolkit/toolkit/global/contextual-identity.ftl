@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Nakupowanje
     .accesskey = N
+user-context-personal2 =
+    .label = Wosobinski
+user-context-work2 =
+    .label = Słužbny
+user-context-banking2 =
+    .label = Bankownistwo
+user-context-shopping2 =
+    .label = Nakupowanje
 
 ##
 
