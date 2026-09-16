@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = खरीदारी
     .accesskey = S
+user-context-personal2 =
+    .label = निजी
+user-context-work2 =
+    .label = कार्य
+user-context-banking2 =
+    .label = बैंकिंग
+user-context-shopping2 =
+    .label = खरीदारी
 
 ##
 
