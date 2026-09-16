@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Aldoni novan ingon
     .accesskey = A
+user-context-manage-containers2 =
+    .label = Administri ingojn
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
