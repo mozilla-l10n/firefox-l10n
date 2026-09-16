@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Compres
     .accesskey = s
+user-context-personal2 =
+    .label = Personal
+user-context-work2 =
+    .label = Faena
+user-context-banking2 =
+    .label = Banca
+user-context-shopping2 =
+    .label = Compres
 
 ##
 
@@ -34,6 +42,8 @@ user-context-shopping-panel-item = Compres
     .accesskey = s
 user-context-manage-containers-panel-item = Gestiona els contenidors
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Gestiona els contenidors
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
