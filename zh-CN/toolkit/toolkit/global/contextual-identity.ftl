@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = 添加新身份
     .accesskey = A
+user-context-manage-containers2 =
+    .label = 管理身份
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
