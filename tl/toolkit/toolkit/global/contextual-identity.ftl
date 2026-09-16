@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Pamimili
     .accesskey = S
 user-context-manage-containers-panel-item = Manage Containers
     .accesskey = O
+user-context-manage-containers2 =
+    .label = Manage Containers
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
