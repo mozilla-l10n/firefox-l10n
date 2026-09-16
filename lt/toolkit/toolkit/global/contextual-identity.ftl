@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Tvarkyti sudėtines korteles
     .accesskey = u
 user-context-manage-containers2 =
     .label = Tvarkyti sudėtines korteles
+user-context-personal2-panel-item = Asmeninis
+user-context-work2-panel-item = Darbas
+user-context-banking2-panel-item = Bankininkystė
+user-context-shopping2-panel-item = Pirkiniai
+user-context-manage-containers2-panel-item = Tvarkyti sudėtines korteles
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
