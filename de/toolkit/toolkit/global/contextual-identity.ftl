@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Neue Tab-Umgebung hinzufügen
     .accesskey = U
+user-context-new-tab2 =
+    .label = Neuer Tab
+user-context-add-container2 =
+    .label = Neue Tab-Umgebung hinzufügen
 user-context-manage-containers2 =
     .label = Tab-Umgebungen verwalten
 
