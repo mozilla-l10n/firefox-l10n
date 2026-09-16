@@ -9,6 +9,8 @@ about-pdf-title =
     }
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Bezplatný nástroj pro čtení, slučování, podepisování, přidávání komentářů a další činnosti — s integrovanými prvky pro ochranu soukromí
+about-pdf-features-cta =
+    .label = Prozkoumat nástroje pro PDF
 about-pdf-dropzone =
     .title = Sem pro začátek přetáhněte PDF nebo stiskněte Enter
 about-pdf-dropzone-hint = Pro začátek sem přetáhněte PDF
@@ -26,3 +28,27 @@ about-pdf-set-default =
     .label = Nastavit jako výchozí
 about-pdf-dismiss =
     .label = Zavřít
+
+## The about:pdf#features page.
+
+about-pdf-features-header =
+    { -brand-short-name.case-status ->
+        [with-cases] Nástroje PDF ve { -brand-short-name(case: "gen") }
+       *[no-cases] Nástroje PDF v aplikaci { -brand-short-name }
+    }
+about-pdf-features-intro = Čtěte, upravujte a podepisujte soubory PDF přímo v prohlížeči. Jednoduše, zdarma a v soukromí.
+about-pdf-features-back =
+    .label = Zpět
+about-pdf-feature-organize-heading = Organizace stránek
+about-pdf-feature-organize-description = Změňte pořadí, odstraňujte, slučujte a exportujte stránky.
+about-pdf-feature-signatures-heading = Ukládání podpisů
+about-pdf-feature-signatures-description = Vytvořte si několik podpisů a vkládejte je do formulářů.
+about-pdf-feature-comments-heading = Přidávání poznámek
+about-pdf-feature-comments-description = Během čtení zanechávejte komentáře a připomínky.
+about-pdf-feature-annotate-heading = Anotace PDF
+about-pdf-feature-annotate-description = Vkládejte text, zvýrazňujte a kreslete.
+about-pdf-feature-images-heading = Nahrávání přístupných obrázků
+about-pdf-feature-images-description = Přidejte k obrázkům alternativní text, aby byly přístupné více lidem.
+about-pdf-feature-view-heading = Zvolte způsob zobrazení
+about-pdf-feature-view-description = Posouvejte dokument svisle či vodorovně nebo změňte rozložení stránek.
+about-pdf-feature-presentation-heading = Promítejte PDF na celou obrazovku
