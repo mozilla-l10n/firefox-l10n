@@ -42,6 +42,8 @@ user-context-shopping-panel-item = Kupovina
     .accesskey = K
 user-context-manage-containers-panel-item = Upravljaj kontejnerima
     .accesskey = s
+user-context-manage-containers2 =
+    .label = Upravljaj kontejnerima
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
