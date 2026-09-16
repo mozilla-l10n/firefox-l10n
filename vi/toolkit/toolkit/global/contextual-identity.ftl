@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Thêm ngăn chứa mới
     .accesskey = A
+user-context-manage-containers2 =
+    .label = Quản lý ngăn chứa
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
