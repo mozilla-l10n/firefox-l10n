@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Ajouter un nouveau conteneur
 user-context-manage-containers2 =
     .label = Gérer les conteneurs
+user-context-personal2-panel-item = Personnel
+user-context-work2-panel-item = Professionnel
+user-context-banking2-panel-item = Bancaire
+user-context-shopping2-panel-item = Achats en ligne
+user-context-new-tab2-panel-item = Nouvel onglet
+user-context-add-container2-panel-item = Ajouter un nouveau conteneur
+user-context-manage-containers2-panel-item = Gérer les conteneurs
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
