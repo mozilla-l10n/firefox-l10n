@@ -52,3 +52,6 @@ about-pdf-feature-images-description = Přidejte k obrázkům alternativní text
 about-pdf-feature-view-heading = Zvolte způsob zobrazení
 about-pdf-feature-view-description = Posouvejte dokument svisle či vodorovně nebo změňte rozložení stránek.
 about-pdf-feature-presentation-heading = Promítejte PDF na celou obrazovku
+about-pdf-feature-presentation-description = Sdílejte přehledné zobrazení v režimu prezentace.
+about-pdf-feature-details-heading = Rychlejší hledání podrobností
+about-pdf-feature-details-description = Procházejte soubory PDF pomocí osnovy, příloh a vlastností.
