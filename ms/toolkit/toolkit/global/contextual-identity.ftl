@@ -22,6 +22,10 @@ user-context-personal2 =
     .label = Peribadi
 user-context-work2 =
     .label = Kerja
+user-context-banking2 =
+    .label = Perbankan
+user-context-shopping2 =
+    .label = Beli-belah
 
 ##
 
@@ -38,6 +42,8 @@ user-context-shopping-panel-item = Beli-belah
     .accesskey = B
 user-context-manage-containers-panel-item = Urus Penyimpan
     .accesskey = U
+user-context-manage-containers2 =
+    .label = Urus Penyimpan
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
