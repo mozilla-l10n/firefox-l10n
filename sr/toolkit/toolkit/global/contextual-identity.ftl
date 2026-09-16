@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Банкарство
     .accesskey = Б
+user-context-personal2 =
+    .label = Лично
+user-context-work2 =
+    .label = Посао
+user-context-banking2 =
+    .label = Куповина
+user-context-shopping2 =
+    .label = Банкарство
 
 ##
 
@@ -44,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Додај нови контејнер
     .accesskey = Д
+user-context-manage-containers2 =
+    .label = Управљај контејнерима
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
