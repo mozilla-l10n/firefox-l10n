@@ -24,6 +24,8 @@ user-context-work2 =
     .label = Traballo
 user-context-banking2 =
     .label = Banca
+user-context-shopping2 =
+    .label = Compras
 
 ##
 
@@ -40,6 +42,8 @@ user-context-shopping-panel-item = Compras
     .accesskey = C
 user-context-manage-containers-panel-item = Xestionar contedores
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Xestionar contedores
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
