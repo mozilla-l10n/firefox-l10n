@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Shoppin
     .accesskey = S
+user-context-personal2 =
+    .label = Personal
+user-context-work2 =
+    .label = Wark
+user-context-banking2 =
+    .label = Bankin
+user-context-shopping2 =
+    .label = Shoppin
 
 ##
 
@@ -34,6 +42,8 @@ user-context-shopping-panel-item = Shoppin
     .accesskey = S
 user-context-manage-containers-panel-item = Manage Conteeners
     .accesskey = o
+user-context-manage-containers2 =
+    .label = Manage Conteeners
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
