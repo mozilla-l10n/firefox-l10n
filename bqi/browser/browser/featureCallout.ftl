@@ -82,6 +82,7 @@ bookmarks-toolbar-callout-2b-secondary-button-label = ن ممنووݩ
 
 perplexity-callout-theme-1-title = جواو دییق ن فووری اخۊین؟
 perplexity-callout-theme-2-title = Perplexity ن امتهووݩ کۊنین: ی بارت نۊ سی پیتینیڌن
+perplexity-callout-theme-2-subtitle-2 = سوال بپۊرسین وو جواوایی جامع وابا ارجاعات دییق بگرین.
 perplexity-callout-primary-label = پورس کردن ز پرپلکسیتی
 perplexity-callout-secondary-label-1 = رڌ کردن
 perplexity-callout-secondary-label-2 = فئمیم
