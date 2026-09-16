@@ -16,6 +16,7 @@ user-context-manage-containers-panel-item = ڕێکخستنی لەخۆگرەکا�
     .accesskey = ڕ
 user-context-manage-containers2 =
     .label = ڕێکخستنی لەخۆگرەکان
+user-context-manage-containers2-panel-item = ڕێکخستنی لەخۆگرەکان
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
