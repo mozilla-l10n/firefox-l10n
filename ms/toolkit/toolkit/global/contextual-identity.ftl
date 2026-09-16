@@ -20,6 +20,8 @@ user-context-shopping =
     .accesskey = B
 user-context-personal2 =
     .label = Peribadi
+user-context-work2 =
+    .label = Kerja
 
 ##
 
