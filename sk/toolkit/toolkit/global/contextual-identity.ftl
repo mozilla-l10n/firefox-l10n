@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Pridať nový kontajner
     .accesskey = d
+user-context-manage-containers2 =
+    .label = Spravovať kontajnery
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
