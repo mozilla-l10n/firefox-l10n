@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Lägg till ny behållare
     .accesskey = L
+user-context-manage-containers2 =
+    .label = Hantera behållare
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
