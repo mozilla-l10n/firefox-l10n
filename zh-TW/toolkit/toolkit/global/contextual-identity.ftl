@@ -18,6 +18,10 @@ user-context-banking =
 user-context-shopping =
     .label = 購物
     .accesskey = S
+user-context-personal2 =
+    .label = 私人
+user-context-work2 =
+    .label = 商務
 
 ##
 
