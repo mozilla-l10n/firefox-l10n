@@ -42,6 +42,8 @@ user-context-shopping-panel-item = စျေးဝယ်ခြင်း
     .accesskey = S
 user-context-manage-containers-panel-item = ကွန်တိန်နာများ စီမံရန်
     .accesskey = က
+user-context-manage-containers2 =
+    .label = ကွန်တိန်နာများ စီမံရန်
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
