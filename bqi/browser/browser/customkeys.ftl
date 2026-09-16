@@ -12,6 +12,7 @@ customkeys-reset = وورنشۊوی
 customkeys-clear = روفتن
 customkeys-new-key = کیلیت نۊ ن فشار بڌین:
 customkeys-reset-all = وورگندن پوی ره نهنگا و هالت پؽش فرز
+customkeys-reset-all-confirm = اخۊین پوی ره نهنگا تخته کیلیت ن و هالت پؽش فرز وورگنین؟
 customkeys-file-duplicate-tab = لف گیری بلگه
 customkeys-file-focus-search = رئڌن و نوار پیتینیڌن
 customkeys-history-reopen-tab = گۊشیڌن دووارته بلگه بسته وابیڌه دیندایی
