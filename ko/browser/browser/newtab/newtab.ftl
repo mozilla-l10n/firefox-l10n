@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = 오늘의 사진
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = 검색
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = 최근 검색
@@ -461,6 +465,14 @@ newtab-recent-searches-just-now = 방금 전
 newtab-recent-searches-row-remove =
     .aria-label = 최근 검색에서 “{ $search }” 제거
 
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = 검색
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = 검색 옵션
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -821,6 +833,9 @@ newtab-wallpaper-add-an-image = 이미지 추가
 newtab-wallpaper-custom-color = 색상 선택
 newtab-wallpaper-toggle-title =
     .label = 배경 화면
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = 배경 화면 카테고리
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 이미지가 파일 크기 제한인 { $file_size }MB를 초과했습니다. 더 작은 파일을 업로드 해 주세요.
@@ -1668,6 +1683,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = 이 공간은 유연하고 사용자 정의가 가능합니다
 newtab-activation-window-message-values-focus-message = { -brand-product-name }는 사용자가 원하는 방식으로 탐색할 수 있게 해주며, 온라인에서 하루를 시작하는 더 개인화된 방법을 제공합니다. 나만의 { -brand-product-name }를 만드세요.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = { -brand-product-name }에 나만의 개성을 더해 보세요
+newtab-nova-customization-callout-message = 새로워진 { -brand-product-name }를 나만의 스타일로 바꿀 수 있는 밝은 테마, 어두운 테마, 그리고 배경 화면을 살펴보세요.
+newtab-nova-customization-callout-primary-button =
+    .label = 스타일 선택하기
 
 ## Strings for the Clock widget
 

@@ -46,3 +46,4 @@ about-pdf-feature-view-description = 세로 또는 가로로 스크롤하거나 
 about-pdf-feature-presentation-heading = PDF를 전체 화면으로 프레젠테이션해 보세요.
 about-pdf-feature-presentation-description = 프레젠테이션 모드에서 불필요한 요소 없이 깔끔한 화면을 공유해 보세요.
 about-pdf-feature-details-heading = 원하는 정보를 더 빠르게 찾아보세요.
+about-pdf-feature-details-description = 개요, 첨부파일, 속성을 활용해 PDF 내에서 원하는 곳으로 바로 이동해 보세요.

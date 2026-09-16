@@ -22,3 +22,16 @@ about-pdf-set-default =
     .label = Ορισμός ως προεπιλογή
 about-pdf-dismiss =
     .label = Απόρριψη
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Εργαλεία PDF του { -brand-short-name }
+about-pdf-features-back =
+    .label = Πίσω
+about-pdf-feature-organize-heading = Οργάνωση σελίδων
+about-pdf-feature-signatures-heading = Αποθήκευση υπογραφών
+about-pdf-feature-comments-heading = Προσθήκη σημειώσεων
+about-pdf-feature-annotate-heading = Σήμανση αρχείων PDF
+about-pdf-feature-annotate-description = Προσθέστε κείμενο, επισημάνσεις και σχέδια.
+about-pdf-feature-view-heading = Επιλέξτε την προβολή σας
+about-pdf-feature-details-heading = Βρείτε λεπτομέρειες ταχύτερα

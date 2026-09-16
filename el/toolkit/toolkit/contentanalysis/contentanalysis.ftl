@@ -83,6 +83,7 @@ contentanalysis-block-dialog-title-download-file = Δεν επιτρέπεται
 contentanalysis-block-dialog-body-download-file = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να κάνετε λήψη του αρχείου «{ $filename }». Επικοινωνήστε με τον διαχειριστή για περισσότερες πληροφορίες.
 contentanalysis-block-dialog-title-clipboard = Δεν επιτρέπεται να επικολλήσετε αυτό το περιεχόμενο
 contentanalysis-block-dialog-body-clipboard = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να επικολλήσετε αυτό το περιεχόμενο. Επικοινωνήστε με τον διαχειριστή για περισσότερες πληροφορίες.
+contentanalysis-block-dialog-title-clipboard-copy = Δεν επιτρέπεται να αντιγράψετε αυτό το περιεχόμενο
 contentanalysis-block-dialog-title-dropped-text = Δεν επιτρέπεται να αποθέσετε αυτό το περιεχόμενο
 contentanalysis-block-dialog-body-dropped-text = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να κάνετε μεταφορά και απόθεση αυτού του περιεχομένου. Επικοινωνήστε με τον διαχειριστή για περισσότερες πληροφορίες.
 contentanalysis-block-dialog-title-print = Δεν επιτρέπεται να εκτυπώσετε αυτό το περιεχόμενο
