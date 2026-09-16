@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Compris
     .accesskey = C
+user-context-personal2 =
+    .label = Personâl
+user-context-work2 =
+    .label = Vore
+user-context-banking2 =
+    .label = Bancje
+user-context-shopping2 =
+    .label = Compris
 
 ##
 
@@ -34,6 +42,8 @@ user-context-shopping-panel-item = Compris
     .accesskey = C
 user-context-manage-containers-panel-item = Gjestìs contignidôrs
     .accesskey = G
+user-context-manage-containers2 =
+    .label = Gjestìs contignidôrs
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
