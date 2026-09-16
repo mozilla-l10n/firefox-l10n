@@ -22,6 +22,10 @@ user-context-personal2 =
     .label = 私人
 user-context-work2 =
     .label = 商務
+user-context-banking2 =
+    .label = 金融
+user-context-shopping2 =
+    .label = 購物
 
 ##
 
@@ -48,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = 新增容器
     .accesskey = A
+user-context-manage-containers2 =
+    .label = 管理容器
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
