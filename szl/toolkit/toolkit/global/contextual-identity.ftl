@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Regyruj kōntynerami
     .accesskey = k
 user-context-manage-containers2 =
     .label = Regyruj kōntynerami
+user-context-personal2-panel-item = Ôsobiste
+user-context-work2-panel-item = Robota
+user-context-banking2-panel-item = Bank
+user-context-shopping2-panel-item = Kupowanie
+user-context-manage-containers2-panel-item = Regyruj kōntynerami
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
