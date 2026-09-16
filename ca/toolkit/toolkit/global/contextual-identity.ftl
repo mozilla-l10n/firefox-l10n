@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Afegeix un contenidor nou
 user-context-manage-containers2 =
     .label = Gestiona els contenidors
+user-context-personal2-panel-item = Personal
+user-context-work2-panel-item = Feina
+user-context-banking2-panel-item = Banca
+user-context-shopping2-panel-item = Compres
+user-context-new-tab2-panel-item = Pestanya nova
+user-context-add-container2-panel-item = Afegeix un contenidor nou
+user-context-manage-containers2-panel-item = Gestiona els contenidors
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
