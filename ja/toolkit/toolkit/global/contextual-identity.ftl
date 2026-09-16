@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = ショッピング
     .accesskey = S
+user-context-personal2 =
+    .label = 個人
+user-context-work2 =
+    .label = 仕事
+user-context-banking2 =
+    .label = 銀行取引
+user-context-shopping2 =
+    .label = ショッピング
 
 ##
 
