@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Жаңа контейнерді қосу
     .accesskey = а
+user-context-new-tab2 =
+    .label = Жаңа бет
+user-context-add-container2 =
+    .label = Жаңа контейнерді қосу
 user-context-manage-containers2 =
     .label = Контейнерлерді басқару
 
