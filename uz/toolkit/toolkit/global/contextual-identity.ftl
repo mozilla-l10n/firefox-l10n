@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = Konteynerlarni boshqarish
     .accesskey = O
 user-context-manage-containers2 =
     .label = Konteynerlarni boshqarish
+user-context-personal2-panel-item = Shaxsiy
+user-context-work2-panel-item = Ish
+user-context-banking2-panel-item = Bank ishi
+user-context-shopping2-panel-item = Xaridlar
+user-context-manage-containers2-panel-item = Konteynerlarni boshqarish
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
