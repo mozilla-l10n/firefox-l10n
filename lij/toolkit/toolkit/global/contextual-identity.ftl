@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Negòççi
     .accesskey = N
+user-context-personal2 =
+    .label = Personâ
+user-context-work2 =
+    .label = Travaggio
+user-context-banking2 =
+    .label = Banca
+user-context-shopping2 =
+    .label = Negòççi
 
 ##
 
