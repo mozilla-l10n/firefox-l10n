@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Legg til ny behaldar
 user-context-manage-containers2 =
     .label = Handsam behaldarar
+user-context-personal2-panel-item = Personleg
+user-context-work2-panel-item = Arbeid
+user-context-banking2-panel-item = Bank
+user-context-shopping2-panel-item = Shopping
+user-context-new-tab2-panel-item = Ny fane
+user-context-add-container2-panel-item = Legg til ny behaldar
+user-context-manage-containers2-panel-item = Handsam behaldarar
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
