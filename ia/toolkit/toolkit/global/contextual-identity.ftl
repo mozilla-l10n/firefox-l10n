@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Adder nove contentor
 user-context-manage-containers2 =
     .label = Gerer le contentores
+user-context-personal2-panel-item = Personal
+user-context-work2-panel-item = Professional
+user-context-banking2-panel-item = Bancari
+user-context-shopping2-panel-item = Compras
+user-context-new-tab2-panel-item = Nove scheda
+user-context-add-container2-panel-item = Adder nove contentor
+user-context-manage-containers2-panel-item = Gerer le contentores
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
