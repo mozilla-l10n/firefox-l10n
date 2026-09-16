@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Aldoni novan ingon
     .accesskey = A
+user-context-new-tab2 =
+    .label = Nova langeto
+user-context-add-container2 =
+    .label = Aldoni novan ingon
 user-context-manage-containers2 =
     .label = Administri ingojn
 
