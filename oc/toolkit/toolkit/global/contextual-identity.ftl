@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Crompas
     .accesskey = C
+user-context-personal2 =
+    .label = Personal
+user-context-work2 =
+    .label = Trabalh
+user-context-banking2 =
+    .label = Banca
+user-context-shopping2 =
+    .label = Crompas
 
 ##
 
