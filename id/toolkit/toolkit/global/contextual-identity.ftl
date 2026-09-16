@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Tambahkan kontainer baru
     .accesskey = a
+user-context-new-tab2 =
+    .label = Tab Baru
+user-context-add-container2 =
+    .label = Tambahkan kontainer baru
 user-context-manage-containers2 =
     .label = Kelola Kontainer
 
