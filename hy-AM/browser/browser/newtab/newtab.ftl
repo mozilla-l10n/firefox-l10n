@@ -262,6 +262,36 @@ newtab-privacy-message-milestone-week-cta = Դիտել պաշտպանությո�
 newtab-privacy-message-milestone-month-cta = Դիտել պաշտպանությունները
 newtab-privacy-message-milestone-total-cta = Դիտել պաշտպանությունները
 newtab-privacy-message-daily-cap-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-streak-cta = Տվյալների պաշտպանություն
+# Shown the first time the tracker count goes above zero.
+newtab-privacy-message-first-protection = Շարունակեք զննել, { -brand-short-name }-ը կշարունակի արգելափակել։
+newtab-privacy-message-first-protection-cta = Դիտել պաշտպանությունները
+
+## Strings for the Stocks widget
+
+# Context menu item linking to more information about the Stocks widget.
+newtab-stocks-menu-learn-more = Իմանալ ավելին
+# Shown in the Stocks widget when its data could not be loaded.
+newtab-stocks-error-not-available = Բաժնետոմսերի տվյալները հասանելի չեն։
+# "Stocks widget options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button =
+    .aria-label = Բաժնետոմսերի վիջեթի ընտրանքներ
+    .title = Բաժնետոմսերի վիջեթի ընտրանքներ
+# Accessible name for the Stocks widget; hidden because the list dropdown is
+# shown in place of the title.
+newtab-stocks-widget-title = Բաժնետոմսեր
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Շուկաներ
+    .label = Շուկաներ
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Դիտացանկ
+    .label = Դիտացանկ
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Որոնել անունով կամ խորհրդանիշով
 
 ## Stocks widget ticker search
 
@@ -304,6 +334,69 @@ newtab-picture-attribution-source-link = Վիքիմեդիա համայնք
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Դիտել { $license } լիցենզիան
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .aria-label = Սահմանեք այսօրվա նկարը որպես ձեր պաստառ
+    .label = Կայել պաստառ
+    .title = Կայել պաստառ
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Կառավարել պաստառը
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Թաքցնել այսօրվա նկարը
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Ցուցադրել այսօրվա նկարը
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Իմանալ ավելին
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .aria-label = Ցուցադրել այսօրվա նկարը
+    .title = Ցուցադրել այսօրվա նկարը
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Վաղը նորից ստուգեք նոր նկարի համար
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Օրվա լուսանկարը Վիքիպեդիա Commons-ից
+
+## Strings for the Recent Searches widget
+
+# Widget heading; also the widget's accessible name.
+newtab-recent-searches-widget-title = Վերջին որոնումները
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Վերջին որոնումների ընտրանքները
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Իմանալ ավելին
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Վերջին որոնումները
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Թրենդինգ
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = { $engine }-ի միջոցով
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Հենց հիմա
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Հեռացնել «{ $search }»-ը վերջին որոնումներից
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Վերջին որոնումները կցուցադրվեն այստեղ, որպեսզի դուք կարողանաք դրանք կրկին վերցնել ցանկացած պահի։
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Թրենդային որոնումները ներկայումս հասանելի չեն։
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Պատմություններ
+newtab-spaces-tab-widgets = Վիջեթներ
+newtab-spaces-tab-activity = Գործունեություն
 
 ## Search box component.
 
@@ -693,6 +786,21 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-colorful-sky = Նարնջագույն ալիքներ մանուշակագույն գիշերային երկնքում
+newtab-wallpaper-firefox-desert-dark = Աղվեսը նստած է մուգ մանուշակագույն անապատում
+newtab-wallpaper-firefox-desert-light = Աղվեսը վազում է լուսավոր անապատով
+newtab-wallpaper-firefox-hills-dark = Աղվեսը վազում է մութ բլուրների վրայով
+newtab-wallpaper-firefox-hills-light = Աղվեսը վազում է լուսավոր բլուրների վրայով
+newtab-wallpaper-firefox-tail-dark = Աղվեսի պոչը մուգ ֆոնի վրա
+newtab-wallpaper-firefox-tail-light = Աղվեսի պոչը բաց ֆոնի վրա
+newtab-wallpaper-firefox-side-kit-dark = Աղվեսը ձախ կողմում, մուգ ֆոնի վրա
+newtab-wallpaper-firefox-side-kit-light = Աղվեսը ձախ կողմում, բաց ֆոնի վրա
+newtab-wallpaper-firefox-sitting-hill-dark = Աղվեսը նստած է մուգ մանուշակագույն բլուրների վրա
+newtab-wallpaper-firefox-sitting-hill-light = Աղվեսը նստած է լուսավոր բլուրների վրա
+newtab-wallpaper-firefox-peak-dark = Աղվեսի դեմք ձախ եզրին, մուգ ֆոնի վրա
+newtab-wallpaper-firefox-peak-light = Աղվեսի դեմք ձախ եզրին, բաց ֆոնի վրա
+newtab-wallpaper-firefox-sky-dark = Մուգ մանուշակագույն բլուրներ գիշերային երկնքի տակ
+newtab-wallpaper-firefox-sky-light = Թեթև բլուրներ մեղմ երկնքի տակ
 
 ## Firefox
 
@@ -720,6 +828,12 @@ newtab-weather-menu-change-location = Փոխել տեղադրությունը
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Որոնել տեղադրությունը
     .placeholder = Որոնել տեղադրությունը
+newtab-weather-cancel-input =
+    .aria-label = Չեղարկել
+    .title = Չեղարկել
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Օգտագործել ներկայիս գտնվելու վայրը
 newtab-weather-menu-weather-display = Եղանակի ցուցադրում
 newtab-weather-todays-forecast = Այսօրվա կանխատեսումը
 newtab-weather-see-full-forecast = Դիտել ամբողջական կանխատեսումը
@@ -744,6 +858,7 @@ newtab-weather-opt-in-not-now =
     .label = Ոչ հիմա
 newtab-weather-opt-in-yes =
     .label = Այո
+newtab-weather-opt-in-headline = Ստացեք ձեր տեղական եղանակի կանխատեսումը
 newtab-weather-opt-in-use-location =
     .label = Օգտագործել տեղադրությունը
 newtab-weather-opt-in-choose-location = Ընտրել տեղադրությունը
@@ -791,6 +906,9 @@ newtab-topic-label-home = Տուն և այգի
 # “fine-tune” refers to the process of making small adjustments to something to get
 # the best or desired experience or performance.
 newtab-topic-selection-title = Ընտրեք թեմաներ՝ ձեր հոսքը ճշգրտելու համար
+# “tailored” refers to process of (a tailor) making (clothes) to fit individual customers.
+# In other words, “Our expert curators prioritize stories to fit your selected interests”
+newtab-topic-selection-subtitle = Ընտրեք երկու կամ ավելի թեմաներ: Մեր փորձառու կազմակերպիչները առաջնահերթություն են տալիս ձեր հետաքրքրություններին համապատասխանող պատմություններին: Թարմացրեք ցանկացած պահի:
 newtab-topic-selection-save-button = Պահել
 newtab-topic-selection-cancel-button = Չեղարկել
 newtab-topic-selection-button-maybe-later = Ավելի ուշ
@@ -803,16 +921,27 @@ newtab-topic-selection-button-pick-interests = Ընտրեք ձեր հետաքր�
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Հետևել
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Հետևել { $topic }-ին
 newtab-section-following-button = Հետևվում է
 newtab-section-unfollow-button = Ապահետևել
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Հետևում է՝ դադարել հետևել { $topic }-ին
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Կարգավորեք ձեր լրահոսը
+newtab-section-follow-highlight-subtitle = Հետևեք ձեր հետաքրքրություններին՝ տեսնելու համար, թե ինչն է ձեզ դուր գալիս։
 
 ## Topic navigation
 ## A row of buttons above the stories, each scrolling the page to that topic's section.
 
 newtab-topic-navigation-label =
     .aria-label = Թեմաներ
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Ավելին
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -840,6 +969,8 @@ newtab-section-unblock-topic =
 
 ## Confirmation modal for blocking a section
 
+newtab-section-confirm-block-topic-p1 = Վստա՞հ եք, որ ուզում եք արգելափակել այս թեման։
+newtab-section-confirm-block-topic-p2 = Արգելափակված թեմաները այլևս չեն հայտնվի ձեր լրահոսում։
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Արգելափակել { $topic }-ը
@@ -861,10 +992,14 @@ newtab-custom-wallpaper-cta = Փորձել
 
 ## Strings for new user activation custom wallpaper highlight
 
+newtab-new-user-custom-wallpaper-title = Ընտրեք պաստառ՝ { -brand-product-name }-ը ձերը դարձնելու համար
+newtab-new-user-custom-wallpaper-subtitle = Յուրաքանչյուր նոր ներդիրը դարձրեք տան պես՝ օգտագործելով անհատականացված պաստառներ և գույներ։
 newtab-new-user-custom-wallpaper-cta = Փորձել հիմա
 
 ## Strings for Nova wallpaper feature highlight
 
+newtab-wallpaper-feature-highlight-title = Նոր պաստառներ հենց նոր են հայտնվել
+newtab-wallpaper-feature-highlight-subtitle = Ընտրեք ձեր նախընտրածը և յուրաքանչյուր նոր ներդիրը դարձրեք ձեր տան պես։
 newtab-wallpaper-feature-highlight-cta = Ընտրեք պաստառ
 
 ## Strings for download mobile highlight
@@ -873,6 +1008,7 @@ newtab-download-mobile-highlight-title = Ներբեռնեք { -brand-product-nam
 # "Scan the code" refers to scanning the QR code that appears above the body text that leads to Firefox for mobile download.
 newtab-download-mobile-highlight-body-variant-a = Սկանավորեք կոդը՝ ճանապարհին անվտանգ զննարկելու համար։
 newtab-download-mobile-highlight-body-variant-b = Շարունակեք այնտեղից, որտեղ կանգ եք առել, երբ համաժամեցնում եք ձեր ներդիրները, գաղտնաբառերը և այլն:
+newtab-download-mobile-highlight-body-variant-c = Գիտեի՞ք, որ կարող եք { -brand-product-name }-ը ձեզ հետ տանել ճանապարհին։ Նույն զննարկիչը։ Ձեր գրպանում։
 
 ## Strings for shortcuts highlight
 
@@ -935,6 +1071,10 @@ newtab-widget-lists-menu-create = Ստեղծել նոր ցանկ
 newtab-widget-lists-menu-delete = Ջնջել այս ցանկը
 newtab-widget-lists-menu-copy = Պատճենել ցանկը սեղմատախտակին
 newtab-widget-lists-menu-learn-more = Իմանալ ավելին
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Փոփոխությունների ցանկ
+    .title = Փոփոխությունների ցանկ
 newtab-widget-lists-button-add-item = Ավելացնել միույթ
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Ավելացնել միույթ
@@ -947,6 +1087,12 @@ newtab-widget-lists-input-menu-delete = Ջնջել
 newtab-widget-lists-input-menu-edit = Խմբագրել
 newtab-widget-lists-input-menu-edit2 =
     .aria-label = Խմբագրել միավորը
+newtab-widget-lists-edit-clear =
+    .aria-label = Չեղարկել
+    .title = Չեղարկել
+# Lists is a noun, as in "options for the lists"
+newtab-widget-lists-menu-button =
+    .aria-label = Դիտել ընտրանքները
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Ստեղծել նոր ցուցակ
@@ -988,6 +1134,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Կոծկել բոլոր վիջեթները սեղմ չափի
     .title = Փոքրացնել վիջեթները
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Ցուցադրել վիջեթների բաժինը
+    .title = Ցուցադրել վիջեթները
 newtab-widget-section-menu-button =
     .aria-label = Բացել վիջեթների ցանկը
     .title = Վիջեթների ցանկ
@@ -998,6 +1149,14 @@ newtab-widget-section-menu-manage = Կառավարել վիջեթները
 newtab-widget-section-menu-hide-all = Թաքցնել վիջեթները
 newtab-widget-section-menu-learn-more = Իմանալ ավելին
 newtab-widget-section-feedback = Ասեք մեզ, թե ինչ եք կարծում
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Ցուցադրել ավելի շատ վիջեթներ
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Ցուցադրել ավելի քիչ կայքեր
 newtab-widget-lists-name-default = Ստուգաթերթիկ
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1019,6 +1178,8 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Անջատել ծանուցումները
 newtab-widget-timer-menu-notifications-on = Միացնել ծանուցումները
 newtab-widget-timer-menu-learn-more = Իմանալ ավելին
+newtab-widget-timer-menu-button =
+    .aria-label = Ժամաչափի ընտրանքներ
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Առաջատար վերնագրեր
 newtab-daily-briefing-card-menu-dismiss = Բաց թողնել
@@ -1026,6 +1187,15 @@ newtab-daily-briefing-card-menu-dismiss = Բաց թողնել
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = Թարմացվել է { $minutes } րոպե առաջ
 newtab-widget-message-title = Մնացեք կենտրոնացած ցուցակների և ներկառուցված ժամանակաչափի միջոցով
+# to-dos stands for "things to do".
+newtab-widget-message-copy = Արագ հիշեցումներից մինչև ամենօրյա անելիքներ, կենտրոնացման նիստերից մինչև ձգվող ընդմիջումներ՝ մնացեք նպատակասլաց և ժամանակին։
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Մեկ վայր՝ կենտրոնանալու, կանխատեսումների և այլնի համար
+newtab-widget-message-focus-forecasts-body = Ձեր օրը հոսուն պահեք { -brand-product-name } վիջեթների միջոցով: Ստուգեք եղանակի կանխատեսումը, մնացեք աշխատանքի վրա կամ հետևեք ժամանակին ամբողջ աշխարհում:
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Դարձրեք { -brand-product-name }-ը ձերը
 newtab-promo-card-body-addons = Ընտրեք պաստառ մեր հավաքածուից կամ ստեղծեք ձեր սեփականը։
 newtab-promo-card-cta-addons = Փորձել հիմա
 newtab-promo-card-title = Աջակցել { -brand-product-name }-ին
@@ -1034,6 +1204,16 @@ newtab-promo-card-cta = Իմանալ ավելին
 newtab-promo-card-dismiss-button =
     .aria-label = Բաց թողնել
     .title = Բաց թողնել
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Սկսել { $minutes } րոպեանոց ժամանակաչափը
+           *[other] Սկսել { $minutes } րոպեանոց ժամանակաչափը
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Ժամանակաչափի դադարեցում
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Կենտրոնացում
 # Small label shown beneath the live time while the break timer is running or paused.

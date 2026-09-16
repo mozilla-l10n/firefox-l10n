@@ -192,17 +192,50 @@ ipprotection-connection-status-generic-error-description = Փորձեք կրկի
 ipprotection-connection-status-generic-error-try-again = Փորձեք ավելի ուշ։
 ipprotection-connection-status-network-error-title-1 = Ստուգեք ձեր համացանցային կապը
     .aria-label = Ստուգեք ձեր համացանցային կապը
+ipprotection-connection-status-network-error-description = Միացեք համացանցին, ապա փորձեք միացնել VPN-ը։
 ipprotection-connection-status-blocked-error-title-1 = VPN-ը հասանելի չէ
     .aria-label = VPN-ը հասանելի չէ
+# "Where" refers to the user's location. It does not refer to apps or devices because the built-in VPN only protects a user's browsing in Firefox
+ipprotection-connection-status-blocked-error-description-1 = Տեղական օրենքներն ու սահմանափակումները սահմանափակում են VPN-ի օգտագործման վայրերը։ <a data-l10n-name="learn-more-link">Իմանալ ավելին</a>
+ipprotection-connection-status-blocked-error-description = Տեղական օրենքները մեզ թույլ չեն տալիս VPN ծառայություն մատուցել այս տարածաշրջանում։ <a data-l10n-name="learn-more-link">Իմանալ ավելին</a>
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Մոտենալով ձեր VPN սահմանաչափին
+    .message = Այս ամիս դուք ունեք { $usageLeft } ԳԲ { $maxUsage } ԳԲ-ից մնացած տարածք։
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Մոտենալով ձեր VPN սահմանաչափին
+    .message = Այս ամիս դուք ունեք { $usageLeft } ՄԲ { $maxUsage } ԳԲ-ից։
+ipprotection-message-continuous-onboarding-intro = Միացրեք VPN-ը՝ ձեր գտնվելու վայրը թաքցնելու և ձեր զննարկիչում լրացուցիչ կոդավորում ավելացնելու համար։
+ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Սահմանեք VPN-ը միացված</a> ամեն անգամ, երբ բացում եք { -brand-short-name }-ը՝ պաշտպանության լրացուցիչ շերտ ստեղծելու համար։
+ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }-ը կհիշի, թե որ կայքերն եք դուք կարգավորել VPN օգտագործելու համար: Թարմացրեք դրանք <a data-l10n-name="setting-link">կարգավորումներում</a> ցանկացած պահի:
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ն անջատված է այս կայքի համար
 ipprotection-open-button = Բացել { -brand-product-name }-ը
 ipprotection-come-back-title = Վերադարձեք՝ ներկառուցված VPN-ը փորձելու համար
+ipprotection-message-body-hide-location = Թաքցրեք ձեր գտնվելու վայրը { -brand-product-name }-ում դիտարկելիս՝ ավելի շատ գաղտնիության և վերահսկողության համար։
 ipprotection-connection-status-generic-error-title-1 = Չհաջողվեց միանալ VPN-ին
     .aria-label = Չհաջողվեց միանալ VPN-ին
 
 ## IP Protection bandwidth callouts
 
 ipprotection-bandwidth-upgrade-title = Հավանո՞ւմ եք ներկառուցված VPN-ը: Ստացեք ավելի շատ պաշտպանություն { -brand-product-name }-ից դուրս՝ { -mozilla-vpn-brand-name }-ի միջոցով:
+ipprotection-bandwidth-upgrade-text = Ընտրեք VPN տեղակայություն և պաշտպանություն ավելացրեք ձեր բոլոր հավելվածներին մինչև 5 սարքերի վրա, անկախ նրանից՝ տանն եք, թե հանրային Wi-Fi-ի վրա։
+
+## IP Protection bandwidth warning infobar
+
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-75 = <strong>Մոտենում ենք ձեր VPN սահմանաչափին։</strong> Դուք ունեք { $usageLeft } ԳԲ մնացած։ Ձեր տվյալները կվերակայվեն հաջորդ ամսվա սկզբին։
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+ip-protection-bandwidth-warning-infobar-message-90 = <strong>Դուք գրեթե սպառել եք VPN տվյալները։</strong> Դուք ունեք { $usageLeft } ԳԲ մնացած։ Երբ դրանք ամբողջությամբ օգտագործեք, ձեր VPN-ը կդադարեցվի մինչև ձեր տվյալների վերագործարկումը հաջորդ ամսվա սկզբին։
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+ip-protection-bandwidth-warning-infobar-message-90-mb = <strong>Դուք գրեթե սպառել եք VPN տվյալները։</strong> Դուք ունեք { $usageLeft } ՄԲ մնացած։ Երբ դրանք ամբողջությամբ օգտագործեք, ձեր VPN-ը կդադարեցվի մինչև ձեր տվյալների վերագործարկումը հաջորդ ամսվա սկզբին։
 
 ## IP Protection Settings
 
@@ -213,6 +246,11 @@ ip-protection-description-1 =
     .description = Ստացեք լրացուցիչ գաղտնիություն՝ դիտարկելիս թաքցնելով ձեր տեղադրությունը:
     .label = Ներկառուցված VPN
 ip-protection-learn-more = Իմանալ ավելին
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-4 =
+    .heading = Փորձեք { -brand-short-name }-ի ներկառուցված VPN-ը
+    .message = Զննեք լրացուցիչ պաշտպանությամբ՝ թաքցնելով ձեր գտնվելու վայրը։
 ip-protection-not-opted-in-button = Սկսել
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -223,6 +261,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } կայքեր
         }
     .label = Կառավարել կայքի կարգավորումները
+ip-protection-site-rules-header =
+    .heading = Կառավարեք կայքի կանոնները
+ip-protection-site-rules-button =
+    .description = Սահմանեք կանոններ այն կայքերի համար, որոնք պահանջում են լրացուցիչ գաղտնիություն կամ VPN-ն անջատված է։
+    .label = Կառավարեք կայքի կանոնները
 ip-protection-autostart =
     .label = Ինքնաբար միացնել VPN-ը
 ip-protection-autostart-checkbox =
@@ -232,11 +275,15 @@ ip-protection-autostart-private-checkbox =
 ip-protection-vpn-upgrade-link =
     .description = Ընտրեք VPN-ի հարմարեցված վայրեր և ապահովեք պաշտպանություն ձեր բոլոր հավելվածներին մինչև հինգ սարքերի վրա, անկախ նրանից՝ տանն եք, թե հանրային Wi-Fi-ով։
     .label = Ստացեք ավելի շատ պաշտպանություն { -brand-short-name }-ից դուրս՝ { -mozilla-vpn-brand-name }-ի միջոցով։
+ip-protection-vpn-upgrade-link-1 =
+    .description = Ընտրեք 300+ վայրերից և պաշտպանեք ձեր բոլոր հավելվածները մինչև 5 սարքի վրա։
+    .label = Ուժեղացրեք պաշտպանությունը { -mozilla-vpn-brand-name }-ի միջոցով
 
 ## IP Protection dialogs
 
 ip-protection-exceptions-dialog-window =
     .title = Կառավարել կայքի կարգավորումները
+ip-protection-exclusions-desc = Օգտագործեք VPN բոլոր կայքերի համար, բացառությամբ այս ցանկում նշվածների: Ավելացրեք կայք այստեղ կամ VPN-ը բացելով:
 
 ## IP Protection Bandwidth
 
@@ -244,10 +291,31 @@ ip-protection-exceptions-dialog-window =
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = Այս ամսվա ընթացքում մնացել է { $usageLeft } ԳԲ` { $maxUsage } ԳԲ-ից
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = <span data-l10n-name="usage">{ $usageLeft } ԳԲ</span> { $maxUsage } ԳԲ-ից մնացել է
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb = { $usageLeft } ԳԲ՝ { $maxUsage } ԳԲ-ից մնացել է
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = Այս ամսվա ընթացքում մնացել է { $usageLeft } ՄԲ` { $maxUsage } ԳԲ-ից
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = <span data-l10n-name="usage">{ $usageLeft } ՄԲ</span> { $maxUsage } ԳԲ-ից մնացել է
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb = { $usageLeft } ՄԲ { $maxUsage } ԳԲ-ից մնացել է
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-hit-for-the-month = Դուք օգտագործել եք ձեր VPN տվյալների բոլոր { $maxUsage } ԳԲ-ը։ Մուտքը կվերակայվի հաջորդ ամիս։
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-help-text = Յուրաքանչյուր ամսվա առաջին օրը վերակայվում է { $maxUsage } ԳԲ-ի։

@@ -378,6 +378,7 @@ onboarding-checklist-pin = Ամրացրեք { -brand-short-name }-ը խնդրա�
 onboarding-checklist-import = Ներմուծել նախորդ դիտարկիչից
 onboarding-checklist-extension = Հավելել ընդլայնում
 onboarding-checklist-sign-up = Գրանցվեք կամ մուտք գործեք ձեր հաշիվ
+onboarding-checklist-remove-2 = Հեռացնել ստուգաթերթիկը
 
 ## Tab Groups feature onboarding strings
 
@@ -479,6 +480,7 @@ restore-from-backup-secondary-top-button = Վերականգնել պահուստ
 restore-from-backup-title = Եկեք վերադարձնենք { -brand-short-name }-ը այնպես, ինչպես դուք եք ցանկանում
 restore-from-backup-subtitle = Վերականգնեք ձեր բոլոր էջանիշները, պատմությունը և այլ տվյալներ՝ զննարկմանը վերադառնալու համար։
 restore-from-backup-secondary-button = Չվերականգնել
+multiple-backups-info-tile = <strong>Գտնվել են մի քանի պահուստային ֆայլեր։</strong> Ընտրված է ամենավերջին ֆայլը։ Վերականգնեք մյուս պրոֆիլները <a data-l10n-name="settings-label">Կարգավորումներում։</a>
 
 ## Restored from Backup spotlight
 
@@ -522,3 +524,28 @@ onboarding-refresh-sync-title = Գնացեք ամենուր։ Համաժամեց
 onboarding-refresh-gratitude-subtitle = Շնորհակալություն ենք հայտնում { -brand-short-name }-ը, որը միակ խոշոր զննարկիչն է, որը հովանավորվում է ոչ առևտրային կազմակերպության կողմից: Ձեր աջակցությամբ մենք աշխատում ենք ինտերնետը բոլորի համար ավելի անվտանգ և հասանելի դարձնելու ուղղությամբ:
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name }-ը ձեզ հետ է
+
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name }-ը ձեր կողքին է՝ սկսած հիմա
+onboarding-refresh-hero-text = Ստեղծված է ձեզ պաշտպանելու, այլ ոչ թե հետևելու համար։
+onboarding-refresh-tou-default = Բացեք բոլոր հղումները { -brand-short-name }-ով
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Պահել { -brand-short-name }-ը Dock-ում
+       *[other] Ավելացրեք { -brand-short-name }-ը ձեր առաջադրանքների վահանակում
+    }
+onboarding-refresh-tou-default-unchecked = Պահպանեք ներկառուցված պաշտպանությունը ամեն անգամ զննարկելիս
+onboarding-refresh-tou-pin-unchecked = Միակ խոշոր անկախ զննարկիչը պահեք մեկ սեղմումով հեռու
+onboarding-refresh-terms-of-use-with-links = Շարունակելով՝ դուք համաձայնում եք <a data-l10n-name="terms_of_use">{ -brand-product-name } օգտագործման պայմաններին</a> և մեր <a data-l10n-name="privacy_notice">գաղտնիության ծանուցմանը</a>: Դիտարկիչը բարելավելու համար { -brand-product-name }-ը ախտորոշիչ և փոխազդեցության տվյալներ է ուղարկում { -vendor-short-name }-ին:
+onboarding-refresh-data-collection-link = Կառավարել տվյալների հավաքագրման կարգավորումները
+onboarding-refresh-primary-button = Շարունակել
+onboarding-refresh-fro-import-header = Մուտքագրեք ձեր տվյալները
+onboarding-refresh-fro-import-body = Ձեր անձնական տվյալները մնում են անձնական։ { -brand-product-name }-ը երբեք չի վաճառի դրանք։
+onboarding-refresh-fro-skip-button = Բաց թողնել
+onboarding-refresh-fro-theme-header = Խաղացեք տեսքի հետ
+onboarding-refresh-tab-layout-header = Փորձեք ներդիրի այլ դասավորություն
+onboarding-refresh-tab-layout-top = Վերևում
+onboarding-refresh-tab-layout-side = Կողքում
+onboarding-refresh-tab-layout-minimal = Նվազագույն
