@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Pridať nový kontajner
     .accesskey = d
+user-context-new-tab2 =
+    .label = Nová karta
+user-context-add-container2 =
+    .label = Pridať nový kontajner
 user-context-manage-containers2 =
     .label = Spravovať kontajnery
 
