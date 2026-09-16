@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = కంటెయినర్లను
     .accesskey = O
 user-context-manage-containers2 =
     .label = కంటెయినర్లను నిర్వహించండి
+user-context-personal2-panel-item = వ్యక్తిగతం
+user-context-work2-panel-item = పని
+user-context-banking2-panel-item = బ్యాంకింగ్
+user-context-shopping2-panel-item = షాపింగ్
+user-context-manage-containers2-panel-item = కంటెయినర్లను నిర్వహించండి
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
