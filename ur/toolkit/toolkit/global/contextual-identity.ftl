@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = کنٹینرز کو منظم کری�
     .accesskey = O
 user-context-manage-containers2 =
     .label = کنٹینرز کو منظم کریں
+user-context-personal2-panel-item = ذاتی
+user-context-work2-panel-item = کام
+user-context-banking2-panel-item = بینکاری
+user-context-shopping2-panel-item = خریداری
+user-context-manage-containers2-panel-item = کنٹینرز کو منظم کریں
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
