@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Yeni kapsayıcı ekle
     .accesskey = Y
+user-context-manage-containers2 =
+    .label = Kapsayıcıları yönet
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
