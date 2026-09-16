@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Neue Tab-Umgebung hinzufügen
 user-context-manage-containers2 =
     .label = Tab-Umgebungen verwalten
+user-context-personal2-panel-item = Freizeit
+user-context-work2-panel-item = Arbeit
+user-context-banking2-panel-item = Banking
+user-context-shopping2-panel-item = Einkaufen
+user-context-new-tab2-panel-item = Neuer Tab
+user-context-add-container2-panel-item = Neue Tab-Umgebung hinzufügen
+user-context-manage-containers2-panel-item = Tab-Umgebungen verwalten
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
