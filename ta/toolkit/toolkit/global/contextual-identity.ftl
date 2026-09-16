@@ -44,6 +44,11 @@ user-context-manage-containers-panel-item = கலன்களை நிர்�
     .accesskey = O
 user-context-manage-containers2 =
     .label = கலன்களை நிர்வகி
+user-context-personal2-panel-item = தனிப்பட்ட
+user-context-work2-panel-item = பணி
+user-context-banking2-panel-item = வங்கியியல்
+user-context-shopping2-panel-item = பொருள்வாங்கல்
+user-context-manage-containers2-panel-item = கலன்களை நிர்வகி
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
