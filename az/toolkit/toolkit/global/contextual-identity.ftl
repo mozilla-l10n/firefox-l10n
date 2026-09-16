@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Bazarlıq
     .accesskey = z
+user-context-personal2 =
+    .label = Şəxsi
+user-context-work2 =
+    .label = İş
+user-context-banking2 =
+    .label = Bank işi
+user-context-shopping2 =
+    .label = Bazarlıq
 
 ##
 
