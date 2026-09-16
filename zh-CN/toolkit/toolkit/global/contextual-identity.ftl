@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = 添加新身份
     .accesskey = A
+user-context-new-tab2 =
+    .label = 新建标签页
+user-context-add-container2 =
+    .label = 添加新身份
 user-context-manage-containers2 =
     .label = 管理身份
 
