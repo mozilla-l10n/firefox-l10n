@@ -58,6 +58,13 @@ user-context-add-container2 =
     .label = Добавить новый контейнер
 user-context-manage-containers2 =
     .label = Управление контейнерами
+user-context-personal2-panel-item = Личное
+user-context-work2-panel-item = Работа
+user-context-banking2-panel-item = Банкинг
+user-context-shopping2-panel-item = Покупки
+user-context-new-tab2-panel-item = Новая вкладка
+user-context-add-container2-panel-item = Добавить новый контейнер
+user-context-manage-containers2-panel-item = Управление контейнерами
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
