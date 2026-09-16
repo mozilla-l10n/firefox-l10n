@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Nije kontener tafoegje
     .accesskey = f
+user-context-new-tab2 =
+    .label = Nij ljepblêd
+user-context-add-container2 =
+    .label = Nije kontener tafoegje
 user-context-manage-containers2 =
     .label = Konteners beheare
 
