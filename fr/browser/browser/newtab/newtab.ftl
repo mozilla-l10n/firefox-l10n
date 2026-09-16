@@ -98,7 +98,7 @@ home-prefs-picture-header =
 # Search is a widget on New Tab that shows the user's recent and trending
 # searches.
 home-prefs-search-widget-header =
-    .label = Rechercher
+    .label = Recherches
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Recherches récentes
@@ -504,7 +504,7 @@ newtab-recent-searches-row-remove =
 ## Strings for the Search widget
 
 # Widget heading; also the widget's accessible name.
-newtab-search-widget-title = Rechercher
+newtab-search-widget-title = Recherches
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Options de recherche
