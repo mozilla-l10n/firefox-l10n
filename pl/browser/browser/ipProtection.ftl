@@ -120,6 +120,8 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN jest wyłączony na tej witrynie
     .label = Używaj VPN na tej witrynie
 site-exclusion-toggle-description = Witryna nie działa poprawnie? Spróbuj wyłączyć sieć VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Zarządzaj regułami sieci VPN
 ipprotection-settings-link =
     .label = Ustawienia
 
