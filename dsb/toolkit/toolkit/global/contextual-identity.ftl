@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Nowy kontejner pśidaś
     .accesskey = N
+user-context-new-tab2 =
+    .label = Nowy rejtarik
+user-context-add-container2 =
+    .label = Nowy kontejner pśidaś
 user-context-manage-containers2 =
     .label = Kontejnery zastojaś
 
