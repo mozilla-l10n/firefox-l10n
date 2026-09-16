@@ -52,6 +52,8 @@ user-context-new-tab =
 user-context-add-container =
     .label = Legg til ny behaldar
     .accesskey = L
+user-context-manage-containers2 =
+    .label = Handsam behaldarar
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
