@@ -18,6 +18,14 @@ user-context-banking =
 user-context-shopping =
     .label = Kupowanie
     .accesskey = K
+user-context-personal2 =
+    .label = Ôsobiste
+user-context-work2 =
+    .label = Robota
+user-context-banking2 =
+    .label = Bank
+user-context-shopping2 =
+    .label = Kupowanie
 
 ##
 
