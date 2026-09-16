@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 migration-wizard-selection-header = و من ٱووردن داده یل گشت گر
+migration-wizard-selection-list = داده یلی ک اخۊین و من بیان پسند کۊنین.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -39,6 +40,7 @@ migration-wizard-migrator-display-name-vivaldi = ویوالدی
 migration-source-name-ie = اینترنت اکسپلورر
 migration-source-name-edge = مایکروسافت Edge
 migration-source-name-chrome = گۊگل کروم
+migration-imported-safari-reading-list = نومگه خوندن (ز Safari)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
