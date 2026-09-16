@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = 新增容器
     .accesskey = A
+user-context-new-tab2 =
+    .label = 開新分頁
+user-context-add-container2 =
+    .label = 新增容器
 user-context-manage-containers2 =
     .label = 管理容器
 
