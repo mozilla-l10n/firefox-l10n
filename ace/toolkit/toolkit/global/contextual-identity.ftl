@@ -15,6 +15,12 @@ user-context-work =
 user-context-shopping =
     .label = Meubloe
     .accesskey = S
+user-context-personal2 =
+    .label = Pribadi
+user-context-work2 =
+    .label = Keurija
+user-context-shopping2 =
+    .label = Meubloe
 
 ##
 
