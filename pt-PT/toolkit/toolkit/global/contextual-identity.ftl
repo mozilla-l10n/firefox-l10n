@@ -52,6 +52,10 @@ user-context-new-tab =
 user-context-add-container =
     .label = Adicionar novo contentor
     .accesskey = A
+user-context-new-tab2 =
+    .label = Novo Separador
+user-context-add-container2 =
+    .label = Adicionar novo contentor
 user-context-manage-containers2 =
     .label = Gerir contentores
 
