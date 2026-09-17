@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = 每日一圖
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = 搜尋
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = 最近搜尋內容
@@ -464,6 +468,14 @@ newtab-recent-searches-just-now = 剛剛
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = 從最近搜尋內容中移除「{ $search }」
+
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = 搜尋
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = 搜尋選項
 
 ## Recent searches widget — empty states
 
@@ -1673,6 +1685,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = 這個空間可以用您想要的方式安排
 newtab-activation-window-message-values-focus-message = { -brand-product-name } 讓您可以用自己想要的方式上網，用更個人化的方式開啟每一天。讓 { -brand-product-name } 有您獨特的風格。
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = 挑選您喜愛的風格
 
 ## Strings for the Clock widget
 

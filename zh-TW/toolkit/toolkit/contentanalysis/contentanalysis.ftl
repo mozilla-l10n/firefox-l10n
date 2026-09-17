@@ -27,6 +27,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } 正在確認您
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } 正在確認您列印的內容是否符合貴組織的資料政策，可能會需要一點時間。
 contentanalysis-operationtype-clipboard = 剪貼簿
+contentanalysis-operationtype-clipboard-copy = 已複製內容
 contentanalysis-operationtype-dropped-text = 已放下文字
 contentanalysis-operationtype-print = 列印
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -64,6 +65,7 @@ contentanalysis-invalid-agent-signature-message-content = { $agent } 簽章驗�
 contentanalysis-error-message-upload-file = 上傳「{ $filename }」被拒絕。
 contentanalysis-error-message-dropped-text = 被拒絕拖放檔案。
 contentanalysis-error-message-clipboard = 被拒絕貼上。
+contentanalysis-error-message-clipboard-copy = 被拒絕複製。
 contentanalysis-error-message-print = 被拒絕列印。
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis

@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF 編輯器
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = 讓您可以閱讀、合併、簽署、留下註解等功能的免費工具 — 內建隱私保護
+about-pdf-features-cta =
+    .label = 探索 PDF 工具
 about-pdf-dropzone =
     .title = 將 PDF 拖曳到此處即可編輯，或按下 Enter
 about-pdf-dropzone-hint = 將 PDF 拖曳到此處即可編輯
@@ -22,3 +24,11 @@ about-pdf-set-default =
     .label = 設為預設軟體
 about-pdf-dismiss =
     .label = 知道了！
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name } PDF 工具
+about-pdf-feature-organize-heading = 管理頁面
+about-pdf-feature-signatures-heading = 儲存簽章
+about-pdf-feature-annotate-heading = 在 PDF 上作標記
+about-pdf-feature-presentation-heading = 用全螢幕顯示 PDF
