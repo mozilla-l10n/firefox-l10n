@@ -22,3 +22,8 @@ about-pdf-set-default =
     .label = Instellen als standaard
 about-pdf-dismiss =
     .label = Sluiten
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Terug

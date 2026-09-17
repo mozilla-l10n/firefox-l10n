@@ -5,6 +5,8 @@
 about-pdf-title = עורך ה־PDF של { -brand-short-name }
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = כלי חינמי לקריאה, מיזוג, חתימה, הערות ועוד - עם פרטיות מובנית
+about-pdf-features-cta =
+    .label = עיון בכלי PDF
 about-pdf-dropzone =
     .title = יש לשחרר קובץ PDF כאן כדי להתחיל או ללחוץ על אנטר
 about-pdf-dropzone-hint = יש לשחרר קובץ PDF כאן כדי להתחיל
@@ -22,3 +24,13 @@ about-pdf-set-default =
     .label = הגדרה כברירת מחדל
 about-pdf-dismiss =
     .label = סגירה
+
+## The about:pdf#features page.
+
+about-pdf-features-header = כלי PDF של { -brand-short-name }
+about-pdf-features-intro = לקרוא, להוסיף סימונים ולחתום על קובצי PDF ממש במקום שבו גולשים. זה פשוט, חינמי ופרטי.
+about-pdf-features-back =
+    .label = חזרה
+about-pdf-feature-organize-heading = ארגון דפים
+about-pdf-feature-organize-description = סידור מחדש, הסרה, מיזוג וייצוא של דפים.
+about-pdf-feature-signatures-heading = שמירת חתימות
