@@ -1150,6 +1150,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # makes something yours. The call to action is to open the New Tab
 # customization panel and pick a theme or wallpaper.
 newtab-nova-customization-callout-header = نوکته دیندایی ن ری { -brand-product-name }بنویسین
+newtab-nova-customization-callout-message = زمینه یل وو شؽوات پس زمینه رۊشنا یا تاریکی ن واجۊری کۊنین ک { -brand-product-name } نۊ ن قلوه شبیه و مهسۊل ایسا اکونه.
+newtab-nova-customization-callout-primary-button =
+    .label = شؽوات خوتووݩ ن پسند کۊنین
 
 ## Strings for the Clock widget
 
