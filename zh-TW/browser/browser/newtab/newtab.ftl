@@ -838,6 +838,9 @@ newtab-wallpaper-add-an-image = 新增圖片
 newtab-wallpaper-custom-color = 選擇色彩
 newtab-wallpaper-toggle-title =
     .label = 背景圖
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = 背景圖分類
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 圖片超過 { $file_size }MB 的檔案大小限制。請嘗試上傳小一點的檔案。
@@ -1688,6 +1691,11 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = 為 { -brand-product-name } 加上您的專屬風格
+newtab-nova-customization-callout-message = 探索亮色或暗色佈景主題與背景圖，讓全新的 { -brand-product-name } 更有您的風格。
 newtab-nova-customization-callout-primary-button =
     .label = 挑選您喜愛的風格
 
