@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Bild des Tages
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Suche
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Letzte Suchanfragen
@@ -499,6 +503,8 @@ newtab-recent-searches-row-remove =
 
 ## Strings for the Search widget
 
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Suche
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Suchoptionen
@@ -864,6 +870,9 @@ newtab-wallpaper-add-an-image = Ein Bild hinzufügen
 newtab-wallpaper-custom-color = Farbe auswählen
 newtab-wallpaper-toggle-title =
     .label = Hintergrundbilder
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategorien für Hintergrundbilder
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Die Grafik hat die Größenbegrenzung von { $file_size } MB überschritten. Bitte versuchen Sie, eine kleinere Datei hochzuladen.
