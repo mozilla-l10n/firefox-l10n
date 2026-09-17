@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = Nýr sérefnisflipi
 all-tabs-menu-hidden-tabs =
     .label = Faldir flipar
+all-tabs-menu-close-duplicate-tabs =
+    .label = Loka tvíteknum flipum
+all-tabs-menu-view-all-tabs =
+    .label = Skoða alla flipa
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Loka öllum tvíteknum flipum
 all-tabs-menu-synced-tabs =
@@ -23,3 +27,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Flipahópar
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Leita í öllum flipum

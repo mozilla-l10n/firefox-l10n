@@ -49,6 +49,8 @@ user-context-new-tab =
     .accesskey = N
 user-context-new-tab2 =
     .label = بلگه نۊ
+user-context-add-container2 =
+    .label = ٱووردن هامل نۊ
 user-context-manage-containers2 =
     .label = دؽوۉداری هاملا
 user-context-personal2-panel-item = سیخومی
@@ -56,6 +58,7 @@ user-context-work2-panel-item = کاری
 user-context-banking2-panel-item = بانکی
 user-context-shopping2-panel-item = استیڌن
 user-context-new-tab2-panel-item = بلگه نۊ
+user-context-add-container2-panel-item = ٱووردن هامل نۊ
 user-context-manage-containers2-panel-item = دؽوۉداری هاملا
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

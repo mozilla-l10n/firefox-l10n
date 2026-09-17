@@ -4,3 +4,14 @@
 
 about-pdf-dismiss =
     .label = رڌ کردن
+
+## The about:pdf#features page.
+
+about-pdf-features-header = ٱوزارا PDF { -brand-short-name }
+about-pdf-features-back =
+    .label = وورگشتن
+about-pdf-feature-organize-heading = سازمووݩ دهی بلگه یل
+about-pdf-feature-signatures-heading = زفت کردن امزا
+about-pdf-feature-comments-heading = ٱووردن ویرداشتا
+about-pdf-feature-view-heading = نما خوتووݩ ن پسند کۊنین
+about-pdf-feature-details-heading = جۊزعیات ن زیتر بجۊرین
