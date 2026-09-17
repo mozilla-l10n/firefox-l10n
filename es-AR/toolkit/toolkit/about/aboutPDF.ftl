@@ -5,6 +5,8 @@
 about-pdf-title = Editor de PDF de { -brand-short-name }
 about-pdf-header = PDF de { -brand-short-name }
 about-pdf-tagline = Una herramienta gratuita para leer, fusionar, firmar, comentar y más, con privacidad incorporada
+about-pdf-features-cta =
+    .label = Explorar herramientas para PDF
 about-pdf-dropzone =
     .title = Arrastre un PDF acá para empezar o presione Enter
 about-pdf-dropzone-hint = Arrastre un PDF acá para empezar
@@ -22,3 +24,15 @@ about-pdf-set-default =
     .label = Hacer predeterminado
 about-pdf-dismiss =
     .label = Descartar
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Herramientas para PDF de { -brand-short-name }
+about-pdf-features-intro = Leer, hacer anotaciones y firmar archivos PDF mientras se navega. Es simp,e, gratis y privado.
+about-pdf-features-back =
+    .label = Atrás
+about-pdf-feature-organize-heading = Organizar páginas
+about-pdf-feature-organize-description = Reordenar, eliminar, fusionar y exportar páginas.
+about-pdf-feature-signatures-heading = Guardar firmas
+about-pdf-feature-signatures-description = Crear múltiples firmas y agregarlas a formularios.
+about-pdf-feature-comments-heading = Agregar notas
