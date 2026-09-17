@@ -99,6 +99,10 @@ translations-panel-choose-language =
     .label = Izvēlies valodu
 translations-panel-restore-button =
     .label = Rādīt oriģinālu
+# The label for the target-language dropdown in the revisit view. This may need
+# to be translated differently from translations-panel-to-label to convey that
+# selecting a language will translate the page again.
+translations-panel-revisit-to-label = Tulkot
 
 ## Firefox Translations language management in about:preferences.
 

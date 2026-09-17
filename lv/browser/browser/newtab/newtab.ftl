@@ -35,6 +35,10 @@ home-custom-homepage-address-button =
 
 ## Firefox Home content
 
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Meklēt
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nesenie meklējumi
@@ -265,6 +269,8 @@ newtab-recent-searches-row-remove =
 
 ## Strings for the Search widget
 
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Meklēt
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Meklēšanas iespējas
@@ -538,6 +544,9 @@ newtab-wallpaper-reset = Atiestatīt uz noklusējumu
 newtab-wallpaper-add-an-image = Pievienot attēlu
 newtab-wallpaper-toggle-title =
     .label = Tapetes
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Ekrāntapešu kategorijas
 newtab-wallpaper-error-upload-file-type = Mēs nevarējām augšupielādēt Tavu datni. Lūgums mēģināt vēlreiz ar attēla datni.
 newtab-wallpaper-light-red-panda = Sarkana panda
 newtab-wallpaper-light-mountain = Balts kalns
@@ -814,6 +823,11 @@ newtab-sports-widget-menu-learn-more = Uzzināt vairāk
 
 newtab-sports-widget-message-add-widgets-cta =
     .label = Pievienot logrīkus
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = Izvēlies izskatu
 
 ## Strings for the Clock widget
 

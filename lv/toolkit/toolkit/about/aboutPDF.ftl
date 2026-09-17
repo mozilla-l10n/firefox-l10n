@@ -4,3 +4,14 @@
 
 # Title of the system file picker opened by the “Browse files” button.
 about-pdf-file-picker-title = Atvērt PDF
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Atpakaļ
+about-pdf-feature-organize-heading = Lapu kārtošana
+about-pdf-feature-organize-description = Lapu pārkārtošana, noņemšana, apvienošana un izgūšana.
+about-pdf-feature-signatures-heading = Parakstu saglabāšana
+about-pdf-feature-signatures-description = Vairāku parakstu izveidošana un pievienošana veidlapām.
+about-pdf-feature-comments-heading = Piezīmju pievienošana
+about-pdf-feature-comments-description = Lasīšanas laikā pievieno piebildes un atgādinājumus!

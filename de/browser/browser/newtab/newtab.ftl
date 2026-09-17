@@ -497,6 +497,12 @@ newtab-recent-searches-just-now = Gerade eben
 newtab-recent-searches-row-remove =
     .aria-label = "{ $search }" aus letzten Suchanfragen entfernen
 
+## Strings for the Search widget
+
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Suchoptionen
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -1721,6 +1727,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Dieser Platz spielt nach Ihren Regeln
 newtab-activation-window-message-values-focus-message = Mit { -brand-product-name } können Sie so surfen, wie Sie es möchten. Mit einer persönlicheren Möglichkeit, Ihren Tag online zu starten. Passen Sie { -brand-product-name } an Ihre Wünsche an.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Verleihen Sie { -brand-product-name } Ihre persönliche Note
+newtab-nova-customization-callout-message = Entdecken Sie helle und dunkle Themes sowie Hintergrundbilder, die den neuen { -brand-product-name } ganz nach Ihren Wünschen gestalten.
+newtab-nova-customization-callout-primary-button =
+    .label = Design auswählen
 
 ## Strings for the Clock widget
 
