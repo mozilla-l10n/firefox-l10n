@@ -2,15 +2,27 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+contentanalysis-alert-title = ניתוח תוכן
+# Variables:
+#   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
+contentanalysis-slow-agent-notification = לכלי ניתוח התוכן לוקח זמן רב להגיב למשאב ״{ $content }״
+contentanalysis-slow-agent-dialog-header = סריקה מתבצעת
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of the file being analyzed, such as "aFile.txt"
+contentanalysis-slow-agent-dialog-body-file = { $agent } בוחן את ״{ $filename }״ כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $filename - Name of a file being analyzed, such as "aFile.txt"
 #   $count (number) - The number of additional items in the request for analysis
 contentanalysis-slow-agent-dialog-body-file-and-more =
     { $count ->
-        [one] ‏{ $agent } סוקר את ״{ $filename }״ ופריט אחד נוסף כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
-       *[other] ‏{ $agent } סוקר את ״{ $filename }״ ו־{ $count } פריטים נוספים כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
+        [one] ‏{ $agent } בוחן את ״{ $filename }״ ופריט אחד נוסף כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
+       *[other] ‏{ $agent } בוחן את ״{ $filename }״ ו־{ $count } פריטים נוספים כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
     }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard = { $agent } בוחן את מה שהדבקת כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = העלאה של ״{ $filename }״
 #   $filename - The filename associated with the request, such as "aFile.txt"
