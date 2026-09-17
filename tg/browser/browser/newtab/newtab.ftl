@@ -86,6 +86,16 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Махфият
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Акси рӯз
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Ҷустуҷӯ
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Ҷустуҷӯҳои охирин
 home-prefs-mission-message2 =
     .message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд.
 home-prefs-manage-topics-link2 =
@@ -159,6 +169,7 @@ newtab-privacy-message-info-5-cta = Намоиши муҳофизатҳо
 newtab-privacy-message-info-6-cta = Маълумоти бештар
 newtab-privacy-message-info-7-cta = Намоиши муҳофизатҳо
 newtab-privacy-message-info-8-cta = Маълумоти бештар
+newtab-privacy-message-info-9-cta = Ҳамчун пешфарз танзим кунед
 newtab-privacy-message-info-11-cta = Маълумоти бештар
 newtab-privacy-message-info-12-cta = Намоиши муҳофизатҳо
 newtab-privacy-message-info-13-cta = Намоиши муҳофизатҳо
@@ -197,6 +208,13 @@ newtab-stocks-menu-learn-more = Маълумоти бештар
 
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Маълумоти бештар
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Ҳикояҳо
+newtab-spaces-tab-widgets = Виҷетҳо
+newtab-spaces-tab-activity = Фаъолият
 
 ## Search box component.
 
@@ -471,6 +489,22 @@ newtab-custom-close-menu-button =
     .title = Пӯшидан
 newtab-custom-settings = Идоракунии танзимоти бештар
 
+## New Tab Appearance (browser theme picker)
+
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Мавзуъҳои шумо
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Фаъол кардан
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Ғайрифаъол кардан
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Насб кардани мавзуъ
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Дидани мавзуъҳои бештар
+
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -501,6 +535,43 @@ newtab-wallpaper-dark-mountain = Манзараи кӯҳӣ
 newtab-wallpaper-dark-city = Манзараи шаҳри лоҷувард
 newtab-wallpaper-dark-fox-anniversary = Рӯбоҳи ҷилодор дар роҳи сангфарш дар назди ҷангал
 newtab-wallpaper-light-fox-anniversary = Рӯбоҳи ҷилодор дар саҳрои сералаф бо манзараи тумани кӯҳӣ
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Тасвирҳои шумо
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Тасвири { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Тоза кардани { $name }
+    .title = Тоза кардани тасвир
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Тоза кардани тасвири { $number }
+    .title = Тоза кардани тасвири { $number }
+newtab-wallpaper-remove-image-title = Тасвирро тоза мекунед?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Ин амал бекор карда намешавад.
+newtab-wallpaper-remove-image-confirm = Тоза кардан
+newtab-wallpaper-remove-image-cancel = Бекор кардан
 
 ## Solid Colors
 
@@ -593,6 +664,9 @@ newtab-weather-menu-change-location = Иваз кардани макон
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Ҷустуҷӯи макон
     .placeholder = Ҷустуҷӯи макон
+newtab-weather-cancel-input =
+    .aria-label = Бекор кардан
+    .title = Бекор кардан
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Истифодаи ҷойгиршавии ҷорӣ
