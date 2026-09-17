@@ -5,6 +5,8 @@
 about-pdf-title = Editor de PDF do { -brand-short-name }
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Uma ferramenta gratuita para leitura, fundir, assinar, comentar, e mais — com privacidade incorporada
+about-pdf-features-cta =
+    .label = Explorar ferramentas PDF
 about-pdf-dropzone =
     .title = Solte um PDF aqui para iniciar ou pressione Enter
 about-pdf-dropzone-hint = Solte um PDF aqui para começar
@@ -22,3 +24,11 @@ about-pdf-set-default =
     .label = Definir como predefinição
 about-pdf-dismiss =
     .label = Dispensar
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Ferramentas PDF do { -brand-short-name }
+about-pdf-features-intro = Leia, anote, e assine ficheiros PDF diretamente onde navega. É simples, gratuito, e privado.
+about-pdf-features-back =
+    .label = Retroceder
+about-pdf-feature-organize-heading = Organizar páginas

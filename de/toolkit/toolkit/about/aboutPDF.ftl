@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF-Bearbeitung
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Ein freies Werkzeug zum Lesen, Zusammenführen, Signieren, Kommentieren und mehr – mit integriertem Datenschutz
+about-pdf-features-cta =
+    .label = Entdecken Sie die PDF-Werkzeuge
 about-pdf-dropzone =
     .title = Zum Starten eine PDF-Datei hier ablegen oder die Eingabetaste drücken
 about-pdf-dropzone-hint = Zum Starten eine PDF-Datei hier ablegen
@@ -22,3 +24,12 @@ about-pdf-set-default =
     .label = Als Standard festlegen
 about-pdf-dismiss =
     .label = Verwerfen
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name } PDF-Werkzeuge
+about-pdf-features-intro = Lesen, markieren und signieren Sie PDFs direkt dort, wo Sie surfen. Es ist einfach, kostenlos und privat.
+about-pdf-features-back =
+    .label = Zurück
+about-pdf-feature-organize-heading = Seiten anordnen
+about-pdf-feature-organize-description = Seiten sortieren, löschen, zusammenführen und exportieren.
