@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } está revisando lo que has pegado según las políticas de datos de tu organización. Esto puede tomar un tiempo.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } está revisando lo que has copiado según las políticas de datos de tu organización. Esto puede tomar un tiempo.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está revisando
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } está revisando lo que has imprimido según las políticas de datos de tu organización. Esto puede tomar un tiempo.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Tu organización prohíbe copiar este contenido.
 contentanalysis-operationtype-clipboard = portapapeles
+contentanalysis-operationtype-clipboard-copy = contenido copiado
 contentanalysis-operationtype-dropped-text = texto arrastrado
 contentanalysis-operationtype-print = impresión
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Verificación de firma
 contentanalysis-error-message-upload-file = Carga de “{ $filename }” denegada.
 contentanalysis-error-message-dropped-text = Arrastrar y soltar denegado.
 contentanalysis-error-message-clipboard = Pegar denegado.
+contentanalysis-error-message-clipboard-copy = Copia denegada.
 contentanalysis-error-message-print = Imprimir denegado.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = No tienes permiso para bajar 
 contentanalysis-block-dialog-body-download-file = Según las políticas de protección de datos de tu organización, no tienes permitido bajar el archivo "{ $filename }". Ponte en contacto con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-clipboard = No tienes permitido pegar este contenido.
 contentanalysis-block-dialog-body-clipboard = Según las políticas de protección de datos de tu organización, no tienes permitido pegar este contenido. Ponte en contacto con tu administrador para obtener más información.
+contentanalysis-block-dialog-title-clipboard-copy = No tienes permitido copiar este contenido
+contentanalysis-block-dialog-body-clipboard-copy = Según las políticas de protección de datos de tu organización, no tienes permitido copiar este contenido. Ponte en contacto con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-dropped-text = No tienes permitido soltar este contenido.
 contentanalysis-block-dialog-body-dropped-text = Según las políticas de protección de datos de tu organización, no tienes permitido arrastrar y soltar este contenido. Ponte en contacto con tu administrador para obtener más información.
 contentanalysis-block-dialog-title-print = No tienes permitido imprimir este documento.
