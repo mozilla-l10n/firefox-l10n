@@ -20,8 +20,8 @@ backup-folder-name = Endurheimta { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Öryggisafrit { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Öryggisafrita
     .description = Verndaðu sjálfkrafa bókamerkin þin, vafurferil og fleiri gögn.
+    .label = Öryggisafrita
 settings-data-backup-toggle = Sýsla með öryggisafrit
 settings-data-backup-toggle-on2 =
     .label = Kveikja á öryggisafritun
@@ -31,26 +31,49 @@ settings-data-backup-trigger-button = Taka öryggisafrit núna
 settings-data-backup-in-progress-button = Öryggisafritun í gangi…
 settings-data-backup-in-progress-message =
     .message = Öryggisafritun í gangi…
+settings-data-backup-last-backup-date = Síðasta öryggisafrit: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-data-backup-scheduled-backups-on2 =
+    .label = Öryggisafritun: KVEIKT
+settings-data-backup-scheduled-backups-off2 =
+    .label = Öryggisafritun: SLÖKKT
+# "Location" refers to the folder where backups are being written to.
+settings-data-backup-last-backup-location2 =
+    .label = Staðsetning öryggisafritunar
 settings-data-backup-last-backup-location-show-in-folder = Sýna í möppu
 settings-data-backup-last-backup-location-edit = Breyta…
+settings-data-create-backup-error = Villa kom upp við að búa til öryggisafrit þann { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+settings-sensitive-data-encryption-description = Taktu öryggisafrit af lykilorðum þínum og greiðslumátum og haltu gögnunum þínum öruggum með dulritun.
+settings-data-toggle-encryption-label2 =
+    .description = Taktu öryggisafrit af lykilorðum þínum og greiðslumátum og haltu gögnunum þínum öruggum með dulritun.
+    .label = Taktu öryggisafrit af viðkvæmum gögnum þínum
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Skráarheiti: { $fileName }
-
-##
-
+settings-data-backup-restore-scheduled-on =
+    .description = Endurheimtu gögnin þín í { -brand-product-name } frá því að þau voru síðast afrituð.
+    .label = Endurheimtu gögnin þín
+settings-data-backup-restore-scheduled-off =
+    .description = Notaðu afrit af { -brand-product-name } frá öðru tæki til að endurheimta gögnin þín.
+    .label = Endurheimtu gögnin þín
+settings-sensitive-data =
+    .label = Viðkvæm gögn
 settings-data-toggle-encryption-support-link = Frekari upplýsingar
 settings-data-change-password2 =
     .label = Breyta lykilorði
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
+turn-on-scheduled-backups-header = Kveikja á öryggisafritun
+turn-on-scheduled-backups-description = { -brand-short-name } býr til skyndiafrit af gögnunum þínum á 24 tíma fresti. Þú getur endurheimt þau ef vandamál koma upp eða ef þú færð nýtt tæki.
+turn-on-scheduled-backups-support-link = Af hverju verður tekið afrit?
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Staðsetning
 # Variables:
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (ráðlagt)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Veldu staðsetningu
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Velja…
@@ -61,11 +84,20 @@ turn-on-scheduled-backups-encryption-create-password-label = Lykilorð
 # Users will be prompted to re-type a password, to ensure that the password is entered correctly.
 turn-on-scheduled-backups-encryption-repeat-password-label = Endurtaka lykilorð
 turn-on-scheduled-backups-cancel-button = Hætta við
+turn-on-scheduled-backups-confirm-button = Kveikja á öryggisafritun
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = Það kom upp vandamál með afritunarmöppuna sem þú valdir. Veldu aðra möppu og reyndu aftur.
+turn-on-scheduled-backups-error-default-dir-denied = Við gátum ekki komist í afritunarmöppuna þína. Reyndu að velja nýja staðsetningu.
+backup-error-file-system = Það kom upp vandamál með völdu afritunarmöppuna þína við öryggisafritun { -brand-short-name }.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = Slökkva á öryggisafritun?
+turn-off-scheduled-backups-description = Þetta eyðir einnig öllum afritunargögnum þínum. Ekki er hægt að afturkalla þetta.
 turn-off-scheduled-backups-support-link = Frekari upplýsingar
 turn-off-scheduled-backups-cancel-button = Hætta við
+turn-off-scheduled-backups-confirm-button = Slökkva á og eyða öryggisafritun
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
@@ -113,10 +145,25 @@ disable-backup-encryption-confirm-button = Fjarlægja lykilorð
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
+backup-file-header = { -brand-short-name } er tilbúið til endurheimtu
+backup-file-title = Endurheimta { -brand-short-name }
+backup-file-intro = Farðu aftur að vafra og endurheimtu öll bókamerki, feril og önnur gögn. <a data-l10n-name="backup-file-support-link">Frekari upplýsingar</a>
+backup-file-path-label = Öryggisafritunarskrá:
+backup-file-encryption-state-label = Dulritað:
 backup-file-encryption-state-value-encrypted = Já
 backup-file-encryption-state-value-not-encrypted = Nei
 backup-file-creation-device-label = Tæki:
 backup-file-creation-date-label = Búið til:
+# Variables:
+#   $date (Datetime) - The date the backup was created
+backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
+backup-file-how-to-restore-header = Hvernig á að endurheimta:
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Opnaðu forritsvalmyndina ☰ og farðu í Stillingar > Samstilling
+backup-file-moz-browser-restore-step-2-1 = Smelltu á „Endurheimta gögnin þín“ og veldu þessa skrá
+backup-file-moz-browser-restore-step-3 = Endurræstu { -brand-short-name } þegar beðið er um það
+backup-file-other-browser-restore-step-1 = Sækja og setja upp { -brand-short-name }
 backup-file-download-moz-browser-button = Sækja
 
 ## These strings are used in the about:restore and about:welcome pages

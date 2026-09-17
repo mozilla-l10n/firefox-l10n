@@ -346,3 +346,15 @@ appmenu-secure-sync-header = Örugg samstilling
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = Nýlegir flipar
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [one] Skoða { $tabCount } samstilltan flipa
+           *[other] Skoða alla { $tabCount } samstillta flipa
+        }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Senda núverandi síðu í þetta tæki
