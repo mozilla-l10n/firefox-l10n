@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Zdjęcie dnia
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Wyszukiwanie
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Ostatnie wyszukiwania
@@ -506,6 +510,14 @@ newtab-recent-searches-just-now = Przed chwilą
 newtab-recent-searches-row-remove =
     .aria-label = Usuń „{ $search }” z listy ostatnich wyszukiwań
 
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Wyszukiwanie
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Opcje wyszukiwania
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -868,6 +880,9 @@ newtab-wallpaper-add-an-image = Dodaj obraz
 newtab-wallpaper-custom-color = Wybierz kolor
 newtab-wallpaper-toggle-title =
     .label = Tapety
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategorie tapet
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Obraz przekracza ograniczenie rozmiaru pliku wynoszące { $file_size } MB. Spróbuj dodać mniejszy plik.
@@ -1730,6 +1745,12 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = To miejsce gra według Twoich zasad
 newtab-activation-window-message-values-focus-message = { -brand-product-name } pozwala przeglądać Internet tak, jak lubisz, oferując bardziej spersonalizowany sposób na rozpoczęcie dnia w sieci. Ustaw { -brand-product-name(case: "acc") } po swojemu.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-message = Poznaj jasne i ciemne motywy oraz tapety, dzięki którym nowy { -brand-product-name } będzie bardziej po Twojemu.
+newtab-nova-customization-callout-primary-button =
+    .label = Wybierz wygląd
 
 ## Strings for the Clock widget
 

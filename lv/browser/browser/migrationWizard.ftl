@@ -29,6 +29,7 @@ migration-wizard-migrator-display-name-chromium-360se = 360 Drošs pārlūks
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge mantojums
+migration-wizard-migrator-display-name-self = { -brand-product-name }
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Paroles no CSV datnes
 migration-wizard-migrator-display-name-file-bookmarks = Grāmatzīmes no HTML datnes

@@ -263,6 +263,12 @@ newtab-recent-searches-just-now = Tikko
 newtab-recent-searches-row-remove =
     .aria-label = Noņemt “{ $search }” no nesenajiem meklējumiem
 
+## Strings for the Search widget
+
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Meklēšanas iespējas
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
