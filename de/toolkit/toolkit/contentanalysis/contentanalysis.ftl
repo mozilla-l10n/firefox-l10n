@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } überprüft die Daten, die Sie eingefügt haben, mit den Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } gleicht die kopierten Inhalte mit den Datenrichtlinien Ihrer Organisation ab. Dies kann einen Moment dauern.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } überprüft den
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } überprüft, was Sie gedruckt haben, mit den Datenrichtlinien Ihrer Organisation. Dies kann einen Moment dauern.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Ihre Organisation erlaubt das Kopieren dieser Inhalte nicht.
 contentanalysis-operationtype-clipboard = Zwischenablage
+contentanalysis-operationtype-clipboard-copy = kopierter Inhalt
 contentanalysis-operationtype-dropped-text = Hineingezogener Text
 contentanalysis-operationtype-print = Drucken
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Signaturüberprüfung 
 contentanalysis-error-message-upload-file = Hochladen von "{ $filename }" verweigert.
 contentanalysis-error-message-dropped-text = Ziehen und Ablegen verweigert.
 contentanalysis-error-message-clipboard = Einfügen verweigert.
+contentanalysis-error-message-clipboard-copy = Kopieren verweigert.
 contentanalysis-error-message-print = Drucken verweigert.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = Sie haben nicht die Erlaubnis
 contentanalysis-block-dialog-body-download-file = Laut den Datenschutzrichtlinien Ihres Unternehmens sind Sie nicht berechtigt, die Datei "{ $filename }" herunterzuladen. Kontaktieren Sie Ihren Administrator für weitere Informationen.
 contentanalysis-block-dialog-title-clipboard = Sie sind nicht berechtigt, diesen Inhalt einzufügen
 contentanalysis-block-dialog-body-clipboard = Laut den Datenschutzrichtlinien Ihres Unternehmens sind Sie nicht berechtigt, diesen Inhalt einzufügen. Kontaktieren Sie Ihren Administrator für weitere Informationen.
+contentanalysis-block-dialog-title-clipboard-copy = Sie sind nicht berechtigt, diesen Inhalt zu kopieren
+contentanalysis-block-dialog-body-clipboard-copy = Laut den Datenschutzrichtlinien Ihrer Organisation sind Sie nicht berechtigt, diesen Inhalt zu kopieren. Weitere Informationen erhalten Sie von Ihrem Administrator.
 contentanalysis-block-dialog-title-dropped-text = Sie sind nicht berechtigt, diesen Inhalt hierhin zu ziehen
 contentanalysis-block-dialog-body-dropped-text = Laut den Datenschutzrichtlinien Ihres Unternehmens sind Sie nicht berechtigt, diesen Inhalt per Drag und Drop zu ziehen. Kontaktieren Sie Ihren Administrator für weitere Informationen.
 contentanalysis-block-dialog-title-print = Sie sind nicht berechtigt, dieses Dokument zu drucken
