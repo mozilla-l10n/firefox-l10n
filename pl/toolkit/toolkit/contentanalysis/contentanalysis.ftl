@@ -34,7 +34,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } sprawdza przeci
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } sprawdza wydrukowaną treść pod kątem zasad dotyczących danych Twojej organizacji. Może to chwilę zająć.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Twoja organizacja zabrania kopiowania tej treści.
 contentanalysis-operationtype-clipboard = schowek
+contentanalysis-operationtype-clipboard-copy = skopiowana treść
 contentanalysis-operationtype-dropped-text = przeciągnięty tekst
 contentanalysis-operationtype-print = wydruk
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -72,6 +77,7 @@ contentanalysis-invalid-agent-signature-message-content = Weryfikacja podpisu ag
 contentanalysis-error-message-upload-file = Odmowa przesłania pliku „{ $filename }”.
 contentanalysis-error-message-dropped-text = Odmowa przeciągnięcia.
 contentanalysis-error-message-clipboard = Odmowa wklejenia.
+contentanalysis-error-message-clipboard-copy = Odmowa skopiowania.
 contentanalysis-error-message-print = Odmowa wydrukowania.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -87,6 +93,8 @@ contentanalysis-block-dialog-title-download-file = Brak uprawnienia do pobrania 
 contentanalysis-block-dialog-body-download-file = Zgodnie z zasadami ochrony danych Twojej organizacji nie masz uprawnienia do pobrania pliku „{ $filename }”. Skontaktuj się z administratorem, aby dowiedzieć się więcej.
 contentanalysis-block-dialog-title-clipboard = Brak uprawnienia do wklejenia tej treści
 contentanalysis-block-dialog-body-clipboard = Zgodnie z zasadami ochrony danych Twojej organizacji nie masz uprawnienia do wklejenia tej treści. Skontaktuj się z administratorem, aby dowiedzieć się więcej.
+contentanalysis-block-dialog-title-clipboard-copy = Brak uprawnienia do skopiowania tej treści
+contentanalysis-block-dialog-body-clipboard-copy = Zgodnie z zasadami ochrony danych Twojej organizacji nie masz uprawnienia do skopiowania tej treści. Skontaktuj się z administratorem, aby dowiedzieć się więcej.
 contentanalysis-block-dialog-title-dropped-text = Brak uprawnienia do przeciągnięcia tej treści
 contentanalysis-block-dialog-body-dropped-text = Zgodnie z zasadami ochrony danych Twojej organizacji nie masz uprawnienia do przeciągnięcia tej treści. Skontaktuj się z administratorem, aby dowiedzieć się więcej.
 contentanalysis-block-dialog-title-print = Brak uprawnienia do wydrukowania tego dokumentu

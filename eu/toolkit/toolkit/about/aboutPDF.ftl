@@ -28,6 +28,7 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } PDF tresnak
+about-pdf-features-intro = Irakurri, markatu eta sinatu PDFak nabigatzailetik zuzenean. Sinplea, doakoa eta pribatua da.
 about-pdf-features-back =
     .label = Atzera
 about-pdf-feature-organize-heading = Antolatu orriak

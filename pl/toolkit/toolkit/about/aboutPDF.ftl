@@ -5,6 +5,8 @@
 about-pdf-title = Edytor plików PDF { -brand-short-name(case: "gen") }
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Bezpłatne narzędzie do czytania, scalania, podpisywania, komentowania i nie tylko — z wbudowaną ochroną prywatności
+about-pdf-features-cta =
+    .label = Poznaj narzędzia do plików PDF
 about-pdf-dropzone =
     .title = Aby rozpocząć, przeciągnij tutaj plik PDF lub naciśnij klawisz Enter
 about-pdf-dropzone-hint = Aby rozpocząć, przeciągnij tutaj plik PDF
@@ -22,3 +24,13 @@ about-pdf-set-default =
     .label = Ustaw jako domyślne
 about-pdf-dismiss =
     .label = Zamknij
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Narzędzia do plików PDF { -brand-short-name(case: "gen") }
+about-pdf-features-intro = Czytaj, dodawaj komentarze i podpisuj pliki PDF bezpośrednio w przeglądarce. Prosto, bezpłatnie i z ochroną prywatności.
+about-pdf-features-back =
+    .label = Wstecz
+about-pdf-feature-organize-heading = Organizuj strony
+about-pdf-feature-organize-description = Zmieniaj kolejność, usuwaj, scalaj i eksportuj strony.
+about-pdf-feature-signatures-heading = Zachowuj podpisy
