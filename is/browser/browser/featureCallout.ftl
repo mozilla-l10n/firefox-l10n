@@ -89,6 +89,11 @@ perplexity-callout-primary-label = Spyrja Perplexity
 perplexity-callout-secondary-label-1 = Afgreiða
 perplexity-callout-secondary-label-2 = Náði því
 
+## Startpage callout strings. Startpage (https://www.startpage.com/) is a
+## brand name and should not be translated or transliterated.
+
+start-page-callout-secondary-label = Afgreiða
+
 ## Account Adoption Passwords callout strings
 
 # Suggestion to backup passwords by signing up for Mozilla account and using sync

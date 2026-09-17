@@ -28,6 +28,7 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = Nei takk
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Nei takk
+ipprotection-feature-introduction-button-open-vpn = Opna VPN
 ipprotection-feature-introduction-button-get-started = Hefjast handa
 
 ## Unlimited bandwidth summer promotion offramp callouts
@@ -52,6 +53,12 @@ ipprotection-android-promo-callout-primary-button = Náði því
 
 unauthenticated-private-location-message = Hjálpar til við að <a data-l10n-name="learn-more-vpn">halda staðsetningu þinni leyndri</a> í { -brand-product-name }.
 unauthenticated-get-started = Hefjast handa
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Reglan þín
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = Slökkt er á VPN fyrir þetta vefsvæði
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = Kveikt er á VPN fyrir þetta vefsvæði
 ipprotection-settings-link =
     .label = Stillingar
 
@@ -66,6 +73,14 @@ ipprotection-button-turn-vpn-off-excluded-site = Slökkva á VPN allsstaðar
 ipprotection-button-turn-vpn-on = Kveikja á VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Kveikir á…
+ipprotection-connection-status-connected-1 = VPN er virkt
+    .aria-label = VPN er virkt
+ipprotection-connection-status-disconnected-1 = Slökkt er á VPN
+    .aria-label = Slökkt er á VPN
+ipprotection-connection-status-excluded-1 = Slökkt er á VPN fyrir þetta vefsvæði
+    .aria-label = Slökkt er á VPN fyrir þetta vefsvæði
+ipprotection-connection-status-connecting-1 = VPN tengist…
+    .aria-label = VPN tengist…
 
 ## Location controls
 

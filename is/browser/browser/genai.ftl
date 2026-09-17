@@ -10,6 +10,7 @@ genai-settings-chat-claude-links = Með því að velja Anthropic Claude samþyk
 genai-settings-chat-copilot-links = Með því að velja Copilot samþykkir þú <a data-l10n-name="link1">skilmála Copilot AI Experiences</a> og <a data-l10n-name="link2">persónuverndaryfirlýsingu</a> Microsoft.
 genai-settings-chat-gemini-links = Með því að velja Google Gemini samþykkir þú <a data-l10n-name="link1">þjónustuskilmála Google</a>, <a data-l10n-name="link2">skilmála um bannaða notkun á Generative AI</a > og <a data-l10n-name="link3">persónuverndarákvæði Gemini Apps</a>.
 genai-settings-chat-huggingchat-links = Með því að velja HuggingChat samþykkir þú <a data-l10n-name="link1">persónuverndarákvæði HuggingChat</a> og <a data-l10n-name="link2">persónuverndarstefnu Hugging Face</a>.
+genai-settings-chat-lechat-links-2 = Með því að velja Mistral Vibe samþykkir þú <a data-l10n-name="link1">þjónustuskilmála</a> og <a data-l10n-name="link2">persónuverndarstefnu</a> Mistral AI.
 genai-settings-chat-lechat-links = Með því að velja Le Chat Mistral samþykkir þú <a data-l10n-name="link1">þjónustuskilmála</a> og <a data-l10n-name="link2">persónuverndarstefnu</a>  Mistral AI.
 genai-settings-chat-localhost-links = Settu upp þín eigin persónulegu staðbundin spjallkerfi á borð við <a data-l10n-name="link1">llamafile</a> frá Innovation-hópnum { -vendor-short-name }.
 
@@ -58,8 +59,13 @@ genai-menu-remove-provider =
     .label = Fjarlægja { $provider }
 genai-menu-remove-sidebar =
     .label = Fjarlægja af hliðarstiku
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button =
+    .aria-label = Spyrja { $provider }
 genai-menu-new-badge = Nýtt
 genai-menu-summarize-page = Gera samantekt síðu
+genai-input-ask-smart-window =
+    .placeholder = Spyrja…
 genai-input-ask-generic =
     .placeholder = Spyrja gervigreindarspjallkerfi…
 # $provider (string) - name of the provider
@@ -88,12 +94,27 @@ genai-shortcuts-hide =
     .label = Fela flýtileið spjallkerfis
 genai-menu-choose-chatbot =
     .label = Veldu gervigreindarspjallkerfi
+genai-menu-ask-generic-2 =
+    .label = Spyrja gervigreindarspjallkerfi
+    .accesskey = g
+# $provider (string) - name of the provider
+genai-menu-ask-provider-2 =
+    .label = Spyrja { $provider }
+    .accesskey = j
+genai-menu-no-provider-2 =
+    .label = Spyrja gervigreindarspjallkerfi
+    .accesskey = g
+genai-menu-ask-smart-window =
+    .label = Spyrja…
+    .accesskey = j
 
 ## Chatbot header
 
 genai-chatbot-title = Gervigreindarspjallkerfi
 genai-header-provider-menu =
     .title = Veldu spjallkerfi
+genai-header-settings-button =
+    .title = Stillingar fyrir gervigreindarspjall
 genai-header-close-button =
     .title = Loka
 genai-provider-view-details =

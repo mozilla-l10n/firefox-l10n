@@ -49,11 +49,19 @@ customkeys-shortcut-unassigned =
 # Variables:
 # $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
 customkeys-shortcut-input = Flýtileið fyrir: { $keyLabel }
+customkeys-key-edit =
+    .aria-label = Breyta
+    .tooltiptext = Breyta
 customkeys-key-clear =
     .aria-label = Hreinsa
     .tooltiptext = Hreinsa
+customkeys-key-reset =
+    .aria-label = Endurheimta
+    .tooltiptext = Endurheimta
 
 ## Shortcut actions
 
 customkeys-key-new =
     .label = Ýttu á nýjan lykil:
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (er ekki hægt að breyta)
