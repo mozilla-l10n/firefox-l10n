@@ -25,6 +25,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } kontroluje, zda vložené údaje odpovídají zásadám organizace týkajícím se dat. To může chvíli trvat.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } kontroluje, zda kopírovaný obsah odpovídá zásadám vaší organizace. Toto může chvíli trvat.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -32,7 +35,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } kontroluje, zda
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } kontroluje, zda vytištěné údaje odpovídají zásadám organizace týkajícím se dat. To může chvíli trvat.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Kopírování tohoto obsahu je omezeno vaší organizací.
 contentanalysis-operationtype-clipboard = schránka
+contentanalysis-operationtype-clipboard-copy = zkopírovaný obsah
 contentanalysis-operationtype-dropped-text = přetažený text
 contentanalysis-operationtype-print = tisk
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -70,6 +78,7 @@ contentanalysis-invalid-agent-signature-message-content = Ověření podpisu age
 contentanalysis-error-message-upload-file = Nahrání souboru „{ $filename }“ bylo zamítnuto.
 contentanalysis-error-message-dropped-text = Přetahování bylo zakázáno.
 contentanalysis-error-message-clipboard = Vložení bylo zamítnuto.
+contentanalysis-error-message-clipboard-copy = Kopírování bylo odmítnuto.
 contentanalysis-error-message-print = Tisk zamítnut.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -85,6 +94,8 @@ contentanalysis-block-dialog-title-download-file = Nemáte oprávnění stáhnou
 contentanalysis-block-dialog-body-download-file = Podle zásad ochrany dat vaší organizace nesmíte stáhnout soubor "{ $filename }". Další informace získáte od svého správce.
 contentanalysis-block-dialog-title-clipboard = Nemáte oprávnění pro vložení tohoto obsahu
 contentanalysis-block-dialog-body-clipboard = Zásady vaší organizace pro ochranu dat nepovolují vložení tohoto obsahu. Pro více informací kontaktujte svého správce.
+contentanalysis-block-dialog-title-clipboard-copy = Nemáte oprávnění kopírovat tento obsah
+contentanalysis-block-dialog-body-clipboard-copy = Podle zásad ochrany dat vaší organizace není kopírování tohoto obsahu povoleno. Pro více informací kontaktujte svého správce.
 contentanalysis-block-dialog-title-dropped-text = Nemáte oprávnění přetáhnout tento obsah
 contentanalysis-block-dialog-body-dropped-text = Zásady vaší organizace pro ochranu dat nepovolují přetažení tohoto obsahu. Pro více informací kontaktujte svého správce.
 contentanalysis-block-dialog-title-print = Nemáte oprávnění pro vytištění tohoto dokumentu
