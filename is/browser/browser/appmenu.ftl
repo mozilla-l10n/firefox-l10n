@@ -312,8 +312,17 @@ appmenuitem-monitor-description = Fáðu tilkynningar um gagnarán
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Hyldu raunverulegt tölvupóstfang og símanúmerið þitt
 appmenuitem-services-relay-description = Ræsa stjórnborðið fyrir tölvupósthulur
+appmenuitem-vpn-title2 = Feldu staðsetningu þína með { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenu-services-header = Þjónusturnar mínar
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = Persónuverndartól
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Prófaðu önnur varnartæki frá Mozilla:
 
 ## Profiles panel
 
@@ -324,5 +333,16 @@ appmenu-create-profile =
     .label = Nýtt notkunarsnið
 appmenu-edit-profile =
     .aria-label = Breyta notkunarsniði
+# Button in the account menu that links to the Referrals page
+appmenuitem-share-firefox-title2 = Deila { -brand-product-name }
+appmenuitem-share-firefox-description = Bjóddu einhverjum að velja vafrann sem setur friðhelgi einkalífsins í fyrsta sæti
 appmenu-profiles-2 =
     .label = Notkunarsnið
+appmenu-profiles-header = Notkunarsnið
+appmenu-all-profiles =
+    .label = Öll notkunarsnið
+appmenu-secure-sync-header = Örugg samstilling
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Nýlegir flipar
