@@ -24,3 +24,26 @@ about-pdf-set-default =
     .label = Setează ca implicit
 about-pdf-dismiss =
     .label = Închide
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Instrumente PDF în { -brand-short-name }
+about-pdf-features-intro = Citești, marchezi și semnezi PDF-uri direct în browser. E simplu, gratuit și confidențial.
+about-pdf-features-back =
+    .label = Înapoi
+about-pdf-feature-organize-heading = Organizează paginile
+about-pdf-feature-organize-description = Reordonezi, elimini, combini și exporți pagini.
+about-pdf-feature-signatures-heading = Salvezi semnături
+about-pdf-feature-signatures-description = Creezi mai multe semnături și le aplici în formulare.
+about-pdf-feature-comments-heading = Adaugi note
+about-pdf-feature-comments-description = Lași comentarii și memento-uri în timpul lecturii.
+about-pdf-feature-annotate-heading = Marchezi PDF-uri
+about-pdf-feature-annotate-description = Adaugi text, evidențieri și desene.
+about-pdf-feature-images-heading = Încarci imagini accesibile
+about-pdf-feature-images-description = Adaugi text alternativ pentru ca imaginile să fie accesibile mai multor oameni.
+about-pdf-feature-view-heading = Îți alegi vizualizarea
+about-pdf-feature-view-description = Derulezi pe verticală sau pe orizontală sau schimbi dispunerea în pagină.
+about-pdf-feature-presentation-heading = Prezinți PDF-uri pe tot ecranul
+about-pdf-feature-presentation-description = Partajezi o vizualizare curată în modul de prezentare.
+about-pdf-feature-details-heading = Găsești detalii mai repede
+about-pdf-feature-details-description = Folosești contururi, atașamente și proprietăți ca să navighezi prin PDF-uri.

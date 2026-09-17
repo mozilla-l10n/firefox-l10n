@@ -24,6 +24,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } verifică ce ai inserat în raport cu politicile de date ale organizației tale. Poate dura ceva timp.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } verifică ce ai copiat în baza politicilor de date ale organizației tale. Poate dura ceva timp.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -31,7 +34,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } verifică textu
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } verifică ce ai listat prin confruntarea cu politicile de date ale organizației tale. Poate dura ceva timp.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Copierea acestui conținut este restricționată de organizația ta.
 contentanalysis-operationtype-clipboard = clipboard
+contentanalysis-operationtype-clipboard-copy = conținut copiat
 contentanalysis-operationtype-dropped-text = text plasat
 contentanalysis-operationtype-print = printare
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -69,6 +77,7 @@ contentanalysis-invalid-agent-signature-message-content = Verificarea semnături
 contentanalysis-error-message-upload-file = Încărcare „{ $filename }” refuzată.
 contentanalysis-error-message-dropped-text = Tragere și plasare refuzate.
 contentanalysis-error-message-clipboard = Inserare refuzată.
+contentanalysis-error-message-clipboard-copy = Copiere refuzată.
 contentanalysis-error-message-print = Imprimare refuzată.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -84,6 +93,8 @@ contentanalysis-block-dialog-title-download-file = Nu ai permisiunea de a descă
 contentanalysis-block-dialog-body-download-file = Conform politicilor de protecție a datelor ale organizației tale, nu ai permisiunea de a descărca fișierul „{ $filename }”. Contactează administratorul pentru mai multe informații.
 contentanalysis-block-dialog-title-clipboard = Nu ai permisiunea să inserezi acest conținut
 contentanalysis-block-dialog-body-clipboard = Conform politicilor de protecție a datelor ale organizației tale, nu ai permisiunea de a insera acest conținut. Contactează administratorul pentru mai multe informații.
+contentanalysis-block-dialog-title-clipboard-copy = Nu ți se permite să copiezi acest conținut
+contentanalysis-block-dialog-body-clipboard-copy = În baza politicilor organizației tale privind protecția datelor, nu ți se permite să copiezi acest conținut. Contactează administratorul pentru mai multe informații.
 contentanalysis-block-dialog-title-dropped-text = Nu ai permisiunea de a plasa acest conținut
 contentanalysis-block-dialog-body-dropped-text = Conform politicilor de protecție a datelor ale organizației tale, nu ai permisiunea de a trage și plasa acest conținut. Contactează administratorul pentru mai multe informații.
 contentanalysis-block-dialog-title-print = Nu ai permisiunea de a imprima acest document
