@@ -19,6 +19,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more = { $agent } 正在確認�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } 正在確認您貼上的內容是否符合貴組織的資料政策，可能會需要一點時間。
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } 正在確認您複製的內容是否符合貴組織的資料政策，可能會需要一點時間。
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis

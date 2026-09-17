@@ -44,4 +44,6 @@ about-pdf-feature-images-description = 為圖片加入替代文字，讓更多�
 about-pdf-feature-view-heading = 選擇檢視方式
 about-pdf-feature-view-description = 可垂直或水平捲動，也可切換頁面的版面配置。
 about-pdf-feature-presentation-heading = 用全螢幕簡報 PDF
+about-pdf-feature-presentation-description = 用簡報模式分享簡潔的畫面。
 about-pdf-feature-details-heading = 更快找到詳細資訊
+about-pdf-feature-details-description = 透過大綱、附件與文件屬性來瀏覽 PDF。
