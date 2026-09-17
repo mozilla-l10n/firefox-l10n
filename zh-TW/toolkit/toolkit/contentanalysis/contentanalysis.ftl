@@ -26,6 +26,10 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } 正在確認您
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } 正在確認您列印的內容是否符合貴組織的資料政策，可能會需要一點時間。
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = 您的組織不允許複製此內容。
 contentanalysis-operationtype-clipboard = 剪貼簿
 contentanalysis-operationtype-clipboard-copy = 已複製內容
 contentanalysis-operationtype-dropped-text = 已放下文字
@@ -81,6 +85,8 @@ contentanalysis-block-dialog-title-download-file = 您未被允許下載此檔�
 contentanalysis-block-dialog-body-download-file = 根據您組織的資料保護政策，您未被允許下載檔案「{ $filename }」。若需更多資訊，請聯絡您的管理員。
 contentanalysis-block-dialog-title-clipboard = 您未被允許貼上此內容
 contentanalysis-block-dialog-body-clipboard = 根據您組織的資料保護政策，您未被允許貼上此內容。若需更多資訊，請聯絡您的管理員。
+contentanalysis-block-dialog-title-clipboard-copy = 您未被允許複製此內容
+contentanalysis-block-dialog-body-clipboard-copy = 根據您組織的資料保護政策，您未被允許複製此內容。若需更多資訊，請聯絡您的管理員。
 contentanalysis-block-dialog-title-dropped-text = 您未被允許放下此內容
 contentanalysis-block-dialog-body-dropped-text = 根據您組織的資料保護政策，您未被允許拖放此內容。若需更多資訊，請聯絡您的管理員。
 contentanalysis-block-dialog-title-print = 您未被允許列印此文件

@@ -28,7 +28,20 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } PDF 工具
+about-pdf-features-intro = 直接在瀏覽器中閱讀、註記及簽署 PDF。簡單、免費又兼顧隱私。
+about-pdf-features-back =
+    .label = 上一頁
 about-pdf-feature-organize-heading = 管理頁面
+about-pdf-feature-organize-description = 重新排序、刪除、合併及匯出頁面。
 about-pdf-feature-signatures-heading = 儲存簽章
+about-pdf-feature-signatures-description = 建立多種簽章，並將其加入表單。
+about-pdf-feature-comments-heading = 新增註解
+about-pdf-feature-comments-description = 一邊閱讀，一邊留下註解與提醒。
 about-pdf-feature-annotate-heading = 在 PDF 上作標記
-about-pdf-feature-presentation-heading = 用全螢幕顯示 PDF
+about-pdf-feature-annotate-description = 新增文字、螢光標示和手繪內容。
+about-pdf-feature-images-heading = 上傳易於閱讀的圖片
+about-pdf-feature-images-description = 為圖片加入替代文字，讓更多人都能理解內容。
+about-pdf-feature-view-heading = 選擇檢視方式
+about-pdf-feature-view-description = 可垂直或水平捲動，也可切換頁面的版面配置。
+about-pdf-feature-presentation-heading = 用全螢幕簡報 PDF
+about-pdf-feature-details-heading = 更快找到詳細資訊
