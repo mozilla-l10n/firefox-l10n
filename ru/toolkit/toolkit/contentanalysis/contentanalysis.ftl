@@ -24,6 +24,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } проверяет вставленное вами содержимое на соответствие политике данных вашей организации. Это может занять некоторое время.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } проверяет, что вы скопировали, на соответствие политике данных вашей организации. Это может занять некоторое время.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -31,7 +34,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } проверя�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } проверяет, что вы распечатали, на соответствие политике данных вашей организации. Это может занять некоторое время.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Копирование этого содержимого ограничено вашей организацией.
 contentanalysis-operationtype-clipboard = буфер обмена
+contentanalysis-operationtype-clipboard-copy = скопированное содержимое
 contentanalysis-operationtype-dropped-text = пропущенный текст
 contentanalysis-operationtype-print = печать
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -69,6 +77,7 @@ contentanalysis-invalid-agent-signature-message-content = Не удалось п
 contentanalysis-error-message-upload-file = Выгрузка «{ $filename }» запрещена.
 contentanalysis-error-message-dropped-text = Перетаскивание запрещено.
 contentanalysis-error-message-clipboard = Вставка запрещена.
+contentanalysis-error-message-clipboard-copy = В копировании отказано.
 contentanalysis-error-message-print = Печать запрещена.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -84,6 +93,8 @@ contentanalysis-block-dialog-title-download-file = Вам не разрешен�
 contentanalysis-block-dialog-body-download-file = В соответствии с политикой защиты данных вашей организации, вам не разрешено скачивать файл «{ $filename }». Свяжитесь с вашим администратором для получения дополнительных сведений.
 contentanalysis-block-dialog-title-clipboard = Вам не разрешено вставлять это содержимое
 contentanalysis-block-dialog-body-clipboard = Согласно политикам защиты данных вашей организации, вам не разрешено вставлять это содержимое. Свяжитесь с вашим администратором для получения дополнительных сведений.
+contentanalysis-block-dialog-title-clipboard-copy = Вам не разрешено копировать это содержимое
+contentanalysis-block-dialog-body-clipboard-copy = Согласно политикам защиты данных вашей организации, вам не разрешено вставлять это содержимое. Свяжитесь с вашим администратором для получения дополнительных сведений.
 contentanalysis-block-dialog-title-dropped-text = Вам не разрешено сбрасывать это содержимое
 contentanalysis-block-dialog-body-dropped-text = Согласно политике защиты данных вашей организации, вам не разрешено перетаскивать это содержимое. Свяжитесь с вашим администратором для получения дополнительных сведений.
 contentanalysis-block-dialog-title-print = Вам не разрешено печатать этот документ

@@ -44,3 +44,6 @@ about-pdf-feature-images-description = Добавьте альтернативн
 about-pdf-feature-view-heading = Выберите внешний вид
 about-pdf-feature-view-description = Прокрутите по вертикали или горизонтали или переключите макеты страниц.
 about-pdf-feature-presentation-heading = Отображать PDF-файлы в полноэкранном режиме
+about-pdf-feature-presentation-description = Поделиться чистым видом в режиме презентации.
+about-pdf-feature-details-heading = Ускорьте поиск подробностей
+about-pdf-feature-details-description = Используйте содержание, вложения и свойства для перемещения по PDF-файлам.
