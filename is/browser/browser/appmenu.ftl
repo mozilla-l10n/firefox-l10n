@@ -134,6 +134,8 @@ fxa-menu-sync-off-signin-description = Skráðu þig inn til að samstilla
 # Variables:
 #   $deviceName (String): The name of the local device.
 fxa-menu-sync-device-now = Samstilla { $deviceName } núna
+fxa-menu-manage-sync-settings =
+    .label = Sýsla með samstillingar
 fxa-menu-add-device =
     .label = Bæta við tæki
 fxa-menu-manage-devices =
@@ -161,6 +163,9 @@ appmenu-fxa-signed-in-label = Innskráning
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Skráðu þig inn til að samstilla
+appmenu-fxa-sign-in-promo-message = Fáðu gögnin þín alls staðar
+appmenu-fxa-sign-in-promo-button =
+    .label = Skrá inn
 appmenu-fxa-setup-sync =
     .label = Kveikja á samstillingu…
 appmenu-fxa-setup-sync-new = Kveikja á
@@ -240,6 +245,8 @@ profiler-popup-presets-power-label =
 profiler-popup-presets-debug-description = Forstillt fyrir villuleit í { -brand-shorter-name }. Kemur niður á afköstum, ekki notað fyrir verk sem krefjast mikilla afkasta heldur til að einbeita sér að því að greina hegðun vafrans.
 profiler-popup-presets-debug-label =
     .label = Villuleita
+profiler-popup-presets-web-compat-label =
+    .label = Vefsamhæfni
 profiler-popup-presets-custom-label =
     .label = Sérsniðið
 
@@ -259,6 +266,24 @@ appmenu-recently-closed-windows =
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Leitarferill
+
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin =
+    .heading = Haltu samstillingu á milli tækja
+appmenu-sync-promo-signin-cta = Skrá inn
+appmenu-sync-promo-turnonsync =
+    .heading = Samstilltu flipana þína og vafurferil
+appmenu-sync-promo-turnonsync-cta = Kveikja á samstillingu
+# This refers to getting tabs from your mobile device via sync
+appmenu-sync-promo-connectdevice =
+    .heading = Náðu í farsímaflipana þína
+appmenu-sync-promo-connectdevice-cta = Tengdu tæki
+appmenu-bookmarks-sync-promo-turnonsync =
+    .heading = Taktu bókamerkin þín með þér
 
 ## Help panel
 
