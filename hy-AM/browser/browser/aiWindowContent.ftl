@@ -119,15 +119,71 @@ smart-window-confirm-group-tabs =
     }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Բացել
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Բացել { $count } ներդիրը
+       *[other] Բացել { $count } ներդիրները
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Խմբավորված { $count } ներդիր
+       *[other] Խմբավորված { $count } ներդիրներ
+    }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Ներդիրների խումբ
 smart-window-grouped-tabs-row-label = Խմբավորված ներդիրներ
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] Բացվեց { $count } ներդիրը
+       *[other] Բացվել են { $count } ներդիրներ
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] Բացվեց { $count } ներդիրը։
+       *[other] Բացվել են { $count } ներդիրներ։
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] Ստեղծվել է «{ $label }» խումբը և բացվել են { $count } ներդիրներ։
+       *[other] Ստեղծվել է «{ $label }» խումբը և բացվել են { $count } ներդիրներ։
+    }
 smart-window-opened-tabs-row-label = Բացված ներդիրներ
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = Փոխարկված ներդիրներ
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Փոխարկվել { $url }-ին
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Ներդիրները խմբավորված չեն
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } ներդիրը խմբավորվեց, ապա հանվեց խմբավորումից։
+       *[other] { $count } ներդիրները խմբավորվեցին, ապա հանվեցին խմբավորումից։
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Չխմբավորված { $count } ներդիր
+       *[other] Չխմբավորված { $count } ներդիրներ
+    }
 
 ## Action log
 
+action-log-searching-tabs = Ներդիրների որոնում
 action-log-searched-open-tabs = Որոնվել են բաց ներդիրներ
 action-log-searching-history = Որոնման պատմություն
 action-log-searched-history = Որոնումների պատմություն
@@ -148,3 +204,24 @@ action-log-checking-memories = Հիշողությունների ստուգում
 action-log-checked-memories = Ստուգված հիշողություններ
 action-log-searching-settings = Որոնման կարգավորումներ
 action-log-searched-settings = Որոնված կարգավորումներ
+# Variables
+#   $count (Number) - how many tool steps completed in the turn
+action-log-completed-steps =
+    { $count ->
+        [one] Ավարտված է 1 քայլ
+       *[other] Ավարտված { $count } քայլ
+    }
+
+## Assistant Loader
+
+# Shown while the assistant analyzes search results that it loaded into the
+# current tab on the user’s behalf. Communicates both that the tab’s content
+# changed and that the assistant is reviewing the results before responding.
+smartwindow-search-loader-text = Որոնման արդյունքները բեռնվել են այս ներդիրում։ Վերլուծվում է…
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = +{ $count } ավելին

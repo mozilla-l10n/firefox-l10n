@@ -306,6 +306,7 @@ quickactions-addons = Դիտել հավելումները
 quickactions-cmd-addons3 = ընդլայնումներ, ոճեր, հավելումներ, հավելումներ
 # Opens preferences page at AI controls
 quickactions-manageai = Միացնել արհեստական բանականության կառավարումը
+quickactions-cmd-manageai = անջատել արհեստական բանականությունը, անջատել արհեստական բանականությունը, կառավարել արհեստական բանականությունը
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Կառավարել էջանիշները
 quickactions-cmd-bookmarks = Էջանիշեր
@@ -507,6 +508,7 @@ browser-window-return-to-opener =
 browser-import-button2 =
     .label = Էջանիշների ներմուծում
     .tooltiptext = Ներմուծում է էջանիշերը այլ զննարկիչից { -brand-short-name }:
+bookmarks-toolbar-empty-message = Արագ մուտքի համար տեղադրեք ձեր էջանիշները այստեղ՝ էջանիշերի գործիքագոտում։ <a data-l10n-name="manage-bookmarks">Կառավարել էջանիշները…</a>
 
 ## WebRTC Pop-up notifications
 

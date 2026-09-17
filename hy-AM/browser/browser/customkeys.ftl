@@ -12,11 +12,19 @@ customkeys-reset = Վերակայել
 customkeys-clear = Մաքրել
 customkeys-new-key = Սեղմեք նոր ստեղնը՝
 customkeys-reset-all = Վերականգնել բոլոր դյուրանցումները սկզբնադիր կարգավորումներին
+# Variables
+# $conflict (string) - The title of the conflicting shortcut.
+customkeys-conflict-confirm = Այս բանալին արդեն նշանակված է { $conflict }-ին։ Ցանկանո՞ւմ եք այն փոխարինել։
+customkeys-reset-all-confirm = Վստա՞հ եք, որ ցանկանում եք վերականգնել բոլոր ստեղնաշարի դյուրանցումները իրենց լռելյայն կարգավորումներին։
 customkeys-file-duplicate-tab = Կրկնօրինակել ներդիրը
+customkeys-file-focus-search = Կենտրոնացեք որոնման դաշտի վրա
 customkeys-history-reopen-tab = Վերաբացեք վերջին փակված ներդիրը
 customkeys-history-reopen-window = Վերաբացեք վերջին փակված պատուհանը
 customkeys-sidebar-toggle = Բացել/Փակել կողագոտին
 customkeys-view-picture-in-picture = Նկարը նկարում
+customkeys-view-add-split-view = Ավելացնել տրոհված տեսք
+# Separate is a verb
+customkeys-view-separate-split-view = Առանձին տրոհված տեսք
 customkeys-dev-tools = Վեբ մշակողի գործիքներ
 customkeys-dev-inspector = DOM և ոճի տեսուչ
 customkeys-dev-webconsole = Վեբ Կառավարակետ

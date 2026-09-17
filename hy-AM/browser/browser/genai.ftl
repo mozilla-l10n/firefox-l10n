@@ -15,6 +15,22 @@ genai-settings-chat-copilot-links = Ընտրելով Copilot-ը, դուք ընդ
 ## have character restrictions and being direct reduces the chance for misinterpretation.
 ## When localizing, please be concise and direct, but not at the expense of losing meaning.
 
+# Prompt purpose: help users understand what a selection covers at a glance
+genai-prompts-summarize =
+    .label = Ամփոփել
+    .value = Խնդրում ենք ամփոփել ընտրությունը՝ օգտագործելով ճշգրիտ և հակիրճ լեզու: Ամփոփագրում օգտագործեք վերնագրեր և կետադրական ցուցակներ՝ այն սկանավորելու համար: Պահպանեք իմաստը և փաստացի ճշգրտությունը:
+# Prompt purpose: make a selection easier to read
+genai-prompts-simplify =
+    .label = Պարզեցնել լեզուն
+    .value = Խնդրում եմ վերաշարադրել հատվածը՝ օգտագործելով կարճ նախադասություններ և պարզ բառեր։ Պահպանեք իմաստը և փաստական ճշգրտությունը։
+# Prompt purpose: test understanding of selection in an interactive way
+genai-prompts-quiz =
+    .label = Հարցրեք ինձ
+    .value = Խնդրում եմ հարցրեք ինձ այս ընտրության վերաբերյալ: Տվեք ինձ տարբեր տեսակի հարցեր, օրինակ՝ բազմակի ընտրության, ճիշտ կամ սխալ պատասխանով և կարճ պատասխանով: Սպասեք իմ պատասխանին, նախքան հաջորդ հարցին անցնելը:
+# Prompt purpose: helps users understand words, phrases, concepts
+genai-prompts-explain =
+    .label = Բացատրեք սա
+    .value = Խնդրում եմ բացատրել այս ընտրանիի հիմնական հասկացությունները՝ օգտագործելով պարզ բառեր: Օգտագործեք նաև օրինակներ:
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text

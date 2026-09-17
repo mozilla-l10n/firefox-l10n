@@ -169,7 +169,13 @@ contextual-manager-passwords-alert-back-button =
     .label = Ետ
 contextual-manager-passwords-alert-list =
     .aria-label = Ծանուցումների ցանկ
+contextual-manager-passwords-breached-origin-heading-and-message =
+    .heading = Գաղտնաբառի փոփոխությունը խորհուրդ է տրվում
+    .message = Այս կայքի գաղտնաբառերը գողացված կամ արտահոսած են եղել։ Փոխեք ձեր գաղտնաբառը՝ ձեր հաշիվը պաշտպանելու համար։
 contextual-manager-passwords-change-password-button = Փոխել գաղտնաբառը
+contextual-manager-passwords-vulnerable-password-heading-and-message =
+    .heading = Գաղտնաբառի փոփոխությունը խորհուրդ է տրվում
+    .message = Այս գաղտնաբառը հեշտությամբ կարելի է գուշակել։ Փոխեք ձեր գաղտնաբառը՝ ձեր հաշիվը պաշտպանելու համար։
 contextual-manager-passwords-vulnerable-password-link-message = Ինչպե՞ս է { -brand-product-name }-ը իմանում թույլ գաղտնաբառերի մասին։
 contextual-manager-passwords-no-username-heading-and-message =
     .heading = Ավելացնել օգտանունը
@@ -188,11 +194,15 @@ contextual-manager-passwords-remove-label =
 contextual-manager-passwords-origin-field =
     .label = Կայքի հասցեն
     .placeholder = https://www.example.com
+contextual-manager-passwords-origin-field-description = Մուտքագրեք այն ճշգրիտ հասցեն, որտեղից մուտք եք գործելու այս կայքում։
 contextual-manager-passwords-username-field =
     .label = Օգտվողի անուն
+contextual-manager-passwords-username-field-description = Մուտքագրեք մուտք գործելու համար օգտագործվող օգտանունը, էլեկտրոնային փոստի հասցեն կամ հաշվի համարը։
 contextual-manager-passwords-password-field =
     .label = Գաղտնաբառ
 contextual-manager-passwords-password-field-description = Մուտքագրեք գաղտնաբառը՝ այս հաշիվ մուտք գործելու համար։
+contextual-manager-passwords-origin-tooltip = Մուտքագրեք այն ճշգրիտ հասցեն, որտեղից մուտք եք գործելու այս կայքում։
+contextual-manager-passwords-username-tooltip = Մուտքագրեք մուտք գործելու համար օգտագործվող օգտանունը, էլեկտրոնային փոստի հասցեն կամ հաշվի համարը։
 contextual-manager-passwords-password-tooltip-2 = Մուտքագրեք գաղտնաբառը՝ այս հաշիվ մուտք գործելու համար։
 
 ## Password Card
@@ -240,6 +250,24 @@ contextual-manager-password-login-line-with-alert =
     .title = Պատճենել գաղտնաբառը (զգուշացում)
 contextual-manager-edit-login-button = Խմբագրել
     .tooltiptext = Խմբագրել գաղտնաբառը
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-heading-2 =
+    .heading =
+        { $count ->
+            [1] Դիտել ահազանգը
+            [one] Դիտել ահազանգը
+           *[other] Դիտել ահազանգերը
+        }
+# Variables
+#   $count (number) - The number of active alerts associated with the login
+contextual-manager-view-alert-button-2 =
+    .tooltiptext =
+        { $count ->
+            [1] Դիտել ահազանգը
+            [one] Վերանայել ահազանգը
+           *[other] Վերանայել ահազանգերը
+        }
 contextual-manager-show-password-button =
     .aria-label = Ցուցադրել գաղտնաբառը
     .title = Ցուցադրել գաղտնաբառը
@@ -253,8 +281,15 @@ contextual-manager-passwords-no-passwords-found-header =
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:
 
+# This string informs that we (Firefox) store all passwords securely and will notify them of any breaches and alerts their
+# passwords may be involved in.
+contextual-manager-passwords-no-passwords-message = Բոլոր գաղտնաբառերը կոդավորված են, և մենք կհետևենք խախտումներին և ծանուցումներին, եթե դուք տուժեք։
+# This string encourages the user to save their passwords to Firefox again.
+contextual-manager-passwords-no-passwords-get-started-message = Ավելացրեք դրանք այստեղ՝ սկսելու համար։
 # This string is displayed in a button. If the user clicks it, they will be taken to a form to create a new password.
 contextual-manager-passwords-add-manually = Ձեռքով ավելացնել
+# This string encourages the user to save their passwords in Firefox (the "safe spot").
+contextual-manager-passwords-no-passwords-header-2 = Պահպանեք ձեր գաղտնաբառերը անվտանգ տեղում
 
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
@@ -271,6 +306,8 @@ contextual-manager-passwords-remove-all-passwords-checkbox =
         [one] Այո, հեռացնել գաղտնաբառը
        *[other] Այո, հեռացնել գաղտնաբառերը
     }
+# This string informs the user they need to provide their primary password for FireFox to access their saved passwords in Firefox.
+contextual-manager-primary-password-reauth-header = Ձեր պահպանված գաղտնաբառերը տեսնելու համար մուտքագրեք ձեր հիմնական գաղտնաբառը։
 # This string informs the user their primary password is used to authenticate and access their passwords
 contextual-manager-primary-password-reauth-button = Մուտքագրել Հիմնական գաղտնաբառը
 contextual-manager-primary-password-learn-more-link = Իմանալ ավելին

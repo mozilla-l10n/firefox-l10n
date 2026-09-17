@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Բացել նոր գաղտնի պատուհան
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Դասական պատուհան
+toolbar-switcher-customizable-label =
+    .label = { -smart-window-brand-name } փոխարկիչ
+    .tooltiptext = Անցում Smart և Classic պատուհանների միջև։
 
 ## Input CTA
 
@@ -97,10 +100,12 @@ aiwindow-firstrun-title = Բարի գալուստ { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Ի՞նչն է կարևոր ձեզ համար։
 aiwindow-firstrun-model-title-v2 = Սկսելու համար ընտրեք մոդել
 aiwindow-firstrun-model-subtitle = Ընտրեք { -smart-window-brand-name }-ը աշխատեցնելու մոդել։ Փոխարկեք ցանկացած ժամանակ։
+aiwindow-firstrun-model-subtitle-v2 = Յուրաքանչյուր մոդել կարող է օգնել ձեզ ամփոփել, համեմատել և ուսումնասիրել ձեր ներդիրները։ Փոխեք ցանկացած ժամանակ։
 aiwindow-firstrun-model-fast-label = Արագ
 aiwindow-firstrun-model-fast-body = Արագ պատասխաններ
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-fast-label-v2 = Արագ՝ { $shortName }
+aiwindow-firstrun-model-fast-body-v2 = Լավագույնն է արագ պատասխանների համար, երբ արագ եք շարժվում
 # $model (string) - The name of the AI model
 # $ownerName (string) - The name of the model owner/provider
 # $shortName (string) - The short name of the model version
