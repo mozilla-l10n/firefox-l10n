@@ -26,6 +26,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Sýsla með stillingar sprettglugga og utanaðkomandi endurbeiningar…
     .accesskey = m
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Skoða upplýsingar um vefsvæði
+            [1] Skoða upplýsingar um vefsvæði (1 rekjari útilokaður)
+            [one] Skoða upplýsingar um vefsvæði (1 rekjari útilokaður)
+           *[other] Skoða upplýsingar um vefsvæði ({ $count } rekjarar útilokaðir)
+        }
 urlbar-identity-button =
     .aria-label = Skoða upplýsingar um vefsvæði
 
@@ -37,6 +47,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = Breyta hvort vefsvæði getur sent þér tilkynningar
 urlbar-midi-notification-anchor =
     .tooltiptext = Opna MIDI-spjald
+urlbar-serial-notification-anchor =
+    .tooltiptext = Opna raðtengjaspjaldið
 urlbar-eme-notification-anchor =
     .tooltiptext = Sýsla með notkun á DRM hugbúnaði
 urlbar-web-authn-anchor =
@@ -99,6 +111,16 @@ urlbar-result-menu-manage-firefox-suggest2 = Sýsla með { -firefox-suggest-bran
 urlbar-result-menu-report-inaccurate-location2 = Tilkynna ónákvæma staðsetningu
 urlbar-result-menu-show-less-frequently2 = Sýna sjaldnar
 urlbar-result-menu-dont-show-weather-suggestions2 = Ekki sýna tillögur um veður
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = Vísa þessari tillögu frá
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = Eyða úr vafurferli
+    .accesskey = E
 urlbar-result-menu-learn-more =
     .label = Kanna nánar
     .accesskey = K
@@ -181,6 +203,8 @@ urlbar-canvas-blocked =
     .tooltiptext = Þú hefur lokað á að nálgast gluggagögn fyrir þetta vefsvæði.
 urlbar-midi-blocked =
     .tooltiptext = Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.
+urlbar-serial-blocked =
+    .tooltiptext = Þú hefur lokað fyrir aðgang að raðtengi fyrir þetta vefsvæði.
 urlbar-install-blocked =
     .tooltiptext = Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.
 # Variables
@@ -191,6 +215,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Setja síðu í bókamerki ({ $shortcut })
+urlbar-split-view-button =
+    .aria-label = Skipt sýn
+    .tooltiptext = Skipt sýn
 
 ## Searchbar context menu
 
@@ -277,6 +304,9 @@ quickactions-addons = Skoða viðbætur
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = forritsaukar, þemu, viðbætur
+# Opens preferences page at AI controls
+quickactions-manageai = Sýsla með gervigreindarstýringar
+quickactions-cmd-manageai = gera gervigreind óvirka, slökkva á gervigreind, stjórna gervigreind
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Sýsla með bókamerki
 quickactions-cmd-bookmarks = bókamerki
@@ -300,6 +330,8 @@ quickactions-cmd-help = hjálp, aðstoð
 # Opens the devtools web inspector
 quickactions-inspector2 = Opna forritunarverkfæri
 quickactions-cmd-inspector2 = skoðunaverkfæri, þróunartól, verkfæri fyrir forritara
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Veldu lit
 # Opens about:logins
 quickactions-logins2 = Sýsla með lykilorð
 quickactions-cmd-logins = innskráningar, lykilorð
@@ -1351,3 +1383,4 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } leyfði { $count } rafmyntagrafara
     }
 trustpanel-cryptominer-tab-list-header = Þessi vefsvæði eru að reyna að grafa eftir rafmyntum hjá þér:
+trustpanel-breachalerts-anonymous-breached-button-dismiss = Afgreiða

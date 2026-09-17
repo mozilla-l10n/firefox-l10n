@@ -163,12 +163,34 @@ backup-file-how-to-restore-header = Hvernig á að endurheimta:
 backup-file-moz-browser-restore-step-1 = Opnaðu forritsvalmyndina ☰ og farðu í Stillingar > Samstilling
 backup-file-moz-browser-restore-step-2-1 = Smelltu á „Endurheimta gögnin þín“ og veldu þessa skrá
 backup-file-moz-browser-restore-step-3 = Endurræstu { -brand-short-name } þegar beðið er um það
-backup-file-other-browser-restore-step-1 = Sækja og setja upp { -brand-short-name }
+backup-file-other-browser-restore-step-1 = Sæktu og settu upp { -brand-short-name }
 backup-file-download-moz-browser-button = Sækja
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Ræstu { -brand-short-name }, opnaðu forritsvalmyndina ☰ og farðu í Stillingar > Samstilling
+backup-file-other-browser-restore-step-3-1 = Smelltu á „Endurheimta gögnin þín“ og veldu þessa skrá
+backup-file-other-browser-restore-step-4 = Endurræstu { -brand-short-name } þegar beðið er um það
 
 ## These strings are used in the about:restore and about:welcome pages
 ## These pages guide the user on browser startup to help them restore a backup
 ## if they have one on their file system.
 
+# Variables:
+# $numberOfOtherBackupsFound (number) - The number of backups found other than the displayed default backup
+other-backup-files-founds =
+    { $numberOfOtherBackupsFound ->
+        [one] <b>Athugaðu:</b> { $numberOfOtherBackupsFound } önnur afritunarskrá fannst
+       *[other] <b>Athugaðu:</b> { $numberOfOtherBackupsFound } aðrar afritunarskrár fundust
+    }
+# Variables:
+#   $profileName (String) - The name of the profile that was backed up.
+#   $date (Datetime) - The date the backup was created.
+#   $machineName (String) - Name of the machine that the backup was created on.
+backup-file-creation-metadata2 = <b>{ $profileName }</b> búið til þann { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } á { $machineName }
+# Variables:
+#   $deviceName (String) - The name of the device from which the backup was created.
+#   $date (Number) - The epoch timestamp of the restore.
+backup-restored-profile-name = Endurheimt frá { $deviceName } þann { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } klukkan { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-file-restore-file-validation-error = Þessi skrá virkar ekki. Reyndu að velja aðra skrá. <a data-l10n-name="restore-problems">Ertu enn í vandræðum?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Engin skrá er valin
