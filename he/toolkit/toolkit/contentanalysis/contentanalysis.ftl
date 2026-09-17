@@ -75,11 +75,27 @@ contentanalysis-invalid-agent-signature-message-content = אימות חתימה 
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-error-message-upload-file = ההעלאה של ״{ $filename }״ נדחתה.
 contentanalysis-error-message-dropped-text = הגרירה והשחרור נדחו.
+contentanalysis-error-message-clipboard = ההדבקה נדחתה.
+contentanalysis-error-message-clipboard-copy = ההעתקה נדחתה.
+contentanalysis-error-message-print = ההדפסה הנדחתה.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
 contentanalysis-timeout-block-error-message-content = תם הזמן הקצוב לחיבור אל { $agent }. ‏{ $contentName } נחסם.
+contentanalysis-block-dialog-title-upload-file = אין לך הרשאה להעלות קובץ זה
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = לפי מדיניות הגנת הנתונים של הארגון שלך, אין לך הרשאה להעלות את הקובץ ״{ $filename }״. יש לפנות למנהל המערכת שלך לקבלת מידע נוסף.
 contentanalysis-block-dialog-title-download-file = אין לך הרשאה להוריד את הקובץ הזה
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-download-file = על פי מדיניות הגנת הנתונים של הארגון שלך, אין לך הרשאה להוריד את הקובץ ״{ $filename }״. נא לפנות למנהל המערכת שלך לקבלת מידע נוסף.
+contentanalysis-block-dialog-body-download-file = לפי מדיניות הגנת הנתונים של הארגון שלך, אין לך הרשאה להוריד את הקובץ ״{ $filename }״. נא לפנות למנהל המערכת שלך לקבלת מידע נוסף.
+contentanalysis-block-dialog-title-clipboard = אין לך הרשאה להדביק תוכן זה
+contentanalysis-block-dialog-body-clipboard = לפי מדיניות הגנת הנתונים של הארגון שלך, אין לך הרשאה להדביק תוכן זה. יש לפנות למנהל המערכת שלך לקבלת מידע נוסף.
+contentanalysis-block-dialog-title-clipboard-copy = אין לך הרשאה להעתיק תוכן זה
+contentanalysis-block-dialog-body-clipboard-copy = לפי מדיניות הגנת הנתונים של הארגון שלך, אין לך הרשאה להעתיק תוכן זה. יש לפנות למנהל המערכת שלך לקבלת מידע נוסף.
+contentanalysis-block-dialog-title-dropped-text = אין לך הרשאה לגרור ולשחרר תוכן זה
+contentanalysis-block-dialog-body-dropped-text = לפי מדיניות הגנת הנתונים של הארגון שלך, אין לך הרשאה לגרור ולשחרר תוכן זה. יש לפנות למנהל המערכת שלך לקבלת מידע נוסף.
+contentanalysis-block-dialog-title-print = אין לך הרשאה להדפיס מסמך זה
+contentanalysis-block-dialog-body-print = לפי מדיניות הגנת הנתונים של הארגון שלך, אין לך הרשאה להדפיס מסמך זה. יש לפנות למנהל המערכת שלך לקבלת מידע נוסף.
+contentanalysis-inprogress-quit-title = לצאת מ־{ -brand-shorter-name }?
