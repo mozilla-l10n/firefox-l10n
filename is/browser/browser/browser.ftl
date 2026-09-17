@@ -1384,3 +1384,10 @@ trustpanel-cryptominer-not-blocking-tab-header =
     }
 trustpanel-cryptominer-tab-list-header = Þessi vefsvæði eru að reyna að grafa eftir rafmyntum hjá þér:
 trustpanel-breachalerts-anonymous-breached-button-dismiss = Afgreiða
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Endurhlaða
+    .accesskey = r
+reduced-protection-infobar-never-show-button = Ekki sýna þetta aftur
+    .accesskey = f

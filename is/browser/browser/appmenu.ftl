@@ -47,8 +47,15 @@ appmenuitem-translate =
     .label = Þýða síðu…
 appmenuitem-zoom =
     .value = Aðdráttur
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenuitem-referrals =
+    .label = Deila { -brand-product-name }
 appmenuitem-more-tools =
     .label = Fleiri verkfæri
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Hjálp og tilkynningar
 appmenuitem-help =
     .label = Hjálp
 appmenuitem-exit2 =

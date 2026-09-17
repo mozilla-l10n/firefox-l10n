@@ -66,6 +66,7 @@ aboutdialog-submit-feedback = Senda álit
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> er <label data-l10n-name="community-exp-creditsLink">samfélag</label> sem vinnur að því að gera vefinn opinn, frjálsan og aðgengilegan öllum.
 community-2 = { -brand-short-name } er hannað af <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, sem er <label data-l10n-name="community-creditsLink">samfélag</label> sem vinnur að því að gera vefinn opinn, frjálsan og aðgengilegan öllum.
 helpus = Viltu hjálpa? <label data-l10n-name="helpus-donateLink">Styrktu verkefnið</label> eða <label data-l10n-name="helpus-getInvolvedLink">taktu þátt!</label>
+helpus-referrals2 = Viltu hjálpa til? <label data-l10n-name="helpus-donateLink">Gefðu framlag</label>, <label data-l10n-name="helpus-shareFirefoxLink">deildu upplýsingum { -brand-product-name }</label>,eða <label data-l10n-name="helpus-getInvolvedLink">taktu þátt!</label>
 bottomLinks-license = Notkunarleyfi
 bottom-links-terms = Notkunarskilmálar
 bottom-links-privacy = Meðferð persónuupplýsinga

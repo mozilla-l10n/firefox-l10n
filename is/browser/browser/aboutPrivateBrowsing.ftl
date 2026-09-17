@@ -52,6 +52,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Engar vistaðar vefkökur eða ferilskráning, beint af skjáborðinu þínu. Vafraðu eins og enginn sé að horfa.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Komdu í veg fyrir ruslpóst í pósthólfinu með tölvupósthulum
+about-private-browsing-relay-promo-title = Feldu raunverulegt netfang þitt með tölvupósthulu þegar þú skráir þig, verslar eða deilir því á netinu.
+about-private-browsing-relay-promo-link-text = Prófaðu tölvupósthulur
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
@@ -64,3 +70,13 @@ about-private-browsing-cookie-banners-promo-body = Við höfnum nú sjálfkrafa 
 about-private-browsing-felt-privacy-v1-info-header = Skilja engin ummerki eftir á þessu tæki
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } eyðir vefkökunum þínum, vafurferli og gögnum vefsvæðisins þegar þú lokar öllum huliðsgluggum þínum.
 about-private-browsing-felt-privacy-v1-info-link = Hver gæti séð virknina mína?
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+about-private-browsing-nova-info-body = Ef þú lokar öllum einkagluggum þínum, þá eyðir þú vefkökum, ferli og gögnum vefsvæða.
+about-private-browsing-nova-info-link = Hver gæti samt séð virknina mína?
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Þú ert ekki á skrá
+about-private-browsing-nova-info-subheader2 = Við munum eyða öllum leitum og innskráningum þegar þú lokar öllum einkagluggum þínum. Innbyggðar varnir { -brand-short-name } eru einnig virkjaðar hér, eins og að loka fyrir rakningarforrit.
