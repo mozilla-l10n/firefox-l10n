@@ -99,3 +99,5 @@ contentanalysis-block-dialog-body-dropped-text = לפי מדיניות הגנת 
 contentanalysis-block-dialog-title-print = אין לך הרשאה להדפיס מסמך זה
 contentanalysis-block-dialog-body-print = לפי מדיניות הגנת הנתונים של הארגון שלך, אין לך הרשאה להדפיס מסמך זה. יש לפנות למנהל המערכת שלך לקבלת מידע נוסף.
 contentanalysis-inprogress-quit-title = לצאת מ־{ -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = מספר פעולות עדיין בתהליך. יציאה מ־{ -brand-shorter-name } תגרום לכך שפעולות אלה לא יושלמו.
+contentanalysis-inprogress-quit-yesbutton = כן, לצאת
