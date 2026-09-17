@@ -15,6 +15,12 @@ appmenuitem-banner-update-unsupported =
     .label = Ekki hægt að uppfæra — kerfi ósamhæft
 appmenuitem-banner-update-restart =
     .label = Uppfærsla í boði — endurræstu núna
+appmenu-nova-update-title = Endurræstu til að uppfæra { -brand-short-name }
+appmenu-nova-update-description = Fliparnir þínir munu opnast aftur.
+appmenu-nova-fxa-sign-in = Skrá inn
+appmenu-nova-switch-device-promo =
+    .message = Ætlarðu að fá þér nýtt tæki fljótlega? Taktu { -brand-short-name } með þér!
+appmenu-nova-switch-device-link = Hvernig á að yfirfæra gögnin þín
 appmenuitem-new-tab =
     .label = Nýr flipi
 appmenuitem-new-window =
@@ -101,6 +107,42 @@ appmenu-remote-tabs-unverified = Nauðsynlegt er að staðfesta reikning.
 appmenuitem-fxa-toolbar-sync-now2 = Samstilla núna
 appmenuitem-fxa-sign-in = Skrá inn í { -brand-product-name }
 appmenuitem-fxa-manage-account = Sýsla með reikning
+fxa-menu-sync-status-on = Kveikt er á samstillingu
+fxa-menu-sync-status-off = Slökkt er á samstillingu
+# Shown in place of "Sync is Off" on the sync status button when the user has
+# never signed in. Sync is a verb, short for synchronize.
+fxa-menu-sync-your-data = Samstilltu gögnin þín
+# Shown as a secondary label under "Sync is Off" when the user is signed in but
+# sync is turned off.
+fxa-menu-sync-off-data-description = Gögnin þín samstillast ekki
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Kveikja á
+fxa-menu-sync-status-turn-on-button-aria-label = Kveikja á
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Skráðu þig inn til að samstilla
+# Sync is a verb, short for synchronize.
+# Variables:
+#   $deviceName (String): The name of the local device.
+fxa-menu-sync-device-now = Samstilla { $deviceName } núna
+fxa-menu-add-device =
+    .label = Bæta við tæki
+fxa-menu-manage-devices =
+    .label = Sýslaðu með tækin þín
+fxa-menu-device-missing =
+    .label = Sérðu ekki tækið þitt?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Öll tæki
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Öll tæki
+fxa-menu-get-firefox-mobile =
+    .label = Sæktu { -brand-product-name } fyrir Android eða iOS
+fxa-menu-secure-sync-subpanel =
+    .title = Örugg samstilling
 appmenu-account-header = Reikningur
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -109,6 +151,9 @@ appmenu-fxa-last-sync = Síðast samstillt { $time }
     .label = Síðast samstillt { $time }
 appmenu-fxa-sync-and-save-data2 = Samstilla og vista gögn
 appmenu-fxa-signed-in-label = Innskráning
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync.
+appmenu-fxa-sign-in-promo-heading = Skráðu þig inn til að samstilla
 appmenu-fxa-setup-sync =
     .label = Kveikja á samstillingu…
 appmenu-fxa-setup-sync-new = Kveikja á
