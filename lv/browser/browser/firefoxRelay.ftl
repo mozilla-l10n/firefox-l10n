@@ -49,3 +49,11 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = Ne tagad
     .accesskey = N
+
+## The "with-domain" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-header-with-domain = Iegūsti bezmaksas e-pasta aizsegu
+
+## The "with-domain-and-value-prop" variation of the Relay offer popup
+
+firefox-relay-and-fxa-popup-notification-second-sentence-with-domain-and-value-prop = Vispirms jāreģistrējas vai jāpiesakās savā kontā, lai izmantotu e-pasta aizsegu.

@@ -275,6 +275,11 @@ set-default-menu-message-split-layout-subtitle =
        *[other] Iegūsti ātrāku pārlūkošanu un automātisku privātuma aizsardzību.
     }
 
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = Uzsaucam 50 e-pasta aizsegus
+
 ## Nova Early Access Infobar
 
 nova-early-access-infobar-primary-button = Sapratu
