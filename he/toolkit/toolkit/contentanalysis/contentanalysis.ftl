@@ -23,6 +23,24 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } בוחן את מה שהדבקת כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } בוחן את מה שהעתקת כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
+# Note that this is shown when the user drag and drops text into the browser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } בוחן את הטקסט ששחררת בנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-print = { $agent } בוחן את מה שהדפסת כנגד מדיניות הנתונים של הארגון שלך. זה ייקח כמה רגעים.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = העתקת תוכן זה מוגבלת על־ידי הארגון שלך.
+contentanalysis-operationtype-clipboard = לוח עריכה
+contentanalysis-operationtype-clipboard-copy = תוכן שהועתק
+contentanalysis-operationtype-dropped-text = טקסט ששוחרר
+contentanalysis-operationtype-print = הדפסה
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = העלאה של ״{ $filename }״
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -33,9 +51,30 @@ contentanalysis-warndialogtitle = תוכן זה עשוי להיות לא בטו�
 contentanalysis-warndialogtext = הארגון שלך משתמש בתוכנה למניעת אובדן נתונים שסימנה את התוכן הזה כלא בטוח: { $content }. להשתמש בו בכל מקרה?
 contentanalysis-warndialog-response-allow = שימוש בתוכן
 contentanalysis-warndialog-response-deny = ביטול
+contentanalysis-notification-title = ניתוח תוכן
+# Variables:
+#   $content - Description of the content being reported, such as "clipboard" or "aFile.txt"
+#   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
+contentanalysis-genericresponse-message = ניתוח תוכן הגיב עם { $response } עבור המשאב: { $content }
 # Variables:
 #   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
 contentanalysis-block-message = הארגון שלך משתמש בתוכנה למניעת אובדן נתונים שחסמה את התוכן הזה: { $content }.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-unspecified-error-message-content = אירעה שגיאה בתקשורת עם { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = לא ניתן להתחבר אל { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = אימות חתימה נכשל עבור { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = ההעלאה של ״{ $filename }״ נדחתה.
+contentanalysis-error-message-dropped-text = הגרירה והשחרור נדחו.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
