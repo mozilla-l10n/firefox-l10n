@@ -284,6 +284,9 @@ appmenu-sync-promo-connectdevice =
 appmenu-sync-promo-connectdevice-cta = Tengdu tæki
 appmenu-bookmarks-sync-promo-turnonsync =
     .heading = Taktu bókamerkin þín með þér
+# This refers to having your bookmarks available on your mobile device via sync
+appmenu-bookmarks-sync-promo-connectdevice =
+    .heading = Taktu bókamerkin þín með þér
 
 ## Help panel
 
@@ -292,6 +295,11 @@ appmenu-help-header =
 appmenu-about =
     .label = Um { -brand-shorter-name }
     .accesskey = U
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = Deila { -brand-product-name }
+    .accesskey = D
 appmenu-get-help =
     .label = Fá hjálp
     .accesskey = h
@@ -303,6 +311,9 @@ appmenu-help-share-ideas =
     .accesskey = D
 appmenu-help-switch-device =
     .label = Skipti yfir í nýtt tæki
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Hjálp og tilkynningar
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -330,6 +341,8 @@ appmenu-customizetoolbar =
     .label = Sérsníða verkfærastiku…
 appmenu-abouttranslations =
     .label = Þýða…
+appmenu-edit-pdf =
+    .label = Breyta PDF…
 appmenu-developer-tools-subheader = Vafraverkfæri
 appmenu-developer-tools-extensions =
     .label = Forritsaukar fyrir forritara
@@ -345,6 +358,8 @@ appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-description = Hyldu raunverulegt tölvupóstfang og símanúmerið þitt
 appmenuitem-services-relay-description = Ræsa stjórnborðið fyrir tölvupósthulur
 appmenuitem-vpn-title2 = Feldu staðsetningu þína með { -mozilla-vpn-brand-name }
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = Sækja { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenu-services-header = Þjónusturnar mínar
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it

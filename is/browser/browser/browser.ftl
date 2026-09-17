@@ -341,6 +341,9 @@ quickactions-cmd-print = prenta
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Vista síðu sem PDF
 quickactions-cmd-savepdf2 = pdf, vista síðu
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Opna PDF-ritilinn
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Opna huliðsglugga
 quickactions-cmd-private = huliðsvafur
@@ -372,6 +375,8 @@ quickactions-cmd-update = uppfærsla
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Skoða frumkóða síðu
 quickactions-cmd-viewsource2 = skoða frumkóða, frumkóði, frumkóði síðu
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Opna { -firefoxlabs-brand-name }
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Fræðast meira um flýtiaðgerðir
@@ -447,8 +452,14 @@ identity-clear-site-data =
     .label = Hreinsa vefkökur og síðugögn…
 identity-connection-not-secure-security-view = Þú ert ekki með örugga tengingu við þetta vefsvæði.
 identity-connection-verified = Þú ert með örugga tengingu við þetta vefsvæði.
+identity-ev-owner-label2 = Skilríki útgefið til
+identity-verifier-label2 = Sannvottað af
 identity-ev-owner-label = Skilríki útgefið til:
+identity-verifier-label = Sannvottað af:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = Hæfni samkvæmt reglugerð (ESB) 2024/1183.
 identity-description-custom-root2 = Mozilla viðurkennir ekki þennan skilríkisútgefanda. Það kann að hafa verið bætt við af hálfu stýrikerfisins þíns eða af stjórnanda.
+identity-cert-exception-overridden = Þú hefur bætt við öryggisundantekningu fyrir þetta vefsvæði.
 identity-remove-cert-exception =
     .label = Fjarlægja undantekningu
     .accesskey = r
@@ -461,6 +472,7 @@ identity-description-passive-loaded-insecure2 = Þetta vefsvæði inniheldur gö
 identity-description-passive-loaded-mixed2 = Þótt { -brand-short-name } hafi lokað á sumt efni, er ennþá efni á síðunni sem er ekki öruggt (eins og t.d. myndir).
 identity-description-active-loaded = Þetta vefsvæði inniheldur gögn sem eru ekki örugg (eins og skriftur) og tengingin er ekki lokuð.
 identity-description-active-loaded-insecure = Þær upplýsingar sem þú gefur upp á þessu vefsvæði gætu aðrir skoðað (til dæmis lykilorð, skilaboð, greiðslukort, og fleira).
+identity-description-tls-key-logging-heading = Tengingin þín er hugsanlega ekki einkamál
 identity-more-info-link-text =
     .label = Nánari upplýsingar
 
@@ -474,6 +486,9 @@ browser-window-restore-down-button =
     .tooltiptext = Endurheimta niður
 browser-window-close-button =
     .tooltiptext = Loka
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = Til baka
 
 ## Bookmarks toolbar items
 
@@ -509,6 +524,11 @@ sharing-warning-proceed-to-tab =
     .label = Halda áfram á flipa
 sharing-warning-disable-for-session =
     .label = Slökkva á deilivörn fyrir þessa lotu
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Veldu raðtengi:
+webserial-no-ports-available = Engin raðtengi tiltæk
 
 ## URL Bar
 
@@ -772,6 +792,14 @@ urlbar-searchmode-button-no-engine2 =
     .title = Engin flýtileið valin, veldu flýtileið
 urlbar-searchmode-dropmarker2 =
     .title = Veldu leitarvél
+urlbar-searchmode-bookmarks3 = Bókamerki
+    .accesskey = B
+urlbar-searchmode-tabs3 = Flipar
+    .accesskey = F
+urlbar-searchmode-history3 = Ferill
+    .accesskey = i
+urlbar-searchmode-actions3 = Aðgerðir
+    .accesskey = A
 urlbar-searchmode-exit-button2 =
     .title = Loka
 urlbar-searchmode-default2 =
@@ -787,6 +815,10 @@ urlbar-searchmode-popup-one-off-header = Að þessu sinni leita með:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Leita með:
+urlbar-searchmode-popup-search-settings = Leitarstillingar
+    .accesskey = L
+urlbar-searchmode-popup-settings = Stillingar
+    .accesskey = S
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -802,6 +834,29 @@ urlbar-result-action-switch-to-tabgroup = Skipta yfir í { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Opna { $group }
+
+## Used in the menu of a urlbar result.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Opna í nýjum flipa
+    .accesskey = j
+urlbar-view-context-menu-open-in-container-tab =
+    .label = Opna í nýjum sérefnisflipa
+    .accesskey = l
+urlbar-view-context-menu-open-in-window =
+    .label = Opna í nýjum glugga
+    .accesskey = n
+urlbar-view-context-menu-open-in-private-window =
+    .label = Opna í nýjum huliðsglugga
+    .accesskey = p
+urlbar-view-context-menu-open-in-tab2 = Opna í nýjum flipa
+    .accesskey = j
+urlbar-view-context-menu-open-in-container-tab2 = Opna í nýjum sérefnisflipa
+    .accesskey = l
+urlbar-view-context-menu-open-in-window2 = Opna í nýjum glugga
+    .accesskey = n
+urlbar-view-context-menu-open-in-private-window2 = Opna í nýjum huliðsglugga
+    .accesskey = p
 
 ## Labels shown above groups of urlbar results
 
@@ -973,6 +1028,12 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Lykilorð
     .tooltiptext = Skoðaðu og sýslaðu með vistuðu lykilorðin þín
+qrcode-copy-button =
+    .label = Afrita
+qrcode-copy-success =
+    .message = QR-kóði afritaður á klippispjald.
+qrcode-copy-error =
+    .message = Mistókst að afrita QR-kóða
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =

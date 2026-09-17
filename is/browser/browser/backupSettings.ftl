@@ -101,6 +101,9 @@ turn-off-scheduled-backups-confirm-button = Slökkva á og eyða öryggisafritun
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Endurheimta gögnin þín
+restore-from-backup-filepicker-label = Öryggisafritunarskrá
+restore-from-backup-filepicker-title = Veldu afritunarskrá:
 restore-from-backup-file-choose-button =
     { PLATFORM() ->
         [macos] Velja…
@@ -127,6 +130,13 @@ enable-backup-encryption-create-password-label = Lykilorð
 enable-backup-encryption-repeat-password-label = Endurtaka lykilorð
 enable-backup-encryption-cancel-button = Hætta við
 enable-backup-encryption-confirm-button = Vista
+
+## These strings are displayed in a tooltip showing what requirements are met while creating a password.
+
+password-rules-length-description = Að minnsta kosti 8 stafir
+password-rules-email-description = Er ekki tölvupóstfangið þitt
+password-validity-has-email = Má ekki vera tölvupóstfang
+password-validity-do-not-match = Lykilorðin stemma ekki
 
 ## These strings are only used for assistive technologies, like screen readers, in the password requirements tooltip.
 
