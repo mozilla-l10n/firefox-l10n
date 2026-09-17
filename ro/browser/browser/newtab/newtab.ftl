@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Imaginea zilei
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Caută
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Căutări recente
@@ -506,6 +510,14 @@ newtab-recent-searches-just-now = Adineauri
 newtab-recent-searches-row-remove =
     .aria-label = Elimină „{ $search }” din căutările recente
 
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Caută
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Opțiuni de căutare
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -868,6 +880,9 @@ newtab-wallpaper-add-an-image = Adaugă o imagine
 newtab-wallpaper-custom-color = Alege o culoare
 newtab-wallpaper-toggle-title =
     .label = Imagini de fundal
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Categorii de imagini de fundal
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Imaginea a depășit limita de dimensiune a fișierului de { $file_size } MB. Te rugăm să încerci să încarci un fișier mai mic.
@@ -1730,6 +1745,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Acest spațiu funcționează după regulile tale
 newtab-activation-window-message-values-focus-message = { -brand-product-name } îți permite să navighezi cum dorești, cu un mod mai personal de a-ți începe ziua online. Personalizează { -brand-product-name }.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Personalizează { -brand-product-name } după bunul plac
+newtab-nova-customization-callout-message = Explorează teme și imagini de fundal luminoase sau întunecate pentru personalizarea { -brand-product-name }.
+newtab-nova-customization-callout-primary-button =
+    .label = Alege-ți stilul
 
 ## Strings for the Clock widget
 

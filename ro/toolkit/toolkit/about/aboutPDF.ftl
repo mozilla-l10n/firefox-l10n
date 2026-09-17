@@ -5,6 +5,8 @@
 about-pdf-title = Editor PDF { -brand-short-name }
 about-pdf-header = PDF { -brand-short-name }
 about-pdf-tagline = Un instrument gratuit pentru citire, combinare, semnare, adăugare de comentarii și multe altele — cu confidențialitate integrată.
+about-pdf-features-cta =
+    .label = Explorează instrumentele PDF
 about-pdf-dropzone =
     .title = Trage un PDF aici pentru a începe sau apasă Enter
 about-pdf-dropzone-hint = Trage un PDF aici pentru a începe
