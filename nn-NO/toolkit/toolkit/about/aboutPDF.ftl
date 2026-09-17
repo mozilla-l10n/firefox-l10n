@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF-redigerar
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Eit gratis verktøy for å lese, slå saman, signere, kommentere og meir — med innebygd personvern
+about-pdf-features-cta =
+    .label = UTforsk PDF-verktøy
 about-pdf-dropzone =
     .title = Slepp ein PDF her for å starte, eller trykk Enter
 about-pdf-dropzone-hint = Slepp ein PDF her for å starte
@@ -22,3 +24,10 @@ about-pdf-set-default =
     .label = Vel som standard
 about-pdf-dismiss =
     .label = Ignorer
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Tilbake
+about-pdf-feature-organize-heading = Organiser sider
+about-pdf-feature-signatures-heading = Lagre signaturar
