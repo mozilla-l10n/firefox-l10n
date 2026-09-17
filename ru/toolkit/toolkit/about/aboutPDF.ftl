@@ -27,6 +27,7 @@ about-pdf-dismiss =
 
 ## The about:pdf#features page.
 
+about-pdf-features-header = PDF-инструменты { -brand-short-name }
 about-pdf-features-intro = Читайте, делайте пометки и подписывайте PDF-файлы прямо там, где вы работаете в Интернете. Это просто, бесплатно и приватно.
 about-pdf-features-back =
     .label = Назад
@@ -41,3 +42,5 @@ about-pdf-feature-annotate-description = Добавляйте текст, выд
 about-pdf-feature-images-heading = Загрузить доступные изображения
 about-pdf-feature-images-description = Добавьте альтернативный текст, чтобы изображения работали для большего числа людей.
 about-pdf-feature-view-heading = Выберите внешний вид
+about-pdf-feature-view-description = Прокрутите по вертикали или горизонтали или переключите макеты страниц.
+about-pdf-feature-presentation-heading = Отображать PDF-файлы в полноэкранном режиме

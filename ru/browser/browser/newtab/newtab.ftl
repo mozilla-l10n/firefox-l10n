@@ -512,6 +512,8 @@ newtab-recent-searches-row-remove =
 
 ## Strings for the Search widget
 
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Поиск
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Опции поиска
