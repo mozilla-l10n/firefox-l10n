@@ -92,6 +92,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = شؽوات رۊز
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = پیتینیڌن
 home-prefs-mission-message2 =
     .message = هؽزگرووݩ مالی ایما ز مئمۊریت ایما سی وورکل کردن وبگه بؽڌر لادراری اکونن.
 home-prefs-manage-topics-link2 =
@@ -304,6 +308,14 @@ newtab-picture-show-button =
 newtab-recent-searches-widget-title = پیتینیڌنا دیندایی
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
+
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = پیتینیڌن
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = گۊزینه یل پیتینیڌن
 
 ## Search box component.
 
@@ -591,6 +603,9 @@ newtab-wallpaper-add-an-image = ٱووردن ی شؽوات
 newtab-wallpaper-custom-color = ی رنگ پسند کۊنین
 newtab-wallpaper-toggle-title =
     .label = کاقز دیواری یل
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = کتن بندی یل کاقز دیواری
 newtab-wallpaper-light-red-panda = پاندای سوئر
 newtab-wallpaper-light-mountain = کوه اسبؽڌ
 newtab-wallpaper-light-sky = آسمۊوی وا ٱورا بناوش وو آل
@@ -1128,6 +1143,13 @@ newtab-activation-window-message-dismiss-button =
     .title = رڌ کردن
 newtab-activation-window-message-customization-focus-primary-button =
     .label = ناهاڌن پا سفارشی کردن
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = نوکته دیندایی ن ری { -brand-product-name }بنویسین
 
 ## Strings for the Clock widget
 

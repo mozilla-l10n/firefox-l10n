@@ -29,6 +29,7 @@ migration-wizard-migrator-display-name-chromium-360se = 360 Secure Browser
 migration-wizard-migrator-display-name-chromium-edge = مایکروسافت Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
+migration-wizard-migrator-display-name-self = { -brand-product-name }
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = رزما ز فایل CSV
 migration-wizard-migrator-display-name-file-bookmarks = نشووکا ز فایل HTML
