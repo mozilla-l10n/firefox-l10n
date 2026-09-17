@@ -40,3 +40,4 @@ about-pdf-feature-view-description = Korritu bertikalki edo horizontalki edo ald
 about-pdf-feature-presentation-heading = Aurkeztu PDFak pantaila osoan
 about-pdf-feature-presentation-description = Partekatu ikuspegi garbi bat aurkezpen moduan.
 about-pdf-feature-details-heading = Aurkitu xehetasunak azkarrago
+about-pdf-feature-details-description = Erabili eskemak, eranskinak eta propietateak PDFetan barrena mugitzeko.

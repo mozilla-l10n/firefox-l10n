@@ -24,6 +24,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } sprawdza wklejoną treść pod kątem zasad dotyczących danych Twojej organizacji. Może to chwilę zająć.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } sprawdza skopiowaną treść pod kątem zasad dotyczących danych Twojej organizacji. Może to chwilę zająć.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
