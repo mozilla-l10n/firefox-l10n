@@ -7,6 +7,13 @@ about-networking-http = HTTP
 about-networking-sockets = Sockets
 about-networking-dns = DNS
 about-networking-websockets = WebSockets
+# Certificates are stored inside every cached token, so the same certificate is
+# held many times over.
+# $references (Number) - Total number of stored certificate copies
+# $totalBytes (Number) - Uncompressed size of all stored copies, in bytes
+# $distinct (Number) - Number of unique certificates across all tokens
+# $distinctBytes (Number) - Uncompressed size of the unique certificates, in bytes
+about-networking-ssl-tokens-summary-certs = Saglabātie sertifikāti: { $references } ({ $totalBytes } B), atšķirīgi: { $distinct } ({ $distinctBytes } B)
 about-networking-refresh = Atjaunināt
 about-networking-auto-refresh = Automātiski atjaunināt katras 3 sekundes
 about-networking-hostname = Adrese

@@ -826,6 +826,11 @@ newtab-sports-widget-message-add-widgets-cta =
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Veic pabeidzošo pieskārienu { -brand-product-name }
+newtab-nova-customization-callout-message = Izpēti gaišos vai tumšos izskatus un ekrāntapetes, kas padara jauno { -brand-product-name } vairāk kā Tavu.
 newtab-nova-customization-callout-primary-button =
     .label = Izvēlies izskatu
 
