@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Yerleşik { -brand-product-name } VPN’i deneyin
 unauthenticated-hide-location-message-3 = { -brand-product-name } ile gezinirken <a data-l10n-name="learn-more-vpn">konumunuzu gizleyin</a>.
 unauthenticated-private-location-message = { -brand-product-name } tarayıcısında <a data-l10n-name="learn-more-vpn">konumunuzu gizli tutmamıza</a> yardımcı olur.
 unauthenticated-choose-location-message-1 = Farklı konumlar arasından seçim yapın veya en hızlısını { -brand-product-name } seçsin.
+unauthenticated-site-rules-message = Hangi sitelerin VPN kullanıp hangilerinin kullanmayacağını yönetin.
 unauthenticated-get-started = Kullanmaya başlayın
 unauthenticated-terms-of-service-privacy-notice = Devam ederseniz <a data-l10n-name="vpn-terms-of-service">Hizmet Koşulları</a>’nı ve <a data-l10n-name="vpn-privacy-notice">Gizlilik Bildirimi</a>’ni kabul etmiş olursunuz.
 site-exclusion-toggle-enabled-1 =
