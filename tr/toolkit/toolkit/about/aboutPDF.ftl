@@ -22,3 +22,7 @@ about-pdf-set-default =
     .label = Varsayılan yap
 about-pdf-dismiss =
     .label = Kapat
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name } PDF araçları

@@ -15,6 +15,8 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } depolanan ö
 autofill-edit-payment-method-os-prompt-macos = depolanan ödeme yöntemi bilgilerini gösterme
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } depolanan ödeme yöntemi bilgilerini göstermeye çalışıyor. Bu Windows hesabına erişimi onaylayın.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } depolanan ödeme yöntemi bilgilerini göstermeye çalışıyor.
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } kayıtlı ödeme yöntemi bilgilerini silmek istiyor. Bu Windows hesabına erişiminizi doğrulayın.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } kayıtlı ödeme yöntemi bilgilerini silmek istiyor.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Otomatik form doldurma seçenekleri
 

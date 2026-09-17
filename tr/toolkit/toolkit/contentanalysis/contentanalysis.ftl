@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent }, yapıştırdığınız verileri kuruluşunuzun veri ilkelerine göre inceliyor. Bu işlem birkaç saniye sürebilir.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent }, kopyalarınız içeriği kuruluşunuzun veri ilkelerine göre inceliyor. Bu işlem birkaç saniye sürebilir.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent }, sürükleyip b
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent }, yazdırdığınız verileri kuruluşunuzun veri ilkelerine göre inceliyor. Bu işlem birkaç saniye sürebilir.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Kuruluşunuz bu içeriğin kopyalanmasına izin vermiyor.
 contentanalysis-operationtype-clipboard = pano
+contentanalysis-operationtype-clipboard-copy = içerik kopyalandı
 contentanalysis-operationtype-dropped-text = sürüklenip bırakılan metin
 contentanalysis-operationtype-print = yazdır
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = { $agent } için imza 
 contentanalysis-error-message-upload-file = “{ $filename }” yüklemesi reddedildi.
 contentanalysis-error-message-dropped-text = Sürükleyip bırakma reddedildi.
 contentanalysis-error-message-clipboard = Yapıştırma reddedildi.
+contentanalysis-error-message-clipboard-copy = Kopyalamaya izin verilmedi.
 contentanalysis-error-message-print = Yazdırma reddedildi.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = Bu dosyayı indirmenize izin 
 contentanalysis-block-dialog-body-download-file = Kuruluşunuzun veri koruma ilkelerine göre “{ $filename }” dosyasını indirme izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
 contentanalysis-block-dialog-title-clipboard = Bu içeriği yapıştırmanıza izin verilmiyor
 contentanalysis-block-dialog-body-clipboard = Kuruluşunuzun veri koruma ilkelerine göre bu içeriği yapıştırma izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
+contentanalysis-block-dialog-title-clipboard-copy = Bu içeriği kopyalamanıza izin verilmiyor
+contentanalysis-block-dialog-body-clipboard-copy = Kuruluşunuzun veri koruma ilkelerine göre bu içeriği kopyalama izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
 contentanalysis-block-dialog-title-dropped-text = Bu içeriği sürükleyip bırakmanıza izin verilmiyor
 contentanalysis-block-dialog-body-dropped-text = Kuruluşunuzun veri koruma ilkelerine göre bu içeriği sürükleyip bırakma izniniz bulunmuyor. Daha fazla bilgi için yöneticinizle iletişime geçin.
 contentanalysis-block-dialog-title-print = Bu belgeyi yazdırmanıza izin verilmiyor
