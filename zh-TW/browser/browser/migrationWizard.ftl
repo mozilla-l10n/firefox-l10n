@@ -29,6 +29,7 @@ migration-wizard-migrator-display-name-chromium-360se = 360 安全瀏覽器
 migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge 傳統版
+migration-wizard-migrator-display-name-self = { -brand-product-name }
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV 檔案中的密碼
 migration-wizard-migrator-display-name-file-bookmarks = HTML 檔案裡的書籤
