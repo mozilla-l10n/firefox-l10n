@@ -60,6 +60,10 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Odstrani iz stranske vrstice
 # $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .tooltiptext = Vprašaj { $provider }
+    .aria-label = Vprašaj { $provider }
+# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Vprašaj { $provider }
 genai-menu-new-badge = Novo
