@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } recense lo que tu collava contra le politicas del datos de tu organisation. Isto pote prender un momento.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } recense lo que tu copiava contra le directivas del datos de tu organisation. Isto pote prender un momento.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,6 +33,10 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } recense le text
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } recense lo que tu imprimeva contra le politicas del datos de tu organisation.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Copiar iste contento es limitate per tu organisation.
 contentanalysis-operationtype-clipboard = area de transferentia
 contentanalysis-operationtype-clipboard-copy = contento copiate
 contentanalysis-operationtype-dropped-text = texto deponite
@@ -69,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Verification de firma 
 contentanalysis-error-message-upload-file = Cargamento de “{ $filename }” refusate.
 contentanalysis-error-message-dropped-text = Traher e deponer refusate.
 contentanalysis-error-message-clipboard = Collar refusate.
+contentanalysis-error-message-clipboard-copy = Copia denegate.
 contentanalysis-error-message-print = Imprimer refusate.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -84,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = Tu non ha le permission de di
 contentanalysis-block-dialog-body-download-file = Sub le politicas de protection de datos de tu organisation, tu non ha le permission de discargar le file  “{ $filename }”. Contacta tu administrator pro plus informationes.
 contentanalysis-block-dialog-title-clipboard = Tu non ha le permission de collar iste contento
 contentanalysis-block-dialog-body-clipboard = Sub le politicas de protection de datos de tu organisation, tu non ha le permission de collar iste contento. Contacta tu administrator pro plus informationes.
+contentanalysis-block-dialog-title-clipboard-copy = Tu non ha le permisso de copiar iste contento
+contentanalysis-block-dialog-body-clipboard-copy = Sub le directivas de protection de datos de tu organisation, tu non ha le permisso de copiar iste contento. Contacta tu administrator pro altere informationes.
 contentanalysis-block-dialog-title-dropped-text = Tu non ha le permission de deponer iste contento
 contentanalysis-block-dialog-body-dropped-text = Sub le politicas de protection de datos de tu organisation, tu non ha le permission de traher e deponer iste contento. Contacta tu administrator pro plus informationes.
 contentanalysis-block-dialog-title-print = Tu non ha le permission de imprimer iste documento

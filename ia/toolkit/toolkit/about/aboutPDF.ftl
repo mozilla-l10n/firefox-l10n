@@ -5,6 +5,8 @@
 about-pdf-title = Editor de { -brand-short-name }
 about-pdf-header = PDF de { -brand-short-name }
 about-pdf-tagline = Un utensile gratuite pro leger, miscer, firmar, commentar, e plus, con le confidentialitate integrate
+about-pdf-features-cta =
+    .label = Explorar applicationes de files PDF
 about-pdf-dropzone =
     .title = Depone un files PDF ci pro initiar o pulsa Enter
 about-pdf-dropzone-hint = Depone un file PDF ci pro initiar
@@ -25,6 +27,23 @@ about-pdf-dismiss =
 
 ## The about:pdf#features page.
 
+about-pdf-features-header = Applicationes de files PDF pro { -brand-short-name }
+about-pdf-features-intro = Lege, marca, e firma le files pdf justo ubi tu naviga. Illo es simple, gratuite, e private.
 about-pdf-features-back =
     .label = Retro
+about-pdf-feature-organize-heading = Organisar paginas
+about-pdf-feature-organize-description = Reordinar, remover, miscer, e exportar paginas.
+about-pdf-feature-signatures-heading = Salvar firmas
+about-pdf-feature-signatures-description = Crear plure firmas e adder los a formularios.
 about-pdf-feature-comments-heading = Adder notas
+about-pdf-feature-comments-description = Lassa commentos e mementos dum tu lege.
+about-pdf-feature-annotate-heading = Annotar le files pdf
+about-pdf-feature-annotate-description = Adde texto, aspectos notabile, e designos.
+about-pdf-feature-images-heading = Carga imagines accessibile
+about-pdf-feature-images-description = Adde texto alternative assi que le imagines functiona pro plus personas.
+about-pdf-feature-view-heading = Elige tu visualisation
+about-pdf-feature-view-description = Rola verticalmente o horizontalmente, o cambia  dispositiones del paginas.
+about-pdf-feature-presentation-heading = Presenta le files pdf a schermo plen
+about-pdf-feature-presentation-description = Condivide un visualisation nette in modalitate presentation.
+about-pdf-feature-details-heading = Plus velocemente trova le detalios
+about-pdf-feature-details-description = Usar structuras, annexos, e proprietates a mover per le files pdf.

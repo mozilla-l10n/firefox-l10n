@@ -40,6 +40,13 @@ about-networking-ssl-tokens-summary-compression = { $decompressedLength } → { 
 # $capacity (Number) - Total cache capacity, in kilobytes
 # $percent (Number) - Percentage of the cache capacity currently in use
 about-networking-ssl-tokens-summary-capacity = { $used } / { $capacity } KB ({ $percent }%)
+# Certificates are stored inside every cached token, so the same certificate is
+# held many times over.
+# $references (Number) - Total number of stored certificate copies
+# $totalBytes (Number) - Uncompressed size of all stored copies, in bytes
+# $distinct (Number) - Number of unique certificates across all tokens
+# $distinctBytes (Number) - Uncompressed size of the unique certificates, in bytes
+about-networking-ssl-tokens-summary-certs = Certificatos immagazinate: { $references } ({ $totalBytes } B), unic: { $distinct } ({ $distinctBytes } B)
 about-networking-ssl-tokens-partition-key = Clave de partition
 about-networking-ssl-tokens-tokens-column = Tokens
 about-networking-ssl-tokens-expires = Expira
