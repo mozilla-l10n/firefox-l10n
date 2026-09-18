@@ -46,4 +46,4 @@ about-pdf-feature-view-description = Faites défiler les pages verticalement ou 
 about-pdf-feature-presentation-heading = Affichez les PDF en plein écran
 about-pdf-feature-presentation-description = Partagez une vue épurée en mode présentation.
 about-pdf-feature-details-heading = Accédez plus rapidement aux détails
-about-pdf-feature-details-description = Utilisez les plans, les pièces jointes et les propriétés pour vous déplacer dans vos fichiers PDF.
+about-pdf-feature-details-description = Utilisez les signets des documents, les pièces jointes et les propriétés pour vous déplacer dans vos fichiers PDF.
