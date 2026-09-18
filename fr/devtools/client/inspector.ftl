@@ -30,7 +30,7 @@ inspector-split-orientation-auto = Auto
 inspector-split-orientation-side-by-side = Côte à côte
 # A label for the split orientation menu item that locks the panels on top of
 # each other.
-inspector-split-orientation-stacked = Empilé
+inspector-split-orientation-stacked = Empilés
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Activer/Désactiver l’émulation du jeu de couleurs claires pour la page

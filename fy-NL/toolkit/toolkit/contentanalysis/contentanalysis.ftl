@@ -31,6 +31,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } toetst jo plakt
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } toetst wat jo ôfdrukt hawwe oan it gegevensbelied fan jo organisaasje. Dit kin efkes duorje.
 contentanalysis-operationtype-clipboard = klamboerd
+contentanalysis-operationtype-clipboard-copy = kopiearre ynhâld
 contentanalysis-operationtype-dropped-text = plakte tekst
 contentanalysis-operationtype-print = ôfdrukke
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +69,7 @@ contentanalysis-invalid-agent-signature-message-content = Undertekeningsferifika
 contentanalysis-error-message-upload-file = Oplaad fan ‘{ $filename }’ wegere.
 contentanalysis-error-message-dropped-text = Slepe en delsette wegere.
 contentanalysis-error-message-clipboard = Plakke wegere.
+contentanalysis-error-message-clipboard-copy = Kopiearjen wegere.
 contentanalysis-error-message-print = Ofdrukken wegere.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +85,7 @@ contentanalysis-block-dialog-title-download-file = Jo meie dit bestân net downl
 contentanalysis-block-dialog-body-download-file = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo it bestân ‘{ $filename }’ net downloade. Nim kontakt op mei jo behearder foar mear ynfo.
 contentanalysis-block-dialog-title-clipboard = Jo meie dizze ynhâld net plakke
 contentanalysis-block-dialog-body-clipboard = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo dizze ynhâld net plakke. Nim kontakt op mei jo behearder foar mear ynfo.
+contentanalysis-block-dialog-title-clipboard-copy = Jo meie dizze ynhâld net kopiearje
 contentanalysis-block-dialog-title-dropped-text = Jo meie dizze ynhâld net ferslepe
 contentanalysis-block-dialog-body-dropped-text = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo dizze ynhâld net ferslepe. Nim kontakt op mei jo behearder foar mear ynfo.
 contentanalysis-block-dialog-title-print = Jo meie dit dokumint net ôfdrukke
