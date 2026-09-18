@@ -25,6 +25,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } kontroluje kopírovaný obsah v súlade s pravidlami správy údajov vo vašej organizácii. Môže to chvíľu trvať.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } kontroluje skopírovaný obsah podľa pravidiel ochrany údajov vašej organizácie. Môže to chvíľu trvať.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -91,6 +94,8 @@ contentanalysis-block-dialog-title-download-file = Nemáte oprávnenie stiahnuť
 contentanalysis-block-dialog-body-download-file = Podľa pravidiel ochrany údajov vašej organizácie nie je povolené stiahnuť súbor “{ $filename }”. Ďalšie informácie získate od svojho správcu.
 contentanalysis-block-dialog-title-clipboard = Nemáte oprávnenie prilepiť tento obsah
 contentanalysis-block-dialog-body-clipboard = Podľa pravidiel ochrany údajov vašej organizácie nemáte povolené prilepiť tento obsah. Ďalšie informácie získate od svojho správcu.
+contentanalysis-block-dialog-title-clipboard-copy = Nemáte oprávnenie kopírovať tento obsah
+contentanalysis-block-dialog-body-clipboard-copy = Zásady ochrany údajov vašej organizácie nepovoľujú kopírovanie tohto obsahu. Ďalšie informácie získate od správcu.
 contentanalysis-block-dialog-title-dropped-text = Nemáte oprávnenie pretiahnuť tento obsah
 contentanalysis-block-dialog-body-dropped-text = Podľa pravidiel ochrany údajov vašej organizácie nemáte oprávnenie presúvať tento obsah myšou. Ďalšie informácie získate od svojho správcu.
 contentanalysis-block-dialog-title-print = Nemáte oprávnenie na tlač tohto dokumentu

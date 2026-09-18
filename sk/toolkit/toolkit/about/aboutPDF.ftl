@@ -5,6 +5,8 @@
 about-pdf-title = Editor PDF vo { -brand-short-name(case: "loc") }
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Bezplatný nástroj na čítanie, zlučovanie, podpisovanie, komentovanie a ďalšie – so zabudovaným súkromím
+about-pdf-features-cta =
+    .label = Preskúmajte nástroje pre PDF
 about-pdf-dropzone =
     .title = Sem presuňte súbor PDF alebo stlačte kláves Enter
 about-pdf-dropzone-hint = Sem presuňte súbor PDF
@@ -22,3 +24,26 @@ about-pdf-set-default =
     .label = Nastaviť ako predvolený
 about-pdf-dismiss =
     .label = Zavrieť
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Nástroje PDF v prehliadači { -brand-short-name }
+about-pdf-features-intro = Čítajte, anotujte a podpisujte súbory PDF priamo v prehliadači. Jednoducho, bezplatne a so zachovaním súkromia.
+about-pdf-features-back =
+    .label = Naspäť
+about-pdf-feature-organize-heading = Organizujte si strany
+about-pdf-feature-organize-description = Zmeňte si poradie, odstraňujte, zlučujte a exportujte strany.
+about-pdf-feature-signatures-heading = Uložte si podpisy
+about-pdf-feature-signatures-description = Vytvorte si viacero podpisov a vkladajte ich do formulárov.
+about-pdf-feature-comments-heading = Pridávajte komentáre
+about-pdf-feature-comments-description = Pri čítaní si pridávajte komentáre a poznámky.
+about-pdf-feature-annotate-heading = Pridávajte poznámky do PDF súborov
+about-pdf-feature-annotate-description = Doplňte text, zvýraznenia a kresby.
+about-pdf-feature-images-heading = Nahrávajte prístupné obrázky
+about-pdf-feature-images-description = Pridajte alternatívny text, aby boli obrázky prístupné väčšiemu počtu ľudí.
+about-pdf-feature-view-heading = Vyberte si zobrazenie
+about-pdf-feature-view-description = Posúvajte sa zvislo či vodorovne alebo zmeňte rozloženie strán.
+about-pdf-feature-presentation-heading = Zobrazujte PDF na celej obrazovke
+about-pdf-feature-presentation-description = Zdieľajte nerušené zobrazenie v režime prezentácie.
+about-pdf-feature-details-heading = Nájdite podrobnosti rýchlejšie
+about-pdf-feature-details-description = Na navigáciu v dokumentoch PDF používajte osnovu, prílohy a vlastnosti.
