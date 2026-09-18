@@ -136,7 +136,30 @@ smart-window-grouped-tabs-label =
 # Fallback name used in place of $label above when the model didn't provide
 # one for the tab group.
 smart-window-default-tab-group-label = بونکۊ بلگه
+# Variables
+#   $count (number) - Number of tabs grouped
+#   $label (string) - The label of the tab group
+smart-window-grouped-tabs-summary =
+    { $count ->
+        [one] بونکۊ «{ $label }» وورکل وو { $count } بلگه و هو ٱوورده وابی.
+       *[other] بونکۊ «{ $label }» وورکل وو { $count } بلگه و هو ٱوورده وابی.
+    }
 smart-window-grouped-tabs-row-label = بلگه یل بونکۊ بندی وابیڌه
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] { $count } بلگه گوئشست
+       *[other] { $count } بلگه گوئشست
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] { $count } بلگه گوئشست.
+       *[other] { $count } بلگه گوئشست.
+    }
 smart-window-opened-tabs-row-label = بلگه یل گۊشیڌه
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = بلگه یل جا گورو وابیڌه
