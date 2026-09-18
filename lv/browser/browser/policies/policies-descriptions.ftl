@@ -28,6 +28,7 @@ policy-BlockAboutSupport = Liegt piekļuvi about:support lapai.
 policy-Bookmarks = Izveidojiet grāmatzīmes grāmatzīmju rīkjoslā, grāmatzīmju izvēlnē vai konkrētā mapē kādā no šīm vietām.
 policy-CaptivePortal = Ieslēgt vai izslēgt caurlaides portālu atbalstu.
 policy-CertificatesDescription = Pievienojiet sertifikātus vai izmantojiet iebūvētos sertifikātus.
+policy-ClearOnShutdown = Notīrīt pārlūkošanas datus, kad { -brand-short-name } aizveras.
 policy-ContentAnalysis = Ieslēgt vai izslēgt savienojumu ar datu zudumu novēršanas aģentu.
 policy-Cookies = Atļaujiet vai aizliedziet vietnēm iestatīt sīkdatnes.
 # Containers in this context is referring to container tabs in Firefox.

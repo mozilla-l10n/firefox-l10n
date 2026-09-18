@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Uzstādītās valodas
 browser-languages-available-label = Pieejamās valodas
 browser-languages-error = { -brand-short-name } pašlaik nevar atjaunināt valodas. Pārbaudiet, vai ir izveidots savienojums ar internetu un mēģiniet vēlreiz.
+browser-languages-update-error =
+    .message = { -brand-short-name } pašlaik nevar atjaunināt valodas. Jāpārliecinās, ka ir savienojums ar internetu vai jāmēģina vēlreiz.

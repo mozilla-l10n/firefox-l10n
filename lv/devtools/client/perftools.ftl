@@ -13,6 +13,11 @@ perftools-custom-threads-label = Pievienot pielāgotus pavedienus pēc nosaukuma
 
 perftools-button-save-settings = Saglabāt iestatījumus un doties atpakaļ
 
+## These messages are descriptions of the threads that can be enabled for the profiler.
+
+perftools-thread-jxl-img-decode =
+    .title = JPEG XL attēlu atkodēšanas pavedieni
+
 ## Profiler presets
 
 perftools-presets-firefox-label = { -brand-shorter-name }

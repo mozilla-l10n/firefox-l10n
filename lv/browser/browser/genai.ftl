@@ -42,6 +42,21 @@ genai-prompt-prefix-selection = Esmu lapā “{ $tabTitle }” ar atlasītu “{
 
 ## Chatbot menu shortcuts
 
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .aria-label = Vaicāt { $provider }
+    .tooltiptext = Vaicāt { $provider }
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Meklēt “{ $selection }” ar { $engine }
+    .tooltiptext = Meklēt “{ $selection }” ar { $engine }
+genai-shortcut-copy-button =
+    .aria-label = Ievietot atlasīto tekstu starpliktuvē
+    .tooltiptext = Ievietot atlasīto tekstu starpliktuvē
+genai-shortcut-more-actions-button =
+    .aria-label = Vairāk iespēju
+    .tooltiptext = Vairāk iespēju
 genai-input-ask-generic =
     .placeholder = Vaicāt AI tērzēšanas robotam…
 # $provider (string) - name of the provider
