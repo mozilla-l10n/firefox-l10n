@@ -5,4 +5,4 @@
 pdf-features-notification =
     .aria-label = Notification
     .heading = Les PDF sont désormais plus simples à utiliser dans { -brand-short-name }.
-pdf-features-notification-message = Scinder, fusionner et bien plus. <a data-l10n-name="features-link">Voir les fonctionnalités PDF</a>
+pdf-features-notification-message = Scindez, fusionnez et bien plus encore. <a data-l10n-name="features-link">Découvrir les fonctionnalités PDF</a>
