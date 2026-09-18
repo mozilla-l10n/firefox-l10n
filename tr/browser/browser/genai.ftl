@@ -60,6 +60,10 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Kenar çubuğundan kaldır
 # $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .tooltiptext = { $provider } sohbet botuna sor
+    .aria-label = { $provider } sohbet botuna sor
+# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } sohbet botuna sor
 genai-menu-new-badge = Yeni
