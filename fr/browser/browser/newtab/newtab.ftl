@@ -901,7 +901,7 @@ newtab-wallpaper-your-images = Vos images
 # wallpaper picker. The tile shows one of the saved images and has no text of
 # its own, so this is all a screen reader has to go on.
 newtab-wallpaper-your-images-folder =
-    .aria-label = Vos images, fonds d’écran que vous avez enregistrés
+    .aria-label = Vos images, les fonds d’écran que vous avez enregistrés
 # Read by screen readers for a saved image that has a name of its own: a kept
 # Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
 # someone added themselves is numbered instead, see the string below.
