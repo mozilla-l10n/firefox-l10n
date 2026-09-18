@@ -165,7 +165,7 @@ smart-window-opened-tabs-row-label = Բացված ներդիրներ
 smart-window-switched-tab-label = Փոխարկված ներդիրներ
 # Variables
 #   $title (String) - Title of the tab switched to
-smart-window-switched-tab-summary = Փոխարկվել { $title }-ին
+smart-window-switched-tab-summary = Փոխարկվել «{ $title }»-ին:
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Ներդիրները խմբավորված չեն
 # Variables
