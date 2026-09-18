@@ -1760,6 +1760,7 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 
+newtab-nova-customization-callout-message = Wuslědźće swětłe abo ćmowe drasty a pozadkowe wobrazy, kotrež wam zmóžnjeja, { -brand-product-name } po wašich přećach wuhotować.
 newtab-nova-customization-callout-primary-button =
     .label = Wubjerće swoje zwonkowne
 
