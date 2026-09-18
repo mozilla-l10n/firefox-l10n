@@ -63,6 +63,17 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = Chiedi a { $provider }
     .tooltiptext = Chiedi a { $provider }
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Cerca “{ $selection }” con { $engine }
+    .tooltiptext = Cerca “{ $selection }” con { $engine }
+genai-shortcut-copy-button =
+    .aria-label = Copia testo selezionato
+    .tooltiptext = Copia testo selezionato
+genai-shortcut-more-actions-button =
+    .aria-label = Altre opzioni
+    .tooltiptext = Altre opzioni
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Chiedi a { $provider }

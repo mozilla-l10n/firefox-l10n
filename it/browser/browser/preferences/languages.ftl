@@ -52,4 +52,6 @@ browser-languages-select-language =
     .placeholder = Seleziona una lingua da aggiungere…
 browser-languages-installed-label = Lingue installate
 browser-languages-available-label = Lingue disponibili
-browser-languages-error = L’aggiornamento delle lingue non è attualmente disponibile. Verifica la connessione a Internet o riprova.
+browser-languages-error = { -brand-short-name } non è in grado di aggiornare le lingue in questo momento. Verifica la connessione a Internet o riprova.
+browser-languages-update-error =
+    .message = { -brand-short-name } non è in grado di aggiornare le lingue in questo momento. Verifica la connessione a Internet o riprova.
