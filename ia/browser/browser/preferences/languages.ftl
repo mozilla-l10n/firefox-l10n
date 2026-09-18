@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Linguas installate
 browser-languages-available-label = Linguas disponibile
 browser-languages-error = { -brand-short-name } non pote actualisar tu linguas justo ora. Verifica tu connexion a internet o retenta.
+browser-languages-update-error =
+    .message = { -brand-short-name } non pote actualisar tu linguas justo ora. Verifica tu connexion a internet o retenta.
