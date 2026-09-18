@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } toetst wat u hebt geplakt aan het gegevensbeleid van uw organisatie. Dit kan even duren.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } toetst wat u hebt gekopieerd aan het gegevensbeleid van uw organisatie. Dit kan even duren.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } toetst uw gepla
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } toetst wat u hebt afgedrukt aan het gegevensbeleid van uw organisatie. Dit kan even duren.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Het kopiëren van deze inhoud is beperkt door uw organisatie.
 contentanalysis-operationtype-clipboard = klembord
+contentanalysis-operationtype-clipboard-copy = gekopieerde inhoud
 contentanalysis-operationtype-dropped-text = geplakte tekst
 contentanalysis-operationtype-print = afdrukken
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Ondertekeningsverifica
 contentanalysis-error-message-upload-file = Upload van ‘{ $filename }’ geweigerd.
 contentanalysis-error-message-dropped-text = Verslepen geweigerd.
 contentanalysis-error-message-clipboard = Plakken geweigerd.
+contentanalysis-error-message-clipboard-copy = Kopiëren geweigerd.
 contentanalysis-error-message-print = Afdrukken geweigerd.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = U mag dit bestand niet downlo
 contentanalysis-block-dialog-body-download-file = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u het bestand ‘{ $filename }’ niet downloaden. Neem contact op met uw beheerder voor meer info.
 contentanalysis-block-dialog-title-clipboard = U mag deze inhoud niet plakken
 contentanalysis-block-dialog-body-clipboard = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u deze inhoud niet plakken. Neem contact op met uw beheerder voor meer info.
+contentanalysis-block-dialog-title-clipboard-copy = U mag deze inhoud niet kopiëren
+contentanalysis-block-dialog-body-clipboard-copy = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u deze inhoud niet kopiëren. Neem contact op met uw beheerder voor meer info.
 contentanalysis-block-dialog-title-dropped-text = U mag deze inhoud niet verslepen
 contentanalysis-block-dialog-body-dropped-text = Volgens het gegevensbeschermingsbeleid van uw organisatie mag u deze inhoud niet verslepen. Neem contact op met uw beheerder voor meer info.
 contentanalysis-block-dialog-title-print = U mag dit document niet afdrukken
