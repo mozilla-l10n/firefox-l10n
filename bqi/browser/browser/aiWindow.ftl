@@ -148,6 +148,7 @@ aiwindow-firstrun-memories-title = جواوا مۊفیدتر، و ری شرای�
 aiwindow-firstrun-memories-conversation-title = گوفت وو لوفت ن وا پؽش بوورین
 aiwindow-firstrun-memories-relevance-title = جواوا ی جۊر تر
 aiwindow-firstrun-memories-privacy-title = تراهی سیخومی
+aiwindow-firstrun-memories-choose-label = پسند کۊنین ک { -smart-window-brand-name } ز چ چیایی ویر بگره
 aiwindow-firstrun-memories-checkbox-chats = چتا من { -smart-window-brand-name }
 aiwindow-firstrun-memories-checkbox-browsing = گشتن من { -brand-product-name }
 aiwindow-firstrun-memories-update-settings = هر سا ک خاستین من سامووا ورۊ رسۊوی کۊنین.
