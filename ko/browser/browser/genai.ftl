@@ -63,6 +63,17 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = { $provider }에게 물어보기
     .tooltiptext = { $provider }에게 물어보기
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = { $engine }에서 “{ $selection }” 검색
+    .tooltiptext = { $engine }에서 “{ $selection }” 검색
+genai-shortcut-copy-button =
+    .aria-label = 선택한 텍스트 복사
+    .tooltiptext = 선택한 텍스트 복사
+genai-shortcut-more-actions-button =
+    .aria-label = 추가 옵션
+    .tooltiptext = 추가 옵션
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider }에게 물어보기

@@ -198,8 +198,8 @@ aiwindow-close-sidebar =
 ## history subview lists recent chats and a shortcut to all chats.
 
 aiwindow-history-menu =
-    .aria-label = 옵션 더보기
-    .tooltiptext = 옵션 더보기
+    .aria-label = 추가 옵션
+    .tooltiptext = 추가 옵션
 aiwindow-history-menu-chat-history = 채팅 기록
 aiwindow-history-menu-back =
     .aria-label = 뒤로
