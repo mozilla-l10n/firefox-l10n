@@ -505,6 +505,9 @@ newtab-recent-searches-row-remove =
 
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Zoeken
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Zoekopties
 
 ## Recent searches widget — empty states
 
@@ -867,6 +870,9 @@ newtab-wallpaper-add-an-image = Afbeelding toevoegen
 newtab-wallpaper-custom-color = Kies een kleur
 newtab-wallpaper-toggle-title =
     .label = Achtergronden
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Achtergrondcategorieën
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = De afbeelding heeft de bestandsgroottelimiet van { $file_size } MB overschreden. Probeer een kleiner bestand te uploaden.
@@ -1726,6 +1732,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Deze ruimte volgt uw regels
 newtab-activation-window-message-values-focus-message = Met { -brand-product-name } kunt u surfen zoals u dat wilt, met een meer persoonlijke manier om uw dag online te beginnen. Maak { -brand-product-name } van uzelf.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Leg de laatste hand aan { -brand-product-name }
+newtab-nova-customization-callout-message = Verken lichte of donkere thema’s en achtergronden waardoor de nieuwe { -brand-product-name } meer van u lijkt.
+newtab-nova-customization-callout-primary-button =
+    .label = Kies uw stijl
 
 ## Strings for the Clock widget
 
