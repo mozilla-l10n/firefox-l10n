@@ -60,6 +60,10 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Elimină din bara laterală
 # $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .tooltiptext = Întreabă { $provider }
+    .aria-label = Întreabă { $provider }
+# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Întreabă { $provider }
 genai-menu-new-badge = Nou
