@@ -160,6 +160,14 @@ smart-window-opened-tabs-summary-single =
         [one] { $count } بلگه گوئشست.
        *[other] { $count } بلگه گوئشست.
     }
+# Variables
+#   $count (number) - Number of tabs opened
+#   $label (string) - The label of the tab group
+smart-window-opened-tabs-summary-group =
+    { $count ->
+        [one] بونکۊ «{ $label }» وورکل وو { $count } بلگه گوئشست.
+       *[other] بونکۊ «{ $label }» وورکل وو { $count } بلگه گوئشست.
+    }
 smart-window-opened-tabs-row-label = بلگه یل گۊشیڌه
 # Action result labels for switching to a single already-open tab
 smart-window-switched-tab-label = بلگه یل جا گورو وابیڌه
