@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Generative AI (GenAI) Settings section
+
+
+## Chatbot prompts
+## Prompts are plain language ‘instructions’ sent to a chatbot.
+## These prompts have been made concise and direct in English because some chatbot providers
+## have character restrictions and being direct reduces the chance for misinterpretation.
+## When localizing, please be concise and direct, but not at the expense of losing meaning.
+
+
 ## Chatbot menu shortcuts
 
 genai-menu-open-generic =
@@ -17,6 +27,10 @@ genai-menu-remove-provider =
     .label = پاک کردن { $provider }
 genai-menu-remove-sidebar =
     .label = پاک کردن ز نوار کلی
+# $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .tooltiptext = پورس کردن ز { $provider }
+    .aria-label = پورس کردن ز { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = پورس کردن ز { $provider }
@@ -66,6 +80,9 @@ genai-options-show-shortcut =
     .label = نشووݩ داڌن ره نهنگ مجال پسند هؽل
 genai-options-hide-shortcut =
     .label = بؽڌار کردن ره نهنگ مجال پسند هؽل
+
+## Chatbot message
+
 
 ## Chatbot footer
 

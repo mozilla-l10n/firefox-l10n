@@ -60,6 +60,10 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Tynnu o'r Bar Ochr
 # $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .tooltiptext = Gofyn i { $provider }
+    .aria-label = Gofyn i { $provider }
+# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Gofyn i { $provider }
 genai-menu-new-badge = Newydd

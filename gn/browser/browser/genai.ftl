@@ -59,6 +59,10 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Embogue tenda ykegua
 # $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .tooltiptext = Eporandu { $provider }-pe
+    .aria-label = Eporandu { $provider }-pe
+# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Eporandu { $provider }-pe
 genai-menu-new-badge = Pyahu

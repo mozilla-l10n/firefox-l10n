@@ -60,6 +60,10 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Hapus dari Bilah Samping
 # $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .tooltiptext = Tanyakan { $provider }
+    .aria-label = Tanyakan { $provider }
+# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Tanyakan { $provider }
 genai-menu-new-badge = Baru
