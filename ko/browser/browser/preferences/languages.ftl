@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = 설치된 언어
 browser-languages-available-label = 사용 가능한 언어
 browser-languages-error = { -brand-short-name }가 지금 언어를 업데이트할 수 없습니다. 인터넷에 연결되어 있는지 확인하거나 다시 시도하세요.
+browser-languages-update-error =
+    .message = { -brand-short-name }가 지금 언어를 업데이트할 수 없습니다. 인터넷에 연결되어 있는지 확인하거나 다시 시도하세요.
