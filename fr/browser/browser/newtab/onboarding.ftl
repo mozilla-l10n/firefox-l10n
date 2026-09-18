@@ -555,7 +555,7 @@ onboarding-refresh-tou-pin-unchecked = Gardez le seul grand navigateur indépend
 onboarding-refresh-terms-of-use-with-links = En continuant, vous acceptez les <a data-l10n-name="terms_of_use">Conditions d’utilisation de { -brand-product-name }</a> et notre <a data-l10n-name="privacy_notice">Politique de confidentialité</a>. Pour aider à améliorer le navigateur, { -brand-product-name } envoie des données de diagnostic et d’interaction à { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Gérer les paramètres de collecte de données
 onboarding-refresh-primary-button = Continuer
-onboarding-refresh-fro-import-header = Importer vos données
+onboarding-refresh-fro-import-header = Importez vos données
 onboarding-refresh-fro-import-body = Vos données personnelles restent personnelles. { -brand-product-name } ne les vendra jamais.
 onboarding-refresh-fro-skip-button = Ignorer
 onboarding-refresh-fro-theme-header = Jouez avec votre apparence
