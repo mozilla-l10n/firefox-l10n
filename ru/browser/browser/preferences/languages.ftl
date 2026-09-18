@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Установленные языки
 browser-languages-available-label = Доступные языки
 browser-languages-error = { -brand-short-name } не может обновить ваши языки прямо сейчас. Проверьте, что вы подключены к Интернету, или попробуйте снова.
+browser-languages-update-error =
+    .message = { -brand-short-name } не может обновить ваши языки прямо сейчас. Проверьте, что вы подключены к Интернету, или попробуйте снова.

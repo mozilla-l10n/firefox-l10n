@@ -30,6 +30,7 @@ policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
 policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vybranom priečinku.
 policy-CaptivePortal = Povolenie alebo zakázanie podpory pre captive portály.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
+policy-ClearOnShutdown = Vymaže údaje o prehliadaní pri zatvorení aplikácie { -brand-short-name }.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.

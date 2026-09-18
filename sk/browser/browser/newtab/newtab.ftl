@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Obrázok dňa
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Vyhľadávanie
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nedávne vyhľadávania
@@ -512,6 +516,11 @@ newtab-recent-searches-just-now = Pred chvíľou
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Vymazať “{ $search }” z nedávnych vyhľadávaní
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Vyhľadávanie
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Možnosti vyhľadávania
 
 ## Recent searches widget — empty states
 
@@ -819,6 +828,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Akcie
 newtab-custom-widget-picture-toggle =
     .label = Obrázok dňa
+newtab-custom-widget-search-toggle =
+    .label = Vyhľadávanie
 newtab-custom-widget-recent-searches-toggle =
     .label = Nedávne vyhľadávania
 newtab-custom-widget-section-title = Miniaplikácie
@@ -875,6 +886,9 @@ newtab-wallpaper-add-an-image = Pridať obrázok
 newtab-wallpaper-custom-color = Zvoľte farbu
 newtab-wallpaper-toggle-title =
     .label = Tapety
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategórie tapiet
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Obrázok prekročil limit veľkosti súboru { $file_size } MB. Skúste nahrať menší súbor.
@@ -1740,6 +1754,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Tento priestor sa riadi vašimi pravidlami
 newtab-activation-window-message-values-focus-message = { -brand-product-name } vám umožňuje prehliadať internet tak, ako sa vám páči, s osobnejším spôsobom, ako začať svoj online deň. Prispôsobte si { -brand-product-name(case: "acc") }.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Prispôsobte si { -brand-product-name(case: "acc") } podľa seba
+newtab-nova-customization-callout-message = Objavte svetlé aj tmavé motívy a tapety, s ktorými si nový { -brand-product-name(case: "acc") } prispôsobíte podľa seba.
+newtab-nova-customization-callout-primary-button =
+    .label = Vyberte si vzhľad
 
 ## Strings for the Clock widget
 

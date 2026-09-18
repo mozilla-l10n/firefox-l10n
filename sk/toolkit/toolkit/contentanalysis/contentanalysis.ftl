@@ -32,7 +32,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } kontroluje kop�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } kontroluje tlačený obsah v súlade s pravidlami správy údajov vo vašej organizácii. Môže to chvíľu trvať.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Vaša organizácia nepovoľuje kopírovanie tohto obsahu.
 contentanalysis-operationtype-clipboard = schránka
+contentanalysis-operationtype-clipboard-copy = obsah skopírovaný
 contentanalysis-operationtype-dropped-text = pretiahnutý text
 contentanalysis-operationtype-print = tlač
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -70,6 +75,7 @@ contentanalysis-invalid-agent-signature-message-content = Overenie podpisu pre a
 contentanalysis-error-message-upload-file = Odovzdanie súboru “{ $filename }” bolo odmietnuté.
 contentanalysis-error-message-dropped-text = Pretiahnutie obsahu bolo odmietnuté.
 contentanalysis-error-message-clipboard = Prilepenie bolo odmietnuté.
+contentanalysis-error-message-clipboard-copy = Kopírovanie bolo zamietnuté.
 contentanalysis-error-message-print = Tlač bola odmietnutá.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis

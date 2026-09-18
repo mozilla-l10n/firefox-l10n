@@ -63,6 +63,17 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = Opýtajte sa chatbota { $provider }
     .tooltiptext = Opýtajte sa chatbota { $provider }
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Hľadať “{ $selection }” cez { $engine }
+    .tooltiptext = Hľadať “{ $selection }” cez { $engine }
+genai-shortcut-copy-button =
+    .aria-label = Kopírovať označený text
+    .tooltiptext = Kopírovať označený text
+genai-shortcut-more-actions-button =
+    .aria-label = Ďalšie možnosti
+    .tooltiptext = Ďalšie možnosti
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Opýtajte sa chatbota { $provider }
