@@ -64,6 +64,10 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Odebrat z postranní lišty
 # $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .tooltiptext = Zeptat se { $provider }
+    .aria-label = Zeptat se { $provider }
+# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Zeptat se { $provider }
 genai-menu-new-badge = Nové
