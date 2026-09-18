@@ -111,6 +111,7 @@ unauthenticated-vpn-title = De ynboude VPN fan { -brand-product-name } probearje
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Ferstopje jo lokaasje</a> by it navigearjen yn { -brand-product-name }.
 unauthenticated-private-location-message = Helpt <a data-l10n-name="learn-more-vpn">jo lokaasje privee te hâlden</a> yn { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Kies út ferskate lokaasjes of lit { -brand-product-name } de rapste kieze.
+unauthenticated-site-rules-message = Bepale hokker websites VPN brûke en hokker websites net.
 unauthenticated-get-started = Begjinne
 unauthenticated-terms-of-service-privacy-notice = Troch fierder te gean, geane jo akkoard mei de <a data-l10n-name="vpn-terms-of-service">Tsjinstbetingsten</a> en <a data-l10n-name="vpn-privacy-notice">Privacyferklearring</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN is út foar dizze website
     .label = VPN foar dizze website brûke
 site-exclusion-toggle-description = Wurket de website net? Probearje VPN út te skeakeljen.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = VPN-regels beheare
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Jo regel
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN is út foar dizze website
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN is oan foar dizze website
 ipprotection-settings-link =
     .label = Ynstellingen
 
@@ -256,6 +265,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } websites
         }
     .label = Website-ynstellingen beheare
+ip-protection-site-rules-header =
+    .heading = Websiteregels beheare
+ip-protection-site-rules-button =
+    .description = Regels ynstelle foar websites dy’t ekstra privacy nedich hawwe of VPN útskeakele wêze moat.
+    .label = Websiteregels beheare
 ip-protection-autostart =
     .label = VPN automatysk ynskeakelje
 ip-protection-autostart-checkbox =

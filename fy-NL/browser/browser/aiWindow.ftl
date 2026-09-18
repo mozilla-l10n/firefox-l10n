@@ -364,3 +364,19 @@ aiwindow-starter-planning-plan = Help in plan te meitsjen
 aiwindow-starter-browsing-history = Sykje ljepblêden yn de skiednis
 aiwindow-starter-browsing-summarize = Gearfetsje ljepblêden
 aiwindow-starter-browsing-compare = Fergelykje ljeplêden
+
+## Conversation Starter Scroll Buttons
+## Scrolls the conversation-starter pill row toward its start/end.
+
+aiwindow-starter-scroll-start =
+    .aria-label = Tebek scrolle
+    .tooltiptext = Tebek scrolle
+aiwindow-starter-scroll-end =
+    .aria-label = Foarút scrolle
+    .tooltiptext = Foarút scrolle
+# Dismisses a "pick up where you left off" resume-activity suggestion pill.
+# Variables:
+#   $text (String) - The suggestion headline being dismissed
+aiwindow-starter-dismiss =
+    .aria-label = { $text } slute
+    .title = { $text } slute
