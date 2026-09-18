@@ -870,6 +870,9 @@ newtab-wallpaper-add-an-image = Adder un imagine
 newtab-wallpaper-custom-color = Eliger un color
 newtab-wallpaper-toggle-title =
     .label = Fundos
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Categorias de fundos de schermo
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Le dimension del imagine excede le limite de { $file_size }MB. Tenta incargar un file minus grande.
@@ -1729,6 +1732,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Iste spatio seque tu regulas
 newtab-activation-window-message-values-focus-message = { -brand-product-name } te permitte de navigar per le maniera que te place, con un maniera plus personal de initiar tu die online. Rende tu proprie { -brand-product-name }.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Pone tu tocco de finition sur { -brand-product-name }
+newtab-nova-customization-callout-message = Explora le themas clar o obscur e le fundos que plus face sentir le nove { -brand-product-name } como tue.
+newtab-nova-customization-callout-primary-button =
+    .label = Elige tu apparentia
 
 ## Strings for the Clock widget
 
