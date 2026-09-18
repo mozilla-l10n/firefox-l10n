@@ -22,3 +22,10 @@ about-pdf-set-default =
     .label = Ynstelle as standert
 about-pdf-dismiss =
     .label = Slute
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Tebek
+about-pdf-feature-comments-heading = Notysje tafoegje
+about-pdf-feature-view-heading = Kies jo werjefte

@@ -137,6 +137,10 @@ a11y-activated = Aktivearre
 a11y-force-disabled = Tagonklikheid tsjingean
 a11y-handler-used = Accessible-handler brûkt
 a11y-instantiator = Tagonklikheids-ynstansjator
+pdfjs-title = PDF-lêzer
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js-ferzje
+pdfjs-enabled = Ynskeakele
 library-version-title = Biblioteekferzje
 copy-text-to-clipboard-label = Tekst nei klamboerd kopiearje
 copy-raw-data-to-clipboard-label = Rûge gegevens nei klamboerd kopiearje

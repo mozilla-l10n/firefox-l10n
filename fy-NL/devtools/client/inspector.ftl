@@ -20,6 +20,14 @@ colorpicker-tooltip-hue-slider-title = Tint
 colorpicker-tooltip-alpha-slider-title = Transparânsje
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Elemintspesifike pseudoklassen
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Automatysk
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Njonken inoar
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = Steapele
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Emulaasje fan ljocht kleureskema foar de side yn-/útskeakelje

@@ -4,3 +4,15 @@
 
 perm-persistent-storage-remember = Dizze beslissing ûnthâlde
 speech-recognition-model-download-header = Spraakwerkenning ynstelle?
+speech-recognition-model-download-allow =
+    .label = Trochgean
+    .accesskey = T
+speech-recognition-model-download-not-now =
+    .label = No net
+    .accesskey = N
+speech-recognition-model-download-cancel =
+    .label = Annulearje
+    .accesskey = A
+speech-recognition-model-download-ok =
+    .label = OK
+    .accesskey = O
