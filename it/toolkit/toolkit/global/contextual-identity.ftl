@@ -52,8 +52,15 @@ user-context-new-tab =
 user-context-add-container =
     .label = Aggiungi nuovo contenitore
     .accesskey = A
+user-context-new-tab2 =
+    .label = Nuova scheda
+user-context-add-container2 =
+    .label = Aggiungi nuovo contenitore
 user-context-manage-containers2 =
     .label = Gestisci contenitori
+user-context-new-tab2-panel-item = Nuova scheda
+user-context-add-container2-panel-item = Aggiungi nuovo contenitore
+user-context-manage-containers2-panel-item = Gestisci contenitori
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
