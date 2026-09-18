@@ -60,6 +60,10 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Уклони из бочне површи
 # $provider (string) - name of the AI chat provider
+genai-shortcut-button-2 =
+    .tooltiptext = Питај { $provider }
+    .aria-label = Питај { $provider }
+# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Питај { $provider }
 genai-menu-new-badge = Ново
