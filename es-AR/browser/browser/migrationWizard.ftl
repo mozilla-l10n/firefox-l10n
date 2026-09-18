@@ -74,7 +74,7 @@ migration-favorites-option-label = Favoritos
 migration-passwords-option-label = Contraseñas guardadas
 migration-history-option-label = Historial de navegación
 migration-extensions-option-label = Extensiones
-migration-form-autofill-option-label = Datos de autollenado de formularios
+migration-form-autofill-option-label = Datos de autocompletado de formularios
 migration-payment-methods-option-label = Métodos de pago
 migration-cookies-option-label = Cookies
 migration-session-option-label = Ventanas y pestañas
@@ -167,7 +167,7 @@ migration-list-favorites-label = favoritos
 migration-list-password-label = contraseñas
 migration-list-history-label = historial
 migration-list-extensions-label = extensiones
-migration-list-autofill-label = datos de autollenado
+migration-list-autofill-label = datos de autocompletado
 migration-list-payment-methods-label = métodos de pago
 
 ##
