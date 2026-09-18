@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Instalowane rěče
 browser-languages-available-label = K dispoziciji stejace rěče
 browser-languages-error = { -brand-short-name } njemóže waše rěče hnydom aktualizować. Přepruwujće, hač sće z internetom zwjazany abo spytajće hišće raz.
+browser-languages-update-error =
+    .message = { -brand-short-name } njemóže waše rěče hnydom aktualizować. Přepruwujće, hač sće z internetom zwjazany abo spytajće hišće raz.

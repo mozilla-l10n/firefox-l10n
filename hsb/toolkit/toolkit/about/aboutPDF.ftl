@@ -28,6 +28,7 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = Nastroje PDF { -brand-short-name }
+about-pdf-features-intro = Čitajće, markěrujće a signujće PDF direktnje tam, hdźež přehladujeće. Je lochko, darmo a priwatne.
 about-pdf-features-back =
     .label = Wróćo
 about-pdf-feature-organize-heading = Strony organizować
@@ -41,6 +42,8 @@ about-pdf-feature-annotate-description = Přidajće tekst, wuzběhnjenja a rysow
 about-pdf-feature-images-heading = Přistupne wobrazy nahrać
 about-pdf-feature-images-description = Přidajće alternatiwny tekst, zo bychu wobrazy za wjace ludźi přistupne byli.
 about-pdf-feature-view-heading = Wubjerće swój napohlad
+about-pdf-feature-view-description = Kulće wertikalnje abo horicontalnje abo změńće wuhotowanja stronow.
 about-pdf-feature-presentation-heading = PDF w połnej wobrazowce prezentować
+about-pdf-feature-presentation-description = Dźělće přehladny napohlad w prezentaciskim modusu.
 about-pdf-feature-details-heading = Podrobnosće spěšnišo namakać
 about-pdf-feature-details-description = Wužiwajće rozrjady, přiwěški a kajkosće, zo byšće so po PDF pohibował.
