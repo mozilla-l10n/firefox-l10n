@@ -3,3 +3,4 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 perm-persistent-storage-remember = Dizze beslissing ûnthâlde
+speech-recognition-model-download-header = Spraakwerkenning ynstelle?

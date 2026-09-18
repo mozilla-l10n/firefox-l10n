@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Foto fan de dei
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Sykje
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Resinte sykopdrachten
@@ -196,6 +200,18 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name } blokkearret trackers wylst jo sneupe. Jo sjogge se hjir.
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } blokkearret automatysk trackers, wêrtroch mear fan jo aktiviteit privee bliuwt.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Besjoch hjir in rinnend oersjoch.
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Flugger sneupe. Minder trackers.
+newtab-privacy-etp-off-turn-on-tracking = Skeakelje trackingbeskermings yn yn ynstellingen om te begjinnen mei blokkearjen.
 
 ## Privacy widget — informational messages
 ##
@@ -469,6 +485,43 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Resinte-sykresultatenopsjes
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Mear ynfo
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Resinte sykopdrachten
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Trending
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = fia { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Sa krekt
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = ‘{ $search }’ út resinte sykopdrachten fuortsmite
+
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Sykje
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Sykopsjes
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Resinte sykopdrachten sille hjir werjûn wurde, sadat jo se op elk momint wer oppakke kinne.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Trending sykopdrachten binne op dit stuit net beskikber.
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Ferhalen
+newtab-spaces-tab-widgets = Widgets
+newtab-spaces-tab-activity = Aktiviteit
 
 ## Search box component.
 
@@ -684,12 +737,24 @@ newtab-discovery-empty-section-topstories-timed-out = Oeps! Wy hiene dizze seksj
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } fan { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Foarige
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Folgjende
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Automatysk ôfspyljen pauzearje
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Automatysk ôfspyljen ferfetsje
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -763,6 +828,13 @@ newtab-custom-close-menu-button =
     .title = Slute
 newtab-custom-settings = Mear ynstellingen beheare
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Werom nei Oanpasse
+    .title = Werom nei Oanpasse
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -798,6 +870,9 @@ newtab-wallpaper-add-an-image = Ofbylding tafoegje
 newtab-wallpaper-custom-color = Kies in kleur
 newtab-wallpaper-toggle-title =
     .label = Eftergrûnen
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Eftergrûnkategoryen
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = De ôfbylding giet oer de limyt fan { $file_size } MB. Probearje in lytser bestân op te laden.
@@ -816,6 +891,48 @@ newtab-wallpaper-dark-mountain = Lânskip mei berch
 newtab-wallpaper-dark-city = Pears stêdslânskip
 newtab-wallpaper-dark-fox-anniversary = In foks op de stoepe by in bosk
 newtab-wallpaper-light-fox-anniversary = In foks yn in gersfjild mei in mistich berchlânskip
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Jo ôfbyldingen
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Jo bewarre ôfbyldingen en eftergrûnen
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Ofbylding { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = { $name } fuortsmite
+    .title = Ofbylding fuortsmite
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Ofbylding { $number } fuortsmite
+    .title = Ofbylding { $number } fuortsmite
+newtab-wallpaper-remove-image-title = Ofbylding fuortsmite?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Dizze aksje kin net ûngedien makke wurde.
+newtab-wallpaper-remove-image-confirm = Fuortsmite
+newtab-wallpaper-remove-image-cancel = Annulearje
 
 ## Solid Colors
 
@@ -881,6 +998,7 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = In foks oan de rjochterkant op in oranje eftergrûn
 
 ## Firefox
 

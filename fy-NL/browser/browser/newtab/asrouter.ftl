@@ -500,6 +500,9 @@ launch-options-spotlight-primary-button-launch = Bewarje en trochgean
 # "has your back" is an idiom meaning support and protection; adapt freely
 # rather than translating literally.
 lapsed-user-toast-title = { -brand-product-name } stiet noch hieltyd foar jo klear
+lapsed-user-toast-subtitle = Besjoch nije manieren wêrop jo sneupe kinne mei mear kar, privacy en kontrôle.
+lapsed-user-toast-whats-new-button = Besjoch wat nij is
+lapsed-user-toast-dismiss-button = Slute
 
 ## Refresh Firefox infobar
 ##
