@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Installerade språk
 browser-languages-available-label = Tillgängliga språk
 browser-languages-error = { -brand-short-name } kan inte uppdatera dina språk just nu. Kontrollera att du är ansluten till internet eller försök igen.
+browser-languages-update-error =
+    .message = { -brand-short-name } kan inte uppdatera dina språk just nu. Kontrollera att du är ansluten till internet eller försök igen.
