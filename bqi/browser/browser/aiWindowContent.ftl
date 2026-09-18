@@ -176,6 +176,13 @@ smart-window-switched-tab-label = بلگه یل جا گورو وابیڌه
 smart-window-switched-tab-summary = و “{ $title }” آلشت وابی.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = بلگه یل بونکۊ بندی نوابیڌه
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] { $count } بلگه بونکۊ بندی وو دیندا ز بونکۊ و در زیڌ.
+       *[other] { $count } بلگه بونکۊ بندی وو دیندا ز بونکۊ و در زیڌن.
+    }
 smart-window-ungrouped-row-label =
     { $count ->
         [one] { $count } بلگه بونکۊ بندی نوابیڌه
