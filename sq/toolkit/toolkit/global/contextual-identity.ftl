@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = Administroni Kontejner
     .accesskey = o
 user-context-manage-containers2 =
     .label = Administroni Kontejner
-user-context-personal2-panel-item = Personale
-user-context-work2-panel-item = Pune
-user-context-banking2-panel-item = Bankash
-user-context-shopping2-panel-item = Blerjesh
 user-context-manage-containers2-panel-item = Administroni Kontejner
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

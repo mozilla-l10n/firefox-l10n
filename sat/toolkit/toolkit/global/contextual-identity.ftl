@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = ᱫᱚᱦᱚ ᱴᱷᱟᱶ ᱵᱮᱵ�
     .accesskey = o
 user-context-manage-containers2 =
     .label = ᱫᱚᱦᱚ ᱴᱷᱟᱶ ᱵᱮᱵᱚᱥᱛᱷᱟ ᱠᱚ
-user-context-personal2-panel-item = ᱱᱚᱡᱚᱨ
-user-context-work2-panel-item = ᱠᱟᱹᱢᱤ
-user-context-banking2-panel-item = ᱵᱮᱝᱠᱤᱝ
-user-context-shopping2-panel-item = ᱠᱤᱨᱤᱧ
 user-context-manage-containers2-panel-item = ᱫᱚᱦᱚ ᱴᱷᱟᱶ ᱵᱮᱵᱚᱥᱛᱷᱟ ᱠᱚ
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Parameters da lingua per las paginas d'internet
     .style = min-width: 70em
+    .title = Parameters da lingua per las paginas d'internet
 languages-close-key =
     .key = w
 languages-description = Paginas d'internet èn mintgatant disponiblas en pliras linguas. Tscherna las linguas per mussar questas paginas, en la successiun da tia preferenza
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Parameters da lingua da { -brand-short-name }
     .style = min-width: 50em
+    .title = Parameters da lingua da { -brand-short-name }
 browser-languages-description = { -brand-short-name } vegn a duvrar l'emprima lingua sco standard e sche necessari las linguas suandantas tenor lur successiun en la glista.
 browser-languages-search = Tschertgar ulteriuras linguas…
 browser-languages-searching =

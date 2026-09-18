@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Танзимоти забони саҳифаи веб
     .style = min-width: 40em
+    .title = Танзимоти забони саҳифаи веб
 languages-close-key =
     .key = w
 languages-description = Баъзе вақт саҳифаҳои сомона дар зиёда аз як забон дастрасанд. Забонҳоро мувофиқи афзалияти худ интихоб карда, барои намоиш дар чунин саҳифаҳои сомона ба тартиб дароред.
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Танзимоти забони «{ -brand-short-name }»
     .style = min-width: 40em
+    .title = Танзимоти забони «{ -brand-short-name }»
 browser-languages-description = «{ -brand-short-name }» забони якумро ҳамчун забони пешфарз нишон медиҳад ва агар лозим бошад, забонҳои дигарро аз рӯи тартиби онҳо нишон медиҳад.
 browser-languages-search = Ҷустуҷӯи забонҳои бештар…
 browser-languages-searching =

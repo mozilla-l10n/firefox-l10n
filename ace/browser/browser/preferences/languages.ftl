@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Setel basa laman web
     .style = min-width: 40em
+    .title = Setel basa laman web
 languages-close-key =
     .key = w
 languages-description = Ônwèb nyoë meujan-jan dipeutaba leubèh dari saboh basa. Piléh basa untôk peuleumah nibak ônwèb nyoë, nyang meu-urôt seusuwai deungon préfèren
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Peuatô Bahsa { -brand-short-name }
     .style = min-width: 40em
+    .title = Peuatô Bahsa { -brand-short-name }
 browser-languages-search = mita lam basa laen
 browser-languages-searching =
     .label = Teungöh mita basa…

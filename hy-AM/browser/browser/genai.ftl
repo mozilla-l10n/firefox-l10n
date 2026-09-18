@@ -52,8 +52,8 @@ genai-menu-remove-sidebar =
     .label = Հեռացնել կողային վահանակից
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Հարցրեք { $provider }-ին
     .aria-label = Հարցրեք { $provider }-ին
+    .tooltiptext = Հարցրեք { $provider }-ին
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Հարցրեք { $provider }-ին
@@ -106,9 +106,6 @@ genai-options-hide-shortcut =
     .label = Թաքցնել դյուրանցումը տեքստ ընտրելիս
 genai-options-about-chatbot =
     .label = ԱԲ չաթբոտերի մասին { -brand-short-name }-ում
-
-## Chatbot message
-
 
 ## Chatbot footer
 

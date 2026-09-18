@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Tungumálastillingar vefsíðu
     .style = min-width: 40em
+    .title = Tungumálastillingar vefsíðu
 languages-close-key =
     .key = w
 languages-description = Vefsíður eru oft í boði á mörgum tungumálum. Veldu forgangsröð þeirra tungumála sem vefsíður eiga að birtast á
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Stillingar { -brand-short-name }
     .style = min-width: 40em
+    .title = Stillingar { -brand-short-name }
 browser-languages-description = { -brand-short-name } sýnir fyrsta tungumálið sem þitt sjálfgefna val og sýnir önnur tungumál ef nauðsynlegt er í þeirri röð sem þau birtast.
 browser-languages-search = Leita að fleiri tungumálum...
 browser-languages-searching =

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = వెబ్‌పేజీ భాష అమరికలు
     .style = min-width: 40em
+    .title = వెబ్‌పేజీ భాష అమరికలు
 languages-close-key =
     .key = w
 languages-description = జాల పేజీలు కొన్నిసార్లు ఒకటి కన్నా ఎక్కువ భాషలలో లభ్యమవుతాయి. ఏయే భాషలలో జాల పేజీలను చూపించాలో ఆ క్రమంలో భాషలను ఎంచుకోండి
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } భాష అమరికలు
     .style = min-width: 40em
+    .title = { -brand-short-name } భాష అమరికలు
 browser-languages-search = మరిన్ని భాషలకోసం వెతకండి…
 browser-languages-searching =
     .label = భాషల కోసం వెతుకుతున్నది…

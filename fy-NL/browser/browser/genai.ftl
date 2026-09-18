@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Fuortsmite út sydbalke
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = { $provider } freegje
     .aria-label = { $provider } freegje
+    .tooltiptext = { $provider } freegje
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } freegje

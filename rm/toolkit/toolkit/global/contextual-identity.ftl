@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = Administrar ils containers
     .accesskey = A
 user-context-manage-containers2 =
     .label = Administrar ils containers
-user-context-personal2-panel-item = Privat
-user-context-work2-panel-item = Lavur
-user-context-banking2-panel-item = Banca
-user-context-shopping2-panel-item = Cumpras
 user-context-manage-containers2-panel-item = Administrar ils containers
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

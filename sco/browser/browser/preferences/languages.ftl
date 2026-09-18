@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Wabpage Leid Settins
     .style = min-width: 40em
+    .title = Wabpage Leid Settins
 languages-close-key =
     .key = w
 languages-description = Whiles, wab pages are available in mair nor ane leid. Wale leids fur kythin these wab pages, in order o preference
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Leid Settins
     .style = min-width: 40em
+    .title = { -brand-short-name } Leid Settins
 browser-languages-description = { -brand-short-name } will kythe the first leid as yer staunart and will kythe ither leids if necessar in the order they shaw up.
 browser-languages-search = Sairch fur mair leids…
 browser-languages-searching =

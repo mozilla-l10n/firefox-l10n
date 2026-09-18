@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Gỡ khỏi thanh lề
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Hỏi { $provider }
     .aria-label = Hỏi { $provider }
+    .tooltiptext = Hỏi { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Hỏi { $provider }

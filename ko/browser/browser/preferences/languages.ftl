@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = 웹 페이지 언어 설정
     .style = min-width: 40em
+    .title = 웹 페이지 언어 설정
 languages-close-key =
     .key = w
 languages-description = 웹 페이지는 여러 언어로 제공되는 경우가 있습니다. 이런 웹 페이지를 표시할 언어를 선호하는 순서대로 선택하세요
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } 언어 설정
     .style = min-width: 40em
+    .title = { -brand-short-name } 언어 설정
 browser-languages-description = { -brand-short-name }가 첫번째 언어를 기본 언어로 표시하고 필요한 경우 순서대로 대체 언어를 표시합니다.
 browser-languages-search = 다른 언어 검색…
 browser-languages-searching =

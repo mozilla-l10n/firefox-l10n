@@ -51,10 +51,6 @@ user-context-new-tab2 =
     .label = แท็บใหม่
 user-context-manage-containers2 =
     .label = จัดการที่แยกข้อมูล
-user-context-personal2-panel-item = ส่วนบุคคล
-user-context-work2-panel-item = งาน
-user-context-banking2-panel-item = ธนาคาร
-user-context-shopping2-panel-item = การซื้อของ
 user-context-new-tab2-panel-item = แท็บใหม่
 user-context-manage-containers2-panel-item = จัดการที่แยกข้อมูล
 

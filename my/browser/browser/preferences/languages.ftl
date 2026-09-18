@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ဝဘ်စာမျက်နှာ ဘာသာစကား အပြင်အဆင်များ
     .style = min-width: 40em
+    .title = ဝဘ်စာမျက်နှာ ဘာသာစကား အပြင်အဆင်များ
 languages-close-key =
     .key = w
 languages-description = ဝဘ်စာမျက်နှာများသည် တစ်ခါတစ်ရံ ဘာသာစကားတစ်ခုထက်ပို၍ အသုံးပြုခွင့်ပေးသည်။ ထိုဝဘ်စာမျက်နှာများကို ပြရန် ဘာသာစကားများကို အစဉ်အလိုက် ရွေးပါ။
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } ဘာသာစကား အပြင်အဆင်များ
     .style = min-width: 40em
+    .title = { -brand-short-name } ဘာသာစကား အပြင်အဆင်များ
 browser-languages-description = { -brand-short-name } သည် ပထမဦးစွာ ရွေးချယ်ထားသော ဘာသာစကားဖြင့် မူသေအနေနှင့် ပြသပါမည်။ ထိုဘာသာဖြင့် မပြသနိုင်ပါက နောက်ရွေးချယ်ထားသော ဘာသာစကားဖြင့် ပြသပါမည်။
 browser-languages-search = အခြားဘာသာစကားများကို ရှာဖွေပါ...
 browser-languages-searching =

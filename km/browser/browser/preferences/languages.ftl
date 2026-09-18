@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ការកំណត់ភាសាទំព័រវិប
     .style = min-width: 40em
+    .title = ការកំណត់ភាសាទំព័រវិប
 languages-close-key =
     .key = w
 languages-description = ពេល​ខ្លះ ទំព័របណ្តាញត្រូវបានផ្តល់ជូន​​ច្រើន​ជាង​មួយភាសា។ ជ្រើសរើសភាសា ដើម្បីបង្ហាញទំព័របណ្ដាញទាំងនេះតាមលំដាប់ដែលអ្នកពេញចិត្ត
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = ការកំណត់ភាសា { -brand-short-name }
     .style = min-width: 40em
+    .title = ការកំណត់ភាសា { -brand-short-name }
 browser-languages-search = ស្វែងរក​ភាសា​ច្រើន​ទៀត...
 browser-languages-searching =
     .label = កំពុង​ស្វែង​រក​ភាសា...

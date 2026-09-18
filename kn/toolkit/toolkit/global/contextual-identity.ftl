@@ -37,10 +37,6 @@ user-context-banking-panel-item = ಬ್ಯಾಂಕಿಂಗ್
     .accesskey = B
 user-context-shopping-panel-item = ಶಾಪಿಂಗ್
     .accesskey = S
-user-context-personal2-panel-item = ವೈಯಕ್ತಿಕ
-user-context-work2-panel-item = ಕೆಲಸ
-user-context-banking2-panel-item = ಬ್ಯಾಂಕಿಂಗ್
-user-context-shopping2-panel-item = ಶಾಪಿಂಗ್
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

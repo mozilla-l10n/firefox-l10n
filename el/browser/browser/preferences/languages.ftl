@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Ρυθμίσεις γλώσσας ιστοσελίδων
     .style = min-width: 40em
+    .title = Ρυθμίσεις γλώσσας ιστοσελίδων
 languages-close-key =
     .key = w
 languages-description = Μερικές φορές, οι ιστοσελίδες προσφέρονται σε περισσότερες από μία γλώσσες. Επιλέξτε τις γλώσσες εμφάνισης αυτών των ιστοσελίδων, σε σειρά προτίμησης
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Ρυθμίσεις γλώσσας του { -brand-short-name }
     .style = min-width: 40em
+    .title = Ρυθμίσεις γλώσσας του { -brand-short-name }
 browser-languages-description = Το { -brand-short-name } θα εμφανίζει την πρώτη γλώσσα ως την προεπιλεγμένη και θα προβάλει εναλλακτικές γλώσσες με τη σειρά που φαίνονται, αν είναι απαραίτητο.
 browser-languages-search = Αναζήτηση περισσότερων γλωσσών…
 browser-languages-searching =

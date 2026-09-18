@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Rěcne nastajenja webboka
     .style = min-width: 40em
+    .title = Rěcne nastajenja webboka
 languages-close-key =
     .key = w
 languages-description = Webboki stoje wótergi we wěcej nježli jadnej rěcy k dispoziciji. Wubjeŕśo rěcy za pśedstajanje webbokow w swójom preferěrowanem pórěźe
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Rěcne nastajenja { -brand-short-name }
     .style = min-width: 40em
+    .title = Rěcne nastajenja { -brand-short-name }
 browser-languages-description = { -brand-short-name } pokažo prědnu rěc ako waš standard a dalšne rěcy, jolic trjeba, w pórěźe, w kótaremž se zjewijo.
 browser-languages-search = Dalšne rěcy pytaś…
 browser-languages-searching =

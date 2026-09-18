@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Gosodiadau Iaith Tudalen Gwe
     .style = min-width: 40em
+    .title = Gosodiadau Iaith Tudalen Gwe
 languages-close-key =
     .key = w
 languages-description = Mae tudalennau gwe weithiau'n cael eu cynnig mewn mwy nag un iaith. Dewiswch ieithoedd i'w harddangos, yn nhrefn dewis
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Gosodiadau Iaith
     .style = min-width: 40em
+    .title = { -brand-short-name } Gosodiadau Iaith
 browser-languages-description = Bydd { -brand-short-name } yn dangos yr iaith gyntaf fel eich rhagosodedig a bydd yn danogs ieithoedd eraill yn y drefn fyddan nhw'n ymddangos.
 browser-languages-search = Chwilio am ragor o ieithoedd…
 browser-languages-searching =

@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Generative AI (GenAI) Settings section
-
-
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
 ## These prompts have been made concise and direct in English because some chatbot providers
@@ -33,8 +30,8 @@ genai-menu-remove-generic =
     .label = Tirar lo robòt de convèrsa d’IA
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Demandar a { $provider }
     .aria-label = Demandar a { $provider }
+    .tooltiptext = Demandar a { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Demandar a { $provider }
@@ -59,9 +56,6 @@ genai-header-close-button =
 genai-options-reload-generic =
     .label = Recargar lo robòt de convèrsa d’IA
 
-## Chatbot message
-
-
 ## Chatbot footer
 
 genai-page-button-summarize = Resumir la pagina
@@ -83,9 +77,6 @@ genai-onboarding-huggingchat-tooltip =
 genai-chatbot-contextual-button = Causir un robòt de convèrsa
 genai-chatbot-summarize-title = Nòu ! Resumissètz las paginas en un clic
 genai-chatbot-summarize-button = Resumir la pagina
-
-## Model Optin Component
-
 
 ## Link previews
 

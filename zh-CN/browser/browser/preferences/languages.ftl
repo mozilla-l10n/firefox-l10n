@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = 网页语言设置
     .style = min-width: 40em
+    .title = 网页语言设置
 languages-close-key =
     .key = w
 languages-description = 某些网页有多种语言可供选择。请选择此类网页应显示的语言，按偏好从上到下排列：
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } 语言设置
     .style = min-width: 40em
+    .title = { -brand-short-name } 语言设置
 browser-languages-description = { -brand-short-name } 将显示的第一个语言作为您的默认语言，并在必要时按语言的顺序显示备用语言。
 browser-languages-search = 搜索更多语言…
 browser-languages-searching =

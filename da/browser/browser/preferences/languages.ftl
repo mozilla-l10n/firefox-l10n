@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Indstillinger for sprog på websider
     .style = min-width: 40em
+    .title = Indstillinger for sprog på websider
 languages-close-key =
     .key = w
 languages-description = Websider tilbydes nogle gange på mere end et sprog. Vælg de sprog, du ønsker siderne vist på, i prioriteret rækkefølge
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Indstillinger for sprog i { -brand-short-name }
     .style = min-width: 40em
+    .title = Indstillinger for sprog i { -brand-short-name }
 browser-languages-description = { -brand-short-name } vil som standard vise det første sprog, og vil om nødvendigt vise alternative sprog i den valgte rækkefølge.
 browser-languages-search = Søg efter flere sprog…
 browser-languages-searching =

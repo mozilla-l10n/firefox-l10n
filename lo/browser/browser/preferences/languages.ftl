@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ການຕັ້ງຄ່າພາສາໜ້າເວັບ
     .style = min-width: 40em
+    .title = ການຕັ້ງຄ່າພາສາໜ້າເວັບ
 languages-close-key =
     .key = w
 languages-description = ບາງຄັ້ງໜ້າເວັບອາດນຳສະເໜີຫຼາຍກວ່າໜຶ່ງພາສາ. ເລືອກພາສາສຳລັບສະແດງຜົນໜ້າເວັບເຫຼົ່ານີ້ຕາມລຳດັບທີ່ຕ້ອງການ
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } ຕັ້ງຄ່າພາສາ
     .style = min-width: 40em
+    .title = { -brand-short-name } ຕັ້ງຄ່າພາສາ
 browser-languages-description = { -brand-short-name } ຈະສະແດງພາສາທໍາອິດເປັນຄ່າເລີ່ມຕົ້ນຂອງທ່ານແລະຈະສະແດງພາສາອື່ນໆຖ້າຕ້ອງການໃນຄໍາສັ່ງທີ່ປາກົດ.
 browser-languages-search = ຊອກຫາພາສາອື່ນຕືມອີກ...
 browser-languages-searching =

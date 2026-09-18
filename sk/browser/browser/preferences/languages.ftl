@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Jazyk webových stránok
     .style = min-width: 40em
+    .title = Jazyk webových stránok
 languages-close-key =
     .key = w
 languages-description = Webové stránky sú niekedy ponúkané vo viac než jednom jazyku. Vyberte jazyky takýchto stránok v poradí podľa svojej priority
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Jazyk prehliadača { -brand-short-name }
     .style = min-width: 40em
+    .title = Jazyk prehliadača { -brand-short-name }
 browser-languages-description = { -brand-short-name } zobrazí používateľské rozhranie v prvom vybranom jazyku. Ostatné použije podľa potreby a to vo vybranom poradí.
 browser-languages-search = Vyhľadať ďalšie jazyky…
 browser-languages-searching =

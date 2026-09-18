@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Nasztalowania godki na strōnach
     .style = min-width: 40em
+    .title = Nasztalowania godki na strōnach
 languages-close-key =
     .key = w
 languages-description = Niykere strōny sōm dostympne we wiyncyj jak jednyj godce. Ôbier godki do pokazowanio tych strōn i raja ich ważności.
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Nasztalowania godki aplikacyje { -brand-short-name }
     .style = min-width: 40em
+    .title = Nasztalowania godki aplikacyje { -brand-short-name }
 browser-languages-description = { -brand-short-name } bydzie bazowo pokazowoł piyrszo godka, a inksze jak bydzie trza - podug tego, w jakij stojōm raji.
 browser-languages-search = Szukej za inkszymi godkami…
 browser-languages-searching =

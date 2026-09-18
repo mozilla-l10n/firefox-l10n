@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Impostazions lenghe des pagjinis web
     .style = min-width: 40em
+    .title = Impostazions lenghe des pagjinis web
 languages-close-key =
     .key = w
 languages-description = Cualchi volte lis pagjinis web a vegnin ufiertis in plui di une lenghe. Sielç lis lenghis pe visualizazion di chês pagjinis, in ordin di preference.
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Impostazions lenghe di { -brand-short-name }
     .style = min-width: 40em
+    .title = Impostazions lenghe di { -brand-short-name }
 browser-languages-description = { -brand-short-name } al mostrarà la prime lenghe come predefinide e, se al covente, al visualizarà lis lenghis alternativis, daûr dal ordin che a vegnin mostradis.
 browser-languages-search = Cîr altris lenghis…
 browser-languages-searching =

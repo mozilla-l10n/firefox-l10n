@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Lingvaj agordoj por retpaĝoj
     .style = min-width: 40em
+    .title = Lingvaj agordoj por retpaĝoj
 languages-close-key =
     .key = w
 languages-description = Retpaĝoj estas kelkfoje proponitaj en pli ol unu lingvo. Elektu la lingvojn por montri tiujn paĝojn, ordigitaj laŭ prefero.
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Lingvaj agordoj de { -brand-short-name }
     .style = min-width: 40em
+    .title = Lingvaj agordoj de { -brand-short-name }
 browser-languages-description = { -brand-short-name } montros la unuan lingvon kiel vian norman, kaj montros alternativajn lingvojn, se bezonatas, en la ordo en kiu ili aperas.
 browser-languages-search = Serĉi pli da lingvoj…
 browser-languages-searching =

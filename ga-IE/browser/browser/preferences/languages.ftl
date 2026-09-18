@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Socruithe Teanga an Leathanaigh Ghréasáin
     .style = min-width: 40em
+    .title = Socruithe Teanga an Leathanaigh Ghréasáin
 languages-close-key =
     .key = w
 languages-customize-moveup =
@@ -36,8 +36,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Socruithe Teanga { -brand-short-name }
     .style = min-width: 40em
+    .title = Socruithe Teanga { -brand-short-name }
 browser-languages-search = Lorg teangacha breise…
 browser-languages-searching =
     .label = Ag lorg teangacha…

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ვებგვერდის ენის პარამეტრები
     .style = min-width: 40em
+    .title = ვებგვერდის ენის პარამეტრები
 languages-close-key =
     .key = w
 languages-description = ვებგვერდები ხანდახან ერთზე მეტ ენაზეა შემოთავაზებული. აირჩიეთ ასეთი გვერდებისთვის სასურველი ენები უპირატესობის მიხედვით
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } – ენის პარამეტრები
     .style = min-width: 40em
+    .title = { -brand-short-name } – ენის პარამეტრები
 browser-languages-description = { -brand-short-name } აჩვენებს პირველ ენას ნაგულისხმევად, ხოლო საჭიროების შემთხვევაში დამატებითს, რიგითობის შესაბამისად.
 browser-languages-search = სხვა ენების ძიება...
 browser-languages-searching =

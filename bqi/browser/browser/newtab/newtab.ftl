@@ -308,9 +308,6 @@ newtab-picture-show-button =
 newtab-recent-searches-widget-title = پیتینیڌنا دیندایی
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = پیتینیڌن
 # Screen reader label for the widget's icon-only menu button.

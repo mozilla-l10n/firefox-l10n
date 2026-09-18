@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Usuń z panelu bocznego
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Zapytaj { $provider }
     .aria-label = Zapytaj { $provider }
+    .tooltiptext = Zapytaj { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Zapytaj { $provider }

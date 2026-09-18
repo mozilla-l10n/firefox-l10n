@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Emoĩporã  ñe’ẽ ñanduti kuatiaroguépe
     .style = min-width: 40em
+    .title = Emoĩporã  ñe’ẽ ñanduti kuatiaroguépe
 languages-close-key =
     .key = w
 languages-description = Ñanduti kuatiarogue oñekuave’ẽva ndaha’éi ñe’ẽme año. Eiporavo umi ñe’ẽ ojehecha hag̃ua ko’ã ñanduti kuatiarogue, jerohoryvéva rupi
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } ñe’ẽ ñemboheko
     .style = min-width: 40em
+    .title = { -brand-short-name } ñe’ẽ ñemboheko
 browser-languages-description = { -brand-short-name } ohechaukáta ñe’ẽ peteĩha ijypykuévaramo ha avei ohechaukáta ñe’ẽ mokõiguáva oikotevẽramo tysýipe oĩháicha.
 browser-languages-search = Ehekave ñe’ẽ…
 browser-languages-searching =

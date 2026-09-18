@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Mpustazzioni lingua dâ pàggina
     .style = min-width: 40em
+    .title = Mpustazzioni lingua dâ pàggina
 languages-close-key =
     .key = w
 languages-description = I pàggini certi voti vennu furnuti nna cchiù assai di na lingua. Scarta i lingui pi mustrari sti pàggini, ’n ùrdini di prifirenza
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Mpustazzioni lingua { -brand-short-name }
     .style = min-width: 40em
+    .title = Mpustazzioni lingua { -brand-short-name }
 browser-languages-description = { -brand-short-name } mustrarà a prima lingua comu pridifinuta e si serbi mustrarà autri lingui nna l’ùrdini ca cumparìscinu.
 browser-languages-search = Riscedi autri lingui…
 browser-languages-searching =

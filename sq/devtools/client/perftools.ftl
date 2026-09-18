@@ -109,16 +109,6 @@ perftools-onboarding-close-button =
 
 ## Profiler presets
 
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.jsm.js
-# The same labels and descriptions are also defined in appmenu.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/shared/background.sys.mjs
-# The same labels and descriptions are also defined in appmenu.ftl.
-
 perftools-presets-web-developer-label = Zhvillues Web
 perftools-presets-web-developer-description = Profil i gatshëm i rekomanduar për shumicën e diagnostikimit të aplikacioneve web, me kokëçarje të pakta.
 perftools-presets-firefox-label = { -brand-shorter-name }

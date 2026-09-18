@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Cài đặt ngôn ngữ của trang web
     .style = min-width: 40em
+    .title = Cài đặt ngôn ngữ của trang web
 languages-close-key =
     .key = w
 languages-description = Một số trang web có thể cung cấp nhiều ngôn ngữ. Chọn ngôn ngữ để hiển thị các trang web này, theo thứ tự ưu tiên
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Cài đặt ngôn ngữ { -brand-short-name }
     .style = min-width: 40em
+    .title = Cài đặt ngôn ngữ { -brand-short-name }
 browser-languages-description = { -brand-short-name } sẽ hiển thị ngôn ngữ mà bạn đã chọn làm mặc định và sẽ hiển thị ngôn ngữ khác nếu cần thiết được sắp xếp theo thứ tự mà chúng xuất hiện.
 browser-languages-search = Tìm thêm ngôn ngữ…
 browser-languages-searching =

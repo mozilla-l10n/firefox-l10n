@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = Porvaļdēt skreines
     .accesskey = O
 user-context-manage-containers2 =
     .label = Porvaļdēt skreines
-user-context-personal2-panel-item = Personeigais
-user-context-work2-panel-item = Work
-user-context-banking2-panel-item = Banking
-user-context-shopping2-panel-item = Shopping
 user-context-manage-containers2-panel-item = Porvaļdēt skreines
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

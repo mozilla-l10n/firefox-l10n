@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Setări privind limba pe paginile web
     .style = min-width: 40em
+    .title = Setări privind limba pe paginile web
 languages-close-key =
     .key = w
 languages-description = Paginile web sunt oferite uneori în mai multe limbi. Selectează limbile pentru afișarea acestor pagini web, în ordinea preferințelor
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Setări de limbă { -brand-short-name }
     .style = min-width: 40em
+    .title = Setări de limbă { -brand-short-name }
 browser-languages-description = { -brand-short-name } va afișa limba implicită pe prima poziție și pe cele alternative, dacă este necesar, în ordinea în care apar.
 browser-languages-search = Caută mai multe limbi...
 browser-languages-searching =

@@ -500,9 +500,6 @@ newtab-recent-searches-just-now = Justo ahora
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Eliminar “{ $search }” de las búsquedas recientes
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Buscar
 # Screen reader label for the widget's icon-only menu button.

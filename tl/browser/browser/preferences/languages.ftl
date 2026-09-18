@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Mga Setting ng Lingwahe sa Webpage
     .style = min-width: 40em
+    .title = Mga Setting ng Lingwahe sa Webpage
 languages-close-key =
     .key = w
 languages-description = Minsan, ang mga web page ay inihahandog nang higit sa isang wika. Pumili ng mga wika sa pagpapakita ng mga web page na ito, ayon sa kagustuhan mo
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Mga Setting sa Lingwahe
     .style = min-width: 40em
+    .title = { -brand-short-name } Mga Setting sa Lingwahe
 browser-languages-description = { -brand-short-name } will display the first language as your default and will display alternate languages if necessary in the order they appear.
 browser-languages-search = Maghanap ng iba pang wika...
 browser-languages-searching =

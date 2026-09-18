@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = تنظیمات زبان صفحه وب
     .style = min-width: 40em
+    .title = تنظیمات زبان صفحه وب
 languages-close-key =
     .key = w
 languages-description = گاهی صفحات وب به زبان‌های دیگر هم ارائه می‌شوند. زبان‌هایی که مایلید این صفحات را ببینید را به ترتیب ترجیحات خود انتخاب کنید
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = تنظیمات زبان { -brand-short-name }
     .style = min-width: 40em
+    .title = تنظیمات زبان { -brand-short-name }
 browser-languages-description = { -brand-short-name } زبان اول را به عنوان زبان پیش‌فرض شما نشان می‌دهد و زبان‌های دیگر را در صورت نیاز به ترتیب انتخاب شده نمایش می‌دهد.
 browser-languages-search = جستجو برای زبان‌های بیشتر…
 browser-languages-searching =

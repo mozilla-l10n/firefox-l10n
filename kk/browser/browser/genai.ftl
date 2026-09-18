@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Құралдар панелінен өшіру
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = { $provider } сұрау
     .aria-label = { $provider } сұрау
+    .tooltiptext = { $provider } сұрау
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } сұрау

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Weblap nyelvi beállításai
     .style = min-width: 40em
+    .title = Weblap nyelvi beállításai
 languages-close-key =
     .key = w
 languages-description = A weboldalak néha több nyelven is elérhetőek. Adja meg sorrendben azokat a nyelveket, amelyeken az ilyen weboldalakat meg szeretné tekinteni
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } nyelvi beállítások
     .style = min-width: 40em
+    .title = { -brand-short-name } nyelvi beállítások
 browser-languages-description = A { -brand-short-name } az első nyelvet jeleníti meg alapértelmezettként, az alternatív nyelveket pedig szükség esetén a megjelenésük sorrendjében jeleníti meg.
 browser-languages-search = Több nyelv keresése…
 browser-languages-searching =

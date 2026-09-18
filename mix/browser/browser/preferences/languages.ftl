@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Sama tu'un página web
     .style = min-width: 40em
+    .title = Sama tu'un página web
 languages-close-key =
     .key = w
 languages-customize-moveup =
@@ -36,8 +36,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Sama Tu'un
     .style = min-width: 40em
+    .title = { -brand-short-name } Sama Tu'un
 browser-languages-downloading =
     .label = Snuì…
 browser-languages-select-language =

@@ -518,9 +518,6 @@ newtab-recent-searches-just-now = Runje
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” z najnowšich pytanjow wotstronić
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Pytać
 # Screen reader label for the widget's icon-only menu button.

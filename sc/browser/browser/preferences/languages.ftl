@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Cunfiguratziones de is limbas pro is pàginas web
     .style = min-width: 40em
+    .title = Cunfiguratziones de is limbas pro is pàginas web
 languages-close-key =
     .key = w
 languages-description = Is pàginas web sunt propònnidas, unas cantas bortas, in prus de una limba. Sèbera is limbas pro visualizare custas pàginas web, in òrdine de preferèntzia.
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Cunfiguratziones de limba de { -brand-short-name }
     .style = min-width: 40em
+    .title = Cunfiguratziones de limba de { -brand-short-name }
 browser-languages-description = { -brand-short-name } at a ammustrare sa prima limba comente predefinida e at a ammustrare is àteras limbas, si at a èssere netzessàriu, in òrdine de aparèntzia.
 browser-languages-search = Chirca àteras limbas…
 browser-languages-searching =

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ওয়েবপাতার ভাষা সেটিং
     .style = min-width: 40em
+    .title = ওয়েবপাতার ভাষা সেটিং
 languages-close-key =
     .key = w
 languages-description = অনেক ক্ষেত্রে ওয়েবপাতাগুলো একাধিক ভাষা সমর্থন করে। আপনার পছন্দ অনুসারে, ওয়েবপাতা প্রদর্শনের ভাষার ক্রম নির্বাচন করুন
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } ভাষা সেটিং
     .style = min-width: 40em
+    .title = { -brand-short-name } ভাষা সেটিং
 browser-languages-description = { -brand-short-name } প্রথম ভাষাকে আপনার ডিফল্ট ভাষা হিসেবে প্রদর্শন করবে এবং বিকল্প ভাষাগুলো প্রয়োজন অনুযায়ী তাদের আবির্ভাবের ক্রমানুসারে প্রদর্শন করবে।
 browser-languages-search = আরও ভাষার জন্য অনুসন্ধান করুন...
 browser-languages-searching =

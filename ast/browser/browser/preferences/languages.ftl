@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Axustes de llingua pa los sitios web
     .style = min-width: 40em
+    .title = Axustes de llingua pa los sitios web
 languages-close-key =
     .key = w
 languages-description = A vegaes, les páxines web úfrense en más d'una llingua. Escueyi les llingües p'amosar eses páxines, n'orde de preferencia
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Axustes de llingua de { -brand-short-name }
     .style = min-width: 40em
+    .title = Axustes de llingua de { -brand-short-name }
 browser-languages-description = { -brand-short-name } va usar la primer llingua predeterminada y, si ye preciso, les alternatives pol orde nel qu'apaecen.
 browser-languages-search = Buscar más llingües…
 browser-languages-searching =

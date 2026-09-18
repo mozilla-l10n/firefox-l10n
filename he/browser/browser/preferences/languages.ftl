@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = הגדרות שפת עמוד אינטרנט
     .style = min-width: 40em
+    .title = הגדרות שפת עמוד אינטרנט
 languages-close-key =
     .key = w
 languages-description = דפים מסויימים לעתים מוצעים ביותר משפה אחת. נא לציין כאן שפות להצגה לפי סדר חשיבות
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = הגדרות שפה של { -brand-short-name }
     .style = min-width: 40em
+    .title = הגדרות שפה של { -brand-short-name }
 browser-languages-description = ‏{ -brand-short-name } יציג את השפה הראשונה כברירת המחדל שלך ויציג שפות חלופיות במידת הצורך לפי סדר הופעתם.
 browser-languages-search = חיפוש אחר שפות נוספות…
 browser-languages-searching =

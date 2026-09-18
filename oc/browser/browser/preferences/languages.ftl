@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Paramètres de lenga de la pagina
     .style = min-width: 40em
+    .title = Paramètres de lenga de la pagina
 languages-close-key =
     .key = w
 languages-description = De còps las paginas web son dins mai d'una lenga. Causissètz las lengas d'afichatge d'aquestas paginas web, per òrdre de preferéncia
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Paramètres de lenga de { -brand-short-name }
     .style = min-width: 40em
+    .title = Paramètres de lenga de { -brand-short-name }
 browser-languages-description = { -brand-short-name } utilizarà la primièra lenga per defaut e se cal utilizarà las lengas alternativas dins l’òrdre qu’apareisson.
 browser-languages-search = Recercar mai de lengas…
 browser-languages-searching =

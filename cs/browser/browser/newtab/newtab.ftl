@@ -545,9 +545,6 @@ newtab-recent-searches-just-now = Právě teď
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Odstranit „{ $search }“ z nedávných vyhledávání
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Vyhledávání
 # Screen reader label for the widget's icon-only menu button.

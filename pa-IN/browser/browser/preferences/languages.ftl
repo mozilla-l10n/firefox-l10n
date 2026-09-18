@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ਵੈੱਬਪੇਜ ਭਾਸ਼ਾ ਸੈਟਿੰਗਾਂ
     .style = min-width: 40em
+    .title = ਵੈੱਬਪੇਜ ਭਾਸ਼ਾ ਸੈਟਿੰਗਾਂ
 languages-close-key =
     .key = w
 languages-description = ਵੈੱਬ ਵਰਕੇ ਕਈ ਵਾਰ ਇੱਕ ਤੋਂ ਵੱਧ ਬੋਲੀਆਂ ਵਿੱਚ ਪੇਸ਼ ਕੀਤੇ ਜਾਂਦੇ ਹਨ। ਇਹ ਵੈੱਬ ਵਰਕੇ ਦਿਖਾਉਣ ਲਈ ਤਰਜੀਹੀ ਕ੍ਰਮ ਮੁਤਾਬਕ ਬੋਲੀਆਂ ਚੁਣੋ।
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } ਭਾਸ਼ਾ ਸੈਟਿੰਗਾਂ
     .style = min-width: 40em
+    .title = { -brand-short-name } ਭਾਸ਼ਾ ਸੈਟਿੰਗਾਂ
 browser-languages-description = { -brand-short-name } ਤੁਹਾਡੀ ਡਿਫਾਲਟ ਵਾਂਗ ਪਹਿਲੀ ਭਾਸ਼ਾ ਨੂੰ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰੇਗਾ ਅਤੇ ਜੇਕਰ ਲੋੜ ਹੋਈ ਤਾਂ ਕ੍ਰਮ ਵਿੱਚ ਬਦਲਵੀਂਆਂ ਭਾਸ਼ਾਵਾਂ ਪ੍ਰਦਰਸ਼ਿਤ ਕਰਨਗੇ।
 browser-languages-search = ...ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਲਈ ਖੋਜੋ
 browser-languages-searching =

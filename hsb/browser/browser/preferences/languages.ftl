@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Rěčne nastajenja webstrony
     .style = min-width: 40em
+    .title = Rěčne nastajenja webstrony
 languages-close-key =
     .key = w
 languages-description = Webstrony so druhdy we wjace hač jednej rěči k dispoziciji steja. Wubjerće rěče za předstajenje tutych webstronow we swojim preferowanym porjedźe
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Rěčne nastajenja { -brand-short-name }
     .style = min-width: 40em
+    .title = Rěčne nastajenja { -brand-short-name }
 browser-languages-description = { -brand-short-name } pokaza prěnju rěč jako waš standard a dalše rěče, jeli trjeba, w porjedźe, w kotrymž so jewja.
 browser-languages-search = Dalše rěče pytać…
 browser-languages-searching =

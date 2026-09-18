@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Fjarlægja af hliðarstiku
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Spyrja { $provider }
     .aria-label = Spyrja { $provider }
+    .tooltiptext = Spyrja { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Spyrja { $provider }
@@ -134,9 +134,6 @@ genai-options-hide-shortcut =
     .label = Fela flýtileið þegar texti er valinn
 genai-options-about-chatbot =
     .label = Um gervigreindar-spjallkerfi í { -brand-short-name }
-
-## Chatbot message
-
 
 ## Chatbot footer
 

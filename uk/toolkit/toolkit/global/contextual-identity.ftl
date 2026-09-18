@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = Керувати контейнер�
     .accesskey = К
 user-context-manage-containers2 =
     .label = Керувати контейнерами
-user-context-personal2-panel-item = Особисте
-user-context-work2-panel-item = Робота
-user-context-banking2-panel-item = Банк
-user-context-shopping2-panel-item = Покупки
 user-context-manage-containers2-panel-item = Керувати контейнерами
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = वेबपृष्ठ भाषा सेटिंग
     .style = min-width: 40em
+    .title = वेबपृष्ठ भाषा सेटिंग
 languages-close-key =
     .key = w
 languages-description = वेब पृष्ठ कभी-कभी एकाधिक भाषाओं में प्रस्तुत किए जाते है. इनको प्रदर्शित करने के लिए वरीयता क्रम में भाषाओं को चुनें
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } भाषा सेटिंग
     .style = min-width: 40em
+    .title = { -brand-short-name } भाषा सेटिंग
 browser-languages-description = { -brand-short-name } पहली भाषा को आपके तयशुदा के रूप में प्रदर्शित करेगा और यदि वे दिखाई देने वाले क्रम में आवश्यक हों तो वैकल्पिक भाषाएँ प्रदर्शित करेगा।
 browser-languages-search = अधिक भाषाओं के लिए खोजें ...
 browser-languages-searching =

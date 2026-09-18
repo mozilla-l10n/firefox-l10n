@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ᱣᱮᱵᱽᱥᱟᱦᱴᱟ ᱯᱟᱹᱨᱥᱤ ᱥᱟᱡᱟᱣᱠᱚ
     .style = min-width: 40em
+    .title = ᱣᱮᱵᱽᱥᱟᱦᱴᱟ ᱯᱟᱹᱨᱥᱤ ᱥᱟᱡᱟᱣᱠᱚ
 languages-close-key =
     .key = w
 languages-description = ᱣᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱠᱚ ᱢᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱠᱷᱚᱱ ᱦᱚᱸ ᱡᱟᱹᱥᱛᱤ ᱨᱮ ᱛᱤᱧ ᱡᱷᱚᱜ ᱛᱟᱦᱮᱸᱱᱟ ᱾ ᱱᱚᱶᱟ ᱣᱮᱵᱽ ᱥᱟᱦᱴᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱢᱮ, ᱠᱩᱥᱤᱠᱚ ᱦᱤᱥᱟᱹᱵ ᱛᱮ
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } ᱯᱟᱹᱥᱤ ᱥᱟᱡᱟᱣ ᱠᱚ
     .style = min-width: 40em
+    .title = { -brand-short-name } ᱯᱟᱹᱥᱤ ᱥᱟᱡᱟᱣ ᱠᱚ
 browser-languages-description = { -brand-short-name } ᱟᱢᱟᱜ ᱯᱩᱭᱞᱩ ᱯᱟᱹᱨᱥᱤ ᱟᱢᱟᱜ ᱢᱩᱞ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱫᱮᱠᱷᱟᱣᱟᱭ ᱟᱨ ᱡᱩᱫᱤ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱷᱟᱱ ᱛᱷᱚᱠ ᱞᱮᱠᱷᱟᱛᱮ ᱮᱴᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱦᱚᱸ ᱫᱮᱠᱷᱟᱣᱟᱭ ᱾
 browser-languages-search = ᱟᱨᱦᱚᱸ ᱰᱷᱮᱨ ᱯᱟᱹᱨᱥᱤ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ …
 browser-languages-searching =

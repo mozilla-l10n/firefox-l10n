@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = དྲ་ངོས་ཀྱི་སྐད་ཡིག་སྒྲིག་འགོད
     .style = min-width: 40em
+    .title = དྲ་ངོས་ཀྱི་སྐད་ཡིག་སྒྲིག་འགོད
 languages-close-key =
     .key = w
 languages-description = Web pages are sometimes offered in more than one language. Choose languages for displaying these web pages, in order of preference
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name }་ཡི་སྐད་ཡིག་སྒྲིག་འགོད
     .style = min-width: 40em
+    .title = { -brand-short-name }་ཡི་སྐད་ཡིག་སྒྲིག་འགོད
 browser-languages-description = { -brand-short-name } will display the first language as your default and will display alternate languages if necessary in the order they appear.
 browser-languages-search = སྐད་རིགས་གཞན་འཚོལ་བ་་་
 browser-languages-searching =

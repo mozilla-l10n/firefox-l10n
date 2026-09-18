@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Rregullime Gjuhe Faqeje
     .style = min-width: 40em
+    .title = Rregullime Gjuhe Faqeje
 languages-close-key =
     .key = w
 languages-description = Faqet Web ndonjëherë ofrohen në më shumë se një gjuhë. Zgjidhni gjuhët për shfaqje të këtyre faqeve, sipas radhës së parapëlqimeve
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Rregullime Gjuhe { -brand-short-name }-i
     .style = min-width: 40em
+    .title = Rregullime Gjuhe { -brand-short-name }-i
 browser-languages-description = { -brand-short-name }-i do të shfaqë gjuhën e parë si parazgjedhjen tuaj dhe, në u dashtë,  do të shfaqë gjuhë alternative sipas radhës që shfaqen.
 browser-languages-search = Kërkoni për më tepër gjuhë…
 browser-languages-searching =

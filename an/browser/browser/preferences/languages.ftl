@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Achustes d'idioma d'as pachinas web
     .style = min-width: 40em
+    .title = Achustes d'idioma d'as pachinas web
 languages-close-key =
     .key = w
 languages-description = Bellas pachinas web puede ofrir-se en mas d'una luenga. Triga los idiomas en que quiers que s'amuestren estas pachinas webs, en orden de preferencia
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Achustes d'idioma
     .style = min-width: 40em
+    .title = { -brand-short-name } Achustes d'idioma
 browser-languages-description = { -brand-short-name } fará servir lo primer idioma como valor per defecto y amostrar los idiomas alternativos si ye necesario, en l'orden en que i amaneixen.
 browser-languages-search = Buscar mas idiomas...
 browser-languages-searching =

@@ -51,10 +51,6 @@ user-context-new-tab2 =
     .label = Варақаи нав
 user-context-manage-containers2 =
     .label = Идоракунии дарбаргирандаҳо
-user-context-personal2-panel-item = Шахсӣ
-user-context-work2-panel-item = Корӣ
-user-context-banking2-panel-item = Бонкӣ
-user-context-shopping2-panel-item = Харидорӣ
 user-context-new-tab2-panel-item = Варақаи нав
 user-context-manage-containers2-panel-item = Идоракунии дарбаргирандаҳо
 

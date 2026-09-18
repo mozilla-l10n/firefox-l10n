@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Z bocnice wótwónoźeś
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = { $provider } se pšašaś
     .aria-label = { $provider } se pšašaś
+    .tooltiptext = { $provider } se pšašaś
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } se pšašaś

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Վեբ էջի լեզվի կարգավորումներ
     .style = min-width: 45em
+    .title = Վեբ էջի լեզվի կարգավորումներ
 languages-close-key =
     .key = w
 languages-description = Վեբ էջերը հաճախ լինում են մեկից ավելի լեզուներով: Ընտրեք լեզուներ՝ այդպիսի էջերը ցուցադրելու համար՝ համաձայն նախընտրույան
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name }-ի լեզվի կարգավորումներ
     .style = min-width: 45em
+    .title = { -brand-short-name }-ի լեզվի կարգավորումներ
 browser-languages-description = { -brand-short-name }-ը կցուցադրի առաջին լեզուն որպես սկզբնադիր և կցուցադրի այլ լեզուներ, եթե անհրաժեշտ լինի:
 browser-languages-search = Որոնել այլ լեզուներ...
 browser-languages-searching =

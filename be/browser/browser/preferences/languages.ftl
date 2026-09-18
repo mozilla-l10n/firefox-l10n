@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Налады мовы вэб-старонак
     .style = min-width: 40em
+    .title = Налады мовы вэб-старонак
 languages-close-key =
     .key = w
 languages-description = Часам старонкі сеціва даступны на некалькіх мовах. Выберыце мовы для прагляду такіх старонак, у парадку прыярытэту
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Налады мовы { -brand-short-name }
     .style = min-width: 40em
+    .title = Налады мовы { -brand-short-name }
 browser-languages-description = { -brand-short-name } тыпова будзе паказваць старонкі першай мовай у спісе, а іншыя мовы, калі спатрэбіцца, у азначаным парадку.
 browser-languages-search = Пошук іншых моў ...
 browser-languages-searching =

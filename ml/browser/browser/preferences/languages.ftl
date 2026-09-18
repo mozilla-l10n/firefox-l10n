@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = വെബ്ത്താൾ ഭാഷ ക്രമീകരണങ്ങൾ
     .style = min-width: 40em
+    .title = വെബ്ത്താൾ ഭാഷ ക്രമീകരണങ്ങൾ
 languages-close-key =
     .key = w
 languages-description = വെബ് പേജുകള്‍ ചിലപ്പോള്‍ ഒന്നിലേറെ ഭാ‍ഷകളില്‍ ലഭ്യമാവാറുണ്ട്. ഇവ ഏത് ക്രമത്തില്‍ കാണണം എന്നതനിനുസരിച്ച് ഭാഷകള്‍ തിര‍‍ഞ്ഞെടുക്കുക
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } ഭാഷ ക്രമീകരണങ്ങൾ
     .style = min-width: 40em
+    .title = { -brand-short-name } ഭാഷ ക്രമീകരണങ്ങൾ
 browser-languages-description = { -brand-short-name } താങ്ങളുടെ തനതായ ആദ്യ ഭാഷ പ്രദർശിപ്പിക്കുകയും ആവശ്യമെങ്കിൽ ഇതര ഭാഷകൾ ദൃശ്യമാകുന്ന ക്രമത്തിൽ പ്രദർശിപ്പിക്കുകയും ചെയ്യും.
 browser-languages-search = ഇനിയും ഭാഷകൾക്കായി പരതുക...
 browser-languages-searching =

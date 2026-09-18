@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Eltávolítás az oldalsávról
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = A(z) { $provider } megkérdezése
     .aria-label = A(z) { $provider } megkérdezése
+    .tooltiptext = A(z) { $provider } megkérdezése
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = A(z) { $provider } megkérdezése

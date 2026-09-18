@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Nagi'io' nej nânj a'mi' guenda sitio web
     .style = min-width: 40em
+    .title = Nagi'io' nej nânj a'mi' guenda sitio web
 languages-close-key =
     .key = w
 languages-description = Hua daj nī nej pajina web na ni ga'ue nachrun' ga'ì nânj a'mi'. Ganahui ahuin si ni'ñanjt.
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } nagi'io' nânj a'mi'
     .style = min-width: 40em
+    .title = { -brand-short-name } nagi'io' nânj a'mi'
 browser-languages-description = { -brand-short-name } digan asini ma nej nânj ni'ñu' doj ni ne' rukù ni'io' da' niko' ma.
 browser-languages-search = Nana'ui' a'ngò nânj a'mi'...
 browser-languages-searching =

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Ustawienia językowe stron WWW
     .style = min-width: 35em
+    .title = Ustawienia językowe stron WWW
 languages-close-key =
     .key = w
 languages-description = Niektóre strony internetowe dostępne są w wielu wersjach językowych. Ustal listę kolejno preferowanych języków dla tego rodzaju stron.
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Ustawienia języka przeglądarki { -brand-short-name }
     .style = min-width: 37em
+    .title = Ustawienia języka przeglądarki { -brand-short-name }
 browser-languages-description = { -brand-short-name } będzie domyślnie wyświetlał pierwszy język z listy. W razie potrzeby następne języki będą używane kolejno.
 browser-languages-search = Wyszukaj więcej języków…
 browser-languages-searching =

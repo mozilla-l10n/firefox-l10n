@@ -14,13 +14,6 @@ genai-settings-chat-lechat-links-2 = בחירה ב־Mistral Vibe מהווה הס
 genai-settings-chat-lechat-links = בחירה ב־Le Chat Mistral מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות</a> ול<a data-l10n-name="link2">מדיניות הפרטיות</a> של Mistral AI.
 genai-settings-chat-localhost-links = ניתן לספק צ’אטבוט מקומי פרטי משלך כמו למשל <a data-l10n-name="link1">llamafile</a> מקבוצת החדשנות של { -vendor-short-name }.
 
-## Chatbot prompts
-## Prompts are plain language ‘instructions’ sent to a chatbot.
-## These prompts have been made concise and direct in English because some chatbot providers
-## have character restrictions and being direct reduces the chance for misinterpretation.
-## When localizing, please be concise and direct, but not at the expense of losing meaning.
-
-
 ## Chatbot menu shortcuts
 
 genai-menu-open-generic =
@@ -37,8 +30,8 @@ genai-menu-remove-sidebar =
     .label = הסרה מסרגל הצד
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = לשאול את { $provider }
     .aria-label = לשאול את { $provider }
+    .tooltiptext = לשאול את { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = לשאול את { $provider }

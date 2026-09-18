@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Veebilehtede keele-eelistused
     .style = min-width: 40em
+    .title = Veebilehtede keele-eelistused
 languages-close-key =
     .key = w
 languages-description = Veebilehti pakutakse mõnikord mitmes keeles. Vali vastavalt oma eelistuste järjekorrale keeled, milles selliseid lehti kuvatakse
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name }i keele-eelistused
     .style = min-width: 40em
+    .title = { -brand-short-name }i keele-eelistused
 browser-languages-description = { -brand-short-name } kuvab esimest keelt vaikeväärtusena ja teisi keeli vastavalt vajadusele nende esinemise järjekorras.
 browser-languages-search = Otsi rohkem keeli…
 browser-languages-searching =

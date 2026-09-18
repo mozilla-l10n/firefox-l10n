@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Iɣewwaṛen n Tutlayt n Usebter Web
     .style = min-width: 40em
+    .title = Iɣewwaṛen n Tutlayt n Usebter Web
 languages-close-key =
     .key = w
 languages-description = Kra n yisebtar web ttunefkayen-d deg waṭas n tutlayin. Fren tutlayin iwakken ad tsekneḍ isebtar-a akken i tesmenyafeḍ
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Iɣewwaṛen n Tutlayt
     .style = min-width: 40em
+    .title = { -brand-short-name } Iɣewwaṛen n Tutlayt
 browser-languages-description = { -brand-short-name } Ad yesken tutlayt tamezwarut d tutlayt-ik amezwer u ad yesken tutlayin nniḍen ma yessefk s umsizwer akken i d-tbanent.
 browser-languages-search = Nadi ugar n tutlayin...
 browser-languages-searching =

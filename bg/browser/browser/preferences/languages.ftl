@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Настройки на езика на страницата
     .style = min-width: 40em
+    .title = Настройки на езика на страницата
 languages-close-key =
     .key = w
 languages-description = Някои страници се предлагат на повече от един език. Подредете езиците, на които желаете такива страници да бъдат показвани, в реда на вашето предпочитание
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Настройки на езика на { -brand-short-name }
     .style = min-width: 40em
+    .title = Настройки на езика на { -brand-short-name }
 browser-languages-description = { -brand-short-name } ще използва първия език от списъка като език по подразбиране, а останалите при необходимост в зададения ред.
 browser-languages-search = Търсене на други езици…
 browser-languages-searching =

@@ -464,9 +464,6 @@ newtab-recent-searches-just-now = 방금 전
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = 최근 검색에서 “{ $search }” 제거
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = 검색
 # Screen reader label for the widget's icon-only menu button.

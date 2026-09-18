@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = වියමන අඩවි භාෂා සැකසුම්
     .style = min-width: 40em
+    .title = වියමන අඩවි භාෂා සැකසුම්
 languages-close-key =
     .key = w
 languages-description = වියමන පිටු ඇතැම් විට භාෂා කිහිපයකින් ඉදිරිපත් කෙරේ. අභිප්‍රේත අනුපිළිවෙලට, මෙම පිටු පෙන්වීම සඳහා භාෂා තෝරන්න
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } භාෂා සැකසුම්
     .style = min-width: 40em
+    .title = { -brand-short-name } භාෂා සැකසුම්
 browser-languages-description = { -brand-short-name } පෙරනිමි පරිදි පළමු භාෂාව පෙන්වන අතර අනුපිළිවෙලට විකල්ප භාෂා පෙන්වනු ඇත.
 browser-languages-search = තවත් භාෂා සොයන්න...
 browser-languages-searching =

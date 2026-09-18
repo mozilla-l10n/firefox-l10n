@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ڕێکخستنی زمانی پەڕەی وێب
     .style = min-width: 40em
+    .title = ڕێکخستنی زمانی پەڕەی وێب
 languages-close-key =
     .key = w
 languages-customize-moveup =
@@ -36,8 +36,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } ڕێکخستنی زمان
     .style = min-width: 40em
+    .title = { -brand-short-name } ڕێکخستنی زمان
 browser-languages-search = بگەڕێ بۆ زمانی زیاتر...
 browser-languages-searching =
     .label = دەگەڕێت بۆ زمانی زیاتر...

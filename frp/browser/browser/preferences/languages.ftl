@@ -17,6 +17,6 @@ languages-customize-add =
     .label = Apondre
     .accesskey = A
 browser-languages-window2 =
-    .title = Règllâjos de lengues de { -brand-short-name }
     .style = min-width: 40em
+    .title = Règllâjos de lengues de { -brand-short-name }
 browser-languages-search = Chèrchiér dʼâtres lengües...

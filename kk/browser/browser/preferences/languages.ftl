@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Веб-парағының тіл баптаулары
     .style = min-width: 40em
+    .title = Веб-парағының тіл баптаулары
 languages-close-key =
     .key = w
 languages-description = Кейбір веб-сайттар бірнеше тілдерде болуы мүмкін. Тілдердің ретін таңдаңыз
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } тіл баптаулары
     .style = min-width: 40em
+    .title = { -brand-short-name } тіл баптаулары
 browser-languages-description = { -brand-short-name } бірінші тілді сіздің негізгі тілі ретінде көрсетеді, және қосымша тілдерді керек болған кезде олардың пайда болу ретімен көрсететін болады.
 browser-languages-search = Көбірек тілдерді іздеу…
 browser-languages-searching =

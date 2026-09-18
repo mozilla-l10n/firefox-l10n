@@ -500,9 +500,6 @@ newtab-recent-searches-just-now = Zojuist
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = ‘{ $search }’ uit recente zoekopdrachten verwijderen
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Zoeken
 # Screen reader label for the widget's icon-only menu button.

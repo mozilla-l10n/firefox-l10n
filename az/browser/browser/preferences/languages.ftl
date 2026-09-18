@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Səhifə Dili Tənzimləmələri
     .style = min-width: 40em
+    .title = Səhifə Dili Tənzimləmələri
 languages-close-key =
     .key = w
 languages-description = Bəzi səhifələr birdən çox dil dəstəyi verə bilər. Göstəriləcək dil sıralamasını aşağıdakı pəncərədən seçə bilərsiniz
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Dil Tənzimləmələri
     .style = min-width: 40em
+    .title = { -brand-short-name } Dil Tənzimləmələri
 browser-languages-description = { -brand-short-name } ilkin dilinizi əsas dil olaraq, əgər lazım olsa, alternativ dilləri göründükləri sırada göstərəcək.
 browser-languages-search = Daha çox dil axtar…
 browser-languages-searching =

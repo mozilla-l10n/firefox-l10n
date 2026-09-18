@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Taalynstellingen website
     .style = min-width: 40em
+    .title = Taalynstellingen website
 languages-close-key =
     .key = w
 languages-description = Websiden binne somtiden beskikber yn mear as ien taal. Kies de talen foar it toanen fan dizze websiden, yn folchoarder fan foarkar
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name }-taalynstellingen
     .style = min-width: 40em
+    .title = { -brand-short-name }-taalynstellingen
 browser-languages-description = { -brand-short-name } sil de earste taal as jo standerttaal werjaan en sa nedich alternative talen werjaan yn de folchoarder wêryn’t se ferskine.
 browser-languages-search = Mear talen sykje…
 browser-languages-searching =

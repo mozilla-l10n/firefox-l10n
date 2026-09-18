@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ویب صفحہ زبان سیٹنگز
     .style = min-width: 40em
+    .title = ویب صفحہ زبان سیٹنگز
 languages-close-key =
     .key = w
 languages-description = بعض اوقات ویب صفہ ایک سے زیادہ زبانوں میں دستیاب ہوتے ہیں۔ ویب صفحوں نمائش کرنے کے لیے، زبانوں کی ترجیحی سیٹنگ انتخاب کریں۔
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } زبان سیٹنگز
     .style = min-width: 40em
+    .title = { -brand-short-name } زبان سیٹنگز
 browser-languages-description = { -brand-short-name } آپ کی پہلی زبان طے شدہ طور پر ظاہر کرے گا اور اگر ضروری ہو تو وہ ظاہر سیٹنگ میں متبادل زبانوں کو ظاہر کرے گا۔
 browser-languages-search = مزید زبانوں کے لئے تلاش کریں...
 browser-languages-searching =

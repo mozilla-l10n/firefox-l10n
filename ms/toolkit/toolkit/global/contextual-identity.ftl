@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = Urus Penyimpan
     .accesskey = U
 user-context-manage-containers2 =
     .label = Urus Penyimpan
-user-context-personal2-panel-item = Peribadi
-user-context-work2-panel-item = Kerja
-user-context-banking2-panel-item = Perbankan
-user-context-shopping2-panel-item = Beli-belah
 user-context-manage-containers2-panel-item = Urus Penyimpan
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

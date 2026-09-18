@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Kendu alboko barratik
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Galdetu { $provider } hornitzaileari
     .aria-label = Galdetu { $provider } hornitzaileari
+    .tooltiptext = Galdetu { $provider } hornitzaileari
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Galdetu { $provider } hornitzaileari

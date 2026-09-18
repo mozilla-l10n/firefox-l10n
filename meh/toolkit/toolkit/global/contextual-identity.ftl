@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = Gestionar contenedores
     .accesskey = O
 user-context-manage-containers2 =
     .label = Gestionar contenedores
-user-context-personal2-panel-item = Noo'o
-user-context-work2-panel-item = Tiñu
-user-context-banking2-panel-item = Ve'i xu´un
-user-context-shopping2-panel-item = A xíko
 user-context-manage-containers2-panel-item = Gestionar contenedores
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

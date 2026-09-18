@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Teelte ɗemngal hello geese ngoo
     .style = min-width: 40em
+    .title = Teelte ɗemngal hello geese ngoo
 languages-close-key =
     .key = w
 languages-description = Kelle geese ena kolliree sahaaji e ɗemɗe keewɗe. Suɓo ɗemɗe ngam hollirde ɗee kelle, e degginol cuɓorol
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Teelte ɗemngal
     .style = min-width: 40em
+    .title = { -brand-short-name } Teelte ɗemngal
 browser-languages-description = { -brand-short-name } ɗisata ko ɗemngal gadanal gardangal, ɗisa ɗemɗe goɗɗe so ina sokli fawaade e deggondiral no ɗe peeñirta.
 browser-languages-search = Yiylo ɗemɗe goɗɗe
 browser-languages-searching =

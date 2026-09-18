@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = কন্টেইনার ব্�
     .accesskey = O
 user-context-manage-containers2 =
     .label = কন্টেইনার ব্যবস্থাপনা করুন
-user-context-personal2-panel-item = ব্যক্তিগত
-user-context-work2-panel-item = কাজ
-user-context-banking2-panel-item = ব্যাংকিং
-user-context-shopping2-panel-item = কেনাকাটা
 user-context-manage-containers2-panel-item = কন্টেইনার ব্যবস্থাপনা করুন
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

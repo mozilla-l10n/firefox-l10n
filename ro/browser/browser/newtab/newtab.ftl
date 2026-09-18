@@ -509,9 +509,6 @@ newtab-recent-searches-just-now = Adineauri
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Elimină „{ $search }” din căutările recente
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Caută
 # Screen reader label for the widget's icon-only menu button.

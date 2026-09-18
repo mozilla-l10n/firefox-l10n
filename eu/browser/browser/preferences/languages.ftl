@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Webgunearen hizkuntza-ezarpenak
     .style = min-width: 40em
+    .title = Webgunearen hizkuntza-ezarpenak
 languages-close-key =
     .key = w
 languages-description = Web orriak hainbat hizkuntzatan eskaintzen dira batzuetan. Aukeratu orri hauek bistaratzeko hizkuntzak, hobespenaren arabera ordenatuta
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } hizkuntza-ezarpenak
     .style = min-width: 40em
+    .title = { -brand-short-name } hizkuntza-ezarpenak
 browser-languages-description = { -brand-short-name }(e)k lehen hizkuntza erakutsiko dizu lehenetsita eta ordezkoak zerrendako ordenan erakutsiko dizkizu behar izanez gero.
 browser-languages-search = Bilatu hizkuntza gehiago…
 browser-languages-searching =

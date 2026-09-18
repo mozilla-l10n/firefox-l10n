@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Sahifa til sozlamalari
     .style = min-width: 40em
+    .title = Sahifa til sozlamalari
 languages-close-key =
     .key = w
 languages-description = Sahifalar baʼzida bir nechta tilni taklif qilishi mumkin. Parametrlarga muvofiq tarzda bu sahifalar koʻrinadigan tillarni tanlang
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } til sozlamalari
     .style = min-width: 40em
+    .title = { -brand-short-name } til sozlamalari
 browser-languages-description = { -brand-short-name } standart til sifatida birinchi tanlagan tilingizda ko‘rsatadi. Kerak bo‘lganda muqobil tildan ham foydalanadi.
 browser-languages-search = Boshqa tillarni qidirish…
 browser-languages-searching =

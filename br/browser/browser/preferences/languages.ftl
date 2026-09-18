@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Arventennoù yezh ar bajenn
     .style = min-width: 40em
+    .title = Arventennoù yezh ar bajenn
 languages-close-key =
     .key = w
 languages-description = A-wechoù e vez kinniget pajennadoù Web e meur a yezh. Diuzit e peseurt yezh e vo skrammet ar pajennadoù web-mañ, dre urzh ho tibab
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Arventennoù yezh { -brand-short-name }7
     .style = min-width: 40em
+    .title = Arventennoù yezh { -brand-short-name }7
 browser-languages-description = { -brand-short-name } a ziskouezo ar yezh kentañ evel an hini dre ziouer ha skrammañ a raio yezhoù all m’eo dleet en urzh ma vezont diskouezet.
 browser-languages-search = Klask yezhoù all…
 browser-languages-searching =

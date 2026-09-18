@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Ke´i tu´un nuu página web
     .style = min-width: 40em
+    .title = Ke´i tu´un nuu página web
 languages-close-key =
     .key = w
 languages-description = Iyo páginas web vaji ji kue´e tu´un. Kaji da tu´un kutuvi xinañu´u nuu páginas web
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } ke´i tu´un
     .style = min-width: 40em
+    .title = { -brand-short-name } ke´i tu´un
 browser-languages-search = Nánuku kue´e tu´un...
 browser-languages-searching =
     .label = Nánuku tu´un...

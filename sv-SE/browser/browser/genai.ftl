@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Ta bort från sidofält
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Fråga { $provider }
     .aria-label = Fråga { $provider }
+    .tooltiptext = Fråga { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Fråga { $provider }

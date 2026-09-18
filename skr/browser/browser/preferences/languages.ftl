@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ویب ورقہ زبان ترتیباں
     .style = min-width: 40em
+    .title = ویب ورقہ زبان ترتیباں
 languages-close-key =
     .key = w
 languages-description = ویب ورقے بعض اوقات ہک کنوں زیادہ زباناں وِچ پیش کیتے ویندے ہن۔ ترجیح دے لحاظ نال انہاں ویب ورقیاں کوں ݙکھاوݨ کیتے زباناں دا انتخاب کرو۔
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } زبان دیاں ترتیباں
     .style = min-width: 40em
+    .title = { -brand-short-name } زبان دیاں ترتیباں
 browser-languages-description = { -brand-short-name } تہاݙی پہلی زبان کوں تہاݙی ڈیفالٹ دے طور تے ظاہر کریسے تے جے ضروری ہووے تاں متبادل زباناں ایں ترتیب وِچ ظاہر کریسے جیڑھی ترتیب اِچ او ظاہر تھیسن۔
 browser-languages-search = ودھیک زباناں کیتے تلاش کرو …
 browser-languages-searching =

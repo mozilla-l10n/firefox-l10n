@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = ৱেবপৃষ্ঠাৰ ভাষা ছেটিংছ
     .style = min-width: 40em
+    .title = ৱেবপৃষ্ঠাৰ ভাষা ছেটিংছ
 languages-close-key =
     .key = w
 languages-description = ৱেব পৃষ্ঠাসমূহ কেতিয়াবা কেতিয়াবা এটাৰো অধিক ভাষাত প্ৰদান কৰা হয়। পছন্দৰ ক্ৰমত এই ৱেব পৃষ্ঠাসমূহ দেখুৱাবৰ বাবে ভাষা বাছি লওক
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name }ৰ ভাষা ছেটিংছ
     .style = min-width: 40em
+    .title = { -brand-short-name }ৰ ভাষা ছেটিংছ
 browser-languages-description = { -brand-short-name }-এ প্ৰথম ভাষাটো আপোনাৰ ডিফ'ল্ট হিচাপে দেখুৱাব আৰু প্ৰয়োজন হ'লে বিকল্প ভাষাৰ দেখুওৱা ক্ৰমত সেইবোৰ দেখুওৱা হ'ব।
 browser-languages-search = অধিক ভাষাৰ সন্ধান কৰক...
 browser-languages-searching =

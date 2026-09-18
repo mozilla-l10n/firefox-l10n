@@ -37,10 +37,6 @@ user-context-banking-panel-item = Banku goy
     .accesskey = B
 user-context-shopping-panel-item = Daydayyan
     .accesskey = D
-user-context-personal2-panel-item = Boralhaali
-user-context-work2-panel-item = Goy
-user-context-banking2-panel-item = Banku goy
-user-context-shopping2-panel-item = Daydayyan
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 

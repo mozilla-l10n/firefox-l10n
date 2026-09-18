@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = سامووا زووݩ بلگه وبگه
     .style = min-width: 40em
+    .title = سامووا زووݩ بلگه وبگه
 languages-close-key =
     .key = w
 languages-customize-moveup =
@@ -36,8 +36,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = سامووا زووݩ { -brand-short-name }
     .style = min-width: 40em
+    .title = سامووا زووݩ { -brand-short-name }
 browser-languages-search = پیتینیڌن زووا قلوه…
 browser-languages-searching =
     .label = هونی زووا ن اپیتینه…

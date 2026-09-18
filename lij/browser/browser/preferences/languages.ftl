@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Inpoastaçioin da lengoa de Pagine web
     .style = min-width: 40em
+    .title = Inpoastaçioin da lengoa de Pagine web
 languages-close-key =
     .key = w
 languages-description = Quarche vòtta e pagine gh'an ciù de 'na lengoa. L'é poscibile çerne na lengoa predefinia pe ste pagine, in ordine de preferensa
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Inpostaçion lengoa de { -brand-short-name }
     .style = min-width: 40em
+    .title = Inpostaçion lengoa de { -brand-short-name }
 browser-languages-description = { -brand-short-name } o te mostriâ a primma lengoa comme predefinia e-e atre lengoe in ordine de aparensa se necesaio.
 browser-languages-search = Çerca atre lengoe…
 browser-languages-searching =

@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Тоза кардан аз навори ҷонибӣ
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Аз «{ $provider }» пурсед
     .aria-label = Аз «{ $provider }» пурсед
+    .tooltiptext = Аз «{ $provider }» пурсед
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Аз «{ $provider }» пурсед

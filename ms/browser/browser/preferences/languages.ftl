@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Tetapan Bahasa Halaman Web
     .style = min-width: 40em
+    .title = Tetapan Bahasa Halaman Web
 languages-close-key =
     .key = w
 languages-description = Halaman web kadangkala boleh diperoleh dalam lebih daripada satu bahasa. Pilih bahasa untuk memaparkan halaman laman web ini, mengikut keutamaan
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Tetapan Bahasa { -brand-short-name }
     .style = min-width: 40em
+    .title = Tetapan Bahasa { -brand-short-name }
 browser-languages-description = { -brand-short-name } akan memaparkan bahasa yang pertama sebagai piawai dan akan memaparkan bahasa alternatif jika ada, mengikut susunan paparan.
 browser-languages-search = Cari lebih banyak bahasa...
 browser-languages-searching =

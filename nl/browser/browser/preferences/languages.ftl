@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Taalinstellingen voor webpagina’s
     .style = min-width: 40em
+    .title = Taalinstellingen voor webpagina’s
 languages-close-key =
     .key = w
 languages-description = Webpagina’s zijn soms in meerdere talen beschikbaar. Kies de talen voor het weergeven van webpagina’s, op volgorde van voorkeur
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name }-taalinstellingen
     .style = min-width: 40em
+    .title = { -brand-short-name }-taalinstellingen
 browser-languages-description = { -brand-short-name } zal de eerste taal als uw standaardtaal weergeven en zo nodig alternatieve talen weergeven in de volgorde waarin ze verschijnen.
 browser-languages-search = Meer talen zoeken…
 browser-languages-searching =

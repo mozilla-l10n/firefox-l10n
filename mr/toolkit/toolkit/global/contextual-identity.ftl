@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = कंटेनर व्यवस�
     .accesskey = O
 user-context-manage-containers2 =
     .label = कंटेनर व्यवस्थापित करा
-user-context-personal2-panel-item = वैयक्तिक
-user-context-work2-panel-item = कार्य
-user-context-banking2-panel-item = बँकिंग
-user-context-shopping2-panel-item = खरेदी
 user-context-manage-containers2-panel-item = कंटेनर व्यवस्थापित करा
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Ukloni iz bočne trake
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Pitaj { $provider }
     .aria-label = Pitaj { $provider }
+    .tooltiptext = Pitaj { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Pitaj { $provider }

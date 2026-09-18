@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Αφαίρεση από την πλαϊνή γραμμή
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Ερώτηση στο { $provider }
     .aria-label = Ερώτηση στο { $provider }
+    .tooltiptext = Ερώτηση στο { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Ερώτηση στο { $provider }

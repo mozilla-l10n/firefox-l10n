@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = Toppito baɗirɗe
     .accesskey = O
 user-context-manage-containers2 =
     .label = Toppito baɗirɗe
-user-context-personal2-panel-item = Keeriiɗo
-user-context-work2-panel-item = Gollirdu
-user-context-banking2-panel-item = Bankayru
-user-context-shopping2-panel-item = Coodayru
 user-context-manage-containers2-panel-item = Toppito baɗirɗe
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Postavke jezika web stranice
     .style = min-width: 40em
+    .title = Postavke jezika web stranice
 languages-close-key =
     .key = w
 languages-description = Web stranice su ponekad dostupne na više jezika. Odaberi jezike za prikaz tih web stranica prema preferiranom redoslijedu
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = Postavke jezika za { -brand-short-name }
     .style = min-width: 40em
+    .title = Postavke jezika za { -brand-short-name }
 browser-languages-description = { -brand-short-name } će prikazati prvi jezik kao standardni, dok će alternativne jezike prikazati ukoliko je potrebno prema redoslijedu pojavljivanja.
 browser-languages-search = Traži daljnje jezike …
 browser-languages-searching =

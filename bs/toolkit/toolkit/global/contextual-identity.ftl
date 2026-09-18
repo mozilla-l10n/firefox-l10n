@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = Upravljaj kontejnerima
     .accesskey = o
 user-context-manage-containers2 =
     .label = Upravljaj kontejnerima
-user-context-personal2-panel-item = Lični
-user-context-work2-panel-item = Poslovni
-user-context-banking2-panel-item = Bankarstvo
-user-context-shopping2-panel-item = Kupovina
 user-context-manage-containers2-panel-item = Upravljaj kontejnerima
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

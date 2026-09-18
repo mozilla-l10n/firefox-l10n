@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = إعدادات لغة صفحة الوِب
     .style = min-width: 40em
+    .title = إعدادات لغة صفحة الوِب
 languages-close-key =
     .key = w
 languages-description = تتوفّر بعض صفحات وِب بأكثر من لغة. اختر لغات عرض هذه الصّفحات، بالتّرتيب المفضّل
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = إعدادات لغة { -brand-short-name }
     .style = min-width: 40em
+    .title = إعدادات لغة { -brand-short-name }
 browser-languages-description = سيعرض { -brand-short-name } أول لغة كلغة مبدئية، وستُعرض بقية اللغات البديلة بالترتيب المضبوط إن كان ضروريا.
 browser-languages-search = ابحث عن لغات أخرى…
 browser-languages-searching =

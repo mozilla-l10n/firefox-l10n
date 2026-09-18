@@ -61,8 +61,8 @@ genai-menu-remove-sidebar =
     .label = Forigi el la flanka strio
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .tooltiptext = Demandi al { $provider }
     .aria-label = Demandi al { $provider }
+    .tooltiptext = Demandi al { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Demandi al { $provider }

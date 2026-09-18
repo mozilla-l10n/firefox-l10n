@@ -44,10 +44,6 @@ user-context-manage-containers-panel-item = Manage Conteeners
     .accesskey = o
 user-context-manage-containers2 =
     .label = Manage Conteeners
-user-context-personal2-panel-item = Personal
-user-context-work2-panel-item = Wark
-user-context-banking2-panel-item = Bankin
-user-context-shopping2-panel-item = Shoppin
 user-context-manage-containers2-panel-item = Manage Conteeners
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Web sayfası dil ayarları
     .style = min-width: 40em
+    .title = Web sayfası dil ayarları
 languages-close-key =
     .key = w
 languages-description = Bazı web sayfaları birden fazla dilde sunulabilir. Bu sayfaların görüntüleneceği dilleri tercih sıranıza göre seçin.
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Dil Ayarları
     .style = min-width: 40em
+    .title = { -brand-short-name } Dil Ayarları
 browser-languages-description = { -brand-short-name } ilk dili varsayılan olarak kullanacak, gerekirse alternatif dilleri göründükleri sırayla kullanacaktır.
 browser-languages-search = Daha fazla dil ara…
 browser-languages-searching =

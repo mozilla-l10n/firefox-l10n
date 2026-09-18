@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Tinklalapių kalbos nuostatos
     .style = min-width: 40em
+    .title = Tinklalapių kalbos nuostatos
 languages-close-key =
     .key = w
 languages-description = Tinklalapiai kartais yra prienami daugiau nei viena kalba. Pasirinkite kalbas šių tinklalapių atvaizdavimui, išdėstydami pagal pirmenybę
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = „{ -brand-short-name }“ kalbos nuostatos
     .style = min-width: 40em
+    .title = „{ -brand-short-name }“ kalbos nuostatos
 browser-languages-description = „{ -brand-short-name }“ laikys pirmąją kalbą numatytąja ir jei prireiks, rodys kitas kalbas tokiu eiliškumu, koks matosi čia.
 browser-languages-search = Ieškoti daugiau kalbų…
 browser-languages-searching =

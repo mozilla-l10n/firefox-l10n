@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window2 =
-    .title = Runuk'ulem Ruch'ab'äl Ajk'amaya'l Ruxaq
     .style = min-width: 40em
+    .title = Runuk'ulem Ruch'ab'äl Ajk'amaya'l Ruxaq
 languages-close-key =
     .key = w
 languages-description = Jujun taq ruxaq wuj etz'ib'an pa jalajöj taq ch'ab'äl. Tacha' ri ch'ab'äl ütz yetz'et re taq ruxaq k'amaya'l re', achike na ri narayib'ej.
@@ -39,8 +39,8 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window2 =
-    .title = { -brand-short-name } Runuk'ulem Ch'ab'äl
     .style = min-width: 40em
+    .title = { -brand-short-name } Runuk'ulem Ch'ab'äl
 browser-languages-description = { -brand-short-name } xtuk'üt ri nab'ey ch'ab'äl achi'el ri k'o wi chuqa' xkeruk'üt pe ch'aqa' chik ch'ab'äl we k'atzinel pa ri rucholajem e k'o.
 browser-languages-search = Kekanöx ch'aqa' chik ch'ab'äl...
 browser-languages-searching =
