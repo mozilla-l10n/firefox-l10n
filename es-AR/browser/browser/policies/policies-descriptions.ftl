@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = Establezca políticas de manera que las WebExtensions puedan acceder mediante chrome.storage.managed.
+policy-3rdparty = Establecer políticas de manera que las WebExtensions puedan acceder mediante chrome.storage.managed.
 policy-AIControls = Configurar controles de IA.
 policy-AllowedDomainsForApps = Definir dominios autorizados para acceder a Google Workspace.
 policy-AllowFileSelectionDialogs = Permitir diálogos de selección de archivos.
@@ -20,7 +20,7 @@ policy-AppUpdateURL = Establecer la dirección URL de actualización personaliza
 policy-Authentication = Configurar la autenticación integrada para los sitios web que la permiten.
 policy-AutofillAddressEnabled = Habilitar autocompletado de direcciones.
 policy-AutofillCreditCardEnabled = Habilitar autocompletado para métodos de pago.
-policy-AutoLaunchProtocolsFromOrigins = Defina una lista de protocolos externos que se puedan utilizar desde los orígenes enumerados sin avisarle al usuario.
+policy-AutoLaunchProtocolsFromOrigins = Definir una lista de protocolos externos que se puedan utilizar desde los orígenes enumerados sin avisarle al usuario.
 policy-BackgroundAppUpdate2 = Habilitar o deshabilitar la actualización en segundo plano.
 policy-Backup = Deshabilitar copia de seguridad o restauración de datos de perfil.
 policy-BlockAboutAddons = Bloquear acceso al administrador de complementos (about:addons).
@@ -45,7 +45,7 @@ policy-DefaultDownloadDirectory = Establecer la carpeta de descargas predetermin
 policy-DefaultSerialGuardSetting = Controlar el uso de la API Serie.
 policy-DisableAppUpdate = Impedir la actualización del navegador.
 policy-DisableBuiltinPDFViewer = Deshabilitar PDF.js, el visor de PDF integrado en { -brand-short-name }.
-policy-DisableDefaultBrowserAgent = Evite que el agente de navegador predeterminado realice cualquier acción. Solo aplicable a Windows; otras plataformas no tienen el agente.
+policy-DisableDefaultBrowserAgent = Evitar que el agente de navegador predeterminado realice cualquier acción. Solo aplicable a Windows; otras plataformas no tienen el agente.
 policy-DisableDeveloperTools = Bloquear el acceso a las herramientas de desarrollador.
 policy-DisableEncryptedClientHello = Deshabilitar el uso de la función TLS Encrypted Client Hello (ECH).
 policy-DisableFeedbackCommands = Deshabilitar comandos para enviar opiniones desde el menú de Ayuda (Enviar opinión e Informar sitio engañoso).
@@ -57,7 +57,7 @@ policy-DisableFirefoxStudies = Impedir que { -brand-short-name } ejecute estudio
 policy-DisableForgetButton = Impedir el acceso al botón Olvidar.
 policy-DisableFormHistory = No recordar la búsqueda y el historial de formularios.
 policy-DisableLaunchOnLogin = Evita que { -brand-short-name } se inicie automáticamente cuando el usuario inicie sesión.
-policy-DisablePrimaryPasswordCreation = Si es cierto, no se puede crear una contraseña maestra.
+policy-DisablePrimaryPasswordCreation = Si es verdadero, no se puede crear una contraseña maestra.
 policy-DisablePasswordReveal = No permitir que se vean las contraseñas en los inicios de sesión guardados.
 policy-DisablePrivateBrowsing = Deshabilitar la Navegación privada.
 policy-DisableProfileImport = Deshabilitar el comando de menú para importar datos desde otro navegador.
@@ -69,7 +69,7 @@ policy-DisableSecurityBypass = Impedir que el usuario ignore ciertas advertencia
 policy-DisableSetAsDesktopBackground = Deshabilitar el comando de menú configurado como Fondo de escritorio para las imágenes.
 policy-DisableSystemAddonUpdate = Impedir que el navegador instale y actualice los complementos del sistema.
 policy-DisableTelemetry = Desactivar la Telemetría.
-policy-DisableThirdPartyModuleBlocking = Evite que el usuario bloquee módulos de terceros que se inyectan en el proceso { -brand-short-name }.
+policy-DisableThirdPartyModuleBlocking = Evitar que el usuario bloquee módulos de terceros que se inyectan en el proceso { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Mostrar la Barra de herramientas de marcadores de forma predeterminada.
 policy-DisplayMenuBar = Mostrar la Barra de menú de manera predeterminada.
 policy-DNSOverHTTPS = Configurar DNS sobre HTTPS.

@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Фота дня
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Пошук
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Нядаўнія пошукі
@@ -506,6 +510,14 @@ newtab-recent-searches-just-now = Толькі што
 newtab-recent-searches-row-remove =
     .aria-label = Выдаліць «{ $search }» з нядаўніх пошукаў
 
+## Strings for the Search widget
+
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Пошук
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Параметры пошуку
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -868,6 +880,9 @@ newtab-wallpaper-add-an-image = Дадаць выяву
 newtab-wallpaper-custom-color = Выберыце колер
 newtab-wallpaper-toggle-title =
     .label = Шпалеры
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Катэгорыі шпалер
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Памер выявы перавышае абмежаванне ў { $file_size } МБ. Калі ласка, паспрабуйце загрузіць файл меншага памеру.
@@ -1003,6 +1018,7 @@ newtab-wallpaper-firefox-side-kit-dark = Ліса злева, на цёмным 
 newtab-wallpaper-firefox-side-kit-light = Ліса злева, на светлым фоне
 newtab-wallpaper-firefox-sitting-hill-dark = Ліса сядзіць на цёмна-фіялетавых пагорках
 newtab-wallpaper-firefox-sitting-hill-light = Ліса сядзіць на светлых пагорках
+newtab-wallpaper-firefox-sky-dark = Цёмна-фіялетавыя пагоркі пад начным небам
 
 ## Firefox
 
@@ -1724,6 +1740,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Гэта прастора гуляе па вашых правілах
 newtab-activation-window-message-values-focus-message = { -brand-product-name } дазваляе аглядаць так, як вам падабаецца, з больш персаналізаваным спосабам пачаць свой дзень у інтэрнэце. Зрабіце { -brand-product-name } сваім уласным.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = Выберыце свой вобраз
 
 ## Strings for the Clock widget
 
