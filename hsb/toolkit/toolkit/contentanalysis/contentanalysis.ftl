@@ -25,6 +25,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } na zakładźe datowych prawidłow wašeje organizacije přepruwuje, štož sće zasadźił. To wokomik traje.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } na zakładźe datowych prawidłow wašeje organizacije přepruwuje, štož sće kopěrował. To wokomik traje.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -32,6 +35,10 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } tekst, kotryž 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } na zakładźe datowych prawidłow wašeje organizacije přepruwuje, štož sće ćišćał. To wokomik traje.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Kopěrowanje tutoho wobsaha je přez wašu organizaciju wobmjezowane.
 contentanalysis-operationtype-clipboard = mjezyskład
 contentanalysis-operationtype-clipboard-copy = kopěrowany wobsah
 contentanalysis-operationtype-dropped-text = pušćeny tekst
@@ -88,6 +95,7 @@ contentanalysis-block-dialog-body-download-file = Po prawidłach škita datow sw
 contentanalysis-block-dialog-title-clipboard = Njesměće tutón wobsah zasadźić
 contentanalysis-block-dialog-body-clipboard = Po prawidłach škita datow swojeho organizacije njesměće tutón wobsah zasadźić. Stajće so ze swojim administratorom za dalše informacije.
 contentanalysis-block-dialog-title-clipboard-copy = Nimaće prawo tutón wobsah kopěrować.
+contentanalysis-block-dialog-body-clipboard-copy = Po prawidłach škita datow swojeho organizacije njesměće tutón wobsah kopěrować. Stajće so ze swojim administratorom za dalše informacije.
 contentanalysis-block-dialog-title-dropped-text = Njesměće tutón wobsah pušćić
 contentanalysis-block-dialog-body-dropped-text = Po prawidłach škita datow swojeho organizacije njesměće tutón wobsah ćahnyć a pušćić. Stajće so ze swojim administratorom za dalše informacije.
 contentanalysis-block-dialog-title-print = Njesměće tutón dokument ćišćeć

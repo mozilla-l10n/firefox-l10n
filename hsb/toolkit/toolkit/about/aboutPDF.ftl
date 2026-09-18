@@ -43,3 +43,4 @@ about-pdf-feature-images-description = Přidajće alternatiwny tekst, zo bychu w
 about-pdf-feature-view-heading = Wubjerće swój napohlad
 about-pdf-feature-presentation-heading = PDF w połnej wobrazowce prezentować
 about-pdf-feature-details-heading = Podrobnosće spěšnišo namakać
+about-pdf-feature-details-description = Wužiwajće rozrjady, přiwěški a kajkosće, zo byšće so po PDF pohibował.
