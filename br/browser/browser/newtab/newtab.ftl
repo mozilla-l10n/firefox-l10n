@@ -32,6 +32,9 @@ home-prefs-search-header2 =
 # searches.
 home-prefs-search-widget-header =
     .label = Klask
+# Recent searches is a widget on New Tab that shows the user's recent searches.
+home-prefs-recent-searches-header =
+    .label = Klaskoù nevesañ
 home-prefs-firefox-logo-header =
     .label = Logo { -brand-short-name }
 # Variables:
