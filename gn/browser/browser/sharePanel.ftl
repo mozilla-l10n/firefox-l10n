@@ -15,12 +15,23 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Juajuha monguatiapyre
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Emoherakuã Windows ndive…
+            [macos] Emoherakuã Mac ndive…
+           *[other] Emoherakuã amóvandi…
+        }
 share-panel-os-share =
     .label = Emoherakuã kóvandi…
 share-panel-mail =
     .label = Emondo ñanduti veve
 share-panel-screenshot =
     .label = Ejapyhy mba’erechaha
+share-panel-qr-code-2 =
+    .label = Emoheñói QR ayvu
 share-panel-qr-code =
     .label = Emoherakuã QR ayvu
 # This string is shown when the user has more than 1 device signed in to their account.
@@ -33,6 +44,10 @@ share-panel-send-to-mobile =
     .label = Emondo pumbyrýpe
 share-panel-device-subview =
     .title = Opaite mba’e’oka
+# Shown below the device list in the share panel's device subview. Clicking it
+# opens the flow to connect another device to the user's account.
+share-panel-connect-device-2 =
+    .label = Embojuaju mba’e’oka
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device =

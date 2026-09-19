@@ -355,6 +355,9 @@ browsing-group =
     .label = Səyahət
 preferences-accessibility-header =
     .heading = Əlçatanlıq
+preferences-fonts-advanced-settings =
+    .label = Qabaqcıl tənzimləmələr
+    .accesskey = Q
 
 ## Home Section
 
@@ -681,6 +684,9 @@ history-clear-button =
 history-section-header =
     .description = { -brand-short-name } səyyahının qapadıldıqda nələri xatırlamasını istədiyinizi seçin.
     .label = Tarixçə
+history-custom-section-header =
+    .description = Səyyahı qapatdıqda { -brand-short-name }-un nəyi xatırlamasını istədiyinizi özəlləşdirin.
+    .label = Qabaqcıl tənzimləmələr
 history-group =
     .label = Tarixçə
 history-mode-radio-group =
@@ -893,6 +899,9 @@ preferences-etp-status-header =
     .label = Artırılmış İzlənmə Qoruması
 preferences-etp-level-radio-group =
     .aria-label = Artırılmış İzlənmə Qoruması
+preferences-etp-status-protections-dashboard-link =
+    .description = Sosial media izləyiciləri, barmaq izi toplayıcıları və kripto mədənçiləri kimi gizli izləyicilərin nə qədərinin { -brand-short-name } tərəfindən əngəlləndiyini görün.
+    .label = Fərdiləşdirilmiş qorumalar panelinizi gözdən keçirin
 preferences-etp-header =
     .heading = Artırılmış İzlənmə Qoruması
 preferences-etp-manage-exceptions-button =
