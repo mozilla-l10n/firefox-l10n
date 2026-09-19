@@ -54,6 +54,8 @@ about-private-browsing-pin-promo-title = Brez shranjenih piškotkov ali zgodovin
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = Obranite se neželene pošte z e-poštnimi maskami
+about-private-browsing-relay-promo-title = Ob prijavi, nakupovanju ali deljenju vsebine prek spleta prikrijte svoj pravi naslov z e-poštno masko.
 about-private-browsing-relay-promo-link-text = Preizkusite e-poštne maske
 
 ## Strings used in a promotion message for cookie banner reduction

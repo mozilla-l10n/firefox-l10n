@@ -457,6 +457,26 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Možnosti nedavnih iskanj
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Več o tem
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Nedavna iskanja
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Trenutno priljubljeno
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = iz iskalnika { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Pravkar
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Odstrani "{ $search }" iz nedavnih iskanj
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Trenutno priljubljena iskanja v tem trenutku niso na voljo.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -772,6 +792,13 @@ newtab-custom-close-menu-button =
     .title = Zapri
 newtab-custom-settings = Več nastavitev
 
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Nazaj na prilagajanje
+    .title = Nazaj na prilagajanje
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -933,10 +960,17 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Lisica ob desnem robu oranžnega ozadja
+newtab-wallpaper-firefox-colorful-sky = Valovi oranžne barve na vijoličnem nočnem nebu
+newtab-wallpaper-firefox-desert-dark = Lisica, ki sedi v temnovijolični puščavi
+newtab-wallpaper-firefox-desert-light = Lisica, ki sedi v svetli puščavi
 newtab-wallpaper-firefox-hills-dark = Lisica v teku čez temne griče
 newtab-wallpaper-firefox-hills-light = Lisica v teku čez svetle griče
 newtab-wallpaper-firefox-tail-dark = Lisičji rep na temnem ozadju
 newtab-wallpaper-firefox-tail-light = Lisičji rep na svetlem ozadju
+newtab-wallpaper-firefox-side-kit-dark = Lisica na levi strani na temnem ozadju
+newtab-wallpaper-firefox-side-kit-light = Lisica na levi strani na svetlem ozadju
+newtab-wallpaper-firefox-sitting-hill-dark = Lisica, ki sedi na temnovijoličnem griču
+newtab-wallpaper-firefox-sitting-hill-light = Lisica, ki sedi na svetlem griču
 newtab-wallpaper-firefox-peak-dark = Lisičji obraz ob levem robu na temnem ozadju
 newtab-wallpaper-firefox-peak-light = Lisičji obraz ob levem robu na svetlem ozadju
 newtab-wallpaper-firefox-sky-dark = Temnovijolični griči pod nočnim nebom

@@ -540,6 +540,10 @@ onboarding-refresh-gratitude-title = { -brand-short-name } vam krije hrbet
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } vam krije hrbet – zdaj in vedno
+onboarding-refresh-hero-text = Ustvarjen, da vas ščiti, ne da vam sledi.
+onboarding-refresh-tou-default = Odpiraj vse povezave v { -brand-short-name(sklon: "mestnik") }
 onboarding-refresh-terms-of-use-with-links = Z nadaljevanjem se strinjate s <a data-l10n-name="terms_of_use">pogoji uporabe { -brand-product-name(sklon: "rodilnik") }</a> in z našim <a data-l10n-name="privacy_notice">obvestilom o zasebnosti</a>. Za izboljšanje brskalnika { -brand-product-name } { -vendor-short-name(sklon: "dajalnik") } pošilja diagnostične podatke in podatke o uporabi.
 onboarding-refresh-primary-button = Nadaljuj
 onboarding-refresh-fro-skip-button = Preskoči
