@@ -2,6 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+graph-week-summary =
+    { $count ->
+        [one] { -brand-short-name } son bir həftədə { $count } izləyicini əngəllədi
+       *[other] { -brand-short-name } son bir həftədə { $count } izləyicini əngəllədi
+    }
+# Variables:
+#   $count (Number) - Number of tracking events blocked.
+#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
+# earliest date recorded in the database.
+graph-total-tracker-summary =
+    { $count ->
+        [one] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarixindən bəri <b>{ $count }</b> izləyici əngəllənib
+       *[other] { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } tarixindən bəri <b>{ $count }</b> izləyici əngəllənib
+    }
 protection-report-webpage-title = Qoruma Paneli
 protection-report-page-content-title = Qoruma Paneli
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.

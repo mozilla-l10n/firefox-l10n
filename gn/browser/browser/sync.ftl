@@ -68,6 +68,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Oñemboty eikehague
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Emohu’ã ñemboheko
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Eike embojuehe hag̃ua
+fxa-menu-signed-out-description = Oñemboty eikehague
 fxa-avatar-sign-in = Eñepyrũ tembiapo
 fxa-avatar-sign-up = Eñemboheraguapy
 fxa-avatar-tooltip =

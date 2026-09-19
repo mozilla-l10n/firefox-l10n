@@ -5,6 +5,8 @@
 about-pdf-title = PDF-Editor { -brand-short-name }
 about-pdf-header = PDF { -brand-short-name }
 about-pdf-tagline = Dermotny rěd za cytanje, zjadnośowanje, signěrowanje, komentěrowanje a wěcej – ze zatwarjoneju priwatnosću
+about-pdf-features-cta =
+    .label = Wuslěźćo rědy PDF
 about-pdf-dropzone =
     .title = Pušććo how PDF-dataju, aby zachopił abo tłocćo Enter
 about-pdf-dropzone-hint = Pušććo how PDF-dataju, aby zachopił
@@ -22,3 +24,22 @@ about-pdf-set-default =
     .label = Ako standard wužywaś
 about-pdf-dismiss =
     .label = Zachyśiś
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Rědy PDF { -brand-short-name }
+about-pdf-features-back =
+    .label = Slědk
+about-pdf-feature-organize-heading = Boki organizěrowaś
+about-pdf-feature-organize-description = Pśerědujśo, wótwónoźćo, zjadnośćo a eksportěrujśo boki.
+about-pdf-feature-signatures-heading = Signatury składowaś
+about-pdf-feature-signatures-description = Napórajśo někotare signatury a pśidajśo je formularam.
+about-pdf-feature-comments-heading = Pśipiski pśidaś
+about-pdf-feature-comments-description = Komentary a dopomnjeśa zawóstajiś, gaž cytaśo.
+about-pdf-feature-annotate-heading = PDF z pśipiskami wugótowaś
+about-pdf-feature-annotate-description = Pśidajśo tekst, wuzwignjenja a kreslanki.
+about-pdf-feature-images-heading = Pśistupne wobraze nagraś
+about-pdf-feature-view-heading = Wubjeŕśo swój naglěd
+about-pdf-feature-presentation-heading = PDF w połnej wobrazowce prezentěrowaś
+about-pdf-feature-details-heading = Drobnostki malsnjej namakaś
+about-pdf-feature-details-description = Wužywajśo rozrědowanja, pśidanki a kakosći, aby se pó PDF gibał.

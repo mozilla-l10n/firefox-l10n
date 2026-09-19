@@ -32,7 +32,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } tekst, kótary�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo, což sćo śišćał. To wokognuśe trajo.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Kopěrowanje toś togo wopśimjeśa jo pśez wašu organizaciju wobgranicowane.
 contentanalysis-operationtype-clipboard = mjazywótkład
+contentanalysis-operationtype-clipboard-copy = kopěrowane wopśimjeśe
 contentanalysis-operationtype-dropped-text = pušćony tekst
 contentanalysis-operationtype-print = śišćaś
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -70,6 +75,7 @@ contentanalysis-invalid-agent-signature-message-content = Pśeglědanje signatur
 contentanalysis-error-message-upload-file = Nagraśe “{ $filename }” jo wótpokazane.
 contentanalysis-error-message-dropped-text = Śěgnjenje a pušćenje stej se wótpokazałej.
 contentanalysis-error-message-clipboard = Zasajźenje jo se wótpokazało.
+contentanalysis-error-message-clipboard-copy = Kopija wótpokazana.
 contentanalysis-error-message-print = Śišćanje jo se wótpokazało.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -85,6 +91,7 @@ contentanalysis-block-dialog-title-download-file = Njesmějośo toś tu dataju z
 contentanalysis-block-dialog-body-download-file = Pó pšawidłach šćita datow swójeje organizacije njesmějośo dataju „{ $filename }“ ześěgnuś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-block-dialog-title-clipboard = Njesmějośo toś to wopśimjeśe zasajźiś
 contentanalysis-block-dialog-body-clipboard = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe zasajźiś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
+contentanalysis-block-dialog-title-clipboard-copy = Njamaśo pšawo toś to wopśimjeśe kopěrowaś.
 contentanalysis-block-dialog-title-dropped-text = Njesmějośo toś to wopśimjeśe pušćiś
 contentanalysis-block-dialog-body-dropped-text = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe śěgnuś a pušćiś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-block-dialog-title-print = Njesmějośo toś ten dokument śišćaś

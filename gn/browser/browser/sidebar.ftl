@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = AI chatbot
 menu-view-contextual-password-manager =
     .label = Ñe’ẽñemikuéra
+menu-view-resource-monitor =
+    .label = Monitor porupyrã
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -195,6 +197,8 @@ sidebar-menu-customize-label =
     .label = Embohéra ta’ãngarupa ykegua
 sidebar-menu-contextual-password-manager-label =
     .label = Ñe’ẽñemi
+sidebar-menu-resource-monitor-label =
+    .label = Porupyrã monitor
 sidebar-menu-more-tools-label =
     .label = Heta tembiporu
 

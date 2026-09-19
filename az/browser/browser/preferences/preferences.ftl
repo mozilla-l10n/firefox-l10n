@@ -214,6 +214,15 @@ browser-language-install-error =
 translate-exceptions =
     .label = İstisnalar…
     .accesskey = t
+settings-translations-header =
+    .aria-label = Tərcümələr
+    .description = Seçilmiş mətni və ya səhifələri tərcümə edin. Məxfiliyinizi qorumaq üçün tərcümələr cihazınızda qalacaq.
+    .label = Tərcümələr
+settings-translations-offer-to-translate-label =
+    .label = Tam səhifə tərcüməsi təklif et
+settings-translations-more-settings-button =
+    .description = Dillər, vebsaytlar və oflayn tərcümə üçün seçimlərinizi təyin edin.
+    .label = Daha çox tərcümə tənzimləməsi
 check-user-spelling =
     .label = Hərf səhvləriniz siz yazdıqca yoxlanılsın
     .accesskey = y
@@ -844,6 +853,13 @@ preferences-doh-header = HTTPS üzərindən DNS
 dns-over-https-group2 =
     .description = HTTPS üzərindən Domen Adları Sistemi (DoH) sayt sorğularını (ünvanların axtarışını) şifrələyir ki, internet provayderinizin və ya digər şəxslərin hansı saytlara daxil olmaq üzrə olduğunuzu görməsi daha çətin olsun.
     .label = HTTPS üzərindən DNS
+preferences-doh-advanced-button =
+    .label = Qabaqcıl tənzimləmələr
+
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Qabaqcıl tənzimləmələr
 
 ## The following strings are used in the Download section of settings
 
@@ -899,6 +915,8 @@ preferences-etp-status-header =
     .label = Artırılmış İzlənmə Qoruması
 preferences-etp-level-radio-group =
     .aria-label = Artırılmış İzlənmə Qoruması
+preferences-etp-status-advanced-button =
+    .label = Qabaqcıl tənzimləmələr
 preferences-etp-status-protections-dashboard-link =
     .description = Sosial media izləyiciləri, barmaq izi toplayıcıları və kripto mədənçiləri kimi gizli izləyicilərin nə qədərinin { -brand-short-name } tərəfindən əngəlləndiyini görün.
     .label = Fərdiləşdirilmiş qorumalar panelinizi gözdən keçirin

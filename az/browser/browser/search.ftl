@@ -24,3 +24,18 @@ searchbar-input =
     .placeholder = Axtar
 searchbar-icon =
     .tooltiptext = Axtar
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = Mühərrik əlavə et
+    .buttonlabelextra1 = Qabaqcıl
+    .buttonaccesskeyaccept = M
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = Mühərriki saxla
+    .buttonlabelextra1 = Qabaqcıl
+    .buttonaccesskeyaccept = S
