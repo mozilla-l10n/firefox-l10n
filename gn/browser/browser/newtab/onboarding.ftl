@@ -550,6 +550,16 @@ onboarding-refresh-tou-pin =
        *[other] Embjuaju { -brand-short-name } tembiaporã rupáre
     }
 onboarding-refresh-tou-default-unchecked = Ereko ñemo’ã gueroipyre eikundaha vovénte
+onboarding-refresh-tou-pin-unchecked = Ereko pe kundahára oikóva ha isãsóva peteĩ jekutúpe
+onboarding-refresh-data-collection-link = Eñangareko mba’ekuaarã ñembyaty ñembohekóre
+onboarding-refresh-primary-button = Eku’ejey
+onboarding-refresh-fro-import-header = Egueru ne mba’ekuaarã
+onboarding-refresh-fro-skip-button = Jepo
+onboarding-refresh-fro-theme-header = Ehuga nde jehecharãre
+onboarding-refresh-tab-layout-header = Eiporu tendayke iñambuéva
+onboarding-refresh-tab-layout-top = Yvate
+onboarding-refresh-tab-layout-side = Peteĩ yképe
+onboarding-refresh-tab-layout-minimal = Jeporu’ive
 
 ## Smart window switcher callout
 

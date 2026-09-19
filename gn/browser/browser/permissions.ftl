@@ -3,6 +3,7 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 perm-persistent-storage-remember = Nemandu’a ko py’apeteĩre
+speech-recognition-model-download-header = ¿Emboheko ñe’ẽ jekuaarã?
 speech-recognition-model-download-allow =
     .label = Eku’ejey
     .accesskey = C

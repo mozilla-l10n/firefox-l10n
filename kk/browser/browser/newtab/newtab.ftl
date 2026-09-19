@@ -495,6 +495,11 @@ newtab-recent-searches-tab-trending = Трендте
 newtab-recent-searches-trending-attribution = { $engine } арқылы
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Жаңа ғана
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Жуырдағы іздеулерден «{ $search }» өшіру
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Іздеу
 # Screen reader label for the widget's icon-only menu button.
