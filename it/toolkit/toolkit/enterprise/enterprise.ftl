@@ -4,6 +4,10 @@
 
 # Access Connector is an Enterprise feature name and must not be translated.
 -enterprise-feature-access-connector = Access Connector
+# Shown in the About dialog on enterprise builds.
+aboutdialog-managed-notice = Il browser è gestito dalla propria organizzazione.
+# Shown in the About dialog on enterprise nightly builds.
+warningdesc-version-enterprise-nightly = Il canale della versione { -brand-nightly-channel } è sperimentale e potrebbe risultare instabile.
 # Shown in the about:support "Application Basics" table on enterprise builds.
 app-basics-device-id = ID dispositivo
 # Shown in the about:support "Security Software" section on enterprise builds.
