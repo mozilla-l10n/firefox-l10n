@@ -49,6 +49,9 @@ home-custom-homepage-delete-address-button =
 home-custom-homepage-replace-with-prompt =
     .label = Bununla əvəz et:
 # Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = Hazırkı açıq səhifələr
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
 home-custom-homepage-bookmarks-button =
     .label = Əlfəcinlər…
 
@@ -146,6 +149,11 @@ newtab-search-box-input =
 
 newtab-topsites-add-search-engine-header = Axtarış mühərriyi əlavə et
 newtab-topsites-add-shortcut-header = Yeni Qısayol
+newtab-topsites-edit-shortcut-header = Qısayolu redaktə et
+newtab-topsites-add-shortcut-label = Qısayol əlavə et
+newtab-topsites-add-shortcut-title =
+    .aria-label = Qısayol əlavə et
+    .title = Qısayol əlavə et
 newtab-topsites-title-label = Başlıq
 newtab-topsites-title-input =
     .placeholder = Başlıq daxil et

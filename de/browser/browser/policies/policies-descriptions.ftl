@@ -30,6 +30,7 @@ policy-BlockAboutSupport = about:support-Seitenzugriff (Informationen zur Fehler
 policy-Bookmarks = Lesezeichen erstellen in der Lesezeichen-Symbolleiste, im Lesezeichen-Menü oder in einem vorgegebenen Ordner in diesen
 policy-CaptivePortal = Erkennung von Anmelde- oder Bestätigungspflicht für Internetzugriff aktivieren oder deaktivieren
 policy-CertificatesDescription = Zertifikate hinzufügen oder eingebaute Zertifikate verwenden
+policy-ClearOnShutdown = Surf-Daten beim Beenden von { -brand-short-name } löschen.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.

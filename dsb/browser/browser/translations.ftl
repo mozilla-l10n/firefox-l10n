@@ -107,6 +107,10 @@ translations-panel-choose-language =
     .label = Rěc wubraś
 translations-panel-restore-button =
     .label = Original pokazaś
+# The label for the target-language dropdown in the revisit view. This may need
+# to be translated differently from translations-panel-to-label to convey that
+# selecting a language will translate the page again.
+translations-panel-revisit-to-label = Celowa rěc
 
 ## Firefox Translations language management in about:preferences.
 

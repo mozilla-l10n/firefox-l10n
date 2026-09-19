@@ -1764,6 +1764,9 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 # makes something yours. The call to action is to open the New Tab
 # customization panel and pick a theme or wallpaper.
 newtab-nova-customization-callout-header = Pśiměŕśo { -brand-product-name } swójim žycenjam
+newtab-nova-customization-callout-message = Wuslěźćo swětłe abo śamne drastwy a slězynowe wobraze, kótarež wam zmóžnjaju, { -brand-product-name } pó wašych žycenjach wugótowaś.
+newtab-nova-customization-callout-primary-button =
+    .label = Wubjeŕśo swój wenkowny naglěd
 
 ## Strings for the Clock widget
 

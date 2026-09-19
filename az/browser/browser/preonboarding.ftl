@@ -5,6 +5,8 @@
 
 ## Preonboarding modal screen strings
 
+preonboarding-title = { -brand-product-name }-a xoş gəldiniz
+preonboarding-subtitle = Davam etməklə siz { -brand-product-name } İstifadə Şərtləri və Məxfilik Siyasətimiz ilə razılaşmış olursunuz. Brauzeri təkmilləşdirməyə yardım etmək üçün { -brand-product-name } { -vendor-short-name } şirkətinə diaqnostika və qarşılıqlı təsir (interaksiya) məlumatlarını göndərir.
 preonboarding-primary-cta = Təsdiqlə və göndər
 preonboarding-primary-cta-v2 = Davam et
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist

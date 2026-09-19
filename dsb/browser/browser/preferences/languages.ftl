@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Zainstalěrowane rěcy
 browser-languages-available-label = K dispoziciji stojece recy
 browser-languages-error = { -brand-short-name } njamóžo waše rěcy ned aktualizěrowaś. Pśekontrolěrujśo, lěc sćo z internetom zwězany abo wopytajśo hyšći raz.
+browser-languages-update-error =
+    .message = { -brand-short-name } njamóžo waše rěcy ned aktualizěrowaś. Pśekontrolěrujśo, lěc sćo z internetom zwězany abo wopytajśo hyšći raz.

@@ -61,6 +61,22 @@ managed-bookmarks-subfolder =
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Digər Əlfəcinlər
+places-show-in-folder =
+    .label = Qovluqda göstər
+    .accesskey = Q
+# Variables:
+# $count (number) - The number of elements being selected for removal.
+places-delete-bookmark =
+    .label =
+        { $count ->
+            [1] Əlfəcini sil
+            [one] Əlfəcini sil
+           *[other] Əlfəcinləri sil
+        }
+    .accesskey = S
+places-untag-bookmark =
+    .label = Etiketi çıxart
+    .accesskey = ç
 places-manage-bookmarks =
     .label = Əlfəcinləri İdarə et
     .accesskey = M

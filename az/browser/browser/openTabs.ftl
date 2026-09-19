@@ -3,3 +3,5 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Bölünmüş görünüşə əlavə olunacaq vərəqi seçin
+opentabs-search-text-box =
+    .placeholder = Vərəqlərdə axtar

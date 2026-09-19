@@ -30,6 +30,7 @@ policy-BlockAboutSupport = Pśistup k bokoju about:support blokěrowaś.
 policy-Bookmarks = Cytańske znamjenja w symbolowej rědce cytańskich znamjenjow, w meniju cytańskich znamjenjow abo w pódanem zastojniku w nima napóraś.
 policy-CaptivePortal = Kaptiwny portal zmóžniś abo znjemóžniś
 policy-CertificatesDescription = Certifikaty pśidaś abo zatwarjone certifikaty wužywaś.
+policy-ClearOnShutdown = Daty pśeglědowanja lašowaś, gaž se { -brand-short-name } zacynja.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.

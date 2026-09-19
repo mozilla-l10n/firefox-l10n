@@ -135,6 +135,8 @@ profiler-popup-presets-networking-label =
     .label = Şəbəkələşmə
 profiler-popup-presets-debug-label =
     .label = Sazla
+profiler-popup-presets-custom-label =
+    .label = Fərdi
 
 ##
 
@@ -143,7 +145,7 @@ appmenu-manage-history =
 appmenu-restore-session =
     .label = Əvvəlki Seansı Bərpa et
 appmenu-clear-history =
-    .label = Son Tarixçəni Təmizlə…
+    .label = Son tarixçəni təmizlə…
 appmenu-recent-history-subheader = Yaxın Tarixçə
 appmenu-recently-closed-tabs =
     .label = Son qapadılmış vərəqlər
@@ -165,6 +167,8 @@ appmenu-bookmarks-sync-promo-turnonsync =
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name } yardım
 appmenu-about =
     .label = { -brand-shorter-name } Haqqında
     .accesskey = H
