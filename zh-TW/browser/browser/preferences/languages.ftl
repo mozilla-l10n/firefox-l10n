@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = 已安裝的語言
 browser-languages-available-label = 可用語言
 browser-languages-error = { -brand-short-name } 目前無法更新您的語言套件。請確認您是否已連線至網際網路，或可再試一次。
+browser-languages-update-error =
+    .message = { -brand-short-name } 目前無法更新您的語言套件。請確認您是否已連線至網際網路，或可再試一次。

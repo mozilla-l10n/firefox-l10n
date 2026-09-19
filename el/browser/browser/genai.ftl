@@ -63,6 +63,17 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = Ερώτηση στο { $provider }
     .tooltiptext = Ερώτηση στο { $provider }
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Αναζήτηση στο { $engine } για «{ $selection }»
+    .tooltiptext = Αναζήτηση στο { $engine } για «{ $selection }»
+genai-shortcut-copy-button =
+    .aria-label = Αντιγραφή επιλεγμένου κειμένου
+    .tooltiptext = Αντιγραφή επιλεγμένου κειμένου
+genai-shortcut-more-actions-button =
+    .aria-label = Περισσότερες επιλογές
+    .tooltiptext = Περισσότερες επιλογές
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Ερώτηση στο { $provider }

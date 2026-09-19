@@ -63,6 +63,17 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = 問問 { $provider }
     .tooltiptext = 問問 { $provider }
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = 使用 { $engine } 搜尋「{ $selection }」
+    .tooltiptext = 使用 { $engine } 搜尋「{ $selection }」
+genai-shortcut-copy-button =
+    .aria-label = 複製選擇的文字
+    .tooltiptext = 複製選擇的文字
+genai-shortcut-more-actions-button =
+    .aria-label = 更多選項
+    .tooltiptext = 更多選項
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = 問問 { $provider }
