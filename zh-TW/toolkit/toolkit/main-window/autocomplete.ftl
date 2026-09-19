@@ -58,5 +58,5 @@ autocomplete-remove-password-os-auth-dialog-message-win = 請在下方輸入您�
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # strings together will be presented by the operating system.
-autocomplete-remove-password-os-auth-dialog-message-macosx = 刪除儲存的網站密碼
+autocomplete-remove-password-os-auth-dialog-message-macosx = 刪除已儲存的密碼
 autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

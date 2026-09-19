@@ -1267,10 +1267,10 @@ forms-fill-usernames-and-passwords-2 =
     .label = 儲存並自動填寫使用者名稱與密碼
     .accesskey = f
 forms-saved-passwords =
-    .label = 已存密碼
+    .label = 已儲存的密碼
     .accesskey = d
 forms-saved-passwords-2 =
-    .label = 管理儲存的密碼
+    .label = 管理已儲存的密碼
     .accesskey = d
 forms-saved-passwords-searchkeywords = 您的電腦上儲存了下列網站的登入資訊
 # Header for additional protections when managing password settings.

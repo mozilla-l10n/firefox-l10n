@@ -21,9 +21,9 @@ password-manager-save-password-button-never =
 #   $host (String) - Hostname for which the password is updated for.
 password-manager-update-password-message = 要更新 { $host } 的密碼嗎？
 password-manager-update-password-button-delete =
-    .label = 刪除所有已存密碼
+    .label = 刪除所有已儲存的密碼
     .accesskey = R
-password-manager-update-login-add-username = 要將使用者名稱加進已存的密碼資訊嗎？
+password-manager-update-login-add-username = 要將使用者名稱加進已儲存的密碼資訊嗎？
 password-manager-password-password-button-allow =
     .label = 更新
     .accesskey = U

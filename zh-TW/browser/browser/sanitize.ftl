@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = 歷史記錄清除設定
     .style = min-width: 34em
+    .title = 歷史記錄清除設定
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = 清除瀏覽資料與 Cookie
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = 清除最近的歷史記錄
     .style = min-width: 34em
+    .title = 清除最近的歷史記錄
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = 清除所有歷史記錄
     .style = min-width: 34em
+    .title = 清除所有歷史記錄
 clear-data-settings-label = 關閉 { -brand-short-name } 時，應該自動清除全部
 sanitize-on-shutdown-description = 關閉 { -brand-short-name } 時，自動清除所有勾選的項目。
 
@@ -57,7 +57,7 @@ clear-time-duration-suffix =
 
 history-section-label = 瀏覽紀錄
 item-history-and-downloads =
-    .label = 瀏覽與下載記錄
+    .label = 瀏覽與下載紀錄
     .accesskey = B
 item-history-and-downloads-description2 = 清除網站與下載紀錄
 item-cookies =
@@ -90,7 +90,7 @@ item-cached-content =
     .accesskey = f
 item-cached-content-description = 清除能幫助讓網站加速載入的項目
 item-form-search-history =
-    .label = 已存表單及搜尋記錄
+    .label = 已儲存的表單及搜尋記錄
     .accesskey = F
 item-site-prefs =
     .label = 網站設定

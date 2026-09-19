@@ -5,7 +5,7 @@
 
 ## The address and credit card autofill management dialog in browser preferences
 
-autofill-manage-addresses-title = 已存地址
+autofill-manage-addresses-title = 已儲存的地址
 autofill-manage-addresses-list-header = 地址
 autofill-manage-payment-methods-title = 儲存的付款方式
 autofill-manage-cards-list-header = 付款卡片

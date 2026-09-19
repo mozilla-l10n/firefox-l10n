@@ -307,7 +307,7 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 連結裝置即可傳
 
 # Displayed when there are saved passwords and the user clicks inside a username or password field
 main-context-menu-use-saved-password =
-    .label = 使用已存的密碼
+    .label = 使用已儲存的密碼
     .accesskey = o
 main-context-menu-use-relay-mask =
     .label = 使用 { -relay-brand-short-name } 轉寄信箱

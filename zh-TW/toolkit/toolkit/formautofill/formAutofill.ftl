@@ -51,7 +51,7 @@ credit-card-capture-update-button =
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = 清除自動填寫的表單內容
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
-autofill-manage-addresses-label = 管理已存地址
+autofill-manage-addresses-label = 管理已儲存的地址
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = 管理付款方式
 # Used as the primary label of an autofill drop down suggestion when the focused
