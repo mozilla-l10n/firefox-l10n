@@ -62,6 +62,8 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } nsá´á <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, iin <label data-l10n-name="community-creditsLink">ñuu ñu´un</label> ké´io saa koo ka̱a̱ nántu´un ne jika, nuu kuaiyo da noo´o.
 helpus = Kuvi noo´o chinei? <label data-l10n-name="helpus-donateLink">Kunimani iin a kuvi</label> a xíín <label data-l10n-name="helpus-getInvolvedLink">náyonika</label>
 bottomLinks-license = Tutu nákani saa kuantiñu ya´a
+bottom-links-terms = Tutu kachi naja ni'io ya'a
+bottom-links-privacy = Tu´un xitu a nejika kumio
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
