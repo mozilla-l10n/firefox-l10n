@@ -19,6 +19,8 @@ unified-extensions-item-message-manage = Uzantını idarə et
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = Alət sətrinə bərkit
 unified-extensions-context-menu-manage-extension =
     .label = Uzantını idarə et
 unified-extensions-context-menu-remove-extension =

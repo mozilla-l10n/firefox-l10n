@@ -268,6 +268,7 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Bağlantı təhlükəsiz deyil
 identity-connection-secure = Bağlantı təhlükəsizdir
 identity-connection-internal = Bu səhifə təhlükəsiz bir { -brand-short-name } səhifəsidir.
 identity-connection-file = Bu səhifə sizin kompüterinizdə saxlanıb.
@@ -679,6 +680,8 @@ trustpanel-etp-toggle-on =
 trustpanel-etp-toggle-off =
     .aria-label = Artırılmış İzlənmə Qoruması: { $host } üçün bağlı
 trustpanel-etp-description-enabled = Bu saytda nəsə düzgün işləmirsə, qorumanı söndürməyə cəhd edin.
+trustpanel-connection-label-secure = Təhlükəsiz bağlantı
+trustpanel-connection-label-insecure = Bağlantı təhlükəsiz deyil
 trustpanel-header-enabled = { -brand-product-name } keşikdədir
 trustpanel-description-enabled2 = Siz qorunursunuz. Nəsə aşkar etsək, sizə bildirəcəyik.
 trustpanel-clear-cookies-button = Çərəzlər və sayt məlumatlarını təmizlə

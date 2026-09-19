@@ -47,6 +47,11 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Fərdiləşdir…
     .accesskey = C
+# This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
+# is hidden, so they can share access keys.
+toolbar-context-menu-pin-to-toolbar =
+    .label = Alət sətrinə bərkit
+    .accesskey = B
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Menyu sətri
     .accesskey = M
