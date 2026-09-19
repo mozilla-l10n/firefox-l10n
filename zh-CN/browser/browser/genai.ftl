@@ -63,6 +63,12 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = 询问 { $provider }
     .tooltiptext = 询问 { $provider }
+genai-shortcut-copy-button =
+    .aria-label = 复制选中的文本
+    .tooltiptext = 复制选中的文本
+genai-shortcut-more-actions-button =
+    .aria-label = 更多选项
+    .tooltiptext = 更多选项
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = 询问 { $provider }
