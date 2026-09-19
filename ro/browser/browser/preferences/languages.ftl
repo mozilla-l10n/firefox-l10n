@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Limbi instalate
 browser-languages-available-label = Limbi disponibile
 browser-languages-error = { -brand-short-name } nu poate actualiza limbile tale acum. Verifică dacă ești conectat la internet și încearcă din nou.
+browser-languages-update-error =
+    .message = { -brand-short-name } nu poate actualiza limbile acum. Verifică dacă ești conectat(ă) la internet și încearcă din nou.
