@@ -733,6 +733,8 @@ newtab-custom-widget-stocks-toggle =
     .label = 股市
 newtab-custom-widget-picture-toggle =
     .label = 每日一图
+newtab-custom-widget-search-toggle =
+    .label = 搜索
 newtab-custom-widget-recent-searches-toggle =
     .label = 近期搜索
 newtab-custom-widget-section-title = 小组件
@@ -789,6 +791,9 @@ newtab-wallpaper-add-an-image = 添加图像
 newtab-wallpaper-custom-color = 选择颜色
 newtab-wallpaper-toggle-title =
     .label = 壁纸
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = 壁纸分类
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = 图像超出文件大小上限（{ $file_size }MB），请尝试上传较小的文件。
@@ -914,6 +919,7 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = 狐狸从橙色背景的右侧探出脑袋
 
 ## Firefox
 

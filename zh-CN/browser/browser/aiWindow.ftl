@@ -237,7 +237,7 @@ smartwindow-footer-chats =
     .tooltiptext = 聊天
 smartwindow-footer-history =
     .aria-label = 历史记录
-    .label = 历史记录
+    .label = 历史
     .tooltiptext = 历史记录
 
 ## Disclaimer
