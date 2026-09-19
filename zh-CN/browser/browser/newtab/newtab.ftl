@@ -269,6 +269,8 @@ newtab-privacy-message-milestone-month-cta = 查看保护信息
 newtab-privacy-message-milestone-year = 今年已拦截 { $count } 个跟踪器。这一年对您的隐私保护，卓有成效。
 newtab-privacy-message-milestone-year-cta = 查看保护信息
 newtab-privacy-message-milestone-total-cta = 查看保护信息
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = （今日已拦截超过 100 个跟踪器。）减少跟踪器，浏览更私密。
 newtab-privacy-message-daily-cap-cta = 查看保护信息
 # Variables:
 #   $count (number) - Consecutive days the user has had trackers blocked
@@ -435,6 +437,29 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = “近期搜索”选项
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = 详细了解
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = 近期搜索
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = 热门搜索
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = 刚刚
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = 从近期搜索中移除“{ $search }”
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = 搜索
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = 搜索选项
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = 近期搜索会显示在这里，方便随时重新搜索。
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = 热门搜索当前不可用。
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -920,6 +945,10 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = 狐狸从橙色背景的右侧探出脑袋
+newtab-wallpaper-firefox-tail-dark = 深色背景上的狐狸尾巴
+newtab-wallpaper-firefox-tail-light = 浅色背景上的狐狸尾巴
+newtab-wallpaper-firefox-sitting-hill-dark = 狐狸坐在深紫色山丘上
+newtab-wallpaper-firefox-sitting-hill-light = 狐狸坐在亮色山丘上
 
 ## Firefox
 
