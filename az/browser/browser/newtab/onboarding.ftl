@@ -31,3 +31,12 @@ onboarding-existing-tabs-title2 = Şaquli vərəqlərlə tanışlıq
 onboarding-existing-vertical-tabs-label = Şaquli vərəqləri sınayın
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Üfüqi vərəqləri saxla
+
+## First Run Onboarding refresh strings
+
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Vərəqləri ekranın kənarı boyunca kiçildilmiş yan paneldə kiçik simgələr kimi göstərən səyyah pəncərəsi.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Vərəqləri ekranın kənarı boyunca kiçildilmiş yan paneldə kiçik simgələr kimi göstərən səyyah pəncərəsi.

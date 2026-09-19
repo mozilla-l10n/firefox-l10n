@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protection-report-webpage-title = Qoruma Paneli
 etp-card-title-always = Artırılmış İzlənmə Qoruması: Həmişə Açıq
 etp-card-title-custom-not-blocking = Artırılmış İzlənmə Qoruması: QAPALI
 etp-card-content-description = { -brand-short-name } şirkətlərin sizi vebdə gizlincə təqib etməsini avtomatik dayandırır.
@@ -26,37 +27,37 @@ mobile-app-title = Reklam izləyicilərini daha çox cihazda əngəlləyin
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Sosial Media İzləyiciləri
     .aria-label =
         { $count ->
             [one] { $count }sosial media izləyicisi ({ $percentage }%)
            *[other] { $count }sosial media izləyicisi ({ $percentage }%)
         }
+    .title = Sosial Media İzləyiciləri
 bar-tooltip-cookie =
-    .title = Saytlararası İzləmə Çərəzləri
     .aria-label =
         { $count ->
             [one] { $count } saytlararası izləmə çərəzi ({ $percentage }%)
            *[other] { $count } saytlararası izləmə çərəzi ({ $percentage }%)
         }
+    .title = Saytlararası İzləmə Çərəzləri
 bar-tooltip-tracker =
-    .title = İzləmə Məqsədli Məzmun
     .aria-label =
         { $count ->
             [one] { $count } izləmə məqsədli məzmun ({ $percentage }%)
            *[other] { $count } izləmə məqsədli məzmun ({ $percentage }%)
         }
+    .title = İzləmə Məqsədli Məzmun
 bar-tooltip-fingerprinter =
-    .title = Barmaq izi toplayıcıları
     .aria-label =
         { $count ->
             [one] { $count } barmaq izi toplayıcısı ({ $percentage }%)
            *[other] { $count } barmaq izi toplayıcısı ({ $percentage }%)
         }
+    .title = Barmaq izi toplayıcıları
 bar-tooltip-cryptominer =
-    .title = Kripto mədənçiləri
     .aria-label =
         { $count ->
             [one] { $count } kripto mədənçisi ({ $percentage }%)
            *[other] { $count } kripto mədənçisi ({ $percentage }%)
         }
+    .title = Kripto mədənçiləri

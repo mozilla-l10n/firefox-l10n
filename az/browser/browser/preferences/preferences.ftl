@@ -884,6 +884,7 @@ security-privacy-status-trackers-label =
        *[other] Son bir ayda { $trackerCount } izləyici əngəlləndi
     }
 security-privacy-status-up-to-date-label = { -brand-short-name } səyyahının ən son və təhlükəsiz versiyasını əldə etmisiniz
+security-privacy-status-update-needed-label = { -brand-short-name } üçün yeni versiya mövcuddur.
 
 ## Enhanced Tracking Protection (ETP) status section
 
