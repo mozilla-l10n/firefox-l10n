@@ -10,8 +10,11 @@
 
 unified-extensions-manage-extensions =
     .label = Uzantıları idarə et
+# In this headline, "go a long way", means that even a small number of extensions can have a big impact.
+unified-extensions-empty-reason-zero-extensions-onboarding2 = Bir neçə əlavə çox böyük fərq yaradır
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Uzantılarla veb səyahət təcrübənizi yaxşılaşdırın
+unified-extensions-empty-content-explain-extensions-onboarding2 = Fikrinizi cəmləşdirməyə, məxfiliyinizi qorumağa və daha çox şeyə kömək edəcək tövsiyələrimiz var.
 
 ## An extension in the main list
 
