@@ -35,7 +35,7 @@ appearance-browser-icon-bonus-group =
 
 # “Bonus” means “additional” in this context
 appearance-browser-icon-requirement =
-    .message = Ολοκληρώστε τα βήματα και ξεκλειδώστε επιπλέον εικονίδια για να εξατομικεύσετε το { -brand-short-name }.
+    .message = Ολοκληρώστε εργασίες και ξεκλειδώστε εικονίδια για το { -brand-short-name }.
 # Shown in place of appearance-browser-icon-requirement once the bonus icons are
 # unlocked (the browser is both the default and pinned to the taskbar).
 appearance-browser-icon-unlocked =

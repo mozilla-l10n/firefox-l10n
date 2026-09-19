@@ -543,6 +543,13 @@ onboarding-refresh-gratitude-title = { -brand-short-name } oĩta nendive
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-splash-screen-title = { -brand-product-name } nemo’ã ñepyrũ, ko’ág̃a guive
 onboarding-refresh-hero-text = Heñói ñemo’ãrã, ndaha’éi tapykuehorã.
+onboarding-refresh-tou-default = Embojuruja juajuha { -brand-short-name } ndive
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Ereko { -brand-short-name } Dock-pe
+       *[other] Embjuaju { -brand-short-name } tembiaporã rupáre
+    }
+onboarding-refresh-tou-default-unchecked = Ereko ñemo’ã gueroipyre eikundaha vovénte
 
 ## Smart window switcher callout
 
