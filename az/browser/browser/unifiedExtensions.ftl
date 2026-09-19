@@ -8,5 +8,22 @@
 
 ## Panel
 
+unified-extensions-manage-extensions =
+    .label = Uzantıları idarə et
 # In this headline, “Level up” means to enhance your browsing experience.
 unified-extensions-empty-reason-zero-extensions-onboarding = Uzantılarla veb səyahət təcrübənizi yaxşılaşdırın
+
+## An extension in the main list
+
+unified-extensions-item-message-manage = Uzantını idarə et
+
+## Extension's context menu
+
+unified-extensions-context-menu-manage-extension =
+    .label = Uzantını idarə et
+unified-extensions-context-menu-remove-extension =
+    .label = Uzantını sil
+unified-extensions-context-menu-move-widget-up =
+    .label = Yuxarı daşı
+unified-extensions-context-menu-move-widget-down =
+    .label = Aşağı daşı

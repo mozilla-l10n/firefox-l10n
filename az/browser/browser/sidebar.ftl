@@ -11,9 +11,13 @@ sidebar-vertical-tabs =
     .label = Şaquli vərəqlər
 sidebar-hide-tabs-and-sidebar =
     .label = Vərəqləri və yan paneli gizlət
+sidebar-manage-extensions2 = Bütün uzantıları idarə et
+sidebar-customize-extensions-header2 = Uzantılar
 
 ## Labels for sidebar context menu items
 
+sidebar-context-menu-manage-extension =
+    .label = Uzantını idarə et
 sidebar-context-menu-hide-sidebar =
     .label = Yan paneli gizlət
 sidebar-context-menu-enable-vertical-tabs =

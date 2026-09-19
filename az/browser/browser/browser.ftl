@@ -473,6 +473,9 @@ bookmarks-toolbar-placeholder =
     .title = Əlfəcin alət sətri obyektləri
 bookmarks-toolbar-placeholder-button =
     .label = Əlfəcin alət sətri obyektləri
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = Hazırkı vərəqi əlfəcinlə…
 
 ## Library Panel items
 

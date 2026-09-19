@@ -398,6 +398,9 @@ home-mode-choice-blank =
     .label = Boş Səhifə
 home-homepage-custom-url =
     .placeholder = Ünvan Yapışdır
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = Uzantını idarə et
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -896,6 +899,8 @@ preferences-ai-controls-sidebar-chatbot-control =
     .label = Yan paneldə söhbət botu
 preferences-ai-controls-state-description-blocked = <strong> Əngəllənib:</strong> Özəlliyi görə və işlədə bilməyəcəksiniz. Daxili Sİ üçün artıq yüklənmiş modellər silinəcəkdir.
 preferences-ai-controls-block-confirmation-heading = Sİ təkmilləşdirmələri əngəllənsin?
+preferences-ai-controls-block-confirmation-description = { -brand-short-name }-da yeni və ya cari süni intellekt təkmilləşdirmələrini, yaxud onlar barəsində üstə çıxan pəncərələri görməyəcəksiniz.  Sonradan istifadəsinə davam etmək istədiyiniz şeylərin əngəlini qaldıra bilərsiniz.
+preferences-ai-controls-block-confirmation-features-start = Nələr əngəllənəcək:
 preferences-ai-controls-block-confirmation-translations = Tərcümələr
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Yan paneldə söhbət botu təminatçıları
 preferences-ai-controls-header3 =
