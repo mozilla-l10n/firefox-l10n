@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Idiomas instalados
 browser-languages-available-label = Idiomas disponíveis
 browser-languages-error = O { -brand-short-name } não pode atualizar os seus idiomas neste momento. Verifique que está ligado(a) à internet ou tente novamente.
+browser-languages-update-error =
+    .message = O { -brand-short-name } não pode atualizar os seus idiomas neste momento. Verifique que está ligado à internet ou tente novamente.
