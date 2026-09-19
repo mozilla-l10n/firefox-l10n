@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = שפות מותקנות
 browser-languages-available-label = שפות זמינות
 browser-languages-error = ל־{ -brand-short-name } אין אפשרות לעדכן את השפות שלך כרגע. נא לבדוק שקיים חיבור לאינטרנט ולנסות שוב.
+browser-languages-update-error =
+    .message = ל־{ -brand-short-name } אין אפשרות לעדכן את השפות שלך כרגע. נא לבדוק שקיים חיבור לאינטרנט ולנסות שוב.
