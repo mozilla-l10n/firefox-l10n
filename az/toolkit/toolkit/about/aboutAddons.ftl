@@ -232,11 +232,13 @@ addon-permissions-heading = İcazələr
 
 ## Page headings
 
-extension-heading = Uzantılarını idarə et
-theme-heading = Mözvularını idarə et
-plugin-heading = Qoşmalarını idarə et
-dictionary-heading = Lüğətlərini idarə et
-locale-heading = Dillərini idarə et
+extension-heading = Uzantılarınızı idarə edin
+theme-heading = Mövzularınızı idarə edin
+plugin-heading = Qoşmalarınızı idarə edin
+dictionary-heading = Lüğətlərinizi idarə edin
+locale-heading = Dillərinizi idarə edin
+updates-heading = Yeniləmələrinizi idarə edin
+sitepermission-heading = Sayt icazələrinizi idarə edin
 discover-heading = { -brand-short-name } səyyahınızı şəxsiləşdirin
 shortcuts-heading = Uzantı qısayollarını idarə et
 default-heading-search-label = Daha çox əlavə tapın
@@ -268,3 +270,8 @@ plugins-openh264-name = OpenH264 Video Codec, Cisco Systems, Inc. tərəfindən 
 plugins-openh264-description = Bu qoşma WebRTC şərtlərinə uyğunluq göstərmək və H.264 video kodekə ehtiyac olan cihazlarda WebRTC görüşmələri edə bilmək məqsədilə Mozilla tərəfindən avtomatik yüklənir. Kodekin qaynaq kodlarını görmək və ətraflı məlumat almaq üçün https://www.openh264.org/ keçidini ziyarət edin.
 plugins-widevine-name = Widevine Məzmun Deşifrə Etmə Modulu (Google Inc. tərəfindən)
 plugins-widevine-description = Bu qoşma şifrələnmiş mediaların Encrypted Media Extensions (EME) spesifikasiyasına əsasən oxutmağı mümkün edir. Şifrələnmiş media əsasən saytlar tərəfindən premium media məzmunların köçürülməsinin qarşısını almaq üçün işlədilir. Encrypted Media Extensions haqqında daha ətraflı məlumat üçün https://www.w3.org/TR/encrypted-media/ ünvanını ziyarət edin.
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+mlmodel-heading = Cizahızınızdakı Sİ modellərini idarə edin
+mlmodel-description = { -brand-short-name } daxilində bəzi xüsusiyyətlər və uzantılar cihazınızda yerli olaraq çalışan Sİ modelləri əsasında işləyir. Bu yanaşma məxfiliyinizi qoruyur və bir sıra hallarda performansı artırır. <a data-l10n-name="learn-more">Ətraflı öyrənin</a>
