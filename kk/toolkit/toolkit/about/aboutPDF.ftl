@@ -22,3 +22,8 @@ about-pdf-set-default =
     .label = Бастапқы ретінде орнату
 about-pdf-dismiss =
     .label = Елемеу
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Артқа
