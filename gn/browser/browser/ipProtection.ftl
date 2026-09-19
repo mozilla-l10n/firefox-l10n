@@ -102,6 +102,7 @@ unauthenticated-vpn-title = Eiporu VPN jehe’apyre { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Eñomi tendaite</a> oñeikundaha aja { -brand-product-name } ndive.
 unauthenticated-private-location-message = Eipytyvõ <a data-l10n-name="learn-more-vpn">ereko ne rendaite ñemíme</a> { -brand-product-name } ndive.
 unauthenticated-choose-location-message-1 = Eiporavo 5 tendaite apytépe térã eheja { -brand-product-name } toiporavo pya’eve.
+unauthenticated-site-rules-message = Ehecha mávapa oiporu VPN ha umi oiporu’ỹva.
 unauthenticated-get-started = Eñepyrũ
 unauthenticated-terms-of-service-privacy-notice = Eku’e jeývo, emoneĩ ko’ã <a data-l10n-name="vpn-terms-of-service">ñepytyvõrã mboguata</a> ha pe <a data-l10n-name="vpn-privacy-notice">ñemigua marandu’i</a>.
 site-exclusion-toggle-enabled-1 =
@@ -111,6 +112,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN ogue ko tendápe g̃uarã
     .label = Eiporu VPN ko tendápe g̃uarã
 site-exclusion-toggle-description = ¿Ñanduti rogue ndoikói? Eñeha’ã embogue VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Eñangareko VPN mbojojaháre
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Mbojojaha mboavapyre
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN ogue ko tendápe g̃uarã
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN hendy ko tendápe g̃uarã
 ipprotection-settings-link =
     .label = Ñemboheko
 
@@ -244,6 +253,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } ñanduti rogueita
         }
     .label = Eñangareko ñanduti rogue ñembohekóre
+ip-protection-site-rules-header =
+    .heading = Eñangareko ñanduti rogue mbojojaháre
+ip-protection-site-rules-button =
+    .description = Emoĩ mbojojaha tenda oikotevéva tekoñemive térã VPN ñembogue.
+    .label = Eñangareko ñanduti rogue mbojojaháre
 ip-protection-autostart =
     .label = Emyandy VPN ijeheguietéva
 ip-protection-autostart-checkbox =

@@ -68,6 +68,7 @@ contentanalysis-invalid-agent-signature-message-content = Η επαλήθευσ�
 contentanalysis-error-message-upload-file = Η μεταφόρτωση του αρχείου «{ $filename }» απορρίφθηκε.
 contentanalysis-error-message-dropped-text = Η μεταφορά και απόθεση απορρίφθηκε.
 contentanalysis-error-message-clipboard = Η επικόλληση απορρίφθηκε.
+contentanalysis-error-message-clipboard-copy = Η αντιγραφή απορρίφθηκε.
 contentanalysis-error-message-print = Η εκτύπωση απορρίφθηκε.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -84,6 +85,7 @@ contentanalysis-block-dialog-body-download-file = Σύμφωνα με την π�
 contentanalysis-block-dialog-title-clipboard = Δεν επιτρέπεται να επικολλήσετε αυτό το περιεχόμενο
 contentanalysis-block-dialog-body-clipboard = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να επικολλήσετε αυτό το περιεχόμενο. Επικοινωνήστε με τον διαχειριστή για περισσότερες πληροφορίες.
 contentanalysis-block-dialog-title-clipboard-copy = Δεν επιτρέπεται να αντιγράψετε αυτό το περιεχόμενο
+contentanalysis-block-dialog-body-clipboard-copy = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να αντιγράψετε αυτό το περιεχόμενο. Επικοινωνήστε με τον διαχειριστή σας για περισσότερες πληροφορίες.
 contentanalysis-block-dialog-title-dropped-text = Δεν επιτρέπεται να αποθέσετε αυτό το περιεχόμενο
 contentanalysis-block-dialog-body-dropped-text = Σύμφωνα με την πολιτική προστασίας δεδομένων του οργανισμού σας, δεν επιτρέπεται να κάνετε μεταφορά και απόθεση αυτού του περιεχομένου. Επικοινωνήστε με τον διαχειριστή για περισσότερες πληροφορίες.
 contentanalysis-block-dialog-title-print = Δεν επιτρέπεται να εκτυπώσετε αυτό το περιεχόμενο
