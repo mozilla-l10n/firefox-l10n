@@ -25,6 +25,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo, což sćo zasajźił. To wokognuśe trajo.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } na zakłaźe datowych pšawidłow wašeje organizacije pśeglědujo, což sćo kopěrował. To wokognuśe trajo.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -92,6 +95,7 @@ contentanalysis-block-dialog-body-download-file = Pó pšawidłach šćita datow
 contentanalysis-block-dialog-title-clipboard = Njesmějośo toś to wopśimjeśe zasajźiś
 contentanalysis-block-dialog-body-clipboard = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe zasajźiś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-block-dialog-title-clipboard-copy = Njamaśo pšawo toś to wopśimjeśe kopěrowaś.
+contentanalysis-block-dialog-body-clipboard-copy = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe kopěrowaś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-block-dialog-title-dropped-text = Njesmějośo toś to wopśimjeśe pušćiś
 contentanalysis-block-dialog-body-dropped-text = Pó pšawidłach šćita datow swójeje organizacije njesmějośo toś to wopśimjeśe śěgnuś a pušćiś. Stajśo se ze swójim administratorom za dalšne informacije do zwiska.
 contentanalysis-block-dialog-title-print = Njesmějośo toś ten dokument śišćaś

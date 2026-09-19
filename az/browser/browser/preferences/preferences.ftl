@@ -223,6 +223,8 @@ settings-translations-offer-to-translate-label =
 settings-translations-more-settings-button =
     .description = Dillər, vebsaytlar və oflayn tərcümə üçün seçimlərinizi təyin edin.
     .label = Daha çox tərcümə tənzimləməsi
+settings-translations-subpage-header =
+    .heading = Daha çox tərcümə tənzimləməsi
 check-user-spelling =
     .label = Hərf səhvləriniz siz yazdıqca yoxlanılsın
     .accesskey = y
@@ -878,17 +880,23 @@ related-settings-tabs-browsing-link =
 ## AI controls page
 
 preferences-ai-controls-description = { -brand-short-name } səyyahında sizin həmişə seçim imkanınız var. Bura süni intellektlə təkmilləşmiş özəlliklərdən istifadə edib-etməmək də daxildir. Tezliklə daha çox idarəetmə gələcək.
-preferences-ai-controls-block-ai-label = Süni İntellekt təkmilləşdirmələrini əngəlləyin
+preferences-ai-controls-block-ai-label = Sİ təkmilləşdirmələrini əngəlləyin
 preferences-ai-controls-block-ai-description = Əngəlləmək o deməkdir ki, siz { -brand-short-name } səyyahında yeni və ya hazırkı Sİ təkmilləşdirmələrini, yaxud onlar barəsində üstə çıxan pəncərələri görməyəcəksiniz. Təkmilləşdirmələrə nələrin daxil edildiyi və axtarış təklifləri, tövsiyələr kimi ənənəvi maşın öyrənməsi funksiyalarına necə nəzarət etmə barədə <a data-l10n-name="link">ətraflı məlumat əldə edin</a>.
 preferences-ai-controls-on-device-group =
     .description = Bunlar özəllikdən istifadə etdiyiniz zaman cihazınıza yüklənən kiçik süni intellekt modellərindən istifadə edir. Bu yanaşma məxfiliyinizi qorumağa kömək edir.
     .label = Daxili Süni İntellekt
+preferences-ai-controls-translations-control =
+    .description = Üstünlük verdiyiniz dildə kəsintisiz veb səyahət edin.
+    .label = Tərcümələr
+preferences-ai-controls-translations-more-link = Daha çox tərcümə tənzimləməsi
 preferences-ai-controls-sidebar-chatbot-group =
     .description = Səyahət edərkən bir söhbət botunu görünən vəziyyətdə saxlayın. Anthropic Claude, ChatGPT, Copilot, Google Gemini və Le Chat Mistral arasında seçim edin.
     .label = Yan paneldə Sİ söhbət botu təminatçıları
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Yan paneldə söhbət botu
 preferences-ai-controls-state-description-blocked = <strong> Əngəllənib:</strong> Özəlliyi görə və işlədə bilməyəcəksiniz. Daxili Sİ üçün artıq yüklənmiş modellər silinəcəkdir.
+preferences-ai-controls-block-confirmation-heading = Sİ təkmilləşdirmələri əngəllənsin?
+preferences-ai-controls-block-confirmation-translations = Tərcümələr
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Yan paneldə söhbət botu təminatçıları
 preferences-ai-controls-header3 =
     .heading = Süni intellekt idarəetmələri

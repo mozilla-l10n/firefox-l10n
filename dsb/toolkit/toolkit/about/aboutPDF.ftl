@@ -28,6 +28,7 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = Rědy PDF { -brand-short-name }
+about-pdf-features-intro = Cytajśo, markěrujśo a signěrujśo PDF direktnje tam, źož pśeglědujośo. Jo lažko, dermo a priwatne.
 about-pdf-features-back =
     .label = Slědk
 about-pdf-feature-organize-heading = Boki organizěrowaś
@@ -39,7 +40,10 @@ about-pdf-feature-comments-description = Komentary a dopomnjeśa zawóstajiś, g
 about-pdf-feature-annotate-heading = PDF z pśipiskami wugótowaś
 about-pdf-feature-annotate-description = Pśidajśo tekst, wuzwignjenja a kreslanki.
 about-pdf-feature-images-heading = Pśistupne wobraze nagraś
+about-pdf-feature-images-description = Pśidajśo alternatiwny tekst, aby wobraze za wěcej luźi pśistupne byli.
 about-pdf-feature-view-heading = Wubjeŕśo swój naglěd
+about-pdf-feature-view-description = Kulniśo wertikalnje abo horicontalnje abo změńśo wugótowanja bokow.
 about-pdf-feature-presentation-heading = PDF w połnej wobrazowce prezentěrowaś
+about-pdf-feature-presentation-description = Źělśo pśeglědny naglěd w prezentaciskem modusu.
 about-pdf-feature-details-heading = Drobnostki malsnjej namakaś
 about-pdf-feature-details-description = Wužywajśo rozrědowanja, pśidanki a kakosći, aby se pó PDF gibał.
