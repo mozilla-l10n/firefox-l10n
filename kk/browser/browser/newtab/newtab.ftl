@@ -1708,6 +1708,13 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Бұл кеңістік сіздің ережелеріңіз бойынша ойнайды
 newtab-activation-window-message-values-focus-message = { -brand-product-name } көмегімен интернеттегі жұмысыңызды өзіңізге ыңғайлы стильде бастаңыз. { -brand-product-name } интерфейсін өзіңізге бейімдеп, оны бірегей етіңіз.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = { -brand-product-name } өнімін өз талғамыңызға сай толық безендіріңіз
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.

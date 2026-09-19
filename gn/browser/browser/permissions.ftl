@@ -10,6 +10,11 @@ speech-recognition-model-download-allow =
 speech-recognition-model-download-not-now =
     .label = Ani ko'ág̃a
     .accesskey = N
+speech-recognition-model-download-progress-message = Emboguejyhína peteĩchagua ñe’ẽ jekuaarã
+# Accessible name of the progress bar shown while the model downloads. The
+# percentage and time remaining are rendered next to it, as text.
+speech-recognition-model-download-progressbar =
+    .aria-label = Ñemboguejy jeku’e peteĩchagua ñe’ẽ jekuaarã
 speech-recognition-model-download-cancel =
     .label = Heja
     .accesskey = C
