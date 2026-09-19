@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Wobraz dnja
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Pytaś
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nejnowše pytanja
@@ -514,6 +518,11 @@ newtab-recent-searches-just-now = Rowno
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” z nejnowšych pytanjow wótwónoźeś
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Pytaś
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Pytańske nastajenja
 
 ## Recent searches widget — empty states
 
@@ -822,6 +831,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Akcije
 newtab-custom-widget-picture-toggle =
     .label = Wobraz dnja
+newtab-custom-widget-search-toggle =
+    .label = Pytaś
 newtab-custom-widget-recent-searches-toggle =
     .label = Nejnowše pytanja
 newtab-custom-widget-section-title = Asistenty
@@ -878,6 +889,9 @@ newtab-wallpaper-add-an-image = Wobraz pśidaś
 newtab-wallpaper-custom-color = Barwu wubraś
 newtab-wallpaper-toggle-title =
     .label = Slězynowe wobraze
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategorije slězynowych wobrazow
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Wobraz jo pśekšocył limit datajoweje wjelikosći { $file_size }. Nagrajśo pšosym mjeńšu dataju.
@@ -1743,6 +1757,13 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Toś to městno pó wašych pšawidłach grajo
 newtab-activation-window-message-values-focus-message = { -brand-product-name } wam zmóžnja, na wašnju pśeglědowaś, kótarež wam se spódoba, z wěcej wósobinskej móžnosću, źeń online zachopiś. Pśiswójśo se { -brand-product-name }.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Pśiměŕśo { -brand-product-name } swójim žycenjam
 
 ## Strings for the Clock widget
 
