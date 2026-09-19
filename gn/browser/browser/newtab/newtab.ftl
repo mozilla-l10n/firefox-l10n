@@ -930,6 +930,9 @@ newtab-weather-menu-change-location = Emoambue tendatee
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Eheka tendatee
     .placeholder = Eheka tendatee
+newtab-weather-cancel-input =
+    .aria-label = Heja
+    .title = Heja
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Eiporu ne rendaite ag̃agua
@@ -1039,6 +1042,8 @@ newtab-section-follow-highlight-subtitle = Ehapykueho ndegustáva ehecha hag̃ua
 
 newtab-topic-navigation-label =
     .aria-label = Téma
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Hetave
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1177,6 +1182,10 @@ newtab-widget-lists-menu-create = Emoheñói tysýi pyahu
 newtab-widget-lists-menu-delete = Embogue ko tysýi
 newtab-widget-lists-menu-copy = Embohasa tysýi kuatiajokohápe
 newtab-widget-lists-menu-learn-more = Eikuaave
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Emoambue tysýi
+    .title = Emoambue tysýi
 newtab-widget-lists-button-add-item = Embojuaju jehaipy
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Embojuaju jehaipy
@@ -1236,6 +1245,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Emomichĩmbaite widgets tuichaháicha
     .title = Emomichĩ widgets
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Ehechauka widgets vore
+    .title = Ehechauka widgets
 newtab-widget-section-menu-button =
     .aria-label = Embojuruja widgets poravoha
     .title = Widgets poravoha
