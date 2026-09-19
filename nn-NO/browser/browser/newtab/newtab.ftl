@@ -502,6 +502,9 @@ newtab-recent-searches-row-remove =
     .aria-label = Fjern «{ $search }» frå nylege søk
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søk
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Søkjeinnstillingar
 
 ## Recent searches widget — empty states
 
@@ -808,6 +811,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Aksjar
 newtab-custom-widget-picture-toggle =
     .label = Dagens bilde
+newtab-custom-widget-search-toggle =
+    .label = Søk
 newtab-custom-widget-recent-searches-toggle =
     .label = Nylege søk
 newtab-custom-widget-section-title = Widgetar

@@ -2060,12 +2060,12 @@ related-settings-tabs-browsing-link =
 ## AI controls page
 
 preferences-ai-controls-description = 您可隨時在 { -brand-short-name } 決定是否使用 AI 擴充功能。即將推出更多控制設定。
-preferences-ai-controls-block-ai-label = 封鎖 AI 功能
+preferences-ai-controls-block-ai-label = 封鎖 AI 強化功能
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = 封鎖的話，代表您不會在 { -brand-short-name } 看到目前已有，或新推出的 AI 擴充功能，或是任何有關這些功能的彈出提示。若需有關包含哪些功能、如何控制傳統機器學習技術的相關功能（如搜尋建議）的相關資訊，<a data-l10n-name="link">請參考此處</a>。
+preferences-ai-controls-block-ai-description = 封鎖的話，代表您不會在 { -brand-short-name } 看到目前已有，或新推出的 AI 強化功能，或是任何有關這些功能的彈出提示。若需有關包含哪些功能、如何控制傳統機器學習技術的相關功能（如搜尋建議）的相關資訊，<a data-l10n-name="link">請參考此處</a>。
 preferences-ai-controls-blocked-message =
-    .message = 預設會封鎖目前提供與新推出的 AI 擴充功能，可使用下列控制元件解除封鎖特定功能。
+    .message = 預設會封鎖目前提供與新推出的 AI 強化功能，可使用下列控制元件解除封鎖特定功能。
 preferences-ai-controls-on-device-group =
     .description = 這些功能會下載小型 AI 模型到您的裝置上運作，這樣可以幫助保護您的隱私。
     .label = 本機裝置上的 AI
@@ -2109,8 +2109,8 @@ preferences-ai-controls-state-description-before = 選項的意思：
 preferences-ai-controls-state-description-available = <strong>可用：</strong>您會看到這個功能，也能使用。
 preferences-ai-controls-state-description-enabled = <strong>啟用：</strong>您主動選擇要使用此功能。
 preferences-ai-controls-state-description-blocked = <strong>封鎖：</strong>您不會看到這個功能，也不能使用。也會移除所有在裝置內運作的 AI 模型。
-preferences-ai-controls-block-confirmation-heading = 要封鎖 AI 功能嗎？
-preferences-ai-controls-block-confirmation-description = 您不會在 { -brand-short-name } 看到目前已有，或新推出的 AI 擴充功能，或是任何有關這些功能的彈出提示。但之後還是可以解除封鎖任何想要使用的功能。
+preferences-ai-controls-block-confirmation-heading = 要封鎖 AI 強化功能嗎？
+preferences-ai-controls-block-confirmation-description = 您不會在 { -brand-short-name } 看到目前已有，或新推出的 AI 強化功能，或是任何有關這些功能的彈出提示。但之後還是可以解除封鎖任何想要使用的功能。
 preferences-ai-controls-block-confirmation-features-start = 會封鎖哪些功能：
 preferences-ai-controls-block-confirmation-translations = 翻譯
 preferences-ai-controls-block-confirmation-pdfjs = { -brand-short-name } PDF 檢視器中的圖片替代文字
