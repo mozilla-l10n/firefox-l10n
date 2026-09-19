@@ -502,6 +502,9 @@ newtab-recent-searches-row-remove =
     .aria-label = Fjern «{ $search }» fra nylige søk
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søk
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Søkeinnstillinger
 
 ## Recent searches widget — empty states
 
@@ -808,6 +811,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Aksjer
 newtab-custom-widget-picture-toggle =
     .label = Dagens bilde
+newtab-custom-widget-search-toggle =
+    .label = Søk
 newtab-custom-widget-recent-searches-toggle =
     .label = Nylige søk
 newtab-custom-widget-section-title = Widgeter
@@ -1728,6 +1733,8 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 # customization panel and pick a theme or wallpaper.
 newtab-nova-customization-callout-header = Sett den siste finishen på { -brand-product-name }
 newtab-nova-customization-callout-message = Utforsk lyse eller mørke temaer og bakgrunner som får den nye { -brand-product-name } til å føles mer som din.
+newtab-nova-customization-callout-primary-button =
+    .label = Velg ditt utseende
 
 ## Strings for the Clock widget
 

@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF-redigerer
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Et gratis verktøy for å lese, slå sammen, signere, kommentere og mer — med innebygd personvern
+about-pdf-features-cta =
+    .label = Utforsk PDF-verktøy
 about-pdf-dropzone =
     .title = Slipp en PDF her for å starte, eller trykk Enter
 about-pdf-dropzone-hint = Slipp en PDF her for å starte
@@ -25,7 +27,17 @@ about-pdf-dismiss =
 
 ## The about:pdf#features page.
 
+about-pdf-features-header = { -brand-short-name } PDF-verktøy
 about-pdf-features-back =
     .label = Tilbake
 about-pdf-feature-organize-heading = Organiser sider
+about-pdf-feature-organize-description = Endre rekkefølgen på, fjern, slå sammen og eksporter sider.
 about-pdf-feature-signatures-heading = Lagre signaturer
+about-pdf-feature-signatures-description = Opprett flere signaturer og legg dem til i skjemaer.
+about-pdf-feature-comments-heading = Legg til notater
+about-pdf-feature-comments-description = Legg igjen kommentarer og påminnelser mens du leser.
+about-pdf-feature-images-description = Legg til alternativ-tekst slik at bildene fungerer for flere.
+about-pdf-feature-view-heading = Velg visning
+about-pdf-feature-view-description = Rull vertikalt eller horisontalt, eller bytt sideoppsett.
+about-pdf-feature-presentation-heading = Presenter PDF-filer i fullskjerm
+about-pdf-feature-details-heading = Finn detaljer raskere

@@ -31,6 +31,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } gjennomgår tek
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } gjennomgår det du skrev ut mot organisasjonens dataretningslinjer. Dette kan ta et øyeblikk.
 contentanalysis-operationtype-clipboard = utklippstavle
+contentanalysis-operationtype-clipboard-copy = kopiert innhold
 contentanalysis-operationtype-dropped-text = sluppet tekst
 contentanalysis-operationtype-print = skriv ut
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +69,7 @@ contentanalysis-invalid-agent-signature-message-content = Mislykket signaturbekr
 contentanalysis-error-message-upload-file = Opplasting av «{ $filename }» ble nektet.
 contentanalysis-error-message-dropped-text = Dra og slipp nektet.
 contentanalysis-error-message-clipboard = Lim inn nektet.
+contentanalysis-error-message-clipboard-copy = Kopiering avvist.
 contentanalysis-error-message-print = Utskrift nektet.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +85,7 @@ contentanalysis-block-dialog-title-download-file = Du har ikke tillatelse til å
 contentanalysis-block-dialog-body-download-file = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å laste ned filen «{ $filename }». Kontakt administratoren din for mer informasjon.
 contentanalysis-block-dialog-title-clipboard = Du har ikke tillatelse til å lime inn dette innholdet
 contentanalysis-block-dialog-body-clipboard = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å lime inn dette innholdet. Kontakt administratoren din for mer informasjon.
+contentanalysis-block-dialog-title-clipboard-copy = Du har ikke tillatelse til å kopiere dette innholdet
 contentanalysis-block-dialog-title-dropped-text = Du har ikke tillatelse til å dra og slippe dette innholdet
 contentanalysis-block-dialog-body-dropped-text = I henhold til organisasjonens retningslinjer for databeskyttelse har du ikke tillatelse til å dra og slippe dette innholdet. Kontakt administratoren din for mer informasjon.
 contentanalysis-block-dialog-title-print = Du har ikke tillatelse til å skrive ut dette dokumentet
