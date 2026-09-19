@@ -945,10 +945,17 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = 狐狸从橙色背景的右侧探出脑袋
+newtab-wallpaper-firefox-colorful-sky = 紫色夜空中翻涌橙色波纹
+newtab-wallpaper-firefox-desert-dark = 狐狸坐在深紫色沙漠中
+newtab-wallpaper-firefox-desert-light = 狐狸奔跑在明亮的沙漠中
+newtab-wallpaper-firefox-hills-dark = 狐狸奔跑在暗色的山丘上
+newtab-wallpaper-firefox-hills-light = 狐狸奔跑在明亮的山丘上
 newtab-wallpaper-firefox-tail-dark = 深色背景上的狐狸尾巴
 newtab-wallpaper-firefox-tail-light = 浅色背景上的狐狸尾巴
 newtab-wallpaper-firefox-sitting-hill-dark = 狐狸坐在深紫色山丘上
-newtab-wallpaper-firefox-sitting-hill-light = 狐狸坐在亮色山丘上
+newtab-wallpaper-firefox-sitting-hill-light = 狐狸坐在明亮的山丘上
+newtab-wallpaper-firefox-sky-dark = 夜幕下的深紫色山峦
+newtab-wallpaper-firefox-sky-light = 柔和天空下的明亮山峦
 
 ## Firefox
 
