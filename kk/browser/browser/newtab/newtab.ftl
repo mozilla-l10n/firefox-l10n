@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Осы күннің суреті
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Іздеу
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Жуырдағы іздеулер
@@ -481,6 +485,21 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Жуырдағы іздеулер опциялары
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Көбірек білу
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Жуырдағы іздеулер
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Трендте
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = { $engine } арқылы
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Жаңа ғана
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Іздеу
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Іздеу опциялары
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -779,6 +798,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Акциялар
 newtab-custom-widget-picture-toggle =
     .label = Осы күннің суреті
+newtab-custom-widget-search-toggle =
+    .label = Іздеу
 newtab-custom-widget-recent-searches-toggle =
     .label = Жуырдағы іздеулер
 newtab-custom-widget-section-title = Виджеттер

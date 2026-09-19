@@ -125,6 +125,10 @@ site-exclusion-toggle-description = Сайт жұмыс істемей тұр м
 site-rules-manage-rules-link-text = VPN ережелерін басқару
 # Heading for user defined rules on VPN usage for particular websites
 site-rules-status-heading = Сіздің ережеңіз
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN бұл сайт үшін сөндірулі тұр
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = Бұл сайт үшін VPN іске қосулы тұр
 ipprotection-settings-link =
     .label = Баптаулар
 
@@ -261,6 +265,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } веб-сайт
         }
     .label = Веб-сайт баптауларын басқару
+ip-protection-site-rules-header =
+    .heading = Веб-сайт ережелерін басқару
+ip-protection-site-rules-button =
+    .description = Қосымша жекелікті қажет ететін немесе VPN сөндірілген сайттар үшін ережелерді орнату.
+    .label = Веб-сайт ережелерін басқару
 ip-protection-autostart =
     .label = VPN автоматты түрде іске қосу
 ip-protection-autostart-checkbox =

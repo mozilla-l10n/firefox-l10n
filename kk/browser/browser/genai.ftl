@@ -63,6 +63,12 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = { $provider } сұрау
     .tooltiptext = { $provider } сұрау
+genai-shortcut-copy-button =
+    .aria-label = Таңдалған мәтінді көшіру
+    .tooltiptext = Таңдалған мәтінді көшіру
+genai-shortcut-more-actions-button =
+    .aria-label = Көбірек опциялар
+    .tooltiptext = Көбірек опциялар
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } сұрау
