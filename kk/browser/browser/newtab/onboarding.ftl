@@ -540,6 +540,8 @@ onboarding-refresh-gratitude-title = { -brand-short-name } сізді қолда
 
 ## First Run Onboarding refresh strings
 
+onboarding-refresh-primary-button = Жалғастыру
+onboarding-refresh-fro-import-header = Деректеріңізді әкеліңіз
 onboarding-refresh-fro-skip-button = Аттап кету
 
 ## Smart window switcher callout

@@ -856,6 +856,9 @@ newtab-wallpaper-add-an-image = Суретті қосу
 newtab-wallpaper-custom-color = Түсті таңдау
 newtab-wallpaper-toggle-title =
     .label = Түсқағаздар
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Тұсқағаз санаттары
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Сурет файл өлшемі шегінен { $file_size } МБ асып кетті. Шағындау файлды жүктеп салып көріңіз.
@@ -981,6 +984,8 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Қызғылт сары фондағы оң жақ шетіндегі түлкі
+newtab-wallpaper-firefox-colorful-sky = Күлгін түнгі аспандағы қызғылт сары толқындар
 
 ## Firefox
 

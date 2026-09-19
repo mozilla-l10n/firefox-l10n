@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF өңдегіші
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Оқуға, біріктіруге, қол қоюға, түсініктеме беруге және т.б. арналған — кірістірілген жекелікке ие тегін сайман
+about-pdf-features-cta =
+    .label = PDF құралдарын зерттеу
 about-pdf-dropzone =
     .title = Бастау үшін PDF файлын осында тастаңыз немесе Enter пернесін басыңыз
 about-pdf-dropzone-hint = Бастау үшін PDF файлын осы жерге тастаңыз
@@ -25,5 +27,6 @@ about-pdf-dismiss =
 
 ## The about:pdf#features page.
 
+about-pdf-features-header = { -brand-short-name } PDF құралдары
 about-pdf-features-back =
     .label = Артқа
