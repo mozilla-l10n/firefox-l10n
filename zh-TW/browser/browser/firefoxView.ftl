@@ -19,7 +19,7 @@ firefoxview-syncedtabs-signin-header-2 = 在您所有裝置同步 { -brand-produ
 firefoxview-syncedtabs-signin-description-2 = 登入或註冊帳號後，即可在您的手機或其他裝置檢視您開啟的分頁。可以使用帳號同步網站密碼、上網紀錄，還有更多功能。
 # The verb “Go” is implied but omitted from the headline: “[Go] from laptop to phone, seamlessly”
 firefoxview-syncedtabs-signin-header-3 = 從筆電到手機無縫接軌
-firefoxview-syncedtabs-signin-description-3 = 讓您的上網資料在不同裝置間同步 — 分頁、網站密碼、瀏覽紀錄。
+firefoxview-syncedtabs-signin-description-3 = 讓您的瀏覽資料在不同裝置間同步 — 分頁、網站密碼、瀏覽紀錄。
 firefoxview-syncedtabs-signin-primarybutton-2 = 登入
 firefoxview-syncedtabs-adddevice-header-2 = 取回所有裝置上的分頁
 firefoxview-syncedtabs-adddevice-description-2 = 在手機或另一台電腦登入 { -brand-product-name } 即可在此看到分頁。了解如何<a data-l10n-name="url">連結其他裝置</a>。

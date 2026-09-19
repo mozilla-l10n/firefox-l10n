@@ -633,7 +633,7 @@ newtab-menu-bookmark = 書籤
 
 newtab-menu-copy-download-link = 複製下載鏈結
 newtab-menu-go-to-download-page = 前往下載頁面
-newtab-menu-remove-download = 自下載記錄移除
+newtab-menu-remove-download = 自下載紀錄移除
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file

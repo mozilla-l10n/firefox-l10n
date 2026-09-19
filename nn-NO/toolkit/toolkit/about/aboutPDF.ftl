@@ -27,6 +27,7 @@ about-pdf-dismiss =
 
 ## The about:pdf#features page.
 
+about-pdf-features-header = { -brand-short-name } PDF-verktøy
 about-pdf-features-back =
     .label = Tilbake
 about-pdf-feature-organize-heading = Organiser sider

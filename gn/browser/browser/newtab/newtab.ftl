@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Ta’ãnga araguáva
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Eheka
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Ojeheka ramóva
@@ -432,6 +436,16 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Ojeheka ramóva rapykuere
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Eikuaave
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Ojeheka ramóva
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Hechameméva
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = { $engine } rupive
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Ko’ag̃aite
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

@@ -96,7 +96,7 @@ downloads-cmd-copy-download-link =
     .label = 複製下載鏈結
     .accesskey = l
 downloads-cmd-remove-from-history =
-    .label = 自下載記錄移除
+    .label = 自下載紀錄移除
     .accesskey = e
 downloads-cmd-clear-list =
     .label = 清除預覽窗格
@@ -174,7 +174,7 @@ downloads-cancel-download =
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
-    .label = 顯示所有下載
+    .label = 顯示所有下載項目
     .accesskey = S
 # This string is shown at the top of the download details sub-panel to indicate
 # that we are showing the details of a single download.
