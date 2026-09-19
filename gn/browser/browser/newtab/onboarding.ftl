@@ -538,6 +538,12 @@ onboarding-refresh-gratitude-subtitle = Aguyje eiporu haguére { -brand-short-na
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } oĩta nendive
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } nemo’ã ñepyrũ, ko’ág̃a guive
+onboarding-refresh-hero-text = Heñói ñemo’ãrã, ndaha’éi tapykuehorã.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Emoambue ovetãita ha’evéva ha oĩva apytépe ejapose vove.

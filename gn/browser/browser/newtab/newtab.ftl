@@ -1621,6 +1621,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Ko pa’ũ ohuga ambue tekoguatarãme
 newtab-activation-window-message-values-focus-message = { -brand-product-name } omoneĩ eikundahávo nde eipotahaichaite, ndeháicha eñepyrũ hag̃ua ne rembiapo ñandutípe. Emboava { -brand-product-name }.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = Eiporavo nde jehecharã
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
