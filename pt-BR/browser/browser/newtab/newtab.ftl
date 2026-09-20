@@ -500,6 +500,11 @@ newtab-recent-searches-just-now = há pouco
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Remover “{ $search }” das pesquisas recentes
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Pesquisar
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Opções de pesquisa
 
 ## Recent searches widget — empty states
 
@@ -806,6 +811,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Ações
 newtab-custom-widget-picture-toggle =
     .label = Imagem do dia
+newtab-custom-widget-search-toggle =
+    .label = Pesquisar
 newtab-custom-widget-recent-searches-toggle =
     .label = Pesquisas recentes
 newtab-custom-widget-section-title = Widgets
@@ -862,6 +869,9 @@ newtab-wallpaper-add-an-image = Adicionar uma imagem
 newtab-wallpaper-custom-color = Escolher uma cor
 newtab-wallpaper-toggle-title =
     .label = Fundo de tela
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Categorias de fundos de tela
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = A imagem excedeu o limite de tamanho de arquivo de { $file_size }MB. Tente enviar um arquivo menor.
@@ -1719,6 +1729,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Este espaço segue suas regras
 newtab-activation-window-message-values-focus-message = O { -brand-product-name } permite navegar do jeito que você quiser, com uma maneira mais pessoal de iniciar o dia online. Deixe o { -brand-product-name } do seu jeito.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Dê o toque final para deixar o { -brand-product-name } do seu jeito
+newtab-nova-customization-callout-message = Experimente temas claros ou escuros e fundos de tela que deixam o novo { -brand-product-name } mais no seu estilo.
+newtab-nova-customization-callout-primary-button =
+    .label = Escolha seu estilo
 
 ## Strings for the Clock widget
 

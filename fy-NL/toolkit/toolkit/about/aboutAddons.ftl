@@ -528,6 +528,7 @@ mlmodel-pdfjs = { -brand-short-name } brûkt dit om alt-tekst te meitsjen foar �
 mlmodel-smart-tab-topic-engine = { -brand-short-name } brûkt dit om nammen foar jo ljepblêdgroepen foar te stellen
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } brûkt dit om ljepblêden foar jo ljepblêdgroepen foar te stellen
 mlmodel-formfill-engine = { -brand-short-name } brûkt dit om te helpen by it ynfoljen fan adresformulieren
+mlmodel-speech-recognition = { -brand-short-name } brûkt dit foar spraakwerkenning op apparaten
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI op apparaat
 addon-category-mlmodel-title =

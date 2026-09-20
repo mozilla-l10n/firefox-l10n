@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name }-PDF-bewurker
 about-pdf-header = { -brand-short-name }-PDF
 about-pdf-tagline = In fergees ark foar lêzen, gearfoegjen, ûndertekenjen, kommentaar jaan en mear – mei ynboude privacy
+about-pdf-features-cta =
+    .label = PDF-helpmiddelen ferkenne
 about-pdf-dropzone =
     .title = Sleep in PDF hjir nei ta om te begjinnen of druk op Enter
 about-pdf-dropzone-hint = Sleep in PDF hjir nei ta om te begjinnen
@@ -25,8 +27,14 @@ about-pdf-dismiss =
 
 ## The about:pdf#features page.
 
+about-pdf-features-header = { -brand-short-name }-PDF-helpmiddelen
+about-pdf-features-intro = Lês, markearje en ûndertekenje PDF’s wêr’t jo navigearje. It is ienfâldich, fergees en privee.
 about-pdf-features-back =
     .label = Tebek
+about-pdf-feature-organize-heading = Siden oarderje
+about-pdf-feature-organize-description = Siden opnij oarderje, fuortsmite, gearfoegje en eksportearje.
+about-pdf-feature-signatures-heading = Hantekeningen bewarje
+about-pdf-feature-signatures-description = Meitsje meardere hantekeningen oan en foegje dizze ta oan formulieren.
 about-pdf-feature-comments-heading = Notysje tafoegje
 about-pdf-feature-comments-description = Lit opmerkingen en omtinken efter wylst it lêzen.
 about-pdf-feature-annotate-heading = PDF’s opmeitsje
