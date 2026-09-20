@@ -139,8 +139,8 @@ neterror-network-protocol-error-contact-website = Lūdzu, sazinieties ar vietņu
 certerror-expired-cert-second-para = Iespējams, ka ir beidzies tīmekļvietnes sertifikāta derīgums, un tas neļauj { -brand-short-name } izveidot drošu savienojumu. Ja apmeklēsi šo vietni, uzbrucēji varētu mēģināt nozagt informāciju, piemēram, paroles, e-pasta adreses vai maksājumu karšu datus.
 certerror-expired-cert-sts-second-para = Iespējams, ka ir beidzies vietnes sertifikāta derīgums, un tas neļauj { -brand-short-name } izveidot drošu savienojumu.
 certerror-what-can-you-do-about-it-title = Ko ar šo var iesākt?
-certerror-unknown-issuer-what-can-you-do-about-it-website = Problēma visdrīzāk ir saistīta ar mājas lapu un jūs neko nevarat darīt, lai to atrisinātu.
-certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ja izmantojat uzņēmuma tīklu vai pretvīrusu programmu, varat lūgt palīdzīgu lietotāju atbalsta nodaļai. Tāpat varat ziņot lapas īpašniekiem par šo problēmu.
+certerror-unknown-issuer-what-can-you-do-about-it-website = Sarežģījums, visdrīzāk, ir saistīts ar tīmekļvietni, un tur neko nevar darīt, lai to atrisinātu.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Ja izmanto uzņēmuma tīklu vai pretvīrusu programmatūru, pēc palīdzības var vērsties pie atbalsta komandām. Par sarežģījumu var arī ziņot tīmekļvietnes pārvaldītājam.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
