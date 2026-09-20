@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } está verificando se o que você colou está de acordo com as políticas de dados da sua organização. Pode demorar um pouco.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } está revisando o que você copiou de acordo com as políticas de dados da sua organização. Pode demorar um pouco.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,6 +33,10 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } está verifican
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } está verificando se o que você imprimiu está de acordo com as políticas de dados da sua organização. Pode demorar um pouco.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = A cópia deste conteúdo não é permitida pela sua organização.
 contentanalysis-operationtype-clipboard = área de transferência
 contentanalysis-operationtype-dropped-text = texto arrastado
 contentanalysis-operationtype-print = imprimir
