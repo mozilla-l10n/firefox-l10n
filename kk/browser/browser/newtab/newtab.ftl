@@ -1001,6 +1001,10 @@ newtab-wallpaper-firefox-side-kit-dark = Сол жақта, қараңғы фо�
 newtab-wallpaper-firefox-side-kit-light = Сол жақта, ашық фонда түлкі
 newtab-wallpaper-firefox-sitting-hill-dark = Қара күлгін төбелерде отырған түлкі
 newtab-wallpaper-firefox-sitting-hill-light = Жарық төбелерде отырған түлкі
+newtab-wallpaper-firefox-peak-dark = Сол жақ шетінде, қараңғы фонда түлкінің беті
+newtab-wallpaper-firefox-peak-light = Сол жақ шетінде, ашық фонда түлкінің беті
+newtab-wallpaper-firefox-sky-dark = Түнгі аспан астындағы қою күлгін төбелер
+newtab-wallpaper-firefox-sky-light = Тынық аспан астындағы жарық төбелер
 
 ## Firefox
 
