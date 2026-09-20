@@ -540,9 +540,15 @@ onboarding-refresh-gratitude-title = { -brand-short-name } сізді қолда
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } қазірдің өзінде сізді қолдайды
+onboarding-refresh-hero-text = Сізді бақылау үшін емес, қорғау үшін жасалған.
+onboarding-refresh-tou-default = Барлық сілтемелерді { -brand-short-name } арқылы ашу
 onboarding-refresh-primary-button = Жалғастыру
 onboarding-refresh-fro-import-header = Деректеріңізді әкеліңіз
 onboarding-refresh-fro-skip-button = Аттап кету
+onboarding-refresh-fro-theme-header = Сыртқы түрін келтіріп көріңіз
+onboarding-refresh-tab-layout-header = Беттер жаймасының басқа нұсқасын қолданып көріңіз
 onboarding-refresh-tab-layout-top = Жоғарыда
 onboarding-refresh-tab-layout-side = Бүйірінде
 onboarding-refresh-tab-layout-minimal = Минималды

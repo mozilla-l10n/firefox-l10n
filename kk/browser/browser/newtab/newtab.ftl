@@ -991,6 +991,16 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Қызғылт сары фондағы оң жақ шетіндегі түлкі
 newtab-wallpaper-firefox-colorful-sky = Күлгін түнгі аспандағы қызғылт сары толқындар
+newtab-wallpaper-firefox-desert-dark = Қара күлгін шөлде отырған түлкі
+newtab-wallpaper-firefox-desert-light = Жарық шөл даламен жүгіріп бара жатқан түлкі
+newtab-wallpaper-firefox-hills-dark = Қараңғы төбелердің үстінен жүгіріп бара жатқан түлкі
+newtab-wallpaper-firefox-hills-light = Жарық төбелердің үстінен жүгіріп бара жатқан түлкі
+newtab-wallpaper-firefox-tail-dark = Қараңғы фонда түлкінің құйрығы
+newtab-wallpaper-firefox-tail-light = Ашық фонда түлкінің құйрығы
+newtab-wallpaper-firefox-side-kit-dark = Сол жақта, қараңғы фонда түлкі
+newtab-wallpaper-firefox-side-kit-light = Сол жақта, ашық фонда түлкі
+newtab-wallpaper-firefox-sitting-hill-dark = Қара күлгін төбелерде отырған түлкі
+newtab-wallpaper-firefox-sitting-hill-light = Жарық төбелерде отырған түлкі
 
 ## Firefox
 
@@ -1714,6 +1724,8 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 # makes something yours. The call to action is to open the New Tab
 # customization panel and pick a theme or wallpaper.
 newtab-nova-customization-callout-header = { -brand-product-name } өнімін өз талғамыңызға сай толық безендіріңіз
+newtab-nova-customization-callout-primary-button =
+    .label = Сыртқы түрін таңдаңыз
 
 ## Strings for the Clock widget
 
