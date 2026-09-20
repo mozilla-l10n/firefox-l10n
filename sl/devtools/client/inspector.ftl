@@ -20,6 +20,17 @@ colorpicker-tooltip-hue-slider-title = Odtenek
 colorpicker-tooltip-alpha-slider-title = Neprosojnost
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Za element specifični psevdorazredi
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = Postavitev plošč
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Samodejno
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Eno ob drugem
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = Eno na drugem
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Vklopi/izklopi emulacijo svetle barvne sheme za stran
