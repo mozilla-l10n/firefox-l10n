@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Паспрабуйце ўбудаваны VPN ад {
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Схавайце сваё месцазнаходжанне</a> ў часе аглядання ў { -brand-product-name }.
 unauthenticated-private-location-message = Дапамагае <a data-l10n-name="learn-more-vpn">захоўваць прыватнасць вашага месцазнаходжання</a> ў { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Выберыце адно з некалькіх месцаў або дазвольце { -brand-product-name } выбраць самае хуткае.
+unauthenticated-site-rules-message = Кантралюйце, якія сайты выкарыстоўваюць VPN, а якія не.
 unauthenticated-get-started = Пачаць
 unauthenticated-terms-of-service-privacy-notice = Працягваючы, вы згаджаецеся з <a data-l10n-name="vpn-terms-of-service">Умовамі абслугоўвання</a> і <a data-l10n-name="vpn-privacy-notice">Паведамленнем аб прыватнасці</a>.
 site-exclusion-toggle-enabled-1 =
@@ -265,6 +266,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[many] { $count } сайтаў
         }
     .label = Кіраваць наладамі сайтаў
+ip-protection-site-rules-header =
+    .heading = Кіраванне правіламі сайтаў
+ip-protection-site-rules-button =
+    .description = Усталюйце правілы для сайтаў, якім патрэбна дадатковая прыватнасць або адключаны VPN.
+    .label = Кіраванне правіламі сайтаў
 ip-protection-autostart =
     .label = Аўтаматычна ўключаць VPN
 ip-protection-autostart-checkbox =
