@@ -63,6 +63,12 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = Vprašaj { $provider }
     .tooltiptext = Vprašaj { $provider }
+genai-shortcut-copy-button =
+    .aria-label = Kopiraj izbrano besedilo
+    .tooltiptext = Kopiraj izbrano besedilo
+genai-shortcut-more-actions-button =
+    .aria-label = Več možnosti
+    .tooltiptext = Več možnosti
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Vprašaj { $provider }

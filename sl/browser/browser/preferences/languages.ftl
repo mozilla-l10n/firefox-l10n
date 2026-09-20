@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Nameščeni jeziki
 browser-languages-available-label = Jeziki na razpolago
 browser-languages-error = { -brand-short-name } trenutno ne more posodobiti jezikov. Preverite, ali ste povezani z internetom, in poskusite znova.
+browser-languages-update-error =
+    .message = { -brand-short-name } trenutno ne more posodobiti jezikov. Preverite, ali ste povezani z internetom, in poskusite znova.

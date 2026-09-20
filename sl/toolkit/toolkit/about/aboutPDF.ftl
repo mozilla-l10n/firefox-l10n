@@ -22,3 +22,8 @@ about-pdf-set-default =
     .label = Nastavi kot privzeto
 about-pdf-dismiss =
     .label = Skrij
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Nazaj
