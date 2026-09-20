@@ -47,4 +47,3 @@ about-pdf-feature-presentation-heading = Mostra i PDF a schermo intero
 about-pdf-feature-presentation-description = Condividi una visualizzazione pulita in modalità presentazione.
 about-pdf-feature-details-heading = Trova i dettagli più velocemente
 about-pdf-feature-details-description = Usa struttura, allegati e proprietà per navigare nei PDF.
-

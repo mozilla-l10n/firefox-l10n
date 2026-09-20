@@ -55,4 +55,3 @@ browser-languages-available-label = Lingue disponibili
 browser-languages-error = { -brand-short-name } non è in grado di aggiornare le lingue in questo momento. Verifica la connessione a Internet o riprova.
 browser-languages-update-error =
     .message = { -brand-short-name } non è in grado di aggiornare le lingue in questo momento. Verifica la connessione a Internet o riprova.
-
