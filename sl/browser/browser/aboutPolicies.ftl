@@ -22,3 +22,6 @@ inactive-message = Storitev pravilnikov za podjetja ni dejavna.
 policy-name = Ime pravilnika
 policy-value = Vrednost pravilnika
 policy-errors = Napake pravilnika
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = Ni v celoti uveljavljeno
