@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Geïnstalleerde talen
 browser-languages-available-label = Beschikbare talen
 browser-languages-error = { -brand-short-name } kan uw talen momenteel niet bijwerken. Controleer of u met het internet bent verbonden of probeer het opnieuw.
+browser-languages-update-error =
+    .message = { -brand-short-name } kan uw talen momenteel niet bijwerken. Controleer of u met het internet bent verbonden of probeer het opnieuw.

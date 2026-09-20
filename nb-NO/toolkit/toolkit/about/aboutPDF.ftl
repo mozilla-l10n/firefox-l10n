@@ -28,6 +28,7 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } PDF-verktøy
+about-pdf-features-intro = Les, gjør merknader i og signer PDF-er direkte i nettleseren. Det er enkelt, gratis og privat.
 about-pdf-features-back =
     .label = Tilbake
 about-pdf-feature-organize-heading = Organiser sider
@@ -36,8 +37,13 @@ about-pdf-feature-signatures-heading = Lagre signaturer
 about-pdf-feature-signatures-description = Opprett flere signaturer og legg dem til i skjemaer.
 about-pdf-feature-comments-heading = Legg til notater
 about-pdf-feature-comments-description = Legg igjen kommentarer og påminnelser mens du leser.
+about-pdf-feature-annotate-heading = Gjør merknader i PDF-er
+about-pdf-feature-annotate-description = Legg til tekst, uthevinger og tegninger.
+about-pdf-feature-images-heading = Last opp tilgjengelige bilder
 about-pdf-feature-images-description = Legg til alternativ-tekst slik at bildene fungerer for flere.
 about-pdf-feature-view-heading = Velg visning
 about-pdf-feature-view-description = Rull vertikalt eller horisontalt, eller bytt sideoppsett.
 about-pdf-feature-presentation-heading = Presenter PDF-filer i fullskjerm
+about-pdf-feature-presentation-description = Del en ryddig visning i presentasjonsmodus.
 about-pdf-feature-details-heading = Finn detaljer raskere
+about-pdf-feature-details-description = Bruk disposisjoner, vedlegg og egenskaper for å navigere i PDF-filer.
