@@ -31,6 +31,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } агенті с
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } агенті сіз баспағ шығарған нәрсенің ұйымыңыздың деректер саясаттарына сәйкес болуына қарап жатыр. Бұл біраз уақыт алуы мүмкін.
 contentanalysis-operationtype-clipboard = алмасу буфері
+contentanalysis-operationtype-clipboard-copy = көшірілген мазмұн
 contentanalysis-operationtype-dropped-text = тасталған мәтін
 contentanalysis-operationtype-print = баспаға шығару
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +69,7 @@ contentanalysis-invalid-agent-signature-message-content = { $agent } агент�
 contentanalysis-error-message-upload-file = "{ $filename }" файлын жүктеп жіберуге тыйымн салынған.
 contentanalysis-error-message-dropped-text = Ұстап апарып тастауға тыйым салынған.
 contentanalysis-error-message-clipboard = Кірістіруге тыйым салынған.
+contentanalysis-error-message-clipboard-copy = Көшіру рұқсат етілмеді.
 contentanalysis-error-message-print = Баспаға шығаруға тыйым салынған.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +85,8 @@ contentanalysis-block-dialog-title-download-file = Бұл файлды жүкт�
 contentanalysis-block-dialog-body-download-file = Ұйымыңыздың деректерді қорғау саясаттарына сәйкес "{ $filename }" файлын жүктеп алу рұқсат етілмейді. Қосымша ақпарат алу үшін әкімшіңізге хабарласыңыз.
 contentanalysis-block-dialog-title-clipboard = Бұл мазмұнды кірістіруге рұқсатыңыз жоқ
 contentanalysis-block-dialog-body-clipboard = Ұйымыңыздың деректерді қорғау саясаттарына сәйкес бұл мазмұнды кірістіруге рұқсат етілмейді. Қосымша ақпарат алу үшін әкімшіңізге хабарласыңыз.
+contentanalysis-block-dialog-title-clipboard-copy = Бұл мазмұнды көшіруге рұқсатыңыз жоқ
+contentanalysis-block-dialog-body-clipboard-copy = Ұйымыңыздың деректерді қорғау саясаттарына сәйкес бұл мазмұнды көшіруге рұқсат етілмейді. Қосымша ақпарат алу үшін әкімшіңізге хабарласыңыз.
 contentanalysis-block-dialog-title-dropped-text = Бұл мазмұнды тастауға рұқсатыңыз жоқ
 contentanalysis-block-dialog-body-dropped-text = Ұйымыңыздың деректерді қорғау саясаттарына сәйкес бұл мазмұнды ұстап әкеліп тастауға рұқсат етілмейді. Қосымша ақпарат алу үшін әкімшіңізге хабарласыңыз.
 contentanalysis-block-dialog-title-print = Бұл құжатты басып шығаруға рұқсатыңыз жоқ

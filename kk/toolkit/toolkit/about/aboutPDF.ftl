@@ -30,3 +30,5 @@ about-pdf-dismiss =
 about-pdf-features-header = { -brand-short-name } PDF құралдары
 about-pdf-features-back =
     .label = Артқа
+about-pdf-feature-signatures-heading = Қолтаңбаларды сақтау
+about-pdf-feature-signatures-description = Бірнеше қолтаңба жасап, оларды формаларға қосыңыз.

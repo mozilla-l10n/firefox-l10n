@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } сақтал
 autofill-edit-payment-method-os-prompt-macos = сақталған төлем әдісі ақпаратын көрсету
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } сақталған төлем әдісі ақпаратын көрсеткісі келеді. Бұл Windows тіркелгісіне қатынау рұқсатын төменде растаңыз.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } сақталған төлем әдісі ақпаратын көрсеткісі келеді.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = сақталған төлем әдісі ақпаратын өшіру
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } сақталған төлем әдісі ақпаратын өшіргісі келеді. Бұл Windows тіркелгісіне қол жеткізу рұқсатын төменде растаңыз.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } сақталған төлем әдісі ақпаратын өшіргісі келеді.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Формаларды автотолтыру опциялары
 
