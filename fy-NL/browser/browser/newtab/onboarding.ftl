@@ -539,6 +539,27 @@ onboarding-refresh-gratitude-subtitle = Tank foar it brûken fan { -brand-short-
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } is der foar jo
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } stiet fan no ôf foar jo klear
+onboarding-refresh-hero-text = Boud om jo te beskermjen, net om jo te folgjen.
+onboarding-refresh-tou-default = Alle keppelingen iepenje mei { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } yn de Dock hâlde
+       *[other] { -brand-short-name } oan jo taakbalke tafoegje
+    }
+onboarding-refresh-tou-default-unchecked = Altyd ynboude beskerming wylst it navigearjen
+onboarding-refresh-tou-pin-unchecked = Hâld de iennige grutte ûnôfhinklike browser ien klik fuort
+onboarding-refresh-terms-of-use-with-links = Troch fierder te gean geane jo akkoard mei de <a data-l10n-name="terms_of_use">Brûksbetingsten foar { -brand-product-name }</a> en ús <a data-l10n-name="privacy_notice">Privacyferklearring</a>. Om de browser te ferbetterjen, ferstjoert { -brand-product-name } diagnostyske en ynteraksjegegevens nei { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Ynstellingen foar gegevenssamling beheare
+onboarding-refresh-primary-button = Trochgean
+onboarding-refresh-fro-import-header = Jo gegevens ymportearje
+onboarding-refresh-fro-import-body = Jo persoanlike gegevens bliuwe persoanlik. { -brand-product-name } sil se nea ferkeapje.
+onboarding-refresh-fro-skip-button = Oerslaan
+onboarding-refresh-fro-theme-header = Boartsje mei jo útstrieling
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Wikselje op elk winske momint tusken Tûke en klassike finsters.

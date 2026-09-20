@@ -998,6 +998,21 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = In foks oan de rjochterkant op in oranje eftergrûn
+newtab-wallpaper-firefox-colorful-sky = Oranje golven tsjin in pearse nachtloft
+newtab-wallpaper-firefox-desert-dark = In foks dy’t yn in donkerpearse woestyn sit
+newtab-wallpaper-firefox-desert-light = In foks dy’t oer in ljochte woestyn rint
+newtab-wallpaper-firefox-hills-dark = In foks dy’t oer tsjustere heuvels rint
+newtab-wallpaper-firefox-hills-light = In foks dy’t oer ljochte heuvels rint
+newtab-wallpaper-firefox-tail-dark = In foksesturt op in donkere eftergrûn
+newtab-wallpaper-firefox-tail-light = In foksesturt op in ljochte eftergrûn
+newtab-wallpaper-firefox-side-kit-dark = In foks oan de linkerkant, op in donkere eftergrûn
+newtab-wallpaper-firefox-side-kit-light = In foks oan de linkerkant, op in ljochte eftergrûn
+newtab-wallpaper-firefox-sitting-hill-dark = In foks dy’t op donkerpearse heuvels sit
+newtab-wallpaper-firefox-sitting-hill-light = In foks dy’t op ljochte heuvels sit
+newtab-wallpaper-firefox-peak-dark = In foksegesicht oan de linkerrâne, op in donkere eftergrûn
+newtab-wallpaper-firefox-peak-light = In foksegesicht oan de linkerrâne, op in ljochte eftergrûn
+newtab-wallpaper-firefox-sky-dark = Donkerpearse heuvels ûnder in nachtlike himel
+newtab-wallpaper-firefox-sky-light = Ljochte heuvels ûnder in sêfte loft
 
 ## Firefox
 
@@ -1025,6 +1040,9 @@ newtab-weather-menu-change-location = Lokaasje wizigje
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Lokaasje sykje
     .placeholder = Lokaasje sykje
+newtab-weather-cancel-input =
+    .aria-label = Annulearje
+    .title = Annulearje
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Aktuele lokaasje brûke
@@ -1134,6 +1152,8 @@ newtab-section-follow-highlight-subtitle = Folgje jo ynteressen om mear te sjen 
 
 newtab-topic-navigation-label =
     .aria-label = Underwerpen
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Mear
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1272,6 +1292,10 @@ newtab-widget-lists-menu-create = Nije list oanmeitsje
 newtab-widget-lists-menu-delete = Dizze list fuortsmite?
 newtab-widget-lists-menu-copy = List nei klamboerd kopiearje
 newtab-widget-lists-menu-learn-more = Mear ynfo
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = List wizigje
+    .title = List wizigje
 newtab-widget-lists-button-add-item = In item tafoegje
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = In item tafoegje
@@ -1331,6 +1355,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Alle widgets ynklappe oant kompakte ôfmjitting
     .title = Widgets minimalisearje
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = De widgetseksje toane
+    .title = Widgets toane
 newtab-widget-section-menu-button =
     .aria-label = Menu Widgets iepenje
     .title = Menu Widgets
@@ -1702,6 +1731,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Dizze romte spilet neffens jo regels
 newtab-activation-window-message-values-focus-message = Mei { -brand-product-name } kinne jo sneupe lykas jo dat wolle, mei in mear persoanlike manier om jo dei online te begjinnen. Meitsje { -brand-product-name } jo eigen.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Lis de lêste hân oan { -brand-product-name }
+newtab-nova-customization-callout-message = Ferken ljochte of tsjustere tema’s en eftergrûnen dy’t de nije { -brand-product-name } mear as jo eigen fiele litte.
+newtab-nova-customization-callout-primary-button =
+    .label = Kies jo styl
 
 ## Strings for the Clock widget
 
