@@ -543,6 +543,7 @@ onboarding-refresh-gratitude-title = { -brand-short-name } сізді қолда
 onboarding-refresh-primary-button = Жалғастыру
 onboarding-refresh-fro-import-header = Деректеріңізді әкеліңіз
 onboarding-refresh-fro-skip-button = Аттап кету
+onboarding-refresh-tab-layout-minimal = Минималды
 
 ## Smart window switcher callout
 
