@@ -141,6 +141,12 @@ pdfjs-title = PDF-lêzer
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = PDF.js-ferzje
 pdfjs-enabled = Ynskeakele
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Annotaasje-editor ynskeakele
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA-formulieren ynskeakele
+pdfjs-open-attachments-inline = PDF-bylagen inline iepenje
 library-version-title = Biblioteekferzje
 copy-text-to-clipboard-label = Tekst nei klamboerd kopiearje
 copy-raw-data-to-clipboard-label = Rûge gegevens nei klamboerd kopiearje

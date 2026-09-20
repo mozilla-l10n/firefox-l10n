@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } toetst wat jo plakt hawwe oan it gegevensbelied fan jo organisaasje. Dit kin efkes duorje.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } toetst wat jo kopiearre hawwe oan it gegevensbelied fan jo organisaasje. Dit kin efkes duorje.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,6 +33,10 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } toetst jo plakt
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } toetst wat jo ôfdrukt hawwe oan it gegevensbelied fan jo organisaasje. Dit kin efkes duorje.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = It kopiearjen fan dizze ynhâld is beheind troch jo organisaasje.
 contentanalysis-operationtype-clipboard = klamboerd
 contentanalysis-operationtype-clipboard-copy = kopiearre ynhâld
 contentanalysis-operationtype-dropped-text = plakte tekst
@@ -86,6 +93,7 @@ contentanalysis-block-dialog-body-download-file = Neffens it gegevensbeskermings
 contentanalysis-block-dialog-title-clipboard = Jo meie dizze ynhâld net plakke
 contentanalysis-block-dialog-body-clipboard = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo dizze ynhâld net plakke. Nim kontakt op mei jo behearder foar mear ynfo.
 contentanalysis-block-dialog-title-clipboard-copy = Jo meie dizze ynhâld net kopiearje
+contentanalysis-block-dialog-body-clipboard-copy = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo dizze ynhâld net kopiearje. Nim kontakt op mei jo behearder foar mear ynfo.
 contentanalysis-block-dialog-title-dropped-text = Jo meie dizze ynhâld net ferslepe
 contentanalysis-block-dialog-body-dropped-text = Neffens it gegevensbeskermingsbelied fan jo organisaasje meie jo dizze ynhâld net ferslepe. Nim kontakt op mei jo behearder foar mear ynfo.
 contentanalysis-block-dialog-title-print = Jo meie dit dokumint net ôfdrukke

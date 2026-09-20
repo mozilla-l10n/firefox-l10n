@@ -559,6 +559,16 @@ onboarding-refresh-fro-import-header = Jo gegevens ymportearje
 onboarding-refresh-fro-import-body = Jo persoanlike gegevens bliuwe persoanlik. { -brand-product-name } sil se nea ferkeapje.
 onboarding-refresh-fro-skip-button = Oerslaan
 onboarding-refresh-fro-theme-header = Boartsje mei jo útstrieling
+onboarding-refresh-tab-layout-header = Probearje in oare ljepblêdyndieling
+onboarding-refresh-tab-layout-top = Boppe-oan
+onboarding-refresh-tab-layout-side = Oan de sydkant
+onboarding-refresh-tab-layout-minimal = Minimaal
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = In browserfinster dat ljepblêden as lytse piktogrammen langs de sydkant fan it skerm toant, yn in ferlytse sydbalke.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = In browserfinster dat ljepblêden as lytse piktogrammen langs de sydkant fan it skerm toant, yn in ferlytse sydbalke.
 
 ## Smart window switcher callout
 
