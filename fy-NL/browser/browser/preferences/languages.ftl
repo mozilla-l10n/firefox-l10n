@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Ynstallearre talen
 browser-languages-available-label = Beskikbere talen
 browser-languages-error = { -brand-short-name } kin jo talen op dit stuit net bywurkje. Kontrolearje oft jo mei it ynternet ferbûn binne of probearje it opnij.
+browser-languages-update-error =
+    .message = { -brand-short-name } kin jo talen op dit stuit net bywurkje. Kontrolearje oft jo mei it ynternet ferbûn binne of probearje it opnij.

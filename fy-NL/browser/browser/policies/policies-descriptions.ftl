@@ -30,6 +30,7 @@ policy-BlockAboutSupport = Tagong ta de about:support-side blokkearje.
 policy-Bookmarks = Blêdwizers meitsje yn de Blêdwizerakbalke, it menu Blêdwizers, of in hjirbinnen opjûne map.
 policy-CaptivePortal = Stipe foar hotspot-oanmeldingsside ynskeakelje of útskeakelje.
 policy-CertificatesDescription = Sertifikaten tafoegje of ynboude sertifikaten brûke.
+policy-ClearOnShutdown = Navigaasjegegevens wiskje wannear’t { -brand-short-name } slút.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.

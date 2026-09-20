@@ -17,7 +17,7 @@ autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } probearre
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } probearret bewarre betellingsgegevens te toanen.
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
-autofill-delete-payment-method-os-prompt-macos = bewarre betelmetoade fuortsmite
+autofill-delete-payment-method-os-prompt-macos = bewarre betellingsmetoade fuortsmite
 autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } probearret bewarre betellingsgegevens fuort te smiten. Befêstigje hjirûnder tagong ta dizze Windows-account.
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name } probearret betellingsgegevens fuort te smiten.
 # The link leads users to Form Autofill browser preferences.
