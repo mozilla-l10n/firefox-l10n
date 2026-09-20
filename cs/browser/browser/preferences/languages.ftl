@@ -57,3 +57,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Nainstalované jazyky
 browser-languages-available-label = Dostupné jazyky
 browser-languages-error = { -brand-short-name } nyní nemůže aktualizovat seznam jazyků. Zkontrolujte internetové připojení a zkuste to znovu.
+browser-languages-update-error =
+    .message = { -brand-short-name } nyní nemůže aktualizovat vaše jazyky. Zkontrolujte, že jste připojeni k internetu, nebo to zkuste znovu.
