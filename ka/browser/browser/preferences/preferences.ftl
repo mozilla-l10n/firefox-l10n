@@ -2072,7 +2072,7 @@ related-settings-tabs-browsing-link =
 ## AI controls page
 
 preferences-ai-controls-description = ყოველთვის გაძლევთ { -brand-short-name } არჩევანის უფლებას, მათ შორის ხელოვნური გონის შესაძლებლობებით სარგებლობის შემთხვევაშიც. მართვის სხვა საშუალებებიც მალე დაემატება.
-preferences-ai-controls-block-ai-label = შეიზღუდოს AI-შესაძლებლობები?
+preferences-ai-controls-block-ai-label = შეიზღუდოს ხელგონის შესაძლებლობები?
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = შეზღუდვა გულისხმობს, რომ { -brand-short-name } აღარ გიჩვენებთ ახალ ან არსებულ AI-შესაძლებლობებს, არც მათ შესახებ ამომხტომ ცნობებს. <a data-l10n-name="link">იხილეთ ვრცლად</a>, თუ რას მოიცავს და როგორ იმართება ძველებური სახის მანქანური დასწავლის მქონე შესაძლებლობები, მათ შორის ძიებისა თუ სხვა შემოთავაზებები.
@@ -2121,7 +2121,7 @@ preferences-ai-controls-state-description-before = რას გულისხ�
 preferences-ai-controls-state-description-available = <strong>ხელმისაწვდომი:</strong> შეგიძლიათ იხილოთ და გამოიყენოთ.
 preferences-ai-controls-state-description-enabled = <strong>ამოქმედებული:</strong> ჩართული გაქვთ და სარგებლობთ ამ შესაძლებლობით.
 preferences-ai-controls-state-description-blocked = <strong>შეზღუდული:</strong> ვერ იხილავთ და ვერ გამოიყენებთ ამ შესაძლებლობას. მოწყობილობაზე მომუშავე ხელგონი ან წინათ ჩამოტვირთული ნებისმიერი მოდელი მოცილებულია.
-preferences-ai-controls-block-confirmation-heading = შეიზღუდოს AI-შესაძლებლობები?
+preferences-ai-controls-block-confirmation-heading = შეიზღუდოს ხელგონის შესაძლებლობები?
 preferences-ai-controls-block-confirmation-description = თქვენთვის აღარ გამოაჩენს { -brand-short-name } ახალ ან არსებულ AI-შესაძლებლობებს და მათ შესახებ ამომხტომ ცნობებს. მომავალში შეგეძლებათ მოხსნათ შეზღუდვა და სურვილისამებრ განაგრძოთ გამოყენება.
 preferences-ai-controls-block-confirmation-features-start = რა შეიზღუდება:
 preferences-ai-controls-block-confirmation-translations = თარგმანები
