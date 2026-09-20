@@ -38,6 +38,7 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } está verificando se o
 # producing whatever was on the clipboard beforehand.
 contentanalysis-clipboard-copy-blocked-replacement = A cópia deste conteúdo não é permitida pela sua organização.
 contentanalysis-operationtype-clipboard = área de transferência
+contentanalysis-operationtype-clipboard-copy = conteúdo copiado
 contentanalysis-operationtype-dropped-text = texto arrastado
 contentanalysis-operationtype-print = imprimir
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -75,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Falha na verificação
 contentanalysis-error-message-upload-file = Negado o envio de “{ $filename }”.
 contentanalysis-error-message-dropped-text = Negado arrastar e soltar.
 contentanalysis-error-message-clipboard = Negado colar.
+contentanalysis-error-message-clipboard-copy = Cópia negada.
 contentanalysis-error-message-print = Negado imprimir.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -90,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = Você não tem permissão par
 contentanalysis-block-dialog-body-download-file = Conforme a política de proteção de dados da sua organização, você não tem permissão para baixar o arquivo “{ $filename }”. Entre em contato com um administrador para obter mais informações.
 contentanalysis-block-dialog-title-clipboard = Você não tem permissão para colar este conteúdo
 contentanalysis-block-dialog-body-clipboard = Conforme a política de proteção de dados da sua organização, você não tem permissão para colar este conteúdo. Entre em contato com um administrador para obter mais informações.
+contentanalysis-block-dialog-title-clipboard-copy = Você não tem permissão para copiar este conteúdo
+contentanalysis-block-dialog-body-clipboard-copy = Conforme a política de proteção de dados da sua organização, você não tem permissão para copiar este conteúdo. Entre em contato com um administrador para obter mais informações.
 contentanalysis-block-dialog-title-dropped-text = Você não tem permissão para arrastar e soltar este conteúdo
 contentanalysis-block-dialog-body-dropped-text = Conforme a política de proteção de dados da sua organização, você não tem permissão para arrastar e soltar este conteúdo. Entre em contato com um administrador para obter mais informações.
 contentanalysis-block-dialog-title-print = Você não tem permissão para imprimir este documento

@@ -46,3 +46,4 @@ about-pdf-feature-view-description = Deslize na vertical ou horizontal, ou mude 
 about-pdf-feature-presentation-heading = Apresente PDFs em tela inteira
 about-pdf-feature-presentation-description = Compartilhe uma exibição limpa em modo de apresentação.
 about-pdf-feature-details-heading = Encontre detalhes mais rápido
+about-pdf-feature-details-description = Use estruturas, anexos e propriedades para mover-se em PDFs.
