@@ -74,3 +74,26 @@ about-private-browsing-felt-privacy-v1-info-link = Kas varētu redzēt manas dar
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = Visu privāto logu aizvēršana izdzēš sīkdatnes, vēsturi un vietņu datus.
+about-private-browsing-private-window-basics-link = Privātā loga pamati
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } ir veidots, lai pārlūkošanas laikā aizsargātu privātumu ar iebūvētu aizsardzību pret izsekošanu. Šī loga aizvēršana izdzēš tā vēsturi, sīkdatnes un vietņu datus, lai pārlūkošana būtu privāta no citiem, kuri izmanto šo ierīci.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Privātā loga pamati
+about-private-browsing-spotlight-basics-subtitle = Privātie logi palīdz nodrošināt pārlūkošanas privātumu no citiem šajā ierīcē. Tie nepadara Tevi anonīmu vai neiztīra visus Tavus datus.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Kas ir jāzina
+about-private-browsing-spotlight-basics-activity-seen = Dažas darbības joprojām var būt redzamas vietnēm, meklētājiem, interneta pakalpojuma sniedzējiem vai darba devējam.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Grāmatzīmes un lejupielādes paliek ierīcē un var parādīties adreses joslā.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Vairāk privātuma aizsardzības
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } automātiski brīdina par ļaunatūru un maldinošām vietnēm.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } automātiski pieprasa iesaistītajām vietnēm nepārdot vai nekopīgot personīgos datus.
+about-private-browsing-spotlight-basics-vpn = Iebūvētais VPN ir izmantojams, lai padarītu grūtāku atrašanās vietas noteikšanu.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Spēcīgākai aizsardzībai pret izsekošanu iestatījumos jāpārslēdzas uz “Stingrs”.
+about-private-browsing-spotlight-basics-learn-more = Uzzināt vairāk

@@ -90,6 +90,12 @@ home-prefs-weather-header-srd =
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Uzzināt vairāk
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Privātuma iespējas
+    .title = Privātuma iespējas
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -859,6 +865,12 @@ newtab-clock-widget-search-results =
 # Fallback row in the search results that lets the user add a city that is
 # not in the list. $city (String) is the text the user has typed.
 newtab-clock-widget-add-custom = Pievienot “{ $city }” kā pielāgotu pulksteni
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Pulksteņa iespējas
+    .title = Pulksteņa iespējas
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ņujorka
