@@ -75,8 +75,31 @@ about-private-browsing-felt-privacy-v1-info-link = Qui peut voir mon activité 
 
 about-private-browsing-nova-info-body = La fermeture de toutes vos fenêtres privées supprime vos cookies, votre historique et les données des sites.
 about-private-browsing-nova-info-link = Qui pourrait encore voir mon activité ?
+about-private-browsing-private-window-basics-link = Principes de base de la fenêtre de navigation privée
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } est conçu pour protéger votre vie privée lorsque vous naviguez, avec des protections intégrées contre le pistage. La fermeture de cette fenêtre efface l’historique, les cookies et les données de sites afin de garder votre navigation privée des autres utilisateurs de cet appareil.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Votre historique de navigation ne sera pas enregistré
 about-private-browsing-nova-info-subheader2 = Nous effacerons toutes les recherches et toutes les connexions lorsque vous fermerez toutes vos fenêtres de navigation privée. Les protections intégrées de { -brand-short-name } sont également activées ici, comme le blocage des traqueurs.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Principes de base de la fenêtre de navigation privée
+about-private-browsing-spotlight-basics-subtitle = Les fenêtres privées permettent de garder votre navigation privée sur cet appareil. Ils ne vous rendent pas anonyme et n’effacent pas toutes vos données.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Ce qu’il faut savoir
+about-private-browsing-spotlight-basics-activity-seen = Certaines activités peuvent toujours être détectées par des sites, des moteurs de recherche, des fournisseurs d’accès à Internet ou votre employeur.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Les marque-pages et les téléchargements restent sur votre appareil et peuvent apparaître dans la barre d’adresse.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Plus de protections de la vie privée
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vous alerte automatiquement des logiciels malveillants et des sites trompeurs.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } demande automatiquement aux sites participants de ne pas vendre ni partager vos données personnelles.
+about-private-browsing-spotlight-basics-vpn = Utilisez le VPN intégré pour rendre votre emplacement plus difficile à tracer.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Choisissez Strict dans les paramètres pour renforcer la protection contre le pistage.
+about-private-browsing-spotlight-basics-learn-more = En savoir plus

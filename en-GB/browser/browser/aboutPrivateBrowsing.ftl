@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = Who might be able to see my a
 
 about-private-browsing-nova-info-body = Closing all your private windows deletes your cookies, history and site data.
 about-private-browsing-nova-info-link = Who might still be able to see my activity?
+about-private-browsing-private-window-basics-link = Private Window basics
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"

@@ -71,8 +71,31 @@ about-private-browsing-felt-privacy-v1-info-link = Ко може да види �
 
 about-private-browsing-nova-info-body = Затварање свих приватних прозора обрисаће колачиће, историју и податке странице.
 about-private-browsing-nova-info-link = Ко би и даље могао да види моју активност?
+about-private-browsing-private-window-basics-link = Основе приватног прозора
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } је осмишљен да заштити вашу приватност док прегледате, са уграђеном заштитом од праћења. Затварањем овог прозора бришете његову историју, колачиће и податке о страници како би ваше прегледање било приватно од других који користе овај уређај.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Нико вас сада не снима
 about-private-browsing-nova-info-subheader2 = Обрисаћемо сваку претрагу и пријаву када затворите све приватне прозоре. Уграђене заштите { -brand-short-name }-а су овде такође укључене, попут блокирања пратилаца.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Основе приватног прозора
+about-private-browsing-spotlight-basics-subtitle = Приватни прозори помажу да ваше прегледање буде приватно од других на овом уређају. Они вас не чине анонимним нити бришу све ваше податке.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Шта треба знати
+about-private-browsing-spotlight-basics-activity-seen = Неке радње и даље могу бити видљиве страницама, претраживачима, интернет пружаоцима или вашем послодавцу.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Обележивачи и преузимања остају на вашем уређају и могу се појавити у адресној траци.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Више заштита приватности
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } вас самостално обавештава о злонамерним програмима и обмањујућим страницама.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } самостално тражи од страница учесника да не продају или не деле ваше личне податке.
+about-private-browsing-spotlight-basics-vpn = Користите уграђени ВПН да бисте отежали праћење ваше локације.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Пребаците се на Строго у подешавањима за јачу заштиту од праћења.
+about-private-browsing-spotlight-basics-learn-more = Сазнајте више

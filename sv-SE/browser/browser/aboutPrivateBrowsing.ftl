@@ -75,8 +75,31 @@ about-private-browsing-felt-privacy-v1-info-link = Vem kan kanske se min aktivit
 
 about-private-browsing-nova-info-body = Om du stänger alla dina privata fönster raderas dina kakor, din historik och dina webbplatsdata.
 about-private-browsing-nova-info-link = Vem kan fortfarande se min aktivitet?
+about-private-browsing-private-window-basics-link = Privata fönster - grunder
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } är utformat för att skydda din integritet när du surfar, med inbyggda spårningsskydd. Om du stänger det här fönstret raderas historiken, kakor och webbplatsdata för att hålla din surfning privat från andra som använder den här enheten.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Du är privat
 about-private-browsing-nova-info-subheader2 = Vi raderar alla sökningar och inloggningar när du stänger alla dina privata fönster. { -brand-short-name }:s inbyggda skydd finns också här, som att blockera spårare.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Privata fönster - grunder
+about-private-browsing-spotlight-basics-subtitle = Privata fönster hjälper till att hålla din surfning privat från andra på den här enheten. De gör dig inte anonym eller rensar all din data.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Vad du bör veta
+about-private-browsing-spotlight-basics-activity-seen = Viss aktivitet kan fortfarande ses av webbplatser, sökmotorer, internetleverantörer eller din arbetsgivare.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Bokmärken och nedladdningar stannar på enheten och kan visas i adressfältet.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Fler integritetsskydd
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } varnar dig automatiskt om skadlig programvara och vilseledande webbplatser.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } ber automatiskt deltagande webbplatser att inte sälja eller dela dina personuppgifter.
+about-private-browsing-spotlight-basics-vpn = Använd inbyggt VPN för att göra din plats svårare att spåra.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Byt till Strikt i inställningarna för starkare spårningsskydd.
+about-private-browsing-spotlight-basics-learn-more = Läs mer
