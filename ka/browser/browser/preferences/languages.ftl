@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = ჩადგმული ენები
 browser-languages-available-label = ხელმისაწვდომი ენები
 browser-languages-error = { -brand-short-name } ახლა ვერ ახერხებს თქვენი ენების განახლებას. გადაამოწმეთ, ხართ თუ არა ინტერნეტთან დაკავშირებული და სცადეთ ხელახლა.
+browser-languages-update-error =
+    .message = { -brand-short-name } ახლა ვერ ახერხებს თქვენი ენების განახლებას. გადაამოწმეთ, ხართ თუ არა ქსელთან დაკავშირებული და სცადეთ ხელახლა.

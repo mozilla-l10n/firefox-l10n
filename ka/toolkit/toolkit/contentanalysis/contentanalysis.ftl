@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } ამოწმებს, რომ ჩასმული მასალა შეესაბამებოდეს დაწესებულების მონაცემთა დებულებებს. გარკვეულ ხანს შეიძლება გასტანოს.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } ამოწმებს, აღებული ასლი ხომ არ ეწინააღმდეგება დაწესებულების მონაცემთა დებულებებს. გარკვეულ ხანს შეიძლება გასტანოს.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } ამოწმ
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } ამოწმებს, რომ ამობეჭდილი მასალა შეესაბამებოდეს დაწესებულების მონაცემთა დებულებებს. გარკვეულ ხანს შეიძლება გასტანოს.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = ამ მასალის ასლის აღება იკრძალება თქვენი დაწესებულების მიერ.
 contentanalysis-operationtype-clipboard = აღებული ასლი
+contentanalysis-operationtype-clipboard-copy = მასალიდან აღებული ასლი
 contentanalysis-operationtype-dropped-text = განთავსებული ტექსტი
 contentanalysis-operationtype-print = ამობეჭდვა
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = ვერ დამო
 contentanalysis-error-message-upload-file = „{ $filename }“ ვერ აიტვირთა, რადგან უარყოფილია.
 contentanalysis-error-message-dropped-text = ჩავლებით გადმოტანა უარყოფილია.
 contentanalysis-error-message-clipboard = ჩასმა უარყოფილია.
+contentanalysis-error-message-clipboard-copy = ასლის აღება უარყოფილია.
 contentanalysis-error-message-print = ბეჭდვა უარყოფილია.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -76,13 +85,15 @@ contentanalysis-timeout-block-error-message-content = { $agent } უკავშ
 contentanalysis-block-dialog-title-upload-file = არ გაქვთ ამ ფაილის ატვირთვის ნებართვა.
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-upload-file = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ატვირთოთ „{ $filename }“. მიმართეთ ხელმძღვანელობას დამატებითი ინფორმაციისთვის.
+contentanalysis-block-dialog-body-upload-file = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების მიხედვით არ გაქვთ უფლება, რომ ატვირთოთ „{ $filename }“. მიმართეთ ხელმძღვანელობას დამატებითი ინფორმაციისთვის.
 contentanalysis-block-dialog-title-download-file = არ გაქვთ ამ ფაილის ჩამოტვირთვის ნებართვა.
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-download-file = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ჩამოტვირთოთ „{ $filename }“. მიმართეთ ხელმძღვანელობას დამატებითი ინფორმაციისთვის.
+contentanalysis-block-dialog-body-download-file = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების მიხედვით არ გაქვთ უფლება, რომ ჩამოტვირთოთ „{ $filename }“. მიმართეთ ხელმძღვანელობას დამატებითი ინფორმაციისთვის.
 contentanalysis-block-dialog-title-clipboard = არ გაქვთ ამ მასალის შიგთავსის ჩასმის ნებართვა.
-contentanalysis-block-dialog-body-clipboard = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ჩასვათ ამ მასალის შიგთავსი. მიმართეთ ზედამხედველს დამატებითი ინფორმაციისთვის.
+contentanalysis-block-dialog-body-clipboard = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების მიხედვით არ გაქვთ უფლება, რომ ჩასვათ ამ მასალის ასლი. მიმართეთ ხელმძღვანელობას დამატებითი ინფორმაციისთვის.
+contentanalysis-block-dialog-title-clipboard-copy = არ გაქვთ ამ მასალის ასლის აღების ნებართვა.
+contentanalysis-block-dialog-body-clipboard-copy = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების მიხედვით არ გაქვთ უფლება, აიღოთ ამ მასალის ასლი. მიმართეთ ხელმძღვანელობას დამატებითი ინფორმაციისთვის.
 contentanalysis-block-dialog-title-dropped-text = არ გაქვთ ამ მასალის ჩავლებით განთავსების ნებართვა.
 contentanalysis-block-dialog-body-dropped-text = თქვენი დაწესებულების მონაცემთა დაცვის დებულებების შესაბამისად არ გაქვთ უფლება, რომ ჩავლებით განათავსოთ ამ მასალის შიგთავსი. მიმართეთ ზედამხედველს დამატებითი ინფორმაციისთვის.
 contentanalysis-block-dialog-title-print = არ გაქვთ ამ დოკუმენტის ბეჭდვის ნებართვა.
