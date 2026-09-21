@@ -5,8 +5,8 @@
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
-    .label = Multimedia: JPEG XL
-experimental-features-media-jxl-description = Po włączeniu tej funkcji { -brand-short-name } obsługuje format obrazów JPEG XL (JXL). Jest to ulepszony format obrazów obsługujący bezstratne przejście z tradycyjnych plików JPEG. <a data-l10n-name="bugzilla">Zgłoszenie 1539075</a> zawiera więcej informacji.
+    .label = Multimedia: JPEG XL
+experimental-features-media-jxl-description = Po włączeniu tej funkcji { -brand-short-name } obsługuje format obrazów JPEG XL (JXL). Jest to ulepszony format obrazów obsługujący bezstratne przejście z tradycyjnych plików JPEG. <a data-l10n-name="bugzilla">Zgłoszenie 1539075</a> zawiera więcej informacji.
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
