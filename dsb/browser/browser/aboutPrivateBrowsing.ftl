@@ -75,8 +75,20 @@ about-private-browsing-felt-privacy-v1-info-link = Chto mógał móju aktiwitu w
 
 about-private-browsing-nova-info-body = Gaž swóje priwatne wokna zacynjaśo, se waše cookieje, historija a sedłowe daty wulašuju.
 about-private-browsing-nova-info-link = Chto mógał hyšći móju aktiwitu wiźeś?
+about-private-browsing-private-window-basics-link = Zakłady priwatnego wokna
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Wašo pśeglědowanje se njeskładujo
 about-private-browsing-nova-info-subheader2 = Wulašujomy kužde pytanje a pśizjawjenje, gaž wšykne swóje priwatne wokna zacynjaśo. Šćit, kótaryž jo w { -brand-short-name } zatwarjony, jo how teke zmóžnjony, na pśikład blokěrowanje pśeslědowakow.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Zakłady priwatnego wokna
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Co trjebaśo wěźeś
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Dalšny šćit priwatnosći
+about-private-browsing-spotlight-basics-learn-more = Dalšne informacije

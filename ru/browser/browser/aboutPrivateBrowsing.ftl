@@ -75,8 +75,31 @@ about-private-browsing-felt-privacy-v1-info-link = Кто может видет�
 
 about-private-browsing-nova-info-body = Закрытие всех ваших приватных окон удаляет ваши куки, историю и данные сайтов.
 about-private-browsing-nova-info-link = Кто ещё может видеть мою активность?
+about-private-browsing-private-window-basics-link = Основы приватного окна
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } создан для защиты вашей приватности во время веб-сёрфинга, с помощью встроенной защиты от отслеживания. Закрытие этого окна удаляет его историю, куки и данные сайтов, чтобы скрыть ваш просмотр от других людей, которые используют это устройство.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Вас не записывают
 about-private-browsing-nova-info-subheader2 = Мы удалим все поисковые запросы и входы, когда вы закроете все ваши приватные окна. Встроенная защита { -brand-short-name } тоже включена, например, блокировка трекеров.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Основы приватного окна
+about-private-browsing-spotlight-basics-subtitle = Приватные окна помогают защитить ваш просмотр страниц от других людей на этом устройстве. Они не обеспечивают вам анонимность и не удаляют какие-либо ваши данные.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Что важно знать
+about-private-browsing-spotlight-basics-activity-seen = Некоторые сайты, поисковые системы, интернет-провайдеры или ваш работодатель могут отслеживать некоторую активность.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Закладки и загрузки остаются на вашем устройстве и могут отображаться в адресной строке.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Больше средств защиты приватности
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } автоматически предупреждает вас о вредоносных и поддельных сайтах.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } автоматически просит сайты участников не продавать и не передавать ваши личные данные.
+about-private-browsing-spotlight-basics-vpn = Используйте встроенный VPN, чтобы сложнее было отследить ваше местоположение.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Переключитесь на Строгую в настройках для усиленной защиты от отслеживания.
+about-private-browsing-spotlight-basics-learn-more = Узнать больше
