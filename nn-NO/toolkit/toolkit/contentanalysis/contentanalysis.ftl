@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } granskar det du limte inn mot dataretningslinjene til organisasjonen. Dette kan ta ein liten augneblink.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } går gjennom det du kopierte mot dataretningslinjene i organisasjonen. Dette kan ta ei lita stund.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,6 +33,10 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } granskar tekste
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } granskar det du skreiv ut mot dataretningslinjene til organisasjonen. Dette kan ta ein liten augneblink.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Kopiering av dette innhaldet er avgrensa av organisasjonen din.
 contentanalysis-operationtype-clipboard = utklippstavle
 contentanalysis-operationtype-clipboard-copy = kopiert innhald
 contentanalysis-operationtype-dropped-text = sleppt tekst
@@ -86,6 +93,7 @@ contentanalysis-block-dialog-body-download-file = I samsvar med retningslinjene 
 contentanalysis-block-dialog-title-clipboard = Du har ikkje løyve til å lime inn dette innhaldet
 contentanalysis-block-dialog-body-clipboard = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å lime inn dette innhaldet. Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-clipboard-copy = Du har ikkje løyve til å kopiere dette innhaldet
+contentanalysis-block-dialog-body-clipboard-copy = I samsvar med retningslinjene i organisasjonen for datavern har du ikkje løyve til å kopiere dette innhaldet. Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-dropped-text = Du har ikkje løyve til å dra og sleppe dette innhaldet
 contentanalysis-block-dialog-body-dropped-text = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å drage og sleppe dette innhaldet. Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-print = Du har ikkje løyve til å skrive ut dette dokumentet

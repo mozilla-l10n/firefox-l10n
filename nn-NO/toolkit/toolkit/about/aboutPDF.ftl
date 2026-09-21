@@ -37,6 +37,7 @@ about-pdf-feature-signatures-heading = Lagre signaturar
 about-pdf-feature-signatures-description = Opprett fleire signaturar og legg dei til i skjema.
 about-pdf-feature-comments-heading = Legg til notat
 about-pdf-feature-comments-description = Legg igjen kommentarar og påminningar medan du les.
+about-pdf-feature-annotate-heading = Gjer merknader i PDF-ar
 about-pdf-feature-annotate-description = Legg til tekst, uthevingar og teikningar.
 about-pdf-feature-images-heading = Last opp tilgjengelege bilde
 about-pdf-feature-images-description = Legg til alternativ-tekst slik at bilda fungerer for fleire.
