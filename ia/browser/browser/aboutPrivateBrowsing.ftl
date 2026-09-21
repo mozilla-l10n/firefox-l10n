@@ -76,8 +76,13 @@ about-private-browsing-felt-privacy-v1-info-link = Qui pote vider mi activitate?
 about-private-browsing-nova-info-body = Claudente tote tu fenestras private tu delera tu cookies, chronologia e datos de sito.
 about-private-browsing-nova-info-link = Qui pote ancora vider mi activitate?
 about-private-browsing-private-window-basics-link = Elementos re le fenestras private
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } es projectate pro proteger tu confidentialitate quando tu naviga, con protectiones contra le traciamento integrate. Le fenestras private adjuta a mantener tu navigation private ab alteres sur iste apparato.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Tu navigation non sera registrate
 about-private-browsing-nova-info-subheader2 = Nos cancellara cata recerca e accesso al clausura de tote tu Fenestras private. Protectiones integrate de { -brand-short-name } es ancora active ci, como le blocada de traciatores.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Elementos re le fenestras private
