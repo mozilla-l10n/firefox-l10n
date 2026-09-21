@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = Хто можа бачыць 
 
 about-private-browsing-nova-info-body = Закрыццё ўсіх прыватных вокнаў выдаляе кукі, гісторыю і звесткі сайтаў.
 about-private-browsing-nova-info-link = Хто ўсё яшчэ можа бачыць маю дзейнасць?
+about-private-browsing-private-window-basics-link = Асновы прыватнага акна
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"

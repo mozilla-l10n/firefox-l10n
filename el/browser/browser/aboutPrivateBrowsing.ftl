@@ -80,3 +80,7 @@ about-private-browsing-nova-info-link = Ποιος μπορεί ακόμα να 
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Η δραστηριότητά σας δεν θα αποθηκευτεί
 about-private-browsing-nova-info-subheader2 = Θα διαγραφεί κάθε αναζήτηση και σύνδεση όταν κλείσετε όλα τα ιδιωτικά παράθυρα. Τα ενσωματωμένα μέτρα προστασίας του { -brand-short-name }, όπως ο αποκλεισμός ιχνηλατών, είναι ενεργοποιημένα και εδώ.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = Μάθετε περισσότερα
