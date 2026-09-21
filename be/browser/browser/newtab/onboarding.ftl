@@ -549,7 +549,15 @@ onboarding-refresh-tou-pin =
         [macos] Трымайце { -brand-short-name } у доку
        *[other] Дадайце { -brand-short-name } на панэль задач
     }
+onboarding-refresh-tou-default-unchecked = Трымайце ўбудаваную ахову кожны раз, калі аглядаеце
+onboarding-refresh-tou-pin-unchecked = Трымайце адзіны буйны незалежны браўзер на адлегласці аднаго націску
+onboarding-refresh-terms-of-use-with-links = Працягваючы, вы згаджаецеся з <a data-l10n-name="terms_of_use">умовамі выкарыстання { -brand-product-name }</a> і нашым <a data-l10n-name="privacy_notice">паведамленнем аб прыватнасці</a>. Каб палепшыць браўзер, { -brand-product-name } адпраўляе дыягнастычныя даныя і звесткі ўзаемадзеяння ў { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Кіраваць наладамі збору дадзеных
+onboarding-refresh-primary-button = Працягнуць
+onboarding-refresh-fro-import-header = Увядзіце свае дадзеныя
+onboarding-refresh-fro-import-body = Вашы асабістыя дадзеныя застаюцца асабістымі. { -brand-product-name } ніколі іх не прадасць.
 onboarding-refresh-fro-skip-button = Прапусціць
+onboarding-refresh-fro-theme-header = Пабаўцеся з выглядам
 onboarding-refresh-tab-layout-header = Паспрабуйце іншы выклад картак
 onboarding-refresh-tab-layout-top = Наверсе
 onboarding-refresh-tab-layout-side = Збоку
