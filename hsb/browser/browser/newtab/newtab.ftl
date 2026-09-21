@@ -167,6 +167,12 @@ home-prefs-mission-message-learn-more-link-srd = Zhońće kak
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Dalše informacije
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Nastajenja priwatnosće
+    .title = Nastajenja priwatnosće
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -1848,6 +1854,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Žane wotpowědne časowe pasma
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Wróćo
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Časnikowe nastajenja
+    .title = Časnikowe nastajenja
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
