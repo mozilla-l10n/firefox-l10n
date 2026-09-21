@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Слика дана
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Претражи
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Недавне претраге
@@ -490,6 +494,33 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Могућности за недавне претраге
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Сазнај више
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Недавне претраге
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = У тренду
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = преко { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Управо сада
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Уклони „{ $search }“ из недавних претрага
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Претрага
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Могућности претраживања
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Недавне претраге ће се овде приказивати како бисте их могли поново изабрати у било ком тренутку.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Претраге у тренду тренутно нису доступне.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -842,6 +873,9 @@ newtab-wallpaper-add-an-image = Додај слику
 newtab-wallpaper-custom-color = Изабери боју
 newtab-wallpaper-toggle-title =
     .label = Позадине
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Категорије позадина
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Слика је премашила ограничење величине датотеке од { $file_size } MB. Покушајте да отпремите мању датотеку.
@@ -877,6 +911,11 @@ newtab-wallpaper-your-images-folder =
 # Variables:
 #   $name (string) - The picture's own title, or the Firefox wallpaper's name
 newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Тренутни број слике
 # Each saved image has its own remove button. The tooltip stays short because
 # a name can be long and some locales put it before the verb, which would push
 # "remove" out of view. The full name is on the label a screen reader reads.
@@ -962,6 +1001,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Лисица на десној ивици на наранџастој позадини
+newtab-wallpaper-firefox-colorful-sky = Наранџасти таласи преко љубичастог ноћног неба
+newtab-wallpaper-firefox-desert-dark = Лисица која седи у тамнољубичастој пустињи
+newtab-wallpaper-firefox-desert-light = Лисица која трчи кроз светлу пустињу
+newtab-wallpaper-firefox-hills-dark = Лисица која трчи преко тамних брда
+newtab-wallpaper-firefox-hills-light = Лисица која трчи преко светлих брда
+newtab-wallpaper-firefox-tail-dark = Реп лисице на тамној позадини
+newtab-wallpaper-firefox-tail-light = Реп лисице на светлој позадини
+newtab-wallpaper-firefox-side-kit-dark = Лисица на левој страни, на тамној позадини
+newtab-wallpaper-firefox-side-kit-light = Лисица на левој страни, на светлој позадини
+newtab-wallpaper-firefox-sitting-hill-dark = Лисица која седи на тамнољубичастим брдима
+newtab-wallpaper-firefox-sitting-hill-light = Лисица која седи на светлим брдима
+newtab-wallpaper-firefox-peak-dark = Лице лисице на левој ивици, на тамној позадини
+newtab-wallpaper-firefox-peak-light = Лице лисице на левој ивици, на светлој позадини
+newtab-wallpaper-firefox-sky-dark = Тамнољубичаста брда испод ноћног неба
+newtab-wallpaper-firefox-sky-light = Светла брда испод нежног неба
 
 ## Firefox
 
@@ -1691,6 +1746,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Овај простор се прилагођава вама
 newtab-activation-window-message-values-focus-message = { -brand-product-name } вам омогућава да прегледате веб на начин који желите, уз личнији почетак вашег дана на мрежи. Прилагодите { -brand-product-name } себи.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Додај завршне детаље за { -brand-product-name }
+newtab-nova-customization-callout-message = Истражите светле или тамне теме и позадине како би нови { -brand-product-name } био више ваш.
+newtab-nova-customization-callout-primary-button =
+    .label = Изабери свој изглед
 
 ## Strings for the Clock widget
 
