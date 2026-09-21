@@ -540,6 +540,15 @@ onboarding-refresh-gratitude-title = { -brand-short-name } прыкрывае в
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } падтрымае вас, пачынаючы з гэтага часу
+onboarding-refresh-hero-text = Створаны, каб абараняць вас, а не сачыць.
+onboarding-refresh-tou-default = Адкрываць усе спасылкі ў { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Трымайце { -brand-short-name } у доку
+       *[other] Дадайце { -brand-short-name } на панэль задач
+    }
 onboarding-refresh-fro-skip-button = Прапусціць
 onboarding-refresh-tab-layout-header = Паспрабуйце іншы выклад картак
 onboarding-refresh-tab-layout-top = Наверсе

@@ -107,6 +107,10 @@ translations-panel-choose-language =
     .label = Valitse kieli
 translations-panel-restore-button =
     .label = Näytä alkuperäinen
+# The label for the target-language dropdown in the revisit view. This may need
+# to be translated differently from translations-panel-to-label to convey that
+# selecting a language will translate the page again.
+translations-panel-revisit-to-label = Käännä kielelle
 
 ## Firefox Translations language management in about:preferences.
 
