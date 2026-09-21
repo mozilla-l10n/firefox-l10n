@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Инсталирани језици
 browser-languages-available-label = Доступни језици
 browser-languages-error = { -brand-short-name } тренутно не може да ажурира списак језика. Проверите да ли сте повезани на интернет или покушајте поново.
+browser-languages-update-error =
+    .message = { -brand-short-name } тренутно не може да ажурира ваше језике. Проверите да ли сте повезани на интернет или покушајте поново.

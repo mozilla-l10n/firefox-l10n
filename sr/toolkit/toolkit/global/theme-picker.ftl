@@ -7,6 +7,9 @@ theme-picker-mode-dark = Тамна
 # "Device" refers to the mode that makes the Firefox active theme's selected color scheme
 # update based on the color scheme mode currently chosen by the operating system.
 theme-picker-mode-device = Уређај
+# Accessible name for the group of light/dark/device buttons.
+theme-picker-mode =
+    .aria-label = Изглед
 theme-picker-use-linux-theme =
     .label = Користите системску тему Линукса
 
