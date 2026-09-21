@@ -565,10 +565,10 @@ onboarding-refresh-tab-layout-side = Sur le côté
 onboarding-refresh-tab-layout-minimal = Minimale
 # Tooltip displayed on hover for minimal tabs image
 onboarding-minimal-tabs-tooltip =
-    .title = Une fenêtre de navigateur affichant les onglets sous forme de petites icônes le long de l’écran, dans une barre latérale réduite.
+    .title = Une fenêtre de navigateur affichant les onglets sous forme de petites icônes sur le côté de l’écran, dans un panneau latéral réduit.
 # Description for minimal tabs image
 onboarding-minimal-tabs-description =
-    .aria-description = Une fenêtre de navigateur affichant les onglets sous forme de petites icônes le long de l’écran, dans une barre latérale réduite.
+    .aria-description = Une fenêtre de navigateur affichant les onglets sous forme de petites icônes sur le côté de l’écran, dans un panneau latéral réduit.
 
 ## Smart window switcher callout
 
