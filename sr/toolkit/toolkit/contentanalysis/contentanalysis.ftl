@@ -24,6 +24,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } прегледа оно што сте убацили из оставе у складу са смерницама за податке ваше организације. Ово може потрајати.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } прегледа то што сте копирали на основу политика података ваше организације. Ово може потрајати тренутак.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -31,7 +34,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } преглед�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } прегледа оно што сте одштампали у складу са смерницама за податке ваше организације. Ово може потрајати.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Копирање овог садржаја је ограничено од стране ваше организације.
 contentanalysis-operationtype-clipboard = остава
+contentanalysis-operationtype-clipboard-copy = копирани садржај
 contentanalysis-operationtype-dropped-text = превучени текст
 contentanalysis-operationtype-print = штампање
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -69,6 +77,7 @@ contentanalysis-invalid-agent-signature-message-content = Није успела 
 contentanalysis-error-message-upload-file = Отпремање „{ $filename }“ је одбијено.
 contentanalysis-error-message-dropped-text = Превлачење и спуштање је одбијено.
 contentanalysis-error-message-clipboard = Убацивање је одбијено.
+contentanalysis-error-message-clipboard-copy = Копирање забрањено.
 contentanalysis-error-message-print = Штампање је одбијено.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -84,6 +93,8 @@ contentanalysis-block-dialog-title-download-file = Није вам дозвољ�
 contentanalysis-block-dialog-body-download-file = Према смерницама за заштиту података ваше организације, није вам дозвољено да преузмете датотеку „{ $filename }“. Контактирајте вашег администратора за више информација.
 contentanalysis-block-dialog-title-clipboard = Није вам дозвољено да убаците овај садржај
 contentanalysis-block-dialog-body-clipboard = Према смерницама за заштиту података ваше организације, није вам дозвољено да убаците овај садржај. Контактирајте вашег администратора за више информација.
+contentanalysis-block-dialog-title-clipboard-copy = Копирање овог садржаја није дозвољено
+contentanalysis-block-dialog-body-clipboard-copy = На основу политика заштите података ваше организације, није вам дозвољено копирање овог садржаја. Обратите се администратору за више информација.
 contentanalysis-block-dialog-title-dropped-text = Није вам дозвољено да спустите овај садржај
 contentanalysis-block-dialog-body-dropped-text = Према смерницама за заштиту података ваше организације, није вам дозвољено да превлачите и спуштате овај садржај. Контактирајте вашег администратора за више информација.
 contentanalysis-block-dialog-title-print = Није вам дозвољено да штампате овај документ
