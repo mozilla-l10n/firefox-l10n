@@ -1345,7 +1345,7 @@ newtab-section-toast-block =
 newtab-widget-lists-empty-cta = Přidejte si nějaký. Možností je neomezeně.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
-    .label = Nový
+    .label = Novinka
 newtab-widget-lists-label-beta =
     .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
