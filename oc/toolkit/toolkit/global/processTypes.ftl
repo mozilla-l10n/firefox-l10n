@@ -26,7 +26,7 @@ process-type-webserviceworker = Servicis Workers isolat
 process-type-prealloc = Preatribuit
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Principal
 process-type-tab = Onglet

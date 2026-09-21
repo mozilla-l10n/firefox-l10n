@@ -28,7 +28,7 @@ process-type-webserviceworker = Απομονωμένο service worker
 process-type-prealloc = Προκατανεμημένο
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Κύριο
 process-type-tab = Καρτέλα

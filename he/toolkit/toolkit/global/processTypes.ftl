@@ -21,7 +21,7 @@ process-type-file = קובץ מקומי
 process-type-webserviceworker = ‏Service Worker מבודד
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = ראשי
 process-type-tab = לשונית

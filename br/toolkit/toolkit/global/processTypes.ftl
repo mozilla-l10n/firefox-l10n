@@ -23,7 +23,7 @@ process-type-webisolated = Endalc'had web distaget
 process-type-prealloc = Rakderannet
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Pennañ
 process-type-tab = Tab

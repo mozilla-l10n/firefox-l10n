@@ -26,7 +26,7 @@ process-type-webserviceworker = Izolēts servisa strādnieks
 process-type-prealloc = Iepriekš piešķirts
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Galvenais
 process-type-tab = Cilne

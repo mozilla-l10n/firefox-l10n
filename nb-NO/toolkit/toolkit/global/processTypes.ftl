@@ -28,7 +28,7 @@ process-type-webserviceworker = Isolert Service Worker
 process-type-prealloc = Førtildele
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Hoved
 process-type-tab = Fane
@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Verktøy Media Foundation Engine
 process-type-utility-actor-js-oracle = Verktøy JavaScript Oracle
 process-type-utility-actor-windows-utils = Verktøy Windows Utils
 process-type-utility-actor-windows-file-dialog = Verktøy Windows fildialogvindu
+process-type-utility-actor-hw-inference = Verktøy for maskinvareakselerert inferens
 
 ##
 ## Other

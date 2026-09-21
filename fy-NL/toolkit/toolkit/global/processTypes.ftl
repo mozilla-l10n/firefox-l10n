@@ -28,7 +28,7 @@ process-type-webserviceworker = Isolearre serviceworker
 process-type-prealloc = Yn it foar tawezen
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Haad
 process-type-tab = Tab

@@ -28,7 +28,7 @@ process-type-webserviceworker = Gweithiwr Gwasanaeth Ynysig
 process-type-prealloc = Rhagddyranwyd
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Prif
 process-type-tab = Tab

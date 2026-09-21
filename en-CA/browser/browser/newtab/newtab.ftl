@@ -1731,6 +1731,7 @@ newtab-activation-window-message-values-focus-header = This space plays by your 
 newtab-activation-window-message-values-focus-message = { -brand-product-name } lets you browse the way you like, with a more personal way to start your day online. Make { -brand-product-name } your own.
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
+
 # "Put your finishing touch on" means to add the last, personal detail that
 # makes something yours. The call to action is to open the New Tab
 # customization panel and pick a theme or wallpaper.

@@ -21,7 +21,7 @@ process-type-file = Ficheru llocal
 process-type-webisolated = Conteníu web aislláu
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Principal
 process-type-tab = Llingüeta

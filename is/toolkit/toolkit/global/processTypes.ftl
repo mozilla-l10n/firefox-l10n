@@ -28,7 +28,7 @@ process-type-webserviceworker = Einangrað Service Worker þjónustuferli
 process-type-prealloc = Forúthlutað
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Aðal
 process-type-tab = Flipi

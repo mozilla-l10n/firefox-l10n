@@ -28,7 +28,7 @@ process-type-webserviceworker = Izolovaný service worker
 process-type-prealloc = Předem alokováno
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Hlavní
 process-type-tab = Panel

@@ -28,7 +28,7 @@ process-type-webserviceworker = Ізольований Service Worker
 process-type-prealloc = Попередньо зарезервовано
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Основний
 process-type-tab = Вкладка

@@ -28,7 +28,7 @@ process-type-webserviceworker = الڳ تھلڳ سروس ورکر
 process-type-prealloc = پہلے کنوں مختص
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = مین
 process-type-tab = ٹیب

@@ -28,7 +28,7 @@ process-type-webserviceworker = განცალკევებული Servi
 process-type-prealloc = წინასწარ განაწილებული
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = მთავარი
 process-type-tab = ჩანართი

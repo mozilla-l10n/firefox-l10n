@@ -28,7 +28,7 @@ process-type-webserviceworker = İzole service worker
 process-type-prealloc = Önceden ayrılmış
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Ana
 process-type-tab = Sekme

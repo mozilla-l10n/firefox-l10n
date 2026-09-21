@@ -12,7 +12,7 @@ process-type-extension = وردنی
 process-type-file = فایل مهلی
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = ٱسلی
 process-type-tab = جدول بندی

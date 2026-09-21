@@ -28,7 +28,7 @@ process-type-webserviceworker = Ločen Service Worker
 process-type-prealloc = Vnaprej dodeljeno
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Glavni
 process-type-tab = Zavihek

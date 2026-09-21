@@ -28,7 +28,7 @@ process-type-webserviceworker = ਅਲਹਿਦਾ ਕੀਤਾ ਸਰਵਿਸ 
 process-type-prealloc = ਪਹਿਲਾਂ ਜਾਰੀ ਕੀਤਾ
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = ਮੁ਼ੱਖ
 process-type-tab = ਟੈਬ

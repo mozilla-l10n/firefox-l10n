@@ -28,7 +28,7 @@ process-type-webserviceworker = Pekerja Layanan Terisolasi
 process-type-prealloc = Teralokasikan
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Utama
 process-type-tab = Tab

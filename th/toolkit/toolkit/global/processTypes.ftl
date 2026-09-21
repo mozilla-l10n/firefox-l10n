@@ -28,7 +28,7 @@ process-type-webserviceworker = Service Worker ที่ถูกคัดแย
 process-type-prealloc = จัดสรรไว้ล่วงหน้า
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = หลัก
 process-type-tab = แท็บ

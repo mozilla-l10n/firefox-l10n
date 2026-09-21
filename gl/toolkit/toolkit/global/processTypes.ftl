@@ -28,7 +28,7 @@ process-type-webserviceworker = Service worker aillado
 process-type-prealloc = Preasignado
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Principal
 process-type-tab = Lapela

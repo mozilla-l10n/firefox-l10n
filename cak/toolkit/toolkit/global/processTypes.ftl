@@ -23,7 +23,7 @@ process-type-webisolated = Rupam K'amaya'l pa Mejmïk
 process-type-prealloc = Ya'on chik chi re
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Nimaläj
 process-type-tab = Ruwi'

@@ -28,7 +28,7 @@ process-type-webserviceworker = Zerbitzu-langile isolatua
 process-type-prealloc = Aurrez esleituta
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Nagusia
 process-type-tab = Fitxa

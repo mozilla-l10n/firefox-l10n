@@ -28,7 +28,7 @@ process-type-webserviceworker = Service Worker đã cô lập
 process-type-prealloc = Phân bổ trước
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Chính
 process-type-tab = Thẻ

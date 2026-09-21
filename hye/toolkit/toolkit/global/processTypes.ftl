@@ -26,7 +26,7 @@ process-type-webserviceworker = Մեկուսացուած Service Worker
 process-type-prealloc = Նախայատկացուած
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Հիմնական
 process-type-tab = Ներդիր

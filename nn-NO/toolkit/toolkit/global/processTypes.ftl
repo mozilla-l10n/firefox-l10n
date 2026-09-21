@@ -28,7 +28,7 @@ process-type-webserviceworker = Isolert Service Worker
 process-type-prealloc = Førtildelt
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Hovud
 process-type-tab = Fane

@@ -28,7 +28,7 @@ process-type-webserviceworker = Isolerad Service Worker
 process-type-prealloc = Förallokerad
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Huvud
 process-type-tab = Flik

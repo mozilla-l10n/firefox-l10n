@@ -28,7 +28,7 @@ process-type-webserviceworker = Izolita Service Worker
 process-type-prealloc = Antaŭe asignita
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Ĉefa
 process-type-tab = Langeto

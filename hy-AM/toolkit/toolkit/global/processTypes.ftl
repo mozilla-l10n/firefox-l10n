@@ -23,7 +23,7 @@ process-type-webisolated = ՄԵկուսացված վեբ բովանդակութ�
 process-type-prealloc = Նախաբաշխված
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Հիմնական
 # process used to communicate with the GPU for

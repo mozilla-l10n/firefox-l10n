@@ -23,7 +23,7 @@ process-type-webisolated = Conteniu web aislau
 process-type-prealloc = Preasignau
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Principal
 process-type-tab = Pestanya

@@ -28,7 +28,7 @@ process-type-webserviceworker = បុគ្គលិកសេវាដាច់
 process-type-prealloc = បែងចែកជាមុន
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = ចម្បង
 process-type-tab = ផ្ទាំង

@@ -21,7 +21,7 @@ process-type-file = स्थानीय फाइल
 process-type-webisolated = पृथक वेब मजकूर
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 # process used to communicate with the GPU for
 # graphics acceleration

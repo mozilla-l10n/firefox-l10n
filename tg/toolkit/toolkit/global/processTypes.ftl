@@ -28,7 +28,7 @@ process-type-webserviceworker = Коргузори хизматрасонии ҷ
 process-type-prealloc = Пешакӣ ҷойгиршуда
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Асосӣ
 process-type-tab = Варақа

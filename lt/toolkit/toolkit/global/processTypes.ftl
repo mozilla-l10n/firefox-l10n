@@ -26,7 +26,7 @@ process-type-webserviceworker = Izoliuotas aptarnavimo scenarijus
 process-type-prealloc = Išskirtas iš anksto
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Pagrindinis
 process-type-tab = Kortelės

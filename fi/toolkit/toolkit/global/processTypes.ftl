@@ -26,7 +26,7 @@ process-type-webserviceworker = Eristetty Service Worker
 process-type-prealloc = Esijaettu
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Pääprosessi
 process-type-tab = Välilehti

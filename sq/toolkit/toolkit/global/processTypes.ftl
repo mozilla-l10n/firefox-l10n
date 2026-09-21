@@ -26,7 +26,7 @@ process-type-webserviceworker = Service Worker i Izoluar
 process-type-prealloc = I paradhënë
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Kryesorja
 process-type-tab = Skedë

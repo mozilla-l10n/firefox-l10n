@@ -28,7 +28,7 @@ process-type-webserviceworker = Service Worker momombyry
 process-type-prealloc = Mboherapyre
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Tuichavéva
 process-type-tab = Tendayke

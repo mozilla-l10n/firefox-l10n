@@ -26,7 +26,7 @@ process-type-webserviceworker = Procés de treball de servei aïllat
 process-type-prealloc = Preassignat
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Principal
 process-type-tab = Pestanya

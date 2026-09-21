@@ -28,7 +28,7 @@ process-type-webserviceworker = Izolált Service Worker
 process-type-prealloc = Előre lefoglalt
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Elsődleges
 process-type-tab = Lap

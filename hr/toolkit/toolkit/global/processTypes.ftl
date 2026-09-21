@@ -28,7 +28,7 @@ process-type-webserviceworker = Izolirani Service Worker
 process-type-prealloc = Unaprijed alocirano
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Glavni
 process-type-tab = Kartica

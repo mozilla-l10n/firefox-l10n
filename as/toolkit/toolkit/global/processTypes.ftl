@@ -21,7 +21,7 @@ process-type-file = স্থানীয় ফাইল
 process-type-webisolated = অকলশৰীয়া ৱেব সমল
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = মুখ্য
 process-type-tab = টেব

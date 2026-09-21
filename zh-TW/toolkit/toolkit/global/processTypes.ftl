@@ -28,7 +28,7 @@ process-type-webserviceworker = 被隔離的 Service Worker
 process-type-prealloc = 預先分配
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = 主要
 process-type-tab = 分頁

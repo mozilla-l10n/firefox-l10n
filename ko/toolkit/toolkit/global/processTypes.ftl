@@ -28,7 +28,7 @@ process-type-webserviceworker = 격리된 Service Worker
 process-type-prealloc = 사전 할당
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = 메인
 process-type-tab = 탭

@@ -23,7 +23,7 @@ process-type-webisolated = Isolatit Wab Content
 process-type-prealloc = Preallocatit
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Main
 process-type-tab = Tab

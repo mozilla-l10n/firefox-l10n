@@ -28,7 +28,7 @@ process-type-webserviceworker = Service worker isolate
 process-type-prealloc = Pre-allocate
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Principal
 process-type-tab = Scheda

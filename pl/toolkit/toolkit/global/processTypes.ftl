@@ -28,7 +28,7 @@ process-type-webserviceworker = Wydzielony wątek usługowy
 process-type-prealloc = Wstępnie przydzielony
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Główny
 process-type-tab = Karta

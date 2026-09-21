@@ -12,7 +12,7 @@ process-type-extension = ઍક્સટેન્શન
 process-type-file = સ્થાનિક ફાઈલ
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 # process used to communicate with the GPU for
 # graphics acceleration

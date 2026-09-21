@@ -18,7 +18,7 @@ process-type-extension = विस्तार
 process-type-file = स्थानीय फ़ाइल
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-tab = टैब
 # process used to communicate with the GPU for

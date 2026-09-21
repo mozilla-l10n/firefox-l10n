@@ -12,7 +12,7 @@ process-type-extension = දිගුව
 process-type-file = ස්ථානීය ගොනුව
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = ප්‍රධාන
 process-type-tab = පටිත්ත

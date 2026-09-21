@@ -26,7 +26,7 @@ process-type-webserviceworker = ᱟᱭᱥᱚᱞᱮᱴᱮᱰ ᱥᱟᱹᱨᱵᱷ�
 process-type-prealloc = ᱯᱨᱤᱮᱞᱚᱠᱮᱴᱮᱰ
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = ᱢᱩᱞ
 process-type-tab = ᱴᱮᱵᱽ

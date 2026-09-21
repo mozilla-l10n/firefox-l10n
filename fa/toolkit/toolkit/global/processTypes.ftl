@@ -28,7 +28,7 @@ process-type-webserviceworker = کارگر خدمت منزوی شده
 process-type-prealloc = از پیش تخصیص داده شده
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = اصلی
 process-type-tab = زبانه

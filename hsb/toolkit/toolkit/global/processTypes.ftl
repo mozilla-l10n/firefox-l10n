@@ -28,7 +28,7 @@ process-type-webserviceworker = Izolowany service worker
 process-type-prealloc = Předwobsadźene
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Hłowny
 process-type-tab = Rajtark

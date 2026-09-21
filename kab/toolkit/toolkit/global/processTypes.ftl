@@ -28,7 +28,7 @@ process-type-webserviceworker = Ameẓlu Worker yenneεzalen
 process-type-prealloc = Adeg uzwir
 
 ##
-## Localization for Gecko process types defined in GeckoProcessTypes.h
+## Localization for Gecko process types defined in GeckoProcessTypes.inc
 
 process-type-default = Agejdan
 process-type-tab = Tabzimt
