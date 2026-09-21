@@ -821,6 +821,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Акцыі
 newtab-custom-widget-picture-toggle =
     .label = Фота дня
+newtab-custom-widget-search-toggle =
+    .label = Пошук
 newtab-custom-widget-recent-searches-toggle =
     .label = Нядаўнія пошукі
 newtab-custom-widget-section-title = Віджэты
@@ -1007,6 +1009,8 @@ feature-highlight-wallpaper =
     .title = { -newtab-wallpaper-feature-highlight-header }
 newtab-wallpaper-firefox-orange = Ліса з правага краю на аранжавым фоне
 newtab-wallpaper-firefox-colorful-sky = Хвалі аранжавага колеру на фіялетавым начным небе
+newtab-wallpaper-firefox-desert-dark = Ліса сядзіць у цёмна-фіялетавай пустыні
+newtab-wallpaper-firefox-desert-light = Ліса бяжыць па светлай пустыні
 newtab-wallpaper-firefox-hills-dark = Ліса бяжыць па цёмных пагорках
 newtab-wallpaper-firefox-hills-light = Ліса бяжыць па светлых пагорках
 newtab-wallpaper-firefox-tail-dark = Лісіны хвост на цёмным фоне
@@ -1015,6 +1019,8 @@ newtab-wallpaper-firefox-side-kit-dark = Ліса злева, на цёмным 
 newtab-wallpaper-firefox-side-kit-light = Ліса злева, на светлым фоне
 newtab-wallpaper-firefox-sitting-hill-dark = Ліса сядзіць на цёмна-фіялетавых пагорках
 newtab-wallpaper-firefox-sitting-hill-light = Ліса сядзіць на светлых пагорках
+newtab-wallpaper-firefox-peak-dark = Пыса лісы з левага краю, на цёмным фоне
+newtab-wallpaper-firefox-peak-light = Пыса лісы з левага краю, на светлым фоне
 newtab-wallpaper-firefox-sky-dark = Цёмна-фіялетавыя пагоркі пад начным небам
 
 ## Firefox

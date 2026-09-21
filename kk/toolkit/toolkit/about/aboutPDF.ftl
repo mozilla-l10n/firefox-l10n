@@ -30,5 +30,7 @@ about-pdf-dismiss =
 about-pdf-features-header = { -brand-short-name } PDF құралдары
 about-pdf-features-back =
     .label = Артқа
+about-pdf-feature-organize-heading = Беттерді ұйымдастыру
+about-pdf-feature-organize-description = Беттерді ретін өзгерту, өшіру, біріктіру және экспорттау.
 about-pdf-feature-signatures-heading = Қолтаңбаларды сақтау
 about-pdf-feature-signatures-description = Бірнеше қолтаңба жасап, оларды формаларға қосыңыз.
