@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = დღის სურათი
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = ძიება
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = ბოლოს მოძიებული
@@ -496,6 +500,11 @@ newtab-recent-searches-just-now = ახლახან
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = მოცილდეს „{ $search }“ ბოლოს მოძიებულებიდან
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = ძიება
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = ძიების პარამეტრები
 
 ## Recent searches widget — empty states
 
@@ -802,6 +811,8 @@ newtab-custom-widget-stocks-toggle =
     .label = აქციები
 newtab-custom-widget-picture-toggle =
     .label = დღის სურათი
+newtab-custom-widget-search-toggle =
+    .label = ძიება
 newtab-custom-widget-recent-searches-toggle =
     .label = ბოლოს მოძიებული
 newtab-custom-widget-section-title = ჩანამატები
@@ -858,6 +869,9 @@ newtab-wallpaper-add-an-image = სურათის დამატება
 newtab-wallpaper-custom-color = ფერის არჩევა
 newtab-wallpaper-toggle-title =
     .label = ფონები
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = ფონის ჯგუფები
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = სურათის ფაილის ზომა აღემატება ზღვარს { $file_size }ᲛᲑ. გთხოვთ, სცადოთ უფრო მცირე ფაილის ატვირთვა.
@@ -1717,6 +1731,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = ეს სივრცე შეიძლება მოაწყოთ თქვენებურად
 newtab-activation-window-message-values-focus-message = { -brand-product-name } საშუალებას გაძლევთ გვერდები ინახულოთ ისე, როგორც მოგესურვებათ, ინტერნეტში შებიჯებისთანავე. გახადეთ { -brand-product-name } თქვენებური.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = ბოლო ხელის შევლებით მოირგეთ { -brand-product-name }
+newtab-nova-customization-callout-message = მოსინჯეთ ნათელი ან მუქი გაფორმება და ფონები, რომლებითაც მეტად თქვენებური გახდები ახალი { -brand-product-name }.
+newtab-nova-customization-callout-primary-button =
+    .label = აირჩიეთ იერსახე
 
 ## Strings for the Clock widget
 
