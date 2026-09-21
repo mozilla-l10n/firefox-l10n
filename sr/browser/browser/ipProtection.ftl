@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Испробајте { -brand-product-name } угр�
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Сакријте своју локацију</a> током прегледања у { -brand-product-name }-у.
 unauthenticated-private-location-message = Помаже <a data-l10n-name="learn-more-vpn">да ваша локација остане приватна</a> у { -brand-product-name }-у.
 unauthenticated-choose-location-message-1 = Изаберите једну од неколико локација или пустите да { -brand-product-name } изабере најбржу.
+unauthenticated-site-rules-message = Управљајте тиме које странице користе ВПН, а које не.
 unauthenticated-get-started = Крените
 unauthenticated-terms-of-service-privacy-notice = Настављањем прихватате <a data-l10n-name="vpn-terms-of-service">Услове пружања услуга</a> и <a data-l10n-name="vpn-privacy-notice">Обавештење о приватности</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = ВПН је искључен за ову страницу
     .label = Користи ВПН за ову страницу
 site-exclusion-toggle-description = Страница не ради? Покушајте да искључите ВПН.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Управљај правилима ВПН-а
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Ваше правило
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = ВПН је искључен за ову страницу
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = ВПН је укључен за ову страницу
 ipprotection-settings-link =
     .label = Подешавања
 
@@ -257,6 +266,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } веб страница
         }
     .label = Управљај поставкама веб странице
+ip-protection-site-rules-header =
+    .heading = Управљај подешавањима веб странице
+ip-protection-site-rules-button =
+    .description = Постави правила за странице којима је потребна додатна приватност или на којима треба искључити ВПН.
+    .label = Управљај подешавањима веб странице
 ip-protection-autostart =
     .label = Самостално укључи ВПН
 ip-protection-autostart-checkbox =

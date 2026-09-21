@@ -3,6 +3,9 @@
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
 perm-persistent-storage-remember = Zapomni si to odločitev
+speech-recognition-model-download-header = Ali želite nastaviti prepoznavanje govora?
+# $sizeMB (Number) - the model download size in MB.
+speech-recognition-model-download-message = V { -brand-short-name(sklon: "mestnik") } prepoznavanje govora poteka na napravi, ki je zvok v nobenem trenutku ne zapusti. V ta namen bo na napravo preneslo ~{ $sizeMB } MB podatkov.
 speech-recognition-model-download-allow =
     .label = Nadaljuj
     .accesskey = N

@@ -544,9 +544,30 @@ onboarding-refresh-gratitude-title = { -brand-short-name } vam krije hrbet
 onboarding-refresh-splash-screen-title = { -brand-product-name } vam krije hrbet – zdaj in vedno
 onboarding-refresh-hero-text = Ustvarjen, da vas ščiti, ne da vam sledi.
 onboarding-refresh-tou-default = Odpiraj vse povezave v { -brand-short-name(sklon: "mestnik") }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Ohrani { -brand-short-name(sklon: "tozilnik") } v vrstici Dock
+       *[other] Pripni { -brand-short-name(sklon: "tozilnik") } v opravilno vrstico
+    }
+onboarding-refresh-tou-default-unchecked = Ohranite vgrajeno zaščito ob vsakem brskanju
+onboarding-refresh-tou-pin-unchecked = Imejte edini veliki neodvisen brskalnik le klik stran
 onboarding-refresh-terms-of-use-with-links = Z nadaljevanjem se strinjate s <a data-l10n-name="terms_of_use">pogoji uporabe { -brand-product-name(sklon: "rodilnik") }</a> in z našim <a data-l10n-name="privacy_notice">obvestilom o zasebnosti</a>. Za izboljšanje brskalnika { -brand-product-name } { -vendor-short-name(sklon: "dajalnik") } pošilja diagnostične podatke in podatke o uporabi.
+onboarding-refresh-data-collection-link = Nastavitve zbiranja podatkov
 onboarding-refresh-primary-button = Nadaljuj
+onboarding-refresh-fro-import-header = Preselite svoje podatke
+onboarding-refresh-fro-import-body = Vaši osebni podatki ostanejo zasebni. { -brand-product-name } jih ne bo nikoli prodajal.
 onboarding-refresh-fro-skip-button = Preskoči
+onboarding-refresh-fro-theme-header = Poigrajte se s svojim videzom
+onboarding-refresh-tab-layout-header = Preizkusite drugačno postavitev zavihkov
+onboarding-refresh-tab-layout-top = Na vrhu
+onboarding-refresh-tab-layout-side = Ob strani
+onboarding-refresh-tab-layout-minimal = Minimalistično
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Okno brskalnika, v katerem so zavihki prikazani kot majhne ikone vzdolž roba zaslona v minimizirani stranski vrstici.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Okno brskalnika, v katerem so zavihki prikazani kot majhne ikone vzdolž roba zaslona v minimizirani stranski vrstici.
 
 ## Smart window switcher callout
 

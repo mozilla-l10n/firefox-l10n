@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Slika dneva
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Iskanje
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nedavna iskanja
@@ -252,6 +256,7 @@ newtab-privacy-message-promo-vpn-1-cta = Odpri VPN
 newtab-privacy-message-promo-vpn-2 = Uporabljate letališki Wi-Fi? Zaščitite se s pomočjo vgrajenega VPN.
 newtab-privacy-message-promo-vpn-2-cta = Odpri VPN
 newtab-privacy-message-promo-vpn-3-cta = Odpri VPN
+newtab-privacy-message-promo-private-window-1 = Uporabite zasebno okno za bolj zasebno brskanje na skupnem računalniku.
 newtab-privacy-message-promo-private-window-1-cta = Odpri zasebno okno
 newtab-privacy-message-promo-relay-1-cta = Pridobi maske
 newtab-privacy-message-promo-relay-2 = Zaščitite svoj e-poštni predal pred neželeno pošto z brezplačnim zakrivanjem e-poštnega naslova.
@@ -472,6 +477,11 @@ newtab-recent-searches-just-now = Pravkar
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Odstrani "{ $search }" iz nedavnih iskanj
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Iskanje
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Možnosti iskanja
 
 ## Recent searches widget — empty states
 
@@ -778,6 +788,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Delnice
 newtab-custom-widget-picture-toggle =
     .label = Slika dneva
+newtab-custom-widget-search-toggle =
+    .label = Iskanje
 newtab-custom-widget-recent-searches-toggle =
     .label = Nedavna iskanja
 newtab-custom-widget-section-title = Pripomočki
@@ -834,6 +846,9 @@ newtab-wallpaper-add-an-image = Dodaj sliko
 newtab-wallpaper-custom-color = Izberite barvo
 newtab-wallpaper-toggle-title =
     .label = Ozadja
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategorije ozadij
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Največja dovoljena velikost slike je { $file_size } MB. Poskusite naložiti manjšo datoteko.
