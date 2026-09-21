@@ -42,6 +42,10 @@ home-prefs-search-widget-header =
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nesenie meklējumi
+home-prefs-choose-wallpaper-link2 =
+    .label = Izvēlēties ekrāntapeti
+home-prefs-firefox-logo-header =
+    .label = { -brand-short-name } logotips
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
 # The user must select Firefox Home as their homepage for either new tabs or new windows to enable
 # the features in settings.
@@ -56,6 +60,11 @@ home-prefs-sections-rows-option-srd =
             [one] { $num } rinda
            *[other] { $num } rindas
         }
+# Dropdown option shown when an extension replaces the contents of new windows or tabs.
+# Variables:
+#   $extension (string) - Name of the extension
+home-prefs-homepage-extension-option =
+    .label = Paplašinājums ({ $extension })
 home-restore-defaults-srd =
     .label = Atjaunot noklusējumus
     .accesskey = n

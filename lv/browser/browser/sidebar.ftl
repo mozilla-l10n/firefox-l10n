@@ -35,6 +35,10 @@ sidebar-search-results-header =
 sidebar-customize-firefox-settings = Pārvaldīt { -brand-short-name } iestatījumus
 sidebar-vertical-tabs =
     .label = Stateniskas cilnes
+sidebar-hide-tabs-and-sidebar =
+    .label = Paslēpt cilnes un sānjoslu
+sidebar-show-on-the-right =
+    .label = Pārvietot sānjoslu uz labo malu
 # Option to automatically expand the collapsed sidebar when the mouse pointer
 # hovers over it.
 expand-sidebar-on-hover =

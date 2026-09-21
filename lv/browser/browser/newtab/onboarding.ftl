@@ -301,10 +301,14 @@ onboarding-new-user-survey-familiarity-based-option-4 = Esmu to izmantojis, bet 
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = Sānjoslas iestatījumos pārslēdzies, kad vien vēlies!
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title = Stateniskās cilnes ir klāt
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = Iepazīstinām ar stateniskajām cilnēm
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = Izmēģini cilnes sānā! Sānjoslas iestatījumos pāŗslēdzies, kad vien vēlies!
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = Izmēģināt stateniskas cilnes
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
