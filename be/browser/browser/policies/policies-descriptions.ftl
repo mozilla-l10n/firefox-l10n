@@ -30,6 +30,7 @@ policy-BlockAboutSupport = Заблакаваць доступ да старон
 policy-Bookmarks = Ствараць закладкі ў паліцы закладак, меню закладак, або ў азначаных каталогах унутры іх.
 policy-CaptivePortal = Уключае або выключае падтрымку партала перахаплення.
 policy-CertificatesDescription = Дадаць сертыфікаты або выкарыстоўваць убудаваныя сертыфікаты.
+policy-ClearOnShutdown = Ачышчаць звесткі аглядання пры закрыцці { -brand-short-name }.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.
