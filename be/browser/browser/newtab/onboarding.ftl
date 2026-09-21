@@ -562,6 +562,12 @@ onboarding-refresh-tab-layout-header = Паспрабуйце іншы выкл�
 onboarding-refresh-tab-layout-top = Наверсе
 onboarding-refresh-tab-layout-side = Збоку
 onboarding-refresh-tab-layout-minimal = Мінімалізм
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Акно браўзера, у якім карткі адлюстроўваюцца ў выглядзе невялікіх значкоў уздоўж экрана ў мінімізаванай бакавой панэлі.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Акно браўзера, у якім карткі адлюстроўваюцца ў выглядзе невялікіх значкоў уздоўж экрана ў мінімізаванай бакавой панэлі.
 
 ## Smart window switcher callout
 

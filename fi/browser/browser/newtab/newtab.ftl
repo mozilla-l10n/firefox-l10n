@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Päivän kuva
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Haku
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Viimeisimmät haut
@@ -481,6 +485,29 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Viimeisimpien hakujen asetukset
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Lue lisää
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Viimeisimmät haut
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Nousussa
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Juuri nyt
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Poista ”{ $search }” viimeaikaisista hauista
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Haku
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Hakuvalinnat
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Viimeisimmät haut näkyvät tässä, jotta voit palata niihin milloin tahansa.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Nousussa olevia hakuja ei ole tällä hetkellä saatavilla.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -784,6 +811,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Osakkeet
 newtab-custom-widget-picture-toggle =
     .label = Päivän kuva
+newtab-custom-widget-search-toggle =
+    .label = Haku
 newtab-custom-widget-recent-searches-toggle =
     .label = Viimeisimmät haut
 newtab-custom-widget-section-title = Pienoisohjelmat
@@ -840,6 +869,9 @@ newtab-wallpaper-add-an-image = Lisää kuva
 newtab-wallpaper-custom-color = Valitse väri
 newtab-wallpaper-toggle-title =
     .label = Taustakuvat
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Taustakuvien luokat
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Kuvan koko ylitti tiedostokokorajan { $file_size } Mt. Yritä ladata pienempi tiedosto.
@@ -1683,6 +1715,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Tämä tila toimii sinun säännöilläsi
 newtab-activation-window-message-values-focus-message = { -brand-product-name } antaa sinun selata verkkoa haluamallasi tavalla, tarjoten henkilökohtaisemman tavan aloittaa päiväsi verkossa. Tee { -brand-product-name }ista omasi.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Viimeistele { -brand-product-name } oman näköiseksesi
+newtab-nova-customization-callout-message = Tutustu vaaleisiin tai tummiin teemoihin ja taustakuviin, jotka tekevät uudesta { -brand-product-name }ista enemmän kaltaisesi.
+newtab-nova-customization-callout-primary-button =
+    .label = Valitse tyylisi
 
 ## Strings for the Clock widget
 

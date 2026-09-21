@@ -24,6 +24,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } правярае тое, што вы ўставілі, на адпаведнасць палітыкам вашай арганізацыі ў дачыненні да дадзеных. Гэта можа заняць некаторы час.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } правярае тое, што вы скапіявалі, на адпаведнасць палітыкам вашай арганізацыі ў дачыненні да дадзеных. Гэта можа заняць некаторы час.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -31,7 +34,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } правяра�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } правярае тое, што вы надрукавалі, на адпаведнасць палітыкам вашай арганізацыі ў дачыненні да дадзеных. Гэта можа заняць некаторы час.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Капіяванне гэтага змесціва абмежавана вашай арганізацыяй.
 contentanalysis-operationtype-clipboard = буфер абмену
+contentanalysis-operationtype-clipboard-copy = скапіяванае змесціва
 contentanalysis-operationtype-dropped-text = прапушчаны тэкст
 contentanalysis-operationtype-print = друк
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -69,6 +77,7 @@ contentanalysis-invalid-agent-signature-message-content = Не ўдалося п
 contentanalysis-error-message-upload-file = Зацягванне “{ $filename }” забаронена.
 contentanalysis-error-message-dropped-text = Перацягванне забаронена.
 contentanalysis-error-message-clipboard = Устаўка забаронена.
+contentanalysis-error-message-clipboard-copy = Капіяванне забаронена.
 contentanalysis-error-message-print = Друк забаронены.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -84,6 +93,8 @@ contentanalysis-block-dialog-title-download-file = Вам не дазволен�
 contentanalysis-block-dialog-body-download-file = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена сцягваць файл “{ $filename }”. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
 contentanalysis-block-dialog-title-clipboard = Вам не дазволена ўстаўляць гэта змесціва
 contentanalysis-block-dialog-body-clipboard = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена ўстаўляць гэта змесціва. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
+contentanalysis-block-dialog-title-clipboard-copy = Вам не дазволена капіяваць гэта змесціва
+contentanalysis-block-dialog-body-clipboard-copy = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена капіяваць гэта змесціва. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
 contentanalysis-block-dialog-title-dropped-text = Вам не дазволена скідваць гэта змесціва
 contentanalysis-block-dialog-body-dropped-text = Згодна з палітыкай абароны дадзеных вашай арганізацыі, вам не дазволена перацягваць гэта змесціва. Звярніцеся да адміністратара для атрымання дадатковай інфармацыі.
 contentanalysis-block-dialog-title-print = Вам не дазволена друкаваць гэты дакумент

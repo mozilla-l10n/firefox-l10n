@@ -111,6 +111,7 @@ unauthenticated-vpn-title = Kokeile { -brand-product-name }in sisäänrakennettu
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Piilota sijaintisi</a> selatessasi { -brand-product-name }illa.
 unauthenticated-private-location-message = Auttaa <a data-l10n-name="learn-more-vpn">pitämään sijaintisi yksityisenä</a> { -brand-product-name }issa.
 unauthenticated-choose-location-message-1 = Valitse useista sijainneista tai anna { -brand-product-name }in valita nopein.
+unauthenticated-site-rules-message = Valitse, mitkä sivustot käyttävät VPN-yhteyttä ja mitkä eivät.
 unauthenticated-get-started = Aloitetaan
 unauthenticated-terms-of-service-privacy-notice = Jatkamalla hyväksyt <a data-l10n-name="vpn-terms-of-service">käyttöehdot</a> ja <a data-l10n-name="vpn-privacy-notice">tietosuojakäytännön</a>.
 site-exclusion-toggle-enabled-1 =
@@ -120,6 +121,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN ei ole käytössä tällä sivustolla
     .label = Käytä VPN:ää tällä sivustolla
 site-exclusion-toggle-description = Eikö sivusto toimi? Kokeile poistaa VPN käytöstä.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Hallinnoi VPN-sääntöjä
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Sinun sääntö
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN ei ole käytössä tällä sivustolla
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN on käytössä tällä sivustolla
 ipprotection-settings-link =
     .label = Asetukset
 
@@ -256,6 +265,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } verkkosivustoa
         }
     .label = Hallitse verkkosivuston asetuksia
+ip-protection-site-rules-header =
+    .heading = Hallinnoi verkkosivuston sääntöjä
+ip-protection-site-rules-button =
+    .description = Aseta säännöt sivustoille, jotka tarvitsevat lisäyksityisyyttä tai VPN:n pois päältä.
+    .label = Hallinnoi verkkosivuston sääntöjä
 ip-protection-autostart =
     .label = Ota VPN käyttöön automaattisesti
 ip-protection-autostart-checkbox =
