@@ -527,6 +527,7 @@ mlmodel-pdfjs = { -brand-short-name } z njegovo uporabo ustvarja nadomestno bese
 mlmodel-smart-tab-topic-engine = { -brand-short-name } z njegovo uporabo predlaga imena za skupine zavihkov
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } z njegovo uporabo predlaga zavihke za skupine zavihkov
 mlmodel-formfill-engine = Z njegovo pomočjo { -brand-short-name } izpolnjuje obrazce z naslovi
+mlmodel-speech-recognition = { -brand-short-name } z njegovo pomočjo prepoznava govor v napravi
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = UI na napravi
 addon-category-mlmodel-title =

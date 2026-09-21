@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } poskuša upo
 autofill-edit-payment-method-os-prompt-macos = prikazati shranjene podatke o načinu plačila
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } poskuša prikazati shranjene podatke o plačilnem sredstvu. Spodaj potrdite dostop do tega računa Windows.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } poskuša prikazati shranjene podatke o načinu plačila.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = izbrisati shranjene podatke o plačilnih sredstvih
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } poskuša izbrisati shranjene podatke o plačilnih sredstvih. Spodaj potrdite dostop do tega računa Windows.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } poskuša izbrisati shranjene podatke o plačilnih sredstvih.
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Možnosti samodejnega izpolnjevanja obrazcev
 

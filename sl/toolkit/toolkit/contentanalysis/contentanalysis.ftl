@@ -25,6 +25,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } pregleduje, ali je prilepljena vsebina skladna s pravilniki vaše organizacije. To lahko traja nekaj časa.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } pregleduje, ali je kopirana vsebina skladna s pravilniki vaše organizacije. To lahko traja nekaj časa.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -32,7 +35,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } pregleduje, ali
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } pregleduje, ali je natisnjena vsebina skladna s pravilniki vaše organizacije. To lahko traja nekaj časa.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Kopiranje te vsebine je omejila vaša organizacija.
 contentanalysis-operationtype-clipboard = odložišče
+contentanalysis-operationtype-clipboard-copy = kopirana vsebina
 contentanalysis-operationtype-dropped-text = spuščeno besedilo
 contentanalysis-operationtype-print = natisni
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -70,6 +78,7 @@ contentanalysis-invalid-agent-signature-message-content = Preverjanje podpisa za
 contentanalysis-error-message-upload-file = Nalaganje datoteke "{ $filename }" zavrnjeno.
 contentanalysis-error-message-dropped-text = Vlečenje in spuščanje zavrnjeno.
 contentanalysis-error-message-clipboard = Lepljenje zavrnjeno.
+contentanalysis-error-message-clipboard-copy = Kopiranje zavrnjeno.
 contentanalysis-error-message-print = Tiskanje zavrnjeno.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -85,6 +94,8 @@ contentanalysis-block-dialog-title-download-file = Za prenos te datoteke nimate 
 contentanalysis-block-dialog-body-download-file = Po pravilnikih o varstvu podatkov vaše organizacije nimate dovoljenja za prenos datoteke »{ $filename }«. Za več informacij se obrnite na skrbnika.
 contentanalysis-block-dialog-title-clipboard = Za lepljenje te vsebine nimate dovoljenja
 contentanalysis-block-dialog-body-clipboard = Po pravilnikih o varstvu podatkov vaše organizacije nimate dovoljenja za lepljenje te vsebine. Za več informacij se obrnite na skrbnika.
+contentanalysis-block-dialog-title-clipboard-copy = Te vsebine vam ni dovoljeno kopirati
+contentanalysis-block-dialog-body-clipboard-copy = Po pravilnikih o varstvu podatkov vaše organizacije nimate dovoljenja za kopiranje te vsebine. Za več informacij se obrnite na skrbnika.
 contentanalysis-block-dialog-title-dropped-text = Za spuščanje te vsebine nimate dovoljenja
 contentanalysis-block-dialog-body-dropped-text = Po pravilnikih o varstvu podatkov vaše organizacije nimate dovoljenja za vlečenje in spuščanje te vsebine. Za več informacij se obrnite na skrbnika.
 contentanalysis-block-dialog-title-print = Za tiskanje tega dokumenta nimate dovoljenja
