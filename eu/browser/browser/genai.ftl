@@ -63,6 +63,17 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = Galdetu { $provider } hornitzaileari
     .tooltiptext = Galdetu { $provider } hornitzaileari
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Bilatu "{ $selection }" { $engine } erabiliz
+    .tooltiptext = Bilatu "{ $selection }" { $engine } erabiliz
+genai-shortcut-copy-button =
+    .aria-label = Kopiatu hautatutako testua
+    .tooltiptext = Kopiatu hautatutako testua
+genai-shortcut-more-actions-button =
+    .aria-label = Aukera gehiago
+    .tooltiptext = Aukera gehiago
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Galdetu { $provider } hornitzaileari
