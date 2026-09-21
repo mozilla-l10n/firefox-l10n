@@ -545,6 +545,37 @@ onboarding-refresh-gratitude-subtitle = Хвала вам што користи�
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } вам чува леђа
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } ти чува леђа, од сада
+onboarding-refresh-hero-text = Направљен да те заштити, а не да те прати.
+onboarding-refresh-tou-default = Отвори све везе помоћу { -brand-short-name }-а
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Задржи { -brand-short-name } у доку
+       *[other] Додај { -brand-short-name } на траку задатака
+    }
+onboarding-refresh-tou-default-unchecked = Задржи уграђену заштиту при сваком претраживању
+onboarding-refresh-tou-pin-unchecked = Задржи једини главни независни прегледач на дохват клика
+onboarding-refresh-terms-of-use-with-links = Настављањем прихватате <a data-l10n-name="terms_of_use">{ -brand-product-name } Услове коришћења</a> и наше <a data-l10n-name="privacy_notice">Обавештење о приватности</a>. Да би се прегледач унапредио, { -brand-product-name } шаље дијагностичке податке и податке о интеракцији { -vendor-short-name }-и.
+onboarding-refresh-data-collection-link = Управљај подешавањима прикупљања података
+onboarding-refresh-primary-button = Настави…
+onboarding-refresh-fro-import-header = Увези своје податке
+onboarding-refresh-fro-import-body = Твоји лични подаци остају приватни. { -brand-product-name } их никада неће продати.
+onboarding-refresh-fro-skip-button = Прескочи
+onboarding-refresh-fro-theme-header = Поиграј се са својим изгледом
+onboarding-refresh-tab-layout-header = Пробај другачији распоред језичака
+onboarding-refresh-tab-layout-top = На врху
+onboarding-refresh-tab-layout-side = Бочно
+onboarding-refresh-tab-layout-minimal = Минималистички
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Прозор прегледача који приказује језичке као мале иконице дуж стране екрана, у скупљеној бочној траци.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Прозор прегледача који приказује језичке као мале иконице дуж стране екрана, у скупљеној бочној траци.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Пребаците се између паметних и обичних прозора у било ком тренутку.
