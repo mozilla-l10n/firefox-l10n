@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF-ჩამსწორებელი
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = უფასო ხელსაწყო წასაკითხად, გასაერთიანებლად, ხელმოსაწერად, ჩასანიშნად თუ სხვა — თანმომყოლი პირადულობით
+about-pdf-features-cta =
+    .label = გაეცანით PDF-ხელსაწყოებს
 about-pdf-dropzone =
     .title = დასაწყისისთვის მოათავსეთ PDF აქ ან დააჭირეთ Enter
 about-pdf-dropzone-hint = დასაწყისისთვის მოათავსეთ PDF აქ
@@ -22,3 +24,11 @@ about-pdf-set-default =
     .label = ნაგულისხმევად დაყენება
 about-pdf-dismiss =
     .label = აცილება
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name } PDF-ხელსაწყოები
+about-pdf-features-intro = წაიკითხეთ, მონიშნეთ და ხელი მოაწერეთ PDF-ს, იქვე, სადაც გვერდებს ათვალიერებთ. მეტად იოლი, უფასო და პირადია.
+about-pdf-features-back =
+    .label = უკან
+about-pdf-feature-organize-heading = გვერდების დალაგება
