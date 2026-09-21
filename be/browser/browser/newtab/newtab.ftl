@@ -1022,6 +1022,7 @@ newtab-wallpaper-firefox-sitting-hill-light = Ліса сядзіць на св�
 newtab-wallpaper-firefox-peak-dark = Пыса лісы з левага краю, на цёмным фоне
 newtab-wallpaper-firefox-peak-light = Пыса лісы з левага краю, на светлым фоне
 newtab-wallpaper-firefox-sky-dark = Цёмна-фіялетавыя пагоркі пад начным небам
+newtab-wallpaper-firefox-sky-light = Светлыя пагоркі пад ціхім небам
 
 ## Firefox
 
@@ -1746,6 +1747,11 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Дадайце апошні штрых да { -brand-product-name }
+newtab-nova-customization-callout-message = Азнаёмцеся са светлымі або цёмнымі тэмамі і шпалерамі, якія зробяць новы { -brand-product-name } больш падобным на ваш.
 newtab-nova-customization-callout-primary-button =
     .label = Выберыце свой вобраз
 
