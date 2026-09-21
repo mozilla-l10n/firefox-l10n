@@ -66,8 +66,8 @@ genai-shortcut-button-2 =
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =
-    .aria-label = Recherche { $engine } pour « { $selection } »
-    .tooltiptext = Recherche { $engine } pour « { $selection } »
+    .aria-label = Rechercher « { $selection } » avec { $engine }
+    .tooltiptext = Rechercher « { $selection } » avec { $engine }
 genai-shortcut-copy-button =
     .aria-label = Copier le texte sélectionné
     .tooltiptext = Copier le texte sélectionné
