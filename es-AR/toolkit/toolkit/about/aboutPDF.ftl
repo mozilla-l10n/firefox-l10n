@@ -36,6 +36,7 @@ about-pdf-feature-organize-description = Reordenar, eliminar, fusionar y exporta
 about-pdf-feature-signatures-heading = Guardar firmas
 about-pdf-feature-signatures-description = Crear múltiples firmas y agregarlas a formularios.
 about-pdf-feature-comments-heading = Agregar notas
+about-pdf-feature-comments-description = Dejar comentarios y recordatorios mientras se lee.
 about-pdf-feature-annotate-description = Agregar texto, resaltados y dibujos.
 about-pdf-feature-images-heading = Subir imágenes accesibles
 about-pdf-feature-images-description = Agregar texto alternativo para que las imágenes funcionen para más personas.
