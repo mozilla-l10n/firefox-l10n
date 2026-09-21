@@ -75,6 +75,8 @@ about-private-browsing-felt-privacy-v1-info-link = 누가 내 활동을 볼 수 
 
 about-private-browsing-nova-info-body = 모든 사생활 보호 창을 닫으면 쿠키, 기록 및 사이트 데이터가 삭제됩니다.
 about-private-browsing-nova-info-link = 누가 여전히 내 활동을 볼 수 있나요?
+about-private-browsing-private-window-basics-link = 사생활 보호 창 기본
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name }는 내장된 추적 보호 기능으로 탐색 시 개인 정보를 보호하도록 설계되었습니다. 이 창을 닫으면 이 기기를 사용하는 다른 사람들이 사용자의 탐색을 볼 수 없도록 기록, 쿠키 및 사이트 데이터가 지워집니다.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -83,4 +85,21 @@ about-private-browsing-nova-info-subheader2 = 모든 사생활 보호 창을 닫
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = 사생활 보호 창 기본
+about-private-browsing-spotlight-basics-subtitle = 사생활 보호 창은 이 기기를 함께 사용하는 다른 사람으로부터 사용자의 탐색을 보호합니다. 하지만 익명성을 완벽히 보장하거나 모든 데이터를 삭제하는 것은 아닙니다.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = 알아두어야 할 사항
+about-private-browsing-spotlight-basics-activity-seen = 사이트, 검색 엔진, 인터넷 서비스 제공업체 또는 직장에서는 사용자의 일부 활동을 여전히 확인할 수 있습니다.
+about-private-browsing-spotlight-basics-bookmarks-downloads = 북마크와 다운로드 항목은 기기에 남아있고 주소 표시줄에도 나타날 수 있습니다.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = 더 많은 개인 정보 보호
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name }는 악성 코드와 의심스러운 사이트에 대해 자동으로 경고합니다.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name }는 참여 웹사이트에 사용자의 개인 데이터를 판매하거나 공유하지 않도록 자동으로 요청합니다.
+about-private-browsing-spotlight-basics-vpn = 내장 VPN을 사용하여 위치를 추적하기 어렵게 만드세요.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = 더 강력한 추적 보호를 위해 설정에서 엄격으로 전환하세요.
 about-private-browsing-spotlight-basics-learn-more = 더 알아보기
