@@ -36,6 +36,9 @@ neterror-view-certificate-link = Прикажи сертификат
 ## derived from the address that failed to resolve.
 
 neterror-search-cta-title = Не може се приступити овој страници
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = Није могуће повезати се са сервером на <strong>{ $hostname }</strong>.
 # $domain (String) - The host of the address that failed to load, including any
 # subdomains, for example "docs.example.com".
 neterror-search-cta-intro = Не могу да се повежем са сервером на { $domain }.

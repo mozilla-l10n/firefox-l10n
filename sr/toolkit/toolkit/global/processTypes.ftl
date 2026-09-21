@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = Помоћни Media Foundation п�
 process-type-utility-actor-js-oracle = Помоћни JavaScript Oracle
 process-type-utility-actor-windows-utils = Помоћне Windows алатке
 process-type-utility-actor-windows-file-dialog = Помоћни Windows дијалог за датотеке
+process-type-utility-actor-hw-inference = Алатка хардверски убрзане инференције
 
 ##
 ## Other
