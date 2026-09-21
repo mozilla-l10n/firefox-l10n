@@ -76,8 +76,25 @@ about-private-browsing-felt-privacy-v1-info-link = Хто можа бачыць 
 about-private-browsing-nova-info-body = Закрыццё ўсіх прыватных вокнаў выдаляе кукі, гісторыю і звесткі сайтаў.
 about-private-browsing-nova-info-link = Хто ўсё яшчэ можа бачыць маю дзейнасць?
 about-private-browsing-private-window-basics-link = Асновы прыватнага акна
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } створаны для абароны вашай прыватнасці ў часе аглядання, з убудаванымі сродкамі аховы ад сачэння. Закрыццё гэтага акна сцірае яго гісторыю, кукі і звесткі сайтаў, каб трымаць ваша агляданне прыватным ад іншых карыстальнікаў гэтай прылады.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Вас не запісваюць
 about-private-browsing-nova-info-subheader2 = Мы выдалім усе пошукавыя запыты і ўваходы, калі вы закрыеце ўсе прыватныя вокны. Убудаваныя ў { -brand-short-name } сродкі аховы тут таксама ўключаны, напрыклад, блакаванне трэкераў.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Асновы прыватнага акна
+about-private-browsing-spotlight-basics-subtitle = Прыватныя вокны дапамагаюць абараніць вашу прыватнасць ад іншых карыстальнікаў гэтай прылады. Яны не робяць вас ананімнымі і не выдаляюць усе вашы дадзеныя.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Што трэба ведаць
+about-private-browsing-spotlight-basics-activity-seen = Некаторая актыўнасць усё яшчэ можа быць бачная сайтам, пошукавым сістэмам, інтэрнэт-правайдарам ці вашаму працадаўцу.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Закладкі і сцягванні застаюцца на вашай прыладзе і могуць з'явіцца ў адрасным радку.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Больш мер аховы прыватнасці
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } аўтаматычна папярэджвае вас пра шкодныя праграмы і падманныя сайты.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } аўтаматычна просіць сайты-ўдзельнікі не прадаваць і не перадаваць вашы асабістыя дадзеныя.
