@@ -28,6 +28,7 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } PDF-verktøy
+about-pdf-features-intro = Les, gjer merknader i og signer PDF-ar direkte i nettlesaren. Det er enkelt, gratis og privat.
 about-pdf-features-back =
     .label = Tilbake
 about-pdf-feature-organize-heading = Organiser sider
