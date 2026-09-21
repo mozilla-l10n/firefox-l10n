@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } ПДФ уређивач
 about-pdf-header = { -brand-short-name } ПДФ
 about-pdf-tagline = Бесплатан алат за читање, спајање, потписивање, коментарисање и још много тога, уз уграђену приватност
+about-pdf-features-cta =
+    .label = Истражи PDF алате
 about-pdf-dropzone =
     .title = Превуците ПДФ овде да започнете или притисните Enter
 about-pdf-dropzone-hint = Превуците ПДФ овде да започнете
@@ -22,3 +24,26 @@ about-pdf-set-default =
     .label = Постави као подразумевано
 about-pdf-dismiss =
     .label = Одбаци
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name } PDF алати
+about-pdf-features-intro = Читајте, обележите и потпишите PDF документе тамо где претражујете. Једноставно је, бесплатно и приватно.
+about-pdf-features-back =
+    .label = Назад
+about-pdf-feature-organize-heading = Организујте странице
+about-pdf-feature-organize-description = Промените редослед, уклоните, спојите и извезите странице.
+about-pdf-feature-signatures-heading = Сачувајте потписе
+about-pdf-feature-signatures-description = Направите више потписа и додајте их у обрасце.
+about-pdf-feature-comments-heading = Додај белешке
+about-pdf-feature-comments-description = Оставите напомене и подсетнике док читате.
+about-pdf-feature-annotate-heading = Обележите PDF документе
+about-pdf-feature-annotate-description = Додајте текст, истицања и цртеже.
+about-pdf-feature-images-heading = Отпремите приступачне слике
+about-pdf-feature-images-description = Додајте alt текст како би слике биле доступне већем броју људи.
+about-pdf-feature-view-heading = Изаберите свој приказ
+about-pdf-feature-view-description = Помакните усправно или водоравно, или пребаците распореде страница.
+about-pdf-feature-presentation-heading = Прикажите PDF документе на целом екрану
+about-pdf-feature-presentation-description = Поделите чист приказ у режиму презентације.
+about-pdf-feature-details-heading = Пронађите појединости брже
+about-pdf-feature-details-description = Употребите садржај, прилоге и својства за кретање кроз PDF документе.
