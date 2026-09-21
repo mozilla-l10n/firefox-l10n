@@ -80,3 +80,7 @@ about-private-browsing-nova-info-link = 누가 여전히 내 활동을 볼 수 �
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = 기록이 남지 않습니다
 about-private-browsing-nova-info-subheader2 = 모든 사생활 보호 창을 닫으면 모든 검색과 로그인이 삭제됩니다. 여기에서도 추적기 차단 같은 { -brand-short-name }의 내장 보호 기능을 사용할 수 있습니다.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = 더 알아보기

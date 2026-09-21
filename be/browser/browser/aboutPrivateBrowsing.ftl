@@ -98,3 +98,8 @@ about-private-browsing-spotlight-basics-more-privacy = Больш мер ахо�
 about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } аўтаматычна папярэджвае вас пра шкодныя праграмы і падманныя сайты.
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
 about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } аўтаматычна просіць сайты-ўдзельнікі не прадаваць і не перадаваць вашы асабістыя дадзеныя.
+about-private-browsing-spotlight-basics-vpn = Выкарыстоўвайце ўбудаваны VPN, каб ваша месцазнаходжанне было складаней асачыць.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Для больш моцнай аховы ад сачэння пераключыце на строгі рэжым у наладах.
+about-private-browsing-spotlight-basics-learn-more = Даведацца больш

@@ -161,6 +161,12 @@ home-prefs-mission-message-learn-more-link-srd = 방법 알아보기
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 더 알아보기
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = 개인정보 보호 옵션
+    .title = 개인정보 보호 옵션
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -1773,6 +1779,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = 일치하는 시간대가 없습니다
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = 뒤로
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = 시계 옵션
+    .title = 시계 옵션
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

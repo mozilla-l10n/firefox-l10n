@@ -75,8 +75,19 @@ about-private-browsing-felt-privacy-v1-info-link = Quem pode ver minha atividade
 
 about-private-browsing-nova-info-body = Fechar todas as janelas privativas exclui seus cookies, histórico e dados de sites.
 about-private-browsing-nova-info-link = Quem ainda pode ver minha atividade?
+about-private-browsing-private-window-redesign-subheader = O { -brand-short-name } foi projetado para proteger sua privacidade enquanto navega, com proteções integradas contra rastreamento. Ao fechar esta janela, são excluídos histórico, cookies e dados de sites para manter sua navegação privativa de outras pessoas que usam este dispositivo.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Sua atividade de navegação não será salva
 about-private-browsing-nova-info-subheader2 = Todas as pesquisas e acessos a contas serão excluídas quando você fechar todas as janelas privativas. As proteções integradas do { -brand-short-name } também estão ativadas aqui, como bloqueio de rastreadores.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-subtitle = Janelas privativas ajudam a manter sua navegação privativa de outras pessoas neste dispositivo. Não tornam você anônimo nem limpam todos os seus dados.
+about-private-browsing-spotlight-basics-activity-seen = Alguma atividade ainda pode ser vista por sites, mecanismos de pesquisa, provedores de internet ou seu empregador.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Favoritos e arquivos baixados permanecem no dispositivo e podem aparecer na barra de endereços.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Mais proteções de privacidade
+about-private-browsing-spotlight-basics-malware-alerts = O { -brand-short-name } avisa automaticamente sobre malware e sites enganosos.
