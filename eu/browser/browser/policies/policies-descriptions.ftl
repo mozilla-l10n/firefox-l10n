@@ -30,6 +30,7 @@ policy-BlockAboutSupport = Blokeatu about:support orrirako sarbidea.
 policy-Bookmarks = Sortu laster-markak laster-marken tresna-barran, menuan edo hauen barneko karpeta batean.
 policy-CaptivePortal = Gaitu edo desgaitu atari gatibuen euskarria.
 policy-CertificatesDescription = Ziurtagiriak gehitzea edo integratutako ziurtagiriak erabiltzea.
+policy-ClearOnShutdown = Garbitu nabigatze-datuak { -brand-short-name } ixtean.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.

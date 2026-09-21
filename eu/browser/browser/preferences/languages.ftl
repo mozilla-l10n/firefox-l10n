@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Instalatutako hizkuntzak
 browser-languages-available-label = Hizkuntza erabilgarriak
 browser-languages-error = Une honetan { -brand-short-name }(e)k ezin ditu zure hizkuntzak eguneratu. Egiaztatu internetera konektatuta zaudela edo saiatu berriro.
+browser-languages-update-error =
+    .message = Une honetan { -brand-short-name }(e)k ezin ditu zure hizkuntzak eguneratu. Egiaztatu Internetera konektatuta zaudela edo saiatu berriro.
