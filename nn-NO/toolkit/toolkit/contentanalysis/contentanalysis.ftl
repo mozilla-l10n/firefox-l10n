@@ -31,6 +31,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } granskar tekste
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } granskar det du skreiv ut mot dataretningslinjene til organisasjonen. Dette kan ta ein liten augneblink.
 contentanalysis-operationtype-clipboard = utklippstavle
+contentanalysis-operationtype-clipboard-copy = kopiert innhald
 contentanalysis-operationtype-dropped-text = sleppt tekst
 contentanalysis-operationtype-print = skriv ut
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +69,7 @@ contentanalysis-invalid-agent-signature-message-content = Mislykka signaturstadf
 contentanalysis-error-message-upload-file = Opplasting av «{ $filename }» vart nekta.
 contentanalysis-error-message-dropped-text = Drag og slepp nekta.
 contentanalysis-error-message-clipboard = Lim inn nekta.
+contentanalysis-error-message-clipboard-copy = Kopiering avvist.
 contentanalysis-error-message-print = Utskrift nekta.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +85,7 @@ contentanalysis-block-dialog-title-download-file = Du har ikkje løyve til å la
 contentanalysis-block-dialog-body-download-file = I samsvar med retningslinjene i organisasjonen for datavern har du ikkje løyve til å laste ned fila «{ $filename }». Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-clipboard = Du har ikkje løyve til å lime inn dette innhaldet
 contentanalysis-block-dialog-body-clipboard = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å lime inn dette innhaldet. Kontakt administratoren din for meir informasjon.
+contentanalysis-block-dialog-title-clipboard-copy = Du har ikkje løyve til å kopiere dette innhaldet
 contentanalysis-block-dialog-title-dropped-text = Du har ikkje løyve til å dra og sleppe dette innhaldet
 contentanalysis-block-dialog-body-dropped-text = I samsvar med retningslinjene til organisasjonen for datavern har du ikkje løyve til å drage og sleppe dette innhaldet. Kontakt administratoren din for meir informasjon.
 contentanalysis-block-dialog-title-print = Du har ikkje løyve til å skrive ut dette dokumentet
