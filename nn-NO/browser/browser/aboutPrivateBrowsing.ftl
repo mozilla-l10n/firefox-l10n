@@ -80,3 +80,7 @@ about-private-browsing-nova-info-link = Kven kan framleis sjå aktiviteten min?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Du etterlèt ingen spor
 about-private-browsing-nova-info-subheader2 = Vi slettar alle søk og innloggingar når du lèt att alle dei private vindauga dine. { -brand-short-name } sitt innebygde vern er også aktiv her, til dømes blokkering av sporarar.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = Les meir

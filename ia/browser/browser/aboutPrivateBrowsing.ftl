@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = Qui pote vider mi activitate?
 
 about-private-browsing-nova-info-body = Claudente tote tu fenestras private tu delera tu cookies, chronologia e datos de sito.
 about-private-browsing-nova-info-link = Qui pote ancora vider mi activitate?
+about-private-browsing-private-window-basics-link = Elementos re le fenestras private
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
