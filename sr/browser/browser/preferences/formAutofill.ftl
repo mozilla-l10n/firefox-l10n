@@ -103,6 +103,7 @@ autofill-address-tel = Телефон
 autofill-address-email = Е-пошта
 autofill-cancel-button = Откажи
 autofill-save-button = Сачувај
+autofill-country-warning-message-2 = Самопопуњавање образаца је тренутно доступно само за одређене земље
 autofill-country-warning-message = Аутоматско попуњавање форми тренутно није доступно само у одређеним државама.
 autofill-message-tooltip = Погледајте поруку о аутоматском попуњавању
 # The dialog title for creating credit cards in browser preferences.
@@ -121,6 +122,10 @@ autofill-card-expires-year-2 =
     .label = Истиче године
 autofill-card-billing-address-2 =
     .label = Адреса за наплату
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Име на картици
 autofill-card-expires-month = Месец ист.
 autofill-card-expires-year = Година ист.
