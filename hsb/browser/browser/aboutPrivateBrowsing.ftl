@@ -88,7 +88,10 @@ about-private-browsing-spotlight-basics-title = Zakłady priwatneho wokna
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Što trjebaće wědźeć
+about-private-browsing-spotlight-basics-activity-seen = Někotra aktiwita so snano přez sydła, pytawy, internetnych poskićowarjow abo wašu dźěłodawarja widźi.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Zapołožki a sćehnjenja na wašim graće wostawaja a móža so w adresowym polu jewić.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Dalši škit priwatnosće
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } was awtomatisce wo škódnej software a wobšudne sydła warnuje.
 about-private-browsing-spotlight-basics-learn-more = Dalše informacije
