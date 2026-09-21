@@ -539,6 +539,37 @@ onboarding-refresh-gratitude-subtitle = Kiitos, että käytät { -brand-short-na
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } huolehtii sinusta
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } on tukenasi tästä lähtien
+onboarding-refresh-hero-text = Rakennettu suojaamaan sinua, ei seuraamaan sinua.
+onboarding-refresh-tou-default = Avaa kaikki linkit { -brand-short-name }illa
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Pidä { -brand-short-name } Dockissa
+       *[other] Lisää { -brand-short-name } tehtäväpalkkiin
+    }
+onboarding-refresh-tou-default-unchecked = Säilytä sisäänrakennettu suojaus aina selatessasi
+onboarding-refresh-tou-pin-unchecked = Pidä ainoa merkittävä itsenäinen selain napsautuksen päässä
+onboarding-refresh-terms-of-use-with-links = Jatkamalla hyväksyt <a data-l10n-name="terms_of_use">{ -brand-product-name }in käyttöehdot</a> ja <a data-l10n-name="privacy_notice">tietosuojakäytännön</a>. Selaimen kehittämiseksi { -brand-product-name } lähettää diagnostiikka- ja vuorovaikutustietoa { -vendor-short-name }lle.
+onboarding-refresh-data-collection-link = Muokkaa tiedonkeruun asetuksia
+onboarding-refresh-primary-button = Jatka
+onboarding-refresh-fro-import-header = Tuo tietosi
+onboarding-refresh-fro-import-body = Henkilökohtaiset tietosi pysyvät henkilökohtaisina. { -brand-product-name } ei koskaan myy niitä.
+onboarding-refresh-fro-skip-button = Ohita
+onboarding-refresh-fro-theme-header = Leikittele tyyleillä
+onboarding-refresh-tab-layout-header = Kokeile erilaista välilehtien asettelua
+onboarding-refresh-tab-layout-top = Ylhäällä
+onboarding-refresh-tab-layout-side = Sivussa
+onboarding-refresh-tab-layout-minimal = Minimaalinen
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Selainikkuna, jossa välilehdet näkyvät pieninä kuvakkeina näytön reunassa, pienennettyssä sivupaneelissa.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Selainikkuna, jossa välilehdet näkyvät pieninä kuvakkeina näytön reunassa, pienennettyssä sivupaneelissa.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Vaihda älykkään ja perinteisen ikkunan välillä milloin tahansa.

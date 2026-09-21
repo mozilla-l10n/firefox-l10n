@@ -5,6 +5,8 @@
 about-pdf-title = Рэдактар PDF { -brand-short-name }
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Бясплатны інструмент для чытання, аб'яднання, падпісання, каментавання і многага іншага — з убудаванай прыватнасцю
+about-pdf-features-cta =
+    .label = Азнаёмцеся з прыладамі PDF
 about-pdf-dropzone =
     .title = Перацягніце сюды PDF-файл, каб пачаць, або націсніце Enter
 about-pdf-dropzone-hint = Каб пачаць, перацягніце сюды PDF-файл
@@ -22,3 +24,18 @@ about-pdf-set-default =
     .label = Зрабіць прадвызначаным
 about-pdf-dismiss =
     .label = Адхіліць
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Прылады PDF у { -brand-short-name }
+about-pdf-features-intro = Чытайце, рабіце пазнакі і падпісвайце PDF-файлы прама там, дзе аглядаеце. Гэта проста, бясплатна і прыватна.
+about-pdf-features-back =
+    .label = Назад
+about-pdf-feature-organize-heading = Арганізуйце старонкі
+about-pdf-feature-organize-description = Змяняйце парадак, выдаляйце, аб'ядноўвайце і экспартуйце старонкі.
+about-pdf-feature-signatures-heading = Захоўвайце подпісы
+about-pdf-feature-signatures-description = Стварыце некалькі подпісаў і дадавайце іх у формы.
+about-pdf-feature-comments-heading = Дадавайце нататкі
+about-pdf-feature-comments-description = Пакідайце каментарыі і напамінанні ў часе чытання.
+about-pdf-feature-annotate-heading = Разметка PDF-файлаў
+about-pdf-feature-annotate-description = Дадавайце тэкст, вылучэнні і малюнкі.
