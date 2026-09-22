@@ -166,6 +166,12 @@ home-prefs-mission-message-learn-more-link-srd = Więcej informacji
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Więcej informacji
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Opcje widżetu prywatności
+    .title = Opcje widżetu prywatności
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -510,10 +516,10 @@ newtab-recent-searches-just-now = Przed chwilą
 newtab-recent-searches-row-remove =
     .aria-label = Usuń „{ $search }” z listy ostatnich wyszukiwań
 # Widget heading; also the widget's accessible name.
-newtab-search-widget-title = Wyszukiwanie
+newtab-search-widget-title = Wyszukiwania
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
-    .aria-label = Opcje wyszukiwania
+    .aria-label = Opcje wyszukiwań
 
 ## Recent searches widget — empty states
 
@@ -821,6 +827,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Giełda
 newtab-custom-widget-picture-toggle =
     .label = Zdjęcie dnia
+newtab-custom-widget-search-toggle =
+    .label = Wyszukiwania
 newtab-custom-widget-recent-searches-toggle =
     .label = Ostatnie wyszukiwania
 newtab-custom-widget-section-title = Widżety
@@ -1833,6 +1841,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Brak pasujących stref czasowych
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Wstecz
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Opcje zegara
+    .title = Opcje zegara
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
