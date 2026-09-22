@@ -75,6 +75,8 @@ about-private-browsing-felt-privacy-v1-info-link = Kto może zobaczyć, co robi�
 
 about-private-browsing-nova-info-body = Zamknięcie wszystkich prywatnych okien spowoduje usunięcie ciasteczek, historii i danych witryn.
 about-private-browsing-nova-info-link = Kto nadal może widzieć co robię?
+about-private-browsing-private-window-basics-link = Informacje o oknie prywatnym
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } chroni Twoją prywatność podczas przeglądania Internetu dzięki wbudowanej ochronie przed śledzeniem. Zamknięcie tego okna usuwa jego historię, ciasteczka i dane witryn, dzięki czemu inni użytkownicy tego urządzenia nie zobaczą tego, co robisz.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
