@@ -33,11 +33,15 @@ ipprotection-feature-introduction-button-get-started = Hefjast handa
 
 ## Unlimited bandwidth summer promotion offramp callouts
 
+# Summer promo offramp callout buttons
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Opna VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Setja á sjálfgefið
 ipprotection-summer-promo-offramp-get-subscription-button = Sæktu { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Afgreiða
 
 ## Site settings callout
 
+ipprotection-site-settings-callout-title = Veldu hvar þú notar VPN
 ipprotection-site-settings-callout-button = Náði því
 
 ## Location selection callout

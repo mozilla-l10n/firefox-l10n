@@ -201,3 +201,5 @@ link-preview-key-points-disclaimer = Lykilatriði eru búin til með gervigreind
 link-preview-onboarding-button = Sjá forskoðun
 # Onboarding card Close button
 link-preview-onboarding-close = Loka
+# Title for the first-time setup modal
+link-preview-first-time-setup-title = Fyrsta uppsetning
