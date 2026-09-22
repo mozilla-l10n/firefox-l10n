@@ -4,8 +4,62 @@
 
 # Access Connector is an Enterprise feature name and must not be translated.
 -enterprise-feature-access-connector = Connecteur d’accès
+# Shown in the About dialog on enterprise builds.
+aboutdialog-managed-notice = Votre organisation administre votre navigateur.
+# Shown in the About dialog on enterprise nightly builds.
+warningdesc-version-enterprise-nightly = Le canal de distribution { -brand-nightly-channel } est expérimental et peut être instable.
 # Shown in the about:support "Application Basics" table on enterprise builds.
 app-basics-device-id = Identifiant de l’appareil
+# Shown in the about:support "Security Software" section on enterprise builds.
+# Endpoint Detection and Response is an industry term and must remain in English.
+security-software-edr = Endpoint Detection and Response
+# Shown in the about:support "Security Software" section on enterprise builds.
+security-software-disk-encryption = Chiffrement du disque
+# All relevant storage was checked and is encrypted: the operating-system volume,
+# other mounted fixed volumes (storage areas on non-removable disks), and active
+# Linux swap (disk space used to hold memory contents). Linux boot partitions
+# mounted at /boot, /boot/efi, or /efi are excluded. This variant is used when
+# the encryption technology name is unavailable.
+security-software-disk-encryption-full = Activé
+# All relevant storage was checked and is encrypted, including the operating-system
+# volume, other mounted fixed volumes, and active Linux swap. Linux boot
+# partitions mounted at /boot, /boot/efi, or /efi are excluded.
+# Variables:
+#   $method (String): Encryption technology name: "BitLocker", "FileVault",
+#   "dm-crypt", or "ZFS". Inserted unchanged; do not translate the name.
+security-software-disk-encryption-full-with-method = Activé ({ $method })
+# The operating-system volume is encrypted and no unencrypted storage was found,
+# but Firefox could not verify encryption for all relevant storage. "Inspection
+# incomplete" describes an incomplete check, not encryption still in progress.
+# This variant is used when the encryption technology name is unavailable.
+security-software-disk-encryption-enabled = Activé ; vérification incomplète
+# The operating-system volume is encrypted and no unencrypted storage was found,
+# but Firefox could not verify encryption for all relevant storage. "Inspection
+# incomplete" describes an incomplete check, not encryption still in progress.
+# Variables:
+#   $method (String): Encryption technology name: "BitLocker", "FileVault",
+#   "dm-crypt", or "ZFS". Inserted unchanged; do not translate the name.
+security-software-disk-encryption-enabled-with-method = Activé ({ $method }) ; vérification incomplète
+# The operating-system volume is encrypted, but another mounted fixed volume or
+# active Linux swap is known to be unencrypted. "Partial" describes encryption
+# coverage across storage areas, not the progress of an encryption operation.
+# This variant is used when the encryption technology name is unavailable.
+security-software-disk-encryption-partial = Partiel ; certaines zones de stockage ne sont pas chiffrées
+# The operating-system volume is encrypted, but another mounted fixed volume or
+# active Linux swap is known to be unencrypted. "Partial" describes encryption
+# coverage across storage areas, not the progress of an encryption operation.
+# Variables:
+#   $method (String): Encryption technology name: "BitLocker", "FileVault",
+#   "dm-crypt", or "ZFS". Inserted unchanged; do not translate the name.
+security-software-disk-encryption-partial-with-method = Partiel ({ $method }) ; certaines zones de stockage ne sont pas chiffrées
+# The operating-system volume is not encrypted. Other storage may be encrypted.
+security-software-disk-encryption-disabled = Désactivé
+# An inspected volume is being encrypted or decrypted. This describes an ongoing
+# operation, unlike incomplete inspection or partial encryption coverage.
+security-software-disk-encryption-in-progress = Chiffrement ou déchiffrement en cours
+# Firefox could not determine whether the operating-system volume is encrypted.
+# This does not mean that encryption is disabled.
+security-software-disk-encryption-unknown = Inconnu
 enterprise-toolbar-button =
     .label = { -brand-short-name }
     .tooltiptext = { -brand-short-name }
