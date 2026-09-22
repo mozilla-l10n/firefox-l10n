@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Stillingar fyrir ferilhreinsun
     .style = min-width: 34em
+    .title = Stillingar fyrir ferilhreinsun
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Hreinsa vafragögn og vefkökur
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Hreinsa nýlega ferla
     .style = min-width: 34em
+    .title = Hreinsa nýlega ferla
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Hreinsa alla ferla
     .style = min-width: 34em
+    .title = Hreinsa alla ferla
 clear-data-settings-label = Þegar lokað er ætti { -brand-short-name } sjálfkrafa að hreinsa allt.
 sanitize-on-shutdown-description = Hreinsa sjálfkrafa öll merkt atriði þegar { -brand-short-name } lokar.
 
@@ -128,3 +128,6 @@ sanitize-everything-warning = Allir ferlar verða hreinsaðir.
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = Allt sem er valið verður hreinsað.
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = Reiknar…

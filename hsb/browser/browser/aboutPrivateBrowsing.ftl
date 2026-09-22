@@ -95,4 +95,5 @@ about-private-browsing-spotlight-basics-bookmarks-downloads = Zapołožki a sće
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Dalši škit priwatnosće
 about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } was awtomatisce wo škódnej software a wobšudne sydła warnuje.
+about-private-browsing-spotlight-basics-vpn = Wužiwajće zatwarjeny VPN, zo byšće slědźenje swojeho stejnišća poćežił.
 about-private-browsing-spotlight-basics-learn-more = Dalše informacije

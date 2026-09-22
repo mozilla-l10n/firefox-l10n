@@ -251,3 +251,8 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Bókamerki og ferill eru ekki aðgengilegar því einhverjar skrár fyrir { -brand-short-name } eru þegar í notkun af öðru forriti. Stundum getur öryggishugbúnaður valdið þessum vandræðum.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = Nýtt
+    .label = Deila möppu

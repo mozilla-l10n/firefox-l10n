@@ -125,5 +125,6 @@ addon-local-install-no-addon-name-error-file-access = Ekki tókst að setja inn 
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Ekki tókst að setja inn { $addonName } þar sem hún er ekki samhæfð við { -brand-short-name } { $appVersion }.
 addon-install-error-hard-blocked = { $addonName } brýtur gegn reglum Mozilla og er því ekki hægt að setja það upp á { -brand-short-name }.
+addon-install-error-soft-blocked2 = { $addonName } er takmarkað og ekki er því hægt að setja það upp á { -brand-short-name }.
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = Þú getur ekki sett upp { $addonName } sem endanotandi, það getur aðeins verið sett upp af stofnun sem notar fyrirtækjastefnur.

@@ -74,6 +74,11 @@ smartblock-placeholder-title = { $trackername } rekjarar og efni útilokað
 smartblock-placeholder-desc = { -brand-short-name } stillingarnar þínar komu í veg fyrir að þetta efni gæti fylgst með þér á milli vefsvæða eða verið notað fyrir auglýsingar.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Leyfa á { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Efni úr útilokaðri innfellingu
 
 ##
 

@@ -3,3 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 opentabs-page-title = Veldu flipa til að bæta við klofið yfirlit
+opentabs-search-text-box =
+    .placeholder = Leita í flipum
+# Variables:
+#   $query (String) - The search query used for searching through open tabs.
+opentabs-search-results-header =
+    .heading = Leitarniðurstöður fyrir „{ $query }“
