@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF düzenleyicisi
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Gizliliğinizden ödün vermeden PDF okumak, birleştirmek, imzalamak, yorum yapmak ve daha fazlası için ücretsiz bir araç
+about-pdf-features-cta =
+    .label = PDF araçlarını keşfedin
 about-pdf-dropzone =
     .title = Başlamak için buraya bir PDF sürükleyin veya Enter’a basın
 about-pdf-dropzone-hint = Başlamak için buraya bir PDF sürükleyin
@@ -26,3 +28,18 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } PDF araçları
+about-pdf-features-back =
+    .label = Geri dön
+about-pdf-feature-organize-heading = Sayfaları düzenleyin
+about-pdf-feature-organize-description = Sayfaları yeniden sıralayın, silin, birleştirin ve dışa aktarın.
+about-pdf-feature-signatures-heading = İmzaları kaydedin
+about-pdf-feature-signatures-description = İstediğiniz kadar imza oluşturup formlara ekleyin.
+about-pdf-feature-comments-heading = Notlar ekleyin
+about-pdf-feature-comments-description = Okuduğunuz yerlere yorum ve hatırlatmalar ekleyin.
+about-pdf-feature-annotate-description = Metin, vurgu ve çizim ekleyin.
+about-pdf-feature-images-heading = Erişilebilir resimler yükleyin
+about-pdf-feature-view-heading = Görünümünüzü seçin
+about-pdf-feature-view-description = İster dikey veya yatay kaydırın, ister sayfa düzenini değiştirin.
+about-pdf-feature-presentation-heading = PDF’leri tam ekranda gösterin
+about-pdf-feature-presentation-description = Sunum modunda sade bir görünüm paylaşın.
+about-pdf-feature-details-heading = Ayrıntıları daha hızlı bulun

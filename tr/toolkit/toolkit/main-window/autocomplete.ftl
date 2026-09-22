@@ -55,4 +55,8 @@ autocomplete-remove-record-button = Sil
 ## do not support device sign-in and fall back to the Primary Password dialog.
 
 autocomplete-remove-password-os-auth-dialog-message-win = Parolanızı silmek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# strings together will be presented by the operating system.
+autocomplete-remove-password-os-auth-dialog-message-macosx = kayıtlı parolayı silme
 autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

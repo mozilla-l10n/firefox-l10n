@@ -90,3 +90,16 @@ about-private-browsing-spotlight-basics-subtitle = Leiho pribatuek zure nabigazi
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Jakin beharrekoa
+about-private-browsing-spotlight-basics-activity-seen = Zenbait jarduera oraindik ikusiak izan litezke gune, bilaketa-motor, Internet hornitzaile edo zure enplegatzaileengandik.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Laster-markak eta deskargak zure gailuan gelditzen dira eta helbide-barran ager litezke.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Pribatutasun-babes gehiago
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name }(e)k automatikoki abisatzen zaitu malware eta gune iruzurtiez.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name }(e)k automatikoki eskatzen die gune parte-hartzaileei zure datu pertsonalak ez saldu edo partekatzeko.
+about-private-browsing-spotlight-basics-vpn = Erabili integratutako VPNa zure kokapenaren aztarna jarraitzea zailagoa izan dadin.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Aldatu babes zorrotzera ezarpenetan jarraipenaren babes sendoagoa izateko.
+about-private-browsing-spotlight-basics-learn-more = Argibide gehiago

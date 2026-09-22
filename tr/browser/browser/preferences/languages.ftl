@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Yüklenmiş diller
 browser-languages-available-label = Kullanılabilir diller
 browser-languages-error = { -brand-short-name } şu anda dillerinizi güncelleyemiyor. İnternet bağlantınızı kontrol edip yeniden deneyin.
+browser-languages-update-error =
+    .message = { -brand-short-name } şu anda dillerinizi güncelleyemiyor. İnternet bağlantınızı kontrol edip yeniden deneyin.
