@@ -15,6 +15,8 @@ customkeys-file-duplicate-tab = Tvítaka flipa
 customkeys-history-reopen-tab = Afturkalla að loka flipa
 customkeys-history-reopen-window = Opna aftur síðasta lokaða glugga
 customkeys-dev-tools = Vefforritunarverkfæri
+customkeys-dev-webconsole = Vefstjórnborð
+customkeys-dev-debugger = JavaScript villuleit
 customkeys-dev-network = Netvöktun
 customkeys-dev-style = Stílritill
 customkeys-dev-performance = Afköst
@@ -65,3 +67,22 @@ customkeys-key-new =
     .label = Ýttu á nýjan lykil:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (er ekki hægt að breyta)
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-confirm = Nota samt
+customkeys-conflict-confirm-button-cancel = Hætta við
+customkeys-reset-all-confirm-button-cancel = Hætta við
+
+## Sidebar
+
+customkeys-sidebar =
+    .aria-label = Hliðarstika
+customkeys-title-heading =
+    .heading = Flýtilyklar
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Leita að flýtilyklum
+    .placeholder = Leita að flýtilyklum
+customkeys-support-link-text = Frekari upplýsingar
+customkeys-reset-all-button = Endurheimta sjálfgefin gildi

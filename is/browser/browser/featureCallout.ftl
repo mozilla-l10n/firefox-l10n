@@ -92,6 +92,7 @@ perplexity-callout-secondary-label-2 = Náði því
 ## Startpage callout strings. Startpage (https://www.startpage.com/) is a
 ## brand name and should not be translated or transliterated.
 
+start-page-callout-primary-label = Prófa Startpage
 start-page-callout-secondary-label = Afgreiða
 
 ## Account Adoption Passwords callout strings
@@ -115,6 +116,7 @@ windows-10-eos-sync-callout-primary-advance-button-label = Næsta
 sidebar-button-callout-title = Sýndu titla flipa í hliðarstikunni
 sidebar-button-callout-subtitle = Notaðu hliðarstikuhnappinn til að stækka hliðarstikuna, svo þú getir séð titlana á flipunum.
 sidebar-button-callout-vertical-tabs = Til að sýna flipana þína skaltu velja hliðarstikuhnappinn á verkfærastikunni.
+sidebar-deprecation-cta-button = Prófa það núna
 
 ## Sidebar Vertical Tabs Strings
 
@@ -176,6 +178,7 @@ sidebar-genai-survey-satisfaction-question = Hversu ánægð/ur ertu með að ha
 sidebar-genai-survey-productive-question =
     Að hve miklu leyti ertu sammála eða ósammála þessari fullyrðingu:<br/>
     „Gervigreindar-spjallkerfið í hliðarstikunni hjálpar mér að vera afkastameiri“?
+splitview-onboarding-callout-cta-1 = Prófa það núna
 unified-search-callout-title = Skiptu á milli leitarvéla
 unified-search-callout-subtitle = Veldu það sem virkar best fyrir tiltekna leit.
 unified-search-callout-primary-label = Næsta

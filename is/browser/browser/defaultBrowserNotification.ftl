@@ -39,3 +39,4 @@ default-browser-guidance-notification-body-instruction-win11 =
     Skref 2: Veldu „Setja sjálfgefið“ fyrir { -brand-short-name }
 default-browser-guidance-notification-info-page = Sýna mér
 default-browser-guidance-notification-dismiss = Lokið
+default-browser-guidance-notification-v2-title = Ljúktu við að gera { -brand-short-name } að sjálfgefnum vafra
