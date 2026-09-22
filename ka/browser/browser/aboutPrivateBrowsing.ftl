@@ -76,8 +76,30 @@ about-private-browsing-felt-privacy-v1-info-link = ვისთვის შე�
 about-private-browsing-nova-info-body = ყველა პირადი ფანჯრის დახურვის შემთხვევაში თქვენი ფუნთუშები, ისტორია და საიტის მონაცემები წაიშლება.
 about-private-browsing-nova-info-link = მაინც ვისთვის შეიძლება იყოს ხილული ჩემი საქმიანობა?
 about-private-browsing-private-window-basics-link = პირადი ფანჯრის საფუძვლები
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } შექმნილია თქვენი პირადულობის უზრუნველსაყოფად გვერდების მონახულებისას, თანმომყოლი დაცვით თვალთვალის ასარიდებლად. ამ ფანჯრის დახურვა წაშლის მის ისტორიას, ფუნთუშებსა და საიტის მონაცემებს, რომ თქვენ მიერ ნანახი გვერდების მონაცემები დატოვოს პირადი და არ გაუმჟღავნოს სხვებს, ვინც ამ მოწყობილობით ისარგებლებს.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = აღრიცხვებს მიღმა იმყოფებით
 about-private-browsing-nova-info-subheader2 = ჩვენ წავშლით თქვენი ყველა ძიებისა თუ ანგარიშზე შესვლის მონაცემებს ყველა პირადი ფანჯრის დახურვისთანავე. { -brand-short-name } აქაც იყენებს ჩაშენებულ დაცვას მეთვალყურეების თავისთავად შეზღუდვით.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = პირადი ფანჯრის საფუძვლები
+about-private-browsing-spotlight-basics-subtitle = პირადი ფანჯრები გეხმარებათ, დატოვოთ მონახულებული გვერდების მონაცემები პირადი და უხილავი ამ მოწყობილობის სხვა მომხმარებლებისგან. მათი მეშვეობით ვერ მოხერხდება ვინაობის გაუმხელობა ან ყველა მონაცემისგან გასუფთავება.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = რა უნდა იცოდეთ
+about-private-browsing-spotlight-basics-activity-seen = გარკვეული მოქმედებები მაინც ხილული რჩება საიტებისთვის, საძიებო სისტემებისთვის, ქსელის მომწოდებლებისა თუ თქვენი დამსაქმებლისთვის.
+about-private-browsing-spotlight-basics-bookmarks-downloads = სანიშნები და ჩამოტვირთვები რჩება მოწყობილობაზევე და შესაძლოა, გამოჩნდეს მისამართების ველში.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = პირადულობის უკეთ დაცვა
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } თავისთავად გაცნობებთ მავნე და თაღლითური საიტების შესახებ.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } თავადვე მოსთხოვს შეთანხმებაში მონაწილე საიტებს, არ გაყიდონ და არავის გაუზიარონ თქვენი პირადი მონაცემები.
+about-private-browsing-spotlight-basics-vpn = გამოიყენეთ ჩაშენებული VPN თქვენი მდებარეობის შესანიღბად.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = გადართეთ მკაცრ პარამეტრებზე თვალთვალისგან უფრო მძლავრი დაცვისთვის.
+about-private-browsing-spotlight-basics-learn-more = ვრცლად
