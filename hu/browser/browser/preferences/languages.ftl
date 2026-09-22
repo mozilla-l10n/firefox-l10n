@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Telepített nyelvek
 browser-languages-available-label = Elérhető nyelvek
 browser-languages-error = A { -brand-short-name } most nem tudja frissíteni a nyelveket. Ellenőrizze, hogy kapcsolódik-e az internethez, és próbálja újra.
+browser-languages-update-error =
+    .message = A { -brand-short-name } most nem tudja frissíteni a nyelveket. Ellenőrizze, hogy kapcsolódik-e az internethez, és próbálja újra.

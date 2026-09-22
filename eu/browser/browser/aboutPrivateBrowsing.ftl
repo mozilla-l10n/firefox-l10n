@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = Nork ikus lezake nire jarduer
 
 about-private-browsing-nova-info-body = Leiho pribatu guztiak ixteak zure cookieak, historia eta guneetako datuak ezabatzen ditu.
 about-private-browsing-nova-info-link = Nork ikus lezake nire jarduera halere?
+about-private-browsing-private-window-basics-link = Leiho pribatuen oinarriak
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"

@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = A nap képe
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Keresés
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Legutóbbi keresések
@@ -161,6 +165,12 @@ home-prefs-mission-message-learn-more-link-srd = Tudja meg hogyan
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = További tudnivalók
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Adatvédelmi beállítások
+    .title = Adatvédelmi beállítások
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -485,6 +495,29 @@ newtab-recent-searches-menu-learn-more = További tudnivalók
 newtab-recent-searches-tab-recent = Legutóbbi keresések
 # Tab listing what is trending with the user's search engine.
 newtab-recent-searches-tab-trending = Népszerű
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = ezzel: { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Épp most
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = „{ $search }” eltávolítása a legutóbbi keresésekből
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Keresés
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Keresési beállítások
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = A legutóbbi keresések itt jelennek meg, így bármikor újra megnyithatja őket.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = A népszerű keresések jelenleg nem érhetők el.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -784,6 +817,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Részvények
 newtab-custom-widget-picture-toggle =
     .label = A nap képe
+newtab-custom-widget-search-toggle =
+    .label = Keresés
 newtab-custom-widget-recent-searches-toggle =
     .label = Legutóbbi keresések
 newtab-custom-widget-section-title = Kisalkalmazások
@@ -840,6 +875,9 @@ newtab-wallpaper-add-an-image = Kép hozzáadása
 newtab-wallpaper-custom-color = Válasszon színt
 newtab-wallpaper-toggle-title =
     .label = Háttérképek
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Háttérkép-kategóriák
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = A kép túllépte a { $file_size } MB-os fájlméretkorlátot. Próbáljon meg egy kisebb fájlt feltölteni.
@@ -1700,6 +1738,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Ez a hely az Ön szabályai szerint játszik
 newtab-activation-window-message-values-focus-message = A { -brand-product-name } használatával úgy böngészhet, ahogy tetszik, és személyesebben kezdheti a napját online. Tegye sajátjává a { -brand-product-name } böngészőt.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Szabja személyre a { -brand-product-name }ot
+newtab-nova-customization-callout-message = Fedezze fel a világos vagy sötét témákat és háttérképeket, és tegye igazán személyessé a { -brand-product-name }ot.
+newtab-nova-customization-callout-primary-button =
+    .label = Válassza ki a megjelenését
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1780,6 +1828,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Nincs megfelelő időzóna
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Vissza
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Órabeállítások
+    .title = Órabeállítások
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

@@ -75,8 +75,31 @@ about-private-browsing-felt-privacy-v1-info-link = Ki láthatja a tevékenysége
 
 about-private-browsing-nova-info-body = Az összes privát ablak bezárása törli a sütijeit, előzményeit és oldaladatait.
 about-private-browsing-nova-info-link = Ki láthatja továbbra is a tevékenységemet?
+about-private-browsing-private-window-basics-link = Privát ablak alapjai
+about-private-browsing-private-window-redesign-subheader = A { -brand-short-name } a beépített követés elleni védelmének köszönhetően megvédi a magánszféráját. Az ablak bezárása törli az előzményeket, a sütiket és a weboldaladatokat, így a böngészést bizalmasan tartja a többiektől, akik ezt az eszközt használják.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = A böngészési előzményei törölve lesznek
 about-private-browsing-nova-info-subheader2 = Az összes keresést és bejelentkezést törölni fogjuk, ha bezárja az összes privát ablakot. A { -brand-short-name } beépített védelme, például a nyomkövetők blokkolása, itt is be van kapcsolva.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Privát ablak alapjai
+about-private-browsing-spotlight-basics-subtitle = A privát ablakok segítenek elrejteni a böngészési tevékenységét az eszköz többi felhasználói elől. Azonban nem teszik névtelenné, és nem törlik az összes adatát.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Mit érdemes tudni
+about-private-browsing-spotlight-basics-activity-seen = Bizonyos tevékenységei továbbra is láthatók lehetnek a webhelyek, a keresőszolgáltatások, az internetszolgáltatója vagy a munkáltatója számára.
+about-private-browsing-spotlight-basics-bookmarks-downloads = A könyvjelzők és a letöltések az eszközön maradnak, és megjelenhetnek a címsorban.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = További adatvédelmi funkciók
+about-private-browsing-spotlight-basics-malware-alerts = A { -brand-short-name } automatikusan értesíti a rosszindulatú és megtévesztő webhelyekről.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = A { -brand-short-name } automatikusan megkéri a résztvevő oldalakat, hogy ne adják el vagy osszák meg a személyes adatait.
+about-private-browsing-spotlight-basics-vpn = A beépített VPN-nel nehezebben követhető a tartózkodási helye.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Váltson Szigorú módra a beállításokban az erősebb követés elleni védelem érdekében.
+about-private-browsing-spotlight-basics-learn-more = További tudnivalók

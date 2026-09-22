@@ -63,6 +63,17 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = A(z) { $provider } megkérdezése
     .tooltiptext = A(z) { $provider } megkérdezése
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = { $engine } keresés erre: „{ $selection }”
+    .tooltiptext = { $engine } keresés erre: „{ $selection }”
+genai-shortcut-copy-button =
+    .aria-label = Kijelölt szöveg másolása
+    .tooltiptext = Kijelölt szöveg másolása
+genai-shortcut-more-actions-button =
+    .aria-label = További beállítások
+    .tooltiptext = További beállítások
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = A(z) { $provider } megkérdezése
