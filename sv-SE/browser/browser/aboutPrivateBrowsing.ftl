@@ -87,3 +87,19 @@ about-private-browsing-nova-info-subheader2 = Vi raderar alla sökningar och inl
 
 about-private-browsing-spotlight-basics-title = Grunderna i privata fönster
 about-private-browsing-spotlight-basics-subtitle = Privata fönster hjälper till att dölja din surfning för andra som använder den här enheten. Det gör dig inte anonym och rensar inte heller alla dina data.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Bra att veta
+about-private-browsing-spotlight-basics-activity-seen = Viss aktivitet kan fortfarande ses av webbplatser, sökmotorer, internetleverantörer eller din arbetsgivare.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Bokmärken och nedladdningar stannar på enheten och kan visas i adressfältet.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Fler integritetsskydd
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } varnar dig automatiskt om skadlig programvara och vilseledande webbplatser.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } ber automatiskt deltagande webbplatser att inte sälja eller dela dina personuppgifter.
+about-private-browsing-spotlight-basics-vpn = Använd inbyggt VPN för att göra din plats svårare att spåra.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Byt till Strikt i inställningarna för starkare spårningsskydd.
+about-private-browsing-spotlight-basics-learn-more = Läs mer
