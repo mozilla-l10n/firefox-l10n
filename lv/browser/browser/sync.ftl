@@ -13,8 +13,8 @@ fxa-signout-dialog2-checkbox = Dzēst datus no šīs ierīces (paroles, vēsturi
 fxa-menu-sync-settings =
     .label = Sinhronizēt iestatījumus
 fxa-menu-turn-on-sync =
-    .value = Ieslēgt sinhronizāciju
-fxa-menu-turn-on-sync-default = Ieslēgt sinhronizāciju
+    .value = Ieslēgt vienādošanu
+fxa-menu-turn-on-sync-default = Ieslēgt vienādošanu
 fxa-menu-connect-another-device =
     .label = Savienot citu ierīci…
 # This is shown dynamically within "Send tab to device" in fxa menu.

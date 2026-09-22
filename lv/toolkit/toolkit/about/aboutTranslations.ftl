@@ -12,3 +12,7 @@ about-translations-translation-error-button = Mēģināt vēlreiz
 # Placeholder text shown in the source-language text area when the user has not typed any text.
 about-translations-input-placeholder =
     .placeholder = Pievienot tulkojamo tekstu
+# The title attribute for the swap languages button, which swaps the selected
+# source and target languages, reversing the direction of translation.
+about-translations-swap-languages =
+    .title = Apmainīt valodas

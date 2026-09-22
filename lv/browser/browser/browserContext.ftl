@@ -287,6 +287,7 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Sūtīt uz ierīci
     .accesskey = n
+main-context-menu-send-to-mobile-enable-sync2 = Jāiespējo vienādošana, lai nosūtītu cilni
 
 ##
 

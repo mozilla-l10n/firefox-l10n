@@ -190,6 +190,7 @@ addon-permissions-learnmore = Uzzināt vairāk par atļaujām
 
 ## Page headings
 
+locale-heading = Pārvaldīt valodas
 addon-page-options-button =
     .title = Visu papildinājumu rīki
 

@@ -279,6 +279,8 @@ onboarding-mobile-download-security-and-privacy-subtitle = Kad esat sinhronizēj
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } jūs atbalsta
 onboarding-gratitude-security-and-privacy-subtitle = Paldies, ka izmantojat { -brand-short-name }, ko atbalsta Mozilla Foundation. Ar jūsu atbalstu mēs strādājam, lai padarītu internetu drošāku un pieejamāku ikvienam.
+# Sign up or Sign in screen
+onboarding-sign-up-title = Vienādo savus datus starp ierīcēm
 
 ## New user time and familiarity survey strings
 
