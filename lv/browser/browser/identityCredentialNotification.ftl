@@ -12,7 +12,7 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
-identity-credential-header-providers = Ierakstieties, izmantojot ierakstīšanās pakalpojuma nodrošinātāju
+identity-credential-header-providers = Pieteikties ar pieteikšanās nodrošinātāju
 identity-credential-header-accounts = Pieteikties ar { $provider }
 identity-credential-urlbar-anchor =
     .tooltiptext = Atveriet ierakstīšanās paneli
@@ -23,7 +23,7 @@ identity-credential-accept-button =
     .label = Turpināt
     .accesskey = T
 identity-credential-sign-in-button =
-    .label = Ierakstīties
-    .accesskey = s
+    .label = Pieteikties
+    .accesskey = P
 identity-credential-policy-title = Izmantot { $provider } kā ierakstīšanās pakalpojuma nodrošinātāju
 identity-credential-policy-description = Uz ierakstīšanos vietnē { $host }, izmantojot { $provider } kontu, attiecas viņu <label data-l10n-name="privacy-url">privātuma politika</label> un <label data-l10n-name="tos-url">Pakalpojumu sniegšanas noteikumi</label>.

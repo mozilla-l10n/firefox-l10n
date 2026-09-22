@@ -39,7 +39,7 @@ onboarding-welcome-steps-indicator-label =
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Izslēgt animācijas
 # String for the Firefox Accounts button
-mr1-onboarding-sign-in-button-label = Ierakstīties
+mr1-onboarding-sign-in-button-label = Pieteikties
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
@@ -257,8 +257,8 @@ mr2022-onboarding-gratitude-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Lapsa māj uz klēpjdatora ekrāna. Klēpjdatoram ir pievienota pele.
 onboarding-device-migration-title = Prieks jūs atkal redzēt!
-onboarding-device-migration-subtitle2 = Ierakstieties savā kontā, lai jaunajā ierīcē ņemtu līdzi grāmatzīmes, paroles un vēsturi.
-onboarding-device-migration-primary-button-label = Ierakstīties
+onboarding-device-migration-subtitle2 = Piesakies savā kontā, lai jaunajā ierīcē piekļūtu savām grāmatzīmēm, parolēm un vēsturei!
+onboarding-device-migration-primary-button-label = Pieteikties
 
 ## Add-ons Picker screen
 
@@ -326,6 +326,12 @@ tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Atrodi savas aizv
 ## Fx Backup onboarding: Create Backup spotlight
 
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">Uzzināt vairāk</a>
+fx-backup-opt-in-confirm-btn-label = Turpināt
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-with-checklist-primary-button = Saglabāt un turpināt
+restored-from-backup-success-no-checklist-primary-button = Turpināt
 
 ## Onboarding Personalization Screen
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
@@ -371,6 +377,14 @@ onboarding-minimal-tabs-description =
 
 smartwindow-existing-user-fx-tou-go-back = Doties atpakaļ
 
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Turpināt
+
 ## Smart Window Sidebar Auto-Open Pref
 
 smartwindow-sidebar-auto-open-callout-rejected-title = Sapratu
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-button-label = Saglabāt un turpināt

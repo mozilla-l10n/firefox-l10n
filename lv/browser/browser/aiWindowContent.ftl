@@ -81,6 +81,7 @@ smart-window-opened-tabs-row-label = Atvērtās cilnes
 
 ## Action log
 
+action-log-searching-tabs = Meklē cilnes
 action-log-searching-settings = Meklē iestatījumus
 action-log-searched-settings = Meklēja iestatījumus
 

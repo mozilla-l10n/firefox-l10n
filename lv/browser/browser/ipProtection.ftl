@@ -111,4 +111,6 @@ ipprotection-bandwidth-reset-button = Sapratu
 
 ## IP Protection alerts
 
+vpn-error-page-continue-description = Jāizvēlas, kā turpināt bez VPN
+vpn-paused-alert-continue-wo-vpn-button = Turpināt bez VPN
 vpn-error-alert-body = Vēlāk jāmēģina vēlreiz.

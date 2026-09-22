@@ -778,8 +778,8 @@ sync-remove-account =
     .label = Noņemt kontu
     .accesskey = N
 sync-sign-in =
-    .label = Ierakstīties
-    .accesskey = I
+    .label = Pieteikties
+    .accesskey = t
 
 ## Sync section - enabling or disabling sync.
 

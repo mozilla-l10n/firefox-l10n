@@ -31,17 +31,17 @@ firefoxview-tabpickup-network-offline-primarybutton = Mēģināt vēlreiz
 firefoxview-tabpickup-sync-error-header = Mums ir problēmas ar sinhronizāciju
 firefoxview-tabpickup-generic-sync-error-description = { -brand-short-name } pašlaik nevar sasniegt sinhronizācijas pakalpojumu. Pēc brīža mēģiniet vēlreiz.
 firefoxview-tabpickup-sync-error-primarybutton = Mēģināt vēlreiz
-firefoxview-tabpickup-sync-disconnected-header = Lai turpinātu, ieslēdziet sinhronizāciju
-firefoxview-tabpickup-sync-disconnected-description = Lai paņemtu cilnes, jums ir jāatļauj { -brand-short-name } sinhronizācija.
-firefoxview-tabpickup-sync-disconnected-primarybutton = Iestatījumos ieslēdziet sinhronizāciju
+firefoxview-tabpickup-sync-disconnected-header = Jāieslēdz vienādošana, lai turpinātu
+firefoxview-tabpickup-sync-disconnected-description = Lai iegūtu savas cilnes, { -brand-short-name } ir nepieciešams atļaut vienādošanu.
+firefoxview-tabpickup-sync-disconnected-primarybutton = Iestatījumos ieslēgt vienādošanu
 firefoxview-tabpickup-password-locked-header = Ievadiet savu galveno paroli, lai skatītu cilnes
 firefoxview-tabpickup-password-locked-description = Lai izmantotu cilnes, jums būs jāievada { -brand-short-name } galvenā parole.
 firefoxview-tabpickup-password-locked-link = Uzzināt vairāk
 firefoxview-tabpickup-password-locked-primarybutton = Ievadiet galveno paroli
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Uzzināt vairāk</a>
 firefoxview-tabpickup-signed-out-header = Piesakies, lai atkal savienotos
-firefoxview-tabpickup-signed-out-description2 = Lai atkal savienotos un paņemtu cilnes, ierakstieties savā kontā.
-firefoxview-tabpickup-signed-out-primarybutton = Ierakstīties
+firefoxview-tabpickup-signed-out-description2 = Lai atkal savienotos un piekļūtu savām cilnēm, jāpiesakās savā kontā.
+firefoxview-tabpickup-signed-out-primarybutton = Pieteikties
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -113,9 +113,12 @@ firefoxview-search-text-box-history =
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).
 firefoxview-search-text-box-recentlyclosed =
     .placeholder = Meklēt nesen aizvērtās cilnēs
+# Placeholder for the input field to search in tabs from other devices ("search" is a verb).
+firefoxview-search-text-box-tabs =
+    .placeholder = Meklēt cilnes
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-opentabs =
-    .placeholder = Meklēt atvērtās cilnēs
+    .placeholder = Meklēt atvērtajās cilnēs
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.

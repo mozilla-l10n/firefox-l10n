@@ -562,7 +562,7 @@ urlbar-placeholder-search-mode-other-history =
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .aria-label = Meklēt cilnēs
-    .placeholder = Ievadiet meklēšanas tekstu
+    .placeholder = Jāievada meklēšanas vaicājums
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .aria-label = Meklēt darbībās

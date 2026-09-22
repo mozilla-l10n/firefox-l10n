@@ -155,7 +155,7 @@ appmenu-account-header = Konts
 appmenu-fxa-last-sync = Pēdējo reizi sinhronizēts { $time }
     .label = Pēdējo reizi sinhronizēts { $time }
 appmenu-fxa-sync-and-save-data2 = Sinhronizēt un saglabāt datus
-appmenu-fxa-signed-in-label = Pierakstīties
+appmenu-fxa-signed-in-label = Pieteikties
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Jāpiesakās, lai vienādotu

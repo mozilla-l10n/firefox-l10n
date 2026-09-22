@@ -10,7 +10,7 @@ about-logins-login-filter2 =
 create-login-button =
     .title = Pievienot paroli
 fxaccounts-sign-in-text = Iegūstiet savas paroles citās ierīcēs
-fxaccounts-sign-in-sync-button = Pierakstīties sinhronizācijai
+fxaccounts-sign-in-sync-button = Pieteikties, lai vienādotu
 fxaccounts-avatar-button =
     .title = Pārvaldīt kontu
 
@@ -166,8 +166,8 @@ about-logins-export-password-os-auth-dialog-message2-macosx = izgūt saglabātā
 
 about-logins-primary-password-notification-message = Lūdzu, ievadiet savu primāro paroli, lai skatītu saglabātos lietotājvārdus un paroles
 master-password-reload-button =
-    .label = Ierakstīties
-    .accesskey = L
+    .label = Pieteikties
+    .accesskey = P
 
 ## Dialogs
 

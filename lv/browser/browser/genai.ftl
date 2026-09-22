@@ -63,6 +63,15 @@ genai-input-ask-generic =
 genai-input-ask-provider =
     .placeholder = Jautāt { $provider }…
 
+## Chatbot onboarding
+
+genai-onboarding-primary = Turpināt
+
+## Model Optin Component
+
+genai-model-optin-continue =
+    .label = Turpināt
+
 ## Link previews
 
 # Text for the retry link when generation fails

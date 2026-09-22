@@ -285,6 +285,14 @@ relay-50-masks-announcement-title = Uzsaucam 50 e-pasta aizsegus
 nova-early-access-infobar-primary-button = Sapratu
     .accesskey = S
 
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = Saglabāt un turpināt
+
 ## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
 ##
 ## These strings will be displayed by the Windows operating system in a
