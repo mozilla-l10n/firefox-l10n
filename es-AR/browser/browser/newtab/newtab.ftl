@@ -1811,6 +1811,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = No hay husos horarios que coincidan
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Atrás
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Opciones de reloj
+    .title = Opciones de reloj
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
