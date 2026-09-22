@@ -75,8 +75,13 @@ about-private-browsing-felt-privacy-v1-info-link = Kto však môže vidieť moju
 
 about-private-browsing-nova-info-body = Zatvorením všetkých súkromných okien sa vymažú súbory cookie, história a údaje stránok.
 about-private-browsing-nova-info-link = Kto by mohol stále vidieť moju aktivitu?
+about-private-browsing-private-window-basics-link = Základné informácie o súkromnom okne
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = História vášho prehliadania nebude zaznamenaná
 about-private-browsing-nova-info-subheader2 = Po zatvorení všetkých súkromných okien sa vymažú všetky vyhľadávania a prihlásenia. Vstavané ochrany { -brand-short-name(case: "gen") } sú tu tiež zapnuté, napríklad blokovanie sledovacích prvkov.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = Ďalšie informácie
