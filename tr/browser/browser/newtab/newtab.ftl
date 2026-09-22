@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Günün resmi
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Arama
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Son aramalar
@@ -496,6 +500,11 @@ newtab-recent-searches-just-now = Az önce
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” aramasını son aramalardan kaldır
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Arama
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Arama seçenekleri
 
 ## Recent searches widget — empty states
 
@@ -802,6 +811,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Borsa
 newtab-custom-widget-picture-toggle =
     .label = Günün resmi
+newtab-custom-widget-search-toggle =
+    .label = Arama
 newtab-custom-widget-recent-searches-toggle =
     .label = Son aramalar
 newtab-custom-widget-section-title = Araçlar
@@ -858,6 +869,9 @@ newtab-wallpaper-add-an-image = Resim ekle
 newtab-wallpaper-custom-color = Renk seç
 newtab-wallpaper-toggle-title =
     .label = Duvar kâğıtları
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Duvar kâğıdı kategorileri
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Bu resim, izin verilen { $file_size } MB boyut sınırını aşıyor. Lütfen daha küçük bir dosya yüklemeyi deneyin.
@@ -991,6 +1005,10 @@ newtab-wallpaper-firefox-hills-dark = Koyu tepelerde koşan bir tilki
 newtab-wallpaper-firefox-hills-light = Açık renkli tepelerde koşan bir tilki
 newtab-wallpaper-firefox-tail-dark = Koyu renkli arka planda tilki kuyruğu
 newtab-wallpaper-firefox-tail-light = Açık renkli arka planda tilki kuyruğu
+newtab-wallpaper-firefox-side-kit-dark = Koyu bir arka planın sol tarafında bir tilki
+newtab-wallpaper-firefox-side-kit-light = Açık renkli bir arka planın sol tarafında bir tilki
+newtab-wallpaper-firefox-sitting-hill-dark = Koyu mor tepelerde oturan bir tilki
+newtab-wallpaper-firefox-sitting-hill-light = Açık renkli tepelerde oturan bir tilki
 newtab-wallpaper-firefox-sky-dark = Gece gökyüzünün altında koyu mor tepeler
 newtab-wallpaper-firefox-sky-light = Yumuşak bir gökyüzünün altında aydınlık tepeler
 
@@ -1711,6 +1729,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Burası sizin yeriniz
 newtab-activation-window-message-values-focus-message = { -brand-product-name } internette istediğiniz gibi gezinmenizi ve güne daha kişisel bir şekilde başlamanızı sağlar. { -brand-product-name } tarayıcınızı özelleştirin.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = Tarzınızı seçin
 
 ## Strings for the Clock widget
 

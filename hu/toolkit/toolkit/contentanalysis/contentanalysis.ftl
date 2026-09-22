@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = A(z) { $agent } ellenőrzi, hogy amit beillesztett ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = A(z) { $agent } ellenőrzi, hogy amit nyomtatott ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = A(z) { $agent } ellenőrzi
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = A(z) { $agent } ellenőrzi, hogy amit nyomtatott ellentétes-e a szervezete adatházirendjeivel. Ez eltarthat egy darabig.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = A szervezete nem engedélyezi ennek a tartalomnak a másolását.
 contentanalysis-operationtype-clipboard = vágólap
+contentanalysis-operationtype-clipboard-copy = másolt tartalom
 contentanalysis-operationtype-dropped-text = fogd és vidd művelettel átdobott szöveg
 contentanalysis-operationtype-print = nyomtatás
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Nem sikerült az alá�
 contentanalysis-error-message-upload-file = A(z) „{ $filename }” feltöltése megtagadva.
 contentanalysis-error-message-dropped-text = A fogd és vidd művelet megtagadva.
 contentanalysis-error-message-clipboard = A beillesztés megtagadva.
+contentanalysis-error-message-clipboard-copy = Másolás megtagadva.
 contentanalysis-error-message-print = A nyomtatás megtagadva.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = Ezt a fájlt nem töltheti le
 contentanalysis-block-dialog-body-download-file = A szervezete adatbiztonsági irányelvei értelmében nem töltheti le a(z) „{ $filename }” fájlt. További információkért forduljon a rendszergazdához.
 contentanalysis-block-dialog-title-clipboard = Ezt a tartalmat nem illesztheti be
 contentanalysis-block-dialog-body-clipboard = A szervezete adatbiztonsági irányelvei értelmében nem illesztheti be ezt a tartalmat. További információkért forduljon a rendszergazdához.
+contentanalysis-block-dialog-title-clipboard-copy = Ezt a tartalmat nem másolhatja
+contentanalysis-block-dialog-body-clipboard-copy = A szervezet adatvédelmi szabályzata nem engedélyezi ennek a tartalomnak a másolását. További információért forduljon a rendszergazdához.
 contentanalysis-block-dialog-title-dropped-text = Ezt a tartalmat nem húzhatja ide
 contentanalysis-block-dialog-body-dropped-text = A szervezete adatbiztonsági irányelvei értelmében nem húzhatja ide ezt a tartalmat. További információkért forduljon a rendszergazdához.
 contentanalysis-block-dialog-title-print = Ezt a dokumentumot nem nyomtathatja ki

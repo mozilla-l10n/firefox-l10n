@@ -63,6 +63,12 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = { $provider } sohbet botuna sor
     .tooltiptext = { $provider } sohbet botuna sor
+genai-shortcut-copy-button =
+    .aria-label = Seçilen metni kopyala
+    .tooltiptext = Seçilen metni kopyala
+genai-shortcut-more-actions-button =
+    .aria-label = Diğer seçenekler
+    .tooltiptext = Diğer seçenekler
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } sohbet botuna sor

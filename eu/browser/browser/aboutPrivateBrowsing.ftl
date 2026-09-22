@@ -76,8 +76,17 @@ about-private-browsing-felt-privacy-v1-info-link = Nork ikus lezake nire jarduer
 about-private-browsing-nova-info-body = Leiho pribatu guztiak ixteak zure cookieak, historia eta guneetako datuak ezabatzen ditu.
 about-private-browsing-nova-info-link = Nork ikus lezake nire jarduera halere?
 about-private-browsing-private-window-basics-link = Leiho pribatuen oinarriak
+about-private-browsing-private-window-redesign-subheader = Nabigatu ahala zure pribatutasuna babesteko diseinatuta dago { -brand-short-name }, eta integratutako jarraipenaren aurkako babesak ditu. Leiho hau ixteak bere historia, cookieak eta guneen datuak ezabatzen ditu, horrela zure nabigazioa gailu hau darabilten beste erabiltzaileengandik pribatu mantenduz.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Zure nabigazio-historia ezabatu egingo da
 about-private-browsing-nova-info-subheader2 = Leiho pribatu guztiak ixtean, egindako bilaketak eta saio-hasierak ezabatuko ditugu. { -brand-short-name }(r)en integratutako babesak aktibo daude hemen ere, adibidez jarraipen-elementuen blokeoa.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Leiho pribatuen oinarriak
+about-private-browsing-spotlight-basics-subtitle = Leiho pribatuek zure nabigazioa gailu hau darabilten beste erabiltzaileengandik pribatu mantentzen laguntzen dute. Leiho pribatuek ez zaituzte anonimo egiten ez eta ez dituzte zure datu guztiak garbitzen.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Jakin beharrekoa
