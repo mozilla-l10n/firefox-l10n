@@ -539,6 +539,12 @@ onboarding-refresh-gratitude-subtitle = Tak for at du bruger { -brand-short-name
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } passer på dig
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-tou-default = Åbn alle links med { -brand-short-name }
+onboarding-refresh-primary-button = Fortsæt
+onboarding-refresh-fro-skip-button = Spring over
+
 ## Smart Window ToU modal
 
 # Existing users

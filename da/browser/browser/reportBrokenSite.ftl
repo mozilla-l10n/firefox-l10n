@@ -8,6 +8,7 @@ report-broken-site-panel-header =
     .title = Rapporter problem med websted
 report-broken-site-panel-intro-text = Din rapport hjælper os med at forstå og løse problemer i { -brand-product-name } for at gøre programmet bedre for alle.
 report-broken-site-panel-learn-more-link = Læs mere
+report-broken-site-panel-reason-intro-text = Hvad virker ikke?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Webstedet indlæses ikke
 # These terms are referring to ecommerce websites

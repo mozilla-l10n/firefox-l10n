@@ -5,6 +5,9 @@
 
 ## Chrome
 
+main-context-menu-open-link-new-smart-window =
+    .label = Åbn link i nyt { -smart-window-brand-name }
+    .accesskey = S
 menu-history-chats =
     .label = Chats
 menu-history-chats-recent =

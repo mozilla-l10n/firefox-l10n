@@ -89,6 +89,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN er slået fra for dette websted
     .label = Brug VPN for dette websted
 site-exclusion-toggle-description = Virker siden ikke? Prøv at slå VPN fra.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Håndter VPN-regler
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Din regel
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN er slået fra for dette websted
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN er slået til for dette websted
 ipprotection-settings-link =
     .label = Indstillinger
 
@@ -221,6 +229,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } websteder
         }
     .label = Håndter indstillinger for websteder
+ip-protection-site-rules-header =
+    .heading = Håndter regler for websteder
 ip-protection-autostart =
     .label = Slå VPN til automatisk
 ip-protection-autostart-checkbox =

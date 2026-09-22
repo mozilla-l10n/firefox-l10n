@@ -20,3 +20,8 @@ colorpicker-tooltip-hue-slider-title = Farve
 colorpicker-tooltip-alpha-slider-title = Opacitet
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Element-specifikke pseudo-classes
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Automatisk
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Side om side

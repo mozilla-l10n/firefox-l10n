@@ -29,6 +29,7 @@ policy-BlockAboutSupport = Bloker adgang til about:support.
 policy-Bookmarks = Opret bogmærker i Bogmærkelinjen, i menuen Bogmærker eller en nærmere angivet mappe i dem.
 policy-CaptivePortal = Slå understøttelse af tvungen portal til eller fra.
 policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
+policy-ClearOnShutdown = Ryd browserdata, når { -brand-short-name } lukker.
 policy-ContentAnalysis = Aktiver eller deaktiver forbindelse til agent til forhindring af data-tab.
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
 # Containers in this context is referring to container tabs in Firefox.

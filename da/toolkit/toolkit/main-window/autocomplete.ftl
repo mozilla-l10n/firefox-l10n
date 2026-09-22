@@ -32,3 +32,18 @@ autocomplete-edit-address = Rediger denne adresse
 autocomplete-delete-address = Slet denne adresse
 autocomplete-edit-payment-method = Rediger denne betalingsmetode
 autocomplete-delete-payment-method = Slet denne betalingsmetode
+
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-remove-address-title = Fjern adresse?
+autocomplete-remove-payment-method-title = Fjern betalingsmetode?
+autocomplete-remove-record-message = Du kan ikke fortryde denne handling.
+autocomplete-remove-record-button = Fjern
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-message-win = For at slette din adgangskode skal du indtaste dine Windows-loginoplysninger. Dette hjælper med at beskytte sikkerheden på dine konti.
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

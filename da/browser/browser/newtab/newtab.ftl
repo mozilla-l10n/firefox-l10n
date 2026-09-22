@@ -92,6 +92,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Dagens billede
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Søgning
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Seneste søgninger
@@ -294,6 +298,11 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Se { $license }-licensen
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .aria-label = Indstillinger for dagens billede
+    .title = Indstillinger for dagens billede
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -321,8 +330,28 @@ newtab-picture-image-alt = Dagens billede fra Wikimedia Commons
 
 # Widget heading; also the widget's accessible name.
 newtab-recent-searches-widget-title = Seneste søgninger
+# Screen reader label for the widget's icon-only menu button.
+newtab-recent-searches-widget-menu-button =
+    .aria-label = Indstillinger for seneste søgninger
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Læs mere
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Seneste søgninger
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Populært
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = via { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Nu
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Fjern "{ $search }" fra seneste søgninger
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Søgning
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -620,6 +649,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Aktier
 newtab-custom-widget-picture-toggle =
     .label = Dagens billede
+newtab-custom-widget-search-toggle =
+    .label = Søgning
 newtab-custom-widget-recent-searches-toggle =
     .label = Seneste søgninger
 newtab-custom-widget-section-title = Widgets
