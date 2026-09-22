@@ -80,3 +80,7 @@ about-private-browsing-nova-info-link = Wie kan mijn activiteit nog zien?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Uw activiteit wordt niet vastgelegd
 about-private-browsing-nova-info-subheader2 = We wissen elke zoekopdracht en aanmelding wanneer u al uw privévensters sluit. De ingebouwde bescherming van { -brand-short-name } is hier ook aanwezig, net als het blokkeren van trackers.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = Meer info
