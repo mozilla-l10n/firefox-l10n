@@ -12,6 +12,17 @@ felt-sso-input-email =
     .label = Email di lavoro
 felt-sso-continue-btn =
     .label = Continua
+felt-sso-unlock-btn =
+    .label = Sblocca
+felt-sso-unlock-hint = Verifica con il tuo dispositivo per continuare.
+felt-sso-unlock-os-auth-dialog-caption = { -brand-full-name }
+# The macOS strings are preceded by the operating system with "Firefox is trying to ".
+# This message can be seen when attempting to unlock a FELT session when enabled by policy.
+felt-sso-unlock-os-auth-dialog-message =
+    { PLATFORM() ->
+        [macos] sbloccare una sessione esistente
+       *[other] { -brand-short-name } sta tentando di sbloccare una sessione esistente. Utilizza il tuo dispositivo per continuare.
+    }
 felt-pending-action-notification = Attendere l’avvio di { -brand-short-name }…
 felt-powered-by = Realizzato da { -vendor-short-name }
 # Example of resulting string: 151.0a1 (2026-04-01)

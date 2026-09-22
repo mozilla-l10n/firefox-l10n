@@ -7,6 +7,7 @@ policy-DataLossPrevention = Attiva e configura il motore integrato per la preven
 policy-DisableLocalPolicies = Disattiva tutte le fonti locali di criteri aziendali (policies.json, GPO in Windows e plist in macOS).
 policy-EnterpriseStorageEncryption = Attiva password primaria gestita dall’azienda per l’archiviazione crittata.
 policy-SecurityLogging = Attiva e configura la registrazione di sicurezza e telemetria per eventi rilevanti ai fini della sicurezza.
+policy-SignOut = Configura il comportamento di disconnessione per gli utenti aziendali.
 policy-Sync = Attiva o disattiva la sincronizzazione e definisci quali dati includere.
 policy-CrashReportsSubmit = Configura le impostazioni per l’invio delle segnalazioni di arresto anomalo.
 policy-Watermark = Mostra una filigrana diagonale a mosaico su un elenco di siti web.
