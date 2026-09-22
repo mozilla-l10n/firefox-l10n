@@ -543,6 +543,7 @@ onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor
 
 onboarding-refresh-hero-text = Sizi izlemek için değil, korumak için geliştirildi.
 onboarding-refresh-tou-default = Tüm bağlantıları { -brand-short-name } ile açın
+onboarding-refresh-tou-pin-unchecked = Tek büyük bağımsız tarayıcı hep yanınızda olsun
 onboarding-refresh-data-collection-link = Veri toplama ayarlarını yönet
 onboarding-refresh-primary-button = Devam et
 onboarding-refresh-fro-import-body = Kişisel verileriniz size özel kalır. { -brand-product-name } asla verilerinizi satmaz.

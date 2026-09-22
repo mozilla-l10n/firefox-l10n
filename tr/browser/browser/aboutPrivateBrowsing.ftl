@@ -75,8 +75,19 @@ about-private-browsing-felt-privacy-v1-info-link = Etkinliğimi kimler görebili
 
 about-private-browsing-nova-info-body = Tüm gizli pencerelerinizi kapattığınızda çerezleriniz, geçmişiniz ve site verileriniz silinir.
 about-private-browsing-nova-info-link = Yaptıklarımı kimler hâlâ görebilir?
+about-private-browsing-private-window-basics-link = Gizli pencere hakkında temel bilgiler
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Gezinti geçmişiniz kaydedilmiyor
 about-private-browsing-nova-info-subheader2 = Gizli pencereleri kapattığınızda tüm aramalarınız ve oturumlarınız silinecektir. { -brand-short-name } tarayıcısının yerleşik korumaları (örn. takip kodu engelleme) burada da açıktır.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Gizli pencere hakkında temel bilgiler
+about-private-browsing-spotlight-basics-subtitle = Gizli pencereler bu cihazı kullanan diğer kişilerin gezinti geçmişinizi görmesini önler ama sizi anonim hâle getirmez ve tüm verilerinizi silmez.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Bilmeniz gerekenler
+about-private-browsing-spotlight-basics-bookmarks-downloads = Yer imleri ve indirdiğiniz dosyalar cihazınızda kalır ve adres çubuğunda görünebilir.
+about-private-browsing-spotlight-basics-learn-more = Daha fazla bilgi al
