@@ -92,4 +92,14 @@ about-private-browsing-spotlight-basics-subtitle = Okna prywatne pomagają ukry�
 about-private-browsing-spotlight-basics-what-to-know = Co warto wiedzieć
 about-private-browsing-spotlight-basics-activity-seen = Część Twoich działań może być nadal widoczna dla witryn, wyszukiwarek, dostawcy Internetu lub pracodawcy.
 about-private-browsing-spotlight-basics-bookmarks-downloads = Dodane zakładki i pobrane pliki pozostają na urządzeniu i mogą pojawiać się na pasku adresu.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Dodatkowa ochrona prywatności
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } automatycznie ostrzega przed złośliwym oprogramowaniem i witrynami podejrzanymi o oszustwo.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } automatycznie informuje witryny respektujące ten sygnał, że mają nie sprzedawać ani nie udostępniać Twoich danych.
+about-private-browsing-spotlight-basics-vpn = Skorzystaj z wbudowanej sieci VPN, aby utrudnić śledzenie Twojego położenia.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Wzmocnij ochronę przed śledzeniem, przełączając ją na tryb ścisły w ustawieniach.
 about-private-browsing-spotlight-basics-learn-more = Więcej informacji
