@@ -31,6 +31,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = Το { $agent } ελέγχ
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = Το { $agent } ελέγχει αυτό που εκτυπώσατε σύμφωνα με τις πολιτικές δεδομένων του οργανισμού σας. Αυτή η διαδικασία ενδέχεται διαρκέσει λίγη ώρα.
 contentanalysis-operationtype-clipboard = πρόχειρο
+contentanalysis-operationtype-clipboard-copy = αντιγραμμένο κείμενο
 contentanalysis-operationtype-dropped-text = εναποθετημένο κείμενο
 contentanalysis-operationtype-print = εκτύπωση
 #   $filename - The filename associated with the request, such as "aFile.txt"
