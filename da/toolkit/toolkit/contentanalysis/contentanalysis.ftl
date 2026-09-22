@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } gennemgår, om det du har indsat overholder din organisations data-politikker. Dette kan tage lidt tid.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } gennemgår, om det du har kopieret overholder din organisations data-politikker. Dette kan tage lidt tid.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } undersøger, om
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } gennemgår din udskrift på baggrund af din organisations datapolitik. Dette kan tage et øjeblik.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Kopiering af dette indhold er begrænset af din organisation.
 contentanalysis-operationtype-clipboard = udklipsholder
+contentanalysis-operationtype-clipboard-copy = kopieret indhold
 contentanalysis-operationtype-dropped-text = sluppet tekst
 contentanalysis-operationtype-print = udskrift
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Kunne ikke verificere 
 contentanalysis-error-message-upload-file = Upload af "{ $filename }" nægtet.
 contentanalysis-error-message-dropped-text = Træk og slip nægtet.
 contentanalysis-error-message-clipboard = Indsæt nægtet.
+contentanalysis-error-message-clipboard-copy = Kopiering nægtet.
 contentanalysis-error-message-print = Udskrivning nægtet.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -87,6 +96,8 @@ contentanalysis-block-dialog-body-download-file =
     Kontakt din administrator for at få mere at vide.
 contentanalysis-block-dialog-title-clipboard = Du har ikke tilladelse til at indsætte dette indhold.
 contentanalysis-block-dialog-body-clipboard = Din organisations politik for databeskyttelse tillader ikke, at du indsætter dette indhold. Kontakt din administrator for at få mere at vide.
+contentanalysis-block-dialog-title-clipboard-copy = Du har ikke tilladelse til at kopiere dette indhold
+contentanalysis-block-dialog-body-clipboard-copy = Din organisations politik for databeskyttelse tillader ikke, at du kopierer dette indhold. Kontakt din administrator for at få mere at vide.
 contentanalysis-block-dialog-title-dropped-text = Du har ikke tilladelse til at slippe dette indhold
 contentanalysis-block-dialog-body-dropped-text = Din organisations politik for databeskyttelse tillader ikke, at du slipper dette indhold. Kontakt din administrator for at få mere at vide.
 contentanalysis-block-dialog-title-print = Du har ikke tilladelse til at udskrive dette dokument

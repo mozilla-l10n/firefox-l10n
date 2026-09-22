@@ -8,3 +8,11 @@ about-pdf-browse-files =
 about-pdf-file-picker-title = Åbn PDF-fil
 about-pdf-dismiss =
     .label = Afvis
+
+## The about:pdf#features page.
+
+about-pdf-features-back =
+    .label = Tilbage
+about-pdf-feature-signatures-heading = Gem signaturer
+about-pdf-feature-comments-heading = Tilføj noter
+about-pdf-feature-details-heading = Find detaljer hurtigere

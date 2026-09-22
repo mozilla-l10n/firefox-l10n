@@ -526,6 +526,7 @@ mlmodel-link-preview = { -brand-short-name } bruger denne model til at oprette h
 mlmodel-pdfjs = { -brand-short-name } bruger denne model til at oprette alternative tekster til billeder, du føjer til PDF-filer
 mlmodel-smart-tab-topic-engine = { -brand-short-name } bruger denne model til at foreslå navne til dine fanebladsgrupper
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } bruger denne model til at forslå faneblade til dine fanebladsgrupper
+mlmodel-formfill-engine = { -brand-short-name } bruger denne til at udfylde adresseformularer
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI på enheden
 addon-category-mlmodel-title =
@@ -553,6 +554,15 @@ mlmodel-addon-detail-model-card-link-label = Vis på Hugging Face
 
 find-more-addons-promo-open-amo-button = Udforsk udvidelser og temaer
 
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Find din næste favoritudvidelse
+    .message = Tilpas { -brand-product-name } med funktioner til fokus, privatliv, shopping og meget mere.
+find-more-extensions-promo-open-amo-button = Udforsk udvidelser
+
 ## Promo footer shown in the about:addons themes list view when
 ## Project Nova styles are enabled.
 ## "Find more fresh looks" refers to the user looking for more Firefox themes.
@@ -570,6 +580,9 @@ themes-mode-dark =
 # update based on the color scheme mode currently chosen by the operating system.
 themes-mode-device =
     .label = Enhed
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Udseende
 # Heading for the in-product themes picker section in about:addons
 aboutaddons-themes-picker-heading =
     .heading = { -brand-product-name }-temaer
