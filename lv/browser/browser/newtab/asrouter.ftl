@@ -91,7 +91,7 @@ cfr-doorhanger-milestone-heading2 =
         [one] { -brand-short-name } ir bloķējis vairāk nekā <b>{ $blockedCount }</b> izsekotājus kopš { DATETIME($date, month: "long", year: "numeric") }!
        *[other] { -brand-short-name } ir bloķējis vairāk nekā <b>{ $blockedCount }</b> izsekotāju kopš { DATETIME($date, month: "long", year: "numeric") }!
     }
-cfr-doorhanger-milestone-ok-button = Redzēt visu
+cfr-doorhanger-milestone-ok-button = Apskatīt visu
     .accesskey = s
 cfr-doorhanger-milestone-close-button = Aizvērt
     .accesskey = A

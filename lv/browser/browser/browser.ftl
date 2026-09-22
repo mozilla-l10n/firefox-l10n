@@ -1403,7 +1403,7 @@ trustpanel-clear-cookies-subview-button-cancel = Atcelt
 trustpanel-site-information-header =
     .title = Savienojuma aizsardzība { $host }
 trustpanel-siteinformation-morelink = Vairāk informācijas par vietni
-trustpanel-blocker-see-all = Redzēt visu
+trustpanel-blocker-see-all = Apskatīt visu
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
