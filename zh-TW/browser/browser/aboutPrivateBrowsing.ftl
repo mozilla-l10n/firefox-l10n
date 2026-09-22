@@ -76,7 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = 誰可能看到我的上網�
 about-private-browsing-nova-info-body = 關閉您的所有隱私視窗就會清除您的 Cookie、上網紀錄與網站資料。
 about-private-browsing-nova-info-link = 還有誰可能看到我的上網紀錄？
 about-private-browsing-private-window-basics-link = 隱私視窗基本知識
-about-private-browsing-private-window-redesign-subheader = { -brand-short-name } 內建追蹤保護功能，設計來在您上網時保護隱私權。關閉此視窗後，會清除其中的瀏覽紀錄、Cookie 與網站資料，避免其他使用此裝置的人得知您的瀏覽活動。
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } 內建追蹤保護功能，設計來在您上網時保護隱私權。關閉此視窗後，會清除其中的瀏覽紀錄、Cookie 與網站資料，避免其他使用此裝置的人得知您的上網活動。
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -86,10 +86,20 @@ about-private-browsing-nova-info-subheader2 = 關閉所有隱私視窗後，我�
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = 隱私視窗基本知識
+about-private-browsing-spotlight-basics-subtitle = 隱私視窗可避免其他使用此裝置的人看到您的上網內容，但無法讓您匿名，也無法清除您的所有資料。
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = 要知道的事情
+about-private-browsing-spotlight-basics-activity-seen = 網站、搜尋引擎、網路業者或您的雇主仍可能看到您的部分行為。
+about-private-browsing-spotlight-basics-bookmarks-downloads = 書籤與下載項目仍會保留在您的裝置上，且可能會顯示在網址列。
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = 更多隱私權保護機制
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } 會自動警告您，避開惡意軟體與詐騙網站。
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } 會自動要求支援此功能的網站不要出售或分享您的個人資料。
+about-private-browsing-spotlight-basics-vpn = 使用內建 VPN 功能，讓他人更難追蹤您的所在地點。
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = 到設定中切換為「嚴格」，可獲得更強大的追蹤保護。
 about-private-browsing-spotlight-basics-learn-more = 更多資訊
