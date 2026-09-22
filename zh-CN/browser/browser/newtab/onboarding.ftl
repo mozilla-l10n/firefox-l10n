@@ -522,6 +522,12 @@ onboarding-refresh-gratitude-subtitle = 感谢您使用 { -brand-short-name }，
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } 为您护航
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-tab-layout-header = 试试不同的标签页布局
+onboarding-refresh-tab-layout-top = 顶部
+onboarding-refresh-tab-layout-side = 侧边
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = 随时在智能窗口与经典窗口间切换。

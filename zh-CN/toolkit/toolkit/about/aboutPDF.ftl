@@ -13,6 +13,8 @@ about-pdf-dropzone-invalid-file = 不支持此文件，请选择 PDF 文件以�
 about-pdf-dropzone-error-generic = 上传未完成，请稍后再试。
 about-pdf-browse-files =
     .label = 浏览文件
+# Title of the system file picker opened by the “Browse files” button.
+about-pdf-file-picker-title = 打开 PDF
 about-pdf-promo =
     .heading = 将 { -brand-short-name } 设为默认 PDF 编辑器
     .message = 使用 { -brand-short-name } 打开 PDF 文件。从添加高亮和签署，到合并文件和批注，各种基础操作都可在一处完成。
@@ -20,3 +22,7 @@ about-pdf-set-default =
     .label = 设为默认
 about-pdf-dismiss =
     .label = 知道了
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name } PDF 工具
