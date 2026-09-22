@@ -30,4 +30,5 @@ fxa-menu-sync-description = Piekļūstiet savam tīmeklim no jebkuras vietas
 # this copy stands in for the email.
 fxa-menu-signed-out-title = Jāpiesakās, lai vienādotu
 fxa-menu-signed-out-description = Tu izrakstījies
+sync-setup-verify-continue = Turpināt
 sync-setup-verify-heading = Vai tiešām pieteikties, lai vienādotu?

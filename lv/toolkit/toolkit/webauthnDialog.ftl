@@ -70,3 +70,5 @@ webauthn-allow = Atļaut
     .accesskey = A
 webauthn-block = Liegt
     .accesskey = L
+webauthn-continue = Turpināt
+    .accesskey = T
