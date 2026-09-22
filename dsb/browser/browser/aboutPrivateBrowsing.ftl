@@ -90,7 +90,16 @@ about-private-browsing-spotlight-basics-subtitle = Priwatne wokna pomagaju, waš
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Co trjebaśo wěźeś
+about-private-browsing-spotlight-basics-activity-seen = Młoga aktiwita se snaź pśez sedła, pytnice, internetnych póbitowarjow abo wašu źěłodawarja wiźi.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Cytańske znamjenja a ześěgnjenje na wašom rěźe wóstawaju a mógu se w adresowem pólu zjawiś.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Dalšny šćit priwatnosći
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } was awtomatiski wó škódnej software a wobšudne sedła warnujo.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } awtomatiski wobźělujuce se sedła pšosy, až njeby waše wósobinske daty pśedawali abo źělili.
+about-private-browsing-spotlight-basics-vpn = Wužywajśo zatwarjony VPN, aby slěźenje swójogo stojnišća póśěžył.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Wužywajśo Striktny w nastajenjach za mócnjejšy pśeslědowański šćit.
 about-private-browsing-spotlight-basics-learn-more = Dalšne informacije
