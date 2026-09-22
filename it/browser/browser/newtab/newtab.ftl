@@ -502,6 +502,9 @@ newtab-recent-searches-just-now = adesso
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Rimuovi “{ $search }” dalle ricerche recenti
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Ricerca
 # Screen reader label for the widget's icon-only menu button.
@@ -568,6 +571,9 @@ newtab-topsites-image-url-label = Indirizzo immagine personalizzata
 newtab-topsites-use-custom-image-link = Utilizza un’immagine personalizzata
 newtab-topsites-use-image-link = Utilizza un’immagine personalizzata…
 newtab-topsites-image-validation = Errore durante il caricamento dell’immagine. Prova con un altro indirizzo.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Cancella testo
 
@@ -809,6 +815,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Privacy
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Cruciverba
 newtab-custom-widget-stocks-toggle =
     .label = Azioni
 newtab-custom-widget-picture-toggle =
@@ -999,6 +1008,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Una volpe sul margine destro, su uno sfondo arancione
 newtab-wallpaper-firefox-colorful-sky = Onde arancioni attraversano un cielo notturno viola
 newtab-wallpaper-firefox-desert-dark = Una volpe accovacciata in un deserto viola scuro
@@ -1427,6 +1439,9 @@ newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .aria-label = Chiudi
     .title = Chiudi
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
