@@ -86,3 +86,20 @@ about-private-browsing-nova-info-subheader2 = Nos cancellara cata recerca e acce
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Elementos re le fenestras private
+about-private-browsing-spotlight-basics-subtitle = Le fenestras private adjuta a mantener tu navigation private ab alteres sur iste apparato. Illos non te rende anonyme o vacua tote tu datos.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Que saper
+about-private-browsing-spotlight-basics-activity-seen = Alcun activitates pote ancora esser vidite per le sitos, motores de recerca, fornitores de internet, o tu empleator.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Marcapaginas e discargamentos sta sur tu apparato e pote apparer in le barra del adresses.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Major protection del confidentialitate
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } automaticamente te avisa re malware e sitos fraudulente.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } automaticamente demanda al sitos participante de non a vender o condivider tu datos personal.
+about-private-browsing-spotlight-basics-vpn = Usa le VPN integrate pro render tu position plus ardue a traciar.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = In le parametros passa a Rigorose, pro protectiones plus forte contra le traciamento.
+about-private-browsing-spotlight-basics-learn-more = Pro saper plus
