@@ -75,8 +75,21 @@ about-private-browsing-felt-privacy-v1-info-link = 誰可能看到我的上網�
 
 about-private-browsing-nova-info-body = 關閉您的所有隱私視窗就會清除您的 Cookie、上網紀錄與網站資料。
 about-private-browsing-nova-info-link = 還有誰可能看到我的上網紀錄？
+about-private-browsing-private-window-basics-link = 隱私視窗基本知識
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } 內建追蹤保護功能，設計來在您上網時保護隱私權。關閉此視窗後，會清除其中的瀏覽紀錄、Cookie 與網站資料，避免其他使用此裝置的人得知您的瀏覽活動。
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = 您的上網過程不會被記錄下來
 about-private-browsing-nova-info-subheader2 = 關閉所有隱私視窗後，我們就會清除所有搜尋紀錄與登入狀態。{ -brand-short-name } 內建的各種保護功能（如追蹤器封鎖等）於此處也依然有效。
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = 隱私視窗基本知識
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = 要知道的事情
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = 更多隱私權保護機制
+about-private-browsing-spotlight-basics-learn-more = 更多資訊
