@@ -80,3 +80,7 @@ about-private-browsing-nova-info-link = Kdo bi lahko kljub temu videl mojo dejav
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Zgodovina brskanja se ne bo shranila
 about-private-browsing-nova-info-subheader2 = Ko zaprete vsa zasebna okna, bomo izbrisali vsa iskanja in prijave. Vgrajene zaščite { -brand-short-name }a so aktivne tudi tukaj, na primer zavračanje sledilcev.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = Več o tem
