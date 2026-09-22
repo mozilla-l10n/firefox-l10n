@@ -31,6 +31,10 @@ genai-prompts-quiz =
 genai-prompts-explain =
     .label = Բացատրեք սա
     .value = Խնդրում եմ բացատրել այս ընտրանիի հիմնական հասկացությունները՝ օգտագործելով պարզ բառեր: Օգտագործեք նաև օրինակներ:
+# Prompt purpose: writing tool that helps users with spelling and grammar mistakes and produce a response that identifies errors and rewrites the inputted text correctly
+genai-prompts-proofread =
+    .label = Սրբագրել
+    .value = Խնդրում ենք ստուգել ընտրված հատվածը՝ ուղղագրական և քերականական սխալների համար: Հայտնաբերեք բոլոր սխալները և տրամադրեք տեքստի ուղղված տարբերակը: Պահպանեք իմաստը և փաստացի ճշգրտությունը և նախ ներկայացրեք առաջարկվող ուղղումների ցանկը, որին հաջորդում է տեքստի վերջնական, ուղղված տարբերակը:
 # This prompt is added to the beginning of selection prompts sent to a chatbot.
 # $tabTitle (string) - title of the webpage
 # $selection (string) - selected text
@@ -54,6 +58,17 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = Հարցրեք { $provider }-ին
     .tooltiptext = Հարցրեք { $provider }-ին
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Որոնեք { $engine }-ում՝ «{ $selection }»
+    .tooltiptext = Որոնեք { $engine }-ում՝ «{ $selection }»
+genai-shortcut-copy-button =
+    .aria-label = Պատճենել ընտրված տեքստը
+    .tooltiptext = Պատճենել ընտրված տեքստը
+genai-shortcut-more-actions-button =
+    .aria-label = Լրացուցիչ ընտրանքներ
+    .tooltiptext = Լրացուցիչ ընտրանքներ
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Հարցրեք { $provider }-ին

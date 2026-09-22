@@ -29,6 +29,7 @@ ipprotection-feature-introduction-title-1 = Փորձեք { -brand-product-name }
 ipprotection-feature-introduction-title-privacy = Ավելացրեք գաղտնիության ևս մեկ շերտ
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
+ipprotection-feature-introduction-title-summer-promo = Ունե՞ք ճանապարհորդության ծրագրեր։ Վերցրեք ձեզ հետ գաղտնիությունը։
 ipprotection-feature-introduction-description-summer-promo = Ավելի հեռու գնացեք { -brand-product-name }-ի ներկառուցված VPN-ի միջոցով. ավելի շատ վայրեր, անսահմանափակ թողունակություն։ Այժմ մինչև օգոստոսի 31-ը։
 ipprotection-feature-introduction-link-text-private-browsing-2 = Օգտագործեք մեր նոր <a data-l10n-name="learn-more-vpn">ներկառուցված VPN-ը</a>՝ ձեր գտնվելու վայրը թաքցնելու և տվյալները պաշտպանելու համար, նույնիսկ երբ գտնվում եք «Մասնավոր պատուհանում»։
 ipprotection-feature-introduction-description-private-browsing = Զննեք լրացուցիչ պաշտպանությամբ՝ թաքցնելով ձեր գտնվելու վայրը, նույնիսկ երբ գտնվում եք «Մասնավոր պատուհանում»։
@@ -326,6 +327,7 @@ ip-protection-bandwidth-header-1 = Ամսական տվյալների սահմա�
 # Variables
 #  $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ipprotection-bandwidth-reset-title = { $maxUsage } ԳԲ VPN, թարմացված և պատրաստ օգտագործման համար
+ipprotection-bandwidth-reset-text = Միացրեք VPN-ը՝ գաղտնիության լրացուցիչ բարձրացման համար, ամեն ամիս անվճար։
 ipprotection-bandwidth-reset-button = Հասկացա
 
 ## IP Protection alerts
