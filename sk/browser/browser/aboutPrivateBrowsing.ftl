@@ -76,6 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = Kto však môže vidieť moju
 about-private-browsing-nova-info-body = Zatvorením všetkých súkromných okien sa vymažú súbory cookie, história a údaje stránok.
 about-private-browsing-nova-info-link = Kto by mohol stále vidieť moju aktivitu?
 about-private-browsing-private-window-basics-link = Základné informácie o súkromnom okne
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } je navrhnutý tak, aby chránil vaše súkromie počas prehliadania pomocou vstavaných ochranných prvkov pred sledovaním. Zatvorením tohto okna sa vymaže jeho história, súbory cookie a údaje stránok, aby sa vaše prehliadanie zachovalo v súkromí pred ostatnými používateľmi tohto zariadenia.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -84,4 +85,21 @@ about-private-browsing-nova-info-subheader2 = Po zatvorení všetkých súkromn�
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Základné informácie o súkromnom okne
+about-private-browsing-spotlight-basics-subtitle = Súkromné okná pomáhajú skryť vašu aktivitu pri prehliadaní pred ostatnými používateľmi tohto zariadenia. Nezaručujú však anonymitu ani nevymažú všetky vaše údaje.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Čo by ste mali vedieť
+about-private-browsing-spotlight-basics-activity-seen = Niektoré vaše aktivity môžu naďalej vidieť webové stránky, vyhľadávače, poskytovatelia internetu alebo váš zamestnávateľ.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Záložky a stiahnuté súbory zostanú vo vašom zariadení a môžu sa zobrazovať v paneli s adresou.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Ďalšie funkcie na ochranu súkromia
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vás automaticky upozorní na malvér a podvodné stránky.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } automaticky žiada zapojené stránky, aby vaše osobné údaje nepredávali ani nezdieľali.
+about-private-browsing-spotlight-basics-vpn = Vstavaná sieť VPN sťaží sledovanie vašej polohy.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Ak chcete účinnejšiu ochranu pred sledovaním, vyberte v nastaveniach možnosť Prísna.
 about-private-browsing-spotlight-basics-learn-more = Ďalšie informácie

@@ -76,6 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = Štó móhł moju aktiwitu wi
 about-private-browsing-nova-info-body = Hdyž swoje priwatne wokna začinjeće, so waše placki, historija a sydłowe daty zhašeja.
 about-private-browsing-nova-info-link = Štó móhł hišće moju aktiwitu widźeć?
 about-private-browsing-private-window-basics-link = Zakłady priwatneho wokna
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } je za to mysleny, wašu priwatnosć škitać, hdyž přehladujeće, ze zatwarjenym přesćěhowanskim škitom. Hdyž tute wokno začinjeće, so jeho historija, placki a sydłowe daty zhašeja, zo by so waše přehladowanje před druhimi škita, kotřiž tutón grat wužiwaja.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
