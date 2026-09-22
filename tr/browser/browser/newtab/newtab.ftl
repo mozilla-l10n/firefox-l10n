@@ -165,6 +165,12 @@ home-prefs-mission-message-learn-more-link-srd = Nasıl mı?
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Daha fazla bilgi al
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Gizlilik seçenekleri
+    .title = Gizlilik seçenekleri
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -1009,6 +1015,8 @@ newtab-wallpaper-firefox-side-kit-dark = Koyu bir arka planın sol tarafında bi
 newtab-wallpaper-firefox-side-kit-light = Açık renkli bir arka planın sol tarafında bir tilki
 newtab-wallpaper-firefox-sitting-hill-dark = Koyu mor tepelerde oturan bir tilki
 newtab-wallpaper-firefox-sitting-hill-light = Açık renkli tepelerde oturan bir tilki
+newtab-wallpaper-firefox-peak-dark = Koyu bir arka planın sol kenarında bir tilki yüzü
+newtab-wallpaper-firefox-peak-light = Açık renkli bir arka planın sol kenarında bir tilki yüzü
 newtab-wallpaper-firefox-sky-dark = Gece gökyüzünün altında koyu mor tepeler
 newtab-wallpaper-firefox-sky-light = Yumuşak bir gökyüzünün altında aydınlık tepeler
 
@@ -1815,6 +1823,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Eşleşen saat dilimi bulunamadı
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Geri
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Saat seçenekleri
+    .title = Saat seçenekleri
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

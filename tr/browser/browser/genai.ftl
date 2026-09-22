@@ -63,6 +63,11 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-2 =
     .aria-label = { $provider } sohbet botuna sor
     .tooltiptext = { $provider } sohbet botuna sor
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = “{ $selection }” terimini { $engine } ile ara
+    .tooltiptext = “{ $selection }” terimini { $engine } ile ara
 genai-shortcut-copy-button =
     .aria-label = Seçilen metni kopyala
     .tooltiptext = Seçilen metni kopyala
