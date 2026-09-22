@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = ვისთვის შე�
 
 about-private-browsing-nova-info-body = ყველა პირადი ფანჯრის დახურვის შემთხვევაში თქვენი ფუნთუშები, ისტორია და საიტის მონაცემები წაიშლება.
 about-private-browsing-nova-info-link = მაინც ვისთვის შეიძლება იყოს ხილული ჩემი საქმიანობა?
+about-private-browsing-private-window-basics-link = პირადი ფანჯრის საფუძვლები
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"

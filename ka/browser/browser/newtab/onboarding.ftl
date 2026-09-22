@@ -534,7 +534,7 @@ onboarding-refresh-onboarding-addons-subtitle = გაფართოებე�
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = გაიუმჯობესეთ გვერდების მონახულება
 onboarding-refresh-sync-subtitle = წაიყოლეთ სანიშნები, პაროლები და ა. შ. ყველგან, სადაც გიყენიათ { -brand-short-name }. ამასთან ერთად, თქვენი მონაცემები იშიფრება და მხოლოდ თქვენთვისაა ხილული.
-onboarding-refresh-sync-title = წადით, სადაც გინდათ. დაასინქრონეთ, რაც გინდათ.
+onboarding-refresh-sync-title = გაეშურეთ, სადაც გინდათ. დაასინქრონეთ, რაც გინდათ.
 onboarding-refresh-gratitude-subtitle = გმადლობთ, რომ აირჩიეთ { -brand-short-name }, მოწინავეთაგან ერთადერთი არამომგებიანი ბრაუზერი. თქვენი მხარდაჭერით ვცდილობთ ინტერნეტი გავხადოთ მეტად უსაფრთხო და საყოველთაოდ ხელმისაწვდომი.
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } თქვენს გვერდშია
