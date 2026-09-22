@@ -99,3 +99,7 @@ about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } w
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
 about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } fordert teilnehmende Websites automatisch dazu auf, Ihre persönlichen Daten nicht zu verkaufen oder weiterzugeben.
 about-private-browsing-spotlight-basics-vpn = Verwenden Sie das integrierte VPN, um die Verfolgung Ihres Standorts zu erschweren.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Wechseln Sie in den Einstellungen zu "Streng", um einen stärkeren Schutz vor Aktivitätenverfolgung zu erhalten.
+about-private-browsing-spotlight-basics-learn-more = Weitere Informationen

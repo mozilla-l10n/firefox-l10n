@@ -524,6 +524,11 @@ onboarding-refresh-gratitude-title = { -brand-short-name } 为您护航
 
 ## First Run Onboarding refresh strings
 
+onboarding-refresh-data-collection-link = 管理数据收集设置
+onboarding-refresh-primary-button = 继续
+onboarding-refresh-fro-import-header = 导入您的数据
+onboarding-refresh-fro-import-body = 您的个人数据始终属于您。{ -brand-product-name } 绝不会将其出售。
+onboarding-refresh-fro-skip-button = 跳过
 onboarding-refresh-tab-layout-header = 试试不同的标签页布局
 onboarding-refresh-tab-layout-top = 顶部
 onboarding-refresh-tab-layout-side = 侧边
