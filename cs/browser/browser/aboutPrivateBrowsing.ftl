@@ -75,6 +75,8 @@ about-private-browsing-felt-privacy-v1-info-link = Kdo může vidět mou aktivit
 
 about-private-browsing-nova-info-body = Zavřením všech anonymních oken smažete cookies, historii a data stránek.
 about-private-browsing-nova-info-link = Kdo stále může vidět mou aktivitu?
+about-private-browsing-private-window-basics-link = Základní informace o anonymním okně
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } při prohlížení chrání vaše soukromí pomocí integrované ochrany proti sledování. Zavřením tohoto okna vymažete jeho historii, cookies a data stránek, takže ostatní uživatelé tohoto zařízení neuvidí, co jste si prohlíželi.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -84,3 +86,13 @@ about-private-browsing-nova-info-subheader2 =
         [with-cases] Když zavřete všechna anonymní okna, vymažeme všechna vyhledávání a přihlášení. Vestavěné ochrany { -brand-short-name(case: "gen") }, jako třeba sledovací prvky, jsou zapnuté.
        *[no-cases] Když zavřete všechna anonymní okna, vymažeme všechna vyhledávání a přihlášení. Vestavěné ochrany aplikace { -brand-short-name }, jako třeba sledovací prvky, jsou zapnuté.
     }
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Základní informace o anonymním okně
+about-private-browsing-spotlight-basics-subtitle = Anonymní okna pomáhají skrýt vaše prohlížení před ostatními uživateli tohoto zařízení. Nezajistí vám však anonymitu ani nevymažou všechna vaše data.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Co byste měli vědět
+about-private-browsing-spotlight-basics-activity-seen = Některá aktivita může být stále zaznamenávána stránkami, vyhledávači, poskytovateli internetu nebo vaším zaměstnavatelem.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Záložky a stažené soubory zůstanou ve vašem zařízení a mohou se zobrazit v adresním řádku.
