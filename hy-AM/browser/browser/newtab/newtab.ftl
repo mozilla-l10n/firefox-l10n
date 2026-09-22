@@ -196,6 +196,15 @@ newtab-privacy-across-sites =
 
 # Shown when no trackers have been blocked yet today.
 newtab-privacy-empty = { -brand-short-name }-ը արգելափակում է հետևորդներին, երբ դուք զննում եք կայքը։ Դուք կտեսնեք դրանք այստեղ։
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Տեսեք ընթացիկ հաշվարկը այստեղ։
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Ավելի արագ զննարկում։ Ավելի քիչ հետևորդներ։
 
 ## Privacy widget — informational messages
 ##
@@ -251,6 +260,7 @@ newtab-privacy-message-promo-private-window-1-cta = Բացել գաղտնի պա
 newtab-privacy-message-promo-relay-1 = Պահպանեք ձեր իրական էլ. փոստի հասցեն այն մարդկանց համար, ում վստահում եք. օգտագործեք էլ. փոստի դիմակ գրանցումների համար։
 newtab-privacy-message-promo-relay-1-cta = Գնեք դիմակներ
 newtab-privacy-message-promo-relay-2-cta = Ստանալ դիմակներ
+newtab-privacy-message-promo-relay-3 = Ստացեք 50 անվճար էլփոստի դիմակներ՝ ձեր իրական էլփոստը գաղտնի պահելու համար։
 newtab-privacy-message-promo-relay-3-cta = Ստանալ դիմակներ
 
 ## Privacy widget — celebration messages
@@ -260,8 +270,16 @@ newtab-privacy-message-promo-relay-3-cta = Ստանալ դիմակներ
 
 newtab-privacy-message-milestone-week-cta = Դիտել պաշտպանությունները
 newtab-privacy-message-milestone-month-cta = Դիտել պաշտպանությունները
+newtab-privacy-message-milestone-year-cta = Դիտել պաշտպանությունները
 newtab-privacy-message-milestone-total-cta = Դիտել պաշտպանությունները
 newtab-privacy-message-daily-cap-cta = Դիտել պաշտպանությունները
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Դուք պաշտպանված եք եղել { $count } օր անընդմեջ։
+       *[other] Դուք պաշտպանված եք եղել { $count } օր անընդմեջ։
+    }
 newtab-privacy-message-streak-cta = Տվյալների պաշտպանություն
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Շարունակեք զննել, { -brand-short-name }-ը կշարունակի արգելափակել։
@@ -334,6 +352,11 @@ newtab-picture-attribution-source-link = Վիքիմեդիա համայնք
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Դիտել { $license } լիցենզիան
+# Tooltip and screen-reader label for the icon-only button that opens the
+# widget's context menu. The button never renders visible text.
+newtab-picture-widget-menu-button =
+    .aria-label = Օրվա նկարի տարբերակներ
+    .title = Օրվա նկարի տարբերակներ
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -383,6 +406,11 @@ newtab-recent-searches-just-now = Հենց հիմա
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Հեռացնել «{ $search }»-ը վերջին որոնումներից
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Որոնում
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Որոնման տարբերակներ
 
 ## Recent searches widget — empty states
 
@@ -432,6 +460,7 @@ newtab-topsites-add-shortcut-label = Ավելացնել դյուրանցում
 newtab-topsites-add-shortcut-title =
     .aria-label = Ավելացնել դյուրանցում
     .title = Ավելացնել դյուրանցում
+newtab-shortcuts-pinned-area = Նշված տարածք
 newtab-topsites-title-label = Անվանում
 newtab-topsites-title-input =
     .placeholder = Մուտքագրեք անվանում
@@ -474,6 +503,9 @@ topsite-label-pinned =
 
 ## Top Sites - Web notifications hover card
 
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Ծանուցումներ { $site }-ից
 # Relative time shown for a notification posted less than a minute ago.
 newtab-topsites-hover-card-just-now = Հենց հիմա
 newtab-topsites-hover-card-mark-all-read =
@@ -606,6 +638,12 @@ newtab-discovery-empty-section-topstories-timed-out = Վայ մենք գրեթե
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } -ը { $total }-ից
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Նախորդը
@@ -711,6 +749,9 @@ newtab-wallpaper-add-an-image = Հավելել պատկեր
 newtab-wallpaper-custom-color = Ընտրել գույն
 newtab-wallpaper-toggle-title =
     .label = Պաստառներ
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Պաստառների կատեգորիաներ
 newtab-wallpaper-error-upload-file-type = Մենք չկարողացանք վերբեռնել ձեր ֆայլը։ Խնդրում ենք կրկին փորձել պատկերի ֆայլով։
 newtab-wallpaper-light-red-panda = Կարմիր պանդա
 newtab-wallpaper-light-mountain = Սպիտակ լեռ
@@ -726,6 +767,48 @@ newtab-wallpaper-dark-mountain = Լանդշաֆտային լեռ
 newtab-wallpaper-dark-city = Մանուշակագույն քաղաքի լանդշաֆտ
 newtab-wallpaper-dark-fox-anniversary = Աղվեսը մայթին անտառի մոտ
 newtab-wallpaper-light-fox-anniversary = Աղվեսը խոտածածկ դաշտում՝ մառախլապատ լեռնային լանդշաֆտով
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Ձեր պատկերները
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Ձեր պահպանած պատկերները, պաստառները
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Պատկեր { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Հեռացնել { $name }-ը
+    .title = Հեռացնել պատկերը
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Հեռացնել պատկերը { $number }
+    .title = Հեռացնել պատկերը { $number }
+newtab-wallpaper-remove-image-title = Հեռացնե՞լ պատկերը։
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Այս գործողությունը չի կարող ետարկվել:
+newtab-wallpaper-remove-image-confirm = Հեռացնել
+newtab-wallpaper-remove-image-cancel = Չեղարկել
 
 ## Solid Colors
 
@@ -1232,13 +1315,16 @@ newtab-widget-timer-celebration-message-break = Պատրա՞ստ եք կենտր
 
 ##
 
+newtab-sports-widget-menu-follow-teams = Հետևեք թիմերին
 newtab-sports-widget-menu-view-schedule = Դիտել ժամանակացույցը
+newtab-sports-widget-menu-view-upcoming = Դիտել առաջիկա
 newtab-sports-widget-menu-view-results = Դիտել արդյունքները
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-menu-key-dates = Հիմնական ամսաթվերը
 newtab-sports-widget-menu-learn-more = Իմանալ ավելին
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = Հետևեք Աշխարհի գավաթին
+newtab-sports-widget-get-updates = Ստացեք խաղերի թարմացումներ և այլն։
 newtab-sports-widget-follow-teams =
     .label = Հետևեք թիմերին
 newtab-sports-widget-view-matches =
@@ -1344,10 +1430,15 @@ newtab-sports-widget-third-place = Երրորդ տեղը
 newtab-sports-widget-runner-up = Երկրորդ տեղը գրավածները
 newtab-sports-widget-champions = Չեմպիոններ
 newtab-sports-widget-world-cup-champions = 2026 թվականի աշխարհի առաջնության չեմպիոններ
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = 2026 թվականի չեմպիոններ
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = Հիմնական ժամանակը
+newtab-sports-widget-match-halftime = Խաղակես
+newtab-sports-widget-match-extra-time = Լրացուցիչ ժամանակ
 newtab-sports-widget-match-penalties = 11 մետրանոցներ
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
