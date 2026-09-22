@@ -85,6 +85,7 @@ about-private-browsing-nova-info-subheader2 = Zhašamy kóžde pytanje a přizje
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Zakłady priwatneho wokna
+about-private-browsing-spotlight-basics-subtitle = Priwatne wokna pomhaja, waše přehladowanje před druhimi na tutym graće škitać. Nječinja waš anonymne a njeprózdnja waše daty.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Što trjebaće wědźeć
