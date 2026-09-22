@@ -37,10 +37,16 @@ certificate-viewer-inc-locality = Staður lögþings
 certificate-viewer-locality = Bær/Sveitarfélag
 certificate-viewer-location = Staðsetning
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = Heiti atvikaskrár
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = Log-auðkenni
 certificate-viewer-method = Aðferð
 certificate-viewer-modulus = Stuðull
 certificate-viewer-name = Nafn
+certificate-viewer-surname = Eftirnafn
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = Skilgreint nafn
 certificate-viewer-not-after = Ekki eftir
 certificate-viewer-not-before = Ekki fyrir
 certificate-viewer-organization = Fyrirtæki/Stofnun

@@ -75,8 +75,24 @@ about-private-browsing-felt-privacy-v1-info-link = Hver gæti séð virknina mí
 
 about-private-browsing-nova-info-body = Ef þú lokar öllum einkagluggum þínum, þá eyðir þú vefkökum, ferli og gögnum vefsvæða.
 about-private-browsing-nova-info-link = Hver gæti samt séð virknina mína?
+about-private-browsing-private-window-basics-link = Grunnatriði huliðsglugga
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } er hannað til að vernda friðhelgi þína á meðan þú vafrar, með innbyggðri rakningarvörn. Ef þessum glugga er lokað verður ferli hans, vefkökum og vefgögnum eytt til að halda vafrinu þínu leyndu fyrir öðrum sem nota þetta tæki.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Þú ert ekki á skrá
 about-private-browsing-nova-info-subheader2 = Við munum eyða öllum leitum og innskráningum þegar þú lokar öllum einkagluggum þínum. Innbyggðar varnir { -brand-short-name } eru einnig virkjaðar hér, eins og að loka fyrir rakningarforrit.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Grunnatriði huliðsglugga
+about-private-browsing-spotlight-basics-subtitle = Huliðsgluggar hjálpa til við að halda vafranum þínum leyndum fyrir öðrum á þessu tæki. Þeir gera þig ekki nafnlausan eða hreinsa öll gögnin þín.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Það sem þarf að vita
+about-private-browsing-spotlight-basics-activity-seen = Vefsvæði, leitarvélar, internetþjónustuaðilar eða vinnuveitandi þinn gætu samt sem áður séð einhverja virkni.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Bókamerki og niðurhal verða áfram á tækinu þínu og geta birst í veffangastikunni.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Meiri persónuvernd
+about-private-browsing-spotlight-basics-learn-more = Frekari upplýsingar

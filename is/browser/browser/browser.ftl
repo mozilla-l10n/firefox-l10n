@@ -1034,6 +1034,14 @@ qrcode-copy-success =
     .message = QR-kóði afritaður á klippispjald.
 qrcode-copy-error =
     .message = Mistókst að afrita QR-kóða
+qrcode-save-button =
+    .label = Vista
+qrcode-window-title = QR-kóði
+qrcode-dialog-title = QR-kóði
+qrcode-image =
+    .aria-label = QR-kóði
+qrcode-close-button =
+    .aria-label = Loka
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1047,11 +1055,28 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Samstilltir flipar
     .tooltiptext = Sýna flipa frá öðrum tækjum
+toolbar-button-send-tab =
+    .label = Senda flipa
+    .tooltiptext = Senda núverandi flipa á annað tæki
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Nýr huliðsgluggi
     .tooltiptext = Opna nýjan glugga í huliðsstillingu ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Deila
+    .tooltiptext = Deila þessari síðu
+toolbar-button-tab-groups =
+    .label = Flipahópar
+    .tooltiptext = Sýna flipahópana þína
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qr-kóði
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrkóði-{ $domain }
 
 ## EME notification panel
 
@@ -1073,6 +1098,17 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = Meira…
+menu-share-windows =
+    .label = Fleiri valkostir
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] Afrita tengil
+           *[other] Afrita { $count } tengla
+        }
+    .accesskey = l
 ui-tour-info-panel-close =
     .tooltiptext = Loka
 
@@ -1159,6 +1195,11 @@ private-browsing-indicator-label = Huliðsvafur
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Huliðsvafur
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Upplýsingar um huliðsvafur
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Þú ert í huliðsglugga
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

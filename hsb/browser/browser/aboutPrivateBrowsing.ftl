@@ -95,5 +95,10 @@ about-private-browsing-spotlight-basics-bookmarks-downloads = Zapołožki a sće
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Dalši škit priwatnosće
 about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } was awtomatisce wo škódnej software a wobšudne sydła warnuje.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } awtomatisce wobdźělace so sydła prosy, zo njebychu waše wosobinske daty njepředawali abo dźělili.
 about-private-browsing-spotlight-basics-vpn = Wužiwajće zatwarjeny VPN, zo byšće slědźenje swojeho stejnišća poćežił.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Wužiwajće Striktny w nastajenjach za mócniši přesćěhowanski škit.
 about-private-browsing-spotlight-basics-learn-more = Dalše informacije

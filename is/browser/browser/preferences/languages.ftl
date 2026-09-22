@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Uppsett tungumál
 browser-languages-available-label = Tungumál í boði
 browser-languages-error = { -brand-short-name } getur ekki keyrt uppfærslu á þínu tungumáli þessa stundina. Athugið nettengingu eða reynið aftur.
+browser-languages-update-error =
+    .message = { -brand-short-name } getur ekki uppfært tungumálin þín núna. Gakktu úr skugga um að þú sért með tengingu við internetið eða reyndu aftur.
