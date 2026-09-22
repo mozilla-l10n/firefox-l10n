@@ -96,3 +96,14 @@ about-private-browsing-spotlight-basics-subtitle = Anonymní okna pomáhají skr
 about-private-browsing-spotlight-basics-what-to-know = Co byste měli vědět
 about-private-browsing-spotlight-basics-activity-seen = Některá aktivita může být stále zaznamenávána stránkami, vyhledávači, poskytovateli internetu nebo vaším zaměstnavatelem.
 about-private-browsing-spotlight-basics-bookmarks-downloads = Záložky a stažené soubory zůstanou ve vašem zařízení a mohou se zobrazit v adresním řádku.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Lepší ochrana soukromí
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vás automaticky upozorní na malware a podvodné stránky.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } automaticky žádá zapojené webové stránky, aby vaše osobní údaje neprodávaly ani nesdílely.
+about-private-browsing-spotlight-basics-vpn = Pomocí integrované VPN ztížíte sledování své polohy.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Pro účinnější ochranu před sledováním zvolte v nastavení možnost Přísná.
+about-private-browsing-spotlight-basics-learn-more = Zjistit více
