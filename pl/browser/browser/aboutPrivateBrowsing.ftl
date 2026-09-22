@@ -80,3 +80,7 @@ about-private-browsing-nova-info-link = Kto nadal może widzieć co robię?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Historia przeglądania zostanie usunięta
 about-private-browsing-nova-info-subheader2 = Gdy zamkniesz wszystkie okna prywatne, usuniemy wszystkie wyszukiwania i logowania. Wbudowana ochrona { -brand-short-name(case: "gen") }, taka jak blokowanie elementów śledzących, też tu działa.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = Więcej informacji
