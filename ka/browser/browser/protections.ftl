@@ -25,9 +25,9 @@ graph-week-summary-private-window = მეთვალყურეები, რ
 protection-report-webpage-title = დაცვის მაჩვენებლები
 protection-report-page-content-title = დაცვის მაჩვენებლები
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
-protection-report-page-summary = { -brand-short-name } შეუმჩნევლად იცავს თქვენს უსაფრთხოებას გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეები ხელში იქონიოთ.
+protection-report-page-summary = { -brand-short-name } შეუმჩნევლად იცავს თქვენს უსაფრთხოებას გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეები ხელში აიღოთ.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = { -brand-short-name } შეუმჩნევლად იცავს თქვენს უსაფრთხოებას გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეები ხელში იქონიოთ.
+protection-report-page-summary-default = { -brand-short-name } შეუმჩნევლად იცავს თქვენს უსაფრთხოებას გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეები ხელში აიღოთ.
 protection-report-settings-link = პირადულობისა და უსაფრთხოების პარამეტრები
 etp-card-title-always = თვალთვალისგან გაძლიერებული დაცვა: მუდმივად ჩართულია
 etp-card-title-custom-not-blocking = თვალთვალისგან გაძლიერებული დაცვა: გამორთულია
@@ -169,40 +169,40 @@ monitor-resolve-breaches-link = მიტაცებული მონაც�
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = სოციალური ქსელის მეთვალყურეები
     .aria-label =
         { $count ->
             [one] სოციალური ქსელის { $count } მეთვალყურე ({ $percentage }%)
            *[other] სოციალური ქსელის { $count } მეთვალყურე ({ $percentage }%)
         }
+    .title = სოციალური ქსელის მეთვალყურეები
 bar-tooltip-cookie =
-    .title = საიტთაშორისი მეთვალყურე ფუნთუშები
     .aria-label =
         { $count ->
             [one] { $count } საიტთაშორისი მეთვალყურე ფუნთუშა ({ $percentage }%)
            *[other] { $count } საიტთაშორისი მეთვალყურე ფუნთუშა ({ $percentage }%)
         }
+    .title = საიტთაშორისი მეთვალყურე ფუნთუშები
 bar-tooltip-tracker =
-    .title = თვალის მდევნელი შიგთავსი
     .aria-label =
         { $count ->
             [one] { $count } თვალის მდევნელი შიგთავსი ({ $percentage }%)
            *[other] { $count } თვალის მდევნელი შიგთავსი ({ $percentage }%)
         }
+    .title = თვალის მდევნელი შიგთავსი
 bar-tooltip-fingerprinter =
-    .title = მომხმარებლის ამომცნობები
     .aria-label =
         { $count ->
             [one] მომხმარებლის { $count } ამომცნობი ({ $percentage }%)
            *[other] მომხმარებლის { $count } ამომცნობი ({ $percentage }%)
         }
+    .title = მომხმარებლის ამომცნობები
 bar-tooltip-cryptominer =
-    .title = კრიპტოვალუტის გამომმუშავებლები
     .aria-label =
         { $count ->
             [one] კრიპტოვალუტის { $count } გამომმუშავებელი ({ $percentage }%)
            *[other] კრიპტოვალუტის { $count } გამომმუშავებელი ({ $percentage }%)
         }
+    .title = კრიპტოვალუტის გამომმუშავებლები
 # Privacy Metrics Card
 privacy-metrics-title = პირადულობის დაცვა
 # Variables:
