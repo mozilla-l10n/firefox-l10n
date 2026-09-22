@@ -85,4 +85,11 @@ about-private-browsing-nova-info-subheader2 = Gdy zamkniesz wszystkie okna prywa
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Informacje o oknie prywatnym
+about-private-browsing-spotlight-basics-subtitle = Okna prywatne pomagają ukryć Twoje działania w Internecie przed innymi użytkownikami tego urządzenia. Nie zapewniają jednak anonimowości ani nie usuwają wszystkich Twoich danych.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Co warto wiedzieć
+about-private-browsing-spotlight-basics-activity-seen = Część Twoich działań może być nadal widoczna dla witryn, wyszukiwarek, dostawcy Internetu lub pracodawcy.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Dodane zakładki i pobrane pliki pozostają na urządzeniu i mogą pojawiać się na pasku adresu.
 about-private-browsing-spotlight-basics-learn-more = Więcej informacji
