@@ -21,7 +21,7 @@ browser-main-private-window-title =
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Privātā pārlūkošana
 popups-infobar-dont-show-message2 =
-    .label = Nerādīt šo ziņojumu, ja ir bloķēti uznirstošie logi vai trešo pušu pāradresācijas
+    .label = Nerādīt šo ziņojumu, ja ir liegti uznirstošie logi vai trešo pušu pārvirzīšanas
     .accesskey = N
 edit-popup-settings2 =
     .label = Pārvaldīt uznirstošo logu un trešo pušu pāradresācijas iestatījumus…

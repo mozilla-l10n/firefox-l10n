@@ -41,7 +41,7 @@ protections-header = Aizsardzība vietnei { $host }
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
 protections-blocking-fingerprinters =
-    .title = Bloķētie ciparnospiedumi
+    .title = Aizturētie ciparnospiedumi
 protections-blocking-cryptominers =
     .title = Bloķētie kriptominētāji
 protections-blocking-cookies-trackers =
