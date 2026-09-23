@@ -99,6 +99,20 @@ enterprise-close-prompt-message-reauth = Pour utiliser à nouveau { -brand-short
 enterprise-close-prompt-checkbox-label = M’avertir si la fermeture de { -brand-short-name } entraîne ma déconnexion
 enterprise-close-prompt-tabs-checkbox-label = M’avertir avant de fermer plusieurs onglets
 enterprise-close-prompt-primary-btn-label = Fermer et se déconnecter
+# Shown instead of the sign-out variants when the session is locked (persisted)
+# on close rather than signed out.
+enterprise-close-prompt-message-lock = Votre session sera verrouillée.
+# Variables:
+#   $tabCount (Number): The number of tabs to be closed.
+enterprise-close-prompt-message-with-tabcount-and-lock-warning =
+    { $tabCount ->
+        [one] Votre session sera verrouillée et { $tabCount } onglet sera fermé.
+       *[other] Votre session sera verrouillée et { $tabCount } onglets seront fermés.
+    }
+enterprise-close-prompt-message-with-tabcount-lock = La fermeture de { -brand-short-name } verrouillera votre session.
+enterprise-close-prompt-message-lock-reauth = Vous pourrez reprendre votre session après vous être authentifié·e sur cet appareil.
+enterprise-close-prompt-checkbox-label-lock = M’avertir si la fermeture de { -brand-short-name } verrouille ma session
+enterprise-close-prompt-primary-btn-label-lock = Fermer et verrouiller
 enterprise-quit-shortcut-prompt-title-with-tabs = Quitter { -brand-short-name } ou fermer l’onglet actuel ?
 enterprise-quit-shortcut-prompt-title = Fermer la fenêtre et quitter { -brand-short-name } ?
 enterprise-quit-shortcut-prompt-message = Quitter vous déconnectera de votre session. Vous devrez vous authentifier à nouveau via le fournisseur SSO de votre organisation.
@@ -119,6 +133,8 @@ enterprise-relaunch-imminent-message =
        *[other] <strong>{ -brand-short-name } redémarrera dans { $minutes } minutes.</strong> Enregistrez votre travail maintenant. Les onglets seront rouverts.
     }
 enterprise-relaunch-restart-now = Redémarrer maintenant
+extension-firefox-enterprise-auto-name = Thème { -brand-short-name } – auto
+extension-firefox-enterprise-auto-description = Des tons chauds de rose poudré et d’abricot en mode clair, de violet profond et d’indigo en mode sombre.
 extension-firefox-enterprise-light-name = Firefox Enterprise Light
 extension-firefox-enterprise-light-description = Un thème pastel léger avec des touches de soleil matinal dans le coin.
 extension-firefox-enterprise-dark-name = Firefox Enterprise Dark
