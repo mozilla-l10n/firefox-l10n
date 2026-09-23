@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = Kven kan kanskje sjå aktivit
 
 about-private-browsing-nova-info-body = Når du lèt att alle private vindauge, vert infokapslane, historikken og nettstaddataa dine sletta.
 about-private-browsing-nova-info-link = Kven kan framleis sjå aktiviteten min?
+about-private-browsing-private-window-basics-link = Grunnleggjande om private vindauge
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -83,4 +84,8 @@ about-private-browsing-nova-info-subheader2 = Vi slettar alle søk og innlogging
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Grunnleggjande om private vindauge
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Kva du bør vite
 about-private-browsing-spotlight-basics-learn-more = Les meir
