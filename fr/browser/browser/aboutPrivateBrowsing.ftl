@@ -90,12 +90,12 @@ about-private-browsing-spotlight-basics-subtitle = Les fenêtres privées permet
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Ce qu’il faut savoir
-about-private-browsing-spotlight-basics-activity-seen = Certaines activités peuvent toujours être détectées par des sites, des moteurs de recherche, des fournisseurs d’accès à Internet ou votre employeur.
+about-private-browsing-spotlight-basics-activity-seen = Certaines de vos activités peuvent rester visibles par les sites web, les moteurs de recherche, les fournisseurs d’accès à Internet ou votre employeur.
 about-private-browsing-spotlight-basics-bookmarks-downloads = Les marque-pages et les téléchargements restent sur votre appareil et peuvent apparaître dans la barre d’adresse.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
-about-private-browsing-spotlight-basics-more-privacy = Plus de protections de la vie privée
-about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vous alerte automatiquement des logiciels malveillants et des sites trompeurs.
+about-private-browsing-spotlight-basics-more-privacy = Protections de la vie privée supplémentaires
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vous avertit automatiquement en cas de logiciel malveillant ou de site trompeur.
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
 about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } demande automatiquement aux sites participants de ne pas vendre ni partager vos données personnelles.
 about-private-browsing-spotlight-basics-vpn = Utilisez le VPN intégré pour rendre votre emplacement plus difficile à tracer.

@@ -263,7 +263,7 @@ onboarding-device-migration-primary-button-label = Pieteikties
 ## Add-ons Picker screen
 
 amo-picker-title = Pielāgo savu { -brand-short-name }
-amo-picker-subtitle = Paplašinājumi ir kā jūsu pārlūkprogrammas lietotnes, un tie ļauj aizsargāt paroles, lejupielādēt videoklipus, atrast piedāvājumus, bloķēt kaitinošas reklāmas, mainīt pārlūkprogrammas izskatu un daudz ko citu.
+amo-picker-subtitle = Paplašinājumi ir kā lietotnes pārlūkam, un tie ļauj aizsargāt paroles, lejupielādēt videoklipus, atrast piedāvājumus, aizturēt kaitinošas reklāmas, mainīt pārlūkprogrammas izskatu un daudz ko citu.
 amo-picker-install-button-label = Pievienot { -brand-short-name }
 amo-picker-install-complete-label = Instalētie
 amo-picker-collection-link = Apskatīt citus papildinājumus

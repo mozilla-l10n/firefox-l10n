@@ -173,13 +173,13 @@ text-copied = Teksts nokopēts atmiņā
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
-blocked-driver = Bloķēts jūsu videokartes draivera versijai.
-blocked-gfx-card = Bloķēts jūsu videokartei neatrisinātu draiveru problēmu dēļ.
+blocked-driver = Liegts videokartes dziņa versijai.
+blocked-gfx-card = Liegts videokartei neatrisinātu dziņa nepilnību dēļ.
 blocked-os-version = Bloķēts jūsu operētājsistēmas versijai.
 blocked-mismatched-version = Bloķēts jūsu grafiskā draivera versijas atšķirībai starp reģistru un DLL.
 # Variables
 # $driverVersion - The graphics driver version string
-try-newer-driver = Bloķēts jūsu videokartei. Mēģiniet atjaunināt videokartes draiveri uz versiju { $driverVersion } vai jaunāku.
+try-newer-driver = Liegts videokartes dziņa versija. Jāmēģina videokartes dzini atjaunināt uz versiju { $driverVersion } vai jaunāku.
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametri
