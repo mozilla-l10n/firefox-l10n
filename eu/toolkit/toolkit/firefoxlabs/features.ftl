@@ -86,7 +86,7 @@ experimental-features-newtab-widget-clocks-description = Gehitu lau erlojura art
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Bilaketa semantikoaren historia
-experimental-features-semantic-history-search-description = Erabili ikasketa automatikoko modelo lokala zure historiarekin zerikusia duten eta lengoaia naturalaren ezagutzan oinarrituta dauden sarreren gomendioak { -brand-product-name } helbide-barran jasotzeko. <a data-l10n-name="connect">Eman iritzia</a>
+experimental-features-semantic-history-search-description = Erabili ikasketa automatikoko eredu lokala zure historiarekin zerikusia duten eta lengoaia naturalaren ezagutzan oinarrituta dauden sarreren gomendioak { -brand-product-name } helbide-barran jasotzeko. <a data-l10n-name="connect">Eman iritzia</a>
 # Tab Notes
 experimental-features-tab-notes =
     .label = Fitxa-oharrak

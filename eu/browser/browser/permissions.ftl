@@ -12,16 +12,16 @@ speech-recognition-model-download-allow =
 speech-recognition-model-download-not-now =
     .label = Une honetan ez
     .accesskey = U
-speech-recognition-model-download-progress-message = Hizketa-ezagutzarako modeloa deskargatzen
+speech-recognition-model-download-progress-message = Hizketa-ezagutzarako eredua deskargatzen
 # Accessible name of the progress bar shown while the model downloads. The
 # percentage and time remaining are rendered next to it, as text.
 speech-recognition-model-download-progressbar =
-    .aria-label = Hizketa-ezagutzarako modeloaren deskargaren aurrerapena
+    .aria-label = Hizketa-ezagutzarako ereduaren deskargaren aurrerapena
 speech-recognition-model-download-cancel =
     .label = Utzi
     .accesskey = U
-speech-recognition-model-download-complete-message = Hizketa-ezagutzarako modeloa deskargatuta.
-speech-recognition-model-download-failed-message = Hizketa-ezagutzarako modeloaren deskargak huts egin du.
+speech-recognition-model-download-complete-message = Hizketa-ezagutzarako eredua deskargatuta.
+speech-recognition-model-download-failed-message = Hizketa-ezagutzarako ereduaren deskargak huts egin du.
 speech-recognition-model-download-ok =
     .label = Ados
     .accesskey = A

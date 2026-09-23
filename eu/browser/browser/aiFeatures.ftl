@@ -15,11 +15,11 @@ ai-window-smart-cursor-in-smart-window =
     .description = Izan sarbide azkarra testua laburbiltzeko, azaltzeko eta gehiagorako.
     .label = Erakutsi lasterbideak testua hautatzean
 smart-window-model-section =
-    .description = Aukeratu modeloa zuretzat garrantzitsua denaren arabera.
-    .label = Laguntzailearen modeloa
+    .description = Aukeratu eredua zuretzat garrantzitsua denaren arabera.
+    .label = Laguntzailearen eredua
 smart-window-model-radio-group =
-    .aria-label = Laguntzailearen modeloa
-smart-window-model-learn-link = Modeloei buruzko argibide gehiago
+    .aria-label = Laguntzailearen eredua
+smart-window-model-learn-link = Ereduei buruzko argibide gehiago
 
 ## Full name indicates the full version name of the model currently listed along with its publisher
 ##   $shortName (string) - The display name of the model collection
@@ -27,28 +27,28 @@ smart-window-model-learn-link = Modeloei buruzko argibide gehiago
 ##   $ownerName (String) - The name of owner of the AI model
 
 smart-window-model-fast =
-    .description = { $model } modeloa, egilea: { $ownerName }
+    .description = { $model } eredua, egilea: { $ownerName }
     .label = Azkarra: berehala erantzuten du
 smart-window-model-flexible =
-    .description = { $model } modeloa, egilea: { $ownerName }
+    .description = { $model } eredua, egilea: { $ownerName }
     .label = Malgua: aukera sendoa ohiko beharretarako
 smart-window-model-personal =
-    .description = { $model } modeloa, egilea: { $ownerName }
+    .description = { $model } eredua, egilea: { $ownerName }
     .label = Pertsonala: neurrira egindako erantzunak
 smart-window-model-custom =
     .label = Pertsonalizatua: erabili zure LLM propioa
 smart-window-model-custom-name =
-    .label = Modeloaren izena
+    .label = Ereduaren izena
     .placeholder = Adibidea: glm4
 smart-window-model-custom-url =
-    .label = Modeloaren amaiera-puntua
+    .label = Ereduaren amaiera-puntua
     .placeholder = Adibidea: http://localhost:11434/v1
 smart-window-model-custom-token =
     .label = API gakoa edo autentifikazio-tokena, beharrezkoa bada
-smart-window-model-custom-more-link = Modelo pertsonalizatuei buruzko argibide gehiago
+smart-window-model-custom-more-link = Eredu pertsonalizatuei buruzko argibide gehiago
 smart-window-model-custom-save =
     .label = Gorde
-smart-window-model-custom-save-confirmation = Modeloaren xehetasunak gorde dira. Probatzeko, hasi txat berri bat.
+smart-window-model-custom-save-confirmation = Ereduaren xehetasunak gorde dira. Probatzeko, hasi txat berri bat.
 ai-window-memories-section =
     .description = { -brand-short-name }(e)k zure jarduerarengandik ikas dezake memoriak sortzeko. Hauek erantzunak pertsonalizatzeko erabiltzen dira eta gailu honetan modu lokalean biltegiratzen dira.
     .label = Memoriak

@@ -527,8 +527,8 @@ mlmodel-speech-recognition = { -brand-short-name }(e)k hau erabiltzen du gailuko
 addon-category-mlmodel = Gailuko AA
 addon-category-mlmodel-title =
     .title = Gailuko AA
-mlmodel-heading = Kudeatu gailuko AA modeloak
-mlmodel-description = { -brand-short-name }(e)n hainbat eginbide eta hedapen zure gailuan modu lokalean lan egiten duen AA modeloen bidez hornituta daude. Metodo honek zure pribatutasuna babesten du eta, hainbat kasutan, errendimendua ere hobetzen du. <a data-l10n-name="learn-more">Argibide gehiago</a>
+mlmodel-heading = Kudeatu gailuko AA ereduak
+mlmodel-description = { -brand-short-name }(e)n hainbat eginbide eta hedapen zure gailuan modu lokalean lan egiten duen AA ereduen bidez hornituta daude. Metodo honek zure pribatutasuna babesten du eta, hainbat kasutan, errendimendua ere hobetzen du. <a data-l10n-name="learn-more">Argibide gehiago</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Kendu
@@ -538,7 +538,7 @@ mlmodel-addon-detail-last-used-label = Azkenekoz erabilia
 # This is a section label to describe what extensions or features use a specific local AI model
 mlmodel-addon-detail-used-by-label = Nork erabilia
 # This is a section label to describe the link to the model card on the Hugging Face website
-mlmodel-addon-detail-model-card = Modeloaren txartela
+mlmodel-addon-detail-model-card = Ereduaren txartela
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Ikusi Hugging Face webgunean
 
