@@ -94,3 +94,10 @@ about-private-browsing-spotlight-basics-bookmarks-downloads = סימניות ו�
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = הגנות פרטיות נוספות
 about-private-browsing-spotlight-basics-malware-alerts = ‏{ -brand-short-name } מתריע באופן אוטומטי על תוכנות זדוניות ואתרים מטעים.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = ‏{ -brand-short-name } מבקש באופן אוטומטי מאתרים משתתפים לא למכור או לשתף את המידע האישי שלך.
+about-private-browsing-spotlight-basics-vpn = ניתן להשתמש ב־VPN המובנה כדי להקשות על המעקב אחר המיקום שלך.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = ניתן לעבור למצב מחמיר בהגדרות לקבלת הגנות חזקות יותר מפני מעקב.
+about-private-browsing-spotlight-basics-learn-more = מידע נוסף

@@ -165,6 +165,12 @@ home-prefs-mission-message-learn-more-link-srd = כיצד?
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = מידע נוסף
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = אפשרויות פרטיות
+    .title = אפשרויות פרטיות
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -1818,6 +1824,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = אין אזורי זמן תואמים
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = חזרה
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = אפשרויות שעון
+    .title = אפשרויות שעון
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
