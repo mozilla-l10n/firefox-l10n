@@ -5,6 +5,8 @@
 about-pdf-title = Golygydd PDF { -brand-short-name }
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Teclyn am ddim ar gyfer darllen, uno, llofnodi, rhoi sylwadau, a mwy - gyda phreifatrwydd yn rhan ohono
+about-pdf-features-cta =
+    .label = Archwilio offer PDF
 about-pdf-dropzone =
     .title = Gollyngwch PDF yma i ddechrau neu bwyso Enter
 about-pdf-dropzone-hint = Gollyngwch PDF yma i ddechrau
@@ -22,3 +24,7 @@ about-pdf-set-default =
     .label = Gosod fel y rhagosodiad
 about-pdf-dismiss =
     .label = Cau
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Offer PDF { -brand-short-name }

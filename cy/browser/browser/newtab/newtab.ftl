@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Darlun y dydd
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Chwilio
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Chwilio diweddar
@@ -165,6 +169,12 @@ home-prefs-mission-message-learn-more-link-srd = Dyma sut
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Dysgu rhagor
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Dewisiadau preifatrwydd
+    .title = Dewisiadau preifatrwydd
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -532,6 +542,11 @@ newtab-recent-searches-just-now = Newydd ddigwydd
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Tynnu “{ $search }” o'r chwilio diweddar
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Chwilio
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Dewisiadau chwilio
 
 ## Recent searches widget — empty states
 
@@ -842,6 +857,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Stociau
 newtab-custom-widget-picture-toggle =
     .label = Darlun y dydd
+newtab-custom-widget-search-toggle =
+    .label = Chwilio
 newtab-custom-widget-recent-searches-toggle =
     .label = Chwilio diweddar
 newtab-custom-widget-section-title = Teclynnau
@@ -898,6 +915,9 @@ newtab-wallpaper-add-an-image = Ychwanegu delwedd
 newtab-wallpaper-custom-color = Dewis lliw
 newtab-wallpaper-toggle-title =
     .label = Papurau wal
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Categorïau papur wal
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Mae'r ddelwedd yn fwy na'r terfyn maint ffeil { $file_size }MB. Ceisiwch lwytho ffeil lai.
@@ -1770,6 +1790,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Mae'r gofod hwn yn chwarae yn ôl eich rheolau chi
 newtab-activation-window-message-values-focus-message = Mae { -brand-product-name } yn gadael i chi bori'r ffordd fyddwch chi'n ei hoffi, gyda dull mwy personol i ddechrau'ch diwrnod ar-lein. Gwnewch { -brand-product-name } yn ddefnyddiol i chi.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Rhowch eich cyffyrddiad olaf ar { -brand-product-name }
+newtab-nova-customization-callout-message = Archwiliwch themâu golau neu dywyll a phapurau wal sy'n gwneud i'r { -brand-product-name } newydd deimlo'n debycach i'ch un chi.
+newtab-nova-customization-callout-primary-button =
+    .label = Dewiswch eich gwedd
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1850,6 +1880,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Dim cylchfaoedd amser cyfatebol
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Nôl
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Dewisiadau cloc
+    .title = Dewisiadau cloc
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

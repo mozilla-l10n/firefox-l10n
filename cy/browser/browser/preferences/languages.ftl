@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Ieithoedd wedi eu gosod
 browser-languages-available-label = Ieithoedd ar gael
 browser-languages-error = Nid yw { -brand-short-name } yn gallu diweddaru eich iaith ar hyn o bryd. Gwiriwch eich bod wedi eich cysylltu i'r rhyngrwyd neu ceisiwch eto.
+browser-languages-update-error =
+    .message = Dyw { -brand-short-name } ddim yn gallu diweddaru eich iaith ar hyn o bryd. Gwiriwch eich bod wedi eich cysylltu i'r rhyngrwyd neu ceisiwch eto.
