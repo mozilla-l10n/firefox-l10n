@@ -68,15 +68,29 @@ about-private-browsing-cookie-banners-promo-body = אנו מסרבים כעת ל
 ## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = לא להשאיר עקבות במכשיר זה
-about-private-browsing-felt-privacy-v1-info-body = ‏{ -brand-short-name } מוחק את העוגיות, ההיסטוריה ונתוני האתר שלך כאשר כל החלונות הפרטיים שלך נסגרים.
+about-private-browsing-felt-privacy-v1-info-body = ‏{ -brand-short-name } מוחק את העוגיות, ההיסטוריה ונתוני האתרים שלך כאשר כל החלונות הפרטיים שלך נסגרים.
 about-private-browsing-felt-privacy-v1-info-link = מי יכול לראות את הפעילות שלי?
 
 ## Strings for the Nova redesign of about:privatebrowsing
 
-about-private-browsing-nova-info-body = סגירת כל החלונות הפרטיים שלך מוחקת את העוגיות, ההיסטוריה ונתוני האתר שלך.
+about-private-browsing-nova-info-body = סגירת כל החלונות הפרטיים שלך מוחקת את העוגיות, ההיסטוריה ונתוני האתרים שלך.
 about-private-browsing-nova-info-link = מי יכול עדיין לראות את הפעילות שלי?
+about-private-browsing-private-window-redesign-subheader = ‏{ -brand-short-name } נבנה כדי להגן על הפרטיות שלך בזמן הגלישה, עם הגנות מובנות מפני מעקב. סגירת חלון זה מוחקת את היסטוריית הגלישה, העוגיות ונתוני האתרים שלו כדי לשמור על פרטיות הגלישה שלך מפני אחרים המשתמשים במכשיר זה.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = היסטוריית הגלישה שלך תימחק
 about-private-browsing-nova-info-subheader2 = אנחנו נמחק כל חיפוש והתחברות לאתרים כשכל החלונות הפרטיים ייסגרו. ההגנות המובנות של { -brand-short-name } מופעלות גם כאן, כמו חסימת רכיבי מעקב.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-subtitle = חלונות פרטיים מסייעים לשמור על פרטיות הגלישה שלך מפני אחרים במכשיר זה. הם לא הופכים אותך לאלמוני או מוחקים את כל הנתונים שלך.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = מה צריך לדעת
+about-private-browsing-spotlight-basics-activity-seen = חלק מהפעילויות עדיין עשויות להיות גלויות לאתרים, מנועי חיפוש, ספקי אינטרנט או המעסיק שלך.
+about-private-browsing-spotlight-basics-bookmarks-downloads = סימניות והורדות נשארות במכשיר שלך ועשויות להופיע בשורת הכתובת.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = הגנות פרטיות נוספות
+about-private-browsing-spotlight-basics-malware-alerts = ‏{ -brand-short-name } מתריע באופן אוטומטי על תוכנות זדוניות ואתרים מטעים.
