@@ -165,6 +165,12 @@ home-prefs-mission-message-learn-more-link-srd = Finn ut hvordan
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Les mer
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Personverninnstillinger
+    .title = Personverninnstillinger
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -1816,6 +1822,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Ingen samsvarende tidssoner
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Tilbake
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Klokkeinnstillinger
+    .title = Klokkeinnstillinger
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

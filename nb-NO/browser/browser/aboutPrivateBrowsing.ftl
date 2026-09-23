@@ -80,3 +80,11 @@ about-private-browsing-nova-info-link = Hvem kan fortsatt se aktiviteten min?
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Du etterlater ingen spor
 about-private-browsing-nova-info-subheader2 = Vi sletter alle søk og innlogginger når du lukker alle dine private vinduer. { -brand-short-name } sin innebygde beskyttelse er også aktiv her, for eksempel blokkering av sporere.
+
+## Strings for the Private Window basics spotlight
+
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Hva du bør vite
+about-private-browsing-spotlight-basics-vpn = Bruk innebygd VPN for å gjøre det vanskeligere å spore posisjonen din.
+about-private-browsing-spotlight-basics-learn-more = Les mer
