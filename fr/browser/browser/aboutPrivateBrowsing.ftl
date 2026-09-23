@@ -76,7 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = Qui peut voir mon activité 
 about-private-browsing-nova-info-body = La fermeture de toutes vos fenêtres privées supprime vos cookies, votre historique et les données des sites.
 about-private-browsing-nova-info-link = Qui pourrait encore voir mon activité ?
 about-private-browsing-private-window-basics-link = Principes de base de la fenêtre de navigation privée
-about-private-browsing-private-window-redesign-subheader = { -brand-short-name } est conçu pour protéger votre vie privée lorsque vous naviguez, avec des protections intégrées contre le pistage. La fermeture de cette fenêtre efface l’historique, les cookies et les données de sites afin de garder votre navigation privée des autres utilisateurs de cet appareil.
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } protège votre vie privée pendant la navigation grâce à des protections intégrées contre le pistage. Fermer cette fenêtre efface son historique, ses cookies et les données des sites afin que les autres personnes qui utilisent cet appareil ne puissent pas voir votre activité.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
