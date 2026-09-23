@@ -75,6 +75,8 @@ about-private-browsing-felt-privacy-v1-info-link = Hvem kan ha mulighet til å s
 
 about-private-browsing-nova-info-body = Når du lukker alle private vinduer, slettes infokapslene, historikken og nettstedsdataene dine.
 about-private-browsing-nova-info-link = Hvem kan fortsatt se aktiviteten min?
+about-private-browsing-private-window-basics-link = Grunnleggende om private vinduer
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } er utviklet for å beskytte personvernet ditt mens du surfer, med innebygd beskyttelse mot sporing. Når du lukker dette vinduet, slettes historikken, infokapslene og nettstedsdataene, slik at surfingen din holdes privat for andre som bruker denne enheten.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -83,6 +85,8 @@ about-private-browsing-nova-info-subheader2 = Vi sletter alle søk og innlogging
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Grunnleggende om private vinduer
+about-private-browsing-spotlight-basics-subtitle = Private vinduer bidrar til å holde surfingen din privat for andre som bruker denne enheten. De gjør deg ikke anonym og sletter ikke alle dataene dine.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Hva du bør vite
