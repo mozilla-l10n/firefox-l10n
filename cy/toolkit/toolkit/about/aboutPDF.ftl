@@ -28,3 +28,15 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = Offer PDF { -brand-short-name }
+about-pdf-features-intro = Darllen, marcio, a llofnodi PDFau o le rydych chi'n pori. Mae'n syml, yn rhad ac am ddim ac yn breifat.
+about-pdf-features-back =
+    .label = Nôl
+about-pdf-feature-organize-heading = Trefnu tudalennau
+about-pdf-feature-organize-description = Aildrefnu, dileu, uno, ac allforio tudalennau.
+about-pdf-feature-signatures-heading = Cadw llofnodion
+about-pdf-feature-signatures-description = Creu llofnodion lluosog a'u hychwanegu at ffurflenni.
+about-pdf-feature-comments-heading = Ychwanegu nodiadau
+about-pdf-feature-comments-description = Gadael sylwadau a nodiadau atgoffa wrth i chi ddarllen.
+about-pdf-feature-annotate-heading = Marcio PDFau
+about-pdf-feature-annotate-description = Ychwanegu testun, uchafbwyntiau, a lluniadau.
+about-pdf-feature-images-heading = Llwytho delweddau hygyrch
