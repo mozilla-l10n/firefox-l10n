@@ -251,6 +251,12 @@ places-search-downloads =
 places-locked-prompt = I segnalibri e la cronologia non potranno funzionare correttamente in quanto un file di { -brand-short-name } risulta utilizzato da un’altra applicazione. Il problema potrebbe essere causato da un software di sicurezza.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Novità
+    .label = Condividi cartella
+    .accesskey = C
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Novità
     .label = Condividi cartella
