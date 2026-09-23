@@ -76,6 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = Kven kan kanskje sjå aktivit
 about-private-browsing-nova-info-body = Når du lèt att alle private vindauge, vert infokapslane, historikken og nettstaddataa dine sletta.
 about-private-browsing-nova-info-link = Kven kan framleis sjå aktiviteten min?
 about-private-browsing-private-window-basics-link = Grunnleggjande om private vindauge
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } er utvikla for å ta vare på personvernet ditt medan du surfar, med innebygd vern mot sporing. Når du lèt att dette vindauget, vert historikken, infokapslane og nettstaddataa sletta, slik at surfinga di blir halden privat for andre som brukar denne eininga.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -85,7 +86,9 @@ about-private-browsing-nova-info-subheader2 = Vi slettar alle søk og innlogging
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Grunnleggjande om private vindauge
+about-private-browsing-spotlight-basics-subtitle = Private vindauge bidreg til å halde surfinga di privat for andre som brukar denne eininga. Dei gjer deg ikkje anonym og slettar ikkje alle dataa dine.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Kva du bør vite
+about-private-browsing-spotlight-basics-vpn = Bruk innebygd VPN for å gjere det vanskelegare å spore posisjonen din.
 about-private-browsing-spotlight-basics-learn-more = Les meir
