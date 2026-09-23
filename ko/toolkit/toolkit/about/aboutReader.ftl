@@ -32,7 +32,7 @@ about-reader-font-type-monospace = 고정폭
 
 ## Reader View toolbar buttons
 
-about-reader-toolbar-close = 리더뷰 닫기
+about-reader-toolbar-close = 읽기 모드 닫기
 about-reader-toolbar-text-layout-controls = 텍스트 및 레이아웃
 about-reader-toolbar-theme-controls = 테마
 about-reader-toolbar-savetopocket = { -pocket-brand-name }에 저장

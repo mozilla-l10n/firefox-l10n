@@ -193,11 +193,11 @@ menu-view-full-screen =
 
 # This should match reader-view-enter-button in browser.ftl
 menu-view-enter-readerview =
-    .label = 리더뷰 보기
+    .label = 읽기 모드
     .accesskey = R
 # This should match reader-view-close-button in browser.ftl
 menu-view-close-readerview =
-    .label = 리더뷰 닫기
+    .label = 읽기 모드 닫기
     .accesskey = R
 
 ##

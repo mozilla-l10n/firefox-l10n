@@ -950,10 +950,10 @@ urlbar-trending-dismissal-acknowledgment = 의견을 보내주셔서 감사합�
 
 # This should match menu-view-enter-readerview in menubar.ftl
 reader-view-enter-button =
-    .aria-label = 리더뷰 보기
+    .aria-label = 읽기 모드
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
-    .aria-label = 리더뷰 닫기
+    .aria-label = 읽기 모드 닫기
 
 ## Picture-in-Picture urlbar button
 ## Variables:

@@ -13,7 +13,7 @@ touchbar-fullscreen-exit = 전체 화면 종료
 find = 찾기
 new-tab = 새 탭
 add-bookmark = 북마크 추가
-reader-view = 리더뷰
+reader-view = 읽기 모드
 # Meant to match the string displayed in an empty URL bar.
 open-location = 검색어 또는 주소 입력
 share = 공유
