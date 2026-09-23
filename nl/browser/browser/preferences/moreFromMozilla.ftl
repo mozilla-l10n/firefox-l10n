@@ -31,7 +31,7 @@ more-from-moz-title2 = Meer van { -vendor-short-name }
 
 more-from-moz-firefox-relay-title = { -relay-brand-name }
 more-from-moz-firefox-relay-description = Bescherm uw Postvak IN en uw identiteit met gratis e-mailmaskering.
-more-from-moz-firefox-relay-button = { -relay-brand-short-name } downloaden
+more-from-moz-firefox-relay-button = { -relay-brand-short-name } verkrijgen
 
 ## These strings are for the Mozilla Monitor card in about:preferences moreFromMozilla page
 
@@ -99,7 +99,7 @@ more-from-moz-mozilla-monitor-box-link =
 more-from-moz-mozilla-vpn-box-link =
     .label = { -mozilla-vpn-brand-name } downloaden
 more-from-moz-firefox-relay-box-link =
-    .label = { -relay-brand-short-name } downloaden
+    .label = { -relay-brand-short-name } verkrijgen
 more-from-moz-mdn-box-link =
     .label = MDN benaderen
 more-from-moz-thunderbird-box-link =
