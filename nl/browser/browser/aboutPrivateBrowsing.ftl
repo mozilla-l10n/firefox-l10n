@@ -75,6 +75,8 @@ about-private-browsing-felt-privacy-v1-info-link = Wie kan mijn activiteit zien?
 
 about-private-browsing-nova-info-body = Door al uw privévensters te sluiten, worden uw cookies, geschiedenis en websitegegevens verwijderd.
 about-private-browsing-nova-info-link = Wie kan mijn activiteit nog zien?
+about-private-browsing-private-window-basics-link = Basisprincipes van privévensters
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } is ontworpen om uw privacy te beschermen terwijl u navigeert, met ingebouwde bescherming tegen volgen. Door dit venster te sluiten worden de geschiedenis, cookies en websitegegevens gewist om uw navigatie privé te houden voor anderen die dit apparaat gebruiken.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -83,4 +85,21 @@ about-private-browsing-nova-info-subheader2 = We wissen elke zoekopdracht en aan
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Basisprincipes van privévensters
+about-private-browsing-spotlight-basics-subtitle = Privévensters helpen uw navigatie op dit apparaat privé te houden ten opzichte van anderen. Ze maken u niet anoniem en wissen niet al uw gegevens.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Wat u moet weten
+about-private-browsing-spotlight-basics-activity-seen = Sommige activiteit kan nog steeds worden gezien door websites, zoekmachines, internetproviders of uw werkgever.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Bladwijzers en downloads blijven op uw apparaat staan en kunnen in de adresbalk verschijnen.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Meer privacybeschermingen
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } waarschuwt u automatisch voor malware en misleidende websites.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } vraagt deelnemende websites automatisch om uw persoonlijke gegevens niet te verkopen of te delen.
+about-private-browsing-spotlight-basics-vpn = Gebruik de ingebouwde VPN om uw locatie moeilijker te traceren te maken.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Schakel over naar Streng in de instellingen voor sterkere bescherming tegen volgen.
 about-private-browsing-spotlight-basics-learn-more = Meer info
