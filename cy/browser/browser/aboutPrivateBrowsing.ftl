@@ -75,8 +75,31 @@ about-private-browsing-felt-privacy-v1-info-link = Pwy all weld fy ngweithgarwch
 
 about-private-browsing-nova-info-body = Mae cau eich holl ffenestri preifat yn dileu eich cwcis, hanes a data gwefan.
 about-private-browsing-nova-info-link = Pwy sy'n dal i allu gweld beth rwy'n gwneud?
+about-private-browsing-private-window-basics-link = Ffenestr breifat sylfaenol
+about-private-browsing-private-window-redesign-subheader = Mae { -brand-short-name } wedi'i gynllunio i ddiogelu eich preifatrwydd wrth i chi bori, gyda mesurau diogelu tracio cynhenid. Mae cau'r ffenestr hon yn dileu ei hanes, cwcis, a data gwefan i gadw'ch pori yn breifat rhag eraill sy'n defnyddio'r ddyfais hon.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Bydd eich hanes pori'n cael ei ddileu
 about-private-browsing-nova-info-subheader2 = Byddwn yn dileu pob chwilio a mewngofnodi pan fyddwch yn cau eich holl Ffenestri Preifat. Mae diogelwch cynhenid { -brand-short-name } ymlaen yma hefyd, fel rhwystro tracwyr.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Ffenestr breifat sylfaenol
+about-private-browsing-spotlight-basics-subtitle = Mae Ffenestri Preifat yn helpu i gadw'ch pori yn breifat rhag eraill ar y ddyfais hon. Dydyn nhw ddim yn eich gwneud yn ddienw nac yn clirio'ch holl ddata.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Beth i'w wybod
+about-private-browsing-spotlight-basics-activity-seen = Mae'n bosibl y bydd gwefannau, peiriannau chwilio, darparwyr rhyngrwyd, neu'ch cyflogwr yn dal i weld rhywfaint o weithgarwch.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Mae nodau tudalen a llwythi'n aros ar eich dyfais ac o bosib yn ymddangos yn y bar cyfeiriad.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Rhagor o ddiogelwch preifatrwydd
+about-private-browsing-spotlight-basics-malware-alerts = Mae { -brand-short-name } yn eich rhybuddio'n awtomatig am wefannau maleisus a thwyllodrus.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = Mae { -brand-short-name } yn gofyn yn awtomatig i wefannau sy'n cymryd rhan i beidio â gwerthu na rhannu eich data personol.
+about-private-browsing-spotlight-basics-vpn = Defnyddiwch VPN cynhenid i wneud eich lleoliad yn anos i'w olrhain.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Newidiwch i Llym yn y gosodiadau am ddiogelwch tracio cryfach.
+about-private-browsing-spotlight-basics-learn-more = Dysgu rhagor
