@@ -90,5 +90,16 @@ about-private-browsing-spotlight-basics-subtitle = Private vindauge bidreg til �
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Kva du bør vite
+about-private-browsing-spotlight-basics-activity-seen = Noko aktivitet kan framleis bli sett av nettstadar, søkjemotorar, internettleverandørar eller arbeidsgjevaren din.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Bokmerke og nedlastingar blir verande på eininga di og kan visast i adressefeltet.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Meir personvernbeskyttelse
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } varslar deg automatisk om skadeleg programvare og villeiande nettstadar.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } ber automatisk deltakande nettstadar om å ikkje selje eller dele personopplysningane dine.
 about-private-browsing-spotlight-basics-vpn = Bruk innebygd VPN for å gjere det vanskelegare å spore posisjonen din.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Byt til «Streng» i innstillingane for sterkare sporingsvern.
 about-private-browsing-spotlight-basics-learn-more = Les meir
