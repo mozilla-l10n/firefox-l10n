@@ -1795,10 +1795,10 @@ newtab-activation-window-message-values-focus-message = Mae { -brand-product-nam
 # "Put your finishing touch on" means to add the last, personal detail that
 # makes something yours. The call to action is to open the New Tab
 # customization panel and pick a theme or wallpaper.
-newtab-nova-customization-callout-header = Rhowch eich cyffyrddiad olaf ar { -brand-product-name }
+newtab-nova-customization-callout-header = Rhowch eich cyffyrddiad olaf i { -brand-product-name }
 newtab-nova-customization-callout-message = Archwiliwch themâu golau neu dywyll a phapurau wal sy'n gwneud i'r { -brand-product-name } newydd deimlo'n debycach i'ch un chi.
 newtab-nova-customization-callout-primary-button =
-    .label = Dewiswch eich gwedd
+    .label = Dewiswch eich golwg
 
 ## Strings for the Clock widget
 

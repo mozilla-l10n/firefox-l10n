@@ -27,6 +27,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = Mae { $agent } yn asesu'r hyn a gludwyd gennych yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig o amser.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = Mae { $agent } yn asesu'r hyn a gludwyd gennych yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig o amser.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -34,7 +37,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = Mae { $agent } yn asesu'r 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = Mae { $agent } yn adolygu'r hyn a argraffwyd gennych yn erbyn polisïau data eich sefydliad. Gall hyn gymryd ychydig amser.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Mae copïo'r cynnwys hwn wedi'i gyfyngu gan eich sefydliad.
 contentanalysis-operationtype-clipboard = clipfwrdd
+contentanalysis-operationtype-clipboard-copy = cynnwys wedi'i gopïo
 contentanalysis-operationtype-dropped-text = testun wedi'i ostwng
 contentanalysis-operationtype-print = argraffu
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -72,6 +80,7 @@ contentanalysis-invalid-agent-signature-message-content = Methwyd â dilysu llof
 contentanalysis-error-message-upload-file = Gwrthodwyd llwytho “{ $filename }” i fyny.
 contentanalysis-error-message-dropped-text = Gwrthodwyd llusgo a gollwng.
 contentanalysis-error-message-clipboard = Gwrthodwyd gludo.
+contentanalysis-error-message-clipboard-copy = Copïo wedi'i atal.
 contentanalysis-error-message-print = Gwrthodwyd argraffu.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -87,6 +96,8 @@ contentanalysis-block-dialog-title-download-file = Nid oes caniatâd i chi lwyth
 contentanalysis-block-dialog-body-download-file = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi lwytho’r ffeil “{ $filename }”. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
 contentanalysis-block-dialog-title-clipboard = Nid oes caniatâd i chi ludo'r ffeil hon
 contentanalysis-block-dialog-body-clipboard = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi ludo'r cynnwys hwn. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
+contentanalysis-block-dialog-title-clipboard-copy = Does dim caniatâd i chi gopïo'r cynnwys hwn
+contentanalysis-block-dialog-body-clipboard-copy = O dan bolisïau diogelu data eich sefydliad, does dim caniatâd i chi gopïo'r cynnwys hwn. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
 contentanalysis-block-dialog-title-dropped-text = Nid oes caniatâd i chi ollwng y cynnwys hwn
 contentanalysis-block-dialog-body-dropped-text = O dan bolisïau diogelu data eich sefydliad, nid oes caniatâd i chi lusgo a gollwng y cynnwys hwn. Cysylltwch â'ch gweinyddwr am ragor o wybodaeth.
 contentanalysis-block-dialog-title-print = Nid oes caniatâd i chi argraffu'r ddogfen hon
