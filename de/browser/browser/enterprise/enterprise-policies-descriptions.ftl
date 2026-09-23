@@ -7,6 +7,7 @@ policy-DataLossPrevention = Integrierte Engine zur Verhinderung von Datenverlust
 policy-DisableLocalPolicies = Alle lokalen Richtlinienquellen deaktivieren (policies.json, Windows-GPO und macOS-plist).
 policy-EnterpriseStorageEncryption = Vom Unternehmen verwaltetes Hauptpasswort für verschlüsselten Speicher aktivieren
 policy-SecurityLogging = Sicherheitsprotokollierung und Telemetrie für sicherheitsrelevante Ereignisse aktivieren und konfigurieren.
+policy-SignOut = Abmeldeverhalten für Unternehmensbenutzer konfigurieren.
 policy-Sync = Aktivieren oder deaktivieren Sie die Synchronisierung und legen Sie fest, welche Daten einbezogen werden sollen.
 policy-CrashReportsSubmit = Einstellungen für die Übermittlung von Absturzberichten konfigurieren.
 policy-Watermark = Blendet ein diagonal gekacheltes Wasserzeichen über einer Liste von Websites ein.
