@@ -5,7 +5,7 @@
 window-minimize-command =
     .label = Minimer
 window-zoom-command =
-    .label = Zoom
+    .label = Skalering
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
