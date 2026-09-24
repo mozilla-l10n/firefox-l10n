@@ -75,8 +75,15 @@ about-private-browsing-felt-privacy-v1-info-link = Cine ar putea să îmi vadă 
 
 about-private-browsing-nova-info-body = Închiderea tuturor ferestrelor private șterge cookie-urile, istoricul și datele site-ului.
 about-private-browsing-nova-info-link = Cine ar putea să-mi vadă în continuare activitatea?
+about-private-browsing-private-window-basics-link = Noțiuni de bază despre ferestrele private
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } este conceput pentru a-ți proteja confidențialitatea în timpul navigării, cu protecții încorporate împotriva urmăririi. Închiderea acestei ferestre va șterge istoricul, cookie-urile și datele site-urilor pentru a-ți păstra navigarea privată de alte persoane care utilizează acest dispozitiv.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Navigarea ta nu este înregistrată
 about-private-browsing-nova-info-subheader2 = Vom șterge toate căutările și autentificările când închizi toate ferestrele private. Protecțiile încorporate din { -brand-short-name } sunt și aici, cum ar fi blocarea elementelor de urmărire.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Noțiuni de bază despre ferestrele private
+about-private-browsing-spotlight-basics-subtitle = Ferestrele private ajută la păstrarea confidențialității navigării tale față de alte persoane de pe acest dispozitiv. Nu te fac anonim(ă) și nu îți șterg toate datele.
