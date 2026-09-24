@@ -87,3 +87,19 @@ about-private-browsing-nova-info-subheader2 = Vom șterge toate căutările și 
 
 about-private-browsing-spotlight-basics-title = Noțiuni de bază despre ferestrele private
 about-private-browsing-spotlight-basics-subtitle = Ferestrele private ajută la păstrarea confidențialității navigării tale față de alte persoane de pe acest dispozitiv. Nu te fac anonim(ă) și nu îți șterg toate datele.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Ce trebuie să știi
+about-private-browsing-spotlight-basics-activity-seen = Este posibil ca o parte din activitate să fie văzută în continuare de site-uri, motoare de căutare, furnizori de internet sau angajator.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Marcajele și descărcările rămân pe dispozitiv și pot apărea în bara de adrese.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Mai multe protecții pentru confidențialitate
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } te avertizează automat cu privire la softurile malițioase și site-urile înșelătoare.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } solicită automat site-urilor participante să nu îți vândă sau să nu îți partajeze datele cu caracter personal.
+about-private-browsing-spotlight-basics-vpn = Folosește VPN-ul încorporat pentru a-ți face locația mai greu de urmărit.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Comută la Strict în setări pentru o protecție mai puternică împotriva urmăririi.
+about-private-browsing-spotlight-basics-learn-more = Află mai multe
