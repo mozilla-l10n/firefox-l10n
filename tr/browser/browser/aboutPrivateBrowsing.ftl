@@ -90,4 +90,6 @@ about-private-browsing-spotlight-basics-subtitle = Gizli pencereler bu cihazı k
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Bilmeniz gerekenler
 about-private-browsing-spotlight-basics-bookmarks-downloads = Yer imleri ve indirdiğiniz dosyalar cihazınızda kalır ve adres çubuğunda görünebilir.
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } kötü amaçlı yazılımlara ve aldatıcı sitelere karşı sizi otomatik olarak uyarır.
+about-private-browsing-spotlight-basics-vpn = Konumunuzun takip edilmesini zorlaştırmak için yerleşik VPN’i kullanın.
 about-private-browsing-spotlight-basics-learn-more = Daha fazla bilgi al
