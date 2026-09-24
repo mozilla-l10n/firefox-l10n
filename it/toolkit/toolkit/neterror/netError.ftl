@@ -39,9 +39,6 @@ neterror-search-cta-title = Questo sito non è raggiungibile
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Impossibile connettersi al server <strong>{ $hostname }</strong>.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Impossibile connettersi al server { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Prova questi passaggi:
 neterror-search-cta-hint-check-address = Verifica di nuovo l’indirizzo del sito web
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Ricarica
     .accesskey = R
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Caricamento in corso…
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Sembra che tu non sia connesso. Riconnettiti e riprova.
