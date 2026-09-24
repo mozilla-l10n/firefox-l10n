@@ -415,7 +415,7 @@ bookmark-panel-remove =
     .accesskey = s
 bookmark-panel-show-editor-checkbox =
     .label = Kaydederken düzenleyiciyi göster
-    .accesskey = K
+    .accesskey = d
 bookmark-panel-save-button =
     .label = Kaydet
 # Width of the bookmark panel.
