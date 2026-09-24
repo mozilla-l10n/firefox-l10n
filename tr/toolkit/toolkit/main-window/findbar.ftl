@@ -13,24 +13,24 @@ findbar-find-button-close =
     .tooltiptext = Arama çubuğunu kapat
 findbar-highlight-all2 =
     .label = Tümünü vurgula
+    .tooltiptext = Terimin geçtiği her yeri işaretle
     .accesskey =
         { PLATFORM() ->
             [macos] T
            *[other] T
         }
-    .tooltiptext = Terimin geçtiği her yeri işaretle
 findbar-case-sensitive =
     .label = Büyük-küçük harfe duyarlı
-    .accesskey = h
     .tooltiptext = Büyük-küçük harfe duyarlı ara
+    .accesskey = B
 findbar-match-diacritics =
     .label = Fonetik işaretleri bul
-    .accesskey = F
     .tooltiptext = Fonetik işaretli harflerle baz harflerini ayrı tut (Örneğin “kar” araması yaptığınızda “kâr” bulunmayacaktır.)
+    .accesskey = F
 findbar-entire-word =
     .label = Tam sözcükler
-    .accesskey = s
     .tooltiptext = Yalnızca tam sözcükleri ara
+    .accesskey = s
 findbar-not-found = Eşleşme bulunamadı
 findbar-wrapped-to-top = Sayfanın sonuna gelindi, baştan devam edildi
 findbar-wrapped-to-bottom = Sayfa başına gelindi, sondan devam edildi
