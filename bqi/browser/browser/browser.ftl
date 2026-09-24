@@ -940,6 +940,9 @@ fullscreen-warning-no-domain = ای سند سکو من هالت پوی بلگه 
 fullscreen-exit-button = و در زیڌن ز نما پوی بلگه (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = و در زیڌن ز نما پوی بلگه (esc)
+fullscreen-keyboardlock-exit-button = و در زیڌن ز هالت پوی بلگه (Esc ن واڌارنین)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = و در زیڌن ز هالت پوی بلگه (esc ن واڌارنین)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1041,6 +1044,8 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = رزما
     .tooltiptext = نیشتن وو دؽوۉداری رزما زفت وابیڌه
+qrcode-panel-error =
+    .message = ساخت کد QR مووفق نبی. دووارته قپ ریت کۊنین.
 qrcode-copy-button =
     .label = لف گیری
 qrcode-copy-success =
@@ -1068,6 +1073,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = بلگه یل هوم گوم وابیڌه
     .tooltiptext = نشووݩ داڌن بلگه یل ز دسگا یل دیری
+toolbar-button-send-tab =
+    .label = فشناڌن بلگه
+    .tooltiptext = فشناڌن بلگه هیم سکویی و دسگا دیری
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
