@@ -340,6 +340,20 @@ newtab-stocks-error-not-available = Os dados dos mercados bolsistas não estão 
 newtab-stocks-widget-menu-button =
     .aria-label = Opções do widget de mercados bolsistas
     .title = Opções do widget de mercados bolsistas
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Pesquisar
+    .title = Pesquisar por nome ou símbolo
+    .aria-label = Pesquisar por nome ou símbolo
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Pesquisar
+    .title = Pesquisar por nome ou símbolo
+    .aria-label = Pesquisar por nome ou símbolo
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Mercados
