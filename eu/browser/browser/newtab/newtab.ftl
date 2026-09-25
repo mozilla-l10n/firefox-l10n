@@ -817,6 +817,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Kirolak
 newtab-custom-widget-privacy-toggle =
     .label = Pribatutasuna
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Gurutzegrama
 newtab-custom-widget-stocks-toggle =
     .label = Akzioak
 newtab-custom-widget-picture-toggle =
