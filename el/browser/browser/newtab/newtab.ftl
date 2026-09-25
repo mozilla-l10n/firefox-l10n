@@ -205,8 +205,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = Το { -brand-short-name } αποκλείει ιχνηλάτες κατά την περιήγησή σας. Θα τους βλέπετε εδώ.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = Το { -brand-short-name } αποκλείει αυτόματα τους ιχνηλάτες, διατηρώντας απόρρητο το μεγαλύτερο μέρος της δραστηριότητάς σας.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -506,6 +504,9 @@ newtab-recent-searches-just-now = Μόλις τώρα
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Αφαίρεση του «{ $search }» από τις πρόσφατες αναζητήσεις
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Αναζήτηση
 # Screen reader label for the widget's icon-only menu button.
@@ -572,6 +573,9 @@ newtab-topsites-image-url-label = URL προσαρμοσμένης εικόνα�
 newtab-topsites-use-custom-image-link = Χρήση προσαρμοσμένης εικόνας
 newtab-topsites-use-image-link = Χρήση προσαρμοσμένης εικόνας…
 newtab-topsites-image-validation = Αποτυχία φόρτωσης εικόνας. Δοκιμάστε ένα διαφορετικό URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Απαλοιφή κειμένου
 
@@ -1003,6 +1007,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Μια αλεπού στη δεξιά άκρη με πορτοκαλί φόντο
 newtab-wallpaper-firefox-colorful-sky = Πορτοκαλί κύματα σε έναν μοβ νυχτερινό ουρανό
 newtab-wallpaper-firefox-desert-dark = Μια αλεπού καθισμένη σε μια σκούρα μοβ έρημο
@@ -1431,6 +1438,9 @@ newtab-promo-card-cta = Μάθετε περισσότερα
 newtab-promo-card-dismiss-button =
     .aria-label = Απόρριψη
     .title = Απόρριψη
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
