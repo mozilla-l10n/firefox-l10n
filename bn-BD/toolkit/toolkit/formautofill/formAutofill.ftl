@@ -5,17 +5,28 @@
 
 ## OS Prompt Dialog
 
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Form Autofill অপশন
 # The links lead users to Form Autofill browser preferences.
 autofill-options-link = Form Autofill অপশন
-autofill-options-link-osx = Form Autofill পছন্দসমূহ
 
-## The credit card capture doorhanger
+##
 
 
 # Used on the doorhanger when an credit card change is detected.
 
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Autofill Form পরিষ্কার
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
@@ -28,16 +39,6 @@ autofill-card-network-mastercard = MasterCard
 autofill-card-network-mir = MIR
 autofill-card-network-unionpay = Union Pay
 autofill-card-network-visa = Visa
-# The warning text that is displayed for informing users what categories are
-# about to be filled.  The text would be, for example,
-#   Also autofills organization, phone, email.
-# Variables:
-#   $categories - one or more of the categories, see autofill-category-X below
-autofill-phishing-warningmessage-extracategory = { $categories } অটোফিল করো
-# Variation when all are in the same category.
-# Variables:
-#   $categories - one or more of the categories
-autofill-phishing-warningmessage = { $categories } অটোফিল করো
 # Used in autofill drop down suggestion to indicate what other categories Form Autofill will attempt to fill.
 autofill-category-address = ঠিকানা
 autofill-category-name = নাম
