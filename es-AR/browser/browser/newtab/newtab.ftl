@@ -339,6 +339,20 @@ newtab-stocks-error-not-available = Los datos de acciones no están disponibles.
 newtab-stocks-widget-menu-button =
     .aria-label = Opciones del widget de acciones
     .title = Opciones del widget de acciones
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Buscar
+    .title = Buscar por nombre o símbolo
+    .aria-label = Buscar por nombre o símbolo
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Buscar
+    .title = Buscar por nombre o símbolo
+    .aria-label = Buscar por nombre o símbolo
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Acciones
