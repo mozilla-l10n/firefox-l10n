@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Remover le contrasigno?
 autocomplete-remove-address-title = Remover adresse?
 autocomplete-remove-payment-method-title = Remover methodo de pagamento?
 autocomplete-remove-record-message = Tu non potera disfacer iste action.
+autocomplete-delete-record-button = Deler
 autocomplete-remove-record-button = Remover
+autocomplete-delete-password-title = Deler le contrasigno?
+autocomplete-delete-address-title = Deler adresse?
+autocomplete-delete-payment-method-title = Deler methodo de pagamento?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
