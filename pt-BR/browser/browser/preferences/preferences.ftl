@@ -643,7 +643,7 @@ support-application-heading =
 support-get-help =
     .label = Obtenha ajuda
 support-share-ideas =
-    .label = Compartilhe ideias e comentários
+    .label = Compartilhar ideias e opiniões
 
 ## General Section - Performance
 
