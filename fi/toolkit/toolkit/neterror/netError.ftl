@@ -39,9 +39,6 @@ neterror-search-cta-title = Tähän sivustoon ei saada yhteyttä
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Palvelimeen osoitteessa <strong>{ $hostname }</strong> ei saatu yhteyttä.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Palvelimeen osoitteessa { $domain } ei saatu yhteyttä.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Kokeile näitä vaiheita:
 neterror-search-cta-hint-check-address = Tarkista verkkosivuston osoite uudelleen
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Päivitä
     .accesskey = P
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Ladataan
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Vaikuttaa siltä, että olet yhteydettömässä tilassa. Yhdistä uudelleen ja yritä uudelleen.

@@ -338,16 +338,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = Аты немесе белгісі бойынша іздеу
     .label = Іздеу
     .title = Аты немесе белгісі бойынша іздеу
-    .aria-label = Аты немесе белгісі бойынша іздеу
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = Аты немесе белгісі бойынша іздеу
     .label = Іздеу
     .title = Аты немесе белгісі бойынша іздеу
-    .aria-label = Аты немесе белгісі бойынша іздеу
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Акциялар
@@ -512,17 +512,11 @@ newtab-recent-searches-just-now = Жаңа ғана
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Жуырдағы іздеулерден «{ $search }» өшіру
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Іздеу
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Іздеу опциялары
-
-## Recent searches widget — empty states
-
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -577,9 +571,6 @@ newtab-topsites-image-url-label = Өз суреттің URL адресі
 newtab-topsites-use-custom-image-link = Таңдауыңызша суретті қолдану
 newtab-topsites-use-image-link = Таңдауыңызша суретті қолдану…
 newtab-topsites-image-validation = Суретті жүктеу қатемен аяқталды. Басқа URL адресін қолданып көріңіз.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Мәтінді тазарту
 
@@ -1013,9 +1004,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Қызғылт сары фондағы оң жақ шетіндегі түлкі
 newtab-wallpaper-firefox-colorful-sky = Күлгін түнгі аспандағы қызғылт сары толқындар
 newtab-wallpaper-firefox-desert-dark = Қара күлгін шөлде отырған түлкі
@@ -1444,9 +1432,6 @@ newtab-promo-card-cta = Көбірек білу
 newtab-promo-card-dismiss-button =
     .aria-label = Елемеу
     .title = Елемеу
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Memperkenalkan VPN, sekarang di dalam peramban Anda
 ipprotection-feature-introduction-title-1 = Cobalah VPN bawaan { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Gunakan <a data-l10n-name="learn-more-vpn">VPN bawaan</a> baru kami untuk menyembunyikan lokasi Anda dan melindungi data Anda.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Tambahkan lapisan privasi lainnya
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN bawaan { -brand-product-name }</a> membantu melindungi penjelajahan Anda. Pilih dari beberapa lokasi untuk menjaga dari mana Anda menjelajah lebih pribadi.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">VPN bawaan { -brand-product-name }</a> membantu melindungi penjelajahan Anda. Pilih dari beberapa lokasi untuk menjaga tempat Anda menjelajah lebih pribadi.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Punya rencana perjalanan?
 ipprotection-feature-introduction-description-summer-promo = Pergi lebih jauh dengan VPN bawaan { -brand-product-name }: lebih banyak lokasi, bandwidth tidak terbatas. Sekarang hingga 31 Agustus.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gunakan <a data-l10n-name="learn-more-vpn">VPN bawaan</a> baru kami untuk menyembunyikan lokasi Anda dan melindungi data Anda, bahkan ketika Anda berada di Jendela Pribadi.
 ipprotection-feature-introduction-description-private-browsing = Jelajahi dengan perlindungan ekstra dengan menyembunyikan lokasi Anda, bahkan saat Anda berada di Jendela Pribadi.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Sedang memakai Wi-Fi publik? Coba VPN bawaan { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Jelajahi dengan perlindungan ekstra dengan menyembunyikan lokasi Anda, bahkan di Wi-Fi publik.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,60 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Hapus VPN dari bilah alat
 ipprotection-feature-introduction-button-open-vpn = Buka VPN
 
-## Callout shown when the user opens a private browsing window
-
-
-## Summer promo offramp callout buttons
-
-
-## Site settings callout
-
-
-## Location selection callout
-
-
-## VPN for Android promo callout
-
-
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Jangan sekarang
-
-## Panel
-
-
-## Status card
-
-
-## Location controls
-
-
-## VPN paused state
-
-
-## Messages and errors
-
-
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
-## IP Protection Settings
-
-
-## IP Protection dialogs
-
-
-## IP Protection Bandwidth
-
-
-## IP Protection bandwidth reset callout
-
-
-## IP Protection add-on breakage warnings
-
-
-## IP Protection alerts
-

@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Rhannu gyda Mac…
            *[other] Rhannu gyda…
         }
-share-panel-os-share =
-    .label = Rhannu gyda…
 share-panel-mail =
     .label = Anfon e-bost
 share-panel-screenshot =
     .label = Cymryd llun sgrin
 share-panel-qr-code-2 =
     .label = Creu Cod QR
-share-panel-qr-code =
-    .label = Rhannu cod QR
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Ychwanegu Dyfais
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Cysylltu dyfais arall
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Ddim yn gweld eich dyfais?
-share-panel-os-share-subview =
-    .title = Rhannu gyda…

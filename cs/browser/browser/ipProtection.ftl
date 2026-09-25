@@ -30,7 +30,6 @@ ipprotection-feature-introduction-title-1 =
        *[no-cases] Vyzkoušejte vestavěnou VPN aplikace { -brand-product-name }
     }
 ipprotection-feature-introduction-link-text-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Přidejte další vrstvu soukromí
 ipprotection-feature-introduction-link-text-privacy-1 =
     { -brand-product-name.case-status ->
@@ -52,7 +51,6 @@ ipprotection-feature-introduction-description-summer-promo =
     }
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal =
     { -brand-product-name.case-status ->
         [with-cases] Používáte veřejnou Wi-Fi? Vyzkoušejte vestavěnou síť VPN ve { -brand-product-name(case: "gen") }.
@@ -73,9 +71,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odebrat VPN z nástrojové lišty
 ipprotection-feature-introduction-button-open-vpn = Otevřít VPN
 ipprotection-feature-introduction-button-get-started = Začínáme
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -106,7 +101,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description =
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Posuňte se na vyšší úroveň s { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Zachovejte si neomezenou šířku pásma i po 31. srpnu – díky více než 300 serverům a možnosti připojení až 5 zařízení bude obtížnější vysledovat, že prohlížení webu pochází právě od vás.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otevřít VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Nastavit na výchozí
 ipprotection-summer-promo-offramp-get-subscription-button = Získejte { -mozilla-vpn-brand-name(case: "acc") }

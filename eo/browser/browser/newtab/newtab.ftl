@@ -334,16 +334,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = Serĉi laŭ nomo aŭ simbolo
     .label = Serĉi
     .title = Serĉi laŭ nomo aŭ simbolo
-    .aria-label = Serĉi laŭ nomo aŭ simbolo
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = Serĉi laŭ nomo aŭ simbolo
     .label = Serĉi
     .title = Serĉi laŭ nomo aŭ simbolo
-    .aria-label = Serĉi laŭ nomo aŭ simbolo
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akcioj
@@ -494,12 +494,6 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Pli da informo
 
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -553,9 +547,6 @@ newtab-topsites-image-url-label = Personecitiga retadreso de bildo
 newtab-topsites-use-custom-image-link = Uzi personecigitan bildon
 newtab-topsites-use-image-link = Uzi personecigitan bildon…
 newtab-topsites-image-validation = Ne eblis ŝargi la bildon. Klopodu alian retadreson.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Viŝi tekston
 
@@ -986,9 +977,6 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
-## Firefox wallpaper descriptions used for screen readers
-
-
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
@@ -1404,9 +1392,6 @@ newtab-promo-card-cta = Pli da informo
 newtab-promo-card-dismiss-button =
     .aria-label = Ignori
     .title = Ignori
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1713,9 +1698,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Tiu ĉi loko sekvas viajn regulojn
 newtab-activation-window-message-values-focus-message = { -brand-product-name } permesas al vi retumi kiel vi ŝatas, per pli persona maniero komenci vian tagan retumon. Personecigu { -brand-product-name }.
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

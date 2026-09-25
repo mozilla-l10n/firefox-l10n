@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Bemutatjuk a VPN-t, most már közvetlenül a böngészőben
 ipprotection-feature-introduction-title-1 = Próbálja ki a { -brand-product-name } beépített VPN-jét
 ipprotection-feature-introduction-link-text-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adjon hozzá még egy adatvédelmi réteget
 ipprotection-feature-introduction-link-text-privacy-1 = A <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon több hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
 ipprotection-feature-introduction-link-text-privacy-2 = A <a data-l10n-name="learn-more-vpn">{ -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon több hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Utazási tervei vannak? V
 ipprotection-feature-introduction-description-summer-promo = Jusson tovább a { -brand-product-name } beépített VPN-jével: több hely, korlátlan sávszélesség. Mostantól augusztus 31-ig.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait, még akkor is, ha privát ablakban van.
 ipprotection-feature-introduction-description-private-browsing = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még privát ablakban is.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Nyilvános Wi-Fi-n van? Próbálja ki a { -brand-product-name } beépített VPN-jét.
 ipprotection-feature-introduction-description-captive-portal = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még nyilvános Wi-Fi-n is.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN eltávolítása az eszköztárról
 ipprotection-feature-introduction-button-open-vpn = VPN megnyitása
 ipprotection-feature-introduction-button-get-started = Kezdő lépések
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Legyen
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Lépjen szintet a { -mozilla-vpn-brand-name } segítségével
 ipprotection-summer-promo-offramp-subscription-upsell-description = Tartsa meg a korlátlan sávszélességet augusztus 31. után, több mint 300 hellyel, 5 eszközön, hogy nehezebb legyen Önhöz visszavezetni a böngészését.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN megnyitása
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Beállítás az alapértelmezésre
 ipprotection-summer-promo-offramp-get-subscription-button = A { -mozilla-vpn-brand-name } beszerzése

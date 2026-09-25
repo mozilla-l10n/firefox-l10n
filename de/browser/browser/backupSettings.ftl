@@ -20,8 +20,8 @@ backup-folder-name = { -brand-product-name } wiederherstellen
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-Backup
 settings-data-backup-header2 =
-    .label = Datensicherung
     .description = Schützen Sie Ihre Lesezeichen, Ihre Chronik und andere Daten automatisch.
+    .label = Datensicherung
 settings-data-backup-toggle = Datensicherung verwalten
 settings-data-backup-toggle-on2 =
     .label = Datensicherung aktivieren
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Bearbeiten…
 settings-data-create-backup-error = Beim Erstellen Ihres Backups am { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } ist ein Fehler aufgetreten
 settings-sensitive-data-encryption-description = Sichern Sie Ihre Passwörter und Zahlungsmethoden und schützen Sie alle Ihre Daten mit Verschlüsselung.
 settings-data-toggle-encryption-label2 =
-    .label = Sichern Sie Ihre sensiblen Daten
     .description = Sichern Sie Ihre Passwörter und Zahlungsmethoden und schützen Sie alle Ihre Daten mit Verschlüsselung.
+    .label = Sichern Sie Ihre sensiblen Daten
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dateiname: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Ihre Daten wiederherstellen
     .description = Stellen Sie Ihre { -brand-product-name }-Daten aus der letzten Sicherung wieder her.
-settings-data-backup-restore-scheduled-off =
     .label = Ihre Daten wiederherstellen
+settings-data-backup-restore-scheduled-off =
     .description = Benutzen Sie eine { -brand-product-name }-Sicherung von einem anderen Gerät zur Wiederherstellung Ihrer Daten.
-
-##
-
+    .label = Ihre Daten wiederherstellen
 settings-sensitive-data =
     .label = Sensible Daten
 settings-data-toggle-encryption-support-link = Weitere Informationen
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> erstellt am { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } auf { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> erstellt am { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } auf { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Wiederhergestellt von { $deviceName } am { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } um { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Wiederhergestellt von { $deviceName } am { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } um { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Diese Datei funktioniert nicht. Versuchen Sie, eine andere Datei zu wählen. <a data-l10n-name="restore-problems">Haben Sie weiterhin Probleme?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Keine Datei ausgewählt

@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Partekatu Mac erabiliz…
            *[other] Partekatu honekin…
         }
-share-panel-os-share =
-    .label = Partekatu honekin…
 share-panel-mail =
     .label = Bidali mezu elektronikoa
 share-panel-screenshot =
     .label = Hartu pantaila-argazkia
 share-panel-qr-code-2 =
     .label = Sortu QR kodea
-share-panel-qr-code =
-    .label = Partekatu QR kodea
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Gehitu gailua
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Konektatu beste gailu bat
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Ez duzu zure gailua ikusten?
-share-panel-os-share-subview =
-    .title = Partekatu honekin…

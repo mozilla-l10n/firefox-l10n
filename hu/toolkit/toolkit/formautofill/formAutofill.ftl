@@ -31,7 +31,6 @@ autofill-options-link = Automatikus űrlapkitöltési beállítások
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = Az összes mentett kártya szinkronizálása a saját eszközök közt
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Elmenti biztonságosan ezt a kártyát?
 credit-card-save-doorhanger-description = A { -brand-short-name } titkosítja a kártyaszámát. A biztonsági kód nem lesz mentve.
 credit-card-capture-save-button =
@@ -43,9 +42,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Sose mentsen el kártyákat
     .accessKey = S
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Kártya frissítése?
 credit-card-update-doorhanger-description = Frissítendő kártya:
 credit-card-capture-save-new-button =
@@ -65,15 +61,6 @@ autofill-manage-payment-methods-label = Fizetési módok kezelése
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

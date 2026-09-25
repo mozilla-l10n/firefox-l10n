@@ -10,8 +10,8 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .label = 브라우저 아이콘
     .description = 작업 표시줄, 바탕 화면, 시작 메뉴에 표시할 맞춤 아이콘을 선택하세요.
+    .label = 브라우저 아이콘
 appearance-browser-icon-button =
     .label = 브라우저 아이콘 변경
 
@@ -22,8 +22,8 @@ appearance-browser-icon-button =
 appearance-browser-icon-subpage-title =
     .heading = 아이콘 더보기
 
-## Icons are organized into two groups: "Standard" and "Special". The icons in
-## the "Special" group only become available when the user has set the browser
+## Icons are organized into two groups: "Standard" and "Bonus". The icons in
+## the "Bonus" group only become available when the user has set the browser
 ## as the default and pinned its launcher to the taskbar.
 
 appearance-browser-icon-basic-group =
@@ -65,5 +65,5 @@ appearance-browser-icon-pixelated =
 # @heyheymomodraws is the social-media handle of the icon's author and must be
 # kept verbatim - do not translate or otherwise change it.
 appearance-browser-icon-momo =
-    .label = Momo
     .description = @heyheymomodraws 제작
+    .label = Momo

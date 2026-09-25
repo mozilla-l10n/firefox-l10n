@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Mac으로 공유…
            *[other] 공유…
         }
-share-panel-os-share =
-    .label = 공유…
 share-panel-mail =
     .label = 이메일 보내기
 share-panel-screenshot =
     .label = 스크린샷 찍기
 share-panel-qr-code-2 =
     .label = QR 코드 생성
-share-panel-qr-code =
-    .label = QR 코드 공유
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = 기기 추가
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = 다른 기기 연결
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = 사용자의 기기가 없나요?
-share-panel-os-share-subview =
-    .title = 공유…

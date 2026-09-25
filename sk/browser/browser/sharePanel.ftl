@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Zdieľať so systémom Mac…
            *[other] Zdieľať pomocou…
         }
-share-panel-os-share =
-    .label = Zdieľať pomocou…
 share-panel-mail =
     .label = Odoslať e‑mail
 share-panel-screenshot =
     .label = Urobiť snímku obrazovky
 share-panel-qr-code-2 =
     .label = Vygenerovať QR kód
-share-panel-qr-code =
-    .label = Zdieľať QR kód
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Pridať zariadenie
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Pripojiť ďalšie zariadenie
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Nevidíte svoje zariadenie?
-share-panel-os-share-subview =
-    .title = Zdieľať pomocou…

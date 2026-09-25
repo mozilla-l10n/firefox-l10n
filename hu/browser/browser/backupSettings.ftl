@@ -20,8 +20,8 @@ backup-folder-name = { -brand-product-name } helyreállítása
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } biztonsági mentés
 settings-data-backup-header2 =
-    .label = Biztonsági mentés
     .description = Automatikusan védje meg a könyvjelzőit, előzményeit és egyéb adatait.
+    .label = Biztonsági mentés
 settings-data-backup-toggle = Biztonsági mentés kezelése
 settings-data-backup-toggle-on2 =
     .label = Biztonsági mentés bekapcsolása
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Szerkesztés…
 settings-data-create-backup-error = Hiba történt biztonsági mentés létrehozása során, ekkor: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Készítsen biztonsági mentést jelszavairól és fizetési módjairól, valamint tartsa minden adatát biztonságban titkosítással.
 settings-data-toggle-encryption-label2 =
-    .label = Készítsen biztonsági mentést a bizalmas adatairól
     .description = Készítsen biztonsági mentést a jelszavairól és fizetési módjairól, továbbá a titkosítás használatával tartsa biztonságban az adatait.
+    .label = Készítsen biztonsági mentést a bizalmas adatairól
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Fájlnév: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Adatok helyreállítása
     .description = Állítsa helyre a { -brand-product-name } adatait a legutóbbi biztonsági mentésből.
-settings-data-backup-restore-scheduled-off =
     .label = Adatok helyreállítása
+settings-data-backup-restore-scheduled-off =
     .description = Használja egy másik eszközön lévő { -brand-product-name } biztonsági mentését, hogy helyreállítsa az adatait.
-
-##
-
+    .label = Adatok helyreállítása
 settings-sensitive-data =
     .label = Érzékeny adatok
 settings-data-toggle-encryption-support-link = További tudnivalók
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> létrehozva: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a következőn: { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> létrehozva: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } a következőn: { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Helyreállítva erről: { $deviceName }, ekkor: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Helyreállítva erről: { $deviceName }, ekkor: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Ez a fájl nem működik. Próbáljon meg egy másik fájlt kiválasztani. <a data-l10n-name="restore-problems">Továbbra is fennáll a problémája?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nincs kijelölve fájl

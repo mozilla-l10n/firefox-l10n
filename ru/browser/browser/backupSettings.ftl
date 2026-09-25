@@ -20,8 +20,8 @@ backup-folder-name = Восстановить { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Резервная копия { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Резервное копирование
     .description = Автоматически защищает ваши закладки, историю и другие данные.
+    .label = Резервное копирование
 settings-data-backup-toggle = Управлять резервным копированием
 settings-data-backup-toggle-on2 =
     .label = Включить резервное копирование
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Изменить…
 settings-data-create-backup-error = При создании вашей резервной копии произошла ошибка { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Сделайте резервную копию своих паролей и способов оплаты, а также обеспечьте безопасность всех своих данных с помощью шифрования.
 settings-data-toggle-encryption-label2 =
-    .label = Создавать резервные копии конфиденциальных данных
     .description = Резервируйте свои пароли и способы оплаты, а также держите в безопасности все свои данные с помощью шифрования.
+    .label = Создавать резервные копии конфиденциальных данных
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Имя файла: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Восстановление данных
     .description = Восстановите свои данные { -brand-product-name } из последней резервной копии.
-settings-data-backup-restore-scheduled-off =
     .label = Восстановление данных
+settings-data-backup-restore-scheduled-off =
     .description = Используйте резервную копию { -brand-product-name } с другого устройства для восстановления своих данных.
-
-##
-
+    .label = Восстановление данных
 settings-sensitive-data =
     .label = Конфиденциальные данные
 settings-data-toggle-encryption-support-link = Подробнее
@@ -257,11 +254,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> создан { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } на { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> создан { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } на { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Восстановлено с { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } в { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Восстановлено с { $deviceName } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } в { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = С этим файлом что-то не так. Попробуйте выбрать другой файл. <a data-l10n-name="restore-problems">Все ещё остались проблемы?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Файл не выбран

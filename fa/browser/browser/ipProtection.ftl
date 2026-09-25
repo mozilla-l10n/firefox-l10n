@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = معرفی VPN، اکنون درست درون مرورگر شما
 ipprotection-feature-introduction-title-1 = ‏VPN داخلی { -brand-product-name } را امتحان کنید
 ipprotection-feature-introduction-link-text-2 = از <a data-l10n-name="learn-more-vpn">VPN داخلی</a> جدید ما برای پنهان کردن موقعیت مکانی و محافظت از داده‌های خود استفاده کنید.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = افزودن لایهٔ دیگری از حریم‌خصوصی
 ipprotection-feature-introduction-link-text-privacy-1 = ‏<a data-l10n-name="learn-more-vpn">VPN داخلی { -brand-product-name }</a> به محافظت از وب‌گردی شما کمک می‌کند. از میان چندین موقعیت مکانی انتخاب کنید تا مکان وب‌گردی‌تان خصوصی‌تر بماند.
 ipprotection-feature-introduction-link-text-privacy-2 = ‏<a data-l10n-name="learn-more-vpn">VPN داخلی { -brand-product-name }</a> به محافظت از وب‌گردی شما کمک می‌کند. از میان چندین موقعیت مکانی انتخاب کنید تا مکان وب‌گردی‌تان خصوصی‌تر بماند.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = برنامه‌ای بر�
 ipprotection-feature-introduction-description-summer-promo = با VPN داخلی { -brand-product-name } فراتر بروید: موقعیت‌های مکانی بیشتر و پهنای باند نامحدود. مهلت تا ۳۱ اوت.
 ipprotection-feature-introduction-link-text-private-browsing-2 = از <a data-l10n-name="learn-more-vpn">VPN داخلی</a> جدید ما برای پنهان کردن موقعیت مکانی و حفاظت از داده‌ها، حتی در پنجرهٔ ناشناس، استفاده کنید.
 ipprotection-feature-introduction-description-private-browsing = حتی در پنجرهٔ ناشناس، با پنهان کردن موقعیت مکانی خود با امنیت بیشتری وب‌گردی کنید.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = به Wi-Fi عمومی متصل هستید؟ VPN داخلی { -brand-product-name } را امتحان کنید.
 ipprotection-feature-introduction-description-captive-portal = حتی روی Wi-Fi عمومی، با پنهان کردن موقعیت مکانی با محافظت بیشتری وب‌گردی کنید.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = حذف VPN از نوار ابزار
 ipprotection-feature-introduction-button-open-vpn = باز کردن VPN
 ipprotection-feature-introduction-button-get-started = شروع کنید
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = ‏{ -
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = با { -mozilla-vpn-brand-name } ارتقا پیدا کنید
 ipprotection-summer-promo-offramp-subscription-upsell-description = پس از ۳۱ اوت، پهنای باند نامحدود را با بیش از ۳۰۰ موقعیت مکانی روی ۵ دستگاه نگه دارید تا ردگیری فعالیت‌های وب‌گردی شما به حداقل برسد.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = باز کردن VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = تنظیم به عنوان پیش‌فرض
 ipprotection-summer-promo-offramp-get-subscription-button = دریافت { -mozilla-vpn-brand-name }

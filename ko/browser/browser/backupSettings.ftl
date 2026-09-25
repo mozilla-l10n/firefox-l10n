@@ -20,8 +20,8 @@ backup-folder-name = { -brand-product-name } 복원
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }백업
 settings-data-backup-header2 =
-    .label = 백업
     .description = 북마크, 기록, 기타 데이터를 자동으로 보호하세요.
+    .label = 백업
 settings-data-backup-toggle = 백업 관리
 settings-data-backup-toggle-on2 =
     .label = 백업 켜기
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = 편집…
 settings-data-create-backup-error = 백업을 만드는 중에 오류가 발생했습니다.  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = 비밀번호와 결제 수단을 백업하고 모든 데이터를 암호화하여 안전하게 보관하세요.
 settings-data-toggle-encryption-label2 =
-    .label = 민감한 데이터 백업
     .description = 비밀번호와 결제 수단을 백업하고, 암호화로 모든 데이터를 안전하게 보관하세요.
+    .label = 민감한 데이터 백업
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = 파일 이름: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = 데이터 복원
     .description = { -brand-product-name } 데이터를 마지막으로 백업된 시점으로 복원하세요.
-settings-data-backup-restore-scheduled-off =
     .label = 데이터 복원
+settings-data-backup-restore-scheduled-off =
     .description = 다른 기기의 { -brand-product-name } 백업을 사용하여 데이터를 복원하세요.
-
-##
-
+    .label = 데이터 복원
 settings-sensitive-data =
     .label = 민감한 데이터
 settings-data-toggle-encryption-support-link = 더 알아보기
@@ -252,11 +249,11 @@ other-backup-files-founds = <b>주의:</b> 다른 백업 파일 { $numberOfOther
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = { $machineName }에서 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }에 생성된 <b>{ $profileName }</b>
+backup-file-creation-metadata2 = { $machineName }에서 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }에 생성된 <b>{ $profileName }</b>
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }에 { $deviceName }에서 복원됨
+backup-restored-profile-name = { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }에 { $deviceName }에서 복원됨
 backup-file-restore-file-validation-error = 이 파일은 작동하지 않습니다. 다른 파일을 선택해 보세요. <a data-l10n-name="restore-problems">여전히 문제가 해결되지 않았나요?</a>
 restore-from-backup-filepicker-input =
     .placeholder = 선택된 파일 없음

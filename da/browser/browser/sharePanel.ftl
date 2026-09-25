@@ -24,10 +24,6 @@ share-panel-qr-code-2 =
 share-panel-connect-device-2 =
     .label = Tilføj en enhed
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Opret forbindelse til en ny enhed
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Kan du ikke se din enhed?

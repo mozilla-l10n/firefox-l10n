@@ -20,8 +20,8 @@ backup-folder-name = Възстановяване на { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } Резервни копия
 settings-data-backup-header2 =
-    .label = Архивиране
     .description = Автоматично защитава вашите отметки, история и други данни.
+    .label = Архивиране
 settings-data-backup-toggle = Управление на резервните копия
 settings-data-backup-toggle-on2 =
     .label = Включване на резервните копия
@@ -46,8 +46,8 @@ settings-data-create-backup-error = Възникна грешка при съз�
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Име на файл: { $fileName }
 settings-data-backup-restore-scheduled-off =
-    .label = Възстановяване на вашите данни
     .description = Използване на архив на { -brand-product-name } от друго устройство за възстановяване на данните.
+    .label = Възстановяване на вашите данни
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 

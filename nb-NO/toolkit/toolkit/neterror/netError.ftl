@@ -39,9 +39,6 @@ neterror-search-cta-title = Dette nettstedet kan ikke nås
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Klarte ikke å koble til serveren på <strong>{ $hostname }</strong>.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Klarte ikke å koble til serveren på { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Prøv disse stegene:
 neterror-search-cta-hint-check-address = Dobbeltsjekk nettstedsadressen
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Last på nytt
     .accesskey = L
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Laster
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Du ser ut til å være frakoblet. Koble til igjen og prøv på nytt.

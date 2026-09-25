@@ -10,8 +10,8 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .label = أيقونة المتصفح
     .description = اختر أيقونة مخصّصة لشريط مهامك وسطح مكتبك وقائمة البدء
+    .label = أيقونة المتصفح
 appearance-browser-icon-button =
     .label = غيّر أيقونة المتصفح
 
@@ -22,8 +22,8 @@ appearance-browser-icon-button =
 appearance-browser-icon-subpage-title =
     .heading = المزيد من الأيقونات
 
-## Icons are organized into two groups: "Standard" and "Special". The icons in
-## the "Special" group only become available when the user has set the browser
+## Icons are organized into two groups: "Standard" and "Bonus". The icons in
+## the "Bonus" group only become available when the user has set the browser
 ## as the default and pinned its launcher to the taskbar.
 
 appearance-browser-icon-basic-group =

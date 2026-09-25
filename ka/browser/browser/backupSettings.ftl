@@ -20,8 +20,8 @@ backup-folder-name = აღადგინეთ { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-მარქაფი
 settings-data-backup-header2 =
-    .label = მარქაფი
     .description = თავისთავადი დაცვა სანიშნების, ისტორიისა და სხვა მონაცემების.
+    .label = მარქაფი
 settings-data-backup-toggle = მარქაფის მართვა
 settings-data-backup-toggle-on2 =
     .label = მარქაფის ჩართვა
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = ჩასწორება…
 settings-data-create-backup-error = შეცდომა წარმოიშვა მარქაფისას – { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = დაამარქაფეთ თქვენი პაროლები, გადახდის საშუალებები და, ამასთანავე, უსაფრთხოდ შეინახეთ ყველა მონაცემი დაშიფვრით.
 settings-data-toggle-encryption-label2 =
-    .label = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
     .description = დაამარქაფეთ პაროლები და გადახდის საშუალებები, ამასთანავე, დაცულად იქონიეთ ყველა მონაცემი დაშიფვრის მეშვეობით.
+    .label = დაამარქაფეთ თქვენი საფრთხილო მონაცემები
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = ფაილის სახელი: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = აღადგინეთ თქვენი მონაცემები
     .description = { -brand-product-name } აღადგენს ბოლოს დამარქაფებულ მონაცემებს
-settings-data-backup-restore-scheduled-off =
     .label = აღადგინეთ თქვენი მონაცემები
+settings-data-backup-restore-scheduled-off =
     .description = გამოიყენეთ { -brand-product-name } სხვა მოწყობილობაზე დამარქაფებისთვის და აქ შეძლებთ აღდგენას
-
-##
-
+    .label = აღადგინეთ თქვენი მონაცემები
 settings-sensitive-data =
     .label = საფრთხილო მონაცემები
 settings-data-toggle-encryption-support-link = ვრცლად
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> შექმნის დროით { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, მოწყობ. { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> შექმნის დროით { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }, მოწყობ. { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = აღდგენილია წყაროა { $deviceName } თარიღით { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } თარიღზე { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = აღდგენილია წყაროა { $deviceName } თარიღით { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } თარიღზე { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = ეს ფაილი გამოუსადეგარია. სცადეთ სხვა ფაილის არჩევა. <a data-l10n-name="restore-problems">მაინც არ მოგვარდა?</a>
 restore-from-backup-filepicker-input =
     .placeholder = ფაილი არჩეული არაა

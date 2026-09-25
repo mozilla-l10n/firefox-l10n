@@ -26,7 +26,6 @@ autofill-options-link = Opcións de completado automático de formularios
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todas as tarxetas gardadas nos meus dispositivos
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Gardar esta tarxeta de forma segura?
 credit-card-save-doorhanger-description = { -brand-short-name } cifra o número da túa tarxeta. O teu código de seguridade non se gardará.
 credit-card-capture-save-button =
@@ -38,9 +37,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Nunca gardar tarxetas
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Actualizar a tarxeta?
 credit-card-update-doorhanger-description = Tarxeta para actualizar:
 credit-card-capture-save-new-button =
@@ -55,15 +51,6 @@ autofill-clear-form-label = Borrar o completado automático do formulario
 autofill-manage-addresses-label = Xestionar enderezos
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Xestionar métodos de pago
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

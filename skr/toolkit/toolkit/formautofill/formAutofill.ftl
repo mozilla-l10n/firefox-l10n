@@ -26,7 +26,6 @@ autofill-options-link = فارم آٹو فل اختیارات
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = سبھے محفوظ کِیتے ڳئے کارڈز کوں میݙے سبھے ڈیوائساں اُتے ہم وقت بݨاؤ
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = ایہ کارڈ حفاظت نال محفوظ کروں؟
 credit-card-save-doorhanger-description = { -brand-short-name } تُہاݙے کارڈ لمبر کوں لُکّل کرین٘دا ہِے۔ تُہاݙا سیکیورٹی کوڈ محفوظ نہ تھیسی۔
 credit-card-capture-save-button =
@@ -38,9 +37,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = کݙان٘ہیں وی کارڈ محفوظ نہ کرو
     .accessKey = این
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = کارڈ اپ ڈیٹ کروں؟
 credit-card-update-doorhanger-description = اپ ڈیٹ کرݨ کِیتے کارڈ:
 credit-card-capture-save-new-button =
@@ -55,15 +51,6 @@ autofill-clear-form-label = آٹوفل فارم صاف کرو
 autofill-manage-addresses-label = پتے مُرتّب کرو
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = محفوظ تھئے ادائیگی دے طریقے مُرتّب کرو
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

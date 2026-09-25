@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo vašom prehliadači
 ipprotection-feature-introduction-title-1 = Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }
 ipprotection-feature-introduction-link-text-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu svojich údajov.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Pridajte ďalšiu vrstvu súkromia
 ipprotection-feature-introduction-link-text-privacy-1 = Vstavaná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z niekoľkých lokalít, aby ste si zachovali súkromie pri prehliadaní.
 ipprotection-feature-introduction-link-text-privacy-2 = VPN vstavaná vo <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "loc") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z viacerých lokalít, aby ste si zachovali väčšie súkromie pri prehliadaní.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Máte cestovné plány? V
 ipprotection-feature-introduction-description-summer-promo = Zájdite ďalej s VPN vstavanou vo { -brand-product-name(case: "loc") }: viac lokalít, neobmedzená šírka pásma. Platí do 31. augusta.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
 ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Používate verejnú Wi‑Fi sieť? Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }.
 ipprotection-feature-introduction-description-captive-portal = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj na verejných Wi‑Fi sieťach.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odstrániť VPN z panela nástrojov
 ipprotection-feature-introduction-button-open-vpn = Otvoriť VPN
 ipprotection-feature-introduction-button-get-started = Začíname
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Urobte
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Posuňte sa na vyššiu úroveň s { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Ponechajte si neobmedzenú šírku pásma aj po 31. auguste s viac ako 300 lokalitami na 5 zariadeniach, aby bolo vaše prehliadanie ťažšie vystopovať.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otvoriť VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Nastaviť ako predvolený
 ipprotection-summer-promo-offramp-get-subscription-button = Získajte { -mozilla-vpn-brand-name }

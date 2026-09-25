@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
 ipprotection-feature-introduction-title-1 = Rhowch gynnig ar VPN cynhenid { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifatrwydd
 ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN cynhenid { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-privacy-2 = Mae <a data-l10n-name="learn-more-vpn"> VPN cynhenid { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o leoliadau lluosog i gadw lle rydych chi'n pori'n fwy preifat.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Oes gennych chi gynllunia
 ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda VPN cynhenid { -brand-product-name }: mwy o leoliadau, lled band diderfyn. Nawr tan Awst 31.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN cynhenid { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Tynnu VPN o'r bar offer
 ipprotection-feature-introduction-button-open-vpn = Agor y VPN
 ipprotection-feature-introduction-button-get-started = Cychwyn arni
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Gwnewc
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Manteision ychwanegol gyda { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Cadwch led band diderfyn ar ôl Awst 31, gyda mwy na 300 o leoliadau ar 5 dyfais i'w gwneud yn anoddach tracio eich pori yn ôl atoch chi.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Agor y VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Gosod fel yr arferol
 ipprotection-summer-promo-offramp-get-subscription-button = Cael { -mozilla-vpn-brand-name }

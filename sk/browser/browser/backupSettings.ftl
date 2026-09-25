@@ -20,8 +20,8 @@ backup-folder-name = Obnovenie { -brand-product-name(case: "gen") }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Zaloha{ -brand-product-name(case: "gen") }
 settings-data-backup-header2 =
-    .label = Záloha
     .description = Automaticky chráni vaše záložky, históriu a ďalšie údaje.
+    .label = Záloha
 settings-data-backup-toggle = Spravovať zálohovanie
 settings-data-backup-toggle-on2 =
     .label = Zapnúť zálohovanie
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Upraviť…
 settings-data-create-backup-error = Pri vytváraní zálohy dňa { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } sa vyskytla chyba
 settings-sensitive-data-encryption-description = Zálohujte si heslá a spôsoby platby a zároveň uložte všetky svoje údaje do bezpečia pomocou šifrovania.
 settings-data-toggle-encryption-label2 =
-    .label = Zálohovať citlivé údaje
     .description = Zálohujte si heslá a spôsoby platby a zároveň uložte všetky svoje údaje do bezpečia pomocou šifrovania.
+    .label = Zálohovať citlivé údaje
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Názov súboru: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Obnoviť údaje
     .description = Obnovte si dáta { -brand-product-name(case: "gen") } z poslednej zálohy.
-settings-data-backup-restore-scheduled-off =
     .label = Obnoviť údaje
+settings-data-backup-restore-scheduled-off =
     .description = Na obnovenie údajov použite zálohu { -brand-product-name(case: "gen") } z iného zariadenia.
-
-##
-
+    .label = Obnoviť údaje
 settings-sensitive-data =
     .label = Citlivé údaje
 settings-data-toggle-encryption-support-link = Ďalšie informácie
@@ -258,11 +255,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> vytvorený dňa { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> vytvorený dňa { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } na { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Obnovený zo zariadenia { $deviceName } dňa { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } o { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Obnovený zo zariadenia { $deviceName } dňa { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } o { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Tento súbor nefunguje. Skúste vybrať iný súbor. <a data-l10n-name="restore-problems">Stále máte problémy?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nie je vybraný žiadny súbor

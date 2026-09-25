@@ -39,9 +39,6 @@ neterror-search-cta-title = 사이트에 연결할 수 없음
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = <strong>{ $hostname }</strong> 서버에 연결할 수 없습니다.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = { $domain } 서버에 연결할 수 없습니다.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = 다음 단계를 시도해 보세요:
 neterror-search-cta-hint-check-address = 웹 사이트 주소를 다시 확인해 보세요
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = 새로 고침
     .accesskey = R
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = 로드 중
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = 오프라인 상태인 것 같습니다. 다시 연결하고 시도하세요.

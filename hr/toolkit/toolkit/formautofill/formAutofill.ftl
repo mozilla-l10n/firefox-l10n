@@ -26,7 +26,6 @@ autofill-options-link = Mogućnosti automatskog popunjavanja obrazaca
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = Sinkroniziraj sve spremljene kartice na moje uređaje
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Sigurno spremi ovu karticu?
 credit-card-save-doorhanger-description = { -brand-short-name } šifrira broj vaše kartice. Vaš sigurnosni kod neće biti spremljen.
 credit-card-capture-save-button =
@@ -38,9 +37,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Nikad ne spremaj kartice
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Aktualizirati kreditnu karticu?
 credit-card-update-doorhanger-description = Kreditna kartica za aktualiziranje:
 credit-card-capture-save-new-button =
@@ -55,15 +51,6 @@ autofill-clear-form-label = Izbriši automatski ispunjen obrazac
 autofill-manage-addresses-label = Upravljaj adresama
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Upravljaj načinima plaćanja
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

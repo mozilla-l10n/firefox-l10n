@@ -20,8 +20,8 @@ backup-folder-name = Eguerujey { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Ñongatujey
 settings-data-backup-header2 =
-    .label = Ñongatujey
     .description = Emo’ã ijehegui nde rechaukaha, tembiasakue ha ambue mba’e’oka.
+    .label = Ñongatujey
 settings-data-backup-toggle = Ñongatujey ñangareko
 settings-data-backup-toggle-on2 =
     .label = Emyandy ñongatujey
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Mbosako’i…
 settings-data-create-backup-error = Oiko jejavy eñongatu jey pyahúvo pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Eñongatu jey ñe’ẽñemi tekorosãrã ha jehepyme’ẽrã, avei ereko hag̃ua ne mba’ekuaarã papapýpe.
 settings-data-toggle-encryption-label2 =
-    .label = Eñongatu jey ne mba’ekuaarã ñemigua
     .description = Eñongatu jey ne ñe’ẽñemi ha jehepyme’ẽrã, avei ereko ne mba’ekuaarãita tekorosãme mbopapapy ndive.
+    .label = Eñongatu jey ne mba’ekuaarã ñemigua
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Marandurenda réra: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Erujey mba’ekuaarãita
     .description = Eguerujey mba’ekuaarãita { -brand-product-name } eñengatu jey rire tekorosãverã.
+    .label = Erujey mba’ekuaarãita
 settings-data-backup-restore-scheduled-off =
-    .label = Eru jey mba’ekuaarãita
     .description = Eiporu ñongatu jey { -brand-product-name } mba’e ambue mba’e’oka eru jey hag̃ua ne mba’ekuaarãita.
-
-##
-
+    .label = Eru jey mba’ekuaarãita
 settings-sensitive-data =
     .label = Mba’ekuaarã oñandúva
 settings-data-toggle-encryption-support-link = Kuaave
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> heñói { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { $machineName }-pe
+backup-file-creation-metadata2 = <b>{ $profileName }</b> heñói { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { $machineName }-pe
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Oñemoĩporã { $deviceName } guive { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } og̃uahẽvo { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Oñemoĩporã { $deviceName } guive { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } og̃uahẽvo { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Ko marandurenda ndoikói. Eñeha’ã eiporavo ambue marandurenda. <a data-l10n-name="restore-problems"> ¿Oĩ gueteri apañuái?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ndaipóri marandurenda poravopyre

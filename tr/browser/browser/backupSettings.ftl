@@ -20,8 +20,8 @@ backup-folder-name = { -brand-product-name } Geri Yukleme
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Yedek
 settings-data-backup-header2 =
-    .label = Yedekleme
     .description = Yer imlerinizi, geçmişinizi ve diğer verilerinizi otomatik olarak koruyun.
+    .label = Yedekleme
 settings-data-backup-toggle = Yedeklemeyi yönet
 settings-data-backup-toggle-on2 =
     .label = Yedeklemeyi etkinleştir
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Düzenle…
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") } { DATETIME($date, dateStyle: "short") } tarihinde yedeğiniz oluşturulurken bir hata oluştu
 settings-sensitive-data-encryption-description = Parolalarınızı ve ödeme yöntemlerinizi yedekleyin, şifreleme ile tüm verilerinizi güvende tutun.
 settings-data-toggle-encryption-label2 =
-    .label = Hassas verilerinizi yedekleyin
     .description = Parolalarınızı ve ödeme yöntemlerinizi yedekleyin, ayrıca tüm verilerinizi şifreleme ile güvende tutun.
+    .label = Hassas verilerinizi yedekleyin
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Dosya adı: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Verilerimi geri yükle
     .description = { -brand-product-name } verilerinizi son yedeklendikleri zamandan geri getirin.
-settings-data-backup-restore-scheduled-off =
     .label = Verilerimi geri yükle
+settings-data-backup-restore-scheduled-off =
     .description = Başka bir cihazdaki { -brand-product-name } yedeğinizi kullanarak verilerinizi geri getirin.
-
-##
-
+    .label = Verilerimi geri yükle
 settings-sensitive-data =
     .label = Hassas veriler
 settings-data-toggle-encryption-support-link = Daha fazla bilgi al
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } tarihinde { $machineName } adlı cihazda oluşturuldu
+backup-file-creation-metadata2 = <b>{ $profileName }</b> { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } tarihinde { $machineName } adlı cihazda oluşturuldu
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } tarihinde { $deviceName } adlı cihazdan geri yüklendi
+backup-restored-profile-name = { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } tarihinde { $deviceName } adlı cihazdan geri yüklendi
 backup-file-restore-file-validation-error = Bu dosya çalışmıyor. Başka bir dosya seçmeyi deneyin. <a data-l10n-name="restore-problems">Hâlâ sorun mu yaşıyorsunuz?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Dosya seçilmedi

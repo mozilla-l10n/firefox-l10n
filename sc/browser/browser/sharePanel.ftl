@@ -15,14 +15,10 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Ligòngiu copiadu
-share-panel-os-share =
-    .label = Cumpartzi cun…
 share-panel-mail =
     .label = Imbia unu messàgiu de posta eletrònica
 share-panel-screenshot =
     .label = Faghe una catura de s’ischermu
-share-panel-qr-code =
-    .label = Cumpartzi unu còdighe QR
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -33,5 +29,3 @@ share-panel-send-to-mobile =
     .label = Imbia a unu dispositivu mòbile
 share-panel-device-subview =
     .title = Totu is dispositivos
-share-panel-os-share-subview =
-    .title = Cumpartzi cun…

@@ -344,16 +344,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = Søk etter namn eller symbol
     .label = Søk
     .title = Søk etter namn eller symbol
-    .aria-label = Søk etter namn eller symbol
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = Søk etter namn eller symbol
     .label = Søk
     .title = Søk etter namn eller symbol
-    .aria-label = Søk etter namn eller symbol
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aksjar
@@ -518,9 +518,6 @@ newtab-recent-searches-just-now = Akkurat no
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Fjern «{ $search }» frå nylege søk
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søk
 # Screen reader label for the widget's icon-only menu button.
@@ -587,9 +584,6 @@ newtab-topsites-image-url-label = Tilpassa bilde-URL
 newtab-topsites-use-custom-image-link = Bruk eit tilpassa bilde
 newtab-topsites-use-image-link = Bruk eit tilpassa bilde…
 newtab-topsites-image-validation = Klarte ikkje å lesa bildet. Prøv ein annan URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Fjern tekst
 
@@ -1024,9 +1018,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Ein rev i høgre kant på oransje bakgrunn
 newtab-wallpaper-firefox-colorful-sky = Oransje bølgjer over ein lilla nattehimmel
 newtab-wallpaper-firefox-desert-dark = Ein rev som sit i ein mørkelilla ørken
@@ -1455,9 +1446,6 @@ newtab-promo-card-cta = Les meir
 newtab-promo-card-dismiss-button =
     .aria-label = Avvis
     .title = Avvis
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

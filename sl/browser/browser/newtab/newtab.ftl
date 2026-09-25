@@ -202,9 +202,6 @@ newtab-privacy-across-sites =
        *[other] na { $count } spletnih mestih
     }
 
-## Privacy widget — empty state
-
-
 ## Privacy widget — Enhanced Tracking Protection off state
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
@@ -313,16 +310,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = Iskanje po imenu ali simbolu
     .label = Iskanje
     .title = Iskanje po imenu ali simbolu
-    .aria-label = Iskanje po imenu ali simbolu
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = Iskanje po imenu ali simbolu
     .label = Iskanje
     .title = Iskanje po imenu ali simbolu
-    .aria-label = Iskanje po imenu ali simbolu
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Delnice
@@ -489,9 +486,6 @@ newtab-recent-searches-just-now = Pravkar
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Odstrani "{ $search }" iz nedavnih iskanj
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Iskanje
 # Screen reader label for the widget's icon-only menu button.
@@ -556,9 +550,6 @@ newtab-topsites-image-url-label = Spletni naslov slike po meri
 newtab-topsites-use-custom-image-link = Uporabi sliko po meri
 newtab-topsites-use-image-link = Uporabi sliko po meri …
 newtab-topsites-image-validation = Slike ni bilo mogoče naložiti. Poskusite drug spletni naslov.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Počisti besedilo
 
@@ -995,9 +986,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Lisica ob desnem robu oranžnega ozadja
 newtab-wallpaper-firefox-colorful-sky = Valovi oranžne barve na vijoličnem nočnem nebu
 newtab-wallpaper-firefox-desert-dark = Lisica, ki sedi v temnovijolični puščavi
@@ -1426,9 +1414,6 @@ newtab-promo-card-cta = Več o tem
 newtab-promo-card-dismiss-button =
     .aria-label = Opusti
     .title = Opusti
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1741,9 +1726,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ta prostor igra po vaših pravilih
 newtab-activation-window-message-values-focus-message = S { -brand-product-name(sklon: "orodnik") } lahko brskate, kakor želite, in si spletni začetek dneva naredite bolj oseben. Prilagodite si { -brand-product-name(sklon: "tožilnik") } po svojem okusu.
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

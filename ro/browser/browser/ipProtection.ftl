@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Îți prezentăm VPN-ul, acum direct în browser
 ipprotection-feature-introduction-title-1 = Încearcă VPN-ul încorporat { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Adaugă încă un strat de confidențialitate
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN-ul încorporat din { -brand-product-name }</a> ajută la protejarea ta în timpul navigării. Alege din mai multe locații ca să îți păstrezi mai private locurile pe unde intri.
 ipprotection-feature-introduction-link-text-privacy-2 = VPN-ul încorporat din <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> te ajută să îți protejezi navigările pe internet. Alege dintre locații multiple pentru confidențialitatea locurilor pe unde mergi pe internet.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Ai planuri de călătorie
 ipprotection-feature-introduction-description-summer-promo = Mergi mai departe cu VPN-ul încorporat în { -brand-product-name }: mai multe locații, lățime de bandă nelimitată. Acum până pe 31 august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele, chiar și într-o fereastră privată.
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Ești într-o rețea Wi-Fi publică? Încearcă VPN-ul încorporat din { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și în Wi-Fi public.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Elimină VPN-ul din bara de instrumente
 ipprotection-feature-introduction-button-open-vpn = Deschide VPN-ul
 ipprotection-feature-introduction-button-get-started = Începe
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Fă { 
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Treci la un alt nivel cu { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Păstrează lățimea de bandă nelimitată după 31 august, cu peste 300 de locații pe 5 dispozitive, pentru ca navigarea ta să fie mai greu de urmărit până la tine.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Deschide VPN-ul
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Setează ca implicit
 ipprotection-summer-promo-offramp-get-subscription-button = Obține { -mozilla-vpn-brand-name }

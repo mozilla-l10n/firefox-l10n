@@ -20,8 +20,8 @@ backup-folder-name = 還原 { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header2 =
-    .label = 備份
     .description = 自動保護您的書籤、瀏覽紀錄與其他資料。
+    .label = 備份
 settings-data-backup-toggle = 管理備份
 settings-data-backup-toggle-on2 =
     .label = 開啟備份
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = 編輯…
 settings-data-create-backup-error = 於 { DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") } 進行備份時，發生錯誤
 settings-sensitive-data-encryption-description = 加密備份您的網站密碼與付款方式，確保資料安全。
 settings-data-toggle-encryption-label2 =
-    .label = 備份您的敏感資料
     .description = 除了其他資料外，以加密方式備份您的網站密碼、付款方式。
+    .label = 備份您的敏感資料
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = 檔案名稱：{ $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = 還原您的資料
     .description = 從最後一次備份還原您的 { -brand-product-name } 資料。
-settings-data-backup-restore-scheduled-off =
     .label = 還原您的資料
+settings-data-backup-restore-scheduled-off =
     .description = 使用另一台裝置上的 { -brand-product-name } 備份資料來還原。
-
-##
-
+    .label = 還原您的資料
 settings-sensitive-data =
     .label = 敏感資料
 settings-data-toggle-encryption-support-link = 了解更多
@@ -252,11 +249,11 @@ other-backup-files-founds = <b>註：</b>找到另 { $numberOfOtherBackupsFound 
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 建立於 { $machineName } 的 <b>{ $profileName }</b> 備份
+backup-file-creation-metadata2 = 於 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } 建立於 { $machineName } 的 <b>{ $profileName }</b> 備份
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = 從 { $deviceName } 於 { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } 還原
+backup-restored-profile-name = 從 { $deviceName } 於 { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } 還原
 backup-file-restore-file-validation-error = 無法使用這個檔案，請改選其他檔案後再試一次。<a data-l10n-name="restore-problems">還是有問題嗎？</a>
 restore-from-backup-filepicker-input =
     .placeholder = 未選擇檔案

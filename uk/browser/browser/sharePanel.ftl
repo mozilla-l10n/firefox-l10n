@@ -15,14 +15,10 @@ share-panel-copy-link =
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Посилання скопійовано
-share-panel-os-share =
-    .label = Поділитися з…
 share-panel-mail =
     .label = Надіслати електронний лист
 share-panel-screenshot =
     .label = Зробити знімок екрана
-share-panel-qr-code =
-    .label = Поділитися QR-кодом
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -34,12 +30,6 @@ share-panel-send-to-mobile =
 share-panel-device-subview =
     .title = Усі пристрої
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Під'єднати інший пристрій
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Не бачите свій пристрій?
-share-panel-os-share-subview =
-    .title = Поділитися з…

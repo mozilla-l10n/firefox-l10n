@@ -23,9 +23,6 @@ settings-data-backup-last-backup-location-edit = തിരുത്തുക…
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = ഫയലിന്റെ പേരു് : { $fileName }
-
-##
-
 settings-data-toggle-encryption-support-link = കൂടുതല്‍ അറിയുക
 settings-data-change-password2 =
     .label = ഒളിവാക്കു മാറ്റുക

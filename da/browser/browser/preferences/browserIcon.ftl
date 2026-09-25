@@ -14,8 +14,8 @@
 appearance-browser-icon-subpage-title =
     .heading = Flere ikoner
 
-## Icons are organized into two groups: "Standard" and "Special". The icons in
-## the "Special" group only become available when the user has set the browser
+## Icons are organized into two groups: "Standard" and "Bonus". The icons in
+## the "Bonus" group only become available when the user has set the browser
 ## as the default and pinned its launcher to the taskbar.
 
 appearance-browser-icon-basic-group =
@@ -46,5 +46,5 @@ appearance-browser-icon-pixelated =
 # @heyheymomodraws is the social-media handle of the icon's author and must be
 # kept verbatim - do not translate or otherwise change it.
 appearance-browser-icon-momo =
-    .label = Momo
     .description = Skabt af @heyheymomodraws
+    .label = Momo

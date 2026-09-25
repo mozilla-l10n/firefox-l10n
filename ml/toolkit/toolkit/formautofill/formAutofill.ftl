@@ -16,12 +16,11 @@ autofill-edit-payment-method-os-prompt-macos = പണമടക്കൽമുറ
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } താങ്ങളുടെ കരുതിവച്ച പണമടക്കൽമുറ വിവരം കാണിപ്പിക്കാൻ ശ്രമിക്കുന്നു. താഴെ കൊടുത്തിരിക്കുന്ന വിണ്ടോസ് അക്കൗണ്ടിലേക്കു് പ്രവേശനം ഉറപ്പിക്കുക
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } കരുതിവച്ച പണമടക്കൽമുറ വിവരം കാണിപ്പിക്കാൻ ശ്രമിക്കുന്നു.
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = ഉപകരണങ്ങൾ കുറുകെ കരുതിവച്ച ചീട്ടുകളെ സമന്വയിപ്പിക്കുക
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = ഈ ചീട്ടു് സുരക്ഷിതമായി കരുതിവയ്ക്കട്ടെ?
 credit-card-save-doorhanger-description = { -brand-short-name } താങ്ങളുടെ ചീട്ടക്കം രൂപമാറ്റം ചെയ്യും. താങ്ങളുടെ സുരക്ഷസങ്കേതം കരുതിവയ്ക്കപ്പെടില്ല.
 credit-card-capture-save-button =

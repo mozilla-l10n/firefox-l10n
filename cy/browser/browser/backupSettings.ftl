@@ -20,8 +20,8 @@ backup-folder-name = Adfer { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Copïo wrth Gefn { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Copïo wrth Gefn
     .description = Diogelwch eich nodau tudalen, hanes a data arall.
+    .label = Copïo wrth Gefn
 settings-data-backup-toggle = Rheoli copïo wrth gefn
 settings-data-backup-toggle-on2 =
     .label = Troi copïo wrth gefn ymlaen
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Golygu…
 settings-data-create-backup-error = Bu gwall wrth greu eich copi wrth gefn ar { DATETIME($date, timeStyle: "short") } , { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Gwnewch gopi wrth gefn o'ch cyfrineiriau a'ch dulliau talu, a chadw eich holl ddata'n ddiogel drwy amgryptio.
 settings-data-toggle-encryption-label2 =
-    .label = Gwneud copi wrth gefn o'ch data sensitif
     .description = Gwnewch gopi wrth gefn o'ch cyfrineiriau a dulliau talu, a chadw'ch data'n ddiogel gydag amgryptio.
+    .label = Gwneud copi wrth gefn o'ch data sensitif
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Enw ffeil: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Adfer eich data
     .description = Adfer eich data { -brand-product-name } o'r tro diwethaf cafodd ei gadw wrth gefn.
-settings-data-backup-restore-scheduled-off =
     .label = Adfer eich data
+settings-data-backup-restore-scheduled-off =
     .description = Defnyddio copi wrth gefn { -brand-product-name } o ddyfais arall i adfer eich data.
-
-##
-
+    .label = Adfer eich data
 settings-sensitive-data =
     .label = Data sensitif
 settings-data-toggle-encryption-support-link = Dysgu rhagor
@@ -260,11 +257,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = Cafodd <b>{ $profileName }</b> ei greu ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ar { $machineName }
+backup-file-creation-metadata2 = Cafodd <b>{ $profileName }</b> ei greu ar { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ar { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Wedi'i adfer o { $deviceName } ar { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } am { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Wedi'i adfer o { $deviceName } ar { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } am { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Nid yw'r ffeil hon yn gweithio. Ceisiwch ddewis ffeil wahanol. <a data-l10n-name="restore-problems">Dal yn cael problemau?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Heb ddewis ffeil

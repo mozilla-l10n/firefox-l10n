@@ -20,8 +20,8 @@ backup-folder-name = { -brand-product-name } reparearje
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-reservekopy
 settings-data-backup-header2 =
-    .label = Reservekopy
     .description = Automatysk jo blêdwizers, skiednis en oare gegevens beskermje.
+    .label = Reservekopy
 settings-data-backup-toggle = Reservekopy beheare
 settings-data-backup-toggle-on2 =
     .label = Reservekopyen ynskeakelje
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Bewurkje…
 settings-data-create-backup-error = Der is op { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } in flater bard by it meitsjen fan jo reservekopy
 settings-sensitive-data-encryption-description = Meitsje in reservekopy fan jo wachtwurden en betellingsmetoaden, en hâld al jo gegevens feilich mei fersifering.
 settings-data-toggle-encryption-label2 =
-    .label = In reservekopy fan jo gefoelige gegevens meitsje
     .description = In reservekopy fan jo wachtwurden en betellingsmetoaden meitsje, plus al jo gegevens feilich hâlde mei fersifering.
+    .label = In reservekopy fan jo gefoelige gegevens meitsje
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Bestânsnamme: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Jo gegevens werstelle
     .description = Jo { -brand-product-name }-gegevens werstelle fan de lêste reservekopy út.
-settings-data-backup-restore-scheduled-off =
     .label = Jo gegevens werstelle
+settings-data-backup-restore-scheduled-off =
     .description = In reservekopy fan { -brand-product-name } fan in oar apparaat brûke om jo gegevens te werstellen.
-
-##
-
+    .label = Jo gegevens werstelle
 settings-sensitive-data =
     .label = Gefoelige gegevens
 settings-data-toggle-encryption-support-link = Mear ynfo
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> makke op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } op { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> makke op { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } op { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Wersteld fan { $deviceName } ôf op { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } om { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Wersteld fan { $deviceName } ôf op { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } om { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Dit bestân wurket net. Probearje in oar bestân te kiezen. <a data-l10n-name="restore-problems">Noch hieltyd problemen?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Gjin bestân selektearre

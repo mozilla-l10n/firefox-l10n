@@ -20,8 +20,8 @@ backup-folder-name = Gendan { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }_sikkerhedskopi
 settings-data-backup-header2 =
-    .label = Sikkerhedskopiering
     .description = Beskyt automatisk dine bogmærker, historik og andre data.
+    .label = Sikkerhedskopiering
 settings-data-backup-toggle = Håndter sikkerhedskopiering
 settings-data-backup-toggle-on2 =
     .label = Slå sikkerhedskopiering til
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Rediger…
 settings-data-create-backup-error = Der opstod en fejl under oprettelsen af din sikkerhedskopi den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sikkerhedskopier dine adgangskoder og betalingsmetoder - og beskyt alle dine data med kryptering.
 settings-data-toggle-encryption-label2 =
-    .label = Sikkerhedskopier dine følsomme data
     .description = Sikkerhedskopier dine adgangskoder og betalingsmetoder - og beskyt alle dine data med kryptering.
+    .label = Sikkerhedskopier dine følsomme data
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnavn: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Gendan dine data
     .description = Gendan dine { -brand-product-name }-data fra den seneste sikkerhedskopi.
-settings-data-backup-restore-scheduled-off =
     .label = Gendan dine data
+settings-data-backup-restore-scheduled-off =
     .description = Brug en { -brand-product-name }-sikkerhedskopi fra en anden enhed til at gendanne dine data.
-
-##
-
+    .label = Gendan dine data
 settings-sensitive-data =
     .label = Følsomme data
 settings-data-toggle-encryption-support-link = Læs mere
@@ -255,11 +252,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> oprettet den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> oprettet den { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } på { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Gendannet fra { $deviceName } den { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } kl. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Gendannet fra { $deviceName } den { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } kl. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Filen virker ikke. Prøv at vælge en anden fil. <a data-l10n-name="restore-problems">Har du stadig problemer?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ingen fil valgt

@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Partajează cu Mac…
            *[other] Partajează cu…
         }
-share-panel-os-share =
-    .label = Partajează cu…
 share-panel-mail =
     .label = Trimite un mesaj pe e-mail
 share-panel-screenshot =
     .label = Fă o captură de ecran
 share-panel-qr-code-2 =
     .label = Creează cod QR
-share-panel-qr-code =
-    .label = Partajează codul QR
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Adaugă un dispozitiv
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Conectează alt dispozitiv
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Nu vezi dispozitivul?
-share-panel-os-share-subview =
-    .title = Partajează cu…

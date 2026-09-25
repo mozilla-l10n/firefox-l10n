@@ -20,8 +20,8 @@ backup-folder-name = Restaurar { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Backups da { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Copia da segirezza
     .description = Protegia automaticamain tes segnapaginas, tia cronologia ed autras datas.
+    .label = Copia da segirezza
 settings-data-backup-toggle = Administrar backups
 settings-data-backup-toggle-on2 =
     .label = Activar backups
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Modifitgar…
 settings-data-create-backup-error = Igl ha dà in’errur cun crear tes backup ils { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Fa copias da segirezza da tes pleds-clav e da tias metodas da pajament. Segirescha ultra da quai tut tias datas cun agida dal criptadi.
 settings-data-toggle-encryption-label2 =
-    .label = Fa copias da segirezza da tias datas sensiblas
     .description = Fa copias da segirezza da tes pleds-clav e da tias metodas da pajament e protegia tias datas cun criptadi.
+    .label = Fa copias da segirezza da tias datas sensiblas
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Num da datoteca: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Restaurar tias datas
     .description = Restaurescha tias datas da { -brand-product-name } dal mument cura che ti has fatg l’ultima giada ina copia da segirezza.
-settings-data-backup-restore-scheduled-off =
     .label = Restaurar tias datas
+settings-data-backup-restore-scheduled-off =
     .description = Utilisescha ina copia da segirezza da { -brand-product-name } d’in auter apparat per restaurar tias datas.
-
-##
-
+    .label = Restaurar tias datas
 settings-sensitive-data =
     .label = Datas sensiblas
 settings-data-toggle-encryption-support-link = Ulteriuras infurmaziuns
@@ -251,11 +248,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> creà ils { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } sin { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creà ils { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } sin { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Restaurà da { $deviceName } ils { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a las { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Restaurà da { $deviceName } ils { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } a las { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Questa datoteca na funcziuna betg. Emprova da tscherner in’autra datoteca. <a data-l10n-name="restore-problems">Has anc adina problems?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Tschernì nagina datoteca

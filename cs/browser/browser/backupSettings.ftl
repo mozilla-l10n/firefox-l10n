@@ -24,8 +24,8 @@ backup-file-name =
        *[no-cases] Zaloha{ -brand-product-name }
     }
 settings-data-backup-header2 =
-    .label = Zálohování
     .description = Automaticky chraňte své záložky, historii a další data.
+    .label = Zálohování
 settings-data-backup-toggle = Správa zálohování
 settings-data-backup-toggle-on2 =
     .label = Zapnout zálohování
@@ -48,28 +48,25 @@ settings-data-backup-last-backup-location-edit = Upravit…
 settings-data-create-backup-error = Při vytváření zálohy dne { DATETIME($date, dateStyle: "short") }, { DATETIME($date, timeStyle: "short") } došlo k chybě
 settings-sensitive-data-encryption-description = Zálohujte i svá hesla a platební metody a navíc si všechna data zabezpečte pomocí šifrování.
 settings-data-toggle-encryption-label2 =
-    .label = Zálohovat i citlivá data
     .description = Zazálohujte svá hesla a platební metody a navíc si všechna data zabezpečte pomocí šifrování.
+    .label = Zálohovat i citlivá data
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Název souboru: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Obnovení vašich dat
     .description =
         { -brand-product-name.case-status ->
             [with-cases] Obnovte si data { -brand-product-name(case: "gen") } z poslední zálohy.
            *[no-cases] Obnovte si data aplikace { -brand-product-name } z poslední zálohy.
         }
-settings-data-backup-restore-scheduled-off =
     .label = Obnovení vašich dat
+settings-data-backup-restore-scheduled-off =
     .description =
         { -brand-product-name.case-status ->
             [with-cases] K obnově dat použijte zálohu { -brand-product-name(case: "gen") } z jiného zařízení.
            *[no-cases] K obnově dat použijte zálohu aplikace { -brand-product-name } z jiného zařízení.
         }
-
-##
-
+    .label = Obnovení vašich dat
 settings-sensitive-data =
     .label = Citlivá data
 settings-data-toggle-encryption-support-link = Zjistit více
@@ -282,11 +279,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> vytvořen { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> vytvořen { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } na { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Obnoveno z { $deviceName } dne { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } v { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Obnoveno z { $deviceName } dne { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } v { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Tento soubor nefunguje. Zkuste vybrat jiný soubor. <a data-l10n-name="restore-problems">Přetrvávající problémy?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nevybrán žádný soubor

@@ -20,8 +20,8 @@ backup-folder-name = 恢复 { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header2 =
-    .label = 备份
     .description = 自动保护您的书签、历史记录等数据。
+    .label = 备份
 settings-data-backup-toggle = 管理备份
 settings-data-backup-toggle-on2 =
     .label = 开启备份
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = 编辑…
 settings-data-create-backup-error = 于 { DATETIME($date, dateStyle: "short") } { DATETIME($date, timeStyle: "short") } 创建备份时出错
 settings-sensitive-data-encryption-description = 备份您的密码和付款信息，并以加密来保护数据安全。
 settings-data-toggle-encryption-label2 =
-    .label = 备份敏感数据
     .description = 备份密码和付款方式，并以加密来保护数据安全。
+    .label = 备份敏感数据
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = 文件名：{ $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = 恢复数据
     .description = 从最近一次备份恢复您的 { -brand-product-name } 数据。
-settings-data-backup-restore-scheduled-off =
     .label = 恢复数据
+settings-data-backup-restore-scheduled-off =
     .description = 使用另一台设备上的 { -brand-product-name } 备份来恢复您的数据。
-
-##
-
+    .label = 恢复数据
 settings-sensitive-data =
     .label = 敏感数据
 settings-data-toggle-encryption-support-link = 详细了解
@@ -252,11 +249,11 @@ other-backup-files-founds = <b>注意：</b>另找到其他 { $numberOfOtherBack
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b>（{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } 创建于 { $machineName }）
+backup-file-creation-metadata2 = <b>{ $profileName }</b>（{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } 创建于 { $machineName }）
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } 恢复自 { $deviceName }
+backup-restored-profile-name = { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") } 恢复自 { $deviceName }
 backup-file-restore-file-validation-error = 文件无效，请尝试选取其他文件。<a data-l10n-name="restore-problems">仍有问题？</a>
 restore-from-backup-filepicker-input =
     .placeholder = 未选择文件

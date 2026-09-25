@@ -20,8 +20,8 @@ backup-folder-name = وورگندن { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = لادراری { -brand-product-name }
 settings-data-backup-header2 =
-    .label = لادراری گرؽڌن
     .description = و توور خوتکار نشووکا، ویرگار وو پوی داده یل ایسا ن زفت اکونه.
+    .label = لادراری گرؽڌن
 settings-data-backup-toggle = دؽوۉداری لادراری گرؽڌن
 settings-data-backup-toggle-on2 =
     .label = رۊشن کردن لادراری گرؽڌن
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = آلشت…
 settings-data-create-backup-error = ختایی من وورکل نوسخه لادرار ایسا من ویرگار { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } پؽش ٱووڌه.
 settings-sensitive-data-encryption-description = ز رزما وو بارتا پرداخت خوتووݩ نوسخه لادرار بگرین، ب علاوه پوی داده یل خوتووݩ ن وا رزم ناهاڌن ایمن واڌارنین.
 settings-data-toggle-encryption-label2 =
-    .label = ز داده یل هساس خوتووݩ نوسخه لادرار بگرین
     .description = ز رزما وو بارتا پرداخت خوتووݩ نوسخه لادرار بگرین، ب علاوه پوی داده یل خوتووݩ ن وا رزم ناهاڌن ایمن واڌارنین.
+    .label = ز داده یل هساس خوتووݩ نوسخه لادرار بگرین
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = نوم فایل: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = داده یل خوتووݩ ن وورگنین
     .description = داده یل { -brand-product-name } خوتووݩ ن ز کرت دیندایی ک لادراری گرؽڌه وابی، وورگنین.
-settings-data-backup-restore-scheduled-off =
     .label = داده یل خوتووݩ ن وورگنین
+settings-data-backup-restore-scheduled-off =
     .description = سی وورگندن دووسمندیا خوتووݩ ز ی نوسخه لادرار { -brand-product-name }، ی دسگا دیر ن و کار بوورین.
-
-##
-
+    .label = داده یل خوتووݩ ن وورگنین
 settings-sensitive-data =
     .label = داده یل هساس
 settings-data-toggle-encryption-support-link = قلوه دووسته بۊین
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> وورکل وابیڌه من { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } من { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> وورکل وابیڌه من { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } من { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = وورگنیڌه وابیڌه ز { $deviceName } من { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } من { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = وورگنیڌه وابیڌه ز { $deviceName } من { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } من { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = ای فایل کار نؽکونه. فایل دیری ن پسند کۊنین. <a data-l10n-name="restore-problems">هنی موشکل دارین؟</a>
 restore-from-backup-filepicker-input =
     .placeholder = فایلی پسند نوابیڌه

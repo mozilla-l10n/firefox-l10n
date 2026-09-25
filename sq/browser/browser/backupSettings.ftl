@@ -20,8 +20,8 @@ backup-folder-name = Rikthe { -brand-product-name }-in
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Kopjeruajtje { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Kopjeruajtje
     .description = Mbroni automatikisht faqerojtësit tuaj, historikun dhe të dhëna të tjera.
+    .label = Kopjeruajtje
 settings-data-backup-toggle = Administroni kopjeruajtje
 settings-data-backup-toggle-on2 =
     .label = Aktivizoni kopjeruajtjet
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Përpunoni…
 settings-data-create-backup-error = Pati një gabim në krijimin e kopjeruajtjes tuaj më { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Kopjeruani fjalëkalimet tuaja dhe metoda pagesash, plus mbaji të parrezik krejt të dhënat tuaja, përmes fshehtëzimi.
 settings-data-toggle-encryption-label2 =
-    .label = Kopjeruani të dhënat tuaja rezervat
     .description = Kopjeruani fjalëkalimet tuaja dhe metoda pagesash, plus mbajini krejt të dhënat tuaja të parrezik, përmes fshehtëzimi.
+    .label = Kopjeruani të dhënat tuaja rezervat
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Emër kartele: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Riktheni të dhënat tuaja
     .description = Rktheni të dhënat tuaja { -brand-product-name } prej herës së fundit që qenë kopjeruar.
-settings-data-backup-restore-scheduled-off =
     .label = Riktheni të dhënat tuaja
+settings-data-backup-restore-scheduled-off =
     .description = Përdorni një kopjeruajtje { -brand-product-name } nga një tjetër pajisje, që të riktheni të dhënat tuaja.
-
-##
-
+    .label = Riktheni të dhënat tuaja
 settings-sensitive-data =
     .label = Të dhëna me spec
 settings-data-toggle-encryption-support-link = Mësoni më tepër
@@ -251,11 +248,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> Krijuar më { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } te { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> Krijuar më { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } te { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Rikthyer prej { $deviceName } më { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } në { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Rikthyer prej { $deviceName } më { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } në { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Kjo kartelë s’po funksionon. Provoni të përzgjidhni një kartelë tjetër. <a data-l10n-name="restore-problems">Keni ende probleme?</a>
 restore-from-backup-filepicker-input =
     .placeholder = S’u përzgjodh kartelë

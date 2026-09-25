@@ -376,16 +376,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = Chwilio yn ôl enw neu symbol
     .label = Chwilio
     .title = Chwilio yn ôl enw neu symbol
-    .aria-label = Chwilio yn ôl enw neu symbol
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = Chwilio yn ôl enw neu symbol
     .label = Chwilio
     .title = Chwilio yn ôl enw neu symbol
-    .aria-label = Chwilio yn ôl enw neu symbol
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Stociau
@@ -554,9 +554,6 @@ newtab-recent-searches-just-now = Newydd ddigwydd
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Tynnu “{ $search }” o'r chwilio diweddar
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Chwilio
 # Screen reader label for the widget's icon-only menu button.
@@ -623,9 +620,6 @@ newtab-topsites-image-url-label = URL Delwedd Gyfaddas
 newtab-topsites-use-custom-image-link = Defnyddio delwedd gyfaddas
 newtab-topsites-use-image-link = Defnyddio delwedd gyfaddas…
 newtab-topsites-image-validation = Methodd y ddelwedd â llwytho. Defnyddiwch URL gwahanol.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Clirio testun
 
@@ -1064,9 +1058,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Llwynog ar yr ymyl dde ar gefndir oren
 newtab-wallpaper-firefox-colorful-sky = Tonnau o oren ar draws awyr noson borffor
 newtab-wallpaper-firefox-desert-dark = Llwynog yn eistedd mewn anialwch porffor tywyll
@@ -1495,9 +1486,6 @@ newtab-promo-card-cta = Dysgu rhagor
 newtab-promo-card-dismiss-button =
     .aria-label = Cau
     .title = Cau
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

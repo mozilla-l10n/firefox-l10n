@@ -20,8 +20,8 @@ backup-folder-name = Επαναφορά δεδομένων του { -brand-produ
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header2 =
-    .label = Αντίγραφο ασφαλείας
     .description = Ενεργοποιήστε την αυτόματη προστασία των σελιδοδεικτών, του ιστορικού και των υπόλοιπων δεδομένων σας.
+    .label = Αντίγραφο ασφαλείας
 settings-data-backup-toggle = Διαχείριση αντιγράφου ασφαλείας
 settings-data-backup-toggle-on2 =
     .label = Ενεργοποίηση αντιγράφου ασφαλείας
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Επεξεργασία…
 settings-data-create-backup-error = Προέκυψε σφάλμα κατά τη δημιουργία του αντιγράφου ασφαλείας στις { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Δημιουργήστε αντίγραφα ασφαλείας για τους κωδικούς πρόσβασης και τις μεθόδους πληρωμής σας, προστατεύοντας όλα τα δεδομένα σας με κρυπτογράφηση.
 settings-data-toggle-encryption-label2 =
-    .label = Αντίγραφο ασφαλείας ευαίσθητων δεδομένων
     .description = Δημιουργία αντιγράφων ασφαλείας για τους κωδικούς πρόσβασης και τις μεθόδους πληρωμής σας, ενώ όλα τα δεδομένα σας προστατεύονται με κρυπτογράφηση.
+    .label = Αντίγραφο ασφαλείας ευαίσθητων δεδομένων
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Όνομα αρχείου: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Ανάκτηση δεδομένων
     .description = Ανακτήστε τα δεδομένα του { -brand-product-name } σας από το τελευταίο αντίγραφο ασφαλείας.
-settings-data-backup-restore-scheduled-off =
     .label = Ανάκτηση δεδομένων
+settings-data-backup-restore-scheduled-off =
     .description = Χρησιμοποιήστε ένα αντίγραφο ασφαλείας του { -brand-product-name } από κάποια άλλη συσκευή για να ανακτήσετε τα δεδομένα σας.
-
-##
-
+    .label = Ανάκτηση δεδομένων
 settings-sensitive-data =
     .label = Ευαίσθητα δεδομένα
 settings-data-toggle-encryption-support-link = Μάθετε περισσότερα
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> (δημιουργήθηκε στις { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } στο { $machineName })
+backup-file-creation-metadata2 = <b>{ $profileName }</b> (δημιουργήθηκε στις { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } στο { $machineName })
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Ανακτήθηκε από το { $deviceName } στις { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } στις { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Ανακτήθηκε από το { $deviceName } στις { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } στις { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Αυτό το αρχείο δεν λειτουργεί. Δοκιμάστε να επιλέξετε ένα άλλο αρχείο. <a data-l10n-name="restore-problems">Αντιμετωπίζετε ακόμα προβλήματα;</a>
 restore-from-backup-filepicker-input =
     .placeholder = Κανένα επιλεγμένο αρχείο

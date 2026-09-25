@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] اشتراک گذاری با مک …
            *[other] اشتراک گذاری با …
         }
-share-panel-os-share =
-    .label = اشتراک گذاری با…
 share-panel-mail =
     .label = ارسال ایمیل
 share-panel-screenshot =
     .label = اسکرین‌شات بگیرید
 share-panel-qr-code-2 =
     .label = ایجاد کد QR
-share-panel-qr-code =
-    .label = اشتراک‌گذاری کد QR
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = اضافه کردن دستگاه
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = اتصال یک دستگاه دیگر
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = دستگاهتان را نمی‌بینید؟
-share-panel-os-share-subview =
-    .title = اشتراک گذاری با…

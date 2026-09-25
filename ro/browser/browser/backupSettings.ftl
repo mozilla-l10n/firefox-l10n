@@ -20,8 +20,8 @@ backup-folder-name = Restabilește { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Backup_{ -brand-product-name }
 settings-data-backup-header2 =
-    .label = Copie de siguranță
     .description = Îți protejezi automat marcajele, istoricul și alte date.
+    .label = Copie de siguranță
 settings-data-backup-toggle = Gestionează backupurile
 settings-data-backup-toggle-on2 =
     .label = Activează backupurile
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Editează…
 settings-data-create-backup-error = A apărut o eroare la crearea backupului pe { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Fă copii de rezervă cu parolele și metodele de plată și păstrează-ți toate datele în siguranță prin criptare.
 settings-data-toggle-encryption-label2 =
-    .label = Fă-ți copii de rezervă cu datele sensibile
     .description = Fă-ți copii de rezervă cu parolele și metodele de plată; în plus, îți păstrezi toate datele în siguranță prin criptare.
+    .label = Fă-ți copii de rezervă cu datele sensibile
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Denumire fișier: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Restaurează-ți datele
     .description = Recuperează-ți datele { -brand-product-name } din ultima copie de rezervă.
-settings-data-backup-restore-scheduled-off =
     .label = Restaurează-ți datele
+settings-data-backup-restore-scheduled-off =
     .description = Folosește o copie de rezervă { -brand-product-name } de pe alt dispozitiv ca să îți restaurezi datele.
-
-##
-
+    .label = Restaurează-ți datele
 settings-sensitive-data =
     .label = Date sensibile
 settings-data-toggle-encryption-support-link = Află mai multe
@@ -257,11 +254,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> creat la data de { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } pe { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creat la data de { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } pe { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Restaurare din { $deviceName } la data de { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } la { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Restaurare din { $deviceName } la data de { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } la { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Fișierul nu funcționează. Încearcă să alegi unul diferit. <a data-l10n-name="restore-problems">Tot mai ai probleme?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Niciun fișier selectat

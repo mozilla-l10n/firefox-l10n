@@ -39,9 +39,6 @@ neterror-search-cta-title = Δεν είναι δυνατή η πρόσβαση �
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Δεν είναι δυνατή η σύνδεση στον διακομιστή στο <strong>{ $hostname }</strong>.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Δεν είναι δυνατή η σύνδεση στον διακομιστή στο { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Δοκιμάστε αυτά τα βήματα:
 neterror-search-cta-hint-check-address = Ελέγξτε ξανά αυτή τη διεύθυνση του ιστοτόπου
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Ανανέωση
     .accesskey = Α
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Φόρτωση
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Φαίνεται ότι είστε εκτός σύνδεσης. Συνδεθείτε εκ νέου και δοκιμάστε ξανά.

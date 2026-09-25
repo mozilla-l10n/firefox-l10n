@@ -26,7 +26,6 @@ autofill-options-link = 表单自动填写选项
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = 在我的设备间同步所有保存的卡片
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = 要安全地保存此卡片吗？
 credit-card-save-doorhanger-description = { -brand-short-name } 会将卡号加密保存。安全码不会被保存。
 credit-card-capture-save-button =
@@ -38,9 +37,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = 永不保存卡片
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = 要更新卡片吗？
 credit-card-update-doorhanger-description = 要更新的卡片：
 credit-card-capture-save-new-button =
@@ -55,15 +51,6 @@ autofill-clear-form-label = 清除自动填写表单
 autofill-manage-addresses-label = 管理地址
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = 管理付款方式
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -20,8 +20,8 @@ backup-folder-name = Berrezarri { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Babeskopia
 settings-data-backup-header2 =
-    .label = Babeskopia
     .description = Automatikoki babestu zure laster-markak, historia eta bestelako datuak.
+    .label = Babeskopia
 settings-data-backup-toggle = Kudeatu babeskopia
 settings-data-backup-toggle-on2 =
     .label = Aktibatu babeskopia
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Editatu…
 settings-data-create-backup-error = Errorea gertatu da babeskopia sortzean ondorengo datan: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Egin zure pasahitz eta ordainketa-metodoen babeskopia eta mantendu zure datu guztiak zifratze bidez seguru.
 settings-data-toggle-encryption-label2 =
-    .label = Egin kontuzko zure datuen babeskopia
     .description = Egin zure pasahitz eta ordainketa-metodoen babeskopia eta mantendu zure datu guztiak zifratze bidez seguru.
+    .label = Egin kontuzko zure datuen babeskopia
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Fitxategi-izena: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Berreskuratu zure datuak
     .description = Berreskuratu zure { -brand-product-name } datuak azkeneko aldiz egin zen babeskopiatik.
-settings-data-backup-restore-scheduled-off =
     .label = Berreskuratu zure datuak
+settings-data-backup-restore-scheduled-off =
     .description = Erabili beste gailu bateko { -brand-product-name } babeskopia zure datuak berreskuratzeko.
-
-##
-
+    .label = Berreskuratu zure datuak
 settings-sensitive-data =
     .label = Kontuzko datuak
 settings-data-toggle-encryption-support-link = Argibide gehiago
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> profilaren sortze-data: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, { $machineName } makinan
+backup-file-creation-metadata2 = <b>{ $profileName }</b> profilaren sortze-data: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }, { $machineName } makinan
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = { $deviceName } makinatik berreskuratuta; berreskuratze-data:{ DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = { $deviceName } makinatik berreskuratuta; berreskuratze-data:{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Fitxategia ez dabil. Saiatu beste fitxategi batekin. <a data-l10n-name="restore-problems">Arazoak dituzu oraindik?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ez da fitxategirik hautatu

@@ -20,8 +20,8 @@ backup-folder-name = Gjenopprett { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-sikkerheitskopi
 settings-data-backup-header2 =
-    .label = Sikkerheitskopi
     .description = Beskytt bokmerka, historikken og andre data automatisk.
+    .label = Sikkerheitskopi
 settings-data-backup-toggle = Handsam sikkerheitskopiering
 settings-data-backup-toggle-on2 =
     .label = Slå på sikkerheitskopiering
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Rediger…
 settings-data-create-backup-error = Det oppstod ein feil under oppretting av sikkerheitskopien din den { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sikringskopier passorda og betalingsmåtane dine, og hald alle dataa dine trygge med kryptering.
 settings-data-toggle-encryption-label2 =
-    .label = Sikringskopier sensitive data
     .description = Sikringskopier passord og betalingsmåtar, og hald alle dataa dine trygge med kryptering.
+    .label = Sikringskopier sensitive data
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Filnamn: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Gjenopprett dataa dine
     .description = Gjenopprett { -brand-product-name }-dataa dine frå siste sikkerheitskopi.
-settings-data-backup-restore-scheduled-off =
     .label = Gjenopprett dataa dine
+settings-data-backup-restore-scheduled-off =
     .description = Bruk ein { -brand-product-name }-tryggingskopi frå ei anna eining for å gjenopprette dataa dine.
-
-##
-
+    .label = Gjenopprett dataa dine
 settings-sensitive-data =
     .label = Sensitive data
 settings-data-toggle-encryption-support-link = Les meir
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> oppretta { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } på { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> oppretta { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } på { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Gjenoppretta frå { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } kl. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Gjenoppretta frå { $deviceName } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } kl. { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Denne fila fungerer ikkje. Prøv å velje ei anna fil. <a data-l10n-name="restore-problems">Har du framleis problem?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Inga fil vald

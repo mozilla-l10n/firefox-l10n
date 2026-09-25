@@ -20,8 +20,8 @@ backup-folder-name = Барқарорсозии «{ -brand-product-name }»
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Нусхаи эҳтиётии { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Нусхаи эҳтиётӣ
     .description = Хатбаракҳо, таърих ва маълумоти дигари худро ба таври худкор ҳифз намоед.
+    .label = Нусхаи эҳтиётӣ
 settings-data-backup-toggle = Идоракунии нусхаи эҳтиётӣ
 settings-data-backup-toggle-on2 =
     .label = Фаъол кардани нусхаи эҳтиётӣ
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Таҳрир кардан…
 settings-data-create-backup-error = Ҳангоми таҳияи нусхаи эҳтиётӣ дар санаи { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } хато ба миён омад
 settings-sensitive-data-encryption-description = Нусхаи эҳтиётии ниҳонвожаҳо ва тарзҳои пардохти худро таҳия кунед ва, инчунин, тамоми маълумоти худро бо истифода аз имкони рамзгузорӣ ба таври бехатар нигоҳ доред.
 settings-data-toggle-encryption-label2 =
-    .label = Сохтани нусхаи эҳтиётии маълумоти махфии шумо
     .description = Нусхаи эҳтиётии ниҳонвожаҳо ва усулҳои пардохти худро созед, инчунин, ҳамаи маълумоти худро бо рамзгузорӣ ба таври бехатар нигоҳ доред.
+    .label = Сохтани нусхаи эҳтиётии маълумоти махфии шумо
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Номи файл: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Маълумоти худро барқарор созед
     .description = Маълумоти «{ -brand-product-name }»-и худро аз нусхаи эҳтиётии охирин барқарор созед.
-settings-data-backup-restore-scheduled-off =
     .label = Маълумоти худро барқарор созед
+settings-data-backup-restore-scheduled-off =
     .description = Барои барқарор кардани маълумоти худ, нусхаи эҳтиётии «{ -brand-product-name }»-ро аз дастгоҳи дигар истифода баред.
-
-##
-
+    .label = Маълумоти худро барқарор созед
 settings-sensitive-data =
     .label = Маълумоти махфӣ
 settings-data-toggle-encryption-support-link = Маълумоти бештар
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = Профили «<b>{ $profileName }</b>» санаи { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } дар «{ $machineName }» сохта шудааст
+backup-file-creation-metadata2 = Профили «<b>{ $profileName }</b>» санаи { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } дар «{ $machineName }» сохта шудааст
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Аз «{ $deviceName }» санаи { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } соати { DATETIME($date, hour: "2-digit", minute: "2-digit") } барқарор карда шуд
+backup-restored-profile-name = Аз «{ $deviceName }» санаи { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } соати { DATETIME($date, hour: "2-digit", minute: "2-digit") } барқарор карда шуд
 backup-file-restore-file-validation-error = Ин файл кор намекунад. Кӯшиш кунед, ки файли дигареро интихоб намоед. <a data-l10n-name="restore-problems">Ҳанӯз мушкилӣ мекашед?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ягон файл интихоб карда нашуд

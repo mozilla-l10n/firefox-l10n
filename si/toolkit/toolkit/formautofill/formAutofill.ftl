@@ -29,24 +29,12 @@ credit-card-doorhanger-credit-cards-sync-checkbox = මාගේ උපාංග
 credit-card-capture-never-save-button =
     .label = කිසිවිටක පත් සුරකින්න එපා
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = ස්වයං පිරවුම් ආකෘතිය මකන්න
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = ලිපින කළමනාකරණය
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = ගෙවීම් ක්‍රම කළමනාකරණය
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

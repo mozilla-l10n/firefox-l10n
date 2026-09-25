@@ -312,16 +312,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = 이름 또는 기호로 검색
     .label = 검색
     .title = 이름 또는 기호로 검색
-    .aria-label = 이름 또는 기호로 검색
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = 이름 또는 기호로 검색
     .label = 검색
     .title = 이름 또는 기호로 검색
-    .aria-label = 이름 또는 기호로 검색
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = 주식
@@ -482,9 +482,6 @@ newtab-recent-searches-just-now = 방금 전
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = 최근 검색에서 “{ $search }” 제거
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = 검색
 # Screen reader label for the widget's icon-only menu button.
@@ -551,9 +548,6 @@ newtab-topsites-image-url-label = 사용자 지정 이미지 URL
 newtab-topsites-use-custom-image-link = 사용자 지정 이미지 사용
 newtab-topsites-use-image-link = 사용자 지정 이미지 사용…
 newtab-topsites-image-validation = 이미지를 읽어오지 못했습니다. 다른 URL을 시도하세요.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = 텍스트 지우기
 
@@ -987,9 +981,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = 주황색 배경의 오른쪽 가장자리에 있는 여우
 newtab-wallpaper-firefox-colorful-sky = 보라색 밤하늘을 가로지르는 주황색 물결
 newtab-wallpaper-firefox-desert-dark = 어두운 보라색 사막에 앉아 있는 여우
@@ -1418,9 +1409,6 @@ newtab-promo-card-cta = 더 알아보기
 newtab-promo-card-dismiss-button =
     .aria-label = 닫기
     .title = 닫기
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

@@ -20,8 +20,8 @@ backup-folder-name = שחזור { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Backup
 settings-data-backup-header2 =
-    .label = גיבוי
     .description = הגנה אוטומטית על הסימניות, ההיסטוריה ושאר הנתונים שלך.
+    .label = גיבוי
 settings-data-backup-toggle = ניהול גיבוי
 settings-data-backup-toggle-on2 =
     .label = הפעלת הגיבוי
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = עריכה…
 settings-data-create-backup-error = אירעה שגיאה ביצירת הגיבוי שלך ב־{ DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = גיבוי הססמאות ואמצעי התשלום שלך, לצד שמירה על כל הנתונים באמצעות הצפנה.
 settings-data-toggle-encryption-label2 =
-    .label = גיבוי הנתונים הרגישים שלך
     .description = גיבוי הססמאות ואמצעי התשלום שלך, לצד שמירה על כל הנתונים באמצעות הצפנה.
+    .label = גיבוי הנתונים הרגישים שלך
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = שם הקובץ: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = שחזור הנתונים שלך
     .description = ניתן לשחזר את הנתונים של ה־{ -brand-product-name } שלך מהפעם האחרונה שהם גובו.
-settings-data-backup-restore-scheduled-off =
     .label = שחזור הנתונים שלך
+settings-data-backup-restore-scheduled-off =
     .description = ניתן להשתמש בגיבוי של { -brand-product-name } ממכשיר אחר כדי לשחזר את הנתונים שלך.
-
-##
-
+    .label = שחזור הנתונים שלך
 settings-sensitive-data =
     .label = נתונים רגישים
 settings-data-toggle-encryption-support-link = מידע נוסף
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> נוצר בתאריך { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ב־{ $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> נוצר בתאריך { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ב־{ $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = שוחזר מ־{ $deviceName } בתאריך { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } בשעה { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = שוחזר מ־{ $deviceName } בתאריך { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } בשעה { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = הקובץ הזה לא עובד. נא לנסות לבחור בקובץ אחר. <a data-l10n-name="restore-problems">עדיין יש לך בעיות?</a>
 restore-from-backup-filepicker-input =
     .placeholder = לא נבחר קובץ

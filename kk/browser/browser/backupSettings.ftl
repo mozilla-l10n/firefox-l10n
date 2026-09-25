@@ -20,8 +20,8 @@ backup-folder-name = { -brand-product-name } қалпына келтіру
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } сақтық көшірмесі
 settings-data-backup-header2 =
-    .label = Сақтық көшірме
     .description = Бетбелгілер, тарих пен басқа деректеріңізді автоматты түрде қорғау.
+    .label = Сақтық көшірме
 settings-data-backup-toggle = Сақтық көшірмені басқару
 settings-data-backup-toggle-on2 =
     .label = Қор көшірмені іске қосу
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Түзету…
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } уақытында сақтық көшірмені жасау кезінде қате орын алды
 settings-sensitive-data-encryption-description = Парольдеріңіз бен төлем әдістеріңізді сақтық көшірмеге сақтаңыз және барлық деректеріңізді шифрлеу арқылы қауіпсіз ұстаңыз.
 settings-data-toggle-encryption-label2 =
-    .label = Сезімтал деректеріңіздің сақтық көшірмесін жасаңыз
     .description = Парольдер мен төлем әдістеріңіздің сақтық көшірмесін жасаңыз, және де деректеріңізді шифрлеумен қауіпсіз түрде ұстаңыз.
+    .label = Сезімтал деректеріңіздің сақтық көшірмесін жасаңыз
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Файл атауы: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Деректерді қалпына келтіру
     .description = { -brand-product-name } деректерін соңғы рет жасалған сақтық көшірмеден қалпына келтіру.
-settings-data-backup-restore-scheduled-off =
     .label = Деректерді қалпына келтіру
+settings-data-backup-restore-scheduled-off =
     .description = Басқа құрылғыдағы { -brand-product-name } қор көшірмесін деректеріңізді қалпына келтіру үшін қолданыңыз.
-
-##
-
+    .label = Деректерді қалпына келтіру
 settings-sensitive-data =
     .label = Сезімтал деректер
 settings-data-toggle-encryption-support-link = Көбірек білу
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b>, { $machineName } жерінде { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } күні жасалған
+backup-file-creation-metadata2 = <b>{ $profileName }</b>, { $machineName } жерінде { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } күні жасалған
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = { $deviceName } құрылғысынан { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, { DATETIME($date, hour: "2-digit", minute: "2-digit") } уақытында қалпына келтірілді.
+backup-restored-profile-name = { $deviceName } құрылғысынан { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }, { DATETIME($date, hour: "2-digit", minute: "2-digit") } уақытында қалпына келтірілді.
 backup-file-restore-file-validation-error = Бұл файл жұмыс істемейді. Басқа файлды таңдап көріңіз. <a data-l10n-name="restore-problems">Әлі де мәселелер бар ма?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Ешбір файл таңдалмады

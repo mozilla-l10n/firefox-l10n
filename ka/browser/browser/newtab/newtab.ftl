@@ -344,16 +344,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = ძიება სახელით ან ასონიშნით
     .label = ძიება
     .title = ძიება სახელით ან ასონიშნით
-    .aria-label = ძიება სახელით ან ასონიშნით
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = ძიება სახელით ან ასონიშნით
     .label = ძიება
     .title = ძიება სახელით ან ასონიშნით
-    .aria-label = ძიება სახელით ან ასონიშნით
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = აქციები
@@ -518,9 +518,6 @@ newtab-recent-searches-just-now = ახლახან
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = მოცილდეს „{ $search }“ ბოლოს მოძიებულებიდან
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = ძიება
 # Screen reader label for the widget's icon-only menu button.
@@ -587,9 +584,6 @@ newtab-topsites-image-url-label = სასურველი სურათი
 newtab-topsites-use-custom-image-link = სასურველი სურათის გამოყენება
 newtab-topsites-use-image-link = სასურველი სურათის გამოყენება…
 newtab-topsites-image-validation = სურათი ვერ ჩაიტვირთა. სცადეთ სხვა URL-ბმული.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = ტექსტის გასუფთავება
 
@@ -1024,9 +1018,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = მელა მარჯვენა კიდეზე ნარინჯისფერი ფონით
 newtab-wallpaper-firefox-colorful-sky = ნარინჯისფერი ტალღები ღამის იისფერ ცაზე
 newtab-wallpaper-firefox-desert-dark = მჯდარი მელა ჩაბნელებულ მეწამულ უდაბნოში
@@ -1455,9 +1446,6 @@ newtab-promo-card-cta = ვრცლად
 newtab-promo-card-dismiss-button =
     .aria-label = აცილება
     .title = აცილება
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

@@ -39,9 +39,6 @@ neterror-search-cta-title = Site-ul nu poate fi accesat
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Conectare nereușită la serverul de la adresa <strong>{ $hostname }</strong>.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Conectare nereușită la serverul de la adresa { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Încearcă acești pași:
 neterror-search-cta-hint-check-address = Verifică de două ori adresa site-ului web
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Reîncarcă
     .accesskey = R
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Se încarcă
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Se pare că ești offline. Reconectează-te și încearcă din nou.

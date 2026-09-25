@@ -20,8 +20,8 @@ backup-folder-name = Restarigi { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Sekurkopio de { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Sekurkopio
     .description = Aŭtomate protektu viajn legosignojn, historion kaj aliajn datumojn.
+    .label = Sekurkopio
 settings-data-backup-toggle = Administri sekurkopion
 settings-data-backup-toggle-on2 =
     .label = Ŝalti sekurkopion
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Modifi…
 settings-data-create-backup-error = Okazis eraro dum la kreado de via sekurkopio je { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Faru sekurkopion de viaj pasvortoj kaj pagmetodoj kaj tenu ĉiujn viajn datumojn sekuraj per ĉifrado.
 settings-data-toggle-encryption-label2 =
-    .label = Faru sekurkopion de viaj delikataj datumoj
     .description = Faru sekurkopion de viaj pasvortoj kaj pagmetodoj, kaj cetere gardu ĉiujn viajn datumojn ĉifrite sekuraj.
+    .label = Faru sekurkopion de viaj delikataj datumoj
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nomo de dosiero: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Restarigi viajn datumojn
     .description = Rehavu viajn datumojn de { -brand-product-name } el via lasta sekurkopio.
-settings-data-backup-restore-scheduled-off =
     .label = Restarigi viajn datumojn
+settings-data-backup-restore-scheduled-off =
     .description = Uzu sekurkopion de { -brand-product-name } en alia aparato por rehavi viajn datumojn.
-
-##
-
+    .label = Restarigi viajn datumojn
 settings-sensitive-data =
     .label = Delikataj datumoj
 settings-data-toggle-encryption-support-link = Pli da informo
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> kreita je { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } en { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> kreita je { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } en { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Restarigita el { $deviceName } je { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") },  { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Restarigita el { $deviceName } je { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") },  { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Tiu ĉi dosiero ne funkcias. Provu elekti alian. <a data-l10n-name="restore-problems">Ĉu vi ankoraŭ havas problemojn?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Neniu dosiero elektita

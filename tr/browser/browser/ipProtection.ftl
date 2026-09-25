@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = VPN artık tarayıcınızın içinde
 ipprotection-feature-introduction-title-1 = Yerleşik { -brand-product-name } VPN’i deneyin
 ipprotection-feature-introduction-link-text-2 = Konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Gizliliğinizi bir kat daha artırın
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Farklı konumlardan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Çok sayıda konumdan istediğinizi seçerek gezintilerinizi daha gizli tutun.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Seyahat planlarınız mı
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name }’un yerleşik VPN’iyle sınırları aşın: 31 Ağustos’a kadar daha fazla konum, sınırsız bant genişliği.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-description-private-browsing = Konumunuzu gizleyin, Gizli Pencere’de bile ekstra korumayla gezinin.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Halka açık bir Wi-Fi ağında mısınız? { -brand-product-name } tarayıcısının yerleşik VPN’ini deneyin.
 ipprotection-feature-introduction-description-captive-portal = Konumunuzu gizleyin, halka açık Wi-Fi ağlarında bile ekstra korumayla gezinin.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN’i araç çubuğundan kaldır
 ipprotection-feature-introduction-button-open-vpn = VPN’i aç
 ipprotection-feature-introduction-button-get-started = Kullanmaya başlayın
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = { -bra
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = { -mozilla-vpn-brand-name } ile seviye atlayın
 ipprotection-summer-promo-offramp-subscription-upsell-description = 31 Ağustos’tan sonra da sınırsız bant genişliğini kaybetmeyin, 5 cihazda 300’den fazla konumla internette gezinirken izinizin sürülmesini zorlaştırın.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN’i aç
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Varsayılan yap
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name }’i edinin

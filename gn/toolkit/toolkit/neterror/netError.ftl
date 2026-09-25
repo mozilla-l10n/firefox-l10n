@@ -39,9 +39,6 @@ neterror-search-cta-title = Ndereikekuaái ko tendápe
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Ndaikatúi eike mba’e’okápe <strong>{ $hostname }</strong> rupive.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Ndaikatúi eike mba’e’okápe { $domain } rupive.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Eiporu ko’ã jeku’e:
 neterror-search-cta-hint-check-address = Ehechajey ñanduti rogue kundaharape
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Myanyhẽjey
     .accesskey = R
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Henyhẽhína
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Ha’ete ku ndojuajúiva. Embojuaju ha eha'ã jey upéi.

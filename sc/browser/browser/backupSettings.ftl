@@ -20,8 +20,8 @@ backup-folder-name = Riprìstina { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Còpia_de_seguresa_de_{ -brand-product-name }
 settings-data-backup-header2 =
-    .label = Còpia de seguresa
     .description = Ampara in automàticu is sinnalibros, sa cronologia e àteros datos.
+    .label = Còpia de seguresa
 settings-data-backup-toggle = Gesti is còpias de seguresa
 settings-data-backup-toggle-on2 =
     .label = Ativa sa còpia de seguresa
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Modifica...
 settings-data-create-backup-error = Faddina durante sa creatzione de sa còpia de seguresa tua: { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sarva is craes e is mètodos de pagamentu tuos, e ampara totu is datos tuos gràtzias a su tzifradu.
 settings-data-toggle-encryption-label2 =
-    .label = Faghe una còpia de seguresa de is datos riservados tuos
     .description = Faghe una còpia de seguresa de is craes e is mètodos de pagamentu, e in prus mantene totu is datos in seguresa cun unu tzifradu.
+    .label = Faghe una còpia de seguresa de is datos riservados tuos
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nòmine de archìviu: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Recùpera is datos tuos
     .description = Recùpera is datos de { -brand-product-name } dae s’ùrtima còpia chi nd’as fatu.
-settings-data-backup-restore-scheduled-off =
     .label = Recùpera is datos tuos
+settings-data-backup-restore-scheduled-off =
     .description = Imprea una còpia de seguresa de { -brand-product-name } dae un’àteru dispositivu pro recuperare is datos tuos.
-
-##
-
+    .label = Recùpera is datos tuos
 settings-sensitive-data =
     .label = Datos sensìbiles
 settings-data-toggle-encryption-support-link = Àteras informatziones
@@ -255,11 +252,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> creadu in { $machineName } in sa data imbeniente: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creadu in { $machineName } in sa data imbeniente: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Recuperadu dae { $deviceName } in sa data e s’ora imbeniente: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }, { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Recuperadu dae { $deviceName } in sa data e s’ora imbeniente: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }, { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Custu archìviu non funtzionat. Proa a seletzionare un’àteru archìviu. <a data-l10n-name="restore-problems">Tenes ancora problemas?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nissunu archìviu seletzionadu

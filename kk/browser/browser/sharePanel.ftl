@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Mac көмегімен бөлісу…
            *[other] Көмегімен бөлісу…
         }
-share-panel-os-share =
-    .label = Көмегімен бөлісу…
 share-panel-mail =
     .label = Эл. поштаны жіберу
 share-panel-screenshot =
     .label = Скриншотты түсіру
 share-panel-qr-code-2 =
     .label = QR кодын жасау
-share-panel-qr-code =
-    .label = QR кодын бөлісу
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Құрылғыны қосу
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Басқа құрылғыны байланыстыру
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Құрылғыңыз көрінбей ме?
-share-panel-os-share-subview =
-    .title = Көмегімен бөлісу…

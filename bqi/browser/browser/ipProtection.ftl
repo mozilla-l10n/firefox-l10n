@@ -37,9 +37,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = گۊشیڌن VPN
 ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 
-## Callout shown when the user opens a private browsing window
-
-
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -52,7 +49,6 @@ ipprotection-summer-promo-offramp-subscriber-title = ‏VPN منی ایسا بؽ
 # "Make Firefox your go-to browser" refers to setting Firefox to default.
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = جاگه یل VPN منی ازافی خوتووݩ ݩ واڌارنین
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = گۊشیڌن VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = سامووݩ و سۊرت پؽش فرز
 ipprotection-summer-promo-offramp-get-subscription-button = گرؽڌن { -mozilla-vpn-brand-name }
@@ -165,12 +161,6 @@ ipprotection-connection-status-blocked-error-title-1 = VPN من دسرس نؽ
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
 ipprotection-open-button = گۊشیڌن { -brand-product-name }
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-learn-more = قلوه دووسته بۊین
@@ -205,9 +195,6 @@ ip-protection-bandwidth-header-1 = مئدۊدیت داده ماهانه
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = فئمیم
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

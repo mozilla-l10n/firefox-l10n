@@ -10,8 +10,8 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .label = Icône du navigateur
     .description = Choisissez une icône personnalisée pour la barre des tâches, le bureau et le menu démarrer.
+    .label = Icône du navigateur
 appearance-browser-icon-button =
     .label = Changer l’icône du navigateur
 
@@ -22,8 +22,8 @@ appearance-browser-icon-button =
 appearance-browser-icon-subpage-title =
     .heading = Icônes supplémentaires
 
-## Icons are organized into two groups: "Standard" and "Special". The icons in
-## the "Special" group only become available when the user has set the browser
+## Icons are organized into two groups: "Standard" and "Bonus". The icons in
+## the "Bonus" group only become available when the user has set the browser
 ## as the default and pinned its launcher to the taskbar.
 
 appearance-browser-icon-basic-group =
@@ -65,5 +65,5 @@ appearance-browser-icon-pixelated =
 # @heyheymomodraws is the social-media handle of the icon's author and must be
 # kept verbatim - do not translate or otherwise change it.
 appearance-browser-icon-momo =
-    .label = Momo
     .description = Créé par @heyheymomodraws
+    .label = Momo

@@ -31,7 +31,6 @@ autofill-options-link = 양식 자동 채우기 옵션
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = 저장된 모든 카드를 내 기기 전체에 동기화
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = 이 카드를 안전하게 저장하시겠습니까?
 credit-card-save-doorhanger-description = { -brand-short-name }는 카드 번호를 암호화합니다. 보안 코드는 저장되지 않습니다.
 credit-card-capture-save-button =
@@ -43,9 +42,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = 카드를 저장 안 함
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = 카드를 업데이트하시겠습니까?
 credit-card-update-doorhanger-description = 업데이트할 카드:
 credit-card-capture-save-new-button =
@@ -65,15 +61,6 @@ autofill-manage-payment-methods-label = 결제 수단 관리
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

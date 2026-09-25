@@ -26,7 +26,6 @@ autofill-options-link = Myanyhẽha ijeheguíva porãvopyrã
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = Embojuehapaite umi kuatia’atã ñongatupyre che mba’e’okápe
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = ¿Eñongatu ko kuatia’atã tekorosãme?
 credit-card-save-doorhanger-description = { -brand-short-name } ombopapapy nde kuatia’atã. Nde kuatia’atã ayvu noñeñongatumo’ãi.
 credit-card-capture-save-button =
@@ -38,9 +37,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Aníke eñongatu kuatia’atã
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = ¿Embohekopyahu kuatia’atã?
 credit-card-update-doorhanger-description = Kuatia’atã hekopyahútava:
 credit-card-capture-save-new-button =
@@ -60,15 +56,6 @@ autofill-manage-payment-methods-label = Eñangareko mba’éichapa ehepyme’ẽ
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

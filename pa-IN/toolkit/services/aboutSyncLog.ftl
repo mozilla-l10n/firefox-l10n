@@ -49,8 +49,6 @@ about-sync-log-count =
         [one] { $count } ਲਾਗ
        *[other] { $count } ਲਾਗ
     }
-about-sync-log-badge-success = ਕਾਮਯਾਬ
-about-sync-log-badge-error = ਗਲਤੀ
 # Variables:
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").

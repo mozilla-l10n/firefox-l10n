@@ -54,8 +54,6 @@ about-sync-log-row-success =
 #   $date (number) - Timestamp of when the log was written.
 about-sync-log-row-error =
     .heading = Lỗi — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
-about-sync-log-badge-success = Thành công
-about-sync-log-badge-error = Lỗi
 # Variables:
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").

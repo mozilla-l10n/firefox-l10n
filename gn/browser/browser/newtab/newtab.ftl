@@ -297,16 +297,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = Eheka téra térã ta’ãnga’i rupi
     .label = Eheka
     .title = Eheka téra térã ta’ãnga’i rupi
-    .aria-label = Eheka téra térã ta’ãnga’i rupi
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = Eheka téra térã ta’ãnga’i rupi
     .label = Eheka
     .title = Eheka téra térã ta’ãnga’i rupi
-    .aria-label = Eheka téra térã ta’ãnga’i rupi
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Jejaporã
@@ -459,12 +459,6 @@ newtab-recent-searches-trending-attribution = { $engine } rupive
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Ko’ag̃aite
 
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -518,9 +512,6 @@ newtab-topsites-image-url-label = URL ra’ãnga ñemomba’etepyre
 newtab-topsites-use-custom-image-link = Ta’ãnga ñemomba’etepyre
 newtab-topsites-use-image-link = Ta’ãnga ñemomba’etepyre…
 newtab-topsites-image-validation = Ta’ãnga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Emopotĩ moñe’ẽrã
 
@@ -927,9 +918,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 
@@ -1341,9 +1329,6 @@ newtab-promo-card-cta = Eikuaave
 newtab-promo-card-dismiss-button =
     .aria-label = Mboyke
     .title = Mboyke
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

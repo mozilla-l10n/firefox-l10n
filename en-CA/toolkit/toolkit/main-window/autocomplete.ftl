@@ -25,6 +25,7 @@ autocomplete-import-learn-more = Learn more
 
 ## Secondary actions shown on form autocomplete dropdown rows.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
 autocomplete-edit-password = Edit this password
 autocomplete-delete-password = Delete this password
 autocomplete-edit-address = Edit this address
@@ -42,6 +43,7 @@ autocomplete-more-actions2 = More actions for { $entry }
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
 autocomplete-remove-password-title = Remove password?
 autocomplete-remove-address-title = Remove address?
 autocomplete-remove-payment-method-title = Remove payment method?
@@ -51,6 +53,7 @@ autocomplete-remove-record-button = Remove
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
 ## do not support device sign-in and fall back to the Primary Password dialog.
+
 autocomplete-remove-password-os-auth-dialog-message-win = To delete your password, enter your Windows login credentials. This helps protect the security of your accounts.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These

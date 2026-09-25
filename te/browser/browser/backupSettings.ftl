@@ -3,9 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 settings-data-backup-last-backup-location-show-in-folder = సంచయంలో చూపించు
-
-##
-
 settings-data-toggle-encryption-support-link = ఇంకా తెలుసుకోండి
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.

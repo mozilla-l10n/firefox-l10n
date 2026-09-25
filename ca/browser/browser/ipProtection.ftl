@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Us presentem la VPN, ara inclosa al navegador
 ipprotection-feature-introduction-title-1 = Proveu la VPN integrada del { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Feu servir la nostra nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> per a amagar la vostra ubicació i protegir les dades.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Afegiu una altra capa de privadesa
 ipprotection-feature-introduction-link-text-privacy-1 = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ajuda a protegir la navegació. Trieu entre diverses ubicacions per a navegar amb més privadesa.
 ipprotection-feature-introduction-link-text-privacy-2 = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ajuda a protegir la navegació. Trieu entre diverses ubicacions per mantenir la privadesa dels llocs des d'on navegueu.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Teniu pensat anar de viat
 ipprotection-feature-introduction-description-summer-promo = Aneu més lluny amb la VPN integrada del { -brand-product-name }: més ubicacions, amplada de banda il·limitada. Ara fins al 31 d'agost.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Feu servir la nostra nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> per a amagar la vostra ubicació i protegir les dades, fins i tot des d'una finestra privada.
 ipprotection-feature-introduction-description-private-browsing = Navegueu amb protecció addicional amagant la vostra ubicació, fins i tot des d'una finestra privada.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = En una Wi-Fi pública? Proveu la VPN integrada del { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navegueu amb protecció addicional amagant la ubicació, fins i tot en xarxes Wi-Fi públiques.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Elimina la VPN de la barra d'eines
 ipprotection-feature-introduction-button-open-vpn = Obre la VPN
 ipprotection-feature-introduction-button-get-started = Comença
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Feu qu
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Milloreu amb { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Mantingueu l'amplada de banda il·limitada després del 31 d'agost, amb més de 300 ubicacions en 5 dispositius per fer que la vostra navegació sigui més difícil de rastrejar.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Obre la VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Estableix-lo al valor predeterminat
 ipprotection-summer-promo-offramp-get-subscription-button = Obteniu { -mozilla-vpn-brand-name }

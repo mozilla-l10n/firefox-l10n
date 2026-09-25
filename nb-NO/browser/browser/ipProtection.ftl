@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Vi introduserer VPN, nå rett i nettleseren din
 ipprotection-feature-introduction-title-1 = Prøv den innebygde VPN-en i { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Legg til et nytt lag med personvern
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere plasseringer for å gjøre hvor du surfer mer privat.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere plasseringer for å gjøre hvor du surfer mer privat.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Skal du ut og reise? Ta p
 ipprotection-feature-introduction-description-summer-promo = Få mer ut av { -brand-product-name } sin innebygde VPN: flere plasseringer, ubegrenset båndbredde. Nå til og med 31. august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = På offentlig Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra beskyttelse ved å skjule plasseringen din, også på offentlig Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN fra verktøylinjen
 ipprotection-feature-introduction-button-open-vpn = Åpen VPN
 ipprotection-feature-introduction-button-get-started = Kom i gang
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Gjør 
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Ta steget videre med { -mozilla-vpn-brand-name }.
 ipprotection-summer-promo-offramp-subscription-upsell-description = Behold ubegrenset båndbredde etter 31. august, med over 300 plasseringer på 5 enheter, slik at det blir vanskeligere å spore surfingen tilbake til deg.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Åpen VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Sett til standard
 ipprotection-summer-promo-offramp-get-subscription-button = Få { -mozilla-vpn-brand-name }

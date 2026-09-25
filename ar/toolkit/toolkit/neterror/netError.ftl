@@ -39,9 +39,6 @@ neterror-search-cta-title = تعذّر الوصول إلى هذا الموقع
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = تعذّر الاتصال بالخادم على <strong>{ $hostname }</strong>.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = تعذّر الاتصال بالخادم على { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = جرب هذه الخطوات:
 neterror-search-cta-hint-check-address = تأكد من عنوان الموقع الإلكتروني
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = أعد التحميل
     .accesskey = ع
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = يُحمّل
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = يبدو أنك غير متصل بالإنترنت. أعِد الاتصال وحاول مجددًا.

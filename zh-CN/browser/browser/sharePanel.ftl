@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] 通过 Mac 共享…
            *[other] 共享方式
         }
-share-panel-os-share =
-    .label = 共享方式
 share-panel-mail =
     .label = 发送邮件
 share-panel-screenshot =
     .label = 截图
 share-panel-qr-code-2 =
     .label = 生成二维码
-share-panel-qr-code =
-    .label = 分享二维码
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = 添加设备
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = 连接其他设备
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = 看不到您的设备？
-share-panel-os-share-subview =
-    .title = 共享方式

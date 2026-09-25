@@ -36,9 +36,6 @@ settings-sensitive-data-encryption-description = ᱟᱢᱟᱜ ᱫᱟᱱᱟᱝ �
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = ᱨᱮᱫ ᱧᱩᱛᱩᱢ: { $fileName }
-
-##
-
 settings-data-toggle-encryption-support-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.

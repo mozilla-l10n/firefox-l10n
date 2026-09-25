@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Przedstawiamy VPN, teraz dostępny od razu w przeglądarce
 ipprotection-feature-introduction-title-1 = Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }
 ipprotection-feature-introduction-link-text-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dodaj jeszcze jedną warstwę prywatności
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród kilku położeń, aby miejsce, z którego przeglądasz, było bardziej prywatne.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród wielu położeń, aby miejsce, z którego przeglądasz, było bardziej prywatne.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Planujesz podróż? Prywa
 ipprotection-feature-introduction-description-summer-promo = Osiągnij więcej z wbudowaną siecią VPN { -brand-product-name(case: "gen") }: więcej położeń, nieograniczona przepustowość. Od teraz do 31 sierpnia.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane, nawet w trybie prywatnym.
 ipprotection-feature-introduction-description-private-browsing = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w trybie prywatnym.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Korzystasz z publicznej sieci Wi-Fi? Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }.
 ipprotection-feature-introduction-description-captive-portal = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w publicznej sieci Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Usuń VPN z paska narzędzi
 ipprotection-feature-introduction-button-open-vpn = Otwórz VPN
 ipprotection-feature-introduction-button-get-started = Zacznij teraz
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Ustaw 
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Podnieś poziom za pomocą { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Nie trać nieograniczonej przepustowości po 31 sierpnia, korzystając z ponad 300 położeń na 5 urządzeniach, aby utrudnić śledzenie Twoich działań w Internecie.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Otwórz VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Ustaw jako domyślną przeglądarkę
 ipprotection-summer-promo-offramp-get-subscription-button = Wypróbuj { -mozilla-vpn-brand-name }

@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Mac ਨਾਲ ਸਾਂਝਾ ਕਰੋ…
            *[other] …ਨਾਲ ਸਾਂਝਾ ਕਰੋ
         }
-share-panel-os-share =
-    .label = …ਨਾਲ ਸਾਂਝਾ ਕਰੋ
 share-panel-mail =
     .label = ਈਮੇਲ ਭੇਜੋ
 share-panel-screenshot =
     .label = ਸਕਰੀਨ-ਸ਼ਾਟ ਲਵੋ
 share-panel-qr-code-2 =
     .label = QR ਕੋਡ ਬਣਾਓ
-share-panel-qr-code =
-    .label = QR ਕੋਡ ਨੂੰ ਸਾਂਝਾ ਕਰੋ
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = ਕੋਈ ਡਿਵਾਈਸ ਜੋੜੋ
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = ਆਪਣੇ ਫ਼ੋਨ ਨੂੰ ਨਹੀਂ ਵੇਖ ਰਹੇ ਹੋ?
-share-panel-os-share-subview =
-    .title = …ਨਾਲ ਸਾਂਝਾ ਕਰੋ

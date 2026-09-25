@@ -20,8 +20,8 @@ backup-folder-name = { -brand-product-name } ਨੂੰ ਬਹਾਲ ਕਰੋ
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } ਦਾ ਬੈਕਅੱਪ
 settings-data-backup-header2 =
-    .label = ਬੈਕਅੱਪ
     .description = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਡਾਟੇ ਨੂੰ ਆਪਣੇ-ਆਪ ਸੁਰੱਖਿਆ ਦਿਓ।
+    .label = ਬੈਕਅੱਪ
 settings-data-backup-toggle = ਬੈਕਅੱਪ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 settings-data-backup-toggle-on2 =
     .label = ਬੈਕਅੱਪ ਨੂੰ ਚਾਲੂ ਕਰੋ
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = …ਸੋਧੋ
 settings-data-create-backup-error = { DATETIME($date, timeStyle: "short") },  { DATETIME($date, dateStyle: "short") } ਨੂੰ ਬੈਕਅੱਪ ਬਣਾਉਣ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਸੀ
 settings-sensitive-data-encryption-description = ਆਪਣੇ ਪਾਸਵਰਡ ਅਤੇ ਭੁਗਤਾਨ ਦੇ ਢੰਗਾਂ ਦੇ ਬੈਕਅੱਪ ਨਾਲ ਨਾਲ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
 settings-data-toggle-encryption-label2 =
-    .label = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
     .description = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਅਤੇ ਭੁਗਤਾਨ ਢੰਗਾਂ ਦਾ ਬੈਕਅੱਪ ਲਵੋ ਅਤੇ ਆਪਣੇ ਸਾਰੇ ਡਾਟੇ ਨੂੰ ਇੰਕ੍ਰਿਪਸ਼ਨ ਨਾਲ ਸੁਰੱਖਿਅਤ ਰੱਖੋ।
+    .label = ਆਪਣੇ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਦਾ ਬੈਕਅੱਪ ਲਵੋ
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = ਫ਼ਾਇਲ ਦਾ ਨਾਂ: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ
     .description = ਆਪਣੇ { -brand-product-name } ਡਾਟਾ ਬੈਕਅੱਪ ਨੂੰ ਇਸ ਦੇ ਪਿਛਲੇ ਲਏ ਹੋਏ ਬੈਕਅੱਪ ਤੋਂ ਬਹਾਲ ਕਰੋ।
-settings-data-backup-restore-scheduled-off =
     .label = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ
+settings-data-backup-restore-scheduled-off =
     .description = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰਨ ਲਈ ਹੋਰ ਡਿਵਾਈਸ ਤੋਂ { -brand-product-name } ਬੈਕਅੱਪ ਨੂੰ ਵਰਤੋਂ।
-
-##
-
+    .label = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਬਹਾਲ ਕਰੋ
 settings-sensitive-data =
     .label = ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟਾ
 settings-data-toggle-encryption-support-link = ਹੋਰ ਜਾਣੋ
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b>  { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ਨੂੰ { $machineName } ਉੱਤੇ ਬਣਾਇਆ ਗਿਆ
+backup-file-creation-metadata2 = <b>{ $profileName }</b>  { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ਨੂੰ { $machineName } ਉੱਤੇ ਬਣਾਇਆ ਗਿਆ
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = { $deviceName } ਤੋਂ { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } ਨੂੰ { DATETIME($date, hour: "2-digit", minute: "2-digit") } ਵਜੇ ਬਹਾਲ ਕੀਤਾ ਗਿਆ
+backup-restored-profile-name = { $deviceName } ਤੋਂ { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ਨੂੰ { DATETIME($date, hour: "2-digit", minute: "2-digit") } ਵਜੇ ਬਹਾਲ ਕੀਤਾ ਗਿਆ
 backup-file-restore-file-validation-error = ਇਹ ਫ਼ਾਇਲ ਕੰਮ ਨਹੀਂ ਕਰਦੀ ਹੈ। ਵੱਖਰੀ ਫ਼ਾਇਲ ਚੁਣ ਕੇ ਵੇਖੋ। <a data-l10n-name="restore-problems">ਹਾਲੇ ਵੀ ਸਮੱਸਿਆਵਾਂ ਹਨ?</a>
 restore-from-backup-filepicker-input =
     .placeholder = ਕੋਈ ਫ਼ਾਇਲ ਨਹੀਂ ਚੁਣੀ

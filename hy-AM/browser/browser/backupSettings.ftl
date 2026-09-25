@@ -20,8 +20,8 @@ backup-folder-name = Վերականգնել { -brand-product-name }-ը
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }-ի պահուստավորում
 settings-data-backup-header2 =
-    .label = Պահուստավորում
     .description = Ինքնաբար պաշտպանել ձեր էջանիշերը, պատմությունը և այլ տվյաները:
+    .label = Պահուստավորում
 settings-data-backup-toggle = Կառավարել պահուստավորումը
 settings-data-backup-toggle-on2 =
     .label = Միացնել պահուստավորումը
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Խմբագրել...
 settings-data-create-backup-error = Ձեր պահուստային պատճենը ստեղծելիս սխալ տեղի ունեցավ { DATETIME($date, timeStyle: "short") }{ DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Պահուստավորեք ձեր գաղտնաբառերն ու վճարման եղանակները, ինչպես նաև պահեք ձեր բոլոր տվյալները անվտանգ կոդավորման միջոցով։
 settings-data-toggle-encryption-label2 =
-    .label = Պահուստավորեք ձեր զգայուն տվյալները
     .description = Պահուստավորեք ձեր գաղտնաբառերը և վճարամիջոցները և պահեք բոլոր տվյալները գաղտնագրված:
+    .label = Պահուստավորեք ձեր զգայուն տվյալները
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ֆայլի անունը՝ { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Վերականգնել ձեր տվյալները
     .description = Վերականգնեք ձեր { -brand-product-name }-ի տվյալները վերջին պահուստավորումից:
+    .label = Վերականգնել ձեր տվյալները
 settings-data-backup-restore-scheduled-off =
-    .label = Վերականգնեք ձեր տվյալները
     .description = Ձեր տվյալները վերականգնելու համար օգտագործեք { -brand-product-name } պահուստային պատճենը մեկ այլ սարքից։
-
-##
-
+    .label = Վերականգնեք ձեր տվյալները
 settings-sensitive-data =
     .label = Զգայուն տվյալներ
 settings-data-toggle-encryption-support-link = Իմանալ ավելին
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b>-ը ստեղծվել է { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } { $machineName }-ում
+backup-file-creation-metadata2 = <b>{ $profileName }</b>-ը ստեղծվել է { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { $machineName }-ում
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Վերականգնվել է { $deviceName }-ից { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } ժամը { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Վերականգնվել է { $deviceName }-ից { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } ժամը { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Այս ֆայլը չի աշխատում։ Փորձեք ընտրել այլ ֆայլ։ <a data-l10n-name="restore-problems">Դեռևս խնդիրներ ունե՞ք։</a>
 restore-from-backup-filepicker-input =
     .placeholder = Չկա ընտրված ֆայլ:

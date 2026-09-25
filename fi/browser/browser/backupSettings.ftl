@@ -20,8 +20,8 @@ backup-folder-name = Palauta { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }in_varmuuskopio
 settings-data-backup-header2 =
-    .label = Varmuuskopiointi
     .description = Suojaa automaattisesti kirjanmerkit, selaushistoria ja muut tiedot.
+    .label = Varmuuskopiointi
 settings-data-backup-toggle = Hallitse varmuuskopiointia
 settings-data-backup-toggle-on2 =
     .label = Ota varmuuskopiointi käyttöön
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Muokkaa…
 settings-data-create-backup-error = Varmuuskopion luomisessa { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } tapahtui virhe
 settings-sensitive-data-encryption-description = Varmuuskopioi salasanasi ja maksutapasi, pidä kaikki tietosi turvassa salauksen avulla.
 settings-data-toggle-encryption-label2 =
-    .label = Varmuuskopioi arkaluontoiset tietosi
     .description = Varmuuskopioi salasanat ja maksutavat, ja pidä tiedot turvassa salauksen avulla.
+    .label = Varmuuskopioi arkaluontoiset tietosi
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Tiedostonimi: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Palauta tietosi
     .description = Palauta { -brand-product-name }-tietosi viimeisimmästä varmuuskopioinnista.
-settings-data-backup-restore-scheduled-off =
     .label = Palauta tietosi
+settings-data-backup-restore-scheduled-off =
     .description = Käytä { -brand-product-name }-varmuuskopiota toiselta laitteelta palauttaaksesi tietosi.
-
-##
-
+    .label = Palauta tietosi
 settings-sensitive-data =
     .label = Arkaluontoiset tiedot
 settings-data-toggle-encryption-support-link = Lue lisää
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> luotu { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } laitteella { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> luotu { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } laitteella { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Palautettu laitteen { $deviceName } varmuuskopiosta { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } kello { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Palautettu laitteen { $deviceName } varmuuskopiosta { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } kello { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Tämä tiedosto ei toimi. Kokeile valita toinen tiedosto. <a data-l10n-name="restore-problems">Onko ongelmia edelleen?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Tiedostoa ei ole valittu

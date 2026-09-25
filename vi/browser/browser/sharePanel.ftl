@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Chia sẻ với Mac…
            *[other] Chia sẻ với…
         }
-share-panel-os-share =
-    .label = Chia sẻ với…
 share-panel-mail =
     .label = Gửi email
 share-panel-screenshot =
     .label = Chụp ảnh màn hình
 share-panel-qr-code-2 =
     .label = Tạo mã QR
-share-panel-qr-code =
-    .label = Chia sẻ mã QR
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Thêm thiết bị
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Kết nối thiết bị khác
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Không thấy thiết bị của bạn?
-share-panel-os-share-subview =
-    .title = Chia sẻ với…

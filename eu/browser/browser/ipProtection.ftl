@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = VPNa aurkezten dugu, orain nabigatzailean integratuta
 ipprotection-feature-introduction-title-1 = Probatu { -brand-product-name }(r)en integratutako VPNa
 ipprotection-feature-introduction-link-text-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Gehitu beste pribatutasun geruza bat
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Bidaia-planak dituzu? Era
 ipprotection-feature-introduction-description-summer-promo = Joan urrutirago { -brand-product-name }(r)en integratutako VPNarekin: kokapen gehiago, banda-zabalera mugagabea. Orain abuztuaren 31ra arte.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Wi-Fi publikoan zaude? Probatu { -brand-product-name }(r)en integratutako VPNa.
 ipprotection-feature-introduction-description-captive-portal = Nabigatu babes estraz zure kokapena ezkutatuz, baita Wi-Fi publikoetan ere.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Kendu VPNa tresna-barratik
 ipprotection-feature-introduction-button-open-vpn = Ireki VPNa
 ipprotection-feature-introduction-button-get-started = Hasi erabiltzen
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Egizu 
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Igo mailaz { -mozilla-vpn-brand-name } erabilita
 ipprotection-summer-promo-offramp-subscription-upsell-description = Izan banda-zabalera mugagabea abuztuaren 31tik aurrera, 300+ kokapenekin eta 5 gailura arte, nabigazioaren zure aztarna jarraitzea zailtzeko.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Ireki VPNa
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Ezarri lehenetsi gisa
 ipprotection-summer-promo-offramp-get-subscription-button = Eskuratu { -mozilla-vpn-brand-name }

@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Mit Mac teilen…
            *[other] Teilen mit…
         }
-share-panel-os-share =
-    .label = Teilen mit…
 share-panel-mail =
     .label = E-Mail senden
 share-panel-screenshot =
     .label = Bildschirmfoto aufnehmen
 share-panel-qr-code-2 =
     .label = QR-Code generieren
-share-panel-qr-code =
-    .label = QR-Code teilen
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Gerät hinzufügen
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Weiteres Gerät verbinden
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Ihr Gerät wird nicht angezeigt?
-share-panel-os-share-subview =
-    .title = Teilen mit…

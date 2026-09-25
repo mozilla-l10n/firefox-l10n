@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = შემოთავაზებულია VPN, ახლა უკვე პირდაპირ თქვენს ბრაუზერში
 ipprotection-feature-introduction-title-1 = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = დაამატეთ პირადულობის კიდევ ერთი შრე
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ჩაშენებული VPN-ით</a> დაგეხმარებათ გვერდების უსაფრთხოდ მონახულებაში. აირჩიეთ არაერთი მდებარეობიდან რომელიმე მეტად პირადი მოგზაურობისთვის ვებსივრცეში.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ჩაშენებული VPN-ით</a> დაგეხმარებათ გვერდების უსაფრთხოდ მონახულებაში. აირჩიეთ ერთ-ერთი რამდენიმე მდებარეობიდან ვებსივრცეში მეტად პირადი მოგზაურობისთვის.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = გეგმავთ მ
 ipprotection-feature-introduction-description-summer-promo = უფრო შორს წასვლის საშუალება გაძლევთ { -brand-product-name } ჩაშენებული VPN-ით: მეტი ადგილმდებარეობა, შეუზღუდავი გამტარუნარიანობა. ახლა უკვე 31 აგვისტომდე.
 ipprotection-feature-introduction-link-text-private-browsing-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად პირადი ფანჯრით სარგებლობის დროსაც.
 ipprotection-feature-introduction-description-private-browsing = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის პირად ფანჯრებში.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის საჯარო WiFi-ქსელებში.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = მოცილდეს VPN ხელსაწყოთა ზოლიდან
 ipprotection-feature-introduction-button-open-vpn = გახსენით VPN
 ipprotection-feature-introduction-button-get-started = დაიწყეთ
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = აქ
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = ახალ დონეზე აიყვანეთ { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = შეინარჩუნეთ შეუზღუდავი გამტარუნარიანობა 31 აგვისტოს შემდგომ 300+ მდებარეობით 5-ამდე მოწყობილობაზე გვერდების მონახულებისას თვალის დევნების გასაძნელებლად.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = გახსენით VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = ნაგულისხმევად დაყენება
 ipprotection-summer-promo-offramp-get-subscription-button = გამოიყენეთ { -mozilla-vpn-brand-name }

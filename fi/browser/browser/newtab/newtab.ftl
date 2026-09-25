@@ -338,16 +338,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = Hae nimellä tai symbolilla
     .label = Haku
     .title = Hae nimellä tai symbolilla
-    .aria-label = Hae nimellä tai symbolilla
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = Hae nimellä tai symbolilla
     .label = Haku
     .title = Hae nimellä tai symbolilla
-    .aria-label = Hae nimellä tai symbolilla
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Osakkeet
@@ -508,9 +508,6 @@ newtab-recent-searches-just-now = Juuri nyt
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Poista ”{ $search }” viimeaikaisista hauista
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Haku
 # Screen reader label for the widget's icon-only menu button.
@@ -581,9 +578,6 @@ newtab-topsites-image-url-label = Oman kuvan osoite
 newtab-topsites-use-custom-image-link = Käytä omaa kuvaa
 newtab-topsites-use-image-link = Käytä omaa kuvaa…
 newtab-topsites-image-validation = Kuvan lataaminen epäonnistui. Kokeile toista osoitetta.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Tyhjennä teksti
 
@@ -1019,9 +1013,6 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
-## Firefox wallpaper descriptions used for screen readers
-
-
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
@@ -1433,9 +1424,6 @@ newtab-promo-card-cta = Lue lisää
 newtab-promo-card-dismiss-button =
     .aria-label = Hylkää
     .title = Hylkää
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

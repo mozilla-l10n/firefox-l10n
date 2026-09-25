@@ -20,5 +20,5 @@ backup-folder-name = Taasta { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }iVarukoopia
 settings-data-backup-header2 =
-    .label = Varundamine
     .description = Automaatselt kaitse oma järjehoidjaid, ajalugu ja andmeid.
+    .label = Varundamine

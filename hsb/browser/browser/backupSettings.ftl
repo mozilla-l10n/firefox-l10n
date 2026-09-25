@@ -20,8 +20,8 @@ backup-folder-name = { -brand-product-name } wobnowić
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Zawěsćenje { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Zawěsćenje
     .description = Škitajće awtomatisce swoje zapołožki, historiju a druhe daty.
+    .label = Zawěsćenje
 settings-data-backup-toggle = Zawěsćenje rjadować
 settings-data-backup-toggle-on2 =
     .label = Zawěsćenje zmóžnić
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Wobdźěłać…
 settings-data-create-backup-error = Při wašim zawěsćenju  { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") } je zmylk nastał
 settings-sensitive-data-encryption-description = Zawěsćće swoje hesła a płaćenske metody a dźeržće wšě swoje daty wěste ze zaklučowanjom.
 settings-data-toggle-encryption-label2 =
-    .label = Zawěsćće swoje sensibelne daty
     .description = Zawěsćće swoje hesła a płaćenske metody a wobchowajće swoje daty wěste ze zaklučowenjom.
+    .label = Zawěsćće swoje sensibelne daty
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Datajowe mjeno: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Waše daty wobnowić
     .description = Wobnowće swoje daty { -brand-product-name } z časa, hdyž su so zawěsćili.
-settings-data-backup-restore-scheduled-off =
     .label = Waše daty wobnowić
+settings-data-backup-restore-scheduled-off =
     .description = Wužiwajće zawěsćenje { -brand-product-name } z druheho grata, zo byšće swoje daty wobnowił.
-
-##
-
+    .label = Waše daty wobnowić
 settings-sensitive-data =
     .label = Sensibelne daty
 settings-data-toggle-encryption-support-link = Dalše informacije
@@ -258,11 +255,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> wutworjeny dnja { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } na { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> wutworjeny dnja { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } na { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Wobnowjeny z { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Wobnowjeny z { $deviceName } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Tuta dataja njefunguje. Wubjerće druhu dataju. <a data-l10n-name="restore-problems">Maće hišće problemy?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Žana dataja wubrana

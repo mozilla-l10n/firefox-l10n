@@ -39,9 +39,6 @@ neterror-search-cta-title = Spletno mesto ni dosegljivo
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = S strežnikom na naslovu <strong>{ $hostname }</strong> se ni bilo mogoče povezati.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = S strežnikom na naslovu { $domain } se ni bilo mogoče povezati.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Poskusite naslednje:
 neterror-search-cta-hint-check-address = Preverite, ali je naslov spletnega mesta pravilen
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Ponovno naloži
     .accesskey = P
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Nalaganje
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Kaže, da niste povezani z internetom. Znova vzpostavite povezavo in poskusite znova.

@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Представляємо VPN, тепер прямо у вашому браузері
 ipprotection-feature-introduction-title-1 = Спробуйте вбудовану VPN від { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Скористайтеся нашою новою <a data-l10n-name="learn-more-vpn">вбудованою VPN</a>, щоб приховати своє розташування і захистити свої дані.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Додайте ще один рівень приватності
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Вбудована VPN від { -brand-product-name }</a> допомагає захистити вас під час вебперегляду. Виберіть одне з кількох розташувань, щоб забезпечити вдосконалену приватність.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Вбудована VPN від { -brand-product-name }</a> допомагає захистити вас під час вебперегляду. Виберіть одне з багатьох розташувань, щоб забезпечити вдосконалену приватність.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Плануєте подо
 ipprotection-feature-introduction-description-summer-promo = Отримайте більше можливостей із вбудованою VPN від { -brand-product-name }: більше розташувань, необмежена пропускна здатність. Пропозиція діє до 31 серпня.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скористайтеся нашою новою <a data-l10n-name="learn-more-vpn">вбудованою VPN</a>, щоб приховати своє розташування і захистити свої дані, навіть в режимі приватного перегляду.
 ipprotection-feature-introduction-description-private-browsing = Переглядайте вебсторінки з додатковим захистом, приховуючи своє розташування, навіть у режимі приватного перегляду.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Користуєтеся публічною мережею Wi-Fi? Спробуйте вбудовану VPN від { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Переглядайте вебсторінки з додатковим захистом, приховуючи своє розташування, навіть у публічних мережах Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -54,12 +52,8 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Відкрити VPN
 ipprotection-feature-introduction-button-get-started = Розпочати
 
-## Callout shown when the user opens a private browsing window
-
-
 ## Summer promo offramp callout buttons
 
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Відкрити VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Отримати { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Відхилити

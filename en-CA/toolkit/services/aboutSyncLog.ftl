@@ -2,13 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 about-sync-log-title = Sync logs
 about-sync-log-page-header =
-    .heading = Sync logs
     .description = Diagnostic logs written by sync.
+    .heading = Sync logs
 
 ## Filter controls
+
 about-sync-log-filter-type =
     .aria-label = Type
 about-sync-log-filter-type-all =
@@ -28,10 +28,11 @@ about-sync-log-filter-date-7days =
 about-sync-log-filter-date-30days =
     .label = Last 30 days
 about-sync-log-search-input =
-    .placeholder = Search logs
     .aria-label = Search logs
+    .placeholder = Search logs
 
 ## Toolbar actions
+
 about-sync-log-refresh-button =
     .label = Refresh
 about-sync-log-download-button =
@@ -40,6 +41,7 @@ about-sync-log-clear-button =
     .label = Clear logs
 
 ## Log list
+
 # Variables:
 #   $count (Number) - Number of logs currently shown.
 about-sync-log-count =
@@ -56,8 +58,6 @@ about-sync-log-row-success =
 #   $date (number) - Timestamp of when the log was written.
 about-sync-log-row-error =
     .heading = Error — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
-about-sync-log-badge-success = Success
-about-sync-log-badge-error = Error
 # Variables:
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").
@@ -66,12 +66,14 @@ about-sync-log-empty = No sync logs have been recorded.
 about-sync-log-empty-filtered = No logs match the current filters.
 
 ## Inline viewer
+
 about-sync-log-view-error = Could not read this log file.
 # Opens the raw log file in a new browser tab.
 about-sync-log-open-raw =
     .label = Open raw
 
 ## Clear logs confirmation
+
 about-sync-log-clear-confirm-title = Clear sync logs?
 # Variables:
 #   $count (Number) - Number of logs that will be deleted.

@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = השקנו VPN, עכשיו ממש בדפדפן שלך
 ipprotection-feature-introduction-title-1 = לנסות את ה־VPN המובנה של { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = הוספת שכבה נוספת של פרטיות
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין מספר מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין מספר מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
@@ -35,7 +34,6 @@ ipprotection-feature-introduction-text-summer-promo-1 = ניתן להפעיל א
 ipprotection-feature-introduction-title-summer-promo = מתכננים לטייל? קחו את הפרטיות שלכם איתכם.
 ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך, אפילו כשנמצאים בחלון פרטי.
 ipprotection-feature-introduction-description-private-browsing = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשנמצאים בחלון פרטי.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = התחברת ל־Wi-Fi ציבורי? ניתן לנסות את ה־VPN המובנה של { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשמחוברים ל־Wi-Fi ציבורי.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -52,9 +50,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = הסרת VPN מסרגל הכלים
 ipprotection-feature-introduction-button-open-vpn = פתיחת VPN
 ipprotection-feature-introduction-button-get-started = תחילת עבודה
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -81,7 +76,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = כדא
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = לעלות רמה עם { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = ניתן לשמור על רוחב פס בלתי מוגבל לאחר ה־31 באוגוסט, עם למעלה מ־300 מיקומים ב־5 מכשירים כדי להקשות על התחקות הגלישה שלך אליך.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = פתיחת VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = הגדרה כברירת מחדל
 ipprotection-summer-promo-offramp-get-subscription-button = קבלת { -mozilla-vpn-brand-name }

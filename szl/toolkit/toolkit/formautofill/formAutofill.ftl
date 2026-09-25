@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The credit card capture doorhanger
-
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Wypucuj formular
 

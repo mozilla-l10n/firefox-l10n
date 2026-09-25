@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = ขอแนะนำ VPN ที่พร้อมใช้งานได้ทันทีในเบราว์เซอร์ของคุณ
 ipprotection-feature-introduction-title-1 = ลองใช้ VPN ในตัวของ { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งที่ตั้งและปกป้องข้อมูลของคุณ
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = เพิ่มความเป็นส่วนตัวอีกขั้น
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN ในตัวของ { -brand-product-name }</a> จะช่วยปกป้องการเรียกดูของคุณ เลือกตำแหน่งได้หลากหลายเพื่อช่วยให้การเรียกดูของคุณเป็นส่วนตัวขึ้น
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">VPN ในตัวของ { -brand-product-name }</a> จะช่วยปกป้องการเรียกดูของคุณ เลือกตำแหน่งได้หลากหลายเพื่อช่วยให้การเรียกดูของคุณเป็นส่วนตัวขึ้น
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = มีแผนเดิ�
 ipprotection-feature-introduction-description-summer-promo = ไปได้ไกลกว่าเดิมด้วย VPN ในตัวของ { -brand-product-name }: เลือกตำแหน่งได้มากขึ้น แบนด์วิดท์ไม่จำกัด ตั้งแต่วันนี้ถึง 31 สิงหาคม
 ipprotection-feature-introduction-link-text-private-browsing-2 = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งที่ตั้งและปกป้องข้อมูลของคุณ แม้ในขณะที่คุณอยู่ในหน้าต่างส่วนตัว
 ipprotection-feature-introduction-description-private-browsing = ท่องเว็บได้อย่างปลอดภัยยิ่งขึ้นด้วยการซ่อนตำแหน่งที่ตั้งของคุณ แม้ว่าคุณจะอยู่ในหน้าต่างส่วนตัวก็ตาม
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = ใช้งาน Wi-Fi สาธารณะอยู่เหรอ? ลองใช้ VPN ในตัวของ { -brand-product-name } สิ
 ipprotection-feature-introduction-description-captive-portal = ท่องเว็บได้อย่างปลอดภัยยิ่งขึ้นด้วยการซ่อนตำแหน่งที่ตั้งของคุณ แม้ว่าจะใช้ Wi-Fi สาธารณะก็ตาม
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = เอา VPN ออกจากแถบเครื่องมือ
 ipprotection-feature-introduction-button-open-vpn = เปิด VPN
 ipprotection-feature-introduction-button-get-started = เริ่มต้นใช้งาน
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = เล
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = ยกระดับด้วย { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = ใช้งานแบนด์วิดท์ได้ไม่จำกัดต่อไปหลังวันที่ 31 สิงหาคม พร้อมใช้งานกว่า 300 ตำแหน่งเซิร์ฟเวอร์บนอุปกรณ์ได้สูงสุด 5 เครื่อง เพื่อทำให้การเรียกดูของคุณยากต่อการติดตามย้อนกลับมาถึงตัวคุณ
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = เปิด VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = ตั้งเป็นค่าเริ่มต้น
 ipprotection-summer-promo-offramp-get-subscription-button = รับ { -mozilla-vpn-brand-name }

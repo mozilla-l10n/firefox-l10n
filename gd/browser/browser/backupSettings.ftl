@@ -20,8 +20,8 @@ backup-folder-name = Aisig { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Lethbhreac-glèidhidh dhe { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Lethbhreac-glèidhidh
     .description = Dìon na comharran-lìn, an eachdraidh ’s an còrr dhen dàta agad gu fèin-obrachail.
+    .label = Lethbhreac-glèidhidh
 settings-data-backup-toggle = Stiùirich na lethbreacan-glèidhidh
 settings-data-backup-toggle-on2 =
     .label = Cuir na lethbhreacan-glèidhidh air
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Deasaich…
 settings-data-create-backup-error = Cha b’ urrainn dhuinn an lethbhreac-glèidhidh agad a chruthachadh { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Dèan lethbhreac-glèidhidh dhe na faclan-faire is dòighean-pàighidh agus cùm an dàta agad sàbhailte le bhith ga chrioptachadh.
 settings-data-toggle-encryption-label2 =
-    .label = Dèan lethbhreac-glèidhidh dhen dàta dìomhair agad
     .description = Dèan lethbhreac-glèidhidh dhe na faclan-faire ’s dòighean pàighidh agad is cùm an dàta air fad agad le bhith ga chrioptachadh.
+    .label = Dèan lethbhreac-glèidhidh dhen dàta dìomhair agad
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Ainm an fhaidhle: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Aisig an dàta agad
     .description = Aisig an dàta { -brand-product-name } agad mar a bha e an turas mu dheireadh a rinn thu lethbhreac-glèidhidh dheth.
-settings-data-backup-restore-scheduled-off =
     .label = Aisig an dàta agad
+settings-data-backup-restore-scheduled-off =
     .description = Cleachd lethbhreac-glèidhidh { -brand-product-name } o uidheam eile airson an dàta agad aiseag.
-
-##
-
+    .label = Aisig an dàta agad
 settings-sensitive-data =
     .label = Dàta dìomhair
 settings-data-toggle-encryption-support-link = Barrachd fiosrachaidh
@@ -253,11 +250,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> air a chruthachadh { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } air { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> air a chruthachadh { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } air { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Chaidh aiseag o { $deviceName } { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } aig { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Chaidh aiseag o { $deviceName } { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } aig { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Chan eil am faidhle seo ag obair. Feuch is tagh faidhle eile. <a data-l10n-name="restore-problems">A bheil duilgheadasan agad fhathast?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Cha deach faidhle a thaghadh

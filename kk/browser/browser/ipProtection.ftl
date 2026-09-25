@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Енді браузеріңіздің ішінде қолжетімді болатын VPN ұсынамыз
 ipprotection-feature-introduction-title-1 = { -brand-product-name } құрамындағы VPN қолданып көріңіз
 ipprotection-feature-introduction-link-text-2 = Орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Жекеліктің тағы бір деңгейін қосыңыз
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } кірістірілген VPN-і</a> шолуыңызды қорғауға көмектеседі. Шолу орнын құпиялырақ сақтау үшін бірнеше орналасудың бірін таңдаңыз.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ішіне орнатылған VPN</a> шолуыңызды қорғауға көмектеседі. Шолуыңызды көбірек жеке сақтау үшін бірнеше орналасудың бірін таңдаңыз.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Сапарға шығуд
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name } ішіне ендірілген VPN арқылы көбірек мүмкіндікке ие болыңыз: көбірек орналасулар, шексіз өткізу жолағы. 31 тамызға дейін жарамды.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Жекелік шолу терезесінде болсаңыз да, орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-description-private-browsing = Жекелік терезесінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Жалпыға ортақ Wi-Fi желісіндесіз бе? { -brand-product-name } құрамындағы VPN қызметін қолданып көріңіз.
 ipprotection-feature-introduction-description-captive-portal = Қоғамдық Wi-Fi желісінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN-ды саймандар тақтасынан алып тастау
 ipprotection-feature-introduction-button-open-vpn = VPN ашу
 ipprotection-feature-introduction-button-get-started = Бастау
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = { -bra
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = { -mozilla-vpn-brand-name } көмегімен деңгейіңізді көтеріңіз
 ipprotection-summer-promo-offramp-subscription-upsell-description = Шолуыңызды бақылауды қиындату үшін, 31 тамыздан кейін 5 құрылғыда 300-ден астам орналасуы бар шексіз өткізу қабілеттілігін сақтаңыз.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN ашу
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Әдепкі күйге орнату
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } алу

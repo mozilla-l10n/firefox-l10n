@@ -39,9 +39,6 @@ neterror-search-cta-title = Tute sydło docpějomny njeje
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Zwisk z serwerom na <strong>{ $hostname }</strong> móžny njeje.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Zwisk z serwerom na { $domain } móžny njeje.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Spytajće tute kroki:
 neterror-search-cta-hint-check-address = Přepruwujće adresu websydła dwójce
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Znowa začitać
     .accesskey = Z
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Začituje so
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Zda so, zo sće offline. Zwjazajće znowa a spytajće hišće raz.

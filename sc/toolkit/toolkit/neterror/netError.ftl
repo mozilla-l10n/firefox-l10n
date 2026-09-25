@@ -36,9 +36,6 @@ neterror-search-cta-title = Non faghet a lòmpere a custu situ
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Non faghet a connètere a su serbidore de <strong>{ $hostname }</strong>.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Non faghet a connètere a su serbidore de { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Proa custos passos:
 neterror-search-cta-hint-check-address = Torra a verificare s’indiritzu de su situ web
@@ -58,8 +55,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Torra a carrigare
     .accesskey = T
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Càrriga in cursu...
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Paret chi non ses in lìnia. Torra·ti a connètere e torra·nche a proare.

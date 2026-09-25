@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Dela med Mac…
            *[other] Dela med…
         }
-share-panel-os-share =
-    .label = Dela med…
 share-panel-mail =
     .label = Skicka e-post
 share-panel-screenshot =
     .label = Ta en skärmdump
 share-panel-qr-code-2 =
     .label = Skapa QR-kod
-share-panel-qr-code =
-    .label = Dela QR-kod
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Lägg till en enhet
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Anslut en annan enhet
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Hittar du inte din enhet?
-share-panel-os-share-subview =
-    .title = Dela med…

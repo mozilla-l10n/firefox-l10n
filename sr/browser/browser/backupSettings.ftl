@@ -20,8 +20,8 @@ backup-folder-name = Поврати { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name }Резерва
 settings-data-backup-header2 =
-    .label = Резервна копија
     .description = Самостално заштитите своје обележиваче, историјат и друге податке.
+    .label = Резервна копија
 settings-data-backup-toggle = Управљај резервном копијом
 settings-data-backup-toggle-on2 =
     .label = Укључи резервну копију
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Уреди…
 settings-data-create-backup-error = Дошло је до грешке приликом прављења резервне копије { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Направите резервну копију својих лозинки и начина плаћања и чувајте све своје податке безбедним помоћу шифровања.
 settings-data-toggle-encryption-label2 =
-    .label = Направите резервну копију својих осетљивих података
     .description = Направите резервну копију својих лозинки и начина плаћања и чувајте све своје податке безбедним помоћу шифровања.
+    .label = Направите резервну копију својих осетљивих података
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Назив датотеке: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Повратите своје податке
     .description = Повратите своје { -brand-product-name } податке од тренутка када је последњи пут направљена резервна копија.
+    .label = Повратите своје податке
 settings-data-backup-restore-scheduled-off =
-    .label = Поврати своје податке
     .description = Користите { -brand-product-name } резервну копију са другог уређаја да повратите своје податке.
-
-##
-
+    .label = Поврати своје податке
 settings-sensitive-data =
     .label = Осетљиви подаци
 settings-data-toggle-encryption-support-link = Сазнајте више
@@ -257,11 +254,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> је направљен { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } на { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> је направљен { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } на { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Обновљено са уређаја { $deviceName } дана { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } у { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Обновљено са уређаја { $deviceName } дана { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } у { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Ова датотека не ради. Покушајте да изаберете другу датотеку. <a data-l10n-name="restore-problems">И даље имате проблема?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Није изабрана ниједна датотека

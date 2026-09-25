@@ -66,14 +66,14 @@ genai-shortcut-button-2 =
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =
-    .tooltiptext = Search { $engine } for “{ $selection }”
     .aria-label = Search { $engine } for “{ $selection }”
+    .tooltiptext = Search { $engine } for “{ $selection }”
 genai-shortcut-copy-button =
-    .tooltiptext = Copy selected text
     .aria-label = Copy selected text
+    .tooltiptext = Copy selected text
 genai-shortcut-more-actions-button =
-    .tooltiptext = More options
     .aria-label = More options
+    .tooltiptext = More options
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Ask { $provider }

@@ -39,9 +39,6 @@ neterror-search-cta-title = Ez a webhely nem érhető el
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Nem sikerült kapcsolódni a(z) <strong>{ $hostname }</strong> kiszolgálóhoz.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Nem sikerült kapcsolódni a(z) { $domain } kiszolgálóhoz.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Próbálja ki ezeket a lépéseket:
 neterror-search-cta-hint-check-address = Ellenőrizze újra a webhely címét
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Frissítés
     .accesskey = F
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Betöltés
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Úgy tűnik, hogy jelenleg offline. Csatlakozzon újra, és próbálkozzon újra.

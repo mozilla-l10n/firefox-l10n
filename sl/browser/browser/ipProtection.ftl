@@ -26,10 +26,8 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Predstavljamo VPN, zdaj neposredno v vašem brskalniku
 ipprotection-feature-introduction-title-1 = Preizkusite { -brand-product-name }ov vgrajeni VPN
 ipprotection-feature-introduction-link-text-2 = Z našim novim <a data-l10n-name="learn-more-vpn">vgrajenim VPN-jem</a> skrijte svojo lokacijo in zaščitite svoje podatke.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Dodajte še eno raven zasebnosti
 ipprotection-feature-introduction-title-summer-promo = Se odpravljate na pot? Vzemite zasebnost s seboj.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Povezani na javni Wi-Fi? Preizkusite { -brand-product-name }ov vgrajeni VPN.
 ipprotection-feature-introduction-description-captive-portal = Brskajte z dodatno zaščito s skrivanjem vaše lokacije, tudi na javnem omrežju Wi-Fi.
 ipprotection-feature-introduction-button-primary = Naprej
@@ -45,9 +43,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Odpri VPN
 ipprotection-feature-introduction-button-get-started = Začni
 
-## Callout shown when the user opens a private browsing window
-
-
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -61,7 +56,6 @@ ipprotection-summer-promo-offramp-subscriber-title = Vaš vgrajeni VPN je zdaj �
 # This appears in a promo message with a button labeled "Set to default"
 ipprotection-summer-promo-offramp-default-browser-incentive-title = Obdržite dodatne lokacije vgrajenega VPN
 ipprotection-summer-promo-offramp-default-browser-incentive-description = Nastavite { -brand-product-name(sklon: "tozilnik") } kot privzeti brskalnik in po 31. avgustu pridobite več kot 20 dodatnih lokacij za brskanje.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Odpri VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Nastavi kot privzet brskalnik
 ipprotection-summer-promo-offramp-get-subscription-button = Prenesi { -mozilla-vpn-brand-name }
@@ -181,9 +175,6 @@ ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mo
 
 ipprotection-bandwidth-upgrade-title = Vam je vgrajeni VPN všeč? Zagotovite si zaščito tudi zunaj { -brand-product-name(sklon: "rodilnik") } z { -mozilla-vpn-brand-name }.
 
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-description =
@@ -257,9 +248,6 @@ ip-protection-bandwidth-header-1 = Mesečna omejitev prenosa podatkov
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Razumem
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

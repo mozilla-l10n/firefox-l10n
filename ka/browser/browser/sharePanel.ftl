@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] გაზიარებისთვის გამოიყენეთ Mac…
            *[other] გაზიარებისთვის გამოიყენეთ…
         }
-share-panel-os-share =
-    .label = გაზიარება…
 share-panel-mail =
     .label = ელფოსტით
 share-panel-screenshot =
     .label = ეკრანის გადაღება
 share-panel-qr-code-2 =
     .label = QR-კოდის შედგენა
-share-panel-qr-code =
-    .label = QR-კოდის გაზიარება
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = მოწყობილობის დამატება
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = სხვა მოწყობილობის დაკავშირება
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = არ ჩანს თქვენი მოწყობილობა?
-share-panel-os-share-subview =
-    .title = გაზიარება…

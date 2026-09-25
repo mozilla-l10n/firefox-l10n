@@ -5,9 +5,6 @@
 settings-data-backup-trigger-button = Ḥrez tura
 settings-data-backup-last-backup-location-show-in-folder = Sken deg ukaram
 settings-data-backup-last-backup-location-edit = Ẓreg…
-
-##
-
 settings-data-toggle-encryption-support-link = Issin ugar
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.

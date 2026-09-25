@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Emoherakuã Mac ndive…
            *[other] Emoherakuã amóvandi…
         }
-share-panel-os-share =
-    .label = Emoherakuã kóvandi…
 share-panel-mail =
     .label = Emondo ñanduti veve
 share-panel-screenshot =
     .label = Ejapyhy mba’erechaha
 share-panel-qr-code-2 =
     .label = Emoheñói QR ayvu
-share-panel-qr-code =
-    .label = Emoherakuã QR ayvu
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Embojuaju mba’e’oka
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Embojuaju ambue mba’e’oka
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = ¿Nderehechái mba’e’oka?
-share-panel-os-share-subview =
-    .title = Emoherakuã kóvandi…

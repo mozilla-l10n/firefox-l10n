@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 settings-data-backup-header2 =
-    .label = បម្រុងទុក
     .description = ការពារចំណាំ ប្រវត្តិ និងទិន្នន័យផ្សេងទៀតរបស់អ្នកដោយស្វ័យប្រវត្តិ។
+    .label = បម្រុងទុក
 settings-data-backup-toggle = គ្រប់គ្រងការបម្រុងទុក
 settings-data-backup-toggle-on2 =
     .label = បើកការបម្រុងទុក
@@ -19,9 +19,6 @@ settings-data-backup-last-backup-location-edit = កែសម្រួល…
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = ឈ្មោះឯកសារ៖ { $fileName }
-
-##
-
 settings-data-toggle-encryption-support-link = ស្វែងយល់​បន្ថែម
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.

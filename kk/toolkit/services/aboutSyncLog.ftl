@@ -49,8 +49,6 @@ about-sync-log-count =
         [one] { $count } журнал
        *[other] { $count } журнал
     }
-about-sync-log-badge-success = Сәтті
-about-sync-log-badge-error = Қате
 # Variables:
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").

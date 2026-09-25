@@ -185,12 +185,6 @@ newtab-privacy-across-sites =
        *[other] En { $count } llocs web
     }
 
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -280,12 +274,6 @@ newtab-stocks-ticker-status-down = { $name }, baixa un { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sense canvis, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
-
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -336,19 +324,6 @@ newtab-picture-check-back = Torneu demà per a veure una altra imatge.
 # provides no localized description.
 newtab-picture-image-alt = Imatge del dia a Wikimedia Commons
 
-## Strings for the Search widget
-
-
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
-
 ## Search box component.
 
 # "Search" is a verb/action
@@ -395,9 +370,6 @@ newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-custom-image-link = Utilitza una imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Esborra el text
 
@@ -426,9 +398,6 @@ newtab-topsite-sponsored = Patrocinat
 topsite-label-pinned =
     .aria-label = { $title } (fixat)
     .title = { $title }
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -629,12 +598,6 @@ newtab-custom-close-menu-button =
     .title = Tanca
 newtab-custom-settings = Gestiona més paràmetres
 
-## Customization Menu
-
-
-## New Tab Appearance (browser theme picker)
-
-
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -665,11 +628,6 @@ newtab-wallpaper-dark-mountain = Paisatge de muntanya
 newtab-wallpaper-dark-city = Paisatge urbà porpra
 newtab-wallpaper-dark-fox-anniversary = Una guineu a la vorera prop d'un bosc
 newtab-wallpaper-light-fox-anniversary = Una guineu en un camp d'herba amb un paisatge de muntanya emboirat
-
-## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
-## can be a file they uploaded, a Picture of the Day they chose to keep, or a
-## Firefox wallpaper kept for them when it was retired.
-
 
 ## Solid Colors
 
@@ -735,9 +693,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 
@@ -1123,9 +1078,6 @@ newtab-promo-card-cta = Més informació
 newtab-promo-card-dismiss-button =
     .aria-label = Ignora
     .title = Ignora
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -1266,9 +1218,6 @@ newtab-activation-window-message-dismiss-button =
     .title = Tanca
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Comença a personalitzar
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

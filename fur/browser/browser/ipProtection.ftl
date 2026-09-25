@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Scuvierç la VPN, cumò dret sul tô navigadôr
 ipprotection-feature-introduction-title-1 = Prove la VPN integrade di { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Dopre la nestre gnove <a data-l10n-name="learn-more-vpn">VPN integrade</a> par platâ la tô posizion e protezi i tiei dâts.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Zonte un altri nivel di riservatece
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra varis lûcs par rindi plui riservade la tô ativitât in rêt.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra diviersis posizions par rindi plui privade la tô ativitât in rêt.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Âstu tal cjâf di fâ un
 ipprotection-feature-introduction-description-summer-promo = Supere i confins cu la VPN integrade di { -brand-product-name }: plui posizions, bande ilimitade. Nome fin ai 31 di Avost.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Dopre la nestre gnove <a data-l10n-name="learn-more-vpn">VPN integrade</a> par platâ la tô posizion e protezi i tiei dâts, ancje cuant tu sês intun barcon privât .
 ipprotection-feature-introduction-description-private-browsing = Navighe cuntune protezion in plui platant la tô posizion, ancje cuant tu sês intun barcon privât.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Sêstu suntune rêt Wi-Fi publiche? Prove la VPN integrade di { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navighe cuntune protezion in plui platant la tô posizion, ancje cun rêts Wi-Fi publichis.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -54,12 +52,8 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Vierç VPN
 ipprotection-feature-introduction-button-get-started = Scomence
 
-## Callout shown when the user opens a private browsing window
-
-
 ## Summer promo offramp callout buttons
 
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Vierç VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Oten { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = Ignore

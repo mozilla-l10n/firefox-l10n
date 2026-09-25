@@ -23,9 +23,8 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Uhu, tanemmirt
 ipprotection-feature-introduction-button-open-vpn = Ldi VPN
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Summer promo offramp callout buttons
 
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Ldi VPN
 
 ## Location selection callout

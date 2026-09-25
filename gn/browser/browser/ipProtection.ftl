@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Rohechauka VPN, ko’ág̃a ne kundahára ryepýpe
 ipprotection-feature-introduction-title-1 = Eiporu VPN jehe’apyre { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua ne rendaite ha emo’ã ne mba’ekuaarã.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Embojuaju ambue tekoñemiverã
 ipprotection-feature-introduction-link-text-privacy-1 = VPN oñemohendapyréva <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> rehegua oipytyvõ omo’ã hag̃ua ne ñeikundaha. Eiporavo heta hendágui eikundaha ñemi hag̃ua.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn"> VPN ojuajupyréva { -brand-product-name }</a> rehegua oipytyvõ omo’ãkuaa hag̃ua ne ñeikundaha. Eiporavo heta hendágui eikundaha ñemi hag̃ua.
@@ -35,7 +34,6 @@ ipprotection-feature-introduction-title-summer-promo = ¿Eviajasépa? Egueraha n
 ipprotection-feature-introduction-description-summer-promo = Eg̃uahẽ mombyryve VPN juajupyre { -brand-product-name } ndive: tendaiteve, banda ancha opa’ỹva. Kóva 31 japorundy peve.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua ne rendaite ha emo’ã ne mba’ekuaarã, oĩramo jepe ovetã ñemíme.
 ipprotection-feature-introduction-description-private-browsing = Ñeikundaha ñemo’ãve ndive oñomívo péicha pe hendaite, taha’e jepe ovetã ñemíme.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = ¿Eike Wi-Fi rupive? Eiporu VPN jehe’apyre { -brand-product-name }
 ipprotection-feature-introduction-description-captive-portal = Ñeikundaha ñemo’ãve ndive oñomívo hendaite, taha’e Wi-Fi ojeporukuaávape.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -52,9 +50,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Embogue VPN tembiporu rupágui
 ipprotection-feature-introduction-button-open-vpn = Embojuruja VPN
 ipprotection-feature-introduction-button-get-started = Eñepyrũ
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -74,7 +69,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-title = Ereko nde VP
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Ejupive { -mozilla-vpn-brand-name } ndive
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Embojuruja VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Eiporu ypykuévarõ
 ipprotection-summer-promo-offramp-get-subscription-button = Ereko { -mozilla-vpn-brand-name }

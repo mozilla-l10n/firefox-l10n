@@ -22,7 +22,6 @@ autofill-options-link = Iɣewwaren n usekcem s wudem awurman deg iferka
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = Mtawi akk tikarḍiwin i yettwaskelsen garyibenkan-iw
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Asekles n tkarḍa-a s wudem aɣellsan?
 credit-card-save-doorhanger-description = { -brand-short-name } ittewgelhin uṭṭun n tkarḍa-k·m. Tangalt-ik n tɣellist ur tezmir ara ad tettwasekles.
 credit-card-capture-save-button =
@@ -34,9 +33,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Ur sseklas ara tikarḍiwin
     .accessKey = U
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Leqqem takarḍa?
 credit-card-update-doorhanger-description = Takarḍa ara yettwaleqqmen:
 credit-card-capture-save-new-button =
@@ -51,15 +47,6 @@ autofill-clear-form-label = Sfeḍ asebter n taččart tawurmant
 autofill-manage-addresses-label = Sefrek tansiwin
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Sefrek tarrayin n uxelleṣ
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

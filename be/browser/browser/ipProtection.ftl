@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпер прама ў вашым браўзеры
 ipprotection-feature-introduction-title-1 = Паспрабуйце ўбудаваны VPN ад { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Дадайце яшчэ адзін узровень прыватнасці
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Убудаваны VPN ад { -brand-product-name }</a> дапамагае ахоўваць ваша агляданне інтэрнэту. Выбірайце адно з некалькі месцаў, каб трымаць больш прыватным тое, адкуль вы аглядаеце.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Убудаваны VPN ад { -brand-product-name }</a> дапамагае ахоўваць ваша агляданне інтэрнэту. Выбірайце сярод некалькіх месцаў, каб трымаць больш прыватным, адкуль вы аглядаеце.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Плануеце пада
 ipprotection-feature-introduction-description-summer-promo = Атрымайце больш з убудаваным VPN ад { -brand-product-name }: больш месцаў, неабмежаваная прапускная здольнасць. Дзейнічае да 31 жніўня.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-description-private-browsing = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават калі вы ў прыватным акне.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = У грамадскай сетцы Wi-Fi? Паспрабуйце ўбудаваны ў { -brand-product-name } VPN.
 ipprotection-feature-introduction-description-captive-portal = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават ў агульнадаступнай сетцы Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Выдаліць VPN з паліцы прылад
 ipprotection-feature-introduction-button-open-vpn = Адкрыць VPN
 ipprotection-feature-introduction-button-get-started = Пачаць
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Зра
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Выйдзіце на новы ўзровень з { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Захавайце неабмежаваную прапускную здольнасць пасля 31 жніўня з больш чым 300 месцамі на 5 прыладах, каб зрабіць сваё агляданне больш цяжкім для асочвання.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Адкрыць VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Зрабіць прадвызначаным
 ipprotection-summer-promo-offramp-get-subscription-button = Атрымаць { -mozilla-vpn-brand-name }

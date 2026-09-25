@@ -23,7 +23,6 @@ ipprotection-title = VPN
 
 ## Buttons used for all feature introduction callouts
 
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Як қабати дигари махфиятро илова намоед
 ipprotection-feature-introduction-link-text-privacy-1 = Барномаи <a data-l10n-name="learn-more-vpn">«VPN»-и дарунсохти «{ -brand-product-name }»</a> барои муҳофизати тамошобинии шумо кумак мерасонад. Аз якчанд ҷойгиршавӣ истифода баред, то тавонед ҷойгиршавии тамошобинии худро махфӣ нигоҳ доред.
 ipprotection-feature-introduction-link-text-privacy-2 = Барномаи <a data-l10n-name="learn-more-vpn">«VPN»-и дарунсохти «{ -brand-product-name }»</a> барои муҳофизати тамошобинии шумо кумак мерасонад. Аз зиёда аз як ҷойгиршавӣ истифода баред, то тавонед ҷойгиршавии тамошобинии худро махфӣ нигоҳ доред.
@@ -43,12 +42,8 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Кушодани «VPN»
 ipprotection-feature-introduction-button-get-started = Оғози кор
 
-## Callout shown when the user opens a private browsing window
-
-
 ## Summer promo offramp callout buttons
 
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Кушодани «VPN»
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Ҳамчун пешфарз танзим кардан
 ipprotection-summer-promo-offramp-get-subscription-button = Ба даст овардани «{ -mozilla-vpn-brand-name }»
@@ -147,12 +142,6 @@ ipprotection-open-button = Кушодани «{ -brand-product-name }»
 ipprotection-connection-status-generic-error-title-1 = Ба «VPN» пайваст шуда натавонист
     .aria-label = Ба «VPN» пайваст шуда натавонист
 
-## IP Protection bandwidth callouts
-
-
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-learn-more = Маълумоти бештар
@@ -183,9 +172,6 @@ ip-protection-bandwidth-header-1 = Маҳдудияти моҳонаи маъл�
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Фаҳмидам
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

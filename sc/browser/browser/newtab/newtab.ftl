@@ -185,12 +185,6 @@ newtab-privacy-across-sites =
        *[other] In { $count } sitos
     }
 
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -251,19 +245,6 @@ newtab-stocks-menu-learn-more = Àteras informatziones
 # shown in place of the title.
 newtab-stocks-widget-title = Atziones
 
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
-## Stocks widget ticker search
-
-
 ## Strings for the Picture of the Day widget
 
 # Title shown at the top of the widget, with the source name appended.
@@ -308,19 +289,6 @@ newtab-picture-check-back = Torra cras pro agatare un’immagine noa.
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Immàgine de sa die dae Wikimedia Commons
-
-## Strings for the Search widget
-
-
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -367,9 +335,6 @@ newtab-topsites-image-url-label = URL de s'immàgine personalizada
 newtab-topsites-use-custom-image-link = Imprea un'immàgine personalizada
 newtab-topsites-use-image-link = Imprea un'immàgine personalizada…
 newtab-topsites-image-validation = Carrigamentu de s'immàgine fallidu. Proa un'URL diferente.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Cantzella su testu
 
@@ -398,9 +363,6 @@ newtab-topsite-sponsored = Patrotzinadu
 topsite-label-pinned =
     .aria-label = { $title } (apicadu)
     .title = { $title }
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -522,9 +484,6 @@ newtab-discovery-empty-section-topstories-loading = Carrighende...
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ohi! Paret chi sa setzione non si siat carrigada de su totu.
 
-## Strings for the story cards carousel
-
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -591,9 +550,6 @@ newtab-custom-close-menu-button =
     .title = Serra
 newtab-custom-settings = Gesti prus cunfiguratziones
 
-## Customization Menu
-
-
 ## New Tab Appearance (browser theme picker)
 
 # Title of the full theme selection sub-panel, also used as its back button label.
@@ -642,11 +598,6 @@ newtab-wallpaper-dark-mountain = Paesàgiu de monte
 newtab-wallpaper-dark-city = Paesàgiu de tzitade tanada
 newtab-wallpaper-dark-fox-anniversary = Unu margiane in s’impedradu a costadu de unu padente
 newtab-wallpaper-light-fox-anniversary = Unu margiane in unu campu de erba cun unu paesàgiu de monte nebidosu
-
-## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
-## can be a file they uploaded, a Picture of the Day they chose to keep, or a
-## Firefox wallpaper kept for them when it was retired.
-
 
 ## Solid Colors
 
@@ -712,9 +663,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 
@@ -1038,9 +986,6 @@ newtab-promo-card-cta = Àteras informatziones
 newtab-promo-card-dismiss-button =
     .aria-label = Iscarta
     .title = Iscarta
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -1077,28 +1022,10 @@ newtab-sports-widget-group-j = Grupu J
 newtab-sports-widget-group-k = Grupu K
 newtab-sports-widget-group-l = Grupu L
 
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-cta = Sèbera un’isfundu
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1115,9 +1042,6 @@ newtab-activation-window-message-customization-focus-header = Personaliza custu 
 newtab-activation-window-message-customization-focus-message = Sèbera un’isfundu nou, agiunghe curtzadòrgios a is sitos preferidos e abarra informadu in pitzus de is istòrias chi ti interessant.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Cumintza a personalizare
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

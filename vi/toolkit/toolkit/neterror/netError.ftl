@@ -39,9 +39,6 @@ neterror-search-cta-title = Không thể truy cập trang web này
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Không thể kết nối đến máy chủ tại <strong>{ $hostname }</strong>.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Không thể kết nối đến máy chủ tại { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Hãy thử các bước sau:
 neterror-search-cta-hint-check-address = Kiểm tra lại địa chỉ trang web
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Tải lại
     .accesskey = R
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Đang tải
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Có vẻ như bạn đang ngoại tuyến. Hãy kết nối lại và thử lại.

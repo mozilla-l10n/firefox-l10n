@@ -20,8 +20,8 @@ backup-folder-name = Restaura { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Còpia de seguretat del { -brand-product-name }
 settings-data-backup-header2 =
-    .label = Còpia de seguretat
     .description = Protegiu automàticament les adreces d'interès, l'historial i altres dades.
+    .label = Còpia de seguretat
 settings-data-backup-toggle = Gestiona la còpia de seguretat
 settings-data-backup-toggle-on2 =
     .label = Activa la còpia de seguretat
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Edita…
 settings-data-create-backup-error = S'ha produït un error en crear la còpia de seguretat el dia { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Feu una còpia de seguretat de les vostres contrasenyes i mètodes de pagament i protegiu totes les vostres dades xifrant-les.
 settings-data-toggle-encryption-label2 =
-    .label = Feu una còpia de seguretat de les dades confidencials
     .description = Feu una còpia de seguretat de les contrasenyes i mètodes de pagament i protegiu les dades xifrant-les.
+    .label = Feu una còpia de seguretat de les dades confidencials
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nom del fitxer: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Restaureu les dades
     .description = Recupereu les dades del { -brand-product-name } des de l'última vegada que es va fer una còpia de seguretat.
-settings-data-backup-restore-scheduled-off =
     .label = Restaureu les dades
+settings-data-backup-restore-scheduled-off =
     .description = Feu servir una còpia de seguretat del { -brand-product-name } des d'un altre dispositiu per restaurar les dades.
-
-##
-
+    .label = Restaureu les dades
 settings-sensitive-data =
     .label = Dades confidencials
 settings-data-toggle-encryption-support-link = Més informació
@@ -256,11 +253,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> creat el dia { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creat el dia { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } a { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Restaurat des de { $deviceName } el dia { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } a les { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Restaurat des de { $deviceName } el dia { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } a les { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Aquest fitxer no funciona. Proveu de triar-ne un altre. <a data-l10n-name="restore-problems">Encara teniu problemes?</a>
 restore-from-backup-filepicker-input =
     .placeholder = No s'ha seleccionat cap fitxer

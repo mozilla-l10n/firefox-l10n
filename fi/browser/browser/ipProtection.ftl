@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Esittelyssä VPN, nyt suoraan selaimessasi
 ipprotection-feature-introduction-title-1 = Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää
 ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse useista sijainneista, jotta selaamisesi alkuperä pysyy yksityisempänä.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse useista sijainneista, jotta selaamisesi alkuperä pysyy yksityisempänä.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Onko sinulla matkasuunnit
 ipprotection-feature-introduction-description-summer-promo = Mene pidemmälle { -brand-product-name }in sisäänrakennetulla VPN:llä: enemmän sijainteja, rajoittamaton kaistanleveys. Nyt 31. elokuuta asti.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi, jopa yksityisessä ikkunassa.
 ipprotection-feature-introduction-description-private-browsing = Selaa lisäsuojauksella piilottamalla sijaintisi jopa yksityisessä ikkunassa.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Käytätkö julkista Wi-Fi-verkkoa? Kokeile { -brand-product-name }in sisäänrakennettua VPN:ää.
 ipprotection-feature-introduction-description-captive-portal = Selaa lisäsuojauksella piilottamalla sijaintisi jopa julkisissa Wi-Fi-verkoissa.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Poista VPN työkalupalkista
 ipprotection-feature-introduction-button-open-vpn = Avaa VPN
 ipprotection-feature-introduction-button-get-started = Aloitetaan
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Tee { 
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Nouse seuraavalle tasolle { -mozilla-vpn-brand-name }:llä
 ipprotection-summer-promo-offramp-subscription-upsell-description = Säilytä rajoittamaton kaistanleveys 31. elokuuta jälkeen ja käytä yli 300:aa sijaintia viidellä laitteella, jotta selaamisesi jäljittäminen sinuun on vaikeampaa.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Avaa VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Aseta oletukseksi
 ipprotection-summer-promo-offramp-get-subscription-button = Hanki { -mozilla-vpn-brand-name }

@@ -20,8 +20,8 @@ backup-folder-name = Khôi phục { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = BanSaoLuu{ -brand-product-name }
 settings-data-backup-header2 =
-    .label = Sao lưu
     .description = Tự động bảo vệ dấu trang, lịch sử và dữ liệu khác của bạn.
+    .label = Sao lưu
 settings-data-backup-toggle = Quản lý sao lưu
 settings-data-backup-toggle-on2 =
     .label = Bật sao lưu
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Chỉnh sửa…
 settings-data-create-backup-error = Đã xảy ra lỗi khi tạo bản sao lưu của bạn trên { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sao lưu mật khẩu và phương thức thanh toán của bạn, đồng thời giữ an toàn cho mọi dữ liệu bằng mã hóa.
 settings-data-toggle-encryption-label2 =
-    .label = Sao lưu dữ liệu nhạy cảm của bạn
     .description = Sao lưu mật khẩu và phương thức thanh toán của bạn, đồng thời bảo vệ tất cả dữ liệu bằng mã hóa.
+    .label = Sao lưu dữ liệu nhạy cảm của bạn
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Tên tập tin: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Khôi phục dữ liệu của bạn
     .description = Khôi phục dữ liệu { -brand-product-name } của bạn từ lần sao lưu gần nhất.
-settings-data-backup-restore-scheduled-off =
     .label = Khôi phục dữ liệu của bạn
+settings-data-backup-restore-scheduled-off =
     .description = Sử dụng bản sao lưu { -brand-product-name } từ thiết bị khác để khôi phục dữ liệu của bạn.
-
-##
-
+    .label = Khôi phục dữ liệu của bạn
 settings-sensitive-data =
     .label = Dữ liệu nhạy cảm
 settings-data-toggle-encryption-support-link = Tìm hiểu thêm
@@ -252,11 +249,11 @@ other-backup-files-founds = <b>Lưu ý:</b> Đã tìm thấy { $numberOfOtherBac
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> được tạo vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } trên { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> được tạo vào { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } trên { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Đã khôi phục từ { $deviceName } vào { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } lúc { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Đã khôi phục từ { $deviceName } vào { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } lúc { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Tập tin này không hoạt động. Hãy thử chọn một tập tin khác. <a data-l10n-name="restore-problems">Vẫn gặp sự cố?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Không có tập tin nào được chọn

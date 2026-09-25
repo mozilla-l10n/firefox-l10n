@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Nieuw: VPN, nu rechtstreeks in uw browser
 ipprotection-feature-introduction-title-1 = De ingebouwde VPN van { -brand-product-name } proberen
 ipprotection-feature-introduction-link-text-2 = Gebruik onze nieuwe <a data-l10n-name="learn-more-vpn">ingebouwde VPN</a> om uw locatie te verbergen en uw gegevens te beschermen.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Nog een laag privacy toevoegen
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">De ingebouwde VPN van { -brand-product-name }</a> helpt uw navigatie te beschermen. Kies uit diverse locaties om uw navigatie meer privé te houden.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">De ingebouwde VPN van { -brand-product-name }</a> helpt uw navigatie te beschermen. Kies uit meerdere locaties om uw navigatie meer privé te houden.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Hebt u reisplannen? Neem 
 ipprotection-feature-introduction-description-summer-promo = Ga verder met de ingebouwde VPN van { -brand-product-name }: meer locaties, onbeperkte bandbreedte. Nu t/m 31 augustus.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gebruik onze nieuwe <a data-l10n-name="learn-more-vpn">ingebouwde VPN</a> om uw locatie te verbergen en uw gegevens te beschermen, zelfs als u zich in een privévenster bevindt.
 ipprotection-feature-introduction-description-private-browsing = Navigeer met extra bescherming door uw locatie te verbergen, zelfs wanneer u een privévenster gebuikt.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Gebruikt u openbare wifi? Probeer de ingebouwde VPN van { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navigeer met extra bescherming door uw locatie te verbergen, zelfs op openbare wifi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN van werkbalk verwijderen
 ipprotection-feature-introduction-button-open-vpn = VPN openen
 ipprotection-feature-introduction-button-get-started = Beginnen
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Maak v
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Een niveau hoger met { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Behoud na 31 augustus onbeperkte bandbreedte, met meer dan 300 locaties op 5 apparaten om het moeilijker te maken om uw navigatie naar u te herleiden.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN openen
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Instellen als standaard
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } downloaden

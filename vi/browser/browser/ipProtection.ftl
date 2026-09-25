@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Giới thiệu VPN, giờ đây đã có ngay trong trình duyệt của bạn.
 ipprotection-feature-introduction-title-1 = Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Thêm một lớp bảo mật nữa
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ nhiều địa điểm khác nhau để giữ cho nơi bạn duyệt web được riêng tư hơn.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ nhiều địa điểm để giữ cho nơi bạn duyệt web được riêng tư hơn.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Bạn có kế hoạch du
 ipprotection-feature-introduction-description-summer-promo = Mở rộng phạm vi phủ sóng với VPN tích hợp sẵn của { -brand-product-name }: nhiều địa điểm hơn, băng thông không giới hạn. Áp dụng từ nay đến hết ngày 31 tháng 8.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu, ngay cả khi bạn đang ở trong cửa sổ riêng tư.
 ipprotection-feature-introduction-description-private-browsing = Duyệt web với tính năng bảo mật cao hơn bằng cách ẩn vị trí của bạn, ngay cả khi bạn đang ở chế độ riêng tư.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Dùng Wi-Fi công cộng? Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
 ipprotection-feature-introduction-description-captive-portal = Duyệt web an toàn hơn nhờ tính năng ẩn vị trí, ngay cả khi sử dụng Wi-Fi công cộng.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Xoá VPN khỏi thanh công cụ
 ipprotection-feature-introduction-button-open-vpn = Mở VPN
 ipprotection-feature-introduction-button-get-started = Bắt đầu
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Đặt
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Nâng cấp trải nghiệm với { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Giữ nguyên băng thông không giới hạn sau ngày 31 tháng 8, với hơn 300 địa điểm trên 5 thiết bị để khiến việc truy tìm hoạt động duyệt web của bạn trở nên khó khăn hơn.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Mở VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Đặt làm mặc định
 ipprotection-summer-promo-offramp-get-subscription-button = Nhận { -mozilla-vpn-brand-name }

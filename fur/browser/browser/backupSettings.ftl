@@ -20,8 +20,8 @@ backup-folder-name = Ripristine { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = Backup{ -brand-product-name }
 settings-data-backup-header2 =
-    .label = Backup
     .description = Pare in automatic i tiei segnelibris, la cronologjie e altris dâts
+    .label = Backup
 settings-data-backup-toggle = Gjestìs backup
 settings-data-backup-toggle-on2 =
     .label = Ative backup
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Modifiche…
 settings-data-create-backup-error = Al è vignût fûr un erôr dilunc la creazion dal backup des { DATETIME($date, timeStyle: "short") } dal/dai { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Salve passwords e metodis di paiament e manten al sigûr ducj i tiei dâts cu la criptografie.
 settings-data-toggle-encryption-label2 =
-    .label = Salve i tiei dâts sensibii
     .description = Salve la tô password e i metodis di paiament, sore ten ducj i tiei dâts al sigûr cu la cifradure.
+    .label = Salve i tiei dâts sensibii
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Non file: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Ripristine i tiei dâts
     .description = Recupere i tiei dâts di { -brand-product-name } dal ultin backup.
-settings-data-backup-restore-scheduled-off =
     .label = Ripristine i tiei dâts
+settings-data-backup-restore-scheduled-off =
     .description = Dopre un backup di { -brand-product-name } di un altri dispositîf par ripristinâ i tiei dâts.
-
-##
-
+    .label = Ripristine i tiei dâts
 settings-sensitive-data =
     .label = Dâts sensibii.
 settings-data-toggle-encryption-support-link = Plui informazions
@@ -253,11 +250,11 @@ other-backup-files-founds =
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b>{ $profileName }</b> creât ai { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } su { $machineName }
+backup-file-creation-metadata2 = <b>{ $profileName }</b> creât ai { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } su { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Recuperât di { $deviceName } ai { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") } aes { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Recuperât di { $deviceName } ai { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } aes { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Chest file nol funzione. Prove a sielzi un altri file. <a data-l10n-name="restore-problems">Âstu ancjemò problemis?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Nissun file selezionât

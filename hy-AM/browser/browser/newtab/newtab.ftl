@@ -309,16 +309,6 @@ newtab-stocks-list-watchlist = Դիտացանկ
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Որոնել անունով կամ խորհրդանիշով
 
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Stocks widget watchlist add and remove controls
-
-
 ## Stocks widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
@@ -414,9 +404,6 @@ newtab-recent-searches-just-now = Հենց հիմա
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Հեռացնել «{ $search }»-ը վերջին որոնումներից
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Որոնում
 # Screen reader label for the widget's icon-only menu button.
@@ -483,9 +470,6 @@ newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-custom-image-link = Օգտ. հարմարեցված պատկեր
 newtab-topsites-use-image-link = Օգտ. հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Մաքրել տեքստը
 
@@ -731,9 +715,6 @@ newtab-custom-close-menu-button =
     .title = Փակել
 newtab-custom-settings = Կառավարել լրացուցիչ կարգավորումները
 
-## Customization Menu
-
-
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -889,9 +870,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-colorful-sky = Նարնջագույն ալիքներ մանուշակագույն գիշերային երկնքում
 newtab-wallpaper-firefox-desert-dark = Աղվեսը նստած է մուգ մանուշակագույն անապատում
 newtab-wallpaper-firefox-desert-light = Աղվեսը վազում է լուսավոր անապատով
@@ -1310,9 +1288,6 @@ newtab-promo-card-cta = Իմանալ ավելին
 newtab-promo-card-dismiss-button =
     .aria-label = Բաց թողնել
     .title = Բաց թողնել
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1534,9 +1509,6 @@ newtab-sports-widget-message-add-widgets-cta =
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Ուսումնասիրեք վիջեթները
 
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -1552,9 +1524,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Այս տարածքը խաղում է ձեր կանոններով
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

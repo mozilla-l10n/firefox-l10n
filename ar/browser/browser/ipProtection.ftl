@@ -26,11 +26,9 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = نقدم لكم خدمة VPN، الآن مباشرة داخل متصفحك
 ipprotection-feature-introduction-title-1 = جرّب خدمة VPN المدمجة في { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = استخدم خاصية <a data-l10n-name="learn-more-vpn">VPN المدمجة</a> الجديدة لدينا لإخفاء موقعك وحماية بياناتك.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = أضف طبقة أخرى من الخصوصية
 ipprotection-feature-introduction-link-text-private-browsing-2 = استخدم خاصية <a data-l10n-name="learn-more-vpn">VPN المدمجة</a> الجديدة لدينا لإخفاء موقعك وحماية بياناتك، حتى عندما تكون في نافذة خاصة.
 ipprotection-feature-introduction-description-private-browsing = تصفح الإنترنت بحماية إضافية عن طريق إخفاء موقعك حتى عندما تكون في نافذة خاصة.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = هل تستخدم شبكة واي فاي عامة؟ جرّب خدمة VPN المدمجة في { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = تصفح الإنترنت بحماية إضافية عن طريق إخفاء موقعك حتى على شبكات الواي فاي العامة.
 ipprotection-feature-introduction-button-primary = التالي
@@ -44,9 +42,6 @@ ipprotection-feature-introduction-button-secondary-remove = أزِل الـ VPN 
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = أزِل الـ VPN من شريط الأدوات
 ipprotection-feature-introduction-button-get-started = ابدأ
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 

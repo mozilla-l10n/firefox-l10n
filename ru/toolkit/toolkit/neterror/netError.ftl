@@ -39,9 +39,6 @@ neterror-search-cta-title = Этот сайт не может быть дост�
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = Не удалось подключиться к серверу <strong>{ $hostname }</strong>.
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = Не удалось подключиться к серверу { $domain }.
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = Попробуйте следующие шаги:
 neterror-search-cta-hint-check-address = Внимательно проверьте адрес веб-сайта
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = Обновить
     .accesskey = К
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = Загрузка
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = Похоже, вы не в сети. Подключитесь ещё раз и попробуйте снова.

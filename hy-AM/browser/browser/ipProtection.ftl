@@ -25,7 +25,6 @@ ipprotection-title = VPN
 
 ipprotection-feature-introduction-title = Ներկայացնում ենք VPN-ը, այժմ՝ անմիջապես ձեր դիտարկիչում
 ipprotection-feature-introduction-title-1 = Փորձեք { -brand-product-name }-ի ներկառուցված VPN-ը
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Ավելացրեք գաղտնիության ևս մեկ շերտ
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
@@ -33,7 +32,6 @@ ipprotection-feature-introduction-title-summer-promo = Ունե՞ք ճանապա
 ipprotection-feature-introduction-description-summer-promo = Ավելի հեռու գնացեք { -brand-product-name }-ի ներկառուցված VPN-ի միջոցով. ավելի շատ վայրեր, անսահմանափակ թողունակություն։ Այժմ մինչև օգոստոսի 31-ը։
 ipprotection-feature-introduction-link-text-private-browsing-2 = Օգտագործեք մեր նոր <a data-l10n-name="learn-more-vpn">ներկառուցված VPN-ը</a>՝ ձեր գտնվելու վայրը թաքցնելու և տվյալները պաշտպանելու համար, նույնիսկ երբ գտնվում եք «Մասնավոր պատուհանում»։
 ipprotection-feature-introduction-description-private-browsing = Զննեք լրացուցիչ պաշտպանությամբ՝ թաքցնելով ձեր գտնվելու վայրը, նույնիսկ երբ գտնվում եք «Մասնավոր պատուհանում»։
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Հանրային Wi-Fi-ի՞ վրա եք։ Փորձեք { -brand-product-name }-ի ներկառուցված VPN-ը։
 ipprotection-feature-introduction-description-captive-portal = Դիտեք լրացուցիչ պաշտպանությամբ՝ թաքցնելով ձեր գտնվելու վայրը, նույնիսկ հանրային Wi-Fi-ում։
 # Used for discovery callouts for both captive portal login and private browsing
@@ -50,9 +48,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Հեռացրեք VPN-ը գործիքագոտուց
 ipprotection-feature-introduction-button-open-vpn = Բացել VPN-ը
 ipprotection-feature-introduction-button-get-started = Սկսել
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -79,7 +74,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Դար
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Բարձրացրեք մակարդակը { -mozilla-vpn-brand-name }-ով
 ipprotection-summer-promo-offramp-subscription-upsell-description = Պահպանեք անսահմանափակ թողունակությունը օգոստոսի 31-ից հետո՝ 300+ տեղակայմամբ 5 սարքերի վրա, որպեսզի ձեր դիտարկիչը դժվարանա հետևել ձեզ։
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Բացել VPN-ը
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Կայել որպես սկզբնադիր
 ipprotection-summer-promo-offramp-get-subscription-button = Ստանալ { -mozilla-vpn-brand-name }-ը
@@ -337,9 +331,6 @@ ip-protection-bandwidth-header-1 = Ամսական տվյալների սահմա�
 ipprotection-bandwidth-reset-title = { $maxUsage } ԳԲ VPN, թարմացված և պատրաստ օգտագործման համար
 ipprotection-bandwidth-reset-text = Միացրեք VPN-ը՝ գաղտնիության լրացուցիչ բարձրացման համար, ամեն ամիս անվճար։
 ipprotection-bandwidth-reset-button = Հասկացա
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

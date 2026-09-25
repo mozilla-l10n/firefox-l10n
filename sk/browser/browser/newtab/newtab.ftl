@@ -359,16 +359,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = Hľadať podľa názvu alebo symbolu
     .label = Hľadať
     .title = Hľadať podľa názvu alebo symbolu
-    .aria-label = Hľadať podľa názvu alebo symbolu
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = Hľadať podľa názvu alebo symbolu
     .label = Hľadať
     .title = Hľadať podľa názvu alebo symbolu
-    .aria-label = Hľadať podľa názvu alebo symbolu
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akcie
@@ -534,9 +534,6 @@ newtab-recent-searches-just-now = Pred chvíľou
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Vymazať “{ $search }” z nedávnych vyhľadávaní
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Vyhľadávanie
 # Screen reader label for the widget's icon-only menu button.
@@ -603,9 +600,6 @@ newtab-topsites-image-url-label = Adresa URL vlastného obrázka
 newtab-topsites-use-custom-image-link = Použiť vlastný obrázok
 newtab-topsites-use-image-link = Použiť vlastný obrázok…
 newtab-topsites-image-validation = Obrázok sa nepodarilo načítať. Skúste inú adresu URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Vymazať text
 
@@ -1041,9 +1035,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Líška pri pravom okraji na oranžovom pozadí
 newtab-wallpaper-firefox-colorful-sky = Oranžové vlny na fialovej nočnej oblohe
 newtab-wallpaper-firefox-desert-dark = Líška sediaca v púšti zahalenej do tmavofialových odtieňov
@@ -1472,9 +1463,6 @@ newtab-promo-card-cta = Ďalšie informácie
 newtab-promo-card-dismiss-button =
     .aria-label = Zavrieť
     .title = Zavrieť
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

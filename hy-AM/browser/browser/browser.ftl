@@ -36,9 +36,6 @@ urlbar-identity-button2 =
             [one] Դիտել կայքի տեղեկատվությունը ({ $count } հետագծողներ արգելափակված են)
            *[other] Դիտել կայքի տեղեկատվությունը ({ $count } հետագծողներ արգելափակված են)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկությունը
 
@@ -718,11 +715,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } ∙ Հովանավորվում է
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Հարցնել
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1237,9 +1229,6 @@ picture-in-picture-move-toggle-left =
 
 ##
 
-
-# Navigator Toolbox
-
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1439,13 +1428,6 @@ file-picker-crashed-open = Windows-ի ֆայլերի երկխոսության պ
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-ի ֆայլի երկխոսության պատուհանը խափանվել է։ Ֆայլը կպահպանվի { $path }-ում։
 file-picker-crashed-save-nowhere = Windows-ի ֆայլերի երկխոսության պատուհանը խափանվել է: Լռելյայն թղթապանակը չի գտնվել. ֆայլը չի պահպանվի:
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Ցուցադրել պանակում
     .accessKey = F
@@ -1497,9 +1479,6 @@ trustpanel-blocker-see-all = Տեսնել բոլորը
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Հետևողականության պաշտպանություն { $host }-ի համար
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

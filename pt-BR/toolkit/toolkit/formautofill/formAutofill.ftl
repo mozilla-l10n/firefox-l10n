@@ -31,7 +31,6 @@ autofill-options-link = Opções de preenchimento automático de formulários
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
 credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todos os cartões salvos em meus dispositivos
-# Used on the doorhanger when users submit payment with credit card.
 credit-card-save-doorhanger-header = Salvar este cartão com segurança?
 credit-card-save-doorhanger-description = O { -brand-short-name } criptografa o número do seu cartão. O código de segurança não é salvo.
 credit-card-capture-save-button =
@@ -43,9 +42,6 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Nunca salvar cartões
     .accessKey = N
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Atualizar cartão?
 credit-card-update-doorhanger-description = Cartão a ser atualizado:
 credit-card-capture-save-new-button =
@@ -65,15 +61,6 @@ autofill-manage-payment-methods-label = Gerenciar métodos de pagamento
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
-
-## Details of the card shown on the credit card capture doorhanger, below the
-## masked card number. Each message is used for a different combination of the
-## available details.
-## Variables:
-##   $name (String): The cardholder name
-##   $month (String): Two-digit month the card expires
-##   $year (String): Two-digit year the card expires
-
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

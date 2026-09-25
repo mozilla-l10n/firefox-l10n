@@ -20,8 +20,8 @@ backup-folder-name = Pulihkan { -brand-product-name }
 # FirefoxBackup_default_20240606-1830.html
 backup-file-name = { -brand-product-name } Sandaran
 settings-data-backup-header2 =
-    .label = Sandaran
     .description = Lindungi penanda halaman, sejarah dan data lain anda secara automatik.
+    .label = Sandaran
 settings-data-backup-toggle = Urus sandaran
 settings-data-backup-toggle-on2 =
     .label = Hidupkan sandaran
@@ -44,20 +44,17 @@ settings-data-backup-last-backup-location-edit = Sunting...
 settings-data-create-backup-error = Terdapat ralat mencipta sandaran anda pada { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
 settings-sensitive-data-encryption-description = Sandarkan kata laluan dan kaedah pembayaran anda, serta pastikan semua data anda selamat dengan penyulitan.
 settings-data-toggle-encryption-label2 =
-    .label = Sandarkan data sensitif anda
     .description = Sandarkan kata laluan dan kaedah pembayaran anda, serta pastikan semua data anda selamat dengan penyulitan.
+    .label = Sandarkan data sensitif anda
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Nama fail: { $fileName }
 settings-data-backup-restore-scheduled-on =
-    .label = Pulihkan data anda
     .description = Pulihkan data { -brand-product-name } anda daripada kali terakhir ia disandarkan.
-settings-data-backup-restore-scheduled-off =
     .label = Pulihkan data anda
+settings-data-backup-restore-scheduled-off =
     .description = Guna sandaran { -brand-product-name } daripada peranti lain untuk memulihkan data anda.
-
-##
-
+    .label = Pulihkan data anda
 settings-sensitive-data =
     .label = Data sensitif
 settings-data-toggle-encryption-support-link = Ketahui lebih lanjut
@@ -252,11 +249,11 @@ other-backup-files-founds = <b>Nota: </b> { $numberOfOtherBackupsFound } fail sa
 #   $profileName (String) - The name of the profile that was backed up.
 #   $date (Datetime) - The date the backup was created.
 #   $machineName (String) - Name of the machine that the backup was created on.
-backup-file-creation-metadata2 = <b> { $profileName } </b> dicipta pada { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } di { $machineName }
+backup-file-creation-metadata2 = <b> { $profileName } </b> dicipta pada { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } di { $machineName }
 # Variables:
 #   $deviceName (String) - The name of the device from which the backup was created.
 #   $date (Number) - The epoch timestamp of the restore.
-backup-restored-profile-name = Dipulihkan daripada { $deviceName } pada { DATETIME($date, day: "numeric", year: "numeric", month: "numeric") } pukul { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+backup-restored-profile-name = Dipulihkan daripada { $deviceName } pada { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") } pukul { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 backup-file-restore-file-validation-error = Fail ini tidak berfungsi. Cuba pilih fail lain. <a data-l10n-name="restore-problems"> Masih ada masalah?</a>
 restore-from-backup-filepicker-input =
     .placeholder = Tiada fail dipilih

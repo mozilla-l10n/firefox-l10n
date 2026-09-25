@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Presentamos VPN, ahora directamente en tu navegador
 ipprotection-feature-introduction-title-1 = Prueba la VPN integrada de { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Utilizar nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Agrega otra capa de privacidad
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger tu navegación. Elige entre varias ubicaciones para mantener una mayor privacidad al navegar.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> te protege mientras navegas. Escoge entre múltiples ubicaciones virtuales para mantener tu ubicación real privada.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = ¿Tienes planes de viaje?
 ipprotection-feature-introduction-description-summer-promo = No te quedes atrás. La VPN integrada de { -brand-product-name } te da más ubicaciones virtuales y ancho de banda ilimitado hasta el 31 de agosto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utiliza nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos, incluso si estás en una ventana privada.
 ipprotection-feature-introduction-description-private-browsing = Navega con protección extra ocultando tu ubicación, incluso cuando estés en una ventana privada.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = ¿Estás en una red Wi-Fi pública? Prueba la VPN integrada de { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navega con protección extra ocultando tu ubicación, incluso en redes Wi-Fi públicas.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Quitar VPN de la barra de herramientas
 ipprotection-feature-introduction-button-open-vpn = Abrir VPN
 ipprotection-feature-introduction-button-get-started = Comenzar
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -81,7 +76,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Establ
 # Mozilla VPN upsell summer promo offramp message
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Lleva tu protección al siguiente nivel con { -mozilla-vpn-brand-name }
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Abrir VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Obtener { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = No ahora

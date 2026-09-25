@@ -33,9 +33,6 @@ settings-data-backup-last-backup-location-edit = Tinuk'…
 # Variables:
 #   $fileName (String) - The file name of the last backup that was created.
 settings-data-backup-last-backup-filename = Rub'i' yakb'äl: { $fileName }
-
-##
-
 settings-data-toggle-encryption-support-link = Tetamäx ch'aqa' chik
 settings-data-change-password2 =
     .label = Tijal ewan tzij

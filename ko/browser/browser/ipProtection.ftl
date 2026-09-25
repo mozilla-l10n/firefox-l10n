@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = 브라우저 안에서 바로 VPN을 만나보세요
 ipprotection-feature-introduction-title-1 = { -brand-product-name }에 내장된 VPN을 사용해 보세요
 ipprotection-feature-introduction-link-text-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 위치를 숨기고 데이터를 보호하세요.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = 또 다른 개인 정보 보호 계층 추가
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>이 탐색을 안전하게 보호해 드립니다. 여러 위치 중 원하는 곳을 선택하여 탐색 위치를 더욱 안전하게 보호하세요.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>이 탐색을 안전하게 보호해 드립니다. 여러 위치 중 원하는 곳을 선택하여 탐색 위치를 더욱 안전하게 보호하세요.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = 여행 계획이 있으�
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name }에 내장된 VPN으로 더 넓은 세상을 만나보세요. 더 많은 접속 지역과 무제한 대역폭이 8월 31일까지 제공됩니다.
 ipprotection-feature-introduction-link-text-private-browsing-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 사생활 보호 창에 있을 때도 위치를 숨기고 데이터를 보호하세요.
 ipprotection-feature-introduction-description-private-browsing = 사생활 보호 창에 있을 때도 위치를 숨겨 탐색을 추가 보호합니다.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = 공용 Wi-Fi를 사용하고 계십니까? { -brand-product-name }에 내장된 VPN을 사용해 보세요.
 ipprotection-feature-introduction-description-captive-portal = 공용 Wi-Fi에서도 위치를 숨겨 탐색을 추가 보호합니다.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = 도구 모음에서 VPN 제거
 ipprotection-feature-introduction-button-open-vpn = VPN 열기
 ipprotection-feature-introduction-button-get-started = 시작하기
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = { -bra
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = { -mozilla-vpn-brand-name }과 함께 한 단계 더 나아가기
 ipprotection-summer-promo-offramp-subscription-upsell-description = 8월 31일 이후에도 대역폭 무제한 혜택을 그대로 유지하세요. 5대의 기기에서 300개 이상의 위치를 이용해 탐색 활동의 추적을 어렵게 만듭니다.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = VPN 열기
 ipprotection-summer-promo-offramp-set-to-default-primary-button = 기본으로 설정
 ipprotection-summer-promo-offramp-get-subscription-button = { -mozilla-vpn-brand-name } 받기

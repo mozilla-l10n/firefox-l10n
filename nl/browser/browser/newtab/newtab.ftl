@@ -344,16 +344,16 @@ newtab-stocks-widget-menu-button =
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
 newtab-stocks-search-button =
+    .aria-label = Zoeken op naam of symbool
     .label = Zoeken
     .title = Zoeken op naam of symbool
-    .aria-label = Zoeken op naam of symbool
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
 newtab-stocks-watchlist-empty-search =
+    .aria-label = Zoeken op naam of symbool
     .label = Zoeken
     .title = Zoeken op naam of symbool
-    .aria-label = Zoeken op naam of symbool
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aandelen
@@ -518,9 +518,6 @@ newtab-recent-searches-just-now = Zojuist
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = ‘{ $search }’ uit recente zoekopdrachten verwijderen
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Zoeken
 # Screen reader label for the widget's icon-only menu button.
@@ -587,9 +584,6 @@ newtab-topsites-image-url-label = URL van aangepaste afbeelding
 newtab-topsites-use-custom-image-link = Een aangepaste afbeelding gebruiken
 newtab-topsites-use-image-link = Een aangepaste afbeelding gebruiken…
 newtab-topsites-image-validation = Afbeelding kon niet worden geladen. Probeer een andere URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Tekst wissen
 
@@ -1024,9 +1018,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Een vos aan de rechterkant op een oranje achtergrond
 newtab-wallpaper-firefox-colorful-sky = Oranje golven tegen een paarse nachtelijke hemel
 newtab-wallpaper-firefox-desert-dark = Een vos zittend in een donkerpaarse woestijn
@@ -1455,9 +1446,6 @@ newtab-promo-card-cta = Meer info
 newtab-promo-card-dismiss-button =
     .aria-label = Sluiten
     .title = Sluiten
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

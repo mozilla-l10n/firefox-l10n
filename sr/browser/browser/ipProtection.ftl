@@ -26,7 +26,6 @@ ipprotection-title = ВПН
 ipprotection-feature-introduction-title = Представљамо ВПН, сада директно у вашем прегледачу
 ipprotection-feature-introduction-title-1 = Испробајте { -brand-product-name } уграђени ВПН
 ipprotection-feature-introduction-link-text-2 = Користите наш нови <a data-l10n-name="learn-more-vpn">уграђени ВПН</a> да сакријете своју локацију и заштитите своје податке.
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = Додајте још један слој приватности
 ipprotection-feature-introduction-link-text-privacy-1 = Уграђени ВПН услуге <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> помаже у заштити вашег прегледања. Изаберите једну од неколико локација како бисте заштитили приватност прегледања.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Уграђени ВПН { -brand-product-name }-а</a> помаже у заштити вашег прегледања. Изаберите више локација како бисте своје прегледање учинили приватнијим.
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = Планирате пут
 ipprotection-feature-introduction-description-summer-promo = Идите даље уз уграђени ВПН { -brand-product-name }-а: више локација, неограничен проток. Сада до 31. августа.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Користите наш нови <a data-l10n-name="learn-more-vpn">уграђени ВПН</a> да сакријете своју локацију и заштитите своје податке, чак и када сте у приватном прозору.
 ipprotection-feature-introduction-description-private-browsing = Претражујте уз додатну заштиту скривањем локације, чак и када сте у приватном прозору.
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = Користите јавну бежичну мрежу? Испробајте { -brand-product-name }-ов уграђени VPN.
 ipprotection-feature-introduction-description-captive-portal = Претражујте уз додатну заштиту скривањем локације, чак и на јавној бежичној мрежи.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Уклоните ВПН из траке са алаткама
 ipprotection-feature-introduction-button-open-vpn = Отвори ВПН
 ipprotection-feature-introduction-button-get-started = Крените
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -82,7 +77,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = Пос
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = Подигните ниво заштите уз { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-subscription-upsell-description = Задржите неограничен проток након 31. августа, уз 300+ локација на 5 уређаја, како бисте отежали праћење вашег прегледања до вас.
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Отвори ВПН
 ipprotection-summer-promo-offramp-set-to-default-primary-button = Постави као подразмевано
 ipprotection-summer-promo-offramp-get-subscription-button = Набавите { -mozilla-vpn-brand-name }

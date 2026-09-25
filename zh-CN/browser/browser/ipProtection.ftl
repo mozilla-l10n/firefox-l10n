@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = 欢迎连接 VPN，现已内置于浏览器
 ipprotection-feature-introduction-title-1 = 试用 { -brand-product-name } 的内置 VPN
 ipprotection-feature-introduction-link-text-2 = 使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 隐藏真实位置、保护个人数据。
-# Used for callout for users who expressed interest in privacy in onboarding
 ipprotection-feature-introduction-title-privacy = 再添加一层隐私保护
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的内置 VPN</a> 有助于保护您的浏览。多个位置任您选择，让浏览更私密。
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的内置 VPN</a> 有助于保护您的浏览。多个位置任您选择，让浏览更私密。
@@ -36,7 +35,6 @@ ipprotection-feature-introduction-title-summer-promo = 出门旅行，隐私随�
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name } 的内置 VPN 伴您行万里路。即日起至 8 月 31 日，解锁更多位置，获取无限带宽。
 ipprotection-feature-introduction-link-text-private-browsing-2 = 即使是在隐私窗口，使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 也能隐藏真实位置、保护个人数据。
 ipprotection-feature-introduction-description-private-browsing = 即使是在隐私窗口，也能隐藏真实位置，获得额外保护。
-# Used for callout shown on login to public wi-fi through a captive portal
 ipprotection-feature-introduction-title-captive-portal = 正在使用公共 Wi-Fi？试试 { -brand-product-name } 内置的 VPN。
 ipprotection-feature-introduction-description-captive-portal = 即使使用公共 Wi-Fi，也能隐藏真实位置，获得额外保护。
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,9 +51,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = 从工具栏移除 VPN
 ipprotection-feature-introduction-button-open-vpn = 打开 VPN
 ipprotection-feature-introduction-button-get-started = 开始使用
-
-## Callout shown when the user opens a private browsing window
-
 
 ## Summer promo offramp callout buttons
 
@@ -75,7 +70,6 @@ ipprotection-summer-promo-offramp-default-browser-incentive-description = 将 { 
 # "Level up" refers to enhancing VPN functionality from the Firefox built-in VPN
 ipprotection-summer-promo-offramp-subscription-upsell-title = 让 { -mozilla-vpn-brand-name } 升级
 ipprotection-summer-promo-offramp-subscription-upsell-description = 在 8 月 31 日之后，继续享受限带宽，并在 5 台设备上任意使用 300 多个位置，让您的浏览活动难觅踪迹。
-# Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = 打开 VPN
 ipprotection-summer-promo-offramp-set-to-default-primary-button = 设为默认
 ipprotection-summer-promo-offramp-get-subscription-button = 获取 { -mozilla-vpn-brand-name }

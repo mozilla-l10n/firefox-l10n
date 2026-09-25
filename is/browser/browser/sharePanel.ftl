@@ -24,16 +24,12 @@ share-panel-os-share-2 =
             [macos] Deila með Mac…
            *[other] Deila með…
         }
-share-panel-os-share =
-    .label = Deila með…
 share-panel-mail =
     .label = Senda tölvupóst
 share-panel-screenshot =
     .label = Taka skjámynd
 share-panel-qr-code-2 =
     .label = Búa til QR-kóða
-share-panel-qr-code =
-    .label = Deila QR-kóða
 # This string is shown when the user has more than 1 device signed in to their account.
 # Clicking this will bring them to a subview where all of their devices are listed.
 share-panel-send-to-device =
@@ -49,12 +45,6 @@ share-panel-device-subview =
 share-panel-connect-device-2 =
     .label = Bæta við tæki
 # Shown below the device list in the share panel's device subview. Clicking it
-# opens the flow to connect another device to the user's account.
-share-panel-connect-device =
-    .label = Tengja annað tæki
-# Shown below the device list in the share panel's device subview. Clicking it
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Sérðu ekki tækið þitt?
-share-panel-os-share-subview =
-    .title = Deila með…

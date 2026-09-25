@@ -39,9 +39,6 @@ neterror-search-cta-title = 無法連線至此網站
 # $hostname (String) - The host of the address that failed to load, including
 # any subdomains, for example "docs.example.com". The host is emphasized.
 neterror-search-cta-intro2 = 無法連線至位於 <strong>{ $hostname }</strong> 的伺服器。
-# $domain (String) - The host of the address that failed to load, including any
-# subdomains, for example "docs.example.com".
-neterror-search-cta-intro = 無法連線至位於 { $domain } 的伺服器。
 # Heading above the list of recovery hints on the search CTA error page.
 neterror-search-cta-things-to-try = 可嘗試下列步驟：
 neterror-search-cta-hint-check-address = 再次確認網站網址
@@ -61,8 +58,6 @@ neterror-search-cta-search-button =
 neterror-search-cta-reload-button =
     .label = 重新載入
     .accesskey = R
-# Shown in place of the Search button while the search option is being prepared.
-neterror-search-cta-loading = 載入中
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = 您看起來處於離線狀態，重新連線後再試一次。
