@@ -512,6 +512,9 @@ newtab-custom-widget-clock-toggle =
     .label = นาฬิกา
 newtab-custom-widget-sports-toggle2 =
     .label = กีฬา
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = ปริศนาอักษรไขว้
 newtab-custom-widget-section-title = วิดเจ็ต
 newtab-custom-widget-section-toggle =
     .label = วิดเจ็ต
