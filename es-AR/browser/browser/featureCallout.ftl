@@ -33,7 +33,7 @@ callout-pdfjs-edit-body-b = Omita la búsqueda de editores en línea gratuitos. 
 callout-pdfjs-edit-button = Siguiente
 callout-pdfjs-draw-title = Firme documentos con nuestra nueva herramienta de dibujo
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
-callout-pdfjs-draw-body-a = Marque los archivos PDF y luego guarde los cambios.
+callout-pdfjs-draw-body-a = Haga anotaciones en los archivos PDF y luego guarde los cambios.
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-b = No imprima ni escanee más. Marque los archivos PDF y luego guarde los cambios.
 callout-pdfjs-draw-button = ¡Listo!
@@ -141,6 +141,7 @@ taskbar-tabs-email-callout-subtitle-v3 = Abra sus sitios de correo electrónico 
 taskbar-tabs-media-callout-subtitle-v3 = Abra sus sitios de medios como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Pegue sus sitios favoritos a la barra de tareas
 taskbar-tabs-value-prop-callout-subtitle-v3 = Abra cualquier sitio como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
+taskbar-tabs-gaming-callout-title-v3 = Vuelva a jugar desde la barra de tareas
 taskbar-tabs-gaming-callout-subtitle-v3 = Abra sus sitios de juego como una aplicación en una ventana optimizada protegida por { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Pegar a la barra de tareas

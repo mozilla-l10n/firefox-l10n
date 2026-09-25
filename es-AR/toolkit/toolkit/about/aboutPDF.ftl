@@ -28,7 +28,7 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = Herramientas para PDF de { -brand-short-name }
-about-pdf-features-intro = Leer, hacer anotaciones y firmar archivos PDF mientras se navega. Es simp,e, gratis y privado.
+about-pdf-features-intro = Leer, hacer anotaciones y firmar archivos PDF mientras se navega. Es simple, gratis y privado.
 about-pdf-features-back =
     .label = Atrás
 about-pdf-feature-organize-heading = Organizar páginas
@@ -37,6 +37,7 @@ about-pdf-feature-signatures-heading = Guardar firmas
 about-pdf-feature-signatures-description = Crear múltiples firmas y agregarlas a formularios.
 about-pdf-feature-comments-heading = Agregar notas
 about-pdf-feature-comments-description = Dejar comentarios y recordatorios mientras se lee.
+about-pdf-feature-annotate-heading = Hacer anotaciones en PDFs
 about-pdf-feature-annotate-description = Agregar texto, resaltados y dibujos.
 about-pdf-feature-images-heading = Subir imágenes accesibles
 about-pdf-feature-images-description = Agregar texto alternativo para que las imágenes funcionen para más personas.
