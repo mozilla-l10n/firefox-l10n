@@ -811,6 +811,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Urheilu
 newtab-custom-widget-privacy-toggle =
     .label = Yksityisyys
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Ristisanatehtävä
 newtab-custom-widget-stocks-toggle =
     .label = Osakkeet
 newtab-custom-widget-picture-toggle =
