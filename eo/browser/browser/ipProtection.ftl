@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Malfermi VPN
 ipprotection-feature-introduction-button-get-started = Unuaj paŝoj
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = La limoj de via integrita VPN disponeblos je la 1-a de septembro
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Ignori
 ipprotection-android-promo-callout-title = Portu la integritan VPN kun vi en Android
 ipprotection-android-promo-callout-description = Skanu la kodon QR por elŝuti { -brand-product-name } por Android kaj ŝalti la integritan VPN por havi pli da privateco kie ajn vi estas. Baldaŭ disponebla en iOS.
 ipprotection-android-promo-callout-primary-button = Mi komprenis
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne nun
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignori
 
 ## Panel
 
