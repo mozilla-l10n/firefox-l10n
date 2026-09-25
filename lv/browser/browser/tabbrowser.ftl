@@ -209,6 +209,24 @@ tab-context-move-tab-to-group =
            *[other] Pievienot cilnes kopai
         }
     .accesskey = k
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] Pievienot sadalīto skatu jaunai kopai
+            [zero] Pievienot sadalītos skatus jaunai kopai
+            [one] Pievienot sadalīto skatu jaunai kopai
+           *[other] Pievienot sadalītos skatus jaunai kopai
+        }
+    .accesskey = j
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] Pievienot sadalīto skatu kopai
+            [zero] Pievienot sadalītos skatus kopai
+            [one] Pievienot sadalīto skatu kopai
+           *[other] Pievienot sadalītos skatus kopai
+        }
+    .accesskey = p
 
 ## Tab Notes
 
@@ -224,4 +242,4 @@ tab-note-panel-add-note-new-badge =
 # Open a new tab next to the current tab and display their contents side by side
 tab-context-add-split-view =
     .label = Pievienot sadalīto skatu
-    .accesskey = P
+    .accesskey = s

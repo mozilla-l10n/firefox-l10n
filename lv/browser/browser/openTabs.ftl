@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-opentabs-page-title = Izvēlieties cilni, kuru pievienot sadalītajam skatam
+opentabs-page-title = Izvēlies cilni, kuru pievienot sadalītajam skatam
 opentabs-search-text-box =
     .placeholder = Meklēt cilnēs
 # Variables:
