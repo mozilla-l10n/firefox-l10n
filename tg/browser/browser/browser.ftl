@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Идоракунии танзимоти равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм…
     .accesskey = И
+
+##
+
 urlbar-identity-button =
     .aria-label = Дидани маълумот дар бораи сомона
 
@@ -691,6 +694,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Сарпарастӣ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Пурсидан
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -789,6 +797,10 @@ urlbar-searchmode-no-keyword2 =
     .title = Имкони ҷустуҷӯи калимаҳои калидӣ ғайрифаъол аст
 urlbar-searchmode-dropmarker2 =
     .title = Низоми ҷустуҷӯиро интихоб намоед
+urlbar-searchmode-bookmarks4 = Хатбаракҳо
+urlbar-searchmode-tabs4 = Варақаҳо
+urlbar-searchmode-history4 = Таърих
+urlbar-searchmode-actions4 = Амалҳо
 urlbar-searchmode-bookmarks3 = Хатбаракҳо
     .accesskey = Х
 urlbar-searchmode-tabs3 = Варақаҳо
@@ -812,6 +824,8 @@ urlbar-searchmode-popup-one-off-header = Ин дафъа бо зерин ҷус�
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Ҷустуҷӯ тавассути:
+urlbar-searchmode-popup-search-settings2 = Танзимоти ҷустуҷӯ
+urlbar-searchmode-popup-settings2 = Танзимот
 urlbar-searchmode-popup-search-settings = Танзимоти ҷустуҷӯ
     .accesskey = Т
 urlbar-searchmode-popup-settings = Танзимот
@@ -1128,6 +1142,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1336,6 +1353,13 @@ file-picker-crashed-open = Равзанаи «Файл» дар «Windows» ва
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Файл ба «{ $path }» нигоҳ дошта мешавад.
 file-picker-crashed-save-nowhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Ягон ҷузвдон ба таври пешфарз ёфт нашуд ва файл нигоҳ дошта намешавад.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Намоиш додан дар ҷузвдон
     .accessKey = Н
@@ -1388,6 +1412,9 @@ trustpanel-blocker-see-all = Ҳамаро дидан
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Воситаҳои муҳофизат аз пайгирӣ барои { $host } фаъол аст
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
