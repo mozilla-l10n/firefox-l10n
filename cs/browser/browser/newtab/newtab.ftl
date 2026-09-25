@@ -863,6 +863,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sporty
 newtab-custom-widget-privacy-toggle =
     .label = Soukromí
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Křížovka
 newtab-custom-widget-stocks-toggle =
     .label = Akcie
 newtab-custom-widget-picture-toggle =
