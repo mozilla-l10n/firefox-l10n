@@ -183,8 +183,6 @@ newtab-privacy-across-sites = Trên { $count } trang web
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } chặn các trình theo dõi khi bạn duyệt web. Bạn sẽ thấy chúng ở đây.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } tự động chặn các trình theo dõi, giúp giữ cho hoạt động của bạn được riêng tư hơn.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -461,6 +459,9 @@ newtab-recent-searches-just-now = Vừa xong
 newtab-recent-searches-row-remove =
     .aria-label = Xoá “{ $search }” khỏi các tìm kiếm gần đây
 
+## Strings for the Search widget
+
+
 ## Recent searches widget — empty states
 
 # Shown in place of the list when the user has made no searches recently.
@@ -521,6 +522,9 @@ newtab-topsites-image-url-label = URL hình ảnh tuỳ chỉnh
 newtab-topsites-use-custom-image-link = Sử dụng hình ảnh tùy chỉnh
 newtab-topsites-use-image-link = Sử dụng hình ảnh tùy chỉnh…
 newtab-topsites-image-validation = Không tải được hình ảnh. Hãy thử một URL khác.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Xoá văn bản
 
@@ -946,6 +950,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Một con cáo ở rìa bên phải trên nền màu cam
 newtab-wallpaper-firefox-colorful-sky = Những làn sóng màu cam trải dài trên bầu trời đêm tím
 newtab-wallpaper-firefox-desert-dark = Một con cáo đang ngồi trong sa mạc màu tím sẫm
@@ -1374,6 +1381,9 @@ newtab-promo-card-cta = Tìm hiểu thêm
 newtab-promo-card-dismiss-button =
     .aria-label = Bỏ qua
     .title = Bỏ qua
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1671,6 +1681,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Không gian này tuân theo luật lệ của bạn.
 newtab-activation-window-message-values-focus-message = { -brand-product-name } cho phép bạn duyệt web theo cách bạn thích, với cách thức cá nhân hơn để bắt đầu ngày mới trực tuyến. Biến { -brand-product-name } thành của riêng bạn.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 
