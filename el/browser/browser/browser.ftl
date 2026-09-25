@@ -881,6 +881,9 @@ urlbar-searchmode-no-keyword2 =
 urlbar-searchmode-dropmarker2 =
     .title = Επιλογή μηχανής αναζήτησης
 urlbar-searchmode-bookmarks4 = Σελιδοδείκτες
+urlbar-searchmode-tabs4 = Καρτέλες
+urlbar-searchmode-history4 = Ιστορικό
+urlbar-searchmode-actions4 = Ενέργειες
 urlbar-searchmode-bookmarks3 = Σελιδοδείκτες
     .accesskey = Σ
 urlbar-searchmode-tabs3 = Καρτέλες
@@ -904,6 +907,8 @@ urlbar-searchmode-popup-one-off-header = Τρέχουσα αναζήτηση μ�
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Αναζήτηση με:
+urlbar-searchmode-popup-search-settings2 = Ρυθμίσεις αναζήτησης
+urlbar-searchmode-popup-settings2 = Ρυθμίσεις
 urlbar-searchmode-popup-search-settings = Ρυθμίσεις αναζήτησης
     .accesskey = ζ
 urlbar-searchmode-popup-settings = Ρυθμίσεις
