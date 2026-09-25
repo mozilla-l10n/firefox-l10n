@@ -1965,3 +1965,4 @@ newtab-clock-city-ec-guayaquil = Guayaquil
 newtab-clock-city-vn-ho-chi-minh-city = Città di Ho Chi Minh
 newtab-clock-city-np-kathmandu = Katmandu
 newtab-clock-city-mm-yangon = Yangon
+

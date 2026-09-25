@@ -48,3 +48,4 @@ share-panel-connect-device-2 =
 # opens a support article about devices missing from the list.
 share-panel-missing-device =
     .label = Non vedi il tuo dispositivo?
+
