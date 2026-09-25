@@ -208,8 +208,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } blochează elementele de urmărire în timp ce navighezi. Le vei vedea aici.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } blochează automat elementele de urmărire, păstrând o mare parte din activitatea ta privată.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -515,6 +513,9 @@ newtab-recent-searches-just-now = Adineauri
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Elimină „{ $search }” din căutările recente
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Caută
 # Screen reader label for the widget's icon-only menu button.
@@ -581,6 +582,9 @@ newtab-topsites-image-url-label = URL pentru imagine personalizată
 newtab-topsites-use-custom-image-link = Folosește o imagine personalizată
 newtab-topsites-use-image-link = Folosește o imagine personalizată…
 newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o altă adresă.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Șterge textul
 
@@ -1013,6 +1017,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = O vulpe în partea dreaptă, pe un fundal portocaliu
 newtab-wallpaper-firefox-colorful-sky = Valuri portocalii pe un cer nocturn violet
 newtab-wallpaper-firefox-desert-dark = O vulpe așezată într-un deșert violet întunecat
@@ -1441,6 +1448,9 @@ newtab-promo-card-cta = Află mai multe
 newtab-promo-card-dismiss-button =
     .aria-label = Respinge
     .title = Respinge
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
