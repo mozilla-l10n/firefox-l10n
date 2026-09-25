@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = გახსენით VPN
 ipprotection-feature-introduction-button-get-started = დაიწყეთ
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = ჩაშენებული VPN-ის შეზღუდვები განულდება 1 სექტემბერს
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = აცილება
 ipprotection-android-promo-callout-title = წაიყოლეთ ჩაშენებული VPN თქვენს Android-ზე
 ipprotection-android-promo-callout-description = წააკითხეთ QR-კოდი, რომ Android-ზეც გადმოწეროთ { -brand-product-name } და ჩართეთ ჩაშენებული VPN გაუმჯობესებული პირადულობისთვის გზაში ყოფნისას. მალე იქნება მხარდაჭერილი iOS.
 ipprotection-android-promo-callout-primary-button = გასაგებია
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = ახლა არა
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = აცილება
 
 ## Panel
 
