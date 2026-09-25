@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = เปิด VPN
 ipprotection-feature-introduction-button-get-started = เริ่มต้นใช้งาน
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = ขีดจำกัด VPN ในตัวของคุณจะคืนค่าในวันที่ 1 กันยายน
@@ -101,6 +104,11 @@ ipprotection-location-selection-callout-secondary-button = ปิด
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-primary-button = เข้าใจแล้ว
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = ไม่ใช่ตอนนี้
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ปิด
 
 ## Panel
 
