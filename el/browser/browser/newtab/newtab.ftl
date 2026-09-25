@@ -817,6 +817,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Αθλήματα
 newtab-custom-widget-privacy-toggle =
     .label = Απόρρητο
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Σταυρόλεξο
 newtab-custom-widget-stocks-toggle =
     .label = Μετοχές
 newtab-custom-widget-picture-toggle =
