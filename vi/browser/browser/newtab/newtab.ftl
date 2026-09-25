@@ -765,6 +765,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Thể thao
 newtab-custom-widget-privacy-toggle =
     .label = Riêng tư
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Trò chơi ô chữ
 newtab-custom-widget-stocks-toggle =
     .label = Cổ phiếu
 newtab-custom-widget-picture-toggle =
