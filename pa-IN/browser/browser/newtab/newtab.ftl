@@ -775,6 +775,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = ਖੇਡਾਂ
 newtab-custom-widget-privacy-toggle =
     .label = ਪਰਦੇਦਾਰੀ
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = ਕਰਾਸ-ਵਰਡ
 newtab-custom-widget-stocks-toggle =
     .label = ਸਟਾਕ
 newtab-custom-widget-picture-toggle =
