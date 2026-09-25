@@ -33,6 +33,9 @@ autofill-options-link = 양식 자동 채우기 옵션
 credit-card-doorhanger-credit-cards-sync-checkbox = 저장된 모든 카드를 내 기기 전체에 동기화
 credit-card-save-doorhanger-header = 이 카드를 안전하게 저장하시겠습니까?
 credit-card-save-doorhanger-description = { -brand-short-name }는 카드 번호를 암호화합니다. 보안 코드는 저장되지 않습니다.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name }는 카드 번호와 보안 코드를 암호화하므로, 본인만 결제 양식을 작성하는 데 사용할 수 있습니다.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = 항상 결제 수단에 대한 보안 코드를 저장하세요.
 credit-card-capture-save-button =
     .label = 저장
     .accessKey = S
@@ -62,9 +65,25 @@ autofill-manage-payment-methods-label = 결제 수단 관리
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
 
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV 저장됨
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV 저장됨
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV 저장됨
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV 저장됨
+
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
-autofill-card-network-amex = 아메리칸 엑스프레스
+autofill-card-network-amex = 아메리칸 익스프레스
 autofill-card-network-cartebancaire = Carte Bancaire
 autofill-card-network-diners = 다이너스 클럽
 autofill-card-network-discover = 디스커버 카드

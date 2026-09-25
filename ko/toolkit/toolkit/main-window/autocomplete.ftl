@@ -48,7 +48,11 @@ autocomplete-remove-password-title = 비밀번호를 제거하시겠습니까?
 autocomplete-remove-address-title = 주소를 제거하시겠습니까?
 autocomplete-remove-payment-method-title = 결제 수단을 제거하시겠습니까?
 autocomplete-remove-record-message = 이 작업은 취소할 수 없습니다.
+autocomplete-delete-record-button = 삭제
 autocomplete-remove-record-button = 제거
+autocomplete-delete-password-title = 비밀번호를 삭제하시겠습니까?
+autocomplete-delete-address-title = 주소를 삭제하시겠습니까?
+autocomplete-delete-payment-method-title = 결제 수단을 삭제하시겠습니까?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
