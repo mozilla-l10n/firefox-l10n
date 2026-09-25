@@ -340,6 +340,20 @@ newtab-stocks-error-not-available = Δεν διατίθενται δεδομέν
 newtab-stocks-widget-menu-button =
     .aria-label = Επιλογές γραφικού στοιχείου μετοχών
     .title = Επιλογές γραφικού στοιχείου μετοχών
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Αναζήτηση
+    .title = Αναζήτηση με όνομα ή σύμβολο
+    .aria-label = Αναζήτηση με όνομα ή σύμβολο
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Αναζήτηση
+    .title = Αναζήτηση με όνομα ή σύμβολο
+    .aria-label = Αναζήτηση με όνομα ή σύμβολο
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Μετοχές
