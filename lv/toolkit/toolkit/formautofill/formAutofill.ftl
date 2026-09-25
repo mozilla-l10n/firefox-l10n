@@ -10,10 +10,16 @@
 autofill-delete-payment-method-os-prompt-macos = Izdzēst saglabāto maksājuma veidu informāciju
 autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } mēģina izdzēst saglabāto maksājumu veidu informāciju. Zemāk jāapstiprina piekļuve šim Windows kontam.
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name } mēģina izdzēst saglabāto maksājumu veidu informāciju.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Veidlapu automātiskās aizpildes iestatījumi
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Veidlapu automātiskās aizpildes iestatījumi
 
-## The credit card capture doorhanger
+##
+
+
+# Used on the doorhanger when an credit card change is detected.
 
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Notīrīt automātiski aizpildīto veidlapu
@@ -22,6 +28,15 @@ autofill-clear-form-label = Notīrīt automātiski aizpildīto veidlapu
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
