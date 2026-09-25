@@ -187,8 +187,9 @@ newtab-privacy-across-sites =
 
 ## Privacy widget — empty state
 
-# Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } bloquea los rastreadores mientras navegas. Aquí verás los que se hayan bloqueado.
+
+## Privacy widget — Enhanced Tracking Protection off state
+
 
 ## Privacy widget — informational messages
 ##
@@ -322,6 +323,12 @@ newtab-stocks-ticker-status-down = { $name }, bajó { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sin cambios, { $change }, { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
 ## Strings for the Picture of the Day widget
 
 # Shorter title shown at the top of the widget, without the source name.
@@ -346,6 +353,19 @@ newtab-picture-widget-menu-button =
     .title = Opciones de imagen del día
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Más información
+
+## Strings for the Search widget
+
+
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -393,6 +413,9 @@ newtab-topsites-image-url-label = URL de imagen personalizada
 newtab-topsites-use-custom-image-link = Utilizar una imagen personalizada
 newtab-topsites-use-image-link = Utilizar una imagen personalizada…
 newtab-topsites-image-validation = La imagen no se pudo cargar. Intente una URL diferente.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Limpiar texto
 
@@ -626,6 +649,9 @@ newtab-custom-close-menu-button =
     .title = Cerrar
 newtab-custom-settings = Administrar más ajustes
 
+## Customization Menu
+
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -679,6 +705,11 @@ newtab-wallpaper-dark-mountain = Paisaje montañoso
 newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
 newtab-wallpaper-dark-fox-anniversary = Un zorro en la acera cerca de un bosque
 newtab-wallpaper-light-fox-anniversary = Un zorro en un campo de hierba con un paisaje montañoso brumoso
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
 
 ## Solid Colors
 
@@ -744,6 +775,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 
 ## Firefox
 
@@ -1142,6 +1176,9 @@ newtab-promo-card-cta = Más información
 newtab-promo-card-dismiss-button =
     .aria-label = Descartar
     .title = Descartar
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1447,6 +1484,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Este espacio se rige por tus reglas
 newtab-activation-window-message-values-focus-message = { -brand-product-name } te permite navegar como quieras, con una forma más personal de empezar el día online. Haz de { -brand-product-name } algo tuyo.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 
