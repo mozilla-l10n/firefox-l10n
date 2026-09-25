@@ -748,6 +748,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Tetemongu’e
 newtab-custom-widget-privacy-toggle =
     .label = Ñemigua
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Crucigráma
 newtab-custom-widget-stocks-toggle =
     .label = Jejapo
 newtab-custom-widget-picture-toggle =
