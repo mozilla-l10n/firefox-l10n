@@ -38,6 +38,9 @@ urlbar-identity-button2 =
             [few] Ogled podatkov o strani ({ $count } zavrnjeni sledilci)
            *[other] Ogled podatkov o strani ({ $count } zavrnjenih sledilcev)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Poglejte podatke o strani
 
@@ -719,6 +722,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorirano
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Vprašaj
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -889,6 +897,10 @@ urlbar-searchmode-no-keyword2 =
     .title = Iskanje po ključnih besedah je onemogočeno
 urlbar-searchmode-dropmarker2 =
     .title = Izberite iskalnik
+urlbar-searchmode-bookmarks4 = Zaznamki
+urlbar-searchmode-tabs4 = Zavihki
+urlbar-searchmode-history4 = Zgodovina
+urlbar-searchmode-actions4 = Dejanja
 urlbar-searchmode-bookmarks3 = Zaznamki
     .accesskey = a
 urlbar-searchmode-tabs3 = Zavihki
@@ -912,6 +924,8 @@ urlbar-searchmode-popup-one-off-header = Tokrat išči z iskalnikom:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Išči z iskalnikom:
+urlbar-searchmode-popup-search-settings2 = Nastavitve iskanja
+urlbar-searchmode-popup-settings2 = Nastavitve
 urlbar-searchmode-popup-search-settings = Nastavitve iskanja
     .accesskey = s
 urlbar-searchmode-popup-settings = Nastavitve
@@ -1241,6 +1255,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1472,6 +1489,13 @@ file-picker-crashed-open = Okno sistema Windows za izbiro mesta shranjevanja se 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Okno sistema Windows za izbiro mesta shranjevanja se je sesulo. Datoteka se bo shranila v { $path }.
 file-picker-crashed-save-nowhere = Okno sistema Windows za izbiro mesta shranjevanja se je sesulo. Privzete mape ni bilo mogoče najti, zato datoteka ne bo shranjena.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Prikaži v mapi
     .accessKey = m
@@ -1524,6 +1548,9 @@ trustpanel-blocker-see-all = Prikaži vse
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Zaščite pred sledenjem za { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
