@@ -20,10 +20,13 @@ autofill-edit-payment-method-os-prompt-other = { -brand-short-name } forsøger a
 autofill-delete-payment-method-os-prompt-macos = slette gemte oplysninger om betalingsmetode
 autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } forsøger at slette oplysninger om gemte betalingsmetoder. Godkend adgang til denne Windows-konto.
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name } forsøger at slette oplysninger om gemte betalingsmetoder.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Indstillinger for autofyldning af formularer
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Indstillinger for autofyldning af formularer
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -40,6 +43,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Gem aldrig kort
     .accessKey = G
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = Opdater kort?
 credit-card-update-doorhanger-description = Kort, som skal opdateres:
 credit-card-capture-save-new-button =
@@ -59,6 +65,15 @@ autofill-manage-payment-methods-label = Håndter betalingsmetoder
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
