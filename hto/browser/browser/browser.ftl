@@ -3,14 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## The main browser window's title
-
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
-
 ##
 
 urlbar-identity-button =
@@ -31,6 +23,9 @@ urlbar-eme-notification-anchor =
 
 
 ##
+
+
+## Searchbar context menu
 
 
 ## Page Action Context Menu
@@ -55,7 +50,7 @@ search-one-offs-context-open-new-tab =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
-## the action.
+## the action. English commas should be used, i.e. ,
 
 
 ## Bookmark Panel
@@ -64,9 +59,6 @@ search-one-offs-context-open-new-tab =
 ## Identity Panel
 
 identity-passive-loaded = Bíe rábe afenedo ñúe íñede (jána izoi).
-identity-enable-mixed-content-blocking =
-    .label = Rɨidite bonua
-    .accesskey = R
 identity-more-info-link-text =
     .label = Jamano ráfue
 
@@ -74,14 +66,6 @@ identity-more-info-link-text =
 
 browser-window-close-button =
     .tooltiptext = Ɨ́baide
-
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
 
 ## Bookmarks toolbar items
 
@@ -92,7 +76,7 @@ browser-window-close-button =
 ## WebRTC window or screen share tab switch warning
 
 
-## DevTools F12 popup
+## WebSerial "select a port" popup
 
 
 ## URL Bar
@@ -105,8 +89,9 @@ urlbar-placeholder =
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
 
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
@@ -114,9 +99,27 @@ urlbar-switch-to-tab =
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Biedo jéno { $engine }
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
+
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
 
 
 ## Labels shown above groups of urlbar results
@@ -155,13 +158,14 @@ bookmarks-sidebar-content =
 ## Library Panel items
 
 
-## Pocket toolbar button
-
-
 ## Repair text encoding toolbar button
 
 
-## Customize Toolbar Buttons
+##
+
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
 
 
 ## EME notification panel
@@ -199,7 +203,13 @@ navbar-downloads =
 tabs-toolbar =
     .aria-label = Mákara úitɨraɨ
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -213,6 +223,10 @@ tabs-toolbar =
 
 
 ## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
 ## Note that the new line is intentionally part of the tooltip.
 
 
@@ -236,3 +250,29 @@ popup-notification-addon-install-unsigned =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Ákatari '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
