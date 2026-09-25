@@ -15,13 +15,28 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name }-এ সা�
 autofill-edit-payment-method-os-prompt-macos = সাঁচি থোৱা পৰিশোধ-পদ্ধতিৰ তথ্য দেখুৱাওক
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name }-এ পৰিশোধ-পদ্ধতিৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে। তলৰ এই Windows একাউণ্টলৈ প্ৰৱেশাধিকাৰ নিশ্চিত কৰক।
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name }-এ সাঁচি থোৱা পৰিশোধ-পদ্ধতিৰ তথ্য দেখুৱাবলৈ চেষ্টা কৰি আছে।
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = প্ৰ-পত্ৰ স্বয়ং-পূৰণৰ বিকল্পসমূহ
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = প্ৰ-পত্ৰ স্বয়ং-পূৰণৰ বিকল্পসমূহ
 
-## The credit card capture doorhanger
+##
+
+
+# Used on the doorhanger when an credit card change is detected.
 
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = স্বয়ং-পূৰণ প্ৰ-পত্ৰ মচক
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
