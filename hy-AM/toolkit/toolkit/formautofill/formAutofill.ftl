@@ -5,10 +5,13 @@
 
 ## OS Prompt Dialog
 
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Ձևը ինքնալրացնելու ընտրանքներ
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Ձևը ինքնալրացնելու ընտրանքներ
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -25,6 +28,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Երբեք չպահել քարտերը
     .accessKey = Ե
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = Թարմացնե՞լ քարտը
 credit-card-update-doorhanger-description = Թարմացվող քարտ՝
 credit-card-capture-save-new-button =
@@ -39,6 +45,15 @@ autofill-clear-form-label = Մաքրել Ինքնալրացման ձևը
 autofill-manage-addresses-label = Կառավարել հասցեները
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Կառավարել վճարամիջոցները
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
