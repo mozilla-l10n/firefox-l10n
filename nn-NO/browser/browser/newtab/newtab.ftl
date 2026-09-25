@@ -205,8 +205,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } blokkerer sporarar når du surfar. Du vil sjå dei her.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } blokkerer automatisk sporarar, slik at meir av aktiviteten din blir privat.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -506,6 +504,9 @@ newtab-recent-searches-just-now = Akkurat no
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Fjern «{ $search }» frå nylege søk
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søk
 # Screen reader label for the widget's icon-only menu button.
@@ -572,6 +573,9 @@ newtab-topsites-image-url-label = Tilpassa bilde-URL
 newtab-topsites-use-custom-image-link = Bruk eit tilpassa bilde
 newtab-topsites-use-image-link = Bruk eit tilpassa bilde…
 newtab-topsites-image-validation = Klarte ikkje å lesa bildet. Prøv ein annan URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Fjern tekst
 
@@ -1003,6 +1007,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Ein rev i høgre kant på oransje bakgrunn
 newtab-wallpaper-firefox-colorful-sky = Oransje bølgjer over ein lilla nattehimmel
 newtab-wallpaper-firefox-desert-dark = Ein rev som sit i ein mørkelilla ørken
@@ -1431,6 +1438,9 @@ newtab-promo-card-cta = Les meir
 newtab-promo-card-dismiss-button =
     .aria-label = Avvis
     .title = Avvis
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
