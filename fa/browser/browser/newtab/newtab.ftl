@@ -195,8 +195,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } ردیاب‌ها را هنگام وب‌گردی شما مسدود می‌کند. اطلاعات آن‌ها اینجا نمایش داده خواهد شد.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } ردیاب‌ها را به‌طور خودکار مسدود می‌کند تا بخش بیشتری از فعالیت‌های شما محرمانه بماند.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -482,6 +480,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = بیشتر بدانید
 
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -535,6 +539,9 @@ newtab-topsites-image-url-label = نشانی سفارشی تصویر
 newtab-topsites-use-custom-image-link = استفاده از تصویر سفارشی
 newtab-topsites-use-image-link = استفاده از تصویر سفارشی…
 newtab-topsites-image-validation = بارگیری تصویر ناموفق بود. نشانی دیگری را امتحان کنید.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = پاک کردن متن
 
@@ -961,6 +968,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = روباهی در لبهٔ راست روی پس‌زمینهٔ نارنجی
 newtab-wallpaper-firefox-colorful-sky = امواج نارنجی در آسمان شب بنفش
 newtab-wallpaper-firefox-desert-dark = روباهی نشسته در کویر ارغوانی تیره
@@ -1389,6 +1399,9 @@ newtab-promo-card-cta = بیشتر بدانید
 newtab-promo-card-dismiss-button =
     .aria-label = رد کردن
     .title = رد کردن
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1693,6 +1706,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = این فضا با قوانین شما کار می‌کند
 newtab-activation-window-message-values-focus-message = { -brand-product-name } به شما امکان می‌دهد آن‌طور که دوست دارید مرور کنید؛ روشی شخصی‌تر برای شروع روز آنلاین شما. { -brand-product-name } را به سبک خود بسازید.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 
