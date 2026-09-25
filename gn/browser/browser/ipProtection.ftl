@@ -53,7 +53,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Embojuruja VPN
 ipprotection-feature-introduction-button-get-started = Eñepyrũ
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Pe VPN juejupyre ru’ã oiko jeýta 1 jasyporundýpe
@@ -94,6 +97,11 @@ ipprotection-location-selection-callout-secondary-button = Emboyke
 
 ipprotection-android-promo-callout-title = Egueraha VPN juajupyre Android-pe
 ipprotection-android-promo-callout-primary-button = Aikũmby
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Ani ko’ág̃a
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Emboyke
 
 ## Panel
 
