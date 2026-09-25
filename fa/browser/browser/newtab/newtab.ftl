@@ -330,6 +330,20 @@ newtab-stocks-error-not-available = داده‌های بورس در دسترس �
 newtab-stocks-widget-menu-button =
     .aria-label = گزینه‌های ویجت بورس
     .title = گزینه‌های ویجت بورس
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = جست‌وجو
+    .title = جست‌وجو بر اساس نام یا نماد
+    .aria-label = جست‌وجو بر اساس نام یا نماد
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = جست‌وجو
+    .title = جست‌وجو بر اساس نام یا نماد
+    .aria-label = جست‌وجو بر اساس نام یا نماد
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = بورس
