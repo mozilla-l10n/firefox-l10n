@@ -33,6 +33,9 @@ autofill-options-link = Form autofill options
 credit-card-doorhanger-credit-cards-sync-checkbox = Synchronise all saved cards across my devices
 credit-card-save-doorhanger-header = Securely save this card?
 credit-card-save-doorhanger-description = { -brand-short-name } encrypts your card number. Your security code won’t be saved.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } encrypts your card number and security code, so only you can use them to fill payment forms.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Always save security codes for payment methods.
 credit-card-capture-save-button =
     .label = Save
     .accessKey = S
@@ -61,6 +64,22 @@ autofill-manage-payment-methods-label = Manage payment methods
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV saved
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV saved
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV saved
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV saved
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
