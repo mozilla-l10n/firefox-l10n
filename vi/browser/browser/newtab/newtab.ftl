@@ -298,6 +298,20 @@ newtab-stocks-error-not-available = Dữ liệu cổ phiếu hiện không khả
 newtab-stocks-widget-menu-button =
     .aria-label = Tuỳ chọn widget Cổ phiếu
     .title = Tuỳ chọn widget Cổ phiếu
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Tìm kiếm
+    .title = Tìm kiếm theo tên hoặc ký hiệu
+    .aria-label = Tìm kiếm theo tên hoặc ký hiệu
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Tìm kiếm
+    .title = Tìm kiếm theo tên hoặc ký hiệu
+    .aria-label = Tìm kiếm theo tên hoặc ký hiệu
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Cổ phiếu
