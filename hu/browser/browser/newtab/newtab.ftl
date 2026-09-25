@@ -340,6 +340,20 @@ newtab-stocks-error-not-available = A részvényadatok nem érhetők el
 newtab-stocks-widget-menu-button =
     .aria-label = Részvények kisalkalmazások beállításai
     .title = Részvények kisalkalmazások beállításai
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Keresés
+    .title = Keresés név vagy szimbólum szerint
+    .aria-label = Keresés név vagy szimbólum szerint
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Keresés
+    .title = Keresés név vagy szimbólum szerint
+    .aria-label = Keresés név vagy szimbólum szerint
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Részvények
