@@ -35,6 +35,9 @@ urlbar-identity-button2 =
             [1] مشاهدهٔ اطلاعات سایت (۱ ردیاب مسدود شده است)
            *[other] مشاهدهٔ اطلاعات سایت ({ $count } ردیاب مسدود شده‌اند)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = مشاهدهٔ اطلاعات سایت
 
@@ -714,6 +717,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · با حمایت مالی
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = پرسش
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -872,6 +880,10 @@ urlbar-searchmode-no-keyword2 =
     .title = جست‌وجو با کلمات کلیدی غیرفعال است
 urlbar-searchmode-dropmarker2 =
     .title = انتخاب یک موتور جست‌وجو
+urlbar-searchmode-bookmarks4 = نشانک‌ها
+urlbar-searchmode-tabs4 = زبانه‌ها
+urlbar-searchmode-history4 = تاریخچه
+urlbar-searchmode-actions4 = دستورها
 urlbar-searchmode-bookmarks3 = نشانک‌ها
     .accesskey = B
 urlbar-searchmode-tabs3 = زبانه‌ها
@@ -895,6 +907,8 @@ urlbar-searchmode-popup-one-off-header = این بار جست‌وجو با:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = جست‌وجو با:
+urlbar-searchmode-popup-search-settings2 = تنظیمات جست‌وجو
+urlbar-searchmode-popup-settings2 = تنظیمات
 urlbar-searchmode-popup-search-settings = تنظیمات جست‌وجو
     .accesskey = S
 urlbar-searchmode-popup-settings = تنظیمات
@@ -1222,6 +1236,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1442,6 +1459,13 @@ file-picker-crashed-open = پنجرهٔ انتخاب فایل ویندوز کر�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = پنجرهٔ انتخاب فایل ویندوز کرش کرد. فایل در مسیر { $path } ذخیره خواهد شد.
 file-picker-crashed-save-nowhere = پنجرهٔ انتخاب فایل ویندوز کرش کرد. پوشهٔ پیش‌فرضی یافت نشد؛ پرونده ذخیره نمی‌شود.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = نمایش در پوشه
     .accessKey = F
@@ -1494,6 +1518,9 @@ trustpanel-blocker-see-all = مشاهدهٔ همه
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = حفاظت در برابر ردیابی برای { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
