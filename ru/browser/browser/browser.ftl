@@ -37,6 +37,9 @@ urlbar-identity-button2 =
             [few] Просмотреть информацию о сайте (заблокировано { $count } трекера)
            *[many] Просмотреть информацию о сайте (заблокировано { $count } трекеров)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Просмотреть информацию о сайте
 
@@ -717,6 +720,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 urlbar-result-weather-provider-sponsored = { $provider } · На правах рекламы
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Спросить
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -881,6 +889,10 @@ urlbar-searchmode-no-keyword2 =
     .title = Поиск по ключевым словам отключён
 urlbar-searchmode-dropmarker2 =
     .title = Выберите поисковую систему
+urlbar-searchmode-bookmarks4 = Закладки
+urlbar-searchmode-tabs4 = Вкладки
+urlbar-searchmode-history4 = Журнал
+urlbar-searchmode-actions4 = Действия
 urlbar-searchmode-bookmarks3 = Закладки
     .accesskey = И
 urlbar-searchmode-tabs3 = Вкладки
@@ -904,6 +916,8 @@ urlbar-searchmode-popup-one-off-header = В этот раз искать в:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Искать в:
+urlbar-searchmode-popup-search-settings2 = Параметры поиска
+urlbar-searchmode-popup-settings2 = Настройки
 urlbar-searchmode-popup-search-settings = Параметры поиска
     .accesskey = Ы
 urlbar-searchmode-popup-settings = Настройки
@@ -1232,6 +1246,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1459,6 +1476,13 @@ file-picker-crashed-open = Произошло падение диалогово�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Произошло падение диалогового окна «Файл» Windows. Файл будет сохранён в { $path }.
 file-picker-crashed-save-nowhere = Произошло падение диалогового окна «Файл» Windows. Папка по умолчанию не найдена; файл не будет сохранён.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Показать в папке
     .accessKey = А
@@ -1511,6 +1535,9 @@ trustpanel-blocker-see-all = Показать все
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Защита от отслеживания на { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
