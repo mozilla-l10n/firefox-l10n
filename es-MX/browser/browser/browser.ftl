@@ -36,6 +36,9 @@ urlbar-identity-button2 =
             [one] Ver información del sitio ({ $count } rastreador bloqueado)
            *[other] Ver información del sitio ({ $count } rastreadores bloqueados)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver información de sitio
 
@@ -715,6 +718,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -873,6 +881,10 @@ urlbar-searchmode-no-keyword2 =
     .title = La búsqueda de palabras clave está deshabilitada
 urlbar-searchmode-dropmarker2 =
     .title = Elige un Motor de Búsqueda
+urlbar-searchmode-bookmarks4 = Marcadores
+urlbar-searchmode-tabs4 = Pestañas
+urlbar-searchmode-history4 = Historial
+urlbar-searchmode-actions4 = Acciones
 urlbar-searchmode-bookmarks3 = Marcadores
     .accesskey = B
 urlbar-searchmode-tabs3 = Pestañas
@@ -896,6 +908,8 @@ urlbar-searchmode-popup-one-off-header = Esta vez busca con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Buscar con:
+urlbar-searchmode-popup-search-settings2 = Configuración de búsqueda
+urlbar-searchmode-popup-settings2 = Ajustes
 urlbar-searchmode-popup-search-settings = Configuración de búsqueda
     .accesskey = s
 urlbar-searchmode-popup-settings = Ajustes
@@ -1223,6 +1237,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1440,6 +1457,13 @@ file-picker-crashed-open = El diálogo de archivo de Windows ha fallado. No se p
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = El diálogo de archivo de Windows ha fallado. El archivo se guardará en { $path }.
 file-picker-crashed-save-nowhere = El diálogo de archivo de Windows ha fallado. No se pudo encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostrar en carpeta
     .accessKey = M
@@ -1492,6 +1516,9 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecciones contra el rastreo para { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
