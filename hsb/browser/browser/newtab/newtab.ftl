@@ -211,8 +211,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } přesćěhowaki blokuje, hdyž přehladujeće. Budźeće je tu widźeć.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } přesćěhowaki awtomatisce blokuje, zo by wjace aktiwity priwatne wostało.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -524,6 +522,9 @@ newtab-recent-searches-just-now = Runje
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” z najnowšich pytanjow wotstronić
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Pytać
 # Screen reader label for the widget's icon-only menu button.
@@ -590,6 +591,9 @@ newtab-topsites-image-url-label = URL swójskeho wobraza
 newtab-topsites-use-custom-image-link = Swójski wobraz wužiwać
 newtab-topsites-use-image-link = Swójski wobraz wužiwać…
 newtab-topsites-image-validation = Wobraz njeda so začitać. Spytajće druhi URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Tekst zhašeć
 
@@ -1023,6 +1027,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Liška na prawej kromje na oranžowym pozadku
 newtab-wallpaper-firefox-colorful-sky = Oranžowe žołmy přez wioletne nócne njebjo
 newtab-wallpaper-firefox-desert-dark = Liška, kotraž w ćmowej wioletnej pusćinje sedźi
@@ -1451,6 +1458,9 @@ newtab-promo-card-cta = Dalše informacije
 newtab-promo-card-dismiss-button =
     .aria-label = Zaćisnyć
     .title = Zaćisnyć
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
