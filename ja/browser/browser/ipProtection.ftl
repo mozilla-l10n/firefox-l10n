@@ -110,6 +110,7 @@ ipprotection-android-promo-callout-primary-button = 了解
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 後で
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 閉じる
 
 ## Panel
 
