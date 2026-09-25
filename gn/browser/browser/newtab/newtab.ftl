@@ -293,6 +293,20 @@ newtab-stocks-error-not-available = Mba’ekuaarãita apopyre ndojeporukuaái
 newtab-stocks-widget-menu-button =
     .aria-label = Widget jepovorã jeku’erãva
     .title = Widget jepovorã jeku’erãva
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Eheka
+    .title = Eheka téra térã ta’ãnga’i rupi
+    .aria-label = Eheka téra térã ta’ãnga’i rupi
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Eheka
+    .title = Eheka téra térã ta’ãnga’i rupi
+    .aria-label = Eheka téra térã ta’ãnga’i rupi
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Jejaporã
