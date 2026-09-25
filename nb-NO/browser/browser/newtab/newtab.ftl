@@ -340,6 +340,20 @@ newtab-stocks-error-not-available = Aksjedata er ikke tilgjengelig.
 newtab-stocks-widget-menu-button =
     .aria-label = Innstillinger for aksje-widgeten
     .title = Innstillinger for aksje-widgeten
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Søk
+    .title = Søk etter navn eller symbol
+    .aria-label = Søk etter navn eller symbol
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Søk
+    .title = Søk etter navn eller symbol
+    .aria-label = Søk etter navn eller symbol
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aksjer
