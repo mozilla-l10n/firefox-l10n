@@ -817,6 +817,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Personvern
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Kryssord
 newtab-custom-widget-stocks-toggle =
     .label = Aksjar
 newtab-custom-widget-picture-toggle =
