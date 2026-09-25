@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Ireki VPNa
 ipprotection-feature-introduction-button-get-started = Hasi erabiltzen
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Integratutako VPNaren zure mugak irailaren 1ean berrezarriko dira
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Baztertu
 ipprotection-android-promo-callout-title = Eraman aldean integratutako VPNa Androiden
 ipprotection-android-promo-callout-description = Eskaneatu QR kodea Androiderako { -brand-product-name } eskuratzeko eta gaitu integratutako VPNa pribatutasun gehiago izateko edonon. Laster iOS-en ere bai.
 ipprotection-android-promo-callout-primary-button = Ulertuta
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Une honetan ez
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Baztertu
 
 ## Panel
 
