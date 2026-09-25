@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gesti is cunfiguratziones de ventanas emergentes e rediretziones de àteras partes…
     .accesskey = G
+
+##
+
 urlbar-identity-button =
     .aria-label = Visualiza informatziones de su situ
 
@@ -698,6 +701,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -853,6 +861,10 @@ urlbar-searchmode-no-keyword2 =
     .title = Sa chirca pro faeddu-crae est istudada
 urlbar-searchmode-dropmarker2 =
     .title = Sèbera unu motore de chirca
+urlbar-searchmode-bookmarks4 = Sinnalibros
+urlbar-searchmode-tabs4 = Ischedas
+urlbar-searchmode-history4 = Cronologia
+urlbar-searchmode-actions4 = Atziones
 urlbar-searchmode-bookmarks3 = Sinnalibros
     .accesskey = S
 urlbar-searchmode-tabs3 = Ischedas
@@ -876,6 +888,8 @@ urlbar-searchmode-popup-one-off-header = Custa borta chirca cun:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Chirca cun:
+urlbar-searchmode-popup-search-settings2 = Cunfiguratzione de chirca
+urlbar-searchmode-popup-settings2 = Cunfiguratziones
 urlbar-searchmode-popup-search-settings = Cunfiguratzione de chirca
     .accesskey = C
 urlbar-searchmode-popup-settings = Cunfiguratziones
@@ -1203,6 +1217,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1419,6 +1436,13 @@ file-picker-crashed-open = Sa ventana de seletzione de archìvios de Windows s�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Sa ventana de seletzione de archìvios de Windows s’est serrada. S’archìviu at a èssere sarvadu in { $path }.
 file-picker-crashed-save-nowhere = Sa ventana de seletzione de archìvios de Windows s’est serrada. Impossìbile agatare sa cartella predefinida; s’archìviu no at a èssere sarvadu.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Ammustra in sa cartella
     .accessKey = A
@@ -1471,6 +1495,9 @@ trustpanel-blocker-see-all = Ammustra totu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Amparu contra sa sighidura pro { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
