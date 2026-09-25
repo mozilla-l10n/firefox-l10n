@@ -53,6 +53,7 @@ fxa-menu-sync-description = Accede a tu web desde cualquier lugar
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Inicia sesión para sincronizar
+fxa-menu-sign-in-promo-message = Accede a tus datos desde cualquier lugar
 fxa-menu-sign-in-promo-button =
     .label = Iniciar sesión
 # Card shown in the account menu when a previously signed-in account is
