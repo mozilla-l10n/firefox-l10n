@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN megnyitása
 ipprotection-feature-introduction-button-get-started = Kezdő lépések
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = A beépített VPN korlátja szeptember 1-jén visszaáll
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Eltüntetés
 ipprotection-android-promo-callout-title = Vigye magával a beépített VPN-t Androidon
 ipprotection-android-promo-callout-description = Olvassa le a QR-kódot, hogy beszerezze a { -brand-product-name(case: "accusative") } Androidra, és kapcsolja be a beépített VPN-t, hogy nagyobb biztonságban legyen útközben. Hamarosan iOS-en is.
 ipprotection-android-promo-callout-primary-button = Megértettem
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Most nem
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Eltüntetés
 
 ## Panel
 
