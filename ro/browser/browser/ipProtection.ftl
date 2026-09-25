@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Deschide VPN-ul
 ipprotection-feature-introduction-button-get-started = Începe
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Limitele VPN-ului încorporat se resetează pe 1 septembrie
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Închide
 ipprotection-android-promo-callout-title = Ia VPN-ul încorporat cu tine pe Android
 ipprotection-android-promo-callout-description = Scanează codul QR pentru a obține { -brand-product-name } pentru Android și activează VPN-ul încorporat pentru mai multă confidențialitate din mers. În curând și pe iOS.
 ipprotection-android-promo-callout-primary-button = Am înțeles
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Nu acum
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Închide
 
 ## Panel
 
