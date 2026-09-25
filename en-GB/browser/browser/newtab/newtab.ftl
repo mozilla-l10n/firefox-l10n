@@ -340,6 +340,20 @@ newtab-stocks-error-not-available = Stock data is not available.
 newtab-stocks-widget-menu-button =
     .aria-label = Stocks widget options
     .title = Stocks widget options
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Search
+    .title = Search by name or symbol
+    .aria-label = Search by name or symbol
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Search
+    .title = Search by name or symbol
+    .aria-label = Search by name or symbol
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Stocks
