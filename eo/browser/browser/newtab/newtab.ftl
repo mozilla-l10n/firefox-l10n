@@ -330,6 +330,20 @@ newtab-stocks-error-not-available = Akciaj datumoj ne disponeblaj.
 newtab-stocks-widget-menu-button =
     .aria-label = Ebloj por akciaj komponantoj
     .title = Ebloj por akciaj komponantoj
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Serĉi
+    .title = Serĉi laŭ nomo aŭ simbolo
+    .aria-label = Serĉi laŭ nomo aŭ simbolo
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Serĉi
+    .title = Serĉi laŭ nomo aŭ simbolo
+    .aria-label = Serĉi laŭ nomo aŭ simbolo
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akcioj
