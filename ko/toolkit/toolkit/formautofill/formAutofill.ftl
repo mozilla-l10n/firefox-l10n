@@ -20,10 +20,13 @@ autofill-edit-payment-method-os-prompt-other = { -brand-short-name }가 저장�
 autofill-delete-payment-method-os-prompt-macos = 저장된 결제 수단 정보 삭제
 autofill-delete-payment-method-os-prompt-windows = { -brand-short-name }가 저장된 결제 수단 정보를 삭제하려고 합니다. 아래 Windows 계정에 대한 접근을 확인하세요.
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name }가 저장된 결제 수단 정보를 삭제하려고 합니다.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = 양식 자동 채우기 옵션
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = 양식 자동 채우기 옵션
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -40,6 +43,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = 카드를 저장 안 함
     .accessKey = N
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = 카드를 업데이트하시겠습니까?
 credit-card-update-doorhanger-description = 업데이트할 카드:
 credit-card-capture-save-new-button =
@@ -59,6 +65,15 @@ autofill-manage-payment-methods-label = 결제 수단 관리
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
