@@ -5,19 +5,34 @@
 
 ## OS Prompt Dialog
 
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Optziones de cumpletamentu automàticu de formulàrios
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Optziones de cumpletamentu automàticu de formulàrios
 
-## The credit card capture doorhanger
+##
 
 credit-card-capture-cancel-button =
     .label = Immoe nono
     .accessKey = N
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-capture-save-new-button =
     .label = Sarva comente carta noa
     .accessKey = S
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Isbòida su formulàriu cumpletadu in automàticu
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

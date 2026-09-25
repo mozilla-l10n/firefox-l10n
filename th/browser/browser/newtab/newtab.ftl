@@ -175,8 +175,9 @@ newtab-privacy-across-sites = ใน { $count } ไซต์
 
 ## Privacy widget — empty state
 
-# Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } จะปิดกั้นตัวติดตามในขณะที่คุณเรียกดู คุณจะเห็นตัวติดตามเหล่านั้นที่นี่
+
+## Privacy widget — Enhanced Tracking Protection off state
+
 
 ## Privacy widget — informational messages
 ##
@@ -191,10 +192,35 @@ newtab-privacy-message-info-2-cta = ดูการป้องกัน
 newtab-privacy-message-info-3 = หลายเว็บไซต์มีตัวติดตาม ทำให้บริษัทที่คุณไม่เคยเข้าเยี่ยมชมไซต์สามารถติดตามคุณทางออนไลน์ได้
 newtab-privacy-message-info-3-cta = ดูการป้องกัน
 
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
 newtab-stocks-menu-learn-more = เรียนรู้เพิ่มเติม
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
 
 ## Strings for the Picture of the Day widget
 
@@ -216,6 +242,19 @@ newtab-picture-menu-hide-photo = ซ่อนภาพประจำวัน�
 newtab-picture-menu-show-photo = แสดงภาพประจำวันนี้
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = เรียนรู้เพิ่มเติม
+
+## Strings for the Search widget
+
+
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -262,6 +301,9 @@ newtab-topsites-image-url-label = URL ภาพกำหนดเอง
 newtab-topsites-use-custom-image-link = ใช้ภาพกำหนดเอง
 newtab-topsites-use-image-link = ใช้ภาพกำหนดเอง…
 newtab-topsites-image-validation = ไม่สามารถโหลดภาพ ลอง URL อื่น
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = ล้างข้อความ
 
@@ -290,6 +332,9 @@ newtab-topsite-sponsored = ได้รับการสนับสนุน
 topsite-label-pinned =
     .aria-label = { $title } (ปักหมุดอยู่)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
 
 ## Context Menu - Action Tooltips.
 
@@ -467,6 +512,9 @@ newtab-custom-widget-clock-toggle =
     .label = นาฬิกา
 newtab-custom-widget-sports-toggle2 =
     .label = กีฬา
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = ปริศนาอักษรไขว้
 newtab-custom-widget-section-title = วิดเจ็ต
 newtab-custom-widget-section-toggle =
     .label = วิดเจ็ต
@@ -478,6 +526,12 @@ newtab-custom-close-menu-button =
     .aria-label = ปิดเมนู
     .title = ปิด
 newtab-custom-settings = จัดการการตั้งค่าเพิ่มเติม
+
+## Customization Menu
+
+
+## New Tab Appearance (browser theme picker)
+
 
 ## New Tab Wallpapers
 
@@ -509,6 +563,11 @@ newtab-wallpaper-dark-mountain = วิวภูเขา
 newtab-wallpaper-dark-city = วิวเมืองสีม่วง
 newtab-wallpaper-dark-fox-anniversary = สุนัขจิ้งจอกอยู่บนทางเท้าใกล้ป่าแห่งหนึ่ง
 newtab-wallpaper-light-fox-anniversary = สุนัขจิ้งจอกอยู่ในทุ่งหญ้าที่มีทิวทัศน์ภูเขาซึ่งเต็มไปด้วยหมอก
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
 
 ## Solid Colors
 
@@ -574,6 +633,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 
 ## Firefox
 
@@ -967,6 +1029,9 @@ newtab-promo-card-cta = เรียนรู้เพิ่มเติม
 newtab-promo-card-dismiss-button =
     .aria-label = ปิด
     .title = ปิด
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1224,6 +1289,9 @@ newtab-sports-widget-message-day-in-play-body = ติดตามการแ�
 newtab-sports-widget-message-explore-widgets-cta =
     .label = สำรวจวิดเจ็ต
 
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -1245,6 +1313,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = พื้นที่แห่งนี้เล่นตามกฎของคุณ
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ช่วยให้คุณเลือกดูสินค้าได้ตามใจชอบ พร้อมวิธีเริ่มต้นวันใหม่บนโลกออนไลน์ในแบบที่เป็นส่วนตัวยิ่งขึ้น ปรับแต่ง { -brand-product-name } ให้เป็นของคุณเอง
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 

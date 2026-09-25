@@ -205,8 +205,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } ზღუდავს მეთვალყურეებს გვერდების თვალიერებისას. მათ ჩამონათვალს იხილავთ აქ.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } თავისთავად ზღუდავს მეთვალყურეებს, შედეგად თქვენი საქმიანობა უმეტესწილად რჩება პირადი.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -342,6 +340,20 @@ newtab-stocks-error-not-available = აქციების მონაცე�
 newtab-stocks-widget-menu-button =
     .aria-label = აქციების ჩანამატის პარამეტრები
     .title = აქციების ჩანამატის გამართვა
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = ძიება
+    .title = ძიება სახელით ან ასონიშნით
+    .aria-label = ძიება სახელით ან ასონიშნით
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = ძიება
+    .title = ძიება სახელით ან ასონიშნით
+    .aria-label = ძიება სახელით ან ასონიშნით
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = აქციები
@@ -506,6 +518,9 @@ newtab-recent-searches-just-now = ახლახან
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = მოცილდეს „{ $search }“ ბოლოს მოძიებულებიდან
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = ძიება
 # Screen reader label for the widget's icon-only menu button.
@@ -572,6 +587,9 @@ newtab-topsites-image-url-label = სასურველი სურათი
 newtab-topsites-use-custom-image-link = სასურველი სურათის გამოყენება
 newtab-topsites-use-image-link = სასურველი სურათის გამოყენება…
 newtab-topsites-image-validation = სურათი ვერ ჩაიტვირთა. სცადეთ სხვა URL-ბმული.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = ტექსტის გასუფთავება
 
@@ -813,6 +831,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = სპორტი
 newtab-custom-widget-privacy-toggle =
     .label = პირადულობა
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = კროსვორდი
 newtab-custom-widget-stocks-toggle =
     .label = აქციები
 newtab-custom-widget-picture-toggle =
@@ -1003,6 +1024,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = მელა მარჯვენა კიდეზე ნარინჯისფერი ფონით
 newtab-wallpaper-firefox-colorful-sky = ნარინჯისფერი ტალღები ღამის იისფერ ცაზე
 newtab-wallpaper-firefox-desert-dark = მჯდარი მელა ჩაბნელებულ მეწამულ უდაბნოში
@@ -1431,6 +1455,9 @@ newtab-promo-card-cta = ვრცლად
 newtab-promo-card-dismiss-button =
     .aria-label = აცილება
     .title = აცილება
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

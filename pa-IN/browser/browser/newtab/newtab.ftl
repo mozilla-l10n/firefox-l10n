@@ -195,8 +195,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰ ਰਹੇ ਸੀ ਤਾਂ { -brand-short-name } ਨੇ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ। ਤੁਸੀਂ ਉਹਨਾਂ ਨੂੰ ਇੱਥੇ ਵੇਖ ਸਕਦੇ ਹੋ।
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = ਤੁਹਾਡੀਆਂ ਸਰਗਰਮੀ ਨੂੰ ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ { -brand-short-name } ਆਪਣੇ-ਆਪ ਹੀ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਂਦਾ ਹੈ।
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -332,6 +330,20 @@ newtab-stocks-error-not-available = ਸਟਾਕ ਡਾਟਾ ਮੌਜੂਦ �
 newtab-stocks-widget-menu-button =
     .aria-label = ਸਟਾਕ ਵਿਜੈੱਟ ਚੋਣਾਂ
     .title = ਸਟਾਕ ਵਿਜੈਟ ਚੋਣਾਂ
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = ਖੋਜ
+    .title = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
+    .aria-label = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = ਖੋਜ
+    .title = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
+    .aria-label = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = ਸਟਾਕ
@@ -474,6 +486,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = ਹੋਰ ਜਾਣੋ
 
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -527,6 +545,9 @@ newtab-topsites-image-url-label = URL ਕਸਟਮ ਚਿੱਤਰ
 newtab-topsites-use-custom-image-link = ਕਸਟਮ ਚਿੱਤਰ ਵਰਤੋ
 newtab-topsites-use-image-link = ਕਸਟਮ ਚਿੱਤਰ ਵਰਤੋ…
 newtab-topsites-image-validation = ਚਿੱਤਰ ਲੋਡ ਕਰਨ ਤੋਂ ਅਸਫ਼ਲ ਰਿਹਾ। ਕਿਸੇ ਵੱਖਰੇ URL ਨਾਲ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = ਲਿਖਤ ਨੂੰ ਮਿਟਾਓ
 
@@ -768,6 +789,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = ਖੇਡਾਂ
 newtab-custom-widget-privacy-toggle =
     .label = ਪਰਦੇਦਾਰੀ
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = ਕਰਾਸ-ਵਰਡ
 newtab-custom-widget-stocks-toggle =
     .label = ਸਟਾਕ
 newtab-custom-widget-picture-toggle =
@@ -785,6 +809,9 @@ newtab-custom-close-menu-button =
     .aria-label = ਮੇਨ ਨੂੰ ਬੰਦ ਕਰੋ
     .title = ਬੰਦ ਕਰੋ
 newtab-custom-settings = ਹੋਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+
+## Customization Menu
+
 
 ## New Tab Appearance (browser theme picker)
 
@@ -946,6 +973,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 
 ## Firefox
 
@@ -1358,6 +1388,9 @@ newtab-promo-card-cta = ਹੋਰ ਜਾਣੋ
 newtab-promo-card-dismiss-button =
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
     .title = ਖ਼ਾਰਜ ਕਰੋ
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1662,6 +1695,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = ਇਹ ਥਾਂ ਤੁਹਾਡੀ ਮਰਜ਼ੀ ਨਾਲ ਚੱਲਦੀ ਹੈ
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਮਰਜ਼ੀ ਮੁਤਾਬਕ ਬਰਾਊਜ਼ ਕਰਨ ਦਿੰਦਾ ਹੈ, ਤੁਹਾਡੇ ਆਨਲਾਈਨ ਦਿਨ ਨੂੰ ਤੁਹਾਡੇ ਢੰਗ ਨਾਲ ਬਣਾ ਕੇ। { -brand-product-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ।
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 

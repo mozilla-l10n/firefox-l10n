@@ -38,6 +38,9 @@ urlbar-identity-button2 =
             [few] Sedłowe informacije pokazaś ({ $count } pśeslědowaki blokěrowane)
            *[other] Sedłowe informacije pokazaś ({ $count } pśeslědowakow blokěrowane)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Sedłowe informacije se woglědaś
 
@@ -719,6 +722,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pšašaś se
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -889,6 +897,10 @@ urlbar-searchmode-no-keyword2 =
     .title = Pytanje z klucowymi słowami jo znjemóžnjone
 urlbar-searchmode-dropmarker2 =
     .title = Wubjeŕśo pytnicu
+urlbar-searchmode-bookmarks4 = Cytańske znamjenja
+urlbar-searchmode-tabs4 = Rejtariki
+urlbar-searchmode-history4 = Historija
+urlbar-searchmode-actions4 = Akcije
 urlbar-searchmode-bookmarks3 = Cytańske znamjenja
     .accesskey = C
 urlbar-searchmode-tabs3 = Rejtariki
@@ -912,6 +924,8 @@ urlbar-searchmode-popup-one-off-header = Tenraz pytaś z:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Pytaś z:
+urlbar-searchmode-popup-search-settings2 = Pytańske nastajenja
+urlbar-searchmode-popup-settings2 = Nastajenja
 urlbar-searchmode-popup-search-settings = Pytańske nastajenja
     .accesskey = P
 urlbar-searchmode-popup-settings = Nastajenja
@@ -1241,6 +1255,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1472,6 +1489,13 @@ file-picker-crashed-open = Datajowy dialog Windows jo spadnuł. Dataja abo zarě
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Datajowy dialog Windows jo spadnuł. Dataja buźo se do { $path } składowaś.
 file-picker-crashed-save-nowhere = Datajowy dialog Windows jo spadnuł. Standardny zarědnik njedajo se namakaś; dataja njebuźo se składowaś.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = W zarědniku pokazaś
     .accessKey = z
@@ -1524,6 +1548,9 @@ trustpanel-blocker-see-all = Wšykne pokazaś
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Slědowański šćit za { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

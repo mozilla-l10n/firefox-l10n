@@ -183,8 +183,6 @@ newtab-privacy-across-sites = 涉及 { $count } 个网站
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } 会在您浏览时拦截跟踪器。拦截情况将显示在这里。
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } 会自动拦截跟踪器，让您的活动更私密。
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -292,6 +290,20 @@ newtab-stocks-error-not-available = 无法获取股市数据。
 newtab-stocks-widget-menu-button =
     .aria-label = 股市小组件选项
     .title = 股市小组件选项
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = 搜索
+    .title = 搜索名称或代码
+    .aria-label = 搜索名称或代码
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = 搜索
+    .title = 搜索名称或代码
+    .aria-label = 搜索名称或代码
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = 股市
@@ -448,6 +460,9 @@ newtab-recent-searches-just-now = 刚刚
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = 从近期搜索中移除“{ $search }”
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = 搜索
 # Screen reader label for the widget's icon-only menu button.
@@ -514,6 +529,9 @@ newtab-topsites-image-url-label = 自定义图像网址
 newtab-topsites-use-custom-image-link = 使用自定义图像
 newtab-topsites-use-image-link = 使用自定义图像…
 newtab-topsites-image-validation = 图像加载失败。请尝试其他网址。
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = 清除文本
 
@@ -754,6 +772,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = 体育
 newtab-custom-widget-privacy-toggle =
     .label = 隐私保护
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = 填字游戏
 newtab-custom-widget-stocks-toggle =
     .label = 股市
 newtab-custom-widget-picture-toggle =
@@ -944,6 +965,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = 狐狸从橙色背景的右侧探出脑袋
 newtab-wallpaper-firefox-colorful-sky = 紫色夜空中翻涌橙色波纹
 newtab-wallpaper-firefox-desert-dark = 狐狸坐在深紫色沙漠中
@@ -1368,6 +1392,9 @@ newtab-promo-card-cta = 详细了解
 newtab-promo-card-dismiss-button =
     .aria-label = 知道了
     .title = 知道了
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1662,6 +1689,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = 这片空间，由您做主
 newtab-activation-window-message-values-focus-message = { -brand-product-name } 可让您以更具个性的方式开启网络上的新一天，按自己喜欢的方式来浏览。让 { -brand-product-name } 有您的个性。
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 

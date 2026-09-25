@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Άνοιγμα VPN
 ipprotection-feature-introduction-button-get-started = Έναρξη
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Θα γίνει επαναφορά των ορίων του ενσωματωμένου VPN την 1η Σεπτεμβρίου
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Απόρριψη
 ipprotection-android-promo-callout-title = Πάρτε μαζί σας το ενσωματωμένο VPN στο Android
 ipprotection-android-promo-callout-description = Σαρώστε τον κωδικό QR για να αποκτήσετε το { -brand-product-name } για Android και ενεργοποιήστε το ενσωματωμένο VPN για περισσότερη ιδιωτικότητα εν κινήσει. Σύντομα και στο iOS.
 ipprotection-android-promo-callout-primary-button = Το κατάλαβα
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Όχι τώρα
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Απόρριψη
 
 ## Panel
 

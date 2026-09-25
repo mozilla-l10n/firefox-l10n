@@ -51,7 +51,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Բացել VPN-ը
 ipprotection-feature-introduction-button-get-started = Սկսել
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Ձեր ներկառուցված VPN սահմանափակումները կվերակայվեն սեպտեմբերի 1-ին
@@ -100,6 +103,11 @@ ipprotection-location-selection-callout-secondary-button = Բաց թողնել
 ipprotection-android-promo-callout-title = Վերցրեք ներկառուցված VPN-ը ձեզ հետ Android-ում
 ipprotection-android-promo-callout-description = Սկանավորեք QR կոդը՝ Android-ի համար { -brand-product-name }-ը ստանալու համար և միացրեք ներկառուցված VPN-ը՝ ճանապարհին ավելի շատ գաղտնիություն ապահովելու համար: Շուտով հասանելի կլինի նաև iOS-ում:
 ipprotection-android-promo-callout-primary-button = Հասկացա
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Ոչ հիմա
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Բաց թողնել
 
 ## Panel
 
@@ -329,6 +337,9 @@ ip-protection-bandwidth-header-1 = Ամսական տվյալների սահմա�
 ipprotection-bandwidth-reset-title = { $maxUsage } ԳԲ VPN, թարմացված և պատրաստ օգտագործման համար
 ipprotection-bandwidth-reset-text = Միացրեք VPN-ը՝ գաղտնիության լրացուցիչ բարձրացման համար, ամեն ամիս անվճար։
 ipprotection-bandwidth-reset-button = Հասկացա
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

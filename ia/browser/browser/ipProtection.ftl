@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Aperir VPN
 ipprotection-feature-introduction-button-get-started = Comenciar
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Tu limites del VPN integrate se reinitialisara le 1 de septembre
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Ignorar
 ipprotection-android-promo-callout-title = Porta le VPN integrate con te sur Android
 ipprotection-android-promo-callout-description = Scande le codice QR al volo pro obtener { -brand-product-name } pro Android e activar le VPN integrate pro plus de confidentialitate.
 ipprotection-android-promo-callout-primary-button = OK
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Non ora
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorar
 
 ## Panel
 

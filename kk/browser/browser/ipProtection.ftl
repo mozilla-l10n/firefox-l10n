@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN ашу
 ipprotection-feature-introduction-button-get-started = Бастау
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Сіздің кірістірілген VPN шектеулеріңіз 1 қыркүйекте қалпына келтіріледі
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Елемеу
 ipprotection-android-promo-callout-title = Android-та кіріктірілген VPN қызметін өзіңізбен бірге алыңыз
 ipprotection-android-promo-callout-description = Android-ке арналған { -brand-product-name } алу үшін QR кодын сканерлеңіз және жолда көбірек жекелік үшін кіріктірілген VPN іске қосыңыз. Жақында iOS жүйесінде қолжетімді болады.
 ipprotection-android-promo-callout-primary-button = Түсіндім
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Қазір емес
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Елемеу
 
 ## Panel
 

@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Obre la VPN
 ipprotection-feature-introduction-button-get-started = Comença
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Els límits VPN reinicien l'1 de setembre
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Descarta
 ipprotection-android-promo-callout-title = Emporteu-vos la VPN integrada a l'Android
 ipprotection-android-promo-callout-description = Escanegeu el codi QR per obtenir el { -brand-product-name } per a Android i activeu la VPN integrada per a més privadesa allà on sigueu. Aviat estarà disponible per a iOS.
 ipprotection-android-promo-callout-primary-button = Entesos
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Ara no
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Descarta
 
 ## Panel
 

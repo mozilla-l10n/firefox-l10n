@@ -205,8 +205,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = Siz internette gezinirken { -brand-short-name } takip kodlarını engeller. Engellenenleri burada göreceksiniz.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name }, takip kodlarını kendiliğinden engelleyerek internette yaptıklarınızın daha gizli kalmasını sağlar.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -342,6 +340,20 @@ newtab-stocks-error-not-available = Borsa verileri kullanılamıyor.
 newtab-stocks-widget-menu-button =
     .aria-label = Borsa aracı seçenekleri
     .title = Borsa aracı seçenekleri
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Ara
+    .title = Ad veya borsa koduyla ara
+    .aria-label = Ad veya borsa koduyla ara
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Ara
+    .title = Ad veya borsa koduyla ara
+    .aria-label = Ad veya borsa koduyla ara
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Borsa
@@ -506,6 +518,9 @@ newtab-recent-searches-just-now = Az önce
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” aramasını son aramalardan kaldır
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Arama
 # Screen reader label for the widget's icon-only menu button.
@@ -572,6 +587,9 @@ newtab-topsites-image-url-label = Özel resim adresi
 newtab-topsites-use-custom-image-link = Özel resim kullan
 newtab-topsites-use-image-link = Özel resim kullan…
 newtab-topsites-image-validation = Resim yüklenemedi. Başka bir adres deneyin.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Metni temizle
 
@@ -813,6 +831,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Spor
 newtab-custom-widget-privacy-toggle =
     .label = Gizlilik
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Çapraz bulmaca
 newtab-custom-widget-stocks-toggle =
     .label = Borsa
 newtab-custom-widget-picture-toggle =
@@ -1003,6 +1024,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Turuncu bir arka plan üzerinde sağ kenarda bir tilki
 newtab-wallpaper-firefox-colorful-sky = Mor gece göğüne yayılan turuncu dalgalar
 newtab-wallpaper-firefox-desert-dark = Koyu mor bir çölde oturan bir tilki
@@ -1431,6 +1455,9 @@ newtab-promo-card-cta = Daha fazla bilgi alın
 newtab-promo-card-dismiss-button =
     .aria-label = Kapat
     .title = Kapat
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

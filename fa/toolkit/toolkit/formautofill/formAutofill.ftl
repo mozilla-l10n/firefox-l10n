@@ -15,10 +15,13 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } در حال 
 autofill-edit-payment-method-os-prompt-macos = نمایش اطلاعات روش پرداخت ذخیره‌ شده
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } در حال تلاش برای نمایش اطلاعات روش پرداخت ذخیره‌ شده است. دسترسی به این حساب ویندوز را در زیر تأیید کنید.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } در حال تلاش برای نمایش اطلاعات روش پرداخت ذخیره‌ شده است.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = گزینه‌های پرکردن خودکار فرم
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = گزینه‌های پرکردن خودکار فرم
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -35,6 +38,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = هرگز کارت‌ها را ذخیره نکنید
     .accessKey = ن
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = به‌روزرسانی کارت؟
 credit-card-update-doorhanger-description = کارتی که باید به‌روزرسانی شود:
 credit-card-capture-save-new-button =
@@ -49,6 +55,15 @@ autofill-clear-form-label = پاک سازی پرکردن خودکار فرم
 autofill-manage-addresses-label = مدیریت نشانی‌ها
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = مدیریت روش‌های پرداخت
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

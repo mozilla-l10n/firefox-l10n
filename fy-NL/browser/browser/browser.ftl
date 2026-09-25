@@ -36,6 +36,9 @@ urlbar-identity-button2 =
             [one] Website-ynformaasje besjen ({ $count } tracker blokkearre)
            *[other] Website-ynformaasje besjen ({ $count } trackers blokkearre)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Website-ynformaasje werjaan
 
@@ -715,6 +718,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsore
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Freegje
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -873,6 +881,10 @@ urlbar-searchmode-no-keyword2 =
     .title = Sykje nei trefwurden is útskeakele
 urlbar-searchmode-dropmarker2 =
     .title = Kies in sykmasine
+urlbar-searchmode-bookmarks4 = Blêdwizers
+urlbar-searchmode-tabs4 = Ljepblêden
+urlbar-searchmode-history4 = Skiednis
+urlbar-searchmode-actions4 = Aksjes
 urlbar-searchmode-bookmarks3 = Blêdwizers
     .accesskey = B
 urlbar-searchmode-tabs3 = Ljepblêden
@@ -896,6 +908,8 @@ urlbar-searchmode-popup-one-off-header = Diskear sykje mei:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Sykje mei:
+urlbar-searchmode-popup-search-settings2 = Sykynstellingen
+urlbar-searchmode-popup-settings2 = Ynstellingen
 urlbar-searchmode-popup-search-settings = Sykynstellingen
     .accesskey = S
 urlbar-searchmode-popup-settings = Ynstellingen
@@ -1223,6 +1237,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1442,6 +1459,13 @@ file-picker-crashed-open = It Windows-bestânsdialoochfinster is ferûngelokke. 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = It Windows-bestânsdialoochfinster is ferûngelokke. It bestân wurdt bewarre yn { $path }.
 file-picker-crashed-save-nowhere = It Windows-bestânsdialoochfinster is ferûngelokke. Der is gjin standertmap fûn; it bestân sil net bewarre wurde.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Yn map toane
     .accessKey = m
@@ -1494,6 +1518,9 @@ trustpanel-blocker-see-all = Alles besjen
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Beskerming tsjin folgjen foar { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

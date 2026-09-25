@@ -205,8 +205,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name }(e)k jarraipen-elementuak blokeatzen ditu zuk nabigatu ahala. Hemen ikusiko dituzu.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name }(e)k automatikoki blokeatzen ditu jarraipen-elementuak, zure jardueraren oraindik eta gehiago pribatu mantenduz.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -342,6 +340,20 @@ newtab-stocks-error-not-available = Akzioen datuak ez daude erabilgarri.
 newtab-stocks-widget-menu-button =
     .aria-label = Akzioen widgetaren aukerak
     .title = Akzioen widgetaren aukerak
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Bilatu
+    .title = Bilatu izen edo sinboloaren arabera
+    .aria-label = Bilatu izen edo sinboloaren arabera
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Bilatu
+    .title = Bilatu izen edo sinboloaren arabera
+    .aria-label = Bilatu izen edo sinboloaren arabera
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Akzioak
@@ -506,6 +518,9 @@ newtab-recent-searches-just-now = Oraintxe bertan
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Kendu "{ $search }" azken bilaketetatik
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Bilaketa
 # Screen reader label for the widget's icon-only menu button.
@@ -572,6 +587,9 @@ newtab-topsites-image-url-label = Irudi pertsonalizatuaren URLa
 newtab-topsites-use-custom-image-link = Erabili irudi pertsonalizatua
 newtab-topsites-use-image-link = Erabili irudi pertsonalizatua…
 newtab-topsites-image-validation = Ezin da irudia kargatu. Saiatu beste URL batekin.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Garbitu testua
 
@@ -813,6 +831,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Kirolak
 newtab-custom-widget-privacy-toggle =
     .label = Pribatutasuna
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Gurutzegrama
 newtab-custom-widget-stocks-toggle =
     .label = Akzioak
 newtab-custom-widget-picture-toggle =
@@ -1003,6 +1024,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Azeria eskuineko ertzean atzeko plano laranja batean
 newtab-wallpaper-firefox-colorful-sky = Laranja-olatuak gaueko zeru morean zehar
 newtab-wallpaper-firefox-desert-dark = Azeria desertu ilun batean eserita
@@ -1431,6 +1455,9 @@ newtab-promo-card-cta = Argibide gehiago
 newtab-promo-card-dismiss-button =
     .aria-label = Baztertu
     .title = Baztertu
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

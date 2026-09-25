@@ -158,6 +158,12 @@ home-prefs-mission-message-learn-more-link-srd = Find ud af hvordan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Læs mere
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
 ## Privacy widget — Enhanced Tracking Protection off state
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
@@ -186,6 +192,12 @@ newtab-privacy-message-promo-monitor-2-cta = Læs mere
 newtab-privacy-message-promo-signin-1-cta = Log ind
 newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
 
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
 ## Strings for the Stocks widget
 
 # Context menu item linking to more information about the Stocks widget.
@@ -196,6 +208,20 @@ newtab-stocks-menu-learn-more = Lær mere
 newtab-stocks-widget-menu-button =
     .aria-label = Indstillinger for aktie-widget
     .title = Indstillinger for aktie-widget
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Søg
+    .title = Søg efter navn eller symbol
+    .aria-label = Søg efter navn eller symbol
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Søg
+    .title = Søg efter navn eller symbol
+    .aria-label = Søg efter navn eller symbol
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aktier
@@ -350,8 +376,14 @@ newtab-recent-searches-just-now = Nu
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Fjern "{ $search }" fra seneste søgninger
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søgning
+
+## Recent searches widget — empty states
+
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -406,6 +438,9 @@ newtab-topsites-image-url-label = URL til selvvalgt billede
 newtab-topsites-use-custom-image-link = Brug selvvalgt billede
 newtab-topsites-use-image-link = Brug selvvalgt billede…
 newtab-topsites-image-validation = Kunne ikke indlæse billede. Prøv en anden URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Ryd tekst
 
@@ -645,6 +680,9 @@ newtab-custom-widget-clock-toggle =
     .label = Ur
 newtab-custom-widget-sports-toggle2 =
     .label = Sport
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Krydsord
 newtab-custom-widget-stocks-toggle =
     .label = Aktier
 newtab-custom-widget-picture-toggle =
@@ -832,6 +870,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 
 ## Firefox
 
@@ -1228,6 +1269,9 @@ newtab-promo-card-cta = Lær mere
 newtab-promo-card-dismiss-button =
     .aria-label = Afvis
     .title = Afvis
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 newtab-widget-timer-pause-aria =
     .aria-label = Sæt timer på pause
 # Variables:
@@ -1507,6 +1551,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Denne plads følger dine regler
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 

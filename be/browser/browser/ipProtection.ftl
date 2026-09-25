@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Адкрыць VPN
 ipprotection-feature-introduction-button-get-started = Пачаць
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Вашы ўбудаваныя ліміты VPN будуць скінуты 1 верасня
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Адхіліць
 ipprotection-android-promo-callout-title = Вазьміце ўбудаваны VPN з сабой на Android
 ipprotection-android-promo-callout-description = Скануйце QR-код, каб атрымаць { -brand-product-name } для Android і ўключыць убудаваны VPN для большай прыватнасці ў дарозе. Неўзабаве на iOS.
 ipprotection-android-promo-callout-primary-button = Зразумела
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Не цяпер
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Адхіліць
 
 ## Panel
 

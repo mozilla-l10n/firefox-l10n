@@ -198,8 +198,6 @@ newtab-privacy-across-sites =
 
 ## Privacy widget — empty state
 
-# Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } ojoko tapykuehoita oikundaha aja. Ko’ápe ojehecháta.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
@@ -295,6 +293,20 @@ newtab-stocks-error-not-available = Mba’ekuaarãita apopyre ndojeporukuaái
 newtab-stocks-widget-menu-button =
     .aria-label = Widget jepovorã jeku’erãva
     .title = Widget jepovorã jeku’erãva
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Eheka
+    .title = Eheka téra térã ta’ãnga’i rupi
+    .aria-label = Eheka téra térã ta’ãnga’i rupi
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Eheka
+    .title = Eheka téra térã ta’ãnga’i rupi
+    .aria-label = Eheka téra térã ta’ãnga’i rupi
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Jejaporã
@@ -447,6 +459,12 @@ newtab-recent-searches-trending-attribution = { $engine } rupive
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Ko’ag̃aite
 
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -500,6 +518,9 @@ newtab-topsites-image-url-label = URL ra’ãnga ñemomba’etepyre
 newtab-topsites-use-custom-image-link = Ta’ãnga ñemomba’etepyre
 newtab-topsites-use-image-link = Ta’ãnga ñemomba’etepyre…
 newtab-topsites-image-validation = Ta’ãnga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Emopotĩ moñe’ẽrã
 
@@ -741,6 +762,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Tetemongu’e
 newtab-custom-widget-privacy-toggle =
     .label = Ñemigua
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Crucigráma
 newtab-custom-widget-stocks-toggle =
     .label = Jejapo
 newtab-custom-widget-picture-toggle =
@@ -903,6 +927,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 
 ## Firefox
 
@@ -1314,6 +1341,9 @@ newtab-promo-card-cta = Eikuaave
 newtab-promo-card-dismiss-button =
     .aria-label = Mboyke
     .title = Mboyke
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

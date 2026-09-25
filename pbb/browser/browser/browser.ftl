@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 
 ##
 
@@ -80,7 +75,7 @@ search-one-offs-add-engine-menu =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
-## the action.
+## the action. English commas should be used, i.e. ,
 
 
 ## Bookmark Panel
@@ -94,12 +89,10 @@ identity-active-blocked = { -brand-short-name } na' aphne' maisa paynxite nanxu 
 identity-passive-loaded = Naa kxtee web-te jiphunime's pa'yakx (piisanisa).
 identity-active-loaded = Ayte ktudujmeta payatx na paynxite.
 identity-weak-encryption = Naa fxi'jhnxisa mej tudkwe ũ'sa'
-identity-insecure-login-forms = Putxna na'we u'kan nate nanxu pa'yatxinega.
 identity-remove-cert-exception =
     .label = Khukhn yahtxn
     .accesskey = K
 identity-description-insecure = Idx çxkitxanxii ayte paçteme ũsa' na ayte ta'sxnxii vxite uyya ewutxin (nawe paçtewesxna,meçxa yuwe tusu vxiu kahnxite, ma'wẽpa
-identity-description-insecure-login-forms = Nawe putxn ta'sxnxii vxitn na ayte meka napa isasamena y suwena.
 identity-description-weak-cipher-intro = Idx ukanxii webte mvxis nawesa's uka'h wehçxaa ũ'sanapa jĩçxapa paçteme.
 identity-description-weak-cipher-risk = Vxite nasa idx vxitnxi's uyya ewutxina meçxa wejx phewuhya na webtewe'sxa's.
 identity-description-active-blocked2 = { -brand-short-name } na' aphne' maisa paynxite nanxu isa ewmeta.
@@ -108,12 +101,6 @@ identity-description-passive-loaded-insecure2 = Ayte web jip ũsa' napa thakwe s
 identity-description-passive-loaded-mixed2 = Ma'wẽtepa { -brand-short-name } nanxu aphnxi ũsn mawẽçxapa ji'pn, ma'wẽntepa nenxutana thegnxite ãhmetepa (ma'wẽsa pisanxitepa)
 identity-description-active-loaded = Ayte ahmea' webte ji'punxi' (nawẽsa scripts) vxite idx çxkitxanxii txãwẽsxi' paçteme nenxuna.
 identity-description-active-loaded-insecure = Ayte ta'sxn katxudenxi vxitetx ya' ta'sxya ewuna (nawẽ vxite paçte fxi'hjnxi, vxite yuwe kahnxisa vxite vxiu ktusehnxinxa'kh, meçxa fxifxisanxakh.).
-identity-disable-mixed-content-blocking =
-    .label = Ãçxte phuphnxi's nuyçxhaçxhanximee.
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = nwe'wene'ga puphnxisa's
-    .accesskey = n
 identity-more-info-link-text =
     .label = Jweiçxaa pta'sxna
 
@@ -123,14 +110,6 @@ browser-window-minimize-button =
     .tooltiptext = Le'çxkwe vxitjxa
 browser-window-close-button =
     .tooltiptext = Apnah
-
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
 
 ## Bookmarks toolbar items
 
@@ -145,9 +124,6 @@ popup-all-windows-shared = Vxitx le'çxkwe vxiasa çehk thegnxisate ya' katxuden
 ## WebSerial "select a port" popup
 
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -159,11 +135,10 @@ urlbar-switch-to-tab =
     .value = Yu'pteni's nxithni
 urlbar-go-button2 =
     .title = Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh
-urlbar-go-button =
-    .tooltiptext = Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
 
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
@@ -171,6 +146,11 @@ urlbar-go-button =
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Pakweya' { $engine }
 urlbar-result-action-switch-tab = Yu'pthẽn txhudeya'
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -185,6 +165,9 @@ urlbar-result-action-switch-tab = Yu'pthẽn txhudeya'
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
 
 
 ## Labels shown above groups of urlbar results
@@ -233,13 +216,14 @@ bookmarks-toolbar-placeholder-button =
 ## Library Panel items
 
 
-## Pocket toolbar button
-
-
 ## Repair text encoding toolbar button
 
 
-## Customize Toolbar Buttons
+##
+
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
 
 
 ## EME notification panel
@@ -256,18 +240,9 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Kakahna vxite vxitx le'çxkwe tudte txãpaka { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Aphna vxitx le'çxkwe tudteh { $uriHost }
-    .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Naa yuwe tu'sus tasxmen nawẽ aphnxii vxitx le'çxkwe tudteh nenxute
-    .accesskey = D
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
@@ -280,8 +255,6 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Spakxna
-navbar-overflow =
-    .tooltiptext = Jwee vxiswa'j...
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -374,4 +347,7 @@ popup-show-popup-menuitem =
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

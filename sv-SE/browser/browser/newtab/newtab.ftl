@@ -205,8 +205,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } blockerar spårare när du surfar. Du ser dem här.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } blockerar automatiskt spårare så att mer av din aktivitet förblir privat.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -342,6 +340,20 @@ newtab-stocks-error-not-available = Aktiedata är inte tillgänglig.
 newtab-stocks-widget-menu-button =
     .aria-label = Alternativ för widgetar för aktier
     .title = Alternativ för widgetar för aktier
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Sök
+    .title = Sök efter namn eller symbol
+    .aria-label = Sök efter namn eller symbol
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Sök
+    .title = Sök efter namn eller symbol
+    .aria-label = Sök efter namn eller symbol
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aktier
@@ -506,6 +518,9 @@ newtab-recent-searches-just-now = Nu
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Ta bort “{ $search }” från de senaste sökningarna
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Sök
 # Screen reader label for the widget's icon-only menu button.
@@ -572,6 +587,9 @@ newtab-topsites-image-url-label = Anpassa bild-URL
 newtab-topsites-use-custom-image-link = Använd en anpassad bild
 newtab-topsites-use-image-link = Använd en anpassad bild…
 newtab-topsites-image-validation = Bilden misslyckades att ladda. Prova en annan URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Rensa text
 
@@ -813,6 +831,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Sekretess
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Korsord
 newtab-custom-widget-stocks-toggle =
     .label = Aktier
 newtab-custom-widget-picture-toggle =
@@ -1003,6 +1024,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = En räv vid högerkanten mot en orange bakgrund
 newtab-wallpaper-firefox-colorful-sky = Orange vågor över en lila natthimmel
 newtab-wallpaper-firefox-desert-dark = En räv sitter i en mörklila öken
@@ -1431,6 +1455,9 @@ newtab-promo-card-cta = Läs mer
 newtab-promo-card-dismiss-button =
     .aria-label = Ignorera
     .title = Ignorera
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

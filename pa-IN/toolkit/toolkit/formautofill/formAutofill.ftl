@@ -15,10 +15,13 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } ਸੰਭਾ
 autofill-edit-payment-method-os-prompt-macos = ਸੰਭਾਲੀ ਹੋਈ ਭੁਗਤਾਨ ਢੰਗ ਦੀ ਜਾਣਕਾਰੀ ਵੇਖਾਓ
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } ਸੰਭਾਲੀ ਹੋਈ ਭੁਗਤਾਨ ਢੰਗ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਹੇਠਾਂ ਇਸ ਵਿੰਡੋਜ਼ ਖਾਤੇ ਲਈ ਪਹੁੰਚ ਦੀ ਤਸਦੀਕ ਕਰੋ।
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } ਸੰਭਾਲੀ ਹੋਈ ਭੁਗਤਾਨ ਦੀ ਢੰਗ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੈ।
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = ਫਾਰਮ ਆਪੇ ਭਰਨ ਦੀਆਂ ਚੋਣਾਂ
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = ਫਾਰਮ ਆਪੇ ਭਰਨ ਦੀਆਂ ਚੋਣਾਂ
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -35,6 +38,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = ਕਾਰਡ ਕਦੇ ਵੀ ਨਾ ਸੰਭਾਲੋ
     .accessKey = N
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = ਕਾਰਡ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?
 credit-card-update-doorhanger-description = ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਕਾਰਡ:
 credit-card-capture-save-new-button =
@@ -54,6 +60,15 @@ autofill-manage-payment-methods-label = ਭੁਗਤਾਨ ਢੰਗਾਂ ਦ�
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -74,7 +74,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Otevřít VPN
 ipprotection-feature-introduction-button-get-started = Začínáme
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Vaše limity pro vestavěnou VPN se obnoví 1. září
@@ -131,6 +134,11 @@ ipprotection-location-selection-callout-secondary-button = Zavřít
 ipprotection-android-promo-callout-title = Vezměte si vestavěnou VPN s sebou na Android
 ipprotection-android-promo-callout-description = Naskenujte QR kód a stáhněte si { -brand-product-name } pro Android a zapněte integrovanou VPN, abyste měli větší soukromí i na cestách. Brzy bude k dispozici i pro iOS.
 ipprotection-android-promo-callout-primary-button = Rozumím
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Teď ne
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zavřít
 
 ## Panel
 

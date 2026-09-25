@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-feature-introduction-button-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = ਤੁਹਾਡੇ ਨਾਲ ਮੌਜੂਦ VPN ਦੀ ਹੱਦ 1 ਸਤੰਬਰ ਨੂੰ ਮੁੜ-ਸੈਟ ਹੁੰਦੀ ਹੈ
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = ਖ਼ਾਰਜ ਕ�
 ipprotection-android-promo-callout-title = ਐਂਡਰਾਇਡ ਉੱਤੇ ਆਪਣੇ ਨਾਲ ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਨਾਲ ਰੱਖੋ
 ipprotection-android-promo-callout-description = ਐਂਡਰਾਇਡ ਲਈ { -brand-product-name } ਲੈਣ ਵਾਸਤੇ QR ਕੋਡ ਸਕੈਨ ਕਰੋ ਅਤੇ ਹਰ ਵੇਲੇ ਵੱਧ ਪਰਦੇਦਾਰੀ ਲਈ ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਚਾਲੂ ਕਰੋ। ਛੇਤੀ ਹੀ iOS ਤੇ ਵੀ ਆ ਰਿਹਾ ਹੈ।
 ipprotection-android-promo-callout-primary-button = ਸਮਝੇ
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = ਹੁਣੇ ਨਹੀਂ
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ਖ਼ਾਰਜ ਕਰੋ
 
 ## Panel
 

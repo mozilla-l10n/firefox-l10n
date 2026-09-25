@@ -15,6 +15,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Merdeiñ prevez
        *[other] { -brand-full-name } Merdeiñ prevez
     }
+
+##
+
 urlbar-identity-button =
     .aria-label = Gwelout titouroù al lec'hienn
 
@@ -405,6 +408,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Diweredekaat ar gwarez rannañ evit an estez-mañ
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -552,6 +558,18 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Paeroniet
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -590,6 +608,7 @@ urlbar-searchmode-popup-one-off-header = Ar wech-mañ, klask gant:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Klask gant:
+urlbar-searchmode-popup-search-settings2 = Arventennoù enklask
 urlbar-searchmode-popup-search-settings = Arventennoù enklask
     .accesskey = A
 
@@ -604,6 +623,9 @@ urlbar-result-action-search-actions = Klask
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Digeriñ { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -784,6 +806,10 @@ toolbar-button-new-private-window =
     .label = Prenestr merdeiñ prevez nevez
     .tooltiptext = Digeriñ ur prenestr merdeiñ prevez nevez ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bez ez eus aodio ha video war ar bajenn-mañ a arver meziantoù DRM, ar pezh a c'hell bevenniñ ar pezh a vezoc'h laosket gant { -brand-short-name } d'ober ganto.
@@ -807,6 +833,10 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Serriñ
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
@@ -824,6 +854,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = D
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -858,11 +891,17 @@ tabs-toolbar-list-all-tabs =
     .label = Roll an holl ivinelloù
     .tooltiptext = Roll an holl ivinelloù
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Digeriñ an ivinelloù kent?</strong> Gallout a rit assav hoc'h estez kent adalek al lañser arload { -brand-short-name } <img data-l10n-name="icon"/>, dindan Roll istor
 restore-session-startup-suggestion-button = Diskouez din penaos ober
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -900,6 +939,10 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Askouezhioù
         Ul lodenn eus an askouezhioù n'int ket aotreet
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
 
 ## Private browsing reset button
 
@@ -979,9 +1022,19 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Diskouez en teuliad
     .accessKey = t
+
+## Onboarding Finish Setup checklist
+
 
 ## The urlbar trust icon & panel
 
@@ -989,3 +1042,13 @@ trustpanel-clear-cookies-subview-button-clear = Skarzhañ
 trustpanel-clear-cookies-subview-button-cancel = Nullañ
 trustpanel-siteinformation-morelink = Muioc’h a ditouroù diwar-benn al lec’hienn
 trustpanel-blocker-see-all = Gwelet pep tra
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

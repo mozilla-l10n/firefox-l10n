@@ -205,8 +205,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } blockiert Tracker beim Surfen. Sie werden sie hier sehen.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } blockiert automatisch Elemente zur Aktivitätenverfolgung, sodass mehr Ihrer Aktivitäten privat bleiben.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -342,6 +340,20 @@ newtab-stocks-error-not-available = Keine Aktiendaten verfügbar
 newtab-stocks-widget-menu-button =
     .aria-label = Optionen für das Aktien-Widget
     .title = Optionen für das Aktien-Widget
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Suchen
+    .title = Nach Namen oder Symbol suchen
+    .aria-label = Nach Namen oder Symbol suchen
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Suchen
+    .title = Nach Namen oder Symbol suchen
+    .aria-label = Nach Namen oder Symbol suchen
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aktien
@@ -506,6 +518,9 @@ newtab-recent-searches-just-now = Gerade eben
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = "{ $search }" aus letzten Suchanfragen entfernen
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Suche
 # Screen reader label for the widget's icon-only menu button.
@@ -572,6 +587,9 @@ newtab-topsites-image-url-label = Adresse von benutzerdefinierter Grafik
 newtab-topsites-use-custom-image-link = Eine benutzerdefinierte Grafik verwenden
 newtab-topsites-use-image-link = Eine benutzerdefinierte Grafik verwenden…
 newtab-topsites-image-validation = Grafik konnte nicht geladen werden. Verwenden Sie eine andere Adresse.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Text löschen
 
@@ -813,6 +831,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sport
 newtab-custom-widget-privacy-toggle =
     .label = Datenschutz
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Kreuzworträtsel
 newtab-custom-widget-stocks-toggle =
     .label = Aktien
 newtab-custom-widget-picture-toggle =
@@ -1003,6 +1024,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Ein Fuchs am rechten Bildrand vor orangefarbenem Hintergrund
 newtab-wallpaper-firefox-colorful-sky = Orangefarbene Wogen über einem violetten Nachthimmel
 newtab-wallpaper-firefox-desert-dark = Ein Fuchs sitzt in einer dunkelvioletten Wüste
@@ -1435,6 +1459,9 @@ newtab-promo-card-cta = Weitere Informationen
 newtab-promo-card-dismiss-button =
     .aria-label = Verwerfen
     .title = Verwerfen
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =

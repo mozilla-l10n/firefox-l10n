@@ -43,7 +43,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Кушодани «VPN»
 ipprotection-feature-introduction-button-get-started = Оғози кор
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Summer promo offramp callout buttons
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Кушодани «VPN»
@@ -64,6 +67,11 @@ ipprotection-location-selection-callout-secondary-button = Нодида гуза
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-primary-button = Фаҳмидам
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Ҳоло не
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Нодида гузарондан
 
 ## Panel
 
@@ -139,6 +147,12 @@ ipprotection-open-button = Кушодани «{ -brand-product-name }»
 ipprotection-connection-status-generic-error-title-1 = Ба «VPN» пайваст шуда натавонист
     .aria-label = Ба «VPN» пайваст шуда натавонист
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Маълумоти бештар
@@ -169,6 +183,9 @@ ip-protection-bandwidth-header-1 = Маҳдудияти моҳонаи маъл�
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Фаҳмидам
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

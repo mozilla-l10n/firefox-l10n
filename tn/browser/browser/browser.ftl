@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 
 ##
 
@@ -81,7 +76,7 @@ search-one-offs-add-engine-menu =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
-## the action.
+## the action. English commas should be used, i.e. ,
 
 
 ## Bookmark Panel
@@ -104,12 +99,6 @@ identity-description-passive-loaded-insecure2 = Webosaete eno e tshotse diteng t
 identity-description-passive-loaded-mixed2 = Le mororo { -brand-short-name } e kgoreleditse diteng dingwe, go santse gona le diteng tse di sa sireletsegang mo tsebeng (jaaka ditshwantsho).
 identity-description-active-loaded = Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka disekeripiti) gape kgolagano ya gago mo go yone ga e poraefete.
 identity-description-active-loaded-insecure = Tshedimosetso e o e abelanang le saete eno e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato , le tse dingwe.).
-identity-disable-mixed-content-blocking =
-    .label = Thibela go dira ga tshireletso ga jaana
-    .accesskey = T
-identity-enable-mixed-content-blocking =
-    .label = Kgontsha tshireletso
-    .accesskey = K
 identity-more-info-link-text =
     .label = Tshedimosetso e Tletseng
 
@@ -119,14 +108,6 @@ browser-window-minimize-button =
     .tooltiptext = Ngotla
 browser-window-close-button =
     .tooltiptext = Tswala
-
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
 
 ## Bookmarks toolbar items
 
@@ -141,9 +122,6 @@ popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago
 ## WebSerial "select a port" popup
 
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -155,17 +133,21 @@ urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
 urlbar-go-button2 =
     .title = Ya ko atereseng e mo Bara ya lefelo
-urlbar-go-button =
-    .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
 
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Batla ka: { $engine }
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -180,6 +162,9 @@ urlbar-result-action-search-w-engine = Batla ka: { $engine }
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
 
 
 ## Labels shown above groups of urlbar results
@@ -228,13 +213,10 @@ bookmarks-toolbar-placeholder-button =
 ## Library Panel items
 
 
-## Pocket toolbar button
-
-
 ## Repair text encoding toolbar button
 
 
-## Customize Toolbar Buttons
+##
 
 toolbar-button-email-link =
     .label = Kgokagano ya Imeile
@@ -255,6 +237,10 @@ toolbar-button-new-private-window =
     .label = Window e Ntšha ya Poraefete
     .tooltiptext = Bula window e ntšhwa ya Patlo e Poraefete ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Modumo mongwe kgotsa bidio mo saeteng e, e dirisa serweboleta sa DRM se seka lekanyetsang se o { -brand-short-name } ka kgonang go se dira ka yone.
@@ -270,18 +256,9 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Letlelela ditlhagelelo tsa { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Thibela ditlhagelelo tsa { $uriHost }
-    .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Se bontshe molaetsa o fa ditlhagelelo di thibetswe
-    .accesskey = D
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
@@ -294,8 +271,6 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Dikopololo
-navbar-overflow =
-    .tooltiptext = Didirisiwa tse dintsi...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -397,4 +372,7 @@ popup-show-popup-menuitem =
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

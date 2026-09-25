@@ -336,9 +336,9 @@ quickactions-cmd-inspector2 = inspector, devtools, dev tools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Pick a color
 quickactions-cmd-colorpicker = color picker, eyedropper, pick color
+quickactions-cmd-library = library
 # Opens Firefox Library
 quickactions-library = ライブラリーを開く
-quickactions-cmd-library = library
 # Opens about:logins
 quickactions-logins2 = パスワードを管理
 quickactions-cmd-logins = logins, passwords
@@ -856,6 +856,10 @@ urlbar-searchmode-no-keyword2 =
     .title = キーワード検索が無効です
 urlbar-searchmode-dropmarker2 =
     .title = 検索エンジンを選択します
+urlbar-searchmode-bookmarks4 = ブックマーク
+urlbar-searchmode-tabs4 = タブ
+urlbar-searchmode-history4 = 履歴
+urlbar-searchmode-actions4 = アクション
 urlbar-searchmode-bookmarks3 = ブックマーク
     .accesskey = B
 urlbar-searchmode-tabs3 = タブ
@@ -879,6 +883,8 @@ urlbar-searchmode-popup-one-off-header = 今回だけ使う検索エンジン:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = 検索エンジン:
+urlbar-searchmode-popup-search-settings2 = 検索設定
+urlbar-searchmode-popup-settings2 = 設定
 urlbar-searchmode-popup-search-settings = 検索設定
     .accesskey = S
 urlbar-searchmode-popup-settings = 設定

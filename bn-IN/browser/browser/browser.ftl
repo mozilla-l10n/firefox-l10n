@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 
 ##
 
@@ -41,8 +36,6 @@ urlbar-indexed-db-notification-anchor =
     .tooltiptext = অফলাইন স্টোরেজ ম্যাসেজ প্যানেল খুলুন
 urlbar-password-notification-anchor =
     .tooltiptext = পাসওয়ার্ড সংরক্ষণ ম্যাসেজ প্যানেল খুলুন
-urlbar-plugins-notification-anchor =
-    .tooltiptext = প্লাগ-ইনের ব্যবহার পরিচালনা করুন
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = সাইটের সাথে আপনার ক্যামেরা/বা মাইক্রোফোন শেয়ার করাকে পরিচালনা করুন
 urlbar-autoplay-notification-anchor =
@@ -76,8 +69,6 @@ urlbar-screen-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইট থেকে আপনার স্ক্রিন শেয়ার করা ব্লক করেছেন।
 urlbar-persistent-storage-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের ক্ষেত্রে স্থায়ী স্টোরেজ ব্লক করেছেন।
-urlbar-popup-blocked =
-    .tooltiptext = আপনি এই ওয়েবসাইটের জন্য পপ-আপ ব্লক করেছেন।
 urlbar-autoplay-media-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের ক্ষেত্রে সাউন্ডের সাথে অটোপ্লে ব্লক করেছেন।
 urlbar-canvas-blocked =
@@ -136,7 +127,7 @@ search-one-offs-add-engine-menu =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
-## the action.
+## the action. English commas should be used, i.e. ,
 
 
 ## Bookmark Panel
@@ -171,7 +162,6 @@ identity-active-blocked = { -brand-short-name } এই পৃষ্ঠাতে 
 identity-passive-loaded = এই পাতাটির অংশ নিরাপদ নয় (যেমন ছবি)।
 identity-active-loaded = আপনি নিরাপদ নয় এমন উপাদানের থেকে সুরক্ষা নিষ্ক্রিয় করে রেখেছেন।
 identity-weak-encryption = এই পৃষ্ঠাটি দুর্বল এনক্রিপশন ব্যবহার করে।
-identity-insecure-login-forms = এই পেজে হওয়া লগইন সংকটাপন্ন হতে পারে।
 identity-permissions-reload-hint = আপনাকে হয়তো বদলগুলো দেখবার জন্য পেজটা রিলোড করতে হতে পারে।
 identity-clear-site-data =
     .label = কুকি এবং সাইটের ডেটা পরিষ্কার করুন…
@@ -179,7 +169,6 @@ identity-remove-cert-exception =
     .label = ব্যাতিক্রম মুছে ফেলুন
     .accesskey = R
 identity-description-insecure = এই সাইট টি তে আপনার কানেক্সন নিরাপদ নয়। আপনি যে তথ্যগুলি জমা করেছেন, সেগুলি অন্ন কেউ দেখতে পেতে পারেন(পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি )।
-identity-description-insecure-login-forms = আপনার দ্বারা পৃষ্ঠাটিতে প্রবেশ করানো তথ্যগুলি নিরাপদ নয় এবং এগুলি বিপদের সম্মুখীন হতে পারে।
 identity-description-weak-cipher-intro = এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং ব্যক্তিগত নয়।
 identity-description-weak-cipher-risk = অন্ন কেউ আপনার তথ্য দেখে নিয়ে সেটিকে পরিবরতন করতে পারে।
 identity-description-active-blocked2 = { -brand-short-name } এই পৃষ্ঠাতে কিছু নিরাপদ নয় উপাদান অবরোধ করেছে।
@@ -188,12 +177,6 @@ identity-description-passive-loaded-insecure2 = এই ওয়েবসাই�
 identity-description-passive-loaded-mixed2 = { -brand-short-name } যদিও কিছু বিপজ্জনক সামগ্রী প্রতিরোধ করেছে, তাও সেটি পুরপুরি নিরাপদ নয় (যেমন ছবি)।
 identity-description-active-loaded = এই ওয়েবসাইট থেকে সংযোগ সম্পূর্ণরূপে নিরাপদ নয় কারণ এটিতে এনক্রিপশনবিহীন উপাদান (যেমন ছবি) উপস্থিত রয়েছে।
 identity-description-active-loaded-insecure = আপনি কি এই সাইটের সাথে তথ্য শেয়ার করলে সবাই দেখতে পারে (পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড ইত্যাদি)।
-identity-disable-mixed-content-blocking =
-    .label = এখনকার জন্য সুরক্ষা নিষ্ক্রিয় করুন
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = সুরক্ষা সক্রিয় করুন
-    .accesskey = E
 identity-more-info-link-text =
     .label = অধিক বিবরণ
 
@@ -203,14 +186,6 @@ browser-window-minimize-button =
     .tooltiptext = আড়াল করুন
 browser-window-close-button =
     .tooltiptext = বন্ধ
-
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
 
 ## Bookmarks toolbar items
 
@@ -223,9 +198,6 @@ popup-all-windows-shared = আপনার স্ক্রিনে সব দ�
 
 
 ## WebSerial "select a port" popup
-
-
-## DevTools F12 popup
 
 
 ## URL Bar
@@ -246,13 +218,12 @@ urlbar-extension =
     .value = এক্সটেনশন:
 urlbar-go-button2 =
     .title = ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে
-urlbar-go-button =
-    .tooltiptext = ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে
 urlbar-page-action-button =
     .tooltiptext = পৃষ্ঠার ক্রিয়াকলাপগুলি
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
 
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
@@ -261,6 +232,11 @@ urlbar-page-action-button =
 urlbar-result-action-search-w-engine = অনুসন্ধান { $engine }
 urlbar-result-action-switch-tab = ট্যাবে পরিবর্তন করুন
 urlbar-result-action-visit = পরিদর্শন করুন
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -275,6 +251,9 @@ urlbar-result-action-visit = পরিদর্শন করুন
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
 
 
 ## Labels shown above groups of urlbar results
@@ -339,12 +318,6 @@ bookmarks-tools-toolbar-visibility-menuitem =
             [true] বুকমার্ক টুলবার লুকান
            *[other] বুকমার্ক টুল-বার প্রদর্শন করা হবে
         }
-bookmarks-tools-menu-button-visibility =
-    .label =
-        { $isVisible ->
-            [true] বুকমার্ক মেনুকে টুলবার থেকে সরান
-           *[other] বুকমার্ক মেনুকে টুলবারে যোগ করুন
-        }
 
 ##
 
@@ -364,13 +337,10 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = বুকমার্কগুলি
 
-## Pocket toolbar button
-
-
 ## Repair text encoding toolbar button
 
 
-## Customize Toolbar Buttons
+##
 
 toolbar-overflow-customize-button =
     .label = টুলবারের পছন্দসই বিন্যাস…
@@ -397,6 +367,10 @@ toolbar-button-new-private-window =
     .label = নতুন ব্যক্তিগত উইন্ডো
     .tooltiptext = নতুন ব্যক্তিগত উইন্ডো খুলুন ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
@@ -412,18 +386,9 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Allow popups for { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Block popups for { $uriHost }
-    .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = পপ-আপ প্রদর্শনে বাধা প্রদান করা হলে এই বার্তাটি প্রদর্শন করা হবে না
-    .accesskey = D
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
@@ -436,8 +401,6 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ডাউনলোড
-navbar-overflow =
-    .tooltiptext = অতিরিক্ত সরঞ্জাম…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -558,4 +521,7 @@ popup-show-popup-menuitem =
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

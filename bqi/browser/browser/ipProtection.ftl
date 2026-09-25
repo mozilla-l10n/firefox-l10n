@@ -37,7 +37,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = گۊشیڌن VPN
 ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = سقف مسرف VPN منی ایسا ز 1 سپتامبر وورنشۊوی ابۊ
@@ -70,6 +73,11 @@ ipprotection-location-selection-callout-secondary-button = رڌ کردن
 
 ipprotection-android-promo-callout-title = ‏VPN منی ن ری ٱندروید وا خوتووݩ داشته بۊین
 ipprotection-android-promo-callout-primary-button = فئمیم
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = سکو ن
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = رڌ کردن
 
 ## Panel
 
@@ -157,6 +165,12 @@ ipprotection-connection-status-blocked-error-title-1 = VPN من دسرس نؽ
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
 ipprotection-open-button = گۊشیڌن { -brand-product-name }
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = قلوه دووسته بۊین
@@ -191,6 +205,9 @@ ip-protection-bandwidth-header-1 = مئدۊدیت داده ماهانه
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = فئمیم
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

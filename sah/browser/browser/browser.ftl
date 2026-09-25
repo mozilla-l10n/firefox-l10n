@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 
 ##
 
@@ -65,7 +60,7 @@ full-screen-exit =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
-## the action.
+## the action. English commas should be used, i.e. ,
 
 
 ## Bookmark Panel
@@ -79,14 +74,6 @@ full-screen-exit =
 browser-window-minimize-button =
     .tooltiptext = Кыччат
 
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
-
 ## Bookmarks toolbar items
 
 
@@ -99,9 +86,6 @@ browser-window-minimize-button =
 ## WebSerial "select a port" popup
 
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 urlbar-placeholder =
@@ -110,11 +94,15 @@ urlbar-switch-to-tab =
     .value = Кыбытыгы арый:
 urlbar-go-button2 =
     .title = Аадырыс устуруокатын аадырыһыгар киир
-urlbar-go-button =
-    .tooltiptext = Аадырыс устуруокатын аадырыһыгар киир
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
 
 
 ## These strings are used for Realtime suggestions in the urlbar.
@@ -130,6 +118,9 @@ urlbar-go-button =
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
 
 
 ## Labels shown above groups of urlbar results
@@ -170,13 +161,14 @@ bookmarks-toolbar-placeholder-button =
 ## Library Panel items
 
 
-## Pocket toolbar button
-
-
 ## Repair text encoding toolbar button
 
 
-## Customize Toolbar Buttons
+##
+
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
 
 
 ## EME notification panel
@@ -191,18 +183,9 @@ bookmarks-toolbar-placeholder-button =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = { $uriHost } ойон тахсар түннүктэрин көҥүллээ
-    .accesskey = p
-popups-infobar-block =
-    .label = { $uriHost } ойон тахсар түннүктэрин боп
-    .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Ойон тахсар түннүгү боборго бу сэрэтиини көрдөрүмэ
-    .accesskey = D
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
@@ -215,8 +198,6 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Хачайдааһыннар
-navbar-overflow =
-    .tooltiptext = Атын тэриллэр...
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -301,4 +282,7 @@ popup-show-popup-menuitem =
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 

@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = 打开 VPN
 ipprotection-feature-introduction-button-get-started = 开始使用
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = 您的内置 VPN 限制将于 9 月 1 日重置
@@ -96,6 +99,11 @@ ipprotection-location-selection-callout-secondary-button = 知道了
 ipprotection-android-promo-callout-title = VPN 装进 Android，隐私随你而行
 ipprotection-android-promo-callout-description = 扫码下载 Android 版 { -brand-product-name }，开启内置 VPN，隐私随行无忧。iOS 版即将推出。
 ipprotection-android-promo-callout-primary-button = 知道了
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = 暂时不要
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 知道了
 
 ## Panel
 

@@ -45,7 +45,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = أزِل الـ VPN من شريط الأدوات
 ipprotection-feature-introduction-button-get-started = ابدأ
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 ipprotection-summer-promo-offramp-get-subscription-button = احصل على { -mozilla-vpn-brand-name }
 ipprotection-summer-promo-offramp-dismiss-secondary-button = رفض
@@ -65,6 +68,11 @@ ipprotection-location-selection-callout-secondary-button = رفض
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-primary-button = فهمت
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = ليس الآن
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = رفض
 
 ## Panel
 

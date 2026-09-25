@@ -20,10 +20,13 @@ autofill-edit-payment-method-os-prompt-other = מתבצע ניסיון מצד { 
 autofill-delete-payment-method-os-prompt-macos = למחוק את פרטי אמצעי התשלום השמור
 autofill-delete-payment-method-os-prompt-windows = מתבצע ניסיון מצד { -brand-short-name } למחוק את פרטי אמצעי התשלום השמור. יש לאשר את הגישה לחשבון ה־Windows הזה להלן.
 autofill-delete-payment-method-os-prompt-other = מתבצע ניסיון מצד { -brand-short-name } למחוק את פרטי אמצעי התשלום השמור.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = אפשרויות מילוי טפסים אוטומטי
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = אפשרויות מילוי טפסים אוטומטי
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -40,6 +43,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = לעולם לא לשמור כרטיסים
     .accessKey = ע
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = לעדכן את הכרטיס?
 credit-card-update-doorhanger-description = כרטיס לעדכון:
 credit-card-capture-save-new-button =
@@ -59,6 +65,15 @@ autofill-manage-payment-methods-label = ניהול אמצעי תשלום
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

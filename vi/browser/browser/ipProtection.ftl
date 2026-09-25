@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Mở VPN
 ipprotection-feature-introduction-button-get-started = Bắt đầu
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = Giới hạn của VPN tích hợp sẵn của bạn sẽ được đặt lại vào ngày 1 tháng 9
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Bỏ qua
 ipprotection-android-promo-callout-title = Mang theo VPN tích hợp sẵn trên Android
 ipprotection-android-promo-callout-description = Quét mã QR để tải ứng dụng { -brand-product-name } cho Android và bật VPN tích hợp để bảo mật thông tin cá nhân tốt hơn khi di chuyển. Sắp có mặt trên iOS.
 ipprotection-android-promo-callout-primary-button = Đã hiểu
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Để sau
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Bỏ qua
 
 ## Panel
 

@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN 열기
 ipprotection-feature-introduction-button-get-started = 시작하기
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = 9월 1일에 내장 VPN 한도가 초기화됨
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = 닫기
 ipprotection-android-promo-callout-title = Android에서도 내장 VPN을 함께 이용하세요
 ipprotection-android-promo-callout-description = QR 코드를 스캔하여 Android용 { -brand-product-name }를 다운로드하고, 이동 중에도 더 안전한 개인정보 보호를 위해 내장 VPN을 켜보세요. iOS용도 곧 출시됩니다.
 ipprotection-android-promo-callout-primary-button = 확인
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = 나중에
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 닫기
 
 ## Panel
 

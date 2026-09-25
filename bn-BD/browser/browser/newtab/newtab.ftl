@@ -6,8 +6,6 @@
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
 newtab-page-title = নতুন ট্যাব
-newtab-settings-button =
-    .title = আপনার নতুন ট্যাব পেজটি কাস্টমাইজ করুন
 
 ## Strings for "Homepage" and "Firefox Home" sections of about:settings#home.
 ## Homepage panel
@@ -53,6 +51,9 @@ home-prefs-highlights-option-most-recent-download-srd =
 ## Privacy widget — empty state
 
 
+## Privacy widget — Enhanced Tracking Protection off state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -82,7 +83,26 @@ home-prefs-highlights-option-most-recent-download-srd =
 ##   $price (String) - the last price, e.g. "$559.44".
 
 
+## Stocks widget watchlist add and remove controls
+
+
+## Stocks widget ticker search
+
+
 ## Strings for the Picture of the Day widget
+
+
+## Strings for the Search widget
+
+
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
 
 
 ## Search box component.
@@ -95,7 +115,6 @@ newtab-search-box-search-button =
 ## Clear text button for the URL and image URL input fields in the Top Sites form.
 
 newtab-topsites-add-search-engine-header = অনুসন্ধান ইঞ্জিন যোগ করুন
-newtab-topsites-edit-topsites-header = শীর্ষ সাইট সম্পাদনা করুন
 newtab-topsites-title-label = শিরোনাম
 newtab-topsites-title-input =
     .placeholder = নাম দিন
@@ -131,6 +150,9 @@ newtab-confirm-delete-history-p2 = এই পরিবর্তনটি অপ�
 ## Label used by screen readers for pinned top sites
 
 
+## Top Sites - Web notifications hover card
+
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -143,10 +165,6 @@ newtab-menu-section-tooltip =
 newtab-menu-content-tooltip =
     .title = মেনু খুলুন
     .aria-label = { $title } থেকে কনটেক্সট মেনু খুলুন
-# Tooltip on an empty topsite box to open the New Top Site dialog.
-newtab-menu-topsites-placeholder-tooltip =
-    .title = সাইটটি সম্পাদনা করুন
-    .aria-label = সাইটটি সম্পাদনা করুন
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
@@ -157,14 +175,8 @@ newtab-menu-dismiss = বাতিল
 newtab-menu-pin = পিন
 newtab-menu-unpin = আনপিন
 newtab-menu-delete-history = ইতিহাস থেকে মুছে ফেলুন
-newtab-menu-save-to-pocket = { -pocket-brand-name } এ সংরক্ষণ করুন
-newtab-menu-delete-pocket = { -pocket-brand-name } থেকে মুছে দিন
-newtab-menu-archive-pocket = { -pocket-brand-name } এ আর্কাইভ করুন
 
 ## Context menu options for sponsored stories and new ad formats on New Tab.
-
-
-## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 
 ##
@@ -205,50 +217,20 @@ newtab-label-download = ডাউনলোড হয়েছে
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
-newtab-section-menu-remove-section = সেকশনটি সরান
-newtab-section-menu-collapse-section = সেকশনটি সংকোচন করুন
-newtab-section-menu-expand-section = সেকশনটি প্রসারিত করুন
-newtab-section-menu-manage-section = সেকশনটি পরিচালনা করুন
-newtab-section-menu-manage-webext = এক্সটেনসন ব্যবহার করুন
-newtab-section-menu-add-topsite = টপ সাইট যোগ করুন
-newtab-section-menu-add-search-engine = অনুসন্ধান ইঞ্জিন যোগ করুন
-newtab-section-menu-move-up = উপরে উঠাও
-newtab-section-menu-move-down = নীচে নামাও
 newtab-section-menu-privacy-notice = গোপনীয়তা নীতি
-
-## Section aria-labels
-
 
 ## Section Headers.
 
 newtab-section-header-topsites = শীর্ঘ সাইট
-# Variables:
-#  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = { $provider } দ্বারা সুপারিশকৃত
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ব্রাউজি করা শুরু করুন, এবং কিছু গুরুত্বপূর্ণ নিবন্ধ, ভিডিও, এবং আপনি সম্প্রতি পরিদর্শন বা বুকমার্ক করেছেন এমন কিছু পৃষ্ঠা আমরা এখানে প্রদর্শন করব।
-# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-# Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
-newtab-empty-section-topstories = কিছু একটা ঠিক নেই। { $provider } এর শীর্ষ গল্পগুলো পেতে কিছুক্ষণ পর আবার দেখুন। অপেক্ষা করতে চান না? বিশ্বের সেরা গল্পগুলো পেতে কোন জনপ্রিয় বিষয় নির্বাচন করুন।
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 
-## Pocket Content Section.
-
-# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
-newtab-pocket-read-more = জনপ্রিয় বিষয়:
-newtab-pocket-more-recommendations = আরও সুপারিশ
-newtab-pocket-cta-button = { -pocket-brand-name } ব্যবহার করুন
-newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্দের গল্পগুলো সংরক্ষণ করুন, এবং চমৎকার সব লেখা পড়ে আপনার মনের ইন্ধন যোগান।
-
-## Thumbs up and down buttons that shows over a newtab stories card thumbnail on hover.
-
-
-## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+## Strings for the story cards carousel
 
 
 ## Error Fallback Content.
@@ -257,10 +239,21 @@ newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্
 newtab-error-fallback-info = ওহো, কনটেন্টটি লোড করতে কিছু ভুল হয়েছে।
 newtab-error-fallback-refresh-link = পুনরায় চেস্টা করার জন্য পেজটি রিফ্রেশ করুন।
 
+## New Tab Appearance (browser theme picker)
+
+
 ## Customization Menu
 
 
+## New Tab Appearance (browser theme picker)
+
+
 ## New Tab Wallpapers
+
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
 
 
 ## Solid Colors
@@ -269,7 +262,10 @@ newtab-error-fallback-refresh-link = পুনরায় চেস্টা ক�
 ## Abstract
 
 
-## Firefox
+## Firefox wallpaper descriptions used for screen readers
+
+
+## Firefox wallpaper descriptions used for screen readers
 
 
 ## Firefox
@@ -290,6 +286,10 @@ newtab-error-fallback-refresh-link = পুনরায় চেস্টা ক�
 ## Content Feed Sections
 ## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
 ## e.g. Following the travel section of stories.
+
+
+## Topic navigation
+## A row of buttons above the stories, each scrolling the page to that topic's section.
 
 
 ## Button to block/unblock listed topics
@@ -356,6 +356,9 @@ newtab-error-fallback-refresh-link = পুনরায় চেস্টা ক�
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
 ## labels, but not all.
+
+
+## Strings for the New Tab customization callout shown at the Nova launch.
 
 
 ## Strings for the Clock widget
