@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This gets set as the initial title, and is overridden as soon as we start
-# updating the titlebar based on loaded tabs or private browsing state.
-# This should match the `data-title-default` attribute in both
-# `browser-main-window` and `browser-main-window-mac`.
-browser-main-window-title = { -brand-full-name }
 
 ##
 
@@ -87,7 +82,7 @@ search-one-offs-add-engine-menu =
 
 ## QuickActions are shown in the urlbar as the user types a matching string
 ## The -cmd- strings are comma separated list of keywords that will match
-## the action.
+## the action. English commas should be used, i.e. ,
 
 
 ## Bookmark Panel
@@ -101,12 +96,10 @@ identity-active-blocked = { -brand-short-name } has blocked parts of this page t
 identity-passive-loaded = Parts of this page are not secure (such as images).
 identity-active-loaded = You have disabled protection on this page.
 identity-weak-encryption = This page uses weak encryption.
-identity-insecure-login-forms = Logins entered on this page could be compromised.
 identity-remove-cert-exception =
     .label = Remove Exception
     .accesskey = R
 identity-description-insecure = Your connection to this site is not private. Information you submit could be viewed by others (like passwords, messages, credit cards, etc.).
-identity-description-insecure-login-forms = The login information you enter on this page is not secure and could be compromised.
 identity-description-weak-cipher-intro = Your connection to this website uses weak encryption and is not private.
 identity-description-weak-cipher-risk = Other people can view your information or modify the website’s behaviour.
 identity-description-active-blocked2 = { -brand-short-name } has blocked parts of this page that are not secure.
@@ -115,12 +108,6 @@ identity-description-passive-loaded-insecure2 = This website contains content th
 identity-description-passive-loaded-mixed2 = Although { -brand-short-name } has blocked some content, there is still content on the page that is not secure (such as images).
 identity-description-active-loaded = This website contains content that is not secure (such as scripts) and your connection to it is not private.
 identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
-identity-disable-mixed-content-blocking =
-    .label = Disable protection for now
-    .accesskey = D
-identity-enable-mixed-content-blocking =
-    .label = Enable protection
-    .accesskey = E
 identity-more-info-link-text =
     .label = More Information
 
@@ -130,14 +117,6 @@ browser-window-minimize-button =
     .tooltiptext = Minimise
 browser-window-close-button =
     .tooltiptext = Close
-
-## Tab actions
-
-
-## These labels should be written in all capital letters if your locale supports them.
-## Variables:
-##  $count (number): number of affected tabs
-
 
 ## Bookmarks toolbar items
 
@@ -152,9 +131,6 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 ## WebSerial "select a port" popup
 
 
-## DevTools F12 popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -166,11 +142,10 @@ urlbar-switch-to-tab =
     .value = Switch to tab:
 urlbar-go-button2 =
     .title = Go to the address in the Location Bar
-urlbar-go-button =
-    .tooltiptext = Go to the address in the Location Bar
 
-## Action text shown in urlbar results, usually appended after the search
-## string or the url, like "result value - action text".
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
 
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
@@ -179,6 +154,11 @@ urlbar-go-button =
 urlbar-result-action-search-w-engine = Search with { $engine }
 urlbar-result-action-switch-tab = Switch to Tab
 urlbar-result-action-visit = Visit
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -193,6 +173,9 @@ urlbar-result-action-visit = Visit
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
 
 
 ## Labels shown above groups of urlbar results
@@ -249,13 +232,10 @@ bookmarks-toolbar-placeholder-button =
 ## Library Panel items
 
 
-## Pocket toolbar button
-
-
 ## Repair text encoding toolbar button
 
 
-## Customize Toolbar Buttons
+##
 
 toolbar-button-email-link =
     .label = Email Link
@@ -279,6 +259,10 @@ toolbar-button-new-private-window =
     .label = New Private Window
     .tooltiptext = Open a new Private Browsing window ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Some audio or video on this site uses DRM software, which may limit what { -brand-short-name } can let you do with it.
@@ -294,18 +278,9 @@ ui-tour-info-panel-close =
 ## Variables:
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
-popups-infobar-allow =
-    .label = Allow pop-ups for { $uriHost }
-    .accesskey = p
-popups-infobar-block =
-    .label = Block pop-ups for { $uriHost }
-    .accesskey = p
 
 ##
 
-popups-infobar-dont-show-message =
-    .label = Don’t show this message when pop-ups are blocked
-    .accesskey = D
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
@@ -318,8 +293,6 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Downloads
-navbar-overflow =
-    .tooltiptext = More tools…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -421,4 +394,7 @@ popup-show-popup-menuitem =
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
 
