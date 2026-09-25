@@ -181,6 +181,12 @@ newtab-privacy-across-sites =
        *[other] من پوی { $count } وبگه
     }
 
+## Privacy widget — empty state
+
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -257,6 +263,9 @@ newtab-stocks-ticker-status-down = { $name }، لم { $change }، { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }، { $price }
 
+## Stocks widget watchlist add and remove controls
+
+
 ## Stocks widget ticker search
 
 # "Back" is an icon-only button in the search panel header that returns to the
@@ -308,11 +317,21 @@ newtab-picture-show-button =
 newtab-recent-searches-widget-title = پیتینیڌنا دیندایی
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = پیتینیڌن
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = گۊزینه یل پیتینیڌن
+
+## Recent searches widget — empty states
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -361,6 +380,9 @@ newtab-topsites-use-image-link = و کار گرؽڌن ی شؽوات سفارشی
 newtab-topsites-image-validation =
     بار ونی شؽوات شکست خرد.
     نشۊوی دیری ن امتهووݩ کۊنین.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = روفتن هؽل
 
@@ -501,6 +523,9 @@ newtab-section-menu-privacy-notice = نوکات زفت مهرمووه ای
 newtab-section-header-recent-activity = فعالیتا دیندایی
 newtab-section-header-stories = داستانا فرگ کردنی
 
+## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = تموم وابی!
@@ -557,6 +582,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = ورزش
 newtab-custom-widget-privacy-toggle =
     .label = سیخومی
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = جدول کلمه یل موتقاتع
 newtab-custom-widget-stocks-toggle =
     .label = سهام
 newtab-custom-widget-picture-toggle =
@@ -574,6 +602,9 @@ newtab-custom-close-menu-button =
     .aria-label = بستن نومگه
     .title = بستن
 newtab-custom-settings = دؽوۉداری سامووا قلوه
+
+## Customization Menu
+
 
 ## New Tab Appearance (browser theme picker)
 
@@ -614,6 +645,11 @@ newtab-wallpaper-dark-sky = منزره شئر یا آسمووݩ شاو
 newtab-wallpaper-dark-mountain = کوه منزره
 newtab-wallpaper-dark-city = منزره شئر بناوش
 newtab-wallpaper-dark-fox-anniversary = رۊوایی ری پیاڌه راو نهنگ جنگل
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
 
 ## Solid Colors
 
@@ -673,6 +709,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = ی رۊوا من لبه سمت راست ری ی پس زمینه نارنجی
 newtab-wallpaper-firefox-colorful-sky = ماوجا نارنجی من آسمووݩ بناوش شاو
 newtab-wallpaper-firefox-desert-dark = رۊوایی نشسته من بیابۊوی بناوش تاریک
@@ -1004,6 +1043,9 @@ newtab-promo-card-cta = قلوه دووسته بۊین
 newtab-promo-card-dismiss-button =
     .aria-label = رڌ کردن
     .title = رڌ کردن
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -1129,6 +1171,9 @@ newtab-sports-widget-team-name-label-sco =
 
 newtab-sports-widget-message-add-widgets-cta =
     .label = ٱووردن ویجتا
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
