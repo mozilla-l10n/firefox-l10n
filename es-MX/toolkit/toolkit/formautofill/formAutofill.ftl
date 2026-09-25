@@ -15,10 +15,13 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } está intent
 autofill-edit-payment-method-os-prompt-macos = mostrar información del método de pago almacenado
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } está intentando mostrar la información del método de pago almacenado. Confirme el acceso a esta cuenta de Windows a continuación.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } está intentando mostrar la información del método de pago almacenado.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Opciones de llenado automático de formularios
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opciones de llenado automático de formularios
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -35,6 +38,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Nunca guardar tarjetas
     .accessKey = N
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = ¿Actualizar tarjeta?
 credit-card-update-doorhanger-description = Tarjeta para actualizar:
 credit-card-capture-save-new-button =
@@ -49,6 +55,15 @@ autofill-clear-form-label = Limpiar formularios de autollenado
 autofill-manage-addresses-label = Administrar direcciones
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = Administrar métodos de pago
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
