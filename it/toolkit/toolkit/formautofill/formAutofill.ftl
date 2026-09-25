@@ -33,6 +33,9 @@ autofill-options-link = Opzioni compilazione automatica moduli
 credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizza le carte salvate in tutti i dispositivi
 credit-card-save-doorhanger-header = Salvare questa carta in modo sicuro?
 credit-card-save-doorhanger-description = { -brand-short-name } critta il numero della tua carta. Il codice di sicurezza non verrà salvato.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } critta il numero della carta e il codice di sicurezza, così solo tu puoi usarli per compilare i moduli di pagamento.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Salva sempre i codici di sicurezza per i metodi di pagamento.
 credit-card-capture-save-button =
     .label = Salva
     .accessKey = S
@@ -61,6 +64,22 @@ autofill-manage-payment-methods-label = Gestisci metodi di pagamento
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV salvato
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV salvato
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV salvato
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV salvato
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

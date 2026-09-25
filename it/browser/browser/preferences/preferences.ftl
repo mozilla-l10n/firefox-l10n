@@ -1374,6 +1374,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Richiedi conferma dell’accesso al dispositivo per compilare automaticamente e gestire i metodi di pagamento
     .accesskey = s
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Salva codici di sicurezza
+    .accesskey = z
 autofill-payment-methods-add-button = Aggiungi nuovo metodo di pagamento
 payments-list-header =
     .label = Metodi di pagamento

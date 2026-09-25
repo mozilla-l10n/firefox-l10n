@@ -103,4 +103,3 @@ about-private-browsing-spotlight-basics-vpn = Usa la VPN integrata per rendere p
 # Translations should be consistent with the existing "Strict" string in about:preferences.
 about-private-browsing-spotlight-basics-strict-tracking = Passa a Restrittiva nelle impostazioni per una protezione antitracciamento più aggressiva.
 about-private-browsing-spotlight-basics-learn-more = Ulteriori informazioni
-
