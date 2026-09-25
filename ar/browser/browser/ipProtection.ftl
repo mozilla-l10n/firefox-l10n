@@ -72,6 +72,7 @@ ipprotection-android-promo-callout-primary-button = فهمت
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ليس الآن
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = رفض
 
 ## Panel
 
