@@ -15,10 +15,13 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } يحاول �
 autofill-edit-payment-method-os-prompt-macos = أظهر معلومات طريقة الدفع المخزنة
 autofill-edit-payment-method-os-prompt-windows = يحاول { -brand-short-name } عرض معلومات طريقة الدفع المحفوظة. يُرجى تأكيد الوصول إلى حساب Windows هذا أدناه.
 autofill-edit-payment-method-os-prompt-other = يحاول { -brand-short-name } عرض معلومات طريقة الدفع المخزنة.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = خيارات الملء الآلي للاستمارات
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = خيارات الملء الآلي للاستمارات
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -35,6 +38,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = لا تحتفظ بالبطاقات مطلقًا
     .accessKey = ت
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = حدث البطاقة؟
 credit-card-update-doorhanger-description = البطاقة المراد تحديثها:
 credit-card-capture-save-new-button =
@@ -49,6 +55,15 @@ autofill-clear-form-label = امسح استمارة الملء الآلي
 autofill-manage-addresses-label = أدِر العناوين
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-payment-methods-label = أدر طرق الدفع
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
