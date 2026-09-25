@@ -15,10 +15,13 @@ autofill-use-payment-method-os-prompt-other = Emañ { -brand-short-name } o klas
 autofill-edit-payment-method-os-prompt-macos = diskouez titouroù an doareoù paeañ enrollet
 autofill-edit-payment-method-os-prompt-windows = Emañ { -brand-short-name } o klask diskouez titouroù doareoù paeañ enrollet. Kadarnait an haeziñ d'ar gont Windows amañ dindan.
 autofill-edit-payment-method-os-prompt-other = Emañ { -brand-short-name } o klask diskouez titouroù doareoù paeañ enrollet.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Dibarzhioù leuniañ emgefreek ar furmskridoù
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Dibarzhioù leuniañ emgefreek ar furmskridoù
 
-## The credit card capture doorhanger
+##
 
 credit-card-capture-save-button =
     .label = Enrollañ
@@ -26,10 +29,22 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Diwezhatoc’h
     .accessKey = D
+
+# Used on the doorhanger when an credit card change is detected.
+
 # Label for the button in the dropdown menu used to clear the populated form.
 autofill-clear-form-label = Skarzhañ ar furmskrid emleunius
 # Used as a label for the button, displayed at the bottom of the dropdown suggestion, to open Form Autofill browser preferences.
 autofill-manage-addresses-label = Merañ ar chomlec’hioù
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
