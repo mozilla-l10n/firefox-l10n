@@ -53,7 +53,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = פתיחת VPN
 ipprotection-feature-introduction-button-get-started = תחילת עבודה
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = מגבלות ה־VPN המובנה שלך יתאפסו ב־1 בספטמבר
@@ -102,6 +105,11 @@ ipprotection-location-selection-callout-secondary-button = סגירה
 ipprotection-android-promo-callout-title = לקחת איתך VPN מובנה ב־Android
 ipprotection-android-promo-callout-description = יש לסרוק את קוד ה־QR כדי לקבל את { -brand-product-name } ל־Android ולהפעיל את ה־VPN המובנה לפרטיות רבה יותר בכל מקום. בקרוב גם ב־iOS.
 ipprotection-android-promo-callout-primary-button = הבנתי
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = לא כעת
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = סגירה
 
 ## Panel
 
