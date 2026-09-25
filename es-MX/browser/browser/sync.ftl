@@ -50,6 +50,9 @@ fxa-menu-send-tab-to-device-description = Envía al instante una pestaña a cual
 fxa-menu-sign-out =
     .label = Cerrar sesión…
 fxa-menu-sync-description = Accede a tu web desde cualquier lugar
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = Inicia sesión para sincronizar
 fxa-menu-sign-in-promo-button =
     .label = Iniciar sesión
 # Card shown in the account menu when a previously signed-in account is
@@ -61,6 +64,10 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Has cerrado sesión
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Finalizar configuración
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Inicia sesión para sincronizar
 fxa-avatar-sign-in = Iniciar sesión
 fxa-avatar-sign-up = Registrarse
 fxa-avatar-tooltip =
