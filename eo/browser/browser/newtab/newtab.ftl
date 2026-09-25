@@ -195,8 +195,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } blokas spurilojn dum vi retumas. Vi vidos ilin ĉi tie.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } aŭtomate blokas spurilojn, kio igas pli da viaj agoj privataj.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -482,6 +480,12 @@ newtab-recent-searches-widget-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Pli da informo
 
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -535,6 +539,9 @@ newtab-topsites-image-url-label = Personecitiga retadreso de bildo
 newtab-topsites-use-custom-image-link = Uzi personecigitan bildon
 newtab-topsites-use-image-link = Uzi personecigitan bildon…
 newtab-topsites-image-validation = Ne eblis ŝargi la bildon. Klopodu alian retadreson.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Viŝi tekston
 
@@ -962,6 +969,9 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
+## Firefox wallpaper descriptions used for screen readers
+
+
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
@@ -1377,6 +1387,9 @@ newtab-promo-card-cta = Pli da informo
 newtab-promo-card-dismiss-button =
     .aria-label = Ignori
     .title = Ignori
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1683,6 +1696,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Tiu ĉi loko sekvas viajn regulojn
 newtab-activation-window-message-values-focus-message = { -brand-product-name } permesas al vi retumi kiel vi ŝatas, per pli persona maniero komenci vian tagan retumon. Personecigu { -brand-product-name }.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 
