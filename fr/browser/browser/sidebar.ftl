@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Date et site
 sidebar-history-sort-option-last-visited =
     .label = Date de visite
+sidebar-history-sort-option-most-visited =
+    .label = Les plus visités
 
 ## Labels for sidebar search
 

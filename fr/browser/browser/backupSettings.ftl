@@ -169,6 +169,7 @@ change-backup-encryption-header = Modifier le mot de passe de la sauvegarde
 
 password-rules-header = Exigences pour le mot de passe
 password-rules-length-description = Au moins 8 caractères
+password-rules-email-description2 = N’est pas une adresse e-mail
 password-rules-email-description = Différent de votre adresse e-mail
 password-rules-disclaimer = Protégez-vous — ne réutilisez pas vos mots de passe. Voici plus de conseils pour <a data-l10n-name="password-support-link">créer des mots de passe robustes</a>.
 password-validity-has-email = Ne peut pas être une adresse e-mail

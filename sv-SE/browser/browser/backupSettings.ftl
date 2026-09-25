@@ -177,6 +177,7 @@ change-backup-encryption-header = Ändra lösenord för säkerhetskopia
 
 password-rules-header = Lösenordskrav
 password-rules-length-description = Minst 8 tecken
+password-rules-email-description2 = Inte en e-postadress
 password-rules-email-description = Inte din e-postadress
 password-rules-disclaimer = Var säker — återanvänd inte lösenord. Se fler tips för att <a data-l10n-name="password-support-link">skapa starka lösenord</a>.
 password-validity-has-email = Kan inte vara en e-postadress

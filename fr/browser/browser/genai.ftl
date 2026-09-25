@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = Retirer { $provider }
 genai-menu-remove-sidebar =
     .label = Retirer du panneau latéral
+genai-shortcut-button-3 =
+    .aria-label = Demander ce SMS
+    .tooltiptext = Demander ce SMS
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = Demander à { $provider }
