@@ -817,6 +817,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Spor
 newtab-custom-widget-privacy-toggle =
     .label = Gizlilik
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Çapraz bulmaca
 newtab-custom-widget-stocks-toggle =
     .label = Borsa
 newtab-custom-widget-picture-toggle =
