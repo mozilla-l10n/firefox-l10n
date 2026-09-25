@@ -208,6 +208,20 @@ newtab-stocks-menu-learn-more = Lær mere
 newtab-stocks-widget-menu-button =
     .aria-label = Indstillinger for aktie-widget
     .title = Indstillinger for aktie-widget
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = Søg
+    .title = Søg efter navn eller symbol
+    .aria-label = Søg efter navn eller symbol
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = Søg
+    .title = Søg efter navn eller symbol
+    .aria-label = Søg efter navn eller symbol
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Aktier
