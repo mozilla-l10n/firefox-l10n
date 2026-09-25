@@ -909,6 +909,7 @@ urlbar-searchmode-popup-one-off-header = Այս անգամ որոնել հետև
 # reset after submitting.
 urlbar-searchmode-popup-header = Որոնել՝
 urlbar-searchmode-popup-search-settings2 = Որոնման կարգավորումներ
+urlbar-searchmode-popup-settings2 = Կարգավորումներ
 urlbar-searchmode-popup-search-settings = Որոնման կարգավորումներ
     .accesskey = Ո
 urlbar-searchmode-popup-settings = Կարգավորումներ
