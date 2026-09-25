@@ -908,6 +908,8 @@ urlbar-searchmode-popup-one-off-header = Esta vez buscar con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Buscar con:
+urlbar-searchmode-popup-search-settings2 = Ajustes de búsqueda
+urlbar-searchmode-popup-settings2 = Configuración
 urlbar-searchmode-popup-search-settings = Ajustes de búsqueda
     .accesskey = S
 urlbar-searchmode-popup-settings = Configuración
