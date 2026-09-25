@@ -205,8 +205,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } blokkeert trackers terwijl u surft. U ziet ze hier.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } blokkeert automatisch trackers, waardoor een groter deel van uw activiteit privé blijft.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -506,6 +504,9 @@ newtab-recent-searches-just-now = Zojuist
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = ‘{ $search }’ uit recente zoekopdrachten verwijderen
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Zoeken
 # Screen reader label for the widget's icon-only menu button.
@@ -572,6 +573,9 @@ newtab-topsites-image-url-label = URL van aangepaste afbeelding
 newtab-topsites-use-custom-image-link = Een aangepaste afbeelding gebruiken
 newtab-topsites-use-image-link = Een aangepaste afbeelding gebruiken…
 newtab-topsites-image-validation = Afbeelding kon niet worden geladen. Probeer een andere URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Tekst wissen
 
@@ -1003,6 +1007,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Een vos aan de rechterkant op een oranje achtergrond
 newtab-wallpaper-firefox-colorful-sky = Oranje golven tegen een paarse nachtelijke hemel
 newtab-wallpaper-firefox-desert-dark = Een vos zittend in een donkerpaarse woestijn
@@ -1431,6 +1438,9 @@ newtab-promo-card-cta = Meer info
 newtab-promo-card-dismiss-button =
     .aria-label = Sluiten
     .title = Sluiten
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
