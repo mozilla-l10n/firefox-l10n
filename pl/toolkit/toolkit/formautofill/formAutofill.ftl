@@ -20,10 +20,13 @@ autofill-edit-payment-method-os-prompt-other = { -brand-short-name } chce wyświ
 autofill-delete-payment-method-os-prompt-macos = usunięcie przechowywanych informacji o metodach płatności
 autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } chce usunąć przechowywane informacje o metodach płatności. Potwierdź poniżej, używając konta Windows.
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name } chce usunąć przechowywane informacje o metodach płatności.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Opcje wypełniania formularzy
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Opcje wypełniania formularzy
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -40,6 +43,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Nigdy nie zachowuj kart
     .accessKey = d
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = Czy zaktualizować kartę?
 credit-card-update-doorhanger-description = Karta do zaktualizowania:
 credit-card-capture-save-new-button =
@@ -59,6 +65,15 @@ autofill-manage-payment-methods-label = Zarządzaj metodami płatności
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = Kod CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
