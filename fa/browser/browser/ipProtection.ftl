@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = باز کردن VPN
 ipprotection-feature-introduction-button-get-started = شروع کنید
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = سقف مصرف VPN داخلی شما از ۱ سپتامبر بازنشانی می‌شود
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = رد کردن
 ipprotection-android-promo-callout-title = ‏VPN داخلی را روی اندروید به همراه داشته باشید
 ipprotection-android-promo-callout-description = کد QR را اسکن کنید تا { -brand-product-name } برای اندروید را دریافت کرده و برای حریم‌خصوصی بیشتر در حال حرکت، VPN داخلی را روشن کنید. به‌زودی برای iOS.
 ipprotection-android-promo-callout-primary-button = متوجه شدم
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = فعلاً نه
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = رد کردن
 
 ## Panel
 
