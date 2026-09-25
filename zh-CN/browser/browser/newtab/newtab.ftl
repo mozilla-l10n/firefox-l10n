@@ -290,6 +290,20 @@ newtab-stocks-error-not-available = 无法获取股市数据。
 newtab-stocks-widget-menu-button =
     .aria-label = 股市小组件选项
     .title = 股市小组件选项
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .label = 搜索
+    .title = 搜索名称或代码
+    .aria-label = 搜索名称或代码
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .label = 搜索
+    .title = 搜索名称或代码
+    .aria-label = 搜索名称或代码
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = 股市
