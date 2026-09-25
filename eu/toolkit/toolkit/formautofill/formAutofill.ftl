@@ -20,10 +20,13 @@ autofill-edit-payment-method-os-prompt-other = Gordetako ordainketa-metodoen inf
 autofill-delete-payment-method-os-prompt-macos = ezabatu gordetako ordainketa-metodoaren informazioa
 autofill-delete-payment-method-os-prompt-windows = Gordetako ordainketa-metodoen informazioa ezabatzen saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
 autofill-delete-payment-method-os-prompt-other = Gordetako ordainketa-metodoen informazioa ezabatzen saiatzen ari da { -brand-short-name }.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Inprimakiak automatikoki betetzeko aukerak
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Inprimakiak automatikoki betetzeko aukerak
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -40,6 +43,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Inoiz ez gorde txartelik
     .accessKey = n
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = Eguneratu txartela?
 credit-card-update-doorhanger-description = Eguneratu beharreko txartela:
 credit-card-capture-save-new-button =
@@ -59,6 +65,15 @@ autofill-manage-payment-methods-label = Kudeatu ordainketa-metodoak
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC kodea
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
