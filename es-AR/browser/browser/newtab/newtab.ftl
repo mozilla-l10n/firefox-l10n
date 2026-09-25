@@ -205,8 +205,6 @@ newtab-privacy-across-sites =
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
-newtab-privacy-empty = { -brand-short-name } bloquea rastreadores mientras se navega. Se verán acá.
-# Shown when no trackers have been blocked yet today.
 newtab-privacy-empty-state = { -brand-short-name } bloquea automáticamente los rastreadores, manteniendo privada una mayor parte de su actividad.
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
@@ -505,6 +503,9 @@ newtab-recent-searches-just-now = Ahora mismo
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Eliminar “{ $search }” de búsquedas recientes
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Buscar
 # Screen reader label for the widget's icon-only menu button.
@@ -571,6 +572,9 @@ newtab-topsites-image-url-label = URL de Imagen personalizada
 newtab-topsites-use-custom-image-link = Usar imagen personalizada
 newtab-topsites-use-image-link = Usar imagen personalizada…
 newtab-topsites-image-validation = La imagen no se pudo cargar. Pruebe una URL diferente.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Borrar texto
 
@@ -1002,6 +1006,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Un zorro en el borde derecho sobre un fondo naranja
 newtab-wallpaper-firefox-colorful-sky = Ondas anaranjadas sobre un cielo nocturno púrpura
 newtab-wallpaper-firefox-desert-dark = Un zorro sentado en un desierto púrpura oscuro
@@ -1430,6 +1437,9 @@ newtab-promo-card-cta = Conocer más
 newtab-promo-card-dismiss-button =
     .aria-label = Descartar
     .title = Descartar
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
