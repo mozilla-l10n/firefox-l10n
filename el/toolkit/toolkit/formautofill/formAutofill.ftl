@@ -20,10 +20,13 @@ autofill-edit-payment-method-os-prompt-other = Το { -brand-short-name } προ
 autofill-delete-payment-method-os-prompt-macos = διαγράψει αποθηκευμένα στοιχεία μεθόδου πληρωμής
 autofill-delete-payment-method-os-prompt-windows = Το { -brand-short-name } προσπαθεί να διαγράψει αποθηκευμένα στοιχεία μεθόδου πληρωμής. Επιβεβαιώστε παρακάτω την πρόσβαση σε αυτόν τον λογαριασμό των Windows.
 autofill-delete-payment-method-os-prompt-other = Το { -brand-short-name } προσπαθεί να διαγράψει αποθηκευμένα στοιχεία μεθόδου πληρωμής.
+# The button leads users to Form Autofill browser preferences.
+credit-card-doorhanger-options-button =
+    .title = Επιλογές αυτόματης συμπλήρωσης φορμών
 # The link leads users to Form Autofill browser preferences.
 autofill-options-link = Επιλογές αυτόματης συμπλήρωσης φορμών
 
-## The credit card capture doorhanger
+##
 
 # If Sync is enabled and credit card sync is available,
 # this checkbox is displayed on the doorhanger shown when saving credit card.
@@ -40,6 +43,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Να μην γίνεται ποτέ αποθήκευση καρτών
     .accessKey = Ν
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = Ενημέρωση κάρτας;
 credit-card-update-doorhanger-description = Κάρτα προς ενημέρωση:
 credit-card-capture-save-new-button =
@@ -59,6 +65,15 @@ autofill-manage-payment-methods-label = Διαχείριση μεθόδων πλ
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
