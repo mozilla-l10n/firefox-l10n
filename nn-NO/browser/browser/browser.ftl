@@ -35,6 +35,9 @@ urlbar-identity-button2 =
             [1] Vis informasjon om nettstaden (1 sporar blokkert)
            *[other] Vis informasjon om nettstaden ({ $count } sporarar blokkerte)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Vis sideinfo
 
@@ -714,6 +717,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsa
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spør
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -872,6 +880,10 @@ urlbar-searchmode-no-keyword2 =
     .title = Nøkkelordssøk er deaktivert
 urlbar-searchmode-dropmarker2 =
     .title = Vel ein søkjemotor
+urlbar-searchmode-bookmarks4 = Bokmerke
+urlbar-searchmode-tabs4 = Faner
+urlbar-searchmode-history4 = Historikk
+urlbar-searchmode-actions4 = Handlingar
 urlbar-searchmode-bookmarks3 = Bokmerke
     .accesskey = B
 urlbar-searchmode-tabs3 = Faner
@@ -895,6 +907,8 @@ urlbar-searchmode-popup-one-off-header = Søk denne gong med:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Søk med:
+urlbar-searchmode-popup-search-settings2 = Søkjeinnstillingar
+urlbar-searchmode-popup-settings2 = Innstillingar
 urlbar-searchmode-popup-search-settings = Søkjeinnstillingar
     .accesskey = S
 urlbar-searchmode-popup-settings = Innstillingar
@@ -1222,6 +1236,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1439,6 +1456,13 @@ file-picker-crashed-open = Windows-fildialogvindauget har krasja. Ingen fil elle
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-fildialogvindauget har krasja. Fila vil bli lagra i { $path }.
 file-picker-crashed-save-nowhere = Windows-fildialogvindauget har krasja. Fann inga standardmappe, og fila vil ikkje bli lagra.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Vis i mappe
     .accessKey = i
@@ -1491,6 +1515,9 @@ trustpanel-blocker-see-all = Vis alle
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Sporingsvern for { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
