@@ -574,6 +574,9 @@ newtab-custom-widget-sports-toggle2 =
     .label = Isport
 newtab-custom-widget-privacy-toggle =
     .label = Riservadesa
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Faeddos rugrados
 newtab-custom-widget-picture-toggle =
     .label = Immàgine de sa die
 newtab-custom-widget-section-title = Widgets
