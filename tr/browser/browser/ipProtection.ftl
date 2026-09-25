@@ -54,7 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN’i aç
 ipprotection-feature-introduction-button-get-started = Kullanmaya başlayın
 
-## Unlimited bandwidth summer promotion offramp callouts
+## Callout shown when the user opens a private browsing window
+
+
+## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
 ipprotection-summer-promo-offramp-generic-title = VPN limitleriniz 1 Eylül’de sıfırlanacak
@@ -103,6 +106,11 @@ ipprotection-location-selection-callout-secondary-button = Kapat
 ipprotection-android-promo-callout-title = Yerleşik VPN’i Android’de de kullanın
 ipprotection-android-promo-callout-description = QR kodunu okutarak Android için { -brand-product-name } uygulamasını indirin, yoldayken daha fazla gizlilik için VPN’i açın. Çok yakında iOS’e de geliyor.
 ipprotection-android-promo-callout-primary-button = Anladım
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
+ipprotection-site-inclusions-callout-secondary-button-existing-users = Şimdi değil
+ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Kapat
 
 ## Panel
 
