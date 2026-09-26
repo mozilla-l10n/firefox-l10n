@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL klasifikatora informācija
+url-classifier-search-result-title = Iznākums
 url-classifier-provider-title = Piegādātājs
 url-classifier-provider = Piegādātājs
 url-classifier-provider-last-update-time = Pēdējās atjaunināšanas laiks
@@ -22,6 +23,8 @@ url-classifier-cache-prefix = Priedēklis
 url-classifier-cache-ncache-expiry = Negatīvs kešatmiņas derīgums
 url-classifier-cache-fullhash = Pilna hešatslēga
 url-classifier-cache-pcache-expiry = Pozitīvs kešatmiņas derīgums
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = Iznākums
 # Overall verdict shown when the probe could not run because of an error.
 # Variables:
 #   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.

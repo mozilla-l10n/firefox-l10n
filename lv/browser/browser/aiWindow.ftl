@@ -28,6 +28,10 @@ aiwindow-input-cta-stop-button =
     .aria-label = Apturēt atbildes izveidošanu
     .title = Apturēt atbildi
 
+## Mentions
+
+smartbar-mentions-list-no-results-label = Nekas netika atrasts
+
 ## Context mentions menu toggle button
 
 smartbar-context-menu-button =

@@ -845,6 +845,7 @@ newtab-promo-card-cta = Uzzināt vairāk
 ##
 
 newtab-sports-widget-menu-learn-more = Uzzināt vairāk
+newtab-sports-widget-results = Iznākums
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
