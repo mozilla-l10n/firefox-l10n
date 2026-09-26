@@ -15,6 +15,7 @@ restart-required-single-instance-question = ਮੈਂ ਕਈ ਪਰੋਫ਼ਾਈ�
 restart-required-single-instance-answer = ਜੇ ਕੋਈ ਅੱਪਡੇਟ { -brand-short-name } ਖੁੱਲ੍ਹੇ ਹੋਣ ਦੇ ਦੌਰਾਨ ਬੈਂਕਗਰਾਊਂਡ ਵਿੱਚ ਲਾਗੂ ਹੋਇਆ ਹੋਵੇ ਤਾਂ ਇਸ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
 restart-required-single-instance-answer-2 = ਇਹ ਜ਼ਿਆਦਾ ਲੰਮੇ ਬਰਾਊਜ਼ਿੰਗ ਸ਼ੈਸ਼ਨ ਦੌਰਾਨ ਜਾਂ ਜਦੋਂ ਤੁਹਾਡੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਵਲੋਂ { -brand-short-name } ਅੱਪਡੇਟ ਹੁੰਦਾ ਹੈ ਤਾਂ ਵਾਪਰ ਸਕਦਾ ਹੈ। ਮੁੜ-ਚਾਲੂ ਕਰਨ ਨਾਲ { -brand-short-name } ਸੁਰੱਖਿਅਤ ਅਤੇ ਆਮ ਦੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ।
 restart-required-unsaved-work-question = ਕੀ ਮੇਰਾ ਨਾ-ਸੰਭਾਲਿਆ ਕੰਮ ਖ਼ਤਮ ਹੋ ਸਕਦਾ ਹੈ?
+restart-required-unsaved-work-answer = ਸੰਭਵ ਹੈ ਅਤੇ ਸਾਨੂੰ ਪਤਾ ਹੈ ਕਿ ਇਹ ਖਿਝਾਊ ਹੈ। { -brand-short-name } ਤੁਹਾਡੀਆਂ ਟੈਬਾਂ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੇਗਾ, ਪਰ ਸਫ਼ਿਆਂ ਵਿੱਚ ਨਾ-ਸੰਭਾਲਿਆ ਕੰਮ ਜਿਵੇਂ ਕਿ ਭਰਿਆ ਗਿਆ ਫਾਰਮ, ਨੂੰ ਬਹਾਲ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ। ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਵਾਸਤੇ ਨਹੀਂ ਖੋਲ੍ਹਿਆ ਜਾਵੇਗਾ।
 restart-required-fix-question = ਇਹ ਸੱਚੀ ਖਿਝਾਊ ਹੈ! ਕੀ { -brand-short-name } ਇਸ ਨੂੰ ਠੀਕ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਰਿਹਾ ਹੈ?
 # Note: normally we would link to the bug here, but if the user sees this message,
 # then they cannot visit a link without a restart.

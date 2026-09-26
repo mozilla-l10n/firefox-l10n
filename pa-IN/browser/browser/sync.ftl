@@ -66,6 +66,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = ਤੁਸੀਂ ਸਾਈਨ ਆਉਟ ਹੋ
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = ਸੈਟਅੱਪ ਮੁਕੰਮਲ
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
+fxa-menu-signed-out-description = ਤੁਸੀਂ ਸਾਈਨ ਆਉਟ ਹੋ
 fxa-avatar-sign-in = ਸਾਈਨ ਇਨ
 fxa-avatar-sign-up = ਸਾਈਨ ਅੱਪ ਕਰੋ
 fxa-avatar-tooltip =

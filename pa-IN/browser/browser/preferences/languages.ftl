@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = ਇੰਸਟਾਲ ਹੋਈਆਂ ਭਾਸ਼ਾਵਾਂ
 browser-languages-available-label = ਮੌਜੂਦ ਭਾਸ਼ਾਵਾਂ
 browser-languages-error = { -brand-short-name } ਹਾਲੇ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਨੂੰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਸੀ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋ ਅਤੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+browser-languages-update-error =
+    .message = { -brand-short-name } ਹਾਲੇ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਨੂੰ ਅੱਪਡੇਟ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਸੀ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋ ਅਤੇ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
