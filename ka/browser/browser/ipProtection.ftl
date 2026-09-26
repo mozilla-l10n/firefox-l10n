@@ -52,6 +52,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = გახსენით VPN
 ipprotection-feature-introduction-button-get-started = დაიწყეთ
 
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = უმაღლესი პირადულობისთვის VPN, რომელსაც გთავაზობთ { -brand-product-name }
+
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -103,6 +107,11 @@ ipprotection-android-promo-callout-primary-button = გასაგებია
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = მომართეთ ჩაშენებული VPN წესებით და დაიწყეთ თვალიერება
+ipprotection-site-inclusions-callout-title-lapsed-users = გამოცადეთ ჩაშენებული VPN, ახლა უკვე საიტების მიხედვით
+ipprotection-site-inclusions-callout-description = ჩართეთ, როცა გსურთ გაუმჯობესებული პირადულობა ან ადგილმდებარეობაზე მიბმული გვერდების მონახულება და გამორთეთ, როცა არ გჭირდებათ.
+ipprotection-site-inclusions-callout-primary-button = წესების მითითება
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ახლა არა
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = აცილება
 
