@@ -1374,6 +1374,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Requirer apertura de session sur le apparato pro completar automaticamente e gerer methodos de pagamento
     .accesskey = o
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Salva codices de securitate
+    .accesskey = c
 autofill-payment-methods-add-button = Adder nove methodo de pagamento
 payments-list-header =
     .label = Methodos de pagamento
@@ -1440,6 +1444,23 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV salvate
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV salvate
     .label = { $cardNumber }
 addresses-group =
     .label = Adresses e plus

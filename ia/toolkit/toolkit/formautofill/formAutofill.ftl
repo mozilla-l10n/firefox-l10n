@@ -33,6 +33,9 @@ autofill-options-link = Optiones del completion automatic
 credit-card-doorhanger-credit-cards-sync-checkbox = Synchronisar tote le cartas salvate inter mi apparatos
 credit-card-save-doorhanger-header = Con securitate salvar iste carta?
 credit-card-save-doorhanger-description = { -brand-short-name } crypta tu numero de carta. Tu codice de securitate non sera salvate.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } crypta tu numero de carta e codice de securitate, assi solo tu pote usar los pro plenar formularios de pagamento.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Sempre salva le codices de securitate pro le methodos de pagamento.
 credit-card-capture-save-button =
     .label = Salvar
     .accessKey = S
@@ -72,7 +75,11 @@ autofill-card-security-code-label = CVC
 
 credit-card-doorhanger-details-name = { $name }
 credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV salvate
 credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV salvate
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV salvate
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV salvate
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

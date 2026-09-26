@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Fügen Sie eine weitere Ebene 
 ipprotection-feature-introduction-link-text-privacy-1 = Das integrierte VPN von <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> schützt Ihr Surfen. Wählen Sie einen von mehreren Orten, um Ihre Privatsphäre beim Surfen zu schützen.
 ipprotection-feature-introduction-link-text-privacy-2 = Das <a data-l10n-name="learn-more-vpn"> integrierte VPN von { -brand-product-name }</a> trägt zum Schutz Ihrer Online-Aktivitäten bei. Wählen Sie aus 5 Standorten aus, um Ihre Privatsphäre beim Surfen zu schützen.
 ipprotection-feature-introduction-link-text-privacy-3 = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus mehreren Standorten wählen, um zu verbergen, von wo aus Sie im Internet surfen.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Helfen Sie mit, Ihren Standort beim Surfen zu verbergen, um <a data-l10n-name="learn-more-vpn">mehr Privatsphäre</a> zu erhalten. Schalten Sie das VPN für bestimmte Websites ein oder aus.
 ipprotection-feature-introduction-text-summer-promo-1 = Aktivieren Sie es, um Ihr Surfen privater zu gestalten. <a data-l10n-name="summer-promo-link">Holen Sie sich unbegrenzte Bandbreite</a> und mehr Standorte zum Surfen. Jetzt bis zum 31. August.
 ipprotection-feature-introduction-title-summer-promo = Haben Sie Reisepläne? Nehmen Sie Privatsphäre mit.
 ipprotection-feature-introduction-description-summer-promo = Kommen Sie noch weiter mit dem integrierten VPN von { -brand-product-name }: mehr Standorte, unbegrenzte Bandbreite. Jetzt bis zum 31. August.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Verwenden Sie unser neues <a data-l10n-name="learn-more-vpn">integriertes VPN</a>, um Ihren Standort zu verbergen und Ihre Daten zu schützen, auch wenn Sie sich in einem privaten Fenster befinden.
 ipprotection-feature-introduction-description-private-browsing = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verstecken, auch wenn Sie sich in einem privaten Fenster befinden.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Verbergen Sie beim Surfen Ihren Standort für <a data-l10n-name="learn-more-vpn">mehr Privatsphäre</a>. Legen Sie Regeln fest, um das VPN für zusätzlichen Schutz oder standortbezogenes Surfen zu aktivieren und dort zu deaktivieren, wo Sie es nicht benötigen.
 ipprotection-feature-introduction-title-captive-portal = Im öffentlichen WLAN? Probieren Sie das integrierte VPN von { -brand-product-name } aus.
 ipprotection-feature-introduction-description-captive-portal = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen, auch im öffentlichen WLAN.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN aus Symbolleiste entfernen
 ipprotection-feature-introduction-button-open-vpn = VPN öffnen
 ipprotection-feature-introduction-button-get-started = Erste Schritte
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximale Privatsphäre mit dem integrierten VPN von { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,8 @@ ipprotection-android-promo-callout-primary-button = Verstanden
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Integrierte VPN-Regeln festlegen und weitersurfen
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nicht jetzt
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Schließen
 

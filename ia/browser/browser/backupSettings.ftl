@@ -177,6 +177,7 @@ change-backup-encryption-header = Cambiar le contrasigno del copia de securitate
 
 password-rules-header = Requisitos del contrasigno
 password-rules-length-description = Al minus 8 characteres
+password-rules-email-description2 = Non un adresse de e-mail
 password-rules-email-description = Non tu adresse de e-mail
 password-rules-disclaimer = Protege te: non reusa contrasignos. Vide altere consilios pro <a data-l10n-name="password-support-link">crear contrasignos forte</a>.
 password-validity-has-email = Non pote esser un adresse de e-mail

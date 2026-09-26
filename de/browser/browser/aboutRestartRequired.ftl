@@ -15,6 +15,11 @@ restart-required-single-instance-question = Ich nutze weder mehrere Profile noch
 restart-required-single-instance-answer = { -brand-short-name } muss möglicherweise neu gestartet werden, wenn während der Nutzung im Hintergrund ein Update installiert wird.
 restart-required-single-instance-answer-2 = Dies kann während einer langen Surf-Sitzung passieren oder wenn Ihr Betriebssystem { -brand-short-name } aktualisiert. Nach einem Neustart bleibt { -brand-short-name } sicher und funktioniert normal.
 restart-required-unsaved-work-question = Könnten ungesicherte Änderungen verloren gehen?
+restart-required-unsaved-work-answer = Möglicherweise, und wir wissen, dass das frustrierend ist. { -brand-short-name } öffnet Ihre Tabs wieder, aber ungespeicherte Arbeit in Webseiten, wie Text in einem Formular, wird möglicherweise nicht wiederhergestellt. Private Fenster werden aus Datenschutzgründen nicht wieder geöffnet.
+restart-required-fix-question = Das ist wirklich ärgerlich! Arbeitet { -brand-short-name } bereits an einer Lösung?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Ja. Uns ist bewusst, dass dies störend ist. Wir arbeiten an einer Lösung, damit es nicht mehr vorkommt. Den aktuellen Stand finden Sie im Bugzilla-Fehler 2072739.
 restart-button-label2 = Neustart
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Mehr erfahren

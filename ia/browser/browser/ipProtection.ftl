@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Adder un altere nivello de con
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige de plure positiones pro mantener ubi tu naviga plus private.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige de plure positiones pro mantener plus private ubi tu naviga.
 ipprotection-feature-introduction-link-text-privacy-3 = Obtene <a data-l10n-name="learn-more-vpn">ulterior confidentialitate</a> seligente de plure positiones pro celar ubi tu naviga.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Adjuta a celar tu position pro <a data-l10n-name="learn-more-vpn">confidentialitate ulterior</a> quando tu naviga. Activa o disactiva le VPN pro certe sitos.
 ipprotection-feature-introduction-text-summer-promo-1 = Activa lo pro mantener tu navigation plus private. <a data-l10n-name="summer-promo-link">Obtene largessa de banda illimitate</a> e plus positiones de que navigar. Ora usque le 31 augusto.
 ipprotection-feature-introduction-title-summer-promo = Recipeva planos de viage? Porta con te le confidentialitate.
 ipprotection-feature-introduction-description-summer-promo = Ir ultra con le VPN integrate de { -brand-product-name }: plus positiones, illimitate largessa de banda. Ora usque le 31 augusto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-description-private-browsing = Navigar con protection ulterior celante tu position, mesmo quando tu es in un Fenestra private.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Adjuta a celar tu position pro <a data-l10n-name="learn-more-vpn">confidentialitate ulterior</a> quando tu naviga. Predefini regulas pro activar le VPN pro confidentialitate ulterior o navigation basate sur position, e disactivar ubi non.
 ipprotection-feature-introduction-title-captive-portal = Es tu sur un wi-fi public? Essaya le VPN integrate de { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navigar con protection ulterior celante tu position, mesmo sur wi-fi public.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Remover le VPN ab le barra del instrumentos
 ipprotection-feature-introduction-button-open-vpn = Aperir VPN
 ipprotection-feature-introduction-button-get-started = Comenciar
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximisa le confidentialitate con VPN integrate de { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = OK
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Predefini le regulas del VPN integrate, pois naviga
+ipprotection-site-inclusions-callout-title-lapsed-users = Essaya le VPN integrate, ora sito per sito
+ipprotection-site-inclusions-callout-description = Activa lo quando tu vole confidentialitate ulterior o navigation basate sur le position, e disactiva ubi non.
+ipprotection-site-inclusions-callout-primary-button = Predefini regulas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Non ora
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorar
 
