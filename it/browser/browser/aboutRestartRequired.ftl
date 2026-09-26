@@ -29,3 +29,4 @@ restart-required-heading = Riavvia per continuare a utilizzare { -brand-short-na
 restart-required-intro = Il sistema ha iniziato un aggiornamento di { -brand-short-name } in background. È necessario riavviare per completare l’installazione.
 window-restoration-info = Verranno ripristinate automaticamente le finestre e schede aperte, ma non quelle anonime.
 restart-button-label = Riavvia { -brand-short-name }
+

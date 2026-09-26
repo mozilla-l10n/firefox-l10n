@@ -62,3 +62,4 @@ credit-card-label-number-name-expiration-2 = { $number }, { $name }, { credit-ca
 #     string, which additionally names the card type
 credit-card-label-with-security-code = { $label } | CVV salvato
     .aria-label = { $ariaLabel }, CVV salvato
+
