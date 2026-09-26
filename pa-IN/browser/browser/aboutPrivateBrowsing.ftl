@@ -75,6 +75,8 @@ about-private-browsing-felt-privacy-v1-info-link = ਮੇਰੀ ਸਰਗਰਮ�
 
 about-private-browsing-nova-info-body = ਤੁਹਾਡੀਆਂ ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਨੂੰ ਬੰਦ ਕਰਨ ਨਾਲ ਤੁਹਾਡੇ ਕੂਕੀਜ਼, ਅਤੀਤ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ।
 about-private-browsing-nova-info-link = ਮੇਰੀ ਸਰਗਰਮੀ ਨੂੰ ਭਲਾ ਕੌਣ ਵੇਖ ਸਕਦਾ ਹੈ?
+about-private-browsing-private-window-basics-link = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਬਾਰੇ ਮੁੱਢਲੀਆਂ ਗੱਲਾਂ
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਡਿਜ਼ਾਇਨ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਿਸ ਵਿੱਚ ਹੀ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਮੌਜੂਦ ਹੈ। ਇਸ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰਨ ਨਾਲ ਹੀ ਇਸ ਦੇ ਅਤੀਤ, ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਮਿਟਾ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ ਤਾਂ ਕਿ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਇਸ ਡਿਵਾਈਸ ਵਰਤਣ ਵਾਲਿਆਂ ਤੋਂ ਪ੍ਰਾਈਵੇਟ ਰੱਖਿਆ ਜਾਵੇ।
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -83,4 +85,21 @@ about-private-browsing-nova-info-subheader2 = ਜਦੋਂ ਤੁਸੀਂ ਆ�
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਬਾਰੇ ਮੁੱਢਲੀਆਂ ਗੱਲਾਂ
+about-private-browsing-spotlight-basics-subtitle = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਹੋਰਾਂ ਤੋਂ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦੀ ਹੈ। ਇਹ ਤੁਹਾਨੂੰ ਅਣਪਛਾਤਾ ਨਹੀਂ ਬਣਾਉਦੀਆਂ ਹਨ ਜਾਂ ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਮਿਟਾਉਂਦੀਆਂ ਨਹੀਂ ਹਨ।
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = ਕੀ ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ
+about-private-browsing-spotlight-basics-activity-seen = ਕੁਝ ਸਰਗਰਮੀਆਂ ਨੂੰ ਸਾਈਟਾਂ, ਖੋਜ ਇੰਜਣਾਂ, ਇੰਟਰਨੈੱਟ ਪੂਰਕਾਂ ਜਾਂ ਤੁਹਾਡੀ ਕੰਪਨੀ ਵਲੋਂ ਹਾਲੇ ਵੀ ਵੇਖਿਆ ਜਾ ਸਕਦਾ ਹੈ।
+about-private-browsing-spotlight-basics-bookmarks-downloads = ਬੁੱਕਮਾਰਕ ਅਤੇ ਕੀਤੇ ਹੋਏ ਡਾਊਨਲੋਡ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਉੱਤੇ ਮੌਜੂਦ ਰਹਿੰਦੇ ਹਨ ਅਤੇ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਦਿਖਾਈ ਦੇ ਸਕਦੇ ਹਨ।
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = ਹੋਰ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } ਆਪਣੇ-ਆਪ ਹੀ ਤੁਹਾਨੂੰ ਮਾਲਵੇਅਰ ਅਤੇ ਭਰਮਪੂਰਨ ਸਾਈਟਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀ ਦਿੰਦਾ ਹੈ।
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } ਹਿੱਸਾ ਲੈਣ ਵਾਲੀਆਂ ਸਾਈਟਾਂ ਨੂੰ ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਵੇਚਣ ਜਾਂ ਸਾਂਝਾ ਕਰਨ ਤੋਂ ਆਪਣੇ-ਆਪ ਹੀ ਰੋਕਣ ਲਈ ਕਹਿੰਦਾ ਹੈ।
+about-private-browsing-spotlight-basics-vpn = ਆਪਣੇ ਟਿਕਾਣੇ ਦਾ ਪਤਾ ਲਗਾਉਣ ਨੂੰ ਹੋਰ ਔਖਾ ਕਰਨ ਵਾਸਤੇ ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਵਰਤੋਂ।
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = ਵੱਧ ਮਜ਼ਬੂਤ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਲਈ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਸਖ਼ਤ ਲਈ ਬਦਲੋ।
 about-private-browsing-spotlight-basics-learn-more = ਹੋਰ ਜਾਣੋ
