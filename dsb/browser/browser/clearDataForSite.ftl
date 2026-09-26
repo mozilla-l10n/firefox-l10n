@@ -10,6 +10,6 @@ clear-data-for-site-browsing-history = Pśeglědowańska a ześěgnjeńska histo
 clear-data-for-site-cookies = Cookieje a sedłowe daty, kótarež mógu was wót sedła wótzjawiś
 clear-data-for-site-cache = Pufrowane dataje a boki
 cclear-data-for-site-permissions = Pšawa a nastajenja
-clear-data-for-site-exceptions = Cytańske a skłaźone gronidła se njewulašuju
+clear-data-for-site-exceptions = Cytańske znamjenja a skłaźone gronidła se njewulašuju
 clear-data-for-site-dialog-accept-button = Daty lašowaś
 clear-data-for-site-dialog-cancel-button = Pśetergnuś
