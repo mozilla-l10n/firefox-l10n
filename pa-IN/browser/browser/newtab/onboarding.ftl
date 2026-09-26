@@ -537,6 +537,20 @@ onboarding-refresh-gratitude-subtitle = { -brand-short-name }, ਸਿਰਫ਼ ਵ�
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } ਤੁਹਾਡੇ ਨਾਲ ਖੜ੍ਹਾ ਹੈ
 
+## First Run Onboarding refresh strings
+
+onboarding-refresh-tou-default = ਸਾਰੇ ਲਿੰਕਾਂ ਨੂੰ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
+onboarding-refresh-data-collection-link = ਡਾਟਾ ਇਕੱਤਰਤਾ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+onboarding-refresh-primary-button = ਜਾਰੀ ਰੱਖੋ
+onboarding-refresh-fro-import-header = ਆਪਣਾ ਡਾਟਾ ਨਾਲ ਲਿਆਓ
+onboarding-refresh-fro-import-body = ਤੁਹਾਡਾ ਨਿੱਜੀ ਡਾਟਾ ਨਿੱਜੀ ਹੀ ਰਹਿੰਦਾ ਹੈ। { -brand-product-name } ਇਸ ਨੂੰ ਕਦੇ ਨਹੀਂ ਵੇਚਦਾ ਹੈ।
+onboarding-refresh-fro-skip-button = ਛੱਡੋ
+onboarding-refresh-fro-theme-header = ਆਪਣੀ ਦਿੱਖ ਉੱਤੇ ਕੰਮ ਕਰੋ
+onboarding-refresh-tab-layout-header = ਵੱਖਰਾ ਟੈਬ ਖਾਕਾ ਅਜ਼ਮਾਓ
+onboarding-refresh-tab-layout-top = ਉੱਤੇ
+onboarding-refresh-tab-layout-side = ਪਾਸੇ
+onboarding-refresh-tab-layout-minimal = ਘੱਟੋ-ਘੱਟ
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = ਸਮਾਰਟ ਅਤੇ ਕਲਾਸਿਕ ਵਿੰਡੋ ਵਿੱਚ ਕਦੇ ਵੀ ਬਦਲੋ।

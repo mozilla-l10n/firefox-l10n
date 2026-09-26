@@ -103,6 +103,10 @@ ipprotection-android-promo-callout-primary-button = ਸਮਝੇ
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = ਵਿੱਚ ਮੌਜੂਦ VPN ਲਈ ਨਿਯਮ ਬਣਾਓ ਅਤੇ ਫੇਰ ਬਰਾਊਜ਼ ਕਰੋ
+ipprotection-site-inclusions-callout-title-lapsed-users = ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ, ਹੁਣ ਹਰ ਸਾਈਟ ਲਈ ਵੱਖਰਾ-ਵੱਖਰਾ
+ipprotection-site-inclusions-callout-primary-button = ਨਿਯਮ ਬਣਾਓ
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ਹੁਣੇ ਨਹੀਂ
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ਖ਼ਾਰਜ ਕਰੋ
 
@@ -122,6 +126,12 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
     .label = ਇਸ ਸਾਈਟ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ
 site-exclusion-toggle-description = ਸਾਈਟ ਕੰਮ ਨਹੀਂ ਕਰ ਰਹੀ ਹੈ? VPN ਨੂੰ ਬੰਦ ਕਰਕੇ ਵੇਖਿਓ।
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = ਤੁਹਾਡਾ ਨਿਯਮ
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = ਇਸ ਸਾਈਟ ਲਈ VPN ਚਾਲੂ ਹੈ
 ipprotection-settings-link =
     .label = ਸੈਟਿੰਗਾਂ
 
@@ -258,6 +268,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } ਵੈੱਬਸਾਈਟਾਂ
         }
     .label = ਵੈੱਬਸਾਈਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+ip-protection-site-rules-header =
+    .heading = ਵੈੱਬਸਾਈਟ ਨਿਯਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+ip-protection-site-rules-button =
+    .description = ਸਾਈਟਾਂ ਲਈ ਨਿਯਮ ਬਣਾਓ, ਜਿੰਨ੍ਹਾਂ ਲਈ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਚਾਹੀਦੀ ਹੈ ਜਾਂ VPN ਬੰਦ ਰੱਖਣਾ ਹੈ।
+    .label = ਵੈੱਬਸਾਈਟ ਨਿਯਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 ip-protection-autostart =
     .label = VPN ਨੂੰ ਆਪਣੇ-ਆਪ ਚਾਲੂ ਕਰੋ
 ip-protection-autostart-checkbox =

@@ -66,6 +66,17 @@ genai-shortcut-button-3 =
 genai-shortcut-button-2 =
     .aria-label = { $provider } ਨੂੰ ਪੁੱਛੋ
     .tooltiptext = { $provider } ਨੂੰ ਪੁੱਛੋ
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = “{ $selection }” ਲਈ { $engine } ਖੋਜ
+    .tooltiptext = “{ $selection }” ਲਈ { $engine } ਖੋਜ
+genai-shortcut-copy-button =
+    .aria-label = ਚੁਣੀ ਲਿਖਤ ਨੂੰ ਕਾਪੀ ਕਰੋ
+    .tooltiptext = ਚੁਣੀ ਲਿਖਤ ਨੂੰ ਕਾਪੀ ਕਰੋ
+genai-shortcut-more-actions-button =
+    .aria-label = ਹੋਰ ਚੋਣਾਂ
+    .tooltiptext = ਹੋਰ ਚੋਣਾਂ
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } ਨੂੰ ਪੁੱਛੋ

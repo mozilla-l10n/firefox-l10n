@@ -160,7 +160,14 @@ appmenu-fxa-last-sync = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
     .label = ਪਿਛਲਾ ਸਿੰਕ ਕੀਤਾ { $time }
 appmenu-fxa-sync-and-save-data2 = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸੰਭਾਲੋ
 appmenu-fxa-signed-in-label = ਸਾਈਨ ਇਨ
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਹਰ ਥਾਂ ਸਿੰਕ ਕਰੋ
 appmenu-fxa-sign-in-promo-link = ਸਾਈਨ ਇਨ
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = ਸਾਈਨ-ਇਨ ਪ੍ਰਚਾਰ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
+    .title = ਖ਼ਾਰਜ ਕਰੋ
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
