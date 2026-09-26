@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = დაამატეთ პ�
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ჩაშენებული VPN-ით</a> დაგეხმარებათ გვერდების უსაფრთხოდ მონახულებაში. აირჩიეთ არაერთი მდებარეობიდან რომელიმე მეტად პირადი მოგზაურობისთვის ვებსივრცეში.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ჩაშენებული VPN-ით</a> დაგეხმარებათ გვერდების უსაფრთხოდ მონახულებაში. აირჩიეთ ერთ-ერთი რამდენიმე მდებარეობიდან ვებსივრცეში მეტად პირადი მოგზაურობისთვის.
 ipprotection-feature-introduction-link-text-privacy-3 = ისარგებლეთ <a data-l10n-name="learn-more-vpn">დამატებითი პირადულობით</a> რამდენიმე მდებარეობის შერჩევით საკუთარი ადგილსამყოფლის დასაფარად.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = გააუმჯობესეთ ადგილმდებარეობის დამალვით <a data-l10n-name="learn-more-vpn">პირადულობა</a> გვერდების მონახულებისას. მიუთითეთ, რომელ საიტებზე ჩაირთოს ან გამოირთოს VPN.
 ipprotection-feature-introduction-text-summer-promo-1 = ჩართეთ გვერდების კიდევ უფრო პირადულად მონახულებისთვის. <a data-l10n-name="summer-promo-link">მიიღეთ შეუზღუდავი გამტარუნარიანობა</a> და უფრო მეტი ადგილმდებარეობა ვებსივრცეში სამოგზაუროდ. ახლა უკვე 31 აგვისტომდე.
 ipprotection-feature-introduction-title-summer-promo = გეგმავთ მოგზაურობას? თან წაიყოლეთ პირადულობა.
 ipprotection-feature-introduction-description-summer-promo = უფრო შორს წასვლის საშუალება გაძლევთ { -brand-product-name } ჩაშენებული VPN-ით: მეტი ადგილმდებარეობა, შეუზღუდავი გამტარუნარიანობა. ახლა უკვე 31 აგვისტომდე.
 ipprotection-feature-introduction-link-text-private-browsing-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად პირადი ფანჯრით სარგებლობის დროსაც.
 ipprotection-feature-introduction-description-private-browsing = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის პირად ფანჯრებში.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = გააუმჯობესეთ ადგილმდებარეობის დამალვით <a data-l10n-name="learn-more-vpn">პირადულობა</a> გვერდების მონახულებისას. მიუთითეთ წესები, როდის ჩარითოს VPN გაუმჯობესებული პირადულობისთვის ან ადგილმდებარეობაზე მიბმული გვერდების მოსანახულებლად და როდის დარჩეს გამორთული.
 ipprotection-feature-introduction-title-captive-portal = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის საჯარო WiFi-ქსელებში.
 # Used for discovery callouts for both captive portal login and private browsing
