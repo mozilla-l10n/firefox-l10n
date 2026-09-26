@@ -177,6 +177,7 @@ change-backup-encryption-header = ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਨੂ�
 
 password-rules-header = ਪਾਸਵਰਡ ਲਈ ਜ਼ਰੂਰਤਾਂ
 password-rules-length-description = ਘੱਟੋ-ਘੱਟ 8 ਅੱਖਰ
+password-rules-email-description2 = ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨਹੀਂ ਹੈ
 password-rules-email-description = ਤੁਹਾਡਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨਹੀਂ ਹੈ
 password-rules-disclaimer = ਸੁਰੱਖਿਅਤ ਰਹੋ — ਪਾਸਵਰਡਾਂ ਨੂੰ ਮੁੜ ਮੁੜ ਨਾ ਵਰਤੋਂ। <a data-l10n-name="password-support-link">ਮਜ਼ਬੂਤ ਪਾਸਵਰਡ ਬਣਾਓ</a> ਤੋਂ ਹੋਰ ਸੁਝਾਅ ਲਵੋ।
 password-validity-has-email = ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ

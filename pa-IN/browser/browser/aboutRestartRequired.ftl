@@ -13,6 +13,7 @@ restart-required-multiple-instances-question = ਬਹੁਤੇ ਪਰੋਫ਼ਾ�
 restart-required-multiple-instances-answer = ਜੇ ਇੱਕ ਪਰੋਫ਼ਾਈਲ ਜਾਂ ਮੌਕਾ ਅੱਪਡੇਟ ਹੋ ਜਾਵੇ, ਜਦੋਂ ਕਿ ਹੋਰ ਹਾਲੇ ਵੀ ਚੱਲ ਰਿਹਾ ਹੋਵੇ ਤਾਂ ਚੱਲ ਰਿਹਾ ਪੁਰਾਣੇ ਵਰਜ਼ਨ ਉੱਤੇ ਰਹਿ ਸਕਦਾ ਹੈ। ਮੁੜ-ਚਾਲੂ ਕਰਨ ਨਾਲ ਹਰ ਚੀਜ਼ ਇੱਕੋ ਵਰਜ਼ਨ ਉੱਤੇ ਆ ਜਾਂਦੀ ਹੈ।
 restart-required-single-instance-question = ਮੈਂ ਕਈ ਪਰੋਫ਼ਾਈਲ ਜਾਂ ਮੌਕੇ ਨਹੀਂ ਵਰਤਦਾ ਹਾਂ। ਫੇਰ ਵੀ ਇਹ ਕਿਉਂ ਹੋ ਰਿਹਾ ਹੈ?
 restart-required-single-instance-answer = ਜੇ ਕੋਈ ਅੱਪਡੇਟ { -brand-short-name } ਖੁੱਲ੍ਹੇ ਹੋਣ ਦੇ ਦੌਰਾਨ ਬੈਂਕਗਰਾਊਂਡ ਵਿੱਚ ਲਾਗੂ ਹੋਇਆ ਹੋਵੇ ਤਾਂ ਇਸ ਨੂੰ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
+restart-required-unsaved-work-question = ਕੀ ਮੇਰਾ ਨਾ-ਸੰਭਾਲਿਆ ਕੰਮ ਖ਼ਤਮ ਹੋ ਸਕਦਾ ਹੈ?
 restart-required-fix-question = ਇਹ ਸੱਚੀ ਖਿਝਾਊ ਹੈ! ਕੀ { -brand-short-name } ਇਸ ਨੂੰ ਠੀਕ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਰਿਹਾ ਹੈ?
 # Note: normally we would link to the bug here, but if the user sees this message,
 # then they cannot visit a link without a restart.
