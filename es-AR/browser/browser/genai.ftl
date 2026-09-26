@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = Eliminar { $provider }
 genai-menu-remove-sidebar =
     .label = Eliminar de la barra lateral
+genai-shortcut-button-3 =
+    .aria-label = Preguntar sobre este texto
+    .tooltiptext = Preguntar sobre este texto
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = Preguntar a { $provider }
