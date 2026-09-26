@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Ημερομηνία και ιστότοπο
 sidebar-history-sort-option-last-visited =
     .label = Τελευταία επίσκεψη
+sidebar-history-sort-option-most-visited =
+    .label = Περισσότερες επισκέψεις
 
 ## Labels for sidebar search
 
