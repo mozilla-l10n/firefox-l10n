@@ -35,6 +35,29 @@ urlbar-identity-button2 =
             [one] Visualizza informazioni sul sito ({ $count } elemento tracciante bloccato)
            *[other] Visualizza informazioni sul sito ({ $count } elementi traccianti bloccati)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label = { $count } link
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Messaggi e altro…
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Messaggi, Mail e altro…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Condividi…
+    .accesskey = C
 urlbar-identity-button =
     .aria-label = Visualizza informazioni sul sito
 
@@ -100,6 +123,8 @@ urlbar-result-menu-tip-get-help2 = Ricevi assistenza
     .accesskey = a
 urlbar-result-menu-dismiss-suggestion2 = Ignora questo suggerimento
     .accesskey = u
+urlbar-result-menu-remove-top-site = Rimuovi dai siti principali
+    .accesskey = d
 urlbar-result-menu-manage-firefox-suggest2 = Gestisci { -firefox-suggest-brand-name }
     .accesskey = G
 # Some urlbar suggestions show the user's approximate location as automatically

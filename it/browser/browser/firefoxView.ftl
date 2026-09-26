@@ -83,6 +83,9 @@ firefoxview-overview-nav = Navigazione recente
     .title = Navigazione recente
 firefoxview-overview-header = Navigazione recente
     .title = Navigazione recente
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Schede e cronologia di navigazione su più dispositivi
 
 ## History in this context refers to browser history
 
