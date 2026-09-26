@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Passwort entfernen?
 autocomplete-remove-address-title = Adresse entfernen?
 autocomplete-remove-payment-method-title = Zahlungsmethode entfernen?
 autocomplete-remove-record-message = Diese Aktion kann nicht rückgängig gemacht werden.
+autocomplete-delete-record-button = Löschen
 autocomplete-remove-record-button = Entfernen
+autocomplete-delete-password-title = Passwort löschen?
+autocomplete-delete-address-title = Adresse löschen?
+autocomplete-delete-payment-method-title = Zahlungsmethode löschen?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

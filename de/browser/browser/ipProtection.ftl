@@ -113,6 +113,9 @@ ipprotection-android-promo-callout-primary-button = Verstanden
 
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Integrierte VPN-Regeln festlegen und weitersurfen
+ipprotection-site-inclusions-callout-title-lapsed-users = Integriertes VPN jetzt gezielt für einzelne Websites testen
+ipprotection-site-inclusions-callout-description = Aktivieren Sie es, wenn Sie mehr Privatsphäre oder standortbasiertes Surfen wünschen, und deaktivieren Sie es, wenn dies nicht der Fall ist.
+ipprotection-site-inclusions-callout-primary-button = Regeln festlegen
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nicht jetzt
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Schließen
 

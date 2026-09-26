@@ -33,6 +33,9 @@ autofill-options-link = Automatisches Ausfüllen von Formularen - Einstellungen
 credit-card-doorhanger-credit-cards-sync-checkbox = Alle gespeicherten Karten auf meinen Geräten synchronisieren
 credit-card-save-doorhanger-header = Soll diese Karte sicher gespeichert werden?
 credit-card-save-doorhanger-description = { -brand-short-name } verschlüsselt Ihre Kartennummer. Ihr Sicherheitscode wird nicht gespeichert.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } verschlüsselt Ihre Kartennummer und Ihren Sicherheitscode, damit nur Sie damit Zahlungsformulare ausfüllen können.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Sicherheitscodes für Zahlungsmethoden immer speichern.
 credit-card-capture-save-button =
     .label = Speichern
     .accessKey = S
@@ -61,6 +64,22 @@ autofill-manage-payment-methods-label = Zahlungsmethoden verwalten
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = Prüfnummer
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV gespeichert
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV gespeichert
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV gespeichert
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV gespeichert
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

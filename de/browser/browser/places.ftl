@@ -251,6 +251,12 @@ places-search-downloads =
 places-locked-prompt = Das Lesezeichen- und Chronik-System wird nicht funktionieren, da eine der Dateien von { -brand-short-name } von einer anderen Anwendung verwendet wird. Dieses Problem könnte von einer Sicherheitssoftware verursacht werden, beispielsweise von einem Virenscanner.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Neu
+    .label = Ordner teilen
+    .accesskey = O
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Neu
     .label = Ordner teilen
