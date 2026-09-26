@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = თარიღითა და საიტით
 sidebar-history-sort-option-last-visited =
     .label = ბოლოს ნანახით
+sidebar-history-sort-option-most-visited =
+    .label = ხშირად მონახულებული
 
 ## Labels for sidebar search
 
