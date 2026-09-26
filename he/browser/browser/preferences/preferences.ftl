@@ -1374,6 +1374,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = לדרוש פרטי התחברות של המכשיר כדי למלא אוטומטית ולנהל אמצעי תשלום
     .accesskey = פ
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = שמירת קודי אבטחה
+    .accesskey = ק
 autofill-payment-methods-add-button = הוספת אמצעי תשלום חדש
 payments-list-header =
     .label = אמצעי תשלום

@@ -253,6 +253,12 @@ places-search-downloads =
 places-locked-prompt = מערכת הסימניות וההיסטוריה לא מתפקדת מאחר שאחד הקבצים של { -brand-short-name } נמצא בשימוש על־ידי יישום אחר. בעיה זו נגרמת לעתים על־ידי תכניות אבטחה.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = חדש
+    .label = שיתוף תיקייה
+    .accesskey = ש
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = חדש
     .label = שיתוף תיקייה

@@ -36,6 +36,8 @@ ipprotection-feature-introduction-text-summer-promo-1 = ניתן להפעיל א
 ipprotection-feature-introduction-title-summer-promo = מתכננים לטייל? קחו את הפרטיות שלכם איתכם.
 ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך, אפילו כשנמצאים בחלון פרטי.
 ipprotection-feature-introduction-description-private-browsing = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשנמצאים בחלון פרטי.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = ניתן להסתיר את המיקום שלך לקבלת <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> תוך כדי הגלישה. אפשר להגדיר כללים להפעלת ה־VPN לקבלת פרטיות מוגברת או לגלישה מבוססת מיקום, ולהשאיר אותו כבוי במקומות שבהם אין בו צורך.
 ipprotection-feature-introduction-title-captive-portal = התחברת ל־Wi-Fi ציבורי? ניתן לנסות את ה־VPN המובנה של { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשמחוברים ל־Wi-Fi ציבורי.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -52,6 +54,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = הסרת VPN מסרגל הכלים
 ipprotection-feature-introduction-button-open-vpn = פתיחת VPN
 ipprotection-feature-introduction-button-get-started = תחילת עבודה
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = מקסימום פרטיות עם ה־VPN המובנה של { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -104,6 +110,11 @@ ipprotection-android-promo-callout-primary-button = הבנתי
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = הגדרת כללים ל־VPN המובנה, וגלישה בראש שקט
+ipprotection-site-inclusions-callout-title-lapsed-users = כדאי לנסות את ה־VPN המובנה, עכשיו לפי אתר
+ipprotection-site-inclusions-callout-description = ניתן להפעיל אותו כשנדרשת פרטיות מוגברת או גלישה מבוססת מיקום, ולהשבית אותו במקומות שבהם אין בו צורך.
+ipprotection-site-inclusions-callout-primary-button = הגדרת כללים
 ipprotection-site-inclusions-callout-secondary-button-existing-users = לא כעת
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = סגירה
 
