@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = 날짜 및 사이트
 sidebar-history-sort-option-last-visited =
     .label = 최근 방문
+sidebar-history-sort-option-most-visited =
+    .label = 자주 방문 순
 
 ## Labels for sidebar search
 

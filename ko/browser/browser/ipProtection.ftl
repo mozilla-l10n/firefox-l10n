@@ -113,6 +113,9 @@ ipprotection-android-promo-callout-primary-button = 확인
 
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = 내장 VPN 규칙을 설정하고, 계속해서 자유롭게 탐색해 보세요
+ipprotection-site-inclusions-callout-title-lapsed-users = 이제 사이트별로 내장 VPN을 이용해 보세요
+ipprotection-site-inclusions-callout-description = 추가적인 개인 정보 보호 또는 위치 기반 탐색이 필요할 때 켜고 그렇지 않은 곳에서 끌 수 있습니다.
+ipprotection-site-inclusions-callout-primary-button = 규칙 설정
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 나중에
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 닫기
 
