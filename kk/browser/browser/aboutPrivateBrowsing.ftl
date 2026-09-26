@@ -92,4 +92,10 @@ about-private-browsing-spotlight-basics-subtitle = Жекелік терезел
 about-private-browsing-spotlight-basics-what-to-know = Не білу керек
 about-private-browsing-spotlight-basics-activity-seen = Кейбір белсенділікті сайттар, іздеу қозғалтқыштары, интернет-провайдерлер немесе жұмыс берушіңіз бәрібір көруі мүмкін.
 about-private-browsing-spotlight-basics-bookmarks-downloads = Бетбелгілер мен жүктеп алынған файлдар құрылғыңызда қалады және адрес жолағында көрінуі мүмкін.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Жекелікті көбірек қорғау
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } зиянкес бағдарламалар мен алдамшы сайттар туралы сізге автоматты түрде ескертеді.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } қатысушы сайттардан жеке деректеріңізді сатпауды немесе бөліспеуді автоматты түрде сұрайды.
 about-private-browsing-spotlight-basics-learn-more = Көбірек білу
