@@ -134,6 +134,16 @@ a11y-activated = ਸਰਗਰਮ ਹੈ
 a11y-force-disabled = ਅਸੈਸਬਿਲਟੀ ਰੋਕੋ
 a11y-handler-used = ਵਰਤੇ ਗਏ ਅਸੈਸਬਲ ਹੈਂਡਲਰ
 a11y-instantiator = ਅਸੈਸਬਿਲਟੀ ਇੰਸਟੈਂਟੀਏਟਰ
+pdfjs-title = PDF ਦਰਸ਼ਕ
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js ਵਰਜ਼ਨ
+pdfjs-enabled = ਸਮਰੱਥ ਹੈ
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = ਵਿਆਖਿਆ ਸੰਪਾਰਕ ਸਮਰੱਥ ਹੈ
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA ਫਾਰਮ ਸਮਰੱਥ ਹਨ
+pdfjs-open-attachments-inline = PDF ਅਟੈਚਮੈਂਟ ਨੂੰ ਵਿੱਚ ਹੀ ਖੋਲ੍ਹੋ
 library-version-title = ਲਾਇਬਰੇਰੀ ਵਰਜ਼ਨ
 copy-text-to-clipboard-label = ਟੈਕਸਟ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ
 copy-raw-data-to-clipboard-label = ਰਾਅ ਡਾਟਾ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ

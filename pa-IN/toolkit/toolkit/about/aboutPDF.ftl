@@ -28,6 +28,7 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } PDF ਟੂਲ
+about-pdf-features-intro = ਜਿੱਥੇ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ, ਓਥੇ ਨਾਲ ਹੀ PDF ਨੂੰ ਪੜ੍ਹੋ, ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ ਅਤੇ ਦਸਤਖ਼ਤ ਕਰੋ। ਇਸ ਸੌਖਾ, ਮੁਫ਼ਤ ਅਤੇ ਪ੍ਰਾਈਵੇਟ ਹੈ।
 about-pdf-features-back =
     .label = ਪਿੱਛੇ
 about-pdf-feature-organize-heading = ਸਫ਼ਿਆਂ ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ

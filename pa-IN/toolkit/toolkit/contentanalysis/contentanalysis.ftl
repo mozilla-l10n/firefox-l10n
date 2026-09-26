@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } ਤੁਹਾਡੇ ਵਲੋਂ ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਨੀਤੀਆਂ ਦੇ ਉਲਟ ਚੇਪਣ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਪਾਲਸੀ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਕਾਪੀ ਕੀਤੇ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਕੁ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } ਤੁਹਾਡ
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਪਾਲਸੀ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਪਰਿੰਟ ਕੀਤੇ ਦੀ ਪੜਤਾਲ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਨੂੰ ਕੁਝ ਕੁ ਪਲ਼ ਲੱਗ ਸਕਦੇ ਹਨ।
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = ਇਸ ਸਮੱਗਰੀ ਨੂੰ ਕਾਪੀ ਕਰਨ ਉੱਤੇ ਤੁਹਾਡੇ ਸੰਗਠਨ ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਈ ਹੋਈ ਹੈ।
 contentanalysis-operationtype-clipboard = ਕਲਿੱਪਬੋਰਡ
+contentanalysis-operationtype-clipboard-copy = ਕਾਪੀ ਕੀਤੀ ਸਮੱਗਰੀ
 contentanalysis-operationtype-dropped-text = ਡਰੌਪ ਕੀਤੀ ਲਿਖਤ
 contentanalysis-operationtype-print = ਪਰਿੰਟ ਕਰੋ
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = { $agent } ਲਈ ਦ�
 contentanalysis-error-message-upload-file = “{ $filename }” ਦੇ ਅੱਪਲੋਡ ਤੋਂ ਇਨਕਾਰ ਹੈ।
 contentanalysis-error-message-dropped-text = ਡਰੈਗ ਅਤੇ ਡਰੌਪ ਤੋਂ ਇਨਕਾਰ ਹੈ।
 contentanalysis-error-message-clipboard = ਚੇਪਣ ਤੋਂ ਇਨਕਾਰ ਹੈ।
+contentanalysis-error-message-clipboard-copy = ਕਾਪੀ ਕਰਨ ਉੱਤੇ ਰੋਕ ਲਾਈ।
 contentanalysis-error-message-print = ਛਾਪਣ ਦੇਣ ਤੋਂ ਇਨਕਾਰ ਹੈ।
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = ਤੁਹਾਨੂੰ ਇਸ 
 contentanalysis-block-dialog-body-download-file = ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਦੇ ਤਹਿਤ ਤੁਹਾਨੂੰ “{ $filename }” ਫ਼ਾਇਲ ਡਾਊਨਲੋਡ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਆਪਣੇ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।
 contentanalysis-block-dialog-title-clipboard = ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਚੇਪਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 contentanalysis-block-dialog-body-clipboard = ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਦੇ ਤਹਿਤ ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਚੇਪਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਆਪਣੇ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।
+contentanalysis-block-dialog-title-clipboard-copy = ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਕਾਪੀ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
+contentanalysis-block-dialog-body-clipboard-copy = ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਦੇ ਤਹਿਤ ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਕਾਪੀ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਆਪਣੇ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।
 contentanalysis-block-dialog-title-dropped-text = ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਸੁੱਟਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 contentanalysis-block-dialog-body-dropped-text = ਤੁਹਾਡੇ ਸੰਗਠਨ ਦੀਆਂ ਡਾਟਾ ਸੁਰੱਖਿਆ ਨੀਤੀਆਂ ਦੇ ਤਹਿਤ ਤੁਹਾਨੂੰ ਇਹ ਸਮੱਗਰੀ ਨੂੰ ਡਰੈਗ ਡਰੌਪ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਆਪਣੇ ਪਰਸ਼ਾਸ਼ਕ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।
 contentanalysis-block-dialog-title-print = ਤੁਹਾਨੂੰ ਇਸ ਦਸਤਾਵੇਜ਼ ਨੂੰ ਪਰਿੰਟ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
