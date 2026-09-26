@@ -46,4 +46,4 @@ about-pdf-feature-view-description = גלילה אנכית או אופקית, א
 about-pdf-feature-presentation-heading = הצגת קובצי PDF במסך מלא
 about-pdf-feature-presentation-description = שיתוף תצוגה נקייה במצב מצגת.
 about-pdf-feature-details-heading = למצוא פרטים מהר יותר
-about-pdf-feature-details-description = השתמש בקווי מתאר, קבצים מצורפים ומאפיינים כדי לנווט בין קובצי PDF.
+about-pdf-feature-details-description = שימוש בקווי מתאר, קבצים מצורפים ומאפיינים כדי לנווט בין קובצי PDF.
