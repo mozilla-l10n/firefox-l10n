@@ -34,3 +34,7 @@ about-pdf-feature-organize-heading = Беттерді ұйымдастыру
 about-pdf-feature-organize-description = Беттерді ретін өзгерту, өшіру, біріктіру және экспорттау.
 about-pdf-feature-signatures-heading = Қолтаңбаларды сақтау
 about-pdf-feature-signatures-description = Бірнеше қолтаңба жасап, оларды формаларға қосыңыз.
+about-pdf-feature-presentation-heading = PDF файлдарын толық экранда көрсету
+about-pdf-feature-presentation-description = Презентация режимінде таза көріністі бөлісу.
+about-pdf-feature-details-heading = Мәліметтерді тезірек табу
+about-pdf-feature-details-description = PDF файлдары арасында жылжу үшін мазмұнды, салынымдарды және қасиеттерді пайдалану.

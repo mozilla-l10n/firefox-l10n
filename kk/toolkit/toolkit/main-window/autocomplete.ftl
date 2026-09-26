@@ -32,6 +32,14 @@ autocomplete-edit-address = Бұл адресті түзету
 autocomplete-delete-address = Бұл адресті өшіру
 autocomplete-edit-payment-method = Бұл төлем әдісін түзету
 autocomplete-delete-payment-method = Бұл төлем әдісін өшіру
+# aria-label and tooltip for the trash button on a form history entry.
+# Variables:
+#   $entry (String) - The text of the saved form history entry that would be deleted.
+autocomplete-delete-form-history-entry2 = Форма тарихынан { $entry } жазбасын өшіру
+# aria-label and tooltip for the button that opens the edit/delete menu.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-actions2 = { $entry } үшін көбірек әрекеттер
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.

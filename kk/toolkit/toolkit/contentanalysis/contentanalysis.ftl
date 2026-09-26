@@ -30,6 +30,10 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } агенті с
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } агенті сіз баспағ шығарған нәрсенің ұйымыңыздың деректер саясаттарына сәйкес болуына қарап жатыр. Бұл біраз уақыт алуы мүмкін.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Бұл мазмұнды көшіруге сіздің ұйымыңыз тыйым салған.
 contentanalysis-operationtype-clipboard = алмасу буфері
 contentanalysis-operationtype-clipboard-copy = көшірілген мазмұн
 contentanalysis-operationtype-dropped-text = тасталған мәтін
