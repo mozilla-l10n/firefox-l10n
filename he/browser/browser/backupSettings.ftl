@@ -177,6 +177,7 @@ change-backup-encryption-header = שינוי ססמת הגיבוי
 
 password-rules-header = דרישות ססמה
 password-rules-length-description = לפחות 8 תווים
+password-rules-email-description2 = לא כתובת דוא״ל
 password-rules-email-description = לא כתובת הדוא״ל שלך
 password-rules-disclaimer = שמרו על עצמכם - אל תשתמשו באותה הססמה במקומות שונים. ניתן לעיין בעצות נוספות <a data-l10n-name="password-support-link">ליצירת ססמאות חזקות</a>.
 password-validity-has-email = הססמה לא יכולה להיות כתובת דוא״ל
