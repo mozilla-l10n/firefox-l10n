@@ -28,6 +28,10 @@ appearance-browser-icon-subpage-title =
 
 appearance-browser-icon-basic-group =
     .label = 標準
+# “Bonus” rather than “Special” as these are additional icons unlocked by an
+# action.
+appearance-browser-icon-bonus-group2 =
+    .label = 獎勵
 appearance-browser-icon-bonus-group =
     .label = 特殊
 

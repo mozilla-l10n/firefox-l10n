@@ -160,7 +160,14 @@ appmenu-fxa-last-sync = 上次同步於 { $time }
     .label = 上次同步於 { $time }
 appmenu-fxa-sync-and-save-data2 = 同步並儲存資料
 appmenu-fxa-signed-in-label = 登入
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = 在所有地方同步您的資料
 appmenu-fxa-sign-in-promo-link = 登入
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = 關閉登入宣傳
+    .title = 知道了！
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = 登入 Sync
