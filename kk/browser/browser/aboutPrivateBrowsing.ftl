@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = Менің белсенділ
 
 about-private-browsing-nova-info-body = Барлық жеке терезелерді жабу cookie файлдарын, тарихты және сайт деректерін өшіреді.
 about-private-browsing-nova-info-link = Менің әрекеттерімді тағы кім көруі мүмкін?
+about-private-browsing-private-window-basics-link = Жекелік терезесі негіздері
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"

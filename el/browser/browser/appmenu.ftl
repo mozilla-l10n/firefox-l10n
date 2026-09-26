@@ -165,6 +165,9 @@ appmenu-fxa-signed-in-label = Σύνδεση
 # dismiss it, after which the compact sign-in row is shown in its place.
 appmenu-fxa-sign-in-promo-heading2 = Συγχρονίστε τα δεδομένα σας παντού
 appmenu-fxa-sign-in-promo-link = Σύνδεση
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Απόρριψη προωθητικής ενέργειας σύνδεσης
+    .title = Απόρριψη
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Σύνδεση στο Sync

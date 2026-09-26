@@ -5,6 +5,8 @@
 about-pdf-title = Εργαλείο επεξεργασίας PDF του { -brand-short-name }
 about-pdf-header = Εργαλείο PDF του { -brand-short-name }
 about-pdf-tagline = Ένα δωρεάν εργαλείο για ανάγνωση, συγχώνευση, υπογραφή, σχολιασμό και πολλά άλλα, με σεβασμό στο απόρρητό σας
+about-pdf-features-cta =
+    .label = Εξερευνήστε τα εργαλεία PDF
 about-pdf-dropzone =
     .title = Αποθέστε ένα PDF εδώ για να ξεκινήσετε ή πατήστε το Enter
 about-pdf-dropzone-hint = Αποθέστε ένα PDF εδώ για να ξεκινήσετε
