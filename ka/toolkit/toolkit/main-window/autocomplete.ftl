@@ -48,7 +48,11 @@ autocomplete-remove-password-title = წაიშალოს პაროლი
 autocomplete-remove-address-title = წაიშალოს მისამართი?
 autocomplete-remove-payment-method-title = წაიშალოს გადახდის საშუალება?
 autocomplete-remove-record-message = ეს ქმედება შეუქცევადია.
+autocomplete-delete-record-button = წაშლა
 autocomplete-remove-record-button = მოცილება
+autocomplete-delete-password-title = წაიშალოს პაროლი?
+autocomplete-delete-address-title = წაიშალოს მისამართი?
+autocomplete-delete-payment-method-title = წაიშალოს გადახდის საშუალება?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

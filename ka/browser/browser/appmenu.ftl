@@ -161,6 +161,11 @@ appmenu-fxa-last-sync = ბოლო დასინქრონება { $tim
 appmenu-fxa-sync-and-save-data2 = დასინქრონება და შენახვა
 appmenu-fxa-signed-in-label = შესვლა
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = დაასინქრონეთ თქვენი მონაცემები ყველგან
+appmenu-fxa-sign-in-promo-link = შესვლა
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = დასინქ. შესვლა
 appmenu-fxa-sign-in-promo-message = ყველგან წაიყოლეთ თქვენი მონაცემები
