@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Reinitio necessari
+restart-required-heading2 = Desolate, { -brand-short-name } besonia de un rapide reinitialisation
+restart-required-intro2 = { -brand-short-name } debe finir un actualisation. Reinitialisar pro mantener le cosas secur e lisie.
 restart-required-more-details-heading = Altere detalios
 restart-button-label2 = Reinitiar
 # Expands the "More details" section below the buttons.
