@@ -48,7 +48,11 @@ autocomplete-remove-password-title = להסיר את הססמה?
 autocomplete-remove-address-title = להסיר את הכתובת?
 autocomplete-remove-payment-method-title = להסיר את אמצעי התשלום?
 autocomplete-remove-record-message = לא ניתן לבטל פעולה זו.
+autocomplete-delete-record-button = מחיקה
 autocomplete-remove-record-button = הסרה
+autocomplete-delete-password-title = למחוק את הססמה?
+autocomplete-delete-address-title = למחוק את הכתובת?
+autocomplete-delete-payment-method-title = למחוק את אמצעי התשלום?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
