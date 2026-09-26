@@ -165,6 +165,12 @@ home-prefs-mission-message-learn-more-link-srd = Қалай екенін біл�
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Көбірек білу
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Жекелік опциялары
+    .title = Жекелік опциялары
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -341,6 +347,9 @@ newtab-stocks-search-button =
     .aria-label = Аты немесе белгісі бойынша іздеу
     .label = Іздеу
     .title = Аты немесе белгісі бойынша іздеу
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Сіз үшін маңызды акцияларды бақылай бастаңыз
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.

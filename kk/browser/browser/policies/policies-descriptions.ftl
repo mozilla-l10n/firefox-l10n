@@ -30,6 +30,7 @@ policy-BlockAboutSupport = about:support парағына қатынауды б�
 policy-Bookmarks = Бетбелгілерді Бетбелгілер панелінде, Бетбелгілер мәзірінде, немесе олардың ішіндегі көрсетілген бумада жасаңыз.
 policy-CaptivePortal = Ұстайтын портаға қолдауды іске қосу немесе сөндіру.
 policy-CertificatesDescription = Сертификаттарды қосу немесе құрамындағы сертификаттарды пайдалану.
+policy-ClearOnShutdown = { -brand-short-name } жабылған кезде шолу деректерін тазалау.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.

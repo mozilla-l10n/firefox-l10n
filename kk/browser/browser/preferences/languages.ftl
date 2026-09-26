@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Орнатылған тілдер
 browser-languages-available-label = Қолжетімді тілдер
 browser-languages-error = { -brand-short-name } тілдеріңізді қазір жаңарта алмайды. Интернетпен байланысыңызды тексеріңіз, немесе қайталап көріңіз.
+browser-languages-update-error =
+    .message = { -brand-short-name } тілдеріңізді қазір жаңарта алмайды. Интернетпен байланысыңызды тексеріңіз, немесе қайталап көріңіз.

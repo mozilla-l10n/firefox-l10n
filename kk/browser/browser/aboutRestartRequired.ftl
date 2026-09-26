@@ -3,6 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Қайта іске қосу керек
+restart-button-label2 = Қайта қосу
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Көбірек қарау
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Азырақ қарау
 restart-required-heading = { -brand-short-name } қолдануды жалғастыру үшін қайта қосу
 restart-required-intro = { -brand-short-name } жаңартуы фондық режимде басталды. Жаңартуды аяқтау үшін қайта іске қосу керек.
 window-restoration-info = Жекелік терезелерден басқа терезелер мен беттер жылдам қалпына келтіріледі.

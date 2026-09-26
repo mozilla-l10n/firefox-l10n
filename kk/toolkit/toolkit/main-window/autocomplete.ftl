@@ -40,7 +40,11 @@ autocomplete-remove-password-title = Парольді өшіру керек пе
 autocomplete-remove-address-title = Адресті өшіру керек пе?
 autocomplete-remove-payment-method-title = Төлем әдісін өшіру керек пе?
 autocomplete-remove-record-message = Бұл әрекетті болдырмау мүмкін емес.
+autocomplete-delete-record-button = Өшіру
 autocomplete-remove-record-button = Өшіру
+autocomplete-delete-password-title = Парольді өшіру керек пе?
+autocomplete-delete-address-title = Адресті өшіру керек пе?
+autocomplete-delete-payment-method-title = Төлем әдісін өшіру керек пе?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

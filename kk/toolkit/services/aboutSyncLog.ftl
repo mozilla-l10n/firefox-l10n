@@ -49,6 +49,15 @@ about-sync-log-count =
         [one] { $count } журнал
        *[other] { $count } журнал
     }
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = Сәтті аяқталды — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = Қате — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
 # Variables:
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").

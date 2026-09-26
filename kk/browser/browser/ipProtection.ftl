@@ -103,6 +103,7 @@ ipprotection-android-promo-callout-primary-button = Түсіндім
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+ipprotection-site-inclusions-callout-primary-button = Ережелерді орнату
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Қазір емес
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Елемеу
 

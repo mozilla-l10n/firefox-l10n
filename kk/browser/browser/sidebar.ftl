@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Күні және сайт
 sidebar-history-sort-option-last-visited =
     .label = Соңғы қаралған
+sidebar-history-sort-option-most-visited =
+    .label = Көбірек қаралатын
 
 ## Labels for sidebar search
 

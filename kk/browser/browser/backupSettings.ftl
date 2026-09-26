@@ -177,6 +177,7 @@ change-backup-encryption-header = Сақтық көшірме паролін ө�
 
 password-rules-header = Парольге қойылатын талаптар
 password-rules-length-description = Кемінде 8 таңба
+password-rules-email-description2 = Эл. пошта адресі емес
 password-rules-email-description = Сіздің эл. пошта адресіңіз емес
 password-rules-disclaimer = Қауіпсіз болыңыз — парольдерді қайта қолданбаңыз. <a data-l10n-name="password-support-link">Мықты парольдерді жасау</a> бойынша қосымша кеңестерді қараңыз.
 password-validity-has-email = Эл. пошта адресі болмауы тиіс
