@@ -15,6 +15,11 @@ restart-required-single-instance-question = 저는 여러 프로필이나 인스
 restart-required-single-instance-answer = { -brand-short-name }가 열려 있는 동안 백그라운드로 업데이트가 적용되면 { -brand-short-name }를 다시 시작해야 할 수 있습니다.
 restart-required-single-instance-answer-2 = 이는 긴 탐색 세션을 사용하거나 운영 체제가 { -brand-short-name }를 업데이트할 때 발생할 수 있습니다. 다시 시작하면 { -brand-short-name }를 안전하게 보호하고 정상적으로 작동합니다.
 restart-required-unsaved-work-question = 저장하지 않은 작업을 잃을 수 있나요?
+restart-required-unsaved-work-answer = 그럴 가능성이 있으며, 이로 인해 불편을 겪으실 수 있음을 잘 알고 있습니다. { -brand-short-name }를 다시 시작하면 열려 있던 탭들은 다시 열리지만, 웹 페이지 내에서 양식에 작성 중이던 텍스트 같이 저장되지 않은 작업은 복원되지 않을 수 있습니다. 사생활 보호 창은 개인 정보 보호를 위해 다시 열리지 않습니다.
+restart-required-fix-question = 이거 정말 짜증 나네요! { -brand-short-name }에서 해결책을 준비 중인가요?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = 네. 우리는 이로 인해 작업에 방해가 된다는 점을 잘 알고 있으며, 이러한 현상을 방지하기 위한 해결책을 개발 중입니다. 진행 상황은 Bugzilla의 버그 2072739번에서 확인하실 수 있습니다.
 restart-button-label2 = 다시 시작
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = 더 보기

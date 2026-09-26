@@ -177,6 +177,7 @@ change-backup-encryption-header = 백업 비밀번호 변경
 
 password-rules-header = 비밀번호 요구 사항
 password-rules-length-description = 최소 8자 이상
+password-rules-email-description2 = 이메일 주소는 포함할 수 없음
 password-rules-email-description = 사용자의 이메일 주소가 아니어야 함
 password-rules-disclaimer = 안전을 위해 비밀번호를 재사용하지 마세요. <a data-l10n-name="password-support-link">강력한 비밀번호를 만드는 방법</a>에 대한 추가 팁을 확인하세요.
 password-validity-has-email = 이메일 주소를 사용할 수 없음
