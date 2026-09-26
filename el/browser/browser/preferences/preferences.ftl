@@ -763,7 +763,7 @@ is-not-default-browser-2 =
     .message = Ψιτ, το { -brand-short-name } δεν έχει οριστεί ως προεπιλογή.
 set-as-my-default-browser-2 =
     .label = Ορισμός ως προεπιλογή
-    .accesskey = Π
+    .accesskey = ρ
 
 ## Custom Homepage subpage
 

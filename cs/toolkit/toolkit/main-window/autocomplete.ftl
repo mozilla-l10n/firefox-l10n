@@ -48,6 +48,7 @@ autocomplete-remove-password-title = Odstranit heslo?
 autocomplete-remove-address-title = Odebrat adresu?
 autocomplete-remove-payment-method-title = Odebrat platební metodu?
 autocomplete-remove-record-message = Tuto akci nelze vrátit zpět.
+autocomplete-delete-record-button = Smazat
 autocomplete-remove-record-button = Odebrat
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete

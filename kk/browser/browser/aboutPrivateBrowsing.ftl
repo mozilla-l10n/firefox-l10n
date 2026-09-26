@@ -76,6 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = Менің белсенділ
 about-private-browsing-nova-info-body = Барлық жеке терезелерді жабу cookie файлдарын, тарихты және сайт деректерін өшіреді.
 about-private-browsing-nova-info-link = Менің әрекеттерімді тағы кім көруі мүмкін?
 about-private-browsing-private-window-basics-link = Жекелік терезесі негіздері
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } шолу кезінде кірістірілген бақылаудан қорғаныс арқылы жекелігіңізді қорғауға арналған. Шолуыңызды осы құрылғыны пайдаланатын басқалардан жеке сақтау үшін, бұл терезені жабу оның тарихын, cookie файлдары және сайт деректерін өшіреді.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -84,7 +85,11 @@ about-private-browsing-nova-info-subheader2 = Сіз барлық жекелік
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Жекелік терезесі негіздері
+about-private-browsing-spotlight-basics-subtitle = Жекелік терезелері шолуыңызды осы құрылғыдағы басқалардан жеке сақтауға көмектеседі. Олар сізді жасырын етпейді және барлық деректеріңізді тазартпайды.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Не білу керек
+about-private-browsing-spotlight-basics-activity-seen = Кейбір белсенділікті сайттар, іздеу қозғалтқыштары, интернет-провайдерлер немесе жұмыс берушіңіз бәрібір көруі мүмкін.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Бетбелгілер мен жүктеп алынған файлдар құрылғыңызда қалады және адрес жолағында көрінуі мүмкін.
 about-private-browsing-spotlight-basics-learn-more = Көбірек білу

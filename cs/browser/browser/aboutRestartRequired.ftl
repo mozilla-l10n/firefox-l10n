@@ -3,6 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Vyžadován restart
+restart-required-why-now-question = Proč právě teď?
+restart-required-more-details-heading = Více informací
+restart-button-label2 = Restartovat
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Zobrazit více
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Zobrazit méně
 restart-required-heading =
     { -brand-short-name.case-status ->
         [with-cases] Restartovat a pokračovat v používání { -brand-short-name(case: "gen") }

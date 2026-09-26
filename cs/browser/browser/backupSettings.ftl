@@ -197,6 +197,7 @@ change-backup-encryption-header = Změna hesla zálohy
 
 password-rules-header = Požadavky na heslo
 password-rules-length-description = Alespoň 8 znaků
+password-rules-email-description2 = Není e-mailovou adresou
 password-rules-email-description = Neměla by to být vaše e-mailová adresa
 password-rules-disclaimer = Buďte v bezpečí – neopakujte svá hesla. Podívejte se na další tipy pro <a data-l10n-name="password-support-link">vytváření silných hesel</a>.
 password-validity-has-email = Nemůže to být e-mailová adresa
