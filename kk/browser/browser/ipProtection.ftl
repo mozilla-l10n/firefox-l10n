@@ -105,6 +105,7 @@ ipprotection-android-promo-callout-primary-button = Түсіндім
 
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Кіріктірілген VPN ережелерін орнатыңыз, содан кейін шолуды жалғастырыңыз
+ipprotection-site-inclusions-callout-title-lapsed-users = Кіріктірілген VPN қолданып көріңіз, енді оны сайт бойынша іске қосуға болады
 ipprotection-site-inclusions-callout-primary-button = Ережелерді орнату
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Қазір емес
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Елемеу
