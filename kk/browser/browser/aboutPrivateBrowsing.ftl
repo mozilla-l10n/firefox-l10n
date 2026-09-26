@@ -80,3 +80,10 @@ about-private-browsing-nova-info-link = Менің әрекеттерімді т
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Сіз жазбадан тыссыз
 about-private-browsing-nova-info-subheader2 = Сіз барлық жекелік терезелерді жапқан кезде біз әрбір іздеу мен кіруді өшіреміз. { -brand-short-name } бағдарламасының трекерлерді блоктау сияқты кірістірілген қорғаулары да мұнда іске қосулы.
+
+## Strings for the Private Window basics spotlight
+
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Не білу керек
+about-private-browsing-spotlight-basics-learn-more = Көбірек білу

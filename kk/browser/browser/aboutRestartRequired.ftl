@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Қайта іске қосу керек
+restart-required-heading2 = Кешіріңіз, { -brand-short-name } жылдам қайта іске қосуды қажет етеді
+restart-required-intro2 = { -brand-short-name } жаңартуды аяқтауы керек. Қауіпсіз және кедергісіз жұмыс істеу үшін оны қайта іске қосыңыз.
 restart-required-why-now-question = Неге қазір?
 restart-required-more-details-heading = Көбірек ақпарат
 restart-button-label2 = Қайта қосу
