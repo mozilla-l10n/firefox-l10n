@@ -98,4 +98,8 @@ about-private-browsing-spotlight-basics-more-privacy = Жекелікті көб
 about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } зиянкес бағдарламалар мен алдамшы сайттар туралы сізге автоматты түрде ескертеді.
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
 about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } қатысушы сайттардан жеке деректеріңізді сатпауды немесе бөліспеуді автоматты түрде сұрайды.
+about-private-browsing-spotlight-basics-vpn = Орналасуыңызды анықтауды қиындату үшін кірістірілген VPN-ді пайдаланыңыз.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Бақылаудан күштірек қорғау үшін баптауларда «Қатаң» режиміне ауысыңыз.
 about-private-browsing-spotlight-basics-learn-more = Көбірек білу

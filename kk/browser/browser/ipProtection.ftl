@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Жекеліктің тағы 
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } кірістірілген VPN-і</a> шолуыңызды қорғауға көмектеседі. Шолу орнын құпиялырақ сақтау үшін бірнеше орналасудың бірін таңдаңыз.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ішіне орнатылған VPN</a> шолуыңызды қорғауға көмектеседі. Шолуыңызды көбірек жеке сақтау үшін бірнеше орналасудың бірін таңдаңыз.
 ipprotection-feature-introduction-link-text-privacy-3 = Шолу кезінде қай жерде екеніңізді жасыру үшін бірнеше орналасудың бірін таңдап, <a data-l10n-name="learn-more-vpn">қосымша жекелікке</a> қол жеткізіңіз.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Шолу кезінде <a data-l10n-name="learn-more-vpn">қосымша жекелік</a> үшін орналасуыңызды жасыруға көмектеседі. VPN-ді белгілі бір сайттар үшін іске қосыңыз немесе сөндіріңіз.
 ipprotection-feature-introduction-text-summer-promo-1 = Шолуды барынша жеке сақтау үшін оны іске қосыңыз. <a data-l10n-name="summer-promo-link">Шексіз өткізу жолағын</a> және шолуға арналған көбірек орналасуларды алыңыз. 31 тамызға дейін жарамды.
 ipprotection-feature-introduction-title-summer-promo = Сапарға шығуды жоспарладыңыз ба? Жекелікті өзіңізбен бірге алыңыз.
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name } ішіне ендірілген VPN арқылы көбірек мүмкіндікке ие болыңыз: көбірек орналасулар, шексіз өткізу жолағы. 31 тамызға дейін жарамды.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Жекелік шолу терезесінде болсаңыз да, орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-description-private-browsing = Жекелік терезесінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Шолу кезінде <a data-l10n-name="learn-more-vpn">қосымша жекелік</a> үшін орналасуыңызды жасыруға көмектесіңіз. Қосымша жекелік немесе орналасуға негізделген шолу үшін VPN-ді қосу, ал қажет емес жерде сөндіру ережелерін орнатыңыз.
 ipprotection-feature-introduction-title-captive-portal = Жалпыға ортақ Wi-Fi желісіндесіз бе? { -brand-product-name } құрамындағы VPN қызметін қолданып көріңіз.
 ipprotection-feature-introduction-description-captive-portal = Қоғамдық Wi-Fi желісінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN-ды саймандар тақтасынан алып тастау
 ipprotection-feature-introduction-button-open-vpn = VPN ашу
 ipprotection-feature-introduction-button-get-started = Бастау
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = { -brand-product-name } кірістірілген VPN көмегімен жекелікті барынша арттырыңыз
 
 ## Summer promo offramp callout buttons
 
@@ -106,6 +114,7 @@ ipprotection-android-promo-callout-primary-button = Түсіндім
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Кіріктірілген VPN ережелерін орнатыңыз, содан кейін шолуды жалғастырыңыз
 ipprotection-site-inclusions-callout-title-lapsed-users = Кіріктірілген VPN қолданып көріңіз, енді оны сайт бойынша іске қосуға болады
+ipprotection-site-inclusions-callout-description = Қосымша жекелік немесе орналасуға негізделген шолу қажет болғанда оны іске қосыңыз, ал қажет болмаған кезде сөндіріңіз.
 ipprotection-site-inclusions-callout-primary-button = Ережелерді орнату
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Қазір емес
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Елемеу

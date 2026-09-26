@@ -544,6 +544,15 @@ onboarding-refresh-gratitude-title = { -brand-short-name } сізді қолда
 onboarding-refresh-splash-screen-title = { -brand-product-name } қазірдің өзінде сізді қолдайды
 onboarding-refresh-hero-text = Сізді бақылау үшін емес, қорғау үшін жасалған.
 onboarding-refresh-tou-default = Барлық сілтемелерді { -brand-short-name } арқылы ашу
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } қолданбасын док панелінде сақтау
+       *[other] { -brand-short-name } тапсырмалар панеліне қосу
+    }
+onboarding-refresh-tou-default-unchecked = Әр шолу жасаған сайын кірістірілген қорғауды сақтау
+onboarding-refresh-tou-pin-unchecked = Жалғыз ірі тәуелсіз браузерді бір шерту қашықтығында сақтау
+onboarding-refresh-terms-of-use-with-links = Жалғастыру арқылы сіз <a data-l10n-name="terms_of_use">{ -brand-product-name } қолдану шарттарымен</a> және біздің <a data-l10n-name="privacy_notice">Жекелік туралы ескертуімізбен</a> келісесіз. Браузерді жақсартуға көмектесу үшін { -brand-product-name } өзара әрекеттесу және диагностикалық деректерді { -vendor-short-name } жібереді.
+onboarding-refresh-data-collection-link = Деректерді жинау баптауларын басқару
 onboarding-refresh-primary-button = Жалғастыру
 onboarding-refresh-fro-import-header = Деректеріңізді әкеліңіз
 onboarding-refresh-fro-skip-button = Аттап кету
