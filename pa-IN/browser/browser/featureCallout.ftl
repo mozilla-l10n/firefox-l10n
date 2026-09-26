@@ -137,6 +137,7 @@ taskbar-tabs-value-prop-callout-subtitle = ਇਸ ਨੂੰ ਇੱਕ ਕਲਿ�
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਤੋਂ ਕਨੈਕਟ ਰਹੋ
 taskbar-tabs-email-callout-title-v3 = ਆਪਣੇ ਇਨਬਾਕਸ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਰੱਖੋ
+taskbar-tabs-email-callout-subtitle-v3 = ਆਪਣੀਆਂ ਈਮੇਲ ਸਾਈਟਾਂ ਨੂੰ { -brand-short-name } ਵਲੋਂ ਸੁਰੱਖਿਅਤ ਸੁਚਾਰੂ ਵਿੰਡੋ ਵਿੱਚ ਐਪ ਵਾਗੂੰ ਚਲਾਓ।
 taskbar-tabs-media-callout-title-v3 = ਆਪਣੀ ਸਟਰੀਮਿੰਗ ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਰੱਖੋ
 taskbar-tabs-value-prop-callout-title-v3 = ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਸਾਈਟਾਂ ਨੂੰ ਆਪਣੀ ਟਾਸਕਪੱਟੀ ਵਿੱਚ ਟੰਗੋ
 taskbar-tabs-gaming-callout-title-v3 = ਗੇਮ ਉੱਤੇ ਵਾਪਸ ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚੋਂ ਜਾਓ

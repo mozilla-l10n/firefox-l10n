@@ -550,6 +550,7 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਹਰ ਵੇਲੇ ਵਿੱਚ ਮੌਜੂਦ ਸੁਰੱਖਿਆ ਨੂੰ ਰੱਖੋ
 onboarding-refresh-tou-pin-unchecked = ਸਿਰਫ਼ ਇੱਕੋ-ਵੱਖ ਵੱਡੇ ਆਜ਼ਾਦ ਬਰਾਊਜ਼ਰ ਨੂੰ ਆਪਣੇ ਕਲਿੱਕ ਵਿੱਚ ਰੱਖੋ
+onboarding-refresh-terms-of-use-with-links = ਜਾਰੀ ਰੱਖ ਕੇ ਤੁਸੀਂ <a data-l10n-name="terms_of_use">ਵਰਤਣ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ ਸਾਡੀ <a data-l10n-name="privacy_notice">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। ਬਰਾਊਜ਼ਰ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਮਦਦ ਵਾਸਤੇ { -brand-product-name } { -vendor-short-name } ਨੂੰ ਜਾਂਚ-ਪੜਤਾਲ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਭੇਜਦਾ ਹੈ।
 onboarding-refresh-data-collection-link = ਡਾਟਾ ਇਕੱਤਰਤਾ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 onboarding-refresh-primary-button = ਜਾਰੀ ਰੱਖੋ
 onboarding-refresh-fro-import-header = ਆਪਣਾ ਡਾਟਾ ਨਾਲ ਲਿਆਓ
@@ -560,6 +561,12 @@ onboarding-refresh-tab-layout-header = ਵੱਖਰਾ ਟੈਬ ਖਾਕਾ �
 onboarding-refresh-tab-layout-top = ਉੱਤੇ
 onboarding-refresh-tab-layout-side = ਪਾਸੇ
 onboarding-refresh-tab-layout-minimal = ਘੱਟੋ-ਘੱਟ
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = ਬਰਾਊਜ਼ਰ ਵਿੰਡੋ ਟੈਬਾਂ ਨੂੰ ਘੱਟੋ-ਘੱਟ ਕੀਤੀ ਬਾਹੀ ਵਿੱਚ ਸਕਰੀਨ ਦੇ ਨਾਲ ਛੋਟੇ ਆਈਕਾਨ ਦੇ ਵਜੋਂ ਦਿਖਾਉਂਦੀ ਹੈ।
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = ਬਰਾਊਜ਼ਰ ਵਿੰਡੋ ਟੈਬਾਂ ਨੂੰ ਘੱਟੋ-ਘੱਟ ਕੀਤੀ ਬਾਹੀ ਵਿੱਚ ਸਕਰੀਨ ਦੇ ਨਾਲ ਛੋਟੇ ਆਈਕਾਨ ਦੇ ਵਜੋਂ ਦਿਖਾਉਂਦੀ ਹੈ।
 
 ## Smart window switcher callout
 
