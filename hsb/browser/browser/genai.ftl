@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = { $provider } wotstronić
 genai-menu-remove-sidebar =
     .label = Z bóčnicy wotstronić
+genai-shortcut-button-3 =
+    .aria-label = Za tutym tekstom so prašeć
+    .tooltiptext = Za tutym tekstom so prašeć
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = { $provider } so prašeć

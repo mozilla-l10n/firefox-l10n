@@ -256,7 +256,7 @@ places-locked-prompt = Systemet med bokmärken och historik kommer inte att fung
 places-share-folder3 =
     .badge = Ny
     .label = Dela mapp
-    .accesskey = D
+    .accesskey = a
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =

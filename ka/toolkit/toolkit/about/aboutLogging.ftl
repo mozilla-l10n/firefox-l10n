@@ -57,8 +57,10 @@ about-logging-preset-web-compat-label = ვებთავსებადობ�
 about-logging-preset-web-compat-description = აღრიცხვის მოდულები ვებთავსებადობის ხარვეზების გამოსავლენად
 about-logging-preset-navigation = გადაადგილება
 about-logging-preset-navigation-description = აღრიცხვის მოდულები გვერდებზე გადაადგილებისა და ისტორიის ხარვეზების გამოსავლენად
+about-logging-preset-vpn-label = VPN
+about-logging-preset-vpn-description = მოდულების აღრიცხვა, რომ გამოვლინდეს, რა ხარვეზებითაა IP-დაცვა (VPN)
 about-logging-preset-webgpu-label = WebGPU
-about-logging-preset-webgpu-description = მოდულების აღრიცხვა WebGPU-ის ხარვეზების გამოსავლენად
+about-logging-preset-webgpu-description = მოდულების აღრიცხვა, რომ გამოვლინდეს რა ხარვეზებითაა WebGPU
 about-logging-preset-gfx-label = გრაფიკა
 about-logging-preset-gfx-description = მოდულების აღრიცხვა გრაფიკის ხარვეზების გამოსავლენად
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.

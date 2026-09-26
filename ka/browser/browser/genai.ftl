@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = მოცილდეს { $provider }
 genai-menu-remove-sidebar =
     .label = მოცილება გვერდითი ზოლიდან
+genai-shortcut-button-3 =
+    .aria-label = შეკითხვა მომდევნო ჯერზე
+    .tooltiptext = შეკითხვა მომდევნო ჯერზე
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = გიპასუხებთ { $provider }

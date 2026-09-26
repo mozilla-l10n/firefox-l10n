@@ -259,6 +259,12 @@ places-search-downloads =
 places-locked-prompt = System zapołožkow a historije njebudźe fungować, dokelž so jedna z datajow { -brand-short-name } přez druhe nałoženje wužiwa. Někajka wěstotna softwara móže tutón problem zawinować.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Nowy
+    .label = Rjadowak dźělić
+    .accesskey = a
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Nowy
     .label = Rjadowak dźělić

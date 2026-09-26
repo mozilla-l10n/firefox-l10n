@@ -177,6 +177,7 @@ change-backup-encryption-header = Zawěsćenske hesło změnić
 
 password-rules-header = Hesłowe žadanja
 password-rules-length-description = Znajmjeńša 8 znamješkow
+password-rules-email-description2 = Njeje e-mejlowa adresa
 password-rules-email-description = Nic waša e-mejlowa adresa
 password-rules-disclaimer = Wostańće wěsty – njewužiwajće hesła wospjet. Hlejće dalše pokiwy, zo byšće <a data-l10n-name="password-support-link">mócne hesła wutworił</a>.
 password-validity-has-email = Njemóže e-mejlowu adresu być

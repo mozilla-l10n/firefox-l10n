@@ -52,6 +52,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN wočinić
 ipprotection-feature-introduction-button-get-started = Prěnje kroki
 
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maksiměrujće priwatnosć ze zatwarjenym VPN { -brand-product-name }
+
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -103,6 +107,10 @@ ipprotection-android-promo-callout-primary-button = Sym zrozumił
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Nastajće prawidła zatwarjeneho VPN a přehladujće potom dale
+ipprotection-site-inclusions-callout-title-lapsed-users = Testujće zatwarjeny VPN, nětko sydło po sydle
+ipprotection-site-inclusions-callout-primary-button = Prawidła postajić
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic nětko
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zaćisnyć
 

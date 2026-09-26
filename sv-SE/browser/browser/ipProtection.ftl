@@ -113,7 +113,8 @@ ipprotection-android-promo-callout-primary-button = Jag förstår
 
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Ställ in regler för inbyggt VPN och surfa vidare
-ipprotection-site-inclusions-callout-description = Slå på den när du vill ha extra sekretess eller platsbaserad surfning och av där du inte vill.
+ipprotection-site-inclusions-callout-title-lapsed-users = Prova inbyggt VPN, nu för enskilda webbplatser
+ipprotection-site-inclusions-callout-description = Aktivera det för webbplatser där du vill ha extra integritet eller surfa utifrån en viss plats, och inaktivera det för övriga.
 ipprotection-site-inclusions-callout-primary-button = Ange regler
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Inte nu
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorera
