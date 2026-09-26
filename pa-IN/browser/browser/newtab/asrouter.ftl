@@ -499,6 +499,7 @@ launch-options-spotlight-primary-button-launch = ਸੰਭਾਲੋ ਅਤੇ �
 # "has your back" is an idiom meaning support and protection; adapt freely
 # rather than translating literally.
 lapsed-user-toast-title = { -brand-product-name } ਹਾਲੇ ਵੀ ਤੁਹਾਡੇ ਨਾਲ ਖੜ੍ਹਾ ਹੈ
+lapsed-user-toast-subtitle = ਵੱਧ ਚੋਣਾਂ, ਪਰਦੇਦਾਰੀ ਅਤੇ ਕੰਟਰੋਲ ਰੱਖ ਕੇ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਨਵੇਂ ਢੰਗਾਂ ਨੂੰ ਵੇਖੋ।
 lapsed-user-toast-whats-new-button = ਵੇਖੋ ਕਿ ਨਵਾਂ ਕੀ ਹੈ
 lapsed-user-toast-dismiss-button = ਖ਼ਾਰਜ ਕਰੋ
 

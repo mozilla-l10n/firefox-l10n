@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = ਪਰਦੇਦਾਰੀ ਲ�
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ਦਾ ਵਿੱਚ ਮੌਜੂਦ VPN</a> ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਿੰਗ ਲਈ ਸੁਰੱਖਿਆ ਦਿੰਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਥਾਂ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਵਾਸਤੇ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਕਿਸੇ ਦੀ ਚੋਣ ਕਰੋ।
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ਵਿੱਚ ਮੌਜੂਦ VPN</a> ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣੋ।
 ipprotection-feature-introduction-link-text-privacy-3 = ਤੁਸੀਂ ਜਿੱਥੋਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ, ਉਸ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣ ਕੇ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਲਵੋ।
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਲਈ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਕੁਝ ਖਾਸ ਸਾਈਟਾਂ ਲਈ VPN ਨੂੰ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰੋ।
 ipprotection-feature-introduction-text-summer-promo-1 = ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ ਇਸ ਨੂੰ ਚਾਲੂ ਕਰੋ। <a data-l10n-name="summer-promo-link">ਬੇਅੰਤ ਬੈਂਡਵਿਦਥ</a> ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਹੋਰ ਟਿਕਾਣੇ ਲਵੋ। ਹੁਣ 31 ਅਗਸਤ ਤੱਕ।
 ipprotection-feature-introduction-title-summer-promo = ਸੈਰ ਸਪਾਟਾ ਦਾ ਸੋਚ ਰਹੇ ਹੋ? ਆਪਣੇ ਨਾਲ ਪਰਦੇਦਾਰੀ ਨੂੰ ਰੱਖੋ।
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name } ਨਾਲ ਮੌਜੂਦ VPN ਦਾ ਫਾਇਦਾ ਲਵੋ: ਹੋਰ ਟਿਕਾਣੇ, ਬੇਅੰਤ ਬੈਂਡਵਿਦਥ। ਹੁਣ 31 ਅਗਸਤ ਤੱਕ।
 ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 ipprotection-feature-introduction-description-private-browsing = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਹੋਵੋ।
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਲਈ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਜਾਂ ਜਿੱਥੇ ਲੋੜ ਨਾ ਹੋਵੇ ਤਾਂ ਬੰਦ ਕਰਨ ਲਈ ਨਿਯਮ ਬਣਾਓ।
 ipprotection-feature-introduction-title-captive-portal = ਪਬਲਿਕ Wi-Fi ਵਰਤ ਰਹੇ ਹੋ? { -brand-product-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ।
 ipprotection-feature-introduction-description-captive-portal = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪਬਲਿਕ Wi-Fi ਵੀ ਵਰਤਦੇ ਹੋਵੋ।
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = ਟੂਲਬਾਰ 'ਚੋਂ VPN ਨੂੰ ਹਟਾਓ
 ipprotection-feature-introduction-button-open-vpn = VPN ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-feature-introduction-button-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = { -brand-product-name } ਦੇ ਵਿੱਚ ਮੌਜੂਦ VPN ਨਾਲ ਵੱਧ ਤੋਂ ਵੱਧ ਪਰਦੇਦਾਰੀ
 
 ## Summer promo offramp callout buttons
 
@@ -106,6 +114,7 @@ ipprotection-android-promo-callout-primary-button = ਸਮਝੇ
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = ਵਿੱਚ ਮੌਜੂਦ VPN ਲਈ ਨਿਯਮ ਬਣਾਓ ਅਤੇ ਫੇਰ ਬਰਾਊਜ਼ ਕਰੋ
 ipprotection-site-inclusions-callout-title-lapsed-users = ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ, ਹੁਣ ਹਰ ਸਾਈਟ ਲਈ ਵੱਖਰਾ-ਵੱਖਰਾ
+ipprotection-site-inclusions-callout-description = ਜਦੋਂ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਨਾ ਚਾਹੋ ਤਾਂ ਬੰਦ ਕਰੋ।
 ipprotection-site-inclusions-callout-primary-button = ਨਿਯਮ ਬਣਾਓ
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ਹੁਣੇ ਨਹੀਂ
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ਖ਼ਾਰਜ ਕਰੋ
@@ -117,6 +126,7 @@ unauthenticated-vpn-title = { -brand-product-name } ਦੇ ਨਾਲ ਮੌਜ�
 unauthenticated-hide-location-message-3 = { -brand-product-name } ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ <a data-l10n-name="learn-more-vpn">ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ</a>।
 unauthenticated-private-location-message = { -brand-product-name } ਵਿੱਚ <a data-l10n-name="learn-more-vpn">ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਪ੍ਰਾਈਵੇਟ</a> ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
 unauthenticated-choose-location-message-1 = ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਕਿਸੇ ਨੂੰ ਚੁਣੋ ਜਾਂ { -brand-product-name } ਨੂੰ ਸਭ ਤੋਂ ਤੇਜ਼ ਨੂੰ ਚੁਣਨ ਦਿਓ।
+unauthenticated-site-rules-message = ਕੰਟਰੋਲ ਕਰੋ ਕਿਹੜੀਆਂ ਸਾਈਟਾਂ ਲਈ VPN ਚਾਲੂ ਕਰਨਾ ਹੈ ਅਤੇ ਕਿਹੜੀਆਂ ਲਈ ਨਹੀਂ।
 unauthenticated-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 unauthenticated-terms-of-service-privacy-notice = ਜਾਰੀ ਰੱਖਣ ਨਾਲ ਤੁਸੀਂ <a data-l10n-name="vpn-terms-of-service">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="vpn-privacy-notice">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 site-exclusion-toggle-enabled-1 =
@@ -126,6 +136,8 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
     .label = ਇਸ ਸਾਈਟ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ
 site-exclusion-toggle-description = ਸਾਈਟ ਕੰਮ ਨਹੀਂ ਕਰ ਰਹੀ ਹੈ? VPN ਨੂੰ ਬੰਦ ਕਰਕੇ ਵੇਖਿਓ।
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = VPN ਨਿਯਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 # Heading for user defined rules on VPN usage for particular websites
 site-rules-status-heading = ਤੁਹਾਡਾ ਨਿਯਮ
 # Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion

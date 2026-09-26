@@ -539,7 +539,17 @@ onboarding-refresh-gratitude-title = { -brand-short-name } ਤੁਹਾਡੇ �
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } ਤੁਹਾਡੇ ਨਾਲ ਖੜ੍ਹਾ ਹੈ, ਹੁਣੇ ਸ਼ੁਰੂ ਕਰੋ
+onboarding-refresh-hero-text = ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਆ ਦੇਣ ਲਈ ਬਣਿਆ ਹੈ, ਤੁਹਾਨੂੰ ਟਰੈਕ ਕਰਨ ਲਈ ਨਹੀਂ।
 onboarding-refresh-tou-default = ਸਾਰੇ ਲਿੰਕਾਂ ਨੂੰ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } ਨੂੰ ਡੌਕ ਵਿੱਚ ਰੱਖੋ
+       *[other] { -brand-short-name } ਨੂੰ ਆਪਣੀ ਟਾਸਕ-ਬਾਰ ਵਿੱਚ ਜੋੜੋ
+    }
+onboarding-refresh-tou-default-unchecked = ਜਦੋਂ ਵੀ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰੋ ਤਾਂ ਹਰ ਵੇਲੇ ਵਿੱਚ ਮੌਜੂਦ ਸੁਰੱਖਿਆ ਨੂੰ ਰੱਖੋ
+onboarding-refresh-tou-pin-unchecked = ਸਿਰਫ਼ ਇੱਕੋ-ਵੱਖ ਵੱਡੇ ਆਜ਼ਾਦ ਬਰਾਊਜ਼ਰ ਨੂੰ ਆਪਣੇ ਕਲਿੱਕ ਵਿੱਚ ਰੱਖੋ
 onboarding-refresh-data-collection-link = ਡਾਟਾ ਇਕੱਤਰਤਾ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 onboarding-refresh-primary-button = ਜਾਰੀ ਰੱਖੋ
 onboarding-refresh-fro-import-header = ਆਪਣਾ ਡਾਟਾ ਨਾਲ ਲਿਆਓ
