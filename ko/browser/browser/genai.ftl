@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = { $provider } 제거
 genai-menu-remove-sidebar =
     .label = 사이드바에서 제거
+genai-shortcut-button-3 =
+    .aria-label = 이 텍스트에 대해 묻기
+    .tooltiptext = 이 텍스트에 대해 묻기
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = { $provider }에게 물어보기
