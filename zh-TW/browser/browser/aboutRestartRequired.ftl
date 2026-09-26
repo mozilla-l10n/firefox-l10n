@@ -3,7 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = 需要重新啟動
+restart-required-heading2 = 抱歉，{ -brand-short-name } 需要重新啟動
+restart-required-intro2 = { -brand-short-name } 需要完成更新。請重新啟動以確保安全、順暢的使用體驗。
+window-restoration-info2 = 我們會重新開啟所有視窗和分頁，但不包括隱私視窗和分頁。
+restart-required-why-now-question = 為什麼是現在？
 restart-required-more-details-heading = 更多詳細資訊
+restart-required-multiple-instances-question = 為什麼使用多組設定檔或安裝多種 { -brand-short-name } 會發生這種情況？
+restart-required-multiple-instances-answer = 進行更新時，如果某組設定檔或執行個體更新了，但其他的仍處於開啟狀態，後者可能會停留在較舊的版本導致衝突。重新啟動可確保所有項目都使用相同版本。
+restart-required-single-instance-question = 我沒有使用多組設定檔或安裝多種 Firefox，為什麼還是會出現？
+restart-required-unsaved-work-question = 未儲存的內容會遺失嗎？
+restart-required-fix-question = 這樣真的有夠煩！{ -brand-short-name } 會調整修正嗎？
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = 是的。我們知道這個行為會造成不便，目前正著手修正以避免發生。您可以到 Bugzilla 的 Bug 2072739 關注我們的處理進度。
 restart-button-label2 = 重新啟動
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = 檢視更多
