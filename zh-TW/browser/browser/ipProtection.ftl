@@ -103,6 +103,9 @@ ipprotection-android-promo-callout-primary-button = 知道了！
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = 設定內建 VPN 規則，然後繼續上網
+ipprotection-site-inclusions-callout-title-lapsed-users = 試用內建 VPN 功能，現在可針對特定網站單獨開啟
 ipprotection-site-inclusions-callout-primary-button = 設定規則
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 現在不要
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 知道了！
