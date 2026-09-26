@@ -28,12 +28,17 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = { -brand-short-name } PDF құралдары
+about-pdf-features-intro = PDF файлдарын тікелей шолу кезінде оқыңыз, белгілеңіз және қол қойыңыз. Бұл қарапайым, тегін және жеке.
 about-pdf-features-back =
     .label = Артқа
 about-pdf-feature-organize-heading = Беттерді ұйымдастыру
 about-pdf-feature-organize-description = Беттерді ретін өзгерту, өшіру, біріктіру және экспорттау.
 about-pdf-feature-signatures-heading = Қолтаңбаларды сақтау
 about-pdf-feature-signatures-description = Бірнеше қолтаңба жасап, оларды формаларға қосыңыз.
+about-pdf-feature-comments-heading = Ескертпелерді қосу
+about-pdf-feature-comments-description = Оқу кезінде түсініктемелер мен еске салғыштар қалдырыңыз.
+about-pdf-feature-annotate-heading = PDF файлдарын белгілеу
+about-pdf-feature-annotate-description = Мәтінді, түспен ерекшелеулерді және сызбаларды қосыңыз.
 about-pdf-feature-presentation-heading = PDF файлдарын толық экранда көрсету
 about-pdf-feature-presentation-description = Презентация режимінде таза көріністі бөлісу.
 about-pdf-feature-details-heading = Мәліметтерді тезірек табу

@@ -555,12 +555,19 @@ onboarding-refresh-terms-of-use-with-links = Жалғастыру арқылы �
 onboarding-refresh-data-collection-link = Деректерді жинау баптауларын басқару
 onboarding-refresh-primary-button = Жалғастыру
 onboarding-refresh-fro-import-header = Деректеріңізді әкеліңіз
+onboarding-refresh-fro-import-body = Жеке деректеріңіз жеке болып қала береді. { -brand-product-name } оларды ешқашан сатпайды.
 onboarding-refresh-fro-skip-button = Аттап кету
 onboarding-refresh-fro-theme-header = Сыртқы түрін келтіріп көріңіз
 onboarding-refresh-tab-layout-header = Беттер жаймасының басқа нұсқасын қолданып көріңіз
 onboarding-refresh-tab-layout-top = Жоғарыда
 onboarding-refresh-tab-layout-side = Бүйірінде
 onboarding-refresh-tab-layout-minimal = Минималды
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Беттерді экранның жанында кішірейтілген бүйірлік панельде кіші таңбашалар ретінде көрсететін браузер терезесі.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Беттерді экранның жанында кішірейтілген бүйірлік панельде кіші таңбашалар ретінде көрсететін браузер терезесі.
 
 ## Smart window switcher callout
 

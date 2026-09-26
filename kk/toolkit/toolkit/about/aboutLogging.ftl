@@ -58,6 +58,7 @@ about-logging-preset-web-compat-description = Веб-үйлесімділік м
 about-logging-preset-navigation = Навигация
 about-logging-preset-navigation-description = Навигация мен сессия тарихы ақауларын анықтау үшін модульдерді журналдау
 about-logging-preset-vpn-label = VPN
+about-logging-preset-vpn-description = IP қорғау (VPN) мәселелерін диагностикалау үшін модульдерді журналдау
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU мәселелерін диагностикалау үшін журналдау модульдері
 about-logging-preset-gfx-label = Графика
