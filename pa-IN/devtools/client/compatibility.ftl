@@ -13,6 +13,10 @@ compatibility-all-elements-header = ਸਾਰੇ ਮੁੱਦੇ
 compatibility-issue-deprecated = (ਬਰਤਰਫ਼ ਕੀਤਾ)
 compatibility-issue-experimental = (ਤਜਰਬੇ ਅਧੀਨ)
 compatibility-issue-prefixneeded = (ਅਗੇਤਰ ਚਾਹੀਦਾ ਹੈ)
+compatibility-issue-deprecated-experimental = (ਬਰਤਰਫ਼ ਕੀਤਾ, ਤਜਰਬੇ-ਅਧੀਨ)
+compatibility-issue-deprecated-prefixneeded = (ਬਰਤਰਫ਼ ਕੀਤਾ, ਅਗਤੇਰ ਚਾਹੀਦਾ ਹੈ)
+compatibility-issue-experimental-prefixneeded = (ਤਜਰਬੇ-ਅਧੀਨ, ਅਗੇਤਰ ਚਾਹੀਦਾ ਸੀ)
+compatibility-issue-deprecated-experimental-prefixneeded = (ਬਰਤਰਫ਼ ਕੀਤਾ, ਤਜਰਬੇ-ਅਧੀਨ, ਅਗੇਤਰ ਚਾਹੀਦਾ ਸੀ)
 
 ## Messages used as labels and titles for buttons in the footer
 
@@ -27,6 +31,15 @@ compatibility-target-browsers-header = ਟੀਚਾ ਬਰਾਊਜ਼ਰ
 
 ##
 
+# Text used as the label for the number of nodes where the issue occurred
+# Variables:
+#   $number (Number) - The number of nodes where the issue occurred
+compatibility-issue-occurrences =
+    { $number ->
+        [one] { $number } ਮੌਜੂਦਗੀ
+       *[other] { $number } ਮੌਜੂਦਗੀਆਂ
+    }
+compatibility-no-issues-found = ਕੋਈ ਅਨੁਕੂਲਤਾ ਮਸਲਾ ਨਹੀਂ ਲੱਭਿਆ ਹੈ।
 compatibility-close-settings-button =
     .title = ਸੈਟਿੰਗਾਂ ਬੰਦ ਕਰੋ
 # Text used in the element containing the browser icons for a given compatibility issue.
