@@ -8,6 +8,13 @@ restart-required-intro2 = { -brand-short-name }가 업데이트를 완료해야 
 window-restoration-info2 = 사생활 보호 창과 탭을 제외한 모든 창과 탭을 다시 엽니다.
 restart-required-why-now-question = 왜 지금일까요?
 restart-required-why-now-answer = 이것은 다른 { -brand-short-name } 프로필이나 인스턴스가 업데이트되거나, 다음 재시작 때까지 업데이트를 미룰 수 없을 때 발생할 수 있습니다.
+restart-required-more-details-heading = 상세 정보
+restart-required-multiple-instances-question = 여러 프로필이나 { -brand-short-name } 인스턴스를 사용할 때 왜 이런 일이 발생하나요?
+restart-required-multiple-instances-answer = 다른 프로필이나 인스턴스가 열려 있을 때 프로필이나 인스턴스를 업데이트하면, 열려 있던 프로필은 이전 버전으로 남겨질 수 있습니다. 다시 시작하면 모든 것이 같은 버전으로 유지됩니다.
+restart-required-single-instance-question = 저는 여러 프로필이나 인스턴스를 사용하지 않습니다. 왜 이런 일이 발생하는 건가요?
+restart-required-single-instance-answer = { -brand-short-name }가 열려 있는 동안 백그라운드로 업데이트가 적용되면 { -brand-short-name }를 다시 시작해야 할 수 있습니다.
+restart-required-single-instance-answer-2 = 이는 긴 탐색 세션을 사용하거나 운영 체제가 { -brand-short-name }를 업데이트할 때 발생할 수 있습니다. 다시 시작하면 { -brand-short-name }를 안전하게 보호하고 정상적으로 작동합니다.
+restart-required-unsaved-work-question = 저장하지 않은 작업을 잃을 수 있나요?
 restart-button-label2 = 다시 시작
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = 더 보기
