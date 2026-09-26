@@ -247,6 +247,12 @@ places-search-downloads =
 places-locked-prompt = 因為 { -brand-short-name } 的檔案被其他程式鎖定，書籤與瀏覽記錄將無法使用。某些安全軟體會導致這個問題。
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = 新功能
+    .label = 分享資料夾
+    .accesskey = a
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = 新功能
     .label = 分享資料夾

@@ -177,6 +177,7 @@ change-backup-encryption-header = 更改備份密碼
 
 password-rules-header = 密碼要求
 password-rules-length-description = 至少八個字元長
+password-rules-email-description2 = 不是電子郵件地址
 password-rules-email-description = 不可以與您的電子郵件地址相同
 password-rules-disclaimer = 確保安全 — 請勿重複使用密碼。可在此參考<a data-l10n-name="password-support-link">建立強密碼</a>的小秘訣。
 password-validity-has-email = 不能是電子郵件地址

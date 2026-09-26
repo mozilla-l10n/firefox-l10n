@@ -319,6 +319,9 @@ newtab-stocks-search-button =
     .aria-label = 搜尋股票名稱或代碼
     .label = 搜尋
     .title = 搜尋股票名稱或代碼
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = 訂閱您想關注的股票
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -393,6 +396,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = 搜尋結果
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = 搜尋股票代號或公司，並加入您的自選清單
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.

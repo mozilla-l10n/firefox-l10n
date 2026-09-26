@@ -48,7 +48,11 @@ autocomplete-remove-password-title = 要移除密碼嗎？
 autocomplete-remove-address-title = 要移除地址嗎？
 autocomplete-remove-payment-method-title = 要移除付款方式嗎？
 autocomplete-remove-record-message = 無法還原此動作。
+autocomplete-delete-record-button = 刪除
 autocomplete-remove-record-button = 移除
+autocomplete-delete-password-title = 要刪除密碼嗎？
+autocomplete-delete-address-title = 要刪除地址嗎？
+autocomplete-delete-payment-method-title = 要刪除付款方式嗎？
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

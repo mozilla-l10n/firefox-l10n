@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = 日期與網站
 sidebar-history-sort-option-last-visited =
     .label = 上次瀏覽
+sidebar-history-sort-option-most-visited =
+    .label = 最常瀏覽
 
 ## Labels for sidebar search
 
