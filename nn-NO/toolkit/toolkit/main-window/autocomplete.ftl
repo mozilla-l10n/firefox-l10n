@@ -48,6 +48,7 @@ autocomplete-remove-password-title = Fjerne passordet?
 autocomplete-remove-address-title = Fjerne adresse?
 autocomplete-remove-payment-method-title = Fjerne betalingsmåte?
 autocomplete-remove-record-message = Du kan ikkje angre denne handlinga.
+autocomplete-delete-record-button = Slett
 autocomplete-remove-record-button = Fjern
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete

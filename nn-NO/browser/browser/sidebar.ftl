@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Dasto og nettstad
 sidebar-history-sort-option-last-visited =
     .label = Sist besøkt
+sidebar-history-sort-option-most-visited =
+    .label = Mest besøkte
 
 ## Labels for sidebar search
 

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Omstart påkravd
+restart-button-label2 = Start på nytt
 restart-required-heading = Start på nytt for å halde fram med å bruke { -brand-short-name }
 restart-required-intro = Ei oppdatering av { -brand-short-name } starta i bakgrunnen. Du må starte om for å fullføre uppdateringa.
 window-restoration-info = Vindauga og fanene dine vil raskt bli gjenoppretta, bortsett frå dei private.
