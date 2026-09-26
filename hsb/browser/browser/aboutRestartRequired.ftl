@@ -3,6 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Znowastartowanje trěbne
+restart-required-why-now-question = Čehodla nětko?
+restart-required-more-details-heading = Dalše podrobnosće
+restart-required-unsaved-work-question = Móhł ja njeskładowane słowo zhubić?
+restart-button-label2 = Znowa startować
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Wjace pokazać
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Mjenje pokazać
 restart-required-heading = Startujće znowa, zo byšće { -brand-short-name } wužiwał
 restart-required-intro = Aktualizacija na { -brand-short-name } je so w pozadku startowała. Dyrbiće znowa startować, zo byšće aktualizaciju dokónčił.
 window-restoration-info = Waše wokna a rajtarki so spěšnje wobnowja, ale priwatne nic.

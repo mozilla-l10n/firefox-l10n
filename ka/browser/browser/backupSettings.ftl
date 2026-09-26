@@ -177,7 +177,8 @@ change-backup-encryption-header = სამარქაფო პაროლი
 
 password-rules-header = პაროლის მოთხოვნები
 password-rules-length-description = არანაკლებ 8 სიმბოლო
-password-rules-email-description = თქვენი ელფოსტის გარდა
+password-rules-email-description2 = არ წარმოადგენს ელფოსტას
+password-rules-email-description = არაა თქვენი ელფოსტა
 password-rules-disclaimer = დაიცავით უსაფრთხოება – ნუ გამოიყენებთ ერთსა და იმავე პაროლებს. ვრცლად იხილეთ რჩევები <a data-l10n-name="password-support-link">ძლიერი პაროლის შესაქმნელად</a>.
 password-validity-has-email = ელფოსტის გამოყენება ვერ მოხერხდება
 password-validity-do-not-match = პაროლები არ ემთხვევა
