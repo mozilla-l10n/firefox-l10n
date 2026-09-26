@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Hesło wotstronić?
 autocomplete-remove-address-title = Adresu wotstronić?
 autocomplete-remove-payment-method-title = Płaćensku metodu wotstronić?
 autocomplete-remove-record-message = Njemóžeće tutu akciju cofnyć.
+autocomplete-delete-record-button = Zhašeć
 autocomplete-remove-record-button = Wotstronić
+autocomplete-delete-password-title = Hesło zhašeć?
+autocomplete-delete-address-title = Adresu zhašeć?
+autocomplete-delete-payment-method-title = Płaćensku metodu zhašeć?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

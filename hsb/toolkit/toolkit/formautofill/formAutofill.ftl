@@ -33,6 +33,8 @@ autofill-options-link = Nastajenja za awtomatiske wupjelnjenje formularow
 credit-card-doorhanger-credit-cards-sync-checkbox = Wšě składowane karty přez moje graty synchronizować
 credit-card-save-doorhanger-header = Tutu kartu wěsće składować?
 credit-card-save-doorhanger-description = { -brand-short-name } waše kartowe čisło zaklučuje. Waš wěstotny kod njebudźe so składować.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Wěstotne kody za płaćenske metody přeco składować.
 credit-card-capture-save-button =
     .label = Składować
     .accessKey = S
@@ -72,6 +74,11 @@ autofill-card-security-code-label = CVC
 
 credit-card-doorhanger-details-name = { $name }
 credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV składowany
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV składowany
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV składowany
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV składowany
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

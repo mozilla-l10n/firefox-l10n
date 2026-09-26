@@ -3,8 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Znowastartowanje trěbne
+restart-required-heading2 = Wodajće, ale { -brand-short-name } dyrbi so znowa startować
 restart-required-why-now-question = Čehodla nětko?
 restart-required-more-details-heading = Dalše podrobnosće
+restart-required-multiple-instances-question = Čehodla móže so to z wjacorymi profilemi abo instancami { -brand-short-name } stać?
+restart-required-single-instance-question = Njewužiwam wjacore profile abo instancy. Čehodla so to stawa?
 restart-required-unsaved-work-question = Móhł ja njeskładowane słowo zhubić?
 restart-button-label2 = Znowa startować
 # Expands the "More details" section below the buttons.

@@ -1461,7 +1461,7 @@ payment-moz-box-item =
 #   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item-with-security-code =
-    .description = { $expDate } | CW składowany
+    .description = { $expDate } | CVV składowany
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item-with-security-code for a card that has a
 # saved security code but no expiry date to show alongside it.
