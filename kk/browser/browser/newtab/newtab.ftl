@@ -424,6 +424,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Іздеу нәтижелері
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Бақылау тізіміңізге қосу үшін тикерлерді немесе компанияларды іздеңіз
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -526,6 +529,13 @@ newtab-search-widget-title = Іздеу
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Іздеу опциялары
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Соңғы іздеулер осында көрсетіледі, сондықтан оларды кез келген уақытта қайта ала аласыз.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Трендтегі іздеулер қазір қолжетімді емес.
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

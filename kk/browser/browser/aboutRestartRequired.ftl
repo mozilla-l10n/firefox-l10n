@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Қайта іске қосу керек
+restart-required-why-now-question = Неге қазір?
+restart-required-more-details-heading = Көбірек ақпарат
 restart-button-label2 = Қайта қосу
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Көбірек қарау
