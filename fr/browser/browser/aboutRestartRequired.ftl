@@ -16,13 +16,13 @@ restart-required-single-instance-answer = { -brand-short-name } peut avoir besoi
 restart-required-single-instance-answer-2 = Cela peut se produire lors d’une longue session de navigation ou lorsque votre système d’exploitation met à jour { -brand-short-name }. Un redémarrage permet à { -brand-short-name } de rester sécurisé et de fonctionner normalement.
 restart-required-unsaved-work-question = Est-ce que je risque de perdre mes modifications non enregistrées ?
 restart-required-unsaved-work-answer = C’est possible, et nous savons à quel point cela peut être frustrant. { -brand-short-name } rouvrira vos onglets, mais les modifications non enregistrées dans les pages web, comme le texte saisi dans un formulaire, risquent de ne pas être restaurées. Les fenêtres de navigation privée ne seront pas rouvertes afin de protéger votre vie privée.
-restart-required-fix-question = C’est vraiment ennuyeux ! { -brand-short-name } travaille-t-il sur un correctif ?
+restart-required-fix-question = C’est vraiment agaçant ! { -brand-short-name } prépare-t-il un correctif ?
 # Note: normally we would link to the bug here, but if the user sees this message,
 # then they cannot visit a link without a restart.
-restart-required-fix-answer = Oui. Nous savons que cela est perturbateur et nous travaillons sur un correctif pour l’empêcher. Suivez notre progression avec le bogue 2272739 de Bugzilla.
+restart-required-fix-answer = Oui. Nous savons que ce problème est gênant et nous travaillons à un correctif pour éviter qu’il se reproduise. Suivez l’avancement de nos travaux dans le rapport de bug Bugzilla 2072739.
 restart-button-label2 = Redémarrer
 # Expands the "More details" section below the buttons.
-restart-required-see-more-button = Plus d’actualités
+restart-required-see-more-button = Afficher davantage
 # Collapses the "More details" section below the buttons.
 restart-required-see-less-button = Afficher moins
 restart-required-heading = Redémarrez pour continuer à utiliser { -brand-short-name }

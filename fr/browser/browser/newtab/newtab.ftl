@@ -349,7 +349,7 @@ newtab-stocks-search-button =
     .title = Rechercher par nom ou symbole
 # Shown on the Watchlist while the user has no stocks in it, above a button that
 # opens the stock search.
-newtab-stocks-watchlist-empty = Surveillez les actions qui comptent pour vous
+newtab-stocks-watchlist-empty = Suivez les actions qui vous intéressent
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -426,7 +426,7 @@ newtab-stocks-search-results =
     .aria-label = Résultats de la recherche
 # Shown in the search panel, where the results will appear, until the user
 # has searched.
-newtab-stocks-search-hint = Recherchez des symboles ou des sociétés à ajouter à votre liste de suivi
+newtab-stocks-search-hint = Recherchez des symboles boursiers ou des entreprises à ajouter à votre liste de suivi
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -1853,8 +1853,8 @@ newtab-clock-widget-custom-back = Retour
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-clock-widget-menu-button2 =
-    .aria-label = Options d’horloge
-    .title = Options d’horloge
+    .aria-label = Options de l’horloge
+    .title = Options de l’horloge
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
