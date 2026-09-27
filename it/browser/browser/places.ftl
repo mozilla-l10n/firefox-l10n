@@ -260,4 +260,3 @@ places-share-folder3 =
 places-share-folder2 =
     .badge = Novità
     .label = Condividi cartella
-

@@ -71,4 +71,3 @@ appearance-browser-icon-pixelated =
 appearance-browser-icon-momo =
     .description = Realizzata da @heyheymomodraws
     .label = Momo
-
