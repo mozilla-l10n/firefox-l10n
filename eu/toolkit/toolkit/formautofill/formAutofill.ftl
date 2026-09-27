@@ -33,6 +33,9 @@ autofill-options-link = Inprimakiak automatikoki betetzeko aukerak
 credit-card-doorhanger-credit-cards-sync-checkbox = Sinkronizatu gordetako txartel guztiak nire gailuen artean
 credit-card-save-doorhanger-header = Gorde txartela modu seguruan?
 credit-card-save-doorhanger-description = { -brand-short-name }(e)k zure txartel-zenbakia zifratzen du. Zure segurtasun-kodea ez da gordeko.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name }(e)k zure txartel-zenbakia eta segurtasun-kodea zifratzen ditu, zuk bakarrik erabil ahal izan ditzazun ordainketa-inprimakiak betetzeko.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Gorde beti ordainketa-metodoetarako segurtasun-kodeak.
 credit-card-capture-save-button =
     .label = Gorde
     .accessKey = G
@@ -61,6 +64,22 @@ autofill-manage-payment-methods-label = Kudeatu ordainketa-metodoak
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC kodea
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV gordeta
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV gordeta
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV gordeta
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV gordeta
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

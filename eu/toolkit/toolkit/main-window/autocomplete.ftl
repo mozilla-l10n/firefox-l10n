@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Kendu pasahitza?
 autocomplete-remove-address-title = Kendu helbidea?
 autocomplete-remove-payment-method-title = Kendu ordainketa-metodoa?
 autocomplete-remove-record-message = Ezin duzu ekintza hau desegin.
+autocomplete-delete-record-button = Ezabatu
 autocomplete-remove-record-button = Kendu
+autocomplete-delete-password-title = Ezabatu pasahitza?
+autocomplete-delete-address-title = Ezabatu helbidea?
+autocomplete-delete-payment-method-title = Ezabatu ordainketa-metodoa?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
