@@ -161,6 +161,13 @@ appmenu-fxa-last-sync = Son eşitleme: { $time }
 appmenu-fxa-sync-and-save-data2 = Verileri eşitle ve kaydet
 appmenu-fxa-signed-in-label = Giriş yap
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Verilerinizi her yerde eşitleyin
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Giriş tanıtımını kapat
+    .title = Kapat
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Eşitlemek için giriş yapın
 appmenu-fxa-sign-in-promo-message = Verilerinizi her yere taşıyın

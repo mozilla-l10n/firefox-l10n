@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Parola silinsin mi?
 autocomplete-remove-address-title = Adres silinsin mi?
 autocomplete-remove-payment-method-title = Ödeme yöntemi silinsin mi?
 autocomplete-remove-record-message = Bu işlemi geri alamazsınız.
+autocomplete-delete-record-button = Sil
 autocomplete-remove-record-button = Sil
+autocomplete-delete-password-title = Parola silinsin mi?
+autocomplete-delete-address-title = Adres silinsin mi?
+autocomplete-delete-payment-method-title = Ödeme yöntemi silinsin mi?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
