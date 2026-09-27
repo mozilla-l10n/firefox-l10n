@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Omstart påkravd
+restart-required-heading2 = Beklagar, { -brand-short-name } treng ein rask omstart
+restart-required-why-now-question = Kvifor no?
 restart-button-label2 = Start på nytt
 restart-required-heading = Start på nytt for å halde fram med å bruke { -brand-short-name }
 restart-required-intro = Ei oppdatering av { -brand-short-name } starta i bakgrunnen. Du må starte om for å fullføre uppdateringa.
