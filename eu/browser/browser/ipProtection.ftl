@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Gehitu beste pribatutasun geru
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-privacy-3 = Lortu <a data-l10n-name="learn-more-vpn">pribatutasun gehiago</a> nabigatzen duzun tokia ezkutatzeko hainbat kokapenen artean aukeratuz.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Lagundu zure kokapena ezkutatzen <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko nabigatu ahala. Aktibatu VPNa gunean guneko beharren arabera.
 ipprotection-feature-introduction-text-summer-promo-1 = Aktiba ezazu zure nabigazioa pribatuago mantentzeko. <a data-l10n-name="summer-promo-link">Eskuratu banda-zabalera mugagabea</a> eta nabigatu beharreko kokapen gehiago. Orain abuztuaren 31ra arte.
 ipprotection-feature-introduction-title-summer-promo = Bidaia-planak dituzu? Eraman pribatutasuna alboan.
 ipprotection-feature-introduction-description-summer-promo = Joan urrutirago { -brand-product-name }(r)en integratutako VPNarekin: kokapen gehiago, banda-zabalera mugagabea. Orain abuztuaren 31ra arte.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Lagundu zure kokapena ezkutatzen <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko nabigatu ahala. Ezarri VPNa aktibatzeko arauak pribatutasun estra edo kokapenean oinarritutako nabigaziorako, eta desaktibatu behar ez duzunean.
 ipprotection-feature-introduction-title-captive-portal = Wi-Fi publikoan zaude? Probatu { -brand-product-name }(r)en integratutako VPNa.
 ipprotection-feature-introduction-description-captive-portal = Nabigatu babes estraz zure kokapena ezkutatuz, baita Wi-Fi publikoetan ere.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Kendu VPNa tresna-barratik
 ipprotection-feature-introduction-button-open-vpn = Ireki VPNa
 ipprotection-feature-introduction-button-get-started = Hasi erabiltzen
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximizatu pribatutasuna { -brand-product-name }(r)en integratutako VPNarekin
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Ulertuta
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Ezarri integratutako VPNaren arauak, gero jarraitu nabigatzen
+ipprotection-site-inclusions-callout-title-lapsed-users = Probatu integratutako VPNa, orain gunean guneko konfigurazioarekin
+ipprotection-site-inclusions-callout-description = Aktiba ezazu pribatutasun estra edo kokapenean oinarritutako nabigazioa nahi duzunean, eta desaktibatu behar ez duzunean.
+ipprotection-site-inclusions-callout-primary-button = Ezarri arauak
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Une honetan ez
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Baztertu
 

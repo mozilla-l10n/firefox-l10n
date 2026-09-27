@@ -15,6 +15,16 @@ restart-required-single-instance-question = Ez ditut hainbat profil edo instantz
 restart-required-single-instance-answer = { -brand-short-name }(e)k berrabiarazteko beharra izan lezake irekita dagoen bitartean atzeko planoan eguneraketa bat aplikatzen bada.
 restart-required-single-instance-answer-2 = Nabigatze-saio luze batean zehar gerta liteke hau, edota sistema eragileak berak { -brand-short-name } eguneratzen duenean. Berrabiarazita { -brand-short-name } seguru eta normal funtzionatzen mantentzen da.
 restart-required-unsaved-work-question = Gorde gabeko lana gal nezake?
+restart-required-unsaved-work-answer = Baliteke, eta badakigu frustragarria dela. { -brand-short-name }(e)k zure fitxak berriro irekiko ditu, baina web orrietan gorde gabeko lana, hala nola inprimaki bateko testua, baliteke ez berreskuratzea. Zure pribatutasuna babesteko, leiho pribatuak ez dira berriro irekiko.
+restart-required-fix-question = Benetan amorragarria da hau! { -brand-short-name } konponketa bat izateko lanean ari al da?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Bai. Badakigu aztoragarria dela hau eta arazoa eragozteko konponketa batean lanean gabiltza. Jarraitu gure aurrerapena Bugzilla-ko 2072739 bug-ean.
+restart-button-label2 = Berrabiarazi
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Ikusi gehiago
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Ikusi gutxiago
 restart-required-heading = Berrabiarazi { -brand-short-name } erabiltzen jarraitzeko
 restart-required-intro = { -brand-short-name }(r)en eguneraketa bat hasi da atzeko planoan. Berrabiarazi egin beharko duzu eguneratzen amaitzeko.
 window-restoration-info = Zure leihoak eta fitxak laster batean berreskuratuko dira; leiho edo fitxa pribaturik ez da berreskuratuko ordea.

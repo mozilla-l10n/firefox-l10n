@@ -177,6 +177,7 @@ change-backup-encryption-header = Aldatu babeskopiaren pasahitza
 
 password-rules-header = Pasahitzaren betebeharrak
 password-rules-length-description = Gutxienez 8 karaktere
+password-rules-email-description2 = Ez da helbide elektronikoa
 password-rules-email-description = Ezin da zure helbide elektronikoa izan
 password-rules-disclaimer = Egon seguru — Ez berrerabili pasahitzak. Ikusi aholku gehiago <a data-l10n-name="password-support-link">pasahitz sendoak sortzeko</a>.
 password-validity-has-email = Ezin du helbide elektronikoa izan
