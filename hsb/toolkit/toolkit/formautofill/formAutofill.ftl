@@ -33,6 +33,7 @@ autofill-options-link = Nastajenja za awtomatiske wupjelnjenje formularow
 credit-card-doorhanger-credit-cards-sync-checkbox = Wšě składowane karty přez moje graty synchronizować
 credit-card-save-doorhanger-header = Tutu kartu wěsće składować?
 credit-card-save-doorhanger-description = { -brand-short-name } waše kartowe čisło zaklučuje. Waš wěstotny kod njebudźe so składować.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } waš kartowe čisło a wěstotny kode zaklučuje, zo byšće jenož wy móhł je wužiwać, zo byšće płaćenske formulary wupjelnił.
 credit-card-doorhanger-save-security-codes-checkbox =
     .label = Wěstotne kody za płaćenske metody přeco składować.
 credit-card-capture-save-button =

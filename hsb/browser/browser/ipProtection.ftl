@@ -114,6 +114,7 @@ ipprotection-android-promo-callout-primary-button = Sym zrozumił
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Nastajće prawidła zatwarjeneho VPN a přehladujće potom dale
 ipprotection-site-inclusions-callout-title-lapsed-users = Testujće zatwarjeny VPN, nětko sydło po sydle
+ipprotection-site-inclusions-callout-description = Zmóžńće jón, hdyž chceće přidatnu priwatnosć abo na stejnišću bazowane přehladowanje, a znjemóžńće jón, hdźež jón njetrjebaće.
 ipprotection-site-inclusions-callout-primary-button = Prawidła postajić
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic nětko
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zaćisnyć
