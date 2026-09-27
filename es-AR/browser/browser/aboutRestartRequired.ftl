@@ -16,6 +16,7 @@ restart-required-single-instance-answer = { -brand-short-name } puede necesitar 
 restart-required-single-instance-answer-2 = Esto puede pasar durante una sesión de navegación larga o cuando el sistema operativo actualice { -brand-short-name }. Reiniciar mantiene a { -brand-short-name } seguro y funcionando normalmente.
 restart-required-unsaved-work-question = ¿Puedo perder el trabajo no guardado?
 restart-required-unsaved-work-answer = Posiblemente, y sabemos que es frustrante. { -brand-short-name } reabrirá las pestañas, pero es posible que el trabajo no guardado dentro de las páginas web, como el texto de un formulario, no se restaure. Las ventanas privadas no se reabrirán para proteger la privacidad.
+restart-required-fix-question = ¡Esto es realmente molesto! ¿{ -brand-short-name } está trabajando en una solución?
 # Note: normally we would link to the bug here, but if the user sees this message,
 # then they cannot visit a link without a restart.
 restart-required-fix-answer = Sí. Sabemos que esto es perjudicial y estamos trabajando en una solución para evitarlo. Siga nuestro progreso en Bugzilla en bug número 2072739.
