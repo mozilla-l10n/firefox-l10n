@@ -48,6 +48,7 @@ autocomplete-remove-password-title = Gronidło wótwónoźeś?
 autocomplete-remove-address-title = Adresu wótwónoźeś?
 autocomplete-remove-payment-method-title = Płaśeńsku metodu wótwónoźeś?
 autocomplete-remove-record-message = Njamóžośo toś tu akciju anulěrowaś.
+autocomplete-delete-record-button = Lašowaś
 autocomplete-remove-record-button = Wótwónoźeś
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete

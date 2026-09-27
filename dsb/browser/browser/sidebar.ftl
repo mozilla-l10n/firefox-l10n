@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Datum a sedło
 sidebar-history-sort-option-last-visited =
     .label = Slědny raz woglědany
+sidebar-history-sort-option-most-visited =
+    .label = Nejcesćej woglědane
 
 ## Labels for sidebar search
 

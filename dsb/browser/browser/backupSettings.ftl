@@ -177,6 +177,7 @@ change-backup-encryption-header = Zawěsćeńske gronidło změniś
 
 password-rules-header = Gronidłowe pominanja
 password-rules-length-description = Nanejmjenjej 8 znamuškow
+password-rules-email-description2 = Njejo e-mailowa adresa
 password-rules-email-description = Nic waša e-mailowa adresa
 password-rules-disclaimer = Wóstańśo wěsty – njewužywaj gronidła znowego. Glejśo dalšne pokaze, aby <a data-l10n-name="password-support-link">mócne gronidła napórał</a>.
 password-validity-has-email = Njemóžo e-mailowu adresu byś

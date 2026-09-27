@@ -57,6 +57,7 @@ about-logging-preset-web-compat-label = Webkompatibelnosć
 about-logging-preset-web-compat-description = Protokolowe module za diagnosticěrowanje problemow z webkompatibelnosću
 about-logging-preset-navigation = Nawigacija
 about-logging-preset-navigation-description = Module za diagnosticěrowanje problemow z nawigaciju a pósejźeńskeju historiju protokolěrowaś
+about-logging-preset-vpn-label = VPN
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Protokolowe module za diagnosticěrowanje problemow WebGPU
 about-logging-preset-gfx-label = Grafika

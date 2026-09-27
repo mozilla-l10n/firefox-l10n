@@ -259,6 +259,12 @@ places-search-downloads =
 places-locked-prompt = System cytańskich znamjenjow a historije njebuźo funkcioněrowaś, dokulaž wužywa se jadna z datajow { -brand-short-name } pśez druge nałoženje. Někaka wěstotna softwara móžo toś ten problem zawinowaś.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Nowy
+    .label = Zarědnik źěliś
+    .accesskey = Z
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Nowy
     .label = Zarědnik źěliś
