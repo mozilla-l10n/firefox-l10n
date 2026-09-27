@@ -17,6 +17,9 @@ restart-required-single-instance-answer-2 = To móže so za dołhe posedźenje p
 restart-required-unsaved-work-question = Móhł ja njeskładowane słowo zhubić?
 restart-required-unsaved-work-answer = Snano, a wěmy, zo to je frustrěrowace. { -brand-short-name } waše rajtarki znowa wočinja, ale njeskładowane dźěło we webstronach, kaž tekst we formularje, so snano njewobnowja. Priwatne wokna so znowa njewočinjeja, zo by so waša priwatnosć škitała.
 restart-required-fix-question = To je woprawdźe mjerzace! Dźěła { -brand-short-name } hižo na porjedźenju?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Haj. Wěmy, zo to je mylace a dźěłamy na porjedźenju, zo bychmy tomu zadźěwali. Aktualny staw namakaće w zmylkowej rozprawje 2072739 na Bugzilla.
 restart-button-label2 = Znowa startować
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Wjace pokazać
