@@ -177,6 +177,7 @@ change-backup-encryption-header = Vaihda varmuuskopion salasana
 
 password-rules-header = Salasanan vaatimukset
 password-rules-length-description = Vähintään 8 merkkiä
+password-rules-email-description2 = Ei ole sähköpostiosoite
 password-rules-email-description = Ei sinun sähköpostiosoite
 password-rules-disclaimer = Pysy turvassa – älä käytä salasanoja uudelleen. Katso lisää vinkkejä <a data-l10n-name="password-support-link">vahvojen salasanojen luomiseen</a>.
 password-validity-has-email = Ei voi olla sähköpostiosoite

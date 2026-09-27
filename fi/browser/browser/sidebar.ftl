@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Päiväys ja sivusto
 sidebar-history-sort-option-last-visited =
     .label = Viimeksi vierailtu
+sidebar-history-sort-option-most-visited =
+    .label = Useimmin vierailtu
 
 ## Labels for sidebar search
 

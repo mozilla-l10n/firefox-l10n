@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name }in PDF-muokkain
 about-pdf-header = { -brand-short-name }in PDF
 about-pdf-tagline = Ilmainen työkalu lukemiseen, yhdistämiseen, allekirjoittamiseen, kommentointiin ja muuhun – sisäänrakennetulla yksityisyydellä
+about-pdf-features-cta =
+    .label = Tutustu PDF-työkaluihin
 about-pdf-dropzone =
     .title = Pudota PDF tähän aloittaaksesi tai paina Enter
 about-pdf-dropzone-hint = Pudota PDF tähän aloittaaksesi
@@ -22,3 +24,20 @@ about-pdf-set-default =
     .label = Aseta oletukseksi
 about-pdf-dismiss =
     .label = Hylkää
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name }in PDF-työkalut
+about-pdf-features-intro = Lue, tee merkintöjä ja allekirjoita PDF-tiedostoja suoraan selaamisen yhteydessä. Se on yksinkertaista, ilmaista ja yksityistä.
+about-pdf-features-back =
+    .label = Takaisin
+about-pdf-feature-organize-heading = Järjestä sivuja
+about-pdf-feature-organize-description = Järjestä uudelleen, poista, yhdistä ja vie sivuja.
+about-pdf-feature-signatures-heading = Tallenna allekirjoituksia
+about-pdf-feature-signatures-description = Luo useita allekirjoituksia ja lisää ne lomakkeisiin.
+about-pdf-feature-comments-heading = Lisää muistiinpanoja
+about-pdf-feature-comments-description = Jätä kommentteja ja muistutuksia samalla kun luet.
+about-pdf-feature-annotate-heading = Tee merkintöjä PDF-tiedostoihin
+about-pdf-feature-annotate-description = Lisää tekstiä, korostuksia ja piirroksia.
+about-pdf-feature-images-heading = Lähetä saavutettavia kuvia
+about-pdf-feature-images-description = Lisää vaihtoehtoinen teksti, jotta useammat voivat hyödyntää kuvia.

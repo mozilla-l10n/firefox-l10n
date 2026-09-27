@@ -363,6 +363,9 @@ newtab-stocks-search-button =
     .aria-label = Pó mjenju abo symbolu pytaś
     .label = Pytaś
     .title = Pó mjenju abo symbolu pytaś
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Wobglědujśo akcije, kótarež su wam wažne
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -437,6 +440,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Pytańske wuslědki
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Pytajśo za symbolami abo pśedewześami, aby je swójej wobglědowańskej lisćinje pśidał
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.

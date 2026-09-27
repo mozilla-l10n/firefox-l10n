@@ -251,6 +251,12 @@ places-search-downloads =
 places-locked-prompt = Selaimen kirjanmerkki- ja sivuhistoriatoiminnot eivät ole käytössä, koska jokin { -brand-short-name }in tiedostoista on toisen ohjelman käytössä. Jotkin tietoturvallisuusohjelmat voivat aiheuttaa tämän ongelman.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Uutta
+    .label = Jaa kansio
+    .accesskey = J
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Uusi
     .label = Jaa kansio
