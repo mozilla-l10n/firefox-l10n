@@ -165,6 +165,12 @@ home-prefs-mission-message-learn-more-link-srd = Lue lisää
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Lue lisää
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Tietosuoja-asetukset
+    .title = Tietosuoja-asetukset
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -507,6 +513,10 @@ newtab-recent-searches-menu-learn-more = Lue lisää
 newtab-recent-searches-tab-recent = Viimeisimmät haut
 # Tab listing what is trending with the user's search engine.
 newtab-recent-searches-tab-trending = Nousussa
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = hakukoneesta { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Juuri nyt
 # Screen reader label for the button that forgets one listed search.
@@ -1827,6 +1837,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Ei vastaavia aikavyöhykkeitä
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Takaisin
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Kellon asetukset
+    .title = Kellon asetukset
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

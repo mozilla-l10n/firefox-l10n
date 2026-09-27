@@ -15,6 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } yrittää k�
 autofill-edit-payment-method-os-prompt-macos = näyttää tallennettuja maksutapatietoja
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } yrittää näyttää tallennettuja maksutapatietoja. Vahvista pääsy tälle Windows-tilille alapuolella.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } yrittää näyttää tallennettuja maksutapatietoja.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } yrittää poistaa tallennetun maksutavan tiedot.
 # The button leads users to Form Autofill browser preferences.
 credit-card-doorhanger-options-button =
     .title = Lomakkeiden automaattitäytön asetukset
@@ -28,6 +29,9 @@ autofill-options-link = Lomakkeiden automaattitäytön asetukset
 credit-card-doorhanger-credit-cards-sync-checkbox = Synkronoi kaikki tallennetut kortit laitteiden välillä
 credit-card-save-doorhanger-header = Tallennetaanko tämä kortti turvallisesti?
 credit-card-save-doorhanger-description = { -brand-short-name } salaa korttisi numeron. Turvakoodia ei tallenneta.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } salaa korttisi numeron ja turvakoodin, jotta vain sinä voit käyttää niitä maksulomakkeiden täyttämiseen.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Tallenna aina maksutapojen turvakoodit.
 credit-card-capture-save-button =
     .label = Tallenna
     .accessKey = T
@@ -56,6 +60,22 @@ autofill-manage-payment-methods-label = Hallitse maksutapoja
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV tallennettu
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV tallennettu
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV tallennettu
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV tallennettu
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -44,7 +44,11 @@ autocomplete-remove-password-title = Poistetaanko salasana?
 autocomplete-remove-address-title = Poistetaanko osoite?
 autocomplete-remove-payment-method-title = Poistetaanko maksutapa?
 autocomplete-remove-record-message = Tätä toimintoa ei voi kumota.
+autocomplete-delete-record-button = Poista
 autocomplete-remove-record-button = Poista
+autocomplete-delete-password-title = Poistetaanko salasana?
+autocomplete-delete-address-title = Poistetaanko osoite?
+autocomplete-delete-payment-method-title = Poistetaanko maksutapa?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
