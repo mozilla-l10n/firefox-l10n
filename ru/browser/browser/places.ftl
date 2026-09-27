@@ -256,6 +256,12 @@ places-search-downloads =
 places-locked-prompt = Работа с закладками и журналом невозможна, так как один из файлов { -brand-short-name } используется другим приложением. Данную проблему могут вызывать некоторые из защитных программ.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Создать
+    .label = Поделиться папкой
+    .accesskey = ф
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Новое
     .label = Поделиться папкой

@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Добавьте ещё оди
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из нескольких местоположений, чтобы обеспечить приватность вашего веб-сёрфинга.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из 5 местоположений, чтобы повысить приватность вашего веб-сёрфинга.
 ipprotection-feature-introduction-link-text-privacy-3 = Получите <a data-l10n-name="learn-more-vpn">дополнительную приватность</a>, выбрав одно из множества местоположений, чтобы скрывать своё пребывание в Интернете.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Помогите скрыть свое местоположение для <a data-l10n-name="learn-more-vpn">дополнительной конфиденциальности</a> при веб-сёрфинге. Включает или выключает VPN для определенных сайтов.
 ipprotection-feature-introduction-text-summer-promo-1 = Включите его, чтобы сделать ваш веб-сёрфинг более приватным. <a data-l10n-name="summer-promo-link">Получите неограниченную пропускную способность</a> и больше местоположений для веб-сёрфинга. Теперь до 31 августа.
 ipprotection-feature-introduction-title-summer-promo = Есть планы на дорогу? Возьмите приватность с собой.
 ipprotection-feature-introduction-description-summer-promo = Возьмите больше со встроенным VPN в { -brand-product-name }: больше местоположений, неограниченная пропускная способность. Теперь до 31 августа.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные, даже когда вы находитесь в приватном окне.
 ipprotection-feature-introduction-description-private-browsing = Работайте в интернете с дополнительной защитой, скрывая своё местоположение, даже когда вы находитесь в приватном окне.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Помогите скрыть свое местоположение для <a data-l10n-name="learn-more-vpn">дополнительной конфиденциальности</a> при веб-сёрфинге. Установите правила, чтобы включать VPN для дополнительной конфиденциальности или просмотра на основе местоположения, и выключать там, где это не нужно.
 ipprotection-feature-introduction-title-captive-portal = Используете общедоступный Wi-Fi? Попробуйте встроенный в { -brand-product-name } VPN.
 ipprotection-feature-introduction-description-captive-portal = Работайте в интернете с дополнительной защитой, скрывая своё местоположение даже при подключении к общедоступной сети Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Убрать VPN с панели инструментов
 ipprotection-feature-introduction-button-open-vpn = Открыть VPN
 ipprotection-feature-introduction-button-get-started = Начать
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Обеспечьте максимальную приватность с помощью встроенного VPN в { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Понятно
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Установите встроенные правила VPN, а затем сёрфите дальше
+ipprotection-site-inclusions-callout-title-lapsed-users = Попробуйте встроенный VPN, теперь сайт за сайтом
+ipprotection-site-inclusions-callout-description = Включите это, когда вам нужна дополнительная приватность или сёрфинг на основе местоположения, и выключите, если это вам не нужно.
+ipprotection-site-inclusions-callout-primary-button = Установить правила
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не сейчас
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Убрать
 
