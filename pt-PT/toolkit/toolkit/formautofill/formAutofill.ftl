@@ -77,7 +77,7 @@ credit-card-doorhanger-details-name = { $name }
 credit-card-doorhanger-details-expiration = { $month }/{ $year }
 credit-card-doorhanger-details-cvv = CVV guardado
 credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
-credit-card-doorhanger-details-name-cvv = { $expDate } | CVV guardado
+credit-card-doorhanger-details-name-cvv = { $name } | CVV guardado
 credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV guardado
 credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV guardado
 
