@@ -16,6 +16,10 @@ about-processes-kill-process =
     .title = Termina il processo
 about-processes-shutdown-tab =
     .title = Chiudi scheda
+about-processes-unload-tab =
+    .title = Scarica scheda
+about-processes-go-to-tab =
+    .title = Passa alla scheda
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -32,6 +36,11 @@ about-processes-profile-process =
 about-processes-column-name = Nome
 about-processes-column-memory-resident = Memoria
 about-processes-column-cpu-total = CPU
+# Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
+about-processes-column-cpu-total-tab = CPU
+    .title = % della capacità totale della CPU su tutti i core
+# Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
+about-processes-column-memory-resident-tab = RAM
 
 ## Process names
 ## Variables:
@@ -157,6 +166,14 @@ about-processes-cpu-almost-idle = < 0,1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = non attivo
     .title = Tempo CPU complessivo: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Special case: a tab is currently idle.
+about-processes-tab-cpu-fully-idle = non attiva
+# Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
+about-processes-tab-cpu-almost-idle = < 0,1%
 
 ## Displaying Memory (total and delta)
 ## Variables:
