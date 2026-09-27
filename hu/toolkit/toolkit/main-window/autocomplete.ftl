@@ -50,6 +50,9 @@ autocomplete-remove-payment-method-title = Eltávolítja ezt a fizetési módot?
 autocomplete-remove-record-message = Ez a művelet nem vonható vissza.
 autocomplete-delete-record-button = Törlés
 autocomplete-remove-record-button = Eltávolítás
+autocomplete-delete-password-title = Törli a jelszót?
+autocomplete-delete-address-title = Törli a címet?
+autocomplete-delete-payment-method-title = Törli a fizetési módot?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
