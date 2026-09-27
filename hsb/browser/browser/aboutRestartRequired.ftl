@@ -14,7 +14,7 @@ restart-required-multiple-instances-answer = Jeli jedyn profil abo jedna instanc
 restart-required-single-instance-question = Njewužiwam wjacore profile abo instancy. Čehodla so to stawa?
 restart-required-single-instance-answer = { -brand-short-name } dyrbi so snano znowa startować, jeli so aktualizacija w pozadku nałožuje, mjeztym zo je wočinjeny.
 restart-required-single-instance-answer-2 = To móže so za dołhe posedźenje přehladowanja stać, abo hdyž waš dźěłowy system { -brand-short-name } aktualizuje. Při nowym starće { -brand-short-name } wěsty wostawa a normalnje funguje.
-restart-required-unsaved-work-question = Móhł ja njeskładowane słowo zhubić?
+restart-required-unsaved-work-question = Móhł ja njeskładowane dźěło zhubić?
 restart-required-unsaved-work-answer = Snano, a wěmy, zo to je frustrěrowace. { -brand-short-name } waše rajtarki znowa wočinja, ale njeskładowane dźěło we webstronach, kaž tekst we formularje, so snano njewobnowja. Priwatne wokna so znowa njewočinjeja, zo by so waša priwatnosć škitała.
 restart-required-fix-question = To je woprawdźe mjerzace! Dźěła { -brand-short-name } hižo na porjedźenju?
 # Note: normally we would link to the bug here, but if the user sees this message,

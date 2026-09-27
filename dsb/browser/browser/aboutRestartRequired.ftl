@@ -5,6 +5,8 @@
 restart-required-title = Znowegostartowanje trjebne
 restart-required-why-now-question = Cogodla něnto?
 restart-required-more-details-heading = Dalšne drobnostki
+restart-required-single-instance-question = Njewužywam někotare profile abo instance. Cogodla se to stawa?
+restart-required-unsaved-work-question = Mógł ja njeskłaźone źěło zgubiś?
 restart-button-label2 = Znowego startowaś
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Wěcej pokazaś

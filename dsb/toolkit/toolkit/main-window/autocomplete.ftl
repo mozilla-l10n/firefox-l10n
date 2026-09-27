@@ -50,6 +50,9 @@ autocomplete-remove-payment-method-title = Płaśeńsku metodu wótwónoźeś?
 autocomplete-remove-record-message = Njamóžośo toś tu akciju anulěrowaś.
 autocomplete-delete-record-button = Lašowaś
 autocomplete-remove-record-button = Wótwónoźeś
+autocomplete-delete-password-title = Gronidło lašowaś?
+autocomplete-delete-address-title = Adresu lašowaś?
+autocomplete-delete-payment-method-title = Płaśeńsku metodu lašowaś?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

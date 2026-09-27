@@ -160,6 +160,10 @@ appmenu-fxa-last-sync = Slědna synchronizacija: { $time }
     .label = Slědna synchronizacija: { $time }
 appmenu-fxa-sync-and-save-data2 = Synchronizěrowaś a daty składowaś
 appmenu-fxa-signed-in-label = Pśizjawiś
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Synchronizěrujśo swóje daty wšuźi
 appmenu-fxa-sign-in-promo-link = Pśizjawiś
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Pśizjawjeńske wabjenje zachyśiś
