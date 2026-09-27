@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Znowegostartowanje trjebne
+restart-required-heading2 = Wódajśo, ale { -brand-short-name } musy se znowego startowaś
 restart-required-why-now-question = Cogodla něnto?
 restart-required-more-details-heading = Dalšne drobnostki
 restart-required-single-instance-question = Njewužywam někotare profile abo instance. Cogodla se to stawa?

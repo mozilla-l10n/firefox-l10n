@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Adicione mais uma camada de pr
 ipprotection-feature-introduction-link-text-privacy-1 = A <a data-l10n-name="learn-more-vpn">VPN integrada do { -brand-product-name }</a> ajuda a proteger a sua navegação. Pode escolher entre várias localizações, para tornar a sua navegação mais privada.
 ipprotection-feature-introduction-link-text-privacy-2 = A <a data-l10n-name="learn-more-vpn">VPN integrada do { -brand-product-name }</a> ajuda a proteger a sua navegação. Escolha a partir de múltiplas localizações para manter mais privado onde navega.
 ipprotection-feature-introduction-link-text-privacy-3 = Tenha <a data-l10n-name="learn-more-vpn">privacidade extra</a> ao escolher a partir de múltiplas localizações para esconder onde navega.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Ajuda a ocultar a sua localização para <a data-l10n-name="learn-more-vpn">privacidade extra</a> enquanto navega. Ative ou desative a VPN para sites específicos.
 ipprotection-feature-introduction-text-summer-promo-1 = Ative-a para manter a sua navegação mais privada. <a data-l10n-name="summer-promo-link">Obtenha largura de banda ilimitada</a> e mais localizações a partir de onde navegar. Agora até 31 de Agosto.
 ipprotection-feature-introduction-title-summer-promo = Tem planos de viagem? Leve a privacidade consigo.
 ipprotection-feature-introduction-description-summer-promo = Vá mais longe com a VPN integrada do { -brand-product-name }: mais localizações, largura de banda ilimitada. Agora até 31 de Agosto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utilize a nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar a sua localização e proteger os seus dados, mesmo quando estiver numa janela privada.
 ipprotection-feature-introduction-description-private-browsing = Navegue com proteção adicional ao ocultar a sua localização, mesmo ao utilizar uma janela privada.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Ajuda a ocultar a sua localização para <a data-l10n-name="learn-more-vpn">privacidade extra</a> enquanto navega. Defina regras para ligar a VPN para privacidade extra ou navegação baseada na localização, e desligar onde não quiser.
 ipprotection-feature-introduction-title-captive-portal = Está numa rede Wi-Fi pública? Experimente a VPN integrada do { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navegue com proteção adicional ao ocultar a sua localização, mesmo ao utilizar o Wi-Fi público.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Remover VPN da barra de ferramentas
 ipprotection-feature-introduction-button-open-vpn = Abrir VPN
 ipprotection-feature-introduction-button-get-started = Começar
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximize a privacidade com a VPN integrada do { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Percebi
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Defina regras para a VPN integrada, e depois continue a navegar
+ipprotection-site-inclusions-callout-title-lapsed-users = Experimente a VPN integrada, agora site a site
+ipprotection-site-inclusions-callout-description = Ative-a quando quiser uma privacidade extra ou navegação baseada na localização, e desative-a onde não quiser.
+ipprotection-site-inclusions-callout-primary-button = Definir regras
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Agora não
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Dispensar
 

@@ -177,6 +177,7 @@ change-backup-encryption-header = Alterar senha de backup
 
 password-rules-header = Requisitos de senha
 password-rules-length-description = Pelo menos 8 caracteres
+password-rules-email-description2 = Não é um endereço de email
 password-rules-email-description = Não ser seu endereço de email
 password-rules-disclaimer = Fique seguro, não reuse senhas. Veja mais dicas de como <a data-l10n-name="password-support-link">criar senhas fortes</a>.
 password-validity-has-email = Não pode ser um endereço de email
