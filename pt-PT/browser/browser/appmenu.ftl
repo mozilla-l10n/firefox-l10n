@@ -160,7 +160,14 @@ appmenu-fxa-last-sync = Última sincronização { $time }
     .label = Última sincronização { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizar e guardar dados
 appmenu-fxa-signed-in-label = Iniciar sessão
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Sincronize os seus dados em todo o lado
 appmenu-fxa-sign-in-promo-link = Iniciar sessão
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Dispensar promoção de início de sessão
+    .title = Dispensar
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Iniciar sessão para sincronizar
