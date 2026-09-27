@@ -5,11 +5,10 @@
 restart-required-title = Redémarrage nécessaire
 restart-required-heading2 = Désolé, { -brand-short-name } doit redémarrer
 restart-required-intro2 = { -brand-short-name } doit terminer une mise à jour. Redémarrez pour que tout reste sécurisé et fluide.
-window-restoration-info2 = Nous rouvrirons toutes les fenêtres et tous les onglets, à l’exception des privés.
+window-restoration-info2 = Nous rouvrirons toutes les fenêtres et tous les onglets, sauf ceux de navigation privée.
 restart-required-why-now-question = Pourquoi maintenant ?
-restart-required-why-now-answer = Cela peut se produire lorsqu’un autre profil ou instance { -brand-short-name } est mis à jour, ou lorsqu’une mise à jour ne peut pas attendre votre prochain redémarrage.
+restart-required-why-now-answer = Cela peut arriver lorsqu’un autre profil ou une autre instance de { -brand-short-name } effectue une mise à jour, ou lorsqu’une mise à jour ne peut pas attendre le prochain redémarrage.
 restart-required-more-details-heading = Plus de détails
-restart-required-multiple-instances-question = Pourquoi cela peut-il se produire avec plusieurs profils ou instances { -brand-short-name } ?
 restart-required-multiple-instances-answer = Si un profil ou une instance est mis à jour alors qu’un autre est encore ouvert, la version du profil peut être plus ancienne. Le redémarrage conserve la même version.
 restart-required-single-instance-question = Je n’utilise pas plusieurs profils ou instances. Que se passe-t-il ?
 restart-required-single-instance-answer = { -brand-short-name } peut avoir besoin d’un redémarrage si une mise à jour est appliquée en arrière-plan alors qu’il est ouvert.

@@ -10,7 +10,9 @@ restart-required-why-now-question = Čehodla nětko?
 restart-required-why-now-answer = To móže so stać, hdyž so druhi profil abo instanca { -brand-short-name } aktualizuje, abo hdyž aktualizacija njemóže hač do přichodneho noweho starta čakać.
 restart-required-more-details-heading = Dalše podrobnosće
 restart-required-multiple-instances-question = Čehodla móže so to z wjacorymi profilemi abo instancami { -brand-short-name } stać?
+restart-required-multiple-instances-answer = Jeli jedyn profil abo jedna instanca so aktualizuje, mjeztym zo druhi profil abo druha instanca stej hišće wočinjenej, móže wočinjeny profil abo wočinjena instanca na staršej wersiji wostać. Při nowym starće wšitko na samsnej wersiji wostawa.
 restart-required-single-instance-question = Njewužiwam wjacore profile abo instancy. Čehodla so to stawa?
+restart-required-single-instance-answer = { -brand-short-name } dyrbi so snano znowa startować, jeli so aktualizacija w pozadku nałožuje, mjeztym zo je wočinjeny.
 restart-required-unsaved-work-question = Móhł ja njeskładowane słowo zhubić?
 restart-button-label2 = Znowa startować
 # Expands the "More details" section below the buttons.
