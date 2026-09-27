@@ -16,6 +16,7 @@ restart-required-single-instance-answer = { -brand-short-name } musy se snaź zn
 restart-required-single-instance-answer-2 = To móžo se za dłujke pósejźenje pśeglědowanja staś, abo gaž waš źěłowy system { -brand-short-name } aktualizěrujo. Pśi nowem starśe { -brand-short-name } wěsty wóstawa a normalnje funkcioněrujo.
 restart-required-unsaved-work-question = Mógł ja njeskłaźone źěło zgubiś?
 restart-required-unsaved-work-answer = Snaź, a wěmy, až to jo frustrěrujuce. { -brand-short-name } waše rejtariki znowego wócynja, ale njeskłaźone źěło we webbokach, ako tekst we formularje, se snaź njewótnowja. Priwatne wokna se znowego njewócynjaju, aby se waša priwatnosć šćitała.
+restart-required-fix-question = To jo napšawdu wobuzne! Źěła { -brand-short-name } na pórěźenju?
 restart-button-label2 = Znowego startowaś
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Wěcej pokazaś

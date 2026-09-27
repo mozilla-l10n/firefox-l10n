@@ -58,6 +58,7 @@ about-logging-preset-web-compat-description = Módulos de registo para diagnosti
 about-logging-preset-navigation = Navegação
 about-logging-preset-navigation-description = Módulos de registo para diagnosticar problemas de navegação e de histórico de sessões
 about-logging-preset-vpn-label = VPN
+about-logging-preset-vpn-description = Registar módulos para diagnosticar problemas com a Proteção de IP (VPN)
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Módulos de registo para diagnosticar problemas no WebGPU
 about-logging-preset-gfx-label = Gráficos
