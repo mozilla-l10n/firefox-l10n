@@ -177,6 +177,7 @@ change-backup-encryption-header = Biztonsági mentés jelszavának megváltoztat
 
 password-rules-header = Jelszókövetelmények
 password-rules-length-description = Legalább 8 karakter
+password-rules-email-description2 = Nem e-mail-cím
 password-rules-email-description = Nem az Ön e-mail-címe
 password-rules-disclaimer = Maradjon biztonságban – ne használja újra a jelszavakat. További tippek megtekintése az <a data-l10n-name="password-support-link">erős jelszavak létrehozásához</a>.
 password-validity-has-email = Nem lehet e-mail-cím

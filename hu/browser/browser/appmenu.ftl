@@ -161,6 +161,14 @@ appmenu-fxa-last-sync = Utoljára szinkronizálva: { $time }
 appmenu-fxa-sync-and-save-data2 = Adatok szinkronizálása és mentése
 appmenu-fxa-signed-in-label = Bejelentkezés
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Szinkronizálja az adatait mindenhol
+appmenu-fxa-sign-in-promo-link = Bejelentkezés
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Bejelentkezési promóció eltüntetése
+    .title = Eltüntetés
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Jelentkezzen be a szinkronizáláshoz
 appmenu-fxa-sign-in-promo-message = Vigye magával az adatait mindenhová

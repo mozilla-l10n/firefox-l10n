@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = A(z) { $provider } eltávolítása
 genai-menu-remove-sidebar =
     .label = Eltávolítás az oldalsávról
+genai-shortcut-button-3 =
+    .aria-label = Kérdezzen erről a szövegről
+    .tooltiptext = Kérdezzen erről a szövegről
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = A(z) { $provider } megkérdezése

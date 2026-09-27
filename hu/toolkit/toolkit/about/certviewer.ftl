@@ -75,7 +75,7 @@ certificate-viewer-subject-name = Tárgy neve
 certificate-viewer-issuer-name = Kibocsátó neve
 certificate-viewer-validity = Érvényesség
 certificate-viewer-subject-alt-names = Tárgy alternatív nevei
-certificate-viewer-public-key-info = Nyilvános kulcs információ
+certificate-viewer-public-key-info = Nyilvános kulcs információi
 certificate-viewer-miscellaneous = Egyebek
 certificate-viewer-fingerprints = Ujjlenyomatok
 certificate-viewer-basic-constraints = Alapvető korlátozások
@@ -85,7 +85,7 @@ certificate-viewer-ocsp-stapling = OCSP-rögzítés
 certificate-viewer-subject-key-id = Tárgy kulcsazonosítója
 certificate-viewer-authority-key-id = Hitelesítő kulcsazonosítója
 certificate-viewer-authority-info-aia = Hitelesítői információk (AIA)
-certificate-viewer-certificate-policies = Tanúsítvány házirendek
+certificate-viewer-certificate-policies = Tanúsítvány-házirendek
 certificate-viewer-embedded-scts = Beágyazott SCT-k
 certificate-viewer-crl-endpoints = CRL végpontok
 # This message is used as a row header in the Miscellaneous section.

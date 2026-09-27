@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Dátum és idő
 sidebar-history-sort-option-last-visited =
     .label = Utoljára látogatva
+sidebar-history-sort-option-most-visited =
+    .label = Legtöbbször látogatott
 
 ## Labels for sidebar search
 

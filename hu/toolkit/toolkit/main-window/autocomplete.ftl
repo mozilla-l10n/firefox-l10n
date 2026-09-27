@@ -48,6 +48,7 @@ autocomplete-remove-password-title = Jelszó eltávolítása?
 autocomplete-remove-address-title = Cím eltávolítása?
 autocomplete-remove-payment-method-title = Eltávolítja ezt a fizetési módot?
 autocomplete-remove-record-message = Ez a művelet nem vonható vissza.
+autocomplete-delete-record-button = Törlés
 autocomplete-remove-record-button = Eltávolítás
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete

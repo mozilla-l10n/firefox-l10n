@@ -33,6 +33,9 @@ autofill-options-link = Automatikus űrlapkitöltési beállítások
 credit-card-doorhanger-credit-cards-sync-checkbox = Az összes mentett kártya szinkronizálása a saját eszközök közt
 credit-card-save-doorhanger-header = Elmenti biztonságosan ezt a kártyát?
 credit-card-save-doorhanger-description = A { -brand-short-name } titkosítja a kártyaszámát. A biztonsági kód nem lesz mentve.
+credit-card-save-doorhanger-description-security-code = A { -brand-short-name } titkosítja a kártyaszámát és a biztonsági kódját, így csak Ön használhatja azokat fizetési űrlapok kitöltéséhez
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = A fizetési módokhoz mindig mentse el a biztonsági kódokat.
 credit-card-capture-save-button =
     .label = Mentés
     .accessKey = M
@@ -61,6 +64,22 @@ autofill-manage-payment-methods-label = Fizetési módok kezelése
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV mentve
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV mentve
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV mentve
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV mentve
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

@@ -103,6 +103,11 @@ ipprotection-android-promo-callout-primary-button = Megértettem
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Állítson be szabályokat a beépített VPN-hez, majd folytassa a böngészést
+ipprotection-site-inclusions-callout-title-lapsed-users = Próbálja ki a beépített VPN-t, akár webhelyenként beállítva
+ipprotection-site-inclusions-callout-description = Kapcsolja be, ha fokozott adatvédelmet vagy helyfüggő böngészést szeretne, és kapcsolja ki, ahol nem.
+ipprotection-site-inclusions-callout-primary-button = Szabályok beállítása
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Most nem
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Eltüntetés
 
