@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Redémarrage nécessaire
-restart-required-heading2 = Désolé, { -brand-short-name } doit redémarrer rapidement
+restart-required-heading2 = Désolé, { -brand-short-name } doit redémarrer
 restart-required-intro2 = { -brand-short-name } doit terminer une mise à jour. Redémarrez pour que tout reste sécurisé et fluide.
 window-restoration-info2 = Nous rouvrirons toutes les fenêtres et tous les onglets, à l’exception des privés.
 restart-required-why-now-question = Pourquoi maintenant ?

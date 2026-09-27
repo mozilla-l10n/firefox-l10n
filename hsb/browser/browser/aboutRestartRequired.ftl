@@ -4,7 +4,10 @@
 
 restart-required-title = Znowastartowanje trěbne
 restart-required-heading2 = Wodajće, ale { -brand-short-name } dyrbi so znowa startować
+restart-required-intro2 = { -brand-short-name } dyrbi aktualizaciju dokónčić. Startujće znowa, zo byšće wšitko wěste a bjez ćežow dźeržał.
+window-restoration-info2 = Budźemy wšě wokna a rajtarki znowa wočinjeć, nimo priwatnych.
 restart-required-why-now-question = Čehodla nětko?
+restart-required-why-now-answer = To móže so stać, hdyž so druhi profil abo instanca { -brand-short-name } aktualizuje, abo hdyž aktualizacija njemóže hač do přichodneho noweho starta čakać.
 restart-required-more-details-heading = Dalše podrobnosće
 restart-required-multiple-instances-question = Čehodla móže so to z wjacorymi profilemi abo instancami { -brand-short-name } stać?
 restart-required-single-instance-question = Njewužiwam wjacore profile abo instancy. Čehodla so to stawa?
