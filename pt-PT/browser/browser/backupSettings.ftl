@@ -177,6 +177,7 @@ change-backup-encryption-header = Alterar a palavra-passe da cópia de seguranç
 
 password-rules-header = Requisitos da palavra-passe
 password-rules-length-description = Pelo menos 8 carateres
+password-rules-email-description2 = Não é um endereço de e-mail
 password-rules-email-description = Não é o seu endereço de correio eletrónico
 password-rules-disclaimer = Mantenha-se em segurança — não reutilize palavras-passe. Consulte mais dicas para <a data-l10n-name="password-support-link">criar palavras-passe fortes</a>.
 password-validity-has-email = Não pode ser um endereço de correio eletrónico
