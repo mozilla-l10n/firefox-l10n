@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Dalšnu rowninu priwatnosći p
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> pomaga wašo pśeglědowanje šćitaś. Wubjeŕśo z někotarych stojnišćow, źož cośo priwatnjej pśeglědowaś.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> pomaga waše pśeglědowanje šćitaś. Wubjeŕśo z někotarych stojnišćow, źož cośo priwatnjej pśeglědowaś.
 ipprotection-feature-introduction-link-text-privacy-3 = Wubjeŕśo z někotarych stojnišćow, aby schował, źož pśeglědujośo, aby <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> dostał.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Pomagajśo, wašo stojnišćo za <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> schowaś, gaž pśeglědujośo. Zmóžniśo abo znjemóžniśo VPN za wěste sedła.
 ipprotection-feature-introduction-text-summer-promo-1 = Zmóžniśo jen, aby swójo pśeglědowanje priwatnjejše źaržał. <a data-l10n-name="summer-promo-link">Dostańśo njewobgranicowanu šyrokosć pasma</a> a wěcej stojnišćow, z kótarychž móžośo pśeglědowaś. Něnto až do 31. awgusta.
 ipprotection-feature-introduction-title-summer-promo = Maśo drogowańske plany? Wzejśo priwatnosć ze sobu.
 ipprotection-feature-introduction-description-summer-promo = Pókšacujśo ze zatwarjonym VPN { -brand-product-name }: wěcej stojnišćow, njewobgranicowana šyrokosć pasma. Něnto až do 31. awgusta.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty šćitał, samo gaby wy w priwatnym woknje był.
 ipprotection-feature-introduction-description-private-browsing = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo gaby wy był w priwatnem woknje.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Pomagajśo, wašo stojnišćo za <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> schowaś, gaž pśeglědujośo. Nastajśo pšawidła, aby VPN za pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje zmóžnił, abo znjemóžnił, gaž jen njetrjebaśo.
 ipprotection-feature-introduction-title-captive-portal = W zjawnem WLAN? Wopytajśo zatwarjony VPN { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo w zjawnem WLAN.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN ze symboloweje rědki wótwónoźeś
 ipprotection-feature-introduction-button-open-vpn = VPN wócyniś
 ipprotection-feature-introduction-button-get-started = Prědne kšace
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maksiměrujśo priwatnosć ze zatwarjonym VPN { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 

@@ -17,6 +17,9 @@ restart-required-single-instance-answer-2 = To móžo se za dłujke pósejźenje
 restart-required-unsaved-work-question = Mógł ja njeskłaźone źěło zgubiś?
 restart-required-unsaved-work-answer = Snaź, a wěmy, až to jo frustrěrujuce. { -brand-short-name } waše rejtariki znowego wócynja, ale njeskłaźone źěło we webbokach, ako tekst we formularje, se snaź njewótnowja. Priwatne wokna se znowego njewócynjaju, aby se waša priwatnosć šćitała.
 restart-required-fix-question = To jo napšawdu wobuzne! Źěła { -brand-short-name } na pórěźenju?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Jo. Wěmy, až to jo mólece a źěłamy na pórěźenju, aby my tomu zajźowali. Aktualny staw namakajośo w rozpšawje zmólki 2072739 na Bugzilla.
 restart-button-label2 = Znowego startowaś
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Wěcej pokazaś
