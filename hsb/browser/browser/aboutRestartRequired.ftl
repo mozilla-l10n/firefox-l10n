@@ -13,7 +13,10 @@ restart-required-multiple-instances-question = Čehodla móže so to z wjacorymi
 restart-required-multiple-instances-answer = Jeli jedyn profil abo jedna instanca so aktualizuje, mjeztym zo druhi profil abo druha instanca stej hišće wočinjenej, móže wočinjeny profil abo wočinjena instanca na staršej wersiji wostać. Při nowym starće wšitko na samsnej wersiji wostawa.
 restart-required-single-instance-question = Njewužiwam wjacore profile abo instancy. Čehodla so to stawa?
 restart-required-single-instance-answer = { -brand-short-name } dyrbi so snano znowa startować, jeli so aktualizacija w pozadku nałožuje, mjeztym zo je wočinjeny.
+restart-required-single-instance-answer-2 = To móže so za dołhe posedźenje přehladowanja stać, abo hdyž waš dźěłowy system { -brand-short-name } aktualizuje. Při nowym starće { -brand-short-name } wěsty wostawa a normalnje funguje.
 restart-required-unsaved-work-question = Móhł ja njeskładowane słowo zhubić?
+restart-required-unsaved-work-answer = Snano, a wěmy, zo to je frustrěrowace. { -brand-short-name } waše rajtarki znowa wočinja, ale njeskładowane dźěło we webstronach, kaž tekst we formularje, so snano njewobnowja. Priwatne wokna so znowa njewočinjeja, zo by so waša priwatnosć škitała.
+restart-required-fix-question = To je woprawdźe mjerzace! Dźěła { -brand-short-name } hižo na porjedźenju?
 restart-button-label2 = Znowa startować
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Wjace pokazać

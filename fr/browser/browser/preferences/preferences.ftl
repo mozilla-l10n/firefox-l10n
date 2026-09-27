@@ -1376,7 +1376,7 @@ autofill-reauth-payment-methods-checkbox-2 =
     .accesskey = E
 # Security codes are the CVV/CVC card codes
 autofill-payment-methods-save-security-codes-checkbox =
-    .label = Enregistrer les codes de sécurité
+    .label = Enregistrer les cryptogrammes visuels
     .accesskey = E
 autofill-payment-methods-add-button = Ajouter un nouveau moyen de paiement
 payments-list-header =

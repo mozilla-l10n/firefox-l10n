@@ -61,4 +61,4 @@ credit-card-label-number-name-expiration-2 = { $number }, { $name }, { credit-ca
 #   $ariaLabel (String): The .aria-label of that same credit-card-label-*
 #     string, which additionally names the card type
 credit-card-label-with-security-code = { $label } | Cryptogramme visuel enregistré
-    .aria-label = { $ariaLabel }, CVV économisé
+    .aria-label = { $ariaLabel }, cryptogramme visuel enregistré
