@@ -28,7 +28,7 @@ policy-BlockAboutConfig = Zablokuje prístup na stránku about:config.
 policy-BlockAboutProfiles = Zablokuje prístup na stránku about:profiles.
 policy-BlockAboutSupport = Zablokuje prístup na stránku about:support.
 policy-Bookmarks = Vytvorí záložku na paneli záložiek, v ponuke alebo vo vybranom priečinku.
-policy-CaptivePortal = Povolenie alebo zakázanie podpory pre captive portály.
+policy-CaptivePortal = Povolí alebo zakáže podporu pre portály na overenie prístupu.
 policy-CertificatesDescription = Pridá certifikáty alebo použije zabudované certifikáty.
 policy-ClearOnShutdown = Vymaže údaje o prehliadaní pri zatvorení aplikácie { -brand-short-name }.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
