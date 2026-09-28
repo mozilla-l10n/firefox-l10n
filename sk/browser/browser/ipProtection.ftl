@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Pridajte ďalšiu vrstvu súkr
 ipprotection-feature-introduction-link-text-privacy-1 = Vstavaná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z niekoľkých lokalít, aby ste si zachovali súkromie pri prehliadaní.
 ipprotection-feature-introduction-link-text-privacy-2 = VPN vstavaná vo <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "loc") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z viacerých lokalít, aby ste si zachovali väčšie súkromie pri prehliadaní.
 ipprotection-feature-introduction-link-text-privacy-3 = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z viacerých lokalít, ak chcete skryť odkiaľ prehliadate.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Pomôžte skryť svoju polohu a získajte pri prehliadaní <a data-l10n-name="learn-more-vpn">viac súkromia</a>. Pre vybrané stránky môžete VPN zapnúť alebo vypnúť.
 ipprotection-feature-introduction-text-summer-promo-1 = Zapnite si ju a zachovajte si súkromie pri prehliadaní. <a data-l10n-name="summer-promo-link">Získajte neobmedzenú šírku pásma</a> a viac lokalít na prehliadanie. Platí do 31. augusta.
 ipprotection-feature-introduction-title-summer-promo = Máte cestovné plány? Vezmite si so sebou súkromie.
 ipprotection-feature-introduction-description-summer-promo = Zájdite ďalej s VPN vstavanou vo { -brand-product-name(case: "loc") }: viac lokalít, neobmedzená šírka pásma. Platí do 31. augusta.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
 ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Pomôžte skryť svoju polohu a získajte pri prehliadaní <a data-l10n-name="learn-more-vpn">viac súkromia</a>. Nastavte pravidlá, kde sa má VPN zapnúť na zvýšenie súkromia alebo prehliadanie podľa polohy a kde má zostať vypnutá.
 ipprotection-feature-introduction-title-captive-portal = Používate verejnú Wi‑Fi sieť? Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }.
 ipprotection-feature-introduction-description-captive-portal = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj na verejných Wi‑Fi sieťach.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odstrániť VPN z panela nástrojov
 ipprotection-feature-introduction-button-open-vpn = Otvoriť VPN
 ipprotection-feature-introduction-button-get-started = Začíname
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Zvýšte svoje súkromie pomocou VPN zabudovanej v prehliadači { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Rozumiem
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Nastavte pravidlá pre vstavanú VPN a pokračujte v prehliadaní
+ipprotection-site-inclusions-callout-title-lapsed-users = Vyskúšajte vstavanú VPN, teraz s individuálnym nastavením pre každú stránku
+ipprotection-site-inclusions-callout-description = Zapnite ju na weboch, kde chcete viac súkromia alebo prehliadanie podľa polohy, a na ostatných ju nechajte vypnutú.
+ipprotection-site-inclusions-callout-primary-button = Nastaviť pravidlá
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Teraz nie
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zavrieť
 
