@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Odstrániť heslo?
 autocomplete-remove-address-title = Odstrániť adresu?
 autocomplete-remove-payment-method-title = Odstrániť spôsob platby?
 autocomplete-remove-record-message = Túto akciu nie je možné vrátiť späť.
+autocomplete-delete-record-button = Odstrániť
 autocomplete-remove-record-button = Odstrániť
+autocomplete-delete-password-title = Odstrániť heslo?
+autocomplete-delete-address-title = Odstrániť adresu?
+autocomplete-delete-payment-method-title = Odstrániť spôsob platby?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

@@ -58,6 +58,7 @@ about-logging-preset-web-compat-description = Moduly protokolovania na diagnosti
 about-logging-preset-navigation = Navigácia
 about-logging-preset-navigation-description = Moduly protokolovania na diagnostiku problémov s navigáciou a históriou relácií
 about-logging-preset-vpn-label = VPN
+about-logging-preset-vpn-description = Moduly protokolovania na diagnostiku problémov s ochranou IP (VPN)
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Moduly protokolovania na diagnostiku problémov s WebGPU
 about-logging-preset-gfx-label = Grafika
