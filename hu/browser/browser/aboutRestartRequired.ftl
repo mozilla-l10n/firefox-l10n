@@ -17,6 +17,9 @@ restart-required-single-instance-answer-2 = Ez hosszú böngészési munkamenet 
 restart-required-unsaved-work-question = Elveszhetnek a nem mentett módosításaim?
 restart-required-unsaved-work-answer = Lehetséges, és tudjuk, hogy ez frusztráló. A { -brand-short-name } újra megnyitja a lapokat, de a weboldalakon belüli nem mentett munkák, mint az űrlapok szövege, nem feltétlenül állnak helyre. A privát ablakok az Ön adatvédelme érdekében nem nyílnak meg újra.
 restart-required-fix-question = Ez tényleg bosszantó! A { -brand-short-name } dolgozik a javításon?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Igen. Tudjuk, hogy ez zavaró, és dolgozunk a javításon, hogy megakadályozzuk. Kövesse a Bugzilla 2072739-es számú hibáját.
 restart-button-label2 = Újraindítás
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Tovább
