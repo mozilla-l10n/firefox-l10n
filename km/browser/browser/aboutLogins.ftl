@@ -10,7 +10,7 @@ about-logins-login-filter2 =
 create-login-button =
     .title = បន្ថែមពាក្យសម្ងាត់
 fxaccounts-sign-in-text = ទាញយក​ពាក្យ​សម្ងាត់​របស់​អ្នក​នៅ​លើ​ឧបករណ៍​ផ្សេងទៀត​របស់​អ្នក
-fxaccounts-sign-in-sync-button = ចូល ដើម្បី​ធ្វើ​សមកាលកម្ម
+fxaccounts-sign-in-sync-button = សូមបញ្ជាប់ចូល ដើម្បីសមកាលកម្ម
 fxaccounts-avatar-button =
     .title = គ្រប់គ្រង​គណនី
 
