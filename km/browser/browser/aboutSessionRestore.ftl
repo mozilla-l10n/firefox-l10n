@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-restore-page-tab-title = ស្ដារ​សម័យ
+restore-page-tab-title = ស្ដារកាលានុកាលឡើងវិញ
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = សូមអភ័យទោស។ យើង​ជួប​បញ្ហា​ក្នុង​ការ​ស្ដារ​ទំព័រ​របស់​អ្នក​មកវិញ។

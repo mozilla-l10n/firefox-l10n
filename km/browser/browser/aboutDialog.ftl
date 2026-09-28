@@ -65,7 +65,8 @@ aboutdialog-help-user = ជំនួយ { -brand-product-name }
 aboutdialog-submit-feedback = ដាក់បញ្ជូន​មតិ​កែលម្អ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ជា <label data-l10n-name="community-exp-creditsLink">សហគមន៍​សកល</label> ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា ។
 community-2 = { -brand-short-name } ត្រូវ​បាន​រចនា​ដោយ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label><label data-l10n-name="community-creditsLink">សហគមន៍​សកល</label> ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា។
-helpus = ចង់​ជួយ?<label data-l10n-name="helpus-donateLink">ជួយ​ឧបត្ថម្ភ</label> ឬ <label data-l10n-name="helpus-getInvolvedLink">ចូលរួម​ចំណែក!</label>
+helpus = ចង់ជួយមែនដែរឬទេ? <label data-l10n-name="helpus-donateLink">សូមធ្វើការបរិច្ចាគ</label> ឬ <label data-l10n-name="helpus-getInvolvedLink">ចូលរួមចំណែក!</label>
+helpus-referrals2 = ចង់ជួយមែនដែរឬទេ? <label data-l10n-name="helpus-donateLink">សូមធ្វើការបរិច្ចាគ</label>, <label data-l10n-name="helpus-shareFirefoxLink">ចែករំលែក{ -brand-product-name }</label>ឬ <label data-l10n-name="helpus-getInvolvedLink">ចូលរួមចំណែក!</label>
 bottomLinks-license = ព័ត៌មាន​អាជ្ញាបណ្ណ
 bottom-links-terms = លក្ខខណ្ឌនៃការប្រើប្រាស់
 bottom-links-privacy = ការជូនដំណឹងស្ដីពីឯកជនភាព
