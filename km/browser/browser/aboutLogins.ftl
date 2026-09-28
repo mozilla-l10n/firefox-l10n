@@ -63,7 +63,7 @@ about-logins-list-item-breach-icon =
     .title = គេហទំព័រ​ដែល​បាន​បំពាន
 about-logins-list-item-vulnerable-password-icon =
     .title = ពាក្យសម្ងាត់ងាយរងគ្រោះ
-about-logins-list-section-breach = គេហទំព័រ​ដែលបំពាន
+about-logins-list-section-breach = វេបសាយបានទន្លាយ
 about-logins-list-section-vulnerable = ពាក្យសម្ងាត់ងាយរងគ្រោះ
 about-logins-list-section-nothing = មិនមានការជូនដំណឹង
 about-logins-list-section-today = ថ្ងៃនេះ
@@ -155,8 +155,8 @@ about-logins-export-password-os-auth-dialog-message2-macosx = នាំចេញ
 
 about-logins-primary-password-notification-message = សូមបញ្ចូលពាក្យសម្ងាត់ចម្បង​របស់អ្នក ដើម្បីមើលការចូល ព្រមទាំង​ពាក្យសម្ងាត់ដែលបានរក្សាទុក
 master-password-reload-button =
-    .label = ចូល
-    .accesskey = ច
+    .label = បញ្ជាប់ចូល
+    .accesskey = L
 
 ## Dialogs
 

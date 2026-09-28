@@ -91,6 +91,10 @@ permissions-exceptions-cookie-window2 =
     .title = Izņēmumi - sīkdatnes un kešatmiņa
 permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un kurām nav atļauts izmantot sīkdatnes un kešatmiņu. Ierakstiet precīzu lapas adresi un klikšķiniet uz Bloķēt, Atļaut uz sesiju  vai Atļaut.
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-desc = Var norādīt, kuru tīmekļvietņu dati tiks paturēti, kad { -brand-short-name } notīra vēsturi pēc aizvēršanas. Jāievada pilnīga vietnes adrese, kuru ir vēlēšanās pārvaldīt, un jāklikšķina “Atļaut”
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
