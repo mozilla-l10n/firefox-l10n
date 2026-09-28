@@ -111,6 +111,8 @@ ipprotection-android-promo-callout-primary-button = Entendido
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+ipprotection-site-inclusions-callout-title-lapsed-users = Pruebe la VPN integrada, ahora sitio por sitio.
+ipprotection-site-inclusions-callout-description = Actívela cuando quiera privacidad adicional o navegación basada en la ubicación, y desactívela donde no quiera.
 ipprotection-site-inclusions-callout-primary-button = Establecer reglas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = No ahora
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Descartar

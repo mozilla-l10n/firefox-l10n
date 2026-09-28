@@ -33,6 +33,9 @@ autofill-options-link = Opciones de autocompletar formularios
 credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todas las tarjetas guardadas en mis dispositivos
 credit-card-save-doorhanger-header = ¿Guardar esta tarjeta de forma segura?
 credit-card-save-doorhanger-description = { -brand-short-name } cifra su número de tarjeta. El código de seguridad no se guardará.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } cifra su número de tarjeta y código de seguridad, para que solo usted pueda usarlos para completar formularios de pago.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Guardar siempre los códigos de seguridad para los métodos de pago.
 credit-card-capture-save-button =
     .label = Guardar
     .accessKey = G
@@ -70,6 +73,9 @@ autofill-card-security-code-label = CVC
 ##   $month (String): Two-digit month the card expires
 ##   $year (String): Two-digit year the card expires
 
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV guardado
 credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
 credit-card-doorhanger-details-name-cvv = { $name } | CVV guardado
 credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV guardado
