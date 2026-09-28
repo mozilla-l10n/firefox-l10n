@@ -158,7 +158,7 @@ action-log-searching-settings = 설정 검색 중
 action-log-searched-settings = 설정 검색됨
 # Variables
 #   $count (Number) - how many tool steps completed in the turn
-action-log-completed-steps = { $count } 단계 완료됨
+action-log-completed-steps = { $count } 단계 완료
 
 ## Assistant Loader
 
