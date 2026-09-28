@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = datumu in spletnem mestu
 sidebar-history-sort-option-last-visited =
     .label = času zadnjega obiska
+sidebar-history-sort-option-most-visited =
+    .label = Najbolj obiskano
 
 ## Labels for sidebar search
 

@@ -177,6 +177,7 @@ change-backup-encryption-header = Sprememba gesla varnostnih kopij
 
 password-rules-header = Zahteve za geslo
 password-rules-length-description = vsaj 8 znakov
+password-rules-email-description2 = ni e-poštni naslov
 password-rules-email-description = ni vaš e-poštni naslov
 password-rules-disclaimer = Ostanite varni – ne reciklirajte gesel. Oglejte si več nasvetov za <a data-l10n-name="password-support-link">ustvarjanje močnih gesel</a>.
 password-validity-has-email = ne sme biti e-poštni naslov
