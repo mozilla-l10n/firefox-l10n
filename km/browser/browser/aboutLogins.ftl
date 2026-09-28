@@ -258,7 +258,7 @@ about-logins-import-file-picker-import-button = នាំចូល
 about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] ឯកសារ CSV
-       *[other] CSV File
+       *[other] ឯកសារ CSV
     }
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
@@ -282,7 +282,7 @@ about-logins-import-dialog-items-error =
     }
 about-logins-import-dialog-done = រួចរាល់
 about-logins-import-dialog-error-title = ការនាំចូល​មាន​បញ្ហា
-about-logins-import-dialog-error-conflicting-values-title = តម្លៃ​ស្ទួន​ច្រើន​សម្រាប់​ការចូល​មួយ
+about-logins-import-dialog-error-conflicting-values-title = តម្លៃស្ទួនច្រើនសម្រាប់បញ្ជាប់ចូលតែមួយ
 about-logins-import-dialog-error-conflicting-values-description = ឧទាហរណ៍៖ អត្ថនាម ពាក្យសម្ងាត់ URL ៘ជាច្រើន សម្រាប់ការបញ្ជាប់ចូលមួយ។
 about-logins-import-dialog-error-file-format-title = បញ្ហា​ទម្រង់​ឯកសារ
 about-logins-import-dialog-error-file-format-description = ក្បាលអត្ថបទ​ជួរឈរ​មិន​ត្រឹមត្រូវ ឬ​បាត់។ សូមប្រាកដ​ថា ឯកសារ​មាន​ជួរឈរ​សម្រាប់​ឈ្មោះ​អ្នក​ប្រើប្រាស់ ពាក្យសម្ងាត់ និង URL។

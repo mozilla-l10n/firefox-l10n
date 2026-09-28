@@ -64,3 +64,9 @@ about-private-browsing-cookie-banners-promo-body = ឥឡូវនេះ យើ�
 about-private-browsing-felt-privacy-v1-info-header = កុំទុកដាននៅលើឧបករណ៍នេះ
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } លុបខូគី ប្រវត្តិ និងទិន្នន័យគេហទំព័ររបស់អ្នក នៅពេលអ្នកបិទបង្អួចឯកជនរបស់អ្នកទាំងអស់។
 about-private-browsing-felt-privacy-v1-info-link = តើអ្នកណាអាចមើលឃើញសកម្មភាពរបស់ខ្ញុំ?
+
+## Strings for the Private Window basics spotlight
+
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = អ្វីដែលត្រូវដឹង
