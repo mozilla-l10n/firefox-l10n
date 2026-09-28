@@ -161,6 +161,14 @@ appmenu-fxa-last-sync = Cydweddwyd diwethaf { $time }
 appmenu-fxa-sync-and-save-data2 = Cydweddu a chadw data
 appmenu-fxa-signed-in-label = Mewngofnodi
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Cydweddu eich data ym mhobman
+appmenu-fxa-sign-in-promo-link = Mewngofnodi
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Cau anogiad i fewngofnodi
+    .title = Cau
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Mewngofnodwch i gydweddu
 appmenu-fxa-sign-in-promo-message = Cael eich data ym mhobman

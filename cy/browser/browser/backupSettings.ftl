@@ -177,6 +177,7 @@ change-backup-encryption-header = Newid y cyfrinair wrth gefn
 
 password-rules-header = Gofynion cyfrinair
 password-rules-length-description = O leiaf 8 nod
+password-rules-email-description2 = Nid yn gyfeiriad e-bost
 password-rules-email-description = Nid eich cyfeiriad e-bost
 password-rules-disclaimer = Cadwch yn ddiogel - peidiwch ag ailddefnyddio cyfrineiriau. Dyma ragor o awgrymiadau ar gyfer <a data-l10n-name="password-support-link">creu cyfrineiriau cryf</a>.
 password-validity-has-email = Does dim modd iddo fod yn gyfeiriad e-bost

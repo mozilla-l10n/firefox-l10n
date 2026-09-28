@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifat
 ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN cynhenid { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-privacy-2 = Mae <a data-l10n-name="learn-more-vpn"> VPN cynhenid { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o leoliadau lluosog i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-privacy-3 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o blith nifer o leoliadau i guddio lle rydych chi'n pori.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Helpwch i guddio'ch lleoliad ar gyfer <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> wrth i chi bori. Rhowch y VPN ymlaen neu i ffwrdd ar gyfer rhai gwefannau.
 ipprotection-feature-introduction-text-summer-promo-1 = Trowch ef ymlaen i gadw'ch pori yn fwy preifat. <a data-l10n-name="summer-promo-link">Cael lled band diderfyn</a> a mwy o leoliadau i bori ynddyn nhw. Nawr tan Awst 31.
 ipprotection-feature-introduction-title-summer-promo = Oes gennych chi gynlluniau teithio? Ewch â phreifatrwydd gyda chi.
 ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda VPN cynhenid { -brand-product-name }: mwy o leoliadau, lled band diderfyn. Nawr tan Awst 31.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Helpwch i guddio'ch lleoliad ar gyfer <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> wrth i chi bori. Gosodwch reolau i droi'r VPN ymlaen ar gyfer preifatrwydd ychwanegol neu bori ar sail lleoliad, a ei ddiffodd lle nad ydych chi.
 ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN cynhenid { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Tynnu VPN o'r bar offer
 ipprotection-feature-introduction-button-open-vpn = Agor y VPN
 ipprotection-feature-introduction-button-get-started = Cychwyn arni
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Cynyddu preifatrwydd gyda VPN cynhenid { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Iawn
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Gosodwch reolau VPN cynhenid, yna parhau i borwch
+ipprotection-site-inclusions-callout-title-lapsed-users = Rhowch gynnig ar VPN cynhenid, nawr fesul gwefan
+ipprotection-site-inclusions-callout-description = Trowch ef ymlaen pan fyddwch eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i diffodd lle nad oes ei angen.
+ipprotection-site-inclusions-callout-primary-button = Gosod rheolau
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nid nawr
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Cau
 

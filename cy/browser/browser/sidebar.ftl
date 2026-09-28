@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Dyddiad a gwefan
 sidebar-history-sort-option-last-visited =
     .label = Ymwelwyd ddiwethaf
+sidebar-history-sort-option-most-visited =
+    .label = Ymwelwyd amlaf
 
 ## Labels for sidebar search
 

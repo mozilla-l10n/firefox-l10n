@@ -28,6 +28,10 @@ appearance-browser-icon-subpage-title =
 
 appearance-browser-icon-basic-group =
     .label = Safonol
+# “Bonus” rather than “Special” as these are additional icons unlocked by an
+# action.
+appearance-browser-icon-bonus-group2 =
+    .label = Bonws
 appearance-browser-icon-bonus-group =
     .label = Arbennig
 

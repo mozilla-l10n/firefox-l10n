@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = Tynnu { $provider }
 genai-menu-remove-sidebar =
     .label = Tynnu o'r Bar Ochr
+genai-shortcut-button-3 =
+    .aria-label = Gofynnwch am y testun hwn
+    .tooltiptext = Gofynnwch am y testun hwn
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = Gofyn i { $provider }
