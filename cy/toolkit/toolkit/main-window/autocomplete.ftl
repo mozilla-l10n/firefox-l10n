@@ -48,6 +48,7 @@ autocomplete-remove-password-title = Tynnu cyfrinair?
 autocomplete-remove-address-title = Dileu cyfeiriad?
 autocomplete-remove-payment-method-title = Dileu dull talu?
 autocomplete-remove-record-message = Does dim modd i chi ddadwneud hyn.
+autocomplete-delete-record-button = Dileu
 autocomplete-remove-record-button = Dileu
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete

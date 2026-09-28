@@ -4,7 +4,7 @@
 
 restart-required-title = Mae Angen Ail Gychwyn
 restart-required-heading2 = Ymddiheuriadau, mae angen ailgychwyn cyflym ar { -brand-short-name }
-restart-required-intro2 = Mae angen i { -brand-short-name } orffen diweddariad. Ailgychwynnwch i gadw pethau'n ddiogel ac yn llyfn.
+restart-required-intro2 = Mae angen i { -brand-short-name } orffen diweddaru. Ailgychwynnwch i gadw pethau'n ddiogel ac yn llyfn.
 window-restoration-info2 = Byddwn yn ailagor pob ffenestr a thab ac eithrio rhai preifat.
 restart-required-why-now-question = Pam nawr?
 restart-required-why-now-answer = Gall hyn ddigwydd pan fydd proffil neu enghraifft { -brand-short-name } arall yn diweddaru, neu pan nad yw diweddariad yn gallu aros tan eich ailgychwyn nesaf.
@@ -16,10 +16,10 @@ restart-required-single-instance-answer = Mae'n bosib y bydd angen ailgychwyn { 
 restart-required-single-instance-answer-2 = Gall hyn ddigwydd yn ystod sesiwn bori hir, neu pan fydd eich system weithredu yn diweddaru { -brand-short-name }. Mae ailgychwyn yn cadw { -brand-short-name } yn ddiogel ac yn gweithio fel arfer.
 restart-required-unsaved-work-question = A oes modd i mi golli gwaith heb ei gadw?
 restart-required-unsaved-work-answer = Bosib, ac rydym yn gwybod bod hynny'n rhwystredig. Bydd { -brand-short-name } yn ailagor eich tabiau, ond mae'n bosibl na fydd gwaith heb ei gadw o fewn tudalennau gwe, fel testun mewn ffurflen, yn cael ei adfer. Fydd Ffenestri Preifat ddim yn ailagor er mwyn amddiffyn eich preifatrwydd.
-restart-required-fix-question = Mae hyn yn drafferth! Ydy { -brand-short-name } yn gweithio i'w drwsio?
+restart-required-fix-question = Mae hyn yn drafferthus! Ydy { -brand-short-name } yn gweithio i'w drwsio?
 # Note: normally we would link to the bug here, but if the user sees this message,
 # then they cannot visit a link without a restart.
-restart-required-fix-answer = Ydy. Rydyn ni'n gwybod bod hyn yn drafferth, ac rydyn ni'n gweithio ar ateb i'w atal. Dilynwch ein cynnydd yn  mater 2072739, Bugzilla.
+restart-required-fix-answer = Ydy. Rydyn ni'n gwybod bod hyn yn drafferth, ac rydyn ni'n gweithio ar ateb i'w atal. Dilynwch ein cynnydd yn  mater 2072739 ar Bugzilla.
 restart-button-label2 = Ailgychwyn
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Gweld rhagor
