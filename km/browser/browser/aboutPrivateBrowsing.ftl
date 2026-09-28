@@ -4,9 +4,9 @@
 
 privatebrowsingpage-open-private-window-label = បើកវិនដូឯកជន
     .accesskey = P
-about-private-browsing-search-placeholder = ស្វែងរក​ទំព័រ​បណ្ដាញ
+about-private-browsing-search-placeholder = ស្វែងរកវេប
 about-private-browsing-search-btn =
-    .title = ស្វែងរក​គេហទំព័រ
+    .title = ស្វែងរក​វេប
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

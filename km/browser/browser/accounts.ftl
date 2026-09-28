@@ -28,6 +28,7 @@ account-manage-devices-titlecase = គ្រប់គ្រងឧបករណ៍
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = គណនី​មិន​បាន​ផ្ទៀងផ្ទាត់
+account-send-tab-to-device-verify2 = ផ្ទៀងផ្ទាត់​គណនី​របស់​អ្នក
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -40,7 +41,7 @@ account-connection-connected-with = ឥឡូវនេះ កុំព្យូ�
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = ឥឡូវនេះ កុំព្យូទ័រនេះភ្ជាប់ជាមួយឧបករណ៍ថ្មីមួយ។
 # Used in a notification shown after a Firefox account is connected to the current device.
-account-connection-connected = អ្នកបានចូលដោយជោគជ័យ
+account-connection-connected = អ្នកបានបញ្ជាប់ចូលដោយជោគជ័យ
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = កុំព្យូទ័រនេះត្រូវបានផ្តាច់។
 

@@ -24,7 +24,7 @@ restore-page-try-again-button =
     .label = ស្ដារ​សម័យ
     .accesskey = R
 restore-page-close-button =
-    .label = ចាប់ផ្តើម​សម័យ​ថ្មី
+    .label = ចាប់ផ្ដើមកាលានុកាលថ្មី
     .accesskey = N
 
 ## The following strings are used in about:welcomeback
@@ -33,7 +33,7 @@ welcome-back-tab-title = ជោគជ័យ!
 welcome-back-page-title = ជោគជ័យ!
 welcome-back-page-info = { -brand-short-name } អាច​ចាប់ផ្ដើម​បាន។
 welcome-back-restore-button =
-    .label = តោះ​ចាប់ផ្ដើម!
+    .label = តស់ ទៅ!
     .accesskey = L
 welcome-back-restore-all-label = ស្ដារ​ផ្ទាំងនិងបង្អួច​ទាំងអស់
 welcome-back-restore-some-label = ស្ដារ​តែ​អ្វី​ដែល​អ្នក​ចង់បាន​ប៉ុណ្ណោះ
