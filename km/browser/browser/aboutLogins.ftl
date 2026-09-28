@@ -33,7 +33,7 @@ about-logins-menu-menuitem-help = ជំនួយ
 ## Login List
 
 login-list =
-    .aria-label = ការចូល​ត្រូវ​គ្នា​ជាមួយ​សំណួរ​ស្វែងរក
+    .aria-label = ការបញ្ជាប់ចូលកំពុងផ្គូផ្គងនឹងសំណួរស្វែងរក
 # Variables
 #   $count (number) - Number of logins
 login-list-count2 = ពាក្យសម្ងាត់ { $count }
