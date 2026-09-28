@@ -78,3 +78,10 @@ about-private-browsing-nova-info-link = Кӣ метавонад фаъолият
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Шуморо сабт намекунанд
 about-private-browsing-nova-info-subheader2 = Вақте ки шумо ҳамаи равзанаҳои хусусиро мепӯшед, мо ҳамаи ҷустуҷӯҳо ва воридшавиҳои шуморо тоза мекунем. Унсурҳои муҳофизати дарунсохти браузери «{ -brand-short-name }», ба монанди амали манъкунии васоити пайгирӣ, низ дар ин ҷой фаъол мебошанд.
+
+## Strings for the Private Window basics spotlight
+
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Бояд донист
+about-private-browsing-spotlight-basics-learn-more = Маълумоти бештар
