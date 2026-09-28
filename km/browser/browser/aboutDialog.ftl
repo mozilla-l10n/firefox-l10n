@@ -9,11 +9,11 @@ update-checkForUpdatesButton =
     .label = ពិនិត្យមើលអាប់ដេត
     .accesskey = C
 update-updateButton =
-    .label = ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព { -brand-shorter-name }
+    .label = ចាប់ផ្ដើមឡើងវិញ ដើម្បីអាប់ដេត { -brand-shorter-name }
     .accesskey = R
-update-checkingForUpdates = កំពុងពិនិត្យមើលអាប់ដេត…
+update-checkingForUpdates = កំពុងពិនិត្យមើលការអាប់ដេត…
 settings-update-checking-for-updates =
-    .label = កំពុងពិនិត្យមើលអាប់ដេត…
+    .label = កំពុងពិនិត្យមើលការអាប់ដេត…
 
 ## Variables:
 ##   $transfer (string) - Transfer progress.
@@ -63,7 +63,7 @@ aboutdialog-channel-description = បច្ចុប្បន្ន​អ្ន�
 warningDesc-version = { -brand-short-name } ជា​ការ​ពិសោធន៍ និង​មិន​មាន​​ស្ថិរ​ភាព​ទេ។
 aboutdialog-help-user = ជំនួយ { -brand-product-name }
 aboutdialog-submit-feedback = ដាក់បញ្ជូន​មតិ​កែលម្អ
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> ជា <label data-l10n-name="community-exp-creditsLink">សហគមន៍​សកល</label> ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា ។
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> គឺជា<label data-l10n-name="community-exp-creditsLink">សហគមន៍​សកល</label>ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ ដើម្បី​ធ្វើ​ឲ្យ​វេប​មានភាពបើក​ចំហ សាធារណៈ និង​អាច​​ឆ្នូលបានសម្រាប់អ្នកគ្រប់គ្នា។
 community-2 = { -brand-short-name } ត្រូវ​បាន​រចនា​ដោយ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label><label data-l10n-name="community-creditsLink">សហគមន៍​សកល</label> ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ដើម្បី​ធ្វើ​ឲ្យ​តំបន់​បណ្ដាញ​បើក​ចំហ សាធារណៈ និង​អាច​ចូល​ដំណើរ​ការ​បាន​គ្រប់គ្នា។
 helpus = ចង់ជួយមែនដែរឬទេ? <label data-l10n-name="helpus-donateLink">សូមធ្វើការបរិច្ចាគ</label> ឬ <label data-l10n-name="helpus-getInvolvedLink">ចូលរួមចំណែក!</label>
 helpus-referrals2 = ចង់ជួយមែនដែរឬទេ? <label data-l10n-name="helpus-donateLink">សូមធ្វើការបរិច្ចាគ</label>, <label data-l10n-name="helpus-shareFirefoxLink">ចែករំលែក{ -brand-product-name }</label>ឬ <label data-l10n-name="helpus-getInvolvedLink">ចូលរួមចំណែក!</label>
