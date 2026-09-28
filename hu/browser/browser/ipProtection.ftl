@@ -56,6 +56,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = VPN megnyitása
 ipprotection-feature-introduction-button-get-started = Kezdő lépések
 
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximalizálja az adatvédelmet a { -brand-product-name } beépített VPN-jével
+
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
