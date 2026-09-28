@@ -50,6 +50,9 @@ autocomplete-remove-payment-method-title = Dileu dull talu?
 autocomplete-remove-record-message = Does dim modd i chi ddadwneud hyn.
 autocomplete-delete-record-button = Dileu
 autocomplete-remove-record-button = Dileu
+autocomplete-delete-password-title = Dileu cyfrinair?
+autocomplete-delete-address-title = Dileu cyfeiriad?
+autocomplete-delete-payment-method-title = Dileu dull talu?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
