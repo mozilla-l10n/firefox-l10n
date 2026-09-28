@@ -74,7 +74,7 @@ about-logins-list-section-week = 7 ថ្ងៃចុងក្រោយ
 
 about-logins-login-intro-heading-message = រក្សាទុកពាក្យសម្ងាត់របស់អ្នកទៅកាន់កន្លែងសុវត្ថិភាព
 login-intro-description2 = ពាក្យសម្ងាត់ទាំងអស់ដែលអ្នករក្សាទុកទៅក្នុង { -brand-product-name } ត្រូវបានអ៊ិនគ្រីប។ លើសពីនេះ យើងឃ្លាំមើលការបំពាន ហើយជូនដំណឹងដល់អ្នក ប្រសិនបើអ្នករងផលប៉ះពាល់។ <a data-l10n-name="breach-alert-link">ស្វែងយល់បន្ថែម</a>
-login-intro-instructions-fxa2 = បង្កើត ឬចូលគណនីរបស់អ្នកនៅលើឧបករណ៍ដែលការចូលគណនីរបស់អ្នកត្រូវបានរក្សាទុក។
+login-intro-instructions-fxa2 = បង្កើត ឬបញ្ជាប់ចូលគណនីរបស់អ្នកនៅលើឧបករណ៍ដែលការបញ្ជាប់ចូលគណនីរបស់អ្នកត្រូវបានរក្សាទុក។
 login-intro-instructions-fxa-settings = ចូលទៅ​កាន់ ការកំណត់ > ធ្វើសមកាលកម្ម > បើក​ការធ្វើសមកាលកម្ម... ជ្រើសរើស​ប្រអប់​ការចូល និង​ពាក្យសម្ងាត់។
 login-intro-instructions-fxa-passwords-help = ចូលមើល​<a data-l10n-name="passwords-help-link">ជំនួយ​ពាក្យសម្ងាត់</a>​សម្រាប់​ជំនួយ​បន្ថែម។
 about-logins-intro-import3 = សូមជ្រើសរើសប៊ូតុងសញ្ញាបូកខាងលើដើម្បីបន្ថែមពាក្យសម្ងាត់ឥឡូវនេះ។ អ្នកក៏អាច <a data-l10n-name="import-browser-link">វាយបញ្ចូល ពាក្យសម្ងាត់ពីកម្មវិធីរុករកផ្សេងទៀត</a> ឬ <a data-l10n-name="import-file-link">ពីឯកសារ</a> បានដែរ។
@@ -153,7 +153,7 @@ about-logins-export-password-os-auth-dialog-message2-macosx = នាំចេញ
 
 ## Primary Password notification
 
-about-logins-primary-password-notification-message = សូមបញ្ចូលពាក្យសម្ងាត់ចម្បង​របស់អ្នក ដើម្បីមើលការចូល ព្រមទាំង​ពាក្យសម្ងាត់ដែលបានរក្សាទុក
+about-logins-primary-password-notification-message = សូមបញ្ចូលពាក្យសម្ងាត់ចម្បង​របស់អ្នក ដើម្បីមើលការបញ្ជាប់ចូល ព្រមទាំង​ពាក្យសម្ងាត់ដែលបានរក្សាទុក
 master-password-reload-button =
     .label = បញ្ជាប់ចូល
     .accesskey = L

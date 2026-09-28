@@ -4,7 +4,8 @@
 
 profiledowngrade-window-create =
     .label = Izveidot jaunu profilu
-profiledowngrade-nosync = Vecākas { -brand-product-name } versijas izmantošana var sabojāt grāmatzīmes un pārlūkošanas vēsturi, kas jau ir saglabāta esošajā { -brand-product-name } profilā. Lai aizsargātu savu informāciju, izveidojiet jaunu profilu šai { -brand-short-name } instalācijai.
+profiledowngrade-sync2 = Vecākas { -brand-product-name } versijas izmantošana var sabojāt grāmatzīmes un pārlūkošanas vēsturi, kas jau ir saglabāta esošā { -brand-product-name } profilā. Lai aizsargātu savu informāciju, jāizveido jauns { -brand-short-name } profils. Vienmēr ir iespēj pieteikties kontā, lai starp profiliem vienādotu savas grāmatzīmes un pārlūkošanas vēsturi.
+profiledowngrade-nosync = Vecākas { -brand-product-name } versijas izmantošana var sabojāt grāmatzīmes un pārlūkošanas vēsturi, kas jau ir saglabāta esošā { -brand-product-name } profilā. Lai aizsargātu savu informāciju, jāizveido jauns { -brand-short-name } profils.
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->
