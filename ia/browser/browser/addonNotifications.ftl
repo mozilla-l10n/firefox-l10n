@@ -8,12 +8,12 @@ xpinstall-prompt = { -brand-short-name } ha impedite que iste sito te demanda de
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
 xpinstall-prompt-header = Permitter que { $host } installa un additivo?
-xpinstall-prompt-message = Tu tenta de installar un additivo ex { $host }. Verifica que tu fide iste sito ante continuar.
+xpinstall-prompt-message = Tu tenta installar un additivo de { $host }. Assecura te que tu confide in iste sito ante de continuar.
 
 ##
 
 xpinstall-prompt-header-unknown = Permitter que un sito incognite installa un additivo?
-xpinstall-prompt-message-unknown = Tu tenta de installar un additivo ex un sito incognite. Verifica que tu te fide de iste sito ante continuar.
+xpinstall-prompt-message-unknown = Tu tenta installar un additivo de un sito incognite. Assecura te que tu confide in iste sito ante de continuar.
 xpinstall-prompt-dont-allow =
     .label = Non permitter
     .accesskey = N
