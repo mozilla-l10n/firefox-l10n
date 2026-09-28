@@ -70,3 +70,9 @@ about-private-browsing-felt-privacy-v1-info-link = តើអ្នកណាអ�
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = អ្វីដែលត្រូវដឹង
+about-private-browsing-spotlight-basics-activity-seen = សកម្មភាពមួយចំនួនប្រហែលនៅតែអាចមើលឃើញដោយវេបសាយ អេនជីនស្វែងរក អ្នកផ្ដល់សេវាអ៊ីនធឺណិត ឬជានិយោជករបស់អ្នក។
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = ការការពារឯកជនភាពបន្ថែម
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } នឹងដាស់តឿនអ្នកដោយស្វ័យប្រវត្តអំពីម៉ាល់វែរនិងវេបសាយឆបោកនានា។
+about-private-browsing-spotlight-basics-learn-more = ស្វែងយល់​បន្ថែម
