@@ -6,6 +6,7 @@ restart-required-title = Yeniden başlatma gerekiyor
 window-restoration-info2 = Gizli pencereler ve sekmeler dışındaki tüm pencereleri ve sekmeleri yeniden açacağız.
 restart-required-why-now-question = Neden şimdi?
 restart-required-more-details-heading = Daha fazla ayrıntı
+restart-required-unsaved-work-question = Kaydetmediğim çalışmalar kaybolabilir mi?
 restart-button-label2 = Yeniden başlat
 restart-required-heading = { -brand-short-name } tarayıcısını kullanmaya devam etmek için yeniden başlatın
 restart-required-intro = Arka planda bir { -brand-short-name } güncellemesi başlatıldı. Güncellemeyi bitirmek için tarayıcıyı yeniden başlatmanız gerekiyor.
