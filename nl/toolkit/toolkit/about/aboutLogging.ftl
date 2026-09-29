@@ -59,6 +59,7 @@ about-logging-preset-web-compat-label = Webcompatibiliteit
 about-logging-preset-web-compat-description = Logboekmodules om webcompatibiliteitsproblemen te diagnosticeren
 about-logging-preset-navigation = Navigatie
 about-logging-preset-navigation-description = Logboekmodules om problemen met navigatie en sessiegeschiedenis te diagnosticeren
+about-logging-preset-vpn-label = VPN
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Logboekmodules om WebGPU te diagnosticeren
 about-logging-preset-gfx-label = Grafisch

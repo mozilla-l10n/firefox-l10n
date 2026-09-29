@@ -957,6 +957,11 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-desert-light = Peteĩ aguara oñani oĩ’ỹhápe mba’eve
+newtab-wallpaper-firefox-hills-dark = Peteĩ aguara oñani yvy yvate ypytũhápe
+newtab-wallpaper-firefox-hills-light = Peteĩ aguara oñani yvy yvate hesakãhápe
+newtab-wallpaper-firefox-tail-dark = Aguara ruguái peteĩ tugua ypytũ ári
+newtab-wallpaper-firefox-tail-light = Aguara ruguái tugua hesakãva ári
 
 ## Firefox
 

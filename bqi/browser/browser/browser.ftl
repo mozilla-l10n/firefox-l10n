@@ -486,6 +486,7 @@ identity-description-passive-loaded-mixed2 = وا یو ک { -brand-short-name } 
 identity-description-active-loaded = ای وبگه موئتوایی داره ک ٱمن نؽڌن (جۊر کود نوشته یل) وو منپیز ایسا و هو سیخومی نؽ.
 identity-description-active-loaded-insecure = دووسمندیایی ک وا ای وبگه یک رسۊوی اکۊنین گاشڌ و دست دیرووݩ دیڌه بۊوه (جۊر رزما، پیوما، کارتا ائتواری وو قیره).
 identity-description-tls-key-logging-heading = گاشڌ منپیز ایسا سیخومی نبۊوه
+identity-description-tls-key-logging-message = گاشڌ ی برنومه یا سرویس ترسته بۊ ترافیک رزم ناهاڌه بیڌه ایسا ز ای وبگه ن بنیره.
 identity-more-info-link-text =
     .label = دووسمندیا قلوه
 

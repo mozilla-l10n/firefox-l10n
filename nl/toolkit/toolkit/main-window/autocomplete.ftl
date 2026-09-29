@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Wachtwoord verwijderen?
 autocomplete-remove-address-title = Adres verwijderen?
 autocomplete-remove-payment-method-title = Betaalmethode verwijderen?
 autocomplete-remove-record-message = U kunt deze actie niet ongedaan maken.
+autocomplete-delete-record-button = Verwijderen
 autocomplete-remove-record-button = Verwijderen
+autocomplete-delete-password-title = Wachtwoord verwijderen?
+autocomplete-delete-address-title = Adres verwijderen?
+autocomplete-delete-payment-method-title = Betalingsmethode verwijderen?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
