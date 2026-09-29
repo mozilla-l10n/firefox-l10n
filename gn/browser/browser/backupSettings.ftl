@@ -177,6 +177,7 @@ change-backup-encryption-header = Emoambue ñe’ẽñemi jeykekoha
 
 password-rules-header = Ñe’ẽñemi oikotevẽva
 password-rules-length-description = Michĩvéramo 8 tai
+password-rules-email-description2 = Ndaha’éi ñanduti veve kundaharape
 password-rules-email-description = Ndaha’éi ne ñanduti veve kundaharape
 password-rules-disclaimer = Epyta porã — ani eiporujey jey ñe’ẽñemi. Eikuaave ñemoñe’ẽ <a data-l10n-name="password-support-link">emoheñói ñe’ẽñemi oikóva</a>.
 password-validity-has-email = Ndaha’ekuaái ñanduti veve kundaharape

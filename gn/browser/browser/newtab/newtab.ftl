@@ -165,6 +165,12 @@ home-prefs-mission-message-learn-more-link-srd = Eikuaa mba’éichapa
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Eikuaave
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Tekoñemi poravorã
+    .title = Tekoñemi poravorã
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -458,6 +464,11 @@ newtab-recent-searches-tab-trending = Hechameméva
 newtab-recent-searches-trending-attribution = { $engine } rupive
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Ko’ag̃aite
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Eheka
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Jehekarã rehegua
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -760,6 +771,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Jejapo
 newtab-custom-widget-picture-toggle =
     .label = Ta’ãnga araguáva
+newtab-custom-widget-search-toggle =
+    .label = Eheka
 newtab-custom-widget-recent-searches-toggle =
     .label = Ojeheka ramóva
 newtab-custom-widget-section-title = Widgets
@@ -816,6 +829,9 @@ newtab-wallpaper-add-an-image = Embojuaju ta’ãnga
 newtab-wallpaper-custom-color = Eiporavo peteĩ sa’y
 newtab-wallpaper-toggle-title =
     .label = Mba’erechaha rugua
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Mba’erechaha rugua rehegua
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Ta’ãnga ohasáma tuichakuépe { $file_size } MB rehegua. Eñeha’ã ehupi marandurenda michĩvéva.

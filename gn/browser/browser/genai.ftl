@@ -58,6 +58,9 @@ genai-menu-remove-provider =
     .label = Emgoguete { $provider }
 genai-menu-remove-sidebar =
     .label = Embogue tenda ykegua
+genai-shortcut-button-3 =
+    .aria-label = Eporandu ko moñe’ẽrã rehegua
+    .tooltiptext = Eporandu ko moñe’ẽrã rehegua
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = Eporandu { $provider }-pe
