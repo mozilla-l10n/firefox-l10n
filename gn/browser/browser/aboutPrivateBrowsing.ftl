@@ -75,8 +75,20 @@ about-private-browsing-felt-privacy-v1-info-link = Mávapa ohechakuaa che rembia
 
 about-private-browsing-nova-info-body = Oñembotývo ovetãita ñemi oguéta kookieita, tembiasakue ha tenda mba’ekuaarãita.
 about-private-browsing-nova-info-link = ¿Mávapa ohechakuaa che rembiapo?
+about-private-browsing-private-window-basics-link = Ovetã ñemigua jehechapy
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Reime bambalína kupépe
 about-private-browsing-nova-info-subheader2 = Rombotýta opa jeheka ha ojeikehague embotypa vove ovetãita ñemi. Umi ñemo’ã juajupyre { -brand-short-name } rehegua oĩ avei ápe, umíva apytépe tapykuehohára jejoko.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Ovetã ñemigua jehechapy
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Mba’épa eikuaa’arã
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Tekoñemi ñemo’ãve
+about-private-browsing-spotlight-basics-learn-more = Eikuaave

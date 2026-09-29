@@ -161,6 +161,11 @@ appmenu-fxa-last-sync = Ñembojuehe ipyahuvéva { $time }
 appmenu-fxa-sync-and-save-data2 = Embojuehe ha eñongatu mba’ekuaarã
 appmenu-fxa-signed-in-label = Tembiapo ñepyrũ
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Embojuehe mba’ekuaarã opárupi
+appmenu-fxa-sign-in-promo-link = Eñepyrũ tembiapo
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Eike embojuehe hag̃ua
 appmenu-fxa-sign-in-promo-message = Eraha mba’ekuaarã opárupi
