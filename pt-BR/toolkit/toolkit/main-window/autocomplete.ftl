@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Remover senha?
 autocomplete-remove-address-title = Remover endereço?
 autocomplete-remove-payment-method-title = Remover método de pagamento?
 autocomplete-remove-record-message = Esta ação não pode ser desfeita.
+autocomplete-delete-record-button = Excluir
 autocomplete-remove-record-button = Remover
+autocomplete-delete-password-title = Excluir senha?
+autocomplete-delete-address-title = Excluir endereço?
+autocomplete-delete-payment-method-title = Excluir método de pagamento?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
