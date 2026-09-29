@@ -4,6 +4,12 @@
 
 restart-required-title = ره وندن دووارته لازوم هڌ
 restart-required-heading2 = وابخشی، { -brand-short-name } لنگ ره وندن دووارته زل هڌ
+restart-required-why-now-question = سیچه سکو؟
+restart-button-label2 = ره وندن دووارته
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = قلوه بنیرین
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = کم بنیرین
 restart-required-heading = سی و کار گرؽڌن { -brand-short-name } ز نۊ رس ونین
 restart-required-intro = ی ورۊ رسۊوی سی { -brand-short-name } من پس زمینه ره وست. سی کامل وابیڌن ورۊ رسۊوی، وا دووارته ره ونین.
 window-restoration-info = نیمدری یل وو بلگه یل ایسا و ترات اوورگرتن؛ ولی نیمدری یل سیخومی ن.

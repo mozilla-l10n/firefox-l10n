@@ -160,6 +160,10 @@ appmenu-fxa-last-sync = هوم گوم کردن دیندایی { $time }
     .label = هوم گوم کردن دیندایی { $time }
 appmenu-fxa-sync-and-save-data2 = هوم گوم کردن وو زفت کردن داده یل
 appmenu-fxa-signed-in-label = و من ٱووڌن
+appmenu-fxa-sign-in-promo-link = و من ٱووڌن
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = رڌ کردن تبلیق و من ٱووڌن و سیستوم
+    .title = رڌ کردن
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = سی هوم گوم کردن و من بیاین
