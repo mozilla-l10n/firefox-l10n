@@ -80,3 +80,7 @@ about-private-browsing-nova-info-link = Хто все ще може бачити
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Ваші дані не записуються
 about-private-browsing-nova-info-subheader2 = Ми зітремо всі ваші пошукові запити й дані входу, коли ви закриєте всі приватні вікна. Вбудовані засоби захисту { -brand-short-name }, як-от блокування стеження, також увімкнено.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = Докладніше
