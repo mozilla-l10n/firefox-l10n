@@ -332,10 +332,10 @@ appmenu-help-and-report-header =
 
 appmenu-help-enter-troubleshoot-mode2 =
     .label = هالت عیو جۊری…
-    .accesskey = M
+    .accesskey = ه
 appmenu-help-exit-troubleshoot-mode =
     .label = کۊر کردن هالت عیو جۊری
-    .accesskey = M
+    .accesskey = ک
 
 ## appmenu-help-report-deceptive-site and appmenu-help-not-deceptive
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
