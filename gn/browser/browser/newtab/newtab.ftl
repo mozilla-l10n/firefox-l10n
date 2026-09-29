@@ -856,6 +856,11 @@ newtab-wallpaper-light-fox-anniversary = Aguara ñu mbyte ikapi’ipéva ojehech
 ## Firefox wallpaper kept for them when it was retired.
 
 newtab-wallpaper-your-images = Ne ra’ãngaita
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Ta’ãngaita, mba’erechaha rugua ñongatupyre
 # Read by screen readers for a saved image that has a name of its own: a kept
 # Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
 # someone added themselves is numbered instead, see the string below.
@@ -867,6 +872,24 @@ newtab-wallpaper-your-images-item = { $name }
 # Variables:
 #   $number (number) - Which saved image this is, counting from one
 newtab-wallpaper-your-images-item-numbered = Ta’ãnga { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Embogue { $name }
+    .title = Embogue ta’ãnga
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Embogue ta’ãnga { $number }
+    .title = Embogue ta’ãnga { $number }
+newtab-wallpaper-remove-image-title = ¿Embogue ta’ãnga?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Ko tembiapo ndaikatúi emboguevi.
 newtab-wallpaper-remove-image-confirm = Mboguete
 newtab-wallpaper-remove-image-cancel = Eheja
 
