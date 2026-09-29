@@ -91,3 +91,4 @@ about-private-browsing-spotlight-basics-what-to-know = چ وا دووست
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = زفت وابیڌن قلوه هریم سیخومی
+about-private-browsing-spotlight-basics-learn-more = قلوه دووسته بۊین

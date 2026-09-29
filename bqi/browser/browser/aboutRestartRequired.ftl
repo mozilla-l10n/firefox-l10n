@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = ره وندن دووارته لازوم هڌ
+restart-required-heading2 = وابخشی، { -brand-short-name } لنگ ره وندن دووارته زل هڌ
 restart-required-heading = سی و کار گرؽڌن { -brand-short-name } ز نۊ رس ونین
 restart-required-intro = ی ورۊ رسۊوی سی { -brand-short-name } من پس زمینه ره وست. سی کامل وابیڌن ورۊ رسۊوی، وا دووارته ره ونین.
 window-restoration-info = نیمدری یل وو بلگه یل ایسا و ترات اوورگرتن؛ ولی نیمدری یل سیخومی ن.
