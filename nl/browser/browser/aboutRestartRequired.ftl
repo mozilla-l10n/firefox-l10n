@@ -15,6 +15,11 @@ restart-required-single-instance-question = Ik gebruik niet meerdere profielen o
 restart-required-single-instance-answer = { -brand-short-name } moet mogelijk worden herstart als een update op de achtergrond wordt toegepast terwijl het is geopend.
 restart-required-single-instance-answer-2 = Dit kan gebeuren tijdens een lange navigatiesessie, of wanneer uw besturingssysteem { -brand-short-name } bijwerkt. Herstarten houdt { -brand-short-name } veilig en normaal.
 restart-required-unsaved-work-question = Kan ik niet-opgeslagen werk verliezen?
+restart-button-label2 = Herstarten
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Meer bekijken
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Minder bekijken
 restart-required-heading = Herstarten om { -brand-short-name } te blijven gebruiken
 restart-required-intro = Een update voor { -brand-short-name } is op de achtergrond gestart. U dient opnieuw op te starten om de update te voltooien.
 window-restoration-info = Uw vensters en tabbladen worden snel hersteld, maar privévensters en -tabbladen niet.

@@ -26,6 +26,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = دؽوۉداری سامووا نیمدری یل گۊشیڌنی وو آلشت تورا شخس سالس…
     .accesskey = M
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] سیل کردن دووسمندیا وبگه
+            [1] سیل کردن دووسمندیا وبگه (1 رڌجۊر مسدۊد وابیڌه)
+            [one] سیل کردن دووسمندیا وبگه (1 رڌجۊر مسدۊد وابیڌه)
+           *[other] سیل کردن دووسمندیا وبگه ({ $count } رڌجۊر مسدۊد وابیڌن)
+        }
 urlbar-identity-button =
     .aria-label = نیشتن دووسمندیا وبگه
 
@@ -475,6 +485,7 @@ identity-description-passive-loaded-insecure2 = ای وبگه موئتوایی �
 identity-description-passive-loaded-mixed2 = وا یو ک { -brand-short-name } ی قرده ز موئتوا ن مسدۊد کرده، هنی موئتوایی من ای وبگه هڌه ک ٱمن نؽڌن (جۊر شؽوات).
 identity-description-active-loaded = ای وبگه موئتوایی داره ک ٱمن نؽڌن (جۊر کود نوشته یل) وو منپیز ایسا و هو سیخومی نؽ.
 identity-description-active-loaded-insecure = دووسمندیایی ک وا ای وبگه یک رسۊوی اکۊنین گاشڌ و دست دیرووݩ دیڌه بۊوه (جۊر رزما، پیوما، کارتا ائتواری وو قیره).
+identity-description-tls-key-logging-heading = گاشڌ منپیز ایسا سیخومی نبۊوه
 identity-more-info-link-text =
     .label = دووسمندیا قلوه
 
