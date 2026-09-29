@@ -37,6 +37,8 @@ ipprotection-feature-introduction-title-summer-promo = Planeja viajar? Leve a pr
 ipprotection-feature-introduction-description-summer-promo = Vá mais longe com a VPN integrada no { -brand-product-name }: mais locais, largura de banda ilimitada. Agora até 31 de agosto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar sua localização e proteger seus dados, mesmo quando estiver em uma janela privativa.
 ipprotection-feature-introduction-description-private-browsing = Navegue com proteção extra, ocultando sua localização, mesmo quando estiver em uma janela privativa.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Ajude a ocultar sua localização para ter <a data-l10n-name="learn-more-vpn">mais privacidade</a> ao navegar. Defina regras para ativar a VPN onde quiser mais privacidade ou navegar com base em localização e regras para desativar onde não quiser.
 ipprotection-feature-introduction-title-captive-portal = Está em uma rede pública de WiFi? Experimente a VPN integrada no { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navegue com proteção extra, ocultando sua localização, mesmo em redes públicas de WiFi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Remover VPN da barra de ferramentas
 ipprotection-feature-introduction-button-open-vpn = Abrir VPN
 ipprotection-feature-introduction-button-get-started = Introdução
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximize a privacidade com a VPN integrada do { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
