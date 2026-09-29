@@ -6,6 +6,7 @@ restart-required-title = Omstart kreves
 restart-required-heading2 = Beklager, { -brand-short-name } trenger en rask omstart
 restart-required-why-now-question = Hvorfor nå?
 restart-required-more-details-heading = Flere detaljer
+restart-required-unsaved-work-question = Kan jeg miste arbeid som ikke er lagret?
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Vis mer
 # Collapses the "More details" section below the buttons.
