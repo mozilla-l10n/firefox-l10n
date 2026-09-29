@@ -320,7 +320,7 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = د
 appmenu-help-share-ideas =
     .label = یک رسۊوی ایده یل وو منشڌا…
-    .accesskey = S
+    .accesskey = ی
 appmenu-help-switch-device =
     .label = هونی جا گورو ابۊ و ی دسگا نۊ
 # Menu header for combination of "Help" menu and report broken site
