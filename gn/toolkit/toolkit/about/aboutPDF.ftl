@@ -5,6 +5,8 @@
 about-pdf-title = { -brand-short-name } PDF mbosako’iha
 about-pdf-header = { -brand-short-name } PDF
 about-pdf-tagline = Tembiporu oñemoñe’ẽ hag̃ua, mbojehe’a, mboheraguapy, jehairã ha hetave, tekoñemi ndive
+about-pdf-features-cta =
+    .label = Ehecha tembiporu PDF-pe g̃uarã
 about-pdf-dropzone =
     .title = Emoĩ PDF ko’ápe eñepyrũ hag̃ua térã eikutu Enter.
 about-pdf-dropzone-hint = Emoĩ PDF ko’ápe eñepyrũ hag̃ua
@@ -22,3 +24,11 @@ about-pdf-set-default =
     .label = Eipuru ijypykuérõ
 about-pdf-dismiss =
     .label = Emboyke
+
+## The about:pdf#features page.
+
+about-pdf-features-header = { -brand-short-name } PDF rembiporu
+about-pdf-features-back =
+    .label = Tapykue
+about-pdf-feature-organize-heading = Kuatiarogue mohendaporã
+about-pdf-feature-comments-heading = Embojuaju haipy
