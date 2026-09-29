@@ -691,7 +691,7 @@ browsing-use-cursor-navigation =
     .label = Utilizza sempre i tasti direzione per navigare nelle pagine
     .accesskey = l
 browsing-use-full-keyboard-navigation =
-    .label = Utilizza il tasto di tabulazione (TAB) per spostare la selezione tra i controlli dei moduli e i link
+    .label = Utilizza il tasto di tabulazione (Tab) per spostare la selezione tra i controlli dei moduli e i link
     .accesskey = u
 browsing-search-on-start-typing =
     .label = Cerca nel testo quando si digita qualcosa
@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Scorciatoie da tastiera
 settings-keyboard-shortcuts-customkeys-link =
     .label = Personalizza scorciatoie da tastiera
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Personalizza le impostazioni della barra degli indirizzi in Ricerca
 settings-media-group =
     .label = Media
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = a
 search-separate-default-engine-dropdown =
     .aria-label = Motore di ricerca predefinito nelle finestre anonime
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigazione nella barra degli indirizzi
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Escludi il menu dei risultati dalla navigazione con il tasto di tabulazione (Tab)
 search-suggestions-header-2 =
     .label = Suggerimenti dei motori di ricerca
 search-one-click-header2 = Scorciatoie di ricerca

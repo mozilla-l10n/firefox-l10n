@@ -99,6 +99,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Ricerca
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Oroscopo
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Ricerche recenti
@@ -533,6 +536,16 @@ newtab-recent-searches-empty-recent = Le ricerche recenti appariranno qui, così
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Al momento le ricerche di tendenza non sono disponibili.
 
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Oroscopo
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Opzioni oroscopo
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Ulteriori informazioni
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -836,6 +849,8 @@ newtab-custom-widget-picture-toggle =
     .label = Immagine del giorno
 newtab-custom-widget-search-toggle =
     .label = Ricerca
+newtab-custom-widget-horoscopes-toggle =
+    .label = Oroscopo
 newtab-custom-widget-recent-searches-toggle =
     .label = Ricerche recenti
 newtab-custom-widget-section-title = Widget

@@ -670,13 +670,13 @@ urlbar-result-action-visit-from-clipboard = Apri indirizzo dagli appunti
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
-urlbar-result-action-before-tabtosearch-web = Premi il tasto di tabulazione (TAB) per cercare con { $engine }
+urlbar-result-action-before-tabtosearch-web = Premi il tasto di tabulazione (Tab) per cercare con { $engine }
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
 #  $engine (String): the name of a search engine that searches a specific site
 #  (e.g. Amazon).
-urlbar-result-action-before-tabtosearch-other = Premi il tasto di tabulazione (TAB) per cercare in { $engine }
+urlbar-result-action-before-tabtosearch-other = Premi il tasto di tabulazione (Tab) per cercare in { $engine }
 # Variables
 #  $engine (String): the name of a search engine that searches the entire Web
 #  (e.g. Google).
