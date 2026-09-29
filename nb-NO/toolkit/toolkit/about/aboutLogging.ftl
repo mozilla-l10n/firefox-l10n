@@ -57,6 +57,7 @@ about-logging-preset-web-compat-label = Webbkompatibilitet
 about-logging-preset-web-compat-description = Loggmoduler for å diagnostisere problemer med webbkompatibilitet
 about-logging-preset-navigation = Navigasjon
 about-logging-preset-navigation-description = Loggmoduler for å diagnostisere problemer med navigasjon og økthistorikk
+about-logging-preset-vpn-label = VPN
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Loggmoduler for å diagnostisere WebGPU-problemer
 about-logging-preset-gfx-label = Grafikk
