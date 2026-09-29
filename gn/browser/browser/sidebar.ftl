@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Arange ha tenda
 sidebar-history-sort-option-last-visited =
     .label = Jeike paha
+sidebar-history-sort-option-most-visited =
+    .label = Ojeikevehague
 
 ## Labels for sidebar search
 
