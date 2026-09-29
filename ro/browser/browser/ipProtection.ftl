@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Adaugă încă un strat de con
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN-ul încorporat din { -brand-product-name }</a> ajută la protejarea ta în timpul navigării. Alege din mai multe locații ca să îți păstrezi mai private locurile pe unde intri.
 ipprotection-feature-introduction-link-text-privacy-2 = VPN-ul încorporat din <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> te ajută să îți protejezi navigările pe internet. Alege dintre locații multiple pentru confidențialitatea locurilor pe unde mergi pe internet.
 ipprotection-feature-introduction-link-text-privacy-3 = Obține <a data-l10n-name="learn-more-vpn">confidențialitate extra</a> alegând dintre locații multiple pentru a ascunde pe unde mergi pe internet.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Te ajută să îți ascunzi locația pentru <a data-l10n-name="learn-more-vpn">confidențialitate extra</a> în timp ce navighezi. Activează sau dezactivează VPN-ul pentru anumite site-uri.
 ipprotection-feature-introduction-text-summer-promo-1 = Activează-l pentru a-ți menține navigarea mai privată. <a data-l10n-name="summer-promo-link">Beneficiază de lățime de bandă nelimitată</a> și de mai multe locații din care să navighezi. Acum până pe 31 august.
 ipprotection-feature-introduction-title-summer-promo = Ai planuri de călătorie? Ia confidențialitatea cu tine.
 ipprotection-feature-introduction-description-summer-promo = Mergi mai departe cu VPN-ul încorporat în { -brand-product-name }: mai multe locații, lățime de bandă nelimitată. Acum până pe 31 august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele, chiar și într-o fereastră privată.
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Te ajută să îți ascunzi locația pentru <a data-l10n-name="learn-more-vpn">confidențialitate extra</a> în timp ce navighezi. Setează reguli pentru a activa VPN-ul pentru confidențialitate extra sau navigare bazată pe locație și dezactivează-l acolo unde nu vrei să îl folosești.
 ipprotection-feature-introduction-title-captive-portal = Ești într-o rețea Wi-Fi publică? Încearcă VPN-ul încorporat din { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și în Wi-Fi public.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Elimină VPN-ul din bara de instrumente
 ipprotection-feature-introduction-button-open-vpn = Deschide VPN-ul
 ipprotection-feature-introduction-button-get-started = Începe
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximizează-ți confidențialitatea cu VPN-ul încorporat din { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Am înțeles
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Setează reguli pentru VPN-ul încorporat, apoi navighează mai departe
+ipprotection-site-inclusions-callout-title-lapsed-users = Încearcă VPN-ul încorporat, acum pentru fiecare site în parte
+ipprotection-site-inclusions-callout-description = Activează-l când dorești confidențialitate extra sau navigare bazată pe locație și dezactivează-l acolo unde nu dorești.
+ipprotection-site-inclusions-callout-primary-button = Setează reguli
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nu acum
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Închide
 

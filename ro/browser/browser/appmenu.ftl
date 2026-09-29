@@ -161,6 +161,14 @@ appmenu-fxa-last-sync = Ultima sincronizare { $time }
 appmenu-fxa-sync-and-save-data2 = Sincronizează și salvează datele
 appmenu-fxa-signed-in-label = Intră în cont
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Sincronizează-ți datele peste tot
+appmenu-fxa-sign-in-promo-link = Intră în cont
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Închide mesajul de acces
+    .title = Închide
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Intră în cont pentru sincronizare
 appmenu-fxa-sign-in-promo-message = Ia-ți datele cu tine peste tot

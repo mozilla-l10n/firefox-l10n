@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Dată și site
 sidebar-history-sort-option-last-visited =
     .label = Ultimul vizitat
+sidebar-history-sort-option-most-visited =
+    .label = Cele mai vizitate
 
 ## Labels for sidebar search
 

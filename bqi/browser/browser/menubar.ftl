@@ -46,7 +46,7 @@ menu-quit-mac =
     .label = و در زیڌن { -brand-shorter-name }
 menu-about =
     .label = زبار { -brand-shorter-name }
-    .accesskey = A
+    .accesskey = ز
 
 ## File Menu
 

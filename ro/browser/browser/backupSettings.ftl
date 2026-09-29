@@ -177,6 +177,7 @@ change-backup-encryption-header = Schimbă parola copiei de rezervă
 
 password-rules-header = Cerințe pentru parolă
 password-rules-length-description = Cel puțin 8 caractere
+password-rules-email-description2 = Nu este adresă de e-mail
 password-rules-email-description = Nu adresa ta de e-mail
 password-rules-disclaimer = Fii în siguranță — nu refolosi parolele. Află mai multe sfaturi despre <a data-l10n-name="password-support-link">crearea de parole puternice</a>.
 password-validity-has-email = Nu poate fi o adresă de e-mail

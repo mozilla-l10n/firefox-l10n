@@ -306,7 +306,7 @@ appmenu-help-header =
     .title = { -brand-shorter-name } هیاری
 appmenu-about =
     .label = زبار { -brand-shorter-name }
-    .accesskey = A
+    .accesskey = ز
 # This menu item opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 appmenu-referrals2 =
