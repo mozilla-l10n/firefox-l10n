@@ -1438,7 +1438,7 @@ newtab-widget-message-title = Mantenha-se focado com as listas e um temporizador
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Desde lembretes rápidos a tarefas diárias, sessões de concentração a pausas para descontrair — mantenha-se produtivo e pontual.
 # One spot refers to a dedicated section on new tab to manage and use widgets
-newtab-widget-message-focus-forecasts-title = Um sítio para foco, previsões e mais
+newtab-widget-message-focus-forecasts-title = Um sítio para foco, previsões e muito mais
 newtab-widget-message-focus-forecasts-body = Mantenha o seu dia a fluir com os widgets do { -brand-product-name }. Consulte a previsão, concentre-se na tarefa, ou veja as horas em todo o mundo.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
@@ -1724,7 +1724,7 @@ newtab-sports-widget-message-wallpapers-semifinals-body = Prepare o ambiente par
 newtab-sports-widget-message-add-widgets-cta =
     .label = Adicionar widgets
 newtab-sports-widget-message-day-in-play-title = Mantenha o seu dia em jogo com os widgets do { -brand-product-name }
-newtab-sports-widget-message-day-in-play-body = Siga o Campeonato do Mundo, foque-se na tarefa,  vejas as horas à volta do globo, e mais.
+newtab-sports-widget-message-day-in-play-body = Siga o Campeonato do Mundo, foque-se na tarefa,  vejas as horas à volta do globo, e muito mais.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Explorar widgets
 

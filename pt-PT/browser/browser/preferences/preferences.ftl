@@ -1395,7 +1395,7 @@ autofill-addresses-checkbox-message =
     .label = Guardar e autopreencher os endereços
     .accesskey = G
 autofill-addresses-manage-addresses-button =
-    .label = Gerir endereços e mais
+    .label = Gerir endereços e muito mais
     .accesskey = m
 addresses-list-header =
     .label = Endereços
@@ -1408,7 +1408,7 @@ addresses-delete-address-prompt-confirm-button = Eliminar
 addresses-delete-address-prompt-cancel-button = Cancelar
 autofill-addresses-add-button = Adicionar novo endereço
 autofill-addresses-manage-addresses-title =
-    .heading = Gerir endereços e mais
+    .heading = Gerir endereços e muito mais
 # This message is displayed when no addresses are stored in Firefox
 addresses-no-addresses-stored-message =
     .label = Não foram adicionados endereços
@@ -1463,7 +1463,7 @@ payment-moz-box-item-security-code-only =
     .description = CVV guardado
     .label = { $cardNumber }
 addresses-group =
-    .label = Endereços e mais
+    .label = Endereços e muito mais
 payments-group =
     .label = Métodos de pagamento
 

@@ -21,7 +21,7 @@ unified-extensions-empty-reason-zero-extensions-onboarding2 = Algumas extensões
 unified-extensions-empty-reason-zero-extensions-onboarding = Melhore a sua experiência de navegação com extensões
 unified-extensions-empty-content-explain-enable2 = Selecione “{ unified-extensions-manage-extensions.label }” para as ativar nas definições.
 unified-extensions-empty-content-explain-manage2 = Selecione “{ unified-extensions-manage-extensions.label }” para gerir as mesmas nas definições.
-unified-extensions-empty-content-explain-extensions-onboarding2 = Temos recomendações para o ajudar a melhorar o foco, a privacidade e mais.
+unified-extensions-empty-content-explain-extensions-onboarding2 = Temos recomendações para o ajudar a melhorar o foco, a privacidade e muito mais.
 unified-extensions-empty-content-explain-extensions-onboarding = Personalize o { -brand-short-name } ajustando o visual, o desempenho ou reforçando a privacidade e a segurança.
 
 ## An extension in the main list

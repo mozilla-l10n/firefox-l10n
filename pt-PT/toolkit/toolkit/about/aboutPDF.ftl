@@ -4,7 +4,7 @@
 
 about-pdf-title = Editor de PDF do { -brand-short-name }
 about-pdf-header = { -brand-short-name } PDF
-about-pdf-tagline = Uma ferramenta gratuita para leitura, fundir, assinar, comentar, e mais — com privacidade incorporada
+about-pdf-tagline = Uma ferramenta gratuita para leitura, fundir, assinar, comentar, e muito mais — com privacidade incorporada
 about-pdf-features-cta =
     .label = Explorar ferramentas PDF
 about-pdf-dropzone =

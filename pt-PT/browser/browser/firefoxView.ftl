@@ -26,7 +26,7 @@ firefoxview-syncedtabs-adddevice-description-2 = Inicie sessão no { -brand-prod
 firefoxview-syncedtabs-adddevice-primarybutton = Experimente o { -brand-product-name } para dispositivos móveis
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
 firefoxview-syncedtabs-adddevice-header-3 = Os seus separadores ligaram. Eles estão no seu telemóvel.
-firefoxview-syncedtabs-adddevice-description-3 = Digitalize o código QR para obter o { -brand-product-name } para telemóvel e comece a sincronizar os seus separadores abertos e mais. Saiba como <a data-l10n-name="url">associar dispositivos adicionais</a>.
+firefoxview-syncedtabs-adddevice-description-3 = Digitalize o código QR para obter o { -brand-product-name } para telemóvel e comece a sincronizar os seus separadores abertos e muito mais. Saiba como <a data-l10n-name="url">associar dispositivos adicionais</a>.
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar separadores abertos
 firefoxview-tabpickup-synctabs-primarybutton-2 = Ativar sincronização de separadores
 firefoxview-syncedtabs-synctabs-header = Atualize as suas definições de sincronização
