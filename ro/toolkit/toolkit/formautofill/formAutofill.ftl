@@ -33,6 +33,9 @@ autofill-options-link = Opțiuni de completare automată a formularelor
 credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizează toate cardurile salvate pe toate dispozitivele
 credit-card-save-doorhanger-header = Salvezi în siguranță acest card?
 credit-card-save-doorhanger-description = { -brand-short-name } îți criptează numărul cardului. Codul tău de securitate nu va fi salvat.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } îți criptează numărul cardului și codul de securitate, astfel încât numai tu să le poți folosi să completezi formulare de plată.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Salvează întotdeauna codurile de securitate pentru metodele de plată.
 credit-card-capture-save-button =
     .label = Salvează
     .accessKey = S
@@ -61,6 +64,22 @@ autofill-manage-payment-methods-label = Gestionează metodele de plată
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV salvat
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV salvat
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV salvat
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV salvat
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

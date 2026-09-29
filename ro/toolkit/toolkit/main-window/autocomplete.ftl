@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Elimini parola?
 autocomplete-remove-address-title = Elimini adresa?
 autocomplete-remove-payment-method-title = Elimini metoda de plată?
 autocomplete-remove-record-message = Acțiunea este ireversibilă.
+autocomplete-delete-record-button = Șterge
 autocomplete-remove-record-button = Elimină
+autocomplete-delete-password-title = Ștergi parola?
+autocomplete-delete-address-title = Ștergi adresa?
+autocomplete-delete-payment-method-title = Ștergi metoda de plată?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
