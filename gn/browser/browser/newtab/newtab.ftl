@@ -962,6 +962,12 @@ newtab-wallpaper-firefox-hills-dark = Peteĩ aguara oñani yvy yvate ypytũhápe
 newtab-wallpaper-firefox-hills-light = Peteĩ aguara oñani yvy yvate hesakãhápe
 newtab-wallpaper-firefox-tail-dark = Aguara ruguái peteĩ tugua ypytũ ári
 newtab-wallpaper-firefox-tail-light = Aguara ruguái tugua hesakãva ári
+newtab-wallpaper-firefox-side-kit-dark = Peteĩ aguara asu gotyo tugua iñypytũva ári
+newtab-wallpaper-firefox-side-kit-light = Peteĩ aguara asu gotyo, tugua hesakãva ári
+newtab-wallpaper-firefox-sitting-hill-dark = Peteĩ aguara oguapýva yvy yvate pytaũvape
+newtab-wallpaper-firefox-sitting-hill-light = Peteĩ aguara oguapýva yvy yvate hesakãvape
+newtab-wallpaper-firefox-peak-dark = Peteĩ aguara rova asu gotyo, tugua iñypytũva ári
+newtab-wallpaper-firefox-peak-light = Peteĩ aguara rova asu gotyo, tugua hesakãva ári
 
 ## Firefox
 
@@ -1765,6 +1771,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Ndaipóri aravo ojueheguáva
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Tapykue
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Aravopapaha poravorã
+    .title = Aravopapaha poravorã
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
