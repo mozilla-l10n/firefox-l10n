@@ -5,6 +5,7 @@
 restart-required-title = ره وندن دووارته لازوم هڌ
 restart-required-heading2 = وابخشی، { -brand-short-name } لنگ ره وندن دووارته زل هڌ
 restart-required-why-now-question = سیچه سکو؟
+restart-required-more-details-heading = جۊزعیات قلوه
 restart-button-label2 = ره وندن دووارته
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = قلوه بنیرین

@@ -3,5 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-notification-privacy-header-text = وا { -brand-short-name } امهنین؟
+default-browser-notification-privacy-body-text = سامووݩ پؽش فرز ایسا آلشت وابی. سی زفت وابیڌن ٱمنیت وو هریم سیخومی خوتووݩ، و { -brand-short-name } وورگرتین.
 default-browser-notification-yes-button-text = هری
 default-browser-notification-privacy-no-button-text = ن ممنووݩ
