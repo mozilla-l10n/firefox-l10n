@@ -48,6 +48,7 @@ autocomplete-remove-password-title = ¿Eliminar contraseña?
 autocomplete-remove-address-title = ¿Eliminar dirección?
 autocomplete-remove-payment-method-title = ¿Eliminar método de pago?
 autocomplete-remove-record-message = No puedes deshacer esta acción.
+autocomplete-delete-record-button = Eliminar
 autocomplete-remove-record-button = Eliminar
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
