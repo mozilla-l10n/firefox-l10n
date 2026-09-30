@@ -1292,6 +1292,8 @@ newtab-sports-widget-message-explore-widgets-cta =
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
 newtab-sports-widget-message-survey-title = من بؽڌر کردن ویجتا ایما ن هیاری بڌین
+newtab-sports-widget-message-survey-cta =
+    .label = شرکت من منشڌسنجی
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1316,7 +1318,11 @@ newtab-nova-customization-callout-primary-button =
 
 ## Strings for the Clock widget
 
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = بؽڌار کردن ساعت
 newtab-clock-widget-menu-learn-more = قلوه دووسته بۊین
+newtab-clock-widget-menu-edit = آلشت ساعتا
+newtab-clock-widget-menu-switch-to-12h = آلشت و قالوو 12 ساعته
 newtab-clock-widget-button-add-clock = ٱووردن
 newtab-clock-widget-button-cancel = لقو
 newtab-clock-widget-button-back =
