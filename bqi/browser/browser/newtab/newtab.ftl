@@ -618,6 +618,42 @@ newtab-wallpaper-dark-mountain = کوه منزره
 newtab-wallpaper-dark-city = منزره شئر بناوش
 newtab-wallpaper-dark-fox-anniversary = رۊوایی ری پیاڌه راو نهنگ جنگل
 
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = شؽوات { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = پاک کردن { $name }
+    .title = پاک کردن شؽوات
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = پاک کردن شؽوات { $number }
+    .title = پاک کردن شؽوات { $number }
+newtab-wallpaper-remove-image-title = شؽوات پاک بۊ؟
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = ای کار وورگندنی نؽ.
+newtab-wallpaper-remove-image-confirm = پاک کردن
+newtab-wallpaper-remove-image-cancel = لقو
+
 ## Solid Colors
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Solid colors" string once Nova lands. The simplified "Colors" string will take over

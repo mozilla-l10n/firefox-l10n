@@ -58,7 +58,7 @@ ipprotection-feature-introduction-button-get-started = Démarrer
 
 ## Callout shown when the user opens a private browsing window
 
-ipprotection-feature-introduction-title-private-browsing = Optimisez la confidentialité grâce au VPN intégré de { -brand-product-name }
+ipprotection-feature-introduction-title-private-browsing = Renforcez votre confidentialité avec le VPN intégré à { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
