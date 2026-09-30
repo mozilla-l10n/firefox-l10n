@@ -1085,6 +1085,7 @@ newtab-daily-briefing-card-menu-dismiss = رڌ کردن
 # Variables:
 #   $minutes (number) - Time since the feed has been refreshed
 newtab-daily-briefing-card-timestamp = ورۊ رسۊوی من { $minutes } دیقه پؽش
+newtab-widget-message-title = وا نومگه یل وو تایمر منی موتمرکز بمئنین
 newtab-promo-card-cta-addons = هیم سکو امتهووݩ کوݩ
 newtab-promo-card-title = لادرار { -brand-product-name }
 newtab-promo-card-cta = قلوه دووسته بۊین
@@ -1155,6 +1156,9 @@ newtab-sports-widget-round-16 = دور 16
 newtab-sports-widget-quarter-finals = مرهله ی چاروم دیندایی
 # The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
 newtab-sports-widget-live = زنده
+newtab-custom-widget-live-refresh =
+    .aria-label = ورۊ رسۊوی نتیجه یل
+    .title = ورۊ رسۊوی نتیجه یل
 newtab-sports-widget-upcoming = آینده
 # Used for a match currently ongoing
 newtab-sports-widget-now = سکو
