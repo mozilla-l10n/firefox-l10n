@@ -160,7 +160,14 @@ appmenu-fxa-last-sync = Sist synkronisert { $time }
     .label = Sist synkronisert { $time }
 appmenu-fxa-sync-and-save-data2 = Synkroniser og lagre data
 appmenu-fxa-signed-in-label = Logg inn
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Synkroniser dataene dine overalt
 appmenu-fxa-sign-in-promo-link = Logg inn
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Lukk kampanjen for innlogging
+    .title = Lukk
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Logg inn for å synkronisere
