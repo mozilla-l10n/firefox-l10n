@@ -57,6 +57,7 @@ about-logging-preset-web-compat-label = Compatibilidad web
 about-logging-preset-web-compat-description = Módulos de registro para diagnosticar problemas de compatibilidad web
 about-logging-preset-navigation = Navegación
 about-logging-preset-navigation-description = Módulos de registro para diagnosticar problemas de navegación e historial de sesiones
+about-logging-preset-vpn-label = VPN
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Módulos de registro para diagnosticar problemas de WebGPU
 about-logging-preset-gfx-label = Gráficos

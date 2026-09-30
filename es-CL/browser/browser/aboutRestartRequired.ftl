@@ -8,6 +8,11 @@ restart-required-intro2 = { -brand-short-name } necesita finalizar una actualiza
 window-restoration-info2 = Volveremos a abrir todas las ventanas y pestañas, excepto las privadas.
 restart-required-why-now-question = ¿Por qué ahora?
 restart-required-more-details-heading = Más detalles
+restart-button-label2 = Reiniciar
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Ver más
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Ver menos
 restart-required-heading = Reinicia para seguir usando { -brand-short-name }
 restart-required-intro = Una actualización a { -brand-short-name } fue iniciada en segundo plano. Tendrás que reiniciar para finalizar la actualización.
 window-restoration-info = Tus ventanas y pestañas se restaurarán rápidamente, pero las privadas no.
