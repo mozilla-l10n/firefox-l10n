@@ -4,9 +4,12 @@
 
 restart-required-title = Omstart kreves
 restart-required-heading2 = Beklager, { -brand-short-name } trenger en rask omstart
+restart-required-intro2 = { -brand-short-name } må fullføre en oppdatering. Start på nytt for å holde nettleseren sikker og stabil.
+window-restoration-info2 = Vi åpner alle vinduer og faner på nytt, unntatt private.
 restart-required-why-now-question = Hvorfor nå?
 restart-required-more-details-heading = Flere detaljer
 restart-required-unsaved-work-question = Kan jeg miste arbeid som ikke er lagret?
+restart-required-unsaved-work-answer = Det er mulig, og vi vet at det er frustrerende. { -brand-short-name } åpner fanene dine på nytt, men arbeid som ikke er lagret på nettsider, for eksempel tekst i et skjema, blir kanskje ikke gjenopprettet. Private vinduer åpnes ikke på nytt for å beskytte personvernet ditt.
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Vis mer
 # Collapses the "More details" section below the buttons.

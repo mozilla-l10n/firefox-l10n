@@ -211,7 +211,7 @@ downloads-blocked-download-detailed-info = { $url } mēģināja automātiski lej
 
 downloads-clear-downloads-button =
     .label = Notīrīt lejupielādes
-    .tooltiptext = Notīra pabeigtās, atceltās un neveiksmīgās lejupielādes
+    .tooltiptext = Notīra pabeigtās, atceltās un neizdevušās lejupielādes
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =

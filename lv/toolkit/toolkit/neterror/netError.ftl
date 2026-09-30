@@ -162,4 +162,6 @@ fp-neterror-offline-body-title = Izskatās, ka ir sarežģījums ar interneta sa
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
 fp-neterror-net-timeout-intro = Serveris <strong>{ $hostname }</strong> pārāk ilgi neatbild.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = Jāpārliecinās, ka izmanto jaunāko { -brand-short-name } versiju, ko var izdarīt izvēlnē Palīdzība > Par { -brand-short-name }. Ja izmanto jaunāko { -brand-short-name }, visdrīzāk, ka sarežģījums ir ar pašu vietni.
 fp-neterror-vpn-error-description = Pēc dažām minūtēm jāmēģina vēlreiz.
