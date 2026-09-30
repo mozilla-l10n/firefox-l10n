@@ -4,7 +4,7 @@
 
 restart-required-title = Redémarrage nécessaire
 restart-required-heading2 = Désolé, { -brand-short-name } doit redémarrer
-restart-required-intro2 = { -brand-short-name } doit terminer une mise à jour. Redémarrez pour que tout reste sécurisé et fluide.
+restart-required-intro2 = { -brand-short-name } doit finaliser une mise à jour. Redémarrez-le pour garantir la sécurité et le bon fonctionnement du navigateur.
 window-restoration-info2 = Nous rouvrirons toutes les fenêtres et tous les onglets, sauf ceux de navigation privée.
 restart-required-why-now-question = Pourquoi maintenant ?
 restart-required-why-now-answer = Cela peut arriver lorsqu’un autre profil ou une autre instance de { -brand-short-name } effectue une mise à jour, ou lorsqu’une mise à jour ne peut pas attendre le prochain redémarrage.
