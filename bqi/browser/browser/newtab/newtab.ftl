@@ -1159,6 +1159,8 @@ newtab-sports-widget-live = زنده
 newtab-custom-widget-live-refresh =
     .aria-label = ورۊ رسۊوی نتیجه یل
     .title = ورۊ رسۊوی نتیجه یل
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = ویرگارا کیلیتی
 newtab-sports-widget-upcoming = آینده
 # Used for a match currently ongoing
 newtab-sports-widget-now = سکو
@@ -1174,16 +1176,30 @@ newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: 
 # Variables:
 #   $date (Date) - Date of a single tournament event
 newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
+newtab-sports-widget-delayed = وا تئخیر
+newtab-sports-widget-postponed = و تعویق وسته
+newtab-sports-widget-suspended = موعلق وابیڌه
 newtab-sports-widget-cancelled = لقو وابی
+newtab-sports-widget-information = دووسمندیا موسابقه
 newtab-sports-widget-view-results-link = نیشتن نتیجه یل
 newtab-sports-widget-third-place = مقام سووم
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = نایب قئرموو
+newtab-sports-widget-champions = قهرمووݩ
 newtab-sports-widget-world-cup-champions = قئرمووا جام جهۊوی 2026
+# Compact champions label for the medium-size widget result card; the larger
+# card uses newtab-sports-widget-world-cup-champions.
+newtab-sports-widget-world-cup-champions-short = قهرمووݩ 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = پوی مجال
 newtab-sports-widget-match-halftime = نیمه ٱول
 newtab-sports-widget-match-extra-time = مجال ازافه
 newtab-sports-widget-match-penalties = جریمه یل
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = ری و ری
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1195,6 +1211,12 @@ newtab-sports-widget-pagination-previous =
 newtab-sports-widget-pagination-next =
     .aria-label = بئڌی
     .title = بئڌی
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = موسابقه زنده { $index } ز { $total }
+    .title = موسابقه زنده { $index } ز { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1202,6 +1224,35 @@ newtab-sports-widget-pagination-next =
 ##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
 ##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
 
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }، { $homeScore } ری و ری { $awayTeam }، { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }، { $homeScore } ({ $homePenalty }) ری و ری { $awayTeam }، { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = زنده: { $homeTeam }، { $homeScore } ری و ری { $awayTeam }، { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } ری و ری { $awayTeam }، ساعت { DATETIME($date, hour: "numeric", minute: "numeric") }، { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } ری و ری { $awayTeam }، وا تئخیر
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } ری و ری { $awayTeam }، لقو وابی
