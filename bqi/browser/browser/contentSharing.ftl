@@ -39,3 +39,6 @@ content-sharing-modal-no-shareable-links =
     .heading = هیچ لینگؽ قابل و یک رسۊوی وۊجۊد نڌاره
     .message = تینا لینگا مربۊت و موئتوا وب قابل و یک رسۊوی هڌن.
 content-sharing-modal-some-invalid-links = ی قرده ز لینگا نترن یک رسۊوی بۊن.
+content-sharing-modal-generic-error-2 =
+    .heading = موشکلی پؽش ٱووڌ
+    .message = سکو وورکل بلگه اشتراکی مومکن نؽ. دینداتر دووارته قپ ریت کۊنین.

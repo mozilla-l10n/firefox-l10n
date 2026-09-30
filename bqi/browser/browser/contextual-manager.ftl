@@ -61,8 +61,17 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
     }
 contextual-manager-passwords-import-success-heading =
     .heading = رزما و من ٱوورده وابین
+# Variables
+#   $added (number) - Number of added passwords
+#   $modified (number) - Number of modified passwords
+#   $no_change (number) - Number of duplicate passwords
+#   $error (number) - Number of invalid passwords
+contextual-manager-passwords-import-success-message-2 = نۊ: { $added }، ورۊ رسۊوی وابیڌه: { $modified }، مووردا تکراری: { $no_change }، ختایل: { $error }
 contextual-manager-passwords-import-detailed-report = نیشتن رؽز گوزارش
 contextual-manager-passwords-import-success-button = ٱنجوم وابی
+contextual-manager-passwords-import-error-heading-and-message =
+    .heading = شکست من و من ٱووردن رزم
+    .message = موتمعن بۊین ک فایل ایسا، سۊتۊنی سی وبگه یل، نوما منتوری، وو رزما داشته بۊ.
 contextual-manager-passwords-import-error-button-try-again = قپ ریت دووارته
 contextual-manager-passwords-import-error-button-cancel = لقو
 contextual-manager-passwords-import-learn-more = زبار و من ٱووردن رزما دووسته بۊین
