@@ -851,6 +851,8 @@ newtab-section-follow-highlight-title = فید خوتووݩ ن دییق سامو
 
 newtab-topic-navigation-label =
     .aria-label = سرتالا
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = قلوه
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -934,6 +936,16 @@ newtab-report-cancel = لقو
 newtab-report-submit = فشناڌن
 newtab-toast-thanks-for-reporting =
     .message = ممنووݩ ک یونه گوزارش داڌی.
+newtab-toast-widgets-hidden =
+    .message = هر سا ک بخۊین وا کلیک ری آیکون مداد ترین ویجتا ن وورگنین.
+# Variables:
+#   $topic (string) - Topic that the user has followed
+newtab-section-toast-follow =
+    .message = سکو هونی { $topic } ن و دین اکۊنین.
+# Variables:
+#   $topic (string) - Topic that the user has unfollowed
+newtab-section-toast-unfollow =
+    .message = و دین کردن { $topic } واستا.
 
 ## Strings for task / to-do list productivity widget
 
@@ -949,6 +961,7 @@ newtab-widget-lists-label-beta =
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = تموم وابیڌه ({ $number })
 newtab-widget-lists-celebration-headline = کار خوو
+newtab-widget-lists-celebration-subhead = پوی چیا ٱنجوم وابین
 newtab-widget-task-list-menu-copy = لف گیری
 newtab-widget-lists-menu-edit = آلشت نومگه نوم
 newtab-widget-lists-menu-edit2 =
@@ -957,6 +970,10 @@ newtab-widget-lists-menu-create = وورکل ی نومگه نۊ
 newtab-widget-lists-menu-delete = پاک کردن ای نومگه
 newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
 newtab-widget-lists-menu-learn-more = قلوه دووسته بۊین
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = آلشت نومگه
+    .title = آلشت نومگه
 newtab-widget-lists-button-add-item = ٱووردن ی موورد
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = ٱووردن ی موورد
