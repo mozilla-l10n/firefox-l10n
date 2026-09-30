@@ -63,7 +63,7 @@ cfr-doorhanger-extension-total-users =
 
 ## Mozilla Account messages
 
-cfr-doorhanger-bookmark-fxa-header = Sinhronizējiet savas grāmatzīmes visur.
+cfr-doorhanger-bookmark-fxa-header = Vienādo savas grāmatzīmes visur.
 cfr-doorhanger-bookmark-fxa-body-2 = Lielisks atradums! Tagad nepaliec bez šīs grāmatzīmes savās viedierīcēs. Uzsākt ar kontu.
 cfr-doorhanger-bookmark-fxa-link-text = Sinhronizēt grāmatzīmes tūlīt…
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =

@@ -22,7 +22,7 @@ callout-firefox-view-recently-closed-subtitle = Šeit parādīsies visas jūsu a
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = Uzlabojiet pārlūkošanu ar ciļņu paņemšanu
-continuous-onboarding-firefox-view-tab-pickup-subtitle = Piekļūstiet atvērtajām cilnēm no jebkuras ierīces. Turklāt sinhronizējiet savas grāmatzīmes, paroles un daudz ko citu.
+continuous-onboarding-firefox-view-tab-pickup-subtitle = Piekļūsti savām atvērtajām cilnēm no jebkuras ierīces, kā arī vienādo savas grāmatzīmes, paroles un vēl!
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = Ar ko sākt
 
 ## PDF.js Feature Tour Strings

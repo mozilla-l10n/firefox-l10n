@@ -4,7 +4,7 @@
 
 fxa-pair-device-dialog-sync2 =
     .style = min-width: 32em;
-fxa-qrcode-pair-title = Sinhronizējiet { -brand-product-name } savā tālrunī vai planšetē
+fxa-qrcode-pair-title = Vienādo { -brand-product-name } savā tālrunī vai planšetē
 fxa-qrcode-pair-step1 = 1. Mobilajā ierīcē atveriet { -brand-product-name }.
 fxa-qrcode-pair-step3 = 3. Spiediet uz vienuma <strong>Gatavs skenēšanai</strong> un turiet tālruni virs šī koda
 fxa-qrcode-error-title = Savienošana pārī neveiksmīga.
