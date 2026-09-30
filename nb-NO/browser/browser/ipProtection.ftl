@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Legg til et nytt lag med perso
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere plasseringer for å gjøre hvor du surfer mer privat.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere plasseringer for å gjøre hvor du surfer mer privat.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velge mellom flere plasseringer for å skjule hvor du surfer.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Bidra til å skjule plasseringen din for <a data-l10n-name="learn-more-vpn">ekstra personvern</a> mens du surfer. Slå VPN på eller av for bestemte nettsteder.
 ipprotection-feature-introduction-text-summer-promo-1 = Aktiver det for å gjøre surfingen din mer privat. <a data-l10n-name="summer-promo-link">Få ubegrenset båndbredde</a> og flere plasseringer å surfe fra. Nå til og med 31. august.
 ipprotection-feature-introduction-title-summer-promo = Skal du ut og reise? Ta personvernet med deg.
 ipprotection-feature-introduction-description-summer-promo = Få mer ut av { -brand-product-name } sin innebygde VPN: flere plasseringer, ubegrenset båndbredde. Nå til og med 31. august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Bidra til å skjule plasseringen din for <a data-l10n-name="learn-more-vpn">ekstra personvern</a> mens du surfer. Angi regler for å slå på VPN for ekstra personvern eller stedsbasert surfing, og slå det av der du ikke trenger det.
 ipprotection-feature-introduction-title-captive-portal = På offentlig Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra beskyttelse ved å skjule plasseringen din, også på offentlig Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN fra verktøylinjen
 ipprotection-feature-introduction-button-open-vpn = Åpen VPN
 ipprotection-feature-introduction-button-get-started = Kom i gang
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maksimer personvernet med { -brand-product-name } sin innebygde VPN
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Jeg forstår
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Angi regler for den innebygde VPN-en, og surf videre
+ipprotection-site-inclusions-callout-title-lapsed-users = Prøv innebygd VPN, nå nettsted for nettsted
+ipprotection-site-inclusions-callout-description = Slå det på når du vil ha ekstra personvern eller stedsbasert surfing, og av der du ikke trenger det.
+ipprotection-site-inclusions-callout-primary-button = Sett regler
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ikke nå
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorer
 
