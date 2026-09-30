@@ -122,10 +122,15 @@ windows-10-eos-sync-general-title-2 = سکو زمووݩ موناسبی سی لا
 windows-10-eos-sync-general-subtitle-2 = هیم سکو هوم گوم کۊنین تا داده یلی ک و { -brand-short-name } اسپاردین زفت بۊون وو هر سا وو هر کویه من دسرس بۊون.
 windows-10-eos-sync-tour-title-1 = بلگه یل قلوه؟ وا بونکۊیل بلگه کتن سووݩ کۊنین.
 windows-10-eos-sync-tour-subtitle-1 = سی وورکل بونکۊ وو سازمووݩ دهی و نوار بلگه یل، ی بلگه ن ری بلگه دیری بکشین.
+windows-10-eos-sync-tour-title-2 = سی ویندووز 11 ٱماڌه وو سازمووݩ داڌه وابۊین.
 windows-10-eos-sync-split-dismiss-button-show-fewer-option =
     .label = نشووݩ داڌن پؽشنهاڌا کمتر
 windows-10-eos-sync-dismiss-button-label = رڌ کردن
 windows-10-eos-sync-callout-primary-advance-button-label = بئڌی
+
+## Link Preview Onboarding message callout strings
+
+link-preview-onboarding-callout-title = نۊ: سی پؽش نشووݩ لینگا کلیک کۊنین وو واڌارنین
 
 ## Sidebar Strings
 
