@@ -98,8 +98,8 @@ about-private-browsing-spotlight-basics-more-privacy = Protections de la vie pri
 about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vous avertit automatiquement en cas de logiciel malveillant ou de site trompeur.
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
 about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } demande automatiquement aux sites participants de ne pas vendre ni partager vos données personnelles.
-about-private-browsing-spotlight-basics-vpn = Utilisez le VPN intégré pour rendre votre emplacement plus difficile à tracer.
+about-private-browsing-spotlight-basics-vpn = Utilisez le VPN intégré pour compliquer le pistage de votre localisation.
 # "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
 # Translations should be consistent with the existing "Strict" string in about:preferences.
-about-private-browsing-spotlight-basics-strict-tracking = Choisissez Strict dans les paramètres pour renforcer la protection contre le pistage.
+about-private-browsing-spotlight-basics-strict-tracking = Sélectionnez « Stricte » dans les paramètres pour renforcer la protection contre le pistage.
 about-private-browsing-spotlight-basics-learn-more = En savoir plus
