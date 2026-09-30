@@ -1061,6 +1061,8 @@ newtab-widget-lists-name-default = چک‌لیست
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = زمووݩ سنج
+newtab-widget-timer-notification-focus = مجال تمرکوز و دیندا رسی. منده نبۊین! مجال زمندی زیڌن هڌ؟
+newtab-widget-timer-notification-break = زمندی زیڌن تموم وابی. ٱماڌین دووارته تمرکوز کۊنین؟
 newtab-widget-timer-notification-warning = وارسۊویا کۊر هڌن
 newtab-widget-timer-mode-focus =
     .label = فوکۊس
@@ -1075,7 +1077,14 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = کۊر کردن وارسۊویا
 newtab-widget-timer-menu-notifications-on = رۊشن کردن وارسۊویا
 newtab-widget-timer-menu-learn-more = قلوه دووسته بۊین
+newtab-widget-timer-menu-button =
+    .aria-label = گۊزینه یل تایمر
+# The title displays above a set of top news headlines.
+newtab-daily-briefing-card-title = موهم ترین سرتالا هوالی
 newtab-daily-briefing-card-menu-dismiss = رڌ کردن
+# Variables:
+#   $minutes (number) - Time since the feed has been refreshed
+newtab-daily-briefing-card-timestamp = ورۊ رسۊوی من { $minutes } دیقه پؽش
 newtab-promo-card-cta-addons = هیم سکو امتهووݩ کوݩ
 newtab-promo-card-title = لادرار { -brand-product-name }
 newtab-promo-card-cta = قلوه دووسته بۊین
