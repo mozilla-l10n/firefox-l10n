@@ -69,12 +69,12 @@ about-private-browsing-cookie-banners-promo-body = 이제 자동으로 많은 �
 
 about-private-browsing-felt-privacy-v1-info-header = 흔적 남기지 않기
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name }는 모든 사생활 보호 창을 닫을 때 쿠키, 기록 및 사이트 데이터를 삭제합니다.
-about-private-browsing-felt-privacy-v1-info-link = 누가 내 활동을 볼 수 있나요?
+about-private-browsing-felt-privacy-v1-info-link = 남이 내 활동을 볼 수 있나요?
 
 ## Strings for the Nova redesign of about:privatebrowsing
 
 about-private-browsing-nova-info-body = 모든 사생활 보호 창을 닫으면 쿠키, 기록 및 사이트 데이터가 삭제됩니다.
-about-private-browsing-nova-info-link = 누가 여전히 내 활동을 볼 수 있나요?
+about-private-browsing-nova-info-link = 남이 여전히 내 활동을 볼 수 있나요?
 about-private-browsing-private-window-basics-link = 사생활 보호 창 기본
 about-private-browsing-private-window-redesign-subheader = { -brand-short-name }는 내장된 추적 보호 기능으로 탐색 시 개인 정보를 보호하도록 설계되었습니다. 이 창을 닫으면 이 기기를 사용하는 다른 사람들이 사용자의 탐색을 볼 수 없도록 기록, 쿠키 및 사이트 데이터가 지워집니다.
 # "You're off the record" is an English idiom meant to communicate that you
