@@ -50,7 +50,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] 독에 넣기
        *[other] 작업 표시줄에 고정
     }
-about-private-browsing-pin-promo-title = 쿠키나 기록이 저장되지 않습니다. 아무도 보고 있지 않은 것처럼 탐색하세요.
+about-private-browsing-pin-promo-title = 바탕화면에서 바로 시작할 수 있고, 쿠키나 기록이 저장되지 않습니다. 흔적을 남기지 않고 탐색하세요.
 
 ## Strings used in a promotion message for Firefox Relay
 

@@ -232,7 +232,7 @@ mr2022-onboarding-no-mobile-download-cta-text = 모바일용 { -brand-product-na
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = 한 번의 클릭으로 사생활 보호 모드의 자유를 얻으세요
-mr2022-upgrade-onboarding-pin-private-window-subtitle = 쿠키나 기록이 저장되지 않습니다. 아무도 보고 있지 않은 것처럼 탐색하세요.
+mr2022-upgrade-onboarding-pin-private-window-subtitle = 바탕화면에서 바로 시작할 수 있고, 쿠키나 기록이 저장되지 않습니다. 흔적을 남기지 않고 탐색하세요.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] { -brand-short-name } 사생활 보호 모드를 독에 넣기
