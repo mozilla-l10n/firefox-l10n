@@ -73,7 +73,7 @@ autofill-card-security-code-label = CVC
 ##   $month (String): Two-digit month the card expires
 ##   $year (String): Two-digit year the card expires
 
-credit-card-doorhanger-details-name = (Назив):
+credit-card-doorhanger-details-name = { $name }
 credit-card-doorhanger-details-expiration = { $month }/{ $year }
 credit-card-doorhanger-details-cvv = CVV сачуван
 credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }

@@ -963,9 +963,9 @@ newtab-widget-lists-completed-list = تموم وابیڌه ({ $number })
 newtab-widget-lists-celebration-headline = کار خوو
 newtab-widget-lists-celebration-subhead = پوی چیا ٱنجوم وابین
 newtab-widget-task-list-menu-copy = لف گیری
-newtab-widget-lists-menu-edit = آلشت نومگه نوم
+newtab-widget-lists-menu-edit = آلشت نوم نومگه
 newtab-widget-lists-menu-edit2 =
-    .aria-label = آلشت نومگه نوم
+    .aria-label = آلشت نوم نومگه
 newtab-widget-lists-menu-create = وورکل ی نومگه نۊ
 newtab-widget-lists-menu-delete = پاک کردن ای نومگه
 newtab-widget-lists-menu-copy = لف گیری نومگه من کلیپ بورد
@@ -978,6 +978,7 @@ newtab-widget-lists-button-add-item = ٱووردن ی موورد
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = ٱووردن ی موورد
     .placeholder = ٱووردن ی موورد
+newtab-widget-lists-input-error = سی ازاف کردن موورد، هؽلی بزنین.
 newtab-widget-lists-input-menu-open-link = گۊشیڌن لینگ
 newtab-widget-lists-input-menu-move-up = جاگورو و روء
 newtab-widget-lists-input-menu-move-down = جاگورو و لم
@@ -996,11 +997,16 @@ newtab-widget-lists-dropdown-create =
     .label = + وورکل ی نومگه نۊ
 newtab-widget-lists-name-label-default =
     .label = نومگه کارا
+newtab-widget-lists-name-label-checklist =
+    .label = چک‌لیست
 newtab-widget-lists-name-placeholder-default =
     .placeholder = نومگه کارا
+newtab-widget-lists-name-placeholder-checklist2 =
+    .aria-label = آلشت نوم نومگه
+    .placeholder = چک‌لیست
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
-    .aria-label = آلشت نومگه نوم
+    .aria-label = آلشت نوم نومگه
     .placeholder = نومگه نۊ
 newtab-widget-section-title = ویجتا
 newtab-widget-menu-hide = بؽڌار کردن ویجت
@@ -1021,12 +1027,27 @@ newtab-widget-size-large = گپ
 newtab-widget-section-hide-all-button =
     .aria-label = بؽڌار کردن پوی ویجتا
     .title = بؽڌار کردن ویجتا
+newtab-widget-section-maximize =
+    .aria-label = بولند کردن پوی ویجتا و هندا کامل
+    .title = گپ کردن ویجتا
+newtab-widget-section-minimize =
+    .aria-label = جم کردن پوی ویجتا و هندا تپنیڌه
+    .title = کۊچیر کردن ویجتا
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = نشووݩ داڌن بشن ویجتا
+    .title = نشووݩ داڌن ویجتا
+newtab-widget-section-menu-button =
+    .aria-label = گۊشیڌن نومگه ویجتا
+    .title = نومگه ویجتا
 newtab-widget-add-widgets-button =
     .aria-label = ٱووردن ویجت
     .title = ٱووردن ویجت
 newtab-widget-section-menu-manage = دؽوۉداری ویجتا
 newtab-widget-section-menu-hide-all = بؽڌار کردن ویجتا
 newtab-widget-section-menu-learn-more = قلوه دووسته بۊین
+newtab-widget-section-feedback = منشڌ تووݩ ن و ایما بۊگۊین
 # Button shown when additional widgets are hidden beyond the
 # first row, allowing users to show them.
 newtab-widget-section-show-more =
@@ -1035,6 +1056,7 @@ newtab-widget-section-show-more =
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
     .label = نشووݩ داڌن ویجتا کمتر
+newtab-widget-lists-name-default = چک‌لیست
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
