@@ -256,6 +256,12 @@ places-search-downloads =
 places-locked-prompt = Обележивачи и историја неће функционисати јер неку од датотека програма { -brand-short-name } користи други програм. Неки безбедносни програми могу да проузрокују овај проблем.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Ново
+    .label = Подели фасциклу
+    .accesskey = д
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Ново
     .label = Подели фасциклу
