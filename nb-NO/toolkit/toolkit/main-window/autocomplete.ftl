@@ -50,6 +50,7 @@ autocomplete-remove-payment-method-title = Fjerne betalingsmåte?
 autocomplete-remove-record-message = Du kan ikke angre denne handlingen.
 autocomplete-delete-record-button = Slett
 autocomplete-remove-record-button = Fjern
+autocomplete-delete-password-title = Slette passord?
 autocomplete-delete-address-title = Slette adresse?
 autocomplete-delete-payment-method-title = Slette betalingsmåte?
 

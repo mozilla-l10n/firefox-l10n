@@ -58,6 +58,7 @@ about-logging-preset-web-compat-description = Loggmoduler for å diagnostisere p
 about-logging-preset-navigation = Navigasjon
 about-logging-preset-navigation-description = Loggmoduler for å diagnostisere problemer med navigasjon og økthistorikk
 about-logging-preset-vpn-label = VPN
+about-logging-preset-vpn-description = Loggmoduler for å diagnostisere problemer med IP-beskyttelse (VPN)
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Loggmoduler for å diagnostisere WebGPU-problemer
 about-logging-preset-gfx-label = Grafikk
