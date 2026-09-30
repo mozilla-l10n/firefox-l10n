@@ -1286,6 +1286,12 @@ newtab-sports-widget-team-tbd = نا دیاری
 newtab-sports-widget-message-wallpapers-cta = پسند شؽوات زمینه
 newtab-sports-widget-message-add-widgets-cta =
     .label = ٱووردن ویجتا
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = جوستن ویجتا
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = من بؽڌر کردن ویجتا ایما ن هیاری بڌین
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
