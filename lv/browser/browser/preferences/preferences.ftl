@@ -747,7 +747,7 @@ sync-group-label =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Paņem tīmekli sev līdz
-sync-signedout-description2 = Sinhronizējiet savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs.
+sync-signedout-description2 = Vienādo savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs!
 sync-signedout-account-signin3 =
     .label = Piesakies, lai vienādotu…
     .accesskey = I
@@ -816,7 +816,7 @@ prefs-sync-turn-on-syncing =
 prefs-sync-turn-on-syncing-2 =
     .label = Ieslēgt vienādošanu…
     .accesskey = s
-prefs-sync-offer-setup-label2 = Sinhronizējiet savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs.
+prefs-sync-offer-setup-label2 = Vienādo savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs!
 prefs-sync-now-button =
     .label = Sinhronizēt tagad
     .accesskey = n

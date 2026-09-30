@@ -30,3 +30,15 @@ enable-backup-encryption-support-link = Uzzināt vairāk
 ## These strings are displayed in a tooltip showing what requirements are met while creating a password.
 
 password-rules-disclaimer = Esi drošībā — neizmanto paroles atkāŗtoti! Vairāk padomu <a data-l10n-name="password-support-link">spēcīgu paroļu izveidei</a>.
+
+## These strings are inserted into the generated single-file backup archive.
+## The single-file backup archive is a specially-crafted, static HTML file
+## that is placed within a user specified directory (the Documents folder by
+## default) within a folder labelled with the "backup-folder-name" string.
+
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-moz-browser-restore-step-1 = Jāatver lietotnes izvēlne ☰ un jādodas uz Iestatījumi > Vienādošana
+# The ☰ character is intended as a visual icon representing the Firefox
+# application menu.
+backup-file-other-browser-restore-step-2 = Jāpalaiž { -brand-short-name }, jāatver lietotnes izvēlne un jādodas uz Iestatījumi > Vienādošana
