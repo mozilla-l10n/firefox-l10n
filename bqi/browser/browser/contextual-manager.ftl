@@ -177,6 +177,9 @@ contextual-manager-passwords-alert-list =
     .aria-label = نومگه پاییڌن
 contextual-manager-passwords-breached-origin-link-message = چتاور { -brand-product-name } ز لوو رئڌنا هوال دار ابۊ؟
 contextual-manager-passwords-change-password-button = آلشت رزم
+contextual-manager-passwords-no-username-heading-and-message =
+    .heading = ٱووردن نوم منتوری
+    .message = سی و من ٱووڌن زل تر، ی نوم منتوری بزنین.
 contextual-manager-passwords-add-username-button = ٱووردن نوم منتوری
 contextual-manager-passwords-title = رزما
 
@@ -191,6 +194,7 @@ contextual-manager-passwords-remove-label =
 contextual-manager-passwords-origin-field =
     .label = نشۊوی وبگه
     .placeholder = https://www.example.com
+contextual-manager-passwords-origin-field-description = نشۊوی دییق جاگهی ن ک ز من هو و ای وبگه ٱوۊڌین، بزنین.
 contextual-manager-passwords-username-field =
     .label = نوم منتوری
 contextual-manager-passwords-password-field =
