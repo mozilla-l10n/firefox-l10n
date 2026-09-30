@@ -64,8 +64,8 @@ genai-shortcut-button-3 =
     .tooltiptext = Opýtať sa na tento text
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
-    .aria-label = Opýtajte sa chatbota { $provider }
-    .tooltiptext = Opýtajte sa chatbota { $provider }
+    .aria-label = Opýtať sa chatbota { $provider }
+    .tooltiptext = Opýtať sa chatbota { $provider }
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =
@@ -79,16 +79,16 @@ genai-shortcut-more-actions-button =
     .tooltiptext = Ďalšie možnosti
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
-    .aria-label = Opýtajte sa chatbota { $provider }
+    .aria-label = Opýtať sa { $provider }
 genai-menu-new-badge = Nové
 genai-menu-summarize-page = Vytvor súhrn stránky
 genai-input-ask-smart-window =
-    .placeholder = Opýtajte sa…
+    .placeholder = Opýtať sa…
 genai-input-ask-generic =
-    .placeholder = Opýtajte sa AI chatbota…
+    .placeholder = Opýtať sa AI chatbota…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
-    .placeholder = Opýtajte sa { $provider }…
+    .placeholder = Opýtať sa { $provider }…
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
@@ -115,16 +115,16 @@ genai-shortcuts-selected-warning =
 genai-shortcuts-hide =
     .label = Skryť skratku chatbota
 genai-menu-choose-chatbot =
-    .label = Vyberte si chatbota s umelou inteligenciou
+    .label = Vybrať AI chatbota
 genai-menu-ask-generic-2 =
-    .label = Opýtajte sa AI chatbota
+    .label = Opýtať sa AI chatbota
     .accesskey = c
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
-    .label = Opýtajte sa { $provider }
+    .label = Opýtať sa { $provider }
     .accesskey = O
 genai-menu-no-provider-2 =
-    .label = Opýtajte sa AI chatbota
+    .label = Opýtať sa AI chatbota
     .accesskey = c
 genai-menu-ask-smart-window =
     .label = Opýtajte sa…

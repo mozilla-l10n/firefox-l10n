@@ -211,5 +211,5 @@ webrtc-remember-allow-checkbox-microphone = Zapamätať pre všetky mikrofóny
 webrtc-remember-allow-checkbox-camera-and-microphone = Zapamätať pre všetky kamery a mikrofóny
 webrtc-mute-notifications-checkbox = Počas zdieľania stlmiť upozornenia na webe
 webrtc-reason-for-no-permanent-allow-screen = Aplikácia { -brand-short-name } nemôže povoliť trvalý prístup k vašej obrazovke.
-webrtc-reason-for-no-permanent-allow-audio = Aplikácia { -brand-short-name } nemôže povoliť trvalý prístup k zvuku z vašej karty bez toho, aby sa spýtala ktorú kartu chcete zdieľať.
+webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nemôže povoliť trvalý prístup k zvuku vašej karty bez toho, aby sa opýtal, ktorú kartu má zdieľať.
 webrtc-reason-for-no-permanent-allow-insecure = Vaše pripojenie k tejto stránke nie je zabezpečené. { -brand-short-name } z dôvodu vašej ochrany povolí prístup len pre túto reláciu.
