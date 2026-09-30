@@ -161,6 +161,7 @@ fp-neterror-offline-body-title = Čini se da postoji problem s tvojom internetsk
 
 fp-neterror-connection-intro = { -brand-short-name } ne može uspostaviti vezu sa serverom { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } se ne može povezati sa serverom na <strong>{ $hostname }</strong>
+fp-neterror-net-timeout-intro = Server na <strong>{ $hostname }</strong> treba predugo da odgovori.
 fp-neterror-offline-what-can-you-do-body = Pokušaj se povezati na jednom drugom uređaju. Provjeri modem ili router. Prekini vezu i ponovo se spoji na Wi-Fi.
 fp-neterror-vpn-error-description = Pokušaj ponovo za par minuta.
 fp-neterror-denied-port-access = Ova adresa koristi mrežni priključak koji se obično koristi u druge svrhe osim pregledavanja weba. { -brand-short-name } je otkazao zahtjev radi tvoje zaštite.
