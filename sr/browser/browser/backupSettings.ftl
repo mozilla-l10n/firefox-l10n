@@ -177,6 +177,7 @@ change-backup-encryption-header = Промените лозинку резерв
 
 password-rules-header = Захтеви за лозинку
 password-rules-length-description = Најмање 8 знакова
+password-rules-email-description2 = Није адреса е-поште
 password-rules-email-description = Да не буде ваша адреса е-поште
 password-rules-disclaimer = Будите безбедни - немојте поново користити лозинке. Погледајте више савета за <a data-l10n-name="password-support-link">прављење јаких лозинки</a>.
 password-validity-has-email = Не може бити адреса е-поште

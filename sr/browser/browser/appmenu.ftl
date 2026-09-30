@@ -163,6 +163,14 @@ appmenu-fxa-last-sync = Последње усклађивање { $time }
 appmenu-fxa-sync-and-save-data2 = Усклади и сачувај податке
 appmenu-fxa-signed-in-label = Пријава
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Ускладите своје податке са било ког места
+appmenu-fxa-sign-in-promo-link = Пријави се
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Одбаци промоцију за пријаву
+    .title = Одбаци
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Пријави се за усклађивање
 appmenu-fxa-sign-in-promo-message = Приступите својим подацима било где

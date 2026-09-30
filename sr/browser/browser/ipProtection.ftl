@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Додајте још једа
 ipprotection-feature-introduction-link-text-privacy-1 = Уграђени ВПН услуге <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> помаже у заштити вашег прегледања. Изаберите једну од неколико локација како бисте заштитили приватност прегледања.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Уграђени ВПН { -brand-product-name }-а</a> помаже у заштити вашег прегледања. Изаберите више локација како бисте своје прегледање учинили приватнијим.
 ipprotection-feature-introduction-link-text-privacy-3 = Остварите <a data-l10n-name="learn-more-vpn">додатну приватност</a> избором једне од више локација како бисте сакрили то што прегледате.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Помаже у скривању ваше локације за <a data-l10n-name="learn-more-vpn">додатну приватност</a> током прегледања. Подесите ВПН на укључено или искључено за одређене странице.
 ipprotection-feature-introduction-text-summer-promo-1 = Укључите га како бисте своје прегледање учинили приватнијим. <a data-l10n-name="summer-promo-link">Остварите неограничен проток</a> и више локација за прегледање. Сада до 31. августа.
 ipprotection-feature-introduction-title-summer-promo = Планирате путовање? Понесите приватност са собом.
 ipprotection-feature-introduction-description-summer-promo = Идите даље уз уграђени ВПН { -brand-product-name }-а: више локација, неограничен проток. Сада до 31. августа.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Користите наш нови <a data-l10n-name="learn-more-vpn">уграђени ВПН</a> да сакријете своју локацију и заштитите своје податке, чак и када сте у приватном прозору.
 ipprotection-feature-introduction-description-private-browsing = Претражујте уз додатну заштиту скривањем локације, чак и када сте у приватном прозору.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Помаже у скривању ваше локације за <a data-l10n-name="learn-more-vpn">додатну приватност</a> током прегледања. Подесите правила да укључите ВПН за додатну приватност или прегледање на основу локације, и искључите га тамо где вам то није потребно.
 ipprotection-feature-introduction-title-captive-portal = Користите јавну бежичну мрежу? Испробајте { -brand-product-name }-ов уграђени VPN.
 ipprotection-feature-introduction-description-captive-portal = Претражујте уз додатну заштиту скривањем локације, чак и на јавној бежичној мрежи.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Уклоните ВПН из траке са алаткама
 ipprotection-feature-introduction-button-open-vpn = Отвори ВПН
 ipprotection-feature-introduction-button-get-started = Крените
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Увећајте приватност уз уграђени ВПН { -brand-product-name }-а
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Разумем
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Подесите правила за уграђени ВПН, а затим наставите са прегледањем
+ipprotection-site-inclusions-callout-title-lapsed-users = Испробајте уграђени ВПН, сада страницу по страницу
+ipprotection-site-inclusions-callout-description = Укључите га када желите додатну приватност или прегледање на основу локације, и искључите га тамо где вам то није потребно.
+ipprotection-site-inclusions-callout-primary-button = Подеси правила
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не сада
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Одбаци
 
