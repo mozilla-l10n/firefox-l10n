@@ -831,7 +831,7 @@ prefs-syncing-button-2 =
 
 ## The list of things currently syncing.
 
-sync-syncing-across-devices-heading = Jūs sinhronizējat šos vienumus visās savienotajās ierīcēs:
+sync-syncing-across-devices-heading = Tu vienādo šos vienumus visās savās savienotajās ierīcēs:
 sync-syncing-across-devices-empty-state2 =
     .description = Tu neko nevienādo… Vēl. Jāuzsāk vienādošana, lai visās ierīcēs piekļūtu visiem saviem datiem.
     .label = Pārvaldīt vienādotos datus
@@ -843,6 +843,12 @@ sync-currently-syncing-addresses = Adreses
 sync-currently-syncing-payment-methods = Maksājumu veidi
 sync-currently-syncing-addons = Papildinājumus
 sync-currently-syncing-settings = Iestatījumus
+sync-manage-options =
+    .label = Pārvaldīt vienādošanu…
+    .accesskey = P
+sync-manage-options-2 =
+    .label = Pārvaldīt vienādotos datus
+    .accesskey = P
 
 ## The "Choose what to sync" dialog.
 
@@ -1087,7 +1093,7 @@ addressbar-locbar-quickactions-option =
 content-blocking-enhanced-tracking-protection = Uzlabotā pretizsekošanas aizsardzība
 content-blocking-section-top-level-description = Izsekotāji seko Tev tiešsaistē, lai apkopotu informāciju par Taviem pārlūkošanas paradumiem un interesēm. { -brand-short-name } aiztur daudzus no šiem izsekotājiem un citiem ļaunprātīgiem skriptiem.
 content-blocking-learn-more = Uzzināt vairāk
-content-blocking-fpi-incompatibility-warning = Tu izmantojat First Party Isolation (FPI), kas pārraksta dažus no { -brand-short-name } sīkdatņu iestatījumiem.
+content-blocking-fpi-incompatibility-warning = Tu izmanto First Party Isolation (FPI), kas pārraksta dažus no { -brand-short-name } sīkdatņu iestatījumiem.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).

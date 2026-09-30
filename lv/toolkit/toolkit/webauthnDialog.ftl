@@ -26,7 +26,7 @@ webauthn-uv-invalid-long-prompt =
         [one] Lietotāja verifikācija neizdevās. Jums ir atlikuši { $retriesLeft } mēģinājumi. Mēģini vēlreiz.
        *[other] Lietotāja verifikācija neizdevās. Jums ir atlikuši { $retriesLeft } mēģinājumu. Mēģini vēlreiz.
     }
-webauthn-uv-invalid-short-prompt = Lietotāja verifikācija neizdevās. Mēģiniet vēlreiz.
+webauthn-uv-invalid-short-prompt = Lietotāja apliecināšana neizdevās. jāmēģina vēlreiz.
 
 ## WebAuthn prompts
 
