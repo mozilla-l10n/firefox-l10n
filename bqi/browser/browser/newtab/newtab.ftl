@@ -1253,6 +1253,12 @@ newtab-sports-widget-match-aria-label-upcoming =
 # An upcoming match row whose status is "delayed".
 newtab-sports-widget-match-aria-label-upcoming-delayed =
     .aria-label = { $homeTeam } ری و ری { $awayTeam }، وا تئخیر
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } ری و ری { $awayTeam }، و تعویق وسته
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } ری و ری { $awayTeam }، موعلق وابیڌه
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } ری و ری { $awayTeam }، لقو وابی
@@ -1261,14 +1267,23 @@ newtab-sports-widget-match-aria-label-upcoming-cancelled =
 ## Only includes names not adequately covered by standard country-code
 ## internationalization tooling.
 
+newtab-sports-widget-team-name-label-bih =
+    .label = بوسنی وو هرزگوین
+newtab-sports-widget-team-name-label-civ =
+    .label = ساهل عاج
+newtab-sports-widget-team-name-label-cod =
+    .label = جۊمهۊری دموکراتیک کونگو
 newtab-sports-widget-team-name-label-eng =
     .label = انگلستووݩ
 newtab-sports-widget-team-name-label-sco =
     .label = اسکاتلند
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = نا دیاری
 
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-cta = پسند شؽوات زمینه
 newtab-sports-widget-message-add-widgets-cta =
     .label = ٱووردن ویجتا
 
