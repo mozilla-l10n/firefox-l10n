@@ -12,6 +12,7 @@ restart-required-more-details-heading = Flere detaljer
 restart-required-multiple-instances-question = Hvorfor kan dette skje med flere profiler eller forekomster av { -brand-short-name }?
 restart-required-multiple-instances-answer = Hvis én profil eller forekomst oppdateres mens en annen fortsatt er åpen, kan den åpne bli værende på en eldre versjon. En omstart sørger for at alle bruker samme versjon.
 restart-required-single-instance-question = Jeg bruker ikke flere profiler eller forekomster. Hvorfor skjer dette?
+restart-required-single-instance-answer = { -brand-short-name } må kanskje startes på nytt hvis en oppdatering installeres i bakgrunnen mens nettleseren er åpen.
 restart-required-unsaved-work-question = Kan jeg miste arbeid som ikke er lagret?
 restart-required-unsaved-work-answer = Det er mulig, og vi vet at det er frustrerende. { -brand-short-name } åpner fanene dine på nytt, men arbeid som ikke er lagret på nettsider, for eksempel tekst i et skjema, blir kanskje ikke gjenopprettet. Private vinduer åpnes ikke på nytt for å beskytte personvernet ditt.
 # Expands the "More details" section below the buttons.
