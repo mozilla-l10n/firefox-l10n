@@ -18,9 +18,9 @@ menu-file-new-ai-window =
 menu-file-new-classic-window =
     .label = پنجرهٔ کلاسیک جدید
 menu-history-chats =
-    .label = گپ‌ها
+    .label = گفت‌وگوها
 menu-history-chats-recent =
-    .label = گپ‌های اخیر
+    .label = گفت‌وگوهای اخیر
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = زبانهٔ جدید
 
