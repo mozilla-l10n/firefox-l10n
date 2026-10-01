@@ -31,6 +31,7 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } ohechahína mo�
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } ohechajeyhína omonguatiava’ekue he’iháicha atyguasu mba’ekuaarã porureko. Kóva ipukumievekuaa.
 contentanalysis-operationtype-clipboard = kuatiajokoha
+contentanalysis-operationtype-clipboard-copy = tetepy monguatiapyre
 contentanalysis-operationtype-dropped-text = moñe’ẽrã ho’áva
 contentanalysis-operationtype-print = Mbokuatia
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +69,7 @@ contentanalysis-invalid-agent-signature-message-content = Ndoikói ñemboheragua
 contentanalysis-error-message-upload-file = “{ $filename }” myanyhẽ noñemoneĩri.
 contentanalysis-error-message-dropped-text = Embosyryry ha epoi mbotovepyre
 contentanalysis-error-message-clipboard = Emboja mbotovepyre
+contentanalysis-error-message-clipboard-copy = monguatia mbotovepyre
 contentanalysis-error-message-print = Monguatia mbotovepyre.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis

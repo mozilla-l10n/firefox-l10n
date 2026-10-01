@@ -134,6 +134,7 @@ a11y-activated = Myandypyre
 a11y-force-disabled = Jeikekuaa jejoko
 a11y-handler-used = Handler iporupyréva
 a11y-instantiator = Techapyrã jeikekuaa rehegua
+pdfjs-enabled = Myandypyre
 library-version-title = Arandukaty peteĩchagua
 copy-text-to-clipboard-label = Moñe’ẽrã mbohasa kuatiajokohápe
 copy-raw-data-to-clipboard-label = mba’ekuaarã hi’akýva mbohasa kuatiajokohápe

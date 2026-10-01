@@ -32,10 +32,20 @@ autocomplete-edit-address = Embosako’i ko kundaharape
 autocomplete-delete-address = Embogue ko kundaharape
 autocomplete-edit-payment-method = Embosako’i mba’éicha ehepyme’ẽta
 autocomplete-delete-payment-method = Embogue mba’éicha ehepyme’ẽta
+# aria-label and tooltip for the trash button on a form history entry.
+# Variables:
+#   $entry (String) - The text of the saved form history entry that would be deleted.
+autocomplete-delete-form-history-entry2 = Embogue { $entry } myanyhẽha rembiasakuégui
+# aria-label and tooltip for the button that opens the edit/delete menu.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-actions2 = Ejapove { $entry }-pe g̃uarã
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
+autocomplete-remove-password-title = ¿Embogue ñe’ẽñemi?
+autocomplete-remove-address-title = ¿Embogue kundaharape?
 autocomplete-delete-record-button = Mboguete
 autocomplete-remove-record-button = Mboguete
 autocomplete-delete-password-title = ¿ Embogue ñe’ẽñemi?
