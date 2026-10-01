@@ -7,7 +7,10 @@ restart-required-heading2 = Lo sentimos, { -brand-short-name } requiere un reini
 restart-required-intro2 = { -brand-short-name } necesita finalizar una actualización. Reinícialo para mantenerlo seguro y rápido.
 window-restoration-info2 = Volveremos a abrir todas las ventanas y pestañas, excepto las privadas.
 restart-required-why-now-question = ¿Por qué ahora?
+restart-required-why-now-answer = Esto puede ocurrir cuando se actualiza otro perfil o instancia de { -brand-short-name }, o cuando una actualización no puede esperar hasta el próximo reinicio.
 restart-required-more-details-heading = Más detalles
+restart-required-multiple-instances-question = ¿Por qué puede ocurrir esto con múltiples perfiles o instancias de { -brand-short-name }?
+restart-required-unsaved-work-question = ¿Podría perder el trabajo no guardado?
 restart-button-label2 = Reiniciar
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Ver más
