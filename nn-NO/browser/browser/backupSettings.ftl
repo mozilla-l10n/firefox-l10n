@@ -177,6 +177,7 @@ change-backup-encryption-header = Endre passord for sikkerheitskopi
 
 password-rules-header = Passordkrav
 password-rules-length-description = Minst 8 teikn
+password-rules-email-description2 = Ikkje ein e-postadresse
 password-rules-email-description = Ikkje di e-postadresse
 password-rules-disclaimer = Ver trygg – ikkje bruk passord på nytt. Sjå fleire tips for å <a data-l10n-name="password-support-link">lage sterke passord</a>.
 password-validity-has-email = Kan ikkje vere ei e-postadresse

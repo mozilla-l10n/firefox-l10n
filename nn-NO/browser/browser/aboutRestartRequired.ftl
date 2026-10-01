@@ -16,6 +16,10 @@ restart-required-single-instance-answer = { -brand-short-name } må kanskje star
 restart-required-single-instance-answer-2 = Dette kan skje under ei lang surfeøkt, eller når operativsystemet oppdaterer { -brand-short-name }. Ein omstart sørgjer for at { -brand-short-name } er sikker og fungerer som normalt.
 restart-required-unsaved-work-question = Kan eg miste arbeid som ikkje er lagra?
 restart-required-unsaved-work-answer = Det er mogleg, og vi veit at det er frustrerande. { -brand-short-name } opnar fanene dine på nytt, men arbeid som ikkje er lagra på nettsider, til dømes tekst i eit skjema, blir kanskje ikkje gjenoppretta. Private vindauge blir ikkje opna på nytt for å ta vare på personvernet ditt.
+restart-required-fix-question = Dette er skikkeleg irriterande! Jobbar { -brand-short-name } med ei løysing?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Ja. Vi veit at dette er forstyrrande, og vi jobbar med ei løysing for å forhindre at det skjer. Følg framdrifta i Bugzilla-feil 2072739.
 restart-button-label2 = Start på nytt
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Vis meir
