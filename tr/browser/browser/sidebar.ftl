@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Tarih ve site
 sidebar-history-sort-option-last-visited =
     .label = Son ziyaret
+sidebar-history-sort-option-most-visited =
+    .label = En çok ziyaret edilenler
 
 ## Labels for sidebar search
 

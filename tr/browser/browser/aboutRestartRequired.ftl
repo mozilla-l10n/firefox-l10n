@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Yeniden başlatma gerekiyor
+restart-required-heading2 = Kusura bakmayın, { -brand-short-name } tarayıcınızın yeniden başlatılması gerekiyor
 window-restoration-info2 = Gizli pencereler ve sekmeler dışındaki tüm pencereleri ve sekmeleri yeniden açacağız.
 restart-required-why-now-question = Neden şimdi?
 restart-required-more-details-heading = Daha fazla ayrıntı

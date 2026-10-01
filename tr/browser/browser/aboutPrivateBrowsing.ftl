@@ -96,5 +96,10 @@ about-private-browsing-spotlight-basics-bookmarks-downloads = Yer imleri ve indi
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Ek gizlilik korumaları
 about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } kötü amaçlı yazılımlara ve aldatıcı sitelere karşı sizi otomatik olarak uyarır.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name }, katılımcı sitelerin kişisel verilerinizi satmamalarını ve paylaşmamalarını otomatik olarak talep eder.
 about-private-browsing-spotlight-basics-vpn = Konumunuzun takip edilmesini zorlaştırmak için yerleşik VPN’i kullanın.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Daha güçlü izlenme koruması için “Sıkı” ayarına geçebilirsiniz.
 about-private-browsing-spotlight-basics-learn-more = Daha fazla bilgi al

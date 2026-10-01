@@ -177,6 +177,7 @@ change-backup-encryption-header = Yedeğin parolasını değiştir
 
 password-rules-header = Parola gereksinimleri
 password-rules-length-description = En az 8 karakter olmalı
+password-rules-email-description2 = E-posta adresi olmamalı
 password-rules-email-description = E-posta adresiniz olmamalı
 password-rules-disclaimer = Güvende kalın: Aynı parolaları farklı yerlerde kullanmayın. <a data-l10n-name="password-support-link">Güçlü parolalar oluşturmak</a> için diğer ipuçlarımıza bakın.
 password-validity-has-email = E-posta adresi olamaz

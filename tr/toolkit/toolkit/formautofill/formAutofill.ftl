@@ -33,6 +33,7 @@ autofill-options-link = Otomatik form doldurma seçenekleri
 credit-card-doorhanger-credit-cards-sync-checkbox = Tüm kayıtlı kartları cihazlarım arasında eşitle
 credit-card-save-doorhanger-header = Bu kart güvenli bir şekilde kaydedilsin mi?
 credit-card-save-doorhanger-description = { -brand-short-name } kart numaranızı şifreler. Güvenlik kodunuz kaydedilmez.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name }, kart numaranızı ve güvenlik kodunuzu şifreler. Böylece ödeme formlarını doldurmak için bu bilgileri sizden başkası kullanamaz.
 credit-card-doorhanger-save-security-codes-checkbox =
     .label = Ödeme yöntemlerine ait güvenlik kodlarını her zaman kaydet.
 credit-card-capture-save-button =
