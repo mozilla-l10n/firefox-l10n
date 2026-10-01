@@ -78,5 +78,5 @@ connection-dns-over-https-url-item-default =
     .tooltiptext = Izmantot noklusējuma URL, lai noskaidrotu DNS caur HTTPS
 connection-dns-over-https-url-custom =
     .label = Pielāgots
-    .tooltiptext = Ievadiet savu adresi, ko izmantot, lai strādātu ar DNS pa HTTPS
+    .tooltiptext = Ievadisavu adresi, ko izmantot, lai strādātu ar DNS pa HTTPS
     .accesskey = P

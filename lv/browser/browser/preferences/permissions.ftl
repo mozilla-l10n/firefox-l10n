@@ -75,7 +75,7 @@ permissions-capabilities-listitem-off-temporarily =
 ## Invalid Hostname Dialog
 
 permissions-invalid-uri-title = Ievadīts nederīgs resursdatora nosaukums
-permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
+permissions-invalid-uri-label = Lūgums ievadīt derīgu saimniekdatora nosaukumu
 
 ## Exceptions - Tracking Protection
 
@@ -195,7 +195,7 @@ permissions-exceptions-doh-window =
     .style = { permissions-window2.style }
     .title = Vietņu izņēmumi DNS caur HTTPS
 permissions-exceptions-manage-doh-desc = { -brand-short-name } šajās vietnēs un to apakšdomēnos neizmantos drošu DNS.
-permissions-doh-entry-field = Ievadiet vietnes domēna nosaukumu
+permissions-doh-entry-field = Ievadi tīmekļvietnes domēna nosaukumu
     .accesskey = d
 permissions-doh-add-exception =
     .label = Pievienot

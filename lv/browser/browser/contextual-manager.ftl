@@ -29,7 +29,7 @@ contextual-manager-passwords-export-os-auth-dialog-message-win = Lai izgūtu sav
 # notes are only valid for English. only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-export-os-auth-dialog-message-macosx = izgūt saglabātās paroles
 # This message can be seen when attempting to reveal a password in contextual password manager on Windows
-contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Lai apskatītu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+contextual-manager-passwords-reveal-password-os-auth-dialog-message-win = Lai apskatītu savu paroli, jāievada Windows pieteikšanās dati. Tas palīdz sargāt kontu drošību.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-reveal-password-os-auth-dialog-message-macosx = parādīt saglabāto paroli
@@ -39,7 +39,7 @@ contextual-manager-passwords-edit-password-os-auth-dialog-message-win = Lai labo
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-edit-password-os-auth-dialog-message-macosx = labot saglabāto paroli
 # This message can be seen when attempting to copy a password in contextual password manager on Windows.
-contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Lai kopētu savu paroli, ievadiet Windows ierkastīšanās akreditācijas datus. Tas palīdz sargāt jūsu kontu drošību.
+contextual-manager-passwords-copy-password-os-auth-dialog-message-win = Lai kopētu savu paroli, jāievada Windows pieteikšanās dati. Tas palīdz sargāt kontu drošību.
 # The MacOS string is preceded by the operating system with "Firefox is trying to ".
 # Only provide the reason that account verification is needed. Do not put a complete sentence here.
 contextual-manager-passwords-copy-password-os-auth-dialog-message-macosx = kopēt saglabāto paroli

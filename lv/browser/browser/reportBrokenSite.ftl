@@ -19,4 +19,4 @@ report-broken-site-panel-report-sent-header =
     .label = Jūsu ziņojums ir nosūtīts
     .title = Jūsu ziņojums ir nosūtīts
 report-broken-site-panel-report-sent-text = Paldies, ka palīdzat { -brand-product-name } padarīt tīmekli atvērtāku, pieejamāku un labāku ikvienam.
-report-broken-site-panel-invalid-url-label = Lūdzu, ievadiet derīgu URL
+report-broken-site-panel-invalid-url-label = Lūgums ievadīt derīgu URL

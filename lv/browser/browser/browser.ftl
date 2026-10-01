@@ -550,15 +550,15 @@ urlbar-placeholder-search-mode-web-2 =
 #  (e.g. Amazon).
 urlbar-placeholder-search-mode-other-engine =
     .aria-label = Meklēt ar { $name }
-    .placeholder = Ievadiet meklēšanas tekstu
+    .placeholder = Ievadi meklējamo
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .aria-label = Meklēt grāmatzīmēs
-    .placeholder = Ievadiet meklēšanas tekstu
+    .placeholder = Ievadi meklējamo
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .aria-label = Meklēt vēsturē
-    .placeholder = Ievadiet meklēšanas tekstu
+    .placeholder = Ievadi meklējamo
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .aria-label = Meklēt cilnēs
@@ -566,7 +566,7 @@ urlbar-placeholder-search-mode-other-tabs =
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .aria-label = Meklēt darbībās
-    .placeholder = Ievadiet meklēšanas tekstu
+    .placeholder = Ievadi meklējamo
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
