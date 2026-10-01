@@ -176,7 +176,14 @@ appmenu-fxa-last-sync = Naposledy synchronizováno { $time }
     .label = Naposledy synchronizováno { $time }
 appmenu-fxa-sync-and-save-data2 = Synchronizace a ukládání dat
 appmenu-fxa-signed-in-label = Přihlásit se
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Mějte svá data synchronizovaná všude
 appmenu-fxa-sign-in-promo-link = Přihlásit se
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Zavřít přihlašovací nabídku
+    .title = Zavřít
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Přihlásit se k synchronizaci
