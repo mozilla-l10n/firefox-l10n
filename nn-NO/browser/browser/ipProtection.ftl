@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Legg til eit nytt lag med pers
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidreg til å verne surfinga di. Vel mellom fleire plasseringar for å gjere kvar du surfar meir privat.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Den integrerte VPN-en til { -brand-product-name }</a> hjelper til med å beskytte surfinga di. Vel mellom fleire plasseringar for å beskytte personvernet ditt når du surfar.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom fleire plasseringar for å skjule kvar du surfar.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Bidra til å skjule plasseringa di for <a data-l10n-name="learn-more-vpn">ekstra personvern</a> medan du surfar. Slå VPN på eller av for visse nettstadar.
 ipprotection-feature-introduction-text-summer-promo-1 = Aktiver det for å gjere surfinga di meir privat. <a data-l10n-name="summer-promo-link">Få uavgrensa bandbreidde</a> og fleire plasseringar å surfe frå. No til og med 31. august.
 ipprotection-feature-introduction-title-summer-promo = Skal du ut å reise? Ta personvernet med deg.
 ipprotection-feature-introduction-description-summer-promo = Få meir ut av { -brand-product-name } sin innebygde VPN: fleire plasseringar, uavgrensa bandbreidde. No til og med 31. august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine, sjølv når du er i eit privat vindauge.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra vern ved å skjule plasseringa di, sjølv når du er i eit privat vindauge.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Bidra til å skjule plasseringa di for <a data-l10n-name="learn-more-vpn">ekstra personvern</a> medan du surfar. Angi reglar for å slå på VPN for ekstra personvern eller stadsbasert surfing, og slå det av der du ikkje treng det.
 ipprotection-feature-introduction-title-captive-portal = På offentleg Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Surf med ekstra vern ved å skjule plasseringa di, også på offentleg Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -107,6 +111,9 @@ ipprotection-android-promo-callout-primary-button = Eg forstår
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Angi reglar for den innebygde VPN-en, og surf vidare
+ipprotection-site-inclusions-callout-description = Slå det på når du vil ha ekstra personvern eller stadbasert surfing, og av der du ikkje treng det.
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ikkje no
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorer
 
