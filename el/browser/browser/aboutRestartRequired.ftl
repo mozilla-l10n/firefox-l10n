@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Απαιτείται επανεκκίνηση
+restart-required-heading2 = Δυστυχώς, το { -brand-short-name } χρειάζεται μια γρήγορη επανεκκίνηση
 restart-required-why-now-question = Γιατί τώρα;
 restart-required-more-details-heading = Περισσότερες λεπτομέρειες
 restart-required-fix-question = Αυτό είναι πολύ εκνευριστικό! Ετοιμάζει το { -brand-short-name } κάποια διόρθωση;
