@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Дата і сайт
 sidebar-history-sort-option-last-visited =
     .label = Апошняе наведванне
+sidebar-history-sort-option-most-visited =
+    .label = Часта наведваныя
 
 ## Labels for sidebar search
 
