@@ -4,6 +4,7 @@
 
 restart-required-title = Omstart påkravd
 restart-required-heading2 = Beklagar, { -brand-short-name } treng ein rask omstart
+restart-required-intro2 = { -brand-short-name } må fullføre ei oppdatering. Start på nytt for å halde nettlesaren sikker og stabil.
 restart-required-why-now-question = Kvifor no?
 restart-required-more-details-heading = Fleire detaljar
 restart-required-unsaved-work-question = Kan eg miste arbeid som ikkje er lagra?
