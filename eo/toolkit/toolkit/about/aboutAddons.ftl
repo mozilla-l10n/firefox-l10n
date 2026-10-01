@@ -341,8 +341,8 @@ addon-name-disabled = { $name } (malaktiva)
 #   $numberOfReviews (number) - The number of reviews received
 addon-detail-reviews-link =
     { $numberOfReviews ->
-        [one] { $numberOfReviews } revizio
-       *[other] { $numberOfReviews } revizioj
+        [one] { $numberOfReviews } recenzo
+       *[other] { $numberOfReviews } recenzoj
     }
 
 ## Pending uninstall message bar
