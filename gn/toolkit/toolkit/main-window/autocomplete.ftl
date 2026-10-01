@@ -22,3 +22,28 @@ autocomplete-import-logins-chromium-edge =
 ##
 
 autocomplete-import-learn-more = Eikuaave
+
+## Secondary actions shown on form autocomplete dropdown rows.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-edit-password = Embosako’i ko ñe’ẽñemi
+autocomplete-delete-password = Embogue ko ñe’ẽñemi
+autocomplete-edit-address = Embosako’i ko kundaharape
+autocomplete-delete-address = Embogue ko kundaharape
+autocomplete-edit-payment-method = Embosako’i mba’éicha ehepyme’ẽta
+autocomplete-delete-payment-method = Embogue mba’éicha ehepyme’ẽta
+
+## Confirmation shown before a record is removed from the autocomplete dropdown.
+## Gated by the browser.autocomplete.removeRecords.enabled pref.
+
+autocomplete-delete-record-button = Mboguete
+autocomplete-remove-record-button = Mboguete
+autocomplete-delete-password-title = ¿ Embogue ñe’ẽñemi?
+autocomplete-delete-address-title = ¿Embogue kundaharape?
+autocomplete-delete-payment-method-title = ¿Embogue mba’éichapa ehepyme’ẽta?
+
+## Device sign-in prompt shown before a password is removed from the autocomplete
+## dropdown. The -win and -macosx variants are selected at runtime; other platforms
+## do not support device sign-in and fall back to the Primary Password dialog.
+
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }
