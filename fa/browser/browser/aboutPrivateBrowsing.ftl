@@ -56,7 +56,7 @@ about-private-browsing-pin-promo-title = طوری در اینترنت گشت و 
 
 about-private-browsing-relay-promo-header = با پنهان‌کننده‌های ایمیل، جلوی دریافت اسپم را بگیرید
 about-private-browsing-relay-promo-title = هنگام ثبت نام، خرید یا به اشتراک گذاری آنلاین، آدرس واقعی خود را با یک ماسک ایمیل پنهان کنید.
-about-private-browsing-relay-promo-link-text = ماسک‌های ایمیل را امتحان کنید
+about-private-browsing-relay-promo-link-text = پنهان‌کننده رایانامه را امتحان کنید
 
 ## Strings used in a promotion message for cookie banner reduction
 
