@@ -15,6 +15,11 @@ restart-required-single-instance-question = Ik gebruik niet meerdere profielen o
 restart-required-single-instance-answer = { -brand-short-name } moet mogelijk worden herstart als een update op de achtergrond wordt toegepast terwijl het is geopend.
 restart-required-single-instance-answer-2 = Dit kan gebeuren tijdens een lange navigatiesessie, of wanneer uw besturingssysteem { -brand-short-name } bijwerkt. Herstarten houdt { -brand-short-name } veilig en normaal.
 restart-required-unsaved-work-question = Kan ik niet-opgeslagen werk verliezen?
+restart-required-unsaved-work-answer = Mogelijk, en we weten dat dat frustrerend is. { -brand-short-name } zal uw tabbladen opnieuw openen, maar niet-opgeslagen werk binnen webpagina’s, zoals tekst in een formulier, kan niet worden hersteld. Om uw privacy te beschermen worden privévensters niet opnieuw geopend.
+restart-required-fix-question = Dit is echt vervelend! Werkt { -brand-short-name } aan een oplossing?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Ja. We begrijpen dat dit hinderlijk is en werken aan een oplossing om herhaling te voorkomen. Volg de voortgang via Bugzilla-bug 2072739.
 restart-button-label2 = Herstarten
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Meer bekijken

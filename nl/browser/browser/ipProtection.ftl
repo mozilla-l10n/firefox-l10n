@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Nog een laag privacy toevoegen
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">De ingebouwde VPN van { -brand-product-name }</a> helpt uw navigatie te beschermen. Kies uit diverse locaties om uw navigatie meer privé te houden.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">De ingebouwde VPN van { -brand-product-name }</a> helpt uw navigatie te beschermen. Kies uit meerdere locaties om uw navigatie meer privé te houden.
 ipprotection-feature-introduction-link-text-privacy-3 = Ontvang <a data-l10n-name="learn-more-vpn">extra privacy</a> door te kiezen uit meerdere locaties om te verbergen waar u surft.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Help uw locatie te verbergen voor <a data-l10n-name="learn-more-vpn">extra privacy</a> terwijl u navigeert. Zet de VPN voor bepaalde websites aan of uit.
 ipprotection-feature-introduction-text-summer-promo-1 = Schakel dit in om uw navigatie meer privé te houden. <a data-l10n-name="summer-promo-link">Ontvang onbeperkte bandbreedte</a> en meer locaties om vanaf te surfen. Nu t/m 31 augustus.
 ipprotection-feature-introduction-title-summer-promo = Hebt u reisplannen? Neem privacy met u mee.
 ipprotection-feature-introduction-description-summer-promo = Ga verder met de ingebouwde VPN van { -brand-product-name }: meer locaties, onbeperkte bandbreedte. Nu t/m 31 augustus.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gebruik onze nieuwe <a data-l10n-name="learn-more-vpn">ingebouwde VPN</a> om uw locatie te verbergen en uw gegevens te beschermen, zelfs als u zich in een privévenster bevindt.
 ipprotection-feature-introduction-description-private-browsing = Navigeer met extra bescherming door uw locatie te verbergen, zelfs wanneer u een privévenster gebuikt.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Help uw locatie te verbergen voor <a data-l10n-name="learn-more-vpn">extra privacy</a> terwijl u navigeert. Stel regels in om de VPN voor extra privacy of locatiegebaseerd navigeren in te schakelen, en uit te schakelen waar dat niet nodig is.
 ipprotection-feature-introduction-title-captive-portal = Gebruikt u openbare wifi? Probeer de ingebouwde VPN van { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navigeer met extra bescherming door uw locatie te verbergen, zelfs op openbare wifi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN van werkbalk verwijderen
 ipprotection-feature-introduction-button-open-vpn = VPN openen
 ipprotection-feature-introduction-button-get-started = Beginnen
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximaliseer privacy met de ingebouwde VPN van { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,10 @@ ipprotection-android-promo-callout-primary-button = Begrepen
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Stel ingebouwde VPN-regels in en navigeer vervolgens verder
+ipprotection-site-inclusions-callout-title-lapsed-users = Probeer de ingebouwde VPN, nu per website
+ipprotection-site-inclusions-callout-description = Zet de VPN aan wanneer u extra privacy of locatiegebaseerd navigeren wilt, en uit waar dat niet nodig is.
 ipprotection-site-inclusions-callout-primary-button = Regels instellen
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Niet nu
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Sluiten
