@@ -154,7 +154,7 @@ preferences-profiles-section-header =
     .label = Profili
 # This string labels the entire copy profile section in the profiles sub-pane.
 preferences-copy-profile-header =
-    .description = Jaunajā profilā tiks kopēti jūsu iestatījumi, paplašinājumi, vēsture un saglabātie dati, piemēram, grāmatzīmes un paroles, bet ne jūsu konta vai sinhronizācijas informācija.
+    .description = Jaunajā profilā tiks kopēti iestatījumi, paplašinājumi, vēsture un saglabātie dati, piemēram, grāmatzīmes un paroles, bet ne konta vai vienādošanas informācija.
     .label = Kopēt esošu profilu
 # This string sits next to the copy controls, both the copy-profile-select
 # drop-down and the copy-profile-button, so that the user understands they
@@ -806,7 +806,7 @@ sync-sign-in =
 prefs-syncing-on = Vienādošana: IESLĒGTA
 prefs-syncing-on-2 =
     .label = Vienādošana ir IESLĒGTA
-prefs-syncing-off = Sinhronizācija: izslēgta
+prefs-syncing-off = Vienādošana: IZSLĒGTA
 prefs-syncing-off-2 =
     .description = Ieslēdz vienādošanu, lai piekļūtu savām grāmatzīmēm, parolēm, vēsturei un vēl jebkurā ierīcē!
     .label = Vienādošana ir IZSLĒGTA
