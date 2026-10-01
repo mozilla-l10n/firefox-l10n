@@ -50,6 +50,9 @@ autocomplete-remove-payment-method-title = Fjerne betalingsmåte?
 autocomplete-remove-record-message = Du kan ikkje angre denne handlinga.
 autocomplete-delete-record-button = Slett
 autocomplete-remove-record-button = Fjern
+autocomplete-delete-password-title = Slette passord?
+autocomplete-delete-address-title = Slette adresse?
+autocomplete-delete-payment-method-title = Slette betalingsmåte?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
