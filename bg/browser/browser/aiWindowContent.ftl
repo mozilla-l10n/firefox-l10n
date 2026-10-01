@@ -16,12 +16,14 @@ smart-window-context-chips-tag-count =
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Нещо се обърка. Моля, опитайте отново.
+smartwindow-assistant-error-budget-header = Достигнахте днешното ограничение за разговори.
 smartwindow-retry-btn = Опитайте отново
 smartwindow-clear-btn = Нов разговор
 smartwindow-signin-btn = Вписване
 
 ## Assistant Message footer
 
+aiwindow-memories-learn-more = Научете повече
 aiwindow-applied-memories-list =
     .aria-label = Спомени
 

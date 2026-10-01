@@ -48,12 +48,18 @@ settings-data-backup-last-backup-filename = Име на файл: { $fileName }
 settings-data-backup-restore-scheduled-off =
     .description = Използване на архив на { -brand-product-name } от друго устройство за възстановяване на данните.
     .label = Възстановяване на вашите данни
+settings-sensitive-data =
+    .label = Чувствителни данни
+settings-data-toggle-encryption-support-link = Научете повече
 
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Включване на архивиране
+turn-on-scheduled-backups-description = { -brand-short-name } ще създава моментна снимка на данните ви на всеки 24 часа. Можете да го възстановите, ако има проблем или получите ново устройство.
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Местоположение
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Изберете местоположение
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Избор…
@@ -70,6 +76,7 @@ turn-on-scheduled-backups-confirm-button = Включване на архиви�
 
 turn-off-scheduled-backups-header = Изключване на архивирането?
 turn-off-scheduled-backups-description = Това също изтрива всички ваши архивни данни. Не може да бъде отменено.
+turn-off-scheduled-backups-support-link = Научете повече
 turn-off-scheduled-backups-cancel-button = Отказ
 turn-off-scheduled-backups-confirm-button = Изключване и изтриване на архивно копие
 
@@ -84,6 +91,7 @@ restore-from-backup-file-choose-button =
     }
 restore-from-backup-password-label = Парола
 restore-from-backup-cancel-button = Отказ
+restore-from-backup-restoring-button = Възстановяване…
 
 ## These strings are displayed in a small error message bar in the settings
 ## menu if there was an error when trying to restore a backed up profile
@@ -114,6 +122,7 @@ change-backup-encryption-header = Промяна на паролата на ар
 
 password-rules-header = Изисквания за парола
 password-rules-length-description = Поне 8 знака
+password-rules-email-description2 = Това не е имейл адрес
 password-rules-email-description = Да не е вашият електронен адрес
 password-rules-disclaimer = Пазете се - не използвайте пароли повторно. Вижте още съвети за <a data-l10n-name="password-support-link">създаване на силни пароли</a>.
 password-validity-has-email = Да не е адрес на електронна поща
