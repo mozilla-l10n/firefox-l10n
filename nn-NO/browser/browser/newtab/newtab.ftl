@@ -347,6 +347,9 @@ newtab-stocks-search-button =
     .aria-label = Søk etter namn eller symbol
     .label = Søk
     .title = Søk etter namn eller symbol
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Begynn å følgje med på aksjar som er viktige for deg
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
