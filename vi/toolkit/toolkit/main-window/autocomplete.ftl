@@ -48,7 +48,11 @@ autocomplete-remove-password-title = Xoá mật khẩu?
 autocomplete-remove-address-title = Xoá địa chỉ?
 autocomplete-remove-payment-method-title = Xoá phương thức thanh toán?
 autocomplete-remove-record-message = Bạn không thể hoàn tác hành động này.
+autocomplete-delete-record-button = Xoá
 autocomplete-remove-record-button = Xoá
+autocomplete-delete-password-title = Xoá mật khẩu?
+autocomplete-delete-address-title = Xoá địa chỉ?
+autocomplete-delete-payment-method-title = Xoá phương thức thanh toán?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
