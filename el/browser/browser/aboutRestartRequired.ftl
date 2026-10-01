@@ -5,6 +5,7 @@
 restart-required-title = Απαιτείται επανεκκίνηση
 restart-required-why-now-question = Γιατί τώρα;
 restart-required-more-details-heading = Περισσότερες λεπτομέρειες
+restart-required-fix-question = Αυτό είναι πολύ εκνευριστικό! Ετοιμάζει το { -brand-short-name } κάποια διόρθωση;
 restart-button-label2 = Επανεκκίνηση
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Προβολή περισσότερων

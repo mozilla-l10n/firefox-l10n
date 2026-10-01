@@ -31,6 +31,7 @@ about-pdf-features-header = Εργαλεία PDF του { -brand-short-name }
 about-pdf-features-back =
     .label = Πίσω
 about-pdf-feature-organize-heading = Οργάνωση σελίδων
+about-pdf-feature-organize-description = Αναδιατάξτε, αφαιρέστε, συγχωνεύστε και εξαγάγετε σελίδες.
 about-pdf-feature-signatures-heading = Αποθήκευση υπογραφών
 about-pdf-feature-comments-heading = Προσθήκη σημειώσεων
 about-pdf-feature-annotate-heading = Σήμανση αρχείων PDF
