@@ -177,7 +177,8 @@ change-backup-encryption-header = Αλλαγή κωδικού πρόσβασης
 
 password-rules-header = Απαιτήσεις κωδικού πρόσβασης
 password-rules-length-description = Τουλάχιστον 8 χαρακτήρες
-password-rules-email-description = Όχι τη διεύθυνση email σας
+password-rules-email-description2 = Να μην είναι διεύθυνση email
+password-rules-email-description = Να μην είναι η διεύθυνση email σας
 password-rules-disclaimer = Για την προστασία σας, μην επαναχρησιμοποιείτε κωδικούς πρόσβασης. Δείτε περισσότερες συμβουλές για τη <a data-l10n-name="password-support-link">δημιουργία ισχυρών κωδικών πρόσβασης</a>.
 password-validity-has-email = Δεν μπορεί να είναι διεύθυνση email
 password-validity-do-not-match = Οι κωδικοί πρόσβασης δεν ταιριάζουν

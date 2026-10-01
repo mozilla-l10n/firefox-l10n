@@ -91,4 +91,6 @@ about-private-browsing-spotlight-basics-what-to-know = Τι πρέπει να γ
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Πρόσθετα μέτρα προστασίας απορρήτου
+about-private-browsing-spotlight-basics-malware-alerts = Το { -brand-short-name } σάς ειδοποιεί αυτόματα για κακόβουλο λογισμικό και παραπλανητικούς ιστοτόπους.
+about-private-browsing-spotlight-basics-vpn = Χρησιμοποιήστε το ενσωματωμένο VPN για να κάνετε πιο δύσκολη την καταγραφή της τοποθεσίας σας.
 about-private-browsing-spotlight-basics-learn-more = Μάθετε περισσότερα

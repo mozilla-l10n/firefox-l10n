@@ -58,6 +58,7 @@ about-logging-preset-web-compat-description = Μονάδες καταγραφή�
 about-logging-preset-navigation = Πλοήγηση
 about-logging-preset-navigation-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων πλοήγησης και ιστορικού συνεδρίας
 about-logging-preset-vpn-label = VPN
+about-logging-preset-vpn-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων προστασίας IP (VPN)
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων WebGPU
 about-logging-preset-gfx-label = Γραφικά

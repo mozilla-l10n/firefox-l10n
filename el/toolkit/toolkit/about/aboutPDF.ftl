@@ -35,6 +35,7 @@ about-pdf-feature-organize-description = Αναδιατάξτε, αφαιρέσ�
 about-pdf-feature-signatures-heading = Αποθήκευση υπογραφών
 about-pdf-feature-signatures-description = Δημιουργήστε πολλαπλές υπογραφές και προσθέστε τις σε φόρμες.
 about-pdf-feature-comments-heading = Προσθήκη σημειώσεων
+about-pdf-feature-comments-description = Προσθέστε σχόλια και υπενθυμίσεις καθώς διαβάζετε.
 about-pdf-feature-annotate-heading = Σήμανση αρχείων PDF
 about-pdf-feature-annotate-description = Προσθέστε κείμενο, επισημάνσεις και σχέδια.
 about-pdf-feature-view-heading = Επιλέξτε την προβολή σας

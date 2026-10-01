@@ -30,6 +30,8 @@ ipprotection-feature-introduction-title-privacy = Προσθέστε ένα ακ
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> προστατεύει την περιήγησή σας. Επιλέξτε μία από τις πολλαπλές τοποθεσίες για να διατηρήσετε την περιήγησή σας πιο ιδιωτική.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> προστατεύει την περιήγησή σας. Επιλέξτε ανάμεσα σε πολλαπλές τοποθεσίες για ακόμη πιο ιδιωτική πλοήγηση.
 ipprotection-feature-introduction-link-text-privacy-3 = Απολαύστε <a data-l10n-name="learn-more-vpn">επιπλέον απόρρητο</a> επιλέγοντας ανάμεσα σε πολλαπλές τοποθεσίες για να αποκρύψετε το μέρος απ' όπου περιηγείστε.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Αποκρύψτε την τοποθεσία σας για <a data-l10n-name="learn-more-vpn">επιπλέον ιδιωτικότητα</a> κατά την περιήγηση. Ενεργοποιήστε ή απενεργοποιήστε το VPN για συγκεκριμένους ιστοτόπους.
 ipprotection-feature-introduction-text-summer-promo-1 = Ενεργοποιήστε το για να κάνετε την περιήγησή σας πιο ιδιωτική. <a data-l10n-name="summer-promo-link">Επωφεληθείτε από απεριόριστο εύρος ζώνης</a> και περιηγηθείτε μέσω περισσότερων τοποθεσιών από σήμερα έως τις 31 Αυγούστου.
 ipprotection-feature-introduction-title-summer-promo = Έχετε ταξιδιωτικά σχέδια; Πάρτε το απόρρητο μαζί σας.
 ipprotection-feature-introduction-description-summer-promo = Κάντε περισσότερα με το ενσωματωμένο VPN του { -brand-product-name }: περισσότερες τοποθεσίες, απεριόριστο εύρος ζώνης. Έως τις 31 Αυγούστου.
@@ -51,6 +53,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Αφαίρεση VPN από τη γραμμή εργαλείων
 ipprotection-feature-introduction-button-open-vpn = Άνοιγμα VPN
 ipprotection-feature-introduction-button-get-started = Έναρξη
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Ενισχύστε την ιδιωτικότητά σας με το ενσωματωμένο VPN του { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +109,9 @@ ipprotection-android-promo-callout-primary-button = Το κατάλαβα
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+ipprotection-site-inclusions-callout-title-lapsed-users = Δοκιμάστε το ενσωματωμένο VPN, πλέον ανά ιστότοπο
+ipprotection-site-inclusions-callout-description = Ενεργοποιήστε το όταν θέλετε επιπλέον ιδιωτικότητα ή περιήγηση βάσει τοποθεσίας και απενεργοποιήστε το όπου δεν χρειάζεται.
+ipprotection-site-inclusions-callout-primary-button = Ορισμός κανόνων
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Όχι τώρα
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Απόρριψη
 

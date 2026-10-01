@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Εγκατεστημένες γλώσσες
 browser-languages-available-label = Διαθέσιμες γλώσσες
 browser-languages-error = Το { -brand-short-name } δεν μπορεί να ενημερώσει τις γλώσσες σας αυτήν τη στιγμή. Ελέγξτε αν έχετε συνδεθεί στο διαδίκτυο ή δοκιμάστε ξανά.
+browser-languages-update-error =
+    .message = Το { -brand-short-name } δεν μπορεί να ενημερώσει τις γλώσσες σας αυτήν τη στιγμή. Ελέγξτε αν έχετε συνδεθεί στο διαδίκτυο ή δοκιμάστε ξανά.
