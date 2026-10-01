@@ -1201,7 +1201,7 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
-    .title = Eñengareko embojuehéva ne mba’e’oka pa’ũmere
+    .title = Eñangareko embojuehéva ne mba’e’oka pa’ũmere
 
 ## The device name controls.
 

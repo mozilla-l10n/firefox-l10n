@@ -165,6 +165,9 @@ appmenu-fxa-signed-in-label = Увайсці
 # dismiss it, after which the compact sign-in row is shown in its place.
 appmenu-fxa-sign-in-promo-heading2 = Сінхранізуйце свае звесткі ўсюды
 appmenu-fxa-sign-in-promo-link = Увайсці
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Закрыць прапанову ўвайсці
+    .title = Адхіліць
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Увайсці для сінхранізацыі
