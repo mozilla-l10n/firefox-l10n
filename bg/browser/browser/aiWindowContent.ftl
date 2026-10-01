@@ -27,6 +27,12 @@ aiwindow-memories-learn-more = Научете повече
 aiwindow-applied-memories-list =
     .aria-label = Спомени
 
+## Jump to Bottom Button
+
+aiwindow-jump-to-bottom =
+    .aria-label = Към края на разговора
+    .tooltiptext = Отиване до края
+
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
