@@ -5,9 +5,17 @@
 restart-required-title = Omstart påkravd
 restart-required-heading2 = Beklagar, { -brand-short-name } treng ein rask omstart
 restart-required-intro2 = { -brand-short-name } må fullføre ei oppdatering. Start på nytt for å halde nettlesaren sikker og stabil.
+window-restoration-info2 = Vi opnar alle vindauge og faner på nytt, unntatt private.
 restart-required-why-now-question = Kvifor no?
+restart-required-why-now-answer = Dette kan skje når ein annan { -brand-short-name }-profil eller -førekomst blir oppdatert, eller når ei oppdatering ikkje kan vente til neste omstart.
 restart-required-more-details-heading = Fleire detaljar
+restart-required-multiple-instances-question = Kvifor kan dette skje med fleire profilar eller førekomstar av { -brand-short-name }?
+restart-required-multiple-instances-answer = Viss éin profil eller førekomst blir oppdatert medan ein annan framleis er open, kan den opne bli verande på ein eldre versjon. Ein omstart sørgjer for at alle bruker same versjon.
+restart-required-single-instance-question = Eg brukar ikkje fleire profilar eller førekomstar. Kvifor skjer dette då?
+restart-required-single-instance-answer = { -brand-short-name } må kanskje startast på nytt viss ei oppdatering blir installert i bakgrunnen medan nettlesaren er open.
+restart-required-single-instance-answer-2 = Dette kan skje under ei lang surfeøkt, eller når operativsystemet oppdaterer { -brand-short-name }. Ein omstart sørgjer for at { -brand-short-name } er sikker og fungerer som normalt.
 restart-required-unsaved-work-question = Kan eg miste arbeid som ikkje er lagra?
+restart-required-unsaved-work-answer = Det er mogleg, og vi veit at det er frustrerande. { -brand-short-name } opnar fanene dine på nytt, men arbeid som ikkje er lagra på nettsider, til dømes tekst i eit skjema, blir kanskje ikkje gjenoppretta. Private vindauge blir ikkje opna på nytt for å ta vare på personvernet ditt.
 restart-button-label2 = Start på nytt
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Vis meir
