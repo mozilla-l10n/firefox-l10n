@@ -698,7 +698,7 @@ search-add-engine =
 search-add-engine-2 =
     .label = Pievienot meklētāju
     .accesskey = P
-search-find-more-link = Pievienot meklētājus
+search-find-more-link = Atrast vēl meklētājus
 search-filtering-for-add-engine = Pievienot meklētāju
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -818,16 +818,16 @@ prefs-sync-turn-on-syncing-2 =
     .accesskey = s
 prefs-sync-offer-setup-label2 = Vienādo savas grāmatzīmes, vēsturi, cilnes, paroles, papildinājumus un iestatījumus visās savās ierīcēs!
 prefs-sync-now-button =
-    .label = Sinhronizēt tagad
-    .accesskey = n
+    .label = Vienādot tagad
+    .accesskey = g
 prefs-sync-now-button-2 =
-    .label = Sinhronizēt tagad
-    .accesskey = n
+    .label = Vienādot tagad
+    .accesskey = g
 prefs-syncing-button =
     .label = Sinhronizē...
 prefs-syncing-button-2 =
-    .label = Sinhronizē...
-    .title = Sinhronizēt tagad
+    .label = Vienādo...
+    .title = Vienādot tagad
 
 ## The list of things currently syncing.
 
@@ -1084,6 +1084,9 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = Populārākās vietnes
     .accesskey = P
+addressbar-locbar-engines-option-1 =
+    .label = Ieteikt meklētājus, ko izmantot
+    .accesskey = m
 addressbar-locbar-quickactions-option =
     .label = Ātrās darbības
     .accesskey = r

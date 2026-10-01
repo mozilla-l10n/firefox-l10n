@@ -118,4 +118,5 @@ sidebar-genai-survey-productive-question =
     “MI tērzēšanas robots sānjoslā palīdz man būt produktīvākam”?
 splitview-onboarding-callout-subtitle-1 = Jāveic klikšķis ar labo peles taustiņu uz šīs cilnes un jāizvēlas “Pievienot sadalīto skatu”, lai vienlaicīgi redzētu divas cilnes.
 splitview-onboarding-callout-subtitle-2 = Nekādu papildu logu. Nekādas pārslēgšanās starp cilnēm. Ar labo peles taustiņu jāklikšķina uz šīs cilnes un jāizvēlas “Pievienot sadalīto skatu”.
+unified-search-callout-title = Pārslēgties starp meklētājiem
 unified-search-engines-callout-primary-label = Sapratu

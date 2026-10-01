@@ -275,7 +275,7 @@ onboarding-easy-setup-security-and-privacy-title = Mums patīk rūpēties par j�
 onboarding-easy-setup-security-and-privacy-subtitle = Mūsu bezpeļņas organizācijas atbalstītais pārlūks palīdz neļaut uzņēmumiem slepeni jūs izsekot tīmeklī.
 # Mobile download screen
 onboarding-mobile-download-security-and-privacy-title = Palieciet šifrēti, kad pārejat starp ierīcēm
-onboarding-mobile-download-security-and-privacy-subtitle = Kad esat sinhronizējis, { -brand-short-name } šifrē jūsu paroles, grāmatzīmes un daudz ko citu. Turklāt varat ņemt cilnes no citām savām ierīcēm.
+onboarding-mobile-download-security-and-privacy-subtitle = Kad notiek vienādošana, { -brand-short-name } šifrē paroles, grāmatzīmes un citus vienumus. Papildus tam var atvērt citās savās ierīcēs atvērtas cilnes.
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } jūs atbalsta
 onboarding-gratitude-security-and-privacy-subtitle = Paldies, ka izmantojat { -brand-short-name }, ko atbalsta Mozilla Foundation. Ar jūsu atbalstu mēs strādājam, lai padarītu internetu drošāku un pieejamāku ikvienam.

@@ -107,7 +107,7 @@ appmenu-remote-tabs-connectdevice =
     .label = Savienot ar citu ierīci
 appmenu-remote-tabs-welcome = Skatiet citu savu ierīču ciļņu sarakstu.
 appmenu-remote-tabs-unverified = Jūsu kontam nepieciešams apstiprinājums.
-appmenuitem-fxa-toolbar-sync-now2 = Sinhronizēt tagad
+appmenuitem-fxa-toolbar-sync-now2 = Vienādot tagad
 appmenuitem-fxa-sign-in = Pieteikties { -brand-product-name }
 appmenuitem-fxa-manage-account = Pārvaldīt kontu
 fxa-menu-sync-status-on = Vienādošana ir ieslēgta
@@ -164,7 +164,7 @@ appmenu-fxa-setup-sync =
 appmenu-fxa-setup-sync-new = Ieslēgt
 appmenuitem-save-page =
     .label = Saglabāt lapu kā…
-appmenuitem-fxa-sync-off-title = Sinhronizācija ir izslēgta
+appmenuitem-fxa-sync-off-title = Vienādošana ir izslēgta
 appmenuitem-fxa-sync-off-description = Aizsargājiet un piekļūstiet savām grāmatzīmēm, parolēm un vēl no jebkuras vietas.
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record
