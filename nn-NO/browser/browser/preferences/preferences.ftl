@@ -1441,6 +1441,16 @@ preferences-passwords-autofill-header =
 payment-moz-box-item =
     .description = { $expDate }
     .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV lagra
+    .label = { $cardNumber }
 addresses-group =
     .label = Adresser og meir
 payments-group =

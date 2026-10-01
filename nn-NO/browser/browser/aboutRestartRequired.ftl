@@ -5,7 +5,13 @@
 restart-required-title = Omstart påkravd
 restart-required-heading2 = Beklagar, { -brand-short-name } treng ein rask omstart
 restart-required-why-now-question = Kvifor no?
+restart-required-more-details-heading = Fleire detaljar
+restart-required-unsaved-work-question = Kan eg miste arbeid som ikkje er lagra?
 restart-button-label2 = Start på nytt
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Vis meir
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Vis mindre
 restart-required-heading = Start på nytt for å halde fram med å bruke { -brand-short-name }
 restart-required-intro = Ei oppdatering av { -brand-short-name } starta i bakgrunnen. Du må starte om for å fullføre uppdateringa.
 window-restoration-info = Vindauga og fanene dine vil raskt bli gjenoppretta, bortsett frå dei private.
