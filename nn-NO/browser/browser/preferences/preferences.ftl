@@ -1374,6 +1374,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Krev einingspålogging for å automatisk fylle ut og handsame betalingsmåter
     .accesskey = K
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Lagre sikkerheitskodar
+    .accesskey = g
 autofill-payment-methods-add-button = Legg til ny betalingsmåte
 payments-list-header =
     .label = Betalingsmåtar
@@ -1450,6 +1454,13 @@ payment-moz-box-item =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item-with-security-code =
     .description = { $expDate } | CVV lagra
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV lagra
     .label = { $cardNumber }
 addresses-group =
     .label = Adresser og meir
