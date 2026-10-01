@@ -253,6 +253,12 @@ places-search-downloads =
 places-locked-prompt = La paĝosigna kaj historia sistemo ne estos aktiva ĉar unu el la dosieroj de { -brand-short-name } estas uzata de alia programo. Tiun problemon povas okazigi sekureca programo.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Nova
+    .label = Dividi dosierujon
+    .accesskey = D
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Nova
     .label = Dividi dosierujon

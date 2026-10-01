@@ -30,6 +30,7 @@ policy-BlockAboutSupport = Bloki aliron al la paĝo about:support.
 policy-Bookmarks = Krei legosignojn en la ilaro de legosignoj, en la menuo de legosignoj, aŭ en dosierujo sub ili.
 policy-CaptivePortal = Aktivigi aŭ malaktivigi subtenon por kapta portalo.
 policy-CertificatesDescription = Aldoni atestilojn aŭ uzi inkluzivitajn atestilojn.
+policy-ClearOnShutdown = Viŝi historion kiam { -brand-short-name } finiĝas.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.

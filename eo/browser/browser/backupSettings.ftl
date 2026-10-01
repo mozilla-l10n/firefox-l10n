@@ -177,6 +177,7 @@ change-backup-encryption-header = Ŝanĝi pasvorton de sekurkopio
 
 password-rules-header = Pasvortaj postuloj
 password-rules-length-description = Minimume 8 signoj
+password-rules-email-description2 = Tio ne estas retpoŝta adreso
 password-rules-email-description = Ĝi ne povas esti via retpoŝta adreso
 password-rules-disclaimer = Restu sekura — ne reuzu pasvortojn. Jen kelkaj konsiletoj por <a data-l10n-name="password-support-link">krei fortajn pasvortojn</a>.
 password-validity-has-email = Ĝi ne povas esti retpoŝta adreso
