@@ -321,7 +321,7 @@ smart-window-default-promo-additional-button = فعلاً نه
 
 ## Feedback modal
 
-aiwindow-feedback-modal-title = اشتراک‌گذاری بازخورد
+aiwindow-feedback-modal-title = هم‌رسانی بازخورد
 aiwindow-feedback-what-worked-well = چه چیزی خوب کار کرد؟ لطفاً از درج اطلاعات شخصی خودداری کنید.
 aiwindow-feedback-choose-any = مواردی که صدق می‌کنند را انتخاب کنید
 aiwindow-feedback-add-details = در صورت تمایل جزئیات را اضافه کنید. لطفاً از درج اطلاعات شخصی خودداری کنید.
@@ -334,7 +334,7 @@ aiwindow-feedback-reason-lacks-personalization = فاقد شخصی‌سازی ی
 aiwindow-feedback-reason-performance-or-usability = مشکل در عملکرد یا کاربردپذیری
 aiwindow-feedback-reason-harmful-or-offensive = مضر یا توهین‌آمیز
 aiwindow-feedback-reason-other = سایر موارد
-aiwindow-feedback-preview-report = مشاهدهٔ جزئیات گپ
+aiwindow-feedback-preview-report = مشاهدهٔ جزئیات گفت‌وگو
 aiwindow-feedback-preview-report-with-page = مشاهدهٔ جزئیات گپ و صفحه
 aiwindow-feedback-include-page-content = اشتراک‌گذاری صفحات اشاره‌شده در این گپ
 
