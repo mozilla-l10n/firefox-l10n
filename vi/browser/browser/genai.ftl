@@ -59,10 +59,24 @@ genai-menu-remove-provider =
     .label = Xoá { $provider }
 genai-menu-remove-sidebar =
     .label = Gỡ khỏi thanh lề
+genai-shortcut-button-3 =
+    .aria-label = Hỏi về văn bản này
+    .tooltiptext = Hỏi về văn bản này
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = Hỏi { $provider }
     .tooltiptext = Hỏi { $provider }
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Tìm kiếm { $engine } cho “{ $selection }”
+    .tooltiptext = Tìm kiếm { $engine } cho “{ $selection }”
+genai-shortcut-copy-button =
+    .aria-label = Sao chép văn bản đã chọn
+    .tooltiptext = Sao chép văn bản đã chọn
+genai-shortcut-more-actions-button =
+    .aria-label = Tuỳ chọn khác
+    .tooltiptext = Tuỳ chọn khác
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Hỏi { $provider }

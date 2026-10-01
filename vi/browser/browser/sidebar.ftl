@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Ngày và trang
 sidebar-history-sort-option-last-visited =
     .label = Lần truy cập cuối
+sidebar-history-sort-option-most-visited =
+    .label = Truy cập nhiều nhất
 
 ## Labels for sidebar search
 

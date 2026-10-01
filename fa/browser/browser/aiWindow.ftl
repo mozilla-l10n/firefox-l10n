@@ -232,9 +232,9 @@ smartwindow-switch-to-smart-window = جابه‌جایی به { -smart-window-br
 ## Fullpage Footer Actions
 
 smartwindow-footer-chats =
-    .aria-label = گپ‌ها
-    .label = گپ‌ها
-    .tooltiptext = گپ‌ها
+    .aria-label = گفت‌وگو‌ها
+    .label = گفت‌وگو‌ها
+    .tooltiptext = گفت‌وگو‌ها
 smartwindow-footer-history =
     .aria-label = تاریخچه
     .label = تاریخچه
@@ -248,14 +248,14 @@ smartwindow-disclaimer = هوش مصنوعی ممکن است اشتباه کند
 ## FirefoxView Chats
 ## Chats in this context refers to chats saved from the Smart Window Assistant
 
-firefoxview-chats-nav = گپ‌ها
-    .title = گپ‌ها
-firefoxview-chats-header = گپ‌ها
-firefoxview-chat-context-delete = حذف از گپ‌ها
+firefoxview-chats-nav = گفت‌وگو‌ها
+    .title = گفت‌وگو‌ها
+firefoxview-chats-header = گفت‌وگو‌ها
+firefoxview-chat-context-delete = حذف از گفت‌وگو‌ها
     .accesskey = ح
 # Placeholder for the input field to search in open tabs ("search" is a verb).
 firefoxview-search-text-box-chats =
-    .placeholder = جست‌وجوی گپ‌ها
+    .placeholder = جست‌وجوی گفت‌وگو‌ها
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -267,23 +267,23 @@ firefoxview-chat-date-prev-month = { DATETIME($date, month: "long", year: "numer
 
 ## Message displayed in Firefox View when the user has no chat data
 
-firefoxview-chats-empty-header = بازگشت به گپ‌هایتان
+firefoxview-chats-empty-header = بازگشت به گفت‌وگو‌هایتان
 firefoxview-chats-empty-description = با استفاده از { -smart-window-brand-name }، گپ‌هایتان در اینجا ذخیره خواهند شد.
 
 ## Count displayed in fxview chat search results
 
 firefoxview-search-chat-results-count =
     { $count ->
-        [one] { $count } گپ
-       *[other] { $count } گپ
+        [one] { $count } گفت‌وگو
+       *[other] { $count } گفت‌وگو
     }
 
 ## Clear browsing data dialog
 
 item-history-downloads-and-chat =
-    .label = تاریخچهٔ مرور، بارگیری و گپ
+    .label = تاریخچهٔ مرور، بارگیری و گفت‌وگو
     .accesskey = ت
-item-history-downloads-and-chat-description = پاک کردن تاریخچهٔ سایت، بارگیری و گپ
+item-history-downloads-and-chat-description = پاک کردن تاریخچهٔ سایت، بارگیری و گفت‌وگو
 
 ## Natural Language Interactions
 

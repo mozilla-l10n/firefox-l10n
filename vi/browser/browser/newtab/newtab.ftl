@@ -95,6 +95,10 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Hình ảnh của ngày
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Tìm kiếm
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Tìm kiếm gần đây
@@ -157,6 +161,12 @@ home-prefs-mission-message-learn-more-link-srd = Tìm hiểu cách thức
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Tìm hiểu thêm
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Tuỳ chọn quyền riêng tư
+    .title = Tuỳ chọn quyền riêng tư
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -305,6 +315,9 @@ newtab-stocks-search-button =
     .aria-label = Tìm kiếm theo tên hoặc ký hiệu
     .label = Tìm kiếm
     .title = Tìm kiếm theo tên hoặc ký hiệu
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Bắt đầu theo dõi những cổ phiếu quan trọng đối với bạn
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -379,6 +392,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Kết quả tìm kiếm
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Tìm kiếm các mã chứng khoán hoặc công ty để thêm vào danh sách theo dõi của bạn
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -472,6 +488,11 @@ newtab-recent-searches-just-now = Vừa xong
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Xoá “{ $search }” khỏi các tìm kiếm gần đây
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Tìm kiếm
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Tuỳ chọn tìm kiếm
 
 ## Recent searches widget — empty states
 
@@ -780,6 +801,8 @@ newtab-custom-widget-stocks-toggle =
     .label = Cổ phiếu
 newtab-custom-widget-picture-toggle =
     .label = Hình ảnh của ngày
+newtab-custom-widget-search-toggle =
+    .label = Tìm kiếm
 newtab-custom-widget-recent-searches-toggle =
     .label = Tìm kiếm gần đây
 newtab-custom-widget-section-title = Widget
@@ -836,6 +859,9 @@ newtab-wallpaper-add-an-image = Thêm một ảnh
 newtab-wallpaper-custom-color = Chọn màu
 newtab-wallpaper-toggle-title =
     .label = Hình nền
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Danh mục hình nền
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Hình ảnh vượt quá giới hạn kích thước tập tin { $file_size }MB. Vui lòng thử tải lên một tập tin nhỏ hơn.
@@ -1687,6 +1713,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Không gian này tuân theo luật lệ của bạn.
 newtab-activation-window-message-values-focus-message = { -brand-product-name } cho phép bạn duyệt web theo cách bạn thích, với cách thức cá nhân hơn để bắt đầu ngày mới trực tuyến. Biến { -brand-product-name } thành của riêng bạn.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Cá nhân hoá { -brand-product-name } của bạn
+newtab-nova-customization-callout-message = Khám phá các chủ đề và hình nền sáng hoặc tối để giúp chiếc { -brand-product-name } mới của bạn trở nên cá nhân hoá hơn.
+newtab-nova-customization-callout-primary-button =
+    .label = Chọn phong cách của bạn
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1767,6 +1803,12 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Không có múi giờ phù hợp
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Quay lại
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Tuỳ chọn đồng hồ
+    .title = Tuỳ chọn đồng hồ
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

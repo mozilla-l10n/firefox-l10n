@@ -177,6 +177,7 @@ change-backup-encryption-header = Thay đổi mật khẩu sao lưu
 
 password-rules-header = Yêu cầu mật khẩu
 password-rules-length-description = Ít nhất 8 ký tự
+password-rules-email-description2 = Không phải địa chỉ email
 password-rules-email-description = Không phải địa chỉ email của bạn
 password-rules-disclaimer = Giữ an toàn — đừng sử dụng lại mật khẩu. Xem thêm mẹo để <a data-l10n-name="password-support-link">tạo mật khẩu mạnh</a>.
 password-validity-has-email = Không thể là địa chỉ email

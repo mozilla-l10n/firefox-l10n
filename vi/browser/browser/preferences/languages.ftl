@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Ngôn ngữ đã cài đặt
 browser-languages-available-label = Ngôn ngữ có sẵn
 browser-languages-error = { -brand-short-name } không thể cập nhật ngôn ngữ của bạn ngay bây giờ. Kiểm tra kết nối internet và thử lại.
+browser-languages-update-error =
+    .message = { -brand-short-name } không thể cập nhật ngôn ngữ của bạn ngay bây giờ. Kiểm tra kết nối internet và thử lại.
