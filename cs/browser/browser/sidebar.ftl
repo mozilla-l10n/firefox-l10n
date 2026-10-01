@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Datum a název
 sidebar-history-sort-option-last-visited =
     .label = Poslední návštěva
+sidebar-history-sort-option-most-visited =
+    .label = Nejnavštěvovanější
 
 ## Labels for sidebar search
 

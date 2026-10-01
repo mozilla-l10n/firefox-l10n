@@ -63,6 +63,9 @@ genai-menu-remove-provider =
     .label = Odebrat { $provider }
 genai-menu-remove-sidebar =
     .label = Odebrat z postranní lišty
+genai-shortcut-button-3 =
+    .aria-label = Zeptat se na tento text
+    .tooltiptext = Zeptat se na tento text
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = Zeptat se { $provider }

@@ -260,6 +260,12 @@ places-locked-prompt =
     }
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Novinka
+    .label = Sdílet složku
+    .accesskey = S
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Nové
     .label = Sdílet složku
