@@ -44,6 +44,24 @@ menu-share-links =
             [one] { $count } iink
            *[other] { $count } links
         }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, mensagens e mais…
+    .accesskey = m
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Mensagens, email e mais…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Compartilhar…
+    .accesskey = h
 urlbar-identity-button =
     .aria-label = Ver informação do site
 
@@ -109,6 +127,8 @@ urlbar-result-menu-tip-get-help2 = Obter ajuda
     .accesskey = O
 urlbar-result-menu-dismiss-suggestion2 = Descartar esta sugestão
     .accesskey = D
+urlbar-result-menu-remove-top-site = Remover este site principal
+    .accesskey = p
 urlbar-result-menu-manage-firefox-suggest2 = Gerenciar o { -firefox-suggest-brand-name }
     .accesskey = G
 # Some urlbar suggestions show the user's approximate location as automatically
