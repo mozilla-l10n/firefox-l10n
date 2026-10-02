@@ -616,3 +616,4 @@ onboarding-theme-picker-button-label = Salva e continua
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Funzionalità in evidenza
+
