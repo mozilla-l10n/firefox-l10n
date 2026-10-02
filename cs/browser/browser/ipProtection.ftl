@@ -42,6 +42,8 @@ ipprotection-feature-introduction-link-text-privacy-2 =
        *[no-cases] <a data-l10n-name="learn-more-vpn">Integrovaná služba VPN aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení webu. Vyberte si z řady umístění a zajistěte si větší soukromí při prohlížení webu.
     }
 ipprotection-feature-introduction-link-text-privacy-3 = Získejte <a data-l10n-name="learn-more-vpn">větší soukromí</a> tím, že si vyberete z několika umístění a skryjete tak místo, odkud surfujete.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Pomozte skrýt svou polohu a získejte při prohlížení <a data-l10n-name="learn-more-vpn">větší soukromí</a>. Pro vybrané weby můžete VPN zapnout nebo vypnout.
 ipprotection-feature-introduction-text-summer-promo-1 = Zapněte tuto funkci a zajistěte si větší soukromí při prohlížení webu. <a data-l10n-name="summer-promo-link">Získejte neomezenou šířku pásma</a> a více umístění, ze kterých můžete surfovat. Platí do 31. srpna.
 ipprotection-feature-introduction-title-summer-promo = Máte nějaké cestovatelské plány? Vezměte si soukromí s sebou.
 ipprotection-feature-introduction-description-summer-promo =
@@ -51,6 +53,8 @@ ipprotection-feature-introduction-description-summer-promo =
     }
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Pomozte skrýt svou polohu a získejte <a data-l10n-name="learn-more-vpn">zvlášť soukromí</a> během prohlížení. Nastavte si pravidla pro zapnutí VPN pro zvýšení soukromí nebo prohlížení podle polohy a vypnutí tam, kde nechcete.
 ipprotection-feature-introduction-title-captive-portal =
     { -brand-product-name.case-status ->
         [with-cases] Používáte veřejnou Wi-Fi? Vyzkoušejte vestavěnou síť VPN ve { -brand-product-name(case: "gen") }.
@@ -71,6 +75,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Odebrat VPN z nástrojové lišty
 ipprotection-feature-introduction-button-open-vpn = Otevřít VPN
 ipprotection-feature-introduction-button-get-started = Začínáme
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximalizujte soukromí pomocí VPN zabudované v aplikaci { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
