@@ -704,6 +704,10 @@ settings-keyboard-shortcuts-group =
     .label = Сочетания клавиш
 settings-keyboard-shortcuts-customkeys-link =
     .label = Настроить горячие клавиши
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Настройка параметров адресной строки в Поиске
 settings-media-group =
     .label = Медиа
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -929,6 +933,14 @@ search-separate-default-engine-2 =
     .accesskey = Г
 search-separate-default-engine-dropdown =
     .aria-label = Поисковая система по умолчанию в приватных окнах
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Навигация адресной строки
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Пропускать меню результатов, когда вы используете клавишу табуляции для перемещения фокуса
 search-suggestions-header-2 =
     .label = Предложения поисковых систем
 search-one-click-header2 = Значки поисковых систем
@@ -1157,6 +1169,9 @@ sync-syncing-across-devices-heading = Вы синхронизируете эти
 sync-syncing-across-devices-heading-2 = Данные между устройствами синхронизированы
 sync-syncing-across-devices-empty-state2 =
     .description = Вы ничего не синхронизируете... пока. Запустите синхронизацию, чтобы получить все ваши данные на всех ваших устройствах.
+    .label = Управление синхронизированными данными
+sync-syncing-across-devices-empty-state3 =
+    .description = Вы ничего не синхронизируете… пока. Выберите, что синхронизировать на этом устройстве.
     .label = Управление синхронизированными данными
 sync-currently-syncing-bookmarks = Закладки
 sync-currently-syncing-history = Историю

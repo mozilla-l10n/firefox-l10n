@@ -1409,6 +1409,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Настройки списков
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Открыть меню списков
+    .title = Открыть меню списков
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Создать новый список
@@ -1496,6 +1502,11 @@ newtab-widget-timer-menu-notifications-on = Включить уведомлен�
 newtab-widget-timer-menu-learn-more = Подробнее
 newtab-widget-timer-menu-button =
     .aria-label = Настройки таймера
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Открыть меню таймеров
+    .title = Открыть меню таймеров
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Самые популярные новости
 newtab-daily-briefing-card-menu-dismiss = Скрыть
@@ -1520,6 +1531,14 @@ newtab-promo-card-cta = Подробнее
 newtab-promo-card-dismiss-button =
     .aria-label = Убрать
     .title = Убрать
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Открыть меню кроссвордов
+    .title = Открыть меню кроссвордов
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1929,6 +1948,11 @@ newtab-clock-widget-custom-back = Назад
 newtab-clock-widget-menu-button2 =
     .aria-label = Настройки часов
     .title = Настройки часов
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Открыть меню часов
+    .title = Открыть меню часов
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

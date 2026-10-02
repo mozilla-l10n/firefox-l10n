@@ -10,6 +10,9 @@ theme-picker-mode-device = Устройство
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Внешний вид
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Темы
 theme-picker-use-linux-theme =
     .label = Использовать системную тему Linux
 
