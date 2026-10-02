@@ -51,6 +51,18 @@ menu-share-links =
 menu-share-mac-picker-single =
     .label = AirDrop, Mensagens e Muito Mais…
     .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Mensagens, Mail e Muito Mais…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Partilhar…
+    .accesskey = P
 urlbar-identity-button =
     .aria-label = Ver informação do site
 

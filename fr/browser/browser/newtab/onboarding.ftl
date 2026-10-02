@@ -613,4 +613,4 @@ onboarding-theme-picker-button-label = Enregistrer et continuer
 # Default accessible name for the row of pills used to move between carousel
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
-    .aria-label = Fonctionnalités clés
+    .aria-label = Points forts de la fonctionnalité

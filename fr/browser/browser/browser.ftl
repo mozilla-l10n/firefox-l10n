@@ -41,8 +41,8 @@ urlbar-identity-button2 =
 menu-share-links =
     .label =
         { $count ->
-            [one] Lien { $count }
-           *[other] { $count } Liens
+            [one] { $count } lien
+           *[other] { $count } liens
         }
 # macOS-only item that opens the system share picker, used when a single link
 # is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
@@ -55,7 +55,7 @@ menu-share-mac-picker-single =
 # single URL. "Messages" and "Mail" are names of macOS apps, so they should
 # match the macOS translation of those names where possible.
 menu-share-mac-picker-multiple =
-    .label = Messages, Courrier et plus…
+    .label = Messages, Mail et plus…
     .accesskey = M
 # Share entry in the addressbar context menu. Opens the macOS share picker
 # directly, hence the ellipsis.

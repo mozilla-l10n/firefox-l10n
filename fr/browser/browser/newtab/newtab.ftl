@@ -104,7 +104,7 @@ home-prefs-search-widget-header =
     .label = Recherches
 # Horoscopes is a widget on New Tab that shows daily horoscopes.
 home-prefs-horoscopes-header =
-    .label = Thèmes astraux
+    .label = Horoscope
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Recherches récentes
@@ -578,7 +578,7 @@ newtab-recent-searches-empty-trending = Les recherches populaires ne sont pas di
 ## Strings for the Horoscopes widget
 
 # Widget heading; also the widget's accessible name.
-newtab-horoscopes-widget-title = Thèmes astraux
+newtab-horoscopes-widget-title = Horoscope
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Options de l’horoscope
@@ -892,7 +892,7 @@ newtab-custom-widget-picture-toggle =
 newtab-custom-widget-search-toggle =
     .label = Rechercher
 newtab-custom-widget-horoscopes-toggle =
-    .label = Thèmes astraux
+    .label = Horoscope
 newtab-custom-widget-recent-searches-toggle =
     .label = Recherches récentes
 newtab-custom-widget-section-title = Widgets
