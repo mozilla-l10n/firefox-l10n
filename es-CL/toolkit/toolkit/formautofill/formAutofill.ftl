@@ -33,6 +33,7 @@ autofill-options-link = Opciones de autocompletado de formularios
 credit-card-doorhanger-credit-cards-sync-checkbox = Sincronizar todas las tarjetas guardadas en mis dispositivos
 credit-card-save-doorhanger-header = ¿Guardar esta tarjeta de forma segura?
 credit-card-save-doorhanger-description = { -brand-short-name } cifra tu número de tarjeta. Tu código de seguridad no será guardado.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } cifra el número de tu tarjeta y el código de seguridad, de modo que solo tú puedas utilizarlos para rellenar los formularios de pago.
 credit-card-doorhanger-save-security-codes-checkbox =
     .label = Guarda siempre los códigos de seguridad de métodos de pago.
 credit-card-capture-save-button =

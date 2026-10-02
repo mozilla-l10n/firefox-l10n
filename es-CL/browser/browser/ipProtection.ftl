@@ -37,6 +37,8 @@ ipprotection-feature-introduction-title-summer-promo = ¿Tienes planes de viaje?
 ipprotection-feature-introduction-description-summer-promo = Llega más lejos con la VPN integrada de { -brand-product-name }: más ubicaciones, ancho de banda ilimitado. Hasta el 31 de agosto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utiliza nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos, incluso si estás en una ventana privada.
 ipprotection-feature-introduction-description-private-browsing = Navega con mayor protección ocultando tu ubicación, incluso cuando estés en una ventana privada.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Ayuda a ocultar tu ubicación para una <a data-l10n-name="learn-more-vpn">mayor privacidad</a> mientras navegas. Configura reglas para activar la VPN para mayor privacidad o navegación basada en la ubicación, y desactívala cuando no la necesites.
 ipprotection-feature-introduction-title-captive-portal = ¿Conectado al Wi-Fi público? Prueba la VPN integrada de { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navega con mayor protección ocultando tu ubicación, incluso en redes Wi-Fi públicas.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Remover VPN de la barra
 ipprotection-feature-introduction-button-open-vpn = Abrir VPN
 ipprotection-feature-introduction-button-get-started = Empezar
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maximiza la privacidad con la VPN integrada de { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -105,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Entendido
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Establece las reglas de la VPN integrada y luego navega
+ipprotection-site-inclusions-callout-title-lapsed-users = Prueba la VPN integrada, ahora sitio por sitio.
+ipprotection-site-inclusions-callout-description = Actívala cuando quieras privacidad adicional o navegación basada en la ubicación, y desactívala donde no quieras.
+ipprotection-site-inclusions-callout-primary-button = Establecer reglas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ahora no
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ocultar
 
