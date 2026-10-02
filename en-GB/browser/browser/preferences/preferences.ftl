@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Keyboard shortcuts
 settings-keyboard-shortcuts-customkeys-link =
     .label = Customise keyboard shortcuts
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Customise address bar settings in Search
 settings-media-group =
     .label = Media
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Default search engine in private windows
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Address bar navigation
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Skip the results menu when using the tab key to move focus
 search-suggestions-header-2 =
     .label = Search engine suggestions
 search-one-click-header2 = Search Shortcuts

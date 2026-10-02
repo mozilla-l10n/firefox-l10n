@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Crossword
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finance
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Stocks
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Search
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoscopes
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Recent searches
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = Learn more
 newtab-privacy-widget-menu-button =
     .aria-label = Privacy options
     .title = Privacy options
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Open privacy menu
+    .title = Open privacy menu
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -334,12 +345,23 @@ newtab-privacy-message-first-protection-cta = View protections
 newtab-stocks-menu-learn-more = Learn more
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Stock data is not available.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Finance options
+    .title = Finance options
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Stocks widget options
     .title = Stocks widget options
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Open stocks menu
+    .title = Open stocks menu
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -370,6 +392,12 @@ newtab-stocks-list-watchlist = Watchlist
     .label = Watchlist
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Search by name or symbol
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finance
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -475,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Picture of the day options
     .title = Picture of the day options
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Open picture of the day menu
+    .title = Open picture of the day menu
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -529,6 +562,11 @@ newtab-search-widget-title = Search
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Search options
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Open search menu
+    .title = Open search menu
 
 ## Recent searches widget — empty states
 
@@ -536,6 +574,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Recent searches will show here so you can pick them up again at any time.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Trending searches are not available right now.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoscopes
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Horoscopes options
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Learn more
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -834,12 +882,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Crossword
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finance
 newtab-custom-widget-stocks-toggle =
     .label = Stocks
 newtab-custom-widget-picture-toggle =
     .label = Picture of the day
 newtab-custom-widget-search-toggle =
     .label = Search
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoscopes
 newtab-custom-widget-recent-searches-toggle =
     .label = Recent searches
 newtab-custom-widget-section-title = Widgets
@@ -1063,6 +1116,11 @@ newtab-wallpaper-celestial-river = Satellite image of river
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsored
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Open weather menu
+    .title = Open weather menu
 newtab-weather-menu-change-location = Change location
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Search location
@@ -1341,6 +1399,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Lists options
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Open lists menu
+    .title = Open lists menu
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Create a new list
@@ -1428,6 +1492,11 @@ newtab-widget-timer-menu-notifications-on = Turn on notifications
 newtab-widget-timer-menu-learn-more = Learn more
 newtab-widget-timer-menu-button =
     .aria-label = Timer options
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Open timer menu
+    .title = Open timer menu
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Top Headlines
 newtab-daily-briefing-card-menu-dismiss = Dismiss
@@ -1452,6 +1521,14 @@ newtab-promo-card-cta = Learn more
 newtab-promo-card-dismiss-button =
     .aria-label = Dismiss
     .title = Dismiss
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Open crossword menu
+    .title = Open crossword menu
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1857,6 +1934,11 @@ newtab-clock-widget-custom-back = Back
 newtab-clock-widget-menu-button2 =
     .aria-label = Clock options
     .title = Clock options
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Open clock menu
+    .title = Open clock menu
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
