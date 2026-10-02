@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = 웹 검색…
 
 smartbar-mention-typing-placeholder = 탭 또는 사이트 태그
 smartbar-mentions-list-no-results-label = 결과 없음
+smartbar-mentions-list-tab-groups-label = 최근 그룹
 smartbar-mentions-list-recent-tabs-label = 최근 탭
 
 ## Context mentions menu toggle button

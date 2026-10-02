@@ -35,6 +35,29 @@ urlbar-identity-button2 =
             [1] 사이트 정보 보기 (추적기 1개 차단됨)
            *[other] 사이트 정보 보기 (추적기 { $count }개 차단됨)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label = 링크 { $count }개
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = 에어드롭, 메시지 등…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = 메시지, 메일 등…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = 공유…
+    .accesskey = h
 urlbar-identity-button =
     .aria-label = 사이트 정보 보기
 
@@ -100,6 +123,8 @@ urlbar-result-menu-tip-get-help2 = 도움 받기
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = 이 제안 거절
     .accesskey = D
+urlbar-result-menu-remove-top-site = 이 상위 사이트 제거
+    .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } 관리
     .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -915,6 +940,12 @@ urlbar-view-context-menu-open-in-window2 = 새 창에서 열기
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = 새 사생활 보호 창에서 열기
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Tab 키를 사용할 때 이 메뉴 건너뛰기
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 
