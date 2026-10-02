@@ -75,8 +75,31 @@ about-private-browsing-felt-privacy-v1-info-link = Ai có thể xem hoạt độ
 
 about-private-browsing-nova-info-body = Việc đóng tất cả các cửa sổ riêng tư sẽ xóa cookie, lịch sử và dữ liệu trang web của bạn.
 about-private-browsing-nova-info-link = Ai vẫn có thể xem được hoạt động của tôi?
+about-private-browsing-private-window-basics-link = Những điều cơ bản về cửa sổ riêng tư
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } được thiết kế để bảo vệ quyền riêng tư của bạn khi duyệt web, với các tính năng bảo vệ theo dõi được tích hợp sẵn. Việc đóng cửa sổ này sẽ xoá lịch sử, cookie và dữ liệu trang web để giữ cho hoạt động duyệt web của bạn được riêng tư khỏi những người khác sử dụng thiết bị này.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Hạn chế tối đa tiết lộ thông tin của bạn
 about-private-browsing-nova-info-subheader2 = Chúng tôi sẽ xóa mọi tìm kiếm và đăng nhập khi bạn đóng tất cả các cửa sổ riêng tư. Các tính năng bảo vệ tích hợp của { -brand-short-name } cũng được bật ở đây, chẳng hạn như chặn trình theo dõi.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Những điều cơ bản về cửa sổ riêng tư
+about-private-browsing-spotlight-basics-subtitle = Cửa sổ riêng tư giúp bảo vệ hoạt động duyệt web của bạn khỏi người khác trên thiết bị này. Chế độ này không giúp bạn ẩn danh hoặc xoá toàn bộ dữ liệu của bạn.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Những điều cần biết
+about-private-browsing-spotlight-basics-activity-seen = Một số hoạt động của bạn vẫn có thể được các trang web, công cụ tìm kiếm, nhà cung cấp dịch vụ internet hoặc công ty của bạn theo dõi.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Dấu trang và các tập tin tải xuống sẽ được lưu trên thiết bị của bạn và có thể xuất hiện trong thanh địa chỉ.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Bảo vệ quyền riêng tư tốt hơn
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } tự động cảnh báo bạn về phần mềm độc hại và các trang web lừa đảo.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } tự động yêu cầu các trang web tham gia không bán hoặc chia sẻ dữ liệu cá nhân của bạn.
+about-private-browsing-spotlight-basics-vpn = Sử dụng VPN tích hợp sẵn để khiến việc theo dõi vị trí của bạn trở nên khó khăn hơn.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Chuyển sang chế độ Nghiêm ngặt trong cài đặt để tăng cường trình chống theo dõi.
+about-private-browsing-spotlight-basics-learn-more = Tìm hiểu thêm
