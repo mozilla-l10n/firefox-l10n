@@ -83,6 +83,9 @@ firefoxview-overview-nav = Senaste surfning
     .title = Senaste surfning
 firefoxview-overview-header = Senaste surfning
     .title = Senaste surfning
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Flikar och surfhistorik mellan enheter
 
 ## History in this context refers to browser history
 

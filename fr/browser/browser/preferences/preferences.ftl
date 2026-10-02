@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Raccourcis clavier
 settings-keyboard-shortcuts-customkeys-link =
     .label = Personnaliser les raccourcis clavier
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Personnaliser la barre d’adresse dans la recherche
 settings-media-group =
     .label = Multimédia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Moteur de recherche par défaut dans les fenêtres de navigation privée
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigation de la barre d’adresse
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Ignorer le menu des résultats si vous utilisez la touche tabulation pour déplacer le focus
 search-suggestions-header-2 =
     .label = Suggestions du moteur de recherche
 search-one-click-header2 = Raccourcis de recherche
@@ -1153,6 +1165,9 @@ sync-syncing-across-devices-heading = Vous synchronisez ces éléments entre tou
 sync-syncing-across-devices-heading-2 = Données synchronisées entre les appareils
 sync-syncing-across-devices-empty-state2 =
     .description = Vous ne synchronisez rien… pour l’instant. Lancez la synchronisation pour accéder à toutes vos données sur l’ensemble de vos appareils.
+    .label = Gérer les données synchronisées
+sync-syncing-across-devices-empty-state3 =
+    .description = Vous ne devez rien synchroniser… pour l’instant. Choisir les éléments à synchroniser sur cet appareil.
     .label = Gérer les données synchronisées
 sync-currently-syncing-bookmarks = Marque-pages
 sync-currently-syncing-history = Historique

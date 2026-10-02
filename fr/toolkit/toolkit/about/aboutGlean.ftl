@@ -148,6 +148,12 @@ about-glean-no-data-to-display = Aucune donnée à afficher.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Les statistiques <code>DualLabeledCounter</code> ne sont pas encore prises en charge dans la vue <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Type de statistique inconnu.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping :
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Active le stockage en mémoire des pings envoyés
+    .label = Conserver les pings envoyés
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

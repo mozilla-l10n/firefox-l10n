@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] Fermer { $tabCount } onglets
         }
     .accesskey = F
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Fermer
+    .accesskey = F
 menu-file-close-window =
     .label = Fermer la fenêtre
     .accesskey = r
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Partager
     .accesskey = P
+menu-file-share-qrcode3 =
+    .label = Créer un code QR
+    .accesskey = C
 menu-file-share-qrcode =
     .label = Générer un code QR…
     .accesskey = G

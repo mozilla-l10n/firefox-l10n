@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Tangentbordsgenvägar
 settings-keyboard-shortcuts-customkeys-link =
     .label = Anpassa tangentbordsgenvägar
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Anpassa inställningarna för adressfältet i Sök
 settings-media-group =
     .label = Media
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = A
 search-separate-default-engine-dropdown =
     .aria-label = Standardsökmotor i privata fönster
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigering i adressfält
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Hoppa över resultatmenyn när du använder tabbtangenten för att flytta fokus
 search-suggestions-header-2 =
     .label = Förslag från sökmotorer
 search-one-click-header2 = Sökgenvägar
@@ -1153,6 +1165,9 @@ sync-syncing-across-devices-heading = Du synkroniserar dessa objekt mellan alla 
 sync-syncing-across-devices-heading-2 = Data synkroniserad mellan enheter
 sync-syncing-across-devices-empty-state2 =
     .description = Du synkroniserar ingenting ... ännu. Börja synkronisera för att få all din data på alla dina enheter.
+    .label = Hantera synkroniserad data
+sync-syncing-across-devices-empty-state3 =
+    .description = Du synkroniserar inget… än. Välj vad som ska synkroniseras på den här enheten.
     .label = Hantera synkroniserad data
 sync-currently-syncing-bookmarks = Bokmärken
 sync-currently-syncing-history = Historik

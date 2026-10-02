@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Recherchez sur le Web…
 
 smartbar-mention-typing-placeholder = Mentionner un onglet ou un site
 smartbar-mentions-list-no-results-label = Aucun résultat
+smartbar-mentions-list-tab-groups-label = Groupes récents
 smartbar-mentions-list-recent-tabs-label = Onglets récents
 
 ## Context mentions menu toggle button

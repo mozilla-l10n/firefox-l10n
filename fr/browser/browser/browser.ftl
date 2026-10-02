@@ -35,6 +35,33 @@ urlbar-identity-button2 =
             [1] Afficher les informations du site (1 traqueur bloqué)
            *[other] Afficher les informations du site ({ $count } traqueurs bloqués)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] Lien { $count }
+           *[other] { $count } Liens
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Messages, et plus…
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Messages, Courrier et plus…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Partager…
+    .accesskey = P
 urlbar-identity-button =
     .aria-label = Afficher les informations du site
 
@@ -99,6 +126,8 @@ urlbar-result-menu-remove-from-history2 = Supprimer de l’historique
 urlbar-result-menu-tip-get-help2 = Obtenir de l’aide
     .accesskey = a
 urlbar-result-menu-dismiss-suggestion2 = Rejeter cette suggestion
+    .accesskey = R
+urlbar-result-menu-remove-top-site = Retirer ce site populaire
     .accesskey = R
 urlbar-result-menu-manage-firefox-suggest2 = Gérer { -firefox-suggest-brand-name }
     .accesskey = G
@@ -943,6 +972,12 @@ urlbar-view-context-menu-open-in-window2 = Ouvrir dans une nouvelle fenêtre
     .accesskey = f
 urlbar-view-context-menu-open-in-private-window2 = Ouvrir dans une nouvelle fenêtre privée
     .accesskey = p
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Passer ce menu si la touche tabulation est utilisée
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 

@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Sök på webben…
 
 smartbar-mention-typing-placeholder = Tagga en flik eller webbplats
 smartbar-mentions-list-no-results-label = Inga resultat hittades
+smartbar-mentions-list-tab-groups-label = Senaste grupper
 smartbar-mentions-list-recent-tabs-label = Senaste flikar
 
 ## Context mentions menu toggle button
