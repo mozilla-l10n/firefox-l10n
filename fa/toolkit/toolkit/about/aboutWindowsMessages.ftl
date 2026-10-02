@@ -9,3 +9,4 @@
 ### individual browser windows. These messages can be useful in debugging
 ### hard-to-reproduce issues with window sizing and position.
 
+windows-messages-copy-to-clipboard = رونوشت در تخته‌گیره

@@ -2,8 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-back-nav-button-title =
-    .title = بازگشت
-back-nav-button-title2 =
-    .aria-label = بازگشت
-    .title = بازگشت
+
+## A small badge added to feature (text in a bordered or coloured box)
+## labels or buttons to indicate "New" or in "Beta".
+
+moz-badge-beta2 = آزمایشی
+moz-badge-new2 = جدید
