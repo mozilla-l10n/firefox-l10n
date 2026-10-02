@@ -58,6 +58,9 @@ firefoxview-overview-nav = Nesenā pārlūkošana
     .title = Nesenā pārlūkošana
 firefoxview-overview-header = Nesenā pārlūkošana
     .title = Nesenā pārlūkošana
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Cilnes un pārlūkošanas vēsture dažādās ierīcēs
 
 ## History in this context refers to browser history
 

@@ -31,6 +31,7 @@ aiwindow-input-cta-stop-button =
 ## Mentions
 
 smartbar-mentions-list-no-results-label = Nekas netika atrasts
+smartbar-mentions-list-tab-groups-label = Nesenas kopas
 
 ## Context mentions menu toggle button
 

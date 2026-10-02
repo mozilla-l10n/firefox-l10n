@@ -35,10 +35,16 @@ home-custom-homepage-address-button =
 
 ## Firefox Home content
 
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finanses
 # Search is a widget on New Tab that shows the user's recent and trending
 # searches.
 home-prefs-search-widget-header =
     .label = Meklēt
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskopi
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nesenie meklējumi
@@ -105,6 +111,11 @@ newtab-privacy-menu-learn-more = Uzzināt vairāk
 newtab-privacy-widget-menu-button =
     .aria-label = Privātuma iespējas
     .title = Privātuma iespējas
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Atvērt privātuma izvēlni
+    .title = Atvērt privātuma izvēlni
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -147,12 +158,23 @@ newtab-privacy-message-promo-monitor-2-cta = Uzzināt vairāk
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Uzzināt vairāk
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Finanšu iespējas
+    .title = Finanšu iespējas
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Akciju logrīka iespējas
     .title = Akciju logrīka iespējas
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Atvērt akciju izvēlni
+    .title = Atvērt akciju izvēlni
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -180,6 +202,12 @@ newtab-stocks-list-watchlist = Vērošanas saraksts
     .label = Vērošanas saraksts
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Meklēt pēc nosaukuma vai apzīmējuma
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finanses
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -268,6 +296,11 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Atvērt dienas attēla izvēlni
+    .title = Atvērt dienas attēla izvēlni
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Uzzināt vairāk
 
@@ -300,6 +333,11 @@ newtab-search-widget-title = Meklēt
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Meklēšanas iespējas
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Atvērt meklēšanas izvēlni
+    .title = Atvērt meklēšanas izvēlni
 
 ## Recent searches widget — empty states
 
@@ -307,6 +345,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Nesenie meklējumi parādīsies šeit, lai vari tos jebkurā brīdī atkal izmantot
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Biežākie meklējumi šobrīd nav pieejami.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskopi
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Horoskopu iespējas
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Uzzināt vairāk
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -545,8 +593,13 @@ newtab-recommended-stories-toggle =
 newtab-custom-weather-toggle =
     .description = Šodienas prognoze ātrā acu uzmetienā
     .label = Laikapstākļi
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finanses
 newtab-custom-widget-search-toggle =
     .label = Meklēt
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskopi
 newtab-custom-widget-recent-searches-toggle =
     .label = Nesenie meklējumi
 newtab-custom-settings = Pārvaldīt vairāk iestatījumu

@@ -361,6 +361,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = Izpētīt
     .accesskey = Q
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = Izpētīt piekļūstamības īpašības
+    .accesskey = k
 main-context-menu-inspect-a11y-properties =
     .label = Izpētīt piekļūstamības īpašības
 main-context-menu-eme-learn-more =

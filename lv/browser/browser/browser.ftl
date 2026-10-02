@@ -35,6 +35,34 @@ urlbar-identity-button2 =
             [one] Apskatīt informāciju par vietni (aizturēts { $count } izsekotājs)
            *[other] Apskatīt informāciju par vietni (aizturēti { $count } izsekotāji)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [zero] { $count } saišu
+            [one] { $count } saite
+           *[other] { $count } saites
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Messages un vēl…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Messages, Mail un vēl…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Kopīgot…
+    .accesskey = K
 urlbar-identity-button =
     .aria-label = Apskatīt informāciju par vietni
 
@@ -100,6 +128,8 @@ urlbar-result-menu-tip-get-help2 = Iegūt palīdzību
     .accesskey = p
 urlbar-result-menu-dismiss-suggestion2 = Atmest šo ieteikumu
     .accesskey = t
+urlbar-result-menu-remove-top-site = Noņemt šo bieži apmeklēto vietni
+    .accesskey = b
 urlbar-result-menu-manage-firefox-suggest2 = Pārvaldīt { -firefox-suggest-brand-name }
     .accesskey = P
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -852,6 +882,12 @@ urlbar-view-context-menu-open-in-window2 = Atvērt jaunā logā
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = Atvērt jaunā privātā logā
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Izlaist šo izvēli, kad izmanto taustiņu “Tab”
+    .accesskey = I
 
 ## Labels shown above groups of urlbar results
 

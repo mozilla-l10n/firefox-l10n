@@ -84,6 +84,11 @@ menu-file-close-tab =
            *[other] Aizvērt { $tabCount } cilņu
         }
     .accesskey = A
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Aizvērt
+    .accesskey = A
 menu-file-close-window =
     .label = Aizvērt logu
     .accesskey = g
@@ -96,6 +101,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Kopīgot
     .accesskey = K
+menu-file-share-qrcode3 =
+    .label = Izveidot kvadrātkodu
+    .accesskey = k
 menu-file-share-qrcode =
     .label = Veidot kvadrātkodu…
     .accesskey = k
