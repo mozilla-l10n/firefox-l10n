@@ -10,6 +10,9 @@ theme-picker-mode-device = Cihaz
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Görünüm
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Temalar
 theme-picker-use-linux-theme =
     .label = Linux sistem temasını kullan
 

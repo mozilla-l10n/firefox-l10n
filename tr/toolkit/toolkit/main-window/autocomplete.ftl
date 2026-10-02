@@ -34,6 +34,8 @@ autocomplete-delete-address = Bu adresi sil
 autocomplete-edit-payment-method = Bu ödeme yöntemini düzenle
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Bu ödeme yöntemini sil
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Sil
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -42,6 +44,13 @@ autocomplete-delete-form-history-entry2 = { $entry } kaydını form geçmişinde
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = { $entry } için diğer işlemler
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = Diğer seçenekler
+# Accessible name for the button that opens the edit/delete menu. It names the
+# row so screen reader users know which entry the menu belongs to.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-options-for-entry = { $entry } için diğer seçenekler
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
