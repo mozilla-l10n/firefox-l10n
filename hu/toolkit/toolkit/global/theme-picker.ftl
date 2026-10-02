@@ -10,6 +10,9 @@ theme-picker-mode-device = Eszköz
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Megjelenés
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Témák
 theme-picker-use-linux-theme =
     .label = Linux rendszertéma használata
 

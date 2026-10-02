@@ -933,6 +933,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = Navigáció a címsávban
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = A találati menü átugrása a fókusz Tab billentyűvel történő léptetésekor
 search-suggestions-header-2 =
     .label = Keresőszolgáltatás-javaslatok
 search-one-click-header2 = Keresési gyorsparancsok

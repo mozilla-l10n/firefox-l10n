@@ -57,6 +57,9 @@ avatar-selector-add-image = Kép hozzáadása
 avatar-selector-crop = Körülvágás
 avatar-selector-dialog =
     .aria-label = Profilkép szerkesztése
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Válasszon egy profilképet
 edit-profile-page-no-name = Nevezze el ezt a profilt, hogy később segítsen megtalálni. Nevezze át bármikor.
 edit-profile-page-duplicate-name = A profilnév már használatban van. Próbáljon meg egy új nevet.
 edit-profile-page-profile-saved = Mentve

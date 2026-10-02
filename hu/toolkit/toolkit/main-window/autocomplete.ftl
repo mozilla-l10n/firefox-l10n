@@ -31,9 +31,21 @@ autocomplete-delete-password = Jelszó törlése
 autocomplete-edit-address = Cím szerkesztése
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Cím törlése
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = A(z) { $entry } cím törlése
 autocomplete-edit-payment-method = Fizetési mód szerkesztése
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Fizetési mód törlése
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = A(z) { $entry } fizetési mód törlése
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Törlés
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -42,6 +54,13 @@ autocomplete-delete-form-history-entry2 = A(z) { $entry } törlése az űrlapel�
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = További műveletek ehhez: { $entry }
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = További beállítások
+# Accessible name for the button that opens the edit/delete menu. It names the
+# row so screen reader users know which entry the menu belongs to.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-options-for-entry = A(z) { $entry } további lehetőségei
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.

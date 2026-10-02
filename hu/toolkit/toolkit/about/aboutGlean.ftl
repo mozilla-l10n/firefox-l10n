@@ -189,6 +189,12 @@ about-glean-no-data-to-display = Nincs megjeleníthető adat.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = A <code>DualLabeledCounter</code> statisztikák még nem támogatottak az <code>about:glean</code> nézetben.
 about-glean-unknown-metric-type-warning = Ismeretlen statisztikatípus.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Engedélyezi a beküldött pingek tárolását a memóriában
+    .label = Beküldött pingek tárolása
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 
