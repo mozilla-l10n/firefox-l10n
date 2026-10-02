@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Поиск в Интернете…
 
 smartbar-mention-typing-placeholder = Установить метку на вкладку или сайт
 smartbar-mentions-list-no-results-label = Результатов не найдено
+smartbar-mentions-list-tab-groups-label = Недавние группы
 smartbar-mentions-list-recent-tabs-label = Недавние вкладки
 
 ## Context mentions menu toggle button

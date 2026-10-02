@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Кроссворд
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Финансы
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Акции
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Поиск
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Гороскопы
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Последние запросы
@@ -172,6 +178,11 @@ newtab-privacy-menu-learn-more = Подробнее
 newtab-privacy-widget-menu-button =
     .aria-label = Настройки приватности
     .title = Настройки приватности
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Открыть меню приватности
+    .title = Открыть меню приватности
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -342,12 +353,23 @@ newtab-privacy-message-first-protection-cta = Просмотр защиты
 newtab-stocks-menu-learn-more = Узнать больше
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Фондовые данные недоступны.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Финансовые возможности
+    .title = Финансовые возможности
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Настройки виджета акций
     .title = Настройки виджета акций
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Открыть меню акций
+    .title = Открыть меню акций
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -378,6 +400,12 @@ newtab-stocks-list-watchlist = Список отслеживания
     .label = Список отслеживания
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Поиск по имени или символу
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Финансы
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -484,6 +512,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Настройки изображения дня
     .title = Настройки изображения дня
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Открыть изображение меню дня
+    .title = Открыть изображение меню дня
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -538,6 +571,11 @@ newtab-search-widget-title = Поиск
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Опции поиска
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Открыть меню поиска
+    .title = Открыть меню поиска
 
 ## Recent searches widget — empty states
 
@@ -545,6 +583,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Недавние поиски будут показаны здесь, так что вы можете вернуться к ним в любое время.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Популярные поисковые запросы сейчас недоступны.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Гороскопы
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Настройки горскопов
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Подробнее
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -844,12 +892,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Кроссворд
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Финансы
 newtab-custom-widget-stocks-toggle =
     .label = Акции
 newtab-custom-widget-picture-toggle =
     .label = Изображение дня
 newtab-custom-widget-search-toggle =
     .label = Поиск
+newtab-custom-widget-horoscopes-toggle =
+    .label = Гороскопы
 newtab-custom-widget-recent-searches-toggle =
     .label = Последние запросы
 newtab-custom-widget-section-title = Виджеты
@@ -1073,6 +1126,11 @@ newtab-wallpaper-celestial-river = Космический снимок реки
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ На правах рекламы
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Открыть меню погоды
+    .title = Открыть меню погоды
 newtab-weather-menu-change-location = Изменить местоположение
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Поиск местоположения

@@ -83,6 +83,9 @@ firefoxview-overview-nav = Недавний просмотр
     .title = Недавний просмотр
 firefoxview-overview-header = Недавно посещённые
     .title = Недавно посещённые
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Вкладки и история браузера на всех устройствах
 
 ## History in this context refers to browser history
 
