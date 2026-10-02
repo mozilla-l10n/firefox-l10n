@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Cercar in le web…
 
 smartbar-mention-typing-placeholder = Etiquetta un scheda o sito
 smartbar-mentions-list-no-results-label = Necun resultato trovate
+smartbar-mentions-list-tab-groups-label = Gruppos recente
 smartbar-mentions-list-recent-tabs-label = Schedas recente
 
 ## Context mentions menu toggle button

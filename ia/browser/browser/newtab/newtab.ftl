@@ -102,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Cercar
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoscopos
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Recercas recente
@@ -174,6 +177,11 @@ newtab-privacy-menu-learn-more = Pro saper plus
 newtab-privacy-widget-menu-button =
     .aria-label = Optiones de confidentialitate
     .title = Optiones de confidentialitate
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Aperir menu del confidentialitate
+    .title = Aperir menu del confidentialitate
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -374,6 +382,12 @@ newtab-stocks-list-watchlist = Lista de surveliantia
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Cercar per nomine o symbolo
 
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Financia
+
 ## Screen-reader summary of a stock ticker.
 ## Variables:
 ##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
@@ -539,6 +553,11 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Le recercas recente sera monstrate ci assi que tu potera reprender los quandocunque.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Recercas popular non es disponibile a iste momento.
+
+## Strings for the Horoscopes widget
+
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Pro saper plus
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -837,6 +856,9 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Cruciverbo
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Financia
 newtab-custom-widget-stocks-toggle =
     .label = Actiones
 newtab-custom-widget-picture-toggle =

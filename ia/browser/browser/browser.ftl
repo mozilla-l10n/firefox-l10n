@@ -45,6 +45,19 @@ menu-share-links =
             [one] { $count } Ligamine
            *[other] { $count } { $count } Ligamines
         }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, messages, e altero…
+    .accesskey = m
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Messages, posta, e altero…
+    .accesskey = M
 # Share entry in the addressbar context menu. Opens the macOS share picker
 # directly, hence the ellipsis.
 urlbar-share-url =
@@ -115,6 +128,8 @@ urlbar-result-menu-tip-get-help2 = Obtener adjuta
     .accesskey = a
 urlbar-result-menu-dismiss-suggestion2 = Rejectar iste suggestion
     .accesskey = R
+urlbar-result-menu-remove-top-site = Remover isto del sitos principal
+    .accesskey = t
 urlbar-result-menu-manage-firefox-suggest2 = Gerer { -firefox-suggest-brand-name }
     .accesskey = G
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -958,6 +973,12 @@ urlbar-view-context-menu-open-in-window2 = Aperir in nove fenestra
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window2 = Aperir in nove fenestra private
     .accesskey = p
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Saltar iste menu usante le clave tabulation
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 

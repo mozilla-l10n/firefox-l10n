@@ -929,6 +929,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = Navegación de la barra de direcciones
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Omitir el menú de resultados al usar la tecla Tab para mover el foco
 search-suggestions-header-2 =
     .label = Sugerencias de motor de búsqueda
 search-one-click-header2 = Atajos de búsqueda
