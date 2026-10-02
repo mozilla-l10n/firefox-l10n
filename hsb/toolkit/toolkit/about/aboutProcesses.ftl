@@ -16,6 +16,8 @@ about-processes-kill-process =
     .title = Proces skónčić
 about-processes-shutdown-tab =
     .title = Rajtark začinić
+about-processes-unload-tab =
+    .title = Rajtark pušćić
 about-processes-go-to-tab =
     .title = K rajtarkej
 # Profiler icons
@@ -36,6 +38,9 @@ about-processes-profile-process =
 about-processes-column-name = Mjeno
 about-processes-column-memory-resident = Skład
 about-processes-column-cpu-total = CPU
+# Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
+about-processes-column-cpu-total-tab = CPU
+    .title = % cyłkowneje kapacity CPU přez wšě jadra
 # Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
 about-processes-column-memory-resident-tab = RAM
 
