@@ -199,9 +199,9 @@ newtab-privacy-message-daily-cap-cta = Намоиши муҳофизатҳо
 newtab-privacy-message-streak-cta = Намоиши муҳофизатҳо
 newtab-privacy-message-first-protection-cta = Намоиши муҳофизатҳо
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Маълумоти бештар
 
 ## Strings for the Picture of the Day widget
@@ -965,6 +965,9 @@ newtab-promo-card-cta = Маълумоти бештар
 newtab-promo-card-dismiss-button =
     .aria-label = Нодида гузарондан
     .title = Нодида гузарондан
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Марказонидан
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -1048,8 +1051,8 @@ newtab-sports-widget-team-name-label-eng =
 newtab-sports-widget-team-name-label-sco =
     .label = Шотландия
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-cta = Тасвири заминаиеро интихоб намоед
 newtab-sports-widget-message-add-widgets-cta =

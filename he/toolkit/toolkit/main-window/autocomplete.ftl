@@ -29,10 +29,12 @@ autocomplete-import-learn-more = מידע נוסף
 autocomplete-edit-password = עריכת הססמה הזאת
 autocomplete-delete-password = מחיקת הססמה הזאת
 autocomplete-edit-address = עריכת הכתובת הזאת
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = מחיקת הכתובת הזאת
 autocomplete-edit-payment-method = עריכת אמצעי התשלום הזה
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = מחיקת אמצעי התשלום הזה
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = מחיקת { $entry } מהיסטוריית הטפסים

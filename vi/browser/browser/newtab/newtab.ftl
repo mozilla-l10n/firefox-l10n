@@ -296,11 +296,11 @@ newtab-privacy-message-streak-cta = Xem báo cáo bảo vệ
 newtab-privacy-message-first-protection = Tiếp tục duyệt web đi, việc chặn trình theo dõi hãy để { -brand-short-name } lo.
 newtab-privacy-message-first-protection-cta = Xem báo cáo bảo vệ
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Tìm hiểu thêm
-# Shown in the Stocks widget when its data could not be loaded.
+# Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dữ liệu cổ phiếu hiện không khả dụng.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
@@ -352,7 +352,7 @@ newtab-stocks-ticker-status-down = { $name }, giảm { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, không thay đổi, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
+## Finance widget watchlist add and remove controls
 
 # Tooltip and screen-reader label for the button that adds a stock to the watchlist.
 # The button shows only an icon and never renders visible text.
@@ -382,7 +382,7 @@ newtab-stocks-added-to-watchlist = Thêm { $name } vào danh sách theo dõi
 #   $name (String) - the fund/ETF name.
 newtab-stocks-removed-from-watchlist = Xoá { $name } khỏi danh sách theo dõi
 
-## Stocks widget ticker search
+## Finance widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
 newtab-stocks-search-input =
@@ -1415,6 +1415,9 @@ newtab-promo-card-cta = Tìm hiểu thêm
 newtab-promo-card-dismiss-button =
     .aria-label = Bỏ qua
     .title = Bỏ qua
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1667,8 +1670,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = Sẽ được xác định sau
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Khởi động World Cup với những hình nền mới
 newtab-sports-widget-message-wallpapers-body = Hãy mang chút năng lượng của ngày thi đấu đến trình duyệt của bạn trong suốt giải đấu.

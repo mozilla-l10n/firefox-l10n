@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Μάθετε περισσότερα
 autocomplete-edit-password = Επεξεργασία κωδικού πρόσβασης
 autocomplete-delete-password = Διαγραφή κωδικού πρόσβασης
 autocomplete-edit-address = Επεξεργασία διεύθυνσης
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Διαγραφή διεύθυνσης
 autocomplete-edit-payment-method = Επεξεργασία μεθόδου πληρωμής
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Διαγραφή μεθόδου πληρωμής
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Διαγραφή του «{ $entry }» από το ιστορικό φορμών

@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Uzzināt vairāk
 autocomplete-edit-password = Labot šo paroli
 autocomplete-delete-password = Izdzēst šo paroli
 autocomplete-edit-address = Labot šo adresi
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Izdzēst šo adresi
 autocomplete-edit-payment-method = Labot šo maksājumu veidu
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Izdzēst šo maksājumu veidu
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Izdzēst { $entry } no vēstures

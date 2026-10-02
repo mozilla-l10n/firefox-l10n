@@ -345,8 +345,8 @@ newtab-widget-timer-menu-button =
 newtab-sports-widget-show-less =
     .label = Daha az göstər
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-add-widgets-cta =
     .label = Vicet əlavə et

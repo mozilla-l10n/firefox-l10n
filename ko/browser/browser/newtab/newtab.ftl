@@ -296,11 +296,11 @@ newtab-privacy-message-streak-cta = 보호 기능 보기
 newtab-privacy-message-first-protection = 안심하고 탐색하세요. { -brand-short-name }가 계속해서 차단하겠습니다.
 newtab-privacy-message-first-protection-cta = 보호 기능 보기
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = 더 알아보기
-# Shown in the Stocks widget when its data could not be loaded.
+# Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = 주식 데이터가 없습니다.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
@@ -352,7 +352,7 @@ newtab-stocks-ticker-status-down = { $name } 주가 { $price }, 당일 { $change
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name } 주가 { $price }, 변동 없음 ({ $change })
 
-## Stocks widget watchlist add and remove controls
+## Finance widget watchlist add and remove controls
 
 # Tooltip and screen-reader label for the button that adds a stock to the watchlist.
 # The button shows only an icon and never renders visible text.
@@ -382,7 +382,7 @@ newtab-stocks-added-to-watchlist = 관심 종목에 { $name } 추가됨
 #   $name (String) - the fund/ETF name.
 newtab-stocks-removed-from-watchlist = 관심 종목에서 { $name } 제거됨
 
-## Stocks widget ticker search
+## Finance widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
 newtab-stocks-search-input =
@@ -1415,6 +1415,9 @@ newtab-promo-card-cta = 더 알아보기
 newtab-promo-card-dismiss-button =
     .aria-label = 닫기
     .title = 닫기
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1664,8 +1667,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = 미정
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = 새로운 배경 화면으로 월드컵을 시작하세요
 newtab-sports-widget-message-wallpapers-body = 토너먼트 기간 동안 브라우저에 경기 날의 생생한 열기를 더해 보세요.

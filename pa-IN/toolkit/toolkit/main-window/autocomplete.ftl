@@ -23,10 +23,12 @@ autocomplete-import-learn-more = ਹੋਰ ਜਾਣੋ
 autocomplete-edit-password = ਇਸ ਪਾਸਵਰਡ ਨੂੰ ਸੋਧੋ
 autocomplete-delete-password = ਇਸ ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
 autocomplete-edit-address = ਇਸ ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੋਧੋ
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = ਇਸ ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਓ
 autocomplete-edit-payment-method = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਸੋਧੋ
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਹਟਾਓ
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = ਫਾਰਮ ਅਤੀਤ ਤੋਂ { $entry } ਨੂੰ ਹਟਾਓ

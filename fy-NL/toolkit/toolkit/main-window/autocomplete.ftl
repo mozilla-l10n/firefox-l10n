@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Mear ynfo
 autocomplete-edit-password = Dit wachtwurd bewurkje
 autocomplete-delete-password = Dit wachtwurd fuortsmite
 autocomplete-edit-address = Dit adres bewurkje
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Dit adres fuortsmite
 autocomplete-edit-payment-method = Dizze betellingsmetoade bewurkje
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Dizze betellingsmetoade fuortsmite
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = { $entry } út formulierskiednis fuortsmite

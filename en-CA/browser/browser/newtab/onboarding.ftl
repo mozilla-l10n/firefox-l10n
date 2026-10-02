@@ -540,6 +540,7 @@ onboarding-refresh-gratitude-subtitle = Thank you for using { -brand-short-name 
 onboarding-refresh-gratitude-title = { -brand-short-name } has your back
 
 ## First Run Onboarding refresh strings
+
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-splash-screen-title = { -brand-product-name } has your back, starting now
 onboarding-refresh-hero-text = Built to protect you, not track you.

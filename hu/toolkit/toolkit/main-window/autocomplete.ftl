@@ -29,10 +29,12 @@ autocomplete-import-learn-more = További tudnivalók
 autocomplete-edit-password = Jelszó szerkesztése
 autocomplete-delete-password = Jelszó törlése
 autocomplete-edit-address = Cím szerkesztése
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Cím törlése
 autocomplete-edit-payment-method = Fizetési mód szerkesztése
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Fizetési mód törlése
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = A(z) { $entry } törlése az űrlapelőzményekből

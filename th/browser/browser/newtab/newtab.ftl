@@ -186,9 +186,9 @@ newtab-privacy-message-info-2-cta = ดูการป้องกัน
 newtab-privacy-message-info-3 = หลายเว็บไซต์มีตัวติดตาม ทำให้บริษัทที่คุณไม่เคยเข้าเยี่ยมชมไซต์สามารถติดตามคุณทางออนไลน์ได้
 newtab-privacy-message-info-3-cta = ดูการป้องกัน
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = เรียนรู้เพิ่มเติม
 
 ## Strings for the Picture of the Day widget
@@ -965,6 +965,9 @@ newtab-promo-card-cta = เรียนรู้เพิ่มเติม
 newtab-promo-card-dismiss-button =
     .aria-label = ปิด
     .title = ปิด
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1209,8 +1212,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = ยังไม่ได้กำหนด
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = เริ่มฉลองฟุตบอลโลกด้วยรูปพื้นหลังใหม่
 newtab-sports-widget-message-wallpapers-body = เติมพลังความคึกคักในวันแข่งขันให้กับเบราว์เซอร์ของคุณสำหรับทัวร์นาเมนต์นี้

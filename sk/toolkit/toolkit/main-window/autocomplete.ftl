@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Ďalšie informácie
 autocomplete-edit-password = Upraviť heslo
 autocomplete-delete-password = Odstrániť toto heslo
 autocomplete-edit-address = Upraviť adresu
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Odstrániť túto adresu
 autocomplete-edit-payment-method = Upraviť tento spôsob platby
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Odstrániť tento spôsob platby
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Odstrániť { $entry } z histórie formulárov

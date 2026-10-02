@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Argibide gehiago
 autocomplete-edit-password = Editatu pasahitz hau
 autocomplete-delete-password = Ezabatu pasahitz hau
 autocomplete-edit-address = Editatu helbide hau
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Ezabatu helbide hau
 autocomplete-edit-payment-method = Editatu ordainketa-metodo hau
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Ezabatu ordainketa-metodo hau
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Ezabatu { $entry } inprimakien historiatik

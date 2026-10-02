@@ -893,6 +893,9 @@ newtab-promo-card-cta = Plui informazions
 newtab-promo-card-dismiss-button =
     .aria-label = Scarte e siere
     .title = Siere
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1154,8 +1157,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = Di definî
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Scomence i mondiâi cui gnûfs fonts
 newtab-sports-widget-message-wallpapers-body = Puarte un tic di atmosfere di partide tal to navigadôr intant dal torneu.

@@ -29,10 +29,12 @@ autocomplete-import-learn-more = ვრცლად
 autocomplete-edit-password = ამ პაროლის ჩასწორება
 autocomplete-delete-password = ამ პაროლის წაშლა
 autocomplete-edit-address = ამ მისამართის ჩასწორება
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = ამ მისამართის წაშლა
 autocomplete-edit-payment-method = გადახდის ამ საშუალების ჩასწორება
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = გადახდის ამ საშუალების წაშლა
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = წაიშალოს { $entry } ველების ისტორიიდან

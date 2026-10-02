@@ -360,11 +360,11 @@ newtab-privacy-message-streak-cta = Dyma'r diogelwch
 newtab-privacy-message-first-protection = Cadwch i bori, bydd { -brand-short-name } yn dal i rwystro.
 newtab-privacy-message-first-protection-cta = Dyma'r diogelwch
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Dysgu rhagor
-# Shown in the Stocks widget when its data could not be loaded.
+# Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dyw data stoc ddim ar gael.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
@@ -416,7 +416,7 @@ newtab-stocks-ticker-status-down = { $name }, i lawr { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, dim newid, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
+## Finance widget watchlist add and remove controls
 
 # Tooltip and screen-reader label for the button that adds a stock to the watchlist.
 # The button shows only an icon and never renders visible text.
@@ -446,7 +446,7 @@ newtab-stocks-added-to-watchlist = Wedi ychwanegu { $name } at y rhestr wylio
 #   $name (String) - the fund/ETF name.
 newtab-stocks-removed-from-watchlist = Wedi tynnu { $name } o'r rhestr wylio
 
-## Stocks widget ticker search
+## Finance widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
 newtab-stocks-search-input =
@@ -1492,6 +1492,9 @@ newtab-promo-card-cta = Dysgu rhagor
 newtab-promo-card-dismiss-button =
     .aria-label = Cau
     .title = Cau
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1765,8 +1768,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = I'w benderfynu
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Cychwyn Cwpan y Byd gyda phapurau wal newydd
 newtab-sports-widget-message-wallpapers-body = Dewch ag ychydig o egni diwrnod gêm i'ch porwr ar gyfer y twrnamaint.

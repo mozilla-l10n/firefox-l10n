@@ -29,10 +29,12 @@ autocomplete-import-learn-more = 더 알아보기
 autocomplete-edit-password = 비밀번호 편집
 autocomplete-delete-password = 비밀번호 삭제
 autocomplete-edit-address = 주소 편집
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = 주소 삭제
 autocomplete-edit-payment-method = 결제 수단 편집
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = 결제 수단 삭제
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = 양식 기록에서 { $entry } 삭제

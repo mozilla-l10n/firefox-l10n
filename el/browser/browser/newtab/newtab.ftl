@@ -328,11 +328,11 @@ newtab-privacy-message-streak-cta = Προβολή μέτρων προστασί
 newtab-privacy-message-first-protection = Συνεχίστε την περιήγηση, το { -brand-short-name } θα συνεχίσει να κάνει αποκλεισμό.
 newtab-privacy-message-first-protection-cta = Προβολή μέτρων προστασίας
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Μάθετε περισσότερα
-# Shown in the Stocks widget when its data could not be loaded.
+# Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Δεν διατίθενται δεδομένα μετοχών.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
@@ -384,7 +384,7 @@ newtab-stocks-ticker-status-down = { $name }, πτώση { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, χωρίς μεταβολή, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
+## Finance widget watchlist add and remove controls
 
 # Tooltip and screen-reader label for the button that adds a stock to the watchlist.
 # The button shows only an icon and never renders visible text.
@@ -414,7 +414,7 @@ newtab-stocks-added-to-watchlist = Προστέθηκε το { $name } στη λ
 #   $name (String) - the fund/ETF name.
 newtab-stocks-removed-from-watchlist = Αφαιρέθηκε το { $name } από τη λίστα παρακολούθησης
 
-## Stocks widget ticker search
+## Finance widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
 newtab-stocks-search-input =
@@ -1452,6 +1452,9 @@ newtab-promo-card-cta = Μάθετε περισσότερα
 newtab-promo-card-dismiss-button =
     .aria-label = Απόρριψη
     .title = Απόρριψη
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1712,8 +1715,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = Θα καθοριστεί
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Ξεκινήστε το Παγκόσμιο Κύπελλο με νέες ταπετσαρίες
 newtab-sports-widget-message-wallpapers-body = Φέρτε λίγη από την ατμόσφαιρα των αγώνων στο πρόγραμμα περιήγησής σας, καθ' όλη τη διάρκεια του τουρνουά.

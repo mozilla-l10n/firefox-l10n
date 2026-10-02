@@ -200,9 +200,9 @@ newtab-privacy-message-daily-cap-cta = اطّلع على الحمايات
 newtab-privacy-message-streak-cta = اطّلع على الحمايات
 newtab-privacy-message-first-protection-cta = اطّلع على الحمايات
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = اطّلع على المزيد
 
 ## Strings for the Picture of the Day widget
@@ -856,6 +856,9 @@ newtab-promo-card-cta = اطّلع على المزيد
 newtab-promo-card-dismiss-button =
     .aria-label = أهمِل
     .title = أهمِل
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 newtab-widget-timer-pause-aria =
     .aria-label = ألبِث المؤقت
 newtab-widget-timer-decrease-min =

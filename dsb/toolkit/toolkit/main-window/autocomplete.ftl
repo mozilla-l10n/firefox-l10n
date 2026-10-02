@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Dalšne informacije
 autocomplete-edit-password = Toś to gronidło wobźěłaś
 autocomplete-delete-password = Toś to gronidło lašowaś
 autocomplete-edit-address = Toś tu adresu wobźěłaś
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Toś tu adresu lašowaś
 autocomplete-edit-payment-method = Toś tu płaśeńsku metodu wobźěłaś
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Toś tu płaśeńsku metodu lašowaś
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = { $entry } z historije formularow lašowaś

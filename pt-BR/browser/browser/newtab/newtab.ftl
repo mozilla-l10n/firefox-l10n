@@ -328,11 +328,11 @@ newtab-privacy-message-streak-cta = Ver proteções
 newtab-privacy-message-first-protection = Continue navegando, o { -brand-short-name } continua bloqueando.
 newtab-privacy-message-first-protection-cta = Ver proteções
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Saiba mais
-# Shown in the Stocks widget when its data could not be loaded.
+# Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dados de ações não disponíveis.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
@@ -384,7 +384,7 @@ newtab-stocks-ticker-status-down = { $name }, baixa { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sem alteração, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
+## Finance widget watchlist add and remove controls
 
 # Tooltip and screen-reader label for the button that adds a stock to the watchlist.
 # The button shows only an icon and never renders visible text.
@@ -414,7 +414,7 @@ newtab-stocks-added-to-watchlist = { $name } adicionado à lista de monitoraçã
 #   $name (String) - the fund/ETF name.
 newtab-stocks-removed-from-watchlist = { $name } removido da lista de monitoração
 
-## Stocks widget ticker search
+## Finance widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
 newtab-stocks-search-input =
@@ -1452,6 +1452,9 @@ newtab-promo-card-cta = Saiba mais
 newtab-promo-card-dismiss-button =
     .aria-label = Descartar
     .title = Descartar
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1711,8 +1714,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = A definir
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Entre no clima da Copa do Mundo com novos fundos de tela
 newtab-sports-widget-message-wallpapers-body = Traga a energia dos dias de jogo para o seu navegador durante o campeonato.

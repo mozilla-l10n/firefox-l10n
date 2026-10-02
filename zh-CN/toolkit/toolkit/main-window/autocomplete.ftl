@@ -29,6 +29,8 @@ autocomplete-import-learn-more = 详细了解
 autocomplete-edit-password = 编辑此密码
 autocomplete-delete-password = 删除此密码
 autocomplete-edit-address = 编辑此地址
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = 删除此地址
 autocomplete-edit-payment-method = 编辑此付款方式
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = 删除此付款方式

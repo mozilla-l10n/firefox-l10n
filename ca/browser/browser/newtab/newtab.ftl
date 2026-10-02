@@ -253,9 +253,9 @@ newtab-privacy-message-streak-cta = Mostra les proteccions
 newtab-privacy-message-first-protection = Continua navegant, { -brand-short-name } seguirà bloquejant.
 newtab-privacy-message-first-protection-cta = Mostra les proteccions
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Més informació
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
@@ -1078,6 +1078,9 @@ newtab-promo-card-cta = Més informació
 newtab-promo-card-dismiss-button =
     .aria-label = Ignora
     .title = Ignora
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -1195,8 +1198,8 @@ newtab-sports-widget-team-name-label-eng =
 newtab-sports-widget-team-name-label-sco =
     .label = Escòcia
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-add-widgets-cta =
     .label = Afegeix ginys

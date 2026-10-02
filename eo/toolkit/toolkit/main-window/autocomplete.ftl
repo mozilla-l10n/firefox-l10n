@@ -29,6 +29,8 @@ autocomplete-import-learn-more = Pli da informo
 autocomplete-edit-password = Modifi tiun ĉi pasvorton
 autocomplete-delete-password = Forigi tiun ĉi pasvorton
 autocomplete-edit-address = Modifi tiun ĉi adreson
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Forigi tiun ĉi adreson
 autocomplete-edit-payment-method = Modifi tiun ĉi pagmetodon
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Forigi tiun ĉi pagmetodon

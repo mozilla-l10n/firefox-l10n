@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Даведацца больш
 autocomplete-edit-password = Змяніць гэты пароль
 autocomplete-delete-password = Выдаліць гэты пароль
 autocomplete-edit-address = Змяніць гэты адрас
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Выдаліць гэты адрас
 autocomplete-edit-payment-method = Змяніць гэты спосаб аплаты
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Выдаліць гэты спосаб аплаты
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Выдаліць { $entry } з гісторыі формы

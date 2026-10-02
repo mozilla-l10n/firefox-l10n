@@ -29,6 +29,8 @@ autocomplete-import-learn-more = Saznaj više
 autocomplete-edit-password = Uredi ovu lozinku
 autocomplete-delete-password = Izbriši ovu lozinku
 autocomplete-edit-address = Uredi ovu adresu
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Izbriši ovu adresu
 autocomplete-edit-payment-method = Uredi ovaj način plaćanja
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Izbriši ovaj način plaćanja

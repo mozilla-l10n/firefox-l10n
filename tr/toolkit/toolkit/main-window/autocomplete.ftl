@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Daha fazla bilgi al
 autocomplete-edit-password = Bu parolayı düzenle
 autocomplete-delete-password = Bu parolayı sil
 autocomplete-edit-address = Bu adresi düzenle
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Bu adresi sil
 autocomplete-edit-payment-method = Bu ödeme yöntemini düzenle
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Bu ödeme yöntemini sil
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = { $entry } kaydını form geçmişinden sil

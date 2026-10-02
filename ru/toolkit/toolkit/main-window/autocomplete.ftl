@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Подробнее
 autocomplete-edit-password = Изменить этот пароль
 autocomplete-delete-password = Удалить этот пароль
 autocomplete-edit-address = Изменить этот адрес
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Удалить этот адрес
 autocomplete-edit-payment-method = Изменить этот способ оплаты
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Удалить этот способ оплаты
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Удалить { $entry } из истории форм

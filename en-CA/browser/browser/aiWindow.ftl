@@ -367,15 +367,16 @@ aiwindow-starter-browsing-compare = Compare tabs
 
 ## Conversation Starter Scroll Buttons
 ## Scrolls the conversation-starter pill row toward its start/end.
+
 aiwindow-starter-scroll-start =
-    .tooltiptext = Scroll back
     .aria-label = Scroll back
+    .tooltiptext = Scroll back
 aiwindow-starter-scroll-end =
-    .tooltiptext = Scroll forward
     .aria-label = Scroll forward
+    .tooltiptext = Scroll forward
 # Dismisses a "pick up where you left off" resume-activity suggestion pill.
 # Variables:
 #   $text (String) - The suggestion headline being dismissed
 aiwindow-starter-dismiss =
-    .title = Dismiss { $text }
     .aria-label = Dismiss { $text }
+    .title = Dismiss { $text }

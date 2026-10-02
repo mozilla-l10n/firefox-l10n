@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Eikuaave
 autocomplete-edit-password = Embosako’i ko ñe’ẽñemi
 autocomplete-delete-password = Embogue ko ñe’ẽñemi
 autocomplete-edit-address = Embosako’i ko kundaharape
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Embogue ko kundaharape
 autocomplete-edit-payment-method = Embosako’i mba’éicha ehepyme’ẽta
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Embogue mba’éicha ehepyme’ẽta
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Embogue { $entry } myanyhẽha rembiasakuégui

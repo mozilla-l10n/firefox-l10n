@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Lue lisää
 autocomplete-edit-password = Muokkaa tätä salasanaa
 autocomplete-delete-password = Poista tämä salasana
 autocomplete-edit-address = Muokkaa tätä osoitetta
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Poista tämä osoite
 autocomplete-edit-payment-method = Muokkaa tätä maksutapaa
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Poista tämä maksutapa
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Poista { $entry } lomakehistoriasta

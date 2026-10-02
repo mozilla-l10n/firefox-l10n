@@ -186,9 +186,9 @@ newtab-privacy-message-promo-monitor-2-cta = Læs mere
 newtab-privacy-message-promo-signin-1-cta = Log ind
 newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Lær mere
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
@@ -237,7 +237,7 @@ newtab-stocks-ticker-status-down = { $name }, ned { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, ingen ændring, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
+## Finance widget watchlist add and remove controls
 
 # Tooltip and screen-reader label for the button that adds a stock to the watchlist.
 # The button shows only an icon and never renders visible text.
@@ -267,7 +267,7 @@ newtab-stocks-added-to-watchlist = Føjet { $name } til overvågningsliste
 #   $name (String) - the fund/ETF name.
 newtab-stocks-removed-from-watchlist = Fjernet { $name } fra overvågningsliste
 
-## Stocks widget ticker search
+## Finance widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
 newtab-stocks-search-input =
@@ -1245,6 +1245,9 @@ newtab-promo-card-cta = Lær mere
 newtab-promo-card-dismiss-button =
     .aria-label = Afvis
     .title = Afvis
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 newtab-widget-timer-pause-aria =
     .aria-label = Sæt timer på pause
 # Variables:
@@ -1490,8 +1493,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = Ikke fastlagt endnu
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Start VM med nye baggrunde
 newtab-sports-widget-message-wallpapers-cta = Vælg baggrund

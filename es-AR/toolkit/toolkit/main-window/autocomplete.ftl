@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Conocer más
 autocomplete-edit-password = Editar esta contraseña
 autocomplete-delete-password = Borrar esta contraseña
 autocomplete-edit-address = Editar esta dirección
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Borrar esta dirección
 autocomplete-edit-payment-method = Editar este método de pago
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Borrar este método de pago
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Borrar { $entry } del historial de formularios

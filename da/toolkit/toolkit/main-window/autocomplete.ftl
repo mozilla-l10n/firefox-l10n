@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Læs mere
 autocomplete-edit-password = Rediger denne adgangskode
 autocomplete-delete-password = Slet denne adgangskode
 autocomplete-edit-address = Rediger denne adresse
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Slet denne adresse
 autocomplete-edit-payment-method = Rediger denne betalingsmetode
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Slet denne betalingsmetode
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Slet { $entry } fra formularhistorik

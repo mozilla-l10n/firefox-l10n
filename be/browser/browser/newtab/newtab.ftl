@@ -336,11 +336,11 @@ newtab-privacy-message-streak-cta = Паглядзець ахову
 newtab-privacy-message-first-protection = Працягвайце аглядаць, { -brand-short-name } будзе працягваць блакаваць.
 newtab-privacy-message-first-protection-cta = Паглядзець ахову
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Падрабязней
-# Shown in the Stocks widget when its data could not be loaded.
+# Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Фондавыя звесткі недаступныя.
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
@@ -392,7 +392,7 @@ newtab-stocks-ticker-status-down = { $name }, спад на { $change }, { $pric
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, без змен, { $change }, { $price }
 
-## Stocks widget watchlist add and remove controls
+## Finance widget watchlist add and remove controls
 
 # Tooltip and screen-reader label for the button that adds a stock to the watchlist.
 # The button shows only an icon and never renders visible text.
@@ -422,7 +422,7 @@ newtab-stocks-added-to-watchlist = Дададзена { $name } у спіс н�
 #   $name (String) - the fund/ETF name.
 newtab-stocks-removed-from-watchlist = Выдалена { $name } са спісу назірання
 
-## Stocks widget ticker search
+## Finance widget ticker search
 
 # Placeholder and screen-reader label for the ticker search input.
 newtab-stocks-search-input =
@@ -1462,6 +1462,9 @@ newtab-promo-card-cta = Падрабязней
 newtab-promo-card-dismiss-button =
     .aria-label = Адхіліць
     .title = Адхіліць
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1726,8 +1729,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = Падлягае вызначэнню
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Пачніце чэмпіянат свету з новымі шпалерамі
 newtab-sports-widget-message-wallpapers-body = Захапіцеся энергіяй матчавага дня ў сваім браўзеры ў час турніру.

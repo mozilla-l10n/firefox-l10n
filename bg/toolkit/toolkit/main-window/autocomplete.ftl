@@ -29,6 +29,8 @@ autocomplete-import-learn-more = Научете повече
 autocomplete-edit-password = Редактиране на паролата
 autocomplete-delete-password = Изтриване на тази парола
 autocomplete-edit-address = Редактиране на този адрес
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Изтриване на този адрес
 autocomplete-edit-payment-method = Редактиране на този начин на плащане
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Изтриване на този начин на плащане

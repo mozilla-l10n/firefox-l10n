@@ -283,11 +283,11 @@ newtab-privacy-message-streak-cta = Տվյալների պաշտպանությո�
 newtab-privacy-message-first-protection = Շարունակեք զննել, { -brand-short-name }-ը կշարունակի արգելափակել։
 newtab-privacy-message-first-protection-cta = Դիտել պաշտպանությունները
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Իմանալ ավելին
-# Shown in the Stocks widget when its data could not be loaded.
+# Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Բաժնետոմսերի տվյալները հասանելի չեն։
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
@@ -309,7 +309,7 @@ newtab-stocks-list-watchlist = Դիտացանկ
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Որոնել անունով կամ խորհրդանիշով
 
-## Stocks widget ticker search
+## Finance widget ticker search
 
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
@@ -1288,6 +1288,9 @@ newtab-promo-card-cta = Իմանալ ավելին
 newtab-promo-card-dismiss-button =
     .aria-label = Բաց թողնել
     .title = Բաց թողնել
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-start-aria =
@@ -1500,8 +1503,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = Թիմը կորոշվի
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Սկսե՛ք Աշխարհի առաջնությունը նոր պաստառներով
 newtab-sports-widget-message-add-widgets-cta =

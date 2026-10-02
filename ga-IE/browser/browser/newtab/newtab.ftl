@@ -157,9 +157,9 @@ newtab-privacy-message-info-6-cta = Tuilleadh eolais
 newtab-privacy-message-promo-signin-1-cta = Logáil isteach
 newtab-privacy-message-promo-private-window-1-cta = Oscail fuinneog phríobháideach
 
-## Strings for the Stocks widget
+## Strings for the Finance widget
 
-# Context menu item linking to more information about the Stocks widget.
+# Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Tuilleadh eolais
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
@@ -456,6 +456,9 @@ newtab-report-content-inappropriate-offensive =
 
 newtab-widget-timer-menu-button =
     .aria-label = Roghanna an amadóra
+
+## Strings introduced by the Nova redesign of the Timer widget
+
 newtab-widget-timer-pause-aria =
     .aria-label = Cuir an t-amadóir ar sos
 # Variables:
@@ -691,8 +694,8 @@ newtab-sports-widget-team-name-label-sco =
 # Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
 newtab-sports-widget-team-tbd = Le socrú
 
-## Sports widget OMC messages
-## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Cuir tús le Corn an Domhain le páipéir balla nua
 newtab-sports-widget-message-wallpapers-body = Tabhair fuinneamh an chluiche mhóir chuig do bhrabhsálaí feadh an chomórtais.

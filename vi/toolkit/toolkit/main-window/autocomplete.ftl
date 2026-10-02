@@ -29,10 +29,12 @@ autocomplete-import-learn-more = Tìm hiểu thêm
 autocomplete-edit-password = Chỉnh sửa mật khẩu này
 autocomplete-delete-password = Xoá mật khẩu này
 autocomplete-edit-address = Chỉnh sửa địa chỉ này
+# Tooltip for the trash button on an address row.
 autocomplete-delete-address = Xoá địa chỉ này
 autocomplete-edit-payment-method = Chỉnh sửa phương thức thanh toán này
+# Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Xoá phương thức thanh toán này
-# aria-label and tooltip for the trash button on a form history entry.
+# aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Xoá { $entry } khỏi lịch sử biểu mẫu
