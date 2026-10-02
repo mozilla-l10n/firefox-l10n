@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Das Web durchsuchen…
 
 smartbar-mention-typing-placeholder = Einen Tab oder eine Website markieren
 smartbar-mentions-list-no-results-label = Keine Ergebnisse gefunden
+smartbar-mentions-list-tab-groups-label = Kürzlich verwendete Gruppen
 smartbar-mentions-list-recent-tabs-label = Zuletzt geöffnete Tabs
 
 ## Context mentions menu toggle button
