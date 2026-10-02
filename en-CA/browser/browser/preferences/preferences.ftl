@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Keyboard shortcuts
 settings-keyboard-shortcuts-customkeys-link =
     .label = Customize keyboard shortcuts
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Customize address bar settings in Search
 settings-media-group =
     .label = Media
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Default search engine in private windows
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Address bar navigation
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Skip the results menu when using the tab key to move focus
 search-suggestions-header-2 =
     .label = Search engine suggestions
 search-one-click-header2 = Search Shortcuts
@@ -1154,6 +1166,9 @@ sync-syncing-across-devices-heading-2 = Data synced across devices
 sync-syncing-across-devices-empty-state2 =
     .description = You aren’t syncing anything… yet. Start syncing to get all of your data on all your devices.
     .label = Manage synced data
+sync-syncing-across-devices-empty-state3 =
+    .label = Manage synced data
+    .description = You aren’t syncing anything… yet. Choose what to sync on this device.
 sync-currently-syncing-bookmarks = Bookmarks
 sync-currently-syncing-history = History
 sync-currently-syncing-tabs = Open tabs
@@ -1374,6 +1389,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Require device sign in to autofill and manage payment methods
     .accesskey = o
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Save security codes
+    .accesskey = c
 autofill-payment-methods-add-button = Add new payment method
 payments-list-header =
     .label = Payment methods
@@ -1441,6 +1460,23 @@ preferences-passwords-autofill-header =
 payment-moz-box-item =
     .description = { $expDate }
     .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .label = { $cardNumber }
+    .description = { $expDate } | CVV saved
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .label = { $cardNumber }
+    .description = CVV saved
 addresses-group =
     .label = Addresses and more
 payments-group =
