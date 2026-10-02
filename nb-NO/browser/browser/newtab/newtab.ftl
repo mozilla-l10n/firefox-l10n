@@ -1111,6 +1111,11 @@ newtab-wallpaper-celestial-river = Satellittbilde av elv
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponset
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Åpne vær-menyen
+    .title = Åpne vær-menyen
 newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Søk plassering
@@ -1389,6 +1394,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Listeinnstillinger
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Åpne liste-menyen
+    .title = Åpne liste-menyen
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Lag en ny liste
@@ -1476,6 +1487,11 @@ newtab-widget-timer-menu-notifications-on = Slå på varsler
 newtab-widget-timer-menu-learn-more = Les mer
 newtab-widget-timer-menu-button =
     .aria-label = Timer-innstillinger
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Åpne timer-menyen
+    .title = Åpne timer-menyen
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Toppoverskrifter
 newtab-daily-briefing-card-menu-dismiss = Ignorer
@@ -1500,6 +1516,14 @@ newtab-promo-card-cta = Les mer
 newtab-promo-card-dismiss-button =
     .aria-label = Avvis
     .title = Avvis
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Åpne kryssord-menyen
+    .title = Åpne kryssord-menyen
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1900,6 +1924,11 @@ newtab-clock-widget-custom-back = Tilbake
 newtab-clock-widget-menu-button2 =
     .aria-label = Klokkeinnstillinger
     .title = Klokkeinnstillinger
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Åpne klokke-menyen
+    .title = Åpne klokke-menyen
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
