@@ -135,6 +135,12 @@ about-glean-no-data-to-display = 沒有可顯示的資料。
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>about:glean</code> 檢視畫面尚不支援 <code>DualLabeledCounter</code> 指標。
 about-glean-unknown-metric-type-warning = 指標類型未知。
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping：
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = 允許將已送出的 Ping 儲存在記憶體中
+    .label = 儲存已送出的 Ping
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

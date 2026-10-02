@@ -35,6 +35,29 @@ urlbar-identity-button2 =
             [1] 檢視網站資訊（已封鎖 1 組追蹤器）
            *[other] 檢視網站資訊（已封鎖 { $count } 組追蹤器）
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label = { $count } 個鏈結
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop、訊息等等…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = 訊息、郵件與更多…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = 分享…
+    .accesskey = h
 urlbar-identity-button =
     .aria-label = 檢視網站資訊
 
@@ -100,6 +123,8 @@ urlbar-result-menu-tip-get-help2 = 取得幫助
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = 忽略此建議
     .accesskey = D
+urlbar-result-menu-remove-top-site = 移除此熱門網站
+    .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = 管理 { -firefox-suggest-brand-name }
     .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -931,6 +956,12 @@ urlbar-view-context-menu-open-in-window2 = 用新視窗開啟
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = 用新隱私視窗開啟
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = 使用 Tab 鍵時略過此選單
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 

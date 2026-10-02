@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = 填字遊戲
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = 金融
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = 股市
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = 搜尋
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = 星座
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = 最近搜尋內容
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = 更多資訊
 newtab-privacy-widget-menu-button =
     .aria-label = 隱私權選項
     .title = 隱私權選項
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = 開啟隱私保護選單
+    .title = 開啟隱私保護選單
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -306,12 +317,23 @@ newtab-privacy-message-first-protection-cta = 檢視保護成果
 newtab-stocks-menu-learn-more = 更多資訊
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = 無法提供股市資料。
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = 金融選項
+    .title = 金融選項
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = 股市小工具選項
     .title = 股市小工具選項
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = 開啟股市選單
+    .title = 開啟股市選單
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -342,6 +364,12 @@ newtab-stocks-list-watchlist = 自選報價清單
     .label = 自選報價清單
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = 搜尋股票名稱或代碼
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = 金融
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -443,6 +471,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = 每日一圖選項
     .title = 每日一圖選項
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = 開啟每日一圖選單
+    .title = 開啟每日一圖選單
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -497,6 +530,11 @@ newtab-search-widget-title = 搜尋
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = 搜尋選項
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = 開啟搜尋選單
+    .title = 開啟搜尋選單
 
 ## Recent searches widget — empty states
 
@@ -504,6 +542,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = 最近的搜尋記錄會顯示在此處，方便您隨時繼續搜尋。
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = 目前暫時無法顯示熱門搜尋項目。
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = 星座
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = 星座選項
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = 更多資訊
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -802,12 +850,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = 填字遊戲
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = 金融
 newtab-custom-widget-stocks-toggle =
     .label = 股市
 newtab-custom-widget-picture-toggle =
     .label = 每日一圖
 newtab-custom-widget-search-toggle =
     .label = 搜尋
+newtab-custom-widget-horoscopes-toggle =
+    .label = 星座
 newtab-custom-widget-recent-searches-toggle =
     .label = 最近搜尋內容
 newtab-custom-widget-section-title = 小工具
@@ -1396,6 +1449,11 @@ newtab-widget-timer-menu-notifications-on = 開啟通知
 newtab-widget-timer-menu-learn-more = 更多資訊
 newtab-widget-timer-menu-button =
     .aria-label = 計時器選項
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = 開啟計時器選單
+    .title = 開啟計時器選單
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = 頭條新聞
 newtab-daily-briefing-card-menu-dismiss = 知道了！
@@ -1420,6 +1478,14 @@ newtab-promo-card-cta = 更多資訊
 newtab-promo-card-dismiss-button =
     .aria-label = 知道了！
     .title = 知道了！
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = 開啟填字遊戲選單
+    .title = 開啟填字遊戲選單
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1814,6 +1880,11 @@ newtab-clock-widget-custom-back = 返回
 newtab-clock-widget-menu-button2 =
     .aria-label = 時鐘選項
     .title = 時鐘選項
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = 開啟時鐘選單
+    .title = 開啟時鐘選單
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] 關閉 { $tabCount } 個分頁
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = 關閉
+    .accesskey = C
 menu-file-close-window =
     .label = 關閉視窗
     .accesskey = d
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = 分享
     .accesskey = h
+menu-file-share-qrcode3 =
+    .label = 建立 QR Code
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = 產生 QR Code…
     .accesskey = Q

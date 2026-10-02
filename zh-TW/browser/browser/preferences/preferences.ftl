@@ -913,6 +913,10 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = 隱私瀏覽視窗中的預設搜尋引擎
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = 網址列導航
 search-suggestions-header-2 =
     .label = 搜尋引擎建議
 search-one-click-header2 = 搜尋快速鍵
@@ -1141,6 +1145,9 @@ sync-syncing-across-devices-heading = 您連線的裝置會同步下列項目：
 sync-syncing-across-devices-heading-2 = 在不同裝置間同步的資料
 sync-syncing-across-devices-empty-state2 =
     .description = 您目前沒有同步任何資料。開始同步即可將所有資料同步到您的所有裝置上。
+    .label = 管理要同步的資料
+sync-syncing-across-devices-empty-state3 =
+    .description = 您還沒有同步任何東西，選擇要在此裝置同步哪些資料。
     .label = 管理要同步的資料
 sync-currently-syncing-bookmarks = 書籤
 sync-currently-syncing-history = 瀏覽紀錄

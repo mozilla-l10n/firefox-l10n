@@ -10,6 +10,9 @@ theme-picker-mode-device = 裝置
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = 外觀設定
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = 佈景主題
 theme-picker-use-linux-theme =
     .label = 使用 Linux 系統佈景主題
 

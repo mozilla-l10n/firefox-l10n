@@ -378,6 +378,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = 檢測
     .accesskey = Q
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = 檢測輔助功能環境屬性
+    .accesskey = y
 main-context-menu-inspect-a11y-properties =
     .label = 檢測輔助功能環境屬性
 main-context-menu-eme-learn-more =
