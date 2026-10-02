@@ -35,6 +35,15 @@ urlbar-identity-button2 =
             [1] Ver informações do site (1 rastreador bloqueado)
            *[other] Ver informações do site ({ $count } rastreadores bloqueados)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } iink
+           *[other] { $count } links
+        }
 urlbar-identity-button =
     .aria-label = Ver informação do site
 
