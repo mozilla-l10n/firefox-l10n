@@ -57,6 +57,9 @@ avatar-selector-add-image = Wobraz přidać
 avatar-selector-crop = Přitřihać
 avatar-selector-dialog =
     .aria-label = Awatar wobdźěłać
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Awatar wubrać
 edit-profile-page-no-name = Pomjenujće tutón profil, zo byšće jón pozdźišo zaso namakał. Přemjenujće jón kóždy čas.
 edit-profile-page-duplicate-name = Profilowe mjeno so hižo wužiwa. Spytajće nowe mjeno.
 edit-profile-page-profile-saved = Składowany

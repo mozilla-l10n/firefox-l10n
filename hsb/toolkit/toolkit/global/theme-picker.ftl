@@ -10,6 +10,9 @@ theme-picker-mode-device = Grat
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Napohlad
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Drasty
 theme-picker-use-linux-theme =
     .label = Systemowu drastu Linux wužiwać
 

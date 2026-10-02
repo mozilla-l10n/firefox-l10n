@@ -1961,6 +1961,11 @@ newtab-clock-widget-custom-back = Wróćo
 newtab-clock-widget-menu-button2 =
     .aria-label = Časnikowe nastajenja
     .title = Časnikowe nastajenja
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Meni časnika wočinić
+    .title = Meni časnika wočinić
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
