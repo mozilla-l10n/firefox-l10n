@@ -19,6 +19,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more = { $agent } đang xem xét
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } đang xem xét nội dung bạn đã dán chống lại chính sách dữ liệu của tổ chức bạn hay không. Việc này có thể mất một chút thời gian.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } đang xem xét nội dung bạn đã sao chép dựa trên chính sách dữ liệu của tổ chức bạn. Việc này có thể mất một lúc.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -26,7 +29,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } đang xem xét 
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } đang xem xét nội dung bạn đã in dựa trên chính sách dữ liệu của tổ chức bạn. Việc này có thể mất một lúc.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Việc sao chép nội dung này bị hạn chế bởi tổ chức của bạn.
 contentanalysis-operationtype-clipboard = bộ nhớ tạm
+contentanalysis-operationtype-clipboard-copy = đã sao chép nội dung
 contentanalysis-operationtype-dropped-text = văn bản đã kéo thả
 contentanalysis-operationtype-print = in
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -64,6 +72,7 @@ contentanalysis-invalid-agent-signature-message-content = Xác minh chữ ký kh
 contentanalysis-error-message-upload-file = Tải lên “{ $filename }” bị từ chối.
 contentanalysis-error-message-dropped-text = Kéo và thả bị từ chối.
 contentanalysis-error-message-clipboard = Dán bị từ chối.
+contentanalysis-error-message-clipboard-copy = Sao chép bị từ chối.
 contentanalysis-error-message-print = In bị từ chối.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -79,6 +88,8 @@ contentanalysis-block-dialog-title-download-file = Bạn không được phép t
 contentanalysis-block-dialog-body-download-file = Theo chính sách bảo vệ dữ liệu của tổ chức bạn, bạn không được phép tải xuống tập tin “{ $filename }”. Hãy liên hệ với quản trị viên của bạn để biết thêm thông tin.
 contentanalysis-block-dialog-title-clipboard = Bạn không được phép dán nội dung này
 contentanalysis-block-dialog-body-clipboard = Theo chính sách bảo vệ dữ liệu của tổ chức bạn, bạn không được phép dán nội dung này. Hãy liên hệ với quản trị viên của bạn để biết thêm thông tin.
+contentanalysis-block-dialog-title-clipboard-copy = Bạn không được phép sao chép nội dung này
+contentanalysis-block-dialog-body-clipboard-copy = Theo chính sách bảo vệ dữ liệu của tổ chức bạn, bạn không được phép sao chép nội dung này. Hãy liên hệ với quản trị viên của bạn để biết thêm thông tin.
 contentanalysis-block-dialog-title-dropped-text = Bạn không được phép thả nội dung này
 contentanalysis-block-dialog-body-dropped-text = Theo chính sách bảo vệ dữ liệu của tổ chức bạn, bạn không được phép kéo và thả nội dung này. Hãy liên hệ với quản trị viên của bạn để biết thêm thông tin.
 contentanalysis-block-dialog-title-print = Bạn không được phép in tài liệu này
