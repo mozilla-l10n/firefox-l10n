@@ -83,6 +83,9 @@ firefoxview-overview-nav = Njedawno wopytane
     .title = Njedawno wopytane
 firefoxview-overview-header = Njedawno wopytane
     .title = Njedawno wopytane
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Rajtarki a historija přehladowanja přez graty
 
 ## History in this context refers to browser history
 

@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Křižowka
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Financy
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Akcije
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Pytać
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskopy
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Najnowše pytanja
@@ -173,6 +179,11 @@ newtab-privacy-menu-learn-more = Dalše informacije
 newtab-privacy-widget-menu-button =
     .aria-label = Nastajenja priwatnosće
     .title = Nastajenja priwatnosće
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Meni priwatnosće wočinić
+    .title = Meni priwatnosće wočinić
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -350,12 +361,23 @@ newtab-privacy-message-first-protection-cta = Škity pokazać
 newtab-stocks-menu-learn-more = Dalše informacije
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Akcijowe daty k dispoziciji njejsu.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Nastajenja financow
+    .title = Nastajenja financow
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Nastajenja akcijneho asistenta
     .title = Nastajenja akcijneho asistenta
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Meni akcijow wočinić
+    .title = Meni akcijow wočinić
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -386,6 +408,12 @@ newtab-stocks-list-watchlist = Lisćina wobkedźbowanjow
     .label = Lisćina wobkedźbowanjow
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Po mjenje abo symbolu pytać
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Financy
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -493,6 +521,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Nastajenja wobraza dnja
     .title = Nastajenja wobraza dnja
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Meni wobraza dnja wočinić
+    .title = Meni wobraza dnja wočinić
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -547,6 +580,11 @@ newtab-search-widget-title = Pytać
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Pytanske nastajenja
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Pytanski meni wočinić
+    .title = Pytanski meni wočinić
 
 ## Recent searches widget — empty states
 
@@ -554,6 +592,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Najnowše pytanja so tu pokazuja, zo byšće je kóždy čas wubrać.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Popularne pytanja tuchwilu k dispoziciji njejsu.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskopy
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Nastajenja horoskopow
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Dalše informacije
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -854,12 +902,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Křižowka
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Financy
 newtab-custom-widget-stocks-toggle =
     .label = Akcije
 newtab-custom-widget-picture-toggle =
     .label = Wobraz dnja
 newtab-custom-widget-search-toggle =
     .label = Pytać
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskopy
 newtab-custom-widget-recent-searches-toggle =
     .label = Najnowše pytanja
 newtab-custom-widget-section-title = Asistenty
@@ -1083,6 +1136,11 @@ newtab-wallpaper-celestial-river = Satelitowy wobraz rěki
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ sponsorowany
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Wjedrowy meni wočinić
+    .title = Wjedrowy meni wočinić
 newtab-weather-menu-change-location = Městno změnić
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Městno pytać
@@ -1361,6 +1419,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Nalistuje nastajenja
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Meni lisćinow wočinić
+    .title = Meni lisćinow wočinić
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Nowu lisćinu wutworić
@@ -1448,6 +1512,11 @@ newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžnić
 newtab-widget-timer-menu-learn-more = Dalše informacije
 newtab-widget-timer-menu-button =
     .aria-label = Časowe nastajenja
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Meni časoměra wočinić
+    .title = Meni časoměra wočinić
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Wažne hłowne nadpisma
 newtab-daily-briefing-card-menu-dismiss = Zaćisnyć
@@ -1472,6 +1541,14 @@ newtab-promo-card-cta = Dalše informacije
 newtab-promo-card-dismiss-button =
     .aria-label = Zaćisnyć
     .title = Zaćisnyć
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Meni křižowki wočinić
+    .title = Meni křižowki wočinić
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

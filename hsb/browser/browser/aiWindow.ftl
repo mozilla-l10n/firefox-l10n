@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Web přepytać…
 
 smartbar-mention-typing-placeholder = Rajtark abo sydło woznamjenić
 smartbar-mentions-list-no-results-label = Žane wuslědki namakane
+smartbar-mentions-list-tab-groups-label = Najnowše skupiny
 smartbar-mentions-list-recent-tabs-label = Najnowše rajtarki
 
 ## Context mentions menu toggle button

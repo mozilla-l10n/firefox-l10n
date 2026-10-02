@@ -85,6 +85,11 @@ menu-file-close-tab =
            *[other] { $tabCount } rajtarkow začinić
         }
     .accesskey = r
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Začinić
+    .accesskey = Z
 menu-file-close-window =
     .label = Wokno začinić
     .accesskey = z
@@ -97,6 +102,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Dźělić
     .accesskey = l
+menu-file-share-qrcode3 =
+    .label = QR-kod wutworić
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = QR-kod generěrować…
     .accesskey = Q

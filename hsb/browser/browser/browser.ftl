@@ -38,6 +38,35 @@ urlbar-identity-button2 =
             [few] Sydłowe informacije pokazać ({ $count } přesćěhowaki zablokowane)
            *[other] Sydłowe informacije pokazać ({ $count } přesćěhowakow zablokowanych)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } wotkaz
+            [two] { $count } wotkazaj
+            [few] { $count } wotkazy
+           *[other] { $count } wotkazow
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, powěsće a wjace…
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Powěsće, e-mejl a wjace…
+    .accesskey = P
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Dźělić…
+    .accesskey = D
 urlbar-identity-button =
     .aria-label = Sydłowe informacije wobhladać
 
@@ -103,6 +132,8 @@ urlbar-result-menu-tip-get-help2 = Pomoc wobstarać
     .accesskey = P
 urlbar-result-menu-dismiss-suggestion2 = Tutón namjet zaćisnyć
     .accesskey = z
+urlbar-result-menu-remove-top-site = Tute woblubowane sydło wotstronić
+    .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } rjadować
     .accesskey = r
 # Some urlbar suggestions show the user's approximate location as automatically
