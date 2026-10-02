@@ -606,3 +606,10 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Ha meggondolja magát,
 onboarding-theme-picker-title = Válasszon témát
 onboarding-theme-picker-subtitle = Vigyen egy kis színt a { -brand-short-name }ba.
 onboarding-theme-picker-button-label = Mentés és folytatás
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Kiemelt funkciók

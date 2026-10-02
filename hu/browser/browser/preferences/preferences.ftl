@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Gyorsbillentyűk
 settings-keyboard-shortcuts-customkeys-link =
     .label = Gyorsbillentyűk testreszabása
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = A címsáv beállításainak testreszabása a Keresésben
 settings-media-group =
     .label = Média
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,10 @@ search-separate-default-engine-2 =
     .accesskey = M
 search-separate-default-engine-dropdown =
     .aria-label = Alapértelmezett keresőszolgáltatás a privát ablakokban
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigáció a címsávban
 search-suggestions-header-2 =
     .label = Keresőszolgáltatás-javaslatok
 search-one-click-header2 = Keresési gyorsparancsok
@@ -1153,6 +1161,9 @@ sync-syncing-across-devices-heading = Ezeket az elemeket szinkronizálja az öss
 sync-syncing-across-devices-heading-2 = Eszközök közt szinkronizált adatok
 sync-syncing-across-devices-empty-state2 =
     .description = Nem szinkronizál semmit… még. Kezdjen el szinkronizálni, hogy az összes eszközén elérje az összes adatát.
+    .label = Szinkronizált adatok kezelése
+sync-syncing-across-devices-empty-state3 =
+    .description = Nem szinkronizál semmit… még. Válassza ki, hogy mit szinkronizálna ezen az eszközön.
     .label = Szinkronizált adatok kezelése
 sync-currently-syncing-bookmarks = Könyvjelzők
 sync-currently-syncing-history = Előzmények

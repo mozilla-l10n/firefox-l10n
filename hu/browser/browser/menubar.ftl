@@ -83,6 +83,11 @@ menu-file-close-tab =
            *[other] { $tabCount } lap bezárása
         }
     .accesskey = b
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Bezárás
+    .accesskey = B
 menu-file-close-window =
     .label = Ablak bezárása
     .accesskey = A
@@ -95,6 +100,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Megosztás
     .accesskey = M
+menu-file-share-qrcode3 =
+    .label = QR-kód létrehozása
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = QR-kód előállítása…
     .accesskey = Q

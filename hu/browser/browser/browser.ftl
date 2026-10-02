@@ -51,6 +51,18 @@ menu-share-links =
 menu-share-mac-picker-single =
     .label = AirDrop, Üzenetek és egyebek…
     .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Üzenetek, Mail és egyebek…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Megosztás…
+    .accesskey = o
 urlbar-identity-button =
     .aria-label = Oldal adatainak megjelenítése
 
@@ -116,6 +128,8 @@ urlbar-result-menu-tip-get-help2 = Segítség kérése
     .accesskey = S
 urlbar-result-menu-dismiss-suggestion2 = Javaslat elvetése
     .accesskey = e
+urlbar-result-menu-remove-top-site = Népszerű oldal eltávolítása
+    .accesskey = t
 urlbar-result-menu-manage-firefox-suggest2 = A { -firefox-suggest-brand-name } kezelése
     .accesskey = k
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -959,6 +973,12 @@ urlbar-view-context-menu-open-in-window2 = Megnyitás új ablakban
     .accesskey = M
 urlbar-view-context-menu-open-in-private-window2 = Megnyitás új privát ablakban
     .accesskey = p
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Menü kihagyása a Tab billentyű használatakor
+    .accesskey = k
 
 ## Labels shown above groups of urlbar results
 

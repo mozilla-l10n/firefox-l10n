@@ -83,6 +83,9 @@ firefoxview-overview-nav = Legutóbbi böngészés
     .title = Legutóbbi böngészés
 firefoxview-overview-header = Legutóbbi böngészés
     .title = Legutóbbi böngészés
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Lapok és böngészési előzmények az eszközök között
 
 ## History in this context refers to browser history
 

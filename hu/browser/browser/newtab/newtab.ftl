@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Keresztrejtvény
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Pénzügy
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Részvények
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Keresés
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoszkópok
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Legutóbbi keresések
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = További tudnivalók
 newtab-privacy-widget-menu-button =
     .aria-label = Adatvédelmi beállítások
     .title = Adatvédelmi beállítások
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Adatvédelmi menü megnyitása
+    .title = Adatvédelmi menü megnyitása
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -334,12 +345,23 @@ newtab-privacy-message-first-protection-cta = Védelmek megtekintése
 newtab-stocks-menu-learn-more = További tudnivalók
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = A részvényadatok nem érhetők el
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Pénzügyi lehetőségek
+    .title = Pénzügyi lehetőségek
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Részvények kisalkalmazások beállításai
     .title = Részvények kisalkalmazások beállításai
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Részvények menü megnyitása
+    .title = Részvények menü megnyitása
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -370,6 +392,12 @@ newtab-stocks-list-watchlist = Figyelőlista
     .label = Figyelőlista
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Keresés név vagy szimbólum szerint
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Pénzügy
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -475,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = A nap képének beállításai
     .title = A nap képének beállításai
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = A nap képe menü megnyitása
+    .title = A nap képe menü megnyitása
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -529,6 +562,11 @@ newtab-search-widget-title = Keresés
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Keresési beállítások
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Keresés menü megnyitása
+    .title = Keresés menü megnyitása
 
 ## Recent searches widget — empty states
 
@@ -536,6 +574,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = A legutóbbi keresések itt jelennek meg, így bármikor újra megnyithatja őket.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = A népszerű keresések jelenleg nem érhetők el.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoszkópok
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Horoszkópbeállítások
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = További tudnivalók
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -834,12 +882,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Keresztrejtvény
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Pénzügy
 newtab-custom-widget-stocks-toggle =
     .label = Részvények
 newtab-custom-widget-picture-toggle =
     .label = A nap képe
 newtab-custom-widget-search-toggle =
     .label = Keresés
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoszkópok
 newtab-custom-widget-recent-searches-toggle =
     .label = Legutóbbi keresések
 newtab-custom-widget-section-title = Kisalkalmazások
@@ -1063,6 +1116,11 @@ newtab-wallpaper-celestial-river = Folyó műholdképe
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Szponzorálva
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Időjárás menü megnyitása
+    .title = Időjárás menü megnyitása
 newtab-weather-menu-change-location = Hely módosítása
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Keresési hely
@@ -1341,6 +1399,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Listák beállításai
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Listák menü megnyitása
+    .title = Listák menü megnyitása
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Új lista létrehozása
@@ -1428,6 +1492,11 @@ newtab-widget-timer-menu-notifications-on = Értesítések bekapcsolása
 newtab-widget-timer-menu-learn-more = További tudnivalók
 newtab-widget-timer-menu-button =
     .aria-label = Időzítő beállításai
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Időzítő menü megnyitása
+    .title = Időzítő menü megnyitása
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Legfontosabb szalagcímek
 newtab-daily-briefing-card-menu-dismiss = Eltüntetés
@@ -1452,6 +1521,14 @@ newtab-promo-card-cta = További tudnivalók
 newtab-promo-card-dismiss-button =
     .aria-label = Eltüntetés
     .title = Eltüntetés
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Keresztrejtvény menü megnyitása
+    .title = Keresztrejtvény menü megnyitása
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1858,6 +1935,11 @@ newtab-clock-widget-custom-back = Vissza
 newtab-clock-widget-menu-button2 =
     .aria-label = Órabeállítások
     .title = Órabeállítások
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Óra menü megnyitása
+    .title = Óra menü megnyitása
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
