@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] Clauder { $tabCount } schedas
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Clauder
+    .accesskey = C
 menu-file-close-window =
     .label = Clauder le fenestra
     .accesskey = d
@@ -93,6 +98,9 @@ menu-file-email-link =
     .accesskey = l
 menu-file-share-url =
     .label = Compartir
+    .accesskey = C
+menu-file-share-qrcode3 =
+    .label = Crear codice QR
     .accesskey = C
 menu-file-share-qrcode =
     .label = Generar codice QR…
