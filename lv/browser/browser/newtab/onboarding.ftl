@@ -390,3 +390,10 @@ smartwindow-sidebar-auto-open-callout-rejected-title = Sapratu
 ## Theme Picker screen strings
 
 onboarding-theme-picker-button-label = Saglabāt un turpināt
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Nozīmīgas iespējas

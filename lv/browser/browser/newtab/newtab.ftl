@@ -761,6 +761,11 @@ newtab-wallpaper-firefox-sky-light = Gaiši pakalni zem maigām debesīm
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ sponsorēts
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Atvērt laikapstākļu izvēlni
+    .title = Atvērt laikapstākļu izvēlni
 newtab-weather-menu-change-location = Mainīt atrašanās vietu
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Meklēt atrašanās vietu
@@ -880,6 +885,12 @@ newtab-widget-lists-button-add-item = Pievienot vienumu
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Pievienot vienumu
     .placeholder = Pievienot vienumu
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Atvērt sarakstu izvēlni
+    .title = Atvērt sarakstu izvēlni
 # Shown on the widgets section header button while the section is
 # auto-minimized to its title row, to open the section back up.
 newtab-widget-section-show-widgets =
@@ -893,7 +904,20 @@ newtab-widget-section-menu-learn-more = Uzzināt vairāk
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-menu-learn-more = Uzzināt vairāk
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Atvērt laika atskaitīšanas izvēlni
+    .title = Atvērt laika atskaitīšanas izvēlni
 newtab-promo-card-cta = Uzzināt vairāk
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Atvērt krustvārdu mīklu izvēlni
+    .title = Atvērt krustvārdu mīklu izvēlni
 
 ##
 
@@ -948,6 +972,11 @@ newtab-clock-widget-add-custom = Pievienot “{ $city }” kā pielāgotu pulkst
 newtab-clock-widget-menu-button2 =
     .aria-label = Pulksteņa iespējas
     .title = Pulksteņa iespējas
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Atvērt pulksteņa izvēlni
+    .title = Atvērt pulksteņa izvēlni
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ņujorka

@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Çapraz bulmaca
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finans
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Borsa
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Arama
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Burçlar
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Son aramalar
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = Daha fazla bilgi al
 newtab-privacy-widget-menu-button =
     .aria-label = Gizlilik seçenekleri
     .title = Gizlilik seçenekleri
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Gizlilik menüsünü aç
+    .title = Gizlilik menüsünü aç
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -334,12 +345,23 @@ newtab-privacy-message-first-protection-cta = Korumaları göster
 newtab-stocks-menu-learn-more = Daha fazla bilgi al
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Borsa verileri kullanılamıyor.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Finans seçenekleri
+    .title = Finans seçenekleri
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Borsa aracı seçenekleri
     .title = Borsa aracı seçenekleri
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Borsa menüsünü aç
+    .title = Borsa menüsünü aç
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -367,6 +389,12 @@ newtab-stocks-list-watchlist = Takip listesi
     .label = Takip listesi
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Ad veya borsa koduyla ara
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finans
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -469,6 +497,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Günün resmi seçenekleri
     .title = Günün resmi seçenekleri
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Günün resmi menüsünü aç
+    .title = Günün resmi menüsünü aç
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -523,6 +556,11 @@ newtab-search-widget-title = Arama
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Arama seçenekleri
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Arama menüsünü aç
+    .title = Arama menüsünü aç
 
 ## Recent searches widget — empty states
 
@@ -530,6 +568,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Son aramalarınız burada görünür. Böylece istediğiniz zaman kaldığınız yerden devam edebilirsiniz.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Gündemdeki aramalar şu anda görüntülenemiyor.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Burçlar
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Burçlar seçenekleri
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Daha fazla bilgi al
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -828,12 +876,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Çapraz bulmaca
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finans
 newtab-custom-widget-stocks-toggle =
     .label = Borsa
 newtab-custom-widget-picture-toggle =
     .label = Günün resmi
 newtab-custom-widget-search-toggle =
     .label = Arama
+newtab-custom-widget-horoscopes-toggle =
+    .label = Burçlar
 newtab-custom-widget-recent-searches-toggle =
     .label = Son aramalar
 newtab-custom-widget-section-title = Araçlar
@@ -1057,6 +1110,11 @@ newtab-wallpaper-celestial-river = Nehrin uydu görüntüsü
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorlu
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Hava durumu menüsünü aç
+    .title = Hava durumu menüsünü aç
 newtab-weather-menu-change-location = Konumu değiştir
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Konum ara
@@ -1335,6 +1393,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Liste seçenekleri
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Listeler menüsünü aç
+    .title = Listeler menüsünü aç
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Yeni liste oluştur
@@ -1847,6 +1911,11 @@ newtab-clock-widget-custom-back = Geri
 newtab-clock-widget-menu-button2 =
     .aria-label = Saat seçenekleri
     .title = Saat seçenekleri
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Saat menüsünü aç
+    .title = Saat menüsünü aç
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

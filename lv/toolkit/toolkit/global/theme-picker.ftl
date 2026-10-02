@@ -5,3 +5,6 @@
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Izskats
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Izskati

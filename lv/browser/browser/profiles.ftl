@@ -53,6 +53,9 @@ avatar-selector-add-image = Pievienot attēlu
 avatar-selector-crop = Apgriezt
 avatar-selector-dialog =
     .aria-label = Labot iemiesojumu
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Izvēlies profila attēlu
 edit-profile-page-no-name = Šis profils jānodēvē tā, lai to vēlāk būtu vieglāk atrast. To var pārdēvēt jebkurā laikā.
 edit-profile-page-duplicate-name = Profila nosaukums jau tiek izmantots. Jāmēģina cits nosaukums.
 edit-profile-page-profile-saved = Saglabāts

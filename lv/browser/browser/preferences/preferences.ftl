@@ -528,6 +528,10 @@ browsing-search-on-start-typing =
     .accesskey = m
 settings-keyboard-shortcuts-customkeys-link =
     .label = Pielāgot īsinājumtaustiņus
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Adreses joslas iestatījumu pielāgošana meklēšanā
 browsing-media-control =
     .label = Kontrolēt multividi ar tastatūru, austiņām vai virtuālo saskarni
     .accesskey = v
@@ -675,6 +679,14 @@ search-show-search-term-option-2 =
 search-separate-default-engine-2 =
     .label = Privātajos logos izmantot citu noklusējuma meklētāju
     .accesskey = P
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Pārvietošanās adreses joslā
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Izlaist iznākuma izvēlni, kad izmanto taustiņu “Tab”, lai pārvietotos
 search-suggestions-header-2 =
     .label = Meklētāja ieteikumi
 search-one-click-header2 = Meklēšanas saīsnes
@@ -834,6 +846,9 @@ prefs-syncing-button-2 =
 sync-syncing-across-devices-heading = Tu vienādo šos vienumus visās savās savienotajās ierīcēs:
 sync-syncing-across-devices-empty-state2 =
     .description = Tu neko nevienādo… Vēl. Jāuzsāk vienādošana, lai visās ierīcēs piekļūtu visiem saviem datiem.
+    .label = Pārvaldīt vienādotos datus
+sync-syncing-across-devices-empty-state3 =
+    .description = Tu neko nevienādo… Vēl. Izvēlies, ko vienādot šajā ierīcē!
     .label = Pārvaldīt vienādotos datus
 sync-currently-syncing-bookmarks = Grāmatzīmes
 sync-currently-syncing-history = Vēsturi

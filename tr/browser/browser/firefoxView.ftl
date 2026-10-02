@@ -83,6 +83,9 @@ firefoxview-overview-nav = Son bakılanlar
     .title = Son bakılanlar
 firefoxview-overview-header = Son bakılanlar
     .title = Son bakılanlar
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Farklı cihazlardaki sekmeler ve gezinti geçmişi
 
 ## History in this context refers to browser history
 
