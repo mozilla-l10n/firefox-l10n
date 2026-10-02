@@ -17,7 +17,7 @@ about-processes-kill-process =
 about-processes-shutdown-tab =
     .title = Stäng flik
 about-processes-unload-tab =
-    .title = Inaktivera flik
+    .title = Frigör flik
 about-processes-go-to-tab =
     .title = Gå till flik
 # Profiler icons
@@ -38,7 +38,7 @@ about-processes-column-memory-resident = Minne
 about-processes-column-cpu-total = CPU
 # Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
 about-processes-column-cpu-total-tab = CPU
-    .title = % av den totala CPU-kapaciteten över alla kärnor
+    .title = % av den totala CPU-kapaciteten för samtliga kärnor
 # Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
 about-processes-column-memory-resident-tab = RAM
 

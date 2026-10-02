@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Pesquisar na Internet...
 
 smartbar-mention-typing-placeholder = Etiquetar um separador ou site
 smartbar-mentions-list-no-results-label = Sem resultados encontrados
+smartbar-mentions-list-tab-groups-label = Grupos recentes
 smartbar-mentions-list-recent-tabs-label = Separadores recentes
 
 ## Context mentions menu toggle button

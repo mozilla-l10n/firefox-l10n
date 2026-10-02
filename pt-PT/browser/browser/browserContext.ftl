@@ -378,6 +378,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = Inspecionar
     .accesskey = n
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = Inspecionar Propriedades de Acessibilidade
+    .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Inspecionar propriedades de acessibilidade
 main-context-menu-eme-learn-more =

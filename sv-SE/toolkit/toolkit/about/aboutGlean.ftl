@@ -173,8 +173,8 @@ about-glean-unknown-metric-type-warning = Okänd mätvärdestyp.
 about-glean-store-submitted-pings-select-label = Ping:
 # Toggle label to enable the storage of Pings that are submitted
 about-glean-store-submitted-pings =
-    .description = Möjliggör lagring av skickade Pingar i minnet
-    .label = Lagra inskickade pingar
+    .description = Möjliggör lagring av inskickade pingar i arbetsminnet.
+    .label = Spara skickade pingar
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

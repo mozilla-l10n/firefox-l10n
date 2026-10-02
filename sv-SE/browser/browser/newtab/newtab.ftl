@@ -177,6 +177,11 @@ newtab-privacy-menu-learn-more = Läs mer
 newtab-privacy-widget-menu-button =
     .aria-label = Sekretessalternativ
     .title = Sekretessalternativ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Öppna integritetsmenyn
+    .title = Öppna integritetsmenyn
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -576,7 +581,7 @@ newtab-recent-searches-empty-trending = Trendiga sökningar är inte tillgängli
 newtab-horoscopes-widget-title = Horoskop
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
-    .aria-label = Horoskop alternativ
+    .aria-label = Alternativ för horoskop
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Läs mer
 
