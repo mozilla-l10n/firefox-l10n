@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Tastenkombinationen
 settings-keyboard-shortcuts-customkeys-link =
     .label = Tastenkombinationen anpassen
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Adressleisten-Einstellungen in der Suche anpassen
 settings-media-group =
     .label = Medien
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,10 @@ search-separate-default-engine-2 =
     .accesskey = V
 search-separate-default-engine-dropdown =
     .aria-label = Standardsuchmaschine in privaten Fenstern
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigation in der Adressleiste
 search-suggestions-header-2 =
     .label = Suchmaschinen-Vorschläge
 search-one-click-header2 = Suchmaschinen-Schlüsselwörter

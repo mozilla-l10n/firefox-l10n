@@ -607,3 +607,10 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Wenn Sie Ihre Meinung 
 onboarding-theme-picker-title = Wählen Sie ein Theme
 onboarding-theme-picker-subtitle = Bringen Sie ein bisschen mehr Farbe in { -brand-short-name }.
 onboarding-theme-picker-button-label = Speichern und weiter
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Funktions-Highlights

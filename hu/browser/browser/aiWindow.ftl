@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Keressen a weben…
 
 smartbar-mention-typing-placeholder = Lap vagy webhely címkézése
 smartbar-mentions-list-no-results-label = Nincs találat
+smartbar-mentions-list-tab-groups-label = Legutóbbi csoportok
 smartbar-mentions-list-recent-tabs-label = Legújabb címkék
 
 ## Context mentions menu toggle button

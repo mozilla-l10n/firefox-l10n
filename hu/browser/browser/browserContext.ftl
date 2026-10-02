@@ -378,6 +378,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = Vizsgálat
     .accesskey = V
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = Akadálymentesítési tulajdonságok vizsgálata
+    .accesskey = A
 main-context-menu-inspect-a11y-properties =
     .label = Akadálymentesítési tulajdonságok vizsgálata
 main-context-menu-eme-learn-more =

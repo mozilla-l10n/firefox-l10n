@@ -36,6 +36,15 @@ urlbar-identity-button2 =
             [one] Webhely-információk megtekintése ({ $count } nyomkövető blokkolva)
            *[other] Webhely-információk megtekintése ({ $count } nyomkövető blokkolva)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } hivatkozás
+           *[other] { $count } hivatkozás
+        }
 urlbar-identity-button =
     .aria-label = Oldal adatainak megjelenítése
 
