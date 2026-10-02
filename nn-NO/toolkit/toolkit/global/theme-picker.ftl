@@ -10,6 +10,9 @@ theme-picker-mode-device = Eining
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Utsjånad
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Tema
 theme-picker-use-linux-theme =
     .label = Bruk Linux-systemtema
 

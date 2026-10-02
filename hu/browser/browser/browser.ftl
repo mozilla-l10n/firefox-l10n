@@ -45,6 +45,12 @@ menu-share-links =
             [one] { $count } hivatkozás
            *[other] { $count } hivatkozás
         }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Üzenetek és egyebek…
+    .accesskey = A
 urlbar-identity-button =
     .aria-label = Oldal adatainak megjelenítése
 

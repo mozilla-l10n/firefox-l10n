@@ -57,6 +57,9 @@ avatar-selector-add-image = Ein Bild hinzufügen
 avatar-selector-crop = Zuschneiden
 avatar-selector-dialog =
     .aria-label = Avatar bearbeiten
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Avatar auswählen
 edit-profile-page-no-name = Benennen Sie dieses Profil, damit Sie es später leichter finden. Benennen Sie es jederzeit um.
 edit-profile-page-duplicate-name = Profilname wird bereits verwendet. Probieren Sie einen neuen Namen aus.
 edit-profile-page-profile-saved = Gespeichert

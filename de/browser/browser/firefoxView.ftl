@@ -83,6 +83,9 @@ firefoxview-overview-nav = Kürzlich besucht
     .title = Kürzlich besucht
 firefoxview-overview-header = Kürzlich besucht
     .title = Kürzlich besucht
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Tabs und die Surf-Chronik zwischen den Geräten
 
 ## History in this context refers to browser history
 

@@ -187,6 +187,8 @@ about-glean-no-data-to-display = Ingen data å vise.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-målingar blir ikkje støtta i <code>about:glean</code>-visninga enno.
 about-glean-unknown-metric-type-warning = Ukjend målingstype.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping:
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

@@ -35,6 +35,11 @@ urlbar-identity-button2 =
             [1] Vis informasjon om nettstaden (1 sporar blokkert)
            *[other] Vis informasjon om nettstaden ({ $count } sporarar blokkerte)
         }
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Del…
+    .accesskey = D
 urlbar-identity-button =
     .aria-label = Vis sideinfo
 

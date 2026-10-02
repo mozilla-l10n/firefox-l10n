@@ -1526,6 +1526,14 @@ newtab-promo-card-dismiss-button =
     .aria-label = Verwerfen
     .title = Verwerfen
 
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Kreuzworträtsel-Menü öffnen
+    .title = Kreuzworträtsel-Menü öffnen
+
 ## Strings introduced by the Nova redesign of the Timer widget
 
 # Variables:

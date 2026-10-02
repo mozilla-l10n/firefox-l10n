@@ -78,7 +78,7 @@ about-debugging-sidebar-support = پشتیبانی عیب‌یابی
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
-    .alt = آیکون راهنما
+    .alt = نقشک راهنما
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = نوسازی دستگاه‌ها
@@ -320,11 +320,11 @@ about-debugging-multiprocess-toolbox-name = جعبه‌ابزار چندفرآی
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = فرآیند اصلی و فرآیندهای محتوا برای مرورگر مقصد
 about-debugging-message-error-icon =
-    .alt = آیکون خطا
+    .alt = نقشک خطا
 about-debugging-message-info-icon =
-    .alt = آیکون اطلاعات
+    .alt = نقشک اطلاعات
 about-debugging-message-warning-icon =
-    .alt = آیکون هشدار
+    .alt = نقشک هشدار
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = بستن پیام

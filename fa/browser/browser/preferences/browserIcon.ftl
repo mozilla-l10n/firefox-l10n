@@ -10,17 +10,17 @@
 # subpage. The browser icon is the icon shown on the desktop, taskbar, and
 # Start Menu.
 appearance-browser-icon-entry-group =
-    .description = آیکونی سفارشی برای نوار وظیفه، دسکتاپ و منوی استارت انتخاب کنید.
-    .label = آیکون مرورگر
+    .description = نقشک سفارشی برای نوار وظیفه، رومیزی و منوی شروع انتخاب کنید.
+    .label = نقشک مرورگر
 appearance-browser-icon-button =
-    .label = تغییر آیکون مرورگر
+    .label = تغییر نقشک مرورگر
 
 ## Strings for the "Browser icon" sub-page (Windows only), opened from the
 ## "Change browser icon" button in the Appearance settings. The sub-page lets
 ## people choose which icon appears on the taskbar, desktop, and Start Menu.
 
 appearance-browser-icon-subpage-title =
-    .heading = آیکون‌های بیشتر
+    .heading = نقشک‌های بیشتر
 
 ## Icons are organized into two groups: "Standard" and "Bonus". The icons in
 ## the "Bonus" group only become available when the user has set the browser

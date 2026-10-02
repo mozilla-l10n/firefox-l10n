@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Kryssord
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finans
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Aksjar
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Søk
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskop
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nylege søk
@@ -371,6 +377,12 @@ newtab-stocks-list-watchlist = Overvakingsliste
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Søk etter namn eller symbol
 
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finans
+
 ## Screen-reader summary of a stock ticker.
 ## Variables:
 ##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
@@ -536,6 +548,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Nylege søk blir viste her, slik at du, når som helst, kan hente dei fram igjen.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Populære søk er ikkje tilgjengelege akkurat no.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskop
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Horoskop-innstillingar
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Les meir
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -834,12 +856,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Kryssord
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finans
 newtab-custom-widget-stocks-toggle =
     .label = Aksjar
 newtab-custom-widget-picture-toggle =
     .label = Dagens bilde
 newtab-custom-widget-search-toggle =
     .label = Søk
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskop
 newtab-custom-widget-recent-searches-toggle =
     .label = Nylege søk
 newtab-custom-widget-section-title = Widgetar

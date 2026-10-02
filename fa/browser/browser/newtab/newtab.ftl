@@ -70,7 +70,7 @@ home-prefs-stories-header2 =
     .description = محتوای برگزیده گردآوری‌شده توسط خانوادهٔ { -brand-product-name }
     .label = داستان‌ها
 home-prefs-widgets-header =
-    .label = ویجت‌ها
+    .label = ابزارک‌ها
 # Lists is a widget on New Tab, similar to a to-do widget
 home-prefs-lists-header =
     .label = فهرست‌ها
@@ -498,7 +498,7 @@ newtab-recent-searches-menu-learn-more = بیشتر بدانید
 ## split into.
 
 newtab-spaces-tab-stories = داستان‌ها
-newtab-spaces-tab-widgets = ویجت‌ها
+newtab-spaces-tab-widgets = ابزارک‌ها
 newtab-spaces-tab-activity = فعالیت‌ها
 
 ## Search box component.
@@ -797,12 +797,12 @@ newtab-custom-widget-picture-toggle =
     .label = تصویر روز
 newtab-custom-widget-recent-searches-toggle =
     .label = جست‌وجوهای اخیر
-newtab-custom-widget-section-title = ویجت‌ها
+newtab-custom-widget-section-title = ابزارک‌ها
 newtab-custom-widget-section-toggle =
-    .label = ویجت‌ها
-newtab-widget-manage-title = ویجت‌ها
+    .label = ابزارک‌ها
+newtab-widget-manage-title = ابزارک‌ها
 newtab-widget-manage-widget-button =
-    .label = مدیریت ویجت‌ها
+    .label = مدیریت ابزارک‌ها
 # Tooltip for close button
 newtab-custom-close-menu-button =
     .aria-label = بستن منو
@@ -1234,7 +1234,7 @@ newtab-report-submit = ارسال گزارش
 newtab-toast-thanks-for-reporting =
     .message = از گزارش شما سپاسگزاریم.
 newtab-toast-widgets-hidden =
-    .message = هر زمان که بخواهید با کلیک روی آیکون مداد می‌توانید ویجت‌ها را بازگردانید.
+    .message = هر زمان که بخواهید با کلیک روی نقشک مداد می‌توانید ابزارک‌ها را بازگردانید.
 # Variables:
 #   $topic (string) - Topic that the user has followed
 newtab-section-toast-follow =
@@ -1309,7 +1309,7 @@ newtab-widget-lists-name-placeholder-checklist2 =
 newtab-widget-lists-name-placeholder-new2 =
     .aria-label = ویرایش نام فهرست
     .placeholder = فهرست جدید
-newtab-widget-section-title = ویجت‌ها
+newtab-widget-section-title = ابزارک‌ها
 newtab-widget-menu-hide = مخفی کردن ویجت
 newtab-widget-menu-change-size = تغییر اندازه
 # Parent label for a submenu in the widget menu that reorders the widget
@@ -1326,37 +1326,37 @@ newtab-widget-size-medium = متوسط
 newtab-widget-size-large = بزرگ
 # Tooltip for hide all widgets button
 newtab-widget-section-hide-all-button =
-    .aria-label = مخفی کردن همهٔ ویجت‌ها
-    .title = مخفی کردن ویجت‌ها
+    .aria-label = پنهان کردن همهٔ ابزارک‌ها
+    .title = پنهان کردن ابزارک‌ها
 newtab-widget-section-maximize =
-    .aria-label = گسترش همهٔ ویجت‌ها به اندازهٔ کامل
-    .title = بزرگ کردن ویجت‌ها
+    .aria-label = گسترش همهٔ ابزارک‌ها به اندازهٔ کامل
+    .title = بزرگ کردن ابزارک‌ها
 newtab-widget-section-minimize =
-    .aria-label = جمع کردن همهٔ ویجت‌ها به اندازهٔ فشرده
-    .title = کوچک کردن ویجت‌ها
+    .aria-label = جمع کردن همهٔ ابزارک‌ها به اندازهٔ فشرده
+    .title = کوچک کردن ابزارک‌ها
 # Shown on the widgets section header button while the section is
 # auto-minimized to its title row, to open the section back up.
 newtab-widget-section-show-widgets =
-    .aria-label = نمایش بخش ویجت‌ها
-    .title = نمایش ویجت‌ها
+    .aria-label = نمایش بخش ابزارک‌ها
+    .title = نمایش ابزارک‌ها
 newtab-widget-section-menu-button =
-    .aria-label = باز کردن منوی ویجت‌ها
-    .title = منوی ویجت‌ها
+    .aria-label = باز کردن منوی ابزارک‌ها
+    .title = منوی ابزارک‌ها
 newtab-widget-add-widgets-button =
     .aria-label = افزودن ویجت
     .title = افزودن ویجت
-newtab-widget-section-menu-manage = مدیریت ویجت‌ها
-newtab-widget-section-menu-hide-all = مخفی کردن ویجت‌ها
+newtab-widget-section-menu-manage = مدیریت ابزارک‌ها
+newtab-widget-section-menu-hide-all = پنهان کردن ابزارک‌ها
 newtab-widget-section-menu-learn-more = بیشتر بدانید
 newtab-widget-section-feedback = نظرتان را به ما بگویید
 # Button shown when additional widgets are hidden beyond the
 # first row, allowing users to show them.
 newtab-widget-section-show-more =
-    .label = نمایش ویجت‌های بیشتر
+    .label = نمایش ابزارک‌ها بیشتر
 # Button shown when the widgets row is expanded to multiple rows,
 # allowing users to collapse it back to one row.
 newtab-widget-section-show-less =
-    .label = نمایش ویجت‌های کمتر
+    .label = نمایش ابزارک‌ها کمتر
 newtab-widget-lists-name-default = چک‌لیست
 
 ## Strings introduced by the Nova redesign of the Timer widget
@@ -1391,7 +1391,7 @@ newtab-widget-message-title = با فهرست‌ها و تایمر داخلی م
 newtab-widget-message-copy = از یادآورهای فوری تا فهرست کارهای روزانه، جلسات تمرکز عمیق تا وقفه‌های کششی — کارها را دقیق و سر وقت انجام دهید.
 # One spot refers to a dedicated section on new tab to manage and use widgets
 newtab-widget-message-focus-forecasts-title = فضایی یکپارچه برای تمرکز، پیش‌بینی‌ها و امکانات دیگر
-newtab-widget-message-focus-forecasts-body = با ویجت‌های { -brand-product-name } جریان کارهای روزانه را حفظ کنید. آب‌وهوا را چک کنید، روی کارها بمانید یا ساعت شهرهای جهان را ببینید.
+newtab-widget-message-focus-forecasts-body = با ابزارک‌ها { -brand-product-name } جریان کارهای روزانه را حفظ کنید. آب‌وهوا را چک کنید، روی کارها بمانید یا ساعت شهرهای جهان را ببینید.
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1675,18 +1675,18 @@ newtab-sports-widget-message-wallpapers-cta = انتخاب پس‌زمینه
 newtab-sports-widget-message-wallpapers-semifinals-title = دریافت پس‌زمینهٔ ویژه برای نیمه‌نهایی
 newtab-sports-widget-message-wallpapers-semifinals-body = صحنه را برای مهم‌ترین مسابقات جام جهانی آماده کنید.
 newtab-sports-widget-message-add-widgets-cta =
-    .label = افزودن ویجت‌ها
-newtab-sports-widget-message-day-in-play-title = روز خود را با ویجت‌های { -brand-product-name } هیجان‌انگیز نگه دارید
+    .label = افزودن ابزارک‌ها
+newtab-sports-widget-message-day-in-play-title = روز خود را با ابزارک‌های { -brand-product-name } هیجان‌انگیز نگه دارید
 newtab-sports-widget-message-day-in-play-body = جام جهانی را دنبال کنید، روی کارها بمانید، ساعت جهانی را ببینید و موارد دیگر.
 newtab-sports-widget-message-explore-widgets-cta =
-    .label = کاوش ویجت‌ها
+    .label = کاوش ابزارک‌ها
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 
-newtab-sports-widget-message-survey-title = در بهبود ویجت‌ها همراه ما باشید
+newtab-sports-widget-message-survey-title = در بهبود ابزارک‌ها همراه ما باشید
 newtab-sports-widget-message-survey-body = پروندهٔ جام جهانی بسته شد. تجربه و نظرات خود را با ما در میان بگذارید.
 newtab-sports-widget-message-survey-widget-title = ویجت جام جهانی چطور بود؟
-newtab-sports-widget-message-survey-widget-body = نظر خود را به اشتراک بگذارید تا ویجت‌های آینده را بهتر کنیم؛ سپس ویجت‌های جدید دیگر را امتحان کنید.
+newtab-sports-widget-message-survey-widget-body = نظر خود را هم‌رسانی کنید تا ابزارک‌های آینده را بهتر کنیم؛ سپس ابزارک‌های جدید دیگر را امتحان کنید.
 newtab-sports-widget-message-survey-cta =
     .label = شرکت در نظرسنجی
 

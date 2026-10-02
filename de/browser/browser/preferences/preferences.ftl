@@ -933,6 +933,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = Navigation in der Adressleiste
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Überspringen Sie das Ergebnismenü, wenn Sie die Tab-Taste zum Verschieben des Fokus verwenden
 search-suggestions-header-2 =
     .label = Suchmaschinen-Vorschläge
 search-one-click-header2 = Suchmaschinen-Schlüsselwörter
@@ -1161,6 +1165,9 @@ sync-syncing-across-devices-heading = Sie synchronisieren diese Elemente mit all
 sync-syncing-across-devices-heading-2 = Diese Daten werden zwischen den Geräten synchronisiert:
 sync-syncing-across-devices-empty-state2 =
     .description = Sie synchronisieren nichts … noch nicht. Starten Sie die Synchronisierung, um alle ihre Daten auf allen ihren Geräten zu haben.
+    .label = Synchronisierte Daten verwalten
+sync-syncing-across-devices-empty-state3 =
+    .description = Sie synchronisieren… noch nichts. Wählen Sie aus, was auf diesem Gerät synchronisiert werden soll.
     .label = Synchronisierte Daten verwalten
 sync-currently-syncing-bookmarks = Lesezeichen
 sync-currently-syncing-history = Chronik

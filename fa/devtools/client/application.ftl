@@ -42,3 +42,17 @@ serviceworker-worker-status-stopped = متوقف شده
 serviceworker-empty-intro2 = هیچ خدمات کارگری یافت نشد
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = بیشتر بدانید
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = نقشک‌ها
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = نقشک
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = نقشک هشدار
+    .title = هشدار
+# Text for the ALT and TITLE attributes of the error icon
+icon-error =
+    .alt = نقشک خطا
+    .title = خطا

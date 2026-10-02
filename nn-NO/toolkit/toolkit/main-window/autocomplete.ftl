@@ -31,9 +31,16 @@ autocomplete-delete-password = Slett dette passordet
 autocomplete-edit-address = Rediger denne adressa
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Slett denne adressa
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = Slett addresse { $entry }
 autocomplete-edit-payment-method = Rediger denne betalingsmåten
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Slett denne betalingsmåten
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Slett
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -42,6 +49,8 @@ autocomplete-delete-form-history-entry2 = Slett { $entry } frå historikken
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = Fleire handlingar for { $entry }
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = Fleire innstillingar
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.

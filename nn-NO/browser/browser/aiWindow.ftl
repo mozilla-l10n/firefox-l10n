@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Søk på nettet…
 
 smartbar-mention-typing-placeholder = Merk ei fane eller ein nettstad
 smartbar-mentions-list-no-results-label = Fann ingen resultat
+smartbar-mentions-list-tab-groups-label = Nylege grupper
 smartbar-mentions-list-recent-tabs-label = Nylege faner
 
 ## Context mentions menu toggle button
