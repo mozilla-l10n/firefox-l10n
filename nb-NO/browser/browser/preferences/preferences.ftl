@@ -925,6 +925,10 @@ search-separate-default-engine-2 =
     .accesskey = B
 search-separate-default-engine-dropdown =
     .aria-label = Standard søkemotor i private vinduer
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigering i adresselinjen
 search-suggestions-header-2 =
     .label = Søkemotorforslag
 search-one-click-header2 = Søkesnarveier
