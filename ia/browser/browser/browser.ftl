@@ -36,6 +36,20 @@ urlbar-identity-button2 =
             [one] Vider le informationes del sito (1 traciator blocate)
            *[other] Vider le informationes del sito ({ $count } traciatores blocate)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } Ligamine
+           *[other] { $count } { $count } Ligamines
+        }
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Condivider…
+    .accesskey = C
 urlbar-identity-button =
     .aria-label = Vider le informationes del sito
 
