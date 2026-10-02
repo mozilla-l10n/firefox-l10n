@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Cruciverba
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Mercati finanziari
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Azioni
@@ -174,6 +177,11 @@ newtab-privacy-menu-learn-more = Ulteriori informazioni
 newtab-privacy-widget-menu-button =
     .aria-label = Opzioni Privacy
     .title = Opzioni Privacy
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Apri menu per il widget Privacy
+    .title = Apri menu per il widget Privacy
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -337,12 +345,23 @@ newtab-privacy-message-first-protection-cta = Visualizza protezioni
 newtab-stocks-menu-learn-more = Ulteriori informazioni
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = I dati sulle azioni non sono disponibili.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Apri menu per il widget Mercati finanziari
+    .title = Apri menu per il widget Mercati finanziari
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Opzioni del widget Azioni
     .title = Opzioni del widget Azioni
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Apri menu per il widget Azioni
+    .title = Apri menu per il widget Azioni
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -373,6 +392,12 @@ newtab-stocks-list-watchlist = Titoli seguiti
     .label = Titoli seguiti
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Cerca per nome o simbolo
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Mercati finanziari
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -474,6 +499,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Opzioni immagine del giorno
     .title = Opzioni immagine del giorno
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Apri menu per il widget Immagine del giorno
+    .title = Apri menu per il widget Immagine del giorno
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -528,6 +558,11 @@ newtab-search-widget-title = Ricerca
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Impostazioni di ricerca
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Apri menu per il widget Ricerca
+    .title = Apri menu per il widget Ricerca
 
 ## Recent searches widget — empty states
 
@@ -843,6 +878,9 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Cruciverba
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Mercati finanziari
 newtab-custom-widget-stocks-toggle =
     .label = Azioni
 newtab-custom-widget-picture-toggle =
@@ -1074,6 +1112,11 @@ newtab-wallpaper-celestial-river = Immagine satellitare di un fiume
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsorizzato
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Apri menu per il widget Meteo
+    .title = Apri menu per il widget Meteo
 newtab-weather-menu-change-location = Modifica località
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Cerca località
@@ -1352,6 +1395,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Opzioni liste
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Apri menu per il widget Liste
+    .title = Apri menu per il widget Liste
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crea nuova lista
@@ -1439,6 +1488,11 @@ newtab-widget-timer-menu-notifications-on = Attiva le notifiche
 newtab-widget-timer-menu-learn-more = Ulteriori informazioni
 newtab-widget-timer-menu-button =
     .aria-label = Opzioni timer
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Apri menu per il widget Timer
+    .title = Apri menu per il widget Timer
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Notizie in primo piano
 newtab-daily-briefing-card-menu-dismiss = Chiudi
@@ -1463,6 +1517,14 @@ newtab-promo-card-cta = Ulteriori informazioni
 newtab-promo-card-dismiss-button =
     .aria-label = Chiudi
     .title = Chiudi
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Apri menu per il widget Cruciverba
+    .title = Apri menu per il widget Cruciverba
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1869,6 +1931,11 @@ newtab-clock-widget-custom-back = Indietro
 newtab-clock-widget-menu-button2 =
     .aria-label = Opzioni Orologio
     .title = Opzioni Orologio
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Apri menu per il widget Orologio
+    .title = Apri menu per il widget Orologio
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

@@ -968,6 +968,12 @@ urlbar-view-context-menu-open-in-window2 = Apri in nuova finestra
     .accesskey = f
 urlbar-view-context-menu-open-in-private-window2 = Apri in nuova finestra anonima
     .accesskey = m
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Salta questo menu quando usi il tasto Tab
+    .accesskey = m
 
 ## Labels shown above groups of urlbar results
 

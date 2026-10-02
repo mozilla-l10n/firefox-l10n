@@ -74,6 +74,11 @@ menu-file-close-tab =
            *[other] Chiudi { $tabCount } schede
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Chiudi
+    .accesskey = C
 menu-file-close-window =
     .label = Chiudi finestra
     .accesskey = d
