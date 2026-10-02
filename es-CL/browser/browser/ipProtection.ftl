@@ -30,6 +30,8 @@ ipprotection-feature-introduction-title-privacy = Añade otra capa de privacidad
 ipprotection-feature-introduction-link-text-privacy-1 = La VPN integrada de <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ayuda a proteger tu navegación. Elige entre varias ubicaciones para mantener tu navegación más privada.
 ipprotection-feature-introduction-link-text-privacy-2 = La VPN integrada de <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ayuda a proteger tu navegación. Elige entre multiples ubicaciones para mantener tu navegación más privada.
 ipprotection-feature-introduction-link-text-privacy-3 = Obtén <a data-l10n-name="learn-more-vpn">privacidad adicional</a> eligiendo entre múltiples ubicaciones para ocultar desde dónde navegas.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Ayuda a ocultar tu ubicación para una <a data-l10n-name="learn-more-vpn">mayor privacidad</a> mientras navegas. Activa o desactiva la VPN para determinados sitios.
 ipprotection-feature-introduction-text-summer-promo-1 = Actívalo para mantener tu navegación más privada. <a data-l10n-name="summer-promo-link">Obtén ancho de banda ilimitado</a> y más ubicaciones desde donde navegar. Hasta el 31 de agosto.
 ipprotection-feature-introduction-title-summer-promo = ¿Tienes planes de viaje? Lleva tu privacidad contigo.
 ipprotection-feature-introduction-description-summer-promo = Llega más lejos con la VPN integrada de { -brand-product-name }: más ubicaciones, ancho de banda ilimitado. Hasta el 31 de agosto.
