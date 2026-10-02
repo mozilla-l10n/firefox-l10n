@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Kryssord
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finans
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Aksjer
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Søk
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskop
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nylige søk
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = Les mer
 newtab-privacy-widget-menu-button =
     .aria-label = Personverninnstillinger
     .title = Personverninnstillinger
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Åpne personvernmenyen
+    .title = Åpne personvernmenyen
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -334,12 +345,23 @@ newtab-privacy-message-first-protection-cta = Vis beskyttelser
 newtab-stocks-menu-learn-more = Les mer
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Aksjedata er ikke tilgjengelig.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Finans-innstillinger
+    .title = Finans-innstillinger
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Innstillinger for aksje-widgeten
     .title = Innstillinger for aksje-widgeten
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Åpne aksjemenyen
+    .title = Åpne aksjemenyen
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -370,6 +392,12 @@ newtab-stocks-list-watchlist = Overvåkningsliste
     .label = Overvåkningsliste
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Søk etter navn eller symbol
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finans
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -529,6 +557,11 @@ newtab-search-widget-title = Søk
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Søkeinnstillinger
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Åpne søk-menyen
+    .title = Åpne søk-menyen
 
 ## Recent searches widget — empty states
 
@@ -536,6 +569,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Nylige søk vises her, slik at du kan hente dem frem igjen når som helst.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Populære søk er ikke tilgjengelige akkurat nå.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskop
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Horoskop-innstillinger
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Les mer
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -834,12 +877,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Kryssord
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finans
 newtab-custom-widget-stocks-toggle =
     .label = Aksjer
 newtab-custom-widget-picture-toggle =
     .label = Dagens bilde
 newtab-custom-widget-search-toggle =
     .label = Søk
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskop
 newtab-custom-widget-recent-searches-toggle =
     .label = Nylige søk
 newtab-custom-widget-section-title = Widgeter
