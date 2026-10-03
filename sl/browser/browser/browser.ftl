@@ -38,6 +38,11 @@ urlbar-identity-button2 =
             [few] Ogled podatkov o strani ({ $count } zavrnjeni sledilci)
            *[other] Ogled podatkov o strani ({ $count } zavrnjenih sledilcev)
         }
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Deli …
+    .accesskey = D
 urlbar-identity-button =
     .aria-label = Poglejte podatke o strani
 
