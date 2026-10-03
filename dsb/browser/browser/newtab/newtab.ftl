@@ -597,6 +597,11 @@ newtab-recent-searches-empty-trending = Popularne pytanja tuchylu njejsu k dispo
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskopy
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Nastajenja horoskopow
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Dalšne informacije
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -897,12 +902,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Kśicawka
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finance
 newtab-custom-widget-stocks-toggle =
     .label = Akcije
 newtab-custom-widget-picture-toggle =
     .label = Wobraz dnja
 newtab-custom-widget-search-toggle =
     .label = Pytaś
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskopy
 newtab-custom-widget-recent-searches-toggle =
     .label = Nejnowše pytanja
 newtab-custom-widget-section-title = Asistenty
@@ -1126,6 +1136,11 @@ newtab-wallpaper-celestial-river = Satelitowy wobraz rěki
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ sponserowany
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Wjedrowy meni wócyniś
+    .title = Wjedrowy meni wócyniś
 newtab-weather-menu-change-location = Městno změniś
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Městno pytaś
@@ -1404,6 +1419,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Nalicyjo nastajenja
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Meni lisćinow wócyniś
+    .title = Meni lisćinow wócyniś
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Nowu lisćinu napóraś
@@ -1491,6 +1512,11 @@ newtab-widget-timer-menu-notifications-on = Zdźělenja zmóžniś
 newtab-widget-timer-menu-learn-more = Dalšne informacije
 newtab-widget-timer-menu-button =
     .aria-label = Casowe nastajenja
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Meni casowego měritka wócyniś
+    .title = Meni casowego měritka wócyniś
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Wažne głowne nadpisma
 newtab-daily-briefing-card-menu-dismiss = Zachyśiś
@@ -1515,6 +1541,14 @@ newtab-promo-card-cta = Dalšne informacije
 newtab-promo-card-dismiss-button =
     .aria-label = Zachyśiś
     .title = Zachyśiś
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Meni kśicawki wócyniś
+    .title = Meni kśicawki wócyniś
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1927,6 +1961,11 @@ newtab-clock-widget-custom-back = Slědk
 newtab-clock-widget-menu-button2 =
     .aria-label = Zegerowe nastajenja
     .title = Zegerowe nastajenja
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Meni zegera wócyniś
+    .title = Meni zegera wócyniś
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

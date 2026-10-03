@@ -31,9 +31,21 @@ autocomplete-delete-password = Toś to gronidło lašowaś
 autocomplete-edit-address = Toś tu adresu wobźěłaś
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Toś tu adresu lašowaś
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = Adresu { $entry } lašowaś
 autocomplete-edit-payment-method = Toś tu płaśeńsku metodu wobźěłaś
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Toś tu płaśeńsku metodu lašowaś
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = Płaśeńsku metodu { $entry } lašowaś
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Lašowaś
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -42,6 +54,13 @@ autocomplete-delete-form-history-entry2 = { $entry } z historije formularow laš
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = Dalšne akcije za { $entry }
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = Dalšne nastajenja
+# Accessible name for the button that opens the edit/delete menu. It names the
+# row so screen reader users know which entry the menu belongs to.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-options-for-entry = Dalšne nastajenja za { $entry }
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.

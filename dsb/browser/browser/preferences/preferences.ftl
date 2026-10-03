@@ -707,6 +707,10 @@ settings-keyboard-shortcuts-group =
     .label = Tastowe skrotconki
 settings-keyboard-shortcuts-customkeys-link =
     .label = Tastowe skrotconki pśiměriś
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Nastajenja adresowego póla w kategoriji Pytanje pśiměriś
 settings-media-group =
     .label = Medije
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -933,6 +937,14 @@ search-separate-default-engine-2 =
     .accesskey = u
 search-separate-default-engine-dropdown =
     .aria-label = Standardna pytnica w priwatnych woknach
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Nawigacija adresowego póla
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Meni wuslědkow pśeskócyś, gaž se tabulatorowa tasta wužywa, by fokus pśesunuła
 search-suggestions-header-2 =
     .label = Naraźenja pytnice
 search-one-click-header2 = Pytańske skrotconki
@@ -1161,6 +1173,9 @@ sync-syncing-across-devices-heading = Synchronizěrujośo toś te zapiski pśez 
 sync-syncing-across-devices-heading-2 = Daty, kótarež su pśez rědy synchronizěrowane
 sync-syncing-across-devices-empty-state2 =
     .description = Njesynchronizěrujośo nic… hyšći. Zachopśo synchronizěrowaś, aby wšykne swóje daty na wšych swójich rědach dostał.
+    .label = Synchronizěrowane daty zastojaś
+sync-syncing-across-devices-empty-state3 =
+    .description = Hyšći njesynchronizěrujośo nic… Wubjeŕśo, což se ma na toś tom rěźe synchronizěrowaś.
     .label = Synchronizěrowane daty zastojaś
 sync-currently-syncing-bookmarks = Cytańske znamjenja
 sync-currently-syncing-history = Historija

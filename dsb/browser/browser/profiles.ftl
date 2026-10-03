@@ -57,6 +57,9 @@ avatar-selector-add-image = Wobraz pśidaś
 avatar-selector-crop = Pśirězaś
 avatar-selector-dialog =
     .aria-label = Awatar wobźěłaś
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Awatar wubraś
 edit-profile-page-no-name = Pómjeńśo toś ten profil, aby jen pózdźej zasej namakał. Pśemjeńśo jen kuždy cas.
 edit-profile-page-duplicate-name = Profilowe mě se južo wužywa. Wopytajśo nowe mě.
 edit-profile-page-profile-saved = Skłaźony
