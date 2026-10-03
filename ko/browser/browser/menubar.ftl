@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] 탭 { $tabCount }개 닫기
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = 닫기
+    .accesskey = C
 menu-file-close-window =
     .label = 창 닫기
     .accesskey = d
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = 공유
     .accesskey = h
+menu-file-share-qrcode3 =
+    .label = QR 코드 생성
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = QR 코드 생성…
     .accesskey = Q

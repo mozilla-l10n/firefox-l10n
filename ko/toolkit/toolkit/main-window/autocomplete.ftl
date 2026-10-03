@@ -31,9 +31,21 @@ autocomplete-delete-password = 비밀번호 삭제
 autocomplete-edit-address = 주소 편집
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = 주소 삭제
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = 주소 { $entry } 삭제
 autocomplete-edit-payment-method = 결제 수단 편집
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = 결제 수단 삭제
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = 결제 수단 { $entry } 삭제
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = 삭제
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -42,6 +54,13 @@ autocomplete-delete-form-history-entry2 = 양식 기록에서 { $entry } 삭제
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = { $entry }에 대한 추가 작업
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = 추가 옵션
+# Accessible name for the button that opens the edit/delete menu. It names the
+# row so screen reader users know which entry the menu belongs to.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-options-for-entry = { $entry }의 추가 옵션
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.

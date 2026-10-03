@@ -909,6 +909,10 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = 사생활 보호 창의 기본 검색 엔진
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = 주소 표시줄 탐색
 search-suggestions-header-2 =
     .label = 검색 엔진 제안
 search-one-click-header2 = 검색 바로 가기
@@ -1137,6 +1141,9 @@ sync-syncing-across-devices-heading = 연결된 모든 기기에서 다음 항�
 sync-syncing-across-devices-heading-2 = 여러 기기에서 데이터 동기화됨
 sync-syncing-across-devices-empty-state2 =
     .description = 아직 아무것도 동기화하고 있지 않습니다. 지금 동기화를 시작하여 모든 기기에서 데이터를 확인해 보세요.
+    .label = 동기화된 데이터 관리
+sync-syncing-across-devices-empty-state3 =
+    .description = 아직 아무것도 동기화하고 있지 않습니다. 이 기기에서 동기화할 항목을 선택하세요.
     .label = 동기화된 데이터 관리
 sync-currently-syncing-bookmarks = 북마크
 sync-currently-syncing-history = 기록
