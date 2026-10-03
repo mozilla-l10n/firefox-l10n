@@ -689,6 +689,10 @@ settings-keyboard-shortcuts-group =
     .label = 快速鍵
 settings-keyboard-shortcuts-customkeys-link =
     .label = 自訂快速鍵
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = 前往「搜尋」自訂網址列設定
 settings-media-group =
     .label = 媒體
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -917,6 +921,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = 網址列導航
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = 使用 Tab 鍵移動焦點時，跳過結果選單
 search-suggestions-header-2 =
     .label = 搜尋引擎建議
 search-one-click-header2 = 搜尋快速鍵

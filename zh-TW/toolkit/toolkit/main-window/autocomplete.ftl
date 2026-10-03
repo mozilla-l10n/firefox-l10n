@@ -31,9 +31,19 @@ autocomplete-delete-password = 刪除此密碼
 autocomplete-edit-address = 編輯此地址
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = 刪除此地址
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = 刪除地址 { $entry }
 autocomplete-edit-payment-method = 編輯此付款方式
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = 刪除此付款方式
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = 刪除付款方式 { $entry }
 # Tooltip for the trash button on a form history entry.
 autocomplete-delete-entry = 刪除
 # aria-label for the trash button on a form history entry.
