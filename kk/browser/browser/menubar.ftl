@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] { $tabCount } бетті жабу
         }
     .accesskey = ж
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Жабу
+    .accesskey = Ж
 menu-file-close-window =
     .label = Терезені жабу
     .accesskey = б
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Бөлісу
     .accesskey = Б
+menu-file-share-qrcode3 =
+    .label = QR кодын жасау
+    .accesskey = к
 menu-file-share-qrcode =
     .label = QR кодын генерациялау…
     .accesskey = к

@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Пернетақта жарлықтары
 settings-keyboard-shortcuts-customkeys-link =
     .label = Пернетақта жарлықтарын баптау
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Іздеуде адрес жолағының параметрлерін реттеу
 settings-media-group =
     .label = Мультимедиа
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = о
 search-separate-default-engine-dropdown =
     .aria-label = Жекелік терезелердегі негізгі іздеу жүйесі
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Адрестік жолақ навигациясы
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Фокусты жылжыту үшін Tab пернесін пайдаланған кезде нәтижелер мәзірін өткізіп жіберу
 search-suggestions-header-2 =
     .label = Іздеу жүйесінің ұсыныстары
 search-one-click-header2 = Жарлықтардан іздеу
@@ -1153,6 +1165,9 @@ sync-syncing-across-devices-heading = Сіз бұл элементтерді б�
 sync-syncing-across-devices-heading-2 = Деректер құрылғылар арасында синхрондалған
 sync-syncing-across-devices-empty-state2 =
     .description = Сіз ештеңе синхрондап жатқан жоқсыз... әлі. Барлық деректеріңізді барлық құрылғыларыңыздан алу үшін синхрондауды бастаңыз.
+    .label = Синхрондалған деректерді басқару
+sync-syncing-across-devices-empty-state3 =
+    .description = Сіз ештеңені синхрондап жатқан жоқсыз… әлі. Осы құрылғыда нені синхрондайтыныңызды таңдаңыз.
     .label = Синхрондалған деректерді басқару
 sync-currently-syncing-bookmarks = Бетбелгілер
 sync-currently-syncing-history = Тарих

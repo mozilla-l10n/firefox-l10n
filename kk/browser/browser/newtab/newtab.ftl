@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Кроссворд
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Қаржы
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Акциялар
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Іздеу
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Гороскоптар
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Жуырдағы іздеулер
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = Көбірек білу
 newtab-privacy-widget-menu-button =
     .aria-label = Жекелік опциялары
     .title = Жекелік опциялары
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Жекелік мәзірін ашу
+    .title = Жекелік мәзірін ашу
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -334,12 +345,23 @@ newtab-privacy-message-first-protection-cta = Қорғаныстарды қар�
 newtab-stocks-menu-learn-more = Көбірек білу
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Қор биржасы деректері қолжетімді емес.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Қаржы опциялары
+    .title = Қаржы опциялары
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Акциялар виджетінің опциялары
     .title = Акциялар виджетінің опциялары
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Акциялар мәзірін ашу
+    .title = Акциялар мәзірін ашу
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -370,6 +392,12 @@ newtab-stocks-list-watchlist = Бақылау тізімі
     .label = Бақылау тізімі
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Аты немесе белгісі бойынша іздеу
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Қаржы
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -475,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Осы күннің суреті опциялары
     .title = Осы күннің суреті опциялары
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Осы күннің мәзірі суретін ашу
+    .title = Осы күннің мәзірі суретін ашу
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -529,6 +562,11 @@ newtab-search-widget-title = Іздеу
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Іздеу опциялары
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Іздеу мәзірін ашу
+    .title = Іздеу мәзірін ашу
 
 ## Recent searches widget — empty states
 
@@ -536,6 +574,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Соңғы іздеулер осында көрсетіледі, сондықтан оларды кез келген уақытта қайта ала аласыз.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Трендтегі іздеулер қазір қолжетімді емес.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Гороскоптар
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Гороскоптар опциялары
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Көбірек білу
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -833,12 +881,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Кроссворд
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Қаржы
 newtab-custom-widget-stocks-toggle =
     .label = Акциялар
 newtab-custom-widget-picture-toggle =
     .label = Осы күннің суреті
 newtab-custom-widget-search-toggle =
     .label = Іздеу
+newtab-custom-widget-horoscopes-toggle =
+    .label = Гороскоптар
 newtab-custom-widget-recent-searches-toggle =
     .label = Жуырдағы іздеулер
 newtab-custom-widget-section-title = Виджеттер
@@ -1062,6 +1115,11 @@ newtab-wallpaper-celestial-river = Өзеннің жерсеріктік сур�
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Демеушілік
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Ауа райы мәзірін ашу
+    .title = Ауа райы мәзірін ашу
 newtab-weather-menu-change-location = Орналасуды ауыстыру
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Орналасуды іздеу
@@ -1340,6 +1398,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Тізімдер опциялары
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Тізімдер мәзірін ашу
+    .title = Тізімдер мәзірін ашу
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Жаңа тізімді жасау
@@ -1427,6 +1491,11 @@ newtab-widget-timer-menu-notifications-on = Хабарламаларды іск�
 newtab-widget-timer-menu-learn-more = Көбірек білу
 newtab-widget-timer-menu-button =
     .aria-label = Таймер опциялары
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Таймер мәзірін ашу
+    .title = Таймер мәзірін ашу
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Басты жаңалықтар
 newtab-daily-briefing-card-menu-dismiss = Елемеу
@@ -1451,6 +1520,14 @@ newtab-promo-card-cta = Көбірек білу
 newtab-promo-card-dismiss-button =
     .aria-label = Елемеу
     .title = Елемеу
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Кроссворд мәзірін ашу
+    .title = Кроссворд мәзірін ашу
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1855,6 +1932,11 @@ newtab-clock-widget-custom-back = Артқа
 newtab-clock-widget-menu-button2 =
     .aria-label = Сағат опциялары
     .title = Сағат опциялары
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Сағат мәзірін ашу
+    .title = Сағат мәзірін ашу
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

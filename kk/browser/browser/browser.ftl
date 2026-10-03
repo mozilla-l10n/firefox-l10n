@@ -127,6 +127,8 @@ urlbar-result-menu-tip-get-help2 = Көмек алу
     .accesskey = м
 urlbar-result-menu-dismiss-suggestion2 = Бұл ұсынысты елемеу
     .accesskey = м
+urlbar-result-menu-remove-top-site = Бұл топ-сайтты өшіру
+    .accesskey = т
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } басқару
     .accesskey = б
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -970,6 +972,12 @@ urlbar-view-context-menu-open-in-window2 = Жаңа терезеде ашу
     .accesskey = Ж
 urlbar-view-context-menu-open-in-private-window2 = Жаңа жекелік терезесінде ашу
     .accesskey = е
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Tab пернесін пайдаланған кезде бұл мәзірді өткізіп жіберу
+    .accesskey = к
 
 ## Labels shown above groups of urlbar results
 

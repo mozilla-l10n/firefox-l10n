@@ -83,6 +83,9 @@ firefoxview-overview-nav = Жуырдағы шолу
     .title = Жуырдағы шолу
 firefoxview-overview-header = Жуырдағы шолу
     .title = Жуырдағы шолу
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Құрылғылардағы беттер және шолу тарихы
 
 ## History in this context refers to browser history
 

@@ -57,6 +57,9 @@ avatar-selector-add-image = Суретті қосу
 avatar-selector-crop = Қию
 avatar-selector-dialog =
     .aria-label = Аватарды түзету
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Аватарды таңдаңыз
 edit-profile-page-no-name = Бұл профильді кейін оңай табу үшін атаңыз. Кез келген уақытта атын өзгертуге болады.
 edit-profile-page-duplicate-name = Профиль атауы қолдануда болып тұр. Жаңа атауды қолданып көріңіз.
 edit-profile-page-profile-saved = Сақталды

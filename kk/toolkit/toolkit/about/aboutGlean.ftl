@@ -185,6 +185,12 @@ about-glean-no-data-to-display = Көрсетілетін деректер жо�
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>about:glean</code> көрінісінде <code>DualLabeledCounter</code> метрикаларына әлі қолдау көрсетілмейді.
 about-glean-unknown-metric-type-warning = Белгісіз метрика түрі.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Пинг:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Жіберілген пингтерді жадта сақтауға мүмкіндік береді
+    .label = Жіберілген пингтерді сақтау
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

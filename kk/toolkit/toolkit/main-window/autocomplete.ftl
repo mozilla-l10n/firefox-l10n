@@ -31,9 +31,21 @@ autocomplete-delete-password = Бұл парольді өшіру
 autocomplete-edit-address = Бұл адресті түзету
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Бұл адресті өшіру
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = { $entry } адресін өшіру
 autocomplete-edit-payment-method = Бұл төлем әдісін түзету
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Бұл төлем әдісін өшіру
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = { $entry } төлем әдісін өшіру
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Өшіру
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -42,6 +54,13 @@ autocomplete-delete-form-history-entry2 = Форма тарихынан { $entry
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = { $entry } үшін көбірек әрекеттер
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = Көбірек опциялар
+# Accessible name for the button that opens the edit/delete menu. It names the
+# row so screen reader users know which entry the menu belongs to.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-options-for-entry = { $entry } үшін көбірек опциялар
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
