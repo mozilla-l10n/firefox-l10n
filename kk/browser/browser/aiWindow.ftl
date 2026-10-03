@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Вебтен іздеу…
 
 smartbar-mention-typing-placeholder = Бетке немесе сайтқа тег қою
 smartbar-mentions-list-no-results-label = Нәтижелер табылмады
+smartbar-mentions-list-tab-groups-label = Жуырдағы топтар
 smartbar-mentions-list-recent-tabs-label = Жуырдағы беттер
 
 ## Context mentions menu toggle button
