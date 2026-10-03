@@ -57,6 +57,9 @@ avatar-selector-add-image = הוספת תמונה
 avatar-selector-crop = חיתוך
 avatar-selector-dialog =
     .aria-label = עריכת תמונה מייצגת
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = בחירת דמות מייצגת
 edit-profile-page-no-name = יש לתת שם לפרופיל זה כדי לסייע לך למצוא אותו מאוחר יותר. אפשר לשנות את השם שלו בכל עת.
 edit-profile-page-duplicate-name = שם הפרופיל כבר בשימוש. נא לנסות שם חדש.
 edit-profile-page-profile-saved = נשמר

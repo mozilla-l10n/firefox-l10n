@@ -29,3 +29,5 @@ about-glean-label-for-filter-metrics = סינון
 # "Simple type" refers to a value type that does not have deeply-nested data, such as a boolean, number, string, or list of strings.
 about-glean-description-for-filter-metrics = פעולה זו תסנן את הטבלה שלהלן לפי קטגוריה, שם, סוג וערך (אם הערך הוא מסוג פשוט).
 about-glean-button-load-all = טעינת כל הערכים
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = פינג:

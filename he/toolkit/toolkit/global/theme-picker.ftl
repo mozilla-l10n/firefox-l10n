@@ -10,6 +10,9 @@ theme-picker-mode-device = מכשיר
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = מראה
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = ערכות נושא
 theme-picker-use-linux-theme =
     .label = שימוש בערכת הנושא של המערכת ב־Linux
 
