@@ -69,6 +69,9 @@ avatar-selector-add-image = Přidat obrázek
 avatar-selector-crop = Oříznout
 avatar-selector-dialog =
     .aria-label = Upravit ikonku
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Vyberte si profilový obrázek
 edit-profile-page-no-name = Pojmenujte tento profil, abyste ho později mohli snadno najít. Kdykoliv ho můžete přejmenovat.
 edit-profile-page-duplicate-name = Tento název profilu již existuje. Zvolte jiné jméno.
 edit-profile-page-profile-saved = Uloženo

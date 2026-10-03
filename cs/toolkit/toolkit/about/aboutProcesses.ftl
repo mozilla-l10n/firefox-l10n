@@ -16,6 +16,8 @@ about-processes-kill-process =
     .title = Ukončí proces
 about-processes-shutdown-tab =
     .title = Zavřít panel
+about-processes-unload-tab =
+    .title = Uvolní panel
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
