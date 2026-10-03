@@ -144,6 +144,7 @@ smart-window-grouped-tabs-summary =
         [one] "{ $label }" fitxa-taldea sortuta eta fitxa { $count } gehituta.
        *[other] "{ $label }" fitxa-taldea sortuta eta { $count } fitxa gehituta.
     }
+smart-window-grouped-tabs-row-label = Taldekatutako fitxak
 # Action result labels for opened (and grouped) tabs
 # Variables
 #   $count (number) - Number of tabs opened
@@ -167,6 +168,9 @@ smart-window-opened-tabs-summary-group =
         [one] "{ $label }" fitxa-taldea sortuta eta fitxa { $count } irekita.
        *[other] "{ $label }" fitxa-taldea sortuta eta { $count } fitxa irekita.
     }
+smart-window-opened-tabs-row-label = Irekitako fitxak
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Aldatutako fitxak
 # Variables
 #   $title (String) - Title of the tab switched to
 smart-window-switched-tab-summary = "{ $title }" fitxara aldatuta.
