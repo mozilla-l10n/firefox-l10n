@@ -165,7 +165,7 @@ appmenu-fxa-signed-in-label = Пријава
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync. The user can
 # dismiss it, after which the compact sign-in row is shown in its place.
-appmenu-fxa-sign-in-promo-heading2 = Ускладите своје податке са било ког места
+appmenu-fxa-sign-in-promo-heading2 = Ускладите своје податке било где
 appmenu-fxa-sign-in-promo-link = Пријави се
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Одбаци промоцију за пријаву

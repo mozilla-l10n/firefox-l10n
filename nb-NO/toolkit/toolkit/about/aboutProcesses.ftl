@@ -16,6 +16,8 @@ about-processes-kill-process =
     .title = Avslutt prosessen
 about-processes-shutdown-tab =
     .title = Lukk fane
+about-processes-unload-tab =
+    .title = Frigjør fane
 about-processes-go-to-tab =
     .title = Gå til fane
 # Profiler icons

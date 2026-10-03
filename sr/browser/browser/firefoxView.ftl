@@ -21,9 +21,7 @@ firefoxview-syncedtabs-signin-description-2 = Да видите отворене
 firefoxview-syncedtabs-signin-header-3 = Са преносивог рачунара на телефон, без труда
 firefoxview-syncedtabs-signin-description-3 = Задржите своје прегледање доступним на свим уређајима - језичци, лозинке и историја, све усклађено.
 firefoxview-syncedtabs-signin-primarybutton-2 = Пријави се
-firefoxview-syncedtabs-adddevice-header-2 =
-    Зграбите 
-    са било ког места
+firefoxview-syncedtabs-adddevice-header-2 = Зграбите језичке било где
 firefoxview-syncedtabs-adddevice-description-2 = Пријавите се у { -brand-product-name } на вашем телефону или другом рачунару да би се приказали језичци овде. Сазнајте како <a data-l10n-name="url">повезати додатне уређаје</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Преузмите { -brand-product-name } за телефон
 # "Your tabs called" - this is playful messaging indicating that a user can find their synced tabs on their phone.
