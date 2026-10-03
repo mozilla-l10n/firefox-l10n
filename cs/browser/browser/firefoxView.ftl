@@ -105,6 +105,9 @@ firefoxview-overview-nav = Nedávné prohlížení
     .title = Nedávné prohlížení
 firefoxview-overview-header = Nedávné prohlížení
     .title = Nedávné prohlížení
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Panely a historie prohlížení napříč zařízeními
 
 ## History in this context refers to browser history
 

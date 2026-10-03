@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Prohledat web…
 
 smartbar-mention-typing-placeholder = Označit panel nebo stránku
 smartbar-mentions-list-no-results-label = Nenalezeny žádné výsledky
+smartbar-mentions-list-tab-groups-label = Nedávné skupiny
 smartbar-mentions-list-recent-tabs-label = Nedávné panely
 
 ## Context mentions menu toggle button

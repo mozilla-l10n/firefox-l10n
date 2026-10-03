@@ -46,6 +46,34 @@ urlbar-identity-button2 =
             [many] Zobrazit informaci o stránce ({ $count } zablokovaných sledovacích prvků)
            *[other] Zobrazit informaci o stránce ({ $count } zablokovaných sledovacích prvků)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } odkaz
+            [few] { $count } odkazy
+           *[other] { $count } odkazů
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Zprávy a další…
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Zprávy, Pošta a další…
+    .accesskey = Z
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Sdílet…
+    .accesskey = S
 urlbar-identity-button =
     .aria-label = Zobrazit informace o stránce
 
