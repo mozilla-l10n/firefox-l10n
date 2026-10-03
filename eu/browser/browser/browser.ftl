@@ -35,6 +35,33 @@ urlbar-identity-button2 =
             [1] Ikusi gunearen informazioa (jarraipen-elementu bat blokeatuta)
            *[other] Ikusi gunearen informazioa ({ $count } jarraipen-elementu blokeatuta)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] Lotura bat
+           *[other] { $count } lotura
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Messages eta gehiago…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Messages, Mail eta gehiago…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Partekatu…
+    .accesskey = P
 urlbar-identity-button =
     .aria-label = Ikusi gunearen informazioa
 
@@ -100,6 +127,8 @@ urlbar-result-menu-tip-get-help2 = Lortu laguntza
     .accesskey = L
 urlbar-result-menu-dismiss-suggestion2 = Baztertu gomendio hau
     .accesskey = B
+urlbar-result-menu-remove-top-site = Kendu gune erabilienetako hau
+    .accesskey = b
 urlbar-result-menu-manage-firefox-suggest2 = Kudeatu { -firefox-suggest-brand-name }
     .accesskey = K
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -943,6 +972,12 @@ urlbar-view-context-menu-open-in-window2 = Ireki leiho berrian
     .accesskey = h
 urlbar-view-context-menu-open-in-private-window2 = Ireki leiho pribatu berrian
     .accesskey = b
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Saltatu menu hau tabulazio-tekla erabiltzean
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 

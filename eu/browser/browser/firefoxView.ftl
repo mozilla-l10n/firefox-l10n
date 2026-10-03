@@ -83,6 +83,9 @@ firefoxview-overview-nav = Azken historia
     .title = Azken historia
 firefoxview-overview-header = Azken historia
     .title = Azken historia
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Gailuen arteko fitxak eta nabigatze-historia
 
 ## History in this context refers to browser history
 

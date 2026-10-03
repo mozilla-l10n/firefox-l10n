@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] Itxi { $tabCount } fitxa
         }
     .accesskey = x
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Itxi
+    .accesskey = I
 menu-file-close-window =
     .label = Itxi leihoa
     .accesskey = h
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Partekatu
     .accesskey = P
+menu-file-share-qrcode3 =
+    .label = Sortu QR kodea
+    .accesskey = S
 menu-file-share-qrcode =
     .label = Sortu QR kodea…
     .accesskey = Q

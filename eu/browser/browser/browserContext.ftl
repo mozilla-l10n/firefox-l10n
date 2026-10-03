@@ -378,6 +378,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = Ikuskatu
     .accesskey = k
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = Ikuskatu erabilgarritasun-propietateak
+    .accesskey = I
 main-context-menu-inspect-a11y-properties =
     .label = Ikuskatu erabilgarritasun-propietateak
 main-context-menu-eme-learn-more =
