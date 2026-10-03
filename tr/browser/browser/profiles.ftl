@@ -57,6 +57,9 @@ avatar-selector-add-image = Resim ekle
 avatar-selector-crop = Kırp
 avatar-selector-dialog =
     .aria-label = Avatarı düzenle
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Avatar seçin
 edit-profile-page-no-name = Daha sonra bulmanıza yardımcı olması için bu profile bir ad verin. Daha sonra adını değiştirebilirsiniz.
 edit-profile-page-duplicate-name = Bu profil adı zaten kullanılıyor. Yeni bir ad deneyin.
 edit-profile-page-profile-saved = Kaydedildi

@@ -36,6 +36,11 @@ about-processes-profile-process =
 about-processes-column-name = İsim
 about-processes-column-memory-resident = Bellek
 about-processes-column-cpu-total = CPU
+# Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
+about-processes-column-cpu-total-tab = CPU
+    .title = Tüm çekirdeklerdeki toplam CPU kapasitesinin yüzdesi
+# Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
+about-processes-column-memory-resident-tab = RAM
 
 ## Process names
 ## Variables:

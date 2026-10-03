@@ -180,6 +180,10 @@ about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> ölç�
 about-glean-unknown-metric-type-warning = Bilinmeyen ölçüm türü.
 # Label for selection drop-down list containing Pings for selection
 about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Gönderilen ping’lerin bellekte saklanmasını sağlar
+    .label = Gönderilen ping’leri sakla
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

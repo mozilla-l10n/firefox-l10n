@@ -31,9 +31,19 @@ autocomplete-delete-password = Bu parolayı sil
 autocomplete-edit-address = Bu adresi düzenle
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Bu adresi sil
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = { $entry } adresini sil
 autocomplete-edit-payment-method = Bu ödeme yöntemini düzenle
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Bu ödeme yöntemini sil
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = { $entry } ödeme yöntemini kaldır
 # Tooltip for the trash button on a form history entry.
 autocomplete-delete-entry = Sil
 # aria-label for the trash button on a form history entry.
