@@ -606,3 +606,10 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = 생각이 바뀌시면
 onboarding-theme-picker-title = 테마 선택
 onboarding-theme-picker-subtitle = { -brand-short-name }에 더 많은 색상을 가져오세요.
 onboarding-theme-picker-button-label = 저장하고 계속
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = 주요 기능

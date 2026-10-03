@@ -188,6 +188,12 @@ about-glean-no-data-to-display = 표시할 데이터가 없습니다.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> 메트릭은 <code>about:glean</code> 보기에서 아직 지원되지 않습니다.
 about-glean-unknown-metric-type-warning = 알 수 없는 메트릭 유형입니다.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = 핑:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = 제출된 핑의 메모리 저장 활성화
+    .label = 제출된 핑 저장
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

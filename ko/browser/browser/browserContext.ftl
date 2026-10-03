@@ -378,6 +378,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = 검사
     .accesskey = Q
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = 접근성 속성 조사
+    .accesskey = y
 main-context-menu-inspect-a11y-properties =
     .label = 접근성 속성 검사
 main-context-menu-eme-learn-more =

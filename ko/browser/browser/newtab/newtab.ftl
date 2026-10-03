@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = 십자말풀이
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = 금융
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = 주식
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = 검색
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = 오늘의 운세
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = 최근 검색
@@ -167,6 +173,11 @@ newtab-privacy-menu-learn-more = 더 알아보기
 newtab-privacy-widget-menu-button =
     .aria-label = 개인정보 보호 옵션
     .title = 개인정보 보호 옵션
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = 개인정보 보호 메뉴 열기
+    .title = 개인정보 보호 메뉴 열기
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -302,12 +313,23 @@ newtab-privacy-message-first-protection-cta = 보호 기능 보기
 newtab-stocks-menu-learn-more = 더 알아보기
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = 주식 데이터가 없습니다.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = 금융 옵션
+    .title = 금융 옵션
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = 주식 위젯 옵션
     .title = 주식 위젯 옵션
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = 주식 메뉴 열기
+    .title = 주식 메뉴 열기
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -338,6 +360,12 @@ newtab-stocks-list-watchlist = 관심 종목
     .label = 관심 종목
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = 이름 또는 기호로 검색
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = 금융
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -439,6 +467,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = 오늘의 사진 옵션
     .title = 오늘의 사진 옵션
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = 오늘의 사진 메뉴 열기
+    .title = 오늘의 사진 메뉴 열기
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -493,6 +526,11 @@ newtab-search-widget-title = 검색
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = 검색 옵션
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = 검색 메뉴 열기
+    .title = 검색 메뉴 열기
 
 ## Recent searches widget — empty states
 
@@ -500,6 +538,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = 최근 검색이 여기에 표시되므로 언제든지 다시 검색할 수 있습니다.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = 지금은 인기 검색어를 사용할 수 없습니다.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = 오늘의 운세
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = 오늘의 운세 옵션
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = 더 알아보기
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -797,12 +845,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = 십자말풀이
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = 금융
 newtab-custom-widget-stocks-toggle =
     .label = 주식
 newtab-custom-widget-picture-toggle =
     .label = 오늘의 사진
 newtab-custom-widget-search-toggle =
     .label = 검색
+newtab-custom-widget-horoscopes-toggle =
+    .label = 오늘의 운세
 newtab-custom-widget-recent-searches-toggle =
     .label = 최근 검색
 newtab-custom-widget-section-title = 위젯
@@ -1026,6 +1079,11 @@ newtab-wallpaper-celestial-river = 강의 인공위성 이미지
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ 스폰서
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = 날씨 메뉴 열기
+    .title = 날씨 메뉴 열기
 newtab-weather-menu-change-location = 위치 변경
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = 위치 검색
@@ -1304,6 +1362,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = 목록 옵션
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = 목록 메뉴 열기
+    .title = 목록 메뉴 열기
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + 새 목록 만들기
@@ -1391,6 +1455,11 @@ newtab-widget-timer-menu-notifications-on = 알림 켜기
 newtab-widget-timer-menu-learn-more = 더 알아보기
 newtab-widget-timer-menu-button =
     .aria-label = 타이머 옵션
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = 타이머 메뉴 열기
+    .title = 타이머 메뉴 열기
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = 주요 헤드라인
 newtab-daily-briefing-card-menu-dismiss = 닫기
@@ -1415,6 +1484,14 @@ newtab-promo-card-cta = 더 알아보기
 newtab-promo-card-dismiss-button =
     .aria-label = 닫기
     .title = 닫기
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = 십자말풀이 메뉴 열기
+    .title = 십자말풀이 메뉴 열기
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1809,6 +1886,11 @@ newtab-clock-widget-custom-back = 뒤로
 newtab-clock-widget-menu-button2 =
     .aria-label = 시계 옵션
     .title = 시계 옵션
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = 시계 메뉴 열기
+    .title = 시계 메뉴 열기
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

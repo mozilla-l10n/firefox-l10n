@@ -689,6 +689,10 @@ settings-keyboard-shortcuts-group =
     .label = 키보드 단축키
 settings-keyboard-shortcuts-customkeys-link =
     .label = 키보드 단축키 사용자 지정
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = 검색의 주소 표시줄 설정 사용자 지정
 settings-media-group =
     .label = 미디어
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -913,6 +917,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = 주소 표시줄 탐색
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Tab 키로 포커스 이동 시 결과 메뉴 건너뛰기
 search-suggestions-header-2 =
     .label = 검색 엔진 제안
 search-one-click-header2 = 검색 바로 가기

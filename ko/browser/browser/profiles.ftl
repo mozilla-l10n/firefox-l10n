@@ -57,6 +57,9 @@ avatar-selector-add-image = 이미지 추가
 avatar-selector-crop = 자르기
 avatar-selector-dialog =
     .aria-label = 아바타 편집
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = 아바타 선택
 edit-profile-page-no-name = 나중에 쉽게 찾을 수 있도록 프로필의 이름을 지정하세요. 언제든지 이름을 변경할 수 있습니다.
 edit-profile-page-duplicate-name = 이미 사용 중인 프로필 이름입니다. 새로운 이름을 입력하세요.
 edit-profile-page-profile-saved = 저장됨

@@ -83,6 +83,9 @@ firefoxview-overview-nav = 최근 탐색
     .title = 최근 탐색
 firefoxview-overview-header = 최근 탐색
     .title = 최근 탐색
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = 여러 기기의 탭 및 방문 기록
 
 ## History in this context refers to browser history
 
