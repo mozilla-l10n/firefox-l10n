@@ -83,6 +83,9 @@ firefoxview-overview-nav = Πρόσφατη περιήγηση
     .title = Πρόσφατη περιήγηση
 firefoxview-overview-header = Πρόσφατη περιήγηση
     .title = Πρόσφατη περιήγηση
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Καρτέλες και ιστορικό περιήγησης από όλες τις συσκευές σας
 
 ## History in this context refers to browser history
 

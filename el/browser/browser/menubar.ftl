@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] Κλείσιμο { $tabCount } καρτελών
         }
     .accesskey = Κ
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Κλείσιμο
+    .accesskey = Κ
 menu-file-close-window =
     .label = Κλείσιμο παραθύρου
     .accesskey = θ
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Κοινή χρήση
     .accesskey = χ
+menu-file-share-qrcode3 =
+    .label = Δημιουργία κωδικού QR
+    .accesskey = Δ
 menu-file-share-qrcode =
     .label = Δημιουργία κωδικού QR…
     .accesskey = Q

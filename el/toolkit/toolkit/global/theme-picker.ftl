@@ -10,6 +10,9 @@ theme-picker-mode-device = Συσκευή
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Εμφάνιση
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Θέματα
 theme-picker-use-linux-theme =
     .label = Χρήση θέματος συστήματος Linux
 

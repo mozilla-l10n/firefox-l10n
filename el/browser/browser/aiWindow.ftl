@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Κάντε αναζήτηση στο διαδίκ�
 
 smartbar-mention-typing-placeholder = Προσθήκη ετικέτας σε καρτέλα ή ιστότοπο
 smartbar-mentions-list-no-results-label = Δεν βρέθηκαν αποτελέσματα
+smartbar-mentions-list-tab-groups-label = Πρόσφατες ομάδες
 smartbar-mentions-list-recent-tabs-label = Πρόσφατες καρτέλες
 
 ## Context mentions menu toggle button

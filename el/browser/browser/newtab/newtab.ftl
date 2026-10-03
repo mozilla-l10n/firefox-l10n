@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Σταυρόλεξο
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Οικονομικά
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Μετοχές
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Αναζήτηση
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Ζώδια
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Πρόσφατες αναζητήσεις
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = Μάθετε περισσότερα
 newtab-privacy-widget-menu-button =
     .aria-label = Επιλογές απορρήτου
     .title = Επιλογές απορρήτου
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Άνοιγμα μενού απορρήτου
+    .title = Άνοιγμα μενού απορρήτου
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -334,12 +345,23 @@ newtab-privacy-message-first-protection-cta = Προβολή μέτρων προ
 newtab-stocks-menu-learn-more = Μάθετε περισσότερα
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Δεν διατίθενται δεδομένα μετοχών.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Επιλογές οικονομικών
+    .title = Επιλογές οικονομικών
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Επιλογές γραφικού στοιχείου μετοχών
     .title = Επιλογές γραφικού στοιχείου μετοχών
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Άνοιγμα μενού μετοχών
+    .title = Άνοιγμα μενού μετοχών
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -370,6 +392,12 @@ newtab-stocks-list-watchlist = Λίστα παρακολούθησης
     .label = Λίστα παρακολούθησης
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Αναζήτηση με όνομα ή σύμβολο
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Οικονομικά
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -475,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Επιλογές εικόνας ημέρας
     .title = Επιλογές εικόνας ημέρας
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Άνοιγμα μενού εικόνας της ημέρας
+    .title = Άνοιγμα μενού εικόνας της ημέρας
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -529,6 +562,11 @@ newtab-search-widget-title = Αναζήτηση
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Επιλογές αναζήτησης
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Άνοιγμα μενού αναζήτησης
+    .title = Άνοιγμα μενού αναζήτησης
 
 ## Recent searches widget — empty states
 
@@ -536,6 +574,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Οι πρόσφατες αναζητήσεις σας θα εμφανίζονται εδώ, ώστε να μπορείτε να επιστρέφετε σε αυτές ανά πάσα στιγμή.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Οι δημοφιλείς αναζητήσεις δεν είναι διαθέσιμες αυτήν τη στιγμή.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Ζώδια
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Επιλογές ζωδίων
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Μάθετε περισσότερα
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -834,12 +882,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Σταυρόλεξο
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Οικονομικά
 newtab-custom-widget-stocks-toggle =
     .label = Μετοχές
 newtab-custom-widget-picture-toggle =
     .label = Εικόνα της ημέρας
 newtab-custom-widget-search-toggle =
     .label = Αναζήτηση
+newtab-custom-widget-horoscopes-toggle =
+    .label = Ζώδια
 newtab-custom-widget-recent-searches-toggle =
     .label = Πρόσφατες αναζητήσεις
 newtab-custom-widget-section-title = Γραφικά στοιχεία
@@ -1063,6 +1116,11 @@ newtab-wallpaper-celestial-river = Δορυφορική εικόνα ποταμ�
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Χορηγία
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Άνοιγμα μενού καιρού
+    .title = Άνοιγμα μενού καιρού
 newtab-weather-menu-change-location = Αλλαγή τοποθεσίας
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Αναζήτηση τοποθεσίας
@@ -1341,6 +1399,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Επιλογές λιστών
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Άνοιγμα μενού λιστών
+    .title = Άνοιγμα μενού λιστών
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Δημιουργία νέας λίστας
@@ -1428,6 +1492,11 @@ newtab-widget-timer-menu-notifications-on = Ενεργοποίηση ειδοπ�
 newtab-widget-timer-menu-learn-more = Μάθετε περισσότερα
 newtab-widget-timer-menu-button =
     .aria-label = Επιλογές αντίστροφης μέτρησης
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Άνοιγμα μενού αντίστροφης μέτρησης
+    .title = Άνοιγμα μενού αντίστροφης μέτρησης
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Κορυφαίες επικεφαλίδες
 newtab-daily-briefing-card-menu-dismiss = Απόρριψη
@@ -1452,6 +1521,14 @@ newtab-promo-card-cta = Μάθετε περισσότερα
 newtab-promo-card-dismiss-button =
     .aria-label = Απόρριψη
     .title = Απόρριψη
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Άνοιγμα μενού σταυρόλεξου
+    .title = Άνοιγμα μενού σταυρόλεξου
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1857,6 +1934,11 @@ newtab-clock-widget-custom-back = Πίσω
 newtab-clock-widget-menu-button2 =
     .aria-label = Επιλογές ρολογιού
     .title = Επιλογές ρολογιού
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Άνοιγμα μενού ρολογιού
+    .title = Άνοιγμα μενού ρολογιού
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

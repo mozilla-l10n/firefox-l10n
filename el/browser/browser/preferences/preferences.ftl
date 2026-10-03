@@ -925,6 +925,10 @@ search-separate-default-engine-2 =
     .accesskey = Χ
 search-separate-default-engine-dropdown =
     .aria-label = Προεπιλεγμένη μηχανή αναζήτησης σε ιδιωτικά παράθυρα
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Πλοήγηση εντός της γραμμής διευθύνσεων
 search-suggestions-header-2 =
     .label = Προτάσεις μηχανής αναζήτησης
 search-one-click-header2 = Συντομεύσεις αναζήτησης
@@ -1153,6 +1157,9 @@ sync-syncing-across-devices-heading = Μπορείτε να συγχρονίσε
 sync-syncing-across-devices-heading-2 = Συγχρονισμένα δεδομένα μεταξύ των συσκευών
 sync-syncing-across-devices-empty-state2 =
     .description = Δεν συγχρονίζετε τίποτα… ακόμα. Ξεκινήστε τον συγχρονισμό για να λάβετε όλα τα δεδομένα σας σε όλες τις συσκευές σας.
+    .label = Διαχείριση συγχρονισμένων δεδομένων
+sync-syncing-across-devices-empty-state3 =
+    .description = Δεν συγχρονίζεται τίποτα… ακόμα. Επιλέξτε τα δεδομένα που θα συγχρονίζονται σε αυτήν τη συσκευή.
     .label = Διαχείριση συγχρονισμένων δεδομένων
 sync-currently-syncing-bookmarks = Σελιδοδείκτες
 sync-currently-syncing-history = Ιστορικό

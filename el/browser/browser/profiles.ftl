@@ -57,6 +57,9 @@ avatar-selector-add-image = Προσθήκη εικόνας
 avatar-selector-crop = Περικοπή
 avatar-selector-dialog =
     .aria-label = Επεξεργασία εικόνας χρήστη
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Επιλογή εικόνας προφίλ
 edit-profile-page-no-name = Δώστε ένα όνομα στο προφίλ για να το βρείτε πιο εύκολα αργότερα. Μπορείτε να το μετονομάσετε ανά πάσα στιγμή.
 edit-profile-page-duplicate-name = Το όνομα προφίλ χρησιμοποιείται ήδη. Δοκιμάστε ένα νέο όνομα.
 edit-profile-page-profile-saved = Αποθηκεύτηκε
