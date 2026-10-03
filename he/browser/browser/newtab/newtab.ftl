@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = תשבץ
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = שוק ההון
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = מניות
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = חיפוש
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = הורוסקופ
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = חיפושים אחרונים
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = מידע נוסף
 newtab-privacy-widget-menu-button =
     .aria-label = אפשרויות פרטיות
     .title = אפשרויות פרטיות
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = פתיחת תפריט הפרטיות
+    .title = פתיחת תפריט הפרטיות
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -327,12 +338,23 @@ newtab-privacy-message-first-protection-cta = הצגת הגנות
 newtab-stocks-menu-learn-more = מידע נוסף
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = נתוני מניות אינם זמינים.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = אפשרויות שוק ההון
+    .title = אפשרויות שוק ההון
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = אפשרויות ווידג’ט מניות
     .title = אפשרויות ווידג’ט מניות
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = פתיחת תפריט המניות
+    .title = פתיחת תפריט המניות
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -363,6 +385,12 @@ newtab-stocks-list-watchlist = רשימת מעקב
     .label = רשימת מעקב
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = חיפוש לפי שם או סמל
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = שוק ההון
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -468,6 +496,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = אפשרויות של התמונה של היום
     .title = אפשרויות של התמונה של היום
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = פתיחת התפריט של התמונה של היום
+    .title = פתיחת התפריט של התמונה של היום
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -522,6 +555,11 @@ newtab-search-widget-title = חיפוש
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = אפשרויות חיפוש
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = פתיחת תפריט החיפוש
+    .title = פתיחת תפריט החיפוש
 
 ## Recent searches widget — empty states
 
@@ -529,6 +567,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = חיפושים אחרונים יוצגו כאן כך שיהיה באפשרותך להשתמש בהם שוב בכל עת.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = חיפושים פופולריים אינם זמינים כרגע.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = הורוסקופ
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = אפשרויות הורוסקופ
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = מידע נוסף
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -826,12 +874,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = תשבץ
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = שוק ההון
 newtab-custom-widget-stocks-toggle =
     .label = מניות
 newtab-custom-widget-picture-toggle =
     .label = התמונה של היום
 newtab-custom-widget-search-toggle =
     .label = חיפוש
+newtab-custom-widget-horoscopes-toggle =
+    .label = הורוסקופ
 newtab-custom-widget-recent-searches-toggle =
     .label = חיפושים אחרונים
 newtab-custom-widget-section-title = ווידג’טים
@@ -1055,6 +1108,11 @@ newtab-wallpaper-celestial-river = תמונת לוויין של נהר
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = ‏{ $provider } ∙ ממומן
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = פתיחת תפריט מזג האוויר
+    .title = פתיחת תפריט מזג האוויר
 newtab-weather-menu-change-location = שינוי מקום
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = חיפוש מקום
@@ -1333,6 +1391,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = אפשרויות רשימות
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = פתיחת תפריט הרשימות
+    .title = פתיחת תפריט הרשימות
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + יצירת רשימה חדשה
@@ -1420,6 +1484,11 @@ newtab-widget-timer-menu-notifications-on = הפעלת התרעות
 newtab-widget-timer-menu-learn-more = מידע נוסף
 newtab-widget-timer-menu-button =
     .aria-label = אפשרויות שעון עצר
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = פתיחת תפריט שעון עצר
+    .title = פתיחת תפריט שעון עצר
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = כותרות מובילות
 newtab-daily-briefing-card-menu-dismiss = סגירה
@@ -1448,6 +1517,14 @@ newtab-promo-card-cta = מידע נוסף
 newtab-promo-card-dismiss-button =
     .aria-label = סגירה
     .title = סגירה
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = פתיחת תפריט התשבצים
+    .title = פתיחת תפריט התשבצים
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1854,6 +1931,11 @@ newtab-clock-widget-custom-back = חזרה
 newtab-clock-widget-menu-button2 =
     .aria-label = אפשרויות שעון
     .title = אפשרויות שעון
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = פתיחת תפריט השעון
+    .title = פתיחת תפריט השעון
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

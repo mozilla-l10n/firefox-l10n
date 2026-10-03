@@ -50,6 +50,18 @@ menu-share-links =
 menu-share-mac-picker-single =
     .label = ‏AirDrop, הודעות ועוד…
     .accesskey = ה
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = הודעות, דואר ועוד…
+    .accesskey = ד
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = שיתוף…
+    .accesskey = ש
 urlbar-identity-button =
     .aria-label = הצגת נתוני אתר
 
@@ -115,6 +127,8 @@ urlbar-result-menu-tip-get-help2 = קבלת עזרה
     .accesskey = ע
 urlbar-result-menu-dismiss-suggestion2 = סגירה הצעה זו
     .accesskey = ס
+urlbar-result-menu-remove-top-site = הסרת האתר המוביל הזה
+    .accesskey = ה
 urlbar-result-menu-manage-firefox-suggest2 = ניהול { -firefox-suggest-brand-name }
     .accesskey = נ
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -962,6 +976,12 @@ urlbar-view-context-menu-open-in-window2 = פתיחה בחלון חדש
     .accesskey = ח
 urlbar-view-context-menu-open-in-private-window2 = פתיחה בחלון פרטי חדש
     .accesskey = ר
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = דילוג על תפריט זה בעת שימוש במקש ה־Tab
+    .accesskey = ד
 
 ## Labels shown above groups of urlbar results
 

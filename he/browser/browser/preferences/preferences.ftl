@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = קיצורי מקלדת
 settings-keyboard-shortcuts-customkeys-link =
     .label = התאמה אישית של קיצורי מקלדת
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = התאמה אישית של הגדרות שורת הכתובת בחיפוש
 settings-media-group =
     .label = מדיה
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = ח
 search-separate-default-engine-dropdown =
     .aria-label = מנוע חיפוש ברירת מחדל בחלונות פרטיים
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = ניווט בשורת הכתובת
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = דילוג על תפריט התוצאות בעת שימוש במקש ה־Tab כדי להעביר את המיקוד
 search-suggestions-header-2 =
     .label = הצעות מנועי חיפוש
 search-one-click-header2 = קיצורי דרך לחיפוש

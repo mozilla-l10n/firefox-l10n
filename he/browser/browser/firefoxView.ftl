@@ -79,6 +79,9 @@ firefoxview-overview-nav = גלישה אחרונה
     .title = גלישה אחרונה
 firefoxview-overview-header = גלישה אחרונה
     .title = גלישה אחרונה
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = לשוניות והיסטוריית גלישה במכשירים שונים
 
 ## History in this context refers to browser history
 

@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] סגירת { $tabCount } לשוניות
         }
     .accesskey = ס
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = סגירה
+    .accesskey = ס
 menu-file-close-window =
     .label = סגירת חלון
     .accesskey = ס
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = שיתוף
     .accesskey = ש
+menu-file-share-qrcode3 =
+    .label = יצירת קוד QR
+    .accesskey = י
 menu-file-share-qrcode =
     .label = יצירת קוד QR…
     .accesskey = Q
