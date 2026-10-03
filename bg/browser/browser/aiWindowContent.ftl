@@ -36,6 +36,11 @@ aiwindow-jump-to-bottom =
 ## Variables
 ##   $count (number) - Number of tabs closed/restored
 
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] Готово! Разделът е затворен.
+       *[other] Готово! Разделите са затворени.
+    }
 smart-window-closed-tabs-row-label = Затворени раздели
 smart-window-closed-and-restored-label = Затворени и възстановени раздели
 # Button label - "Group" is a verb (action to group tabs)
@@ -48,3 +53,10 @@ smart-window-grouped-and-ungrouped-label = Разделите са разгру�
 ## Action log
 
 action-log-searched-web = Търсене в интернет
+
+## Citations
+
+# Label for the button that reveals overflowing citation sources.
+# Variables:
+#   $count (Number) - Number of the additional hidden sources
+smartwindow-assistant-citations-more-label = + още { $count }
