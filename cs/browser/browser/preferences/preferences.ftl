@@ -1035,6 +1035,10 @@ search-separate-default-engine-2 =
     .accesskey = v
 search-separate-default-engine-dropdown =
     .aria-label = Výchozí vyhledávač v anonymních oknech
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Pohyb v adresním řádku
 search-suggestions-header-2 =
     .label = Návrhy od vyhledávačů
 search-one-click-header2 = Vyhledávače

@@ -850,3 +850,10 @@ onboarding-theme-picker-subtitle =
        *[no-cases] Vneste do aplikace { -brand-short-name } více barev.
     }
 onboarding-theme-picker-button-label = Uložit a pokračovat
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Přehled funkcí

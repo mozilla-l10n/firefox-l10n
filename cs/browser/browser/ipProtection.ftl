@@ -139,6 +139,11 @@ ipprotection-android-promo-callout-primary-button = Rozumím
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Nastavte si vestavěná pravidla pro VPN a pak už jen pokračujte v prohlížení
+ipprotection-site-inclusions-callout-title-lapsed-users = Vyzkoušejte vestavěnou VPN pro jednotlivé webové stránky
+ipprotection-site-inclusions-callout-description = Zapněte ji, kdykoli chcete zvýšit soukromí nebo brouzdat podle polohy, a vypněte tam, kde ji nepotřebujete.
+ipprotection-site-inclusions-callout-primary-button = Nastavit pravidla
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Teď ne
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zavřít
 
