@@ -607,3 +607,10 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Iritziz aldatuz gero, 
 onboarding-theme-picker-title = Hautatu itxura
 onboarding-theme-picker-subtitle = Emaiozu kolore pixka bat gehiago { -brand-short-name }(r)i.
 onboarding-theme-picker-button-label = Gorde eta jarraitu
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Eginbidetik nabarmentzekoak

@@ -10,6 +10,9 @@ theme-picker-mode-device = Gailua
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Itxura
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Itxurak
 theme-picker-use-linux-theme =
     .label = Erabili Linuxeko sistemaren itxura
 

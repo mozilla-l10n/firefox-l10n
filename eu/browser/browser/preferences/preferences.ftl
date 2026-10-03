@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Teklatuaren lasterbideak
 settings-keyboard-shortcuts-customkeys-link =
     .label = Pertsonalizatu teklatuaren lasterbideak
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Pertsonalizatu helbide-barrako ezarpenak bilaketaren atalean
 settings-media-group =
     .label = Multimedia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = b
 search-separate-default-engine-dropdown =
     .aria-label = Bilaketa-motor lehenetsia leiho pribatuetan
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Helbide-barrako nabigazioa
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Saltatu emaitzen menua fokua aldatzeko tabulazio-tekla erabiltzean
 search-suggestions-header-2 =
     .label = Bilaketa-motorren iradokizunak
 search-one-click-header2 = Bilaketa-lasterbideak
@@ -1153,6 +1165,9 @@ sync-syncing-across-devices-heading = Elementu hauek konektatutako zure gailu gu
 sync-syncing-across-devices-heading-2 = Gailuen artean sinkronizatutako datuak
 sync-syncing-across-devices-empty-state2 =
     .description = Ez zara ezer sinkronizatzen ari… oraindik. Hasi sinkronizatzen zure datu guztiak gailu guztietan izateko.
+    .label = Kudeatu sinkronizatutako datuak
+sync-syncing-across-devices-empty-state3 =
+    .description = Ez zara ezer sinkronizatzen ari… oraindik. Aukeratu zer sinkronizatu behar den gailu honetan.
     .label = Kudeatu sinkronizatutako datuak
 sync-currently-syncing-bookmarks = Laster-markak
 sync-currently-syncing-history = Historia

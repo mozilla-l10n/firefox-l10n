@@ -57,6 +57,9 @@ avatar-selector-add-image = Gehitu irudia
 avatar-selector-crop = Moztu
 avatar-selector-dialog =
     .aria-label = Editatu abatarra
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Aukeratu abatarra
 edit-profile-page-no-name = Izendatu profila geroago aurkitzea errazteko. Edonoiz berrizenda dezakezu.
 edit-profile-page-duplicate-name = Profilaren izena badago lehendik. Erabili beste izen bat.
 edit-profile-page-profile-saved = Gordeta
