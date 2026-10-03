@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Web pśepytaś…
 
 smartbar-mention-typing-placeholder = Rejtarik abo sedło wóznamjeniś
 smartbar-mentions-list-no-results-label = Žedne wuslědki namakane
+smartbar-mentions-list-tab-groups-label = Nejnowše kupki
 smartbar-mentions-list-recent-tabs-label = Nejnowše rejtariki
 
 ## Context mentions menu toggle button
