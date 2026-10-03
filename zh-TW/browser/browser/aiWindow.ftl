@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = 搜尋 Web…
 
 smartbar-mention-typing-placeholder = 為分頁或網站加上標籤
 smartbar-mentions-list-no-results-label = 找不到結果
+smartbar-mentions-list-tab-groups-label = 最近的群組
 smartbar-mentions-list-recent-tabs-label = 近期的分頁
 
 ## Context mentions menu toggle button

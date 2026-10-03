@@ -31,9 +31,21 @@ autocomplete-delete-password = Poista tämä salasana
 autocomplete-edit-address = Muokkaa tätä osoitetta
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Poista tämä osoite
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = Poista osoite { $entry }
 autocomplete-edit-payment-method = Muokkaa tätä maksutapaa
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Poista tämä maksutapa
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = Poista maksutapa { $entry }
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Poista
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.

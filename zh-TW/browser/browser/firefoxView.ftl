@@ -83,6 +83,9 @@ firefoxview-overview-nav = 近期瀏覽
     .title = 近期瀏覽
 firefoxview-overview-header = 近期瀏覽
     .title = 近期瀏覽
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = 檢視您所有裝置中開啟的分頁與瀏覽紀錄
 
 ## History in this context refers to browser history
 

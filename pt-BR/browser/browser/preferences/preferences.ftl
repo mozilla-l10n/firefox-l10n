@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Atalhos de teclado
 settings-keyboard-shortcuts-customkeys-link =
     .label = Personalizar atalhos de teclado
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Personalizar configurações da barra de endereços, em Pesquisa
 settings-media-group =
     .label = Mídia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Mecanismo de pesquisa padrão em janelas privativas
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navegação na barra de endereços
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Pular o menu de resultados ao usar a tecla tab para mover o foco
 search-suggestions-header-2 =
     .label = Sugestões de mecanismos de pesquisa
 search-one-click-header2 = Atalhos de pesquisa
