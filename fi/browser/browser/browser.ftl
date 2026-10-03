@@ -36,6 +36,33 @@ urlbar-identity-button2 =
             [one] Näytä sivuston tiedot ({ $count } seurain estetty)
            *[other] Näytä sivuston tiedot ({ $count } seurainta estetty)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } linkki
+           *[other] { $count } linkkiä
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Viestit ja paljon muuta…
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Viestit, sähköposti ja paljon muuta…
+    .accesskey = V
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Jaa…
+    .accesskey = J
 urlbar-identity-button =
     .aria-label = Näytä sivuston tiedot
 
@@ -944,6 +971,12 @@ urlbar-view-context-menu-open-in-window2 = Avaa uuteen ikkunaan
     .accesskey = u
 urlbar-view-context-menu-open-in-private-window2 = Avaa uuteen yksityiseen ikkunaan
     .accesskey = y
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Ohita tämä valikko, kun käytät sarkainnäppäintä
+    .accesskey = O
 
 ## Labels shown above groups of urlbar results
 

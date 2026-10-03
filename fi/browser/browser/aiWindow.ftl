@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Hae verkosta…
 
 smartbar-mention-typing-placeholder = Lisää tunniste välilehdelle tai sivustolle
 smartbar-mentions-list-no-results-label = Tuloksia ei löytynyt
+smartbar-mentions-list-tab-groups-label = Viimeisimmät ryhmät
 smartbar-mentions-list-recent-tabs-label = Viimeisimmät välilehdet
 
 ## Context mentions menu toggle button

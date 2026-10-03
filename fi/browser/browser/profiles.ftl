@@ -57,6 +57,9 @@ avatar-selector-add-image = Lisää kuva
 avatar-selector-crop = Rajaa
 avatar-selector-dialog =
     .aria-label = Muokkaa profiilikuvaa
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Valitse profiilikuva
 edit-profile-page-no-name = Nimeä tämä profiili, jotta tunnistat sen myöhemmin. Nimeä se uudelleen milloin tahansa.
 edit-profile-page-duplicate-name = Profiilin nimi on jo käytössä. Kokeile toista nimeä.
 edit-profile-page-profile-saved = Tallennettu

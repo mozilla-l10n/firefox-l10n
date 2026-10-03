@@ -86,6 +86,11 @@ menu-file-close-tab =
            *[other] Sulje { $tabCount } välilehteä
         }
     .accesskey = S
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Sulje
+    .accesskey = S
 menu-file-close-window =
     .label = Sulje ikkuna
     .accesskey = i
@@ -98,6 +103,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Jaa
     .accesskey = J
+menu-file-share-qrcode3 =
+    .label = Luo QR-koodi
+    .accesskey = L
 menu-file-share-qrcode =
     .label = Luo QR-koodi…
     .accesskey = Q

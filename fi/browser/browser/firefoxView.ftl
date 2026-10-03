@@ -83,6 +83,9 @@ firefoxview-overview-nav = Viimeaikainen selaus
     .title = Viimeaikainen selaus
 firefoxview-overview-header = Viimeaikainen selaus
     .title = Viimeaikainen selaus
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Välilehdet ja selaushistoria eri laitteilla
 
 ## History in this context refers to browser history
 
