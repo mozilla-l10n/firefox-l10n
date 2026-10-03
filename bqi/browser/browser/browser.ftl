@@ -918,6 +918,9 @@ urlbar-group-recent-searches =
 urlbar-group-trending =
     .label = ترند من { $engine }
 # The result menu labels shown next to trending results.
+urlbar-result-menu-trending-dont-show2 = پیتینیڌنا ترند ن نشووݩ مڌین
+    .accesskey = پ
+# The result menu labels shown next to trending results.
 urlbar-result-menu-trending-dont-show =
     .label = پیتینیڌنا ترند ن نشووݩ مڌین
     .accesskey = D

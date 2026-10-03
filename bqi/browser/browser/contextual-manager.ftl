@@ -278,6 +278,9 @@ contextual-manager-passwords-no-passwords-header-2 = رزماتووݩ ن من ی
 ## When the user cancels a login that's currently being edited, we display a message to confirm whether
 ## or not the user wants to discard their current edits to the login.
 
+contextual-manager-passwords-discard-changes-heading-and-message =
+    .heading = بستن بؽ زفت کردن؟
+    .message = آلشتکاریا ایسا زفت نؽبۊون.
 contextual-manager-passwords-discard-changes-close-button = بستن
 contextual-manager-passwords-discard-changes-go-back-button = وورگرت
 #   $total (number) - Total number of passwords
