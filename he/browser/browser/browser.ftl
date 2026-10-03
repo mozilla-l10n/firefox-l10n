@@ -35,6 +35,21 @@ urlbar-identity-button2 =
             [1] הצגת מידע אתר (רכיב מעקב אחד נחסם)
            *[other] הצגת מידע אתר ({ $count } רכיבי מעקב נחסמו)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] קישור אחד
+           *[other] { $count } קישורים
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = ‏AirDrop, הודעות ועוד…
+    .accesskey = ה
 urlbar-identity-button =
     .aria-label = הצגת נתוני אתר
 
