@@ -28,6 +28,10 @@ appearance-browser-icon-subpage-title =
 
 appearance-browser-icon-basic-group =
     .label = Običajne
+# “Bonus” rather than “Special” as these are additional icons unlocked by an
+# action.
+appearance-browser-icon-bonus-group2 =
+    .label = Dodatne
 appearance-browser-icon-bonus-group =
     .label = Posebne
 

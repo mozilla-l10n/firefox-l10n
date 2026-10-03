@@ -50,7 +50,11 @@ autocomplete-remove-password-title = Ali želite odstraniti geslo?
 autocomplete-remove-address-title = Ali želite odstraniti naslov?
 autocomplete-remove-payment-method-title = Ali želite odstraniti plačilno sredstvo?
 autocomplete-remove-record-message = Tega dejanja ne boste mogli razveljaviti.
+autocomplete-delete-record-button = Izbriši
 autocomplete-remove-record-button = Odstrani
+autocomplete-delete-password-title = Ali želite izbrisati geslo?
+autocomplete-delete-address-title = Ali želite izbrisati naslov?
+autocomplete-delete-payment-method-title = Ali želite izbrisati plačilno sredstvo?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

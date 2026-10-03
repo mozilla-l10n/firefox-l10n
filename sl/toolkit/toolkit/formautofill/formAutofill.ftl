@@ -33,6 +33,9 @@ autofill-options-link = Možnosti samodejnega izpolnjevanja obrazcev
 credit-card-doorhanger-credit-cards-sync-checkbox = Sinhroniziraj vse shranjene kartice med napravami
 credit-card-save-doorhanger-header = Želite varno shraniti to kartico?
 credit-card-save-doorhanger-description = { -brand-short-name } šifrira številko vaše kartice. Varnostna koda se ne bo shranila.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } šifrira številko vaše kartice in varnostno kodo, tako da lahko z njimi izpolnjujete plačilne obrazce samo vi.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Vedno shranjuj varnostne kode za plačilna sredstva.
 credit-card-capture-save-button =
     .label = Shrani
     .accessKey = S
@@ -61,6 +64,22 @@ autofill-manage-payment-methods-label = Upravljanje plačilnih sredstev
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV shranjen
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV shranjen
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV shranjen
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV shranjen
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

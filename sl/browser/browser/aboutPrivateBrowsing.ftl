@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = Kdo bi lahko videl mojo dejav
 
 about-private-browsing-nova-info-body = Ob zaprtju vseh zasebnih oken se izbrišejo piškotki, zgodovina in podatki strani.
 about-private-browsing-nova-info-link = Kdo bi lahko kljub temu videl mojo dejavnost?
+about-private-browsing-private-window-basics-link = Osnove zasebnih oken
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
