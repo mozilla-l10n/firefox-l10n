@@ -103,6 +103,7 @@ fxa-adoption-passwords-primary-button-label = سبت نوم
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-chat-callout-title = چت ز نوار وزیفه ایسا
+taskbar-tabs-value-prop-callout-title = ای وبگه ن و نوار وزیفه بیارین
 
 ## Taskbar Tabs callout strings (treatment B copy variants)
 ##
