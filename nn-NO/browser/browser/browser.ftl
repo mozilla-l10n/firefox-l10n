@@ -35,6 +35,21 @@ urlbar-identity-button2 =
             [1] Vis informasjon om nettstaden (1 sporar blokkert)
            *[other] Vis informasjon om nettstaden ({ $count } sporarar blokkerte)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } lenke
+           *[other] { $count } lenker
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Meldingar og meir …
+    .accesskey = A
 # Share entry in the addressbar context menu. Opens the macOS share picker
 # directly, hence the ellipsis.
 urlbar-share-url =

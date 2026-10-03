@@ -177,6 +177,11 @@ newtab-privacy-menu-learn-more = Les meir
 newtab-privacy-widget-menu-button =
     .aria-label = Personverninnstillingar
     .title = Personverninnstillingar
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Opne personvernmenyen
+    .title = Opne personvernmenyen
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -340,12 +345,23 @@ newtab-privacy-message-first-protection-cta = Vis vern
 newtab-stocks-menu-learn-more = Les meir
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Aksjedata er ikkje tilgjengelege.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Finans-innstillingar
+    .title = Finans-innstillingar
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Innstillingar for aksje-widgeten
     .title = Innstillingar for aksje-widgeten
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Opne aksjemenyen
+    .title = Opne aksjemenyen
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.

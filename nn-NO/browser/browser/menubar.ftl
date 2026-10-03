@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] Lat att { $tabCount } faner
         }
     .accesskey = L
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Lat att
+    .accesskey = L
 menu-file-close-window =
     .label = Lat att vindauge
     .accesskey = L
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Del
     .accesskey = e
+menu-file-share-qrcode3 =
+    .label = Opprett QR-kode
+    .accesskey = O
 menu-file-share-qrcode =
     .label = Generer QR-kode…
     .accesskey = G
