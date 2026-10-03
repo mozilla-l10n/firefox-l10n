@@ -38,6 +38,34 @@ urlbar-identity-button2 =
             [many] Паглядзець інфармацыю аб сайце ({ $count } трэкераў заблакавана)
            *[other] Паглядзець інфармацыю аб сайце ({ $count } трэкераў заблакавана)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } спасылка
+            [few] { $count } спасылкі
+           *[many] { $count } спасылак
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, паведамленні і іншае…
+    .accesskey = д
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Паведамленні, пошта і іншае…
+    .accesskey = д
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Падзяліцца…
+    .accesskey = П
 urlbar-identity-button =
     .aria-label = Звесткі аб сайце
 
@@ -103,6 +131,8 @@ urlbar-result-menu-tip-get-help2 = Атрымаць дапамогу
     .accesskey = р
 urlbar-result-menu-dismiss-suggestion2 = Адхіліць гэтую прапанову
     .accesskey = в
+urlbar-result-menu-remove-top-site = Выдаліць гэты топ-сайт
+    .accesskey = г
 urlbar-result-menu-manage-firefox-suggest2 = Кіраваць { -firefox-suggest-brand-name }
     .accesskey = ц
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -953,6 +983,12 @@ urlbar-view-context-menu-open-in-window2 = Адкрыць у новым акн�
     .accesskey = о
 urlbar-view-context-menu-open-in-private-window2 = Адкрыць у новым прыватным акне
     .accesskey = п
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Прапускаць гэта меню пры выкарыстанні клавішы Tab
+    .accesskey = ы
 
 ## Labels shown above groups of urlbar results
 
