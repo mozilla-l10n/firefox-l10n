@@ -388,12 +388,23 @@ newtab-privacy-message-first-protection-cta = Zobrazit ochrany
 newtab-stocks-menu-learn-more = Zjistit více
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Burzové údaje nejsou k dispozici.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Možnosti financí
+    .title = Možnosti financí
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Možnosti widgetu Akcie
     .title = Možnosti widgetu Akcie
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Otevře nabídku pro akcie
+    .title = Otevře nabídku pro akcie
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.

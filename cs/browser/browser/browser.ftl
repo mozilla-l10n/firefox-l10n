@@ -139,6 +139,8 @@ urlbar-result-menu-tip-get-help2 = Získat pomoc
     .accesskey = Z
 urlbar-result-menu-dismiss-suggestion2 = Vyřadit tento návrh
     .accesskey = O
+urlbar-result-menu-remove-top-site = Odebere tuto top stránku
+    .accesskey = O
 urlbar-result-menu-manage-firefox-suggest2 = Spravovat { -firefox-suggest-brand-name }
     .accesskey = S
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -1051,6 +1053,12 @@ urlbar-view-context-menu-open-in-window2 = Otevřít v novém okně
     .accesskey = o
 urlbar-view-context-menu-open-in-private-window2 = Otevřít v novém anonymním okně
     .accesskey = a
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Při použití klávesy Tab tuto nabídku přeskočit
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 

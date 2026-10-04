@@ -75,8 +75,21 @@ about-private-browsing-felt-privacy-v1-info-link = Qui podria veure la meva acti
 
 about-private-browsing-nova-info-body = Tancar totes les finestres privades suprimeix les galetes, l'historial i les dades del lloc.
 about-private-browsing-nova-info-link = Qui podria veure la meva activitat?
+about-private-browsing-private-window-basics-link = Conceptes bàsics de les finestres privades
+about-private-browsing-private-window-redesign-subheader = El { -brand-short-name } està dissenyat per protegir la vostra privadesa mentre navegueu, amb proteccions contra el seguiment integrades. En tancar aquesta finestra, s'esborren l'historial, les galetes i les dades del lloc per mantenir la vostra navegació privada de les altres persones que utilitzen aquest dispositiu.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = No s'està registrant res
 about-private-browsing-nova-info-subheader2 = Esborrarem totes les cerques i els inicis de sessió quan tanqueu totes les vostres finestres privades. Les proteccions incloses al { -brand-short-name } també estan activades, com ara el bloqueig dels elements de seguiment.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Conceptes bàsics de les finestres privades
+about-private-browsing-spotlight-basics-subtitle = Les finestres privades ajuden a mantenir la vostra navegació privada respecte a altres usuaris d'aquest dispositiu. No us fan anònim ni esborren totes les teves dades.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Què cal saber
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Més proteccions de la privadesa

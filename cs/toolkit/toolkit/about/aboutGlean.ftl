@@ -199,6 +199,10 @@ about-glean-dual-labeled-metric-warning = Metriky <code>DualLabeledCounter</code
 about-glean-unknown-metric-type-warning = Neznámý typ metriky.
 # Label for selection drop-down list containing Pings for selection
 about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Umožňuje ukládání odeslaných pingů do paměti
+    .label = Ukládat odeslané pingy
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

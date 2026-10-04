@@ -7,6 +7,11 @@ restart-required-heading2 = Omlouváme se, ale { -brand-short-name } potřebuje 
 restart-required-intro2 = { -brand-short-name } potřebuje dokončit aktualizaci. Restartujte jej, aby vše zůstalo bezpečné a fungovalo bez problémů.
 window-restoration-info2 = Obnovíme všechna okna a panely kromě těch v anonymním režimu.
 restart-required-why-now-question = Proč právě teď?
+restart-required-why-now-answer =
+    { -brand-short-name.case-status ->
+        [with-cases] K tomu může dojít, když dojde k aktualizaci jiného profilu nebo instance { -brand-short-name(case: "gen") }, nebo když aktualizace nemůže počkat až do vašeho příštího restartu.
+       *[no-cases] K tomu může dojít, když dojde k aktualizaci jiného profilu nebo instance aplikace { -brand-short-name }, nebo když aktualizace nemůže počkat až do vašeho příštího restartu.
+    }
 restart-required-more-details-heading = Více informací
 restart-required-multiple-instances-question =
     { -brand-short-name.case-status ->
@@ -19,6 +24,11 @@ restart-required-single-instance-answer =
     { -brand-short-name.case-status ->
         [with-cases] Pokud se během používání { -brand-short-name(case: "gen") } nainstaluje aktualizace na pozadí, může být nutné ji restartovat.
        *[no-cases] Pokud se během používání aplikace { -brand-short-name } nainstaluje aktualizace na pozadí, může být nutné ji restartovat.
+    }
+restart-required-single-instance-answer-2 =
+    { -brand-short-name.case-status ->
+        [with-cases] K tomu může dojít při dlouhém prohlížení nebo když váš operační systém aktualizuje  { -brand-short-name(case: "acc") }. Po restartování zůstane { -brand-short-name } zabezpečený a bude fungovat správně.
+       *[no-cases] K tomu může dojít při dlouhém prohlížení nebo když váš operační systém aktualizuje aplikaci { -brand-short-name }. Po restartování zůstane aplikace { -brand-short-name } zabezpečená a bude fungovat správně.
     }
 restart-required-unsaved-work-question = Hrozí ztráta neuložené práce?
 restart-required-unsaved-work-answer = Možná, a víme, že je to frustrující. { -brand-short-name } sice znovu otevře panely, ale neuloženou práci uvnitř webových stránek, jako například text ve formulářích, obnovit nemusí. Anonymní okna nelze z důvodu ochrany vašeho soukromí znovu otevřít.
