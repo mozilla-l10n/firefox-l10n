@@ -127,6 +127,8 @@ urlbar-result-menu-tip-get-help2 = Få hjelp
     .accesskey = F
 urlbar-result-menu-dismiss-suggestion2 = Avvis dette forslaget
     .accesskey = A
+urlbar-result-menu-remove-top-site = Fjern dette mest besøkte nettstedet
+    .accesskey = F
 urlbar-result-menu-manage-firefox-suggest2 = Behandle { -firefox-suggest-brand-name }
     .accesskey = B
 # Some urlbar suggestions show the user's approximate location as automatically

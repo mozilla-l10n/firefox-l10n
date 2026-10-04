@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Hurtigtaster
 settings-keyboard-shortcuts-customkeys-link =
     .label = Tilpass hurtigtaster
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Tilpass innstillingene for adressefeltet under «Søk»
 settings-media-group =
     .label = Media
 browsing-picture-in-picture-toggle-enabled-2 =

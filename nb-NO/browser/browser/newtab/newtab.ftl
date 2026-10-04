@@ -503,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Innstillinger for «Dagens bilde»
     .title = Innstillinger for «Dagens bilde»
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Åpne dagens bilde-menyen
+    .title = Åpne dagens bilde-menyen
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
