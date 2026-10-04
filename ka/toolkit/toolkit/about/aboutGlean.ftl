@@ -190,6 +190,12 @@ about-glean-no-data-to-display = საჩვენებელი მონა�
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code> აზომვებში ჯერ არაა მხარდაჭერილი და ვერ გამოაჩენს <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = აზომვის უცნობი სახეობა.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = კრებული:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = აამოქმედებს წარდგენილი კრებულების მეხსიერებაში შენახვას
+    .label = წარმოდგენილი კრებულების შენახვა
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

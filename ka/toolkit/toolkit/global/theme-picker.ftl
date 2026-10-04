@@ -10,6 +10,9 @@ theme-picker-mode-device = მოწყობილობის
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = იერსახე
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = თემები
 theme-picker-use-linux-theme =
     .label = გამოიყენოს Linux-სისტემის გაფორმება
 
