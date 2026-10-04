@@ -88,7 +88,7 @@ home-prefs-sections-rows-option-srd =
            *[other] { $num } sətir
         }
 home-restore-defaults-srd =
-    .label = İlkin Seçənəkləri Bərpa et
+    .label = İlkin vəziyyəti bərpa et
     .accesskey = R
 home-mode-choice-custom-srd =
     .label = Fərdi Ünvanlar…

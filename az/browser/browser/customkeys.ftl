@@ -18,7 +18,9 @@ customkeys-tools-screenshot = Ekran görüntüsü al
 
 ## Confirmation dialogs
 
+customkeys-reset-all-confirm-title = İlkin vəziyyət bərpa edilsin?
 customkeys-reset-all-confirm-body = Yaratdığınız bütün özəl klaviatura qısayolları aradan qaldırılacaq.
+customkeys-reset-all-confirm-button-confirm = İlkin vəziyyəti bərpa et
 
 ## Sidebar
 
@@ -29,3 +31,4 @@ customkeys-search-input =
     .aria-label = Qısayolları axtar
     .placeholder = Qısayolları axtar
 customkeys-support-link-text = Ətraflı öyrənin
+customkeys-reset-all-button = İlkin vəziyyəti bərpa et
