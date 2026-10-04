@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = კლავიატურის მალსახმობები
 settings-keyboard-shortcuts-customkeys-link =
     .label = კლავიატურის მალსახმობების მორგება
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = მოირგეთ მისამართების ველის პარამეტრები საძიებოში
 settings-media-group =
     .label = ფაილები
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,10 @@ search-separate-default-engine-2 =
     .accesskey = რ
 search-separate-default-engine-dropdown =
     .aria-label = ნაგულისხმევი საძიებო პირად ფანჯრებში
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = მისამართების ველში გადაადგილება
 search-suggestions-header-2 =
     .label = საძიებოს შემოთავაზებები
 search-one-click-header2 = ძიების მალსახმობები
