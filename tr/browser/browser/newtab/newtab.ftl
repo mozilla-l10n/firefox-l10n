@@ -1486,6 +1486,11 @@ newtab-widget-timer-menu-notifications-on = Bildirimleri aç
 newtab-widget-timer-menu-learn-more = Daha fazla bilgi al
 newtab-widget-timer-menu-button =
     .aria-label = Sayaç seçenekleri
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Sayaç menüsünü aç
+    .title = Sayaç menüsünü aç
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Öne çıkan başlıklar
 newtab-daily-briefing-card-menu-dismiss = Kapat
@@ -1510,6 +1515,14 @@ newtab-promo-card-cta = Daha fazla bilgi alın
 newtab-promo-card-dismiss-button =
     .aria-label = Kapat
     .title = Kapat
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Çapraz bulmaca menüsünü aç
+    .title = Çapraz bulmaca menüsünü aç
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1822,6 +1835,10 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = { -brand-product-name } tarayıcınıza son dokunuşları yapın
 newtab-nova-customization-callout-primary-button =
     .label = Tarzınızı seçin
 

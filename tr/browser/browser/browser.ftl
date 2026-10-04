@@ -128,6 +128,8 @@ urlbar-result-menu-tip-get-help2 = Yardım al
     .accesskey = Y
 urlbar-result-menu-dismiss-suggestion2 = Bu öneriyi kapat
     .accesskey = B
+urlbar-result-menu-remove-top-site = Sık kullanılanlardan kaldır
+    .accesskey = S
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } yönet
     .accesskey = n
 # Some urlbar suggestions show the user's approximate location as automatically

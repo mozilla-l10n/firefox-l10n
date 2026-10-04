@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Web’de arama yapın…
 
 smartbar-mention-typing-placeholder = Bir sekmeyi veya siteyi etiketle
 smartbar-mentions-list-no-results-label = Sonuç bulunamadı
+smartbar-mentions-list-tab-groups-label = Son gruplar
 smartbar-mentions-list-recent-tabs-label = Son sekmeler
 
 ## Context mentions menu toggle button
