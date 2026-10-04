@@ -90,6 +90,12 @@ about-private-browsing-spotlight-basics-subtitle = Les finestres privades ajuden
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Què cal saber
+about-private-browsing-spotlight-basics-activity-seen = És possible que, tot i així els llocs web, els motors de cerca, els proveïdors d'Internet o l'empresa per a la qual treballeu vegin algun tipus d'activitat.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Les adreces d'interès i les baixades romanen al dispositiu i poden aparèixer a la barra d'adreces.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Més proteccions de la privadesa
+about-private-browsing-spotlight-basics-malware-alerts = El { -brand-short-name } us avisa automàticament en cas de programari maliciós i llocs web enganyosos.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = El { -brand-short-name } sol·licita automàticament als llocs web participants que no venguin ni comparteixin les vostres dades personals.
+about-private-browsing-spotlight-basics-vpn = Utilitzeu una VPN integrada per tal que sigui més difícil fer el seguiment de la vostra ubicació.
