@@ -163,6 +163,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Tam ekrandan çıx
     .accesskey = e
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-watch-pip =
+    .label = Şəkildə şəkil rejimində izlə
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Şəkli Yenilə
     .accesskey = Y

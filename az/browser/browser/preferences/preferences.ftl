@@ -339,6 +339,10 @@ performance-default-content-process-count =
     .label = { $num } (standart)
 performance-group =
     .label = Məhsuldarlıq
+performance-use-recommended-settings-checkbox-2 =
+    .description = Bu ayarlar sizin avadanlığınız və əməliyyat sisteminizə uyğun qurulmuşdur.
+    .label = Tövsiyə olunan məhsuldarlıq tənzimləmələrini işlət
+    .accesskey = U
 
 ## Accessibility page
 
@@ -357,6 +361,12 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yazmağa başladığınız zaman söz axtarılsın
     .accesskey = x
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = Şəkil içində şəkil rejimindən istifadə et
+    .accesskey = e
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = Bir vərəqdən digərinə keçəndə videoları şəkildə şəkil rejimində oynatmağa davam et
+    .accesskey = s
 recommendations-group =
     .label = Tövsiyələr
 browsing-cfr-recommendations =

@@ -408,6 +408,16 @@ reader-view-enter-button =
 reader-view-close-button =
     .aria-label = Oxuma Görüntüsünü qapat
 
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Şəkildə şəkil rejimində aç ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Şəkil içində şəkli bağla ({ $shortcut })
+picture-in-picture-panel-header = Şəkil içində şəkil
+
 ## Full Screen and Pointer Lock UI
 
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.

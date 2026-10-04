@@ -5,6 +5,7 @@
 
 ## Added shortcuts:
 
+customkeys-view-picture-in-picture = Şəkil içində şəkil
 customkeys-view-add-split-view = Bölünmüş Görünüşə Əlavə et
 # Separate is a verb
 customkeys-view-separate-split-view = Bölünmüş Görünüşü Ayır
