@@ -79,7 +79,7 @@ text-action-copy-link-to-highlight =
 # it creates a link with a text fragment to the current selection
 # and it strips trackers etc.
 text-action-copy-clean-link-to-highlight =
-    .label = Copia l'enllaç net per a ressaltar
+    .label = Copia l'enllaç net a la part ressaltada
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight =

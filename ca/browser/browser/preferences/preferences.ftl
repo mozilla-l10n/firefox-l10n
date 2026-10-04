@@ -2181,5 +2181,8 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-manage-exceptions-button =
+    .description = Gestioneu els llocs web on la protecció contra el seguiment millorada està desactivada.
+    .label = Gestiona les excepcions
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Aïlla les galetes entre llocs
