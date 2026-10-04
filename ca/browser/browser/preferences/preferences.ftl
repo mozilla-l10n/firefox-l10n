@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Dreceres de teclat
 settings-keyboard-shortcuts-customkeys-link =
     .label = Personalitza les dreceres de teclat
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Personalitzeu els paràmetres de la barra d'adreces a Cerca
 settings-media-group =
     .label = Multimèdia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Motor de cerca per defecte en les finestres privades
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navegació per la barra d'adreces
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Omet el menú de resultats quan s'utilitza la tecla de tabulació per moure el focus
 search-suggestions-header-2 =
     .label = Suggeriments de motors de cerca
 search-one-click-header2 = Dreceres de cerca
@@ -998,6 +1010,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = Selecciona un contenidor per a cada pestanya nova
     .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = No utilitzis contenidors per a enllaços oberts des d'aplicacions externes
+    .accesskey = N
 containers-new-tab-check2 =
     .description = Això obrirà el menú contenidors cada vegada que premeu el botó Obre una pestanya nova.
     .label = Selecciona un contenidor per a cada pestanya nova
@@ -1005,6 +1023,18 @@ containers-new-tab-check2 =
 containers-settings-button2 =
     .title = Paràmetres
 containers-remove-button3 =
+    .title = Suprimeix
+containers-sites-card-header =
+    .description = Trieu un contenidor per a un lloc web i el { -brand-short-name } l'utilitzarà cada vegada que s'obri aquell lloc.
+    .label = Contenidors específics del lloc
+containers-sites-add-button =
+    .label = Afegeix un lloc web
+    .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = Contenidor per a { $site }
+containers-site-remove-button =
     .title = Suprimeix
 containers-remove-button2 =
     .title = Elimina
@@ -1135,6 +1165,9 @@ sync-syncing-across-devices-heading = Actualment, sincronitzeu aquests elements 
 sync-syncing-across-devices-heading-2 = Dades sincronitzades entre dispositius
 sync-syncing-across-devices-empty-state2 =
     .description = Encara no esteu sincronitzant res… Comenceu a sincronitzar per accedir a totes les vostres dades en tots els vostres dispositius.
+    .label = Gestiona les dades sincronitzades
+sync-syncing-across-devices-empty-state3 =
+    .description = Encara no esteu sincronitzant res… Trieu què voleu sincronitzar en aquest dispositiu.
     .label = Gestiona les dades sincronitzades
 sync-currently-syncing-bookmarks = Adreces d'interès
 sync-currently-syncing-history = Historial
@@ -1356,6 +1389,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Demana iniciar la sessió en el dispositiu per emplenar automàticament i gestionar les formes de pagament
     .accesskey = o
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Desa els codis de seguretat
+    .accesskey = c
 autofill-payment-methods-add-button = Afegeix una forma de pagament nova
 payments-list-header =
     .label = Formes de pagament
@@ -1422,6 +1459,23 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV desat
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV desat
     .label = { $cardNumber }
 addresses-group =
     .label = Adreces i altra informació
