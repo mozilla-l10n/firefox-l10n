@@ -1839,6 +1839,7 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 # makes something yours. The call to action is to open the New Tab
 # customization panel and pick a theme or wallpaper.
 newtab-nova-customization-callout-header = { -brand-product-name } tarayıcınıza son dokunuşları yapın
+newtab-nova-customization-callout-message = Yeni { -brand-product-name } tarayıcınızı size özel kılacak temaları ve duvar kâğıtlarını keşfedin.
 newtab-nova-customization-callout-primary-button =
     .label = Tarzınızı seçin
 

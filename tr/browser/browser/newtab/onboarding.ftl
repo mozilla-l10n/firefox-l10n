@@ -541,6 +541,8 @@ onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor
 
 ## First Run Onboarding refresh strings
 
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } şu andan itibaren sizi kolluyor
 onboarding-refresh-hero-text = Sizi izlemek için değil, korumak için geliştirildi.
 onboarding-refresh-tou-default = Tüm bağlantıları { -brand-short-name } ile açın
 onboarding-refresh-tou-pin-unchecked = Tek büyük bağımsız tarayıcı hep yanınızda olsun
@@ -598,3 +600,10 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Fikrinizi değiştirir
 onboarding-theme-picker-title = Tema seçin
 onboarding-theme-picker-subtitle = { -brand-short-name } tarayıcınıza renk katın.
 onboarding-theme-picker-button-label = Kaydet ve devam et
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Öne çıkanlar
