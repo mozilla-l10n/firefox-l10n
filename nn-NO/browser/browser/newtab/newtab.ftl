@@ -503,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Innstillingar for «Dagens bilde»
     .title = Innstillingar for «Dagens bilde»
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Opne dagens bilde-menyen
+    .title = Opne dagens bilde-menyen
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -557,6 +562,11 @@ newtab-search-widget-title = Søk
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Søkjeinnstillingar
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Opne søk-menyen
+    .title = Opne søk-menyen
 
 ## Recent searches widget — empty states
 
@@ -1106,6 +1116,11 @@ newtab-wallpaper-celestial-river = Satellittbilde av elv
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsa
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Opne vêr-menyen
+    .title = Opne vêr-menyen
 newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Søk plassering
@@ -1384,6 +1399,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Listeinnstillingar
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Opne liste-menyen
+    .title = Opne liste-menyen
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Lag ei ny liste
@@ -1471,6 +1492,11 @@ newtab-widget-timer-menu-notifications-on = Slå på varsel
 newtab-widget-timer-menu-learn-more = Les meir
 newtab-widget-timer-menu-button =
     .aria-label = Timer-innstillingar
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Opne timer-menyen
+    .title = Opne timer-menyen
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Toppoverskrifter
 newtab-daily-briefing-card-menu-dismiss = Ignorer
@@ -1495,6 +1521,14 @@ newtab-promo-card-cta = Les meir
 newtab-promo-card-dismiss-button =
     .aria-label = Avvis
     .title = Avvis
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Opne kryssord-menyen
+    .title = Opne kryssord-menyen
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1899,6 +1933,11 @@ newtab-clock-widget-custom-back = Tilbake
 newtab-clock-widget-menu-button2 =
     .aria-label = Klokkeinnstillinger
     .title = Klokkeinnstillinger
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Opne klokke-menyen
+    .title = Opne klokke-menyen
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

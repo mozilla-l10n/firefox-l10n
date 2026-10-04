@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Hurtigtastar
 settings-keyboard-shortcuts-customkeys-link =
     .label = Tilpass hurtigtastar
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Tilpass innstillingane for adressefeltet under «Søk»
 settings-media-group =
     .label = Media
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = B
 search-separate-default-engine-dropdown =
     .aria-label = Standard søkjemotor i private vindauge
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigering i adresselinja
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Hopp over resultatmenyen når du brukar tabulatortasten til å flytte fokus
 search-suggestions-header-2 =
     .label = Søkjemotorforslag
 search-one-click-header2 = Søkjehurtigtastar
@@ -1153,6 +1165,9 @@ sync-syncing-across-devices-heading = Du synkroniserer desse elementa mellom all
 sync-syncing-across-devices-heading-2 = Data synkroniserte på tvers av einingar
 sync-syncing-across-devices-empty-state2 =
     .description = Du synkroniserer ingenting … enno. Start synkronisering for å få alle dataa dine på alle einingane dine.
+    .label = Handsam synkroniserte data
+sync-syncing-across-devices-empty-state3 =
+    .description = Du synkroniserer ingenting … enno. Vel kva du vil synkronisere på denne eininga.
     .label = Handsam synkroniserte data
 sync-currently-syncing-bookmarks = Bokmerke
 sync-currently-syncing-history = Historikk

@@ -83,6 +83,9 @@ firefoxview-overview-nav = Nyleg besøkt
     .title = Nyleg besøkt
 firefoxview-overview-header = Nyleg besøkt
     .title = Nyleg besøkt
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Faner og nettlesarhistorikk på tvers av einingar
 
 ## History in this context refers to browser history
 

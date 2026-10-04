@@ -127,6 +127,8 @@ urlbar-result-menu-tip-get-help2 = Få hjelp
     .accesskey = F
 urlbar-result-menu-dismiss-suggestion2 = Avvis dette forslaget
     .accesskey = A
+urlbar-result-menu-remove-top-site = Fjern denne mest besøkte nettstaden
+    .accesskey = F
 urlbar-result-menu-manage-firefox-suggest2 = Handsam { -firefox-suggest-brand-name }
     .accesskey = H
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -970,6 +972,12 @@ urlbar-view-context-menu-open-in-window2 = Opne i nytt vindauge
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window2 = Opne i nytt privat vindauge
     .accesskey = p
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Hopp over denne menyen når du brukar tabulatortasten
+    .accesskey = H
 
 ## Labels shown above groups of urlbar results
 

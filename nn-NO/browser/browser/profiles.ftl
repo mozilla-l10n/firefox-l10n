@@ -57,6 +57,9 @@ avatar-selector-add-image = Legg til eit bilde
 avatar-selector-crop = Sker til
 avatar-selector-dialog =
     .aria-label = Rediger avatar
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Vel ein avatar
 edit-profile-page-no-name = Gi denne profilen eit namn for å hjelpe deg med å finne han seinare. Byt namn når som helst.
 edit-profile-page-duplicate-name = Profilnamnet er allereie i bruk.
 edit-profile-page-profile-saved = Lagra
