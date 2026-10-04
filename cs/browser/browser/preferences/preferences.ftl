@@ -798,6 +798,10 @@ settings-keyboard-shortcuts-group =
     .label = Klávesové zkratky
 settings-keyboard-shortcuts-customkeys-link =
     .label = Přizpůsobení klávesových zkratek
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Upravit nastavení adresního řádku v sekci Vyhledávání
 settings-media-group =
     .label = Média
 browsing-picture-in-picture-toggle-enabled-2 =
