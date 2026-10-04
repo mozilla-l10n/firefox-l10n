@@ -2128,6 +2128,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .description = Vegeu un resum ràpid de l'enllaç abans d'obrir-lo.
     .label = Punts clau a les previsualitzacions dels enllaços
+preferences-ai-controls-speech-recognition-control =
+    .description = Transcriviu la parla en local.
+    .label = Reconeixement de la parla
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Disponible
