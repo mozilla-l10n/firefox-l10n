@@ -17,3 +17,5 @@ reader-view = Oxuyucu Görünüşü
 open-location = Ünvanı daxil et və ya axtar
 share = Paylaş
 close-window = Pəncərəni Qapat
+# This string describes shortcuts for search.
+search-popover = Qısayolları axtar
