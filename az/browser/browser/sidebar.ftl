@@ -29,10 +29,19 @@ sidebar-context-menu-customize-sidebar =
 
 sidebar-menu-genai-chat-label =
     .label = Sİ söhbət botu
+sidebar-menu-synced-tabs-label =
+    .label = Digər cihazda olan vərəqələr
 sidebar-menu-customize-label =
     .label = Yan paneli özəlləşdir
 sidebar-menu-more-tools-label =
     .label = Daha çox alət
+
+## Tooltips for sidebar menu items.
+
+# The tooltip to show over the history icon, when history is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-history-tooltip = Tarixçəni aç ({ $shortcut })
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
@@ -46,10 +55,13 @@ sidebar-menu-close-ai-chatbot-tooltip-generic = Sİ söhbət botunu bağla ({ $s
 
 sidebar-menu-customize-header =
     .heading = Yan paneli özəlləşdir
+sidebar-menu-syncedtabs-header =
+    .heading = Digər cihazda olan vərəqələr
 
 ## Titles for sidebar menu panels.
 
 sidebar-customize-title = Yan paneli özəlləşdir
+sidebar-syncedtabs-title = Digər cihazda olan vərəqələr
 
 ## Context for closing synced tabs when hovering over the items
 

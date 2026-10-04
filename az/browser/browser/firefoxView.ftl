@@ -10,6 +10,12 @@ firefoxview-recently-closed-nav = Son qapadılmış vərəqlər
     .title = Son qapadılmış vərəqlər
 firefoxview-recently-closed-header = Son qapadılmış vərəqlər
 
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+firefoxview-synced-tabs-nav = Digər cihazda olan vərəqələr
+    .title = Digər cihazda olan vərəqələr
+firefoxview-synced-tabs-header = Digər cihazda olan vərəqələr
+
 ##
 
 # Placeholder for the input field to search in recently closed tabs ("search" is a verb).

@@ -397,6 +397,8 @@ home-section =
 
 ## Home Section - Default Browser
 
+is-default-browser-2 =
+    .message = { -brand-short-name } sizin əsas səyyahınızdır. Düzgün seçimdir.
 is-not-default-browser-2 =
     .message = Psst, { -brand-short-name } sizin əsas səyyahınız deyil.
 set-as-my-default-browser-2 =
