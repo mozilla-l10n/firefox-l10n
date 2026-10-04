@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] { $tabCount } ჩანართის დახურვა
         }
     .accesskey = უ
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = დახურვა
+    .accesskey = დ
 menu-file-close-window =
     .label = ფანჯრის დახურვა
     .accesskey = ხ
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = გაზიარება
     .accesskey = ზ
+menu-file-share-qrcode3 =
+    .label = QR-კოდის შედგენა
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = QR-კოდის შედგენა…
     .accesskey = ო

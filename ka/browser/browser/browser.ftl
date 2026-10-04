@@ -36,6 +36,33 @@ urlbar-identity-button2 =
             [one] საიტის მონაცემების ნახვა ({ $count } მეთვალყურე შეიზღუდა)
            *[other] საიტის მონაცემების ნახვა ({ $count } მეთვალყურე შეიზღუდა)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } ბმული
+           *[other] { $count } ბმული
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, მიმოწერები და სხვა…
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = მიმოწერები, ფოსტა და სხვა…
+    .accesskey = შ
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = გაზიარება…
+    .accesskey = გ
 urlbar-identity-button =
     .aria-label = საიტის ინფორმაციის ჩვენება
 
@@ -101,6 +128,8 @@ urlbar-result-menu-tip-get-help2 = დახმარების მიღე�
     .accesskey = ხ
 urlbar-result-menu-dismiss-suggestion2 = ამ შეთავაზების აცილება
     .accesskey = ც
+urlbar-result-menu-remove-top-site = ამ რჩეული საიტის მოცილება
+    .accesskey = რ
 urlbar-result-menu-manage-firefox-suggest2 = მართეთ { -firefox-suggest-brand-name }
     .accesskey = მ
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -944,6 +973,12 @@ urlbar-view-context-menu-open-in-window2 = გახსნა ახალ ფ�
     .accesskey = ფ
 urlbar-view-context-menu-open-in-private-window2 = გახსნა ახალ პირად ფანჯარაში
     .accesskey = პ
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = ამ მენიუს გამოტოვება Tab-ღილაკით გადაადგილებისას
+    .accesskey = ტ
 
 ## Labels shown above groups of urlbar results
 

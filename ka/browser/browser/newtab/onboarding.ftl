@@ -605,5 +605,12 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = თუ გადაი
 ## Theme Picker screen strings
 
 onboarding-theme-picker-title = აირჩიეთ გაფორმება
-onboarding-theme-picker-subtitle = ცოტა უფრო უკეთ შეაფერადეთ { -brand-short-name }.
+onboarding-theme-picker-subtitle = კიდევ უფრო მეტად შეაფერადეთ { -brand-short-name }.
 onboarding-theme-picker-button-label = შეინახეთ და განაგრძეთ
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = გამორჩეული შესაძლებლობები

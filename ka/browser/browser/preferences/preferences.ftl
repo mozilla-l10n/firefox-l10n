@@ -933,6 +933,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = მისამართების ველში გადაადგილება
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = შედეგების მენიუს გამოტოვება Tab-ღილაკით გადაადგილებისას
 search-suggestions-header-2 =
     .label = საძიებოს შემოთავაზებები
 search-one-click-header2 = ძიების მალსახმობები
@@ -1162,6 +1166,9 @@ sync-syncing-across-devices-heading-2 = მონაცემები დას
 sync-syncing-across-devices-empty-state2 =
     .description = ჯერ არაფერი დაგისინქრონებიათ… დაიწყეთ დასინქრონება, რომ თქვენი მონაცემები ხელთ გქონდეთ ყველა თქვენს მოწყობილობაზე.
     .label = მართეთ დასინქ. მონაცემები
+sync-syncing-across-devices-empty-state3 =
+    .description = ჯერ არაფერი დასინქრონებულა… აირჩიეთ, რისი დასინქრონება გსურთ ამ მოწყობილობაზე.
+    .label = დასინქ. მონაცემების მართვა
 sync-currently-syncing-bookmarks = სანიშნები
 sync-currently-syncing-history = ისტორია
 sync-currently-syncing-tabs = გახსნილი ჩანართები

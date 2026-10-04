@@ -83,6 +83,9 @@ firefoxview-overview-nav = ბოლოს მონახულებული
     .title = ბოლოს მონახულებული
 firefoxview-overview-header = ბოლოს მონახულებული
     .title = ბოლოს მონახულებული
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = ჩანართებისა და გვერდების ისტორია სხვადასხვა მოწყობილობაზე
 
 ## History in this context refers to browser history
 
