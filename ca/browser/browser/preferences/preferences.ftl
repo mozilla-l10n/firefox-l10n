@@ -2096,6 +2096,8 @@ appearance-window-density-touch =
     .label = Tàctil
 related-settings-group =
     .label = Paràmetres relacionats
+related-settings-accessibility-link =
+    .label = Personalitzeu els paràmetres del zoom i tipus de lletra a Accessibilitat
 related-settings-home-link =
     .label = Personalitza { -firefox-home-brand-name }
 related-settings-tabs-browsing-link =
@@ -2123,6 +2125,9 @@ preferences-ai-controls-pdfjs-control =
 preferences-ai-controls-tab-group-suggestions-control =
     .description = Obteniu suggeriments per anomenar i organitzar les pestanyes
     .label = Suggeriments de grups de pestanyes
+preferences-ai-controls-key-points-control =
+    .description = Vegeu un resum ràpid de l'enllaç abans d'obrir-lo.
+    .label = Punts clau a les previsualitzacions dels enllaços
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Disponible
@@ -2181,8 +2186,15 @@ issue-card-dismiss-button =
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .description = Els llocs web utilitzen elements que fan el seguiment de la vostra navegació i que mostren anuncis esgarrifosos. El { -brand-short-name } us protegeix mentre navegueu, blocant els elements de seguiment automàticament perquè tingueu el control del vostre rastre digital.
+    .label = Protecció contra el seguiment millorada
+preferences-etp-reload-tabs-hint =
+    .message = Torneu a carregar les pestanyes per aplicar aquests canvis.
 preferences-etp-manage-exceptions-button =
     .description = Gestioneu els llocs web on la protecció contra el seguiment millorada està desactivada.
     .label = Gestiona les excepcions
+preferences-etp-customize-header =
+    .heading = Personalitzeu la protecció contra el seguiment
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Aïlla les galetes entre llocs
