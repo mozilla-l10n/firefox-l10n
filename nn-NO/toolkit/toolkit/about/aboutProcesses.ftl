@@ -36,6 +36,9 @@ about-processes-profile-process =
 about-processes-column-name = Namn
 about-processes-column-memory-resident = Minne
 about-processes-column-cpu-total = Prosessor
+# Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
+about-processes-column-cpu-total-tab = CPU
+    .title = % av total CPU-kapasitet på tvers av alle kjerner
 # Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
 about-processes-column-memory-resident-tab = RAM
 
