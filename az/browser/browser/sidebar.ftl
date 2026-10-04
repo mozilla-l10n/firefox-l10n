@@ -42,6 +42,10 @@ sidebar-menu-more-tools-label =
 # Variables:
 #   $shortcut (String) - The OS specific keyboard shortcut.
 sidebar-menu-open-history-tooltip = Tarixçəni aç ({ $shortcut })
+# The tooltip to show over the bookmarks icon, when bookmarks is not currently showing.
+# Variables:
+#   $shortcut (String) - The OS specific keyboard shortcut.
+sidebar-menu-open-bookmarks-tooltip = Əlfəcinləri aç ({ $shortcut })
 
 ## Tooltips displayed over the AI chatbot icon.
 ## Variables:
