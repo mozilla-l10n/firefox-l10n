@@ -929,6 +929,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = Navigering i adresselinjen
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Hopp over resultatmenyen når du bruker tabulatortasten til å flytte fokus
 search-suggestions-header-2 =
     .label = Søkemotorforslag
 search-one-click-header2 = Søkesnarveier
@@ -1157,6 +1161,9 @@ sync-syncing-across-devices-heading = Du synkroniserer disse elementene mellom a
 sync-syncing-across-devices-heading-2 = Data synkronisert på tvers av enheter
 sync-syncing-across-devices-empty-state2 =
     .description = Du synkroniserer ingenting … ennå. Start synkronisering for å få alle dataene dine på alle enhetene dine.
+    .label = Behandle synkroniserte data
+sync-syncing-across-devices-empty-state3 =
+    .description = Du synkroniserer ingenting … ennå. Velg hva du vil synkronisere på denne enheten.
     .label = Behandle synkroniserte data
 sync-currently-syncing-bookmarks = Bokmerker
 sync-currently-syncing-history = Historikk

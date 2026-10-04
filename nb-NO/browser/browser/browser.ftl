@@ -970,6 +970,12 @@ urlbar-view-context-menu-open-in-window2 = Åpne i nytt vindu
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window2 = Åpne i nytt privat vindu
     .accesskey = p
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Hopp over denne menyen når du bruker tabulatortasten
+    .accesskey = H
 
 ## Labels shown above groups of urlbar results
 
