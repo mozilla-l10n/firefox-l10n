@@ -57,6 +57,9 @@ avatar-selector-add-image = სურათის დამატება
 avatar-selector-crop = მოჭრა
 avatar-selector-dialog =
     .aria-label = გამოსახულების ჩასწორება
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = აირჩიეთ გამოსახულება
 edit-profile-page-no-name = დაარქვით რამე, მომავალში ადვილად რომ იპოვოთ. გადარქმევა ნებისმიერ დროს შეიძლება.
 edit-profile-page-duplicate-name = პროფილის სახელი უკვე გამოიყენება. სცადეთ ახალი სახელი.
 edit-profile-page-profile-saved = შენახულია
