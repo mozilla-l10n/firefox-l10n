@@ -32,10 +32,10 @@ theme-picker-sun =
     .label = 태양
 # Name for a warm orange theme. Refers to a small burst of fire.
 theme-picker-spark =
-    .label = 불꽃
+    .label = 불씨
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame =
-    .label = 활활
+    .label = 불꽃
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare =
     .label = 섬광
@@ -77,10 +77,10 @@ theme-picker-sun-aria-label =
     .aria-label = 태양
 # Name for a warm orange theme. Refers to a small burst of fire.
 theme-picker-spark-aria-label =
-    .aria-label = 불꽃
+    .aria-label = 불씨
 # Name for a red-orange theme. Refers to the color of fire.
 theme-picker-flame-aria-label =
-    .aria-label = 활활
+    .aria-label = 불꽃
 # Name for a bright pink theme. Refers to a burst of light or fire.
 theme-picker-flare-aria-label =
     .aria-label = 섬광

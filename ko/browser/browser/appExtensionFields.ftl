@@ -33,9 +33,9 @@ extension-default-theme-name2 = 기본
 # Name for a warm yellow-gold theme. Refers to the color of sunlight.
 extension-nova-sun-name = 태양
 # Name for a warm orange theme. Refers to a small burst of fire.
-extension-nova-spark-name = 불꽃
+extension-nova-spark-name = 불씨
 # Name for a red-orange theme. Refers to the color of fire.
-extension-nova-flame-name = 활활
+extension-nova-flame-name = 불꽃
 # Name for a bright pink theme. Refers to a burst of light or fire.
 extension-nova-flare-name = 섬광
 # Name for a soft purple theme. Refers to the lavender flower.
