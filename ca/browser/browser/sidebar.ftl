@@ -6,6 +6,8 @@ menu-view-genai-chat =
     .label = Bot de conversa d’IA
 menu-view-contextual-password-manager =
     .label = Contrasenyes
+menu-view-resource-monitor =
+    .label = Monitor de recursos
 # Label for the Open Tabs entry in the View > Sidebars menu bar menu.
 # "Open Tabs" is a noun phrase referring to the tabs currently open in
 # the browser, not an instruction to open tabs.
@@ -48,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = Data i lloc
 sidebar-history-sort-option-last-visited =
     .label = Última visita
+sidebar-history-sort-option-most-visited =
+    .label = Més visitats
 
 ## Labels for sidebar search
 
@@ -66,6 +70,8 @@ sidebar-settings2 =
     .label = Paràmetres
 sidebar-hide-tabs-and-sidebar =
     .label = Amaga les pestanyes i la barra lateral
+sidebar-open-tools-from-sidebar =
+    .label = Obre les eines des de la barra lateral
 sidebar-show-on-the-right =
     .label = Mou la barra lateral a la dreta
 sidebar-show-on-the-left =
@@ -74,6 +80,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Desplega la barra lateral en passar-hi el ratolí per sobre
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Mostra la vista prèvia en passar el cursor per sobre
 sidebar-manage-extensions2 = Gestiona totes les extensions
 sidebar-customize-extensions-header2 = Extensions
 sidebar-customize-firefox-tools-header2 =
@@ -132,6 +142,44 @@ sidebar-bookmarks-context-menu-delete-bookmark =
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Suprimeix
 
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Tanca la pestanya
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Ordena per
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Ordenació de les pestanyes
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Actives recentment
+
+## Labels for the open tabs hover preview
+
+# Heading at the top of the preview shown when hovering the Open Tabs button
+# in the sidebar. "Recent tabs" refers to the tabs that were active most
+# recently, not to tabs that were recently opened.
+sidebar-opentabs-preview-heading = Pestanyes recents
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = Tanca { $tabTitle }
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = Silencia la pestanya
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = No silenciïs la pestanya
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -151,6 +199,8 @@ sidebar-menu-customize-label =
     .label = Personalitza la barra lateral
 sidebar-menu-contextual-password-manager-label =
     .label = Contrasenyes
+sidebar-menu-resource-monitor-label =
+    .label = Monitor de recursos
 sidebar-menu-more-tools-label =
     .label = Més eines
 
@@ -233,6 +283,7 @@ sidebar-opentabs-current-window-header =
 #   $winID (Number) - The position of the window in the open windows list.
 sidebar-opentabs-window-header =
     .heading = Finestra { $winID }
+sidebar-bookmarks-title = Adreces d'interès
 
 ## Context for closing synced tabs when hovering over the items
 
