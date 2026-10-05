@@ -537,6 +537,11 @@ newtab-recent-searches-empty-recent = Recente zoekopdrachten worden hier weergeg
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Trending zoekopdrachten zijn momenteel niet beschikbaar.
 
+## Strings for the Horoscopes widget
+
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Meer info
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
