@@ -322,8 +322,17 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = گۊزینه یل شؽوات رۊز
     .title = گۊزینه یل شؽوات رۊز
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .aria-label = سامووݩ شؽوات ٱمرۊز و عونوان پس زمینه
+    .label = سامووݩ و عونوان پس زمینه
+    .title = سامووݩ و عونوان پس زمینه
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = دؽوۉداری کاقز دیواری
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = بؽڌار کردن شؽوات ٱمرۊز
 # Context menu item that restores today’s picture after it has been hidden.
 newtab-picture-menu-show-photo = نشووݩ داڌن شؽوات ٱمرۊز
 # Context menu item linking to more information about the widget.
