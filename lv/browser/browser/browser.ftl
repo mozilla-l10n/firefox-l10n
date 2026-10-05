@@ -1237,6 +1237,10 @@ private-browsing-indicator-tooltip =
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Datu zuduma novēršana (DLP), ko nodrošina { $agentName }. Spiediet, lai uzzinātu vairāk.
+content-analysis-panel-title2 = Datu zaudēšanas novēršana
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Apvienība izmanto <b>{ $agentName }</b>, lai pārvaldītu, kā jūtīgi dati var būt kopīgoti. <a data-l10n-name="info">Uzzināt vairāk</a>
 content-analysis-panel-title = Datu aizsardzība
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

@@ -1298,6 +1298,10 @@ private-browsing-info-panel-description = 이 기기를 함께 사용하는 다�
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = { $agentName }의 데이터 손실 방지(DLP)입니다. 자세한 내용을 보려면 누르세요.
+content-analysis-panel-title2 = 데이터 손실 방지
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = 사용자의 조직은 <b>{ $agentName }</b>를 사용하여 민감한 정보가 공유되는 방식을 제어합니다. <a data-l10n-name="info">더 알아보기</a>
 content-analysis-panel-title = 데이터 보호
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
