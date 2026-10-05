@@ -177,6 +177,7 @@ change-backup-encryption-header = Wachtwurd foar reservekopy wizigje
 
 password-rules-header = Wachtwurdeasken
 password-rules-length-description = Op syn minst 8 karakters
+password-rules-email-description2 = Gjin e-mailadres
 password-rules-email-description = Net jo e-mailadres
 password-rules-disclaimer = Bliuw feilich – brûk wachtwurden net opnij. Besjoch mear tips om <a data-l10n-name="password-support-link">sterke wachtwurden te meitsjen</a>.
 password-validity-has-email = Mei gjin e-mailadres wêze

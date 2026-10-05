@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Sykje op it web…
 
 smartbar-mention-typing-placeholder = In ljepblêd of website labelje
 smartbar-mentions-list-no-results-label = Gjin resultaten fûn
+smartbar-mentions-list-tab-groups-label = Resinte groepen
 smartbar-mentions-list-recent-tabs-label = Resinte ljepblêden
 
 ## Context mentions menu toggle button

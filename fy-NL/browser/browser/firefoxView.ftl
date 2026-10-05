@@ -83,6 +83,9 @@ firefoxview-overview-nav = Koartlyn besjoen
     .title = Koartlyn besjoen
 firefoxview-overview-header = Koartlyn besjoen
     .title = Koartlyn besjoen
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Ljepblêden en navigaasjeskiednis op ferskate apparaten
 
 ## History in this context refers to browser history
 

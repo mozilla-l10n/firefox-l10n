@@ -177,6 +177,7 @@ change-backup-encryption-header = Zmień hasło kopii zapasowej
 
 password-rules-header = Wymagania względem hasła
 password-rules-length-description = Musi mieć co najmniej 8 znaków
+password-rules-email-description2 = Nie może być adresem e-mail
 password-rules-email-description = Nie może być Twoim adresem e-mail
 password-rules-disclaimer = Zachowaj bezpieczeństwo — każdego hasła używaj tylko w jednym miejscu. Przeczytaj o <a data-l10n-name="password-support-link">tworzeniu silnych haseł</a>.
 password-validity-has-email = Nie może być adresem e-mail

@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = { $provider } fuortsmite
 genai-menu-remove-sidebar =
     .label = Fuortsmite út sydbalke
+genai-shortcut-button-3 =
+    .aria-label = Fragen oer dizze tekst
+    .tooltiptext = Fragen oer dizze tekst
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = { $provider } freegje

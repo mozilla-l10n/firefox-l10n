@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Krúswurdpuzel
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finansjeel
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Oandielen
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Sykje
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskopen
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Resinte sykopdrachten
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = Mear ynfo
 newtab-privacy-widget-menu-button =
     .aria-label = Privacyopsjes
     .title = Privacyopsjes
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Privacymenu iepenje
+    .title = Privacymenu iepenje
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -334,6 +345,12 @@ newtab-privacy-message-first-protection-cta = Beskermingen besjen
 newtab-stocks-menu-learn-more = Mear ynfo
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Oandielegegevens binne net beskikber.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Opsjes foar Finansjeel
+    .title = Opsjes foar Finansjeel
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
