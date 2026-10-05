@@ -704,6 +704,10 @@ settings-keyboard-shortcuts-group =
     .label = Skróty klawiaturowe
 settings-keyboard-shortcuts-customkeys-link =
     .label = Dostosuj skróty klawiaturowe
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Dostosuj ustawienia paska adresu w sekcji Wyszukiwanie
 settings-media-group =
     .label = Multimedia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -929,6 +933,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Domyślna wyszukiwarka w oknach prywatnych
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Poruszanie się po pasku adresu
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Pomijaj menu wyników podczas poruszania się za pomocą klawisza Tab
 search-suggestions-header-2 =
     .label = Podpowiedzi wyszukiwarki
 search-one-click-header2 = Skróty wyszukiwania
@@ -1158,6 +1170,9 @@ sync-syncing-across-devices-heading-2 = Dane synchronizowane między urządzenia
 sync-syncing-across-devices-empty-state2 =
     .description = Nic nie jest synchronizowane… jeszcze. Zacznij synchronizację, aby wszystkie Twoje dane były na wszystkich Twoich urządzeniach.
     .label = Zarządzaj synchronizowanymi danymi
+sync-syncing-across-devices-empty-state3 =
+    .description = Nic nie jest synchronizowane… jeszcze. Wybierz, co synchronizować na tym urządzeniu.
+    .label = Zarządzaj synchronizowanymi danymi
 sync-currently-syncing-bookmarks = zakładki
 sync-currently-syncing-history = historia
 sync-currently-syncing-tabs = otwarte karty
@@ -1378,6 +1393,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Wymagaj zalogowania się na urządzeniu, aby automatycznie wypełniać metody płatności i zarządzać nimi.
     .accesskey = W
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Zachowuj kody zabezpieczające
+    .accesskey = k
 autofill-payment-methods-add-button = Dodaj nową metodę płatności
 payments-list-header =
     .label = Metody płatności
@@ -1444,6 +1463,23 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | zachowano kod CVV
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = Zachowano kod CVV
     .label = { $cardNumber }
 addresses-group =
     .label = Adresy i nie tylko

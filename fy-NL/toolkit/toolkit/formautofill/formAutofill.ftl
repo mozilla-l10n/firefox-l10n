@@ -33,6 +33,9 @@ autofill-options-link = Opsjes foar Formulieren automatysk ynfolje
 credit-card-doorhanger-credit-cards-sync-checkbox = Alle bewarre kaarten tusken myn apparaten syngronisearje
 credit-card-save-doorhanger-header = Dizze kaart feilich bewarje?
 credit-card-save-doorhanger-description = { -brand-short-name } fersiferet jo kaartnûmer. Jo befeiligingskoade wurdt net bewarre.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } fersiferet jo kaartnûmer en befeiligingskoade, sadat allinnich jo dizze brûke kinne om betellingsformulieren yn te foljen.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Befeiligingskoaden foar betellingsmetoaden altyd bewarje.
 credit-card-capture-save-button =
     .label = Bewarje
     .accessKey = B
@@ -70,6 +73,11 @@ autofill-card-security-code-label = CVC
 ##   $month (String): Two-digit month the card expires
 ##   $year (String): Two-digit year the card expires
 
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV bewarre
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV bewarre
 credit-card-doorhanger-details-expiration-cvv = { $moanne }/{ $jier } | CVV bewarre
 credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV bewarre
 
