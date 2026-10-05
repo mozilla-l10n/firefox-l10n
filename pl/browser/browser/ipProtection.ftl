@@ -56,6 +56,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Otwórz VPN
 ipprotection-feature-introduction-button-get-started = Zacznij teraz
 
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Zmaksymalizuj prywatność dzięki wbudowanej sieci VPN { -brand-product-name(case: "gen") }
+
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -107,6 +111,10 @@ ipprotection-android-promo-callout-primary-button = OK
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Ustaw reguły wbudowanej sieci VPN i przeglądaj dalej
+ipprotection-site-inclusions-callout-description = Włącz ją, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłącz tam, gdzie jej nie potrzebujesz.
+ipprotection-site-inclusions-callout-primary-button = Ustaw reguły
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nie teraz
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zamknij
 
