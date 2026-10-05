@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Szukaj w Internecie…
 
 smartbar-mention-typing-placeholder = Oznacz kartę lub witrynę
 smartbar-mentions-list-no-results-label = Brak wyników
+smartbar-mentions-list-tab-groups-label = Ostatnie grupy
 smartbar-mentions-list-recent-tabs-label = Ostatnie karty
 
 ## Context mentions menu toggle button

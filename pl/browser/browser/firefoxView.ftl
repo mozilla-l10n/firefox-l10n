@@ -83,6 +83,9 @@ firefoxview-overview-nav = Ostatnio przeglądane
     .title = Ostatnio przeglądane
 firefoxview-overview-header = Ostatnio przeglądane
     .title = Ostatnio przeglądane
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Karty i historia przeglądania na różnych urządzeniach
 
 ## History in this context refers to browser history
 
