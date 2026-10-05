@@ -288,9 +288,20 @@ newtab-stocks-search-no-results = نتیجه یل پیتینیڌن سی «{ $que
 newtab-stocks-search-loading = هونی بار اونه…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = سکو امکووݩ پیتینیڌن نؽ. دیندا تر ز نۊ امتهووݩ کۊنین.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] ترین هدکسر { $limit } نماد بیارین. سی ٱووردن نماد نۊ، یکی ن پاک کۊنین.
+       *[other] ترین هدکسر { $limit } نماد بیارین. سی ٱووردن نماد نۊ، یکی ن پاک کۊنین.
+    }
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = شؽوات رۊز · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = شؽوات رۊز
 # Attribution line shown under the title once a picture loads: an author
@@ -298,6 +309,9 @@ newtab-picture-header-main = شؽوات رۊز
 # "©" is the copyright symbol.
 # $author (string) - the name of the image's author.
 newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
 # Screen-reader label for the license link; the visible text is the license
 # name (for example "CC BY-SA 4.0") provided with the picture.
 # $license (string) - the name of the license.
