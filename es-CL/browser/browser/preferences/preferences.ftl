@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Atajos del teclado
 settings-keyboard-shortcuts-customkeys-link =
     .label = Personalizar los atajos de teclado
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Personalizar los ajustes de la barra de direcciones en Buscar
 settings-media-group =
     .label = Medios
 browsing-picture-in-picture-toggle-enabled-2 =
