@@ -1213,7 +1213,7 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyaccept = Z
     .buttonaccesskeyextra2 = R
     .style = min-width: 36em;
-    .title = Zarządzaj, co ma być synchronizowane na wszystkich połączonych urządzeniach
+    .title = Wybierz, co ma być synchronizowane na wszystkich połączonych urządzeniach
 
 ## The device name controls.
 
