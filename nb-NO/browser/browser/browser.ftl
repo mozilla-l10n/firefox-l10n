@@ -1334,6 +1334,10 @@ private-browsing-info-panel-description = Dette bidrar til å holde surfingen di
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Forebygging av datatap (DLP) av { $agentName }. Klikk for mer info.
+content-analysis-panel-title2 = Forebygging av datatap
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Organisasjonen din bruker <b>{ $agentName }</b> til å kontrollere hvordan sensitive data kan deles. <a data-l10n-name="info">Les mer</a>
 content-analysis-panel-title = Databeskyttelse
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
