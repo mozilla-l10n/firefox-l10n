@@ -1333,11 +1333,15 @@ private-browsing-info-panel-description = Zure nabigazioa gailu honetako beste e
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
-    .tooltiptext = Datu-galeren eragozpena (DLP) { $agentName } bidez. Egin klik argibide gehiagorako.
+    .tooltiptext = Datu-galeraren eragozpena (DLP) { $agentName } bidez. Egin klik argibide gehiagorako.
+content-analysis-panel-title2 = Datu-galeraren eragozpena
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Zure erakundeak <b>{ $agentName }</b> darabil kontuzko datuak nola parteka litezkeen kontrolatzeko. <a data-l10n-name="info">Argibide gehiago</a>
 content-analysis-panel-title = Datuen babesa
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text-styled = Zure erakundeak <b>{ $agentName }</b> darabil datu-galeren aurka babesteko. <a data-l10n-name="info">Argibide gehiago</a>
+content-analysis-panel-text-styled = Zure erakundeak <b>{ $agentName }</b> darabil datu-galeraren aurka babesteko. <a data-l10n-name="info">Argibide gehiago</a>
 
 ## Unified extensions (toolbar) button
 

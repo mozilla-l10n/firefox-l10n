@@ -704,6 +704,10 @@ settings-keyboard-shortcuts-group =
     .label = Спалучэнні клавіш
 settings-keyboard-shortcuts-customkeys-link =
     .label = Уладкаваць спалучэнні клавіш
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Уладкаваць параметры адраснага радка ў Пошуку
 settings-media-group =
     .label = Медыя
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -929,6 +933,14 @@ search-separate-default-engine-2 =
     .accesskey = ш
 search-separate-default-engine-dropdown =
     .aria-label = Прадвызначаная пошукавая сістэма ў прыватных вокнах
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Навігацыя па адрасным радку
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Прапускаць меню вынікаў пры выкарыстанні клавішы Tab для перамяшчэння фокуса
 search-suggestions-header-2 =
     .label = Прапановы пошукавых сістэм
 search-one-click-header2 = Пошукавыя скароты
@@ -1158,6 +1170,9 @@ sync-syncing-across-devices-heading-2 = Дадзеныя сінхранізав�
 sync-syncing-across-devices-empty-state2 =
     .description = Вы нічога не сінхранізуеце… пакуль. Пачніце сінхранізацыю, каб атрымаць усе свае звесткі на ўсіх сваіх прыладах.
     .label = Кіраваць сінхранізаванымі дадзенымі
+sync-syncing-across-devices-empty-state3 =
+    .description = Вы нічога не сінхранізуеце… пакуль. Выберыце, што сінхранізаваць на гэтай прыладзе.
+    .label = Кіраванне сінхранізаванымі дадзенымі
 sync-currently-syncing-bookmarks = Закладкі
 sync-currently-syncing-history = Гісторыю
 sync-currently-syncing-tabs = Адкрытыя карткі

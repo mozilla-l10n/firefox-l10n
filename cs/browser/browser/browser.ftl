@@ -1433,6 +1433,10 @@ private-browsing-info-panel-description = Toto pomáhá skrýt vaše prohlížen
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Ochrana před ztrátou dat (DLP) od agenta { $agentName }. Klepněte pro více informací.
+content-analysis-panel-title2 = Ochrana před ztrátou dat
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Vaše organizace používá nástroj <b>{ $agentName }</b> k řízení způsobu sdílení citlivých dat. <a data-l10n-name="info">Další informace</a>
 content-analysis-panel-title = Ochrana údajů
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
