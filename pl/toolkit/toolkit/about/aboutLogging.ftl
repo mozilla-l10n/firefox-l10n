@@ -58,6 +58,7 @@ about-logging-preset-web-compat-description = Moduły do diagnozowania problemó
 about-logging-preset-navigation = Nawigacja
 about-logging-preset-navigation-description = Moduły do diagnozowania problemów nawigacji i historii sesji
 about-logging-preset-vpn-label = VPN
+about-logging-preset-vpn-description = Moduły do diagnozowania problemów z ochroną adresu IP (VPN)
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Moduły do diagnozowania problemów z WebGPU
 about-logging-preset-gfx-label = Grafika

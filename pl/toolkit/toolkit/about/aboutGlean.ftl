@@ -133,7 +133,7 @@ about-glean-metrics-table-settings-button = Ustawienia
 # Settings for the metrics table and its visualizations in about:glean
 about-glean-metrics-table-settings-title = Ustawienia tabeli statystyk
 about-glean-metrics-table-settings-category-general = Ogólne
-about-glean-metrics-table-settings-hide-empty-value-rows = Ukrywanie wierszy z pustymi wartościami
+about-glean-metrics-table-settings-hide-empty-value-rows = Ukrywaj wiersze z pustymi wartościami
 about-glean-metrics-table-settings-category-visualizations = Wizualizacje
 # This is a heading that is immediately followed by an example data visualization
 about-glean-metrics-table-settings-visualization-example = Przykład
@@ -176,6 +176,12 @@ about-glean-no-data-to-display = Brak danych do wyświetlenia.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Statystyki <code>DualLabeledCounter</code> nie są jeszcze obsługiwane na stronie <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Nieznany typ statystyk.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Umożliwia zachowywanie przesłanych pingów w pamięci
+    .label = Zachowuj przesłane pingi
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 
