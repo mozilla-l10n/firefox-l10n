@@ -36,6 +36,33 @@ urlbar-identity-button2 =
             [one] Website-informatie bekijken ({ $count } tracker geblokkeerd)
            *[other] Website-informatie bekijken ({ $count } trackers geblokkeerd)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } koppeling
+           *[other] { $count } koppelingen
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Berichten en meer…
+    .accesskey = B
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Berichten, e-mail en meer…
+    .accesskey = m
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Delen…
+    .accesskey = D
 urlbar-identity-button =
     .aria-label = Website-informatie weergeven
 
@@ -101,6 +128,8 @@ urlbar-result-menu-tip-get-help2 = Hulp verkrijgen
     .accesskey = H
 urlbar-result-menu-dismiss-suggestion2 = Deze suggestie verwijderen
     .accesskey = w
+urlbar-result-menu-remove-top-site = Deze topwebsite verwijderen
+    .accesskey = t
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } beheren
     .accesskey = b
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -944,6 +973,12 @@ urlbar-view-context-menu-open-in-window2 = Openen in nieuw venster
     .accesskey = u
 urlbar-view-context-menu-open-in-private-window2 = Openen in nieuw privévenster
     .accesskey = v
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Dit menu overslaan bij gebruik van de tab-toets
+    .accesskey = o
 
 ## Labels shown above groups of urlbar results
 

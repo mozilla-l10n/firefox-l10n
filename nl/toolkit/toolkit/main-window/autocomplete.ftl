@@ -31,9 +31,19 @@ autocomplete-delete-password = Dit wachtwoord verwijderen
 autocomplete-edit-address = Dit adres bewerken
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Dit adres verwijderen
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = Adres { $entry } verwijderen
 autocomplete-edit-payment-method = Deze betalingsmethode bewerken
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Deze betalingsmethode verwijderen
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = Betalingsmethode { $entry } verwijderen
 # Tooltip for the trash button on a form history entry.
 autocomplete-delete-entry = Verwijderen
 # aria-label for the trash button on a form history entry.

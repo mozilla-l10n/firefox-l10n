@@ -83,6 +83,9 @@ firefoxview-overview-nav = Onlangs bekeken
     .title = Onlangs bekeken
 firefoxview-overview-header = Onlangs bekeken
     .title = Onlangs bekeken
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Tabbladen en navigatiegeschiedenis op verschillende apparaten
 
 ## History in this context refers to browser history
 

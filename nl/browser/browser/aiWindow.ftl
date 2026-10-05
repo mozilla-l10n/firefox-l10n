@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Zoeken op het web…
 
 smartbar-mention-typing-placeholder = Een tabblad of website labelen
 smartbar-mentions-list-no-results-label = Geen resultaten gevonden
+smartbar-mentions-list-tab-groups-label = Recente groepen
 smartbar-mentions-list-recent-tabs-label = Recente tabbladen
 
 ## Context mentions menu toggle button
