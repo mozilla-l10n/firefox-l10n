@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Krzyżówka
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finanse
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Giełda
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Wyszukiwanie
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskopy
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Ostatnie wyszukiwania
@@ -172,6 +178,11 @@ newtab-privacy-menu-learn-more = Więcej informacji
 newtab-privacy-widget-menu-button =
     .aria-label = Opcje widżetu prywatności
     .title = Opcje widżetu prywatności
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Otwórz menu widżetu prywatności
+    .title = Otwórz menu widżetu prywatności
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -342,6 +353,12 @@ newtab-privacy-message-first-protection-cta = Wyświetl ochronę
 newtab-stocks-menu-learn-more = Więcej informacji
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dane giełdowe są niedostępne.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Opcje widżetu finansów
+    .title = Opcje widżetu finansów
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

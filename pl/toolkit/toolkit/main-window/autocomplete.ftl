@@ -31,9 +31,21 @@ autocomplete-delete-password = Usuń to hasło
 autocomplete-edit-address = Edytuj ten adres
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Usuń ten adres
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = Usuń adres „{ $entry }”
 autocomplete-edit-payment-method = Edytuj tę metodę płatności
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Usuń tę metodę płatności
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = Usuń metodę płatności „{ $entry }”
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Usuń
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -42,6 +54,13 @@ autocomplete-delete-form-history-entry2 = Usuń „{ $entry }” z historii for
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = Więcej działań dla „{ $entry }”
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = Więcej opcji
+# Accessible name for the button that opens the edit/delete menu. It names the
+# row so screen reader users know which entry the menu belongs to.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-options-for-entry = Więcej opcji dla „{ $entry }”
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
@@ -50,7 +69,11 @@ autocomplete-remove-password-title = Czy usunąć hasło?
 autocomplete-remove-address-title = Czy usunąć adres?
 autocomplete-remove-payment-method-title = Czy usunąć metodę płatności?
 autocomplete-remove-record-message = Tego działania nie można cofnąć.
+autocomplete-delete-record-button = Usuń
 autocomplete-remove-record-button = Usuń
+autocomplete-delete-password-title = Czy usunąć hasło?
+autocomplete-delete-address-title = Czy usunąć adres?
+autocomplete-delete-payment-method-title = Czy usunąć metodę płatności?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
