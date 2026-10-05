@@ -12,9 +12,19 @@ restart-required-more-details-heading = Więcej informacji
 restart-required-multiple-instances-question = Dlaczego może się to zdarzyć podczas korzystania z wielu profili lub wystąpień { -brand-short-name(case: "gen") }?
 restart-required-multiple-instances-answer = Jeśli jeden profil lub jedno wystąpienie się zaktualizuje, kiedy inne nadal jest otwarte, to drugie może pozostać w starszej wersji. Ponowne uruchomienie zapewnia, że wszystko jest w tej samej wersji.
 restart-required-single-instance-question = Nie korzystam z wielu profili ani wystąpień. Skąd więc ten problem?
-restart-required-single-instance-answer = Jeśli podczas działania { -brand-short-name(case: "gen") } w tle zostanie zainstalowana aktualizacja, może być konieczne jego ponowne uruchomienie.
+restart-required-single-instance-answer = Jeśli podczas działania { -brand-short-name(case: "gen") } zostanie zainstalowana aktualizacja w tle, może być konieczne jego ponowne uruchomienie.
 restart-required-single-instance-answer-2 = Może się to zdarzyć podczas długiego działania lub gdy system operacyjny aktualizuje { -brand-short-name(case: "acc") }. Ponowne uruchomienie zapewni bezpieczeństwo i prawidłowe funkcjonowanie { -brand-short-name(case: "gen") }.
 restart-required-unsaved-work-question = Czy niezapisane dane mogą zostać utracone?
+restart-required-unsaved-work-answer = To możliwe — wiemy, że to frustrujące. { -brand-short-name } przywróci karty, ale niezapisane dane na stronach, takie jak tekst wpisany w formularzu, mogą nie zostać przywrócone. Okna prywatne nie zostaną przywrócone, aby chronić Twoją prywatność.
+restart-required-fix-question = To naprawdę irytujące! Czy { -brand-short-name } pracuje nad poprawką?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Tak. Wiemy, że jest to uciążliwe, i pracujemy nad poprawką, która zapobiegnie takim sytuacjom. Postępy można śledzić w zgłoszeniu nr 2072739 w serwisie Bugzilla.
+restart-button-label2 = Uruchom ponownie
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Więcej
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Mniej
 restart-required-heading = Uruchom ponownie, aby kontynuować używanie { -brand-short-name(case: "gen") }
 restart-required-intro = W tle rozpoczęto aktualizowanie { -brand-short-name(case: "gen") }. Dokończenie wymaga ponownego uruchomienia.
 window-restoration-info = Okna i karty (oprócz prywatnych) zostaną szybko przywrócone.
