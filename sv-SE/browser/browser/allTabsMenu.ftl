@@ -4,7 +4,7 @@
 
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
-    .label = Sök flikar
+    .label = Sök i flikar
 all-tabs-menu-new-user-context =
     .label = Ny innehållsflik
 all-tabs-menu-hidden-tabs =
