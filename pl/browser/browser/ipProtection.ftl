@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Dodaj jeszcze jedną warstwę 
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród kilku położeń, aby miejsce, z którego przeglądasz, było bardziej prywatne.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród wielu położeń, aby miejsce, z którego przeglądasz, było bardziej prywatne.
 ipprotection-feature-introduction-link-text-privacy-3 = <a data-l10n-name="learn-more-vpn">Zwiększ prywatność</a>, wybierając spośród wielu położeń, aby ukryć miejsce, z którego przeglądasz Internet.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Ukryj swoje położenie, zyskując <a data-l10n-name="learn-more-vpn">większą prywatność</a> podczas przeglądania Internetu. Włączaj lub wyłączaj VPN dla wybranych witryn.
 ipprotection-feature-introduction-text-summer-promo-1 = Włącz sieć VPN, aby przeglądanie Internetu było bardziej prywatne. <a data-l10n-name="summer-promo-link">Uzyskaj nieograniczoną przepustowość</a> i więcej położeń, z których możesz przeglądać. Od teraz do 31 sierpnia.
 ipprotection-feature-introduction-title-summer-promo = Planujesz podróż? Prywatność zabierz ze sobą.
 ipprotection-feature-introduction-description-summer-promo = Osiągnij więcej z wbudowaną siecią VPN { -brand-product-name(case: "gen") }: więcej położeń, nieograniczona przepustowość. Od teraz do 31 sierpnia.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane, nawet w trybie prywatnym.
 ipprotection-feature-introduction-description-private-browsing = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w trybie prywatnym.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Ukryj swoje położenie, zyskując <a data-l10n-name="learn-more-vpn">większą prywatność</a> podczas przeglądania Internetu. Ustaw reguły, które włączą sieć VPN, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłączą tam, gdzie jej nie potrzebujesz.
 ipprotection-feature-introduction-title-captive-portal = Korzystasz z publicznej sieci Wi-Fi? Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }.
 ipprotection-feature-introduction-description-captive-portal = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w publicznej sieci Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
