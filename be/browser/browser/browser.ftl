@@ -1347,6 +1347,9 @@ private-browsing-info-panel-description = Гэта дапамагае схава
 content-analysis-indicator-tooltip =
     .tooltiptext = Прадухіленне страты дадзеных (DLP) ад { $agentName }. Націсніце, каб атрымаць дадатковую інфармацыю.
 content-analysis-panel-title2 = Прадухіленне страты дадзеных
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Ваша арганізацыя выкарыстоўвае <b>{ $agentName }</b> для кантролю таго, як могуць перадавацца канфідэнцыяльныя дадзеныя. <a data-l10n-name="info">Падрабязней</a>
 content-analysis-panel-title = Абарона дадзеных
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
