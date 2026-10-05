@@ -47,10 +47,10 @@ pane-home-startup-title2 = Cartref a chychwyn
     .title = Cartref a chychwyn
 pane-search-title2 = Chwilio
     .title = Chwilio
-pane-privacy-title3 = Preifatrwydd a Diogelwch
-    .title = Preifatrwydd a Diogelwch
+pane-privacy-title3 = Preifatrwydd a diogelwch
+    .title = Preifatrwydd a diogelwch
 pane-privacy-section =
-    .heading = Preifatrwydd a Diogelwch
+    .heading = Preifatrwydd a diogelwch
 pane-sync-title3 = Sync
 pane-ai-controls-title2 = Rheoli AI
     .title = Rheoli AI
@@ -1546,7 +1546,7 @@ sitedata-total-size-calculating = Cyfrifo maint data gwefan a storfa dros dro…
 sitedata-total-size3 = Mae gwefannau'n defnyddio <strong>{ $value } { $unit }</strong> o ofod disg ar hyn o bryd.
 sitedata-learn-more = Darllen rhagor
 sitedata-delete-on-close2 =
-    .label = Clirio cwcis a data gwefan bob tro byddwch yn cau { -brand-short-name }
+    .label = Clirio cwcis a data gwefan wrth gau { -brand-short-name }
     .accesskey = g
 sitedata-delete-on-close-private-browsing3 =
     .message = Yn seiliedig ar eich gosodiadau hanes, mae { -brand-short-name } yn dileu cwcis a data gwefan o'ch sesiwn pan fyddwch yn cau'r porwr.
@@ -2174,7 +2174,7 @@ preferences-ai-controls-header3 =
 
 ## Privacy and security status card
 
-security-privacy-status-ok-header = Mae { -brand-short-name } yn gwarchod
+security-privacy-status-ok-header = Mae { -brand-short-name } yn eich gwarchod
 # This is the header above a section telling the user about problems in their settings
 security-privacy-status-problem-header = Mae { -brand-short-name } yn argymell rhai gwelliannau diogelwch
 security-privacy-status-ok-label = Mae Diogelwch Uwch Rhag Tracio ymlaen

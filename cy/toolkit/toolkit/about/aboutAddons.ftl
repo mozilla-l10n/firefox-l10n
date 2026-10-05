@@ -464,7 +464,7 @@ dictionary-heading = Rheoli eich geiriaduron
 locale-heading = Rheoli eich ieithoedd
 updates-heading = Rheoli Eich Diweddariadau
 sitepermission-heading = Rheoli Eich Caniatâd Gwefan
-discover-heading = Personoli Eich { -brand-short-name }
+discover-heading = Personoli eich { -brand-short-name }
 shortcuts-heading = Rheoli Estyniad Llwybrau Byr
 default-heading-search-label = Canfod rhagor o ychwanegion
 addons-heading-search-input =
@@ -540,7 +540,7 @@ mlmodel-speech-recognition = Mae { -brand-short-name } yn defnyddio hwn ar gyfer
 addon-category-mlmodel = AI Ar-ddyfais
 addon-category-mlmodel-title =
     .title = AI Ar-ddyfais
-mlmodel-heading = Rheoli Modelau AI Ar-Ddyfais
+mlmodel-heading = Rheoli modelau AI ar eich dyfais
 mlmodel-description = Mae rhai nodweddion ac estyniadau yn { -brand-short-name } yn cael eu pweru gan fodelau AI sy'n gweithio'n lleol ar eich dyfais. Mae'r dull hwn yn diogelu eich preifatrwydd ac, mewn llawer o achosion, yn cyflymu perfformiad. <a data-l10n-name="learn-more">Dysgu rhagor</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
