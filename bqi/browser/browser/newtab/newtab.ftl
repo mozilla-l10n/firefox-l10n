@@ -240,9 +240,20 @@ newtab-stocks-error-not-available = دووسمندیا سهام من دسرس ن
 newtab-stocks-widget-menu-button =
     .aria-label = گۊزینه یل ویجت سهام
     .title = گۊزینه یل ویجت سهام
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .aria-label = پیتینیڌن و ری نوم یا نماد
+    .label = پیتینیڌن
+    .title = پیتینیڌن و ری نوم یا نماد
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = سهام
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = بازارا
+    .label = بازارا
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -259,6 +270,10 @@ newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }
 
 ## Finance widget ticker search
 
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = نتیجه یل پیتینیڌن
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -271,6 +286,8 @@ newtab-stocks-search-back-button =
 newtab-stocks-search-no-results = نتیجه یل پیتینیڌن سی «{ $query }» نجۊرست
 # Shown while a ticker search is running; also announced to screen readers.
 newtab-stocks-search-loading = هونی بار اونه…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = سکو امکووݩ پیتینیڌن نؽ. دیندا تر ز نۊ امتهووݩ کۊنین.
 
 ## Strings for the Picture of the Day widget
 
