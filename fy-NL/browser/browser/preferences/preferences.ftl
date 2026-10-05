@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Fluchtoetsen
 settings-keyboard-shortcuts-customkeys-link =
     .label = Fluchtoetsen oanpasse
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Adresbalkynstellingen yn Sykjen oanpasse
 settings-media-group =
     .label = Media
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = s
 search-separate-default-engine-dropdown =
     .aria-label = Standertsykmasine yn priveefinsters
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Adresbalknavigaasje
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = It resultatemenu oerslaan as jo de tab-toets brûke om de fokus te ferpleatsen
 search-suggestions-header-2 =
     .label = Sykmasinesuggestjes
 search-one-click-header2 = Fluchkeppelingen sykje
@@ -1154,6 +1166,9 @@ sync-syncing-across-devices-heading-2 = Gegevens tusken apparaten syngronisearre
 sync-syncing-across-devices-empty-state2 =
     .description = Jo syngronisearje neat… noch net. Begjin mei syngronisearjen om al jo gegevens op al jo apparaten te ûntfangen.
     .label = Syngronisearre gegevens beheare
+sync-syncing-across-devices-empty-state3 =
+    .description = Jo syngronisearje neat… noch net. Kies wat jo op dit apparaat syngronisearje wolle.
+    .label = Syngronisearre gegevens beheare
 sync-currently-syncing-bookmarks = Blêdwizers
 sync-currently-syncing-history = Skiednis
 sync-currently-syncing-tabs = Iepen ljepblêden
@@ -1374,6 +1389,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Apparaatoanmelding foar automatysk ynfoljen en behearen fan betellingsmetoaden fereaskje
     .accesskey = A
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Befeiligingskoaden bewarje
+    .accesskey = k
 autofill-payment-methods-add-button = Nije betellingsmetoade tafoegje
 payments-list-header =
     .label = Betellingsmetoaden
@@ -1440,6 +1459,23 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV bewarre
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV bewarre
     .label = { $cardNumber }
 addresses-group =
     .label = Adressen en mear

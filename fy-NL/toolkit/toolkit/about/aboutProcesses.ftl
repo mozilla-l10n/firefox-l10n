@@ -16,6 +16,10 @@ about-processes-kill-process =
     .title = Proses beëinigje
 about-processes-shutdown-tab =
     .title = Ljepblêd slute
+about-processes-unload-tab =
+    .title = Ljepblêd losse
+about-processes-go-to-tab =
+    .title = Nei ljepblêd
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.

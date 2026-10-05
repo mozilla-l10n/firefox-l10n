@@ -10,6 +10,9 @@ theme-picker-mode-device = Apparaat
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Uterlik
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Tema’s
 theme-picker-use-linux-theme =
     .label = Linux-systeemtema brûke
 

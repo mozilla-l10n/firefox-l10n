@@ -57,6 +57,9 @@ avatar-selector-add-image = Ofbylding tafoegje
 avatar-selector-crop = Bysnije
 avatar-selector-dialog =
     .aria-label = Avatar bewurkje
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Kies in avatar
 edit-profile-page-no-name = Jou dit profyl in namme, sadat jo it letter fine kinne. Jo kinne de namme op elk winske momint wizigje.
 edit-profile-page-duplicate-name = Profylnamme is al yn gebrûk. Probearje in nije namme.
 edit-profile-page-profile-saved = Bewarre

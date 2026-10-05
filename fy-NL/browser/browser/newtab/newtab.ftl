@@ -357,6 +357,11 @@ newtab-stocks-widget-menu-button2 =
 newtab-stocks-widget-menu-button =
     .aria-label = Opsjes foar Oandielenwidget
     .title = Opsjes foar Oandielenwidget
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Menu Oandielen iepenje
+    .title = Menu Oandielen iepenje
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -364,6 +369,9 @@ newtab-stocks-search-button =
     .aria-label = Sykje op namme of symboal
     .label = Sykje
     .title = Sykje op namme of symboal
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Folgje oandielen dy’t foar jo wichtich binne
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -384,6 +392,12 @@ newtab-stocks-list-watchlist = Folchlist
     .label = Folchlist
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Sykje op namme of symboal
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finansjeel
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -438,6 +452,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Sykresultaten
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Sykje nei symboalen of bedriuwen om ta te foegjen oan jo folchlist
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -486,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Opsjes foar Foto fan ’e dei
     .title = Opsjes foar Foto fan ’e dei
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Ofbylding fan it dei-menu iepenje
+    .title = Ofbylding fan it dei-menu iepenje
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -540,6 +562,11 @@ newtab-search-widget-title = Sykje
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Sykopsjes
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Sykmenu iepenje
+    .title = Sykmenu iepenje
 
 ## Recent searches widget — empty states
 
@@ -547,6 +574,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Resinte sykopdrachten sille hjir werjûn wurde, sadat jo se op elk momint wer oppakke kinne.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Trending sykopdrachten binne op dit stuit net beskikber.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskopen
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Opsjes foar horoskopen
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Mear ynfo
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -845,12 +882,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Krúswurdpuzel
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finansjeel
 newtab-custom-widget-stocks-toggle =
     .label = Oandielen
 newtab-custom-widget-picture-toggle =
     .label = Foto fan de dei
 newtab-custom-widget-search-toggle =
     .label = Sykje
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskopen
 newtab-custom-widget-recent-searches-toggle =
     .label = Resinte sykopdrachten
 newtab-custom-widget-section-title = Widgets
@@ -1074,6 +1116,11 @@ newtab-wallpaper-celestial-river = Satellytfoto fan rivier
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsore
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Menu It Waar iepenje
+    .title = Menu It Waar iepenje
 newtab-weather-menu-change-location = Lokaasje wizigje
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Lokaasje sykje
@@ -1352,6 +1399,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Listopsjes
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Listmenu iepenje
+    .title = Listmenu iepenje
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + In nije list oanmeitsje
@@ -1439,6 +1492,11 @@ newtab-widget-timer-menu-notifications-on = Notifikaasjes ynskeakelje
 newtab-widget-timer-menu-learn-more = Mear ynfo
 newtab-widget-timer-menu-button =
     .aria-label = Timeropsjes
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Timermenu iepenje
+    .title = Timermenu iepenje
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Topberjochten
 newtab-daily-briefing-card-menu-dismiss = Slute
@@ -1463,6 +1521,14 @@ newtab-promo-card-cta = Mear ynfo
 newtab-promo-card-dismiss-button =
     .aria-label = Slute
     .title = Slute
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Krúswurdpuzelmenu iepenje
+    .title = Krúswurdpuzelmenu iepenje
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1869,6 +1935,11 @@ newtab-clock-widget-custom-back = Tebek
 newtab-clock-widget-menu-button2 =
     .aria-label = Klokopsjes
     .title = Klokopsjes
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Menu klok iepenje
+    .title = Menu klok iepenje
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

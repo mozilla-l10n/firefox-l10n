@@ -190,6 +190,12 @@ about-glean-no-data-to-display = Gjin gegevens om wer te jaan.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-statistiken wurde noch net stipe yn de <code>about:glean</code>-werjefte.
 about-glean-unknown-metric-type-warning = Unbekend statistyktype.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Meitsje it bewarjen fan ferstjoerde pings yn it ûnthâld mooglik
+    .label = Ferstjoerde pings bewarje
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 
