@@ -84,6 +84,11 @@ menu-file-close-tab =
            *[many] Zamknij { $tabCount } kart
         }
     .accesskey = k
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Zamknij
+    .accesskey = k
 menu-file-close-window =
     .label = Zamknij okno
     .accesskey = m
@@ -96,6 +101,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Udostępnij
     .accesskey = s
+menu-file-share-qrcode3 =
+    .label = Utwórz kod QR
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = Utwórz kod QR…
     .accesskey = Q
