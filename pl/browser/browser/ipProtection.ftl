@@ -113,6 +113,7 @@ ipprotection-android-promo-callout-primary-button = OK
 
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Ustaw reguły wbudowanej sieci VPN i przeglądaj dalej
+ipprotection-site-inclusions-callout-title-lapsed-users = Wypróbuj wbudowaną sieć VPN, którą teraz można włączać lub wyłączać dla wybranych witryn
 ipprotection-site-inclusions-callout-description = Włącz ją, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłącz tam, gdzie jej nie potrzebujesz.
 ipprotection-site-inclusions-callout-primary-button = Ustaw reguły
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nie teraz
