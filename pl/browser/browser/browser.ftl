@@ -1344,7 +1344,11 @@ private-browsing-info-panel-description = Tryb prywatny pomaga ukryć Twoje dzia
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
-    .tooltiptext = Zapobieganie utracie danych (DLP) przez oprogramowanie { $agentName }. Kliknij, aby dowiedzieć się więcej.
+    .tooltiptext = Ochrona przed utratą danych (DLP) przez oprogramowanie { $agentName }. Kliknij, aby dowiedzieć się więcej.
+content-analysis-panel-title2 = Ochrona przed utratą danych
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Twoja organizacja korzysta z oprogramowania <b>{ $agentName }</b> do kontrolowania sposobu udostępniania poufnych danych. <a data-l10n-name="info">Więcej informacji</a>
 content-analysis-panel-title = Ochrona danych
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
