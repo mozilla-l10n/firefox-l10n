@@ -83,6 +83,11 @@ menu-file-close-tab =
            *[other] Fermi { $tabCount } langetojn
         }
     .accesskey = F
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Fermi
+    .accesskey = F
 menu-file-close-window =
     .label = Fermi fenestron
     .accesskey = e
@@ -95,6 +100,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Dividi
     .accesskey = D
+menu-file-share-qrcode3 =
+    .label = Krei kodon QR
+    .accesskey = K
 menu-file-share-qrcode =
     .label = Krei kodon QR…
     .accesskey = Q

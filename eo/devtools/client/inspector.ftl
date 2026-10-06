@@ -20,6 +20,12 @@ colorpicker-tooltip-hue-slider-title = Tono
 colorpicker-tooltip-alpha-slider-title = Diafaneco
 # A text for the toggle for the element-specific pseudo-classes panel.
 inspector-element-specific-pseudo-classes-heading = Pseŭdoklasoj specifaj por elemento
+# A title text for the button in the Inspector toolbar that opens the menu
+# controlling how the Inspector panels are split.
+inspector-split-orientation-button-title = Aranĝo de paneloj
+# A label for the split orientation menu item that switches the layout
+# automatically based on the panel width.
+inspector-split-orientation-auto = Aŭtomata
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Ŝalti/malŝalti imiton de hela koloraro por la paĝo

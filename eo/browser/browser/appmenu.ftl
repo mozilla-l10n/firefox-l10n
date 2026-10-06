@@ -161,6 +161,14 @@ appmenu-fxa-last-sync = Laste spegulita: { $time }
 appmenu-fxa-sync-and-save-data2 = Speguli kaj konservi datumojn
 appmenu-fxa-signed-in-label = Komenci seancon
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Spegulu viajn datumojn ĉie
+appmenu-fxa-sign-in-promo-link = Komenci seancon
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Ignorio promocion pri komenco de seanco
+    .title = Ignori
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Komenci seancon por speguli
 appmenu-fxa-sign-in-promo-message = Aliru viajn datumojn el ie ajn
