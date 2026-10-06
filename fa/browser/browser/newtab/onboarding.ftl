@@ -131,7 +131,7 @@ mr2-onboarding-start-browsing-button-label = شروع وب‌گردی
 
 onboarding-live-language-header = زبان خود را انتخاب کنید
 mr2022-onboarding-live-language-text = ‏{ -brand-short-name } به زبان شما سخن می‌گوید
-mr2022-language-mismatch-subtitle = با سپاس از جامعهٔ کاربری ما، { -brand-short-name } به بیش از ۹۰ زبان ترجمه شده است. به نظر می‌رسد سیستم شما از زبان { $systemLanguage } استفاده می‌کند، در حالی که { -brand-short-name } روی { $appLanguage } تنظیم شده است.
+mr2022-language-mismatch-subtitle = با سپاس از اجتماع ما، { -brand-short-name } به بیش از ۹۰ زبان ترجمه شده است. به نظر می‌رسد سیستم شما از زبان { $systemLanguage } استفاده می‌کند، در حالی که { -brand-short-name } روی { $appLanguage } تنظیم شده است.
 onboarding-live-language-button-label-downloading = در حال دانلود بستهٔ زبان برای { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = در حال دریافت زبان‌های موجود…
 onboarding-live-language-installing = در حال نصب بستهٔ زبان برای { $negotiatedLanguage }…
@@ -164,7 +164,7 @@ fx100-upgrade-thanks-header = ۱۰۰ بار سپاس
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = این صدمین نسخهٔ { -brand-short-name } است. از <em>شما</em> برای کمک به ساخت اینترنتی بهتر و سالم‌تر سپاسگزاریم.
 # Message shown with either a pin-to-taskbar or set-default button.
-fx100-upgrade-thanks-keep-body = این صدمین نسخهٔ ماست! از اینکه عضوی از جامعهٔ کاربری ما هستید متشکریم. برای ۱۰۰ نسخهٔ بعدی، { -brand-short-name } را تنها با یک کلیک در دسترس نگه دارید.
+fx100-upgrade-thanks-keep-body = این صدمین انتشار ماست! از اینکه عضوی از اجتماع ما هستید متشکریم. برای ۱۰۰ انتشار بعدی، { -brand-short-name } را تنها با یک کلیک در دسترس نگه دارید.
 mr2022-onboarding-secondary-skip-button-label = رد کردن این مرحله
 
 ## MR2022 New User Easy Setup screen strings

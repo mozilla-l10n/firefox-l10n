@@ -1335,6 +1335,10 @@ private-browsing-info-panel-description = Tio ĉi helpas kaŝi vian retumon de l
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Protekto kontraŭ perdo de datumoj (DLP) de { $agentName }. Alklaku por havi pli da informo.
+content-analysis-panel-title2 = Protekto kontraŭ datumperdo
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Via organizo uzas <b>{ $agentName }</b> por regi la manieron dividi konfidencajn datumojn. <a data-l10n-name="info">Pli da informo</a>
 content-analysis-panel-title = Protekto de datumoj
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

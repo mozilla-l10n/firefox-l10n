@@ -37,6 +37,8 @@ ipprotection-feature-introduction-title-summer-promo = Ĉu vi pretas vojaĝi? Po
 ipprotection-feature-introduction-description-summer-promo = Iru eĉ pli for per la integrita VPN de { -brand-product-name }: pli da lokoj, senlima trafiko. Propono valida ĝis la 31 de aŭgusto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian pozicion kaj protekti viajn datumojn, eĉ en privataj fenestroj.
 ipprotection-feature-introduction-description-private-browsing = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en privata fenestro.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Kaŝu vian pozicion por havi <a data-l10n-name="learn-more-vpn">kroman privatecon</a> dum vi retumas. Difinu regulojn por ŝalti la VPN por havi kroman privatecon aŭ retumi el alia ejo, aŭ por malŝalti la VPN kiam vi ne bezonas tion.
 ipprotection-feature-introduction-title-captive-portal = Ĉu vi uzas publikan Wi-Fi? Provu la integritan VPN de { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Retumu kun aldonaj protektoj per kaŝo de via pozicio, eĉ dum vi estas en publika Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -53,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Forigi VPN el la ilaro
 ipprotection-feature-introduction-button-open-vpn = Malfermi VPN
 ipprotection-feature-introduction-button-get-started = Unuaj paŝoj
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = Maksimumigu vian privatecon per la integrita VPN de { -brand-product-name }
 
 ## Summer promo offramp callout buttons
 
@@ -105,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Mi komprenis
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Difinu la regulojn por la integrita VPN kaj plu retumu
+ipprotection-site-inclusions-callout-title-lapsed-users = Provu la integritan VPN, ekde nun ŝaltigebla por specifaj retejoj
+ipprotection-site-inclusions-callout-description = Ŝaltu ĝin kiam vi volas havi kroman privatecon aŭ retumi el alia ejo, kaj malŝaltu ĝin kiam vi tion ne bezonas.
+ipprotection-site-inclusions-callout-primary-button = Difini regulojn
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne nun
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignori
 
@@ -115,6 +126,7 @@ unauthenticated-vpn-title = Provu la integritan VPN de { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Kaŝu vian pozicion</a> dum retumo per { -brand-product-name }.
 unauthenticated-private-location-message = Tio ĉi helpas vin <a data-l10n-name="learn-more-vpn">teni vian pozicion privata</a> en { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Elektu inter pluraj lokoj aŭ permesu al { -brand-product-name } elekti la plej rapidan.
+unauthenticated-site-rules-message = Difinu, kiuj retejoj uzos VPN kaj kiuj ne.
 unauthenticated-get-started = Unuaj paŝoj
 unauthenticated-terms-of-service-privacy-notice = Se vi daŭrigas, vi akceptas la <a data-l10n-name="vpn-terms-of-service">kondiĉojn de uzo</a> kaj <a data-l10n-name="vpn-privacy-notice">rimarkon pri privateco</a>.
 site-exclusion-toggle-enabled-1 =
@@ -124,6 +136,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = VPN malŝaltita por tiu ĉi retejo
     .label = Ŝalti VPN por tiu ĉi retejo
 site-exclusion-toggle-description = Ĉu la retejo ne funckias? Provu malŝalti la VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Administri regulojn de VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Via regulo
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = VPN malŝaltita por tiu ĉi retejo
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = VPN ŝaltita por tiu ĉi retejo
 ipprotection-settings-link =
     .label = Agordoj
 
@@ -260,6 +280,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } retejoj
         }
     .label = Administri agordojn de retejoj
+ip-protection-site-rules-header =
+    .heading = Administri regulojn por retejoj
+ip-protection-site-rules-button =
+    .description = Difini regulojn por retejoj, kiuj bezonas kroman privatecon aŭ kiuj bezonas malŝaltitan VPN.
+    .label = Administri regulojn por retejoj
 ip-protection-autostart =
     .label = Aŭtomate ŝalti VPN
 ip-protection-autostart-checkbox =

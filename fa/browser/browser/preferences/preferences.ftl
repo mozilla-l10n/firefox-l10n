@@ -638,7 +638,7 @@ update-application-updates-managed-by-os =
 ## Firefox support
 
 support-application-heading =
-    .description = عیب‌یابی مشکلات یا به‌اشتراک‌گذاری ایده‌ها با جامعهٔ کاربری.
+    .description = عیب‌یابی مشکلات یا هم‌رسانی ایده‌ها با اجتماع.
     .label = پشتیبانی { -brand-short-name }
 support-get-help =
     .label = دریافت راهنمایی
