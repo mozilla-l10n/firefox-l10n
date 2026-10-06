@@ -10,6 +10,9 @@ theme-picker-mode-device = Podľa zariadenia
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Vzhľad
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Témy vzhľadu
 theme-picker-use-linux-theme =
     .label = Použiť systémovú tému Linuxu
 

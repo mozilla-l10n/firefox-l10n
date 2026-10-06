@@ -61,7 +61,7 @@ item-history-and-downloads =
     .accesskey = ت
 item-history-and-downloads-description2 = تاریخچهٔ سایت‌ها و دانلودها را پاک می‌کند
 item-cookies =
-    .label = کوکی‌ها
+    .label = کلوچک‌ها
     .accesskey = ک
 # Variables:
 #   $amount (Number) - Amount of site data currently stored on disk

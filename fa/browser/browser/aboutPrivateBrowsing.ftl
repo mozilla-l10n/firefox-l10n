@@ -68,7 +68,7 @@ about-private-browsing-cookie-banners-promo-body = ما اکنون به‌صور
 ## Strings for the info section of about:privatebrowsing
 
 about-private-browsing-felt-privacy-v1-info-header = هیچ ردپایی بر روی این دستگاه نگذار
-about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } کوکی‌ها، تاریخچه و داده‌های وبگاه شما را زمانی که تمام پنجره‌های خصوصی را می‌بندید، حذف می‌کند.
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } کلوچک‌ها، تاریخچه و داده‌های وبگاه شما را زمانی که تمام پنجره‌های خصوصی را می‌بندید، حذف می‌کند.
 about-private-browsing-felt-privacy-v1-info-link = چه کسی ممکن است بتواند فعالیت‌های من را ببیند؟
 
 ## Strings for the Nova redesign of about:privatebrowsing

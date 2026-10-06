@@ -519,6 +519,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Nastavenia pre obrázok dňa
     .title = Nastavenia pre obrázok dňa
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Otvoriť ponuku obrázka dňa
+    .title = Otvoriť ponuku obrázka dňa
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -573,6 +578,11 @@ newtab-search-widget-title = Vyhľadávanie
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Možnosti vyhľadávania
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Otvoriť ponuku vyhľadávania
+    .title = Otvoriť ponuku vyhľadávania
 
 ## Recent searches widget — empty states
 
@@ -580,6 +590,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Tu sa zobrazia vaše nedávne vyhľadávania, aby ste sa k nim mohli kedykoľvek vrátiť.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Populárne vyhľadávania momentálne nie sú k dispozícii.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskopy
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Možnosti horoskopov
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Ďalšie informácie
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -879,12 +899,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Krížovka
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finančné trhy
 newtab-custom-widget-stocks-toggle =
     .label = Akcie
 newtab-custom-widget-picture-toggle =
     .label = Obrázok dňa
 newtab-custom-widget-search-toggle =
     .label = Vyhľadávanie
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskopy
 newtab-custom-widget-recent-searches-toggle =
     .label = Nedávne vyhľadávania
 newtab-custom-widget-section-title = Miniaplikácie
@@ -1108,6 +1133,11 @@ newtab-wallpaper-celestial-river = Satelitný obraz rieky
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponzorované
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Otvoriť ponuku počasia
+    .title = Otvoriť ponuku počasia
 newtab-weather-menu-change-location = Zmeniť lokalitu
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Hľadať lokalitu
@@ -1386,6 +1416,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Možnosti zoznamov
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Otvoriť ponuku zoznamov
+    .title = Otvoriť ponuku zoznamov
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Vytvoriť nový zoznam
@@ -1473,6 +1509,11 @@ newtab-widget-timer-menu-notifications-on = Zapnúť upozornenia
 newtab-widget-timer-menu-learn-more = Ďalšie informácie
 newtab-widget-timer-menu-button =
     .aria-label = Možnosti časovača
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Otvoriť ponuku časovača
+    .title = Otvoriť ponuku časovača
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Najlepšie titulky
 newtab-daily-briefing-card-menu-dismiss = Zavrieť
@@ -1497,6 +1538,14 @@ newtab-promo-card-cta = Ďalšie informácie
 newtab-promo-card-dismiss-button =
     .aria-label = Zavrieť
     .title = Zavrieť
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Otvoriť ponuku krížoviek
+    .title = Otvoriť ponuku krížoviek
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1909,6 +1958,11 @@ newtab-clock-widget-custom-back = Naspäť
 newtab-clock-widget-menu-button2 =
     .aria-label = Nastavenia hodín
     .title = Nastavenia hodín
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Otvoriť ponuku hodín
+    .title = Otvoriť ponuku hodín
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

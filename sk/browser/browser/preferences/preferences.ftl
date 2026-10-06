@@ -704,6 +704,10 @@ settings-keyboard-shortcuts-group =
     .label = Klávesové skratky
 settings-keyboard-shortcuts-customkeys-link =
     .label = Prispôsobiť klávesové skratky
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Prispôsobiť nastavenia panela s adresou v sekcii Vyhľadávanie
 settings-media-group =
     .label = Médiá
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -929,6 +933,14 @@ search-separate-default-engine-2 =
     .accesskey = h
 search-separate-default-engine-dropdown =
     .aria-label = Predvolený vyhľadávač v súkromných oknách
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Pohyb v paneli s adresou
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Pri presúvaní klávesom Tab preskočiť ponuku výsledkov
 search-suggestions-header-2 =
     .label = Návrhy z vyhľadávačov
 search-one-click-header2 = Skratky vyhľadávania
@@ -1158,6 +1170,9 @@ sync-syncing-across-devices-heading-2 = Údaje synchronizované medzi zariadenia
 sync-syncing-across-devices-empty-state2 =
     .description = Zatiaľ nič nesynchronizujete… Spustite synchronizáciu, aby ste mali všetky svoje údaje na všetkých svojich zariadeniach.
     .label = Spravovať synchronizované údaje
+sync-syncing-across-devices-empty-state3 =
+    .description = Zatiaľ nič nesynchronizujete… Vyberte, čo chcete na tomto zariadení synchronizovať.
+    .label = Správa synchronizovaných údajov
 sync-currently-syncing-bookmarks = Záložky
 sync-currently-syncing-history = História
 sync-currently-syncing-tabs = Otvorené karty
