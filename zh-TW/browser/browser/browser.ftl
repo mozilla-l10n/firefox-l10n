@@ -1318,6 +1318,10 @@ private-browsing-info-panel-description = 此功能可幫助您隱藏本裝置�
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = 由 { $agentName } 提供資料遺失保護（DLP）功能。點擊此處即可取得更多資訊。
+content-analysis-panel-title2 = 資料外洩防護
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = 您的組織使用 <b>{ $agentName }</b> 來控制敏感資料的分享方式。<a data-l10n-name="info">更多資訊</a>
 content-analysis-panel-title = 資料保護
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
