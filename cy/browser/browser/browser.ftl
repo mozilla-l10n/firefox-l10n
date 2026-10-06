@@ -40,6 +40,37 @@ urlbar-identity-button2 =
             [many] Gweld manylion gwefan ({ $count } thraciwr wedi'u rwystro)
            *[other] Gweld manylion gwefan ({ $count } traciwr wedi'u rwystro)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } Dolen
+            [zero] { $count } Dolenni
+            [two] { $count } Ddolen
+            [few] { $count } Dolen
+            [many] { $count } Dolen
+           *[other] { $count } Dolen
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Negeseuon, a Mwy…
+    .accesskey = i
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Negeseuon, E-bost, a Mwy…
+    .accesskey = N
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Rhannu…
+    .accesskey = R
 urlbar-identity-button =
     .aria-label = Gweld manylion y wefan
 
@@ -105,6 +136,8 @@ urlbar-result-menu-tip-get-help2 = Derbyn cymorth
     .accesskey = D
 urlbar-result-menu-dismiss-suggestion2 = Cau'r awgrym hwn
     .accesskey = a
+urlbar-result-menu-remove-top-site = Dileu'r wefan hon
+    .accesskey = D
 urlbar-result-menu-manage-firefox-suggest2 = Rheoli { -firefox-suggest-brand-name }
     .accesskey = R
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -976,6 +1009,12 @@ urlbar-view-context-menu-open-in-window2 = Agor mewn Ffenestr Newydd
     .accesskey = F
 urlbar-view-context-menu-open-in-private-window2 = Agor mewn Ffenestr Breifat Newydd
     .accesskey = B
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Hepgor y ddewislen hon wrth ddefnyddio'r fysell tab
+    .accesskey = H
 
 ## Labels shown above groups of urlbar results
 
@@ -1336,6 +1375,10 @@ private-browsing-info-panel-description = Mae hyn yn helpu i gadw'ch pori wedi'i
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Atal colli data (DLP) gan { $agentName }. Cliciwch am fwy o wybodaeth.
+content-analysis-panel-title2 = Atal colli data
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Mae eich sefydliad yn defnyddio <b>{ $agentName }</b> i reoli sut y mae modd rhannu data sensitif. <a data-l10n-name="info">Dysgu rhagor</a>
 content-analysis-panel-title = Diogelu data
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

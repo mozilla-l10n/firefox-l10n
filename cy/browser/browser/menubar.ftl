@@ -87,6 +87,11 @@ menu-file-close-tab =
            *[other] Cau { $tabCount } Tab
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Cau
+    .accesskey = C
 menu-file-close-window =
     .label = Cau Ffenestr
     .accesskey = F
@@ -99,6 +104,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Rhannu
     .accesskey = R
+menu-file-share-qrcode3 =
+    .label = Creu Cod QR
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = Cynhyrchu cod QR…
     .accesskey = Q

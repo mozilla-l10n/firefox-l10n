@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Chwilio'r we…
 
 smartbar-mention-typing-placeholder = Tagio tab neu wefan
 smartbar-mentions-list-no-results-label = Heb ganfod canlyniadau
+smartbar-mentions-list-tab-groups-label = Grwpiau diweddar
 smartbar-mentions-list-recent-tabs-label = Tabiau diweddar
 
 ## Context mentions menu toggle button
