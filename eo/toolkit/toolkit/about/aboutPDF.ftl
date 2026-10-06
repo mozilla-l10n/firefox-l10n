@@ -28,3 +28,17 @@ about-pdf-dismiss =
 ## The about:pdf#features page.
 
 about-pdf-features-header = Iloj por PDF de { -brand-short-name }
+about-pdf-features-intro = Legi, prinoti kaj subskribi dosierojn PDF rekte el la retumilo. Estas simple, libere kaj private.
+about-pdf-features-back =
+    .label = Malantaŭen
+about-pdf-feature-organize-heading = Organizi paĝojn
+about-pdf-feature-organize-description = Reordigi, forigi, kunigi kaj eksporti paĝojn.
+about-pdf-feature-signatures-heading = Konservi subskribojn
+about-pdf-feature-signatures-description = Krei plurajn subskribojn kaj aldoni ilin al formularoj.
+about-pdf-feature-comments-heading = Aldoni notojn
+about-pdf-feature-comments-description = Lasu komentojn kaj memorigilojn dum vi legas.
+about-pdf-feature-annotate-heading = Prinotu dosierojn PDF
+about-pdf-feature-annotate-description = Aldoni tekston, elstarigojn kaj desegnojn.
+about-pdf-feature-images-heading = Alŝuti alireblajn bilojn
+about-pdf-feature-images-description = Aldoni alternativan tekston tiel ke bildoj utilas por pli da personoj
+about-pdf-feature-view-heading = Elektu vian vidon
