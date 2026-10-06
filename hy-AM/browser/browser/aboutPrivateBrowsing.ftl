@@ -51,6 +51,10 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Ոչ մի պահված թխուկ կամ պատմություն: Աշխատեք այնպես, կարծես ոչ ոք չի հետևում Ձեզ:
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-link-text = Փորձեք էլ. փոստի դիմակներ
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
@@ -67,8 +71,13 @@ about-private-browsing-felt-privacy-v1-info-link = Ո՞վ կարող է տեսն
 
 about-private-browsing-nova-info-body = Բոլոր անձնական պատուհանները փակելը կջնջի ձեր թխուկները, պատմությունը և կայքի տվյալները։
 about-private-browsing-nova-info-link = Ո՞վ կարող է դեռ տեսնել իմ գործունեությունը։
+about-private-browsing-private-window-basics-link = Գաղտնի պատուհանի հիմունքներ
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Դուք գրառումից դուրս եք
 about-private-browsing-nova-info-subheader2 = Մենք կջնջենք բոլոր որոնումներն ու մուտքերը, երբ դուք փակեք ձեր բոլոր մասնավոր պատուհանները։ { -brand-short-name }-ի ներկառուցված պաշտպանությունները նույնպես միացված են այստեղ, օրինակ՝ հետևորդների արգելափակումը։
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Գաղտնի պատուհանի հիմունքներ

@@ -39,7 +39,7 @@ appmenu-update-other-instance =
     .label = { -brand-shorter-name }-ը հնարավոր չէ արդիացնել նոր տարբերակի:
     .secondarybuttonlabel = Ոչ հիմա
     .secondarybuttonaccesskey = N
-appmenu-update-other-instance-message = Հասանելի է { -brand-shorter-name }-ի նոր տարբերակը, բայց այն չի կարող տեղա.դրվել, քանի որ աշխատեցված է { -brand-shorter-name }-ի մեկ այլ օրինակ: Փակեք այն՝ թարմացումը շարունակելու համար կամ ընտրեք այդուհանդերձ թարմացնել (այլ օրինակը կարող է նորմալ չաշխատի, քանի դեռ դուքչվերամեկնարկեք այն):
+appmenu-update-other-instance-message = Հասանելի է { -brand-shorter-name }-ի թարմացումը, բայց այն չի կարող տեղադրվել, քանի որ { -brand-shorter-name }-ի մեկ այլ օրինակ աշխատեցվում է: Թարմացումը շարունակելու համար փակեք այն կամ ընտրեք այնուամենայնիվ թարմացնելը (մեկ այլ օրինակը կարող է նորմալ չաշխատել, քանի դեռ Դուք չվերսկսեք այն)։
 appmenu-addon-post-install-message3 = Կառավարեք Ձեր հավելումները և ոճերը հավելվածի ցանկով:
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.

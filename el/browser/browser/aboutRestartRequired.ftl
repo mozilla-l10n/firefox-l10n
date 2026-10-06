@@ -17,6 +17,9 @@ restart-required-single-instance-answer-2 = Αυτό μπορεί να συμβ�
 restart-required-unsaved-work-question = Υπάρχει κίνδυνος να χάσω μη αποθηκευμένη εργασία;
 restart-required-unsaved-work-answer = Ίσως, και αναγνωρίζουμε πόσο ενοχλητικό είναι αυτό. Το { -brand-short-name } θα ανοίξει ξανά τις καρτέλες σας, αλλά δεν θα είναι δυνατή η ανάκτηση της μη αποθηκευμένης εργασίας σας μέσα στις ιστοσελίδες, όπως το κείμενο σε μια φόρμα. Τα ιδιωτικά παράθυρα δεν ανοίγουν ξανά για την προστασία του απορρήτου σας.
 restart-required-fix-question = Αυτό είναι πολύ εκνευριστικό! Ετοιμάζει το { -brand-short-name } κάποια διόρθωση;
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Ναι. Γνωρίζουμε ότι αυτό προκαλεί αναστάτωση και εργαζόμαστε πάνω σε μια διόρθωση για να το αποτρέψουμε. Παρακολουθήστε την πρόοδό μας στο σφάλμα 2072739 του Bugzilla.
 restart-button-label2 = Επανεκκίνηση
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Προβολή περισσότερων

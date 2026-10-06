@@ -76,6 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = Ποιος ενδέχεται
 about-private-browsing-nova-info-body = Κλείνοντας όλα τα ιδιωτικά παράθυρά σας, διαγράφονται τα cookie, το ιστορικό και τα δεδομένα ιστοτόπων σας.
 about-private-browsing-nova-info-link = Ποιος μπορεί ακόμα να δει τη δραστηριότητά μου;
 about-private-browsing-private-window-basics-link = Βασικές πληροφορίες για το ιδιωτικό παράθυρο
+about-private-browsing-private-window-redesign-subheader = Το { -brand-short-name } έχει σχεδιαστεί για να προστατεύει το απόρρητό σας κατά την περιήγηση, με ενσωματωμένη προστασία από καταγραφή. Το κλείσιμο αυτού του παραθύρου διαγράφει το ιστορικό, τα cookie και τα δεδομένα ιστοτόπων, ώστε η περιήγησή σας να παραμένει ιδιωτική από άλλους χρήστες αυτής της συσκευής.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -85,13 +86,20 @@ about-private-browsing-nova-info-subheader2 = Θα διαγραφεί κάθε �
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Βασικές πληροφορίες για το ιδιωτικό παράθυρο
+about-private-browsing-spotlight-basics-subtitle = Τα ιδιωτικά παράθυρα διατηρούν την περιήγησή σας απόρρητη από άλλους χρήστες αυτής της συσκευής. Δεν σας προσφέρουν ανωνυμία ούτε εκκαθαρίζουν όλα τα δεδομένα σας.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Τι πρέπει να γνωρίζετε
+about-private-browsing-spotlight-basics-activity-seen = Ορισμένες δραστηριότητές σας ενδέχεται να παραμένουν ορατές σε ιστοτόπους, μηχανές αναζήτησης, παρόχους διαδικτύου ή στον εργοδότη σας.
 about-private-browsing-spotlight-basics-bookmarks-downloads = Οι σελιδοδείκτες και οι λήψεις παραμένουν στη συσκευή σας και ενδέχεται να εμφανιστούν στη γραμμή διευθύνσεων.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Πρόσθετα μέτρα προστασίας απορρήτου
 about-private-browsing-spotlight-basics-malware-alerts = Το { -brand-short-name } σάς ειδοποιεί αυτόματα για κακόβουλο λογισμικό και παραπλανητικούς ιστοτόπους.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = Το { -brand-short-name } ζητά αυτόματα από τους συμμετέχοντες ιστοτόπους να μην πωλούν ούτε να κοινοποιούν τα προσωπικά σας δεδομένα.
 about-private-browsing-spotlight-basics-vpn = Χρησιμοποιήστε το ενσωματωμένο VPN για να κάνετε πιο δύσκολη την καταγραφή της τοποθεσίας σας.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Επιλέξτε την «Αυστηρή» λειτουργία στις ρυθμίσεις για ισχυρότερη προστασία από καταγραφή.
 about-private-browsing-spotlight-basics-learn-more = Μάθετε περισσότερα
