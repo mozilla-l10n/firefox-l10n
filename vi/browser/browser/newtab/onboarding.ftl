@@ -606,3 +606,10 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Nếu bạn đổi ý,
 onboarding-theme-picker-title = Chọn chủ đề
 onboarding-theme-picker-subtitle = Hãy tô thêm chút màu sắc cho { -brand-short-name }.
 onboarding-theme-picker-button-label = Lưu và tiếp tục
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Tính năng nổi bật

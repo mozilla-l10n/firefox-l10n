@@ -75,8 +75,31 @@ about-private-browsing-felt-privacy-v1-info-link = چه کسی ممکن است �
 
 about-private-browsing-nova-info-body = با بستن همه پنجره‌های خصوصی، کوکی‌ها، تاریخچه و داده‌های سایت‌های شما حذف می‌شوند.
 about-private-browsing-nova-info-link = چه کسانی ممکن است همچنان فعالیت‌های من را ببینند؟
+about-private-browsing-private-window-basics-link = مبانی پنجرهٔ ناشناس
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } طوری طراحی شده که با محافظت‌های داخلی در برابر ردیابی، هنگام مرور از حریم خصوصی شما محافظت کند. بستن این پنجره تاریخچه، کلوچک‌‌ها و داده‌های سایت آن را پاک می‌کند تا مرور شما از دید دیگر کاربران این دستگاه خصوصی بماند.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = ردپای مرور شما پاک می‌شود
 about-private-browsing-nova-info-subheader2 = با بستن همهٔ پنجره‌های خصوصی، تمام جستجوها و ورودهای شما پاک می‌شوند. محافظت‌های داخلی { -brand-short-name }، مانند مسدود کردن ردیاب‌ها، اینجا نیز فعال‌اند.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = مبانی پنجرهٔ ناشناس
+about-private-browsing-spotlight-basics-subtitle = پنجره‌های ناشناس کمک می‌کنند مرور شما از دید دیگران در این دستگاه خصوصی بماند. اما شما را ناشناس نمی‌کنند و همهٔ داده‌هایتان را پاک نمی‌کنند.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = آنچه باید بدانید
+about-private-browsing-spotlight-basics-activity-seen = ممکن است بخشی از فعالیت‌هایتان همچنان برای سایت‌ها، موتورهای جست‌وجو، فراهم‌کنندگان اینترنت یا کارفرمایتان قابل مشاهده باشد.
+about-private-browsing-spotlight-basics-bookmarks-downloads = نشانک‌ها و بارگیری‌ها روی دستگاهتان می‌مانند و ممکن است در نوار نشانی نمایش داده شوند.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = محافظت‌های بیشتر از حریم خصوصی
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } دربارهٔ بدافزارها و سایت‌های فریبنده به‌طور خودکار به شما هشدار می‌دهد.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } به‌طور خودکار از سایت‌های مشارکت‌کننده می‌خواهد داده‌های شخصی شما را نفروشند یا به اشتراک نگذارند.
+about-private-browsing-spotlight-basics-vpn = با VPN داخلی، ردیابی موقعیت مکانی‌تان را سخت‌تر کنید.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = برای محافظت قوی‌تر در برابر ردیابی، در تنظیمات به حالت «سخت‌گیرانه» بروید.
+about-private-browsing-spotlight-basics-learn-more = بیشتر بدانید

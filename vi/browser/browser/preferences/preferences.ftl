@@ -689,6 +689,10 @@ settings-keyboard-shortcuts-group =
     .label = Các phím tắt bàn phím
 settings-keyboard-shortcuts-customkeys-link =
     .label = Tùy chỉnh phím tắt bàn phím
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Tùy chỉnh cài đặt thanh địa chỉ trong Tìm kiếm
 settings-media-group =
     .label = Đa phương tiện
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -909,6 +913,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Công cụ tìm kiếm mặc định trong cửa sổ ẩn danh
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Điều hướng thanh địa chỉ
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Bỏ qua menu kết quả khi nhấn phím Tab
 search-suggestions-header-2 =
     .label = Đề xuất của công cụ tìm kiếm
 search-one-click-header2 = Lối tắt tìm kiếm
@@ -1138,6 +1150,9 @@ sync-syncing-across-devices-heading-2 = Dữ liệu được đồng bộ hóa t
 sync-syncing-across-devices-empty-state2 =
     .description = Bạn chưa đồng bộ… cái gì cả. Bắt đầu đồng bộ hoá để tất cả dữ liệu luôn sẵn sàng trên mọi thiết bị của bạn.
     .label = Quản lý dữ liệu đã đồng bộ
+sync-syncing-across-devices-empty-state3 =
+    .description = Bạn chưa đồng bộ hoá… bất cứ thứ gì. Hãy chọn những gì bạn muốn đồng bộ hoá trên thiết bị này.
+    .label = Quản lý dữ liệu đã đồng bộ hoá
 sync-currently-syncing-bookmarks = Dấu trang
 sync-currently-syncing-history = Lịch sử
 sync-currently-syncing-tabs = Các thẻ đang mở
