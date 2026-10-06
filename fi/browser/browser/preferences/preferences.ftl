@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Pikanäppäimet
 settings-keyboard-shortcuts-customkeys-link =
     .label = Mukauta pikanäppäimiä
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Mukauta osoiterivin asetuksia haussa
 settings-media-group =
     .label = Media
 browsing-picture-in-picture-toggle-enabled-2 =

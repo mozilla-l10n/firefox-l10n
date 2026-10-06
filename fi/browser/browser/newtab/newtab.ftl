@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Ristisanatehtävä
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Talous
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Osakkeet
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Haku
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskoopit
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Viimeisimmät haut
@@ -171,6 +177,11 @@ newtab-privacy-menu-learn-more = Lue lisää
 newtab-privacy-widget-menu-button =
     .aria-label = Tietosuoja-asetukset
     .title = Tietosuoja-asetukset
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Avaa tietosuojavalikko
+    .title = Avaa tietosuojavalikko
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -334,12 +345,23 @@ newtab-privacy-message-first-protection-cta = Näytä suojaukset
 newtab-stocks-menu-learn-more = Lue lisää
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Osaketietoja ei ole saatavilla.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Talousasetukset
+    .title = Talousasetukset
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Osakkeiden pienoisohjelman asetukset
     .title = Osakkeiden pienoisohjelman asetukset
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Avaa osakevalikko
+    .title = Avaa osakevalikko
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -370,6 +392,12 @@ newtab-stocks-list-watchlist = Seurantalista
     .label = Seurantalista
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Hae nimellä tai symbolilla
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Talous
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -475,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Päivän kuvan asetukset
     .title = Päivän kuvan asetukset
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Avaa päivän kuva -valikko
+    .title = Avaa päivän kuva -valikko
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -529,6 +562,11 @@ newtab-search-widget-title = Haku
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Hakuvalinnat
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Avaa hakuvalikko
+    .title = Avaa hakuvalikko
 
 ## Recent searches widget — empty states
 
@@ -536,6 +574,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Viimeisimmät haut näkyvät tässä, jotta voit palata niihin milloin tahansa.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Nousussa olevia hakuja ei ole tällä hetkellä saatavilla.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskoopit
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Horoskooppien asetukset
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Lue lisää
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -838,12 +886,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Ristisanatehtävä
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Talous
 newtab-custom-widget-stocks-toggle =
     .label = Osakkeet
 newtab-custom-widget-picture-toggle =
     .label = Päivän kuva
 newtab-custom-widget-search-toggle =
     .label = Haku
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskoopit
 newtab-custom-widget-recent-searches-toggle =
     .label = Viimeisimmät haut
 newtab-custom-widget-section-title = Pienoisohjelmat
@@ -1051,6 +1104,11 @@ newtab-wallpaper-celestial-river = Satelliittikuva joesta
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponsoroitu
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Avaa säävalikko
+    .title = Avaa säävalikko
 newtab-weather-menu-change-location = Vaihda sijaintia
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Hae sijaintia
@@ -1329,6 +1387,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Lista-asetukset
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Avaa listavalikko
+    .title = Avaa listavalikko
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Luo uusi lista
@@ -1416,6 +1480,11 @@ newtab-widget-timer-menu-notifications-on = Ota ilmoitukset käyttöön
 newtab-widget-timer-menu-learn-more = Lue lisää
 newtab-widget-timer-menu-button =
     .aria-label = Ajastimen asetukset
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Avaa ajastinvalikko
+    .title = Avaa ajastinvalikko
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Pääotsikot
 newtab-daily-briefing-card-menu-dismiss = Hylkää
@@ -1440,6 +1509,14 @@ newtab-promo-card-cta = Lue lisää
 newtab-promo-card-dismiss-button =
     .aria-label = Hylkää
     .title = Hylkää
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Avaa ristisanatehtävävalikko
+    .title = Avaa ristisanatehtävävalikko
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1846,6 +1923,11 @@ newtab-clock-widget-custom-back = Takaisin
 newtab-clock-widget-menu-button2 =
     .aria-label = Kellon asetukset
     .title = Kellon asetukset
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Avaa kellovalikko
+    .title = Avaa kellovalikko
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
