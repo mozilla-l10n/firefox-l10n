@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = از پروفایل انتخاب شده بدون پرسش درهنگام‌ راه‌ اندازی استفاده شود
     .accesskey = ف
+profile-has-selectable-profiles-title = نمایه‌ای را که به نمایه‌های دیگر پیوند دارد نمی‌توان حذف کرد
+profile-has-selectable-profiles-message = برای حذف این نمایه، آن را باز کنید و از بخش نمایه‌های منوی { -brand-short-name }، «مدیریت نمایه‌ها» را انتخاب کنید. پس از حذف نمایه‌های دیگری که اینجا ساخته‌اید، می‌توانید به about:profiles برگردید و این نمایه را حذف کنید.

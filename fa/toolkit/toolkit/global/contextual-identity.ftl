@@ -40,16 +40,34 @@ user-context-banking-panel-item = بانکی
     .accesskey = ب
 user-context-shopping-panel-item = خرید
     .accesskey = خ
+user-context-new-tab-panel-item = زبانهٔ جدید
+    .accesskey = ز
+user-context-add-container-panel-item = افزودن محفظهٔ جدید
+    .accesskey = ا
 user-context-manage-containers-panel-item = مدیریت کانتینرها
     .accesskey = O
+user-context-new-tab =
+    .label = زبانهٔ جدید
+    .accesskey = ز
+user-context-add-container =
+    .label = افزودن کانتینر جدید
+    .accesskey = A
+user-context-new-tab2 =
+    .label = زبانهٔ جدید
+user-context-add-container2 =
+    .label = افزودن محفظهٔ جدید
 user-context-manage-containers2 =
     .label = مدیریت کانتینرها
+user-context-new-tab2-panel-item = زبانهٔ جدید
+user-context-add-container2-panel-item = افزودن محفظهٔ جدید
 user-context-manage-containers2-panel-item = مدیریت کانتینرها
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = آبی
+user-context-color-cyan =
+    .label = فیروزه‌ای
 user-context-color-green =
     .label = سبز
 user-context-color-yellow =
@@ -62,6 +80,10 @@ user-context-color-pink =
     .label = صورتی
 user-context-color-purple =
     .label = بنفش
+user-context-color-violet =
+    .label = بنفش
+user-context-color-gray =
+    .label = خاکستری
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.

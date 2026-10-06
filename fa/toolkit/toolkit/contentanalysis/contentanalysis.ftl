@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } در حال بررسی محتوای چسبانده‌شده توسط شما بر اساس سیاست‌های داده‌ای سازمان است. این فرایند ممکن است چند لحظه طول بکشد.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } در حال بررسی محتوایی است که کپی کردید تا با سیاست‌های دادهٔ سازمانتان مطابقت داده شود. ممکن است کمی طول بکشد.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } در حال ب�
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } در حال بررسی سندی که برای چاپ فرستاده‌اید بر اساس سیاست‌های داده‌ای سازمان است. این فرایند ممکن است چند لحظه طول بکشد.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = کپی کردن این محتوا را سازمان شما محدود کرده است.
 contentanalysis-operationtype-clipboard = کلیپ‌بورد
+contentanalysis-operationtype-clipboard-copy = محتوای کپی‌شده
 contentanalysis-operationtype-dropped-text = متن رهاشده (Drag and Drop)
 contentanalysis-operationtype-print = چاپ
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = اعتبارسنجی �
 contentanalysis-error-message-upload-file = بارگذاری «{ $filename }» رد شد.
 contentanalysis-error-message-dropped-text = کشیدن و رها کردن رد شد.
 contentanalysis-error-message-clipboard = جای‌گذاری رد شد.
+contentanalysis-error-message-clipboard-copy = کپی رد شد.
 contentanalysis-error-message-print = چاپ سند رد شد.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = شما مجاز به دانل
 contentanalysis-block-dialog-body-download-file = طبق سیاست‌های حفاظت از داده‌های سازمان شما، مجاز به دانلود فایل «{ $filename }» نیستید. برای کسب اطلاعات بیشتر با مدیر سیستم خود تماس بگیرید.
 contentanalysis-block-dialog-title-clipboard = شما مجاز به جای‌گذاری این محتوا نیستید
 contentanalysis-block-dialog-body-clipboard = طبق سیاست‌های حفاظت از داده‌های سازمان شما، مجاز به جای‌گذاری این محتوا نیستید. برای کسب اطلاعات بیشتر با مدیر سیستم خود تماس بگیرید.
+contentanalysis-block-dialog-title-clipboard-copy = اجازهٔ کپی کردن این محتوا را ندارید
+contentanalysis-block-dialog-body-clipboard-copy = طبق سیاست‌های محافظت از دادهٔ سازمانتان، اجازهٔ کپی کردن این محتوا را ندارید. برای اطلاعات بیشتر با مدیر سیستم تماس بگیرید.
 contentanalysis-block-dialog-title-dropped-text = شما مجاز به رها کردن این محتوا نیستید
 contentanalysis-block-dialog-body-dropped-text = طبق سیاست‌های حفاظت از داده‌های سازمان شما، مجاز به کشیدن و رها کردن این محتوا نیستید. برای کسب اطلاعات بیشتر با مدیر سیستم خود تماس بگیرید.
 contentanalysis-block-dialog-title-print = شما مجاز به چاپ این سند نیستید

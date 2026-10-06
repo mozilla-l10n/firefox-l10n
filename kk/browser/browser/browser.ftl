@@ -1334,6 +1334,10 @@ private-browsing-info-panel-description = Бұл құрылғыдағы шолу
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Деректер жоғалуын болдырмаудың (DLP) { $agentName } ұсынған шешімі. Қосымша ақпарат алу үшін шертіңіз.
+content-analysis-panel-title2 = Деректердің жоғалуын болдырмау
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Сіздің ұйымыңыз сезімтал деректердің қалай бөлісілуі мүмкін екенін басқару үшін <b>{ $agentName }</b> қызметін пайдаланады. <a data-l10n-name="info">Көбірек білу</a>
 content-analysis-panel-title = Деректерді қорғау
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

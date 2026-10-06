@@ -44,6 +44,9 @@ firefox-relay-use-mask-title = استفاده از { -relay-brand-name } برا�
 firefox-relay-opt-in-title-b = یک پوشانهٔ رایانامهٔ رایگان دریافت کنید
 # This is preceded by firefox-relay-opt-in-title-b (on a different line)
 firefox-relay-opt-in-subtitle-b = از صندوق ورودی خود در برابر هرزنامه محافظت کنید
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = استفاده پنهان‌کننده رایانامه
+    .accesskey = ا
 firefox-relay-opt-in-confirmation-disable =
     .label = دیگر نمایش داده نشود
     .accesskey = ن

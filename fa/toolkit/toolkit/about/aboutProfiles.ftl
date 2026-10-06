@@ -27,6 +27,7 @@ profiles-rootdir = شاخه‌ی ریشه
 profiles-localdir = شاخه محلی
 profiles-current-profile = این نمایه‌ای است که مورد استفاده قرار می‌گیرد و نمی‌تواند پاک شود.
 profiles-in-use-profile = این نمایه در برنامه دیگری در حال استفاده است و قابل حذف نیست.
+profiles-cannot-delete-profile = نمایه‌ای را که به نمایه‌های دیگر پیوند دارد نمی‌توان حذف کرد.
 profiles-rename = تغییر نام
 profiles-remove = حذف
 profiles-set-as-default = تنظیم این نمایه به عنوان نمایه پیش فرض

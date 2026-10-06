@@ -68,3 +68,22 @@ text-action-search-text-box-clear =
     .title = پاک کردن
 text-action-highlight-selection =
     .label = برجسته کردن انتخاب شده
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = افزودن یادداشت به متن انتخاب‌شده
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = کپی پیوند به بخش برجسته
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = کپی پیوند تمیز به بخش برجسته
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = برداشتن برجسته‌سازی
+profile-window-menu-edit =
+    .label = ویرایش
+    .accesskey = E

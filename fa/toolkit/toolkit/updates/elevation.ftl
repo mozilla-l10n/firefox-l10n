@@ -17,3 +17,4 @@ sandbox-unprivileged-namespaces-dismiss-button =
     .label = دیگر این پیام را نمایش نده
     .accesskey = ن
 sandbox-unprivileged-namespaces-howtofix = چگونه این مشکل را برطرف کنیم
+sandbox-content-disabled-warning = محیط امن (sandbox) امنیتی غیرفعال است. پیکربندی شما پشتیبانی نمی‌شود و امنیت کمتری دارد.

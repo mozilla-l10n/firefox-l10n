@@ -30,6 +30,7 @@ password-manager-password-password-button-allow =
 password-manager-update-password-button-deny =
     .label = به‌روزرسانی نشود
     .accesskey = ب
+primary-password-prompt-message = لطفاً گذرواژهٔ اصلی خود را وارد کنید.
 # This is displayed in place of the username when it is missing.
 password-manager-no-username-placeholder = نام کاربری
 password-manager-confirm-password-change = تصدیق تغییر گذرواژه

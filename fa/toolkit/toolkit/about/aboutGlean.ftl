@@ -183,6 +183,12 @@ about-glean-no-data-to-display = داده‌ای برای نمایش وجود ن
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = سنجه‌های <code>DualLabeledCounter</code> هنوز در نمای <code>about:glean</code> پشتیبانی نمی‌شوند.
 about-glean-unknown-metric-type-warning = نوع سنجه ناشناخته است.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = پینگ:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = ذخیرهٔ پینگ‌های ارسال‌شده در حافظه را فعال می‌کند
+    .label = ذخیرهٔ پینگ‌های ارسال‌شده
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

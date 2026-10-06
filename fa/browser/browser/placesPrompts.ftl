@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (بدون عنوان)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = به دلایل امنیتی، نشانی‌های اینترنتی «javascript:» یا «data:» را نمی‌توان از پنجره تاریخچه یا نوار کناری بارگیری کرد.
 places-bookmarks-backup-title = نام پروندهٔ پشتیبان نشانک‌ها
 places-bookmarks-restore-alert-title = برگرداندن نشانک‌ها
 places-bookmarks-restore-alert = این کار تمام نشانک‌های فعلی شما را با این پشتیبان جایگزین می‌کند.  آیا از این کار اطمینان دارید؟

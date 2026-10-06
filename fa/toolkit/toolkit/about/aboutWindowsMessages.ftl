@@ -9,4 +9,12 @@
 ### individual browser windows. These messages can be useful in debugging
 ### hard-to-reproduce issues with window sizing and position.
 
+# Windows refers to the operating system
+windows-messages-page-title = اطلاعات پیام‌های Windows
+windows-messages-intro =
+    این صفحه جدیدترین پیام‌هایی را نشان می‌دهد که Windows
+    به پنجره‌های مرورگر { -brand-short-name } فرستاده است.
+    مورد پررنگ نشان‌دهندهٔ این پنجره است. توجه کنید که این صفحه
+    جدیدترین پیام‌ها را در زمان بار شدن صفحه نشان می‌دهد؛
+    برای دیدن پیام‌های فعلی باید صفحه را تازه کنید.
 windows-messages-copy-to-clipboard = رونوشت در تخته‌گیره

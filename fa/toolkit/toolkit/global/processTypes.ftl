@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = ابزار موتور بنیاد ر
 process-type-utility-actor-js-oracle = ابزار اوراکل جاوااسکریپت
 process-type-utility-actor-windows-utils = ابزارهای ویندوز
 process-type-utility-actor-windows-file-dialog = ابزارهای گفت‌وگوی پرونده ویندوز
+process-type-utility-actor-hw-inference = استنتاج شتاب‌یافتهٔ سخت‌افزاری (کاربردی)
 
 ##
 ## Other

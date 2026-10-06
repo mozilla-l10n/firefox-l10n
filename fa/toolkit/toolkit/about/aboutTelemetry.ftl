@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = منبع اطلاعات پینگ:
+about-telemetry-show-current-data = داده‌های فعلی
 about-telemetry-show-archived-ping-data = بایگانی اطلاعات پینگ
 about-telemetry-show-subsession-data = نمایش اطلاعات زیرنشست‌ها
 about-telemetry-choose-ping = انتخاب پینگ:
@@ -14,10 +15,12 @@ about-telemetry-option-group-older = قدیمی
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = اطلاعات مسافت‌سنجی
+about-telemetry-current-store = انبارهٔ فعلی:
 about-telemetry-more-information = به دنبال اطلاعات بیشتر هستید؟
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">مستندات اطلاعات فایرفاکس</a> شامل راهنماهای بسیار زیادی در خصوص کار کردن با ابزارهای داده می باشد.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link"> مستندات Telemetry فایرفاکس برای کاربران</a> شامل تعریفات مفاهیم، مستندات و منابع API ها.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link"> داشبورد Telemetry</a> به شما این امکان را می‌دهد تا داده های دریافت شده توسط Telemetryموزیلا را تصویر کنید.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">فرهنگ کاوشگرها</a> جزئیات و توضیحات کاوشگرهایی را که دورسنجی جمع‌آوری می‌کند ارائه می‌دهد.
 about-telemetry-show-in-Firefox-json-viewer = بازکردن در نمایشگرJSON
 about-telemetry-home-section = خانه
 about-telemetry-general-data-section = اطلاعات عمومی
@@ -53,6 +56,16 @@ about-telemetry-upload-type =
         [enabled] فعال شد
        *[disabled] غیرفعال شد
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } نمونه، میانگین = { $prettyAverage }، مجموع = { $sum }
+       *[other] { $sampleCount } نمونه، میانگین = { $prettyAverage }، مجموع = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = این صفحه اطلاعاتی درباره کارایی، سخت‌افزار، استفاده و سفارشی‌سازی‌های جمع‌آوری شده توسط مسافت‌سنج را نشان می‌دهد. این اطلاعات در { $telemetryServerOwner } ثبت شده است تا در بهبود { -brand-full-name } کمک کند.
@@ -61,6 +74,7 @@ about-telemetry-settings-explanation = سنجش از راه دور { about-telem
 #   $name (string) - Ping name, e.g. “saved-session”
 #   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = هر قطعه از این اطلاعات به همراه“<a data-l10n-name="ping-link">پینگ‌ها</a>” ارسال شده است. شما در حال نگاه کردن به پینگ { $name }, { $timestamp } هستید.
+about-telemetry-data-details-current = هر تکه از اطلاعات در قالب «<a data-l10n-name="ping-link">پینگ‌ها</a>» فرستاده می‌شود. شما در حال دیدن داده‌های فعلی هستید.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -85,6 +99,8 @@ about-telemetry-no-search-results-all = متاسفیم! نتیجه ای برای
 # Variables:
 #   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = متاسفیم! ولی در حال حاضر اطلاعاتی برای “{ $sectionName }” در دسترس نیست
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = داده‌های فعلی
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = همه
 # button label to copy the histogram
@@ -115,3 +131,6 @@ about-telemetry-category-header = دسته بندی
 about-telemetry-method-header = روش
 about-telemetry-object-header = شئ
 about-telemetry-extra-header = اضافی
+# Variables:
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = پردازش { $process }
