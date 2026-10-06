@@ -86,17 +86,20 @@ about-private-browsing-nova-info-subheader2 = 关闭所有隐私窗口后，所�
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = 隐私窗口入门
-about-private-browsing-spotlight-basics-subtitle = 隐私窗口有助于防止使用此设备的其他人看到您的浏览活动，但不能让您匿名，也无法清除您的所有数据。
+about-private-browsing-spotlight-basics-subtitle = 隐私窗口有助于避免使用此设备的其他人看到您的浏览活动，但不能让您匿名，也无法清除您的所有数据。
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = 使用须知
 about-private-browsing-spotlight-basics-activity-seen = 网站、搜索引擎、互联网服务提供商或您的雇主仍可能看到您的部分活动。
 about-private-browsing-spotlight-basics-bookmarks-downloads = 书签和下载项会保留在您的设备上，并可能显示在地址栏中。
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = 更多隐私保护
-about-private-browsing-spotlight-basics-malware-alerts = 识别到恶意软件和诈骗网站时，{ -brand-short-name } 会自动发出警报。
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } 会在识别到恶意软件和诈骗网站时自动发出警报。
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
 about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } 会自动要求参加网站不要出售或共享您的个人数据。
 about-private-browsing-spotlight-basics-vpn = 使用内置 VPN 可让您的位置更难被追踪。
 # "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
 # Translations should be consistent with the existing "Strict" string in about:preferences.
-about-private-browsing-spotlight-basics-strict-tracking = 在设置中切换到“严格”级别，获得更强的跟踪保护。
+about-private-browsing-spotlight-basics-strict-tracking = 在设置中切换到“严格”级别可获得更强的跟踪保护。
 about-private-browsing-spotlight-basics-learn-more = 详细了解
