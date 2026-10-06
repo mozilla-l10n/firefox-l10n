@@ -25,10 +25,17 @@ main-context-menu-back-mac =
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 navbar-tooltip-back-3 =
     .value = Torna indietro di una pagina ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Indietro
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Torna indietro di una pagina ({ $shortcut })
+    .aria-label = Indietro
 
 ## Forward
 
