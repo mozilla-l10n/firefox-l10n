@@ -26,6 +26,11 @@ inspector-split-orientation-button-title = Aranĝo de paneloj
 # A label for the split orientation menu item that switches the layout
 # automatically based on the panel width.
 inspector-split-orientation-auto = Aŭtomata
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Apude
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = Stakite
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
     .title = Ŝalti/malŝalti imiton de hela koloraro por la paĝo

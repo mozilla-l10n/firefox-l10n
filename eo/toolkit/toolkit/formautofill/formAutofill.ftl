@@ -78,6 +78,8 @@ credit-card-doorhanger-details-expiration = { $month }/{ $year }
 credit-card-doorhanger-details-cvv = CVV konservita
 credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
 credit-card-doorhanger-details-name-cvv = { $name } | CVV konservita
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV konservita
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV konservita
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

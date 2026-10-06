@@ -23,6 +23,9 @@ contentanalysis-slow-agent-dialog-body-file-and-more =
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } kontrolas ĉu via alguaĵo kongruas kun la datumaj reguloj de via organizo. Tio ĉi povas bezoni iom da tempo.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+contentanalysis-slow-agent-dialog-body-clipboard-copy = { $agent } kontrolas ĉu via kopiitaĵo kongruas kun la datumaj reguloj de via organizo. Tio ĉi povas bezoni iom da tempo.
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -30,7 +33,12 @@ contentanalysis-slow-agent-dialog-body-dropped-text = { $agent } kontrolas ĉu l
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-print = { $agent } kontrolas ĉu via presaĵo kongruas kun la datumaj reguloj de via organizo. Tio ĉi povas bezoni iom da tempo.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Kopiado de tiu ĉi enhavo estas limigita de via organizo.
 contentanalysis-operationtype-clipboard = tondujo
+contentanalysis-operationtype-clipboard-copy = kopiita enhavo
 contentanalysis-operationtype-dropped-text = demetita teksto
 contentanalysis-operationtype-print = presi
 #   $filename - The filename associated with the request, such as "aFile.txt"
@@ -68,6 +76,7 @@ contentanalysis-invalid-agent-signature-message-content = Malsukcesa kontrolo de
 contentanalysis-error-message-upload-file = Rifuzita alŝuto de “{ $filename }”.
 contentanalysis-error-message-dropped-text = Rifuzita treno kaj faligo.
 contentanalysis-error-message-clipboard = Rifuzita algluo.
+contentanalysis-error-message-clipboard-copy = Kopio rifuzita.
 contentanalysis-error-message-print = Rifuzita presado.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -83,6 +92,8 @@ contentanalysis-block-dialog-title-download-file = Vi ne rajtas elŝuti tiun ĉi
 contentanalysis-block-dialog-body-download-file = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas elŝuti la dosieron “{ $filename }”. Kontaktu vian administranton por havi pli da informo.
 contentanalysis-block-dialog-title-clipboard = Vi ne rajtas alglui tiun ĉi enhavon
 contentanalysis-block-dialog-body-clipboard = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas alglui tiun ĉi enhavon. Kontaktu vian administranton por havi pli da informo.
+contentanalysis-block-dialog-title-clipboard-copy = Vi ne rajtas kopii tiun ĉi enhavon
+contentanalysis-block-dialog-body-clipboard-copy = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas kopii tiun ĉi enhavon. Kontaktu vian administranton por havi pli da informo.
 contentanalysis-block-dialog-title-dropped-text = Vi ne rajtas faligi tiun ĉi enhavon
 contentanalysis-block-dialog-body-dropped-text = Laŭ la politikoj de protekto de datumoj de via organizo vi ne rajtas faligi tiun ĉi enhavon. Kontaktu vian administranton por havi pli da informo.
 contentanalysis-block-dialog-title-print = Vi ne rajtas presi tiun ĉi dokumenton

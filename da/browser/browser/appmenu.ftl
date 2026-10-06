@@ -16,6 +16,7 @@ appmenuitem-banner-update-unsupported =
 appmenuitem-banner-update-restart =
     .label = Opdatering tilgængelig — genstart nu
 appmenu-nova-update-title = Genstart for at opdatere { -brand-short-name }
+appmenu-nova-update-description = Dine faneblade åbnes igen.
 appmenu-nova-fxa-sign-in = Log ind
 appmenu-nova-switch-device-promo =
     .message = Skal du snart have en ny enhed? Tag { -brand-short-name } med dig!
@@ -160,8 +161,17 @@ appmenu-fxa-last-sync = Senest synkroniseret { $time }
 appmenu-fxa-sync-and-save-data2 = Synkroniser og gem data
 appmenu-fxa-signed-in-label = Log ind
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Synkroniser dine data overalt
+appmenu-fxa-sign-in-promo-link = Log ind
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Afvis login-kampagne
+    .title = Afvis
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Log ind for at synkronisere
+appmenu-fxa-sign-in-promo-message = Få adgang til dine data overalt
 appmenu-fxa-sign-in-promo-button =
     .label = Log ind
 appmenu-fxa-setup-sync =
@@ -240,6 +250,8 @@ profiler-popup-presets-ml-label =
 profiler-popup-presets-networking-description = Forhåndsindstilling for at undersøge netværksproblemer i { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Netværk
+profiler-popup-presets-networking-with-logs-label =
+    .label = Netværk med logfiler
 profiler-popup-presets-power-description = Forhåndsindstilling for at undersøge strømproblemer i { -brand-shorter-name }, med lavt overhead.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
