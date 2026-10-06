@@ -1338,6 +1338,10 @@ private-browsing-info-panel-description = זה מסייע להסתיר את הג
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = מניעת אובדן נתונים (DLP) מאת { $agentName }. יש ללחוץ למידע נוסף.
+content-analysis-panel-title2 = מניעת אובדן נתונים
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = הארגון שלך משתמש ב־<b>{ $agentName }</b> כדי לשלוט באופן שבו ניתן לשתף מידע רגיש. <a data-l10n-name="info">מידע נוסף</a>
 content-analysis-panel-title = הגנת נתונים
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
