@@ -52,7 +52,7 @@ downloads-shortcut =
 addons-shortcut-2 =
     .key =
         { PLATFORM() ->
-            [macos] G
+            [macos] E
            *[other] F
         }
 addons-shortcut =
