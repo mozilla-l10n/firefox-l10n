@@ -35,6 +35,29 @@ urlbar-identity-button2 =
             [1] Xem thông tin trang web (1 trình theo dõi bị chặn)
            *[other] Xem thông tin trang web ({ $count } trình theo dõi bị chặn)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label = { $count } liên kết
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Tin nhắn, và tuỳ chọn khác…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Tin nhắn, Thư, và tuỳ chọn khác…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Chia sẻ…
+    .accesskey = h
 urlbar-identity-button =
     .aria-label = Xem thông tin trang
 
@@ -100,6 +123,8 @@ urlbar-result-menu-tip-get-help2 = Nhận trợ giúp
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = Bỏ qua đề xuất này
     .accesskey = D
+urlbar-result-menu-remove-top-site = Xóa trang web hàng đầu này
+    .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = Quản lý { -firefox-suggest-brand-name }
     .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -915,6 +940,12 @@ urlbar-view-context-menu-open-in-window2 = Mở trong cửa sổ mới
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = Mở trong cửa sổ riêng tư mới
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Bỏ qua menu này khi sử dụng phím tab.
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 
@@ -1267,6 +1298,10 @@ private-browsing-info-panel-description = Điều này giúp ẩn hoạt động
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Ngăn ngừa mất dữ liệu (DLP) bởi { $agentName }. Nhấp vào đây để biết thêm thông tin.
+content-analysis-panel-title2 = Ngăn ngừa mất dữ liệu
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Tổ chức của bạn sử dụng <b>{ $agentName }</b> để kiểm soát cách thức chia sẻ dữ liệu nhạy cảm. <a data-l10n-name="info">Tìm hiểu thêm</a>
 content-analysis-panel-title = Bảo vệ dữ liệu
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

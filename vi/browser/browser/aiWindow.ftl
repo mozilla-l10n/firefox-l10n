@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Tìm kiếm trang web…
 
 smartbar-mention-typing-placeholder = Tag một thẻ hoặc trang
 smartbar-mentions-list-no-results-label = Không tìm thấy kết quả nào
+smartbar-mentions-list-tab-groups-label = Nhóm gần đây
 smartbar-mentions-list-recent-tabs-label = Các thẻ gần đây
 
 ## Context mentions menu toggle button

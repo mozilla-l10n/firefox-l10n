@@ -83,6 +83,9 @@ firefoxview-overview-nav = Duyệt web gần đây
     .title = Duyệt web gần đây
 firefoxview-overview-header = Duyệt web gần đây
     .title = Duyệt web gần đây
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Các thẻ và lịch sử duyệt web trên nhiều thiết bị
 
 ## History in this context refers to browser history
 

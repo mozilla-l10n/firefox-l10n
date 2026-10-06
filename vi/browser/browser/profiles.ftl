@@ -57,6 +57,9 @@ avatar-selector-add-image = Thêm một ảnh
 avatar-selector-crop = Cắt
 avatar-selector-dialog =
     .aria-label = Chỉnh sửa ảnh đại diện
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Chọn một hình đại diện
 edit-profile-page-no-name = Đặt tên cho hồ sơ này để giúp bạn tìm thấy nó sau này. Có thể đổi tên bất cứ lúc nào.
 edit-profile-page-duplicate-name = Tên hồ sơ đã được sử dụng. Hãy thử một tên khác.
 edit-profile-page-profile-saved = Đã lưu

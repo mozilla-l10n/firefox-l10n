@@ -96,3 +96,7 @@ about-private-browsing-spotlight-basics-malware-alerts = 识别到恶意软件�
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
 about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } 会自动要求参加网站不要出售或共享您的个人数据。
 about-private-browsing-spotlight-basics-vpn = 使用内置 VPN 可让您的位置更难被追踪。
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = 在设置中切换到“严格”级别，获得更强的跟踪保护。
+about-private-browsing-spotlight-basics-learn-more = 详细了解
