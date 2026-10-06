@@ -7,6 +7,7 @@ restart-required-heading2 = Kusura bakmayın, { -brand-short-name } tarayıcın�
 restart-required-intro2 = { -brand-short-name } güncellemeyi tamamlamalı. Tarayıcınızın güvenli ve sorunsuz çalışması için yeniden başlatın.
 window-restoration-info2 = Gizli pencereler ve sekmeler dışındaki tüm pencereleri ve sekmeleri yeniden açacağız.
 restart-required-why-now-question = Neden şimdi?
+restart-required-why-now-answer = Bu durum, başka bir { -brand-short-name } profili veya kurulumu güncellendiğinde ya da bir güncelleme bir sonraki yeniden başlatmanıza kadar bekleyemediğinde ortaya çıkabilir.
 restart-required-more-details-heading = Daha fazla ayrıntı
 restart-required-single-instance-question = Birden fazla profil veya kurulum kullanmıyorum. Neden böyle bir şey oldu?
 restart-required-single-instance-answer = { -brand-short-name } açıkken arka planda bir güncelleme uygulanmışsa yeniden başlatılması gerekebilir.

@@ -93,3 +93,4 @@ about-private-browsing-spotlight-basics-bookmarks-downloads = 书签和下载项
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = 更多隐私保护
 about-private-browsing-spotlight-basics-malware-alerts = 识别到恶意软件和诈骗网站时，{ -brand-short-name } 会自动发出警报。
+about-private-browsing-spotlight-basics-vpn = 使用内置 VPN 可让您的位置更难被追踪。
