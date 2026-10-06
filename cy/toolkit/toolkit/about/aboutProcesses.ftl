@@ -16,6 +16,10 @@ about-processes-kill-process =
     .title = Terfynu'r broses
 about-processes-shutdown-tab =
     .title = Cau tab
+about-processes-unload-tab =
+    .title = Dadlwytho tab
+about-processes-go-to-tab =
+    .title = Mynd i dab
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -36,6 +40,11 @@ about-processes-profile-process =
 about-processes-column-name = Enw
 about-processes-column-memory-resident = Cof
 about-processes-column-cpu-total = CPU
+# Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
+about-processes-column-cpu-total-tab = CPU
+    .title = % o gyfanswm capasiti CPU ar draws pob craidd
+# Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
+about-processes-column-memory-resident-tab = RAM
 
 ## Process names
 ## Variables:
@@ -169,6 +178,14 @@ about-processes-cpu-almost-idle = <0.1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = yn segur
     .title = Cyfanswm amser CPU { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Special case: a tab is currently idle.
+about-processes-tab-cpu-fully-idle = yn segur
+# Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
+about-processes-tab-cpu-almost-idle = <0.1%
 
 ## Displaying Memory (total and delta)
 ## Variables:

@@ -713,6 +713,10 @@ settings-keyboard-shortcuts-group =
     .label = Llwybrau byr bysellfwrdd
 settings-keyboard-shortcuts-customkeys-link =
     .label = Cyfaddasu llwybrau byr bysellfwrdd
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Cyfaddasu gosodiadau bar cyfeiriad yn Chwilio
 settings-media-group =
     .label = Cyfrwng
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -941,6 +945,14 @@ search-separate-default-engine-2 =
     .accesskey = b
 search-separate-default-engine-dropdown =
     .aria-label = Peiriant chwilio rhagosodedig mewn ffenestri preifat
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Llywio bar cyfeiriad
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Hepgor y ddewislen canlyniadau wrth ddefnyddio'r bysell tab i symud ffocws
 search-suggestions-header-2 =
     .label = Awgrymiadau peiriannau chwilio
 search-one-click-header2 = Chwilio'r Llwybrau Byr
@@ -1169,6 +1181,9 @@ sync-syncing-across-devices-heading = Rydych yn cydweddu'r eitemau hyn i'ch holl
 sync-syncing-across-devices-heading-2 = Data wedi'u cydweddu ar draws dyfeisiau
 sync-syncing-across-devices-empty-state2 =
     .description = Dydych chi ddim yn cydweddu dim… eto. Cychwynnwch gydweddu i gael y cyfan o'ch data ar eich holl ddyfeisiau.
+    .label = Rheoli data wedi'i gydweddu
+sync-syncing-across-devices-empty-state3 =
+    .description = Dydych chi ddim yn cydweddu dim byd eto. Dewiswch beth i'w gydweddu ar y ddyfais hon.
     .label = Rheoli data wedi'i gydweddu
 sync-currently-syncing-bookmarks = Nodau Tudalen
 sync-currently-syncing-history = Hanes

@@ -189,6 +189,12 @@ about-glean-no-data-to-display = Dim data i'w ddangos.
 # Do not translate strings between <code> </code> tags.
 about-glean-dual-labeled-metric-warning = Dyw metrigau <code>DualLabeledCounter</code> heb eu cefnogi eto yn y wedd <code>about:glean</code>.
 about-glean-unknown-metric-type-warning = Math metrig anhysbys.
+# Label for selection drop-down list containing Pings for selection
+about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Yn galluogi storio Pingiau gyflwynwyd yn y cof
+    .label = Cadw Pingiau gyflwynwyd
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

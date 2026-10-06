@@ -102,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Chwilio
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horosgopau
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Chwilio diweddar
@@ -178,6 +181,11 @@ newtab-privacy-menu-learn-more = Dysgu rhagor
 newtab-privacy-widget-menu-button =
     .aria-label = Dewisiadau preifatrwydd
     .title = Dewisiadau preifatrwydd
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Agor y ddewislen preifatrwydd
+    .title = Agor y ddewislen preifatrwydd
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -369,12 +377,23 @@ newtab-privacy-message-first-protection-cta = Dyma'r diogelwch
 newtab-stocks-menu-learn-more = Dysgu rhagor
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dyw data stoc ddim ar gael.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Dewisiadau cyllid
+    .title = Dewisiadau cyllid
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Dewisiadau'r teclyn stociau
     .title = Dewisiadau'r teclyn stociau
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Yn agor y ddewislen stoc
+    .title = Yn agor y ddewislen stoc
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -405,6 +424,12 @@ newtab-stocks-list-watchlist = Rhestr wylio
     .label = Rhestr wylio
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Chwilio yn ôl enw neu symbol
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Cyllid
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -514,6 +539,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Dewisiadau darlun y dydd
     .title = Dewisiadau darlun y dydd
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Agor lun o ddewislen y dydd
+    .title = Agor lun o ddewislen y dydd
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -568,6 +598,11 @@ newtab-search-widget-title = Chwilio
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Dewisiadau chwilio
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Agor y ddewislen chwilio
+    .title = Agor y ddewislen chwilio
 
 ## Recent searches widget — empty states
 
@@ -575,6 +610,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Bydd y chwilio diweddar yn ymddangos yma fel bod modd i chi eu codi eto, unrhyw bryd.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Nid yw'r chwilio trendio ar gael ar hyn o bryd.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horosgopau
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Dewisiadau horosgopau
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Dysgu rhagor
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -877,12 +922,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Croesair
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Cyllid
 newtab-custom-widget-stocks-toggle =
     .label = Stociau
 newtab-custom-widget-picture-toggle =
     .label = Darlun y dydd
 newtab-custom-widget-search-toggle =
     .label = Chwilio
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horosgopau
 newtab-custom-widget-recent-searches-toggle =
     .label = Chwilio diweddar
 newtab-custom-widget-section-title = Teclynnau
@@ -1106,6 +1156,11 @@ newtab-wallpaper-celestial-river = Delwedd lloeren o'r afon
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Wedi'i noddi
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Agor dewislen y tywydd
+    .title = Agor dewislen y tywydd
 newtab-weather-menu-change-location = Newid lleoliad
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Chwilio am leoliad
@@ -1384,6 +1439,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Dewisiadau'r rhestr
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Agor dewislen y rhestrau
+    .title = Agor dewislen y rhestrau
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Creu rhestr newydd
@@ -1471,6 +1532,11 @@ newtab-widget-timer-menu-notifications-on = Troi hysbysiadau ymlaen
 newtab-widget-timer-menu-learn-more = Dysgu rhagor
 newtab-widget-timer-menu-button =
     .aria-label = Dewisiadau amserydd
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Agor dewislen yr amserydd
+    .title = Agor dewislen yr amserydd
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Prif Benawdau
 newtab-daily-briefing-card-menu-dismiss = Cau
@@ -1495,6 +1561,14 @@ newtab-promo-card-cta = Dysgu rhagor
 newtab-promo-card-dismiss-button =
     .aria-label = Cau
     .title = Cau
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Agor y ddewislen croesair
+    .title = Agor y ddewislen croesair
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1913,6 +1987,11 @@ newtab-clock-widget-custom-back = Nôl
 newtab-clock-widget-menu-button2 =
     .aria-label = Dewisiadau cloc
     .title = Dewisiadau cloc
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Agor y ddewislen cloc
+    .title = Agor y ddewislen cloc
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

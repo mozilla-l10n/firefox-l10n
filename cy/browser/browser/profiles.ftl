@@ -57,6 +57,9 @@ avatar-selector-add-image = Ychwanegu delwedd
 avatar-selector-crop = Tocio
 avatar-selector-dialog =
     .aria-label = Golygu Afatar
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Dewiswch afatar
 edit-profile-page-no-name = Rhowch enw i'r proffil hwn i'ch helpu i ddod o hyd iddo yn nes ymlaen. Gallwch ei ail-enwi ef unrhyw bryd.
 edit-profile-page-duplicate-name = Mae'r enw proffil eisoes yn cael ei ddefnyddio. Rhowch gynnig ar enw newydd.
 edit-profile-page-profile-saved = Wedi'i Gadw

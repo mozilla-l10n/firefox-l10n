@@ -10,6 +10,9 @@ theme-picker-mode-device = Dyfais
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Gwedd
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Themâu
 theme-picker-use-linux-theme =
     .label = Defnyddio thema system Linux
 
