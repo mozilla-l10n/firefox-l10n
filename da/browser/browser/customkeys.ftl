@@ -64,6 +64,9 @@ customkeys-caution-message = Denne funktion er eksperimentel og virker muligvis 
 customkeys-key-invalid = Ugyldig
 customkeys-shortcut-unassigned =
     .placeholder = Tilføj genvej
+# Variables:
+# $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
+customkeys-shortcut-input = Genvej til: { $keyLabel }
 customkeys-key-edit =
     .aria-label = Rediger
     .tooltiptext = Rediger
@@ -93,6 +96,9 @@ customkeys-conflict-unusable-title = Tasten kan ikke bruges
 # Variables
 # $conflict (string) - The title of the conflicting shortcut.
 customkeys-conflict-unusable-body = Denne tast bruges allerede af "{ $conflict }" og kan ikke bruges.
+customkeys-reset-all-confirm-title = Gendan standard-indstillingerne?
+customkeys-reset-all-confirm-body = Alle brugerdefinerede tastaturgenveje, du har oprettet, vil blive fjernet.
+customkeys-reset-all-confirm-button-confirm = Gendan standard-indstillinger
 customkeys-reset-all-confirm-button-cancel = Annuller
 
 ## Sidebar
@@ -106,3 +112,4 @@ customkeys-search-input =
     .aria-label = Søg i genveje
     .placeholder = Søg i genveje
 customkeys-support-link-text = Lær mere
+customkeys-reset-all-button = Gendan standard-indstillinger

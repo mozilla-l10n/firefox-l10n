@@ -374,6 +374,7 @@ appmenuitem-relay-title-signed-in = Vis mail-masker
 appmenuitem-relay-description = Skjul din rigtige mailadresse og dit telefonnummer
 appmenuitem-services-relay-description = Vis oversigt over mail-masker
 appmenuitem-vpn-title2 = Skjul din placering med { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description5 = Få ekstra beskyttelse på tværs af enheder
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Hent { -mozilla-vpn-brand-name }
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
@@ -426,3 +427,6 @@ fxa-menu-device-view-all-synced-tabs =
             [one] Vis { $tabCount } synkroniseret faneblad
            *[other] Vis alle { $tabCount } synkroniserede faneblade
         }
+# Button in the recent tabs sub-panel that sends the current page to the synced device.
+fxa-menu-device-send-current-page =
+    .label = Send den aktuelle side til denne enhed

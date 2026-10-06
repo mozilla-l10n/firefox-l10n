@@ -26,6 +26,33 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Håndter indstillinger for pop op-vinduer og tredjeparts-omdirigeringer…
     .accesskey = H
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } link
+           *[other] { $count } links
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Beskeder og flere…
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Beskeder, Mail og flere…
+    .accesskey = B
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Del…
+    .accesskey = D
 urlbar-identity-button =
     .aria-label = Vis information om websted
 
@@ -467,6 +494,7 @@ identity-description-passive-loaded-insecure2 = Noget af dette websteds indhold 
 identity-description-passive-loaded-mixed2 = Selvom { -brand-short-name } har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (fx billeder).
 identity-description-active-loaded = Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.
 identity-description-active-loaded-insecure = Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.
+identity-description-tls-key-logging-message = En app eller tjeneste kan muligvis se din krypterede trafik fra dette websted.
 identity-more-info-link-text =
     .label = Mere information
 
@@ -1213,6 +1241,10 @@ private-browsing-info-panel-title = Du befinder dig i et privat vindue
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Forebyggelse af datatab (DLP) fra { $agentName }. Klik for at se mere info.
+content-analysis-panel-title2 = Forebyggelse af datatab
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Din organisation bruger <b>{ $agentName }</b> til at kontrollere, hvordan følsomme data må deles. <a data-l10n-name="info">Læs mere</a>
 content-analysis-panel-title = Databeskyttelse
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

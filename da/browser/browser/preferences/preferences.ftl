@@ -670,6 +670,9 @@ preferences-accessibility-header =
     .heading = Tilgængelighed
 preferences-default-zoom-select =
     .aria-label = Standard-zoom
+preferences-fonts-advanced-settings =
+    .label = Avancerede indstillinger
+    .accesskey = v
 
 ## General Section - Proxy
 

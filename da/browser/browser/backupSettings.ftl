@@ -88,6 +88,7 @@ turn-on-scheduled-backups-confirm-button = Slå sikkerhedskopiering til
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = Der opstod et problem med mappen, du har valgt at gemme sikkerhedskopier i. Vælg en anden mappe og prøv igen.
+turn-on-scheduled-backups-error-default-dir-denied = Vi kunne ikke få adgang til mappen, du har valgt at gemme sikkerhedskopier i. Prøv at vælge en ny placering.
 backup-error-file-system = Under sikkerhedskopiering af { -brand-short-name } opstod der et problem med den mappe, du har valgt at gemme sikkerhedskopier i.
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
@@ -176,6 +177,7 @@ change-backup-encryption-header = Skift adgangskode til sikkerhedskopiering
 
 password-rules-header = Krav til adgangskode
 password-rules-length-description = Mindst otte tegn
+password-rules-email-description2 = Ikke en mailadresse
 password-rules-email-description = Ikke din mailadresse
 password-rules-disclaimer = Beskyt dig selv — genbrug ikke adgangskoder. Læs mere om, hvordan du <a data-l10n-name="password-support-link">opretter stærke adgangskoder</a>.
 password-validity-has-email = Må ikke være en mailadresse

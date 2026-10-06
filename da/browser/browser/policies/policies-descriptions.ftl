@@ -30,6 +30,10 @@ policy-Bookmarks = Opret bogmærker i Bogmærkelinjen, i menuen Bogmærker eller
 policy-CaptivePortal = Slå understøttelse af tvungen portal til eller fra.
 policy-CertificatesDescription = Tilføj certifikater eller brug indbyggede certifikater.
 policy-ClearOnShutdown = Ryd browserdata, når { -brand-short-name } lukker.
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = Aktiver nøgleaftalen CNSA 2.0 ML-KEM-1024 for TLS.
 policy-ContentAnalysis = Aktiver eller deaktiver forbindelse til agent til forhindring af data-tab.
 policy-Cookies = Tillad eller nægt websteder at sætte cookies.
 # Containers in this context is referring to container tabs in Firefox.

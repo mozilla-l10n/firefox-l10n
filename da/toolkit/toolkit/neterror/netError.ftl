@@ -70,6 +70,14 @@ neterror-search-cta-learn-more = Læs mere
 
 neterror-pref-reset = Det ser ud til, at dine indstillinger for netværkssikkerhed forårsager dette. Vil du gendanne til standard-indstillinger?
 
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = Din forbindelse er muligvis ikke privat
+    .message = En app eller tjeneste kan muligvis se din krypterede trafik fra dette websted.
+
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } kan ikke indlæse denne side af en eller anden grund.

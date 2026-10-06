@@ -538,6 +538,37 @@ onboarding-refresh-gratitude-subtitle = Dankon pro via uzo de { -brand-short-nam
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = { -brand-short-name } protektas vin
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } protektas vin ekde nun
+onboarding-refresh-hero-text = Kreita por protekti vin, ne spuri vin.
+onboarding-refresh-tou-default = Malfermi ĉiujn ligilojn per { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Teni { -brand-short-name } en la Dock
+       *[other] Aldoni { -brand-short-name } al via taska ilaro
+    }
+onboarding-refresh-tou-default-unchecked = Profitu la integritan protekton dum ĉiu retuma seanco
+onboarding-refresh-tou-pin-unchecked = Tenu la ununuran grandan sendependan retumilon je unu alklako
+onboarding-refresh-terms-of-use-with-links = Se vi daŭrigas vi akceptas la <a data-l10n-name="terms_of_use"> kondiĉojn de uzo de { -brand-product-name }</a> kaj nian <a data-l10n-name="privacy_notice">rimarkon pri privateco</a>. Por helpi plibonigi la retumilon, { -brand-product-name } sendas diagnozajn kaj interagajn datumojn al { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Administri agordojn pri kolekto de datumoj
+onboarding-refresh-primary-button = Daŭrigi
+onboarding-refresh-fro-import-header = Importu viajn datumojn
+onboarding-refresh-fro-import-body = Viaj personaj datumoj restas personaj. { -brand-product-name } neniam vendos ilin.
+onboarding-refresh-fro-skip-button = Ignori
+onboarding-refresh-fro-theme-header = Personecigu la aspekton
+onboarding-refresh-tab-layout-header = Provu alian aranĝon de langetoj
+onboarding-refresh-tab-layout-top = Supre
+onboarding-refresh-tab-layout-side = Flanke
+onboarding-refresh-tab-layout-minimal = Minimuma
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Retumila frenestro kiu montras langetojn kiel etajn emblemojn laŭ la longo de la ekrano, kvazaŭ en minimumigita flanka strio.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Retumila frenestro kiu montras langetojn kiel etajn emblemojn laŭ la longo de la ekrano, kvazaŭ en minimumigita flanka strio.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Ŝanĝi iam ajn inter inteligentaj kaj klasikaj fenestroj.
@@ -575,3 +606,10 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Se vi ŝanĝas vian el
 onboarding-theme-picker-title = Elektu etoson
 onboarding-theme-picker-subtitle = Alportu iom pli da koloro al { -brand-short-name }.
 onboarding-theme-picker-button-label = Konservi kaj daŭrigi
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Elstaraj funkcioj
