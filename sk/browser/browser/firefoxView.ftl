@@ -83,6 +83,9 @@ firefoxview-overview-nav = Nedávne prehliadanie
     .title = Nedávne prehliadanie
 firefoxview-overview-header = Nedávne prehliadanie
     .title = Nedávne prehliadanie
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Karty a história prehliadania na rôznych zariadeniach
 
 ## History in this context refers to browser history
 

@@ -1334,6 +1334,9 @@ private-browsing-info-panel-description = Tämä auttaa pitämään selaamisesi 
 content-analysis-indicator-tooltip =
     .tooltiptext = Tietojen menetyksen estäminen (DLP), tekijä { $agentName }. Napsauta saadaksesi lisätietoja.
 content-analysis-panel-title2 = Tietojen menetyksen estäminen
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Organisaatiosi hallitsee arkaluonteisten tietojen jakamista ohjelmistolla <b>{ $agentName }</b>. <a data-l10n-name="info">Lue lisää</a>
 content-analysis-panel-title = Tietojen suojaus
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

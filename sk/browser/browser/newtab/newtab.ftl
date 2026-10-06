@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Krížovka
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finančné trhy
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Akcie
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Vyhľadávanie
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskopy
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Nedávne vyhľadávania
@@ -172,6 +178,11 @@ newtab-privacy-menu-learn-more = Ďalšie informácie
 newtab-privacy-widget-menu-button =
     .aria-label = Nastavenia súkromia
     .title = Nastavenia súkromia
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Otvoriť ponuku ochrany osobných údajov
+    .title = Otvoriť ponuku ochrany osobných údajov
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -349,12 +360,23 @@ newtab-privacy-message-first-protection-cta = Zobraziť ochrany
 newtab-stocks-menu-learn-more = Ďalšie informácie
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Burzové údaje nie sú k dispozícii.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Možnosti pre Finančné trhy
+    .title = Možnosti pre Finančné trhy
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Možnosti miniaplikácie Akcie
     .title = Možnosti miniaplikácie Akcie
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Otvoriť ponuku akcií
+    .title = Otvoriť ponuku akcií
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -385,6 +407,12 @@ newtab-stocks-list-watchlist = Zoznam sledovaných
     .label = Zoznam sledovaných
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Hľadať podľa názvu alebo symbolu
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finančné trhy
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:

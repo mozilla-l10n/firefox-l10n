@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Vyhľadať na webe…
 
 smartbar-mention-typing-placeholder = Označiť kartu alebo stránku
 smartbar-mentions-list-no-results-label = Neboli nájdené žiadne výsledky
+smartbar-mentions-list-tab-groups-label = Nedávne skupiny
 smartbar-mentions-list-recent-tabs-label = Nedávne karty
 
 ## Context mentions menu toggle button

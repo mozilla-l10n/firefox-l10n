@@ -84,6 +84,11 @@ menu-file-close-tab =
            *[other] Zavrieť { $tabCount } kariet
         }
     .accesskey = Z
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Zavrieť
+    .accesskey = Z
 menu-file-close-window =
     .label = Zavrieť okno
     .accesskey = v
@@ -96,6 +101,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Zdieľať
     .accesskey = Z
+menu-file-share-qrcode3 =
+    .label = Vygenerovať QR kód
+    .accesskey = V
 menu-file-share-qrcode =
     .label = Generovať QR kód…
     .accesskey = Q

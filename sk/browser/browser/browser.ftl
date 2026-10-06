@@ -38,6 +38,34 @@ urlbar-identity-button2 =
             [many] Zobraziť informácie o stránke ({ $count } zablokovaných sledovacích prvkov)
            *[other] Zobraziť informácie o stránke ({ $count } zablokovaných sledovacích prvkov)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } odkaz
+            [few] { $count } odkazy
+           *[other] { $count } odkazov
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Správy a ďalšie…
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Správy, Mail a ďalšie…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Zdieľať…
+    .accesskey = Z
 urlbar-identity-button =
     .aria-label = Zobraziť informácie o stránke
 
@@ -103,6 +131,8 @@ urlbar-result-menu-tip-get-help2 = Získať pomoc
     .accesskey = Z
 urlbar-result-menu-dismiss-suggestion2 = Odmietnuť tento návrh
     .accesskey = O
+urlbar-result-menu-remove-top-site = Odstrániť túto najobľúbenejšiu stránku
+    .accesskey = t
 urlbar-result-menu-manage-firefox-suggest2 = Spravovať { -firefox-suggest-brand-name }
     .accesskey = S
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -959,6 +989,12 @@ urlbar-view-context-menu-open-in-window2 = Otvoriť v novom okne
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window2 = Otvoriť v novom súkromnom okne
     .accesskey = s
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Preskočiť túto ponuku pri použití klávesu Tab
+    .accesskey = P
 
 ## Labels shown above groups of urlbar results
 
@@ -1317,6 +1353,10 @@ private-browsing-info-panel-description = Toto pomáha skryť vaše prehliadanie
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Ochrana pred stratou údajov (DLP) od agenta { $agentName }. Kliknutím zobrazíte ďalšie informácie.
+content-analysis-panel-title2 = Ochrana pred stratou údajov
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Vaša organizácia používa <b>{ $agentName }</b> na riadenie spôsobu zdieľania citlivých údajov. <a data-l10n-name="info">Ďalšie informácie</a>
 content-analysis-panel-title = Ochrana údajov
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

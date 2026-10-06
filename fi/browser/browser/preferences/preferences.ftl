@@ -933,6 +933,14 @@ search-separate-default-engine-2 =
     .accesskey = u
 search-separate-default-engine-dropdown =
     .aria-label = Oletushakukone yksityisissä ikkunoissa
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Osoiterivillä liikkuminen
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Ohita tulosvalikko, kun siirrät kohdistusta sarkainnäppäimellä
 search-suggestions-header-2 =
     .label = Hakukoneen ehdotukset
 search-one-click-header2 = Hakuoikotiet
@@ -1162,6 +1170,9 @@ sync-syncing-across-devices-heading-2 = Laitteiden välillä synkronoidut tiedot
 sync-syncing-across-devices-empty-state2 =
     .description = Et synkronoi mitään… vielä. Aloita synkronointi saadaksesi kaikki tietosi kaikille laitteillesi.
     .label = Synkronoitujen tietojen hallinta
+sync-syncing-across-devices-empty-state3 =
+    .description = Et synkronoi vielä mitään… Valitse, mitä tällä laitteella synkronoidaan.
+    .label = Hallinnoi synkronoituja tietoja
 sync-currently-syncing-bookmarks = Kirjanmerkit
 sync-currently-syncing-history = Historia
 sync-currently-syncing-tabs = Avoimet välilehdet
