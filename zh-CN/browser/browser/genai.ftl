@@ -59,6 +59,9 @@ genai-menu-remove-provider =
     .label = 移除 { $provider }
 genai-menu-remove-sidebar =
     .label = 从侧栏移除
+genai-shortcut-button-3 =
+    .aria-label = 询问这段文字
+    .tooltiptext = 询问这段文字
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = 询问 { $provider }

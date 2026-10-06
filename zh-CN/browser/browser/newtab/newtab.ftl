@@ -415,6 +415,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = 每日一图选项
     .title = 每日一图选项
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = 打开每日一图菜单
+    .title = 打开每日一图菜单
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -453,6 +458,10 @@ newtab-recent-searches-menu-learn-more = 详细了解
 newtab-recent-searches-tab-recent = 近期搜索
 # Tab listing what is trending with the user's search engine.
 newtab-recent-searches-tab-trending = 热门搜索
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = 数据来自 { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = 刚刚
 # Screen reader label for the button that forgets one listed search.
@@ -465,6 +474,11 @@ newtab-search-widget-title = 搜索
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = 搜索选项
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = 打开搜索菜单
+    .title = 打开搜索菜单
 
 ## Recent searches widget — empty states
 
