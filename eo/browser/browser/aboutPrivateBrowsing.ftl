@@ -86,3 +86,20 @@ about-private-browsing-nova-info-subheader2 = Ni viŝos ĉiujn serĉojn kaj sean
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Esencaĵoj pri privataj fenestroj
+about-private-browsing-spotlight-basics-subtitle = Privataj fenestroj helpas teni vian retumon privata por aliaj personoj, kiuj uzas tiun ĉi aparaton. Ĝi ne igas vin anonima nek viŝas ĉiujn viajn datumojn.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Kion oni devas scii
+about-private-browsing-spotlight-basics-activity-seen = Partoj de via retumo povas esti viditaj de retejoj, serĉiloj, interretaj provizantoj aŭ via dunginto.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Legosignoj kaj elŝutoj restas en via aparato kaj povas aperi en la adresa strio.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Pli da privatecaj protektoj
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } aŭtomate avertas vin pri malicaj kaj trompaj retejoj.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } aŭtomate petas al partoprenantaj retejoj ne vendi aŭ dividi viajn personajn datumojn.
+about-private-browsing-spotlight-basics-vpn = Uzu la integritan VPN por igi vian pozicion pli malfacile spurebla.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Elektu "Rigora" en agordoj por havi pli fortajn protektojn kontraŭ spurado.
+about-private-browsing-spotlight-basics-learn-more = Pli da informo

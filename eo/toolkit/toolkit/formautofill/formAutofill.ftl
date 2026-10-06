@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } klopodas uzi
 autofill-edit-payment-method-os-prompt-macos = montri konservitajn pagmetodajn informojn
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } klopodas montri konservitan pagmetodan informon. Konfirmu aliron al tiu ĉi suba konto de Windows.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } klopodas montri konservitan pagmetodan informon.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = forigi konservitan informon pri pagmetodo
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } klopodas forigi konservitan pagmetodan informon. Konfirmu aliron al tiu ĉi suba konto de Windows.
+autofill-delete-payment-method-os-prompt-other = { -brand-short-name } klopodas forigi konservitan pagmetodan informon.
 # The button leads users to Form Autofill browser preferences.
 credit-card-doorhanger-options-button =
     .title = Preferoj de aŭtomata plenigo de formularoj
@@ -28,6 +33,9 @@ autofill-options-link = Preferoj de aŭtomata plenigo de formularoj
 credit-card-doorhanger-credit-cards-sync-checkbox = Speguli ĉiujn konservitajn kreditkartojn en miaj aparatoj
 credit-card-save-doorhanger-header = Ĉu sekure konservi tiun ĉi kreditkarton?
 credit-card-save-doorhanger-description = { -brand-short-name } ĉifras vian kreditkartan numeron. Via sekureca kodo ne estos konservita.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } ĉifras vian kreditkartan numeron kaj sekurecan kodon, tiel ke nur vi povas uzi ilin por plenigi pagajn formularojn.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Ĉiam konservi sekurecajn kodon por pagmetodoj.
 credit-card-capture-save-button =
     .label = Konservi
     .accessKey = K
@@ -56,6 +64,20 @@ autofill-manage-payment-methods-label = Administri pagmetodojn
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
+credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV konservita
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV konservita
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
