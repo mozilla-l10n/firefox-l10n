@@ -1567,8 +1567,8 @@ newtab-promo-card-dismiss-button =
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-crossword-widget-open-menu-button =
-    .aria-label = Agor y ddewislen croesair
-    .title = Agor y ddewislen croesair
+    .aria-label = Agor dewislen y croesair
+    .title = Agor dewislen y croesair
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1990,8 +1990,8 @@ newtab-clock-widget-menu-button2 =
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =
-    .aria-label = Agor y ddewislen cloc
-    .title = Agor y ddewislen cloc
+    .aria-label = Agor dewislen y cloc
+    .title = Agor dewislen y cloc
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
