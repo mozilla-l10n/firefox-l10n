@@ -89,12 +89,22 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Krucvortenigmo
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Financo
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Akcioj
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Bildo de la tago
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Serĉi
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskopo
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Ĵusaj serĉoj
@@ -161,6 +171,17 @@ home-prefs-mission-message-learn-more-link-srd = Malkovri kiel
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Pli da informo
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Ebloj pri privateco
+    .title = Ebloj pri privateco
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Malfermi menuon pri privateco
+    .title = Malfermi menuon pri privateco
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -324,12 +345,23 @@ newtab-privacy-message-first-protection-cta = Montri protektojn
 newtab-stocks-menu-learn-more = Pli da informo
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Akciaj datumoj ne disponeblaj.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Ebloj por financo
+    .title = Ebloj por financo
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Ebloj por akciaj komponantoj
     .title = Ebloj por akciaj komponantoj
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Malfermi menuon de akcioj
+    .title = Malfermi menuon de akcioj
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -337,6 +369,9 @@ newtab-stocks-search-button =
     .aria-label = Serĉi laŭ nomo aŭ simbolo
     .label = Serĉi
     .title = Serĉi laŭ nomo aŭ simbolo
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Komenci sekvi akciojn, kiuj gravas por vi
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -357,6 +392,12 @@ newtab-stocks-list-watchlist = Atentaro
     .label = Atentaro
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Serĉi laŭ nomo aŭ simbolo
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Financo
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -411,6 +452,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Rezulto de serĉo
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Serĉi simbolojn aŭ entreprenojn por aldoni ilin al via atentaro
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -459,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Ebloj por la bildo de la tago
     .title = Ebloj por la bildo de la tago
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Malfermi menuon pri la taga bildo
+    .title = Malfermi menuon pri la taga bildo
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -493,6 +542,48 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = Ebloj por ĵusaj serĉoj
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Pli da informo
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Ĵusaj serĉoj
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Tendencoj
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = per { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Ĵus
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Forigi “{ $search }” el la ĵusaj serĉoj
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Serĉi
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Ebloj pri serĉo
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Malfermi menuon pri serĉo
+    .title = Malfermi menuon pri serĉo
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Ĵusaj serĉoj estos montritaj ĉi tie, tiel ke vi povas refari ilin iam ajn.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Tendencaj serĉoj ne disponeblas nun.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskopo
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Ebloj pri horoskopo
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Pli da informo
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -791,10 +882,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Krucvortenigmo
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Financo
 newtab-custom-widget-stocks-toggle =
     .label = Akcioj
 newtab-custom-widget-picture-toggle =
     .label = Bildo de la tago
+newtab-custom-widget-search-toggle =
+    .label = Serĉi
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskopo
 newtab-custom-widget-recent-searches-toggle =
     .label = Ĵusaj serĉoj
 newtab-custom-widget-section-title = Komponantoj
@@ -851,6 +949,9 @@ newtab-wallpaper-add-an-image = Aldoni bildon
 newtab-wallpaper-custom-color = Elekti koloron
 newtab-wallpaper-toggle-title =
     .label = Ekranfonoj
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategorioj de ekranfonoj
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La grando de la bildo superas la maksimuman grandon de dosiero, kiu estas { $file_size }MO. Bonvolu provi alŝuti pli etan dosieron.
@@ -976,6 +1077,14 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Vulpo je la dekstra flanko sur oranĝkolora fono
+newtab-wallpaper-firefox-colorful-sky = Ondoj oranĝkoloraj tra purpura nokta ĉielo
+newtab-wallpaper-firefox-desert-dark = Vulpo, kiu sidiĝas en malhele purpura dezerto
+newtab-wallpaper-firefox-desert-light = Vulpo, kiu kuras trans hela dezerto
+newtab-wallpaper-firefox-hills-dark = Vulpo, kiu kuras sur malhelaj montetoj
+newtab-wallpaper-firefox-hills-light = Vulpo, kiu kuras sur helaj montetoj
+newtab-wallpaper-firefox-tail-dark = Vosto de vulpo sur malhela fono
+newtab-wallpaper-firefox-tail-light = Vosto de vulpo sur hela fono
 
 ## Firefox
 
