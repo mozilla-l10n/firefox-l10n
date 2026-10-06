@@ -922,6 +922,10 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Buscador predeterminado en ventanas privadas
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navegación en la barra de direcciones
 search-suggestions-header-2 =
     .label = Sugerencias de buscadores
 search-one-click-header2 = Atajos de búsqueda
@@ -1150,6 +1154,9 @@ sync-syncing-across-devices-heading = Se están sincronizando estos ítems en to
 sync-syncing-across-devices-heading-2 = Datos sincronizados entre dispositivos
 sync-syncing-across-devices-empty-state2 =
     .description = No se está sincronizando nada… aún. Empiece a sincronizar para tener todos sus datos en todos sus dispositivos.
+    .label = Administrar datos sincronizados
+sync-syncing-across-devices-empty-state3 =
+    .description = No está sincronizando nada… todavía. Elegir qué sincronizar en este dispositivo.
     .label = Administrar datos sincronizados
 sync-currently-syncing-bookmarks = Marcadores
 sync-currently-syncing-history = Historial
