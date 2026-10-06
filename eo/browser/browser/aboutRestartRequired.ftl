@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Restarto postulata
+restart-required-heading2 = Pardonu, { -brand-short-name } bezonas rapidan restartigon
+restart-required-intro2 = { -brand-short-name } bezonas fini ĝisdatigon. Restartigu por ke ĉio sekure plu fluu.
 restart-required-heading = Restartigu por pluuzi { -brand-short-name }
 restart-required-intro = Ĝisdatigo de { -brand-short-name } fone komenciĝis. Vi bezonos restartigi por fini la ĝisdatigon.
 window-restoration-info = Viaj fenestroj kaj langetoj estos rapide restarigitaj, krom la privataj.
