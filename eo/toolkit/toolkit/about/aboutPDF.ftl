@@ -5,6 +5,8 @@
 about-pdf-title = Redaktilo de PDF de { -brand-short-name }
 about-pdf-header = PDF de { -brand-short-name }
 about-pdf-tagline = Libera kaj senpaga ilo por legi, kunfandi, subskribi, komenti kaj pli — kun integrita privateco
+about-pdf-features-cta =
+    .label = Malkovri la ilojn por PDF
 about-pdf-dropzone =
     .title = Faligu dosieron PDF ĉi tie por komenci, aŭ premu la enigklavon
 about-pdf-dropzone-hint = Faligu dosieron PDF ĉi tie por komenci
@@ -22,3 +24,7 @@ about-pdf-set-default =
     .label = Elekti kiel norma
 about-pdf-dismiss =
     .label = Ignori
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Iloj por PDF de { -brand-short-name }

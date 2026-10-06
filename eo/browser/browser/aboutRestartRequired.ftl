@@ -15,6 +15,16 @@ restart-required-single-instance-question = Mi ne uzas multoblajn profilojn aŭ 
 restart-required-single-instance-answer = { -brand-short-name } povas bezoni restartigon se ĝisdatigo estas aplikita fone, dum ĝi estas malfermita.
 restart-required-single-instance-answer-2 = Tio ĉi povas okazi dum longa retuma seanco, aŭ kiam via mastruma sistemo ĝisdatigas { -brand-short-name }. Restartigo tenas { -brand-short-name } sekura kaj normale funkcianta.
 restart-required-unsaved-work-question = Ĉu mi povus perdi nekonservitan laboron?
+restart-required-unsaved-work-answer = Eble jes, kaj ni scias ke tio estas frustra. { -brand-short-name } remalfermos viajn langetojn, sed nekonservita laboro en retpaĝoj, ekzemple teksto en formularo, povus ne esti restarigita. Privataj fenestroj ne malfermiĝos denove por protekti vian privatecon.
+restart-required-fix-question = Tio ĉi estas vere ĝena! Ĉu { -brand-short-name } klopodas solvi tion ĉi?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Jes. Ni scias ke tio estas ĝena kaj ni klopodas solvi tion. Sekvu nian progreson tiurilate en la erarraporto de Bugzilla 2072739.
+restart-button-label2 = Restartigi
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Pli da informo
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Malpli da informo
 restart-required-heading = Restartigu por pluuzi { -brand-short-name }
 restart-required-intro = Ĝisdatigo de { -brand-short-name } fone komenciĝis. Vi bezonos restartigi por fini la ĝisdatigon.
 window-restoration-info = Viaj fenestroj kaj langetoj estos rapide restarigitaj, krom la privataj.
