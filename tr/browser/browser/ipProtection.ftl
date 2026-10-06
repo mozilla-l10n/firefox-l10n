@@ -111,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = Anladım
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Yerleşik VPN kurallarını belirledikten sonra gezinmeye devam edin
+ipprotection-site-inclusions-callout-title-lapsed-users = Yerleşik VPN’i artık site bazında deneyebilirsiniz
+ipprotection-site-inclusions-callout-description = Ekstra gizlilik veya konuma dayalı gezinmek istediğinizde açın, istemediğiniz zaman kapatın.
+ipprotection-site-inclusions-callout-primary-button = Kuralları ayarlayın
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Şimdi değil
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Kapat
 
