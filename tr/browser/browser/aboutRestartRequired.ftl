@@ -9,9 +9,13 @@ window-restoration-info2 = Gizli pencereler ve sekmeler dışındaki tüm pencer
 restart-required-why-now-question = Neden şimdi?
 restart-required-why-now-answer = Bu durum, başka bir { -brand-short-name } profili veya kurulumu güncellendiğinde ya da bir güncelleme bir sonraki yeniden başlatmanıza kadar bekleyemediğinde ortaya çıkabilir.
 restart-required-more-details-heading = Daha fazla ayrıntı
+restart-required-multiple-instances-question = Birden fazla profil veya { -brand-short-name } kurulumu mevcut olduğunda bu durum neden yaşanıyor?
+restart-required-multiple-instances-answer = Bir profil veya kurulum güncellenirken bir diğeri açıksa açık olan eski sürümde kalabilir. Yeniden başlatma, tümünün aynı sürümü kullanmasını sağlar.
 restart-required-single-instance-question = Birden fazla profil veya kurulum kullanmıyorum. Neden böyle bir şey oldu?
 restart-required-single-instance-answer = { -brand-short-name } açıkken arka planda bir güncelleme uygulanmışsa yeniden başlatılması gerekebilir.
+restart-required-single-instance-answer-2 = Bu durum, uzun bir gezinti oturumunda veya işletim sisteminiz { -brand-short-name } uygulamasını güncellediğinde ortaya çıkabilir. Yeniden başlatma, { -brand-short-name } uygulamasının güvenli ve sorunsuz çalışmasını sağlar.
 restart-required-unsaved-work-question = Kaydetmediğim çalışmalar kaybolabilir mi?
+restart-required-unsaved-work-answer = Olabilir. Bunun ne kadar can sıkıcı olduğunun farkındayız. { -brand-short-name } sekmelerinizi yeniden açar ancak web sayfalarındaki kaydedilmemiş çalışmalarınız (örneğin bir forma yazdığınız metinler) geri gelmeyebilir. Gizliliğinizi korumak için gizli pencereler yeniden açılmaz.
 restart-required-fix-question = Bu gerçekten can sıkıcı! { -brand-short-name } sorunu çözmek için çalışıyor mu?
 # Note: normally we would link to the bug here, but if the user sees this message,
 # then they cannot visit a link without a restart.

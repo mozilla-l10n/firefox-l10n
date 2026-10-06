@@ -973,6 +973,12 @@ urlbar-view-context-menu-open-in-window2 = Yeni pencerede aç
     .accesskey = e
 urlbar-view-context-menu-open-in-private-window2 = Yeni gizli pencerede aç
     .accesskey = z
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Tab tuşunu kullanırken bu menüyü atla
+    .accesskey = T
 
 ## Labels shown above groups of urlbar results
 
@@ -1329,6 +1335,10 @@ private-browsing-info-panel-description = Bu pencere, gezintinizi bu bilgisayard
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = { $agentName } veri kaybı önleme (DLP). Daha fazla bilgi için tıklayın.
+content-analysis-panel-title2 = Veri kaybı önleme
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Kuruluşunuz hassas verilerin nasıl paylaşılabileceğini denetlemek için <b>{ $agentName }</b> kullanıyor. <a data-l10n-name="info">Daha fazla bilgi alın</a>
 content-analysis-panel-title = Veri koruması
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
