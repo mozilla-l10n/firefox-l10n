@@ -10,6 +10,12 @@ restart-required-why-now-question = Γιατί τώρα;
 restart-required-why-now-answer = Αυτό μπορεί να συμβεί όταν ενημερώνεται ένα άλλο προφίλ ή παρουσία του { -brand-short-name } ή όταν μια ενημέρωση δεν μπορεί να περιμένει μέχρι την επόμενη επανεκκίνηση.
 restart-required-more-details-heading = Περισσότερες λεπτομέρειες
 restart-required-multiple-instances-question = Γιατί μπορεί να συμβεί αυτό σε πολλαπλά προφίλ ή παρουσίες του { -brand-short-name };
+restart-required-multiple-instances-answer = Εάν ενημερωθεί ένα προφίλ, ή μια παρουσία, ενώ κάποιο άλλο παραμένει ανοικτό, το δεύτερο μπορεί να παραμείνει σε παλαιότερη έκδοση. Η επανεκκίνηση διατηρεί τα πάντα στην ίδια έκδοση.
+restart-required-single-instance-question = Δεν χρησιμοποιώ πολλαπλά προφίλ ή παρουσίες. Γιατί συμβαίνει αυτό;
+restart-required-single-instance-answer = Ενδέχεται να χρειαστεί επανεκκίνηση του { -brand-short-name } αν εφαρμοστεί μια ενημέρωση στο παρασκήνιο ενώ είναι ανοικτό.
+restart-required-single-instance-answer-2 = Αυτό μπορεί να συμβεί κατά τη διάρκεια μιας μεγάλης συνεδρίας περιήγησης ή όταν το λειτουργικό σας σύστημα ενημερώνει το { -brand-short-name }. Η επανεκκίνηση εξασφαλίζει την ασφάλεια και την εύρυθμη λειτουργία του { -brand-short-name }.
+restart-required-unsaved-work-question = Υπάρχει κίνδυνος να χάσω μη αποθηκευμένη εργασία;
+restart-required-unsaved-work-answer = Ίσως, και αναγνωρίζουμε πόσο ενοχλητικό είναι αυτό. Το { -brand-short-name } θα ανοίξει ξανά τις καρτέλες σας, αλλά δεν θα είναι δυνατή η ανάκτηση της μη αποθηκευμένης εργασίας σας μέσα στις ιστοσελίδες, όπως το κείμενο σε μια φόρμα. Τα ιδιωτικά παράθυρα δεν ανοίγουν ξανά για την προστασία του απορρήτου σας.
 restart-required-fix-question = Αυτό είναι πολύ εκνευριστικό! Ετοιμάζει το { -brand-short-name } κάποια διόρθωση;
 restart-button-label2 = Επανεκκίνηση
 # Expands the "More details" section below the buttons.
