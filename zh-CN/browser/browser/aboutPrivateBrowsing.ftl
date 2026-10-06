@@ -88,4 +88,7 @@ about-private-browsing-nova-info-subheader2 = 关闭所有隐私窗口后，所�
 about-private-browsing-spotlight-basics-title = 隐私窗口入门
 about-private-browsing-spotlight-basics-subtitle = 隐私窗口有助于防止使用此设备的其他人看到您的浏览活动，但不能让您匿名，也无法清除您的所有数据。
 about-private-browsing-spotlight-basics-activity-seen = 网站、搜索引擎、互联网服务提供商或您的雇主仍可能看到您的部分活动。
-about-private-browsing-spotlight-basics-bookmarks-downloads = 书签和下载内容会保留在您的设备上，并可能显示在地址栏中。
+about-private-browsing-spotlight-basics-bookmarks-downloads = 书签和下载项会保留在您的设备上，并可能显示在地址栏中。
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = 更多隐私保护
