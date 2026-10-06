@@ -59,10 +59,24 @@ genai-menu-remove-provider =
     .label = Forigi { $provider }
 genai-menu-remove-sidebar =
     .label = Forigi el la flanka strio
+genai-shortcut-button-3 =
+    .aria-label = Demandi pri tiu ĉi teksto
+    .tooltiptext = Demandi pri tiu ĉi teksto
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = Demandi al { $provider }
     .tooltiptext = Demandi al { $provider }
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Serĉi “{ $selection }” per { $engine }
+    .tooltiptext = Serĉi “{ $selection }” per { $engine }
+genai-shortcut-copy-button =
+    .aria-label = Kopii elektitan tekston
+    .tooltiptext = Kopii elektitan tekston
+genai-shortcut-more-actions-button =
+    .aria-label = Pli da ebloj
+    .tooltiptext = Pli da ebloj
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Demandi al { $provider }

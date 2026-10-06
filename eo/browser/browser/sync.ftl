@@ -66,6 +66,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = Vi finis vian seancon
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = Fini agordadon
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = Komenci seancon por speguli
+fxa-menu-signed-out-description = Vi finis vian seancon
 fxa-avatar-sign-in = Komenci seancon
 fxa-avatar-sign-up = Krei konton
 fxa-avatar-tooltip =

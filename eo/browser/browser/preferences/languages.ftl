@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = Instalitaj lingvoj
 browser-languages-available-label = Disponeblaj lingvoj
 browser-languages-error = { -brand-short-name } ne povas ĝisdatigi viajn lingvojn nun. Kontrolu ĉu vi estas konektita al la reto aŭ provu denove.
+browser-languages-update-error =
+    .message = { -brand-short-name } ne povas ĝisdatigi viajn lingvojn nun. Kontrolu ĉu vi estas konektita al la reto aŭ provu denove.
