@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = Gizliliğinizi bir kat daha ar
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Farklı konumlardan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Çok sayıda konumdan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-privacy-3 = İnternette gezdiğiniz yerleri gizlemek için çok sayıda konumdan istediğinizi seçerek <a data-l10n-name="learn-more-vpn">ekstra gizliliğe</a> kavuşun.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = İnternette gezinirken <a data-l10n-name="learn-more-vpn">daha fazla gizlilik</a> için konumunuzu gizleyebilirsiniz. VPN’i istediğiniz sitelerde açıp kapatabilirsiniz.
 ipprotection-feature-introduction-text-summer-promo-1 = Gezintilerinizi daha gizli tutmak için bu özelliği açın. 31 Ağustos’a kadar <a data-l10n-name="summer-promo-link">sınırsız bant genişliği</a> ve daha fazla konum üzerinden gezinme imkânına kavuşun.
 ipprotection-feature-introduction-title-summer-promo = Seyahat planlarınız mı var? Gizliliği yanınızda taşıyın.
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name }’un yerleşik VPN’iyle sınırları aşın: 31 Ağustos’a kadar daha fazla konum, sınırsız bant genişliği.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-description-private-browsing = Konumunuzu gizleyin, Gizli Pencere’de bile ekstra korumayla gezinin.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = İnternette gezinirken <a data-l10n-name="learn-more-vpn">daha fazla gizlilik</a> için konumunuzu gizleyebilirsiniz. Ekstra gizliliğe veya konuma dayalı gezinmeye gerek duyduğunuzda VPN’i açan, gerek kalmadığında kapatan kurallar belirleyebilirsiniz.
 ipprotection-feature-introduction-title-captive-portal = Halka açık bir Wi-Fi ağında mısınız? { -brand-product-name } tarayıcısının yerleşik VPN’ini deneyin.
 ipprotection-feature-introduction-description-captive-portal = Konumunuzu gizleyin, halka açık Wi-Fi ağlarında bile ekstra korumayla gezinin.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = VPN’i araç çubuğundan kaldır
 ipprotection-feature-introduction-button-open-vpn = VPN’i aç
 ipprotection-feature-introduction-button-get-started = Kullanmaya başlayın
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = { -brand-product-name }’un yerleşik VPN’iyle gizliliğinizi en üst düzeye çıkarın
 
 ## Summer promo offramp callout buttons
 

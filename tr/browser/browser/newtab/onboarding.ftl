@@ -545,7 +545,14 @@ onboarding-refresh-gratitude-title = { -brand-short-name } sizi koruyor
 onboarding-refresh-splash-screen-title = { -brand-product-name } şu andan itibaren sizi kolluyor
 onboarding-refresh-hero-text = Sizi izlemek için değil, korumak için geliştirildi.
 onboarding-refresh-tou-default = Tüm bağlantıları { -brand-short-name } ile açın
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } tarayıcısını Dock’a sabitleyin
+       *[other] { -brand-short-name } tarayıcısını görev çubuğunuza ekleyin
+    }
+onboarding-refresh-tou-default-unchecked = Her gezintinizde yerleşik korumayı etkin tutun
 onboarding-refresh-tou-pin-unchecked = Tek büyük bağımsız tarayıcı hep yanınızda olsun
+onboarding-refresh-terms-of-use-with-links = Devam ederek <a data-l10n-name="terms_of_use">Kullanım Koşulları</a>’nı ve <a data-l10n-name="privacy_notice">Gizlilik Bildirimi</a>’ni kabul etmiş olursunuz. Tarayıcıyı iyileştirmeye yardımcı olmak için { -brand-product-name }, { -vendor-short-name }’ya tanılama ve etkileşim verilerini gönderir.
 onboarding-refresh-data-collection-link = Veri toplama ayarlarını yönet
 onboarding-refresh-primary-button = Devam et
 onboarding-refresh-fro-import-header = Verilerinizi içe aktarın
