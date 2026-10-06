@@ -163,7 +163,7 @@ bidi-switch-direction-shortcut =
 private-browsing-shortcut =
     .key = P
 search-tabs-shortcut =
-    .key = S
+    .key = A
 
 ## The shortcuts below are for Mac specific
 ## global menu.
