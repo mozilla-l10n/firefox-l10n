@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Serĉi la reton…
 
 smartbar-mention-typing-placeholder = Mencii langeton aŭ retejon
 smartbar-mentions-list-no-results-label = Neniu rezulto trovita
+smartbar-mentions-list-tab-groups-label = Ĵusaj grupoj
 smartbar-mentions-list-recent-tabs-label = Ĵusaj langetoj
 
 ## Context mentions menu toggle button

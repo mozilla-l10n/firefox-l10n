@@ -83,6 +83,9 @@ firefoxview-overview-nav = Ĵusa retumo
     .title = Ĵusa retumo
 firefoxview-overview-header = Ĵusa retumo
     .title = Ĵusa retumo
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Langetoj kaj retuma historio ĉiuj viaj aparatoj
 
 ## History in this context refers to browser history
 

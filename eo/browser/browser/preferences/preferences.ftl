@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Alirklavoj
 settings-keyboard-shortcuts-customkeys-link =
     .label = Personecigi alirklavojn
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Personecigi la agordojn de la adreso strio, en Serĉo
 settings-media-group =
     .label = Aŭdvidaĵo
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Norma serĉilo en privataj fenestroj
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigacio en la serĉa strio
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Ignori la menuon de rezultoj se la klavo tabo estas uzata por ŝanĝi fokuson
 search-suggestions-header-2 =
     .label = Serĉilaj sugestoj
 search-one-click-header2 = Serĉaj ŝparvojoj
@@ -1153,6 +1165,9 @@ sync-syncing-across-devices-heading = Vi spegulas tiujn ĉi elementojn inter ĉi
 sync-syncing-across-devices-heading-2 = Datumo spegulitaj inter aparatoj
 sync-syncing-across-devices-empty-state2 =
     .description = Vi spegulas nenion… ankoraŭ. Komencu speguli por havi ĉiujn viajn datumojn en ĉiuj viaj aparatoj.
+    .label = Administri spegulitajn datumojn
+sync-syncing-across-devices-empty-state3 =
+    .description = Vi ne spegulas ion ajn…ankoraŭ. Elektu kion vi volas speguli en tiu ĉi aparato.
     .label = Administri spegulitajn datumojn
 sync-currently-syncing-bookmarks = legosignojn
 sync-currently-syncing-history = historion

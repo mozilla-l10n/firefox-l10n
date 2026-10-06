@@ -57,6 +57,9 @@ avatar-selector-add-image = Aldoni bildon
 avatar-selector-crop = Eltondi
 avatar-selector-dialog =
     .aria-label = Modifi avataron
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Elektu avataron
 edit-profile-page-no-name = Nomu tiun ĉi profilon por pli facile trovi ĝin poste. Vi povas renomi ĝin iam ajn.
 edit-profile-page-duplicate-name = Tiu nomo de profilo jam estas uzata. Provu alian nomon.
 edit-profile-page-profile-saved = Konservita
