@@ -30,6 +30,8 @@ ipprotection-feature-introduction-title-privacy = Aldoni alian privatecan tavolo
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu inter pluraj lokoj por teni vian retumon pli privata.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu inter pluraj lokoj por teni vian retumon pli privata.
 ipprotection-feature-introduction-link-text-privacy-3 = Ricevu <a data-l10n-name="learn-more-vpn">ekstran privatecon</a> per elekto inter pluraj lokoj, por kaŝi la lokon el kie vi retumas.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Kaŝu vian pozicion por havi <a data-l10n-name="learn-more-vpn">kroman privatecon</a> dum vi retumas. Ŝaltu aŭ malŝaltu la VPN por specifaj retejoj.
 ipprotection-feature-introduction-text-summer-promo-1 = Ŝaltu por teni vian retumon pli privata. <a data-l10n-name="summer-promo-link">Havu senliman trafikon</a> kaj pli da lokoj, el kie retumi. Propono valida ĝis la 31 de aŭgusto.
 ipprotection-feature-introduction-title-summer-promo = Ĉu vi pretas vojaĝi? Portu privatecon kun vi.
 ipprotection-feature-introduction-description-summer-promo = Iru eĉ pli for per la integrita VPN de { -brand-product-name }: pli da lokoj, senlima trafiko. Propono valida ĝis la 31 de aŭgusto.

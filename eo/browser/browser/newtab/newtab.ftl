@@ -1085,6 +1085,14 @@ newtab-wallpaper-firefox-hills-dark = Vulpo, kiu kuras sur malhelaj montetoj
 newtab-wallpaper-firefox-hills-light = Vulpo, kiu kuras sur helaj montetoj
 newtab-wallpaper-firefox-tail-dark = Vosto de vulpo sur malhela fono
 newtab-wallpaper-firefox-tail-light = Vosto de vulpo sur hela fono
+newtab-wallpaper-firefox-side-kit-dark = Vulpo je la maldekstra flanko sur malhela fono
+newtab-wallpaper-firefox-side-kit-light = Vulpo je la maldekstra flanko sur hela fono
+newtab-wallpaper-firefox-sitting-hill-dark = Vulpo, kiu sidiĝas sur malhele purpuraj montetoj
+newtab-wallpaper-firefox-sitting-hill-light = Vulpo, kiu sidiĝas sur helaj montetoj
+newtab-wallpaper-firefox-peak-dark = Vizaĝo de vulpo je la maldekstra rando sur malhela fono
+newtab-wallpaper-firefox-peak-light = Vizaĝo de vulpo je la dekstra rando sur hela fono
+newtab-wallpaper-firefox-sky-dark = Malhele purpuraj montetoj sub nokta ĉielo
+newtab-wallpaper-firefox-sky-light = Helaj montetoj sub paŝtela ĉielo
 
 ## Firefox
 
@@ -1108,6 +1116,11 @@ newtab-wallpaper-celestial-river = Satelita bildo de rivero
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Patronita
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Malfermi menuon pri vetero
+    .title = Malfermi menuon pri vetero
 newtab-weather-menu-change-location = Ŝanĝi lokon
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Serĉi lokon
@@ -1386,6 +1399,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Ebloj por listoj
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Malfermi menuon pri listoj
+    .title = Malfermi menuon pri listoj
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Krei novan liston
@@ -1473,6 +1492,11 @@ newtab-widget-timer-menu-notifications-on = Ŝalti sciigojn
 newtab-widget-timer-menu-learn-more = Pli da informo
 newtab-widget-timer-menu-button =
     .aria-label = Ebloj de tempumilo
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Malfermi menuon pri tempumilo
+    .title = Malfermi menuon pri tempumilo
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Ĉefaj titoloj
 newtab-daily-briefing-card-menu-dismiss = Ignori
@@ -1501,6 +1525,14 @@ newtab-promo-card-cta = Pli da informo
 newtab-promo-card-dismiss-button =
     .aria-label = Ignori
     .title = Ignori
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Malfermi menuon pri krucvortoj
+    .title = Malfermi menuon pri krucvortoj
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1811,6 +1843,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Tiu ĉi loko sekvas viajn regulojn
 newtab-activation-window-message-values-focus-message = { -brand-product-name } permesas al vi retumi kiel vi ŝatas, per pli persona maniero komenci vian tagan retumon. Personecigu { -brand-product-name }.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Personecigu { -brand-product-name } je via ŝato
+newtab-nova-customization-callout-message = Esploru helajn kaj malhelajn etosojn kaj ekranfonojn por personecigi { -brand-product-name } laŭ via ŝato.
+newtab-nova-customization-callout-primary-button =
+    .label = Elektu vian stilon
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1891,6 +1933,17 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Neniu kongrua horzono
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Malantaŭen
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Ebloj de horloĝo
+    .title = Ebloj de horloĝo
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Malfermi menuon pri horloĝo
+    .title = Malfermi menuon pri horloĝo
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
