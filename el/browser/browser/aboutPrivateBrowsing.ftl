@@ -88,6 +88,7 @@ about-private-browsing-spotlight-basics-title = Βασικές πληροφορ�
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Τι πρέπει να γνωρίζετε
+about-private-browsing-spotlight-basics-bookmarks-downloads = Οι σελιδοδείκτες και οι λήψεις παραμένουν στη συσκευή σας και ενδέχεται να εμφανιστούν στη γραμμή διευθύνσεων.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Πρόσθετα μέτρα προστασίας απορρήτου

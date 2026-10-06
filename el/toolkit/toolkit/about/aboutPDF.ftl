@@ -27,7 +27,7 @@ about-pdf-dismiss =
 
 ## The about:pdf#features page.
 
-about-pdf-features-header = Εργαλεία PDF του { -brand-short-name }
+about-pdf-features-header = Εργαλεία του { -brand-short-name } για αρχεία PDF
 about-pdf-features-intro = Διαβάστε, κρατήστε σημειώσεις και υπογράψτε αρχεία PDF μέσα από το πρόγραμμα περιήγησής σας. Είναι απλό, δωρεάν και ιδιωτικό.
 about-pdf-features-back =
     .label = Πίσω
@@ -40,5 +40,10 @@ about-pdf-feature-comments-description = Προσθέστε σχόλια και 
 about-pdf-feature-annotate-heading = Σήμανση αρχείων PDF
 about-pdf-feature-annotate-description = Προσθέστε κείμενο, επισημάνσεις και σχέδια.
 about-pdf-feature-images-heading = Προσθήκη προσβάσιμων εικόνων
-about-pdf-feature-view-heading = Επιλέξτε την προβολή σας
-about-pdf-feature-details-heading = Βρείτε λεπτομέρειες ταχύτερα
+about-pdf-feature-images-description = Προσθέστε εναλλακτικό κείμενο, ώστε οι εικόνες σας να είναι προσβάσιμες σε περισσότερα άτομα.
+about-pdf-feature-view-heading = Επιλογή επιθυμητής προβολής
+about-pdf-feature-view-description = Κάντε κύλιση κάθετα ή οριζόντια, ή αλλάξτε τη διάταξη των σελίδων.
+about-pdf-feature-presentation-heading = Παρουσίαση PDF σε πλήρη οθόνη
+about-pdf-feature-presentation-description = Μοιραστείτε μια καθαρή προβολή στη λειτουργία παρουσίασης.
+about-pdf-feature-details-heading = Ταχύτερη εύρεση λεπτομερειών
+about-pdf-feature-details-description = Χρησιμοποιήστε περιγράμματα, συνημμένα και ιδιότητες για πλοήγηση μέσα στα αρχεία PDF.
