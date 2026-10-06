@@ -1363,6 +1363,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = 自动填写和管理付款方式前需验证设备登录信息
     .accesskey = o
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = 保存安全码
+    .accesskey = c
 autofill-payment-methods-add-button = 添加付款方式
 payments-list-header =
     .label = 付款方式

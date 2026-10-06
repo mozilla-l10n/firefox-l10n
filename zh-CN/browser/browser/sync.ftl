@@ -66,6 +66,11 @@ fxa-menu-signed-out-sign-in-button =
 fxa-menu-signed-out-message-login-failed = 您已退出登录
 # Reason shown when the remembered account still needs to verify their email.
 fxa-menu-signed-out-message-unverified = 完成设置
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = 登录同步服务
+fxa-menu-signed-out-description = 您已退出登录
 fxa-avatar-sign-in = 登录
 fxa-avatar-sign-up = 注册
 fxa-avatar-tooltip =

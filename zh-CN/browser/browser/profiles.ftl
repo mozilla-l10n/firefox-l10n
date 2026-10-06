@@ -57,6 +57,9 @@ avatar-selector-add-image = 添加图像
 avatar-selector-crop = 裁剪
 avatar-selector-dialog =
     .aria-label = 编辑图标
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = 选择图标
 edit-profile-page-no-name = 为此配置文件命名，方便以后查找。可随时重命名。
 edit-profile-page-duplicate-name = 配置文件名已被占用，请尝试使用其他名称。
 edit-profile-page-profile-saved = 已保存

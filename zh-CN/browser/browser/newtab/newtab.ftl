@@ -1370,6 +1370,11 @@ newtab-widget-timer-menu-notifications-on = 开启通知
 newtab-widget-timer-menu-learn-more = 详细了解
 newtab-widget-timer-menu-button =
     .aria-label = 计时器选项
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = 打开计时器菜单
+    .title = 打开计时器菜单
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = 头条新闻
 newtab-daily-briefing-card-menu-dismiss = 知道了
@@ -1394,6 +1399,14 @@ newtab-promo-card-cta = 详细了解
 newtab-promo-card-dismiss-button =
     .aria-label = 知道了
     .title = 知道了
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = 打开填字游戏菜单
+    .title = 打开填字游戏菜单
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1694,6 +1707,11 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = 为 { -brand-product-name } 添上您个性的点睛之笔
+newtab-nova-customization-callout-message = 体验明亮或深邃主题和壁纸，让全新的 { -brand-product-name } 更具个性。
 newtab-nova-customization-callout-primary-button =
     .label = 选择外观
 
