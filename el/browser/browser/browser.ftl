@@ -1328,6 +1328,7 @@ private-browsing-info-panel-description = Αυτό διατηρεί την πε�
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Πρόληψη απώλειας δεδομένων (DLP) του { $agentName }. Κάντε κλικ για περισσότερες πληροφορίες.
+content-analysis-panel-title2 = Αποτροπή απώλειας δεδομένων
 content-analysis-panel-title = Προστασία δεδομένων
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

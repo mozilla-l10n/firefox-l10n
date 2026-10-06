@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = Συντομεύσεις πληκτρολογίου
 settings-keyboard-shortcuts-customkeys-link =
     .label = Προσαρμογή συντομεύσεων πληκτρολογίου
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Προσαρμογή ρυθμίσεων γραμμής διευθύνσεων στην ενότητα «Αναζήτηση»
 settings-media-group =
     .label = Πολυμέσα
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -929,6 +933,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = Πλοήγηση εντός της γραμμής διευθύνσεων
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Παράλειψη του μενού αποτελεσμάτων κατά τη χρήση του πλήκτρου Tab για μετακίνηση της εστίασης
 search-suggestions-header-2 =
     .label = Προτάσεις μηχανής αναζήτησης
 search-one-click-header2 = Συντομεύσεις αναζήτησης
