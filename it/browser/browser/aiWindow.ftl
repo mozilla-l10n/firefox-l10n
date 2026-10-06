@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Finestra classica
 toolbar-switcher-customizable-label =
     .label = Selettore { -smart-window-brand-name }
     .tooltiptext = Passa facilmente tra finestre smart e classiche.
+toolbar-switcher-customizable-label-v2 =
+    .label = Selettore { -smart-window-brand-name }
+    .tooltiptext = Passa facilmente tra finestre smart e classiche.
 
 ## Input CTA
 
