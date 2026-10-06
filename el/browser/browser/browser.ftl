@@ -972,6 +972,12 @@ urlbar-view-context-menu-open-in-window2 = Άνοιγμα σε νέο παράθ
     .accesskey = ν
 urlbar-view-context-menu-open-in-private-window2 = Άνοιγμα σε νέο ιδιωτικό παράθυρο
     .accesskey = ι
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Παράλειψη αυτού του μενού κατά τη χρήση του πλήκτρου Tab
+    .accesskey = Π
 
 ## Labels shown above groups of urlbar results
 
@@ -1329,6 +1335,9 @@ private-browsing-info-panel-description = Αυτό διατηρεί την πε�
 content-analysis-indicator-tooltip =
     .tooltiptext = Πρόληψη απώλειας δεδομένων (DLP) του { $agentName }. Κάντε κλικ για περισσότερες πληροφορίες.
 content-analysis-panel-title2 = Αποτροπή απώλειας δεδομένων
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Ο οργανισμός σας χρησιμοποιεί το <b>{ $agentName }</b> για να ελέγχει τον τρόπο με τον οποίο μπορούν να κοινοποιούνται ευαίσθητα δεδομένα. <a data-l10n-name="info">Μάθετε περισσότερα</a>
 content-analysis-panel-title = Προστασία δεδομένων
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

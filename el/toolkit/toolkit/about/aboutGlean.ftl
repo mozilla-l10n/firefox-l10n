@@ -190,6 +190,10 @@ about-glean-dual-labeled-metric-warning = Οι μετρήσεις <code>DualLabe
 about-glean-unknown-metric-type-warning = Άγνωστος τύπος μέτρησης.
 # Label for selection drop-down list containing Pings for selection
 about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Ενεργοποιεί την αποθήκευση των υποβληθέντων ping στη μνήμη
+    .label = Αποθήκευση υποβληθέντων ping
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 
