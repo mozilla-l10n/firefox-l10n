@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Avanti
     .accesskey = A
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Vai avanti di una pagina ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Avanti
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Vai avanti di una pagina ({ $shortcut })
+    .aria-label = Avanti
 
 ## Reload
 
@@ -104,6 +115,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = n
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Aggiungi pagina ai segnalibri…
+    .tooltiptext = Aggiungi pagina ai segnalibri ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Modifica segnalibro…
+    .tooltiptext = Modifica segnalibro
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Modifica segnalibro…
+    .tooltiptext = Modifica segnalibro ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Aggiungi pagina ai segnalibri…
     .tooltiptext = Aggiungi pagina ai segnalibri ({ $shortcut })
@@ -142,6 +166,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Salva destinazione con nome…
     .accesskey = d
+main-context-menu-bookmark-page-2 =
+    .aria-label = Aggiungi pagina ai segnalibri…
+    .tooltiptext = Aggiungi pagina ai segnalibri
 
 ##
 
@@ -309,6 +336,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Connetti un dispositi
 main-context-menu-use-saved-password =
     .label = Utilizza password salvata
     .accesskey = U
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Utilizza un alias di posta elettronica { -relay-brand-short-name }
     .accesskey = e
@@ -406,4 +436,3 @@ main-context-menu-pdfjs-delete-page =
     .label = Elimina pagina
 main-context-menu-pdfjs-save-page =
     .label = Salva selezione come…
-
