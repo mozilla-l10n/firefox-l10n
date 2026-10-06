@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = زبان‌های نصب شده
 browser-languages-available-label = زبان‌های موجود
 browser-languages-error = { -brand-short-name } نمی‌تواند زبان شما را در حال حاضر بروزرسانی کند. بررسی کنید که به اینترنت متصل هستید یا دوباره تلاش کنید.
+browser-languages-update-error =
+    .message = ‏{ -brand-short-name } در حال حاضر نمی‌تواند زبان‌های شما را به‌روزرسانی کند. اتصال اینترنت خود را بررسی کرده یا دوباره تلاش نمایید.

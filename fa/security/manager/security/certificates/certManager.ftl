@@ -6,6 +6,8 @@ certmgr-title =
     .title = مدیر گواهی
 certmgr-tab-mine =
     .label = گواهی‌های شما
+certmgr-tab-remembered =
+    .label = تصمیم‌های احراز هویت
 certmgr-tab-people =
     .label = افراد
 certmgr-tab-servers =
@@ -13,19 +15,23 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = مراجع صدور
 certmgr-mine = شما گواهینامه‌ هایی از شرکت هایی دارید که شما هویت شما را میشناسند
+certmgr-remembered = این گواهی‌ها برای شناساندن شما به وب‌سایت‌ها استفاده می‌شوند
 certmgr-people = شما گواهینامه ای روی این پرونده دارید که این افراد را می شناسد
+certmgr-server = این موارد استثناهای خطای گواهی سرور را مشخص می‌کنند
 certmgr-ca = شما گواهینامه هایی روی این پرونده دارید که مسئولین این گواهینامه‌ها را میشناسد
 certmgr-edit-ca-cert2 =
-    .title = ویرایش تنظیمات اعتماد به مرجع صدور گواهی
     .style = min-width: 48em;
+    .title = ویرایش تنظیمات اعتماد به مرجع صدور گواهی
 certmgr-edit-cert-edit-trust = ویرایش تنظیمات اعتماد:
 certmgr-edit-cert-trust-ssl =
     .label = این گواهی می‌تواند هویت وبگاه‌ها را تأیید کند.
 certmgr-edit-cert-trust-email =
     .label = این گواهی می‌تواند هویت فرستندگان نامه را تأیید کند.
 certmgr-delete-cert2 =
-    .title = حذف گواهی
     .style = min-width: 48em; min-height: 24em;
+    .title = حذف گواهی
+certmgr-cert-host =
+    .label = میزبان
 certmgr-cert-name =
     .label = نام گواهی
 certmgr-cert-server =
@@ -40,6 +46,8 @@ certmgr-email =
     .label = نشانی پست الکترونیکی
 certmgr-serial =
     .label = شمارهٔ سریال
+certmgr-fingerprint-sha-256 =
+    .label = اثر انگشت SHA-256
 certmgr-view =
     .label = مشاهده…
     .accesskey = م
@@ -116,6 +124,10 @@ delete-user-cert-title =
     .title = حذف گواهی‌های خودتان
 delete-user-cert-confirm = آیا مطمئنید که می‌خواهید این گواهی‌ها را حذف کنید؟
 delete-user-cert-impact = اگر یکی از گواهی‌های خودتان را حذف کنید، دیگر نمی‌توانید برای تأیید هویت خودتان از آن استفاده کنید.
+delete-ssl-override-title =
+    .title = حذف استثنای گواهی سرور
+delete-ssl-override-confirm = آیا مطمئنید می‌خواهید این استثنای سرور را حذف کنید؟
+delete-ssl-override-impact = اگر استثنای یک سرور را حذف کنید، بررسی‌های امنیتی معمول برای آن سرور برمی‌گردد و سرور باید از گواهی معتبر استفاده کند.
 delete-ca-cert-title =
     .title = حذف یا سلب اعتماد از گواهی یک مرجع صدور
 delete-ca-cert-confirm = شما درخواست حذف این گواهی‌ها را کرده‌اید. گواهی‌های از پیش موجود مورد عدم اعتماد قرار می‌گیرند که همان اثر را دارد.  آیا از حذف یا عدم اعتماد به این گواهی‌ها اطمینان دارید؟
@@ -130,6 +142,17 @@ delete-email-cert-impact = اگر گواهی پست الکترونیکی شخص�
 #   $serialNumber : the serial number of the cert in AA:BB:CC hex format.
 cert-with-serial =
     .value = گواهینامه با شماره سریال: { $serialNumber }
+# Used to indicate that the user chose not to send a client authentication certificate to a server that requested one in a TLS handshake.
+send-no-client-certificate = گواهی کارخواه ارسال نشود
+# Used when no cert is stored for an override
+no-cert-stored-for-override = (ذخیره نشده)
+# When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
+certificate-not-available = (در دسترس نیست)
+
+## Used to show whether an override is temporary or permanent
+
+permanent-override = دائمی
+temporary-override = موقت
 
 ## Add Security Exception dialog
 

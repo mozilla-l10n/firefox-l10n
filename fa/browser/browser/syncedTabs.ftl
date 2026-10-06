@@ -54,8 +54,19 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = مدیریت دستگاه‌ها…
     .accesskey = د
+synced-tabs-context-manage-this-device =
+    .label = مدیریت این دستگاه
+    .accesskey = م
+synced-tabs-context-connect-another-device =
+    .label = اتصال دستگاهی دیگر
+    .accesskey = ا
 synced-tabs-context-sync-now =
     .label = انجام هم‌گام‌سازی
     .accesskey = ه
 synced-tabs-fxa-sign-in = برای همگام‌سازی وارد شوید
 synced-tabs-turn-on-sync = روشن کردن همگام‌سازی
+# Context for hovering over the close tab button that will
+# send a push to the device to close said tab
+# Variables
+# $deviceName - the name of the device the user is closing a tab for
+synced-tabs-context-close-tab = بستن زبانه در { $deviceName }

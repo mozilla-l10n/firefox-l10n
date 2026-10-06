@@ -83,6 +83,9 @@ firefoxview-overview-nav = مرورهای اخیر
     .title = مرورهای اخیر
 firefoxview-overview-header = مرورهای اخیر
     .title = مرورهای اخیر
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = زبانه‌ها و تاریخچهٔ مرور در همهٔ دستگاه‌ها
 
 ## History in this context refers to browser history
 

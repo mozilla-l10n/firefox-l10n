@@ -168,37 +168,94 @@ monitor-resolve-breaches-link = رفع نفوذها
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = ردیاب‌های شبکه‌های اجتماعی
     .aria-label =
         { $count ->
             [one] { $count } ردیاب شبکه‌های اجتماعی ({ $percentage }%)
            *[other] { $count } ردیاب‌های شبکه‌های اجتماعی ({ $percentage }%)
         }
+    .title = ردیاب‌های شبکه‌های اجتماعی
 bar-tooltip-cookie =
-    .title = کلوچک‌های ردیابِ میان‌پایگاهی
     .aria-label =
         { $count ->
             [one] { $count } کلوچک ردیابِ میان‌پایگاهی ({ $percentage }٪)
            *[other] { $count } کلوچک ردیابِ میان‌پایگاهی ({ $percentage }٪)
         }
+    .title = کلوچک‌های ردیابِ میان‌پایگاهی
 bar-tooltip-tracker =
-    .title = محتوای ردیابی
     .aria-label =
         { $count ->
             [one] { $count } محتوای ردیابی ({ $percentage }%)
            *[other] { $count } محتوای ردیابی ({ $percentage }%)
         }
+    .title = محتوای ردیابی
 bar-tooltip-fingerprinter =
-    .title = برداشت کنندگان اثر انگشت
     .aria-label =
         { $count ->
             [one] { $count } برداشت کننده اثر انگشت ({ $percentage }%)
            *[other] { $count } برداشت کنندگان اثر انگشت ({ $percentage }%)
         }
+    .title = برداشت کنندگان اثر انگشت
 bar-tooltip-cryptominer =
-    .title = استخراج کننده‌های رمزارزها
     .aria-label =
         { $count ->
             [one] { $count } استخراج کننده رمزارزها ({ $percentage }%)
            *[other] { $count } استخراج کننده‌های رمزارزها ({ $percentage }%)
         }
+    .title = استخراج کننده‌های رمزارزها
+# Privacy Metrics Card
+privacy-metrics-title = محافظت از حریم خصوصی
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } مورد در این هفته مسدود شد
+       *[other] { $count } مورد در این هفته مسدود شد
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } ردیاب
+       *[other] { $count } ردیاب
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } انگشت‌نگار
+       *[other] { $count } انگشت‌نگار
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } کلوچک‌ ردیاب
+       *[other] { $count } کلوچک‌ ردیاب
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } ردیاب رسانهٔ اجتماعی
+       *[other] { $count } ردیاب رسانهٔ اجتماعی
+    }
+privacy-metrics-empty = این هفته هیچ ردیابی مسدود نشد. { -brand-short-name } هنگام مرور از شما در برابر تهدیدهای زیر محافظت می‌کند.
+privacy-metrics-loading = در حال بار کردن آمار محافظت…
+privacy-metrics-error = بار کردن آمار محافظت ممکن نشد.
+privacy-metrics-private-window = { -brand-short-name } در پنجره‌های ناشناس هم ردیاب‌ها را مسدود می‌کند، اما سابقه‌ای از موارد مسدودشده نگه نمی‌دارد.
+
+## VPN promo card and banner
+
+protections-vpn-title = محافظت از حریم خصوصی را به بیرون از مرورگر هم ببرید
+protections-vpn-header-content = با { -mozilla-vpn-brand-name } از کل دستگاهتان محافظت کنید. یک لمس، همهٔ ترافیک را رمزگذاری می‌کند و موقعیت مکانی‌تان را پنهان می‌کند.
+protections-get-vpn-link = دریافت { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: مشترک هستید
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+       *[other] استفاده از { -mozilla-vpn-brand-name } همهٔ ترافیک شما را رمزگذاری می‌کند و موقعیت مکانی‌تان را پنهان می‌کند؛ روی حداکثر { $count } دستگاه. بیشترین بهره را از اشتراکتان ببرید و آن را از <a data-l10n-name="playstore-link">Google Play Store</a> یا <a data-l10n-name="appstore-link">Apple App Store</a> اضافه کنید.
+    }
+protections-vpn-banner-header = محافظتی که فراتر از مرورگر می‌رود
+protections-vpn-banner-content = { -mozilla-vpn-brand-name } را بدون ریسک امتحان کنید و ببینید چرا TechRadar می‌گوید: «سرعت، سادگی و قیمت ماهانهٔ پایینش آن را ارزش امتحان کردن می‌کند.»
+protections-vpn-banner-link = دریافت { -mozilla-vpn-brand-name }

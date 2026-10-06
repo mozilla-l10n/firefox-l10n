@@ -132,6 +132,20 @@ webrtc-allow-share-camera-and-audio-capture = آیا { $origin } اجازه اس
 webrtc-allow-share-screen-and-microphone = آیا { $origin } اجازهٔ استفاده از صدابَر و دیدن صفحه‌نمایش شما را دارد؟
 webrtc-allow-share-screen-and-audio-capture = آیا { $origin } اجازه شنیدن صداهای این زبانه و دیدن صفحه‌نمایش شما را دارد؟
 
+## Special phrasing for sharing devices when the origin is a file url.
+
+webrtc-allow-share-audio-capture-with-file = به این پروندهٔ محلی اجازه داده شود صدای این زبانه را بشنود؟
+webrtc-allow-share-camera-with-file = به این پروندهٔ محلی اجازه داده شود از دوربین شما استفاده کند؟
+webrtc-allow-share-microphone-with-file = به این پروندهٔ محلی اجازه داده شود از میکروفون شما استفاده کند؟
+webrtc-allow-share-screen-with-file = به این پروندهٔ محلی اجازه داده شود صفحه‌نمایش شما را ببیند؟
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker-with-file = به این پروندهٔ محلی اجازه داده شود از بلندگوهای دیگر استفاده کند؟
+webrtc-allow-share-camera-and-microphone-with-file = به این پروندهٔ محلی اجازه داده شود از دوربین و میکروفون شما استفاده کند؟
+webrtc-allow-share-camera-and-audio-capture-with-file = به این پروندهٔ محلی اجازه داده شود از دوربین شما استفاده کند و صدای این زبانه را بشنود؟
+webrtc-allow-share-screen-and-microphone-with-file = به این پروندهٔ محلی اجازه داده شود از میکروفون شما استفاده کند و صفحه‌نمایش شما را ببیند؟
+webrtc-allow-share-screen-and-audio-capture-with-file = به این پروندهٔ محلی اجازه داده شود صدای این زبانه را بشنود و صفحه‌نمایش شما را ببیند؟
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -185,6 +199,9 @@ webrtc-action-not-now =
 ##
 
 webrtc-remember-allow-checkbox = این تصمیم را به خاطر بسپار
+webrtc-remember-allow-checkbox-camera = برای همهٔ دوربین‌ها به خاطر بسپار
+webrtc-remember-allow-checkbox-microphone = برای همهٔ میکروفون‌ها به خاطر بسپار
+webrtc-remember-allow-checkbox-camera-and-microphone = برای همهٔ دوربین‌ها و میکروفون‌ها به خاطر بسپار
 webrtc-mute-notifications-checkbox = هنگام به اشتراک‌گذاری، اعلان‌های وب‌سایت‌ها بی‌صدا باشند
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } به صورت موقت اجازه دسترسی به صفحه شما را ندارد.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } نمی تواند به طور دائمی به گوش دادن صدای زبانه های شما بدون پرسیدن سوال در مورد به اشتراک گذاشتن‌ آن زبانه دسترسی داشته باشد.

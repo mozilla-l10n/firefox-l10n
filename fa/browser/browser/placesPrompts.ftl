@@ -13,3 +13,4 @@ places-bookmarks-restore-format-error = نوع پرونده پشتیبانی ن�
 places-bookmarks-restore-parse-error = قادر به پردازش پروندهٔ پشتیبان نبود.
 places-bookmarks-import = وارد کردن پروندهٔ نشانک‌ها
 places-bookmarks-export = صادر کردن پروندهٔ نشانک‌ها
+places-bookmarks-paste-error-message-header = نشانی(های) زیر به نشانک‌هایتان اضافه نشدند. قالب آن‌ها را بررسی کنید و دوباره اضافه کنید.

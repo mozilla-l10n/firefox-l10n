@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = جست‌وجوی وب…
 
 smartbar-mention-typing-placeholder = برچسب‌گذاری زبانه یا سایت
 smartbar-mentions-list-no-results-label = نتیجه‌ای یافت نشد
+smartbar-mentions-list-tab-groups-label = گروه‌های اخیر
 smartbar-mentions-list-recent-tabs-label = زبانه‌های اخیر
 
 ## Context mentions menu toggle button

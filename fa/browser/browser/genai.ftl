@@ -59,10 +59,24 @@ genai-menu-remove-provider =
     .label = حذف { $provider }
 genai-menu-remove-sidebar =
     .label = حذف از نوار کناری
+genai-shortcut-button-3 =
+    .aria-label = دربارهٔ این متن بپرسید
+    .tooltiptext = دربارهٔ این متن بپرسید
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button-2 =
     .aria-label = پرسش از { $provider }
     .tooltiptext = پرسش از { $provider }
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = جست‌وجوی «{ $selection }» در { $engine }
+    .tooltiptext = جست‌وجوی «{ $selection }» در { $engine }
+genai-shortcut-copy-button =
+    .aria-label = کپی متن انتخاب‌شده
+    .tooltiptext = کپی متن انتخاب‌شده
+genai-shortcut-more-actions-button =
+    .aria-label = گزینه‌های بیشتر
+    .tooltiptext = گزینه‌های بیشتر
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = پرسش از { $provider }

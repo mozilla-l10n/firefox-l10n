@@ -20,8 +20,23 @@ whypaused-debugger-statement = بر روی بیانیه اشکالزدایی ت�
 # currently paused on a breakpoint
 whypaused-breakpoint = توقف بر روی نقطه وقفه
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an event breakpoint.
+whypaused-event-breakpoint = متوقف‌شده روی نقطهٔ توقف رویداد
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on an exception
 whypaused-exception = توقف بر روی استثنا
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused on a DOM mutation breakpoint
+whypaused-mutation-breakpoint = متوقف‌شده روی تغییر DOM
+# The text that is displayed to describe an added node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-added = اضافه‌شده:
+# The text that is displayed to describe a removed node which triggers a subtree
+# modification
+whypaused-mutation-breakpoint-removed = حذف‌شده:
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a JS execution
+whypaused-interrupted = متوقف‌شده هنگام اجرا
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused while stepping in or out of the stack
 whypaused-resume-limit = توقف در حال گام‌برداشتن
@@ -32,8 +47,17 @@ whypaused-pause-on-dom-events = توقف بر روی شنونده رویداد
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = خطا با نقطه وقفه شرطی
 # The text that is displayed in a info block explaining how the debugger is
+# currently paused on an xml http request
+whypaused-xhr = متوقف‌شده روی XMLHttpRequest
+# The text that is displayed in a info block explaining how the debugger is
 # currently paused on a promise rejection
 whypaused-promise-rejection = بر روی وعده رد شدن توقف کرده است
+# The text that is displayed in a info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-get-watchpoint = متوقف‌شده روی خواندن ویژگی
+# The text that is displayed in an info block explaining how the debugger is
+# currently paused at a watchpoint on an object property
+whypaused-set-watchpoint = متوقف‌شده روی تنظیم ویژگی
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on an assert
 whypaused-assert = توقف بر روی استثنا

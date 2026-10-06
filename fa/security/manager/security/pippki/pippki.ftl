@@ -6,17 +6,32 @@ password-quality-meter = کیفیت‌سنج گذرواژه
 
 ## Change Password dialog
 
+change-device-password-window =
+    .title = تغییر گذرواژه
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = دستگاه امنیتی: { $tokenName }
 change-password-old = گذرواژهٔ فعلی:
 change-password-new = گذرواژهٔ جدید:
 change-password-reenter = گذرواژهٔ جدید (دوباره وارد کنید):
+pippki-failed-pw-change = تغییر گذرواژه ممکن نشد.
+pippki-incorrect-pw = گذرواژهٔ فعلی را درست وارد نکردید. لطفاً دوباره امتحان کنید.
+pippki-pw-change-ok = گذرواژه با موفقیت تغییر کرد.
+pippki-pw-empty-warning = گذرواژه‌ها و کلیدهای خصوصی ذخیره‌شدهٔ شما محافظت نخواهند شد.
+pippki-pw-erased-ok = گذرواژهٔ خود را حذف کردید. { pippki-pw-empty-warning }
+pippki-pw-not-wanted = هشدار! تصمیم گرفتید از گذرواژه استفاده نکنید. { pippki-pw-empty-warning }
+pippki-pw-change2empty-in-fips-mode = در حال حاضر در حالت FIPS هستید. FIPS به گذرواژهٔ غیرخالی نیاز دارد.
 
 ## Reset Primary Password dialog
 
+reset-primary-password-window2 =
+    .style = min-width: 40em
+    .title = بازنشانی گذرواژهٔ اصلی
 reset-password-button-label =
     .label = صفر کردن
+reset-primary-password-text = اگر گذرواژهٔ اصلی خود را بازنشانی کنید، همهٔ گذرواژه‌های وب و رایانامهٔ ذخیره‌شده، گواهی‌های شخصی و کلیدهای خصوصی شما فراموش می‌شوند. آیا مطمئنید می‌خواهید گذرواژهٔ اصلی خود را بازنشانی کنید؟
+pippki-reset-password-confirmation-title = بازنشانی گذرواژهٔ اصلی
+pippki-reset-password-confirmation-message = گذرواژهٔ اصلی شما بازنشانی شد.
 
 ## Downloading cert dialog
 
@@ -37,6 +52,11 @@ download-cert-view-text = بررسی گواهی مرجع صدور
 
 client-auth-window =
     .title = درخواست تشخیص هویت کاربر
+client-auth-send-no-certificate =
+    .label = گواهی فرستاده نشود
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = «{ $hostname }» درخواست کرده است که هویت خود را با یک گواهی معرفی کنید:
 client-auth-cert-details = جزئیات گواهی انتخاب شده:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -60,6 +80,13 @@ client-auth-cert-details-issued-by = منتشر شده توسط: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = ذخیره شده در: { $storedOn }
+client-auth-cert-remember-label = این تصمیم به خاطر سپرده شود:
+client-auth-cert-remember-never =
+    .label = یک بار
+client-auth-cert-remember-always =
+    .label = برای همیشه
+client-auth-cert-remember-temporarily =
+    .label = برای این جلسه
 
 ## Set password (p12) dialog
 
@@ -71,3 +98,11 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = گذرواژهٔ پشتیبان گواهی (دوباره وارد کنید):
 set-password-reminder = مهم: اگر گذرواژهٔ پشتیبان گواهی‌تان را فراموش کنید، بغداً قادر نخواهید بود از این پشتیبان برای بازگرداندن سیستم به حالت قدیم استقاده کنید. لطفاً گذرواژه را در محل امنی ضبط کنید.
+
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = احراز هویت محافظت‌شده
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = لطفاً برای دستگاه امنیتی ({ $tokenName }) احراز هویت کنید. روش این کار به دستگاه بستگی دارد (برای مثال، استفاده از اثرانگشت‌خوان یا وارد کردن کد با صفحه‌کلید).

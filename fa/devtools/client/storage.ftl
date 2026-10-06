@@ -7,6 +7,26 @@
 
 # Key shortcut used to focus the filter box on top of the data view
 storage-filter-key = CmdOrCtrl+F
+# Hint shown when the selected storage host does not contain any data
+storage-table-empty-text = برای میزبان انتخاب‌شده هیچ داده‌ای وجود ندارد
+# Hint shown when the cookies storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cookies/
+storage-table-type-cookies-hint = با انتخاب یک میزبان، کلوچک‌‌ها را ببینید و ویرایش کنید. <a data-l10n-name="learn-more-link">بیشتر بدانید</a>
+# Hint shown when the local storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
+storage-table-type-localstorage-hint = با انتخاب یک میزبان، ذخیره‌سازی محلی را ببینید و ویرایش کنید. <a data-l10n-name="learn-more-link">بیشتر بدانید</a>
+# Hint shown when the session storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/local_storage_session_storage/
+storage-table-type-sessionstorage-hint = با انتخاب یک میزبان، ذخیره‌سازی جلسه را ببینید و ویرایش کنید. <a data-l10n-name="learn-more-link">بیشتر بدانید</a>
+# Hint shown when the IndexedDB storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/indexeddb/
+storage-table-type-indexeddb-hint = با انتخاب یک پایگاه داده، موارد IndexedDB را ببینید و حذف کنید. <a data-l10n-name="learn-more-link">بیشتر بدانید</a>
+# Hint shown when the cache storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/cache_storage/
+storage-table-type-cache-hint = با انتخاب یک ذخیره‌گاه، موارد ذخیره‌سازی حافظهٔ نهان را ببینید و حذف کنید. <a data-l10n-name="learn-more-link">بیشتر بدانید</a>
+# Hint shown when the extension storage type is selected. Clicking the link will open
+# https://firefox-source-docs.mozilla.org/devtools-user/storage_inspector/extension_storage/
+storage-table-type-extensionstorage-hint = با انتخاب یک میزبان، ذخیره‌سازی افزونه را ببینید و ویرایش کنید. <a data-l10n-name="learn-more-link">بیشتر بدانید</a>
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
     .placeholder = فیلتر کردن موارد
@@ -16,12 +36,20 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = اضافه کردن
+storage-delete-all-button =
+    .title = حذف همه
+# Refresh button title
+storage-refresh-button =
+    .title = تازه‌سازی موارد
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
     .label = حذف همه
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = حذف تمام کلوچک‌های نشست
+# Context menu action to copy a storage item
+storage-context-menu-copy =
+    .label = کپی
 # Context menu action to delete storage item
 # Variables:
 #   $itemName (String) - Name of the storage item that will be deleted
@@ -41,7 +69,13 @@ storage-context-menu-delete-all-from =
 
 storage-table-headers-cookies-name = نام
 storage-table-headers-cookies-value = مقدار
+storage-table-headers-cookies-expires = انقضا / Max-Age
+storage-table-headers-cookies-size = اندازه
+storage-table-headers-cookies-last-accessed = آخرین دسترسی
+storage-table-headers-cookies-creation-time = ایجاد
+storage-table-headers-cookies-update-time = به‌روزرسانی
 storage-table-headers-cache-status = وضعیت
+storage-table-headers-extension-storage-area = ناحیهٔ ذخیره‌سازی
 
 ## Labels for Storage type groups present in the Storage Tree, like cookies, local storage etc.
 
@@ -50,6 +84,7 @@ storage-tree-labels-local-storage = فضای ذخیره‌سازی محلی
 storage-tree-labels-session-storage = فضای ذخیره‌سازی نشست
 storage-tree-labels-indexed-db = پایگاه دادهٔ نشانه‌گذاری شده
 storage-tree-labels-cache = ذخیره‌گاه انباره
+storage-tree-labels-extension-storage = ذخیره‌سازی افزونه
 
 ##
 
@@ -75,3 +110,11 @@ storage-idb-delete-blocked = بانک‌اطلاعاتی «{ $dbName }» بعد 
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = بانک‌اطلاعاتی «{ $dbName }» قابل حذف نیست.
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = کلوچک‌ ساخته نشد: «{ $errorString }».
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = کلوچک‌ به‌روز نشد: «{ $errorString }».

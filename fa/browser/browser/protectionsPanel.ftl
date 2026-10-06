@@ -65,6 +65,20 @@ protections-panel-not-found-label = موردی پیدا نشد
 ## Smartblock strings
 
 protections-panel-smartblock-desc-label = { -brand-short-name } محتوای ردیابی را مسدود می‌کند، مگر این که شما اجازه دهید.
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = اجازه به { $trackername }
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = ردیاب‌ها و محتوای { $trackername } مسدود شد
+smartblock-placeholder-desc = تنظیمات { -brand-short-name } شما این محتوا را مسدود کرد تا نتواند شما را در سایت‌های مختلف ردیابی کند یا برای تبلیغات استفاده شود.
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = اجازه در { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = محتوای جاسازی مسدودشده
 
 ##
 
@@ -85,6 +99,14 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-cookie-banner-blocker-header = مسدودکننده برنمای کلوچک
 protections-panel-cookie-banner-handling-enabled = فعال برای این وبگاه
 protections-panel-cookie-banner-handling-disabled = غیرفعال برای این وبگاه
+protections-panel-cookie-banner-handling-undetected = این سایت در حال حاضر پشتیبانی نمی‌شود
+protections-panel-cookie-banner-blocker-view-title =
+    .title = مسدودکنندهٔ اعلان کلوچک‌
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = مسدودکنندهٔ اعلان کلوچک‌ برای { $host } خاموش شود؟
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = مسدودکنندهٔ اعلان کلوچک‌ برای این سایت روشن شود؟
+protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } کلوچک‌‌های این سایت را پاک می‌کند و صفحه را دوباره بار می‌کند. پاک کردن همهٔ کلوچک‌‌ها ممکن است شما را از حسابتان خارج کند یا سبدهای خرید را خالی کند.
 protections-panel-cookie-banner-blocker-view-turn-on-description = روشن کنید و { -brand-short-name } سعی خواهد کرد به‌طور خودکار برنمای کلوچک را در این وبگاه رد کند.
 protections-panel-cookie-banner-view-cancel-label =
     .label = انصراف
@@ -92,6 +114,9 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = خاموش کردن
 protections-panel-cookie-banner-view-turn-on-label =
     .label = روشن کردن
+protections-panel-report-broken-site =
+    .label = گزارش سایت خراب
+    .title = گزارش سایت خراب
 
 ## Protections panel info message
 

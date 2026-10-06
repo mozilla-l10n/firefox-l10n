@@ -61,6 +61,9 @@ places-history =
     .aria-label = تاریخچه
 places-bookmarks-search =
     .placeholder = جست‌و‌جو نشانک‌ها
+places-forget-domain-data =
+    .label = فراموش کردن این سایت…
+    .accesskey = ف
 places-sortby-name =
     .label = مرتب‌سازی بر حسب نام
     .accesskey = ن
@@ -113,6 +116,18 @@ places-delete-bookmark =
            *[other] حذف نشانک‌ها
         }
     .accesskey = ح
+# Variables:
+#   $count (number) - The number of bookmarks being added.
+places-create-bookmark =
+    .label =
+        { $count ->
+            [1] نشانک‌گذاری صفحه…
+           *[other] نشانک‌گذاری صفحه‌ها…
+        }
+    .accesskey = ن
+places-untag-bookmark =
+    .label = برداشتن برچسب
+    .accesskey = ب
 places-manage-bookmarks =
     .label = مدیریت نشانک‌ها
     .accesskey = M
@@ -234,3 +249,14 @@ places-search-downloads =
 ##
 
 places-locked-prompt = به دلیل این که یکی از پرونده‌های { -brand-short-name } در حال استفاده توسط برنامهٔ دیگری است، سیستم نشانک‌ها و تاریخچه عمل نخواهد کرد. امکان دارد برخی نرم‌افزارهای امنیتی باعث ایجاد این مشکل شوند.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = جدید
+    .label = هم‌رسانی پوشه
+    .accesskey = ه
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = جدید
+    .label = هم‌رسانی پوشه

@@ -35,6 +35,33 @@ urlbar-identity-button2 =
             [1] مشاهدهٔ اطلاعات سایت (۱ ردیاب مسدود شده است)
            *[other] مشاهدهٔ اطلاعات سایت ({ $count } ردیاب مسدود شده‌اند)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } پیوند
+           *[other] { $count } پیوند
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop، Messages و بیشتر…
+    .accesskey = ب
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Messages، Mail و بیشتر…
+    .accesskey = ب
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = هم‌رسانی…
+    .accesskey = ه
 urlbar-identity-button =
     .aria-label = مشاهدهٔ اطلاعات سایت
 
@@ -100,6 +127,8 @@ urlbar-result-menu-tip-get-help2 = دریافت راهنمایی
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = رد این پیشنهاد
     .accesskey = D
+urlbar-result-menu-remove-top-site = برداشتن این سایت برتر
+    .accesskey = ب
 urlbar-result-menu-manage-firefox-suggest2 = مدیریت { -firefox-suggest-brand-name }
     .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -943,6 +972,12 @@ urlbar-view-context-menu-open-in-window2 = باز کردن در پنجرهٔ ج�
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = باز کردن در پنجرهٔ ناشناس جدید
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = هنگام استفاده از کلید Tab از این منو رد شو
+    .accesskey = ه
 
 ## Labels shown above groups of urlbar results
 
@@ -1299,6 +1334,10 @@ private-browsing-info-panel-description = این حالت کمک می‌کند �
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = پیشگیری از اتلاف داده (DLP) توسط { $agentName }. برای اطلاعات بیشتر کلیک کنید.
+content-analysis-panel-title2 = جلوگیری از نشت داده
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = سازمان شما از <b>{ $agentName }</b> برای کنترل نحوهٔ اشتراک‌گذاری داده‌های حساس استفاده می‌کند. <a data-l10n-name="info">بیشتر بدانید</a>
 content-analysis-panel-title = حفاظت از داده‌ها
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

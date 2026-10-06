@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Trò chơi ô chữ
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Tài chính
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Cổ phiếu
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Tìm kiếm
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Tử vi
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Tìm kiếm gần đây
@@ -167,6 +173,11 @@ newtab-privacy-menu-learn-more = Tìm hiểu thêm
 newtab-privacy-widget-menu-button =
     .aria-label = Tuỳ chọn quyền riêng tư
     .title = Tuỳ chọn quyền riêng tư
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Mở menu quyền riêng tư
+    .title = Mở menu quyền riêng tư
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -302,12 +313,23 @@ newtab-privacy-message-first-protection-cta = Xem báo cáo bảo vệ
 newtab-stocks-menu-learn-more = Tìm hiểu thêm
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dữ liệu cổ phiếu hiện không khả dụng.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Tuỳ chọn tài chính
+    .title = Tuỳ chọn tài chính
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Tuỳ chọn widget Cổ phiếu
     .title = Tuỳ chọn widget Cổ phiếu
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Mở menu cổ phiếu
+    .title = Mở menu cổ phiếu
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -338,6 +360,12 @@ newtab-stocks-list-watchlist = Danh sách theo dõi
     .label = Danh sách theo dõi
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Tìm kiếm theo tên hoặc ký hiệu
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Tài chính
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -439,6 +467,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Tuỳ chọn Hình ảnh của ngày
     .title = Tuỳ chọn Hình ảnh của ngày
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Mở menu hình ảnh của ngày
+    .title = Mở menu hình ảnh của ngày
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -493,6 +526,11 @@ newtab-search-widget-title = Tìm kiếm
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Tuỳ chọn tìm kiếm
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Mở menu tìm kiếm
+    .title = Mở menu tìm kiếm
 
 ## Recent searches widget — empty states
 
@@ -500,6 +538,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Các tìm kiếm gần đây sẽ hiển thị ở đây để bạn có thể xem lại bất cứ lúc nào.
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Tính năng tìm kiếm thịnh hành hiện không khả dụng.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Tử vi
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Tuỳ chọn tử vi
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Tìm hiểu thêm
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -797,12 +845,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Trò chơi ô chữ
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Tài chính
 newtab-custom-widget-stocks-toggle =
     .label = Cổ phiếu
 newtab-custom-widget-picture-toggle =
     .label = Hình ảnh của ngày
 newtab-custom-widget-search-toggle =
     .label = Tìm kiếm
+newtab-custom-widget-horoscopes-toggle =
+    .label = Tử vi
 newtab-custom-widget-recent-searches-toggle =
     .label = Tìm kiếm gần đây
 newtab-custom-widget-section-title = Widget
@@ -1026,6 +1079,11 @@ newtab-wallpaper-celestial-river = Hình ảnh vệ tinh của sông
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Được tài trợ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Mở menu thời tiết
+    .title = Mở menu thời tiết
 newtab-weather-menu-change-location = Thay đổi khu vực
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Tìm kiếm khu vực
@@ -1304,6 +1362,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Tuỳ chọn trong danh sách
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Mở menu danh sách
+    .title = Mở menu danh sách
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Tạo một danh sách mới
@@ -1391,6 +1455,11 @@ newtab-widget-timer-menu-notifications-on = Bật thông báo
 newtab-widget-timer-menu-learn-more = Tìm hiểu thêm
 newtab-widget-timer-menu-button =
     .aria-label = Tùy chọn bộ đếm giờ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Mở menu bộ đếm giờ
+    .title = Mở menu bộ đếm giờ
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Tin tức nổi bật
 newtab-daily-briefing-card-menu-dismiss = Bỏ qua
@@ -1415,6 +1484,14 @@ newtab-promo-card-cta = Tìm hiểu thêm
 newtab-promo-card-dismiss-button =
     .aria-label = Bỏ qua
     .title = Bỏ qua
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Mở menu trò chơi ô chữ
+    .title = Mở menu trò chơi ô chữ
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1812,6 +1889,11 @@ newtab-clock-widget-custom-back = Quay lại
 newtab-clock-widget-menu-button2 =
     .aria-label = Tuỳ chọn đồng hồ
     .title = Tuỳ chọn đồng hồ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Mở menu đồng hồ
+    .title = Mở menu đồng hồ
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

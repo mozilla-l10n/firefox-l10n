@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = کلیدهای میانبر
 settings-keyboard-shortcuts-customkeys-link =
     .label = سفارشی‌سازی کلیدهای میانبر
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = شخصی‌سازی تنظیمات نوار نشانی در بخش جست‌وجو
 settings-media-group =
     .label = رسانه
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = موتور جست‌وجوی پیش‌فرض در پنجره‌های ناشناس
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = پیمایش در نوار نشانی
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = هنگام جابه‌جایی با کلید Tab، از منوی نتایج رد شو
 search-suggestions-header-2 =
     .label = پیشنهادهای موتور جست‌وجو
 search-one-click-header2 = میانبرهای جست‌وجو
@@ -1154,6 +1166,9 @@ sync-syncing-across-devices-heading-2 = داده‌های همگام‌سازی�
 sync-syncing-across-devices-empty-state2 =
     .description = شما هنوز چیزی را همگام‌سازی نکرده‌اید. همگام‌سازی را شروع کنید تا به تمام اطلاعات خود روی همهٔ دستگاه‌ها دسترسی داشته باشید.
     .label = مدیریت داده‌های همگام‌سازی‌شده
+sync-syncing-across-devices-empty-state3 =
+    .description = هنوز چیزی را همگام نمی‌کنید… فعلاً. انتخاب کنید در این دستگاه چه چیزی همگام شود.
+    .label = مدیریت داده‌های همگام‌شده
 sync-currently-syncing-bookmarks = نشانک‌ها
 sync-currently-syncing-history = تاریخچه
 sync-currently-syncing-tabs = زبانه‌های باز
@@ -1374,6 +1389,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = نیاز به احراز هویت دستگاه برای تکمیل خودکار و مدیریت روش‌های پرداخت
     .accesskey = o
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = ذخیرهٔ کدهای امنیتی
+    .accesskey = ذ
 autofill-payment-methods-add-button = افزودن روش پرداخت جدید
 payments-list-header =
     .label = روش‌های پرداخت
@@ -1440,6 +1459,23 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV ذخیره شده
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV ذخیره شده
     .label = { $cardNumber }
 addresses-group =
     .label = نشانی‌ها و موارد بیشتر

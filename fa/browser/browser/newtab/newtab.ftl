@@ -89,12 +89,22 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = جدول کلمات
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = مالی
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = بورس
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = تصویر روز
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = جست‌وجو
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = طالع‌بینی
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = جست‌وجوهای اخیر
@@ -161,6 +171,17 @@ home-prefs-mission-message-learn-more-link-srd = مشاهدهٔ روش‌ها
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = بیشتر بدانید
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = گزینه‌های حریم خصوصی
+    .title = گزینه‌های حریم خصوصی
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = باز کردن منوی حریم خصوصی
+    .title = باز کردن منوی حریم خصوصی
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -324,12 +345,23 @@ newtab-privacy-message-first-protection-cta = مشاهدهٔ محافظت‌ها
 newtab-stocks-menu-learn-more = بیشتر بدانید
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = داده‌های بورس در دسترس نیست.
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = گزینه‌های مالی
+    .title = گزینه‌های مالی
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = گزینه‌های ویجت بورس
     .title = گزینه‌های ویجت بورس
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = باز کردن منوی سهام
+    .title = باز کردن منوی سهام
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -337,6 +369,9 @@ newtab-stocks-search-button =
     .aria-label = جست‌وجو بر اساس نام یا نماد
     .label = جست‌وجو
     .title = جست‌وجو بر اساس نام یا نماد
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = دنبال کردن سهامی را که برایتان مهم است شروع کنید
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -357,6 +392,12 @@ newtab-stocks-list-watchlist = دیده‌بان
     .label = دیده‌بان
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = جست‌وجو با نام شرکت یا نماد بورسی
+
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = مالی
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -411,6 +452,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = نتایج جست‌وجو
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = برای افزودن به فهرست دیده‌بانی، نماد یا شرکت را جست‌وجو کنید
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -459,6 +503,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = گزینه‌های تصویر روز
     .title = گزینه‌های تصویر روز
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = باز کردن منوی تصویر روز
+    .title = باز کردن منوی تصویر روز
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -493,6 +542,48 @@ newtab-recent-searches-widget-menu-button =
     .aria-label = گزینه‌های جست‌وجوهای اخیر
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = بیشتر بدانید
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = جست‌وجوهای اخیر
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = داغ‌ترین‌ها
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = از طریق { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = همین الان
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = حذف «{ $search }» از جست‌وجوهای اخیر
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = جست‌وجو
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = گزینه‌های جست‌وجو
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = باز کردن منوی جست‌وجو
+    .title = باز کردن منوی جست‌وجو
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = جست‌وجوهای اخیر اینجا نمایش داده می‌شوند تا هر وقت خواستید دوباره سراغشان بروید.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = جست‌وجوهای پرطرفدار در حال حاضر در دسترس نیستند.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = طالع‌بینی
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = گزینه‌های طالع‌بینی
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = بیشتر بدانید
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -791,10 +882,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = جدول کلمات
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = مالی
 newtab-custom-widget-stocks-toggle =
     .label = بورس
 newtab-custom-widget-picture-toggle =
     .label = تصویر روز
+newtab-custom-widget-search-toggle =
+    .label = جست‌وجو
+newtab-custom-widget-horoscopes-toggle =
+    .label = طالع‌بینی
 newtab-custom-widget-recent-searches-toggle =
     .label = جست‌وجوهای اخیر
 newtab-custom-widget-section-title = ابزارک‌ها
@@ -851,6 +949,9 @@ newtab-wallpaper-add-an-image = افزودن یک تصویر
 newtab-wallpaper-custom-color = انتخاب یک رنگ
 newtab-wallpaper-toggle-title =
     .label = تصویر پس‌زمینه
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = دسته‌های کاغذدیواری
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = حجم تصویر بیش از حد مجاز { $file_size } مگابایت است. لطفاً فایل کوچک‌تری بارگذاری کنید.
@@ -1015,6 +1116,11 @@ newtab-wallpaper-celestial-river = تصویر ماهواره‌ای از رود�
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ با حمایت مالی
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = باز کردن منوی آب‌وهوا
+    .title = باز کردن منوی آب‌وهوا
 newtab-weather-menu-change-location = تغییر مکان
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = جست‌وجوی مکان
@@ -1293,6 +1399,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = گزینه‌های فهرست‌ها
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = باز کردن منوی فهرست‌ها
+    .title = باز کردن منوی فهرست‌ها
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + ایجاد یک فهرست جدید
@@ -1380,6 +1492,11 @@ newtab-widget-timer-menu-notifications-on = روشن کردن اعلان‌ها
 newtab-widget-timer-menu-learn-more = بیشتر بدانید
 newtab-widget-timer-menu-button =
     .aria-label = گزینه‌های تایمر
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = باز کردن منوی زمان‌سنج
+    .title = باز کردن منوی زمان‌سنج
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = مهم‌ترین سرخط‌های خبری
 newtab-daily-briefing-card-menu-dismiss = رد کردن
@@ -1404,6 +1521,14 @@ newtab-promo-card-cta = بیشتر بدانید
 newtab-promo-card-dismiss-button =
     .aria-label = رد کردن
     .title = رد کردن
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = باز کردن منوی جدول کلمات متقاطع
+    .title = باز کردن منوی جدول کلمات متقاطع
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1712,6 +1837,16 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = این فضا با قوانین شما کار می‌کند
 newtab-activation-window-message-values-focus-message = { -brand-product-name } به شما امکان می‌دهد آن‌طور که دوست دارید مرور کنید؛ روشی شخصی‌تر برای شروع روز آنلاین شما. { -brand-product-name } را به سبک خود بسازید.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = { -brand-product-name } را با سلیقهٔ خودتان کامل کنید
+newtab-nova-customization-callout-message = پوسته‌های روشن یا تیره و کاغذدیواری‌هایی را ببینید که { -brand-product-name } جدید را بیشتر مال خودتان می‌کنند.
+newtab-nova-customization-callout-primary-button =
+    .label = ظاهرتان را انتخاب کنید
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1792,6 +1927,17 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = منطقه زمانی منطبقی پیدا نشد
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = بازگشت
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = گزینه‌های ساعت
+    .title = گزینه‌های ساعت
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = باز کردن منوی ساعت
+    .title = باز کردن منوی ساعت
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

@@ -30,11 +30,15 @@ ipprotection-feature-introduction-title-privacy = افزودن لایهٔ دیگ
 ipprotection-feature-introduction-link-text-privacy-1 = ‏<a data-l10n-name="learn-more-vpn">VPN داخلی { -brand-product-name }</a> به محافظت از وب‌گردی شما کمک می‌کند. از میان چندین موقعیت مکانی انتخاب کنید تا مکان وب‌گردی‌تان خصوصی‌تر بماند.
 ipprotection-feature-introduction-link-text-privacy-2 = ‏<a data-l10n-name="learn-more-vpn">VPN داخلی { -brand-product-name }</a> به محافظت از وب‌گردی شما کمک می‌کند. از میان چندین موقعیت مکانی انتخاب کنید تا مکان وب‌گردی‌تان خصوصی‌تر بماند.
 ipprotection-feature-introduction-link-text-privacy-3 = با انتخاب از میان چندین موقعیت مکانی، <a data-l10n-name="learn-more-vpn">حریم‌خصوصی بیشتری</a> برای پنهان کردن مکان وب‌گردی خود داشته باشید.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = هنگام مرور، برای <a data-l10n-name="learn-more-vpn">حریم خصوصی بیشتر</a> به پنهان کردن موقعیت مکانی‌تان کمک کنید. VPN را برای سایت‌های مشخصی روشن یا خاموش کنید.
 ipprotection-feature-introduction-text-summer-promo-1 = آن را روشن کنید تا وب‌گردی خصوصی‌تری داشته باشید. <a data-l10n-name="summer-promo-link">پهنای باند نامحدود</a> و موقعیت‌های مکانی بیشتری برای وب‌گردی دریافت کنید. مهلت تا ۳۱ اوت.
 ipprotection-feature-introduction-title-summer-promo = برنامه‌ای برای سفر دارید؟ حریم‌خصوصی را همراهتان ببرید.
 ipprotection-feature-introduction-description-summer-promo = با VPN داخلی { -brand-product-name } فراتر بروید: موقعیت‌های مکانی بیشتر و پهنای باند نامحدود. مهلت تا ۳۱ اوت.
 ipprotection-feature-introduction-link-text-private-browsing-2 = از <a data-l10n-name="learn-more-vpn">VPN داخلی</a> جدید ما برای پنهان کردن موقعیت مکانی و حفاظت از داده‌ها، حتی در پنجرهٔ ناشناس، استفاده کنید.
 ipprotection-feature-introduction-description-private-browsing = حتی در پنجرهٔ ناشناس، با پنهان کردن موقعیت مکانی خود با امنیت بیشتری وب‌گردی کنید.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = هنگام مرور، برای <a data-l10n-name="learn-more-vpn">حریم خصوصی بیشتر</a> به پنهان کردن موقعیت مکانی‌تان کمک کنید. قاعده‌هایی بگذارید تا VPN هر جا حریم خصوصی بیشتر یا مرور بر اساس موقعیت می‌خواهید روشن شود و هر جا نمی‌خواهید خاموش بماند.
 ipprotection-feature-introduction-title-captive-portal = به Wi-Fi عمومی متصل هستید؟ VPN داخلی { -brand-product-name } را امتحان کنید.
 ipprotection-feature-introduction-description-captive-portal = حتی روی Wi-Fi عمومی، با پنهان کردن موقعیت مکانی با محافظت بیشتری وب‌گردی کنید.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -51,6 +55,10 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = حذف VPN از نوار ابزار
 ipprotection-feature-introduction-button-open-vpn = باز کردن VPN
 ipprotection-feature-introduction-button-get-started = شروع کنید
+
+## Callout shown when the user opens a private browsing window
+
+ipprotection-feature-introduction-title-private-browsing = با VPN داخلی { -brand-product-name }، حریم خصوصی را به حداکثر برسانید
 
 ## Summer promo offramp callout buttons
 
@@ -103,6 +111,11 @@ ipprotection-android-promo-callout-primary-button = متوجه شدم
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = قاعده‌های VPN داخلی را تنظیم کنید و به مرور ادامه دهید
+ipprotection-site-inclusions-callout-title-lapsed-users = VPN داخلی را امتحان کنید؛ حالا سایت به سایت
+ipprotection-site-inclusions-callout-description = هر وقت حریم خصوصی بیشتر یا مرور بر اساس موقعیت خواستید روشنش کنید، و هر جا نخواستید خاموشش کنید.
+ipprotection-site-inclusions-callout-primary-button = تنظیم قاعده‌ها
 ipprotection-site-inclusions-callout-secondary-button-existing-users = فعلاً نه
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = رد کردن
 

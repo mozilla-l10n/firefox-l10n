@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = تاریخ و وب‌سایت
 sidebar-history-sort-option-last-visited =
     .label = آخرین بازدید
+sidebar-history-sort-option-most-visited =
+    .label = پربازدیدترین‌ها
 
 ## Labels for sidebar search
 

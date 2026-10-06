@@ -4,6 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = نشانک‌ها
+sidebar-menu-bookmarks-2 = نشانک‌ها
 sidebar-menu-history =
     .label = تاریخچه
 sidebar-menu-synced-tabs =

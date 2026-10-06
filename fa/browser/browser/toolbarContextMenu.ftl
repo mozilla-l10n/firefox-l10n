@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] باز کردن دوبارهٔ زبانه‌های بسته شده
         }
     .accesskey = ا
+toolbar-context-turn-on-vertical-tabs =
+    .label = روشن کردن زبانه‌های عمودی
+toolbar-context-turn-off-vertical-tabs =
+    .label = خاموش کردن زبانه‌های عمودی
+toolbar-context-customize-sidebar =
+    .label = شخصی‌سازی نوار کناری
 toolbar-context-menu-manage-extension =
     .label = مدیریت افزودنی‌ها
     .accesskey = E
@@ -53,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = نمایش تابلو هنگام شروع بارگیری
     .accesskey = ن
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = همیشه در نوار ابزار نمایش بده
+    .accesskey = ه
 toolbar-context-menu-remove-from-toolbar =
     .label = حذف از نوارابزار
     .accesskey = ح
@@ -61,6 +71,11 @@ toolbar-context-menu-view-customize-toolbar =
     .accesskey = س
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = سفارشی‌سازی نوار ابزار…
+    .accesskey = س
+# This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
+# is hidden, so they can share access keys.
+toolbar-context-menu-pin-to-toolbar =
+    .label = سنجاق کردن به نوار ابزار
     .accesskey = س
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = همیشه نمایش بده

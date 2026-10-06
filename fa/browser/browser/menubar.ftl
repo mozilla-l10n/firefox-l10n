@@ -7,6 +7,15 @@
 
 menu-application-preferences =
     .label = ترجیحات
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = تنظیمات…
+menu-application-set-as-default =
+    .label = { -brand-shorter-name } را مرورگر پیش‌فرض کن
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = معرفی { -brand-product-name }
 menu-application-services =
     .label = خدمات
 menu-application-hide-this =
@@ -73,6 +82,11 @@ menu-file-close-tab =
            *[other] بستن { $tabCount } زبانه
         }
     .accesskey = ب
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = بستن
+    .accesskey = ب
 menu-file-close-window =
     .label = بستن پنجره
     .accesskey = پ
@@ -84,6 +98,15 @@ menu-file-email-link =
     .accesskey = ا
 menu-file-share-url =
     .label = اشتراک‌گذاری
+    .accesskey = ا
+menu-file-share-qrcode3 =
+    .label = ساختن کد QR
+    .accesskey = س
+menu-file-share-qrcode =
+    .label = ایجاد کد QR…
+    .accesskey = ا
+menu-file-share-qrcode2 =
+    .label = ایجاد کد QR
     .accesskey = ا
 menu-file-print-setup =
     .label = تنظیم صفحه…
@@ -203,6 +226,8 @@ menu-history-show-all-history =
     .label = نمایش تمام تاریخچه
 menu-history-clear-recent-history =
     .label = پاک کردن تاریخچه صفحه‌های اخیراً بازدید شده…
+menu-history-remote-tabs-promo =
+    .label = زبانه‌های دستگاه‌های دیگر
 menu-history-synced-tabs =
     .label = زبانه‌های همگام‌سازی شده
 menu-history-restore-last-session =
@@ -224,6 +249,8 @@ menu-bookmarks-menu =
     .accesskey = ن
 menu-bookmarks-manage =
     .label = مدیریت نشانک‌ها
+menu-bookmarks-remote-tabs-promo =
+    .label = همگام‌سازی نشانک‌ها با تلفن همراه
 menu-bookmark-tab =
     .label = نشانک‌گذاری زبانهٔ کنونی…
 menu-edit-bookmark =
@@ -246,6 +273,13 @@ menu-profiles-manage-profiles =
     .label = مدیریت نمایه‌ها
 menu-profiles-new-profile =
     .label = نمایه جدید
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (فعلی)
+menu-profiles-menu =
+    .label = نمایه‌ها
+    .accesskey = ن
 
 ## Tools Menu
 
@@ -255,6 +289,9 @@ menu-tools =
 menu-tools-downloads =
     .label = بارگیری‌ها
     .accesskey = ب
+menu-tools-extensions-and-themes =
+    .label = افزونه‌ها و پوسته‌ها
+    .accesskey = ا
 menu-tools-fxa-sign-in2 =
     .label = وارد شدن
     .accesskey = g
@@ -279,6 +316,9 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = اطلاعات صفحه
     .accesskey = ا
+menu-tools-edit-pdf =
+    .label = ویرایش PDF…
+    .accesskey = و
 menu-settings =
     .label = تنظیمات
     .accesskey =
@@ -330,3 +370,7 @@ menu-help-not-deceptive =
     .accesskey = d
 menu-report-broken-site =
     .label = گزارش سایت ایراددار
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals2 =
+    .label = معرفی { -brand-product-name }

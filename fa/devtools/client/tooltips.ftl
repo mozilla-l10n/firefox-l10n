@@ -120,6 +120,7 @@ inactive-css-not-multicol-container-fix-1 = افزودن <strong>column-count</s
 inactive-css-column-span-fix-1 = افزودن <strong>column-count</strong> یا <strong>column-width</strong> به یکی از عنصرهای والد (ancestor) را امتحان کنید.
 inactive-css-not-grid-or-flex-or-absolutely-positioned-item-fix-1 = افزودن <strong>position:absolute</strong> به این عنصر، یا <strong>display:grid</strong>، <strong>display:flex</strong>، <strong>display:inline-grid</strong> یا <strong>display:inline-flex</strong> به والد عنصر را امتحان کنید.
 inactive-css-not-grid-or-absolutely-positioned-item-fix-1 = سعی کنید <strong>position:absolute</strong> را به عنصر اضافه کنید، و یا <strong>display:grid</strong> یا <strong>display:inline-grid</strong> را به والد عنصر اضافه کنید.
+inactive-css-not-absolutely-positioned-item-fix-1 = <strong>position:absolute</strong> را به عنصر اضافه کنید.
 inactive-css-no-default-anchor-fix-1 = افزودن <strong>position-anchor</strong> همراه با یک نام anchor معتبر را امتحان کنید.
 inactive-css-not-grid-or-flex-item-fix-4 = افزودن <strong>display:grid</strong>، <strong>display:flex</strong>، <strong>display:inline-grid</strong> یا <strong>display:inline-flex</strong> به والد این عنصر را امتحان کنید.
 inactive-css-not-grid-item-fix-3 = افزودن <strong>display:grid</strong> یا <strong>display:inline-grid</strong> به والد این عنصر را امتحان کنید.

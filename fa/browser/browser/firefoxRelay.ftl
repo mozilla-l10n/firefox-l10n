@@ -26,11 +26,19 @@ firefox-relay-reuse-masks-header =
 # Description following warning that the user has used all their free email masks.
 # The user is presented a list of recently used masks to select, or they can click a button to see all masks.
 firefox-relay-reuse-masks-description-v2 = می‌توانید یکی را دوباره استفاده کنید یا برای انتخاب ماسکی متفاوت، همه ماسک‌ها را ببینید.
+firefox-relay-reuse-masks-select-label = یک پوشش اخیر را انتخاب کنید
+firefox-relay-see-all-masks =
+    .label = دیدن همهٔ پوشش‌ها
+    .accesskey = د
+firefox-relay-dismiss =
+    .label = رد کردن
+    .accesskey = ر
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = محافظت از نشانی رایانامه شما:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
 firefox-relay-opt-in-subtitle-1 = استفاده از { -relay-brand-name } برای پوشانهٔ رایانامه
+firefox-relay-use-mask-title-1 = استفاده از پوشش رایانامه
 firefox-relay-use-mask-title = استفاده از { -relay-brand-name } برای پوشانهٔ رایانامه
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
 firefox-relay-opt-in-title-b = یک پوشانهٔ رایانامهٔ رایگان دریافت کنید
@@ -42,10 +50,18 @@ firefox-relay-opt-in-confirmation-disable =
 firefox-relay-opt-in-confirmation-postpone =
     .label = اکنون نه
     .accesskey = ا
+firefox-relay-and-fxa-opt-in-confirmation-disable =
+    .label = دیگر نمایش داده نشود
+    .accesskey = ن
+firefox-relay-and-fxa-opt-in-confirmation-postpone =
+    .label = اکنون نه
+    .accesskey = ا
 
 ## The "with-domain" variation of the Relay offer popup
 
 firefox-relay-and-fxa-popup-notification-header-with-domain = یک پوشانهٔ رایانامهٔ رایگان دریافت کنید
+firefox-relay-and-fxa-popup-notification-first-sentence = با استفاده از یک <label data-l10n-name="firefox-relay-learn-more-url">پوشش رایانامهٔ رایگان { -relay-brand-name }</label> نشانی واقعی‌تان را پنهان کنید و صندوق ورودی‌تان را از هرزنامه‌ها محافظت کنید. رایانامه‌های <label data-l10n-name="firefox-fxa-and-relay-offer-domain">این سایت</label> همچنان به صندوق ورودی‌تان می‌رسند، اما رایانامهٔ شما پنهان می‌ماند.
+firefox-relay-offer-why-to-use-relay-1 = با استفاده از یک <label data-l10n-name="firefox-relay-learn-more-url">پوشش رایانامهٔ رایگان { -relay-brand-name }</label> نشانی واقعی‌تان را پنهان کنید و صندوق ورودی‌تان را از هرزنامه‌ها محافظت کنید. رایانامه‌های <label data-l10n-name="firefox-fxa-and-relay-offer-domain">این سایت</label> همچنان به صندوق ورودی‌تان می‌رسند، اما رایانامهٔ شما پنهان می‌ماند.
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 

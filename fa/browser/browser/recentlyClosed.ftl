@@ -16,3 +16,16 @@ recently-closed-menu-reopen-all-windows = بازآوری همهٔ پنجره‌�
 
 recently-closed-panel-reopen-all-tabs = بازگردانی همهٔ زبانه‌ها
 recently-closed-panel-reopen-all-windows = بازگردانی همهٔ پنجره‌ها
+
+##
+
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } زبانه، بسته‌شده در { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[other] { $winTitle } ({ $tabCount } زبانه، بسته‌شده در { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }

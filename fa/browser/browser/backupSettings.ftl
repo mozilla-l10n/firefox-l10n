@@ -177,6 +177,7 @@ change-backup-encryption-header = تغییر گذرواژهٔ پشتیبان
 
 password-rules-header = شرایط لازم برای گذرواژه
 password-rules-length-description = حداقل ۸ نویسه
+password-rules-email-description2 = نشانی رایانامه نباشد
 password-rules-email-description = نباید نشانی ایمیل شما باشد
 password-rules-disclaimer = ایمن بمانید — از گذرواژه‌های تکراری استفاده نکنید. نکات بیشتری برای <a data-l10n-name="password-support-link">ساخت گذرواژه‌های قوی</a> بخوانید.
 password-validity-has-email = نمی‌تواند یک نشانی ایمیل باشد

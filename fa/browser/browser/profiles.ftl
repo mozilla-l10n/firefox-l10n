@@ -57,6 +57,9 @@ avatar-selector-add-image = افزودن تصویر
 avatar-selector-crop = برش تصویر
 avatar-selector-dialog =
     .aria-label = ویرایش آواتار
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = یک چهرک انتخاب کنید
 edit-profile-page-no-name = این نمایه را نام‌گذاری کنید تا بعداً بتوانید آن را پیدا کنید. هر زمان که خواستید، می‌توانید نام آن را تغییر دهید.
 edit-profile-page-duplicate-name = این نام نمایه قبلاً استفاده شده است. نام جدیدی را امتحان کنید.
 edit-profile-page-profile-saved = ذخیره شد

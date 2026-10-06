@@ -161,6 +161,14 @@ appmenu-fxa-last-sync = آخرین همگام‌سازی: { $time }
 appmenu-fxa-sync-and-save-data2 = همگام‌سازی و ذخیرهٔ داده‌ها
 appmenu-fxa-signed-in-label = ورود
 # Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = داده‌هایتان را همه‌جا همگام کنید
+appmenu-fxa-sign-in-promo-link = ورود
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = رد کردن پیشنهاد ورود
+    .title = رد کردن
+# Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = برای همگام‌سازی وارد شوید
 appmenu-fxa-sign-in-promo-message = دسترسی به داده‌هایتان در همه جا

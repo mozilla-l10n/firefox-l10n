@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = یک پایگاه اینترنتی فریب�
 safeb-blocked-malware-page-title = بازدید از این سایت ممکن است به رایانه‌تان صدمه بزند
 safeb-blocked-unwanted-page-title = سایت پیش‌رو ممکن است شامل نرم‌افزارهای مخرب باشد
 safeb-blocked-harmful-page-title = این سایت ممکن است شامل بدافزار باشد
+safeb-blocked-addon-page-title = این سایت برای امنیت شما مسدود شد
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } این صفحه را مسدود کرده است زیرا ممکن بود شما رو فریب دهد و موظف به انجام کار یا نصب نرم‌افزاری کند که باعث آشکار شدن اطلاعات شخصی شما شامل کلمه عبور یا کارت‌های اعتباری شود.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } این صفحه را مسدود کرده است به این دلیل کرده این صفحه تلاش کرده است نرم افزار مخربی را نصب کند که ممکن است اطلاعات شخصی شما کامپیوتر را حذف کند یا به سرقت ببرد.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } این صفحه را مسدود کرده است زیرا این صفحه احتمالا در تلاش برای فریب دادن شما برای نصب یک برنامه مضر بر روی تجربه مرورکردن شما بوده است( برای مثال تغییر صفحه اولیه شما یا نمایش تبلیغات اضافه).
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } این صفحه را به این دلیل مسدود کرده که ممکن است سعی کند برنامه‌های خطرناکی نصب کند تا اطلاعات شما را بدزدد یا حذف کند (برای مثال، عکس‌ها، گذرواژه‌ها، پیام‌ها و کارت‌های اعتباری).
+safeb-blocked-addon-page-short-desc = { -brand-short-name } این صفحه را مسدود کرد، چون یکی از افزونه‌هایتان تلاش کرد آن را باز کند. این سایت ممکن است برای سرقت اطلاعاتتان، مثل گذرواژه‌ها یا شمارهٔ کارت اعتباری، استفاده شود.
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = مشاوره فراهم شده توسط <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
@@ -31,3 +33,13 @@ safeb-blocked-unwanted-page-learn-more = در مورد نرم‌افزارهای
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> به عنوان <a data-l10n-name='error_desc_link'>یک پایگاه با نرم‌افزارهای مخرب گزارش شده است</a>. شما می‌توانید <a data-l10n-name='ignore_warning_link'>این خطر را نادیده بگیرید</a> و به این پایگاه اینترنتی ناامن بروید.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> به عنوان <a data-l10n-name='error_desc_link'>یک پایگاه شامل نرم‌افزارهای مخرب گزارش شده است</a>.
 safeb-blocked-harmful-page-learn-more = در مورد راهکارهای { -brand-short-name } برای محافظت در برابر فیشینگ و بدافزار‌ها در <a data-l10n-name='firefox_support'>support.mozilla.org</a> بیشتر اطلاعات کسب کنید.
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>چرا این سایت مسدود شد؟</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> ممکن است با فعالیت‌های فریبنده و زیان‌بار مرتبط باشد.
+safeb-blocked-addon-page-error-desc3-override = <strong>چه کاری می‌توانید بکنید؟</strong>
+safeb-blocked-addon-page-error-desc4-override = برای جلوگیری از تکرار این اتفاق، می‌توانید <strong>{ $addonName }</strong> را از about:addons حذف یا غیرفعال کنید.
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>دربارهٔ محافظت { -brand-short-name } در برابر افزونه‌های زیان‌بار بیشتر بدانید</a>.
