@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
-# This file gets parsed into a JS dictionary of all known error message ids in
-# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
-# refactoring them in some way, the script will need updating.
-
 psmerr-ssl-disabled = قادر به برقراری اتصال ایمن نبود، زیرا قرارداد SSL غیرفعال شده است.
 psmerr-ssl2-disabled = قادر به برقراری اتصال امن نیست، زیرا این پایگاه از نسخه‌ای قدیمی و غیر امن از قرارداد SSL استفاده می‌کند.
 # This is a multi-line message.
@@ -331,6 +325,7 @@ mozilla-pkix-error-invalid-integer-encoding = سرور امضا را ارائه 
 mozilla-pkix-error-empty-issuer-name = این سرور گواهینامه‌ای را ارائه می‌کند که نام صادرکننده برجسته‌ آن خالی می‌ باشد.
 mozilla-pkix-error-additional-policy-constraint-failed = علاوه بر این محدودیت مقررات در هنگام ارزیابی این گواهینامه با خطا مواجه شد.
 mozilla-pkix-error-self-signed-cert = این گواهینامه مورد اعتماد نیست زیرا بدون امضا است.
+mozilla-pkix-error-issuer-no-longer-trusted = اعتماد به مرجع صدور گواهی، پیش از صدور این گواهی سلب شده بود.
 xp-java-remove-principal-error = قادر به حذف مجوز نیست
 xp-java-delete-privilege-error = قادر به حذف امتیاز نیست
 xp-java-cert-not-exists-error = گواهی موجود نیست

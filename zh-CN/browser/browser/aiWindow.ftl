@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = 网上搜索…
 
 smartbar-mention-typing-placeholder = 引用标签页或网站
 smartbar-mentions-list-no-results-label = 未找到结果
+smartbar-mentions-list-tab-groups-label = 近期群组
 smartbar-mentions-list-recent-tabs-label = 近期标签页
 
 ## Context mentions menu toggle button

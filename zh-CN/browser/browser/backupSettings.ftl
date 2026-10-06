@@ -177,6 +177,7 @@ change-backup-encryption-header = 更改备份密码
 
 password-rules-header = 密码要求
 password-rules-length-description = 至少 8 个字符
+password-rules-email-description2 = 不可与邮箱地址相同
 password-rules-email-description = 不可以与邮箱地址相同
 password-rules-disclaimer = 安全无小事，请勿复用密码。查看更多<a data-l10n-name="password-support-link">创建高强度密码的技巧</a>。
 password-validity-has-email = 不可以与邮箱地址相同

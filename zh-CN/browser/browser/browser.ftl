@@ -35,6 +35,29 @@ urlbar-identity-button2 =
             [1] 查看网站信息（已拦截 1 个跟踪器）
            *[other] 查看网站信息（已拦截 { $count } 个跟踪器）
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label = { $count } 个链接
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = 隔空投送、信息等…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = 信息、邮件等…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = 共享…
+    .accesskey = h
 urlbar-identity-button =
     .aria-label = 查看网站信息
 
@@ -100,6 +123,8 @@ urlbar-result-menu-tip-get-help2 = 获取帮助
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = 忽略此建议
     .accesskey = D
+urlbar-result-menu-remove-top-site = 移除此常用网站
+    .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = 管理 { -firefox-suggest-brand-name }
     .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -915,6 +940,12 @@ urlbar-view-context-menu-open-in-window2 = 新建窗口打开
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = 新建隐私窗口打开
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = 使用 Tab 键时跳过此菜单
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 
@@ -1267,6 +1298,10 @@ private-browsing-info-panel-description = 此功能可以让使用此设备的�
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = 由“{ $agentName }”提供数据泄露防护。点击以了解更多信息。
+content-analysis-panel-title2 = 数据泄露防护
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = 您的组织使用 <b>{ $agentName }</b> 管控敏感数据的共享方式。<a data-l10n-name="info">详细了解</a>
 content-analysis-panel-title = 数据保护
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

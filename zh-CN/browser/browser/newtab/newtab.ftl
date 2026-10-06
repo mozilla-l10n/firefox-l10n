@@ -994,6 +994,11 @@ newtab-wallpaper-celestial-river = 河流卫星图
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ 赞助
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = 打开天气菜单
+    .title = 打开天气菜单
 newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = 搜索位置
@@ -1272,6 +1277,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = 清单选项
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = 打开列表菜单
+    .title = 打开列表菜单
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + 创建新清单
@@ -1681,6 +1692,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = 这片空间，由您做主
 newtab-activation-window-message-values-focus-message = { -brand-product-name } 可让您以更具个性的方式开启网络上的新一天，按自己喜欢的方式来浏览。让 { -brand-product-name } 有您的个性。
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = 选择外观
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1761,6 +1777,17 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = 没有匹配的时区
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = 返回
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = 时钟选项
+    .title = 时钟选项
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = 打开时钟菜单
+    .title = 打开时钟菜单
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
