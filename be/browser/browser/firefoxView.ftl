@@ -83,6 +83,9 @@ firefoxview-overview-nav = Нядаўняе агляданне
     .title = Нядаўняе агляданне
 firefoxview-overview-header = Нядаўняе агляданне
     .title = Нядаўняе агляданне
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Карткі і гісторыя аглядання на розных прыладах
 
 ## History in this context refers to browser history
 

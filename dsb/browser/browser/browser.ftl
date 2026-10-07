@@ -1355,6 +1355,10 @@ private-browsing-info-panel-description = To pomaga, waše pśeglědowanje pśed
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Zawoboranje pśeśiwo zgubjenju datow (DLP) pśez { $agentName }. Klikniśo, aby wěcej informacijow dostał.
+content-analysis-panel-title2 = Šćit pśed zgubjenim datow
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Waša organizacija <b>{ $agentName }</b> wužywa, aby wóźiła, kak se sensibelne daty źěle. <a data-l10n-name="info">Dalšne informacije</a>
 content-analysis-panel-title = Šćit datow
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
