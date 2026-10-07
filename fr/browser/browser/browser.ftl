@@ -976,8 +976,8 @@ urlbar-view-context-menu-open-in-private-window2 = Ouvrir dans une nouvelle fen�
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
 # menu button that opens this menu.
-urlbar-view-context-menu-skip-menu-with-tab = Passer ce menu si la touche tabulation est utilisée
-    .accesskey = P
+urlbar-view-context-menu-skip-menu-with-tab = Ignorer ce menu avec la touche Tabulation
+    .accesskey = n
 
 ## Labels shown above groups of urlbar results
 
@@ -1334,7 +1334,7 @@ private-browsing-info-panel-description = La navigation privée permet de masque
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Protection contre la perte de données (DLP) par { $agentName }. Cliquer pour plus d’informations.
-content-analysis-panel-title2 = Prévention de la perte de données
+content-analysis-panel-title2 = Protection contre la perte de données
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled2 = Votre organisation utilise <b>{ $agentName }</b> pour contrôler la manière dont des données sensibles peuvent être partagées. <a data-l10n-name="info">En savoir plus</a>

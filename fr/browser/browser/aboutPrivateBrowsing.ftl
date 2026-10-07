@@ -86,7 +86,7 @@ about-private-browsing-nova-info-subheader2 = Nous effacerons toutes les recherc
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = L’essentiel sur les fenêtres de navigation privée
-about-private-browsing-spotlight-basics-subtitle = Les fenêtres privées permettent de garder votre navigation privée sur cet appareil. Ils ne vous rendent pas anonyme et n’effacent pas toutes vos données.
+about-private-browsing-spotlight-basics-subtitle = Les fenêtres de navigation privée empêchent les autres personnes qui utilisent cet appareil de voir votre activité. Elles ne vous rendent pas anonyme et n’effacent pas toutes vos données.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Ce qu’il faut savoir
