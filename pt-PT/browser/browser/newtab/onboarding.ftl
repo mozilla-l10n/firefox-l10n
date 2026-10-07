@@ -10,7 +10,7 @@
 
 ## Welcome page strings
 
-onboarding-welcome-header = Bem-vindo(a) ao { -brand-short-name }
+onboarding-welcome-header = Boas-vindas ao { -brand-short-name }
 onboarding-start-browsing-button-label = Começar a navegar
 onboarding-not-now-button-label = Agora não
 mr1-onboarding-get-started-primary-button-label = Começar

@@ -180,7 +180,7 @@ cookie-banner-blocker-onboarding-learn-more = Saber mais
 july-jam-headline = Estamos consigo
 july-jam-body = Todos os meses o { -brand-short-name } bloqueia uma média de mais de 3.000 rastreadores por utilizador, permitindo que possa ter um acesso rápido e seguro à melhor Internet.
 july-jam-set-default-primary = Abrir as minhas ligações com o { -brand-short-name }
-fox-doodle-pin-headline = Bem-vindo(a) de volta
+fox-doodle-pin-headline = Boas-vindas novamente
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Eis uma nota rápida para lembrar que pode manter o seu navegador indie favorito apenas a um clique de distância.
@@ -297,7 +297,7 @@ tail-fox-spotlight-secondary-button = Agora não
 ## Welcome Back Spotlight and Import
 
 welcome-back-spotlight-title = Regresse à privacidade intrínseca
-welcome-back-spotlight-subtitle = Bem-vindo(a) de volta ao único grande navegador apoiado por uma organização sem fins lucrativos. Nós tomamos medidas adicionais para proteger os seus dados, onde quer que vá.
+welcome-back-spotlight-subtitle = Boas-vindas de volta ao único grande navegador apoiado por uma organização sem fins lucrativos. Tomamos medidas adicionais para proteger os seus dados, onde quer que vá.
 welcome-back-embedded-import-title = Importe os seus dados e faça do { -brand-short-name } a sua casa
 
 ## Root Certificate Succession Infobar
@@ -510,7 +510,7 @@ lapsed-user-toast-dismiss-button = Dispensar
 ## Firefox has just been reinstalled over an existing profile.
 ## Both offer to reset the profile to a fresh state.
 
-refresh-unused-profile-infobar-message = Parece que não inicia o { -brand-short-name } há algum tempo. Pretende limpá-lo para uma nova experiência? E, já agora, seja bem-vindo(a) de volta!
+refresh-unused-profile-infobar-message = Parece que não inicia o { -brand-short-name } há algum tempo. Pretende limpá-lo para uma nova experiência? E já agora, boas-vindas novamente!
 refresh-reinstalled-profile-infobar-message = Parece que reinstalou o { -brand-short-name }. Pretende que o limpemos para uma nova experiência?
 refresh-profile-infobar-button = Restaurar o { -brand-short-name }…
     .accesskey = e
