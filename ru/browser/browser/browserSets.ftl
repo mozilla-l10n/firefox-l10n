@@ -52,8 +52,8 @@ downloads-shortcut =
 addons-shortcut-2 =
     .key =
         { PLATFORM() ->
-            [macos] У
-           *[other] А
+            [macos] E
+           *[other] F
         }
 addons-shortcut =
     .key = A
@@ -163,7 +163,7 @@ bidi-switch-direction-shortcut =
 private-browsing-shortcut =
     .key = P
 search-tabs-shortcut =
-    .key = Ф
+    .key = A
 
 ## The shortcuts below are for Mac specific
 ## global menu.
