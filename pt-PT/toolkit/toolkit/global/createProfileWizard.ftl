@@ -3,15 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 create-profile-window2 =
-    .title = Assistente de criação de perfil
     .style = min-width: 45em; min-height: 32em;
+    .title = Assistente de criação de perfil
 
 ## First wizard page
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
         [macos] Introdução
-       *[other] Bem-vindo(a) ao { create-profile-window2.title }
+       *[other] Boas-vindas ao { create-profile-window2.title }
     }
 profile-creation-explanation-1 = O { -brand-short-name } armazena informação acerca das suas definições e preferências no seu perfil pessoal.
 profile-creation-explanation-2 = Se está a partilhar esta cópia do { -brand-short-name } com outros utilizadores, pode utilizar perfis para manter a informação de cada um dos utilizadores separada. Para fazer isto, cada utilizador deve criar o seu próprio perfil.
