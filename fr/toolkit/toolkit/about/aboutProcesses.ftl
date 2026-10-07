@@ -38,9 +38,9 @@ about-processes-column-memory-resident = Mémoire
 about-processes-column-cpu-total = Processeur
 # Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
 about-processes-column-cpu-total-tab = Processeur
-    .title = % de la capacité totale du processeur pour l’ensemble des cœurs
+    .title = % de la capacité totale du processeur sur l’ensemble des cœurs
 # Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
-about-processes-column-memory-resident-tab = RAM
+about-processes-column-memory-resident-tab = Mémoire vive
 
 ## Process names
 ## Variables:

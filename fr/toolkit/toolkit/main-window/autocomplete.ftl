@@ -35,7 +35,7 @@ autocomplete-delete-address = Supprimer cette adresse
 # users know which entry the button deletes.
 # Variables:
 #   $entry (String) - The saved address the button would delete.
-autocomplete-delete-address-entry = Supprimer l'adresse { $entry }
+autocomplete-delete-address-entry = Supprimer l’adresse { $entry }
 autocomplete-edit-payment-method = Modifier ce moyen de paiement
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Supprimer ce moyen de paiement
@@ -43,7 +43,7 @@ autocomplete-delete-payment-method = Supprimer ce moyen de paiement
 # users know which entry the button deletes.
 # Variables:
 #   $entry (String) - The saved payment method the button would delete.
-autocomplete-delete-payment-method-entry = Supprimer le mode de paiement { $entry }
+autocomplete-delete-payment-method-entry = Supprimer le moyen de paiement { $entry }
 # Tooltip for the trash button on a form history entry.
 autocomplete-delete-entry = Supprimer
 # aria-label for the trash button on a form history entry.
@@ -60,7 +60,7 @@ autocomplete-more-options = Options supplémentaires
 # row so screen reader users know which entry the menu belongs to.
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
-autocomplete-more-options-for-entry = Plus d’options pour { $entry }
+autocomplete-more-options-for-entry = Options supplémentaires pour { $entry }
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
