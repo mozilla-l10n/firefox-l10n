@@ -281,7 +281,7 @@ menu-profiles-current =
     .label = { $profileName } (bieżący)
 menu-profiles-menu =
     .label = Profile
-    .accesskey = P
+    .accesskey = o
 
 ## Tools Menu
 
