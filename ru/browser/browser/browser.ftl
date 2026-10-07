@@ -1345,6 +1345,10 @@ private-browsing-info-panel-description = Это помогает скрыть �
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Предотвращение утечек данных (DLP) от { $agentName }. Нажмите для получения дополнительной информации.
+content-analysis-panel-title2 = Предотвращение потери данных
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Ваша организация использует <b>{ $agentName }</b> чтобы контролировать передачу важных данных. <a data-l10n-name="info">Подробнее</a>
 content-analysis-panel-title = Защита данных
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
