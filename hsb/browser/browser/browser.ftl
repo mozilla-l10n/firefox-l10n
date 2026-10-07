@@ -1355,6 +1355,10 @@ private-browsing-info-panel-description = To pomha, waše přehladowanje před d
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Profylaksa přećiwo zhubjenju datow (DLP) přez { $agentName }. Klikńće, zo byšće wjace informacijow dóstał.
+content-analysis-panel-title2 = Škit před stratu datow
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Waša organizacija <b>{ $agentName }</b> wužiwa, zo by wodźiła, kak so sensibelne daty dźěla. <a data-l10n-name="info">Dalše informacije</a>
 content-analysis-panel-title = Škit datow
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
