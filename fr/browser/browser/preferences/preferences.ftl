@@ -704,7 +704,7 @@ settings-keyboard-shortcuts-customkeys-link =
 # Link that takes the user to the Search category of settings, where the
 # address bar options live.
 settings-keyboard-shortcuts-addressbar-link =
-    .label = Personnaliser la barre d’adresse dans la recherche
+    .label = Personnaliser les paramètres de la barre d’adresse dans Recherche
 settings-media-group =
     .label = Multimédia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -932,7 +932,7 @@ search-separate-default-engine-dropdown =
 # "Navigation" here means moving around within the address bar and its results
 # list, not navigation to the address bar.
 addressbar-navigation-group =
-    .label = Navigation de la barre d’adresse
+    .label = Navigation dans la barre d’adresse
 # "Results menu" refers to the menu available on each row of the address bar
 # results list, which offers actions such as dismissing the result.
 addressbar-skip-result-menu-on-tab =

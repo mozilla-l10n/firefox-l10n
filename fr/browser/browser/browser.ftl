@@ -1337,7 +1337,7 @@ content-analysis-indicator-tooltip =
 content-analysis-panel-title2 = Protection contre la perte de données
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
-content-analysis-panel-text-styled2 = Votre organisation utilise <b>{ $agentName }</b> pour contrôler la manière dont des données sensibles peuvent être partagées. <a data-l10n-name="info">En savoir plus</a>
+content-analysis-panel-text-styled2 = Votre organisation utilise <b>{ $agentName }</b> pour encadrer le partage des données sensibles. <a data-l10n-name="info">En savoir plus</a>
 content-analysis-panel-title = Protection des données
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

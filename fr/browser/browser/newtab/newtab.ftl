@@ -349,8 +349,8 @@ newtab-stocks-error-not-available = Les données boursières ne sont pas disponi
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button2 =
-    .aria-label = Options de financement
-    .title = Options de financement
+    .aria-label = Options de Finance
+    .title = Options de Finance
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
