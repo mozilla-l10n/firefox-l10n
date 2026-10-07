@@ -167,7 +167,7 @@ about-processes-cpu-user-and-kernel-not-ready = (trwa mierzenie)
 about-processes-cpu-almost-idle = < 0,1%
     .title = Całkowity czas procesora: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # Special case: process or thread is currently idle.
-about-processes-cpu-fully-idle = bezczynny
+about-processes-cpu-fully-idle = nieaktywny
     .title = Całkowity czas procesora: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
 # A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
 # Variables:

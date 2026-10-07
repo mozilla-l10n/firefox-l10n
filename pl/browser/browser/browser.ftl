@@ -131,7 +131,7 @@ urlbar-result-menu-tip-get-help2 = Pomoc
 urlbar-result-menu-dismiss-suggestion2 = Odrzuć tę podpowiedź
     .accesskey = O
 urlbar-result-menu-remove-top-site = Usuń tę witrynę z listy popularnych
-    .accesskey = U
+    .accesskey = s
 urlbar-result-menu-manage-firefox-suggest2 = Zarządzaj { -firefox-suggest-brand-name(capitalization: "lower", case: "ins") }
     .accesskey = Z
 # Some urlbar suggestions show the user's approximate location as automatically
