@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Tillbaka
     .accesskey = b
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Gå tillbaka en sida ({ $shortcut })
 toolbar-button-back-3 =
     .label = Tillbaka
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Gå tillbaka en sida ({ $shortcut })
+    .aria-label = Tillbaka
 
 ## Forward
 
@@ -125,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Redigera bokmärke…
     .accesskey = R
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Bokmärk sida…
+    .tooltiptext = Bokmärk sida ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Redigera bokmärke…
+    .tooltiptext = Redigera bokmärke
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Redigera bokmärke…
+    .tooltiptext = Redigera bokmärke ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
