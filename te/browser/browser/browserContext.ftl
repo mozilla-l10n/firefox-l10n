@@ -40,10 +40,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = ముందుకు
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ఒక పేజీ ముందుకు వెళ్ళండి ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = ముందుకు
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ఒక పేజీ ముందుకు వెళ్ళండి ({ $shortcut })
+    .aria-label = ముందుకు
 
 ## Reload
 
@@ -54,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = మళ్ళీ లోడుచేయి
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = మళ్ళీ లోడుచేయి
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = మళ్ళీ లోడుచేయి
 
 ## Stop
 
@@ -66,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = ఆపివేయి
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = ఆపివేయి
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = ఆపివేయి
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = మళ్ళీ లోడుచేయి
 
 ## Account toolbar Button
 
