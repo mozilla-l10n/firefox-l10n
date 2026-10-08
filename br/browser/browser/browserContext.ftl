@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = War-lerc’h
     .accesskey = W
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Mont d’ar bajennad war-lerc’h ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = War-lerc’h
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Mont d’ar bajennad war-lerc’h ({ $shortcut })
+    .aria-label = War-lerc’h
 
 ## Reload
 
@@ -291,6 +302,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Implijout ar ger-tremen enrollet
     .accesskey = g
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Implijout aliazoù chomlec'h postel { -relay-brand-short-name }
     .accesskey = I
