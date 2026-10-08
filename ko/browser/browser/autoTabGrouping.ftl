@@ -14,3 +14,7 @@ smartwindow-organize-tabs-button =
 ## groups for the window's open tabs and creates the ones the user picks.
 
 smartwindow-group-tabs-panel-heading = 탭 구성
+# Shown while the on-device model clusters the open tabs into suggestions. It is
+# forming new groups from these tabs, not searching for tab groups that already
+# exist.
+smartwindow-group-tabs-loading = 유용한 탭 그룹 확인 중…
