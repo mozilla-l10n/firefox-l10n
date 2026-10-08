@@ -891,6 +891,12 @@ urlbar-view-context-menu-open-in-window2 = گۊشیڌن من نیمدری نۊ
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = گۊشیڌن من نیمدری سیخومی نۊ
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = مجال و کار گرؽڌن کیلیت Tab ز ای نومگه رڌ بۊ
+    .accesskey = م
 
 ## Labels shown above groups of urlbar results
 
@@ -1151,6 +1157,13 @@ menu-share-copy-links =
 ui-tour-info-panel-close =
     .tooltiptext = بستن
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow2 =
+    .label = هشتن نیمدری یل گۊشیڌنی وو آلشت تورا شخس سالس سی { $uriHost }
+    .accesskey = p
+
 ##
 
 picture-in-picture-hide-toggle =
@@ -1237,6 +1250,10 @@ private-browsing-info-panel-title = ایسا من ی نیمدری سیخومی �
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = پؽشگیری ز نشت داده یل (DLP) و دست { $agentName }. سی دووسمندیا قلوه کلیک کۊنین.
+content-analysis-panel-title2 = جلاوگری ز نشت داده
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = سازمووݩ ایسا <b>{ $agentName }</b> ن سی کونتورول بارت یک رسۊوی داده یل هساس و کار اگره. <a data-l10n-name="info">قلوه دووسته بۊین</a>
 content-analysis-panel-title = زفت وابیڌن داده یل
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
