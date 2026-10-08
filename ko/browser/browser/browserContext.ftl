@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = 뒤로
     .accesskey = B
+toolbar-button-back-3 =
+    .label = 뒤로
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -38,10 +40,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = 앞으로
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = 한 페이지 앞으로 가기 ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = 앞으로
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = 한 페이지 앞으로 가기 ({ $shortcut })
+    .aria-label = 앞으로
 
 ## Reload
 
@@ -52,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = 새로 고침
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = 새로 고침
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = 새로 고침
 
 ## Stop
 
@@ -64,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = 중지
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = 중지
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = 중지
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = 새로 고침
 
 ## Account toolbar Button
 
@@ -309,6 +332,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 페이지를 보내�
 main-context-menu-use-saved-password =
     .label = 저장된 비밀번호 사용
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } 이메일 가리기 사용
     .accesskey = E
