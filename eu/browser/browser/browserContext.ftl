@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Aurrera
     .accesskey = A
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Joan orri bat aurrera ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Aurrera
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Joan orri bat aurrera ({ $shortcut })
+    .aria-label = Aurrera
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Konektatu gailu bat o
 main-context-menu-use-saved-password =
     .label = Erabili gordetako pasahitza
     .accesskey = h
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Erabili { -relay-brand-short-name } posta-maskara
     .accesskey = E
