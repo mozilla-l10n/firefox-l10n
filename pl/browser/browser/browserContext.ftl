@@ -40,10 +40,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Do przodu
     .accesskey = D
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Przejdź do następnej strony ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Do przodu
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Przejdź do następnej strony ({ $shortcut })
+    .aria-label = Do przodu
 
 ## Reload
 
