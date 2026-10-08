@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = L
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Lesezeichen für Seite hinzufügen…
+    .tooltiptext = Lesezeichen für Seite hinzufügen ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Lesezeichen bearbeiten…
+    .tooltiptext = Lesezeichen bearbeiten
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Lesezeichen bearbeiten…
+    .tooltiptext = Lesezeichen bearbeiten ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Lesezeichen für Seite hinzufügen…
     .tooltiptext = Lesezeichen für Seite hinzufügen ({ $shortcut })
@@ -165,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Ziel speichern unter…
     .accesskey = Z
+main-context-menu-bookmark-page-2 =
+    .aria-label = Lesezeichen für Seite hinzufügen…
+    .tooltiptext = Lesezeichen für Seite hinzufügen
 
 ##
 
