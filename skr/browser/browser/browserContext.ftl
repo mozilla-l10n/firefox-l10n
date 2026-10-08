@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = پچھوں  تے
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = ہک ورقہ پچھو تے ونڄو ({ $shortcut })
 toolbar-button-back-3 =
     .label = پچھو تے
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = ہک ورقہ پچھو تے ونڄو ({ $shortcut })
+    .aria-label = پچھو تے
 
 ## Forward
 
@@ -40,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = اڳو تے
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ہک ورقہ اڳو تے ونڄو ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = اڳوں  تے
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ہک ورقہ اڳو تے ونڄو ({ $shortcut })
+    .aria-label = اڳوں  تے
 
 ## Reload
 
