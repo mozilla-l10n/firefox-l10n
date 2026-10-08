@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Undur
     .accesskey = U
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Undur satu halaman ({ $shortcut })
 toolbar-button-back-3 =
     .label = Undur
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Undur satu halaman ({ $shortcut })
+    .aria-label = Undur
 
 ## Forward
 
@@ -130,6 +139,14 @@ main-context-menu-edit-bookmark-mac =
 main-context-menu-bookmark-page-with-shortcut-2 =
     .aria-label = Tandakan Halaman...
     .tooltiptext = Tandakan halaman ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Edit Penanda Halaman...
+    .tooltiptext = Edit penanda halaman
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Edit Penanda Halaman...
+    .tooltiptext = Edit penanda halaman ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
