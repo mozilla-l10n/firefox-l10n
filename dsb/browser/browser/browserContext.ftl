@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Doprědka
     .accesskey = D
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Jaden bok doprědka ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Doprědka
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Jaden bok doprědka ({ $shortcut })
+    .aria-label = Doprědka
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Zwěžćo rěd, aby b
 main-context-menu-use-saved-password =
     .label = Skłaźone gronidło wužywaś
     .accesskey = r
+
+##
+
 main-context-menu-use-relay-mask =
     .label = E-mailowu masku { -relay-brand-short-name } wužywaś
     .accesskey = E
