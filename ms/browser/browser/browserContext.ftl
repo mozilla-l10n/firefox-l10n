@@ -40,10 +40,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Seterusnya
     .accesskey = S
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Maju satu halaman ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Seterusnya
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Maju satu halaman ({ $shortcut })
+    .aria-label = Seterusnya
 
 ## Reload
 
@@ -54,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Muat semula
     .accesskey = M
+toolbar-button-reload-2 =
+    .label = Muat semula
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Muat semula
 
 ## Stop
 
@@ -66,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Berhenti
     .accesskey = B
+toolbar-button-stop-2 =
+    .label = Berhenti
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Berhenti
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Muat semula
 
 ## Account toolbar Button
 
