@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Markahi Laman…
+    .tooltiptext = Markahi laman ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Ubah Markah…
+    .tooltiptext = Ubah Markah
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Ubah Markah…
+    .tooltiptext = Ubah Markah ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Markahi Laman…
     .tooltiptext = Markahi laman ({ $shortcut })
@@ -162,6 +175,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Simpan Tautan dengan Nama…
     .accesskey = T
+main-context-menu-bookmark-page-2 =
+    .aria-label = Markahi Laman
+    .tooltiptext = Markahi laman
 
 ##
 
