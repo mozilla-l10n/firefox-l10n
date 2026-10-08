@@ -71,6 +71,11 @@ autofill-card-security-code-label = CVC
 ##   $year (String): Two-digit year the card expires
 
 credit-card-doorhanger-details-name = { $name }
+credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV захаваны
+credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
+credit-card-doorhanger-details-name-cvv = { $name } | CVV захаваны
+credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV захаваны
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 
