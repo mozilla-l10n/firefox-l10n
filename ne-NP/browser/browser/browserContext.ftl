@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = पछाडि जाने
     .accesskey = B
+toolbar-button-back-3 =
+    .label = पछाडि जाने
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -52,8 +54,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = पुनः लोड गर्नुहोस्
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = पुनः लोड गर्नुहोस्
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = पुनः लोड गर्नुहोस्
 
 ## Stop
 
@@ -64,13 +70,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = रोक्नुहोस्
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = रोक्नुहोस्
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = रोक्नुहोस्
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = पुनः लोड गर्नुहोस्
 
 ## Account toolbar Button
 
@@ -274,6 +286,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = सुरक्षित पासवर्ड प्रयोग गर्नुहोस्
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } इमेल मास्क प्रयोग गर्नुहोस्
     .accesskey = E
