@@ -81,8 +81,12 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = أوقف
     .accesskey = ق
+toolbar-button-stop-2 =
+    .label = أوقف
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = أوقف
 
 ## Stop-Reload Button
 
