@@ -90,8 +90,12 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = توقف
     .accesskey = ت
+toolbar-button-stop-2 =
+    .label = توقف
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = توقف
 
 ## Stop-Reload Button
 
@@ -130,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = ویرایش نشانک…
     .accesskey = ن
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = نشانک‌گذاری صفحه…
+    .tooltiptext = نشانک‌گذاری صفحه ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = ویرایش نشانک…
+    .tooltiptext = ویرایش نشانک
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = ویرایش نشانک…
+    .tooltiptext = ویرایش نشانک ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
