@@ -40,10 +40,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Magpatuloy
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Pumunta sa susunod na pahina ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Magpatuloy
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Pumunta sa susunod na pahina ({ $shortcut })
+    .aria-label = Magpatuloy
 
 ## Reload
 
@@ -54,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Mag-reload
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Mag-reload
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Mag-reload
 
 ## Stop
 
@@ -66,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Itigil
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Itigil
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Itigil
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Mag-reload
 
 ## Account toolbar Button
 
