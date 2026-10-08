@@ -63,8 +63,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Tisamajïx chik
     .accesskey = s
+toolbar-button-reload-2 =
+    .label = Tisamajïx chik
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Tisamajïx chik
 
 ## Stop
 
@@ -75,13 +79,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Tiq'at
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Tiq'at
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Tiq'at
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Tisamajïx chik
 
 ## Account toolbar Button
 
@@ -113,6 +123,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Tinuk' Yaketal…
     .accesskey = t
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Yaketal Ruxaq…
+    .tooltiptext = Yaketal ruxaq ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Tinuk' Yaketal…
+    .tooltiptext = Tinuk' yaketal
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Tinuk' Yaketal…
+    .tooltiptext = Tinuk' yaketal ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -150,6 +173,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Tiyak Ximonel Achi'el…
     .accesskey = o
+main-context-menu-bookmark-page-2 =
+    .aria-label = Yaketal Ruxaq…
+    .tooltiptext = Yaketal ruxaq
 
 ##
 
