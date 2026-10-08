@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = İleri
     .accesskey = l
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Bir saife ileri bar ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = İleri
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Bir saife ileri bar ({ $shortcut })
+    .aria-label = İleri
 
 ## Reload
 
@@ -71,6 +82,9 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -178,6 +192,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Audionı E-poçtala…
     .accesskey = A
+
+##
+
 
 ##
 
