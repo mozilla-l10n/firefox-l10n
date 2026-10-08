@@ -71,6 +71,8 @@ pictureinpicture-playback-rate-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Azpitituluen ezarpenak
+pictureinpicture-subtitles-toggle =
+    .label = Azpitituluak
 pictureinpicture-subtitles-label = Azpitituluak
 # This string is never displayed on the window. Is intended to be announced by
 # a screen reader whenever a user opens the playback speed settings panel
@@ -90,6 +92,8 @@ pictureinpicture-playback-rate-value = { NUMBER($rate) }×
 # Variables:
 #   $rate (number) - The preset's playback rate, e.g. 1.5.
 pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) }×
+pictureinpicture-font-size-group =
+    .label = Letra-tamaina
 pictureinpicture-font-size-small-radio =
     .label = Txikia
 pictureinpicture-font-size-medium-radio =
