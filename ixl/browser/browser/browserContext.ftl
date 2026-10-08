@@ -38,19 +38,32 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Maja
     .accesskey = M
+toolbar-button-stop-2 =
+    .label = Maja
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }{ main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Maja
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
 
+## Account toolbar Button
+
+
 ## Save Page
 
 main-context-menu-page-save =
     .label = Jup u U'uje' Eche' uva'…
     .accesskey = U
+
+## Simple menu items
+
+
+##
+
 
 ## Media (video/audio) controls
 ##
@@ -74,6 +87,10 @@ main-context-menu-media-loop =
     .label = Lakapuli
     .accesskey = L
 
+## The access keys for "Show Controls" and "Hide Controls" are the same
+## because the two context-menu items are mutually exclusive.
+
+
 ## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
@@ -82,3 +99,9 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-image-copy =
     .label = eesa ivatz u  vatzib'ale'
     .accesskey = e
+
+##
+
+
+##
+
