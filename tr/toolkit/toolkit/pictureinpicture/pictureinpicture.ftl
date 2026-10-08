@@ -71,6 +71,8 @@ pictureinpicture-playback-rate-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Altyazı ayarları
+pictureinpicture-subtitles-toggle =
+    .label = Altyazı
 pictureinpicture-subtitles-label = Altyazı
 # This string is never displayed on the window. Is intended to be announced by
 # a screen reader whenever a user opens the playback speed settings panel
