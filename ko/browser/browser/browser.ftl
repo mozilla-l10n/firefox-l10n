@@ -1274,6 +1274,17 @@ restore-session-startup-suggestion-button = 사용법 보기
 
 filepicker-blocked-infobar = 조직에서 이 컴퓨터의 로컬 파일에 대한 액세스를 차단했습니다.
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut }는 이제 탭을 검색합니다
+urlbar-addons-shortcut-moved-description = 확장 기능 및 테마를 열려면 { $addonsShortcut }를 사용하세요.
+urlbar-addons-shortcut-moved-change-shortcuts = 바로 가기 관리
+urlbar-addons-shortcut-moved-dismiss = 확인
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = 여러분이 보다 나은 경험을 할 수 있도록 { -brand-short-name }는 { -vendor-short-name }에 자동으로 일부 데이터를 전송합니다.

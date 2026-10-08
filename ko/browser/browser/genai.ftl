@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = { -vendor-short-name }의 혁신 그룹에
 genai-prompts-summarize =
     .label = 요약
     .value = 정확하고 간결한 언어를 사용하여 선택 항목을 요약해 주세요. 요약에 헤더와 글머리 기호 목록을 사용하여 스캔할 수 있도록 하세요. 의미와 사실적 정확성을 유지하세요.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = { $url } 웹 페이지를 정확하고 간결하게 요약해 주세요. 한눈에 볼 수 있도록 제목과 글머리 기호를 사용해 주세요. 원문의 의미와 사실 관계는 그대로 유지해야 합니다.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = 간소화
@@ -223,6 +226,9 @@ link-preview-settings-key-points =
     .label = AI가 페이지의 시작 부분을 읽고 요점을 생성하도록 허용
 link-preview-settings-long-press =
     .label = 바로 가기: 링크를 길게 누르기
+highlight-to-search-settings-enable =
+    .description = 콘텐츠를 선택하면 유용한 작업을 빠르게 실행할 수 있습니다.
+    .label = 텍스트를 선택할 때 작업 메뉴 표시
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = { $provider }에게 물어보기

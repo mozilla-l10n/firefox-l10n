@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = 완료
 default-browser-guidance-notification-v2-title = { -brand-short-name }를 기본 브라우저로 설정 완료하기
 default-browser-guidance-notification-v2-body = 설정에서 { -brand-short-name }에 대해 "기본 브라우저로 설정"을 선택하세요.
 default-browser-guidance-notification-v2-title-only = { -brand-short-name }를 설정에서 기본 브라우저로 설정 완료하세요
+default-browser-guidance-notification-auto-trigger-title = { -brand-short-name }로 내 링크 열기
+default-browser-guidance-notification-auto-trigger-body = 설정에서 { -brand-short-name }를 기본 브라우저로 선택하세요.
