@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = მომდევნო
     .accesskey = მ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = მომდევნო გვერდი ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = მომდევნო
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = მომდევნო გვერდი ({ $shortcut })
+    .aria-label = მომდევნო
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = დააკავშ
 main-context-menu-use-saved-password =
     .label = შენახული პაროლის გამოყენება
     .accesskey = ო
+
+##
+
 main-context-menu-use-relay-mask =
     .label = გამოიყენეთ { -relay-brand-short-name } ელფოსტის შესანიღბად
     .accesskey = ე
