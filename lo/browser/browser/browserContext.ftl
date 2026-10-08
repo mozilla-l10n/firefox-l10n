@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = ໄປຂ້າງຫນ້າ
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ໄປຫນ້າຖັດໄປ ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = ໄປຂ້າງຫນ້າ
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ໄປຫນ້າຖັດໄປ ({ $shortcut })
+    .aria-label = ໄປຂ້າງຫນ້າ
 
 ## Reload
 
@@ -263,6 +274,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = ໃຊ້ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = ໃຊ້ { -relay-brand-short-name } Email Mask
     .accesskey = E
