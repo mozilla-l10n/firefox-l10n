@@ -13,7 +13,7 @@
 onboarding-welcome-header = به { -brand-short-name } خوش آمدید
 onboarding-start-browsing-button-label = شروع وب‌گردی
 onboarding-not-now-button-label = اکنون نه
-mr1-onboarding-get-started-primary-button-label = شروع کنید
+mr1-onboarding-get-started-primary-button-label = آغاز کنید
 
 ## Custom Return To AMO onboarding strings
 
@@ -614,3 +614,8 @@ onboarding-theme-picker-button-label = ذخیره و ادامه
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = نکته‌های برجستهٔ قابلیت‌ها
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-primary-button-label = آغاز وب‌گردی
+welcome-back-onboarding-pill-label-pdf = ابزارهای PDF

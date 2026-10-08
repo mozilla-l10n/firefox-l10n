@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = انجام شد
 default-browser-guidance-notification-v2-title = تکمیل انتخاب { -brand-short-name } به‌عنوان مرورگر پیش‌فرض
 default-browser-guidance-notification-v2-body = در تنظیمات، گزینهٔ «تنظیم به عنوان پیش‌فرض (Set default)» را برای { -brand-short-name } انتخاب کنید.
 default-browser-guidance-notification-v2-title-only = انتخاب { -brand-short-name } به‌عنوان مرورگر پیش‌فرض را در تنظیمات تکمیل کنید
+default-browser-guidance-notification-auto-trigger-title = پیوندهای خود را با { -brand-short-name } باز کنید
+default-browser-guidance-notification-auto-trigger-body = در تنظیمات، { -brand-short-name } را به عنوان مرورگر پیش‌گزیده خود انتخاب کنید.
