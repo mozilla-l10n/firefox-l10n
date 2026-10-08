@@ -178,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Պահել հղումը որպես…
     .accesskey = մ
+main-context-menu-bookmark-page-2 =
+    .aria-label = Էջանշել...
+    .tooltiptext = Էջանշել
 
 ##
 
