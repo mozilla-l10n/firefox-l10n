@@ -65,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Reîncarcă
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Reîncarcă
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Reîncarcă
 
 ## Stop
 
@@ -77,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Oprește
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Oprește
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Oprește
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Reîncarcă
 
 ## Account toolbar Button
 
