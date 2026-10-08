@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = 返回
     .accesskey = B
+toolbar-button-back-3 =
+    .label = 返回
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -104,6 +106,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = 將頁面加入書籤…
+    .tooltiptext = 將頁面加入書籤（{ $shortcut }）
+main-context-menu-edit-bookmark-2 =
+    .aria-label = 編輯書籤…
+    .tooltiptext = 編輯書籤
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = 編輯書籤…
+    .tooltiptext = 編輯書籤（{ $shortcut }）
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = 將頁面加入書籤…
     .tooltiptext = 將頁面加入書籤（{ $shortcut }）
@@ -142,6 +157,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = 鏈結另存新檔…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = 將頁面加入書籤…
+    .tooltiptext = 將頁面加入書籤
 
 ##
 
@@ -309,6 +327,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 連結裝置即可傳
 main-context-menu-use-saved-password =
     .label = 使用已儲存的密碼
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = 使用 { -relay-brand-short-name } 轉寄信箱
     .accesskey = E
