@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = ಹಿಂದೆ
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು ({ $shortcut })
 toolbar-button-back-3 =
     .label = ಹಿಂದೆ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = ಒಂದು ಪುಟ ಹಿಂದಕ್ಕೆ ಹೋಗು ({ $shortcut })
+    .aria-label = ಹಿಂದೆ
 
 ## Forward
 
