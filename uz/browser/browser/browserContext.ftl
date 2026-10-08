@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Orqaga
     .accesskey = B
+toolbar-button-back-3 =
+    .label = Orqaga
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -52,8 +54,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Qayta yuklash
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Qayta yuklash
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Qayta yuklash
 
 ## Stop
 
@@ -64,13 +70,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = To‘xtatish
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = To‘xtatish
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = To‘xtatish
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Qayta yuklash
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -202,6 +217,9 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Qurilmaga joʻnatish
     .accesskey = Q
+
+##
+
 
 ##
 
