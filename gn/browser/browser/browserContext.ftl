@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Tapykue
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Kuatiarogue mboyveguápe jeho ({ $shortcut })
 toolbar-button-back-3 =
     .label = Tapykue
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Kuatiarogue mboyveguápe jeho ({ $shortcut })
+    .aria-label = Tapykue
 
 ## Forward
 
@@ -125,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Embosako’i techaukaha…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Embojuaju kuatiarogue techaukaháre…
+    .tooltiptext = Embojuaju kuatiarogue techaukaháre ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Embosako’i Techaukaha…
+    .tooltiptext = Embosako’i techaukaha
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Embosako’i Techaukaha…
+    .tooltiptext = Embosako’i techaukaha ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
