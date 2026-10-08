@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Eheka ñandutípe…
 
 smartbar-mention-typing-placeholder = Embohéra tendayke térã tenda
 smartbar-mentions-list-no-results-label = Ndojejuhúi mba’evete
+smartbar-mentions-list-tab-groups-label = Aty ramovegua
 smartbar-mentions-list-recent-tabs-label = Tendayke ramovéva
 
 ## Context mentions menu toggle button
