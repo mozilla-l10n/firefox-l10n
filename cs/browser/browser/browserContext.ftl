@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Vpřed
     .accesskey = V
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Přejde na následující stránku ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Vpřed
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Přejde na následující stránku ({ $shortcut })
+    .aria-label = Vpřed
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Pro odeslání strán
 main-context-menu-use-saved-password =
     .label = Použít uložené heslo
     .accesskey = u
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Použít e-mailovou masku { -relay-brand-short-name }
     .accesskey = e
