@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Geri
     .accesskey = G
+toolbar-button-back-3 =
+    .label = Geri
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -63,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Tazele
     .accesskey = z
+toolbar-button-reload-2 =
+    .label = Tazele
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Tazele
 
 ## Stop
 
@@ -75,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Durdur
     .accesskey = D
+toolbar-button-stop-2 =
+    .label = Durdur
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Durdur
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Tazele
 
 ## Account toolbar Button
 
@@ -113,6 +125,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Yer imini düzenle…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Yer imlerine ekle…
+    .tooltiptext = Yer imlerine ekle ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Yer imini düzenle…
+    .tooltiptext = Yer imini düzenle
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Yer imini düzenle…
+    .tooltiptext = Yer imini düzenle ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -153,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Bağlantıyı farklı kaydet…
     .accesskey = f
+main-context-menu-bookmark-page-2 =
+    .aria-label = Yer imlerine ekle…
+    .tooltiptext = Yer imlerine ekle
 
 ##
 
