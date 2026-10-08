@@ -435,6 +435,7 @@ nova-early-access-infobar-primary-button = Հասկացա
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-session-restore = Վերաբացե՞լ ձեր սեսիան, երբ { -brand-short-name }-ը վերագործարկվի։
 launch-options-spotlight-checkbox-launch-on-login = Բացել { -brand-short-name }-ը մեկնարկի ժամանակ
 launch-options-spotlight-checkbox-pin-to-taskbar = Ամրացրեք ձեր առաջադրանքների վահանակում
 # Shown on the browser-close prompt only
@@ -445,6 +446,20 @@ launch-options-spotlight-checkbox-restore-previous = Վերաբացել նախո
 launch-options-spotlight-primary-button-close = Բացել և փակել { -brand-short-name }-ը
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = Պահել և շարունակել
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+lapsed-user-toast-whats-new-button = Ինչն է նոր
+lapsed-user-toast-dismiss-button = Բաց թողնել
 
 ## Refresh Firefox infobar
 ##

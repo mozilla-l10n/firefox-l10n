@@ -160,7 +160,14 @@ appmenu-fxa-last-sync = Վերջին համաժամացումը { $time }
     .label = Վերջին համաժամացումը { $time }
 appmenu-fxa-sync-and-save-data2 = Համաժամեցնել և պահել տվյալները
 appmenu-fxa-signed-in-label = Մուտք գործել
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Համաժամեցրեք ձեր տվյալները ամենուրեք
 appmenu-fxa-sign-in-promo-link = Մուտք գործել
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Մուտք գործելու ակցիան փակել
+    .title = Բաց թողնել
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Մուտք գործել համաժամեցում

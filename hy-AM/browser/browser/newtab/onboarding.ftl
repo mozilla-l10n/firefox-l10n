@@ -57,6 +57,15 @@ mr1-onboarding-theme-label-dark = Մուգ
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 onboarding-theme-primary-button-label = Պատրաստ է
 
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Դադարեցնել շարժումացումը
+onboarding-animation-play-button =
+    .aria-label = Նվագարկել շարժումացում
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
@@ -378,6 +387,8 @@ onboarding-checklist-pin = Ամրացրեք { -brand-short-name }-ը խնդրա�
 onboarding-checklist-import = Ներմուծել նախորդ դիտարկիչից
 onboarding-checklist-extension = Հավելել ընդլայնում
 onboarding-checklist-sign-up = Գրանցվեք կամ մուտք գործեք ձեր հաշիվ
+onboarding-checklist-minimize =
+    .label = Նվազեցնել
 onboarding-checklist-remove-2 = Հեռացնել ստուգաթերթիկը
 
 ## Tab Groups feature onboarding strings

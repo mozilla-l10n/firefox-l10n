@@ -89,12 +89,22 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Խաչբառ
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Ֆինանսներ
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Բաժնետոմսեր
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Օրվա նկարը
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Որոնում
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Հորոսկոպներ
 # Recent searches is a widget on New Tab that shows the user's recent searches.
 home-prefs-recent-searches-header =
     .label = Վերջին որոնումները
@@ -161,6 +171,17 @@ home-prefs-mission-message-learn-more-link-srd = Իմացեք, թե ինչպես
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Իմանալ ավելին
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Գաղտնիության տարբերակներ
+    .title = Գաղտնիության տարբերակներ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Բացել գաղտնիության ցանկը
+    .title = Բացել գաղտնիության ցանկը
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -194,6 +215,8 @@ newtab-privacy-across-sites =
 
 ## Privacy widget — empty state
 
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name }-ը ավտոմատ կերպով արգելափակում է հետևորդներին՝ ձեր գործունեության մեծ մասը գաղտնի պահելով։
 # "A running tally" is an informal way to say a total that keeps updating as it goes.
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
@@ -203,6 +226,7 @@ newtab-privacy-empty-state-tally = Տեսեք ընթացիկ հաշվարկը ա
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
 newtab-privacy-etp-off-faster-browsing = Ավելի արագ զննարկում։ Ավելի քիչ հետևորդներ։
+newtab-privacy-etp-off-turn-on-tracking = Միացրեք հետևման պաշտպանությունը կարգավորումներում՝ արգելափակումը սկսելու համար։
 
 ## Privacy widget — informational messages
 ##
@@ -257,6 +281,7 @@ newtab-privacy-message-promo-private-window-1 = Փորձեք անձնական պ
 newtab-privacy-message-promo-private-window-1-cta = Բացել գաղտնի պատուհան
 newtab-privacy-message-promo-relay-1 = Պահպանեք ձեր իրական էլ. փոստի հասցեն այն մարդկանց համար, ում վստահում եք. օգտագործեք էլ. փոստի դիմակ գրանցումների համար։
 newtab-privacy-message-promo-relay-1-cta = Գնեք դիմակներ
+newtab-privacy-message-promo-relay-2 = Պաշտպանեք ձեր էլ.փոստի արկղը սպամից՝ անվճար էլ.փոստի քողարկման միջոցով:
 newtab-privacy-message-promo-relay-2-cta = Ստանալ դիմակներ
 newtab-privacy-message-promo-relay-3 = Ստացեք 50 անվճար էլփոստի դիմակներ՝ ձեր իրական էլփոստը գաղտնի պահելու համար։
 newtab-privacy-message-promo-relay-3-cta = Ստանալ դիմակներ
@@ -289,12 +314,40 @@ newtab-privacy-message-first-protection-cta = Դիտել պաշտպանությ�
 newtab-stocks-menu-learn-more = Իմանալ ավելին
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Բաժնետոմսերի տվյալները հասանելի չեն։
+# "Finance options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-stocks-widget-menu-button2 =
+    .aria-label = Ֆինանսավորման տարբերակներ
+    .title = Ֆինանսավորման տարբերակներ
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Բաժնետոմսերի վիջեթի ընտրանքներ
     .title = Բաժնետոմսերի վիջեթի ընտրանքներ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button =
+    .aria-label = Բացել բաժնետոմսերի ցանկը
+    .title = Բացել բաժնետոմսերի ցանկը
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .aria-label = Որոնել անունով կամ խորհրդանիշով
+    .label = Որոնում
+    .title = Որոնել անունով կամ խորհրդանիշով
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Սկսեք հետևել ձեզ համար կարևոր բաժնետոմսերին
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .aria-label = Որոնել անունով կամ խորհրդանիշով
+    .label = Որոնում
+    .title = Որոնել անունով կամ խորհրդանիշով
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Բաժնետոմսեր
@@ -309,12 +362,68 @@ newtab-stocks-list-watchlist = Դիտացանկ
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Որոնել անունով կամ խորհրդանիշով
 
+## Strings for the Finance widget
+
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Ֆինանսներ
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, վերև { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, իջեցում { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, անփոփոխ, { $change }, { $price }
+
+## Finance widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Ավելացնել { $name }-ը դիտացանկում
+    .title = Ավելացնել { $name }-ը դիտացանկում
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Հեռացնել { $name }-ը դիտացանկից
+    .title = Հեռացնել { $name }-ը դիտացանկից
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name }-ը ձեր դիտացանկում է
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = Ավելացնել { $name }-ը դիտացանկում
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = Հեռացնել { $name }-ը դիտացանկից
+
 ## Finance widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Որոնել անունով կամ խորհրդանիշով
+    .placeholder = Որոնել անունով կամ խորհրդանիշով
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Որոնման արդյունքներ
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Փնտրեք խորհրդանիշներ կամ ընկերություններ՝ ձեր դիտացանկին ավելացնելու համար
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -329,6 +438,14 @@ newtab-stocks-search-no-results = «{ $query }»-ի համար արդյունք�
 newtab-stocks-search-loading = Բեռնում...
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = Այս պահին որոնումը հնարավոր չէ։ Փորձեք կրկին ավելի ուշ։
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Կարող եք ավելացնել մինչև { $limit } բաժնետոմս։ Հեռացրեք մեկը՝ մյուսը ավելացնելու համար։
+       *[other] Կարող եք ավելացնել մինչև { $limit } բաժնետոմս։ Հեռացրեք մեկը՝ մյուսը ավելացնելու համար։
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -355,6 +472,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Օրվա նկարի տարբերակներ
     .title = Օրվա նկարի տարբերակներ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Բացել օրվա նկարի ընտրացանկը
+    .title = Բացել օրվա նկարի ընտրացանկը
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -409,6 +531,11 @@ newtab-search-widget-title = Որոնում
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Որոնման տարբերակներ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Բացել որոնման ցանկը
+    .title = Բացել որոնման ցանկը
 
 ## Recent searches widget — empty states
 
@@ -416,6 +543,16 @@ newtab-search-widget-menu-button =
 newtab-recent-searches-empty-recent = Վերջին որոնումները կցուցադրվեն այստեղ, որպեսզի դուք կարողանաք դրանք կրկին վերցնել ցանկացած պահի։
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Թրենդային որոնումները ներկայումս հասանելի չեն։
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Հորոսկոպներ
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Հորոսկոպի տարբերակներ
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Իմանալ ավելին
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -1123,6 +1260,8 @@ newtab-report-cancel = Չեղարկել
 newtab-report-submit = Ուղարկել
 newtab-toast-thanks-for-reporting =
     .message = Շնորհակալություն հայտնելու համար:
+newtab-toast-widgets-hidden =
+    .message = Ընտրեք մատիտի պատկերակը՝ վիջեթները ցանկացած պահի հետ ավելացնելու համար։
 # Variables:
 #   $topic (string) - Topic that the user has followed
 newtab-section-toast-follow =
@@ -1131,6 +1270,10 @@ newtab-section-toast-follow =
 #   $topic (string) - Topic that the user has unfollowed
 newtab-section-toast-unfollow =
     .message = Դուք այլևս չեք հետևում { $topic }-ին։
+# Variables:
+#   $topic (string) - Topic that the user has blocked
+newtab-section-toast-block =
+    .message = Դուք այլևս չեք տեսնի { $topic }-ի մասին պատմություններ։
 
 ## Strings for task / to-do list productivity widget
 
@@ -1177,6 +1320,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Դիտել ընտրանքները
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Բացել ցուցակների ցանկը
+    .title = Բացել ցուցակների ցանկը
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Ստեղծել նոր ցուցակ
@@ -1264,6 +1413,11 @@ newtab-widget-timer-menu-notifications-on = Միացնել ծանուցումն�
 newtab-widget-timer-menu-learn-more = Իմանալ ավելին
 newtab-widget-timer-menu-button =
     .aria-label = Ժամաչափի ընտրանքներ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Բացել ժամանակաչափի ընտրացանկը
+    .title = Բացել ժամանակաչափի ընտրացանկը
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Առաջատար վերնագրեր
 newtab-daily-briefing-card-menu-dismiss = Բաց թողնել
@@ -1289,6 +1443,14 @@ newtab-promo-card-dismiss-button =
     .aria-label = Բաց թողնել
     .title = Բաց թողնել
 
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Բացել խաչբառի ցանկը
+    .title = Բացել խաչբառի ցանկը
+
 ## Strings introduced by the Nova redesign of the Timer widget
 
 # Variables:
@@ -1301,6 +1463,20 @@ newtab-widget-timer-start-aria =
         }
 newtab-widget-timer-pause-aria =
     .aria-label = Ժամանակաչափի դադարեցում
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } րոպե
+           *[other] { $minutes } րոպե
+        }
+newtab-widget-timer-decrease-min =
+    .title = Նվազեցնել 1 րոպեով
+newtab-widget-timer-increase-min =
+    .title = Ավելացնել 1 րոպեով
+newtab-widget-timer-mode-group =
+    .aria-label = Ժամաչափի ռեժիմ
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Կենտրոնացում
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -1351,10 +1527,19 @@ newtab-sports-widget-back-button =
     .aria-label = Նախորդը
 newtab-sports-widget-done-button =
     .label = Պատրաստ է
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (հեռացված)
 newtab-sports-widget-view-all =
     .label = Դիտել բոլորը
 newtab-sports-widget-show-less =
     .label = Ցուցադրել ավելի քիչ
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Միայն հետևված թիմերը, որոնց հետևում եք։
+# Status shown when more matches are being fetched.
+newtab-sports-widget-loading-more = Ձևանմուշների բեռնում...
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Դիտել
@@ -1507,10 +1692,25 @@ newtab-sports-widget-team-tbd = Թիմը կորոշվի
 ## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-wallpapers-title = Սկսե՛ք Աշխարհի առաջնությունը նոր պաստառներով
+newtab-sports-widget-message-wallpapers-body = Ավելացրեք խաղային օրվա էներգիան ձեր զննարկիչին՝ մրցաշարի համար։
+newtab-sports-widget-message-wallpapers-cta = Ընտրեք պաստառ
+newtab-sports-widget-message-wallpapers-semifinals-title = Ստացեք կիսաեզրափակչի նոր պաստառ
+newtab-sports-widget-message-wallpapers-semifinals-body = Պատրաստվեք Աշխարհի գավաթի ամենակարևոր խաղերի համար։
 newtab-sports-widget-message-add-widgets-cta =
     .label = Ավելացնել վիջեթներ
+newtab-sports-widget-message-day-in-play-title = Ձեր օրը դարձրեք հետաքրքիր { -brand-product-name } վիջեթների միջոցով
+newtab-sports-widget-message-day-in-play-body = Հետևեք Աշխարհի գավաթին, մնացեք նպատակասլաց, հետևեք ժամանակին ամբողջ աշխարհում և այլն։
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Ուսումնասիրեք վիջեթները
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+newtab-sports-widget-message-survey-title = Օգնեք մեզ վիջեթները ավելի լավը դարձնել
+newtab-sports-widget-message-survey-body = Աշխարհի գավաթն ավարտվեց։ Կիսվեք ձեր կարծիքով։
+newtab-sports-widget-message-survey-widget-title = Ինչպիսի՞ն էր Աշխարհի գավաթի վիջեթը։
+newtab-sports-widget-message-survey-widget-body = Կիսվեք ձեր կարծիքով՝ ապագա վիջեթները բարելավելու համար։ Այնուհետև փորձեք ձեր շարքի նորը։
+newtab-sports-widget-message-survey-cta =
+    .label = Մասնակցեք հարցմանը
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1528,6 +1728,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Այս տարածքը խաղում է ձեր կանոններով
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = Ընտրեք ձեր տեսքը
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1537,6 +1742,17 @@ newtab-clock-widget-menu-edit = Ժամացույցների խմբագրում
 newtab-clock-widget-menu-switch-to-12h = Անցնել 12-ժամյա ձևաչափի
 newtab-clock-widget-menu-switch-to-24h = Անցնել 24-ժամյա ձևաչափի
 newtab-clock-widget-label-your-clocks = Ձեր ժամացույցները
+newtab-clock-widget-search-location-input =
+    .aria-label = Որոնել քաղաք
+    .label = Տեղադրություն
+    .placeholder = Որոնել քաղաք
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .aria-label = Մականուն (ըստ ցանկության)
+    .label = Մականուն (ըստ ցանկության)
+    .placeholder = Ավելացրեք մականուն
 newtab-clock-widget-button-add-clock = Ավելացնել
 newtab-clock-widget-button-cancel = Չեղարկել
 newtab-clock-widget-button-back =
@@ -1565,6 +1781,34 @@ newtab-clock-widget-edit-clock-form =
 # It means "results of the search", not "search within the results".
 newtab-clock-widget-search-results =
     .aria-label = Որոնման արդյունքներ
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .aria-label = Քաղաքի անվանումը
+    .label = Քաղաքի անվանումը
+    .placeholder = Անվանեք այս ժամացույցը
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .aria-label = Ժամային գոտի
+    .label = Ժամային գոտի
+    .placeholder = Որոնել ըստ քաղաքի, ժամային գոտու կամ UTC շեղման
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Ժամային գոտու արդյունքներ
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Համընկնող ընդլայնումներ չկան
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Հետ
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = Ժամացույցի ընտրանքներ
+    .title = Ժամացույցի ընտրանքներ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Բացել ժամացույցի ընտրացանկը
+    .title = Բացել ժամացույցի ընտրացանկը
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

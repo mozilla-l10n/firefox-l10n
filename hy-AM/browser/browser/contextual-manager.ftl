@@ -279,6 +279,7 @@ contextual-manager-hide-password-button =
 # The message displayed when the search text does not match any of the user's saved logins.
 contextual-manager-passwords-no-passwords-found-header =
     .heading = Գաղտնաբառեր չեն գտնվել
+contextual-manager-passwords-no-passwords-found-message-2 = Փորձեք այլ տերմին և կրկին որոնեք։
 
 ## When the user has no saved passwords, we display the following messages to inform the user they can save
 ## their passwords safely and securely in Firefox:

@@ -79,6 +79,11 @@ menu-file-close-tab =
            *[other] Փակել { $tabCount } ներդիրները
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Փակել
+    .accesskey = Փ
 menu-file-close-window =
     .label = Փակել պատուհանը
     .accesskey = տ
@@ -91,6 +96,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Համօգտագործել
     .accesskey = h
+menu-file-share-qrcode3 =
+    .label = ՍտեղծեԼ QR կոդ
+    .accesskey = Ս
 menu-file-share-qrcode =
     .label = QR կոդի ստեղծում…
     .accesskey = Q

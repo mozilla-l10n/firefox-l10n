@@ -177,6 +177,7 @@ change-backup-encryption-header = Փոխել պահուստավորման գաղ
 
 password-rules-header = Գաղտնաբառի պահանջներ
 password-rules-length-description = Առնվազն 8 նիշ
+password-rules-email-description2 = Ձեր էլեկտրոնային հասցեն չէ
 password-rules-email-description = Ձեր էլեկտրոնային հասցեն չէ
 password-rules-disclaimer = Անվտանգ մնացեք՝ մի՛ օգտագործեք գաղտնաբառերը կրկին։ Տեսեք ավելի շատ խորհուրդներ <a data-l10n-name="password-support-link">ուժեղ գաղտնաբառեր ստեղծելու</a> վերաբերյալ։
 password-validity-has-email = Չի կարող լինել էլ․ փոստի հասցե

@@ -79,6 +79,7 @@ smartbar-placeholder-hint-4 = Որոնել համացանցում…
 
 smartbar-mention-typing-placeholder = Նշեք ներդիրը կամ կայքը
 smartbar-mentions-list-no-results-label = Արդյունք չկա
+smartbar-mentions-list-tab-groups-label = Վերջին խմբերը
 smartbar-mentions-list-recent-tabs-label = Վերջին ներդիրները
 
 ## Context mentions menu toggle button

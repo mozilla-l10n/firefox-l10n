@@ -252,3 +252,8 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Էջանիշերի և պատմության համակարգը չի գործի, քանի որ { -brand-short-name }-ի ֆայլերից մեկն օգտագործվում է այլ ծրագրի կողմից: Սրա պատճառը կարող է լինել անվտանգության ինչ-որ ծրագիր:
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = Նոր
+    .label = Համօգտագործման թղթապանակը

@@ -81,3 +81,4 @@ about-private-browsing-nova-info-subheader2 = Մենք կջնջենք բոլոր
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Գաղտնի պատուհանի հիմունքներ
+about-private-browsing-spotlight-basics-learn-more = Իմանալ ավելին
