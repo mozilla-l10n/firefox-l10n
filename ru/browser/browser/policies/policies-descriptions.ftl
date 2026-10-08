@@ -59,6 +59,7 @@ policy-DisableForgetButton = Закрывает доступ к кнопке «�
 policy-DisableFormHistory = Отключает запоминание истории поиска и данных форм.
 policy-DisableLaunchOnLogin = Запрещает автоматический запуск { -brand-short-name } при входе пользователя в систему.
 policy-DisablePrimaryPasswordCreation = Не позволяет устанавливать основной пароль, если установлено значение true.
+policy-DisablePasswordReveal2 = Не позволяет просматривать пароли в сохранённых логинах или полях для паролей.
 policy-DisablePasswordReveal = Не позволяет просматривать пароли у сохранённых логинов.
 policy-DisablePrivateBrowsing = Отключает приватный режим.
 policy-DisableProfileImport = Отключает команду меню для импорта данных из другого браузера.

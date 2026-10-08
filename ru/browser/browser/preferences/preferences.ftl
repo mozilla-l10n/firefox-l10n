@@ -1144,6 +1144,10 @@ prefs-syncing-off = Синхронизация: ОТКЛЮЧЕНА
 prefs-syncing-off-2 =
     .description = Включите синхронизацию, чтобы получить доступ к вашим закладкам, паролям, истории и пр. на любом устройстве.
     .label = Синхронизация ОТКЛЮЧЕНА
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Включите синхронизацию, чтобы получить свои закладки, пароли, историю и многое другое на этом устройстве.
+    .label = Синхронизация ОТКЛЮЧЕНА
 prefs-sync-turn-on-syncing =
     .label = Включить синхронизацию…
     .accesskey = ю
@@ -1167,6 +1171,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Вы синхронизируете эти элементы на всех подключённых устройствах:
 sync-syncing-across-devices-heading-2 = Данные между устройствами синхронизированы
+sync-syncing-across-devices-heading-3 = Синхронизация данных на этом устройстве
 sync-syncing-across-devices-empty-state2 =
     .description = Вы ничего не синхронизируете... пока. Запустите синхронизацию, чтобы получить все ваши данные на всех ваших устройствах.
     .label = Управление синхронизированными данными
@@ -1229,6 +1234,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = В
     .style = min-width: 36em;
     .title = Управляйте синхронизируемыми данными на всех подключённых устройствах
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Сохранить
+    .buttonlabelextra2 = Отсоединить…
+    .buttonaccesskeyaccept = Ы
+    .buttonaccesskeyextra2 = В
+    .style = min-width: 36em;
+    .title = Управляйте тем, что синхронизируется на этом устройстве
 
 ## The device name controls.
 

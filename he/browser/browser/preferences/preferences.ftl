@@ -1140,6 +1140,10 @@ prefs-syncing-off = סנכרון: כבוי
 prefs-syncing-off-2 =
     .description = ניתן להפעיל את הסנכרון כדי לקבל את הסימניות, הססמאות, ההיסטוריה שלך ועוד בכל מכשיר.
     .label = הסנכרון כבוי
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = יש להפעיל את הסנכרון כדי לקבל את הסימניות, הססמאות, ההיסטוריה ועוד במכשיר זה.
+    .label = הסנכרון כבוי
 prefs-sync-turn-on-syncing =
     .label = הפעלת סנכרון…
     .accesskey = ס
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = הפריטים הבאים מסונכרנים על פני כל המכשירים המחוברים שלך:
 sync-syncing-across-devices-heading-2 = נתונים המסונכרנים בין מכשירים
+sync-syncing-across-devices-heading-3 = נתונים המסונכרנים במכשיר זה
 sync-syncing-across-devices-empty-state2 =
     .description = שום דבר לא מסונכרן… עדיין. ניתן להתחיל לסנכרן כדי לקבל את כל הנתונים שלך בכל המכשירים שלך.
     .label = ניהול נתונים מסונכרנים
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = ה
     .style = min-width: 36em;
     .title = ניהול הפריטים שמסתנכרנים בכל המכשירים המחוברים שלך
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = שמירה
+    .buttonlabelextra2 = התנתקות…
+    .buttonaccesskeyaccept = ש
+    .buttonaccesskeyextra2 = ה
+    .style = min-width: 36em;
+    .title = ניהול הפריטים שמסתנכרנים במכשיר זה
 
 ## The device name controls.
 

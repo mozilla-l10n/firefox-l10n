@@ -59,6 +59,7 @@ policy-DisableForgetButton = מניעת גישה לכפתור 'לשכוח'.
 policy-DisableFormHistory = לא לזכור היסטוריית חיפוש וטפסים.
 policy-DisableLaunchOnLogin = למנוע מ־{ -brand-short-name } להיפתח באופן אוטומטי כאשר המשתמש מתחבר.
 policy-DisablePrimaryPasswordCreation = אם true, לא ניתן ליצור ססמה ראשית.
+policy-DisablePasswordReveal2 = לא לאפשר לחשוף ססמאות בכניסות השמורות או בשדות של ססמאות.
 policy-DisablePasswordReveal = לא לאפשר לחשוף ססמאות בכניסות השמורות.
 policy-DisablePrivateBrowsing = השבתת גלישה פרטית.
 policy-DisableProfileImport = השבתת פקודת התפריט לייבוא נתונים מדפדפן אחר.

@@ -1140,6 +1140,10 @@ prefs-syncing-off = Sincronização: DESATIVADA
 prefs-syncing-off-2 =
     .description = Ative a sincronização para ter os seus marcadores, palavras-passe, histórico e muito mais, em qualquer dispositivo.
     .label = A sincronização está DESATIVADA
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Ative a sincronização para obter os seus marcadores, palavras-passe, histórico e muito mais neste dispositivo.
+    .label = A sincronização está DESATIVADA
 prefs-sync-turn-on-syncing =
     .label = Ativar sincronização...
     .accesskey = s
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Está a sincronizar estes itens em todos os seus dispositivos associados:
 sync-syncing-across-devices-heading-2 = Dados sincronizados entre dispositivos
+sync-syncing-across-devices-heading-3 = Sincronização de dados neste dispositivo
 sync-syncing-across-devices-empty-state2 =
     .description = Ainda não está a sincronizar nada. Comece a sincronizar para ter todos os seus dados em todos os seus dispositivos.
     .label = Gerir dados sincronizados
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 59em;
     .title = Faça a gestão do que é sincronizado em todos os seus dispositivos associados
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Guardar
+    .buttonlabelextra2 = Desligar…
+    .buttonaccesskeyaccept = s
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Gerir o que é sincronizado neste dispositivo
 
 ## The device name controls.
 
