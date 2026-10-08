@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Označi stranicu…
+    .tooltiptext = Označi stranicu ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Uredi oznaku…
+    .tooltiptext = Uredi oznaku
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Uredi oznaku…
+    .tooltiptext = Uredi oznaku ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Označi stranicu…
     .tooltiptext = Označi stranicu ({ $shortcut })
@@ -162,6 +175,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Spasi link kao…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = Označi stranicu…
+    .tooltiptext = Označi stranicu…
 
 ##
 
