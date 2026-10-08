@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = পরবর্তী
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = পরবর্তী পাতায় যাও ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = পরবর্তী
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = পরবর্তী পাতায় যাও ({ $shortcut })
+    .aria-label = পরবর্তী
 
 ## Reload
 
@@ -274,6 +285,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = সংরক্ষিত পাসওয়ার্ড ব্যবহার করুন
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ইমেল মাস্ক ব্যবহার করুন
     .accesskey = E
