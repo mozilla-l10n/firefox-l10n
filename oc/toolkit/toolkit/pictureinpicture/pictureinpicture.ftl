@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Vidèo incrustada
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Paramètres de jos títols
+pictureinpicture-subtitles-toggle =
+    .label = Sostítols
 pictureinpicture-subtitles-label = Sostítols
+pictureinpicture-font-size-group =
+    .label = Talha de polissa
+pictureinpicture-font-size-small-radio =
+    .label = Pichona
+pictureinpicture-font-size-medium-radio =
+    .label = Mejana
+pictureinpicture-font-size-large-radio =
+    .label = Granda
 pictureinpicture-font-size-label = Talha de polissa
 pictureinpicture-font-size-small = Pichona
 pictureinpicture-font-size-medium = Mejana
