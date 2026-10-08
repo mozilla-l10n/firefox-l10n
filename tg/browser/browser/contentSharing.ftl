@@ -6,6 +6,11 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-more-tabs =
+    { $count ->
+        [one] боз +{ $count } дигар
+       *[other] боз +{ $count } дигар
+    }
 content-sharing-tabs-title =
     { $count ->
         [one] { $count } варақа

@@ -1077,6 +1077,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = Рамзи-«QR»-{ $domain }
 
 ## EME notification panel
 
@@ -1198,6 +1201,8 @@ private-browsing-indicator-tooltip =
 # Tooltip for the private browsing indicator button that opens the info panel.
 private-browsing-indicator-button =
     .tooltiptext = Маълумот дар бораи тамошобинии хусусӣ
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = Шумо дар равзанаи хусусӣ қарор доред
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
