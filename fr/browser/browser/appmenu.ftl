@@ -372,7 +372,7 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Recevez des alertes lors de fuites de données
 appmenuitem-relay-title = { -relay-brand-short-name }
 appmenuitem-relay-title2 = Protégez la confidentialité de vos adresses e-mail
-appmenuitem-relay-description2 = Permet de limiter le spam dans votre boîte de réception
+appmenuitem-relay-description2 = Limitez le spam dans votre boîte de réception
 # Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
 appmenuitem-relay-title-signed-in = Voir les alias de messagerie
 appmenuitem-relay-description = Masquez votre véritable adresse e-mail et votre véritable numéro de téléphone
