@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Indaûr
     .accesskey = D
+toolbar-button-back-3 =
+    .label = Indaûr
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -125,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Zonte pagjine tai segnelibris…
+    .tooltiptext = Zonte la pagjine ({ $shortcut }) tai segnelibris
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Modifiche segnelibri…
+    .tooltiptext = Modifiche il segnelibri
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Modifiche segnelibri…
+    .tooltiptext = Modifiche il segnelibri ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Zonte pagjine tai segnelibris…
     .tooltiptext = Zonte la pagjine ({ $shortcut }) tai segnelibris
@@ -163,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Salve destinazion cul non…
     .accesskey = S
+main-context-menu-bookmark-page-2 =
+    .aria-label = Zonte pagjine tai segnelibris…
+    .tooltiptext = Zonte la pagjine tai segnelibris
 
 ##
 
