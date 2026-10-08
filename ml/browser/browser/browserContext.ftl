@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = ട
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = താളിനെ കുറിച്ചിടുക…
+    .tooltiptext = താളിനെ കുറിച്ചിടുക… ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = അടയാളക്കുറിപ്പ് തിരുത്തുക…
+    .tooltiptext = അടയാളക്കുറിപ്പ് തിരുത്തുക…
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = അടയാളക്കുറിപ്പ് തിരുത്തുക…
+    .tooltiptext = അടയാളക്കുറിപ്പ് തിരുത്തുക ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = താളിനെ കുറിച്ചിടുക…
     .tooltiptext = താളിനെ കുറിച്ചിടുക… ({ $shortcut })
@@ -162,6 +175,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = കണ്ണി ഇങ്ങനെ സൂക്ഷിക്കുക...
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = താളിനെ കുറിച്ചിടുക…
+    .tooltiptext = താളിനെ കുറിച്ചിടുക
 
 ##
 
