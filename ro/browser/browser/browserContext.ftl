@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Înapoi
     .accesskey = B
+toolbar-button-back-3 =
+    .label = Înapoi
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -38,10 +40,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Înainte
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Înainte cu o pagină ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Înainte
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Înainte cu o pagină ({ $shortcut })
+    .aria-label = Înainte
 
 ## Reload
 
@@ -309,6 +322,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Conectează un dispoz
 main-context-menu-use-saved-password =
     .label = Folosește parola salvată
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Folosește masca de e-mail { -relay-brand-short-name }
     .accesskey = E
