@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = ᱪᱤᱛᱟᱹᱨᱼᱵᱷᱤᱛᱨᱤᱼᱪᱤᱛᱟᱹᱨ
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = ᱥᱚᱵᱽᱴᱟᱭᱴᱚᱞ ᱥᱟᱡᱟᱣᱠᱚ
+pictureinpicture-subtitles-toggle =
+    .label = ᱥᱚᱵᱴᱟᱭᱴᱚᱞᱠᱚ
 pictureinpicture-subtitles-label = ᱥᱚᱵᱴᱟᱭᱴᱚᱞᱠᱚ
+pictureinpicture-font-size-group =
+    .label = ᱪᱤᱠᱤ ᱨᱮᱭᱟᱜ ᱢᱟᱯ
+pictureinpicture-font-size-small-radio =
+    .label = ᱦᱩᱰᱤᱧ
+pictureinpicture-font-size-medium-radio =
+    .label = ᱢᱤᱰᱤᱭᱚᱢ
+pictureinpicture-font-size-large-radio =
+    .label = ᱢᱟᱨᱟᱝ
 pictureinpicture-font-size-label = ᱪᱤᱠᱤ ᱨᱮᱭᱟᱜ ᱢᱟᱯ
 pictureinpicture-font-size-small = ᱦᱩᱰᱤᱧ
 pictureinpicture-font-size-medium = ᱢᱤᱰᱤᱭᱚᱢ
