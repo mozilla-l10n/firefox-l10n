@@ -104,6 +104,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = Р
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Додати сторінку до закладок…
+    .tooltiptext = Додати сторінку до закладок ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Редагувати закладку…
+    .tooltiptext = Редагувати закладку
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Редагувати закладку…
+    .tooltiptext = Редагувати закладку ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Додати сторінку до закладок…
     .tooltiptext = Додати сторінку до закладок ({ $shortcut })
@@ -142,6 +155,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Зберегти посилання як…
     .accesskey = я
+main-context-menu-bookmark-page-2 =
+    .aria-label = Додати сторінку до закладок…
+    .tooltiptext = Додати сторінку до закладок…
 
 ##
 
@@ -309,6 +325,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Під'єднайте
 main-context-menu-use-saved-password =
     .label = Використати збережений пароль
     .accesskey = б
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Використати маску електронної пошти { -relay-brand-short-name }
     .accesskey = е
