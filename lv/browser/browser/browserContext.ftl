@@ -165,6 +165,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Saglabāt saiti kā…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = Saglabāta grāmatzīmēs…
+    .tooltiptext = Saglabāta grāmatzīmēs
 
 ##
 
