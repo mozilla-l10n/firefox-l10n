@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Wstecz
     .accesskey = W
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Przejdź do poprzedniej strony ({ $shortcut })
 toolbar-button-back-3 =
     .label = Wstecz
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Przejdź do poprzedniej strony ({ $shortcut })
+    .aria-label = Wstecz
 
 ## Forward
 
@@ -125,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Edytuj zakładkę…
     .accesskey = d
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Dodaj zakładkę do tej strony…
+    .tooltiptext = Dodaj zakładkę do tej strony ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Edytuj zakładkę…
+    .tooltiptext = Edytuj zakładkę
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Edytuj zakładkę…
+    .tooltiptext = Edytuj zakładkę ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
