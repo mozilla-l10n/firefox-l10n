@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = 后退
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = 转到上一页 ({ $shortcut })
 toolbar-button-back-3 =
     .label = 后退
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = 转到上一页 ({ $shortcut })
+    .aria-label = 后退
 
 ## Forward
 
@@ -127,6 +136,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = 为页面添加书签…
+    .tooltiptext = 为页面添加书签（{ $shortcut }）
+main-context-menu-edit-bookmark-2 =
+    .aria-label = 编辑书签…
+    .tooltiptext = 编辑书签
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = 编辑书签…
+    .tooltiptext = 编辑书签（{ $shortcut }）
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = 为页面添加书签…
     .tooltiptext = 为页面添加书签（{ $shortcut }）
@@ -165,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = 从链接另存文件为…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = 为页面添加书签…
+    .tooltiptext = 为页面添加书签
 
 ##
 
