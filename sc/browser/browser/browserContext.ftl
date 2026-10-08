@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = l
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Agiunghe a is sinnalibros…
+    .tooltiptext = Agiunghe a is sinnalibros ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Modìfica su sinnalibru...
+    .tooltiptext = Modìfica su sinnalibru
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Modìfica su sinnalibru...
+    .tooltiptext = Modìfica su sinnalibru ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Agiunghe a is sinnalibros…
     .tooltiptext = Agiunghe a is sinnalibros ({ $shortcut })
@@ -165,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Sarva su ligòngiu comente...
     .accesskey = g
+main-context-menu-bookmark-page-2 =
+    .aria-label = Agiunghe a is sinnalibros…
+    .tooltiptext = Agiunghe a is sinnalibros
 
 ##
 
