@@ -92,6 +92,14 @@ pictureinpicture-playback-rate-value = { NUMBER($rate) }×
 # Variables:
 #   $rate (number) - The preset's playback rate, e.g. 1.5.
 pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) }×
+pictureinpicture-font-size-group =
+    .label = Velikost písma
+pictureinpicture-font-size-small-radio =
+    .label = Malé
+pictureinpicture-font-size-medium-radio =
+    .label = Střední
+pictureinpicture-font-size-large-radio =
+    .label = Velké
 pictureinpicture-font-size-label = Velikost písma
 pictureinpicture-font-size-small = Malé
 pictureinpicture-font-size-medium = Střední
