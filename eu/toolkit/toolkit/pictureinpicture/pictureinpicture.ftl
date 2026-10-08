@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Bideoa beste leiho batean
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -86,6 +90,12 @@ pictureinpicture-playback-rate-value = { NUMBER($rate) }×
 # Variables:
 #   $rate (number) - The preset's playback rate, e.g. 1.5.
 pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) }×
+pictureinpicture-font-size-small-radio =
+    .label = Txikia
+pictureinpicture-font-size-medium-radio =
+    .label = Ertaina
+pictureinpicture-font-size-large-radio =
+    .label = Handia
 pictureinpicture-font-size-label = Letra-tamaina
 pictureinpicture-font-size-small = Txikia
 pictureinpicture-font-size-medium = Ertaina
