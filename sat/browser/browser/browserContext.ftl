@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = ᱛᱟᱭᱚᱢ
     .accesskey = B
+toolbar-button-back-3 =
+    .label = ᱛᱟᱭᱚᱢ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -79,8 +81,12 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = ᱛᱤᱝᱜᱩᱭ ᱢᱮ
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = ᱛᱤᱝᱜᱩᱭ ᱢᱮ
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = ᱛᱤᱝᱜᱩᱭ ᱢᱮ
 
 ## Stop-Reload Button
 
@@ -121,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ …
+    .tooltiptext = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
+    .tooltiptext = ᱵᱩᱠᱢᱟᱨᱠ ᱥᱟᱯᱲᱟᱣ ᱢᱮ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
+    .tooltiptext = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱥᱟᱯᱲᱟᱣ ᱢᱮ ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ …
     .tooltiptext = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ ({ $shortcut })
@@ -156,6 +175,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = ᱞᱮᱠᱷᱟ ᱠᱷᱚᱧᱡᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ…
     .accesskey = ᱪ
+main-context-menu-bookmark-page-2 =
+    .aria-label = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ…
+    .tooltiptext = ᱥᱟᱦᱴᱟ ᱵᱩᱠᱢᱟᱨᱠ ᱢᱮ
 
 ##
 
