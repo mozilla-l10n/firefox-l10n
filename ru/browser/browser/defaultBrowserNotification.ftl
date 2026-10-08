@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Готово
 default-browser-guidance-notification-v2-title = Завершите установку { -brand-short-name } в качестве вашего браузера по умолчанию
 default-browser-guidance-notification-v2-body = В настройках выберите «Установить по умолчанию» для { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Завершите установку { -brand-short-name } в качестве вашего браузера по умолчанию в настройках
+default-browser-guidance-notification-auto-trigger-title = Открывайте ссылки с помощью { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Выберите { -brand-short-name } в качестве браузера по умолчанию в настройках.

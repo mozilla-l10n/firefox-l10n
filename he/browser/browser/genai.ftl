@@ -14,6 +14,16 @@ genai-settings-chat-lechat-links-2 = בחירה ב־Mistral Vibe מהווה הס
 genai-settings-chat-lechat-links = בחירה ב־Le Chat Mistral מהווה הסכמה ל<a data-l10n-name="link1">תנאי השירות</a> ול<a data-l10n-name="link2">מדיניות הפרטיות</a> של Mistral AI.
 genai-settings-chat-localhost-links = ניתן לספק צ’אטבוט מקומי פרטי משלך כמו למשל <a data-l10n-name="link1">llamafile</a> מקבוצת החדשנות של { -vendor-short-name }.
 
+## Chatbot prompts
+## Prompts are plain language ‘instructions’ sent to a chatbot.
+## These prompts have been made concise and direct in English because some chatbot providers
+## have character restrictions and being direct reduces the chance for misinterpretation.
+## When localizing, please be concise and direct, but not at the expense of losing meaning.
+
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = נא לסכם את דף האינטרנט בכתובת { $url } בשפה מדויקת ותמציתית. יש להשתמש בכותרות וברשימות תבליטים כדי שיהיה קל לסרוק אותו. יש לשמור על המשמעות ועל הדיוק העובדתי.
+
 ## Chatbot menu shortcuts
 
 genai-menu-open-generic =
@@ -191,6 +201,14 @@ link-preview-settings-key-points =
     .label = לאפשר לבינה מלאכותית לקרוא את תחילת העמוד וליצור נקודות מפתח
 link-preview-settings-long-press =
     .label = קיצור דרך: לחיצה ממושכת על הקישור למשך שנייה אחת (לחיצה ארוכה)
+highlight-to-search-settings-enable =
+    .description = קבלת גישה מהירה לפעולות מועילות בעת בחירת תוכן.
+    .label = הצגת תפריט פעולות בעת בחירת טקסט
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = לשאול את { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = לשאול את AI
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = לראות עוד עם בינה מלאכותית?
 # Message that appears when user is shown the opt-in flow for link previews

@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Создайте своего приват
 genai-prompts-summarize =
     .label = Резюмировать
     .value = Пожалуйста, резюмируйте выделенное, используя точный и лаконичный язык. Используйте заголовки и маркированные списки в резюме, чтобы его можно было просмотреть. Сохраните смысл и фактологическую точность.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Пожалуйста, опиши веб-страницу на { $url }, используя точные и краткие выражения. Используй заголовки и маркированные списки в сводке, чтобы сделать её удобочитаемой. Соблюдай значение и фактическую точность.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Упростить язык
@@ -238,6 +241,14 @@ link-preview-settings-key-points =
     .label = Разрешить ИИ читать начало страницы и генерировать ключевые точки
 link-preview-settings-long-press =
     .label = Быстрый доступ: Нажмите и удерживайте ссылку в течение 1 секунды (длительное нажатие)
+highlight-to-search-settings-enable =
+    .description = Получите быстрый доступ к полезным действиям при выборе содержимого.
+    .label = Показывать меню действий при выделении текста
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Спросить у { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Спросить ИИ
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Увидеть больше с ИИ?
 # Message that appears when user is shown the opt-in flow for link previews

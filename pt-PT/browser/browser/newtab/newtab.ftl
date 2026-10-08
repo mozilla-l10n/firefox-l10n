@@ -342,6 +342,11 @@ newtab-privacy-message-first-protection-cta = Ver proteções
 newtab-stocks-menu-learn-more = Saber mais
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Os dados dos mercados bolsistas não estão disponíveis
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Abrir o menu de finanças
+    .title = Abrir o menu de finanças
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

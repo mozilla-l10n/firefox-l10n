@@ -243,6 +243,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Поиск в журнале
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Поиск во вкладках
 
 ## Bookmarks Menu
 

@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Классическое окно
 toolbar-switcher-customizable-label =
     .label = Переключатель { -smart-window-brand-name(case: "genitive") }
     .tooltiptext = Переключайтесь между Умным и Классическим окнами
+toolbar-switcher-customizable-label-v2 =
+    .label = Переключатель { -smart-window-brand-name(case: "genitive") }
+    .tooltiptext = Переключение между Умным и Классическим окном
 
 ## Input CTA
 
