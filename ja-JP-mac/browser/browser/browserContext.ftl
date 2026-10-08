@@ -74,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = 更新
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = 更新
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = 更新
 
 ## Stop
 
@@ -86,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = 中止
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = 中止
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = 中止
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = 更新
 
 ## Account toolbar Button
 
@@ -124,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = ブックマークを編集...
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = ページをブックマーク...
+    .tooltiptext = ページをブックマークに追加します ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = ブックマークを編集...
+    .tooltiptext = ブックマークを編集します
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = ブックマークを編集...
+    .tooltiptext = ブックマークを編集します ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -164,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = 別名でリンク先を保存...
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = ページをブックマーク...
+    .tooltiptext = ページをブックマークに追加します
 
 ##
 
