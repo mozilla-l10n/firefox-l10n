@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Air adhart
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Rach duilleag air adhart ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Air adhart
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Rach duilleag air adhart ({ $shortcut })
+    .aria-label = Air adhart
 
 ## Reload
 
@@ -294,6 +305,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Cleachd facal-faire air a shàbhaladh
     .accesskey = C
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Cleachd masg puist-d { -relay-brand-short-name }
     .accesskey = e
