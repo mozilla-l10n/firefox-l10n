@@ -165,6 +165,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Joajuha ñongatu pyahu…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = Embojuaju kuatiarogue rechaukaháre…
+    .tooltiptext = Embojuaju kuatiarogue rechaukaháre
 
 ##
 
