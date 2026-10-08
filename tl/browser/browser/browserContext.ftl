@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Bumalik
     .accesskey = B
+toolbar-button-back-3 =
+    .label = Bumalik
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -71,6 +73,9 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -264,6 +269,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Gumamit ng Nai-save na Password
     .accesskey = G
+
+##
+
 main-context-menu-suggest-strong-password =
     .label = Magmungkahi ng Malakas na Password...
     .accesskey = M
