@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = پچھوں  تے
     .accesskey = B
+toolbar-button-back-3 =
+    .label = پچھو تے
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -52,8 +54,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = ولدا لوڈ کرو
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = ولدا لوڈ کرو
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = ولدا لوڈ کرو
 
 ## Stop
 
@@ -64,13 +70,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = رک ونڄو
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = رک ونڄو
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = رک ونڄو
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = ولدا لوڈ کرو
 
 ## Account toolbar Button
 
@@ -274,6 +286,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = محفوظ پاس ورڈ استعمال کرو
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ای میل مسسک ورتو
     .accesskey = E
