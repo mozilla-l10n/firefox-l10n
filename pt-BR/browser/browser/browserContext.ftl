@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Voltar
     .accesskey = V
+toolbar-button-back-3 =
+    .label = Voltar
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -52,8 +54,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Recarregar
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Recarregar
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Recarregar
 
 ## Stop
 
@@ -64,13 +70,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Parar
     .accesskey = P
+toolbar-button-stop-2 =
+    .label = Parar
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Parar
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Recarregar
 
 ## Account toolbar Button
 
