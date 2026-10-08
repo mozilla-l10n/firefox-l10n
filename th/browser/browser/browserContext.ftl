@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = ย้อนกลับ
     .accesskey = ย
+toolbar-button-back-3 =
+    .label = ย้อนกลับ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -63,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = โหลดใหม่
     .accesskey = ห
+toolbar-button-reload-2 =
+    .label = โหลดใหม่
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = โหลดใหม่
 
 ## Stop
 
@@ -75,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = หยุด
     .accesskey = ห
+toolbar-button-stop-2 =
+    .label = หยุด
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = หยุด
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = โหลดใหม่
 
 ## Account toolbar Button
 
@@ -153,6 +165,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = บันทึกลิงก์เป็น…
     .accesskey = น
+main-context-menu-bookmark-page-2 =
+    .aria-label = เพิ่มที่คั่นหน้าสำหรับหน้า…
+    .tooltiptext = เพิ่มที่คั่นหน้าสำหรับหน้า
 
 ##
 
