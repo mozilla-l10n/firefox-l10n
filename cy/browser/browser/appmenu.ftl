@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Mewngofnodi
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Cau anogiad i fewngofnodi
     .title = Cau
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Mewngofnodwch i gydweddu
-appmenu-fxa-sign-in-promo-message = Cael eich data ym mhobman
-appmenu-fxa-sign-in-promo-button =
-    .label = Mewngofnodi
 appmenu-fxa-setup-sync =
     .label = Cychwyn Cydweddu…
 appmenu-fxa-setup-sync-new = Troi Ymlaen

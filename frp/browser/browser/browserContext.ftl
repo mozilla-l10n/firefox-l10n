@@ -45,18 +45,6 @@ toolbar-button-stop-reload =
 toolbar-button-stop-reload-2 =
     .title = Rechargér
 
-## Account toolbar Button
-
-
-## Save Page
-
-
-## Simple menu items
-
-
-##
-
-
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
@@ -66,19 +54,3 @@ toolbar-button-stop-reload-2 =
 main-context-menu-media-play =
     .label = Menar
     .accesskey = M
-
-##
-
-
-## The access keys for "Show Controls" and "Hide Controls" are the same
-## because the two context-menu items are mutually exclusive.
-
-
-## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
-
-
-##
-
-
-##
-

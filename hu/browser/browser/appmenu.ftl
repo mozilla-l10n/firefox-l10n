@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Bejelentkezés
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Bejelentkezési promóció eltüntetése
     .title = Eltüntetés
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Jelentkezzen be a szinkronizáláshoz
-appmenu-fxa-sign-in-promo-message = Vigye magával az adatait mindenhová
-appmenu-fxa-sign-in-promo-button =
-    .label = Bejelentkezés
 appmenu-fxa-setup-sync =
     .label = Szinkronizálás bekapcsolása…
 appmenu-fxa-setup-sync-new = Bekapcsolás

@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = Περισσότερες επιλογές 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Αφαίρεση κωδικού πρόσβασης;
-autocomplete-remove-address-title = Αφαίρεση διεύθυνσης;
-autocomplete-remove-payment-method-title = Αφαίρεση μεθόδου πληρωμής;
 autocomplete-remove-record-message = Δεν μπορείτε να αναιρέσετε αυτήν την ενέργεια.
 autocomplete-delete-record-button = Διαγραφή
-autocomplete-remove-record-button = Αφαίρεση
 autocomplete-delete-password-title = Διαγραφή κωδικού πρόσβασης;
 autocomplete-delete-address-title = Διαγραφή διεύθυνσης;
 autocomplete-delete-payment-method-title = Διαγραφή μεθόδου πληρωμής;

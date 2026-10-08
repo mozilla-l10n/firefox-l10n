@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = ورود
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = رد کردن پیشنهاد ورود
     .title = رد کردن
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = برای همگام‌سازی وارد شوید
-appmenu-fxa-sign-in-promo-message = دسترسی به داده‌هایتان در همه جا
-appmenu-fxa-sign-in-promo-button =
-    .label = ورود
 appmenu-fxa-setup-sync =
     .label = راه‌اندازی همگام‌سازی…
 appmenu-fxa-setup-sync-new = روشن کردن

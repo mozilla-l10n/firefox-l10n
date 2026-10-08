@@ -5,8 +5,6 @@
 user-context-manage-containers =
     .label = Կառավարել զպարունակս
     .accesskey = O
-user-context-manage-containers-panel-item = Կառավարել զպարունակս
-    .accesskey = O
 user-context-manage-containers2 =
     .label = Կառավարել զպարունակս
 user-context-manage-containers2-panel-item = Կառավարել զպարունակս

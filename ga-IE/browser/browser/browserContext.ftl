@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Leathanach amháin siar ({ $shortcut })
     .aria-label = Siar
+    .tooltiptext = Leathanach amháin siar ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Leathanach amháin ar aghaidh ({ $shortcut })
     .aria-label = Ar Aghaidh
+    .tooltiptext = Leathanach amháin ar aghaidh ({ $shortcut })
 
 ## Reload
 
@@ -232,9 +232,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Seol an Fhuaim trí Ríomhphost…
     .accesskey = a
-
-##
-
 
 ##
 

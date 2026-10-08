@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Shkoni mbrapsht një faqe ({ $shortcut })
     .aria-label = Mbrapsht
+    .tooltiptext = Shkoni mbrapsht një faqe ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Shkoni para një faqe ({ $shortcut })
     .aria-label = Përpara
+    .tooltiptext = Shkoni para një faqe ({ $shortcut })
 
 ## Reload
 
@@ -345,9 +345,6 @@ main-context-menu-send-to-mobile-2 =
 main-context-menu-use-saved-password =
     .label = Përdorim Fjalëkalimin e Ruajtur
     .accesskey = F
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Përdor Maskë { -relay-brand-short-name } Email-i
     .accesskey = E

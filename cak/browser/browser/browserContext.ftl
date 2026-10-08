@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Titzolïx jun ruxaq ({ $shortcut })
     .aria-label = Chi rij
+    .tooltiptext = Titzolïx jun ruxaq ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Jun chik ruxaq ({ $shortcut })
     .aria-label = Jun chik
+    .tooltiptext = Jun chik ruxaq ({ $shortcut })
 
 ## Reload
 
@@ -325,9 +325,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Tokisäx Yakon Ewan Tzij
     .accesskey = z
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Tokisäx Ruk'oj rutaqoya'l { -relay-brand-short-name }
     .accesskey = t

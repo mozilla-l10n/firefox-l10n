@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Mundur satu laman ({ $shortcut })
     .aria-label = Mundur
+    .tooltiptext = Mundur satu laman ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Maju satu laman ({ $shortcut })
     .aria-label = Maju
+    .tooltiptext = Maju satu laman ({ $shortcut })
 
 ## Reload
 
@@ -340,9 +340,6 @@ main-context-menu-send-to-mobile-device-missing2 = Tidak Melihat Peranti Anda?
 main-context-menu-use-saved-password =
     .label = Gunakan Kata Sandi Tersimpan
     .accesskey = G
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Gunakan Topeng Email { -relay-brand-short-name }
     .accesskey = T

@@ -98,7 +98,6 @@ fxa-menu-sync-your-data = Məlumatlarınızı Sinxronlaşdırın
 fxa-menu-sync-off-data-description = Məlumatlarınız sinxronlaşdırılmır
 appmenu-account-header = Hesab
 appmenu-fxa-signed-in-label = Daxil ol
-appmenu-fxa-sign-in-promo-message = Məlumatlarınız hər yerdə sizinlə olsun
 appmenu-fxa-setup-sync-new = Yandır
 appmenuitem-save-page =
     .label = Fərqli Saxla…

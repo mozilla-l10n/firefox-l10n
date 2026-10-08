@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Înapoi cu o pagină ({ $shortcut })
     .aria-label = Înapoi
+    .tooltiptext = Înapoi cu o pagină ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Înainte cu o pagină ({ $shortcut })
     .aria-label = Înainte
+    .tooltiptext = Înainte cu o pagină ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Conectează un dispoz
 main-context-menu-use-saved-password =
     .label = Folosește parola salvată
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Folosește masca de e-mail { -relay-brand-short-name }
     .accesskey = E

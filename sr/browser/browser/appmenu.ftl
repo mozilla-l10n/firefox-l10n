@@ -170,12 +170,6 @@ appmenu-fxa-sign-in-promo-link = Пријави се
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Одбаци промоцију за пријаву
     .title = Одбаци
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Пријави се за усклађивање
-appmenu-fxa-sign-in-promo-message = Приступите својим подацима било где
-appmenu-fxa-sign-in-promo-button =
-    .label = Пријави се
 appmenu-fxa-setup-sync =
     .label = Укључи усклађивање
 appmenu-fxa-setup-sync-new = Укључи

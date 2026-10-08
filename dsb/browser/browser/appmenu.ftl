@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Pśizjawiś
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Pśizjawjeńske wabjenje zachyśiś
     .title = Zachyśiś
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Za synchronizaciju pśizjawiś
-appmenu-fxa-sign-in-promo-message = Wobstarajśo se daty wšuźi
-appmenu-fxa-sign-in-promo-button =
-    .label = Pśizjawiś
 appmenu-fxa-setup-sync =
     .label = Synchronizaciju zmóžniś…
 appmenu-fxa-setup-sync-new = Zmóžniś

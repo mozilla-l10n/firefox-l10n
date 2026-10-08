@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Гузариш ба як саҳифа қафо ({ $shortcut })
     .aria-label = Бозгашт
+    .tooltiptext = Гузариш ба як саҳифа қафо ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Гузариш ба як саҳифа пеш ({ $shortcut })
     .aria-label = Гузариш ба пеш
+    .tooltiptext = Гузариш ба як саҳифа пеш ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Пайваст кар
 main-context-menu-use-saved-password =
     .label = Истифода кардани ниҳонвожаи нигоҳдошташуда
     .accesskey = И
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Истифодаи ниқоби почтаи электронии «{ -relay-brand-short-name }»
     .accesskey = И

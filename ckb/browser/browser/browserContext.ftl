@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = یەک پەڕە بچۆ دواوە ({ $shortcut })
     .aria-label = دواوە
+    .tooltiptext = یەک پەڕە بچۆ دواوە ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = یەک پەڕە بچۆ پێشتر ({ $shortcut })
     .aria-label = پێشتر
+    .tooltiptext = یەک پەڕە بچۆ پێشتر ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = بارکردنەوە
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -234,9 +231,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ناردنی دەنگ...
     .accesskey = ن
-
-##
-
 
 ##
 

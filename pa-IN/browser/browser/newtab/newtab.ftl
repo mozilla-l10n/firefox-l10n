@@ -95,9 +95,6 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = ਅੱਜ ਦੀ ਤਸਵੀਰ
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = ਸੱਜਰੀਆਂ ਖੋਜਾਂ
 home-prefs-mission-message2 =
     .message = ਸਾਡੇ ਸਪਾਂਸਰ ਵੈੱਬ ਨੂੰ ਹੋਰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹਨ।
 home-prefs-manage-topics-link2 =
@@ -478,11 +475,6 @@ newtab-picture-image-alt = ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼ ਅੱਜ
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = ਸੱਜਰੀਆਂ ਖੋਜਾਂ
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = ਸੱਜਰੀਆਂ ਖੋਜਾਂ ਲਈ ਚੋਣਾਂ
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = ਹੋਰ ਜਾਣੋ
 
@@ -787,8 +779,6 @@ newtab-custom-widget-stocks-toggle =
     .label = ਸਟਾਕ
 newtab-custom-widget-picture-toggle =
     .label = ਅੱਜ ਦੀ ਤਸਵੀਰ
-newtab-custom-widget-recent-searches-toggle =
-    .label = ਸੱਜਰੀਆਂ ਖੋਜਾਂ
 newtab-custom-widget-section-title = ਵਿਜੈੱਟ
 newtab-custom-widget-section-toggle =
     .label = ਵਿਜੈੱਟ

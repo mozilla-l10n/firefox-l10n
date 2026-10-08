@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = Dalšne nastajenja za { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Gronidło wótwónoźeś?
-autocomplete-remove-address-title = Adresu wótwónoźeś?
-autocomplete-remove-payment-method-title = Płaśeńsku metodu wótwónoźeś?
 autocomplete-remove-record-message = Njamóžośo toś tu akciju anulěrowaś.
 autocomplete-delete-record-button = Lašowaś
-autocomplete-remove-record-button = Wótwónoźeś
 autocomplete-delete-password-title = Gronidło lašowaś?
 autocomplete-delete-address-title = Adresu lašowaś?
 autocomplete-delete-payment-method-title = Płaśeńsku metodu lašowaś?

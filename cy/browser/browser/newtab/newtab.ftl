@@ -105,9 +105,6 @@ home-prefs-search-widget-header =
 # Horoscopes is a widget on New Tab that shows daily horoscopes.
 home-prefs-horoscopes-header =
     .label = Horosgopau
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = Chwilio diweddar
 home-prefs-mission-message2 =
     .message = Mae ein noddwyr yn cefnogi ein cenhadaeth i adeiladu gwe well
 home-prefs-manage-topics-link2 =
@@ -377,23 +374,12 @@ newtab-privacy-message-first-protection-cta = Dyma'r diogelwch
 newtab-stocks-menu-learn-more = Dysgu rhagor
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dyw data stoc ddim ar gael.
-# "Finance options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button2 =
-    .aria-label = Dewisiadau cyllid
-    .title = Dewisiadau cyllid
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Dewisiadau'r teclyn stociau
     .title = Dewisiadau'r teclyn stociau
-# Tooltip and screen reader label for the icon-only button that opens the
-# widget's menu.
-newtab-stocks-widget-open-menu-button =
-    .aria-label = Yn agor y ddewislen stoc
-    .title = Yn agor y ddewislen stoc
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -424,9 +410,6 @@ newtab-stocks-list-watchlist = Rhestr wylio
     .label = Rhestr wylio
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Chwilio yn ôl enw neu symbol
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Cyllid
@@ -571,11 +554,6 @@ newtab-picture-image-alt = Darlun y dydd Comin Wikimedia
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = Chwilio diweddar
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = Dewisiadau chwilio diweddar
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Dysgu rhagor
 # Tab listing the searches the user has made recently.
@@ -933,8 +911,6 @@ newtab-custom-widget-search-toggle =
     .label = Chwilio
 newtab-custom-widget-horoscopes-toggle =
     .label = Horosgopau
-newtab-custom-widget-recent-searches-toggle =
-    .label = Chwilio diweddar
 newtab-custom-widget-section-title = Teclynnau
 newtab-custom-widget-section-toggle =
     .label = Teclynnau

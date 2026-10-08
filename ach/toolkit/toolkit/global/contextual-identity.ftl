@@ -27,17 +27,6 @@ user-context-banking2 =
 user-context-shopping2 =
     .label = Wil
 
-##
-
-user-context-personal-panel-item = Pa ngat moni
-    .accesskey = P
-user-context-work-panel-item = Tic
-    .accesskey = T
-user-context-banking-panel-item = Beng
-    .accesskey = B
-user-context-shopping-panel-item = Wil
-    .accesskey = W
-
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =

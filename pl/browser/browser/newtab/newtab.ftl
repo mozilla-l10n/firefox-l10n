@@ -105,9 +105,6 @@ home-prefs-search-widget-header =
 # Horoscopes is a widget on New Tab that shows daily horoscopes.
 home-prefs-horoscopes-header =
     .label = Horoskopy
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = Ostatnie wyszukiwania
 home-prefs-mission-message2 =
     .message = Nasi sponsorzy wspierają naszą misję budowania lepszej sieci.
 home-prefs-manage-topics-link2 =
@@ -353,23 +350,12 @@ newtab-privacy-message-first-protection-cta = Wyświetl ochronę
 newtab-stocks-menu-learn-more = Więcej informacji
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dane giełdowe są niedostępne.
-# "Finance options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button2 =
-    .aria-label = Opcje widżetu finansów
-    .title = Opcje widżetu finansów
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = Opcje widżetu giełdy
     .title = Opcje widżetu giełdy
-# Tooltip and screen reader label for the icon-only button that opens the
-# widget's menu.
-newtab-stocks-widget-open-menu-button =
-    .aria-label = Otwórz menu widżetu giełdy
-    .title = Otwórz menu widżetu giełdy
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -400,9 +386,6 @@ newtab-stocks-list-watchlist = Obserwowane
     .label = Obserwowane
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Szukaj według nazwy lub symbolu
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finanse
@@ -544,11 +527,6 @@ newtab-picture-image-alt = Zdjęcie dnia z Wikimedia Commons
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = Ostatnie wyszukiwania
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = Opcje ostatnich wyszukiwań
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Więcej informacji
 # Tab listing the searches the user has made recently.
@@ -903,8 +881,6 @@ newtab-custom-widget-search-toggle =
     .label = Wyszukiwania
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskopy
-newtab-custom-widget-recent-searches-toggle =
-    .label = Ostatnie wyszukiwania
 newtab-custom-widget-section-title = Widżety
 newtab-custom-widget-section-toggle =
     .label = Widżety

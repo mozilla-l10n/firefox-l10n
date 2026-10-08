@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Späť o jednu stránku ({ $shortcut })
     .aria-label = Naspäť
+    .tooltiptext = Späť o jednu stránku ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Dopredu o jednu stránku ({ $shortcut })
     .aria-label = Dopredu
+    .tooltiptext = Dopredu o jednu stránku ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Pripojiť zariadenie 
 main-context-menu-use-saved-password =
     .label = Použiť uložené heslo
     .accesskey = h
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Použiť e‑mailovú masku služby { -relay-brand-short-name }
     .accesskey = R

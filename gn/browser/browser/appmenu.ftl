@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Eñepyrũ tembiapo
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Emboyke tepyguejy tembiapo ñepyrũgui
     .title = Emboyke
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Eike embojuehe hag̃ua
-appmenu-fxa-sign-in-promo-message = Eraha mba’ekuaarã opárupi
-appmenu-fxa-sign-in-promo-button =
-    .label = Eike
 appmenu-fxa-setup-sync =
     .label = Emyandy ñembojuehe…
 appmenu-fxa-setup-sync-new = Myandy

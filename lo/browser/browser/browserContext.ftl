@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = ກັບໄປຫນຶ່ງຫນ້າ ({ $shortcut })
     .aria-label = ກັບຄືນ
+    .tooltiptext = ກັບໄປຫນຶ່ງຫນ້າ ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = ໄປຫນ້າຖັດໄປ ({ $shortcut })
     .aria-label = ໄປຂ້າງຫນ້າ
+    .tooltiptext = ໄປຫນ້າຖັດໄປ ({ $shortcut })
 
 ## Reload
 
@@ -295,9 +295,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = ໃຊ້ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = ໃຊ້ { -relay-brand-short-name } Email Mask
     .accesskey = E

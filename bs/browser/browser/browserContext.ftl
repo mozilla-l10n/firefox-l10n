@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Idi nazad jednu stranicu ({ $shortcut })
     .aria-label = Nazad
+    .tooltiptext = Idi nazad jednu stranicu ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Idi naprijed jednu stranicu ({ $shortcut })
     .aria-label = Naprijed
+    .tooltiptext = Idi naprijed jednu stranicu ({ $shortcut })
 
 ## Reload
 
@@ -331,9 +331,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Koristi sačuvanu lozinku
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Koristi { -relay-brand-short-name } email masku
     .accesskey = E

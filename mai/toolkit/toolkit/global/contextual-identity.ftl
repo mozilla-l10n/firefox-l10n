@@ -5,8 +5,6 @@
 user-context-manage-containers =
     .label = कंटेनर केँ प्रबंधित करू
     .accesskey = { "" }
-user-context-manage-containers-panel-item = कंटेनर केँ प्रबंधित करू
-    .accesskey = { "" }
 user-context-manage-containers2 =
     .label = कंटेनर केँ प्रबंधित करू
 user-context-manage-containers2-panel-item = कंटेनर केँ प्रबंधित करू

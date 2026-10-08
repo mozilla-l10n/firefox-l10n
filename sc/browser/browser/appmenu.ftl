@@ -159,12 +159,6 @@ appmenu-fxa-last-sync = Ùrtima sincronizatzione { $time }
     .label = Ùrtima sincronizatzione { $time }
 appmenu-fxa-sync-and-save-data2 = Sincroniza e sarva datos
 appmenu-fxa-signed-in-label = Identìfica·ti
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Identìfica·ti a Sync
-appmenu-fxa-sign-in-promo-message = Porta·ti is datos in ònnia logu
-appmenu-fxa-sign-in-promo-button =
-    .label = Identìfica·ti
 appmenu-fxa-setup-sync =
     .label = Ativa sa sincronizatzione...
 appmenu-fxa-setup-sync-new = Ativa

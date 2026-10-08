@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Jedna strōna nazod ({ $shortcut })
     .aria-label = Nazod
+    .tooltiptext = Jedna strōna nazod ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Jedna strōna do przodku ({ $shortcut })
     .aria-label = Do przodku
+    .tooltiptext = Jedna strōna do przodku ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Przeladuj
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -274,9 +271,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Użyj spamiyntanego hasła
     .accesskey = u
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Doradź siylne hasło…
     .accesskey = S

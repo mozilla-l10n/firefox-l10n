@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = एकगोट पृष्ठ पाछाँ जाउ ({ $shortcut })
     .aria-label = पाछाँ
+    .tooltiptext = एकगोट पृष्ठ पाछाँ जाउ ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = एक पृष्ठ आगाँ जाउ ({ $shortcut })
     .aria-label = अग्रेषित करू
+    .tooltiptext = एक पृष्ठ आगाँ जाउ ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = फेर लोड करू
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -207,9 +204,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ऑडियो ईमेल करू (a)…
     .accesskey = a
-
-##
-
 
 ##
 

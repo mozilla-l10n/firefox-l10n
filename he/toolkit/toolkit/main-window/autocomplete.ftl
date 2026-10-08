@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = אפשרויות נוספות עבור { $
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = להסיר את הססמה?
-autocomplete-remove-address-title = להסיר את הכתובת?
-autocomplete-remove-payment-method-title = להסיר את אמצעי התשלום?
 autocomplete-remove-record-message = לא ניתן לבטל פעולה זו.
 autocomplete-delete-record-button = מחיקה
-autocomplete-remove-record-button = הסרה
 autocomplete-delete-password-title = למחוק את הססמה?
 autocomplete-delete-address-title = למחוק את הכתובת?
 autocomplete-delete-payment-method-title = למחוק את אמצעי התשלום?

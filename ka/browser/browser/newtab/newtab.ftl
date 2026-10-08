@@ -105,9 +105,6 @@ home-prefs-search-widget-header =
 # Horoscopes is a widget on New Tab that shows daily horoscopes.
 home-prefs-horoscopes-header =
     .label = ჰოროსკოპი
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = ბოლოს მოძიებული
 home-prefs-mission-message2 =
     .message = ჩვენი დამკვეთები მხარს უჭერენ ჩვენს მიზანს უკეთესი ვებსივრცის ჩამოსაყალიბებლად.
 home-prefs-manage-topics-link2 =
@@ -345,23 +342,12 @@ newtab-privacy-message-first-protection-cta = დაცვის შესახ
 newtab-stocks-menu-learn-more = ვრცლად
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = აქციების მონაცემები მიუწვდომელია.
-# "Finance options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button2 =
-    .aria-label = ფინანსების პარამეტრები
-    .title = ფინანსების პარამეტრები
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = აქციების ჩანამატის პარამეტრები
     .title = აქციების ჩანამატის გამართვა
-# Tooltip and screen reader label for the icon-only button that opens the
-# widget's menu.
-newtab-stocks-widget-open-menu-button =
-    .aria-label = აქციების მენიუს გახსნა
-    .title = აქციების მენიუს გახსნა
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -392,9 +378,6 @@ newtab-stocks-list-watchlist = სამეთვალყურეო
     .label = სამეთვალყურეო
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = ძიება სახელით ან ასონიშნით
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = ფინანსები
@@ -535,11 +518,6 @@ newtab-picture-image-alt = Wikimedia Commons – დღის სურათი
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = ბოლოს მოძიებული
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = ბოლოს მოძიებულის პარამეტრები
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = ვრცლად
 # Tab listing the searches the user has made recently.
@@ -893,8 +871,6 @@ newtab-custom-widget-search-toggle =
     .label = ძიება
 newtab-custom-widget-horoscopes-toggle =
     .label = ჰოროსკოპი
-newtab-custom-widget-recent-searches-toggle =
-    .label = ბოლოს მოძიებული
 newtab-custom-widget-section-title = ჩანამატები
 newtab-custom-widget-section-toggle =
     .label = ჩანამატები

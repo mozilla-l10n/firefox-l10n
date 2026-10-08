@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = 登入
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = 關閉登入宣傳
     .title = 知道了！
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = 登入 Sync
-appmenu-fxa-sign-in-promo-message = 在所有地方能使用您的資料
-appmenu-fxa-sign-in-promo-button =
-    .label = 登入
 appmenu-fxa-setup-sync =
     .label = 開啟同步…
 appmenu-fxa-setup-sync-new = 開啟

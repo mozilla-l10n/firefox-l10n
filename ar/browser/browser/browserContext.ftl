@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = عُد للخلف صفحة واحدة ({ $shortcut })
     .aria-label = السابق
+    .tooltiptext = عُد للخلف صفحة واحدة ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = انتقل للأمام صفحة واحدة ({ $shortcut })
     .aria-label = التالي
+    .tooltiptext = انتقل للأمام صفحة واحدة ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = صلّ جهاز لإ�
 main-context-menu-use-saved-password =
     .label = استعمل كلمة سر محفوظة
     .accesskey = ع
-
-##
-
 main-context-menu-use-relay-mask =
     .label = استخدم قناع البريد الإلكتروني { -relay-brand-short-name }.
     .accesskey = د

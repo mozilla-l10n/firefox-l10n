@@ -40,12 +40,8 @@ autocomplete-more-actions2 = { $entry } ਲਈ ਹੋਰ ਕਾਰਵਾਈਆ�
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
-autocomplete-remove-address-title = ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
-autocomplete-remove-payment-method-title = ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 autocomplete-remove-record-message = ਇਹ ਕਾਰਵਾਈ ਨੂੰ ਤੁਸੀਂ ਵਾਪਸ ਨਹੀਂ ਲੈ ਸਕਦੇ ਹੋ।
 autocomplete-delete-record-button = ਹਟਾਓ
-autocomplete-remove-record-button = ਹਟਾਓ
 autocomplete-delete-password-title = ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 autocomplete-delete-address-title = ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
 autocomplete-delete-payment-method-title = ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?

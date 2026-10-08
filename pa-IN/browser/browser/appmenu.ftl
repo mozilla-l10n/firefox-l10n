@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = ਸਾਈਨ ਇਨ
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = ਸਾਈਨ-ਇਨ ਪ੍ਰਚਾਰ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
     .title = ਖ਼ਾਰਜ ਕਰੋ
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = ਸਿੰਕ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
-appmenu-fxa-sign-in-promo-message = ਆਪਣਾ ਡਾਟਾ ਹਰ ਥਾਂ ਲਵੋ
-appmenu-fxa-sign-in-promo-button =
-    .label = ਸਾਈਨ ਇਨ
 appmenu-fxa-setup-sync =
     .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ…
 appmenu-fxa-setup-sync-new = ਚਾਲੂ ਕਰੋ

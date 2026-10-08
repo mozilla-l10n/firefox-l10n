@@ -146,11 +146,6 @@ appmenu-fxa-last-sync = Востаннє синхронізовано { $time }
     .label = Востаннє синхронізовано { $time }
 appmenu-fxa-sync-and-save-data2 = Синхронізувати й зберегти дані
 appmenu-fxa-signed-in-label = Увійти
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Увійдіть для синхронізації
-appmenu-fxa-sign-in-promo-button =
-    .label = Увійти
 appmenu-fxa-setup-sync =
     .label = Увімкнути синхронізацію…
 appmenu-fxa-setup-sync-new = Увімкнути

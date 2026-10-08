@@ -609,6 +609,7 @@ onboarding-theme-picker-subtitle = Bring a little more colour into { -brand-shor
 onboarding-theme-picker-button-label = Save and continue
 
 ## Carousel navigation
+
 # Default accessible name for the row of pills used to move between carousel
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =

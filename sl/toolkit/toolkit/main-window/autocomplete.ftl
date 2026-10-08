@@ -46,12 +46,8 @@ autocomplete-more-actions2 = Več dejanj za { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Ali želite odstraniti geslo?
-autocomplete-remove-address-title = Ali želite odstraniti naslov?
-autocomplete-remove-payment-method-title = Ali želite odstraniti plačilno sredstvo?
 autocomplete-remove-record-message = Tega dejanja ne boste mogli razveljaviti.
 autocomplete-delete-record-button = Izbriši
-autocomplete-remove-record-button = Odstrani
 autocomplete-delete-password-title = Ali želite izbrisati geslo?
 autocomplete-delete-address-title = Ali želite izbrisati naslov?
 autocomplete-delete-payment-method-title = Ali želite izbrisati plačilno sredstvo?

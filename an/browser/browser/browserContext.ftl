@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Ir una pachina enta zaga ({ $shortcut })
     .aria-label = Enta zaga
+    .tooltiptext = Ir una pachina enta zaga ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Ir una pachina enta debant ({ $shortcut })
     .aria-label = Enta debant
+    .tooltiptext = Ir una pachina enta debant ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Recargar
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -213,9 +210,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Ninviar audio…
     .accesskey = a
-
-##
-
 
 ##
 

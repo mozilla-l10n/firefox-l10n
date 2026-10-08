@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = Fleire innstillingar for { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Fjerne passordet?
-autocomplete-remove-address-title = Fjerne adresse?
-autocomplete-remove-payment-method-title = Fjerne betalingsmåte?
 autocomplete-remove-record-message = Du kan ikkje angre denne handlinga.
 autocomplete-delete-record-button = Slett
-autocomplete-remove-record-button = Fjern
 autocomplete-delete-password-title = Slette passord?
 autocomplete-delete-address-title = Slette adresse?
 autocomplete-delete-payment-method-title = Slette betalingsmåte?

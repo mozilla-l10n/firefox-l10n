@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Retroceder uma página ({ $shortcut })
     .aria-label = Anterior
+    .tooltiptext = Retroceder uma página ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Avançar uma página ({ $shortcut })
     .aria-label = Seguinte
+    .tooltiptext = Avançar uma página ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Conectar um Dispositi
 main-context-menu-use-saved-password =
     .label = Utilizar palavra-passe guardada
     .accesskey = u
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utilizar a máscara de e-mail do { -relay-brand-short-name }
     .accesskey = U

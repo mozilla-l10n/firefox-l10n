@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Zaloguj się
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Zamknij propozycję zalogowania się
     .title = Zamknij
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Zaloguj się do synchronizacji
-appmenu-fxa-sign-in-promo-message = Korzystaj ze swoich danych na każdym urządzeniu
-appmenu-fxa-sign-in-promo-button =
-    .label = Zaloguj się
 appmenu-fxa-setup-sync =
     .label = Włącz synchronizację…
 appmenu-fxa-setup-sync-new = Włącz

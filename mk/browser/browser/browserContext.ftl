@@ -54,9 +54,6 @@ toolbar-button-stop-reload =
 toolbar-button-stop-reload-2 =
     .title = Превчитај
 
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -173,9 +170,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Испрати аудио преку е-пошта…
     .accesskey = с
-
-##
-
 
 ##
 

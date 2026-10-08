@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = એક પાનું પાછળ જાવ ({ $shortcut })
     .aria-label = પાછળ
+    .tooltiptext = એક પાનું પાછળ જાવ ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = એક પાનું આગળ જાવ ({ $shortcut })
     .aria-label = આગળ
+    .tooltiptext = એક પાનું આગળ જાવ ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = પુનઃલાવો
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -213,9 +210,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ઇમેલ ઓડિયો…
     .accesskey = a
-
-##
-
 
 ##
 

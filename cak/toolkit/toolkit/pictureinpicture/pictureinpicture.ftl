@@ -4,10 +4,6 @@
 
 pictureinpicture-player-title = Picture-in-Picture
 
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -22,9 +18,6 @@ pictureinpicture-unpip-btn =
 pictureinpicture-close-btn =
     .aria-label = Titz'apïx
     .tooltip = Titz'apïx ({ $shortcut })
-
-##
-
 
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the

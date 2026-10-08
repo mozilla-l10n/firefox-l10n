@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = A(z) { $entry } további lehetőségei
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Jelszó eltávolítása?
-autocomplete-remove-address-title = Cím eltávolítása?
-autocomplete-remove-payment-method-title = Eltávolítja ezt a fizetési módot?
 autocomplete-remove-record-message = Ez a művelet nem vonható vissza.
 autocomplete-delete-record-button = Törlés
-autocomplete-remove-record-button = Eltávolítás
 autocomplete-delete-password-title = Törli a jelszót?
 autocomplete-delete-address-title = Törli a címet?
 autocomplete-delete-payment-method-title = Törli a fizetési módot?

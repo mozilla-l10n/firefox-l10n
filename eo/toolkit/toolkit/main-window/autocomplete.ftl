@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = Pli da ebloj por { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Ĉu forigi pasvorton?
-autocomplete-remove-address-title = Ĉu forigi adreson?
-autocomplete-remove-payment-method-title = Ĉu forigi pagmetodon?
 autocomplete-remove-record-message = Tiu ĉi ago ne estas malfarebla.
 autocomplete-delete-record-button = Forigi
-autocomplete-remove-record-button = Forigi
 autocomplete-delete-password-title = Ĉu forigi pasvorton?
 autocomplete-delete-address-title = Ĉu forigi adreson?
 autocomplete-delete-payment-method-title = Ĉu forigi pagmetodon?

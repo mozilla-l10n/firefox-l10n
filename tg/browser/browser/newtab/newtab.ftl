@@ -93,9 +93,6 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Ҷустуҷӯ
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = Ҷустуҷӯҳои охирин
 home-prefs-mission-message2 =
     .message = Сарпарастони мо рисолати моро барои ташкили таҷрибаи беҳтарини Интернет дастгирӣ менамоянд.
 home-prefs-manage-topics-link2 =

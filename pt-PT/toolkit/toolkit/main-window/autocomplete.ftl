@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = Mais opções para { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Remover palavra-passe?
-autocomplete-remove-address-title = Remover morada?
-autocomplete-remove-payment-method-title = Remover método de pagamento?
 autocomplete-remove-record-message = Não pode desfazer esta ação.
 autocomplete-delete-record-button = Apagar
-autocomplete-remove-record-button = Remover
 autocomplete-delete-password-title = Apagar palavra-passe?
 autocomplete-delete-address-title = Apagar endereço?
 autocomplete-delete-payment-method-title = Apagar método de pagamento?

@@ -4,10 +4,6 @@
 
 pictureinpicture-player-title = Слика у слици
 
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -62,8 +58,8 @@ pictureinpicture-seekforward-btn =
     .aria-label = Напред
     .tooltip = Напред (→)
 pictureinpicture-playback-rate-btn =
-    .tooltip = Брзина пуштања
     .aria-label = Брзина пуштања
+    .tooltip = Брзина пуштања
 
 ##
 

@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Joan orri bat atzera ({ $shortcut })
     .aria-label = Atzera
+    .tooltiptext = Joan orri bat atzera ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Joan orri bat aurrera ({ $shortcut })
     .aria-label = Aurrera
+    .tooltiptext = Joan orri bat aurrera ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Konektatu gailu bat o
 main-context-menu-use-saved-password =
     .label = Erabili gordetako pasahitza
     .accesskey = h
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Erabili { -relay-brand-short-name } posta-maskara
     .accesskey = E

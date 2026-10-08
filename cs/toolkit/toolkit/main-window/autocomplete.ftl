@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = Další možnosti pro { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Odstranit heslo?
-autocomplete-remove-address-title = Odebrat adresu?
-autocomplete-remove-payment-method-title = Odebrat platební metodu?
 autocomplete-remove-record-message = Tuto akci nelze vrátit zpět.
 autocomplete-delete-record-button = Smazat
-autocomplete-remove-record-button = Odebrat
 autocomplete-delete-password-title = Smazat heslo?
 autocomplete-delete-address-title = Smazat adresu?
 autocomplete-delete-payment-method-title = Smazat platební metodu?

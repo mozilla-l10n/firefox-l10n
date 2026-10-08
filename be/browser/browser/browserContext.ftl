@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Папярэдняя старонка ({ $shortcut })
     .aria-label = Назад
+    .tooltiptext = Папярэдняя старонка ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Наступная старонка ({ $shortcut })
     .aria-label = Наперад
+    .tooltiptext = Наступная старонка ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Падключыць 
 main-context-menu-use-saved-password =
     .label = Выкарыстаць захаваны пароль
     .accesskey = В
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Выкарыстаць маску эл. пошты { -relay-brand-short-name }
     .accesskey = у

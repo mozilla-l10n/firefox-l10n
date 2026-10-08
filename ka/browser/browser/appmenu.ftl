@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = შესვლა
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = ანგარიშზე შესვლის მოწოდებების უარყოფა
     .title = აცილება
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = დასინქ. შესვლა
-appmenu-fxa-sign-in-promo-message = ყველგან წაიყოლეთ თქვენი მონაცემები
-appmenu-fxa-sign-in-promo-button =
-    .label = შესვლა
 appmenu-fxa-setup-sync =
     .label = დასინქრონების ჩართვა…
 appmenu-fxa-setup-sync-new = ჩართვა

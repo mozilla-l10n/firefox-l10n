@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Rach duilleag air ais ({ $shortcut })
     .aria-label = Air ais
+    .tooltiptext = Rach duilleag air ais ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Rach duilleag air adhart ({ $shortcut })
     .aria-label = Air adhart
+    .tooltiptext = Rach duilleag air adhart ({ $shortcut })
 
 ## Reload
 
@@ -342,9 +342,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Cleachd facal-faire air a shàbhaladh
     .accesskey = C
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Cleachd masg puist-d { -relay-brand-short-name }
     .accesskey = e

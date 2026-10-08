@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = 回到上一頁（{ $shortcut }）
     .aria-label = 返回
+    .tooltiptext = 回到上一頁（{ $shortcut }）
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = 前進下一頁（{ $shortcut }）
     .aria-label = 前進
+    .tooltiptext = 前進下一頁（{ $shortcut }）
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 連結裝置即可傳
 main-context-menu-use-saved-password =
     .label = 使用已儲存的密碼
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = 使用 { -relay-brand-short-name } 轉寄信箱
     .accesskey = E

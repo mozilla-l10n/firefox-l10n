@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Иди на претходну страницу ({ $shortcut })
     .aria-label = Назад
+    .tooltiptext = Иди на претходну страницу ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Иди на следећу страницу ({ $shortcut })
     .aria-label = Напред
+    .tooltiptext = Иди на следећу страницу ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Повежите ур
 main-context-menu-use-saved-password =
     .label = Користи сачувану лозинку
     .accesskey = К
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Користи { -relay-brand-short-name } маскирање е-поште
     .accesskey = е

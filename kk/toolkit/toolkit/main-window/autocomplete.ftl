@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = { $entry } үшін көбірек опц�
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Парольді өшіру керек пе?
-autocomplete-remove-address-title = Адресті өшіру керек пе?
-autocomplete-remove-payment-method-title = Төлем әдісін өшіру керек пе?
 autocomplete-remove-record-message = Бұл әрекетті болдырмау мүмкін емес.
 autocomplete-delete-record-button = Өшіру
-autocomplete-remove-record-button = Өшіру
 autocomplete-delete-password-title = Парольді өшіру керек пе?
 autocomplete-delete-address-title = Адресті өшіру керек пе?
 autocomplete-delete-payment-method-title = Төлем әдісін өшіру керек пе?

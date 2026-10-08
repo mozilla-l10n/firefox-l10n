@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = ថយក្រោយ​មួយ​ទំព័រ ({ $shortcut })
     .aria-label = ថយក្រោយ
+    .tooltiptext = ថយក្រោយ​មួយ​ទំព័រ ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = ទៅមុខ​មួយ​ទំព័រ ({ $shortcut })
     .aria-label = ទៅមុខ
+    .tooltiptext = ទៅមុខ​មួយ​ទំព័រ ({ $shortcut })
 
 ## Reload
 
@@ -293,9 +293,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = ប្រើពាក្យសម្ងាត់ដែលបានរក្សាទុក
     .accesskey = o
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = ណែនាំពាក្យសម្ងាត់ខ្លាំង...
     .accesskey = S

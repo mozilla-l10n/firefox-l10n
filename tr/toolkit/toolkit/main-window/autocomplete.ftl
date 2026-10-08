@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = { $entry } için diğer seçenekler
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Parola silinsin mi?
-autocomplete-remove-address-title = Adres silinsin mi?
-autocomplete-remove-payment-method-title = Ödeme yöntemi silinsin mi?
 autocomplete-remove-record-message = Bu işlemi geri alamazsınız.
 autocomplete-delete-record-button = Sil
-autocomplete-remove-record-button = Sil
 autocomplete-delete-password-title = Parola silinsin mi?
 autocomplete-delete-address-title = Adres silinsin mi?
 autocomplete-delete-payment-method-title = Ödeme yöntemi silinsin mi?

@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = ایک صفحہ واپس جائیں ({ $shortcut })
     .aria-label = واپس
+    .tooltiptext = ایک صفحہ واپس جائیں ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = ایک صفحہ آگے جائیں ({ $shortcut })
     .aria-label = آگے
+    .tooltiptext = ایک صفحہ آگے جائیں ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = پھر لوڈ کریں
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -254,9 +251,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = محفوظ شدہ پاس ورڈ استعمال کریں
     .accesskey = o
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = مضبوط پاس ورڈ تجویز کریں…
     .accesskey = S

@@ -46,12 +46,8 @@ autocomplete-more-actions2 = Више радњи за { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Уклонити лозинку?
-autocomplete-remove-address-title = Уклонити адресу?
-autocomplete-remove-payment-method-title = Уклонити начин плаћања?
 autocomplete-remove-record-message = Ова радња се не може опозвати.
 autocomplete-delete-record-button = Обриши
-autocomplete-remove-record-button = Уклони
 autocomplete-delete-password-title = Обрисати лозинку?
 autocomplete-delete-address-title = Обрисати адресу?
 autocomplete-delete-payment-method-title = Обриши начин плаћања

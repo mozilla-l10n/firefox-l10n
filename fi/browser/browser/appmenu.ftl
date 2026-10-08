@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Kirjaudu sisään
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Hylkää kirjautumiskehotus
     .title = Hylkää
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Kirjaudu synkronoidaksesi
-appmenu-fxa-sign-in-promo-message = Käytä tietojasi missä tahansa
-appmenu-fxa-sign-in-promo-button =
-    .label = Kirjaudu sisään
 appmenu-fxa-setup-sync =
     .label = Ota synkronointi käyttöön…
 appmenu-fxa-setup-sync-new = Ota käyttöön

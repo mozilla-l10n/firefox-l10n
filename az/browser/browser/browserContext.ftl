@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Əvvəlki səhifəyə qayıt ({ $shortcut })
     .aria-label = Geri
+    .tooltiptext = Əvvəlki səhifəyə qayıt ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Sonrakı səhifəyə keç ({ $shortcut })
     .aria-label = İrəli
+    .tooltiptext = Sonrakı səhifəyə keç ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Yenilə
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -233,9 +230,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Audionu e-poçt ilə göndər…
     .accesskey = -
-
-##
-
 
 ##
 

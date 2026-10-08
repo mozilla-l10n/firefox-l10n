@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = Aukera gehiago { $entry } sarrerarentzat
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Kendu pasahitza?
-autocomplete-remove-address-title = Kendu helbidea?
-autocomplete-remove-payment-method-title = Kendu ordainketa-metodoa?
 autocomplete-remove-record-message = Ezin duzu ekintza hau desegin.
 autocomplete-delete-record-button = Ezabatu
-autocomplete-remove-record-button = Kendu
 autocomplete-delete-password-title = Ezabatu pasahitza?
 autocomplete-delete-address-title = Ezabatu helbidea?
 autocomplete-delete-payment-method-title = Ezabatu ordainketa-metodoa?

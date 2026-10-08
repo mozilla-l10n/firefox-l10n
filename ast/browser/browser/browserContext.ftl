@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Dir p'atrás una páxina ({ $shortcut })
     .aria-label = Atrás
+    .tooltiptext = Dir p'atrás una páxina ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Dir p'alantre una páxina ({ $shortcut })
     .aria-label = Alantre
+    .tooltiptext = Dir p'alantre una páxina ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Volver cargar
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -262,9 +259,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Usar una contraseña guardada
     .accesskey = U
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Suxerir una contraseña segura…
     .accesskey = S

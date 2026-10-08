@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Tagasi üks leht ({ $shortcut })
     .aria-label = Tagasi
+    .tooltiptext = Tagasi üks leht ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Edasi üks leht ({ $shortcut })
     .aria-label = Edasi
+    .tooltiptext = Edasi üks leht ({ $shortcut })
 
 ## Reload
 
@@ -354,9 +354,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Lehe edastamiseks lüli
 main-context-menu-use-saved-password =
     .label = Kasuta salvestatud parooli
     .accesskey = u
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Kasuta { -relay-brand-short-name } e-posti peitmist
     .accesskey = e

@@ -1167,8 +1167,8 @@ sync-syncing-across-devices-empty-state2 =
     .description = You aren’t syncing anything… yet. Start syncing to get all of your data on all your devices.
     .label = Manage synced data
 sync-syncing-across-devices-empty-state3 =
-    .label = Manage synced data
     .description = You aren’t syncing anything… yet. Choose what to sync on this device.
+    .label = Manage synced data
 sync-currently-syncing-bookmarks = Bookmarks
 sync-currently-syncing-history = History
 sync-currently-syncing-tabs = Open tabs
@@ -1468,15 +1468,15 @@ payment-moz-box-item =
 #   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item-with-security-code =
-    .label = { $cardNumber }
     .description = { $expDate } | CVV saved
+    .label = { $cardNumber }
 # Used in place of payment-moz-box-item-with-security-code for a card that has a
 # saved security code but no expiry date to show alongside it.
 # Variables:
 #   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
 payment-moz-box-item-security-code-only =
-    .label = { $cardNumber }
     .description = CVV saved
+    .label = { $cardNumber }
 addresses-group =
     .label = Addresses and more
 payments-group =

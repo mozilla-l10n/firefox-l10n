@@ -184,12 +184,6 @@ appmenu-fxa-sign-in-promo-link = Přihlásit se
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Zavřít přihlašovací nabídku
     .title = Zavřít
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Přihlásit se k synchronizaci
-appmenu-fxa-sign-in-promo-message = Mějte svoje data všude
-appmenu-fxa-sign-in-promo-button =
-    .label = Přihlásit se
 appmenu-fxa-setup-sync =
     .label = Zapnout synchronizaci…
 appmenu-fxa-setup-sync-new = Zapnout

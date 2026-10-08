@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Увайсці
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Закрыць прапанову ўвайсці
     .title = Адхіліць
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Увайсці для сінхранізацыі
-appmenu-fxa-sign-in-promo-message = Атрымлівайце свае дадзеныя ўсюды
-appmenu-fxa-sign-in-promo-button =
-    .label = Увайсці
 appmenu-fxa-setup-sync =
     .label = Уключыць сінхранізацыю…
 appmenu-fxa-setup-sync-new = Уключыць

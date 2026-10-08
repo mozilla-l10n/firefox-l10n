@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = Mear opsjes foar { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Wachtwurd fuortsmite?
-autocomplete-remove-address-title = Adres fuortsmite?
-autocomplete-remove-payment-method-title = Betelmetoade fuortsmite?
 autocomplete-remove-record-message = Jo kinne dizze aksje net ûngedien meitsje.
 autocomplete-delete-record-button = Fuortsmite
-autocomplete-remove-record-button = Fuortsmite
 autocomplete-delete-password-title = Wachtwurd fuortsmite?
 autocomplete-delete-address-title = Adres fuortsmite?
 autocomplete-delete-payment-method-title = Betellingsmetoade fuortsmite?

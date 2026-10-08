@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Giriş yap
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Giriş tanıtımını kapat
     .title = Kapat
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Eşitlemek için giriş yapın
-appmenu-fxa-sign-in-promo-message = Verilerinizi her yere taşıyın
-appmenu-fxa-sign-in-promo-button =
-    .label = Giriş yap
 appmenu-fxa-setup-sync =
     .label = Eşitlemeyi aç…
 appmenu-fxa-setup-sync-new = Aç

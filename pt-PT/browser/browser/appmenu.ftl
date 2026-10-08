@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Iniciar sessão
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Dispensar promoção de início de sessão
     .title = Dispensar
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Iniciar sessão para sincronizar
-appmenu-fxa-sign-in-promo-message = Obtenha os seus dados em todo o lado
-appmenu-fxa-sign-in-promo-button =
-    .label = Iniciar sessão
 appmenu-fxa-setup-sync =
     .label = Ativar a sincronização ...
 appmenu-fxa-setup-sync-new = Ativar

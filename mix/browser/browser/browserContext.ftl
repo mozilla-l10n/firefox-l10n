@@ -43,20 +43,11 @@ main-context-menu-stop-2 =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Account toolbar Button
-
-
-## Save Page
-
-
 ## Simple menu items
 
 main-context-menu-open-link =
     .label = Kuna enlace
     .accesskey = O
-
-##
-
 
 ## Media (video/audio) controls
 ##
@@ -83,10 +74,6 @@ main-context-menu-media-loop =
     .label = Kitsa tuku
     .accesskey = L
 
-## The access keys for "Show Controls" and "Hide Controls" are the same
-## because the two context-menu items are mutually exclusive.
-
-
 ## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-image-copy =
@@ -95,9 +82,3 @@ main-context-menu-image-copy =
 main-context-menu-image-info =
     .label = Kunchee tu'un tsa tutu ndatavana
     .accesskey = f
-
-##
-
-
-##
-

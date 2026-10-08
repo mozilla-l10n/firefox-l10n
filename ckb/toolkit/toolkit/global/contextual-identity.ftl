@@ -5,8 +5,6 @@
 user-context-manage-containers =
     .label = ڕێکخستنی لەخۆگرەکان
     .accesskey = ڕ
-user-context-manage-containers-panel-item = ڕێکخستنی لەخۆگرەکان
-    .accesskey = ڕ
 user-context-manage-containers2 =
     .label = ڕێکخستنی لەخۆگرەکان
 user-context-manage-containers2-panel-item = ڕێکخستنی لەخۆگرەکان

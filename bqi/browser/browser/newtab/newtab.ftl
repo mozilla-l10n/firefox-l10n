@@ -344,8 +344,6 @@ newtab-picture-show-button =
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = پیتینیڌنا دیندایی
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
 # Widget heading; also the widget's accessible name.
@@ -604,8 +602,6 @@ newtab-custom-widget-stocks-toggle =
     .label = سهام
 newtab-custom-widget-picture-toggle =
     .label = شؽوات رۊز
-newtab-custom-widget-recent-searches-toggle =
-    .label = پیتینیڌنا دیندایی
 newtab-custom-widget-section-title = ویجتا
 newtab-custom-widget-section-toggle =
     .label = ویجتا

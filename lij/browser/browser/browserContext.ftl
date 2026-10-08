@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Vanni inderê de 'na pagina ({ $shortcut })
     .aria-label = Inderê
+    .tooltiptext = Vanni inderê de 'na pagina ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Vanni avanti de 'na pagina ({ $shortcut })
     .aria-label = Avanti
+    .tooltiptext = Vanni avanti de 'na pagina ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Recarega
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -265,9 +262,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Paròlle segrete sarvæ
     .accesskey = ò
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Deuvia alias de pòsta { -relay-brand-short-name }
     .accesskey = D

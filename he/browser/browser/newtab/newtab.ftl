@@ -105,9 +105,6 @@ home-prefs-search-widget-header =
 # Horoscopes is a widget on New Tab that shows daily horoscopes.
 home-prefs-horoscopes-header =
     .label = הורוסקופ
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = חיפושים אחרונים
 home-prefs-mission-message2 =
     .message = נותני החסות שלנו תומכים במשימה שלנו לבנות אינטרנט טוב יותר.
 home-prefs-manage-topics-link2 =
@@ -338,23 +335,12 @@ newtab-privacy-message-first-protection-cta = הצגת הגנות
 newtab-stocks-menu-learn-more = מידע נוסף
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = נתוני מניות אינם זמינים.
-# "Finance options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button2 =
-    .aria-label = אפשרויות שוק ההון
-    .title = אפשרויות שוק ההון
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = אפשרויות ווידג’ט מניות
     .title = אפשרויות ווידג’ט מניות
-# Tooltip and screen reader label for the icon-only button that opens the
-# widget's menu.
-newtab-stocks-widget-open-menu-button =
-    .aria-label = פתיחת תפריט המניות
-    .title = פתיחת תפריט המניות
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -385,9 +371,6 @@ newtab-stocks-list-watchlist = רשימת מעקב
     .label = רשימת מעקב
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = חיפוש לפי שם או סמל
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = שוק ההון
@@ -528,11 +511,6 @@ newtab-picture-image-alt = תמונה של היום של Wikimedia Commons
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = חיפושים אחרונים
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = אפשרויות חיפושים אחרונים
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = מידע נוסף
 # Tab listing the searches the user has made recently.
@@ -885,8 +863,6 @@ newtab-custom-widget-search-toggle =
     .label = חיפוש
 newtab-custom-widget-horoscopes-toggle =
     .label = הורוסקופ
-newtab-custom-widget-recent-searches-toggle =
-    .label = חיפושים אחרונים
 newtab-custom-widget-section-title = ווידג’טים
 newtab-custom-widget-section-toggle =
     .label = ווידג’טים

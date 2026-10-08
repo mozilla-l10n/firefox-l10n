@@ -56,20 +56,11 @@ toolbar-button-stop-reload =
 toolbar-button-stop-reload-2 =
     .title = Oksa  tuul
 
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =
     .label = Jup u U'uje' Eche' uva'…
     .accesskey = U
-
-## Simple menu items
-
-
-##
-
 
 ## Media (video/audio) controls
 ##
@@ -93,10 +84,6 @@ main-context-menu-media-loop =
     .label = Lakapuli
     .accesskey = L
 
-## The access keys for "Show Controls" and "Hide Controls" are the same
-## because the two context-menu items are mutually exclusive.
-
-
 ## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
@@ -105,9 +92,3 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-image-copy =
     .label = eesa ivatz u  vatzib'ale'
     .accesskey = e
-
-##
-
-
-##
-

@@ -4,10 +4,6 @@
 
 pictureinpicture-player-title = Նկարը նկարում
 
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -34,9 +30,6 @@ pictureinpicture-subtitles-btn =
 pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Դուրս գալ Լիաէկրանից
     .tooltip = Դուրս գալ Լիաէկրանից (կրկնակի սեղմեք կամ { $shortcut })
-
-##
-
 
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the

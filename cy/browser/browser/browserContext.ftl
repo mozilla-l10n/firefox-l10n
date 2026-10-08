@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Nôl un tudalen ({ $shortcut })
     .aria-label = Nôl
+    .tooltiptext = Nôl un tudalen ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Ymlaen un tudalen ({ $shortcut })
     .aria-label = Ymlaen
+    .tooltiptext = Ymlaen un tudalen ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Cysylltwch Ddyfais i 
 main-context-menu-use-saved-password =
     .label = Defnyddio Cyfrinair wedi'i Gadw
     .accesskey = C
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Defnyddio Arallenw E-bost { -relay-brand-short-name }
     .accesskey = D

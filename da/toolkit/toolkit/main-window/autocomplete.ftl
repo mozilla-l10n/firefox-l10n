@@ -65,11 +65,7 @@ autocomplete-more-options-for-entry = Flere indstillinger for { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Fjern adgangskoden?
-autocomplete-remove-address-title = Fjern adresse?
-autocomplete-remove-payment-method-title = Fjern betalingsmetode?
 autocomplete-remove-record-message = Du kan ikke fortryde denne handling.
-autocomplete-remove-record-button = Fjern
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Gå en side tilbage ({ $shortcut })
     .aria-label = Tilbage
+    .tooltiptext = Gå en side tilbage ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Gå en side fremad ({ $shortcut })
     .aria-label = Fremad
+    .tooltiptext = Gå en side fremad ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Tilslut en enhed for 
 main-context-menu-use-saved-password =
     .label = Brug gemt adgangskode
     .accesskey = B
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Brug { -relay-brand-short-name }-mail-maske
     .accesskey = m

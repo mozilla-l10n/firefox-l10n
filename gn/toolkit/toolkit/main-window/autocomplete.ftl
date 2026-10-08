@@ -46,10 +46,7 @@ autocomplete-more-actions2 = Ejapove { $entry }-pe g̃uarã
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = ¿Embogue ñe’ẽñemi?
-autocomplete-remove-address-title = ¿Embogue kundaharape?
 autocomplete-delete-record-button = Mboguete
-autocomplete-remove-record-button = Mboguete
 autocomplete-delete-password-title = ¿ Embogue ñe’ẽñemi?
 autocomplete-delete-address-title = ¿Embogue kundaharape?
 autocomplete-delete-payment-method-title = ¿Embogue mba’éichapa ehepyme’ẽta?

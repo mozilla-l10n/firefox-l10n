@@ -96,9 +96,6 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Søgning
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = Seneste søgninger
 home-prefs-mission-message2 =
     .message = Vores sponsorer støtter vores mission om at bygge et bedre internet.
 home-prefs-manage-topics-link2 =
@@ -342,11 +339,6 @@ newtab-picture-image-alt = Dagens billede fra Wikimedia Commons
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = Seneste søgninger
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = Indstillinger for seneste søgninger
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Læs mere
 # Tab listing the searches the user has made recently.
@@ -668,8 +660,6 @@ newtab-custom-widget-picture-toggle =
     .label = Dagens billede
 newtab-custom-widget-search-toggle =
     .label = Søgning
-newtab-custom-widget-recent-searches-toggle =
-    .label = Seneste søgninger
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

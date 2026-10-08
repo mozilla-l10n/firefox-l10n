@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = 한 페이지 뒤로 가기 ({ $shortcut })
     .aria-label = 뒤로
+    .tooltiptext = 한 페이지 뒤로 가기 ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = 한 페이지 앞으로 가기 ({ $shortcut })
     .aria-label = 앞으로
+    .tooltiptext = 한 페이지 앞으로 가기 ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 페이지를 보내�
 main-context-menu-use-saved-password =
     .label = 저장된 비밀번호 사용
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } 이메일 가리기 사용
     .accesskey = E

@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Vienu tinklalapiu atgal ({ $shortcut })
     .aria-label = Atgal
+    .tooltiptext = Vienu tinklalapiu atgal ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Vienu tinklalapiu pirmyn ({ $shortcut })
     .aria-label = Pirmyn
+    .tooltiptext = Vienu tinklalapiu pirmyn ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Įkelti iš naujo
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -319,9 +316,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Naudoti įrašytą slaptažodį
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Naudoti „{ -relay-brand-short-name }“ el. pašto kaukę
     .accesskey = e

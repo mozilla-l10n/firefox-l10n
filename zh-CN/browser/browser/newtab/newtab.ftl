@@ -95,9 +95,6 @@ home-prefs-stocks-header =
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = 每日一图
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = 近期搜索
 home-prefs-mission-message2 =
     .message = 建设一个更好的互联网的使命，离不开我们赞助商的支持。
 home-prefs-manage-topics-link2 =
@@ -447,11 +444,6 @@ newtab-picture-image-alt = 维基共享资源 · 每日一图
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = 近期搜索
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = “近期搜索”选项
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = 详细了解
 # Tab listing the searches the user has made recently.
@@ -789,8 +781,6 @@ newtab-custom-widget-picture-toggle =
     .label = 每日一图
 newtab-custom-widget-search-toggle =
     .label = 搜索
-newtab-custom-widget-recent-searches-toggle =
-    .label = 近期搜索
 newtab-custom-widget-section-title = 小组件
 newtab-custom-widget-section-toggle =
     .label = 小组件

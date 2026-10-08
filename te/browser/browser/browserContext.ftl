@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = ఒక పేజీ వెనుకకు వెళ్ళండి ({ $shortcut })
     .aria-label = వెనుకకు
+    .tooltiptext = ఒక పేజీ వెనుకకు వెళ్ళండి ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = ఒక పేజీ ముందుకు వెళ్ళండి ({ $shortcut })
     .aria-label = ముందుకు
+    .tooltiptext = ఒక పేజీ ముందుకు వెళ్ళండి ({ $shortcut })
 
 ## Reload
 
@@ -260,9 +260,6 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = భద్రపరచిన సంకేతపదాన్ని వాడు
     .accesskey = o
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = బలమైన సంకేతపదాన్ని  సూచించు…
     .accesskey = S

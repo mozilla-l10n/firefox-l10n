@@ -99,9 +99,6 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Eheka
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = Ojeheka ramóva
 home-prefs-mission-message2 =
     .message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue.
 home-prefs-manage-topics-link2 =
@@ -447,11 +444,6 @@ newtab-picture-image-alt = Wikimedia Commons ra’ãnga araguáva
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = Ojeheka ramóva
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = Ojeheka ramóva rapykuere
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Eikuaave
 # Tab listing the searches the user has made recently.
@@ -773,8 +765,6 @@ newtab-custom-widget-picture-toggle =
     .label = Ta’ãnga araguáva
 newtab-custom-widget-search-toggle =
     .label = Eheka
-newtab-custom-widget-recent-searches-toggle =
-    .label = Ojeheka ramóva
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Ina pagina enavos ({ $shortcut })
     .aria-label = Enavos
+    .tooltiptext = Ina pagina enavos ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Ina pagina enavant ({ $shortcut })
     .aria-label = Enavant
+    .tooltiptext = Ina pagina enavant ({ $shortcut })
 
 ## Reload
 
@@ -345,9 +345,6 @@ main-context-menu-send-to-mobile-2 =
 main-context-menu-use-saved-password =
     .label = Utilisar il pled-clav memorisà
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Utilisar in alias dad e-mail da { -relay-brand-short-name }
     .accesskey = e

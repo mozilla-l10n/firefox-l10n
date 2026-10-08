@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Σύνδεση
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Απόρριψη προωθητικής ενέργειας σύνδεσης
     .title = Απόρριψη
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Σύνδεση στο Sync
-appmenu-fxa-sign-in-promo-message = Λάβετε τα δεδομένα σας παντού
-appmenu-fxa-sign-in-promo-button =
-    .label = Σύνδεση
 appmenu-fxa-setup-sync =
     .label = Ενεργοποίηση συγχρονισμού…
 appmenu-fxa-setup-sync-new = Ενεργοποίηση

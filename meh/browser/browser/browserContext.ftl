@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Sniko iin página ({ $shortcut })
     .aria-label = Ichi yata
+    .tooltiptext = Sniko iin página ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Kaka iin página ({ $shortcut })
     .aria-label = Inka
+    .tooltiptext = Kaka iin página ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Nachu'un tuku
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -278,9 +275,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Ni´i contraseña nchuva'a
     .accesskey = g
-
-##
-
 main-context-menu-link-send-to-device =
     .label = Chu´un íchi enlace nuu ka̱a̱-nu
     .accesskey = d

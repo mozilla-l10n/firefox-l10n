@@ -159,12 +159,6 @@ appmenu-fxa-last-sync = Zadnja sinkronizacija { $time }
     .label = Zadnja sinkronizacija { $time }
 appmenu-fxa-sync-and-save-data2 = Sinkroniziraj i spremi podatke
 appmenu-fxa-signed-in-label = Prijavi se
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Prijavi se za sinkronizaciju
-appmenu-fxa-sign-in-promo-message = Pristupi svojim podacima bilo gdje
-appmenu-fxa-sign-in-promo-button =
-    .label = Prijavi se
 appmenu-fxa-setup-sync =
     .label = Uključi sinkronizaciju…
 appmenu-fxa-setup-sync-new = Uključi

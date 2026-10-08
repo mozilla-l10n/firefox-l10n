@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = Rhagor o ddewisiadau ar gyfer { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Tynnu cyfrinair?
-autocomplete-remove-address-title = Dileu cyfeiriad?
-autocomplete-remove-payment-method-title = Dileu dull talu?
 autocomplete-remove-record-message = Does dim modd i chi ddadwneud hyn.
 autocomplete-delete-record-button = Dileu
-autocomplete-remove-record-button = Dileu
 autocomplete-delete-password-title = Dileu cyfrinair?
 autocomplete-delete-address-title = Dileu cyfeiriad?
 autocomplete-delete-payment-method-title = Dileu dull talu?

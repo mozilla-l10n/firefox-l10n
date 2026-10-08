@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Bumalik nang isang pahina ({ $shortcut })
     .aria-label = Bumalik
+    .tooltiptext = Bumalik nang isang pahina ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Pumunta sa susunod na pahina ({ $shortcut })
     .aria-label = Magpatuloy
+    .tooltiptext = Pumunta sa susunod na pahina ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Mag-reload
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -307,9 +304,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Gumamit ng Nai-save na Password
     .accesskey = G
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Magmungkahi ng Malakas na Password...
     .accesskey = M

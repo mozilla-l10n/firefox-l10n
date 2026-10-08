@@ -65,12 +65,8 @@ autocomplete-more-options-for-entry = სხვა  პარამეტრე�
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = წაიშალოს პაროლი?
-autocomplete-remove-address-title = წაიშალოს მისამართი?
-autocomplete-remove-payment-method-title = წაიშალოს გადახდის საშუალება?
 autocomplete-remove-record-message = ეს ქმედება შეუქცევადია.
 autocomplete-delete-record-button = წაშლა
-autocomplete-remove-record-button = მოცილება
 autocomplete-delete-password-title = წაიშალოს პაროლი?
 autocomplete-delete-address-title = წაიშალოს მისამართი?
 autocomplete-delete-payment-method-title = წაიშალოს გადახდის საშუალება?

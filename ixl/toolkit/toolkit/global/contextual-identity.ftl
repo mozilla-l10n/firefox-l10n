@@ -5,8 +5,6 @@
 user-context-manage-containers =
     .label = Tilpu isuuchil unq'a txeyol tetze'
     .accesskey = o
-user-context-manage-containers-panel-item = Tilpu isuuchil unq'a txeyol tetze'
-    .accesskey = o
 user-context-manage-containers2 =
     .label = Tilpu isuuchil unq'a txeyol tetze'
 user-context-manage-containers2-panel-item = Tilpu isuuchil unq'a txeyol tetze'

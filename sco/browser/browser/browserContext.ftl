@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Gang back ane page ({ $shortcut })
     .aria-label = Gang back
+    .tooltiptext = Gang back ane page ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Gang forrit ane page ({ $shortcut })
     .aria-label = Forrit
+    .tooltiptext = Gang forrit ane page ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Reload
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -262,9 +259,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Yaise Saved Passwird
     .accesskey = i
-
-##
-
 main-context-menu-suggest-strong-password =
     .label = Propone Strang Passwird…
     .accesskey = S

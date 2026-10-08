@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Eng Säit zréckgoen ({ $shortcut })
     .aria-label = Zréck
+    .tooltiptext = Eng Säit zréckgoen ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Eng Säit no vir goen ({ $shortcut })
     .aria-label = Virun
+    .tooltiptext = Eng Säit no vir goen ({ $shortcut })
 
 ## Reload
 
@@ -104,9 +104,6 @@ toolbar-button-stop-reload =
 toolbar-button-stop-reload-2 =
     .title = Nei lueden
 
-## Account toolbar Button
-
-
 ## Save Page
 
 main-context-menu-page-save =
@@ -127,23 +124,9 @@ main-context-menu-open-link-new-private-window =
 
 ##
 
-
-## Media (video/audio) controls
-##
-## The accesskey for "Play" and "Pause" are the
-## same because the two context-menu items are
-## mutually exclusive.
-
-
-##
-
 main-context-menu-media-loop =
     .label = Endlosschläif
     .accesskey = L
-
-## The access keys for "Show Controls" and "Hide Controls" are the same
-## because the two context-menu items are mutually exclusive.
-
 
 ## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
@@ -159,9 +142,6 @@ main-context-menu-image-reload =
 main-context-menu-image-info =
     .label = Informatioune vum Bild weisen
     .accesskey = f
-
-##
-
 
 ##
 

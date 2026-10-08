@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Hasi saioa
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Baztertu saio-hasierako sustapena
     .title = Baztertu
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Hasi saioa sinkronizatzeko
-appmenu-fxa-sign-in-promo-message = Izan zure datuak edonon
-appmenu-fxa-sign-in-promo-button =
-    .label = Hasi saioa
 appmenu-fxa-setup-sync =
     .label = Gaitu sinkronizazioa…
 appmenu-fxa-setup-sync-new = Aktibatu

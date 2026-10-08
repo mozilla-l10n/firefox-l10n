@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Til baka um eina síðu ({ $shortcut })
     .aria-label = Til baka
+    .tooltiptext = Til baka um eina síðu ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Áfram um eina síðu ({ $shortcut })
     .aria-label = Áfram
+    .tooltiptext = Áfram um eina síðu ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Tengdu tæki til að 
 main-context-menu-use-saved-password =
     .label = Nota vistað lykilorð
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Notaðu { -relay-brand-short-name } tölvupósthulu
     .accesskey = o

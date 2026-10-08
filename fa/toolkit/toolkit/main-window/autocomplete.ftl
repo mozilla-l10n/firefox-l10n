@@ -59,12 +59,8 @@ autocomplete-more-options-for-entry = گزینه‌های بیشتر برای { 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = گذرواژه برداشته شود؟
-autocomplete-remove-address-title = نشانی برداشته شود؟
-autocomplete-remove-payment-method-title = روش پرداخت برداشته شود؟
 autocomplete-remove-record-message = این کار برگشت‌پذیر نیست.
 autocomplete-delete-record-button = حذف
-autocomplete-remove-record-button = حذف
 autocomplete-delete-password-title = گذرواژه حذف شود؟
 autocomplete-delete-address-title = نشانی حذف شود؟
 autocomplete-delete-payment-method-title = روش پرداخت حذف شود؟

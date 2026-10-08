@@ -99,9 +99,6 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Caută
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = Căutări recente
 home-prefs-mission-message2 =
     .message = Sponsorii noștri ne susțin misiunea de a construi un web mai bun.
 home-prefs-manage-topics-link2 =
@@ -511,11 +508,6 @@ newtab-picture-image-alt = Imaginea zilei de pe Wikimedia Commons
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = Căutări recente
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = Opțiuni căutări recente
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = Află mai multe
 # Tab listing the searches the user has made recently.
@@ -850,8 +842,6 @@ newtab-custom-widget-picture-toggle =
     .label = Imaginea zilei
 newtab-custom-widget-search-toggle =
     .label = Căutare
-newtab-custom-widget-recent-searches-toggle =
-    .label = Căutări recente
 newtab-custom-widget-section-title = Widgeturi
 newtab-custom-widget-section-toggle =
     .label = Widgeturi

@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = 로그인
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = 로그인 프로모션 닫기
     .title = 닫기
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Sync에 로그인
-appmenu-fxa-sign-in-promo-message = 어디서나 데이터 가져오기
-appmenu-fxa-sign-in-promo-button =
-    .label = 로그인
 appmenu-fxa-setup-sync =
     .label = 동기화 켜기…
 appmenu-fxa-setup-sync-new = 켜기

@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = ഒരു താള്‍ പുറകോട്ട്‌ പോകുക ({ $shortcut })
     .aria-label = പുറകോട്ട്‌
+    .tooltiptext = ഒരു താള്‍ പുറകോട്ട്‌ പോകുക ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = ഒരു താള്‍ മുന്നോട്ട്‌ പോകുക ({ $shortcut })
     .aria-label = മുമ്പോട്ട്
+    .tooltiptext = ഒരു താള്‍ മുന്നോട്ട്‌ പോകുക ({ $shortcut })
 
 ## Reload
 
@@ -340,9 +340,6 @@ main-context-menu-send-to-mobile-enable-sync-from-page = താൾ അയയ്�
 main-context-menu-use-saved-password =
     .label = കരുതിവച്ച ഒളിവാക്കിനെ ഉപയോഗിക്കുക
     .accesskey = ഉ
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-ന്റെ ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
     .accesskey = ഉ

@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Komenci seancon
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Ignorio promocion pri komenco de seanco
     .title = Ignori
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Komenci seancon por speguli
-appmenu-fxa-sign-in-promo-message = Aliru viajn datumojn el ie ajn
-appmenu-fxa-sign-in-promo-button =
-    .label = Komenci seancon
 appmenu-fxa-setup-sync =
     .label = Ŝalti speguladon…
 appmenu-fxa-setup-sync-new = Ŝalti

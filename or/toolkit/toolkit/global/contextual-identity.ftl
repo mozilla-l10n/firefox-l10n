@@ -5,8 +5,6 @@
 user-context-manage-containers =
     .label = କଣ୍ଟେନର ପରିଚାଳନା କରନ୍ତୁ
     .accesskey = କ
-user-context-manage-containers-panel-item = କଣ୍ଟେନର ପରିଚାଳନା କରନ୍ତୁ
-    .accesskey = କ
 user-context-manage-containers2 =
     .label = କଣ୍ଟେନର ପରିଚାଳନା କରନ୍ତୁ
 user-context-manage-containers2-panel-item = କଣ୍ଟେନର ପରିଚାଳନା କରନ୍ତୁ

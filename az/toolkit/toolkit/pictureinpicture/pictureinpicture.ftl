@@ -4,10 +4,6 @@
 
 pictureinpicture-player-title = Şəkildə-Şəkil
 
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
-
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -17,35 +13,32 @@ pictureinpicture-player-title = Şəkildə-Şəkil
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 pictureinpicture-pause-btn =
-    .tooltip = Fasilə (Boşluq)
     .aria-label = Fasilə
+    .tooltip = Fasilə (Boşluq)
 pictureinpicture-play-btn =
-    .tooltip = Oynat (Boşluq)
     .aria-label = Oynat
+    .tooltip = Oynat (Boşluq)
 pictureinpicture-mute-btn =
-    .tooltip = Səssiz et ({ $shortcut })
     .aria-label = Səssiz et
+    .tooltip = Səssiz et ({ $shortcut })
 pictureinpicture-unmute-btn =
-    .tooltip = Səsi aç ({ $shortcut })
     .aria-label = Səsi aç
+    .tooltip = Səsi aç ({ $shortcut })
 pictureinpicture-unpip-btn =
-    .tooltip = Vərəqə qayıt
     .aria-label = Vərəqə geri göndər
+    .tooltip = Vərəqə qayıt
 pictureinpicture-close-btn =
-    .tooltip = Bağla ({ $shortcut })
     .aria-label = Bağla
+    .tooltip = Bağla ({ $shortcut })
 pictureinpicture-subtitles-btn =
-    .tooltip = Altyazılar
     .aria-label = Altyazılar
+    .tooltip = Altyazılar
 pictureinpicture-fullscreen-btn2 =
-    .tooltip = Tam ekran (iki dəfə kliklə və ya { $shortcut })
     .aria-label = Tam ekran
+    .tooltip = Tam ekran (iki dəfə kliklə və ya { $shortcut })
 pictureinpicture-exit-fullscreen-btn2 =
-    .tooltip = Tam ekrandan çıx (iki dəfə kliklə və ya { $shortcut })
     .aria-label = Tam ekrandan çıx
-
-##
-
+    .tooltip = Tam ekrandan çıx (iki dəfə kliklə və ya { $shortcut })
 
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
@@ -53,11 +46,11 @@ pictureinpicture-exit-fullscreen-btn2 =
 ## DOM node that then shows the tooltip.
 
 pictureinpicture-seekbackward-btn =
-    .tooltip = Geriyə (←)
     .aria-label = Geriyə
+    .tooltip = Geriyə (←)
 pictureinpicture-seekforward-btn =
-    .tooltip = İrəliyə (→)
     .aria-label = İrəliyə
+    .tooltip = İrəliyə (→)
 
 ##
 

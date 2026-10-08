@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱛᱟᱭᱚᱢ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
     .aria-label = ᱛᱟᱭᱚᱢ
+    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱛᱟᱭᱚᱢ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱞᱟᱦᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
     .aria-label = ᱞᱟᱦᱟ
+    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱞᱟᱦᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
 
 ## Reload
 
@@ -331,9 +331,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = E

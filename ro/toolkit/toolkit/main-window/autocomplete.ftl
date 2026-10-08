@@ -46,12 +46,8 @@ autocomplete-more-actions2 = Mai multe acțiuni pentru { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Elimini parola?
-autocomplete-remove-address-title = Elimini adresa?
-autocomplete-remove-payment-method-title = Elimini metoda de plată?
 autocomplete-remove-record-message = Acțiunea este ireversibilă.
 autocomplete-delete-record-button = Șterge
-autocomplete-remove-record-button = Elimină
 autocomplete-delete-password-title = Ștergi parola?
 autocomplete-delete-address-title = Ștergi adresa?
 autocomplete-delete-payment-method-title = Ștergi metoda de plată?

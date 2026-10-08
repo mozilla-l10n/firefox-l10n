@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Գնալ Նախորդ Էջ ({ $shortcut })
     .aria-label = Նախորդը
+    .tooltiptext = Գնալ Նախորդ Էջ ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Գնալ մեկ Էջ առաջ ({ $shortcut })
     .aria-label = Հաջորդը
+    .tooltiptext = Գնալ մեկ Էջ առաջ ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Միացրեք սար
 main-context-menu-use-saved-password =
     .label = Օգտվել պահված գաղտնաբառից
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Օգտագործել { -relay-brand-short-name } Էլ․ փոստի դիմակը
     .accesskey = Է

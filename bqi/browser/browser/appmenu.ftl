@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = و من ٱووڌن
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = رڌ کردن تبلیق و من ٱووڌن و سیستوم
     .title = رڌ کردن
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = سی هوم گوم کردن و من بیاین
-appmenu-fxa-sign-in-promo-message = داده یل خوتووݩ ز همه جا بگرین
-appmenu-fxa-sign-in-promo-button =
-    .label = و من ٱووڌن
 appmenu-fxa-setup-sync =
     .label = رۊشن کردن هوم گوم کردن…
 appmenu-fxa-setup-sync-new = رۊشن کردن

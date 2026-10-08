@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = တစ်မျက်နှာ နောက်ဆုတ်ပါ ({ $shortcut })
     .aria-label = နောက်သို့
+    .tooltiptext = တစ်မျက်နှာ နောက်ဆုတ်ပါ ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = တစ်မျက်နှာ ရှေ့သွားပါ ({ $shortcut })
     .aria-label = ရှေ့သို့
+    .tooltiptext = တစ်မျက်နှာ ရှေ့သွားပါ ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = ပြန်ဖွင့်ပါ
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -213,9 +210,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = အော်ဒီယိုကို အီးမေးလ်ပို့ရန်…
     .accesskey = a
-
-##
-
 
 ##
 

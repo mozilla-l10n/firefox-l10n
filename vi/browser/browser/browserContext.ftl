@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Trở lại trang trước ({ $shortcut })
     .aria-label = Quay lại
+    .tooltiptext = Trở lại trang trước ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Tiến đến một trang ({ $shortcut })
     .aria-label = Tiếc tục
+    .tooltiptext = Tiến đến một trang ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Kết nối với thi
 main-context-menu-use-saved-password =
     .label = Sử dụng mật khẩu đã lưu
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Sử dụng email ẩn danh { -relay-brand-short-name }
     .accesskey = E

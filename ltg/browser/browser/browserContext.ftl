@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Paīt vīnu lopu atpakaļ ({ $shortcut })
     .aria-label = Atpakaļ
+    .tooltiptext = Paīt vīnu lopu atpakaļ ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Paīt vīnu lopu iz prīšku ({ $shortcut })
     .aria-label = Iz prīšku
+    .tooltiptext = Paīt vīnu lopu iz prīšku ({ $shortcut })
 
 ## Reload
 
@@ -103,9 +103,6 @@ toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 toolbar-button-stop-reload-2 =
     .title = Puorluodeit
-
-## Account toolbar Button
-
 
 ## Save Page
 
@@ -213,9 +210,6 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Nūsyuteit audio…
     .accesskey = a
-
-##
-
 
 ##
 

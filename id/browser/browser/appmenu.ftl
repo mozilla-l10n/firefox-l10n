@@ -160,12 +160,6 @@ appmenu-fxa-last-sync = Terakhir disinkronkan { $time }
     .label = Terakhir disinkronkan { $time }
 appmenu-fxa-sync-and-save-data2 = Sinkronkan dan Simpan Data
 appmenu-fxa-signed-in-label = Masuk
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Masuk untuk menyinkronkan
-appmenu-fxa-sign-in-promo-message = Dapatkan data Anda di mana saja
-appmenu-fxa-sign-in-promo-button =
-    .label = Masuk
 appmenu-fxa-setup-sync =
     .label = Aktifkan Sinkronisasi…
 appmenu-fxa-setup-sync-new = Nyalakan

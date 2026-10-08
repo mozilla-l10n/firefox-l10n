@@ -65,11 +65,7 @@ autocomplete-more-options-for-entry = Vairāk { $entry } iespēju
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Noņemt paroli?
-autocomplete-remove-address-title = Noņemt adresi?
-autocomplete-remove-payment-method-title = Noņemt maksājuma veidu?
 autocomplete-remove-record-message = Šo darbību nevar atsaukt.
-autocomplete-remove-record-button = Noņemt
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

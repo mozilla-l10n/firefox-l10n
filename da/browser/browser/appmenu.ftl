@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Log ind
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Afvis login-kampagne
     .title = Afvis
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Log ind for at synkronisere
-appmenu-fxa-sign-in-promo-message = Få adgang til dine data overalt
-appmenu-fxa-sign-in-promo-button =
-    .label = Log ind
 appmenu-fxa-setup-sync =
     .label = Slå synkronisering til…
 appmenu-fxa-setup-sync-new = Slå til

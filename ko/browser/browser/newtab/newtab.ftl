@@ -105,9 +105,6 @@ home-prefs-search-widget-header =
 # Horoscopes is a widget on New Tab that shows daily horoscopes.
 home-prefs-horoscopes-header =
     .label = 오늘의 운세
-# Recent searches is a widget on New Tab that shows the user's recent searches.
-home-prefs-recent-searches-header =
-    .label = 최근 검색
 home-prefs-mission-message2 =
     .message = 스폰서는 더 나은 웹을 만들려는 저희를 지원합니다.
 home-prefs-manage-topics-link2 =
@@ -313,23 +310,12 @@ newtab-privacy-message-first-protection-cta = 보호 기능 보기
 newtab-stocks-menu-learn-more = 더 알아보기
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = 주식 데이터가 없습니다.
-# "Finance options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button2 =
-    .aria-label = 금융 옵션
-    .title = 금융 옵션
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
 newtab-stocks-widget-menu-button =
     .aria-label = 주식 위젯 옵션
     .title = 주식 위젯 옵션
-# Tooltip and screen reader label for the icon-only button that opens the
-# widget's menu.
-newtab-stocks-widget-open-menu-button =
-    .aria-label = 주식 메뉴 열기
-    .title = 주식 메뉴 열기
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -360,9 +346,6 @@ newtab-stocks-list-watchlist = 관심 종목
     .label = 관심 종목
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = 이름 또는 기호로 검색
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = 금융
@@ -499,11 +482,6 @@ newtab-picture-image-alt = 위키미디어 공용 오늘의 사진
 
 ## Strings for the Search widget
 
-# Widget heading; also the widget's accessible name.
-newtab-recent-searches-widget-title = 최근 검색
-# Screen reader label for the widget's icon-only menu button.
-newtab-recent-searches-widget-menu-button =
-    .aria-label = 최근 검색 옵션
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = 더 알아보기
 # Tab listing the searches the user has made recently.
@@ -856,8 +834,6 @@ newtab-custom-widget-search-toggle =
     .label = 검색
 newtab-custom-widget-horoscopes-toggle =
     .label = 오늘의 운세
-newtab-custom-widget-recent-searches-toggle =
-    .label = 최근 검색
 newtab-custom-widget-section-title = 위젯
 newtab-custom-widget-section-toggle =
     .label = 위젯

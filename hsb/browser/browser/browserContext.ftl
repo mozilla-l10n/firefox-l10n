@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Jednu stronu wróćo ({ $shortcut })
     .aria-label = Wróćo
+    .tooltiptext = Jednu stronu wróćo ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Jednu stronu doprědka ({ $shortcut })
     .aria-label = Doprědka
+    .tooltiptext = Jednu stronu doprědka ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Zwjazajće grat, zo b
 main-context-menu-use-saved-password =
     .label = Składowane hesło wužiwać
     .accesskey = h
-
-##
-
 main-context-menu-use-relay-mask =
     .label = E-mejlowu masku { -relay-brand-short-name } wužiwać
     .accesskey = E

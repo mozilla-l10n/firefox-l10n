@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Oanmelde
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Oanmeldpromo slute
     .title = Slute
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Oanmelde om te syngronisearjen
-appmenu-fxa-sign-in-promo-message = Benaderje jo gegevens oeral
-appmenu-fxa-sign-in-promo-button =
-    .label = Oanmelde
 appmenu-fxa-setup-sync =
     .label = Syngronisaasje ynskeakelje…
 appmenu-fxa-setup-sync-new = Ynskeakelje

@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Mont d’ar bajennad kent ({ $shortcut })
     .aria-label = Kent
+    .tooltiptext = Mont d’ar bajennad kent ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Mont d’ar bajennad war-lerc’h ({ $shortcut })
     .aria-label = War-lerc’h
+    .tooltiptext = Mont d’ar bajennad war-lerc’h ({ $shortcut })
 
 ## Reload
 
@@ -339,9 +339,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Implijout ar ger-tremen enrollet
     .accesskey = g
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Implijout aliazoù chomlec'h postel { -relay-brand-short-name }
     .accesskey = I

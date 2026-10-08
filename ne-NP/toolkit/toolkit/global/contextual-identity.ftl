@@ -27,17 +27,6 @@ user-context-banking2 =
 user-context-shopping2 =
     .label = किनमेल
 
-##
-
-user-context-personal-panel-item = व्यक्तिगत
-    .accesskey = व
-user-context-work-panel-item = काम
-    .accesskey = W
-user-context-banking-panel-item = बैङ्किङ
-    .accesskey = ब
-user-context-shopping-panel-item = किनमेल
-    .accesskey = क
-
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =

@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Մուտք գործել
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Մուտք գործելու ակցիան փակել
     .title = Բաց թողնել
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Մուտք գործել համաժամեցում
-appmenu-fxa-sign-in-promo-message = Ստացեք ձեր տվյալները ամենուրեք
-appmenu-fxa-sign-in-promo-button =
-    .label = Մուտք գործել
 appmenu-fxa-setup-sync =
     .label = Միացնել համաժամացումը…
 appmenu-fxa-setup-sync-new = Միացնել

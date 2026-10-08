@@ -5,8 +5,6 @@
 user-context-manage-containers =
     .label = কণ্টেইনাৰ পৰিচালনা কৰক
     .accesskey = o
-user-context-manage-containers-panel-item = কণ্টেইনাৰ পৰিচালনা কৰক
-    .accesskey = o
 user-context-manage-containers2 =
     .label = কণ্টেইনাৰ পৰিচালনা কৰক
 user-context-manage-containers2-panel-item = কণ্টেইনাৰ পৰিচালনা কৰক

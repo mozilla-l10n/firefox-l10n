@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = წინა გვერდი ({ $shortcut })
     .aria-label = წინა
+    .tooltiptext = წინა გვერდი ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = მომდევნო გვერდი ({ $shortcut })
     .aria-label = მომდევნო
+    .tooltiptext = მომდევნო გვერდი ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = დააკავშ
 main-context-menu-use-saved-password =
     .label = შენახული პაროლის გამოყენება
     .accesskey = ო
-
-##
-
 main-context-menu-use-relay-mask =
     .label = გამოიყენეთ { -relay-brand-short-name } ელფოსტის შესანიღბად
     .accesskey = ე

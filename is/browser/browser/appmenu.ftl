@@ -160,12 +160,6 @@ appmenu-fxa-last-sync = Síðast samstillt { $time }
     .label = Síðast samstillt { $time }
 appmenu-fxa-sync-and-save-data2 = Samstilla og vista gögn
 appmenu-fxa-signed-in-label = Innskráning
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Skráðu þig inn til að samstilla
-appmenu-fxa-sign-in-promo-message = Fáðu gögnin þín alls staðar
-appmenu-fxa-sign-in-promo-button =
-    .label = Skrá inn
 appmenu-fxa-setup-sync =
     .label = Kveikja á samstillingu…
 appmenu-fxa-setup-sync-new = Kveikja á

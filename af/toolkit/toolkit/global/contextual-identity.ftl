@@ -27,17 +27,6 @@ user-context-banking2 =
 user-context-shopping2 =
     .label = Inkopies
 
-##
-
-user-context-personal-panel-item = Persoonlik
-    .accesskey = P
-user-context-work-panel-item = Werk
-    .accesskey = W
-user-context-banking-panel-item = Bankdienste
-    .accesskey = B
-user-context-shopping-panel-item = Inkopies
-    .accesskey = s
-
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =

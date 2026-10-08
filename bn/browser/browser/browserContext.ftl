@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = পূর্ববর্তী পাতায় ফিরে যান ({ $shortcut })
     .aria-label = পূর্ববর্তী
+    .tooltiptext = পূর্ববর্তী পাতায় ফিরে যান ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = পরবর্তী পাতায় যাও ({ $shortcut })
     .aria-label = পরবর্তী
+    .tooltiptext = পরবর্তী পাতায় যাও ({ $shortcut })
 
 ## Reload
 
@@ -322,9 +322,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = সংরক্ষিত পাসওয়ার্ড ব্যবহার করুন
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ইমেল মাস্ক ব্যবহার করুন
     .accesskey = E

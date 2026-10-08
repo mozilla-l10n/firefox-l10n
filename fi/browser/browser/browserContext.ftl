@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Siirry sivu taaksepäin ({ $shortcut })
     .aria-label = Edellinen
+    .tooltiptext = Siirry sivu taaksepäin ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Siirry sivu eteenpäin ({ $shortcut })
     .aria-label = Seuraava
+    .tooltiptext = Siirry sivu eteenpäin ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Yhdistä laite lähet
 main-context-menu-use-saved-password =
     .label = Käytä tallennettua salasanaa
     .accesskey = s
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Käytä { -relay-brand-short-name }-sähköpostimaskia
     .accesskey = E

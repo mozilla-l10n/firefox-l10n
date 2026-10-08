@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = Torne indaûr di une pagjine ({ $shortcut })
     .aria-label = Indaûr
+    .tooltiptext = Torne indaûr di une pagjine ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = Va indenant di une pagjine ({ $shortcut })
     .aria-label = Indenant
+    .tooltiptext = Va indenant di une pagjine ({ $shortcut })
 
 ## Reload
 
@@ -357,9 +357,6 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Conet un dispositîf 
 main-context-menu-use-saved-password =
     .label = Dopre password salvade
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = Dopre une mascare di pueste eletroniche { -relay-brand-short-name }
     .accesskey = E

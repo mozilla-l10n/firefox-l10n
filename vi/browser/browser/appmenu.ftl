@@ -168,12 +168,6 @@ appmenu-fxa-sign-in-promo-link = Đăng nhập
 appmenu-fxa-sign-in-promo-dismiss-button =
     .aria-label = Bỏ qua biểu ngữ đăng nhập
     .title = Bỏ qua
-# Sign-in promo shown in the app menu when signed out and no menu message or
-# update banner is present, prompting the user to sign in and sync.
-appmenu-fxa-sign-in-promo-heading = Đăng nhập để đồng bộ hóa
-appmenu-fxa-sign-in-promo-message = Mang dữ liệu của bạn đi khắp mọi nơi
-appmenu-fxa-sign-in-promo-button =
-    .label = Đăng nhập
 appmenu-fxa-setup-sync =
     .label = Bật đồng bộ hóa…
 appmenu-fxa-setup-sync-new = Bật

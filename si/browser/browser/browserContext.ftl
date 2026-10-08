@@ -34,8 +34,8 @@ toolbar-button-back-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Back command.
 main-context-menu-back-3 =
-    .tooltiptext = පිටුවක් ආපසු ({ $shortcut })
     .aria-label = ආපසු
+    .tooltiptext = පිටුවක් ආපසු ({ $shortcut })
 
 ## Forward
 
@@ -62,8 +62,8 @@ toolbar-button-forward-2 =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
-    .tooltiptext = පිටුවක් ඉදිරියට ({ $shortcut })
     .aria-label = ඉදිරියට
+    .tooltiptext = පිටුවක් ඉදිරියට ({ $shortcut })
 
 ## Reload
 
@@ -322,9 +322,6 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = සුරැකි මුරපදය භාවිතය
     .accesskey = o
-
-##
-
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } වි-තැපැල් වැස්ම යොදාගන්න
     .accesskey = E

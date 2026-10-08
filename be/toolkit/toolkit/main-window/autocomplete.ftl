@@ -46,11 +46,7 @@ autocomplete-more-actions2 = Больш дзеянняў для { $entry }
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
-autocomplete-remove-password-title = Выдаліць пароль?
-autocomplete-remove-address-title = Выдаліць адрас?
-autocomplete-remove-payment-method-title = Выдаліць спосаб аплаты?
 autocomplete-remove-record-message = Вы не зможаце адмяніць гэта дзеянне.
-autocomplete-remove-record-button = Выдаліць
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms
