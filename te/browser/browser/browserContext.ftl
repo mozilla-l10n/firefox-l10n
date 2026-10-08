@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = వెనుకకు
     .accesskey = B
+toolbar-button-back-3 =
+    .label = వెనుకకు
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -228,6 +230,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = భద్రపరచిన సంకేతపదాన్ని వాడు
     .accesskey = o
+
+##
+
 main-context-menu-suggest-strong-password =
     .label = బలమైన సంకేతపదాన్ని  సూచించు…
     .accesskey = S
