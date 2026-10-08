@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Terminé
 default-browser-guidance-notification-v2-title = Finir de faire de { -brand-short-name } votre navigateur par défaut
 default-browser-guidance-notification-v2-body = Dans les paramètres, sélectionnez « Définir par défaut » pour { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Faites de { -brand-short-name } votre navigateur par défaut dans les paramètres
+default-browser-guidance-notification-auto-trigger-title = Ouvrez vos liens avec { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Choisissez { -brand-short-name } comme navigateur par défaut dans les paramètres.

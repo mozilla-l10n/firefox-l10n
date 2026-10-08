@@ -1140,6 +1140,10 @@ prefs-syncing-off = Synkronisering: AV
 prefs-syncing-off-2 =
     .description = Aktivera synkronisering för att få tillgång till dina bokmärken, lösenord, historik och mer på vilken enhet som helst.
     .label = Synkronisering är AV
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Aktivera synkronisering för att få dina bokmärken, lösenord, historik och mer på den här enheten.
+    .label = Synkronisering är AV
 prefs-sync-turn-on-syncing =
     .label = Aktivera synkronisering…
     .accesskey = A
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Du synkroniserar dessa objekt mellan alla dina anslutna enheter:
 sync-syncing-across-devices-heading-2 = Data synkroniserad mellan enheter
+sync-syncing-across-devices-heading-3 = Data synkroniseras på denna enhet
 sync-syncing-across-devices-empty-state2 =
     .description = Du synkroniserar ingenting ... ännu. Börja synkronisera för att få all din data på alla dina enheter.
     .label = Hantera synkroniserad data
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = f
     .style = min-width: 36em;
     .title = Hantera vad som synkroniseras på alla dina anslutna enheter
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Spara
+    .buttonlabelextra2 = Koppla ifrån…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Hantera vad som synkroniseras på den här enheten
 
 ## The device name controls.
 

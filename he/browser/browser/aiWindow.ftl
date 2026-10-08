@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = פתיחת חלון פרטי חדש
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = חלון קלאסי
+toolbar-switcher-customizable-label-v2 =
+    .label = המחליף של { -smart-window-brand-name }
+    .tooltiptext = מעבר בין חלונות חכמים לחלונות קלאסיים
 
 ## Input CTA
 

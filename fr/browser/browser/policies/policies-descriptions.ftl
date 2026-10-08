@@ -59,6 +59,7 @@ policy-DisableForgetButton = Empêcher l’accès au bouton d’effacement des d
 policy-DisableFormHistory = Désactiver la conservation de l’historique des recherches et des formulaires.
 policy-DisableLaunchOnLogin = Empêcher { -brand-short-name } de se lancer automatiquement lorsque l’utilisateur se connecte.
 policy-DisablePrimaryPasswordCreation = Si la valeur est sur true, la création d’un mot de passe principal est impossible.
+policy-DisablePasswordReveal2 = Ne pas permettre de révéler les mots de passe dans les champs d’identifiants enregistrés ou de mots de passe.
 policy-DisablePasswordReveal = Ne pas permettre de révéler les mots de passe dans les identifiants enregistrés.
 policy-DisablePrivateBrowsing = Désactiver la navigation privée.
 policy-DisableProfileImport = Désactiver la commande de menu permettant d’importer des données à partir d’un autre navigateur.

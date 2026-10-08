@@ -1310,6 +1310,17 @@ restore-session-startup-suggestion-button = Visa mig hur
 
 filepicker-blocked-infobar = Din organisation har blockerat åtkomst till lokala filer på den här datorn
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } söker nu flikar
+urlbar-addons-shortcut-moved-description = För att öppna tillägg och teman, använd { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Hantera genvägar
+urlbar-addons-shortcut-moved-dismiss = Jag förstår
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } skickar automatiskt viss data till { -vendor-short-name } så att vi kan göra förbättringar.

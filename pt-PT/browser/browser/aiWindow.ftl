@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Janela Clássica
 toolbar-switcher-customizable-label =
     .label = Comutador { -smart-window-brand-name }
     .tooltiptext = Alternar entre as janelas Inteligentes e Clássicas.
+toolbar-switcher-customizable-label-v2 =
+    .label = Comutador { -smart-window-brand-name }
+    .tooltiptext = Alterne entre as Janelas Smart e Clássicas
 
 ## Input CTA
 

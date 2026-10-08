@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Klar
 default-browser-guidance-notification-v2-title = Slutför att göra { -brand-short-name } till din standardwebbläsare
 default-browser-guidance-notification-v2-body = I Inställningar väljer du “Ange standard” för { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Slutför att göra { -brand-short-name } till din standardwebbläsare i Inställningar
+default-browser-guidance-notification-auto-trigger-title = Öppna dina länkar med { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Välj { -brand-short-name } som din standardwebbläsare i inställningarna.

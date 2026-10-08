@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klassiskt fönster
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name } växlare
     .tooltiptext = Växla mellan smarta och klassiska fönster.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } växlare
+    .tooltiptext = Växla mellan smarta och klassiska fönster
 
 ## Input CTA
 
