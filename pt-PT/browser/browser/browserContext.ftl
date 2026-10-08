@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Seguinte
     .accesskey = S
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Avançar uma página ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Seguinte
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Avançar uma página ({ $shortcut })
+    .aria-label = Seguinte
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Conectar um Dispositi
 main-context-menu-use-saved-password =
     .label = Utilizar palavra-passe guardada
     .accesskey = u
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Utilizar a máscara de e-mail do { -relay-brand-short-name }
     .accesskey = U
