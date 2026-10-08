@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Tiến
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Tiến đến một trang ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Tiếc tục
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Tiến đến một trang ({ $shortcut })
+    .aria-label = Tiếc tục
 
 ## Reload
 
@@ -52,8 +63,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Tải lại
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Tải lại
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Tải lại
 
 ## Stop
 
@@ -64,13 +79,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Dừng
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Dừng
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Dừng
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Tải lại
 
 ## Account toolbar Button
 
@@ -309,6 +330,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Kết nối với thi
 main-context-menu-use-saved-password =
     .label = Sử dụng mật khẩu đã lưu
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Sử dụng email ẩn danh { -relay-brand-short-name }
     .accesskey = E
