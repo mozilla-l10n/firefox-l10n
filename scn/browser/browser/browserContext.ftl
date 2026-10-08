@@ -15,10 +15,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Nn’arrè
     .accesskey = a
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Vai na pàggina nn’arrè ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Nn’arrè
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Vai na pàggina nn’arrè ({ $shortcut })
+    .aria-label = Nn’arrè
 
 ## Forward
 
