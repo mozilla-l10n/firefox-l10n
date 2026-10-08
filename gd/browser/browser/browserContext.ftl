@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Air ais
     .accesskey = B
+toolbar-button-back-3 =
+    .label = Air ais
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -63,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Ath-luchdaich
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Ath-luchdaich
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Ath-luchdaich
 
 ## Stop
 
@@ -75,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Sguir dheth
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Sguir dheth
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Sguir dheth
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Ath-luchdaich
 
 ## Account toolbar Button
 
@@ -113,6 +125,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Deasaich an comharra-lìn…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Dèan comharra-lìn dhen duilleag…
+    .tooltiptext = Dèan comharra-lìn dhen duilleag ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Deasaich an comharra-lìn…
+    .tooltiptext = Deasaich an comharra-lìn
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Deasaich an comharra-lìn…
+    .tooltiptext = Deasaich an comharra-lìn ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -153,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Sàbhail an ceangal mar…
     .accesskey = S
+main-context-menu-bookmark-page-2 =
+    .aria-label = Dèan comharra-lìn dhen duilleag…
+    .tooltiptext = Dèan comharra-lìn dhen duilleag
 
 ##
 
