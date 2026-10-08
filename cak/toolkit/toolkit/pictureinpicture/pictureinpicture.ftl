@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Picture-in-Picture
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -19,6 +23,9 @@ pictureinpicture-close-btn =
     .aria-label = Titz'apïx
     .tooltip = Titz'apïx ({ $shortcut })
 
+##
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -30,6 +37,14 @@ pictureinpicture-seekforward-btn =
 
 ##
 
+pictureinpicture-font-size-group =
+    .label = Runimilem tz'ib'
+pictureinpicture-font-size-small-radio =
+    .label = Ko'öl
+pictureinpicture-font-size-medium-radio =
+    .label = Loman
+pictureinpicture-font-size-large-radio =
+    .label = Nïm
 pictureinpicture-font-size-label = Runimilem tz'ib'
 pictureinpicture-font-size-small = Ko'öl
 pictureinpicture-font-size-medium = Loman
