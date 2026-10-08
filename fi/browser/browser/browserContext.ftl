@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Edellinen
     .accesskey = E
+toolbar-button-back-3 =
+    .label = Edellinen
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -63,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Päivitä
     .accesskey = P
+toolbar-button-reload-2 =
+    .label = Päivitä
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Päivitä
 
 ## Stop
 
@@ -75,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Pysäytä
     .accesskey = P
+toolbar-button-stop-2 =
+    .label = Pysäytä
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Pysäytä
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Päivitä
 
 ## Account toolbar Button
 
