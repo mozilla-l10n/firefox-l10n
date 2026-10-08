@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Вперёд
     .accesskey = В
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = На следующую страницу ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Вперёд
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = На следующую страницу ({ $shortcut })
+    .aria-label = Вперёд
 
 ## Reload
 
@@ -104,6 +115,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = м
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Добавить страницу в закладки…
+    .tooltiptext = Добавить страницу в закладки ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Изменить закладку…
+    .tooltiptext = Изменить закладку
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Изменить закладку…
+    .tooltiptext = Изменить закладку ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Добавить страницу в закладки…
     .tooltiptext = Добавить страницу в закладки ({ $shortcut })
@@ -142,6 +166,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Сохранить объект как…
     .accesskey = С
+main-context-menu-bookmark-page-2 =
+    .aria-label = Добавить страницу в закладки…
+    .tooltiptext = Добавить страницу в закладки
 
 ##
 
@@ -309,6 +336,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Подключить 
 main-context-menu-use-saved-password =
     .label = Использовать сохранённый пароль
     .accesskey = н
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Использовать псевдоним эл. почты { -relay-brand-short-name }
     .accesskey = н
