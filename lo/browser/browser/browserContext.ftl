@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = ກັບຄືນ
     .accesskey = B
+toolbar-button-back-3 =
+    .label = ກັບຄືນ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -63,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = ໂຫລດໃຫມ່
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = ໂຫລດໃຫມ່
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = ໂຫລດໃຫມ່
 
 ## Stop
 
@@ -75,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = ຢຸດ
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = ຢຸດ
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = ຢຸດ
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = ໂຫລດໃຫມ່
 
 ## Account toolbar Button
 
