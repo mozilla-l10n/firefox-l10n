@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = w
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Blêdwizer foar side meitsje…
+    .tooltiptext = Blêdwizer foar side meitsje ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Blêdwizer bewurkje…
+    .tooltiptext = Blêdwizer bewurkje…
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Blêdwizer bewurkje…
+    .tooltiptext = Blêdwizer bewurkje ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Blêdwizer foar side meitsje…
     .tooltiptext = Blêdwizer foar side meitsje ({ $shortcut })
