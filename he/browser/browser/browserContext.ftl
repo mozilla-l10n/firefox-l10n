@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = קדימה
     .accesskey = ק
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = התקדמות דף אחד קדימה ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = קדימה
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = התקדמות דף אחד קדימה ({ $shortcut })
+    .aria-label = קדימה
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = יש לחבר מכש�
 main-context-menu-use-saved-password =
     .label = שימוש בססמה שמורה
     .accesskey = ש
+
+##
+
 main-context-menu-use-relay-mask =
     .label = שימוש במסכת דוא״ל של { -relay-brand-short-name }
     .accesskey = ד
