@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Enavant
     .accesskey = n
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Ina pagina enavant ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Enavant
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Ina pagina enavant ({ $shortcut })
+    .aria-label = Enavant
 
 ## Reload
 
@@ -297,6 +308,9 @@ main-context-menu-send-to-mobile-2 =
 main-context-menu-use-saved-password =
     .label = Utilisar il pled-clav memorisà
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Utilisar in alias dad e-mail da { -relay-brand-short-name }
     .accesskey = e
