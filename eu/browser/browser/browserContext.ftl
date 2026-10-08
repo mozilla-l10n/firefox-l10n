@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = E
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Egin orriaren laster-marka…
+    .tooltiptext = Egin orriaren laster-marka ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Editatu laster-marka…
+    .tooltiptext = Editatu laster-marka
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Editatu laster-marka…
+    .tooltiptext = Editatu laster-marka ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Egin orriaren laster-marka…
     .tooltiptext = Egin orriaren laster-marka ({ $shortcut })
@@ -165,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Gorde lotura honela…
     .accesskey = G
+main-context-menu-bookmark-page-2 =
+    .aria-label = Egin orriaren laster-marka…
+    .tooltiptext = Egin orriaren laster-marka
 
 ##
 
