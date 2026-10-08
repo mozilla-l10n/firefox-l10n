@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Avante
     .accesskey = A
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Ir un pagina avante ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Avante
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Ir un pagina avante ({ $shortcut })
+    .aria-label = Avante
 
 ## Reload
 
@@ -64,8 +75,12 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stoppar
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stoppar
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stoppar
 
 ## Stop-Reload Button
 
@@ -142,6 +157,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Salvar le ligamine como…
     .accesskey = S
+main-context-menu-bookmark-page-2 =
+    .aria-label = Adder pagina al marcapaginas…
+    .tooltiptext = Adde le pagina al marcapaginas
 
 ##
 
@@ -309,6 +327,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Connecte un apparato 
 main-context-menu-use-saved-password =
     .label = Usar contrasigno salvate
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Usa le masca email de { -relay-brand-short-name }
     .accesskey = e
