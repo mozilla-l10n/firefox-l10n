@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Seuraava
     .accesskey = e
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Siirry sivu eteenpäin ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Seuraava
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Siirry sivu eteenpäin ({ $shortcut })
+    .aria-label = Seuraava
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Yhdistä laite lähet
 main-context-menu-use-saved-password =
     .label = Käytä tallennettua salasanaa
     .accesskey = s
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Käytä { -relay-brand-short-name }-sähköpostimaskia
     .accesskey = E
