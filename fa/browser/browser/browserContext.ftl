@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = بازگشت
     .accesskey = ب
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = بازگشت به یک صفحه قبل ({ $shortcut })
+toolbar-button-back-3 =
+    .label = بازگشت
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = بازگشت به یک صفحه قبل ({ $shortcut })
+    .aria-label = بازگشت
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = جلو رفتن
     .accesskey = ج
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = رفتن به یک صفحه بعد ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = جلو رفتن
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = رفتن به یک صفحه بعد ({ $shortcut })
+    .aria-label = جلو رفتن
 
 ## Reload
 
@@ -148,6 +170,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = ذخیرهٔ پیوند با نام…
     .accesskey = ذخ
+main-context-menu-bookmark-page-2 =
+    .aria-label = نشانک‌گذاری صفحه…
+    .tooltiptext = نشانک‌گذاری صفحه
 
 ##
 
