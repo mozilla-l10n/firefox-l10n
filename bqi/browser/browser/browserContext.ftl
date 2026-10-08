@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = وورگشتن
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = وورگشتن و بلگه دیندایی ({ $shortcut })
+toolbar-button-back-3 =
+    .label = وورگشتن
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = وورگشتن و بلگه دیندایی ({ $shortcut })
+    .aria-label = وورگشتن
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = جلاو رئڌن
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = جلاو رئڌن و بلگه نیایی ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = نیایی
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = جلاو رئڌن و بلگه نیایی ({ $shortcut })
+    .aria-label = نیایی
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = گۊشیڌن دووارته
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = گۊشیڌن دووارته
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = گۊشیڌن دووارته
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = واڌاشتن
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = واڌاشتن
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = واڌاشتن
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = گۊشیڌن دووارته
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = آلشت نشووک
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = نشووک ناهاڌن بلگه…
+    .tooltiptext = نشووک ناهاڌن بلگه ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = آلشت نشووک
+    .tooltiptext = آلشت نشووک
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = آلشت نشووک
+    .tooltiptext = آلشت نشووک ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = زفت کردن لینگ و عونوان…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = نشووک ناهاڌن بلگه…
+    .tooltiptext = نشووک ناهاڌن بلگه
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = منپیز دسگا �
 main-context-menu-use-saved-password =
     .label = و کار گرؽڌن رزم زفت وابیڌه
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = و کار گرؽڌن ماسک ایمیل { -relay-brand-short-name }
     .accesskey = E
