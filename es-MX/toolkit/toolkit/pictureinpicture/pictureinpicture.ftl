@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Picture-in-Picture
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,6 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Configuración de subtítulos
+pictureinpicture-subtitles-toggle =
+    .label = Subtítulos
 pictureinpicture-subtitles-label = Subtítulos
 # The live readout of the current playback speed shown in the playback speed
 # panel, updated as the user moves the slider. Unlike the preset labels, whole
