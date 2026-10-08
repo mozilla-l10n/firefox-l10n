@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Փոխանցել
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Գնալ յաջորդ Էջ ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Փոխանցել
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Գնալ յաջորդ Էջ ({ $shortcut })
+    .aria-label = Փոխանցել
 
 ## Reload
 
@@ -52,8 +63,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Վերբեռնել
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Վերբեռնել
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Վերբեռնել
 
 ## Stop
 
@@ -64,13 +79,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Ընդհատել
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Ընդհատել
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Ընդհատել
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Վերբեռնել
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -237,6 +261,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Աւգտագործել պահպանուած գաղտնաբառը
     .accesskey = Ա
+
+##
+
 main-context-menu-suggest-strong-password =
     .label = Առաջարկել անվտանգ գաղտնաբառ…
     .accesskey = Ա
