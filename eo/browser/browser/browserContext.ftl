@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Aldoni paĝon al legosignoj…
+    .tooltiptext = Aldoni paĝon al legosignoj ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Modifi legosignon…
+    .tooltiptext = Modifi legosignon
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Modifi legosignon…
+    .tooltiptext = Modifi legosignon ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Aldoni paĝon al legosignoj…
     .tooltiptext = Aldoni paĝon al legosignoj ({ $shortcut })
@@ -165,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Konservi ligitan dosieron kiel…
     .accesskey = K
+main-context-menu-bookmark-page-2 =
+    .aria-label = Aldoni paĝon al legosignoj…
+    .tooltiptext = Aldoni paĝon al legosignoj
 
 ##
 
