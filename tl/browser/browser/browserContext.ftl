@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Bumalik
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Bumalik nang isang pahina ({ $shortcut })
 toolbar-button-back-3 =
     .label = Bumalik
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Bumalik nang isang pahina ({ $shortcut })
+    .aria-label = Bumalik
 
 ## Forward
 
@@ -118,6 +127,14 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Baguhin ang Bookmark…
     .accesskey = m
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Baguhin ang Bookmark…
+    .tooltiptext = Baguhin ang bookmark
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Baguhin ang Bookmark…
+    .tooltiptext = Baguhin ang bookmark ({ $shortcut })
 main-context-menu-edit-bookmark =
     .aria-label = Baguhin ang Bookmark…
     .tooltiptext = Baguhin ang bookmark
