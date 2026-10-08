@@ -28,21 +28,34 @@ toolbar-button-forward-2 =
 main-context-menu-reload =
     .aria-label = Превчитај
     .accesskey = П
+toolbar-button-reload-2 =
+    .label = Превчитај
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Превчитај
 
 ## Stop
 
 main-context-menu-stop =
     .aria-label = Стоп
     .accesskey = С
+toolbar-button-stop-2 =
+    .label = Стоп
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Стоп
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Превчитај
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -160,6 +173,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Испрати аудио преку е-пошта…
     .accesskey = с
+
+##
+
 
 ##
 
