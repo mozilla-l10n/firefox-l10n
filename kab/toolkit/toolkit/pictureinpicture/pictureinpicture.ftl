@@ -68,6 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Iɣewwaren n yiduzwilen
+pictureinpicture-subtitles-toggle =
+    .label = Iduzwilen
 pictureinpicture-subtitles-label = Iduzwilen
 pictureinpicture-font-size-group =
     .label = Teɣzi n tsefsit
