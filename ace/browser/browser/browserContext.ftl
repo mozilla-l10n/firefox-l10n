@@ -26,8 +26,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Peuhah keulayi
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Peuhah keulayi
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Peuhah keulayi
 
 ## Stop
 
@@ -38,6 +42,14 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Peuhah keulayi
+
+## Account toolbar Button
+
+
+## Save Page
+
 
 ## Simple menu items
 
@@ -47,6 +59,23 @@ main-context-menu-open-link =
 main-context-menu-save-link =
     .label = Keubah Peunawôt Seubagoë…
     .accesskey = k
+
+##
+
+
+## Media (video/audio) controls
+##
+## The accesskey for "Play" and "Pause" are the
+## same because the two context-menu items are
+## mutually exclusive.
+
+
+##
+
+
+## The access keys for "Show Controls" and "Hide Controls" are the same
+## because the two context-menu items are mutually exclusive.
+
 
 ## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
@@ -59,6 +88,9 @@ main-context-menu-media-video-leave-fullscreen =
 main-context-menu-image-copy =
     .label = Salèn Gamba
     .accesskey = y
+
+##
+
 
 ##
 
