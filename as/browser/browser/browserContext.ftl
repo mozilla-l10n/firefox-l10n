@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = আগুৱাওক
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = এখন পৃষ্ঠা আগুৱাই যাওক ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = আগুৱাওক
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = এখন পৃষ্ঠা আগুৱাই যাওক ({ $shortcut })
+    .aria-label = আগুৱাওক
 
 ## Reload
 
@@ -71,6 +82,9 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -268,6 +282,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = সাঁচি থোৱা পাছৱাৰ্ড ব্যৱহাৰ কৰক
     .accesskey = ৱ
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-ৰ ইমেইল মাস্ক ব্যৱহাৰ কৰক
     .accesskey = E
