@@ -162,6 +162,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = লিঙ্কটি নতুনভাবে সংরক্ষণ…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = পাতাটি বুকমার্ক করুন
+    .tooltiptext = পাতাটি বুকমার্ক করুন
 
 ##
 
