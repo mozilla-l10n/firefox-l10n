@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = ᱞᱟᱦᱟ
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱞᱟᱦᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = ᱞᱟᱦᱟ
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ᱢᱤᱫ ᱟᱥᱦᱴᱟ ᱞᱟᱦᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ ({ $shortcut })
+    .aria-label = ᱞᱟᱦᱟ
 
 ## Reload
 
@@ -52,8 +63,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ
 
 ## Stop
 
@@ -71,6 +86,8 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = ᱫᱚᱦᱲᱟ ᱞᱟᱫᱤ
 
 ## Account toolbar Button
 
@@ -283,6 +300,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ᱤᱢᱮᱞ ᱢᱟᱥᱠ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = E
