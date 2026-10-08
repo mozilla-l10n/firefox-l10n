@@ -92,6 +92,14 @@ pictureinpicture-playback-rate-value = { NUMBER($rate) }×
 # Variables:
 #   $rate (number) - The preset's playback rate, e.g. 1.5.
 pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) }×
+pictureinpicture-font-size-group =
+    .label = Tai tuichakue
+pictureinpicture-font-size-small-radio =
+    .label = Michĩva
+pictureinpicture-font-size-medium-radio =
+    .label = Mbyteguáva
+pictureinpicture-font-size-large-radio =
+    .label = Tuicháva
 pictureinpicture-font-size-label = Tai tuichakue
 pictureinpicture-font-size-small = Michĩva
 pictureinpicture-font-size-medium = Mbyteguáva
