@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = סיום
 default-browser-guidance-notification-v2-title = סיום הגדרת { -brand-short-name } כדפדפן ברירת המחדל שלך
 default-browser-guidance-notification-v2-body = בהגדרות, יש לבחור באפשרות "קבע כברירת מחדל" עבור { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = סיום הגדרת { -brand-short-name } כדפדפן ברירת המחדל שלך הגדרות
+default-browser-guidance-notification-auto-trigger-title = פתיחת הקישורים שלך באמצעות { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = יש לבחור ב־{ -brand-short-name } כדפדפן ברירת המחדל שלך בהגדרות.

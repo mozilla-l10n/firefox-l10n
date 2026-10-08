@@ -1314,6 +1314,17 @@ restore-session-startup-suggestion-button = להראות לך איך
 
 filepicker-blocked-infobar = הארגון שלך חסם גישה לדפים מקומיים במחשב זה.
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = הקיצור { $searchTabsShortcut } כעת מחפש לשוניות
+urlbar-addons-shortcut-moved-description = כדי לפתוח את דף ההרחבות וערכות הנושא, יש להשתמש בקיצור { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = ניהול קיצורי דרך
+urlbar-addons-shortcut-moved-dismiss = הבנתי
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } יישלח אוטומטית חלק מהנתונים אל { -vendor-short-name } כדי שנוכל לשפר את החוויה שלך.
