@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Naprijed
     .accesskey = a
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Idi jednu stranicu naprijed ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Naprijed
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Idi jednu stranicu naprijed ({ $shortcut })
+    .aria-label = Naprijed
 
 ## Reload
 
@@ -52,8 +63,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Učitaj ponovo
     .accesskey = U
+toolbar-button-reload-2 =
+    .label = Učitaj ponovo
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Učitaj ponovo
 
 ## Stop
 
@@ -64,13 +79,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Zaustavi
     .accesskey = s
+toolbar-button-stop-2 =
+    .label = Zaustavi
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Zaustavi
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Učitaj ponovo
 
 ## Account toolbar Button
 
@@ -102,6 +123,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Uredi zabilješku …
     .accesskey = U
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Zabilježi stranicu …
+    .tooltiptext = Zabilježi stranicu ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Uredi zabilješku …
+    .tooltiptext = Uredi zabilješku
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Uredi zabilješku …
+    .tooltiptext = Uredi zabilješku ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +176,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Spremi poveznicu kao …
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = Zabilježi stranicu …
+    .tooltiptext = Zabilježi stranicu
 
 ##
 
@@ -309,6 +346,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Spoji jedan uređaj z
 main-context-menu-use-saved-password =
     .label = Koristi spremljenu lozinku
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Koristi { -relay-brand-short-name } masku za e-mail adresu
     .accesskey = e
