@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Артқа
     .accesskey = а
+toolbar-button-back-3 =
+    .label = Артқа
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -63,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Жаңарту
     .accesskey = й
+toolbar-button-reload-2 =
+    .label = Жаңарту
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Жаңарту
 
 ## Stop
 
@@ -75,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Тоқтату
     .accesskey = т
+toolbar-button-stop-2 =
+    .label = Тоқтату
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Тоқтату
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Жаңарту
 
 ## Account toolbar Button
 
@@ -113,6 +125,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Бетбелгіні түзету…
     .accesskey = л
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Бетті бетбелгілерге қосу…
+    .tooltiptext = Бетті бетбелгілерге қосу ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Бетбелгіні түзету…
+    .tooltiptext = Бетбелгіні түзету
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Бетбелгіні түзету…
+    .tooltiptext = Бетбелгіні түзету ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -153,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Сілтемені қалайша сақтау…
     .accesskey = м
+main-context-menu-bookmark-page-2 =
+    .aria-label = Бетті бетбелгілерге қосу…
+    .tooltiptext = Бетті бетбелгілерге қосу
 
 ##
 
