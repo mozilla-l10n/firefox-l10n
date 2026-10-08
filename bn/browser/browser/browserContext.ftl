@@ -127,6 +127,14 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = বুকমার্ক  পেজ...
+    .tooltiptext = বুকমার্ক পেজ ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = বুকমার্ক সম্পাদনা করুন...
+    .tooltiptext = বুকমার্ক সম্পাদনা করুন...
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = বুকমার্ক  পেজ...
     .tooltiptext = বুকমার্ক পেজ ({ $shortcut })
