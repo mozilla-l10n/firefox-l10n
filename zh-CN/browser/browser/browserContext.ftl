@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = 前进
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = 转到下一页 ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = 前进
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = 转到下一页 ({ $shortcut })
+    .aria-label = 前进
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = 连接设备以发送
 main-context-menu-use-saved-password =
     .label = 使用保存的密码
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = 使用 { -relay-brand-short-name } 马甲邮箱
     .accesskey = E
