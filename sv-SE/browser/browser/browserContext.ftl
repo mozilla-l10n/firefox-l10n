@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Tillbaka
     .accesskey = b
+toolbar-button-back-3 =
+    .label = Tillbaka
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -52,8 +54,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Uppdatera
     .accesskey = U
+toolbar-button-reload-2 =
+    .label = Uppdatera
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Uppdatera
 
 ## Stop
 
@@ -64,13 +70,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stopp
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stopp
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stopp
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Uppdatera
 
 ## Account toolbar Button
 
@@ -142,6 +154,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Spara länk som…
     .accesskey = m
+main-context-menu-bookmark-page-2 =
+    .aria-label = Bokmärk sida…
+    .tooltiptext = Bokmärk sida
 
 ##
 
@@ -309,6 +324,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Anslut en enhet för 
 main-context-menu-use-saved-password =
     .label = Använd sparat lösenord
     .accesskey = A
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Använd { -relay-brand-short-name } e-postalias
     .accesskey = A
