@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Алға
     .accesskey = л
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Келесі бетке өту ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Алға
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Келесі бетке өту ({ $shortcut })
+    .aria-label = Алға
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Бетті жібер
 main-context-menu-use-saved-password =
     .label = Сақталған парольді қолдану
     .accesskey = о
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } эл. пошта маскасын қолдану
     .accesskey = о
