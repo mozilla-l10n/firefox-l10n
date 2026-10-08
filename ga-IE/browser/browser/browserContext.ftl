@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Ar Aghaidh
     .accesskey = A
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Leathanach amháin ar aghaidh ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Ar Aghaidh
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Leathanach amháin ar aghaidh ({ $shortcut })
+    .aria-label = Ar Aghaidh
 
 ## Reload
 
@@ -64,8 +75,12 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stad
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stad
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stad
 
 ## Stop-Reload Button
 
@@ -200,6 +215,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Seol an Fhuaim trí Ríomhphost…
     .accesskey = a
+
+##
+
 
 ##
 
