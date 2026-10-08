@@ -63,8 +63,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Athlódáil
     .accesskey = A
+toolbar-button-reload-2 =
+    .label = Athlódáil
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Athlódáil
 
 ## Stop
 
@@ -86,6 +90,8 @@ main-context-menu-stop-2 =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Athlódáil
 
 ## Account toolbar Button
 
