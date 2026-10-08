@@ -63,8 +63,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Recargar
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Recargar
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Recargar
 
 ## Stop
 
@@ -86,6 +90,8 @@ main-context-menu-stop-2 =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Recargar
 
 ## Account toolbar Button
 
@@ -117,6 +123,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Modificar marcapagina…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Adder pagina al marcapaginas…
+    .tooltiptext = Adde pagina al marcapaginas ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Modificar marcapagina…
+    .tooltiptext = Modifica marcapagina
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Modificar marcapagina…
+    .tooltiptext = Modifica marcapaginas ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
