@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = अग्रेषित करू
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = एक पृष्ठ आगाँ जाउ ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = अग्रेषित करू
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = एक पृष्ठ आगाँ जाउ ({ $shortcut })
+    .aria-label = अग्रेषित करू
 
 ## Reload
 
@@ -71,6 +82,9 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -172,6 +186,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ऑडियो ईमेल करू (a)…
     .accesskey = a
+
+##
+
 
 ##
 
