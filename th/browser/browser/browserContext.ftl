@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = เดินหน้า
     .accesskey = ด
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = เดินหน้าไปหนึ่งหน้า ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = เดินหน้า
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = เดินหน้าไปหนึ่งหน้า ({ $shortcut })
+    .aria-label = เดินหน้า
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = เชื่อมต
 main-context-menu-use-saved-password =
     .label = ใช้รหัสผ่านที่บันทึกไว้
     .accesskey = ห
+
+##
+
 main-context-menu-use-relay-mask =
     .label = ใช้ตัวปกปิดอีเมลของ { -relay-brand-short-name }
     .accesskey = อ
