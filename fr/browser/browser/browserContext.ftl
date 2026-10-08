@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = M
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Marquer cette page…
+    .tooltiptext = Marquer cette page ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Modifier le marque-page…
+    .tooltiptext = Modifier le marque-page
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Modifier le marque-page…
+    .tooltiptext = Modifier le marque-page ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Marquer cette page…
     .tooltiptext = Marquer cette page ({ $shortcut })
@@ -165,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Enregistrer la cible du lien sous…
     .accesskey = E
+main-context-menu-bookmark-page-2 =
+    .aria-label = Marquer cette page…
+    .tooltiptext = Marquer cette page
 
 ##
 
