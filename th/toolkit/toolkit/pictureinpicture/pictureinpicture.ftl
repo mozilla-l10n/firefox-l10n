@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = ภาพซ้อนภาพ
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = การตั้งค่าคำบรรยาย
+pictureinpicture-subtitles-toggle =
+    .label = คำบรรยาย
 pictureinpicture-subtitles-label = คำบรรยาย
+pictureinpicture-font-size-group =
+    .label = ขนาดแบบอักษร
+pictureinpicture-font-size-small-radio =
+    .label = เล็ก
+pictureinpicture-font-size-medium-radio =
+    .label = ปานกลาง
+pictureinpicture-font-size-large-radio =
+    .label = ใหญ่
 pictureinpicture-font-size-label = ขนาดแบบอักษร
 pictureinpicture-font-size-small = เล็ก
 pictureinpicture-font-size-medium = ปานกลาง
