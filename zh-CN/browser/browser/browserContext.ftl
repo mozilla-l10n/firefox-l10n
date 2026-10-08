@@ -65,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = 重新加载
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = 重新加载
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = 重新加载
 
 ## Stop
 
@@ -77,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = 停止
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = 停止
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = 停止
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = 重新加载
 
 ## Account toolbar Button
 
