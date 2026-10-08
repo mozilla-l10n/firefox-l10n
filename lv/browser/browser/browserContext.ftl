@@ -40,10 +40,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Uz priekšu
     .accesskey = P
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Iet vienu lapu uz priekšu ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Uz priekšu
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Iet vienu lapu uz priekšu ({ $shortcut })
+    .aria-label = Uz priekšu
 
 ## Reload
 
