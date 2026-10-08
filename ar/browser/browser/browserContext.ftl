@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = السابق
     .accesskey = س
+toolbar-button-back-3 =
+    .label = السابق
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -52,8 +54,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = أعد التحميل
     .accesskey = ع
+toolbar-button-reload-2 =
+    .label = أعد التحميل
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = أعد التحميل
 
 ## Stop
 
@@ -71,6 +77,8 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = أعد التحميل
 
 ## Account toolbar Button
 
@@ -309,6 +317,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = صلّ جهاز لإ�
 main-context-menu-use-saved-password =
     .label = استعمل كلمة سر محفوظة
     .accesskey = ع
+
+##
+
 main-context-menu-use-relay-mask =
     .label = استخدم قناع البريد الإلكتروني { -relay-brand-short-name }.
     .accesskey = د
