@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = ก
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = เพิ่มที่คั่นหน้าสำหรับหน้า…
+    .tooltiptext = เพิ่มที่คั่นหน้าสำหรับหน้า ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = แก้ไขที่คั่นหน้า…
+    .tooltiptext = แก้ไขที่คั่นหน้า
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = แก้ไขที่คั่นหน้า…
+    .tooltiptext = แก้ไขที่คั่นหน้า ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = เพิ่มที่คั่นหน้าสำหรับหน้า…
     .tooltiptext = เพิ่มที่คั่นหน้าสำหรับหน้า ({ $shortcut })
