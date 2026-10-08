@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Zpět
     .accesskey = Z
+toolbar-button-back-3 =
+    .label = Zpět
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -63,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Znovu načíst
     .accesskey = o
+toolbar-button-reload-2 =
+    .label = Znovu načíst
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Znovu načíst
 
 ## Stop
 
@@ -75,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Zastavit
     .accesskey = s
+toolbar-button-stop-2 =
+    .label = Zastavit
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Zastavit
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Znovu načíst
 
 ## Account toolbar Button
 
@@ -113,6 +125,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Upravit záložku…
     .accesskey = p
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Přidat stránku do záložek…
+    .tooltiptext = Přidá stránku do záložek ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Upravit záložku…
+    .tooltiptext = Upraví záložku
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Upravit záložku…
+    .tooltiptext = Upraví záložku ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -153,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Uložit odkaz jako…
     .accesskey = U
+main-context-menu-bookmark-page-2 =
+    .aria-label = Přidat stránku do záložek…
+    .tooltiptext = Přidá stránku do záložek
 
 ##
 
