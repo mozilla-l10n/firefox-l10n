@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = முன்செல்
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ஒரு பக்கம் முன்செல் ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = முன்செல்
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ஒரு பக்கம் முன்செல் ({ $shortcut })
+    .aria-label = முன்செல்
 
 ## Reload
 
@@ -71,6 +82,9 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -178,6 +192,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = ஒலி மின்னஞ்சல்...
     .accesskey = ம
+
+##
+
 
 ##
 
