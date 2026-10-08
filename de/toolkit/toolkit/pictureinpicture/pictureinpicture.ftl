@@ -92,6 +92,14 @@ pictureinpicture-playback-rate-value = { NUMBER($rate) }×
 # Variables:
 #   $rate (number) - The preset's playback rate, e.g. 1.5.
 pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) }×
+pictureinpicture-font-size-group =
+    .label = Schriftgröße
+pictureinpicture-font-size-small-radio =
+    .label = Klein
+pictureinpicture-font-size-medium-radio =
+    .label = Mittel
+pictureinpicture-font-size-large-radio =
+    .label = Groß
 pictureinpicture-font-size-label = Schriftgröße
 pictureinpicture-font-size-small = Klein
 pictureinpicture-font-size-medium = Mittel
