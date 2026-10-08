@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Naprijed
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Idi naprijed jednu stranicu ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Naprijed
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Idi naprijed jednu stranicu ({ $shortcut })
+    .aria-label = Naprijed
 
 ## Reload
 
@@ -283,6 +294,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Koristi sačuvanu lozinku
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Koristi { -relay-brand-short-name } email masku
     .accesskey = E
