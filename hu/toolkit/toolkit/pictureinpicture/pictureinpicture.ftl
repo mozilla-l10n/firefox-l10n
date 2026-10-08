@@ -92,6 +92,14 @@ pictureinpicture-playback-rate-value = { NUMBER($rate) } ×
 # Variables:
 #   $rate (number) - The preset's playback rate, e.g. 1.5.
 pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) } ×
+pictureinpicture-font-size-group =
+    .label = Betűméret
+pictureinpicture-font-size-small-radio =
+    .label = Kicsi
+pictureinpicture-font-size-medium-radio =
+    .label = Közepes
+pictureinpicture-font-size-large-radio =
+    .label = Nagy
 pictureinpicture-font-size-label = Betűméret
 pictureinpicture-font-size-small = Kicsi
 pictureinpicture-font-size-medium = Közepes
