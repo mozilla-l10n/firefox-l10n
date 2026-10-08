@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Pirmyn
     .accesskey = P
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Vienu tinklalapiu pirmyn ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Pirmyn
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Vienu tinklalapiu pirmyn ({ $shortcut })
+    .aria-label = Pirmyn
 
 ## Reload
 
@@ -71,6 +82,9 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -268,6 +282,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Naudoti įrašytą slaptažodį
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Naudoti „{ -relay-brand-short-name }“ el. pašto kaukę
     .accesskey = e
