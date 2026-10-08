@@ -52,8 +52,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = بارگیری مجدد
     .accesskey = ب
+toolbar-button-reload-2 =
+    .label = بارگیری مجدد
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = بارگیری مجدد
 
 ## Stop
 
@@ -71,6 +75,8 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = بارگیری مجدد
 
 ## Account toolbar Button
 
@@ -309,6 +315,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = برای ارسال �
 main-context-menu-use-saved-password =
     .label = استفاده از گذرواژهٔ ذخیره‌شده
     .accesskey = گ
+
+##
+
 main-context-menu-use-relay-mask =
     .label = استفاده از ماسک ایمیل { -relay-brand-short-name }
     .accesskey = م
