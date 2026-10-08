@@ -613,3 +613,13 @@ onboarding-theme-picker-button-label = 저장하고 계속
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = 주요 기능
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = 더 많은 작업을 도와줄 새로운 기능
+welcome-back-onboarding-primary-button-label = 탐색 시작
+welcome-back-onboarding-secondary-button-label = 새 기능 살펴보기
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = 탭 정리
+welcome-back-onboarding-pill-label-vpn = 내장 VPN
+welcome-back-onboarding-pill-label-pdf = PDF 도구

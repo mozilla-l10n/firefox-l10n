@@ -310,6 +310,11 @@ newtab-privacy-message-first-protection-cta = 보호 기능 보기
 newtab-stocks-menu-learn-more = 더 알아보기
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = 주식 데이터가 없습니다.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = 금융 메뉴 열기
+    .title = 금융 메뉴 열기
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
