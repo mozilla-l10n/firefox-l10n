@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Wstecz
     .accesskey = W
+toolbar-button-back-3 =
+    .label = Wstecz
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -52,8 +54,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Odśwież
     .accesskey = O
+toolbar-button-reload-2 =
+    .label = Odśwież
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Odśwież
 
 ## Stop
 
@@ -64,13 +70,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Zatrzymaj
     .accesskey = Z
+toolbar-button-stop-2 =
+    .label = Zatrzymaj
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Zatrzymaj
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Odśwież
 
 ## Account toolbar Button
 
@@ -142,6 +154,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Zapisz element docelowy jako…
     .accesskey = s
+main-context-menu-bookmark-page-2 =
+    .aria-label = Dodaj zakładkę do tej strony…
+    .tooltiptext = Dodaj zakładkę do tej strony
 
 ##
 
@@ -309,6 +324,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Połącz urządzenie,
 main-context-menu-use-saved-password =
     .label = Użyj zachowanego hasła
     .accesskey = U
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Użyj maski { -relay-brand-short-name } dla adresu e-mail
     .accesskey = m
