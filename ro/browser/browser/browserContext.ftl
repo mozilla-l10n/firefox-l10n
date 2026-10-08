@@ -134,6 +134,11 @@ main-context-menu-edit-bookmark-2 =
     .aria-label = Editează marcajul…
     .tooltiptext = Editează marcajul
 # Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Editează marcajul…
+    .tooltiptext = Editează marcajul ({ $shortcut })
+# Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Marchează pagina…
