@@ -63,8 +63,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Actualitza
     .accesskey = z
+toolbar-button-reload-2 =
+    .label = Actualitza
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Actualitza
 
 ## Stop
 
@@ -75,13 +79,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Atura
     .accesskey = A
+toolbar-button-stop-2 =
+    .label = Atura
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Atura
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Actualitza
 
 ## Account toolbar Button
 
@@ -113,6 +123,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Edita l'adreça d'interès…
     .accesskey = i
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Afegeix la pàgina a les adreces d'interès…
+    .tooltiptext = Afegeix la pàgina a les adreces d'interès ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Edita l'adreça d'interès…
+    .tooltiptext = Edita l'adreça d'interès
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Edita l'adreça d'interès…
+    .tooltiptext = Edita l'adreça d'interès ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -153,6 +176,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Anomena i desa el contingut de l'enllaç…
     .accesskey = s
+main-context-menu-bookmark-page-2 =
+    .aria-label = Afegeix la pàgina a les adreces d'interès…
+    .tooltiptext = Afegeix la pàgina a les adreces d'interès
 
 ##
 
