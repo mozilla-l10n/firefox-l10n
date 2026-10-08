@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = آگے
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ایک صفحہ آگے جائیں ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = آگے
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ایک صفحہ آگے جائیں ({ $shortcut })
+    .aria-label = آگے
 
 ## Reload
 
@@ -71,6 +82,9 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -219,6 +233,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = محفوظ شدہ پاس ورڈ استعمال کریں
     .accesskey = o
+
+##
+
 main-context-menu-suggest-strong-password =
     .label = مضبوط پاس ورڈ تجویز کریں…
     .accesskey = S
