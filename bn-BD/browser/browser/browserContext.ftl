@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = পূর্ববর্তী
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = পূর্ববর্তী পাতায় ফিরে যান ({ $shortcut })
+toolbar-button-back-3 =
+    .label = পূর্ববর্তী
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = পূর্ববর্তী পাতায় ফিরে যান ({ $shortcut })
+    .aria-label = পূর্ববর্তী
 
 ## Forward
 
@@ -63,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = পুনরায় লোড
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = পুনরায় লোড
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = পুনরায় লোড
 
 ## Stop
 
@@ -75,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = থামুন
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = থামুন
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = থামুন
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = পুনরায় লোড
 
 ## Account toolbar Button
 
