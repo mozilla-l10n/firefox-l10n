@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = 일반 창
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name } 전환
     .tooltiptext = 스마트 창과 일반 창 간에 전환합니다.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } 전환
+    .tooltiptext = 스마트 창과 일반 창 간에 전환
 
 ## Input CTA
 
