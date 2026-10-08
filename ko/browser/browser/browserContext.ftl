@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = 페이지 북마크…
+    .tooltiptext = 페이지 북마크 ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = 북마크 편집…
+    .tooltiptext = 북마크 편집
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = 북마크 편집…
+    .tooltiptext = 북마크 편집 ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = 페이지 북마크…
     .tooltiptext = 페이지 북마크 ({ $shortcut })
@@ -165,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = 링크를 다른 이름으로 저장…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = 페이지 북마크…
+    .tooltiptext = 페이지 북마크
 
 ##
 
