@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Bild-im-Bild
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -67,6 +71,8 @@ pictureinpicture-playback-rate-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Untertitel-Einstellungen
+pictureinpicture-subtitles-toggle =
+    .label = Untertitel
 pictureinpicture-subtitles-label = Untertitel
 # This string is never displayed on the window. Is intended to be announced by
 # a screen reader whenever a user opens the playback speed settings panel
