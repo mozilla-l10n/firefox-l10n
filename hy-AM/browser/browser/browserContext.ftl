@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Էջանշել էջը…
+    .tooltiptext = Էջանշել { $shortcut } էջը
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Խմբագրել Էջանիշը…
+    .tooltiptext = Խմբագրել Էջանիշը
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Խմբագրել Էջանիշը…
+    .tooltiptext = Խմբագրել { $shortcut } Էջանիշը
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Էջանշել էջը…
     .tooltiptext = Էջանշել { $shortcut } էջը
