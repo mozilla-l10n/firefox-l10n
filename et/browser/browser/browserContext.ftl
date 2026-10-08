@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Tagasi
     .accesskey = T
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Tagasi üks leht ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Tagasi
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Tagasi üks leht ({ $shortcut })
+    .aria-label = Tagasi
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Edasi
     .accesskey = E
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Edasi üks leht ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Edasi
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Edasi üks leht ({ $shortcut })
+    .aria-label = Edasi
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Laadi uuesti
     .accesskey = L
+toolbar-button-reload-2 =
+    .label = Laadi uuesti
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Laadi uuesti
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Peata
     .accesskey = P
+toolbar-button-stop-2 =
+    .label = Peata
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Peata
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Laadi uuesti
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Muuda järjehoidjat…
     .accesskey = M
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Lisa leht järjehoidjatesse...
+    .tooltiptext = Lisa leht järjehoidjatesse ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Muuda järjehoidjat…
+    .tooltiptext = Muuda järjehoidjat
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Muuda järjehoidjat…
+    .tooltiptext = Muuda järjehoidjat ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Salvesta link kui…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = Lisa leht järjehoidjatesse...
+    .tooltiptext = Lisa leht järjehoidjatesse
 
 ##
 
@@ -306,6 +354,9 @@ main-context-menu-send-to-mobile-enable-sync-from-page = Lehe edastamiseks lüli
 main-context-menu-use-saved-password =
     .label = Kasuta salvestatud parooli
     .accesskey = u
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Kasuta { -relay-brand-short-name } e-posti peitmist
     .accesskey = e

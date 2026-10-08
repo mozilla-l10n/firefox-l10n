@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Mundur
     .accesskey = M
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Mundur satu laman ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Mundur
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Mundur satu laman ({ $shortcut })
+    .aria-label = Mundur
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Maju
     .accesskey = M
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Maju satu laman ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Maju
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Maju satu laman ({ $shortcut })
+    .aria-label = Maju
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Muat Ulang
     .accesskey = U
+toolbar-button-reload-2 =
+    .label = Muat Ulang
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Muat Ulang
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stop
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stop
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stop
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Muat Ulang
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Ubah Markah…
     .accesskey = M
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Markahi Laman…
+    .tooltiptext = Markahi laman ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Ubah Markah…
+    .tooltiptext = Ubah Markah
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Ubah Markah…
+    .tooltiptext = Ubah Markah ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -139,6 +184,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Simpan Tautan dengan Nama…
     .accesskey = T
+main-context-menu-bookmark-page-2 =
+    .aria-label = Markahi Laman
+    .tooltiptext = Markahi laman
 
 ##
 
@@ -292,6 +340,9 @@ main-context-menu-send-to-mobile-device-missing2 = Tidak Melihat Peranti Anda?
 main-context-menu-use-saved-password =
     .label = Gunakan Kata Sandi Tersimpan
     .accesskey = G
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Gunakan Topeng Email { -relay-brand-short-name }
     .accesskey = T

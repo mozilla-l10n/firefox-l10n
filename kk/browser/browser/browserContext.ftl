@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Артқа
     .accesskey = а
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Алдыңғы бетке қайту ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Артқа
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Алдыңғы бетке қайту ({ $shortcut })
+    .aria-label = Артқа
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Алға
     .accesskey = л
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Келесі бетке өту ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Алға
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Келесі бетке өту ({ $shortcut })
+    .aria-label = Алға
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Жаңарту
     .accesskey = й
+toolbar-button-reload-2 =
+    .label = Жаңарту
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Жаңарту
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Тоқтату
     .accesskey = т
+toolbar-button-stop-2 =
+    .label = Тоқтату
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Тоқтату
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Жаңарту
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Бетбелгіні түзету…
     .accesskey = л
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Бетті бетбелгілерге қосу…
+    .tooltiptext = Бетті бетбелгілерге қосу ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Бетбелгіні түзету…
+    .tooltiptext = Бетбелгіні түзету
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Бетбелгіні түзету…
+    .tooltiptext = Бетбелгіні түзету ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Сілтемені қалайша сақтау…
     .accesskey = м
+main-context-menu-bookmark-page-2 =
+    .aria-label = Бетті бетбелгілерге қосу…
+    .tooltiptext = Бетті бетбелгілерге қосу
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Бетті жібер
 main-context-menu-use-saved-password =
     .label = Сақталған парольді қолдану
     .accesskey = о
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } эл. пошта маскасын қолдану
     .accesskey = о

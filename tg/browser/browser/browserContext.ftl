@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Бозгашт
     .accesskey = Б
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Гузариш ба як саҳифа қафо ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Бозгашт
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Гузариш ба як саҳифа қафо ({ $shortcut })
+    .aria-label = Бозгашт
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Гузариш ба пеш
     .accesskey = Г
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Гузариш ба як саҳифа пеш ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Гузариш ба пеш
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Гузариш ба як саҳифа пеш ({ $shortcut })
+    .aria-label = Гузариш ба пеш
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Аз нав бор кардан
     .accesskey = А
+toolbar-button-reload-2 =
+    .label = Аз нав бор кардан
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Аз нав бор кардан
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Истодан
     .accesskey = И
+toolbar-button-stop-2 =
+    .label = Истодан
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Истодан
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Аз нав бор кардан
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Таҳрир кардани хатбарак…
     .accesskey = Т
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Гузоштани хатбарак барои ин саҳифа…
+    .tooltiptext = Гузоштани хатбарак барои ин саҳифа ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Таҳрир кардани хатбарак…
+    .tooltiptext = Таҳрир кардани хатбарак
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Таҳрир кардани хатбарак…
+    .tooltiptext = Таҳрир кардани хатбарак ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Нигоҳ доштани пайванд ҳамчун…
     .accesskey = Н
+main-context-menu-bookmark-page-2 =
+    .aria-label = Гузоштани хатбарак барои ин саҳифа…
+    .tooltiptext = Гузоштани хатбарак барои ин саҳифа
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Пайваст кар
 main-context-menu-use-saved-password =
     .label = Истифода кардани ниҳонвожаи нигоҳдошташуда
     .accesskey = И
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Истифодаи ниқоби почтаи электронии «{ -relay-brand-short-name }»
     .accesskey = И

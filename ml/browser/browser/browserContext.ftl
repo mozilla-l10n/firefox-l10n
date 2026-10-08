@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = പുറകോട്ട്‌
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = ഒരു താള്‍ പുറകോട്ട്‌ പോകുക ({ $shortcut })
+toolbar-button-back-3 =
+    .label = പുറകോട്ട്‌
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = ഒരു താള്‍ പുറകോട്ട്‌ പോകുക ({ $shortcut })
+    .aria-label = പുറകോട്ട്‌
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = മുമ്പോട്ട്
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ഒരു താള്‍ മുന്നോട്ട്‌ പോകുക ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = മുമ്പോട്ട്
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ഒരു താള്‍ മുന്നോട്ട്‌ പോകുക ({ $shortcut })
+    .aria-label = മുമ്പോട്ട്
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = വീണ്ടും ലഭ്യമാക്കുക
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = വീണ്ടും ലഭ്യമാക്കുക
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = വീണ്ടും ലഭ്യമാക്കുക
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = നിര്‍ത്തുക
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = നിര്‍ത്തുക
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = നിര്‍ത്തുക
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = വീണ്ടും ലഭ്യമാക്കുക
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = അടയാളക്കുറിപ്പ് തിരുത്തുക…
     .accesskey = ട
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = താളിനെ കുറിച്ചിടുക…
+    .tooltiptext = താളിനെ കുറിച്ചിടുക… ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = അടയാളക്കുറിപ്പ് തിരുത്തുക…
+    .tooltiptext = അടയാളക്കുറിപ്പ് തിരുത്തുക…
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = അടയാളക്കുറിപ്പ് തിരുത്തുക…
+    .tooltiptext = അടയാളക്കുറിപ്പ് തിരുത്തുക ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -139,6 +184,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = കണ്ണി ഇങ്ങനെ സൂക്ഷിക്കുക...
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = താളിനെ കുറിച്ചിടുക…
+    .tooltiptext = താളിനെ കുറിച്ചിടുക
 
 ##
 
@@ -292,6 +340,9 @@ main-context-menu-send-to-mobile-enable-sync-from-page = താൾ അയയ്�
 main-context-menu-use-saved-password =
     .label = കരുതിവച്ച ഒളിവാക്കിനെ ഉപയോഗിക്കുക
     .accesskey = ഉ
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-ന്റെ ഇ-തപാൽ പൊയ്മുഖം ഉപയോഗിക്കുക
     .accesskey = ഉ

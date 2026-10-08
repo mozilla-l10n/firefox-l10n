@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Ne' rukuu
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Naniko' 'ngo pagina ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Ne' rukuu
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Naniko' 'ngo pagina ({ $shortcut })
+    .aria-label = Ne' rukuu
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Ne'ñaan
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Gachin' a'ngo pagina ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Ne'ñaan
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Gachin' a'ngo pagina ({ $shortcut })
+    .aria-label = Ne'ñaan
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Nàgi'iaj naka
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Nàgi'iaj naka
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Nàgi'iaj naka
 
 ## Stop
 
@@ -64,13 +90,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Duniikin'
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Duniikin'
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Duniikin'
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Nàgi'iaj naka
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -194,6 +229,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Ga'ni' nanèe 'ngà korreo…
     .accesskey = a
+
+##
+
 
 ##
 

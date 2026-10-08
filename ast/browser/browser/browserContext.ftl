@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Atrás
     .accesskey = A
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Dir p'atrás una páxina ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Atrás
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Dir p'atrás una páxina ({ $shortcut })
+    .aria-label = Atrás
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Alantre
     .accesskey = l
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Dir p'alantre una páxina ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Alantre
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Dir p'alantre una páxina ({ $shortcut })
+    .aria-label = Alantre
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Volver cargar
     .accesskey = r
+toolbar-button-reload-2 =
+    .label = Volver cargar
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Volver cargar
 
 ## Stop
 
@@ -64,13 +90,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Parar
     .accesskey = P
+toolbar-button-stop-2 =
+    .label = Parar
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Parar
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Volver cargar
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -227,6 +262,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Usar una contraseña guardada
     .accesskey = U
+
+##
+
 main-context-menu-suggest-strong-password =
     .label = Suxerir una contraseña segura…
     .accesskey = S

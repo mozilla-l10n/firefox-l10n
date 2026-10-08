@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Tilbage
     .accesskey = T
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Gå en side tilbage ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Tilbage
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Gå en side tilbage ({ $shortcut })
+    .aria-label = Tilbage
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Fremad
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Gå en side fremad ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Fremad
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Gå en side fremad ({ $shortcut })
+    .aria-label = Fremad
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Genindlæs
     .accesskey = G
+toolbar-button-reload-2 =
+    .label = Genindlæs
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Genindlæs
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stop
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stop
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stop
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Genindlæs
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Rediger bogmærke…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Bogmærk side…
+    .tooltiptext = Bogmærk side ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Rediger bogmærke…
+    .tooltiptext = Rediger bogmærke
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Rediger bogmærke…
+    .tooltiptext = Rediger bogmærke ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Gem link som…
     .accesskey = G
+main-context-menu-bookmark-page-2 =
+    .aria-label = Bogmærk side…
+    .tooltiptext = Bogmærk side
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Tilslut en enhed for 
 main-context-menu-use-saved-password =
     .label = Brug gemt adgangskode
     .accesskey = B
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Brug { -relay-brand-short-name }-mail-maske
     .accesskey = m

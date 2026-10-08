@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = पछाडि जाने
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = एक पृष्ठ पछाडि जानुहोस् ({ $shortcut })
+toolbar-button-back-3 =
+    .label = पछाडि जाने
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = एक पृष्ठ पछाडि जानुहोस् ({ $shortcut })
+    .aria-label = पछाडि जाने
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = अगाडि
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = एक पृष्ठ अगाडि जानुहोस् ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = अगाडि
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = एक पृष्ठ अगाडि जानुहोस् ({ $shortcut })
+    .aria-label = अगाडि
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = पुनः लोड गर्नुहोस्
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = पुनः लोड गर्नुहोस्
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = पुनः लोड गर्नुहोस्
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = रोक्नुहोस्
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = रोक्नुहोस्
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = रोक्नुहोस्
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = पुनः लोड गर्नुहोस्
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = बुकमार्क सम्पादन गर्नुहोस्…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = बुकमार्क पृष्ठ…
+    .tooltiptext = बुकमार्क पृष्ठ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = बुकमार्क सम्पादन गर्नुहोस्…
+    .tooltiptext = बुकमार्क सम्पादन गर्नुहोस्
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = बुकमार्क सम्पादन गर्नुहोस्…
+    .tooltiptext = बुकमार्क सम्पादन गर्नुहोस्({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -139,6 +184,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = यस रूपमा लिङ्क सङ्ग्रह गर्नुहोस्...
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = बुकमार्क पृष्ठ…
+    .tooltiptext = बुकमार्क पृष्ठ
 
 ##
 
@@ -274,6 +322,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = सुरक्षित पासवर्ड प्रयोग गर्नुहोस्
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } इमेल मास्क प्रयोग गर्नुहोस्
     .accesskey = E

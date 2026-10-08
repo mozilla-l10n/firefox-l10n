@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Edellinen
     .accesskey = E
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Siirry sivu taaksepäin ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Edellinen
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Siirry sivu taaksepäin ({ $shortcut })
+    .aria-label = Edellinen
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Seuraava
     .accesskey = e
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Siirry sivu eteenpäin ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Seuraava
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Siirry sivu eteenpäin ({ $shortcut })
+    .aria-label = Seuraava
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Päivitä
     .accesskey = P
+toolbar-button-reload-2 =
+    .label = Päivitä
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Päivitä
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Pysäytä
     .accesskey = P
+toolbar-button-stop-2 =
+    .label = Pysäytä
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Pysäytä
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Päivitä
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Muokkaa kirjanmerkkiä…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Lisää sivu kirjanmerkkeihin…
+    .tooltiptext = Lisää sivu kirjanmerkkeihin ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Muokkaa kirjanmerkkiä…
+    .tooltiptext = Muokkaa kirjanmerkkiä
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Muokkaa kirjanmerkkiä…
+    .tooltiptext = Muokkaa kirjanmerkkiä ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Tallenna kohde levylle…
     .accesskey = T
+main-context-menu-bookmark-page-2 =
+    .aria-label = Lisää sivu kirjanmerkkeihin…
+    .tooltiptext = Lisää sivu kirjanmerkkeihin
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Yhdistä laite lähet
 main-context-menu-use-saved-password =
     .label = Käytä tallennettua salasanaa
     .accesskey = s
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Käytä { -relay-brand-short-name }-sähköpostimaskia
     .accesskey = E

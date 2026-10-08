@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Air ais
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Rach duilleag air ais ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Air ais
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Rach duilleag air ais ({ $shortcut })
+    .aria-label = Air ais
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Air adhart
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Rach duilleag air adhart ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Air adhart
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Rach duilleag air adhart ({ $shortcut })
+    .aria-label = Air adhart
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Ath-luchdaich
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Ath-luchdaich
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Ath-luchdaich
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Sguir dheth
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Sguir dheth
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Sguir dheth
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Ath-luchdaich
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Deasaich an comharra-lìn…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Dèan comharra-lìn dhen duilleag…
+    .tooltiptext = Dèan comharra-lìn dhen duilleag ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Deasaich an comharra-lìn…
+    .tooltiptext = Deasaich an comharra-lìn
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Deasaich an comharra-lìn…
+    .tooltiptext = Deasaich an comharra-lìn ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Sàbhail an ceangal mar…
     .accesskey = S
+main-context-menu-bookmark-page-2 =
+    .aria-label = Dèan comharra-lìn dhen duilleag…
+    .tooltiptext = Dèan comharra-lìn dhen duilleag
 
 ##
 
@@ -294,6 +342,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Cleachd facal-faire air a shàbhaladh
     .accesskey = C
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Cleachd masg puist-d { -relay-brand-short-name }
     .accesskey = e

@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Tillbaka
     .accesskey = b
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Gå tillbaka en sida ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Tillbaka
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Gå tillbaka en sida ({ $shortcut })
+    .aria-label = Tillbaka
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Framåt
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Gå framåt en sida ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Framåt
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Gå framåt en sida ({ $shortcut })
+    .aria-label = Framåt
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Uppdatera
     .accesskey = U
+toolbar-button-reload-2 =
+    .label = Uppdatera
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Uppdatera
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stopp
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stopp
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stopp
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Uppdatera
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Redigera bokmärke…
     .accesskey = R
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Bokmärk sida…
+    .tooltiptext = Bokmärk sida ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Redigera bokmärke…
+    .tooltiptext = Redigera bokmärke
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Redigera bokmärke…
+    .tooltiptext = Redigera bokmärke ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Spara länk som…
     .accesskey = m
+main-context-menu-bookmark-page-2 =
+    .aria-label = Bokmärk sida…
+    .tooltiptext = Bokmärk sida
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Anslut en enhet för 
 main-context-menu-use-saved-password =
     .label = Använd sparat lösenord
     .accesskey = A
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Använd { -relay-brand-short-name } e-postalias
     .accesskey = A

@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = پچھوں  تے
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = ہک ورقہ پچھو تے ونڄو ({ $shortcut })
+toolbar-button-back-3 =
+    .label = پچھو تے
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = ہک ورقہ پچھو تے ونڄو ({ $shortcut })
+    .aria-label = پچھو تے
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = اڳو تے
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ہک ورقہ اڳو تے ونڄو ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = اڳوں  تے
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ہک ورقہ اڳو تے ونڄو ({ $shortcut })
+    .aria-label = اڳوں  تے
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = ولدا لوڈ کرو
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = ولدا لوڈ کرو
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = ولدا لوڈ کرو
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = رک ونڄو
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = رک ونڄو
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = رک ونڄو
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = ولدا لوڈ کرو
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = ایں نشانی وچ ترمیم کرو
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = ورقہ بک مارک کرو …
+    .tooltiptext = ورقہ بک مارک کرو ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = ایں نشانی وچ ترمیم کرو۔۔۔
+    .tooltiptext = نشانی وچ ترمیم کرو
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = بک مارک ترمیم کرو…
+    .tooltiptext = بک مارک ترمیم کرو ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -139,6 +184,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = لنک ہتھیکڑا کرو بطور …
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = ورقہ بک مارک کرو …
+    .tooltiptext = ورقہ  بک مارک کرو
 
 ##
 
@@ -274,6 +322,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = محفوظ پاس ورڈ استعمال کرو
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } ای میل مسسک ورتو
     .accesskey = E

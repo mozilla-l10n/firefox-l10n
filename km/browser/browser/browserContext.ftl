@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = ថយក្រោយ
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = ថយក្រោយ​មួយ​ទំព័រ ({ $shortcut })
+toolbar-button-back-3 =
+    .label = ថយក្រោយ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = ថយក្រោយ​មួយ​ទំព័រ ({ $shortcut })
+    .aria-label = ថយក្រោយ
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = ទៅមុខ
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ទៅមុខ​មួយ​ទំព័រ ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = ទៅមុខ
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ទៅមុខ​មួយ​ទំព័រ ({ $shortcut })
+    .aria-label = ទៅមុខ
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = ផ្ទុក​ឡើងវិញ
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = ផ្ទុក​ឡើងវិញ
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = ផ្ទុក​ឡើងវិញ
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = បញ្ឈប់
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = បញ្ឈប់
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = បញ្ឈប់
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = ផ្ទុក​ឡើងវិញ
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = កែសម្រួល​ចំណាំ…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = ទំព័រចំណាំ…
+    .tooltiptext = ទំព័រចំណាំ ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = កែសម្រួល​ចំណាំ…
+    .tooltiptext = កែសម្រួល​ចំណាំ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = កែសម្រួល​ចំណាំ…
+    .tooltiptext = កែសម្រួល​ចំណាំ ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -139,6 +184,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = រក្សាទុក​តំណជា...
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = ទំព័រចំណាំ…
+    .tooltiptext = ទំព័រចំណាំ
 
 ##
 
@@ -245,6 +293,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = ប្រើពាក្យសម្ងាត់ដែលបានរក្សាទុក
     .accesskey = o
+
+##
+
 main-context-menu-suggest-strong-password =
     .label = ណែនាំពាក្យសម្ងាត់ខ្លាំង...
     .accesskey = S

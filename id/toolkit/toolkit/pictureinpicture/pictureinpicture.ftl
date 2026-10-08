@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Gambar-dalam-Gambar
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Pengaturan subtitel
+pictureinpicture-subtitles-toggle =
+    .label = Subtitel
 pictureinpicture-subtitles-label = Subtitel
+pictureinpicture-font-size-group =
+    .label = Ukuran fon
+pictureinpicture-font-size-small-radio =
+    .label = Kecil
+pictureinpicture-font-size-medium-radio =
+    .label = Sedang
+pictureinpicture-font-size-large-radio =
+    .label = Besar
 pictureinpicture-font-size-label = Ukuran fon
 pictureinpicture-font-size-small = Kecil
 pictureinpicture-font-size-medium = Sedang

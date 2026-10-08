@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Terug
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Gaan een bladsy terug ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Terug
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Gaan een bladsy terug ({ $shortcut })
+    .aria-label = Terug
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Vorentoe
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Gaan een bladsy vorentoe ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Vorentoe
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Gaan een bladsy vorentoe ({ $shortcut })
+    .aria-label = Vorentoe
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Herlaai
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Herlaai
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Herlaai
 
 ## Stop
 
@@ -64,13 +90,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stop
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stop
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stop
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Herlaai
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -178,6 +213,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = E-pos klank…
     .accesskey = a
+
+##
+
 
 ##
 

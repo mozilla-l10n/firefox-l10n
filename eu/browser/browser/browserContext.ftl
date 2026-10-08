@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Atzera
     .accesskey = z
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Joan orri bat atzera ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Atzera
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Joan orri bat atzera ({ $shortcut })
+    .aria-label = Atzera
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Aurrera
     .accesskey = A
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Joan orri bat aurrera ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Aurrera
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Joan orri bat aurrera ({ $shortcut })
+    .aria-label = Aurrera
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Berritu
     .accesskey = r
+toolbar-button-reload-2 =
+    .label = Berritu
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Berritu
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Gelditu
     .accesskey = G
+toolbar-button-stop-2 =
+    .label = Gelditu
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Gelditu
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Berritu
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Editatu laster-marka…
     .accesskey = E
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Egin orriaren laster-marka…
+    .tooltiptext = Egin orriaren laster-marka ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Editatu laster-marka…
+    .tooltiptext = Editatu laster-marka
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Editatu laster-marka…
+    .tooltiptext = Editatu laster-marka ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Gorde lotura honela…
     .accesskey = G
+main-context-menu-bookmark-page-2 =
+    .aria-label = Egin orriaren laster-marka…
+    .tooltiptext = Egin orriaren laster-marka
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Konektatu gailu bat o
 main-context-menu-use-saved-password =
     .label = Erabili gordetako pasahitza
     .accesskey = h
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Erabili { -relay-brand-short-name } posta-maskara
     .accesskey = E

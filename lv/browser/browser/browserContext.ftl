@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Atpakaļ
     .accesskey = A
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Doties vienu lapu atpakaļ ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Atpakaļ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Doties vienu lapu atpakaļ ({ $shortcut })
+    .aria-label = Atpakaļ
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Uz priekšu
     .accesskey = P
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Iet vienu lapu uz priekšu ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Uz priekšu
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Iet vienu lapu uz priekšu ({ $shortcut })
+    .aria-label = Uz priekšu
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Pārlādēt
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Pārlādēt
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Pārlādēt
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Apturēt
     .accesskey = T
+toolbar-button-stop-2 =
+    .label = Apturēt
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Apturēt
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Pārlādēt
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Labot grāmatzīmi…
     .accesskey = g
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Saglabāta grāmatzīmēs…
+    .tooltiptext = Saglabāta grāmatzīmēs ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Labot grāmatzīmi…
+    .tooltiptext = Labot grāmatzīmi
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Labot grāmatzīmi…
+    .tooltiptext = Labot grāmatzīmi ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Saglabāt saiti kā…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = Saglabāta grāmatzīmēs…
+    .tooltiptext = Saglabāta grāmatzīmēs
 
 ##
 
@@ -295,6 +343,9 @@ main-context-menu-send-to-mobile-enable-sync2 = Jāiespējo vienādošana, lai n
 main-context-menu-use-saved-password =
     .label = Izmantot saglabāto paroli
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Izmantot { -relay-brand-short-name } e-pasta aizsegu
     .accesskey = e

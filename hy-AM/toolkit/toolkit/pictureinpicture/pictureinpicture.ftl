@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Նկարը նկարում
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -31,6 +35,9 @@ pictureinpicture-exit-fullscreen-btn2 =
     .aria-label = Դուրս գալ Լիաէկրանից
     .tooltip = Դուրս գալ Լիաէկրանից (կրկնակի սեղմեք կամ { $shortcut })
 
+##
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -49,4 +56,6 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Ենթագրերի կարգավորումներ
+pictureinpicture-subtitles-toggle =
+    .label = Ենթագրեր
 pictureinpicture-subtitles-label = Ենթագրեր

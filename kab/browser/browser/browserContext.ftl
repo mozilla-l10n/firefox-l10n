@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Ɣer deffir
     .accesskey = D
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Uɣal ɣer deffir s yiwen usebter ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Γer deffir
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Uɣal ɣer deffir s yiwen usebter ({ $shortcut })
+    .aria-label = Γer deffir
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Ɣer sdat
     .accesskey = S
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Aẓ ɣer zdat s yiwen usebter ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Ɣer zdat
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Aẓ ɣer zdat s yiwen usebter ({ $shortcut })
+    .aria-label = Ɣer zdat
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Smiren
     .accesskey = S
+toolbar-button-reload-2 =
+    .label = Smiren
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Smiren
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Seḥbes
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Seḥbes
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Seḥbes
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Smiren
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Ẓreg tacreḍt n usebter…
     .accesskey = ḍ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Creḍ asebter…
+    .tooltiptext = Creḍ asebter ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Ẓreg tacreḍt n usebter…
+    .tooltiptext = Ẓreg tacreḍt n usebter
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Ẓreg tacreḍt n usebter…
+    .tooltiptext = Ẓreg tacreḍt n usebter ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -139,6 +184,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Sekles aseɣwen s yisem…
     .accesskey = S
+main-context-menu-bookmark-page-2 =
+    .aria-label = Creḍ asebter…
+    .tooltiptext = Creḍ asebter
 
 ##
 
@@ -283,6 +331,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = Seqdec awal uffir yettwaskelsen
     .accesskey = a
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Seqdec agelmus n yimayl { -relay-brand-short-name }
     .accesskey = I

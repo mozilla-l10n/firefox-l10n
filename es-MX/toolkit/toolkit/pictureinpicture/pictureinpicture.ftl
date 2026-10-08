@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Picture-in-Picture
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,6 +68,8 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Configuración de subtítulos
+pictureinpicture-subtitles-toggle =
+    .label = Subtítulos
 pictureinpicture-subtitles-label = Subtítulos
 # The live readout of the current playback speed shown in the playback speed
 # panel, updated as the user moves the slider. Unlike the preset labels, whole
@@ -78,6 +84,14 @@ pictureinpicture-playback-rate-value = { NUMBER($rate) }×
 # Variables:
 #   $rate (number) - The preset's playback rate, e.g. 1.5.
 pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) }×
+pictureinpicture-font-size-group =
+    .label = Tamaño de fuente
+pictureinpicture-font-size-small-radio =
+    .label = Pequeño
+pictureinpicture-font-size-medium-radio =
+    .label = Mediano
+pictureinpicture-font-size-large-radio =
+    .label = Grande
 pictureinpicture-font-size-label = Tamaño de fuente
 pictureinpicture-font-size-small = Pequeño
 pictureinpicture-font-size-medium = Mediano

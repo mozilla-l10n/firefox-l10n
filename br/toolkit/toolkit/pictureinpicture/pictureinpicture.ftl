@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Skeudenn-ouzh-skeudenn
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Arventennoù an istitloù
+pictureinpicture-subtitles-toggle =
+    .label = Istitloù
 pictureinpicture-subtitles-label = Istitloù
+pictureinpicture-font-size-group =
+    .label = Ment an nodrezh
+pictureinpicture-font-size-small-radio =
+    .label = Bihan
+pictureinpicture-font-size-medium-radio =
+    .label = Krenn
+pictureinpicture-font-size-large-radio =
+    .label = Bras
 pictureinpicture-font-size-label = Ment an nodrezh
 pictureinpicture-font-size-small = Bihan
 pictureinpicture-font-size-medium = Krenn

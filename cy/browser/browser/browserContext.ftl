@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Nôl
     .accesskey = N
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Nôl un tudalen ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Nôl
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Nôl un tudalen ({ $shortcut })
+    .aria-label = Nôl
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Ymlaen
     .accesskey = Y
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Ymlaen un tudalen ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Ymlaen
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Ymlaen un tudalen ({ $shortcut })
+    .aria-label = Ymlaen
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Ail-lwytho
     .accesskey = A
+toolbar-button-reload-2 =
+    .label = Ail-lwytho
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Ail-lwytho
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Atal
     .accesskey = t
+toolbar-button-stop-2 =
+    .label = Atal
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Atal
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Ail-lwytho
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Golygu Nod Tudalen…
     .accesskey = G
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Gosod Nod i Dudalen…
+    .tooltiptext = Gosod nod i dudalen ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Golygu Nod Tudalen…
+    .tooltiptext = Golygu nod tudalen
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Golygu Nod Tudalen…
+    .tooltiptext = Golygu nod tudalen ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Cadw'r Ddolen Fel…
     .accesskey = a
+main-context-menu-bookmark-page-2 =
+    .aria-label = Gosod Nod i Dudalen…
+    .tooltiptext = Gosod nod i dudalen
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Cysylltwch Ddyfais i 
 main-context-menu-use-saved-password =
     .label = Defnyddio Cyfrinair wedi'i Gadw
     .accesskey = C
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Defnyddio Arallenw E-bost { -relay-brand-short-name }
     .accesskey = D

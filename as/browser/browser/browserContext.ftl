@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = পিছলৈ
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = এখন পৃষ্ঠা পিছুৱাই যাওক ({ $shortcut })
+toolbar-button-back-3 =
+    .label = পিছলৈ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = এখন পৃষ্ঠা পিছুৱাই যাওক ({ $shortcut })
+    .aria-label = পিছলৈ
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = আগুৱাওক
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = এখন পৃষ্ঠা আগুৱাই যাওক ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = আগুৱাওক
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = এখন পৃষ্ঠা আগুৱাই যাওক ({ $shortcut })
+    .aria-label = আগুৱাওক
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = ৰিল'ড কৰক
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = ৰিল'ড কৰক
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = ৰিল'ড কৰক
 
 ## Stop
 
@@ -64,13 +90,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = ৰখাওক
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = ৰখাওক
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = ৰখাওক
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = ৰিল'ড কৰক
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -96,6 +131,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = বুকমাৰ্ক সম্পাদন কৰক…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = পৃষ্ঠা বুকমাৰ্ক কৰক…
+    .tooltiptext = পৃষ্ঠা বুকমাৰ্ক কৰক ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = বুকমাৰ্ক সম্পাদন কৰক…
+    .tooltiptext = বুকমাৰ্ক সম্পাদন কৰক
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = বুকমাৰ্ক সম্পাদন কৰক…
+    .tooltiptext = বুকমাৰ্ক সম্পাদন কৰক ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -133,6 +181,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = এই ধৰণে লিংক সংৰক্ষণ কৰক…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = পৃষ্ঠা বুকমাৰ্ক কৰক…
+    .tooltiptext = পৃষ্ঠা বুকমাৰ্ক কৰক
 
 ##
 
@@ -268,6 +319,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = সাঁচি থোৱা পাছৱাৰ্ড ব্যৱহাৰ কৰক
     .accesskey = ৱ
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-ৰ ইমেইল মাস্ক ব্যৱহাৰ কৰক
     .accesskey = E

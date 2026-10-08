@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Slika-u-slici
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Postavke podnaslova
+pictureinpicture-subtitles-toggle =
+    .label = Titlovi
 pictureinpicture-subtitles-label = Titlovi
+pictureinpicture-font-size-group =
+    .label = Veličina fonta
+pictureinpicture-font-size-small-radio =
+    .label = Mala
+pictureinpicture-font-size-medium-radio =
+    .label = Srednja
+pictureinpicture-font-size-large-radio =
+    .label = Velika
 pictureinpicture-font-size-label = Veličina fonta
 pictureinpicture-font-size-small = Mala
 pictureinpicture-font-size-medium = Srednja

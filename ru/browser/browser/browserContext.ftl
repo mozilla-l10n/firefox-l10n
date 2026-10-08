@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Назад
     .accesskey = Н
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = На предыдущую страницу ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Назад
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = На предыдущую страницу ({ $shortcut })
+    .aria-label = Назад
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Вперёд
     .accesskey = В
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = На следующую страницу ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Вперёд
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = На следующую страницу ({ $shortcut })
+    .aria-label = Вперёд
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Обновить
     .accesskey = О
+toolbar-button-reload-2 =
+    .label = Обновить
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Обновить
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Остановить
     .accesskey = т
+toolbar-button-stop-2 =
+    .label = Остановить
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Остановить
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Обновить
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Изменить закладку…
     .accesskey = м
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Добавить страницу в закладки…
+    .tooltiptext = Добавить страницу в закладки ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Изменить закладку…
+    .tooltiptext = Изменить закладку
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Изменить закладку…
+    .tooltiptext = Изменить закладку ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Сохранить объект как…
     .accesskey = С
+main-context-menu-bookmark-page-2 =
+    .aria-label = Добавить страницу в закладки…
+    .tooltiptext = Добавить страницу в закладки
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Подключить 
 main-context-menu-use-saved-password =
     .label = Использовать сохранённый пароль
     .accesskey = н
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Использовать псевдоним эл. почты { -relay-brand-short-name }
     .accesskey = н

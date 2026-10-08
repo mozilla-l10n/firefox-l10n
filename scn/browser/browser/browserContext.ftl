@@ -15,10 +15,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Nn’arrè
     .accesskey = a
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Vai na pàggina nn’arrè ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Nn’arrè
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Vai na pàggina nn’arrè ({ $shortcut })
+    .aria-label = Nn’arrè
 
 ## Forward
 
@@ -32,10 +43,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Avanti
     .accesskey = A
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Vai avanti di na pàggina ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Avanti
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Vai avanti di na pàggina ({ $shortcut })
+    .aria-label = Avanti
 
 ## Reload
 
@@ -46,8 +68,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Càrrica arrè
     .accesskey = C
+toolbar-button-reload-2 =
+    .label = Càrrica arrè
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Càrrica arrè
 
 ## Stop
 
@@ -58,13 +84,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Ferma
     .accesskey = F
+toolbar-button-stop-2 =
+    .label = Ferma
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Ferma
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Càrrica arrè
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -134,6 +169,10 @@ main-context-menu-media-loop =
     .label = Ripeti
     .accesskey = R
 
+## The access keys for "Show Controls" and "Hide Controls" are the same
+## because the two context-menu items are mutually exclusive.
+
+
 ## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-image-reload =
@@ -160,6 +199,9 @@ main-context-menu-audio-save-as =
 main-context-menu-audio-email =
     .label = Manna u sonu…
     .accesskey = a
+
+##
+
 
 ##
 

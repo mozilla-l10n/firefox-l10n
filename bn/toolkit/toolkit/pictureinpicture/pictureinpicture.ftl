@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = ছবির মধ্যে ছবি
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -24,6 +28,21 @@ pictureinpicture-subtitles-btn =
 
 ##
 
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
+
+
+##
+
+pictureinpicture-font-size-small-radio =
+    .label = ছোট
+pictureinpicture-font-size-medium-radio =
+    .label = মধ্যম
+pictureinpicture-font-size-large-radio =
+    .label = বড়
 pictureinpicture-font-size-small = ছোট
 pictureinpicture-font-size-medium = মধ্যম
 pictureinpicture-font-size-large = বড়

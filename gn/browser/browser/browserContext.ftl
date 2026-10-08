@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Tapykue
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Kuatiarogue mboyveguápe jeho ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Tapykue
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Kuatiarogue mboyveguápe jeho ({ $shortcut })
+    .aria-label = Tapykue
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Tenonde
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Kuatiarogue upeiguápe jeho ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Tenonde
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Kuatiarogue upeiguápe jeho ({ $shortcut })
+    .aria-label = Tenonde
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Myanyhẽjey
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Myanyhẽjey
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Myanyhẽjey
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Epyta
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Epyta
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Epyta
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Myanyhẽjey
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Embosako’i techaukaha…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Embojuaju kuatiarogue techaukaháre…
+    .tooltiptext = Embojuaju kuatiarogue techaukaháre ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Embosako’i Techaukaha…
+    .tooltiptext = Embosako’i techaukaha
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Embosako’i Techaukaha…
+    .tooltiptext = Embosako’i techaukaha ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Joajuha ñongatu pyahu…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = Embojuaju kuatiarogue rechaukaháre…
+    .tooltiptext = Embojuaju kuatiarogue rechaukaháre
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Embojuaju mba’e’o
 main-context-menu-use-saved-password =
     .label = Eiporu ñe’ẽñemi ñongatupyre
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Eiporu { -relay-brand-short-name } Email Mask
     .accesskey = E

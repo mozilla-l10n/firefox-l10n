@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Keri
     .accesskey = K
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Bir saife keri bar ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Keri
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Bir saife keri bar ({ $shortcut })
+    .aria-label = Keri
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = İleri
     .accesskey = l
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Bir saife ileri bar ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = İleri
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Bir saife ileri bar ({ $shortcut })
+    .aria-label = İleri
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Kene yükle
     .accesskey = K
+toolbar-button-reload-2 =
+    .label = Kene yükle
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Kene yükle
 
 ## Stop
 
@@ -64,13 +90,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Toqtat
     .accesskey = T
+toolbar-button-stop-2 =
+    .label = Toqtat
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Toqtat
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Kene yükle
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -178,6 +213,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Audionı E-poçtala…
     .accesskey = A
+
+##
+
 
 ##
 

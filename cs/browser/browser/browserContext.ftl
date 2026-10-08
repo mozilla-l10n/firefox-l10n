@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Zpět
     .accesskey = Z
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Přejde na předchozí stránku ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Zpět
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Přejde na předchozí stránku ({ $shortcut })
+    .aria-label = Zpět
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Vpřed
     .accesskey = V
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Přejde na následující stránku ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Vpřed
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Přejde na následující stránku ({ $shortcut })
+    .aria-label = Vpřed
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Znovu načíst
     .accesskey = o
+toolbar-button-reload-2 =
+    .label = Znovu načíst
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Znovu načíst
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Zastavit
     .accesskey = s
+toolbar-button-stop-2 =
+    .label = Zastavit
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Zastavit
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Znovu načíst
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Upravit záložku…
     .accesskey = p
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Přidat stránku do záložek…
+    .tooltiptext = Přidá stránku do záložek ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Upravit záložku…
+    .tooltiptext = Upraví záložku
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Upravit záložku…
+    .tooltiptext = Upraví záložku ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Uložit odkaz jako…
     .accesskey = U
+main-context-menu-bookmark-page-2 =
+    .aria-label = Přidat stránku do záložek…
+    .tooltiptext = Přidá stránku do záložek
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Pro odeslání strán
 main-context-menu-use-saved-password =
     .label = Použít uložené heslo
     .accesskey = u
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Použít e-mailovou masku { -relay-brand-short-name }
     .accesskey = e

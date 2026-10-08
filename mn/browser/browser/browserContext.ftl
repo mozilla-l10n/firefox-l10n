@@ -7,7 +7,6 @@
 
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
-
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
 
@@ -15,7 +14,6 @@ toolbar-button-back-2 =
 
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
-
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
 
@@ -34,7 +32,8 @@ toolbar-button-stop =
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
 
-## Firefox Account Button
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -47,22 +46,14 @@ main-context-menu-page-save =
 main-context-menu-open-link-new-tab =
     .label = Холбоосыг шинэ самбарт нээ
     .accesskey = Х
-
 main-context-menu-open-link-new-window =
     .label = Холбоосыг шинэ цонхонд нээ
     .accesskey = Х
-
 main-context-menu-save-link =
     .label = Холбогдсон файлд нэр өгч хадгал
     .accesskey = ө
 
-## The access keys for "Copy Link Location" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
-
-## The access keys for "Copy Link" and "Copy Email Address"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 main-context-menu-copy-email =
     .label = Захианы хаягийг сана
@@ -77,7 +68,6 @@ main-context-menu-copy-email =
 main-context-menu-media-play =
     .label = Тоглуул
     .accesskey = о
-
 main-context-menu-media-pause =
     .label = Завсарла
     .accesskey = в
@@ -87,7 +77,6 @@ main-context-menu-media-pause =
 main-context-menu-media-mute =
     .label = Дуугүй
     .accesskey = ү
-
 main-context-menu-media-unmute =
     .label = Дуутай
     .accesskey = й
@@ -98,84 +87,63 @@ main-context-menu-media-unmute =
 main-context-menu-media-show-controls =
     .label = Удирдлагыг харуул
     .accesskey = д
-
 main-context-menu-media-hide-controls =
     .label = Удирдлагыг нуу
     .accesskey = ы
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-image-reload =
     .label = Зургийг дахин дууд
     .accesskey = д
-
 main-context-menu-image-copy =
     .label = Зургийг сануул
     .accesskey = у
-
 main-context-menu-image-save-as =
     .label = Зурганд нэр өгч хадгал…
     .accesskey = З
-
 main-context-menu-audio-save-as =
     .label = Дуут файлд нэр өгч хадгал…
     .accesskey = н
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
-
 ##
 
-main-context-menu-keyword =
-    .label = Энэ хайлтад түлхүүр үг нэм…
-    .accesskey = ү
+
+##
 
 main-context-menu-frame =
     .label = Энэ хүрээ
     .accesskey = Э
-
 main-context-menu-frame-show-this =
     .label = Зөвхөн энэ хүрээг харах
     .accesskey = З
-
 main-context-menu-frame-open-tab =
     .label = Хүрээг шинэ самбарт нээ
     .accesskey = Х
-
 main-context-menu-frame-open-window =
     .label = Хүрээг шинэ цонхонд нээ
     .accesskey = Х
-
 main-context-menu-frame-reload =
     .label = Хүрээг дахин дууд
     .accesskey = Х
-
 main-context-menu-frame-save-as =
     .label = Хүрээнд нэр өгч хадгал…
     .accesskey = Х
-
 main-context-menu-frame-print =
     .label = Хүрээг хэвлэ…
     .accesskey = в
-
 main-context-menu-frame-view-source =
     .label = Хүрээний эх бичлэгийг харах
     .accesskey = Х
-
 main-context-menu-frame-view-info =
     .label = Хүрээний мэдэгдлийг харах
     .accesskey = Х
-
 main-context-menu-view-selection-source =
     .label = Сонгосон хэсгийн эх бичлэгийг харах
     .accesskey = ч
-
 main-context-menu-view-page-source =
     .label = Хуудасны эх бичлэгийг харах
     .accesskey = Х
-
 main-context-menu-bidi-switch-text =
     .label = Текстийн чиглэлд сэлгэ
     .accesskey = ч
-

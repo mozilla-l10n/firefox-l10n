@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Cen
     .accesskey = C
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Dok cen pot buk acel ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Cen
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Dok cen pot buk acel ({ $shortcut })
+    .aria-label = Cen
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Anyim
     .accesskey = A
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Cit anyim pot buk acel ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Anyim
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Cit anyim pot buk acel ({ $shortcut })
+    .aria-label = Anyim
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Nwo cano
     .accesskey = N
+toolbar-button-reload-2 =
+    .label = Nwo cano
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Nwo cano
 
 ## Stop
 
@@ -64,13 +90,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Juk
     .accesskey = J
+toolbar-button-stop-2 =
+    .label = Juk
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Juk
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Nwo cano
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -188,6 +223,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = Cwal dwon…
     .accesskey = l
+
+##
+
 
 ##
 

@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = ছবিৰ-ওপৰত-ছবি
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = ছাবটাইটেলৰ ছেটিংছ
+pictureinpicture-subtitles-toggle =
+    .label = ছাবটাইটেল
 pictureinpicture-subtitles-label = ছাবটাইটেল
+pictureinpicture-font-size-group =
+    .label = ফ‌ণ্টৰ আকাৰ
+pictureinpicture-font-size-small-radio =
+    .label = সৰু
+pictureinpicture-font-size-medium-radio =
+    .label = মজলীয়া
+pictureinpicture-font-size-large-radio =
+    .label = ডাঙৰ
 pictureinpicture-font-size-label = ফ‌ণ্টৰ আকাৰ
 pictureinpicture-font-size-small = সৰু
 pictureinpicture-font-size-medium = মজলীয়া

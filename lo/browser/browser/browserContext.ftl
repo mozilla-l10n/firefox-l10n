@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = ກັບຄືນ
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = ກັບໄປຫນຶ່ງຫນ້າ ({ $shortcut })
+toolbar-button-back-3 =
+    .label = ກັບຄືນ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = ກັບໄປຫນຶ່ງຫນ້າ ({ $shortcut })
+    .aria-label = ກັບຄືນ
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = ໄປຂ້າງຫນ້າ
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = ໄປຫນ້າຖັດໄປ ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = ໄປຂ້າງຫນ້າ
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = ໄປຫນ້າຖັດໄປ ({ $shortcut })
+    .aria-label = ໄປຂ້າງຫນ້າ
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = ໂຫລດໃຫມ່
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = ໂຫລດໃຫມ່
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = ໂຫລດໃຫມ່
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = ຢຸດ
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = ຢຸດ
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = ຢຸດ
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = ໂຫລດໃຫມ່
 
 ## Account toolbar Button
 
@@ -263,6 +295,9 @@ main-context-menu-audio-email =
 main-context-menu-use-saved-password =
     .label = ໃຊ້ລະຫັດຜ່ານທີ່ບັນທຶກໄວ້
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = ໃຊ້ { -relay-brand-short-name } Email Mask
     .accesskey = E

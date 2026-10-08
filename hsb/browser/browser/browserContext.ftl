@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Wróćo
     .accesskey = W
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Jednu stronu wróćo ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Wróćo
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Jednu stronu wróćo ({ $shortcut })
+    .aria-label = Wróćo
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Doprědka
     .accesskey = D
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Jednu stronu doprědka ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Doprědka
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Jednu stronu doprědka ({ $shortcut })
+    .aria-label = Doprědka
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Znowa
     .accesskey = Z
+toolbar-button-reload-2 =
+    .label = Znowa
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Znowa
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stój
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stój
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stój
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Znowa
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Zapołožku wobdźěłać…
     .accesskey = o
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Stronu jako zapołožku składować …
+    .tooltiptext = Stronu jako zapołožku składować ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Zapołožku wobdźěłać …
+    .tooltiptext = Zapołožku wobdźěłać
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Zapołožku wobdźěłać …
+    .tooltiptext = Zapołožku wobdźěłać ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Wotkaz składować jako…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = Stronu jako zapołožku składować …
+    .tooltiptext = Stronu jako zapołožku składować
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Zwjazajće grat, zo b
 main-context-menu-use-saved-password =
     .label = Składowane hesło wužiwać
     .accesskey = h
+
+##
+
 main-context-menu-use-relay-mask =
     .label = E-mejlowu masku { -relay-brand-short-name } wužiwać
     .accesskey = E

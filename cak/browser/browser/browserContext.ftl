@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Chi rij
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Titzolïx jun ruxaq ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Chi rij
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Titzolïx jun ruxaq ({ $shortcut })
+    .aria-label = Chi rij
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Jun chik
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Jun chik ruxaq ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Jun chik
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Jun chik ruxaq ({ $shortcut })
+    .aria-label = Jun chik
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Tisamajïx chik
     .accesskey = s
+toolbar-button-reload-2 =
+    .label = Tisamajïx chik
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Tisamajïx chik
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Tiq'at
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Tiq'at
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Tiq'at
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Tisamajïx chik
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Tinuk' Yaketal…
     .accesskey = t
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Yaketal Ruxaq…
+    .tooltiptext = Yaketal ruxaq ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Tinuk' Yaketal…
+    .tooltiptext = Tinuk' yaketal
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Tinuk' Yaketal…
+    .tooltiptext = Tinuk' yaketal ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -139,6 +184,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Tiyak Ximonel Achi'el…
     .accesskey = o
+main-context-menu-bookmark-page-2 =
+    .aria-label = Yaketal Ruxaq…
+    .tooltiptext = Yaketal ruxaq
 
 ##
 
@@ -277,6 +325,9 @@ main-context-menu-send-to-device-2 =
 main-context-menu-use-saved-password =
     .label = Tokisäx Yakon Ewan Tzij
     .accesskey = z
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Tokisäx Ruk'oj rutaqoya'l { -relay-brand-short-name }
     .accesskey = t

@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Geri
     .accesskey = G
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Bir sayfa geriye ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Geri
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Bir sayfa geriye ({ $shortcut })
+    .aria-label = Geri
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = İleri
     .accesskey = e
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Bir sayfa ileriye ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = İleri
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Bir sayfa ileriye ({ $shortcut })
+    .aria-label = İleri
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Tazele
     .accesskey = z
+toolbar-button-reload-2 =
+    .label = Tazele
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Tazele
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Durdur
     .accesskey = D
+toolbar-button-stop-2 =
+    .label = Durdur
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Durdur
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Tazele
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Yer imini düzenle…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Yer imlerine ekle…
+    .tooltiptext = Yer imlerine ekle ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Yer imini düzenle…
+    .tooltiptext = Yer imini düzenle
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Yer imini düzenle…
+    .tooltiptext = Yer imini düzenle ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Bağlantıyı farklı kaydet…
     .accesskey = f
+main-context-menu-bookmark-page-2 =
+    .aria-label = Yer imlerine ekle…
+    .tooltiptext = Yer imlerine ekle
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Sayfa göndermek içi
 main-context-menu-use-saved-password =
     .label = Kayıtlı parolayı kullan
     .accesskey = u
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name } e-posta maskesini kullan
     .accesskey = E

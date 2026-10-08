@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Расм-дар-расм
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Танзимоти зерунвонҳо
+pictureinpicture-subtitles-toggle =
+    .label = Зерунвонҳо
 pictureinpicture-subtitles-label = Зерунвонҳо
+pictureinpicture-font-size-group =
+    .label = Андозаи ҳуруф
+pictureinpicture-font-size-small-radio =
+    .label = Хурд
+pictureinpicture-font-size-medium-radio =
+    .label = Миёна
+pictureinpicture-font-size-large-radio =
+    .label = Калон
 pictureinpicture-font-size-label = Андозаи ҳуруф
 pictureinpicture-font-size-small = Хурд
 pictureinpicture-font-size-medium = Миёна

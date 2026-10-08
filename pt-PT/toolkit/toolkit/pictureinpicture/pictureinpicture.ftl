@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Vídeo em janela flutuante
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -67,6 +71,8 @@ pictureinpicture-playback-rate-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Definições das legendas
+pictureinpicture-subtitles-toggle =
+    .label = Legendas
 pictureinpicture-subtitles-label = Legendas
 # This string is never displayed on the window. Is intended to be announced by
 # a screen reader whenever a user opens the playback speed settings panel
@@ -86,6 +92,14 @@ pictureinpicture-playback-rate-value = { NUMBER($rate) }×
 # Variables:
 #   $rate (number) - The preset's playback rate, e.g. 1.5.
 pictureinpicture-playback-rate-preset = { NUMBER($rate, minimumFractionDigits: 1) }×
+pictureinpicture-font-size-group =
+    .label = Tamanho do tipo de letra
+pictureinpicture-font-size-small-radio =
+    .label = Pequeno
+pictureinpicture-font-size-medium-radio =
+    .label = Médio
+pictureinpicture-font-size-large-radio =
+    .label = Grande
 pictureinpicture-font-size-label = Tamanho do tipo de letra
 pictureinpicture-font-size-small = Pequeno
 pictureinpicture-font-size-medium = Médio

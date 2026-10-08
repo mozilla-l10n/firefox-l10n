@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Tebek
     .accesskey = T
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Ien side tebek gean ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Tebek
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Ien side tebek gean ({ $shortcut })
+    .aria-label = Tebek
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Foarút
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Ien side foarút gean ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Foarút
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Ien side foarút gean ({ $shortcut })
+    .aria-label = Foarút
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Opnij lade
     .accesskey = n
+toolbar-button-reload-2 =
+    .label = Opnij lade
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Opnij lade
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Beëinigje
     .accesskey = B
+toolbar-button-stop-2 =
+    .label = Beëinigje
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Beëinigje
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Opnij lade
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Blêdwizer bewurkje…
     .accesskey = w
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Blêdwizer foar side meitsje…
+    .tooltiptext = Blêdwizer foar side meitsje ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Blêdwizer bewurkje…
+    .tooltiptext = Blêdwizer bewurkje…
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Blêdwizer bewurkje…
+    .tooltiptext = Blêdwizer bewurkje ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Keppeling bewarje as…
     .accesskey = l
+main-context-menu-bookmark-page-2 =
+    .aria-label = Blêdwizer foar side meitsje…
+    .tooltiptext = Blêdwizer foar side meitsje…
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Ferbyn in apparaat om
 main-context-menu-use-saved-password =
     .label = Bewarre wachtwurden brûke
     .accesskey = B
+
+##
+
 main-context-menu-use-relay-mask =
     .label = { -relay-brand-short-name }-e-mailmasker brûke
     .accesskey = m

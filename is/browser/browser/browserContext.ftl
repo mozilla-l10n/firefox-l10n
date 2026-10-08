@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Til baka
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Til baka um eina síðu ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Til baka
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Til baka um eina síðu ({ $shortcut })
+    .aria-label = Til baka
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Áfram
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Áfram um eina síðu ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Áfram
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Áfram um eina síðu ({ $shortcut })
+    .aria-label = Áfram
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Endurnýja
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Endurnýja
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Endurnýja
 
 ## Stop
 
@@ -64,13 +90,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stöðva
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stöðva
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stöðva
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Endurnýja
 
 ## Account toolbar Button
 
@@ -102,6 +134,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = Breyta bókamerki…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Bókamerkja síðu…
+    .tooltiptext = Bókamerkja síðu ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Breyta bókamerki…
+    .tooltiptext = Breyta bókamerki
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Breyta bókamerki…
+    .tooltiptext = Breyta bókamerki ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -142,6 +187,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Vista tengil sem…
     .accesskey = V
+main-context-menu-bookmark-page-2 =
+    .aria-label = Bókamerkja síðu…
+    .tooltiptext = Bókamerkja síðu
 
 ##
 
@@ -309,6 +357,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Tengdu tæki til að 
 main-context-menu-use-saved-password =
     .label = Nota vistað lykilorð
     .accesskey = o
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Notaðu { -relay-brand-short-name } tölvupósthulu
     .accesskey = o

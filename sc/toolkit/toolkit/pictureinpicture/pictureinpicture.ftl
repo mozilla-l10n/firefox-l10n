@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Immàgine-subra-immàgine
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Cunfiguratzione de is sutatìtulos
+pictureinpicture-subtitles-toggle =
+    .label = Sutatìtulos
 pictureinpicture-subtitles-label = Sutatìtulos
+pictureinpicture-font-size-group =
+    .label = Mannària de sa fonte
+pictureinpicture-font-size-small-radio =
+    .label = Pitica
+pictureinpicture-font-size-medium-radio =
+    .label = Mèdia
+pictureinpicture-font-size-large-radio =
+    .label = Manna
 pictureinpicture-font-size-label = Mannària de sa fonte
 pictureinpicture-font-size-small = Pitica
 pictureinpicture-font-size-medium = Mèdia

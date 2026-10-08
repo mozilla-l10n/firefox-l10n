@@ -21,10 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = Zréck
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = Eng Säit zréckgoen ({ $shortcut })
+toolbar-button-back-3 =
+    .label = Zréck
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = Eng Säit zréckgoen ({ $shortcut })
+    .aria-label = Zréck
 
 ## Forward
 
@@ -38,10 +49,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Virun
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Eng Säit no vir goen ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Virun
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Eng Säit no vir goen ({ $shortcut })
+    .aria-label = Virun
 
 ## Reload
 
@@ -52,8 +74,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Nei lueden
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Nei lueden
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Nei lueden
 
 ## Stop
 
@@ -64,13 +90,22 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Stopp
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = Stopp
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Stopp
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Nei lueden
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -92,9 +127,23 @@ main-context-menu-open-link-new-private-window =
 
 ##
 
+
+## Media (video/audio) controls
+##
+## The accesskey for "Play" and "Pause" are the
+## same because the two context-menu items are
+## mutually exclusive.
+
+
+##
+
 main-context-menu-media-loop =
     .label = Endlosschläif
     .accesskey = L
+
+## The access keys for "Show Controls" and "Hide Controls" are the same
+## because the two context-menu items are mutually exclusive.
+
 
 ## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
@@ -110,6 +159,9 @@ main-context-menu-image-reload =
 main-context-menu-image-info =
     .label = Informatioune vum Bild weisen
     .accesskey = f
+
+##
+
 
 ##
 
