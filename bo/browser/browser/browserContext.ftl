@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = ཕྱིར་ལོག
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = དྲ་ངོས་ཤིག་ཕྱིར་ལོག ({ $shortcut })
 toolbar-button-back-3 =
     .label = ཕྱིར་ལོག
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = དྲ་ངོས་ཤིག་ཕྱིར་ལོག ({ $shortcut })
+    .aria-label = ཕྱིར་ལོག
 
 ## Forward
 
