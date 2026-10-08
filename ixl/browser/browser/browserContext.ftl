@@ -26,8 +26,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Oksa  tuul
     .accesskey = O
+toolbar-button-reload-2 =
+    .label = Oksa  tuul
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Oksa  tuul
 
 ## Stop
 
@@ -49,6 +53,8 @@ main-context-menu-stop-2 =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }{ main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Oksa  tuul
 
 ## Account toolbar Button
 
