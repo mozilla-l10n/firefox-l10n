@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = w
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Bladwijzer voor pagina maken…
+    .tooltiptext = Bladwijzer voor pagina maken ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Bladwijzer bewerken…
+    .tooltiptext = Bladwijzer bewerken
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Bladwijzer bewerken…
+    .tooltiptext = Bladwijzer bewerken ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Bladwijzer voor pagina maken…
     .tooltiptext = Bladwijzer voor pagina maken ({ $shortcut })
@@ -165,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Koppeling opslaan als…
     .accesskey = l
+main-context-menu-bookmark-page-2 =
+    .aria-label = Bladwijzer voor pagina maken…
+    .tooltiptext = Bladwijzer voor pagina maken
 
 ##
 
