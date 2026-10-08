@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Dealbh am broinn deilbh
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -34,6 +38,9 @@ pictureinpicture-subtitles-btn =
     .aria-label = Fo-thiotalan
     .tooltip = Fo-thiotalan
 
+##
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -52,7 +59,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Roghainnean nam fo-thiotalan
+pictureinpicture-subtitles-toggle =
+    .label = Fo-thiotalan
 pictureinpicture-subtitles-label = Fo-thiotalan
+pictureinpicture-font-size-group =
+    .label = Meud a’ chrutha-chlò
+pictureinpicture-font-size-small-radio =
+    .label = Beag
+pictureinpicture-font-size-medium-radio =
+    .label = Meadhanach
+pictureinpicture-font-size-large-radio =
+    .label = Mòr
 pictureinpicture-font-size-label = Meud a’ chrutha-chlò
 pictureinpicture-font-size-small = Beag
 pictureinpicture-font-size-medium = Meadhanach
