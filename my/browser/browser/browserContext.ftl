@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = နောက်သို့
     .accesskey = B
+toolbar-button-back-3 =
+    .label = နောက်သို့
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -71,6 +73,9 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+
+## Account toolbar Button
+
 
 ## Save Page
 
@@ -178,6 +183,9 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = အော်ဒီယိုကို အီးမေးလ်ပို့ရန်…
     .accesskey = a
+
+##
+
 
 ##
 
