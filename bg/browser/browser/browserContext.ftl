@@ -175,6 +175,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Запазване на препратката като…
     .accesskey = к
+main-context-menu-bookmark-page-2 =
+    .aria-label = Отмятане на страница...
+    .tooltiptext = Отмятане на страница
 
 ##
 
