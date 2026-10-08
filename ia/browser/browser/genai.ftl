@@ -235,6 +235,9 @@ link-preview-settings-key-points =
     .label = Permitter a IA de leger le initio del pagina e generar punctos clave
 link-preview-settings-long-press =
     .label = Accesso directe: clicca e retene sur le ligamine durante 1 secunda (pression longe)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Demandar a  { $provider }
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vider plus con IA?
 # Message that appears when user is shown the opt-in flow for link previews
