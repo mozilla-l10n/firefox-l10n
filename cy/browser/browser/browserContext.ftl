@@ -127,6 +127,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = G
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = Gosod Nod i Dudalen…
+    .tooltiptext = Gosod nod i dudalen ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = Golygu Nod Tudalen…
+    .tooltiptext = Golygu nod tudalen
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = Golygu Nod Tudalen…
+    .tooltiptext = Golygu nod tudalen ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = Gosod Nod i Dudalen…
     .tooltiptext = Gosod nod i dudalen ({ $shortcut })
@@ -165,6 +178,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = Cadw'r Ddolen Fel…
     .accesskey = a
+main-context-menu-bookmark-page-2 =
+    .aria-label = Gosod Nod i Dudalen…
+    .tooltiptext = Gosod nod i dudalen
 
 ##
 
