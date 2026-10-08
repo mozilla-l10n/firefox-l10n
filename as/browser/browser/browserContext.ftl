@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = পিছলৈ
     .accesskey = B
+toolbar-button-back-3 =
+    .label = পিছলৈ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -63,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = ৰিল'ড কৰক
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = ৰিল'ড কৰক
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = ৰিল'ড কৰক
 
 ## Stop
 
@@ -75,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = ৰখাওক
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = ৰখাওক
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = ৰখাওক
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = ৰিল'ড কৰক
 
 ## Account toolbar Button
 
@@ -110,6 +122,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = বুকমাৰ্ক সম্পাদন কৰক…
     .accesskey = m
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = পৃষ্ঠা বুকমাৰ্ক কৰক…
+    .tooltiptext = পৃষ্ঠা বুকমাৰ্ক কৰক ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = বুকমাৰ্ক সম্পাদন কৰক…
+    .tooltiptext = বুকমাৰ্ক সম্পাদন কৰক
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = বুকমাৰ্ক সম্পাদন কৰক…
+    .tooltiptext = বুকমাৰ্ক সম্পাদন কৰক ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -147,6 +172,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = এই ধৰণে লিংক সংৰক্ষণ কৰক…
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = পৃষ্ঠা বুকমাৰ্ক কৰক…
+    .tooltiptext = পৃষ্ঠা বুকমাৰ্ক কৰক
 
 ##
 
