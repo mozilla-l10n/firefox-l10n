@@ -65,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Ponovno naloži
     .accesskey = P
+toolbar-button-reload-2 =
+    .label = Ponovno naloži
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Ponovno naloži
 
 ## Stop
 
@@ -77,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Ustavi
     .accesskey = U
+toolbar-button-stop-2 =
+    .label = Ustavi
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Ustavi
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Ponovno naloži
 
 ## Account toolbar Button
 
