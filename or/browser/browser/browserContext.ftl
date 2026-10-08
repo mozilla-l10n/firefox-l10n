@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = ପଛକୁ
     .accesskey = B
+toolbar-button-back-3 =
+    .label = ପଛକୁ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -63,8 +65,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = ପୁନଃଲୋଡ୍
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = ପୁନଃଲୋଡ୍
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = ପୁନଃଲୋଡ୍
 
 ## Stop
 
@@ -75,13 +81,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = ଅଟକାନ୍ତୁ
     .accesskey = S
+toolbar-button-stop-2 =
+    .label = ଅଟକାନ୍ତୁ
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = ଅଟକାନ୍ତୁ
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = ପୁନଃଲୋଡ୍
 
 ## Account toolbar Button
 
