@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = Fremad
     .accesskey = F
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Gå en side fremad ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = Fremad
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Gå en side fremad ({ $shortcut })
+    .aria-label = Fremad
 
 ## Reload
 
@@ -309,6 +320,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Tilslut en enhed for 
 main-context-menu-use-saved-password =
     .label = Brug gemt adgangskode
     .accesskey = B
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Brug { -relay-brand-short-name }-mail-maske
     .accesskey = m
