@@ -21,12 +21,21 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = ថយក្រោយ
     .accesskey = B
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+navbar-tooltip-back-3 =
+    .value = ថយក្រោយ​មួយ​ទំព័រ ({ $shortcut })
 toolbar-button-back-3 =
     .label = ថយក្រោយ
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
     .label = { main-context-menu-back-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Back command.
+main-context-menu-back-3 =
+    .tooltiptext = ថយក្រោយ​មួយ​ទំព័រ ({ $shortcut })
+    .aria-label = ថយក្រោយ
 
 ## Forward
 
@@ -127,6 +136,19 @@ main-context-menu-edit-bookmark-mac =
     .accesskey = m
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = ទំព័រចំណាំ…
+    .tooltiptext = ទំព័រចំណាំ ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = កែសម្រួល​ចំណាំ…
+    .tooltiptext = កែសម្រួល​ចំណាំ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = កែសម្រួល​ចំណាំ…
+    .tooltiptext = កែសម្រួល​ចំណាំ ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
     .aria-label = ទំព័រចំណាំ…
     .tooltiptext = ទំព័រចំណាំ ({ $shortcut })
@@ -162,6 +184,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = រក្សាទុក​តំណជា...
     .accesskey = k
+main-context-menu-bookmark-page-2 =
+    .aria-label = ទំព័រចំណាំ…
+    .tooltiptext = ទំព័រចំណាំ
 
 ##
 
