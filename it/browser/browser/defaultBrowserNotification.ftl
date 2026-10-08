@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Fatto
 default-browser-guidance-notification-v2-title = Completa l’impostazione di { -brand-short-name } come browser predefinito
 default-browser-guidance-notification-v2-body = Nelle impostazioni, seleziona “Imposta come predefinito” per { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Completa la configurazione di { -brand-short-name } come browser predefinito nelle impostazioni
+default-browser-guidance-notification-auto-trigger-title = Apri i link con { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Seleziona { -brand-short-name } come browser predefinito nelle impostazioni.
