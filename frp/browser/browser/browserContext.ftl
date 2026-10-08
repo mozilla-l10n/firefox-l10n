@@ -26,8 +26,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Rechargér
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Rechargér
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Rechargér
 
 ## Stop
 
@@ -38,6 +42,20 @@ toolbar-button-stop =
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Rechargér
+
+## Account toolbar Button
+
+
+## Save Page
+
+
+## Simple menu items
+
+
+##
+
 
 ## Media (video/audio) controls
 ##
@@ -48,3 +66,19 @@ toolbar-button-stop-reload =
 main-context-menu-media-play =
     .label = Menar
     .accesskey = M
+
+##
+
+
+## The access keys for "Show Controls" and "Hide Controls" are the same
+## because the two context-menu items are mutually exclusive.
+
+
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
+
+
+##
+
+
+##
+
