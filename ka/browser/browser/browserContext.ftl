@@ -21,6 +21,8 @@ main-context-menu-back-2 =
 main-context-menu-back-mac =
     .label = წინა
     .accesskey = წ
+toolbar-button-back-3 =
+    .label = წინა
 navbar-tooltip-back-2 =
     .value = { main-context-menu-back-2.tooltiptext }
 toolbar-button-back-2 =
@@ -75,8 +77,12 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = შეჩერება
     .accesskey = ჩ
+toolbar-button-stop-2 =
+    .label = შეჩერება
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = შეჩერება
 
 ## Stop-Reload Button
 
@@ -113,6 +119,19 @@ main-context-menu-bookmark-page-mac =
 main-context-menu-edit-bookmark-mac =
     .label = სანიშნის ჩასწორება…
     .accesskey = წ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-page-with-shortcut-2 =
+    .aria-label = გვერდის ჩანიშვნა…
+    .tooltiptext = სანიშნის დამატება ({ $shortcut })
+main-context-menu-edit-bookmark-2 =
+    .aria-label = სანიშნის ჩასწორება…
+    .tooltiptext = სანიშნის ჩასწორება
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-edit-bookmark-with-shortcut-2 =
+    .aria-label = სანიშნის ჩასწორება…
+    .tooltiptext = სანიშნის ჩასწორება ({ $shortcut })
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut =
@@ -153,6 +172,9 @@ main-context-menu-bookmark-link-2 =
 main-context-menu-save-link =
     .label = ბმულის შენახვა როგორც…
     .accesskey = მ
+main-context-menu-bookmark-page-2 =
+    .aria-label = გვერდის ჩანიშვნა…
+    .tooltiptext = სანიშნის დამატება
 
 ##
 
