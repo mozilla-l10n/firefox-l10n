@@ -1167,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = I seguenti elementi vengono attualmente sincronizzati fra tutti i dispositivi connessi:
 sync-syncing-across-devices-heading-2 = Dati sincronizzati tra dispositivi
+sync-syncing-across-devices-heading-3 = Dati sincronizzati su questo dispositivo
 sync-syncing-across-devices-empty-state2 =
     .description = Al momento non stai sincronizzando nulla… Inizia a sincronizzare per accedere ai tuoi dati su tutti i dispositivi.
     .label = Gestisci dati sincronizzati
