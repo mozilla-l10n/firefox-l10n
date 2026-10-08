@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Şəkildə-Şəkil
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -40,6 +44,9 @@ pictureinpicture-exit-fullscreen-btn2 =
     .tooltip = Tam ekrandan çıx (iki dəfə kliklə və ya { $shortcut })
     .aria-label = Tam ekrandan çıx
 
+##
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -58,7 +65,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Altyazı tənzimləmələri
+pictureinpicture-subtitles-toggle =
+    .label = Altyazılar
 pictureinpicture-subtitles-label = Altyazılar
+pictureinpicture-font-size-group =
+    .label = Şrift ölçüsü
+pictureinpicture-font-size-small-radio =
+    .label = Kiçik
+pictureinpicture-font-size-medium-radio =
+    .label = Orta
+pictureinpicture-font-size-large-radio =
+    .label = Böyük
 pictureinpicture-font-size-label = Şrift ölçüsü
 pictureinpicture-font-size-small = Kiçik
 pictureinpicture-font-size-medium = Orta
