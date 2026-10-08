@@ -38,10 +38,21 @@ main-context-menu-forward-2 =
 main-context-menu-forward-mac =
     .label = In antis
     .accesskey = n
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+navbar-tooltip-forward-3 =
+    .value = Bae a in antis de una pàgina ({ $shortcut })
+toolbar-button-forward-3 =
+    .label = In antis
 navbar-tooltip-forward-2 =
     .value = { main-context-menu-forward-2.tooltiptext }
 toolbar-button-forward-2 =
     .label = { main-context-menu-forward-2.aria-label }
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the Go Forward command.
+main-context-menu-forward-3 =
+    .tooltiptext = Bae a in antis de una pàgina ({ $shortcut })
+    .aria-label = In antis
 
 ## Reload
 
@@ -52,8 +63,12 @@ main-context-menu-reload =
 main-context-menu-reload-mac =
     .label = Torra a carrigare
     .accesskey = R
+toolbar-button-reload-2 =
+    .label = Torra a carrigare
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
+main-context-menu-reload-2 =
+    .aria-label = Torra a carrigare
 
 ## Stop
 
@@ -64,13 +79,19 @@ main-context-menu-stop =
 main-context-menu-stop-mac =
     .label = Firma
     .accesskey = F
+toolbar-button-stop-2 =
+    .label = Firma
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
+main-context-menu-stop-2 =
+    .aria-label = Firma
 
 ## Stop-Reload Button
 
 toolbar-button-stop-reload =
     .title = { main-context-menu-reload.aria-label }
+toolbar-button-stop-reload-2 =
+    .title = Torra a carrigare
 
 ## Account toolbar Button
 
@@ -309,6 +330,9 @@ main-context-menu-send-to-mobile-connect-phone-from-page = Connete unu dispositi
 main-context-menu-use-saved-password =
     .label = Imprea una crae sarvada
     .accesskey = I
+
+##
+
 main-context-menu-use-relay-mask =
     .label = Imprea un'alias de posta eletrònica de { -relay-brand-short-name }
     .accesskey = I
