@@ -4,6 +4,10 @@
 
 pictureinpicture-player-title = Слика во слика
 
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
 ## picture-in-picture window will read and copy this to an in-document
@@ -64,7 +68,17 @@ pictureinpicture-seekforward-btn =
 # a screen reader whenever a user opens the subtitles settings panel
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Поставки за титлови
+pictureinpicture-subtitles-toggle =
+    .label = Титлови
 pictureinpicture-subtitles-label = Титлови
+pictureinpicture-font-size-group =
+    .label = Големина на фонт
+pictureinpicture-font-size-small-radio =
+    .label = Мала
+pictureinpicture-font-size-medium-radio =
+    .label = Средна
+pictureinpicture-font-size-large-radio =
+    .label = Голема
 pictureinpicture-font-size-label = Големина на фонт
 pictureinpicture-font-size-small = Мала
 pictureinpicture-font-size-medium = Средна
