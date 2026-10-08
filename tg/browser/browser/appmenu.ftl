@@ -160,6 +160,7 @@ appmenu-fxa-last-sync = Ҳамоҳангсозии охирин { $time }
     .label = Ҳамоҳангсозии охирин { $time }
 appmenu-fxa-sync-and-save-data2 = Ҳамоҳангсозӣ ва нигоҳ доштани маълумот
 appmenu-fxa-signed-in-label = Ворид шудан
+appmenu-fxa-sign-in-promo-link = Ворид шудан
 # Sign-in promo shown in the app menu when signed out and no menu message or
 # update banner is present, prompting the user to sign in and sync.
 appmenu-fxa-sign-in-promo-heading = Барои ҳамоҳангсозӣ ворид шавед

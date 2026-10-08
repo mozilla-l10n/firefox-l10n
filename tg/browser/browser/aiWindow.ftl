@@ -75,6 +75,7 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Хуш омадед ба «{ -smart-window-brand-name }»
 aiwindow-firstrun-model-title = Барои шумо чӣ муҳим аст?
 aiwindow-firstrun-model-fast-label = Тез
+aiwindow-firstrun-model-allpurpose-label = Фасеҳ
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Тавсияшуда
 aiwindow-firstrun-model-personal-label = Шахсӣ

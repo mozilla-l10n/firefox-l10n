@@ -1058,6 +1058,9 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Варақаҳои ҳамоҳангшуда
     .tooltiptext = Намоиш додани варақаҳо аз дастгоҳҳои дигар
+toolbar-button-send-tab =
+    .label = Фиристодани варақа
+    .tooltiptext = Фиристодани варақа ба дастгоҳи дигар
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -1192,6 +1195,9 @@ private-browsing-indicator-label = Тамошобинии махфӣ
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Тамошобинии хусусӣ
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Маълумот дар бораи тамошобинии хусусӣ
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
