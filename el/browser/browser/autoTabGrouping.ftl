@@ -17,6 +17,8 @@ smartwindow-group-tabs-panel-heading = Οργάνωση καρτελών
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Δημιουργία όλων των ομάδων
 smartwindow-group-tabs-suggested-heading = Προτεινόμενες ομάδες
+# Heading for the list of groups the user just created (and can still undo).
+smartwindow-group-tabs-just-created-heading = Μόλις δημιουργήθηκε
 # Action that dissolves every group in the "Just created" list. The tabs stay
 # open; only the grouping is removed.
 smartwindow-group-tabs-ungroup = Κατάργηση ομάδας καρτελών
