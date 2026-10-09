@@ -17,12 +17,12 @@ smartwindow-group-tabs-panel-heading = Organiser les onglets
 # Shown while the on-device model clusters the open tabs into suggestions. It is
 # forming new groups from these tabs, not searching for tab groups that already
 # exist.
-smartwindow-group-tabs-loading = Recherche de groupes utiles dans les onglets…
+smartwindow-group-tabs-loading = Analyse des onglets pour suggérer des groupes utiles…
 # Shown when clustering produced no group worth suggesting.
-smartwindow-group-tabs-empty = Aucun groupe d’onglets à suggérer pour l’instant. Vérifier plus tard.
+smartwindow-group-tabs-empty = Aucun groupe d’onglets à suggérer pour le moment. Réessayez plus tard.
 # Shown in place of suggestions when every group the model found has already
 # been created.
-smartwindow-group-tabs-all-sorted = Félicitations pour l’organisation de vos onglets
+smartwindow-group-tabs-all-sorted = Vos onglets sont bien organisés
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Créer tous les groupes
 smartwindow-group-tabs-suggested-heading = Groupes suggérés
@@ -40,11 +40,11 @@ smartwindow-group-tabs-flyout-list =
 smartwindow-group-tabs-suggestion =
     .aria-label =
         { $tabCount ->
-            [one] Créer le groupe { $groupLabel }, onglet { $tabCount }
+            [one] Créer le groupe { $groupLabel }, { $tabCount } onglet
            *[other] Créer le groupe { $groupLabel }, { $tabCount } onglets
         }
 # Heading for the list of groups the user just created (and can still undo).
-smartwindow-group-tabs-just-created-heading = Nouvellement créée
+smartwindow-group-tabs-just-created-heading = Créés à l’instant
 # Action that dissolves every group in the "Just created" list. The tabs stay
 # open; only the grouping is removed.
 smartwindow-group-tabs-ungroup = Dissocier les onglets
@@ -69,4 +69,4 @@ smartwindow-group-tabs-close-duplicates =
 # "Duplicate tabs" refers to tabs that are copies of each other; it is not a
 # verb telling the user to duplicate anything.
 smartwindow-group-tabs-duplicates-list =
-    .aria-label = Dupliquer les onglets à fermer
+    .aria-label = Onglets en double à fermer

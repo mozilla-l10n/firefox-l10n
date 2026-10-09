@@ -1234,6 +1234,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = А
     .style = min-width: 36em;
     .title = Кіруйце тым, што сінхранізуецца на ўсіх падлучаных прыладах
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Захаваць
+    .buttonlabelextra2 = Адлучыць…
+    .buttonaccesskeyaccept = З
+    .buttonaccesskeyextra2 = А
+    .style = min-width: 36em;
+    .title = Кіруйце тым, што сінхранізуецца на гэтай прыладзе
 
 ## The device name controls.
 

@@ -49,7 +49,7 @@ toolbar-switcher-customizable-label =
     .tooltiptext = Basculer entre une { -smart-window-brand-name(form: "lower-singular") } et classique.
 toolbar-switcher-customizable-label-v2 =
     .label = Sélecteur de { -smart-window-brand-name(form: "lower-singular") }
-    .tooltiptext = Basculer entre les fenêtres intelligentes et classiques
+    .tooltiptext = Basculer entre une { -smart-window-brand-name(form: "lower-singular") } et classique
 
 ## Input CTA
 

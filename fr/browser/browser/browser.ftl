@@ -1316,8 +1316,8 @@ filepicker-blocked-infobar = Votre organisation a bloqué l’accès aux fichier
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
-urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } recherche désormais dans les onglets
-urlbar-addons-shortcut-moved-description = Pour ouvrir des extensions et des thèmes, utilisez { $addonsShortcut }.
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } permet désormais de rechercher des onglets
+urlbar-addons-shortcut-moved-description = Pour accéder aux extensions et aux thèmes, utilisez { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = Gérer les raccourcis
 urlbar-addons-shortcut-moved-dismiss = J’ai compris
 
