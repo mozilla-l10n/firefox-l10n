@@ -10,6 +10,9 @@ theme-picker-mode-device = Mba’e’oka
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Hechapy
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Témaita
 theme-picker-use-linux-theme =
     .label = Eipuru téma Linux apopyvusugua
 

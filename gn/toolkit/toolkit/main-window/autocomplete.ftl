@@ -31,9 +31,16 @@ autocomplete-delete-password = Embogue ko ñe’ẽñemi
 autocomplete-edit-address = Embosako’i ko kundaharape
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Embogue ko kundaharape
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = Embogue marandurape { $entry }
 autocomplete-edit-payment-method = Embosako’i mba’éicha ehepyme’ẽta
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Embogue mba’éicha ehepyme’ẽta
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Mboguete
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -42,6 +49,8 @@ autocomplete-delete-form-history-entry2 = Embogue { $entry } myanyhẽha rembias
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = Ejapove { $entry }-pe g̃uarã
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = Jeporavorãve
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
