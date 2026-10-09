@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = 完成
 default-browser-guidance-notification-v2-title = 完成將 { -brand-short-name } 設為預設瀏覽器
 default-browser-guidance-notification-v2-body = 在設定中的「設為預設值」，選擇 { -brand-short-name }。
 default-browser-guidance-notification-v2-title-only = 在設定中完成將 { -brand-short-name } 設為預設瀏覽器
+default-browser-guidance-notification-auto-trigger-title = 用 { -brand-short-name } 開啟您的鏈結
+default-browser-guidance-notification-auto-trigger-body = 在設定中選擇將 { -brand-short-name } 作為預設瀏覽器

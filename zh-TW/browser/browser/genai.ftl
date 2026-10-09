@@ -223,6 +223,11 @@ link-preview-settings-key-points =
     .label = 允許 AI 讀取頁面頂部，產生頁面重點
 link-preview-settings-long-press =
     .label = 快速預覽：長按鏈結 1 秒鐘
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = 問問 { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = 問問 AI
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = 想要用 AI 看到更多內容嗎？
 # Message that appears when user is shown the opt-in flow for link previews

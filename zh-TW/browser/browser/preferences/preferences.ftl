@@ -1151,6 +1151,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = 您連線的裝置會同步下列項目：
 sync-syncing-across-devices-heading-2 = 在不同裝置間同步的資料
+sync-syncing-across-devices-heading-3 = 此裝置正在同步的資料
 sync-syncing-across-devices-empty-state2 =
     .description = 您目前沒有同步任何資料。開始同步即可將所有資料同步到您的所有裝置上。
     .label = 管理要同步的資料
