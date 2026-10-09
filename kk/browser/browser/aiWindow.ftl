@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Классикалық терезе
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name } ауыстырғышы
     .tooltiptext = Ақылды және классикалық терезелер арасында ауысу.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } ауыстырғышы
+    .tooltiptext = Ақылды және қалыпты терезелер арасында ауысу
 
 ## Input CTA
 
