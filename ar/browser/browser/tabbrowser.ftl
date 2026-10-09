@@ -37,6 +37,8 @@ tabbrowser-close-tabs-button =
         }
 tab-splitview-splitter =
     .aria-label = غيّر حجم ألسنة العرض المنقسم
+tab-devtools-splitter =
+    .aria-label = تغيير حجم لوحة أدوات المطور
 
 ## Tooltips for tab audio control
 ## Variables:

@@ -530,6 +530,7 @@ mlmodel-pdfjs = { -brand-short-name } يستخدم هذا لإنشاء نص بد
 mlmodel-smart-tab-topic-engine = { -brand-short-name } يستخدم هذا لاقتراح أسماء لمجموعات ألسنتك
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } يستخدم هذا لاقتراح ألسنة لمجموعات ألسنتك
 mlmodel-formfill-engine = { -brand-short-name } يستخدم هذا للمساعدة في ملء نماذج العناوين
+mlmodel-speech-recognition = { -brand-short-name } يستخدم هذا للتعرف على الكلام على الجهاز
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = الذكاء الاصطناعي على الجهاز
 addon-category-mlmodel-title =

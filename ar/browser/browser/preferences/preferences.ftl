@@ -37,6 +37,8 @@ managed-notice-info-icon =
     .alt = معلومة
 managed-notice-nav =
     .label = تُدير منظّمتك المتصفح الذي تستخدم الآن.
+tls-key-logging-notice-nav =
+    .label = قد يتمكن تطبيق أو خدمة ما من رؤية حركة بياناتك المُعمّاة.
 category-list =
     .aria-label = الفئات
 pane-general-title = عام
@@ -706,6 +708,10 @@ settings-keyboard-shortcuts-group =
     .label = اختصارات لوحة المفاتيح
 settings-keyboard-shortcuts-customkeys-link =
     .label = خصّص اختصارات لوحة المفاتيح
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = خصّص إعدادات شريط العناوين في البحث
 settings-media-group =
     .label = الوسائط
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -934,6 +940,14 @@ search-separate-default-engine-2 =
     .accesskey = د
 search-separate-default-engine-dropdown =
     .aria-label = محرك البحث المبدئي في النوافذ الخاصة
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = التنقل داخل شريط العناوين
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = تخطَّ قائمة النتائج عند استخدام مفتاح Tab لنقل التركيز
 search-suggestions-header-2 =
     .label = اقتراحات محركات البحث
 search-one-click-header2 = اختصارات البحث
@@ -1007,6 +1021,12 @@ containers-add-button2 =
 containers-new-tab-check3 =
     .label = حدّد حاويًا لكلّ لسان جديد
     .accesskey = د
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = لا تستخدم الحاويات للروابط التي يتم فتحها من تطبيقات خارجية
+    .accesskey = ت
 containers-new-tab-check2 =
     .description = سيؤدي ذلك إلى فتح قائمة الحاويات في كل مرة تضغط فيها على زر ”افتح في لسان جديد“.
     .label = حدّد حاويًا لكلّ لسان جديد
@@ -1014,6 +1034,18 @@ containers-new-tab-check2 =
 containers-settings-button2 =
     .title = الإعدادات
 containers-remove-button3 =
+    .title = احذف
+containers-sites-card-header =
+    .description = اختر حاوية للموقع وسيستخدمها { -brand-short-name } في كل مرة يتم فيها فتح الموقع.
+    .label = حاويات خاصة بالموقع
+containers-sites-add-button =
+    .label = أضف موقع وب
+    .accesskey = ض
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = حاوية لـ { $site }
+containers-site-remove-button =
     .title = احذف
 containers-remove-button2 =
     .title = أزِل
@@ -1119,6 +1151,10 @@ prefs-syncing-off = المزامنة: معطلة
 prefs-syncing-off-2 =
     .description = فعّل المزامنة للحصول على علاماتك وكلمات مرورك وتأريخك والمزيد على أي جهاز.
     .label = المزامنة معطّلة
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = شغّل المزامنة للحصول على علاماتك وكلمات سرك والتأريخ والمزيد على هذا الجهاز.
+    .label = المزامنة معطّلة
 prefs-sync-turn-on-syncing =
     .label = فعّل المزامنة…
     .accesskey = ف
@@ -1142,9 +1178,13 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = أنت تُزامن هذه العناصر عبر جميع أجهزتك المتصلة:
 sync-syncing-across-devices-heading-2 = البيانات المزامنة عبر الأجهزة
+sync-syncing-across-devices-heading-3 = مزامنة البيانات على هذا الجهاز
 sync-syncing-across-devices-empty-state2 =
     .description = أنت لا تُزامن أي شيء... حتى الآن. ابدأ المزامنة للحصول على جميع بياناتك على جميع أجهزتك.
     .label = أدر البيانات المتزامنة
+sync-syncing-across-devices-empty-state3 =
+    .description = لم تُزامِن أي شيء... حتى الآن. اختر ما تريد مُزامنته على هذا الجهاز.
+    .label = أدِر البيانات المتزامنة
 sync-currently-syncing-bookmarks = العلامات
 sync-currently-syncing-history = التأريخ
 sync-currently-syncing-tabs = الألسنة المفتوحة
@@ -1201,6 +1241,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = ق
     .style = min-width: 36em;
     .title = إدارة ما يُزامِن على جميع أجهزتك المتصلة
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = احفظ
+    .buttonlabelextra2 = اقطع الاتصال…
+    .buttonaccesskeyaccept = ح
+    .buttonaccesskeyextra2 = ق
+    .style = min-width: 36em;
+    .title = أدِر ما تتم مُزامنته على هذا الجهاز
 
 ## The device name controls.
 
@@ -1365,6 +1412,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = يتطلب الأمر الولوج إلى الجهاز للملء الآلي وإدارة طُرق الدفع
     .accesskey = ط
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = احفظ رموز الأمان
+    .accesskey = ح
 autofill-payment-methods-add-button = أضف طريقة دفع جديدة
 payments-list-header =
     .label = طرق الدفع
@@ -1405,12 +1456,18 @@ autofill-personal-info-checkbox-message =
     .label = احفظ المعلومات الشخصية واملأها تلقائيًا
 autofill-personal-info-manage-button =
     .label = إدارة المعلومات الشخصية
+passports-list-header =
+    .label = جوازات السفر
 passports-delete-passport-button-label =
     .aria-label = احذف
 passports-edit-passport-button-label =
     .aria-label = حرّر
+passports-delete-passport-prompt-title = حذف جواز السفر هذا؟
 passports-delete-passport-prompt-confirm-button = احذف
 passports-delete-passport-prompt-cancel-button = ألغِ
+autofill-passports-add-button = أضف جواز سفر جديد
+autofill-personal-info-manage-title =
+    .heading = إدارة المعلومات الشخصية
 pane-passwords-autofill-title2 = كلمات السر والملء الآلي
     .title = كلمات السر والملء الآلي
 preferences-passwords-autofill-header =
@@ -2160,6 +2217,8 @@ preferences-etp-level-custom =
     .label = مخصّص
 preferences-etp-status-advanced-button =
     .label = إعدادات متقدّمة
+preferences-etp-tracker-count-enabled =
+    .label = اعرض عدد المتعقّبات المحظورة في شريط العناوين
 preferences-etp-status-protections-dashboard-link =
     .description = اكتشف عدد أدوات التتبع الخفية التي حظرها { -brand-short-name } من أجلك، بما في ذلك أدوات تتبع وسائل التواصل الاجتماعي وأدوات البصمة الرقمية وبرمجيات تعدين العملات الرقمية.
     .label = اطّلع على لوحة معلومات الحماية الشخصية الخاصة بك
@@ -2200,6 +2259,8 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = ملفات تعريف الارتباط
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = اسمح بجميع ملفات تعريف الارتباط
+preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
+    .label = احظر الكعكات التي تتعقّبك بين المواقع
 preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
     .label = احجب ملفات تعريف الإرتباط بين المواقع
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
@@ -2246,6 +2307,9 @@ security-privacy-issue-warning-safe-browsing =
 security-privacy-issue-warning-doh2 =
     .description = تساعد تقنية DNS عبر HTTPS على إخفاء المواقع التي ستزورها عن مزود خدمة الإنترنت الخاص بك.
     .label = DNS عبر HTTPS مُعطّل
+security-privacy-issue-warning-ech2 =
+    .description = تساعد خدمة "Encrypted Client Hello" في إخفاء المواقع التي ستزورها عن مزود خدمة شبكتك.
+    .label = Encrypted Client Hello مُعطّل
 security-privacy-issue-warning-doh =
     .description = تخفي DNS عبر HTTPS المواقع التي تزورها عن مزود خدمة الشبكة الخاص بك.
     .label = DNS عبر HTTPS مُعطّل
@@ -2258,6 +2322,11 @@ security-privacy-issue-warning-proxy-autodetection =
 
 ## Referrals Section
 
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .description = ادعُ شخصًا ما لاختيار المتصفح الذي يضع الخصوصية في المقام الأول.
+    .label = شارك { -brand-product-name }
 # Link that opens the referral page, where the user can invite others to
 # use the browser. "Share" here means recommending or referring the browser
 referrals-link2 =

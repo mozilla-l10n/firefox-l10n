@@ -93,6 +93,9 @@ permissions-exceptions-cookie-desc = يمكنك تحديد المواقع الت
 
 ## Exceptions - Clear on Shutdown
 
+permissions-exceptions-shutdown-clearing-window =
+    .style = { permissions-window2.style }
+    .title = الاستثنائات - امحُ التأريخ عند الإغلاق
 permissions-exceptions-shutdown-clearing-desc = يمكنك تحديد المواقع الإلكترونية التي ستحتفظ ببياناتها عند محو تأريخ التصفح باستخدام { -brand-short-name } عند الإغلاق. اكتب عنوان الموقع الذي تريد إدارته بدقة، ثم انقر على "اسمح".
 
 ## Exceptions - HTTPS-Only Mode
