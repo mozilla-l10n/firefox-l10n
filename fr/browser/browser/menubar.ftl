@@ -243,7 +243,7 @@ menu-history-search =
     .label = Rechercher dans l’historique
 # "Search" is a verb, as in "Search in Tabs"
 menu-history-search-tabs =
-    .label = Rechercher dans les onglets
+    .label = Rechercher des onglets
 
 ## Bookmarks Menu
 

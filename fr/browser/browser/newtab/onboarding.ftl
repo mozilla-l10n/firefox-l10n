@@ -617,13 +617,13 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
-welcome-back-onboarding-title = De nouvelles fonctionnalités conçues pour vous aider à en faire plus
+welcome-back-onboarding-title = De nouvelles fonctionnalités pour aller encore plus loin
 welcome-back-onboarding-primary-button-label = Commencer la navigation
 welcome-back-onboarding-secondary-button-label = Découvrez les autres nouveautés
 # Pill label for features that allow you to tidy up your tabs
-welcome-back-onboarding-pill-label-tabs = Onglets bien organisés
-welcome-back-onboarding-pill-label-vpn = VPN intégré
-welcome-back-onboarding-pill-label-pdf = Outils PDF
+welcome-back-onboarding-pill-label-tabs = Des onglets bien organisés
+welcome-back-onboarding-pill-label-vpn = Un VPN intégré
+welcome-back-onboarding-pill-label-pdf = Des outils PDF
 welcome-back-onboarding-card-label-tabs = Faites le ménage avec des onglets et des groupes verticaux
 welcome-back-onboarding-card-label-vpn = Restez caché avec le VPN intégré
 welcome-back-onboarding-card-label-pdf = Surlignez, signez et travaillez avec des fichiers PDF

@@ -1233,9 +1233,9 @@ sync-choose-what-to-sync-dialog4 =
 sync-choose-what-to-sync-dialog5 =
     .buttonlabelaccept = Enregistrer
     .buttonlabelextra2 = Se déconnecter…
-    .buttonaccesskeyaccept = S
+    .buttonaccesskeyaccept = E
     .buttonaccesskeyextra2 = D
-    .style = min-width: 36em;
+    .style = min-width: 37em;
     .title = Gérer les éléments synchronisés sur cet appareil
 
 ## The device name controls.
