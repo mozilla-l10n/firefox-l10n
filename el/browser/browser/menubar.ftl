@@ -241,6 +241,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Αναζήτηση ιστορικού
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Αναζήτηση καρτελών
 
 ## Bookmarks Menu
 

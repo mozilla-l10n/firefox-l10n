@@ -1310,6 +1310,15 @@ restore-session-startup-suggestion-button = Εμφάνιση οδηγιών
 
 filepicker-blocked-infobar = Ο οργανισμός σας έχει αποκλείσει την πρόσβαση στα τοπικά αρχεία αυτού του υπολογιστή
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-change-shortcuts = Διαχείριση συντομεύσεων
+urlbar-addons-shortcut-moved-dismiss = Το κατάλαβα
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = Το { -brand-short-name } στέλνει αυτόματα μερικά δεδομένα στη { -vendor-short-name }, έτσι ώστε να μπορέσουμε να βελτιώσουμε την εμπειρία σας.
