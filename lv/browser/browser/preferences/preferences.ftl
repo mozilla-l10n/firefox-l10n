@@ -822,6 +822,10 @@ prefs-syncing-off = Vienādošana: IZSLĒGTA
 prefs-syncing-off-2 =
     .description = Ieslēdz vienādošanu, lai piekļūtu savām grāmatzīmēm, parolēm, vēsturei un vēl jebkurā ierīcē!
     .label = Vienādošana ir IZSLĒGTA
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Ieslēdz vienādošanu, lai šajā ierīcē iegūtu savas grāmatzīmes, paroles, vēsturi un vēl!
+    .label = Vienādošana ir IZSLĒGTA
 prefs-sync-turn-on-syncing =
     .label = Ieslēgt vienādošanu…
     .accesskey = s
@@ -844,6 +848,7 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = Tu vienādo šos vienumus visās savās savienotajās ierīcēs:
+sync-syncing-across-devices-heading-3 = Datu vienādošana šajā ierīcē
 sync-syncing-across-devices-empty-state2 =
     .description = Tu neko nevienādo… Vēl. Jāuzsāk vienādošana, lai visās ierīcēs piekļūtu visiem saviem datiem.
     .label = Pārvaldīt vienādotos datus
@@ -897,6 +902,13 @@ sync-engine-settings =
     .label = Iestatījumus
     .tooltiptext = Vispārīgie, privātuma un drošības iestatījumi, ko saglabājāt
     .accesskey = s
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Saglabāt
+    .buttonlabelextra2 = Atvienot…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = A
+    .style = min-width: 36em;
+    .title = Pārvaldīt, kas tiek vienādots šajā ierīcē
 
 ## The device name controls.
 

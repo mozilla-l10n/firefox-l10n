@@ -403,3 +403,11 @@ onboarding-carousel-nav =
 welcome-back-onboarding-title = Jaunas iespējas, kas veidotas, lai palīdzētu izdarīt vairāk
 welcome-back-onboarding-primary-button-label = Sākt pārlūkošanu
 welcome-back-onboarding-secondary-button-label = Apskati, kas vēl ir jauns
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Sakopt cilnes
+welcome-back-onboarding-pill-label-vpn = Iebūvēts VPN
+welcome-back-onboarding-pill-label-pdf = PDF rīki
+welcome-back-onboarding-card-label-tabs = Sakop ar stateniskām cilnēm un kopām
+welcome-back-onboarding-card-label-vpn = Esi aizsegā ar iebūvētu VPN
+welcome-back-onboarding-card-label-pdf = Izcel, paraksti un strādā ar PDF
+welcome-back-onboarding-card-tilebutton-label = Izmēģini
