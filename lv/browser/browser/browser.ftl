@@ -1221,6 +1221,17 @@ restore-session-startup-suggestion-button = Atvērt pamācību
 
 filepicker-blocked-infobar = Jūsu organizācija ir bloķējusi piekļuvi vietējām datnēm šajā datorā
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } tagad meklē cilnes
+urlbar-addons-shortcut-moved-description = Lai atvērtu paplašinājumus un izskatus, jāizmanto { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Pārvaldīt īsinājumtaustiņus
+urlbar-addons-shortcut-moved-dismiss = Sapratu
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } automātiski nosūta zināmus datus { -vendor-short-name }, lai uzlabotu interneta pārlūkošanu.

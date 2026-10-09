@@ -397,3 +397,9 @@ onboarding-theme-picker-button-label = Saglabāt un turpināt
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Nozīmīgas iespējas
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Jaunas iespējas, kas veidotas, lai palīdzētu izdarīt vairāk
+welcome-back-onboarding-primary-button-label = Sākt pārlūkošanu
+welcome-back-onboarding-secondary-button-label = Apskati, kas vēl ir jauns

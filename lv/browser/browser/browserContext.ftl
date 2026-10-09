@@ -52,7 +52,7 @@ main-context-menu-forward-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 navbar-tooltip-forward-3 =
-    .value = Iet vienu lapu uz priekšu ({ $shortcut })
+    .value = Doties vienu lapu uz priekšu ({ $shortcut })
 toolbar-button-forward-3 =
     .label = Uz priekšu
 navbar-tooltip-forward-2 =
@@ -63,7 +63,7 @@ toolbar-button-forward-2 =
 #   $shortcut (String) - A keyboard shortcut for the Go Forward command.
 main-context-menu-forward-3 =
     .aria-label = Uz priekšu
-    .tooltiptext = Iet vienu lapu uz priekšu ({ $shortcut })
+    .tooltiptext = Doties vienu lapu uz priekšu ({ $shortcut })
 
 ## Reload
 
@@ -137,8 +137,8 @@ main-context-menu-edit-bookmark-mac =
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-page-with-shortcut-2 =
-    .aria-label = Saglabāta grāmatzīmēs…
-    .tooltiptext = Saglabāta grāmatzīmēs ({ $shortcut })
+    .aria-label = Saglabāt grāmatzīmēs…
+    .tooltiptext = Saglabāt grāmatzīmēs ({ $shortcut })
 main-context-menu-edit-bookmark-2 =
     .aria-label = Labot grāmatzīmi…
     .tooltiptext = Labot grāmatzīmi
@@ -188,8 +188,8 @@ main-context-menu-save-link =
     .label = Saglabāt saiti kā…
     .accesskey = k
 main-context-menu-bookmark-page-2 =
-    .aria-label = Saglabāta grāmatzīmēs…
-    .tooltiptext = Saglabāta grāmatzīmēs
+    .aria-label = Saglabāt grāmatzīmēs…
+    .tooltiptext = Saglabāt grāmatzīmēs
 
 ##
 

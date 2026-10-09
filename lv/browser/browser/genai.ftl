@@ -23,6 +23,9 @@ genai-settings-chat-localhost-links = Ienesiet savu privāto vietējo tērzēša
 genai-prompts-summarize =
     .label = Apkopot
     .value = Lūdzu, apkopojiet atlasīto tekstu, izmantojot precīzu un kodolīgu valodu. Kopsavilkumā izmanto galvenes un sarakstus, lai padarītu to skenējamu. Saglabājiet jēgu un faktu precizitāti.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Lūgums veidot tīmekļvietnes { $url } kopsavilkumu tiešā un kodolīgā valodā. Izmantot tajā galvenes un aizzīmju sarakstus, lai padarītu kopsavilkumu vieglāk pārskatāmu. Saglabāt nozīmi un patiesu pareizumu.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Vienkāršojiet valodu
@@ -79,3 +82,11 @@ link-preview-generation-retry = Mēģināt vēlreiz
 link-preview-settings-enable =
     .description = Lapas virsraksta, apraksta un vēl apskatīšana ar īsinājumtaustiņu vai labo klikšķi uz saites.
     .label = Iespējot saišu priekšskatījumu
+highlight-to-search-settings-enable =
+    .description = Iegūsti ātru piekļuvi noderīgām darbībām, kad iezīmē saturu!
+    .label = Rādīt darbību izvēlni teksta iezīmēšanas laikā
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Vaicāt { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Vaicāt MI

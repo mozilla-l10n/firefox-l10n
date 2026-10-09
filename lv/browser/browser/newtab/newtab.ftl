@@ -155,6 +155,11 @@ newtab-privacy-message-promo-monitor-2-cta = Uzzināt vairāk
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Uzzināt vairāk
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Atvērt finanšu izvēlni
+    .title = Atvērt finanšu izvēlni
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
