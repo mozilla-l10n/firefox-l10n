@@ -2,3 +2,48 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## The "Format" section, select a version of the website to print. Radio
+## options to select between the original page, selected text only, or a version
+## where the page is processed with "Reader View".
+
+# The section title.
+printui-source-label = Formáid
+# Option for printing the original page.
+printui-source-radio = Bunleagan
+# Option for printing just the content a user selected prior to printing.
+printui-selection-radio = Rogha
+# Option for "simplifying" the page by printing the Reader View version.
+printui-simplify-page-radio = Simplithe
+
+##
+
+printui-color-mode-label = Modh datha
+printui-color-mode-color = Daite
+printui-color-mode-bw = Dubh agus bán
+printui-margins = Imill
+printui-margins-default = Réamhshocrú
+printui-margins-min = Íosmhéid
+printui-margins-none = Dada
+printui-margins-custom-inches = Saincheaptha (orlaí)
+
+## Paper sizes that may be supported by the Save to PDF destination:
+
+printui-paper-a5 = A5
+printui-paper-a4 = A4
+printui-paper-a3 = A3
+printui-paper-a2 = A2
+printui-paper-a1 = A1
+printui-paper-a0 = A0
+printui-paper-b5 = B5
+printui-paper-b4 = B4
+printui-paper-jis-b5 = JIS-B5
+printui-paper-jis-b4 = JIS-B4
+printui-paper-letter = Litir SAM
+printui-paper-legal = Méid dlíthiúil SAM
+printui-paper-tabloid = Táblóideach
+
+## Error messages shown when a user has an invalid input
+
+printui-error-invalid-scale = Caithfidh an scála a bheith ina uimhir idir 10 agus 200.
+printui-error-invalid-margin = Iontráil imeall bailí le haghaidh an mhéid páipéir roghnaithe.
