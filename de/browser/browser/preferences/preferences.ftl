@@ -1230,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = T
     .style = min-width: 36em;
     .title = Verwalten, was mit Ihren verbundenen Geräten synchronisiert wird
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Speichern
+    .buttonlabelextra2 = Trennen…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Verwalten, was auf diesem Gerät synchronisiert wird
 
 ## The device name controls.
 

@@ -596,3 +596,14 @@ smartwindow-sidebar-auto-open-callout-rejected-title = Aikũmby
 onboarding-theme-picker-title = Eiporavo téma
 onboarding-theme-picker-subtitle = Embojuajuve sa’ykuéra { -brand-short-name }-pe.
 onboarding-theme-picker-button-label = Eñongatu ha eku’ejey
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Tembiapoite oikoitéva
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Tembiapoite pyahu heñóiva oipytyvõve hag̃ua

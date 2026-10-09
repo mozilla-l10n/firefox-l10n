@@ -480,6 +480,11 @@ newtab-search-widget-title = Eheka
 # Screen reader label for the widget's icon-only menu button.
 newtab-search-widget-menu-button =
     .aria-label = Jehekarã rehegua
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Embojuruja poravorã jehekaha
+    .title = Embojuruja poravorã jehekaha
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
