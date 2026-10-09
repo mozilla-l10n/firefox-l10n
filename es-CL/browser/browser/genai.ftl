@@ -235,6 +235,11 @@ link-preview-settings-key-points =
     .label = Permitir que la IA lea el comienzo de la página y genere puntos clave
 link-preview-settings-long-press =
     .label = Atajo: Haz clic y mantén presionado el enlace durante 1 segundo (pulsación larga)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Preguntar a { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Pregúntale a la IA
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ver más con IA?
 # Message that appears when user is shown the opt-in flow for link previews
