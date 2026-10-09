@@ -1324,6 +1324,7 @@ private-browsing-info-panel-title = Eikehína peteĩ ovetã ñemíme
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Mba’éicha emboykéta mba’ekuaarã ñehundi (DLP) { $agentName } rupi. Eikutu ápe eikuaave hag̃ua.
+content-analysis-panel-title2 = Mba’ekuaarã ani hag̃ua okañy
 content-analysis-panel-title = Mba’ekuaarã ñemo’ã
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
