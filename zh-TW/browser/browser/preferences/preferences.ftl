@@ -1213,6 +1213,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = 管理要在您連結的裝置間同步哪些資料
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = 儲存
+    .buttonlabelextra2 = 中斷連線…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = 管理要在此裝置上同步哪些資料
 
 ## The device name controls.
 

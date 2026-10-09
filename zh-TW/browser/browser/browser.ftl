@@ -1294,6 +1294,17 @@ restore-session-startup-suggestion-button = 告訴我如何作
 
 filepicker-blocked-infobar = 您的組織已封鎖存取此電腦中的本機檔案。
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } 現在也會搜尋分頁
+urlbar-addons-shortcut-moved-description = 若要開啟擴充套件與佈景主題，請按下 { $addonsShortcut }。
+urlbar-addons-shortcut-moved-change-shortcuts = 管理快速鍵
+urlbar-addons-shortcut-moved-dismiss = 知道了！
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } 將會自動傳送一些資料給 { -vendor-short-name }，讓我們能夠改善您的使用體驗。

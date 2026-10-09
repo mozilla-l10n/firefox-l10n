@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = 傳統視窗
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name } 切換器
     .tooltiptext = 切換使用智慧或傳統視窗。
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } 切換器
+    .tooltiptext = 切換智慧視窗與經典視窗
 
 ## Input CTA
 

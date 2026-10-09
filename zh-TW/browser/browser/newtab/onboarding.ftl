@@ -601,3 +601,16 @@ onboarding-theme-picker-button-label = 儲存並繼續
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = 功能亮點
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-primary-button-label = 開始上網
+welcome-back-onboarding-secondary-button-label = 看看還有哪些新鮮事
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = 整理分頁
+welcome-back-onboarding-pill-label-vpn = 內建 VPN
+welcome-back-onboarding-pill-label-pdf = PDF 工具
+welcome-back-onboarding-card-label-tabs = 透過垂直分頁與群組，讓分頁更整齊
+welcome-back-onboarding-card-label-vpn = 透過內建 VPN 保持隱藏狀態
+welcome-back-onboarding-card-label-pdf = 為 PDF 檔案內容畫螢光筆、簽名並編輯內容
+welcome-back-onboarding-card-tilebutton-label = 試試看
