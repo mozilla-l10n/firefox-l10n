@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Xong
 default-browser-guidance-notification-v2-title = Hoàn tất việc đặt { -brand-short-name } làm trình duyệt mặc định cho bạn
 default-browser-guidance-notification-v2-body = Trong Cài đặt, chọn “Set default” hoặc “Đặt làm mặc định” cho { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Hoàn tất việc đặt { -brand-short-name } làm trình duyệt mặc định cho bạn trong Cài đặt
+default-browser-guidance-notification-auto-trigger-title = Mở liên kết của bạn bằng { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Đặt { -brand-short-name } làm trình duyệt mặc định trong Cài đặt.
