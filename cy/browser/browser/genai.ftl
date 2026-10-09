@@ -26,7 +26,7 @@ genai-prompts-summarize =
     .value = Crynhowch y dewis drwy ddefnyddio iaith fanwl a chynnil. Defnyddiwch benynnau a rhestr bwledi yn y crynodeb, i'w wneud yn sganadwy. Cofiwch gynnal yr ystyr a'r cywirdeb ffeithiol.
 # Prompt purpose: help users understand what a webpage covers at a glance
 # $url (string) - address of the webpage to summarize
-genai-prompts-summarize-page = Crynhowch y dudalen we yn { $url } gan ddefnyddio iaith fanwl gywir a chryno. Defnyddiwch benawdau a rhestrau bwled yn y crynodeb, i'w wneud yn sganadwy. Cynnal ystyr a chywirdeb ffeithiol.
+genai-prompts-summarize-page = Crynhoi'r dudalen we yn { $url } gan ddefnyddio iaith fanwl gywir a chryno. Defnyddio penawdau a rhestrau bwled yn y crynodeb, i'w wneud yn sganadwy. Cynnal ystyr a chywirdeb ffeithiol.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Symleiddio'r iaith

@@ -621,7 +621,7 @@ welcome-back-onboarding-title = Nodweddion newydd wedi'u hadeiladu i'ch helpu ch
 welcome-back-onboarding-primary-button-label = Cychwyn pori
 welcome-back-onboarding-secondary-button-label = Gweld beth arall sy'n newydd
 # Pill label for features that allow you to tidy up your tabs
-welcome-back-onboarding-pill-label-tabs = Tabiau Taclus
+welcome-back-onboarding-pill-label-tabs = Tacluso Tabiau
 welcome-back-onboarding-pill-label-vpn = VPN cynhenid
 welcome-back-onboarding-pill-label-pdf = Offer PDF
 welcome-back-onboarding-card-label-tabs = Tacluso gyda thabiau fertigol a grwpiau
