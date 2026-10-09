@@ -1311,6 +1311,17 @@ restore-session-startup-suggestion-button = Nasıl yapacağımı göster
 
 filepicker-blocked-infobar = Kuruluşunuz bu bilgisayardaki yerel dosyalara erişimi engelledi
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } artık sekmelerde arama yapıyor
+urlbar-addons-shortcut-moved-description = Uzantıları ve temaları açmak için { $addonsShortcut } kısayolunu kullanın.
+urlbar-addons-shortcut-moved-change-shortcuts = Kısayolları yönet
+urlbar-addons-shortcut-moved-dismiss = Tamam
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name }, deneyiminizi geliştirebilmemiz için bazı verileri otomatik olarak { -vendor-short-name } sunucularına gönderir.
