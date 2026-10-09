@@ -1140,6 +1140,10 @@ prefs-syncing-off = Syncing: OFF
 prefs-syncing-off-2 =
     .description = Turn on synchronisation to get your bookmarks, passwords, history and more on any device.
     .label = Synchronisation is OFF
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Turn on synchronisation to get your bookmarks, passwords, history and more on this device.
+    .label = Synchronisation is OFF
 prefs-sync-turn-on-syncing =
     .label = Turn on synchronisation…
     .accesskey = s
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = You are synchronising these items across all your connected devices:
 sync-syncing-across-devices-heading-2 = Data synchronised across devices
+sync-syncing-across-devices-heading-3 = Data synchronising on this device
 sync-syncing-across-devices-empty-state2 =
     .description = You aren’t synchronising anything… yet. Start synchronising to get all of your data on all your devices.
     .label = Manage synchronised data
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = Manage what synchronises on all your connected devices
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Save
+    .buttonlabelextra2 = Disconnect…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Manage what synchronises on this device
 
 ## The device name controls.
 

@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Classic Window
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name } switcher
     .tooltiptext = Switch between Smart and Classic windows.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } switcher
+    .tooltiptext = Switch between Smart and Classic Windows
 
 ## Input CTA
 
