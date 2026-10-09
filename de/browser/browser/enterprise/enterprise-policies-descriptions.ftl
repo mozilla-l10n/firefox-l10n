@@ -5,7 +5,6 @@
 policy-ContentAnalysisTelemetry = Sicherheits-Logging/Telemetrie aktivieren und konfigurieren, wenn eine Regel zur Verhinderung von Datenverlust (Data Loss Protection) ausgelöst wird
 policy-DataLossPrevention = Integrierte Engine zur Verhinderung von Datenverlusten (DLP) aktivieren und konfigurieren.
 policy-DisableLocalPolicies = Alle lokalen Richtlinienquellen deaktivieren (policies.json, Windows-GPO und macOS-plist).
-policy-EnterpriseStorageEncryption = Vom Unternehmen verwaltetes Hauptpasswort für verschlüsselten Speicher aktivieren
 policy-SecurityLogging = Sicherheitsprotokollierung und Telemetrie für sicherheitsrelevante Ereignisse aktivieren und konfigurieren.
 policy-SignOut = Abmeldeverhalten für Unternehmensbenutzer konfigurieren.
 policy-Sync = Aktivieren oder deaktivieren Sie die Synchronisierung und legen Sie fest, welche Daten einbezogen werden sollen.
