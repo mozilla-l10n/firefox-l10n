@@ -431,3 +431,8 @@ addon-data-collection-learnmore = Научете повече за събира�
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
 mlmodel-pdfjs = { -brand-short-name } използва това, за да създава заместващ текст за изображенията, които добавяте към PDF файлове
+mlmodel-formfill-engine = { -brand-short-name } използва това за попълване на формуляри за адреси
+mlmodel-heading = Управление на локални AI модели
+mlmodel-description = Някои функции и разширения на { -brand-short-name } се захранват от AI модели, които работят локално на вашето устройство. Този подход защитава вашата поверителност и в много случаи ускорява производителността. <a data-l10n-name="learn-more">Научете повече</a>
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Размер на файла
