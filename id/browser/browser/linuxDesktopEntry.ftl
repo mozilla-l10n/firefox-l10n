@@ -4,6 +4,8 @@
 
 # The entry name is the label on the desktop icon, among other things.
 desktop-entry-name = { -brand-shortcut-name }
+# The comment usually appears as a tooltip when hovering over application menu entry.
+desktop-entry-comment-1 = Peramban cepat dan pribadi
 desktop-entry-generic-name = Peramban Web
 # Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name-1 = { -brand-full-name }

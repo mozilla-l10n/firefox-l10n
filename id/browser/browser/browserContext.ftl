@@ -332,7 +332,15 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Kirim ke Perangkat
     .accesskey = n
+main-context-menu-send-to-mobile-sign-in = Masuk untuk Mengirim Tab
+main-context-menu-send-to-mobile-enable-sync2 = Aktifkan sinkronisasi untuk mengirim tab
+main-context-menu-send-to-mobile-connect-phone2 = Sambungkan ponsel Anda
 main-context-menu-send-to-mobile-device-missing2 = Tidak Melihat Peranti Anda?
+main-context-menu-send-to-mobile-sign-in-from-link = Masuk untuk Mengirim Tautan
+main-context-menu-send-to-mobile-sign-in-from-page = Masuk untuk Mengirim Laman
+main-context-menu-send-to-mobile-connect-phone3 = Sambungkan Peranti untuk Mengirim Tab
+main-context-menu-send-to-mobile-connect-phone-from-link = Sambungkan Peranti untuk Mengirim Tautan
+main-context-menu-send-to-mobile-connect-phone-from-page = Sambungkan Peranti untuk Mengirim Laman
 
 ##
 
@@ -427,3 +435,5 @@ main-context-menu-pdfjs-cut-page =
     .label = Potong laman
 main-context-menu-pdfjs-delete-page =
     .label = Hapus laman
+main-context-menu-pdfjs-save-page =
+    .label = Simpan pilihan sebagai…

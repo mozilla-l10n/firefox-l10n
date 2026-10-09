@@ -1095,6 +1095,10 @@ qrcode-copy-button =
     .label = Salin
 qrcode-copy-success =
     .message = Kode QR disalin ke papan klip.
+qrcode-save-button =
+    .label = Simpan
+qrcode-close-button =
+    .aria-label = Tutup
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1108,11 +1112,17 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = Tab yang Disinkronkan
     .tooltiptext = Tampilkan tab dari perangkat lain
+toolbar-button-send-tab =
+    .label = Kirim tab
+    .tooltiptext = Kirim tab saat ini ke peranti lain
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Jendela Mode Pribadi Baru
     .tooltiptext = Buka jendela Penjelajahan Pribadi baru ({ $shortcut })
+toolbar-button-share-tab =
+    .label = Bagikan
+    .tooltiptext = Bagikan laman Ini
 
 ## EME notification panel
 
@@ -1209,6 +1219,14 @@ restore-session-startup-suggestion-button = Tunjukkan caranya
 
 filepicker-blocked-infobar = Organisasi Anda telah memblokir akses ke berkas lokal di komputer ini
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-change-shortcuts = Kelola pintasan
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } mengirimkan beberapa jenis data ke { -vendor-short-name } agar kami dapat meningkatkan pengalaman Anda.
@@ -1220,6 +1238,9 @@ private-browsing-indicator-label = Penjelajahan pribadi
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = Penjelajahan pribadi
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = Info perambanan pribadi
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1439,3 +1460,10 @@ trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } memblokir {
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } mengizinkan { $count } penambang mata uang kripto
 trustpanel-cryptominer-tab-list-header = Situs-situs berikut mencoba untuk melakukan penambangan kripto:
 trustpanel-blocker-section-header2 = <span data-l10n-name="count">{ $count }</span> Pelacak diblokir di situs ini
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Muat ulang
+    .accesskey = M
+reduced-protection-infobar-never-show-button = Jangan tampilkan lagi
+    .accesskey = J

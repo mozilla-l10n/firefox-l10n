@@ -14,3 +14,12 @@ smartwindow-organize-tabs-button =
 ## groups for the window's open tabs and creates the ones the user picks.
 
 smartwindow-group-tabs-panel-heading = Emohendaporã tendayke
+# Shown while the on-device model clusters the open tabs into suggestions. It is
+# forming new groups from these tabs, not searching for tab groups that already
+# exist.
+smartwindow-group-tabs-loading = Ahechahína tendayke ahekávo aty oikóva…
+# Shown in place of suggestions when every group the model found has already
+# been created.
+smartwindow-group-tabs-all-sorted = Ejapo porã emohendávo tendayke
+# Creates every suggested group at once.
+smartwindow-group-tabs-create-all = Emoheñói atyeta

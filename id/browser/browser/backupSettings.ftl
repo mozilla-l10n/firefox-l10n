@@ -177,6 +177,7 @@ change-backup-encryption-header = Ubah sandi cadangan
 
 password-rules-header = Persyaratan sandi
 password-rules-length-description = Setidaknya 8 karakter
+password-rules-email-description2 = Bukan alamat surel
 password-rules-email-description = Bukan alamat surel Anda
 password-rules-disclaimer = Tetap aman — jangan gunakan kembali kata sandi. Lihat kiat lainnya untuk <a data-l10n-name="password-support-link">membuat sandi yang kuat</a>.
 password-validity-has-email = Tidak boleh berupa alamat surel

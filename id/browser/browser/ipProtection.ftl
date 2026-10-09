@@ -51,6 +51,43 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Hapus VPN dari bilah alat
 ipprotection-feature-introduction-button-open-vpn = Buka VPN
 
+## Summer promo offramp callout buttons
+
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Buka VPN
+ipprotection-summer-promo-offramp-get-subscription-button = Dapatkan { -mozilla-vpn-brand-name }
+
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Jangan sekarang
+
+## Panel
+
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Kelola aturan VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = Aturan Anda
+
+## Location controls
+
+ipprotection-recommended-location-badge = BARU
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Lokasi: { $country }
+ipprotection-locations-subview =
+    .title = Pilih lokasi
+
+## VPN paused state
+
+upgrade-vpn-button = Coba { -mozilla-vpn-brand-name }
+
+## Messages and errors
+
+ipprotection-connection-status-generic-error-description = Coba lagi dalam beberapa menit.
+ipprotection-connection-status-network-error-title-1 = Cek sambungan internet Anda
+    .aria-label = Cek sambungan internet Anda
+
+## IP Protection alerts
+
+vpn-error-page-new-session = Mulai sesi baru
+vpn-paused-alert-close-tabs-button = Tutup semua tab
+vpn-error-alert-body = Coba lagi nanti.
