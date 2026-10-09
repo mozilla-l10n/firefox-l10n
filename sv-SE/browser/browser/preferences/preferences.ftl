@@ -1234,7 +1234,7 @@ sync-choose-what-to-sync-dialog5 =
     .buttonlabelaccept = Spara
     .buttonlabelextra2 = Koppla ifrån…
     .buttonaccesskeyaccept = S
-    .buttonaccesskeyextra2 = D
+    .buttonaccesskeyextra2 = f
     .style = min-width: 36em;
     .title = Hantera vad som synkroniseras på den här enheten
 
