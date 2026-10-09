@@ -486,6 +486,16 @@ newtab-search-widget-open-menu-button =
     .aria-label = Embojuruja poravorã jehekaha
     .title = Embojuruja poravorã jehekaha
 
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Tenondekuaa
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Tenondekuaa poravorã
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Eikuaave
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -783,12 +793,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Crucigráma
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Viruporukuaa
 newtab-custom-widget-stocks-toggle =
     .label = Jejapo
 newtab-custom-widget-picture-toggle =
     .label = Ta’ãnga araguáva
 newtab-custom-widget-search-toggle =
     .label = Eheka
+newtab-custom-widget-horoscopes-toggle =
+    .label = Tenondekuaa
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -971,6 +986,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Peteĩ aguara tembe’y akatúa gotyo tugua narã ári
+newtab-wallpaper-firefox-colorful-sky = Ónda narãva ára pytũ pytãũva ári
+newtab-wallpaper-firefox-desert-dark = Aguara oguapýva yvynandi pytaũ pytũvape
 newtab-wallpaper-firefox-desert-light = Peteĩ aguara oñani oĩ’ỹhápe mba’eve
 newtab-wallpaper-firefox-hills-dark = Peteĩ aguara oñani yvy yvate ypytũhápe
 newtab-wallpaper-firefox-hills-light = Peteĩ aguara oñani yvy yvate hesakãhápe
@@ -1005,6 +1023,11 @@ newtab-wallpaper-celestial-river = Ysyryguasu ra’ãnga satélite guive
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Oykekóva
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Abrir menú de clima
+    .title = Embojuruja poravorã arapytugua
 newtab-weather-menu-change-location = Emoambue tendatee
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Eheka tendatee
@@ -1283,6 +1306,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Tysýi jeporavorã
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Embojuruja poravorã tysyigua
+    .title = Embojuruja poravorã tysyigua
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Emoheñói tysýi pyahu
