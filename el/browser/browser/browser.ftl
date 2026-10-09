@@ -1316,6 +1316,7 @@ filepicker-blocked-infobar = Ο οργανισμός σας έχει αποκλ�
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-description = Για να ανοίξετε τις επεκτάσεις και τα θέματα, πατήστε { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = Διαχείριση συντομεύσεων
 urlbar-addons-shortcut-moved-dismiss = Το κατάλαβα
 

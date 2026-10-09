@@ -233,6 +233,9 @@ link-preview-settings-key-points =
     .label = Να επιτρέπεται στην τεχνητή νοημοσύνη η ανάγνωση της αρχής της σελίδας και η δημιουργία κύριων σημείων
 link-preview-settings-long-press =
     .label = Συντόμευση: Κάντε κλικ παρατεταμένα στον σύνδεσμο για 1 δευτερόλεπτο (παρατεταμένο πάτημα)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Ερώτηση στο { $provider }
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Θέλετε να δείτε περισσότερα με την ΤΝ;
 # Message that appears when user is shown the opt-in flow for link previews
