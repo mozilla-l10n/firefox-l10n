@@ -654,7 +654,7 @@ performance-settings-learn-more = Ďalšie informácie
 performance-allow-hw-accel =
     .label = Použiť hardvérové urýchľovanie (ak je dostupné)
     .accesskey = h
-performance-limit-content-process-option = Limit procesov obsahu
+performance-limit-content-process-option = Limit procesov pre obsah
     .accesskey = L
 performance-limit-content-process-enabled-desc = Viac procesov môže zlepšiť výkon pri otvorení viacerých kariet. Spotrebujú však viac pamäte.
 performance-limit-content-process-blocked-desc = Zmena počtu procesov s obsahom je možná len pri použití viacprocesového režimu aplikácie { -brand-short-name }. <a data-l10n-name="learn-more">Pozrite sa, ako môžete skontrolovať stav viacprocesového režimu</a>

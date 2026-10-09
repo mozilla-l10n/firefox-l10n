@@ -42,3 +42,4 @@ default-browser-guidance-notification-dismiss = Дайын
 default-browser-guidance-notification-v2-title = { -brand-short-name } өнімін негізгі браузер етуді аяқтау
 default-browser-guidance-notification-v2-body = Баптауларда { -brand-short-name } үшін "Негізгі қылу" таңдаңыз.
 default-browser-guidance-notification-v2-title-only = Баптауларда { -brand-short-name } өнімін негізгі браузер етуді аяқтау
+default-browser-guidance-notification-auto-trigger-title = Сілтемелеріңізді { -brand-short-name } арқылы ашыңыз

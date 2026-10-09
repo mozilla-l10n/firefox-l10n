@@ -342,6 +342,11 @@ newtab-privacy-message-first-protection-cta = Қорғаныстарды қар�
 newtab-stocks-menu-learn-more = Көбірек білу
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Қор биржасы деректері қолжетімді емес.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Қаржы мәзірін ашу
+    .title = Қаржы мәзірін ашу
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
