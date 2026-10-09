@@ -26,6 +26,18 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = أدر إعدادات إعادة التوجيه المنبثقة والجهات الخارجية…
     .accesskey = د
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = الرسائل والبريد والمزيد...
+    .accesskey = ل
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = شارك…
+    .accesskey = ر
 urlbar-identity-button =
     .aria-label = اعرض معلومات الموقع
 
@@ -1217,6 +1229,15 @@ restore-session-startup-suggestion-button = ما الطريقة؟
 
 filepicker-blocked-infobar = حجبت منظّمتك الوصول إلى الملفات المحلية الموجودة على هذا الحاسوب
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-change-shortcuts = إدارة الاختصارات
+urlbar-addons-shortcut-moved-dismiss = فهمت
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = يُرسل { -brand-short-name } بعض البيانات تلقائيا إلى { -vendor-short-name } لمساعدتنا في تحسين متصفّحك.
@@ -1228,11 +1249,23 @@ private-browsing-indicator-label = التصفح الخاص
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = التصفح الخاص
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = معلومات التصفح الخاص
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = أنت في نافذة خاصة
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = يساعد هذا في إخفاء تصفحك عن الآخرين على هذا الجهاز، ولكنه لا يجعلك غير مرئي على الإنترنت. <a data-l10n-name="learn-more">مَن قد يتمكن من رؤية نشاطي؟</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = منع فقدان البيانات (DLP) بواسطة { $agentName }. انقر للحصول على مزيد من المعلومات.
+content-analysis-panel-title2 = منع فقدان البيانات
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = تستخدم مؤسستك <b>{ $agentName }</b> للتحكم في طرق مشاركة البيانات الحسّاسة. <a data-l10n-name="info">اطّلع على المزيد</a>
 content-analysis-panel-title = حماية البيانات
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
