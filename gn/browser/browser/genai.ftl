@@ -233,6 +233,11 @@ link-preview-settings-key-points =
     .label = Emoneĩ AI mongu’eha tomoñe’ẽ kuatiarogue ñepyrũ ha tomoheñói mba’e porã
 link-preview-settings-long-press =
     .label = Mbopya’eha: Eikutu ha ejopy juajuha ári peteĩ aravo’ive aja (ejopy are).
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Eporandu { $provider }-pe
+highlight-to-search-settings-ask-generic =
+    .label = Eporandu IA-pe
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ehechave IA ndive?
 # Message that appears when user is shown the opt-in flow for link previews

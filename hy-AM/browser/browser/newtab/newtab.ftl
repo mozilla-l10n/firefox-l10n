@@ -1731,6 +1731,12 @@ newtab-clock-widget-input-nickname =
     .aria-label = Մականուն (ըստ ցանկության)
     .label = Մականուն (ըստ ցանկության)
     .placeholder = Ավելացրեք մականուն
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .aria-label = Ավելացնել նոր ժամացույց
+    .title = Ավելացնել նոր ժամացույց
 newtab-clock-widget-button-add-clock = Ավելացնել
 newtab-clock-widget-button-cancel = Չեղարկել
 newtab-clock-widget-button-back =

@@ -41,6 +41,18 @@ menu-share-links =
 menu-share-mac-picker-single =
     .label = AirDrop, Ñeẽmondo ha hetave…
     .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = AirDrop, Ñeẽmondo ha hetave…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Moherakuã…
+    .accesskey = h
 urlbar-identity-button =
     .aria-label = Ehecha marandu ko tenda pegua
 
@@ -106,6 +118,8 @@ urlbar-result-menu-tip-get-help2 = Eipota pytyvõ
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = Ehejarei ko ñemoñe’ẽ
     .accesskey = D
+urlbar-result-menu-remove-top-site = Embogue ko tenda oikóva
+    .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = Eñangareko { -firefox-suggest-brand-name }
     .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -1280,6 +1294,14 @@ restore-session-startup-suggestion-button = Ehechauka mba’éichapa
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Nde atyguasu ojokóma marandurendápe jeike ko mohendaha pegua.
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ohekahína tendayke
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

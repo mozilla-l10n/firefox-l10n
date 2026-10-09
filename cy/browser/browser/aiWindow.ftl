@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Ffenest Glasurol
 toolbar-switcher-customizable-label =
     .label = Newidiwr { -smart-window-brand-name }
     .tooltiptext = Newid rhwng ffenestri Clyfar a Chlasurol
+toolbar-switcher-customizable-label-v2 =
+    .label = Newidydd { -smart-window-brand-name }
+    .tooltiptext = Newidiwch rhwng Ffenestri Clyfar neu Glasurol
 
 ## Input CTA
 

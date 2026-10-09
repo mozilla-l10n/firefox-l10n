@@ -14,3 +14,31 @@ appearance-browser-icon-entry-group =
     .label = Դիտարկիչի պատկերակ
 appearance-browser-icon-button =
     .label = Փոխել դիտարկիչի պատկերակը
+
+## Strings for the "Browser icon" sub-page (Windows only), opened from the
+## "Change browser icon" button in the Appearance settings. The sub-page lets
+## people choose which icon appears on the taskbar, desktop, and Start Menu.
+
+appearance-browser-icon-subpage-title =
+    .heading = Ավելի շատ պատկերակներ
+
+## Icons are organized into two groups: "Standard" and "Bonus". The icons in
+## the "Bonus" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-basic-group =
+    .label = Սովորական
+appearance-browser-icon-bonus-group =
+    .label = Հատուկ
+
+##
+
+appearance-browser-icon-set-default-button =
+    .label = Կայել որպես սկզբնադիր
+appearance-browser-icon-pin-button =
+    .label = Ամրացնել խնդրագոտուն
+
+## Icon names
+
+appearance-browser-icon-default =
+    .label = Սկզբնադիր

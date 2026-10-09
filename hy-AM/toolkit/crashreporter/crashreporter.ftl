@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+crashreporter-crashed-and-restore = { -brand-short-name }-ը խնդիր ունեցավ և խափանվեց։ Մենք կփորձենք վերականգնել Ձեր ներդիրները և պատուհանները՝ երբ կվերսկսվի։
 crashreporter-plea = Դուք կարող եք օգնել մեզ հայտնաբերելու և շտկելու խնդիրը և ուղարկելով վրաթի զեկույցը:
 crashreporter-no-run-message = Այս ծրագիրը աշխատում է ծրագրի վթարային փակումից հետո, որպեսզի արտադրողին զեկուցի խնդրի մասին: Այն պետք չէ աշխատացնել ուղղակիորեն:
 crashreporter-button-details = Մանրամասներ...
@@ -20,6 +21,3 @@ crashreporter-button-ok = Լաւ
 crashreporter-button-close = Փակել
 # $id (String) - the crash id from the server, typically a UUID
 crashreporter-crash-identifier = Վթար ID-ին. { $id }
-
-# Error strings
-
