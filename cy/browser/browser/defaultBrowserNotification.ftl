@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Gorffen
 default-browser-guidance-notification-v2-title = Gorffen gwneud { -brand-short-name } eich porwr arferol
 default-browser-guidance-notification-v2-body = Yn y Gosodiadau, dewiswch "Gosod yr arferol" ar gyfer { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Gorffen gwneud { -brand-short-name } eich porwr arferol yn y Gosodiadau
+default-browser-guidance-notification-auto-trigger-title = Agorwch eich dolenni gyda { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Dewiswch { -brand-short-name } fel eich porwr rhagosodedig yn y Gosodiadau.

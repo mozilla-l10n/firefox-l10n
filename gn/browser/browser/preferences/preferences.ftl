@@ -696,6 +696,10 @@ settings-keyboard-shortcuts-group =
     .label = Tairenda mbopya’eha
 settings-keyboard-shortcuts-customkeys-link =
     .label = Emboava tairenda mbopya’eha
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Emboava moĩporã marandurape rupa Hekahápe
 settings-media-group =
     .label = Momaranduha
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -920,6 +924,10 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Jehekaha ypyguáva ovetãita ñemíme
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Ñeikundaha marandurape rupápe
 search-suggestions-header-2 =
     .label = Je’e jehekaha mongu’eha rehegua
 search-one-click-header2 = Jeheka mbopya’eha
@@ -1143,6 +1151,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Oñembojuehepa ko’ã kyta opavavete ne mba’e’oka omba’apóvape:
 sync-syncing-across-devices-heading-2 = Mba’ekuaarã mbojuehepyre mba’e’okaita pa’ũme
+sync-syncing-across-devices-heading-3 = Mba’ekuaarã ñembojuehe ko mba’e’okápe
 sync-syncing-across-devices-empty-state2 =
     .description = Ne’írã embojuehe mba’eve. Eñepyrũ embojuehe ehupyty hag̃ua mba’ekuaarãita ne mba’e’okaitápe.
     .label = Eñangareko mba’ekuaarã mobjuehepyrére
@@ -2128,6 +2137,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Ta’ãnga moñe’ẽrã yke
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Ñe’ẽporã tendayke atygua
 preferences-ai-controls-block-confirmation-key-points = Kyta ha’etéva juajuha jehecha ypýpe
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Chatbots me’ẽha tenda yképe
+preferences-ai-controls-block-confirmation-speech-recognition = Ayvu kuaaukaha
 preferences-ai-controls-block-confirmation-features-after = Upe jejoko omomarã jepysokueita oiporúva IA ome’ẽva { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Heja
@@ -2233,6 +2243,8 @@ preferences-etp-custom-cookie-behavior =
     .aria-label = Kookie
 preferences-etp-custom-cookie-behavior-accept-all =
     .label = Emoneĩmbaite kookieita
+preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
+    .label = Ejoko kookie tapykuehoha tenda juasagua
 preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
     .label = Ejoko kookie tenda pa’ũme
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =

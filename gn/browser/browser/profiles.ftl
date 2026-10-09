@@ -57,6 +57,9 @@ avatar-selector-add-image = Embojuaju ta’ãnga
 avatar-selector-crop = Ñemitỹ
 avatar-selector-dialog =
     .aria-label = Embosako’i Avatar
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = Eiporavo avatar
 edit-profile-page-no-name = Embohéra ko mba’ete ejuhu hag̃ua upéi. Embohéra ambuekuaa uperire.
 edit-profile-page-duplicate-name = Pe mba’ete réra ojeporúma. Eheka téra pyahu.
 edit-profile-page-profile-saved = Ñongatupyre
