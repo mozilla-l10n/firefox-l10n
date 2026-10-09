@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+fullscreen = Lánscáileán
+touchbar-fullscreen-exit = Scoir ón Lánscáileán
+find = Aimsigh
 # This string describes shortcuts for search.
 search-popover = Aicearraí cuardaigh
 # Describes searches limited to a specific scope

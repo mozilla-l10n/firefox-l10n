@@ -242,15 +242,30 @@ menu-tools =
 menu-tools-downloads =
     .label = Íoslódálacha
     .accesskey = l
+menu-tools-fxa-sign-in2 =
+    .label = Sínigh Isteach
+    .accesskey = s
+menu-tools-turn-on-sync2 =
+    .label = Cuir Sioncronú  ar Siúl
+    .accesskey = C
 menu-tools-sync-now =
     .label = Sioncronaigh Anois
     .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = Athcheangail le { -brand-product-name }…
+    .accesskey = A
+menu-tools-browser-tools =
+    .label = Uirlisí an Bhrabhsálaí
+    .accesskey = B
+menu-tools-task-manager =
+    .label = Bainisteoir Tascanna
+    .accesskey = B
 menu-tools-page-source =
     .label = Foinse an Leathanaigh
     .accesskey = F
 menu-tools-page-info =
     .label = Eolas Leathanaigh
-    .accesskey = s
+    .accesskey = E
 menu-settings =
     .label = Socruithe
     .accesskey =
@@ -258,6 +273,9 @@ menu-settings =
             [windows] S
            *[other] n
         }
+menu-tools-layout-debugger =
+    .label = Dífhabhtóir Leagain Amach
+    .accesskey = D
 
 ## Window Menu
 

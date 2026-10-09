@@ -4,6 +4,8 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (gan teideal)
+# Do not translate `javascript:` and `data:`, they refer to the scheme used in URLs
+places-load-js-data-url-error = Ar chúiseanna slándála, ní féidir URLanna “javascript:” ná “data:" a luchtú ón bhfuinneog staire ná ón mbarra taoibh.
 places-bookmarks-backup-title = Ainm comhaid leabharmharcanna cúltaca
 places-bookmarks-restore-alert-title = Cuir Seanleabharmharcanna Ar Ais
 places-bookmarks-restore-alert = Cuirfidh seo na leabharmharcanna cúltaca in áit na leabharmharcanna reatha go léir. An bhfuil tú cinnte?

@@ -18,6 +18,7 @@ about-config-page-title = Ardroghanna
 about-config-search-input1 =
     .placeholder = Cuardach ar ainm na sainrogha
 about-config-show-all = Taispeáin Uile
+about-config-show-only-modified = Ná taispeáin ach amháin na sainroghanna a athraíodh
 about-config-pref-add-button =
     .title = Cuir Leis
 about-config-pref-toggle-button =

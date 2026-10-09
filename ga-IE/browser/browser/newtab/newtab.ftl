@@ -301,10 +301,20 @@ newtab-label-download = Íoslódáilte
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Urraithe
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#   $sponsor (string) - The name of a sponsor
+newtab-label-sponsored-by = Urraithe ag { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } nóim
 
 ## Section Headers.
 
 newtab-section-header-topsites = Barrshuímh
+newtab-section-header-recent-activity = Gníomhaíocht Le Déanaí
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

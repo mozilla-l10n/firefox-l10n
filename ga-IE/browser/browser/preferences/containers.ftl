@@ -4,3 +4,6 @@
 
 containers-window-close =
     .key = w
+containers-dialog =
+    .buttonlabelaccept = Déanta
+    .buttonaccesskeyaccept = D

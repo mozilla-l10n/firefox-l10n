@@ -10,3 +10,6 @@
 clear-site-data-cookies-empty =
     .label = Fianáin agus Sonraí Suímh
     .accesskey = S
+clear-site-data-dialog =
+    .buttonlabelaccept = Glan
+    .buttonaccesskeyaccept = I

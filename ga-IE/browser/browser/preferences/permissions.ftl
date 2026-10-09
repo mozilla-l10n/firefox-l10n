@@ -18,10 +18,19 @@ permissions-session =
 permissions-allow =
     .label = Ceadaigh
     .accesskey = C
+permissions-button-off =
+    .label = Múch
+    .accesskey = M
+permissions-button-off-temporarily =
+    .label = Múch go sealadach
+    .accesskey = T
 permissions-site-name =
     .label = Suíomh Gréasáin
 permissions-status =
     .label = Stádas
+permissions-remove =
+    .label = Bain Suíomh Gréasáin
+    .accesskey = R
 permissions-searchbox =
     .placeholder = Cuardaigh Suíomh Gréasáin
 permissions-capabilities-allow =
@@ -36,6 +45,10 @@ permissions-capabilities-listitem-block =
     .value = Coisc
 permissions-capabilities-listitem-allow-session =
     .value = Ceadaigh don Seisiún
+permissions-capabilities-listitem-off =
+    .value = As
+permissions-capabilities-listitem-off-temporarily =
+    .value = As go sealadach
 
 ## Invalid Hostname Dialog
 

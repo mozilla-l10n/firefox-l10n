@@ -78,6 +78,7 @@ about-logins-origin-tooltip2 = Cuir isteach an seoladh iomlán agus cinntigh go 
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Cinntigh go bhfuil do fhocal faire reatha á shábháil agat don suíomh seo. Ní athraítear an focal faire anseo ar { $webTitle } nuair a athraítear an focal faire anseo.
+about-logins-add-password-tooltip = Cinntigh go bhfuil do focal faire reatha á shábháil agat don suíomh seo.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Ainm úsáideora
@@ -90,12 +91,39 @@ login-item-password-reveal-checkbox =
     .aria-label = Taispeáin an focal faire
 login-item-copy-password-button-text = Cóipeáil
 login-item-copied-password-button-text = Cóipeáladh é!
+about-logins-login-item-save-changes-button = Sábháil
 login-item-save-new-button = Sábháil
 login-item-cancel-button = Cealaigh
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
+
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
+login-item-timeline-action-created = Cruthaithe
+login-item-timeline-action-updated = Nuashonraithe
+login-item-timeline-action-used = Úsáidte
 
 ## OS Authentication dialog
 
 about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message2-win = Chun an focal faire atá agat a chur in eagar, cuir isteach do fhaisnéis aitheantais logála isteach Windows. Cuirfidh seo le cosaint slándála na gcuntas atá agat.
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message2-macosx = an focal faire atá sábháilte a chur in eagar
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Chun do focal faire a fheiceáil, cuir isteach do fhaisnéis aitheantais logála isteach ar Windows. Cuidíonn sé seo le slándáil do chuntais a chosaint.
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = an focal faire sábháilte a nochtadh
 
 ## Primary Password notification
 
