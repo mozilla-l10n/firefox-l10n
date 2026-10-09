@@ -14,6 +14,8 @@ smartwindow-organize-tabs-button =
 ## groups for the window's open tabs and creates the ones the user picks.
 
 smartwindow-group-tabs-panel-heading = Rajtarki organizować
+# Creates every suggested group at once.
+smartwindow-group-tabs-create-all = Wšě skupiny załožić
 smartwindow-group-tabs-suggested-heading = Namjetowane skupiny
 # Accessible name for the flyout that lists the tabs of one suggested group.
 # Activating a tab in the list switches to it.

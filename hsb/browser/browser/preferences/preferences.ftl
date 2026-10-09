@@ -1233,6 +1233,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = Z
     .style = min-width: 36em;
     .title = Rjadujće daty synchronizacijow na wšěch wašich zwjazanych gratach
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Składować
+    .buttonlabelextra2 = Zwisk dźělić…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = Z
+    .style = min-width: 36em;
+    .title = Rjadować, štož so ma na tutym graće synchronizować
 
 ## The device name controls.
 

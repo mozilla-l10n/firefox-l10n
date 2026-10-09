@@ -59,6 +59,7 @@ policy-DisableForgetButton = Přistup k tłóčatku Zabyć zakazać.
 policy-DisableFormHistory = Pytansku a formularnu historiju sej njespomjatkować
 policy-DisableLaunchOnLogin = Zadźěwajće tomu, zo so { -brand-short-name } awtomatisce startuje, hdyž so wužiwar přizjewja.
 policy-DisablePrimaryPasswordCreation = Jeli to trjechi, njeda so hłowne hesło wutworić.
+policy-DisablePasswordReveal2 = Njedowolić, zo so hesła w składowanych přizjewjenjach abo hesłowych polach pokazuja.
 policy-DisablePasswordReveal = Njedowolić, zo so hesła w składowanych přizjewjenjach pokazuja
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžnić.
 policy-DisableProfileImport = Menijowy přikaz za importowanje datow z druheho wobhladowaka znjemóžnić.

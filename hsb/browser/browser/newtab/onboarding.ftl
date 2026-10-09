@@ -618,3 +618,7 @@ onboarding-carousel-nav =
 ## Welcome Back Onboarding
 
 welcome-back-onboarding-primary-button-label = Přehladowanje započeć
+welcome-back-onboarding-secondary-button-label = Čitajće, štož je nimo toho nowe
+welcome-back-onboarding-pill-label-vpn = Zatwarjeny VPN
+welcome-back-onboarding-pill-label-pdf = Nastroje PDF
+welcome-back-onboarding-card-tilebutton-label = Wupruwować
