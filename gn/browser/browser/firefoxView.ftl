@@ -82,6 +82,9 @@ firefoxview-overview-nav = Ñeikundaha ramovéva
     .title = Ñeikundaha ramovéva
 firefoxview-overview-header = Ñeikundaha ramovéva
     .title = Ñeikundaha ramovéva
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Tendayke ha ñeikundaha rembiasakue mba’e’oka pa’ũme
 
 ## History in this context refers to browser history
 
