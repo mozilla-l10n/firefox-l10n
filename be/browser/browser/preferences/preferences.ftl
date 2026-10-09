@@ -1144,6 +1144,10 @@ prefs-syncing-off = Сінхранізацыя: ВЫКЛЮЧАНА
 prefs-syncing-off-2 =
     .description = Уключыце сінхранізацыю, каб атрымаць свае закладкі, паролі, гісторыю і іншае на любой прыладзе.
     .label = Сінхранізацыя АДКЛЮЧАНА
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Уключыце сінхранізацыю, каб атрымаць свае закладкі, паролі, гісторыю і іншае на гэтай прыладзе.
+    .label = Сінхранізацыя АДКЛЮЧАНА
 prefs-sync-turn-on-syncing =
     .label = Уключыць сінхранізацыю…
     .accesskey = ы
@@ -1167,6 +1171,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Вы сінхранізуеце гэтыя рэчы на ўсіх сваіх падлучаных прыладах:
 sync-syncing-across-devices-heading-2 = Дадзеныя сінхранізаваны паміж прыладамі
+sync-syncing-across-devices-heading-3 = Сінхранізацыя дадзеных на гэтай прыладзе
 sync-syncing-across-devices-empty-state2 =
     .description = Вы нічога не сінхранізуеце… пакуль. Пачніце сінхранізацыю, каб атрымаць усе свае звесткі на ўсіх сваіх прыладах.
     .label = Кіраваць сінхранізаванымі дадзенымі

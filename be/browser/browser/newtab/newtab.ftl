@@ -350,6 +350,11 @@ newtab-privacy-message-first-protection-cta = Паглядзець ахову
 newtab-stocks-menu-learn-more = Падрабязней
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Фондавыя звесткі недаступныя.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Адкрыць меню фінансаў
+    .title = Адкрыць меню фінансаў
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
