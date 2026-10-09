@@ -110,16 +110,16 @@ restart-later = Επανεκκίνηση αργότερα
 
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
-extension-controlling-password-saving = Το <img data-l10n-name="icon"/> <strong>{ $name }</strong> ελέγχει αυτήν τη ρύθμιση.
+extension-controlling-password-saving = Αυτή η ρύθμιση ελέγχεται από το πρόσθετο <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlling-web-notifications = Το <img data-l10n-name="icon"/> <strong>{ $name }</strong> ελέγχει αυτήν τη ρύθμιση.
+extension-controlling-web-notifications = Αυτή η ρύθμιση ελέγχεται από το πρόσθετο <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlling-privacy-containers = Το <img data-l10n-name="icon"/> <strong>{ $name }</strong> απαιτεί θεματικές καρτέλες.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlling-websites-content-blocking-all-trackers = Το <img data-l10n-name="icon"/> <strong>{ $name }</strong> ελέγχει αυτήν τη ρύθμιση.
+extension-controlling-websites-content-blocking-all-trackers = Αυτή η ρύθμιση ελέγχεται από το πρόσθετο <img data-l10n-name="icon"/> <strong>{ $name }</strong>.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config = Το <img data-l10n-name="icon"/> <strong>{ $name }</strong> ελέγχει τον τρόπο σύνδεσης του { -brand-short-name } με το διαδίκτυο.
