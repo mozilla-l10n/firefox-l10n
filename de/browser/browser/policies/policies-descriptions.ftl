@@ -59,6 +59,7 @@ policy-DisableForgetButton = Zugriff auf "Vergessen"-Schaltfläche verhindern
 policy-DisableFormHistory = Formular- und Suchchronik nicht speichern
 policy-DisableLaunchOnLogin = Verhindern, dass { -brand-short-name } automatisch gestartet wird, wenn der Benutzer sich anmeldet
 policy-DisablePrimaryPasswordCreation = Hauptpasswort kann nicht erstellt werden, falls true
+policy-DisablePasswordReveal2 = Option zur Klartextanzeige von Passwörtern in gespeicherten Zugangsdaten oder Passwortfeldern deaktivieren
 policy-DisablePasswordReveal = Option zur Klartextanzeige von Passwörtern in gespeicherten Zugangsdaten deaktivieren
 policy-DisablePrivateBrowsing = Privates Surfen deaktivieren
 policy-DisableProfileImport = Datenimport aus anderen Browsern (Menüeintrag) deaktivieren

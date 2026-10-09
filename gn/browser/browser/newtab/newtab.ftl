@@ -102,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Eheka
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Tenondekuaa
 home-prefs-mission-message2 =
     .message = Ore ykekohára oipytyvõ romombareteve hag̃ua ñanduti rogue.
 home-prefs-manage-topics-link2 =
@@ -171,6 +174,11 @@ newtab-privacy-menu-learn-more = Eikuaave
 newtab-privacy-widget-menu-button =
     .aria-label = Tekoñemi poravorã
     .title = Tekoñemi poravorã
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Embojuruja poravorã ñemigua
+    .title = Embojuruja poravorã ñemigua
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -293,6 +301,11 @@ newtab-privacy-message-first-protection-cta = Ehecha ñemo’ãrã
 newtab-stocks-menu-learn-more = Eikuaave
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Mba’ekuaarãita apopyre ndojeporukuaái
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Embojuruja poravorã viruporukuaa
+    .title = Embojuruja poravorã viruporukuaa
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -326,6 +339,9 @@ newtab-stocks-list-watchlist = Tapykuehoha rysýi
     .label = Tapykuehoha rysýi
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Eheka téra térã ta’ãnga’i rupi
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Viruporukuaa
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:

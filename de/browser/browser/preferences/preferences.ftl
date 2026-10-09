@@ -1140,6 +1140,10 @@ prefs-syncing-off = Synchronisation: AUS
 prefs-syncing-off-2 =
     .description = Aktivieren Sie die Synchronisation, um Ihre Lesezeichen, Passwörter, den Verlauf und mehr auf jedem Gerät abzurufen.
     .label = Die Synchronisation ist DEAKTIVIERT
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Aktivieren Sie die Synchronisation, um Ihre Lesezeichen, Passwörter, Chronik und mehr auf dieses Gerät zu übertragen.
+    .label = Die Synchronisation ist DEAKTIVIERT
 prefs-sync-turn-on-syncing =
     .label = Synchronisation aktivieren…
     .accesskey = S
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Sie synchronisieren diese Elemente mit allen Ihren verbundenen Geräten:
 sync-syncing-across-devices-heading-2 = Diese Daten werden zwischen den Geräten synchronisiert:
+sync-syncing-across-devices-heading-3 = Auf diesem Gerät synchronisierte Daten
 sync-syncing-across-devices-empty-state2 =
     .description = Sie synchronisieren nichts … noch nicht. Starten Sie die Synchronisierung, um alle ihre Daten auf allen ihren Geräten zu haben.
     .label = Synchronisierte Daten verwalten
