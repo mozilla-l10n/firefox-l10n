@@ -618,5 +618,7 @@ onboarding-carousel-nav =
 
 welcome-back-onboarding-primary-button-label = Έναρξη περιήγησης
 welcome-back-onboarding-secondary-button-label = Δείτε τι άλλο νέο υπάρχει
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Τακτοποίηση καρτελών
 welcome-back-onboarding-pill-label-vpn = Ενσωματωμένο VPN
 welcome-back-onboarding-pill-label-pdf = Εργαλεία PDF
