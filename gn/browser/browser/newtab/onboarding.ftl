@@ -607,3 +607,9 @@ onboarding-carousel-nav =
 ## Welcome Back Onboarding
 
 welcome-back-onboarding-title = Tembiapoite pyahu heñóiva oipytyvõve hag̃ua
+welcome-back-onboarding-primary-button-label = Eikundaha ñepyrũ
+welcome-back-onboarding-secondary-button-label = Ehechave mba’e pyahu
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Tendayke hendaporãva
+welcome-back-onboarding-pill-label-vpn = VPN juajupyre
+welcome-back-onboarding-pill-label-pdf = Tembiporu PDF-gua
