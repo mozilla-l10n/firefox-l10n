@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Trae tu propio chatbot local privado, como
 genai-prompts-summarize =
     .label = Resumen
     .value = Por favor, resume la selección usando lenguaje preciso y conciso. Usa encabezados y viñetas en el resumen, para hacerlo fácil de leer. Mantén la precisión de significado y hechos.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Resume la página web en { $url } con un lenguaje preciso y conciso. Usa encabezados y listas con viñetas para facilitar una lectura rápida. Conserva el sentido y la exactitud de la información.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Simplifica el lenguaje
@@ -235,6 +238,9 @@ link-preview-settings-key-points =
     .label = Permitir que la IA lea el comienzo de la página y genere puntos clave
 link-preview-settings-long-press =
     .label = Atajo: Haz clic y mantén presionado el enlace durante 1 segundo (pulsación larga)
+highlight-to-search-settings-enable =
+    .description = Accede rápidamente a acciones útiles al seleccionar contenido.
+    .label = Mostrar menú de acciones al seleccionar texto
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = Preguntar a { $provider }
