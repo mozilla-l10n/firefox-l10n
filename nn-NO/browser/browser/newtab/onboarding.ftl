@@ -613,3 +613,11 @@ onboarding-theme-picker-button-label = Lagre og hald fram
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Funksjonshøgdepunkt
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-primary-button-label = Start nettlesinga
+welcome-back-onboarding-secondary-button-label = Sjå kva anna som er nytt
+welcome-back-onboarding-pill-label-vpn = Innebygd VPN
+welcome-back-onboarding-pill-label-pdf = PDF-verktøy
+welcome-back-onboarding-card-tilebutton-label = Prøv det

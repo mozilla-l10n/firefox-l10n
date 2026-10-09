@@ -230,6 +230,11 @@ link-preview-settings-key-points =
     .label = La KI lese byrjinga av sida og generere hovudpunkt
 link-preview-settings-long-press =
     .label = Snarveg: Klikk og hald inne lenka i 1 sekund (langt trykk)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Spør { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Spør KI
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Sjå meir med KI?
 # Message that appears when user is shown the opt-in flow for link previews
