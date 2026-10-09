@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Ovetã ñemigua
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name } conmutador
     .tooltiptext = Emoambue ovetã ha’evéva ha ojeporuvavoi pa’ũme.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } mbojuajuhaite
+    .tooltiptext = Emoambue Windows Smart ha Classic pa’ũme
 
 ## Input CTA
 

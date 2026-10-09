@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Tekotevẽ emoñepyrũjey
+restart-required-heading2 = Rombyasy, { -brand-short-name } oikotevẽ emoñepyrũjey
 restart-required-why-now-question = ¿Mba’ére koág̃a?
 restart-required-more-details-heading = Mba’emimive
 restart-required-unsaved-work-question = ¿Ikatúpa okañy tembiapo ñongatu’ỹva?
