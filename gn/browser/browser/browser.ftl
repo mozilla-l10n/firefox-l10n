@@ -26,6 +26,21 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Eñangareko ovetã apysẽ ñemboheko ha moma’ẽ mohapyhávare…
     .accesskey = M
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } juajuha
+           *[other] { $count } juajuhaita
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Ñeẽmondo ha hetave…
+    .accesskey = M
 urlbar-identity-button =
     .aria-label = Ehecha marandu ko tenda pegua
 
