@@ -18,6 +18,7 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
+aboutdialog-update-downloading = Nuashonrú á íosluchtú — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Nuashonrú á íoslódáil — { $transfer }
 
@@ -28,9 +29,11 @@ settings-update-applying =
     .label = Nuashonrú á chur i bhfeidhm…
 update-failed = Theip ar an nuashonrú. <label data-l10n-name="failed-link">Íoslódáil an leagan is déanaí</label>
 update-failed-main = Theip ar an nuashonrú. <a data-l10n-name="failed-link-main">Íoslódáil an leagan is déanaí</a>
+update-policy-disabled = Dhíchumasaigh d'eagraíocht nuashonruithe
 update-noUpdatesFound = Tá { -brand-short-name } cothrom le dáta
 settings-update-no-updates-found =
     .label = Tá { -brand-short-name } cothrom le dáta
+aboutdialog-update-checking-failed = Theip ar an lorg nuashonruithe.
 update-otherInstanceHandlingUpdates = Tá { -brand-short-name } á nuashonrú ag ásc eile
 settings-update-other-instance-handling-updates =
     .label = Tá { -brand-short-name } á nuashonrú ag ásc eile
@@ -45,6 +48,7 @@ settings-update-unsupported = Ní féidir leat tuilleadh nuashonruithe a chur i 
 update-restarting = Á Atosú…
 settings-update-restarting =
     .label = Á Atosú…
+update-internal-error2 = Ní féidir nuashonruithe a lorg de bharr erráide inmheánaí. Nuashonruithe ar fáil ó <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
@@ -52,10 +56,13 @@ settings-update-restarting =
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = Tá tú ar an gcainéal <label data-l10n-name="current-channel">{ $channel }</label> faoi láthair.
 warningDesc-version = Is táirge turgnamhach é { -brand-short-name } agus seans nach mbeidh sé cobhsaí.
+aboutdialog-help-user = { -brand-product-name } Cabhair
+aboutdialog-submit-feedback = Seol Aiseolas Chugainn
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> - <label data-l10n-name="community-exp-creditsLink">comhphobal domhanda</label> atá ag obair ar son Gréasáin atá oscailte, poiblí, agus ar fáil do chách.
 community-2 = Bhí { -brand-short-name } cruthaithe ag <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">comhphobal domhanda</label> atá ag obair ar son Gréasáin atá oscailte, poiblí, agus ar fáil do chách.
 helpus = Ar mhaith leat cabhrú linn? <label data-l10n-name="helpus-donateLink">Tabhair deontas</label> nó <label data-l10n-name="helpus-getInvolvedLink">glac páirt!</label>
 bottomLinks-license = Maidir leis an gCeadúnas
+bottom-links-privacy = Fógra Príobháideachta
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
