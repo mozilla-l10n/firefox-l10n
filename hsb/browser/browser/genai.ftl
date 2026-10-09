@@ -241,6 +241,11 @@ link-preview-settings-key-points =
     .label = KI dowolić, spočatk strony čitać a klučowe dypki generěrować
 link-preview-settings-long-press =
     .label = Zwjazanje: Klikńće a dźeržće wotkaz za 1 sekundu (dołhe tłóčenje)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = { $provider } so prašeć
+highlight-to-search-settings-ask-generic =
+    .label = KI so prašeć
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Z KI wjace pokazać?
 # Message that appears when user is shown the opt-in flow for link previews
