@@ -613,3 +613,7 @@ welcome-back-onboarding-secondary-button-label = Ehechave mba’e pyahu
 welcome-back-onboarding-pill-label-tabs = Tendayke hendaporãva
 welcome-back-onboarding-pill-label-vpn = VPN juajupyre
 welcome-back-onboarding-pill-label-pdf = Tembiporu PDF-gua
+welcome-back-onboarding-card-label-tabs = Eñemoĩ tendayke ñembo’y ha aty ndive
+welcome-back-onboarding-card-label-vpn = Eime ñemíhápe VPN juajupyre ndive
+welcome-back-onboarding-card-label-pdf = Embosa’y, emboheraguapy ha emba’apo PDF ndive
+welcome-back-onboarding-card-tilebutton-label = Eha’ã jey

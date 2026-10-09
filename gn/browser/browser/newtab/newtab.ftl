@@ -1399,6 +1399,11 @@ newtab-widget-timer-menu-notifications-on = Emyandy marandu’i
 newtab-widget-timer-menu-learn-more = Kuaave
 newtab-widget-timer-menu-button =
     .aria-label = Aravomoĩha porurã
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Embojuruja poravorã aravogua
+    .title = Embojuruja poravorã aravogua
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Marandu mba’eguasuvéva
 newtab-daily-briefing-card-menu-dismiss = Mokañy
@@ -1422,6 +1427,14 @@ newtab-promo-card-cta = Eikuaave
 newtab-promo-card-dismiss-button =
     .aria-label = Mboyke
     .title = Mboyke
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Embojuruja poravorã crucigramagua
+    .title = Embojuruja poravorã crucigramagua
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1734,6 +1747,10 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Eme’ẽ { -brand-product-name }-pe mab’e oikotevẽva
 newtab-nova-customization-callout-primary-button =
     .label = Eiporavo nde jehecharã
 
@@ -1823,6 +1840,11 @@ newtab-clock-widget-custom-back = Tapykue
 newtab-clock-widget-menu-button2 =
     .aria-label = Aravopapaha poravorã
     .title = Aravopapaha poravorã
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Embojuruja poravorã aravopapahagua
+    .title = Embojuruja poravorã aravopapahagua
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
