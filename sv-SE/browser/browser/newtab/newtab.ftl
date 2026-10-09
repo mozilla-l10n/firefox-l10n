@@ -345,8 +345,8 @@ newtab-stocks-error-not-available = Aktiedata är inte tillgänglig.
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-stocks-widget-open-menu-button2 =
-    .aria-label = Öppna ekonomimenyn
-    .title = Öppna ekonomimenyn
+    .aria-label = Öppna finansmenyn
+    .title = Öppna finansmenyn
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

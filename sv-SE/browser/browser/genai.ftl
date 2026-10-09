@@ -26,7 +26,7 @@ genai-prompts-summarize =
     .value = Sammanfatta urvalet med ett exakt och kortfattat språk. Använd rubriker och punktlistor i sammanfattningen för att göra den skanningsbar. Behåll innebörden och faktaprecisionen.
 # Prompt purpose: help users understand what a webpage covers at a glance
 # $url (string) - address of the webpage to summarize
-genai-prompts-summarize-page = Sammanfatta webbsidan på { $url } med ett exakt och koncist språk. Använd rubriker och punktlistor i sammanfattningen för att göra den scanningsbar. Behåll meningen och den sakliga noggrannheten.
+genai-prompts-summarize-page = Sammanfatta webbsidan på { $url } tydligt och kortfattat. Använd rubriker och punktlistor så att sammanfattningen blir lätt att överblicka. Bevara innebörden och säkerställ att fakta återges korrekt.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Förenkla språket
@@ -237,7 +237,7 @@ link-preview-settings-key-points =
 link-preview-settings-long-press =
     .label = Genväg: Klicka och håll ner länken i 1 sekund (långt tryck)
 highlight-to-search-settings-enable =
-    .description = Få snabb tillgång till användbara åtgärder när du väljer innehåll.
+    .description = Få snabb tillgång till användbara åtgärder när du markerar innehåll.
     .label = Visa åtgärdsmeny när du markerar text
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =

@@ -614,14 +614,14 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
-welcome-back-onboarding-title = Nya funktioner byggda för att hjälpa dig att göra mer
+welcome-back-onboarding-title = Nya funktioner som hjälper dig att få mer gjort
 welcome-back-onboarding-primary-button-label = Börja surfa
-welcome-back-onboarding-secondary-button-label = Se vad som är nytt
+welcome-back-onboarding-secondary-button-label = Upptäck fler nyheter
 # Pill label for features that allow you to tidy up your tabs
-welcome-back-onboarding-pill-label-tabs = Snygga flikar
+welcome-back-onboarding-pill-label-tabs = Ordna flikar
 welcome-back-onboarding-pill-label-vpn = Inbyggt VPN
 welcome-back-onboarding-pill-label-pdf = PDF-verktyg
-welcome-back-onboarding-card-label-tabs = Städa med vertikala flikar och grupper
+welcome-back-onboarding-card-label-tabs = Få bättre ordning med vertikala flikar och grupper
 welcome-back-onboarding-card-label-vpn = Håll dig dold med inbyggt VPN
 welcome-back-onboarding-card-label-pdf = Markera, signera och arbeta med PDF-filer
 welcome-back-onboarding-card-tilebutton-label = Testa

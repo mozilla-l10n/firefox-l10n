@@ -1316,7 +1316,7 @@ filepicker-blocked-infobar = Din organisation har blockerat åtkomst till lokala
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
-urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } söker nu flikar
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } används nu för att söka bland flikar
 urlbar-addons-shortcut-moved-description = För att öppna tillägg och teman, använd { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = Hantera genvägar
 urlbar-addons-shortcut-moved-dismiss = Jag förstår

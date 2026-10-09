@@ -19,10 +19,10 @@ smartwindow-group-tabs-panel-heading = Ordna flikar
 # exist.
 smartwindow-group-tabs-loading = Kontrollerar flikar efter användbara grupper…
 # Shown when clustering produced no group worth suggesting.
-smartwindow-group-tabs-empty = Inga flikgrupper att föreslå just nu. Kontrollera igen senare.
+smartwindow-group-tabs-empty = Det finns inga flikgrupper att föreslå just nu. Försök igen senare.
 # Shown in place of suggestions when every group the model found has already
 # been created.
-smartwindow-group-tabs-all-sorted = Bra jobbat med att organisera dina flikar
+smartwindow-group-tabs-all-sorted = Snyggt jobbat med att ordna dina flikar
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Skapa alla grupper
 smartwindow-group-tabs-suggested-heading = Föreslagna grupper
@@ -40,7 +40,7 @@ smartwindow-group-tabs-flyout-list =
 smartwindow-group-tabs-suggestion =
     .aria-label =
         { $tabCount ->
-            [one] Skapa grupp { $groupLabel }, flik { $tabCount }
+            [one] Skapa grupp { $groupLabel }, { $tabCount } flik
            *[other] Skapa grupp { $groupLabel }, { $tabCount } flikar
         }
 # Heading for the list of groups the user just created (and can still undo).
@@ -61,8 +61,8 @@ smartwindow-group-tabs-groups-list =
 #   $tabCount (Number) - Number of duplicate tabs that activating it closes
 smartwindow-group-tabs-close-duplicates =
     { $tabCount ->
-        [one] Stäng { $tabCount } Duplicerad flik
-       *[other] Stäng { $tabCount } dubbletter av flikar
+        [one] Stäng { $tabCount } duplicerad flik
+       *[other] Stäng { $tabCount } duplicerade flikar
     }
 # Accessible name for the list of duplicate tabs the row above would close,
 # one row per tab. Activating a tab in the list switches to it.
