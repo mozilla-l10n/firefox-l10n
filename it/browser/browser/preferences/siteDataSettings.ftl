@@ -52,3 +52,7 @@ site-data-removing-desc = La rimozione di cookie e dati dei siti web potrebbe co
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = La rimozione di cookie e dati dei siti web potrebbe comportare la disconnessione dai siti web. Rimuovere cookie e dati per <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Verranno rimossi i cookie e i dati per i seguenti siti web
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Elimina tutti i cookie e i dati dei siti web
