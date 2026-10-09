@@ -1124,6 +1124,10 @@ prefs-syncing-off = Đồng bộ hóa: TẮT
 prefs-syncing-off-2 =
     .description = Bật tính năng đồng bộ hóa để có thể truy cập dấu trang, mật khẩu, lịch sử và nhiều dữ liệu khác trên mọi thiết bị.
     .label = Đồng bộ hoá đã TẮT
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Bật đồng bộ hóa để nhận dấu trang, mật khẩu, lịch sử và nhiều dữ liệu khác trên thiết bị này.
+    .label = Đồng bộ hoá đã TẮT
 prefs-sync-turn-on-syncing =
     .label = Bật đồng bộ hóa…
     .accesskey = s
@@ -1147,6 +1151,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Bạn đang đồng bộ hóa các mục này trên tất cả các thiết bị được kết nối của mình:
 sync-syncing-across-devices-heading-2 = Dữ liệu được đồng bộ hóa trên các thiết bị.
+sync-syncing-across-devices-heading-3 = Đang đồng bộ dữ liệu trên thiết bị này
 sync-syncing-across-devices-empty-state2 =
     .description = Bạn chưa đồng bộ… cái gì cả. Bắt đầu đồng bộ hoá để tất cả dữ liệu luôn sẵn sàng trên mọi thiết bị của bạn.
     .label = Quản lý dữ liệu đã đồng bộ
@@ -1209,6 +1214,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = Quản lý những gì đồng bộ hóa trên tất cả các thiết bị được kết nối của bạn
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Lưu
+    .buttonlabelextra2 = Ngắt kết nối…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Quản lý những gì được đồng bộ hóa trên thiết bị này
 
 ## The device name controls.
 

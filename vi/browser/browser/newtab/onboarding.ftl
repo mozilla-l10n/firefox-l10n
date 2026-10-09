@@ -613,3 +613,17 @@ onboarding-theme-picker-button-label = Lưu và tiếp tục
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Tính năng nổi bật
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Các tính năng mới được xây dựng để giúp bạn làm được nhiều việc hơn
+welcome-back-onboarding-primary-button-label = Bắt đầu duyệt web
+welcome-back-onboarding-secondary-button-label = Khám phá thêm các tính năng mới
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Dọn dẹp thẻ
+welcome-back-onboarding-pill-label-vpn = VPN tích hợp sẵn
+welcome-back-onboarding-pill-label-pdf = Công cụ PDF
+welcome-back-onboarding-card-label-tabs = Sắp xếp gọn gàng với thẻ dọc và nhóm thẻ.
+welcome-back-onboarding-card-label-vpn = Ẩn danh với VPN tích hợp sẵn
+welcome-back-onboarding-card-label-pdf = Tô sáng, ký tên và làm việc với tập tin PDF
+welcome-back-onboarding-card-tilebutton-label = Thử ngay

@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Cửa sổ thông thường
 toolbar-switcher-customizable-label =
     .label = Chuyển đổi { -smart-window-brand-name }
     .tooltiptext = Chuyển đổi giữa cửa sổ thông minh và cửa sổ thông thường.
+toolbar-switcher-customizable-label-v2 =
+    .label = Trình chuyển đổi { -smart-window-brand-name }
+    .tooltiptext = Chuyển giữa cửa sổ Thông minh và cửa sổ Thông thường
 
 ## Input CTA
 

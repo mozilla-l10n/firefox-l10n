@@ -1274,6 +1274,17 @@ restore-session-startup-suggestion-button = Hướng dẫn cho tôi
 
 filepicker-blocked-infobar = Tổ chức của bạn đã chặn quyền truy cập vào các tập tin cục bộ trên máy tính này
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } hiện tìm kiếm các thẻ
+urlbar-addons-shortcut-moved-description = Để mở tiện ích mở rộng và chủ đề, sử dụng { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Quản lý phím tắt
+urlbar-addons-shortcut-moved-dismiss = Đã hiểu
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } tự động gửi dữ liệu về { -vendor-short-name } để chúng tôi có thể cải thiện trải nghiệm của bạn.

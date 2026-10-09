@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Mang theo chatbot cục bộ của riêng 
 genai-prompts-summarize =
     .label = Tóm tắt
     .value = Vui lòng tóm tắt lựa chọn bằng ngôn ngữ chính xác và ngắn gọn. Sử dụng các header và danh sách có dấu đầu dòng trong phần tóm tắt để làm cho nó có thể quét được. Duy trì ý nghĩa và độ chính xác thực tế.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Hãy tóm tắt trang web { $url } một cách súc tích, chính xác. Khi tóm tắt, sử dụng tiêu đề và gạch đầu dòng để dễ đọc, đồng thời giữ nguyên ý nghĩa ban đầu.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Đơn giản hóa ngôn ngữ
@@ -229,6 +232,14 @@ link-preview-settings-key-points =
     .label = Cho phép AI đọc phần đầu của trang và tạo ra nội dung chính
 link-preview-settings-long-press =
     .label = Phím tắt: Nhấp và giữ liên kết trong 1 giây (nhấn và giữ)
+highlight-to-search-settings-enable =
+    .description = Truy cập nhanh vào các thao tác hữu ích khi bạn chọn nội dung.
+    .label = Hiển thị menu thao tác khi chọn văn bản
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Hỏi { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Hỏi AI
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Xem thêm với AI?
 # Message that appears when user is shown the opt-in flow for link previews
