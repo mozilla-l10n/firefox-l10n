@@ -613,3 +613,7 @@ onboarding-theme-picker-button-label = Сақтау және жалғастыр�
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Ерекшеліктері
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-card-tilebutton-label = Қолданып көру

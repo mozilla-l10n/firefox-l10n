@@ -233,6 +233,11 @@ link-preview-settings-key-points =
     .label = ЖИ-ге беттің басын оқуға және негізгі тұстарын қорытындылауға рұқсат беру
 link-preview-settings-long-press =
     .label = Пернелер жарлығы: Сілтемені 1 секунд бойы басып тұрыңыз (ұзақ басу)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = { $provider } сұрау
+highlight-to-search-settings-ask-generic =
+    .label = ЖИ сұрау
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ЖИ көмегімен көбірек көру керек пе?
 # Message that appears when user is shown the opt-in flow for link previews
