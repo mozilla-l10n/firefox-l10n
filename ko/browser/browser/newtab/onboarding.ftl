@@ -623,3 +623,7 @@ welcome-back-onboarding-secondary-button-label = 새 기능 살펴보기
 welcome-back-onboarding-pill-label-tabs = 탭 정리
 welcome-back-onboarding-pill-label-vpn = 내장 VPN
 welcome-back-onboarding-pill-label-pdf = PDF 도구
+welcome-back-onboarding-card-label-tabs = 세로 탭과 그룹으로 정리해 보세요
+welcome-back-onboarding-card-label-vpn = 내장 VPN으로 숨김 상태 유지
+welcome-back-onboarding-card-label-pdf = PDF 강조 표시, 서명 및 작업
+welcome-back-onboarding-card-tilebutton-label = 사용해 보기

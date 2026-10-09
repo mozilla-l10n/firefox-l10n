@@ -1124,6 +1124,10 @@ prefs-syncing-off = 동기화: 꺼짐
 prefs-syncing-off-2 =
     .description = 동기화를 켜면 북마크, 비밀번호, 기록 등을 모든 기기에서 사용할 수 있습니다.
     .label = 동기화 꺼짐
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = 이 기기에서 북마크, 비밀번호, 기록 등을 가져오려면 동기화를 켜세요.
+    .label = 동기화 꺼짐
 prefs-sync-turn-on-syncing =
     .label = 동기화 켜기…
     .accesskey = s
@@ -1147,6 +1151,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = 연결된 모든 기기에서 다음 항목을 동기화하고 있습니다:
 sync-syncing-across-devices-heading-2 = 여러 기기에서 데이터 동기화됨
+sync-syncing-across-devices-heading-3 = 이 기기의 데이터 동기화 항목
 sync-syncing-across-devices-empty-state2 =
     .description = 아직 아무것도 동기화하고 있지 않습니다. 지금 동기화를 시작하여 모든 기기에서 데이터를 확인해 보세요.
     .label = 동기화된 데이터 관리
@@ -1209,6 +1214,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = 연결된 모든 기기에서 동기화 할 항목 관리
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = 저장
+    .buttonlabelextra2 = 연결 끊기…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = 이 기기에 동기화할 항목 관리
 
 ## The device name controls.
 

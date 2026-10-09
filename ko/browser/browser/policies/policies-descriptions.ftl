@@ -59,6 +59,7 @@ policy-DisableForgetButton = Forget 버튼 접근을 막습니다.
 policy-DisableFormHistory = 검색과 양식 기록을 기억하지 않습니다.
 policy-DisableLaunchOnLogin = 사용자가 로그인할 때 { -brand-short-name }가 자동으로 실행되지 않도록 합니다.
 policy-DisablePrimaryPasswordCreation = True 값이면 기본 비밀번호를 만들 수 없습니다.
+policy-DisablePasswordReveal2 = 저장된 로그인이나 비밀번호 필드에 비밀번호가 표시되는 것을 허용하지 않습니다.
 policy-DisablePasswordReveal = 저장된 로그인에 비밀번호 보기 기능을 허용하지 않습니다.
 policy-DisablePrivateBrowsing = 사생활 보호 모드를 사용 안 합니다.
 policy-DisableProfileImport = 메뉴에서 다른 브라우저의 데이터를 가져오는 명령을 사용 안 합니다.
