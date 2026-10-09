@@ -492,6 +492,10 @@ launch-options-spotlight-primary-button-launch = Eñongatu ha eku’ejey
 lapsed-user-toast-title = { -brand-product-name } ndeykeko gueteri
 lapsed-user-toast-whats-new-button = Oĩpa ipyahuvéva
 lapsed-user-toast-dismiss-button = Emboyke
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Jehecha pyahu. Eñepurũ mboyve.
 
 ## Refresh Firefox infobar
 ##

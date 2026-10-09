@@ -83,6 +83,11 @@ menu-file-close-tab =
            *[other] Emboty { $tabCount } tendayke
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Emboty
+    .accesskey = C
 menu-file-close-window =
     .label = Ovetã mboty
     .accesskey = d
@@ -95,6 +100,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Moherakuã
     .accesskey = t
+menu-file-share-qrcode3 =
+    .label = Emoheñói QR ayvu
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = Emoheñói QR ayvu…
     .accesskey = Q
@@ -234,6 +242,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Eheka Tembiasakue
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Eheka tendaykeita
 
 ## Bookmarks Menu
 

@@ -94,6 +94,9 @@ ipprotection-android-promo-callout-primary-button = Aikũmby
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Emboheko VPN mbojojaha juajupyre ha upéi eikundaha
+ipprotection-site-inclusions-callout-title-lapsed-users = Eiporu VPN juajupyre, ko’ág̃a tenda ha tenda
 ipprotection-site-inclusions-callout-primary-button = Emoĩ mbojojaha
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ani ko’ág̃a
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Emboyke

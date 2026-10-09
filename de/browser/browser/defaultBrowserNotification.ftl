@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Fertig
 default-browser-guidance-notification-v2-title = { -brand-short-name } als Standardbrowser festlegen
 default-browser-guidance-notification-v2-body = Wählen Sie in den Einstellungen „Als Standard festlegen“ für { -brand-short-name } aus.
 default-browser-guidance-notification-v2-title-only = Abschließend { -brand-short-name } in den Einstellungen zum Standardbrowser machen
+default-browser-guidance-notification-auto-trigger-title = Öffnen Sie Ihre Links mit { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Wählen Sie in den Einstellungen { -brand-short-name } als Standardbrowser aus.
