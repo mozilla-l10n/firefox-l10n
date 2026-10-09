@@ -70,3 +70,4 @@ smartwindow-group-tabs-close-duplicates =
 # verb telling the user to duplicate anything.
 smartwindow-group-tabs-duplicates-list =
     .aria-label = Schede duplicate da chiudere
+

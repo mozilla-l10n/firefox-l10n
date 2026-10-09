@@ -44,3 +44,4 @@ default-browser-guidance-notification-v2-body = Nelle impostazioni, seleziona â€
 default-browser-guidance-notification-v2-title-only = Completa la configurazione di { -brand-short-name } come browser predefinito nelle impostazioni
 default-browser-guidance-notification-auto-trigger-title = Apri i link con { -brand-short-name }
 default-browser-guidance-notification-auto-trigger-body = Seleziona { -brand-short-name } come browser predefinito nelle impostazioni.
+
