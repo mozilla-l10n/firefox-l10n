@@ -12,6 +12,12 @@ menu-history-chats-recent =
 smartwindow-fullpage-heading = { -smart-window-brand-name }
 smartwindow-document-title = Jauna cilne
 
+## Smart Window Toggle Button
+
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } pārslēdzējs
+    .tooltiptext = Pārslēdzies starp viedajiem un parastajiem logiem
+
 ## Input CTA
 
 aiwindow-input-cta-submit-label-chat = Vaicāt
