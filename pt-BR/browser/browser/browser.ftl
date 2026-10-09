@@ -1319,6 +1319,7 @@ filepicker-blocked-infobar = Sua organização bloqueou o acesso a arquivos loca
 urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } agora pesquisa em abas
 urlbar-addons-shortcut-moved-description = Para abrir extensões e temas, use { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = Gerenciar atalhos
+urlbar-addons-shortcut-moved-dismiss = Entendi
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
