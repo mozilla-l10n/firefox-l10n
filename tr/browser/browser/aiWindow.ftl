@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klasik pencere
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name } değiştirici
     .tooltiptext = Akıllı pencereyle klasik pencere arasında geçiş yapın.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name(form: "uppercase-singular") } değiştirici
+    .tooltiptext = Akıllı pencereyle klasik pencere arasında geçiş yap
 
 ## Input CTA
 

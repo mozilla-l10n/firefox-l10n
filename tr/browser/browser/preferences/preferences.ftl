@@ -1140,6 +1140,10 @@ prefs-syncing-off = Eşitleme: KAPALI
 prefs-syncing-off-2 =
     .description = Yer imlerinize, parolalarınıza, geçmişinize ve diğer verilerinize başka cihazlardan erişmek isterseniz eşitlemeyi açın.
     .label = Eşitleme KAPALI
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Yer imlerinizi, parolalarınızı, geçmişinizi ve diğer verilerinizi bu cihaza almak için eşitlemeyi açın.
+    .label = Eşitleme KAPALI
 prefs-sync-turn-on-syncing =
     .label = Eşitlemeyi başlat…
     .accesskey = E
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Aşağıdaki öğeler tüm bağlı cihazlarınız arasında eşitleniyor:
 sync-syncing-across-devices-heading-2 = Cihazlar arasında eşitlenen veriler
+sync-syncing-across-devices-heading-3 = Bu cihazda eşitlenen veriler
 sync-syncing-across-devices-empty-state2 =
     .description = Henüz hiçbir şeyi eşitlemediniz. Verilerinizi tüm cihazlarınıza taşımak için eşitlemeyi başlatın.
     .label = Eşitlenen verileri yönet
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = B
     .style = min-width: 36em;
     .title = Bağlı tüm cihazlarınızda nelerin eşitleneceğini yönetin
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Kaydet
+    .buttonlabelextra2 = Bağlantıyı kes…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Bu cihazda nelerin eşitleneceğini yönet
 
 ## The device name controls.
 
