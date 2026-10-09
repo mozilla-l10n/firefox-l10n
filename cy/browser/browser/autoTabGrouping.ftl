@@ -22,7 +22,7 @@ smartwindow-group-tabs-loading = Yn gwirio tabiau ar gyfer grwpiau defnyddiol…
 smartwindow-group-tabs-empty = Dim grwpiau tab i'w hawgrymu ar hyn o bryd. Gwiriwch eto yn nes ymlaen.
 # Shown in place of suggestions when every group the model found has already
 # been created.
-smartwindow-group-tabs-all-sorted = Gwaith da'n trefnu eich tabiau
+smartwindow-group-tabs-all-sorted = Trefnu tabiau da!
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Creu Pob Grŵp
 smartwindow-group-tabs-suggested-heading = Awgrymiadau am grwpiau
@@ -43,8 +43,8 @@ smartwindow-group-tabs-suggestion =
             [one] Creu grŵp { $groupLabel }, { $tabCount } tab
             [zero] Creu grŵp { $groupLabel }, { $tabCount } tabiau
             [two] Creu grŵp { $groupLabel }, { $tabCount } dab
-            [few] Creu grŵp { $groupLabel }, { $tabCount } thab
-            [many] Creu grŵp { $groupLabel }, { $tabCount } thab
+            [few] Creu grŵp { $groupLabel }, { $tabCount } tab
+            [many] Creu grŵp { $groupLabel }, { $tabCount } tab
            *[other] Creu grŵp { $groupLabel }, { $tabCount } tab
         }
 # Heading for the list of groups the user just created (and can still undo).

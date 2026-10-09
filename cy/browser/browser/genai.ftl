@@ -250,6 +250,14 @@ link-preview-settings-key-points =
     .label = Caniatáu i AI ddarllen dechrau'r dudalen a chynhyrchu pwyntiau allweddol
 link-preview-settings-long-press =
     .label = Llwybr byr: Clicio a dal y ddolen am 1 eiliad (pwyso'n hir)
+highlight-to-search-settings-enable =
+    .description = Cael mynediad cyflym i gamau gweithredu defnyddiol pan yn dewis cynnwys.
+    .label = Dangos dewislen gweithredoedd wrth ddewis testun
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Gofyn i { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Gofyn i AI
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Gweld rhagor gydag AI?
 # Message that appears when user is shown the opt-in flow for link previews

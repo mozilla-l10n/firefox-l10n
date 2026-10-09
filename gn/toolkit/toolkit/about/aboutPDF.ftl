@@ -31,4 +31,6 @@ about-pdf-features-header = { -brand-short-name } PDF rembiporu
 about-pdf-features-back =
     .label = Tapykue
 about-pdf-feature-organize-heading = Kuatiarogue mohendaporã
+about-pdf-feature-organize-description = Emohendajey, embogue, embojehe’a ha embohasa kuatiarogue.
+about-pdf-feature-signatures-heading = Eñongatu teraguapy
 about-pdf-feature-comments-heading = Embojuaju haipy

@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-sync-log-title = Ñembojuehe rehegua
+about-sync-log-page-header =
+    .description = Jehechajey rapykuere Sync ohaipyre.
+    .heading = Sync rapykuere
 
 ## Filter controls
 
@@ -59,6 +62,8 @@ about-sync-log-row-error =
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").
 about-sync-log-row-size = { $value } { $unit }
+about-sync-log-empty = Noñeñongatúi ñembojuehe rapykuere.
+about-sync-log-empty-filtered = Ndaipóri tapykuere ojokupytýva mboguaha ag̃aguándi.
 
 ## Inline viewer
 

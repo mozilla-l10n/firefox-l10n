@@ -49,7 +49,7 @@ toolbar-switcher-customizable-label =
     .tooltiptext = Newid rhwng ffenestri Clyfar a Chlasurol
 toolbar-switcher-customizable-label-v2 =
     .label = Newidydd { -smart-window-brand-name }
-    .tooltiptext = Newidiwch rhwng Ffenestri Clyfar neu Glasurol
+    .tooltiptext = Newid rhwng Ffenestri Clyfar neu Glasurol
 
 ## Input CTA
 

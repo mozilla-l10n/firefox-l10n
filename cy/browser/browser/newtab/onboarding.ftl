@@ -614,3 +614,17 @@ onboarding-theme-picker-button-label = Cadw a pharhau
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Uchafbwyntiau nodweddion
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Nodweddion newydd wedi'u hadeiladu i'ch helpu chi i wneud mwy
+welcome-back-onboarding-primary-button-label = Cychwyn pori
+welcome-back-onboarding-secondary-button-label = Gweld beth arall sy'n newydd
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Tabiau Taclus
+welcome-back-onboarding-pill-label-vpn = VPN cynhenid
+welcome-back-onboarding-pill-label-pdf = Offer PDF
+welcome-back-onboarding-card-label-tabs = Tacluso gyda thabiau fertigol a grwpiau
+welcome-back-onboarding-card-label-vpn = Cadw'n gudd gyda VPN cynhenid
+welcome-back-onboarding-card-label-pdf = Amlygu, llofnodi a gweithio gyda PDFs
+welcome-back-onboarding-card-tilebutton-label = Rhowch gynnig arno

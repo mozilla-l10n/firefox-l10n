@@ -58,6 +58,7 @@ about-logging-preset-web-compat-description = Mboheraguapy ra’ãha ehecha hag�
 about-logging-preset-navigation = Ñeikundaha
 about-logging-preset-navigation-description = Mboheraguapy ra’ãha eikuaa hag̃ua kundahára apañuái ha jeikekue rembiasakue
 about-logging-preset-vpn-label = VPN
+about-logging-preset-vpn-description = Mboheraguapy ra’ãha ehecha hag̃ua IP (VPN) apañuái mo’ãha
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Mboheraguapy ra’ãha ehecha hag̃ua WebGPU apañuái
 about-logging-preset-gfx-label = Ta’ãnga

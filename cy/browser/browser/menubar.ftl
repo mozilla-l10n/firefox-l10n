@@ -246,6 +246,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Chwilio'ch Hanes
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Chwilio'r Tabiau
 
 ## Bookmarks Menu
 

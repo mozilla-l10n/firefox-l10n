@@ -374,6 +374,11 @@ newtab-privacy-message-first-protection-cta = Dyma'r diogelwch
 newtab-stocks-menu-learn-more = Dysgu rhagor
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dyw data stoc ddim ar gael.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Agor y ddewislen cyllid
+    .title = Agor y ddewislen cyllid
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
