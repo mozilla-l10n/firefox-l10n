@@ -1140,6 +1140,10 @@ prefs-syncing-off = Synchronisation: INACTIVE
 prefs-syncing-off-2 =
     .description = Activa le synchronisation pro haber tu marcapaginas, contrasignos, chronologia, e plus sur qualcunque apparato.
     .label = Le synchronisation es DISACTIVATE
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Activar le synchronisation pro obtener tu marcapaginas, contrasignos, chronologia, e plus sur iste apparato.
+    .label = Le synchronisation es DISACTIVATE
 prefs-sync-turn-on-syncing =
     .label = Activar synchronisation…
     .accesskey = s
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Tu synchronisa iste elementos inter tote tu apparatos connexe:
 sync-syncing-across-devices-heading-2 = Datos synchronisate a transverso apparatos
+sync-syncing-across-devices-heading-3 = Synchronisation del datos sur iste apparato
 sync-syncing-across-devices-empty-state2 =
     .description = Tu non synchronisa alco… ancora. Initia synchronisar pro tener tote tu datos sur tote tu apparatos.
     .label = Gerer le datos synchronisate
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = Gere que synchronisar sur tote tu apparatos connexe
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Salvar
+    .buttonlabelextra2 = Disconnecter…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Gere que se synchronisa sur iste apparato
 
 ## The device name controls.
 

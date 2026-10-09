@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Fenestra classic
 toolbar-switcher-customizable-label =
     .label = Commutator de { -smart-window-brand-name }
     .tooltiptext = Commuta inter fenestras intelligente e classic.
+toolbar-switcher-customizable-label-v2 =
+    .label = Excambiator de { -smart-window-brand-name }
+    .tooltiptext = Excambiar inter Fenestras intelligente e classic
 
 ## Input CTA
 

@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Facite
 default-browser-guidance-notification-v2-title = Fini de render { -brand-short-name } tu navigator predefinite
 default-browser-guidance-notification-v2-body = In ParamEtros, elige “Configurar predefinite” pro { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Fini de render { -brand-short-name } tu navigator predefinite in Parametros
+default-browser-guidance-notification-auto-trigger-title = Aperi tu ligamines con { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Elige { -brand-short-name } como tu navigator predefinite in parametros.

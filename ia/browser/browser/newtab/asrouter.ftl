@@ -503,6 +503,13 @@ lapsed-user-toast-title = { -brand-product-name } ancora tege tu spatulas
 lapsed-user-toast-subtitle = Discoperi nove manieras pro navigar con plus selection, confidentialitate, e controlo.
 lapsed-user-toast-whats-new-button = Vide le novas
 lapsed-user-toast-dismiss-button = Ignorar
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Nove apparentia. Sin recomenciar a zero.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Apporta tu marcapaginas, contrasignos e historia ab le navigator que tu usa hodie.
 
 ## Refresh Firefox infobar
 ##

@@ -59,6 +59,7 @@ policy-DisableForgetButton = Impedir accesso al button Oblidar.
 policy-DisableFormHistory = Non rememorar le chronologia de recercas e formularios.
 policy-DisableLaunchOnLogin = Impedir a { -brand-short-name } de lancear automaticante al accesso del usator.
 policy-DisablePrimaryPasswordCreation = Si ver, non pote esser create un contrasigno primari.
+policy-DisablePasswordReveal2 = Non permitter contrasignos esser revelate in credentiales salvate o campos de contrasigno.
 policy-DisablePasswordReveal = Non permitter de monstrar le contrasignos in le credentiales salvate.
 policy-DisablePrivateBrowsing = Disactivar le Navigation private.
 policy-DisableProfileImport = Disactivar le commando del menu pro importar datos ab un altere navigator.
