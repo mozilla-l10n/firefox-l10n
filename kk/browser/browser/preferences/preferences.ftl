@@ -1140,6 +1140,10 @@ prefs-syncing-off = Синхрондау: СӨНДІРІЛГЕН
 prefs-syncing-off-2 =
     .description = Кез келген құрылғыда сіздің бетбелгілер, парольдер, тарих және т.б. деректерді алу үшін синхрондауды іске қосыңыз.
     .label = Синхрондау: СӨНДІРІЛГЕН
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Осы құрылғыда бетбелгілер, парольдер, тарихты және т.б. алу үшін синхрондауды іске қосыңыз.
+    .label = Синхрондау: СӨНД
 prefs-sync-turn-on-syncing =
     .label = Синхрондауды іске қосу…
     .accesskey = С
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Сіз бұл элементтерді барлық қосылған құрылғыларға синхрондаудасыз:
 sync-syncing-across-devices-heading-2 = Деректер құрылғылар арасында синхрондалған
+sync-syncing-across-devices-heading-3 = Осы құрылғыдағы деректерді синхрондау
 sync-syncing-across-devices-empty-state2 =
     .description = Сіз ештеңе синхрондап жатқан жоқсыз... әлі. Барлық деректеріңізді барлық құрылғыларыңыздан алу үшін синхрондауды бастаңыз.
     .label = Синхрондалған деректерді басқару
