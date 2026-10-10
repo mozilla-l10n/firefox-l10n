@@ -251,6 +251,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Hledat v historii
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Hledat panely
 
 ## Bookmarks Menu
 

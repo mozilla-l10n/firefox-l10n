@@ -1250,6 +1250,10 @@ prefs-syncing-off = Synchronizace vypnuta
 prefs-syncing-off-2 =
     .description = Zapnutím synchronizace získáte své záložky, hesla, historii a další informace z libovolného zařízení.
     .label = Synchronizace je vypnutá
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Zapněte synchronizaci, abyste mohli mít své záložky, hesla, historii a další data na svém zařízení.
+    .label = Synchronizace je vypnutá
 prefs-sync-turn-on-syncing =
     .label = Zapnout synchronizaci…
     .accesskey = s
