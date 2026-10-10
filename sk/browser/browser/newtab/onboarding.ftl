@@ -551,7 +551,7 @@ onboarding-refresh-tou-pin =
     }
 onboarding-refresh-tou-default-unchecked = Používajte vstavanú ochranu pri každom prehliadaní
 onboarding-refresh-tou-pin-unchecked = Majte jediný významný nezávislý prehliadač na dosah ruky
-onboarding-refresh-terms-of-use-with-links = Pokračovaním vyjadrujete súhlas s <a data-l10n-name="terms_of_use">Podmienkami používania produktu { -brand-product-name }</a> a naším <a data-l10n-name="privacy_notice">Vyhlásením o ochrane osobných údajov</a>. V záujme zlepšovania prehliadača odosiela { -brand-product-name } diagnostické údaje a údaje o interakciách spoločnosti { -vendor-short-name }.
+onboarding-refresh-terms-of-use-with-links = Pokračovaním vyjadrujete súhlas s <a data-l10n-name="terms_of_use">Podmienkami používania produktu { -brand-product-name }</a> a naším <a data-l10n-name="privacy_notice">Vyhlásením o ochrane osobných údajov</a>. V záujme zlepšovania prehliadača odosiela { -brand-product-name } diagnostické údaje a údaje o používaní spoločnosti { -vendor-short-name }.
 onboarding-refresh-data-collection-link = Spravovať nastavenia zhromažďovania údajov
 onboarding-refresh-primary-button = Pokračovať
 onboarding-refresh-fro-import-header = Používajte svoje údaje

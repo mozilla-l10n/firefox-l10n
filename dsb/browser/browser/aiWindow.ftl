@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klasiske wokno
 toolbar-switcher-customizable-label =
     .label = Šalter { -smart-window-brand-name }
     .tooltiptext = Mjazy inteligentnym a klasiskim woknom pśešaltowaś.
+toolbar-switcher-customizable-label-v2 =
+    .label = Šalter { -smart-window-brand-name }
+    .tooltiptext = Pśešaltujśo mjazy inteligentnym a klasiskim woknom
 
 ## Input CTA
 

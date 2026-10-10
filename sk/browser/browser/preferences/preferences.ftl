@@ -72,7 +72,7 @@ settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
 settings-pane-labs-header =
     .heading = { -firefoxlabs-brand-name }
-pane-experimental-description4 = Vyskúšajte naše experimentálne funkcie! Keďže sú stále vo vývoji, mohli by ovplyvniť fungovanie { -brand-short-name(case: "gen") }. Údaje o vašom používaní týchto funkcií dostávame iba v prípade, že máte zapnuté odosielanie <a data-l10n-name="data-collection">technických údajov a údajov o interakciách</a>.
+pane-experimental-description4 = Vyskúšajte naše experimentálne funkcie! Keďže sú stále vo vývoji, mohli by ovplyvniť fungovanie { -brand-short-name(case: "gen") }. Údaje o vašom používaní týchto funkcií dostávame iba v prípade, že máte zapnuté odosielanie <a data-l10n-name="data-collection">technických údajov a údajov o používaní</a>.
 pane-experimental-reset =
     .label = Obnoviť predvolené nastavenia
     .accesskey = O
@@ -1851,14 +1851,14 @@ data-collection-preferences-across-profiles =
     .message = Tieto nastavenia platia pre každý profil { -brand-product-name(case: "gen") } na tomto zariadení.
 data-collection-profiles-link = Zobraziť všetky profily
 data-collection-health-report-telemetry-disabled =
-    .message = Odosielanie technických údajov a údajov o interakciách spoločnosti { -vendor-short-name } nie je naďalej povolené. Všetky historické údaje budú odstránené v priebehu 30 dní.
+    .message = Odosielanie technických údajov a údajov o používaní spoločnosti { -vendor-short-name } nie je naďalej povolené. Všetky historické údaje budú odstránené v priebehu 30 dní.
 data-collection-health-report =
     .description = Pomáha nám to zlepšovať funkcie, výkon a stabilitu { -brand-product-name(case: "gen") }.
-    .label = Odosielať { -vendor-short-name(case: "dat") } technické údaje a údaje o interakciách
+    .label = Odosielať { -vendor-short-name(case: "dat") } technické údaje a údaje o používaní
     .accesskey = t
 data-collection-health-report-disabled =
     .description = Odosielanie údajov je v konfigurácii tohto zostavenia zakázané.
-    .label = Odosielať { -vendor-short-name(case: "dat") } technické údaje a údaje o interakciách
+    .label = Odosielať { -vendor-short-name(case: "dat") } technické údaje a údaje o používaní
     .accesskey = t
 data-collection-run-studies =
     .description = { -brand-short-name } náhodne vyberá používateľov na testovanie funkcií, čo pomáha zlepšiť kvalitu pre všetkých.
