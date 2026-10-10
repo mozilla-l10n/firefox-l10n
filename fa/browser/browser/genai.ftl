@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = چت‌بات محلی و اختصاصی �
 genai-prompts-summarize =
     .label = خلاصه‌سازی
     .value = لطفاً متن انتخاب‌شده را با استفاده از زبانی دقیق و موجز خلاصه کنید. برای اینکه مرور متن آسان‌تر شود، در خلاصه از سربرگ‌ها و فهرست‌های گلوله‌ای استفاده کنید. معنا و دقت حقایق را حفظ کنید.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = لطفاً صفحهٔ وب { $url } را با زبانی دقیق و مختصر خلاصه کن. برای اینکه خلاصه سریع خوانده شود، از سرتیتر و فهرست گلوله‌ای استفاده کن. معنا و درستی واقعیت‌ها را حفظ کن.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = ساده‌سازی زبان
@@ -235,6 +238,14 @@ link-preview-settings-key-points =
     .label = اجازه به هوشواره برای خواندن ابتدای صفحه و تولید نکات کلیدی
 link-preview-settings-long-press =
     .label = میانبر: کلیک و نگه‌داشتن پیوند به مدت ۱ ثانیه (فشار طولانی)
+highlight-to-search-settings-enable =
+    .description = هنگام انتخاب محتوا، به عمل‌های مفید دسترسی سریع داشته باشید.
+    .label = نمایش منوی عمل‌ها هنگام انتخاب متن
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = پرسیدن از { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = پرسیدن از هوش مصنوعی
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = مشاهدهٔ اطلاعات بیشتر به کمک هوشواره؟
 # Message that appears when user is shown the opt-in flow for link previews
