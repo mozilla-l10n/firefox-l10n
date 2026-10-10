@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Pśinjasćo swójsku priwatny lokalny chat
 genai-prompts-summarize =
     .label = Zespominaś
     .value = Zespominajśo pšosym wuběrk z precizneju a krotkeju rěcu. Wužywajśo głowowe smužki a nalicenja w zespominanju, aby se dało scannowaś. Wobchowajśo wóznam a faktowu dokradnosć.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Zespominajśo pšosym webbok na { $url } w preciznej a krotkej rěcy. Wužywajśo nadpisma a nalicenja w zespominanju, aby dajo se pśepytowaś. Wobchowajśo wóznam a wěcownu dokradnosć.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Rěc zjadnoriś
@@ -241,6 +244,14 @@ link-preview-settings-key-points =
     .label = KI dowóliś, zachopjeńk boka cytaś a klucowe dypki generěrowaś
 link-preview-settings-long-press =
     .label = Zwězanje: Klikniśo a źaržćo wótkaz za 1 sekundu (dłujke tłocenje)
+highlight-to-search-settings-enable =
+    .description = Dostańśo malsny pśistup k wužytnym akcijam, gaž wopśimjeśe wuběraśo.
+    .label = Meni akcijow pokazaś, gaž se tekst wuběra
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = { $provider } se pšašaś
+highlight-to-search-settings-ask-generic =
+    .label = KI se pšašaś
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Z KI wěcej pokazaś?
 # Message that appears when user is shown the opt-in flow for link previews

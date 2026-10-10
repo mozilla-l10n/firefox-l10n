@@ -614,3 +614,11 @@ onboarding-theme-picker-button-label = Składowaś a pókšacowaś
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Highlight funkcijow
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Nowe wuwite funkcije, kótarež wam pomagaju, wěcej cyniś.
+welcome-back-onboarding-primary-button-label = Pśeglědowanje zachopiś
+welcome-back-onboarding-secondary-button-label = Cytajśo, což jo mimo togo nowe
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Zrumowane rejtariki
