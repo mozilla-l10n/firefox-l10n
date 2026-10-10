@@ -369,4 +369,3 @@ menu-report-broken-site =
 # use the browser. "Share" here means recommending or referring the browser
 menu-referrals2 =
     .label = Condividi { -brand-product-name }
-

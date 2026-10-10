@@ -517,4 +517,3 @@ refresh-unused-profile-infobar-message = Sembra che { -brand-short-name } non ve
 refresh-reinstalled-profile-infobar-message = Sembra che { -brand-short-name } sia stato reinstallato. Procedere con un’operazione di pulizia per garantire una migliore esperienza?
 refresh-profile-infobar-button = Ripristina { -brand-short-name }…
     .accesskey = R
-
