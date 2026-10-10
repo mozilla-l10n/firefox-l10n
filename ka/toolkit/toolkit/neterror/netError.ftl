@@ -101,7 +101,7 @@ neterror-dns-not-found-hint-check-network = შეამოწმოთ ქს�
 neterror-dns-not-found-hint-firewall = გადაამოწმოთ, არის თუ არა { -brand-short-name } ინტერნეტთან წვდომის ნებართვის მქონე (თუ ქსელის ფარს იყენებთ)
 neterror-dns-not-found-hint-check-network-2 = შეამოწმეთ ქსელთან კავშირი.
 neterror-dns-not-found-hint-firewall-2 = გადაამოწმეთ, არის თუ არა { -brand-short-name } ინტერნეტთან წვდომის ნებართვით (თუ ქსელის ფარს იყენებთ).
-neterror-dns-not-found-offline-hint-header = <strong>რის გაკეთება შეიძლება?</strong>
+neterror-dns-not-found-offline-hint-header = <strong>რის გაკეთება მოხერხდება?</strong>
 neterror-dns-not-found-offline-hint-different-device = სცადეთ დაკავშირება სხვა მოწყობილობიდან.
 neterror-dns-not-found-offline-hint-modem = შეამოწმეთ თქვენი მოდემი ან როუტერი.
 neterror-dns-not-found-offline-hint-reconnect = გამოთიშეთ და კვლავ მიუერთეთ WiFi.
@@ -179,7 +179,7 @@ neterror-network-protocol-error-intro = გვერდი რომლის �
 neterror-network-protocol-error-contact-website = გთხოვთ, მიმართოთ ვებსაიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.
 certerror-expired-cert-second-para = როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც { -brand-short-name } ვერ ახერხებს უსაფრთხო კავშირის დამყარებას. თუ ამ საიტს ეწვევით, შემტევებმა შეიძლება ხელყონ თქვენი მონაცემები, მათ შორის პაროლები, ელფოსტის მისამართები და საკრედიტო ბარათის ნომრები.
 certerror-expired-cert-sts-second-para = როგორც ჩანს, საიტის სერტიფიკატი ვადაგასულია, რის გამოც { -brand-short-name } ვერ ახერხებს უსაფრთხო კავშირის დამყარებას.
-certerror-what-can-you-do-about-it-title = რის გაკეთება შეიძლება?
+certerror-what-can-you-do-about-it-title = რის გაკეთება მოხერხდება?
 certerror-unknown-issuer-what-can-you-do-about-it-website = ხარვეზი უმეტესად დაკავშირებულია თავად ვებსაიტთან და თქვენ ვერ მოახერხებთ მის გამოსწორებას.
 certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = თუ იყენებთ დაწესებულების ქსელს ან ანტივირუსულ პროგრამას, დასახმარებლად შეგიძლიათ მიმართოთ იქვე არსებულ მხარდაჭერის გუნდს. ასევე, შეგიძლიათ შეატყობინოთ ვებსაიტის მფლობელებს ამ ხარვეზის შესახებ.
 # Variables:

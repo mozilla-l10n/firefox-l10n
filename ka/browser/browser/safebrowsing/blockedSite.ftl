@@ -40,6 +40,6 @@ safeb-blocked-harmful-page-learn-more = იხილეთ ვრცლად, �
 
 safeb-blocked-addon-page-error-desc-override = <strong>რატომ შეიზღუდა ეს საიტი?</strong>
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> შესაძლოა თაღლითურ და მავნე ქმედებებთან იყოს კავშირში.
-safeb-blocked-addon-page-error-desc3-override = <strong>რის გაკეთება შეიძლება?</strong>
+safeb-blocked-addon-page-error-desc3-override = <strong>რის გაკეთება მოხერხდება?</strong>
 safeb-blocked-addon-page-error-desc4-override = ამის თავიდან ასაცილებლად, შეგიძლიათ ამოშალოთ ან გამორთოთ <strong>{ $addonName }</strong> გვერდიდან about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>იხილეთ ვრცლად, როგორ იცავს { -brand-short-name } თაღლითური და მავნე დამატებებისგან</a>.

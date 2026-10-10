@@ -1148,6 +1148,10 @@ prefs-syncing-off = Synchronizacija: WUPINJENY
 prefs-syncing-off-2 =
     .description = Zmóžńće synchronizaciju, zo byšće swoje zapołožki, hesła, historiju a wjace na kóždym graće dóstał.
     .label = Synchronizacijaje je WUPINJENA
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Zmóžńće synchronizaciju, zo byšće swoje zapołožki, hesła, historiju a wjace na tutym graće měł.
+    .label = Synchronizacija je je WUPINJENA
 prefs-sync-turn-on-syncing =
     .label = Synchronizaciju zmóžnić…
     .accesskey = h
@@ -1171,6 +1175,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Synchronizujeće tute zapiski přez wšě waše zwjazane graty:
 sync-syncing-across-devices-heading-2 = Daty, kotrež su přez graty synchronizowane
+sync-syncing-across-devices-heading-3 = Daty, kotrež so na tutym graće synchronizuja
 sync-syncing-across-devices-empty-state2 =
     .description = Ničo njesynchronizujeće… hišće. Započńće synchronizować, zo byšće wšě swoje daty na wšěch swojich gratach dóstał.
     .label = Synchronizowane daty rjadować
