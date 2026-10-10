@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klasiske wokno
 toolbar-switcher-customizable-label =
     .label = Přepinak { -smart-window-brand-name }
     .tooltiptext = Přepinajće mjez inteligentnym a klasiskim woknom.
+toolbar-switcher-customizable-label-v2 =
+    .label = Přepinak { -smart-window-brand-name }
+    .tooltiptext = Přepinajće mjez inteligentnym a klasiskim woknom
 
 ## Input CTA
 
