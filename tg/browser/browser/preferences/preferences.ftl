@@ -36,6 +36,8 @@ category-list =
     .aria-label = Категорияҳо
 pane-general-title = Умумӣ
 pane-home-title = Саҳифаи асосӣ
+pane-home-startup-title2 = Саҳифаи асосӣ ва оғози кор
+    .title = Саҳифаи асосӣ ва оғози кор
 pane-search-title2 = Ҷустуҷӯ
     .title = Ҷустуҷӯ
 pane-privacy-title3 = Махфият ва амният
@@ -1231,6 +1233,10 @@ passports-edit-passport-button-label =
     .aria-label = Таҳрир кардан
 passports-delete-passport-prompt-confirm-button = Нест кардан
 passports-delete-passport-prompt-cancel-button = Бекор кардан
+pane-passwords-autofill-title2 = Ниҳонвожаҳо ва пуркунии худкор
+    .title = Ниҳонвожаҳо ва пуркунии худкор
+preferences-passwords-autofill-header =
+    .heading = Ниҳонвожаҳо ва пуркунии худкор
 # These values are displayed for each credit card record listed on the Manage Payment methods
 # settings page.
 # Variables:
@@ -1695,6 +1701,11 @@ preferences-connection-link-button =
 
 desktop-folder-name = Мизи корӣ
 downloads-folder-name = Боргириҳо
+
+## Appearance page
+
+related-settings-home-link =
+    .label = Фармоишдиҳии «{ -firefox-home-brand-name }»
 
 ## AI controls page
 

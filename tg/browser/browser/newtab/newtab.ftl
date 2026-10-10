@@ -200,6 +200,13 @@ newtab-privacy-message-first-protection-cta = Намоиши муҳофизат�
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Маълумоти бештар
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .aria-label = Ҷустуҷӯ аз рӯйи ном ё аломат
+    .label = Ҷустуҷӯ
+    .title = Ҷустуҷӯ аз рӯйи ном ё аломат
 
 ## Strings for the Picture of the Day widget
 
