@@ -249,6 +249,8 @@ appmenuitem-report-broken-site =
 
 appmenuitem-sign-in-account = ចូលទៅក្នុងគណនីរបស់អ្នក
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-description = ម៉ាស់អ៊ីមែលនិងលេខទូរសព្ទពិតរបស់អ្នក
+appmenuitem-services-relay-description = ដំណើរការផ្ទាំងគ្របគ្រងម៉ាស់អ៊ីមែល
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
 appmenuitem-vpn-description-2 = ទទួលការការពារឧបករណ៍ទាំងមូល
 appmenu-services-header = សេវាកម្មរបស់ខ្ញុំ
