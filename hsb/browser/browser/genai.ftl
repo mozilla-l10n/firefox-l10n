@@ -241,6 +241,9 @@ link-preview-settings-key-points =
     .label = KI dowolić, spočatk strony čitać a klučowe dypki generěrować
 link-preview-settings-long-press =
     .label = Zwjazanje: Klikńće a dźeržće wotkaz za 1 sekundu (dołhe tłóčenje)
+highlight-to-search-settings-enable =
+    .description = Dóstańće spěšny přistup k wužitnym akcijam, hdyž wobsah wuběraće.
+    .label = Meni akcijow pokazać, hdyž so tekst wuběra
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = { $provider } so prašeć

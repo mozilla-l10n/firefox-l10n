@@ -57,3 +57,20 @@ smartwindow-group-tabs-view-tab-groups = Skupiny rajtarkow pokazać
 # Accessible name for the list of existing tab groups the row above opens.
 smartwindow-group-tabs-groups-list =
     .aria-label = Skupiny rajtarkow
+# Action that closes this window's duplicate tabs, keeping the most recently
+# used tab of each set. Only shown when there are duplicates to close.
+# Variables:
+#   $tabCount (Number) - Number of duplicate tabs that activating it closes
+smartwindow-group-tabs-close-duplicates =
+    { $tabCount ->
+        [one] { $tabCount } dwójny rajtark začinić
+        [two] { $tabCount } dwójnej rajtarkaj začinić
+        [few] { $tabCount } dwójne rajtarki začinić
+       *[other] { $tabCount } dwójnych rajtarkow začinić
+    }
+# Accessible name for the list of duplicate tabs the row above would close,
+# one row per tab. Activating a tab in the list switches to it.
+# "Duplicate tabs" refers to tabs that are copies of each other; it is not a
+# verb telling the user to duplicate anything.
+smartwindow-group-tabs-duplicates-list =
+    .aria-label = Dwójne rajtarki, kotrež so maja začinić

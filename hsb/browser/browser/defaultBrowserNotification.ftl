@@ -43,3 +43,4 @@ default-browser-guidance-notification-v2-title = Nastajenje { -brand-short-name 
 default-browser-guidance-notification-v2-body = Wubjerće w nastajenjach „Standardny wobhladowak“ za { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Nastajenje { -brand-short-name } jako waš standardny wobhladowak w nastajenjach dokónčić
 default-browser-guidance-notification-auto-trigger-title = Wočińće swoje wotkazy z { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Wubjerće { -brand-short-name } jako waš standardny wobhladowak w nastajenjach.

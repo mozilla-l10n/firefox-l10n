@@ -617,8 +617,14 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = Nowe wuwite funkcije, kotrež wam pomhaja, wjace činić.
 welcome-back-onboarding-primary-button-label = Přehladowanje započeć
 welcome-back-onboarding-secondary-button-label = Čitajće, štož je nimo toho nowe
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Zrumowane rajtarki
 welcome-back-onboarding-pill-label-vpn = Zatwarjeny VPN
 welcome-back-onboarding-pill-label-pdf = Nastroje PDF
+welcome-back-onboarding-card-label-tabs = Zrumujće z wertikalnymi rajtarkami a skupinami
+welcome-back-onboarding-card-label-vpn = Wostańće schowany ze zatwarjenym VPN
+welcome-back-onboarding-card-label-pdf = Wuzběhńće, signujće PDF a dźěłajće z nimi
 welcome-back-onboarding-card-tilebutton-label = Wupruwować

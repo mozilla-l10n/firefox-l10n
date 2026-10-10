@@ -1337,6 +1337,8 @@ filepicker-blocked-infobar = Waša organizacija je přistup k lokalnym datajam n
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } nětko rajtarki přepytuje
+urlbar-addons-shortcut-moved-description = Wužiwajće { $addonsShortcut }, zo byšće rozšěrjenja a drasty wočinił.
 urlbar-addons-shortcut-moved-change-shortcuts = Skrótšenki rjadować
 urlbar-addons-shortcut-moved-dismiss = Sym zrozumił
 
