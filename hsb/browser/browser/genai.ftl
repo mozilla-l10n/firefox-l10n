@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Přinjesće swójsku priwatny lokalny chat
 genai-prompts-summarize =
     .label = Zjeć
     .value = Prošu zjimajće wuběr z pomocu precizneje a krótkeje rěče. Wužiwajće hłowowe linki a naličenja w zjeću, zo by so dało skenować. Wobchowajće woznam a faktowu dokładnosć
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Zjimajće prošu webstronu na { $url } w preciznej a zjatej rěči. Wužiwajće nadpisma a naličenja w zjeću, zo by da so přepytować. Wobchowajće woznam a wěcownu dokładnosć.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Rěč zjednorić

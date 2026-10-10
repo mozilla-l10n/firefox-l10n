@@ -513,6 +513,9 @@ lapsed-user-toast-dismiss-button = Zaćisnyć
 # design of the browser; "No starting over" means users don't have to set up
 # the browser again from scratch.
 lapsed-user-toast-import-title = Nowy napohlad. Žadyn nowy spočatk.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Přenošujće swoje zapołožki, hesła a historiju z wobhladowaka, kotryž tuchwilu wužiwaće.
 
 ## Refresh Firefox infobar
 ##

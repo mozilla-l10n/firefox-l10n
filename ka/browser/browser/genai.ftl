@@ -235,6 +235,14 @@ link-preview-settings-key-points =
     .label = ნებართვა, რომ ხელგონი წაიკითხავს გვერდის დასაწყისს და გამოკვეთს საკვანძო საკითხებს
 link-preview-settings-long-press =
     .label = მალსახმობი: დაწკაპეთ და დააყოვნეთ ბმულზე 1 წამი (ხანგრძლივი დაჭერით)
+highlight-to-search-settings-enable =
+    .description = სწრაფი წვდომა საჭირო მოქმედებებზე მასალის მონიშვნისას.
+    .label = მოქმედებების მენიუს ჩვენება ტექსტის მონიშვნისას
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = გიპასუხებთ { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = ჰკითხეთ ხელგონს
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = გსურთ, უფრო ვრცლად იხილოთ ხელგონით?
 # Message that appears when user is shown the opt-in flow for link previews
