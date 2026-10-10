@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = მზადაა
 default-browser-guidance-notification-v2-title = გამართვის დასასრულებლად მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად
 default-browser-guidance-notification-v2-body = პარამეტრებში აირჩიეთ, რომ „ნაგულისხმევად მიეთითოს“ { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = გამართვის დასასრულებლად მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად პარამეტრებში
+default-browser-guidance-notification-auto-trigger-title = ბმულების გასახსნელად გამოიყენებოდეს { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = მიუთითეთ { -brand-short-name } ნაგულისხმევ ბრაუზერად პარამეტრებიდან.

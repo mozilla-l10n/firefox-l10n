@@ -614,3 +614,14 @@ onboarding-theme-picker-button-label = შეინახეთ და გან
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = გამორჩეული შესაძლებლობები
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-primary-button-label = დაიწყეთ გვერდების მონახულება
+welcome-back-onboarding-secondary-button-label = იხილეთ, რა სიახლეებია
+welcome-back-onboarding-pill-label-vpn = ჩაშენებული VPN
+welcome-back-onboarding-pill-label-pdf = PDF-ხელსაწყოები
+welcome-back-onboarding-card-label-tabs = შვეულად ჩაამწკრივეთ ჩანართები და ჯგუფები
+welcome-back-onboarding-card-label-vpn = დაფარეთ მონაცემები ჩაშენებული VPN-ით
+welcome-back-onboarding-card-label-pdf = დაურთეთ მონიშვნები, დასვით ხელმოწერა და გამართეთ PDF
+welcome-back-onboarding-card-tilebutton-label = მოსინჯვა
