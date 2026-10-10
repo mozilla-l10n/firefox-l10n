@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Hotovo
 default-browser-guidance-notification-v2-title = Dokončite nastavenie { -brand-short-name(case: "gen") } ako predvoleného prehliadača
 default-browser-guidance-notification-v2-body = V Nastaveniach vyberte pre { -brand-short-name } možnosť “Nastaviť predvolené”.
 default-browser-guidance-notification-v2-title-only = Dokončite nastavenie { -brand-short-name(case: "gen") } ako predvoleného prehliadača
+default-browser-guidance-notification-auto-trigger-title = Otvárajte odkazy v prehliadači { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = V nastaveniach vyberte { -brand-short-name } ako predvolený prehliadač.

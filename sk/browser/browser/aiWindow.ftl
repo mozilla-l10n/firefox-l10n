@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klasické okno
 toolbar-switcher-customizable-label =
     .label = Prepínač { -smart-window-brand-name(case: "gen") }
     .tooltiptext = Prepnúť medzi inteligentnými a klasickými oknami
+toolbar-switcher-customizable-label-v2 =
+    .label = Prepínač { -smart-window-brand-name(case: "gen") }
+    .tooltiptext = Prepínajte medzi inteligentnými a klasickými oknami
 
 ## Input CTA
 

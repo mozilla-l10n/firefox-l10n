@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Prineste si svojho vlastného súkromného
 genai-prompts-summarize =
     .label = Vytvor súhrn
     .value = Vytvor súhrn pomocou presného a výstižného jazyka. Použi hlavičky a zoznamy s odrážkami v súhrne, aby bolo možné ho skenovať. Zachovaj význam a vecnú presnosť.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Vytvor súhrn webovej stránky na adrese { $url } presným a stručným jazykom. Použi nadpisy a zoznamy s odrážkami, aby sa dal rýchlo prečítať. Zachovaj pôvodný význam a faktickú správnosť.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Pomôž mi to zjednodušiť
@@ -241,6 +244,14 @@ link-preview-settings-key-points =
     .label = Umožní umelej inteligencii prečítať začiatok stránky a vygenerovať kľúčové body
 link-preview-settings-long-press =
     .label = Skratka: Kliknite na odkaz a podržte ho 1 sekundu (dlhé stlačenie)
+highlight-to-search-settings-enable =
+    .description = Získajte rýchly prístup k užitočným akciám pri výbere obsahu.
+    .label = Zobraziť ponuku akcií pri výbere textu
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Opýtať sa chatbota { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Opýtať sa umelej inteligencie
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcete vidieť viac s pomocou umelej inteligencie?
 # Message that appears when user is shown the opt-in flow for link previews

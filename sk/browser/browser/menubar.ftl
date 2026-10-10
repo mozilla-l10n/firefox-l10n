@@ -243,6 +243,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Hľadať v histórii
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Hľadať v kartách
 
 ## Bookmarks Menu
 

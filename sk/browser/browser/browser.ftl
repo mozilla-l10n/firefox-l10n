@@ -1329,6 +1329,17 @@ restore-session-startup-suggestion-button = Ako na to
 
 filepicker-blocked-infobar = Prístup k lokálnym súborom bol na tomto počítači zablokovaný vašou organizáciou.
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } teraz slúži na vyhľadávanie kariet
+urlbar-addons-shortcut-moved-description = Rozšírenia a témy vzhľadu otvoríte pomocou skratky { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Spravovať skratky
+urlbar-addons-shortcut-moved-dismiss = Rozumiem
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } automaticky odosiela údaje spoločnosti { -vendor-short-name } s cieľom vylepšiť tento produkt.
