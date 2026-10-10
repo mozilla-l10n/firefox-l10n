@@ -23,7 +23,10 @@ genai-settings-chat-localhost-links = დაამატეთ თქვენ�
 # Prompt purpose: help users understand what a selection covers at a glance
 genai-prompts-summarize =
     .label = შეჯამება
-    .value = შეაჯამე მონიშნული ნათლად და გასაგები ენით. გამოიყენე სათაურები და გამოყოფილი სია დასკვნის წარმოსადგენად, ადვილად აღსაქმელი რომ იყოს. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა.
+    .value = შეაჯამე მონიშნული უშეცდომოდ, მოკლედ და გასაგები ენით. გამოიყენე სათაურები და გამოყოფილი სიები დასკვნის წარმოსადგენად, ადვილად აღსაქმელი რომ იყოს. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = შეაჯამე ვებგვერდი { $url } უშეცდომოდ, მოკლედ და გასაგები ენით. გამოიყენე სათაურები და გამოყოფილი სიები დასკვნის წარმოსადგენად, ადვილად აღსაქმელი რომ იყოს. შეინარჩუნე შინაარსობრივი სიზუსტე და სინამდვილესთან თანხვედრა.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = გასაგები ენით
