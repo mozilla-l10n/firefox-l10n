@@ -107,6 +107,7 @@ appmenu-fxa-last-sync = ធ្វើសកម្មកាលចុងក្រ�
     .label = ធ្វើសកម្មកាលចុងក្រោយ { $time }
 appmenu-fxa-sync-and-save-data2 = ធ្វើសមកាលកម្ម និងរក្សាទុកទិន្នន័យ
 appmenu-fxa-signed-in-label = ចូល
+appmenu-fxa-sign-in-promo-link = បញ្ជាប់ចូល
 appmenu-fxa-setup-sync =
     .label = បើកការធ្វើសមកាលកម្ម ...
 appmenu-fxa-setup-sync-new = បើក
