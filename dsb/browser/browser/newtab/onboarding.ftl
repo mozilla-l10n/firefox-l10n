@@ -622,3 +622,9 @@ welcome-back-onboarding-primary-button-label = Pśeglědowanje zachopiś
 welcome-back-onboarding-secondary-button-label = Cytajśo, což jo mimo togo nowe
 # Pill label for features that allow you to tidy up your tabs
 welcome-back-onboarding-pill-label-tabs = Zrumowane rejtariki
+welcome-back-onboarding-pill-label-vpn = Zatwarjony VPN
+welcome-back-onboarding-pill-label-pdf = Rědy PDF
+welcome-back-onboarding-card-label-tabs = Zrumujśo z wertikalnymi rejtarikami a kupkami
+welcome-back-onboarding-card-label-vpn = Wóstańśo schowany ze zatwarjonym VPN
+welcome-back-onboarding-card-label-pdf = Wuzwigniśo, signěrujśo PDF a źěłajśo z nimi
+welcome-back-onboarding-card-tilebutton-label = Wopytajśo jen

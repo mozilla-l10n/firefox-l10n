@@ -59,6 +59,7 @@ policy-DisableForgetButton = Pśistup k tłocaškoju Zabyś zakazaś.
 policy-DisableFormHistory = Pytańsku a formularnu historiju se njespomnjeś.
 policy-DisableLaunchOnLogin = Zawoborajśo { -brand-short-name } awtomatiski startowaś, gaž se wužywaŕ pśizjawja.
 policy-DisablePrimaryPasswordCreation = Jolic to trjefijo, njedajo se głowne gronidło napóraś.
+policy-DisablePasswordReveal2 = Njedowóliś, až se gronidła w skłaźonych pśizjawjenjach abo gronidłowych pólach pokazuju.
 policy-DisablePasswordReveal = Njedowóliś, až se gronidła w skłaźonych pśizjawjenjach pokazuju
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžniś.
 policy-DisableProfileImport = Menijowy pśikaz za importěrowanje datow z drugego wobglědowaka znjemóžniś.

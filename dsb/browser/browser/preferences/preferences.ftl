@@ -1148,6 +1148,10 @@ prefs-syncing-off = Synchronizacija: WUŠALTOWANA
 prefs-syncing-off-2 =
     .description = Zmóžniśo synchronizaciju, aby swóje cytańske znamjenja, gronidła, historiju a wěcej na kuždem rěźe dostał.
     .label = Synchronizacija jo WUŠALTOWANA
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Zmóžniśo synchronizaciju, aby swóje cytańske znamjenja, gronidła, historiju a wěcej na toś tom rěźe měł.
+    .label = Synchronizacija jo WUŠALTOWANA
 prefs-sync-turn-on-syncing =
     .label = Synchronizaciju zmóžniś…
     .accesskey = S
@@ -1171,6 +1175,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Synchronizěrujośo toś te zapiski pśez wšykne waše zwězane rědy:
 sync-syncing-across-devices-heading-2 = Daty, kótarež su pśez rědy synchronizěrowane
+sync-syncing-across-devices-heading-3 = Daty, kótarež se na toś tom rěźe synchronizěruju
 sync-syncing-across-devices-empty-state2 =
     .description = Njesynchronizěrujośo nic… hyšći. Zachopśo synchronizěrowaś, aby wšykne swóje daty na wšych swójich rědach dostał.
     .label = Synchronizěrowane daty zastojaś
@@ -1233,6 +1238,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = Z
     .style = min-width: 36em;
     .title = Zastojśo daty synchronizacijow na wšych wašych zwězanych rědach
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Składowaś
+    .buttonlabelextra2 = Zwisk źěliś…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = Z
+    .style = min-width: 36em;
+    .title = Zastojaś, což se ma na toś tom rěźe synchronizěrowaś
 
 ## The device name controls.
 
