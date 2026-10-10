@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = پنجرهٔ کلاسیک
 toolbar-switcher-customizable-label =
     .label = تغییردهندهٔ { -smart-window-brand-name }
     .tooltiptext = جابه‌جایی بین پنجره‌های هوشمند و کلاسیک.
+toolbar-switcher-customizable-label-v2 =
+    .label = تعویض‌گر { -smart-window-brand-name }
+    .tooltiptext = جابه‌جایی میان پنجره‌های هوشمند و کلاسیک
 
 ## Input CTA
 

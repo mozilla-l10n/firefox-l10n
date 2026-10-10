@@ -1140,6 +1140,10 @@ prefs-syncing-off = همگام‌سازی: خاموش
 prefs-syncing-off-2 =
     .description = همگام‌سازی را روشن کنید تا نشانک‌ها، گذرواژه‌ها، تاریخچه و موارد دیگر را در هر دستگاهی دریافت نمایید.
     .label = همگام‌سازی خاموش است
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = همگام‌سازی را روشن کنید تا نشانک‌ها، گذرواژه‌ها، تاریخچه و چیزهای دیگرتان را روی این دستگاه داشته باشید.
+    .label = همگام‌سازی خاموش است
 prefs-sync-turn-on-syncing =
     .label = روشن کردن همگام‌سازی…
     .accesskey = s
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = شما در حال همگام‌سازی این موارد در تمام دستگاه‌های متصل خود هستید:
 sync-syncing-across-devices-heading-2 = داده‌های همگام‌سازی‌شده میان دستگاه‌ها
+sync-syncing-across-devices-heading-3 = داده‌های در حال همگام‌سازی روی این دستگاه
 sync-syncing-across-devices-empty-state2 =
     .description = شما هنوز چیزی را همگام‌سازی نکرده‌اید. همگام‌سازی را شروع کنید تا به تمام اطلاعات خود روی همهٔ دستگاه‌ها دسترسی داشته باشید.
     .label = مدیریت داده‌های همگام‌سازی‌شده
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = مدیریت موارد همگام‌سازی در تمام دستگاه‌های متصل
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = ذخیره
+    .buttonlabelextra2 = قطع اتصال…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = مدیریت آنچه روی این دستگاه همگام می‌شود
 
 ## The device name controls.
 

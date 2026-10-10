@@ -59,6 +59,7 @@ policy-DisableForgetButton = جلوگیری از دسترسی به دکمهٔ ف
 policy-DisableFormHistory = به‌خاطر نسپردن تاریخچهٔ فرم‌ها و جست‌وجو.
 policy-DisableLaunchOnLogin = جلوگیری از اجرای خودکار { -brand-short-name } هنگام ورود کاربر به سیستم.
 policy-DisablePrimaryPasswordCreation = در صورت فعال بودن، امکان ایجاد گذرواژهٔ اصلی وجود نخواهد داشت.
+policy-DisablePasswordReveal2 = اجازهٔ نمایش گذرواژه‌ها در قسمت ورودهای ذخیره‌شده یا خانه‌های گذرواژه، داده نشود.
 policy-DisablePasswordReveal = جلوگیری از آشکارسازی گذرواژه‌ها در ورودهای ذخیره‌شده.
 policy-DisablePrivateBrowsing = غیرفعال کردن مرور ناشناس.
 policy-DisableProfileImport = غیرفعال کردن دستور منوی وارد کردن اطلاعات از مرورگری دیگر.
