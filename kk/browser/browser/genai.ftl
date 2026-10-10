@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = { -vendor-short-name } инновация�
 genai-prompts-summarize =
     .label = Қорытындылау
     .value = Таңдауды нақты және қысқа тілмен қорытындылаңыз. Оны сканерлеуге болатындай ету үшін қорытындыда тақырыптар мен таңбаланған тізімдерді пайдаланыңыз. Мағынасы мен фактілік дәлдігін сақтаңыз.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = { $url } веб-бетін дәл және қысқаша тілмен қорытындыла. Қорытындыны оқуға ыңғайлы ету үшін онда тақырыптар мен маркерленген тізімдерді пайдалан. Мағынасын мен фактілік дәлдігін сақта.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Тілді жеңілдету
@@ -233,6 +236,9 @@ link-preview-settings-key-points =
     .label = ЖИ-ге беттің басын оқуға және негізгі тұстарын қорытындылауға рұқсат беру
 link-preview-settings-long-press =
     .label = Пернелер жарлығы: Сілтемені 1 секунд бойы басып тұрыңыз (ұзақ басу)
+highlight-to-search-settings-enable =
+    .description = Мазмұнды таңдаған кезде пайдалы әрекеттерге жылдам қол жеткізу.
+    .label = Мәтінді таңдаған кезде әрекеттер мәзірін көрсету
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = { $provider } сұрау

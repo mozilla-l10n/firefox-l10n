@@ -504,6 +504,9 @@ lapsed-user-toast-dismiss-button = Елемеу
 # design of the browser; "No starting over" means users don't have to set up
 # the browser again from scratch.
 lapsed-user-toast-import-title = Жаңа көрініс. Қайта бастаудың қажеті жоқ.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Бүгін қолданып жүрген браузеріңізден бетбелгілер, парольдер және тарихыңызды алып келіңіз.
 
 ## Refresh Firefox infobar
 ##

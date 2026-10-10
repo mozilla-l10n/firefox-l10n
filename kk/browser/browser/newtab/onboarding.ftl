@@ -616,10 +616,14 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = Сізге көбірек жасауға көмектесу үшін жасалған жаңа мүмкіндіктер
 welcome-back-onboarding-primary-button-label = Шолуды бастау
 welcome-back-onboarding-secondary-button-label = Басқа да жаңалықтарды қарау
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Тиянақты беттер
 welcome-back-onboarding-pill-label-vpn = Кіріктірілген VPN
 welcome-back-onboarding-pill-label-pdf = PDF құралдары
+welcome-back-onboarding-card-label-tabs = Вертикалды беттер мен топтармен тиянақты қылу
 welcome-back-onboarding-card-label-vpn = Кіріктірілген VPN арқылы адресіңізді жасырыңыз
 welcome-back-onboarding-card-label-pdf = PDF файлдарын белгілеу, қол қою және олармен жұмыс істеу
 welcome-back-onboarding-card-tilebutton-label = Қолданып көру

@@ -1230,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = з
     .style = min-width: 36em;
     .title = Барлық қосылған құрылғыларда синхрондалатын деректерді басқарыңыз
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Сақтау
+    .buttonlabelextra2 = Байланысты үзу…
+    .buttonaccesskeyaccept = с
+    .buttonaccesskeyextra2 = p
+    .style = min-width: 36em;
+    .title = Осы құрылғыға не синхрондалатынды басқару
 
 ## The device name controls.
 
