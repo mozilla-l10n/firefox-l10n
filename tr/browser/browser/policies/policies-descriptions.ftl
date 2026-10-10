@@ -59,6 +59,7 @@ policy-DisableForgetButton = Unut düğmesine erişimi engelle.
 policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 policy-DisableLaunchOnLogin = Kullanıcı oturum açtığında { -brand-short-name } uygulamasının otomatik olarak başlatılmasını engelle.
 policy-DisablePrimaryPasswordCreation = True olarak ayarlanırsa ana parola oluşturulamaz.
+policy-DisablePasswordReveal2 = Kayıtlı hesaplarda veya parola alanlarında parolaların görüntülenmesine izin verme.
 policy-DisablePasswordReveal = Kayıtlı hesaplardaki parolaların görüntülenmesine izin verme.
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.
 policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya olanak veren menü komutunu devre dışı bırak.

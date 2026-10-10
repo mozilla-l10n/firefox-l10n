@@ -342,6 +342,11 @@ newtab-privacy-message-first-protection-cta = Korumaları göster
 newtab-stocks-menu-learn-more = Daha fazla bilgi al
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Borsa verileri kullanılamıyor.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Finans menüsünü aç
+    .title = Finans menüsünü aç
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -523,7 +528,7 @@ newtab-recent-searches-menu-learn-more = Daha fazla bilgi al
 # Tab listing the searches the user has made recently.
 newtab-recent-searches-tab-recent = Son aramalar
 # Tab listing what is trending with the user's search engine.
-newtab-recent-searches-tab-trending = Gündemde
+newtab-recent-searches-tab-trending = Gündem
 # Informs the user which engine the trending results come from.
 # Variables:
 #   $engine (string) - Name of the default search engine, e.g. "Google".

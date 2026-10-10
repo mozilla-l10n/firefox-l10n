@@ -42,3 +42,4 @@ default-browser-guidance-notification-dismiss = Tamam
 default-browser-guidance-notification-v2-title = { -brand-short-name } tarayıcınızı varsayılan yapmayı tamamlayın
 default-browser-guidance-notification-v2-body = Ayarlarda { -brand-short-name } için “Varsayılan olarak ayarla”yı seçin.
 default-browser-guidance-notification-v2-title-only = Ayarlar penceresinden { -brand-short-name } tarayıcısını varsayılan tarayıcınız yapın
+default-browser-guidance-notification-auto-trigger-title = Bağlantılarınızı { -brand-short-name } ile açın

@@ -503,6 +503,9 @@ lapsed-user-toast-title = { -brand-product-name } hâlâ sizinle
 lapsed-user-toast-subtitle = Daha fazla seçenek, gizlilik ve kontrol imkânıyla gezinmenin yeni yollarını keşfedin.
 lapsed-user-toast-whats-new-button = Yenilikleri görün
 lapsed-user-toast-dismiss-button = Kapat
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Şu anda kullandığınız tarayıcıdaki yer imlerinizi, parolalarınızı ve geçmişinizi aktarın.
 
 ## Refresh Firefox infobar
 ##

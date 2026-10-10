@@ -235,6 +235,8 @@ link-preview-settings-key-points =
     .label = Yapay zekânın sayfanın başlangıcını okuyup önemli noktaları oluşturmasına izin ver
 link-preview-settings-long-press =
     .label = Kısayol: Bağlantıya tıklayıp 1 saniye basılı tut
+highlight-to-search-settings-ask-generic =
+    .label = Yapay zekâya sor
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Yapay zekâyla daha fazlasını görmek ister misiniz?
 # Message that appears when user is shown the opt-in flow for link previews
