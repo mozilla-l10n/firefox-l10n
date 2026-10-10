@@ -617,5 +617,14 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = قابلیت‌های تازه برای اینکه کارهای بیشتری انجام دهید
 welcome-back-onboarding-primary-button-label = آغاز وب‌گردی
+welcome-back-onboarding-secondary-button-label = دیگر تازه‌ها را ببینید
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = زبانه‌های مرتب
+welcome-back-onboarding-pill-label-vpn = VPN داخلی
 welcome-back-onboarding-pill-label-pdf = ابزارهای PDF
+welcome-back-onboarding-card-label-tabs = با زبانه‌های عمودی و گروه‌ها مرتب کنید
+welcome-back-onboarding-card-label-vpn = با VPN داخلی پنهان بمانید
+welcome-back-onboarding-card-label-pdf = برجسته کردن، امضاء کردن و کار با PDFها
+welcome-back-onboarding-card-tilebutton-label = امتحان کنید
