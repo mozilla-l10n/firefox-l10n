@@ -38,9 +38,9 @@ settings-update-no-updates-found =
 aboutdialog-update-checking-failed = មិនអាច​ពិនិត្យរកមើលកំណែថ្មី​បានទេ។
 settings-update-checking-failed =
     .label = មិនអាច​ពិនិត្យរកមើលកំណែថ្មី​បានទេ។
-update-otherInstanceHandlingUpdates = { -brand-short-name } កំពុង​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​​ធាតុ​ផ្សេង
+update-otherInstanceHandlingUpdates = { -brand-short-name } ត្រូវបានអាប់ដេតដោយធាតុផ្សេង
 settings-update-other-instance-handling-updates =
-    .label = { -brand-short-name } កំពុង​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​​ធាតុ​ផ្សេង
+    .label = { -brand-short-name } ត្រូវ​បាន​អាប់ដេត​ដោយ​​ធាតុ​ផ្សេង
 
 ## Variables:
 ##   $displayUrl (String): URL to page with download instructions. Example: www.mozilla.org/firefox/nightly/
