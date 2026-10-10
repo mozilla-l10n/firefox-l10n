@@ -604,6 +604,7 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = 全新功能，讓您做好更多事
 welcome-back-onboarding-primary-button-label = 開始上網
 welcome-back-onboarding-secondary-button-label = 看看還有哪些新鮮事
 # Pill label for features that allow you to tidy up your tabs

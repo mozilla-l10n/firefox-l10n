@@ -223,6 +223,9 @@ link-preview-settings-key-points =
     .label = 允許 AI 讀取頁面頂部，產生頁面重點
 link-preview-settings-long-press =
     .label = 快速預覽：長按鏈結 1 秒鐘
+highlight-to-search-settings-enable =
+    .description = 選擇內容後即可快速做出有用的動作。
+    .label = 選擇文字時顯示操作選單
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = 問問 { $provider }
