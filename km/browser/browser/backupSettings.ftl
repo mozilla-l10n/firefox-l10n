@@ -44,6 +44,11 @@ turn-off-scheduled-backups-confirm-button = បិទ និងលុបកា�
 restore-from-backup-header = ស្ដារទិន្នន័យរបស់អ្នកឡើងវិញ
 restore-from-backup-filepicker-label = ឯកសារបម្រុងទុក
 restore-from-backup-filepicker-title = ជ្រើសរើសឯកសារបម្រុងទុក៖
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] ជ្រើសរើស…
+       *[other] ច្បោល…
+    }
 restore-from-backup-password-label = ពាក្យ​សម្ងាត់
 restore-from-backup-cancel-button = បោះបង់
 restore-from-backup-restoring-button = កំពុងស្ដារ…

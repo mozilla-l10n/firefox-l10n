@@ -29,9 +29,9 @@ settings-update-applying =
     .label = អនុវត្តន៍អាប់ដេត…
 update-failed = ការអាប់ដេតបានបរាជ័យ។ <label data-l10n-name="failed-link">ដោនឡូដកំណែចុងក្រោយបំផុត</label>
 update-failed-main = ការអាប់ដេតបានបរាជ័យ។ <a data-l10n-name="failed-link-main">ដោនឡូដកំណែចុងក្រោយបំផុត</a>
-update-policy-disabled = ការធ្វើបច្ចុប្បន្នភាពត្រូវបានបិទដោយស្ថាប័នរបស់អ្នក
+update-policy-disabled = ការអាប់ដេតត្រូវបានបិទដោយស្ថាប័នរបស់អ្នក
 settings-update-policy-disabled =
-    .label = ការធ្វើបច្ចុប្បន្នភាពត្រូវបានបិទដោយស្ថាប័នរបស់អ្នក
+    .label = ការអាប់ដេតត្រូវបានបិទដោយស្ថាប័នរបស់អ្នក
 update-noUpdatesFound = { -brand-short-name } ​គឺ​ទាន់​សម័យ
 settings-update-no-updates-found =
     .label = { -brand-short-name } ​គឺ​ទាន់​សម័យ
@@ -49,9 +49,9 @@ aboutdialog-update-manual-with-link = បច្ចុប្បន្នភាព
 settings-update-manual-with-link = បច្ចុប្បន្នភាព​មាន​នៅ <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = អ្នក​មិន​អាច​ធ្វើ​បច្ចុប្បន្នភាព​បន្ថែម​ទៀត​​ក្នុង​ប្រព័ន្ធ​នេះ​បាន​ទេ។ <label data-l10n-name="unsupported-link">ស្វែងយល់​បន្ថែម</label>
 settings-update-unsupported = អ្នក​មិន​អាច​ធ្វើ​បច្ចុប្បន្នភាព​បន្ថែម​ទៀត​​ក្នុង​ប្រព័ន្ធ​នេះ​បាន​ទេ។ <a data-l10n-name="unsupported-link">ស្វែងយល់​បន្ថែម</a>
-update-restarting = កំពុង​ចាប់ផ្ដើម​ឡើង​វិញ
+update-restarting = កំពុងចាប់ផ្ដើមឡើងវិញ…
 settings-update-restarting =
-    .label = កំពុង​ចាប់ផ្ដើម​ឡើង​វិញ
+    .label = កំពុងចាប់ផ្ដើមឡើងវិញ…
 update-internal-error2 = មិនអាច​ពិនិត្យរកមើល​កំណែថ្មី​បានទេ ដោយសារ​បញ្ហា​ខាងក្នុង។ មាន​កំណែ​ថ្មី​នៅ <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-internal-error = មិនអាច​ពិនិត្យរកមើល​កំណែថ្មី​បានទេ ដោយសារ​បញ្ហា​ខាងក្នុង។ មាន​កំណែ​ថ្មី​នៅ <a data-l10n-name="manual-link">{ $displayUrl }</a>
 
@@ -60,7 +60,7 @@ settings-update-internal-error = មិនអាច​ពិនិត្យរ�
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = បច្ចុប្បន្ន​អ្នក​កំពុង​ស្ថិត​នៅ​លើ​ <label data-l10n-name="current-channel">{ $channel }</label> ធ្វើ​បច្ចុប្បន្នភាព​ឆានែល។
-warningDesc-version = { -brand-short-name } ជា​ការ​ពិសោធន៍ និង​មិន​មាន​​ស្ថិរ​ភាព​ទេ។
+warningDesc-version = { -brand-short-name } គឺជា​កំណែសាកល្បងពិសោធន៍ ហើយក៏អាច​អស្ថិរ​ភាពផងដែរ។
 aboutdialog-help-user = ជំនួយ { -brand-product-name }
 aboutdialog-submit-feedback = ដាក់បញ្ជូន​មតិ​កែលម្អ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> គឺជា<label data-l10n-name="community-exp-creditsLink">សហគមន៍​សកល</label>ដែល​ធ្វើការ​ជាមួយ​​គ្នា​ ដើម្បី​ធ្វើ​ឲ្យ​វេប​មានភាពបើក​ចំហ សាធារណៈ និង​អាច​​ឆ្នូលបានសម្រាប់អ្នកគ្រប់គ្នា។
