@@ -227,9 +227,9 @@ about-logins-confirm-export-dialog-message2 =
     Файлды пайдаланып болғаннан кейін, осы құрылғыны пайдаланатын басқа адамдар парольдеріңізді көре алмайтындай етіп оны өшіруді ұсынамыз.
 about-logins-confirm-export-dialog-confirm-button2 = Экспорттауды жалғастыру
 about-logins-alert-import-message = Импорттаудың толық есептемесін қарау
-confirm-discard-changes-dialog-title = Сақталмаған өзгерістерді тайдыру керек пе?
+confirm-discard-changes-dialog-title = Сақталмаған өзгерістерді елемеу керек пе?
 confirm-discard-changes-dialog-message = Барлық сақталмаған өзгерістер жоғалады.
-confirm-discard-changes-dialog-confirm-button = Тайдыру
+confirm-discard-changes-dialog-confirm-button = Елемеу
 
 ## Breach Alert notification
 
