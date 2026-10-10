@@ -1316,6 +1316,8 @@ filepicker-blocked-infobar = Сіздің ұйымыңыз бұл компьют
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } енді беттерден іздейді
+urlbar-addons-shortcut-moved-description = Кеңейтулер мен темаларды ашу үшін { $addonsShortcut } қолданыңыз.
 urlbar-addons-shortcut-moved-change-shortcuts = Жарлықтарды басқару
 urlbar-addons-shortcut-moved-dismiss = Түсіндім
 
