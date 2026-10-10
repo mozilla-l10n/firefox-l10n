@@ -59,6 +59,7 @@ policy-DisableForgetButton = Спречи пристап до копчето „
 policy-DisableFormHistory = Не памети историја на пребарување и формулари.
 policy-DisableLaunchOnLogin = Спречи автоматско стартување на { -brand-short-name } кога корисникот ќе се најави.
 policy-DisablePrimaryPasswordCreation = Ако е вклучено, не може да се креира главна лозинка.
+policy-DisablePasswordReveal2 = Не дозволувај лозинките да бидат откриени во зачуваните најавувања или полињата за лозинки.
 policy-DisablePasswordReveal = Не дозволувај да се откриваат лозинките во снимените пријавувања.
 policy-DisablePrivateBrowsing = Оневозможи приватно пребарување.
 policy-DisableProfileImport = Оневозможи ја командата од менито за увоз на податоци од друг прелистувач.
