@@ -248,6 +248,9 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = ចូលទៅក្នុងគណនីរបស់អ្នក
+appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = ទទួលការការពារឧបករណ៍ទាំងមូល
 appmenu-services-header = សេវាកម្មរបស់ខ្ញុំ
 # "Mozilla" is intentionally hardcoded to prevent forks from replacing it
 # with their own vendor name, since these tools are created and maintained by
