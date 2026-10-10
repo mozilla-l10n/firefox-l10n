@@ -238,6 +238,9 @@ link-preview-settings-key-points =
     .label = Permitir que el motor de IA lea el comienzo de la página y genere puntos clave
 link-preview-settings-long-press =
     .label = Atajo; Haga clic en el enlace durante 1 segundo (mantenga presionado el botón)
+highlight-to-search-settings-enable =
+    .description = Obtenga acceso rápido a acciones útiles al seleccionar contenido.
+    .label = Mostrar menú de acciones al seleccionar texto
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = Preguntar a { $provider }

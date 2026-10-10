@@ -618,3 +618,5 @@ onboarding-carousel-nav =
 ## Welcome Back Onboarding
 
 welcome-back-onboarding-title = Nuevas funciones creadas para ayudar a hacer más
+welcome-back-onboarding-card-label-pdf = Resaltar, firmar y trabajar con archivos PDF
+welcome-back-onboarding-card-tilebutton-label = Pruébelo
