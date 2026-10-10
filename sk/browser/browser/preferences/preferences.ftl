@@ -1144,6 +1144,10 @@ prefs-syncing-off = Synchronizácia je vypnutá
 prefs-syncing-off-2 =
     .description = Zapnite synchronizáciu a získajte svoje záložky, heslá, históriu a ďalšie údaje na akomkoľvek zariadení.
     .label = Synchronizácia je vypnutá
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Zapnite synchronizáciu a získajte svoje záložky, heslá, históriu a ďalšie údaje na tomto zariadení.
+    .label = Synchronizácia je vypnutá
 prefs-sync-turn-on-syncing =
     .label = Zapnúť synchronizáciu…
     .accesskey = Z
@@ -1167,6 +1171,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Synchronizujete tieto položky vo všetkých pripojených zariadeniach:
 sync-syncing-across-devices-heading-2 = Údaje synchronizované medzi zariadeniami
+sync-syncing-across-devices-heading-3 = Údaje synchronizované v tomto zariadení
 sync-syncing-across-devices-empty-state2 =
     .description = Zatiaľ nič nesynchronizujete… Spustite synchronizáciu, aby ste mali všetky svoje údaje na všetkých svojich zariadeniach.
     .label = Spravovať synchronizované údaje
@@ -1229,6 +1234,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = O
     .style = min-width: 40em;
     .title = Spravujte, čo sa synchronizuje na všetkých vašich pripojených zariadeniach
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Uložiť
+    .buttonlabelextra2 = Odpojiť…
+    .buttonaccesskeyaccept = U
+    .buttonaccesskeyextra2 = d
+    .style = min-width: 36em;
+    .title = Čo sa synchronizuje v tomto zariadení
 
 ## The device name controls.
 

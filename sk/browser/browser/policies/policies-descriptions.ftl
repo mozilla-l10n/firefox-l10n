@@ -59,6 +59,7 @@ policy-DisableForgetButton = Zablokuje prístup ku tlačidlu Zabudnúť.
 policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulárov.
 policy-DisableLaunchOnLogin = Zabráni automatickému spusteniu { -brand-short-name(case: "gen") } po prihlásení používateľa.
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
+policy-DisablePasswordReveal2 = Zakáže zobrazovanie hesiel v uložených prihlasovacích údajoch a poliach pre heslá.
 policy-DisablePasswordReveal = Zablokuje zobrazovanie hesiel v správcovi prihlasovacích údajov.
 policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie.
 policy-DisableProfileImport = Zablokuje možnosť importu údajov z iných prehliadačov.
