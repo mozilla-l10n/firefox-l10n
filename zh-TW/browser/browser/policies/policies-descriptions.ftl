@@ -59,6 +59,7 @@ policy-DisableForgetButton = 防止使用「忘記」功能。
 policy-DisableFormHistory = 不要記住搜尋與表單填寫紀錄。
 policy-DisableLaunchOnLogin = 防止 { -brand-short-name } 在使用者登入時自動啟動。
 policy-DisablePrimaryPasswordCreation = 若為 true，將無法建立主控密碼。
+policy-DisablePasswordReveal2 = 不允許於儲存的登入資訊畫面或密碼欄位中，顯示密碼的明碼。
 policy-DisablePasswordReveal = 不允許於儲存的登入資訊畫面中顯示密碼。
 policy-DisablePrivateBrowsing = 停用隱私瀏覽功能。
 policy-DisableProfileImport = 停用自其他瀏覽器匯入資料的選單功能。

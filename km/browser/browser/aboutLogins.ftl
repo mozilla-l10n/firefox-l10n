@@ -324,7 +324,7 @@ about-logins-import-report-modified2 =
 about-logins-import-report-no-change2 = <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">ទិន្នន័យស្ទួន</div> <div data-l10n-name="not-imported">(មិនបាននាំចូលទេ)</div>
 about-logins-import-report-error =
     { $count ->
-       *[other] <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="details">បញ្ហា</div> <div data-l10n-name="not-imported">(not imported)</div>
+       *[other] <div data-l10n-name="details">ល្អៀងចំនួន</div> <div data-l10n-name="count">{ $count }</div> <div data-l10n-name="not-imported">(មិនបាននាំចូល)</div>
     }
 
 ## Logins import report page

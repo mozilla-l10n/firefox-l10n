@@ -1128,6 +1128,10 @@ prefs-syncing-off = 同步：關閉
 prefs-syncing-off-2 =
     .description = 開啟同步後，即可在您的所有裝置中有相同的書籤、密碼、瀏覽紀錄與更多資訊。
     .label = 已關閉同步
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = 開啟同步功能即可在此裝置上同步您的書籤、密碼、瀏覽紀錄與更多資訊。
+    .label = 已關閉同步
 prefs-sync-turn-on-syncing =
     .label = 開啟同步…
     .accesskey = s

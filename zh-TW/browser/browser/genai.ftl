@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = 將您本機端的私人聊天機器人的
 genai-prompts-summarize =
     .label = 摘要
     .value = 請用簡單明瞭的方式為選擇的這段文字做摘要。請加上標題並分項列出摘要內容，讓讀者可以快速理解。請保持內容原意正確與精準。
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = 請使用準確、簡潔的語言摘要 { $url } 的網頁內容。在摘要中使用標題與符號清單，讓讀者可快速閱讀。維持原意及事實準確性。使用正體中文（台灣）的用詞、文法、標點符號。
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = 簡化內容
