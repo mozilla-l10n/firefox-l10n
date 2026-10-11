@@ -342,6 +342,11 @@ newtab-privacy-message-first-protection-cta = Védelmek megtekintése
 newtab-stocks-menu-learn-more = További tudnivalók
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = A részvényadatok nem érhetők el
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Pénzügyi menü megnyitása
+    .title = Pénzügyi menü megnyitása
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

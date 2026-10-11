@@ -613,3 +613,17 @@ onboarding-theme-picker-button-label = Mentés és folytatás
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Kiemelt funkciók
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Új funkciók, hogy még többre legyen képes
+welcome-back-onboarding-primary-button-label = Böngészés megkezdése
+welcome-back-onboarding-secondary-button-label = További újdonságok megtekintése
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Lapok rendezése
+welcome-back-onboarding-pill-label-vpn = Beépített VPN
+welcome-back-onboarding-pill-label-pdf = PDF-eszközök
+welcome-back-onboarding-card-label-tabs = Tegyen rendet függőleges lapokkal és csoportokkal
+welcome-back-onboarding-card-label-vpn = Maradjon rejtve a beépített VPN-nel
+welcome-back-onboarding-card-label-pdf = Kiemelés, aláírás és munkavégzés PDF-ekkel
+welcome-back-onboarding-card-tilebutton-label = Próbálja ki

@@ -1140,6 +1140,10 @@ prefs-syncing-off = Szinkronizálás: KI
 prefs-syncing-off-2 =
     .description = Kapcsolja be a szinkronizálást, hogy bármelyik eszközén megkapja a könyvjelzőit, jelszavait, előzményeit és egyebeit.
     .label = Szinkronizálás KI
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Kapcsolja be a szinkronizálást, hogy megkapja a könyvjelzőit, jelszavait, előzményeit és egyebeit ezen az eszközön.
+    .label = Szinkronizálás KI
 prefs-sync-turn-on-syncing =
     .label = Szinkronizálás bekapcsolása…
     .accesskey = S
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Ezeket az elemeket szinkronizálja az összes csatlakoztatott eszköz között:
 sync-syncing-across-devices-heading-2 = Eszközök közt szinkronizált adatok
+sync-syncing-across-devices-heading-3 = Adatszinkronizálás ezen az eszközön
 sync-syncing-across-devices-empty-state2 =
     .description = Nem szinkronizál semmit… még. Kezdjen el szinkronizálni, hogy az összes eszközén elérje az összes adatát.
     .label = Szinkronizált adatok kezelése
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = b
     .style = min-width: 36em;
     .title = Kezelje, hogy mit szinkronizál a csatlakoztatott eszközein
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Mentés
+    .buttonlabelextra2 = A kapcsolat bontása…
+    .buttonaccesskeyaccept = M
+    .buttonaccesskeyextra2 = b
+    .style = min-width: 36em;
+    .title = Kezelje, hogy mi legyen szinkronizálva ezen az eszközön
 
 ## The device name controls.
 

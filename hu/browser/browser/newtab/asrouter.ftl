@@ -503,6 +503,13 @@ lapsed-user-toast-title = Számíthat a { -brand-product-name }ra
 lapsed-user-toast-subtitle = Nézze meg a böngészés új módjait, nagyobb választási lehetőséggel, adatvédelemmel és irányítással.
 lapsed-user-toast-whats-new-button = Újdonságok
 lapsed-user-toast-dismiss-button = Eltüntetés
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Új külső. Nem kell elölről kezdeni.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Hozza át a könyvjelzőit, jelszavait és előzményeit a ma használt böngészőből.
 
 ## Refresh Firefox infobar
 ##

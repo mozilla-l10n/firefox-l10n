@@ -235,6 +235,11 @@ link-preview-settings-key-points =
     .label = Engedélyezés, hogy az MI elolvassa az oldal elejét, és kulcspontokat állítson elő
 link-preview-settings-long-press =
     .label = Gyors elérés: Kattintson a hivatkozásra, és tartsa lenyomva 1 másodpercig (hosszan nyomva)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = A(z) { $provider } megkérdezése
+highlight-to-search-settings-ask-generic =
+    .label = Kérdezze meg az MI-t
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Megtekint többet az MI-vel?
 # Message that appears when user is shown the opt-in flow for link previews

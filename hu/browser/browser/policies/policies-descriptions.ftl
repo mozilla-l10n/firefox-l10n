@@ -59,6 +59,7 @@ policy-DisableForgetButton = Az Elfelejtés gombhoz hozzáférés megakadályoz�
 policy-DisableFormHistory = Ne jegyezze meg a keresőmezők és űrlapmezők előzményeit.
 policy-DisableLaunchOnLogin = A { -brand-short-name } automatikus elindulásának megakadályozása, amikor a felhasználó bejelentkezik.
 policy-DisablePrimaryPasswordCreation = Ha igaz, akkor nem hozható létre elsődleges jelszó.
+policy-DisablePasswordReveal2 = Ne engedje, hogy a mentett bejelentkezésekben szereplő jelszavak megjelenítésre kerüljenek.
 policy-DisablePasswordReveal = Ne engedje, hogy a mentet bejelentkezésekben szereplő jelszavak megjelenítésre kerüljenek.
 policy-DisablePrivateBrowsing = Privát böngészés letiltása.
 policy-DisableProfileImport = A más böngészőből történő adatimportálás parancsok letiltása.
