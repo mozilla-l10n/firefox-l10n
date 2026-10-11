@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Прынясіце свой уласны �
 genai-prompts-summarize =
     .label = Падсумаваць
     .value = Калі ласка, падсумуйце выбранае, выкарыстоўваючы дакладныя і сціслыя словы. Выкарыстоўвайце загалоўкі і маркіраваныя спісы ў падсумаванні, каб зрабіць яго даступным для беглага чытання. Захоўвайце сэнс і фактычную дакладнасць.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Калі ласка, коратка апішыце вэб-старонку па адрасе { $url }, выкарыстоўваючы дакладную і лаканічную мову. Выкарыстоўвайце загалоўкі і маркіраваныя спісы ў падсумаванні, каб зрабіць яго зручным для чытання. Захоўвайце сэнс і фактычную дакладнасць.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Спрасціць мову
@@ -238,6 +241,12 @@ link-preview-settings-key-points =
     .label = Дазволіць штучнаму інтэлекту чытаць пачатак старонкі і генераваць ключавыя моманты
 link-preview-settings-long-press =
     .label = Хуткі доступ: Націсніце і ўтрымлівайце спасылку на працягу 1 секунды (доўгае націсканне)
+highlight-to-search-settings-enable =
+    .description = Атрымлівайце хуткі доступ да карысных дзеянняў , калі вылучаеце змесціва.
+    .label = Паказваць меню дзеянняў пры вылучэнні тэксту
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Спытаць { $provider }
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Бачыць больш з дапамогай штучнага інтэлекту?
 # Message that appears when user is shown the opt-in flow for link previews
