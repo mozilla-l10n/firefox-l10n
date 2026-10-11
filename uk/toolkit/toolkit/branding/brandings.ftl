@@ -32,7 +32,7 @@
 -solo-ai-brand-name = Solo
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird
--mdn-brand-name = Веб-документація MDN
+-mdn-brand-name = MDN Web Docs
 -yelp-brand-name = Yelp
 
 ##
