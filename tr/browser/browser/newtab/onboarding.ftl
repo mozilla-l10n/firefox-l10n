@@ -617,10 +617,12 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = Daha çok şey yapmanızı sağlayan yeni özellikler
 welcome-back-onboarding-primary-button-label = Gezinmeye başla
 welcome-back-onboarding-secondary-button-label = Diğer yeniliklere bak
 welcome-back-onboarding-pill-label-vpn = Yerleşik VPN
 welcome-back-onboarding-pill-label-pdf = PDF araçları
 welcome-back-onboarding-card-label-tabs = Dikey sekmeler ve gruplarla düzeni sağlayın
 welcome-back-onboarding-card-label-vpn = Yerleşik VPN ile gizli kalın
+welcome-back-onboarding-card-label-pdf = PDF’leri işaretleyin, imzalayın ve düzenleyin
 welcome-back-onboarding-card-tilebutton-label = Dene
