@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klasszikus ablak
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name } váltója
     .tooltiptext = Váltás az intelligens és a klasszikus ablakok között.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } kapcsolója
+    .tooltiptext = Váltás az Intelligens és a Klasszikus ablakok között
 
 ## Input CTA
 
