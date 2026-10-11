@@ -33,6 +33,9 @@ autofill-options-link = Налады аўтазапаўнення формаў
 credit-card-doorhanger-credit-cards-sync-checkbox = Сінхранізаваць усе захаваныя карты на маіх прыладах
 credit-card-save-doorhanger-header = Захаваць надзейна гэту карту?
 credit-card-save-doorhanger-description = { -brand-short-name } шыфруе нумар вашай карты. Ваш код бяспекі не будзе захаваны.
+credit-card-save-doorhanger-description-security-code = { -brand-short-name } шыфруе нумар вашай карты і код бяспекі, таму толькі вы можаце выкарыстоўваць іх для запаўнення плацежных формаў.
+credit-card-doorhanger-save-security-codes-checkbox =
+    .label = Заўжды захоўваць коды бяспекі для спосабаў аплаты.
 credit-card-capture-save-button =
     .label = Захаваць
     .accessKey = З
@@ -76,6 +79,7 @@ credit-card-doorhanger-details-cvv = CVV захаваны
 credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
 credit-card-doorhanger-details-name-cvv = { $name } | CVV захаваны
 credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV захаваны
+credit-card-doorhanger-details-name-expiration-cvv = { $name }, { $month }/{ $year } | CVV захаваны
 
 ## These are brand names and should only be translated when a locale-specific name for that brand is in common use
 

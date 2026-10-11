@@ -247,6 +247,8 @@ highlight-to-search-settings-enable =
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = Спытаць { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Спытаць штучны інтэлект
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Бачыць больш з дапамогай штучнага інтэлекту?
 # Message that appears when user is shown the opt-in flow for link previews
