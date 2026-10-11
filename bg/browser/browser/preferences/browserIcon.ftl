@@ -14,3 +14,17 @@ appearance-browser-icon-entry-group =
     .label = Икона на браузър
 appearance-browser-icon-button =
     .label = Промяна на иконата на браузъра
+
+## Icons are organized into two groups: "Standard" and "Bonus". The icons in
+## the "Bonus" group only become available when the user has set the browser
+## as the default and pinned its launcher to the taskbar.
+
+appearance-browser-icon-bonus-group =
+    .label = Специални
+
+##
+
+# Shown in place of appearance-browser-icon-requirement once the bonus icons are
+# unlocked (the browser is both the default and pinned to the taskbar).
+appearance-browser-icon-unlocked =
+    .message = Отключихте всички бонус икони!

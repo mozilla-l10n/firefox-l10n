@@ -5,4 +5,12 @@
 
 ## Added shortcuts:
 
+customkeys-title = Клавишни комбинации
 customkeys-view-add-split-view = Добавяне на разделен изглед
+customkeys-category-navigation = Навигация
+customkeys-category-navigation-2 =
+    .heading = Навигация
+
+## Sidebar
+
+customkeys-description = Контролирайте вашето придвижване и взаимодействие с { -brand-short-name }.
