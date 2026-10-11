@@ -23,6 +23,8 @@ smartwindow-group-tabs-empty = Jelenleg nincs javasolható lapcsoport. Nézzen v
 # Shown in place of suggestions when every group the model found has already
 # been created.
 smartwindow-group-tabs-all-sorted = Remekül rendszerezte a lapokat
+# Creates every suggested group at once.
+smartwindow-group-tabs-create-all = Minden csoport létrehozása
 smartwindow-group-tabs-suggested-heading = Javasolt csoportok
 # Accessible name for the flyout that lists the tabs of one suggested group.
 # Activating a tab in the list switches to it.

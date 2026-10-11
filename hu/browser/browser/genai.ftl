@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Hozza el a saját privát helyi csevegőbo
 genai-prompts-summarize =
     .label = Foglalja össze
     .value = Foglalja össze a kijelölést pontosan és tömören. Használjon címsorokat és felsorolásokat az összefoglalóban, legyen áttekinthető. Tartsa meg a jelentést és a pontos tényeket.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Foglalja össze ezt a weboldalt: { $url }, pontos és tömör nyelvezetet használva. Használjon fejléceket és felsorolásokat az összefoglalóban, hogy áttekinthető legyen. Tartsa meg a jelentéstartalmat és a tények pontosságát.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Egyszerűsítse a nyelvezetet
@@ -235,6 +238,9 @@ link-preview-settings-key-points =
     .label = Engedélyezés, hogy az MI elolvassa az oldal elejét, és kulcspontokat állítson elő
 link-preview-settings-long-press =
     .label = Gyors elérés: Kattintson a hivatkozásra, és tartsa lenyomva 1 másodpercig (hosszan nyomva)
+highlight-to-search-settings-enable =
+    .description = Amikor tartalmat jelöl ki, gyorsan hozzáférhet a hasznos műveletekhez.
+    .label = A műveletek menü megjelenítése szöveg kijelölésekor
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = A(z) { $provider } megkérdezése
