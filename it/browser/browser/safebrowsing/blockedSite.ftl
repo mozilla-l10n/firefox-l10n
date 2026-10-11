@@ -23,15 +23,43 @@ safeb-palm-see-details-label = Visualizza dettagli
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito ingannevole</a>. È possibile <a data-l10n-name='report_detection'>segnalare un errore relativo a questo avviso</a> oppure <a data-l10n-name='ignore_warning_link'>ignorare il rischio</a> e visitare il sito non sicuro.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito ingannevole</a>. È possibile <a data-l10n-name='report_detection'>segnalare un errore relativo a questo avviso</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = Scopri ulteriori informazioni relative a siti ingannevoli e phishing sul sito <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Per approfondimenti sulla protezione da phishing e malware di { -brand-short-name } visita <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito contenente software indesiderato</a>. È possibile <a data-l10n-name='ignore_warning_link'>ignorare il rischio</a> e visitare il sito non sicuro.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito contenente software indesiderato</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = Ulteriori informazioni relative alla protezione da phishing e malware di { -brand-short-name } sono disponibili su <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito contenente software dannoso</a>. È possibile <a data-l10n-name='ignore_warning_link'>ignorare il rischio</a> e visitare il sito non sicuro.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito contenente software dannoso</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = Scopri ulteriori informazioni relative a software dannoso e indesiderato nella pagina <a data-l10n-name='learn_more_link'>Norme relative al software indesiderato</a>. Per approfondimenti sulla protezione da phishing e malware di { -brand-short-name } visita <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito contenente un’applicazione potenzialmente dannosa</a>. È possibile <a data-l10n-name='ignore_warning_link'>ignorare il rischio</a> e visitare il sito non sicuro.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> è stato <a data-l10n-name='error_desc_link'>identificato come sito contenente un’applicazione potenzialmente dannosa</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = Per ulteriori informazioni sulla protezione da phishing e malware di { -brand-short-name } visita <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> p
 safeb-blocked-addon-page-error-desc3-override = <strong>Che cosa puoi fare per risolvere?</strong>
 safeb-blocked-addon-page-error-desc4-override = Per evitare che si ripeta, puoi rimuovere o disattivare <strong>{ $addonName }</strong> da about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Scopri ulteriori informazioni sulla protezione di { -brand-short-name } contro i componenti aggiuntivi dannosi</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = Non è un sito ingannevole
+safeb-report-false-deceptive-error-message = Al momento non è possibile segnalare questo errore.
