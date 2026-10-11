@@ -42,3 +42,4 @@ default-browser-guidance-notification-dismiss = Kész
 default-browser-guidance-notification-v2-title = A { -brand-short-name } alapértelmezett böngészővé tételének befejezése
 default-browser-guidance-notification-v2-body = A Gépházban válassza az „Alapértelmezés beállítása” lehetőséget a { -brand-short-name }hoz.
 default-browser-guidance-notification-v2-title-only = A { -brand-short-name } alapértelmezett böngészővé tételének befejezése a Gépházban
+default-browser-guidance-notification-auto-trigger-title = Saját hivatkozások megnyitása a { -brand-short-name }szal

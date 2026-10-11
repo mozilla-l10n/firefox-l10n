@@ -1311,6 +1311,17 @@ restore-session-startup-suggestion-button = Mutassa meg hogyan
 
 filepicker-blocked-infobar = A szervezete blokkolta a helyi fájlok elérését ezen a számítógépen
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = A { $searchTabsShortcut } lapokat keres
+urlbar-addons-shortcut-moved-description = A kiegészítők és témák megnyitásához használja a { $addonsShortcut } gyorsbillentyűt.
+urlbar-addons-shortcut-moved-change-shortcuts = Gyorsbillentyűk kezelése
+urlbar-addons-shortcut-moved-dismiss = Megértettem
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = A { -brand-short-name } automatikusan adatokat küld a { -vendor-short-name } számára, hogy javíthassuk a felhasználói élményt.
@@ -1335,6 +1346,10 @@ private-browsing-info-panel-description = Ez segít abban, hogy ezen az eszköz�
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Az adatvesztés-megelőzés (DLP) a következőtől: { $agentName }. Kattintson a további információkért.
+content-analysis-panel-title2 = Adatvesztés megelőzése
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Az Ön szervezete <b>{ $agentName }</b>segítségével szabályozza az érzékeny adatok megosztását. <a data-l10n-name="info"> Tudjon meg többet </a>
 content-analysis-panel-title = Adatbiztonság
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
