@@ -359,7 +359,7 @@ aiwindow-ai-chat-grid-grid-view =
 ## When localizing, please write them as short instructions a user would give to an assistant.
 ## They should also be concise and direct, but not at the expense of losing meaning.
 
-aiwindow-starter-writing-first-draft = İlk taslağı yaz
+aiwindow-starter-writing-first-draft = Taslak yaz
 aiwindow-starter-writing-improve = Yazıyı geliştir
 aiwindow-starter-writing-proofread = Mesajda yazım denetimi yap
 aiwindow-starter-planning-simplify = Konuyu basitleştir
