@@ -408,7 +408,7 @@ tab-groups-onboarding-create-group-no-alltabs-button-title = Trova i tuoi gruppi
 # The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
 tab-groups-onboarding-saved-groups-title-4 = Quando chiudi un gruppo di schede, puoi riaprirlo in qualsiasi momento dal menu “Cerca e gestisci schede”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-saved-groups-title-3 = Quando chiudi un gruppo di schede, puoi riaprirlo riaprirlo dal menu “Elenco di tutte le schede” in qualsiasi momento.
+tab-groups-onboarding-saved-groups-title-3 = Quando chiudi un gruppo di schede, puoi riaprirlo dal menu “Elenco di tutte le schede” in qualsiasi momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Trova i gruppi che hai chiuso cercandoli nella barra degli indirizzi.
 # The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
 tab-groups-onboarding-session-restore-title-3 = Riapri i gruppi di schede dal menu “Cerca e gestisci schede” in qualsiasi momento.

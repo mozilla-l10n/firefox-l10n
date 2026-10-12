@@ -49,7 +49,7 @@ toolbar-switcher-customizable-label =
     .tooltiptext = Passa facilmente tra finestre smart e classiche.
 toolbar-switcher-customizable-label-v2 =
     .label = Selettore { -smart-window-brand-name }
-    .tooltiptext = Passa facilmente tra finestre smart e classiche.
+    .tooltiptext = Passa facilmente tra finestre smart e classiche
 
 ## Input CTA
 
