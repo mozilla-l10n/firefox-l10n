@@ -212,7 +212,7 @@ addon-manage-extensions-shortcuts = Sýsla með flýtilykla forritsauka
 shortcuts-no-addons = Þú ert ekki með neina virka forritsauka.
 shortcuts-no-commands = Eftirfarandi forritsaukar eru ekki með flýtilykla:
 shortcuts-input =
-    .placeholder = Sláðu inn flýtilykil
+    .placeholder = Settu inn flýtilykil
 # Accessible name for a trashcan icon button that removes an existent shortcut
 shortcuts-remove-button =
     .aria-label = Fjarlægja flýtileið
@@ -222,7 +222,7 @@ shortcuts-sidebarAction = Víxla hliðarstiku af/á
 shortcuts-modifier-mac = Hafa með Ctrl, Alt eða ⌘
 shortcuts-modifier-other = Hafa með Ctrl eða Alt
 shortcuts-invalid = Ógild samsetning
-shortcuts-letter = Sláðu inn bókstaf
+shortcuts-letter = Settu inn bókstaf
 shortcuts-system = Ekki hægt að breyta { -brand-short-name }-flýtilykli
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Tvítaka flýtilykil

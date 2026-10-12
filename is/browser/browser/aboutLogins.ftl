@@ -90,7 +90,7 @@ about-logins-login-item-new-login-title = Bæta við lykilorði
 login-item-edit-button = Breyta
 about-logins-login-item-remove-button = Fjarlægja
 login-item-origin-label = Vistfang vefsvæðis
-about-logins-origin-tooltip2 = Sláðu inn allt vistfangið og vertu viss um að það passi nákvæmlega við þar sem þú skráir þig inn.
+about-logins-origin-tooltip2 = Settu inn allt vistfangið og vertu viss um að það passi nákvæmlega við þar sem þú skráir þig inn.
 # Variables
 #   $webTitle (String) - Website title of the password being changed.
 about-logins-edit-password-tooltip = Gakktu úr skugga um að þú sért að vista núverandi lykilorð fyrir þetta vefsvæði. Að breyta lykilorðinu hér breytir því ekki hjá { $webTitle }.
