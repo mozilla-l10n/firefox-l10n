@@ -165,7 +165,7 @@ smart-window-opened-tabs-summary-single =
 #   $label (string) - The label of the tab group
 smart-window-opened-tabs-summary-group =
     { $count ->
-        [1] Création du groupe « { $label } » et ouverture d‘un onglet.
+        [1] Création du groupe « { $label } » et ouverture d’un onglet.
        *[other] Création du groupe « { $label } » et ouverture de { $count } onglets.
     }
 smart-window-opened-tabs-row-label = Onglets ouverts

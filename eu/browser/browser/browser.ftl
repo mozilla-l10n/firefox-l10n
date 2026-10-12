@@ -1310,6 +1310,15 @@ restore-session-startup-suggestion-button = Erakuts iezadazu nola
 
 filepicker-blocked-infobar = Zure erakundeak blokeatu egin du ordenagailu honetako fitxategi lokaletarako sarbidea
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } lasterbideak fitxak ere bilatzen ditu orain
+urlbar-addons-shortcut-moved-description = Hedapenak eta itxurak irekitzeko, erabili { $addonsShortcut }.
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name }(e)k zenbait datu automatikoki bidaltzen ditu { -vendor-short-name }(e)ra zure esperientzia hobetzeko.
