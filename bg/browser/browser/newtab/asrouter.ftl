@@ -185,6 +185,10 @@ fox-doodle-pin-secondary = Не сега
 set-default-pdf-handler-headline = <strong>PDF файловете вече се отварят с { -brand-short-name }.</strong> Променяйте или подписвайте формуляри директно в четеца. За промяна потърсете „PDF“ в настройките.
 set-default-pdf-handler-primary = Разбрах
 
+## PDF Annotations strings
+
+annotations-make-default-pdf-handler-title = Да стане ли { -brand-short-name } вашият редактор на PDF файлове по подразбиране?
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Планирате ли ново устройство в бъдеще?

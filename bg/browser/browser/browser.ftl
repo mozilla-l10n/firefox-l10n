@@ -310,6 +310,8 @@ quickactions-cmd-print = печат, отпечатване
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Запазване на страницата като PDF
 quickactions-cmd-savepdf2 = pdf, запазване на страници
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Отваряне на PDF редактора
 # Opens a new private browsing window
 quickactions-private2 = Поверителен прозорец
 quickactions-cmd-private = поверително разглеждане

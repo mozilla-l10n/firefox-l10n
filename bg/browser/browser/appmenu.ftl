@@ -264,6 +264,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Приспособяване на лентата…
+appmenu-edit-pdf =
+    .label = Редактиране на PDF…
 appmenu-developer-tools-subheader = Инструменти за четеца
 appmenu-developer-tools-extensions =
     .label = Разширения за разработчици
