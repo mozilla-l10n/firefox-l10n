@@ -190,6 +190,10 @@ about-glean-dual-labeled-metric-warning = Metricile <code>DualLabeledCounter</co
 about-glean-unknown-metric-type-warning = Tip necunoscut de metrică.
 # Label for selection drop-down list containing Pings for selection
 about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Permite stocarea în memoria de pinguri trimise
+    .label = Stochează pingurile trimise
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 
