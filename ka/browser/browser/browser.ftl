@@ -1311,6 +1311,17 @@ restore-session-startup-suggestion-button = მაჩვენეთ, როგ�
 
 filepicker-blocked-infobar = დაწესებულების დებულებით შეზღუდულია ადგილობრივ ფაილებთან წვდომა ამ კომპიუტერზე.
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ახლა უკვე ჩანართებსაც იპოვის
+urlbar-addons-shortcut-moved-description = გაფართოებებისა და თემების გასახსნელად გამოიყენეთ { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = მალსახმობების მართვა
+urlbar-addons-shortcut-moved-dismiss = გასაგებია
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ავტომატურად აგზავნის გარკვეულ მონაცემებს { -vendor-short-name }-ში, პროდუქტის გასაუმჯობესებლად.
@@ -1335,6 +1346,7 @@ private-browsing-info-panel-description = ეს გეხმარებათ 
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = მონაცემთა დაკარგვის არიდებას (DLP) უზრუნველყოფს { $agentName }. დაწკაპეთ ვრცლად სანახავად.
+content-analysis-panel-title2 = მონაცემთა დაკარგვის არიდება
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-panel-text-styled2 = თქვენს დაწესებულებაში გამოიყენება <b>{ $agentName }</b> საფრთხილო მონაცემთა განკარგვისთვის გაზიარებისას. <a data-l10n-name="info">ვრცლად</a>
