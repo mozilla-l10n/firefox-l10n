@@ -618,5 +618,8 @@ onboarding-carousel-nav =
 ## Welcome Back Onboarding
 
 welcome-back-onboarding-title = Nuevas funciones creadas para ayudar a hacer más
+welcome-back-onboarding-primary-button-label = Empezar a navegar
+welcome-back-onboarding-secondary-button-label = Ver qué más hay de nuevo
+welcome-back-onboarding-pill-label-vpn = VPN integrada
 welcome-back-onboarding-card-label-pdf = Resaltar, firmar y trabajar con archivos PDF
 welcome-back-onboarding-card-tilebutton-label = Pruébelo

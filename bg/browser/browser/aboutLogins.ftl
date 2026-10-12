@@ -87,7 +87,7 @@ about-logins-intro-import3 = За да добавите парола изпол�
 
 # Header for adding a password
 about-logins-login-item-new-login-title = Добавяне на парола
-login-item-edit-button = Променяне
+login-item-edit-button = Редактиране
 about-logins-login-item-remove-button = Премахване
 login-item-origin-label = Адрес на страницата
 about-logins-origin-tooltip2 = Въведете пълния адрес и се уверете че има точно съвпадение със страницата, в която влизате.

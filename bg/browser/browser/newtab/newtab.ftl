@@ -210,7 +210,7 @@ newtab-menu-content-tooltip =
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
-newtab-menu-edit-topsites = Променяне
+newtab-menu-edit-topsites = Редактиране
 newtab-menu-open-new-window = Отваряне в раздел
 newtab-menu-open-new-private-window = Отваряне в поверителен прозорец
 newtab-menu-dismiss = Затваряне

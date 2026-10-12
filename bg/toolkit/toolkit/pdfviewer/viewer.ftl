@@ -270,7 +270,7 @@ pdfjs-editor-ink-button =
     .title = Рисуване
 pdfjs-editor-ink-button-label = Рисуване
 pdfjs-editor-stamp-button =
-    .title = Добавяне или променяне на изображения
+    .title = Добавяне или редактиране на изображения
 pdfjs-editor-stamp-button-label = Добавяне или променяне на изображения
 
 ## Remove button for the various kind of editor.
