@@ -503,6 +503,10 @@ lapsed-user-toast-title = O { -brand-product-name } atende e protege você
 lapsed-user-toast-subtitle = Descubra novas formas de navegar, com mais liberdade de escolha, privacidade e controle.
 lapsed-user-toast-whats-new-button = Veja as novidades
 lapsed-user-toast-dismiss-button = Descartar
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Novo visual. Sem precisar reconfigurar.
 
 ## Refresh Firefox infobar
 ##

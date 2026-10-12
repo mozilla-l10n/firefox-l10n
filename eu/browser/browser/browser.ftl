@@ -1318,6 +1318,8 @@ filepicker-blocked-infobar = Zure erakundeak blokeatu egin du ordenagailu honeta
 
 urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } lasterbideak fitxak ere bilatzen ditu orain
 urlbar-addons-shortcut-moved-description = Hedapenak eta itxurak irekitzeko, erabili { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Kudeatu lasterbideak
+urlbar-addons-shortcut-moved-dismiss = Ulertuta
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

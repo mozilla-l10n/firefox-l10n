@@ -342,6 +342,11 @@ newtab-privacy-message-first-protection-cta = Ikusi babesak
 newtab-stocks-menu-learn-more = Argibide gehiago
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Akzioen datuak ez daude erabilgarri.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Ireki finantzaren menua
+    .title = Ireki finantzaren menua
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

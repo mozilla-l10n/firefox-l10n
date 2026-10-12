@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Ekarri zure txaterako bot pribatu lokala, 
 genai-prompts-summarize =
     .label = Laburbildu
     .value = Laburbildu hautapena hizkuntza zehatz eta laburra erabiliz. Erabili goiburuak eta buletdun zerrendak laburpenean, eskaneatzeko modukoa izan dadin. Mantendu esanahia eta egitateen zehaztasuna.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Laburbildu { $url } helbideko web-orria hizkuntza zehatz eta laburra erabiliz. Erabili goiburuak eta buletdun zerrendak laburpenean, edukia eskaneatzeko modukoa izan dadin. Mantendu esanahia eta egiazkotasuna.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Sinplifikatu hizkuntza
@@ -235,6 +238,14 @@ link-preview-settings-key-points =
     .label = Baimendu AAri orriaren hasiera irakurri eta puntu nagusiak sortzea
 link-preview-settings-long-press =
     .label = Lasterbidea: egin klik eta mantendu sakatuta lotura segundo batez (sakatze luzea)
+highlight-to-search-settings-enable =
+    .description = Izan ekintza lagungarrietarako sarbide bizkorra testua hautatzean.
+    .label = Erakutsi ekintzen menua testua hautatzean
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Galdetu { $provider } hornitzaileari
+highlight-to-search-settings-ask-generic =
+    .label = Galdetu AAri
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Gehiago ikusi nahi duzu AArekin?
 # Message that appears when user is shown the opt-in flow for link previews

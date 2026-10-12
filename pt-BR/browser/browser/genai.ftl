@@ -236,6 +236,14 @@ link-preview-settings-key-points =
     .label = Permitir que a inteligência artificial leia o início da página e gere pontos chave
 link-preview-settings-long-press =
     .label = Atalho: Mantenha o clique sobre o link por 1 segundo (clique longo)
+highlight-to-search-settings-enable =
+    .description = Ter acesso rápido a ações úteis ao selecionar conteúdo.
+    .label = Mostrar menu de ações ao selecionar texto
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Consultar { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Perguntar à inteligência artificial
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Ver mais com inteligência artificial?
 # Message that appears when user is shown the opt-in flow for link previews

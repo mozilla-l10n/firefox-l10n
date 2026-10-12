@@ -614,3 +614,17 @@ onboarding-theme-picker-button-label = Gorde eta jarraitu
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Eginbidetik nabarmentzekoak
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Zuri gehiago egiten laguntzeko sortutako eginbide berriak
+welcome-back-onboarding-primary-button-label = Hasi nabigatzen
+welcome-back-onboarding-secondary-button-label = Ikusi zer beste den berria
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Txukundu fitxak
+welcome-back-onboarding-pill-label-vpn = Integratutako VPNa
+welcome-back-onboarding-pill-label-pdf = PDF tresnak
+welcome-back-onboarding-card-label-tabs = Txukundu fitxa eta talde bertikalekin
+welcome-back-onboarding-card-label-vpn = Egon ezkutatuta integratutako VPNarekin
+welcome-back-onboarding-card-label-pdf = Nabarmendu, sinatu eta egin lan PDFekin
+welcome-back-onboarding-card-tilebutton-label = Probatu

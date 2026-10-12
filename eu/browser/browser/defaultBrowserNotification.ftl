@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Eginda
 default-browser-guidance-notification-v2-title = Amaitu { -brand-short-name } zure nabigatzaile lehenetsia eginez
 default-browser-guidance-notification-v2-body = Ezarpenetan, hautatu "Ezarri lehenetsi gisa" { -brand-short-name } aplikaziorako.
 default-browser-guidance-notification-v2-title-only = Amaitu { -brand-short-name } zure nabigatzaile lehenetsia eginez ezarpenetan
+default-browser-guidance-notification-auto-trigger-title = Ireki zure loturak { -brand-short-name } erabiliz
+default-browser-guidance-notification-auto-trigger-body = Aukeratu { -brand-short-name } zure nabigatzaile lehenetsi gisa ezarpenetan.

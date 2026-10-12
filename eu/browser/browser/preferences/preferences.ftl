@@ -1140,6 +1140,10 @@ prefs-syncing-off = Sinkronizazioa: inaktibo
 prefs-syncing-off-2 =
     .description = Aktibatu sinkronizazioa zure laster-markak, pasahitzak, historia eta gehiago edozein gailutan lortzeko.
     .label = Sinkronizazioa inaktibo dago
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Aktibatu sinkronizazioa zure laster-markak, pasahitzak, historia eta gehiago gailu honetan izateko.
+    .label = Sinkronizazioa inaktibo dago
 prefs-sync-turn-on-syncing =
     .label = Gaitu sinkronizazioa…
     .accesskey = s
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Elementu hauek konektatutako zure gailu guztien artean ari zara sinkronizatzen:
 sync-syncing-across-devices-heading-2 = Gailuen artean sinkronizatutako datuak
+sync-syncing-across-devices-heading-3 = Datuen sinkronizazioa gailu honetan
 sync-syncing-across-devices-empty-state2 =
     .description = Ez zara ezer sinkronizatzen ari… oraindik. Hasi sinkronizatzen zure datu guztiak gailu guztietan izateko.
     .label = Kudeatu sinkronizatutako datuak
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = Kudeatu zer sinkronizatzen den konektatutako zure gailu guztien artean
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Gorde
+    .buttonlabelextra2 = Deskonektatu…
+    .buttonaccesskeyaccept = G
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Kudeatu zer sinkronizatzen den gailu honetan
 
 ## The device name controls.
 
