@@ -59,6 +59,7 @@ policy-DisableForgetButton = ისტორიის დავიწყებ�
 policy-DisableFormHistory = ძიებისა და ველების ისტორიის დამახსოვრების შეზღუდვა.
 policy-DisableLaunchOnLogin = აღიკვეთოს შესაძლებლობა, თავისთავად გაეშვას { -brand-short-name } მომხმარებლის შესვლისთანავე.
 policy-DisablePrimaryPasswordCreation = თუ მოქმედია, მთავარი პაროლი ვერ შეიქმნება.
+policy-DisablePasswordReveal2 = პაროლების გამჟღავნების აკრძალვა ანგარიშის შენახულ მონაცემებსა თუ პაროლის ველებში.
 policy-DisablePasswordReveal = შენახული ანგარიშების პაროლებთან წვდომის აკრძალვა.
 policy-DisablePrivateBrowsing = პირადი დათვალიერების გათიშვა.
 policy-DisableProfileImport = მენიუდან სხვა ბრაუზერის მონაცემების გადმოტანის შესაძლებლობის გათიშვა.

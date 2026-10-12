@@ -41,6 +41,9 @@ appmenuitem-zoom =
     .value = Мащабиране
 appmenuitem-more-tools =
     .label = Още инструменти
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = Помощ и доклади
 appmenuitem-help =
     .label = Помощ
 appmenuitem-exit2 =
@@ -233,6 +236,9 @@ appmenu-help-share-ideas =
     .accesskey = и
 appmenu-help-switch-device =
     .label = Преминаване към ново устройство
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = Помощ и доклади
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.

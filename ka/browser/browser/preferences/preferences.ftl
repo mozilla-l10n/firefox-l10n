@@ -1140,6 +1140,10 @@ prefs-syncing-off = დასინქრონება: გამორ.
 prefs-syncing-off-2 =
     .description = ჩართეთ სინქრონიზაცია სანიშნების, პაროლების, ისტორიისა და სხვა მონაცემების ნებისმიერ მოწყობილობაზე მისაღებად.
     .label = დასინქრონება გამორ.
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = ჩართეთ სინქრონიზაცია ამ მოწყობილობაზე, რომ მიიღოთ თქვენი სანიშნები, პაროლები, ისტორია თუ სხვ.
+    .label = დასინქრონება გამორთულია
 prefs-sync-turn-on-syncing =
     .label = დასინქრონების ჩართვა…
     .accesskey = ქ
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = ეს ერთეულები დასინქრონებული გაქვთ ყველა დაკავშირებულ მოწყობილობაში:
 sync-syncing-across-devices-heading-2 = მონაცემები დასინქრონებულია მოწყობილობებს შორის.
+sync-syncing-across-devices-heading-3 = მონაცემები სინქრონირდება ამ მოწყობილობაზე
 sync-syncing-across-devices-empty-state2 =
     .description = ჯერ არაფერი დაგისინქრონებიათ… დაიწყეთ დასინქრონება, რომ თქვენი მონაცემები ხელთ გქონდეთ ყველა თქვენს მოწყობილობაზე.
     .label = მართეთ დასინქ. მონაცემები
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = გ
     .style = min-width: 36em;
     .title = მართეთ, რა დასინქრონირდეს ყველა თქვენს მოწყობილობაზე
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = შენახვა
+    .buttonlabelextra2 = გამოთიშვა…
+    .buttonaccesskeyaccept = ხ
+    .buttonaccesskeyextra2 = ო
+    .style = min-width: 36em;
+    .title = მართეთ, რა დასინქრონდეს ამ მოწყობილობაზე
 
 ## The device name controls.
 
