@@ -8,7 +8,7 @@ global-privacy-control-description =
 non-technical-privacy-group =
     .label = Preferințe de confidențialitate pe site-uri web
 do-not-track-removal3 =
-    .message = Nu mai oferim suport pentru funcționalitatea „Nu urmări”.
+    .message = Nu mai oferim suport pentru funcționalitatea „Nu mă urmări”.
 non-technical-privacy-heading =
     .label = Protecții suplimentare
 preferences-privacy-relay-available =
@@ -989,7 +989,7 @@ search-keyword-warning-bookmark = Ai ales un cuvânt cheie care este folosit de 
 # This warning is displayed when the chosen name is already in use.
 # Variables:
 #   $name (string) - Name of a search engine.
-edit-engine-name-warning-duplicate = Există deja un motor de căutare cu numele „{ $name }”. Te rugăm să alegi alt nume.
+edit-engine-name-warning-duplicate = Există deja un motor de căutare cu numele „{ $name }”. Te rugăm să alegi altă denumire.
 remove-engine-confirmation = Sigur vrei să elimini acest motor de căutare?
 remove-engine-remove = Elimină
 remove-addon-engine-alert = Pentru a elimina acest motor de căutare, elimină extensia asociată.
