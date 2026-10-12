@@ -233,6 +233,11 @@ link-preview-settings-key-points =
     .label = AI ਨੂੰ ਸਫ਼ੇ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਪੜ੍ਹਨ ਅਤੇ ਮੁੱਖ ਬਿੰਦੂ ਤਿਆਰ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ।
 link-preview-settings-long-press =
     .label = ਸ਼ਾਰਟਕੱਟ: ਲਿੰਕ ਨੂੰ 1 ਸਕਿੰਟ ਲਈ ਕਲਿੱਕ ਕਰਕੇ ਰੱਖੋ (ਲਗਾਤਾਰ ਦਬਾਈ ਰੱਖੋ)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = { $provider } ਨੂੰ ਪੁੱਛੋ
+highlight-to-search-settings-ask-generic =
+    .label = AI ਨੂੰ ਪੁੱਛੋ
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = AI ਨਾਲ ਹੋਰ ਵੇਖਣਾ ਹੈ?
 # Message that appears when user is shown the opt-in flow for link previews

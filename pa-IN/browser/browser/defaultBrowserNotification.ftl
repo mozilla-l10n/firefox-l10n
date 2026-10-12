@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = ਮੁਕੰਮਲ
 default-browser-guidance-notification-v2-title = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਣਾਉਣ ਨੂੰ ਪੂਰਾ ਕਰੋ
 default-browser-guidance-notification-v2-body = ਸੈਟਿੰਗਾਂ ਵਿੱਚ { -brand-short-name } ਲਈ “ਮੂਲ ਸੈੱਟ ਕਰੋ” ਨੂੰ ਚੁਣੋ।
 default-browser-guidance-notification-v2-title-only = ਸੈਟਿੰਗਾਂ ਵਿੱਚ { -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ ਬਣਾਉਣ ਨੂੰ ਪੂਰਾ ਕਰੋ
+default-browser-guidance-notification-auto-trigger-title = ਆਪਣੇ ਲਿੰਕਾਂ ਨੂੰ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
+default-browser-guidance-notification-auto-trigger-body = ਸੈਟਿੰਗਾਂ ਵਿੱਚ { -brand-short-name } ਨੂੰ ਆਪਣੇ ਮੂਲ ਬਰਾਊਜ਼ ਵਜੋਂ ਚੁਣੋ।

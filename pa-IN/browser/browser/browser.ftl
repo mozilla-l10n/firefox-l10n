@@ -35,6 +35,33 @@ urlbar-identity-button2 =
             [1] ਸਾਈਟ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ (1 ਟਰੈਕ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ)
            *[other] ਸਾਈਟ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ ({ $count } ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } ਲਿੰਕ
+           *[other] { $count } ਲਿੰਕ
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, ਸੁਨੇਹੇ ਅਤੇ ਹੋਰ…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = ਸੁਨੇਹੇ, ਮੇਲ ਅਤੇ ਹੋਰ…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = …ਸਾਂਝਾ ਕਰੋ
+    .accesskey = h
 urlbar-identity-button =
     .aria-label = ਸਾਈਟ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ
 
@@ -100,6 +127,8 @@ urlbar-result-menu-tip-get-help2 = ਮਦਦ ਲਵੋ
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = ਇਸ ਸੁਝਾਅ ਨੂੰ ਖ਼ਾਰਜ ਕਰੋ
     .accesskey = D
+urlbar-result-menu-remove-top-site = ਇਸ ਸਿਖਰਲੀ ਸਾਈਟ ਨੂੰ ਹਟਾਓ
+    .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -945,6 +974,12 @@ urlbar-view-context-menu-open-in-window2 = ਨਵੀਂ ਵਿੰਡੋ ਵਿ�
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਖੋਲ੍ਹੋ
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = ਜਦੋਂ ਟੈਬ ਸਵਿੱਚ ਨੂੰ ਵਰਤਿਆ ਜਾਵੇ ਤਾਂ ਇਸ ਮੇਨੂ ਨੂੰ ਛੱਡੋ
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 
@@ -1277,6 +1312,17 @@ restore-session-startup-suggestion-button = ਮੈਨੂੰ ਦੇਖਾਇਓ �
 
 filepicker-blocked-infobar = ਤੁਹਾਡਾ ਸੰਗਠਨ ਨੇ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਲੋਕਲ ਫਾਇਲਾਂ ਲਈ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ਹੁਣ ਟੈਬਾਂ ਨੂੰ ਖੋਜਦਾ ਹੈ
+urlbar-addons-shortcut-moved-description = ਇਕਸਟੈਨਸ਼ਨ ਅਤੇ ਥੀਮਾਂ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ, { $addonsShortcut } ਨੂੰ ਵਰਤੋਂ।
+urlbar-addons-shortcut-moved-change-shortcuts = ਸ਼ਾਰਟਕੱਟਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+urlbar-addons-shortcut-moved-dismiss = ਸਮਝੇ
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ਆਪਣੇ-ਆਪ ਹੀ ਕੁਝ ਡਾਟਾ { -vendor-short-name } ਭੇਜਦਾ ਹੈ ਤਾਂ ਕਿ ਅਸੀਂ ਤੁਹਾਡੇ ਤਜਰਬੇ ਨੂੰ ਵਧੀਆ ਬਣਾ ਸਕੀਏ।
@@ -1301,6 +1347,10 @@ private-browsing-info-panel-description = ਇਹ ਇਸ ਡਿਵਾਈਸ ਉ�
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = { $agentName } ਵਲੋਂ ਡਾਟਾ ਨੁਕਸਾਨ ਰੋਕੂ (DLP)। ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਕਲਿੱਕ ਕਰੋ।
+content-analysis-panel-title2 = ਡਾਟਾ ਨੁਕਸਾਨ ਦੀ ਰੋਕਥਾਮ
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = ਤੁਹਾਡਾ ਸੰਗਠਨ ਸੰਵੇਦਨਸ਼ੀਲ ਡਾਟੇ ਨੂੰ ਸਾਂਝਾ ਕਰਨ ਤੋਂ ਰੋਕਣ ਲਈ <b>{ $agentName }</b> ਨੂੰ ਵਰਤਦਾ ਹੈ। <a data-l10n-name="info">ਹੋਰ ਜਾਣੋ।</a>
 content-analysis-panel-title = ਡਾਟਾ ਰੋਕੂ
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

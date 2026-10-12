@@ -82,6 +82,11 @@ menu-file-close-tab =
            *[other] { $tabCount } ਟੈਬਾਂ ਬੰਦ ਕਰੋ
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = ਬੰਦ ਕਰੋ
+    .accesskey = C
 menu-file-close-window =
     .label = ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕਰੋ
     .accesskey = d
@@ -94,6 +99,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = ਸਾਂਝਾ ਕਰੋ
     .accesskey = h
+menu-file-share-qrcode3 =
+    .label = QR ਕੋਡ ਬਣਾਓ
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = …QR ਤਿਆਰ ਕਰੋ
     .accesskey = Q
@@ -233,6 +241,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = ਅਤੀਤ ਖੋਜੋ
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = ਟੈਬਾਂ ਨੂੰ ਲੱਭੋ
 
 ## Bookmarks Menu
 
