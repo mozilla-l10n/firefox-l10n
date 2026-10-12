@@ -1140,6 +1140,10 @@ prefs-syncing-off = Synchroniseren: UIT
 prefs-syncing-off-2 =
     .description = Schakel synchronisatie in om op elk apparaat uw bladwijzers, wachtwoorden, geschiedenis en meer te ontvangen.
     .label = Synchroniseren is UIT
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Schakel synchronisatie in om uw bladwijzers, wachtwoorden, geschiedenis en meer op dit apparaat te ontvangen.
+    .label = Synchroniseren is UIT
 prefs-sync-turn-on-syncing =
     .label = Synchronisatie inschakelen…
     .accesskey = S
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = U synchroniseert deze items tussen al uw verbonden apparaten:
 sync-syncing-across-devices-heading-2 = Gegevens tussen apparaten gesynchroniseerd
+sync-syncing-across-devices-heading-3 = Gegevens die op dit apparaat worden gesynchroniseerd
 sync-syncing-across-devices-empty-state2 =
     .description = U synchroniseert niets… nog niet. Begin met synchroniseren om al uw gegevens op al uw apparaten te ontvangen.
     .label = Gesynchroniseerde gegevens beheren
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = v
     .style = min-width: 36em;
     .title = Beheren wat wordt gesynchroniseerd op al uw verbonden apparaten
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Opslaan
+    .buttonlabelextra2 = Verbinding verbreken…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Beheren wat op dit apparaat wordt gesynchroniseerd
 
 ## The device name controls.
 

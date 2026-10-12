@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klassiek venster
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name }-schakelaar
     .tooltiptext = Schakel tussen Slimme en klassieke vensters.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name }-schakelaar
+    .tooltiptext = Wisselen tussen Slimme en klassieke vensters
 
 ## Input CTA
 

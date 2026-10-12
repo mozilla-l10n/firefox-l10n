@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Breng uw eigen privé lokale chatbot mee, 
 genai-prompts-summarize =
     .label = Samenvatten
     .value = Vat de selectie samen in exacte en beschrijvende woorden. Gebruik kopteksten en opsommingslijsten in de samenvatting, om deze scanbaar te maken. Behoud de betekenis en feitelijke juistheid.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Vat de webpagina op { $url } samen in nauwkeurige en beknopte taal. Gebruik kopteksten en lijsten met opsommingstekens in de samenvatting, om deze scanbaar te maken. Behoud de betekenis en feitelijke juistheid.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Taal vereenvoudigen
@@ -233,6 +236,14 @@ link-preview-settings-key-points =
     .label = AI toestaan om het begin van de pagina te lezen en hoofdpunten aan te maken
 link-preview-settings-long-press =
     .label = Snelkoppeling: klik op de koppeling en houd deze 1 seconde ingedrukt (lang indrukken)
+highlight-to-search-settings-enable =
+    .description = Krijg snelle toegang tot nuttige acties wanneer u inhoud selecteert.
+    .label = Actiemenu tonen bij selecteren van tekst
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = { $provider } vragen
+highlight-to-search-settings-ask-generic =
+    .label = AI vragen
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Meer zien met AI?
 # Message that appears when user is shown the opt-in flow for link previews

@@ -614,3 +614,17 @@ onboarding-theme-picker-button-label = Opslaan en doorgaan
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Uitgelichte functies
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Nieuwe functies die zijn gebouwd om u te helpen meer te doen
+welcome-back-onboarding-primary-button-label = Beginnen met browsen
+welcome-back-onboarding-secondary-button-label = Ontdek wat er nog meer nieuw is
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Opgeruimde tabbladen
+welcome-back-onboarding-pill-label-vpn = Ingebouwde VPN
+welcome-back-onboarding-pill-label-pdf = PDF-hulpmiddelen
+welcome-back-onboarding-card-label-tabs = Ruim op met verticale tabbladen en groepen
+welcome-back-onboarding-card-label-vpn = Blijf anoniem met de ingebouwde VPN
+welcome-back-onboarding-card-label-pdf = Markeer, onderteken en werk met PDF’s
+welcome-back-onboarding-card-tilebutton-label = Uitproberen

@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Gereed
 default-browser-guidance-notification-v2-title = Voltooi het instellen van { -brand-short-name } als uw standaardbrowser
 default-browser-guidance-notification-v2-body = Selecteer ‘Als standaard instellen’ voor { -brand-short-name } in Instellingen.
 default-browser-guidance-notification-v2-title-only = Voltooi het instellen van { -brand-short-name } als uw standaardbrowser in Instellingen
+default-browser-guidance-notification-auto-trigger-title = Open uw koppelingen met { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Kies { -brand-short-name } als uw standaardbrowser in Instellingen.
