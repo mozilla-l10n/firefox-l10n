@@ -312,6 +312,7 @@ quickactions-savepdf = Запазване на страницата като PDF
 quickactions-cmd-savepdf2 = pdf, запазване на страници
 # Opens about:pdf, the PDF editor landing page
 quickactions-editpdf = Отваряне на PDF редактора
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Поверителен прозорец
 quickactions-cmd-private = поверително разглеждане
@@ -606,6 +607,10 @@ urlbar-result-action-copy-to-clipboard = Копиране
 urlbar-result-action-undefined-calculator-result = неопределено
 # The sub title of an add-on suggestion in the urlbar.
 urlbar-result-addons-subtitle = Разширение за { -brand-product-name }
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
+# The sub title of a Yelp suggestion in the urlbar.
+urlbar-result-yelp-subtitle = { -yelp-brand-name }
 # This string explaining that the suggestion is a recommendation.
 urlbar-result-suggestion-recommended = Препоръчанo
 # The title of a weather suggestion in the urlbar. The temperature and unit
@@ -748,6 +753,13 @@ urlbar-searchmode-button-no-engine2 =
     .title = Няма избрана клавишна комбинация, изберете една
 urlbar-searchmode-dropmarker2 =
     .title = Изберете търсеща машина
+urlbar-searchmode-tabs4 = Раздели
+urlbar-searchmode-history4 = История
+urlbar-searchmode-actions4 = Действия
+urlbar-searchmode-bookmarks3 = Отметки
+    .accesskey = О
+urlbar-searchmode-tabs3 = Раздели
+    .accesskey = Р
 urlbar-searchmode-exit-button2 =
     .title = Затваряне
 urlbar-searchmode-default2 =
@@ -760,6 +772,14 @@ urlbar-searchmode-popup-add-engine = Добавяне на „{ $engineName }“
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Този път търсете с:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = Търсене в:
+urlbar-searchmode-popup-settings2 = Настройки
+urlbar-searchmode-popup-search-settings = Настройки за търсене
+    .accesskey = т
+urlbar-searchmode-popup-settings = Настройки
+    .accesskey = Н
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -775,6 +795,12 @@ urlbar-result-action-switch-to-tabgroup = Превключване към { $gro
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Отваряне на { $group }
+
+## Used in the menu of a urlbar result.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = Отваряне в нов раздел
+    .accesskey = О
 
 ## Labels shown above groups of urlbar results
 

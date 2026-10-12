@@ -236,6 +236,8 @@ link-preview-settings-long-press =
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = Ερώτηση στο { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Ερώτηση στην ΤΝ
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Θέλετε να δείτε περισσότερα με την ΤΝ;
 # Message that appears when user is shown the opt-in flow for link previews

@@ -622,3 +622,4 @@ welcome-back-onboarding-secondary-button-label = Δείτε τι άλλο νέο
 welcome-back-onboarding-pill-label-tabs = Τακτοποίηση καρτελών
 welcome-back-onboarding-pill-label-vpn = Ενσωματωμένο VPN
 welcome-back-onboarding-pill-label-pdf = Εργαλεία PDF
+welcome-back-onboarding-card-tilebutton-label = Δοκιμή

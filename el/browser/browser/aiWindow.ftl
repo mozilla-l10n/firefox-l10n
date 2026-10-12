@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Κλασικό παράθυρο
 toolbar-switcher-customizable-label =
     .label = Εναλλαγή { -smart-window-brand-name(form: "lowerSingularGen") }
     .tooltiptext = Εναλλαγή μεταξύ έξυπνων και κλασικών παραθύρων.
+toolbar-switcher-customizable-label-v2 =
+    .label = Εναλλαγή { -smart-window-brand-name(form: "lowerSingularGen") }
+    .tooltiptext = Εναλλαγή μεταξύ έξυπνων και κλασικών παραθύρων
 
 ## Input CTA
 
