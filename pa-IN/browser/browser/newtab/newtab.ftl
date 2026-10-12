@@ -543,6 +543,13 @@ newtab-search-widget-open-menu-button =
     .aria-label = ਖੋਜ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
     .title = ਖੋਜ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = ਸੱਜਰੀਆਂ ਖੋਜਾਂ ਇੱਥੇ ਵਿਖਾਈ ਦੇਣਗੀਆਂ ਤਾਂ ਕਿ ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਮੇਂ ਵਾਪਸ ਸ਼ੁਰੂ ਕਰ ਸਕਦੇ ਹੋ।
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = ਰੁਝਾਨ ਖੋਜਾਂ ਇਸ ਵੇਲੇ ਮੌਜੂਦ ਨਹੀਂ ਹਨ।
+
 ## Strings for the Horoscopes widget
 
 # Widget heading; also the widget's accessible name.
@@ -1488,6 +1495,14 @@ newtab-promo-card-dismiss-button =
     .aria-label = ਖ਼ਾਰਜ ਕਰੋ
     .title = ਖ਼ਾਰਜ ਕਰੋ
 
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = ਕਰਾਸਵਰਡ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਕਰਾਸਵਰਡ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+
 ## Strings introduced by the Nova redesign of the Timer widget
 
 # Variables:
@@ -1801,6 +1816,7 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 # makes something yours. The call to action is to open the New Tab
 # customization panel and pick a theme or wallpaper.
 newtab-nova-customization-callout-header = { -brand-product-name } ਨੂੰ ਆਪਣੀਆਂ ਆਖਰੀ ਛੋਹਾਂ ਦਿਓ
+newtab-nova-customization-callout-message = ਹਲਕੇ ਤੇ ਗੂੜ੍ਹੇ ਥੀਮਾਂ ਅਤੇ ਵਾਲਪੇਪਰਾਂ ਨੂੰ ਵੇਖੋ, ਜੋ ਕਿ ਨਵੇਂ { -brand-product-name } ਨੂੰ ਤੁਹਾਡੇ ਮੁਤਾਬਕ ਬਣਾਉਂਦੇ ਹਨ।
 newtab-nova-customization-callout-primary-button =
     .label = ਆਪਣੀ ਦਿੱਖ ਨੂੰ ਚੁਣੋ
 

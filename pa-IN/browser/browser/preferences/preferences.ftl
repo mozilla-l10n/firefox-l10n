@@ -933,6 +933,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = ਸਿਰਸਿਰਨਾਵਾਂ ਪੱਟੀ ਨੇਵੀਗੇਸ਼ਨ
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = ਜਦੋਂ ਤੁਸੀਂ ਫੋਕਸ ਬਦਲਣ ਲਈਟ ਟੈਬ ਸਵਿੱਚ ਨੂੰ ਵਰਤਦੇ ਹੋ ਤਾਂ ਨਤੀਜੇ ਮੇਨੂ ਨੂੰ ਛੱਡੋ।
 search-suggestions-header-2 =
     .label = ਖੋਜ ਇੰਜਣ ਸੁਝਾਅ
 search-one-click-header2 = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
@@ -1136,6 +1140,10 @@ prefs-syncing-off = ਸਿੰਕ ਕਰਨਾ: ਬੰਦ ਹੈ
 prefs-syncing-off-2 =
     .description = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਲੈਣ ਲਈ ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ।
     .label = ਸਿੰਕ ਕਰਨਾ ਬੰਦ ਹੈ
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ, ਅਤੀਤ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਲੈਣ ਲਈ ਸਿੰਕ ਕਰਨ ਨੂੰ ਚਾਲੂ ਕਰੋ।
+    .label = ਸਿੰਕ ਕਰਨਾ ਬੰਦ ਹੈ
 prefs-sync-turn-on-syncing =
     .label = …ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
     .accesskey = s
@@ -1162,6 +1170,9 @@ sync-syncing-across-devices-heading-2 = ਡਾਟੇ ਨੂੰ ਡਿਵਾਈ�
 sync-syncing-across-devices-heading-3 = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਡਾਟਾ ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 sync-syncing-across-devices-empty-state2 =
     .description = ਤੁਸੀਂ ਹਾਲੇ ਕੁਝ ਵੀ ਵੀ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ…ਆਪਣੇ ਸਾਰੇ ਡਾਟੇ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲੈਣ ਲਈ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ।
+    .label = ਸਿੰਕ ਕੀਤੇ ਡਾਟੇ ਨੂੰ ਇੰਤਜ਼ਾਮ ਕਰੋ
+sync-syncing-across-devices-empty-state3 =
+    .description = ਤੁਸੀਂ ਹਾਲੇ ਕੁਝ ਵੀ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ...। ਚੁਣੋ ਕਿ ਇਸ ਡਿਵਾਈਸ 'ਤੇ ਕੀ ਸਿੰਕ ਕਰਨਾ ਹੈ।
     .label = ਸਿੰਕ ਕੀਤੇ ਡਾਟੇ ਨੂੰ ਇੰਤਜ਼ਾਮ ਕਰੋ
 sync-currently-syncing-bookmarks = ਬੁੱਕਮਾਰਕ
 sync-currently-syncing-history = ਅਤੀਤ

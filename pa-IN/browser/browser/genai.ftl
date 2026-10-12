@@ -233,6 +233,9 @@ link-preview-settings-key-points =
     .label = AI ਨੂੰ ਸਫ਼ੇ ਦੇ ਸ਼ੁਰੂ ਤੋਂ ਪੜ੍ਹਨ ਅਤੇ ਮੁੱਖ ਬਿੰਦੂ ਤਿਆਰ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ।
 link-preview-settings-long-press =
     .label = ਸ਼ਾਰਟਕੱਟ: ਲਿੰਕ ਨੂੰ 1 ਸਕਿੰਟ ਲਈ ਕਲਿੱਕ ਕਰਕੇ ਰੱਖੋ (ਲਗਾਤਾਰ ਦਬਾਈ ਰੱਖੋ)
+highlight-to-search-settings-enable =
+    .description = ਜਦੋਂ ਸਮੱਗਰੀ ਨੂੰ ਤੁਸੀਂ ਚੁਣੋ ਤਾਂ ਮਦਦਗਾਰ ਕਾਰਵਾਈਆਂ ਵਾਸਤੇ ਫ਼ੌਰੀ ਪਹੁੰਚ ਲਵੋ।
+    .label = ਜਦੋਂ ਲਿਖਤ ਨੂੰ ਚੁਣਿਆ ਜਾਵੇ ਤਾਂ ਕਾਰਵਾਈ ਮੇਨੂ ਨੂੰ ਵੇਖਾਓ
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = { $provider } ਨੂੰ ਪੁੱਛੋ
