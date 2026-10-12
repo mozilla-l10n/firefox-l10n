@@ -102,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = ਖੋਜ
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = ਕੁੰਡਲੀਆਂ
 home-prefs-mission-message2 =
     .message = ਸਾਡੇ ਸਪਾਂਸਰ ਵੈੱਬ ਨੂੰ ਹੋਰ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਸਾਡੇ ਮਕਸਦ ਲਈ ਸਹਿਯੋਗ ਦਿੰਦੇ ਹਨ।
 home-prefs-manage-topics-link2 =
@@ -165,6 +168,17 @@ home-prefs-mission-message-learn-more-link-srd = ਸਮਝੋ ਕਿ ਕਿਵ�
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = ਹੋਰ ਜਾਣੋ
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = ਪਰਦੇਦਾਰੀ ਚੋਣਾਂ
+    .title = ਪਰਦੇਦਾਰੀ ਚੋਣਾਂ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = ਪਰਦੇਦਾਰੀ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਪਰਦੇਦਾਰੀ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -328,6 +342,11 @@ newtab-privacy-message-first-protection-cta = ਸੁਰੱਖਿਆਵਾਂ ਨ
 newtab-stocks-menu-learn-more = ਹੋਰ ਜਾਣੋ
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = ਸਟਾਕ ਡਾਟਾ ਮੌਜੂਦ ਨਹੀਂ ਹੈ।
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = ਵਿੱਤੀ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਵਿੱਤੀ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -341,6 +360,9 @@ newtab-stocks-search-button =
     .aria-label = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
     .label = ਖੋਜ
     .title = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = ਤੁਹਾਡੇ ਲਈ ਮਹੱਤਵਪੂਰਨ ਸਟਾਕਾਂ ਨੂੰ ਵੇਖਣਾ ਸ਼ੁਰੂ ਕਰੋ
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -361,6 +383,9 @@ newtab-stocks-list-watchlist = ਨਿਗਰਾਨ-ਸੂਚੀ
     .label = ਨਿਗਰਾਨ-ਸੂਚੀ
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = ਵਿੱਤੀ
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -415,6 +440,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = ਖੋਜ ਨਤੀਜੇ
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = ਆਪਣੀ ਨਿਗਰਾਨ-ਸੂਚੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਚਿੰਨ੍ਹ ਜਾਂ ਕੰਪਨੀਆਂ ਨੂੰ ਲੱਭੋ
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -455,6 +483,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
     .title = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਵਾਲਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .title = ਅੱਜ ਦੀ ਤਸਵੀਰ ਵਾਲਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -484,6 +517,41 @@ newtab-picture-image-alt = ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼ ਅੱਜ
 
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = ਹੋਰ ਜਾਣੋ
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = ਸੱਜਰੀਆਂ ਖੋਜਾਂ
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = ਰੁਝਾਨ
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = { $engine } ਰਾਹੀਂ
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = ਹੁਣੇ ਹੁਣੇ
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = “{ $search }” ਨੂੰ ਸੱਜਰੀਆਂ ਖੋਜਾਂ ਵਿੱਚ ਹਟਾਓ
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = ਖੋਜ
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = ਖੋਜ ਚੋਣਾਂ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = ਖੋਜ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਖੋਜ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = ਕੁੰਡਲੀਆਂ
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = ਕੁੰਡਲੀਆਂ ਚੋਣਾਂ ਨੂੰ ਵੇਖੋ
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = ਹੋਰ ਜਾਣੋ
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -782,10 +850,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = ਕਰਾਸ-ਵਰਡ
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = ਵਿੱਤੀ
 newtab-custom-widget-stocks-toggle =
     .label = ਸਟਾਕ
 newtab-custom-widget-picture-toggle =
     .label = ਅੱਜ ਦੀ ਤਸਵੀਰ
+newtab-custom-widget-search-toggle =
+    .label = ਖੋਜ
+newtab-custom-widget-horoscopes-toggle =
+    .label = ਕੁੰਡਲੀਆਂ
 newtab-custom-widget-section-title = ਵਿਜੈੱਟ
 newtab-custom-widget-section-toggle =
     .label = ਵਿਜੈੱਟ
@@ -797,6 +872,13 @@ newtab-custom-close-menu-button =
     .aria-label = ਮੇਨ ਨੂੰ ਬੰਦ ਕਰੋ
     .title = ਬੰਦ ਕਰੋ
 newtab-custom-settings = ਹੋਰ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = ਪਸੰਦੀਦਾ ਬਣਾਉਣ ਉੱਤੇ ਵਾਪਸ ਜਾਓ
+    .title = ਪਸੰਦੀਦਾ ਬਣਾਉਣ ਉੱਤੇ ਵਾਪਸ ਜਾਓ
 
 ## New Tab Appearance (browser theme picker)
 
@@ -833,6 +915,9 @@ newtab-wallpaper-add-an-image = ਚਿੱਤਰ ਨੂੰ ਜੋੜੋ
 newtab-wallpaper-custom-color = ਰੰਗ ਨੂੰ ਚੁਣੋ
 newtab-wallpaper-toggle-title =
     .label = ਵਾਲਪੇਪਰ
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = ਵਾਲਪੇਪਰ ਦੇ ਵਰਗ
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = ਚਿੱਤਰ ਫ਼ਾਇਲ ਦਾ ਆਕਾਰ { $file_size } MB ਤੋਂ ਵੱਧ ਗਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਛੋਟੇ ਆਕਾਰ ਦੀ ਫਾਇਲ ਅੱਪਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
@@ -958,6 +1043,14 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = ਸੰਤਰੀ ਬੈਕਗਰਾਊਂਡ ਨਾਲ ਸੱਜੇ ਕੋਨੇ ਉੱਤੇ ਇੱਕ ਲੂੰਬੜ
+newtab-wallpaper-firefox-colorful-sky = ਜਾਮਨੀ ਰਾਤ ਦੇ ਅਸਮਾਨ ਦੇ ਆਰਪਾਰ ਸੰਤਰੀ ਰੰਗੀਆਂ ਲਹਿਰਾਂ
+newtab-wallpaper-firefox-desert-dark = ਗੂੜ੍ਹੇ ਜਾਮਨੀ ਥਲ ਵਿੱਚ ਬੈਠਾ ਹੋਇਆ ਕੋਈ ਲੂੰਬੜ
+newtab-wallpaper-firefox-desert-light = ਇੱਕ ਹਲਕੇ ਥਲ ਵਿੱਚੋਂ ਲੰਘ ਰਿਹਾ ਇੱਕ ਲੂੰਬੜ
+newtab-wallpaper-firefox-hills-dark = ਹਨੇਰੀਆਂ ਪਹਾੜੀਆਂ ਉੱਤੇ ਭੱਜ ਰਿਹਾ ਇੱਕ ਲੂੰਬੜ
+newtab-wallpaper-firefox-hills-light = ਚਾਨਣੀਆਂ ਪਹਾੜੀਆਂ ਉੱਤੇ ਭੱਜ ਰਿਹਾ ਇੱਕ ਲੂੰਬੜ
+newtab-wallpaper-firefox-tail-dark = ਗੂੜ੍ਹੇ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ ਲੂੰਬੜ ਦੀ ਪੁੂਛ
+newtab-wallpaper-firefox-tail-light = ਹਲਕੇ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ ਲੂੰਬੜ ਦੀ ਪੁੂਛ
 
 ## Firefox
 
