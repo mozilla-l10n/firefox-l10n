@@ -620,6 +620,8 @@ onboarding-carousel-nav =
 welcome-back-onboarding-title = Daha çok şey yapmanızı sağlayan yeni özellikler
 welcome-back-onboarding-primary-button-label = Gezinmeye başla
 welcome-back-onboarding-secondary-button-label = Diğer yeniliklere bak
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Sekmeleri düzene kavuşturun
 welcome-back-onboarding-pill-label-vpn = Yerleşik VPN
 welcome-back-onboarding-pill-label-pdf = PDF araçları
 welcome-back-onboarding-card-label-tabs = Dikey sekmeler ve gruplarla düzeni sağlayın

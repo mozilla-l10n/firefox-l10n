@@ -1311,6 +1311,17 @@ restore-session-startup-suggestion-button = Toane hoe
 
 filepicker-blocked-infobar = Jo organisaasje hat tagong ta lokale bestannen op dizze kompjûter blokkearre.
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } siket no troch ljepblêden
+urlbar-addons-shortcut-moved-description = Brûk { $addonsShortcut } om útwreidingen en tema’s te iepenjen.
+urlbar-addons-shortcut-moved-change-shortcuts = Fluchtoetsen beheare
+urlbar-addons-shortcut-moved-dismiss = Begrepen
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ferstjoerd automatysk in pear gegevens nei { -vendor-short-name }, sadat wy jo ûnderfining ferbetterje kinne.

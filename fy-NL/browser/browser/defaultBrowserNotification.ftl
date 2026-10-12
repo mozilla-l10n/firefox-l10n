@@ -42,3 +42,4 @@ default-browser-guidance-notification-dismiss = Dien
 default-browser-guidance-notification-v2-title = Foltôgje it ynstellen fan { -brand-short-name } as jo standertbrowser
 default-browser-guidance-notification-v2-body = Selektearje ‘As standert ynstelle’ foar { -brand-short-name } yn Ynstellingen.
 default-browser-guidance-notification-v2-title-only = Foltôgje it ynstellen fan { -brand-short-name } as jo standertbrowser yn Ynstellingen
+default-browser-guidance-notification-auto-trigger-title = Iepenje jo keppelingen mei { -brand-short-name }

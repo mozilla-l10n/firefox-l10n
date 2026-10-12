@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klassyk finster
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name }-skeakeler
     .tooltiptext = Skeakelje tusken Tûke en klassike finsters.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name }-skeakeler
+    .tooltiptext = Wikselje tusken Tûke en klassike finsters
 
 ## Input CTA
 

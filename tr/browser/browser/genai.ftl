@@ -235,6 +235,12 @@ link-preview-settings-key-points =
     .label = Yapay zekânın sayfanın başlangıcını okuyup önemli noktaları oluşturmasına izin ver
 link-preview-settings-long-press =
     .label = Kısayol: Bağlantıya tıklayıp 1 saniye basılı tut
+highlight-to-search-settings-enable =
+    .description = İçerik seçtiğinizde işinize yarayacak işlemlere hızlıca erişin.
+    .label = Metin seçtiğimde işlem menüsünü göster
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = { $provider } sohbet botuna sor
 highlight-to-search-settings-ask-generic =
     .label = Yapay zekâya sor
 # Title that appears when user is shown the opt-in flow for link previews
