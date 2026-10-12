@@ -801,6 +801,9 @@ urlbar-result-action-open-saved-tabgroup = Отваряне на { $group }
 urlbar-view-context-menu-open-in-tab =
     .label = Отваряне в нов раздел
     .accesskey = О
+urlbar-view-context-menu-open-in-window =
+    .label = Отваряне в нов прозорец
+    .accesskey = п
 
 ## Labels shown above groups of urlbar results
 
