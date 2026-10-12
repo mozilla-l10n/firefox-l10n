@@ -607,3 +607,24 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Dacă te răzgândeșt
 onboarding-theme-picker-title = Alege o temă
 onboarding-theme-picker-subtitle = Adaugă un plus de culoare în { -brand-short-name }.
 onboarding-theme-picker-button-label = Salvează și continuă
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Aspecte principale ale funcționalității
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Noi funcționalități create ca să te ajute să faci mai multe
+welcome-back-onboarding-primary-button-label = Începe să navighezi
+welcome-back-onboarding-secondary-button-label = Vezi ce mai este nou
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = File ordonate
+welcome-back-onboarding-pill-label-vpn = VPN încorporat
+welcome-back-onboarding-pill-label-pdf = Instrumente PDF
+welcome-back-onboarding-card-label-tabs = Fă ordine cu file și grupuri verticale
+welcome-back-onboarding-card-label-vpn = Stai ascuns(ă) cu VPN-ul încorporat
+welcome-back-onboarding-card-label-pdf = Evidențiezi, semnezi și lucrezi în PDF
+welcome-back-onboarding-card-tilebutton-label = Încearcă

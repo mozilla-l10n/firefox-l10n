@@ -84,6 +84,11 @@ menu-file-close-tab =
            *[other] Închide { $tabCount } de file
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Închide
+    .accesskey = C
 menu-file-close-window =
     .label = Închide fereastra
     .accesskey = d
@@ -96,6 +101,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Partajează
     .accesskey = h
+menu-file-share-qrcode3 =
+    .label = Creează cod QR
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = Generează cod QR…
     .accesskey = Q
@@ -235,6 +243,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Caută în istoric
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Caută în file
 
 ## Bookmarks Menu
 

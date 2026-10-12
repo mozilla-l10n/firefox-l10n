@@ -704,6 +704,10 @@ settings-keyboard-shortcuts-group =
     .label = Comenzi rapide din tastatură
 settings-keyboard-shortcuts-customkeys-link =
     .label = Personalizează comenzile rapide din tastatură
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Personalizează setările barei de adrese din Căutare
 settings-media-group =
     .label = Multimedia
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -929,6 +933,14 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = Motor de căutare implicit în ferestrele private
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = Navigare în bara de adrese
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Omite meniul de rezultate când muți focalizarea cu tasta Tab
 search-suggestions-header-2 =
     .label = Sugestii motor de căutare
 search-one-click-header2 = Comenzi rapide pentru căutări
@@ -1132,6 +1144,10 @@ prefs-syncing-off = Sincronizare: DEZACTIVATĂ
 prefs-syncing-off-2 =
     .description = Activează sincronizarea pentru marcaje, parole, istoric și multe altele pe orice dispozitiv.
     .label = Sincronizarea este dezactivată
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Activează sincronizarea ca să ai acces la marcaje, parole și istoric când treci pe acest dispozitiv.
+    .label = Sincronizarea este DEZACTIVATĂ
 prefs-sync-turn-on-syncing =
     .label = Activează sincronizarea...
     .accesskey = s
@@ -1155,8 +1171,12 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Sincronizezi aceste elemente pe toate dispozitivele tale conectate:
 sync-syncing-across-devices-heading-2 = Date sincronizate pe dispozitive
+sync-syncing-across-devices-heading-3 = Sincronizarea datelor pe acest dispozitiv
 sync-syncing-across-devices-empty-state2 =
     .description = Nu sincronizezi nimic… încă. Începe să sincronizezi ca să ai toate datele pe toate dispozitivele.
+    .label = Gestionează datele sincronizate
+sync-syncing-across-devices-empty-state3 =
+    .description = Nu sincronizezi nimic… încă. Alege ce vrei să sincronizezi pe acest dispozitiv.
     .label = Gestionează datele sincronizate
 sync-currently-syncing-bookmarks = Marcaje
 sync-currently-syncing-history = Istoric
@@ -1214,6 +1234,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = Gestionează ce se sincronizează pe toate dispozitivele tale conectate
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Salvează
+    .buttonlabelextra2 = Deconectează…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Gestionează ce se sincronizează pe acest dispozitiv
 
 ## The device name controls.
 

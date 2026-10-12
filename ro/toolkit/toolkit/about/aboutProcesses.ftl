@@ -160,6 +160,8 @@ about-processes-cpu-almost-idle = < 0,1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = inactiv
     .title = Timp total CPU: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
+about-processes-tab-cpu-almost-idle = < 0,1%
 
 ## Displaying Memory (total and delta)
 ## Variables:
