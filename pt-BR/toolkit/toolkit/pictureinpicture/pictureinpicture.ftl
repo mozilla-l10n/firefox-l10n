@@ -68,7 +68,7 @@ pictureinpicture-playback-rate-btn =
 # after selecting the subtitles button.
 pictureinpicture-subtitles-panel-accessible = Configurações de legendas
 pictureinpicture-subtitles-toggle =
-    .label = Subtítulos
+    .label = Legendas
 pictureinpicture-subtitles-label = Subtítulos
 # This string is never displayed on the window. Is intended to be announced by
 # a screen reader whenever a user opens the playback speed settings panel
