@@ -1,0 +1,48 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+name: Merge Fluent migration recipes PR
+
+on:
+  pull_request:
+    types: [closed]
+    branches: [main]
+
+permissions: {}
+
+jobs:
+  merge:
+    if: >-
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.head.ref == 'update-migration' &&
+      github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    env:
+      FM_REPO: mozilla-l10n/fluent-migrations
+    steps:
+      - name: Merge fluent-migrations PR
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_PAT }}
+          L10N_PR_URL: ${{ github.event.pull_request.html_url }}
+        run: |
+          # Find the open recipes PR linking to the merged PR, using the line
+          # written by create_recipes_pr() in .github/scripts/fluent_migration.py.
+          fm_prs=$(
+            gh pr list --repo "$FM_REPO" --state open --limit 100 \
+              --json url,headRefName,body |
+            jq -r --arg line "Migrated translations: $L10N_PR_URL" '
+              .[]
+              | select(.headRefName | startswith("move-recipes-"))
+              | select(.body | split("\n") | map(rtrimstr("\r")) | any(. == $line))
+              | .url'
+          )
+          count=$(grep -c . <<< "$fm_prs" || true)
+          if [ "$count" -ne 1 ]; then
+            echo "::error::Expected 1 open PR in $FM_REPO linking to $L10N_PR_URL, found $count. Merge the recipes PR manually."
+            exit 1
+          fi
+
+          gh pr merge "$fm_prs" --repo "$FM_REPO" --squash --delete-branch
+          echo "Merged $fm_prs"
+          echo "Merged recipes PR: $fm_prs" >> "$GITHUB_STEP_SUMMARY"

@@ -238,6 +238,7 @@ def create_recipes_pr(recipes: list[Path], l10n_pr_url: str) -> str:
     run("git", "commit", "-m", title, cwd=FM_PATH)
 
     if l10n_pr_url:
+        # merge-recipes-pr.yml looks for this exact line to find the PR to merge.
         l10n_text = f"Migrated translations: {l10n_pr_url}"
     else:
         l10n_text = "The migration didn't produce any changes in firefox-l10n."
