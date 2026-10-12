@@ -83,6 +83,9 @@ firefoxview-overview-nav = Navigare recentă
     .title = Navigare recentă
 firefoxview-overview-header = Navigare recentă
     .title = Navigare recentă
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Filele și istoricul de navigare pe toate dispozitivele
 
 ## History in this context refers to browser history
 

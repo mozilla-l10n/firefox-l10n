@@ -37,6 +37,34 @@ urlbar-identity-button2 =
             [few] Vezi informații despre site ({ $count } elemente de urmărire blocate)
            *[other] Vezi informații despre site ({ $count } de elemente de urmărire blocate)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } link
+            [few] { $count } linkuri
+           *[other] { $count } de linkuri
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, mesaje și multe altele…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Mesaje, mail și multe altele…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Partajează…
+    .accesskey = h
 urlbar-identity-button =
     .aria-label = Vezi informații despre site
 
@@ -102,6 +130,8 @@ urlbar-result-menu-tip-get-help2 = Primește ajutor
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = Respinge sugestia
     .accesskey = D
+urlbar-result-menu-remove-top-site = Elimină acest site de top
+    .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = Gestionează { -firefox-suggest-brand-name }
     .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -952,6 +982,12 @@ urlbar-view-context-menu-open-in-window2 = Deschide în fereastră nouă
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = Deschide în fereastră nouă privată
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Omite acest meniu când folosesc tasta Tab
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 
@@ -1285,6 +1321,17 @@ restore-session-startup-suggestion-button = Arată-mi cum
 
 filepicker-blocked-infobar = Organizația ta a blocat accesul la fișierele locale de pe acest calculator
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } caută acum în file
+urlbar-addons-shortcut-moved-description = Pentru a deschide extensiile și temele, folosește { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Gestionează comenzile rapide
+urlbar-addons-shortcut-moved-dismiss = Am înțeles
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } trimite automat anumite date la { -vendor-short-name } ca să îți putem îmbunătăți experiența.
@@ -1309,6 +1356,10 @@ private-browsing-info-panel-description = Ajută la a-ți menține navigarea asc
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Prevenirea pierderilor de date (PPD) de la { $agentName }. Dă clic pentru mai multe informații.
+content-analysis-panel-title2 = Prevenirea pierderilor de date
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Organizația ta folosește <b>{ $agentName }</b> pentru a controla cum pot fi partajate datele sensibile. <a data-l10n-name="info">Află mai multe</a>
 content-analysis-panel-title = Protecția datelor
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

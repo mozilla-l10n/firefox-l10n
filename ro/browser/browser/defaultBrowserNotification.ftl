@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Terminat
 default-browser-guidance-notification-v2-title = Finalizează setarea { -brand-short-name } ca browser implicit
 default-browser-guidance-notification-v2-body = Din Setări, alege opțiunea „Setează ca implicit” pentru { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Finalizează setarea  { -brand-short-name } ca browser implicit în Setări
+default-browser-guidance-notification-auto-trigger-title = Deschide linkurile cu { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Alege { -brand-short-name } ca browser implicit în Setări.

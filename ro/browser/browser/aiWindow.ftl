@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Fereastră clasică
 toolbar-switcher-customizable-label =
     .label = comutator { -smart-window-brand-name }
     .tooltiptext = Treci de la ferestre Smart la Clasice și invers.
+toolbar-switcher-customizable-label-v2 =
+    .label = Selector { -smart-window-brand-name }
+    .tooltiptext = Comută între ferestre inteligente și clasice
 
 ## Input CTA
 
@@ -79,6 +82,7 @@ smartbar-placeholder-hint-4 = Caută pe web…
 
 smartbar-mention-typing-placeholder = Etichetează o filă sau un site
 smartbar-mentions-list-no-results-label = Niciun rezultat găsit
+smartbar-mentions-list-tab-groups-label = Grupuri recente
 smartbar-mentions-list-recent-tabs-label = File recente
 
 ## Context mentions menu toggle button

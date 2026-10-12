@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Folosește un chatbot local privat, cum ar
 genai-prompts-summarize =
     .label = Rezumă
     .value = Te rog, rezumă selecția folosind un limbaj precis și concis. Folosește titluri și liste cu buline în rezumat, ca să fie ușor de înțeles. Menține înțelesul și acuratețea datelor.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Rezumă pagina de la { $url } folosind un limbaj precis și concis. Folosește anteturi și liste marcate în rezumat ca să fie ușor de citit. Menține sensul și acuratețea faptică.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Simplifică limbajul
@@ -238,6 +241,14 @@ link-preview-settings-key-points =
     .label = Permite AI să citească începutul paginii și să genereze puncte-cheie
 link-preview-settings-long-press =
     .label = Comandă rapidă: Dă clic și ține apăsat pe link 1 secundă (apăsare lungă)
+highlight-to-search-settings-enable =
+    .description = Obții acces rapid la acțiuni ajutătoare când selectezi conținut.
+    .label = Afișează meniul de acțiuni când selectez text
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Întreabă { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Întreabă AI
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vezi mai multe cu AI?
 # Message that appears when user is shown the opt-in flow for link previews
