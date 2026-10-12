@@ -24,6 +24,9 @@ smartwindow-signin-btn = Вписване
 ## Assistant Message footer
 
 aiwindow-memories-learn-more = Научете повече
+aiwindow-copy-table =
+    .aria-label = Копиране на таблицата
+    .tooltiptext = Копиране на таблицата
 aiwindow-applied-memories-list =
     .aria-label = Спомени
 

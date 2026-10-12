@@ -509,6 +509,7 @@ newtab-custom-wallpaper-cta = Опитайте
 
 ## Strings for task / to-do list productivity widget
 
+newtab-widget-task-list-menu-copy = Копиране
 newtab-widget-lists-menu-delete = Изтриване на този списък
 newtab-widget-lists-menu-learn-more = Научете повече
 newtab-widget-lists-input-menu-delete = Изтриване

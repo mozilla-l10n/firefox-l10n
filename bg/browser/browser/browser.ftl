@@ -946,6 +946,8 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = Пароли
     .tooltiptext = Преглеждайте и управлявайте запазените пароли
+qrcode-copy-button =
+    .label = Копиране
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
