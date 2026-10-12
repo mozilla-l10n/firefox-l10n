@@ -1051,6 +1051,14 @@ newtab-wallpaper-firefox-hills-dark = ਹਨੇਰੀਆਂ ਪਹਾੜੀਆ�
 newtab-wallpaper-firefox-hills-light = ਚਾਨਣੀਆਂ ਪਹਾੜੀਆਂ ਉੱਤੇ ਭੱਜ ਰਿਹਾ ਇੱਕ ਲੂੰਬੜ
 newtab-wallpaper-firefox-tail-dark = ਗੂੜ੍ਹੇ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ ਲੂੰਬੜ ਦੀ ਪੁੂਛ
 newtab-wallpaper-firefox-tail-light = ਹਲਕੇ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ ਲੂੰਬੜ ਦੀ ਪੁੂਛ
+newtab-wallpaper-firefox-side-kit-dark = ਗੂੜ੍ਹੇ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ ਖੱਬੇ ਪਾਸੇ ਇੱਕ ਲੂੰਬੜ
+newtab-wallpaper-firefox-side-kit-light = ਹਲਕੇ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ ਖੱਬੇ ਪਾਸੇ ਇੱਕ ਲੂੰਬੜ
+newtab-wallpaper-firefox-sitting-hill-dark = ਗੂੜ੍ਹੀਆਂ ਜਾਮਨੀ ਪਹਾੜੀਆਂ ਉੱਤੇ ਬੈਠਾ ਹੋਇਆ ਕੋਈ ਲੂੰਬੜ
+newtab-wallpaper-firefox-sitting-hill-light = ਚਾਨਣੀਆਂ ਪਹਾੜੀਆਂ ਉੱਤੇ ਬੈਠਾ ਹੋਇਆ ਇੱਕ ਲੂੰਬੜ
+newtab-wallpaper-firefox-peak-dark = ਗੂੜ੍ਹੇ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ, ਖੱਬੇ ਕੋਨੇ ਉੱਤੇ ਕਿਸੇ ਲੂੰਬੜ ਦਾ ਮੂੰਹ
+newtab-wallpaper-firefox-peak-light = ਹਲਕੇ ਬੈਕਗਰਾਊਂਡ ਉੱਤੇ, ਖੱਬੇ ਕੋਨੇ ਉੱਤੇ ਕਿਸੇ ਲੂੰਬੜ ਦਾ ਮੂੰਹ
+newtab-wallpaper-firefox-sky-dark = ਰਾਤ ਦੇ ਅਸਮਾਨ ਹੇਠਾਂ ਗੂੜ੍ਹੀਆਂ ਜਾਮਨੀ ਪਹਾੜੀਆਂ
+newtab-wallpaper-firefox-sky-light = ਨਰਮ ਅਸਮਾਨ ਦੇ ਹੇਠਾਂ ਚਾਨਣੀਆਂ ਪਹਾੜੀਆਂ
 
 ## Firefox
 
@@ -1074,6 +1082,11 @@ newtab-wallpaper-celestial-river = ਦਰਿਆ ਦਾ ਉਪ-ਗ੍ਰਹਿ �
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ ਸਪਾਂਸਰ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = ਮੌਸਮ ਦਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .title = ਮੌਸਮ ਦਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
 newtab-weather-menu-change-location = ਟਿਕਾਣੇ ਨੂੰ ਬਦਲੋ
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = ਟਿਕਾਣੇ ਨੂੰ ਖੋਜੋ
@@ -1352,6 +1365,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = ਚੋਣਾਂ ਦੀ ਸੂਚੀ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = ਸੂਚੀ ਮੇਨ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਸੂਚੀ ਮੇਨ ਨੂੰ ਖੋਲ੍ਹੋ
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + ਨਵੀਂ ਸੂਚੀ ਬਣਾਓ
@@ -1439,6 +1458,11 @@ newtab-widget-timer-menu-notifications-on = ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ
 newtab-widget-timer-menu-learn-more = ਹੋਰ ਜਾਣੋ
 newtab-widget-timer-menu-button =
     .aria-label = ਟਾਈਮਰ ਚੋਣਾਂ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = ਸਮੇਂ ਦੇ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਸਮੇਂ ਦੇ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = ਚੋਟੀਆਂ ਦੀਆਂ ਸੁਰਖੀਆਂ
 newtab-daily-briefing-card-menu-dismiss = ਖ਼ਾਰਜ ਕਰੋ
