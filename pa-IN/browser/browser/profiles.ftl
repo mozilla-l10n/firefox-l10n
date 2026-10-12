@@ -57,6 +57,9 @@ avatar-selector-add-image = ਚਿੱਤਰ ਨੂੰ ਜੋੜੋ
 avatar-selector-crop = ਕਰੋਪ ਕਰੋ
 avatar-selector-dialog =
     .aria-label = ਅਵਤਾਰ ਨੂੰ ਸੋਧੋ
+# Accessible name for the list of profile avatars.
+avatar-selector-icon-list =
+    .aria-label = ਅਵਤਾਰ ਨੂੰ ਚੁਣੋ
 edit-profile-page-no-name = ਇਸ ਪਰੋਫਾਈਲ ਦਾ ਨਾਂ, ਜੋ ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਲੱਭਣ ਲਈ ਸਹਾਇਕ ਹੋਵੇ। ਇਸ ਦਾ ਨਾਂ ਕਿਸੇ ਵੇਲੇ ਵੀ ਬਦਲ ਸਕਦੇ ਹੋ।
 edit-profile-page-duplicate-name = ਪਰੋਫਾਈਲ ਨਾਂ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਵੱਖਰਾ ਨਾਂ ਅਜ਼ਮਾਓ।
 edit-profile-page-profile-saved = ਸੰਭਾਲਿਆ

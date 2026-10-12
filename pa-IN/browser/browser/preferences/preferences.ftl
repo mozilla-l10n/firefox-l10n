@@ -701,6 +701,10 @@ settings-keyboard-shortcuts-group =
     .label = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ
 settings-keyboard-shortcuts-customkeys-link =
     .label = ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟਾਂ ਨੂੰ ਕਸਮਾਈਜ਼ ਕਰੋ
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = ਖੋਜ ਵਿੱਚ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਮਨਮਰਜ਼ੀ ਦਾ ਬਣਾਓ
 settings-media-group =
     .label = ਮੀਡਿਆ
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -925,6 +929,10 @@ search-separate-default-engine-2 =
     .accesskey = U
 search-separate-default-engine-dropdown =
     .aria-label = ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ ਮੂਲ ਖੋਜ ਇੰਜਣ
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = ਸਿਰਸਿਰਨਾਵਾਂ ਪੱਟੀ ਨੇਵੀਗੇਸ਼ਨ
 search-suggestions-header-2 =
     .label = ਖੋਜ ਇੰਜਣ ਸੁਝਾਅ
 search-one-click-header2 = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
@@ -1151,6 +1159,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = ਤੁਸੀਂ ਇਹ ਚੀਜ਼ਾਂ ਨੂੰ ਆਪਣੇ ਕਨੈਕਟ ਕੀਤੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਸਿੰਕ ਕਰ ਰਹੇ ਹੋ:
 sync-syncing-across-devices-heading-2 = ਡਾਟੇ ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕੀਤਾ
+sync-syncing-across-devices-heading-3 = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਡਾਟਾ ਸਿੰਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 sync-syncing-across-devices-empty-state2 =
     .description = ਤੁਸੀਂ ਹਾਲੇ ਕੁਝ ਵੀ ਵੀ ਸਿੰਕ ਨਹੀਂ ਕਰ ਰਹੇ ਹੋ…ਆਪਣੇ ਸਾਰੇ ਡਾਟੇ ਨੂੰ ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਲੈਣ ਲਈ ਸਿੰਕ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ।
     .label = ਸਿੰਕ ਕੀਤੇ ਡਾਟੇ ਨੂੰ ਇੰਤਜ਼ਾਮ ਕਰੋ
@@ -1210,6 +1219,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਹੋਣ ਵਾਲੇ ਸਿੰਕ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = ਸੰਭਾਲੋ
+    .buttonlabelextra2 = ਡਿਸ-ਕਨੈਕਟ ਕਰੋ…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਸਿੰਕ ਕੀਤੇ ਜਾਣ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 
 ## The device name controls.
 

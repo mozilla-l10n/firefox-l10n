@@ -605,3 +605,24 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = ਜੇ ਤੁਹਾਡ
 onboarding-theme-picker-title = ਥੀਮ ਨੂੰ ਚੁਣੋ
 onboarding-theme-picker-subtitle = { -brand-short-name } ਵਿੱਚ ਥੋੜ੍ਹੇ ਹੋਰ ਰੰਗ ਲਿਆਓ।
 onboarding-theme-picker-button-label = ਸੰਭਾਲੋ ਅਤੇ ਜਾਰੀ ਰੱਖੋ
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = ਫ਼ੀਚਰ ਉਘਾੜਨ
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = ਤੁਹਾਡੇ ਲਈ ਵੱਧ ਮਦਦਗਾਰ ਬਣਨ ਲਈ ਨਵੇਂ ਫ਼ੀਚਰ
+welcome-back-onboarding-primary-button-label = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
+welcome-back-onboarding-secondary-button-label = ਵੇਖੋ ਕਿ ਹੋਰ ਨਵਾਂ ਕੀ ਹੈ
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = ਟੈਬਾਂ ਨੂੰ ਬੰਦੋਬਸਤ
+welcome-back-onboarding-pill-label-vpn = ਵਿੱਚੇ ਮੌਜੂਦ VPN
+welcome-back-onboarding-pill-label-pdf = PDF ਟੂਲ
+welcome-back-onboarding-card-label-tabs = ਖੜ੍ਹਵੀਆਂ ਟੈਬਾਂ ਅਤੇ ਗਰੁੱਪਾਂ ਨਾਲ ਬੰਦੋਬਸਤ ਕਰੋ
+welcome-back-onboarding-card-label-vpn = ਵਿੱਚੇ ਮੌਜੂਦ VPN ਨਾਲ ਲੁਕਾ ਕੇ ਰੱਖੋ
+welcome-back-onboarding-card-label-pdf = PDF ਵਿੱਚ ਉਘਾੜੋ, ਦਸਤਖ਼ਤ ਕਰੋ ਅਤੇ ਹੋਰ ਕੰਮ ਕਰੋ
+welcome-back-onboarding-card-tilebutton-label = ਅਜ਼ਮਾਓ

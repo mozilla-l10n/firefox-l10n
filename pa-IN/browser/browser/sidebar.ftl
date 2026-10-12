@@ -50,6 +50,8 @@ sidebar-history-sort-option-date-and-site =
     .label = ਤਾਰੀਖ਼ ਅਤੇ ਸਾਈਟ
 sidebar-history-sort-option-last-visited =
     .label = ਪਿਛਲੀ ਵਾਰ ਖੋਲ੍ਹੋ
+sidebar-history-sort-option-most-visited =
+    .label = ਅਕਸਰ ਖੋਲ੍ਹੇ
 
 ## Labels for sidebar search
 

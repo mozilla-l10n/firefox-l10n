@@ -1795,6 +1795,15 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = ਇਹ ਥਾਂ ਤੁਹਾਡੀ ਮਰਜ਼ੀ ਨਾਲ ਚੱਲਦੀ ਹੈ
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ਤੁਹਾਨੂੰ ਤੁਹਾਡੀ ਮਰਜ਼ੀ ਮੁਤਾਬਕ ਬਰਾਊਜ਼ ਕਰਨ ਦਿੰਦਾ ਹੈ, ਤੁਹਾਡੇ ਆਨਲਾਈਨ ਦਿਨ ਨੂੰ ਤੁਹਾਡੇ ਢੰਗ ਨਾਲ ਬਣਾ ਕੇ। { -brand-product-name } ਨੂੰ ਆਪਣਾ ਬਣਾਓ।
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = { -brand-product-name } ਨੂੰ ਆਪਣੀਆਂ ਆਖਰੀ ਛੋਹਾਂ ਦਿਓ
+newtab-nova-customization-callout-primary-button =
+    .label = ਆਪਣੀ ਦਿੱਖ ਨੂੰ ਚੁਣੋ
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1875,6 +1884,17 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = ਕੋਈ ਮਿਲਦਾ ਸਮਾਂ ਖੇਤਰ ਨਹੀਂ ਹੈ
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = ਪਿੱਛੇ
+# "Clock options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button2 =
+    .aria-label = ਘੜੀਆਂ ਦੀਆਂ ਚੋਣਾਂ
+    .title = ਘੜੀਆਂ ਦੀਆਂ ਚੋਣਾਂ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = ਘੜੀ ਦੇ ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .title = ਘੜੀ ਦੇ ਮੇਨੂ ਖੋਲ੍ਹੋ
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

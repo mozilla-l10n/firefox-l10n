@@ -107,6 +107,10 @@ translations-panel-choose-language =
     .label = ਭਾਸ਼ਾ ਚੁਣੋ
 translations-panel-restore-button =
     .label = ਅਸਲ ਵੇਖਾਓ
+# The label for the target-language dropdown in the revisit view. This may need
+# to be translated differently from translations-panel-to-label to convey that
+# selecting a language will translate the page again.
+translations-panel-revisit-to-label = ਇਸ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ
 
 ## Firefox Translations language management in about:preferences.
 
