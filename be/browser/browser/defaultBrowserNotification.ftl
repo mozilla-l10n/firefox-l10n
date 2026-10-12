@@ -43,3 +43,4 @@ default-browser-guidance-notification-v2-title = Закончыце, зрабі�
 default-browser-guidance-notification-v2-body = У наладах абярыце «Зрабіць прадвызначаным» для { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Закончыце, зрабіўшы { -brand-short-name } прадвызначаным браўзерам у наладах
 default-browser-guidance-notification-auto-trigger-title = Адкрывайце спасылкі з дапамогай { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Абярыце { -brand-short-name } як прадвызначаны браўзер у наладах.
