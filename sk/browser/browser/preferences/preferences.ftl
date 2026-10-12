@@ -2124,7 +2124,7 @@ related-settings-tabs-browsing-link =
 ## AI controls page
 
 preferences-ai-controls-description = Vo { -brand-short-name(case: "loc") } máte vždy na výber, vrátane toho, či chcete používať funkcie vylepšené umelou inteligenciou. Čoskoro pribudnú ďalšie ovládacie prvky.
-preferences-ai-controls-block-ai-label = Blokovať vylepšenia pomocou AI
+preferences-ai-controls-block-ai-label = Blokovať vylepšenia umelou inteligenciou
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
 preferences-ai-controls-block-ai-description = Blokovanie znamená, že vo { -brand-short-name(case: "loc") } neuvidíte nové ani aktuálne vylepšenia umelej inteligencie, ani kontextové okná o nich. <a data-l10n-name="link">Tu nájdete viac informácií</a> o tom, čo je zahrnuté a ako ovládať tradičné funkcie strojového učenia, ako sú návrhy a odporúčania vyhľadávania.

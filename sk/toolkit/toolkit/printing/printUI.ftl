@@ -67,11 +67,11 @@ printui-backgrounds-checkbox = Vytlačiť pozadie
 # The section title.
 printui-source-label = Formát
 # Option for printing the original page.
-printui-source-radio = Originálna
+printui-source-radio = Originálna verzia
 # Option for printing just the content a user selected prior to printing.
 printui-selection-radio = Výber
 # Option for "simplifying" the page by printing the Reader View version.
-printui-simplify-page-radio = Zjednodušená
+printui-simplify-page-radio = Zjednodušená verzia
 
 ##
 
