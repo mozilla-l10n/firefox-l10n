@@ -617,6 +617,7 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = ახალი შესაძლებლობები, რომ მეტი რამ შეძლოთ
 welcome-back-onboarding-primary-button-label = დაიწყეთ გვერდების მონახულება
 welcome-back-onboarding-secondary-button-label = იხილეთ, რა სიახლეებია
 # Pill label for features that allow you to tidy up your tabs
