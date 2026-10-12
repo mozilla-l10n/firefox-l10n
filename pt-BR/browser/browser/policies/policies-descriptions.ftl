@@ -59,6 +59,7 @@ policy-DisableForgetButton = Impedir acesso ao botão "Esquecer".
 policy-DisableFormHistory = Não memorizar o histórico de pesquisas e formulários.
 policy-DisableLaunchOnLogin = Impedir que o { -brand-short-name } seja iniciado automaticamente quando o usuário entrar na conta.
 policy-DisablePrimaryPasswordCreation = Se for true, não pode ser criada uma senha principal.
+policy-DisablePasswordReveal2 = Não permitir que senhas sejam reveladas em contas salvas ou campos de senha.
 policy-DisablePasswordReveal = Não permitir que senhas sejam reveladas em contas salvas.
 policy-DisablePrivateBrowsing = Desativar a navegação privativa.
 policy-DisableProfileImport = Desativar o comando do menu para importar dados de outro navegador.
