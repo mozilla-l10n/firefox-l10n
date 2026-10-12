@@ -503,6 +503,13 @@ lapsed-user-toast-title = { -brand-product-name } კვლავ თქვე�
 lapsed-user-toast-subtitle = გაეცანით ახალ გზებს, როგორ ინახულოთ გვერდები მეტი არჩევანით, პირადულობითა და მართვის შესაძლებლობებით.
 lapsed-user-toast-whats-new-button = იხილეთ სიახლეები
 lapsed-user-toast-dismiss-button = აცილება
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = ახალი იერსახე. თავიდან დაწყების გარეშე.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = გადმოიტანეთ თქვენი სანიშნები, პაროლები და ისტორია იმ ბრაუზერიდან, რომელსაც ახლა იყენებთ.
 
 ## Refresh Firefox infobar
 ##
