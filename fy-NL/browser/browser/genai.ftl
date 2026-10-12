@@ -24,6 +24,9 @@ genai-settings-chat-localhost-links = Bring jo eigen privee lokale chatbot mei, 
 genai-prompts-summarize =
     .label = Gearfetsje
     .value = Makket in gearfetting fan de seleksje yn eksakte en beskriuwende wurden. Gebrûk kopteksten en opsommingslisten yn de gearfetting, om dizze scanber te meitsjen. Behâld de betsjutting en feitlike krektens.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Gearfetsje de website op { $url } mei presys en bûnige taal. Brûk kopteksten en opsommingstekens yn de gearfetting, om dizze scanber te meitsjen. Hâld de betsjutting en feitlike krektens yn acht.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Taal ferienfâldigje
@@ -233,6 +236,14 @@ link-preview-settings-key-points =
     .label = AI tastean om it begjin fan de side te lêzen en haadpunten oan te meitsjen
 link-preview-settings-long-press =
     .label = Fluchkeppeling: klik en hâld de keppeling 1 sekonde yndrukt (lang yndrukke)
+highlight-to-search-settings-enable =
+    .description = Krij fluch tagong ta nuttige aksjes as jo ynhâld selektearje.
+    .label = Aksjemenu by it selektearjen fan tekst toane
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = { $provider } freegje
+highlight-to-search-settings-ask-generic =
+    .label = AI freegje
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Mear sjen mei AI?
 # Message that appears when user is shown the opt-in flow for link previews

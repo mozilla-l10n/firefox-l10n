@@ -59,6 +59,7 @@ policy-DisableForgetButton = Tagong ta de knop Ferjitte foarkomme.
 policy-DisableFormHistory = Gjin syk- en formulierskiednis ûnthâlde.
 policy-DisableLaunchOnLogin = Foarkomme dat { -brand-short-name } automatysk start wurdt as de brûker oanmeldt.
 policy-DisablePrimaryPasswordCreation = Wannear true, kin gjin haadwachtwurd oanmakke wurde.
+policy-DisablePasswordReveal2 = Net tastean dat wachtwurden te sjen binne yn bewarre oanmeldingen of wachtwurdfjilden.
 policy-DisablePasswordReveal = Net tastean dat wachtwurden te sjen binne yn bewarre oanmeldingen.
 policy-DisablePrivateBrowsing = Priveenavigaasje útskeakelje.
 policy-DisableProfileImport = De menuopdracht foar it ymportearjen fan gegevens fan in oare browser út útskeakelje.

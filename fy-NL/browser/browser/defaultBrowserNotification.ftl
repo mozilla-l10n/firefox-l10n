@@ -43,3 +43,4 @@ default-browser-guidance-notification-v2-title = Foltôgje it ynstellen fan { -b
 default-browser-guidance-notification-v2-body = Selektearje ‘As standert ynstelle’ foar { -brand-short-name } yn Ynstellingen.
 default-browser-guidance-notification-v2-title-only = Foltôgje it ynstellen fan { -brand-short-name } as jo standertbrowser yn Ynstellingen
 default-browser-guidance-notification-auto-trigger-title = Iepenje jo keppelingen mei { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Kies { -brand-short-name } as jo standertbrowser yn Ynstellingen.

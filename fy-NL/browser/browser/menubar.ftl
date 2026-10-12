@@ -242,6 +242,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Skiednis trochsykje
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Ljepblêden trochsykje
 
 ## Bookmarks Menu
 

@@ -14,6 +14,15 @@ smartwindow-organize-tabs-button =
 ## groups for the window's open tabs and creates the ones the user picks.
 
 smartwindow-group-tabs-panel-heading = Sekmeleri düzenle
+# Shown while the on-device model clusters the open tabs into suggestions. It is
+# forming new groups from these tabs, not searching for tab groups that already
+# exist.
+smartwindow-group-tabs-loading = Grup önerileri için sekmeler kontrol ediliyor…
+# Shown when clustering produced no group worth suggesting.
+smartwindow-group-tabs-empty = Şu anda önerebileceğimiz sekme grubu yok. Daha sonra tekrar bakın.
+# Shown in place of suggestions when every group the model found has already
+# been created.
+smartwindow-group-tabs-all-sorted = Sekmelerinizi düzenlemeyi tamamladınız
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Tüm grupları oluştur
 smartwindow-group-tabs-suggested-heading = Önerilen gruplar

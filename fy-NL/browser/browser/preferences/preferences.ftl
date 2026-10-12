@@ -1140,6 +1140,10 @@ prefs-syncing-off = Syngronisaasje: ÚT
 prefs-syncing-off-2 =
     .description = Skeakelje syngronisaasje yn om op elk apparaat jo blêdwizers, wachtwurden, skiednis en mear te ûntfangen.
     .label = Syngronisearjen is ÚT
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Skeakelje syngronisaasje yn om jo blêdwizers, wachtwurden, skiednis en mear op dit apparaat te krijen.
+    .label = Syngronisearjen is ÚT
 prefs-sync-turn-on-syncing =
     .label = Syngronisaasje ynskeakelje…
     .accesskey = S
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Jo syngronisearje dizze items tusken al jo ferbûne apparaten:
 sync-syncing-across-devices-heading-2 = Gegevens tusken apparaten syngronisearre
+sync-syncing-across-devices-heading-3 = Gegevens dy’t op dit apparaat syngronisearre wurde
 sync-syncing-across-devices-empty-state2 =
     .description = Jo syngronisearje neat… noch net. Begjin mei syngronisearjen om al jo gegevens op al jo apparaten te ûntfangen.
     .label = Syngronisearre gegevens beheare
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = f
     .style = min-width: 36em;
     .title = Beheare wat syngronisearre wurdt op al jo ferbûne apparaten
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Bewarje
+    .buttonlabelextra2 = Ferbining ferbrekke…
+    .buttonaccesskeyaccept = S
+    .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Beheare wat op dit apparaat syngronisearre wurdt
 
 ## The device name controls.
 
