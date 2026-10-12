@@ -1335,6 +1335,9 @@ private-browsing-info-panel-description = ეს გეხმარებათ 
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = მონაცემთა დაკარგვის არიდებას (DLP) უზრუნველყოფს { $agentName }. დაწკაპეთ ვრცლად სანახავად.
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = თქვენს დაწესებულებაში გამოიყენება <b>{ $agentName }</b> საფრთხილო მონაცემთა განკარგვისთვის გაზიარებისას. <a data-l10n-name="info">ვრცლად</a>
 content-analysis-panel-title = მონაცემთა დაცვა
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
