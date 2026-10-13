@@ -40,3 +40,9 @@ site-data-removing-dialog =
 site-data-removing-header = Seikdatņu un lopys datu dziešona
 site-data-removing-desc = Seikdatņu un lopys datu dziešona var nūvest pi izalūgōšonōs nu škārsteika lopom. Tu vyssvīns gribi veikt izmaiņas?
 site-data-removing-table = Seikdatnes un lopys dati nu sekojušom lopom tiks dzāstas
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Dzēst vysas seikdatnes un lopu datus
+site-data-clear-all-prompt-text = Ka izavieliesi "Ņiuļa dzēst", tu dziessi vysas seikdatnes un lopu datus, kuri globojās { -brand-short-name }. Tys var nūvest pi izalūgōšonōs nu škārsteikla lopom un dzēst bezsaistes datus.
+site-data-clear-all-prompt-button = Ņiuļa dzēst
