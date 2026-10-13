@@ -1142,7 +1142,7 @@ prefs-syncing-off-2 =
     .label = La synchronisation est DÉSACTIVÉE
 # This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
 prefs-syncing-off-3 =
-    .description = Activez la synchronisation pour obtenir vos marque-pages, mots de passe, historique et plus encore sur cet appareil.
+    .description = Activez la synchronisation pour récupérer vos marque-pages, mots de passe, historique et plus encore sur cet appareil.
     .label = La synchronisation est DÉSACTIVÉE
 prefs-sync-turn-on-syncing =
     .label = Activer la synchronisation…
@@ -1167,7 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Vous synchronisez ces éléments entre tous vos appareils connectés :
 sync-syncing-across-devices-heading-2 = Données synchronisées entre les appareils
-sync-syncing-across-devices-heading-3 = Synchronisation des données sur cet appareil
+sync-syncing-across-devices-heading-3 = Données synchronisées sur cet appareil
 sync-syncing-across-devices-empty-state2 =
     .description = Vous ne synchronisez rien… pour l’instant. Lancez la synchronisation pour accéder à toutes vos données sur l’ensemble de vos appareils.
     .label = Gérer les données synchronisées
