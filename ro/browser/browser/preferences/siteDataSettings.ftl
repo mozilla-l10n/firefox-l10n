@@ -52,3 +52,9 @@ site-data-removing-desc = Eliminarea cookie-urilor și a datelor site-urilor te-
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Eliminarea cookie-urilor și a datelor site-urilor te-ar putea deconecta de pe site-uri web. Sigur vrei să elimini cookie-urile și datele site-urilor pentru <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Vor fi eliminate cookie-urile și datele site-urilor pentru următoarele site-uri web
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Șterge toate cookie-urile și datele site-urilor
+site-data-clear-all-prompt-text = Selectarea opțiunii „Șterge acum” va șterge toate cookie-urile și datele site-urilor stocate de { -brand-short-name }. Te poate deconecta de pe site-uri web și va elimina conținutul web offline.
+site-data-clear-all-prompt-button = Șterge acum
