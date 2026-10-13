@@ -24,9 +24,6 @@ genai-settings-chat-localhost-links = Utilisez votre propre chatbot privé local
 genai-prompts-summarize =
     .label = Résume
     .value = Résume le texte sélectionné en utilisant une formulation précise et concise. Utilise des en-têtes et des listes à puces dans le résumé, afin qu’il soit facilement lisible. Conserve le sens et la véracité des faits.
-# Prompt purpose: help users understand what a webpage covers at a glance
-# $url (string) - address of the webpage to summarize
-genai-prompts-summarize-page = Veuillez résumer l’adresse web à l’adresse { $url } en utilisant des termes précis et concis. Utilisez les en-têtes et les listes à puces dans le résumé, pour le rendre lisible. Préservez le sens et l’exactitude des faits.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Simplifie la formulation
