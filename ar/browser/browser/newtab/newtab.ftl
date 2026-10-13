@@ -88,6 +88,8 @@ home-prefs-mission-message2 =
     .message = يدعم رعاتنا مهمتنا في بناء شبكة إنترنت أفضل.
 home-prefs-manage-topics-link2 =
     .label = أدِر المواضيع
+home-prefs-manage-widgets-link =
+    .label = أدر الويدجات
 home-prefs-choose-wallpaper-link2 =
     .label = اختر خلفية
 home-prefs-firefox-logo-header =
@@ -152,6 +154,15 @@ home-prefs-mission-message-learn-more-link-srd = اكتشف كيف
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = اطّلع على المزيد
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -205,10 +216,42 @@ newtab-privacy-message-first-protection-cta = اطّلع على الحمايات
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = اطّلع على المزيد
 
+## Strings for the Finance widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Finance widget watchlist add and remove controls
+
+
+## Finance widget ticker search
+
+
 ## Strings for the Picture of the Day widget
 
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = اطّلع على المزيد
+
+## Strings for the Search widget
+
+
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
+## Strings for the Horoscopes widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -255,6 +298,9 @@ newtab-topsites-image-url-label = مسار الصورة المخصصة
 newtab-topsites-use-custom-image-link = استخدم صورة مخصصة
 newtab-topsites-use-image-link = استخدم صورة مخصصة…
 newtab-topsites-image-validation = فشل تحميل الصورة. جرّب مسارا آخر.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = امحُ النص
 
@@ -420,6 +466,9 @@ newtab-discovery-empty-section-topstories-loading = يحمّل…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = آخ. أوشكنا على تحميل هذا القسم، لكن للأسف لم يكتمل.
 
+## Strings for the story cards carousel
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -475,6 +524,12 @@ newtab-custom-close-menu-button =
     .title = أغلق
 newtab-custom-settings = أدِر المزيد من الإعدادات
 
+## Customization Menu
+
+
+## New Tab Appearance (browser theme picker)
+
+
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -505,6 +560,11 @@ newtab-wallpaper-dark-mountain = منظر جبلي
 newtab-wallpaper-dark-city = منظر المدينة الأرجواني
 newtab-wallpaper-dark-fox-anniversary = ثعلب على الرصيف بالقرب من الغابة
 newtab-wallpaper-light-fox-anniversary = ثعلب في حقل عشبي مع منظر جبلي ضبابي
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
 
 ## Solid Colors
 
@@ -565,6 +625,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 
 ## Firefox
 
@@ -690,6 +753,9 @@ newtab-custom-wallpaper-cta = جربه
 newtab-new-user-custom-wallpaper-title = اختر خلفية شاشة لتجعل { -brand-product-name } خاصًا بك
 newtab-new-user-custom-wallpaper-subtitle = اجعل كل لسان جديد يشعرك وكأنك في بيتك مع خلفيات وألوان مخصّصة.
 newtab-new-user-custom-wallpaper-cta = جرّبه الآن
+
+## Strings for Nova wallpaper feature highlight
+
 
 ## Strings for download mobile highlight
 
@@ -857,6 +923,9 @@ newtab-promo-card-dismiss-button =
     .aria-label = أهمِل
     .title = أهمِل
 
+## Crossword widget
+
+
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-pause-aria =
@@ -886,6 +955,28 @@ newtab-widget-timer-celebration-message-break = أمستعد للتركيز؟
 newtab-sports-widget-menu-learn-more = اطّلع على المزيد
 newtab-sports-widget-skip = تخطَّ
 
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
+
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -907,6 +998,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = هذه المساحة تلتزم بقواعدك
 newtab-activation-window-message-values-focus-message = يتيح لك { -brand-product-name } التصفح بالطريقة التي تُفضّلها، مع تجربة شخصية أكثر لبدء يومك على الإنترنت. اجعل { -brand-product-name } خاصًا بك.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 
