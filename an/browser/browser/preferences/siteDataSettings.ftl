@@ -52,3 +52,9 @@ site-data-removing-desc = Borrar las cookies y los datos d'o puesto puede sacar-
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = La supressión d'as cookies y d'os datos de webs pueden fer-te desconnectar de bella pachina web. Yes seguro que quiers borrar las cookes y los datos d'os webs pa <strong>{ $baseDomain }</strong> ?
 site-data-removing-table = Se van a borrar las cookies y datos d'o puesto d'os siguients puestos web
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Limpiar totas las cookies y datos d'o puesto
+site-data-clear-all-prompt-text = Si seleccionas ‘Limpiar agora’ se limpiarán totas las cookies y datos d'o puesto almagazenaus per { -brand-short-name }. Esto puede fer-te salir d'a sesión en bells puestos web y eliminar conteniu web offline.
+site-data-clear-all-prompt-button = Borrar agora

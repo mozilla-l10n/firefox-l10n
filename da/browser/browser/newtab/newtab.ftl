@@ -100,6 +100,8 @@ home-prefs-mission-message2 =
     .message = Vores sponsorer støtter vores mission om at bygge et bedre internet.
 home-prefs-manage-topics-link2 =
     .label = Håndter emner
+home-prefs-manage-widgets-link =
+    .label = Håndter widgets
 home-prefs-choose-wallpaper-link2 =
     .label = Vælg en baggrund
 home-prefs-firefox-logo-header =
@@ -155,6 +157,12 @@ home-prefs-mission-message-learn-more-link-srd = Find ud af hvordan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Læs mere
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
 ## Privacy widget — Enhanced Tracking Protection off state
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
@@ -182,6 +190,12 @@ newtab-privacy-message-promo-monitor-1-cta = Læs mere
 newtab-privacy-message-promo-monitor-2-cta = Læs mere
 newtab-privacy-message-promo-signin-1-cta = Log ind
 newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
 
 ## Strings for the Finance widget
 
@@ -220,6 +234,9 @@ newtab-stocks-list-watchlist = Overvågningsliste
     .label = Overvågningsliste
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Søg efter navn eller symbol
+
+## Strings for the Finance widget
+
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -356,8 +373,17 @@ newtab-recent-searches-just-now = Nu
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Fjern "{ $search }" fra seneste søgninger
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søgning
+
+## Recent searches widget — empty states
+
+
+## Strings for the Horoscopes widget
+
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -412,6 +438,9 @@ newtab-topsites-image-url-label = URL til selvvalgt billede
 newtab-topsites-use-custom-image-link = Brug selvvalgt billede
 newtab-topsites-use-image-link = Brug selvvalgt billede…
 newtab-topsites-image-validation = Kunne ikke indlæse billede. Prøv en anden URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Ryd tekst
 
@@ -840,6 +869,9 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
+## Firefox wallpaper descriptions used for screen readers
+
+
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
@@ -1236,6 +1268,9 @@ newtab-promo-card-dismiss-button =
     .aria-label = Afvis
     .title = Afvis
 
+## Crossword widget
+
+
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-pause-aria =
@@ -1519,6 +1554,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Denne plads følger dine regler
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 

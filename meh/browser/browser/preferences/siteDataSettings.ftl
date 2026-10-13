@@ -49,3 +49,7 @@ site-data-removing-dialog =
 site-data-removing-header = Xina cookies ji datos sitio
 site-data-removing-desc = De xita cookies ji datos da nuu kuvi nakasɨ da sesiones teku. ¿A mana kuvinu sá´ánu ya'a?
 site-data-removing-table = Da cookies ji datos da nuu web naa
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-button = Sá´á noo ntañu´u

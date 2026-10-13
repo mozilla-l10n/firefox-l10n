@@ -52,3 +52,9 @@ site-data-removing-desc = Emboguetéramo Kookie ha tenda mba’ekuaarã ikatu nd
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Embogue umi kookie ha emboty mba’ekuaarãkuéra tenda pegua ñanduti rendápe. ¿Emboguesépa añetehápe umi kookie ha <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Emboguetéta Kookie ha tenda mba’ekuaarã ko’ã ñanduti rendágui
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Emopotĩ kookie ha tenda mba’ekuaarã
+site-data-clear-all-prompt-text = Eiporavóvo ‘Emopotĩ ko’ág̃a’ omboguéta opaite kookie ha tenda mba’ekuaarã { -brand-short-name } pe ñembyatypyre. Kóva ikatu omboty ne rembiapo ijurujáva tenda mba’ekuaarãme ha avei ombogue ñanduti retepy jeikekatu’ỹre.
+site-data-clear-all-prompt-button = Emopotĩ ko’ág̃a

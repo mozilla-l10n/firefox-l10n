@@ -52,3 +52,9 @@ site-data-removing-desc = Küpsiste ja saitide andmete kustutamine võib põhjus
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Küpsiste ja saitide andmete kustutamine võib põhjustada saitidest väljalogimise. Kas oled kindel, et soovid kustutada saidi <strong>{ $baseDomain }</strong> küpsised ja andmed?
 site-data-removing-table = Järgmiste saitide küpsised ja andmed kustutatakse
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Küpsiste ja saidi andmete kustutamine
+site-data-clear-all-prompt-text = Klõpsates nupul ‘Kustuta’, kustutatakse kõik { -brand-short-name }i salvestatud küpsised ja saitide andmed. See tegevus võib sind välja logida saitidest ja eemaldada võrguta režiimis kasutamiseks mõeldud sisu.
+site-data-clear-all-prompt-button = Kustuta

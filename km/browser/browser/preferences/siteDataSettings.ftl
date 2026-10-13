@@ -48,3 +48,8 @@ site-data-removing-dialog =
 site-data-removing-header = ការលុបចេញខូឃី និងទិន្នន័យគេហទំព័រ
 site-data-removing-desc = ការលុបខូឃី និងទិន្នន័យ​គេហទំព័រ​អាចចុះឈ្មោះអ្នកចេញពី​គេហទំព័រ។ តើអ្នកប្រាកដថាអ្នកចង់ធ្វើការផ្លាស់ប្តូរទេ?
 site-data-removing-table = ខូឃី និងទិន្នន័យ​គេហទំព័រ​សម្រាប់តំបន់បណ្ដាញខាងក្រោមនឹងត្រូវបានលុបចោល
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = សម្អាតឃូគីនិង​ទិន្នន័យ​គេហទំព័រ​ទាំងអស់
+site-data-clear-all-prompt-button = សម្អាត​ឥឡូវនេះ

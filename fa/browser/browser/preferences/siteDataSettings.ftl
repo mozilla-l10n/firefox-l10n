@@ -52,3 +52,9 @@ site-data-removing-desc = حذف کلوچک‌ها و داده‌های پایگ
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = حذف کلوچک‌ها و داده‌های پایگاه ممکن است شما را از وبگاه‌ها خارج کند. آیا مطئنید که می‌خواهید کلوچک‌ها و داده‌های پایگاه <strong>{ $baseDomain }</strong> حذف کنید؟
 site-data-removing-table = کلوچک‌ها و داده‌های پایگاه برای وبگاه‌های مقابل حذف خواهند شد
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = حذف تمامی کلوچک‌ها و داده‌های پایگاه
+site-data-clear-all-prompt-text = با کلیک بر روی «حذف» تمامی کلوچک‌ها و داده‌های پایگاهی که توسط { -brand-short-name } ذخیره شده‌اند پاک خواهند شد. این امر ممکن است شما را از حساب کاربری خود در وبگاه مربوطه خارج و محتوای وب برون‌خط را بردارد.
+site-data-clear-all-prompt-button = حذف

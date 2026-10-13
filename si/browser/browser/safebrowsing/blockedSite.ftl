@@ -9,3 +9,45 @@ safeb-blocked-malware-page-title = මෙම අඩවියට ගොඩවැ�
 safeb-palm-advisory-desc = උපදේශනය <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = ආපසු යන්න
 safeb-palm-see-details-label = විස්තර බලන්න
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = මෙය කූට අඩවියක් නොවේ
+safeb-report-false-deceptive-error-message = මේ මොහොතේ මෙම දෝෂය වාර්තා කළ නොහැකිය.

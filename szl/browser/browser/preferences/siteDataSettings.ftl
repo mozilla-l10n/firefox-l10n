@@ -52,3 +52,9 @@ site-data-removing-desc = Wyciepanie cookies i danych strōn może cie wylogowa�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Skasowanie cookies i danych strōn może cie wylogować z niykerych strōn. Na zicher chcesz skasować cookies i dane strōny <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Na tych strōnach cookies i dane strōn bydōm wyciepane
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Wypucuj wszyskie cookies i dane strōn
+site-data-clear-all-prompt-text = Jak ôbieresz "Pucuj teroz", to wypucujesz wszyskie cookies i dane strōn schrōniōne w aplikacyji { -brand-short-name }. To cie może wylogować ze strōn i wyciepać zawartość offline.
+site-data-clear-all-prompt-button = Pucuj teroz

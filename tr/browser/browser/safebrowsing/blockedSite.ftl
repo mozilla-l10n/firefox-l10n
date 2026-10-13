@@ -23,15 +23,43 @@ safeb-palm-see-details-label = Ayrıntıları göster
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> sitesinin <a data-l10n-name='error_desc_link'>aldatıcı site olduğu rapor edildi</a>. Böyle olmadığını düşünüyorsanız <a data-l10n-name='report_detection'>bunu bildirin</a> veya <a data-l10n-name='ignore_warning_link'>tehlikeyi göze alarak</a> güvensiz olan bu siteyi ziyaret edin.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> sitesinin <a data-l10n-name='error_desc_link'>aldatıcı site olduğu rapor edildi</a>. Böyle olmadığını düşünüyorsanız <a data-l10n-name='report_detection'>bunu bildirin</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> sitesinden aldatıcı siteler ve yemleme hakkında daha fazla bilgiye ulaşabilirsiniz. { -brand-short-name } tarayıcısının yemleme ve zararlı yazılım koruması hakkında daha fazla bilgiye <a data-l10n-name='firefox_support'>support.mozilla.org</a> adresinden ulaşabilirsiniz.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> sitesinin <a data-l10n-name='error_desc_link'>zararlı yazılım içerdiği rapor edildi</a>. <a data-l10n-name='ignore_warning_link'>Tehlikeyi göze alıp</a> güvensiz olan bu siteyi ziyaret edebilirsiniz.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> sitesinin <a data-l10n-name='error_desc_link'>zararlı yazılım içerdiği rapor edildi</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = { -brand-short-name } tarayıcısının yemleme ve zararlı yazılım koruması hakkında daha fazla bilgiye <a data-l10n-name='firefox_support'>support.mozilla.org</a> adresinden ulaşabilirsiniz.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> sitesinin <a data-l10n-name='error_desc_link'>zararlı yazılım içerdiği rapor edildi</a>. <a data-l10n-name='ignore_warning_link'>Tehlikeyi göze alıp</a> güvensiz olan bu siteyi ziyaret edebilirsiniz.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> sitesinin <a data-l10n-name='error_desc_link'>zararlı yazılım içerdiği rapor edildi</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = <a data-l10n-name='learn_more_link'>İstenmeyen Yazılım Politikası</a>’ndan zararlı ve istenmeyen yazılımlar hakkında daha fazla bilgiye ulaşabilirsiniz. <a data-l10n-name='firefox_support'>support.mozilla.org</a> adresinden { -brand-short-name } yemleme ve kötü amaçlı yazılım koruması hakkında daha fazla bilgi alabilirsiniz.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> sitesinin <a data-l10n-name='error_desc_link'>potansiyel zararlı uygulama içerdiği rapor edildi</a>. <a data-l10n-name='ignore_warning_link'>Tehlikeyi göze alarak</a> güvensiz olan bu siteyi ziyaret edin.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> sitesinin <a data-l10n-name='error_desc_link'>potansiyel zararlı uygulama içerdiği rapor edildi</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = { -brand-short-name } tarayıcısının yemleme ve zararlı yazılım koruması hakkında daha fazla bilgiye <a data-l10n-name='firefox_support'>support.mozilla.org</a> adresinden ulaşabilirsiniz.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> a
 safeb-blocked-addon-page-error-desc3-override = <strong>Ne yapabilirsiniz?</strong>
 safeb-blocked-addon-page-error-desc4-override = Bunu tekrar yaşamamak için <strong>{ $addonName }</strong> eklentisini about:addons sayfasından kaldırabilir veya devre dışı bırakabilirsiniz.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>{ -brand-short-name } tarayıcısının zararlı eklenti koruması hakkında daha fazla bilgi alın</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = Bu site aldatıcı değil
+safeb-report-false-deceptive-error-message = Şu anda bu hatayı bildirmek mümkün değil.

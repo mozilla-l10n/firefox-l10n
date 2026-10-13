@@ -7,13 +7,10 @@
 
 site-data-settings-window =
     .title = কুকি এবং সাইট ডাটা ব্যবস্থাপনা
-
 site-data-settings-description = নিম্নোক্ত ওয়েবসাইট আপনার কম্পিউটারে কুকিজ এবং সাইট ডেটা সঞ্চয় করে। { -brand-short-name } ওয়েবসাইট থেকে স্থায়ী স্টোরেজ সহ ডেটা জমা রাখে, যতক্ষণ না আপনি এটি মুছে ফেলেন, এবং অস্থায়ী স্টোরেজ সহ ওয়েবসাইট থেকে ডেটা মুছে ফেলা হয় যখন স্থানের প্রয়োজন হয়।
-
 site-data-search-textbox =
     .placeholder = ওয়েবসাইট অনুসন্ধান
     .accesskey = S
-
 site-data-column-host =
     .label = সাইট
 site-data-column-cookies =
@@ -22,15 +19,12 @@ site-data-column-storage =
     .label = স্টোরেজ
 site-data-column-last-used =
     .label = সর্বশেষ ব্যবহৃত
-
 site-data-remove-selected =
     .label = নির্বাচিতদের অপসারণ
     .accesskey = R
-
 site-data-remove-all =
     .label = সব অপসারণ
     .accesskey = e
-
 site-data-remove-shown =
     .label = প্রদর্শিত সব কিছু অপসারণ
     .accesskey = e
@@ -40,9 +34,12 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = অপসারণ
-
 site-data-removing-header = কুকিজ এবং সাইট ডাটা মুছা হচ্ছে
-
 site-data-removing-desc = কুকি এবং সাইটের তথ্য অপসারণ করলে, আপনি ওয়েবসাইট থেকে লগআউট হয়ে যাবেন। আপনি কি এই পরিবর্তন করতে চান?
-
 site-data-removing-table = এই সাইটগুলোর জন্য কুকি এবং সাইট ডাটা মুছে দেওয়া হবে
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = সব কুকিজ এবং সাইট ডেটা পরিস্কার কর
+site-data-clear-all-prompt-text = আপনি ‘এখন পরিষ্কার করুন’ নির্বাচন করলে { -brand-short-name } এর দ্বারা সংরক্ষিত সব কুকিজ এবং সাইট ডাটা মুছে যাবে। এতে করে আপনি বিভিন্ন ওয়েবসাইট থেকে লগ আউট হয়ে যাবেন এবং অফলাইন ওয়েব কনটেন্ট মুছে যাবে।
+site-data-clear-all-prompt-button = মুছে ফেল

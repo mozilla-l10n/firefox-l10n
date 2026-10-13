@@ -49,3 +49,9 @@ site-data-removing-dialog =
 site-data-removing-header = Pagtanggal sa mga Cookie at Site Data
 site-data-removing-desc = Maaari kang ma-log out sa website kapag nagtanggal ka ng mga cookie at site data. Sigurado ka na bang gawin ang mga pagbabagong ito?
 site-data-removing-table = Ang mga cookie at site data sa mga sumusunod na website ay tatanggalin
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Burahin lahat ng mga cookie at site data
+site-data-clear-all-prompt-text = Kapag pinili ang ‘Burahin ngayon’ buburahin ang lahat ng mga cookie at site data na naitago ng { -brand-short-name }. Maari kang ma-sign out sa mga website at buburahin ang mga offline web content.
+site-data-clear-all-prompt-button = Burahin Ngayon

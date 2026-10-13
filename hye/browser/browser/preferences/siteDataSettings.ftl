@@ -52,3 +52,9 @@ site-data-removing-desc = Նշոցիկների եւ կայքի տուեալնե�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Հեռացնելով նշոցիկները եւ կայքի տուեալները, հնարաւոր է կայքից հաշուի ինքաշխատ հեռացում։ Ցանկանո՞ւմ էք հեռացնել նշոցիկները ու կայքի տուեալները <strong>{ $baseDomain }</strong> ֊ի համար։
 site-data-removing-table = Նշոցիկների եւ կայքերի տուեալները հետեւեալ կայքերի համար կը ջնջուեն։
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Մաքրել բոլոր նշոցիկները եւ կայքի տուեալները
+site-data-clear-all-prompt-text = Եթե ընտրէք ‘Մաքրել հիմա’՝ բոլոր նշոցիկները եւ կայքի տուեալները կմաքրուեն { -brand-short-name }-ի կողմից։ Դա կարող է հանգեցնել կայքերից Ձեր դուրս գրուելուն եւ անցանց բովանդակութեան ջնջմանը։
+site-data-clear-all-prompt-button = Մաքրել հիմա

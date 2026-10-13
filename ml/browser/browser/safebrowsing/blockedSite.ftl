@@ -18,4 +18,42 @@ safeb-palm-see-details-label = വിശദാംശങ്ങൾ കാണുക
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ദോഷകരമായ സോഫ്റ്റവെയർ അടിങ്ങിയിരിക്കുന്നതായി <a data-l10n-name='error_desc_link'>റിപ്പോർട്ട് ചെയ്യപ്പെട്ടിരിക്കുന്നു</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = ഇത് വഞ്ചനാപരമായ സൈറ്റല്ല
+safeb-report-false-deceptive-error-message = ഇപ്പോൾ ഈ പിശക് റിപ്പോർട്ടുചെയ്യാൻ സാധ്യമല്ല.

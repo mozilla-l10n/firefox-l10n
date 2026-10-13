@@ -42,3 +42,9 @@ site-data-removing-dialog =
 site-data-removing-header = Kwanyo Angija ki Data me kakube
 site-data-removing-desc = Kwanyo angija ki data me kakube twero kwanyi woko ki ii kakube. Imoko ada ni imito timo alokaloka?
 site-data-removing-table = Ki bikwanyo woko angija ki data me kakube pi kakube magi
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Jwa angija weng ki data me kakube
+site-data-clear-all-prompt-text = Yero ‘Jwa kombedi’ bi jwano angija ki data me kakube weng ma { -brand-short-name } ogwoko. Man twero kwanyi woko ki ii kakube ki kwanyo jami me kakube mape iwiyamo.
+site-data-clear-all-prompt-button = Jwa Kombedi

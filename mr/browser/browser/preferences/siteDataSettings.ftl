@@ -49,3 +49,9 @@ site-data-removing-dialog =
 site-data-removing-header = कुकीज आणि साईट माहिती काढून टाकत आहे
 site-data-removing-desc = कुकीज आणि साईट माहिती काढून टाकल्याने आपण संकेतस्थळावरून लॉग आऊट होऊ शकता. आपणास खात्रीने बदल करायचे आहेत?
 site-data-removing-table = खालील संकेतस्थळावरून कुकीज आणि साईट माहिती काढण्यात येईल
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = सर्व कूकीज आणि साईट माहिती नष्ट करा
+site-data-clear-all-prompt-text = ‘नष्ट करा’ निवडल्यास { -brand-short-name } मध्ये साठवलेल्या सर्व कुकिज आणि साट्सची माहिती नष्ट होईल. यामुळे आपण वेब साईट्स मधुन साइन आउट हो शकता आणि आपली ऑफलाईन माहिती नष्ट होईल.
+site-data-clear-all-prompt-button = आत्ता नष्ट करा

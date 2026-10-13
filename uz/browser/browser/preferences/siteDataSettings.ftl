@@ -27,3 +27,9 @@ site-data-remove-selected =
 site-data-removing-header = Kuki va sayt ma’lumotlari olib tashlanmoqda
 site-data-removing-desc = Kuki va sayt ma’lumotlarini tozalasangiz, saytlardagi hisobdan chiqarilishingiz mumkin. O‘zgarishlarni amalga oshirishga rozimisiz?
 site-data-removing-table = Quyidagi saytlar kuki va ma’lumotlari olib tashlanadi
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Barcha kuki va sayt ma’lumotlarini tozalash
+site-data-clear-all-prompt-text = "Tozalash" tugmasini bossangiz, { -brand-short-name } joylagan sayt ma’lumotlari va kukilari o‘chiriladi. Saytlardagi hisobingizchan chiqarilishingiz va oflayn kontentlarning tozalanishiga sabab bo‘ladi.
+site-data-clear-all-prompt-button = Tozalash

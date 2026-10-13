@@ -42,3 +42,9 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = നീക്കംചെയ്യുക
 site-data-removing-header = വെബിട ദത്തയും കുക്കികളും മാറ്റുന്നു
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = എല്ലാ കുക്കികളും സൈറ്റ് ഡാറ്റയും മായ്ക്കുക
+site-data-clear-all-prompt-text = ‘ഇപ്പോൾ മായ്ക്കുക’ എന്നത് തിരഞ്ഞെടുക്കുന്നത്, { -brand-short-name }ലെ എല്ലാ കുക്കികളും സൈറ്റ് ഡാറ്റയും മായ്ക്കും. ഇത് നിങ്ങളെ വെബ്സൈറ്റുകളിൽ നിന്ന് സൈൻ ഔട്ട് ചെയ്യാനും ഓഫ്ലൈൻ വെബ് ഉള്ളടക്കം നീക്കം ചെയ്യാനും ഇടയുണ്ട്.
+site-data-clear-all-prompt-button = ഇപ്പോള്‍ മായ്ക്കുക

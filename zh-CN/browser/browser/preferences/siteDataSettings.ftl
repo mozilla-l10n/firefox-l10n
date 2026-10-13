@@ -52,3 +52,9 @@ site-data-removing-desc = 移除 Cookie 和网站数据可能使您的网站登�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = 移除 Cookie 和网站数据后，可能会退出登录大部分网站。确定要移除 <strong>{ $baseDomain }</strong> 的 Cookie 和网站数据吗？
 site-data-removing-table = 下列网站的 Cookie 和网站数据将被移除
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = 清除所有 Cookie 和网站数据
+site-data-clear-all-prompt-text = 选择“立即清除”将清除 { -brand-short-name } 存储的所有 Cookie 和网站数据。这可能使您的网站登录状态丢失，并删除所有离线网页内容。
+site-data-clear-all-prompt-button = 立即清除

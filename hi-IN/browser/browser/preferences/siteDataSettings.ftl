@@ -49,3 +49,9 @@ site-data-removing-dialog =
 site-data-removing-header = कुकीज़ और साइट डेटा हटायें
 site-data-removing-desc = कूकीज़ तथा साइट डेटा हटाना आपको वेबसाइटों से लॉग आउट कर सकता है. क्या आप निश्चित रूप से परिवर्तन करना चाहते हैं?
 site-data-removing-table = निम्न वेबसाइटों के लिए कुकीज़ और साइट डाटा हटा दिए जायेंगे
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = सभी कुकीज़ तथा साइट डेटा मिटायें
+site-data-clear-all-prompt-text = 'अब साफ़ करें' का चयन करने से { -brand-short-name } द्वारा संग्रहीत सभी कुकीज़ और साइट डेटा साफ हो जाएँगे| इससे आप वेबसाइटों से साइन आउट कर सकते हैं और ऑफ़लाइन वेब सामग्री को हटा सकते हैं|
+site-data-clear-all-prompt-button = अभी मिटायें

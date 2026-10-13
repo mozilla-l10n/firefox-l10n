@@ -4,9 +4,19 @@
 
 protocolhandler-mailto-os-handler-yes-button = Postavi kao standardno
 protocolhandler-mailto-os-handler-no-button = Ne sada
+# Variables:
+#  $host (String): The domain of the web application registering as a protocol handler.
+#  $protocol (String): The type of protocol (e.g. "web+example").
+protocolhandler-add-handler-message = Dodati „{ $host }” kao aplikaciju za { $protocol } poveznice?
+protocolhandler-add-handler-button =
+    .label = Dodaj program
+    .accesskey = A
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-set = Koristite <strong>{ -brand-short-name } za otvaranje { $url }</strong> svaki put kada kliknete na poveznicu koja otvara vašu e-poštu?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } će otvoriti { $url }</strong> svaki puta kada kliknete na poveznicu koja šalje e-poštu.
+
+##
+

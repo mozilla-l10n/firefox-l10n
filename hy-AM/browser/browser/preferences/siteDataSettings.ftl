@@ -52,3 +52,9 @@ site-data-removing-desc = Թխուկների և կայքի տվյալների ջ
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Թխուկների և կայքի տվյալների ջնջումը կարող է ձեզ դուրս բերել կայքերից: Համոզվա՞ծ եք,որ ցանկանում եք հեռացնել թխուկները և կայքի տվյալները <strong>{ $baseDomain }</strong>-ի համար:
 site-data-removing-table = Թխուկների և կայքերի տվյալները հետևյալ կայքերի համար կջնջվեն:
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Մաքրել բոլոր թխուկները և կայքի տվյալները
+site-data-clear-all-prompt-text = Եթե ընտրեք ‘Մաքրել հիմա’՝ բոլոր թխուկները և կայքի տվյալները կմաքրվեն { -brand-short-name }-ի կողմից: Դա կարող է հանգեցնել կայքերից ձեր դուրս գրվելուն և անցանց բովանդակության ջնջմանը:
+site-data-clear-all-prompt-button = Մաքրել հիմա

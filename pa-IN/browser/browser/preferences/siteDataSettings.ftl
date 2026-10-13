@@ -52,3 +52,9 @@ site-data-removing-desc = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ �
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਲਾਗ ਆਉਟ ਹੋ ਸਕਦੇ ਹੋ। ਕੀ ਤੁਸੀਂ <strong>{ $baseDomain }</strong> ਤੋਂ ਕੂਕੀਜ਼ ਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੋਗੇ?
 site-data-removing-table = ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਅਤੇ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ ਜਾਵੇਗਾ
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = ਸਾਰੇ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕਰੋ
+site-data-clear-all-prompt-text = ‘ਹੁਣੇ ਸਾਫ਼ ਕਰੋ’ ਚੁਣਨ ਨਾਲ { -brand-short-name } ਵਲੋਂ ਸੰਭਾਲੇ ਗਏ ਸਾਰੇ ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਸਾਫ਼ ਕੀਤਾ ਜਾਵੇਗਾ। ਇਸ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਜਾਉਂਗੇ ਅਤੇ ਆਫ਼ਲਾਈਨ ਵੈੱਬ ਸਮੱਗਰੀ ਹਟਾਈ ਜਾਵੇਗੀ।
+site-data-clear-all-prompt-button = ਹੁਣੇ ਸਾਫ਼ ਕਰੋ

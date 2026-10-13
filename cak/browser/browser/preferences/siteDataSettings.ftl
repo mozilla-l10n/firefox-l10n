@@ -49,3 +49,9 @@ site-data-removing-dialog =
 site-data-removing-header = Yesilöx taq Kaxlanwey chuqa' Rutzij K'amaya'l
 site-data-removing-desc = We yeyuj ri taq kaxlanwey chuqa' rutzij ruxaq k'amaya'l nitikïr yerutz'apij tzijïl taq molojri'ïl. ¿La nawajo' ye'ayäk ri taq jaloj?
 site-data-removing-table = Xkeyuj el ri taq kaxlanwey chuqa' ri rutzij re taq ruxaq k'amaya'l re'
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Kejosq'ïx konojel ri taq kaxlanwey chuqa' taq ruxaq ruk'amaya'l tzij
+site-data-clear-all-prompt-text = Rik'in rucha'ik ‘Tijosq'ïx Wakami’ xkejosq'ïx el konojel ri taq kaxlanwey chuqa' ri taq ruxaq ruk'amaya'l tzij eyakon ruma { -brand-short-name }. Re re' nitikïr yatkelesaj el pa ri taq ruxaq ajk'amaya'l chuqa' nuyüj el taq rupam ajk'amaya'l toq majun okem pa k'amaya'l.
+site-data-clear-all-prompt-button = Tijosq'ïx Wakami

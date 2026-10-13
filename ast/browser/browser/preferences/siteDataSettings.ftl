@@ -49,3 +49,9 @@ site-data-removing-dialog =
 site-data-removing-header = Desaniciu de les cookies y los datos de los sitios
 site-data-removing-desc = Desaniciar les cookies y los datos de los sitios pue zarrate la sesión nos sitios web. ¿De xuru que quies facer los cambeos?
 site-data-removing-table = Van desaniciase les cookies y los datos de los sitios web de darréu
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Llimpieza de les cookies y los datos de los sitios
+site-data-clear-all-prompt-text = Esbillar «Llimpiar agora» va llimpiar toles cookies y datos de los sitios web atroxaos por { -brand-short-name }. Esto pue zarrate la sesión nos sitios web y desaniciar el conteníu web del mou ensin conexón.
+site-data-clear-all-prompt-button = Llimpiar agora

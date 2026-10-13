@@ -52,3 +52,9 @@ site-data-removing-desc = Remuivin cookies and site data micht log ye oot o wabs
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Remuivin cookies and site data micht log ye oot o wabsites. Are ye shair ye're wantin tae remuive cookies and site data fur <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Cookies and site data fur the follaein wabsites will be remuived
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Dicht aw cookies and site data
+site-data-clear-all-prompt-text = Selectin ‘Dicht Noo’ will dicht aw cookies and site data storit by { -brand-short-name }. This micht sign ye oot o wabsites and remuive affline wab content.
+site-data-clear-all-prompt-button = Dicht Noo

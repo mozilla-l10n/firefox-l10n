@@ -52,3 +52,9 @@ site-data-removing-desc = Cu la eliminazion dai cookies e dai dâts dai sîts, t
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Al è pussibil che, gjavant i cookies e i dâts dai sîts, tu vegnis disconetût dai sîts web. Gjavâ pardabon i cookies e i dâts di sîts par <strong>{ $baseDomain }</strong>?
 site-data-removing-table = A vignaran gjavâts i cookies e i dâts dai sîts di chestis pagjinis web
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Nete ducj i cookies e i dâts dai sîts
+site-data-clear-all-prompt-text = Selezionant ‘Nete cumò’ tu netarâs ducj i cookies e i dâts dai sîts archiviâts di { -brand-short-name }. Cheste operazion e podarès fâti disconeti dai sîts web e gjavâ i contignûts web fûr rêt.
+site-data-clear-all-prompt-button = Nete cumò

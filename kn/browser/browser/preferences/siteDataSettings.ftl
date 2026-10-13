@@ -29,3 +29,8 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ತೆಗೆದು ಹಾಕು
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = ತಾಣದ ಎಲ್ಲಾ ಕುಕ್ಕಿ ಮತ್ತು ದತ್ತಾಂಶವನ್ನು ತೆಗೆಯಿರಿ
+site-data-clear-all-prompt-button = ಈಗಲೆ ಅಳಿಸು

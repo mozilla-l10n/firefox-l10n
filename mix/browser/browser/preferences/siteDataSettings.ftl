@@ -21,3 +21,7 @@ site-data-remove-all =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Xita
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-button = Ndasavii michumi

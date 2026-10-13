@@ -12,3 +12,45 @@ safeb-blocked-unwanted-page-short-desc = { -brand-short-name } သည် သင�
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> က အကြံပြုထားသည်
 safeb-palm-accept-label = နောက်သို့ သွားရန်
 safeb-palm-see-details-label = အသေးစိတ် ကြည့်ရန်
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = အတုအယောင်ဝဘ်ဆိုက် မဟုတ်ပါ
+safeb-report-false-deceptive-error-message = ဒီအချိန်တွင်ဤအမှားကိုသတင်းမပို့နိုင်ပါ။

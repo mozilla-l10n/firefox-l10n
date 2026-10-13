@@ -52,3 +52,9 @@ site-data-removing-desc = Gall dynnu cwcis a data gwefan eich allgofnodi o wefan
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Efallai y bydd dileu cwcis a data gwefan yn eich allgofnodi o wefannau. Ydych chi'n siŵr eich bod chi am gael gwared â chwcis a data gwefan ar gyfer <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Bydd cwcis a data gwefan yn cael eu tynnu o'r gwefannau canlynol
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Clirio'r holl gwcis a data gwefan
+site-data-clear-all-prompt-text = Bydd dewis ‘Clirio Nawr’ yn clirio'r holl gwcis a data gwefan wedi ei storio gan { -brand-short-name }. Gall hyn eich allgofnodi o wefannau a thynnu cynnwys all-lein.
+site-data-clear-all-prompt-button = Clirio Nawr

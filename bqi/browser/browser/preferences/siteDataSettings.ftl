@@ -42,3 +42,7 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = پاک کردن
 site-data-removing-header = کۊکیا وو داده یل وبگه ن هونی پاک اکونه
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-button = سکو روفته بۊ

@@ -52,3 +52,9 @@ site-data-removing-desc = Heqja e cookie-eve dhe të dhënave të sajteve mund t
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Heqja e cookie-ve dhe të dhënave të sajtit mund të sjellë daljen tuaj nga sajte. Jeni i sigurt se doni të hiqen cookie-t dhe të dhëna sajtesh për <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Cookie-t dhe të dhënat e sajteve për sajtet vijues do të hiqen
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Spastro krejt cookie-t dhe të dhëna sajtesh
+site-data-clear-all-prompt-text = Përzgjedhja e “Spastroje Tani” do të sjellë spastrimin e krejt cookie-ve dhe të dhënave të sajteve të depozituara nga { -brand-short-name }-i. Kjo mund të shkaktojë daljen tuaj nga sajte të ndryshëm dhe heqje lënde web për përdorim pa u lidhur në internet.
+site-data-clear-all-prompt-button = Spastroje Tani

@@ -52,3 +52,9 @@ site-data-removing-desc = کوکیاں تے سائٹ دے ڈیٹا کوں ہٹا
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = کوکیاں تے سائٹ ڈیٹا کوں ہٹاوݨ نال تساں ویب سائٹاں کنوں لاگ آؤٹ تھی سڳدے او۔ کیا تساں واقعی <strong>{ $baseDomain }</strong> کیتے کوکیاں تے سائٹ ڈیٹا ہٹاوݨ چاہندے او؟
 site-data-removing-table = ہیٹھ درج ویب سائٹاں کیتے کوکیاں تے سائٹ ڈیٹا ہٹا ݙتا ویسے
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = تمام کوکیاں تے سائٹ ڈیٹا خالی کرو
+site-data-clear-all-prompt-text = 'ہݨیں خالی کرو' دا انتخاب کرݨ نال تمام کوکیاں تے سائٹ دے ڈیٹا کوں { -brand-short-name } دے ذریعہ ذخیرہ کیتا ویسے۔ ایندے نال تہاکوں ویب سائٹاں توں دستخط کر سڳدے او  تے آف لائن ویب مواد کوں ہٹا سڳدا ہے۔
+site-data-clear-all-prompt-button = ہݨ صاف کرو

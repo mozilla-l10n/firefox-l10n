@@ -28,6 +28,9 @@ home-homepage-new-windows =
 home-homepage-new-tabs =
     .label = Нов раздел
 
+## Custom URLs subpage
+
+
 ## Firefox Home content
 
 home-prefs-content-header =
@@ -48,6 +51,8 @@ home-prefs-sports-widget-header =
 # Clock is a widget on New Tab that displays time zones around the world.
 home-prefs-clocks-header =
     .label = Часовник
+home-prefs-manage-widgets-link =
+    .label = Управление на приставките
 home-prefs-firefox-logo-header =
     .label = Лого на { -brand-short-name }
 # Informational message bar that appears in the Firefox Home section when the options are disabled.
@@ -105,6 +110,15 @@ home-prefs-support-firefox-header-srd =
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Научете повече
 
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -112,6 +126,37 @@ newtab-privacy-menu-learn-more = Научете повече
 ## yet; the labels are authored so the pairing is ready).
 
 newtab-privacy-message-info-8-cta = Научете повече
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
+## Strings for the Finance widget
+
+
+## Strings for the Finance widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Finance widget watchlist add and remove controls
+
+
+## Finance widget ticker search
+
 
 ## Strings for the Picture of the Day widget
 
@@ -122,6 +167,22 @@ newtab-picture-header = Картинка на деня · Общомедия (Wi
 newtab-picture-menu-manage-wallpaper = Управление на тапетите
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Научете повече
+
+## Strings for the Search widget
+
+
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
+## Strings for the Horoscopes widget
+
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
 
 ## Search box component.
 
@@ -169,6 +230,9 @@ newtab-topsites-use-custom-image-link = Използване изображен�
 newtab-topsites-use-image-link = Използване изображение по желание…
 newtab-topsites-image-validation = Изображението не може да бъде заредено. Опитайте с друг адрес.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Отказ
@@ -194,6 +258,9 @@ newtab-topsite-sponsored = Спонсорирано
 topsite-label-pinned =
     .aria-label = { $title } (закачен)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
 
 ## Context Menu - Action Tooltips.
 
@@ -311,6 +378,9 @@ newtab-discovery-empty-section-topstories-loading = Зареждане…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Ами сега! Почти заредихме тази секция, но не съвсем.
 
+## Strings for the story cards carousel
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -366,6 +436,12 @@ newtab-custom-close-menu-button =
     .title = Затваряне
 newtab-custom-settings = Настройки
 
+## Customization Menu
+
+
+## New Tab Appearance (browser theme picker)
+
+
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -393,6 +469,11 @@ newtab-wallpaper-dark-panda = Червена панда, скрита в гор�
 newtab-wallpaper-dark-sky = Градски пейзаж с нощно небе
 newtab-wallpaper-dark-mountain = Планински пейзаж
 newtab-wallpaper-dark-city = Лилав градски пейзаж
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
 
 ## Solid Colors
 
@@ -439,6 +520,12 @@ newtab-wallpaper-feature-highlight-button = Разбрах
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
+
+## Firefox
+
 
 ## Celestial
 
@@ -497,15 +584,43 @@ newtab-topic-selection-button-maybe-later = Може би по-късно
 newtab-topic-selection-button-update-interests = Актуализирайте интересите си
 newtab-topic-selection-button-pick-interests = Изберете вашите интереси
 
+## Content Feed Sections
+## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
+## e.g. Following the travel section of stories.
+
+
 ## Topic navigation
 ## A row of buttons above the stories, each scrolling the page to that topic's section.
 
 # Opens a menu listing the topics that did not fit in the row.
 newtab-topic-navigation-more-button = Още
 
+## Button to block/unblock listed topics
+## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
+## e.g. Blocked the politics section of stories.
+
+
+## Confirmation modal for blocking a section
+
+
 ## Strings for custom wallpaper highlight
 
 newtab-custom-wallpaper-cta = Опитайте
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for Nova wallpaper feature highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
+## Strings for reporting issues with ads and content
+
 
 ## Strings for task / to-do list productivity widget
 
@@ -519,6 +634,46 @@ newtab-widget-lists-input-menu-delete = Изтриване
 newtab-widget-timer-menu-learn-more = Научете повече
 newtab-promo-card-body = Нашите спонсори подкрепят мисията ни да изградим по-добра мрежа
 newtab-promo-card-cta = Научете повече
+
+## Crossword widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+##
+
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
+
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 

@@ -52,3 +52,9 @@ site-data-removing-desc = 쿠키와 사이트 데이터를 삭제하면 웹 사�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = 쿠키와 사이트 데이터를 삭제하면 웹 사이트에서 로그아웃될 수 있습니다. <strong>{ $baseDomain }</strong>의 쿠키와 사이트 데이터를 삭제하시겠습니까?
 site-data-removing-table = 다음 웹 사이트의 쿠키와 사이트 데이터가 삭제됨
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = 모든 쿠키 및 사이트 데이터 지우기
+site-data-clear-all-prompt-text = ‘지금 지우기’를 선택하면 { -brand-short-name }에 저장된 모든 쿠키와 사이트 데이터를 지웁니다. 사이트에서 로그아웃되거나 오프라인 웹 콘텐츠가 삭제됩니다.
+site-data-clear-all-prompt-button = 지금 지우기

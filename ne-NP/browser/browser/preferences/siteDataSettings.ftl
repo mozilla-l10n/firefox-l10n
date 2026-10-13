@@ -31,3 +31,9 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = हटाउनुहोस्
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = सबै कुकिजहरु र साइट डाटा हटाउनुहोस्
+site-data-clear-all-prompt-text = ‘अहिल्यै खाली गर्नुहोस्’ चयन गर्नाले { -brand-short-name } द्वारा भण्डारण गरिएका सबै कुकिजहरु र साइट डाटा खाली गर्नेछ। यसले तपाईँलाई वेबसाइटहरूबाट साइन आउट गर्न सक्छ  र अफलाइन वेब सामग्री हटाउन सक्छ।
+site-data-clear-all-prompt-button = अहिले हटाउनुहोस्

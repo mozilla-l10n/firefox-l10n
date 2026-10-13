@@ -47,3 +47,9 @@ site-data-removing-dialog =
 site-data-removing-header = કુકીઝ અને સાઇટ ડેટા દૂર કરી રહ્યાં છે
 site-data-removing-desc = કૂકીઝ અને સાઇટ ડેટાને દૂર કરવાથી તમે વેબસાઇટ્સથી લૉગ આઉટ થઈ શકો છો. શું તમે ખરેખર ફેરફારો કરવા માંગો છો?
 site-data-removing-table = નીચેની વેબસાઇટ્સ માટે કૂકીઝ અને સાઇટ ડેટા દૂર કરવામાં આવશે
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = તમામ કૂકીઝ અને સાઇટ ડેટાને રદ કરો
+site-data-clear-all-prompt-text = ‘હમણાં સાફ કરો’ પસંદ કરીને { -brand-short-name } દ્વારા સંગ્રહિત તમામ કૂકીઝ અને સાઇટ ડેટા સાફ થશે. આ તમને વેબસાઇટ્સથી સાઇન આઉટ કરી શકે છે અને ઑફલાઇન વેબ સામગ્રી દૂર કરી શકે છે.
+site-data-clear-all-prompt-button = હમણાં સાફ કરો

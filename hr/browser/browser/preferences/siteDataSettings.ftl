@@ -52,3 +52,9 @@ site-data-removing-desc = Uklanjanje kolačića i podataka web-stranica će te m
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Uklanjanje kolačića i podataka web-stranica te može odjaviti s web-stranice. Stvarno želiš ukloniti kolačiće i podatke web-stranice za <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Kolačići i podaci web-stranica će se ukloniti za sljedeće web-stranice
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Izbriši kolačiće i podatke pretraživanja
+site-data-clear-all-prompt-text = Ako odabereš „Izbriši sada”, izbrisat ćeš sve kolačiće i podatke web-stranica koje { -brand-short-name } spremi. Ovo će te vjerojatno odjaviti s web-stranica i ukloniti sav izvanmrežni web sadržaj.
+site-data-clear-all-prompt-button = Izbriši sada

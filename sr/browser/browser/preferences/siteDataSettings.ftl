@@ -52,3 +52,9 @@ site-data-removing-desc = Уклањање колачића и података 
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Брисање колачића и података о сајту може вас одјавити са сајта. Јесте ли сигурни да желите да избришете колачиће и податке сајта за <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Уклониће се колачићи и подаци о следећим веб-сајтовима
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Брисање свих колачића и података о сајтовима
+site-data-clear-all-prompt-text = Кликом на „Обриши” ћете уклонити све колачиће и податке о сајтовима из { -brand-short-name }-а. Ово вас може одјавити са веб-сајтова и ограничити приступ веб-садржају док сте офлајн.
+site-data-clear-all-prompt-button = Обриши сада

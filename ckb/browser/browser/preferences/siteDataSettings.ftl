@@ -48,3 +48,9 @@ site-data-removing-dialog =
 site-data-removing-header = شەکرۆکە و زانیاری ماڵپەڕ بسڕەوە
 site-data-removing-desc = سڕینەوەی زانیاری ماڵپەڕ و شەکرۆکە لەوانەیە ببێتە هۆی چوونە دەرەوەت لە هەموو ماڵپەڕەکان. تۆ دڵنیایت دەتەوێت ئەم کارە بکەیت؟
 site-data-removing-table = شەکرۆکە و زانیاری ماڵپەڕی ئەم ماڵپەڕانە دەسڕێنەوە
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = هەموو شەکرۆکە و زانیاری ماڵپەڕەکان پاکبکەرەوە...
+site-data-clear-all-prompt-text = هەڵبژاردنی ‘ ئێستا پاکیبکەرەوە’ هەموو شەکرۆکە و زانیاری ماڵپەڕەکان کە پاشەکەوت کراوە لە لایەن { -brand-short-name } پاک دەکاتەوە. لەوانیە ئەمە لە ماڵپەڕان بتهێنێتە دەرەوە و سڕینەوەی ناوەڕۆکی ماڵپەڕی دەرهێل.
+site-data-clear-all-prompt-button = ئێستا پاکیبکەرەوە

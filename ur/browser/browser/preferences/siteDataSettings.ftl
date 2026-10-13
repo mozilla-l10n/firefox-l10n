@@ -45,3 +45,9 @@ site-data-removing-dialog =
     .buttonlabelaccept = ہٹائیں
 site-data-removing-header = کوکیز اور سائٹ کوائف ہٹا رہے ہیں
 site-data-removing-table = درج ذیل ویب سائٹوں کیلئے کوکیز اور سائٹ کا ڈیٹا ختم کردیا جائے گا
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = تمام کوکیز اور سائٹ کے کوائف صاف کریں
+site-data-clear-all-prompt-text = "ابھی صاف کریں" کو منتخب کرنے پر تمام کوکیاں اور سائٹ کے کوائف جو { -brand-short-name } میں زخیرہ ہیں ان کو صاف کردیا جائے گا۔ اس سے شاید آپ ویب سائٹ سے سائن آئوٹ ہو جائیں اور ویبسائٹ کے آف لائن ویب مواد کو ہٹا دے
+site-data-clear-all-prompt-button = ابھی صاف کریں

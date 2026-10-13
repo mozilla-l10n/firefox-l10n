@@ -4,9 +4,19 @@
 
 protocolhandler-mailto-os-handler-yes-button = Iestatīt kā noklusējuma
 protocolhandler-mailto-os-handler-no-button = Ne tagad
+# Variables:
+#  $host (String): The domain of the web application registering as a protocol handler.
+#  $protocol (String): The type of protocol (e.g. "web+example").
+protocolhandler-add-handler-message = Pievienot “{ $host }” kā programmu { $protocol } tipa saitēm?
+protocolhandler-add-handler-button =
+    .label = Pievienot programmu
+    .accesskey = v
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-set = Izmantot <strong>{ -brand-short-name }, lai atvērtu { $url }</strong> katru reizi, kad noklikšķina uz saites, kas atver e-pastu?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } atvērs { $url }</strong> ikreiz, kad klikšķina uz saites, kas sūta e-pastu.
+
+##
+

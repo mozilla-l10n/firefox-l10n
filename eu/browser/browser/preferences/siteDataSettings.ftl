@@ -52,3 +52,9 @@ site-data-removing-desc = Cookieak eta guneetako datuak kentzeak webguneetako sa
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Cookieak eta guneetako datuak ezabatzeak webguneetako zure saioak amai litzake. Ziur zaude cookieak eta guneetako datuak ezabatu nahi dituzula <strong>{ $baseDomain }</strong> domeinurako?
 site-data-removing-table = Ondorengo webguneetako cookieak eta datuak kendu egingo dira
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Garbitu cookie eta guneen datu guztiak
+site-data-clear-all-prompt-text = 'Garbitu orain' hautatuz gero, { -brand-short-name }(e)k biltegiratutako cookieak eta guneen datu guztiak garbituko dira. Honek webguneetako saioa amaitzea eta lineaz kanpoko web edukia kentzea eragin lezake.
+site-data-clear-all-prompt-button = Garbitu orain

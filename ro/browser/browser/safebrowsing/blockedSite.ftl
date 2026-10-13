@@ -23,15 +23,43 @@ safeb-palm-see-details-label = Vezi detalii
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> a fost <a data-l10n-name='error_desc_link'>raportat ca site înșelător</a>. Poți <a data-l10n-name='report_detection'>raporta o problemă de detectare</a> sau <a data-l10n-name='ignore_warning_link'>ignoră riscul</a> și mergi la site-ul nesigur.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span>a fost <a data-l10n-name='error_desc_link'> raportat ca site înșelător</a>. Poți <a data-l10n-name='report_detection'>raporta o problemă de detectare</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = Află mai multe despre site-uri înșelătoare și furtul de date prin e-mail la <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Află mai multe despre protecția împotriva furtului de date prin e-mail și a programelor rău intenționate în { -brand-short-name } la <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> a fost <a data-l10n-name='error_desc_link'>raportat ca având programe rău intenționate</a>. Poți <a data-l10n-name='ignore_warning_link'>ignora riscul</a> și să intri pe acest site nesigur.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> a fost <a data-l10n-name='error_desc_link'>raportat ca având programe rău intenționate</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = Află mai multe despre protecția din { -brand-short-name } împotriva furtului de date prin e-mail și a programelor rău intenționate pe <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> a fost <a data-l10n-name='error_desc_link'>raportat ca având programe dăunătoare</a>. Poți <a data-l10n-name='ignore_warning_link'>ignora riscul</a> și să mergi pe acest site nesigur.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> a fost <a data-l10n-name='error_desc_link'>raportat ca având programe dăunătoare</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = Află mai multe despre programele dăunătoare și nedorite la <a data-l10n-name='learn_more_link'>Politica privind programele nedorite</a>. Află mai multe despre protecția împotriva furtului de date prin e-mail și a programelor rău intenționate în { -brand-short-name } la <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> a fost <a data-l10n-name='error_desc_link'>raportat ca având o aplicație potențial dăunătoare</a>. Poți <a data-l10n-name='ignore_warning_link'>ignora riscul</a> și să mergi pe acest site nesigur.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> a fost <a data-l10n-name='error_desc_link'>raportat ca având o aplicație potențial dăunătoare</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = Află mai multe despre protecția împotriva furtului de date prin e-mail și a programelor rău intenționate în { -brand-short-name } la <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = E posibil ca <strong>{ $sitename
 safeb-blocked-addon-page-error-desc3-override = <strong>Ce poți face?</strong>
 safeb-blocked-addon-page-error-desc4-override = Ca să nu se mai întâmple, poți elimina sau dezactiva <strong>{ $addonName }</strong> din about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Află mai multe despre Protecția împotriva suplimentelor dăunătoare din { -brand-short-name }</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = Acesta nu este un site înșelător
+safeb-report-false-deceptive-error-message = Raportarea acestei erori nu este posibilă în acest moment.

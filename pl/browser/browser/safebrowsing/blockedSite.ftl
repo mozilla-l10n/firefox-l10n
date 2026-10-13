@@ -23,15 +23,43 @@ safeb-palm-see-details-label = Szczegóły
 
 safeb-blocked-phishing-page-error-desc-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako <a data-l10n-name='error_desc_link'>próba oszustwa</a>. Możesz <a data-l10n-name='report_detection'>zgłosić problem z wykrywaniem</a> lub <a data-l10n-name='ignore_warning_link'>zignorować ryzyko</a> i przejść do tej niebezpiecznej strony.
 safeb-blocked-phishing-page-error-desc-no-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako <a data-l10n-name='error_desc_link'>próba oszustwa</a>. Możesz <a data-l10n-name='report_detection'>zgłosić problem z wykrywaniem</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = Więcej informacji o stronach będących próbami oszustwa i złośliwym oprogramowaniu można znaleźć w witrynie <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako strona <a data-l10n-name='error_desc_link'>zawierająca niebezpieczne oprogramowanie</a>. Możesz <a data-l10n-name='ignore_warning_link'>zignorować ryzyko</a> i przejść do tej niebezpiecznej strony.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako strona <a data-l10n-name='error_desc_link'>zawierająca niebezpieczne oprogramowanie</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako strona <a data-l10n-name='error_desc_link'>zawierająca szkodliwe oprogramowanie</a>. Możesz <a data-l10n-name='ignore_warning_link'>zignorować ryzyko</a> i przejść do tej niebezpiecznej strony.
 safeb-blocked-unwanted-page-error-desc-no-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako strona <a data-l10n-name='error_desc_link'>zawierająca szkodliwe oprogramowanie</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = Więcej informacji o szkodliwym i niechcianym oprogramowaniu można znaleźć na stronie <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako strona <a data-l10n-name='error_desc_link'>zawierająca potencjalnie szkodliwe oprogramowanie</a>. Możesz <a data-l10n-name='ignore_warning_link'>zignorować ryzyko</a> i przejść do tej niebezpiecznej strony.
 safeb-blocked-harmful-page-error-desc-no-override = Strona „<span data-l10n-name='sitename'>{ $sitename }</span>” została zgłoszona jako strona <a data-l10n-name='error_desc_link'>zawierająca potencjalnie szkodliwe oprogramowanie</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed złośliwym oprogramowaniem i próbami oszustwa można znaleźć w witrynie <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = Witryna <strong>{ $sitename }</s
 safeb-blocked-addon-page-error-desc3-override = <strong>Co zrobić w takim przypadku?</strong>
 safeb-blocked-addon-page-error-desc4-override = Aby to się nie powtórzyło, można usunąć lub wyłączyć dodatek <strong>{ $addonName }</strong> na stronie about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Więcej informacji o ochronie { -brand-short-name(case: "gen") } przed szkodliwymi dodatkami</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = To nie jest próba oszustwa
+safeb-report-false-deceptive-error-message = W tym momencie zgłoszenie tego problemu nie jest możliwe.

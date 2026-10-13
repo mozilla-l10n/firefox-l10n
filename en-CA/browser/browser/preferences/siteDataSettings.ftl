@@ -52,3 +52,9 @@ site-data-removing-desc = Removing cookies and site data may log you out of webs
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Removing cookies and site data may log you out of websites. Are you sure you want to remove cookies and site data for <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Cookies and site data for the following websites will be removed
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Clear all cookies and site data
+site-data-clear-all-prompt-text = Selecting “Clear Now” will clear all cookies and site data stored by { -brand-short-name }. This may sign you out of websites and remove offline web content.
+site-data-clear-all-prompt-button = Clear Now

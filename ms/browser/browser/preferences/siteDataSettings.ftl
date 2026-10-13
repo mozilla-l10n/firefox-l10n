@@ -49,3 +49,9 @@ site-data-removing-dialog =
 site-data-removing-header = Membuang Kuki dan Data Laman
 site-data-removing-desc = Membuang kuki dan data laman boleh menglog anda keluar dari laman web. Adakah anda pasti mahu membuat perubahan?
 site-data-removing-table = Kuki dan data laman untuk laman web berikut akan dibuang
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Buang semua kuki dan data laman
+site-data-clear-all-prompt-text = Memilih ‘Buang Sekarang’ akan membuang semua kuki dan data yang disimpan oleh { -brand-short-name }. Tindakan ini mungkin akan mendaftar anda keluar daripada laman web dan mengalih keluar kandungan web luar talian.
+site-data-clear-all-prompt-button = Buang Sekarang

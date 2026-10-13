@@ -52,3 +52,9 @@ site-data-removing-desc = Xóa cookie và dữ liệu trang có thể khiến b�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Xóa cookie và dữ liệu trang web có thể đăng xuất bạn khỏi các trang web. Bạn có chắc chắn muốn xóa cookie và dữ liệu trang web của <strong>{ $baseDomain }</strong> không?
 site-data-removing-table = Cookie và dữ liệu của các trang web sau sẽ bị xóa
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Xóa tất cả cookie và dữ liệu trang web
+site-data-clear-all-prompt-text = Chọn ‘Xóa ngay’ sẽ xóa tất cả cookie và dữ liệu trang được lưu bởi { -brand-short-name }. Điều này có thể khiến bạn đăng xuất khỏi các trang web và xóa nội dung web ngoại tuyến.
+site-data-clear-all-prompt-button = Xóa ngay

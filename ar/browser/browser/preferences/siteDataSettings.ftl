@@ -52,3 +52,9 @@ site-data-removing-desc = بإزالة ملفات تعريف الارتباط و
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = قد تؤدي إزالة ملفات تعريف الارتباط وبيانات الموقع إلى تسجيل خروجك من مواقع الويب. هل أنت متأكد من أنك تريد إزالة ملفات تعريف الارتباط وبيانات الموقع لـ <strong>{ $baseDomain }</strong>؟
 site-data-removing-table = ستُزال الكعكات و بيانات المواقع للمواقع الآتية
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = امسح كل الكعكات وبيانات المواقع
+site-data-clear-all-prompt-text = اختيار ’امسح الآن‘ يمسح مل الكعكات و بيانات الموقع التي يحفظها { -brand-short-name }. قد يعني هذا خروجك من المواقع و حذف بيانات العمل دون اتصال.
+site-data-clear-all-prompt-button = امسح الآن

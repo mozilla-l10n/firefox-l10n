@@ -52,3 +52,9 @@ site-data-removing-desc = Премахването на бисквитките �
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Премахването на бисквитки и данни на страници може да доведе до излизането ви от уебсайтове. Сигурни ли сте, че искате да премахнете бисквитките и данните за <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Бисквитките и данните от следните страници ще бъдат премахнати
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Изчистване на бисквитките и данните на страницата
+site-data-clear-all-prompt-text = Избирайки „Изчистване“, ще бъдат изтрити всички бисквитки и данни на страниците, запазени от { -brand-short-name }. Така може да се наложи да се впишете отново в някои страници и ще бъде премахнато цялото съдържание за използване извън мрежа.
+site-data-clear-all-prompt-button = Изчистване

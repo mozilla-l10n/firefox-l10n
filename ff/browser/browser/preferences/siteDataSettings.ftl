@@ -40,3 +40,9 @@ site-data-removing-dialog =
 site-data-removing-header = Momtude Kuukiije kam e Keɓe Lowre
 site-data-removing-desc = Momtude kuukiije kam e keɓe lowre ina waawi seŋtude ma e lowe geese ɗee. Aɗa yananaa yiɗde waɗde bayle ɗee?
 site-data-removing-table = Kuukiije kam e keɓe lowre wonande ɗee lowe geese maa momtoye
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Momtu kuukiiji ɗii kala kam e keɓe lowre ɗee
+site-data-clear-all-prompt-text = Suɓaade ‘Momtu Jooni’ maa momtu kuukiije ɗee fof kam e keɓe lowre ɗee { -brand-short-name } moofti. Ɗuum ina waawi seŋtude e lowe geese tee itta loowdi geese e ceŋtol.
+site-data-clear-all-prompt-button = Momtu Jooni

@@ -52,3 +52,9 @@ site-data-removing-desc = ᱠᱩᱠᱤ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱫ�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = ᱠᱩᱠᱤ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱫᱚ ᱚᱪᱚᱜ ᱞᱟᱠᱮᱟᱱ ᱟᱢ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱛᱮ ᱚᱰᱚᱠᱚᱜᱼᱟᱢ ᱾ ᱟᱢ ᱫᱚ ᱥᱟᱹᱨᱤᱛᱮ ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ <strong>{ $baseDomain }</strong> ᱞᱟᱹᱜᱤᱫ ᱚᱪᱚᱜᱽ  ᱥᱟᱭᱤᱴ ᱠᱟᱱᱟ ᱥᱮ?
 site-data-removing-table = ᱞᱟᱛᱟᱨ ᱨᱮ ᱚᱞ ᱟᱠᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱠᱤ ᱟᱨ ᱥᱟᱦᱴᱟ ᱰᱟᱴᱟ ᱠᱚ ᱚᱪᱚᱜ ᱦᱩᱭᱩᱜᱼᱟ
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = ᱡᱷᱚᱛᱚ ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱠᱚ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
+site-data-clear-all-prompt-text = ‘ᱱᱤᱛᱚᱜ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ’ ᱵᱟᱪᱷᱟᱣ ᱞᱮᱠᱷᱟᱱ { -brand-short-name } ᱫᱚᱦᱚ ᱠᱟᱫ ᱡᱷᱚᱛᱚ ᱠᱩᱠᱤᱡᱽ ᱟᱨ ᱰᱟᱴᱟ ᱥᱟᱭᱤᱴ ᱠᱚ ᱢᱮᱴᱟᱣᱜᱼᱟ ᱾ ᱟᱢ ᱫᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱛᱮ ᱚᱰᱚᱠ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱟᱨ ᱚᱯᱷᱞᱟᱭᱤᱱ ᱣᱮᱵᱽ ᱡᱤᱱᱤᱥ ᱠᱚ ᱚᱪᱚᱜᱽ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+site-data-clear-all-prompt-button = ᱱᱤᱛ ᱢᱮᱴᱟᱣ ᱢᱮ

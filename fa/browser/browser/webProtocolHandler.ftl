@@ -4,9 +4,19 @@
 
 protocolhandler-mailto-os-handler-yes-button = تنظیم به عنوان پیش‌گزیده
 protocolhandler-mailto-os-handler-no-button = فعلاً نه
+# Variables:
+#  $host (String): The domain of the web application registering as a protocol handler.
+#  $protocol (String): The type of protocol (e.g. "web+example").
+protocolhandler-add-handler-message = آیا «{ $host }» به عنوان برنامه‌ای برای پیوندهای { $protocol } اضافه شود؟
+protocolhandler-add-handler-button =
+    .label = افزودن برنامه
+    .accesskey = A
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-set = آیا از <strong>{ -brand-short-name } برای باز کردن { $url }</strong> هر بار که روی پیوندی کلیک می‌کنید که رایانامه شما را باز می‌کند، استفاده می‌کنید؟
 protocolhandler-mailto-handler-confirm = هر بار که روی پیوندی که رایانامه ارسال می‌کند کلیک کنید، <strong>{ -brand-short-name } { $url }</strong> را باز می‌کند.
+
+##
+

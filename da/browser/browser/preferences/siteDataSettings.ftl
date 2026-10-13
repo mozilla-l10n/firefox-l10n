@@ -52,3 +52,9 @@ site-data-removing-desc = Ved at fjerne cookies og websteds-data kan du blive lo
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Ved at fjerne cookies og websteds-data kan du blive logget ud fra websteder, du er logget ind på. Er du sikker på, at du vil fjerne cookies og websteds-data for <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Cookies og websteds-data for de følgende websteder vil blive fjernet
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Ryd alle cookies og websteds-data
+site-data-clear-all-prompt-text = Når du vælger 'Ryd nu' vil { -brand-short-name } slette alle cookies og gemte websteds-data. Dette kan logge dig ud fra websteder og fjerne offline websteds-indhold.
+site-data-clear-all-prompt-button = Ryd nu

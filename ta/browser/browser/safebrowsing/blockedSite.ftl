@@ -12,3 +12,45 @@ safeb-blocked-harmful-page-short-desc = உங்கள் தகவலைத்
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> என்பவரால் ஆலோசனை வழங்கப்பட்டது.
 safeb-palm-accept-label = பின் செல்
 safeb-palm-see-details-label = விவரத்தைப் பார்
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = இது ஏமாற்றுத் தளமல்ல
+safeb-report-false-deceptive-error-message = இந்த நேரத்தில் இந்த பிழையைப் புகாரளிப்பது சாத்தியமில்லை.

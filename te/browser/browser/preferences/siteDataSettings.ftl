@@ -45,3 +45,8 @@ site-data-removing-dialog =
     .buttonlabelaccept = తొలగించు
 site-data-removing-header = కుకీలనూ సైటు డేటానీ తీసేస్తున్నాం
 site-data-removing-table = ఈ క్రింది వెబ్‌సైట్ల కుకీలు, సైటు డేటా తొలగించబడుతుంది
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = అన్ని కుకీలను, సైటు దత్తాంశాన్నీ తుడిచివేయి
+site-data-clear-all-prompt-button = ఇప్పుడు చెరిపివేయి

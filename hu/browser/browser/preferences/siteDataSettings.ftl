@@ -52,3 +52,9 @@ site-data-removing-desc = A sütik és oldaladatok eltávolítása kijelentkezte
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = A sütik és webhelyadatok eltávolítása kijelentkeztetheti a webhelyekről. Biztos, hogy eltávolítja a sütiket és webhelyadatokat ennél: <strong>{ $baseDomain }</strong>?
 site-data-removing-table = A következő webhelyekhez tartozó sütik és oldaladatok eltávolításra kerülnek
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Minden süti és oldaladat törlése
+site-data-clear-all-prompt-text = A „Törlés most” választása a { -brand-short-name } által tárolt összes sütit és oldaladatot törölni fogja. Ez kijelentkeztetheti weboldalakról és eltávolíthat kapcsolat nélkül elérhető tartalmakat.
+site-data-clear-all-prompt-button = Törlés most

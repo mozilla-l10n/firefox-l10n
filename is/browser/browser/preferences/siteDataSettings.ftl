@@ -52,3 +52,9 @@ site-data-removing-desc = Að fjarlægja vefkökur og vefsíðugögn getur skrá
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Ef þú fjarlægir vefkökur og vefgögn gæti það skráð þig út af vefsvæðum. Ertu viss um að þú viljir fjarlægja vafrakökur og vefsvæðisgögn fyrir <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Vefkökur og vefsíðugögn fyrir eftirfarandi vefsvæði verða fjarlægðar
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Hreinsa allar vefkökur og síðugögn
+site-data-clear-all-prompt-text = Ef valið er ‘Hreinsa núna’, þá eyðast allar vefkökur og vefgögn sem geymd eru af { -brand-short-name }. Þetta gæti skráð þig út af vefsvæðum og eytt ónettengdum vefgögnum.
+site-data-clear-all-prompt-button = Hreinsa núna

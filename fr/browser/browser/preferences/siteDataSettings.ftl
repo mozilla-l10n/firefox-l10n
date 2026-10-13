@@ -52,3 +52,9 @@ site-data-removing-desc = Supprimer les cookies et les données de sites peut vo
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = La suppression des cookies et des données de sites peut vous déconnecter de sites web. Voulez-vous vraiment supprimer les cookies et les données de sites pour <strong>{ $baseDomain }</strong> ?
 site-data-removing-table = Les cookies et les données associés aux sites suivants seront supprimés
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Effacer les cookies et les données de sites
+site-data-clear-all-prompt-text = Sélectionner « Effacer maintenant » effacera l’ensemble des cookies et des données de sites stockés par { -brand-short-name }. Cela peut vous déconnecter de certains sites et supprimer du contenu web hors connexion.
+site-data-clear-all-prompt-button = Effacer maintenant

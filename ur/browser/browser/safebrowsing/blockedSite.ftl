@@ -19,4 +19,42 @@ safeb-palm-see-details-label = تفصیلات دیکھیں
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = <a data-l10n-name='firefox_support'> support.mozilla.org </a> پر { -brand-short-name } کی فشنگ اور مالویئر پروٹیکشن کے بارے میں مزید معلومات حاصل کریں۔
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = یہ فریبی سائٹ نہیں ہے
+safeb-report-false-deceptive-error-message = اس وقت اس نقص کی اطلاع دینا ممکن نہیں ہے۔

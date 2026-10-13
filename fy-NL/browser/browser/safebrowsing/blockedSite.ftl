@@ -23,15 +23,43 @@ safeb-palm-see-details-label = Details besjen
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> is <a data-l10n-name='error_desc_link'>rapportearre as in misliedende website</a>. Jo kinne <a data-l10n-name='report_detection'>in deteksjeprobleem rapportearje</a> of <a data-l10n-name='ignore_warning_link'>it risiko negearje</a> en dizze ûnfeilige website besykje.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> is <a data-l10n-name='error_desc_link'>rapportearre as in misliedende website</a>. Jo kinne <a data-l10n-name='report_detection'>in deteksjeprobleem rapportearje</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = Lês mear oer misliedende websites en phishing op <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Lês mear oer beskerming tsjin phishing en malware fan { -brand-short-name } op <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> is <a data-l10n-name='error_desc_link'>rapportearre as in website dy’t skeadlike software befettet</a>. Jo kinne <a data-l10n-name='ignore_warning_link'>it risiko negearje</a> en dizze ûnfeilige website besykje.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> is <a data-l10n-name='error_desc_link'>rapportearre as in website dy’t skeadlike software befettet</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = Mear ynfo oer beskerming troch { -brand-short-name } tsjin phishing en malware op <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> is <a data-l10n-name='error_desc_link'>rapportearre as in website dy’t skeadlike software befettet</a>. Jo kinne <a data-l10n-name='ignore_warning_link'>it risiko negearje</a> en dizze ûnfeilige website besykje.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> is <a data-l10n-name='error_desc_link'>rapportearre as in website dy’t skeadlike software befettet</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = Lês mear oer skeadlike en net winske software op <a data-l10n-name='learn_more_link'>Belied ta oansjen fan net winske software</a>. Lês mear oer beskerming tsjin phishing en malware fan { -brand-short-name } op <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> is <a data-l10n-name='error_desc_link'>rapportearre as in website dy’t in mooglik skeadlike tapassing befettet</a>. Jo kinne <a data-l10n-name='ignore_warning_link'>it risiko negearje</a> en dizze ûnfeilige website besykje.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> is <a data-l10n-name='error_desc_link'>rapportearre as in website dy’t in mooglik skeadlike tapassing befettet</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = Lês mear oer beskerming tsjin phishing en malware fan { -brand-short-name } op <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> k
 safeb-blocked-addon-page-error-desc3-override = <strong>Wat kinne jo hjir oan dwaan?</strong>
 safeb-blocked-addon-page-error-desc4-override = Om foar te kommen dat dit wer bart, kinne jo <strong>{ $addonName }</strong> út about:addons fuortsmite of útskeakelje.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Mear ynfo oer de beskerming tsjin skealike add-ons fan { -brand-short-name }</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = Dit is gjin misliedende website
+safeb-report-false-deceptive-error-message = It rapportearjen fan dizze flater is op dit stuit net mooglik.

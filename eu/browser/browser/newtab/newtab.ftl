@@ -109,6 +109,8 @@ home-prefs-mission-message2 =
     .message = Gure babesleek web hobeagoa eraikitzeko misioan laguntzen gaituzte.
 home-prefs-manage-topics-link2 =
     .label = Kudeatu gaiak
+home-prefs-manage-widgets-link =
+    .label = Kudeatu widgetak
 home-prefs-choose-wallpaper-link2 =
     .label = Aukeratu horma-papera
 home-prefs-firefox-logo-header =
@@ -383,6 +385,9 @@ newtab-stocks-list-watchlist = Jarraipen-zerrenda
     .label = Jarraipen-zerrenda
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Bilatu izen edo sinboloaren arabera
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finantza
@@ -540,6 +545,9 @@ newtab-recent-searches-just-now = Oraintxe bertan
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Kendu "{ $search }" azken bilaketetatik
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Bilaketa
 # Screen reader label for the widget's icon-only menu button.
@@ -621,6 +629,9 @@ newtab-topsites-image-url-label = Irudi pertsonalizatuaren URLa
 newtab-topsites-use-custom-image-link = Erabili irudi pertsonalizatua
 newtab-topsites-use-image-link = Erabili irudi pertsonalizatua…
 newtab-topsites-image-validation = Ezin da irudia kargatu. Saiatu beste URL batekin.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Garbitu testua
 
@@ -1058,6 +1069,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Azeria eskuineko ertzean atzeko plano laranja batean
 newtab-wallpaper-firefox-colorful-sky = Laranja-olatuak gaueko zeru morean zehar
 newtab-wallpaper-firefox-desert-dark = Azeria desertu ilun batean eserita

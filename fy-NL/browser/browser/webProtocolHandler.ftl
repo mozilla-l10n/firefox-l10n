@@ -4,9 +4,19 @@
 
 protocolhandler-mailto-os-handler-yes-button = Ynstelle as standert
 protocolhandler-mailto-os-handler-no-button = No net
+# Variables:
+#  $host (String): The domain of the web application registering as a protocol handler.
+#  $protocol (String): The type of protocol (e.g. "web+example").
+protocolhandler-add-handler-message = ‘{ $host }’ tafoegje as in tapassing foar { $protocol }-keppelingen?
+protocolhandler-add-handler-button =
+    .label = Tapassing tafoegje
+    .accesskey = t
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-set = Hieltyd <strong>{ -brand-short-name } brûke om { $url } te iepenjen</strong> as jo op in keppeling klikke dy‘t jo e-mail iepenet?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } iepenet { $url }</strong> elke kear as jo op in keppeling klikke dy’t e-mail ferstjoert.
+
+##
+

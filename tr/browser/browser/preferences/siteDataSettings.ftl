@@ -52,3 +52,9 @@ site-data-removing-desc = Çerezleri ve site verilerini silerseniz bazı siteler
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Çerezleri ve site verilerini silmek, web sitelerinden çıkış yapmanıza neden olabilir. <strong>{ $baseDomain }</strong> çerezlerini ve site verilerini silmek istediğinizden emin misiniz?
 site-data-removing-table = Aşağıdaki web sitelerine ait çerezler ve site verileri silinecektir.
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Tüm çerezleri ve site verilerini temizle
+site-data-clear-all-prompt-text = ‘Şimdi temizle’yi seçerseniz { -brand-short-name } tarafından kaydedilen tüm çerezler ve site verileri silinecek. Bu, sitelerden çıkış yapmanıza neden olabilir ve çevrimdışı içeriği kaldırabilir.
+site-data-clear-all-prompt-button = Şimdi temizle

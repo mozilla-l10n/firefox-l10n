@@ -52,3 +52,9 @@ site-data-removing-desc = Het verwijderen van cookies en websitegegevens kan u b
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Het verwijderen van cookies en websitegegevens kan u bij websites afmelden. Weet u zeker dat u cookies en websitegegevens voor <strong>{ $baseDomain }</strong> wilt verwijderen?
 site-data-removing-table = Cookies en websitegegevens voor de volgende websites zullen worden verwijderd
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Alle cookies en websitegegevens wissen
+site-data-clear-all-prompt-text = ‘Nu wissen’ selecteren zal alle cookies en websitegegevens wissen die door { -brand-short-name } zijn opgeslagen. Dit kan u bij websites afmelden en offline webinhoud verwijderen.
+site-data-clear-all-prompt-button = Nu wissen

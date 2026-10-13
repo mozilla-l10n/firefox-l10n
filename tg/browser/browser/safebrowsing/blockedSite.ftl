@@ -23,15 +23,43 @@ safeb-palm-see-details-label = Дидани тафсилот
 
 safeb-blocked-phishing-page-error-desc-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он сомонаи қалбакӣ мебошад</a>. Шумо метавонед <a data-l10n-name='report_detection'>дар бораи ин мушкилии муайяншудаи нодуруст гузориш диҳед</a> ё <a data-l10n-name='ignore_warning_link'>ин хатарро ба назар нагирифта,</a> ба ин сомонаи хатарнок гузаред.
 safeb-blocked-phishing-page-error-desc-no-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он сомонаи қалбакӣ мебошад</a>. Шумо метавонед <a data-l10n-name='report_detection'>дар бораи ин мушкилии муайяншудаи нодуруст гузориш диҳед</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = Дар бораи сомонаҳои қалбакӣ ва иттилоъдуздӣ аз сомонаи <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> маълумоти бештар гиред. Дар бораи Муҳофизати «{ -brand-short-name }» аз иттиоъдуздӣ ё нармафзори зарарнок маълумоти бештар аз сомонаи <a data-l10n-name='firefox_support'>support.mozilla.org</a> гиред.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он дорои нармафзори зарарнок мебошад</a>. Шумо метавонед <a data-l10n-name='ignore_warning_link'>ин хатарро ба назар нагирифта,</a> ба сомонаи хатарнок гузаред.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он дорои нармафзори зарарнок мебошад</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = Дар бораи Муҳофизати «{ -brand-short-name }» аз иттиоъдуздӣ ё нармафзори зарарнок маълумоти бештар аз сомонаи <a data-l10n-name='firefox_support'>support.mozilla.org</a> гиред.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он дорои нармафзори зараровар мебошад</a>. Шумо метавонед <a data-l10n-name='ignore_warning_link'>ин хатарро ба назар нагирифта,</a> ба сомонаи хатарнок гузаред.
 safeb-blocked-unwanted-page-error-desc-no-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он дорои нармафзори зараровар мебошад</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = Дар бораи нармафзори зараровар ва номатлуб аз рӯи <a data-l10n-name='learn_more_link'>Сиёсати нармафзори номатлуб</a> маълумоти бештар гиред. Дар бораи Муҳофизати «{ -brand-short-name }» аз иттиоъдуздӣ ё нармафзори зарарнок маълумоти бештар аз сомонаи <a data-l10n-name='firefox_support'>support.mozilla.org</a> гиред.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он эҳтимолан дорои барномаи зараровар мебошад</a>. Шумо метавонед <a data-l10n-name='ignore_warning_link'>ин хатарро ба назар нагирифта,</a> ба сомонаи хатарнок гузаред.
 safeb-blocked-harmful-page-error-desc-no-override = Дар бораи сомонаи <span data-l10n-name='sitename'>{ $sitename }</span> гузориш дода шудааст, ки <a data-l10n-name='error_desc_link'>он эҳтимолан дорои нармафзори зараровар мебошад</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = Дар бораи Муҳофизати «{ -brand-short-name }» аз иттиоъдуздӣ ё нармафзори зарарнок маълумоти бештар аз сомонаи <a data-l10n-name='firefox_support'>support.mozilla.org</a> гиред.
 
 ## Variables:
@@ -42,3 +70,8 @@ safeb-blocked-addon-page-error-desc-override = <strong>Чаро ин сомон�
 safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> метавонад бо фаъолияти фиребгарона ва зараровар алоқаманд бошад.
 safeb-blocked-addon-page-error-desc3-override = <strong>Шумо дар ин масъала чӣ кор карда метавонед?</strong>
 safeb-blocked-addon-page-error-desc4-override = Барои пешгирӣ кардани чунин ҳолатҳои такрорӣ, шумо метавонед <strong>«{ $addonName }»</strong>-ро дап саҳифаи «about:addons» тоза кунед ё ғайрифаъол созед.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = Сомонаи ҷорӣ фиребанда нест
+safeb-report-false-deceptive-error-message = Айни ҳол ирсоли гузориш дар бораи ин хато ғайриимкон аст.

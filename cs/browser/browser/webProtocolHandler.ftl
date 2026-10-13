@@ -4,6 +4,13 @@
 
 protocolhandler-mailto-os-handler-yes-button = Nastavit jako výchozí
 protocolhandler-mailto-os-handler-no-button = Teď ne
+# Variables:
+#  $host (String): The domain of the web application registering as a protocol handler.
+#  $protocol (String): The type of protocol (e.g. "web+example").
+protocolhandler-add-handler-message = Přidat { $host } jako aplikaci pro odkazy typu { $protocol }?
+protocolhandler-add-handler-button =
+    .label = Přidat aplikaci
+    .accesskey = a
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
@@ -14,3 +21,6 @@ protocolhandler-mailto-handler-set =
        *[no-cases] Použít aplikaci <strong>{ -brand-short-name } pro otevření { $url }</strong> pokaždé, když klepnete na odkaz otevírající váš e-mail?
     }
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } otevře { $url }</strong> při každém klepnutím na odkaz, který odesílá e-mail.
+
+##
+

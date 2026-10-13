@@ -52,3 +52,9 @@ site-data-removing-desc = Om du tar bort kakor och webbplatsdata kan du loggas u
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Om du tar bort kakor och webbplatsdata kan du loggas ut från webbplatser. Är du säker på att du vill ta bort kakor och webbplatsdata för <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Kakor och webbplatsdata för följande webbplatser kommer att tas bort
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Rensa all kakor och webbplatsdata
+site-data-clear-all-prompt-text = Om du väljer ‘Rensa nu’ raderas alla kakor och webbplatsdata som lagras av { -brand-short-name }. Detta kan logga ut dig från webbplatser och ta bort offline-webbinnehåll.
+site-data-clear-all-prompt-button = Rensa nu
