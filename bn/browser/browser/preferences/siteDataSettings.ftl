@@ -52,3 +52,9 @@ site-data-removing-desc = কুকি এবং সাইটের তথ্য
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = কুকিজ এবং সাইটের ডেটা সরানো হলে আপনি ওয়েবসাইট থেকে লগ আউট করতে পারেন। আপনি কি <strong>{ $baseDomain }</strong>-এর জন্য কুকিজ এবং সাইট ডেটা সরানোর বিষয়ে নিশ্চিত?
 site-data-removing-table = এই সাইটগুলোর জন্য কুকি এবং সাইট ডাটা মুছে দেওয়া হবে
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = সব কুকিজ এবং সাইট ডেটা পরিস্কার কর
+site-data-clear-all-prompt-text = আপনি ‘এখন পরিষ্কার করুন’ নির্বাচন করলে { -brand-short-name } এর দ্বারা সংরক্ষিত সব কুকিজ এবং সাইট ডাটা মুছে যাবে। এতে করে আপনি বিভিন্ন ওয়েবসাইট থেকে লগ আউট হয়ে যাবেন এবং অফলাইন ওয়েব কনটেন্ট মুছে যাবে।
+site-data-clear-all-prompt-button = মুছে ফেল
