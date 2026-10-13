@@ -52,3 +52,9 @@ site-data-removing-desc = Ma bheir thu air falbh briosgaidean is dàta làraiche
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Ma bheir thu air falbh briosgaidean is dàta làraichean, dh’fhaoidte gun dèid do chlàradh a-mach à làraichean-lìn. A bheil thu cinnteach gu bheil thu airson briosgaidean is dàta na làraich <strong>{ $baseDomain }</strong> a sguabadh às?
 site-data-removing-table = Thèid briosgaidean is dàta nan làraichean-lìn a leanas a thoirt air falbh
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Falamhaich gach briosgaid is dàta nan làrach air fad
+site-data-clear-all-prompt-text = Ma thaghas tu “Falamhaich an-dràsta”, thèid gach briosgaid is dàta nan làrach air fad aig { -brand-short-name } a sguabadh às. Dh’fhaoidte gun dèid do chlàradh a-mach à làraichean agus gun dèid susbaint-lìn far loidhne a thoirt air falbh ri linn sin.
+site-data-clear-all-prompt-button = Falamhaich an-dràsta
