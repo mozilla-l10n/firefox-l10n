@@ -52,3 +52,9 @@ site-data-removing-desc = Jo móžno, až se was wótzjawjaju, gaž cookieje a s
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Gaž cookieje a sedłowe daty wótwónoźujośo, wótzjawijośo se snaź wót websedłow. Cośo napšawdu swóje cookieje a sedłowe daty za <strong>{ $baseDomain }</strong> wótwónoźeś?
 site-data-removing-table = Cookieje a sedłowe daty se za slědujuce websedła wótwónoźiju
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Wšykne cookieje a sedłowe daty wulašowaś
+site-data-clear-all-prompt-text = Gaž 'Něnto lašowaś' wuběraśo, se wšykne cookieje a sedłowe daty lašuju, kótarež { -brand-short-name } jo składł. Jo pśez to móžno, až se wótzjawijośo a až se webwopśimjeśe offline wótwónoźijo.
+site-data-clear-all-prompt-button = Něnto wuprozniś
