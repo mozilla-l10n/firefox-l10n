@@ -52,3 +52,9 @@ site-data-removing-desc = Odstránenie cookies a údajov stránok môže spôsob
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Odstránenie súborov cookie a údajov stránok vás môže odhlásiť z webových stránok. Naozaj chcete odstrániť súbory cookie a údaje stránok pre doménu <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Cookies a údaje nasledujúcich stránok budú odstránené
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Vymazať cookies a údaje stránok
+site-data-clear-all-prompt-text = Ak vyberiete možnosť ‘Vymazať teraz’, vymažú sa všetky cookies a údaje stránok uložené v aplikácii { -brand-short-name }. Tento krok môže viesť k vášmu odhláseniu z niektorých stránok a k odstráneniu offline obsahu.
+site-data-clear-all-prompt-button = Vymazať teraz
