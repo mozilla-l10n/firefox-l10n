@@ -52,3 +52,9 @@ site-data-removing-desc = ການຖອນ cookies ແລະຂໍ້ມູນ
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = ການລຶບຄຸກກີ້ ແລະຂໍ້ມູນເວັບໄຊອາດເຮັດໃຫ້ເຈົ້າອອກຈາກເວັບໄຊທ໌ໄດ້. ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຄຸກກີ້ ແລະຂໍ້ມູນເວັບໄຊສຳລັບ <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Cookies ແລະຂໍ້ມູນເວັບໄຊທ໌ສໍາລັບເວັບໄຊທ໌ຕໍ່ໄປນີ້ຈະຖືກລຶບອອກ
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = ລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊທ໌
+site-data-clear-all-prompt-text = ການເລືອກ ‘ລ້າງດຽວນີ້’ ຈະລ້າງຄຸກກີ້ແລະຂໍ້ມູນເວັບໄຊທ໌ທັງຫມົດທີ່ເກັບໂດຍ { -brand-short-name }. ນີ້ອາດເຮັດໃຫ້ທ່ານລົງຊື່ອອກຈາກເວັບໄຊທ໌ແລະລຶບເນື້ອຫາເວັບອອບລາຍ.
+site-data-clear-all-prompt-button = ລ້າງດຽວນີ້
