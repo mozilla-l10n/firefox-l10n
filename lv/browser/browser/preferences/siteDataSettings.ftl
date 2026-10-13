@@ -52,3 +52,9 @@ site-data-removing-desc = Datu aizvākšana var pārtraukt jūsu autorizācijas 
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Sīkdatņu un vietņu datu noņemšana var novest pie izrakstīšanās no tīmekļvietnēm. Vai tiešām noņemt <strong>{ $baseDomain }</strong> sīkdatnes un vietnes datus?
 site-data-removing-table = Tiks noņemtas šo tīmekļvietņu sīkdatnes un dati
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Notīrīt visas sīkdatnes un vietņu datus
+site-data-clear-all-prompt-text = Ar “Notīrīt tagad” atlasīšanu tiks notīrītas visas sīkdatnes un { -brand-short-name } saglabātie dati. Tas var novest pie izrakstīšanās no tīmekļvietnēm un noņemt bezsaistes tīmekļa saturu.
+site-data-clear-all-prompt-button = Notīrīt tagad
