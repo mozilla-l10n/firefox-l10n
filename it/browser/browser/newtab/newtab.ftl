@@ -109,6 +109,8 @@ home-prefs-mission-message2 =
     .message = Gli sponsor sostengono la nostra missione per un Web migliore.
 home-prefs-manage-topics-link2 =
     .label = Gestisci argomenti
+home-prefs-manage-widgets-link =
+    .label = Gestisci widget
 home-prefs-choose-wallpaper-link2 =
     .label = Scegli uno sfondo
 home-prefs-firefox-logo-header =
@@ -383,6 +385,9 @@ newtab-stocks-list-watchlist = Titoli seguiti
     .label = Titoli seguiti
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Cerca per nome o simbolo
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Mercati finanziari
@@ -536,6 +541,9 @@ newtab-recent-searches-just-now = adesso
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Rimuovi “{ $search }” dalle ricerche recenti
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Ricerca
 # Screen reader label for the widget's icon-only menu button.
@@ -622,6 +630,9 @@ newtab-topsites-image-url-label = Indirizzo immagine personalizzata
 newtab-topsites-use-custom-image-link = Utilizza un’immagine personalizzata
 newtab-topsites-use-image-link = Utilizza un’immagine personalizzata…
 newtab-topsites-image-validation = Errore durante il caricamento dell’immagine. Prova con un altro indirizzo.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Cancella testo
 
@@ -1059,6 +1070,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Una volpe sul margine destro, su uno sfondo arancione
 newtab-wallpaper-firefox-colorful-sky = Onde arancioni attraversano un cielo notturno viola
 newtab-wallpaper-firefox-desert-dark = Una volpe accovacciata in un deserto viola scuro
