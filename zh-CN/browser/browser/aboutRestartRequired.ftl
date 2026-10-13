@@ -5,7 +5,7 @@
 restart-required-title = 需要重启浏览器
 restart-required-heading2 = 抱歉，{ -brand-short-name } 需要进行快速重启
 restart-required-intro2 = { -brand-short-name } 需要重启以完成更新，从而保持功能安全、流畅。
-window-restoration-info2 = 我们将重新打开所有窗口和标签页（隐私浏览除外）。
+window-restoration-info2 = 您的所有窗口和标签页将重新打开（隐私浏览除外）。
 restart-required-why-now-question = 为什么现在就要重启？
 restart-required-why-now-answer = 这是由于其他 { -brand-short-name } 配置文件或实例进行了更新，或是某项更新无法暂缓至下次重启时进行。
 restart-required-more-details-heading = 详细信息
