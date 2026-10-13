@@ -23,15 +23,43 @@ safeb-palm-see-details-label = Gweld manylion
 
 safeb-blocked-phishing-page-error-desc-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan twyllodrus</a>. Gallwch <a data-l10n-name='report_detection'>adrodd am anhawster canfod</a> neu <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
 safeb-blocked-phishing-page-error-desc-no-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan twyllodrus</a>. Gallwch <a data-l10n-name='report_detection'>adrodd am anhawster canfod</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = Mae rhagor o wybodaeth am wefannau twyllodrus a physgota yn <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. A Diogelwch rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = Mae <span data-l10n-name='sitename'>{ $sitename }</span> y hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys meddalwedd maleisus</a>. Gallwch <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
 safeb-blocked-malware-page-error-desc-no-override-sumo = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys meddalwedd maleisus</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = Mae rhagor o wybodaeth am Ddiogelwch Rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> y hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys meddalwedd niweidiol</a>. Gallwch <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
 safeb-blocked-unwanted-page-error-desc-no-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys meddalwedd niweidiol</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = Mae rhagor o wybodaeth am feddalwedd niweidiol a digroeso yn <a data-l10n-name='learn_more_link'>Polisi Meddalwedd Digroeso</a>. A Diogelwch rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel gwefan sy'n cynnwys rhaglen sydd o bosib yn niweidiol</a>. Gallwch <a data-l10n-name='ignore_warning_link'>anwybyddu'r perygl</a> a mynd i'r wefan anniogel hon.
 safeb-blocked-harmful-page-error-desc-no-override = Mae <span data-l10n-name='sitename'>{ $sitename }</span> yn hysbys <a data-l10n-name='error_desc_link'>fel wefan sy'n cynnwys rhaglen sydd o bosib yn niweidiol</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = Mae rhagor o wybodaeth am Ddiogelwch Rhag Pysgota a Drwgwar { -brand-short-name } yn <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = Gall <strong>{ $sitename }</stro
 safeb-blocked-addon-page-error-desc3-override = <strong>Beth allwch chi ei wneud amdano?</strong>
 safeb-blocked-addon-page-error-desc4-override = Er mwyn atal hyn rhag digwydd eto, gallwch dynnu neu analluogi <strong>{ $addonName }</strong> o about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Dysgu rhagor am Ddiogelwch Ychwanegion Niweidiol { -brand-short-name }</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = Nid yw hon yn wefan twyllodrus
+safeb-report-false-deceptive-error-message = Nid yw'n bosib adrodd am y gwall hwn ar hyn o bryd.
