@@ -9,43 +9,6 @@ safeb-blocked-harmful-page-title = వెళ్ళబోతున్న సై�
 safeb-palm-accept-label = వెనక్కి వెళ్ళు
 safeb-palm-see-details-label = వివరాలను చూడండి
 
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables:
-##  $addonName (string) - the name of the harmful add-on
-##  $sitename (string) - Domain name for the blocked page
-
-
 ## Alert shown when reporting a site as not deceptive fails
 
 safeb-report-false-deceptive-error-title = ఇది మోసపూరిత సైటు కాదు

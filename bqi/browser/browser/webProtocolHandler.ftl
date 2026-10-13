@@ -7,10 +7,3 @@ protocolhandler-mailto-os-handler-no-button = سکو ن
 protocolhandler-add-handler-button =
     .label = ٱووردن برنومه
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

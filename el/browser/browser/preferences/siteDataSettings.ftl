@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Διαγραφή
+    .title = { site-data-removing-header }
 site-data-removing-header = Διαγραφή cookie και δεδομένων ιστοτόπου
 site-data-removing-desc = Η διαγραφή των cookie και των δεδομένων ιστοτόπων ενδέχεται να σας αποσυνδέσει από ιστοτόπους. Θέλετε σίγουρα να κάνετε αυτές τις αλλαγές;
 # Variables:

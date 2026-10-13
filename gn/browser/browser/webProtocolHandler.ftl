@@ -17,6 +17,3 @@ protocolhandler-add-handler-button =
 
 protocolhandler-mailto-handler-set = ¿Eiporu <strong>{ -brand-short-name } embojuruja hag̃ua { $url }</strong>eikutúvo juajuha ombojurujáva ñanduti veve?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } ombojurujáta { $url }</strong> eikutúvo juajuha omondóva ñanduti veve.
-
-##
-

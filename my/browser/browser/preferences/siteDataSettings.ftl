@@ -38,8 +38,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = ဖယ်ရှားပါ
+    .title = { site-data-removing-header }
 site-data-removing-header = ကွတ်ကီးနှင့် ဆိုက်အချက်အလက်များကို ဖယ်ရှားခြင်း
 site-data-removing-desc = ကွတ်ကီးနှင့်ဆိုက်ချက်လက်များဖယ်ရှားခြင်းသည် သင့်ကို ဆိုက်မှ ထွက်ခွာစေမည်။ သင်ပြောင်းလဲမှုလုပ်မှာ သေချာပါသလား။
 site-data-removing-table = အောက်ပါဆိုက်များအတွက် ကွတ်ကီးနှင့် ဆိုက်ချက်လက်များကို ဖယ်ရှားပါ

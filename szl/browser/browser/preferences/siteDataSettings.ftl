@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Wyciep
+    .title = { site-data-removing-header }
 site-data-removing-header = Wyciepowanie cookies i danych strōn
 site-data-removing-desc = Wyciepanie cookies i danych strōn może cie wylogować ze strōn. Na zicher chcesz wkludzić te zmiany?
 # Variables:

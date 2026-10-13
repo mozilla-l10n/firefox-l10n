@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = Vo’ jùnciri “{ $host }” comu applic
 protocolhandler-add-handler-button =
     .label = Junci applicazzioni
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

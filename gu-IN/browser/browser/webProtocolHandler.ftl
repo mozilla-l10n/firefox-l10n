@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = { $protocol } લિંક્સ માટ
 protocolhandler-add-handler-button =
     .label = કાર્યક્રમ એડ-ઓન
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

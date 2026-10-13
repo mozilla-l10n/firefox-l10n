@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Forigi
+    .title = { site-data-removing-header }
 site-data-removing-header = Forigo de kuketoj kaj retejaj datumoj…
 site-data-removing-desc = Forigo de kuketoj kaj retejaj datumoj povus fini viajn seancojn en retejoj. Ĉu vi certe volas fari tiujn ŝanĝojn?
 # Variables:

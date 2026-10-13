@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = Kas soovid lisada “{ $host }” rakendus
 protocolhandler-add-handler-button =
     .label = Lisa rakendus
     .accesskey = L
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

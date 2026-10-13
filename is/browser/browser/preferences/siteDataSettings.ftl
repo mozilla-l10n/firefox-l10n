@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Fjarlægja
+    .title = { site-data-removing-header }
 site-data-removing-header = Fjarlægja vefkökur og gögn vefsvæðis
 site-data-removing-desc = Að fjarlægja vefkökur og vefsíðugögn getur skráð þig útaf vefsvæðum. Ertu viss um að þú viljir gera þessar breytingar?
 # Variables:

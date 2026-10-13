@@ -17,6 +17,3 @@ protocolhandler-add-handler-button =
 
 protocolhandler-mailto-handler-set = Gunakan <strong>{ -brand-short-name } untuk membuka { $url }</strong> setiap kali Anda mengeklik tautan yang membuka surel?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } akan membuka { $url }</strong> setiap kali Anda mengeklik tautan yang mengirim surel.
-
-##
-

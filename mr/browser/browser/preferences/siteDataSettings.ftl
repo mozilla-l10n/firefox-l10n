@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = काढून टाका
+    .title = { site-data-removing-header }
 site-data-removing-header = कुकीज आणि साईट माहिती काढून टाकत आहे
 site-data-removing-desc = कुकीज आणि साईट माहिती काढून टाकल्याने आपण संकेतस्थळावरून लॉग आऊट होऊ शकता. आपणास खात्रीने बदल करायचे आहेत?
 site-data-removing-table = खालील संकेतस्थळावरून कुकीज आणि साईट माहिती काढण्यात येईल

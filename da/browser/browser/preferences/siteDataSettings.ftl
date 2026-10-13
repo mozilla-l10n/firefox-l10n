@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Fjern
+    .title = { site-data-removing-header }
 site-data-removing-header = Fjerner cookies og websteds-data
 site-data-removing-desc = Ved at fjerne cookies og websteds-data kan du blive logget ud fra websteder, du er logget ind på. Er du sikker på, at du vil foretage ændringerne?
 # Variables:

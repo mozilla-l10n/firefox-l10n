@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = أزِل
+    .title = { site-data-removing-header }
 site-data-removing-header = إزالة ملفات تعريف الارتباط و بيانات المواقع
 site-data-removing-desc = بإزالة ملفات تعريف الارتباط و بيانات المواقع قد تخرج من مواقع الوِب. أمتأكد من إجراء هذه التغييرات؟
 # Variables:

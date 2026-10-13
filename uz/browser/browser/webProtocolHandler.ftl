@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = { $protocol } havolalari uchun { $host }ni
 protocolhandler-add-handler-button =
     .label = Ilova dastur qoʻshish
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

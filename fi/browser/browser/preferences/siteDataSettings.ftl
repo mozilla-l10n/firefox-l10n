@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Poista
+    .title = { site-data-removing-header }
 site-data-removing-header = Evästeiden ja sivustotietojen poisto
 site-data-removing-desc = Sivustotietojen poistaminen voi kirjata sinut ulos sivustoilta. Haluatko varmasti tehdä muutokset?
 # Variables:

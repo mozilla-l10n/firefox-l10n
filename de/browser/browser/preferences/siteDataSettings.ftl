@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Entfernen
+    .title = { site-data-removing-header }
 site-data-removing-header = Cookies und Website-Daten löschen
 site-data-removing-desc = Durch das Löschen von Cookies und Website-Daten werden Sie eventuell von Websites abgemeldet. Sollen diese Änderungen wirklich vorgenommen werden?
 # Variables:

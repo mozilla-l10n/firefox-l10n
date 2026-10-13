@@ -41,8 +41,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = తొలగించు
+    .title = { site-data-removing-header }
 site-data-removing-header = కుకీలనూ సైటు డేటానీ తీసేస్తున్నాం
 site-data-removing-table = ఈ క్రింది వెబ్‌సైట్ల కుకీలు, సైటు డేటా తొలగించబడుతుంది
 

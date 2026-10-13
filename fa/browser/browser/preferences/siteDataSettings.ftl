@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = حذف
+    .title = { site-data-removing-header }
 site-data-removing-header = در حال حذف کلوچک‌ها و داده‌های پایگاه
 site-data-removing-desc = حذف کلوچک‌ها و داده‌های پایگاه ممکن است شما را از وبگاه‌ها خارج کند. آیا مطمئنید که می‌خواهید این کار را انجام دهید؟
 # Variables:

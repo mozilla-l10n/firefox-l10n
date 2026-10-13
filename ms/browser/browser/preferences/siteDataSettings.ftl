@@ -9,8 +9,8 @@ site-data-settings-window =
     .title = Urus Kuki dan Data Laman
 site-data-settings-description = Laman web berikut menyimpan kuki dan data laman dalam komputer anda. { -brand-short-name } menyimpan data dari laman web secara kekal sehinggalah anda membuangnya, dan membuang data dari laman web dengan storan tidak kekal apabila ruang diperlukan.
 site-data-search-textbox =
-    .accesskey = C
     .placeholder = Cari laman web
+    .accesskey = C
 site-data-column-host =
     .label = Laman
 site-data-column-cookies =
@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Buang
+    .title = { site-data-removing-header }
 site-data-removing-header = Membuang Kuki dan Data Laman
 site-data-removing-desc = Membuang kuki dan data laman boleh menglog anda keluar dari laman web. Adakah anda pasti mahu membuat perubahan?
 site-data-removing-table = Kuki dan data laman untuk laman web berikut akan dibuang

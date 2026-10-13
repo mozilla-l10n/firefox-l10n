@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Odstrani
+    .title = { site-data-removing-header }
 site-data-removing-header = Odstranjevanje piškotkov in podatkov strani
 site-data-removing-desc = Izbris piškotkov in podatkov strani vas lahko odjavi iz spletnih strani. Ste prepričani, da želite to storiti?
 # Variables:

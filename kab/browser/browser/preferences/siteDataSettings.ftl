@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Kkes
+    .title = { site-data-removing-header }
 site-data-removing-header = Kkes Inagan n tuqna akked isefka n usmel
 site-data-removing-desc = Tuksa n inagan n tuqna akked isefka n usmel tezmer ad k-tsufeγ seg ismal. Tebγiḍ asenfel-a?
 # Variables:

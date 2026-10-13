@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = “{ $host }” زیادبکە وەک دا
 protocolhandler-add-handler-button =
     .label = داوانامە زیاد بکە
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

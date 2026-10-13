@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = ¿Nutat “{ $host }” da' gahuin ma apli
 protocolhandler-add-handler-button =
     .label = Nuto' aplikasiôn
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

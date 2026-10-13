@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Ukloni
+    .title = { site-data-removing-header }
 site-data-removing-header = Uklanjanje kolačića i podataka web stranice
 site-data-removing-desc = Uklanjanje kolačića i podataka web-stranica će te možda odjaviti s web-stranica. Stvarno želiš napraviti promjene?
 # Variables:

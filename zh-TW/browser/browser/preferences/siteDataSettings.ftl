@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = 移除
+    .title = { site-data-removing-header }
 site-data-removing-header = 移除 Cookie 與網站資料
 site-data-removing-desc = 移除 Cookie 與網站資料後，可能會將您從大部分網站登出。確定要移除嗎？
 # Variables:

@@ -32,8 +32,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Sampôh
+    .title = { site-data-removing-header }
 site-data-removing-header = Teusampôh Kukis ngon Data Situih
 site-data-removing-desc = Teusampôh kukis ngon data situih nyang jeuët geupeutubiët droëneuh nibak situihwèb. Droëneuh yakin keumeuk peu-ubah?
 site-data-removing-table = Kukis ngon data situih untôk situihwèb dimiyub nyoë keumeuk sampôh

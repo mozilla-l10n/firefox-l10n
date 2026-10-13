@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = Quiers anyadir “{ $host }” como una ap
 protocolhandler-add-handler-button =
     .label = Adhibir l'aplicación
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

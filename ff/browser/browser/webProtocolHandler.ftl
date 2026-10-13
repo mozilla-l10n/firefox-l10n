@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = Ɓeydira “{ $host }” no jaaɓngal wona
 protocolhandler-add-handler-button =
     .label = Ɓeydu Jaaɓnirgal
     .accesskey = Y
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

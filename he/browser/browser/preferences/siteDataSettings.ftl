@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = הסרה
+    .title = { site-data-removing-header }
 site-data-removing-header = הסרת עוגיות ונתוני אתרים
 site-data-removing-desc = הסרת עוגיות ונתוני אתרים עשויה לנתק את המשתמש שלך מאתרים. האם ברצונך להמשיך בביצוע השינויים?
 # Variables:

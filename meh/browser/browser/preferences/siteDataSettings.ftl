@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Xita
+    .title = { site-data-removing-header }
 site-data-removing-header = Xina cookies ji datos sitio
 site-data-removing-desc = De xita cookies ji datos da nuu kuvi nakasɨ da sesiones teku. ¿A mana kuvinu sá´ánu ya'a?
 site-data-removing-table = Da cookies ji datos da nuu web naa

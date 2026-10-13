@@ -57,6 +57,7 @@ ipprotection-feature-introduction-button-open-vpn = Open VPN
 ipprotection-feature-introduction-button-get-started = Get started
 
 ## Callout shown when the user opens a private browsing window
+
 ipprotection-feature-introduction-title-private-browsing = Maximize privacy with { -brand-product-name }’s built-in VPN
 
 ## Summer promo offramp callout buttons
@@ -107,14 +108,14 @@ ipprotection-location-selection-callout-secondary-button = Dismiss
 ipprotection-android-promo-callout-title = Take built-in VPN with you on Android
 ipprotection-android-promo-callout-description = Scan the QR code to get { -brand-product-name } for Android and turn on built-in VPN for more privacy on the go. Coming soon to iOS.
 ipprotection-android-promo-callout-primary-button = Got it
+
+## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
+
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Set built-in VPN rules, then browse on
 ipprotection-site-inclusions-callout-title-lapsed-users = Try built-in VPN, now site by site
 ipprotection-site-inclusions-callout-description = Turn it on when you want extra privacy or location-based browsing, and off where you don’t.
 ipprotection-site-inclusions-callout-primary-button = Set rules
-
-## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
-
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Not now
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Dismiss
 

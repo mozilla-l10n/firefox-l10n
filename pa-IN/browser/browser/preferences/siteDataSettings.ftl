@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = ਹਟਾਓ
+    .title = { site-data-removing-header }
 site-data-removing-header = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਹਟਾਇਆ ਜਾ ਰਿਹਾ ਹੈ
 site-data-removing-desc = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣਾ ਨਾਲ ਤੁਸੀਂ ਵੈੱਬਸਾਈਟ ਤੋਂ ਲਾਗ ਆਉਟ ਹੋ ਜਾਉਂਗੇ। ਕੀ ਤੁਸੀਂ ਤਬਦੀਲੀਆਂ ਕਰਨੀਆਂ ਚਾਹੁੰਦੇ ਹੋ?
 # Variables:

@@ -37,8 +37,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Kwany
+    .title = { site-data-removing-header }
 site-data-removing-header = Kwanyo Angija ki Data me kakube
 site-data-removing-desc = Kwanyo angija ki data me kakube twero kwanyi woko ki ii kakube. Imoko ada ni imito timo alokaloka?
 site-data-removing-table = Ki bikwanyo woko angija ki data me kakube pi kakube magi

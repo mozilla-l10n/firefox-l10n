@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Pašalinti
+    .title = { site-data-removing-header }
 site-data-removing-header = Šalinami slapukai ir svetainių duomenys
 site-data-removing-desc = Pašalinus slapukus ir svetainių duomenis galite būti atjungti iš svetainių. Ar tikrai norite atlikti pakeitimus?
 # Variables:

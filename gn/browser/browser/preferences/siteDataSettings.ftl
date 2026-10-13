@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Mboguete
+    .title = { site-data-removing-header }
 site-data-removing-header = Emboguete Kookie ha tenda mba’ekuaarã
 site-data-removing-desc = Emboguetéramo Kookie ha tenda mba’ekuaarã ikatu nde pe’a ñanduti rendágui. ¿Ejaposépa añetehápe ñemoambue?
 # Variables:

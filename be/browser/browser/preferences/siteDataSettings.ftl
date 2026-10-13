@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Выдаліць
+    .title = { site-data-removing-header }
 site-data-removing-header = Выдаленне кукаў і дадзеных сайтаў
 site-data-removing-desc = Выдаленне кукаў і дадзеных сайтаў можа прывесці да выхаду з вэб-сайтаў. Вы ўпэўненыя, што жадаеце ўнесці змены?
 # Variables:

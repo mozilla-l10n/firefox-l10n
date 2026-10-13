@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Buang
+    .title = { site-data-removing-header }
 site-data-removing-header = Menghapus Kuki dan Data Situs
 site-data-removing-desc = Menghapus kuki dan data situs mungkin mengeluarkan Anda dari situs web. Yakin ingin melakukannya?
 # Variables:

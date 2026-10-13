@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Elimină
+    .title = { site-data-removing-header }
 site-data-removing-header = Eliminarea cookie-urilor și a datelor site-urilor
 site-data-removing-desc = Eliminarea cookie-urilor și a datelor site-urilor te-ar putea deconecta de pe site-uri web. Sigur vrei să efectuezi schimbările?
 # Variables:

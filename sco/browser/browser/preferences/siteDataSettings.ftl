@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Remuive
+    .title = { site-data-removing-header }
 site-data-removing-header = Remuivin Cookies and Site Data
 site-data-removing-desc = Remuivin cookies and site data micht log ye oot o wabsites. Are ye shair ye're wantin tae mak thon chynges?
 # Variables:

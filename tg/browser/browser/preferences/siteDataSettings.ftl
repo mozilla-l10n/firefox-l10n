@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Тоза кардан
+    .title = { site-data-removing-header }
 site-data-removing-header = Тоза кардани кукиҳо ва иттилооти сомона
 site-data-removing-desc = Амали тозакунии кукиҳо ва иттилооти сомонаҳо метавонад шуморо аз ҳисобҳои сомонаҳо хориҷ кунад. Шумо мутмаин ҳастед, ки мехоҳед тағйиротро татбиқ намоед?
 # Variables:

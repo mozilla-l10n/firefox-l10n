@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Thoir air falbh
+    .title = { site-data-removing-header }
 site-data-removing-header = Thoir air falbh briosgaidean is dàta làraichean
 site-data-removing-desc = Ma bheir thu air falbh briosgaidean is dàta làraichean, dh’fhaoidte gun dèid do chlàradh a-mach à làraichean-lìn. A bheil thu cinnteach gu bheil thu airson seo atharrachadh?
 # Variables:

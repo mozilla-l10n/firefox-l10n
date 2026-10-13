@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = “{ $host }”, { $protocol } ilişimleri
 protocolhandler-add-handler-button =
     .label = Uyğulamanı Ekle
     .accesskey = E
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

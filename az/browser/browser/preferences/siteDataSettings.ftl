@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Sil
+    .title = { site-data-removing-header }
 site-data-removing-header = Çərəzlər və Sayt Məlumatları silinir
 site-data-removing-desc = Çərəzlər və sayt məlumatlarını sildikdə avtomatik saytlardan çıxış etmiş ola bilərsiz. Bunu etmək istədiyinizə əminsiniz?
 site-data-removing-table = Aşağıdakı saytlar üçün çərəzlər və sayt məlumatları silinəcək

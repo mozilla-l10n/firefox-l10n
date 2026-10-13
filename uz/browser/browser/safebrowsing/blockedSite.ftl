@@ -5,43 +5,6 @@
 safeb-blocked-malware-page-title = Bu sahifa zararli boʻlishi mumkin
 safeb-palm-accept-label = Ortga
 
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables:
-##  $addonName (string) - the name of the harmful add-on
-##  $sitename (string) - Domain name for the blocked page
-
-
 ## Alert shown when reporting a site as not deceptive fails
 
 safeb-report-false-deceptive-error-title = Bu sayt qalbaki emas

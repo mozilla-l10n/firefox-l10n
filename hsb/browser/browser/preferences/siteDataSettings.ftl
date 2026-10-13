@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Wotstronić
+    .title = { site-data-removing-header }
 site-data-removing-header = Placki a daty sydła wotstronić
 site-data-removing-desc = Je móžno, zo so was wotzjewjeja, hdyž placki a sydłowe daty wotstronjeće. Chceće změny woprawdźe přewjesć?
 # Variables:

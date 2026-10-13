@@ -143,12 +143,6 @@ newtab-privacy-trackers-blocked-today =
        *[other] $count lorgaire blocáilte inniu
     }
 
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -165,12 +159,6 @@ newtab-privacy-message-info-6-cta = Tuilleadh eolais
 newtab-privacy-message-promo-signin-1-cta = Logáil isteach
 newtab-privacy-message-promo-private-window-1-cta = Oscail fuinneog phríobháideach
 
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
 ## Strings for the Finance widget
 
 # Context menu item linking to more information about the Finance widget.
@@ -178,22 +166,6 @@ newtab-stocks-menu-learn-more = Tuilleadh eolais
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Stoic
-
-## Strings for the Finance widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Finance widget watchlist add and remove controls
-
-
-## Finance widget ticker search
-
 
 ## Strings for the Picture of the Day widget
 
@@ -203,22 +175,6 @@ newtab-picture-menu-show-photo = Taispeáin pictiúr an lae inniu
 newtab-picture-show-button =
     .aria-label = Taispeáin pictiúr an lae inniu
     .title = Taispeáin pictiúr an lae inniu
-
-## Strings for the Search widget
-
-
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
-## Strings for the Horoscopes widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -262,9 +218,6 @@ newtab-topsites-url-input =
     .placeholder = Clóscríobh nó greamaigh URL
 newtab-topsites-url-validation = URL neamhbhailí
 newtab-topsites-image-validation = Theip ar an íomhá lódáil. Bain triail as URL eile.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Glan an téacs
 
@@ -285,12 +238,6 @@ newtab-confirm-delete-history-p2 = Ní féidir an gníomh seo a chur ar ceal.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Urraithe
-
-## Label used by screen readers for pinned top sites
-
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -325,9 +272,6 @@ newtab-menu-section-block = Cuir bac air
 newtab-menu-section-unfollow-topic = Ná lean
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Tuilleadh eolais
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ##
 
@@ -369,17 +313,10 @@ newtab-label-sponsored-by = Urraithe ag { $sponsor }
 #   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } nóim
 
-## Section Menu: These strings are displayed in the section context menu and are
-## meant as a call to action for the given section.
-
-
 ## Section Headers.
 
 newtab-section-header-topsites = Barrshuímh
 newtab-section-header-recent-activity = Gníomhaíocht Le Déanaí
-
-## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -390,10 +327,6 @@ newtab-discovery-empty-section-topstories-header = Níl aon scéal eile ann!
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Roimhe seo
-
-## Error Fallback Content.
-## This message and suggested action link are shown in each section of UI that fails to render.
-
 
 ## New Tab Appearance (browser theme picker)
 
@@ -424,22 +357,11 @@ newtab-custom-close-menu-button =
     .title = Dún
 newtab-custom-settings = Bainistigh tuilleadh socruithe
 
-## Customization Menu
-
-
-## New Tab Appearance (browser theme picker)
-
-
 ## New Tab Wallpapers
 
 newtab-wallpaper-toggle-title =
     .label = Páipéir balla
 newtab-wallpaper-dark-city = Tírdhreach cathrach corcra
-
-## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
-## can be a file they uploaded, a Picture of the Day they chose to keep, or a
-## Firefox wallpaper kept for them when it was retired.
-
 
 ## Solid Colors
 
@@ -448,9 +370,6 @@ newtab-wallpaper-orange = Oráiste
 newtab-wallpaper-pink = Bándearg
 newtab-wallpaper-light-pink = Bándearg éadrom
 newtab-wallpaper-red = Dearg
-
-## Abstract
-
 
 ## Firefox wallpaper descriptions used for screen readers
 
@@ -461,15 +380,9 @@ newtab-wallpaper-attribution = Grianghraf a ghlac <a data-l10n-name="name-link">
 newtab-wallpaper-feature-highlight-header = Cuir beagán datha leis
 newtab-wallpaper-feature-highlight-button = Tuigim
 
-## Firefox wallpaper descriptions used for screen readers
-
-
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
-
-## Celestial
-
 
 ## New Tab Weather
 
@@ -536,18 +449,6 @@ newtab-section-block-cancel-button = Cealaigh
 newtab-section-mangage-topics-title = Topaicí
 newtab-custom-wallpaper-cta = Bain triail as
 
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
 ## Strings for reporting issues with ads and content
 
 newtab-report-ads-reason-not-interested =
@@ -563,16 +464,10 @@ newtab-report-content-outdated =
 newtab-report-content-inappropriate-offensive =
     .label = Míchuí nó déistineach
 
-## Strings for task / to-do list productivity widget
-
-
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-menu-button =
     .aria-label = Roghanna an amadóra
-
-## Crossword widget
-
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -831,15 +726,6 @@ newtab-sports-widget-message-survey-widget-title = Céard a cheap tú de ghiuirl
 newtab-sports-widget-message-survey-widget-body = Roinn do thuairimí le cabhrú linn giuirléidí amach anseo a fheabhsú. Ansin, bain triail as an gceann nua i do liosta.
 newtab-sports-widget-message-survey-cta =
     .label = Tóg suirbhé
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

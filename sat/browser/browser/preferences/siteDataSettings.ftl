@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = ᱚᱪᱚᱜᱽ ᱢᱮ
+    .title = { site-data-removing-header }
 site-data-removing-header = ᱠᱩᱠᱤᱡᱽ ᱠᱚ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱚᱪᱚᱜᱚᱜ ᱠᱟᱱᱟ
 site-data-removing-desc = ᱠᱩᱠᱤ ᱟᱨ ᱥᱟᱭᱤᱴ ᱰᱟᱴᱟ ᱫᱚ ᱚᱪᱚᱜ ᱞᱟᱠᱮᱟᱱ ᱟᱢ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱵᱟᱦᱨᱮ ᱛᱮ ᱚᱰᱚᱠᱚᱜᱼᱟᱢ ᱾ ᱟᱢ ᱥᱟᱹᱨᱤᱛᱮ ᱱᱚᱣᱟ ᱵᱚᱫᱚᱞᱠᱚ ᱫᱟᱦᱟ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
 # Variables:

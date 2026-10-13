@@ -10,10 +10,3 @@ protocolhandler-add-handler-message = ¿Nawajo' natz'aqatisaj ri “{ $host }”
 protocolhandler-add-handler-button =
     .label = Titz'aqtisäx APLIKASYON
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

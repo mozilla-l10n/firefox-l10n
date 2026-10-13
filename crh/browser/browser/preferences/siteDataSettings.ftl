@@ -35,8 +35,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Çetleştir
+    .title = { site-data-removing-header }
 site-data-removing-header = Çörekler ve Sayt Verileri Çetleştirile
 site-data-removing-desc = Çörekler ve sayt verileriñ çetleştirilmesi sizni saytlardan tışarı imzalandırabilir. Bu deñişikliklerni yapmağa istegeniñizden eminsiñizmi?
 site-data-removing-table = Aşağıdaki ağ-saytlarına ait çörekler ve sayt verileri çetleştirilecek

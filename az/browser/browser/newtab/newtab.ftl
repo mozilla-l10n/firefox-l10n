@@ -117,76 +117,10 @@ home-prefs-recent-activity-select =
 home-prefs-weather-header-srd =
     .label = Hava
 
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Finance widget
-
-
-## Strings for the Finance widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Finance widget watchlist add and remove controls
-
-
-## Finance widget ticker search
-
-
 ## Strings for the Picture of the Day widget
 
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Günün şəkli
-
-## Strings for the Search widget
-
-
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
-## Strings for the Horoscopes widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -234,9 +168,6 @@ newtab-topsites-use-custom-image-link = Fərdi şəkil işlət
 newtab-topsites-use-image-link = Fərdi şəkil işlət…
 newtab-topsites-image-validation = Şəkli yükləmək mümkün olmadı. Fərqli ünvan yoxlayın.
 
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
-
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Ləğv et
@@ -250,15 +181,6 @@ newtab-topsites-add-button = Əlavə et
 newtab-confirm-delete-history-p1 = Bu səhifənin bütün parçalarını tarixçənizdən silmək istədiyinizə əminsiniz?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = Bu əməliyyat geri alına bilməz.
-
-## Top Sites - Sponsored label
-
-
-## Label used by screen readers for pinned top sites
-
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -288,9 +210,6 @@ newtab-menu-report = Bildir
 # Context menu option to personalize New Tab recommended stories by blocking a section of stories,
 # e.g. "Sports". "Block" is a verb here.
 newtab-menu-section-block = Əngəllə
-
-## Context menu options for sponsored stories and new ad formats on New Tab.
-
 
 ##
 
@@ -341,12 +260,6 @@ newtab-section-header-recent-activity = Son fəaliyyət
 
 newtab-empty-section-highlights = İnternetdə gəzməyə başlayın, burada ziyarət edəcəyiniz və ya əlfəcinləyəcəyiniz məqalə, video və digər səhifələri göstərəcəyik.
 
-## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
-
-
-## Strings for the story cards carousel
-
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -372,9 +285,6 @@ newtab-widget-manage-title = Vicetlər
 newtab-widget-manage-widget-button =
     .label = Vicetləri idarə et
 
-## Customization Menu
-
-
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -398,73 +308,6 @@ newtab-appearance-explore-more-themes-button = Daha çox mövzu kəşf et
 newtab-wallpaper-title = Divar kağızları
 newtab-wallpaper-toggle-title =
     .label = Divar kağızları
-
-## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
-## can be a file they uploaded, a Picture of the Day they chose to keep, or a
-## Firefox wallpaper kept for them when it was retired.
-
-
-## Solid Colors
-
-
-## Abstract
-
-
-## Firefox wallpaper descriptions used for screen readers
-
-
-## Firefox wallpaper descriptions used for screen readers
-
-
-## Firefox
-
-
-## Celestial
-
-
-## New Tab Weather
-
-
-## Topic Labels
-
-
-## Topic Selection Modal
-
-
-## Content Feed Sections
-## "Follow", "unfollow", and "following" are social media terms that refer to subscribing to or unsubscribing from a section of stories.
-## e.g. Following the travel section of stories.
-
-
-## Topic navigation
-## A row of buttons above the stories, each scrolling the page to that topic's section.
-
-
-## Button to block/unblock listed topics
-## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
-## e.g. Blocked the politics section of stories.
-
-
-## Confirmation modal for blocking a section
-
-
-## Strings for custom wallpaper highlight
-
-
-## Strings for new user activation custom wallpaper highlight
-
-
-## Strings for Nova wallpaper feature highlight
-
-
-## Strings for download mobile highlight
-
-
-## Strings for shortcuts highlight
-
-
-## Strings for reporting issues with ads and content
-
 
 ## Strings for task / to-do list productivity widget
 
@@ -499,31 +342,10 @@ newtab-widget-timer-notification-title = Vaxtölçən
 newtab-widget-timer-menu-button =
     .aria-label = Vaxtölçən seçimləri
 
-## Crossword widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
 ##
 
 newtab-sports-widget-show-less =
     .label = Daha az göstər
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
 
 ## World Cup wallpaper OMC messages
 ## Shown as on-screen messages promoting the World Cup wallpapers.
@@ -532,18 +354,6 @@ newtab-sports-widget-message-add-widgets-cta =
     .label = Vicet əlavə et
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Vicetləri kəşf et
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
-## Strings for activation window message variants. In certain experiment configurations,
-## the strings from these variants may be displayed in a message below the search input
-## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
-## labels, but not all.
-
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

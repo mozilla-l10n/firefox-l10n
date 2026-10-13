@@ -5,10 +5,3 @@
 protocolhandler-add-handler-button =
     .label = பயன்பாட்டைச் சேர்
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

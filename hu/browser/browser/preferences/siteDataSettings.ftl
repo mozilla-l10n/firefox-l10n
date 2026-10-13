@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Eltávolítás
+    .title = { site-data-removing-header }
 site-data-removing-header = Sütik és oldaladatok eltávolítása
 site-data-removing-desc = A sütik és oldaladatok eltávolítása kijelentkeztetheti a weboldalakról. Biztos akarja ezeket a változásokat?
 # Variables:

@@ -42,8 +42,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = દૂર કરો
+    .title = { site-data-removing-header }
 site-data-removing-header = કુકીઝ અને સાઇટ ડેટા દૂર કરી રહ્યાં છે
 site-data-removing-desc = કૂકીઝ અને સાઇટ ડેટાને દૂર કરવાથી તમે વેબસાઇટ્સથી લૉગ આઉટ થઈ શકો છો. શું તમે ખરેખર ફેરફારો કરવા માંગો છો?
 site-data-removing-table = નીચેની વેબસાઇટ્સ માટે કૂકીઝ અને સાઇટ ડેટા દૂર કરવામાં આવશે

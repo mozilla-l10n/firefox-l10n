@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Borrar
+    .title = { site-data-removing-header }
 site-data-removing-header = Se son borrando las cookies y los datos d'o puesto
 site-data-removing-desc = Borrar las cookies y los datos d'o puesto puede sacar-te de la sesión en bells puestos web. Seguro que quiers fer lo cambio?
 # Variables:

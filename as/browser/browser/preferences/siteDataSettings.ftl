@@ -39,8 +39,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = আঁতৰাওক
+    .title = { site-data-removing-header }
 site-data-removing-header = কুকীজ আৰু ছাইট ডাটা আঁতৰোৱা
 
 ## Clear all site data prompt

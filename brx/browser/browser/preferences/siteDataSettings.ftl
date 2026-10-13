@@ -38,8 +38,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = बोखार
+    .title = { site-data-removing-header }
 site-data-removing-header = कुकिफोर आरो साइट दाटाफोरखौ बोखारगासिनो
 
 ## Clear all site data prompt

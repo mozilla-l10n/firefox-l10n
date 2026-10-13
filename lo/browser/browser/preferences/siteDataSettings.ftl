@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = ລຶບອອກ
+    .title = { site-data-removing-header }
 site-data-removing-header = ລຶບຄຸກກີ້ ແລະ ຂໍ້ມູນໄຊ
 site-data-removing-desc = ການຖອນ cookies ແລະຂໍ້ມູນຂອງເວັບໄຊທ໌ອາດເຮັດໃຫ້ທ່ານອອກຈາກເວັບໄຊທ໌. ທ່ານແນ່ໃຈບໍວ່າທ່ານຕ້ອງການປ່ຽນແປງ?
 # Variables:

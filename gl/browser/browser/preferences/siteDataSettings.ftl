@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Retirar
+    .title = { site-data-removing-header }
 site-data-removing-header = Retirando as cookies e datos do sitio
 site-data-removing-desc = Retirar as cookies e datos do sitio pode pechar as sesións abertas nos sitios web. Confirma que quere facer os cambios?
 # Variables:

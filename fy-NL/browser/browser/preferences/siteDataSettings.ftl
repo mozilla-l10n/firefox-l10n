@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Fuortsmite
+    .title = { site-data-removing-header }
 site-data-removing-header = Cookies en websitegegevens fuortsmite
 site-data-removing-desc = It fuortsmiten fan cookies en websitegegevens kin jo by websites ôfmelde. Binne jo wis dat jo de wizigingen oanbringe wolle?
 # Variables:

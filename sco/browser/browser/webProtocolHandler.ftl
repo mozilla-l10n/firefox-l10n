@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = Eik on “{ $host }” as an application f
 protocolhandler-add-handler-button =
     .label = Eik on application
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

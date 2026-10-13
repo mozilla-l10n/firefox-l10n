@@ -27,8 +27,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = ತೆಗೆದು ಹಾಕು
+    .title = { site-data-removing-header }
 
 ## Clear all site data prompt
 

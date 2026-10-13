@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Sil
+    .title = { site-data-removing-header }
 site-data-removing-header = Çerezler ve site verileri siliniyor
 site-data-removing-desc = Çerezleri ve site verilerini silerseniz bazı sitelerdeki oturumlarınız kapanabilir. Bu değişiklikleri yapmak istediğinizden emin misiniz?
 # Variables:

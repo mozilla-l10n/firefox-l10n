@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Hiqe
+    .title = { site-data-removing-header }
 site-data-removing-header = Heqje Cookie-sh dhe të Dhënash Sajtesh
 site-data-removing-desc = Heqja e cookie-eve dhe të dhënave të sajteve mund të sjellë daljen tuaj nga llogaritë në sajte. Jeni i sigurt se doni të bëhen këto ndryshime?
 # Variables:

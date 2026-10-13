@@ -19,8 +19,8 @@ site-data-remove-all =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Xita
+    .title = { site-data-removing-header }
 
 ## Clear all site data prompt
 

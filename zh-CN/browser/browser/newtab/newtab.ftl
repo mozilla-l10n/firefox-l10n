@@ -317,9 +317,6 @@ newtab-stocks-list-watchlist = 关注列表
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = 搜索名称或代码
 
-## Strings for the Finance widget
-
-
 ## Screen-reader summary of a stock ticker.
 ## Variables:
 ##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
@@ -466,9 +463,6 @@ newtab-recent-searches-just-now = 刚刚
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = 从近期搜索中移除“{ $search }”
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = 搜索
 # Screen reader label for the widget's icon-only menu button.
@@ -486,9 +480,6 @@ newtab-search-widget-open-menu-button =
 newtab-recent-searches-empty-recent = 近期搜索会显示在这里，方便随时重新搜索。
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = 热门搜索当前不可用。
-
-## Strings for the Horoscopes widget
-
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -543,9 +534,6 @@ newtab-topsites-image-url-label = 自定义图像网址
 newtab-topsites-use-custom-image-link = 使用自定义图像
 newtab-topsites-use-image-link = 使用自定义图像…
 newtab-topsites-image-validation = 图像加载失败。请尝试其他网址。
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = 清除文本
 
@@ -977,9 +965,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = 狐狸从橙色背景的右侧探出脑袋
 newtab-wallpaper-firefox-colorful-sky = 紫色夜空中翻涌橙色波纹
 newtab-wallpaper-firefox-desert-dark = 狐狸坐在深紫色沙漠中

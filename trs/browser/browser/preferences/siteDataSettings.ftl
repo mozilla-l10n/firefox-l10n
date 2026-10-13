@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Dusiki'
+    .title = { site-data-removing-header }
 site-data-removing-header = Dusiki' Kookies nī si dato sitio
 site-data-removing-desc = Si dure' kookies nī dato sitio nī ga'ue narrán ma'an nej sesion gayi'i'. Anin yitinj ruat naduna raj
 site-data-removing-table = Nej kookies nī si dato nej sitio na ni ganare' ma

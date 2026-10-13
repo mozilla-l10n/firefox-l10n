@@ -17,6 +17,3 @@ protocolhandler-add-handler-button =
 
 protocolhandler-mailto-handler-set = 每次点击邮件链接时，都使用 <strong>{ -brand-short-name } 打开 { $url }</strong>吗？
 protocolhandler-mailto-handler-confirm = 每次点击邮件链接时，<strong>{ -brand-short-name } 将打开 { $url }</strong>。
-
-##
-

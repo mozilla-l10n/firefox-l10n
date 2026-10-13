@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = { $protocol } লিঙ্কগুলো�
 protocolhandler-add-handler-button =
     .label = অ্যাপ্লিকেশন যোগ
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

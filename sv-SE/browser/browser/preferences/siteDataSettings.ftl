@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Ta bort
+    .title = { site-data-removing-header }
 site-data-removing-header = Tar bort kakor och webbplatsdata
 site-data-removing-desc = Om du tar bort kakor och webbplatsdata kan du loggas ut från webbplatser. Är du säker på att du vill göra dessa ändringar?
 # Variables:

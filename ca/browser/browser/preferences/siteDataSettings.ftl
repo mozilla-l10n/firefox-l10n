@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Elimina
+    .title = { site-data-removing-header }
 site-data-removing-header = S'estan eliminant les galetes i dades del lloc
 site-data-removing-desc = Si elimineu les galetes i les dades del lloc, és possible que es tanqui la sessió dels llocs web. Segur que voleu fer aquests canvis?
 # Variables:

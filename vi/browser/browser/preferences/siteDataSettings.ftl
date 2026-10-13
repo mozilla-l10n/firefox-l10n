@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Xóa
+    .title = { site-data-removing-header }
 site-data-removing-header = Xóa cache và dữ liệu trang
 site-data-removing-desc = Xóa cookie và dữ liệu trang có thể khiến bạn bị đăng xuất khỏi trang web. Bạn có chắc chắn muốn thay đổi không?
 # Variables:

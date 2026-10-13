@@ -41,8 +41,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Scancella
+    .title = { site-data-removing-header }
 site-data-removing-header = Staju scancillannu i viscotta e i dati dî siti
 site-data-removing-desc = Cancillari i viscotta e i dati dî siti ti putissi fari nèsciri di certi siti. Cuntinuari?
 site-data-removing-table = Staju scancillannu i viscotta e i dati di sti siti

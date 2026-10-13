@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = წაშლა
+    .title = { site-data-removing-header }
 site-data-removing-header = ფუნთუშებისა და საიტის მონაცემების წაშლა
 site-data-removing-desc = ფუნთუშებისა და საიტის მონაცემების წაშლის შედეგად შესაძლოა, ვებსაიტებზე შესული ანგარიშებიდან გამოხვიდეთ. ნამდვილად გსურთ, განაგრძოთ?
 # Variables:

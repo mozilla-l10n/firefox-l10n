@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Өшіру
+    .title = { site-data-removing-header }
 site-data-removing-header = Cookies файлдары және сайт деректерін өшіру
 site-data-removing-desc = Cookies файлдарын және сайт деректерін өшіру нәтижесінде сіз сайттардан шығуыңыз мүмкін. Өзгерістерді іске асыруды қалайсыз ба?
 # Variables:

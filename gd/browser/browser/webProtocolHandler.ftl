@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = A bheil thu airson “{ $host }” a chur 
 protocolhandler-add-handler-button =
     .label = Cuir aplacaid ris
     .accesskey = a
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

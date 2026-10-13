@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = เอาออก
+    .title = { site-data-removing-header }
 site-data-removing-header = การเอาคุกกี้และข้อมูลไซต์ออก
 site-data-removing-desc = การเอาคุกกี้และข้อมูลไซต์ออกอาจนำคุณออกจากระบบของเว็บไซต์ คุณแน่ใจหรือไม่ว่าต้องการทำการเปลี่ยนแปลง?
 # Variables:

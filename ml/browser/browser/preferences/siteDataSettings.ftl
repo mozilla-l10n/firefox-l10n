@@ -39,8 +39,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = നീക്കംചെയ്യുക
+    .title = { site-data-removing-header }
 site-data-removing-header = വെബിട ദത്തയും കുക്കികളും മാറ്റുന്നു
 
 ## Clear all site data prompt

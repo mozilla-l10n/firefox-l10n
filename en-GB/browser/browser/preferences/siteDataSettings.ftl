@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Remove
+    .title = { site-data-removing-header }
 site-data-removing-header = Removing Cookies and Site Data
 site-data-removing-desc = Removing cookies and site data may log you out of web sites. Are you sure you want to make the changes?
 # Variables:

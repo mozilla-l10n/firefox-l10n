@@ -35,8 +35,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Aizvuokt
+    .title = { site-data-removing-header }
 site-data-removing-header = Seikdatņu un lopys datu dziešona
 site-data-removing-desc = Seikdatņu un lopys datu dziešona var nūvest pi izalūgōšonōs nu škārsteika lopom. Tu vyssvīns gribi veikt izmaiņas?
 site-data-removing-table = Seikdatnes un lopys dati nu sekojušom lopom tiks dzāstas

@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Видалити
+    .title = { site-data-removing-header }
 site-data-removing-header = Вилучення файлів cookie та даних сайтів
 site-data-removing-desc = Вилучення файлів cookie та даних сайтів може призвести до виходу на ваших вебсайтах. Ви справді хочете зробити ці зміни?
 # Variables:

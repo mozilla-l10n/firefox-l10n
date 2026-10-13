@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = ¿Amestar «{ $host }» como l'aplicación
 protocolhandler-add-handler-button =
     .label = Amestar l'aplicación
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

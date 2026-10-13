@@ -17,6 +17,3 @@ protocolhandler-add-handler-button =
 
 protocolhandler-mailto-handler-set = ใช้ <strong>{ -brand-short-name } เปิด { $url }</strong> ทุกครั้งที่คุณคลิกลิงก์ที่เปิดอีเมลของคุณหรือไม่?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } จะเปิด { $url }</strong> ทุกครั้งที่คุณคลิกลิงก์สำหรับส่งอีเมล
-
-##
-

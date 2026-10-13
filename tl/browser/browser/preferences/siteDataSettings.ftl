@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Alisin
+    .title = { site-data-removing-header }
 site-data-removing-header = Pagtanggal sa mga Cookie at Site Data
 site-data-removing-desc = Maaari kang ma-log out sa website kapag nagtanggal ka ng mga cookie at site data. Sigurado ka na bang gawin ang mga pagbabagong ito?
 site-data-removing-table = Ang mga cookie at site data sa mga sumusunod na website ay tatanggalin

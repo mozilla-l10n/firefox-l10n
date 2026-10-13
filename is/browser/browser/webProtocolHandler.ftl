@@ -17,6 +17,3 @@ protocolhandler-add-handler-button =
 
 protocolhandler-mailto-handler-set = Á að nota <strong>{ -brand-short-name } til að opna { $url }</strong> í hvert skipti sem þú smellir á tengil sem sendir tölvupóst?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } mun opna { $url }</strong> í hvert skipti sem þú smellir á tengil sem sendir tölvupóst.
-
-##
-

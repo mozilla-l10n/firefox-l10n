@@ -11,10 +11,3 @@ protocolhandler-add-handler-message = Ավելացնե՞լ “{ $host }”-ը ո
 protocolhandler-add-handler-button =
     .label = Ավելացնել ծրագիրը
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

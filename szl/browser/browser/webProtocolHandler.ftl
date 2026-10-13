@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = Przidać { $host } za aplikacyjo do linkō
 protocolhandler-add-handler-button =
     .label = Przidej aplikacyjo
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

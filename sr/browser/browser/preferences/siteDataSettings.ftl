@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Уклони
+    .title = { site-data-removing-header }
 site-data-removing-header = Брисање колачића и података сајта
 site-data-removing-desc = Уклањање колачића и података о сајтовима ће вас можда одјавити са веб-сајтова. Желите ли заиста да наставите?
 # Variables:

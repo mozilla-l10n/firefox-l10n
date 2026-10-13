@@ -11,10 +11,3 @@ protocolhandler-add-handler-message = Ouzhpennañ “{ $host }” evel arload ev
 protocolhandler-add-handler-button =
     .label = Ouzhpennañ un arload
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

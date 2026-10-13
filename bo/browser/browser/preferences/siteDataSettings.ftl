@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Settings
-
-
-## Removing
-
-
 ## Clear all site data prompt
 
 site-data-clear-all-prompt-title = གནས་སྡོད་ཡིག་ཆ་དང་དྲ་ཚིགས་ཀྱི་ཆ་འཕྲིན་ཡོངས་གཙང་སེལ།

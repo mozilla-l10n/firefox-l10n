@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Премахване
+    .title = { site-data-removing-header }
 site-data-removing-header = Премахване на бисквитки и данни на страници
 site-data-removing-desc = Премахването на бисквитките или данни на страници може да наложи да се впишете отново в някои сайтове. Наистина ли желаете да направите тези промени?
 # Variables:

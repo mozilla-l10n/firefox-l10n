@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Հեռացնել
+    .title = { site-data-removing-header }
 site-data-removing-header = Նշոցիկների եւ կայքի տուեալների ջնջում
 site-data-removing-desc = Նշոցիկների եւ կայքի տուեալների ջնջումը կարող է Ձեզ դուրս բերել կայքերից։ Կատարե՞լ։
 # Variables:

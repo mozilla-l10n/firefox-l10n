@@ -14,43 +14,6 @@ safeb-palm-advisory-desc = សេចក្ដីណែនាំដោយ <a data
 safeb-palm-accept-label = ថយ​ក្រោយ
 safeb-palm-see-details-label = មើលព័ត៌មានលម្អិត
 
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables:
-##  $addonName (string) - the name of the harmful add-on
-##  $sitename (string) - Domain name for the blocked page
-
-
 ## Alert shown when reporting a site as not deceptive fails
 
 safeb-report-false-deceptive-error-title = នេះ​មិនមែន​ជា​វេបសាយ​បោកប្រាស់​ទេ

@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = ¿Chika “{ $host }” tana iin aplicaci�
 protocolhandler-add-handler-button =
     .label = Chika aplicación
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

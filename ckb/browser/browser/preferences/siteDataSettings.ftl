@@ -43,8 +43,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = بیسڕەوە
+    .title = { site-data-removing-header }
 site-data-removing-header = شەکرۆکە و زانیاری ماڵپەڕ بسڕەوە
 site-data-removing-desc = سڕینەوەی زانیاری ماڵپەڕ و شەکرۆکە لەوانەیە ببێتە هۆی چوونە دەرەوەت لە هەموو ماڵپەڕەکان. تۆ دڵنیایت دەتەوێت ئەم کارە بکەیت؟
 site-data-removing-table = شەکرۆکە و زانیاری ماڵپەڕی ئەم ماڵپەڕانە دەسڕێنەوە

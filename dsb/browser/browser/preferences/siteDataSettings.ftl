@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Wótwónoźeś
+    .title = { site-data-removing-header }
 site-data-removing-header = Cookieje a sedłowe daty wótwónoźeś
 site-data-removing-desc = Jo móžno, až se was wótzjawjaju, gaž cookieje a sedłowe daty wótwónoźujośo. Cośo změny napšawdu pśewjasć?
 # Variables:

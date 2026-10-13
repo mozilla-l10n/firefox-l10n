@@ -6,5 +6,5 @@
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Kaa
+    .title = { site-data-removing-header }

@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Kustuta
+    .title = { site-data-removing-header }
 site-data-removing-header = Küpsiste ja saitide andmete kustutamine
 site-data-removing-desc = Küpsiste ja saitide andmete kustutamine võib põhjustada saitidest väljalogimist. Kas oled kindel, et soovid need muudatused teha?
 # Variables:

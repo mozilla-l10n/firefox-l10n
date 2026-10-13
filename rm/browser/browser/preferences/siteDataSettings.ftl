@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Allontanar
+    .title = { site-data-removing-header }
 site-data-removing-header = Stizzar cookies e datas da websites
 site-data-removing-desc = Cun stizzar cookies e datas da websites vegns ti eventualmain deconnectà da websites. Vuls ti propi far questas midadas?
 # Variables:

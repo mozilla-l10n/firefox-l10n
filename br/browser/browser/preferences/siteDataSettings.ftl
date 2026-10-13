@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Lemel kuit
+    .title = { site-data-removing-header }
 site-data-removing-header = O lemel kuit an toupinoù ha roadennoù lec'hienn
 site-data-removing-desc = Dilemel an toupinoù hag ar roadennoù lec'hienn a c'hall digennaskañ ac'hanoc'h eus lec'hiennoù ’zo. Sur oc'h e fell deoc'h ober ar c'hemmoù-se?
 # Variables:

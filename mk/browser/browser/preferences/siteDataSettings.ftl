@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Отстрани
+    .title = { site-data-removing-header }
 site-data-removing-header = Остранување на колачиња и податоци за мрежното место
 site-data-removing-desc = Отстранувањето на колачиња и податоци од местото може да Ве одјави од мрежните места. Дали сте сигурни дека сакате да ги направите промените?
 # Variables:

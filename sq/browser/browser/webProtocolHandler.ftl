@@ -17,6 +17,3 @@ protocolhandler-add-handler-button =
 
 protocolhandler-mailto-handler-set = Të përdoret <strong>{ -brand-short-name } për hapje { $url }</strong>, sa herë që klikoni një lidhje e cila hap email-in tuaj?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } do të hapë { $url }</strong>, sa herë që klikoni një lidhje e cila dërgon email.
-
-##
-

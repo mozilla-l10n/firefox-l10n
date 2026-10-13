@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Odstrániť
+    .title = { site-data-removing-header }
 site-data-removing-header = Odstránenie cookies a údajov stránok
 site-data-removing-desc = Odstránenie cookies a údajov stránok môže spôsobiť vaše odhlásenie z webových stránok. Naozaj chcete urobiť tieto zmeny?
 # Variables:

@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Tynnu
+    .title = { site-data-removing-header }
 site-data-removing-header = Tynnu Cwcis a Data Gwefan
 site-data-removing-desc = Gall dynnu cwcis a data gwefan eich allgofnodi o wefannau. Ydych chi'n siŵr eich bod am wneud y newidiadau hyn?
 # Variables:

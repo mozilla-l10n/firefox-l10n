@@ -11,10 +11,3 @@ protocolhandler-add-handler-message = Apondre « { $host } » coma aplicacion 
 protocolhandler-add-handler-button =
     .label = Apondre l'aplicacion
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

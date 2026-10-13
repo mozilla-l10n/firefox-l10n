@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = { $protocol } کی لنک کے لئے “{
 protocolhandler-add-handler-button =
     .label = ایپلی کیشن کا اضافہ کریں
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

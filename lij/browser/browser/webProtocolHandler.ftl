@@ -9,10 +9,3 @@ protocolhandler-add-handler-message = Azonzi “{ $host }” comme aplicaçion p
 protocolhandler-add-handler-button =
     .label = Azonzi aplicaçion
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

@@ -134,12 +134,6 @@ home-prefs-support-firefox-header-srd =
     .label = { -brand-product-name } podrška
 home-prefs-mission-message-learn-more-link-srd = Saznaj kako
 
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
@@ -148,66 +142,6 @@ newtab-privacy-empty-state = { -brand-short-name } automatski blokira programe z
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Pogledaj ukupni broj ovdje.
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Finance widget
-
-
-## Strings for the Finance widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Finance widget watchlist add and remove controls
-
-
-## Finance widget ticker search
-
-
-## Strings for the Picture of the Day widget
-
-
-## Strings for the Search widget
-
-
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
-## Strings for the Horoscopes widget
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -254,9 +188,6 @@ newtab-topsites-image-url-label = Prilagođeni URL slike
 newtab-topsites-use-custom-image-link = Koristi prilagođenu sliku
 newtab-topsites-use-image-link = Koristi prilagođenu sliku…
 newtab-topsites-image-validation = Neuspjelo učitavanje slike. Pokušaj jedan drugi URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Očisti tekst
 
@@ -285,9 +216,6 @@ newtab-topsite-sponsored = Sponzorirano
 topsite-label-pinned =
     .aria-label = { $title } (prikvačeno)
     .title = { $title }
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -408,9 +336,6 @@ newtab-discovery-empty-section-topstories-loading = Učitavanje…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Uh! Nismo potpuno učitali ovaj odjeljak.
 
-## Strings for the story cards carousel
-
-
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -468,12 +393,6 @@ newtab-custom-close-menu-button =
     .aria-label = Zatvori izbornik
     .title = Zatvori
 newtab-custom-settings = Upravljaj dodatnim postavkama
-
-## Customization Menu
-
-
-## New Tab Appearance (browser theme picker)
-
 
 ## New Tab Wallpapers
 
@@ -612,9 +531,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 
@@ -783,9 +699,6 @@ newtab-new-user-custom-wallpaper-title = Odaberi pozadinu te prilagodi { -brand-
 newtab-new-user-custom-wallpaper-subtitle = Neka svaka nova kartice pruža osjećaj doma uz prilagođene pozadine i boje.
 newtab-new-user-custom-wallpaper-cta = Isprobajte sada
 
-## Strings for Nova wallpaper feature highlight
-
-
 ## Strings for download mobile highlight
 
 newtab-download-mobile-highlight-title = Preuzmi { -brand-product-name } za mobilne uređaje
@@ -952,37 +865,6 @@ newtab-promo-card-dismiss-button =
     .aria-label = Odbaci
     .title = Odbaci
 
-## Crossword widget
-
-
-## Strings introduced by the Nova redesign of the Timer widget
-
-
-##
-
-
-## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
-
-
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
-## Sports widget — team names (FIFA country codes)
-## Only includes names not adequately covered by standard country-code
-## internationalization tooling.
-
-
-## World Cup wallpaper OMC messages
-## Shown as on-screen messages promoting the World Cup wallpapers.
-
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -1004,9 +886,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ovaj se prostor prilagođava tvojim pravilima
 newtab-activation-window-message-values-focus-message = { -brand-product-name } omogućuje pregledavanje na način koji ti se sviđa, s osobnijim načinom za početak dana na internetu. Prilagodi { -brand-product-name } svom ukusu.
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

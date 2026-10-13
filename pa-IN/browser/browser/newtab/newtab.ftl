@@ -385,9 +385,6 @@ newtab-stocks-list-watchlist = ਨਿਗਰਾਨ-ਸੂਚੀ
     .label = ਨਿਗਰਾਨ-ਸੂਚੀ
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = ਵਿੱਤੀ
@@ -537,9 +534,6 @@ newtab-recent-searches-just-now = ਹੁਣੇ ਹੁਣੇ
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” ਨੂੰ ਸੱਜਰੀਆਂ ਖੋਜਾਂ ਵਿੱਚ ਹਟਾਓ
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = ਖੋਜ
 # Screen reader label for the widget's icon-only menu button.
@@ -621,9 +615,6 @@ newtab-topsites-image-url-label = URL ਕਸਟਮ ਚਿੱਤਰ
 newtab-topsites-use-custom-image-link = ਕਸਟਮ ਚਿੱਤਰ ਵਰਤੋ
 newtab-topsites-use-image-link = ਕਸਟਮ ਚਿੱਤਰ ਵਰਤੋ…
 newtab-topsites-image-validation = ਚਿੱਤਰ ਲੋਡ ਕਰਨ ਤੋਂ ਅਸਫ਼ਲ ਰਿਹਾ। ਕਿਸੇ ਵੱਖਰੇ URL ਨਾਲ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = ਲਿਖਤ ਨੂੰ ਮਿਟਾਓ
 
@@ -1061,9 +1052,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = ਸੰਤਰੀ ਬੈਕਗਰਾਊਂਡ ਨਾਲ ਸੱਜੇ ਕੋਨੇ ਉੱਤੇ ਇੱਕ ਲੂੰਬੜ
 newtab-wallpaper-firefox-colorful-sky = ਜਾਮਨੀ ਰਾਤ ਦੇ ਅਸਮਾਨ ਦੇ ਆਰਪਾਰ ਸੰਤਰੀ ਰੰਗੀਆਂ ਲਹਿਰਾਂ
 newtab-wallpaper-firefox-desert-dark = ਗੂੜ੍ਹੇ ਜਾਮਨੀ ਥਲ ਵਿੱਚ ਬੈਠਾ ਹੋਇਆ ਕੋਈ ਲੂੰਬੜ

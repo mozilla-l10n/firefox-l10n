@@ -9,8 +9,8 @@ site-data-settings-window =
     .title = Handsam infokapslar og nettstad-data
 site-data-settings-description = Følgjande nettstadar lagrar infokapslar og nettstad-data på datamaskina. { -brand-short-name } lagrar data frå nettstadar med vedvarande lagring heilt til du slettar dei og slettar data frå nettstadar med ikkje-vedvarende lagring etterkvart som det trengst plass.
 site-data-search-textbox =
-    .accesskey = S
     .placeholder = Søk på nettstadar
+    .accesskey = S
 site-data-column-host =
     .label = Nettside
 site-data-column-cookies =
@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Fjern
+    .title = { site-data-removing-header }
 site-data-removing-header = Fjernar infokapslar og nettsidedata
 site-data-removing-desc = Fjerning av infokapslar og nettsidedata kan logge deg ut av nettsider. Er du sikker på at du vil gjere desse endringane?
 # Variables:

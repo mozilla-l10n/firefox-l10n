@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = ہٹاؤ
+    .title = { site-data-removing-header }
 site-data-removing-header = کوکیاں تے سائٹ ڈیٹا ہٹدا پیا ہے
 site-data-removing-desc = کوکیاں تے سائٹ دے ڈیٹا کوں ہٹاوݨ نال تساں ویب سائٹاں کنوں لاگ آؤٹ تھی سڳدے او۔ کیا تساں واقعی تبدیلیاں کرݨ چاہندے او؟
 # Variables:

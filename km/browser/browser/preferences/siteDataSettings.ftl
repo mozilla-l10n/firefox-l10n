@@ -43,8 +43,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = លុប
+    .title = { site-data-removing-header }
 site-data-removing-header = ការលុបចេញខូឃី និងទិន្នន័យគេហទំព័រ
 site-data-removing-desc = ការលុបខូឃី និងទិន្នន័យ​គេហទំព័រ​អាចចុះឈ្មោះអ្នកចេញពី​គេហទំព័រ។ តើអ្នកប្រាកដថាអ្នកចង់ធ្វើការផ្លាស់ប្តូរទេ?
 site-data-removing-table = ខូឃី និងទិន្នន័យ​គេហទំព័រ​សម្រាប់តំបន់បណ្ដាញខាងក្រោមនឹងត្រូវបានលុបចោល

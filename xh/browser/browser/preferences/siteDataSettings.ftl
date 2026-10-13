@@ -15,5 +15,5 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Susa
+    .title = { site-data-removing-header }

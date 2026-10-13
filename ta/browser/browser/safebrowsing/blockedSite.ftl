@@ -13,43 +13,6 @@ safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname
 safeb-palm-accept-label = பின் செல்
 safeb-palm-see-details-label = விவரத்தைப் பார்
 
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables
-##  $sitename (string) - Domain name for the blocked page
-
-
-## Variables:
-##  $addonName (string) - the name of the harmful add-on
-##  $sitename (string) - Domain name for the blocked page
-
-
 ## Alert shown when reporting a site as not deceptive fails
 
 safeb-report-false-deceptive-error-title = இது ஏமாற்றுத் தளமல்ல

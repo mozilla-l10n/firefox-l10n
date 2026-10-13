@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Kendu
+    .title = { site-data-removing-header }
 site-data-removing-header = Cookieak eta guneetako datuak kentzea
 site-data-removing-desc = Cookieak eta guneetako datuak kentzeak webguneetako saioak amaitzea eragin lezake. Ziur zaude aldaketak burutu nahi dituzula?
 # Variables:

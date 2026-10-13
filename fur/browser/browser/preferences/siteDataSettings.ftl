@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Gjave
+    .title = { site-data-removing-header }
 site-data-removing-header = Gjave i cookies e i dâts dai sîts
 site-data-removing-desc = Cu la eliminazion dai cookies e dai dâts dai sîts, tu puedis cjatâti disconetût des pagjinis web. Confermistu pardabon lis modifichis?
 # Variables:

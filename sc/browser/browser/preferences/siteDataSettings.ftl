@@ -44,8 +44,8 @@ site-data-remove-shown =
 ## Removing
 
 site-data-removing-dialog =
-    .title = { site-data-removing-header }
     .buttonlabelaccept = Boga
+    .title = { site-data-removing-header }
 site-data-removing-header = Boghende is testimòngios e is datos de is sitos
 site-data-removing-desc = Bogare is testimòngios e is datos de is sitos diat pòdere serrare is sessiones tuas in is sitos web. Seguru chi boles fàghere custas modìficas?
 # Variables:

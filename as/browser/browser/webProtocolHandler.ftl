@@ -11,10 +11,3 @@ protocolhandler-add-handler-message = “{ $host }”ক { $protocol } লিং
 protocolhandler-add-handler-button =
     .label = এপ্লিকেচন যোগ কৰক
     .accesskey = A
-
-## Variables:
-##  $url (String): The url of a webmailer, but only its full domain name.
-
-
-##
-

@@ -385,9 +385,6 @@ newtab-stocks-list-watchlist = სამეთვალყურეო
     .label = სამეთვალყურეო
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = ძიება სახელით ან ასონიშნით
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = ფინანსები
@@ -545,9 +542,6 @@ newtab-recent-searches-just-now = ახლახან
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = მოცილდეს „{ $search }“ ბოლოს მოძიებულებიდან
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = ძიება
 # Screen reader label for the widget's icon-only menu button.
@@ -629,9 +623,6 @@ newtab-topsites-image-url-label = სასურველი სურათი
 newtab-topsites-use-custom-image-link = სასურველი სურათის გამოყენება
 newtab-topsites-use-image-link = სასურველი სურათის გამოყენება…
 newtab-topsites-image-validation = სურათი ვერ ჩაიტვირთა. სცადეთ სხვა URL-ბმული.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = ტექსტის გასუფთავება
 
@@ -1069,9 +1060,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = მელა მარჯვენა კიდეზე ნარინჯისფერი ფონით
 newtab-wallpaper-firefox-colorful-sky = ნარინჯისფერი ტალღები ღამის იისფერ ცაზე
 newtab-wallpaper-firefox-desert-dark = მჯდარი მელა ჩაბნელებულ მეწამულ უდაბნოში
