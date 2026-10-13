@@ -46,3 +46,9 @@ site-data-removing-dialog =
 site-data-removing-header = Staju scancillannu i viscotta e i dati dî siti
 site-data-removing-desc = Cancillari i viscotta e i dati dî siti ti putissi fari nèsciri di certi siti. Cuntinuari?
 site-data-removing-table = Staju scancillannu i viscotta e i dati di sti siti
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Scancella tutti i viscotta e i dati dî siti
+site-data-clear-all-prompt-text = Scartari ‘Scancella ora’ scancella tutti i viscotta e i dati dî siti sarbati di { -brand-short-name }. Chistu ti putissi fari nèsciri dî siti e scancillari i cuntinuti fora linia.
+site-data-clear-all-prompt-button = Scancella ora
