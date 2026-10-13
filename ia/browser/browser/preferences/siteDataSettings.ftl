@@ -52,3 +52,9 @@ site-data-removing-desc = Remover cookies e datos de sito pote clauder tu sessio
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Remover cookies e datos de sito pote disconnecter te de sitos web. Vole tu vermente remover cookies e datos de sito pro <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Cookies e datos de sito pro le sequente sitos web sera removite
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Eliminar tote le cookies e datos de sito
+site-data-clear-all-prompt-text = Si tu selige ‘Eliminar ora’, tote le cookies e datos de sito immagazinate per { -brand-short-name } essera delite. Isto pote clauder tu sessiones active in sitos web e remover contento web immagazinate pro uso foras de linea.
+site-data-clear-all-prompt-button = Eliminar ora
