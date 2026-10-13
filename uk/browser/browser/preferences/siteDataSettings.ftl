@@ -52,3 +52,9 @@ site-data-removing-desc = Вилучення файлів cookie та даних
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Вилучення файлів cookie та даних сайтів може спричинити вихід на вебсайтах. Ви дійсно хочете вилучити файли cookie та дані сайтів для <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Файли cookie та дані сайтів для зазначених вебсайтів будуть вилучені
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Стерти всі файли cookie та дані сайтів
+site-data-clear-all-prompt-text = Вибравши "Стерти зараз", усі файли cookie та дані сайтів, які зберігаються в { -brand-short-name }, будуть стерті. Це може призвести до виходу на вебсайтах та вилучення автономного вебвмісту.
+site-data-clear-all-prompt-button = Стерти зараз
