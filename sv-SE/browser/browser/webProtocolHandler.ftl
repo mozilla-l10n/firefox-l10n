@@ -4,9 +4,19 @@
 
 protocolhandler-mailto-os-handler-yes-button = Ange som standard
 protocolhandler-mailto-os-handler-no-button = Inte nu
+# Variables:
+#  $host (String): The domain of the web application registering as a protocol handler.
+#  $protocol (String): The type of protocol (e.g. "web+example").
+protocolhandler-add-handler-message = Lägg till “{ $host }” som ett program för { $protocol }-länkar?
+protocolhandler-add-handler-button =
+    .label = Lägg till program
+    .accesskey = A
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-set = Använd <strong>{ -brand-short-name } för att öppna { $url }</strong> varje gång du klickar på en länk som öppnar ett e-postmeddelande?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } öppnar { $url }</strong> varje gång du klickar på en länk som skickar e-post.
+
+##
+
