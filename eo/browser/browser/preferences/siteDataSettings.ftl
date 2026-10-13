@@ -52,3 +52,9 @@ site-data-removing-desc = Forigo de kuketoj kaj retejaj datumoj povus fini viajn
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Forigo de kuketoj kaj retejaj datumoj povas fini seancojn retejajn. Ĉu vi certe volas forigi kuketojn kaj retejajn datumojn de <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Kuketoj kaj retejaj datumoj estos forigitaj por la jenaj retejoj
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Viŝi ĉiujn kuketojn kaj retejajn datumojn
+site-data-clear-all-prompt-text = Se vi elektas ‘Viŝi nun’ ĉiuj kuketoj kaj retejaj datumoj konservitaj de { -brand-short-name } estos viŝitaj. Tio povus fini viajn seancojn kaj forigi teksaĵajn malkonektitaĵojn.
+site-data-clear-all-prompt-button = Viŝi nun
