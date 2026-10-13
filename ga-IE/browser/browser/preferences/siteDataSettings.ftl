@@ -38,3 +38,8 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Bain
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Glan gach fianán agus na sonraí suímh go léir
+site-data-clear-all-prompt-button = Glan Anois
