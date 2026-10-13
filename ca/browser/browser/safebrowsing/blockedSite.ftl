@@ -23,15 +23,43 @@ safeb-palm-see-details-label = Mostra detalls
 
 safeb-blocked-phishing-page-error-desc-override = S'ha informat que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>és un lloc enganyós</a>. Podeu <a data-l10n-name='report_detection'>informar d'un error en la detecció</a> o <a data-l10n-name='ignore_warning_link'>ignorar el risc</a> i visitar aquest lloc insegur.
 safeb-blocked-phishing-page-error-desc-no-override = S'ha informat que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>és un lloc enganyós</a>. Podeu <a data-l10n-name='report_detection'>informar d'un error en la detecció</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = Per obtenir més informació sobre els llocs enganyosos i la pesca electrònica (phishing), visiteu <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Per obtenir més informació sobre la protecció contra la pesca electrònica i el programari maliciós del { -brand-short-name }, visiteu <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = S'ha informat que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>conté programari maliciós</a>. Podeu <a data-l10n-name='ignore_warning_link'>ignorar el risc</a> i visitar aquest lloc insegur.
 safeb-blocked-malware-page-error-desc-no-override-sumo = S'ha informat que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>conté programari maliciós</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = Per obtenir més informació sobre la protecció contra la pesca electrònica i el programari maliciós del { -brand-short-name }, visiteu <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = S'ha informat que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>conté programari perillós</a>. Podeu <a data-l10n-name='ignore_warning_link'>ignorar el risc</a> i visitar aquest lloc insegur.
 safeb-blocked-unwanted-page-error-desc-no-override = S'ha informat que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>conté programari perillós</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = Per obtenir més informació sobre el programari perillós i indesitjable, vegeu la <a data-l10n-name='learn_more_link'>política de programari indesitjable</a>. Per obtenir més informació sobre la protecció contra la pesca electrònica i el programari maliciós del { -brand-short-name }, visiteu <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = S'ha informat que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>conté una aplicació potencialment perillosa</a>. Podeu <a data-l10n-name='ignore_warning_link'>ignorar el risc</a> i visitar aquest lloc insegur.
 safeb-blocked-harmful-page-error-desc-no-override = S'ha informat que <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>conté una aplicació potencialment perillosa</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = Per obtenir més informació sobre la protecció contra la pesca electrònica i el programari maliciós del { -brand-short-name }, visiteu <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> p
 safeb-blocked-addon-page-error-desc3-override = <strong>Què hi podeu fer?</strong>
 safeb-blocked-addon-page-error-desc4-override = Per evitar que això torni a passar, podeu eliminar o desactivar <strong>{ $addonName }</strong> des d'about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Més informació sobre la protecció  del { -brand-short-name } contra complements nocius</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = No és cap lloc enganyós
+safeb-report-false-deceptive-error-message = No s'ha pogut notificar aquest error en aquest moment.
