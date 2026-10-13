@@ -56,3 +56,5 @@ site-data-removing-table = Se eliminarán las cookies y datos de los siguientes 
 ## Clear all site data prompt
 
 site-data-clear-all-prompt-title = Limpiar todas las cookies y datos del sitio
+site-data-clear-all-prompt-text = Seleccionar 'Limpiar ahora' limpiará todas las cookies y datos del sitio guardados por { -brand-short-name }. Esto puede desconectarle de sitios web y eliminar el contenido web sin conexión.
+site-data-clear-all-prompt-button = Limpiar ahora
