@@ -13,3 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } បានរារ
 safeb-palm-advisory-desc = សេចក្ដីណែនាំដោយ <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>។
 safeb-palm-accept-label = ថយ​ក្រោយ
 safeb-palm-see-details-label = មើលព័ត៌មានលម្អិត
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = នេះ​មិនមែន​ជា​វេបសាយ​បោកប្រាស់​ទេ
+safeb-report-false-deceptive-error-message = មិន​អាច​រាយការណ៍​កំហុស​នៅ​ពេល​នេះ​បាន​ទេ។
