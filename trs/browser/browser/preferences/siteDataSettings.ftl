@@ -49,3 +49,9 @@ site-data-removing-dialog =
 site-data-removing-header = Dusiki' Kookies nī si dato sitio
 site-data-removing-desc = Si dure' kookies nī dato sitio nī ga'ue narrán ma'an nej sesion gayi'i'. Anin yitinj ruat naduna raj
 site-data-removing-table = Nej kookies nī si dato nej sitio na ni ganare' ma
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Nagi'iaj niñu' dron' kookies nī si dato sitio
+site-data-clear-all-prompt-text = 'Ngà ganahuit ‘Na'nï' Hiaj’ ni gire' daran' kookies nī nej dato sitio na, sa nu sa' riña { -brand-short-name }. Sa ga'ue gi'iaj ma hui si narán ma nej sitio hua ni'nïnj ni nadure'ej nej sa ma sa'.
+site-data-clear-all-prompt-button = Dure' hiaj
