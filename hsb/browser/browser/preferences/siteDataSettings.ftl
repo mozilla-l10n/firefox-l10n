@@ -52,3 +52,9 @@ site-data-removing-desc = Je móžno, zo so was wotzjewjeja, hdyž placki a syd�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Hdyž placki a sydłowe daty wotstronjeće, wotzjewiće so snano wot websydłow. Chceće woprawdźe swoje placki a sydłowe daty za <strong>{ $baseDomain }</strong> wotstronić?
 site-data-removing-table = Placki a sydłowe daty so za slědowace websydła wotstronja
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Wšě placki a sydłowe daty zhašeć
+site-data-clear-all-prompt-text = Hdyž 'Nětko zhašeć' wuběraće, so wšě placki a sydłowe daty zhašeja, kotrež { -brand-short-name } je składował. Je přez to móžno, zo so wotzjewiće a zo so webwobsah offline wotstroni.
+site-data-clear-all-prompt-button = Nětko wuprózdnić
