@@ -109,6 +109,8 @@ home-prefs-mission-message2 =
     .message = Các nhà tài trợ của chúng tôi hỗ trợ sứ mệnh của chúng tôi là xây dựng một trang web tốt hơn.
 home-prefs-manage-topics-link2 =
     .label = Quản lý chủ đề
+home-prefs-manage-widgets-link =
+    .label = Quản lý widget
 home-prefs-choose-wallpaper-link2 =
     .label = Chọn một hình nền
 home-prefs-firefox-logo-header =
@@ -351,6 +353,9 @@ newtab-stocks-list-watchlist = Danh sách theo dõi
     .label = Danh sách theo dõi
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Tìm kiếm theo tên hoặc ký hiệu
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Tài chính
@@ -504,6 +509,9 @@ newtab-recent-searches-just-now = Vừa xong
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Xoá “{ $search }” khỏi các tìm kiếm gần đây
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Tìm kiếm
 # Screen reader label for the widget's icon-only menu button.
@@ -585,6 +593,9 @@ newtab-topsites-image-url-label = URL hình ảnh tuỳ chỉnh
 newtab-topsites-use-custom-image-link = Sử dụng hình ảnh tùy chỉnh
 newtab-topsites-use-image-link = Sử dụng hình ảnh tùy chỉnh…
 newtab-topsites-image-validation = Không tải được hình ảnh. Hãy thử một URL khác.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Xoá văn bản
 
@@ -1021,6 +1032,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Một con cáo ở rìa bên phải trên nền màu cam
 newtab-wallpaper-firefox-colorful-sky = Những làn sóng màu cam trải dài trên bầu trời đêm tím
 newtab-wallpaper-firefox-desert-dark = Một con cáo đang ngồi trong sa mạc màu tím sẫm
