@@ -52,3 +52,9 @@ site-data-removing-desc = Durch das Löschen von Cookies und Website-Daten werde
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Durch das Löschen von Cookies und Website-Daten werden Sie eventuell von Websites abgemeldet. Sollen wirklich alle Cookies und Website-Daten für <strong>{ $baseDomain }</strong> gelöscht werden?
 site-data-removing-table = Cookies und Website-Daten der folgenden Websites werden verwendet
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Alle Cookies und Website-Daten leeren
+site-data-clear-all-prompt-text = "Jetzt leeren" wird alle von { -brand-short-name } gespeicherten Cookies und Website-Daten löschen. Dadurch werden Sie eventuell von Websites abgemeldet und Offline-Webinhalte entfernt.
+site-data-clear-all-prompt-button = Jetzt leeren
