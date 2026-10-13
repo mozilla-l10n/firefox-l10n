@@ -52,3 +52,9 @@ site-data-removing-desc = Tuksa n inagan n tuqna akked isefka n usmel tezmer ad 
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Tukksa n yinagan n tuqqna d yisefka n usmel yezmer ad ak·akem-isuffeɣ seg yismal web. D tidet tebɣiḍ ad tekkseḍ inagan n tuqqna d yisefka n usmel i <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Inagan n tuqna akked isefka n usmel n ismal-a ad ttwaksen
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Sfeḍ akk inagan n tuqna akked isefka n usmel
+site-data-clear-all-prompt-text = Afran ‘sfeḍ tura ’ ad isfeḍ akk inagan n tuqna akked isefka n usmel ittwaskelsen sɣur { -brand-short-name }. aya ad k-id-isufeɣ seg ismal web wa ad ikkes agbur web n war tuqna.
+site-data-clear-all-prompt-button = Sfeḍ tura
