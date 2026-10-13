@@ -52,3 +52,9 @@ site-data-removing-desc = Амали тозакунии кукиҳо ва итт
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Амали тозакунии кукиҳо ва иттилооти сомонаҳо метавонад шуморо аз ҳисобҳои сомонаҳо хориҷ кунад. Шумо мутмаин ҳастед, ки мехоҳед кукиҳо ва иттилооти сомонаҳоро барои <strong>{ $baseDomain }</strong> тоза намоед?
 site-data-removing-table = Кукиҳо ва иттилооти сомонаҳо барои сомонаҳои зерин тоза карда мешаванд
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Пок кардани ҳамаи кукиҳо ва маълумоти сомона
+site-data-clear-all-prompt-text = Агар шумо тугмаи «Ҳозир пок карда шавад»-ро интихб кунед, ҳамаи кукиҳо ва маълумоти сомонаҳои нигоҳдошташудаи дохили браузери { -brand-short-name } пок карда мешавад. Ин амал метавонад шуморо аз сомонаҳо барояд ва муҳтавои офлайни сомонаҳоро тоза намояд.
+site-data-clear-all-prompt-button = Ҳозир пок карда шавад
