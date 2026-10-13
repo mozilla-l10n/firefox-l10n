@@ -52,3 +52,9 @@ site-data-removing-desc = Menghapus kuki dan data situs mungkin mengeluarkan And
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Menghapus kuki dan data situs mungkin mengeluarkan Anda dari situs web. Yakin ingin menghapus kuki dan data situs untuk <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Kuki dan data situs untuk situs web berikut ini akan dihapus
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Hapus semua kuki dan data situs
+site-data-clear-all-prompt-text = Memilih ‘Hapus Sekarang’ akan menghapus semua kuki dan data situs yang disimpan { -brand-short-name }. Ini akan mengeluarkan Anda dari situs web dan menghapus konten web luring.
+site-data-clear-all-prompt-button = Hapus Sekarang
