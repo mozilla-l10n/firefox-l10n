@@ -65,3 +65,4 @@ safeb-blocked-harmful-page-learn-more = Vai nne <a data-l10n-name='firefox_suppo
 ## Alert shown when reporting a site as not deceptive fails
 
 safeb-report-false-deceptive-error-title = Chistu nun è un situ fallaci
+safeb-report-false-deceptive-error-message = P’accamora nun è pussìbbili signalijari st’erruri.
