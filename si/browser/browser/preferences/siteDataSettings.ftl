@@ -48,3 +48,9 @@ site-data-removing-dialog =
     .buttonlabelaccept = ඉවත් කරන්න
 site-data-removing-header = දත්තකඩ හා අඩවි දත්ත ඉවත් වෙමින්
 site-data-removing-table = පහත වියමන අඩවිවල දත්තකඩ සහ අඩවි දත්ත ඉවත් කෙරේ
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = සමස්ත දත්තකඩ හා අඩවි දත්ත මකන්න
+site-data-clear-all-prompt-text = ‘දැන් මකන්න’ තේරීමෙන් { -brand-short-name } මගින් ගබඩා කර තිබෙන සියළු දත්තකඩ හා අඩවි දත්ත ඉවත් කෙරෙනු ඇත. මෙය ඔබව අඩවි වෙතින් නික්මවන අතර මාර්ගඅපගත වියමන දත්ත ඉවත් කෙරේ.
+site-data-clear-all-prompt-button = දැන් මකන්න
