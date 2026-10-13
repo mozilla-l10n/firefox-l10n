@@ -266,8 +266,8 @@ launch-on-login-infobar-final-reject-button = Hayır
 launch-on-login-autostart-infobar-message = { -brand-short-name } artık Windows’ta oturum açtığınızda başlatılıyor. Bunu istediğiniz zaman ayarlardan değiştirebilirsiniz.
 launch-on-login-autostart-infobar-keep-button = Böyle kalsın
     .accesskey = B
-launch-on-login-autostart-infobar-turn-off-button = Kapat
-    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = Devre dışı bırak
+    .accesskey = D
 
 ## Launch on login spotlight
 ##
