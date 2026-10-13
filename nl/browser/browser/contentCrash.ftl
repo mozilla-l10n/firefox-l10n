@@ -19,7 +19,7 @@ crashed-subframe-submit =
 ## Pending crash reports
 
 pending-crash-reports-view-all =
-    .label = Weergeven
+    .label = Tonen
 pending-crash-reports-send =
     .label = Verzenden
 pending-crash-reports-always-send =
