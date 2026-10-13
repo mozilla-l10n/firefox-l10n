@@ -351,6 +351,14 @@ ip-protection-site-rule-status-off =
     .label = 항상 꺼짐
 # Shown below the website field when what was typed is not a website address.
 ip-protection-site-rule-invalid-error = 올바른 웹 사이트 주소를 입력하세요.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = 이 사이트는 이미 규칙이 있습니다.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = 규칙 생성 중에 오류가 발생했습니다. 다시 시도하세요.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = { $website }의 규칙을 삭제하시겠습니까?
 ip-protection-delete-site-rule-cancel =
     .label = 취소
 ip-protection-delete-site-rule-confirm =

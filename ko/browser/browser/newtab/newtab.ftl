@@ -528,6 +528,11 @@ newtab-recent-searches-empty-trending = 지금은 인기 검색어를 사용할 
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = 오늘의 운세
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = 오늘의 운세 메뉴
+    .title = 오늘의 운세 메뉴
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = 오늘의 운세 옵션

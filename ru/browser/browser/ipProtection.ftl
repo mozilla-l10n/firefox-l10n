@@ -281,6 +281,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[many] { $count } веб-сайтов
         }
     .label = Управление настройками веб-сайтов
+ip-protection-site-rules-header-1 =
+    .heading = Управление правилами VPN
+ip-protection-site-rules-button-1 =
+    .description = Устанавливает правила для сайтов, которым необходима дополнительная приватность или отключение VPN.
+    .label = Управление правилами VPN
+ip-protection-site-rules-list-section =
+    .description = Выберите, как работает VPN для сайтов, которым нужна дополнительная приватность или отключённый VPN.
+    .label = Правила веб-сайта
+ip-protection-site-rules-add-button =
+    .label = Установить правило
+ip-protection-site-rules-delete-all-button =
+    .label = Удалить все правила
+ip-protection-site-rules-empty = Установленные вами правила появятся здесь.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN всегда включён
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN всегда отключён
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Изменить правило для { $website }
+    .title = Изменить
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Удалить правило для { $website }
+    .title = Удалить
 ip-protection-site-rules-header =
     .heading = Управление правилами веб-сайтов
 ip-protection-site-rules-button =
@@ -304,6 +331,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Управление настройками веб-сайтов
 ip-protection-exclusions-desc = Использовать VPN для всех веб-сайтов, кроме перечисленных в этом списке. Добавьте веб-сайт здесь или открыв VPN.
+ip-protection-site-rule-window =
+    .title = Установить правила
+ip-protection-edit-site-rule-window =
+    .title = Изменить правило
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Установить
+    .buttonaccesskeyaccept = Ы
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Сохранить
+    .buttonaccesskeyaccept = Ы
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Введите сайт, затем выберите его VPN-статус.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Веб-сайт
+    .placeholder = пример: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN-статус
+ip-protection-site-rule-status-on =
+    .label = Всегда включён
+ip-protection-site-rule-status-off =
+    .label = Всегда отключён
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Введите корректный адрес веб-сайта.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Для этого сайта уже задано правило.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Ошибка создания правила. Повторите попытку.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Удалить правило для { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Отмена
+ip-protection-delete-site-rule-confirm =
+    .label = Удалить
+ip-protection-delete-all-site-rules-message = Удалить все правила для веб-сайтов?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Удалить все правила
 
 ## IP Protection Bandwidth
 

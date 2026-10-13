@@ -46,7 +46,7 @@ fxa-menu-send-tab-to-device-syncnotready =
 # This is shown within "Send tab to device" in fxa menu if account is not configured.
 fxa-menu-send-tab-to-device-description = Send a tab instantly to any device you’re signed in on.
 fxa-menu-sign-out =
-    .label = Sign out…
+    .label = Sign Out…
 fxa-menu-sync-description = Access your web anywhere
 # Subtitle shown under the account email on the signed-in account button in the
 # account menu, indicating that activating it opens account management.

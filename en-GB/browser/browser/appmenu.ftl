@@ -275,7 +275,7 @@ appmenu-recently-closed-windows =
     .label = Recently Closed Windows
 # This allows to search through the browser's history.
 appmenu-search-history =
-    .label = Search history
+    .label = Search History
 
 ## Sync promo shown at the bottom of the History and Bookmarks panels. Its
 ## variant depends on the user's account and Sync state. The sign-in heading and
@@ -311,13 +311,13 @@ appmenu-referrals2 =
     .label = Share { -brand-product-name }
     .accesskey = r
 appmenu-get-help =
-    .label = Get help
+    .label = Get Help
     .accesskey = H
 appmenu-help-more-troubleshooting-info =
-    .label = More troubleshooting information
+    .label = More Troubleshooting Information
     .accesskey = T
 appmenu-help-share-ideas =
-    .label = Share ideas and feedback…
+    .label = Share Ideas and Feedback…
     .accesskey = S
 appmenu-help-switch-device =
     .label = Switching to a new device
@@ -339,7 +339,7 @@ appmenu-help-exit-troubleshoot-mode =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
-    .label = Report deceptive site…
+    .label = Report Deceptive Site…
     .accesskey = d
 appmenu-help-not-deceptive =
     .label = This isn’t a deceptive site…
@@ -348,14 +348,14 @@ appmenu-help-not-deceptive =
 ## More Tools
 
 appmenu-customizetoolbar =
-    .label = Customise toolbar…
+    .label = Customise Toolbar…
 appmenu-abouttranslations =
     .label = Translate…
 appmenu-edit-pdf =
     .label = Edit PDF…
 appmenu-developer-tools-subheader = Browser tools
 appmenu-developer-tools-extensions =
-    .label = Extensions for developers
+    .label = Extensions for Developers
 appmenuitem-report-broken-site =
     .label = Report Broken Site
 
