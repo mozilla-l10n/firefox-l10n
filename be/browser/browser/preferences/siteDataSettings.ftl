@@ -52,3 +52,9 @@ site-data-removing-desc = Выдаленне кукаў і дадзеных са
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Выдаленне кукаў і дадзеных сайтаў можа прывесці да выхаду з вэб-сайтаў. Вы ўпэўненыя, што жадаеце выдаліць кукі і дадзеныя сайта для <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Кукі і дадзеныя сайтаў для наступных вэб-сайтаў будуць выдаленыя
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Выдаліць усе кукі і дадзеныя сайтаў
+site-data-clear-all-prompt-text = Выбраўшы ‘Ачысціць зараз’, вы выдаліце ўсе кукі і дадзеныя сайтаў, якія захоўваюцца ў { -brand-short-name }. Гэта можа прывесці да разрэгістрацыі вас на вэб-сайтах і выдалення афлайн-кантэнту.
+site-data-clear-all-prompt-button = Ачысціць зараз
