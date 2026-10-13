@@ -1,0 +1,16 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Settings
+
+
+## Removing
+
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = གནས་སྡོད་ཡིག་ཆ་དང་དྲ་ཚིགས་ཀྱི་ཆ་འཕྲིན་ཡོངས་གཙང་སེལ།
+site-data-clear-all-prompt-text = ད་ལྟ་གཙང་སེལ་ལ་མནན་ན་{ -brand-short-name }་ནས་གསོག་པའི་གནས་སྡོད་ཡི་གེ་དང་དྲ་ཚིགས་ཀྱི་ཆ་འཕྲིན་ཡོངས་བསུབ་ངེས། འདིས་ཁྱེད་རང་དྲ་ཚིགས་ནས་ཕྱིར་བུད་པ་དང་དྲ་མེད་ཀྱི་དྲ་བའི་ནང་དོན་བསུབ་ངེས།
+site-data-clear-all-prompt-button = ད་ལྟ་གཙང་སེལ།
