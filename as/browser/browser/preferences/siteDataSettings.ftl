@@ -42,3 +42,9 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = আঁতৰাওক
 site-data-removing-header = কুকীজ আৰু ছাইট ডাটা আঁতৰোৱা
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = সকলো কুকীজ আৰু ছাইট ডাটা পৰিষ্কাৰ কৰক
+site-data-clear-all-prompt-text = ‘এতিয়াই মচি পেলাওক’ বাছনি কৰিলে { -brand-short-name }-এ সাঁচি থোৱা সকলো কুকীজ আৰু ছাইট ডাটা পৰিষ্কাৰ হৈ যাব। ই আপোনাক ৱেবছাইটসমূহৰ পৰা ছাইন আউট কৰাব পাৰে আৰু অফলাইন ৱেব সমল আঁতৰাব পাৰে।
+site-data-clear-all-prompt-button = এতিয়াই মচি পেলাওক
