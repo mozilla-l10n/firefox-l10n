@@ -52,3 +52,9 @@ site-data-removing-desc = Cookies файлдарын және сайт дере�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Cookie файлдары мен сайт деректерін өшіру сіздің веб-сайттардан шығаруы мүмкін. <strong>{ $baseDomain }</strong> үшін cookie файлдары мен сайт деректерін шынымен өшіргіңіз келе ме?
 site-data-removing-table = Келесі веб-сайттар үшін cookies файлдары және сайттар деректері өшірілетін болады
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Барлық cookies файлдарын және сайт деректерін өшіру
+site-data-clear-all-prompt-text = "Қазір тазарту" таңдау арқылы { -brand-short-name } сақтаған барлық cookies және сайт деректері өшіріледі. Бұның нәтижесінде веб сайттардан шығып, желіден тыс веб құрамасы өшірілуі мүмкін.
+site-data-clear-all-prompt-button = Қазір тазарту
