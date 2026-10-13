@@ -3,3 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protocolhandler-mailto-os-handler-no-button = មិន​មែន​ឥឡូវ
+protocolhandler-add-handler-button =
+    .label = បន្ថែម​កម្មវិធី
+    .accesskey = A
+
+## Variables:
+##  $url (String): The url of a webmailer, but only its full domain name.
+
+
+##
+
