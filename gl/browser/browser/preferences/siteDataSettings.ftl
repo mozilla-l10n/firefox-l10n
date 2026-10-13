@@ -52,3 +52,9 @@ site-data-removing-desc = Retirar as cookies e datos do sitio pode pechar as ses
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Eliminar as cookies e os datos do sitio pode provocar a súa saída dos sitios web. Confirma que desexa eliminar as cookies e datos do sitio de <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Retiraranse as cookies e datos do sitio para os seguintes sitios web
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Borrar todas as cookies e datos do sitio
+site-data-clear-all-prompt-text = Seleccionar «Borrar agora» borrará todas as cookies e datos dos sitios almacenados polo { -brand-short-name }. Isto pode pechar as sesións e eliminar o contido web sen conexión.
+site-data-clear-all-prompt-button = Borrar agora
