@@ -23,15 +23,43 @@ safeb-palm-see-details-label = ดูรายละเอียด
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>ถูกรายงานว่าเป็นไซต์หลอกลวง</a> คุณสามารถ <a data-l10n-name='report_detection'>รายงานปัญหาการตรวจพบ</a> หรือ <a data-l10n-name='ignore_warning_link'>ไม่สนใจความเสี่ยง</a> และไปยังไซต์ที่ไม่ปลอดภัยนี้
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>ถูกรายงานว่าเป็นไซต์หลอกลวง</a> คุณสามารถ <a data-l10n-name='report_detection'>รายงานปัญหาการตรวจพบ</a>
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับไซต์หลอกลวงและระบบฟิชชิ่งได้ที่ <a data-l10n-name='learn_more_link'>www.antiphishing.org</a> เรียนรู้เพิ่มเติมเกี่ยวกับระบบฟิชชิ่งและระบบป้องกันมัลแวร์ของ { -brand-short-name } ได้ที่ <a data-l10n-name='firefox_support'>support.mozilla.org</a>
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ได้ถูก<a data-l10n-name='error_desc_link'>รายงานว่ามีซอฟต์แวร์ที่เป็นอันตราย</a> คุณสามารถ<a data-l10n-name='ignore_warning_link'>เพิกเฉยความเสี่ยง</a>และไปยังไซต์ที่ไม่ปลอดภัยนี้ได้
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ได้ถูก<a data-l10n-name='error_desc_link'>รายงานว่ามีซอฟต์แวร์ที่เป็นอันตราย</a>
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = เรียนรู้เพิ่มเติมเกี่ยวกับระบบฟิชชิ่งและระบบป้องก้นมัลแวร์ของ { -brand-short-name } ได้ที่ <a data-l10n-name='firefox_support'>support.mozilla.org</a>
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>ถูกรายงานว่ามีซอฟต์แวร์ที่เป็นอันตราย</a> คุณสามารถ <a data-l10n-name='ignore_warning_link'>ไม่สนใจความเสี่ยง</a> และไปยังไซต์ที่ไม่ปลอดภัยนี้
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>ถูกรายงานว่ามีซอฟต์แวร์ที่เป็นอันตราย</a>
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับซอฟต์แวร์ที่เป็นอันตรายและไม่ต้องการได้ที่ <a data-l10n-name='learn_more_link'>นโยบายซอฟต์แวร์ที่ไม่ต้องการ</a> เรียนรู้เพิ่มเติมเกี่ยวกับระบบฟิชชิ่งและระบบป้องกันมัลแวร์ของ { -brand-short-name } ได้ที่ <a data-l10n-name='firefox_support'>support.mozilla.org</a>
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>ถูกรายงานว่ามีแอปพลิเคชันที่อาจเป็นอันตราย</a> คุณสามารถ <a data-l10n-name='ignore_warning_link'>ไม่สนใจความเสี่ยง</a> และไปยังไซต์ที่ไม่ปลอดภัยนี้
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>ถูกรายงานว่ามีแอปพลิเคชันที่อาจเป็นอันตราย</a>
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = เรียนรู้เพิ่มเติมเกี่ยวกับระบบฟิชชิ่งและระบบป้องก้นมัลแวร์ของ { -brand-short-name } ได้ที่ <a data-l10n-name='firefox_support'>support.mozilla.org</a>
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> �
 safeb-blocked-addon-page-error-desc3-override = <strong>คุณสามารถทำอะไรได้บ้าง?</strong>
 safeb-blocked-addon-page-error-desc4-override = เพื่อป้องกันไม่ให้เกิดเหตุการณ์นี้ขึ้นอีก คุณสามารถลบหรือปิดใช้งาน <strong>{ $addonName }</strong> จาก about:addons ได้
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>เรียนรู้เพิ่มเติมเกี่ยวกับการป้องกันส่วนเสริมที่อันตรายของ { -brand-short-name }</a>
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = นี่ไม่ใช่ไซต์หลอกลวง
+safeb-report-false-deceptive-error-message = ไม่สามารถรายงานข้อผิดพลาดได้ในขณะนี้
