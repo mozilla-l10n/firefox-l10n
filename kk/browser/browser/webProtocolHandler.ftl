@@ -4,9 +4,19 @@
 
 protocolhandler-mailto-os-handler-yes-button = Үнсіз келісім ретінде орнату
 protocolhandler-mailto-os-handler-no-button = Қазір емес
+# Variables:
+#  $host (String): The domain of the web application registering as a protocol handler.
+#  $protocol (String): The type of protocol (e.g. "web+example").
+protocolhandler-add-handler-message = { $protocol } сілтемелері үшін "{ $host }" қолданбасын орнату керек пе?
+protocolhandler-add-handler-button =
+    .label = Бағдарламаны қосу
+    .accesskey = о
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-set = Электрондық поштаңызды ашатын сілтемені әр рет басқан сайын <strong>{ $url } ашу үшін { -brand-short-name } </strong> пайдалану керек пе?
 protocolhandler-mailto-handler-confirm = Эл. пошта хабарламасын жіберетін сілтемені сіз әр рет басқан сайын <strong>{ -brand-short-name } { $url } ашатын болады</strong> .
+
+##
+
