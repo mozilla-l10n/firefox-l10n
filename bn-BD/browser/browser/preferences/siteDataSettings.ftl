@@ -41,3 +41,5 @@ site-data-removing-table = এই সাইটগুলোর জন্য ক�
 ## Clear all site data prompt
 
 site-data-clear-all-prompt-title = সব কুকিজ এবং সাইট ডেটা পরিস্কার কর
+site-data-clear-all-prompt-text = আপনি ‘এখন পরিষ্কার করুন’ নির্বাচন করলে { -brand-short-name } এর দ্বারা সংরক্ষিত সব কুকিজ এবং সাইট ডাটা মুছে যাবে। এতে করে আপনি বিভিন্ন ওয়েবসাইট থেকে লগ আউট হয়ে যাবেন এবং অফলাইন ওয়েব কনটেন্ট মুছে যাবে।
+site-data-clear-all-prompt-button = মুছে ফেল
