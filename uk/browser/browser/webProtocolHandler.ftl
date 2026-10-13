@@ -4,9 +4,19 @@
 
 protocolhandler-mailto-os-handler-yes-button = Встановити типовим
 protocolhandler-mailto-os-handler-no-button = Не зараз
+# Variables:
+#  $host (String): The domain of the web application registering as a protocol handler.
+#  $protocol (String): The type of protocol (e.g. "web+example").
+protocolhandler-add-handler-message = Додати “{ $host }” програмою для посилань { $protocol }?
+protocolhandler-add-handler-button =
+    .label = Додати програму
+    .accesskey = о
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.
 
 protocolhandler-mailto-handler-set = Використовувати <strong>{ -brand-short-name }, щоб відкривати { $url }</strong> за кожного натиску на посилання, яке відкриває вашу електронну пошту?
 protocolhandler-mailto-handler-confirm = <strong>{ -brand-short-name } відкриватиме { $url }</strong> щоразу, коли ви натискатимете посилання, яке надсилає електронний лист.
+
+##
+
