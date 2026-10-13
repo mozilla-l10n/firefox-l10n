@@ -23,15 +23,43 @@ safeb-palm-see-details-label = צפייה בפרטים
 
 safeb-blocked-phishing-page-error-desc-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאתר מטעה</a>. באפשרותך <a data-l10n-name='report_detection'>לדווח על בעיה בזיהוי</a> או <a data-l10n-name='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.
 safeb-blocked-phishing-page-error-desc-no-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאתר מטעה</a>. באפשרותך <a data-l10n-name='report_detection'>לדווח על בעיה בזיהוי</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = מידע נוסף על אתרים מטעים ודיוג זמין בכתובת <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. מידע נוסף על ההגנה של { -brand-short-name } מפני דיוג ותוכנות זדוניות זמין בכתובת <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל תוכנה זדונית</a>. באפשרותך <a data-l10n-name='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.
 safeb-blocked-malware-page-error-desc-no-override-sumo = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל תוכנה זדונית</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = מידע נוסף על ההגנה של { -brand-short-name } מפני דיוג ותוכנות זדוניות זמין בכתובת <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל תוכנה מזיקה</a>. באפשרותך <a data-l10n-name='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.
 safeb-blocked-unwanted-page-error-desc-no-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל תוכנה מזיקה</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = מידע נוסף על תוכניות מזיקות ובלתי רצויות זמין ב<a data-l10n-name='learn_more_link'>מדיניות תוכניות בלתי רצויות</a>. מידע נוסף על ההגנה של { -brand-short-name } מפני דיוג ותוכנות זדוניות זמין בכתובת <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל יישום שככל הנראה מזיק</a>. באפשרותך <a data-l10n-name='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.
 safeb-blocked-harmful-page-error-desc-no-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל יישום שככל הנראה מזיק</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = מידע נוסף על ההגנה של { -brand-short-name } מפני דיוג ותוכנות זדוניות זמין בכתובת <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = ייתכן ש־<strong>{ $sitena
 safeb-blocked-addon-page-error-desc3-override = <strong>מה אפשר לעשות בנידון?</strong>
 safeb-blocked-addon-page-error-desc4-override = כדי למנוע זאת שוב, ניתן להסיר או להשבית את <strong>{ $addonName }</strong> מ־about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>מידע נוסף על ההגנה של { -brand-short-name } מפני תוספות מזיקות</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = אתר זה אינו אתר מטעה
+safeb-report-false-deceptive-error-message = לא ניתן לדווח על שגיאה זו בשלב זה.
