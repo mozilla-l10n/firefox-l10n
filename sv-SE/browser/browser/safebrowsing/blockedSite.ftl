@@ -23,15 +23,43 @@ safeb-palm-see-details-label = Se detaljer
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> har <a data-l10n-name='error_desc_link'>rapporterats som en vilseledande webbplats</a>. Du kan <a data-l10n-name='report_detection'>rapportera ett detektionsproblem</a> eller <a data-l10n-name='ignore_warning_link'>ignorera risken</a> och gå till denna osäkra webbplatsen.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> har <a data-l10n-name='error_desc_link'>rapporterats som en vilseledande webbplats</a>. Du kan <a data-l10n-name='report_detection'>rapportera ett detekteringsproblem</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = Läs mer om vilseledande webbplatser och nätfiske på <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Läs mer om skydd mot nätfiske och skadlig programvara i { -brand-short-name } på <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> har <a data-l10n-name='error_desc_link'>rapporterats innehålla skadlig programvara</a>. Du kan <a data-l10n-name='ignore_warning_link'>ignorera risken</a> och gå till den osäkra webbplatsen.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> har <a data-l10n-name='error_desc_link'>rapporterats innehålla skadlig programvara</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = Läs mer om { -brand-short-name }’s skydd mot nätfiske och skadlig programvara på <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> har <a data-l10n-name='error_desc_link'>rapporterats innehålla skadlig programvara</a>. Du kan <a data-l10n-name='ignore_warning_link'>ignorera risken</a> och gå till den här osäkra webbplatsen.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> har <a data-l10n-name='error_desc_link'>rapporterats innehålla skadlig programvara</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = Läs mer om skadlig och oönskad programvara på <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Läs mer om skydd mot nätfiske och skadlig programvara i { -brand-short-name } på <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> har <a data-l10n-name='error_desc_link'>rapporterats innehålla ett potentiellt skadligt program</a>. Du kan <a data-l10n-name='ignore_warning_link'>ignorera risken</a> och gå till denna osäkra webbplatsen.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> har <a data-l10n-name='error_desc_link'>rapporterats innehålla ett potentiellt skadligt program</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = Läs mer om skydd mot nätfiske och skadlig programvara i { -brand-short-name } på <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> k
 safeb-blocked-addon-page-error-desc3-override = <strong>Vad kan du göra åt det?</strong>
 safeb-blocked-addon-page-error-desc4-override = För att förhindra att detta händer igen kan du ta bort eller inaktivera <strong>{ $addonName }</strong> från about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>Läs mer om { -brand-short-name }:s skydd mot skadliga tillägg</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = Detta är inte en vilseledande webbplats
+safeb-report-false-deceptive-error-message = Det är inte möjligt att rapportera felet vid denna tid.
