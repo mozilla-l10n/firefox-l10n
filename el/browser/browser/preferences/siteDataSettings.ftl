@@ -52,3 +52,9 @@ site-data-removing-desc = Η διαγραφή των cookie και των δεδ
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Η διαγραφή των cookie και των δεδομένων ιστοτόπων ενδέχεται να σας αποσυνδέσει από ιστοτόπους. Θέλετε σίγουρα να διαγράψετε τα cookie και τα δεδομένα ιστοτόπου για το <strong>{ $baseDomain }</strong>;
 site-data-removing-table = Θα διαγραφούν τα cookie και τα δεδομένα ιστοτόπων για τους εξής ιστοτόπους
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Απαλοιφή όλων των cookie και των δεδομένων ιστοτόπων
+site-data-clear-all-prompt-text = Η επιλογή «Απαλοιφή τώρα» θα διαγράψει όλα τα cookie και τα δεδομένα που αποθηκεύονται από το { -brand-short-name }. Αυτό ενδέχεται να σας αποσυνδέσει από ιστοτόπους και να αφαιρέσει όλο το περιεχόμενο ιστού εκτός σύνδεσης.
+site-data-clear-all-prompt-button = Απαλοιφή τώρα
