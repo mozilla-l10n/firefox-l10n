@@ -52,3 +52,9 @@ site-data-removing-desc = Sivustotietojen poistaminen voi kirjata sinut ulos siv
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Evästeiden ja sivustotietojen poistaminen saattaa kirjata sinut ulos verkkosivustoilta. Haluatko varmasti poistaa evästeet ja sivustotiedot sivuston <strong>{ $baseDomain }</strong> osalta?
 site-data-removing-table = Seuraavien sivustojen evästeet ja tiedot poistetaan
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Tyhjennä kaikki evästeet ja sivustotiedot
+site-data-clear-all-prompt-text = Valitsemalla ”Tyhjennä heti” poistat kaikki evästeet ja sivuston { -brand-short-name }iin tallentamat tiedot. Tämä voi kirjata sinut ulos sivustoilta ja poistaa yhteydetöntä tilaa varten tallennetun sisällön.
+site-data-clear-all-prompt-button = Tyhjennä heti
