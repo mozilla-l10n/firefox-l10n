@@ -109,6 +109,8 @@ home-prefs-mission-message2 =
     .message = Naši sponzori podporujú našu misiu budovať lepší web.
 home-prefs-manage-topics-link2 =
     .label = Spravovať témy
+home-prefs-manage-widgets-link =
+    .label = Spravovať miniaplikácie
 home-prefs-choose-wallpaper-link2 =
     .label = Vybrať tapetu
 home-prefs-firefox-logo-header =
@@ -398,6 +400,9 @@ newtab-stocks-list-watchlist = Zoznam sledovaných
     .label = Zoznam sledovaných
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Hľadať podľa názvu alebo symbolu
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finančné trhy
@@ -556,6 +561,9 @@ newtab-recent-searches-just-now = Pred chvíľou
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Vymazať “{ $search }” z nedávnych vyhľadávaní
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Vyhľadávanie
 # Screen reader label for the widget's icon-only menu button.
@@ -637,6 +645,9 @@ newtab-topsites-image-url-label = Adresa URL vlastného obrázka
 newtab-topsites-use-custom-image-link = Použiť vlastný obrázok
 newtab-topsites-use-image-link = Použiť vlastný obrázok…
 newtab-topsites-image-validation = Obrázok sa nepodarilo načítať. Skúste inú adresu URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Vymazať text
 
@@ -1075,6 +1086,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Líška pri pravom okraji na oranžovom pozadí
 newtab-wallpaper-firefox-colorful-sky = Oranžové vlny na fialovej nočnej oblohe
 newtab-wallpaper-firefox-desert-dark = Líška sediaca v púšti zahalenej do tmavofialových odtieňov
