@@ -52,3 +52,9 @@ site-data-removing-desc = It fuortsmiten fan cookies en websitegegevens kin jo b
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = It fuortsmiten fan cookies en websitegegevens kin jo by websites ôfmelde. Binne jo wis dat jo cookies en websitegegevens foar <strong>{ $baseDomain }</strong> fuortsmite wolle?
 site-data-removing-table = Cookies en websitegegevens foar de folgjende websites sille fuortsmiten wurde
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Alle cookies en websitegegevens wiskje
+site-data-clear-all-prompt-text = ‘No wiskje’ selektearje sil alle cookies en websitegegevens wiskje dy’t troch { -brand-short-name } bewarre binne. Dit kin jo by websites ôfmelde en offline webynhâld fuortsmite.
+site-data-clear-all-prompt-button = No wiskje
