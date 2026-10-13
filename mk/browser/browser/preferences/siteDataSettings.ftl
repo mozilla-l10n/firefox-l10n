@@ -52,3 +52,8 @@ site-data-removing-desc = Отстранувањето на колачиња и 
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Отстранувањето на колачиња и податоци од местото може да Ве одјави од мрежните места. Дали сте сигурни дека сакате да ги отстраните колачињата и податоците за <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Колачињата и податоците за следните мрежни места ќе бидат отстранети
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Исчисти ги сите колачиња и податоци за местото
+site-data-clear-all-prompt-button = Исчисти сега
