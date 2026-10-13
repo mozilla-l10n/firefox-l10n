@@ -52,3 +52,9 @@ site-data-removing-desc = Dilemel an toupinoù hag ar roadennoù lec'hienn a c'h
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Dilemel an toupinoù ha roadennoù al lec'hiennoù a zigennasko ac'hanoc'h eus al lec'hiennoù. Sur oc'h e fell deoc'h dilemel an toupinoù ha roadennoù al lec'hiennoù evit <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Dilamet e vo an toupinoù hag ar roadennoù lec'hienn diouzh al lec'hiennoù da-heul
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Skarzhañ an holl doupinoù ha roadennoù al lec'hienn
+site-data-clear-all-prompt-text = En ur ziuzañ ‘Skarzhañ bremañ’ e vo skarzhet an holl doupinoù ha roadennoù lec'hiennoù kadavet gant { -brand-short-name }. Gallout a ra digennaskañ ac'hanoc'h eus lec'hiennoù ha dilemel endalc'hadoù web.
+site-data-clear-all-prompt-button = Skarzhañ bremañ
