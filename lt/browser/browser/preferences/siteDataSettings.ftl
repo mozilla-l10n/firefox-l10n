@@ -52,3 +52,9 @@ site-data-removing-desc = Pašalinus slapukus ir svetainių duomenis galite būt
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Pašalinę slapukus ir svetainių duomenis galite būtų atjungti iš svetainių. Ar tikrai norite pašalinti <strong>{ $baseDomain }</strong> slapukus ir svetainės duomenis?
 site-data-removing-table = Šių svetainių slapukai ir susiję duomenys bus pašalinti
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Išvalyti visus slapukus ir svetainių duomenis
+site-data-clear-all-prompt-text = Pasirinkus „Išvalyti dabar“, bus pašalinti visi slapukai ir svetainių duomenys, saugomi „{ -brand-short-name }“. Dėl to galite būti atjungti iš svetainių bei netekti darbui neprisijungus skirto turinio.
+site-data-clear-all-prompt-button = Išvalyti dabar
