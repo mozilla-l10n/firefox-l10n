@@ -47,3 +47,9 @@ site-data-removing-dialog =
 site-data-removing-header = Scancella Cookie e Dæti di Sciti
 site-data-removing-desc = Scancelâ cookie e dæti di sciti o peu fate sciortî da-i sciti. Te seguo de fâ sti cangiamenti?
 site-data-removing-table = I cookie e dæti di sciti de sti sciti chi saian scancelæ
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Scancella tutti i cookie e dæti di sciti
+site-data-clear-all-prompt-text = Seleçionando ‘Scancella òua’ tutti i cookie e dæti di sciti sarvæ in { -brand-short-name } saian scancelæ. Queste o veu dî ti sciortiæ da-i sciti e che o contegnuo feua linia o saiâ scancelòu.
+site-data-clear-all-prompt-button = Scancella òua
