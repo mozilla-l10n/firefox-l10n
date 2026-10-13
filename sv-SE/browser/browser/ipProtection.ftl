@@ -280,6 +280,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webbplatser
         }
     .label = Hantera webbplatsinställningar
+ip-protection-site-rules-header-1 =
+    .heading = Hantera VPN-regler
+ip-protection-site-rules-button-1 =
+    .description = Ange regler för webbplatser som behöver extra sekretess eller VPN avstängt.
+    .label = Hantera VPN-regler
+ip-protection-site-rules-list-section =
+    .description = Välj hur VPN fungerar för webbplatser som behöver extra sekretess eller VPN avstängt.
+    .label = Webbplatsens regler
+ip-protection-site-rules-add-button =
+    .label = Ange regel
+ip-protection-site-rules-delete-all-button =
+    .label = Ta bort alla regler
+ip-protection-site-rules-empty = Här visas regler du anger.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN alltid på
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN alltid avstängt
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Redigera regeln för { $website }
+    .title = Redigera
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Ta bort regeln för { $website }
+    .title = Ta bort
 ip-protection-site-rules-header =
     .heading = Hantera webbplatsens regler
 ip-protection-site-rules-button =
@@ -303,6 +330,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Hantera webbplatsinställningar
 ip-protection-exclusions-desc = Använd VPN för alla webbplatser utom de på den här listan. Lägg till en webbplats här eller genom att öppna VPN.
+ip-protection-site-rule-window =
+    .title = Ange regel
+ip-protection-edit-site-rule-window =
+    .title = Redigera regel
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Använd
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Spara
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Ange en webbplats och välj sedan dess VPN-status.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Webbplats
+    .placeholder = ex: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN-status
+ip-protection-site-rule-status-on =
+    .label = Alltid på
+ip-protection-site-rule-status-off =
+    .label = Alltid avstängd
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Ange en giltig webbplatsadress.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Den här webbplatsen har redan en regel.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Fel vid skapande av regel. Försök igen.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Ta bort regel för { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Avbryt
+ip-protection-delete-site-rule-confirm =
+    .label = Ta bort
+ip-protection-delete-all-site-rules-message = Ta bort alla webbplatsregler?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Ta bort alla regler
 
 ## IP Protection Bandwidth
 
