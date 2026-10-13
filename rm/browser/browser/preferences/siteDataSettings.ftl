@@ -52,3 +52,9 @@ site-data-removing-desc = Cun stizzar cookies e datas da websites vegns ti event
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = L'eliminaziun da cookies e datas da websites po avair per consequenza che vegns deconnectà da websites. Vuls ti propi stizzar ils cookies e las datas da website per <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Ils cookies e las datas da las suandantas websites vegnan stizzadas
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Stizzar tut ils cookies e las datas da websites
+site-data-clear-all-prompt-text = Cun tscherner «Stizzar uss» vegnan tut ils cookies e tut las datas da websites memorisadas da { -brand-short-name } stizzadas. Qua tras vegns ti eventualmain deconnectà da tschertas websites e cuntegn da web offline vegn stizzà.
+site-data-clear-all-prompt-button = Stizzar uss
