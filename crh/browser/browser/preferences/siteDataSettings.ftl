@@ -40,3 +40,9 @@ site-data-removing-dialog =
 site-data-removing-header = Çörekler ve Sayt Verileri Çetleştirile
 site-data-removing-desc = Çörekler ve sayt verileriñ çetleştirilmesi sizni saytlardan tışarı imzalandırabilir. Bu deñişikliklerni yapmağa istegeniñizden eminsiñizmi?
 site-data-removing-table = Aşağıdaki ağ-saytlarına ait çörekler ve sayt verileri çetleştirilecek
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Çörekler ve sayt verileriniñ episini temizle
+site-data-clear-all-prompt-text = 'Şimdi Temizle'niñ saylanması { -brand-short-name } tarafından saqlanğan çörekler ve sayt verileriniñ episini temizler. Bu, belki sizni ağ-saytlarından tışarı-imzalandırır ve hat-tışı ağ muhtevasını çetleştirir.
+site-data-clear-all-prompt-button = Şimdi Temizle
