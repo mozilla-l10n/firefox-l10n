@@ -276,6 +276,33 @@ ip-protection-not-opted-in-button = 시작하기
 ip-protection-site-exceptions-all-sites-button =
     .description = 웹 사이트 { $count }개
     .label = 웹 사이트 설정 관리
+ip-protection-site-rules-header-1 =
+    .heading = VPN 규칙 관리
+ip-protection-site-rules-button-1 =
+    .description = 추가적인 개인 정보 보호가 필요하거나 VPN이 꺼져야 하는 사이트에 규칙을 설정하세요.
+    .label = VPN 규칙 관리
+ip-protection-site-rules-list-section =
+    .description = 추가적인 개인 정보 보호가 필요하거나 VPN이 꺼져 있는 사이트에서 VPN이 작동하는 방식을 선택하세요.
+    .label = 웹 사이트 규칙
+ip-protection-site-rules-add-button =
+    .label = 규칙 설정
+ip-protection-site-rules-delete-all-button =
+    .label = 모든 규칙 삭제
+ip-protection-site-rules-empty = 설정한 규칙이 여기에 표시됩니다.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN 항상 켜짐
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN 항상 꺼짐
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = { $website } 규칙 편집
+    .title = 편집
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = { $website }의 규칙 삭제
+    .title = 삭제
 ip-protection-site-rules-header =
     .heading = 웹 사이트 규칙 관리
 ip-protection-site-rules-button =
@@ -299,6 +326,38 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = 웹 사이트 설정 관리
 ip-protection-exclusions-desc = 이 목록에 있는 웹 사이트를 제외한 모든 웹 사이트에서 VPN을 사용하세요. 여기에서 또는 VPN을 열어 웹 사이트를 추가하세요.
+ip-protection-site-rule-window =
+    .title = 규칙 설정
+ip-protection-edit-site-rule-window =
+    .title = 규칙 편집
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = 설정
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = 저장
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = 사이트를 입력하고 VPN 상태를 선택하세요.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = 웹 사이트
+    .placeholder = 예: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN 상태
+ip-protection-site-rule-status-on =
+    .label = 항상 켜짐
+ip-protection-site-rule-status-off =
+    .label = 항상 꺼짐
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = 올바른 웹 사이트 주소를 입력하세요.
+ip-protection-delete-site-rule-cancel =
+    .label = 취소
+ip-protection-delete-site-rule-confirm =
+    .label = 삭제
+ip-protection-delete-all-site-rules-message = 모든 웹 사이트 규칙을 삭제하시겠습니까?
+ip-protection-delete-all-site-rules-confirm =
+    .label = 모든 규칙 삭제
 
 ## IP Protection Bandwidth
 

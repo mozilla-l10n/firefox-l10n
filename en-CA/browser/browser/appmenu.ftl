@@ -263,16 +263,16 @@ profiler-popup-presets-custom-label =
 ##
 
 appmenu-manage-history =
-    .label = Manage history
+    .label = Manage History
 appmenu-restore-session =
     .label = Restore previous session
 appmenu-clear-history =
-    .label = Clear recent history…
+    .label = Clear Recent History…
 appmenu-recent-history-subheader = Recent history
 appmenu-recently-closed-tabs =
-    .label = Recently closed tabs
+    .label = Recently Closed Tabs
 appmenu-recently-closed-windows =
-    .label = Recently closed windows
+    .label = Recently Closed Windows
 # This allows to search through the browser's history.
 appmenu-search-history =
     .label = Search history

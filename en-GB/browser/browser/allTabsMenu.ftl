@@ -23,7 +23,7 @@ all-tabs-menu-recent-tab-groups-header = Recent tab groups
 all-tabs-menu-current-window-header = Current window
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
-    .label = Show all
+    .label = Show All
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Tab groups
