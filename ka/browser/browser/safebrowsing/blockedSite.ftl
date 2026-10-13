@@ -23,15 +23,43 @@ safeb-palm-see-details-label = ვრცლად
 
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> მიჩნეულია <a data-l10n-name='error_desc_link'>თაღლითურ საიტად</a>. თუ ფიქრობთ, რომ ეს არასწორი ინფორმაციაა, შეგიძლიათ <a data-l10n-name='report_detection'>მოგვახსენოთ ამის შესახებ</a>, ან <a data-l10n-name='ignore_warning_link'>უგულებელყოთ</a> ეს გაფრთხილება და მაინც გადახვიდეთ სახიფათო საიტზე.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> მიჩნეულია <a data-l10n-name='error_desc_link'>თაღლითურ საიტად</a>. თუ ფიქრობთ, რომ ეს ინფორმაცია არასწორია, შეგიძლიათ <a data-l10n-name='report_detection'>მოგვახსენოთ ამის შესახებ</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-learn-more = იხილეთ ვრცლად, თაღლითური და ყალბი საიტების შესახებ ბმულზე <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. იხილეთ ვრცლად, როგორ იცავს { -brand-short-name } ყალბი და მავნე საიტებისგან, ბმულზე <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> მიჩნეულია <a data-l10n-name='error_desc_link'>მავნე პროგრამების გამავრცელებლად</a>. შეგიძლიათ <a data-l10n-name='ignore_warning_link'>უგულებელყოთ ეს გაფრთხილება</a> და მაინც გადახვიდეთ ამ სახიფათო საიტზე.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> მიჩნეულია <a data-l10n-name='error_desc_link'>მავნე პროგრამების გამავრცელებლად</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-learn-more-sumo = იხილეთ ვრცლად, როგორ იცავს { -brand-short-name } ყალბი და სახიფათო გვერდებისგან ბმულზე <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> მიჩნეულია <a data-l10n-name='error_desc_link'>საზიანო პროგრამების გამავრცელებლად</a>. შეგიძლიათ <a data-l10n-name='ignore_warning_link'>უგულებელყოთ ეს გაფრთხილება</a> და მაინც გადახვიდეთ ამ სახიფათო საიტზე.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> მიჩნეულია <a data-l10n-name='error_desc_link'>მავნე პროგრამების გამავრცელებლად</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-learn-more = გაეცანით საზიანო და არასასურველ პროგრამებზე ინფორმაციას <a data-l10n-name='learn_more_link'>არასასურველი პროგრამების დებულებაში</a>. იხილეთ ვრცლად, როგორ იცავს { -brand-short-name } ყალბი და მავნე საიტებისგან, ბმულზე <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> მიჩნეულია <a data-l10n-name='error_desc_link'>საზიანო პროგრამების გამავრცელებლად</a>. შეგიძლიათ <a data-l10n-name='ignore_warning_link'>უგულებელყოთ ეს გაფრთხილება</a> და მაინც გადახვიდეთ ამ სახიფათო საიტზე.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> მიჩნეულია <a data-l10n-name='error_desc_link'>საზიანო პროგრამების გამავრცელებლად</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-learn-more = იხილეთ ვრცლად, როგორ იცავს { -brand-short-name } ყალბი და სახიფათო გვერდებისგან ბმულზე <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 
 ## Variables:
@@ -43,3 +71,8 @@ safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> �
 safeb-blocked-addon-page-error-desc3-override = <strong>რის გაკეთება მოხერხდება?</strong>
 safeb-blocked-addon-page-error-desc4-override = ამის თავიდან ასაცილებლად, შეგიძლიათ ამოშალოთ ან გამორთოთ <strong>{ $addonName }</strong> გვერდიდან about:addons.
 safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>იხილეთ ვრცლად, როგორ იცავს { -brand-short-name } თაღლითური და მავნე დამატებებისგან</a>.
+
+## Alert shown when reporting a site as not deceptive fails
+
+safeb-report-false-deceptive-error-title = ეს თაღლითური საიტი არ არის
+safeb-report-false-deceptive-error-message = შეცდომაზე მოხსენების გაგზავნა, ამ მომენტში შეუძლებელია.
