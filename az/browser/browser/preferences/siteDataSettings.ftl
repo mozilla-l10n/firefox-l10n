@@ -49,3 +49,9 @@ site-data-removing-dialog =
 site-data-removing-header = Çərəzlər və Sayt Məlumatları silinir
 site-data-removing-desc = Çərəzlər və sayt məlumatlarını sildikdə avtomatik saytlardan çıxış etmiş ola bilərsiz. Bunu etmək istədiyinizə əminsiniz?
 site-data-removing-table = Aşağıdakı saytlar üçün çərəzlər və sayt məlumatları silinəcək
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Bütün çərəzləri və sayt məlumatlarını sil
+site-data-clear-all-prompt-text = ‘İndi Təmizlə’ seçimi { -brand-short-name } tərəfindən saxlanılan bütün çərəz və sayt məlumatlarını təmizləyəcək. Bu, saytlardan çıxmağınıza və oflayn sayt məzmunlarının silinməsinə səbəb ola bilər.
+site-data-clear-all-prompt-button = İndi təmizlə
