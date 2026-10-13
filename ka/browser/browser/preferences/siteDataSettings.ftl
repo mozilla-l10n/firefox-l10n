@@ -52,3 +52,9 @@ site-data-removing-desc = ფუნთუშებისა და საიტ�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = ფუნთუშებისა და საიტის მონაცემების წაშლით, გამოხვალთ შესული ანგარიშიდან. გსურთ წაშალოთ ფუნთუშები და მონაცემები საიტისთვის <strong>{ $baseDomain }</strong>?
 site-data-removing-table = მოცემული საიტების მონაცემები და ფუნთუშები წაიშლება
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = ყველა ფუნთუშის და საიტის მონაცემის გასუფთავება
+site-data-clear-all-prompt-text = „ახლავე გასუფთავების“ არჩევისას { -brand-short-name } შენახულ ყველა ფუნთუშასა და ვებგვერდის ყველა მონაცემს წაშლის. რის შედეგადაც შესაძლოა, საიტებზე შესული ანგარიშებიდან გამოხვიდეთ და ვებგვერდის შენახული შიგთავსიც დაიკარგოს.
+site-data-clear-all-prompt-button = ახლავე გასუფთავება
