@@ -52,3 +52,9 @@ site-data-removing-desc = 移除 Cookie 與網站資料後，可能會將您從�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = 移除 Cookie 與網站資料後，可能會將您從大部分網站登出。確定要移除來自 <strong>{ $baseDomain }</strong> 的 Cookie 與網站資料嗎？
 site-data-removing-table = 將移除下列網站的 Cookie 與網站資料
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = 清除所有 Cookie 與網站資料
+site-data-clear-all-prompt-text = 選擇「立刻清除」後就會清除所有 { -brand-short-name } 儲存的 Cookie 與網站資料。可能會將您從許多網站登出，並清除網頁離線內容。
+site-data-clear-all-prompt-button = 立刻清除
