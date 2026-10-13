@@ -41,3 +41,8 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = बोखार
 site-data-removing-header = कुकिफोर आरो साइट दाटाफोरखौ बोखारगासिनो
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = कुकिज आरो साइट दाटा फोरखौ खोमोर...
+site-data-clear-all-prompt-button = दानो खोमोर
