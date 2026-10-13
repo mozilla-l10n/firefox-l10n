@@ -55,5 +55,6 @@ site-data-removing-table = Ciasteczka i dane następujących witryn zostaną us
 
 ## Clear all site data prompt
 
+site-data-clear-all-prompt-title = Wyczyść wszystkie ciasteczka i dane witryn
 site-data-clear-all-prompt-text = Po wybraniu „Wyczyść teraz” wszystkie ciasteczka i dane witryn przechowywane przez przeglądarkę { -brand-short-name } zostaną wyczyszczone. Może to spowodować wylogowanie z witryn i usunąć treści offline.
 site-data-clear-all-prompt-button = Wyczyść teraz
