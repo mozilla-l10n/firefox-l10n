@@ -52,3 +52,9 @@ site-data-removing-desc = การเอาคุกกี้และข้อ
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = การเอาคุกกี้และข้อมูลไซต์ออกอาจนำคุณออกจากระบบเว็บไซต์ต่าง ๆ คุณแน่ใจหรือไม่ว่าต้องการเอาคุกกี้และข้อมูลไซต์สำหรับ <strong>{ $baseDomain }</strong> ออก?
 site-data-removing-table = คุกกี้และข้อมูลไซต์สำหรับเว็บไซต์ดังต่อไปนี้จะถูกเอาออก
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = ล้างคุกกี้และข้อมูลไซต์ทั้งหมด
+site-data-clear-all-prompt-text = การเลือก ‘ล้างตอนนี้’ จะล้างคุกกี้และข้อมูลไซต์ทั้งหมดที่จัดเก็บโดย { -brand-short-name } สิ่งนี้อาจลงชื่อคุณออกจากเว็บไซต์และเอาเนื้อหาเว็บออฟไลน์ออก
+site-data-clear-all-prompt-button = ล้างตอนนี้
