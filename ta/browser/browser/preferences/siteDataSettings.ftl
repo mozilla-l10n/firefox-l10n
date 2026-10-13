@@ -39,3 +39,8 @@ site-data-removing-dialog =
 site-data-removing-header = தள தரவு மற்றும் நினைவிகளை அகற்றுதல்
 site-data-removing-desc = நினைவிகள் மற்றும் தளதரவை நீக்குவது உங்களை வலைத்தளங்களிலிருந்து வெளியேற்றலாம். மாற்றங்களைச் செய்ய விரும்புகிறீர்களா?
 site-data-removing-table = பின்வரும் தளங்களுக்கான நினைவிகள் மற்றும் தளவுதரவு நீக்கப்படும்
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = எல்லா நினைவிகளையும் தள தரவையும் துடை
+site-data-clear-all-prompt-button = இப்போது துடை
