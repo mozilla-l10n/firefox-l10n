@@ -52,3 +52,9 @@ site-data-removing-desc = La supression dels cookies e de las donadas dels sites
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = La supression dels cookies e de las donadas de sites pòt vos desconnectar de sites web. Volètz vertadièrament suprimir los cookies e las donadas de sites per <strong>{ $baseDomain }</strong> ?
 site-data-removing-table = Los cookies e las donadas ligats als sites seguents seràn suprimits
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Escafar totes los cookies e donadas de site
+site-data-clear-all-prompt-text = Seleccionar « Escafar ara » escafarà totes los cookies e donadas de site emmagazinats per { -brand-short-name }. Aquò poiriá vos desconnectar dels sites web e suprimir lo contengut web fòra linha.
+site-data-clear-all-prompt-button = Escafar ara
