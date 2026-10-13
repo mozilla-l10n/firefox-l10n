@@ -857,3 +857,10 @@ onboarding-theme-picker-button-label = Uložit a pokračovat
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Přehled funkcí
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-primary-button-label = Začít prohlížet
+welcome-back-onboarding-secondary-button-label = Podívejte se, co je ještě nového
+welcome-back-onboarding-pill-label-pdf = Nástroje pro PDF
+welcome-back-onboarding-card-tilebutton-label = Vyzkoušet
