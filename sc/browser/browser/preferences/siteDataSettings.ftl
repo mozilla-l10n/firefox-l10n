@@ -52,3 +52,9 @@ site-data-removing-desc = Bogare is testimòngios e is datos de is sitos diat p�
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Bogare is testimòngios e is datos de is sitos diat pòdere serrare is sessiones tuas in is sitos web. Seguru chi boles bogare is testimòngios e is datos de su situ <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Is testimòngios e is datos de is sitos imbenientes ant a èssere bogados
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Isbòida totu is testimòngios e is datos de is sitos
+site-data-clear-all-prompt-text = Seletziona ‘Isbòida immoe’ pro limpiare totu is testimòngios e is datos de is sitos archiviados dae { -brand-short-name }. Custu diat pòdere serrare is sessiones de is sitos web e bogare su cuntenutu web a foras de lìnia.
+site-data-clear-all-prompt-button = Isbòida immoe
