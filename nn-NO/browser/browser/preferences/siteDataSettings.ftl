@@ -52,3 +52,9 @@ site-data-removing-desc = Fjerning av infokapslar og nettsidedata kan logge deg 
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Fjerning av infokapslar og nettstad-data kan logge deg ut av nettstadar. Er du sikker på at du vil fjerne infokapslar og nettstad-data for <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Infokapslar og nettsidedata frå følgjande nettstadar vil bli fjerna
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Fjern infokapslar og nettsidedata
+site-data-clear-all-prompt-text = Om du vel «Fjern no», vil det ta bort alle infokapslar og nettsidedata lagra av { -brand-short-name }. Dette kan logge deg ut av nettsider og fjerne fråkopla nettinnhald.
+site-data-clear-all-prompt-button = Fjern no
