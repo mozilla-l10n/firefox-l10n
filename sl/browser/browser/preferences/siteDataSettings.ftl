@@ -52,3 +52,9 @@ site-data-removing-desc = Izbris piškotkov in podatkov strani vas lahko odjavi 
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = Brisanje piškotkov in podatkov strani vas lahko odjavi iz spletnih mest. Ali ste prepričani, da želite izbrisati piškotke in podatke strani za <strong>{ $baseDomain }</strong>?
 site-data-removing-table = Odstranjeni bodo piškotki in podatki naslednjih spletnih mest
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = Počisti vse piškotke in podatke strani
+site-data-clear-all-prompt-text = S klikom na "Počisti zdaj" boste izbrisali vse piškotke in podatke strani, shranjene v { -brand-short-name }u. To vas bo morda odjavilo iz spletnih strani in odstranilo vsebino za delo brez povezave.
+site-data-clear-all-prompt-button = Počisti zdaj
