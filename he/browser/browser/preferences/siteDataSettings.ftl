@@ -52,3 +52,9 @@ site-data-removing-desc = הסרת עוגיות ונתוני אתרים עשוי
 #   $baseDomain (String) - The single domain for which data is being removed
 site-data-removing-single-desc = הסרת עוגיות ונתוני אתרים עשוי לנתק את המשתמש שלך מאתרים. האם ברצונך להסיר עוגיות ונתוני אתרים עבור <strong>{ $baseDomain }</strong>?
 site-data-removing-table = עוגיות ונתוני אתרים עבור אתרי האינטרנט הבאים יימחקו
+
+## Clear all site data prompt
+
+site-data-clear-all-prompt-title = ניקוי כל העוגיות ונתוני האתרים
+site-data-clear-all-prompt-text = בחירה באפשרות ‘ניקוי כעת’ תנקה את כל העוגיות ונתוני האתרים שמאוחסנים על־ידי { -brand-short-name }. פעולה זו עשויה לנתק את המשתמש שלך מאתרים ותסיר תוכן אינטרנט בלתי מקוון.
+site-data-clear-all-prompt-button = ניקוי כעת
