@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#  $host (String): The domain of the web application registering as a protocol handler.
+#  $protocol (String): The type of protocol (e.g. "web+example").
+protocolhandler-add-handler-message = “{ $host }”-কে { $protocol } লিঙ্কের জন্য অ্যাপ্লিকেশন রূপে যোগ করবেন?
 protocolhandler-add-handler-button =
     .label = অ্যাপ্লিকেশন যোগ করুন
     .accesskey = A
