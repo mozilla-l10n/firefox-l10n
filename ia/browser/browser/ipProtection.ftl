@@ -285,6 +285,28 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Defini regulas pro sitos que besonia de ulterior confidentialitate o VPN disactivate.
     .label = Gerer regulas de VPN
+ip-protection-site-rules-list-section =
+    .description = Elige como VPN functiona pro le sitos que besonia de ulterior confidentialitate o del VPN disactivate.
+    .label = Regulas de sito web
+ip-protection-site-rules-add-button =
+    .label = Stabilir regula
+ip-protection-site-rules-delete-all-button =
+    .label = Deler tote le regulas
+ip-protection-site-rules-empty = Le regulas que tu stabili apparera ci.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN sempre active
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN sempre disactivate
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Rediger le regula pro { $website }
+    .title = Rediger
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Dele le regula pro { $website }
+    .title = Deler
 ip-protection-site-rules-header =
     .heading = Gerer regulas de sito web
 ip-protection-site-rules-button =
@@ -308,6 +330,10 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Gerer parametros de sitos web
 ip-protection-exclusions-desc = Usar VPN pro omnes sitos web salvo illos sur iste lista. Adde un sito web ci o aperiente VPN.
+ip-protection-site-rule-window =
+    .title = Stabilir regula
+ip-protection-edit-site-rule-window =
+    .title = Modificar regula
 ip-protection-site-rule-dialog =
     .buttonlabelaccept = Definir
     .buttonaccesskeyaccept = S
