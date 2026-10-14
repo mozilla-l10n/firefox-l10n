@@ -960,7 +960,7 @@ search-section =
 ## Containers Section
 
 containers-section-header2 =
-    .heading = Настройки на контейнера
+    .heading = Настройки на контейнерите
 containers-card-header2 =
     .description = Разделете „бисквитките“ по контейнери, за да можете да използвате различни акаунти на един и същ сайт и да ограничите проследяването между сайтове.
     .label = Контейнери
