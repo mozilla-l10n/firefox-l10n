@@ -279,6 +279,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } אתרים
         }
     .label = ניהול הגדרות אתרים
+ip-protection-site-rules-header-1 =
+    .heading = ניהול כללים של VPN
+ip-protection-site-rules-button-1 =
+    .description = הגדרת כללים לאתרים שצריכים פרטיות נוספת, או שצריכים שה־VPN יהיה כבוי.
+    .label = ניהול כללים של VPN
 ip-protection-site-rules-header =
     .heading = ניהול כללים לאתרים
 ip-protection-site-rules-button =

@@ -563,6 +563,11 @@ newtab-recent-searches-empty-trending = Las búsquedas más populares no están 
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horóscopos
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Abrir menú de horóscopos
+    .title = Abrir menú de horóscopos
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Opciones de horóscopos
