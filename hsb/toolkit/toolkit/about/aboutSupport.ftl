@@ -166,7 +166,7 @@ restart-button-label = Znowa startować
 
 ## Media titles
 
-audio-backend = Awdiobackend
+audio-backend = Awdijobackend
 max-audio-channels = Maksimalna ličba kanalow
 sample-rate = Preferowana wottasowanska rata
 roundtrip-latency = Wobběhowa latenca (standardne wotchilenje)
@@ -206,7 +206,7 @@ media-codec-support-lack-of-extension = Rozšěrjenje instalować
 media-content-decryption-modules-title = Informacije wo modulach wobsahoweho zaklučowanja
 media-key-system-name = Mjeno systemoweho kluča
 media-video-robustness = Widejorobustnosć
-media-audio-robustness = Awdiorobustnosć
+media-audio-robustness = Awdijorobustnosć
 media-cdm-capabilities = Kmanosće
 # Clear Lead isn't defined in the spec, which means the the first few seconds
 # are not encrypted. It allows playback to start without having to wait for

@@ -125,7 +125,7 @@ webext-site-perms-header-with-gated-perms-serial = Tutón přidatk { $hostname }
 # Note, the empty line is used to create a line break between the two sections.
 # Note, this string will be used as raw markup. Avoid characters like <, >, &
 webext-site-perms-description-gated-perms-midi =
-    TE su zwjetša tykačowe graty kaž awdiosyntesizery, ale móža tež we wašim ličaku zatwarjene być.
+    TE su zwjetša tykačowe graty kaž awdijosyntesizery, ale móža tež we wašim ličaku zatwarjene być.
     
     Websydła w normalnym padźe přistup k MIDI-gratam nima. Wopačne wužiwanje móhło škodu zawinować abo wěstotu pomjeńšić.
 webext-site-perms-description-gated-perms-webserial =

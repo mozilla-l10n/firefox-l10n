@@ -43,7 +43,7 @@ process-type-rdd = RDD
 process-type-inference = Inferenca
 # process used to run some IPC actor in their own sandbox
 process-type-utility = IPC-aktor w pěskowym kašćiku
-process-type-utility-actor-audio-decoder-generic = Nastroj Generiski awdiodekoder
+process-type-utility-actor-audio-decoder-generic = Nastroj Generiski awdijodekoder
 process-type-utility-actor-audio-decoder-applemedia = Nastroj AppleMedia
 process-type-utility-actor-audio-decoder-wmf = Nastroj Windows Media Foundation
 process-type-utility-actor-mf-media-engine = Nastroj Media Foundation Engine

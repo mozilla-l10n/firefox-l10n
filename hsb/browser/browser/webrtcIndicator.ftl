@@ -156,23 +156,23 @@ webrtc-allow-share-speaker-with-file = Chceće tutej lokalnej dataji dowolić, d
 webrtc-allow-share-camera-and-microphone-with-file = Chceće tutej lokalnej dataji dowolić, wašu kameru a waš mikrofon wužiwać?
 webrtc-allow-share-camera-and-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, swoju kameru wužiwać a na awdijo tutoho rajtarka poskać?
 webrtc-allow-share-screen-and-microphone-with-file = Chceće tutej lokalnej dataji dowolić, swój mikrofon wužiwać a swoju wobrazowku widźeć?
-webrtc-allow-share-screen-and-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, na awdio tutoho rajtarka poskać a swoju wobrazowku widźeć?
+webrtc-allow-share-screen-and-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, na awdijo tutoho rajtarka poskać a swoju wobrazowku widźeć?
 
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
 
-webrtc-allow-share-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, na awdio tutoho rajtarka poskać?
+webrtc-allow-share-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, na awdijo tutoho rajtarka poskać?
 webrtc-allow-share-camera-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašej kamerje dawa?
 webrtc-allow-share-microphone-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašemu mikrofonej dawa?
 webrtc-allow-share-screen-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, swoju wobrazowku widźeć?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k druhim awdiowudawanskim nastrojam dawa?
+webrtc-allow-share-speaker-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k druhim awdijowudawanskim nastrojam dawa?
 webrtc-allow-share-camera-and-microphone-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašej kamerje a wašemu mikrofonej dawa?
-webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašej kamerje dawa a jemu dowola, na awdio tutoho rajtarka poskać?
+webrtc-allow-share-camera-and-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašej kamerje dawa a jemu dowola, na awdijo tutoho rajtarka poskać?
 webrtc-allow-share-screen-and-microphone-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašemu mikrofonej dawa a jemu dowola, wašu wobrazowku widźeć?
-webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, na awdio tutoho rajtarka poskać a wašu wobrazowku widźeć?
+webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, na awdijo tutoho rajtarka poskać a wašu wobrazowku widźeć?
 
 ##
 
