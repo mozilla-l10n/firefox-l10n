@@ -84,6 +84,11 @@ menu-file-close-tab =
            *[other] Zapri { $tabCount } zavihkov
         }
     .accesskey = Z
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Zapri
+    .accesskey = Z
 menu-file-close-window =
     .label = Zapri okno
     .accesskey = o
@@ -96,6 +101,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Deli
     .accesskey = D
+menu-file-share-qrcode3 =
+    .label = Ustvari kodo QR
+    .accesskey = U
 menu-file-share-qrcode =
     .label = Ustvari kodo QR …
     .accesskey = Q
@@ -235,6 +243,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Išči po zgodovini
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Išči med zavihki
 
 ## Bookmarks Menu
 

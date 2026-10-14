@@ -89,6 +89,9 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Križanka
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finance
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Delnice
@@ -99,6 +102,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Iskanje
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskopi
 home-prefs-mission-message2 =
     .message = Naši sponzorji podpirajo naše poslanstvo ustvarjanja boljšega spleta.
 home-prefs-manage-topics-link2 =
@@ -497,6 +503,16 @@ newtab-search-widget-menu-button =
 # Shown in place of the list when there are no trending search results.
 newtab-recent-searches-empty-trending = Trenutno priljubljena iskanja v tem trenutku niso na voljo.
 
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskopi
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Možnosti horoskopov
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Več o tem
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -796,12 +812,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Križanka
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finance
 newtab-custom-widget-stocks-toggle =
     .label = Delnice
 newtab-custom-widget-picture-toggle =
     .label = Slika dneva
 newtab-custom-widget-search-toggle =
     .label = Iskanje
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskopi
 newtab-custom-widget-section-title = Pripomočki
 newtab-custom-widget-section-toggle =
     .label = Pripomočki
@@ -1023,6 +1044,11 @@ newtab-wallpaper-celestial-river = Satelitski posnetek reke
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponzorirano
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Odpri meni pripomočka Vreme
+    .title = Odpri meni pripomočka Vreme
 newtab-weather-menu-change-location = Spremeni lokacijo
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Išči lokacijo
@@ -1301,6 +1327,12 @@ newtab-widget-lists-edit-clear =
 # Lists is a noun, as in "options for the lists"
 newtab-widget-lists-menu-button =
     .aria-label = Možnosti seznamov
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Odpri meni pripomočka Seznami
+    .title = Odpri meni pripomočka Seznami
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Ustvari nov seznam
@@ -1388,6 +1420,11 @@ newtab-widget-timer-menu-notifications-on = Vklopi obvestila
 newtab-widget-timer-menu-learn-more = Več o tem
 newtab-widget-timer-menu-button =
     .aria-label = Možnosti časovnika
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Odpri meni pripomočka Časovnik
+    .title = Odpri meni pripomočka Časovnik
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Glavne novice
 newtab-daily-briefing-card-menu-dismiss = Skrij
@@ -1412,6 +1449,14 @@ newtab-promo-card-cta = Več o tem
 newtab-promo-card-dismiss-button =
     .aria-label = Opusti
     .title = Opusti
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Odpri meni pripomočka Križanka
+    .title = Odpri meni pripomočka Križanka
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1728,6 +1773,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Ta prostor igra po vaših pravilih
 newtab-activation-window-message-values-focus-message = S { -brand-product-name(sklon: "orodnik") } lahko brskate, kakor želite, in si spletni začetek dneva naredite bolj oseben. Prilagodite si { -brand-product-name(sklon: "tožilnik") } po svojem okusu.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = Izberite si videz
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1814,6 +1864,11 @@ newtab-clock-widget-custom-back = Nazaj
 newtab-clock-widget-menu-button2 =
     .aria-label = Možnosti ure
     .title = Možnosti ure
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Odpri meni pripomočka Ura
+    .title = Odpri meni pripomočka Ura
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

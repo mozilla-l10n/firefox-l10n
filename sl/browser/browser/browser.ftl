@@ -38,6 +38,30 @@ urlbar-identity-button2 =
             [few] Ogled podatkov o strani ({ $count } zavrnjeni sledilci)
            *[other] Ogled podatkov o strani ({ $count } zavrnjenih sledilcev)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } povezava
+            [two] { $count } povezavi
+            [few] { $count } povezave
+           *[other] { $count } povezav
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Sporočila in ostalo …
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Sporočila, Pošta in ostalo …
+    .accesskey = P
 # Share entry in the addressbar context menu. Opens the macOS share picker
 # directly, hence the ellipsis.
 urlbar-share-url =
@@ -108,6 +132,8 @@ urlbar-result-menu-tip-get-help2 = Pomoč
     .accesskey = P
 urlbar-result-menu-dismiss-suggestion2 = Skrij ta predlog
     .accesskey = S
+urlbar-result-menu-remove-top-site = Odstrani izmed glavnih strani
+    .accesskey = t
 urlbar-result-menu-manage-firefox-suggest2 = Upravljaj { -firefox-suggest-brand-name }
     .accesskey = U
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -965,6 +991,12 @@ urlbar-view-context-menu-open-in-window2 = Odpri v novem oknu
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window2 = Odpri v novem zasebnem oknu
     .accesskey = p
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Pri pritisku tabulatorja preskoči ta meni
+    .accesskey = s
 
 ## Labels shown above groups of urlbar results
 
@@ -1299,6 +1331,17 @@ restore-session-startup-suggestion-button = Pokaži, kako
 
 filepicker-blocked-infobar = Vaša organizacija je onemogočila dostop do shranjenih datotek na tem računalniku
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } po novem začne iskanje zavihkov
+urlbar-addons-shortcut-moved-description = Če želite odpreti upravitelja razširitev in tem, uporabite bližnjico { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Upravljanje bližnjic
+urlbar-addons-shortcut-moved-dismiss = Razumem
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } samodejno pošilja nekatere podatke organizaciji { -vendor-short-name }, zato da lahko izboljšamo vašo izkušnjo.
@@ -1323,6 +1366,10 @@ private-browsing-info-panel-description = To pomaga, da vaše brskanje ostane sk
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Preprečevanje izgube podatkov, ki ga omogoča { $agentName }. Kliknite za več informacij.
+content-analysis-panel-title2 = Preprečevanje izgube podatkov
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Vaša organizacija z orodjem <b>{ $agentName }</b> nadzoruje, na kakšne načine se lahko delijo občutljivi podatki. <a data-l10n-name="info">Več o tem</a>
 content-analysis-panel-title = Varstvo podatkov
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected

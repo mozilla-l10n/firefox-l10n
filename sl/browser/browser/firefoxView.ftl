@@ -83,6 +83,9 @@ firefoxview-overview-nav = Nedavno brskanje
     .title = Nedavno brskanje
 firefoxview-overview-header = Nedavno brskanje
     .title = Nedavno brskanje
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Zavihki in zgodovina brskanja z različnih naprav
 
 ## History in this context refers to browser history
 

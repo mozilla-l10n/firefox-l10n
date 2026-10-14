@@ -1159,6 +1159,9 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Naslednji podatki se sinhronizirajo med vsemi povezanimi napravami:
 sync-syncing-across-devices-heading-2 = Podatki, sinhronizirani med napravami
+sync-syncing-across-devices-empty-state3 =
+    .description = Zaenkrat ne sinhronizirate ničesar. Izberite, kaj želite sinhronizirati na tej napravi.
+    .label = Upravljanje sinhroniziranih podatkov
 sync-currently-syncing-bookmarks = zaznamki
 sync-currently-syncing-history = zgodovina
 sync-currently-syncing-tabs = odprti zavihki

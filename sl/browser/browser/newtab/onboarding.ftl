@@ -606,3 +606,24 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Če si premislite, lah
 onboarding-theme-picker-title = Izberite temo
 onboarding-theme-picker-subtitle = Dodajte { -brand-short-name(sklon: "dajalnik") } malo barve.
 onboarding-theme-picker-button-label = Shrani in nadaljuj
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Predstavljene možnosti
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Nove možnosti, s katerimi lahko dosežete več
+welcome-back-onboarding-primary-button-label = Začnite z brskanjem
+welcome-back-onboarding-secondary-button-label = Oglejte si, kaj je še novega
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Urejeni zavihki
+welcome-back-onboarding-pill-label-vpn = Vgrajeni VPN
+welcome-back-onboarding-pill-label-pdf = Orodja za PDF
+welcome-back-onboarding-card-label-tabs = Organizirajte zavihke z navpičnim prikazom in skupinami
+welcome-back-onboarding-card-label-vpn = Ostanite skriti z vgrajenim VPN-jem
+welcome-back-onboarding-card-label-pdf = Označujte, podpisujte in urejajte datoteke PDF
+welcome-back-onboarding-card-tilebutton-label = Preizkusite
