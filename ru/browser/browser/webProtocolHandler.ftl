@@ -10,7 +10,7 @@ protocolhandler-mailto-os-handler-no-button = Не сейчас
 protocolhandler-add-handler-message = Добавить «{ $host }» в качестве приложения для ссылок { $protocol }?
 protocolhandler-add-handler-button =
     .label = Добавить приложение
-    .accesskey = о
+    .accesskey = Ф
 
 ## Variables:
 ##  $url (String): The url of a webmailer, but only its full domain name.

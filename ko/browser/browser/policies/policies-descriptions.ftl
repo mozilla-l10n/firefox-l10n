@@ -67,6 +67,7 @@ policy-DisablePasswordReveal2 = 저장된 로그인이나 비밀번호 필드에
 policy-DisablePasswordReveal = 저장된 로그인에 비밀번호 보기 기능을 허용하지 않습니다.
 policy-DisablePrivateBrowsing = 사생활 보호 모드를 사용 안 합니다.
 policy-DisableProfileImport = 메뉴에서 다른 브라우저의 데이터를 가져오는 명령을 사용 안 합니다.
+policy-DisableProfileRefresh2 = 문제 해결 정보(about:support) 및 support.mozilla.org에서 { -brand-short-name } 새로 고침 버튼을 비활성화하고, { -brand-short-name }를 한동안 사용하지 않았을 때 나타나는 새로 고침 제안 알림도 비활성화합니다.
 policy-DisableProfileRefresh = about:support 페이지의 { -brand-short-name } 새로설정 버튼을 사용 안 합니다.
 policy-DisableRemoteImprovements = { -brand-short-name }가 업데이트 간의 성능, 안정성 및 기능 변경 사항을 적용하지 못하게 합니다.
 policy-DisableRemoteSettingsAndAcceptSecurityConsequences = 원격 설정을 사용 안 합니다.
