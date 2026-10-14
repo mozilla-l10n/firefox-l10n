@@ -398,12 +398,18 @@ onboarding-checklist-remove-2 = Checklist verwijderen
 
 tab-groups-onboarding-feature-callout-title = Probeer tabbladgroepen voor minder rommel, meer focus
 tab-groups-onboarding-feature-callout-subtitle = Orden door het ene tabblad op het andere te slepen om uw eerste groep aan te maken.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Vind uw tabbladgroepen altijd terug in het menu ‘Tabbladen zoeken en beheren’.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Vind uw tabbladgroepen altijd terug in het menu Alle tabbladtitels tonen.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Vind uw groepen door ernaar te zoeken in de adresbalk.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Wanneer u een tabbladgroep sluit, kunt u deze op elk gewenst moment opnieuw openen vanuit het menu ‘Tabbladen zoeken en beheren’.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Wanneer u een tabbladgroep sluit, kunt u deze op elk gewenst moment opnieuw openen vanuit het menu Alle tabbladtitels tonen.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Vind uw gesloten groepen door ernaar te zoeken in de adresbalk.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = U kunt uw tabbladgroepen op elk gewenst moment opnieuw openen vanuit het menu ‘Tabbladen zoeken en beheren’.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = U kunt uw tabbladgroepen op elk gewenst moment opnieuw openen vanuit het menu Alle tabbladtitels tonen.
 tab-groups-onboarding-dismiss = OK

@@ -564,6 +564,11 @@ newtab-recent-searches-empty-trending = Trending zoekopdrachten zijn momenteel n
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoscopen
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Menu Horoscopen openen
+    .title = Menu Horoscopen openen
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Opties voor horoscopen
