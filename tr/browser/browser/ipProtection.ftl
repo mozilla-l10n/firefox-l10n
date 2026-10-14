@@ -280,6 +280,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } web sitesi
         }
     .label = Web sitesi ayarlarını yönet
+ip-protection-site-rules-header-1 =
+    .heading = VPN kurallarını yönet
+ip-protection-site-rules-button-1 =
+    .description = Ekstra gizlilik gerektiren veya VPN’in kapatılması gereken siteler için kurallar belirleyin.
+    .label = VPN kurallarını yönet
 ip-protection-site-rules-header =
     .heading = Site kurallarını yönet
 ip-protection-site-rules-button =

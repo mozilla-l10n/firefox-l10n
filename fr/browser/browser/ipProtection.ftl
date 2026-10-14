@@ -341,7 +341,7 @@ ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Enregistrer
     .buttonaccesskeyaccept = E
 # VPN status refers to a state of 'always on' or 'always off' applied to a site
-ip-protection-site-rule-intro = Saisissez un site, puis sélectionnez son statut VPN.
+ip-protection-site-rule-intro = Saisissez un site, puis sélectionnez l’état du VPN.
 # "ex:" is short for "example".
 ip-protection-site-rule-website-field =
     .label = Site web

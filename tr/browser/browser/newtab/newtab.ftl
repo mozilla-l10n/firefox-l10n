@@ -564,6 +564,11 @@ newtab-recent-searches-empty-trending = Gündemdeki aramalar şu anda görüntü
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Burçlar
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Burçlar menüsünü aç
+    .title = Burçlar menüsünü aç
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Burçlar seçenekleri

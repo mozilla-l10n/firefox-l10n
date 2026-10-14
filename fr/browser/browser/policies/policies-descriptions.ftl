@@ -77,7 +77,7 @@ policy-DisableSecurityBypass = Empêcher l’utilisateur de contourner certains 
 policy-DisableSetAsDesktopBackground = Désactiver la commande contextuelle Choisir l’image comme fond d’écran pour les images.
 policy-DisableSystemAddonUpdate = Empêcher le navigateur d’installer et de mettre à jour des modules complémentaires.
 policy-DisableTelemetry = Désactiver la télémétrie.
-policy-DisableThirdPartyModuleBlocking2 = Empêcher l’utilisateur d’utiliser les informations de module tiers (about:third-party) pour bloquer les modules tiers injectés dans le processus { -brand-short-name }.
+policy-DisableThirdPartyModuleBlocking2 = Empêcher l’utilisateur ou l’utilisatrice d’utiliser la page Informations sur les modules tiers (about:third-party) pour bloquer les modules tiers injectés dans le processus de { -brand-short-name }.
 policy-DisableThirdPartyModuleBlocking = Empêcher l’utilisateur de bloquer les modules tiers qui sont injectés dans le processus { -brand-short-name }.
 policy-DisplayBookmarksToolbar = Afficher la barre personnelle par défaut.
 policy-DisplayMenuBar = Afficher la barre de menus par défaut.
@@ -129,7 +129,7 @@ policy-OfferToSaveLogins = Forcer le paramètre qui détermine si { -brand-short
 policy-OfferToSaveLoginsDefault = Définir si, par défaut, { -brand-short-name } doit proposer de mémoriser des identifiants et des mots de passe. Les valeurs true et false sont toutes deux acceptées.
 policy-OverrideFirstRunPage = Contrôler la page de premier démarrage. Laissez cette règle vide pour désactiver la page de premier démarrage.
 policy-OverridePostUpdatePage = Contrôler la page « Nouveautés » après une mise à jour. Laissez cette règle vide pour désactiver la page après une mise à jour.
-policy-PasswordManagerEnabled2 = Activer ou désactiver l’enregistrement des mots de passe dans le gestionnaire de mots de passe. Si cette fonctionnalité est désactivée, les mots de passe (about:logins) sont également bloqués.
+policy-PasswordManagerEnabled2 = Activer ou désactiver l’enregistrement des mots de passe dans le gestionnaire de mots de passe. Si cette option est désactivée, l’accès à la page Mots de passe (about:logins) est également bloqué.
 policy-PasswordManagerEnabled = Activer l’enregistrement des mots de passe dans le gestionnaire de mots de passe.
 policy-PasswordManagerExceptions = Empêcher { -brand-short-name } d’enregistrer les mots de passe pour certains sites.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -148,7 +148,7 @@ policy-RelaunchRequired = Forcer le redémarrage de { -brand-short-name } dans u
 policy-RequestedLocales = Définir la liste des locales demandées par l’application, dans l’ordre de préférence.
 policy-SanitizeOnShutdown2 = Permettre d’effacer des données de navigation à la fermeture.
 policy-SearchBar = Définir l’emplacement par défaut de la barre de recherche. L’utilisateur garde la possibilité de la personnaliser.
-policy-SearchEngines2 = Configurer les paramètres du moteur de recherche.
+policy-SearchEngines2 = Configurer les paramètres des moteurs de recherche.
 policy-SearchEngines = Configurer les paramètres du moteur de recherche. Cette propriété n’est disponible que sur la version Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Activer ou désactiver les suggestions de recherche.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

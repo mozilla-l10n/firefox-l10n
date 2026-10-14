@@ -399,7 +399,7 @@ onboarding-checklist-remove-2 = Supprimer la liste de vérification
 tab-groups-onboarding-feature-callout-title = Essayez les groupes d’onglets pour moins de distractions, plus de concentration
 tab-groups-onboarding-feature-callout-subtitle = Organisez vos onglets en faisant glisser un onglet au-dessus d’un autre pour créer votre premier groupe.
 # The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-create-group-title-4 = Recherchez à tout moment vos groupes d’onglets dans le menu « Rechercher et gérer les onglets ».
+tab-groups-onboarding-create-group-title-4 = Retrouvez à tout moment vos groupes d’onglets dans le menu « Rechercher et gérer les onglets ».
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Retrouvez à tout moment vos groupes d’onglets dans le menu Lister tous les onglets.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Retrouvez vos groupes en les recherchant dans la barre d’adresse.

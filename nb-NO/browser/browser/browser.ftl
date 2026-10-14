@@ -444,6 +444,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Vis redigerer ved lagring
     .accesskey = s
+bookmark-panel-save-button2 =
+    .label = Lagre
+    .accesskey = L
 bookmark-panel-save-button =
     .label = Lagre
 # Width of the bookmark panel.
