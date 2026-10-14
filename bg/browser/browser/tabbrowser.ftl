@@ -12,6 +12,10 @@ tabbrowser-menuitem-close =
 # Variables:
 #   $tabGroupName (String): the user-defined name of the current tab group.
 tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
 # Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
 # Variables:
 #   $tabGroupName (String): the user-defined name of the current tab group.

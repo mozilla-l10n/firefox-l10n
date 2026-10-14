@@ -280,6 +280,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webgune
         }
     .label = Kudeatu webgunearen ezarpenak
+ip-protection-site-rules-header-1 =
+    .heading = Kudeatu VPN arauak
+ip-protection-site-rules-button-1 =
+    .description = Ezarri arauak pribatutasun estra edo VPNa inaktibo izatea behar duten guneetarako.
+    .label = Kudeatu VPN arauak
+ip-protection-site-rules-list-section =
+    .description = Aukeratu nola dabilen VPNa pribatutasun estra edo VPNa inaktibo izatea behar duten guneetarako.
+    .label = Webguneen arauak
+ip-protection-site-rules-add-button =
+    .label = Ezarri araua
+ip-protection-site-rules-delete-all-button =
+    .label = Ezabatu arau guztiak
+ip-protection-site-rules-empty = Zuk ezarritako arauak hemen agertuko dira.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPNa beti aktibo
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPNa beti inaktibo
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Editatu { $website } webgunerako araua
+    .title = Editatu
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Ezabatu { $website } webgunerako araua
+    .title = Ezabatu
 ip-protection-site-rules-header =
     .heading = Kudeatu webguneen arauak
 ip-protection-site-rules-button =
@@ -303,6 +330,29 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Kudeatu webgunearen ezarpenak
 ip-protection-exclusions-desc = Erabili VPNa webgune guztientzat zerrenda honetan daudenak kenduta. Gehitu webgune bat hemen edo VPNa zabalduz.
+ip-protection-site-rule-window =
+    .title = Ezarri araua
+ip-protection-edit-site-rule-window =
+    .title = Editatu araua
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Ezarri
+    .buttonaccesskeyaccept = E
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Gorde
+    .buttonaccesskeyaccept = G
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Idatzi webgune bat eta hautatu bere VPN egoera.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Webgunea
+    .placeholder = adib.: adibidea.eus
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN egoera
+ip-protection-site-rule-status-on =
+    .label = Beti aktibo
+ip-protection-site-rule-status-off =
+    .label = Beti inaktibo
 
 ## IP Protection Bandwidth
 

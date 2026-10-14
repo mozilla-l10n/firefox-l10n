@@ -7,3 +7,11 @@ containers-window-close =
 containers-dialog =
     .buttonlabelaccept = Готово
     .buttonaccesskeyaccept = Г
+containers-window-new3 =
+    .style = min-width: 32em
+    .title = Добавяне на нов контейнер
+
+## Dialog that binds a website to a container.
+
+containers-site-container-label =
+    .label = Контейнер
