@@ -280,6 +280,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } sitos web
         }
     .label = Gerer parametros de sitos web
+ip-protection-site-rules-header-1 =
+    .heading = Gerer regulas de VPN
+ip-protection-site-rules-button-1 =
+    .description = Defini regulas pro sitos que besonia de ulterior confidentialitate o VPN disactivate.
+    .label = Gerer regulas de VPN
 ip-protection-site-rules-header =
     .heading = Gerer regulas de sito web
 ip-protection-site-rules-button =
@@ -303,6 +308,20 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Gerer parametros de sitos web
 ip-protection-exclusions-desc = Usar VPN pro omnes sitos web salvo illos sur iste lista. Adde un sito web ci o aperiente VPN.
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Definir
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Salvar
+    .buttonaccesskeyaccept = S
+ip-protection-site-rule-status-on =
+    .label = Sempre active
+ip-protection-site-rule-status-off =
+    .label = Sempre disactivate
+ip-protection-delete-site-rule-cancel =
+    .label = Cancellar
+ip-protection-delete-site-rule-confirm =
+    .label = Deler
 
 ## IP Protection Bandwidth
 
