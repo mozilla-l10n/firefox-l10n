@@ -235,6 +235,9 @@ urlbar-result-action-switch-tab = 'टैब मे स्विच करू
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks4 = पुस्तकचिह्न
+urlbar-searchmode-tabs4 = टैब
+urlbar-searchmode-history4 = इतिहास
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

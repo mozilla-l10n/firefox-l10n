@@ -309,6 +309,12 @@ urlbar-result-action-search-w-engine = Mirar con { $engine }
 urlbar-result-action-switch-tab = Cambiar t'a pestanya
 urlbar-result-action-visit = Vesitar
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-bookmarks4 = Marcapachinas
+urlbar-searchmode-tabs4 = Pestanyas
+urlbar-searchmode-history4 = Historial
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl

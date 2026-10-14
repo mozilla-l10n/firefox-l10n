@@ -413,6 +413,10 @@ urlbar-result-action-copy-to-clipboard = Tɨɨn
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks4 = A ta´a ini noo´o
+urlbar-searchmode-tabs4 = Da sukua
+urlbar-searchmode-history4 = Historial
+urlbar-searchmode-actions4 = Acciones
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

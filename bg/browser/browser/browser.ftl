@@ -753,6 +753,7 @@ urlbar-searchmode-button-no-engine2 =
     .title = Няма избрана клавишна комбинация, изберете една
 urlbar-searchmode-dropmarker2 =
     .title = Изберете търсеща машина
+urlbar-searchmode-bookmarks4 = Отметки
 urlbar-searchmode-tabs4 = Раздели
 urlbar-searchmode-history4 = История
 urlbar-searchmode-actions4 = Действия

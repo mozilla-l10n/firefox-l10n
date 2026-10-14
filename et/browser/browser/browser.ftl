@@ -474,6 +474,10 @@ urlbar-result-action-copy-to-clipboard = Kopeeri
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks4 = Järjehoidjad
+urlbar-searchmode-tabs4 = Kaardid
+urlbar-searchmode-history4 = Ajalugu
+urlbar-searchmode-actions4 = Tegevused
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

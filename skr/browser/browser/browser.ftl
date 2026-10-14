@@ -530,6 +530,10 @@ urlbar-result-search-with-local-search-mode = { $keywords }  - { $localSearchMod
 urlbar-result-search-with-engine-keywords = { $keywords }  - { $engine } نال ڳولو
 urlbar-searchmode-dropmarker2 =
     .title = ڳولݨ انجݨ چݨو
+urlbar-searchmode-bookmarks4 = نشانیاں
+urlbar-searchmode-tabs4 = ٹیباں
+urlbar-searchmode-history4 = تاریخ
+urlbar-searchmode-actions4 = عمل
 urlbar-searchmode-exit-button2 =
     .title = بند کرو
 # Shown when adding new search engines from the search mode switcher.

@@ -669,6 +669,10 @@ urlbar-searchmode-button-no-engine2 =
     .title = കുറുക്കുവഴിയൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല, ഒരു കുറുക്കുവഴിയെ തിരഞ്ഞെടുക്കുക
 urlbar-searchmode-dropmarker2 =
     .title = തിരയൽയന്ത്രം തിരഞ്ഞെടുക്കുക
+urlbar-searchmode-bookmarks4 = അടയാളക്കുറിപ്പുകള്‍
+urlbar-searchmode-tabs4 = ടാബുകള്‍
+urlbar-searchmode-history4 = നാള്‍വഴി
+urlbar-searchmode-actions4 = നടപടികൾ
 urlbar-searchmode-exit-button2 =
     .title = അടയ്ക്കുക
 # Shown when adding new search engines from the search mode switcher.

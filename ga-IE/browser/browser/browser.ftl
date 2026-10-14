@@ -392,6 +392,10 @@ urlbar-searchmode-button-no-engine2 =
     .title = Níor roghnaíodh aicearra. Roghnaigh aicearra.
 urlbar-searchmode-dropmarker2 =
     .title = Roghnaigh inneall cuardaigh
+urlbar-searchmode-bookmarks4 = Leabharmharcanna
+urlbar-searchmode-tabs4 = Cluaisíní
+urlbar-searchmode-history4 = Oireas
+urlbar-searchmode-actions4 = Gníomhartha
 urlbar-searchmode-exit-button2 =
     .title = Dún
 # Shown when adding new search engines from the search mode switcher.

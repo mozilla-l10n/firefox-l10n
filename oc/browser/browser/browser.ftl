@@ -529,6 +529,10 @@ urlbar-searchmode-button3 =
     .title = { $engine }, seleccionar un motor de recèrca
 urlbar-searchmode-dropmarker2 =
     .title = Causir un motor de recèrca
+urlbar-searchmode-bookmarks4 = Marcapaginas
+urlbar-searchmode-tabs4 = Onglets
+urlbar-searchmode-history4 = Istoric
+urlbar-searchmode-actions4 = Accions
 urlbar-searchmode-exit-button2 =
     .title = Tampar
 # Shown when adding new search engines from the search mode switcher.

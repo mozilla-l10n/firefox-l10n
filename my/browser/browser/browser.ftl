@@ -230,6 +230,12 @@ urlbar-result-action-search-w-engine = { $engine } နှင့် ရှာဖ�
 urlbar-result-action-switch-tab = တပ်ဗ်အဖြစ်သို့ ပြောင်းပါ
 urlbar-result-action-visit = လည်ပတ်ရန်
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-bookmarks4 = စာမှတ်များ
+urlbar-searchmode-tabs4 = တပ်ဗ်များ
+urlbar-searchmode-history4 = မှတ်တမ်း
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl

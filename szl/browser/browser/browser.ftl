@@ -434,6 +434,10 @@ urlbar-result-action-copy-to-clipboard = Kopiuj
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks4 = Zokłodki
+urlbar-searchmode-tabs4 = Karty
+urlbar-searchmode-history4 = Historyjo
+urlbar-searchmode-actions4 = Akcyje
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

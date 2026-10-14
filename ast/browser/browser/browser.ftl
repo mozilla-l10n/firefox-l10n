@@ -255,6 +255,12 @@ urlbar-result-action-switch-tab = Dir pa la llingüeta
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Buscar en «{ $engine }» direutamente dende la barra de direiciones
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-bookmarks4 = Marcadores
+urlbar-searchmode-tabs4 = Llingüetes
+urlbar-searchmode-history4 = Historial
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
