@@ -337,7 +337,7 @@ quickactions-addons = Zobraziť doplnky
 # same word).
 quickactions-cmd-addons3 = rozšírenia, témy, doplnky
 # Opens preferences page at AI controls
-quickactions-manageai = Spravovať nastavenia AI
+quickactions-manageai = Spravovať nastavenia umelej inteligencie
 quickactions-cmd-manageai = vypnúť ai, spravovať ai
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Spravovať záložky
@@ -449,6 +449,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Pri ukladaní zobrazovať editor
     .accesskey = u
+bookmark-panel-save-button2 =
+    .label = Uložiť
+    .accesskey = U
 bookmark-panel-save-button =
     .label = Uložiť
 # Width of the bookmark panel.
@@ -1311,6 +1314,9 @@ tabs-toolbar =
     .aria-label = Karty prehliadača
 tabs-toolbar-new-tab =
     .label = Nová karta
+tabs-toolbar-list-all-tabs-2 =
+    .label = Vyhľadať a spravovať karty
+    .tooltiptext = Vyhľadať a spravovať karty
 tabs-toolbar-list-all-tabs =
     .label = Zoznam všetkých kariet
     .tooltiptext = Zoznam všetkých kariet

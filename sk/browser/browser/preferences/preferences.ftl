@@ -52,8 +52,8 @@ pane-privacy-title3 = Súkromie a bezpečnosť
 pane-privacy-section =
     .heading = Súkromie a bezpečnosť
 pane-sync-title3 = Synchronizácia
-pane-ai-controls-title2 = Nastavenia AI
-    .title = Nastavenia AI
+pane-ai-controls-title2 = Nastavenia umelej inteligencie
+    .title = Nastavenia umelej inteligencie
 pane-about-firefox-title = O aplikácii { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Vzhľad
@@ -2124,15 +2124,15 @@ related-settings-tabs-browsing-link =
 ## AI controls page
 
 preferences-ai-controls-description = Vo { -brand-short-name(case: "loc") } máte vždy na výber, vrátane toho, či chcete používať funkcie vylepšené umelou inteligenciou. Čoskoro pribudnú ďalšie ovládacie prvky.
-preferences-ai-controls-block-ai-label = Blokovať vylepšenia umelou inteligenciou
+preferences-ai-controls-block-ai-label = Blokovať funkcie využívajúce umelú inteligenciu
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = Blokovanie znamená, že vo { -brand-short-name(case: "loc") } neuvidíte nové ani aktuálne vylepšenia umelej inteligencie, ani kontextové okná o nich. <a data-l10n-name="link">Tu nájdete viac informácií</a> o tom, čo je zahrnuté a ako ovládať tradičné funkcie strojového učenia, ako sú návrhy a odporúčania vyhľadávania.
+preferences-ai-controls-block-ai-description = Ak zapnete blokovanie, { -brand-short-name } vám nebude zobrazovať existujúce ani nové funkcie využívajúce umelú inteligenciu. Nebudú sa zobrazovať ani kontextové okná, ktoré vás na tieto funkcie upozorňujú. <a data-l10n-name="link">Tu sa dozviete viac</a> o tom, na ktoré funkcie sa blokovanie vzťahuje a ako môžete spravovať bežné funkcie strojového učenia, napríklad návrhy vyhľadávania a odporúčania.
 preferences-ai-controls-blocked-message =
     .message = Nové a aktuálne vylepšenia umelej inteligencie sú štandardne blokované. Ak chcete odblokovať konkrétnu funkciu, použite ovládacie prvky nižšie.
 preferences-ai-controls-on-device-group =
-    .description = Tieto funkcie používajú malé modely umelej inteligencie, ktoré sa stiahnu do vášho zariadenia, ak danú funkciu používate. Tento prístup pomáha chrániť vaše súkromie.
-    .label = Umelá inteligencia v zariadení
+    .description = Tieto funkcie využívajú malé modely umelej inteligencie, ktoré sa do vášho zariadenia stiahnu až vtedy, keď danú funkciu začnete používať. Spracovanie údajov tak prebieha priamo vo vašom zariadení, čo pomáha chrániť vaše súkromie.
+    .label = Umelá inteligencia priamo vo vašom zariadení
 preferences-ai-controls-translations-control =
     .description = Bezproblémovo prehliadajte web vo vami preferovanom jazyku.
     .label = Preklady
@@ -2185,7 +2185,7 @@ preferences-ai-controls-block-confirmation-cancel =
 preferences-ai-controls-block-confirmation-confirm =
     .label = Blokovať
 preferences-ai-controls-header3 =
-    .heading = Nastavenia AI
+    .heading = Nastavenia umelej inteligencie
 
 ## Privacy and security status card
 

@@ -282,6 +282,23 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webových stránok
         }
     .label = Spravovať nastavenia webových stránok
+ip-protection-site-rules-header-1 =
+    .heading = Správa pravidiel VPN
+ip-protection-site-rules-button-1 =
+    .description = Nastavte pravidlá pre stránky, ktoré vyžadujú zvýšené súkromie alebo vypnutú VPN.
+    .label = Spravovať pravidlá VPN
+ip-protection-site-rules-list-section =
+    .description = Vyberte, ako bude VPN fungovať pre stránky, ktoré vyžadujú zvýšené súkromie alebo vypnutú VPN.
+    .label = Pravidlá pre webové stránky
+ip-protection-site-rules-add-button =
+    .label = Nastaviť pravidlo
+ip-protection-site-rules-delete-all-button =
+    .label = Odstrániť všetky pravidlá
+ip-protection-site-rules-empty = Tu sa zobrazia vami nastavené pravidlá.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN vždy zapnutá
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN vždy vypnutá
 ip-protection-site-rules-header =
     .heading = Spravovať pravidlá webových stránok
 ip-protection-site-rules-button =

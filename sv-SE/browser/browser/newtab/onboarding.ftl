@@ -403,7 +403,7 @@ tab-groups-onboarding-create-group-title-4 = Hitta dina flikgrupper i menyn "Sö
 tab-groups-onboarding-create-group-title-3 = Hitta dina flikgrupper i menyn Lista alla flikar när som helst.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Hitta dina grupper genom att söka efter dem i adressfältet.
 # The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = När du stänger en flikgrupp, öppna den när som helst från menyn "Sök och hantera flikar".
+tab-groups-onboarding-saved-groups-title-4 = När du stänger en flikgrupp, öppna den igen när som helst från menyn "Sök och hantera flikar".
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = När du stänger en flikgrupp, öppna den igen från menyn Lista alla flikar när som helst.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Hitta dina stängda grupper genom att söka efter dem i adressfältet.
