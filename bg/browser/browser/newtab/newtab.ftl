@@ -522,6 +522,11 @@ newtab-widget-timer-menu-learn-more = Научете повече
 newtab-promo-card-body = Нашите спонсори подкрепят мисията ни да изградим по-добра мрежа
 newtab-promo-card-cta = Научете повече
 
+##
+
+newtab-sports-widget-done-button =
+    .label = Готово
+
 ## Strings for the Clock widget
 
 # Curated World Clock city names. The value is the city name shown on the

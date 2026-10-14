@@ -129,6 +129,7 @@ policy-OfferToSaveLogins = Behartu { -brand-short-name }(e)k gordetako saio-hasi
 policy-OfferToSaveLoginsDefault = Ezarri balio lehenetsia { -brand-short-name }(e)k gordetako saio-hasierak eta pasahitzak gogoratzea eskaintzeko. Ezarrita eta ezarri gabeko balioak onartzen dira.
 policy-OverrideFirstRunPage = Gainidatzi lehen abioko orria. Utzi zurian politika hau lehen abioko orria desgaitu nahi baduzu.
 policy-OverridePostUpdatePage = Gainidatzi eguneraketen ondoko "Nobedadeak" orria. Utzi politika hau zurian eguneraketen ondoko orria desgaitu nahi baduzu.
+policy-PasswordManagerEnabled2 = Gaitu edo desgaitu pasahitz-kudeatzailean pasahitzak gordetzea. Desgaituta badago, pasahitzen orria (about:logins) blokeatu egingo da ere bai.
 policy-PasswordManagerEnabled = Gaitu pasahitzak pasahitz-kudeatzailean gordetzea.
 policy-PasswordManagerExceptions = Eragotzi { -brand-short-name }(r)i gune jakinetako pasahitzak gordetzea.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -147,6 +148,7 @@ policy-RelaunchRequired = Behartu { -brand-short-name } berrabiaraztea denbora-t
 policy-RequestedLocales = Ezarri aplikazioari eskatuko zaizkion hizkuntza-kodeen zerrenda, hobetsitakoen arabera ordenatuta.
 policy-SanitizeOnShutdown2 = Ixtean, garbitu nabigazio-datuak.
 policy-SearchBar = Ezarri bilaketa-barraren kokaleku lehenetsia. Erabiltzaileek oraindik ere pertsonalizatu ahal izango dute.
+policy-SearchEngines2 = Konfiguratu bilaketa-motorren ezarpenak.
 policy-SearchEngines = Konfiguratu bilaketa-motorren ezarpenak. Politika hau Extended Support Release (ESR) bertsiorako dago erabilgarri soilik.
 policy-SearchSuggestEnabled = Gaitu edo desgaitu bilaketa-iradokizunak.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

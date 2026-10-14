@@ -15,3 +15,8 @@ containers-window-new3 =
 
 containers-site-container-label =
     .label = Контейнер
+
+## Container creation panel, anchored to the URL bar.
+
+containers-panel-create-button =
+    .label = Готово
