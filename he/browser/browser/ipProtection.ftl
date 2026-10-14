@@ -284,6 +284,28 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = הגדרת כללים לאתרים שצריכים פרטיות נוספת, או שצריכים שה־VPN יהיה כבוי.
     .label = ניהול כללים של VPN
+ip-protection-site-rules-list-section =
+    .description = בחירה באופן שבו ה־VPN פועל עבור אתרים שצריכים פרטיות נוספת או שצריכים שה־VPN יהיה כבוי.
+    .label = כללי אתרים
+ip-protection-site-rules-add-button =
+    .label = הגדרת כלל
+ip-protection-site-rules-delete-all-button =
+    .label = מחיקת כל הכללים
+ip-protection-site-rules-empty = כללים שיוגדרו יופיעו כאן.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = ‏VPN תמיד פעיל
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = ‏VPN תמיד כבוי
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = עריכת הכלל עבור { $website }
+    .title = עריכה
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = מחיקת הכלל עבור { $website }
+    .title = מחיקה
 ip-protection-site-rules-header =
     .heading = ניהול כללים לאתרים
 ip-protection-site-rules-button =
@@ -307,6 +329,33 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = ניהול הגדרות אתרים
 ip-protection-exclusions-desc = יש להשתמש ב־VPN עבור כל האתרים מלבד אלה שברשימה זו. ניתן להוסיף אתרים כאן או על־ידי פתיחת VPN.
+ip-protection-site-rule-window =
+    .title = הגדרת כלל
+ip-protection-edit-site-rule-window =
+    .title = עריכת כלל
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = הגדרה
+    .buttonaccesskeyaccept = ש
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = שמירה
+    .buttonaccesskeyaccept = ש
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = יש להכניס אתר, ולאחר מכן לבחור במצב ה־VPN שלו.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = אתר
+    .placeholder = לדוגמה: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = מצב VPN
+ip-protection-site-rule-status-on =
+    .label = תמיד מופעל
+ip-protection-site-rule-status-off =
+    .label = תמיד כבוי
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = נא למלא כתובת אתר תקנית.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = לאתר זה כבר יש כלל.
 
 ## IP Protection Bandwidth
 
