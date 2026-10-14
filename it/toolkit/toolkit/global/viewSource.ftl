@@ -9,9 +9,13 @@ view-source-go-to-line-title = Vai alla riga
 view-source-go-to-line-text = Inserire il numero di riga
 view-source-invalid-input-title = Valore non valido
 view-source-invalid-input-text = Il numero di riga inserito non è valido.
+view-source-out-of-range-title = Riga non trovata
+view-source-out-of-range-text = La riga specificata non è stata trovata.
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = Sorgente DOM della selezione
 
 ## Context menu items, only visible when viewing the source of a page
 
