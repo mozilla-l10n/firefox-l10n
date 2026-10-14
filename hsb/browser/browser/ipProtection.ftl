@@ -287,10 +287,14 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Nastajće prawidła za websydła, kotrež přidatnu priwatnosć abo znjemóžnjeny VPN trjebaja.
     .label = Prawidła VPN rjadować
+ip-protection-site-rules-list-section =
+    .description = Wubjerće, kak VPN za sydła funguje, kotrež přidatnu priwatnosć trjebaja abo znjemóžńće VPN.
+    .label = Prawidła websydłow
 ip-protection-site-rules-add-button =
     .label = Prawidło postajić
 ip-protection-site-rules-delete-all-button =
     .label = Wšě prawidła zhašeć
+ip-protection-site-rules-empty = Prawidła, kotrež sće postajił, so tu zjewja.
 # Shown on a website whose rule turns the VPN on for it
 ip-protection-site-rules-rule-included = VPN přeco zmóžnjeny
 # Shown on a website whose rule turns the VPN off for it
