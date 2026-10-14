@@ -132,21 +132,21 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
-webrtc-allow-share-audio-capture = Chceće { $origin } dowolić, na awdio tutoho rajtarka poskać?
+webrtc-allow-share-audio-capture = Chceće { $origin } dowolić, na awdijo tutoho rajtarka poskać?
 webrtc-allow-share-camera = { $origin } dowolić, wašu kameru wužiwać?
 webrtc-allow-share-microphone = { $origin } dowolić, waš mikrofon wužiwać?
 webrtc-allow-share-screen = { $origin } dowolić, sej wašu wobazowku wobhladać?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker = { $origin } dowolić, druhe awdiowudawanske nastroje wužiwać?
+webrtc-allow-share-speaker = { $origin } dowolić, druhe awdijowudawanske nastroje wužiwać?
 webrtc-allow-share-camera-and-microphone = { $origin } dowolić, wašu kameru a waš mikrofon wužiwać?
-webrtc-allow-share-camera-and-audio-capture = Chceće { $origin } dowolić, swoju kameru wužiwać a na awdio tutoho rajtarka poskać?
+webrtc-allow-share-camera-and-audio-capture = Chceće { $origin } dowolić, swoju kameru wužiwać a na awdijo tutoho rajtarka poskać?
 webrtc-allow-share-screen-and-microphone = Chceće { $origin } dowolić, swój mikrofon wužiwać a swoju wobrazowku widźeć?
-webrtc-allow-share-screen-and-audio-capture = Chceće { $origin } dowolić, na awdio tutoho rajtarka poskać a swoju wobrazowku widźeć?
+webrtc-allow-share-screen-and-audio-capture = Chceće { $origin } dowolić, na awdijo tutoho rajtarka poskać a swoju wobrazowku widźeć?
 
 ## Special phrasing for sharing devices when the origin is a file url.
 
-webrtc-allow-share-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, na awdio tutoho rajtarka poskać?
+webrtc-allow-share-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, na awdijo tutoho rajtarka poskać?
 webrtc-allow-share-camera-with-file = Chceće tutej lokalnej dataji dowolić, wašu kameru wužiwać?
 webrtc-allow-share-microphone-with-file = Chceće tutej lokalnej dataji dowolić, waš mikrofon wužiwać?
 webrtc-allow-share-screen-with-file = Chceće tutej lokalnej dataji dowolić, wašu wobrazowku widźeć?
@@ -154,7 +154,7 @@ webrtc-allow-share-screen-with-file = Chceće tutej lokalnej dataji dowolić, wa
 # another audio output connection.
 webrtc-allow-share-speaker-with-file = Chceće tutej lokalnej dataji dowolić, druhe wótřerěčaki wužiwać?
 webrtc-allow-share-camera-and-microphone-with-file = Chceće tutej lokalnej dataji dowolić, wašu kameru a waš mikrofon wužiwać?
-webrtc-allow-share-camera-and-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, swoju kameru wužiwać a na awdio tutoho rajtarka poskać?
+webrtc-allow-share-camera-and-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, swoju kameru wužiwać a na awdijo tutoho rajtarka poskać?
 webrtc-allow-share-screen-and-microphone-with-file = Chceće tutej lokalnej dataji dowolić, swój mikrofon wužiwać a swoju wobrazowku widźeć?
 webrtc-allow-share-screen-and-audio-capture-with-file = Chceće tutej lokalnej dataji dowolić, na awdio tutoho rajtarka poskać a swoju wobrazowku widźeć?
 
