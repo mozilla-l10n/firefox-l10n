@@ -517,3 +517,9 @@ refresh-unused-profile-infobar-message = Sembra che { -brand-short-name } non ve
 refresh-reinstalled-profile-infobar-message = Sembra che { -brand-short-name } sia stato reinstallato. Procedere con un’operazione di pulizia per garantire una migliore esperienza?
 refresh-profile-infobar-button = Ripristina { -brand-short-name }…
     .accesskey = R
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Vuoi riaprire le schede aperte in precedenza?</strong> È possibile ripristinare la sessione precedente dal menu <img data-l10n-name="icon"/> di { -brand-short-name }, nella sezione Cronologia.
+restore-session-startup-suggestion-button = Mostra come fare
