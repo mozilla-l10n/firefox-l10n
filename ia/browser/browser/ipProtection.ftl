@@ -340,14 +340,34 @@ ip-protection-site-rule-dialog =
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Salvar
     .buttonaccesskeyaccept = S
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Sito web
+    .placeholder = ex: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Stato de VPN
 ip-protection-site-rule-status-on =
     .label = Sempre active
 ip-protection-site-rule-status-off =
     .label = Sempre disactivate
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Insere un valide adresse del sito web.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Iste sito ha jam un regula.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Error al creation del regula. Retenta.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Deler regula pro { $website }?
 ip-protection-delete-site-rule-cancel =
     .label = Cancellar
 ip-protection-delete-site-rule-confirm =
     .label = Deler
+ip-protection-delete-all-site-rules-message = Deler tote le regulas del sito web?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Deler tote le regulas
 
 ## IP Protection Bandwidth
 

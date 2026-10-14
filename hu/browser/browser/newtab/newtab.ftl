@@ -564,6 +564,11 @@ newtab-recent-searches-empty-trending = A népszerű keresések jelenleg nem ér
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoszkópok
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Horoszkóp menü megnyitása
+    .title = Horoszkóp menü megnyitása
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Horoszkópbeállítások

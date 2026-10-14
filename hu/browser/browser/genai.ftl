@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = A HuggingChat választásával elfogadja
 genai-settings-chat-lechat-links-2 = A Mistral Vibe választásával elfogadja a Mistral AI <a data-l10n-name="link1">felhasználási feltételeit</a> és <a data-l10n-name="link2">adatvédelmi irányelveit</a>.
 genai-settings-chat-lechat-links = A Le Chat Mistral választásával elfogadja a Mistral AI <a data-l10n-name="link1">Felhasználási feltételeit</a> és az <a data-l10n-name="link2">Adatvédelmi irányelveket</a>.
 genai-settings-chat-localhost-links = Hozza el a saját privát helyi csevegőbotját, például a <a data-l10n-name="link1">llamafile</a>-t, a { -vendor-short-name } innovációs csoportjától.
+genai-settings-chat-scout-links = A Yahoo Scout választásával elfogadja az Yahoo <a data-l10n-name="link1">Szolgáltatási feltételeit</a> és az <a data-l10n-name="link2">Adatvédelmi irányelveket</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -180,6 +181,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Használjon egy MI csevegőbotot lapváltás nélkül

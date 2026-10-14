@@ -280,6 +280,27 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webhely
         }
     .label = Webhely beállításainak kezelése
+ip-protection-site-rules-header-1 =
+    .heading = VPN-szabályok kezelése
+ip-protection-site-rules-add-button =
+    .label = Szabály beállítása
+ip-protection-site-rules-delete-all-button =
+    .label = Összes szabály törlése
+ip-protection-site-rules-empty = A beállított szabályok itt fognak megjelenni.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = A VPN mindig bekapcsolva
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = A VPN mindig kikapcsolva
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = { $website } szabályának szerkesztése
+    .title = Szerkesztés
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = { $website } szabályának törlése
+    .title = Törlés
 ip-protection-site-rules-header =
     .heading = Webhely szabályainak kezelése
 ip-protection-site-rules-button =
@@ -303,6 +324,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Webhely beállításainak kezelése
 ip-protection-exclusions-desc = VPN használata az összes webhelyhez, kivéve az ezen a listán szereplőket. Adjon hozzá egy weboldalt itt, vagy a VPN megnyitásával.
+ip-protection-site-rule-window =
+    .title = Szabály beállítása
+ip-protection-edit-site-rule-window =
+    .title = Szabály szerkesztése
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Beállítás
+    .buttonaccesskeyaccept = B
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Mentés
+    .buttonaccesskeyaccept = M
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Adjon meg egy webhelyet, majd válassza ki a VPN-állapotát.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Webhely
+    .placeholder = például: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN állapota
+ip-protection-site-rule-status-on =
+    .label = Mindig bekapcsolva
+ip-protection-site-rule-status-off =
+    .label = Mindig kikapcsolva
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Adjon meg egy érvényes webhelycímet.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Ennek a webhelynek már van szabálya.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Hiba a szabály létrehozásakor. Próbálja meg újra.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = { $website } szabályának törlése?
+ip-protection-delete-site-rule-cancel =
+    .label = Mégse
+ip-protection-delete-site-rule-confirm =
+    .label = Törlés
+ip-protection-delete-all-site-rules-message = Törli az összes webhelyszabályt?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Összes szabály törlése
 
 ## IP Protection Bandwidth
 

@@ -397,12 +397,18 @@ onboarding-checklist-remove-2 = Ellenőrzőlista eltávolítása
 
 tab-groups-onboarding-feature-callout-title = Próbálja ki a lapcsoportokat a kisebb zsúfoltság és a nagyobb fókusz érdekében
 tab-groups-onboarding-feature-callout-subtitle = Rendszerezzen a lapok egymásra húzásával, hozzon létre így csoportokat.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Bármikor megtalálja a lapcsoportját a „Lapok keresése és kezelése” menüben.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Bármikor megtalálja a lapcsoportját az Összes lap felsorolása menüben.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Találja meg a csoportjait a címsorban keresve.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Ha bezár egy lapcsoportot, akkor bármikor újranyithatja a „Lapok keresése és kezelése” menüből.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Ha bezár egy lapcsoportot, akkor bármikor újranyithatja az Összes lap felsorolása menüből.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Találja meg a bezárt csoportjait a címsorban keresve.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Bármikor nyissa újra a lapcsoportjait a „Lapok keresése és kezelése” menüből.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Nyissa meg újra a lapcsoportokat az Összes lap felsorolása menüből.
 tab-groups-onboarding-dismiss = OK

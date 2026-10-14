@@ -397,12 +397,18 @@ onboarding-checklist-remove-2 = Remover lista de controlo
 
 tab-groups-onboarding-feature-callout-title = Prova le gruppos de schedas pro minus disordine, plus concentration
 tab-groups-onboarding-feature-callout-subtitle = Organisa te trahente un scheda al summitate de un altere pro crear tu prime gruppo.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Trova tu gruppos de schedas in le menu “Cercar e gerer schedas” quandocunque.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Trova quandocunque tu gruppos de schedas in le menu Listar tote le schedas.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pro trovar tu gruppos, cerca los in le barra de adresse.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Al clausura de un gruppo de schedas, reaperir lo ab le menu “Cercar e gerer schedas” quandocunque.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Si tu claudeva un gruppo de schedas, reaperi lo quandocunque per le menu Listar tote le schedas.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pro trovar tu gruppos claudite, cerca los in le barra de adresse.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Reaperi tu gruppos de schedas ab le menu “Cercar e gerer schedas” quandocunque.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Reaperi tu gruppos de schedas quandocunque per le menu Listar tote le schedas.
 tab-groups-onboarding-dismiss = OK
