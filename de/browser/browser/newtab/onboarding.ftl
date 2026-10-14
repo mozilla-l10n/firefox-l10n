@@ -398,12 +398,18 @@ onboarding-checklist-remove-2 = Checkliste entfernen
 
 tab-groups-onboarding-feature-callout-title = Probiere Tab-Gruppen für weniger Unordnung und mehr Fokus
 tab-groups-onboarding-feature-callout-subtitle = Schaffen Sie Ordnung, indem Sie einen Tab über den anderen ziehen, um Ihre erste Gruppe zu erstellen.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Ihre Tab-Gruppen finden Sie jederzeit im Menü "Tabs suchen und verwalten".
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Ihre Tab-Gruppen finden Sie jederzeit im Menü "Alle Tabs auflisten".
 tab-groups-onboarding-create-group-no-alltabs-button-title = Finden Sie Ihre Gruppen, indem Sie in der Adressleiste danach suchen.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Geschlossene Tab-Gruppen können Sie jederzeit über das Menü "Tabs suchen und verwalten" wieder öffnen.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Wenn Sie eine Tab-Gruppe schließen, können Sie sie jederzeit aus dem Menü "Alle Tabs auflisten" wieder öffnen.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finden Sie Ihre geschlossenen Gruppen, indem Sie in der Adressleiste danach suchen.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Sie können Ihre Tab-Gruppen jederzeit über das Menü "Tabs suchen und verwalten" wieder öffnen.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Öffnen Sie Ihre Tab-Gruppen jederzeit aus dem Menü "Alle Tabs auflisten" wieder.
 tab-groups-onboarding-dismiss = OK

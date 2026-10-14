@@ -140,6 +140,7 @@ policy-RelaunchRequired = Nowy start { -brand-short-name } za podatu dobu požad
 policy-RequestedLocales = Podajće lisćinu požadanych rěčow za nałoženje w preferowanym porjedźe.
 policy-SanitizeOnShutdown2 = Nawigaciske daty při kónčenju zhašeć.
 policy-SearchBar = Standardne městno pytanskeho pola nastajić. Wužiwar móže jo hišće přiměrić.
+policy-SearchEngines2 = Nastajenja pytawow konfigurować
 policy-SearchEngines = Nastajenja pytawow konfigurować. Tute prawidło je jenož za wersiju Extended Support Release (ESR) k dispoziciji.
 policy-SearchSuggestEnabled = Pytanske namjety zmóžnić abo znjemóžnić.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

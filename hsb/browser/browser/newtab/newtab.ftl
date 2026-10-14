@@ -582,6 +582,11 @@ newtab-recent-searches-empty-trending = Popularne pytanja tuchwilu k dispoziciji
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskopy
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Meni horoskopow wočinić
+    .title = Meni horoskopow wočinić
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Nastajenja horoskopow

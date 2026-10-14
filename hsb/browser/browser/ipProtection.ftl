@@ -349,6 +349,25 @@ ip-protection-site-rule-status-field =
     .label = Status VPN
 ip-protection-site-rule-status-on =
     .label = Přeco zmóžnjeny
+ip-protection-site-rule-status-off =
+    .label = Přeco znjemóžnjeny
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Zapodajće płaćiwu adresu websydła.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Tute sydło ma hižo prawidło.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Zmylk při wutworjenju prawidła. Prošu spytajće hišće raz.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Prawidło za { $website } zhašeć?
+ip-protection-delete-site-rule-cancel =
+    .label = Přetorhnyć
+ip-protection-delete-site-rule-confirm =
+    .label = Zhašeć
+ip-protection-delete-all-site-rules-message = Wšě prawidła websydła zhašeć?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Wšě prawidła zhašeć
 
 ## IP Protection Bandwidth
 

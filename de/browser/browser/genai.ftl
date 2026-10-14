@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = Indem Sie HuggingChat wählen, stimmen S
 genai-settings-chat-lechat-links-2 = Indem Sie sich für Mistral Vibe entscheiden, stimmen Sie den <a data-l10n-name="link1">Nutzungsbedingungen</a> und der <a data-l10n-name="link2">Datenschutzerklärung</a> von Mistral KI zu.
 genai-settings-chat-lechat-links = Indem Sie Le Chat Mistral wählen, stimmen Sie den <a data-l10n-name="link1">Nutzungsbedingungen</a> und der <a data-l10n-name="link2">Datenschutzrichtlinie</a> von Mistral AI zu.
 genai-settings-chat-localhost-links = Bringen Sie Ihren eigenen privaten lokalen Chatbot wie <a data-l10n-name="link1">llamafile</a> aus der Innovationsgruppe von { -vendor-short-name } mit.
+genai-settings-chat-scout-links = Mit der Auswahl von Yahoo Scout stimmen Sie den <a data-l10n-name="link1">Nutzungsbedingungen</a> und der <a data-l10n-name="link2">Datenschutzrichtlinie</a> von Yahoo zu.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -180,6 +181,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Verwenden Sie einen KI-Chatbot, ohne Tabs zu wechseln
