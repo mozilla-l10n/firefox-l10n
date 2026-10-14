@@ -129,6 +129,7 @@ policy-OfferToSaveLogins = Nastaví pravidlo na uloženie prihlasovacích údajo
 policy-OfferToSaveLoginsDefault = Nastaví predvolenú hodnotu, či má { -brand-short-name } ponúkať ukladanie prihlasovacích údajov. Platné hodnoty sú true a false.
 policy-OverrideFirstRunPage = Nastaví vlastnú stránku pri prvom spustení. Ak nechcete pri prvom spustení zobrazovať žiadnu stránku, nastavte toto pravidlo ako prázdne.
 policy-OverridePostUpdatePage = Nastaví vlastnú stránku po aktualizácii aplikácie. Ak nechcete po aktualizácii zobrazovať žiadnu stránku, nastavte toto pravidlo ako prázdne.
+policy-PasswordManagerEnabled2 = Povolí alebo zakáže ukladanie hesiel v správcovi hesiel. Ak je zakázané, zablokuje sa aj stránka Heslá (about:logins).
 policy-PasswordManagerEnabled = Povolí ukladanie hesiel do správcu hesiel.
 policy-PasswordManagerExceptions = Zabráni { -brand-short-name(case: "gen") } ukladať heslá pre konkrétne stránky.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -147,6 +148,7 @@ policy-RelaunchRequired = Vyžaduje opätovné spustenie { -brand-short-name(cas
 policy-RequestedLocales = Nastaví zoznam požadovaných jazykov aplikácie, v poradí podľa nastavenej priority.
 policy-SanitizeOnShutdown2 = Vymaže údaje o prehliadaní v priebehu vypnutia.
 policy-SearchBar = Nastaví predvolené umiestnenie vyhľadávacieho poľa. Používateľ ho môže premiestniť.
+policy-SearchEngines2 = Upraví nastavenia vyhľadávačov.
 policy-SearchEngines = Nakonfiguruje nastavenie vyhľadávačov. Toto pravidlo je dostupné len vo verzii s rozšírenou podporou (ESR).
 policy-SearchSuggestEnabled = Povolí alebo zakáže návrhy vyhľadávania.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
