@@ -280,6 +280,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } nettstadar
         }
     .label = Handsam nettstadsinnstillingar
+ip-protection-site-rules-header-1 =
+    .heading = Handsam VPN-reglar
+ip-protection-site-rules-button-1 =
+    .description = Angi reglar for nettstadar som treng ekstra personvern eller VPN slått av.
+    .label = Handsam VPN-reglar
 ip-protection-site-rules-header =
     .heading = Handsam nettstadreglar
 ip-protection-site-rules-button =
@@ -303,6 +308,22 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Handsam nettstadsinnstillingar
 ip-protection-exclusions-desc = Bruk VPN for alle nettstadar unnateke dei på denne lista. Legg til ein nettstad her eller ved å opne VPN.
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Lagre
+    .buttonaccesskeyaccept = L
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN-status
+ip-protection-site-rule-status-on =
+    .label = Alltid på
+ip-protection-site-rule-status-off =
+    .label = Alltid av
+ip-protection-delete-site-rule-cancel =
+    .label = Avbryt
+ip-protection-delete-site-rule-confirm =
+    .label = Slett
+ip-protection-delete-all-site-rules-confirm =
+    .label = Slett alle reglar
 
 ## IP Protection Bandwidth
 
