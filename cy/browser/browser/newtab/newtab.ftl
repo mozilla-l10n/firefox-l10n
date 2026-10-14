@@ -600,6 +600,11 @@ newtab-recent-searches-empty-trending = Nid yw'r chwilio trendio ar gael ar hyn 
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horosgopau
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Agor dewislen horosgopau
+    .title = Agor dewislen horosgopau
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Dewisiadau horosgopau

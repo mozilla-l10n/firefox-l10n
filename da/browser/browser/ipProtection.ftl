@@ -252,6 +252,10 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Håndter indstillinger for websteder
 ip-protection-exclusions-desc = Brug VPN på alle websteder, undtagen dem på denne liste. Tilføj et websted her eller ved at åbne VPN.
+ip-protection-delete-site-rule-cancel =
+    .label = Annuller
+ip-protection-delete-site-rule-confirm =
+    .label = Slet
 
 ## IP Protection Bandwidth
 

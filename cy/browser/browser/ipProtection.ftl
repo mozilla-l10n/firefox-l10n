@@ -296,6 +296,21 @@ ip-protection-site-rules-add-button =
     .label = Gosod rheol
 ip-protection-site-rules-delete-all-button =
     .label = Dileu pob rheol
+ip-protection-site-rules-empty = Bydd y rheolau rydych yn eu gosod yn ymddangos yma.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN ymlaen drwy'r amser
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN i ffwrdd drwy'r amser
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Golygu'r rheol ar gyfer { $website }
+    .title = Golygu
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Dileu'r rheol ar gyfer { $website }
+    .title = Dileu
 ip-protection-site-rules-header =
     .heading = Rheoli rheolau gwefan
 ip-protection-site-rules-button =
@@ -319,6 +334,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Rheoli gosodiadau gwefan
 ip-protection-exclusions-desc = Defnyddiwch y VPN ar gyfer pob gwefan ac eithrio'r rhai ar y rhestr hon. Ychwanegwch wefan yma neu trwy agor y VPN.
+ip-protection-site-rule-window =
+    .title = Gosod rheol
+ip-protection-edit-site-rule-window =
+    .title = Gosod rheol
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Gosod
+    .buttonaccesskeyaccept = G
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Cadw
+    .buttonaccesskeyaccept = C
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Ewch i wefan, yna dewis ei statws VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Gwefan
+    .placeholder = e.e.: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Statws VPN
+ip-protection-site-rule-status-on =
+    .label = Ymlaen drwy'r amser
+ip-protection-site-rule-status-off =
+    .label = I ffwrdd drwy'r amser
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Rhowch gyfeiriad gwefan dilys.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Mae gan y wefan hon reol yn barod.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Gwall wrth greu rheol. Ceisiwch eto.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Dileu'r rheol ar gyfer { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Diddymu
+ip-protection-delete-site-rule-confirm =
+    .label = Dileu
+ip-protection-delete-all-site-rules-message = Dileu holl reolau'r wefan?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Dileu pob rheol
 
 ## IP Protection Bandwidth
 
