@@ -345,21 +345,21 @@ ip-protection-site-rule-intro = Saisissez un site, puis sélectionnez son statut
 # "ex:" is short for "example".
 ip-protection-site-rule-website-field =
     .label = Site web
-    .placeholder = ex : acme.com
+    .placeholder = par ex : acme.com
 # VPN status refers to a state of 'always on' or 'always off' applied to a site
 ip-protection-site-rule-status-field =
     .label = État du VPN
 ip-protection-site-rule-status-on =
     .label = Toujours l’activer
 ip-protection-site-rule-status-off =
-    .label = Toujours désactiver
+    .label = Toujours le désactiver
 # Shown below the website field when what was typed is not a website address.
 ip-protection-site-rule-invalid-error = Veuillez saisir une adresse de site web valide.
 # Shown below the website field when the typed website already has a rule.
-ip-protection-site-rule-duplicate-error = Ce site a déjà une règle.
+ip-protection-site-rule-duplicate-error = Une règle existe déjà pour ce site.
 # Shown at the top of the dialog when the rule could not be saved.
 ip-protection-site-rule-save-error =
-    .message = Erreur à la création de la règle. Veuillez réessayer.
+    .message = Impossible de créer la règle. Veuillez réessayer.
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-delete-site-rule-message = Supprimer la règle pour { $website } ?
@@ -367,7 +367,7 @@ ip-protection-delete-site-rule-cancel =
     .label = Annuler
 ip-protection-delete-site-rule-confirm =
     .label = Supprimer
-ip-protection-delete-all-site-rules-message = Supprimer toutes les règles de site web ?
+ip-protection-delete-all-site-rules-message = Supprimer toutes les règles des sites web ?
 ip-protection-delete-all-site-rules-confirm =
     .label = Supprimer toutes les règles
 
