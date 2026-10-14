@@ -397,12 +397,18 @@ onboarding-checklist-remove-2 = Odstrániť kontrolný zoznam
 
 tab-groups-onboarding-feature-callout-title = Vyskúšajte skupiny kariet a získate menej neporiadku a viac pozornosti
 tab-groups-onboarding-feature-callout-subtitle = Urobte si poriadok presunutím jednej karty na druhú, čím vytvoríte svoju prvú skupinu.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = K skupinám kariet sa môžete kedykoľvek vrátiť cez ponuku “Vyhľadať a spravovať karty”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Skupiny kariet môžete kedykoľvek nájsť v ponuke Zoznam všetkých kariet.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Svoje skupiny nájdete tak, že ich vyhľadáte v paneli s adresou.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Zatvorenú skupinu kariet môžete kedykoľvek znova otvoriť z ponuky “Vyhľadať a spravovať karty”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Keď zatvoríte skupinu kariet, môžete ju kedykoľvek znova otvoriť z ponuky Zoznam všetkých kariet.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Svoje zatvorené skupiny nájdete tak, že ich vyhľadáte v paneli s adresou.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Skupiny kariet môžete kedykoľvek znova otvoriť cez ponuku “Vyhľadať a spravovať karty”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Skupiny kariet môžete kedykoľvek znova otvoriť z ponuky Zoznam všetkých kariet.
 tab-groups-onboarding-dismiss = OK

@@ -299,6 +299,16 @@ ip-protection-site-rules-empty = Tu sa zobrazia vami nastavené pravidlá.
 ip-protection-site-rules-rule-included = VPN vždy zapnutá
 # Shown on a website whose rule turns the VPN off for it
 ip-protection-site-rules-rule-excluded = VPN vždy vypnutá
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Upraviť pravidlo pre { $website }
+    .title = Upraviť
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Odstrániť pravidlo pre { $website }
+    .title = Odstrániť
 ip-protection-site-rules-header =
     .heading = Spravovať pravidlá webových stránok
 ip-protection-site-rules-button =
@@ -322,6 +332,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Spravovať nastavenia webových stránok
 ip-protection-exclusions-desc = Použite VPN pre všetky webové stránky okrem tých v tomto zozname. Pridajte webovú stránku tu alebo otvorením VPN.
+ip-protection-site-rule-window =
+    .title = Nastavenie pravidla
+ip-protection-edit-site-rule-window =
+    .title = Úprava pravidla
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Nastaviť
+    .buttonaccesskeyaccept = N
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Uložiť
+    .buttonaccesskeyaccept = U
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Zadajte stránku a potom vyberte, či má byť pre ňu VPN vždy zapnutá alebo vypnutá.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Webová stránka
+    .placeholder = napr.: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Stav VPN
+ip-protection-site-rule-status-on =
+    .label = Vždy zapnutá
+ip-protection-site-rule-status-off =
+    .label = Vždy vypnutá
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Zadajte platnú adresu webovej stránky.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Pre túto stránku už existuje pravidlo.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Pravidlo sa nepodarilo vytvoriť. Skúste to znova.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Odstrániť pravidlo pre { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Zrušiť
+ip-protection-delete-site-rule-confirm =
+    .label = Odstrániť
+ip-protection-delete-all-site-rules-message = Odstrániť všetky pravidlá pre webové stránky?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Odstrániť všetky pravidlá
 
 ## IP Protection Bandwidth
 
