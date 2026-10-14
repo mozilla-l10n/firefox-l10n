@@ -6,13 +6,20 @@
 ## Error messages in the chat content
 
 smartwindow-assistant-error-generic-header = Prišlo je do napake. Poskusite znova pozneje.
+smartwindow-assistant-error-budget-header = Za danes ste dosegli omejitev klepeta.
+smartwindow-assistant-error-account-header = Za uporabo { -smart-window-brand-name(sklon: "rodilnik") } se morate prijaviti.
 smartwindow-retry-btn = Poskusite znova
+smartwindow-clear-btn = Nov klepet
+smartwindow-signin-btn = Prijava
 
 ## Assistant Message footer
 
 aiwindow-memories-learn-more = Več o tem
 aiwindow-manage-memories =
     .label = Nastavitve spomina
+aiwindow-copy-message =
+    .aria-label = Kopiraj sporočilo
+    .tooltiptext = Kopiraj
 aiwindow-applied-memories-list =
     .aria-label = Spomini
 # Variables:
@@ -22,6 +29,9 @@ aiwindow-delete-memory-button =
 
 ## Natural Language Action
 
+smartwindow-nl-thinking = Iskanje ustreznih zavihkov…
+smartwindow-loading-assistant-response =
+    .aria-label = Odgovor pomočnika se nalaga
 smartwindow-nl-undo-button =
     .label = Razveljavi
 
@@ -30,4 +40,9 @@ smartwindow-nl-undo-button =
 
 # Button label - "Group" is a verb (action to group tabs)
 smart-window-confirm-group-tab = Skupina
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tab = Odpri
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Skupina zavihkov
 smart-window-grouped-tabs-row-label = Združeni zavihki

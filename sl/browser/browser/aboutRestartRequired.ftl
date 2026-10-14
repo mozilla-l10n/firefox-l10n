@@ -12,6 +12,7 @@ restart-required-more-details-heading = Več podrobnosti
 restart-required-multiple-instances-question = Zakaj se to lahko zgodi pri uporabi več profilov ali več primerkov { -brand-short-name(sklon: "rodilnik") }?
 restart-required-multiple-instances-answer = Če se en profil ali primerek posodobi, medtem ko je odprt tudi drug, lahko slednji ostane na starejši različici. S ponovnim zagonom zagotovite, da vsi uporabljajo isto različico.
 restart-required-single-instance-question = Ne uporabljam več različnih profilov ali primerkov. Zakaj prihaja do tega?
+restart-required-single-instance-answer = { -brand-short-name } bo morda potreboval ponovni zagon, če se zgodi posodobitev v ozadju, medtem ko je odprt.
 restart-button-label2 = Ponovno zaženi
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Več

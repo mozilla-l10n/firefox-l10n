@@ -76,12 +76,29 @@ about-private-browsing-felt-privacy-v1-info-link = Kdo bi lahko videl mojo dejav
 about-private-browsing-nova-info-body = Ob zaprtju vseh zasebnih oken se izbrišejo piškotki, zgodovina in podatki strani.
 about-private-browsing-nova-info-link = Kdo bi lahko kljub temu videl mojo dejavnost?
 about-private-browsing-private-window-basics-link = Osnove zasebnih oken
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } je zasnovan tako, da med brskanjem ščiti vašo zasebnost z vgrajenimi zaščitami pred sledenjem. Ko zaprete to okno, se zgodovina, piškotki in podatki strani izbrišejo, s čimer vaše brskanje ostane skrito pred drugimi uporabniki te naprave.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Zgodovina brskanja se ne bo shranila
-about-private-browsing-nova-info-subheader2 = Ko zaprete vsa zasebna okna, bomo izbrisali vsa iskanja in prijave. Vgrajene zaščite { -brand-short-name }a so aktivne tudi tukaj, na primer zavračanje sledilcev.
+about-private-browsing-nova-info-subheader2 = Ko boste zaprli vsa zasebna okna, bomo izbrisali vsa iskanja in prijave. Vgrajene zaščite { -brand-short-name(sklon: "rodilnik") }, na primer blokiranje sledilcev, so aktivne tudi tukaj.
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Osnove zasebnih oken
+about-private-browsing-spotlight-basics-subtitle = Zasebna okna omogočajo, da skrijete svoje brskanje pred drugimi uporabniki iste naprave. Ne zagotavljajo pa anonimnosti in ne izbrišejo popolnoma vseh vaših podatkov.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Dobro je vedeti
+about-private-browsing-spotlight-basics-activity-seen = Spletna mesta, iskalniki, ponudniki internetnih storitev ali vaš delodajalec lahko vseeno vidijo del vaše dejavnosti.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Ustvarjeni zaznamki in prenesene datoteke ostanejo na vaši napravi in se lahko prikažejo v naslovni vrstici.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Več orodij za zaščito zasebnosti
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vas samodejno opozarja na zlonamerno programsko opremo in zavajajoča spletna mesta.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } samodejno poziva sodelujoča spletna mesta, naj vaših osebnih podatkov ne prodajajo ali delijo.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = V nastavitvah izberite Strogo za robustnejšo zaščito pred sledenjem.
 about-private-browsing-spotlight-basics-learn-more = Več o tem

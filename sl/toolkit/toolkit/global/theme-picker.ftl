@@ -10,6 +10,9 @@ theme-picker-mode-device = Naprava
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = Videz
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = Teme
 theme-picker-use-linux-theme =
     .label = Uporabi temo sistema Linux
 
