@@ -444,6 +444,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Exibir este painel ao adicionar um favorito
     .accesskey = x
+bookmark-panel-save-button2 =
+    .label = Salvar
+    .accesskey = a
 bookmark-panel-save-button =
     .label = Salvar
 # Width of the bookmark panel.
