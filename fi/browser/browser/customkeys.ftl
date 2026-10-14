@@ -25,7 +25,7 @@ customkeys-view-bookmarks-toolbar = Kirjanmerkkien työkalupalkki päällä/pois
 customkeys-view-picture-in-picture = Kuva kuvassa
 customkeys-view-add-split-view = Lisää jaettu näkymä
 # Separate is a verb
-customkeys-view-separate-split-view = Erillinen jaettu näkymä
+customkeys-view-separate-split-view = Eriytä jaettu näkymä
 customkeys-dev-tools = Web-kehittäjätyökalut
 customkeys-dev-inspector = DOM- ja tyylitarkastaja
 customkeys-dev-webconsole = Web-konsoli

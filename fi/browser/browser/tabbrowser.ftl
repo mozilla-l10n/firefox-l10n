@@ -450,11 +450,11 @@ tab-context-open-in-split-view =
     .accesskey = t
 # Separate the two split view tabs and display the tabs and their contents as normal
 tab-context-separate-split-view =
-    .label = Erillinen jaettu näkymä
+    .label = Eriytä näkymä
     .accesskey = t
 # Reverse the order of the two tabs in the split view
 tab-context-reverse-split-view =
-    .label = Käänteiset välilehdet
+    .label = Vaihda järjestys
     .accesskey = ä
 tab-context-badge-new = Uusi
 # Split view tabs display their respective contents side by side
@@ -474,9 +474,9 @@ tabbrowser-tab-label-tab-split-view-right = { $label }, jaettu näkymä oikea
 
 # "Separate" is a verb, as in "separate the split view tabs and display them normally".
 split-view-menuitem-separate-tabs =
-    .label = Erilliset välilehdet
+    .label = Eriytä välilehdet
 # "Reverse" is a verb, as in "reverse the order of split view tabs".
 split-view-menuitem-reverse-tabs =
-    .label = Käänteiset välilehdet
+    .label = Vaihda järjestys
 split-view-menuitem-close-both-tabs =
     .label = Sulje molemmat välilehdet
