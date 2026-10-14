@@ -282,6 +282,29 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } websydłow
         }
     .label = Nastajenja websydłow rjadować
+ip-protection-site-rules-header-1 =
+    .heading = Prawidła VPN rjadować
+ip-protection-site-rules-button-1 =
+    .description = Nastajće prawidła za websydła, kotrež přidatnu priwatnosć abo znjemóžnjeny VPN trjebaja.
+    .label = Prawidła VPN rjadować
+ip-protection-site-rules-add-button =
+    .label = Prawidło postajić
+ip-protection-site-rules-delete-all-button =
+    .label = Wšě prawidła zhašeć
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN přeco zmóžnjeny
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN přeco znjemóžnjeny
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Prawidło za { $website } wobdźěłać
+    .title = Wobdźěłać
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Prawidło za { $website } zhašeć
+    .title = Zhašeć
 ip-protection-site-rules-header =
     .heading = Prawidła websydła rjadować
 ip-protection-site-rules-button =
@@ -305,6 +328,27 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Nastajenja websydłow rjadować
 ip-protection-exclusions-desc = Wužiwajće VPN za wšě websydła nimo za te, kotrež su w lisćinje. Přidajće websydło tu abo wočińće VPN.
+ip-protection-site-rule-window =
+    .title = Prawidło postajić
+ip-protection-edit-site-rule-window =
+    .title = Prawidło wobdźěłać
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Nastajić
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Składować
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Zapodajće sydła a wubjerće potom jeho status VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Websydło
+    .placeholder = př.: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Status VPN
+ip-protection-site-rule-status-on =
+    .label = Přeco zmóžnjeny
 
 ## IP Protection Bandwidth
 

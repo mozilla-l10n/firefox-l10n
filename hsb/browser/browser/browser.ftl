@@ -451,6 +451,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Editor při składowanju pokazać
     .accesskey = E
+bookmark-panel-save-button2 =
+    .label = Składować
+    .accesskey = S
 bookmark-panel-save-button =
     .label = Składować
 # Width of the bookmark panel.
