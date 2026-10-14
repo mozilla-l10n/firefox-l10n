@@ -2150,11 +2150,11 @@ preferences-ai-controls-speech-recognition-control =
     .description = Prepisujte reč na text lokálne.
     .label = Rozpoznávanie reči
 preferences-ai-controls-sidebar-chatbot-group-3 =
-    .description = Počas prehliadania majte na očiach chatbota. Vyberte si z viacerých poskytovateľov a kedykoľvek ich prepnite.
-    .label = Poskytovatelia chatbotov s umelou inteligenciou v bočnom paneli
+    .description = Majte chatbota s umelou inteligenciou vždy poruke aj počas prehliadania webu. Vyberte si z viacerých poskytovateľov a kedykoľvek medzi nimi prepínajte.
+    .label = Chatboti s umelou inteligenciou v bočnom paneli
 preferences-ai-controls-sidebar-chatbot-group =
-    .description = Počas prehliadania webu majte pri sebe chatbota. Vyberte si z možností Anthropic Claude, ChatGPT, Copilot, Google Gemini a Le Chat Mistral.
-    .label = Poskytovatelia chatbotov s umelou inteligenciou v bočnom paneli
+    .description = Majte chatbota s umelou inteligenciou vždy poruke aj počas prehliadania webu. Vyberte si z možností Anthropic Claude, ChatGPT, Copilot, Google Gemini a Le Chat Mistral.
+    .label = Chatboti s umelou inteligenciou v bočnom paneli
 preferences-ai-controls-sidebar-chatbot-control =
     .label = Chatbot v bočnom paneli
 # This option means that a user will see the feature and can use it.
