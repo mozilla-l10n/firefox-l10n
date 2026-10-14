@@ -404,7 +404,7 @@ tab-groups-onboarding-create-group-title-4 = Dewch o hyd i'ch grwpiau tabiau yn 
 tab-groups-onboarding-create-group-title-3 = Dewch o hyd i'ch grwpiau tabiau yn newislen Rhestr Pob Tab unrhyw bryd.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Dewch o hyd i'ch grwpiau trwy chwilio amdanyn nhw yn y bar cyfeiriad.
 # The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-saved-groups-title-4 = Pan fyddwch chi'n cau grŵp tabiau, gallwch ei ailagor o'r ddewislen "Chwilio a rheoli tabiau" unrhyw bryd.
+tab-groups-onboarding-saved-groups-title-4 = Pan fyddwch yn cau grŵp tabiau, gallwch ei ailagor o'r ddewislen "Chwilio a rheoli tabiau" unrhyw bryd.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Pan fyddwch yn cau grŵp tabiau, gallwch ei ailagor o'r ddewislen Rhestr Pob Tab unrhyw bryd.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Dewch o hyd i'ch grwpiau agored ar y bar tab neu drwy chwilio amdanyn nhw yn y bar cyfeiriad.

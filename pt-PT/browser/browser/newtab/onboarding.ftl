@@ -395,12 +395,18 @@ onboarding-checklist-remove-2 = Remover lista de verificação
 
 tab-groups-onboarding-feature-callout-title = Grupos de separadores: menos confusão, mais concentração
 tab-groups-onboarding-feature-callout-subtitle = Organize-se arrastando um separador sobre o outro para criar o seu primeiro grupo.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Encontre os seus grupos de separadores no menu “Pesquisar e gerir separadores” a qualquer momento.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Encontre os seus grupos de separadores no menu Listar todos os separadores, sempre que quiser.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Encontre os seus grupos ao procurar pelos mesmos na barra de endereço.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Quando fechar um grupo de separadores, reabra-o a partir do menu “Pesquisar e gerir separadores” a qualquer momento.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Quando fechar um grupo de separadores, reabra o mesmo a partir do menu Listar todos os separadores, sempre que quiser.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encontre os seus grupos fechados ao procurar pelos mesmos na barra de endereço.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Reabra os seus grupos de separadores a partir do menu “Pesquisar e gerir separadores” a qualquer momento.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Volte a abrir os seus grupos de separadores a partir do menu Listar Todos os Separadores, sempre que quiser.
 tab-groups-onboarding-dismiss = Ok

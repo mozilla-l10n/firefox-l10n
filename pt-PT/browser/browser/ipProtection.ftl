@@ -360,6 +360,16 @@ ip-protection-site-rule-duplicate-error = Este site já tem uma regra.
 # Shown at the top of the dialog when the rule could not be saved.
 ip-protection-site-rule-save-error =
     .message = Erro ao criar a regra. Por favor tente novamente.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Apagar a regra para { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Cancelar
+ip-protection-delete-site-rule-confirm =
+    .label = Apagar
+ip-protection-delete-all-site-rules-message = Apagar todas as regras de sites?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Apagar todas as regras
 
 ## IP Protection Bandwidth
 
