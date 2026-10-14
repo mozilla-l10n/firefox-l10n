@@ -2058,6 +2058,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Алтернативен те
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Предложения за групиране на раздели
 preferences-ai-controls-block-confirmation-key-points = Информация при визуализация на връзки
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Доставчици на чат-ботове в страничната лента
+preferences-ai-controls-block-confirmation-speech-recognition = Разпознаване на реч
 preferences-ai-controls-block-confirmation-features-after = Блокирането засяга и разширения, които използват AI, предоставен от { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Отказ
