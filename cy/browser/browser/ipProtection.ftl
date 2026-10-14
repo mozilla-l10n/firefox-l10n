@@ -284,6 +284,18 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } gwefan
         }
     .label = Rheoli gosodiadau gwefan
+ip-protection-site-rules-header-1 =
+    .heading = Rheoli rheolau VPN
+ip-protection-site-rules-button-1 =
+    .description = Gosodwch reolau ar gyfer gwefannau sydd angen preifatrwydd ychwanegol neu'r VPN i ffwrdd.
+    .label = Rheoli rheolau VPN
+ip-protection-site-rules-list-section =
+    .description = Dewiswch sut mae VPN yn gweithio ar gyfer gwefannau sydd angen preifatrwydd ychwanegol neu'r VPN i ffwrdd.
+    .label = Rheolau gwefan
+ip-protection-site-rules-add-button =
+    .label = Gosod rheol
+ip-protection-site-rules-delete-all-button =
+    .label = Dileu pob rheol
 ip-protection-site-rules-header =
     .heading = Rheoli rheolau gwefan
 ip-protection-site-rules-button =

@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = Trwy ddewis HuggingChat, rydych yn cytun
 genai-settings-chat-lechat-links-2 = Trwy ddewis Mistral Vibe, rydych chi'n cytuno i <a data-l10n-name="link1">Delerau Gwasanaeth</a> a <a data-l10n-name="link2">Polisi Preifatrwydd</a> Mistral AI.
 genai-settings-chat-lechat-links = Trwy ddewis Le Chat Mistral, rydych yn cytuno i <a data-l10n-name="link1">Delerau Gwasanaeth</a> a <a data-l10n-name="link2">Pholisi Preifatrwydd</a> Mistral AI .
 genai-settings-chat-localhost-links = Defnyddiwch eich sgwrsfot lleol preifat eich hun, megis <a data-l10n-name="link1">llamafile</a> { -vendor-short-name }, grŵp Innovation.
+genai-settings-chat-scout-links = Drwy ddewis ChatGPT, rydych yn cytuno i <a data-l10n-name="link1">Delerau Defnydd</a> a <a data-l10n-name="link2">Pholisi Preifatrwydd</a> OpenAI.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -188,6 +189,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Defnyddiwch sgwrsfot AI heb newid tabiau
