@@ -49,6 +49,7 @@ policy-DefaultDownloadDirectory = Nastajće standardny sćehnjenski zapis.
 policy-DefaultSerialGuardSetting = Wužiwanje serijoweho API kontrolować.
 policy-DisableAppUpdate = Wobhladowakej aktualizowanje zakazać.
 policy-DisableBuiltinPDFViewer = PDF.js znjemóžnić, zatwarjeny PDF-wobhladowak w { -brand-short-name }.
+policy-DisableDefaultBrowserAgent2 = Tomu zadźěwać, zo agent standardneho wobhladowaka akcije wuwjedźe.
 policy-DisableDefaultBrowserAgent = Haćće standardny agent wobhladowaka při wuwjedźenju akcijow. To je jenoz za Windows k dispoziciji; druhe platformy agent nimaja.
 policy-DisableDeveloperTools = Přistup k wuwiwarskim nastrojam blokować.
 policy-DisableEncryptedClientHello = Wužiwanje TLS-funkcije Encrfypted Client Hello (ECH) znjemóžnić.

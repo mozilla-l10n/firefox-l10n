@@ -22,7 +22,7 @@ webext-perms-header-optional-settings = Voliteľné nastavenia:
 webext-perms-header-update-required-perms = Nové požadované oprávnenia:
 webext-perms-header-optional-required-perms = Nové oprávnenia:
 webext-perms-header-data-collection-perms = Požadovaný zber údajov:
-webext-perms-header-data-collection-is-none = Zber údajov:
+webext-perms-header-data-collection-is-none = Zhromažďovanie údajov:
 # This is a header used in the add-ons "update" prompt, shown when the new
 # version requires new data collection permissions.
 webext-perms-header-update-data-collection-perms = Nový požadovaný zber údajov:

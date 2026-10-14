@@ -44,7 +44,7 @@ graph-legend-description = Graf s celkovým počtom všetkých typov sledovacíc
 social-tab-title = Sledovacie prvky sociálnych sietí
 social-tab-contant = Sociálne siete umiestňujú na webové stránky sledovacie prvky, ktoré sledujú, čo na internete robíte. Toto umožňuje spoločnostiam, ktoré tieto sociálne médiá vlastnia dozvedieť sa o vás viac ako to, čo zdieľate na svojich profiloch. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 cookie-tab-title = Sledovacie cookies tretích strán
-cookie-tab-content = Tieto cookies slúžia na vaše sledovanie naprieč webovými stránkami a zber údajov o tom, čo na internete robíte. Používajú ich tretie strany, ako sú reklamné systémy alebo analytické spoločnosti. Blokovanie sledovacích cookies tretích strán obmedzuje množstvo reklám, ktoré vás sledujú. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+cookie-tab-content = Tieto súbory cookie vás sledujú na jednotlivých stránkach a zhromažďujú údaje o tom, čo robíte online. Nastavujú ich tretie strany, ako sú inzerenti a analytické spoločnosti. Blokovanie súborov cookie na sledovanie naprieč stránkami znižuje počet reklám, ktoré vás sledujú. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 tracker-tab-title = Sledovací obsah
 tracker-tab-description = Webové stránky môžu načítať externé reklamy a ďalší obsah, ktorý obsahuje sledovací kód. Po zablokovaní sledovacieho obsahu sa stránky načítajú rýchlejšie, ale niektoré tlačidlá alebo formuláre nemusia správne fungovať. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 fingerprinter-tab-title = Snímanie digitálneho odtlačku
