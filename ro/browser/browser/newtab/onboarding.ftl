@@ -398,12 +398,18 @@ onboarding-checklist-remove-2 = Elimină lista de verificare
 
 tab-groups-onboarding-feature-callout-title = Încearcă grupurile de file pentru mai multă ordine și mai multă concentrare
 tab-groups-onboarding-feature-callout-subtitle = Organizează-te trăgând o filă peste alta ca să creezi primul grup.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Găsești oricând grupurile de file în meniul „Căutare și gestionare file”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Găsești oricând grupurile de file în meniul Listează toate filele.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Caută grupurile prin căutare în bara de adrese.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Când închizi un grup de file, îl poți redeschide oricând din meniul „Căutare și gestionare file”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Când închizi un grup de file, îl poți redeschide oricând din meniul Listează toate filele.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Găsești grupurile închise căutând-le în bara de adrese.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Redeschizi oricând grupurile de file din meniul „Căutare și gestionare file”.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Redeschide grupurile de file în orice moment din meniul Listează toate filele.
 tab-groups-onboarding-dismiss = OK

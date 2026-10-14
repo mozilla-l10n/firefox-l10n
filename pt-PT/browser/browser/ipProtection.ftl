@@ -280,6 +280,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } sites
         }
     .label = Gerir definições dos sites
+ip-protection-site-rules-header-1 =
+    .heading = Gerir regras da VPN
+ip-protection-site-rules-button-1 =
+    .description = Definir regras para sites que precisam de privacidade extra ou VPN desligada.
+    .label = Gerir regras da VPN
+ip-protection-site-rules-list-section =
+    .description = Escolha como a VPN funciona para sites que precisam de privacidade extra ou VPN desativada.
+    .label = Regras de sites
+ip-protection-site-rules-add-button =
+    .label = Definir regra
+ip-protection-site-rules-delete-all-button =
+    .label = Apagar todas as regras
+ip-protection-site-rules-empty = As regras que definir irão aparecer aqui.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN sempre ligada
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN sempre desligada
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Editar a regra para { $website }
+    .title = Editar
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Apagar a regra para { $website }
+    .title = Apagar
 ip-protection-site-rules-header =
     .heading = Gerir regras de sites
 ip-protection-site-rules-button =
@@ -303,6 +330,36 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Gerir definições do site
 ip-protection-exclusions-desc = Utilize a VPN para todos os sites, exceto os desta lista. Adicione um site aqui ou abrindo a VPN.
+ip-protection-site-rule-window =
+    .title = Definir regra
+ip-protection-edit-site-rule-window =
+    .title = Editar regra
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Definir
+    .buttonaccesskeyaccept = D
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Guardar
+    .buttonaccesskeyaccept = G
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Introduza um site, e depois selecione o respetivo estado da VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Site
+    .placeholder = ex: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Estado da VPN
+ip-protection-site-rule-status-on =
+    .label = Sempre ligada
+ip-protection-site-rule-status-off =
+    .label = Sempre desligada
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Insira um endereço de site válido.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Este site já tem uma regra.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Erro ao criar a regra. Por favor tente novamente.
 
 ## IP Protection Bandwidth
 

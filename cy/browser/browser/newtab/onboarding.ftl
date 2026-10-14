@@ -398,6 +398,8 @@ onboarding-checklist-remove-2 = Dileu'r rhestr wirio
 
 tab-groups-onboarding-feature-callout-title = Rhowch gynnig ar grwpio tabiau am lai o flerwch, gwell trefn
 tab-groups-onboarding-feature-callout-subtitle = Byddwch yn drefnus trwy lusgo un tab ar ben un arall i greu eich grŵp cyntaf.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Dewch o hyd i'ch grwpiau tabiau yn y ddewislen "Chwilio a rheoli tabiau” unrhyw bryd.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Dewch o hyd i'ch grwpiau tabiau yn newislen Rhestr Pob Tab unrhyw bryd.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Dewch o hyd i'ch grwpiau trwy chwilio amdanyn nhw yn y bar cyfeiriad.
@@ -407,7 +409,7 @@ tab-groups-onboarding-saved-groups-title-4 = Pan fyddwch chi'n cau grŵp tabiau,
 tab-groups-onboarding-saved-groups-title-3 = Pan fyddwch yn cau grŵp tabiau, gallwch ei ailagor o'r ddewislen Rhestr Pob Tab unrhyw bryd.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Dewch o hyd i'ch grwpiau agored ar y bar tab neu drwy chwilio amdanyn nhw yn y bar cyfeiriad.
 # The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
-tab-groups-onboarding-session-restore-title-3 = Ailagorwch eich grwpiau tabiau o'r ddewislen "Chwilio a rheoli tabiau" unrhyw bryd.
+tab-groups-onboarding-session-restore-title-3 = Ail agorwch eich grwpiau tabiau o'r ddewislen "Chwilio a rheoli tabiau" unrhyw bryd.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Ail agorwch eich grwpiau tab o ddewislen Rhestr Pob Tab unrhyw bryd.
 tab-groups-onboarding-dismiss = Iawn

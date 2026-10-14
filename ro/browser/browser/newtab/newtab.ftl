@@ -573,6 +573,11 @@ newtab-recent-searches-empty-trending = Căutările în tendințe nu sunt dispon
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoscop
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Deschide meniul de horoscop
+    .title = Deschide meniul de horoscop
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Opțiuni pentru horoscop
