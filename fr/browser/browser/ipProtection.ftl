@@ -286,13 +286,13 @@ ip-protection-site-rules-button-1 =
     .description = Définissez des règles pour les sites qui ont besoin de plus de confidentialité ou pour lesquels le VPN doit être désactivé.
     .label = Gérer les règles VPN
 ip-protection-site-rules-list-section =
-    .description = Choisissez comment le VPN fonctionne pour les sites qui ont besoin de plus de confidentialité ou pour lesquelles le VPN est désactivé.
+    .description = Choisissez comment le VPN fonctionne pour les sites qui ont besoin de plus de confidentialité ou pour lesquels le VPN est désactivé.
     .label = Règles des sites web
 ip-protection-site-rules-add-button =
-    .label = Définir la règle
+    .label = Ajouter la règle
 ip-protection-site-rules-delete-all-button =
     .label = Supprimer toutes les règles
-ip-protection-site-rules-empty = Les règles que vous avez définies apparaîtront ici.
+ip-protection-site-rules-empty = Les règles que vous créez s’afficheront ici.
 # Shown on a website whose rule turns the VPN on for it
 ip-protection-site-rules-rule-included = VPN toujours activé
 # Shown on a website whose rule turns the VPN off for it
@@ -331,15 +331,15 @@ ip-protection-exceptions-dialog-window =
     .title = Gérer les paramètres des sites web
 ip-protection-exclusions-desc = Utilisez le VPN pour tous les sites web, sauf pour ceux de cette liste. Ajoutez un site web ici ou en ouvrant le VPN.
 ip-protection-site-rule-window =
-    .title = Définir la règle
+    .title = Ajouter la règle
 ip-protection-edit-site-rule-window =
     .title = Modifier la règle
 ip-protection-site-rule-dialog =
-    .buttonlabelaccept = Valider
-    .buttonaccesskeyaccept = S
+    .buttonlabelaccept = Ajouter
+    .buttonaccesskeyaccept = A
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Enregistrer
-    .buttonaccesskeyaccept = S
+    .buttonaccesskeyaccept = E
 # VPN status refers to a state of 'always on' or 'always off' applied to a site
 ip-protection-site-rule-intro = Saisissez un site, puis sélectionnez son statut VPN.
 # "ex:" is short for "example".
