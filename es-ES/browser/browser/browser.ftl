@@ -784,6 +784,18 @@ urlbar-searchmode-no-keyword2 =
     .title = La búsqueda de palabras clave está desactivada
 urlbar-searchmode-dropmarker2 =
     .title = Elegir un buscador
+urlbar-searchmode-bookmarks4 = Marcadores
+urlbar-searchmode-tabs4 = Pestañas
+urlbar-searchmode-history4 = Historial
+urlbar-searchmode-actions4 = Acciones
+urlbar-searchmode-bookmarks3 = Marcadores
+    .accesskey = M
+urlbar-searchmode-tabs3 = Pestañas
+    .accesskey = P
+urlbar-searchmode-history3 = Historial
+    .accesskey = H
+urlbar-searchmode-actions3 = Acciones
+    .accesskey = A
 urlbar-searchmode-exit-button2 =
     .title = Cerrar
 urlbar-searchmode-default2 =
@@ -799,6 +811,12 @@ urlbar-searchmode-popup-one-off-header = Esta vez buscar con:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = Buscar con:
+urlbar-searchmode-popup-search-settings2 = Ajustes de búsqueda
+urlbar-searchmode-popup-settings2 = Ajustes
+urlbar-searchmode-popup-search-settings = Ajustes de búsqueda
+    .accesskey = A
+urlbar-searchmode-popup-settings = Ajustes
+    .accesskey = A
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
