@@ -557,6 +557,11 @@ newtab-recent-searches-empty-trending = חיפושים פופולריים אינ
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = הורוסקופ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = פתיחת תפריט ההורוסקופ
+    .title = פתיחת תפריט ההורוסקופ
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = אפשרויות הורוסקופ

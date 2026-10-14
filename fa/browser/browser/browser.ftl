@@ -444,6 +444,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = نمایش ویرایشگر هنگام ذخیره‌سازی
     .accesskey = S
+bookmark-panel-save-button2 =
+    .label = ذخیره
+    .accesskey = ذ
 bookmark-panel-save-button =
     .label = ذخیره
 # Width of the bookmark panel.

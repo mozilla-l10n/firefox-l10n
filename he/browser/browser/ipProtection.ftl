@@ -356,6 +356,19 @@ ip-protection-site-rule-status-off =
 ip-protection-site-rule-invalid-error = נא למלא כתובת אתר תקנית.
 # Shown below the website field when the typed website already has a rule.
 ip-protection-site-rule-duplicate-error = לאתר זה כבר יש כלל.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = אירעה שגיאה ביצירת כלל. נא לנסות שוב.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = למחוק את הכלל עבור { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = ביטול
+ip-protection-delete-site-rule-confirm =
+    .label = מחיקה
+ip-protection-delete-all-site-rules-message = למחוק את כל כללי האתרים?
+ip-protection-delete-all-site-rules-confirm =
+    .label = מחיקת כל הכללים
 
 ## IP Protection Bandwidth
 

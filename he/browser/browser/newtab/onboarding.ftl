@@ -383,12 +383,18 @@ onboarding-checklist-remove-2 = הסרת רשימת תיוג
 
 tab-groups-onboarding-feature-callout-title = ניתן לנסות קבוצות לשוניות עבור עומס מופחת וקבלת מיקוד טוב יותר
 tab-groups-onboarding-feature-callout-subtitle = ניתן לעשות סדר בבלאגן על־ידי גרירת לשונית אחת על גבי לשונית אחרת כדי ליצור את הקבוצה הראשונה שלך.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = ניתן למצוא את קבוצות הלשוניות שלך בתפריט ״חיפוש וניהול לשוניות״ בכל עת.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = ניתן למצוא את קבוצות הלשוניות שלך בתפריט ״רשימת כל הלשוניות״ בכל עת.
 tab-groups-onboarding-create-group-no-alltabs-button-title = ניתן למצוא את הקבוצות שלך על־ידי חיפושן בשורת הכתובת.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = לאחר סגירת קבוצת לשוניות, ניתן לפתוח אותה מחדש בתפריט ״חיפוש וניהול לשוניות״ בכל עת.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = לאחר סגירת קבוצת לשוניות, ניתן לפתוח אותה מחדש בתפריט ״רשימת כל הלשוניות״ בכל עת.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ניתן למצוא את הקבוצות הסגורות שלך על־ידי חיפושן בשורת הכתובת.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = ניתן לפתוח מחדש את קבוצות הלשוניות שלך מהתפריט ״חיפוש וניהול לשוניות״ בכל עת.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = ניתן לפתוח מחדש את קבוצות הלשוניות שלך מהתפריט ״רשימת כל הלשוניות״ בכל עת.
 tab-groups-onboarding-dismiss = אישור

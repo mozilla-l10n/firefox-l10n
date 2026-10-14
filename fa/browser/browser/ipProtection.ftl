@@ -303,6 +303,8 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = مدیریت تنظیمات وب‌سایت
 ip-protection-exclusions-desc = استفاده از VPN برای همهٔ وب‌سایت‌ها به جز موارد این فهرست. از این‌جا یا با باز کردن پنل VPN می‌توانید وب‌سایت اضافه کنید.
+ip-protection-delete-site-rule-confirm =
+    .label = حذف
 
 ## IP Protection Bandwidth
 
