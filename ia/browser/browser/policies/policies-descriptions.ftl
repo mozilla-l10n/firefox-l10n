@@ -67,6 +67,7 @@ policy-DisablePasswordReveal2 = Non permitter contrasignos esser revelate in cre
 policy-DisablePasswordReveal = Non permitter de monstrar le contrasignos in le credentiales salvate.
 policy-DisablePrivateBrowsing = Disactivar le Navigation private.
 policy-DisableProfileImport = Disactivar le commando del menu pro importar datos ab un altere navigator.
+policy-DisableProfileRefresh2 = Disactivar le button Refrescar de { -brand-short-name } in Informationes diagnostic (about:support) e sur support.mozilla.org, in addition al suggestion que offere de refrescar { -brand-short-name } quando illo non ha essite usate per un tempore.
 policy-DisableProfileRefresh = Disactivar le button Refrescar { -brand-short-name } in le pagina about:support.
 policy-DisableRemoteImprovements = Impedir a { -brand-short-name } de applicar modificationes de prestation, stabilitate, e functionalitate inter actualisationes.
 policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Disactivar le configurationes remote.
