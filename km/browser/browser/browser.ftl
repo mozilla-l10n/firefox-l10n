@@ -251,6 +251,11 @@ urlbar-result-action-visit = មើល
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = កុំទាន់
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-bookmarks4 = ចំណាំ
+urlbar-searchmode-history4 = ប្រវត្តិ
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.

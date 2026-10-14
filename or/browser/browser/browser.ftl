@@ -168,6 +168,10 @@ urlbar-go-button2 =
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍ତୁ
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-history4 = ଇତିହାସ
+
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-toolbar-chevron =

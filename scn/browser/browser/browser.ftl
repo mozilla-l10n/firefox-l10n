@@ -286,6 +286,7 @@ urlbar-result-search-with = Riscedi cu { $engine }
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords } - Riscedi cu { $engine }
+urlbar-searchmode-bookmarks4 = Nzingalibbra
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = Sta vota riscedi cu:

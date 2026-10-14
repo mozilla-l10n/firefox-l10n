@@ -441,6 +441,11 @@ urlbar-result-action-visit = Vixita
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Còpia
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-history4 = Stöia
+urlbar-searchmode-actions4 = Açioin
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.

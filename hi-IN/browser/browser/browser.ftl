@@ -335,6 +335,12 @@ urlbar-result-action-search-w-engine = { $engine } से खोजें
 urlbar-result-action-switch-tab = 'टैब में स्विच करें
 urlbar-result-action-visit = भ्रमण करें
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-bookmarks4 = बुकमार्क
+urlbar-searchmode-tabs4 = टैब
+urlbar-searchmode-history4 = इतिहास
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.

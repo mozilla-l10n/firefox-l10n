@@ -390,6 +390,9 @@ urlbar-result-action-copy-to-clipboard = কপি কৰক
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks4 = বুকমাৰ্কসমূহ
+urlbar-searchmode-tabs4 = টেবসমূহ
+urlbar-searchmode-history4 = ইতিহাস
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

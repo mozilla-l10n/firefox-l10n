@@ -496,6 +496,10 @@ urlbar-result-action-copy-to-clipboard = प्रतिलिपि गर्�
 # Label prompting user to search with a particular search engine.
 #  $engine (String): the name of a search engine that searches a specific site
 urlbar-result-search-with = { $engine } मार्फत खोज्नुहोस्
+urlbar-searchmode-bookmarks4 = बुकमार्कहरु
+urlbar-searchmode-tabs4 = ट्याबहरू
+urlbar-searchmode-history4 = इतिहास
+urlbar-searchmode-actions4 = कार्य
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

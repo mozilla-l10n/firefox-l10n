@@ -633,6 +633,10 @@ urlbar-searchmode-button-no-engine2 =
     .title = ᱥᱚᱴᱠᱟᱴ ᱵᱟᱝ ᱵᱟᱪᱷᱟᱣ ᱟᱠᱟᱱᱟ, ᱢᱤᱫ ᱥᱚᱴᱠᱟᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 urlbar-searchmode-dropmarker2 =
     .title = ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+urlbar-searchmode-bookmarks4 = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
+urlbar-searchmode-tabs4 = ᱴᱮᱵᱽ ᱠᱚ
+urlbar-searchmode-history4 = ᱱᱟᱜᱟᱢ
+urlbar-searchmode-actions4 = ᱠᱟᱹᱢᱤ ᱠᱚ
 urlbar-searchmode-exit-button2 =
     .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 # Shown when adding new search engines from the search mode switcher.

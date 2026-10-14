@@ -282,6 +282,9 @@ urlbar-result-action-before-tabtosearch-other = Dii Dirica matidi me yenyo { $en
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks4 = Alama buk
+urlbar-searchmode-tabs4 = Dirica matino
+urlbar-searchmode-history4 = Gin mukato
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

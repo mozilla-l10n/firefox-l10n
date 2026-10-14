@@ -264,6 +264,9 @@ urlbar-result-action-copy-to-clipboard = कपि खालाम
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-tabs4 = टेबफोर
+urlbar-searchmode-history4 = जारिमिन
+urlbar-searchmode-actions4 = एक्सनफोर
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

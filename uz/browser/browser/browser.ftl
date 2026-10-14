@@ -331,6 +331,10 @@ urlbar-result-action-tabtosearch-web = { $engine } yordamida toʻgʻridan-toʻg�
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks4 = Xatchoʻplar
+urlbar-searchmode-tabs4 = Varaqlar
+urlbar-searchmode-history4 = Tarix
+urlbar-searchmode-actions4 = Amallar
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

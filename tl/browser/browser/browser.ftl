@@ -439,6 +439,9 @@ urlbar-result-action-copy-to-clipboard = Kopyahin
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks4 = Mga Bookmark
+urlbar-searchmode-tabs4 = Mga Tab
+urlbar-searchmode-history4 = Kasaysayan
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.

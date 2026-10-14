@@ -476,6 +476,10 @@ urlbar-result-dates-ends-today = { $name } · ఇవాళ ముగుస్త
 
 ## Strings used for buttons in the urlbar
 
+urlbar-searchmode-bookmarks4 = ఇష్టాంశాలు
+urlbar-searchmode-tabs4 = ట్యాబులు
+urlbar-searchmode-history4 = చరిత్ర
+urlbar-searchmode-actions4 = చర్యలు
 urlbar-searchmode-exit-button2 =
     .title = మూసివేయి
 # Shown when adding new search engines from the search mode switcher.

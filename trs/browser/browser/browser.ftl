@@ -239,6 +239,13 @@ urlbar-result-action-search-w-engine = Nana'uì' 'ngà { $engine }
 urlbar-result-action-switch-tab = Naduno' a'ngô rakij ñaj
 urlbar-result-action-visit = Gatu gan'anj ni'iajt
 
+## Strings used for buttons in the urlbar
+
+urlbar-searchmode-bookmarks4 = Nej sa râj sun nichrà\'t doj
+urlbar-searchmode-tabs4 = Nej rakïj ñanj
+urlbar-searchmode-history4 = Sa gini’hiājt
+urlbar-searchmode-actions4 = Sa gi'hiát
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
