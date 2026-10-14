@@ -497,7 +497,7 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = Połączenie z tą witryną nie jest zabezpieczone.
 identity-connection-verified = Połączenie z tą witryną jest zabezpieczone.
 identity-ev-owner-label2 = Certyfikat wystawiony dla
-identity-verifier-label2 = Zweryfikowana przez
+identity-verifier-label2 = Zweryfikowana przez:
 identity-ev-owner-label = Certyfikat wystawiony dla:
 identity-verifier-label = Zweryfikowana przez:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
