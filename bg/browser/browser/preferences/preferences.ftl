@@ -114,7 +114,7 @@ extension-controlling-password-saving = Разширението „<img data-l1
 extension-controlling-web-notifications = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ управлява тази настройка.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlling-privacy-containers = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ има изискване за изолирани раздели.
+extension-controlling-privacy-containers = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ има изискване за контейнерни раздели.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = Разширението „<img data-l10n-name="icon"/> <strong>{ $name }</strong>“ управлява тази настройка.
@@ -233,13 +233,13 @@ show-tabs-in-taskbar =
     .label = Преглед на разделите в лентата със задачите на Windows
     .accesskey = с
 browser-containers-enabled-2 =
-    .label = Използване на изолирани раздели
-    .accesskey = И
+    .label = Използване на контейнерни раздели
+    .accesskey = к
 browser-containers-learn-more = Научете повече
 browser-containers-settings-2 =
     .label = Управление на настройките
     .accesskey = У
-containers-disable-alert-title = Затваряне на всички изолирани раздели?
+containers-disable-alert-title = Затваряне на всички контейнерни раздели?
 startup-group =
     .label = Стартиране
 
