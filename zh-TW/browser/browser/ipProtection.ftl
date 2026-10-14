@@ -276,6 +276,22 @@ ip-protection-not-opted-in-button = 開始使用
 ip-protection-site-exceptions-all-sites-button =
     .description = { $count } 個網站
     .label = 管理網站設定
+ip-protection-site-rules-header-1 =
+    .heading = 管理 VPN 規則
+ip-protection-site-rules-add-button =
+    .label = 設定規則
+ip-protection-site-rules-delete-all-button =
+    .label = 刪除所有規則
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = 編輯 { $website } 的規則
+    .title = 編輯
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = 刪除 { $website } 的規則
+    .title = 刪除
 ip-protection-site-rules-header =
     .heading = 管理網站規則
 ip-protection-site-rules-button =
@@ -299,6 +315,33 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = 管理網站設定
 ip-protection-exclusions-desc = 對所有網站開啟 VPN 上網，但排除此清單中的網站。可在此處或開啟 VPN 來新增網站。
+ip-protection-site-rule-window =
+    .title = 設定規則
+ip-protection-edit-site-rule-window =
+    .title = 編輯規則
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = 設定
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = 儲存
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = 請輸入網站，然後選擇該網站的 VPN 狀態。
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = 網站
+    .placeholder = 例如：acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN 狀態
+ip-protection-site-rule-status-on =
+    .label = 永遠開啟
+ip-protection-site-rule-status-off =
+    .label = 永遠關閉
+ip-protection-delete-site-rule-cancel =
+    .label = 取消
+ip-protection-delete-site-rule-confirm =
+    .label = 刪除
 
 ## IP Protection Bandwidth
 
