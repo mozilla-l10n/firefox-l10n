@@ -280,6 +280,12 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } ιστότοποι
         }
     .label = Διαχείριση ρυθμίσεων ιστοτόπων
+ip-protection-site-rules-header-1 =
+    .heading = Διαχείριση κανόνων VPN
+ip-protection-site-rules-add-button =
+    .label = Ορισμός κανόνα
+ip-protection-site-rules-delete-all-button =
+    .label = Διαγραφή όλων των κανόνων
 ip-protection-site-rules-header =
     .heading = Διαχείριση κανόνων ιστοτόπων
 ip-protection-site-rules-button =
@@ -303,6 +309,29 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Διαχείριση ρυθμίσεων ιστοτόπων
 ip-protection-exclusions-desc = Το VPN θα χρησιμοποιείται για όλους τους ιστοτόπους εκτός από αυτούς που αναγράφονται σε αυτήν τη λίστα. Προσθέστε έναν ιστότοπο εδώ ή ανοίγοντας το VPN.
+ip-protection-site-rule-window =
+    .title = Ορισμός κανόνα
+ip-protection-edit-site-rule-window =
+    .title = Επεξεργασία κανόνα
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Ορισμός
+    .buttonaccesskeyaccept = Ο
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Αποθήκευση
+    .buttonaccesskeyaccept = Α
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Ιστότοπος
+    .placeholder = π.χ.: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Κατάσταση VPN
+ip-protection-delete-site-rule-cancel =
+    .label = Ακύρωση
+ip-protection-delete-site-rule-confirm =
+    .label = Διαγραφή
+ip-protection-delete-all-site-rules-confirm =
+    .label = Διαγραφή όλων των κανόνων
 
 ## IP Protection Bandwidth
 
