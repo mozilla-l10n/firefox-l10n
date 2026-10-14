@@ -353,6 +353,23 @@ ip-protection-site-rule-status-on =
     .label = Beti aktibo
 ip-protection-site-rule-status-off =
     .label = Beti inaktibo
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Idatzi webgune baten baliozko helbidea.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Gune honek lehendik ere badu araua.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Errorea araua sortzean. Saiatu berriro mesedez.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Ezabatu { $website } webgunerako araua?
+ip-protection-delete-site-rule-cancel =
+    .label = Utzi
+ip-protection-delete-site-rule-confirm =
+    .label = Ezabatu
+ip-protection-delete-all-site-rules-message = Ezabatu webgune guztietako arauak?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Ezabatu arau guztiak
 
 ## IP Protection Bandwidth
 

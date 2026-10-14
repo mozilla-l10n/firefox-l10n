@@ -398,12 +398,18 @@ onboarding-checklist-remove-2 = Kendu egiaztapen-zerrenda
 
 tab-groups-onboarding-feature-callout-title = Probatu fitxa-taldeak soberan dagoena kendu eta zentratuta izateko
 tab-groups-onboarding-feature-callout-subtitle = Antolatu goian dagoen fitxa bat beste batera arrastatuz eta zure lehen taldea sortuz.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Aurkitu zure fitxa-taldeak 'Bilatu eta kudeatu fitxak' menu-aukeran noiznahi.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Aurkitu zure fitxa-taldeak edonoiz 'Zerrendatu fitxa guztiak' menu-aukeran.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Aurkitu zure taldeak helbide-barran bilaketa eginez.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Fitxa-talde bat ixtean, ireki ezazu berriro 'Bilatu eta kudeatu fitxak' menu-aukeratik noiznahi.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
-tab-groups-onboarding-saved-groups-title-3 = Fitxa-taldeak talde bat ixtean, ireki ezazu berriro 'Zerrendatu fitxa guztiak' menu-aukeran.
+tab-groups-onboarding-saved-groups-title-3 = Fitxa-talde bat ixtean, ireki ezazu berriro 'Zerrendatu fitxa guztiak' menu-aukeratik.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Aurkitu itxitako zure taldeak helbide-barran bilaketa eginez.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Ireki berriro zure fitxa-taldeak 'Bilatu eta kudeatu fitxak' menu-aukeratik noiznahi.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Ireki berriro zure fitxa-taldeak edonoiz 'Zerrendatu fitxa guztiak' menu-aukeran.
 tab-groups-onboarding-dismiss = Ados
