@@ -374,7 +374,7 @@ quickactions-library = Biblioteku wočinić
 quickactions-logins2 = Hesła rjadować
 quickactions-cmd-logins = přizjewjenja, hesła
 # Mutes all tabs playing audio
-quickactions-mute = Rajtarki zněmić, kotrež awdio wothrawaja
+quickactions-mute = Rajtarki zněmić, kotrež awdijo wothrawaja
 # List of words that would trigger the "mute tabs" action from the address bar.
 # Replace with idiomatic expressions in your language to silence something or
 # someone.
@@ -561,7 +561,7 @@ popup-select-microphone-device =
 popup-select-microphone-icon =
     .tooltiptext = Mikrofon
 popup-select-speaker-icon =
-    .tooltiptext = Awdiowudawanske nastroje
+    .tooltiptext = Awdijowudawanske nastroje
 popup-select-window-or-screen =
     .label = Wokno abo wobrazowka:
     .accesskey = W
@@ -1228,7 +1228,7 @@ qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Někajka awdio- abo widejodataja na tutym sydle wužiwa DRM-softwaru, kotraž móhła wobmjezować, štož { -brand-short-name } da wam z tym činić.
+eme-notifications-drm-content-playing = Někajka awdijo- abo widejodataja na tutym sydle wužiwa DRM-softwaru, kotraž móhła wobmjezować, štož { -brand-short-name } da wam z tym činić.
 eme-notifications-drm-content-playing-manage = Nastajenja rjadować
 eme-notifications-drm-content-playing-manage-accesskey = N
 eme-notifications-drm-content-playing-dismiss = Zaćisnyć

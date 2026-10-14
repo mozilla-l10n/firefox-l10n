@@ -12,7 +12,7 @@ webrtc-indicator-title = { -brand-short-name } - dźělenski pokazowak
 
 webrtc-item-camera = kamera
 webrtc-item-microphone = mikrofon
-webrtc-item-audio-capture = awdio rajtarka
+webrtc-item-audio-capture = awdijo rajtarka
 webrtc-item-application = nałoženje
 webrtc-item-screen = wobrazowka
 webrtc-item-window = wokno
