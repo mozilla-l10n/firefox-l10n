@@ -445,6 +445,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Monstrar editor quando se salva
     .accesskey = M
+bookmark-panel-save-button2 =
+    .label = Salvar
+    .accesskey = S
 bookmark-panel-save-button =
     .label = Salvar
 # Width of the bookmark panel.
