@@ -636,3 +636,4 @@ welcome-back-onboarding-card-label-tabs = Metti ordine con schede verticali e gr
 welcome-back-onboarding-card-label-vpn = Proteggi la tua privacy con la VPN integrata
 welcome-back-onboarding-card-label-pdf = Evidenzia, firma e lavora con i PDF
 welcome-back-onboarding-card-tilebutton-label = Fai una prova
+
