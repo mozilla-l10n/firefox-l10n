@@ -245,6 +245,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Etsi historiasta
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Etsi välilehtiä
 
 ## Bookmarks Menu
 

@@ -443,6 +443,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Näytä muokkaus tallennettaessa
     .accesskey = m
+bookmark-panel-save-button2 =
+    .label = Tallenna
+    .accesskey = T
 bookmark-panel-save-button =
     .label = Tallenna
 # Width of the bookmark panel.
