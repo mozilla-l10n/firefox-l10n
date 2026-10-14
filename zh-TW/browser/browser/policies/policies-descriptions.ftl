@@ -140,6 +140,7 @@ policy-RelaunchRequired = 要求 { -brand-short-name } 在指定的時間內重�
 policy-RequestedLocales = 為應用程式設定使用的語系清單順序。
 policy-SanitizeOnShutdown2 = 關閉瀏覽器時，清除瀏覽資料。
 policy-SearchBar = 設定搜尋列的預設位置，使用者仍然可以自訂。
+policy-SearchEngines2 = 調整搜尋引擎設定。
 policy-SearchEngines = 調整搜尋引擎設定。此原則僅對 Extended Support Release（ESR）版本有效。
 policy-SearchSuggestEnabled = 啟用或停用搜尋建議。
 # For more information, see https://wikipedia.org/wiki/PKCS_11

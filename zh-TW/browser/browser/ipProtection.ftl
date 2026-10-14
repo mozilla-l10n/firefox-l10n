@@ -278,10 +278,21 @@ ip-protection-site-exceptions-all-sites-button =
     .label = 管理網站設定
 ip-protection-site-rules-header-1 =
     .heading = 管理 VPN 規則
+ip-protection-site-rules-button-1 =
+    .description = 為需要加強保護隱私或關閉 VPN 才能使用的網站設定規則。
+    .label = 管理 VPN 規則
+ip-protection-site-rules-list-section =
+    .description = 選擇 VPN 對需要加強保護隱私的網站，或關閉 VPN 才能使用的網站的運作行為。
+    .label = 網站規則
 ip-protection-site-rules-add-button =
     .label = 設定規則
 ip-protection-site-rules-delete-all-button =
     .label = 刪除所有規則
+ip-protection-site-rules-empty = 您設定的規則將顯示於此處。
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = 永遠開啟 VPN
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = 永遠關閉 VPN
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-site-rules-edit-button =
@@ -338,10 +349,23 @@ ip-protection-site-rule-status-on =
     .label = 永遠開啟
 ip-protection-site-rule-status-off =
     .label = 永遠關閉
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = 請輸入有效的網站網址。
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = 此網站已有規則。
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = 建立規則時發生錯誤，請再試一次。
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = 要刪除 { $website } 的規則嗎？
 ip-protection-delete-site-rule-cancel =
     .label = 取消
 ip-protection-delete-site-rule-confirm =
     .label = 刪除
+ip-protection-delete-all-site-rules-message = 要刪除所有網站規則嗎？
+ip-protection-delete-all-site-rules-confirm =
+    .label = 刪除所有規則
 
 ## IP Protection Bandwidth
 

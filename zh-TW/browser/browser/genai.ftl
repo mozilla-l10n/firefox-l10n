@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = 若選用 HuggingChat，代表您同意 
 genai-settings-chat-lechat-links-2 = 若選用 Mistral Vibe，代表您同意 Mistral AI 的<a data-l10n-name="link1">服務條款</a>與 <a data-l10n-name="link2">隱私權保護政策</a>。
 genai-settings-chat-lechat-links = 若選用 Le Chat Mistral，代表您同意 Mistral AI 的<a data-l10n-name="link1">服務條款</a>與 <a data-l10n-name="link2">隱私權保護政策</a>。
 genai-settings-chat-localhost-links = 將您本機端的私人聊天機器人的 <a data-l10n-name="link1">llamafile</a> 帶到 { -vendor-short-name } 的創新群組使用。
+genai-settings-chat-scout-links = 若選用 Yahoo Scout，代表您同意 Yahoo 的<a data-l10n-name="link1">服務條款</a>與<a data-l10n-name="link2">隱私權保護政策</a>。
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.

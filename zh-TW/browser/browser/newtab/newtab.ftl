@@ -532,6 +532,11 @@ newtab-recent-searches-empty-trending = 目前暫時無法顯示熱門搜尋項�
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = 星座
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = 開啟星座選單
+    .title = 開啟星座選單
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = 星座選項
