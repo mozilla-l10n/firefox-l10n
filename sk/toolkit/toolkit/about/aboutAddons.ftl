@@ -515,10 +515,10 @@ permissions-data-addon-button = Oprávnenia a údaje
 # Variables:
 #   $extensionName (String) - Name of the extension
 mlmodel-extension-label = Používané rozšírením { $extensionName }
-addon-permissions-data-collection-heading = Zber údajov
+addon-permissions-data-collection-heading = Zhromažďovanie údajov
 addon-permissions-data-collection-empty = Vývojár uvádza, že toto rozšírenie nevyžaduje zhromažďovanie údajov.
 addon-data-collection-provided = Informácie poskytnuté vývojárom rozšírenia
-addon-data-collection-learnmore = Ďalšie informácie o zbere údajov
+addon-data-collection-learnmore = Ďalšie informácie o zhromažďovaní údajov
 
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 

@@ -1856,7 +1856,7 @@ privacy-segmentation-radio-on =
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 data-collection =
     .description = Snažíme sa poskytnúť vám možnosti a zhromažďovať len minimum údajov potrebných na zlepšenie { -brand-product-name(case: "gen") } pre každého.
-    .label = Zber a použitie údajov o aplikácii { -brand-short-name }
+    .label = Zhromažďovanie a používanie údajov vo { -brand-short-name(case: "loc") }
     .searchkeywords = telemetria
 data-collection-link = Zobraziť Vyhlásenie o ochrane osobných údajov
 data-collection-preferences-across-profiles =
