@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klassisk vindauge
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name }-bytar
     .tooltiptext = Byt mellom smarte og klassiske vindauge.
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name }-bytar
+    .tooltiptext = Byt mellom «Smarte» og «Klassiske» vindauge
 
 ## Input CTA
 
