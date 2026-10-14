@@ -72,3 +72,7 @@ about-private-browsing-nova-info-link = Кой все още може да ви�
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Няма ваши записи
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-learn-more = Научете повече
