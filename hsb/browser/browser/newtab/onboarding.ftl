@@ -408,6 +408,8 @@ tab-groups-onboarding-saved-groups-title-4 = Hdyž skupinu rajtarkow začinjeće
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Hdyž skupinu rajtarkow začinjeće, wočińće ju zaso kóždy čas z menija Wšě rajtarki nalistować.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pytajće za swojimi začinjenymi skupinami, zo byšće je w adresowym polu namakał.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Wočińće kóždy čas swoje skupiny rajtarkow zaso z menija „Rajtarki přepytać a rjadować“.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Wočińće zaso kóždy čas swoje skupiny rajtarkow z menija Wšě rajtarki nalistować.
 tab-groups-onboarding-dismiss = W porjadku
