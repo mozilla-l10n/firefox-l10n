@@ -672,7 +672,7 @@ urlbar-result-action-search-in-private = Chwilio mewn Ffenestr Breifat
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = Chwilio gyda { $engine }
-urlbar-result-action-sponsored = Noddwyd
+urlbar-result-action-sponsored = Noddwr
 urlbar-result-action-switch-tab = Newid i'r Tab
 urlbar-result-action-move-tab-to-split-view = Symud Tab i'r Golwg Hollt
 urlbar-result-action-visit = Ymweld â
