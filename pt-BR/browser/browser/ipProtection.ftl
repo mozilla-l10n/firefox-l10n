@@ -280,6 +280,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } sites
         }
     .label = Gerenciar configurações de sites
+ip-protection-site-rules-header-1 =
+    .heading = Gerenciar regras da VPN
+ip-protection-site-rules-button-1 =
+    .description = Definir regras para sites que precisam de privacidade extra, ou da VPN desativada.
+    .label = Gerenciar regras da VPN
+ip-protection-site-rules-list-section =
+    .description = Escolher como a VPN funciona em sites que precisam de privacidade extra, ou da VPN desativada.
+    .label = Regras de sites
+ip-protection-site-rules-add-button =
+    .label = Definir regra
+ip-protection-site-rules-delete-all-button =
+    .label = Excluir todas as regras
+ip-protection-site-rules-empty = As regras que você definir aparecem aqui.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN sempre ativada
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN sempre desativada
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Editar a regra de { $website }
+    .title = Editar
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Excluir a regra de { $website }
+    .title = Excluir
 ip-protection-site-rules-header =
     .heading = Gerenciar regras de sites
 ip-protection-site-rules-button =
@@ -303,6 +330,16 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Gerenciar configurações de sites
 ip-protection-exclusions-desc = Use VPN em todos os sites, exceto os desta lista. Adicione um site aqui ou abrindo a VPN.
+ip-protection-site-rule-window =
+    .title = Definir regra
+ip-protection-edit-site-rule-window =
+    .title = Editar regra
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Definir
+    .buttonaccesskeyaccept = D
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Salvar
+    .buttonaccesskeyaccept = S
 
 ## IP Protection Bandwidth
 
