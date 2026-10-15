@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = শাৰীলৈ যাওক
+view-source-go-to-line-text = শাৰী সংখ্যা দিয়ক
 view-source-invalid-input-title = অবৈধ নিবেশ
 view-source-invalid-input-text = অবৈধ শাৰী সংখ্যা দিয়া হৈছে
 view-source-out-of-range-title = শাৰী পোৱা নাযায়
