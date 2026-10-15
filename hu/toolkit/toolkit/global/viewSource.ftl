@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Ugrás sorra
+view-source-go-to-line-text = Adja meg a sor számát
 view-source-invalid-input-title = Érvénytelen bemenet
 view-source-invalid-input-text = A beírt sorszám nem érvényes.
 view-source-out-of-range-title = Sor nem található
