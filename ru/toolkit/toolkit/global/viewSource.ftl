@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = е
 view-source-context-wrap-long-lines =
     .label = Переносить длинные строки
+view-source-context-highlight-syntax =
+    .label = Подсветка синтаксиса
