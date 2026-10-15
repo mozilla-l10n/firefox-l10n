@@ -13,7 +13,7 @@ genai-settings-chat-huggingchat-links = Genom att välja HuggingChat godkänner 
 genai-settings-chat-lechat-links-2 = Genom att välja Mistral Vibe godkänner du Mistral AI:s <a data-l10n-name="link1">användarvillkor</a> och <a data-l10n-name="link2">integritetspolicy</a>.
 genai-settings-chat-lechat-links = Genom att välja Le Chat Mistral godkänner du <a data-l10n-name="link1">användarvillkoren</a> och <a data-l10n-name="link2">sekretesspolicy</a> för Mistral AI .
 genai-settings-chat-localhost-links = Ta med din egen privata lokala chatbot som <a data-l10n-name="link1">llamafile</a> från { -vendor-short-name }:s innovationsgrupp.
-genai-settings-chat-scout-links = Genom att välja Yahoo Scout godkänner du Yahoos <a data-l10n-name="link1">användarvillkor</a> och <a data-l10n-name="link2">sekretesspolicy</a>.
+genai-settings-chat-scout-links = När du väljer Yahoo Scout godkänner du Yahoos <a data-l10n-name="link1">användarvillkor</a> och <a data-l10n-name="link2">sekretesspolicy</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
