@@ -5,6 +5,12 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = हरफमा जानुहोस्
+view-source-go-to-line-text = हरफ संख्या प्रविष्ट गर्नुहोस्
+view-source-invalid-input-title = अमान्य आगत
+view-source-invalid-input-text = प्रविष्टित हरफ संख्या अमान्य छ।
+view-source-out-of-range-title = हरफ फेला पार्न सकिएन
+view-source-out-of-range-text = तोकिएको हरफ फेला पार्न सकिएन।
 
 ##
 
