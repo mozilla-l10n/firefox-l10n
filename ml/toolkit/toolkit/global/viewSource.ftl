@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = വരിയിലേക്കു് പോകുക
+view-source-go-to-line-text = ലൈന്‍ നംബര്‍ നല്‍കുക
 view-source-invalid-input-title = തെറ്റായ ഇന്‍പുട്ട്‌
 view-source-invalid-input-text = നല്‍കിയിരിക്കുന്ന വരിയുടെ നംബര്‍ തെറ്റാണ്.
 view-source-out-of-range-title = ലൈന്‍ കണ്ടെത്തിയില്ല
