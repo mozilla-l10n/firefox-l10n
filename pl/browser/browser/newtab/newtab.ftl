@@ -352,6 +352,11 @@ newtab-privacy-message-first-protection-cta = Wyświetl ochronę
 newtab-stocks-menu-learn-more = Więcej informacji
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Dane giełdowe są niedostępne.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Otwórz menu widżetu finansów
+    .title = Otwórz menu widżetu finansów
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -568,6 +573,11 @@ newtab-recent-searches-empty-trending = Popularne wyszukiwania nie są w tej ch
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskopy
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Otwórz menu horoskopów
+    .title = Otwórz menu horoskopów
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Opcje horoskopów

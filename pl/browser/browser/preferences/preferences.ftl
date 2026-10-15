@@ -1142,7 +1142,11 @@ prefs-syncing-on-2 =
     .label = Synchronizowanie jest włączone
 prefs-syncing-off = Synchronizowanie: wyłączone
 prefs-syncing-off-2 =
-    .description = Włącz synchronizację, aby mieć dostęp do zakładek, haseł, historii i nie tylko na wszystkich urządzeniach.
+    .description = Włącz synchronizację, aby mieć dostęp do zakładek, haseł, historii i innych danych na wszystkich urządzeniach.
+    .label = Synchronizowanie jest wyłączone
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Włącz synchronizację, aby pobrać zakładki, hasła, historię i inne dane na to urządzenie.
     .label = Synchronizowanie jest wyłączone
 prefs-sync-turn-on-syncing =
     .label = Włącz synchronizację…
