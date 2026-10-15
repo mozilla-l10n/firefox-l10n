@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = Р
 view-source-context-wrap-long-lines =
     .label = Пераносіць доўгія радкі
+view-source-context-highlight-syntax =
+    .label = Падсвятленне сінтаксісу
