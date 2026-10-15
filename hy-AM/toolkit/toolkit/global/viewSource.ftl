@@ -5,6 +5,10 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-invalid-input-title = Անվավեր ներածում
+view-source-invalid-input-text = Տողի նշված համարն անվավեր է:
+view-source-out-of-range-title = Տողը չի գտնվել
+view-source-out-of-range-text = Նշված տողը չի գտնվել:
 
 ##
 
