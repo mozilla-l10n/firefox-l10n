@@ -520,9 +520,3 @@ refresh-unused-profile-infobar-message = Že nekaj časa niste zagnali { -brand-
 refresh-reinstalled-profile-infobar-message = Kaže, da je { -brand-short-name } nameščen na novo. Želite, da ga počistimo in bo deloval kot nov?
 refresh-profile-infobar-button = Osveži { -brand-short-name } …
     .accesskey = e
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Želite odpreti zavihke od prejšnjič?</strong> Prejšnjo sejo lahko obnovite v meniju { -brand-short-name(sklon: "rodilnik") } <img data-l10n-name="icon"/> pod Zgodovina.
-restore-session-startup-suggestion-button = Pokaži, kako

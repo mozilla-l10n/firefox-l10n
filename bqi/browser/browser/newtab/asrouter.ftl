@@ -199,9 +199,6 @@ launch-on-login-spotlight-primary-button = زفت کردن وو بستن { -bran
 
 tail-fox-spotlight-secondary-button = سکو ن
 
-## Welcome Back Spotlight and Import
-
-
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-primary-button =
@@ -238,9 +235,6 @@ multi-cta-fox-doodle-title = خش وورگشتین
 multi-cta-fox-doodle-set-default-checkbox = { -brand-short-name } ن و سۊرت پؽش فرز سامووݩ کۊنین
 multi-cta-fox-doodle-pin-startmenu-checkbox = دیسنیڌن { -brand-short-name } و نومگه استارت
 multi-cta-fox-doodle-start-browsing-primary-button-label = ناهاڌن پا گشتن
-
-## Windows 10 EoS Sync messages group 1 spotlight
-
 
 ## Windows 10 EoS Sync messages group 1 toast notification
 
@@ -303,18 +297,6 @@ launch-options-spotlight-primary-button-close = زفت کردن وو بستن { 
 # Primary button on the browser-launch prompt
 launch-options-spotlight-primary-button-launch = زفت کردن وو رئڌن وا پؽش
 
-## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
-##
-## These strings will be displayed by the Windows operating system in a
-## native toast shown by the background task to users who have Firefox
-## installed but haven't opened it recently. The message itself is hosted
-## off-train on Remote Settings via Nimbus; the strings are landed here so
-## localization can begin.
-##
-## The button labels are fitted into narrow fixed-width buttons by
-## Windows and therefore must be as narrow as possible.
-
-
 ## Refresh Firefox infobar
 ##
 ## Shown at startup when the profile has not been used in over 60 days, or when
@@ -323,9 +305,3 @@ launch-options-spotlight-primary-button-launch = زفت کردن وو رئڌن �
 
 refresh-profile-infobar-button = وانۊ کردن { -brand-short-name }…
     .accesskey = و
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>اخۊین بلگه یل پؽشی ن بۊگۊشین؟</strong> ترین نشست پؽشی خوتووݩ ن ز نومگه { -brand-short-name } <img data-l10n-name="icon"/>، من بشن ویرگار وورگنین.
-restore-session-startup-suggestion-button = نشووݩ داڌن بارت کار

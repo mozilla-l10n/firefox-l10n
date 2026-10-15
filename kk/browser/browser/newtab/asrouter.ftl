@@ -518,9 +518,3 @@ refresh-unused-profile-infobar-message = { -brand-short-name } қолданба�
 refresh-reinstalled-profile-infobar-message = { -brand-short-name } қолданбасын қайта орнатқан сияқтысыз. Жаңадан орнатылған сияқты түріне келтіруді үшін оны тазартуды қалайсыз ба?
 refresh-profile-infobar-button = { -brand-short-name } жұмысын жаңғырту…
     .accesskey = e
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Алдыңғы беттерді ашу керек пе?</strong> Сіз алдыңғы сессияны { -brand-short-name } қолданба мәзірі ішіндегі <img data-l10n-name="icon"/> Тарих бөлімінен қалпына келтіре аласыз.
-restore-session-startup-suggestion-button = Қалай жасау керектігін көрсету

@@ -524,9 +524,3 @@ refresh-unused-profile-infobar-message = Se pare că nu ai mai pornit { -brand-s
 refresh-reinstalled-profile-infobar-message = Se pare că ai reinstalat { -brand-short-name }. Vrei să fie curățată pentru o experiență nouă?
 refresh-profile-infobar-button = Reîmprospătează { -brand-short-name }…
     .accesskey = e
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Deschizi file anterioare?</strong> Poți restaura sesiunea anterioară din { -brand-short-name } meniul aplicației <img data-l10n-name="icon"/>, la Istoric.
-restore-session-startup-suggestion-button = Arată-mi cum

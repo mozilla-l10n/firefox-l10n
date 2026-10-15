@@ -518,9 +518,3 @@ refresh-unused-profile-infobar-message = Có vẻ như bạn đã không dùng {
 refresh-reinstalled-profile-infobar-message = Có vẻ như bạn đã cài đặt lại { -brand-short-name }. Bạn có muốn chúng tôi dọn dẹp nó cho trải nghiệm giống như mới?
 refresh-profile-infobar-button = Làm mới { -brand-short-name }…
     .accesskey = e
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Đã mở các thẻ trước đó?</strong> Bạn có thể khôi phục phiên trước đó của mình từ menu ứng dụng { -brand-short-name } <img data-l10n-name="icon"/>, trong mục Lịch sử.
-restore-session-startup-suggestion-button = Hướng dẫn cho tôi

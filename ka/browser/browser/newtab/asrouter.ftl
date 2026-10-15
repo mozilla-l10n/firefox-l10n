@@ -521,9 +521,3 @@ refresh-unused-profile-infobar-message = როგორც ჩანს, დი
 refresh-reinstalled-profile-infobar-message = როგორც ჩანს, { -brand-short-name } ხელახლა დააყენეთ. გსურთ მისი გასუფთავება და პირვანდელ მდგომარეობაში დაბრუნება?
 refresh-profile-infobar-button = { -brand-short-name } – შეკეთება…
     .accesskey = კ
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>გაიხსნას წინა ჩანართები?</strong> თუ გსურთ, { -brand-short-name } აღდგეს წინა მდგომარეობით, გახსენით მენიუ <img data-l10n-name="icon"/> და მონახეთ ისტორია.
-restore-session-startup-suggestion-button = მაჩვენეთ, როგორ

@@ -513,9 +513,3 @@ refresh-unused-profile-infobar-message = Sembla que no heu iniciat el { -brand-s
 refresh-reinstalled-profile-infobar-message = Sembla que heu reinstal·lat el { -brand-short-name }. Voleu realitzar una neteja per tal que s'iniciï com si fos la primera vegada?
 refresh-profile-infobar-button = Restableix el { -brand-short-name }…
     .accesskey = e
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Voleu obrir les pestanyes anteriors?</strong> Podeu restaurar la sessió anterior des del menú de l'aplicació del { -brand-short-name } <img data-l10n-name="icon"/>, dins l'«Historial».
-restore-session-startup-suggestion-button = Mostra com fer-ho
