@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Yah to gorol
+view-source-go-to-line-text = Naatnu limoore gorol
 view-source-invalid-input-title = Naatnal moƴƴaani
 view-source-invalid-input-text = Limoore gorol naatnaaɗe ndee moƴƴaani.
 view-source-out-of-range-title = Gorol yiytaaka
