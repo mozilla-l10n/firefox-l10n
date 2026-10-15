@@ -73,6 +73,7 @@ about-private-browsing-felt-privacy-v1-info-link = Кӣ метавонад фа�
 
 about-private-browsing-nova-info-body = Ҳангоми пӯшидани ҳамаи варақаҳои хусусӣ, тамоми кукиҳо, таърих ва маълумоти сомонаҳои шумо нест карда мешаванд.
 about-private-browsing-nova-info-link = Кӣ метавонад фаъолияти маро то ҳол назорат кунад?
+about-private-browsing-private-window-basics-link = Асосҳои равзанаи хусусӣ
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -81,6 +82,7 @@ about-private-browsing-nova-info-subheader2 = Вақте ки шумо ҳама�
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Асосҳои равзанаи хусусӣ
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Бояд донист

@@ -31,3 +31,5 @@ extension-nova-sun-name = Офтоб
 extension-nova-spark-name = Шарора
 # Name for a red-orange theme. Refers to the color of fire.
 extension-nova-flame-name = Аланга
+# Name for a warm gray-beige theme. Refers to the hazy color of smoke.
+extension-nova-smoke-name = Дуд
