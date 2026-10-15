@@ -521,3 +521,9 @@ refresh-unused-profile-infobar-message = Parece que não inicia o { -brand-short
 refresh-reinstalled-profile-infobar-message = Parece que reinstalou o { -brand-short-name }. Pretende que o limpemos para uma nova experiência?
 refresh-profile-infobar-button = Restaurar o { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Reabrir os separadores anteriores?</strong> Pode restaurar a sua sessão antiga a partir do menu de aplicação do { -brand-short-name } <img data-l10n-name="icon"/>, em Histórico.
+restore-session-startup-suggestion-button = Mostrar como
