@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Жолға өту
+view-source-go-to-line-text = Жол нөмірін енгізіңіз
 view-source-invalid-input-title = Қате енгізу
 view-source-invalid-input-text = Енгізілген жол нөмірі қате
 view-source-out-of-range-title = Жол табылмаған
