@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Անցնել տողին
+view-source-go-to-line-text = Մուտքագրեք տողի թիվը
 view-source-invalid-input-title = Անվավեր ներածում
 view-source-invalid-input-text = Տողի նշված համարն անվավեր է:
 view-source-out-of-range-title = Տողը չի գտնվել
