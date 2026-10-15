@@ -39,3 +39,16 @@ bookmark-overlay-keyword-2 =
     .accesskey = P
 bookmark-overlay-tags-caption-label = Utilizza le etichette per organizzare i tuoi siti preferiti e cercare nei segnalibri usando la barra degli indirizzi
 bookmark-overlay-keyword-caption-label-2 = Utilizza una singola parola chiave per aprire il segnalibro direttamente dalla barra degli indirizzi
+
+## Bookmark properties dialog
+
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Nome cartella]
+bookmark-properties-default-name-folder = Nuova cartella
+bookmark-properties-default-name-bookmark = Nuovo segnalibro
