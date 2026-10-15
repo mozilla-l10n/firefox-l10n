@@ -70,7 +70,7 @@ policy-DisableProfileImport = Menijowy přikaz za importowanje datow z druheho w
 policy-DisableProfileRefresh = Tłóčatko { -brand-short-name } wobnowić na stronje about:support znjemóžnić.
 policy-DisableRemoteImprovements = Zadźěwajće tomu, zo { -brand-short-name } změny wukona, stabilnosće a funkcijow mjez aktualizacijemi nałožuje.
 policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Eksterne nastajenja znjemóžnić.
-policy-DisableSafeMode2 = Nowy start modusu za rozrisowanje problemow (wěsty modus) znjemóžnić.
+policy-DisableSafeMode2 = Nowy start w modusu za rozrisowanje problemow (wěsty modus) znjemóžnić.
 policy-DisableSafeMode = Funkciju za znowastartowanje we wěstym modusu znjemóžnić. Kedźbu: Tasta Umsch, z kotrejž k wěstemu modusej přeńdźeće, da so jenož pod Windowsom z pomocu skupinskich prawidłow znjemóžnić.
 policy-DisableSecurityBypass = Wužiwarjej zakazać, wěste wěstotne warnowanja wobeńć.
 policy-DisableSetAsDesktopBackground = Menijowy přikaz Jako desktopowy pozadk za wobrazy nastajić znjemóžnić.
@@ -145,7 +145,7 @@ policy-RelaunchRequired = Nowy start { -brand-short-name } za podatu dobu požad
 policy-RequestedLocales = Podajće lisćinu požadanych rěčow za nałoženje w preferowanym porjedźe.
 policy-SanitizeOnShutdown2 = Nawigaciske daty při kónčenju zhašeć.
 policy-SearchBar = Standardne městno pytanskeho pola nastajić. Wužiwar móže jo hišće přiměrić.
-policy-SearchEngines2 = Nastajenja pytawow konfigurować
+policy-SearchEngines2 = Nastajenja pytawow konfigurować.
 policy-SearchEngines = Nastajenja pytawow konfigurować. Tute prawidło je jenož za wersiju Extended Support Release (ESR) k dispoziciji.
 policy-SearchSuggestEnabled = Pytanske namjety zmóžnić abo znjemóžnić.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

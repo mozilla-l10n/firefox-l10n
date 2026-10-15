@@ -408,6 +408,8 @@ tab-groups-onboarding-saved-groups-title-4 = Gaž kupku rejtarikow zacynjaśo, w
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Gaž kupku rejtarikow zacynjaśo, wócyńśo ju zasej kuždy cas z menija Wšykne rejtariki nalicyś.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pytajśo za swójimi zacynjonymi kupkami, aby je w adresowem pólu namakał.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Wócyńśo kuždy cas swóje kupki rejtarikow zasej z menija „Rejtariki pśepytaś a zastojaś“.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Wócyńśo zasej kuždy cas swóje kupki rejtarikow z menija Wšykne rejtariki nalicyś.
 tab-groups-onboarding-dismiss = W pórěźe

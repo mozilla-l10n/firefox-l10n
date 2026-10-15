@@ -75,6 +75,8 @@ about-private-browsing-felt-privacy-v1-info-link = Хто може бачити 
 
 about-private-browsing-nova-info-body = Закриття всіх приватних вікон видаляє файли cookie, історію та дані сайтів.
 about-private-browsing-nova-info-link = Хто все ще може бачити мою активність?
+about-private-browsing-private-window-basics-link = Основи роботи з приватними вікнами
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } розроблено для захисту вашої приватності під час перегляду завдяки вбудованим засобам захисту від стеження. Закриття цього вікна призводить до стирання історії, файлів cookie та даних вебсайтів, щоб захистити вашу приватність від інших користувачів цього пристрою.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -83,4 +85,21 @@ about-private-browsing-nova-info-subheader2 = Ми зітремо всі ваш�
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Основи роботи з приватними вікнами
+about-private-browsing-spotlight-basics-subtitle = Приватні вікна допомагають зберегти приватність вашого перегляду від інших користувачів цього пристрою. Вони не забезпечують анонімності та не очищують усі ваші дані.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Що варто знати
+about-private-browsing-spotlight-basics-activity-seen = Вебсайти, пошукові системи, постачальники інтернету чи ваш роботодавець все одно можуть бачити вашу діяльність.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Закладки та завантаження зберігаються на вашому пристрої й можуть бути показані на панелі адреси.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Ще кращий захист приватності
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } автоматично попереджає вас про шкідливе програмне забезпечення та підозрілі сайти.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } автоматично просить сайти учасників не продавати та не передавати ваші персональні дані.
+about-private-browsing-spotlight-basics-vpn = Використовуйте вбудований VPN, щоб ускладнити відстеження вашого розташування.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = У налаштуваннях увімкніть Надійний режим, щоб забезпечити кращий захист від стеження.
 about-private-browsing-spotlight-basics-learn-more = Докладніше
