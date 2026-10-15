@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Mynd i linell
+view-source-go-to-line-text = Rhowch rif y llinell
 view-source-invalid-input-title = Mewnbwn annilys
 view-source-invalid-input-text = Mae'r rhif roddwyd yn annilys.
 view-source-out-of-range-title = Heb ganfod y llinell
