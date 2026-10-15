@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Prejsť na riadok
+view-source-go-to-line-text = Zadajte číslo riadka
 view-source-invalid-input-title = Nesprávna hodnota
 view-source-invalid-input-text = Zadané číslo riadka je nesprávne.
 view-source-out-of-range-title = Riadok nebol nájdený.
