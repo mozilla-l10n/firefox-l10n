@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = l
 view-source-context-wrap-long-lines =
     .label = Encapsular linhas longas
+view-source-context-highlight-syntax =
+    .label = Realce de sintaxe
