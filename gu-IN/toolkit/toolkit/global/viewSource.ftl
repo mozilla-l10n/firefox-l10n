@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = લાંબા વાક્યોને લપેટો
+view-source-context-highlight-syntax =
+    .label = સિન્ટેક્સ પ્રકાશિત કરો
