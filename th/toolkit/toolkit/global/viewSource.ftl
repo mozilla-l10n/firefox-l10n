@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = ไปยังบรรทัดที่
+view-source-go-to-line-text = ป้อนหมายเลขบรรทัด
 view-source-invalid-input-title = ข้อมูลนำเข้าผิดพลาด
 view-source-invalid-input-text = หมายเลขบรรทัดที่ป้อนผิดพลาด
 view-source-out-of-range-title = ไม่พบบรรทัด
