@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = מעבר לשורה
+view-source-go-to-line-text = הכנס מספר שורה
 view-source-invalid-input-title = קלט לא חוקי
 view-source-invalid-input-text = מספר השורה שהוכנס אינו חוקי.
 view-source-out-of-range-title = שורה לא נמצאה
