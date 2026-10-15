@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = מי יכול לראות את
 
 about-private-browsing-nova-info-body = סגירת כל החלונות הפרטיים שלך מוחקת את העוגיות, ההיסטוריה ונתוני האתרים שלך.
 about-private-browsing-nova-info-link = מי יכול עדיין לראות את הפעילות שלי?
+about-private-browsing-private-window-basics-link = מידע על החלון הפרטי
 about-private-browsing-private-window-redesign-subheader = ‏{ -brand-short-name } נבנה כדי להגן על הפרטיות שלך בזמן הגלישה, עם הגנות מובנות מפני מעקב. סגירת חלון זה מוחקת את היסטוריית הגלישה, העוגיות ונתוני האתרים שלו כדי לשמור על פרטיות הגלישה שלך מפני אחרים המשתמשים במכשיר זה.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
@@ -84,6 +85,7 @@ about-private-browsing-nova-info-subheader2 = אנחנו נמחק כל חיפו�
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = מידע על החלון הפרטי
 about-private-browsing-spotlight-basics-subtitle = חלונות פרטיים מסייעים לשמור על פרטיות הגלישה שלך מפני אחרים במכשיר זה. הם לא הופכים אותך לאלמוני או מוחקים את כל הנתונים שלך.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
