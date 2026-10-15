@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = Ultima visita
 sidebar-history-sort-option-most-visited =
     .label = Più visitati
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Manca qualcosa? Recupera la cronologia da un altro browser.
+sidebar-history-import-promo-button =
+    .label = Importa in { -brand-short-name }
 
 ## Labels for sidebar search
 
