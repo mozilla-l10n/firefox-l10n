@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Ir a línea
+view-source-go-to-line-text = Ingresa el número de línea
 view-source-invalid-input-title = Entrada no válida
 view-source-invalid-input-text = El número de línea ingresado no es válido.
 view-source-out-of-range-title = Línea no encontrada
@@ -22,3 +24,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Dividir líneas largas
+view-source-context-highlight-syntax =
+    .label = Resaltar sintaxis
