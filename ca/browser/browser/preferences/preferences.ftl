@@ -1225,6 +1225,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = Gestioneu què voleu sincronitzar en tots els vostres dispositius connectats
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Desa
+    .buttonlabelextra2 = Desconnecta…
+    .buttonaccesskeyaccept = D
+    .buttonaccesskeyextra2 = e
+    .style = min-width: 36em;
+    .title = Gestioneu què se sincronitza en aquest dispositiu
 
 ## The device name controls.
 
@@ -2131,6 +2138,9 @@ preferences-ai-controls-key-points-control =
 preferences-ai-controls-speech-recognition-control =
     .description = Transcriviu la parla en local.
     .label = Reconeixement de la parla
+preferences-ai-controls-sidebar-chatbot-group-3 =
+    .description = Mostra un bot de conversa d’IA mentre navegueu. Podeu triar entre diversos proveïdors i canviar-los en qualsevol moment.
+    .label = Proveïdors de bot de conversa d’IA a la barra lateral
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Disponible
