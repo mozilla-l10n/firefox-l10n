@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = এই লাইনে যান
+view-source-go-to-line-text = লাইন নম্বর লিখুন
 view-source-invalid-input-title = অকার্যকর ইনপুট
 view-source-invalid-input-text = উল্লিখিত লাইন নম্বরটি অকার্যকর।
 view-source-out-of-range-title = লাইন পাওয়া যায়নি
