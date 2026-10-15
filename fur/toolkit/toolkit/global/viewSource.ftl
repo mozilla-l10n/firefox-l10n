@@ -5,6 +5,12 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Va ae rie
+view-source-go-to-line-text = Inserìs numar di rie
+view-source-invalid-input-title = Valôr invalit
+view-source-invalid-input-text = Il numar di rie inserît nol è valit.
+view-source-out-of-range-title = Rie no cjatade
+view-source-out-of-range-text = La rie specificade no je stade cjatade.
 
 ##
 
