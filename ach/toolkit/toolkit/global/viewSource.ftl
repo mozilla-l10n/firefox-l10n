@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Cit i rek
+view-source-go-to-line-text = Ket wel me rek
 view-source-invalid-input-title = Ket mape tye atir
 view-source-invalid-input-text = Wel me rek ma kiketo ni petye atir.
 view-source-out-of-range-title = Rek pe ononge
