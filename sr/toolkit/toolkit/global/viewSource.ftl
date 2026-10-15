@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Прелазак на ред
+view-source-go-to-line-text = Унесите број реда
 view-source-invalid-input-title = Неисправан унос
 view-source-invalid-input-text = Унети број реда је неисправан.
 view-source-out-of-range-title = Ред није пронађен
