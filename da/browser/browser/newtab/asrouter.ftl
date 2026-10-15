@@ -291,9 +291,6 @@ tail-fox-spotlight-subtitle = Sig farvel til sporing via reklamer og goddag til 
 tail-fox-spotlight-primary-button = Åbn mine links med { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ikke nu
 
-## Welcome Back Spotlight and Import
-
-
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Ældre versioner af { -brand-short-name } kan begynde at få problemer den 14. januar 2025.</strong>
@@ -490,9 +487,3 @@ refresh-unused-profile-infobar-message = Det ser ud som om, du ikke har brugt { 
 refresh-reinstalled-profile-infobar-message = Det ser ud som om, du har geninstalleret { -brand-short-name }. Skal vi rydde op, så du får en frisk start?
 refresh-profile-infobar-button = Nulstil { -brand-short-name }…
     .accesskey = N
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Åbn tidligere faneblade?</strong> Du kan gendanne din tidligere session fra programmenuen i { -brand-short-name } <img data-l10n-name="icon"/> under Historik.
-restore-session-startup-suggestion-button = Vis mig hvordan

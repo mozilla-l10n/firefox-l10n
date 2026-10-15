@@ -521,9 +521,3 @@ refresh-unused-profile-infobar-message = Úgy tűnik, a { -brand-short-name } ne
 refresh-reinstalled-profile-infobar-message = Úgy tűnik, újratelepítette a { -brand-short-name }ot. Szeretné kitakarítani, hogy friss, újszerű állapotba kerüljön?
 refresh-profile-infobar-button = { -brand-short-name } felfrissítése…
     .accesskey = f
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Megnyitná az előző lapokat?</strong> Visszaállíthatja az előző munkamenetét a { -brand-short-name } alkalmazásmenüben <img data-l10n-name="icon"/>, az Előzmények alatt.
-restore-session-startup-suggestion-button = Mutassa meg hogyan

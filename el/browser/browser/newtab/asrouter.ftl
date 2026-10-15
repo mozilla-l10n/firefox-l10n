@@ -513,9 +513,3 @@ refresh-unused-profile-infobar-message = Φαίνεται ότι δεν έχετ
 refresh-reinstalled-profile-infobar-message = Φαίνεται ότι έχετε εγκαταστήσει εκ νέου το { -brand-short-name }. Θέλετε να το επαναφέρετε για μια ολοκαίνουρια εμπειρία;
 refresh-profile-infobar-button = Ανανέωση του { -brand-short-name }…
     .accesskey = ω
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Άνοιγμα προηγούμενων καρτελών;</strong> Μπορείτε να ανακτήσετε την προηγούμενη συνεδρία σας από το μενού εφαρμογής του { -brand-short-name } <img data-l10n-name="icon"/>, στην ενότητα «Ιστορικό».
-restore-session-startup-suggestion-button = Εμφάνιση οδηγιών

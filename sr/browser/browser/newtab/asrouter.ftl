@@ -523,9 +523,3 @@ refresh-unused-profile-infobar-message = Изгледа да нисте покр
 refresh-reinstalled-profile-infobar-message = Изгледа да сте реинсталирали { -brand-short-name }. Желите да га очистимо да имате свеже и ново искуство?
 refresh-profile-infobar-button = Освежи { -brand-short-name }…
     .accesskey = ж
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Отворити претходне језичке?</strong> Можете повратити претходну сесију из менија програма { -brand-short-name } <img data-l10n-name="icon"/>, у одељку Историја.
-restore-session-startup-suggestion-button = Покажи ми како

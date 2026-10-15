@@ -521,9 +521,3 @@ refresh-unused-profile-infobar-message = Het lijkt erop dat u { -brand-short-nam
 refresh-reinstalled-profile-infobar-message = Het lijkt erop dat u { -brand-short-name } opnieuw hebt geïnstalleerd. Wilt u dat we het opschonen voor een frisse ‘als nieuw’-ervaring?
 refresh-profile-infobar-button = { -brand-short-name } opfrissen…
     .accesskey = e
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Eerdere tabbladen openen?</strong> U kunt uw vorige sessie herstellen vanuit het toepassingsmenu van { -brand-short-name } <img data-l10n-name="icon"/>, onder Geschiedenis.
-restore-session-startup-suggestion-button = Tonen hoe

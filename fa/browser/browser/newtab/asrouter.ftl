@@ -520,9 +520,3 @@ refresh-unused-profile-infobar-message = به نظر می‌رسد مدتی اس
 refresh-reinstalled-profile-infobar-message = به نظر می‌رسد شما نیاز به نصب مجدد { -brand-short-name } دارید. می‌خواهید ما آن را کاملا پاک و مثل یک تجربه جدید کنیم؟
 refresh-profile-infobar-button = نوسازی { -brand-short-name }…
     .accesskey = ب
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>می‌خواهید زبانه‌های قبلی باز شوند؟</strong> می‌توانید نشست پیشین خود را از منوی { -brand-short-name } <img data-l10n-name="icon"/> و بخش تاریخچه بازیابی کنید.
-restore-session-startup-suggestion-button = روش انجام را نشان بده

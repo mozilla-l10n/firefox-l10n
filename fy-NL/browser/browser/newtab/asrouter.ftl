@@ -521,9 +521,3 @@ refresh-unused-profile-infobar-message = It liket as oft jo { -brand-short-name 
 refresh-reinstalled-profile-infobar-message = It liket as oft jo { -brand-short-name } opnij ynstallearre hawwe. Wolle jo it opskjinje foar in fris ‘lykas-nij’-ûnderfining?
 refresh-profile-infobar-button = { -brand-short-name } fernije…
     .accesskey = e
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Eardere ljepblêden iepenje?</strong> Jo kinne jo foarige sesje werstelle fan it tapassingsmenu fan { -brand-short-name } <img data-l10n-name="icon"/> út, ûnder Skiednis.
-restore-session-startup-suggestion-button = Toane hoe

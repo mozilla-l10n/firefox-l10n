@@ -471,9 +471,3 @@ refresh-unused-profile-infobar-message = Կարծես դուք տևական ժա
 refresh-reinstalled-profile-infobar-message = Կարծես, թե դուք վերատեղադրվել եք { -brand-short-name }-ը: Ցանկանու՞մ եք, որ մենք մաքրենք այն ինչպես նոր տեղադրում:
 refresh-profile-infobar-button = Թարմացնել { -brand-short-name }-ը…
     .accesskey = ա
-
-## Infobar shown at startup to suggest session-restore
-
-# <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Բացե՞լ նախորդ ներդիրները:</strong>Դուք կարող եք վերականգնել նախորդ աշխատաշրջանը { -brand-short-name }-ի հավելվածների ցանկից՝ <img data-l10n-name="icon"/>, Պատմության ներքո:
-restore-session-startup-suggestion-button = Ցույց տուր ինձ, թե ինչպես
