@@ -5,6 +5,12 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = উল্লিখিত পংক্তি সংখ্যা দেখুন
+view-source-go-to-line-text = পংক্তি সংখ্যা লিখুন
+view-source-invalid-input-title = অবৈধ মান
+view-source-invalid-input-text = উল্লিখিত পংক্তি সংখ্যা বৈধ নয়।
+view-source-out-of-range-title = পংক্তি পাওয়া যায়নি
+view-source-out-of-range-text = উল্লিখিত পংক্তিটি পাওয়া যায়নি।
 
 ##
 
@@ -13,3 +19,10 @@ view-source-selection-title = নির্বাচিত অংশের DOM �
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = লাইনে যান...
+    .accesskey = L
+view-source-context-wrap-long-lines =
+    .label = অতিরিক্ত লম্বা পংক্তি বিভাজন করে প্রদর্শিত হবে
+view-source-context-highlight-syntax =
+    .label = সিনট্যাক্স হাইলাইট করা
