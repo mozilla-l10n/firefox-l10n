@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = G
 view-source-context-wrap-long-lines =
     .label = Vou lang reëls om
+view-source-context-highlight-syntax =
+    .label = Sintaksverligting
