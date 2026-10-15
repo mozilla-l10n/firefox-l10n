@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = E
 view-source-context-wrap-long-lines =
     .label = Laužyti ilgas eilutes
+view-source-context-highlight-syntax =
+    .label = Sintaksės paryškinimas
