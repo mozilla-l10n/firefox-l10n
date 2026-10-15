@@ -281,6 +281,19 @@ ip-protection-site-exceptions-all-sites-button =
            *[many] { $count } witryn
         }
     .label = Ustawienia witryn
+ip-protection-site-rules-header-1 =
+    .heading = Zarządzaj regułami VPN
+ip-protection-site-rules-button-1 =
+    .description = Ustaw reguły dla witryn wymagających dodatkowej prywatności lub wyłączonej sieci VPN.
+    .label = Zarządzaj regułami VPN
+ip-protection-site-rules-list-section =
+    .description = Wybierz sposób działania VPN dla witryn wymagających dodatkowej prywatności lub wyłączonej sieci VPN.
+    .label = Reguły dla witryn
+ip-protection-site-rules-add-button =
+    .label = Ustaw regułę
+ip-protection-site-rules-delete-all-button =
+    .label = Usuń wszystkie reguły
+ip-protection-site-rules-empty = Tutaj będą wyświetlane ustawione reguły.
 ip-protection-site-rules-header =
     .heading = Zarządzaj regułami dla witryn
 ip-protection-site-rules-button =

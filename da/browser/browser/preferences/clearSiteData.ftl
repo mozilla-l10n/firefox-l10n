@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 clear-site-data-window2 =
-    .title = Ryd data
     .style = min-width: 35em
+    .title = Ryd data
 clear-site-data-description = Ved at rydde cookies og webstedsdata logger { -brand-short-name } dig muligvis ud fra websteder, og offline webstedsdata kan blive fjernet. Det påvirker ikke dine logins at rydde cache-data
 clear-site-data-close-key =
     .key = w
@@ -39,7 +39,7 @@ clear-site-data-cache-with-data =
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Cached webstedsindhold
+    .label = Cached web-indhold
     .accesskey = w
 clear-site-data-cache-info = Tvinger websteder til at genindlæse billeder og data
 clear-site-data-dialog =
