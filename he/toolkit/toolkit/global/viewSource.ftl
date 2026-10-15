@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = ש
 view-source-context-wrap-long-lines =
     .label = גלישת שורות ארוכות
+view-source-context-highlight-syntax =
+    .label = הדגשת תחביר
