@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = ಉದ್ದ ಸಾಲುಗಳನ್ನು ಆವರಿಸು
+view-source-context-highlight-syntax =
+    .label = ವಾಕ್ಯರಚನೆಯನ್ನು ಹೈಲೈಟ್‌ ಮಾಡುವಿಕೆ
