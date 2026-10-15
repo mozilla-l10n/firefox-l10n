@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = l
 view-source-context-wrap-long-lines =
     .label = Pikad read murtakse
+view-source-context-highlight-syntax =
+    .label = Süntaks tuuakse esile
