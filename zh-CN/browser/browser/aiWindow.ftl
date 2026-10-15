@@ -60,7 +60,7 @@ aiwindow-input-cta-menu-label-chat = 询问
 aiwindow-input-cta-menu-label-navigate = 前往网站
 # $searchEngineName (string) - The name of the default search engine
 aiwindow-input-cta-menu-label-search = 用 { $searchEngineName } 搜索
-aiwindow-input-cta-menu-label-search-with = 本次搜索使用…
+aiwindow-input-cta-menu-label-search-with = 选择搜索引擎…
 aiwindow-input-cta-search-submenu-header = 搜索
 aiwindow-input-cta-stop-button =
     .aria-label = 停止生成回复
