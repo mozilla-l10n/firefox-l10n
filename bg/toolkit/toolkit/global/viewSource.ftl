@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Към ред
+view-source-go-to-line-text = Въведете номер на ред
 view-source-invalid-input-title = Невалидни входни данни
 view-source-invalid-input-text = Въведеният номер на ред е невалиден.
 view-source-out-of-range-title = Не намерен ред
