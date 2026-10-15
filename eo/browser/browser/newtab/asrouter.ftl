@@ -513,3 +513,9 @@ refresh-unused-profile-infobar-message = Ŝajne vi de longe ne komencis { -brand
 refresh-reinstalled-profile-infobar-message = Ŝajne vi reinstalis { -brand-short-name }. Ĉu vi volas ordigi kaj purigi ĝin por sperti freŝan, kvazaŭ unuafojan sperton?
 refresh-profile-infobar-button = Refreŝigi { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Ĉu malfermi antaŭajn langetojn?</strong> Vi povas restarigi vian antaŭan seancon el la menuo de la programo { -brand-short-name } <img data-l10n-name="icon"/>, Sub Historio.
+restore-session-startup-suggestion-button = Montri al mi kiel fari tion
