@@ -397,12 +397,18 @@ onboarding-checklist-remove-2 = Тексеру тізімін өшіру
 
 tab-groups-onboarding-feature-callout-title = Артық шашыраңқылықты азайтып, зейінді арттыру үшін беттер топтарын қолданып көріңіз.
 tab-groups-onboarding-feature-callout-subtitle = Алғашқы беттер тобыңызды жасау үшін бір бетті екіншісінің үстіне сүйреп апарыңыз, осылайша ретпен ұйымдастыра аласыз.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Беттер топтарын кез келген уақытта «Беттерді іздеу және басқару» мәзірінен таба аласыз.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Беттер топтарын кез келген уақытта Барлық беттер тізімін шығару мәзірінен табыңыз.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Топтарыңызды адрестік жолақтан іздеу арқылы табыңыз.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Беттер тобын жапқан кезде, оны кез келген уақытта «Беттерді іздеу және басқару» мәзірінен қайта аша аласыз.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Беттер тобын жапқан кезде, оны кез келген уақытта Барлық беттер тізімін шығару мәзірінен қайта ашыңыз.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Жабылған топтарыңызды адрестік жолақтан іздеу арқылы табыңыз.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Беттер тобын кез келген уақытта «Беттерді іздеу және басқару» мәзірінен қайта аша аласыз.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Беттер топтарын кез келген уақытта Барлық беттер тізімін шығару мәзірінен қайта ашыңыз.
 tab-groups-onboarding-dismiss = ОК

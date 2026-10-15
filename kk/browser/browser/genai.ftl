@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = HuggingChat таңдау арқылы с
 genai-settings-chat-lechat-links-2 = Mistral Vibe таңдау арқылы сіз Mistral AI ұйымының <a data-l10n-name="link1">Қызмет көрсету шарттары</a> және <a data-l10n-name="link2">Жекелік саясаты</a> шарттарымен келісесіз.
 genai-settings-chat-lechat-links = Le Chat Mistral таңдау арқылы сіз Mistral AI ұйымының <a data-l10n-name="link1">Қызмет көрсету шарттары</a> және <a data-l10n-name="link2">Жекелік саясаты</a> шарттарымен келісесіз.
 genai-settings-chat-localhost-links = { -vendor-short-name } инновациялар тобынан <a data-l10n-name="link1">llamafile</a> сияқты жеке жергілікті чат-ботты жасаңыз.
+genai-settings-chat-scout-links = Yahoo Scout таңдау арқылы сіз Yahoo ұйымының <a data-l10n-name="link1">Қызмет көрсету шарттары</a> және <a data-l10n-name="link2">Жекелік саясаты</a> шарттарымен келісесіз.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -178,6 +179,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = ЖИ чат-ботын бетті ауыстырмай қолдану

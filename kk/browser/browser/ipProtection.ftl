@@ -280,6 +280,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } веб-сайт
         }
     .label = Веб-сайт баптауларын басқару
+ip-protection-site-rules-header-1 =
+    .heading = VPN ережелерін басқару
+ip-protection-site-rules-button-1 =
+    .description = Қосымша жекелікті қажет ететін немесе VPN сөндірілген сайттар үшін ережелерді орнату.
+    .label = VPN ережелерін басқару
+ip-protection-site-rules-list-section =
+    .description = Қосымша жекелікті қажет ететін немесе VPN өшірілген сайттар үшін VPN қалай жұмыс істейтінін таңдаңыз.
+    .label = Веб-сайт ережелері
+ip-protection-site-rules-add-button =
+    .label = Ережені орнату
+ip-protection-site-rules-delete-all-button =
+    .label = Барлық ережелерді өшіру
+ip-protection-site-rules-empty = Сіз орнатқан ережелер осы жерде көрсетіледі.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN әрқашан іске қосулы
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN әрқашан сөндірулі
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = { $website } үшін ережені түзету
+    .title = Түзету
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = { $website } үшін ережені өшіру
+    .title = Өшіру
 ip-protection-site-rules-header =
     .heading = Веб-сайт ережелерін басқару
 ip-protection-site-rules-button =
@@ -303,6 +330,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Веб-сайт баптауларын басқару
 ip-protection-exclusions-desc = Осы тізімдегілерден басқа барлық веб-сайттар үшін VPN пайдаланыңыз. Веб-сайтты осы жерге немесе VPN ашу арқылы қосыңыз.
+ip-protection-site-rule-window =
+    .title = Ережені орнату
+ip-protection-edit-site-rule-window =
+    .title = Ережені түзету
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Орнату
+    .buttonaccesskeyaccept = О
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Сақтау
+    .buttonaccesskeyaccept = С
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Сайтты енгізіңіз, содан кейін оның VPN қалып-күйін таңдаңыз.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Веб-сайт
+    .placeholder = мысалы: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN қалып-күйі
+ip-protection-site-rule-status-on =
+    .label = Әрқашан іске қосулы
+ip-protection-site-rule-status-off =
+    .label = Әрқашан сөндірулі
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Жарамды веб-сайт адресін енгізіңіз.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Бұл сайттың ережесі бар.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Ереже жасау қатесі. Қайталап көріңіз.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = { $website } үшін ережені өшіру керек пе?
+ip-protection-delete-site-rule-cancel =
+    .label = Бас тарту
+ip-protection-delete-site-rule-confirm =
+    .label = Өшіру
+ip-protection-delete-all-site-rules-message = Барлық веб-сайт ережелерін өшіру керек пе?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Барлық ережелерді өшіру
 
 ## IP Protection Bandwidth
 

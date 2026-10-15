@@ -564,6 +564,11 @@ newtab-recent-searches-empty-trending = Трендтегі іздеулер қа
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Гороскоптар
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Гороскоп мәзірін ашу
+    .title = Гороскоп мәзірін ашу
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Гороскоптар опциялары
