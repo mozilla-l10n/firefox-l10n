@@ -60,7 +60,6 @@ jobs:
         id: recipes
         run: python "$SCRIPT" check
         env:
-          # Read-only token, used to list open PRs in firefox-l10n.
           GH_TOKEN: ${{ github.token }}
 
       - name: Checkout firefox-l10n-source
