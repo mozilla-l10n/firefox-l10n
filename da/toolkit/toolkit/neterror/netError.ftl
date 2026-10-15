@@ -213,6 +213,7 @@ fp-neterror-offline-body-title = Det ser ud til, at der er et problem med din in
 
 fp-neterror-connection-intro = { -brand-short-name } kan ikke oprette en sikker forbindelse til serveren på { $hostname }.
 fp-neterror-offline-intro = { -brand-short-name } kan ikke oprette forbindelse til serveren <strong>{ $hostname }</strong>
+fp-neterror-offline-intro-2 = { -brand-short-name } kan ikke oprette forbindelse til serveren <strong>{ $hostname }</strong>.
 fp-neterror-net-timeout-intro = Serveren <strong>{ $hostname }</strong> er for lang tid om at svare.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.

@@ -1298,7 +1298,7 @@ navbar-library =
     .label = Biblioteka
     .tooltiptext = Wyświetl historię, zachowane zakładki i jeszcze więcej
 navbar-search =
-    .title = Znajdź
+    .title = Szukaj
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
@@ -1306,6 +1306,9 @@ tabs-toolbar =
     .aria-label = Karty przeglądarki
 tabs-toolbar-new-tab =
     .label = Nowa karta
+tabs-toolbar-list-all-tabs-2 =
+    .label = Szukaj w kartach
+    .tooltiptext = Szukaj w kartach
 tabs-toolbar-list-all-tabs =
     .label = Pokaż wszystkie karty
     .tooltiptext = Pokaż wszystkie karty

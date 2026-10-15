@@ -5,7 +5,7 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] Rozwiń, by wyświetlić historię
+            [macos] Rozwiń, aby wyświetlić historię
            *[other] Kliknij prawym przyciskiem lub rozwiń, aby wyświetlić historię
         }
 
