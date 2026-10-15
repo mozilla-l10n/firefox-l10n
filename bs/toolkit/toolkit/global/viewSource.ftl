@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = l
 view-source-context-wrap-long-lines =
     .label = Prelomi duge linije
+view-source-context-highlight-syntax =
+    .label = Isticanje sintakse
