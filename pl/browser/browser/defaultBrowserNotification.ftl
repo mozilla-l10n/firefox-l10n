@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Gotowe
 default-browser-guidance-notification-v2-title = Dokończ ustawianie { -brand-short-name(case: "gen") } jako domyślną przeglądarkę
 default-browser-guidance-notification-v2-body = W Ustawieniach zaznacz „Ustaw jako domyślne” przy { -brand-short-name(case: "loc") }.
 default-browser-guidance-notification-v2-title-only = Dokończ ustawianie { -brand-short-name(case: "gen") } jako domyślną przeglądarkę w Ustawieniach
+default-browser-guidance-notification-auto-trigger-title = Otwieraj odnośniki w { -brand-short-name(case: "loc") }
+default-browser-guidance-notification-auto-trigger-body = Wybierz { -brand-short-name(case: "acc") } jako domyślną przeglądarkę w Ustawieniach.
