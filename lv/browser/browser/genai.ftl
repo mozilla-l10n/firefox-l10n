@@ -12,6 +12,7 @@ genai-settings-chat-gemini-links = Ar Google Gemini izvēlēšanos tiek piekrist
 genai-settings-chat-huggingchat-links = Izvēloties HuggingChat, jūs piekrītat <a data-l10n-name="link1">HuggingChat privātuma paziņojumam</a> un <a data-l10n-name="link2">Hugging Face privātuma politikai</a>.
 genai-settings-chat-lechat-links = Izvēloties Le Chat Mistral, jūs piekrītat Mistral AI <a data-l10n-name="link1">pakalpojumu sniegšanas noteikumiem</a> un <a data-l10n-name="link2">privātuma politikai</a>.
 genai-settings-chat-localhost-links = Ienesiet savu privāto vietējo tērzēšanas robotu, piemēram, <a data-l10n-name="link1">llamafile</a> no { -vendor-short-name } inovāciju grupas.
+genai-settings-chat-scout-links = Ar Yahoo Scout izvēlēšanos tiek piekrists Yahoo <a data-l10n-name="link1">pakalpojuma izmantošanas noteikumiem</a> un <a data-l10n-name="link2">privātuma pamatnostādnēm</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -69,6 +70,8 @@ genai-input-ask-provider =
 ## Chatbot onboarding
 
 genai-onboarding-primary = Turpināt
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 
 ## Model Optin Component
 

@@ -103,11 +103,57 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN šai vietnei ir 
 ## IP Protection Settings
 
 ip-protection-learn-more = Uzzināt vairāk
+ip-protection-site-rules-header-1 =
+    .heading = Pārvaldīt VPN kārtulas
+ip-protection-site-rules-button-1 =
+    .description = Kārtulu iestatīšana vietnēm, kurās ir nepieciešams papildu privātums vai izslēgts VPN.
+    .label = Pārvaldīt VPN kārtulas
+ip-protection-site-rules-list-section =
+    .description = Izvēlies, kā VPN darbojas vietnēs, kurās ir nepieciešams papildu privātums vai izslēgts VPN!
+    .label = Tīmekļvietņu kārtulas
+ip-protection-site-rules-add-button =
+    .label = Iestatīt kārtulu
+ip-protection-site-rules-delete-all-button =
+    .label = Izdzēst visas kārtulas
+ip-protection-site-rules-empty = Iestatītas kārtulas parādīsies šeit.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN vienmēr ieslēgts
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN vienmēr izslēgts
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Labot { $website } kārtulu
+    .title = Labot
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Izdzēst { $website } kārtulu
+    .title = Izdzēst
 ip-protection-site-rules-header =
     .heading = Pārvaldīt tīmekļvietnes kārtulas
 ip-protection-site-rules-button =
     .description = Kārtulu iestatīšana vietnēm, kurās ir nepieciešams papildu privātums vai izslēgts VPN.
     .label = Pārvaldīt tīmekļvietnes kārtulas
+
+## IP Protection dialogs
+
+ip-protection-site-rule-window =
+    .title = Iestatīt kārtulu
+ip-protection-edit-site-rule-window =
+    .title = Labot kārtulu
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Iestatīt
+    .buttonaccesskeyaccept = s
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Saglabāt
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Jāievada vietne, tad jāatlasa tās VPN stāvoklis.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Tīmekļvietne
+    .placeholder = piem.: acme.com
 
 ## IP Protection bandwidth reset callout
 
