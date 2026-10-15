@@ -22,7 +22,7 @@
 -brand-shortcut-name = Firefox
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
-# remain unchanged across different versions (Nightly, Beta, etc.).
+# remain unchanged across different versions (Nightly, Beta, etc.). 
 -brand-product-name = Firefox
 -vendor-short-name = Mozilla
 trademarkInfo = Firefox y los logotipos de Firefox son marques rexistraes de Mozilla Foundation.
