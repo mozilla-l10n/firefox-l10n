@@ -42,9 +42,13 @@ bookmark-overlay-keyword-caption-label-2 = Utilizza una singola parola chiave pe
 
 ## Bookmark properties dialog
 
+bookmark-properties-save-button =
+    .label = Salva
 
 ## Titles of the dialog used to add or edit bookmarks and folders.
 
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nuovi segnalibri
 
 ## Default names for newly created bookmarks and folders.
 
