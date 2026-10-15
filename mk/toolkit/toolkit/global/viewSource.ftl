@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Оди до линијата
+view-source-go-to-line-text = Внесете број на линија
 view-source-invalid-input-title = Погрешно внесување на податоци
 view-source-invalid-input-text = Внесениот број на линија не е важечки.
 view-source-out-of-range-title = Линијата не е пронајдена
