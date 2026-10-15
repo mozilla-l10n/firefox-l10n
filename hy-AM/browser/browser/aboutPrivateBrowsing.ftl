@@ -54,6 +54,8 @@ about-private-browsing-pin-promo-title = Ոչ մի պահված թխուկ կա�
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = Օգնեք կանխել մուտքային արկղի սպամը՝ օգտագործելով էլ. փոստի դիմակներ
+about-private-browsing-relay-promo-title = Թաքցրեք ձեր իրական հասցեն էլ. փոստի դիմակով, երբ գրանցվում, գնումներ եք կատարում կամ կիսվում եք այն առցանց։
 about-private-browsing-relay-promo-link-text = Փորձեք էլ. փոստի դիմակներ
 
 ## Strings used in a promotion message for cookie banner reduction
@@ -61,6 +63,7 @@ about-private-browsing-relay-promo-link-text = Փորձեք էլ. փոստի դ�
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }-ը հոգ է տանում թխուկների երիզների մասին
+about-private-browsing-cookie-banners-promo-body = Մենք այժմ ավտոմատ կերպով մերժում ենք բազմաթիվ cookie պաստառներ, որպեսզի ձեզ ավելի քիչ հետևեն և վերադառնանք շեղող գործոններից զերծ դիտարկմանը։
 
 ## Strings for the info section of about:privatebrowsing
 
@@ -73,6 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = Ո՞վ կարող է տեսն
 about-private-browsing-nova-info-body = Բոլոր անձնական պատուհանները փակելը կջնջի ձեր թխուկները, պատմությունը և կայքի տվյալները։
 about-private-browsing-nova-info-link = Ո՞վ կարող է դեռ տեսնել իմ գործունեությունը։
 about-private-browsing-private-window-basics-link = Գաղտնի պատուհանի հիմունքներ
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name }-ը նախատեսված է ձեր գաղտնիությունը պաշտպանելու համար դիտարկելիս՝ ներկառուցված հետևողականության պաշտպանությամբ: Այս պատուհանը փակելով՝ ջնջվում է դրա պատմությունը, թխուկները և կայքի տվյալները՝ ձեր զննարկումը գաղտնի պահելու համար այս սարքն օգտագործող այլ անձանցից:
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -82,4 +86,20 @@ about-private-browsing-nova-info-subheader2 = Մենք կջնջենք բոլոր
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Գաղտնի պատուհանի հիմունքներ
+about-private-browsing-spotlight-basics-subtitle = Գաղտնի պատուհանն օգնում է ձեր դիտարկումը գաղտնի պահել այս սարքի վրա գտնվող այլ մարդկանցից: Դրանք ձեզ անանուն չեն դարձնում կամ չեն ջնջում ձեր բոլոր տվյալները:
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Ինչ պետք է իմանալ
+about-private-browsing-spotlight-basics-activity-seen = Որոշակի գործունեություն դեռևս կարող է տեսանելի լինել կայքերի, որոնողական համակարգերի, ինտերնետ մատակարարների կամ ձեր գործատուի կողմից։
+about-private-browsing-spotlight-basics-bookmarks-downloads = Էջանիշներն ու ներբեռնումները մնում են ձեր սարքում և կարող են հայտնվել հասցեագոտում։
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Ավելի շատ գաղտնիության պաշտպանություններ
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name }-ը ավտոմատ կերպով տեղեկացնում է ձեզ վնասակար ծրագրերի և խաբուսիկ կայքերի մասին։
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name }-ը ավտոմատ կերպով խնդրում է մասնակից կայքերին չվաճառել կամ չկիսվել ձեր անձնական տվյալներով։
+about-private-browsing-spotlight-basics-vpn = Օգտագործեք ներկառուցված VPN՝ ձեր գտնվելու վայրը դժվարացնելով հետևելը։
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Ավելի ուժեղ հետևողականության պաշտպանության համար կարգավորումներում անցեք «Խիստ» ռեժիմի։
 about-private-browsing-spotlight-basics-learn-more = Իմանալ ավելին

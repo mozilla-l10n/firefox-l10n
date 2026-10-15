@@ -294,6 +294,20 @@ ip-protection-site-rules-add-button =
 ip-protection-site-rules-delete-all-button =
     .label = Usuń wszystkie reguły
 ip-protection-site-rules-empty = Tutaj będą wyświetlane ustawione reguły.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = Zawsze włączona sieć VPN
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = Zawsze wyłączona sieć VPN
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Edytuj regułę dla witryny „{ $website }”
+    .title = Edytuj
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Usuń regułę dla witryny „{ $website }”
+    .title = Usuń
 ip-protection-site-rules-header =
     .heading = Zarządzaj regułami dla witryn
 ip-protection-site-rules-button =
@@ -317,6 +331,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Ustawienia witryn
 ip-protection-exclusions-desc = Używaj VPN na wszystkich witrynach poza wymienionymi na tej liście. Dodaj witrynę w tym miejscu lub otwierając VPN.
+ip-protection-site-rule-window =
+    .title = Ustaw regułę
+ip-protection-edit-site-rule-window =
+    .title = Edytuj regułę
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Ustaw
+    .buttonaccesskeyaccept = U
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Zachowaj
+    .buttonaccesskeyaccept = Z
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Wpisz adres witryny, a następnie wybierz dla niej stan sieci VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Witryna
+    .placeholder = np.: example.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Stan sieci VPN
+ip-protection-site-rule-status-on =
+    .label = Zawsze włączona
+ip-protection-site-rule-status-off =
+    .label = Zawsze wyłączona
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Wpisz prawidłowy adres witryny.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Ta witryna już ma regułę.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Błąd podczas tworzenia reguły. Spróbuj ponownie.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Czy usunąć regułę dla witryny „{ $website }”?
+ip-protection-delete-site-rule-cancel =
+    .label = Anuluj
+ip-protection-delete-site-rule-confirm =
+    .label = Usuń
+ip-protection-delete-all-site-rules-message = Czy usunąć wszystkie reguły dla witryn?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Usuń wszystkie reguły
 
 ## IP Protection Bandwidth
 
