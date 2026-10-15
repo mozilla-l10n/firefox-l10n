@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Perėjimas į eilutę
+view-source-go-to-line-text = Įveskite eilutės numerį:
 view-source-invalid-input-title = Netinkama įvestis
 view-source-invalid-input-text = Įvestas netinkamas eilutės numeris.
 view-source-out-of-range-title = Eilutės nerasta
