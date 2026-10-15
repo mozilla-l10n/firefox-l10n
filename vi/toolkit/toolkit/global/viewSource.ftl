@@ -12,6 +12,13 @@ view-source-out-of-range-text = Không tìm thấy dòng được chỉ định.
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = Mã Nguồn DOM của Khối Đã Chọn
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = Đi tới dòng…
+    .accesskey = L
+view-source-context-wrap-long-lines =
+    .label = Cắt những dòng dài
