@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = Wybierając HuggingChat, zgadzasz się n
 genai-settings-chat-lechat-links-2 = Wybierając Mistral Vibe, zgadzasz się na <a data-l10n-name="link1">regulamin usługi</a> i <a data-l10n-name="link2">zasady ochrony prywatności</a> sztucznej inteligencji Mistral.
 genai-settings-chat-lechat-links = Wybierając Le Chat Mistral, zgadzasz się na <a data-l10n-name="link1">regulamin usługi</a> i <a data-l10n-name="link2">zasady ochrony prywatności</a> sztucznej inteligencji Mistral.
 genai-settings-chat-localhost-links = Dodaj własnego prywatnego lokalnego czatbota, takiego jak <a data-l10n-name="link1">llamafile</a> od grupy innowacji { -vendor-short-name(case: "gen") }.
+genai-settings-chat-scout-links = Wybierając Yahoo Scout, zgadzasz się na <a data-l10n-name="link1">regulamin usługi</a> i <a data-l10n-name="link2">zasady ochrony prywatności</a> Yahoo.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -24,6 +25,9 @@ genai-settings-chat-localhost-links = Dodaj własnego prywatnego lokalnego czatb
 genai-prompts-summarize =
     .label = Streść
     .value = Streść zaznaczony tekst za pomocą precyzyjnego i zwięzłego języka. Używaj nagłówków i list wypunktowanych w streszczeniu, aby było łatwiejsze do szybkiego przeczytania. Zachowaj znaczenie i rzetelność faktów.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Streść stronę pod adresem { $url } za pomocą precyzyjnego i zwięzłego języka. Używaj nagłówków i list wypunktowanych w streszczeniu, aby było łatwiejsze do szybkiego przeczytania. Zachowaj znaczenie i rzetelność faktów.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Uprość język
@@ -179,6 +183,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Korzystaj z czatbota opartego na sztucznej inteligencji bez przełączania kart
@@ -238,6 +244,14 @@ link-preview-settings-key-points =
     .label = Sztuczna inteligencja może odczytywać początek strony i generować podsumowanie
 link-preview-settings-long-press =
     .label = Skrót: kliknij i przytrzymaj odnośnik przez 1 sekundę (długie naciśnięcie)
+highlight-to-search-settings-enable =
+    .description = Szybki dostęp do pomocnych działań po zaznaczeniu treści.
+    .label = Wyświetlaj menu działań po zaznaczeniu tekstu
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Zapytaj { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Zapytaj sztuczną inteligencję
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcesz widzieć więcej dzięki sztucznej inteligencji?
 # Message that appears when user is shown the opt-in flow for link previews
