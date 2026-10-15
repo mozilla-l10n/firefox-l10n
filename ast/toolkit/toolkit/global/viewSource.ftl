@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Dir pa una llinia
+view-source-go-to-line-text = Introduz el númberu d'una llinia
 view-source-invalid-input-title = La entrada nun ye válida
 view-source-invalid-input-text = El númberu de llinia introducíu nun ye válidu.
 view-source-out-of-range-title = Nun s'atopó la llinia
