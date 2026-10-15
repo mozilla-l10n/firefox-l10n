@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = 줄 이동
+view-source-go-to-line-text = 줄 번호를 입력하세요.
 view-source-invalid-input-title = 잘못된 입력
 view-source-invalid-input-text = 입력한 줄 번호가 유효하지 않습니다.
 view-source-out-of-range-title = 줄을 찾을 수 없음
