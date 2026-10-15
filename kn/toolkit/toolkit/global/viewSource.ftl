@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = ಸಾಲಿಗೆ ಹೋಗು
+view-source-go-to-line-text = ಸಾಲಿನ ಸಂಖ್ಯೆಯನ್ನು ನಮೂದಿಸು
 view-source-invalid-input-title = ಅಮಾನ್ಯ ಇನ್‍ಪುಟ್
 view-source-invalid-input-text = ನಮೂದಿಸಿದ ಸಾಲಿನ ಸಂಖ್ಯೆಯು ಅಮಾನ್ಯವಾಗಿದೆ.
 view-source-out-of-range-title = ಸಾಲು ಕಂಡು ಬಂದಿಲ್ಲ
