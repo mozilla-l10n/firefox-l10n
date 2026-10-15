@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = رفتن به سطر
+view-source-go-to-line-text = شمارهٔ سطر را وارد کنید
 view-source-invalid-input-title = ورودی نامعتبر
 view-source-invalid-input-text = شمارهٔ سطر وارد شده نامعتبر است.
 view-source-out-of-range-title = سطر پیدا نشد
