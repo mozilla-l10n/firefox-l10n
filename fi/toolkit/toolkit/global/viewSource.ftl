@@ -5,6 +5,12 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Siirry riville
+view-source-go-to-line-text = Kirjoita rivinumero
+view-source-invalid-input-title = Virheellinen syöte
+view-source-invalid-input-text = Annettu rivinumero oli virheellinen.
+view-source-out-of-range-title = Riviä ei löytynyt
+view-source-out-of-range-text = Annettua riviä ei löytynyt.
 
 ##
 
