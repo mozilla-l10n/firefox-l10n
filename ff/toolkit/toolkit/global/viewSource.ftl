@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = G
 view-source-context-wrap-long-lines =
     .label = Dottu Gori Juutɗi
+view-source-context-highlight-syntax =
+    .label = Jalbingol Lelngo Konngi
