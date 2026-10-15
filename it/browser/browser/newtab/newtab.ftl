@@ -573,6 +573,14 @@ newtab-horoscopes-menu-learn-more = Ulteriori informazioni
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Viaggi
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Apri menu per il widget Viaggi
+    .title = Apri menu per il widget Viaggi
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Ulteriori informazioni
 
@@ -884,6 +892,10 @@ newtab-custom-widget-search-toggle =
     .label = Ricerca
 newtab-custom-widget-horoscopes-toggle =
     .label = Oroscopo
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Viaggi
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
