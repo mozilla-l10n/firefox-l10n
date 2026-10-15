@@ -90,15 +90,15 @@ about-private-browsing-spotlight-basics-subtitle = Súkromné okná pomáhajú s
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Čo by ste mali vedieť
-about-private-browsing-spotlight-basics-activity-seen = Niektoré vaše aktivity môžu naďalej vidieť webové stránky, vyhľadávače, poskytovatelia internetu alebo váš zamestnávateľ.
-about-private-browsing-spotlight-basics-bookmarks-downloads = Záložky a stiahnuté súbory zostanú vo vašom zariadení a môžu sa zobrazovať v paneli s adresou.
+about-private-browsing-spotlight-basics-activity-seen = Vašu aktivitu môžu naďalej sledovať webové stránky, vyhľadávače, poskytovateľ internetu alebo váš zamestnávateľ.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Záložky a stiahnuté súbory zostanú vo vašom zariadení. Záložky sa môžu zobrazovať aj v paneli s adresou.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Ďalšie funkcie na ochranu súkromia
-about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vás automaticky upozorní na malvér a podvodné stránky.
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } vás automaticky upozorňuje na malvér a podvodné stránky.
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
-about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } automaticky žiada zapojené stránky, aby vaše osobné údaje nepredávali ani nezdieľali.
-about-private-browsing-spotlight-basics-vpn = Vstavaná sieť VPN sťaží sledovanie vašej polohy.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } automaticky žiada zapojené webové stránky, aby nepredávali ani nezdieľali vaše osobné údaje.
+about-private-browsing-spotlight-basics-vpn = Vstavaná sieť VPN sťažuje sledovanie vašej polohy.
 # "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
 # Translations should be consistent with the existing "Strict" string in about:preferences.
 about-private-browsing-spotlight-basics-strict-tracking = Ak chcete účinnejšiu ochranu pred sledovaním, vyberte v nastaveniach možnosť Prísna.
