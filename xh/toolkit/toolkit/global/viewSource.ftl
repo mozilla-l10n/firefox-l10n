@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Yiya kumgca
+view-source-go-to-line-text = Ngenisa inombolo yomgca
 view-source-invalid-input-title = Igalelo elingasebenziyo
 view-source-invalid-input-text = Inombolo yomgca engenisiweyo ayisebenzi.
 view-source-out-of-range-title = Umgca awufunyenwanga
