@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = B'enam pa ri cholaj
+view-source-go-to-line-text = Tatz'ib'aj rajilab'al b'ey
 view-source-invalid-input-title = Man okel ta re okitz'ib'
 view-source-invalid-input-text = Man okel ta ri rajilab'al b'ey xatz'ib'aj.
 view-source-out-of-range-title = Man xelitäj ta ri b'ey
