@@ -24,6 +24,7 @@ policy-AutoLaunchProtocolsFromOrigins = Definir uma lista de protocolos externos
 policy-BackgroundAppUpdate2 = Ativar ou desativar o atualizador em segundo plano.
 policy-Backup = Desativar backup ou restauração de dados do perfil.
 policy-BlockAboutAddons = Bloquear acesso ao gerenciador de extensões (about:addons).
+policy-BlockAboutConfig2 = Bloquear acesso às preferências avançadas (about:config).
 policy-BlockAboutConfig = Bloquear acesso à página about:config.
 policy-BlockAboutProfiles = Bloquear acesso à página about:profiles.
 policy-BlockAboutSupport = Bloquear acesso à página about:support.

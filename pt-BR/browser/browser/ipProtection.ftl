@@ -340,6 +340,36 @@ ip-protection-site-rule-dialog =
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Salvar
     .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Insira um site e selecione o status da VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Site
+    .placeholder = ex: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Status da VPN
+ip-protection-site-rule-status-on =
+    .label = Sempre ativada
+ip-protection-site-rule-status-off =
+    .label = Sempre desativada
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Insira um endereço do site válido.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Este site já tem uma regra.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Erro ao criar regra. Tente novamente.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Excluir regra de { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Cancelar
+ip-protection-delete-site-rule-confirm =
+    .label = Excluir
+ip-protection-delete-all-site-rules-message = Excluir todas as regras de sites?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Excluir todas as regras
 
 ## IP Protection Bandwidth
 
