@@ -69,6 +69,7 @@ policy-DisableProfileImport = Desativar o comando do menu para importar dados de
 policy-DisableProfileRefresh = Desativar o botão "Restaurar o { -brand-short-name }" na página about:support.
 policy-DisableRemoteImprovements = Impedir que o { -brand-short-name } aplique alterações relativas a desempenho, estabilidade e funcionalidade de uma atualizações para outra.
 policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Desativar configurações remotas.
+policy-DisableSafeMode2 = Desativar reiniciar no modo de solução de problemas (modo de segurança).
 policy-DisableSafeMode = Desativar o recurso de reiniciar em modo de segurança. Nota: entrar em modo de segurança usando a tecla Shift só pode ser desativado no Windows usando Diretiva de Grupo.
 policy-DisableSecurityBypass = Impedir que o usuário ignore determinados alertas de segurança.
 policy-DisableSetAsDesktopBackground = Desativar o comando de menu Definir como papel de parede da área de trabalho para imagens.
@@ -125,6 +126,7 @@ policy-OfferToSaveLogins = Impor as configurações para permitir que o { -brand
 policy-OfferToSaveLoginsDefault = Definir o valor padrão para permitir que o { -brand-short-name } ofereça memorizar contas e senhas salvas. Ambos os valores true e false são aceitos.
 policy-OverrideFirstRunPage = Substituir a página de primeira execução. Defina esta diretiva como vazia se quiser desativar a página de primeira execução.
 policy-OverridePostUpdatePage = Substituir a página “Novidades” exibida após uma atualização. Defina esta diretiva como vazia se quiser desativar a exibição de uma página após atualizações.
+policy-PasswordManagerEnabled2 = Ativar ou desativar salvar senhas no gerenciador de senhas. Se estiver desativado, a página de senhas (about:login) também é bloqueada.
 policy-PasswordManagerEnabled = Ativar salvamento de senhas no gerenciador de senhas.
 policy-PasswordManagerExceptions = Impedir que o { -brand-short-name } salve senhas de sites específicos.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -143,6 +145,7 @@ policy-RelaunchRequired = Exigir que o { -brand-short-name } seja relançado den
 policy-RequestedLocales = Definir a lista de idiomas solicitados para a aplicação por ordem de preferência.
 policy-SanitizeOnShutdown2 = Limpar dados de navegação ao fechar.
 policy-SearchBar = Definir a localização padrão da barra de pesquisa. O usuário ainda pode personalizar tal localização.
+policy-SearchEngines2 = Mudar configurações de mecanismo de pesquisa.
 policy-SearchEngines = Definir configurações de mecanismos de pesquisa. Esta diretiva só está disponível na versão Extended Support Release (ESR).
 policy-SearchSuggestEnabled = Ativar ou desativar sugestões de pesquisa.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
