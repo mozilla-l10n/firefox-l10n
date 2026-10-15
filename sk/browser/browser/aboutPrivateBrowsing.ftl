@@ -75,17 +75,17 @@ about-private-browsing-felt-privacy-v1-info-link = Kto však môže vidieť moju
 
 about-private-browsing-nova-info-body = Zatvorením všetkých súkromných okien sa vymažú súbory cookie, história a údaje stránok.
 about-private-browsing-nova-info-link = Kto by mohol stále vidieť moju aktivitu?
-about-private-browsing-private-window-basics-link = Základné informácie o súkromnom okne
-about-private-browsing-private-window-redesign-subheader = { -brand-short-name } je navrhnutý tak, aby chránil vaše súkromie počas prehliadania pomocou vstavaných ochranných prvkov pred sledovaním. Zatvorením tohto okna sa vymaže jeho história, súbory cookie a údaje stránok, aby sa vaše prehliadanie zachovalo v súkromí pred ostatnými používateľmi tohto zariadenia.
+about-private-browsing-private-window-basics-link = Základné informácie o súkromných oknách
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } pomáha chrániť vaše súkromie pri prehliadaní webu vďaka vstavaným funkciám ochrany pred sledovaním. Keď zatvoríte toto okno, vymaže sa história prehliadania, súbory cookie aj údaje stránok. Ostatní používatelia tohto zariadenia tak neuvidia, ktoré stránky ste navštívili.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
-about-private-browsing-nova-info-header = História vášho prehliadania nebude zaznamenaná
+about-private-browsing-nova-info-header = História prehliadania sa neuloží
 about-private-browsing-nova-info-subheader2 = Po zatvorení všetkých súkromných okien sa vymažú všetky vyhľadávania a prihlásenia. Vstavané ochrany { -brand-short-name(case: "gen") } sú tu tiež zapnuté, napríklad blokovanie sledovacích prvkov.
 
 ## Strings for the Private Window basics spotlight
 
-about-private-browsing-spotlight-basics-title = Základné informácie o súkromnom okne
+about-private-browsing-spotlight-basics-title = Základné informácie o súkromných oknách
 about-private-browsing-spotlight-basics-subtitle = Súkromné okná pomáhajú skryť vašu aktivitu pri prehliadaní pred ostatnými používateľmi tohto zariadenia. Nezaručujú však anonymitu ani nevymažú všetky vaše údaje.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.

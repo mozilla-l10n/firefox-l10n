@@ -209,7 +209,7 @@ firefoxview-choose-browser-button = Zvoľte prehliadač
 firefoxview-dont-remember-history-empty-header-2 = Máte kontrolu nad tým, čo si { -brand-short-name } zapamätá
 firefoxview-dont-remember-history-empty-description-one = { -brand-short-name } si práve teraz nepamätá vašu aktivitu prehliadania. Ak to chcete zmeniť, <a data-l10n-name="history-settings-url-two">aktualizujte nastavenia histórie</a>.
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
-firefoxview-dont-remember-history-empty-header-3 = História vášho prehliadania nebude zaznamenaná
+firefoxview-dont-remember-history-empty-header-3 = História prehliadania sa neuloží
 firefoxview-dont-remember-history-empty-description-2 = { -brand-short-name } momentálne neukladá vašu históriu. Zmeniť to môžete kedykoľvek v <a data-l10n-name="history-settings-url-two">nastaveniach</a>.
 
 ##
