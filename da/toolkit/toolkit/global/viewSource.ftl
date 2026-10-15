@@ -5,6 +5,12 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Gå til linje
+view-source-go-to-line-text = Indtast linjenummer
+view-source-invalid-input-title = Ugyldig indput
+view-source-invalid-input-text = Det indtastede linjenummer er ugyldigt.
+view-source-out-of-range-title = Linje ikke fundet
+view-source-out-of-range-text = Den angivne linje kunne ikke findes
 
 ##
 
