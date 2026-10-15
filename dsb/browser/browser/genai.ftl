@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = Gaž HuggingChat wuběraśo, zwólijośo
 genai-settings-chat-lechat-links-2 = Gaž Mistral Vibe wuběraśo, zwólijośo do <a data-l10n-name="link1">wužywańskich wuměnjenjow</a> a <a data-l10n-name="link2">pšawidłow priwatnosći</a> Mistral AI.
 genai-settings-chat-lechat-links = Gaž Le Chat Mistral wuběraśo, zwólijośo do <a data-l10n-name="link1">wužywańskich wuměnjenjow</a> a <a data-l10n-name="link2">pšawidłow priwatnosći</a> Mistral AI.
 genai-settings-chat-localhost-links = Pśinjasćo swójsku priwatny lokalny chatbot ako na pśikład <a data-l10n-name="link1">llamafile</a> z inowaciskeje kupki { -vendor-short-name } sobu.
+genai-settings-chat-scout-links = Gaž Yahoo Scout wuběraśo, zwolijośo do <a data-l10n-name="link1">wužywańskich wuměnjenjow</a> a <a data-l10n-name="link2">pšawidłow priwatnosći</a> Yahoo.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
