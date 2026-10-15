@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Fara í línu
+view-source-go-to-line-text = Settu inn línunúmer
 view-source-invalid-input-title = Ógilt inntak
 view-source-invalid-input-text = Línunúmerið sem slegið var inn er ógilt.
 view-source-out-of-range-title = Lína fannst ekki
