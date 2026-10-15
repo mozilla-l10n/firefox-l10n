@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Liikumine reale
+view-source-go-to-line-text = Sisesta rea number
 view-source-invalid-input-title = Vigane sisestus
 view-source-invalid-input-text = Sisestatud rea number on vigane.
 view-source-out-of-range-title = Rida ei leitud
