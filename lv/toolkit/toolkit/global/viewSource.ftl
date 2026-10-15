@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Iet uz rindu
+view-source-go-to-line-text = Ievadiet rindas numuru
 view-source-invalid-input-title = Nederīga ievade
 view-source-invalid-input-text = Ievadītais rindas numurs ir nederīgs.
 view-source-out-of-range-title = Rinda netika atrasta
