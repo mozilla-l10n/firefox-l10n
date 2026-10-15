@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = मोठ्या ओळींना रचनाबध्द करा
+view-source-context-highlight-syntax =
+    .label = मांडणी हायलाइट करा
