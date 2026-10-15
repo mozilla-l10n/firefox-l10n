@@ -513,3 +513,9 @@ refresh-unused-profile-infobar-message = Näyttää siltä, että { -brand-short
 refresh-reinstalled-profile-infobar-message = Näyttää siltä, että olet asentanut { -brand-short-name }in uudestaan. Siivotaanko asetuksia niin, että käyttökokemus on varmasti näpsäkkä ja uudenveroinen?
 refresh-profile-infobar-button = Palauta { -brand-short-name } uudenveroiseksi…
     .accesskey = P
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Haluatko avata aiemmat välilehdet?</strong> Voit palauttaa aiemman istunnon { -brand-short-name }in sovellusvalikosta <img data-l10n-name="icon"/> kohdasta Sivuhistoria.
+restore-session-startup-suggestion-button = Näytä ohje
