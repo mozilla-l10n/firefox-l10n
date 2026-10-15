@@ -5,6 +5,7 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = E ya mothalading
 view-source-go-to-line-text = Tsenya nomoro ya mothaladi
 view-source-invalid-input-title = Tshwayo ye e sa šomego
 view-source-invalid-input-text = Nomoro ya mothaladi yeo e tsentšhitšwego ga e šome.
