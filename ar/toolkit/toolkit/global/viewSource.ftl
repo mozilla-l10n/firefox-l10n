@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = س
 view-source-context-wrap-long-lines =
     .label = اقطع السطور الطويلة
+view-source-context-highlight-syntax =
+    .label = أبرِز التراكيب
