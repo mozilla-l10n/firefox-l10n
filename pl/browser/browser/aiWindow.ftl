@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Klasyczne okno
 toolbar-switcher-customizable-label =
     .label = Przełącznik { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") }
     .tooltiptext = Przełączaj między inteligentnymi a klasycznymi oknami.
+toolbar-switcher-customizable-label-v2 =
+    .label = Przełącznik { -smart-window-brand-name(capitalization: "lower-singular", case: "gen") }
+    .tooltiptext = Przełączaj między inteligentnymi a klasycznymi oknami
 
 ## Input CTA
 

@@ -606,7 +606,7 @@ urlbar-placeholder-search-mode-other-engine =
     .placeholder = Szukaj
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
-    .aria-label = Szukaj zakładek
+    .aria-label = Szukaj w zakładkach
     .placeholder = Szukaj
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
@@ -614,7 +614,7 @@ urlbar-placeholder-search-mode-other-history =
     .placeholder = Szukaj
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
-    .aria-label = Szukaj kart
+    .aria-label = Szukaj w kartach
     .placeholder = Szukaj
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
