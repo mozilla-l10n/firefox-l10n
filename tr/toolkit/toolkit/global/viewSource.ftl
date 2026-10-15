@@ -5,6 +5,10 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-invalid-input-title = Geçersiz girdi
+view-source-invalid-input-text = Verilen satır numarası geçersiz.
+view-source-out-of-range-title = Satır bulunamadı
+view-source-out-of-range-text = Özel satır bulunamadı.
 
 ##
 
@@ -18,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = S
 view-source-context-wrap-long-lines =
     .label = Uzun satırları böl
+view-source-context-highlight-syntax =
+    .label = Söz dizimi vurgusu
