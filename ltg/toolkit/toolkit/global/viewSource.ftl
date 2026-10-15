@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Īt iz ryndu
+view-source-go-to-line-text = Īvodit ryndys numuru
 view-source-invalid-input-title = Nadereiga īvode
 view-source-invalid-input-text = Īvodeitais ryndys numurs ir nadereigs.
 view-source-out-of-range-title = Rynda natyka atrosta
