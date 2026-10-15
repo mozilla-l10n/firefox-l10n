@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Gatu riña lînia
+view-source-go-to-line-text = Duguatûj si numerô lìnia
 view-source-invalid-input-title = Hua a'nan' sa duguatûjt
 view-source-invalid-input-text = Hua a'nan' si numerô liniâ duguatûjt.
 view-source-out-of-range-title = Nu nari'ìj lînia
