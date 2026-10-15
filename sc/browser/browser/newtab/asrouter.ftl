@@ -256,6 +256,19 @@ launch-on-login-infobar-final-message = <strong>Boles abèrrere { -brand-short-n
 launch-on-login-infobar-final-reject-button = No, gràtzias
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -266,6 +279,9 @@ tail-fox-spotlight-title = Lassa·nche is sighidores infadosos a tesu
 tail-fox-spotlight-subtitle = Nara adiosu a publitzidades infadosas chi ti sighint e gosa·ti un’esperièntzia de navigatzione segura e lestra.
 tail-fox-spotlight-primary-button = Aberi is ligòngios mios cun { -brand-short-name }
 tail-fox-spotlight-secondary-button = Immoe nono
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -394,6 +410,24 @@ relay-50-masks-announcement-secondary-button = Iscarta
 nova-early-access-infobar-primary-button = Apo cumprèndidu
     .accesskey = C
 
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
 ## Refresh Firefox infobar
 ##
 ## Shown at startup when the profile has not been used in over 60 days, or when
@@ -404,3 +438,9 @@ refresh-unused-profile-infobar-message = Paret chi no as aviadu { -brand-short-n
 refresh-reinstalled-profile-infobar-message = Paret chi as torradu a installare { -brand-short-name }. Ddu boles limpiare pro ddu fàghere funtzionare che a nou?
 refresh-profile-infobar-button = Riprìstina { -brand-short-name }…
     .accesskey = i
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Boles abèrrere is ischedas pretzedentes?</strong> Podes recuperare sa sessione pretzedente dae su menù de is aplicatziones { -brand-short-name } <img data-l10n-name="icon"/>, in sa cronologia.
+restore-session-startup-suggestion-button = Ammustra·mi comente
