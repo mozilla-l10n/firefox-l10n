@@ -524,3 +524,9 @@ refresh-unused-profile-infobar-message = Выглядае, быццам вы в�
 refresh-reinstalled-profile-infobar-message = Падобна на тое, што вы пераўсталявалі { -brand-short-name }. Хочаце, каб мы ачысцілі яго, каб ён пачаў працаваць як новенькі?
 refresh-profile-infobar-button = Аднавіць { -brand-short-name }…
     .accesskey = в
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Адкрыць папярэднія карткі?</strong> Вы можаце аднавіць папярэдні сеанс з меню <img data-l10n-name="icon"/> праграмы { -brand-short-name }, у раздзеле "Гісторыя".
+restore-session-startup-suggestion-button = Паказаць мне як
