@@ -49,6 +49,7 @@ policy-DefaultDownloadDirectory = Definir o diretório de download padrão.
 policy-DefaultSerialGuardSetting = Controlar uso da API de portas seriais.
 policy-DisableAppUpdate = Impedir a atualização do navegador.
 policy-DisableBuiltinPDFViewer = Desativar PDF.js, o visor de PDF integrado no { -brand-short-name }.
+policy-DisableDefaultBrowserAgent2 = Impedir que o agente de navegador padrão execute qualquer ação.
 policy-DisableDefaultBrowserAgent = Impedir que o agente padrão do navegador execute qualquer ação. Aplicável apenas a Windows; outras plataformas não têm o agente.
 policy-DisableDeveloperTools = Bloquear acesso às ferramentas de desenvolvimento.
 policy-DisableEncryptedClientHello = Desativar o uso do recurso TLS Encrypted Client Hello (ECH).
