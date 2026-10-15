@@ -47,8 +47,12 @@ bookmark-properties-save-button =
 
 ## Titles of the dialog used to add or edit bookmarks and folders.
 
+bookmark-properties-title-add-bookmark = Aggiungi segnalibro
 # Title used when bookmarking multiple tabs at once into a new folder.
 bookmark-properties-title-add-multiple-bookmarks = Nuovi segnalibri
+bookmark-properties-title-add-folder = Aggiungi cartella dei segnalibri
+bookmark-properties-title-edit-bookmark = Modifica segnalibro
+bookmark-properties-title-edit-folder = Modifica cartella dei segnalibri
 
 ## Default names for newly created bookmarks and folders.
 
