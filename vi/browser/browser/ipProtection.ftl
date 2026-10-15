@@ -276,6 +276,33 @@ ip-protection-not-opted-in-button = Bắt đầu
 ip-protection-site-exceptions-all-sites-button =
     .description = { $count } trang web
     .label = Quản lý cài đặt trang web
+ip-protection-site-rules-header-1 =
+    .heading = Quản lý quy tắc VPN
+ip-protection-site-rules-button-1 =
+    .description = Đặt quy tắc cho các trang web cần bảo mật cao hơn hoặc tắt VPN.
+    .label = Quản lý quy tắc VPN
+ip-protection-site-rules-list-section =
+    .description = Chọn cách VPN hoạt động cho các trang web cần bảo mật cao hơn hoặc khi tắt VPN.
+    .label = Quy tắc trang web
+ip-protection-site-rules-add-button =
+    .label = Thiết lập quy tắc
+ip-protection-site-rules-delete-all-button =
+    .label = Xoá tất cả quy tắc
+ip-protection-site-rules-empty = Các quy tắc bạn thiết lập sẽ hiển thị ở đây.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN luôn bật
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN luôn tắt
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Chỉnh sửa quy tắc cho { $website }
+    .title = Chỉnh sửa
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Xóa quy tắc cho { $website }
+    .title = Xóa
 ip-protection-site-rules-header =
     .heading = Quản lý quy tắc trang web
 ip-protection-site-rules-button =
@@ -299,6 +326,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Quản lý cài đặt trang web
 ip-protection-exclusions-desc = Sử dụng VPN cho tất cả các trang web ngoại trừ những trang web có trong danh sách này. Thêm trang web vào đây hoặc bằng cách mở VPN.
+ip-protection-site-rule-window =
+    .title = Thiết lập quy tắc
+ip-protection-edit-site-rule-window =
+    .title = Chỉnh sửa quy tắc
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Thiết lập
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Lưu
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Nhập địa chỉ trang web, sau đó chọn trạng thái VPN của trang đó.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Trang web
+    .placeholder = ví dụ: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Trạng thái VPN
+ip-protection-site-rule-status-on =
+    .label = Luôn bật
+ip-protection-site-rule-status-off =
+    .label = Luôn tắt
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Nhập địa chỉ trang web hợp lệ.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Trạng này đã có quy tắc.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Lỗi khi tạo quy tắc. Vui lòng thử lại.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Xoá quy tắc cho { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Huỷ bỏ
+ip-protection-delete-site-rule-confirm =
+    .label = Xoá
+ip-protection-delete-all-site-rules-message = Xoá quy tắc cho tất cả trang web?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Xoá tất cả quy tắc
 
 ## IP Protection Bandwidth
 

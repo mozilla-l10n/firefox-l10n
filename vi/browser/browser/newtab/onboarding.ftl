@@ -397,12 +397,18 @@ onboarding-checklist-remove-2 = Xóa danh sách kiểm tra
 
 tab-groups-onboarding-feature-callout-title = Hãy thử nhóm thẻ để bớt lộn xộn hơn, tập trung hơn
 tab-groups-onboarding-feature-callout-subtitle = Sắp xếp gọn gàng bằng cách kéo thẻ này lên trên thẻ khác để tạo nhóm đầu tiên của bạn.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Bạn có thể tìm nhóm thẻ của mình trong menu “Tìm kiếm và quản lý thẻ” bất cứ lúc nào.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Tìm nhóm thẻ của bạn trong menu Liệt kê tất cả thẻ bất cứ lúc nào.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Tìm nhóm của bạn bằng cách tìm kiếm nhóm trong thanh địa chỉ.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Khi bạn đóng một nhóm thẻ, bạn có thể mở lại nhóm đó từ menu “Tìm kiếm và quản lý thẻ” bất cứ lúc nào.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Khi bạn đóng một nhóm thẻ, hãy mở lại nhóm đó bất cứ lúc nào từ menu Liệt kê tất cả các thẻ.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Tìm các nhóm mà bạn đã đóng bằng cách tìm kiếm chúng trong thanh địa chỉ.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Bạn có thể mở lại các nhóm thẻ của mình từ menu “Tìm kiếm và quản lý thẻ” bất cứ lúc nào.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Mở lại nhóm thẻ của bạn từ menu Liệt kê tất cả thẻ bất cứ lúc nào.
 tab-groups-onboarding-dismiss = OK

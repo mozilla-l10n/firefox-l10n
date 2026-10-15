@@ -528,6 +528,11 @@ newtab-recent-searches-empty-trending = Tính năng tìm kiếm thịnh hành hi
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Tử vi
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Mở menu tử vi
+    .title = Mở menu tử vi
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Tuỳ chọn tử vi
