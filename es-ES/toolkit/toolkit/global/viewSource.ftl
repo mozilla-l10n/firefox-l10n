@@ -19,3 +19,10 @@ view-source-selection-title = Fuente DOM de la selección
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = Ir a la línea…
+    .accesskey = x
+view-source-context-wrap-long-lines =
+    .label = Ajustar líneas largas
+view-source-context-highlight-syntax =
+    .label = Resaltar sintaxis
