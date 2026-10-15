@@ -24,6 +24,7 @@ about-private-browsing-hide-activity-1 = Թաքցրեք դիտարկման գո�
 about-private-browsing-prominent-cta = Մնացեք գաղտնի { -mozilla-vpn-brand-name }-ի հետ
 about-private-browsing-focus-promo-cta = Ներբեռնել { -focus-brand-name }-ը
 about-private-browsing-focus-promo-header = { -focus-brand-name }. գաղտնի դիտարկում ընթացքի վրա
+about-private-browsing-focus-promo-text = Մեր նվիրված գաղտնի դիտարկման բջջային հավելվածը ամեն անգամ մաքրում է ձեր պատմությունը և թխուկները։
 about-private-browsing-focus-promo-header-c = Հաջորդ մակարդակի գաղտնիություն բջջայինում
 about-private-browsing-focus-promo-text-c = { -focus-brand-name }-ն մաքրում է Ձեր պատմությունն ամեն անգամ՝ արգելափակելով գովազդներն ու հետևիչները:
 # This string is the title for the banner for search engine selection
