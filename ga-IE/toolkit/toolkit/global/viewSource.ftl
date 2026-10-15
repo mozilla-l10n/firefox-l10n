@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Téigh chuig líne
+view-source-go-to-line-text = Cuir isteach uimhir líne
 view-source-invalid-input-title = Ionchur Neamhbhailí
 view-source-invalid-input-text = Uimhir líne neamhbhailí.
 view-source-out-of-range-title = Líne gan aimsiú
