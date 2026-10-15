@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = G
 view-source-context-wrap-long-lines =
     .label = Bryt lange linjer
+view-source-context-highlight-syntax =
+    .label = Syntaks-markering
