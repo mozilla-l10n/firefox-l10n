@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Pergi ke baris
+view-source-go-to-line-text = Masukkan nombor baris
 view-source-invalid-input-title = Input tidak sah
 view-source-invalid-input-text = Nombor baris dimasukkan tidak sah.
 view-source-out-of-range-title = Baris tidak ditemui
