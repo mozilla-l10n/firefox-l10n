@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Перайсці да радка
+view-source-go-to-line-text = Увядзіце нумар радка
 view-source-invalid-input-title = Недапушчальны ўвод
 view-source-invalid-input-text = Уведзены несапраўдны нумар радка.
 view-source-out-of-range-title = Радок не знойдзены
