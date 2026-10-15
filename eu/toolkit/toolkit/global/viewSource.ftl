@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Lerrora joan
+view-source-go-to-line-text = Idatzi lerro zenbakia
 view-source-invalid-input-title = Baliogabeko sarrera
 view-source-invalid-input-text = Emandako lerro zenbakia baliogabekoa da.
 view-source-out-of-range-title = Ez da lerroa aurkitu
