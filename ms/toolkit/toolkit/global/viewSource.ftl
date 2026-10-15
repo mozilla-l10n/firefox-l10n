@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = B
 view-source-context-wrap-long-lines =
     .label = Balut Baris Panjang
+view-source-context-highlight-syntax =
+    .label = Serlahan Sintaks
