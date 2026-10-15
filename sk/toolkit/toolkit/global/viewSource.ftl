@@ -5,6 +5,10 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-invalid-input-title = Nesprávna hodnota
+view-source-invalid-input-text = Zadané číslo riadka je nesprávne.
+view-source-out-of-range-title = Riadok nebol nájdený.
+view-source-out-of-range-text = Zadaný riadok nebol nájdený.
 
 ##
 
@@ -18,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = P
 view-source-context-wrap-long-lines =
     .label = Zalomiť dlhé riadky
+view-source-context-highlight-syntax =
+    .label = Zvýrazniť syntax
