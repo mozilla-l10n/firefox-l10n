@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Qhuba Ngokuzenzekela Kwimigca Emide Elandelayo
+view-source-context-highlight-syntax =
+    .label = Ukubalaselisa Isintaksi
