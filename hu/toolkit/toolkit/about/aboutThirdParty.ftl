@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-third-party-page-title = Harmadik féltől származó modul információi
+third-party-page-title = Harmadik féltől származó modulok információi
 third-party-section-title = Harmadik féltől származó modulok a { -brand-short-name }ban
 third-party-intro =
     Az oldal azokat a harmadik féltől származó modulokat mutatja, melyek
