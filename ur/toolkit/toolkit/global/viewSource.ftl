@@ -5,6 +5,12 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = سطر پر جائیں
+view-source-go-to-line-text = لائن نمبر داخل کریں
+view-source-invalid-input-title = ناجائز ان پٹ
+view-source-invalid-input-text = داخل کردہ لائن نمبر ناجائز ہے۔
+view-source-out-of-range-title = لائن نہیں ملی
+view-source-out-of-range-text = اختصاصی سطر نہیں ملی۔
 
 ##
 
