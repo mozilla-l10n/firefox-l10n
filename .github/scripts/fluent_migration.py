@@ -21,6 +21,7 @@ directly by gh.
 """
 
 import argparse
+import json
 import os
 import subprocess
 import sys
@@ -34,9 +35,6 @@ def env(name: str) -> str:
     return value
 
 
-# git committer identity
-BOT_NAME = env("BOT_NAME")
-BOT_EMAIL = env("BOT_EMAIL")
 # Repositories
 L10N_REPO = env("GITHUB_REPOSITORY")
 FM_REPO = env("FM_REPO")
@@ -94,11 +92,6 @@ def recipes_markdown(recipes: list[Path]) -> str:
     return "\n".join(f"- `{recipe.name}`" for recipe in recipes)
 
 
-def set_git_identity(repo_path: Path) -> None:
-    run("git", "config", "user.name", BOT_NAME, cwd=repo_path)
-    run("git", "config", "user.email", BOT_EMAIL, cwd=repo_path)
-
-
 def push_and_create_pr(
     repo_path: Path, repo: str, branch: str, title: str, body: str
 ) -> str:
@@ -107,7 +100,6 @@ def push_and_create_pr(
     pr_url = run(
         "gh", "pr", "create",
         "--repo", repo,
-        "--base", "main",
         "--head", branch,
         "--title", title,
         "--body", body,
@@ -117,8 +109,6 @@ def push_and_create_pr(
 
 
 def check() -> None:
-    print(f"Recipes will be moved to recipes/{TARGET_FOLDER}")
-
     recipes = get_recipes()
     if not recipes:
         print(f"No recipes found in {FM_PATH / 'recipes'}")
@@ -130,10 +120,34 @@ def check() -> None:
     for recipe in recipes:
         print(f"  {recipe.name}")
 
+    open_prs = run(
+        "gh", "pr", "list",
+        "--repo", L10N_REPO,
+        "--state", "open",
+        "--json", "number,title,url,files",
+    )  # fmt: skip
+    locale_prs = [
+        pr
+        for pr in json.loads(open_prs)
+        if any(
+            "/" in file["path"] and not file["path"].startswith(".")
+            for file in pr["files"]
+        )
+    ]
+    if locale_prs:
+        print(f"Open PRs changing localizations in {L10N_REPO}:")
+        for pr in locale_prs:
+            print(f"  #{pr['number']} {pr['title']} ({pr['url']})")
+        sys.exit(
+            "::error::Merge or close open PRs with changes in locale folders "
+            "before running the migration."
+        )
+
     if not branch_exists(SOURCE_REPO, SOURCE_BRANCH):
         sys.exit(
             f"::error::Branch '{SOURCE_BRANCH}' doesn't exist in {SOURCE_REPO}. "
-            "Migrations need it as reference. Check that old recipes have been moved to fx folder"
+            "Migrations need it as reference. Check that you chose the right branch, "
+            "otherwise old recipes may have not been moved to fx folder."
         )
 
     if branch_exists(L10N_REPO, L10N_BRANCH):
@@ -141,6 +155,8 @@ def check() -> None:
             f"::error::Branch '{L10N_BRANCH}' already exists in {L10N_REPO}. "
             "Merge or close the previous migration PR and delete the branch."
         )
+
+    print(f"Recipes will be moved to recipes/{TARGET_FOLDER}")
     set_output("found", "true")
 
 
@@ -153,7 +169,6 @@ def migrate() -> None:
         'mozilla_firefox_path=""\n'
     )
 
-    set_git_identity(L10N_PATH)
     base_sha = run("git", "rev-parse", "HEAD", cwd=L10N_PATH)
 
     # Use Popen to stream migrate.sh output to the job log
@@ -170,7 +185,7 @@ def migrate() -> None:
     )
     log = []
     for line in proc.stdout:
-        print(line, end="", flush=True)
+        print(line, end="")
         log.append(line)
     if proc.wait() != 0:
         sys.exit(f"::error::migration.sh failed with exit code {proc.returncode}")
@@ -181,8 +196,8 @@ def migrate() -> None:
     # migration.sh keeps going even if migration crashes for a locale
     tracebacks = sum(line.startswith("Traceback") for line in log)
     if tracebacks:
-        print(
-            f"::warning::migrate-l10n failed {tracebacks} time(s), "
+        sys.exit(
+            f"::error::migrate-l10n failed {tracebacks} time(s), "
             "check the log for tracebacks."
         )
 
@@ -190,48 +205,52 @@ def migrate() -> None:
     print(f"Migration created {commits} commit(s).")
 
 
-def create_l10n_pr(recipes: list[Path]) -> str:
-    """Open the firefox-l10n PR with fluent migrations"""
+def create_l10n_pr(recipes: list[Path]) -> tuple[str, str]:
     commits = run("git", "rev-list", "--count", "origin/main..HEAD", cwd=L10N_PATH)
     if commits == "0":
         print("The migration didn't produce any changes in firefox-l10n.")
-        return ""
+        return "", ""
 
-    source_pr = run(
+    source_prs = run(
         "gh", "pr", "list",
         "--repo", SOURCE_REPO,
         "--head", SOURCE_BRANCH,
         "--base", "main",
         "--state", "open",
         "--json", "url",
-        "--jq", ".[0].url // empty",
     )  # fmt: skip
-    source_pr_text = f"the pending {SOURCE_BRANCH} PR in firefox-l10n-source"
-    if source_pr:
-        source_pr_text += f" ({source_pr})"
+    source_prs = json.loads(source_prs)
+    if source_prs:
+        sync_notice = f"""\
+> [!IMPORTANT]
+> **Disable sync in Pontoon before merging** this PR and the pending {SOURCE_BRANCH} PR in firefox-l10n-source ({source_prs[0]["url"]}).
+> Re-enable sync only after both PRs have been merged."""
+    else:
+        # No open source PR, e.g. when running against main after the source
+        # string changes have already been merged.
+        sync_notice = """\
+> [!IMPORTANT]
+> **Ensure sync is currently disabled**
+> Sync should have been disabled before merging source string changes. Ensure sync is disabled and source string changes have not synced to Pontoon.
+> This PR can be merged if sync was disabled. Re-enable sync after this PR has been merged."""
 
     title = "Update with migrations"
     body = f"""\
-> [!IMPORTANT]
-> **Disable sync in Pontoon before merging** this PR and {source_pr_text}.
-> Re-enable sync only after both PRs have been merged.
+{sync_notice}
 
 Migrated translations generated by running these recipes from [fluent-migrations](https://github.com/{FM_REPO}) on all locales:
 
 {recipes_markdown(recipes)}
 """
-    return push_and_create_pr(L10N_PATH, L10N_REPO, L10N_BRANCH, title, body)
+    pr_url = push_and_create_pr(L10N_PATH, L10N_REPO, L10N_BRANCH, title, body)
+    return pr_url, sync_notice
 
 
 def create_recipes_pr(recipes: list[Path], l10n_pr_url: str) -> str:
     """Move recipes to recipes/fx<version> and open a PR in fluent-migrations"""
     target_path = FM_PATH / "recipes" / TARGET_FOLDER
-    if target_path.is_dir():
-        print(f"Adding recipes to existing folder recipes/{TARGET_FOLDER}")
-    else:
-        print(f"Creating folder recipes/{TARGET_FOLDER}")
-        target_path.mkdir()
-    set_git_identity(FM_PATH)
+    print(f"Adding recipes to folder recipes/{TARGET_FOLDER}")
+    target_path.mkdir(exist_ok=True)
     run("git", "switch", "-c", FM_BRANCH, cwd=FM_PATH)
     run("git", "mv", *recipes, target_path, cwd=FM_PATH)
     title = f"Move migrated recipes to {TARGET_FOLDER}"
@@ -239,7 +258,7 @@ def create_recipes_pr(recipes: list[Path], l10n_pr_url: str) -> str:
 
     if l10n_pr_url:
         # merge-recipes-pr.yml looks for this exact line to find the PR to merge.
-        l10n_text = f"Migrated translations: {l10n_pr_url}"
+        l10n_text = f"Migrated-translations: {l10n_pr_url}"
     else:
         l10n_text = "The migration didn't produce any changes in firefox-l10n."
     body = f"""\
@@ -254,18 +273,15 @@ Move recipes that have been run from `recipes` to `recipes/{TARGET_FOLDER}`:
 
 def create_prs() -> None:
     recipes = get_recipes()
-    l10n_pr_url = create_l10n_pr(recipes)
+    l10n_pr_url, sync_notice = create_l10n_pr(recipes)
     fm_pr_url = create_recipes_pr(recipes, l10n_pr_url)
 
     summary = f"""## Fluent migrations
 
 * firefox-l10n PR: {l10n_pr_url or "none, no changes"}
 * fluent-migrations PR: {fm_pr_url}
-"""
-    if l10n_pr_url:
-        summary += """
-> [!IMPORTANT]
-> Disable sync in Pontoon before merging the PRs in firefox-l10n-source and firefox-l10n.
+
+{sync_notice}
 """
     write_summary(summary)
 

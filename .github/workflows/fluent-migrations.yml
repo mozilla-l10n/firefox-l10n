@@ -11,9 +11,15 @@ on:
         description: "Firefox version the migration lands in (e.g. 160), recipes are moved to recipes/fx<version>"
         required: true
         type: number
+      source_branch:
+        description: "Branch on firefox-l10n-source to pull strings from (default: update)"
+        required: true
+        default: "update"
+        type: string
 
 permissions:
   contents: read
+  pull-requests: read
 
 concurrency:
   group: fluent-migrations
@@ -22,11 +28,10 @@ jobs:
   migrate:
     runs-on: ubuntu-latest
     env:
-      BOT_NAME: github-actions[bot]
-      BOT_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+      PYTHONUNBUFFERED: "1"
       FM_REPO: mozilla-l10n/fluent-migrations
       SOURCE_REPO: mozilla-l10n/firefox-l10n-source
-      SOURCE_BRANCH: update
+      SOURCE_BRANCH: ${{ inputs.source_branch }}
       FM_PATH: fluent-migrations
       L10N_PATH: firefox-l10n
       SOURCE_PATH: firefox-l10n-source
@@ -54,6 +59,9 @@ jobs:
       - name: Check for recipes
         id: recipes
         run: python "$SCRIPT" check
+        env:
+          # Read-only token, used to list open PRs in firefox-l10n.
+          GH_TOKEN: ${{ github.token }}
 
       - name: Checkout firefox-l10n-source
         if: steps.recipes.outputs.found == 'true'
@@ -72,6 +80,11 @@ jobs:
           # Full history is needed for blame to preserve attribution
           fetch-depth: 0
           persist-credentials: false
+      - name: Set git identity
+        if: steps.recipes.outputs.found == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: Run migrations
         if: steps.recipes.outputs.found == 'true'
         run: python "$SCRIPT" migrate

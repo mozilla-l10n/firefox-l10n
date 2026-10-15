@@ -31,18 +31,20 @@ jobs:
           fm_prs=$(
             gh pr list --repo "$FM_REPO" --state open --limit 100 \
               --json url,headRefName,body |
-            jq -r --arg line "Migrated translations: $L10N_PR_URL" '
+            jq -r --arg line "Migrated-translations: $L10N_PR_URL" '[
               .[]
               | select(.headRefName | startswith("move-recipes-"))
               | select(.body | split("\n") | map(rtrimstr("\r")) | any(. == $line))
-              | .url'
+              | .url
+            ]'
           )
-          count=$(grep -c . <<< "$fm_prs" || true)
+          count=$(jq length <<< "$fm_prs")
           if [ "$count" -ne 1 ]; then
             echo "::error::Expected 1 open PR in $FM_REPO linking to $L10N_PR_URL, found $count. Merge the recipes PR manually."
             exit 1
           fi
 
-          gh pr merge "$fm_prs" --repo "$FM_REPO" --squash --delete-branch
-          echo "Merged $fm_prs"
-          echo "Merged recipes PR: $fm_prs" >> "$GITHUB_STEP_SUMMARY"
+          fm_pr=$(jq -r '.[0]' <<< "$fm_prs")
+          gh pr merge "$fm_pr" --repo "$FM_REPO" --squash --delete-branch
+          echo "Merged $fm_pr"
+          echo "Merged recipes PR: $fm_pr" >> "$GITHUB_STEP_SUMMARY"
