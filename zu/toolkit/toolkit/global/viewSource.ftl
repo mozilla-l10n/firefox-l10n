@@ -19,3 +19,5 @@ view-source-selection-title = DOM Isisekelo Sokukhetha
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-wrap-long-lines =
+    .label = Goqa imigqa emide
