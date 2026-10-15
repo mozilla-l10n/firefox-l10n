@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Idi na liniju
+view-source-go-to-line-text = Unesite broj linije
 view-source-invalid-input-title = Neispravan unos
 view-source-invalid-input-text = Unešeni broj linije nije ispravan.
 view-source-out-of-range-title = Linija nije pronađena
