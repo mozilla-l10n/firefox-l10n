@@ -518,3 +518,9 @@ refresh-unused-profile-infobar-message = { -brand-short-name }를 한동안 사�
 refresh-reinstalled-profile-infobar-message = { -brand-short-name }를 다시 설치하신 것 같습니다. 처음 설치한 것처럼 깨끗하게 정리해 드릴까요?
 refresh-profile-infobar-button = { -brand-short-name } 새로 설정…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>이전 탭을 여시겠습니까?</strong> { -brand-short-name } 애플리케이션 메뉴 <img data-l10n-name="icon"/>의 기록 아래에서 이전 세션을 복원할 수 있습니다.
+restore-session-startup-suggestion-button = 사용법 보기
