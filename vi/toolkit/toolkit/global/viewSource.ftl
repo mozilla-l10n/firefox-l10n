@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Đi tới dòng
+view-source-go-to-line-text = Nhập số của dòng
 view-source-invalid-input-title = Nhập vào không đúng
 view-source-invalid-input-text = Số của dòng nhập vào không đúng.
 view-source-out-of-range-title = Không tìm thấy dòng
