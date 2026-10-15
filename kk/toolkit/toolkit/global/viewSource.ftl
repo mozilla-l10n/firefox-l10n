@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = л
 view-source-context-wrap-long-lines =
     .label = Ұзын жолдарды тасымалдау
+view-source-context-highlight-syntax =
+    .label = Синтаксисті түспен ерекшелеу
