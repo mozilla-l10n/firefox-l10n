@@ -148,6 +148,7 @@ policy-RelaunchRequired = Wymaganie ponownego uruchomienia { -brand-short-name(c
 policy-RequestedLocales = Ustawienie listy żądanych języków dla programu w preferowanej kolejności.
 policy-SanitizeOnShutdown2 = Usuwanie danych nawigacji podczas wyłączania.
 policy-SearchBar = Ustawienie domyślnego położenia paska wyszukiwania. Użytkownik nadal może go konfigurować.
+policy-SearchEngines2 = Konfiguracja ustawień wyszukiwarki.
 policy-SearchEngines = Konfiguracja ustawień wyszukiwarki. Ta zasada jest dostępna tylko w wersji ESR (Extended Support Release).
 policy-SearchSuggestEnabled = Włączenie lub wyłączenie podpowiedzi wyszukiwania.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

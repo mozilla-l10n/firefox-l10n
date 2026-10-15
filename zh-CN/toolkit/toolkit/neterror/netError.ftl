@@ -58,7 +58,7 @@ neterror-load-error-try-again = 此站点暂时无法使用或者太过忙碌。
 neterror-load-error-connection = 如果您无法加载任何网页，请检查您计算机的网络连接状态。
 neterror-load-error-firewall = 如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 { -brand-short-name } 已被授权访问网络。
 # This warning is only shown on macOS Sequoia and later (see bug 1929377)
-neterror-load-osx-permission = 若您正尝试加载本地网络页面，请在 macOS 的“隐私与安全性”设置中检查是否已允许 { -brand-short-name } 访问“本地网络”。
+neterror-load-osx-permission = 若您正尝试加载本地网络页面，请在 macOS 的“隐私与安全”设置中检查是否已允许 { -brand-short-name } 访问“本地网络”。
 neterror-http-error-page = 请确认输入的网址是否正确。
 neterror-http-empty-response = 请检查输入的网址是否正确，并在稍后重试。
 # Variables:
