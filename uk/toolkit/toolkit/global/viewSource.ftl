@@ -12,6 +12,13 @@ view-source-out-of-range-text = Вказаний рядок не знайден�
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = Джерело DOM вибраного фрагменту
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = Перейти до рядка…
+    .accesskey = р
+view-source-context-wrap-long-lines =
+    .label = Переносити довгі рядки
