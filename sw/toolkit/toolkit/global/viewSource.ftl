@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Nenda kwa msitari
+view-source-go-to-line-text = Ingiza namba ya msitari
 view-source-invalid-input-title = Ingizo batili
 view-source-invalid-input-text = Namba ya mstiari ulioingiza ni batili.
 view-source-out-of-range-title = Msitari haupatikani
