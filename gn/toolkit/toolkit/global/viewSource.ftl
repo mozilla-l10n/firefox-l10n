@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Tairendápe jeho
+view-source-go-to-line-text = Emoinge papapy tairendápe
 view-source-invalid-input-title = Jeikeha oiko’ỹva
 view-source-invalid-input-text = Papapy emoingéva tairendápe ndoikói.
 view-source-out-of-range-title = Ndojejuhúi tairenda
