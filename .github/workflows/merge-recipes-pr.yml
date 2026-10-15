@@ -19,7 +19,7 @@ jobs:
       github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
     env:
-      FM_REPO: mozilla-l10n/fluent-migrations
+      FM_REPO: bcolsson/fluent-migrations
     steps:
       - name: Merge fluent-migrations PR
         env:
