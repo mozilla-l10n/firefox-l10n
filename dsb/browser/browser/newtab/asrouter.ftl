@@ -527,3 +527,9 @@ refresh-unused-profile-infobar-message = Zda se, až njejsćo { -brand-short-nam
 refresh-reinstalled-profile-infobar-message = Zda se, až sćo { -brand-short-name } znowego instalěrował. Cośo jen za fryšne, ako se groni nowe dožywjenje rumowaś?
 refresh-profile-infobar-button = { -brand-short-name } wótnowiś…
     .accesskey = n
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Cośo pjerwjejšne rejtariki wócyniś?</strong> Móžośo swóje pjerwjejšne pósejźenje z nałožeńskego menija { -brand-short-name } <img data-l10n-name="icon"/> pód Historija wótnowiś.
+restore-session-startup-suggestion-button = Pokažćo kak

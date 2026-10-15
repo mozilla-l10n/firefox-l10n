@@ -521,3 +521,9 @@ refresh-unused-profile-infobar-message = Il pare que tu non ha initiate { -brand
 refresh-reinstalled-profile-infobar-message = Il parerea que tu ha reinstallate { -brand-short-name }. Vole que nos lo netta pro un fresc, como-nove experientia?
 refresh-profile-infobar-button = Refrescar { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Reaperir schedas anterior?</strong> Tu pote restaurar tu previe session a partir del menu <img data-l10n-name="icon"/> de { -brand-short-name }, sub Chronologia.
+restore-session-startup-suggestion-button = Monstrar como

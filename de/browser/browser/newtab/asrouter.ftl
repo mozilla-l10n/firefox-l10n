@@ -521,3 +521,9 @@ refresh-unused-profile-infobar-message = Sie haben { -brand-short-name } lange n
 refresh-reinstalled-profile-infobar-message = Es sieht so aus, als haben Sie { -brand-short-name } erneut installiert. Soll jetzt aufgeräumt werden, damit Sie ein Benutzererlebnis wie am ersten Tag erfahren?
 refresh-profile-infobar-button = { -brand-short-name } bereinigen…
     .accesskey = r
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Vorherige Tabs öffnen?</strong> Sie können Ihre vorherige Sitzung über das { -brand-short-name }-Anwendungsmenü <img data-l10n-name="icon"/> unter Chronik wiederherstellen.
+restore-session-startup-suggestion-button = Wie es funktioniert

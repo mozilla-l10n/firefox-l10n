@@ -521,3 +521,9 @@ refresh-unused-profile-infobar-message = Parece que hace tiempo no inicia { -bra
 refresh-reinstalled-profile-infobar-message = Parece que has reinstalado { -brand-short-name }. ¿Quieres que lo limpiemos para que tengas una experiencia de recién salido de la caja?
 refresh-profile-infobar-button = Refrescar { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>¿Abrir pestañas anteriores?</strong> Puedes restaurar tu sesión anterior desde el menú de la aplicación { -brand-short-name } <img data-l10n-name = "icon" />, bajo Historial.
+restore-session-startup-suggestion-button = Mostrar cómo

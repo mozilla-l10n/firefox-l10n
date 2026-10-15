@@ -254,6 +254,13 @@ launch-on-login-infobar-final-message = <strong>Ҳар вақте ки шумо 
 launch-on-login-infobar-final-reject-button = Не, ташаккур
     .accesskey = Н
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -272,6 +279,9 @@ tail-fox-spotlight-title = Васоити пайгирии безоркунан�
 tail-fox-spotlight-subtitle = Ба васоити пайгирии таблиғотии безоркунанда хайрбод гӯед ва ба таҷрибаи бехатартар ва Интернети босуръат  мубаддал шавед.
 tail-fox-spotlight-primary-button = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
 tail-fox-spotlight-secondary-button = Ҳоло не
+
+## Welcome Back Spotlight and Import
+
 
 ## Root Certificate Succession Infobar
 
@@ -461,3 +471,9 @@ refresh-unused-profile-infobar-message = Чунин ба назар мераса
 refresh-reinstalled-profile-infobar-message = Чунин ба назар мерасад, ки шумо { -brand-short-name }-ро аз нав насб кардед. Шумо мехоҳед, ки мо онро пок созем, то ки он ҳамчун нав ба кор дарояд?
 refresh-profile-infobar-button = Нав кардани { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Варақаҳои қаблиро мекушоед?</strong> Шумо метавонед ҷаласаи қаблии худро тавассути менюи барномаи «{ -brand-short-name }» <img data-l10n-name="icon"/>, дар зери «Таърих», кушоед.
+restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ тавр

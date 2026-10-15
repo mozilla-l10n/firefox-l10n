@@ -521,3 +521,9 @@ refresh-unused-profile-infobar-message = Bir süredir { -brand-short-name } tara
 refresh-reinstalled-profile-infobar-message = { -brand-short-name } tarayıcısını yeniden yüklemişsiniz. Yepyeni bir başlangıç için eski verilerinizi silelim mi?
 refresh-profile-infobar-button = { -brand-short-name } tarayıcısını yenile…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Önceki sekmeler açılsın mı?</strong> Önceki oturumunuzu { -brand-short-name } menüsündeki (<img data-l10n-name="icon"/>) “Geçmiş” kısmından geri yükleyebilirsiniz.
+restore-session-startup-suggestion-button = Nasıl yapacağımı göster
