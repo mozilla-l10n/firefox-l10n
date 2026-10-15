@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Rach gu loidhne
+view-source-go-to-line-text = Cuir a-steach àireamh na loidhne
 view-source-invalid-input-title = Steach-chur mì-dhligheach
 view-source-invalid-input-text = Tha àireamh na loidhne a chuir thu a-steach mì-dhligheach.
 view-source-out-of-range-title = Cha deach an loidhne a lorg
