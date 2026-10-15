@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = ទៅកាន់​ជួរ
+view-source-go-to-line-text = បញ្ចូល​លេខ​បន្ទាត់
 view-source-invalid-input-title = ព័ត៌មាន​បញ្ចូល​មិន​ត្រឹមត្រូវ
 view-source-invalid-input-text = លេខ​បន្ទាត់​ដែល​បាន​បញ្ចូល​គឺ​មិន​ត្រឹមត្រូវ ។
 view-source-out-of-range-title = រក​មិន​ឃើញ​ជួរ
