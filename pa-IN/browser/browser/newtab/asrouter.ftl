@@ -520,3 +520,9 @@ refresh-unused-profile-infobar-message = ਇੰਝ ਜਾਪਦਾ ਹੈ ਕਿ
 refresh-reinstalled-profile-infobar-message = ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਮੁੜ-ਇੰਸਟਾਲ ਕਰੋ। ਤਾਜ਼ਾ, ਨਵੇਂ ਵਰਗਾ ਤਜਰਬਾ ਹਾਸਿਲ ਕਰਨ ਲਈ ਸਾਨੂੰ ਇਸ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਦੇਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 refresh-profile-infobar-button = …{ -brand-short-name } ਨੂੰ ਤਾਜ਼ਾ ਕਰੋ
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>ਪਿਛਲੀਆਂ ਟੈਬਾਂ ਖੋਲ੍ਹਣੀਆਂ ਹਨ?</strong> ਤੁਸੀਂ ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ { -brand-short-name } ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ <img data-l10n-name="icon"/> ਤੋਂ ਅਤੀਤ ਵਿੱਚੋਂ ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਬਹਾਲ ਕਰ ਸਕਦੇ ਹੋ।
+restore-session-startup-suggestion-button = ਮੈਨੂੰ ਦੇਖਾਇਓ ਕਿਵੇਂ

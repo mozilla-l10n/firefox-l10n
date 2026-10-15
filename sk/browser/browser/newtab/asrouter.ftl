@@ -524,3 +524,9 @@ refresh-unused-profile-infobar-message = Zdá sa, že aplikácia { -brand-short-
 refresh-reinstalled-profile-infobar-message = Zdá sa, že ste aplikáciu { -brand-short-name } preinštalovali. Chcete ju vyčistiť, aby fungovala ako nová?
 refresh-profile-infobar-button = Obnoviť { -brand-short-name }…
     .accesskey = b
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Chcete otvoriť predchádzajúce karty?</strong> Predchádzajúcu reláciu môžete obnoviť z ponuky { -brand-short-name(case: "gen") } <img data-l10n-name="icon"/>, v časti História.
+restore-session-startup-suggestion-button = Ako na to

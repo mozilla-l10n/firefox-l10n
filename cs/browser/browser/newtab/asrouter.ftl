@@ -732,3 +732,13 @@ refresh-unused-profile-infobar-message = Zdá se, že jste aplikaci { -brand-sho
 refresh-reinstalled-profile-infobar-message = Zdá se, že jste přeinstalovali aplikaci { -brand-short-name }. Chcete ji vyčistit, aby fungovala jako nová?
 refresh-profile-infobar-button = Obnovit aplikaci { -brand-short-name }…
     .accesskey = O
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message =
+    { -brand-short-name.case-status ->
+        [with-cases] <strong>Chcete otevřít předchozí panely?</strong> Předchozí relaci { -brand-short-name(case: "gen") } můžete obnovit z nabídky <img data-l10n-name="icon"/> v části Historie.
+       *[no-cases] <strong>Chcete otevřít předchozí panely?</strong> Předchozí relaci aplikace { -brand-short-name } můžete obnovit z nabídky <img data-l10n-name="icon"/> v části Historie.
+    }
+restore-session-startup-suggestion-button = Jak na to

@@ -520,3 +520,9 @@ refresh-unused-profile-infobar-message = Il semblerait que vous n’ayez pas dé
 refresh-reinstalled-profile-infobar-message = Il semblerait que { -brand-short-name } ait été réinstallé récemment. Voulez-vous lui donner un coup de jeune pour profiter d’une meilleure navigation ?
 refresh-profile-infobar-button = Réparer { -brand-short-name }…
     .accesskey = R
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Rouvrir les onglets précédents ?</strong> Vous pouvez restaurer votre session précédente depuis le menu de l’application { -brand-short-name } <img data-l10n-name="icon"/>, sous Historique.
+restore-session-startup-suggestion-button = Comment faire
