@@ -398,9 +398,13 @@ onboarding-checklist-remove-2 = Kontrolnu lisćinu wótwónoźeś
 
 tab-groups-onboarding-feature-callout-title = Wopytajśo kupki rejtarikow za mjenjej njepórěda a wěcej fokusa
 tab-groups-onboarding-feature-callout-subtitle = Organizěrujśo se, śěgniśo jaden rejtarik górjejce na drugi, aby wašu prědnu kupku napórał.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Namakajśo kuždy cas swóje kupki rejtarikow w meniju „Rejtariki pśepytaś a zastojaś“.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Namakajśo kuždy cas swóje kupki rejtarikow w meniju Wšykne rejtariki nalicyś.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Pytajśo za swójimi kupkami, aby je w adresowem pólu namakał.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Gaž kupku rejtarikow zacynjaśo, wócyńśo ju zasej kuždy cas z menija „Rejtariki pśepytaś a zastojaś“.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Gaž kupku rejtarikow zacynjaśo, wócyńśo ju zasej kuždy cas z menija Wšykne rejtariki nalicyś.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Pytajśo za swójimi zacynjonymi kupkami, aby je w adresowem pólu namakał.

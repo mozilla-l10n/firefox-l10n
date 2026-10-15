@@ -282,6 +282,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } websedłow
         }
     .label = Nastajenja websedłow zastojaś
+ip-protection-site-rules-header-1 =
+    .heading = Pšawidła VPN zastojaś
+ip-protection-site-rules-button-1 =
+    .description = Nastajśo pšawidła za websedła, kótarež pśidatnu priwatnosć abo znjemóžnjony VPN trjebaju.
+    .label = Pšawidła VPN zastojaś
+ip-protection-site-rules-list-section =
+    .description = Wubjeŕśo, kak VPN za sedła funkcioněrujo, kótarež pśidatnu priwatnosć trjebaju abo znjemóžniśo VPN.
+    .label = Pšawidła websedłow
+ip-protection-site-rules-add-button =
+    .label = Pšawidło póstajiś
+ip-protection-site-rules-delete-all-button =
+    .label = Wšykne pšawidła lašowaś
+ip-protection-site-rules-empty = Pšawidła, kótarež sćo póstajił, se how zjawiju.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN pśecej zmóžnjony
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN pśecej znjemóžnjony
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Pšawidło za { $website } wobźěłaś
+    .title = Wobźěłaś
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Pšawidło za { $website } lašowaś
+    .title = Lašowaś
 ip-protection-site-rules-header =
     .heading = Pšawidła websedła zastojaś
 ip-protection-site-rules-button =
@@ -305,6 +332,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Nastajenja websedłow zastojaś
 ip-protection-exclusions-desc = Wužywajśo VPN za wšykne websedła mimo za te, kótarež su w lisćinje. Pśidajśo websedło how abo wócyńśo VPN.
+ip-protection-site-rule-window =
+    .title = Pšawidło póstajiś
+ip-protection-edit-site-rule-window =
+    .title = Pšawidło wobźěłaś
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Nastajiś
+    .buttonaccesskeyaccept = N
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Składowaś
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Zapódajśo sedła a wubjeŕśo pón jogo status VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Websedło
+    .placeholder = pś.: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Status VPN
+ip-protection-site-rule-status-on =
+    .label = Pśecej zmóžnjony
+ip-protection-site-rule-status-off =
+    .label = Pśecej znjemóžnjony
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Zapódajśo płaśiwu adresu websedła.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Toś to sedło ma južo pšawidło.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Zmólka pśi napóranju pšawidła. Pšosym wopytajśo hyšći raz.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Pšawidło za { $website } lašowaś?
+ip-protection-delete-site-rule-cancel =
+    .label = Pśetergnuś
+ip-protection-delete-site-rule-confirm =
+    .label = Lašowaś
+ip-protection-delete-all-site-rules-message = Wšykne pšawidła websedła lašowaś?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Wšykne pšawidła lašowaś
 
 ## IP Protection Bandwidth
 
