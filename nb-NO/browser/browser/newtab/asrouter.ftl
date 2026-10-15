@@ -513,3 +513,9 @@ refresh-unused-profile-infobar-message = Det ser ut som du ikke har startet { -b
 refresh-reinstalled-profile-infobar-message = Ser ut som at du har installert { -brand-short-name } på nytt. Vil du at vi skal rydde opp slik at du får en frisk, som-ny-opplevelse?
 refresh-profile-infobar-button = Nullstill { -brand-short-name } …
     .accesskey = u
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Åpne tidligere faner?</strong> Du kan gjenopprette den forrige økten fra { -brand-short-name }-programmenyen <img data-l10n-name="icon"/>, under Historikk.
+restore-session-startup-suggestion-button = Vis meg hvordan
