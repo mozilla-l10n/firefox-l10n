@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = V
 view-source-context-wrap-long-lines =
     .label = Ajusta les línies llargues
+view-source-context-highlight-syntax =
+    .label = Ressaltat de sintaxi
