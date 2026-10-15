@@ -283,20 +283,20 @@ ip-protection-site-exceptions-all-sites-button =
 ip-protection-site-rules-header-1 =
     .heading = Hantera VPN-regler
 ip-protection-site-rules-button-1 =
-    .description = Ange regler för webbplatser som behöver extra sekretess eller VPN avstängt.
+    .description = Ange regler för webbplatser som kräver extra integritet eller där VPN måste vara avstängt.
     .label = Hantera VPN-regler
 ip-protection-site-rules-list-section =
-    .description = Välj hur VPN fungerar för webbplatser som behöver extra sekretess eller VPN avstängt.
-    .label = Webbplatsens regler
+    .description = Välj hur VPN ska fungera för webbplatser som kräver extra integritet eller där VPN ska vara avstängt.
+    .label = Regler för webbplatsen
 ip-protection-site-rules-add-button =
     .label = Ange regel
 ip-protection-site-rules-delete-all-button =
     .label = Ta bort alla regler
-ip-protection-site-rules-empty = Här visas regler du anger.
+ip-protection-site-rules-empty = Regler som du skapar visas här.
 # Shown on a website whose rule turns the VPN on for it
 ip-protection-site-rules-rule-included = VPN alltid på
 # Shown on a website whose rule turns the VPN off for it
-ip-protection-site-rules-rule-excluded = VPN alltid avstängt
+ip-protection-site-rules-rule-excluded = VPN alltid av
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-site-rules-edit-button =
@@ -335,8 +335,8 @@ ip-protection-site-rule-window =
 ip-protection-edit-site-rule-window =
     .title = Redigera regel
 ip-protection-site-rule-dialog =
-    .buttonlabelaccept = Använd
-    .buttonaccesskeyaccept = S
+    .buttonlabelaccept = Ange
+    .buttonaccesskeyaccept = A
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Spara
     .buttonaccesskeyaccept = S
@@ -352,14 +352,14 @@ ip-protection-site-rule-status-field =
 ip-protection-site-rule-status-on =
     .label = Alltid på
 ip-protection-site-rule-status-off =
-    .label = Alltid avstängd
+    .label = Alltid av
 # Shown below the website field when what was typed is not a website address.
 ip-protection-site-rule-invalid-error = Ange en giltig webbplatsadress.
 # Shown below the website field when the typed website already has a rule.
 ip-protection-site-rule-duplicate-error = Den här webbplatsen har redan en regel.
 # Shown at the top of the dialog when the rule could not be saved.
 ip-protection-site-rule-save-error =
-    .message = Fel vid skapande av regel. Försök igen.
+    .message = Det gick inte att skapa regeln. Försök igen.
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-delete-site-rule-message = Ta bort regel för { $website }?
