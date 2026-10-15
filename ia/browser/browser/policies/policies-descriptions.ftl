@@ -129,6 +129,7 @@ policy-OfferToSaveLogins = Fortiar que le parametro permitte a { -brand-short-na
 policy-OfferToSaveLoginsDefault = Indica le valor predefinite pro permitter a { -brand-short-name } de offerer de memorisar credentiales. Le valores "true" e "false" es acceptate.
 policy-OverrideFirstRunPage = Supplantar le pagina de prime uso. Vacua le valor de iste directiva si tu vole disactivar le pagina de prime uso.
 policy-OverridePostUpdatePage = Supplantar le pagina de “Novas” post-actualisation. Defini iste criterio a blanc si tu desira disactivar le pagina de post-actualisation.
+policy-PasswordManagerEnabled2 = Activar o disactivar le reservation de contrasignos al gestor de contrasignos. Si disactivate, le contrasignos (about:logins) es alsi blocate.
 policy-PasswordManagerEnabled = Activar salvamento de contrasignos al gestor de contrasignos.
 policy-PasswordManagerExceptions = Impedir a { -brand-short-name } de salvar le contrasigno pro sitos specific.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -147,6 +148,7 @@ policy-RelaunchRequired = Require a { -brand-short-name } de esser re-lanceate i
 policy-RequestedLocales = Defini le lista del localisationes desirate pro le applicationes in ordine de tu preferentias.
 policy-SanitizeOnShutdown2 = Eliminar datos de navigation al clausura.
 policy-SearchBar = Definir le localisation predefinite del barra de recerca. Le usator pote ancora lo personalisar.
+policy-SearchEngines2 = Configurar le parametros del motores de recerca.
 policy-SearchEngines = Configurar le parametros del motores de recerca. Iste criterio es solmente disponibile sur le version con supporto extendite (Extended Support Release - ESR).
 policy-SearchSuggestEnabled = Activar o disactivar suggestiones de recerca.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

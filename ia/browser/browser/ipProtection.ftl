@@ -340,6 +340,8 @@ ip-protection-site-rule-dialog =
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Salvar
     .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Insere un sito, pois elige su stato de VPN.
 # "ex:" is short for "example".
 ip-protection-site-rule-website-field =
     .label = Sito web
