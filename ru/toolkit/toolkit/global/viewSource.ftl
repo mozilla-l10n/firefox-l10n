@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Переход к строке
+view-source-go-to-line-text = Введите номер строки
 view-source-invalid-input-title = Некорректный ввод
 view-source-invalid-input-text = Введенный номер строки некорректен.
 view-source-out-of-range-title = Строка не найдена
