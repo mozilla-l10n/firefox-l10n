@@ -1712,6 +1712,8 @@ content-blocking-etp-standard-tcp-rollout-learn-more = Més informació
 content-blocking-etp-standard-tcp-title = Inclou la Protecció total de galetes, la nostra funció de privadesa més potent fins ara
 content-blocking-warning-title-2 = La protecció contra el seguiment estricta pot fer que alguns llocs no funcionin correctament
 content-blocking-warning-title-custom = La protecció contra el seguiment personalitzada pot fer que alguns llocs no funcionin correctament
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = El { -brand-short-name } recomana utilitzar els paràmetres de «Corregeix els problemes dels llocs» per reduir el nombre de funcions i continguts que no funcionen correctament. Si un lloc sembla que no funciona correctament, proveu de desactivar la protecció contra el seguiment per tal que es carregui tot el contingut del lloc.
 content-blocking-warning-learn-how = Vegeu com fer-ho
 content-blocking-baseline-exceptions-3 =
     .description = Ajuda a carregar els llocs i les funcions desblocant només els elements essencials que poden fer seguiment. Inclou els problemes més comuns.
