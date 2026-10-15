@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Ба сатр гузаред
+view-source-go-to-line-text = Рақами сатрро ворид намоед
 view-source-invalid-input-title = Воридаи нодуруст
 view-source-invalid-input-text = Рақами сатри воридшуда нодуруст аст.
 view-source-out-of-range-title = Сатр ёфт нашуд
