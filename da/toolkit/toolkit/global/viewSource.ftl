@@ -18,3 +18,5 @@ view-source-context-go-to-line =
     .accesskey = G
 view-source-context-wrap-long-lines =
     .label = Ombryd lange linjer
+view-source-context-highlight-syntax =
+    .label = Syntaksfremhævning
