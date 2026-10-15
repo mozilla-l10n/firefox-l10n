@@ -5,11 +5,24 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Dźi k lince
+view-source-go-to-line-text = Čisło linki zapisać
+view-source-invalid-input-title = Njepłaćiwy zapisk
+view-source-invalid-input-text = Zapisane čisło linki je njepłaćiwe.
+view-source-out-of-range-title = Linka njenamakana
+view-source-out-of-range-text = Podata linka njeje so namakała.
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = DOM-žórło wuběra
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = Dźi k lince…
+    .accesskey = D
+view-source-context-wrap-long-lines =
+    .label = Dołhe linki łamać
 view-source-context-highlight-syntax =
     .label = Syntaksowe wuzběhnjenje
