@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Przejdź do wiersza
+view-source-go-to-line-text = Wprowadź numer wiersza
 view-source-invalid-input-title = Nieprawidłowe dane
 view-source-invalid-input-text = Wprowadzony numer wiersza jest nieprawidłowy.
 view-source-out-of-range-title = Nie odnaleziono wiersza.
