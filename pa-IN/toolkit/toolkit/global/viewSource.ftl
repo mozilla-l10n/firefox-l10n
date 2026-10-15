@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = ਲੰਮੀਆਂ ਲਾਈਨਾਂ ਨੂੰ ਸਮੇਟੋ
+view-source-context-highlight-syntax =
+    .label = ਸੰਟੈਕਸ ਉਭਾਰੋ
