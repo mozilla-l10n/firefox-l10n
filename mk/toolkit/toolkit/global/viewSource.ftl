@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = Л
 view-source-context-wrap-long-lines =
     .label = Прекрши долги линии
+view-source-context-highlight-syntax =
+    .label = Истакнување синтакса
