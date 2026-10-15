@@ -520,3 +520,9 @@ refresh-unused-profile-infobar-message = Badirudi azkenaldian ez duzula { -brand
 refresh-reinstalled-profile-infobar-message = Badirudi { -brand-short-name } berrinstalatu duzula. Nahi duzu goitik behera garbitzea berria bezala uzteko?
 refresh-profile-infobar-button = Berritu { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Ireki aurreko fitxak?</strong> Aurreko zure saioa berrezar dezakezu { -brand-short-name } aplikazio-menutik <img data-l10n-name="icon"/>, Historia barnean.
+restore-session-startup-suggestion-button = Erakuts iezadazu nola
