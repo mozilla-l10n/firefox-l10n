@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Itzulbiratu lerro luzeak
+view-source-context-highlight-syntax =
+    .label = Sintaxia nabarmentzea
