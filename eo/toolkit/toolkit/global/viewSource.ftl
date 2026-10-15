@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Iri al linio
+view-source-go-to-line-text = Tajpu numeron de linio
 view-source-invalid-input-title = Nevalida valoro
 view-source-invalid-input-text = La numero de linio tajpita ne estas valida.
 view-source-out-of-range-title = Linio ne trovita
