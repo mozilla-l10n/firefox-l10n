@@ -154,6 +154,30 @@ ip-protection-site-rule-intro = Jāievada vietne, tad jāatlasa tās VPN stāvok
 ip-protection-site-rule-website-field =
     .label = Tīmekļvietne
     .placeholder = piem.: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN stāvoklis
+ip-protection-site-rule-status-on =
+    .label = Vienmēr ieslēgts
+ip-protection-site-rule-status-off =
+    .label = Vienmēr izslēgts
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Jāievada derīga tīmekļvietnes adrese
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Šai vietnei jau ir kārtula.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Kļūda kārtulas izveidošanā. Lūgums mēģināt vēl.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Izdzēst { $website } kārtulu?
+ip-protection-delete-site-rule-cancel =
+    .label = Atcelt
+ip-protection-delete-site-rule-confirm =
+    .label = Izdzēst
+ip-protection-delete-all-site-rules-message = Izdzēst visas tīmekļvietņu kārtulas?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Izdzēst visas kārtulas
 
 ## IP Protection bandwidth reset callout
 

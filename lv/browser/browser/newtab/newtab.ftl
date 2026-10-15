@@ -45,6 +45,8 @@ home-prefs-search-widget-header =
 # Horoscopes is a widget on New Tab that shows daily horoscopes.
 home-prefs-horoscopes-header =
     .label = Horoskopi
+home-prefs-manage-widgets-link =
+    .label = Pārvaldīt logrīkus
 home-prefs-choose-wallpaper-link2 =
     .label = Izvēlēties ekrāntapeti
 home-prefs-firefox-logo-header =
@@ -333,6 +335,11 @@ newtab-recent-searches-empty-trending = Biežākie meklējumi šobrīd nav pieej
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskopi
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Atvērt horoskopu izvēlni
+    .title = Atvērt horoskopu izvēlni
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Horoskopu iespējas
