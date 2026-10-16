@@ -620,7 +620,7 @@ home-custom-homepage-subpage =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header2 = { -firefox-home-brand-name } saturs
-home-prefs-content-description2 = Izvēlies, kādu saturu vēlies savā { -firefox-home-brand-name } ekrānā.
+home-prefs-content-description2 = Izvēlies, kādu saturu vēlies savā { -firefox-home-brand-name } ekrānā!
 home-prefs-search-header =
     .label = Tīmekļa meklēšana
 home-prefs-shortcuts-header =
@@ -1165,7 +1165,7 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = Līdzsvarots aizsardzībai un veiktspējai. Lapas tiks ielādētas kā parasti.
 content-blocking-etp-strict-desc = Spēcīgāka aizsardzība, bet var salauzt dažas vietnes vai saturu.
-content-blocking-etp-custom-desc = Izvēlies, kurus izsekotājus un skriptus aizturēt.
+content-blocking-etp-custom-desc = Izvēlies, kurus izsekotājus un skriptus aizturēt!
 content-blocking-etp-blocking-desc = { -brand-short-name } bloķē sekojošo:
 content-blocking-private-windows = Izsekojošs saturs privātajos logos
 content-blocking-cross-site-cookies-in-all-windows2 = Starpvietņu sīkdatnes visos logos
