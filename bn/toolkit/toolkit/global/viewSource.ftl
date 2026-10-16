@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = লম্বা লাইন মোড়ানো হবে
+view-source-context-highlight-syntax =
+    .label = সিনট্যাক্স হাইলাইট হবে
