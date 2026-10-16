@@ -30,3 +30,7 @@ bookmark-properties-title-add-multiple-bookmarks = New Bookmarks
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Folder Name]
+bookmark-properties-default-name-folder = New Folder
+bookmark-properties-default-name-bookmark = New Bookmark
