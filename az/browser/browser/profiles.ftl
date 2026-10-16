@@ -33,10 +33,15 @@ edit-profile-page-desktop-shortcut-header = Masaüstü qısayolu yarat
 edit-profile-page-avatar-header-2 =
     .label = Avatar
 new-profile-page-header = Yeni profilinizi özəlləşdirin
+new-profile-page-header-description = Hər bir profil öz təkrarolunmaz baxış tarixçəsi və tənzimləmələrini digər profillərinizdən ayrı saxlayır. Həmçinin { -brand-short-name }-un güclü məxfilik qorumaları standart olaraq açıq olur.
+new-profile-page-input-placeholder =
+    .placeholder = "İş" və ya "Şəxsi" kimi bir ad seçin
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = { $profilename } kopyası özəlləşdirilməyə hazırdır
+copied-profile-page-header-description = Məlumatlarınızı və tənzimləmələrinizi yeni profilə köçürdük. İndi ona bir ad verin, görünüş seçin və fərdiləşdirin.
 restored-profile-page-header = Geri qaytarılmış profilinizi özəlləşdirin
+restored-profile-page-header-description = Hər bir profil öz təkrarolunmaz baxış tarixçəsi və tənzimləmələrini digər profillərinizdən ayrı saxlayır. Həmçinin { -brand-short-name }-un güclü məxfilik qorumaları standart olaraq açıq olur.
 
 ## Alternative text for default profile icons
 
