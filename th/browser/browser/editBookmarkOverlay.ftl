@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = ใช้ป้ายกำกับเพื่อจัดระเบียบและค้นหาที่คั่นหน้าได้จากแถบที่อยู่
 bookmark-overlay-keyword-caption-label-2 = ใช้คำสำคัญคำเดียวเพื่อเปิดที่คั่นหน้าโดยตรงจากแถบที่อยู่
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = บันทึก
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = เพิ่มที่คั่นหน้า
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = ที่คั่นหน้าใหม่
+bookmark-properties-title-add-folder = เพิ่มโฟลเดอร์ที่คั่นหน้า
+bookmark-properties-title-edit-bookmark = แก้ไขที่คั่นหน้า
+bookmark-properties-title-edit-folder = แก้ไขโฟลเดอร์ที่คั่นหน้า
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [ชื่อโฟลเดอร์]
+bookmark-properties-default-name-folder = โฟลเดอร์ใหม่
+bookmark-properties-default-name-bookmark = ที่คั่นหน้าใหม่
