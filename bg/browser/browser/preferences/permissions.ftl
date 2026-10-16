@@ -154,6 +154,22 @@ permissions-site-camera-disable-label =
     .label = Спиране на всички нови запитвания за достъп до камерата
 permissions-site-camera-disable-desc = По този начин ще попречите на страниците, които не са в списъка да искат разрешение за достъп до камерата. Спирането на достъпа да камерата ви може да наруши работата на страниците.
 
+## Site Permissions - Loopback network
+
+permissions-site-localhost-window =
+    .style = { permissions-window2.style }
+    .title = Настройки - Приложения на устройството и услуги
+permissions-site-localhost-desc = Тези уебсайтове поискаха достъп до приложения и услуги на това устройство. Можете да разрешите или да забраните на сайтовете да правят това.
+permissions-site-localhost-disable-label =
+    .label = Блокиране на нови заявки за достъп до приложения и услуги на това устройство
+permissions-site-localhost-disable-desc = Това ще попречи на уебсайтове, които не са в списъка, да искат достъп до приложения и услуги на това устройство. Това може да наруши някои неща по страниците.
+
+## Site Permissions - Local network
+
+permissions-site-local-network-desc = Тези страници са поискали достъп до приложения и услуги на устройства, свързани към вашата Wi-Fi или локална мрежа. Можете да разрешите или да забраните на сайтовете да правят това.
+permissions-site-local-network-disable-label =
+    .label = Блокиране на нови заявки за достъп на приложения и услуги на устройства, свързани към вашата Wi-Fi или локална мрежа.
+
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window2 =
