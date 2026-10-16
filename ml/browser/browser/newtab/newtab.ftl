@@ -89,6 +89,80 @@ home-prefs-recent-activity-select =
 home-prefs-weather-header-srd =
     .label = കാലാവസ്ഥ
 
+## Strings for the Privacy widget
+
+
+## Privacy widget — count readout
+
+
+## Privacy widget — empty state
+
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+
+## Strings for the Finance widget
+
+
+## Strings for the Finance widget
+
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+
+## Finance widget watchlist add and remove controls
+
+
+## Finance widget ticker search
+
+
+## Strings for the Picture of the Day widget
+
+
+## Strings for the Search widget
+
+
+## Strings for the Search widget
+
+
+## Recent searches widget — empty states
+
+
+## Strings for the Horoscopes widget
+
+
+## Strings for the Travel widget
+
+# Context menu item linking to more information about the widget.
+newtab-travel-menu-learn-more = കൂടുതല്‍ അറിയുക
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -135,6 +209,9 @@ newtab-topsites-use-custom-image-link = ഒരു ഇഷ്‌ടാനുസൃ
 newtab-topsites-use-image-link = ഒരു ഇഷ്‌ടാനുസൃത ചിത്രം ഉപയോഗിക്കുക…
 newtab-topsites-image-validation = ചിത്രം ലഭ്യമാക്കാൻ പറ്റിയില്ല. വേറെയൊരു യൂആർഎൽ ശ്രമിച്ചു നോക്കൂ
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = റദ്ദാക്കുക
@@ -152,6 +229,12 @@ newtab-confirm-delete-history-p2 = ഈ പ്രവർത്തനം പഴയ�
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = പണം കൊണ്ടു് പ്രചരിപ്പിച്ചതു്
+
+## Label used by screen readers for pinned top sites
+
+
+## Top Sites - Web notifications hover card
+
 
 ## Context Menu - Action Tooltips.
 
@@ -267,6 +350,9 @@ newtab-discovery-empty-section-topstories-loading = ലഭ്യമാക്ക�
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = അയ്യോ! ഈ വിഭാഗം ഏതാണ്ടു് ലഭ്യമാക്കി, പക്ഷേ അതു് മുഴുവനായി ചെയ്യാൻ പറ്റിയില്ല.
 
+## Strings for the story cards carousel
+
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -300,6 +386,12 @@ newtab-custom-close-menu-button =
     .aria-label = കുറിപ്പടി അടയ്ക്കുക
     .title = അടയ്ക്കുക
 
+## Customization Menu
+
+
+## New Tab Appearance (browser theme picker)
+
+
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -314,6 +406,11 @@ newtab-wallpaper-toggle-title =
 newtab-wallpaper-light-red-panda = ചുമന്ന കരടിപ്പൂച്ച
 newtab-wallpaper-light-mountain = വെളുത്ത മല
 newtab-wallpaper-light-sky = പാടലന്നിറത്തിന്റെയും ഊതന്നിറത്തിന്റെയും മുകിലുകൾ നിറഞ്ഞവ്വിണ്ണു്
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
 
 ## Solid Colors
 
@@ -358,6 +455,15 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
+
+## Firefox
+
+
+## Celestial
+
 
 ## New Tab Weather
 
@@ -465,6 +571,15 @@ newtab-custom-wallpaper-cta = ഉപയോഗിച്ചു് നോക്ക�
 
 newtab-new-user-custom-wallpaper-cta = ഉപയോഗിച്ചു നോക്കൂ
 
+## Strings for Nova wallpaper feature highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting issues with ads and content
 
 newtab-report-ads-reason-not-interested =
@@ -512,6 +627,15 @@ newtab-widget-lists-name-label-default =
 newtab-widget-lists-name-placeholder-default =
     .placeholder = കാര്യപ്പട്ടിക
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+
+## Crossword widget
+
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+
 ##
 
 newtab-sports-widget-cancel = റദ്ദാക്കുക
@@ -519,6 +643,37 @@ newtab-sports-widget-watch-dialog-close =
     .aria-label = അടയ്ക്കുക
     .title = അടയ്ക്കുക
 newtab-sports-widget-cancelled = റദ്ദാക്കി
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
+
+
+## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
+
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
 
 ## Strings for the Clock widget
 
