@@ -34,3 +34,18 @@ bookmark-overlay-tags-expander-hide =
 bookmark-overlay-keyword-2 =
     .value = Tu´un clave
     .accesskey = K
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Chuva´a
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Sivu tutu]
+bookmark-properties-default-name-folder = Carpeta jíía
+bookmark-properties-default-name-bookmark = Marcador jíía
