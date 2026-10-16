@@ -518,3 +518,8 @@ refresh-unused-profile-infobar-message = 歡迎回來！看來您好一陣子沒
 refresh-reinstalled-profile-infobar-message = 看來您重新安裝了 { -brand-short-name }。想要清理一下，讓您有個煥然一新的體驗嗎？
 refresh-profile-infobar-button = 重新整理 { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>想開啟先前的分頁？</strong>您可以從 { -brand-short-name } 應用程式選單 <img data-l10n-name="icon"/> 當中的「歷史」重新開啟先前的瀏覽階段。
