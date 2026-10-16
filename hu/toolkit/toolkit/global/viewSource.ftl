@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = U
 view-source-context-wrap-long-lines =
     .label = Hosszú sorok törése
+view-source-context-highlight-syntax =
+    .label = Szintaxiskiemelés
