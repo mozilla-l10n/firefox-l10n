@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Paisg loidhnichean fada
+view-source-context-highlight-syntax =
+    .label = Soillseachadh a’ cho-chàraidh
