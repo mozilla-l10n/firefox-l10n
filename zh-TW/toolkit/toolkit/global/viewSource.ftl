@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = 移至行號
+view-source-go-to-line-text = 輸入行號
 view-source-invalid-input-title = 輸入錯誤
 view-source-invalid-input-text = 輸入的行號不正確。
 view-source-out-of-range-title = 找不到此行
