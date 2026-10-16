@@ -19,3 +19,5 @@ view-source-selection-title = DOM apaw farebae
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-wrap-long-lines =
+    .label = Sian bra famu sɛ sɛntɔw no war a.
