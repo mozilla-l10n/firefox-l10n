@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = გადასვლა სტრიქონზე
+view-source-go-to-line-text = მიუთითეთ სტრიქონის ნომერი
 view-source-invalid-input-title = მცდარი მითითება
 view-source-invalid-input-text = სტრიქონის მითითებული ნომერი მცდარია.
 view-source-out-of-range-title = სტრიქონი ვერ მოიძებნა
