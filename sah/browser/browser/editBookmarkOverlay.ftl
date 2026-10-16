@@ -30,3 +30,7 @@ bookmark-properties-title-add-multiple-bookmarks = Саҥа бэлиэлэр
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Паапка аата]
+bookmark-properties-default-name-folder = Саҥа паапка
+bookmark-properties-default-name-bookmark = Саҥа бэлиэ
