@@ -40,7 +40,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Не сега
     .secondarybuttonaccesskey = Н
 appmenu-update-other-instance-message = Налично е ново издание на { -brand-shorter-name }, но не може да бъде инсталирано, защото друг екземпляр на { -brand-shorter-name } работи. За да продължи обновяването го затворете или изберете обновяване въпреки това (другия екземпляр може да работи с грешки докато не бъде рестартиран).
-appmenu-addon-post-install-message3 = Управлявайте разширения и теми от менюто на приложението.
+appmenu-addon-post-install-message3 = Управлявайте своите добавки и теми чрез менюто на приложението.
 # This string is used in the confirmation popup displayed after an extension
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Променяйте разрешенията и предпочитанията за данни по всяко време от <a data-l10n-name="settings-link">настройките на разширението</a>.

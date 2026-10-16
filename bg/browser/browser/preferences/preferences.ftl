@@ -1391,7 +1391,7 @@ payments-group =
 
 history-remember-option-never2 =
     .description = Всеки прозорец действа като поверителен прозорец. Когато е включено, разширенията трябва да бъдат разрешени.
-    .label = Никога не помни историята
+    .label = Никога да не помни историята
 history-remember-option-custom2 =
     .label = Персонализиране на историята
 history-remember-description4 =
