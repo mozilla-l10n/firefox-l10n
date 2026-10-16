@@ -5,6 +5,10 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-invalid-input-title = Ongeldige invoer
+view-source-invalid-input-text = Het ingevoerde regelnummer is ongeldig.
+view-source-out-of-range-title = Regel niet gevonden
+view-source-out-of-range-text = De opgegeven regel is niet gevonden.
 
 ##
 
