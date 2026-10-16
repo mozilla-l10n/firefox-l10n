@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Ir a la línea
+view-source-go-to-line-text = Introduzca número de línea
 view-source-invalid-input-title = Entrada no válida
 view-source-invalid-input-text = El número de línea introducido no es válido.
 view-source-out-of-range-title = No se encontró la línea
