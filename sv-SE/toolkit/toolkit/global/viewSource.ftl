@@ -5,11 +5,24 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Gå till rad
+view-source-go-to-line-text = Ange ett radnummer
+view-source-invalid-input-title = Ogiltigt radnummer
+view-source-invalid-input-text = Det angivna radnumret är ogiltigt.
+view-source-out-of-range-title = Hittar inte rad
+view-source-out-of-range-text = Den angivna raden hittades inte.
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = DOM-källan för markering
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = Gå till linje…
+    .accesskey = L
+view-source-context-wrap-long-lines =
+    .label = Radbryt text
 view-source-context-highlight-syntax =
     .label = Syntaxmarkering
