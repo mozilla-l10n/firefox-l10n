@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = Ги прикажува сите етикети
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Крие
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Сними
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Обележување на сите јазичиња
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Име на папка]
+bookmark-properties-default-name-folder = Нова папка
+bookmark-properties-default-name-bookmark = Нов обележувач
