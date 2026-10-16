@@ -30,3 +30,7 @@ bookmark-properties-title-add-multiple-bookmarks = Dipukutshwayo tše diswa
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Leina la foltara]
+bookmark-properties-default-name-folder = Foltara e mpsha
+bookmark-properties-default-name-bookmark = Pukutshwayo e mpsha
