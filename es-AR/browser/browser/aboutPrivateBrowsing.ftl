@@ -75,6 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = ¿Quién podría ver mi activ
 
 about-private-browsing-nova-info-body = Cerrar todas las ventanas privadas borra las cookies, el historial y los datos del sitio.
 about-private-browsing-nova-info-link = ¿Quién podría seguir viendo mi actividad?
+about-private-browsing-private-window-basics-link = Información básica sobre ventana privada
 about-private-browsing-private-window-redesign-subheader = { -brand-short-name } está diseñado para proteger su privacidad mientras se navega, con protecciones de rastreo incorporadas. Al cerrar esta ventana se borra el historial, las cookies y los datos del sitio para mantener privada la navegación de otras personas que usen este dispositivo.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
@@ -84,6 +85,7 @@ about-private-browsing-nova-info-subheader2 = Borraremos todas las búsquedas e 
 
 ## Strings for the Private Window basics spotlight
 
+about-private-browsing-spotlight-basics-title = Información básica sobre ventana privada
 about-private-browsing-spotlight-basics-subtitle = Las ventanas privadas ayudan a mantener la navegación privada de otras personas en este dispositivo. No lo hacen anónimo ni borran todos los datos.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.

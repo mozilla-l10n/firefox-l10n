@@ -573,6 +573,11 @@ newtab-recent-searches-empty-trending = Папулярныя пошукавыя 
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Гараскопы
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Адкрыць меню гараскопаў
+    .title = Адкрыць меню гараскопаў
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Параметры гараскопаў

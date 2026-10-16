@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Налаштування стирання історії
     .style = min-width: 34em
+    .title = Налаштування стирання історії
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Очистити дані перегляду і файли cookie
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Стерти недавню історію
     .style = min-width: 34em
+    .title = Стерти недавню історію
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Стерти всю історію
     .style = min-width: 34em
+    .title = Стерти всю історію
 clear-data-settings-label = При закритті { -brand-short-name } повинен автоматично стирати
 sanitize-on-shutdown-description = Автоматично очищати всі позначені елементи, коли { -brand-short-name } закривається.
 
@@ -48,7 +48,7 @@ clear-time-duration-value-since-midnight =
 clear-time-duration-value-today =
     .label = за сьогодні
 clear-time-duration-value-everything =
-    .label = Усю
+    .label = Усе
 clear-time-duration-suffix =
     .value = { "" }
 
