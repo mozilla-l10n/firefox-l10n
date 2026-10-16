@@ -501,3 +501,4 @@ refresh-profile-infobar-button = أنعش { -brand-short-name }…
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>أتريد فتح الألسنة الأخيرة؟</strong> يمكنك استعادة الجلسة السابقة من قائمة تطبيق { -brand-short-name } <img data-l10n-name="icon"/>، ضمن قائمة التأريخ.
+restore-session-startup-suggestion-button = ما الطريقة؟
