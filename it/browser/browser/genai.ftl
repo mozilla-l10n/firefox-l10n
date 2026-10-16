@@ -241,6 +241,11 @@ highlight-to-search-settings-ask-provider =
     .label = Chiedi a { $provider }
 highlight-to-search-settings-ask-generic =
     .label = Chiedi all’IA
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Cerca
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vuoi scoprire di più grazie all’IA?
 # Message that appears when user is shown the opt-in flow for link previews

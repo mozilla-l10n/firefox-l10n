@@ -48,4 +48,3 @@ safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmfu
 
 safeb-report-false-deceptive-error-title = Non è un sito ingannevole
 safeb-report-false-deceptive-error-message = Al momento non è possibile segnalare questo errore.
-

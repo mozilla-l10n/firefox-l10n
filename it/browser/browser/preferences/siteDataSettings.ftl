@@ -58,4 +58,3 @@ site-data-removing-table = Verranno rimossi i cookie e i dati per i seguenti sit
 site-data-clear-all-prompt-title = Elimina tutti i cookie e i dati dei siti web
 site-data-clear-all-prompt-text = Selezionando “Elimina adesso” verranno eliminati tutti i cookie e i dati dei siti web salvati in { -brand-short-name }. Questo potrebbe disconnettere l’utente da siti web o rimuovere contenuti per l’utilizzo non in linea.
 site-data-clear-all-prompt-button = Elimina adesso
-

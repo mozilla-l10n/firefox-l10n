@@ -148,6 +148,12 @@ site-rules-status-heading = Regola personalizzata
 site-rules-description-exclusion = La VPN è disattivata per questo sito
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = La VPN è attiva per questo sito
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Attivare sempre la VPN per { $website }?
+    .message = Puoi modificare le regole in qualsiasi momento nelle impostazioni.
 ipprotection-settings-link =
     .label = Impostazioni
 
@@ -377,6 +383,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Eliminare tutte le regole per i siti web?
 ip-protection-delete-all-site-rules-confirm =
     .label = Elimina tutte le regole
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Impossibile eliminare la regola
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Impossibile eliminare le regole
+ip-protection-delete-site-rule-retry =
+    .label = Riprova
 
 ## IP Protection Bandwidth
 

@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } non ha accesso ai profi
 migration-no-permissions-instructions = Per proseguire con l’importazione da un altro browser, garantire a { -brand-short-name } l’accesso alla cartella del profilo.
 migration-no-permissions-instructions-step1 = Seleziona “Continua”
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Nella finestra di selezione dei file, scegli “Apri”
+       *[other] Nella finestra di selezione dei file, vai a <code>{ $permissionsPath }</code> e scegli “Seleziona”
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:
