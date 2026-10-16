@@ -5,6 +5,12 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Přejít na řádek
+view-source-go-to-line-text = Zadejte číslo řádku
+view-source-invalid-input-title = Neplatné zadání
+view-source-invalid-input-text = Zadané číslo řádku je neplatné.
+view-source-out-of-range-title = Řádek nenalezen
+view-source-out-of-range-text = Zadaný řádek nebyl nalezen.
 
 ##
 
