@@ -30,3 +30,7 @@ bookmark-properties-title-add-multiple-bookmarks = Okokuphawula Okusha
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Igama Lefolda]
+bookmark-properties-default-name-folder = Ifolda entsha
+bookmark-properties-default-name-bookmark = Uphawu lokubekisa olusha
