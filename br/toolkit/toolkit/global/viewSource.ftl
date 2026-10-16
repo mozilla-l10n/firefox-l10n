@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Mont d'al linenn
+view-source-go-to-line-text = Roit un niverenn arroudenn
 view-source-invalid-input-title = Enankad didalvoudek
 view-source-invalid-input-text = Didalvoudek eo an niverenn arroudenn enanket.
 view-source-out-of-range-title = N'eo ket bet kavet an arroudenn
