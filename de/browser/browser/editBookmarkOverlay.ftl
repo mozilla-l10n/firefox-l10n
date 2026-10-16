@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = h
 bookmark-overlay-tags-caption-label = Schlagwörter können verwendet werden, um Lesezeichen zu organisieren und aus der Adressleiste zu suchen.
 bookmark-overlay-keyword-caption-label-2 = Ein einzelnes Schlüsselwort kann verwendet werden, um Lesezeichen direkt aus der Adressleiste zu öffnen.
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Speichern
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Lesezeichen hinzufügen
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Neue Lesezeichen
+bookmark-properties-title-add-folder = Lesezeichenordner hinzufügen
+bookmark-properties-title-edit-bookmark = Lesezeichen bearbeiten
+bookmark-properties-title-edit-folder = Lesezeichenordner bearbeiten
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Ordnername]
+bookmark-properties-default-name-folder = Neuer Ordner
+bookmark-properties-default-name-bookmark = Neues Lesezeichen
