@@ -30,3 +30,7 @@ bookmark-properties-title-add-multiple-bookmarks = নতুন বুকমা�
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [ফোল্ডারের নাম]
+bookmark-properties-default-name-folder = নতুন ফোল্ডার
+bookmark-properties-default-name-bookmark = নতুন বুকমার্ক
