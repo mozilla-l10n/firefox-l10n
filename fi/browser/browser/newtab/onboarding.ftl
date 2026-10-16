@@ -622,4 +622,6 @@ welcome-back-onboarding-primary-button-label = Aloita selaaminen
 welcome-back-onboarding-secondary-button-label = Tutustu muihin uutuuksiin
 welcome-back-onboarding-pill-label-vpn = Sisäänrakennettu VPN
 welcome-back-onboarding-pill-label-pdf = PDF-työkalut
+welcome-back-onboarding-card-label-vpn = Suojaa yksityisyyttäsi sisäänrakennetulla VPN:llä
+welcome-back-onboarding-card-label-pdf = Korosta, allekirjoita ja muokkaa PDF-tiedostoja
 welcome-back-onboarding-card-tilebutton-label = Kokeile
