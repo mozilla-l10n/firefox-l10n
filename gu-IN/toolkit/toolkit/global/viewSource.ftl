@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = લીટી પર જાઓ
+view-source-go-to-line-text = લીટી નંબર દાખલ કરો
 view-source-invalid-input-title = અયોગ્ય ઈનપુટ
 view-source-invalid-input-text = દાખલ થયેલ લીટી નંબર અયોગ્ય છે.
 view-source-out-of-range-title = લીટી મળી નથી
