@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Blockera nya förfrågningar som ber om åtkomst till dina enheter för virtuell verklighet
 permissions-site-xr-disable-desc = Detta förhindrar alla webbplatser som inte listas ovan från att begära tillåtelse att få tillgång till dina enheter för virtuell verklighet. Om du blockerar åtkomst till dina enheter för virtuell verklighet kan vissa webbplatsfunktioner sluta att fungera.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Inställningar - Blockerade webbplatser för applänkar
+permissions-site-app-links-desc = Dessa webbplatser blockeras från att be om att öppna applänkar, som e-post (mailto:). Ta bort en webbplats för att tillåta den att fråga igen.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

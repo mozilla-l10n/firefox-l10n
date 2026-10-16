@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Supprimer tout l’historique
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Supprimer les données de navigation
 clear-data-settings-label = À la fermeture de { -brand-short-name }, supprimer automatiquement les éléments suivants
 sanitize-on-shutdown-description = Effacer automatiquement tous les éléments cochés à la fermeture de { -brand-short-name }.
 
@@ -116,6 +123,14 @@ sanitize-button-ok2 =
     .label = Effacer
 sanitize-button-ok-on-shutdown =
     .label = Enregistrer les modifications
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Supprimer
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Fermer
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

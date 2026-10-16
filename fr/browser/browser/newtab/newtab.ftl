@@ -475,6 +475,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Photo du jour · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Photo du jour
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Photo du jour : { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -498,6 +502,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = Ouvrir le menu de l’image du jour
     .title = Ouvrir le menu de l’image du jour
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Choisir cette photo comme fond d’écran
+    .label = Définir comme fond d’écran
+    .title = Définir comme fond d’écran
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -506,6 +517,10 @@ newtab-picture-set-wallpaper =
     .title = Définir comme fond d’écran
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gérer le fond d’écran
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Masquer cette image
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Afficher l’image
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Masquer la photo du jour
@@ -513,6 +528,10 @@ newtab-picture-menu-hide-photo = Masquer la photo du jour
 newtab-picture-menu-show-photo = Afficher la photo du jour
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = En savoir plus
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Afficher l’image
+    .title = Afficher l’image
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Afficher la photo du jour
@@ -577,6 +596,14 @@ newtab-horoscopes-menu-learn-more = En savoir plus
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Voyages
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Ouvrir le menu des voyages
+    .title = Ouvrir le menu des voyages
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = En savoir plus
 
@@ -888,6 +915,10 @@ newtab-custom-widget-search-toggle =
     .label = Rechercher
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoscope
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Voyages
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

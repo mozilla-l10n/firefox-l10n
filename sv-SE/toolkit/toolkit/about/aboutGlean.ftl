@@ -175,6 +175,10 @@ about-glean-store-submitted-pings-select-label = Ping:
 about-glean-store-submitted-pings =
     .description = Möjliggör lagring av inskickade pingar i arbetsminnet.
     .label = Spara skickade pingar
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Kundinformation
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Ping info
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

@@ -21,6 +21,7 @@ confirmation-hint-send-to-device = Skickat!
 confirmation-hint-firefox-relay-mask-created = Nytt alias skapat!
 confirmation-hint-firefox-relay-mask-reused = Befintligt alias återanvänds!
 confirmation-hint-screenshot-copied = Skärmdump kopierad!
+confirmation-hint-tab-group-saved = Flikgrupp sparad
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

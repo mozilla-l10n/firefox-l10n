@@ -1795,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Välj vilka webbplatser som kan installera tillägg
     .accesskey = V
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Tillåt webbplatser att fråga om att öppna applänkar.
+    .accesskey = T
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Hantera blockerade webbplatser
+    .accesskey = H
 permissions-location2 =
     .label = Plats
 permissions-localhost2 =

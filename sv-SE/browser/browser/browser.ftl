@@ -1411,6 +1411,27 @@ reset-pbm-toolbar-button2 =
     .label = Rensa privat session
     .tooltiptext = Rensa privat session
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Ta bort delar av eller all surfdata
+    .tooltiptext = Ta bort delar av eller all surfdata
+fire-button-panel-heading = Ta bort all webbläsardata?
+fire-button-panel-description = Detta raderar historik, kakor och webbplatsdata. Du kommer att loggas ut från webbplatser. Det här fönstret stängs och { -brand-short-name } öppnar ett nytt.
+fire-button-panel-choose-description = Om du inte vill ta bort allt, välj specifik data istället.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Välj…
+fire-button-panel-cancel-button =
+    .label = Avbryt
+    .accesskey = A
+fire-button-panel-confirm-button =
+    .label = Ta bort alla
+    .accesskey = T
+fire-button-panel-complete = Surfdata borttagen
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } har förhindrat att den här sidan uppdateras automatiskt.

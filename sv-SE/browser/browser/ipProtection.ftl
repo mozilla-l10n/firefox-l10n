@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Introducerar VPN, nu direkt i din webb
 ipprotection-feature-introduction-title-1 = Testa { -brand-product-name }:s inbyggda VPN
 ipprotection-feature-introduction-link-text-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data.
 ipprotection-feature-introduction-title-privacy = Lägg till ytterligare ett lager av sekretess
+ipprotection-feature-introduction-title-privacy-1 = Lägg till ytterligare ett lager av sekretess med inbyggt VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplats mer privat.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplats mer privat.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">extra integritet</a> genom att välja mellan flera platser för att dölja var du surfar.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Jag förstår
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Ställ in regler för inbyggt VPN och surfa vidare
 ipprotection-site-inclusions-callout-title-lapsed-users = Prova inbyggt VPN, nu för enskilda webbplatser
+ipprotection-site-inclusions-callout-description-1 = Slå på VPN när du vill ha extra sekretess eller platsbaserad surfning, och av där du inte vill.
 ipprotection-site-inclusions-callout-description = Aktivera det för webbplatser där du vill ha extra integritet eller surfa utifrån en viss plats, och inaktivera det för övriga.
 ipprotection-site-inclusions-callout-primary-button = Ange regler
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Inte nu
@@ -144,6 +146,12 @@ site-rules-status-heading = Din regel
 site-rules-description-exclusion = VPN är avstängt för den här webbplatsen
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN är på för den här webbplatsen
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Slå alltid på VPN för { $website }?
+    .message = Uppdatera dina regler när som helst i inställningarna.
 ipprotection-settings-link =
     .label = Inställningar
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = Läs mer
 ip-protection-not-opted-in-4 =
     .heading = Testa { -brand-short-name }:s inbyggda VPN
     .message = Surfa med extra skydd genom att dölja din plats.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Är du redo att prova?
+    .message = Få { $maxUsage } GB gratis varje månad och välj vilka webbplatser som använder VPN.
 ip-protection-not-opted-in-button = Kom igång
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -283,6 +296,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Ange regler för webbplatser som kräver extra integritet eller där VPN måste vara avstängt.
     .label = Hantera VPN-regler
+ip-protection-site-rules-list-section-1 =
+    .description = Ange regler för att slå på eller inaktivera VPN automatiskt.
+    .label = Webbplatsens regler
 ip-protection-site-rules-add-button =
     .label = Ange regel
 ip-protection-site-rules-delete-all-button =
@@ -365,6 +381,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Ta bort alla webbplatsregler?
 ip-protection-delete-all-site-rules-confirm =
     .label = Ta bort alla regler
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Det gick inte att ta bort regeln
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Det gick inte att ta bort regler
+ip-protection-delete-site-rule-retry =
+    .label = Försök igen
 
 ## IP Protection Bandwidth
 
