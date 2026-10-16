@@ -19,3 +19,5 @@ view-source-selection-title = Mothopo wa kgetho ya DOM
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-wrap-long-lines =
+    .label = Phuthela methaladi e metelele
