@@ -385,6 +385,9 @@ newtab-stocks-list-watchlist = Bevakningslista
     .label = Bevakningslista
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Sök efter namn eller symbol
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finans
@@ -542,6 +545,9 @@ newtab-recent-searches-just-now = Nu
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Ta bort “{ $search }” från de senaste sökningarna
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Sök
 # Screen reader label for the widget's icon-only menu button.
@@ -574,6 +580,11 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Alternativ för horoskop
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Läs mer
+
+## Strings for the Travel widget
+
+# Context menu item linking to more information about the widget.
+newtab-travel-menu-learn-more = Läs mer
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -628,6 +639,9 @@ newtab-topsites-image-url-label = Anpassa bild-URL
 newtab-topsites-use-custom-image-link = Använd en anpassad bild
 newtab-topsites-use-image-link = Använd en anpassad bild…
 newtab-topsites-image-validation = Bilden misslyckades att ladda. Prova en annan URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Rensa text
 
@@ -1065,6 +1079,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = En räv vid högerkanten mot en orange bakgrund
 newtab-wallpaper-firefox-colorful-sky = Orange vågor över en lila natthimmel
 newtab-wallpaper-firefox-desert-dark = En räv sitter i en mörklila öken
