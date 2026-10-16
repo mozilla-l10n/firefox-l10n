@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = ໄປແຖວທີ່
+view-source-go-to-line-text = ປ້ອນຫມາຍເລກຂອງແຖວ
 view-source-invalid-input-title = ຂໍ້ມູນທີ່ປ້ອນເຂົ້າບໍ່ຖືກຕ້ອງ
 view-source-invalid-input-text = ຫມາຍເລກຂອງແຖວທີ່ໄດ້ປ້ອນເຂົ້າໄປແມ່ນບໍ່ຖືກຕ້ອງ.
 view-source-out-of-range-title = ບໍ່ສາມາດຄົ້ນຫາແຖວນີ້ໄດ້
