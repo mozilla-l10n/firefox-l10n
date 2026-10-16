@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = ᱜᱟᱨ ᱨᱮ ᱪᱟᱞᱟᱣ
+view-source-go-to-line-text = ᱜᱟᱨ ᱞᱮᱠᱷᱟ ᱟᱫᱮᱨ
 view-source-invalid-input-title = ᱵᱟᱝ ᱵᱟᱛᱟᱣ ᱟᱫᱮᱨ
 view-source-invalid-input-text = ᱜᱟᱨ ᱞᱮᱠᱷᱟ ᱟᱫᱮᱨ ᱵᱟᱝ ᱵᱟᱛᱟᱣᱟᱜ ᱠᱟᱱᱟ ᱾
 view-source-out-of-range-title = ᱜᱟᱨ ᱵᱟᱝ ᱧᱟᱢ ᱞᱮᱱᱟ
