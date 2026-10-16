@@ -30,3 +30,7 @@ bookmark-properties-title-add-multiple-bookmarks = Novi nzingalibbra
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Nomi dâ carpetta]
+bookmark-properties-default-name-folder = Nova carpetta
+bookmark-properties-default-name-bookmark = Novu nzingalibbru
