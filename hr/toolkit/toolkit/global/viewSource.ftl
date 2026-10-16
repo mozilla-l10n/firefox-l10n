@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = r
 view-source-context-wrap-long-lines =
     .label = Prelomi duge retke
+view-source-context-highlight-syntax =
+    .label = Isticanje sintakse
