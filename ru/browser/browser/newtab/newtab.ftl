@@ -393,6 +393,9 @@ newtab-stocks-list-watchlist = Список отслеживания
     .label = Список отслеживания
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Поиск по имени или символу
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Финансы
@@ -551,6 +554,9 @@ newtab-recent-searches-just-now = Прямо сейчас
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Удалить «{ $search }» из недавних поисковых запросов
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Поиск
 # Screen reader label for the widget's icon-only menu button.
@@ -583,6 +589,11 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Настройки горскопов
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Подробнее
+
+## Strings for the Travel widget
+
+# Context menu item linking to more information about the widget.
+newtab-travel-menu-learn-more = Подробнее
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -637,6 +648,9 @@ newtab-topsites-image-url-label = Свой URL изображения
 newtab-topsites-use-custom-image-link = Использовать своё изображение
 newtab-topsites-use-image-link = Использовать своё изображение…
 newtab-topsites-image-validation = Изображение не загрузилось. Попробуйте использовать другой URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Очистить текст
 
@@ -1075,6 +1089,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Лиса справа на оранжевом фоне
 newtab-wallpaper-firefox-colorful-sky = Оранжевые волны на фоне фиолетового ночного неба
 newtab-wallpaper-firefox-desert-dark = Лиса сидит в тёмно-фиолетовой пустыне
