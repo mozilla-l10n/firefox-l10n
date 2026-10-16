@@ -5,6 +5,10 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-invalid-input-title = Jeikeha oiko’ỹva
+view-source-invalid-input-text = Papapy emoingéva tairendápe ndoikói.
+view-source-out-of-range-title = Ndojejuhúi tairenda
+view-source-out-of-range-text = Ndojejuhúi tairenda ñemoha’eñopyre.
 
 ##
 
@@ -18,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Emoĩporã tairenda pukúva
+view-source-context-highlight-syntax =
+    .label = Ñe’ẽjoajungatu rechaukaha
