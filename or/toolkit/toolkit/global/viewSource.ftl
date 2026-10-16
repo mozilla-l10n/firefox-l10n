@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = ଧାଡିକୁ ଯାଆନ୍ତୁ
+view-source-go-to-line-text = ଧାଡି ସଂଖ୍ୟା ଭରଣ କରନ୍ତୁ
 view-source-invalid-input-title = ଅବୈଧ ନିବେଶ
 view-source-invalid-input-text = ଭରଣ କରାଯାଇଥିବା ଧାଡିସଂଖ୍ୟାଟି ଅବୈଧ.
 view-source-out-of-range-title = ଧାଡି ମିଳୁନାହିଁ
