@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = N
 bookmark-overlay-tags-caption-label = Använd taggar för att ordna och söka efter bokmärken från adressfältet
 bookmark-overlay-keyword-caption-label-2 = Använd ett enda nyckelord för att öppna bokmärken direkt från adressfältet
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Spara
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Lägg till bokmärke
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nya bokmärken
+bookmark-properties-title-add-folder = Lägg till bokmärkesmapp
+bookmark-properties-title-edit-bookmark = Redigera bokmärke
+bookmark-properties-title-edit-folder = Redigera bokmärkesmapp
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Mappnamn]
+bookmark-properties-default-name-folder = Ny mapp
+bookmark-properties-default-name-bookmark = Nytt bokmärke
