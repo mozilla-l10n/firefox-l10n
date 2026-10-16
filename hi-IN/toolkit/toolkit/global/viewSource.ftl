@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = एल
 view-source-context-wrap-long-lines =
     .label = लम्बी पंक्तियाँ लपेटें
+view-source-context-highlight-syntax =
+    .label = सिंटेक्स आलोकित करें
