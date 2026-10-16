@@ -5,6 +5,12 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Pumunta sa linya
+view-source-go-to-line-text = Ilagay ang numero ng linya
+view-source-invalid-input-title = Invalid na input
+view-source-invalid-input-text = Ang line number ay invalid.
+view-source-out-of-range-title = Hindi makita ang linya
+view-source-out-of-range-text = Hindi makita ang tinutukoy na linya.
 
 ##
 
