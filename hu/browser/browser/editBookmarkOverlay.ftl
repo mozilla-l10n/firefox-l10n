@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = A címkék segítségével rendezheti és kereshet rá a könyvjelzőkre a címsávból
 bookmark-overlay-keyword-caption-label-2 = Használjon egy kulcsszót a könyvjelzők közvetlenül a címsávból történő megnyitásához
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Mentés
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Könyvjelző hozzáadása
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Új könyvjelzők
+bookmark-properties-title-add-folder = Könyvjelző mappa hozzáadása
+bookmark-properties-title-edit-bookmark = Könyvjelző szerkesztése
+bookmark-properties-title-edit-folder = Könyvjelző mappa hozzáadása
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Mappa neve]
+bookmark-properties-default-name-folder = Új mappa
+bookmark-properties-default-name-bookmark = Új könyvjelző
