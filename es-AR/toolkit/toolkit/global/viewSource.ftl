@@ -5,11 +5,22 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-invalid-input-title = Ingreso no válido
+view-source-invalid-input-text = El número de línea ingresado no es válido
+view-source-out-of-range-title = Línea no encontrada
+view-source-out-of-range-text = La línea especificada no fue encontrada
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = Fuente DOM de la selección
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = Ir a línea…
+    .accesskey = L
+view-source-context-wrap-long-lines =
+    .label = Ajustar líneas largas
 view-source-context-highlight-syntax =
     .label = Resaltar sintaxis
