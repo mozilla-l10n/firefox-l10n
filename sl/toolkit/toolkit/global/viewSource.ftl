@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = V
 view-source-context-wrap-long-lines =
     .label = Prelomi dolge vrstice
+view-source-context-highlight-syntax =
+    .label = Označevanje skladnje
