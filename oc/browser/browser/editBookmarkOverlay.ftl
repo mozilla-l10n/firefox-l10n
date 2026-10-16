@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = M
 bookmark-overlay-tags-caption-label = Utilizatz las etiquetas per organizar e cercar los marcapaginas a partir de la barra d’adreça
 bookmark-overlay-keyword-caption-label-2 = Utilizatz un sol mots clau per dobrir los marcapaginas dirèctament de la barra d’adreça estant
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Enregistrar
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Apondre als marcapaginas
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Marcar totes los onglets
+bookmark-properties-title-add-folder = Apondre un dossièr de marcapaginas
+bookmark-properties-title-edit-bookmark = Modificar lo marcapagina
+bookmark-properties-title-edit-folder = Modificar lo dossièr de marcapaginas
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Nom del repertòri]
+bookmark-properties-default-name-folder = Repertòri novèl
+bookmark-properties-default-name-bookmark = Marcapagina novèl
