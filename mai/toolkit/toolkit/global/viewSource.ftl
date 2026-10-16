@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = पंक्ति पर जाउ
+view-source-go-to-line-text = पंक्ति सँख्या दाखिल  करू
 view-source-invalid-input-title = अवैध इनपुट
 view-source-invalid-input-text = दाखिल पंक्ति सँख्या अवैध  अछि .
 view-source-out-of-range-title = पंक्ति नहि भेटल
