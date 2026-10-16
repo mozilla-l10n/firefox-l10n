@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = ఈ వరుసకు వెళ్ళు
+view-source-go-to-line-text = వరుస సంఖ్యను ప్రవేశపెట్టు
 view-source-invalid-input-title = సరికాని ఇన్పుట్
 view-source-invalid-input-text = ప్రవేశపెట్టిన వరుససంఖ్య విలువైనది కాదు.
 view-source-out-of-range-title = వరుస కనబడలేదు
