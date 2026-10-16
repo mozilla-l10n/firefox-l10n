@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = Wys alle oortjies
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Verskuil
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Stoor
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nuwe boekmerke
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Vouernaam]
+bookmark-properties-default-name-folder = Nuwe vouer
+bookmark-properties-default-name-bookmark = Nuwe boekmerk
