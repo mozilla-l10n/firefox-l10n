@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Μετάβαση σε γραμμή
+view-source-go-to-line-text = Εισαγάγετε αριθμό γραμμής
 view-source-invalid-input-title = Μη έγκυρη είσοδος
 view-source-invalid-input-text = Ο αριθμός γραμμής που εισάγατε δεν είναι έγκυρος.
 view-source-out-of-range-title = Η γραμμή δεν βρέθηκε
