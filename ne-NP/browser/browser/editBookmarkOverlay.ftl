@@ -39,3 +39,20 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = ठेगाना पट्टीबाट बुकमार्कहरू व्यवस्थित गर्न र खोजी गर्न ट्यागहरू प्रयोग गर्नुहोस्
 bookmark-overlay-keyword-caption-label-2 = ठेगाना पट्टीबाट सीधै बुकमार्कहरू खोल्न एकल कुञ्जी शब्द प्रयोग गर्नुहोस्
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = सङ्ग्रह
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = नयाँ पुस्तकचिनोहरू
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [फोल्डरको नाम]
+bookmark-properties-default-name-folder = नयाँ फोल्डर
+bookmark-properties-default-name-bookmark = नयाँ पुस्तकचिनो
