@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = ایڈریس بار کنوں نشانیاں کوں ترتیب تے ڳولݨ کیتے ٹیگ استعمال کرو۔
 bookmark-overlay-keyword-caption-label-2 = ایڈریس بار کنوں براہ راست نشانیاں کھولݨ کیتے ہک کلیدی لفظ استعمال کرو۔
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = ہتھیکڑا کرو
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = نشانی شامل کرو
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = نویاں نشانیاں
+bookmark-properties-title-add-folder = نشانی دا فولڈر شامل کرو
+bookmark-properties-title-edit-bookmark = نشانی وچ تبدیلی کرو
+bookmark-properties-title-edit-folder = نشانی دا فولڈر تدوین کرو
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [فولڈر دا ناں]
+bookmark-properties-default-name-folder = نواں فولڈر
+bookmark-properties-default-name-bookmark = نویں نشانی
