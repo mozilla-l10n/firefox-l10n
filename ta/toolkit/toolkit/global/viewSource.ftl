@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = நீண்ட வரிகளை மடிக்கவும்
+view-source-context-highlight-syntax =
+    .label = நெறி முன்னிலைப்படுத்தல்
