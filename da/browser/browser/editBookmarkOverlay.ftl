@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = G
 bookmark-overlay-tags-caption-label = Brug mærkater til at organisere og søge efter bogmærker i adressefeltet
 bookmark-overlay-keyword-caption-label-2 = Brug en genvej til at åbne bogmærker direkte fra adressefeltet
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Gem
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Tilføj bogmærke
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Bogmærk alle faneblade
+bookmark-properties-title-add-folder = Tilføj bogmærke-mappe
+bookmark-properties-title-edit-bookmark = Rediger bogmærke
+bookmark-properties-title-edit-folder = Rediger bogmærke-mappe
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [mappenavn]
+bookmark-properties-default-name-folder = Ny mappe
+bookmark-properties-default-name-bookmark = Nyt bogmærke
