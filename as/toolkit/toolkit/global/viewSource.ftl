@@ -12,6 +12,10 @@ view-source-out-of-range-text = নিৰ্দ্দিষ্ট শাৰী �
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = নিৰ্বাচনৰ DOM উৎস
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-wrap-long-lines =
+    .label = দীঘল শাৰীবোৰ মেৰাই দিয়ক
