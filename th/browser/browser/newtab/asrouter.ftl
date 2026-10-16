@@ -465,6 +465,24 @@ nova-early-access-share-feedback-link = แบ่งปันข้อคิด�
 nova-early-access-infobar-primary-button = เข้าใจแล้ว
     .accesskey = ข
 
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+
 ## Refresh Firefox infobar
 ##
 ## Shown at startup when the profile has not been used in over 60 days, or when
@@ -475,3 +493,8 @@ refresh-unused-profile-infobar-message = ดูเหมือนว่าคุ
 refresh-reinstalled-profile-infobar-message = ดูเหมือนว่าคุณได้ติดตั้ง { -brand-short-name } ใหม่ ต้องการให้เราล้างทุกอย่างเพื่อเริ่มต้นใหม่หมดจด?
 refresh-profile-infobar-button = ล้าง { -brand-short-name } ใหม่…
     .accesskey = ล
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>ต้องการเปิดแท็บก่อนหน้าหรือไม่</strong> คุณสามารถเรียกคืนเซสชันก่อนหน้าได้จากเมนูแอปพลิเคชัน { -brand-short-name } <img data-l10n-name="icon"/> ภายใต้ ประวัติ
