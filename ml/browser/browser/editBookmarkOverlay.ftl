@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = പ
 bookmark-overlay-tags-caption-label = വിലാസപ്പട്ടയിലുള്ള അടയാളക്കുറിപ്പുകൾക്കായി തിരയാനും അവയെ അടുക്കിവയ്ക്കാനും ടാഗുകൾ ഉപയോഗിക്കുക
 bookmark-overlay-keyword-caption-label-2 = അടയാളക്കുറിപ്പുകളെ നേരിട്ടു് വിലാസപ്പട്ടയിൽ നിന്നു് തുറക്കാനായി ഒരു പെരുമുരി ഉപയോഗിക്കുക
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = സൂക്ഷിക്കുക
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = അടയാളക്കുറിപ്പു് ചേൎക്കുക
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = പുതിയ അടയാളക്കുറിപ്പുകള്‍
+bookmark-properties-title-add-folder = അടയാളക്കുറിപ്പറ ചേൎക്കുക
+bookmark-properties-title-edit-bookmark = അടയാളക്കുറിപ്പു് തിരുത്തുക
+bookmark-properties-title-edit-folder = അടയാളക്കുറിപ്പറ തിരുത്തുക
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [അറയിന്റെ പേരു്]
+bookmark-properties-default-name-folder = പുതിയ അറ
+bookmark-properties-default-name-bookmark = പുതിയ അടയാളക്കുറിപ്പു്

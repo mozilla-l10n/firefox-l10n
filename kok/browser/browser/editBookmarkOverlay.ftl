@@ -4,33 +4,33 @@
 
 bookmark-overlay-choose =
     .label = निवडात...
-
-bookmark-overlay-folders-expander =
-    .tooltiptext = सगळे पुस्तखूणों  फोल्डर  दाखयात
-    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
-    .tooltiptextup = लिपयात
-
 bookmark-overlay-folders-expander2 =
     .tooltiptext = सगळे पुस्तखूणों  फोल्डर  दाखयात
-
 bookmark-overlay-folders-expander-hide =
     .tooltiptext = लिपयात
-
 bookmark-overlay-new-folder-button =
     .label = नवो फोल्डर
     .accesskey = o
-
 bookmark-overlay-tags-empty-description =
     .placeholder = टॅग स्वल्पविरामान वेगळे करात
-
-bookmark-overlay-tags-expander =
-    .tooltiptext = सगळे टॅग दाखयात
-    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
-    .tooltiptextup = लिपयात
-
 bookmark-overlay-tags-expander2 =
     .tooltiptext = सगळे टॅग दाखयात
-
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = लिपयात
 
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = जतनाय करात
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = नवो बुकमार्क
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [धारकाचे नाव]
+bookmark-properties-default-name-folder = नवो फोल्डर
+bookmark-properties-default-name-bookmark = नवे बुकमार्क

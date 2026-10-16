@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = ସମସ୍ତ ଟ୍ୟାବଗୁଡିକୁ ଦର୍ଶାନ୍ତୁ
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = ଲୁଚାନ୍ତୁ
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = ସଂରକ୍ଷଣ କରନ୍ତୁ
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [ଫୋଲଡର ନାମ]
+bookmark-properties-default-name-folder = ନୂତନ ଫୋଲଡର
+bookmark-properties-default-name-bookmark = ନୂତନ ଚିହ୍ନିତ ସ୍ଥାନ

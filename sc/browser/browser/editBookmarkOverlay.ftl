@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = F
 bookmark-overlay-tags-caption-label = Imprea etichetas pro organizare e chircare sinnalibros dae sa barra de ainas
 bookmark-overlay-keyword-caption-label-2 = Imprea una crae ùnica pro abèrrere sinnalibros deretu dae sa barra de ainas
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Sarva
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Agiunghe sinnalibru
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Sinnalibros noos
+bookmark-properties-title-add-folder = Agiunghe una cartella de sinnalibros
+bookmark-properties-title-edit-bookmark = Modìfica su sinnalibru
+bookmark-properties-title-edit-folder = Modìfica sa cartella de sinnalibros
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Nòmine de sa cartella]
+bookmark-properties-default-name-folder = Cartella noa
+bookmark-properties-default-name-bookmark = Sinnalibru nou

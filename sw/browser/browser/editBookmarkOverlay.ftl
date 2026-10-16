@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = Onyesha lebo zote
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Ficha
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Hifadhi
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Alamisho Mpya
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Jina la Kabrasha]
+bookmark-properties-default-name-folder = Kabrasha Mpya
+bookmark-properties-default-name-bookmark = Alamisho Mpya

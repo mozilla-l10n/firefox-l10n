@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਬੁੱਕਮਾਰਕਾਂ ਦੇ ਇੰਤਜ਼ਾਮ ਅਤੇ ਖੋਜ ਲਈ ਟੈਗ ਵਰਤੋਂ
 bookmark-overlay-keyword-caption-label-2 = ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਸਿੱਧਾ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚੋਂ ਖੋਲ੍ਹਣ ਲਈ ਇਕਹੇਰਾ ਸ਼ਬਦ ਵਰਤੋਂ
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = ਸੰਭਾਲੋ
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = ਬੁੱਕਮਾਰਕ ਨੂੰ ਜੋੜੋ
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = ਨਵਾਂ ਬੁੱਕਮਾਰਕ
+bookmark-properties-title-add-folder = ਬੁੱਕਮਾਰਕ ਫੋਲਡਰ ਨੂੰ ਜੋੜੋ
+bookmark-properties-title-edit-bookmark = ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
+bookmark-properties-title-edit-folder = ਬੁੱਕਮਾਰਕ ਫੋਲਡਰ ਨੂੰ ਸੋਧੋ
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [ਫੋਲਡਰ ਨਾਂ]
+bookmark-properties-default-name-folder = ਨਵਾਂ ਫੋਲਡਰ
+bookmark-properties-default-name-bookmark = ਨਵਾਂ ਬੁੱਕਮਾਰਕ

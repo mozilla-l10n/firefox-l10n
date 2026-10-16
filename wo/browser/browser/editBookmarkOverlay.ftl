@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = Wone etiket yépp
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Nëbb
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Aar
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Mandarga xët yu bees
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Turu wayndare bi]
+bookmark-properties-default-name-folder = Wayndare bu bees
+bookmark-properties-default-name-bookmark = Mandarga xët bu bees

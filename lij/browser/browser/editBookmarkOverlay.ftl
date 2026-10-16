@@ -37,3 +37,20 @@ bookmark-overlay-tags-expander-hide =
 bookmark-overlay-keyword-2 =
     .value = Paròlla ciave
     .accesskey = P
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Sarva
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Neuvo segnalibbro
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Nomme da cartella]
+bookmark-properties-default-name-folder = Neuva cartella
+bookmark-properties-default-name-bookmark = Neuvo segnalibbro

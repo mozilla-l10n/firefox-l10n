@@ -526,3 +526,9 @@ refresh-unused-profile-infobar-message = Wygląda na to, że { -brand-short-name
 refresh-reinstalled-profile-infobar-message = Wygląda na to, że { -brand-short-name } został zainstalowany ponownie. Czy chcesz go wyczyścić, żeby śmigał jak nowy?
 refresh-profile-infobar-button = Odśwież { -brand-short-name(case: "acc") }…
     .accesskey = O
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Otworzyć poprzednie karty?</strong> Możesz przywrócić poprzednią sesję w menu aplikacji { -brand-short-name } <img data-l10n-name="icon"/>, w sekcji Historia.
+restore-session-startup-suggestion-button = Pokaż, jak to zrobić

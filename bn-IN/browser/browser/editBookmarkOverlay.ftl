@@ -4,33 +4,33 @@
 
 bookmark-overlay-choose =
     .label = নির্বাচন করুন…
-
-bookmark-overlay-folders-expander =
-    .tooltiptext = সকল বুকমার্ক ফোল্ডার প্রদর্শন করা হবে
-    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
-    .tooltiptextup = আড়াল করা হবে
-
 bookmark-overlay-folders-expander2 =
     .tooltiptext = সকল বুকমার্ক ফোল্ডার প্রদর্শন করা হবে
-
 bookmark-overlay-folders-expander-hide =
     .tooltiptext = আড়াল করা হবে
-
 bookmark-overlay-new-folder-button =
     .label = নতুন ফোল্ডার
     .accesskey = ন
-
 bookmark-overlay-tags-empty-description =
     .placeholder = কমা চিহ্ন দ্বারা ট্যাগ পৃথক করা হবে
-
-bookmark-overlay-tags-expander =
-    .tooltiptext = সকল ট্যাগ প্রদর্শন করা হবে
-    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
-    .tooltiptextup = আড়াল করা হবে
-
 bookmark-overlay-tags-expander2 =
     .tooltiptext = সকল ট্যাগ প্রদর্শন করা হবে
-
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = আড়াল করা হবে
 
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = সংরক্ষণ করুন
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = সকল ট্যাব বুকমার্ক করুন
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [ফোল্ডারের নাম]
+bookmark-properties-default-name-folder = নতুন ফোল্ডার
+bookmark-properties-default-name-bookmark = নতুন বুকমার্ক

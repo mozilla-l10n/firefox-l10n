@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Notaðu merki til að skipuleggja og leita að bókamerkjum á veffangastikunni
 bookmark-overlay-keyword-caption-label-2 = Notaðu stikkorð til að opna bókamerki beint af veffangastikunni
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Vista
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Bæta við bókamerki
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Ný bókamerki
+bookmark-properties-title-add-folder = Bæta við bókamerkjamöppu
+bookmark-properties-title-edit-bookmark = Breyta bókamerki
+bookmark-properties-title-edit-folder = Breyta bókamerkjamöppu
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Nafn möppu]
+bookmark-properties-default-name-folder = Ný mappa
+bookmark-properties-default-name-bookmark = Nýtt bókamerki

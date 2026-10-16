@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = ف
 bookmark-overlay-tags-caption-label = استعمل الوسوم لتنظيم العلامات والبحث عنها من شريط العنوان
 bookmark-overlay-keyword-caption-label-2 = استعمل كلمة مفتاحية واحدة لفتح العلامات مباشرةً من شريط العنوان
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = احفظ
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = أضِف علامة
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = علامات جديدة
+bookmark-properties-title-add-folder = أضِف مجلد علامات
+bookmark-properties-title-edit-bookmark = حرّر العلامة
+bookmark-properties-title-edit-folder = حرّر مجلد العلامات
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [اسم المجلّد]
+bookmark-properties-default-name-folder = مجلّد جديد
+bookmark-properties-default-name-bookmark = علامة جديدة

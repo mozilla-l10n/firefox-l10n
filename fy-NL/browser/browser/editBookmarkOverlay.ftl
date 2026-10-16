@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Brûk labels om blêdwizers fan de adresbalke út te oardenjen en te sykjen
 bookmark-overlay-keyword-caption-label-2 = Brûk in los kaaiwurd om blêdwizers streekrjocht fan de adresbalke út te iepenjen
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Bewarje
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Blêdwizer tafoegje
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nije blêdwizers
+bookmark-properties-title-add-folder = Blêdwizermap tafoegje
+bookmark-properties-title-edit-bookmark = Blêdwizer bewurkje
+bookmark-properties-title-edit-folder = Blêdwizermap bewurkje
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Mapnamme]
+bookmark-properties-default-name-folder = Nije map
+bookmark-properties-default-name-bookmark = Nije blêdwizer

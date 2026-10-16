@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = Λ
 bookmark-overlay-tags-caption-label = Χρησιμοποιήστε ετικέτες για να οργανώσετε και να αναζητήσετε σελιδοδείκτες από τη γραμμή διευθύνσεων
 bookmark-overlay-keyword-caption-label-2 = Χρησιμοποιήστε μια λέξη-κλειδί για να ανοίξετε σελιδοδείκτες απευθείας από τη γραμμή διευθύνσεων
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Αποθήκευση
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Προσθήκη σελιδοδείκτη
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Νέοι σελιδοδείκτες
+bookmark-properties-title-add-folder = Προσθήκη φακέλου σελιδοδεικτών
+bookmark-properties-title-edit-bookmark = Επεξεργασία σελιδοδείκτη
+bookmark-properties-title-edit-folder = Επεξεργασία φακέλου σελιδοδεικτών
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Όνομα φακέλου]
+bookmark-properties-default-name-folder = Νέος φάκελος
+bookmark-properties-default-name-bookmark = Νέος σελιδοδείκτης

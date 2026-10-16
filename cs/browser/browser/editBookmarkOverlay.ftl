@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Pomocí štítků si můžete uspořádat své záložky a vyhledávat je z adresního řádku
 bookmark-overlay-keyword-caption-label-2 = Pomocí jediného klíčového slova můžete otevírat záložky přímo z adresního řádku
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Uložit
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Přidat záložku
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Přidat všechny panely do záložek
+bookmark-properties-title-add-folder = Přidat složku záložek
+bookmark-properties-title-edit-bookmark = Upravit záložku
+bookmark-properties-title-edit-folder = Upravit složku záložek
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Název složky]
+bookmark-properties-default-name-folder = Nová složka
+bookmark-properties-default-name-bookmark = Nová záložka

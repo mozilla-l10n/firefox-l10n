@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = ک
 bookmark-overlay-tags-caption-label = برای سازماندهی و جستجوی نشانک‌ها در نوار آدرس از برچسب‌ها استفاده کنید
 bookmark-overlay-keyword-caption-label-2 = برای باز کردن نشانک‌ها از نوار آدرس، از یک کلیدواژه استفاده کنید
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = ذخیره
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = افزودن نشانک
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = نشانک جدید
+bookmark-properties-title-add-folder = اضافه کردن پوشه نشانک
+bookmark-properties-title-edit-bookmark = ویرایش نشانک
+bookmark-properties-title-edit-folder = ویرایش پوشه نشانک
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [نام پوشه]
+bookmark-properties-default-name-folder = پوشهٔ جدید
+bookmark-properties-default-name-bookmark = نشانک جدید

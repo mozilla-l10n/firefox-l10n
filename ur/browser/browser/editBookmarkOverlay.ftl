@@ -34,3 +34,22 @@ bookmark-overlay-tags-expander-hide =
 bookmark-overlay-keyword-2 =
     .value = کلیدی لفظ
     .accesskey = K
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = محفوظ کریں
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = بک مارک شامل کریں
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = نئی بک مارک
+bookmark-properties-title-edit-bookmark = بُک مارک کی تدوین کریں
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Folder Name]
+bookmark-properties-default-name-folder = نیا پوشہ
+bookmark-properties-default-name-bookmark = نئی بک مارک

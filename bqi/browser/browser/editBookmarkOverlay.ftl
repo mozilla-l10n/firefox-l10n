@@ -35,3 +35,24 @@ bookmark-overlay-tags-expander2 =
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = بؽڌار کردن
 bookmark-overlay-tags-caption-label = سی سازمووݩ دهی وو پیتینیڌن نشووکا من نوار نشۊوی، برچسبا ن و کار بگرین
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = زفت
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = ٱووردن نشووک
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = نشووک نۊ
+bookmark-properties-title-add-folder = ٱووردن دوبلگه نشووک
+bookmark-properties-title-edit-bookmark = آلشت نشووک
+bookmark-properties-title-edit-folder = آلشت دوبلگه نشووک
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [نوم دوبلگه]
+bookmark-properties-default-name-folder = دوبلگه نۊ
+bookmark-properties-default-name-bookmark = نشووک نۊ

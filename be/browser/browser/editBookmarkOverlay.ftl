@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = К
 bookmark-overlay-tags-caption-label = Выкарыстоўвайце тэгі для арганізацыі і пошуку закладак з адраснага радка
 bookmark-overlay-keyword-caption-label-2 = Выкарыстоўвайце адно ключавое слова, каб адкрываць закладкі наўпрост з адраснага радка
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Захаваць
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Дадаць закладку
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Новыя закладкі
+bookmark-properties-title-add-folder = Дадаць папку закладак
+bookmark-properties-title-edit-bookmark = Змяніць закладку
+bookmark-properties-title-edit-folder = Рэдагаваць папку закладак
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Назва папкі]
+bookmark-properties-default-name-folder = Новая папка
+bookmark-properties-default-name-bookmark = Новая закладка

@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = კ
 bookmark-overlay-tags-caption-label = ჭდეებით დაახარისხეთ სანიშნები და მოიძიეთ მისამართების ველიდან
 bookmark-overlay-keyword-caption-label-2 = ერთი საკვანძო სიტყვით პირდაპირ გახსენით სანიშნები მისამართების ველიდან
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = შენახვა
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = სანიშნის დამატება
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = ახალი სანიშნები
+bookmark-properties-title-add-folder = სანიშნის საქაღალდის დამატება
+bookmark-properties-title-edit-bookmark = სანიშნის ჩასწორება
+bookmark-properties-title-edit-folder = სანიშნის საქაღალდის ჩასწორება
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [საქაღალდის სახელი]
+bookmark-properties-default-name-folder = ახალი საქაღალდე
+bookmark-properties-default-name-bookmark = ახალი სანიშნი

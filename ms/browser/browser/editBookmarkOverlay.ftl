@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = Papar semua tag
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Sorok
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Simpan
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Tandabuku Baru
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Nama Folder]
+bookmark-properties-default-name-folder = Folder Baru
+bookmark-properties-default-name-bookmark = Tandabuku Baru

@@ -36,3 +36,18 @@ bookmark-overlay-keyword-2 =
     .accesskey = P
 bookmark-overlay-tags-caption-label = Usa etiquetes pa organizar y buscar marcadores dende la barra de direiciones
 bookmark-overlay-keyword-caption-label-2 = Usa una pallabra clave p'abrir los marcadores direutamente dende la barra de direiciones
+
+## Bookmark properties dialog
+
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Amiestu d'un marcador
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Marcadores nuevos
+bookmark-properties-title-edit-bookmark = Edición d'un marcador
+
+## Default names for newly created bookmarks and folders.
+
+bookmark-properties-default-name-folder = Carpeta nueva
+bookmark-properties-default-name-bookmark = Marcador nuevu

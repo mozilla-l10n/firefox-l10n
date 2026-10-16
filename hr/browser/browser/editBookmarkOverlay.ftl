@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Koristi oznake za organizaciju i pretraživanje zabilješki u adresnoj traci
 bookmark-overlay-keyword-caption-label-2 = Koristi jednu ključnu riječ za izravno otvaranje zabilješki iz adresne trake
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Spremi
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Dodaj zabilješku
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nova zabilješka
+bookmark-properties-title-add-folder = Dodaj mapu zabilješki
+bookmark-properties-title-edit-bookmark = Uređivanje zabilješke
+bookmark-properties-title-edit-folder = Uređivanje mape zabilješki
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Ime mape]
+bookmark-properties-default-name-folder = Nova mapa
+bookmark-properties-default-name-bookmark = Nova zabilješka

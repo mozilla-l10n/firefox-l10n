@@ -380,6 +380,9 @@ newtab-stocks-list-watchlist = Atentaro
     .label = Atentaro
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Serĉi laŭ nomo aŭ simbolo
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Financo
@@ -537,6 +540,9 @@ newtab-recent-searches-just-now = Ĵus
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Forigi “{ $search }” el la ĵusaj serĉoj
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Serĉi
 # Screen reader label for the widget's icon-only menu button.
@@ -564,6 +570,11 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Ebloj pri horoskopo
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Pli da informo
+
+## Strings for the Travel widget
+
+# Context menu item linking to more information about the widget.
+newtab-travel-menu-learn-more = Pli da informo
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -618,6 +629,9 @@ newtab-topsites-image-url-label = Personecitiga retadreso de bildo
 newtab-topsites-use-custom-image-link = Uzi personecigitan bildon
 newtab-topsites-use-image-link = Uzi personecigitan bildon…
 newtab-topsites-image-validation = Ne eblis ŝargi la bildon. Klopodu alian retadreson.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Viŝi tekston
 
@@ -1055,6 +1069,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Vulpo je la dekstra flanko sur oranĝkolora fono
 newtab-wallpaper-firefox-colorful-sky = Ondoj oranĝkoloraj tra purpura nokta ĉielo
 newtab-wallpaper-firefox-desert-dark = Vulpo, kiu sidiĝas en malhele purpura dezerto

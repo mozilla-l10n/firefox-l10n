@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = G
 bookmark-overlay-tags-caption-label = Erabili etiketak laster-markak helbide-barratik antolatu eta bilatzeko
 bookmark-overlay-keyword-caption-label-2 = Erabili gako-hitz bat laster-markak helbide-barratik zuzenean irekitzeko
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Gorde
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Gehitu laster-marka
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Egin fitxa guztien laster-marka
+bookmark-properties-title-add-folder = Gehitu laster-marken karpeta
+bookmark-properties-title-edit-bookmark = Editatu laster-marka
+bookmark-properties-title-edit-folder = Editatu laster-marken karpeta
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Karpeta izena]
+bookmark-properties-default-name-folder = Karpeta berria
+bookmark-properties-default-name-bookmark = Laster-marka berria

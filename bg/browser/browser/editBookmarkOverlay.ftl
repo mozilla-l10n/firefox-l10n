@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = К
 bookmark-overlay-tags-caption-label = Използвайте етикети, за да организирате и търсите отметки от адресната лента
 bookmark-overlay-keyword-caption-label-2 = Използвайте една единствена дума, за да отваряте отметки директно от адресната лента
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Запазване
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Добавяне на отметка
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Нови отметки
+bookmark-properties-title-add-folder = Добавяне на папка с отметки
+bookmark-properties-title-edit-bookmark = Редактиране на отметка
+bookmark-properties-title-edit-folder = Редактиране на папката с отметки
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Име на папка]
+bookmark-properties-default-name-folder = Нова папка
+bookmark-properties-default-name-bookmark = Нова отметка

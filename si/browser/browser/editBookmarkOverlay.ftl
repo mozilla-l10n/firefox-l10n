@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = ලිපින තීරුවෙන් පොත්යොමු සංවිධානයට හා සෙවීමට අනන්‍යන භාවිතා කරන්න
 bookmark-overlay-keyword-caption-label-2 = ලිපින තීරුවෙන් කෙලින්ම පොත්යොමු ඇරීමට තනි මූලපදයක් භාවිතා කරන්න
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = සුරකින්න
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = පොත්යොමුවක් තබන්න
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = නව පොත්යොමු
+bookmark-properties-title-add-folder = පොත්යොමු බහාලුමක් එක් කරන්න
+bookmark-properties-title-edit-bookmark = පොත්යොමුව සංස්කරණය‍
+bookmark-properties-title-edit-folder = පොත්යොමු බහාලුම සංස්කරණය
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [බහාලුමේ නම]
+bookmark-properties-default-name-folder = නව බහාලුම
+bookmark-properties-default-name-bookmark = නව පොත්යොමුව

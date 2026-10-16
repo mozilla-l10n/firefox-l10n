@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = F
 bookmark-overlay-tags-caption-label = Përdorni etiketat për të sistemuar dhe kërkuar faqerojtës që nga shtylla e adresave
 bookmark-overlay-keyword-caption-label-2 = Përdorni një fjalëkyç të vetëm për të hapur faqerojtës drejt e nga shtylla e adresave
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Ruaje
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Shtoni faqerojtës
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Faqerojtës të Rinj
+bookmark-properties-title-add-folder = Shtoni dosje faqerojtësish
+bookmark-properties-title-edit-bookmark = Përpunoni faqerojtësin
+bookmark-properties-title-edit-folder = Përpunoni dosje faqerojtësish
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Emër Dosjeje]
+bookmark-properties-default-name-folder = Dosje e Re
+bookmark-properties-default-name-bookmark = Faqerojtësi i Ri

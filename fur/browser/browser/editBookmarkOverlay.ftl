@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = c
 bookmark-overlay-tags-caption-label = Dopre lis etichetis par organizâ e cirî i segnelibris dret de sbare de direzion
 bookmark-overlay-keyword-caption-label-2 = Dopre une singule peraule clâf par vierzi i segnelibris dret de sbare de direzion
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Salve
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Zonte segnelibri
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Gnûfs segnelibris
+bookmark-properties-title-add-folder = Zonte cartele di segnelibris
+bookmark-properties-title-edit-bookmark = Modifiche segnelibri
+bookmark-properties-title-edit-folder = Modifiche cartele di segnelibris
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Non de cartele]
+bookmark-properties-default-name-folder = Gnove cartele
+bookmark-properties-default-name-bookmark = Gnûf segnelibri

@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = A
 bookmark-overlay-tags-caption-label = Seqdec tibzimin i wakken ad tseddseḍ rnu ad tnadiḍ ticraḍ n yisebtar seg ufaggag n tansa
 bookmark-overlay-keyword-caption-label-2 = Seqdec awal n tsarut asuf i twaledyawt n tecraḍ n yisebtar srid seg ufaggag n tansiwin
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Kles
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Rnu tacreṭ n usebter
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Ticraḍ n isebtar timaynutin
+bookmark-properties-title-add-folder = Rnu akaram n tecraḍ n yisebtar
+bookmark-properties-title-edit-bookmark = Ẓreg tacreḍt n usebter
+bookmark-properties-title-edit-folder = Ẓreg akaram n tecraḍ n yisebtar
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Isem n ukaram]
+bookmark-properties-default-name-folder = Rnu akaram
+bookmark-properties-default-name-bookmark = Tacreṭ n usebter tamaynut

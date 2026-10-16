@@ -521,3 +521,9 @@ refresh-unused-profile-infobar-message = Parece que você não usou o { -brand-s
 refresh-reinstalled-profile-infobar-message = Parece que você reinstalou o { -brand-short-name }. Quer fazer uma limpeza para deixar como novo?
 refresh-profile-infobar-button = Restaurar o { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+
+# <img data-l10n-name="icon"/> will be replaced by the application menu icon
+restore-session-startup-suggestion-message = <strong>Quer abrir abas anteriores?</strong> Você pode restaurar a sessão anterior através do menu <img data-l10n-name="icon"/> do { -brand-short-name }, em Histórico.
+restore-session-startup-suggestion-button = Mostrar como fazer

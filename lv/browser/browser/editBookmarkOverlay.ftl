@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = A
 bookmark-overlay-tags-caption-label = Izmantojiet birkas, lai kārtotu un meklētu grāmatzīmes adrešu joslā
 bookmark-overlay-keyword-caption-label-2 = Izmantojiet vienu atslēgvārdu, lai atvērtu grāmatzīmes no adrešu joslas
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Saglabāt
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Pievienot grāmatzīmi
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Jaunas grāmatzīmes
+bookmark-properties-title-add-folder = Pievienot grāmatzīmju mapi
+bookmark-properties-title-edit-bookmark = Labot grāmatzīmi
+bookmark-properties-title-edit-folder = Labot grāmatzīmju mapi
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Mapes nosaukums]
+bookmark-properties-default-name-folder = Jauna mape
+bookmark-properties-default-name-bookmark = Jauna grāmatzīme

@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = அனைத்து ஒட்டுகளையும் காட்டு
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = மறை
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = சேமி
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = புதிய புத்தகக்குறிகள்
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [அடைவு பெயர்]
+bookmark-properties-default-name-folder = புதிய அடைவு
+bookmark-properties-default-name-bookmark = புதிய புத்தகக்குறி

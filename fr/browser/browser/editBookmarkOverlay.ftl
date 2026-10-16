@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = c
 bookmark-overlay-tags-caption-label = Utilisez les étiquettes pour organiser et rechercher des marque-pages depuis la barre d’adresse
 bookmark-overlay-keyword-caption-label-2 = Utilisez un seul mot-clé pour ouvrir des marque-pages directement depuis la barre d’adresse
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Enregistrer
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Ajouter un marque-page
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nouveaux marque-pages
+bookmark-properties-title-add-folder = Ajouter un dossier de marque-pages
+bookmark-properties-title-edit-bookmark = Modifier le marque-page
+bookmark-properties-title-edit-folder = Modifier un dossier de marque-pages
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Nom du dossier]
+bookmark-properties-default-name-folder = Nouveau dossier
+bookmark-properties-default-name-bookmark = Nouveau marque-page

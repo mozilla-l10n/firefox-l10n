@@ -36,3 +36,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Używej etyket, coby se poukłodać zokłodki i szukać za nimi na posku adresy
 bookmark-overlay-keyword-caption-label-2 = Używej jednego kluczowego słowa, coby ôtwiyrać zokłodki ze poska adresy
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Spamiyntej
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Przidej zokłodka
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nowe zokłodki
+bookmark-properties-title-add-folder = Przidej katalog z zokłodkami
+bookmark-properties-title-edit-bookmark = Edytuj zokłodka
+bookmark-properties-title-edit-folder = Edytuj katalog z zokłodkami
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Miano katalogu]
+bookmark-properties-default-name-folder = Nowy katalog
+bookmark-properties-default-name-bookmark = Nowo zokłodka

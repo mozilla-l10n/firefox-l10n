@@ -36,3 +36,21 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Gumamit ng mga tag upang ayusin at maghanap ng mga bookmark mula sa address bar
 bookmark-overlay-keyword-caption-label-2 = Gumamit ng iisang keyword upang buksan ang mga bookmark nang direkta mula sa address bar
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = i-Save
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Mga Bagong Bookmark
+bookmark-properties-title-edit-bookmark = i-Edit ang bookmark
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Pangalan ng Folder]
+bookmark-properties-default-name-folder = Bagong Folder
+bookmark-properties-default-name-bookmark = Bagong Bookmark

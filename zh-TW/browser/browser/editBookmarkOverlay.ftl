@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = 使用標籤在網址列管理與搜尋書籤
 bookmark-overlay-keyword-caption-label-2 = 使用單一關鍵字，直接從網址列開啟書籤
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = 儲存
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = 新增書籤
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = 新增書籤
+bookmark-properties-title-add-folder = 新增書籤工具列
+bookmark-properties-title-edit-bookmark = 編輯書籤
+bookmark-properties-title-edit-folder = 編輯書籤工具列
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [資料夾名稱]
+bookmark-properties-default-name-folder = 新資料夾
+bookmark-properties-default-name-bookmark = 新書籤項目

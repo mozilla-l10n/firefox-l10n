@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = К
 bookmark-overlay-tags-caption-label = Барои ташкил ва ҷустуҷӯ кардани хатбаракҳо аз навори нишонӣ, барчаспҳоро истифода баред
 bookmark-overlay-keyword-caption-label-2 = Барои кушодани хатбаракҳо рост аз навори нишонӣ, калидвожаи ягонаро истифода баред
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Нигоҳ доштан
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Илова кардани хатбарак
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Хатбаракҳои нав
+bookmark-properties-title-add-folder = Илова кардани ҷузвдони хатбаракҳо
+bookmark-properties-title-edit-bookmark = Таҳрир кардани хатбарак
+bookmark-properties-title-edit-folder = Таҳрир кардани ҷузвдони хатбаракҳо
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Номи ҷузвдон]
+bookmark-properties-default-name-folder = Ҷузвдони нав
+bookmark-properties-default-name-bookmark = Хатбараки нав

@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = ಎಲ್ಲಾ ಟ್ಯಾಗ್‌ಗಳನ್ನು ತೋರಿಸು
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = ಅಡಗಿಸು
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = ಉಳಿಸು
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ಬುಕ್‌ಮಾರ್ಕ ಮಾಡು
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [ಕಡತಕೋಶದ ಹೆಸರು]
+bookmark-properties-default-name-folder = ಕಡತಕೋಶದ ಹೆಸರು
+bookmark-properties-default-name-bookmark = ಹೊಸ ಬುಕ್‌ಮಾರ್ಕ್

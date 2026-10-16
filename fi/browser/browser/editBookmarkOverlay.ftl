@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = P
 bookmark-overlay-tags-caption-label = Järjestä ja etsi kirjanmerkkejä osoitepalkista avainsanojen avulla
 bookmark-overlay-keyword-caption-label-2 = Käytä yksittäistä pikakomentoa avataksesi kirjanmerkit suoraan osoitepalkista
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Tallenna
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Lisää kirjanmerkki
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Uudet kirjanmerkit
+bookmark-properties-title-add-folder = Lisää kirjanmerkkikansio
+bookmark-properties-title-edit-bookmark = Muokkaa kirjanmerkkiä
+bookmark-properties-title-edit-folder = Muokkaa kirjanmerkkikansiota
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [kansion nimi]
+bookmark-properties-default-name-folder = Uusi kansio
+bookmark-properties-default-name-bookmark = Uusi kirjanmerkki
