@@ -166,6 +166,9 @@ permissions-site-localhost-disable-desc = Това ще попречи на уе
 
 ## Site Permissions - Local network
 
+permissions-site-local-network-window =
+    .style = { permissions-window2.style }
+    .title = Настройки - Устройства в локалната мрежа
 permissions-site-local-network-desc = Тези страници са поискали достъп до приложения и услуги на устройства, свързани към вашата Wi-Fi или локална мрежа. Можете да разрешите или да забраните на сайтовете да правят това.
 permissions-site-local-network-disable-label =
     .label = Блокиране на нови заявки за достъп на приложения и услуги на устройства, свързани към вашата Wi-Fi или локална мрежа.
