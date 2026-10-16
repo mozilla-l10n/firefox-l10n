@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Wužiwajće znački, zo byšće zapołožki organizował a z adresoweho pola pytał
 bookmark-overlay-keyword-caption-label-2 = Wužiwajće jednotliwe klučowe słowo, zo byšće zapołožki direktnje z adresoweho pola wočinił
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Składować
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Zapołožku přidać
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nowe zapołožki
+bookmark-properties-title-add-folder = Rjadowak zapołožkow přidać
+bookmark-properties-title-edit-bookmark = Zapołožku wobdźěłać
+bookmark-properties-title-edit-folder = Rjadowak zapołožkow wobdźěłać
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Mjeno rjadowaka]
+bookmark-properties-default-name-folder = Nowy rjadowak
+bookmark-properties-default-name-bookmark = Nowa zapołožka
