@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Gehe zu Zeile
+view-source-go-to-line-text = Geben Sie bitte die Zeilennummer ein
 view-source-invalid-input-title = Ungültige Eingabe
 view-source-invalid-input-text = Die angegebene Zeilennummer ist ungültig.
 view-source-out-of-range-title = Zeile nicht gefunden
