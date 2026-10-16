@@ -30,3 +30,7 @@ bookmark-properties-title-add-multiple-bookmarks = Bukmaak Foforo
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Folda Din]
+bookmark-properties-default-name-folder = Folda Foforo
+bookmark-properties-default-name-bookmark = Bukmaak Foforo
