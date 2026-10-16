@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = G
 bookmark-overlay-tags-caption-label = Grit gant an tikedennoù evit aozañ ha klask sinedoù adalek ar varrenn-glask
 bookmark-overlay-keyword-caption-label-2 = Grit gant ur ger-alc'hwez evit digeriñ sinedoù war-eeun gant ar varrenn-glask
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Enrollañ ar c'hemmoù
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Ouzhpennañ ur sined
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Ouzhpennañ un holl ivinelloù d'ar sinedoù
+bookmark-properties-title-add-folder = Ouzhpennañ un teuliad sinedoù
+bookmark-properties-title-edit-bookmark = Kemmañ ar sined
+bookmark-properties-title-edit-folder = Kemmañ teuliad ar sined
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Anv an teuliad]
+bookmark-properties-default-name-folder = Teuliad nevez
+bookmark-properties-default-name-bookmark = Sined nevez
