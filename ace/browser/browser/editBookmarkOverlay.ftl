@@ -4,3 +4,14 @@
 
 bookmark-overlay-choose =
     .label = Pileh…
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Keubah
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+
+## Default names for newly created bookmarks and folders.
+
