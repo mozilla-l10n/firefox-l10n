@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Satıra git
+view-source-go-to-line-text = Satır numarasını yazın
 view-source-invalid-input-title = Geçersiz girdi
 view-source-invalid-input-text = Verilen satır numarası geçersiz.
 view-source-out-of-range-title = Satır bulunamadı
