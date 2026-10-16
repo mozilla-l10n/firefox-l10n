@@ -70,6 +70,9 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Endirmələri Təmizlə
     .accesskey = t
+downloads-cmd-delete-file =
+    .label = Sil
+    .accesskey = S
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Endirməyə icazə ver

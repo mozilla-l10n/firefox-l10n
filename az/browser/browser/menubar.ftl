@@ -209,6 +209,11 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = Mobil əlfəcinlər
 
+## Profiles Menu
+
+menu-profiles-new-profile =
+    .label = Yeni profil
+
 ## Tools Menu
 
 menu-tools =

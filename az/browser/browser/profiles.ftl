@@ -32,16 +32,43 @@ edit-profile-page-explore-themes = Daha çox mövzu kəşf et
 edit-profile-page-desktop-shortcut-header = Masaüstü qısayolu yarat
 edit-profile-page-avatar-header-2 =
     .label = Avatar
+edit-profile-page-delete-button =
+    .label = Sil
+edit-profile-page-avatar-selector-opener-button =
+    .title = Avatarı dəyiş
+avatar-selector-dialog =
+    .aria-label = Avatarı dəyiş
+new-profile-page-title = Yeni profil
 new-profile-page-header = Yeni profilinizi özəlləşdirin
 new-profile-page-header-description = Hər bir profil öz təkrarolunmaz baxış tarixçəsi və tənzimləmələrini digər profillərinizdən ayrı saxlayır. Həmçinin { -brand-short-name }-un güclü məxfilik qorumaları standart olaraq açıq olur.
 new-profile-page-input-placeholder =
     .placeholder = "İş" və ya "Şəxsi" kimi bir ad seçin
+new-profile-page-done-button =
+    .label = Redaktəni bitir
 # Variables
 #   $profilename (String) - The name of the copied profile.
 copied-profile-page-header-2 = { $profilename } kopyası özəlləşdirilməyə hazırdır
 copied-profile-page-header-description = Məlumatlarınızı və tənzimləmələrinizi yeni profilə köçürdük. İndi ona bir ad verin, görünüş seçin və fərdiləşdirin.
 restored-profile-page-header = Geri qaytarılmış profilinizi özəlləşdirin
 restored-profile-page-header-description = Hər bir profil öz təkrarolunmaz baxış tarixçəsi və tənzimləmələrini digər profillərinizdən ayrı saxlayır. Həmçinin { -brand-short-name }-un güclü məxfilik qorumaları standart olaraq açıq olur.
+
+## Delete profile dialogue that allows users to review what they will lose if they choose to delete their profile. Each item (open windows, etc.) is displayed in a table, followed by a column with the number of items.
+
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header = { $profilename } profili silinsin?
+delete-profile-description = { -brand-short-name } aşağıdakı məlumatları bu cihazdan həmişəlik siləcək:
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-page-title-2 = { $profilename } profilini sil
+# Variables
+#   $profilename (String) - The name of the profile.
+delete-profile-header-2 = { $profilename } profili silinsin?
+
+##
+
+# Button label
+delete-profile-confirm = Sil
 
 ## Alternative text for default profile icons
 
