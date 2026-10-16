@@ -30,3 +30,7 @@ bookmark-properties-title-add-multiple-bookmarks = Hemû Hilpekînan Têxe Bijar
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Navê Peldankê]
+bookmark-properties-default-name-folder = Peldankê Têxê
+bookmark-properties-default-name-bookmark = Bijareyê Têxê
