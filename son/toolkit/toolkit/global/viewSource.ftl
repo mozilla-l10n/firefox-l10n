@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Koy žeeroo ga
+view-source-go-to-line-text = Žeeri hinna dam
 view-source-invalid-input-title = Damhaya kaŋ ši tee
 view-source-invalid-input-text = Žeeri hinna damantaa ši tee
 view-source-out-of-range-title = Žeeroo mana duwandi
