@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = Troch HuggingChat te kiezen, geane jo ak
 genai-settings-chat-lechat-links-2 = Troch Mistral Vibe te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Tsjinstbetingsten</a> en it <a data-l10n-name="link2">Privacybelied</a> fan Mistral AI.
 genai-settings-chat-lechat-links = Troch Le Chat Mistral te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Tsjinstbetingsten</a> en it <a data-l10n-name="link2">Privacybelied</a> fan Mistral AI.
 genai-settings-chat-localhost-links = Bring jo eigen privee lokale chatbot mei, lykas <a data-l10n-name="link1">llamafile</a> fan de Innovation-groep fan { -vendor-short-name }.
+genai-settings-chat-scout-links = Troch Yahoo Scout te kiezen, geane jo akkoard mei de <a data-l10n-name="link1">Tsjinstbetingsten</a> en it <a data-l10n-name="link2">Privacybelied</a> fan Yahoo.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -178,6 +179,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Brûk in AI-chatbot sûnder fan ljepblêd te wikseljen

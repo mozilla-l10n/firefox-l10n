@@ -280,6 +280,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } websites
         }
     .label = Website-ynstellingen beheare
+ip-protection-site-rules-header-1 =
+    .heading = VPN-regels beheare
+ip-protection-site-rules-button-1 =
+    .description = Regels ynstelle foar websites dy’t ekstra privacy nedich hawwe of VPN útskeakele wêze moat.
+    .label = VPN-regels beheare
 ip-protection-site-rules-header =
     .heading = Websiteregels beheare
 ip-protection-site-rules-button =
