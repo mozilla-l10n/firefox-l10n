@@ -398,12 +398,18 @@ onboarding-checklist-remove-2 = Kontrol listesini kaldır
 
 tab-groups-onboarding-feature-callout-title = Dağınıklığı azaltarak daha iyi odaklanmak için sekme gruplarını deneyin
 tab-groups-onboarding-feature-callout-subtitle = İlk grubunuzu oluşturmak için sekmeleri üst üste sürükleyin.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Sekme gruplarınıza dilediğiniz zaman “Sekmeleri ara ve yönet” menüsünden ulaşabilirsiniz.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Sekme gruplarınızı istediğiniz zaman “Tüm sekmeleri listele” menüsünde bulabilirsiniz.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Gruplarınızı adres çubuğundan arayarak bulabilirsiniz.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Bir sekme grubunu kapattıktan sonra “Sekmeleri ara ve yönet” menüsünden yeniden açabilirsiniz.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Bir sekme grubunu kapattığınızda istediğiniz zaman “Tüm sekmeleri listele” menüsünden yeniden açabilirsiniz.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Kapattığınız grupları adres çubuğundan arayarak bulabilirsiniz.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Sekme gruplarınızı dilediğiniz zaman “Sekmeleri ara ve yönet” menüsünden yeniden açabilirsiniz.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = İstediğiniz zaman “Tüm sekmeleri listele” menüsünden sekme gruplarınızı yeniden açabilirsiniz.
 tab-groups-onboarding-dismiss = Tamam

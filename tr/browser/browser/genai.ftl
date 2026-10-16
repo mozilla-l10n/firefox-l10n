@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = HuggingChat’i seçtiğinizde <a data-l
 genai-settings-chat-lechat-links-2 = Mistral Vibe’ı seçtiğinizde Mistral AI <a data-l10n-name="link1">Hizmet Koşulları</a> ve <a data-l10n-name="link2">Gizlilik Politikası</a>’nı kabul etmiş sayılırsınız.
 genai-settings-chat-lechat-links = Le Chat Mistral’ı seçtiğinizde Mistral AI <a data-l10n-name="link1">Hizmet Koşulları</a> ve <a data-l10n-name="link2">Gizlilik Politikası</a>’nı kabul etmiş sayılırsınız.
 genai-settings-chat-localhost-links = { -vendor-short-name } inovasyon grubundan <a data-l10n-name="link1">llamafile</a> gibi özel yerel sohbet botunuzu kullanabilirsiniz.
+genai-settings-chat-scout-links = Yahoo Scout’u seçtiğinizde Yahoo <a data-l10n-name="link1">Hizmet Koşulları</a> ve <a data-l10n-name="link2">Gizlilik Politikası</a>’nı kabul etmiş sayılırsınız.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
