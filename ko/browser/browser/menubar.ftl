@@ -23,7 +23,7 @@ menu-application-hide-this =
 menu-application-hide-other =
     .label = 모두 숨기기
 menu-application-show-all =
-    .label = 모두 표시
+    .label = 모두 보기
 menu-application-touch-bar =
     .label = 터치바 사용자 정의…
 
@@ -211,7 +211,7 @@ menu-view-close-readerview =
 ##
 
 menu-view-show-all-tabs =
-    .label = 모든 탭 표시
+    .label = 모든 탭 보기
     .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = 페이지 방향 변경
