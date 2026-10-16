@@ -188,6 +188,9 @@ open-new-link-as-tabs =
     .accesskey = l
 open-external-link-next-to-active-tab =
     .label = Atvērt saites no lietotnēm blakus pašreizējai cilnei
+ask-on-close-multiple-tabs =
+    .label = Vaicāt pirms vairāku ciļņu aizvēršanas
+    .accesskey = v
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted
@@ -258,6 +261,8 @@ browser-layout-vertical-tabs2 =
     .description = Cilnes sānā, sānjoslā
     .label = Stateniskās cilnes
     .title = Cilnes sānā, sānjoslā
+page-navigation-group =
+    .label = Pārvietošanās lapā
 
 ## General Section - Language & Appearance
 
