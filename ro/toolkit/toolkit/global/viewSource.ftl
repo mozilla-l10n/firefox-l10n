@@ -5,6 +5,10 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-invalid-input-title = Date introduse nevalide
+view-source-invalid-input-text = Numărul de rând introdus este nevalid.
+view-source-out-of-range-title = Rândul nu a fost găsit
+view-source-out-of-range-text = Nu s-a găsit rândul specificat.
 
 ##
 
@@ -18,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Încadrează rândurile lungi
+view-source-context-highlight-syntax =
+    .label = Evidențierea sintaxei
