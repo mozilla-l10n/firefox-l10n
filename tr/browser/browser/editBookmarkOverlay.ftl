@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = n
 bookmark-overlay-tags-caption-label = Adres çubuğundan yer imlerini düzenlemek ve aramak için etiketleri kullanabilirsiniz
 bookmark-overlay-keyword-caption-label-2 = Yer imlerini doğrudan adres çubuğundan açmak için bir anahtar kelime kullanabilirsiniz
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Kaydet
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Yer imi ekle
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Yeni Yer İmleri
+bookmark-properties-title-add-folder = Yer imi klasörü ekle
+bookmark-properties-title-edit-bookmark = Yer imini düzenle
+bookmark-properties-title-edit-folder = Yer imi klasörünü düzenle
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Klasör adı]
+bookmark-properties-default-name-folder = Yeni klasör
+bookmark-properties-default-name-bookmark = Yeni yer imi
