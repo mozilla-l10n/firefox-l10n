@@ -18,3 +18,20 @@ bookmark-overlay-tags-expander2 =
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Folaigh
 bookmark-overlay-tags-caption-label = Bain feidhm as clibeanna chun na leabharmharcanna a eagrú agus chun iad a chuardach go díreach ón mbarra seolta
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Sábháil
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Leabharmharcanna Nua
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Ainm Fillteáin]
+bookmark-properties-default-name-folder = Fillteán Nua
+bookmark-properties-default-name-bookmark = Leabharmharc Nua
