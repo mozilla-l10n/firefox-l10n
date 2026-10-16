@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = Kanjey kul cebe
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Tugu
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Gaabu
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Doo-šilbay taagey
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Foolo maa]
+bookmark-properties-default-name-folder = Foolo taaga
+bookmark-properties-default-name-bookmark = Doo-šilbay taaga
