@@ -12,3 +12,19 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = Mb-lòɁ ré tá
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Kás~lô
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Lo xhog kue
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = M-tòb ndó~làz=ná ku
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Xha lee yets naa luu]
+bookmark-properties-default-name-bookmark = M-tòb ndó~làz=ná ku
