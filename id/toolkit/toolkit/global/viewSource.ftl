@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Potong Baris Panjang
+view-source-context-highlight-syntax =
+    .label = Pewarnaan Sintaks
