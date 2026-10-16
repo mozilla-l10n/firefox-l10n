@@ -144,8 +144,6 @@ ip-protection-description-1 =
     .description = Megiora sa riservadesa cuende sa positzione mentras nàvigas.
     .label = VPN integrada
 ip-protection-learn-more = Àteras informatziones
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Proa sa VPN integrada de { -brand-short-name }
     .message = Nàviga amparadu cuende sa positzione tua.

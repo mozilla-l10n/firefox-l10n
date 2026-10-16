@@ -46,7 +46,7 @@ migration-imported-edge-reading-list = Cytańska lisćina (z Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
+## is installed as a Snap, and on macOS 27 and later.
 
 migration-no-permissions-message = { -brand-short-name } pśistup k profilam drugich wobglědowakow njama, kótarež su na toś tom rěźe instalěrowane.
 migration-no-permissions-instructions = Aby z importěrowanim datow z drugego wobhlědowaka pókšacował, dajśo { -brand-short-name } pśistup k jogo profilowemu zarědnikoju.

@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Ynstellingen foar it wiskjen fan skiednis
     .style = min-width: 34em
+    .title = Ynstellingen foar it wiskjen fan skiednis
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Navigaasjegegevens en cookies wiskje
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Resinte skiednis wiskje
     .style = min-width: 34em
+    .title = Resinte skiednis wiskje
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Wiskje alle skiednis
     .style = min-width: 34em
+    .title = Wiskje alle skiednis
 clear-data-settings-label = As ik { -brand-short-name } ôfslút, automatysk alles wiskje
 sanitize-on-shutdown-description = Automatysk alle selektearre items wiskje as { -brand-short-name } sluten wurdt.
 

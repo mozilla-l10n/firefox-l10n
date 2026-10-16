@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Mpustazzioni pâ pulizzìa dâ crunuluggìa
     .style = min-width: 34em
+    .title = Mpustazzioni pâ pulizzìa dâ crunuluggìa
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Scancella crunuluggìa ricenti
     .style = min-width: 34em
+    .title = Scancella crunuluggìa ricenti
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Scancella tutta a crunuluggìa
     .style = min-width: 34em
+    .title = Scancella tutta a crunuluggìa
 clear-data-settings-label = Scancella tuttu quannu chiuji { -brand-short-name }
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

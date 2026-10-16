@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਧੇਰੇ ਪਰਦੇਦਾਰੀ ਬਣਾਓ।
     .label = ਵਿਚੇ ਮੌਜੂਦ VPN
 ip-protection-learn-more = ਹੋਰ ਜਾਣੋ
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = { -brand-short-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
     .message = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਵਧੀਕ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ।

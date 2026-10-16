@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Parameters per stizzar la cronologia
     .style = min-width: 38em
+    .title = Parameters per stizzar la cronologia
 sanitize-prefs-style =
     .style = width: 19em
 sanitize-dialog-title2 =
-    .title = Stizzar datas da navigaziun e cookies
     .style = min-width: 34em
+    .title = Stizzar datas da navigaziun e cookies
 sanitize-dialog-title =
-    .title = Stizzar la cronologia pli nova
     .style = min-width: 38em
+    .title = Stizzar la cronologia pli nova
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Stizzar l'entira cronologia
     .style = min-width: 38em
+    .title = Stizzar l'entira cronologia
 clear-data-settings-label = Stizzar automaticamain las suandantas datas cura { -brand-short-name } vegn terminà
 sanitize-on-shutdown-description = Stizzar automaticamain tut ils elements selecziunads cura che { -brand-short-name } vegn serrà.
 

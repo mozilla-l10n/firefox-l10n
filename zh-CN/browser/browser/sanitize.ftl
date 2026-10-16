@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = 清除历史记录设置
     .style = min-width: 34em
+    .title = 清除历史记录设置
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = 清除浏览数据和 Cookie
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = 清除最近的历史记录
     .style = min-width: 34em
+    .title = 清除最近的历史记录
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = 清除全部历史
     .style = min-width: 34em
+    .title = 清除全部历史
 clear-data-settings-label = 退出后，{ -brand-short-name } 会自动清除所有
 sanitize-on-shutdown-description = 关闭 { -brand-short-name } 时自动清除所有选中项目。
 

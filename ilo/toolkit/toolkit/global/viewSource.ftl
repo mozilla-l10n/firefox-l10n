@@ -16,6 +16,3 @@ view-source-out-of-range-text = Saan a nabirokan ti naituding a linia.
 
 # Title of the page displayed when viewing the source of a selection.
 view-source-selection-title = Pagtaudan a DOM ti Pakapilian
-
-## Context menu items, only visible when viewing the source of a page
-

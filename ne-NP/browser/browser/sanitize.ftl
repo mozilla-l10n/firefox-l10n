@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = इतिहास मेट्नको लागि सेटिङ्
     .style = min-width: 34em
+    .title = इतिहास मेट्नको लागि सेटिङ्
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = तत्कालको इतिहास खाली गर्नुहोस्
     .style = min-width: 34em
+    .title = तत्कालको इतिहास खाली गर्नुहोस्
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = सबै इतिहास मेटाउनुहोस्
     .style = min-width: 34em
+    .title = सबै इतिहास मेटाउनुहोस्
 clear-data-settings-label = जब बन्द हुन्छ, { -brand-short-name } स्वचालित रुपमा हट्नुपर्छ।
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

@@ -357,9 +357,6 @@ newtab-stocks-list-watchlist = 自選報價清單
     .label = 自選報價清單
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = 搜尋股票名稱或代碼
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = 金融
@@ -513,9 +510,6 @@ newtab-recent-searches-just-now = 剛剛
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = 從最近搜尋內容中移除「{ $search }」
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = 搜尋
 # Screen reader label for the widget's icon-only menu button.
@@ -607,9 +601,6 @@ newtab-topsites-image-url-label = 自訂圖片網址
 newtab-topsites-use-custom-image-link = 使用自訂圖片
 newtab-topsites-use-image-link = 使用自訂圖片…
 newtab-topsites-image-validation = 圖片載入失敗，請改用不同網址。
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = 清除文字
 
@@ -1047,9 +1038,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = 在橘色背景的右邊邊緣有隻狐狸
 newtab-wallpaper-firefox-colorful-sky = 紫色夜空下翻湧著橘色波浪
 newtab-wallpaper-firefox-desert-dark = 狐狸坐在深紫色的沙漠中

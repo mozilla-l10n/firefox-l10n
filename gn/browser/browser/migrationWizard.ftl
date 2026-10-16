@@ -46,7 +46,7 @@ migration-imported-edge-reading-list = Moñe’ẽrã rysýi (Edge Guive)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
+## is installed as a Snap, and on macOS 27 and later.
 
 migration-no-permissions-message = { -brand-short-name } ndoikekuaái ambue kundahára mba’etépe oñemohendapyréva ko mba’e’okápe.
 migration-no-permissions-instructions = Omba’egueru hag̃ua mba’ekuaarã ambue mba’e’okágui, { -brand-short-name } oikekuaava’erã ne mba’ete ñongatuhápe.

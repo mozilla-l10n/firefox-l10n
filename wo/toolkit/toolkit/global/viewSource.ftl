@@ -16,6 +16,3 @@ view-source-out-of-range-text = Rëdd wi nga wax kenn gisuko.
 
 # Title of the page displayed when viewing the source of a selection.
 view-source-selection-title = Cosaanu DOM bu pal mi
-
-## Context menu items, only visible when viewing the source of a page
-

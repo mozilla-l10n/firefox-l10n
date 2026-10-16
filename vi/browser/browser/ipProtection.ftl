@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Tăng cường sự riêng tư bằng cách ẩn vị trí hiện tại của bạn khi duyệt web.
     .label = VPN tích hợp sẵn
 ip-protection-learn-more = Tìm hiểu thêm
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Hãy thử VPN tích hợp sẵn của { -brand-short-name }
     .message = Duyệt web an toàn hơn nhờ tính năng ẩn vị trí của bạn.
@@ -281,9 +279,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Đặt quy tắc cho các trang web cần bảo mật cao hơn hoặc tắt VPN.
     .label = Quản lý quy tắc VPN
-ip-protection-site-rules-list-section =
-    .description = Chọn cách VPN hoạt động cho các trang web cần bảo mật cao hơn hoặc khi tắt VPN.
-    .label = Quy tắc trang web
 ip-protection-site-rules-add-button =
     .label = Thiết lập quy tắc
 ip-protection-site-rules-delete-all-button =

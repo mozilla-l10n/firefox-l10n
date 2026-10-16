@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Ricevu ekstran privatecon per kaŝo de via pozicio dum vi retumas.
     .label = Integrita VPN
 ip-protection-learn-more = Pli da informo
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Provu la integritan VPN de { -brand-short-name }
     .message = Retumu ekstre protektita per kaŝo de via pozicio.

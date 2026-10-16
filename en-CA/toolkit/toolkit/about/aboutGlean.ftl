@@ -194,8 +194,8 @@ about-glean-unknown-metric-type-warning = Unknown metric type.
 about-glean-store-submitted-pings-select-label = Ping:
 # Toggle label to enable the storage of Pings that are submitted
 about-glean-store-submitted-pings =
-    .label = Store submitted Pings
     .description = Enables storing of submitted Pings in-memory
+    .label = Store submitted Pings
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

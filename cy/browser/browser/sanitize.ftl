@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Gosodiadau Clirio Hanes
     .style = min-width: 34em
+    .title = Gosodiadau Clirio Hanes
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Clirio data pori a chwcis
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Clirio'r Hanes Diweddar
     .style = min-width: 34em
+    .title = Clirio'r Hanes Diweddar
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Clirio'r Holl Hanes
     .style = min-width: 34em
+    .title = Clirio'r Holl Hanes
 clear-data-settings-label = Pan fyddai'n gadael { -brand-short-name } dylai glirio popeth yn awtomatig
 sanitize-on-shutdown-description = Clirio pob eitem sydd wedi'i thicio'n awtomatig pan fydd { -brand-short-name } yn cau.
 

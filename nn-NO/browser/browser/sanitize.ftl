@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Innstillingar for sletting av historikk
     .style = min-width: 34em
+    .title = Innstillingar for sletting av historikk
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Slett nettlesardata og infokapslar
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Slett nyleg historikk
     .style = min-width: 34em
+    .title = Slett nyleg historikk
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Slett all historikk
     .style = min-width: 34em
+    .title = Slett all historikk
 clear-data-settings-label = Når { -brand-short-name } avsluttar, skal følgjande slettast automatisk
 sanitize-on-shutdown-description = Fjern automatisk alle avmerkte element når { -brand-short-name } vert attlaten.
 

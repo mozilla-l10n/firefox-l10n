@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = با پنهان کردن موقعیت مکانی حین وب‌گردی، حریم‌خصوصی بیشتری داشته باشید.
     .label = ‏VPN داخلی
 ip-protection-learn-more = بیشتر بدانید
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = ‏VPN داخلی { -brand-short-name } را امتحان کنید
     .message = با پنهان کردن موقعیت مکانی خود با محافظت بیشتری وب‌گردی کنید.

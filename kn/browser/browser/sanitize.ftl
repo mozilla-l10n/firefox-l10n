@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕಲು ಅಗತ್ಯವಿರುವ ಸಿದ್ಧತೆಗಳು
     .style = min-width: 34em
+    .title = ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕಲು ಅಗತ್ಯವಿರುವ ಸಿದ್ಧತೆಗಳು
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ ಹಾಕು
     .style = min-width: 34em
+    .title = ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿ ಹಾಕು
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು
     .style = min-width: 34em
+    .title = ಎಲ್ಲಾ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

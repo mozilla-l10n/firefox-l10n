@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Geçmiş temizleme ayarları
     .style = min-width: 34em
+    .title = Geçmiş temizleme ayarları
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Gezinti verilerini ve çerezleri temizle
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Yakın geçmişi temizle
     .style = min-width: 34em
+    .title = Yakın geçmişi temizle
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Tüm geçmişi sil
     .style = min-width: 34em
+    .title = Tüm geçmişi sil
 clear-data-settings-label = { -brand-short-name } kapatıldığında aşağıdakileri otomatik olarak temizlesin
 sanitize-on-shutdown-description = { -brand-short-name } kapatıldığında işaretli tüm öğeleri otomatik olarak temizle.
 

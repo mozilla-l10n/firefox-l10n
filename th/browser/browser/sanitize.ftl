@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = การตั้งค่าการล้างประวัติ
     .style = min-width: 34em
+    .title = การตั้งค่าการล้างประวัติ
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = ล้างข้อมูลการเรียกดูและคุกกี้
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = ล้างประวัติล่าสุด
     .style = min-width: 34em
+    .title = ล้างประวัติล่าสุด
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = ล้างประวัติทั้งหมด
     .style = min-width: 34em
+    .title = ล้างประวัติทั้งหมด
 clear-data-settings-label = เมื่อปิด { -brand-short-name } ควรล้างทั้งหมดโดยอัตโนมัติ
 sanitize-on-shutdown-description = ล้างรายการที่เลือกทั้งหมดโดยอัตโนมัติเมื่อปิด { -brand-short-name }
 

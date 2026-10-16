@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Nastavení mazání historie
     .style = min-width: 34em
+    .title = Nastavení mazání historie
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Vymazat data prohlížení a cookies
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Vymazání nedávné historie
     .style = min-width: 34em
+    .title = Vymazání nedávné historie
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Vymazat celou historii
     .style = min-width: 34em
+    .title = Vymazat celou historii
 clear-data-settings-label = Při ukončení má { -brand-short-name } automaticky smazat
 sanitize-on-shutdown-description =
     { -brand-short-name.case-status ->

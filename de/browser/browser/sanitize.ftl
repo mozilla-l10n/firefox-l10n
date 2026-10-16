@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Einstellungen für das Löschen der Chronik
     .style = min-width: 34em
+    .title = Einstellungen für das Löschen der Chronik
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Surf-Daten und Cookies löschen
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Neueste Chronik löschen
     .style = min-width: 34em
+    .title = Neueste Chronik löschen
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Gesamte Chronik löschen
     .style = min-width: 34em
+    .title = Gesamte Chronik löschen
 clear-data-settings-label = Wenn { -brand-short-name } beendet wird, folgende Daten automatisch löschen:
 sanitize-on-shutdown-description = Alle mit Häkchen versehenen Elemente automatisch löschen, wenn { -brand-short-name } geschlossen wird.
 

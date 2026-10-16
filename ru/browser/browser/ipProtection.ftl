@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Получите дополнительную приватность, скрыв ваше местоположение во время веб-сёрфинга.
     .label = Встроенный VPN
 ip-protection-learn-more = Подробнее
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Попробуйте VPN, встроенный в { -brand-short-name }
     .message = Сёрфите с дополнительной защитой, скрывая своё местоположение.
@@ -286,9 +284,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Устанавливает правила для сайтов, которым необходима дополнительная приватность или отключение VPN.
     .label = Управление правилами VPN
-ip-protection-site-rules-list-section =
-    .description = Выберите, как работает VPN для сайтов, которым нужна дополнительная приватность или отключённый VPN.
-    .label = Правила веб-сайта
 ip-protection-site-rules-add-button =
     .label = Установить правило
 ip-protection-site-rules-delete-all-button =

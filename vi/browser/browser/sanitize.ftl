@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Thiết lập cho việc xóa trắng lịch sử
     .style = min-width: 34em
+    .title = Thiết lập cho việc xóa trắng lịch sử
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Xóa dữ liệu duyệt và cookie
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Xóa các lịch sử gần đây
     .style = min-width: 34em
+    .title = Xóa các lịch sử gần đây
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Xóa toàn bộ lịch sử
     .style = min-width: 34em
+    .title = Xóa toàn bộ lịch sử
 clear-data-settings-label = Khi đóng, { -brand-short-name } sẽ xóa tất cả một cách tự động
 sanitize-on-shutdown-description = Tự động xóa tất cả các mục đã chọn khi đóng { -brand-short-name }.
 

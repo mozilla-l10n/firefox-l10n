@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Schowajće swoje stejnišćo při přehladowanju, zo byšće přidatnu priwatnosć dóstał.
     .label = Zatwarjeny VPN
 ip-protection-learn-more = Dalše informacije
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Wupruwujće zatwarjeny VPN { -brand-short-name }
     .message = Schowajće swoje stejnišćo, zo byšće z přidatnym škitom přehladował.
@@ -287,9 +285,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Nastajće prawidła za websydła, kotrež přidatnu priwatnosć abo znjemóžnjeny VPN trjebaja.
     .label = Prawidła VPN rjadować
-ip-protection-site-rules-list-section =
-    .description = Wubjerće, kak VPN za sydła funguje, kotrež přidatnu priwatnosć trjebaja abo znjemóžńće VPN.
-    .label = Prawidła websydłow
 ip-protection-site-rules-add-button =
     .label = Prawidło postajić
 ip-protection-site-rules-delete-all-button =

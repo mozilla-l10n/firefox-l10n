@@ -264,8 +264,6 @@ ip-protection-description-1 =
     .description = קבלת פרטיות מוגברת על־ידי הסתרת המיקום שלך תוך כדי גלישה.
     .label = ‏VPN מובנה
 ip-protection-learn-more = מידע נוסף
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = נסו את ה־VPN המובנה של { -brand-short-name }
     .message = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך
@@ -284,9 +282,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = הגדרת כללים לאתרים שצריכים פרטיות נוספת, או שצריכים שה־VPN יהיה כבוי.
     .label = ניהול כללים של VPN
-ip-protection-site-rules-list-section =
-    .description = בחירה באופן שבו ה־VPN פועל עבור אתרים שצריכים פרטיות נוספת או שצריכים שה־VPN יהיה כבוי.
-    .label = כללי אתרים
 ip-protection-site-rules-add-button =
     .label = הגדרת כלל
 ip-protection-site-rules-delete-all-button =

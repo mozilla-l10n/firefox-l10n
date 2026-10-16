@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Подешавања за брисање историје
     .style = min-width: 34em
+    .title = Подешавања за брисање историје
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Обриши податке прегледања и колачиће
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Брисање историје
     .style = min-width: 34em
+    .title = Брисање историје
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Брисање све историје
     .style = min-width: 34em
+    .title = Брисање све историје
 clear-data-settings-label = При затварању { -brand-short-name } аутоматски брише све
 sanitize-on-shutdown-description = Аутоматски обриши све означене ставке када се { -brand-short-name } затвори.
 

@@ -252,8 +252,6 @@ ip-protection-description-1 =
     .description = Hanki lisäkerros yksityisyyttä piilottamalla todellinen sijaintisi, kun selaat.
     .label = Sisäänrakennettu VPN
 ip-protection-learn-more = Lue lisää
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Kokeile { -brand-short-name }in sisäänrakennettua VPN:ää
     .message = Selaa lisäsuojauksella piilottamalla sijaintisi.

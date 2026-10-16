@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Získajte viac súkromia skrytím svojej polohy počas prehliadania.
     .label = Vstavaná VPN
 ip-protection-learn-more = Ďalšie informácie
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
     .message = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy.
@@ -287,9 +285,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Nastavte pravidlá pre stránky, ktoré vyžadujú zvýšené súkromie alebo vypnutú VPN.
     .label = Spravovať pravidlá VPN
-ip-protection-site-rules-list-section =
-    .description = Vyberte, ako bude VPN fungovať pre stránky, ktoré vyžadujú zvýšené súkromie alebo vypnutú VPN.
-    .label = Pravidlá pre webové stránky
 ip-protection-site-rules-add-button =
     .label = Nastaviť pravidlo
 ip-protection-site-rules-delete-all-button =

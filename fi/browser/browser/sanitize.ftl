@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Historiatietojen poistamisen asetukset
     .style = min-width: 34em
+    .title = Historiatietojen poistamisen asetukset
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Tyhjennä selaustiedot ja evästeet
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Poista historiatietoja
     .style = min-width: 34em
+    .title = Poista historiatietoja
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Poista kaikki historiatiedot
     .style = min-width: 34em
+    .title = Poista kaikki historiatiedot
 clear-data-settings-label = Kun { -brand-short-name } suljetaan, seuraavat tiedot poistetaan:
 sanitize-on-shutdown-description = Tyhjennä kaikki valitut kohteet automaattisesti, kun { -brand-short-name } sulkeutuu.
 

@@ -291,9 +291,6 @@ tail-fox-spotlight-subtitle = Sig farvel til sporing via reklamer og goddag til 
 tail-fox-spotlight-primary-button = Åbn mine links med { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ikke nu
 
-## Welcome Back Spotlight and Import
-
-
 ## Root Certificate Succession Infobar
 
 root-certificate-succession-infobar-january-message = <strong>Ældre versioner af { -brand-short-name } kan begynde at få problemer den 14. januar 2025.</strong>

@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Settings for Clearing History
     .style = min-width: 40em
+    .title = Settings for Clearing History
 sanitize-prefs-style =
     .style = width: 19em
 sanitize-dialog-title =
-    .title = Dzēst puorlūkuošonys viesturi
     .style = min-width: 40em
+    .title = Dzēst puorlūkuošonys viesturi
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Clear All History
     .style = min-width: 40em
+    .title = Clear All History
 clear-data-settings-label = Kad es aizveru { -brand-short-name } dzēst vysu
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

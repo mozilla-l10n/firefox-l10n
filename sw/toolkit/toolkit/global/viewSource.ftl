@@ -16,6 +16,3 @@ view-source-out-of-range-text = Msitari ulioainishwa haukupatikana.
 
 # Title of the page displayed when viewing the source of a selection.
 view-source-selection-title = Chanzo cha Chaguo DOM
-
-## Context menu items, only visible when viewing the source of a page
-

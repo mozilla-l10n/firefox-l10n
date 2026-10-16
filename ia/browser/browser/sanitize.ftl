@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Parametros pro vacuar le chronologia
     .style = min-width: 34em
+    .title = Parametros pro vacuar le chronologia
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Rader datos de navigation e cookies
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Vacuar le chronologia recente
     .style = min-width: 34em
+    .title = Vacuar le chronologia recente
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Vacuar tote le chronologia
     .style = min-width: 34em
+    .title = Vacuar tote le chronologia
 clear-data-settings-label = Quando claudite, { -brand-short-name } deberea automaticamente rader tote le
 sanitize-on-shutdown-description = Automaticamente rader tote le elementos marcate quando { -brand-short-name } se claude.
 

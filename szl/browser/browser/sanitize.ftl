@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Sztalōnki pucowanio historyje
     .style = min-width: 34em
+    .title = Sztalōnki pucowanio historyje
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Wypucuj niydowno historyjo
     .style = min-width: 34em
+    .title = Wypucuj niydowno historyjo
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Wypucuj cołko historyjo
     .style = min-width: 34em
+    .title = Wypucuj cołko historyjo
 clear-data-settings-label = Przi zawiyraniu { -brand-short-name } mo autōmatycznie wypucować
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

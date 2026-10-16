@@ -252,8 +252,6 @@ ip-protection-description-1 =
     .description = Obtenga privacidad extra ocultando su ubicación al navegar.
     .label = VPN integrada
 ip-protection-learn-more = Saber más
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Pruebe la VPN integrada de { -brand-short-name }
     .message = Navegue con mayor protección ocultando su ubicación.

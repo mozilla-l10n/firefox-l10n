@@ -385,9 +385,6 @@ newtab-stocks-list-watchlist = Seurantalista
     .label = Seurantalista
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Hae nimellä tai symbolilla
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Talous
@@ -545,9 +542,6 @@ newtab-recent-searches-just-now = Juuri nyt
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Poista ”{ $search }” viimeaikaisista hauista
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Haku
 # Screen reader label for the widget's icon-only menu button.
@@ -643,9 +637,6 @@ newtab-topsites-image-url-label = Oman kuvan osoite
 newtab-topsites-use-custom-image-link = Käytä omaa kuvaa
 newtab-topsites-use-image-link = Käytä omaa kuvaa…
 newtab-topsites-image-validation = Kuvan lataaminen epäonnistui. Kokeile toista osoitetta.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Tyhjennä teksti
 
@@ -1083,9 +1074,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 

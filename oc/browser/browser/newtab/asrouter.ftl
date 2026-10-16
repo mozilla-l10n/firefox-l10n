@@ -184,9 +184,6 @@ fox-doodle-pin-secondary = Pas ara
 set-default-pdf-handler-headline = <strong>Vòstres fichièrs PDF se dobrisson d’ara enlà dins { -brand-short-name }.</strong> Modificatz o signatz de formularis dirèctament del navegador estant. Per modificar aqueste compòrtament, cercatz « PDF » als paramètres.
 set-default-pdf-handler-primary = Comprés !
 
-## PDF Annotations strings
-
-
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Sètz per aver un aparelh novèl lèu ?
@@ -226,26 +223,10 @@ launch-on-login-infobar-reject-button = Mai tard
 launch-on-login-infobar-final-reject-button = Non, mercé
     .accesskey = N
 
-## Launch on login "show and tell" infobar notification
-##
-## Shown after Firefox has automatically launched at Windows sign-in (an
-## experiment enabled launch-on-login for the user), informing them that this
-## happened and letting them keep it on or turn it off.
-
-
-## Launch on login spotlight
-##
-## Shown as a spotlight message when the user closes the browser, offering to set
-## { -brand-short-name } to launch when the computer starts up.
-
-
 ## Tail Fox Set Default Spotlight
 
 tail-fox-spotlight-primary-button = Dobrir mos ligams amb { -brand-short-name }
 tail-fox-spotlight-secondary-button = Pas ara
-
-## Welcome Back Spotlight and Import
-
 
 ## Root Certificate Succession Infobar
 
@@ -255,9 +236,6 @@ root-certificate-succession-infobar-primary-button =
 root-certificate-succession-infobar-secondary-button =
     .label = Mai tard
     .accesskey = a
-
-## Root Certificate Succession Windows Background Notification
-
 
 ## FxA Menu Message variants
 
@@ -272,21 +250,9 @@ multi-cta-fox-doodle-title = Urós de vos tornar veire !
 multi-cta-fox-doodle-set-default-checkbox = Definir { -brand-short-name } coma navegador per defaut
 multi-cta-fox-doodle-start-browsing-primary-button-label = Començar de navegar
 
-## Windows 10 EoS Sync messages group 1 spotlight
-
-
-## Windows 10 EoS Sync messages group 1 toast notification
-
-
-## Windows 10 EoS sync messages group 2 feature callouts
-
-
 ## Windows 10 EoS Sync messages group 2 toast notification
 
 windows-10-eos-feature-toast-title = Los onglets verticals e los grops d’onglets son arribats !
-
-## Windows 10 EoS Global Infobar
-
 
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
@@ -297,33 +263,6 @@ windows-10-eos-feature-toast-title = Los onglets verticals e los grops d’ongle
 
 etp-strict-exceptions-infobar-not-now = Pas ara
     .accesskey = P
-
-## 'Set to default' messaging displayed within the App menu
-
-
-## Firefox Relay 50 Masks Announcement
-
-
-## Nova Early Access Infobar
-
-
-## Firefox launch options spotlight
-##
-## Shown as a spotlight prompt on browser close or launch, offering
-## launch-on-login, taskbar pinning, and session restore.
-
-
-## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
-##
-## These strings will be displayed by the Windows operating system in a
-## native toast shown by the background task to users who have Firefox
-## installed but haven't opened it recently. The message itself is hosted
-## off-train on Remote Settings via Nimbus; the strings are landed here so
-## localization can begin.
-##
-## The button labels are fitted into narrow fixed-width buttons by
-## Windows and therefore must be as narrow as possible.
-
 
 ## Refresh Firefox infobar
 ##

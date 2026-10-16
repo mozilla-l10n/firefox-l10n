@@ -244,8 +244,6 @@ ip-protection-description-1 =
     .description = Ehupyty tekoñemive emokañývo ne rendaite eikundaha aja.
     .label = VPN juajupyre
 ip-protection-learn-more = Eikuaave
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Eiporu VPN jehe’apyre { -brand-short-name }
     .message = Eikundaha ñemo’ãve reheve emokañývo ne rendaite.

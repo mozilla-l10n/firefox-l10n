@@ -45,7 +45,7 @@ migration-imported-edge-reading-list = Рӯйхати хониш (аз Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
+## is installed as a Snap, and on macOS 27 and later.
 
 migration-no-permissions-message = «{ -brand-short-name }» ба профилҳои дигари браузерҳои насбшуда дар ин дастгоҳ дастрасӣ надорад.
 migration-no-permissions-instructions = Барои идома додани воридкунии маълумот аз браузери дигар, ба «{ -brand-short-name }» иҷозат диҳед, то он ба ҷузвдони профили худ дастрасӣ пайдо намояд.

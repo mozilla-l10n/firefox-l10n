@@ -385,9 +385,6 @@ newtab-stocks-list-watchlist = Folchlist
     .label = Folchlist
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Sykje op namme of symboal
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finansjeel
@@ -545,9 +542,6 @@ newtab-recent-searches-just-now = Sa krekt
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = ‘{ $search }’ út resinte sykopdrachten fuortsmite
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Sykje
 # Screen reader label for the widget's icon-only menu button.
@@ -639,9 +633,6 @@ newtab-topsites-image-url-label = URL fan oanpaste ôfbylding
 newtab-topsites-use-custom-image-link = In oanpaste ôfbylding brûke
 newtab-topsites-use-image-link = In oanpaste ôfbylding brûke…
 newtab-topsites-image-validation = Ofbylding koe net laden wurde. Probearje in oare URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Tekst wiskje
 
@@ -1079,9 +1070,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = In foks oan de rjochterkant op in oranje eftergrûn
 newtab-wallpaper-firefox-colorful-sky = Oranje golven tsjin in pearse nachtloft
 newtab-wallpaper-firefox-desert-dark = In foks dy’t yn in donkerpearse woestyn sit

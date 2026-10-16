@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Zwiększ prywatność, ukrywając swoje położenie podczas przeglądania Internetu.
     .label = Wbudowana sieć VPN
 ip-protection-learn-more = Więcej informacji
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Wypróbuj wbudowaną sieć VPN { -brand-short-name(case: "gen") }
     .message = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie.
@@ -286,9 +284,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Ustaw reguły dla witryn wymagających dodatkowej prywatności lub wyłączonej sieci VPN.
     .label = Zarządzaj regułami VPN
-ip-protection-site-rules-list-section =
-    .description = Wybierz sposób działania VPN dla witryn wymagających dodatkowej prywatności lub wyłączonej sieci VPN.
-    .label = Reguły dla witryn
 ip-protection-site-rules-add-button =
     .label = Ustaw regułę
 ip-protection-site-rules-delete-all-button =

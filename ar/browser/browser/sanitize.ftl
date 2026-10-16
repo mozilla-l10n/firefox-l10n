@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = إعدادات مسح التأريخ
     .style = min-width: 34em
+    .title = إعدادات مسح التأريخ
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = امحُ بيانات التصفح وملفات تعريف الارتباط
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = امسح التأريخ الحالي
     .style = min-width: 34em
+    .title = امسح التأريخ الحالي
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = امسح كل التأريخ
     .style = min-width: 34em
+    .title = امسح كل التأريخ
 clear-data-settings-label = على { -brand-short-name } مسح كل شيء تلقائيا عندما إغلاقه
 sanitize-on-shutdown-description = امحُ جميع العناصر المحدّدة تلقائيًا عند إغلاق { -brand-short-name }.
 

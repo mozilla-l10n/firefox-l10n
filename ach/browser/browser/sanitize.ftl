@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Ter pi jwayo gin mukato
     .style = min-width: 34em
+    .title = Ter pi jwayo gin mukato
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Jwa gin mukato cokki
     .style = min-width: 34em
+    .title = Jwa gin mukato cokki
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Jwa gin mukato weng
     .style = min-width: 34em
+    .title = Jwa gin mukato weng
 clear-data-settings-label = Ka kiloro woko { -brand-short-name } myero ojwa weng pire kene
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Opciones de borrado del historial
     .style = min-width: 34em
+    .title = Opciones de borrado del historial
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Borrar datos de navegación y cookies
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Borrar historial reciente
     .style = min-width: 34em
+    .title = Borrar historial reciente
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Borrar todo el historial
     .style = min-width: 34em
+    .title = Borrar todo el historial
 clear-data-settings-label = Al cerrarlo, { -brand-short-name } debería eliminar todo automáticamente
 sanitize-on-shutdown-description = Borrar automáticamente todos los ítems marcados cuando se cierre { -brand-short-name }.
 

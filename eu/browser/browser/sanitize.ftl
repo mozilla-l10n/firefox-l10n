@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Historia garbitzeko ezarpenak
     .style = min-width: 34em
+    .title = Historia garbitzeko ezarpenak
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Garbitu nabigatze-datuak eta cookieak
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Garbitu azken historia
     .style = min-width: 34em
+    .title = Garbitu azken historia
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Garbitu historia osoa
     .style = min-width: 34em
+    .title = Garbitu historia osoa
 clear-data-settings-label = { -brand-short-name } ixtean, garbitu automatikoki
 sanitize-on-shutdown-description = Garbitu automatikoki markatutako elementu guztiak { -brand-short-name } ixtean.
 

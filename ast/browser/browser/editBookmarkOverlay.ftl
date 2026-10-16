@@ -37,9 +37,6 @@ bookmark-overlay-keyword-2 =
 bookmark-overlay-tags-caption-label = Usa etiquetes pa organizar y buscar marcadores dende la barra de direiciones
 bookmark-overlay-keyword-caption-label-2 = Usa una pallabra clave p'abrir los marcadores direutamente dende la barra de direiciones
 
-## Bookmark properties dialog
-
-
 ## Titles of the dialog used to add or edit bookmarks and folders.
 
 bookmark-properties-title-add-bookmark = Amiestu d'un marcador

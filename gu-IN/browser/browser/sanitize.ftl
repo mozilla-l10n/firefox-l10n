@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = ઇતિહાસ સાફ કરવા માટેના સેટીંગ
     .style = min-width: 34em
+    .title = ઇતિહાસ સાફ કરવા માટેના સેટીંગ
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = છેલ્લો ઇતિહાસ સાફ કરો
     .style = min-width: 34em
+    .title = છેલ્લો ઇતિહાસ સાફ કરો
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = બધો ઇતિહાસ સાફ કરો
     .style = min-width: 34em
+    .title = બધો ઇતિહાસ સાફ કરો
 clear-data-settings-label = યારે બંધ હોય, { -brand-short-name } આપમેળે બધાને સાફ કરવું જોઈએ
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

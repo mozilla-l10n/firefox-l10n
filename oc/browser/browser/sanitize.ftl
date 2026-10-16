@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Paramètres per voidar las donadas privadas
     .style = min-width: 34em
+    .title = Paramètres per voidar las donadas privadas
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Escafar las donadas de navegacion e los cookies
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Voidar l'istoric recent
     .style = min-width: 34em
+    .title = Voidar l'istoric recent
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Suprimir tot l'istoric
     .style = min-width: 34em
+    .title = Suprimir tot l'istoric
 clear-data-settings-label = En tampant { -brand-short-name }, s’escafan automaticament los elements seguents
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

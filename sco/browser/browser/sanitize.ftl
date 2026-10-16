@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Settins for Dichtin Historie
     .style = min-width: 34em
+    .title = Settins for Dichtin Historie
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Dicht Recent Historie
     .style = min-width: 34em
+    .title = Dicht Recent Historie
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Dicht Aw Historie
     .style = min-width: 34em
+    .title = Dicht Aw Historie
 clear-data-settings-label = When sneckit, { -brand-short-name } should automatically dicht aw
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

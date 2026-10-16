@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Arventennoù evit skarzhañ ar roll istor
     .style = min-width: 34em
+    .title = Arventennoù evit skarzhañ ar roll istor
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Skarzhañ ar roll istor nevesañ
     .style = min-width: 34em
+    .title = Skarzhañ ar roll istor nevesañ
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Skarzhañ ar roll istor a-bezh
     .style = min-width: 34em
+    .title = Skarzhañ ar roll istor a-bezh
 clear-data-settings-label = Pa vez serret, { -brand-short-name } a skarzho an holl ent emgefreek
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

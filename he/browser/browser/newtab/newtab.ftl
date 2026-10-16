@@ -378,9 +378,6 @@ newtab-stocks-list-watchlist = רשימת מעקב
     .label = רשימת מעקב
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = חיפוש לפי שם או סמל
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = שוק ההון
@@ -538,9 +535,6 @@ newtab-recent-searches-just-now = ממש עכשיו
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = הסרת ״{ $search }״ מהחיפושים האחרונים
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = חיפוש
 # Screen reader label for the widget's icon-only menu button.
@@ -632,9 +626,6 @@ newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
 newtab-topsites-use-custom-image-link = שימוש בתמונה מותאמת אישית
 newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
 newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = ניקוי טקסט
 
@@ -1071,9 +1062,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = שועל בקצה הימני על רקע כתום
 newtab-wallpaper-firefox-colorful-sky = גלים כתומים על פני שמי לילה סגולים
 newtab-wallpaper-firefox-desert-dark = שועל יושב במדבר סגול כהה

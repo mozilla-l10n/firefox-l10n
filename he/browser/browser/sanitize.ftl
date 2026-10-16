@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = הגדרות לניקוי היסטוריה
     .style = min-width: 34em
+    .title = הגדרות לניקוי היסטוריה
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = ניקוי נתוני גלישה ועוגיות
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = ניקוי היסטוריה אחרונה
     .style = min-width: 34em
+    .title = ניקוי היסטוריה אחרונה
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = מחיקת כל ההיסטוריה
     .style = min-width: 34em
+    .title = מחיקת כל ההיסטוריה
 clear-data-settings-label = עם הסגירה, { -brand-short-name } אמור לפנות את כל אלה אוטומטית
 sanitize-on-shutdown-description = מנקה באופן אוטומטי את כל הפריטים המסומנים כאשר { -brand-short-name } נסגר.
 

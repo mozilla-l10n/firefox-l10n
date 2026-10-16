@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = დამატებითი პირადულობა ადგილსამყოფლის დამალვით გვერდების მონახულებისას.
     .label = ჩაშენებული VPN
 ip-protection-learn-more = ვრცლად
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-short-name }
     .message = ინახულეთ გვერდები მეტად უსაფრთხოდ მდებარეობის დაფარვით.

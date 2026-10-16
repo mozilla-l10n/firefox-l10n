@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Остварите додатну приватност скривањем ваше локације током прегледања.
     .label = Уграђени ВПН
 ip-protection-learn-more = Сазнајте више
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Испробајте { -brand-short-name } уграђени ВПН
     .message = Прегледајте са додатном заштитом сакривањем ваше локације.

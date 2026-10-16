@@ -45,7 +45,7 @@ migration-imported-edge-reading-list = Tabdart n tɣuṛi (seg Safari)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
+## is installed as a Snap, and on macOS 27 and later.
 
 migration-no-permissions-instructions-step1 = Fren “Kemmel”
 # The second step in getting permissions to read data for the selected

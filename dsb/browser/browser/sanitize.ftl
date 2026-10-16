@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Nastajenja za wuproznjenje historije
     .style = min-width: 34em
+    .title = Nastajenja za wuproznjenje historije
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Pśeglědowańske daty a cookieje wulašowaś
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Aktualnu historiju wuprozniś
     .style = min-width: 34em
+    .title = Aktualnu historiju wuprozniś
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Cełu historiju wuprozniś
     .style = min-width: 34em
+    .title = Cełu historiju wuprozniś
 clear-data-settings-label = Gaž { -brand-short-name } se kóńcy, by měło se wšykno awtomatiski wulašowaś
 sanitize-on-shutdown-description = Wšykne wubrane zapiski awtomatiski lašowaś, gaž se { -brand-short-name } zacynja.
 

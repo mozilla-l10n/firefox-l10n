@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Få extra integritet genom att dölja din plats medan du surfar.
     .label = Inbyggt VPN
 ip-protection-learn-more = Läs mer
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Testa { -brand-short-name }:s inbyggda VPN
     .message = Surfa med extra skydd genom att dölja din plats.
@@ -285,9 +283,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Ange regler för webbplatser som kräver extra integritet eller där VPN måste vara avstängt.
     .label = Hantera VPN-regler
-ip-protection-site-rules-list-section =
-    .description = Välj hur VPN ska fungera för webbplatser som kräver extra integritet eller där VPN ska vara avstängt.
-    .label = Regler för webbplatsen
 ip-protection-site-rules-add-button =
     .label = Ange regel
 ip-protection-site-rules-delete-all-button =

@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Tarixçə Təmizləmə Tənzimləmələri
     .style = min-width: 34em
+    .title = Tarixçə Təmizləmə Tənzimləmələri
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
     .style = min-width: 34em
     .title = Səyahət məlumatlarını və çərəzləri təmizlə
 sanitize-dialog-title =
-    .title = Yaxın Tarixçəni Təmizlə
     .style = min-width: 34em
+    .title = Yaxın Tarixçəni Təmizlə
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Bütün Tarixçəni Sil
     .style = min-width: 34em
+    .title = Bütün Tarixçəni Sil
 clear-data-settings-label = Qapatıldığında { -brand-short-name } hər şeyi avtomatik silməlidir
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Jaso pribatutasun estra nabigatu ahala zure kokapena ezkutatuz.
     .label = Integratutako VPNa
 ip-protection-learn-more = Argibide gehiago
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Probatu { -brand-short-name }(r)en integratutako VPNa
     .message = Nabigatu babes estraz zure kokapena ezkutatuz.
@@ -285,9 +283,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Ezarri arauak pribatutasun estra edo VPNa inaktibo izatea behar duten guneetarako.
     .label = Kudeatu VPN arauak
-ip-protection-site-rules-list-section =
-    .description = Aukeratu nola dabilen VPNa pribatutasun estra edo VPNa inaktibo izatea behar duten guneetarako.
-    .label = Webguneen arauak
 ip-protection-site-rules-add-button =
     .label = Ezarri araua
 ip-protection-site-rules-delete-all-button =

@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Settings for Clearing History
     .style = min-width: 34em
+    .title = Settings for Clearing History
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Clear browsing data and cookies
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Clear Recent History
     .style = min-width: 34em
+    .title = Clear Recent History
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Clear All History
     .style = min-width: 34em
+    .title = Clear All History
 clear-data-settings-label = When closed, { -brand-short-name } should automatically clear all
 sanitize-on-shutdown-description = Automatically clear all checked items when { -brand-short-name } closes.
 

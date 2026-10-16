@@ -46,7 +46,7 @@ migration-imported-edge-reading-list = Lêslist (út Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
+## is installed as a Snap, and on macOS 27 and later.
 
 migration-no-permissions-message = { -brand-short-name } hat gjin tagong ta de profilen fan oare browsers dy’t op dit apparaat ynstallearre binne.
 migration-no-permissions-instructions = Jou { -brand-short-name } tagong ta de profylmap om troch te gean mei it ymportearjen fan gegevens fan in oare browser út.

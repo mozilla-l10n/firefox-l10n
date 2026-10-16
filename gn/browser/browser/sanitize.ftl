@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Jerohoryvéva tembiasakue ñemopotĩrã
     .style = min-width: 34em
+    .title = Jerohoryvéva tembiasakue ñemopotĩrã
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Embogue ñeikundaha mba’ekuaarã ha kookie
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Tembiasakue ramovéva ñemopotĩ
     .style = min-width: 34em
+    .title = Tembiasakue ramovéva ñemopotĩ
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Opa tembiasakue ñemopotĩ
     .style = min-width: 34em
+    .title = Opa tembiasakue ñemopotĩ
 clear-data-settings-label = Oñembotývo, { -brand-short-name } omboguepaiteva’erã ijehegui
 sanitize-on-shutdown-description = Ombogue ijehegui opaite mba’eporurã omembotykuévo { -brand-short-name }.
 

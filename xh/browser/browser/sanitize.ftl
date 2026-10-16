@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Iisethingi zokususa imbali
     .style = min-width: 34em
+    .title = Iisethingi zokususa imbali
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Susa iMbali Yakutshanje
     .style = min-width: 34em
+    .title = Susa iMbali Yakutshanje
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Susa yonke imbali
     .style = min-width: 34em
+    .title = Susa yonke imbali
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

@@ -268,12 +268,6 @@ launch-on-login-autostart-infobar-keep-button = Conservar
 launch-on-login-autostart-infobar-turn-off-button = Desactivar
     .accesskey = D
 
-## Launch on login spotlight
-##
-## Shown as a spotlight message when the user closes the browser, offering to set
-## { -brand-short-name } to launch when the computer starts up.
-
-
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -447,24 +441,6 @@ nova-early-access-share-feedback-link = Compartir opinión
     .accesskey = C
 nova-early-access-infobar-primary-button = Entendido
     .accesskey = E
-
-## Firefox launch options spotlight
-##
-## Shown as a spotlight prompt on browser close or launch, offering
-## launch-on-login, taskbar pinning, and session restore.
-
-
-## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
-##
-## These strings will be displayed by the Windows operating system in a
-## native toast shown by the background task to users who have Firefox
-## installed but haven't opened it recently. The message itself is hosted
-## off-train on Remote Settings via Nimbus; the strings are landed here so
-## localization can begin.
-##
-## The button labels are fitted into narrow fixed-width buttons by
-## Windows and therefore must be as narrow as possible.
-
 
 ## Refresh Firefox infobar
 ##

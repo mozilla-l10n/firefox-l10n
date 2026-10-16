@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Tarixni tozalash uchun sozlamalar
     .style = min-width: 34em
+    .title = Tarixni tozalash uchun sozlamalar
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = So‘nggi tarixni tozalash
     .style = min-width: 34em
+    .title = So‘nggi tarixni tozalash
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Barcha tarixni tozalash
     .style = min-width: 34em
+    .title = Barcha tarixni tozalash
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

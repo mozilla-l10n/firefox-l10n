@@ -45,7 +45,7 @@ migration-imported-edge-reading-list = Llista de lectura (de l'Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
+## is installed as a Snap, and on macOS 27 and later.
 
 migration-no-permissions-message = El { -brand-short-name } no té accés als perfils d'altres navegadors instal·lats en aquest dispositiu.
 migration-no-permissions-instructions = Per continuar important dades des d'un altre navegador, cal concedir accés al { -brand-short-name } a la carpeta de perfils.

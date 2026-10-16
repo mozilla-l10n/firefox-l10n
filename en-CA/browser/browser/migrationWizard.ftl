@@ -46,7 +46,7 @@ migration-imported-edge-reading-list = Reading List (From Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
+## is installed as a Snap, and on macOS 27 and later.
 
 migration-no-permissions-message = { -brand-short-name } does not have access to other browsers’ profiles installed on this device.
 migration-no-permissions-instructions = To continue importing data from another browser, grant { -brand-short-name } access to its profile folder.
@@ -290,4 +290,3 @@ migration-wizard-progress-success-payment-methods =
 migration-wizard-safari-permissions-sub-header = To import Safari bookmarks and browsing history:
 migration-wizard-safari-instructions-continue = Select “Continue”
 migration-wizard-safari-instructions-folder = Select Safari folder in the list and choose “Open”
-

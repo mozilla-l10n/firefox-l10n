@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Kapjon további adatvédelmet a helye elrejtésével böngészés közben.
     .label = Beépített VPN
 ip-protection-learn-more = További tudnivalók
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Próbálja ki a { -brand-short-name } beépített VPN-jét
     .message = Böngésszen további adatvédelem mellett a helye elrejtésével.
@@ -285,9 +283,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Állítson be szabályokat azokhoz a webhelyekhez, amelyek fokozott adatvédelmet vagy a VPN kikapcsolását igénylik.
     .label = VPN-szabályok kezelése
-ip-protection-site-rules-list-section =
-    .description = Válassza ki, hogyan működjön a VPN azokon a webhelyeken, amelyek fokozott adatvédelmet vagy a VPN kikapcsolását igénylik.
-    .label = Webhelyszabályok
 ip-protection-site-rules-add-button =
     .label = Szabály beállítása
 ip-protection-site-rules-delete-all-button =

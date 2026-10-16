@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Obține confidențialitate suplimentară ascunzându-ți locația când navighezi.
     .label = VPN încorporat
 ip-protection-learn-more = Află mai multe
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Încearcă VPN-ul încorporat din { -brand-short-name }
     .message = Navighează cu protecție extra, ascunzându-ți locația.
@@ -286,9 +284,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Setează reguli pentru site-uri care necesită un plus de confidențialitate sau dezactivarea VPN-ului.
     .label = Gestionează regulile VPN
-ip-protection-site-rules-list-section =
-    .description = Alege cum funcționează VPN-ul pentru site-uri care necesită un plus de confidențialitate sau dezactivarea VPN-ului.
-    .label = Reguli pentru site-uri web
 ip-protection-site-rules-add-button =
     .label = Setează regula
 ip-protection-site-rules-delete-all-button =

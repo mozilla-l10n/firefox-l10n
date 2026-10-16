@@ -11,9 +11,6 @@ view-source-invalid-input-title = Inpit no suithfest
 view-source-invalid-input-text = The line nummer inpit isnae suithfest.
 view-source-out-of-range-title = Line no fund
 
-##
-
-
 ## Context menu items, only visible when viewing the source of a page
 
 view-source-context-go-to-line =

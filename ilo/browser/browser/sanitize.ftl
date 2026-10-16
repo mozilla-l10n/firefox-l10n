@@ -3,13 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-dialog-title =
-    .title = Borraen ti Nabiit a Pakasaritaan
     .style = min-width: 34em
+    .title = Borraen ti Nabiit a Pakasaritaan
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Borraen Amin a Pakasaritaan
     .style = min-width: 34em
+    .title = Borraen Amin a Pakasaritaan
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

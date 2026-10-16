@@ -210,8 +210,6 @@ ip-protection-description-1 =
     .description = Oten plui riservatece, platant la tô posizion intant che tu navighis.
     .label = VPN integrade
 ip-protection-learn-more = Plui informazions
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Prove la VPN integrade di { -brand-short-name }
     .message = Navighe cuntune protezion in plui, platant la tô posizion.

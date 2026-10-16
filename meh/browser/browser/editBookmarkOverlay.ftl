@@ -40,9 +40,6 @@ bookmark-overlay-keyword-2 =
 bookmark-properties-save-button =
     .label = Chuva´a
 
-## Titles of the dialog used to add or edit bookmarks and folders.
-
-
 ## Default names for newly created bookmarks and folders.
 
 # Default name of the folder created when bookmarking all tabs.

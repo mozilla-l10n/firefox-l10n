@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Preferense da scancelaçion da Stöia
     .style = min-width: 34em
+    .title = Preferense da scancelaçion da Stöia
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Scancella a stöia ciù neuva
     .style = min-width: 34em
+    .title = Scancella a stöia ciù neuva
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Scancelâ tutta a stöia
     .style = min-width: 34em
+    .title = Scancelâ tutta a stöia
 clear-data-settings-label = Quande sciòrto da { -brand-short-name }, o dove netezâ tutto in aotomatico
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

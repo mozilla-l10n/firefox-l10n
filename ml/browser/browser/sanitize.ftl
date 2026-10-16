@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = നാള്‍വഴി വെടിപ്പാക്കുന്നതിനുള്ള ക്രമീകരണങ്ങള്‍
     .style = min-width: 34em
+    .title = നാള്‍വഴി വെടിപ്പാക്കുന്നതിനുള്ള ക്രമീകരണങ്ങള്‍
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = ഏറ്റവും ഒടുവിലുള്ള നാള്‍വഴി വെടിപ്പാക്കുക
     .style = min-width: 34em
+    .title = ഏറ്റവും ഒടുവിലുള്ള നാള്‍വഴി വെടിപ്പാക്കുക
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = എല്ലാ ഹിസ്റ്ററിയും മായ്ക്കുക
     .style = min-width: 34em
+    .title = എല്ലാ ഹിസ്റ്ററിയും മായ്ക്കുക
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

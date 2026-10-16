@@ -6,9 +6,3 @@
 ## Go to line prompt, opened from the context menu of a view-source page
 
 view-source-go-to-line-title = Jak u baréh
-
-##
-
-
-## Context menu items, only visible when viewing the source of a page
-

@@ -7,9 +7,3 @@
 
 bookmark-properties-save-button =
     .label = Kola
-
-## Titles of the dialog used to add or edit bookmarks and folders.
-
-
-## Default names for newly created bookmarks and folders.
-

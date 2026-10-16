@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = ისტორიის გასუფთავების პარამეტრები
     .style = min-width: 34em
+    .title = ისტორიის გასუფთავების პარამეტრები
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = დათვალიერებული გვერდებისა და ფუნთუშების წაშლა
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = უახლესი ისტორიის გასუფთავება
     .style = min-width: 34em
+    .title = უახლესი ისტორიის გასუფთავება
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = ისტორიის სრულად გასუფთავება
     .style = min-width: 34em
+    .title = ისტორიის სრულად გასუფთავება
 clear-data-settings-label = როცა { -brand-short-name } დაიხურება, სრულად წაიშლება
 sanitize-on-shutdown-description = ყველა შერჩეული თავისთავად გასუფთავდება, როცა { -brand-short-name } დაიხურება.
 

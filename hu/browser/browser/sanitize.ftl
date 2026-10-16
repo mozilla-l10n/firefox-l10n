@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Előzmények törlésének beállításai
     .style = min-width: 40em
+    .title = Előzmények törlésének beállításai
 sanitize-prefs-style =
     .style = width: 20em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Böngészési adatok és a sütik törlése
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Előzmények törlése
     .style = min-width: 34em
+    .title = Előzmények törlése
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Összes előzmény törlése
     .style = min-width: 34em
+    .title = Összes előzmény törlése
 clear-data-settings-label = Bezáráskor a { -brand-short-name } mindent távolítson el automatikusan
 sanitize-on-shutdown-description = Az összes kiválasztott elem automatikus törlése a { -brand-short-name } bezárásakor.
 

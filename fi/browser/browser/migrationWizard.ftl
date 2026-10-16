@@ -46,7 +46,7 @@ migration-imported-edge-reading-list = Lukulista (Edgestä)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
-## is installed as a Snap.
+## is installed as a Snap, and on macOS 27 and later.
 
 migration-no-permissions-message = { -brand-short-name }illa ei ole pääsyä muiden tähän laitteeseen asennettujen selainten profiileihin.
 migration-no-permissions-instructions = Jos haluat jatkaa tietojen tuontia toisesta selaimesta, anna { -brand-short-name }ille käyttöoikeus sen profiilikansioon.

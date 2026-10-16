@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Impostazions par netâ la cronologjie
     .style = min-width: 34em
+    .title = Impostazions par netâ la cronologjie
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Nete i dâts di navigazion e i cookies
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Nete la cronologjie resinte
     .style = min-width: 34em
+    .title = Nete la cronologjie resinte
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Nete dute la cronologjie
     .style = min-width: 34em
+    .title = Nete dute la cronologjie
 clear-data-settings-label = Cuant che si siere, { -brand-short-name } al à di netâ dut in automatic
 sanitize-on-shutdown-description = Scancele in automatic ducj i elements selezionâts cuant che { -brand-short-name } al ven sierât.
 

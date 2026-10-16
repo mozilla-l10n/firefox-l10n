@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Sorgt für mehr Privatsphäre, indem Sie Ihren Standort beim Surfen verbergen.
     .label = Integriertes VPN
 ip-protection-learn-more = Weitere Informationen
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Probieren Sie das integrierte VPN von { -brand-short-name } aus
     .message = Browsen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen.
@@ -285,9 +283,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Legen Sie Regeln für Websites fest, die mehr Datenschutz, oder die ein deaktiviertes VPN benötigen.
     .label = VPN-Regeln verwalten
-ip-protection-site-rules-list-section =
-    .description = Wählen Sie, wie VPN für Websites funktioniert, die zusätzliche Privatsphäre benötigen, oder deaktivieren Sie VPN.
-    .label = Website-Regeln
 ip-protection-site-rules-add-button =
     .label = Regel festlegen
 ip-protection-site-rules-delete-all-button =

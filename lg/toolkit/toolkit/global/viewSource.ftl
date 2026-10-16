@@ -16,6 +16,3 @@ view-source-out-of-range-text = Omukutu gw'oyagala teguzuliddwa.
 
 # Title of the page displayed when viewing the source of a selection.
 view-source-selection-title = DOM Ensibuko Ye'kilondedwa
-
-## Context menu items, only visible when viewing the source of a page
-

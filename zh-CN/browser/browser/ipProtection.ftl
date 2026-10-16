@@ -236,8 +236,6 @@ ip-protection-description-1 =
     .description = 在浏览时隐藏位置，获得额外隐私保护。
     .label = 内置 VPN
 ip-protection-learn-more = 详细了解
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = 试用 { -brand-short-name } 的内置 VPN
     .message = 隐藏真实位置，获得额外保护。

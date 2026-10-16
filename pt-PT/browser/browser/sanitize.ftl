@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Definições para limpar histórico
     .style = min-width: 34em
+    .title = Definições para limpar histórico
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Limpar os dados de navegação e os cookies
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Limpar histórico
     .style = min-width: 34em
+    .title = Limpar histórico
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Limpar todo o histórico
     .style = min-width: 34em
+    .title = Limpar todo o histórico
 clear-data-settings-label = Quando fechado, o { -brand-short-name } deve limpar automaticamente todos(as)
 sanitize-on-shutdown-description = Limpar automaticamente todos os itens selecionados quando o { -brand-short-name } é fechado.
 

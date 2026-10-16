@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Untfang ekstra privacy troch jo lokaasje te ferstopjen wylst jo navigearje
     .label = Ynboude VPN
 ip-protection-learn-more = Mear ynfo
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Probearje de ynboude VPN fan { -brand-short-name }
     .message = Sneup mei ekstra beskerming troch jo lokaasje te ferstopjen.
@@ -285,9 +283,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Regels ynstelle foar websites dy’t ekstra privacy nedich hawwe of VPN útskeakele wêze moat.
     .label = VPN-regels beheare
-ip-protection-site-rules-list-section =
-    .description = Kies hoe’t VPN wurket foar websites dy’t ekstra privacy of VPN útskeakele nedich hawwe.
-    .label = Websiteregels
 ip-protection-site-rules-add-button =
     .label = Regel ynstelle
 ip-protection-site-rules-delete-all-button =

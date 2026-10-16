@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Instellingen voor het wissen van geschiedenis
     .style = min-width: 34em
+    .title = Instellingen voor het wissen van geschiedenis
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Navigatiegegevens en cookies wissen
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Recente geschiedenis wissen
     .style = min-width: 34em
+    .title = Recente geschiedenis wissen
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Alle geschiedenis wissen
     .style = min-width: 34em
+    .title = Alle geschiedenis wissen
 clear-data-settings-label = Als { -brand-short-name } wordt afgesloten, automatisch het volgende wissen
 sanitize-on-shutdown-description = Automatisch alle aangevinkte items wissen wanneer { -brand-short-name } wordt gesloten.
 

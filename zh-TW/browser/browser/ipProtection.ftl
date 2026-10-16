@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = 透過隱藏上網時的實際位置，獲得更加一層的隱私保護。
     .label = 內建 VPN
 ip-protection-learn-more = 更多資訊
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = 試用 { -brand-short-name } 的內建 VPN
     .message = 隱藏您的實際所在位置，讓上網更加一層保護。
@@ -281,9 +279,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = 為需要加強保護隱私或關閉 VPN 才能使用的網站設定規則。
     .label = 管理 VPN 規則
-ip-protection-site-rules-list-section =
-    .description = 選擇 VPN 對需要加強保護隱私的網站，或關閉 VPN 才能使用的網站的運作行為。
-    .label = 網站規則
 ip-protection-site-rules-add-button =
     .label = 設定規則
 ip-protection-site-rules-delete-all-button =

@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = ການຕັ້ງຄ່າການລ້າງປະຫວັດການໃຊ້ງານ
     .style = min-width: 34em
+    .title = ການຕັ້ງຄ່າການລ້າງປະຫວັດການໃຊ້ງານ
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = ລ້າງປະຫວັດການໃຊ້ງານລ່າສຸດ
     .style = min-width: 34em
+    .title = ລ້າງປະຫວັດການໃຊ້ງານລ່າສຸດ
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = ລ້າງປະຫວັດການໃຊ້ງານທັງຫມົດ
     .style = min-width: 34em
+    .title = ລ້າງປະຫວັດການໃຊ້ງານທັງຫມົດ
 clear-data-settings-label = ເມື່ອຂ້ອຍປິດ { -brand-short-name }, ມັນຄວນຈະລ້າງຂໍ້ມູນເຫລົ່ານີ້ອອກໂດຍອັດຕະໂນມັດ
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

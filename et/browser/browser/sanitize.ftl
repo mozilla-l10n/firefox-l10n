@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Ajaloo kustutamise sätted
     .style = min-width: 50em
+    .title = Ajaloo kustutamise sätted
 sanitize-prefs-style =
     .style = width: 25em
 sanitize-dialog-title =
-    .title = Hiljutise ajaloo kustutamine
     .style = min-width: 50em
+    .title = Hiljutise ajaloo kustutamine
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Kogu ajaloo kustutamine
     .style = min-width: 50em
+    .title = Kogu ajaloo kustutamine
 clear-data-settings-label = { -brand-short-name }i sulgemisel kustutatakse automaatselt
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

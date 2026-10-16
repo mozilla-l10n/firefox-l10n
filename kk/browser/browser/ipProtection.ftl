@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Шолу кезінде орналасуыңызды жасыру арқылы қосымша жекелікті алыңыз.
     .label = Кіріктірілген VPN
 ip-protection-learn-more = Көбірек білу
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = { -brand-short-name } құрамындағы VPN мүмкіндігін байқап көріңіз.
     .message = Орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
@@ -285,9 +283,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Қосымша жекелікті қажет ететін немесе VPN сөндірілген сайттар үшін ережелерді орнату.
     .label = VPN ережелерін басқару
-ip-protection-site-rules-list-section =
-    .description = Қосымша жекелікті қажет ететін немесе VPN өшірілген сайттар үшін VPN қалай жұмыс істейтінін таңдаңыз.
-    .label = Веб-сайт ережелері
 ip-protection-site-rules-add-button =
     .label = Ережені орнату
 ip-protection-site-rules-delete-all-button =

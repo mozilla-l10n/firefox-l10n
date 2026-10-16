@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Setări pentru ștergerea istoricului
     .style = min-width: 34em
+    .title = Setări pentru ștergerea istoricului
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Șterge datele de navigare și cookie-urile
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Șterge istoricul recent
     .style = min-width: 34em
+    .title = Șterge istoricul recent
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Șterge tot istoricul
     .style = min-width: 34em
+    .title = Șterge tot istoricul
 clear-data-settings-label = Când este închis, { -brand-short-name } ar trebui să șteargă automat totul
 sanitize-on-shutdown-description = Șterge automat toate elementele bifate la închiderea { -brand-short-name }.
 

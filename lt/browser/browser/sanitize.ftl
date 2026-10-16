@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Žurnalo valymo nuostatos
     .style = min-width: 34em
+    .title = Žurnalo valymo nuostatos
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Žurnalo valymas
     .style = min-width: 34em
+    .title = Žurnalo valymas
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Visiškas žurnalo išvalymas
     .style = min-width: 34em
+    .title = Visiškas žurnalo išvalymas
 clear-data-settings-label = Baigiant darbą su „{ -brand-short-name }“, turi būti išvaloma:
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

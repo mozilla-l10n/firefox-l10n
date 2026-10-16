@@ -154,15 +154,6 @@ home-prefs-mission-message-learn-more-link-srd = Бифаҳмед, ки чӣ т�
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Маълумоти бештар
 
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -219,38 +210,10 @@ newtab-stocks-search-button =
     .label = Ҷустуҷӯ
     .title = Ҷустуҷӯ аз рӯйи ном ё аломат
 
-## Strings for the Finance widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Finance widget watchlist add and remove controls
-
-
-## Finance widget ticker search
-
-
 ## Strings for the Picture of the Day widget
 
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Маълумоти бештар
-
-## Strings for the Search widget
-
-
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
-## Strings for the Horoscopes widget
-
 
 ## Strings for the Travel widget
 
@@ -309,9 +272,6 @@ newtab-topsites-image-url-label = Нишонии «URL»-и тасвири ша�
 newtab-topsites-use-custom-image-link = Истифодаи тасвири шахсӣ
 newtab-topsites-use-image-link = Истифодаи тасвири шахсӣ…
 newtab-topsites-image-validation = Тасвир бор карда нашуд. Нишонии «URL»-и дигареро кӯшиш кунед.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Пок кардани матн
 
@@ -540,9 +500,6 @@ newtab-custom-close-menu-button =
     .title = Пӯшидан
 newtab-custom-settings = Идоракунии танзимоти бештар
 
-## Customization Menu
-
-
 ## New Tab Appearance (browser theme picker)
 
 # Header for the list of the user's already-installed themes in the full theme panel.
@@ -691,9 +648,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 
@@ -1023,9 +977,6 @@ newtab-promo-card-dismiss-button =
     .aria-label = Нодида гузарондан
     .title = Нодида гузарондан
 
-## Crossword widget
-
-
 ## Strings introduced by the Nova redesign of the Timer widget
 
 # Small label shown beneath the live time while the focus timer is running or paused.
@@ -1100,13 +1051,6 @@ newtab-sports-widget-pagination-next =
     .aria-label = Навбатӣ
     .title = Навбатӣ
 
-## Accessible labels for match rows in the sports widget. These are read by
-## screen readers to announce the match details and status.
-## Variables shared by all messages in this group:
-##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
-##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
-
-
 ## Sports widget — team names (FIFA country codes)
 ## Only includes names not adequately covered by standard country-code
 ## internationalization tooling.
@@ -1124,9 +1068,6 @@ newtab-sports-widget-team-name-label-sco =
 newtab-sports-widget-message-wallpapers-cta = Тасвири заминаиеро интихоб намоед
 newtab-sports-widget-message-add-widgets-cta =
     .label = Илова кардани виҷетҳо
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1148,9 +1089,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 # action is to customize newtab with a background image or colour, or by tweaking
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Ин фазо тибқи қоидаҳои шумо рафтор мекунад
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

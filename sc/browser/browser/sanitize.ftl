@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Cunfiguratzione de sa limpiesa de sa cronologia
     .style = min-width: 34em
+    .title = Cunfiguratzione de sa limpiesa de sa cronologia
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Cantzella is datos de navigatzione e is testimòngios
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Isbòida sa cronologia reghente
     .style = min-width: 34em
+    .title = Isbòida sa cronologia reghente
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Isbòida totu sa cronologia
     .style = min-width: 34em
+    .title = Isbòida totu sa cronologia
 clear-data-settings-label = Comente benit serradu, { -brand-short-name } lìmpia in automàticu
 sanitize-on-shutdown-description = Cantzella in automàticu totu is elementos seberados cando serras { -brand-short-name }.
 

@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Ρυθμίσεις απαλοιφής ιστορικού
     .style = min-width: 34em
+    .title = Ρυθμίσεις απαλοιφής ιστορικού
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Απαλοιφή δεδομένων περιήγησης και cookie
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Απαλοιφή πρόσφατου ιστορικού
     .style = min-width: 34em
+    .title = Απαλοιφή πρόσφατου ιστορικού
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Απαλοιφή όλου του ιστορικού
     .style = min-width: 34em
+    .title = Απαλοιφή όλου του ιστορικού
 clear-data-settings-label = Όταν κλείνει, το { -brand-short-name } να κάνει αυτόματη απαλοιφή των παρακάτω
 sanitize-on-shutdown-description = Αυτόματη απαλοιφή όλων των επιλεγμένων στοιχείων όταν κλείσει το { -brand-short-name }.
 

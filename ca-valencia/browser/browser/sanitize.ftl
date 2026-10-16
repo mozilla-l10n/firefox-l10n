@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Paràmetres de neteja de l'historial
     .style = min-width: 36em
+    .title = Paràmetres de neteja de l'historial
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Neteja l'historial recent
     .style = min-width: 34em
+    .title = Neteja l'historial recent
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Neteja tot l'historial
     .style = min-width: 34em
+    .title = Neteja tot l'historial
 clear-data-settings-label = En tancar el { -brand-short-name }, esborra automàticament
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

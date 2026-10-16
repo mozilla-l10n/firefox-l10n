@@ -255,13 +255,6 @@ launch-on-login-infobar-final-message = <strong>Vierzi { -brand-short-name } ogn
 launch-on-login-infobar-final-reject-button = No graciis
     .accesskey = N
 
-## Launch on login "show and tell" infobar notification
-##
-## Shown after Firefox has automatically launched at Windows sign-in (an
-## experiment enabled launch-on-login for the user), informing them that this
-## happened and letting them keep it on or turn it off.
-
-
 ## Launch on login spotlight
 ##
 ## Shown as a spotlight message when the user closes the browser, offering to set
@@ -449,24 +442,6 @@ nova-early-access-share-feedback-link = Condivît opinion
     .accesskey = o
 nova-early-access-infobar-primary-button = Capît
     .accesskey = C
-
-## Firefox launch options spotlight
-##
-## Shown as a spotlight prompt on browser close or launch, offering
-## launch-on-login, taskbar pinning, and session restore.
-
-
-## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
-##
-## These strings will be displayed by the Windows operating system in a
-## native toast shown by the background task to users who have Firefox
-## installed but haven't opened it recently. The message itself is hosted
-## off-train on Remote Settings via Nimbus; the strings are landed here so
-## localization can begin.
-##
-## The button labels are fitted into narrow fixed-width buttons by
-## Windows and therefore must be as narrow as possible.
-
 
 ## Refresh Firefox infobar
 ##

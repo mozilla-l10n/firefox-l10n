@@ -12,9 +12,6 @@ view-source-invalid-input-text = ژمارەی دێڕ گونجاو نیە.
 view-source-out-of-range-title = دێڕ نەدۆزرایەوە
 view-source-out-of-range-text = ژمارەی دێڕی دیاریکراو نەدۆزرایەوە.
 
-##
-
-
 ## Context menu items, only visible when viewing the source of a page
 
 view-source-context-go-to-line =

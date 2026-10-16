@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Rregullime për Spastrim Historiku
     .style = min-width: 34em
+    .title = Rregullime për Spastrim Historiku
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Spastro të dhëna dhe “cookies” shfletimi
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Spastro Historikun Së Fundi
     .style = min-width: 34em
+    .title = Spastro Historikun Së Fundi
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Spastro Krejt Historikun
     .style = min-width: 34em
+    .title = Spastro Krejt Historikun
 clear-data-settings-label = Kur mbyllet, { -brand-short-name }-i duhet t'i spastrojë të tëra automatikisht
 sanitize-on-shutdown-description = Spastro automatikisht krejt objektet me shenjë, kur mbyllet { -brand-short-name }.
 

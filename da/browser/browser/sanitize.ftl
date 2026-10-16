@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Indstillinger for rydning af historik
     .style = min-width: 34em
+    .title = Indstillinger for rydning af historik
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Ryd browsing-data og cookies
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Ryd historik
     .style = min-width: 34em
+    .title = Ryd historik
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Ryd al historik
     .style = min-width: 34em
+    .title = Ryd al historik
 clear-data-settings-label = Når jeg lukker { -brand-short-name }, skal den automatisk rydde:
 sanitize-on-shutdown-description = Ryd automatisk alle markerede elementer, når { -brand-short-name } lukkes.
 

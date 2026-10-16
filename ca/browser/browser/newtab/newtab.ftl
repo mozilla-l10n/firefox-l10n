@@ -212,12 +212,6 @@ newtab-privacy-across-sites =
        *[other] En { $count } llocs web
     }
 
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -322,9 +316,6 @@ newtab-stocks-list-watchlist = Llista de seguiment
     .label = Llista de seguiment
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Cerca per nom o símbol
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finances
@@ -470,23 +461,10 @@ newtab-recent-searches-trending-attribution = mitjançant { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Ara mateix
 
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
-## Strings for the Horoscopes widget
-
-
 ## Strings for the Travel widget
 
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Més informació
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -534,9 +512,6 @@ newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-custom-image-link = Utilitza una imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Esborra el text
 
@@ -801,9 +776,6 @@ newtab-custom-close-menu-button =
     .title = Tanca
 newtab-custom-settings = Gestiona més paràmetres
 
-## Customization Menu
-
-
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -967,9 +939,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 
@@ -1359,9 +1328,6 @@ newtab-promo-card-dismiss-button =
     .aria-label = Ignora
     .title = Ignora
 
-## Crossword widget
-
-
 ## Strings introduced by the Nova redesign of the Timer widget
 
 # Variables:
@@ -1504,9 +1470,6 @@ newtab-activation-window-message-dismiss-button =
     .title = Tanca
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Comença a personalitzar
-
-## Strings for the New Tab customization callout shown at the Nova launch.
-
 
 ## Strings for the Clock widget
 

@@ -188,9 +188,6 @@ fox-doodle-pin-secondary = Ne tagad
 set-default-pdf-handler-headline = <strong>PDF datnes tagad tiek atvērtas ar { -brand-short-name }.</strong> Labo vai paraksti veidlapas savā pārlūkā! Lai mainītu, iestatījumos jāmeklē “PDF”.
 set-default-pdf-handler-primary = Sapratu
 
-## PDF Annotations strings
-
-
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Plānojat tikt pie jaunas ierīces?
@@ -237,19 +234,6 @@ launch-on-login-infobar-final-message = <strong>Atvērt { -brand-short-name } ka
 launch-on-login-infobar-final-reject-button = Nē, paldies
     .accesskey = N
 
-## Launch on login "show and tell" infobar notification
-##
-## Shown after Firefox has automatically launched at Windows sign-in (an
-## experiment enabled launch-on-login for the user), informing them that this
-## happened and letting them keep it on or turn it off.
-
-
-## Launch on login spotlight
-##
-## Shown as a spotlight message when the user closes the browser, offering to set
-## { -brand-short-name } to launch when the computer starts up.
-
-
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -261,30 +245,9 @@ tail-fox-spotlight-subtitle = Sakiet ardievas kaitinošajiem reklāmu izsekotāj
 tail-fox-spotlight-primary-button = Atvērt manas saites ar { -brand-short-name }
 tail-fox-spotlight-secondary-button = Ne tagad
 
-## Welcome Back Spotlight and Import
-
-
-## Root Certificate Succession Infobar
-
-
 ## Root Certificate Succession Windows Background Notification
 
 root-certificate-windows-background-notification-learn-more-button = Uzzināt vairāk
-
-## FxA Menu Message variants
-
-
-## Multi-CTA Fox Doodle Spotlight
-
-
-## Windows 10 EoS Sync messages group 1 spotlight
-
-
-## Windows 10 EoS Sync messages group 1 toast notification
-
-
-## Windows 10 EoS sync messages group 2 feature callouts
-
 
 ## Windows 10 EoS Sync messages group 2 toast notification
 

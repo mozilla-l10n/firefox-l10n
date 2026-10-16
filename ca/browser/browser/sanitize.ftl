@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Paràmetres d'esborrar l'historial
     .style = min-width: 36em
+    .title = Paràmetres d'esborrar l'historial
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Esborra les dades de navegació i les galetes
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Esborra l'historial recent
     .style = min-width: 34em
+    .title = Esborra l'historial recent
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Esborra tot l'historial
     .style = min-width: 34em
+    .title = Esborra tot l'historial
 clear-data-settings-label = En tancar el { -brand-short-name }, esborra automàticament
 sanitize-on-shutdown-description = Esborra automàticament tots els elements seleccionats quan es tanqui el { -brand-short-name }.
 

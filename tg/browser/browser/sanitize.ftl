@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Танзимот барои тоза кардани таърих
     .style = min-width: 34em
+    .title = Танзимот барои тоза кардани таърих
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Пок кардани маълумоти тамошо ва кукиҳо
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Пок кардани таърихи охирин
     .style = min-width: 34em
+    .title = Пок кардани таърихи охирин
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Пок кардани ҳамаи таърих
     .style = min-width: 34em
+    .title = Пок кардани ҳамаи таърих
 clear-data-settings-label = Вақте ки шумо браузерро мепӯшед, «{ -brand-short-name }» ҳамаро ба таври худкор тоза мекунад
 sanitize-on-shutdown-description = Ҳангоми пӯшидани браузери «{ -brand-short-name }» ҳамаи унсурҳои интихобшуда ба таври худкор пок карда мешаванд.
 

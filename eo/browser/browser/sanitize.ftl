@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Agordoj por forviŝado de historio
     .style = min-width: 34em
+    .title = Agordoj por forviŝado de historio
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
-    .title = Viŝi retumajn datumojn kaj kuketojn
     .style = min-width: 36em
+    .title = Viŝi retumajn datumojn kaj kuketojn
 sanitize-dialog-title =
-    .title = Forviŝi ĵusan historion
     .style = min-width: 34em
+    .title = Forviŝi ĵusan historion
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Forviŝi tutan historion
     .style = min-width: 34em
+    .title = Forviŝi tutan historion
 clear-data-settings-label = Je fermo, { -brand-short-name } devus aŭtomate viŝi ĉion
 sanitize-on-shutdown-description = Aŭtomate viŝi ĉiujn elektitajn elementojn kiam { -brand-short-name } fermiĝas.
 

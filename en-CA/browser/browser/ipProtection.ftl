@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Get extra privacy by hiding your location while browsing.
     .label = Built-in VPN
 ip-protection-learn-more = Learn more
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Try { -brand-short-name }’s built-in VPN
     .message = Browse with extra protection by hiding your location.

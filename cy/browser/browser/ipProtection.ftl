@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Cael preifatrwydd ychwanegol drwy guddio'ch lleoliad wrth bori
     .label = VPN cynhenid
 ip-protection-learn-more = Dysgu rhagor
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Rhowch gynnig ar VPN cynhenid { -brand-short-name }
     .message = Pori gyda diogelwch ychwanegol drwy guddio'ch lleoliad.
@@ -289,9 +287,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Gosodwch reolau ar gyfer gwefannau sydd angen preifatrwydd ychwanegol neu'r VPN i ffwrdd.
     .label = Rheoli rheolau VPN
-ip-protection-site-rules-list-section =
-    .description = Dewiswch sut mae VPN yn gweithio ar gyfer gwefannau sydd angen preifatrwydd ychwanegol neu'r VPN i ffwrdd.
-    .label = Rheolau gwefan
 ip-protection-site-rules-add-button =
     .label = Gosod rheol
 ip-protection-site-rules-delete-all-button =

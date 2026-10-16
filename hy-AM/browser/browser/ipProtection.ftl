@@ -249,8 +249,6 @@ ip-protection-description-1 =
     .description = Ստացեք լրացուցիչ գաղտնիություն՝ դիտարկելիս թաքցնելով ձեր տեղադրությունը:
     .label = Ներկառուցված VPN
 ip-protection-learn-more = Իմանալ ավելին
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Փորձեք { -brand-short-name }-ի ներկառուցված VPN-ը
     .message = Զննեք լրացուցիչ պաշտպանությամբ՝ թաքցնելով ձեր գտնվելու վայրը։

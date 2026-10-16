@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Taq ajowab'äl richin nijosq'ïx ri natab'äl
     .style = min-width: 34em
+    .title = Taq ajowab'äl richin nijosq'ïx ri natab'äl
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Tiyuj K'ak'a' Natab'äl
     .style = min-width: 34em
+    .title = Tiyuj K'ak'a' Natab'äl
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Tiyuj Ronojel Natab'äl
     .style = min-width: 34em
+    .title = Tiyuj Ronojel Natab'äl
 clear-data-settings-label = Toq xtitz'apïx, { -brand-short-name } k'o ta chi ruyonil nuyüj ronojel
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

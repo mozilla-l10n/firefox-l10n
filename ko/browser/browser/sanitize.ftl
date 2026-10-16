@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = 기록 지우기 설정
     .style = min-width: 34em
+    .title = 기록 지우기 설정
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = 방문 데이터 및 쿠키 지우기
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = 최근 기록 지우기
     .style = min-width: 34em
+    .title = 최근 기록 지우기
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = 모든 기록 지우기
     .style = min-width: 34em
+    .title = 모든 기록 지우기
 clear-data-settings-label = 닫을 때, { -brand-short-name }가 자동으로 모두 지우기
 sanitize-on-shutdown-description = { -brand-short-name }를 닫을때 자동으로 선택된 모든 항목을 지웁니다.
 

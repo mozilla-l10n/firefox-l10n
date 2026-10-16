@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Teelte Momtugol Aslol
     .style = min-width: 34em
+    .title = Teelte Momtugol Aslol
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Momtu Aslol Sakket
     .style = min-width: 34em
+    .title = Momtu Aslol Sakket
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Momtu Aslol Fof
     .style = min-width: 34em
+    .title = Momtu Aslol Fof
 clear-data-settings-label = So uddiima tan, { -brand-short-name } ina foti ɗoon e ɗoon momtude fof
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

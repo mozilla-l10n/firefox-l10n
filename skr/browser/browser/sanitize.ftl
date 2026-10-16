@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = تاریخ صاف کرݨ کیتے ترتیباں
     .style = min-width: 34em
+    .title = تاریخ صاف کرݨ کیتے ترتیباں
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = براؤزنگ ڈیٹا اَتے کوکیز کوں صاف کرو
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = حالیہ تاریخ صاف کرو
     .style = min-width: 34em
+    .title = حالیہ تاریخ صاف کرو
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = یکی تاریخ صاف کرو
     .style = min-width: 34em
+    .title = یکی تاریخ صاف کرو
 clear-data-settings-label = جݙاں بند ہووے، { -brand-short-name } سبھ کجھ آپݨے آپ خالی کر سڳدا ہے
 sanitize-on-shutdown-description = جہڑیلے { -brand-short-name }بند تھی وین٘دا ہِے تاں خود کار طریقے نال سارے ݙِٹّھے ڳئے شئیں کوں صاف کرو۔
 

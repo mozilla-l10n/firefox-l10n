@@ -210,8 +210,6 @@ ip-protection-description-1 =
     .description = Отримайте додаткову приватність, приховуючи своє розташування під час перегляду інтернету.
     .label = Вбудована VPN
 ip-protection-learn-more = Докладніше
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Спробуйте вбудовану VPN від { -brand-short-name }
     .message = Вебперегляд з додатковим захистом завдяки приховуванню вашого розташування.

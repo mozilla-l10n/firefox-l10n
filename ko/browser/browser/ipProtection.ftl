@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = 탐색하는 동안 위치를 숨겨 개인 정보 보호를 강화하세요.
     .label = 내장 VPN
 ip-protection-learn-more = 더 알아보기
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
     .message = 위치를 숨겨 탐색을 추가 보호합니다.
@@ -281,9 +279,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = 추가적인 개인 정보 보호가 필요하거나 VPN이 꺼져야 하는 사이트에 규칙을 설정하세요.
     .label = VPN 규칙 관리
-ip-protection-site-rules-list-section =
-    .description = 추가적인 개인 정보 보호가 필요하거나 VPN이 꺼져 있는 사이트에서 VPN이 작동하는 방식을 선택하세요.
-    .label = 웹 사이트 규칙
 ip-protection-site-rules-add-button =
     .label = 규칙 설정
 ip-protection-site-rules-delete-all-button =

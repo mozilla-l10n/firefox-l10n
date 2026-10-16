@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Mga pagtatakda para sa Pagbura ng Kasaysayan
     .style = min-width: 34em
+    .title = Mga pagtatakda para sa Pagbura ng Kasaysayan
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = Burahin ang Kasaysayan Kamakailan
     .style = min-width: 34em
+    .title = Burahin ang Kasaysayan Kamakailan
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Burahin Lahat ng Kasaysayan
     .style = min-width: 34em
+    .title = Burahin Lahat ng Kasaysayan
 clear-data-settings-label = Kapag isinara, buburahin dapat ng { -brand-short-name } ang lahat
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

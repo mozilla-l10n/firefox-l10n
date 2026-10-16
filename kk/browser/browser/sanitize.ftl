@@ -3,21 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Тарихты тазартуды баптау
     .style = min-width: 40em
+    .title = Тарихты тазартуды баптау
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title2 =
+    .style = min-width: 34em
     .title = Шолу деректерін және cookie файлдарын өшіру
-    .style = min-width: 34em
 sanitize-dialog-title =
-    .title = Жуырдағы тарихты өшіру
     .style = min-width: 34em
+    .title = Жуырдағы тарихты өшіру
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Бүкіл тарихты тазарту
     .style = min-width: 34em
+    .title = Бүкіл тарихты тазарту
 clear-data-settings-label = { -brand-short-name } жабылған кезде, келесілерді автоөшіруі тиіс
 sanitize-on-shutdown-description = { -brand-short-name } жабылған кезде барлық белгіленген элементтерді автоматты түрде өшіру.
 

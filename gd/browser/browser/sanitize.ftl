@@ -3,18 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs2 =
-    .title = Roghainnean a chum glanadh na h-eachdraidh
     .style = min-width: 45em
+    .title = Roghainnean a chum glanadh na h-eachdraidh
 sanitize-prefs-style =
     .style = width: 30em
 sanitize-dialog-title =
-    .title = Glan an eachdraidh faisg ort
     .style = min-width: 45em
+    .title = Glan an eachdraidh faisg ort
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = Glan an eachdraidh gu lèir
     .style = min-width: 45em
+    .title = Glan an eachdraidh gu lèir
 clear-data-settings-label = Nuair a thèid a dhùnadh, bu chòir dha { -brand-short-name } na leanas a ghlanadh gu fèin-obrachail:
 
 ## clear-time-duration-prefix is followed by a dropdown list, with

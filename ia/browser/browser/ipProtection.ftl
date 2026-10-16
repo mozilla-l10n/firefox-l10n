@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = Obtene ulterior confidentialitate celante tu position durante que tu naviga.
     .label = VPN integrate
 ip-protection-learn-more = Pro saper plus
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Essaya le VPN integrate de { -brand-short-name }
     .message = Naviga con protection ulterior celante tu position.
@@ -285,9 +283,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Defini regulas pro sitos que besonia de ulterior confidentialitate o VPN disactivate.
     .label = Gerer regulas de VPN
-ip-protection-site-rules-list-section =
-    .description = Elige como VPN functiona pro le sitos que besonia de ulterior confidentialitate o del VPN disactivate.
-    .label = Regulas de sito web
 ip-protection-site-rules-add-button =
     .label = Stabilir regula
 ip-protection-site-rules-delete-all-button =

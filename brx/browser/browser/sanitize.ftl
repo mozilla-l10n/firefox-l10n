@@ -5,13 +5,13 @@
 sanitize-prefs-style =
     .style = width: 17em
 sanitize-dialog-title =
-    .title = दानि जारिमिनखौ खोमोर
     .style = min-width: 34em
+    .title = दानि जारिमिनखौ खोमोर
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 sanitize-dialog-title-everything =
-    .title = गासैबो जारिमिनखौ खोमोर
     .style = min-width: 34em
+    .title = गासैबो जारिमिनखौ खोमोर
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

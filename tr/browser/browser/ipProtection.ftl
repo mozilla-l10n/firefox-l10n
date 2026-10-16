@@ -265,8 +265,6 @@ ip-protection-description-1 =
     .description = İnternette gezinirken konumunuzu gizleyerek ekstra gizliliğe kavuşun.
     .label = Yerleşik VPN
 ip-protection-learn-more = Daha fazla bilgi al
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Yerleşik { -brand-short-name } VPN’i deneyin
     .message = Konumunuzu gizleyerek ekstra korumayla gezinin.
@@ -285,9 +283,6 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Ekstra gizlilik gerektiren veya VPN’in kapatılması gereken siteler için kurallar belirleyin.
     .label = VPN kurallarını yönet
-ip-protection-site-rules-list-section =
-    .description = Ekstra gizliliğe ihtiyaç duyan sitelerde VPN’in nasıl çalışacağını seçin veya VPN’i kapatın.
-    .label = Web sitesi kuralları
 ip-protection-site-rules-add-button =
     .label = Kural ekle
 ip-protection-site-rules-delete-all-button =

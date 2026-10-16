@@ -241,8 +241,6 @@ ip-protection-description-1 =
     .description = รับความเป็นส่วนตัวที่มากขึ้นด้วยการซ่อนตำแหน่งที่ตั้งของคุณขณะท่องเว็บ
     .label = VPN ในตัว
 ip-protection-learn-more = เรียนรู้เพิ่มเติม
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = ลองใช้ VPN ในตัวของ { -brand-short-name }
     .message = เรียกดูด้วยการปกป้องที่เพิ่มขึ้นโดยซ่อนตำแหน่งของคุณ

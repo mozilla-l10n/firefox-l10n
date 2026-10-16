@@ -321,8 +321,6 @@ ip-protection-description-1 =
     .description = Zajistěte si větší soukromí tím, že při procházení webu skryjete svou polohu.
     .label = Vestavěná VPN
 ip-protection-learn-more = Zjistit více
-# Variables
-#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-not-opted-in-4 =
     .heading = Vyzkoušejte vestavěnou síť VPN aplikace { -brand-short-name }
     .message = Procházejte internet s větší ochranou díky skrytí své polohy.
