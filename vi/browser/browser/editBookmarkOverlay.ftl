@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Sử dụng các thẻ để sắp xếp và tìm kiếm các dấu trang từ thanh địa chỉ
 bookmark-overlay-keyword-caption-label-2 = Sử dụng từ khóa để mở dấu trang trực tiếp từ thanh địa chỉ
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Lưu
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Thêm dấu trang
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Dấu trang mới
+bookmark-properties-title-add-folder = Thêm thư mục dấu trang
+bookmark-properties-title-edit-bookmark = Chỉnh sửa dấu trang
+bookmark-properties-title-edit-folder = Chỉnh sửa thư mục dấu trang
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Tên thư mục]
+bookmark-properties-default-name-folder = Thư mục mới
+bookmark-properties-default-name-bookmark = Dấu trang mới
