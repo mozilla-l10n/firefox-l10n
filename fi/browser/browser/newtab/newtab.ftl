@@ -344,6 +344,11 @@ newtab-privacy-message-first-protection-cta = Näytä suojaukset
 newtab-stocks-menu-learn-more = Lue lisää
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Osaketietoja ei ole saatavilla.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Avaa talousvalikko
+    .title = Avaa talousvalikko
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -559,6 +564,11 @@ newtab-recent-searches-empty-trending = Nousussa olevia hakuja ei ole tällä he
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskoopit
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Avaa horoskooppivalikko
+    .title = Avaa horoskooppivalikko
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Horoskooppien asetukset

@@ -502,6 +502,13 @@ lapsed-user-toast-title = { -brand-product-name } on yhä tukenasi
 lapsed-user-toast-subtitle = Tutustu uusiin selaustapoihin, jotka tarjoavat enemmän valinnanvaraa, yksityisyyttä ja hallintaa.
 lapsed-user-toast-whats-new-button = Tutustu uutuuksiin
 lapsed-user-toast-dismiss-button = Hylkää
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Uusi ilme. Ei tarvitse aloittaa alusta.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Tuo kirjanmerkit, salasanat ja selaushistoria nykyisestä selaimestasi.
 
 ## Refresh Firefox infobar
 ##

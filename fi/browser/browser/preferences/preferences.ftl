@@ -1144,6 +1144,10 @@ prefs-syncing-off = Synkronointi: POIS PÄÄLTÄ
 prefs-syncing-off-2 =
     .description = Ota synkronointi käyttöön saadaksesi kirjanmerkit, salasanat, historian ja paljon muuta mille tahansa laitteelle.
     .label = Synkronointi on POIS PÄÄLTÄ
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Ota synkronointi käyttöön, niin saat kirjanmerkit, salasanat, selaushistorian ja paljon muuta tälle laitteelle.
+    .label = Synkronointi on POIS PÄÄLTÄ
 prefs-sync-turn-on-syncing =
     .label = Ota synkronointi käyttöön…
     .accesskey = O
@@ -1167,6 +1171,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Synkronoit näitä tietoja kaikkien yhdistettyjen laitteiden välillä:
 sync-syncing-across-devices-heading-2 = Laitteiden välillä synkronoidut tiedot
+sync-syncing-across-devices-heading-3 = Tietojen synkronointi tällä laitteella
 sync-syncing-across-devices-empty-state2 =
     .description = Et synkronoi mitään… vielä. Aloita synkronointi saadaksesi kaikki tietosi kaikille laitteillesi.
     .label = Synkronoitujen tietojen hallinta
@@ -1229,6 +1234,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = K
     .style = min-width: 36em;
     .title = Hallitse mitä kaikille yhdistetyille laitteillesi synkronoidaan
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Tallenna
+    .buttonlabelextra2 = Katkaise yhteys…
+    .buttonaccesskeyaccept = T
+    .buttonaccesskeyextra2 = K
+    .style = min-width: 36em;
+    .title = Hallinnoi laitteelle synkronoitavia asioita
 
 ## The device name controls.
 

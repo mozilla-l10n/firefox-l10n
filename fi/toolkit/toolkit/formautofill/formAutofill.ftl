@@ -15,6 +15,7 @@ autofill-use-payment-method-os-prompt-other = { -brand-short-name } yrittää k�
 autofill-edit-payment-method-os-prompt-macos = näyttää tallennettuja maksutapatietoja
 autofill-edit-payment-method-os-prompt-windows = { -brand-short-name } yrittää näyttää tallennettuja maksutapatietoja. Vahvista pääsy tälle Windows-tilille alapuolella.
 autofill-edit-payment-method-os-prompt-other = { -brand-short-name } yrittää näyttää tallennettuja maksutapatietoja.
+autofill-delete-payment-method-os-prompt-windows = { -brand-short-name } yrittää poistaa tallennettuja maksutapatietoja. Vahvista pääsy tälle Windows-tilille alapuolella.
 autofill-delete-payment-method-os-prompt-other = { -brand-short-name } yrittää poistaa tallennetun maksutavan tiedot.
 # The button leads users to Form Autofill browser preferences.
 credit-card-doorhanger-options-button =
