@@ -687,6 +687,12 @@ newtab-carousel-previous =
 # Button that goes to the next carousel slide.
 newtab-carousel-next =
     .aria-label = Següent
+# Button that pauses autoplay on the carousel.
+newtab-carousel-pause =
+    .aria-label = Pausa la reproducció automàtica
+# Button that resumes autoplay on the carousel.
+newtab-carousel-play =
+    .aria-label = Reprèn la reproducció automàtica
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -742,10 +748,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Mots encreuats
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finances
 newtab-custom-widget-stocks-toggle =
     .label = Accions
 newtab-custom-widget-picture-toggle =
     .label = Imatge del dia
+newtab-custom-widget-search-toggle =
+    .label = Cerca
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horòscop
 newtab-custom-widget-section-title = Ginys
 newtab-custom-widget-section-toggle =
     .label = Ginys
@@ -757,6 +770,29 @@ newtab-custom-close-menu-button =
     .aria-label = Tanca el menú
     .title = Tanca
 newtab-custom-settings = Gestiona més paràmetres
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Aparença
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Mostra més temes
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = Temes del { -brand-product-name }
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Els vostres temes
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Habilita
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Inhabilita
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Instal·la el tema
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Exploreu més temes
 
 ## New Tab Wallpapers
 
@@ -770,6 +806,9 @@ newtab-wallpaper-add-an-image = Afegiu una imatge
 newtab-wallpaper-custom-color = Trieu un color
 newtab-wallpaper-toggle-title =
     .label = Fons de pantalla
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Categories de fons de pantalla
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = La imatge supera el límit de mida de fitxer de { $file_size } MB. Proveu de pujar un fitxer més petit.
@@ -788,6 +827,48 @@ newtab-wallpaper-dark-mountain = Paisatge de muntanya
 newtab-wallpaper-dark-city = Paisatge urbà porpra
 newtab-wallpaper-dark-fox-anniversary = Una guineu a la vorera prop d'un bosc
 newtab-wallpaper-light-fox-anniversary = Una guineu en un camp d'herba amb un paisatge de muntanya emboirat
+
+## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
+## can be a file they uploaded, a Picture of the Day they chose to keep, or a
+## Firefox wallpaper kept for them when it was retired.
+
+newtab-wallpaper-your-images = Les vostres imatges
+# Accessible name for the tile that opens the "Your images" folder in the
+# wallpaper picker. The tile shows one of the saved images and has no text of
+# its own, so this is all a screen reader has to go on.
+newtab-wallpaper-your-images-folder =
+    .aria-label = Les vostres imatges, els fons de pantalla que heu desat
+# Read by screen readers for a saved image that has a name of its own: a kept
+# Picture of the Day, or a Firefox wallpaper kept when it was retired. An image
+# someone added themselves is numbered instead, see the string below.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-your-images-item = { $name }
+# Read by screen readers for an image someone added themselves. Firefox counts
+# these as they are saved rather than keeping the name of their file.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-your-images-item-numbered = Imatge { $number }
+# Each saved image has its own remove button. The tooltip stays short because
+# a name can be long and some locales put it before the verb, which would push
+# "remove" out of view. The full name is on the label a screen reader reads.
+# Variables:
+#   $name (string) - The picture's own title, or the Firefox wallpaper's name
+newtab-wallpaper-remove-image =
+    .aria-label = Elimina { $name }
+    .title = Elimina la imatge
+# The remove button for an image someone added themselves. .title is the
+# tooltip and .aria-label is what a screen reader reads.
+# Variables:
+#   $number (number) - Which saved image this is, counting from one
+newtab-wallpaper-remove-image-numbered =
+    .aria-label = Elimina la imatge { $number }
+    .title = Elimina la imatge { $number }
+newtab-wallpaper-remove-image-title = Voleu eliminar la imatge?
+# "This action" refers to removing a saved wallpaper image.
+newtab-wallpaper-remove-image-body = Aquesta acció no es pot desfer.
+newtab-wallpaper-remove-image-confirm = Elimina
+newtab-wallpaper-remove-image-cancel = Cancel·la
 
 ## Solid Colors
 
@@ -880,6 +961,9 @@ newtab-weather-menu-change-location = Canvia la ubicació
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Cerca la ubicació
     .placeholder = Cerca la ubicació
+newtab-weather-cancel-input =
+    .aria-label = Cancel·la
+    .title = Cancel·la
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = Utilitza la ubicació actual

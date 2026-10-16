@@ -95,4 +95,11 @@ about-private-browsing-spotlight-basics-bookmarks-downloads = Bókamerki og nið
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Meiri persónuvernd
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } varar þig sjálfkrafa við spilliforritum og villandi vefsvæðum.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } biður þátttökuvefi sjálfkrafa um að selja ekki eða deila persónuupplýsingum þínum.
+about-private-browsing-spotlight-basics-vpn = Notaðu innbyggt VPN til að gera erfiðara að rekja staðsetningu þína.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Skiptu yfir í Strangt í stillingunum til að fá sterkari varnir gegn rakningu.
 about-private-browsing-spotlight-basics-learn-more = Frekari upplýsingar
