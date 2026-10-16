@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Shko te rreshti
+view-source-go-to-line-text = Jepni numër rreshti
 view-source-invalid-input-title = Dhënie e pavlefshme
 view-source-invalid-input-text = Numri i dhënë për rreshtin është i pavlefshëm.
 view-source-out-of-range-title = Rresht që s’gjendet
