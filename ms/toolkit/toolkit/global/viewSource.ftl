@@ -12,6 +12,13 @@ view-source-out-of-range-text = Baris ditentukan tidak ditemui.
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = Pemilihan Sumber DOM
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = Pergi ke Baris…
+    .accesskey = B
+view-source-context-wrap-long-lines =
+    .label = Balut Baris Panjang
