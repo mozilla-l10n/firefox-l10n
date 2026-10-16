@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = வரிக்கு செல்
+view-source-go-to-line-text = வரி எண்ணை உள்ளிடு
 view-source-invalid-input-title = தவறான உள்ளீடு
 view-source-invalid-input-text = உள்ளிடப்பட்ட வரி எண் தவறானது.
 view-source-out-of-range-title = வரியை காணவில்லை
