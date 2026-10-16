@@ -18,3 +18,5 @@ view-source-context-go-to-line =
     .accesskey = n
 view-source-context-wrap-long-lines =
     .label = Zalamovat dlouhé řádky
+view-source-context-highlight-syntax =
+    .label = Zvýrazňovat syntaxi
