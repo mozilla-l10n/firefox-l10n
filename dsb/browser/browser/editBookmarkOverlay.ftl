@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Wužywajśo wobznamjenja, aby cytańske znamjenja organizěrował a z adresowego póla pytał
 bookmark-overlay-keyword-caption-label-2 = Wužywajśo jadnotliwe klucowe słowo, aby cytańske znamjenja direktnje z adresowego póla wócynił
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Składowaś
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Cytańske znamje pśidaś
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nowe cytańske znamjenja
+bookmark-properties-title-add-folder = Zarědnik cytańskich znamjenjow pśidaś
+bookmark-properties-title-edit-bookmark = Cytańske znamje wobźěłaś
+bookmark-properties-title-edit-folder = Zarědnik cytańskich znamjenjow wobźěłaś
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Mě zarědnika]
+bookmark-properties-default-name-folder = Nowy zarědnik
+bookmark-properties-default-name-bookmark = Nowe cytańske znamje
