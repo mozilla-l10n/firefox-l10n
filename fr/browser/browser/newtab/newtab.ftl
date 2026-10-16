@@ -385,6 +385,9 @@ newtab-stocks-list-watchlist = Liste de suivi
     .label = Liste de suivi
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Rechercher par nom ou symbole
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finance
@@ -542,6 +545,9 @@ newtab-recent-searches-just-now = À l’instant
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Supprimer « { $search } » de vos recherches récentes
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Recherches
 # Screen reader label for the widget's icon-only menu button.
@@ -574,6 +580,11 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Options de l’horoscope
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = En savoir plus
+
+## Strings for the Travel widget
+
+# Context menu item linking to more information about the widget.
+newtab-travel-menu-learn-more = En savoir plus
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -628,6 +639,9 @@ newtab-topsites-image-url-label = URL de l’image personnalisée
 newtab-topsites-use-custom-image-link = Utiliser une image personnalisée
 newtab-topsites-use-image-link = Utiliser une image personnalisée…
 newtab-topsites-image-validation = Échec du chargement de l’image. Essayez avec une autre URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Effacer le texte
 
@@ -1065,6 +1079,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Un renard sur le bord droit d’un fond orange
 newtab-wallpaper-firefox-colorful-sky = Ondulations orangées dans un ciel nocturne violet
 newtab-wallpaper-firefox-desert-dark = Un renard assis dans un désert violet foncé
