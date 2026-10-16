@@ -674,6 +674,12 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = Göstər: “{ $popupURI }”
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+file-picker-crashed-show-in-folder =
+    .label = Qovluqda göstər
+    .accessKey = F
+
 ## Onboarding Finish Setup checklist
 
 onboarding-aw-finish-setup-button =

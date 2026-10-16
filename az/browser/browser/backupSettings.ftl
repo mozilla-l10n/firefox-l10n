@@ -33,6 +33,7 @@ settings-data-backup-scheduled-backups-off2 =
 # "Location" refers to the folder where backups are being written to.
 settings-data-backup-last-backup-location2 =
     .label = Nüsxələmə yeri
+settings-data-backup-last-backup-location-show-in-folder = Qovluqda göstər
 settings-data-toggle-encryption-label2 =
     .description = Parollarınızı və ödəniş metodlarınızı nüsxələyin, həmçinin bütün məlumatlarınızı şifrləmə ilə qoruyun.
     .label = Həssas məlumatlarınızı nüsxələyin
@@ -41,7 +42,7 @@ settings-data-backup-restore-scheduled-on =
     .label = Məlumatlarımı geri qaytar
 settings-data-backup-restore-scheduled-off =
     .description = Məlumatlarınızı bərpa etmək üçün başqa cihazdakı { -brand-product-name } nüsxəsindən istifadə edin.
-    .label = Məlumatlarınızı bərpa edin
+    .label = Məlumatlarınızı geri qaytarın
 settings-sensitive-data =
     .label = Həssas məlumat
 settings-data-toggle-encryption-support-link = Ətraflı öyrənin
@@ -61,9 +62,16 @@ turn-off-scheduled-backups-confirm-button = Söndür və nüsxələri sil
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = Məlumatlarınızı geri qaytarın
 restore-from-backup-filepicker-label = Nüsxə faylı
 restore-from-backup-filepicker-title = Nüsxə faylını seçin:
 restore-from-backup-password-description = Bu sizin şifrlənmiş nüsxənizi açacaq.
+restore-from-backup-confirm-button = Geri qaytar və yenidən başlat
+restore-from-backup-type-replace =
+    .label = Bütün məlumatları bu nüsxə ilə əvəz et
+restore-from-backup-type-add =
+    .label = Məlumatları saxla və yeni profil yarat
+restore-from-backup-profiles-disabled-message = Bu hərəkət cari { -brand-short-name } məlumatlarınızı nüsxənizlə əvəz edəcək.
 
 ## These strings are displayed in a modal when users want to enable encryption or change the password for an existing backup.
 

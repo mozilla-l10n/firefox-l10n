@@ -32,6 +32,10 @@ onboarding-existing-vertical-tabs-label = Şaquli vərəqləri sınayın
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = Üfüqi vərəqləri saxla
 
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = Hər şey hazır! { -brand-short-name } məlumatlarınız geri qaytarıldı.
+
 ## First Run Onboarding refresh strings
 
 # Tooltip displayed on hover for minimal tabs image

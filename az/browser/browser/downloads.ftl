@@ -23,9 +23,34 @@ downloads-cmd-cancel =
     .tooltiptext = Ləğv et
 downloads-cmd-cancel-panel =
     .aria-label = Ləğv et
+downloads-cmd-show-menuitem-2 =
+    .label =
+        { PLATFORM() ->
+            [macos] Qovluqda göstər
+           *[other] Qovluqda göstər
+        }
+    .accesskey = F
 
 ##
 
+downloads-cmd-show-button-2 =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Qovluqda göstər
+           *[other] Qovluqda göstər
+        }
+downloads-cmd-show-panel-2 =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Qovluqda göstər
+           *[other] Qovluqda göstər
+        }
+downloads-cmd-show-description-2 =
+    .value =
+        { PLATFORM() ->
+            [macos] Qovluqda göstər
+           *[other] Qovluqda göstər
+        }
 downloads-cmd-retry =
     .tooltiptext = Təkrar yoxla
 downloads-cmd-retry-panel =
