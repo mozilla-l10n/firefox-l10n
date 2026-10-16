@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Gaan na reël
+view-source-go-to-line-text = Tik reëlnommer in
 view-source-invalid-input-title = Ongeldige toevoer
 view-source-invalid-input-text = Die reëlnommer wat u ingetik het, is ongeldig.
 view-source-out-of-range-title = Reël nie gevind nie
