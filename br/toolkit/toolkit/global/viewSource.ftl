@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Troc'hañ al linennoù hir
+view-source-context-highlight-syntax =
+    .label = Sklerijennañ ar c'hevreadur
