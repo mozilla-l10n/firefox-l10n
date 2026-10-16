@@ -17,3 +17,20 @@ bookmark-overlay-tags-expander2 =
     .tooltiptext = Bonisa zonke iithegi
 bookmark-overlay-tags-expander-hide =
     .tooltiptext = Fihla
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Gcina
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Iibhukhmakhi Ezintsha
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Igama lefayile]
+bookmark-properties-default-name-folder = Ifolda entsha
+bookmark-properties-default-name-bookmark = Iibhukhmakhi Ezintsha
