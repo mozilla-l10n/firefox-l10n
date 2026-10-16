@@ -1129,6 +1129,10 @@ prefs-syncing-off = Sincronización: desactivada
 prefs-syncing-off-2 =
     .description = Habilite la sincronización para tener marcadores, contraseñas, historial y más en todos los dispositivos.
     .label = Sincronización DESACTIVADA
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Habilite la sincronización para tener sus marcadores, contraseñas, historial y más en este dispositivo.
+    .label = Sincronización DESACTIVADA
 prefs-sync-turn-on-syncing =
     .label = Habilitar sincronización…
     .accesskey = s
