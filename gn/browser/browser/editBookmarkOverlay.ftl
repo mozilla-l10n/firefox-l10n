@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Eiporu teramoĩ emohendaporã hag̃ua ha eheka techaukaha kundaharape renda guive
 bookmark-overlay-keyword-caption-label-2 = Peteĩ ñe’ẽ ombojurujáta techaukaha kundaharape renda guive
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Ñongatu
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Embojuaju techaukaha
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Techaukaha pyahu
+bookmark-properties-title-add-folder = Embojuaju marandurenda rechaukaha
+bookmark-properties-title-edit-bookmark = Embosako’i techaukaha
+bookmark-properties-title-edit-folder = Embosako’i marandurenda rechaukaha
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Ñongatuha réra]
+bookmark-properties-default-name-folder = Ñongatuha pyahu
+bookmark-properties-default-name-bookmark = Techaukaha pyahu
