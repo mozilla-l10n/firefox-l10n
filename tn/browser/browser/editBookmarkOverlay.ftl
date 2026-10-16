@@ -11,9 +11,17 @@ bookmark-overlay-folders-expander-hide =
 
 ## Bookmark properties dialog
 
+bookmark-properties-save-button =
+    .label = Boloka
 
 ## Titles of the dialog used to add or edit bookmarks and folders.
 
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Letshwaotsebe le le Ntšha
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Leina la Setsholadifaele]
+bookmark-properties-default-name-folder = Setsholadifaele se se Ntšha
+bookmark-properties-default-name-bookmark = Letshwaotsebe le le Ntšha
