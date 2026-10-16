@@ -36,3 +36,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = V
 bookmark-overlay-tags-caption-label = Kasuta järjehoidjate organiseerimiseks ja aadressiribalt otsimiseks silte
 bookmark-overlay-keyword-caption-label-2 = Järjehoidja avamiseks otse aadressiribalt on võimalik kasutada võtmesõna
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Salvesta
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Järjehoidja lisamine
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Kõigi kaartide järjehoidjatesse panemine
+bookmark-properties-title-add-folder = Järjehoidjate kausta lisamine
+bookmark-properties-title-edit-bookmark = Järjehoidja muutmine
+bookmark-properties-title-edit-folder = Järjehoidjate kausta muutmine
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Kausta nimi]
+bookmark-properties-default-name-folder = Uus kaust
+bookmark-properties-default-name-bookmark = Uus järjehoidja
