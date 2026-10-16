@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = ໃຊ້ແທັກເພື່ອຈັດລະບຽບ ແລະຄົ້ນຫາບຸກມາກຈາກແຖບທີ່ຢູ່
 bookmark-overlay-keyword-caption-label-2 = ໃຊ້ຄໍາສໍາຄັນດຽວເພື່ອເປີດ bookmarks ໂດຍກົງຈາກແຖບທີ່ຢູ່
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = ບັນທຶກ
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = ເພີ່ມບຸກມາກ
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = ບຸກມາກໃຫມ່
+bookmark-properties-title-add-folder = ເພີ່ມໂຟນເດີ bookmark
+bookmark-properties-title-edit-bookmark = ແກ້ໄຂບຸກມາກ
+bookmark-properties-title-edit-folder = ແກ້ໄຂໂຟເດີ bookmark
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [ຊື່ໂຟນເດີ]
+bookmark-properties-default-name-folder = ໂຟນເດີໃຫມ່
+bookmark-properties-default-name-bookmark = ບຸກມາກໃຫມ່
