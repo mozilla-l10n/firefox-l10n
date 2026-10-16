@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Dem ci rëdd
+view-source-go-to-line-text = Dugal nimero rëdd wi
 view-source-invalid-input-title = Dugal bi baaxul
 view-source-invalid-input-text = Lim bi nga joxe baaxul.
 view-source-out-of-range-title = Kenn gisul rëdd wi
