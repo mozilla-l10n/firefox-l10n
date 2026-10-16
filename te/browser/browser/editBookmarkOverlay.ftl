@@ -37,3 +37,20 @@ bookmark-overlay-tags-expander-hide =
 bookmark-overlay-keyword-2 =
     .value = కీపదం
     .accesskey = K
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = భద్రపరుచు
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = కొత్త ఇష్టాంశములు
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [సంచయం పేరు]
+bookmark-properties-default-name-folder = కొత్త సంచయం
+bookmark-properties-default-name-bookmark = కొత్త ఇష్టాంశము
