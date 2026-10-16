@@ -12,6 +12,13 @@ view-source-out-of-range-text = A linha especificada não foi encontrada.
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = Código DOM da seleção
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = Ir para a linha…
+    .accesskey = l
+view-source-context-wrap-long-lines =
+    .label = Encapsular linhas longas
