@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Amlapio Llinellau Hir
+view-source-context-highlight-syntax =
+    .label = Amlygu Cystrawen
