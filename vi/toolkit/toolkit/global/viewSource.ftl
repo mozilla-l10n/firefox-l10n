@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = Cắt những dòng dài
+view-source-context-highlight-syntax =
+    .label = Tô sáng cú pháp
