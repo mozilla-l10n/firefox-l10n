@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = К
 bookmark-overlay-tags-caption-label = Помоћу ознака можете да организујете обележиваче и претражујете их из траке за адресу
 bookmark-overlay-keyword-caption-label-2 = Отварајте обележиваче директно из траке за адресу помоћу кључне речи
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Сачувај
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Додавање обележивача
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Нови обележивачи
+bookmark-properties-title-add-folder = Додавање фасцикле са обележивачима
+bookmark-properties-title-edit-bookmark = Уређивање обележивача
+bookmark-properties-title-edit-folder = Уређивање фасцикле са обележивачима
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Назив фасцикле]
+bookmark-properties-default-name-folder = Нова фасцикла
+bookmark-properties-default-name-bookmark = Нови обележивач
