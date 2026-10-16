@@ -702,6 +702,8 @@ search-one-click-desc = Izvēlies papildu meklētāju, kas parādīsies adreses 
 search-one-click-header-3 =
     .description = Izvēlies, kuri meklētāji un saīsnes ir redzami adreses joslā.
     .label = Papildu meklētāji
+update-search-engine-success =
+    .message = Meklētājs sekmīgi atjaunināts
 search-choose-engine-column =
     .label = Meklētājs
 search-choose-keyword-column =
@@ -733,6 +735,9 @@ search-engine-group =
     .label = Noklusējuma meklētājs
 search-default-engine =
     .aria-label = Noklusējuma meklētājs
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = Meklēt
 
 ## Containers Section
 

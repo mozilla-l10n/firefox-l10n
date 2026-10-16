@@ -966,6 +966,12 @@ newtab-clock-widget-search-results =
 # Fallback row in the search results that lets the user add a city that is
 # not in the list. $city (String) is the text the user has typed.
 newtab-clock-widget-add-custom = Pievienot “{ $city }” kā pielāgotu pulksteni
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .aria-label = Laika josla
+    .label = Laika josla
+    .placeholder = Meklēt pēc pilsētas, laika joslas vai UTC nobīdes
 # "Clock options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.

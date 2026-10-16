@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 url-classifier-title = URL klasifikatora informācija
+url-classifier-search-title = Meklēt
 url-classifier-search-result-title = Iznākums
 url-classifier-provider-title = Piegādātājs
 url-classifier-provider = Piegādātājs

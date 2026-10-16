@@ -45,6 +45,9 @@ install-search-engine-add = Pievienot
 add-engine-window =
     .style = min-width: 32em;
     .title = Pievienot meklētāju
+edit-engine-window =
+    .style = min-width: 32em;
+    .title = Labot meklētāju
 add-engine-button = Pievienojiet pielāgotu meklētāju
 add-engine-name = Meklētāja nosaukums
 
