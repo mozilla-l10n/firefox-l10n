@@ -89,12 +89,22 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Mots encreuats
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finances
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Accions
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Imatge del dia
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Cerca
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horòscop
 home-prefs-mission-message2 =
     .message = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor.
 home-prefs-manage-topics-link2 =
@@ -160,6 +170,21 @@ home-prefs-mission-message-learn-more-link-srd = Descobriu com
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Més informació
+# "Privacy options" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-privacy-widget-menu-button =
+    .aria-label = Opcions de privadesa
+    .title = Opcions de privadesa
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Obre el menú de privadesa
+    .title = Obre el menú de privadesa
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privadesa
 
 ## Privacy widget — count readout
 
@@ -259,9 +284,41 @@ newtab-privacy-message-first-protection-cta = Mostra les proteccions
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Més informació
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Obre el menú de finances
+    .title = Obre el menú de finances
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .aria-label = Cerca per nom o símbol
+    .label = Cerca
+    .title = Cerca per nom o símbol
+# Button under the empty-watchlist message that opens the stock search. Shown
+# with a magnifying-glass icon and the .label, where "Search" is a verb; .title
+# and .aria-label name it the same way as the toolbar search button.
+newtab-stocks-watchlist-empty-search =
+    .aria-label = Cerca per nom o símbol
+    .label = Cerca
+    .title = Cerca per nom o símbol
 # Accessible name for the Stocks widget; hidden because the list dropdown is
 # shown in place of the title.
 newtab-stocks-widget-title = Accions
+# "Markets" is the default list of market ETFs. The value is shown in the menu,
+# and .label is shown on the button that opens it.
+newtab-stocks-list-markets = Mercats
+    .label = Mercats
+# "Watchlist" is the user's list of stocks to follow. The value is shown in the
+# menu, and .label is shown on the button that opens it.
+newtab-stocks-list-watchlist = Llista de seguiment
+    .label = Llista de seguiment
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = Cerca per nom o símbol
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finances
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -275,6 +332,64 @@ newtab-stocks-ticker-status-up = { $name }, puja un { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, baixa un { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sense canvis, { $change }, { $price }
+
+## Finance widget watchlist add and remove controls
+
+# Tooltip and screen-reader label for the button that adds a stock to the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+newtab-stocks-add-to-watchlist =
+    .aria-label = Afegeix { $name } a la llista de seguiment
+    .title = Afegeix { $name } a la llista de seguiment
+# Tooltip and screen-reader label for the button that removes a stock from the watchlist.
+# The button shows only an icon and never renders visible text.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-remove-from-watchlist =
+    .aria-label = Elimina { $name } de la llista de seguiment
+    .title = Elimina { $name } de la llista de seguiment
+# Visually hidden text on a Markets row whose stock is already in the watchlist, so
+# screen readers announce that it is saved. Removal happens on the Watchlist tab.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-in-watchlist = { $name } ja és a la vostra llista de seguiment
+# Announced to screen readers after a stock is added to the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-added-to-watchlist = S'ha afegit { $name } a la llista de seguiment
+# Announced to screen readers after a stock is removed from the watchlist.
+# Variables:
+#   $name (String) - the fund/ETF name.
+newtab-stocks-removed-from-watchlist = S'ha eliminat { $name } de la llista de seguiment
+
+## Finance widget ticker search
+
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = Cerca per nom o símbol
+    .placeholder = Cerca per nom o símbol
+# "Search results" is the accessible label for the list of tickers matching the
+# search. It means "results of the search", not "search within the results".
+newtab-stocks-search-results =
+    .aria-label = Resultats de la cerca
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Cerqueu símbols o empreses per afegir a la vostra llista de seguiment
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .aria-label = Enrere
+    .title = Enrere
+# Shown when a ticker search returns no matching symbols.
+# Variables:
+#   $query (String) - the text the user searched for.
+newtab-stocks-search-no-results = No hi ha resultats per a «{ $query }»
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = S'està carregant…
+# Shown when a ticker search fails to reach the service.
+newtab-stocks-search-error = No s’ha pogut cercar ara mateix. Torneu-ho a provar més tard.
 
 ## Strings for the Picture of the Day widget
 
@@ -301,6 +416,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = Opcions de la imatge del dia
     .title = Opcions de la imatge del dia
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Obre el menú de la imatge del dia
+    .title = Obre el menú de la imatge del dia
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -325,6 +445,21 @@ newtab-picture-check-back = Torneu demà per a veure una altra imatge.
 # Screen-reader text alternative for the picture; fallback used when the source
 # provides no localized description.
 newtab-picture-image-alt = Imatge del dia a Wikimedia Commons
+
+## Strings for the Search widget
+
+# Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Més informació
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Cerques recents
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Tendències
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = mitjançant { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Ara mateix
 
 ## Search box component.
 
@@ -400,6 +535,23 @@ newtab-topsite-sponsored = Patrocinat
 topsite-label-pinned =
     .aria-label = { $title } (fixat)
     .title = { $title }
+
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Notificacions de { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Ara mateix
+newtab-topsites-hover-card-mark-all-read =
+    .aria-label = Marca-ho tot com a llegit
+    .title = Marca-ho tot com a llegit
+newtab-topsites-hover-card-settings =
+    .aria-label = Paràmetres de notificació
+    .title = Paràmetres de notificació
+newtab-topsites-hover-card-dismiss =
+    .aria-label = Descarta
+    .title = Descarta
 
 ## Context Menu - Action Tooltips.
 
@@ -523,6 +675,12 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Sembla que aquesta se
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } de { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = Anterior
