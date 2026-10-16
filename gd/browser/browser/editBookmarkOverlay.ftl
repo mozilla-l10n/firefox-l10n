@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = F
 bookmark-overlay-tags-caption-label = Cleachd tagaichean airson rian a chumail air na comharran-lìn agus an lorg on bhàr-sheòlaidh
 bookmark-overlay-keyword-caption-label-2 = Cleachd aon fhacal-luirg airson comharran-lìn fhosgladh sa bhad on bhàr-sheeòlaidh
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Sàbhail
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Cuir comharra-lìn ris
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Comharran-lìn ùra
+bookmark-properties-title-add-folder = Cuir pasgan chomharran-lìn ris
+bookmark-properties-title-edit-bookmark = Deasaich an comharra-lìn
+bookmark-properties-title-edit-folder = Deasaich am pasgan chomharran-lìn
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Ainm pasgain]
+bookmark-properties-default-name-folder = Pasgan ùr
+bookmark-properties-default-name-bookmark = Comharra-lìn ùr
