@@ -285,6 +285,28 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Regels ynstelle foar websites dy’t ekstra privacy nedich hawwe of VPN útskeakele wêze moat.
     .label = VPN-regels beheare
+ip-protection-site-rules-list-section =
+    .description = Kies hoe’t VPN wurket foar websites dy’t ekstra privacy of VPN útskeakele nedich hawwe.
+    .label = Websiteregels
+ip-protection-site-rules-add-button =
+    .label = Regel ynstelle
+ip-protection-site-rules-delete-all-button =
+    .label = Alle regels fuortsmite
+ip-protection-site-rules-empty = De regels dy’t jo ynstelle ferskine hjir.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN altyd oan
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN altyd út
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = De regel foar { $website } bewurkje
+    .title = Bewurkje
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = De regel foar { $website } fuortsmite
+    .title = Fuortsmite
 ip-protection-site-rules-header =
     .heading = Websiteregels beheare
 ip-protection-site-rules-button =
@@ -308,6 +330,46 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Website-ynstellingen beheare
 ip-protection-exclusions-desc = VPN foar alle websites brûke, útsein websites yn dizze list. Foegje hjir in website ta of troch VPN te iepenjen.
+ip-protection-site-rule-window =
+    .title = Regel ynstelle
+ip-protection-edit-site-rule-window =
+    .title = Regel bewurkje
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Ynstelle
+    .buttonaccesskeyaccept = Y
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Bewarje
+    .buttonaccesskeyaccept = B
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Fier in website yn en selektearje dan de VPN-status.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Website
+    .placeholder = byg: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN-status
+ip-protection-site-rule-status-on =
+    .label = Altyd oan
+ip-protection-site-rule-status-off =
+    .label = Altyd út
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Fier in jildich website-adres yn.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Dizze website hat al in regel.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Flater by it meitsjen fan regel. Probearje it opnij.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Regel foar { $website } fuortsmite?
+ip-protection-delete-site-rule-cancel =
+    .label = Annulearje
+ip-protection-delete-site-rule-confirm =
+    .label = Fuortsmite
+ip-protection-delete-all-site-rules-message = Alle websiteregels fuortsmite?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Alle regels fuortsmite
 
 ## IP Protection Bandwidth
 
