@@ -77,6 +77,7 @@ policy-DisableSecurityBypass = Foarkomme dat de brûker bepaalde befeiligingsyns
 policy-DisableSetAsDesktopBackground = De menuopdracht As buroblêdachtergrûn ynstelle foar ôfbyldingen útskeakelje.
 policy-DisableSystemAddonUpdate = Foarkomme dat de browser systeemadd-ons ynstallearret en bywurket.
 policy-DisableTelemetry = Telemetry útskeakelje.
+policy-DisableThirdPartyModuleBlocking2 = Foarkomme dat de brûker eksterne ynformaasje oer modulen (about:third-party) brûkt om modulen fan tredden te blokkearjen dy’t yn it { -brand-short-name }-proses ynjektearre binne.
 policy-DisableThirdPartyModuleBlocking = Foarkomme dat de brûker modulen fan tredden dy’t yn it { -brand-short-name }-proses ynjektearre wurde blokkearret
 policy-DisplayBookmarksToolbar = Standert de Blêdwizerarkbalke werjaan.
 policy-DisplayMenuBar = Standert de Menubalke werjaan.
@@ -128,6 +129,7 @@ policy-OfferToSaveLogins = De ynstelling foar it tastean dat { -brand-short-name
 policy-OfferToSaveLoginsDefault = De standertwearde ynstelle foar it tastean dat { -brand-short-name } oanbiede mei bewarre oanmeldingen en wachtwurden te ûnthâlden ôftwingje. Sawol de wearde true as false wurdt akseptearre.
 policy-OverrideFirstRunPage = De side dy’t foar it earst iepene wurdt ferfange. Stel dizze beliedsregel yn op leech as jo de oanbelangjende side útskeakelje wolle.
 policy-OverridePostUpdatePage = De side ‘Wat is der nij’ nei in fernijing ferfange. Stel dizze beliedsregel yn op leech as jo de oanbelangjende side útskeakelje wolle.
+policy-PasswordManagerEnabled2 = It bewarjen fan wachtwurden nei de wachtwurdbehearder yn- of útskeakelje. As útskeakele, wurdt Wachtwurden (about:login) ek blokkearre.
 policy-PasswordManagerEnabled = Bewarjen fan wachtwurden yn de wachtwurdbehearder ynskeakelje.
 policy-PasswordManagerExceptions = Foarkomme dat { -brand-short-name } wachtwurden foar spesifike websites bewarret.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -146,6 +148,7 @@ policy-RelaunchRequired = Fereaskje dat { -brand-short-name } binnen in bepaalde
 policy-RequestedLocales = De list fan frege locales foar de tapassing ynstelle, op folchoarder fan foarkar.
 policy-SanitizeOnShutdown2 = Navigaasjegegevens wiskje by ôfsluten.
 policy-SearchBar = De standertlokaasje fan de sykbalke ynstelle. De brûker mei dizze noch hieltyd oanpasse.
+policy-SearchEngines2 = Ynstellingen fan sykmasinen konfigurearje.
 policy-SearchEngines = Ynstellingen foar sykmasinen konfigurearje. Dizze beliedsregel is allinnich beskikber yn de Extended Support Release (ESR)-ferzje.
 policy-SearchSuggestEnabled = Syksuggestjes ynskeakelje of útskeakelje.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
