@@ -70,6 +70,7 @@ policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya o
 policy-DisableProfileRefresh = about:support sayfasındaki “{ -brand-short-name } tarayıcısını yenile” düğmesini devre dışı bırak.
 policy-DisableRemoteImprovements = { -brand-short-name } tarayıcısının güncellemeler arasında performans, kararlılık ve özellik değişiklikleri uygulamasını önle.
 policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Uzaktan ayarları devre dışı bırak.
+policy-DisableSafeMode2 = Sorun giderme modunda (güvenli mod) yeniden başlatmayı devre dışı bırak.
 policy-DisableSafeMode = Güvenli kipte yeniden başlatma özelliğini devre dışı bırak. Not: Güvenli kipe girmek için kullanılan Shift tuşu, Windows'ta ancak Grup İlkesi ile devre dışı bırakılabilir.
 policy-DisableSecurityBypass = Kullanıcının belli güvenlik uyarılarını görmezden gelmesini engelle.
 policy-DisableSetAsDesktopBackground = Resimler için “Masaüstü arka planı olarak ayarla” menü komutunu devre dışı bırak.
