@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Pojdi v vrstico
+view-source-go-to-line-text = Vnesite številko vrstice
 view-source-invalid-input-title = Neveljaven vnos
 view-source-invalid-input-text = Vnesena številka vrstice je neveljavna.
 view-source-out-of-range-title = Vrstica ni najdena
