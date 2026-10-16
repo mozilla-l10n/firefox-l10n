@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = រុំ​បន្ទាត់​វែង
+view-source-context-highlight-syntax =
+    .label = ការ​បន្លិច​វាក្យ​សម្ព័ន្ធ
