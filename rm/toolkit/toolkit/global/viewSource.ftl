@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Siglir a la lingia
+view-source-go-to-line-text = Endatescha per plaschair il numer da lingia
 view-source-invalid-input-title = Endataziun nunvalida
 view-source-invalid-input-text = Il numer da lingia inditgà è nunvalid.
 view-source-out-of-range-title = Impussibel da chattar la lingia
