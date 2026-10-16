@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = ਲਾਈਨ ਉੱਤੇ ਜਾਓ
+view-source-go-to-line-text = ਲਾਈਨ ਨੰਬਰ ਦਿਓ
 view-source-invalid-input-title = ਗਲਤ ਇੰਪੁੱਟ
 view-source-invalid-input-text = ਦਿੱਤਾ ਲਾਈਨ ਨੰਬਰ ਠੀਕ ਨਹੀਂ ਹੈ।
 view-source-out-of-range-title = ਲਾਈਨ ਨਹੀਂ ਲੱਭੀ ਹੈ
