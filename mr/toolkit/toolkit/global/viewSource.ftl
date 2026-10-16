@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = ओळीवर जा
+view-source-go-to-line-text = ओळ क्रमांक प्रविष्ट करा
 view-source-invalid-input-title = अवैध आगत
 view-source-invalid-input-text = प्रविष्ट ओळ क्रमांक अवैध.
 view-source-out-of-range-title = ओळ आढळले नाही
