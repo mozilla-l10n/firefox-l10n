@@ -523,3 +523,4 @@ refresh-profile-infobar-button = 重新整理 { -brand-short-name }…
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>想開啟先前的分頁？</strong>您可以從 { -brand-short-name } 應用程式選單 <img data-l10n-name="icon"/> 當中的「歷史」重新開啟先前的瀏覽階段。
+restore-session-startup-suggestion-button = 告訴我如何作
