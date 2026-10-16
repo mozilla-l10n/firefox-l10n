@@ -23,6 +23,8 @@ appmenuitem-new-private-window =
     .label = Dritare e re private
 appmenuitem-history =
     .label = Historik
+appmenuitem-tab-groups =
+    .label = Grupe skedash
 appmenuitem-downloads =
     .label = Shkarkime
 appmenuitem-passwords =
@@ -254,6 +256,8 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Përshtateni Panelin…
+appmenu-abouttranslations =
+    .label = Përtheni…
 appmenu-developer-tools-subheader = Mjete Shfletuesi
 appmenu-developer-tools-extensions =
     .label = Zgjerime për Zhvillues

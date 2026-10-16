@@ -1405,3 +1405,8 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> Gjurmues i bllokuar në këtë sajt
        *[other] <span data-l10n-name="count">{ $count }</span> Gjurmues të bllokuar në këtë sajt
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+reduced-protection-infobar-reload-button = Ringarkoje
+    .accesskey = R
