@@ -5,6 +5,10 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-invalid-input-title = Nieprawidłowe dane
+view-source-invalid-input-text = Wprowadzony numer wiersza jest nieprawidłowy.
+view-source-out-of-range-title = Nie odnaleziono wiersza.
+view-source-out-of-range-text = Podany numer wiersza nie został odnaleziony.
 
 ##
 
