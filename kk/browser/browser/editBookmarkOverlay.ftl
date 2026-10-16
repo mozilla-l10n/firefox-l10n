@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = к
 bookmark-overlay-tags-caption-label = Бетбелгілерді ұйымдастыру және адрес жолағынан іздеу үшін тегтерді қолданыңыз
 bookmark-overlay-keyword-caption-label-2 = Бетбелгілерді адрес жолағынан тікелей ашу үшін бір кілт сөзді пайдаланыңыз
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Сақтау
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Бетбелгіні қосу
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Барлық беттерді бетбелгілерге қосу
+bookmark-properties-title-add-folder = Бетбелгілер бумасын қосу
+bookmark-properties-title-edit-bookmark = Бетбелгіні түзету
+bookmark-properties-title-edit-folder = Бетбелгілер бумасын түзету
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Бума аты]
+bookmark-properties-default-name-folder = Жаңа бума
+bookmark-properties-default-name-bookmark = Жаңа бетбелгі
