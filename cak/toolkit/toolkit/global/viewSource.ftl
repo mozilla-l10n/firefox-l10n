@@ -12,6 +12,15 @@ view-source-out-of-range-text = Man xilitäj ta ri b'ey xya' retal.
 
 ##
 
+# Title of the page displayed when viewing the source of a selection.
+view-source-selection-title = Ruxe'el DOM richin ri Cha'oj
 
 ## Context menu items, only visible when viewing the source of a page
 
+view-source-context-go-to-line =
+    .label = B'enam pa ri Cholaj…
+    .accesskey = K
+view-source-context-wrap-long-lines =
+    .label = Kenuk' ri yuquyäq taq cholaj
+view-source-context-highlight-syntax =
+    .label = Tiya' Retal ri Cholb'ab'
