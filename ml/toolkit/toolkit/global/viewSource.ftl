@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = നീളമുള്ള വരികള്‍ ഒതുക്കുക
+view-source-context-highlight-syntax =
+    .label = സിന്റാക്സ് ഹൈലൈറ്റ് ചെയ്യുക
