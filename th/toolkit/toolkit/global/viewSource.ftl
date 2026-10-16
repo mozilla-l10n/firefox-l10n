@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = ป
 view-source-context-wrap-long-lines =
     .label = ปัดบรรทัดล้น
+view-source-context-highlight-syntax =
+    .label = การเน้นสีไวยากรณ์
