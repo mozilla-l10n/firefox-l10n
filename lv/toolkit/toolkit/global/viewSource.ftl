@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = R
 view-source-context-wrap-long-lines =
     .label = Dalīt garas rindas
+view-source-context-highlight-syntax =
+    .label = Sintakses izcelšana
