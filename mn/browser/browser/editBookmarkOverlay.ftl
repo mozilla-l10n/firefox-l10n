@@ -30,3 +30,7 @@ bookmark-properties-title-add-multiple-bookmarks = Бүх самбарын ха�
 
 ## Default names for newly created bookmarks and folders.
 
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Сангийн нэр]
+bookmark-properties-default-name-folder = Шинэ сан
+bookmark-properties-default-name-bookmark = Шинэ хаяг
