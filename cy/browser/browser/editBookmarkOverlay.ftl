@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = A
 bookmark-overlay-tags-caption-label = Defnyddiwch dagiau i drefnu a chwilio am nodau tudalen o'r bar cyfeiriadau
 bookmark-overlay-keyword-caption-label-2 = Defnyddio'r un allweddair i agor nodau tudalen yn uniongyrchol o'r bar cyfeiriad
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Cadw
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Ychwanegu nod tudalen
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Nodau Tudalen Newydd
+bookmark-properties-title-add-folder = Ychwanegu ffolder nodau tudalen
+bookmark-properties-title-edit-bookmark = Golygu nod tudalen
+bookmark-properties-title-edit-folder = Golygu ffolder nodau tudalen
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Enw Ffolder]
+bookmark-properties-default-name-folder = Ffolder Newydd
+bookmark-properties-default-name-bookmark = Nod Tudalen Newydd
