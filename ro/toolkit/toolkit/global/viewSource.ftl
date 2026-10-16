@@ -5,6 +5,8 @@
 
 ## Go to line prompt, opened from the context menu of a view-source page
 
+view-source-go-to-line-title = Mergi la rândul
+view-source-go-to-line-text = Introdu numărul rândului
 view-source-invalid-input-title = Date introduse nevalide
 view-source-invalid-input-text = Numărul de rând introdus este nevalid.
 view-source-out-of-range-title = Rândul nu a fost găsit
