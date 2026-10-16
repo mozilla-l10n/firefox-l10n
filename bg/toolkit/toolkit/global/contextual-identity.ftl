@@ -7,10 +7,10 @@
 ## See https://support.mozilla.org/kb/how-use-firefox-containers
 
 user-context-personal =
-    .label = Личен
+    .label = Лични
     .accesskey = Л
 user-context-work =
-    .label = Служебен
+    .label = Служебни
     .accesskey = С
 user-context-banking =
     .label = Банкиране
@@ -19,9 +19,9 @@ user-context-shopping =
     .label = Пазаруване
     .accesskey = п
 user-context-personal2 =
-    .label = Личен
+    .label = Лични
 user-context-work2 =
-    .label = Служебен
+    .label = Служебни
 user-context-banking2 =
     .label = Банкиране
 user-context-shopping2 =
@@ -34,12 +34,16 @@ user-context-manage-containers =
     .accesskey = з
 user-context-manage-containers2 =
     .label = Управление на изолатори
+user-context-new-tab2-panel-item = Нов раздел
+user-context-add-container2-panel-item = Добавяне на нов контейнер
 user-context-manage-containers2-panel-item = Управление на изолатори
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = Синьо
+user-context-color-cyan =
+    .label = Синьозелено
 user-context-color-green =
     .label = Зелено
 user-context-color-yellow =
@@ -52,6 +56,10 @@ user-context-color-pink =
     .label = Розово
 user-context-color-purple =
     .label = Лилаво
+user-context-color-violet =
+    .label = Виолетов
+user-context-color-gray =
+    .label = Сив
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.
