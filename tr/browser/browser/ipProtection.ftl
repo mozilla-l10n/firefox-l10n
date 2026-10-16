@@ -334,6 +334,42 @@ ip-protection-site-rule-window =
     .title = Kural ekle
 ip-protection-edit-site-rule-window =
     .title = Kuralı düzenle
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Ekle
+    .buttonaccesskeyaccept = E
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Kaydet
+    .buttonaccesskeyaccept = K
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Bir site girip VPN durumunu seçin.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Web sitesi
+    .placeholder = örnek: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN durumu
+ip-protection-site-rule-status-on =
+    .label = Her zaman açık
+ip-protection-site-rule-status-off =
+    .label = Her zaman kapalı
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Geçerli bir web sitesi adresi yazın.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Bu site için zaten bir kural mevcut.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Kural oluşturulamadı. Lütfen yeniden deneyin.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = { $website } kuralı silinsin mi?
+ip-protection-delete-site-rule-cancel =
+    .label = Vazgeç
+ip-protection-delete-site-rule-confirm =
+    .label = Sil
+ip-protection-delete-all-site-rules-message = Tüm web sitesi kuralları silinsin mi?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Tüm kuralları sil
 
 ## IP Protection Bandwidth
 
