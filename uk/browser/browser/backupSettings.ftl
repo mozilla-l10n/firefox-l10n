@@ -177,6 +177,7 @@ change-backup-encryption-header = Змінити пароль резервног
 
 password-rules-header = Вимоги до пароля
 password-rules-length-description = Принаймні 8 символів
+password-rules-email-description2 = Не адреса електронної пошти
 password-rules-email-description = Не ваша адреса електронної пошти
 password-rules-disclaimer = Убезпечте себе – не використовуйте паролі повторно. Перегляньте інші поради щодо <a data-l10n-name="password-support-link">створення надійних паролів</a>.
 password-validity-has-email = Не може бути адресою електронної пошти
