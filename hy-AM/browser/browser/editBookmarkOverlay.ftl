@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Օգտագործեք պիտակներ՝ հասցեների տողից էջանիշները կազմակերպելու և որոնելու համար
 bookmark-overlay-keyword-caption-label-2 = Օգտագործեք մեկ բանալի բառ՝ էջանիշները հասցեի տողից անմիջապես բացելու համար
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Պահել
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Ավելացնել Էջանիշ
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Նոր էջանիշեր
+bookmark-properties-title-add-folder = Ավելացնել էջանիշերի թղթապանակ
+bookmark-properties-title-edit-bookmark = Խմբագրել Էջանիշը
+bookmark-properties-title-edit-folder = Խմբագրել էջանիշերի թղթապանակը
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Թղթապանակի անունը]
+bookmark-properties-default-name-folder = Նոր թղթապանակ
+bookmark-properties-default-name-bookmark = Նոր էջանիշ
