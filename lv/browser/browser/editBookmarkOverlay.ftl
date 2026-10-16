@@ -51,6 +51,7 @@ bookmark-properties-title-add-bookmark = Pievienot grāmatzīmi
 # Title used when bookmarking multiple tabs at once into a new folder.
 bookmark-properties-title-add-multiple-bookmarks = Jaunas grāmatzīmes
 bookmark-properties-title-add-folder = Pievienot grāmatzīmju mapi
+bookmark-properties-title-edit-bookmark = Labot grāmatzīmi
 bookmark-properties-title-edit-folder = Labot grāmatzīmju mapi
 
 ## Default names for newly created bookmarks and folders.
