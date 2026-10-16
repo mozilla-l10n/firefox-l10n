@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = 태그를 사용하여 주소 표시줄에서 북마크를 구성하고 검색할 수 있습니다
 bookmark-overlay-keyword-caption-label-2 = 단일 키워드를 사용하여 주소 표시줄에서 직접 북마크를 열 수 있습니다
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = 저장
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = 북마크 추가
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = 새 북마크
+bookmark-properties-title-add-folder = 북마크 폴더 추가
+bookmark-properties-title-edit-bookmark = 북마크 편집
+bookmark-properties-title-edit-folder = 북마크 폴더 편집
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [폴더 이름]
+bookmark-properties-default-name-folder = 새 폴더
+bookmark-properties-default-name-bookmark = 새 북마크
