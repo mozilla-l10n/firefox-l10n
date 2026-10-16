@@ -34,6 +34,10 @@ aiwindow-input-cta-stop-button =
     .aria-label = Apturēt atbildes izveidošanu
     .title = Apturēt atbildi
 
+## Smartbar
+
+smartbar-placeholder-hint-4 = Meklēt tīmeklī…
+
 ## Mentions
 
 smartbar-mentions-list-no-results-label = Nekas netika atrasts

@@ -7,3 +7,6 @@
 
 preonboarding-primary-cta = Apstiprināt un turpināt
 preonboarding-primary-cta-v2 = Turpināt
+# Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
+preonboarding-manage-and-read-header = Pārvaldīt datu vākšanas iestatījumus lasīt mūsu izmantošanas noteikumus un privātuma paziņojumu
+preonboarding-manage-and-read-header-v2 = Lasīt izmantošanas noteikumus un privātuma paziņojumu. Pārvaldīt papildu iestatījumus.

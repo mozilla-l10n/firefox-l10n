@@ -35,6 +35,8 @@ home-custom-homepage-address-button =
 
 ## Firefox Home content
 
+home-prefs-search-header2 =
+    .label = Meklēt
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Finanses
@@ -252,6 +254,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = Meklēšanas iznākums
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = Meklēt zīmes vai uzņēmumus, ko pievienot savam vērošanas sarakstam
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -910,6 +915,9 @@ newtab-crossword-widget-open-menu-button =
 ##
 
 newtab-sports-widget-menu-learn-more = Uzzināt vairāk
+newtab-sports-widget-search-country =
+    .aria-label = Meklēt valsti
+    .placeholder = Meklēt valsti
 newtab-sports-widget-results = Iznākums
 
 ## World Cup wallpaper OMC messages
@@ -930,6 +938,10 @@ newtab-nova-customization-callout-primary-button =
 
 ## Strings for the Clock widget
 
+newtab-clock-widget-search-location-input =
+    .aria-label = Meklēt pilsētu
+    .label = Atrašanās vieta
+    .placeholder = Meklēt pilsētu
 # "Nickname (optional)" refers to a custom, user-defined label for a saved location
 # (e.g., "Home", "Office", or "School") to make it easier to recognize.
 # Not to be translated as a legal name, username, or alias used for identity verification.

@@ -103,6 +103,16 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN šai vietnei ir 
 ## IP Protection Settings
 
 ip-protection-learn-more = Uzzināt vairāk
+# Variables:
+#   $count (number) - The number of sites saved as VPN exclusions.
+ip-protection-site-exceptions-all-sites-button =
+    .description =
+        { $count ->
+            [zero] { $count } tīmekļvietņu
+            [one] { $count } tīmekļvietne
+           *[other] { $count } tīmekļvietnes
+        }
+    .label = Pārvaldīt tīmekļvietņu iestatījumus
 ip-protection-site-rules-header-1 =
     .heading = Pārvaldīt VPN kārtulas
 ip-protection-site-rules-button-1 =
@@ -138,6 +148,8 @@ ip-protection-site-rules-button =
 
 ## IP Protection dialogs
 
+ip-protection-exceptions-dialog-window =
+    .title = Pārvaldīt tīmekļvietņu iestatījumus
 ip-protection-site-rule-window =
     .title = Iestatīt kārtulu
 ip-protection-edit-site-rule-window =

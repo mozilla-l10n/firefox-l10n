@@ -5,6 +5,7 @@
 
 ## Added shortcuts:
 
+customkeys-search = Meklēt:
 customkeys-reset-all-confirm = Vai  tiešām atiestatīt visus īsinājumtaustiņus uz noklusējumu?
 customkeys-view-add-split-view = Pievienot sadalīto skatu
 customkeys-dev-accessibility = Piekļūstamība
@@ -13,4 +14,8 @@ customkeys-shortcut-unassigned =
 
 ## Sidebar
 
+# Search is a verb, as in "search through shortcuts".
+customkeys-search-input =
+    .aria-label = Meklēšanas saīsnes
+    .placeholder = Meklēšanas saīsnes
 customkeys-support-link-text = Uzzināt vairāk

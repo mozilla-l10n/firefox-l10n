@@ -16,8 +16,8 @@ cfr-doorhanger-extension-cancel-button = Ne tagad
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Pievienot
     .accesskey = P
-cfr-doorhanger-extension-manage-settings-button = Parvaldit ieteikumu iestatījumus
-    .accesskey = m
+cfr-doorhanger-extension-manage-settings-button = Pārvaldīt ieteikumu iestatījumus
+    .accesskey = P
 cfr-doorhanger-extension-never-show-recommendation = Neuzrādīt man šo ieteikumu
     .accesskey = N
 cfr-doorhanger-extension-learn-more-link = Uzzināt vairāk
@@ -230,7 +230,7 @@ launch-on-login-infobar-reject-button = Ne tagad
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>Atvērt { -brand-short-name } katru reizi, kad pārstartējat datoru?</strong> Lai pārvaldītu startēšanas preferences, iestatījumos meklējiet “startup”.
+launch-on-login-infobar-final-message = <strong>Atvērt { -brand-short-name } katru reizi, pēc datora pārsāknēšanas?</strong> Lai pārvaldītu palaišanas iestatījumus, iestatījumos jāmeklē “palaišana”.
 launch-on-login-infobar-final-reject-button = Nē, paldies
     .accesskey = N
 
