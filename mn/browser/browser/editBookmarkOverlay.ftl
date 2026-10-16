@@ -20,9 +20,13 @@ bookmark-overlay-tags-expander-hide =
 
 ## Bookmark properties dialog
 
+bookmark-properties-save-button =
+    .label = Хадгал
 
 ## Titles of the dialog used to add or edit bookmarks and folders.
 
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Бүх самбарын хаягийг нэм
 
 ## Default names for newly created bookmarks and folders.
 
