@@ -1779,6 +1779,10 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = 확장 기능을 설치할 수 있는 웹 사이트 선택
     .accesskey = E
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = 차단된 사이트 관리
+    .accesskey = M
 permissions-location2 =
     .label = 위치
 permissions-localhost2 =
