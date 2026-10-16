@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = v
 bookmark-overlay-tags-caption-label = Uzu etikedojn por organizi kaj serĉi legosignojn el la adresa strio
 bookmark-overlay-keyword-caption-label-2 = Uzi ŝlosilvorton por malfermi legosignojn rekte el la adresa strio
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Konservi
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Aldoni legosignon
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Novaj legosignoj
+bookmark-properties-title-add-folder = Aldoni legosignan dosierujon
+bookmark-properties-title-edit-bookmark = Modifi legosignon
+bookmark-properties-title-edit-folder = Modifi legosignan dosierujon
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [nomo de dosierujo]
+bookmark-properties-default-name-folder = Nova dosierujo
+bookmark-properties-default-name-bookmark = Nova legosigno
