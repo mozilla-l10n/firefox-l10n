@@ -22,3 +22,5 @@ view-source-context-go-to-line =
     .accesskey = L
 view-source-context-wrap-long-lines =
     .label = 自動換行
+view-source-context-highlight-syntax =
+    .label = 語法強調
