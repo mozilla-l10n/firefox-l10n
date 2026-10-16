@@ -39,3 +39,24 @@ bookmark-overlay-keyword-2 =
     .accesskey = K
 bookmark-overlay-tags-caption-label = Gunakan tag untuk mengelola dan mencari markah dari bilah alamat
 bookmark-overlay-keyword-caption-label-2 = Gunakan satu kata kunci untuk membuka markah langsung dari bilah alamat
+
+## Bookmark properties dialog
+
+bookmark-properties-save-button =
+    .label = Simpan
+
+## Titles of the dialog used to add or edit bookmarks and folders.
+
+bookmark-properties-title-add-bookmark = Tambah markah
+# Title used when bookmarking multiple tabs at once into a new folder.
+bookmark-properties-title-add-multiple-bookmarks = Buat Markah Semua Tab
+bookmark-properties-title-add-folder = Tambahkan folder markah
+bookmark-properties-title-edit-bookmark = Edit markah
+bookmark-properties-title-edit-folder = Edit folder markah
+
+## Default names for newly created bookmarks and folders.
+
+# Default name of the folder created when bookmarking all tabs.
+bookmark-properties-default-name-all-tabs-folder = [Nama Folder]
+bookmark-properties-default-name-folder = Folder Baru
+bookmark-properties-default-name-bookmark = Markah Baru
