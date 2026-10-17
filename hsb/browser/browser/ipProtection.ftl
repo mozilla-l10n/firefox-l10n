@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Předstajamy VPN, nětko direktnje we 
 ipprotection-feature-introduction-title-1 = Wupruwujće zatwarjeny VPN { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał.
 ipprotection-feature-introduction-title-privacy = Dalšu runinu priwatnosće přidać
+ipprotection-feature-introduction-title-privacy-1 = Přidajće dalšu runinu priwatnosće ze zatwarjenym VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z wjacorych stejnišćow, hdźež chceće priwatnišo přehladować.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z wjacorych stejnišćow, hdźež chceće priwatnišo přehladować.
 ipprotection-feature-introduction-link-text-privacy-3 = Wubjerće z wjacorych stejnišćow, zo byšće schował, hdźež přehladujeće, zo byšće <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> dóstał.
@@ -145,6 +146,12 @@ site-rules-status-heading = Waše prawidło
 site-rules-description-exclusion = VPN je za tute sydło znjemóžnjeny
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN je za tute sydło zmóžnjeny
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = VPN za { $website } přeco zmóžnić?
+    .message = Aktualizujće swoje prawidła w nastajenjach kóždy čas.
 ipprotection-settings-link =
     .label = Nastajenja
 
