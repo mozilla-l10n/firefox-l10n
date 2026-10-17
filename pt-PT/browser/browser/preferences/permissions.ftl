@@ -170,6 +170,7 @@ permissions-site-xr-disable-desc = Isto irá impedir que quaisquer sites não li
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Definições - Sites Bloqueados para Ligações de Aplicações
+permissions-site-app-links-desc = Estes sites estão impedidos de pedir a abertura de ligações para aplicações, como o e-mail (mailto:). Remova um site para permitir que volte a solicitar essa ação.
 
 ## Site Permissions - Camera
 
