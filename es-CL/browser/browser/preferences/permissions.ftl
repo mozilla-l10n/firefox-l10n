@@ -170,6 +170,7 @@ permissions-site-xr-disable-desc = Esto evitará que los sitios web no listados 
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Ajustes - Sitios bloqueados para enlaces de aplicaciones
+permissions-site-app-links-desc = Estos sitios tienen bloqueado el acceso a enlaces de aplicaciones, como los correos electrónicos (mailto:). Elimina un sitio para permitirle volver a solicitarlo.
 
 ## Site Permissions - Camera
 

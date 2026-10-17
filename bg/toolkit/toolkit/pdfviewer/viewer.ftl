@@ -362,6 +362,7 @@ pdfjs-editor-colorpicker-red =
 # Modal header positioned above a text box where users can add the alt text.
 pdfjs-editor-new-alt-text-dialog-add-label = Добавяне на заместващ текст (alt text, описание на изображението)
 pdfjs-editor-new-alt-text-disclaimer-learn-more-url = Научете повече
+pdfjs-editor-new-alt-text-create-automatically-button-label = Автоматично създаване на заместващ текст
 pdfjs-editor-new-alt-text-not-now-button = Не сега
 # This is a button that users can click to edit the alt text they have already added.
 pdfjs-editor-new-alt-text-added-button =
@@ -389,6 +390,16 @@ pdfjs-editor-add-signature-description-label = Описание (заместв�
 pdfjs-editor-add-signature-description-input =
     .title = Описание (заместващ текст)
 pdfjs-editor-add-signature-image-upload-error-description = Проверете мрежовата си връзка или опитайте с друго изображение.
+
+##  Edit a comment dialog
+
+# No existing comment
+pdfjs-editor-edit-comment-dialog-title-when-adding = Добавяне на коментар
+
+## Edit a comment button in the editor toolbar
+
+pdfjs-editor-add-comment-button =
+    .title = Добавяне на коментар
 
 ## The view manager is a sidebar displaying different views:
 ##  - thumbnails;

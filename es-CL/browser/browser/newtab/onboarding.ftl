@@ -402,9 +402,13 @@ tab-groups-onboarding-create-group-title-4 = Encuentra tus grupos de pestañas e
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Encuentra tus grupos de pestañas en el menú Listar todas las pestañas, en cualquier momento.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Encuentra tus grupos buscándolos en la barra de direcciones.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Cuando cierres un grupo de pestañas, puedes volver a abrirlo desde el menú "Buscar y administrar pestañas" en cualquier momento.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Cuando cierres un grupo de pestañas, vuelve a abrirlo desde el menú Listar todas las pestañas, en cualquier momento.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Encuentra tus grupos cerrados buscándolos en la barra de direcciones.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Reabre tus grupos de pestañas desde el menú "Buscar y administrar pestañas" cuando quieras.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Vuelve a abrir tus grupos de pestañas desde el menú Listar todas las pestañas, en cualquier momento.
 tab-groups-onboarding-dismiss = Aceptar
