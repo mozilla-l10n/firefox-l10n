@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = 上次瀏覽
 sidebar-history-sort-option-most-visited =
     .label = 最常瀏覽
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = 少了點東西嗎？取得其他瀏覽器上的瀏覽紀錄。
+sidebar-history-import-promo-button =
+    .label = 匯入 { -brand-short-name }
 
 ## Labels for sidebar search
 

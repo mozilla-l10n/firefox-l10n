@@ -470,6 +470,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = 開啟每日一圖選單
     .title = 開啟每日一圖選單
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = 將此照片設為背景圖
+    .label = 設為背景圖
+    .title = 設為背景圖
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -478,6 +485,10 @@ newtab-picture-set-wallpaper =
     .title = 設為背景圖
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 管理背景圖
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = 隱藏此照片
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = 顯示照片
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = 隱藏今天的照片
@@ -485,6 +496,10 @@ newtab-picture-menu-hide-photo = 隱藏今天的照片
 newtab-picture-menu-show-photo = 顯示今天的照片
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = 更多資訊
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = 顯示照片
+    .title = 顯示照片
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = 顯示今天的照片
@@ -549,6 +564,14 @@ newtab-horoscopes-menu-learn-more = 更多資訊
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = 旅遊
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = 開啟旅遊選單
+    .title = 開啟旅遊選單
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = 更多資訊
 
@@ -860,6 +883,10 @@ newtab-custom-widget-search-toggle =
     .label = 搜尋
 newtab-custom-widget-horoscopes-toggle =
     .label = 星座
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = 旅遊
 newtab-custom-widget-section-title = 小工具
 newtab-custom-widget-section-toggle =
     .label = 小工具

@@ -116,6 +116,14 @@ sanitize-button-ok2 =
     .label = 清除
 sanitize-button-ok-on-shutdown =
     .label = 儲存變更
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = 刪除
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = 關閉
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

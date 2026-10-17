@@ -141,6 +141,10 @@ about-glean-store-submitted-pings-select-label = Ping：
 about-glean-store-submitted-pings =
     .description = 允許將已送出的 Ping 儲存在記憶體中
     .label = 儲存已送出的 Ping
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = 用戶端資訊
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Ping 資訊
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 
