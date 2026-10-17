@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = 向您介紹直接內建於瀏覽器�
 ipprotection-feature-introduction-title-1 = 試用 { -brand-product-name } 的內建 VPN
 ipprotection-feature-introduction-link-text-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料。
 ipprotection-feature-introduction-title-privacy = 加上一層隱私保護
+ipprotection-feature-introduction-title-privacy-1 = 透過內建 VPN 功能，為隱私再添一層防護
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 可幫助保護您的上網安全。從多個連線位置任選，讓您上網更有隱私。
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的內建 VPN</a> 可幫助保護您的上網安全。從多個連線位置任選，讓您上網更有隱私。
 ipprotection-feature-introduction-link-text-privacy-3 = 從多個地點任選，隱藏您的實際上網位置，讓<a data-l10n-name="learn-more-vpn">上網更有隱私</a>。
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = 知道了！
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = 設定內建 VPN 規則，然後繼續上網
 ipprotection-site-inclusions-callout-title-lapsed-users = 試用內建 VPN 功能，現在可針對特定網站單獨開啟
+ipprotection-site-inclusions-callout-description-1 = 針對需加強隱私保護，或瀏覽特定地區內容時開啟 VPN，不需要時則關閉。
 ipprotection-site-inclusions-callout-description = 針對需加強隱私保護，或瀏覽特定地區內容時開啟，不需要時則關閉。
 ipprotection-site-inclusions-callout-primary-button = 設定規則
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 現在不要
@@ -144,6 +146,12 @@ site-rules-status-heading = 您的規則
 site-rules-description-exclusion = 已對此網站關閉 VPN 連線
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = 已對此網站開啟 VPN 連線
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = 要總是為 { $website } 開啟 VPN 嗎？
+    .message = 隨時到設定中更新規則。
 ipprotection-settings-link =
     .label = 設定
 

@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = 封鎖新網站使用您虛擬裝置的請求
 permissions-site-xr-disable-desc = 將防止上列以外的網站請求使用您的虛擬實境裝置。封鎖虛擬實境裝置的使用權限可能會影響某些網站的功能。
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = 設定 - 封鎖網站開啟應用程式鏈結
+permissions-site-app-links-desc = 已封鎖下列網站向您詢問開啟應用程式鏈結，例如電子郵件鏈結（mailto:）等。移除網站後，即可允許該網站再次詢問。
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

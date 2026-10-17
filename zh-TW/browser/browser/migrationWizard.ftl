@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } 沒有權限存取此�
 migration-no-permissions-instructions = 若要持續匯入其他瀏覽器中的資料，請授權 { -brand-short-name } 存取該瀏覽器的設定檔資料夾。
 migration-no-permissions-instructions-step1 = 選擇「繼續」
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] 在檔案瀏覽器中選擇「開啟」
+       *[other] 在檔案瀏覽器中瀏覽到 <code>{ $permissionsPath }</code>，然後點擊「選擇」
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:
