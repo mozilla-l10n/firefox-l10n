@@ -21,6 +21,7 @@ confirmation-hint-send-to-device = فشناڌه وابی!
 confirmation-hint-firefox-relay-mask-created = بؽڌار کردن نۊ وورکل وابی!
 confirmation-hint-firefox-relay-mask-reused = بؽڌار کردن هیم سکویی ز نۊ و کار گرؽڌه وابی!
 confirmation-hint-screenshot-copied = شؽوات ز بلگه لف گیری وابی!
+confirmation-hint-tab-group-saved = بونکۊ بلگه زفت وابی
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

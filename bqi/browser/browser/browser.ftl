@@ -1310,6 +1310,22 @@ reset-pbm-toolbar-button2 =
     .label = روفتن نشست سیخومی
     .tooltiptext = روفتن نشست سیخومی
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-panel-heading = پوی داده یل گشتن پاک بۊن؟
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = پسند…
+fire-button-panel-cancel-button =
+    .label = لقو
+    .accesskey = ل
+fire-button-panel-confirm-button =
+    .label = پاک کردن پوی
+    .accesskey = پ
+fire-button-panel-complete = داده یل گشتن پاک وابین
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ز گۊشیڌن دووارته ای بلگه و هالت خوتکار جلاوگری کرد.

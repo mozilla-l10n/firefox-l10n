@@ -187,6 +187,12 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = دؽوۉداری سامووا وبگه
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = نترست قانووݩ ن پاک کونه
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = نترست قانووا ن پاک کونه
+ip-protection-delete-site-rule-retry =
+    .label = قپ ریت دووارته
 
 ## IP Protection Bandwidth
 

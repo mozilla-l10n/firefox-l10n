@@ -126,6 +126,11 @@ link-preview-generation-retry = قپ ریت دووارته
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = لینگ پؽش نشووݩ سامووا
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = پیتینیڌن
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = نیشتن دووسمندیا قلوه وا هیاری هۊش مسنۊعی؟
 # Header for the key points section
