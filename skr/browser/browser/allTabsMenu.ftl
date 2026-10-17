@@ -9,6 +9,10 @@ all-tabs-menu-new-user-context =
     .label = نیو کنٹینر ٹیب
 all-tabs-menu-hidden-tabs =
     .label = لُکے ہوئے ٹیبز
+all-tabs-menu-close-duplicate-tabs =
+    .label = واڳی ٹیباں بند کرو
+all-tabs-menu-view-all-tabs =
+    .label = سارے ٹیبز ویکھو
 all-tabs-menu-close-all-duplicate-tabs =
     .label = ساریاں واڳی ٹیباں بند کرو
 all-tabs-menu-synced-tabs =
@@ -20,3 +24,9 @@ all-tabs-menu-current-window-header = حالیہ ونڈو
 # This opens the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-show-all =
     .label = سارے ݙکھاؤ
+# This is header for the sub view listing _all_ open and saved tab groups.
+all-tabs-menu-tab-groups-sub-view =
+    .title = ٹیب گروپاں
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = سارے ٹیبز لبھو

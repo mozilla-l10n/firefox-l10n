@@ -5,6 +5,8 @@
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } نجی براؤزنگ
+# This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
+browser-shortcut-description = تیز تے نجی ویب براؤزنگ
 # This is the initial default title for the browser window.
 # It gets updated based on loaded tabs or private browsing state.
 browser-main-window-default-title = { -brand-full-name }
@@ -15,6 +17,52 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — نجی براؤزنگ
        *[other] { -brand-full-name } نجی براؤزنگ
     }
+# This is only used on macOS; on other OSes we use the full private window
+# title (so including the brand name) as a suffix
+browser-main-private-suffix-for-content = نجی براؤزنگ
+popups-infobar-dont-show-message2 =
+    .label = جدوں پاپ اپس یا تھرڈ پارٹی ری ڈائریکٹس بلاک ہوون تاں ایہہ پیغام نہ وکھاؤ
+    .accesskey = D
+edit-popup-settings2 =
+    .label = پاپ اپ تے تھرڈ پارٹی ری ڈائریکٹ سیٹنگز دا انتظام کرو…
+    .accesskey = M
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] سائٹ دی معلومات ویکھو
+            [1] سائٹ دی معلومات ویکھو (1 ٹریکر بلاک کیتا ڳیا)
+            [one] سائٹ دی معلومات ویکھو (1 ٹریکر بلاک کیتا ڳیا)
+           *[other] سائٹ دی معلومات ویکھو ({ $count } ٹریکر بلاک کیتے ڳئے)
+        }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } لنک
+           *[other] { $count } لنکس
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, Messages تے ٻیا…
+    .accesskey = M
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Messages, Mail تے ٻیا…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = شیئر کرو…
+    .accesskey = h
 urlbar-identity-button =
     .aria-label = سائٹ دیاں معلومات ݙیکھو
 
@@ -26,6 +74,8 @@ urlbar-web-notification-anchor =
     .tooltiptext = تبدیل کرو جو تساں ایں سائٹ کنوں اطلاع وصول کرݨ چاہندے او یا کائنا
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI پینل کھولو
+urlbar-serial-notification-anchor =
+    .tooltiptext = سیریل پینل کھولو
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM سافٹ ویئر جو استعمال کوں منظم کرو
 urlbar-web-authn-anchor =
@@ -38,6 +88,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = پیغام پینل کھولو
 urlbar-geolocation-notification-anchor =
     .tooltiptext = محل وقوع درخواست پینل کھولو
+urlbar-local-network-notification-anchor =
+    .tooltiptext = ایس سائٹ نال اپݨے لوکل نیٹ ورک تک رسائی دا انتظام کرو
 urlbar-xr-notification-anchor =
     .tooltiptext = مجازی حقیقت دا اجازتی پینل کھولو
 urlbar-storage-access-anchor =
@@ -72,6 +124,30 @@ urlbar-result-menu-remove-from-history2 = تاریخ کنوں مٹاؤ
     .accesskey = R
 urlbar-result-menu-tip-get-help2 = مدد گھنو
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion2 = ایہہ تجویز برخاست کرو
+    .accesskey = D
+urlbar-result-menu-remove-top-site = ایہہ ٹاپ سائٹ ہٹاؤ
+    .accesskey = T
+urlbar-result-menu-manage-firefox-suggest2 = { -firefox-suggest-brand-name } دا انتظام کرو
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location2 = غلط مقام دی رپورٹ کرو
+urlbar-result-menu-show-less-frequently2 = گھٹ وار وکھاؤ
+urlbar-result-menu-dont-show-weather-suggestions2 = موسم دیاں تجویزاں نہ وکھاؤ
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = ایہہ تجویز برخاست کرو
+    .accesskey = i
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = تاریخ وچوں ہٹاؤ
+    .accesskey = e
 urlbar-result-menu-learn-more =
     .label = ٻیا سِکھو
     .accesskey = L
@@ -81,6 +157,32 @@ urlbar-result-menu-remove-from-history =
 urlbar-result-menu-tip-get-help =
     .label = مدد گھنو
     .accesskey = h
+urlbar-result-menu-dismiss-suggestion =
+    .label = ایہہ تجویز برخاست کرو
+    .accesskey = D
+urlbar-result-menu-manage-firefox-suggest =
+    .label = { -firefox-suggest-brand-name } دا انتظام کرو
+    .accesskey = M
+# Some urlbar suggestions show the user's approximate location as automatically
+# detected by Firefox (e.g., weather suggestions), and this menu item lets the
+# user tell Firefox that the location is not accurate. Typically the location
+# will be a city name, or a city name combined with the name of its parent
+# administrative division (e.g., a province, prefecture, or state).
+urlbar-result-menu-report-inaccurate-location =
+    .label = غلط مقام دی رپورٹ کرو
+urlbar-result-menu-show-less-frequently =
+    .label = گھٹ وار وکھاؤ
+urlbar-result-menu-dont-show-weather-suggestions =
+    .label = موسم دیاں تجویزاں نہ وکھاؤ
+# Used for Split Button.
+urlbar-splitbutton-dropmarker =
+    .title = مینیو کھولو
+# A message shown in the urlbar when the user submits feedback on a suggestion
+# (e.g., it shows an inaccurate location, it's shown too often, etc.).
+urlbar-feedback-acknowledgment = تہاݙے تاثرات دا شکریہ۔
+# A message shown in the urlbar when the user dismisses weather suggestions.
+# Weather suggestions won't be shown at all anymore.
+urlbar-dismissal-acknowledgment-weather = تہاݙے تاثرات دا شکریہ۔ تسیں ہݨ موسم دیاں تجویزاں نئیں ویکھسو۔
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -104,6 +206,10 @@ urlbar-search-mode-actions = عمل
 
 urlbar-geolocation-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے لوکیشن دی معلومات کوں بلاک کیتا ہویا ہے
+urlbar-localhost-blocked =
+    .tooltiptext = تسیں ایس ویب سائٹ کیتے مقامی ڈیوائس کنکشن بلاک کر ݙتے ہن۔
+urlbar-local-network-blocked =
+    .tooltiptext = تسیں ایس ویب سائٹ کیتے لوکل نیٹ ورک کنکشن بلاک کر ݙتے ہن۔
 urlbar-xr-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے ورچوئل رئیلٹی تک رسائی بلاک کر ݙتی ہے۔
 urlbar-web-notifications-blocked =
@@ -116,12 +222,16 @@ urlbar-screen-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کوں سکرین شیئر کرݨ  بلاک کیتا ہے۔
 urlbar-persistent-storage-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے مسلسل سٹوریج کوں بلاک کیتا ہویا ہے۔
+urlbar-popup-blocked2 =
+    .tooltiptext = تسیں ایس ویب سائٹ کیتے پاپ اپس تے تھرڈ پارٹی ری ڈائریکٹس بلاک کر ݙتے ہن۔
 urlbar-autoplay-media-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے خودکار چلݨ والی میڈیا بمع آواز بلاک کر ݙتی ہے۔
 urlbar-canvas-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے کینوس کوائف ماحصل بلاک کر ݙتا ہے۔
 urlbar-midi-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے MIDI تک رسائی بلاک کر ݙتی ہے۔
+urlbar-serial-blocked =
+    .tooltiptext = تسیں ایس ویب سائٹ کیتے سیریل پورٹ تک رسائی بلاک کر ݙتی اے۔
 urlbar-install-blocked =
     .tooltiptext = تساں ایں ویب سائٹ کیتے ایڈ آن کوں انسٹالیشن کوں بلاک کیتا ہویا ہے۔
 # Variables
@@ -132,6 +242,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ایہ ورقہ بک مارک کرو ({ $shortcut })
+urlbar-split-view-button =
+    .aria-label = اسپلٹ ویو
+    .tooltiptext = اسپلٹ ویو
 
 ## Searchbar context menu
 
@@ -214,26 +327,61 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = ایڈ آنز ݙیکھو
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-addons3 = ایکسٹینشنز، تھیمز، ایڈ آنز
+# Opens preferences page at AI controls
+quickactions-manageai = AI کنٹرولز دا انتظام کرو
+quickactions-cmd-manageai = ai بند کرو، ai آف کرو، ai دا انتظام کرو
 # Opens the bookmarks library window
 quickactions-bookmarks2 = نشانیاں منظم کرو
 quickactions-cmd-bookmarks = نشانیاں
+# Opens a SUMO article explaining how to clear history
+quickactions-clearrecenthistory = حالیہ تاریخ صاف کرو
+quickactions-cmd-clearrecenthistory2 = کوکیز، کوکیز صاف کرو، کیش، کیش صاف کرو، براؤزنگ ڈیٹا، براؤزنگ ڈیٹا صاف کرو، تاریخ، حالیہ تاریخ صاف کرو
 # Opens about:downloads page
 quickactions-downloads2 = ڈاؤن لوڈز ݙیکھو
 quickactions-cmd-downloads = ڈاؤن لوڈز
 # Opens about:addons page in the extensions section
 quickactions-extensions = ایکسٹینشنز دا بندوبست کرو
+quickactions-cmd-extensions2 = ایکسٹینشنز، ایڈ آنز
 # Opens Firefox View
 quickactions-firefoxview = { -firefoxview-brand-name } کھولو
+# English is using "view" and "open view", since the feature name is
+# "Firefox View". If you have translated the name in your language, you
+# should use a word related to the existing translation.
+quickactions-cmd-firefoxview = { -firefoxview-brand-name } کھولو، { -firefoxview-brand-name }، ویو کھولو، ویو
+# Opens SUMO home page
+quickactions-help = { -brand-product-name } مدد
+quickactions-cmd-help = مدد، سپورٹ
 # Opens the devtools web inspector
 quickactions-inspector2 = ڈویلپر ٹولز کھولو
+quickactions-cmd-inspector2 = انسپیکٹر، ڈیو ٹولز
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = رنگ چُݨو
+quickactions-cmd-colorpicker = کلر پکر، آئی ڈراپر، رنگ چُݨو
+# Opens Firefox Library
+quickactions-cmd-library = لائبریری
+quickactions-library = لائبریری کھولو
 # Opens about:logins
 quickactions-logins2 = پاس ورڈز دا بندوبست کرو
 quickactions-cmd-logins = لاگ انز، پاس ورڈز
+# Mutes all tabs playing audio
+quickactions-mute = آڈیو چلاوݨ آلے ٹیبز خاموش کرو
+# List of words that would trigger the "mute tabs" action from the address bar.
+# Replace with idiomatic expressions in your language to silence something or
+# someone.
+quickactions-cmd-mute = میوٹ، چپ، ششش
 # Opens the print dialog
 quickactions-print2 = ورقہ پرنٹ کرو
 quickactions-cmd-print = چھاپو
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = ورقہ پی ڈی ایف دے طور تے محفوظ کرو
+quickactions-cmd-savepdf2 = pdf، صفحہ محفوظ کرو
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = PDF ایڈیٹر کھولو
+quickactions-cmd-editpdf = پی ڈی ایف
 # Opens a new private browsing window
 quickactions-private2 = نجی ونڈو کھولو
 quickactions-cmd-private = نجی براؤزنگ
@@ -245,21 +393,36 @@ quickactions-restart = نویں سروں چلاؤ { -brand-short-name }
 quickactions-cmd-restart = نویں سروں چلاؤ
 # Opens the screenshot tool
 quickactions-screenshot3 = سکرین شاٹ گھنو
+quickactions-cmd-screenshot2 = اسکرین شاٹ، اسکرین شاٹ گھنو
 # Opens about:translations
 quickactions-translate = ترجمہ کرو
 quickactions-cmd-translate = ترجمہ کرو
 # Opens about:preferences
 quickactions-settings2 = ترتیباں دا بندوبست کرو
+# "manage" should match the corresponding command, which is “Manage settings” in English.
+quickactions-cmd-settings2 = سیٹنگز، ترجیحات، آپشنز، مینج کرو
 # Opens about:addons page in the themes section
 quickactions-themes = تھیمز دا بندوبست کرو
+# In English we provide multiple spellings for "add-ons". If that's not
+# applicable to your language, only use the correct spelling (don't repeat the
+# same word).
+quickactions-cmd-themes2 = تھیمز، ایڈ آنز
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = اپ ڈیٹ { -brand-short-name }
 quickactions-cmd-update = اپ ڈیٹ
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = ورقے دا ماخذ ݙیکھو
+quickactions-cmd-viewsource2 = سورس ݙیکھو، سورس، پیج دا سورس
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = { -firefoxlabs-brand-name } کھولو
+quickactions-cmd-labs = لیبز، تجربہ
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = کوئیک ایکشن بارے ودھیک ڄاݨو
+# Will be shown to users the first configurable number of times
+# they experience actions giving them instructions on how to
+# select the action shown by pressing the tab key.
+press-tab-label = منتخب کرݨ کیتے ٹیب دباؤ:
 
 ## Bookmark Panel
 
@@ -280,6 +443,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = ہتھیکڑا کریندے ویلھے ایڈیٹر ݙکھاؤ
     .accesskey = S
+bookmark-panel-save-button2 =
+    .label = محفوظ
+    .accesskey = م
 bookmark-panel-save-button =
     .label = محفوظ
 # Width of the bookmark panel.
@@ -328,8 +494,14 @@ identity-clear-site-data =
     .label = کوکیز تے سائٹ دے کواِئف صاف کرو…
 identity-connection-not-secure-security-view = تساں ایں سائٹ دے نال غیر محفوظ طریقے نال جڑے ہوئے او۔
 identity-connection-verified = تساں ایں سائٹ دے نال محفوظ طریقے نال جڑے ہوئے او۔
+identity-ev-owner-label2 = سرٹیفکیٹ جاری کیتا ڳیا
+identity-verifier-label2 = تصدیق کیتا ڳیا
 identity-ev-owner-label = تصدیق نانواں جاری کیتا ڳیا:
+identity-verifier-label = توثیق کردہ برائے:
+# "qualified" here refers to the qualified website authentication certificate presented by the site.
+identity-etsi = ضابطہ (EU) 2024/1183 وچ بیان کردہ مطابق اہل۔
 identity-description-custom-root2 = Mozilla ایں سرٹیفکیٹ جاری کنندہ کوں نہیں سنڄاݨدا۔ تھی سکتا ہے اینکوں تہاݙے آپریٹنگ سسٹم کنوں یا کہیں منتظم دے ذریعے شامل کیتا ڳیا ہو۔
+identity-cert-exception-overridden = تساں ایں سائٹ کیتے حفاظتی استثناء شامل کیتا ہے۔
 identity-remove-cert-exception =
     .label = استثنا ہٹاؤ
     .accesskey = R
@@ -342,6 +514,8 @@ identity-description-passive-loaded-insecure2 = ایں ویب سائٹ وچ مو
 identity-description-passive-loaded-mixed2 = بھانویں جو { -brand-short-name } کجھ مواد کوں بلاک کر ݙتا ہے، پر ورقے تے ہݨ وی اینجھا مواد موجود ہے جیڑھا محفوظ کائنی (جیویں تصویراں)۔
 identity-description-active-loaded = ایں ویب سائٹ وِچ اینجھا مواد شامل ہے جیڑھا جو قابل بھروسا کائنی (جیویں جو لکھتاں) تے ایندے نال تہاݙا کنکشن قابل بھروسا کائنی۔
 identity-description-active-loaded-insecure = او معلومات جیڑھیاں تساں ایں سائٹ تے سانجھیاں کریندے ہو او ٻئے لوک ݙیکھ سڳسن (جیویں جو پاس ورڈز، تصویراں، کریڈٹ کارڈز، وغیرہ)۔
+identity-description-tls-key-logging-heading = تساݙا کنیکشن نجی نہ تھی سڳدا
+identity-description-tls-key-logging-message = کوئی ایپ یا سروس ایں سائٹ توں تساݙا انکرپٹڈ ٹریفک ݙیکھ سڳدی ہے۔
 identity-more-info-link-text =
     .label = ودھیک معلومات
 
@@ -355,6 +529,9 @@ browser-window-restore-down-button =
     .tooltiptext = تلے بحال کرو
 browser-window-close-button =
     .tooltiptext = بند کرو
+# Clicking this button closes the window and returns to the tab where it was opened from
+browser-window-return-to-opener =
+    .tooltiptext = واپس ون٘ڄو
 
 ## Bookmarks toolbar items
 
@@ -391,6 +568,11 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ایں سیشن کیتے شیئرنگ تحفظ کوں غیر فعال کرو
 
+## WebSerial "select a port" popup
+
+webserial-select-port-label = سیریل پورٹ منتخب کرو:
+webserial-no-ports-available = کوئی سیریل پورٹ دستیاب نئیں
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -400,6 +582,10 @@ urlbar-search-mode-indicator-close =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = ڳولو یا پتہ درج کرو
+# This placeholder is used when not in search mode and searching in the urlbar
+# is disabled via the keyword.enabled pref.
+urlbar-placeholder-keyword-disabled =
+    .placeholder = پتہ درج کرو
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -474,12 +660,15 @@ urlbar-result-action-search-in-private = نجی ونڈو وچ ڳولو
 urlbar-result-action-search-w-engine = { $engine } نال ڳولو
 urlbar-result-action-sponsored = سپانسر شدہ
 urlbar-result-action-switch-tab = ٹیب تے ون٘ڄو
+urlbar-result-action-move-tab-to-split-view = ٹیب کوں سپلٹ ویو وچ منتقل کرو
 urlbar-result-action-visit = دورہ
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.
 # Variables
 # $container (String): the name of the target container
 urlbar-result-action-switch-tab-with-container = <span> { $container } </span> ٹیب تے سوئچ کرو
+# Used when the target tab is in a tab group that doesn't have a label.
+urlbar-result-action-tab-group-unnamed = بے نام گروپ
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-clipboard = کلپ بورڈ توں ݙیکھو
 # Directs a user to press the Tab key to perform a search with the specified
@@ -504,15 +693,189 @@ urlbar-result-action-tabtosearch-web = { $engine } نال ایڈریس بار ک
 urlbar-result-action-tabtosearch-other-engine = ایڈریس بار کنوں براہ راست { $engine } ڳولو
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = نقل کرو
+# The string returned for an undefined calculator result such as when dividing by 0
+urlbar-result-action-undefined-calculator-result = غیر متعین
 # The sub title of an add-on suggestion in the urlbar.
 urlbar-result-addons-subtitle = { -brand-product-name } ایکسٹیشن
+# The sub title of a mdn suggestion in the urlbar.
+urlbar-result-mdn-subtitle = { -mdn-brand-name }
 # The sub title of a Yelp suggestion in the urlbar.
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
+# This string explaining that the suggestion is a recommendation.
+urlbar-result-suggestion-recommended = سفارش شدہ
+# The title of a weather suggestion in the urlbar. The temperature and unit
+# substring should be inside a <strong> tag. If the temperature and unit are not
+# adjacent in the localization, it's OK to include only the temperature in the
+# tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name of the city's region or country. Depending on
+#       the user's location in relation to the city, this may be the name or
+#       abbreviation of one of the city's administrative divisions like a
+#       province or state, or it may be the name of the city's country.
+urlbar-result-weather-title = <strong>{ $temperature }°{ $unit }</strong> { $city }، { $region } وچ
+# The title of a weather suggestion in the urlbar including a region and
+# country. The temperature and unit substring should be inside a <strong> tag.
+# If the temperature and unit are not adjacent in the localization, it's OK to
+# include only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+#   $region (String) - The name or abbreviation of one of the city's
+#       administrative divisions like a province or state.
+#   $country (String) - The name of the city's country.
+urlbar-result-weather-title-with-country = <strong>{ $temperature }°{ $unit }</strong> { $city }، { $region }، { $country } وچ
+# The title of a weather suggestion in the urlbar only including the city. The
+# temperature and unit substring should be inside a <strong> tag. If the
+# temperature and unit are not adjacent in the localization, it's OK to include
+# only the temperature in the tag.
+# Variables:
+#   $temperature (number) - The temperature value
+#   $unit (String) - The unit for the temperature, either "C" or "F"
+#   $city (String) - The name of the city the weather data is for
+urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</strong> { $city } وچ
+# Shows the name of the provider of weather data in a weather suggestion in the
+# urlbar.
+# Variables:
+#   $provider (String) - The name of the weather-data provider. It will be the
+#       name of a company, organization, or service.
+urlbar-result-weather-provider-sponsored = { $provider } · سپانسر شدہ
+# Used for asking AI assistant chat.
+urlbar-result-action-ai-chat = پچھو
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative = تساں آخری وار { $date } کوں وزٹ کیتا
+# This explanation is used when the last-visited date is a small number of days
+# in the past.
+# Variables:
+#   $daysAgo (number) - The number of days ago
+urlbar-result-explanation-last-visited-days =
+    { $daysAgo ->
+        [one] تساں آخری وار { $daysAgo } ݙینہہ پہلے وزٹ کیتا
+       *[other] تساں آخری وار { $daysAgo } ݙینہہ پہلے وزٹ کیتا
+    }
+# This explanation is used when the last-visited date is a small number of weeks
+# in the past.
+# Variables:
+#   $weeksAgo (number) - The number of weeks ago
+urlbar-result-explanation-last-visited-weeks =
+    { $weeksAgo ->
+        [one] تساں آخری وار { $weeksAgo } ہفتہ پہلے وزٹ کیتا
+       *[other] تساں آخری وار { $weeksAgo } ہفتے پہلے وزٹ کیتا
+    }
+# This explanation is used when the last-visited date is a small number of
+# months in the past.
+# Variables:
+#   $monthsAgo (number) - The number of months ago
+urlbar-result-explanation-last-visited-months =
+    { $monthsAgo ->
+        [one] تساں آخری وار { $monthsAgo } مہینہ پہلے وزٹ کیتا
+       *[other] تساں آخری وار { $monthsAgo } مہینے پہلے وزٹ کیتا
+    }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute = تساں { $date } کوں وزٹ کیتا
+# This explanation is used when the result is bookmarked. The date will be
+# formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-bookmarked = بک مارک کیتا ڳیا { $date }
+# This explanation is used when the last-visited date is formatted as one of the
+# following relative dates: "yesterday", "today"
+# Variables:
+#   $date (string) - A localized relative date string
+urlbar-result-explanation-last-visited-relative-2 = آخری وزٹ { $date }
+# This explanation is used when the last-visited date is a small number of days,
+# weeks, or months in the past.
+# Variables:
+#   $date (string) - A localized relative date string like one of the following:
+#                    "6 days ago", "1 week ago", "4 weeks ago", "1 month ago",
+#                    "11 months ago"
+urlbar-result-explanation-last-visited-days-weeks-months-ago = آخری وزٹ { $date }
+# This explanation is used when the last-visited date is further in the past.
+# The date will be formatted as an absolute date like: "11 May", "11 May 2026"
+# Variables:
+#   $date (string) - A localized absolute date string
+urlbar-result-explanation-last-visited-absolute-2 = آخری وزٹ { $date }
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
+# This string is shown as title when Market suggestion are disabled.
+urlbar-result-market-opt-in-title = اپݨے سرچ بار وچ سٹاک مارکیٹ دا ڈیٹا حاصل کرو
+# This string is shown as description when Market suggestion are disabled.
+urlbar-result-market-opt-in-description = ساݙے شراکت داراں توں مارکیٹ اپ ڈیٹس تے ہور ݙکھاؤ جݙاں تساں { -vendor-short-name } نال سرچ کوئری ڈیٹا شیئر کریندے ہو <a data-l10n-name="learn-more-link">ٻیا سِکھو</a>
+# This string is shown as button to activate online when realtime suggestion are disabled.
+urlbar-result-realtime-opt-in-allow = تجویزاں ݙکھاؤ
+# This string is shown in split button to dismiss activation the Realtime suggestion.
+urlbar-result-realtime-opt-in-not-now = ہݨ کائناں
 urlbar-result-realtime-opt-in-dismiss = فارغ کرو
+urlbar-result-realtime-opt-in-dismiss-all2 = ایہہ تجویزاں نہ ݙکھاؤ
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market2 = مارکیٹ تجویزاں نہ ݙکھاؤ
+urlbar-result-realtime-opt-in-dismiss-all =
+    .label = ایہہ تجویزاں نہ ݙکھاؤ
+# This string is shown in the result menu.
+urlbar-result-menu-dont-show-market =
+    .label = مارکیٹ تجویزاں نہ ݙکھاؤ
+# A message that replaces a result when the user dismisses Market suggestions.
+urlbar-result-dismissal-acknowledgment-market = تساݙے فیڈ بیک دا شکریہ۔ تساں ہݨ مارکیٹ تجویزاں نئیں ݙیکھسو۔
+# This a11y label is read by screen readers when an item in the row is selected.
+urlbar-result-aria-group-market =
+    .aria-label = سٹاک مارکیٹ تجویزاں
+# A message that replaces a result when the user dismisses all suggestions of a
+# particular type.
+urlbar-result-dismissal-acknowledgment-all = تساݙے فیڈ بیک دا شکریہ۔ تساں ہݨ ایہہ تجویزاں نئیں ݙیکھسو۔
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+# The name of an event and the number of days until it starts separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown =
+    { $daysUntilStart ->
+        [one] { $name } · { $daysUntilStart } ݙینہہ وچ
+       *[other] { $name } · { $daysUntilStart } ݙینہاں وچ
+    }
+# The name of a multiple day long event and the number of days until it starts
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilStart (integer) - The number of days until the event starts.
+urlbar-result-dates-countdown-range =
+    { $daysUntilStart ->
+        [one] { $name } · { $daysUntilStart } ݙینہہ وچ شروع تھیسی
+       *[other] { $name } · { $daysUntilStart } ݙینہاں وچ شروع تھیسن
+    }
+# The name of a multiple day long event and the number of days until it ends
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+#   $daysUntilEnd (integer) - The number of days until the event ends.
+urlbar-result-dates-ongoing =
+    { $daysUntilEnd ->
+        [one] { $name } · { $daysUntilEnd } ݙینہہ وچ ختم تھیسی
+       *[other] { $name } · { $daysUntilEnd } ݙینہاں وچ ختم تھیسن
+    }
+# The name of an event and a note that it is happening today separated by a
+# middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-today = { $name } · اج
+# The name of multiple day long event and a note that it is ends today
+# separated by a middot.
+# Variables:
+#   $name (string) - The name of the event.
+urlbar-result-dates-ends-today = { $name } · اج ختم تھیسی
 
 ## Strings used for buttons in the urlbar
 
@@ -528,6 +891,16 @@ urlbar-result-search-with-local-search-mode = { $keywords }  - { $localSearchMod
 #  $keywords (String): the default keyword and user's set keyword if available
 #  $engine (String): the name of a search engine
 urlbar-result-search-with-engine-keywords = { $keywords }  - { $engine } نال ڳولو
+# Searchmode Switcher button
+# Variables:
+#   $engine (String): the current default search engine.
+urlbar-searchmode-button3 =
+    .title = { $engine }، تلاش انجن چُݨو
+urlbar-searchmode-button-no-engine2 =
+    .title = کوئی شارٹ کٹ منتخب نئیں، شارٹ کٹ چُݨو
+# Refers to the ability to search using keywords in the address bar
+urlbar-searchmode-no-keyword2 =
+    .title = کلیدی لفظ نال تلاش غیر فعال اے
 urlbar-searchmode-dropmarker2 =
     .title = ڳولݨ انجݨ چݨو
 urlbar-searchmode-bookmarks4 = نشانیاں
@@ -829,6 +1202,14 @@ restore-session-startup-suggestion-button = میکوں ݙکھاؤ کیویں
 
 filepicker-blocked-infobar = تُہاݙی تنظیم نے اِیں کمپیوٹر اُتے مقامی فائلاں تئیں رسائی کوں بلاک کر ݙِتّا ہِے
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-dismiss = سمجھ گھدے
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } آپݨے آپ کجھ ڈیٹا { -vendor-short-name } کوں پٹھیندا ہے تاں جو اساں تہاݙے تجربے کوں بہتر بݨا سڳوں۔
@@ -840,12 +1221,27 @@ private-browsing-indicator-label = نجی براؤزنگ
 # Tooltip for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-tooltip =
     .tooltiptext = نجی براؤزنگ
+# Tooltip for the private browsing indicator button that opens the info panel.
+private-browsing-indicator-button =
+    .tooltiptext = نجی براؤزنگ
+# Title shown in the private browsing info panel.
+private-browsing-info-panel-title = تساں ہک نجی ونڈو وِچ ہو
+# Body copy shown in the private browsing info panel. The learn-more link text
+# is embedded in the sentence.
+private-browsing-info-panel-description = ایہہ تساݙی براؤزنگ کوں ایں ڈیوائس تے ݙوجھیاں توں لکائے رکھݨ وچ مدد کریندا ہے، پر تساں کوں آن لائن پوشیدہ نئیں بݨیندا۔ <a data-l10n-name="learn-more">کون میݙی سرگرمی ݙیکھ سڳدا ہے؟</a>
 # Tooltip for the indicator shown in the window titlebar when content analysis is active.
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = ڈیٹا ضایا تِھیوݨ کنوں بچاء (ڈی ایل پی) بذریعہ { $agentName }۔ ودھیک معلومات کِیتے دباؤ۔
+content-analysis-panel-title2 = ڈیٹا دے نقصان دی روک تھام
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = تساݙی تنظیم <b>{ $agentName }</b> کوں حساس ڈیٹا دے اشتراک کوں کنٹرول کرݨ کیتے استعمال کریندی ہے۔ <a data-l10n-name="info">ٻیا سِکھو</a>
 content-analysis-panel-title = ڈیٹا حفاظت
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled = تساݙی تنظیم <b>{ $agentName }</b> کوں ڈیٹا دے نقصان توں بچاؤ کیتے استعمال کریندی ہے۔ <a data-l10n-name="info">ٻیا سِکھو</a>
 
 ## Unified extensions (toolbar) button
 
@@ -881,6 +1277,27 @@ reset-pbm-panel-cancel-button =
     .accesskey = C
 reset-pbm-panel-complete = نجی مجلس ڈیٹا مٹ ڳیا
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = تہاݙا کجھ یا سارا براؤزنگ ڈیٹا حذف کرو
+    .tooltiptext = تہاݙا کجھ یا سارا براؤزنگ ڈیٹا حذف کرو
+fire-button-panel-heading = سارا براؤزنگ ڈیٹا حذف کرو؟
+fire-button-panel-description = ایہہ تاریخ، کوکیز تے سائٹ ڈیٹا حذف کر دیسی۔ تہاکوں سائٹس توں سائن آؤٹ کر ݙتا جاسی۔ ایہہ ونڈو بند ہو جاسی تے { -brand-short-name } نویں کھولیسی۔
+fire-button-panel-choose-description = اگر تہاکوں سبھ کجھ حذف نئیں کرݨا، تاں مخصوص ڈیٹا چُݨو۔
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = چُݨو
+fire-button-panel-cancel-button =
+    .label = منسوخ
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = سبھ حذف کرو
+    .accesskey = D
+fire-button-panel-complete = براؤزنگ ڈیٹا مٹ ڳیا
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ایں ورقے کوں آپݨے آپ لوڈ تھیوݨ کنوں روکیا۔
@@ -896,6 +1313,7 @@ firefox-relay-offer-why-to-use-relay = اَساݙے محفوظ، ورتݨ-وِچ
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = تُہاݙے ای میل ماسک اُتے بھیڄے ڳئے سارے ای میلاں کوں <strong>{ $useremail }</strong> اُتے گَھل ݙِتّا ویسی (جہڑیلے تئیں جو تُساں اِنّھاں کوں بلاک کرݨ دا فین٘صلہ نہ کرو)۔
 firefox-relay-offer-legal-notice = "ای میل ماسک استعمال کرو" اُتّے دباوݨ نال، تُساں <label data-l10n-name="tos-url">خدمت دیاں شرطاں</label>اَتے <label data-l10n-name="privacy-url">رازداری نوٹس</label> نال اتفاق کرین٘دے ہِیوے۔
+firefox-relay-offer-legal-notice-1 = سائن اپ کرݨ تے ای میل ماسک بݨاوݨ نال، تہاکوں <label data-l10n-name="tos-url">سروس دیاں شرطاں</label> تے <label data-l10n-name="privacy-url">پرائیویسی نوٹس</label> نال اتفاق اے۔
 
 ## Add-on Pop-up Notifications
 
@@ -903,6 +1321,15 @@ popup-notification-addon-install-unsigned =
     .value = (غیر تصدیق شدہ)
 popup-notification-xpinstall-prompt-learn-more = محفوظ طریقے نال ایڈ آنز انسٹال کرݨ بارے مزید سکھو۔
 popup-notification-xpinstall-prompt-block-url = تفصیلاں ݙیکھو
+# Note: Access key is set to p to match "private" in the corresponding localized label.
+popup-notification-addon-privatebrowsing-checkbox2 =
+    .label = ایکسٹینشن کوں نجی ونڈوز وچ چلݨ دی اجازت ݙیو
+    .accesskey = p
+# This string is similar to `webext-perms-description-data-long-technicalAndInteraction`
+# but it is used in the install prompt, and it needs an access key.
+popup-notification-addon-technical-and-interaction-checkbox =
+    .label = ایکسٹینشن ڈویلپر نال تکنیکی تے تعامل ڈیٹا شیئر کرو
+    .accesskey = S
 
 ## Pop-up warning
 
@@ -913,10 +1340,26 @@ popup-warning-message =
         [one] { -brand-short-name } ایں سائٹ کوں پوپ اپ ونڈو کھولݨ کنوں روکیا۔
        *[other] { -brand-short-name } ایں سائٹ کوں { $popupCount } پاپ اپ ونڈو کھولݨ کنوں روکیا۔
     }
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+redirect-warning-with-popup-message =
+    { $popupCount ->
+        [0] { -brand-short-name } ایں سائٹ کوں ری ڈائریکٹ کرݨ توں روک ݙتا۔
+        [1] { -brand-short-name } ایں سائٹ کوں پاپ اپ ونڈو کھولݨ تے ری ڈائریکٹ کرݨ توں روک ݙتا۔
+        [one] { -brand-short-name } ایں سائٹ کوں { $popupCount } پاپ اپ ونڈو کھولݨ تے ری ڈائریکٹ کرݨ توں روک ݙتا۔
+       *[other] { -brand-short-name } ایں سائٹ کوں { $popupCount } پاپ اپ ونڈوز کھولݨ تے ری ڈائریکٹ کرݨ توں روک ݙتا۔
+    }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message = { -brand-short-name } ایں سائٹ کوں { $popupCount } کنوں ودھ پوپ اپ ونڈوز کھولݨ توں روک ݙتا۔
+# Variables:
+#   $popupCount (Number): the number of pop-ups blocked.
+popup-warning-exceeded-with-redirect-message =
+    { $popupCount ->
+        [one] { -brand-short-name } ایں سائٹ کوں { $popupCount } توں ودھ پاپ اپ ونڈو کھولݨ تے ری ڈائریکٹ کرݨ توں روک ݙتا۔
+       *[other] { -brand-short-name } ایں سائٹ کوں { $popupCount } توں ودھ پاپ اپ ونڈوز کھولݨ تے ری ڈائریکٹ کرݨ توں روک ݙتا۔
+    }
 popup-warning-button =
     .label =
         { PLATFORM() ->
@@ -932,6 +1375,10 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' ݙکھاؤ
+# Variables:
+#   $redirectURI (String): the URI for the redirect
+popup-trigger-redirect-menuitem =
+    .label = “{ $redirectURI }” وکھاؤ
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
@@ -947,7 +1394,89 @@ file-picker-crashed-show-in-folder =
     .label = فولڈر وِچ ݙکھاؤ
     .accessKey = F
 
+## Onboarding Finish Setup checklist
+
+onboarding-checklist-button-label = سیٹ اپ مکمل کرو
+onboarding-aw-finish-setup-button =
+    .label = سیٹ اپ مکمل کرو
+    .tooltiptext = { -brand-short-name } دا سیٹ اپ مکمل کرو
+
 ## The urlbar trust icon & panel
 
+trustpanel-etp-label-enabled = بہتر ٹریکنگ تحفظ آن اے
+trustpanel-etp-label-disabled = بہتر ٹریکنگ تحفظ آف اے
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-on =
+    .aria-label = بہتر ٹریکنگ تحفظ: { $host } کیتے آن
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-etp-toggle-off =
+    .aria-label = بہتر ٹریکنگ تحفظ: { $host } کیتے آف
+trustpanel-etp-description-enabled = اگر ایں سائٹ تے کجھ ٹُٹا ہویا لڳے، تاں تحفظ بند کرݨ دی کوشش کرو۔
+trustpanel-etp-description-disabled = { -brand-product-name } سمجھدا اے کہ کمپنیاں کوں تہاݙا گھٹ پچھا کرݨا چاہیدا اے۔ جݙاں تسی تحفظ چالو کریندے ہو، اسی جتنا ہو سکے ٹریکرز کوں بلاک کریندے ہاں۔
+trustpanel-connection-label-secure = کنکشن محفوظ اے
+trustpanel-connection-label-insecure = کنکشن محفوظ نئیں
+trustpanel-header-enabled = { -brand-product-name } چوکس اے
+trustpanel-description-enabled2 = تسی محفوظ ہو۔ اگر اسی کجھ ݙیکھسوں، تاں تہاکوں ݙس ݙیسوں۔
+trustpanel-header-enabled-insecure = ایں سائٹ تے ہوشیار رہو
+trustpanel-description-enabled-insecure = { -brand-product-name } کجھ مشکوک ݙٹھا۔
+trustpanel-header-disabled = تسی تحفظ بند کر ݙتا
+trustpanel-description-disabled = { -brand-product-name } چھٹی تے اے۔ اسی تحفظ واپس چالو کرݨ دا مشورہ ݙیندے ہاں۔
+trustpanel-clear-cookies-button = کوکیز تے سائٹ ڈیٹا صاف کرو
+trustpanel-privacy-link = پرائیویسی سیٹنگز
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-clear-cookies-header =
+    .title = { $host } کیتے کوکیز تے سائٹ ڈیٹا صاف کرو
+trustpanel-clear-cookies-description = کوکیز تے سائٹ ڈیٹا ہٹاوݨ نال تسی ویب سائٹس توں لاگ آؤٹ ہو سکدے ہو تے شاپنگ کارٹس صاف ہو سکدیاں ہن۔
 trustpanel-clear-cookies-subview-button-clear = صاف کرو
 trustpanel-clear-cookies-subview-button-cancel = منسوخ
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-site-information-header =
+    .title = { $host } کیتے کنکشن تحفظ
+trustpanel-siteinformation-morelink = سائٹ بارے ہور معلومات
+trustpanel-blocker-see-all = سبھ ݙیکھو
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+trustpanel-blocker-header =
+    .title = { $host } کیتے ٹریکنگ تحفظ
+# LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
+# Keep this string as short as possible, this is displayed in the URL bar
+# use a synonym for "safe" or "private" if "secure" is too long.
+urlbar-trust-icon-notsecure-label = محفوظ نئیں
+# Keep this string as short as possible, this is displayed in the URL bar
+# Variables
+#  $count (number): the number of trackers blocked.
+urlbar-trust-icon-trackers-blocked-longform-label =
+    { $count ->
+        [one] { $count } ٹریکر بلاک
+       *[other] { $count } ٹریکرز بلاک
+    }
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+trustpanel-blocker-description = { -brand-product-name } سمجھدا اے کہ کمپنیاں کوں تہاݙا گھٹ پچھا کرݨا چاہیدا اے۔ ایس لئی اسی جتنا ہو سکے بلاک کریندے ہاں۔
+trustpanel-blocked-header = { -brand-product-name } تہاݙے کیتے ایہہ چیزاں بلاک کیتیاں:
+trustpanel-tracking-header = { -brand-product-name } ایہہ چیزاں دی اجازت ݙتی تاکہ سائٹس نہ ٹُٹݨ:
+trustpanel-tracking-description = ٹریکرز دے بغیر، کجھ بٹݨ، فارم تے لاگ اِن فیلڈز کم نئیں کر سکدے۔
+trustpanel-insecure-section-header = تہاݙا کنکشن محفوظ نئیں
+trustpanel-insecure-description = جہڑا ڈیٹا تسی ایں سائٹ کوں بھیج رہے ہو، اوہ انکرپٹڈ نئیں۔ اینوں ݙٹھا، چوری کیتا یا تبدیل کیتا جا سکدا اے۔
+trustpanel-list-label-tracking-cookies =
+    { $count ->
+        [one] { $count } کراس سائٹ ٹریکنگ کوکی
+       *[other] { $count } کراس سائٹ ٹریکنگ کوکیز
+    }
+trustpanel-list-label-tracking-content = ٹریکنگ مواد
+trustpanel-list-label-fingerprinter =
+    { $count ->
+        [one] { $count } فنگر پرنٹر
+       *[other] { $count } فنگر پرنٹرز
+    }
+trustpanel-list-label-social-tracking =
+    { $count ->
+        [one] { $count } سوشل میڈیا ٹریکر
+       *[other] { $count } سوشل میڈیا ٹریکرز
+    }

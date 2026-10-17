@@ -22,3 +22,6 @@ inactive-message = انٹرپرائز پالیسیاں خدمات غیر فعا�
 policy-name = پالیسی ناں
 policy-value = پالیسی دی مالیت
 policy-errors = پالیسی وچ غلطیاں
+# Shown under the name of a policy in the Active list when at least one of the
+# operations of that policy failed to apply. The Errors tab has the details.
+policy-not-fully-applied = مکمل طور تے لاگو نئیں تھیا

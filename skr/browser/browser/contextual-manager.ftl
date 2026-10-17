@@ -59,6 +59,8 @@ contextual-manager-passwords-import-file-picker-tsv-filter-title =
         [macos] TSV دستاویز
        *[other] TSV فائل
     }
+contextual-manager-passwords-import-success-heading =
+    .heading = پاس ورڈز درآمد کیتے ڳئے
 contextual-manager-passwords-import-success-button = تھی ڳیا
 contextual-manager-passwords-import-error-button-cancel = منسوخ
 contextual-manager-passwords-export-success-button = تھی ڳیا

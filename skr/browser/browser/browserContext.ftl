@@ -169,6 +169,9 @@ main-context-menu-open-link =
 main-context-menu-open-link-new-tab =
     .label = نویں ٹیب اِچ لنک کھولو
     .accesskey = T
+main-context-menu-open-link-split-view =
+    .label = لنک کوں سپلٹ ویو وچ کھولو
+    .accesskey = M
 main-context-menu-open-link-container-tab =
     .label = نویں کنٹینر ٹیب اِچ لنک کھولو
     .accesskey = W
@@ -199,6 +202,15 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = لنک کاپی کرو
     .accesskey = L
+main-context-menu-preview-link =
+    .label = لنک دا پیش نظارہ
+    .accesskey = J
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+main-context-menu-copy-clean-link =
+    .label = صاف لنک کاپی کرو
+    .accesskey = u
 
 ## Media (video/audio) controls
 ##
@@ -300,6 +312,11 @@ main-context-menu-image-info =
 main-context-menu-image-desc =
     .label = تفصیل ݙیکھو
     .accesskey = D
+# Variables
+#   $engine (String) - Name of the search engine that will perform the search.
+main-context-menu-visual-search-2 =
+    .label = { $engine } نال تصویر تلاش کرو
+    .accesskey = e
 main-context-menu-video-save-as =
     .label = ویڈیو ہتھیکڑی کرو بطور …
     .accesskey = v
@@ -315,6 +332,24 @@ main-context-menu-video-email =
 main-context-menu-audio-email =
     .label = آڈیو ای میل کرو۔۔۔
     .accesskey = a
+main-context-menu-send-to-device-2 =
+    .label = ڈیوائس تے بھیجو
+    .accesskey = n
+main-context-menu-send-to-mobile-2 =
+    .label = موبائل تے بھیجو
+    .accesskey = n
+main-context-menu-send-to-mobile-sign-in = ٹیباں بھیجݨ کیتے سائن ان تھیوو
+main-context-menu-send-to-mobile-enable-sync2 = ٹیب بھیجݨ کیتے سنک چالو کرو
+main-context-menu-send-to-mobile-connect-phone2 = اپݨا فون جوڑو
+main-context-menu-send-to-mobile-device-missing2 = اپݨی ڈیوائس نظر نہیں آندی؟
+main-context-menu-send-to-mobile-sign-in-from-link = لنک بھیجݨ کیتے سائن ان تھیوو
+main-context-menu-send-to-mobile-sign-in-from-page = پیج بھیجݨ کیتے سائن ان تھیوو
+main-context-menu-send-to-mobile-enable-sync3 = ٹیباں بھیجݨ کیتے سنک چالو کرو
+main-context-menu-send-to-mobile-enable-sync-from-link = لنک بھیجݨ کیتے سنک چالو کرو
+main-context-menu-send-to-mobile-enable-sync-from-page = پیج بھیجݨ کیتے سنک چالو کرو
+main-context-menu-send-to-mobile-connect-phone3 = ٹیباں بھیجݨ کیتے ڈیوائس جوڑو
+main-context-menu-send-to-mobile-connect-phone-from-link = ٹیباں بھیجݨ کیتے ڈیوائس جوڑو
+main-context-menu-send-to-mobile-connect-phone-from-page = پیج بھیجݨ کیتے ڈیوائس جوڑو
 
 ##
 
@@ -331,8 +366,14 @@ main-context-menu-suggest-strong-password =
 main-context-menu-manage-passwords =
     .label = پاس ورڈز دا بندوبست کرو
     .accesskey = M
+main-context-menu-add-engine =
+    .label = ڳولݨ انجݨ شامل کرو
+    .accesskey = ڳ
 main-context-menu-link-send-to-device =
     .label = لنک ڈیوائس تے بھیڄو
+    .accesskey = n
+main-context-menu-link-send-to-mobile =
+    .label = موبائل تے لنک بھیجو
     .accesskey = n
 main-context-menu-frame =
     .label = ایہ فریم
@@ -385,6 +426,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = جانچ کرو
     .accesskey = Q
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = رسائی دی خصوصیات دا معائنہ کرو
+    .accesskey = ر
 main-context-menu-inspect-a11y-properties =
     .label = رسائی دی خصوصیات دا معائنہ کرو
 main-context-menu-eme-learn-more =
@@ -398,3 +444,13 @@ main-context-menu-open-link-in-container-tab =
 main-context-menu-reveal-password =
     .label = پاس ورڈ ظاہر کرو
     .accesskey = v
+# The label of a badge shown in menu items to call out new features.
+main-context-menu-new-feature-badge = نواں
+main-context-menu-pdfjs-copy-page =
+    .label = پیج کاپی کرو
+main-context-menu-pdfjs-cut-page =
+    .label = پیج کٹ کرو
+main-context-menu-pdfjs-delete-page =
+    .label = پیج حذف کرو
+main-context-menu-pdfjs-save-page =
+    .label = منتخب کوں محفوظ کرو…

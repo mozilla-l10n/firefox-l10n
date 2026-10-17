@@ -66,6 +66,7 @@ aboutdialog-submit-feedback = آپݨی رائے جمع کرواؤ
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>ہک<label data-l10n-name="community-exp-creditsLink">عالمی حلقے دے طور تے </label> ویب کوں عوامی تے سب کیتے قابل رسائی بݨاوݨ کیتے کام کریندی پئی ہے۔
 community-2 = { -brand-short-name } دے ڈیزائنر ہن<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>، آ<label data-l10n-name="community-creditsLink">عالمی حلقے دے طور تے</label> ویب کوں عوامی اور قابل رسائی بݨاوݨ کیتے کام کریندی پئی ہے۔
 helpus = مدد کرݨ چاہندے ہو؟ <label data-l10n-name="helpus-donateLink">عطیہ کرو</label> یا <label data-l10n-name="helpus-getInvolvedLink">شامل تھیوو!</label>
+helpus-referrals2 = مدد کرݨ چاہندے وے؟ <label data-l10n-name="helpus-donateLink">عطیہ ݙیو</label>، <label data-l10n-name="helpus-shareFirefoxLink">{ -brand-product-name } کوں شیئر کرو</label>، یا <label data-l10n-name="helpus-getInvolvedLink">حصہ گِھنْو!</label>
 bottomLinks-license = لائسنس ڄاݨکاری
 bottom-links-terms = ورتݨ شرطاں
 bottom-links-privacy = رازداری نوٹس

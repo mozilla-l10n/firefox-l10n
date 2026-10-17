@@ -41,6 +41,12 @@ appmenu-update-other-instance =
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = ہک نواں { -brand-shorter-name } اپ ڈیٹ دستیاب ہے، پر اینکوں انسٹال نہیں کیتا ونڄ سڳدا کیوں جو { -brand-shorter-name } دی ہک ٻئی کاپی چلدی پئی ہے۔ اپ ڈیٹ جاری رکھݨ کیتے اینکوں بند کرو، یا ول وی اپ ڈیٹ کرݨ دا انتخاب کرو (جے تائیں تساں اینکوں دوبارہ شروع نہیں کریندے ٻئی کاپی صحیح طریقے نال کم نہیں کر سڳدی)۔
 appmenu-addon-post-install-message3 = اپلیکیشن مینیو دے ذریعے اپݨے ایڈ آنز تے تھیمز دا بندوبست کرو
+# This string is used in the confirmation popup displayed after an extension
+# has been installed, when the data collection feature is enabled.
+appmenu-addon-post-install-message-with-data-collection = <a data-l10n-name="settings-link">ایکسٹینشن سیٹنگز</a> وچ اجازتاں تے ڈیٹا ترجیحات کوں کݙاہیں وی اپڈیٹ کرو۔
+appmenu-addon-post-install-pin-toolbarbutton-checkbox =
+    .label = ایکسٹینشن کوں ٹول بار تے پن کرو
+    .accesskey = P
 appmenu-new-tab-controlled-changes =
     .buttonlabel = تبدیلیاں جاری رکھو
     .buttonaccesskey = K

@@ -66,6 +66,8 @@ webext-imported-addons = { -brand-short-name }وِچ درآمد کِیتے ڳئ�
 addon-removal-title = ہٹاؤ { $name } ؟
 addon-removal-button = ہٹاؤ
 addon-removal-abuse-report-checkbox = ایں توسیع دی اطلاع{ -vendor-short-name } کوں ݙیو
+# "it" refers to the local AI model that is paired to the AI feature
+addon-mlmodel-removal-body = جے تساں ایں ماڈل کوں ورتݨ آلے فیچرز یا ایکسٹینشنز ورتو تاں اوہ دوبارہ شامل کر ݙتا ویسے۔
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -104,13 +106,17 @@ addon-install-error-corrupt-file = ایں سائٹ توں ڈاؤن لوڈ تھئ
 addon-install-error-file-access = { $addonName } انسٹال نہیں تھی سڳیا کیوں جو { -brand-short-name } مطلوبہ فائل وِچ ترمیم نہیں کر سڳدا۔
 addon-install-error-not-signed = { -brand-short-name } ایں سائٹ کوں غیر تصدیق شدہ ایڈ آن انسٹال کرݨ توں روک ݙتا ہے۔
 addon-install-error-invalid-domain = ایڈ آن { $addonName } کوں ایں مقام کنوں انسٹال نہیں کیتا ونڄ سڳدا۔
+addon-install-error-no-addon-name-file-access = ایڈ آن انسٹال نئیں تھی سڳیا کیوں جو { -brand-short-name } لوڑیندی فائل کوں تبدیل نئیں کر سڳدا۔
 addon-local-install-error-network-failure = فائل سسٹم دی خرابی دی وجہ توں ایہ ایڈ آن انسٹال نہیں تھی سڳیا۔
 addon-local-install-error-incorrect-hash = ایہ ایڈ آن انسٹال نہیں تھی سڳیا کیوں جو ایہ ایڈ آن { -brand-short-name } کنوں میل نہیں کھاندا۔
 addon-local-install-error-corrupt-file = ایہ ایڈ آن انسٹال نہیں تھی سڳیا کیوں جو ایویں لڳدا ہے جو ایہ کرپٹ ہے۔
 addon-local-install-error-file-access = { $addonName } انسٹال نہیں تھی سڳیا کیوں جو { -brand-short-name } مطلوبہ فائل وِچ ترمیم نہیں کر سڳدا۔
 addon-local-install-error-not-signed = ایہ ایڈ آن انسٹال نہیں تھی سڳیا کیوں جو ایندی تصدیق نہیں تھئی۔
+addon-local-install-no-addon-name-error-file-access = ایڈ آن انسٹال نئیں تھی سڳیا کیوں جو { -brand-short-name } لوڑیندی فائل کوں تبدیل نئیں کر سڳدا۔
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } کوں انسٹال نہیں کیتا ونڄ سڳیا کیوں جو ایہ { -brand-short-name } { $appVersion } دے نال میل نئیں کھاندا۔
+addon-install-error-hard-blocked = { $addonName } موزیلا دیاں پالیسیاں دی خلاف ورزی کریندا ہے تے { -brand-short-name } تے انسٹال نئیں تھی سڳدا۔
+addon-install-error-soft-blocked2 = { $addonName } محدود ہے تے { -brand-short-name } تے انسٹال نئیں تھی سڳدا۔
 # Enterprise policies is a feature aimed at system administrators who want to deploy custom settings for Firefox.
 addon-install-error-admin-install-only = تساں { $addonName } کوں چھیکڑی ورتݨ آلے دے طور تے انسٹال نہوے کر سڳدے، ایں کوں صرف انٹرپرائز پالیسیاں ورت کے کہیں تنظیم  ولوں انسٹال کیتا ون٘ڄ سڳدا ہے۔

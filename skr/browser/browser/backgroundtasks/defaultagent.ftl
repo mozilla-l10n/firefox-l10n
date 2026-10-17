@@ -3,4 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 default-browser-agent-task-description = ڈیفالٹ براؤزر ایجنٹ ٹاسک چیک کریندا ہے جݙاں ڈیفالٹ { -brand-short-name } کنوں ٻئے براؤزر وِچ تبدیل تھیندا ہے۔ جے تبدیلی مشتبہ حالات وِچ ہوندی ہے، تاں ایہ صارفین کوں { -brand-short-name } وِچ ݙو واری کنوں زیادہ تبدیل کرݨ دا اشارہ کریسے۔ ایہ ٹاسک آپݨے آپ { -brand-short-name } دے ذریعے انسٹال تھیندا ہے، تے { -brand-short-name } اپ ڈیٹ تھیوݨ تے دوبارہ انسٹال تھی ویندا ہے۔ ایں کم کوں غیر فعال کرݨ کیتے، about:config ورقہ یا { -brand-short-name } انٹرپرائز پالیسی سیٹنگ "DisableDefaultBrowserAgent" تے "default-browser-agent.enabled" ترجیح کوں اپ ڈیٹ کرو۔
+default-browser-notification-privacy-header-text = { -brand-short-name } دے نال رہو؟
+default-browser-notification-privacy-body-text = تساݙا ڈیفالٹ تبدیل تھی ڳیا۔ بلٹ ان پرائیویسی تے تحفظ لئی { -brand-short-name } تے واپس آؤ۔
 default-browser-notification-yes-button-text = جیا
+default-browser-notification-privacy-no-button-text = نہیں، شکریہ
