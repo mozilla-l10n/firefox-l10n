@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = 동영상 형식 또는 MIME 유형을 �
 videocontrols-error-no-source = 지원되는 형식 및 MIME 유형의 동영상를 찾을 수 없습니다.
 videocontrols-error-generic = 알 수 없는 오류로 인해 동영상 재생이 중단되었습니다.
 videocontrols-status-picture-in-picture = 이 동영상은 화면 속 화면 모드에서 재생 중입니다.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = 동영상은 화면 속 화면 모드에서 재생 중입니다
 # This message shows the current position and total video duration
 #
 # Variables:

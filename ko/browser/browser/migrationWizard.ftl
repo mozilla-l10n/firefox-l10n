@@ -52,11 +52,22 @@ migration-no-permissions-message = { -brand-short-name }는 이 기기에 설치
 migration-no-permissions-instructions = 계속 다른 브라우저에서 데이터를 가져오려면, 해당 프로필 폴더에 대한 { -brand-short-name } 액세스 권한을 부여하세요.
 migration-no-permissions-instructions-step1 = "계속"을 선택하세요
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] 파일 선택 창에서 "열기"를 선택하세요
+       *[other] 파일 선택 창에서 <code>{ $permissionsPath }</code>로 이동한 후 “선택”을 누르세요.
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:
 #  $permissionsPath (String): the file system path that the user will need to grant read permission to.
-migration-no-permissions-instructions-step2 = 파일 선택기에서 <code>{ $permissionsPath }</code>로 이동하여 “선택”을 선택하세요.
+migration-no-permissions-instructions-step2 = 파일 선택 창에서 <code>{ $permissionsPath }</code>로 이동한 후 “선택”을 누르세요.
 
 ## These strings will be displayed based on how many resources are selected to import
 

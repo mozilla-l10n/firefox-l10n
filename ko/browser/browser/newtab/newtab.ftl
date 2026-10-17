@@ -439,6 +439,10 @@ newtab-stocks-watchlist-full = 주식은 최대 { $limit }개까지 추가할 �
 newtab-picture-header = 오늘의 사진 · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = 오늘의 사진
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = 오늘의 사진: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -462,6 +466,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = 오늘의 사진 메뉴 열기
     .title = 오늘의 사진 메뉴 열기
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = 이 사진을 배경 화면으로 설정
+    .label = 배경 화면 설정
+    .title = 배경 화면 설정
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -470,6 +481,10 @@ newtab-picture-set-wallpaper =
     .title = 배경 화면 설정
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = 배경 화면 관리
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = 사진 숨기기
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = 사진 보기
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = 오늘의 사진 숨기기
@@ -477,6 +492,10 @@ newtab-picture-menu-hide-photo = 오늘의 사진 숨기기
 newtab-picture-menu-show-photo = 오늘의 사진 보기
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = 더 알아보기
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = 사진 보기
+    .title = 사진 보기
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = 오늘의 사진 보기
@@ -541,6 +560,14 @@ newtab-horoscopes-menu-learn-more = 더 알아보기
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = 여행
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = 여행 메뉴 열기
+    .title = 여행 메뉴 열기
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = 더 알아보기
 
@@ -851,6 +878,10 @@ newtab-custom-widget-search-toggle =
     .label = 검색
 newtab-custom-widget-horoscopes-toggle =
     .label = 오늘의 운세
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = 여행
 newtab-custom-widget-section-title = 위젯
 newtab-custom-widget-section-toggle =
     .label = 위젯
