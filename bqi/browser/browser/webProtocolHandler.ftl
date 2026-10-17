@@ -4,6 +4,12 @@
 
 protocolhandler-mailto-os-handler-yes-button = سامووݩ و عونوان پؽش فرز
 protocolhandler-mailto-os-handler-no-button = سکو ن
+# Button in the notification bar shown when a website asks to register as an
+# application handler, for example for email links. Blocks the website from
+# asking again.
+protocolhandler-never-allow-button =
+    .label = هرگشت نشتن
+    .accesskey = ه
 protocolhandler-add-handler-button =
     .label = ٱووردن برنومه
     .accesskey = A
