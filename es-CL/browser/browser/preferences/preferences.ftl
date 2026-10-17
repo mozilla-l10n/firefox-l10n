@@ -1795,6 +1795,10 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Elige qué sitios web pueden instalar extensiones
     .accesskey = E
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Gestionar sitios bloqueados
+    .accesskey = G
 permissions-location2 =
     .label = Ubicación
 permissions-localhost2 =
