@@ -398,12 +398,18 @@ onboarding-checklist-remove-2 = Remove checklist
 
 tab-groups-onboarding-feature-callout-title = Try tab groups for less clutter, more focus
 tab-groups-onboarding-feature-callout-subtitle = Get organized by dragging one tab on top of another to create your first group.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Find your tab groups in the “Search and manage tabs” menu anytime.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Find your tab groups in the List All Tabs menu anytime.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Find your groups by searching for them in the address bar.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = When you close a tab group, reopen it from the “Search and manage tabs” menu anytime.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = When you close a tab group, reopen it from the List All Tabs menu anytime.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Find your closed groups by searching for them in the address bar.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Reopen your tab groups from the “Search and manage tabs” menu anytime.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Reopen your tab groups from the List All Tabs menu anytime.
 tab-groups-onboarding-dismiss = OK
@@ -614,3 +620,16 @@ onboarding-theme-picker-button-label = Save and continue
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Feature highlights
+
+## Welcome Back Onboarding
+welcome-back-onboarding-title = New features built to help you do more
+welcome-back-onboarding-primary-button-label = Start browsing
+welcome-back-onboarding-secondary-button-label = See what else is new
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Tidy Tabs
+welcome-back-onboarding-pill-label-vpn = Built-in VPN
+welcome-back-onboarding-pill-label-pdf = PDF Tools
+welcome-back-onboarding-card-label-tabs = Tidy up with vertical tabs and groups
+welcome-back-onboarding-card-label-vpn = Stay hidden with built-in VPN
+welcome-back-onboarding-card-label-pdf = Highlight, sign, and work with PDFs
+welcome-back-onboarding-card-tilebutton-label = Try it

@@ -1140,6 +1140,10 @@ prefs-syncing-off = Syncing: OFF
 prefs-syncing-off-2 =
     .description = Turn on sync to get your bookmarks, passwords, history, and more on any device.
     .label = Syncing is OFF
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .label = Syncing is OFF
+    .description = Turn on sync to get your bookmarks, passwords, history, and more on this device.
 prefs-sync-turn-on-syncing =
     .label = Turn on syncing…
     .accesskey = s
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = You are syncing these items across all your connected devices:
 sync-syncing-across-devices-heading-2 = Data synced across devices
+sync-syncing-across-devices-heading-3 = Data syncing on this device
 sync-syncing-across-devices-empty-state2 =
     .description = You aren’t syncing anything… yet. Start syncing to get all of your data on all your devices.
     .label = Manage synced data
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = D
     .style = min-width: 36em;
     .title = Manage what syncs on all your connected devices
+sync-choose-what-to-sync-dialog5 =
+    .title = Manage what syncs on this device
+    .style = min-width: 36em;
+    .buttonlabelaccept = Save
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Disconnect…
+    .buttonaccesskeyextra2 = D
 
 ## The device name controls.
 
@@ -1783,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Choose which websites can install extensions
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Allow sites to ask to open app links.
+    .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Manage blocked sites
+    .accesskey = M
 permissions-location2 =
     .label = Location
 permissions-localhost2 =

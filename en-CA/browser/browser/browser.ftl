@@ -444,6 +444,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Show editor when saving
     .accesskey = S
+bookmark-panel-save-button2 =
+    .label = Save
+    .accesskey = a
 bookmark-panel-save-button =
     .label = Save
 # Width of the bookmark panel.
@@ -1292,6 +1295,9 @@ tabs-toolbar =
     .aria-label = Browser tabs
 tabs-toolbar-new-tab =
     .label = New Tab
+tabs-toolbar-list-all-tabs-2 =
+    .label = Search and manage tabs
+    .tooltiptext = Search and manage tabs
 tabs-toolbar-list-all-tabs =
     .label = List all tabs
     .tooltiptext = List all tabs
@@ -1309,6 +1315,16 @@ restore-session-startup-suggestion-button = Show me how
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Your organization has blocked access to local files on this computer
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } now searches tabs
+urlbar-addons-shortcut-moved-description = To open extensions and themes, use { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Manage shortcuts
+urlbar-addons-shortcut-moved-dismiss = Got it
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1334,6 +1350,10 @@ private-browsing-info-panel-description = This helps keep your browsing hidden f
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Data loss prevention (DLP) by { $agentName }. Click for more info.
+content-analysis-panel-title2 = Data loss prevention
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = Your organization uses <b>{ $agentName }</b> to control how sensitive data may be shared. <a data-l10n-name="info">Learn more</a>
 content-analysis-panel-title = Data protection
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1389,6 +1409,26 @@ reset-pbm-panel-complete = Private session data deleted
 reset-pbm-toolbar-button2 =
     .label = Clear private session
     .tooltiptext = Clear private session
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+fire-button-toolbar-button =
+    .label = Delete some or all of your browsing data
+    .tooltiptext = Delete some or all of your browsing data
+fire-button-panel-heading = Delete all browsing data?
+fire-button-panel-description = This deletes history, cookies, and site data. You’ll be signed out of sites. This window will close, and { -brand-short-name } will open a new one.
+fire-button-panel-choose-description = If you don’t want to delete everything, choose specific data instead.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Choose…
+fire-button-panel-cancel-button =
+    .label = Cancel
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = Delete all
+    .accesskey = D
+fire-button-panel-complete = Browsing data deleted
 
 ## Autorefresh blocker
 
