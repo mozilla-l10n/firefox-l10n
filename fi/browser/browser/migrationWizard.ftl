@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name }illa ei ole pääsyä mu
 migration-no-permissions-instructions = Jos haluat jatkaa tietojen tuontia toisesta selaimesta, anna { -brand-short-name }ille käyttöoikeus sen profiilikansioon.
 migration-no-permissions-instructions-step1 = Valitse “Jatka”
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Valitse tiedostovalitsimesta "Avaa"
+       *[other] Siirry tiedostovalitsimessa polkuun <code>{ $permissionsPath }</code> ja valitse “Valitse”
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:
