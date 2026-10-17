@@ -886,6 +886,9 @@ sync-syncing-across-devices-heading-3 = ایں ڈیوائس تے سنک تھیو
 sync-syncing-across-devices-empty-state2 =
     .description = تساں ہݨے کجھ وی سنک نیں پیے کریندے…۔ سنکنگ شروع کرو تاں جو تہاݙا سارا ڈیٹا تہاݙیاں سبھ ڈیوائساں تے ملے۔
     .label = سنک کیتا ڳیا ڈیٹا منیج کرو
+sync-syncing-across-devices-empty-state3 =
+    .description = تساں ہݨے کجھ وی سنک نیں پیے کریندے…۔ چݨو جو ایں ڈیوائس تے کیا سنک کرݨا ہے۔
+    .label = سنک کیتا ڳیا ڈیٹا منیج کرو
 sync-currently-syncing-bookmarks = نشانیاں
 sync-currently-syncing-history = تاریخ
 sync-currently-syncing-tabs = ٹیباں کھولو
@@ -894,6 +897,12 @@ sync-currently-syncing-addresses = پتے
 sync-currently-syncing-payment-methods = ادائیگی طریقے
 sync-currently-syncing-addons = ایڈ ــ آنز
 sync-currently-syncing-settings = ترتیباں
+sync-manage-options =
+    .label = سنک منیج کرو…
+    .accesskey = M
+sync-manage-options-2 =
+    .label = سنک کیتا ڳیا ڈیٹا منیج کرو
+    .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
@@ -1035,14 +1044,66 @@ autofill-creditcard-os-dialog-message =
     }
 autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
+## Privacy section - Autofill
+
+passports-delete-passport-prompt-confirm-button = کڈھ ݙے
+passports-delete-passport-prompt-cancel-button = منسوخ کرو
+autofill-passports-add-button = نواں پاسپورٹ شامل کرو
+autofill-personal-info-manage-title =
+    .heading = ذاتی معلومات منیج کرو
+# This message is displayed when no passports are stored in Firefox
+passports-no-passports-stored-message =
+    .label = کوئی پاسپورٹ شامل نیں کیتا
+pane-passwords-autofill-title2 = پاسورڈز تے آٹوفل
+    .title = پاسورڈز تے آٹوفل
+preferences-passwords-autofill-header =
+    .heading = پاسورڈز تے آٹوفل
+# These values are displayed for each credit card record listed on the Manage Payment methods
+# settings page.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item =
+    .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV محفوظ ہے
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV محفوظ ہے
+    .label = { $cardNumber }
+addresses-group =
+    .label = پتے تے بیا
+payments-group =
+    .label = ادائیگی دے طریقے
+
 ## Privacy Section - History
 
+history-remember-option-never2 =
+    .description = ہر ونڈو پرائیویٹ ونڈو وانڳوں کم کریندی ہے۔ جڈاں ایہ آن ہووے، تاں ایکسٹینشنز کوں اجازت ݙیوݨی پوسی۔
+    .label = کدی وی ہسٹری یاد نہ رکھو
+history-remember-option-custom2 =
+    .label = ہسٹری مرضی مطابق کرو
 history-remember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } تہاݙی برائوزنگ ڈائون لوڈ  ڳولݨ تاریخ کوں یاد رکھیسے ۔
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } نجی براؤزنگ دیاں ترتیباں استعمال کریسے، تے تہاݙے براوز کریندے ویلھے کوئی تاریخ یاد کائنا رکھیسے۔
+history-custom-description4 =
+    .aria-label = { history-group.label }
+    .description = { -brand-short-name } تہاݙی براؤزنگ، ڈاؤن لوڈ، فارم تے سرچ ہسٹری کیتے مرضی دیاں سیٹنگز ورتیسی۔
 history-private-browsing-permanent =
     .label = ہمیشاں نجی براوزنگ موڈ استعمال کرو
     .accesskey = p
@@ -1058,32 +1119,79 @@ history-clear-on-close-option =
 history-clear-on-close-settings =
     .label = ترتیباں …
     .accesskey = t
+history-shutdown-exceptions =
+    .label = استثناواں منیج کرو
+    .accesskey = x
 history-clear-button =
     .label = تاریخ صاف کرو…
     .accesskey = s
+history-header2 =
+    .heading = ہسٹری
+history-section-header =
+    .description = چݨو جو براؤزر بند کرݨ تے { -brand-short-name } کیا یاد رکھے۔
+    .label = ہسٹری
+history-custom-section-header =
+    .description = مرضی مطابق چݨو جو براؤزر بند کرݨ تے { -brand-short-name } کیا یاد رکھے۔
+    .label = ایڈوانسڈ سیٹنگز
+history-custom-button =
+    .label = چݨو جو { -brand-short-name } کیا یاد رکھے۔
 history-group =
     .label = تاریخ
 history-mode-radio-group =
     .aria-label = تاریخ
+history-remember-option-all2 =
+    .label = ہسٹری یاد رکھو
 
 ## Privacy Section - Site Data
 
 sitedata-total-size-calculating = سائٹ ڈیٹا تے کیشے دی سائز دی ڳݨ منج تھیندی پئی اے …
+# Variables:
+#   $value (number) - Value of the unit (for example: 4.6, 500)
+#   $unit (string) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size3 = ویب سائٹاں ہݨے ڈسک سپیس دا <strong>{ $value } { $unit }</strong> ورتیندیاں ہن۔
 sitedata-learn-more = ٻیا سِکھو
+sitedata-delete-on-close2 =
+    .label = کوکیز تے سائٹ ڈیٹا ہر واری صاف کرو جڈاں وی تساں { -brand-short-name } بند کرو۔
+    .accesskey = c
 sitedata-delete-on-close-private-browsing3 =
     .message = تُہاݙی تریخ دیاں ترتیباں دی بنیاد اُتے، جہڑیلے تُساں براؤز کوں اُچّا کرین٘دے ہِیوے تاں تُہاݙے سیشن کوکیز اَتے سائٹ دے ڈیٹا کوں { -brand-short-name } حذف کرین٘دا ہِے۔
+sitedata-delete-on-close-private-browsing4 =
+    .heading = ہسٹری سیو نیں تھیسی۔
+    .message = { -brand-short-name } براؤزر بند کرݨ تے تہاݙے سیشن دیاں کوکیز تے سائٹ ڈیٹا صاف کریندے۔
 sitedata-option-block-cross-site-trackers =
     .label = کراس-سائٹ ٹریکر
 sitedata-option-block-cross-site-tracking-cookies =
     .label = کراس۔سائٹ ٹریکنگ کوکیاں
+sitedata-option-block-cross-site-cookies2 =
+    .label = کراس سائٹ کوکیز الگ کرو
 sitedata-option-block-unvisited =
     .label = اݨ ݙٹھیاں ویب سائٹاں دیاں کوکیاں
 sitedata-option-block-all-cross-site-cookies =
     .label = ساریاں کراس سائٹ کوکیاں (ویب سائٹاں دے ترٹݨ دا سبب بݨ سڳدی ہے)
 sitedata-option-block-all =
     .label = ساریاں کوکیاں (ویب سائٹاں دے ترٹݨ دا سبب بݨ سڳدی ہے)
+sitedata-clear2 =
+    .label = براؤزنگ ڈیٹا صاف کرو
+    .accesskey = l
+sitedata-settings2 =
+    .label = براؤزنگ ڈیٹا منیج کرو
+    .accesskey = M
 sitedata-cookies-exceptions =
     .label = مستثنیات کوں منظم کرو …
+    .accesskey = x
+sitedata-cookies-exceptions2 =
+    .description = تساں چݨ سگدے ہو جو کڑھیاں ویب سائٹاں ہمیشہ یا کدی وی کوکیز تے سائٹ ڈیٹا ورتݨ دی اجازت رکھیندیاں ہن۔
+    .label = استثناواں منیج کرو
+    .accesskey = x
+sitedata-heading =
+    .description = اپݨیاں کوکیز، ہسٹری، کیشے، ویب سائٹ ڈیٹا تے بیا کجھ منیج کرو۔
+    .label = براؤزنگ ڈیٹا
+sitedata-settings3 =
+    .label = مخصوص سائٹاں کیتے ڈیٹا صاف کرو
+    .accesskey = s
+sitedata-cookies-exceptions3 =
+    .description = چݨو جو مخصوص سائٹاں کوکیز تے سائٹ ڈیٹا کیویں سنبھالین۔
+    .label = استثناواں منیج کرو
     .accesskey = x
 cookies-site-data-group =
     .label = کوکیاں تے سائٹ ڈیٹا
@@ -1117,9 +1225,38 @@ addressbar-locbar-shortcuts-option =
 addressbar-locbar-topsites-option =
     .label = چوٹی دیاں سائٹاں
     .accesskey = T
+addressbar-locbar-engines-option-1 =
+    .label = ورتن کیتے سرچ انجنز تجویز کرو
+    .accesskey = a
 addressbar-locbar-quickactions-option =
     .label = تیز عمل
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option-2 =
+    .label = حالیہ سرچز
+    .accesskey = r
+addressbar-locbar-showtrendingsuggestions-option-2 =
+    .label = ٹرینڈنگ سرچ تجویزاں
+    .accesskey = t
+# Toggles whether suggestions are obtained from Firefox Suggest or not (local or online).
+addressbar-locbar-suggest-all-option-2 =
+    .description = تہاݙی سرچ نال جُڑیاں ویب کنوں تجویزاں گھنو۔
+    .label = { -brand-short-name } کنوں تجویزاں
+addressbar-locbar-suggest-sponsored-option-2 =
+    .description = کدی کدی اسپانسر کردہ تجویزاں نال { -brand-short-name } دی سپورٹ کرو۔
+    .label = اسپانسرز کنوں تجویزاں
+# This string is used for a checkbox in the settings UI that opts the
+# user into "online" Firefox Suggest, allowing them to receive suggestions from
+# Mozilla's Merino server.
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since the online suggest is created and maintained
+# by Mozilla.
+addressbar-firefox-suggest-online =
+    .label = جیویں تساں ٹائپ کرو، Mozilla کنوں تجویزاں گھنو
+addressbar-dismissed-suggestions-label-2 =
+    .description = اسپانسرز تے { -brand-short-name } کنوں مسترد کردہ تجویزاں بحال کرو۔
+    .label = مسترد کردہ تجویزاں
+addressbar-restore-dismissed-suggestions-button-2 =
+    .label = تجویزاں بحال کرو
 
 ## Privacy Section - Content Blocking
 
@@ -1156,6 +1293,7 @@ content-blocking-private-windows = نجی ونڈوز وِچ مواد  دی  ٹر
 content-blocking-cross-site-cookies-in-all-windows2 = ساریاں ونڈوز وِچ کراس۔سائٹ کوکیاں
 content-blocking-cross-site-tracking-cookies = کراس۔سائٹ ٹریکنگ کوکیاں
 content-blocking-all-cross-site-cookies-private-windows = نجی ونڈوز وِچ کراس۔سائٹ کوکیاں
+content-blocking-isolate-cross-site-cookies = کراس سائٹ کوکیز الگ کرو
 content-blocking-social-media-trackers = سوشل میڈیا ٹریکرز
 content-blocking-all-cookies = تمام کوکیاں
 content-blocking-unvisited-cookies = ان ݙٹھیاں سائٹاں کنوں کوکیاں
@@ -1171,7 +1309,22 @@ content-blocking-known-and-suspected-fingerprinters = معلوم اَتے مشت
 content-blocking-etp-standard-tcp-rollout-description = ٹوٹل کوکی پروٹیکشن وِچ تساں جیڑھی سائٹ تے او اوندیاں کوکیاں تے مشتمل ہے، لہذا ٹریکرز انہاں سائٹاں دے وچال تہاݙی پیروی کرݨ کیتے استعمال نہیں کر سڳدے۔
 content-blocking-etp-standard-tcp-rollout-learn-more = ٻیا سِکھو
 content-blocking-etp-standard-tcp-title = بشمول ٹوٹل کوکی پروٹیکشن ، اساݙی ہݨ تک دی سبھ توں طاقتور رازداری دی خصوصیت
+content-blocking-warning-title-2 = کجھ سائٹاں سخت ٹریکنگ پروٹیکشن نال خراب تھی سگدیاں ہن۔
+content-blocking-warning-title-custom = کجھ سائٹاں کسٹم ٹریکنگ پروٹیکشن نال خراب تھی سگدیاں ہن۔
+# “Fix site issues” references the string content-blocking-exceptions-subheader
+content-blocking-and-isolating-etp-warning-description-4 = { -brand-short-name } ٹٹے ہوئے سائٹ فیچرز تے مواد گھٹاوݨ کیتے “Fix site issues” سیٹنگز ورتݨ دی سفارش کریندا ہے۔ جڈاں کوئی سائٹ ٹٹی ہوئی لڳے، تاں اوں سائٹ کیتے ٹریکنگ پروٹیکشن بند کرݨ دی کوشش کرو تاں جو سارا مواد لوڈ تھیوے۔
 content-blocking-warning-learn-how = ڄاݨو کیویں
+content-blocking-baseline-exceptions-3 =
+    .description = انہاں ضروری ایلیمنٹس کوں ان بلاک کرݨ نال سائٹاں تے فیچرز لوڈ کرݨ وچ مدد ملدی ہے جیہڑے ٹریکرز رکھ سگدے ہن۔ زیادہ تر عام مسئلے کور کریندا ہے۔
+    .label = سائٹ دے وݙے مسئلے ٹھیک کرو (سفارش کیتی ڳئی)
+# This option to fix minor site issues must be used with the option to fix major site issues (string content-blocking-baseline-exceptions-3)
+content-blocking-convenience-exceptions-3 =
+    .description = آرٹیکل وچ ویڈیوز یا کمنٹ سیکشنز جیہیاں چیزاں کوں بحال کریندا ہے، انہاں ایلیمنٹس کوں ان بلاک کرݨ نال جیہڑے ٹریکرز رکھ سگدے ہن۔ ایں نال سائٹ دے مسئلے گھٹ سگدے ہن پر گھٹ پروٹیکشن ملدی ہے۔ وݙے مسئلیاں دے فکسز نال ای استعمال کرݨا ضروری ہے۔
+    .label = سائٹ دے چھوٹے مسئلے ٹھیک کرو
+content-blocking-baseline-uncheck-warning-dialog-title = کیا تساں واقعی فکسز بند کرݨ چہندے او؟
+content-blocking-baseline-uncheck-warning-dialog-body = ایہ سیٹنگ سائٹ دے زیادہ تر عام مسئلیاں کوں ٹھیک کرݨ وچ مدد کریندی ہے۔ جڈاں تساں ایں کوں بند کرو، تاں کجھ سائٹاں کم نیں کرسگدیاں، تے { -brand-short-name } انہاں مسئلیاں دا مسئلہ حل کرݨ وچ مدد کرݨ دے قابل نیں ہوسی۔
+content-blocking-baseline-uncheck-warning-dialog-ok-button = فکسز بند کرو
+content-blocking-baseline-uncheck-warning-dialog-cancel-button = فکسز آن رکھو
 content-blocking-reload-description = تہاکوں انہاں تبدیلیاں کوں لاڳو کرݨ کیتے اپݨیاں ٹیباں کوں دوبارہ لوڈ کرݨ دی لوڑ پوسے۔
 content-blocking-reload-tabs-button =
     .label = سبھے ٹیباں ولا لوڈ کرو
@@ -1220,6 +1373,9 @@ permissions-notification-pause =
     .accesskey = n
 permissions-autoplay2 =
     .label = آٹو پلے
+permissions-block-popups2 =
+    .label = پاپ اپس تے تھرڈ پارٹی ری ڈائریکٹس بلاک کرو
+    .accesskey = B
 permissions-location2 =
     .label = مقام
 permissions-xr2 =
@@ -1334,6 +1490,22 @@ preferences-doh-select-resolver = مہیا کار چݨو…
 preferences-doh-manage-exceptions =
     .label = مستثنیات کوں منظم کرو …
     .accesskey = x
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active-local =
+    .message = DNS اوور HTTPS کم نیں کریندا پیا کیوں جو مقامی پرووائیڈر { $name } ورتدیاں ہویاں اساں کوں ہک ایرر ({ $reason }) آیا ہے۔
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active-local =
+    .message = DNS اوور HTTPS مقامی پرووائیڈر { $name } ورت ریہا ہے۔
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item =
+    .label = { $name }
+    .tooltiptext = ایں پرووائیڈر کوں DNS اوور HTTPS ریزالو کرݨ کیتے ورتو۔
+preferences-doh-custom-provider-label =
+    .aria-label = ہک کسٹم پرووائیڈر دا URL درج کرو۔
 
 ## The following strings are used in the Download section of settings
 
