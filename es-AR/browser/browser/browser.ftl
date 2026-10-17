@@ -1416,6 +1416,20 @@ reset-pbm-toolbar-button2 =
 fire-button-toolbar-button =
     .label = Borrar algunos o todos los datos de navegación
     .tooltiptext = Borrar algunos o todos los datos de navegación
+fire-button-panel-heading = ¿Borrar todos los datos de navegación?
+fire-button-panel-description = Esto borra el historial, las cookies y los datos del sitio. Se cerrará la sesión en los sitios. Esta ventana se cerrará y { -brand-short-name } abrirá una nueva.
+fire-button-panel-choose-description = Si no quiere borrar todo, se pueden elegir datos específicos en su lugar.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Seleccionar…
+fire-button-panel-cancel-button =
+    .label = Cancelar
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = Borrar todo
+    .accesskey = d
+fire-button-panel-complete = Datos de navegación borrados
 
 ## Autorefresh blocker
 

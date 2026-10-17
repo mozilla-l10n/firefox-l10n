@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Presentamos la VPN, ahora dentro del n
 ipprotection-feature-introduction-title-1 = Probar la VPN integrada de { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Use nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar su ubicación y proteger sus datos.
 ipprotection-feature-introduction-title-privacy = Agregar otra capa de privacidad
+ipprotection-feature-introduction-title-privacy-1 = Agregue otra capa de privacidad con la VPN incorporada
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger su navegación. Elija entre varias ubicaciones para mantener más privado desde donde navega.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger su navegación. Elija entre múltiples ubicaciones para mantener más privado desde donde navega.
 ipprotection-feature-introduction-link-text-privacy-3 = Consiga <a data-l10n-name="learn-more-vpn">privacidad adicional</a> eligiendo entre múltiples ubicaciones para ocultar desde dónde navega.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Entendido
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Establecer reglas de VPN integrada y después navegar
 ipprotection-site-inclusions-callout-title-lapsed-users = Pruebe la VPN integrada, ahora sitio por sitio.
+ipprotection-site-inclusions-callout-description-1 = Active la VPN cuando quiera privacidad adicional o navegación basada en la ubicación, y desactívela donde no quiera.
 ipprotection-site-inclusions-callout-description = Actívela cuando quiera privacidad adicional o navegación basada en la ubicación, y desactívela donde no quiera.
 ipprotection-site-inclusions-callout-primary-button = Establecer reglas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = No ahora
@@ -144,6 +146,12 @@ site-rules-status-heading = Regla personalizada
 site-rules-description-exclusion = VPN desactivada para este sitio
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN activada para este sitio
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = ¿Siempre activar la VPN para { $website }?
+    .message = Actualice las reglas en cualquier momento en la configuración.
 ipprotection-settings-link =
     .label = Configuración
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = Conocer más
 ip-protection-not-opted-in-4 =
     .heading = Probar la VPN integrada de { -brand-short-name }
     .message = Navegación con protección extra ocultando su ubicación.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = ¿Listo para probar?
+    .message = Obtenga { $maxUsage } GB gratis cada mes y elija qué sitios usan VPN.
 ip-protection-not-opted-in-button = Comenzar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -283,6 +296,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Establecer reglas para sitios que necesitan privacidad adicional o VPN desactivada.
     .label = Administrar reglas de VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Establecer reglas para activar o desactivar la VPN automáticamente.
+    .label = Reglas del sitio web
 ip-protection-site-rules-add-button =
     .label = Establecer regla
 ip-protection-site-rules-delete-all-button =
@@ -365,6 +381,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = ¿Borrar todas las reglas de sitios web?
 ip-protection-delete-all-site-rules-confirm =
     .label = Borrar todas las reglas
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = No se pudo borrar la regla
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = No se pudieron borrar las reglas
+ip-protection-delete-site-rule-retry =
+    .label = Intentar nuevamente
 
 ## IP Protection Bandwidth
 
