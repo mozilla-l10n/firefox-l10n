@@ -146,6 +146,12 @@ site-rules-status-heading = Wašo pšawidło
 site-rules-description-exclusion = VPN jo za toś to sedło znjemóžnjony
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN jo za toś to sedło zmóžnjony
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = VPN za { $website } pśecej zmóžniś?
+    .message = Aktualizěrujśo swóje pšawidła w nastajenjach kuždy cas.
 ipprotection-settings-link =
     .label = Nastajenja
 
@@ -270,6 +276,11 @@ ip-protection-learn-more = Dalšne informacije
 ip-protection-not-opted-in-4 =
     .heading = Wopytajśo zatwarjony VPN { -brand-short-name }
     .message = Schowajśo swójo stojnišćo, aby z pśidatnym šćitom pśeglědował.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Sćo gótowy, jen wopytaś?
+    .message = Wobstarajśo se { $maxUsage } GB dermo za kuždy mjasec a wubjeŕśo, kótare sedła VPN wužywaju.
 ip-protection-not-opted-in-button = Prědne kšace
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
