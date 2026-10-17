@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = 새 가상 현실 기기 접근 요청을 차단
 permissions-site-xr-disable-desc = 이렇게 하면 위에 나열되지 않은 웹 사이트가 가상 현실 기기에 대한 접근 권한을 요청하지 못하게됩니다. 가상 현실 기기에 대한 접근을 차단하면 일부 웹 사이트 기능이 손상될 수 있습니다.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = 설정 - 앱 링크가 차단된 사이트
+permissions-site-app-links-desc = 이 사이트는 이메일 (mailto:)과 같은 앱 링크 열기 요청이 차단되어 있습니다. 다시 묻게 하려면 사이트를 삭제하세요.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

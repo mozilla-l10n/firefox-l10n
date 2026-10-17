@@ -146,6 +146,12 @@ site-rules-status-heading = 내 규칙
 site-rules-description-exclusion = 이 사이트에서 VPN 꺼짐
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = 이 사이트에서 VPN 켜짐
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = { $website }에 VPN을 항상 켜시겠습니까?
+    .message = 설정에서 언제든지 규칙을 변경할 수 있습니다.
 ipprotection-settings-link =
     .label = 설정
 
@@ -270,6 +276,11 @@ ip-protection-learn-more = 더 알아보기
 ip-protection-not-opted-in-4 =
     .heading = { -brand-short-name }의 내장 VPN을 사용해 보세요
     .message = 위치를 숨겨 탐색을 추가 보호합니다.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = 사용해 볼 준비가 되셨나요?
+    .message = 매달 { $maxUsage } GB를 무료로 사용하고 VPN을 사용할 사이트를 선택하세요.
 ip-protection-not-opted-in-button = 시작하기
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -281,6 +292,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = 추가적인 개인 정보 보호가 필요하거나 VPN이 꺼져야 하는 사이트에 규칙을 설정하세요.
     .label = VPN 규칙 관리
+ip-protection-site-rules-list-section-1 =
+    .description = 규칙을 설정하여 VPN을 자동으로 켜거나 끕니다.
+    .label = 웹 사이트 규칙
 ip-protection-site-rules-add-button =
     .label = 규칙 설정
 ip-protection-site-rules-delete-all-button =
@@ -363,6 +377,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = 모든 웹 사이트 규칙을 삭제하시겠습니까?
 ip-protection-delete-all-site-rules-confirm =
     .label = 모든 규칙 삭제
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = 규칙을 삭제할 수 없음
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = 규칙을 삭제할 수 없음
+ip-protection-delete-site-rule-retry =
+    .label = 다시 시도
 
 ## IP Protection Bandwidth
 
