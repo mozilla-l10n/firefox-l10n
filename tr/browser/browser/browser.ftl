@@ -1410,6 +1410,27 @@ reset-pbm-toolbar-button2 =
     .label = Gizli oturumu temizle
     .tooltiptext = Gizli oturumu temizle
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Gezinti verilerimin bir kısmını veya tamamını sil
+    .tooltiptext = Gezinti verilerimin bir kısmını veya tamamını sil
+fire-button-panel-heading = Tüm gezinti verileri silinsin mi?
+fire-button-panel-description = Bu işlem geçmişi, çerezleri ve site verilerini siler. Sitelerdeki oturumlarınız sonlandırılır. Bu pencere kapanır ve yeni bir { -brand-short-name } penceresi açılır.
+fire-button-panel-choose-description = Her şeyi silmek istemiyorsanız yalnızca silinecek verileri seçin.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Seç…
+fire-button-panel-cancel-button =
+    .label = Vazgeç
+    .accesskey = V
+fire-button-panel-confirm-button =
+    .label = Tümünü sil
+    .accesskey = T
+fire-button-panel-complete = Gezinti verileri silindi
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu sayfanın kendiliğinden yenilenmesini önledi.

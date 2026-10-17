@@ -287,7 +287,7 @@ ip-protection-site-rules-add-button =
     .label = Kural ekle
 ip-protection-site-rules-delete-all-button =
     .label = Tüm kuralları sil
-ip-protection-site-rules-empty = Belirlediğiniz kurallar burada görünecektir.
+ip-protection-site-rules-empty = Eklediğiniz kurallar burada görünecektir.
 # Shown on a website whose rule turns the VPN on for it
 ip-protection-site-rules-rule-included = VPN her zaman açık
 # Shown on a website whose rule turns the VPN off for it

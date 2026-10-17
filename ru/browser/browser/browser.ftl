@@ -1422,6 +1422,27 @@ reset-pbm-toolbar-button2 =
     .label = Очистить приватную сессию
     .tooltiptext = Очистить приватную сессию
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Удалите некоторые или все данные своего веб-сёрфинга
+    .tooltiptext = Удалите некоторые или все данные своего веб-сёрфинга
+fire-button-panel-heading = Удалить все данные просмотра?
+fire-button-panel-description = Это действие удалит историю, куки и данные сайтов. Будет совершён выход на сайтах. Это окно закроется, и { -brand-short-name } откроет новое.
+fire-button-panel-choose-description = Если вы не хотите удалять всё, выберите отдельные данные.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Выбрать…
+fire-button-panel-cancel-button =
+    .label = Отмена
+    .accesskey = С
+fire-button-panel-confirm-button =
+    .label = Удалить все
+    .accesskey = В
+fire-button-panel-complete = Данные просмотра удалены
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } заблокировал автоматическую перезагрузку этой страницы.

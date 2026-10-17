@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Tüm geçmişi sil
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Gezinti verilerini sil
 clear-data-settings-label = { -brand-short-name } kapatıldığında aşağıdakileri otomatik olarak temizlesin
 sanitize-on-shutdown-description = { -brand-short-name } kapatıldığında işaretli tüm öğeleri otomatik olarak temizle.
 
@@ -116,6 +123,14 @@ sanitize-button-ok2 =
     .label = Temizle
 sanitize-button-ok-on-shutdown =
     .label = Değişiklikleri kaydet
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Sil
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Kapat
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

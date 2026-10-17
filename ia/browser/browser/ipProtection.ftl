@@ -296,6 +296,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Defini regulas pro sitos que besonia de ulterior confidentialitate o VPN disactivate.
     .label = Gerer regulas de VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Stabili le regulas pro automaticamente automaticamente activar o disactivar le VPN.
+    .label = Regulas de sito web
 ip-protection-site-rules-add-button =
     .label = Stabilir regula
 ip-protection-site-rules-delete-all-button =
@@ -378,6 +381,10 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Deler tote le regulas del sito web?
 ip-protection-delete-all-site-rules-confirm =
     .label = Deler tote le regulas
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Impossibile deler regula
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Impossibile deler regulas
 ip-protection-delete-site-rule-retry =
     .label = Retentar
 
