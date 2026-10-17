@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Енді браузеріңіздің 
 ipprotection-feature-introduction-title-1 = { -brand-product-name } құрамындағы VPN қолданып көріңіз
 ipprotection-feature-introduction-link-text-2 = Орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-title-privacy = Жекеліктің тағы бір деңгейін қосыңыз
+ipprotection-feature-introduction-title-privacy-1 = Кіріктірілген VPN арқылы жекеліктің тағы бір деңгейін қосыңыз
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } кірістірілген VPN-і</a> шолуыңызды қорғауға көмектеседі. Шолу орнын құпиялырақ сақтау үшін бірнеше орналасудың бірін таңдаңыз.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ішіне орнатылған VPN</a> шолуыңызды қорғауға көмектеседі. Шолуыңызды көбірек жеке сақтау үшін бірнеше орналасудың бірін таңдаңыз.
 ipprotection-feature-introduction-link-text-privacy-3 = Шолу кезінде қай жерде екеніңізді жасыру үшін бірнеше орналасудың бірін таңдап, <a data-l10n-name="learn-more-vpn">қосымша жекелікке</a> қол жеткізіңіз.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Түсіндім
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Кіріктірілген VPN ережелерін орнатыңыз, содан кейін шолуды жалғастырыңыз
 ipprotection-site-inclusions-callout-title-lapsed-users = Кіріктірілген VPN қолданып көріңіз, енді оны сайт бойынша іске қосуға болады
+ipprotection-site-inclusions-callout-description-1 = Қосымша жекелік немесе орналасуға негізделген шолу қажет болғанда VPN іске қосыңыз, ал қажет болмаған кезде сөндіріңіз.
 ipprotection-site-inclusions-callout-description = Қосымша жекелік немесе орналасуға негізделген шолу қажет болғанда оны іске қосыңыз, ал қажет болмаған кезде сөндіріңіз.
 ipprotection-site-inclusions-callout-primary-button = Ережелерді орнату
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Қазір емес
@@ -144,6 +146,12 @@ site-rules-status-heading = Сіздің ережеңіз
 site-rules-description-exclusion = VPN бұл сайт үшін сөндірулі тұр
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = Бұл сайт үшін VPN іске қосулы тұр
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = { $website } үшін VPN әрқашан іске қосу керек пе?
+    .message = Ережелерді кез келген уақытта параметрлерден жаңартыңыз.
 ipprotection-settings-link =
     .label = Баптаулар
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = Көбірек білу
 ip-protection-not-opted-in-4 =
     .heading = { -brand-short-name } құрамындағы VPN мүмкіндігін байқап көріңіз.
     .message = Орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Оны қолданып көруге дайынсыз ба?
+    .message = Ай сайын { $maxUsage } ГБ тегін алыңыз және VPN пайдаланатын сайттарды таңдаңыз.
 ip-protection-not-opted-in-button = Бастау
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -283,6 +296,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Қосымша жекелікті қажет ететін немесе VPN сөндірілген сайттар үшін ережелерді орнату.
     .label = VPN ережелерін басқару
+ip-protection-site-rules-list-section-1 =
+    .description = VPN-ді автоматты түрде іске қосу немесе сөндіру ережелерін орнатыңыз.
+    .label = Веб-сайт ережелері
 ip-protection-site-rules-add-button =
     .label = Ережені орнату
 ip-protection-site-rules-delete-all-button =
@@ -365,6 +381,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Барлық веб-сайт ережелерін өшіру керек пе?
 ip-protection-delete-all-site-rules-confirm =
     .label = Барлық ережелерді өшіру
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Ережені өшіру сәтсіз аяқталды
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Ережелерді өшіру сәтсіз аяқталды
+ip-protection-delete-site-rule-retry =
+    .label = Қайтадан көру
 
 ## IP Protection Bandwidth
 

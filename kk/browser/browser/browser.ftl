@@ -1411,6 +1411,27 @@ reset-pbm-toolbar-button2 =
     .label = Жекелік сессияны тазарту
     .tooltiptext = Жекелік сессияны тазарту
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Браузер деректеріңіздің бір бөлігін немесе барлығын өшіру
+    .tooltiptext = Браузер деректеріңіздің бір бөлігін немесе барлығын өшіру
+fire-button-panel-heading = Барлық шолу деректерін өшіру керек пе?
+fire-button-panel-description = Бұл тарихты, cookie файлдарын және сайт деректерін өшіреді. Сіз сайттардан шығасыз. Бұл терезе жабылады және { -brand-short-name } жаңа терезе ашады.
+fire-button-panel-choose-description = Барлық деректерді бірдей өшіргіңіз келмесе, оның орнына нақты деректерді таңдаңыз.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Таңдау…
+fire-button-panel-cancel-button =
+    .label = Бас тарту
+    .accesskey = с
+fire-button-panel-confirm-button =
+    .label = Барлығын өшіру
+    .accesskey = ш
+fire-button-panel-complete = Шолу деректері өшірілді
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } осы парақтың өзіндік жаңартуын тоқтатты.

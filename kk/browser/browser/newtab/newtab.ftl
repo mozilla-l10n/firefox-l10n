@@ -498,6 +498,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = Осы күннің мәзірі суретін ашу
     .title = Осы күннің мәзірі суретін ашу
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Бұл суретті тұсқағазыңыз ретінде орнату
+    .label = Тұсқағаз ретінде орнату
+    .title = Тұсқағаз ретінде орнату
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -506,6 +513,10 @@ newtab-picture-set-wallpaper =
     .title = Тұсқағаз ретінде орнату
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Тұсқағазды басқару
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Бұл суретті жасыру
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Суретті көрсету
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Бүгінгі суретті жасыру
@@ -513,6 +524,10 @@ newtab-picture-menu-hide-photo = Бүгінгі суретті жасыру
 newtab-picture-menu-show-photo = Бүгінгі суретті көрсету
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Көбірек білу
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Суретті көрсету
+    .title = Суретті көрсету
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Бүгінгі суретті көрсету
@@ -577,6 +592,9 @@ newtab-horoscopes-menu-learn-more = Көбірек білу
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Саяхат
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Көбірек білу
 
