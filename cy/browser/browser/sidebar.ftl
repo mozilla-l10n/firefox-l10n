@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = Ymwelwyd ddiwethaf
 sidebar-history-sort-option-most-visited =
     .label = Ymwelwyd amlaf
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Wedi colli  rhywbeth? Cymrwch yr hanes o borwr arall.
+sidebar-history-import-promo-button =
+    .label = Mewnforio i { -brand-short-name }
 
 ## Labels for sidebar search
 

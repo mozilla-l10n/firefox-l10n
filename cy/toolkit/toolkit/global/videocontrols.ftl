@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Nid yw'r fformat fideo na'r math MIME yn
 videocontrols-error-no-source = Heb ganfod fideo gyda fformat sy'n cael ei gynnal na math MIME.
 videocontrols-error-generic = Ataliwyd chwarae'r fideo oherwydd gwall anhysbys.
 videocontrols-status-picture-in-picture = Mae'r fideo hwn yn chwarae yn y modd Llun-mewn-Llun.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Mae fideo yn chwarae yn Llun-mewn-Llun
 # This message shows the current position and total video duration
 #
 # Variables:
