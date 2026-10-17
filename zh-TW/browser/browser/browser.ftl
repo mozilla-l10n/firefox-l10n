@@ -1400,6 +1400,8 @@ fire-button-toolbar-button =
     .label = 刪除您部分或全部的瀏覽資料
     .tooltiptext = 刪除您部分或全部的瀏覽資料
 fire-button-panel-heading = 要刪除所有瀏覽資料嗎？
+fire-button-panel-description = 將清除瀏覽紀錄、Cookie 與網站資料，並將您登出所有網站。此視窗將會關閉，接著 { -brand-short-name } 會開啟新視窗。
+fire-button-panel-choose-description = 若不想刪除所有資料，可以只選擇特定資料進行刪除。
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.
