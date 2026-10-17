@@ -1405,6 +1405,20 @@ reset-pbm-toolbar-button2 =
     .label = Tøm privat økt
     .tooltiptext = Tøm privat økt
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Vel…
+fire-button-panel-cancel-button =
+    .label = Avbryt
+    .accesskey = A
+fire-button-panel-confirm-button =
+    .label = Slett alle
+    .accesskey = S
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } hindra denne nettsida frå å automatisk laste på nytt.
