@@ -4,6 +4,12 @@
 
 protocolhandler-mailto-os-handler-yes-button = Iestatīt kā noklusējuma
 protocolhandler-mailto-os-handler-no-button = Ne tagad
+# Button in the notification bar shown when a website asks to register as an
+# application handler, for example for email links. Blocks the website from
+# asking again.
+protocolhandler-never-allow-button =
+    .label = Nekad neatļaut
+    .accesskey = N
 # Variables:
 #  $host (String): The domain of the web application registering as a protocol handler.
 #  $protocol (String): The type of protocol (e.g. "web+example").

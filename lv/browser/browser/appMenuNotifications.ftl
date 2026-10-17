@@ -45,7 +45,7 @@ appmenu-addon-post-install-message3 = Pārvaldiet savus paplašinājumus un mot�
 # has been installed, when the data collection feature is enabled.
 appmenu-addon-post-install-message-with-data-collection = Atļaujas un datu iestatījumus jebkurā brīdī var atjaunināt <a data-l10n-name="settings-link">paplašinājuma iestatījumos</a>.
 appmenu-addon-post-install-pin-toolbarbutton-checkbox =
-    .label = Piespraust paplašinājumu rīkjoslai
+    .label = Piespraust paplašinājumu rīkjoslā
     .accesskey = P
 appmenu-new-tab-controlled-changes =
     .buttonlabel = Paturēt izmaiņas

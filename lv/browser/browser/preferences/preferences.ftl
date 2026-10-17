@@ -1253,6 +1253,15 @@ permissions-block-popups-exceptions-button4 =
     .label = Pārvaldīt izņēmumus
     .searchkeywords = uznirstošie logi
     .accesskey = i
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Ļaut vietnēm vaicāt atvērt lietotņu saites.
+    .accesskey = v
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Pārvaldīt liegtās vietnes
+    .accesskey = P
 permissions-location2 =
     .label = Atrašanās vieta
 permissions-xr2 =

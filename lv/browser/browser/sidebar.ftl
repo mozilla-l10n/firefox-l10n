@@ -21,6 +21,12 @@ sidebar-history-date-prev-month =
     .heading = { DATETIME($date, month: "long", year: "numeric") }
 sidebar-history-delete =
     .title = Izdzēst no vēstures
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Kaut kā pietrūkst? Iegūsti vēsturi no cita pārlūka!
+sidebar-history-import-promo-button =
+    .label = Ievietot { -brand-short-name }
 
 ## Labels for sidebar search
 

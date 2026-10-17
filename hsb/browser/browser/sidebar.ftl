@@ -52,6 +52,8 @@ sidebar-history-sort-option-last-visited =
     .label = Posledni raz wopytany
 sidebar-history-sort-option-most-visited =
     .label = Najhusćišo wopytane
+sidebar-history-import-promo-button =
+    .label = Do { -brand-short-name } importować
 
 ## Labels for sidebar search
 

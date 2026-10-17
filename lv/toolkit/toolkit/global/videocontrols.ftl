@@ -34,6 +34,8 @@ videocontrols-error-decode = Video nevar atskaņot, jo datne ir bojāta.
 videocontrols-error-src-not-supported = Video formāts vai MIME veids nav atbalstīs.
 videocontrols-error-no-source = Netika atrasts atbalstīta formāta vai MIME tipa video.
 videocontrols-error-generic = Video atskaņošana apturēta nezināmas kļūmes dēļ.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Video tiek atskaņots “Attēls attēlā” logā
 # This message shows the current position and total video duration
 #
 # Variables:

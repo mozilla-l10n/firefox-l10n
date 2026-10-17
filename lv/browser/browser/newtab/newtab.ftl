@@ -627,6 +627,10 @@ newtab-custom-widget-search-toggle =
     .label = Meklēt
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskopi
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Ceļošana
 newtab-custom-settings = Pārvaldīt vairāk iestatījumu
 
 ## Customization Menu

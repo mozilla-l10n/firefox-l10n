@@ -153,6 +153,15 @@ permissions-site-xr-disable-label =
     .label = Liegt jaunus pieprasījumus, kuros tiek lūgts piekļūt virtuālās realitātes ierīcēm
 permissions-site-xr-disable-desc = Tas liegs vietnēm, kas nav norādītas iepriekš, pieprasīt atļauju piekļūt jūsu virtuālās realitātes ierīcēm. Bloķējot piekļuvi virtuālās realitātes ierīcēm, var nestrādāt dažu vietņu funkcijas.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Iestatījumi — Lietotņu saitēm liegtās vietnes
+permissions-site-app-links-desc = Šīm vietnēm ir liegts vaicāt atvērt lietotņu saites, piemēram, e-pasta (mailto:). Vietne ir jānoņem, lai atļautu tai atkal vaicāt.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

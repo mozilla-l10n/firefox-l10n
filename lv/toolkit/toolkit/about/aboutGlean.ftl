@@ -5,3 +5,7 @@
 
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Informācija par klientu
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Informācija par ping

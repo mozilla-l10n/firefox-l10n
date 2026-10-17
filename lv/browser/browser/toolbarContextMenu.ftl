@@ -77,7 +77,7 @@ toolbar-context-menu-view-customize-toolbar-2 =
 # This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
 # is hidden, so they can share access keys.
 toolbar-context-menu-pin-to-toolbar =
-    .label = Piespraust rīkjoslai
+    .label = Piespraust rīkjoslā
     .accesskey = P
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Vienmēr rādīt

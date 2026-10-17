@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 40em
     .title = Dzēst visu vēsturi
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Izdzēst pārlūkošanas datus
 clear-data-settings-label = Kad es aizveru { -brand-short-name } dzēst šo
 sanitize-on-shutdown-description = Automātiski notīrīt visus atzīmētos vienumus, kad { -brand-short-name } aizveras.
 
@@ -112,6 +119,14 @@ sanitize-button-ok2 =
     .label = Notīrīt
 sanitize-button-ok-on-shutdown =
     .label = Saglabāt izmaiņas
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Izdzēst
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Aizvērt
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

@@ -18,6 +18,18 @@ about-processes-column-cpu-total-tab = CPU
 # Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
 about-processes-column-memory-resident-tab = Atmiņa
 
+## Details within processes
+
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [zero] { $count } ciļņu
+        [one] { $count } cilne
+       *[other] { $count } cilnes
+    }
+
 ## Utility process actor names
 
 about-processes-utility-actor-hw-inference = Aparatūras paātrināts izvedums

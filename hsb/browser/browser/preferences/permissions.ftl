@@ -163,6 +163,14 @@ permissions-site-xr-disable-label =
     .label = Nowe žadanja za přistupom k wašim gratam wirtualneje reality
 permissions-site-xr-disable-desc = To budźe websydła, kotrež horjeka w lisćinje podate njejsu, při žadanju za přistupom k wašim gratam wirtualneje reality haćić. Hdyž přistup k swojim gratam wirtualneje reality blokujeće, móže so stać, zo někotre funkcije websydła njefunguja.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Nastajenja – zablokowane sydła za nałoženske wotkazy
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

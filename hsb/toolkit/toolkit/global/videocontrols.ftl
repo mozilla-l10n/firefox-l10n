@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Widejowy format abo MIME-typ so njepodp�
 videocontrols-error-no-source = Widejo z podpěranym formatom a MIME-typom njeje so namakało.
 videocontrols-error-generic = Wothrawanje wideja je so njeznateho zmylka dla přetorhnyło.
 videocontrols-status-picture-in-picture = Tute widejo so w modusu wobraz-we-wobrazu wothrawa.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Widejo so w modusu wobraz-we-wobrazu wothrawa.
 # This message shows the current position and total video duration
 #
 # Variables:

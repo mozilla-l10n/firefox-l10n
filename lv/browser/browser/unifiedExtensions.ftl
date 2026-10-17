@@ -25,7 +25,7 @@ unified-extensions-item-message-manage = Pārvaldīt paplašinājumu
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
-    .label = Piespraust rīkjoslai
+    .label = Piespraust rīkjoslā
 unified-extensions-context-menu-manage-extension =
     .label = Pārvaldīt paplašinājumu
 unified-extensions-context-menu-remove-extension =
