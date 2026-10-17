@@ -1393,6 +1393,25 @@ reset-pbm-toolbar-button2 =
     .label = 清除隱私瀏覽階段
     .tooltiptext = 清除隱私瀏覽階段
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = 刪除您部分或全部的瀏覽資料
+    .tooltiptext = 刪除您部分或全部的瀏覽資料
+fire-button-panel-heading = 要刪除所有瀏覽資料嗎？
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = 選擇…
+fire-button-panel-cancel-button =
+    .label = 取消
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = 全部刪除
+    .accesskey = D
+fire-button-panel-complete = 已刪除瀏覽資料
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } 已阻止本頁面自動重新載入。

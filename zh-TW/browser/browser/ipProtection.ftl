@@ -268,6 +268,11 @@ ip-protection-learn-more = 更多資訊
 ip-protection-not-opted-in-4 =
     .heading = 試用 { -brand-short-name } 的內建 VPN
     .message = 隱藏您的實際所在位置，讓上網更加一層保護。
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = 準備好試用了嗎？
+    .message = 每月免費獲得 { $maxUsage } GB 的免費流量，並可自行選擇要讓哪些網站透過 VPN 連線。
 ip-protection-not-opted-in-button = 開始使用
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -279,6 +284,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = 為需要加強保護隱私或關閉 VPN 才能使用的網站設定規則。
     .label = 管理 VPN 規則
+ip-protection-site-rules-list-section-1 =
+    .description = 設定自動開啟或關閉 VPN 的規則。
+    .label = 網站規則
 ip-protection-site-rules-add-button =
     .label = 設定規則
 ip-protection-site-rules-delete-all-button =
@@ -361,6 +369,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = 要刪除所有網站規則嗎？
 ip-protection-delete-all-site-rules-confirm =
     .label = 刪除所有規則
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = 無法刪除規則
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = 無法刪除規則
+ip-protection-delete-site-rule-retry =
+    .label = 重試
 
 ## IP Protection Bandwidth
 

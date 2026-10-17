@@ -237,6 +237,11 @@ highlight-to-search-settings-ask-provider =
     .label = 問問 { $provider }
 highlight-to-search-settings-ask-generic =
     .label = 問問 AI
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = 搜尋
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = 想要用 AI 看到更多內容嗎？
 # Message that appears when user is shown the opt-in flow for link previews

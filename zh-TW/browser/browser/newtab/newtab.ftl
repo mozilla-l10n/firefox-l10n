@@ -443,6 +443,10 @@ newtab-stocks-watchlist-full = 您最多可加入 { $limit } 支股票。移除�
 newtab-picture-header = 每日一圖 · 維基共享資源
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = 每日一圖
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = 每日一圖：{ DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
