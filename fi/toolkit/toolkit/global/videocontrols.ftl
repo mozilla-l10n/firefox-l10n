@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Videon tiedostomuoto tai MIME-tyyppi ei 
 videocontrols-error-no-source = Ei löytynyt videota tuetussa tiedostomuodossa ja MIME-tyypissä.
 videocontrols-error-generic = Videon toisto keskeytynyt tuntemattoman virheen vuoksi.
 videocontrols-status-picture-in-picture = Tätä videota toistetaan kuva kuvassa -tilassa.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Videota toistetaan kuva kuvassa -tilassa
 # This message shows the current position and total video duration
 #
 # Variables:

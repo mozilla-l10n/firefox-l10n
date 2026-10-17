@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = Viimeksi vierailtu
 sidebar-history-sort-option-most-visited =
     .label = Useimmin vierailtu
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Puuttuuko jotain? Hae historiatiedot toisesta selaimesta.
+sidebar-history-import-promo-button =
+    .label = Tuo { -brand-short-name }iin
 
 ## Labels for sidebar search
 

@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Valmis
 default-browser-guidance-notification-v2-title = Viimeistele { -brand-short-name }in asettaminen oletusselaimeksi
 default-browser-guidance-notification-v2-body = Valitse asetuksista { -brand-short-name }in kohdalla ”Aseta oletukseksi”.
 default-browser-guidance-notification-v2-title-only = Viimeistele { -brand-short-name }in asettaminen oletusselaimeksi asetuksissa
+default-browser-guidance-notification-auto-trigger-title = Avaa linkit { -brand-short-name }illa
+default-browser-guidance-notification-auto-trigger-body = Valitse { -brand-short-name } oletusselaimeksi asetuksissa.

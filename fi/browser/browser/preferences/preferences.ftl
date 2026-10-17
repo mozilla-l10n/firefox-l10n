@@ -1799,6 +1799,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Valitse, mitkä verkkosivustot voivat asentaa laajennuksia
     .accesskey = a
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Salli sivustojen pyytää avaamaan sovelluslinkkejä.
+    .accesskey = S
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Hallitse estettyjä sivustoja
+    .accesskey = H
 permissions-location2 =
     .label = Sijainti
 permissions-localhost2 =

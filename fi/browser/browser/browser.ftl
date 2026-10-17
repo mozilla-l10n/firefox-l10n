@@ -1404,6 +1404,27 @@ reset-pbm-toolbar-button2 =
     .label = Tyhjennä yksityinen istunto
     .tooltiptext = Tyhjennä yksityinen istunto
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Poista osa tai kaikki selaustietosi
+    .tooltiptext = Poista osa tai kaikki selaustietosi
+fire-button-panel-heading = Poistetaanko kaikki selaustiedot?
+fire-button-panel-description = Tämä poistaa historian, evästeet ja sivustotiedot. Sinut kirjataan ulos sivustoilta. Tämä ikkuna sulkeutuu ja { -brand-short-name } avaa uuden ikkunan.
+fire-button-panel-choose-description = Jos et halua poistaa kaikkea, valitse sen sijaan poistettavat tiedot yksittäin.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Valitse…
+fire-button-panel-cancel-button =
+    .label = Peruuta
+    .accesskey = P
+fire-button-panel-confirm-button =
+    .label = Poista kaikki
+    .accesskey = P
+fire-button-panel-complete = Selaustiedot poistettu
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } esti sivua päivittymästä.
