@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Neue Anfragen für den Zugriff auf Ihre VR-Geräte blockieren
 permissions-site-xr-disable-desc = Dies wird alle nicht oben aufgeführten Websites daran hindern, um die Erlaubnis für den Zugriff auf Ihre VR-Geräte anzufragen. Durch das Blockieren des Zugriffs auf Ihre VR-Geräte können einige Funktionen von Webseiten nicht mehr funktionieren.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Einstellungen - Blockierte Websites für App-Links
+permissions-site-app-links-desc = Diese Websites dürfen nicht anfragen, ob App-Links wie E-Mail-Links (mailto:) geöffnet werden sollen. Entfernen Sie eine Website, damit sie wieder anfragen darf.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

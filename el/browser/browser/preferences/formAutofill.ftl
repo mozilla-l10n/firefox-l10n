@@ -124,6 +124,10 @@ autofill-card-billing-address-2 =
     .label = Διεύθυνση χρέωσης
 # "CVV" is a common abbreviation for the security code printed on a payment
 # card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-optional =
+    .label = CVV (προαιρετικό)
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code =
     .label = CVV
 autofill-card-name-on-card = Όνομα στην κάρτα

@@ -163,6 +163,14 @@ permissions-site-xr-disable-label =
     .label = Αποκλεισμός νέων αιτημάτων πρόσβασης σε συσκευές εικονικής πραγματικότητας
 permissions-site-xr-disable-desc = Αυτό θα εμποδίσει τα αιτήματα πρόσβασης στις συσκευές εικονικής πραγματικότητάς σας από όλους τους ιστοτόπους που δεν αναγράφονται παραπάνω. Ο αποκλεισμός πρόσβασης στις συσκευές εικονικής πραγματικότητάς σας ενδέχεται να προκαλέσει δυσλειτουργία σε ορισμένους ιστοτόπους.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Ρυθμίσεις - Αποκλεισμένοι ιστότοποι για συνδέσμους εφαρμογών
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

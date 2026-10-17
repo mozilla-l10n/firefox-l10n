@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = Τελευταία επίσκεψη
 sidebar-history-sort-option-most-visited =
     .label = Περισσότερες επισκέψεις
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Λείπει κάτι; Εισαγάγετε το ιστορικό από άλλο πρόγραμμα περιήγησης.
+sidebar-history-import-promo-button =
+    .label = Εισαγωγή στο { -brand-short-name }
 
 ## Labels for sidebar search
 

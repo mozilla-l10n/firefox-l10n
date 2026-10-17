@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Τέλος
 default-browser-guidance-notification-v2-title = Ολοκληρώστε τον ορισμό του { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης
 default-browser-guidance-notification-v2-body = Στις Ρυθμίσεις, επιλέξτε «Ορισμός προεπιλογής» για το { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Ολοκληρώστε τον ορισμό του { -brand-short-name } ως προεπιλεγμένου προγράμματος περιήγησης στις Ρυθμίσεις
+default-browser-guidance-notification-auto-trigger-title = Ανοίξτε τους συνδέσμους σας με το { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Επιλέξτε το { -brand-short-name } ως προεπιλεγμένο πρόγραμμα περιήγησης στις Ρυθμίσεις.

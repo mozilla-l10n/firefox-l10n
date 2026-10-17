@@ -1322,6 +1322,7 @@ filepicker-blocked-infobar = Ο οργανισμός σας έχει αποκλ�
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = Η συντόμευση { $searchTabsShortcut } κάνει πλέον αναζήτηση στις καρτέλες
 urlbar-addons-shortcut-moved-description = Για να ανοίξετε τις επεκτάσεις και τα θέματα, πατήστε { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = Διαχείριση συντομεύσεων
 urlbar-addons-shortcut-moved-dismiss = Το κατάλαβα
@@ -1409,6 +1410,27 @@ reset-pbm-panel-complete = Τα δεδομένα της ιδιωτικής συ�
 reset-pbm-toolbar-button2 =
     .label = Απαλοιφή ιδιωτικής συνεδρίας
     .tooltiptext = Απαλοιφή ιδιωτικής συνεδρίας
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Διαγράψτε μερικά ή όλα τα δεδομένα περιήγησής σας
+    .tooltiptext = Διαγράψτε μερικά ή όλα τα δεδομένα περιήγησής σας
+fire-button-panel-heading = Διαγραφή όλων των δεδομένων περιήγησης;
+fire-button-panel-description = Αυτή η ενέργεια διαγράφει το ιστορικό, τα cookie και τα δεδομένα ιστοτόπων. Θα αποσυνδεθείτε από τους ιστοτόπους. Αυτό το παράθυρο θα κλείσει και το { -brand-short-name } θα ανοίξει ένα νέο.
+fire-button-panel-choose-description = Εάν δεν θέλετε να διαγράψετε τα πάντα, επιλέξτε συγκεκριμένα δεδομένα.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Επιλογή…
+fire-button-panel-cancel-button =
+    .label = Ακύρωση
+    .accesskey = Α
+fire-button-panel-confirm-button =
+    .label = Διαγραφή όλων
+    .accesskey = Δ
+fire-button-panel-complete = Τα δεδομένα περιήγησης διαγράφηκαν
 
 ## Autorefresh blocker
 

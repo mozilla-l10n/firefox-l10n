@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Η μορφή του βίντεο ή ο 
 videocontrols-error-no-source = Δεν βρέθηκε βίντεο με υποστηριζόμενη μορφή και τύπο MIME.
 videocontrols-error-generic = Η αναπαραγωγή του βίντεο εγκαταλείφθηκε λόγω άγνωστου σφάλματος.
 videocontrols-status-picture-in-picture = Tο βίντεο αναπαράγεται σε λειτουργία «Εικόνα εντός εικόνας».
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Tο βίντεο αναπαράγεται σε λειτουργία «Εικόνα εντός εικόνας»
 # This message shows the current position and total video duration
 #
 # Variables:

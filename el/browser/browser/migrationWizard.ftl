@@ -52,6 +52,17 @@ migration-no-permissions-message = Το { -brand-short-name } δεν έχει π
 migration-no-permissions-instructions = Για να συνεχίσετε την εισαγωγή δεδομένων από άλλο πρόγραμμα περιήγησης, παραχωρήστε πρόσβαση στο { -brand-short-name } για τον φάκελο του προφίλ του.
 migration-no-permissions-instructions-step1 = Επιλέξτε «Συνέχεια»
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Στο μενού επιλογής αρχείων, επιλέξτε «Άνοιγμα»
+       *[other] Στο μενού επιλογής αρχείων, μεταβείτε στο <code>{ $permissionsPath }</code> και επιλέξτε «Επιλογή»
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

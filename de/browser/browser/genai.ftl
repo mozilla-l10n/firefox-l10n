@@ -249,6 +249,11 @@ highlight-to-search-settings-ask-provider =
     .label = { $provider } fragen
 highlight-to-search-settings-ask-generic =
     .label = KI befragen
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Suchen
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Mehr sehen mit KI?
 # Message that appears when user is shown the opt-in flow for link previews
