@@ -397,12 +397,18 @@ onboarding-checklist-remove-2 = Αφαίρεση λίστας ελέγχου
 
 tab-groups-onboarding-feature-callout-title = Δοκιμάστε τις ομάδες καρτελών για λιγότερη ακαταστασία, περισσότερη συγκέντρωση
 tab-groups-onboarding-feature-callout-subtitle = Οργανωθείτε σύροντας μια καρτέλα πάνω σε κάποια άλλη για να δημιουργήσετε την πρώτη σας ομάδα.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Βρείτε τις ομάδες καρτελών σας στο μενού «Αναζήτηση και διαχείριση καρτελών» ανά πάσα στιγμή.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Βρείτε τις ομάδες καρτελών σας στο μενού «Παράθεση όλων των καρτελών» ανά πάσα στιγμή.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Βρείτε τις ομάδες σας αναζητώντας τες στη γραμμή διευθύνσεων.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Όταν κλείσετε μια ομάδα καρτελών, ανοίξτε την ξανά από το μενού «Αναζήτηση και διαχείριση καρτελών» ανά πάσα στιγμή.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Όταν κλείσετε μια ομάδα καρτελών, ανοίξτε την ξανά από το μενού «Παράθεση όλων των καρτελών» ανά πάσα στιγμή.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Βρείτε τις ομάδες που κλείσατε αναζητώντας τες στη γραμμή διευθύνσεων.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Ανοίξτε ξανά τις ομάδες καρτελών σας από το μενού «Αναζήτηση και διαχείριση καρτελών» ανά πάσα στιγμή.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Ανοίξτε ξανά τις ομάδες καρτελών σας από το μενού «Παράθεση όλων των καρτελών» ανά πάσα στιγμή.
 tab-groups-onboarding-dismiss = OK
@@ -616,10 +622,14 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-title = Νέες δυνατότητες για να κάνετε περισσότερα
 welcome-back-onboarding-primary-button-label = Έναρξη περιήγησης
 welcome-back-onboarding-secondary-button-label = Δείτε τι άλλο νέο υπάρχει
 # Pill label for features that allow you to tidy up your tabs
 welcome-back-onboarding-pill-label-tabs = Τακτοποίηση καρτελών
 welcome-back-onboarding-pill-label-vpn = Ενσωματωμένο VPN
 welcome-back-onboarding-pill-label-pdf = Εργαλεία PDF
+welcome-back-onboarding-card-label-tabs = Τακτοποιήστε τον χώρο σας με τις κάθετες καρτέλες και τις ομάδες
+welcome-back-onboarding-card-label-vpn = Παραμείνετε ανώνυμοι με το ενσωματωμένο VPN
+welcome-back-onboarding-card-label-pdf = Επισημάνετε, υπογράψτε και επεξεργαστείτε αρχεία PDF
 welcome-back-onboarding-card-tilebutton-label = Δοκιμή

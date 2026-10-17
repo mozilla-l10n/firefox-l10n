@@ -25,6 +25,9 @@ genai-settings-chat-scout-links = Επιλέγοντας το Yahoo Scout, απ�
 genai-prompts-summarize =
     .label = Περίληψη
     .value = Κάνε περίληψη της επιλογής με ακριβή και περιεκτική γλώσσα, χρήση κεφαλίδων και λιστών με κουκκίδες στην περίληψη για να υπάρχει δυνατότητα σάρωσης. Διατήρησε το νόημα και την ακρίβεια των πληροφοριών.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Συνόψισε την ιστοσελίδα στο { $url } συνοπτικά και με ακρίβεια. Η σύνοψη θα πρέπει να χρησιμοποιεί επικεφαλίδες και λίστες για γρήγορη ανάγνωση. Διατήρησε το νόημα και την ακρίβεια των πληροφοριών.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Απλοποίηση γλώσσας
@@ -236,6 +239,9 @@ link-preview-settings-key-points =
     .label = Να επιτρέπεται στην τεχνητή νοημοσύνη η ανάγνωση της αρχής της σελίδας και η δημιουργία κύριων σημείων
 link-preview-settings-long-press =
     .label = Συντόμευση: Κάντε κλικ παρατεταμένα στον σύνδεσμο για 1 δευτερόλεπτο (παρατεταμένο πάτημα)
+highlight-to-search-settings-enable =
+    .description = Αποκτήστε γρήγορη πρόσβαση σε χρήσιμες ενέργειες όταν επιλέγετε περιεχόμενο.
+    .label = Εμφάνιση μενού ενεργειών κατά την επιλογή κειμένου
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = Ερώτηση στο { $provider }

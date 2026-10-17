@@ -146,6 +146,12 @@ site-rules-status-heading = Ο κανόνας σας
 site-rules-description-exclusion = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = Το VPN είναι ενεργό για αυτόν τον ιστότοπο
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Να ενεργοποιείται πάντα το VPN για το { $website };
+    .message = Ενημερώστε τους κανόνες σας ανά πάσα στιγμή στις ρυθμίσεις.
 ipprotection-settings-link =
     .label = Ρυθμίσεις
 
@@ -270,6 +276,11 @@ ip-protection-learn-more = Μάθετε περισσότερα
 ip-protection-not-opted-in-4 =
     .heading = Δοκιμάστε το ενσωματωμένο VPN του { -brand-short-name }
     .message = Περιηγηθείτε με επιπλέον προστασία αποκρύπτοντας την τοποθεσία σας.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Θέλετε να το δοκιμάσετε;
+    .message = Λάβετε δωρεάν { $maxUsage } GB κάθε μήνα και επιλέξτε ποιοι ιστότοποι θα χρησιμοποιούν το VPN.
 ip-protection-not-opted-in-button = Έναρξη
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -282,10 +293,21 @@ ip-protection-site-exceptions-all-sites-button =
     .label = Διαχείριση ρυθμίσεων ιστοτόπων
 ip-protection-site-rules-header-1 =
     .heading = Διαχείριση κανόνων VPN
+ip-protection-site-rules-button-1 =
+    .description = Καθορίστε κανόνες για ιστοτόπους που χρειάζονται επιπλέον απόρρητο ή απενεργοποιημένο το VPN.
+    .label = Διαχείριση κανόνων VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Ορίστε κανόνες για αυτόματη ενεργοποίηση ή απενεργοποίηση του VPN.
+    .label = Κανόνες ιστοτόπων
 ip-protection-site-rules-add-button =
     .label = Ορισμός κανόνα
 ip-protection-site-rules-delete-all-button =
     .label = Διαγραφή όλων των κανόνων
+ip-protection-site-rules-empty = Οι κανόνες σας θα εμφανίζονται εδώ.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = Πάντα ενεργό VPN
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = Πάντα ανενεργό VPN
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-site-rules-edit-button =
@@ -329,6 +351,8 @@ ip-protection-site-rule-dialog =
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Αποθήκευση
     .buttonaccesskeyaccept = Α
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Εισαγάγετε έναν ιστότοπο και επιλέξτε την κατάσταση VPN του.
 # "ex:" is short for "example".
 ip-protection-site-rule-website-field =
     .label = Ιστότοπος
@@ -336,6 +360,10 @@ ip-protection-site-rule-website-field =
 # VPN status refers to a state of 'always on' or 'always off' applied to a site
 ip-protection-site-rule-status-field =
     .label = Κατάσταση VPN
+ip-protection-site-rule-status-on =
+    .label = Πάντα ενεργό
+ip-protection-site-rule-status-off =
+    .label = Πάντα ανενεργό
 # Shown below the website field when what was typed is not a website address.
 ip-protection-site-rule-invalid-error = Εισαγάγετε μια έγκυρη διεύθυνση ιστοτόπου.
 # Shown below the website field when the typed website already has a rule.
