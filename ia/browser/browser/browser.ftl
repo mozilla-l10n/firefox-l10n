@@ -1412,6 +1412,21 @@ reset-pbm-toolbar-button2 =
     .label = Vacuar session private
     .tooltiptext = Vacua session private
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Eliger…
+fire-button-panel-cancel-button =
+    .label = Cancellar
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = Deler toto
+    .accesskey = D
+fire-button-panel-complete = Datos de navigation delite
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ha impedite que iste pagina se recarga automaticamente.

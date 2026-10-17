@@ -365,6 +365,8 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Deler tote le regulas del sito web?
 ip-protection-delete-all-site-rules-confirm =
     .label = Deler tote le regulas
+ip-protection-delete-site-rule-retry =
+    .label = Retentar
 
 ## IP Protection Bandwidth
 

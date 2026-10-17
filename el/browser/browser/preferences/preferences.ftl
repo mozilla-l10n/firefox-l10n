@@ -1140,6 +1140,10 @@ prefs-syncing-off = Συγχρονισμός: ΑΝΕΝΕΡΓΟΣ
 prefs-syncing-off-2 =
     .description = Ενεργοποιήστε τον συγχρονισμό για να λάβετε τους σελιδοδείκτες, τους κωδικούς πρόσβασης, το ιστορικό και πολλά άλλα σε οποιαδήποτε συσκευή.
     .label = Ο συγχρονισμός είναι ΑΝΕΝΕΡΓΟΣ
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Ενεργοποιήστε τον συγχρονισμό για να λάβετε σελιδοδείκτες, κωδικούς πρόσβασης, ιστορικό και άλλα δεδομένα σε αυτήν τη συσκευή.
+    .label = Ο συγχρονισμός είναι ΑΝΕΝΕΡΓΟΣ
 prefs-sync-turn-on-syncing =
     .label = Ενεργοποίηση συγχρονισμού…
     .accesskey = ρ
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Μπορείτε να συγχρονίσετε αυτά τα στοιχεία σε όλες τις συνδεδεμένες συσκευές σας:
 sync-syncing-across-devices-heading-2 = Συγχρονισμένα δεδομένα μεταξύ των συσκευών
+sync-syncing-across-devices-heading-3 = Συγχρονισμός δεδομένων σε αυτήν τη συσκευή
 sync-syncing-across-devices-empty-state2 =
     .description = Δεν συγχρονίζετε τίποτα… ακόμα. Ξεκινήστε τον συγχρονισμό για να λάβετε όλα τα δεδομένα σας σε όλες τις συσκευές σας.
     .label = Διαχείριση συγχρονισμένων δεδομένων
@@ -1225,6 +1230,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = π
     .style = min-width: 39em;
     .title = Διαχείριση δεδομένων προς συγχρονισμό με όλες τις συνδεδεμένες συσκευές
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Αποθήκευση
+    .buttonlabelextra2 = Αποσύνδεση…
+    .buttonaccesskeyaccept = θ
+    .buttonaccesskeyextra2 = σ
+    .style = min-width: 36em;
+    .title = Διαχειριστείτε ποια δεδομένα θα συγχρονίζονται σε αυτήν τη συσκευή
 
 ## The device name controls.
 
@@ -1783,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Επιλέξτε ποιοι ιστότοποι μπορούν να εγκαθιστούν επεκτάσεις
     .accesskey = Ε
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Να επιτρέπεται στους ιστοτόπους η ερώτηση για άνοιγμα συνδέσμων εφαρμογών.
+    .accesskey = α
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Διαχείριση αποκλεισμένων ιστοτόπων
+    .accesskey = Δ
 permissions-location2 =
     .label = Τοποθεσία
 permissions-localhost2 =

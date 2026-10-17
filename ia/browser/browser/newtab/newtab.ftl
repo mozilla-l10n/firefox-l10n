@@ -577,6 +577,9 @@ newtab-horoscopes-menu-learn-more = Pro saper plus
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Viages
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Pro saper plus
 
