@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Pśedstajamy VPN, něnto direktnje we 
 ipprotection-feature-introduction-title-1 = Wopytajśo zatwarjony VPN { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty šćitał.
 ipprotection-feature-introduction-title-privacy = Dalšnu rowninu priwatnosći pśidaś
+ipprotection-feature-introduction-title-privacy-1 = Pśidajśo dalšnu rowninu priwatnosći ze zatwarjonym VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> pomaga wašo pśeglědowanje šćitaś. Wubjeŕśo z někotarych stojnišćow, źož cośo priwatnjej pśeglědowaś.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Zatwarjony VPN { -brand-product-name }</a> pomaga waše pśeglědowanje šćitaś. Wubjeŕśo z někotarych stojnišćow, źož cośo priwatnjej pśeglědowaś.
 ipprotection-feature-introduction-link-text-privacy-3 = Wubjeŕśo z někotarych stojnišćow, aby schował, źož pśeglědujośo, aby <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> dostał.

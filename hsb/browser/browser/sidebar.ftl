@@ -52,6 +52,10 @@ sidebar-history-sort-option-last-visited =
     .label = Posledni raz wopytany
 sidebar-history-sort-option-most-visited =
     .label = Najhusćišo wopytane
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Falujo něšto? Importujće historiju z druheho wobhladowaka.
 sidebar-history-import-promo-button =
     .label = Do { -brand-short-name } importować
 

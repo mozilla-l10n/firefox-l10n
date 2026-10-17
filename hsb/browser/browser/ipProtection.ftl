@@ -276,6 +276,11 @@ ip-protection-learn-more = Dalše informacije
 ip-protection-not-opted-in-4 =
     .heading = Wupruwujće zatwarjeny VPN { -brand-short-name }
     .message = Schowajće swoje stejnišćo, zo byšće z přidatnym škitom přehladował.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Sće hotowy, jón wupruwować?
+    .message = Wobstarajće sej { $maxUsage } GB darmo za kóždy měsac a wubjerće, kotre sydła VPN wužiwaja.
 ip-protection-not-opted-in-button = Prěnje kroki
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
