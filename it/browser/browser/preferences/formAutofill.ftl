@@ -194,3 +194,4 @@ passport-capture-not-now-button =
 passport-capture-never-save-button =
     .label = Non salvare mai i passaporti
     .accessKey = m
+
