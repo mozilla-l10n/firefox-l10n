@@ -2013,12 +2013,12 @@ related-settings-tabs-browsing-link =
 ## AI controls page
 
 preferences-ai-controls-description = Винаги имате избор в { -brand-short-name }, включително дали да използвате функции, подобрени с AI. Очаквайте още контроли скоро.
-preferences-ai-controls-block-ai-label = Блокиране на AI подобренията
+preferences-ai-controls-block-ai-label = Блокиране на подобренията с AI
 preferences-ai-controls-block-ai =
     .label = { preferences-ai-controls-block-ai-label }
-preferences-ai-controls-block-ai-description = Блокирането означава, че няма да виждате нови или текущи подобрения на AI в { -brand-short-name } или изскачащи прозорци за тях. <a data-l10n-name="link">Получете повече подробности</a> за това какво е включено и как да контролирате традиционните функции за машинно обучение, като предложения и препоръки за търсене.
+preferences-ai-controls-block-ai-description = Блокирането означава, че няма да виждате нови или текущи подобрения с AI във { -brand-short-name } или изскачащи прозорци за тях. <a data-l10n-name="link">Получете повече подробности</a> за това какво е включено и как да контролирате традиционните функции за машинно обучение, като предложения и препоръки за търсене.
 preferences-ai-controls-blocked-message =
-    .message = Новите и текущите подобрения на AI са блокирани по подразбиране. За да отблокирате конкретна функция, използвайте контролите по-долу.
+    .message = Новите и текущите подобрения с AI са блокирани по подразбиране. За да отблокирате конкретна функция, използвайте контролите по-долу.
 preferences-ai-controls-on-device-group =
     .description = Тo използва малки AI модели, които се изтеглят на вашето устройство, ако използвате функцията. Този подход помага за защита на вашата поверителност.
     .label = AI на устройството
@@ -2056,8 +2056,8 @@ preferences-ai-controls-state-description-before = Какво означават
 preferences-ai-controls-state-description-available = <strong>Наличнo:</strong> Ще видите функцията и можете да я използвате.
 preferences-ai-controls-state-description-enabled = <strong>Включено:</strong> Избрали сте да използвате тази функция.
 preferences-ai-controls-state-description-blocked = <strong>Забранено:</strong> Функцията не се вижда и няма да може да се използва. Изтеглените AI модели върху вашето устройство се премахват.
-preferences-ai-controls-block-confirmation-heading = Забраняване на AИ подобренията?
-preferences-ai-controls-block-confirmation-description = Няма да виждате нови или текущи подобрения на AI в { -brand-short-name } или изскачащи прозорци за тях. След това можете да деблокирате всичко, което искате да продължите да използвате
+preferences-ai-controls-block-confirmation-heading = Спиране на подобренията с AI?
+preferences-ai-controls-block-confirmation-description = Няма да виждате нови или текущи подобрения с AI във { -brand-short-name } или изскачащи прозорци за тях. След това можете да деблокирате всичко, което искате да продължите да използвате
 preferences-ai-controls-block-confirmation-features-start = Какво ще бъде блокирано:
 preferences-ai-controls-block-confirmation-translations = Преводи
 preferences-ai-controls-block-confirmation-pdfjs = Алтернативен текст на изображение във визуализатор на PDF на { -brand-short-name }
