@@ -21,6 +21,7 @@ confirmation-hint-send-to-device = נשלח!
 confirmation-hint-firefox-relay-mask-created = נוצרה מסכה חדשה!
 confirmation-hint-firefox-relay-mask-reused = נעשה שימוש חוזר במסכה קיימת!
 confirmation-hint-screenshot-copied = צילום המסך הועתק!
+confirmation-hint-tab-group-saved = קבוצת הלשוניות נשמרה
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

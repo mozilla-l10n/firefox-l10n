@@ -1415,6 +1415,27 @@ reset-pbm-toolbar-button2 =
     .label = ניקוי הפעלה פרטית
     .tooltiptext = ניקוי הפעלה פרטית
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = מחיקת חלק או כל נתוני הגלישה שלך
+    .tooltiptext = מחיקת חלק או כל נתוני הגלישה שלך
+fire-button-panel-heading = למחוק את כל נתוני הגלישה שלך?
+fire-button-panel-description = פעולה זו תמחק את ההיסטוריה, עוגיות ונתוני אתרים. יבוצע ניתוק מחשבונות באתרים. חלון זה ייסגר, ו־{ -brand-short-name } יפתח חלון חדש.
+fire-button-panel-choose-description = אם אין ברצונך למחוק הכל, יש לבחור בנתונים ספציפיים במקום.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = בחירה…
+fire-button-panel-cancel-button =
+    .label = ביטול
+    .accesskey = ב
+fire-button-panel-confirm-button =
+    .label = מחיקת הכל
+    .accesskey = מ
+fire-button-panel-complete = נתוני הגלישה נמחקו
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ‏{ -brand-short-name } מנע מעמוד זה לטעון את עצמו מחדש באופן אוטומטי.

@@ -100,9 +100,9 @@ contextual-manager-passwords-export-file-picker-csv-filter-title =
 #   $total (number) - Total number of passwords
 contextual-manager-passwords-remove-all-title =
     { $total ->
-        [1] { "پاس ورڈ مٹاؤ؟" }
-        [one] { "پاس ورڈ مٹاؤ؟" }
-       *[other] { "سارے { $total } پاس ورڈ مٹاؤ؟" }
+        [1] پاس ورڈ مٹاؤ؟
+        [one] پاس ورڈ مٹاؤ؟
+       *[other] سارے { $total } پاس ورڈ مٹاؤ؟
     }
 # Checkbox label to confirm the removal of saved passwords
 #   $total (number) - Total number of passwords

@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = השקנו VPN, עכשיו ממש בד
 ipprotection-feature-introduction-title-1 = לנסות את ה־VPN המובנה של { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך.
 ipprotection-feature-introduction-title-privacy = הוספת שכבה נוספת של פרטיות
+ipprotection-feature-introduction-title-privacy-1 = הוספת שכבה נוספת של פרטיות עם VPN מובנה
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין מספר מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין מספר מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-link-text-privacy-3 = ניתן לקבל <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> על־ידי בחירה מבין מספר מיקומים להסתרת המקום שממנו מתבצעת הגלישה.
@@ -113,6 +114,7 @@ ipprotection-android-promo-callout-primary-button = הבנתי
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = הגדרת כללים ל־VPN המובנה, וגלישה בראש שקט
 ipprotection-site-inclusions-callout-title-lapsed-users = כדאי לנסות את ה־VPN המובנה, עכשיו לפי אתר
+ipprotection-site-inclusions-callout-description-1 = ניתן להפעיל את ה־VPN כשנדרשת פרטיות מוגברת או גלישה מבוססת מיקום, ולהשבית אותו במקומות שבהם אין בו צורך.
 ipprotection-site-inclusions-callout-description = ניתן להפעיל אותו כשנדרשת פרטיות מוגברת או גלישה מבוססת מיקום, ולהשבית אותו במקומות שבהם אין בו צורך.
 ipprotection-site-inclusions-callout-primary-button = הגדרת כללים
 ipprotection-site-inclusions-callout-secondary-button-existing-users = לא כעת
@@ -143,6 +145,12 @@ site-rules-status-heading = הכלל שלך
 site-rules-description-exclusion = ה־VPN כבוי עבור אתר זה
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = ה־VPN פעיל עבור אתר זה
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = האם תמיד להפעיל את ה־VPN עבור { $website }?
+    .message = ניתן לעדכן את הכללים שלך בכל עת בהגדרות.
 ipprotection-settings-link =
     .label = הגדרות
 
@@ -267,6 +275,11 @@ ip-protection-learn-more = מידע נוסף
 ip-protection-not-opted-in-4 =
     .heading = נסו את ה־VPN המובנה של { -brand-short-name }
     .message = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = שננסה?
+    .message = קבלת { $maxUsage } ג״ב בחינם בכל חודש ובחירה באלו אתרים משתמשים ב־VPN.
 ip-protection-not-opted-in-button = תחילת עבודה
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -282,6 +295,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = הגדרת כללים לאתרים שצריכים פרטיות נוספת, או שצריכים שה־VPN יהיה כבוי.
     .label = ניהול כללים של VPN
+ip-protection-site-rules-list-section-1 =
+    .description = הגדרת כללים להפעלה או כיבוי VPN באופן אוטומטי.
+    .label = כללי אתרים
 ip-protection-site-rules-add-button =
     .label = הגדרת כלל
 ip-protection-site-rules-delete-all-button =
@@ -364,6 +380,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = למחוק את כל כללי האתרים?
 ip-protection-delete-all-site-rules-confirm =
     .label = מחיקת כל הכללים
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = לא ניתן היה למחוק את הכלל
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = לא ניתן היה למחוק את הכללים
+ip-protection-delete-site-rule-retry =
+    .label = ניסיון חוזר
 
 ## IP Protection Bandwidth
 
