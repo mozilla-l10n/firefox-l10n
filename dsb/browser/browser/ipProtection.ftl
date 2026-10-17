@@ -114,6 +114,7 @@ ipprotection-android-promo-callout-primary-button = Som zrozměł
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Nastajśo pšawidła zatwarjonego VPN a pśeglědujśo pón dalej
 ipprotection-site-inclusions-callout-title-lapsed-users = Testujśo zatwarjony VPN, něnto sedło pó sedle
+ipprotection-site-inclusions-callout-description-1 = Zmóžniśo VPN, gaž cośo pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje, a znjemóžniśo jen, źož jen njetrjebaśo.
 ipprotection-site-inclusions-callout-description = Zmóžniśo jen, gaž cośo pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje, a znjemóžniśo jen, źož jen njetrjebaśo.
 ipprotection-site-inclusions-callout-primary-button = Pšawidła póstajiś
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic něnto
@@ -285,6 +286,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Nastajśo pšawidła za websedła, kótarež pśidatnu priwatnosć abo znjemóžnjony VPN trjebaju.
     .label = Pšawidła VPN zastojaś
+ip-protection-site-rules-list-section-1 =
+    .description = Nastajśo pšawidła, aby VPN awtomatiski zmóžnił abo znjemóžnił.
+    .label = Pšawidła websedła
 ip-protection-site-rules-add-button =
     .label = Pšawidło póstajiś
 ip-protection-site-rules-delete-all-button =
@@ -367,6 +371,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Wšykne pšawidła websedła lašowaś?
 ip-protection-delete-all-site-rules-confirm =
     .label = Wšykne pšawidła lašowaś
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Pšawidło njedajo se lašowaś
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Pšawidła njedaju se lašowaś
+ip-protection-delete-site-rule-retry =
+    .label = Hyšći raz wopytaś
 
 ## IP Protection Bandwidth
 

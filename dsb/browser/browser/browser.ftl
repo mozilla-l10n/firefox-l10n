@@ -1432,6 +1432,22 @@ reset-pbm-toolbar-button2 =
     .label = Priwatne pósejźenje wulašowaś
     .tooltiptext = Priwatne pósejźenje wulašowaś
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-panel-heading = Wšykne daty pśeglědowanja lašowaś?
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Wubraś…
+fire-button-panel-cancel-button =
+    .label = Pśetergnuś
+    .accesskey = P
+fire-button-panel-confirm-button =
+    .label = Wšykne lašowaś
+    .accesskey = W
+fire-button-panel-complete = Daty pśeglědowanja su se wulašowali
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } jo toś ten bok pśi awtomatiskem znowegocytanju zajźował.

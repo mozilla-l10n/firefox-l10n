@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } pśistup k profilam dru
 migration-no-permissions-instructions = Aby z importěrowanim datow z drugego wobhlědowaka pókšacował, dajśo { -brand-short-name } pśistup k jogo profilowemu zarědnikoju.
 migration-no-permissions-instructions-step1 = Wubjeŕśo „Pókšacowaś“
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Wubjeŕśo „Wócyniś“ w datajowem wuběrku
+       *[other] Nawigěrujśo w datajowem wuběrku k <code>{ $permissionsPath }</code> a wubjeŕśo „Wubraś“
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

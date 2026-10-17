@@ -493,6 +493,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Wobraz dnja – Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Wobraz dnja
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Wobraz dnja: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -516,6 +520,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = Meni wobraza dnja wócyniś
     .title = Meni wobraza dnja wócyniś
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Nastajśo toś ten wobraz ako swój slězynowy wobraz
+    .label = Slězynowy wobraz nastajiś
+    .title = Slězynowy wobraz nastajiś
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -524,6 +535,10 @@ newtab-picture-set-wallpaper =
     .title = Slězynowy wobraz nastajiś
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Slězynowy wobraz zastojaś
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Toś ten wobraz schowaś
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Wobraz pokazaś
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Źinsajšny wobraz schowaś
@@ -531,6 +546,10 @@ newtab-picture-menu-hide-photo = Źinsajšny wobraz schowaś
 newtab-picture-menu-show-photo = Źinsajšny wobraz pokazaś
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Dalšne informacije
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Wobraz pokazaś
+    .title = Wobraz pokazaś
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Źinsajšny wobraz pokazaś
@@ -595,6 +614,14 @@ newtab-horoscopes-menu-learn-more = Dalšne informacije
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Drogowanje
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Meni drogowanja wócyniś
+    .title = Meni drogowanja wócyniś
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Dalšne informacije
 
@@ -908,6 +935,10 @@ newtab-custom-widget-search-toggle =
     .label = Pytaś
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskopy
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Drogowanje
 newtab-custom-widget-section-title = Asistenty
 newtab-custom-widget-section-toggle =
     .label = Asistenty
