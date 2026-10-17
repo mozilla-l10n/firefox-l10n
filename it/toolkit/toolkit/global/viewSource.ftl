@@ -26,4 +26,3 @@ view-source-context-wrap-long-lines =
     .label = A capo automatico
 view-source-context-highlight-syntax =
     .label = Evidenzia sintassi
-

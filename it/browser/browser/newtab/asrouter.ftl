@@ -523,4 +523,3 @@ refresh-profile-infobar-button = Ripristina { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Vuoi riaprire le schede aperte in precedenza?</strong> È possibile ripristinare la sessione precedente dal menu <img data-l10n-name="icon"/> di { -brand-short-name }, nella sezione Cronologia.
 restore-session-startup-suggestion-button = Mostra come fare
-

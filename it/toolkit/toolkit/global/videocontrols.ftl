@@ -69,4 +69,3 @@ videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="
 videocontrols-scrubber-position-and-duration =
     .aria-label = Posizione
     .aria-valuetext = { $position } / { $duration }
-

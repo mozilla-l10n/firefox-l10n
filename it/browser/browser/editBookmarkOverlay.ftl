@@ -60,4 +60,3 @@ bookmark-properties-title-edit-folder = Modifica cartella dei segnalibri
 bookmark-properties-default-name-all-tabs-folder = [Nome cartella]
 bookmark-properties-default-name-folder = Nuova cartella
 bookmark-properties-default-name-bookmark = Nuovo segnalibro
-
