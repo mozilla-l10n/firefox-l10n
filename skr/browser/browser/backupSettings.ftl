@@ -81,6 +81,12 @@ turn-on-scheduled-backups-location-choose-button =
     }
 turn-on-scheduled-backups-encryption-label = اپݨا حساس ڈیٹا دا بیک اپ بݨاؤ
 turn-on-scheduled-backups-cancel-button = منسوخ
+turn-on-scheduled-backups-confirm-button = بیک اپ چالو کرو
+
+## These strings are displayed in a modal when users want to turn off scheduled backups.
+
+turn-off-scheduled-backups-support-link = ٻیا سِکھو
+turn-off-scheduled-backups-cancel-button = منسوخ
 
 ## These strings are displayed in a modal when users want restore from a backup.
 

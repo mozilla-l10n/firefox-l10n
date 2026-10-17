@@ -917,6 +917,11 @@ urlbar-searchmode-popup-add-engine = رلاؤ { $engineName }
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = ایں واری، دے نال ڳولو:
+urlbar-searchmode-popup-settings2 = ترتیباں
+urlbar-searchmode-popup-search-settings = ڳولݨ ترتیباں
+    .accesskey = ڳ
+urlbar-searchmode-popup-settings = ترتیباں
+    .accesskey = ت
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -1101,6 +1106,12 @@ qrcode-copy-button =
     .label = نقل کرو
 qrcode-save-button =
     .label = محفوظ
+qrcode-window-title = کیوآر کوڈ
+qrcode-dialog-title = کیوآر کوڈ
+qrcode-image =
+    .aria-label = کیوآر کوڈ
+qrcode-close-button =
+    .aria-label = بند کرو
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -1480,3 +1491,4 @@ trustpanel-list-label-social-tracking =
         [one] { $count } سوشل میڈیا ٹریکر
        *[other] { $count } سوشل میڈیا ٹریکرز
     }
+trustpanel-breachalerts-anonymous-breached-button-dismiss = فارغ کرو

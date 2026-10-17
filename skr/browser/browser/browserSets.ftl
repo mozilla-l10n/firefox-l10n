@@ -49,6 +49,12 @@ downloads-shortcut =
             [linux] Y
            *[other] J
         }
+addons-shortcut-2 =
+    .key =
+        { PLATFORM() ->
+            [macos] E
+           *[other] F
+        }
 addons-shortcut =
     .key = A
 file-open-shortcut =
@@ -81,6 +87,8 @@ nav-stop-shortcut =
     .key = .
 ai-chatbot-sidebar-shortcut =
     .key = X
+open-tabs-sidebar-shortcut2 =
+    .key = U
 toggle-sidebar-shortcut =
     .key = Z
 history-show-all-shortcut =

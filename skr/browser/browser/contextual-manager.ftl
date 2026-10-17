@@ -94,14 +94,22 @@ contextual-manager-passwords-remove-all-confirm-button =
         [one] ہٹاؤ
        *[other] سارے ہٹاؤ
     }
+# The attribute .data-after describes the text that should be displayed for the ::after pseudo-selector
+contextual-manager-passwords-password-label = پاس ورڈ
+    .data-after = نقل تھی ڳیا
+contextual-manager-passwords-add-password-success-button = نظارہ
 contextual-manager-passwords-update-password-success-button = تھی ڳیا
 contextual-manager-passwords-delete-password-success-button = تھی ڳیا
 # This message is displayed to make sure that a user wants to delete an existing login.
 contextual-manager-passwords-remove-login-card-title = پاس ورڈ ہٹاؤں؟
+# This message gives the user an option to go back to the edit login form.
+contextual-manager-passwords-remove-login-card-back-message = پچھوں
 # This message confirms that the user wants to remove an existing login.
 contextual-manager-passwords-remove-login-card-remove-button = ہٹاؤ
 # This message gives the user the option to cancel their attempt to remove a login.
 contextual-manager-passwords-remove-login-card-cancel-button = منسوخ
+contextual-manager-passwords-alert-back-button =
+    .label = پچھوں
 
 ## Login Form
 
