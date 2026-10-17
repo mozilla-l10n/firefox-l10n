@@ -245,8 +245,6 @@ urlbar-split-view-button =
 
 ## URLbar context menu
 
-urlbar-menuitem-paste-and-go =
-    .label = Incolla e vai
 urlbar-menuitem-paste-and-search =
     .label = Incolla e cerca
     .accesskey = c
