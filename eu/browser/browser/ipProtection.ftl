@@ -146,6 +146,12 @@ site-rules-status-heading = Zure araua
 site-rules-description-exclusion = VPNa inaktibo dago gune honetarako
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPNa aktibo dago gune honetarako
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Beti aktibatu VPNa { $website } gunerako?
+    .message = Eguneratu arauak edonoiz ezarpenetan.
 ipprotection-settings-link =
     .label = Ezarpenak
 
@@ -270,6 +276,11 @@ ip-protection-learn-more = Argibide gehiago
 ip-protection-not-opted-in-4 =
     .heading = Probatu { -brand-short-name }(r)en integratutako VPNa
     .message = Nabigatu babes estraz zure kokapena ezkutatuz.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Probatzeko prest?
+    .message = Eskuratu hilero doako { $maxUsage } GB eta aukeratu zein gunek erabiliko duten VPNa.
 ip-protection-not-opted-in-button = Hasi erabiltzen
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -285,6 +296,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Ezarri arauak pribatutasun estra edo VPNa inaktibo izatea behar duten guneetarako.
     .label = Kudeatu VPN arauak
+ip-protection-site-rules-list-section-1 =
+    .description = Ezarri VPNa automatikoki aktibatu edo desaktibatzeko arauak.
+    .label = Webguneen arauak
 ip-protection-site-rules-add-button =
     .label = Ezarri araua
 ip-protection-site-rules-delete-all-button =
@@ -367,6 +381,10 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Ezabatu webgune guztietako arauak?
 ip-protection-delete-all-site-rules-confirm =
     .label = Ezabatu arau guztiak
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Ezin izan da araua ezabatu
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Ezin izan dira arauak ezabatu
 ip-protection-delete-site-rule-retry =
     .label = Saiatu berriro
 

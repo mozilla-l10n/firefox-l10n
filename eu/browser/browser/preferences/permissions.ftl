@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Blokeatu errealitate birtualeko gailuetarako sarbide-eskaera berriak
 permissions-site-xr-disable-desc = Aukera honekin, errealitate birtualeko gailuetarako sarbidearen baimen-eskaerak galaraziko dira goian zerrendatzen ez diren webguneetan. Errealitate birtualeko gailuetarako sarbidea blokeatzeak webguneen zenbait eginbide hauts litzake.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Ezarpenak - Aplikazio-loturak blokeatuta dituzten guneak
+permissions-site-app-links-desc = Gune hauek blokeatuta daude aplikazio-loturak irekitzea galdegitetik, adibidez posta elektronikoa (mailto:). Gune bati galdegitea berriro baimentzeko, kendu hemendik.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
