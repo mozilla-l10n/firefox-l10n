@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Vacuar tote le chronologia
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Deler datos de navigation
 clear-data-settings-label = Quando claudite, { -brand-short-name } deberea automaticamente rader tote le
 sanitize-on-shutdown-description = Automaticamente rader tote le elementos marcate quando { -brand-short-name } se claude.
 

@@ -187,6 +187,10 @@ about-glean-store-submitted-pings-select-label = Ping:
 about-glean-store-submitted-pings =
     .description = Activa immagazinage del pings inviate in-memoria
     .label = Immagazinar pings inviate
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Informationes del cliente
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Informationes de ping
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 
