@@ -516,6 +516,10 @@ newtab-picture-set-wallpaper =
     .title = Establecer fondo de pantalla
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Administrar fondo de pantalla
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Ocultar esta imagen
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Mostrar imagen
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Ocultar la foto de hoy
@@ -523,6 +527,10 @@ newtab-picture-menu-hide-photo = Ocultar la foto de hoy
 newtab-picture-menu-show-photo = Mostrar la foto de hoy
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Conocer más
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Mostrar imagen
+    .title = Mostrar imagen
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Mostrar la foto de hoy
@@ -587,6 +595,14 @@ newtab-horoscopes-menu-learn-more = Conocer más
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Viajes
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Abrir menú de viajes
+    .title = Abrir menú de viajes
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Conocer más
 
@@ -898,6 +914,10 @@ newtab-custom-widget-search-toggle =
     .label = Buscar
 newtab-custom-widget-horoscopes-toggle =
     .label = Horóscopos
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Viajes
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
