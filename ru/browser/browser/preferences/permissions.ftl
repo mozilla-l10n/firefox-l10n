@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Запретить новые запросы на доступ к вашим устройствам виртуальной реальности
 permissions-site-xr-disable-desc = Это не позволит сайтам, кроме перечисленных выше, запрашивать разрешение на доступ к устройствам виртуальной реальности. Запрет доступа к вашим устройствам виртуальной реальности может нарушить некоторые функции сайта.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Настройки - Заблокированные сайты для ссылок приложений
+permissions-site-app-links-desc = Эти сайты не могут просить открыть ссылки на приложения, такие как почтовые клиенты (mailto:). Удалить сайт, чтобы он мог запросить это снова.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

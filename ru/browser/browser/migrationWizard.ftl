@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } не имеет дос�
 migration-no-permissions-instructions = Чтобы продолжить импорт данных из другого браузера, предоставьте { -brand-short-name } доступ к папке его профиля.
 migration-no-permissions-instructions-step1 = Нажмите «Продолжить»
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] В средстве выбора файлов выберите «Открыть».
+       *[other] В средстве выбора файлов перейдите к <code>{ $permissionsPath }</code> и нажмите «Выбрать».
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

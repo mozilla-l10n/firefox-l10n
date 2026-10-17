@@ -163,6 +163,12 @@ permissions-site-xr-disable-label =
     .label = Blocar nove requestas de acceder a tu apparatos de realitate virtual
 permissions-site-xr-disable-desc = Isto impedi a omne sitos web non listate hic supra de requestar le accesso a tu apparatos de realitate virtual. Blocar iste accesso pote rumper alcun functiones de sitos web.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-desc = Iste sitos es blocate ab demandar de aperir ligamines del applicationes, como adresses de e-mail (mailto:). Remove un sito pro permitter a illo de demandar ancora.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

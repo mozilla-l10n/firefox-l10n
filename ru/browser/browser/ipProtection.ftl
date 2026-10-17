@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Представляем VPN, тепе
 ipprotection-feature-introduction-title-1 = Попробуйте VPN, встроенный в { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные.
 ipprotection-feature-introduction-title-privacy = Добавьте ещё один уровень приватности
+ipprotection-feature-introduction-title-privacy-1 = Добавьте ещё один уровень приватности со встроенным VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из нескольких местоположений, чтобы обеспечить приватность вашего веб-сёрфинга.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из 5 местоположений, чтобы повысить приватность вашего веб-сёрфинга.
 ipprotection-feature-introduction-link-text-privacy-3 = Получите <a data-l10n-name="learn-more-vpn">дополнительную приватность</a>, выбрав одно из множества местоположений, чтобы скрывать своё пребывание в Интернете.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Понятно
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Установите встроенные правила VPN, а затем сёрфите дальше
 ipprotection-site-inclusions-callout-title-lapsed-users = Попробуйте встроенный VPN, теперь сайт за сайтом
+ipprotection-site-inclusions-callout-description-1 = Включите VPN, когда вам нужна дополнительная приватность или местоположение в Интернете, и выключите там, где вам это не нужно.
 ipprotection-site-inclusions-callout-description = Включите это, когда вам нужна дополнительная приватность или сёрфинг на основе местоположения, и выключите, если это вам не нужно.
 ipprotection-site-inclusions-callout-primary-button = Установить правила
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не сейчас
@@ -144,6 +146,12 @@ site-rules-status-heading = Ваше правило
 site-rules-description-exclusion = VPN для этого сайта отключён
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN для этого сайта включён
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Всегда включать VPN для { $website }?
+    .message = Обновляйте свои правила в любое время в настройках.
 ipprotection-settings-link =
     .label = Настройки
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = Подробнее
 ip-protection-not-opted-in-4 =
     .heading = Попробуйте VPN, встроенный в { -brand-short-name }
     .message = Сёрфите с дополнительной защитой, скрывая своё местоположение.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Готовы попробовать?
+    .message = Получайте { $maxUsage } ГБ бесплатно каждый месяц и выберите, какие сайты используют VPN.
 ip-protection-not-opted-in-button = Начало работы
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -284,6 +297,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Устанавливает правила для сайтов, которым необходима дополнительная приватность или отключение VPN.
     .label = Управление правилами VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Установите правила для автоматического включения или отключения VPN.
+    .label = Правила веб-сайта
 ip-protection-site-rules-add-button =
     .label = Установить правило
 ip-protection-site-rules-delete-all-button =
@@ -366,6 +382,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Удалить все правила для веб-сайтов?
 ip-protection-delete-all-site-rules-confirm =
     .label = Удалить все правила
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Не удалось удалить правило
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Не удалось удалить правила
+ip-protection-delete-site-rule-retry =
+    .label = Попробовать снова
 
 ## IP Protection Bandwidth
 
