@@ -406,17 +406,53 @@ tab-groups-onboarding-dismiss = ٹھیک ہے
 
 multi-profile-spotlight-title = { -brand-product-name } پروفائلز کوں سلام آکھو
 multi-profile-spotlight-body = کام تے تفریح کیتے براؤزنگ دے درمیان آسانی نال تبدیل کرو۔ پروفائلز تہاݙی براؤزنگ دی معلومات — ڳولو دی تاریخ تے پاس ورڈز سمیت — بالکل علیحدہ رکھدے ہن تاں جے تساں منظم رہو۔
+multi-profile-spotlight-cta = نویں پروفائل بݨاؤ
 multi-profile-callout-title = کم تے مزے کیتے وکھرے وکھرے پروفائل بݨاؤ
 multi-profile-callout-cta = پروفائل بݨاؤ
 
 ## Desktop to Mobile Adoption feature callout strings
 
+# If translating the headline is challenging, consider using a simplified alternative as a reference: 'Sync your browsing with Firefox for mobile.'
+desktop-to-mobile-headline = ڈاؤن لوڈ کرو، سنک کرو تے چلو!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle = موبائل کیتے { -brand-product-name } ڈاؤن لوڈ کرݨ کیتے QR کوڈ اسکین کرو۔ انسٹال تھیوݨ دے بعد تساڈے پاس ورڈ، بک مارکس تے بیا کجھ سفر دے دوران حاصل کرݨ کیتے ”موبائل نال سنک کرو“ چݨو۔
 sync-to-mobile-button-label = موبائل نال سنک کرو
+desktop-to-mobile-qr-code-alt =
+    .aria-label = موبائل کیتے { -brand-product-name } ڈاؤن لوڈ کرݨ دا QR کوڈ
+
+## Fx Backup onboarding: Create Backup spotlight
+
+create-backup-screen-1-subtitle = اپݨے پاسورڈاں، بک مارکساں تے بیا ڈتا کوں صرف 1-2 منٹاں وچ آپوں محفوظ رکھو۔
+create-backup-learn-more-link = <a data-l10n-name="learn-more-label">بیا ݙیکھو</a>
+create-backup-screen-1-sync-body = سائن ان تھیوے ہوئے سارے ڈیوائساں دا بیک اپ ڳھندی ہے۔
+create-backup-screen-1-backup-body = تیڈے ڈیوائس یا OneDrive وچ محفوظ تھیندی ہے۔
+create-backup-back-button-label = پچھے
+create-backup-screen-2-title = { -brand-product-name } دا ڈتا بیک اپ کیتے چُنو۔
+# Label for the "Easy setup" backup option
+create-backup-screen-2-easy-label = سادہ سیٹ اپ
+# Preceded by a red X indicating that these are not included in the "Easy setup" backup
+create-backup-screen-2-easy-list-2 = پاسورڈ تے ادائیگیاں شامل نیہیں ہن۔
+# Label for the "All data" backup option
+create-backup-screen-2-all-label = سارا ڈتا
+# Preceded by a green check mark and shield indicating "All data" backups are encrypted
+create-backup-screen-2-all-list-3 = پاسورڈ نال انکرپٹڈ ہے۔
+# Title for a screen asking users to create a password that will encrypt the backup
+create-backup-screen-3-title = بیک اپ فائل دا پاسورڈ بݨاؤ۔
+fx-backup-opt-in-header = فائل دی جاہ چُنو۔
+fx-backup-opt-in-filepath-label = نویں ڈیوائس تے ڳھن ونجݨ آلی جاہ چݨو، جیویں OneDrive۔
+fx-backup-opt-in-create-password-label = پاسورڈ لکھو۔
+fx-backup-opt-in-confirm-btn-label = جاری رکھو
+fx-backup-opt-in-cancel-btn-label = پچھے
+
+## Fx Backup confirmation screen strings
+
+fx-backup-confirmation-screen-title = تیڈا بیک اپ طے تھی ڳیا ہے
+fx-backup-confirmation-screen-close-button = بند کرو۔
 
 ## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
 
+fx-backup-confirmation-screen-all-data-item-text-1 = سارا براؤزنگ ڈٹا شامل ہے
+fx-backup-confirmation-screen-all-data-item-text-2 = تیڈے ڈیوائس تے محفوظ کر ڈتا ڳیا۔
 fx-backup-confirmation-screen-all-data-item-text-3 = انکرپٹڈ تے پاسورڈ توں محفوظ
 fx-backup-confirmation-screen-easy-setup-item-text-1 = بُک مارکس، ہسٹری، سیٹنگز، تے ٻیا ڈیٹا شامل ہے
 fx-backup-confirmation-screen-easy-setup-item-text-2 = تساݙے ڈیوائس تے محفوظ کیتا ڳیا
@@ -534,6 +570,9 @@ smartwindow-sidebar-auto-open-callout-title = کیا تساں اسسٹنٹ کو�
 smartwindow-sidebar-auto-open-callout-body = تساں اوکوں جدوں وی ضرورت ہووے، کھول سڳدے ہو۔
 smartwindow-sidebar-auto-open-callout-accept = جی ہاں، بند رکھو۔
 smartwindow-sidebar-auto-open-callout-dismiss = نیں، شکریہ۔
+smartwindow-sidebar-auto-open-callout-accepted-title = معاون بند راہسی
+smartwindow-sidebar-auto-open-callout-accepted-subtitle = اِکوں کہیں وی صفحے تے کھولݨ کیتے Ask ورتو۔ اِکوں کہیں وی ویلے <a data-l10n-name="settings">سیٹنگز</a> وچ تبدیل کرو۔
+smartwindow-sidebar-auto-open-callout-rejected-title = ٹھیک اے۔
 smartwindow-sidebar-auto-open-callout-rejected-subtitle = جے تساں اپݨا ارادہ بدلو، تاں تساں کدھی وی <a data-l10n-name="settings">ترتیباں</a> وچ ڈیفالٹ اپڈیٹ کر سڳدے ہو۔
 
 ## Theme Picker screen strings

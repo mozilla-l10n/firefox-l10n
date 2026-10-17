@@ -434,6 +434,10 @@ newtab-stocks-removed-from-watchlist = { $name } واچ لسٹ توں ہٹا ڈ�
 
 ## Finance widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = ناواں یا علامت نال ڳولو
+    .placeholder = ناواں یا علامت نال ڳولو
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
@@ -468,6 +472,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = ڈینہہ دی تصویر · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = ڈینہہ دی تصویر
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = اج دی تصویر: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -476,6 +484,11 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = { $license } لائسنس ݙیکھو
 # Tooltip and screen-reader label for the icon-only button that opens the
 # widget's context menu. The button never renders visible text.
 newtab-picture-widget-menu-button =
@@ -488,6 +501,12 @@ newtab-picture-set-wallpaper2 =
     .aria-label = ایہ تصویر تساڈا وال پیپر بݨاؤ
     .label = وال پیپر لاؤ
     .title = وال پیپر لاؤ
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .aria-label = اج دی تصویر کوں وال پیپر طور تے لڳاؤ
+    .label = وال پیپر لڳاؤ
+    .title = وال پیپر لڳاؤ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = وال پیپر مینیج کرو
 # Context menu item that hides the picture shown in the widget.
@@ -851,6 +870,8 @@ newtab-custom-stories-toggle =
     .label = تجویز کردہ کہاݨیاں
 newtab-recommended-stories-toggle =
     .label = تجویز کردہ کہاݨیاں
+newtab-custom-stories-personalized-toggle =
+    .label = کہاݨیاں
 newtab-custom-stories-personalized-checkbox =
     .label = تساڈی سرگرمی دی بنیاد تے ذاتی کہانیاں
 newtab-custom-weather-toggle =
@@ -858,21 +879,28 @@ newtab-custom-weather-toggle =
     .label = موسم
 newtab-custom-widget-weather-toggle =
     .label = موسم
+newtab-custom-widget-lists-toggle =
+    .label = فہرستاں
 newtab-custom-widget-timer-toggle =
     .label = ٹائمر
 newtab-custom-widget-sports-toggle2 =
     .label = کھیل
+newtab-custom-widget-privacy-toggle =
+    .label = پرائیویسی
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = کراس ورڈ
 newtab-custom-widget-stocks-toggle =
     .label = سٹاک
+newtab-custom-widget-picture-toggle =
+    .label = اج دی تصویر
 newtab-custom-widget-search-toggle =
     .label = ڳولو
 # Travel (noun) is a widget on New Tab for searching hotels, flights
 # and car rentals.
 newtab-custom-widget-travel-toggle =
     .label = سفر
+newtab-custom-widget-section-title = وِجٹس
 newtab-custom-widget-section-toggle =
     .label = وجٹس
 newtab-widget-manage-title = ویجٹس
@@ -1668,8 +1696,10 @@ newtab-sports-widget-suspended = معطل
 newtab-sports-widget-cancelled = منسوخ
 newtab-sports-widget-information = میچ دے بارے وچ معلومات
 newtab-sports-widget-no-live-data = لائیو میچ ڈیٹا ہݨے اپ ڈیٹ نیں تھیندا پیا
+newtab-sports-widget-view-results-link = نتیجے ݙیکھو
 newtab-sports-widget-third-place = تیجا نمبر
 newtab-sports-widget-champions = چیمپئنز
+newtab-sports-widget-world-cup-champions = 2026 ورلڈ کپ چیمپئنز
 # Compact champions label for the medium-size widget result card; the larger
 # card uses newtab-sports-widget-world-cup-champions.
 newtab-sports-widget-world-cup-champions-short = 2026 چیمپئنز

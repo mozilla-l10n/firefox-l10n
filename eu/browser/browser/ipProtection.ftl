@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = VPNa aurkezten dugu, orain nabigatzail
 ipprotection-feature-introduction-title-1 = Probatu { -brand-product-name }(r)en integratutako VPNa
 ipprotection-feature-introduction-link-text-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko.
 ipprotection-feature-introduction-title-privacy = Gehitu beste pribatutasun geruza bat
+ipprotection-feature-introduction-title-privacy-1 = Gehitu pribatutasunaren beste geruza bat integratutako VPNarekin
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-privacy-3 = Lortu <a data-l10n-name="learn-more-vpn">pribatutasun gehiago</a> nabigatzen duzun tokia ezkutatzeko hainbat kokapenen artean aukeratuz.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Ulertuta
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Ezarri integratutako VPNaren arauak, gero jarraitu nabigatzen
 ipprotection-site-inclusions-callout-title-lapsed-users = Probatu integratutako VPNa, orain gunean guneko konfigurazioarekin
+ipprotection-site-inclusions-callout-description-1 = Aktibatu VPNa pribatutasun estra edo kokapenean oinarritutako nabigazioa nahi duzunean, eta desaktibatu behar ez duzunean.
 ipprotection-site-inclusions-callout-description = Aktiba ezazu pribatutasun estra edo kokapenean oinarritutako nabigazioa nahi duzunean, eta desaktibatu behar ez duzunean.
 ipprotection-site-inclusions-callout-primary-button = Ezarri arauak
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Une honetan ez
@@ -365,6 +367,8 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Ezabatu webgune guztietako arauak?
 ip-protection-delete-all-site-rules-confirm =
     .label = Ezabatu arau guztiak
+ip-protection-delete-site-rule-retry =
+    .label = Saiatu berriro
 
 ## IP Protection Bandwidth
 

@@ -498,6 +498,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = Ireki eguneko irudiaren menua
     .title = Ireki eguneko irudiaren menua
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Ezarri irudi hau zure horma-paper gisa
+    .label = Ezarri horma-papera
+    .title = Ezarri horma-papera
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -506,6 +513,10 @@ newtab-picture-set-wallpaper =
     .title = Ezarri horma-papera
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Kudeatu horma-papera
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Ezkutatu irudi hau
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Erakutsi irudia
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Ezkutatu gaurko irudia
@@ -513,6 +524,10 @@ newtab-picture-menu-hide-photo = Ezkutatu gaurko irudia
 newtab-picture-menu-show-photo = Erakutsi gaurko irudia
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Argibide gehiago
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Erakutsi irudia
+    .title = Erakutsi irudia
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Erakutsi gaurko irudia
@@ -577,6 +592,14 @@ newtab-horoscopes-menu-learn-more = Argibide gehiago
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Bidaiak
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Ireki bidaien menua
+    .title = Ireki bidaien menua
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Argibide gehiago
 
@@ -888,6 +911,10 @@ newtab-custom-widget-search-toggle =
     .label = Bilaketa
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskopoak
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Bidaiak
 newtab-custom-widget-section-title = Widgetak
 newtab-custom-widget-section-toggle =
     .label = Widgetak

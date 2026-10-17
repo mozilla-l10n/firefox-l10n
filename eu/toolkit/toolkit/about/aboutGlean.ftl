@@ -195,6 +195,10 @@ about-glean-store-submitted-pings-select-label = Ping-a:
 about-glean-store-submitted-pings =
     .description = Bidalitako ping-ak memorian gordetzea gaitzen du
     .label = Gorde bidalitako ping-ak
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Bezeroaren informazioa
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Ping-aren informazioa
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

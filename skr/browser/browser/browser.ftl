@@ -1161,7 +1161,7 @@ qrcode-panel-error =
 qrcode-copy-button =
     .label = نقل کرو
 qrcode-copy-success =
-    .message = QR کوڈ کلپ بورڈ تے کاپی تھیا ڳیا۔
+    .message = QR کوڈ کلپ بورڈ تے کاپی تھی ڳیا۔
 qrcode-copy-error =
     .message = QR کوڈ کاپی کرݨ وچ ناکامی۔
 qrcode-save-button =
@@ -1198,7 +1198,7 @@ toolbar-button-share-tab =
     .tooltiptext = ایں صفحے کوں شیئر کرو
 toolbar-button-tab-groups =
     .label = ٹیب گروپس
-    .tooltiptext = اپݨے ٹیب گروپ ݙیکھو
+    .tooltiptext = اپݨے ٹیب گروپس ݙیکھو
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1323,7 +1323,7 @@ filepicker-blocked-infobar = تُہاݙی تنظیم نے اِیں کمپیوٹ�
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
-urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ہݨ ٹیبز ڳولدا ہے
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ہݨ ٹیبز ڳولیندا ہے
 urlbar-addons-shortcut-moved-description = ایکسٹینشنز تے تھیمز کھولݨ کیتے { $addonsShortcut } استعمال کرو۔
 urlbar-addons-shortcut-moved-change-shortcuts = شارٹ کٹس دا انتظام کرو
 urlbar-addons-shortcut-moved-dismiss = سمجھ گھدے

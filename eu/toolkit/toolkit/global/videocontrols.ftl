@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Bideo-formatua edo MIME mota ez da onart
 videocontrols-error-no-source = Ez da bideorik aurkitu onartutako bideo-formatu eta MIME motarekin.
 videocontrols-error-generic = Bideoaren erreprodukzioa abortatuta errore ezezagun batengatik.
 videocontrols-status-picture-in-picture = Bideoa beste leiho batean ari da erreproduzitzen.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Bideoa beste leiho batean ari da erreproduzitzen
 # This message shows the current position and total video duration
 #
 # Variables:

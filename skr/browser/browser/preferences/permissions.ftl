@@ -21,6 +21,9 @@ permissions-session =
 permissions-allow =
     .label = اجازت ݙیو
     .accesskey = A
+permissions-add =
+    .label = شامل کرو
+    .accesskey = A
 permissions-button-off =
     .label = بند کرو
     .accesskey = O
@@ -88,12 +91,22 @@ permissions-exceptions-cookie-window2 =
     .title = استثنیات - کوکیاں تے سائٹ دا ڈیٹا
 permissions-exceptions-cookie-desc = تساں ایہ ݙسا سڳدے او جو کیڑھیاں ویب سائٹاں کوں کوکیاں تے سائٹ دا ڈیٹا استعمال کرݨ دی ہمیشہ یا کݙاہیں اجازت کائنی۔ جیڑھی سائٹ دا تساں انتظام کرݨ چاہندے او اوندا صحیح پتہ ٹائپ کرو تے ول بلاک کرو، سیشن کیتے اجازت ݙیوو، یا اجازت ݙیوو تے کلک کرو۔
 
+## Exceptions - Clear on Shutdown
+
+permissions-exceptions-shutdown-clearing-desc = تساں ایہہ طے کر سڳدے ہو جو جڈاں { -brand-short-name } بند تھیوݨ تے ہسٹری صاف کرے تاں کیہڑیاں ویب سائٹس اپݨا ڈیٹا رکھسن۔ جہڑی سائٹ کوں تساں سنبھالݨ چہندے ہو اوندا ٹھیک پتہ لکھو تے وَل اجازت ڈیو تے کلک کرو۔
+
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .style = { permissions-window2.style }
     .title = استثنیات - HTTPS-Only Mode
 permissions-exceptions-https-only-desc2 = تساں مخصوص ویب سائٹاں کیتے صرف HTTPS موڈ کوں بند کر سڳدے ہو۔ { -brand-short-name } انہاں سائٹاں کیتے HTTPS کوں محفوظ بݨاوݨ کیتے کنکشن کوں اپ گریڈ کرݨ دی کوشش نہ کریسے۔
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+permissions-exceptions-popup-window3 =
+    .style = { permissions-window2.style }
+    .title = اجازت ڈتی ڳئیں ویب سائٹس - پوپ اپس تے تھرڈ پارٹی ری ڈائریکٹس
 
 ## Exceptions - Saved Passwords
 
@@ -146,6 +159,14 @@ permissions-site-xr-disable-label =
     .label = تہاݙے ورچوئل رئیلٹی ڈیوائسز تک رسائی دی درخواست کرݨ والیاں نویاں درخواستاں کوں روکو۔
 permissions-site-xr-disable-desc = ایہ کہیں وی ویب سائٹ کوں تہاݙے ورچوئل رئیلٹی ڈیوائسز تائیں رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے جیڑھی اوتے درج کائنی۔ تہاݙے ورچوئل رئیلٹی ڈیوائسز تائیں رسائی کوں بلاک کرݨ نال ویب سائٹ دیاں کجھ خصوصیات ترٹ سڳدیاں ہن۔
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = سیٹنگز - ایپ لنکس کیتے بلاک کیتیاں ڳئیں سائٹس
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -155,6 +176,22 @@ permissions-site-camera-desc = ہیٹھ درج ویب سائٹاں تہاݙے ک
 permissions-site-camera-disable-label =
     .label = اپݨے کیمرے تک رسائی کیتے پچھݨ والیاں نویاں درخواستاں کوں روکو۔
 permissions-site-camera-disable-desc = ایہ کہیں وی ویب سائٹ کوں تہاݙے کیمرے تک رسائی دی اجازت دی درخواست کرݨ کنوں روک ݙیسے جیڑھا اوتے درج کائنی۔ تہاݙے کیمرے تک رسائی کوں روکݨ نال ویب سائٹ دیاں کجھ خصوصیات ترٹ سڳدیاں ہن۔
+
+## Site Permissions - Loopback network
+
+permissions-site-localhost-window =
+    .style = { permissions-window2.style }
+    .title = سیٹنگز - ڈیوائس ایپس تے سروسز
+permissions-site-localhost-disable-label =
+    .label = ایں ڈیوائس تے ایپس تے سروسز دی رسائی کیتے نویاں درخواستاں بلاک کرو۔
+
+## Site Permissions - Local network
+
+permissions-site-local-network-window =
+    .style = { permissions-window2.style }
+    .title = سیٹنگز - مقامی نیٹ ورک ڈیوائسز
+permissions-site-local-network-disable-label =
+    .label = تیڈے وائی فائی یا مقامی نیٹ ورک نال جڑے ڈیوائسز تے ایپس تے سروسز دی رسائی کیتے نویاں درخواستاں بلاک کرو۔
 
 ## Site Permissions - Microphone
 

@@ -7,6 +7,11 @@ global-privacy-control-description =
     .accesskey = ݙ
 non-technical-privacy-group =
     .label = ویب سائٹ رازداری ترجیحاں
+do-not-track-removal3 =
+    .message = اساں “Do Not Track” فیچر دی حمایت ہݨ نہیں کریندے۔
+preferences-privacy-relay-available =
+    .description = تیڈے اصلی ای میل پتے کوں لکائیے رکھے تاں جو تیڈا ان باکس اسپام توں محفوظ رہے۔
+    .label = { -relay-brand-name } ای میل ماسکس تجویز کرو
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -34,6 +39,8 @@ category-list =
     .aria-label = ونکیاں
 pane-general-title = عمومی
 pane-home-title = مُکھ پناں
+pane-home-startup-title2 = ہوم تے سٹارٹ اپ
+    .title = ہوم تے سٹارٹ اپ
 pane-search-title2 = ڳولو
     .title = ڳولو
 pane-privacy-title3 = رازداری تے سلامتی
@@ -41,8 +48,21 @@ pane-privacy-title3 = رازداری تے سلامتی
 pane-privacy-section =
     .heading = رازداری تے سلامتی
 pane-sync-title3 = ہم وقت
+pane-about-firefox-title = { -brand-short-name } دے بارے اچ
+    .title = { pane-about-firefox-title }
+pane-downloads-title2 = ڈاؤن لوڈز
+    .title = ڈاؤن لوڈز
+pane-accessibility-title = رسائی
+    .title = { pane-accessibility-title }
+pane-languages-title2 = زباناں
+    .title = زباناں
+preferences-languages-header3 =
+    .heading = زباناں
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
+settings-pane-labs-header =
+    .heading = { -firefoxlabs-brand-name }
+pane-experimental-description4 = ساڈیاں تجرباتی خصوصیات کوں آزما ݙیکھو! اوہ ہݨ تیاری دے مراحل اچ ہن تے مسلسل بہتر تھیندیاں پئیاں ہن، جیہڑا { -brand-short-name } دے کم کرݨ دے طریقے تے اثر پا سڳدا ہے۔ اساں ایں خصوصیات دے تیڈے استعمال بارے ڈیٹا صرف اوں صورت اچ حاصل کریندے ہاں جڈاں تساں <a data-l10n-name="data-collection">تکنیکی تے تعامل دا ڈیٹا</a> چالو کیتا ہووے۔
 pane-experimental-reset =
     .label = ڈیفالٹس بحال کرو
     .accesskey = R
@@ -54,6 +74,8 @@ focus-search =
     .key = f
 close-button =
     .aria-label = بند کرو
+do-not-track-removal2 =
+    .label = اساں “Do Not Track” سگنل دی حمایت ہݨ نہیں کریندے۔
 applications-setting-new-file-types =
     .label = { -brand-short-name } کوں ٻیاں فائلاں دے نال کیا کرݨا چاہیدا اے؟
 
@@ -97,6 +119,10 @@ extension-controlling-proxy-config = <img data-l10n-name ="icon"/> <strong>{ $na
 # <img data-l10n-name="addons-icon"/> will be replaced with Add-ons icon
 # <img data-l10n-name="menu-icon"/> will be replaced with Menu icon
 extension-controlled-enable = ایکسٹینشن کوں فعال کرݨ کیتے <img data-l10n-name="menu-icon"/> مینو وِچ <img data-l10n-name="addons-icon"/> Add-ons تے ونڄو۔
+extension-controlled-enable-2 = ایں ایکسٹینشن کوں مڑ فعال کرݨ کیتے <a data-l10n-name="addons-link">ایکسٹینشنز تے تھیمز</a> تے ونجو۔
+# This string is shown to notify the user that their home page or new tab preferences
+# are being controlled by an extension.
+extension-controlling-homepage = { $name } تیڈے ہوم پیج دیاں کجھ سیٹنگز کوں کنٹرول کریندا ہے۔
 
 ## Preferences UI Search Results
 
@@ -113,23 +139,82 @@ always-check-default =
 startup-restore-windows-and-tabs =
     .label = پچھلی ونڈوز تے ٹیباں کھولو
     .accesskey = s
+startup-windows-launch-on-login-profile-disabled =
+    .message = ایں ترجیح کوں “Choose User Profile” ونڈو اچ “{ profile-manager-use-selected.label }” کوں چیک کر تے فعال کرو۔
 windows-launch-on-login =
     .label = جہڑیلے تُہاݙا کمپیوٹر شروع تِھین٘دا ہِے تاں خود کار طریقے نال { -brand-short-name } کھولو
     .accesskey = ک
 windows-launch-on-login-disabled = اِیہ ترجیح ونڈوز وِچ غیر فعال کر ݙِتّی ڳئی ہِے۔ بَدلݨ کِیتے، سسٹم دیاں ترتیباں وِچ <a data-l10n-name="startup-link">سٹارٹ اَپ ایپس</a>تے ون٘ڄو۔
+# Option to also opens a new tab, in addition to restoring previous tabs and windows
+windows-launch-on-login-open-new-tab =
+    .label = نواں ٹیب وی کھولو
+    .accesskey = n
 disable-extension =
     .label = ایکسٹینشن غیرفعال بݨاؤ
+preferences-data-migration-group =
+    .description = بیے براؤزر توں تیڈے نشان، پاس ورڈز، ہسٹری، ایکسٹینشنز تے آٹو فل ڈیٹا ڳھن آؤ۔
+    .label = براؤزر ڈیٹا امپورٹ کرو
 preferences-data-migration-button =
     .label = ڈیٹا امپورٹ کرو
     .accesskey = m
+preferences-profiles-group-header =
+    .heading = پروفائلاں
+preferences-profiles-subpane-description =
+    .description = ہر پروفائل دا براؤزنگ ڈیٹا تے سیٹنگز وکھرے ہن، جیندے اچ ہسٹری، پاس ورڈز تے بیا وی شامل ہے۔
+preferences-profiles-section-header =
+    .description = ہر پروفائل دا براؤزنگ ڈیٹا تے سیٹنگز وکھرے ہن، جیندے اچ ہسٹری، پاس ورڈز تے بیا وی شامل ہے۔
+    .label = پروفائل
+preferences-manage-profiles-button =
+    .label = پروفائل منیج کرو
+preferences-profiles-settings-button =
+    .label = ترتیباں
+# This string labels the entire copy profile section in the profiles sub-pane.
+preferences-copy-profile-header =
+    .description = نواں پروفائل تیڈیاں ترتیباں، ایڈ آنز، ہسٹری تے محفوظ شدہ ڈیٹا جیویں نشان تے پاس ورڈز کاپی کریسی، پر تیڈا اکاؤنٹ یا سنک دی معلومات نہیں۔
+    .label = موجودہ پروفائل دی کاپی بݨاؤ
+# This string sits next to the copy controls, both the copy-profile-select
+# drop-down and the copy-profile-button, so that the user understands they
+# need to first pick a profile to copy, and then click the copy button.
+preferences-profile-to-copy =
+    .label = کاپی کرݨ والا پروفائل
+# This string is a placeholder that will be shown in a drop-down list of
+# profiles. The user will select a profile, then click the copy button
+# to make a copy of that profile.
+preferences-copy-profile-select = پروفائل منتخب کرو
+preferences-copy-profile-button = نقل کرو
+tabs-browsing-section =
+    .heading = ٹیبز تے براؤزنگ
+pane-tabs-browsing-title2 = ٹیبز تے براؤزنگ
+    .title = ٹیبز تے براؤزنگ
 tabs-group-header2 =
     .label = ٹیباں
+tabs-opening-heading =
+    .label = کھولوݨ
+tabs-interaction-heading =
+    .label = تعامل
+tabs-containers-heading =
+    .label = کنٹینرز
+tabs-closing-heading =
+    .label = بند کرݨ
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab حالیہ استعمال شدہ ترتیب وِچ ٹیباں دے ذریعے چکر لیندا ہے۔
     .accesskey = T
 open-new-link-as-tabs =
     .label = نویں ونڈوز دی بجائے ٹیباں وِچ لنکس کھولو
     .accesskey = w
+open-external-link-next-to-active-tab =
+    .label = ایپس توں آوݨ والے لنک تیڈے فعال ٹیب دے نال کھولو
+ask-on-close-multiple-tabs =
+    .label = متعدد ٹیباں کوں بند کرݨ توں پہلے پچھو
+    .accesskey = m
+# This string is used for the confirm before quitting preference.
+# Variables:
+#   $quitKey (string) - the quit keyboard shortcut, and formatted
+#                       in the same manner as it would appear,
+#                       for example, in the File menu.
+ask-on-quit-with-key =
+    .label = { $quitKey } دے نال بند کرݨ توں پہلے پچھو
+    .accesskey = b
 warn-on-open-many-tabs =
     .label = تہاکوں چتاوݨی ہے جو ٹیباں کھولݨ نال { -brand-short-name } سست تھی سڳدی ہے
     .accesskey = d
@@ -1499,6 +1584,8 @@ preferences-doh-status-item-not-active-local =
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
 preferences-doh-status-item-active-local =
     .message = DNS اوور HTTPS مقامی پرووائیڈر { $name } ورت ریہا ہے۔
+preferences-doh-select-resolver-label =
+    .label = پرووائیڈر چݨو:
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item =
@@ -1506,8 +1593,195 @@ connection-dns-over-https-url-item =
     .tooltiptext = ایں پرووائیڈر کوں DNS اوور HTTPS ریزالو کرݨ کیتے ورتو۔
 preferences-doh-custom-provider-label =
     .aria-label = ہک کسٹم پرووائیڈر دا URL درج کرو۔
+preferences-doh-header2 =
+    .heading = DNS اوور HTTPS
+
+## Connection and software security section
+
+preferences-connection-header =
+    .heading = کنیکشن تے سافٹ ویئر سیکیورٹی
+preferences-connection-link-section =
+    .description = ݙیکھو جو کنیکشن کیویں محفوظ ریندے ہن، نقصان ݙیوݨ والے سافٹ ویئر کوں کیویں بلاک کیتا ویندا ہے تے ویب سائٹاں دی تصدیق کیویں تھیندی ہے۔
+    .label = کنیکشن تے سافٹ ویئر سیکیورٹی
+preferences-connection-link-button =
+    .label = ایڈوانسڈ سیٹنگز
 
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ڈیسک ٹاپ
 downloads-folder-name = ڈاؤن لوڈ
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = ظاہر
+browser-theme-group =
+    .description = { -brand-short-name } کوں آپݨے انداز نال سجاو۔ تھیم دے رنگ ٹول بارز، مینیوز تے میسجز تے لاڳو تھیندے ہن۔
+    .label = براؤزر تھیم
+browser-theme-manage-link =
+    .label = { -brand-short-name } تھیمز منیج کرو۔
+appearance-window-density-group =
+    .description = ٹول بار، ٹیبز تے سائیڈ بار جیویں ونڈو عناصر دے ارد گرد دی تھاں کوں ایڈجسٹ کرو۔
+    .label = ونڈو ڈینسٹی
+appearance-window-density-radio-group =
+    .aria-label = ونڈو ڈینسٹی
+appearance-window-density-automatic =
+    .description = معیاری، کمپیکٹ یا ٹچ اسپیسنگ خود بخود لاڳو تھی ویندی ہے۔
+    .label = آٹومیٹک (ڈیفالٹ)
+appearance-window-density-automatic-no-touch =
+    .description = معیاری یا کمپیکٹ اسپیسنگ خود بخود لاڳو تھی ویندی ہے۔
+    .label = آٹومیٹک (ڈیفالٹ)
+appearance-window-density-standard =
+    .description = زیادہ تر اسکرینز کیتے متوازن اسپیسنگ
+    .label = معیاری
+appearance-window-density-auto-touch-mode =
+    .label = ٹیبلٹ موڈ کیتے ٹچ اسپیسنگ ورتو۔
+appearance-window-density-compact =
+    .description = چھوٹی اسکرینز کیتے گھٹ اسپیسنگ
+    .label = کمپیکٹ
+appearance-window-density-touch =
+    .description = وݙے ونڈو عناصر تے کلک دے ٹارگٹس، ٹچ اسکرینز کیتے بہتر کیتے ڳئے۔
+    .label = ٹچ
+related-settings-group =
+    .label = متعلقہ سیٹنگز
+related-settings-accessibility-link =
+    .label = رسائی وچ زوم تے فونٹ سیٹنگز کسٹمائز کرو۔
+related-settings-home-link =
+    .label = کسٹمائز کرو { -firefox-home-brand-name }
+related-settings-tabs-browsing-link =
+    .label = براؤزر لے آؤٹ کسٹمائز کرو۔
+
+## AI controls page
+
+preferences-ai-controls-description = تہاکوں ہمیشاں { -brand-short-name } وچ انتخاب دا حق ہے، جیندے وچ ایہ وی شامل ہے کہ آیا AI نال بہتر کیتے ڳئے فیچرز ورتنے ہن یا نہ۔ بیا کنٹرولز جلدی آ رہے ہن۔
+preferences-ai-controls-block-ai-label = AI بہتریاں بلاک کرو
+preferences-ai-controls-block-ai =
+    .label = { preferences-ai-controls-block-ai-label }
+preferences-ai-controls-block-ai-description = بلاک کرݨ دا مطلب ہے کہ تہاکوں { -brand-short-name } وچ نویاں یا موجودہ AI بہتریاں نظر نیں آسن، نہ ہی انہاں بارے پاپ اپس۔ <a data-l10n-name="link">بیا تفصیل ڳنو</a> کہ کیہ شامل ہے تے روایتی مشین لرننگ فیچرز، جیویں سرچ تجویزاں تے سفارشاں، کوں کیویں کنٹرول کیتا ویندا ہے۔
+preferences-ai-controls-blocked-message =
+    .message = نویاں تے موجودہ AI بہتریاں بطور ڈیفالٹ بلاک ہن۔ کِسے خاص فیچر کوں ان بلاک کرݨ کیتے، تھلے کنٹرولز ورتو۔
+preferences-ai-controls-on-device-group =
+    .description = ایہ چھوٹے AI ماڈلز ورتیندے ہن جیڑھے تہاݙی ڈیوائس تے ڈاؤن لوڈ تھیندے ہن جے تہاں فیچر ورتو۔ ایہ طریقہ تہاݙی پرائیویسی دی حفاظت وچ مدد کریندا ہے۔
+    .label = آن ڈیوائس AI
+preferences-ai-controls-translations-control =
+    .description = اپݨی پسندیدی زبان وچ ویب تے بغیر رکاوٹ براؤز کرو۔
+    .label = ترجمے
+preferences-ai-controls-translations-more-link = ترجمے دیاں بیا سیٹنگز
+preferences-ai-controls-pdfjs-control =
+    .description = جڈاں تہاں PDFs وچ تصاویر شامل کریندو، ایہ انہاں کوں قابل رسائی بݨاوݨ کیتے تفصیل شامل کریندا ہے۔
+    .label = { -brand-short-name } PDF ویوئر وچ تصاویر دا alt متن
+preferences-ai-controls-tab-group-suggestions-control =
+    .description = اپݨے ٹیبز دا ناں رکھݨ تے انہاں کوں منظم کرݨ کیتے تجویزاں ڳنو۔
+    .label = ٹیب گروپ تجویزاں
+preferences-ai-controls-key-points-control =
+    .description = لنک کھولݨ کنوں پہلے تیز خلاصہ ݙیکھو۔
+    .label = لنک پری ویو وچ اہم نکات
+preferences-ai-controls-speech-recognition-control =
+    .description = آواز کوں مقامی طور تے تحریر وچ بدلو۔
+    .label = آواز دی پہچاݨ
+preferences-ai-controls-sidebar-chatbot-group-3 =
+    .description = براؤزنگ دے دوران چیٹ بوٹ کوں نظروں وچ رکھو۔ متعدد پرووائیڈرز وچوں چݨو تے جڈاں چاہو تبدیل کرو۔
+    .label = سائیڈ بار وچ AI چیٹ بوٹ پرووائیڈرز
+preferences-ai-controls-sidebar-chatbot-group =
+    .description = براؤزنگ دے دوران چیٹ بوٹ کوں نظروں وچ رکھو۔ Anthropic Claude، ChatGPT، Copilot، Google Gemini تے Le Chat Mistral وچوں چݨو۔
+    .label = سائیڈ بار وچ AI چیٹ بوٹ پرووائیڈرز
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = سائیڈ بار وچ چیٹ بوٹ
+# This option means that a user will see the feature and can use it.
+preferences-ai-controls-state-available =
+    .label = دستیاب
+# This option means a user has opted in to use the feature.
+preferences-ai-controls-state-enabled =
+    .label = فعال
+# This option means the user won't see and can't use the feature. For on-device AI, any models already downloaded are removed.
+preferences-ai-controls-state-blocked =
+    .label = بلاک کیتا ڳیا
+preferences-ai-controls-state-description-before = آپشنز دا مطلب ایہ ہے:
+preferences-ai-controls-state-description-available = <strong>دستیاب:</strong> تہاں فیچر ݙیکھسو تے ورت سڳسو۔
+preferences-ai-controls-state-description-enabled = <strong>فعال:</strong> تہاں فیچر ورتݨ کیتے شامل تھیوݨ دی چݨ کیتی ہے۔
+preferences-ai-controls-state-description-blocked = <strong>بلاک کیتا ڳیا:</strong> تہاں فیچر ݙیکھسو تے ورت نیں سڳسو۔ آن ڈیوائس AI کیتے، پہلے کنوں ڈاؤن لوڈ کیتے ڳئے کوئی وی ماڈل ہٹا ݙتے ویندے ہن۔
+preferences-ai-controls-block-confirmation-heading = AI بہتریاں بلاک کرو؟
+preferences-ai-controls-block-confirmation-description = تہاں { -brand-short-name } وچ نویاں یا موجودہ AI بہتریاں نیں ݙیکھسو، تے نہ انہاں بارے کوئی پاپ اپ ݙیکھسو۔ ایندے بعد، تہاں کہیں وی چیز کوں ان بلاک کر سڳسو جینکوں تہاں ورتݨا چاہو۔
+preferences-ai-controls-block-confirmation-features-start = کیا بلاک تھیسی:
+preferences-ai-controls-block-confirmation-translations = ترجمے
+
+## Enhanced Tracking Protection (ETP) status section
+
+preferences-etp-custom-cookies-enabled =
+    .label = کوکیز
+preferences-etp-custom-cookie-behavior =
+    .aria-label = کوکیز
+preferences-etp-custom-cookie-behavior-accept-all =
+    .label = ساریاں کوکیز دی اجازت ݙیو
+preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
+    .label = کراس سائٹ ٹریکنگ کوکیز بلاک کرو
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = کراس سائٹ کوکیز بلاک کرو
+preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
+    .label = کراس سائٹ کوکیز الڳ کرو
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = بے وزٹ کیتے ویب سائٹاں دیاں کوکیز بلاک کرو
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = ساریاں کراس سائٹ کوکیز بلاک کرو (اینال ویب سائٹاں کم خراب کر سڳدین)
+preferences-etp-custom-cookie-behavior-block-all =
+    .label = ساریاں کوکیز بلاک کرو (اینال ویب سائٹاں کم خراب کر سڳدین)
+preferences-etp-custom-tracking-protection-enabled =
+    .label = ٹریکنگ مواد
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = ٹریکنگ مواد
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = کرپٹو مائنرز
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = وسیݨے ڳئے فنگر پرنٹرز
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = شکے ڳئے فنگر پرنٹرز
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = شکے ڳئے فنگر پرنٹرز
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .description = ایں نال کجھ ٹریکر کوکیز دے بغیر تہاݙا پیچھا کر سڳدے ہن۔
+    .label = وسیݨے ڳئے فنگر پرنٹرز بلاک نیں کیتے ڳئے
+security-privacy-issue-warning-third-party-cookies =
+    .description = تھرڈ پارٹی کوکیز ویب سائٹاں تے تہاݙا پیچھا کرݨ کیتے ورتیاں ویندیاں ہن۔
+    .label = تھرڈ پارٹی کوکیز فعال ہن
+security-privacy-issue-warning-password-manager =
+    .description = پاس ورڈ مینیجر تہاݙے اکاؤنٹاں کیتے مضبوط پاس ورڈ سٹور کرݨ وچ مدد ݙیندے ہن۔
+    .label = پاس ورڈ مینیجر غیر فعال ہے
+security-privacy-issue-warning-popup-blocker =
+    .description = پاپ اپس خلل پیندے ہن تے ممکنہ طور تے نقصان دہ ہو سڳدے ہن۔
+    .label = پاپ اپ بلاکر غیر فعال ہے
+security-privacy-issue-warning-extension-install =
+    .description = ویب سائٹاں { -brand-short-name } وچ بنا پچھے ایکسٹینشنز انسٹال کر سڳدیاں ہن۔
+    .label = ویب سائٹاں ایکسٹینشنز انسٹال کر سڳدیاں ہن
+security-privacy-issue-warning-safe-browsing =
+    .description = ویب سائٹاں توں دھوکے بازی تے میلویئر دا تہاݙا سامݨا ودھ ڳیا ہے۔
+    .label = خطرناک تے دھوکے باز مواد بلاک نیں کیتا ڳیا
+security-privacy-issue-warning-doh2 =
+    .description = DNS اوور HTTPS تہاݙے نیٹ ورک پرووائیڈر توں ایہ لکاوݨ وچ مدد کریندا ہے جو تسیں کݙھیاں ویب سائٹاں تے ونݨ آلے ہاو۔
+    .label = DNS اوور HTTPS غیر فعال ہے
+security-privacy-issue-warning-ech2 =
+    .description = اینکرپٹڈ کلائنٹ ہیلو تہاݙے نیٹ ورک پرووائیڈر توں ایہ لکاوݨ وچ مدد کریندا ہے جو تسیں کݙھیاں ویب سائٹاں تے ونݨ آلے ہاو۔
+    .label = اینکرپٹڈ کلائنٹ ہیلو غیر فعال ہے
+security-privacy-issue-warning-doh =
+    .description = DNS اوور HTTPS تہاݙے نیٹ ورک پرووائیڈر توں ایہ لکیندا ہے جو تسیں کݙھیاں ویب سائٹاں وزٹ کریندے ہاو۔
+    .label = DNS اوور HTTPS غیر فعال ہے
+security-privacy-issue-warning-ech =
+    .description = اینکرپٹڈ کلائنٹ ہیلو تہاݙے نیٹ ورک پرووائیڈر توں ایہ لکیندا ہے جو تسیں کݙھیاں ویب سائٹاں وزٹ کریندے ہاو۔
+    .label = اینکرپٹڈ کلائنٹ ہیلو غیر فعال ہے
+security-privacy-issue-warning-proxy-autodetection =
+    .description = پراکسی خودکار ترتیب غیر بھروسے مند نیٹ ورکس کوں تہاݙی سرگرمی دی نگرانی کرݨ دی اجازت ڈے سڳدی ہے۔
+    .label = پراکسی خودکار ترتیب فعال ہے
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .description = کسے کوں ایں براؤزر کوں چݨݨ دی دعوت ڈیو جیہڑا رازداری کوں سب توں پہلے رکھدا ہے۔
+    .label = { -brand-product-name } سانجھ کرو
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = { -brand-product-name } سانجھ کرو

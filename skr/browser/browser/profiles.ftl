@@ -26,6 +26,7 @@ profile-card =
 default-profile-name = پروفائل{ $number }
 # The word 'original' is used in the sense that it is the initial or starting profile when you install Firefox.
 original-profile-name = اصل پروفائل
+default-desktop-shortcut-name = { -brand-short-name }
 edit-profile-page-title = پروفائل وچ تبدیلی کرو
 edit-profile-page-header = آپݨی پروفائل وچ تبدیلی کرو
 edit-profile-page-profile-name-label = پروفائل دا ناں
@@ -43,9 +44,13 @@ edit-profile-page-delete-button =
     .label = مٹاؤ
 edit-profile-page-avatar-selector-opener-button =
     .title = اوتار بدلو
+edit-profile-page-avatar-selector-opener-link = ترمیم
 avatar-selector-icon-tab = آئیکن
+avatar-selector-custom-tab = اپݨا
 avatar-selector-cancel-button =
     .label = منسوخ کرو
+avatar-selector-save-button =
+    .label = محفوظ کرو
 avatar-selector-upload-file = فائل اپ لوڈ کرو
 avatar-selector-drag-file = یا فائل ایتھے گھسیٹو
 avatar-selector-add-image = ہک تصویر شامل کرو
@@ -109,3 +114,86 @@ delete-profile-confirm = مٹاؤ
 
 # The default system theme
 profiles-system-theme = سسٹم
+
+## Alternative text for default profile icons
+
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar-alt =
+    .alt = ہیرا
+barbell-avatar-alt =
+    .alt = باربیل
+bike-avatar-alt =
+    .alt = سائیکل
+
+## Tooltips for default avatar icons
+
+book-avatar = کتاب
+briefcase-avatar = بریف کیس
+clock-avatar = گھڑی
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar = دستکاری
+custom-avatar = اپݨا اوتار
+# Diamond refers to the precious stone, not the geometric shape
+diamond-avatar = ہیرا
+flower-avatar = گل
+folder-avatar = فولڈر
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar = گلوب
+hammer-avatar = ہتھوڑا
+heart-avatar = دل
+heart-rate-avatar = دل دی دھڑکن
+leaf-avatar = پتا
+lightbulb-avatar = بلب
+makeup-avatar = میک اپ
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar = پیغام
+musical-note-avatar = موسیقی دا نوٹ
+palette-avatar = پیلٹ
+paw-print-avatar = پنجے دا نشان
+picture-avatar = تصویر
+plane-avatar = جہاز
+# Present refers to a gift box, not the current time period
+present-avatar = تحفہ
+shopping-avatar = خریداری دی ٹوکری
+soccer-ball-avatar = فٹ بال
+sparkle-single-avatar = چمک
+star-avatar = تارہ
+video-game-controller-avatar = ویڈیو گیم کنٹرولر
+custom-avatar-crop-back-button =
+    .aria-label = پچھے
+custom-avatar-crop-view =
+    .aria-label = تصویر کاٹݨ دا منظر
+custom-avatar-crop-area =
+    .aria-label = کاٹݨ دی جاہ ایڈجسٹ کرو
+custom-avatar-drag-handle =
+    .aria-label = کاٹݨ دی جاہ دا سائز بدلو
+profiles-appmenu-callout-tour-title = تہاڈا نواں پروفائل تیار ہے
+# "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
+profiles-appmenu-callout-tour-subtitle = مینیو ☰ وچ، اپݨے پروفائل دے ناں تے ٹیپ کرو تے ہک بیا پروفائل بݨاؤ، ایں کوں ترمیم کرو، یا اپݨیاں ڈیجیٹل زندگیاں دے درمیان بدلو۔
+profiles-appmenu-callout-tour-primary-button = مینوں ݙکھاؤ کیویں
+barbell-avatar = باربیل
+bike-avatar = بائیسیکل
+barbell-avatar-tooltip =
+    .tooltiptext = باربیل اوتار لاؤ
+bike-avatar-tooltip =
+    .tooltiptext = بائیسیکل اوتار لاؤ
+book-avatar-tooltip =
+    .tooltiptext = کتاب اوتار لاؤ
+briefcase-avatar-tooltip =
+    .tooltiptext = بریف کیس اوتار لاؤ
+picture-avatar-tooltip =
+    .tooltiptext = تصویر اوتار لاؤ
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-tooltip =
+    .tooltiptext = دستکاری اوتار لاؤ
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-tooltip =
+    .tooltiptext = گلوب اوتار لاؤ
+diamond-avatar-tooltip =
+    .tooltiptext = ہیرا اوتار لاؤ
+flower-avatar-tooltip =
+    .tooltiptext = گل اوتار لاؤ
+folder-avatar-tooltip =
+    .tooltiptext = فولڈر اوتار لاؤ
+hammer-avatar-tooltip =
+    .tooltiptext = ہتھوڑا اوتار لاؤ

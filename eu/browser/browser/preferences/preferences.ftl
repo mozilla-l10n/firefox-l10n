@@ -1795,6 +1795,10 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Aukeratu zein webgunek instala ditzaketen hedapenak
     .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Kudeatu blokeatutako guneak
+    .accesskey = K
 permissions-location2 =
     .label = Kokapena
 permissions-localhost2 =

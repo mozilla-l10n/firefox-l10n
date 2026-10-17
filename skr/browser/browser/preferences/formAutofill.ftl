@@ -29,6 +29,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = ہݨ کائناں
     .accessKey = N
+address-capture-never-save-addresses-button =
+    .label = پتے کڈھیں نہ محفوظ کرو۔
+    .accessKey = v
 address-capture-cancel-button =
     .label = منسوخ
     .accessKey = C
@@ -112,8 +115,14 @@ autofill-card-number = کارڈ دا نمبر
 autofill-card-invalid-number = براہ کرم ہک درست کارڈ نمبر درج کرو۔
 autofill-card-name-on-card-2 =
     .label = کارڈ تے ناں
+autofill-card-expires-month-2 =
+    .label = ختم تھیوݨ دا مہینہ
 autofill-card-billing-address-2 =
     .label = بل دا پتہ
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-optional =
+    .label = CVV (اختیاری)
 autofill-card-name-on-card = کارڈ تے ناں
 autofill-card-expires-month = اختتامی مہینہ
 autofill-card-expires-year = اختتامی سال

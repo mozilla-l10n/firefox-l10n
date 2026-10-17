@@ -45,3 +45,14 @@ unified-extensions-mb-quarantined-domain-message-3 =
     .message = تُہاݙے ڈیٹا دی راکھی کِیتے، کُجھ ایکسٹنشنز اِیں سائٹ اُتے ڈیٹا کُوں پڑھ یا بَدل نِھیں سڳدیاں۔ { -vendor-short-name }دے ذریعے محدود کِیتیاں ڳئیں سائٹس اُتے اجازت ݙیوݨ کِیتے ایکسٹنشن دیاں ترتیباں دا استعمال کرو۔
 unified-extensions-mb-quarantined-domain-learn-more = ٻیا سِکھو
     .aria-label = ٻیا سِکھو: کجھ ایکسٹینشناں دی اجازت کائنی
+# Variables:
+#   $extensionsCount (Number) - Number of extensions disabled through hard-blocks.
+unified-extensions-mb-blocklist-error-multiple =
+    .heading =
+        { $extensionsCount ->
+            [one] { $extensionsCount } ایکسٹینشن غیر فعال کر ݙتی ڳئی
+           *[other] { $extensionsCount } ایکسٹینشنز غیر فعال کر ݙتیاں ڳئیاں
+        }
+    .message = موزیلا دیاں پالیسیاں دی خلاف ورزی کرݨ تے تہاݙے کجھ ایکسٹینشنز غیر فعال کر ݙتے ڳئے ہن۔
+unified-extensions-notice-safe-mode =
+    .message = مسئلہ حل کرݨ آلے موڈ سارے ایکسٹینشنز غیر فعال کر ݙتے ہن۔

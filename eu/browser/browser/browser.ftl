@@ -1411,6 +1411,27 @@ reset-pbm-toolbar-button2 =
     .label = Garbitu saio pribatua
     .tooltiptext = Garbitu saio pribatua
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Ezabatu zure nabigatze-datu batzuk edo guztiak
+    .tooltiptext = Ezabatu zure nabigatze-datu batzuk edo guztiak
+fire-button-panel-heading = Ezabatu nabigatze-datu guztiak?
+fire-button-panel-description = Honek historia, cookieak eta gunearen datuak ezabatzen ditu. Guneetan hasita dituzun saioak amaitu egingo dira. Leiho hau itxi egingo da eta { -brand-short-name }(e)k berri bat irekiko du.
+fire-button-panel-choose-description = Ez baduzu guztia ezabatu nahi, aukeratu zehazki zein datu ezabatuko diren.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Aukeratu…
+fire-button-panel-cancel-button =
+    .label = Utzi
+    .accesskey = U
+fire-button-panel-confirm-button =
+    .label = Ezabatu denak
+    .accesskey = E
+fire-button-panel-complete = Nabigatze-datuak ezabatuta
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }(e)k orri hau blokeatu du automatikoki ez berritzeko.

@@ -47,3 +47,36 @@ add-engine-window =
     .title = ڳولݨ انجݨ شامل کرو
 add-engine-button = حسب ضرورت انجن شامل کرو۔
 add-engine-name = ڳولݨ انجݨ ناں
+
+## The following placeholders are shown in the inputs when adding a new engine.
+
+add-engine-keyword-placeholder =
+    .placeholder = e.g., @mdn
+
+## The following strings are used as error messages.
+
+add-engine-keyword-exists = اوہ کی ورڈ پہلوں ہی استعمال تھیندا پیا ہے۔ بیا کی ورڈ آزماؤ۔
+add-engine-name-exists = اوہ ناں پہلوں ہی استعمال تھیندا پیا ہے۔ مہربانی کر کے بیا ناں چُنو۔
+add-engine-no-name = مہربانی کر کے ناں شامل کرو۔
+add-engine-no-url = مہربانی کر کے URL داخل کرو۔
+add-engine-invalid-url = اوہ URL ٹھیک نیں لڳدا۔ مہربانی کر کے ایندی جانچ کرو تے بیا کوشش کرو۔
+add-engine-invalid-protocol = اوہ URL ٹھیک نیں لڳدا۔ http یا https نال شروع تھیندا URL استعمال کرو۔
+# This error is shown when the user typed URL is missing %s.
+add-engine-missing-terms-url = تلاش دی اصطلاح دی جاہ تے %s شامل کرݨ دی کوشش کرو۔
+# This error is shown when the user typed post data is missing %s.
+add-engine-missing-terms-post-data = تلاش دی اصطلاح دی جاہ تے %s شامل کرݨ دی کوشش کرو۔
+
+## The following strings are used as labels for the dialog's buttons.
+
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+add-engine-dialog2 =
+    .buttonlabelaccept = تلاش انجن شامل کرو
+    .buttonlabelextra1 = ایڈوانسڈ
+    .buttonaccesskeyaccept = A
+# buttonlabelextra1 is the label of a button to open the advanced section
+# of the dialog.
+edit-engine-dialog =
+    .buttonlabelaccept = تلاش انجن محفوظ کرو
+    .buttonlabelextra1 = ایڈوانسڈ
+    .buttonaccesskeyaccept = S

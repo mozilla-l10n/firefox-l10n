@@ -92,6 +92,20 @@ tabbrowser-confirm-close-windows-button =
 
 tabbrowser-confirm-close-tabs-with-key-title = { -brand-short-name } ونڈو بند کرو تے چھوڑ ݙیو؟
 tabbrowser-confirm-close-tabs-with-key-button = چھوڑ ݙیو { -brand-short-name }
+# Variables:
+#   $quitKey (String): the text of the keyboard shortcut for quitting.
+tabbrowser-ask-close-tabs-with-key-checkbox = { $quitKey } نال بند کرݨ توں پہلے پُچھو
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
+
+tabbrowser-confirm-close-warn-shortcut-title = { -brand-short-name } بند کرو یا موجودہ ٹیب بند کرو؟
+tabbrowser-confirm-close-windows-warn-shortcut-button =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } بند کرو
+       *[other] { -brand-short-name } بند کرو
+    }
+tabbrowser-confirm-close-tab-only-button = موجودہ ٹیب بند کرو
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -132,8 +146,14 @@ tabbrowser-customizemode-tab-title = { -brand-short-name } من مرضی دا ب
 tabbrowser-context-mute-tab =
     .label = ٹیب کوں خاموش کرو
     .accesskey = M
+tabbrowser-context-mute-tab2 =
+    .label = آواز بند کرو
+    .accesskey = M
 tabbrowser-context-unmute-tab =
     .label = ٹیب کوں چالو کرو
+    .accesskey = m
+tabbrowser-context-unmute-tab2 =
+    .label = آواز چالو کرو
     .accesskey = m
 # The accesskey should match the accesskey for tabbrowser-context-mute-tab
 tabbrowser-context-mute-selected-tabs =
@@ -164,6 +184,14 @@ tabbrowser-manager-unmute-tab =
     .tooltiptext = ٹیب کوں چالو کرو
 tabbrowser-manager-close-tab =
     .tooltiptext = ٹیب بند کرو
+# This is for tab groups that have been "saved and closed" (see tab-group-editor-action-save). It does
+# not include "deleted" tab groups (see tab-group-editor-action-delete).
+tabbrowser-manager-closed-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — بند
+tabbrowser-manager-current-window-tab-group =
+    .label = { $tabGroupName }
+    .tooltiptext = { $tabGroupName } — موجودہ ونڈو
 
 ##
 
@@ -175,9 +203,152 @@ tab-group-editor-name-field =
 tab-group-editor-cancel =
     .label = منسوخ
     .accesskey = C
+tab-group-editor-color-selector =
+    .aria-label = ٹیب گروپ دا رنگ
+tab-group-editor-color-selector2-blue = نیلا
+    .title = نیلا
+tab-group-editor-color-selector2-purple = جامنی
+    .title = جامنی
+tab-group-editor-color-selector2-cyan = ہلکا نیلا
+    .title = ہلکا نیلا
+tab-group-editor-color-selector2-orange = نارنجی
+    .title = نارنجی
+tab-group-editor-color-selector2-yellow = پیلا
+    .title = پیلا
+tab-group-editor-color-selector2-pink = گلابی
+    .title = گلابی
+tab-group-editor-color-selector2-green = سبز
+    .title = سبز
+tab-group-editor-color-selector2-gray = سلئیٹی
+    .title = سلئیٹی
+tab-group-editor-color-selector2-red = سرخ
+    .title = سرخ
+tab-group-menu-closed-tab-group =
+    .label = { $tabGroupName }
+    .title = { $tabGroupName } — بند
+tab-group-description = { $tabGroupName } — ٹیب گروپ
+tab-group-label-tooltip-collapsed = { $tabGroupName } — سکیڑیا ہویا
+tab-group-label-tooltip-expanded = { $tabGroupName } — پھیلایا ہویا
+tab-group-preview-name =
+    .aria-label = سکیڑے ہوئے گروپ اچ ٹیب
+tab-context-unnamed-group =
+    .label = بے نام گروپ
+tab-group-name-default = بے نام گروپ
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = ٹیب گروپ
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+tab-group-preview-open-description = ٹیب دی فہرست کھلی
+tab-group-preview-closed-description = ٹیب دی فہرست بند
 
 ##
 
+tab-context-move-tab-to-new-group =
+    .label =
+        { $tabCount ->
+            [1] ٹیب کوں نویں گروپ اچ شامل کرو
+            [one] ٹیب کوں نویں گروپ اچ شامل کرو
+           *[other] ٹیباں کوں نویں گروپ اچ شامل کرو
+        }
+    .accesskey = G
+tab-context-move-tab-to-group =
+    .label =
+        { $tabCount ->
+            [1] ٹیب کوں گروپ اچ شامل کرو
+            [one] ٹیب کوں گروپ اچ شامل کرو
+           *[other] ٹیباں کوں گروپ اچ شامل کرو
+        }
+    .accesskey = G
+tab-context-move-split-view-to-new-group =
+    .label =
+        { $splitViewCount ->
+            [1] اسپلٹ ویو کوں نویں گروپ اچ شامل کرو
+            [one] اسپلٹ ویو کوں نویں گروپ اچ شامل کرو
+           *[other] اسپلٹ ویوز کوں نویں گروپ اچ شامل کرو
+        }
+    .accesskey = G
+tab-context-move-split-view-to-group =
+    .label =
+        { $splitViewCount ->
+            [1] اسپلٹ ویو کوں گروپ اچ شامل کرو
+            [one] اسپلٹ ویو کوں گروپ اچ شامل کرو
+           *[other] اسپلٹ ویوز کوں گروپ اچ شامل کرو
+        }
+    .accesskey = G
+tab-context-move-tab-to-group-saved-groups =
+    .label = بند گروپ
+tab-group-editor-action-new-tab =
+    .label = گروپ اچ نواں ٹیب
+tab-group-editor-action-new-window =
+    .label = گروپ کوں نویں ونڈو اچ لے ونڄو
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] گروپ اچ موجود لنک کاپی کرو
+            [one] گروپ اچ موجود لنک کاپی کرو
+           *[other] گروپ اچ موجود { $linkCount } لنکس کاپی کرو
+        }
+tab-group-editor-action-save =
+    .label = گروپ محفوظ کرو تے بند کرو
+tab-group-editor-action-ungroup =
+    .label = ٹیباں کوں گروپ توں کڈھ ڈیو
+tab-group-editor-action-delete =
+    .label = گروپ مٹاؤ
 tab-group-editor-done =
     .label = تھی ڳیا
     .accessKey = D
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-group =
+    .label = گروپ شیئر کرو
+# Share is a verb here. Meaning to "Share" the "tab group"
+tab-group-editor-action-share-tab-group =
+    .label = ٹیب گروپ شیئر کرو
+tab-context-reopen-tab-group =
+    .label = ٹیب گروپ مڑ کھولو
+# Variables:
+#  $groupCount (Number): the number of tab groups that are affected by the action.
+tab-context-ungroup-tab =
+    .label =
+        { $groupCount ->
+            [1] گروپ توں کڈھ ڈیو
+            [one] گروپ توں کڈھ ڈیو
+           *[other] گروپاں توں کڈھ ڈیو
+        }
+    .accesskey = R
+# When a tab group containing the active tab is collapsed, the active tab
+# remains visible. An indicator appears at the end of the group showing the
+# number of remaining tabs that are hidden by the collapsed group,
+# e.g. "+2" for a group with 3 total tabs.
+tab-group-overflow-count = +{ $tabCount }
+tab-group-overflow-count-tooltip =
+    { $tabCount ->
+        [one] { $tabCount } بیا ٹیب
+       *[other] { $tabCount } بیا ٹیب
+    }
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-header = اپݨے ٹیباں کوں ترتیب ڈیو
+tab-groups-list-empty-description = ہک ٹیب کوں بیے ٹیب تے گھسیٹو یا ٹیب تے سڄا کلک کرکے ترتیب ڈیوݨا شروع کرو۔ اساں تہاݙے گروپ اتھائیں محفوظ رکھسوں تاں جو بعد اچ انہاں کوں آسانی نال لبھیا ونڄ سڳے۔
+tab-groups-list-empty-button = ٹیب گروپ بݨاؤ
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = نواں گروپ
+
+## Open/saved tab group context menu
+
+# For a tab group open in any window, clicking this will create a new
+# window and move this tab group to that new window.
+tab-group-context-move-to-new-window =
+    .label = گروپ کوں نویں ونڈو اچ لے ونڄو

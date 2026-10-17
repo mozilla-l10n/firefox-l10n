@@ -77,6 +77,7 @@ policy-DisableSecurityBypass = صارف کوں بعض حفاظتی چتاوݨی�
 policy-DisableSetAsDesktopBackground = مینیو کمانڈ کوں غیر فعال کرو تصویراں کیتے ڈیسک ٹاپ بیک گراؤنڈ دے طور تے سیٹ کرو۔
 policy-DisableSystemAddonUpdate = براؤزر کوں سسٹم ایڈ آنز کوں انسٹال تے اپ ڈیٹ کرݨ کنوں روکو۔
 policy-DisableTelemetry = ٹیلی میٹری کوں بند کرو۔
+policy-DisableThirdPartyModuleBlocking2 = صارف کوں تھرڈ-پارٹی ماڈیول انفارمیشن (about:third-party) دے ذریعے { -brand-short-name } پروسیس وچ انجیکٹ تھئے تھرڈ-پارٹی ماڈیولز کوں بلاک کرݨ توں روکو۔
 policy-DisableThirdPartyModuleBlocking = صارف کوں تریاکل ماڈیولز کوں بلاک کرݨ کنوں روکو جیڑھے { -brand-short-name } دے عمل وِچ داخل تھیندے ہن۔
 policy-DisplayBookmarksToolbar = نیشانیاں ٹول بار کوں بطور ڈیفالٹ ڈسپلے کرو۔
 policy-DisplayMenuBar = مینیو بار کوں بطور ڈیفالٹ ڈسپلے کرو۔
@@ -96,6 +97,7 @@ policy-ExtensionSettings = توسیع دی انسٹالیشن دے تمام پک
 policy-ExtensionUpdate = خودکار ایکسٹینشن اپ ڈیٹس کوں فعال یا غیر فعال کرو۔
 policy-FirefoxHome2 = { -firefox-home-brand-name } کوں ترتیب ݙیو۔
 policy-FirefoxSuggest = { -firefox-suggest-brand-name } کوں ترتیب ݙیوو۔
+policy-GenerativeAI = جنریٹیو AI دی خصوصیات ترتیب ڈیو۔
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = ایڈریس بار وِچ ہک لفظ دے اندراج ٹائپ کریندے ویلھے ڳولݨ دے بجائے براہ راست انٹرانیٹ سائٹ نیویگیشن تے مجبور کرو۔
 policy-Handlers = ڈیفالٹ ایپلیکیشن ہینڈلرز کوں ترتیب ݙیو۔
 policy-HardwareAcceleration = جے غلط ہووے تاں ہارڈویئر ایکسلریشن کوں بند کر ݙیو۔
@@ -104,6 +106,7 @@ policy-Homepage = ہوم پیج کوں سیٹ کرو تے اختیاری طور 
 policy-HttpAllowlist = اصل جہڑے ایچ ٹی ٹی پی ایس تے اپ گریڈ کائناں کیتے ویسن۔
 policy-HttpsOnlyMode = صرف ایچ ٹی ٹی پی ایس موڈ کوں فعال کرݨ دی اجازت ݙیوو۔
 policy-InstallAddonsPermission = کجھ ویب سائٹس کوں ایڈ آنز انسٹال کرݨ دی اجازت ݙیو۔
+policy-IPProtectionAvailable = بلٹ-اِن VPN کوں صارفین کیتے دستیاب تھیوݨ توں روکو۔
 policy-LegacyProfiles = ہر تنصیب کیتے علیحدہ پروفائل نافذ کرݨ  والی خصوصیت کوں غیر فعال کرو۔
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
@@ -114,6 +117,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = مخصوص سائٹس 
 ##
 
 policy-LocalFileLinks = مخصوص ویب سائٹس کوں مقامی فائلاں نال لنک کرݨ دی اجازت ݙیو۔
+policy-LocalNetworkAccess = مقامی نیٹ ورک تک رسائی دی جانچ چالو یا بند کرو۔
 policy-ManagedBookmarks = منتظم دے زیر انتظام نشانیاں دی تندیر ترتیب ݙیندا ہے جینکوں صارف تبدیل نہیں کر سڳدا۔
 policy-ManualAppUpdateOnly = صرف دستی اپ ڈیٹس دی اجازت ݙیو تے اپ ڈیٹس دے بارے وِچ صارف کوں اطلاع نہ کرو۔
 policy-PrimaryPassword = منڈھلے پاس ورڈ دی ضرورت یا اینکوں استعمال کرݨ کنوں روکو۔
@@ -125,6 +129,7 @@ policy-OfferToSaveLogins = { -brand-short-name } کوں ہتھیکڑے لاگ ا
 policy-OfferToSaveLoginsDefault = { -brand-short-name } کوں ہتھیکڑے لاگ انز تے پاس ورڈز کوں یاد رکھݨ دی پیش کش کرݨ کیتے پہلے کنون طے شدہ قدر مقرر کرو۔ صحیح تے غلط ݙوہیں قدراں کوں قبول کیتا ویندا ہے۔
 policy-OverrideFirstRunPage = پہلے رن پیج کوں اوور رائیڈ کرو۔ جے تساں پہلے چلݨ والے ورقے کوں غیر فعال کرݨ چاہندے او تاں ایں پالیسی کوں خالی تے سیٹ کرو۔
 policy-OverridePostUpdatePage = پوسٹ اپ ڈیٹ "نواں کیا ہے" ورقہ کوں اوور رائیڈ کرو۔ جے تساں پوسٹ اپ ڈیٹ ورقہ کوں غیر فعال کرݨ چاہندے او تاں ایں پالیسی کوں خالی تے سیٹ کرو۔
+policy-PasswordManagerEnabled2 = پاسورڈ مینیجر وچ پاسورڈ محفوظ کرݨ کوں چالو یا بند کرو۔ جے بند ہووے تاں پاسورڈز (about:logins) وی بلاک تھی ویسی۔
 policy-PasswordManagerEnabled = پاس ورڈ مینیجر وِچ پاس ورڈ محفوظ کرݨ کوں فعال کرو۔
 policy-PasswordManagerExceptions = { -brand-short-name } کوں مخصوص سائٹس دے پاس ورڈ ہتھیکڑا کرݨ کنوں روکو۔
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -134,18 +139,24 @@ policy-PostQuantumKeyAgreementEnabled = ٹی ایل ایس کیتے پوسٹ ک�
 policy-PDFjs = PDF.js کوں غیر فعال یا ترتیب ݙیو، جیڑھا جو { -brand-short-name } وِچ بلٹ ان پی ڈی ایف ویور ہے۔
 policy-Permissions2 = کیمرے، مائیکروفون، مقام، اطلاعات تے آٹو پلے کیتے اجازتاں ترتیب ݙیو۔
 policy-PictureInPicture = تصویر وِچ تصویر کوں فعال یا غیر فعال کرو۔
+policy-PopupBlocking2 = کجھ ویب سائٹاں کوں پاپ اپس ݙکھاوݨ تے تریجے فریق دے فریماں ولوں ری ڈائریکٹ تھیوݨ دی اجازت ڈیو۔
 policy-Preferences = ترجیحات دے ذیلی سیٹ کیتے قدر کوں سیٹ کرو تے لاک کرو۔
 policy-PrivateBrowsingModeAvailability = نجی براؤزنگ موڈ دی دستیابی مقرر کرو۔
 policy-PromptForDownloadLocation = پچھو جو ڈاؤن لوڈ کریندے ویلھے فائلاں کوں کتھاں ہتھیکڑا کریندا ہے۔
 policy-Proxy = پراکسی ترتیباں کوں ترتیب ݙیو۔
+policy-RelaunchRequired = ڈتے ڳئے ویلے دے اندر { -brand-short-name } کوں مڑ شروع کرݨ دی لوڑ کرو تے آوݨ آلے ری لانچ بارے صارف کوں اطلاع ڈیو۔
 policy-RequestedLocales = درخواست کیتے درخواست کردہ جاہیں دی تندیر ترجیح دے مطابق ترتیب ݙیو۔
 policy-SanitizeOnShutdown2 = شٹ ڈاؤن تے نیویگیشن ڈیٹا صاف کرو۔
 policy-SearchBar = سرچ بار دی ڈیفالٹ لوکیشن سیٹ کرو۔ صارف کوں ہݨ وی اونکوں اپݨی مرضی دے مطابق کرݨ دی اجازت ہے۔
+policy-SearchEngines2 = سرچ انجن دی سیٹنگز ترتیب ڈیو۔
 policy-SearchEngines = سرچ انجن دیاں ترتیباں کوں ترتیب ݙیو۔ ایہ پالیسی صرف ایکسٹینڈڈ سپورٹ ریلیز (ESR) ورژن تے دستیاب ہے۔
 policy-SearchSuggestEnabled = ڳولݨ دیاں تجویزاں کوں فعال یا غیر فعال کرو۔
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = PKCS #11 ماڈیول شامل کرو یا مٹاؤ۔
 policy-ShowHomeButton = ٹول بار تے ہوم بٹن ݙکھاؤ۔
+policy-SitePolicies = سائٹ مخصوص پالیسیاں۔
+# ”You represent that...” means ”You confirm/declare that...”
+policy-SkipTermsOfUse2 = شروعات تے استعمال دی شرائط تے پرائیویسی نوٹس نہ ݙکھاؤ۔ تساں ایہہ تصدیق کریندے او جو تساں استعمال دی شرائط قبول کریندے او تے اُنہاں سارے لوکاں دی طرفوں استعمال دی شرائط قبول کرݨ دا اختیار رکھدے او جِنہاں کوں تساں اِس براؤزر تک رسائی ڈیندے او۔
 policy-SSLVersionMax = زیادہ توں زیادہ SSL ورژن سیٹ کرو۔
 policy-SSLVersionMin = کم از کم SSL ورژن سیٹ کرو۔
 policy-StartDownloadsInTempDirectory = ڈاؤن لوڈز کوں پہلے کنوں طے شدہ ڈاؤن لوڈ ڈائرکٹری دے بجائے مقامی، عارضی مقام کنوں شروع کرݨ تے مجبور کرو۔
@@ -153,6 +164,11 @@ policy-SupportMenu = مدد دے مینیو وِچ حسب ضرورت سپورٹ 
 policy-TranslateEnabled = ویب پَنّاں ٻولی وٹارے کوں فعال یا غیر فعال کرو۔
 policy-UserMessaging = صارف کوں کجھ سنیہے ناں ݙکھاؤ۔
 policy-UseSystemPrintDialog = سسٹم پرنٹ ڈائیلاگ دا استعمال کریندے ہوئیں پرنٹ کرو۔
+policy-VisualSearchEnabled = وژیوئل سرچ کوں چالو یا بند کرو۔
 # “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = ویب سائٹس کوں ݙیکھݨ کنوں روکو۔ فارمیٹ تے ودھیک تفصیلاں کیتے دستاویزات ݙیکھو۔
 policy-Windows10SSO = مائیکروسافٹ، کم، تے اسکول اکاؤنٹس کیتے ونڈوز سنگل سائن آن دی اجازت ݙیو۔
+# Entra is the name of a Microsoft product.
+policy-MicrosoftEntraSSO = مائیکروسافٹ اینٹرا اکاؤنٹاں کیتے سنگل سائن آن دی اجازت ڈیو۔
+# Do not translate "XSLTProcessor" as it is the name of an API interface.
+policy-XSLTEnabled = XSLTProcessor JavaScript API تے XSLT پروسیسنگ انسٹرکشن دی سپورٹ چالو یا بند کرو۔
