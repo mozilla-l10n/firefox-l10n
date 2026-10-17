@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = תבנית הווידאו או סוג ה
 videocontrols-error-no-source = לא נמצא וידאו עם תבנית וסוג MIME נתמכים.
 videocontrols-error-generic = נגינת הוידאו הופסקה בעקבות שגיאה לא ידועה.
 videocontrols-status-picture-in-picture = סרטון זה מתנגן במצב תמונה בתוך תמונה.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = הסרטון מתנגן במצב תמונה בתוך תמונה
 # This message shows the current position and total video duration
 #
 # Variables:
