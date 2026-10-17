@@ -1804,6 +1804,10 @@ permissions-addon-exceptions2 =
 permissions-allow-app-links =
     .label = Разрешать сайтам запрашивать открытие ссылок на приложения.
     .accesskey = Ф
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Управление заблокированными сайтами
+    .accesskey = Ь
 permissions-location2 =
     .label = Местоположение
 permissions-localhost2 =
