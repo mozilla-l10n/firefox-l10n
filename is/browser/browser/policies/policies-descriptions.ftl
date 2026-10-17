@@ -105,7 +105,7 @@ policy-NoDefaultBookmarks = Slökkva á stöðluðum bókamerkjum meðfylgjandi 
 policy-OfferToSaveLogins = Skoðaðu spurningu um að geyma aðgangsupplýsingar með { -brand-short-name }. Gildin true og false eru bæði gild.
 policy-OfferToSaveLoginsDefault = Setja sjálfgefið gildi um að leyfa { -brand-short-name } að bjóða upp á að muna vistaðar innskráningar og lykilorð. Bæði sönn og ósönn gildi eru samþykkt.
 policy-OverrideFirstRunPage = Breyta upphafssíðu. Tómt gildi til að slökkva á opnun síðunnar.
-policy-OverridePostUpdatePage = Setja aðra síðu í stað "Hvað er nýtt"-síðunnar sem birtist eftir uppfærslur. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
+policy-OverridePostUpdatePage = Setja aðra síðu í stað "Nýtt á döfinni"-síðunnar sem birtist eftir uppfærslur. Stilltu þetta á tómt gildi til að gera síðuna óvirka.
 policy-PasswordManagerEnabled = Virkja vistun lykilorða í lykilorðastýringunni.
 policy-PasswordManagerExceptions = Koma í veg fyrir að { -brand-short-name } visti lykilorð fyrir tiltekin vefsvæði.
 # Post-quantum refers to cryptography that is safe from attacks by quantum

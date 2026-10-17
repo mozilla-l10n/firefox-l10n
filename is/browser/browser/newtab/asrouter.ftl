@@ -75,8 +75,8 @@ fxa-adoption-primary-button-label = Nýskrá
 # the notification icon
 cfr-badge-reader-label-newfeature = Nýr eiginleiki:
 cfr-whatsnew-button =
-    .label = Hvað er nýtt
-    .tooltiptext = Hvað er nýtt
+    .label = Nýtt á döfinni
+    .tooltiptext = Nýtt á döfinni
 cfr-whatsnew-release-notes-link-text = Lesa útgáfuskýringarnar
 
 ## Enhanced Tracking Protection Milestones

@@ -4,7 +4,7 @@
 
 aboutDialog-title =
     .title = Um { -brand-full-name }
-releaseNotes-link = Hvað er nýtt
+releaseNotes-link = Nýtt á döfinni
 update-checkForUpdatesButton =
     .label = Leita að uppfærslum
     .accesskey = L
