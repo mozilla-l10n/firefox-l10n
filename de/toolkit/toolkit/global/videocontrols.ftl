@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Video-Format oder MIME-Typ wird nicht un
 videocontrols-error-no-source = Kein Video mit unterstütztem Format und MIME-Typ gefunden.
 videocontrols-error-generic = Abspielen des Videos wegen eines unbekannten Fehlers abgebrochen.
 videocontrols-status-picture-in-picture = Dieses Video wird im Modus "Bild im Bild" (PiP) wiedergegeben.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Dieses Video wird im Modus "Bild im Bild" (PiP) wiedergegeben.
 # This message shows the current position and total video duration
 #
 # Variables:

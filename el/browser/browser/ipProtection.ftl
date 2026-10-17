@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Γνωρίστε το VPN, τώρα σ
 ipprotection-feature-introduction-title-1 = Δοκιμάστε το ενσωματωμένο VPN του { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας.
 ipprotection-feature-introduction-title-privacy = Προσθέστε ένα ακόμα επίπεδο ιδιωτικότητας
+ipprotection-feature-introduction-title-privacy-1 = Προσθέστε ακόμα ένα επίπεδο ιδιωτικότητας με το ενσωματωμένο VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> προστατεύει την περιήγησή σας. Επιλέξτε μία από τις πολλαπλές τοποθεσίες για να διατηρήσετε την περιήγησή σας πιο ιδιωτική.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> προστατεύει την περιήγησή σας. Επιλέξτε ανάμεσα σε πολλαπλές τοποθεσίες για ακόμη πιο ιδιωτική πλοήγηση.
 ipprotection-feature-introduction-link-text-privacy-3 = Απολαύστε <a data-l10n-name="learn-more-vpn">επιπλέον απόρρητο</a> επιλέγοντας ανάμεσα σε πολλαπλές τοποθεσίες για να αποκρύψετε το μέρος απ' όπου περιηγείστε.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Το κατάλαβα
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Ορίστε κανόνες για το ενσωματωμένο VPN και συνεχίστε την περιήγηση
 ipprotection-site-inclusions-callout-title-lapsed-users = Δοκιμάστε το ενσωματωμένο VPN, πλέον ανά ιστότοπο
+ipprotection-site-inclusions-callout-description-1 = Ενεργοποιήστε το VPN όταν θέλετε επιπλέον ιδιωτικότητα ή περιήγηση βάσει τοποθεσίας και απενεργοποιήστε το όπου δεν χρειάζεται.
 ipprotection-site-inclusions-callout-description = Ενεργοποιήστε το όταν θέλετε επιπλέον ιδιωτικότητα ή περιήγηση βάσει τοποθεσίας και απενεργοποιήστε το όπου δεν χρειάζεται.
 ipprotection-site-inclusions-callout-primary-button = Ορισμός κανόνων
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Όχι τώρα
@@ -284,6 +286,16 @@ ip-protection-site-rules-add-button =
     .label = Ορισμός κανόνα
 ip-protection-site-rules-delete-all-button =
     .label = Διαγραφή όλων των κανόνων
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Επεξεργασία κανόνα για το { $website }
+    .title = Επεξεργασία
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Διαγραφή κανόνα για το { $website }
+    .title = Διαγραφή
 ip-protection-site-rules-header =
     .heading = Διαχείριση κανόνων ιστοτόπων
 ip-protection-site-rules-button =
@@ -324,12 +336,29 @@ ip-protection-site-rule-website-field =
 # VPN status refers to a state of 'always on' or 'always off' applied to a site
 ip-protection-site-rule-status-field =
     .label = Κατάσταση VPN
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Εισαγάγετε μια έγκυρη διεύθυνση ιστοτόπου.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Υπάρχει ήδη κανόνας για αυτόν τον ιστότοπο.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Σφάλμα δημιουργίας κανόνα. Δοκιμάστε ξανά.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Διαγραφή κανόνα για το { $website };
 ip-protection-delete-site-rule-cancel =
     .label = Ακύρωση
 ip-protection-delete-site-rule-confirm =
     .label = Διαγραφή
+ip-protection-delete-all-site-rules-message = Διαγραφή όλων των κανόνων ιστοτόπων;
 ip-protection-delete-all-site-rules-confirm =
     .label = Διαγραφή όλων των κανόνων
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Δεν ήταν δυνατή η διαγραφή του κανόνα
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Δεν ήταν δυνατή η διαγραφή των κανόνων
+ip-protection-delete-site-rule-retry =
+    .label = Δοκιμή ξανά
 
 ## IP Protection Bandwidth
 

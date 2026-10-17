@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Gesamte Chronik löschen
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Surf-Daten löschen
 clear-data-settings-label = Wenn { -brand-short-name } beendet wird, folgende Daten automatisch löschen:
 sanitize-on-shutdown-description = Alle mit Häkchen versehenen Elemente automatisch löschen, wenn { -brand-short-name } geschlossen wird.
 
@@ -116,6 +123,14 @@ sanitize-button-ok2 =
     .label = Löschen
 sanitize-button-ok-on-shutdown =
     .label = Änderungen speichern
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Löschen
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Schließen
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

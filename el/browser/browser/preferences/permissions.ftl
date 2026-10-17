@@ -170,6 +170,7 @@ permissions-site-xr-disable-desc = Αυτό θα εμποδίσει τα αιτ�
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Ρυθμίσεις - Αποκλεισμένοι ιστότοποι για συνδέσμους εφαρμογών
+permissions-site-app-links-desc = Δεν θα επιτρέπεται σε αυτούς τους ιστοτόπους να ζητούν το άνοιγμα συνδέσμων από εφαρμογές, όπως συνδέσμων email (mailto:). Αφαιρέστε έναν ιστότοπο για να μπορεί να ρωτήσει ξανά.
 
 ## Site Permissions - Camera
 

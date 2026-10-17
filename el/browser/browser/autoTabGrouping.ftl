@@ -18,6 +18,11 @@ smartwindow-group-tabs-panel-heading = Οργάνωση καρτελών
 # forming new groups from these tabs, not searching for tab groups that already
 # exist.
 smartwindow-group-tabs-loading = Έλεγχος καρτελών για χρήσιμες ομάδες…
+# Shown when clustering produced no group worth suggesting.
+smartwindow-group-tabs-empty = Δεν υπάρχουν προτάσεις για ομάδες καρτελών αυτήν τη στιγμή. Δοκιμάστε ξανά αργότερα.
+# Shown in place of suggestions when every group the model found has already
+# been created.
+smartwindow-group-tabs-all-sorted = Οι καρτέλες σας είναι άψογα οργανωμένες
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Δημιουργία όλων των ομάδων
 smartwindow-group-tabs-suggested-heading = Προτεινόμενες ομάδες
@@ -50,3 +55,18 @@ smartwindow-group-tabs-view-tab-groups = Προβολή ομάδων καρτε�
 # Accessible name for the list of existing tab groups the row above opens.
 smartwindow-group-tabs-groups-list =
     .aria-label = Ομάδες καρτελών
+# Action that closes this window's duplicate tabs, keeping the most recently
+# used tab of each set. Only shown when there are duplicates to close.
+# Variables:
+#   $tabCount (Number) - Number of duplicate tabs that activating it closes
+smartwindow-group-tabs-close-duplicates =
+    { $tabCount ->
+        [one] Κλείσιμο { $tabCount } διπλής καρτέλας
+       *[other] Κλείσιμο { $tabCount } διπλών καρτελών
+    }
+# Accessible name for the list of duplicate tabs the row above would close,
+# one row per tab. Activating a tab in the list switches to it.
+# "Duplicate tabs" refers to tabs that are copies of each other; it is not a
+# verb telling the user to duplicate anything.
+smartwindow-group-tabs-duplicates-list =
+    .aria-label = Διπλές καρτέλες προς κλείσιμο
