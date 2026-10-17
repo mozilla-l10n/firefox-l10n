@@ -195,6 +195,10 @@ about-glean-store-submitted-pings-select-label = Ping:
 about-glean-store-submitted-pings =
     .description = Zmóžnja składowanje wótpósłanych pingi w skłaźe
     .label = Wótpósłane pingi składowaś
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Informacije klienta
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Informacije ping
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

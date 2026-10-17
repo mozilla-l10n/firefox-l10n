@@ -1803,6 +1803,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Wubjeŕśo, kótare websedła mógu rozšyrjenja instalěrowaś
     .accesskey = b
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Sedłam dowóliś, nałožeńske wótkaze wócyniś
+    .accesskey = S
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Blokěrowane sedła zastojaś
+    .accesskey = B
 permissions-location2 =
     .label = Stojnišćo
 permissions-localhost2 =

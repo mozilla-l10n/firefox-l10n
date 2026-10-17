@@ -52,6 +52,8 @@ sidebar-history-sort-option-last-visited =
     .label = Slědny raz woglědany
 sidebar-history-sort-option-most-visited =
     .label = Nejcesćej woglědane
+sidebar-history-import-promo-button =
+    .label = Do { -brand-short-name } importěrowaś
 
 ## Labels for sidebar search
 
