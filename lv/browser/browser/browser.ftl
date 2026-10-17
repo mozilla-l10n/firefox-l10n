@@ -1318,6 +1318,26 @@ reset-pbm-toolbar-button2 =
     .label = Notīrīt privāto sesiju
     .tooltiptext = Notīrīt privāto sesiju
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Izdzēst kādus vai visus pārlūkošanas datus
+    .tooltiptext = Izdzēst kādus vai visus pārlūkošanas datus
+fire-button-panel-heading = Izdzēst visus pārlūkošanas datus?
+fire-button-panel-description = Tas izdzēš vēsturi, sīkdatnes un vietņu datus. Notiks izrakstīšanās no vietnēm. Šis logs aizvērsies., un { -brand-short-name } atvērs jaunu.
+fire-button-panel-choose-description = Ja nevēlies izdzēst visu, izvēlies noteiktus datus.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Izvēlēties...
+fire-button-panel-cancel-button =
+    .label = Atcelt
+    .accesskey = A
+fire-button-panel-confirm-button =
+    .label = Izdzēst visu
+    .accesskey = I
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } liedza šai lapai iespēju automātiski pārlādēties.
