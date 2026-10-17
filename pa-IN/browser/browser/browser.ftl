@@ -444,6 +444,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = ਸੰਭਾਲਣ ‘ਤੇ ਸੰਪਾਦਕ ਵੇਖੋ
     .accesskey = S
+bookmark-panel-save-button2 =
+    .label = ਸੰਭਾਲੋ
+    .accesskey = a
 bookmark-panel-save-button =
     .label = ਸੰਭਾਲੋ
 # Width of the bookmark panel.
@@ -1294,6 +1297,9 @@ tabs-toolbar =
     .aria-label = ਬਰਾਊਜ਼ਰ ਦੀਆਂ ਟੈਬਾਂ
 tabs-toolbar-new-tab =
     .label = ਨਵੀਂ ਟੈਬ
+tabs-toolbar-list-all-tabs-2 =
+    .label = ਟੈਬਾਂ ਨੂੰ ਲੱਭੋ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰੋ
+    .tooltiptext = ਟੈਬਾਂ ਨੂੰ ਲੱਭੋ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰੋ
 tabs-toolbar-list-all-tabs =
     .label = ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ
     .tooltiptext = ਸਭ ਟੈਬਾਂ ਦੀ ਲਿਸਟ
@@ -1406,6 +1412,27 @@ reset-pbm-panel-complete = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਡਾਟੇ �
 reset-pbm-toolbar-button2 =
     .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮਿਟਾਓ
     .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮਿਟਾਓ
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = ਆਪਣੇ ਸਾਰੇ ਜਾਂ ਕੁਝ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
+    .tooltiptext = ਆਪਣੇ ਸਾਰੇ ਜਾਂ ਕੁਝ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
+fire-button-panel-heading = ਸਾਰੇ ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲੇ ਡਾਟੇ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+fire-button-panel-description = ਇਸ ਨਾਲ ਅਤੀਤ, ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ ਹਟਾਇਆ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ ਸਾਈਟਾਂ ਤੋਂ ਸਾਈਨ ਆਉਟ ਹੋ ਜਾਉਂਗੇ। ਇਹ ਵਿੰਡੋ ਬੰਦ ਹੋਵੇਗੀ ਅਤੇ { -brand-short-name } ਨਵੀਂ ਵਿੰਡੋ ਖੋਲ੍ਹੇਗਾ।
+fire-button-panel-choose-description = ਜੇ ਤੁਸੀਂ ਹਰ ਚੀਜ਼ ਨੂੰ ਹਟਾਉਣਾ ਨਹੀਂ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਖਾਸ ਡਾਟੇ ਨੂੰ ਚੁਣੋ।
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = …ਚੁਣੋ
+fire-button-panel-cancel-button =
+    .label = ਰੱਦ ਕਰੋ
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = ਸਭ ਨੂੰ ਹਟਾਓ
+    .accesskey = D
+fire-button-panel-complete = ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲਾ ਡਾਟਾ ਹਟਾਇਆ
 
 ## Autorefresh blocker
 

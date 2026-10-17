@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = VPN ਪੇਸ਼ ਹੈ, ਹੁਣ ਤੁ
 ipprotection-feature-introduction-title-1 = { -brand-product-name } ਦੇ ਨਾਲ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
 ipprotection-feature-introduction-link-text-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 ipprotection-feature-introduction-title-privacy = ਪਰਦੇਦਾਰੀ ਲਈ ਇੱਕ ਹੋਰ ਪਰਤ ਜੋੜੋ
+ipprotection-feature-introduction-title-privacy-1 = ਵਿੱਚ ਮੌਜੂਦ VPN ਨਾਲ ਪਰਦੇਦਾਰੀ ਦੀ ਇੱਕ ਹੋਰ ਕੰਧ ਜੋੜੋ
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ਦਾ ਵਿੱਚ ਮੌਜੂਦ VPN</a> ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਿੰਗ ਲਈ ਸੁਰੱਖਿਆ ਦਿੰਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਥਾਂ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਵਾਸਤੇ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਕਿਸੇ ਦੀ ਚੋਣ ਕਰੋ।
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } ਵਿੱਚ ਮੌਜੂਦ VPN</a> ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਵੱਧ ਪ੍ਰਾਈਵੇਟ ਰੱਖਣ ਲਈ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣੋ।
 ipprotection-feature-introduction-link-text-privacy-3 = ਤੁਸੀਂ ਜਿੱਥੋਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ, ਉਸ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਕਈ ਟਿਕਾਣਿਆਂ ਵਿੱਚੋਂ ਚੁਣ ਕੇ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਲਵੋ।
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = ਸਮਝੇ
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = ਵਿੱਚ ਮੌਜੂਦ VPN ਲਈ ਨਿਯਮ ਬਣਾਓ ਅਤੇ ਫੇਰ ਬਰਾਊਜ਼ ਕਰੋ
 ipprotection-site-inclusions-callout-title-lapsed-users = ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ, ਹੁਣ ਹਰ ਸਾਈਟ ਲਈ ਵੱਖਰਾ-ਵੱਖਰਾ
+ipprotection-site-inclusions-callout-description-1 = ਜਦੋਂ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ VPN ਨੂੰ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਨਾ ਚਾਹੋ ਤਾਂ ਬੰਦ ਕਰੋ।
 ipprotection-site-inclusions-callout-description = ਜਦੋਂ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਨਾ ਚਾਹੋ ਤਾਂ ਬੰਦ ਕਰੋ।
 ipprotection-site-inclusions-callout-primary-button = ਨਿਯਮ ਬਣਾਓ
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ਹੁਣੇ ਨਹੀਂ
@@ -144,6 +146,12 @@ site-rules-status-heading = ਤੁਹਾਡਾ ਨਿਯਮ
 site-rules-description-exclusion = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = ਇਸ ਸਾਈਟ ਲਈ VPN ਚਾਲੂ ਹੈ
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = ਕੀ { $website } ਲਈ ਹਮੇਸ਼ਾਂ VPN ਚਾਲੂ ਕਰਨਾ ਹੈ?
+    .message = ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਕਦੇ ਵੀ ਆਪਣੇ ਨਿਯਮਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ।
 ipprotection-settings-link =
     .label = ਸੈਟਿੰਗਾਂ
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = ਹੋਰ ਜਾਣੋ
 ip-protection-not-opted-in-4 =
     .heading = { -brand-short-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ
     .message = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਵਧੀਕ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ।
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = ਇਸ ਨੂੰ ਅਜ਼ਮਾਉਣ ਲਈ ਤਿਆਰ ਹੋ?
+    .message = ਹਰ ਮਰੀਨੇ { $maxUsage } GB ਮੁਫ਼ਤ ਲਵੋ ਅਤੇ ਚੁਣੋ ਕਿ ਕਿਹੜੀ ਸਾਈਟ ਲਈ VPN ਨੂੰ ਵਰਤਣਾ ਹੈ।
 ip-protection-not-opted-in-button = ਸ਼ੁਰੂ ਕਰੀਏ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -278,6 +291,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } ਵੈੱਬਸਾਈਟਾਂ
         }
     .label = ਵੈੱਬਸਾਈਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+ip-protection-site-rules-header-1 =
+    .heading = VPN ਨਿਯਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+ip-protection-site-rules-button-1 =
+    .description = ਸਾਈਟਾਂ ਲਈ ਨਿਯਮ ਬਣਾਓ, ਜਿੰਨ੍ਹਾਂ ਲਈ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਚਾਹੀਦੀ ਹੈ ਜਾਂ VPN ਬੰਦ ਰੱਖਣਾ ਹੈ।
+    .label = VPN ਨਿਯਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+ip-protection-site-rules-list-section-1 =
+    .description = VPN ਨੂੰ ਆਪਣੇ-ਆਪ ਚਾਲੂ ਜਾਂ ਬੰਦ ਕਰਨ ਲਈ ਨਿਯਮ ਸੈੱਟ ਕਰੋ।
+    .label = ਵੈੱਬਸਾਈਟ ਨਿਯਮ
+ip-protection-site-rules-add-button =
+    .label = ਨਿਯਮ ਬਣਾਓ
+ip-protection-site-rules-delete-all-button =
+    .label = ਸਾਰੇ ਨਿਯਮਾਂ ਨੂੰ ਹਟਾਓ
+ip-protection-site-rules-empty = ਤੁਹਾਡੇ ਵਲੋਂ ਬਣਾਏ ਨਿਯਮ ਇੱਥੇ ਹੋਣਗੇ।
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN ਹਮੇਸ਼ਾਂ ਚਾਲੂ
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN ਹਮੇਸ਼ਾਂ ਬੰਦ
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = { $website } ਲਈ ਨਿਯਮ ਨੂੰ ਸੋਧੋ
+    .title = ਸੋਧੋ
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = { $website } ਲਈ ਨਿਯਮ ਨੂੰ ਹਟਾਓ
+    .title = ਹਟਾਓ
 ip-protection-site-rules-header =
     .heading = ਵੈੱਬਸਾਈਟ ਨਿਯਮਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 ip-protection-site-rules-button =
@@ -301,6 +341,36 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = ਵੈੱਬਸਾਈਟ ਸੈਟਿੰਗਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
 ip-protection-exclusions-desc = ਇਸ ਸੂਚੀ ਵਿੱਚ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਤੋਂ ਬਿਨਾਂ ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ VPN ਨੂੰ ਵਰਤੋਂ। ਵੈੱਬਸਾਈਟ ਨੂੰ ਜੋੜੋ ਜਾਂ VPN ਖੋਲ੍ਹਣ ਦੇ ਬਾਅਦ।
+ip-protection-site-rule-window =
+    .title = ਨਿਯਮ ਬਣਾਓ
+ip-protection-edit-site-rule-window =
+    .title = ਨਿਯਮ ਨੂੰ ਸੋਧੋ
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = ਬਣਾਓ
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = ਸੰਭਾਲੋ
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = ਸਾਈਟ ਦਿਓ ਅਤੇ ਫੇਰ ਉਸ ਲਈ VPN ਸਥਿਤੀ ਨਿਰਧਾਰਿਤ ਕਰੋ।
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = ਵੈੱਬਸਾਈਟ
+    .placeholder = ਜਿਵੇਂ: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN ਸਥਿਤੀ
+ip-protection-site-rule-status-on =
+    .label = ਹਮੇਸ਼ਾਂ ਚਾਲੂ
+ip-protection-site-rule-status-off =
+    .label = ਹਮੇਸ਼ਾਂ ਬੰਦ
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = ਵਾਜਬ ਵੈੱਬਸਾਟਈ ਸਿਰਨਾਵਾਂ ਦਿਓ।
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = ਇਸ ਸਾਈਟ ਲਈ ਪਹਿਲਾਂ ਹੀ ਨਿਯਮ ਹੈ।
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = ਨਿਯਮ ਬਣਾਉਣ ਦੌਰਾਨ ਗਲਤੀ ਆਈ। ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਿਓ।
 
 ## IP Protection Bandwidth
 

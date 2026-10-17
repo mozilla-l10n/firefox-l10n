@@ -83,6 +83,9 @@ firefoxview-overview-nav = ਸੱਜਰੀ ਕੀਤੀ ਬਰਾਊਜ਼ਿੰਗ
     .title = ਸੱਜਰੀ ਕੀਤੀ ਬਰਾਊਜ਼ਿੰਗ
 firefoxview-overview-header = ਸੱਜਰੀ ਬਰਾਊਜ਼ਿੰਗ
     .title = ਸੱਜਰੀ ਬਰਾਊਜ਼ਿੰਗ
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਟੈਬ ਅਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ
 
 ## History in this context refers to browser history
 
