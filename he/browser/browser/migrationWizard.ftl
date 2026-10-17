@@ -52,6 +52,17 @@ migration-no-permissions-message = ל־{ -brand-short-name } אין גישה ל�
 migration-no-permissions-instructions = כדי להמשיך בייבוא נתונים מדפדפן אחר, יש להעניק ל־{ -brand-short-name } גישה לתיקיית הפרופיל שלו.
 migration-no-permissions-instructions-step1 = יש ללחוץ על ״המשך״
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] בתיבת הדו־שיח של סייר הקבצים, יש לבחור ב״פתיחה״
+       *[other] בתיבת הדו־שיח של סייר הקבצים, יש לנווט אל <code>{ $permissionsPath }</code> וללחוץ על ״בחירה״
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

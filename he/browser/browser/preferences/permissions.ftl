@@ -162,6 +162,15 @@ permissions-site-xr-disable-label =
     .label = חסימת בקשות חדשות לקבלת גישה למכשירי המציאות המדומה שלך
 permissions-site-xr-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה למכשירי המציאות המדומה שלך. חסימת הגישה למכשירי המציאות המדומה שלך עשויה להפריע לפעולה של מגוון תכונות באתרים.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = הגדרות - אתרים חסומים עבור קישורי יישומונים
+permissions-site-app-links-desc = אתרים אלה חסומים מלבקש לפתוח קישורים ליישומונים, כמו דוא״ל (mailto:‎). יש להסיר אתר כדי לאפשר לו לבקש שוב.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

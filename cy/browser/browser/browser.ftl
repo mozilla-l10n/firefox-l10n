@@ -1452,6 +1452,13 @@ reset-pbm-toolbar-button2 =
     .label = Clirio Sesiwn Preifat
     .tooltiptext = Clirio Sesiwn Preifat
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Dileu rhywfaint neu'r cyfan o'ch data pori
+    .tooltiptext = Dileu rhywfaint neu'r cyfan o'ch data pori
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Rhwystrodd { -brand-short-name } y dudalen hon rhag ailagor yn awtomatig.

@@ -1795,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = בחירה באתרים המורשים להתקין הרחבות
     .accesskey = ב
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = לאפשר לאתרים לבקש לפתוח קישורי יישומונים
+    .accesskey = ל
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = ניהול אתרים חסומים
+    .accesskey = נ
 permissions-location2 =
     .label = מיקום
 permissions-localhost2 =

@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = ביקור אחרון
 sidebar-history-sort-option-most-visited =
     .label = עם הכי הרבה ביקורים
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = חסר כאן משהו? אפשר לקבל את ההיסטוריה מדפדפן אחר.
+sidebar-history-import-promo-button =
+    .label = ייבוא אל { -brand-short-name }
 
 ## Labels for sidebar search
 
