@@ -88,8 +88,8 @@ turn-on-scheduled-backups-confirm-button = بیک اپ چالو کرو
 # Tell the user there was an error accessing the user's selected backup
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = تساڈے چݨے بیک اپ فولڈر وچ مسئلہ تھیا۔ کوئی ٻیا فولڈر چݨو تے مڑ کوشش کرو۔
-turn-on-scheduled-backups-error-default-dir-denied = اساں تساڈے بیک اپ فولڈر تائیں رسائی حاصل نہ کر سڳے۔ کوئی نویں جاہ چݨݨ دی کوشش کرو۔
-backup-error-file-system = { -brand-short-name } دا بیک اپ بݨیندے ہوئیں تساڈے چݨے بیک اپ فولڈر وچ مسئلہ تھیا
+turn-on-scheduled-backups-error-default-dir-denied = اساں تہاڈے بیک اپ فولڈر تائیں رسائی حاصل نہ کر سڳے۔ کوئی نویں جاہ چݨݨ دی کوشش کرو۔
+backup-error-file-system = { -brand-short-name } دا بیک اپ بݨیندے ہوئیں تہاڈے چݨے ڳئے بیک اپ فولڈر وچ مسئلہ تھیا
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 

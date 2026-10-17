@@ -659,6 +659,16 @@ search-one-click-desc = متبادل ڳولݨ انجݨاں دا انتخاب ک�
 search-one-click-header-3 =
     .description = چݨو جو تہاݙے ایڈریس بار وچ کیہڑے سرچ انجن تے شارٹ کٹس ݙسݨ۔
     .label = اضافی سرچ انجن
+update-search-engine-success =
+    .message = سرچ انجن کامیابی نال اپڈیٹ تھی ڳیا
+search-edit-engine-2 =
+    .title = سرچ انجن ایڈیٹ کرو
+search-delete-engine =
+    .title = سرچ انجن کڈھ ݙے
+search-enable-engine =
+    .title = سرچ انجن فعال کرو
+search-outlink-to-extensions-page =
+    .title = ایکسٹینشنز تے تھیمز وچ منیج کرو
 search-choose-engine-column =
     .label = ڳولݨ انجݨ
 search-choose-keyword-column =
@@ -672,7 +682,14 @@ search-remove-engine =
 search-add-engine =
     .label = شامل کرو
     .accesskey = A
+search-add-engine-2 =
+    .label = سرچ انجن شامل کرو
+    .accesskey = A
+search-edit-engine =
+    .label = ایڈیٹ
+    .accesskey = E
 search-find-more-link = ودھیک ڳولݨ انجݨ لبھو
+search-filtering-for-add-engine = انجن شامل کرو
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ڈپلی کیٹ کلیدی لفظ
@@ -680,15 +697,79 @@ search-keyword-warning-title = ڈپلی کیٹ کلیدی لفظ
 #   $name (string) - Name of a search engine.
 search-keyword-warning-engine = تساں اینجھا کلیدی لفظ منتخب کیتا ہے جینکوں { $name } ایں ویلھے استعمال کریندا پئے۔ مہربانی کر تے کوئی ٻیا منتخب کرو۔
 search-keyword-warning-bookmark = تساں اینجھا کلیدی لفظ منتخب کیتا ہے جینکوں ہک نشانی ایں ویلھے استعمال کریندی ہے۔ مہربانی کر تے کوئی ٻیا منتخب کرو۔
+# This warning is displayed when the chosen name is already in use.
+# Variables:
+#   $name (string) - Name of a search engine.
+edit-engine-name-warning-duplicate = ایہو ناں "{ $name }" نال پہلے توں ہک سرچ انجن موجود ہے۔ بیا ناں چݨو۔
+remove-engine-confirmation = کیا تساں ایہ سرچ انجن کڈھݨا چاہندے ہو؟
+remove-engine-remove = کڈھ ݙے
+remove-addon-engine-alert = ایہ سرچ انجن کڈھݨ کیتے، ایندے نال جڑیا ہویا ایڈ آن کڈھ ݙے۔
 search-engine-group =
     .label = طے شدہ ڳولݨ انجݨ
 search-default-engine =
     .aria-label = طے شدہ ڳولݨ انجݨ
+# Header for the search section ("search" is a noun).
+search-section =
+    .heading = سرچ
+
+## Containers Section
+
+containers-section-header2 =
+    .heading = کنٹینر دیاں ترتیبات
+containers-card-header2 =
+    .description = کنٹینر دے حساب نال کوکیز الگ کرو تاں جو تساں ہکے سائٹ تے وکھرے اکاؤنٹس ورت سڳو تے کراس سائٹ ٹریکنگ گھٹا سڳو۔
+    .label = کنٹینرز
+containers-add-button2 =
+    .label = نواں کنٹینر شامل کرو
+    .accesskey = A
+containers-new-tab-check3 =
+    .label = ہر نویں ٹیب کیتے ہک کنٹینر چݨو
+    .accesskey = S
+# Checkbox in the Containers settings. By default, when a link is opened from
+# another application, Firefox tries to pick a matching container for it. When
+# this checkbox is checked, such links always open outside of any container.
+containers-external-links-check =
+    .label = بیروݨی ایپس توں کھلے ونڄݨ والے لنکس کیتے کنٹینر نہ ورتو
+    .accesskey = D
+containers-new-tab-check2 =
+    .description = جڈاں تساں نواں ٹیب کھولݨ دا بٹن دباؤ، ہر ویلے کنٹینرز دا مینیو کھلݨا۔
+    .label = ہر نویں ٹیب کیتے ہک کنٹینر چݨو
+    .accesskey = S
+containers-settings-button2 =
+    .title = ترتیبات
+containers-remove-button3 =
+    .title = کڈھ ݙے
+containers-sites-card-header =
+    .description = ہک سائٹ کیتے ہک کنٹینر چݨو تے { -brand-short-name } ہر ویلے اوہو ورتے گا جڈاں سائٹ کھلے۔
+    .label = سائٹ دے حساب نال کنٹینرز
+containers-sites-add-button =
+    .label = ویب سائٹ شامل کرو
+    .accesskey = w
+# The dropdown that picks which container a site opens in.
+# Variables:
+#   $site (string) - Domain of the website, for example “example.com”.
+containers-site-container-select = { $site } کیتے کنٹینر
+containers-site-remove-button =
+    .title = کڈھ ݙے
+containers-remove-button2 =
+    .title = کڈھ ݙے
 
 ## Account and sync
 
 sync-group-label =
     .label = ہم وقت
+account-group-label2 =
+    .label = اکاؤنٹ
+account-disabled-group =
+    .description = اکاؤنٹ دیاں ترتیبات دستیاب نیں۔
+    .label = اکاؤنٹ
+account-placeholder2 =
+    .description = سائن اِن کرو تے اپݨا ڈیٹا پرائیویٹ، انکرپٹڈ، تے ہر جاہ تیار رکھو جتھاں تساں { -brand-short-name } ورتدے او۔
+    .label = تساں سائن اِن نیں کیتا
+account-sync-section =
+    .heading = اکاؤنٹ تے سنک
+pane-account-sync-title2 = اکاؤنٹ تے سنک
+    .title = اکاؤنٹ تے سنک
 
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
@@ -697,6 +778,12 @@ sync-signedout-caption = اپݨی ویب اپݨے نال رکھو
 sync-signedout-description2 = اپݨے تمام آلات تے اپݨے نشانیاں، تاریخ، ٹیباں، پاس ورڈز، ایڈ آنز تے ترتیباں کوں سنکرونائز کرو۔
 sync-signedout-account-signin3 =
     .label = سینک کرݨ کیتے سائن ان تھیوو …
+    .accesskey = i
+sync-signedout-account-signin-4 =
+    .label = سنکنگ شروع کرݨ کیتے اپݨے اکاؤنٹ وچ سائن اِن کرو
+    .accesskey = i
+sync-signedout-account-short =
+    .label = سائن اِن
     .accesskey = i
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
@@ -734,7 +821,18 @@ sync-manage-account2 =
 ## $name (string) - Name used for Firefox account
 
 sync-signedin-unverified = { $email } توثیق شدہ کائنی۔
+sync-signedin-unverified2 =
+    .description = اپݨا ان باکس ݙیکھو تاں جو اپݨا اکاؤنٹ کنفرم کرو تے اوکوں سرکاری بݨاؤ۔
+    .label = { $email } ہݨے تائیں کنفرم نیں تھیا
 sync-signedin-login-failure = { $email } ولدا جوڑݨ کیتے براہ مہربانی سائن ان کرو
+sync-signedin-login-failure2 =
+    .description = بیا جوڑو تے اپݨے ڈیٹے دی سنکنگ شروع کرو۔
+    .label = تساں { $email } توں سائن آؤٹ ہو
+sync-account-signed-in =
+    .label = { $email }
+sync-account-signed-in-display-name =
+    .description = { $email }
+    .label = { $name }
 
 ##
 
@@ -751,7 +849,16 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = سینکنگ: چالو ہے
+prefs-syncing-on-2 =
+    .label = سنکنگ آن ہے
 prefs-syncing-off = سینکنگ: بند ہے
+prefs-syncing-off-2 =
+    .description = سنک آن کرو تاں جو تہاݙے بک مارکس، پاسورڈز، ہسٹری، تے بیا سب کجھ ہر ڈیوائس تے ملے۔
+    .label = سنکنگ آف ہے
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = سنک آن کرو تاں جو تہاݙے بک مارکس، پاسورڈز، ہسٹری، تے بیا سب کجھ ایں ڈیوائس تے ملے۔
+    .label = سنکنگ آف ہے
 prefs-sync-turn-on-syncing =
     .label = سینکنگ چالو کرو …
     .accesskey = s
@@ -774,6 +881,11 @@ prefs-syncing-button-2 =
 ## The list of things currently syncing.
 
 sync-syncing-across-devices-heading = اساں انہاں آئٹماں کوں تہاݙیاں ساریاں منسلک ڈیوائساں تے ہم وقت کریندے پئے ہیں:
+sync-syncing-across-devices-heading-2 = ڈیوائساں وچ سنک کیتا ڳیا ڈیٹا
+sync-syncing-across-devices-heading-3 = ایں ڈیوائس تے سنک تھیوݨ والا ڈیٹا
+sync-syncing-across-devices-empty-state2 =
+    .description = تساں ہݨے کجھ وی سنک نیں پیے کریندے…۔ سنکنگ شروع کرو تاں جو تہاݙا سارا ڈیٹا تہاݙیاں سبھ ڈیوائساں تے ملے۔
+    .label = سنک کیتا ڳیا ڈیٹا منیج کرو
 sync-currently-syncing-bookmarks = نشانیاں
 sync-currently-syncing-history = تاریخ
 sync-currently-syncing-tabs = ٹیباں کھولو
