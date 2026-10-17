@@ -19,6 +19,7 @@ confirmation-hint-send-to-device = Nosūtīts!
 confirmation-hint-firefox-relay-mask-created = Izveidots jauns aizsegs.
 confirmation-hint-firefox-relay-mask-reused = Esošais aizsegs izmantots atkārtoti.
 confirmation-hint-screenshot-copied = Ekrānuzņēmums nokopēts!
+confirmation-hint-tab-group-saved = Ciļņu kopa saglabāta
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

@@ -114,6 +114,7 @@ ipprotection-android-promo-callout-primary-button = Sym zrozumił
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Nastajće prawidła zatwarjeneho VPN a přehladujće potom dale
 ipprotection-site-inclusions-callout-title-lapsed-users = Testujće zatwarjeny VPN, nětko sydło po sydle
+ipprotection-site-inclusions-callout-description-1 = Zmóžńće VPN, hdyž chceće přidatnu priwatnosć abo na stejnišću bazowane přehladowanje, a znjemóžńće jón, hdźež jón njetrjebaće.
 ipprotection-site-inclusions-callout-description = Zmóžńće jón, hdyž chceće přidatnu priwatnosć abo na stejnišću bazowane přehladowanje, a znjemóžńće jón, hdźež jón njetrjebaće.
 ipprotection-site-inclusions-callout-primary-button = Prawidła postajić
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic nětko
@@ -367,6 +368,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Wšě prawidła websydła zhašeć?
 ip-protection-delete-all-site-rules-confirm =
     .label = Wšě prawidła zhašeć
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Prawidło njeda so zhašeć
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Prawidła njedadźa so zhašeć
+ip-protection-delete-site-rule-retry =
+    .label = Hišće raz spytać
 
 ## IP Protection Bandwidth
 

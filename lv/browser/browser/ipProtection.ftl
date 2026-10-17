@@ -24,6 +24,7 @@ ipprotection-title = VPN
 ## Buttons used for all feature introduction callouts
 
 ipprotection-feature-introduction-title = Iepazīstinām ar VPN, tagad tavā pārlūkprogrammā
+ipprotection-feature-introduction-title-privacy-1 = Pievienot vēl vienu privātuma slāni ar iebūvēto VPN
 ipprotection-feature-introduction-title-summer-promo = Ir paredzēts ceļojums? Ņem sev līdzi privātumu!
 ipprotection-feature-introduction-button-primary = Nākamais
 ipprotection-feature-introduction-button-secondary-not-now = Ne tagad
@@ -54,6 +55,7 @@ ipprotection-android-promo-callout-primary-button = Sapratu
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+ipprotection-site-inclusions-callout-description-1 = VPN var ieslēgt, kad ir vēlēšanās pēc papildu privātumu vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne tagad
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Noraidīt
 
@@ -80,6 +82,12 @@ site-rules-status-heading = Tava kārtula
 site-rules-description-exclusion = VPN ir izslēgts šai vietnei
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN ieslēgts šai vietnei
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Vienmēr { $website } ieslēgt VPN?
+    .message = Kārtulas jebkurā brīdī var atjaunināt iestatījumos.
 
 ## Status card
 
@@ -103,6 +111,11 @@ confirmation-hint-ipprotection-navigated-to-excluded-site = VPN šai vietnei ir 
 ## IP Protection Settings
 
 ip-protection-learn-more = Uzzināt vairāk
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Esi gatavībā izmēģināt?
+    .message = Katru mēnesi iegūsi { $maxUsage } GB, un varēsi izvēlēties, kurās vietnēs izmantot VPN.
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
@@ -118,6 +131,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Kārtulu iestatīšana vietnēm, kurās ir nepieciešams papildu privātums vai izslēgts VPN.
     .label = Pārvaldīt VPN kārtulas
+ip-protection-site-rules-list-section-1 =
+    .description = Iestati kārtulas, lai automātiski ieslēgtu vai izslēgtu VPN!
+    .label = Tīmekļvietņu kārtulas
 ip-protection-site-rules-add-button =
     .label = Iestatīt kārtulu
 ip-protection-site-rules-delete-all-button =
@@ -187,6 +203,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Izdzēst visas tīmekļvietņu kārtulas?
 ip-protection-delete-all-site-rules-confirm =
     .label = Izdzēst visas kārtulas
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Kārtulu nevarēja izdzēst
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Kārtulas nevarēja izdzēst
+ip-protection-delete-site-rule-retry =
+    .label = Jāmēģina vēlreiz
 
 ## IP Protection bandwidth reset callout
 

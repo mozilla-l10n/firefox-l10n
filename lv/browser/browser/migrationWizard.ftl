@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } nav piekļuves citu ša
 migration-no-permissions-instructions = Lai turpinātu datu importēšanu no citas pārlūkprogrammas, piešķiriet { -brand-short-name } piekļuvi tās profila mapei.
 migration-no-permissions-instructions-step1 = Izvēlieties "Turpināt"
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Datņu atlasītājā jāizvēlas “Atvērt”
+       *[other] Datņu atlasītājā jāpārvietojas uz <code>{ $permissionsPath }</code> un jāizvēlas “Atlasīt”
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

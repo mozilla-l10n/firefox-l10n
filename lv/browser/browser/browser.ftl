@@ -1337,6 +1337,7 @@ fire-button-panel-cancel-button =
 fire-button-panel-confirm-button =
     .label = Izdzēst visu
     .accesskey = I
+fire-button-panel-complete = Pārlūkošanas dati izdzēsti
 
 ## Autorefresh blocker
 

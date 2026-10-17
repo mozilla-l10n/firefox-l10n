@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } přistup k profilam dru
 migration-no-permissions-instructions = Zo byšće z importowanjom datow z druheho wobhladowaka pokročował, dajće { -brand-short-name } přistup k jeho profilowemu rjadowakej.
 migration-no-permissions-instructions-step1 = Wubjerće „Pokročować“
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Wubjerće „Wočinić“ w datajowym wuběrje
+       *[other] Nawigěrujće w datajowym wuběrje k <code>{ $permissionsPath }</code> a wubjerće „Wubrać“
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

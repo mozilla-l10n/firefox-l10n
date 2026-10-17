@@ -333,4 +333,4 @@ refresh-profile-infobar-button = Atsvaidzināt { -brand-short-name }…
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Vai atvērt iepriekšējās cilnes?</strong> Iepriekšējo sesiju var atjaunot { -brand-short-name } lietotnes izvēlnē <img data-l10n-name="icon"/> sadaļā “Vēsture”.
-restore-session-startup-suggestion-button = Atvērt pamācību
+restore-session-startup-suggestion-button = Parādīt, kā

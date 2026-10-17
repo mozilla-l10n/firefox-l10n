@@ -283,6 +283,10 @@ newtab-stocks-watchlist-full =
 
 ## Strings for the Picture of the Day widget
 
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Dienas attēls: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -296,8 +300,23 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 newtab-picture-widget-open-menu-button =
     .aria-label = Atvērt dienas attēla izvēlni
     .title = Atvērt dienas attēla izvēlni
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Iestatīt šo attēlu kā tapeti
+    .label = Iestatīt tapeti
+    .title = Iestatīt tapeti
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Paslēpt šo attēlu
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Parādīt attēlu
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Uzzināt vairāk
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Parādīt attēlu
+    .title = Parādīt attēlu
 
 ## Strings for the Search widget
 
@@ -353,6 +372,14 @@ newtab-horoscopes-menu-learn-more = Uzzināt vairāk
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Ceļošana
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Atvērt ceļošanas izvēlni
+    .title = Atvērt ceļošanas izvēlni
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Uzzināt vairāk
 
