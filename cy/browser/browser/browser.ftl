@@ -1458,6 +1458,20 @@ reset-pbm-toolbar-button2 =
 fire-button-toolbar-button =
     .label = Dileu rhywfaint neu'r cyfan o'ch data pori
     .tooltiptext = Dileu rhywfaint neu'r cyfan o'ch data pori
+fire-button-panel-heading = Dileu'r holl ddata pori?
+fire-button-panel-description = Mae hyn yn dileu hanes, cwcis, a data gwefan. Byddwch yn cael eich allgofnodi o wefannau. Bydd y ffenestr hon yn cau, a bydd { -brand-short-name } yn agor un newydd.
+fire-button-panel-choose-description = Os nad ydych chi am ddileu popeth, dewiswch ddata penodol yn lle hynny.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Dewis…
+fire-button-panel-cancel-button =
+    .label = Diddymu
+    .accesskey = D
+fire-button-panel-confirm-button =
+    .label = Dileu'r cyfan
+    .accesskey = D
+fire-button-panel-complete = Data pori wedi'i ddileu
 
 ## Autorefresh blocker
 

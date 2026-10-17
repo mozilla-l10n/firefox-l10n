@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Dyma VPN, nawr yn eich porwr
 ipprotection-feature-introduction-title-1 = Rhowch gynnig ar VPN cynhenid { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data.
 ipprotection-feature-introduction-title-privacy = Ychwanegu haen arall o breifatrwydd
+ipprotection-feature-introduction-title-privacy-1 = Ychwanegu haen arall o breifatrwydd gyda VPN cynhenid
 ipprotection-feature-introduction-link-text-privacy-1 = Mae <a data-l10n-name="learn-more-vpn"> VPN cynhenid { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Gallwch ddewis o sawl lleoliad i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-privacy-2 = Mae <a data-l10n-name="learn-more-vpn"> VPN cynhenid { -brand-product-name }</a> yn helpu i ddiogelu eich pori. Dewiswch o leoliadau lluosog i gadw lle rydych chi'n pori'n fwy preifat.
 ipprotection-feature-introduction-link-text-privacy-3 = Cael <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> trwy ddewis o blith nifer o leoliadau i guddio lle rydych chi'n pori.

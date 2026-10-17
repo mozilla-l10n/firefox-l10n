@@ -21,6 +21,7 @@ confirmation-hint-send-to-device = Anfonwyd!
 confirmation-hint-firefox-relay-mask-created = Arallenw newydd wedi'i greu!
 confirmation-hint-firefox-relay-mask-reused = Arallenw cyfredol wedi'i ailddefnyddio!
 confirmation-hint-screenshot-copied = Llun sgrin wedi'i gopïo!
+confirmation-hint-tab-group-saved = Grŵp tab wedi'i gadw
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
