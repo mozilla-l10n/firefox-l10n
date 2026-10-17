@@ -430,7 +430,7 @@ main-context-menu-inspect =
 # as another item's, such as "Copy Image".
 main-context-menu-inspect-a11y-properties2 =
     .label = Inspect Accessibility Properties
-    .accesskey = I
+    .accesskey = y
 main-context-menu-inspect-a11y-properties =
     .label = Inspect Accessibility Properties
 main-context-menu-eme-learn-more =
