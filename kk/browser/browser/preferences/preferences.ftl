@@ -1795,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Кеңейтулерді орната алатын веб-сайттарды таңдау
     .accesskey = е
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Сайттарға қолданба сілтемелерін ашуды сұрауға рұқсат ету.
+    .accesskey = а
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Бұғатталған сайттарды басқару
+    .accesskey = л
 permissions-location2 =
     .label = Орналасу
 permissions-localhost2 =

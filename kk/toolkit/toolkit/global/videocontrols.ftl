@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Видео пішімі немесе MIM
 videocontrols-error-no-source = Пішімі немесе MIME түріне қолдауы бар ешбір видео табылмады.
 videocontrols-error-generic = Видеоны ойнату белгісіз қате салдарынан үзілді.
 videocontrols-status-picture-in-picture = Бұл видео суреттегі сурет режимінде ойнатылады.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Видео суреттегі сурет режимінде ойнатылып тұр
 # This message shows the current position and total video duration
 #
 # Variables:

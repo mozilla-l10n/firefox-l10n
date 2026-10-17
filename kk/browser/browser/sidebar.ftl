@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = Соңғы қаралған
 sidebar-history-sort-option-most-visited =
     .label = Көбірек қаралатын
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Бірдеңені жіберіп алдыңыз ба? Басқа браузерден тарихты алыңыз.
+sidebar-history-import-promo-button =
+    .label = { -brand-short-name } ішіне импорттау
 
 ## Labels for sidebar search
 

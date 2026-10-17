@@ -191,6 +191,10 @@ about-glean-store-submitted-pings-select-label = Пинг:
 about-glean-store-submitted-pings =
     .description = Жіберілген пингтерді жадта сақтауға мүмкіндік береді
     .label = Жіберілген пингтерді сақтау
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Клиент ақпараты
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Пинг ақпараты
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

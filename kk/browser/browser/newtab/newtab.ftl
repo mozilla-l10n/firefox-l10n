@@ -475,6 +475,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Күн суреті · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Осы күннің суреті
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Осы күннің суреті: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -595,6 +599,11 @@ newtab-horoscopes-menu-learn-more = Көбірек білу
 # Widget heading; also the widget's accessible name. Travel (noun) is a
 # widget on New Tab for searching hotels, flights and car rentals.
 newtab-travel-widget-title = Саяхат
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Саяхат мәзірін ашу
+    .title = Саяхат мәзірін ашу
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Көбірек білу
 
@@ -905,6 +914,10 @@ newtab-custom-widget-search-toggle =
     .label = Іздеу
 newtab-custom-widget-horoscopes-toggle =
     .label = Гороскоптар
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Саяхат
 newtab-custom-widget-section-title = Виджеттер
 newtab-custom-widget-section-toggle =
     .label = Виджеттер

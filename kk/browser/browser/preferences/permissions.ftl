@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Виртуалды шынайылық құрылғыларына қатынауға жаңа сұранымдарды блоктау
 permissions-site-xr-disable-desc = Бұл төменде тізілмеген веб-сайттарға виртуалды шынайылық құрылғыларына қатынауға рұқсат сұрауға тыйым салады. Виртуалды шынайылық құрылғыларына қатынауды блоктау веб-сайттардың кейбір мүмкіндіктерін сындыра алады.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Параметрлер - Қолданба сілтемелері үшін бұғатталған сайттар
+permissions-site-app-links-desc = Бұл сайттарға электрондық пошта (mailto:) сияқты қолданба сілтемелерін ашуды сұрау бұғатталған. Қайта сұрау үшін сайтты өшіріңіз.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
