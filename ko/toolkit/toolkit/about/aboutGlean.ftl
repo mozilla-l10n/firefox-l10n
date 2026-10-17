@@ -194,6 +194,10 @@ about-glean-store-submitted-pings-select-label = 핑:
 about-glean-store-submitted-pings =
     .description = 제출된 핑의 메모리 저장 활성화
     .label = 제출된 핑 저장
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = 클라이언트 정보
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = 핑 정보
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

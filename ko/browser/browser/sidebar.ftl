@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = 최근 방문
 sidebar-history-sort-option-most-visited =
     .label = 자주 방문 순
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = 누락된 기록이 있나요? 다른 브라우저의 기록을 가져오세요.
+sidebar-history-import-promo-button =
+    .label = { -brand-short-name }로 가져오기
 
 ## Labels for sidebar search
 
