@@ -170,7 +170,7 @@ permissions-site-xr-disable-desc = Aukera honekin, errealitate birtualeko gailue
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Ezarpenak - Aplikazio-loturak blokeatuta dituzten guneak
-permissions-site-app-links-desc = Gune hauek blokeatuta daude aplikazio-loturak irekitzea galdegitetik, adibidez posta elektronikoa (mailto:). Gune bati galdegitea berriro baimentzeko, kendu hemendik.
+permissions-site-app-links-desc = Gune hauek blokeatuta daude aplikazio-loturak irekitzeko galdegitetik, adibidez posta elektronikoa (mailto:). Gune bati galdegitea berriro baimentzeko, kendu hemendik.
 
 ## Site Permissions - Camera
 

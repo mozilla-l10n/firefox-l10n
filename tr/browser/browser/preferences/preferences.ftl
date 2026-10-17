@@ -1795,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Uzantı yükleyebilecek siteleri seç
     .accesskey = U
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Sitelerin uygulama bağlantılarını açmayı istemesine izin ver.
+    .accesskey = S
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Engellenen siteleri yönet
+    .accesskey = E
 permissions-location2 =
     .label = Konum
 permissions-localhost2 =

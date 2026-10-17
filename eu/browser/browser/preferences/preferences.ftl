@@ -1795,6 +1795,11 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Aukeratu zein webgunek instala ditzaketen hedapenak
     .accesskey = A
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Baimendu guneei aplikazio-loturak irekitzeko galdegitea
+    .accesskey = B
 # Opens the list of sites that are blocked from asking to open app links.
 permissions-app-links-manage-button =
     .label = Kudeatu blokeatutako guneak
