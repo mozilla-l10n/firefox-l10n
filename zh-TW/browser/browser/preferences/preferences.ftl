@@ -1783,6 +1783,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = 選擇可以安裝擴充套件的網站
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = 允許網站詢問您是否可開啟應用程式鏈結。
+    .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = 管理封鎖的網站
+    .accesskey = M
 permissions-location2 =
     .label = 位置
 permissions-localhost2 =
