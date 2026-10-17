@@ -475,6 +475,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Imagen del día · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Imagen del día
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Imagen del día: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -515,6 +519,8 @@ newtab-picture-set-wallpaper =
 newtab-picture-menu-manage-wallpaper = Gestionar el fondo de pantalla
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Ocultar esta imagen
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Mostrar imagen
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Ocultar la foto de hoy
@@ -522,6 +528,10 @@ newtab-picture-menu-hide-photo = Ocultar la foto de hoy
 newtab-picture-menu-show-photo = Mostrar la foto de hoy
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Más información
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Mostrar imagen
+    .title = Mostrar imagen
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Mostrar la foto de hoy
@@ -573,6 +583,11 @@ newtab-recent-searches-empty-trending = Las búsquedas populares no están dispo
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horóscopos
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Abrir menú de horóscopos
+    .title = Abrir menú de horóscopos
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Opciones de horóscopos
@@ -581,6 +596,14 @@ newtab-horoscopes-menu-learn-more = Aprender más
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Viajes
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Abrir menú de viajes
+    .title = Abrir menú de viajes
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Aprender más
 
@@ -892,6 +915,10 @@ newtab-custom-widget-search-toggle =
     .label = Buscar
 newtab-custom-widget-horoscopes-toggle =
     .label = Horóscopos
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Viajes
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } no tiene acceso a los p
 migration-no-permissions-instructions = Para continuar importando datos desde otro navegador, { -brand-short-name } tiene que tener acceso a su carpeta de perfil.
 migration-no-permissions-instructions-step1 = Selecciona "Continuar"
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] En el selector de archivos, elige “Abrir”.
+       *[other] En el selector de archivos, navega a <code>{ $permissionsPath }</code> y elige "Seleccionar"
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

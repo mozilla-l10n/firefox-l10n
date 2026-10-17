@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Presentamos VPN, ahora directamente en
 ipprotection-feature-introduction-title-1 = Prueba la VPN integrada de { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Utiliza nuestra nueva <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar tu ubicación y proteger tus datos.
 ipprotection-feature-introduction-title-privacy = Añade otra capa de privacidad
+ipprotection-feature-introduction-title-privacy-1 = Añade una capa adicional de privacidad con la VPN integrada
 ipprotection-feature-introduction-link-text-privacy-1 = La VPN integrada de <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ayuda a proteger tu navegación. Elige entre varias ubicaciones para mantener tu navegación más privada.
 ipprotection-feature-introduction-link-text-privacy-2 = La VPN integrada de <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ayuda a proteger tu navegación. Elige entre multiples ubicaciones para mantener tu navegación más privada.
 ipprotection-feature-introduction-link-text-privacy-3 = Obtén <a data-l10n-name="learn-more-vpn">privacidad adicional</a> eligiendo entre múltiples ubicaciones para ocultar desde dónde navegas.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Entendido
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Establece las reglas de la VPN integrada y luego navega
 ipprotection-site-inclusions-callout-title-lapsed-users = Prueba la VPN integrada, ahora sitio por sitio.
+ipprotection-site-inclusions-callout-description-1 = Activa la VPN cuando quieras privacidad adicional o navegación basada en la ubicación, y desactívala donde no quieras.
 ipprotection-site-inclusions-callout-description = Actívala cuando quieras privacidad adicional o navegación basada en la ubicación, y desactívala donde no quieras.
 ipprotection-site-inclusions-callout-primary-button = Establecer reglas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ahora no
@@ -144,6 +146,12 @@ site-rules-status-heading = Tu regla
 site-rules-description-exclusion = VPN desactivada para este sitio
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = Desactivar VPN para este sitio
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = ¿Activar siempre la VPN para { $website }?
+    .message = Actualiza tus reglas cuando quieras en los ajustes.
 ipprotection-settings-link =
     .label = Ajustes
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = Aprender más
 ip-protection-not-opted-in-4 =
     .heading = Prueba la VPN integrada de { -brand-short-name }
     .message = Navega con protección adicional ocultando tu ubicación.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = ¿Todo listo para probarlo?
+    .message = Obtén { $maxUsage } GB gratis cada mes y elige qué sitios usan la VPN.
 ip-protection-not-opted-in-button = Empezar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -278,6 +291,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } sitios web
         }
     .label = Administrar ajustes de sitios web
+ip-protection-site-rules-header-1 =
+    .heading = Administrar las reglas de VPN
+ip-protection-site-rules-button-1 =
+    .description = Establece reglas para los sitios que requieren mayor privacidad o en los que la VPN debe estar desactivada.
+    .label = Administrar las reglas de VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Establece reglas para activar o desactivar la VPN automáticamente.
+    .label = Reglas del sitio web
+ip-protection-site-rules-add-button =
+    .label = Establecer regla
+ip-protection-site-rules-delete-all-button =
+    .label = Borrar todas las reglas
+ip-protection-site-rules-empty = Las reglas que establezcas aparecerán aquí.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN siempre activada
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN siempre desactivada
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Edita la regla para { $website }
+    .title = Editar
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Borrar la regla para { $website }
+    .title = Eliminar
 ip-protection-site-rules-header =
     .heading = Administrar las reglas del sitio web
 ip-protection-site-rules-button =
@@ -301,6 +341,52 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Administrar ajustes de sitios web
 ip-protection-exclusions-desc = Usa una VPN para todos los sitios web excepto los de esta lista. Agrega un sitio web aquí o abre la VPN.
+ip-protection-site-rule-window =
+    .title = Establecer regla
+ip-protection-edit-site-rule-window =
+    .title = Editar regla
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Establecer
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Guardar
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Ingresa a un sitio y luego selecciona su estado de VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Sitio web
+    .placeholder = Ejemplo: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Estado de la VPN
+ip-protection-site-rule-status-on =
+    .label = Siempre activada
+ip-protection-site-rule-status-off =
+    .label = Siempre desactivada
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Ingresa una dirección web válida.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Este sitio ya tiene una regla.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Error al crear la regla. Por favor, vuelve a intentarlo.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = ¿Eliminar regla para { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Cancelar
+ip-protection-delete-site-rule-confirm =
+    .label = Borrar
+ip-protection-delete-all-site-rules-message = ¿Borrar todas las reglas del sitio web?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Borrar todas las reglas
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = No se pudo borrar la regla
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = No se pudo borrar las reglas
+ip-protection-delete-site-rule-retry =
+    .label = Volver a intentarlo
 
 ## IP Protection Bandwidth
 

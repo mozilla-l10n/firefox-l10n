@@ -180,6 +180,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Utiliza un chatbot de IA sin cambiar de pestaña
@@ -246,6 +248,11 @@ highlight-to-search-settings-ask-provider =
     .label = Preguntar a { $provider }
 highlight-to-search-settings-ask-generic =
     .label = Pregúntale a la IA
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Buscar
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ver más con IA?
 # Message that appears when user is shown the opt-in flow for link previews
