@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = 모든 기록 지우기
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = 탐색 데이터 삭제
 clear-data-settings-label = 닫을 때, { -brand-short-name }가 자동으로 모두 지우기
 sanitize-on-shutdown-description = { -brand-short-name }를 닫을때 자동으로 선택된 모든 항목을 지웁니다.
 
@@ -116,6 +123,14 @@ sanitize-button-ok2 =
     .label = 지우기
 sanitize-button-ok-on-shutdown =
     .label = 변경 내용 저장
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = 삭제
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = 닫기
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

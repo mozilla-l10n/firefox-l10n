@@ -1375,6 +1375,27 @@ reset-pbm-toolbar-button2 =
     .label = 사생활 보호 세션 지우기
     .tooltiptext = 사생활 보호 세션 지우기
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = 탐색 데이터의 일부 또는 전부를 삭제합니다
+    .tooltiptext = 탐색 데이터의 일부 또는 전부를 삭제합니다
+fire-button-panel-heading = 탐색 데이터를 모두 삭제하시겠습니까?
+fire-button-panel-description = 기록, 쿠키 및 사이트 데이터를 삭제합니다. 사이트에서 로그아웃됩니다. 이 창은 닫히고 { -brand-short-name }가 새 창을 엽니다.
+fire-button-panel-choose-description = 모두 삭제하지 않으려면 특정 데이터를 선택하세요.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = 선택…
+fire-button-panel-cancel-button =
+    .label = 취소
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = 모두 삭제
+    .accesskey = D
+fire-button-panel-complete = 탐색 데이터 삭제됨
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }가 이 페이지를 자동으로 다시 로드하지 못하도록 차단했습니다.
