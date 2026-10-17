@@ -364,11 +364,32 @@ appmenuitem-report-broken-site =
 appmenuitem-sign-in-account = آپݨے کھاتے وچ سائن ان تھیوو
 appmenuitem-monitor-title2 = شناختی چوری توں اڳے رہو۔
 appmenuitem-monitor-description2 = ڈیٹا دی خلاف ورزیاں دے الرٹس حاصل کرو۔
+# Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
+appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } ڈیٹا لیک الرٹس
 appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = ڈیٹا دی خلاف ورزی دیاں چتاوݨیاں حاصل کرو
 appmenuitem-relay-title = { -relay-brand-short-name }
+appmenuitem-relay-title2 = اپݨی ای میل نجی رکھو
+appmenuitem-relay-description2 = تساڈے ان باکس وچ سپیم روکݨ وچ مدد کریندا ہے
+# Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
+appmenuitem-relay-title-signed-in = ای میل ماسک ݙیکھو
 appmenuitem-relay-description = آپݨے اصلی ای میل اَتے فون کوں ماسک کرو
+appmenuitem-services-relay-description = ای میل ماسک ڈیش بورڈ کھولو
+appmenuitem-vpn-title2 = { -mozilla-vpn-brand-name } نال اپݨا مقام لکاؤ
+appmenuitem-vpn-description5 = تمام ڈیوائسز تے اضافی تحفظ حاصل کرو
+# Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
+appmenuitem-vpn-title-signed-in1 = { -mozilla-vpn-brand-name } ڈاؤن لوڈ کرو
 appmenuitem-vpn-title = { -mozilla-vpn-brand-name }
+appmenuitem-vpn-description-2 = پورے آلے دا تحفظ حاصل کرو
+appmenu-services-header = میݙیاں خدمات
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header3 = پرائیویسی ٹولز
+# "Mozilla" is intentionally hardcoded to prevent forks from replacing it
+# with their own vendor name, since these tools are created and maintained by
+# Mozilla.
+appmenu-other-protection-header2 = Mozilla دے ٻئے تحفظی ٹول آزماؤ:
 
 ## Profiles panel
 
@@ -396,6 +417,7 @@ fxa-menu-create-profile-learn-more =
     .label = پروفائلز کیا ہن؟
 # Button in the account menu that links to the Referrals page
 appmenuitem-share-firefox-title2 = { -brand-product-name } شیئر کرو
+appmenuitem-share-firefox-description = کسے کوں او براؤزر چݨݨ دی دعوت ݙیو جیڑھا پرائیویسی کوں پہلے رکھیندا ہے
 appmenu-profiles-2 =
     .label = پروفائلاں
 appmenu-profiles-header = پروفائلاں

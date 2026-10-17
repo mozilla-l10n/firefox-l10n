@@ -15,3 +15,5 @@ places-bookmarks-restore-format-error = فائل دی غیر معاون ونکی
 places-bookmarks-restore-parse-error = بیک اپ فائل تے عمل کرݨ توں عاری
 places-bookmarks-import = نشانیاں دی فائل درآمد کرو
 places-bookmarks-export = نشانیاں دی فائل برآمد کرو
+places-bookmarks-paste-error-title = غلط URL(s) ملے ہن
+places-bookmarks-paste-error-message-header = مندرجہ ذیل URL(s) تہاݙے بک مارکس وچ شامل نیں تھی سڳے۔ فارمیٹنگ کوں چیک کرو تے اُنھاں کوں ٻاہر شامل کرݨ دی کوشش کرو۔

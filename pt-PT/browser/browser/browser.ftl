@@ -1420,7 +1420,18 @@ fire-button-toolbar-button =
     .tooltiptext = Apagar alguns ou todos os seus dados de navegação
 fire-button-panel-heading = Apagar todos os dados de navegação?
 fire-button-panel-description = Isto elimina o histórico, cookies e dados dos sites. A sua sessão nos sites será terminada. Esta janela irá fechar-se, e o { -brand-short-name } abrirá uma nova.
-fire-button-panel-choose-description = Se não quiser apagar tudo, selecione apenas os dados pretendidos.
+fire-button-panel-choose-description = Se não quiser apagar tudo, escolha apenas dados específicos.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Escolher...
+fire-button-panel-cancel-button =
+    .label = Cancelar
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = Apagar tudo
+    .accesskey = A
+fire-button-panel-complete = Dados de navegação apagados
 
 ## Autorefresh blocker
 

@@ -203,6 +203,23 @@ preferences-zoom-text-only =
     .accesskey = t
 language-header = زبان
 choose-language-description = ورقیاں دی نمائش کیتے اپݨی پسندیدہ زبان دا انتخاب کرو۔
+website-add-language =
+    .label = زبان شامل کرو
+website-add-language-button =
+    .aria-label = منتخب زبان شامل کرو
+    .title = منتخب زبان شامل کرو
+# The pattern used to generate strings presented to the user in the
+# website languages selection list.
+#
+# Example:
+#   Icelandic
+#   Spanish (Chile)
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+website-remove-language-button =
+    .aria-label = کڈھ ݙے { $locale }
+    .title = کڈھ ݙے { $locale }
 choose-button =
     .label = چݨو …
     .accesskey = o
@@ -212,19 +229,96 @@ manage-browser-languages-button =
     .accesskey = l
 confirm-browser-language-change-description = انہاں تبدیلیاں کوں لاگو کرݨ کیتے { -brand-short-name } کوں دوبارہ شروع کرو۔
 confirm-browser-language-change-button = لاگو کرو تے دوبارہ شروع کرو
+browser-language-heading =
+    .description = مینیو، پیغامات تے نوٹیفیکیشنز ݙکھاوݨ کیتے { -brand-short-name } دی زبان منتخب کرو۔
+    .label = براؤزر زبان
+browser-language-preferred-label =
+    .label = ترجیحی زبان
+browser-language-fallback-label =
+    .description = جڈاں ترجیحی زبان دی مقامی سازی مکمل نہ ہووے تاں ورتی ویندی ہے۔
+    .label = متبادل زبان
 browser-language-install-error =
     .message = { -brand-short-name } ہݨ تہاݙیاں زباناں کوں اپ ڈیٹ نہیں کر سڳدا۔ چیک کرو جو تساں انٹرنیٹ نال منسلک ہو یا دوبارہ کوشش کرو۔
 fx-translate-web-pages = { -translations-brand-name }
 translate-exceptions =
     .label = استثنیات ...
     .accesskey = x
+settings-translations-header =
+    .aria-label = ترجمے
+    .description = صفحے یا منتخب متن دا ترجمہ کرو۔ تساڈی پرائیویسی دی حفاظت کیتے، ترجمے تساڈے ڈیوائس تے ہی رہندن۔
+    .label = ترجمے
+settings-translations-offer-to-translate-label =
+    .label = پورے صفحے دا ترجمہ پیش کرو
+settings-translations-more-settings-button =
+    .description = زباناں، ویب سائٹاں تے آف لائن ترجمے کیتے ترجیحات سیٹ کرو۔
+    .label = ترجمے دیاں بیا ترتیبات
+settings-translations-subpage-header =
+    .heading = ترجمے دیاں بیا ترتیبات
+settings-translations-subpage-speed-up-translation-header =
+    .description = تیز ترجمے کیتے تے آف لائن ترجمہ کرݨ کیتے مکمل زباناں ڈاؤن لوڈ کرو۔
+    .label = ترجمہ تیز کرو
+settings-translations-subpage-automatic-translation-header =
+    .label = خودکار ترجمہ
+settings-translations-subpage-always-translate-header =
+    .label = ایناں زباناں دا ہمیشہ ترجمہ کرو
+settings-translations-subpage-never-translate-header =
+    .label = ایناں زباناں دا کݙاہیں ترجمہ نہ کرو
+settings-translations-subpage-never-translate-sites-header =
+    .label = ایناں سائٹاں دا کݙاہیں ترجمہ نہ کرو
+# The icon placeholders show the translations button and the settings gear in the urlbar panel.
+settings-translations-subpage-never-translate-sites-description = سائٹ شامل کرݨ کیتے <img data-l10n-name="translations-icon"/> ترجمے دا پینل کھولو، <img data-l10n-name="settings-icon"/> ترجمے دیاں سیٹنگز منتخب کرو، فیر "ایں سائٹ دا کݙاہیں ترجمہ نہ کرو" چݨو۔
+settings-translations-subpage-language-select-option =
+    .label = زبان شامل کرو
+settings-translations-subpage-language-add-button =
+    .aria-label = زبان شامل کرو
+    .title = زبان شامل کرو
+settings-translations-subpage-download-languages-header =
+    .label = زباناں ڈاؤن لوڈ کرو
+settings-translations-subpage-download-languages-select-option =
+    .label = زبان منتخب کرو
+settings-translations-subpage-download-languages-button =
+    .aria-label = زبان ڈاؤن لوڈ کرو
+    .title = زبان ڈاؤن لوڈ کرو
+# Variables:
+#   $language (string) - Localized name of the language to download.
+#   $size (string) - Download size in megabytes, formatted for the locale.
+settings-translations-subpage-download-language-option = { $language } ({ $size }MB)
+    .label = { $language } ({ $size }MB)
+settings-translations-subpage-no-languages-downloaded =
+    .label = کوئی زبان ڈاؤن لوڈ نیں تھئی
+settings-translations-subpage-no-languages-added =
+    .label = کوئی زبان شامل نیں تھئی
+settings-translations-subpage-download-progress = ڈاؤن لوڈ جاری ہے…
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-error = { $language } ({ $size }MB) ڈاؤن لوڈ نیں تھئی
+settings-translations-subpage-download-retry-button =
+    .label = بیا کوشش کرو
+# Variables:
+#   $language (string) - The localized display name of the language.
+#   $size (string) - The download size of the language in megabytes.
+settings-translations-subpage-download-delete-confirm = کیا { $language } ({ $size }MB) کڈھ ڈیسوں؟
+settings-translations-subpage-download-delete-button =
+    .label = کڈھ ݙے
+settings-translations-subpage-download-cancel-button =
+    .label = منسوخ کرو
+settings-translations-subpage-no-sites-added =
+    .label = کوئی سائٹ شامل نیں تھئی
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = تاریخاں، اوقات، نمبراں تے پیمائشاں کوں فارمیٹ کرݨ کیتے "{ $localeName }" کیتے اپݨے آپریٹنگ سسٹم دیاں ترتیباں استعمال کرو۔
+settings-spellcheck-header =
+    .label = سپیل چیک
 check-user-spelling =
     .label = ٹائپ کریندے ویلھے اپݨی املاء دی پڑتال کرو
     .accesskey = t
+spellcheck-download-dictionaries =
+    .label = ڈکشنریز ڈاؤن لوڈ کرو
+spellcheck-promo =
+    .heading = سپیل چیکنگ کیویں استعمال کرو
+    .message = سپیل چیک آن یا آف کرݨ کیتے یا زبان بدلݨ کیتے کہیں وی ٹیکسٹ فیلڈ تے سڄا کلک کرو۔ ساریاں فیلڈز سپیل چیک دی حمایت نیں کریندیاں۔
 
 ## General Section - Files and Applications
 
@@ -233,8 +327,17 @@ download-save-files-header =
     .label = تے فائل ہتھیکڑی کرو
 download-save-where-3 =
     .aria-label = تے فائل ہتھیکڑی کرو
+download-always-ask-where2 =
+    .label = ڈاؤن لوڈ کرݨ توں پہلے پچھو فائلاں کتھے سیو کرݨیاں ہن
+    .accesskey = A
+download-private-browsing-delete2 =
+    .label = پرائیویٹ ونڈو بند کرݨ تے ڈاؤن لوڈز کڈھ ݙے
+    .accesskey = D
 applications-header = ایپلی کیشنز
 applications-description = منتخب جو کیویں { -brand-short-name } انہاں فائلاں کوں ہینڈل کریندا ہے جیڑھیاں تساں ویب کنوں ڈاؤن لوڈ کریندے او یا براؤزنگ دے دوران تساں جیڑھیاں ایپلی کیشنز استعمال کریندے او۔
+applications-setting2 =
+    .description = چݨو جو { -brand-short-name } ڈاؤن لوڈ کیتیاں فائلاں تے مواد نال کیویں پیش آندے۔
+    .label = فائلاں تے ایپلیکیشنز
 applications-filter =
     .placeholder = فائل دیاں ونکیاں یا ایپلی کیشنز ڳول
 applications-type-column =
@@ -308,8 +411,14 @@ applications-handle-new-file-types-description = { -brand-short-name } کوں ٻ
 applications-save-for-new-types =
     .label = فائلاں ہتھیکڑیاں کرو
     .accesskey = S
+applications-save-for-new-types2 =
+    .label = فائلاں خودکار طور تے سیو کرو
+    .accesskey = S
 applications-ask-before-handling =
     .label = فائلاں کھولیندیں یا ہتھیکڑا کریندیں پچھو
+    .accesskey = A
+applications-ask-before-handling2 =
+    .label = فائلاں کھولݨ یا سیو کرݨ کیتے پچھو
     .accesskey = A
 drm-group =
     .label = ڈیجیٹل رائٹس مینجمنٹ (DRM) مواد
@@ -323,11 +432,24 @@ update-application-version = ورژن { $version } <a data-l10n-name="learn-more
 update-history-2 =
     .label = اپ ڈیٹ تاریخ ݙکھاؤ
     .accesskey = p
+update-application-installation =
+    .label = انسٹالیشن
+update-application-radio-group =
+    .aria-label = انسٹالیشن
+update-application-auto-2 =
+    .label = خودکار طور تے اپڈیٹس انسٹال کرو (تجویز کردہ)
+    .accesskey = A
+update-application-check-choose-2 =
+    .label = اپڈیٹس چیک کرو، پر انسٹال کرݨ دا وقت خود چݨو
+    .accesskey = C
 update-application-background-enabled =
     .label = جݙاں { -brand-short-name } نہیں چلدا پیا۔
     .accesskey = W
 update-application-warning-cross-user-setting-2 =
     .message = ایہ ترتیب تمام Windows اکاؤنٹس اتے { -brand-short-name } پروفائلز تے لاگو تھیسے جیڑھے { -brand-short-name } دی ایں انسٹالیشن دا استعمال کریندے پئے ہن۔
+update-application-suppress-prompts-2 =
+    .label = اپڈیٹ دیاں یاد دہانیاں گھٹ ݙکھاؤ
+    .accesskey = n
 update-setting-write-failure-title2 = اپ ڈیٹ دیاں ترتیباں کوں محفوظ کرݨ وِچ خرابی۔
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -343,6 +465,29 @@ update-in-progress-ok-button = تے کڈھ سٹو
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = تے جاری رکھو
+
+## About Firefox
+
+about-firefox-header =
+    .heading = { -brand-short-name } دے بارے
+
+## Firefox updates
+
+update-application-heading =
+    .description = اپڈیٹس { -brand-short-name } دی رفتار، استحکام تے سلامتی ودھاندیاں ہن۔
+    .label = { -brand-short-name } دیاں اپڈیٹس
+update-application-suppress-prompts-heading =
+    .label = نوٹیفیکیشنز
+update-application-updates-managed-by-os =
+    .message = اپڈیٹس تہاݙے آپریٹنگ سسٹم دے ذمے ہن
+
+## Firefox support
+
+support-application-heading =
+    .description = مسائل حل کرو یا برادری نال خیالات ونڈو۔
+    .label = { -brand-short-name } دی حمایت
+support-get-help =
+    .label = مدد ڳھنو
 
 ## General Section - Performance
 
@@ -499,8 +644,21 @@ search-show-suggestions-url-bar-option =
     .accesskey = l
 search-suggestions-cant-show-2 =
     .message = ڳولݨ دیاں صلاحیں لوکیشن بار دے نتیجے وِچ نہ ݙکھایاں ویسن کیوں جو تساں تاریخ کوں کݙاہیں یاد نہ رکھݨ کیتے { -brand-short-name } کوں ترتیب ݙتا ہے۔
+# "Navigation" here means moving around within the address bar and its results
+# list, not navigation to the address bar.
+addressbar-navigation-group =
+    .label = ایڈریس بار نیویگیشن
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = ٹیب کی دباوݨ تے فوکس بدݨ ویلے نتائج دا مینیو چھوڑ ݙے
+search-suggestions-header-2 =
+    .label = سرچ انجن دیاں تجویزاں
 search-one-click-header2 = ڳولݨ شارٹ کٹ
 search-one-click-desc = متبادل ڳولݨ انجݨاں دا انتخاب کرو جیڑھے ایڈریس بار تے سرچ بار دے تلے ظاہر تھیندے ہن جݙاں تساں کلیدی لفظ درج کرݨ شروع کریندے او۔
+search-one-click-header-3 =
+    .description = چݨو جو تہاݙے ایڈریس بار وچ کیہڑے سرچ انجن تے شارٹ کٹس ݙسݨ۔
+    .label = اضافی سرچ انجن
 search-choose-engine-column =
     .label = ڳولݨ انجݨ
 search-choose-keyword-column =

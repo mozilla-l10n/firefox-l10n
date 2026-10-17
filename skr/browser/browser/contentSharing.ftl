@@ -6,6 +6,29 @@
 ## Variables
 ##   $count (number) - The number of tabs
 
+content-sharing-modal-more-tabs =
+    { $count ->
+        [one] +{ $count } بیا
+       *[other] +{ $count } وادھو
+    }
+content-sharing-tabs-title =
+    { $count ->
+        [one] { $count } ٹیب
+       *[other] { $count } ٹیبز
+    }
+content-sharing-modal-view-page-2 =
+    .label = صفحے دا پیش نظارہ
+content-sharing-modal-copy-link =
+    .label = لنک کاپی کرو
+content-sharing-modal-generating-page =
+    .label = صفحہ بݨایا ویندا پئے…
+content-sharing-modal-link-copied =
+    .label = لنک کاپی تھی ڳیا
+content-sharing-modal-sign-in-2 =
+    .label = شیئر کرݨ کیتے سائن ان کرو
+content-sharing-modal-title-2 = ایہ صفحے کہیں نال وی شیئر کرو
+content-sharing-modal-title-signed-in = تہاݙے لنک شیئر کرݨ کیتے تیار ہن
+content-sharing-modal-description-2 = سائن ان کرو تاکہ لنکس دا آسان شیئر تھیوݨ آلا صفحہ بݨایا ونڄے۔ اینکوں ایڈٹ یا مٹایا نہیں ونڄ سڳدا تے ایہ 7 ݙینھ بعد ختم تھی ویندا ہے۔
 content-sharing-modal-description-signed-in = اسی تہاݙے لنکس نال شیئر کرݨ آسان صفحہ بݨایا اے۔ اینوں ایڈٹ یا حذف نئیں کیتا جا سکدا تے { $count } ݙینہاں بعد ختم ہو جاسی۔
 content-sharing-modal-policy = شیئر کرݨ نال، تسی ساݙی <a data-l10n-name="aup-link">قابل قبول استعمال پالیسی</a> نال اتفاق کریندے ہو۔
 # This is a warning to the user when they try to share more than the maximum

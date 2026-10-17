@@ -7,6 +7,15 @@
 
 menu-application-preferences =
     .label = ترجیحاں
+# Starting with macOS Ventura (13), the name of the "Preferences" menu item changed to "Settings".
+menu-application-settings =
+    .label = سیٹنگز…
+menu-application-set-as-default =
+    .label = { -brand-shorter-name } کوں ڈیفالٹ براؤزر بݨاؤ
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-application-referrals2 =
+    .label = شیئر کرو { -brand-product-name }
 menu-application-services =
     .label = خدمات
 menu-application-hide-this =
@@ -73,6 +82,11 @@ menu-file-close-tab =
            *[other] { $tabCount } ٹیبز بند کرو
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = بند کرو
+    .accesskey = C
 menu-file-close-window =
     .label = ونڈو بند کرو
     .accesskey = d
@@ -85,6 +99,15 @@ menu-file-email-link =
 menu-file-share-url =
     .label = شیئر کرو
     .accesskey = h
+menu-file-share-qrcode3 =
+    .label = QR کوڈ بݨاؤ
+    .accesskey = Q
+menu-file-share-qrcode =
+    .label = QR کوڈ بݨاؤ…
+    .accesskey = Q
+menu-file-share-qrcode2 =
+    .label = QR کوڈ بݨاؤ
+    .accesskey = Q
 menu-file-print-setup =
     .label = ورقہ سیٹ اپ…
     .accesskey = u
@@ -203,6 +226,8 @@ menu-history-show-all-history =
     .label = ساری تاریخ ݙکھاؤ
 menu-history-clear-recent-history =
     .label = حالیہ تاریخ صاف کرو …
+menu-history-remote-tabs-promo =
+    .label = بیا ڈیوائسز دے ٹیب
 menu-history-synced-tabs =
     .label = ہم وقت تھیاں ٹیباں
 menu-history-restore-last-session =
@@ -216,6 +241,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = تاریخ ڳولو
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = ٹیبز لبھو
 
 ## Bookmarks Menu
 
@@ -224,6 +252,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = بک مارکس منظم کرو
+menu-bookmarks-remote-tabs-promo =
+    .label = موبائل کوں بک مارکس سنک کرو
 menu-bookmark-tab =
     .label = موجودہ ٹیب کوں بک مارک کرو …
 menu-edit-bookmark =
@@ -246,6 +276,13 @@ menu-profiles-manage-profiles =
     .label = پروفائلاں منیج کرو
 menu-profiles-new-profile =
     .label = نویں پروفائل
+# Variables:
+#  $profileName (String): the name of the users profile
+menu-profiles-current =
+    .label = { $profileName } (ہݨ والا)
+menu-profiles-menu =
+    .label = پروفائلز
+    .accesskey = P
 
 ## Tools Menu
 
@@ -255,6 +292,9 @@ menu-tools =
 menu-tools-downloads =
     .label = ڈاؤن لوڈز
     .accesskey = D
+menu-tools-extensions-and-themes =
+    .label = ایکسٹینشنز تے تھیمز
+    .accesskey = E
 menu-tools-fxa-sign-in2 =
     .label = سائن ان کرو
     .accesskey = g
@@ -279,6 +319,9 @@ menu-tools-page-source =
 menu-tools-page-info =
     .label = ورقہ معلومات
     .accesskey = I
+menu-tools-edit-pdf =
+    .label = PDF ایڈٹ کرو…
+    .accesskey = P
 menu-settings =
     .label = ترتیباں
     .accesskey =
@@ -330,3 +373,7 @@ menu-help-not-deceptive =
     .accesskey = D
 menu-report-broken-site =
     .label = ترٹی ہوئی سائٹ دی رپورٹ کرو
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+menu-referrals2 =
+    .label = شیئر کرو { -brand-product-name }

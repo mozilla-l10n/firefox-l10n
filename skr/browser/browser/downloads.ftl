@@ -181,6 +181,18 @@ downloads-history =
 downloads-details =
     .title = ڈاؤن لوڈ تفصیلاں
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+downloads-private-browsing-details =
+    .title = فائلاں تساݙے ڈیوائس تے رہندیاں ہن
+downloads-private-browsing-message = اے ڈیوائس استعمال کرݨ آلا ہر کوئی ڈاؤن لوڈاں کوں ݙیکھ سڳدا اے، بھاویں تساں ساری پرائیویٹ ونڈوز بند کر ݙیو۔
+downloads-private-browsing-delete-button =
+    .label = فائلاں خودکار طور تے ڈلیٹ کرو
+    .accesskey = D
+downloads-private-browsing-accept-button =
+    .label = سمجھ گھدے
+    .accesskey = G
+
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.

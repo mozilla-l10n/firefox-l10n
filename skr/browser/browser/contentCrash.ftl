@@ -24,3 +24,20 @@ pending-crash-reports-send =
     .label = بھیڄو
 pending-crash-reports-always-send =
     .label = ہمیشاں بھیڄو
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+requested-crash-reports-message-new =
+    { $reportCount ->
+        [one] تہاݙے کول ہک نہ بھیجیا ڳیا کریش رپورٹ ہے جیڑھی زیر تفتیش کریشز نال متعلق ہے، اینکوں بھیجݨ نال اساکوں { -brand-product-name } بہتر بݨاوݨ وچ مدد ملسی۔ ایں اطلاع کوں بند کرݨ نال ایں رپورٹ کوں نظرانداز کر ݙتا ویسی۔
+       *[other] تہاݙے کول { $reportCount } نہ بھیجیاں ڳئیاں کریش رپورٹاں ہن جیڑھیاں زیر تفتیش کریشز نال متعلق ہن، انھاں کوں بھیجݨ نال اساکوں { -brand-product-name } بہتر بݨاوݨ وچ مدد ملسی۔ ایں اطلاع کوں بند کرݨ نال انھاں رپورٹاں کوں نظرانداز کر ݙتا ویسی۔
+    }
+requested-crash-reports-dont-show-again =
+    .label = مڑ نہ ݙیکھاؤ
+    .accesskey = D
+# Variables:
+#   $reportCount (Number): the number of pending crash reports
+pending-crash-reports-message-new =
+    { $reportCount ->
+        [one] تہاݙے کول ہک حالیہ نہ بھیجیا ڳیا کریش رپورٹ ہے۔
+       *[other] تہاݙے کول { $reportCount } حالیہ نہ بھیجیاں ڳئیاں کریش رپورٹاں ہن۔
+    }

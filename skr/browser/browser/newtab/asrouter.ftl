@@ -67,6 +67,13 @@ cfr-doorhanger-bookmark-fxa-link-text = ہݨ بک مارکس سینک کرو …
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
     .aria-label = بٹن بند کرو
     .title = بند کرو
+fxa-adoption-addresses-backup-title = آؤ اپݨے محفوظ پتے دا بیک اپ گھنو
+fxa-adoption-addresses-backup-subtitle = اپݨے آلات کوں انکرپشن دے نال سنک کر کے اپݨے محفوظ پتے محفوظ کرو۔
+fxa-adoption-credit-cards-backup-title = آؤ اپݨے ادائیگی دے طریقے دا بیک اپ گھنو۔
+fxa-adoption-credit-cards-backup-subtitle = اپݨے آلات کوں انکرپشن دے نال سنک کر کے اپݨے ادائیگی دے طریقے محفوظ کرو۔
+fxa-adoption-bookmarks-treatment-backup-title = آؤ اپݨے بک مارکس دا بیک اپ گھنو۔
+fxa-adoption-bookmarks-treatment-backup-subtitle = اپݨے آلات کوں انکرپشن دے نال سنک کر کے اپݨے بک مارکس محفوظ کرو۔
+fxa-adoption-primary-button-label = سائن اپ
 
 ## What's New toolbar button and panel
 
@@ -185,6 +192,20 @@ fox-doodle-pin-secondary = ہݨ کائناں
 set-default-pdf-handler-headline = <strong>تہاݙیاں PDFs ہݨ { -brand-short-name } وچ کھلدیاں ہن۔</strong> براہ راست آپݨے براؤزر وچ فارماں وچ تبدیلی یا دستخط کرو۔ وٹاوݨ کیتے، ترتیباں وچ  “PDF” ڳولو۔
 set-default-pdf-handler-primary = سمجھ گھدے
 
+## PDF Annotations strings
+
+# “Sign on the dotted line” is an idiomatic English expression about
+# where to place your signature.
+# If this expression doesn’t have a direct translation, please
+# translate this alternative string: "Add your signature anywhere!"
+annotations-default-pdf-handler-headline = اپݨا دستخط کتھائیں وی لاو!
+# “Go-to” is an idiomatic English expression referring to something that is used often.
+annotations-default-pdf-handler-body = اپݨا دستخط بناو، لکھو یا اپ لوڈ کرو، تے اونہوں بالکل اتھاں رکھو جتھاں تساں چاہندے ہو۔ اپݨے اکثر ورتے ونڄݨ آلے دستخط اڳلی واری کیتے محفوظ کرو۔
+annotations-make-default-pdf-handler-title = { -brand-short-name } کوں اپݨا ڈیفالٹ PDF ایڈیٹر بݨاو؟
+annotations-make-default-pdf-handler-subtitle = تساں جݙاں وی ہِک PDF کھولیسو، تساکوں ساݙے اوزاراں تک رسائی حاصل رہیسی۔
+annotations-make-default-pdf-primary-cta-label = ڈیفالٹ بݨاو
+annotations-make-default-pdf-next-label = اڳلا
+
 ## FxA sync CFR
 
 fxa-sync-cfr-header = تہاݙے مستقبل وچ نویں ڈیوائس؟
@@ -234,6 +255,34 @@ launch-on-login-infobar-final-message = <strong>ہر واری جہڑیلے تُ�
 launch-on-login-infobar-final-reject-button = کو، شکریہ
     .accesskey = N
 
+## Launch on login "show and tell" infobar notification
+##
+## Shown after Firefox has automatically launched at Windows sign-in (an
+## experiment enabled launch-on-login for the user), informing them that this
+## happened and letting them keep it on or turn it off.
+
+# "settings" refers to the Firefox settings (about:preferences), where
+# launch-on-login can be toggled, not the Windows system settings.
+launch-on-login-autostart-infobar-message = { -brand-short-name } ہݨ شروع تھیندے جݙاں تساں Windows وچ سائن اِن کریندے ہو۔ تساں اینوں بعد وچ سیٹنگز وچ کدی وی تبدیل کر سڳدے ہو۔
+launch-on-login-autostart-infobar-keep-button = چالو رکھو
+    .accesskey = K
+launch-on-login-autostart-infobar-turn-off-button = بند کرو
+    .accesskey = T
+
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-title = { -brand-short-name } کوں اڳلی واری کھولو جݙاں تساݙا کمپیوٹر اسٹارٹ تھیوے؟
+launch-on-login-spotlight-startup-checkbox = اسٹارٹ اپ تے { -brand-short-name } لانچ کرو
+launch-on-login-spotlight-pin-taskbar-checkbox = ٹاسک بار وچ پن کرو
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = پچھلیاں ونڈوز تے ٹیبز کھولو
+launch-on-login-spotlight-primary-button = { -brand-short-name } محفوظ کرو تے بند کرو
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -244,6 +293,12 @@ tail-fox-spotlight-title = پریشان کُن ٹریکرز کوں آپݨ دُم
 tail-fox-spotlight-subtitle = پریشان کرݨ آلے اشتہاراتی ٹریکرز کوں خیرباد آکھو اَتے ہِک محفوظ، تِکّھی رفتار انٹرنیٹ تجربہ حاصل کرو۔
 tail-fox-spotlight-primary-button = { -brand-short-name } دے نال میݙے لنک کھولو
 tail-fox-spotlight-secondary-button = ہݨ کائناں
+
+## Welcome Back Spotlight and Import
+
+welcome-back-spotlight-title = بلٹ اِن پرائیویسی دی طرف واپس آؤ
+welcome-back-spotlight-subtitle = واپس آئے تے جی آیاں نوں! واحد وݙے براؤزر وچ جیندے پچھے ہِک غیر منافع بخش تنظیم ہے۔ تساݙے ڈیٹا دی حفاظت کیتے اساں ہر جاہ تے اضافی قدم چھیندے ہیں۔
+welcome-back-embedded-import-title = اپݨا ڈیٹا امپورٹ کرو تے { -brand-short-name } کوں اپݨے گھر ورڳا بݨاو
 
 ## Root Certificate Succession Infobar
 
@@ -257,14 +312,24 @@ root-certificate-succession-infobar-secondary-button =
     .label = بعد وچ
     .accesskey = L
 
+## Root Certificate Succession Windows Background Notification
+
+root-certificate-windows-background-notification-title = تساں { -brand-short-name } دی ہِک اہم اپ ڈیٹ کھو ݙتی
+root-certificate-windows-background-notification-subtitle = جے تساں اپڈیٹ نہ کیتا تاں براؤزر دے کجھ حصے جلدی کم کرݨا چھوڑ ݙیسن۔ اساݙے تازہ تحفظات تے فیچرز حاصل کرݨ دا ایہو بہترین وقت ہے۔
+root-certificate-windows-background-notification-learn-more-button = بیا سکھو
+root-certificate-windows-background-notification-update-button = اپڈیٹ کرو { -brand-short-name }
+
 ## FxA Menu Message variants
 
 fxa-menu-message-close-button =
     .aria-label = بند کرو
     .title = بند کرو
 fxa-menu-message-sign-up-button = سائن اپ
+fxa-menu-message-sign-in-button = سائن ان
+fxa-menu-message-sync-button = سنکنگ شروع کرو
 fxa-menu-message-sync-devices-primary-text = آپݨیاں ساریاں ڈیوائساں ہم وقت کرو
 fxa-menu-message-sync-devices-secondary-text = فوری طور تے آپݨی معلومات حاصل کرو— جیویں جو نشانیاں  تے پاس ورڈز — ہر اوں جاء تے جتھ تساں { -brand-short-name } ورتیندے ہو۔
+fxa-menu-message-sync-devices-secondary-text2 = اپݨے بُک مارکس، پاس ورڈز تے بیا سارا کجھ فوری حاصل کرو جتھے وی تساں { -brand-short-name } وچ سائن ان کیتا ہووے۔
 fxa-menu-message-sync-devices-collapsed-text = آپݨیاں ساریاں ڈیوائساں ہم وقت کرو
 fxa-menu-message-backup-data-primary-text = آپݨے براؤزر ڈیٹا دا بیک اپ گھنو
 fxa-menu-message-backup-data-secondary-text = آپݨیاں ساریاں ڈیوائساں تے نشانیاں، پاس ورڈ، تے ٻیاں معلومات دی خودکار حفاظت کرو۔
@@ -295,6 +360,156 @@ multi-cta-fox-doodle-privacy-focused-subtitle =
        *[other] آپݨے پسندیدہ رازداری تے مرکوز براؤزر کوں صرف ہک کلک دے فاصلے تے رکھو۔ لنکس کھولݨ کیتے { -brand-short-name } کوں آپݨے ڈیفالٹ براؤزر دے طور تے سیٹ کرو تے اینکوں آپݨے ٹاسک بار  تے پن کرو۔
     }
 multi-cta-fox-doodle-msix-privacy-focused-subtitle = آپݨے پسندیدہ رازداری تے مرکوز براؤزر کوں صرف ہک کلک دے فاصلے تے رکھو۔ لنکس کھولݨ کیتے { -brand-short-name } کوں آپݨے ڈیفالٹ براؤزر دے طور تے سیٹ کرو تے اینکوں آپݨے ٹاسک بار تے سٹارٹ مینیو تے پن کرو۔
+
+## Windows 10 EoS Sync messages group 1 spotlight
+
+windows-10-eos-sync-spotlight-title = کیا تساں جلدی ونڈوز 10 توں اپگریڈ کریسے ہو؟
+windows-10-eos-sync-spotlight-subtitle = اپݨے پاس ورڈز تے بُک مارکس دا بیک اپ ݙیو تاں جو تساں کہیں وی ڈیوائس تے چھلانگ لاوݨ کیتے تیار ہووے۔
+windows-10-eos-sync-spotlight-primary-label = اپݨے { -brand-short-name } دا بیک اپ ݙیو
+
+## Windows 10 EoS Sync messages group 1 toast notification
+
+windows-10-eos-sync-toast-title = کیا تساں ونڈوز 11 تے اپگریڈ کریسے ہو؟ اپݨے بُک مارکس تے پاس ورڈز نہ ونڄاو۔
+windows-10-eos-sync-toast-subtitle = اپݨے ڈیٹا دا بیک اپ ݙیو تاں جو { -brand-short-name } کہیں وی ویلھے تیار ہووے، ایں پی سی تے یا اڳلے پی سی تے۔
+windows-10-eos-sync-toast-primary-label = شروع کرو
+windows-10-eos-sync-toast-secondary-label = میکوں بعد وچ یاد ݙیواو
+
+## Windows 10 EoS sync messages group 2 feature callouts
+
+windows-10-eos-challenger-callout-title = { -brand-product-name } بیے بگ ٹیک براؤزرز وانگوں پہلے توں انسٹال نیں ہوندا۔ ایہی تاں ڳالھ ہے۔
+windows-10-eos-challenger-sync-callout-subtitle = جݙاں تساں اپݨے { -brand-product-name } دے بُک مارکس تے پاس ورڈز دا بیک اپ ݙیسو، تاں اوہ براؤزر جیکوں تساں چُݨیا ہے اوکوں اپݨے اڳلے ڈیوائس تے گھنݨا سوکھا تھی ویسی۔
+windows-10-eos-challenger-pin-callout-subtitle = { -brand-shorter-name } کوں اپݨے ٹاسک بار تے پن کرو تاں جو اوہ براؤزر جیکوں تساں چُݨیا ہے اوہ جݙاں وی تساکوں ضرورت ہووے، ہمیشہ اتھاں ہووے۔
+windows-10-eos-challenger-sync-primary-button = اپݨے { -brand-shorter-name } دا بیک اپ ݙیو
+windows-10-eos-challenger-pin-primary-button = پن کرو { -brand-shorter-name }
+windows-10-eos-sync-callout-privacy-screen-1-title = { -brand-product-name } کرپٹو مائنرز، سوشل میڈیا ٹریکرز، تے فنگر پرنٹرز کوں بلاک کریندا ہے۔
+windows-10-eos-sync-callout-privacy-screen-1-subtitle = ٹریکرز تساݙے ڈیوائس دی پچھاݨ نیں کر سڳدے یا ویب تے تساݙا پچھا نیں کر سڳدے، کیوں جو اساں انہاں کوں این دی اجازت نیں ݙیندے۔
+windows-10-eos-sync-callout-privacy-screen-2-title = اپݨے اڳلے ڈیوائس کیتے اپݨے پاس ورڈز تے بک مارکس کوں محفوظ کرو۔
+windows-10-eos-sync-callout-privacy-screen-2-subtitle = { -brand-shorter-name } دا بیک اپ بݨاوݨ نال تساݙا ڈیٹا تے پرائیویسی سیٹنگز نال گھن آوݨ آسان تھی ویندا اے۔
+windows-10-eos-sync-callout-privacy-info-button = ݙیکھو کیا بلاک تھی اے
+windows-10-eos-callout-addons-title = ایڈ آنز آزماؤ: سادہ اپ گریڈز، وݙے اثرات
+windows-10-eos-callout-addons-subtitle = این ایکسٹینشنز کوں این واسطے چُݨیا ڳیا اے تاں جو تساں پیداواری، محفوظ تے خلل توں پاک رہو۔
+windows-10-eos-callout-addons-primary-button = ساݙیاں چُݨیاں ہوئیاں چیزاں ݙیکھو
+windows-10-eos-sync-callout-addons-title = جݙاں تساں Windows 10 توں اپ گریڈ کرو، تاں اپݨے ایڈ آنز نہ ونڄݨ ݙیو۔
+windows-10-eos-sync-callout-addons-subtitle = ہݨ سنک کرو تاں جو تساݙے { -brand-product-name } ایڈ آنز ہر وقت دستیاب رہݨ، ڈیوائس بدلݨ دے بعد وی۔
+windows-10-eos-sync-callout-next-button = اڳلا
+windows-10-eos-sync-callout-get-started-button = شروع کرو
+
+## Windows 10 EoS Sync messages group 2 toast notification
+
+windows-10-eos-feature-toast-title = عمودی ٹیبز تے ٹیب گروپز آ ڳئے ہن!
+# In English, "dropped" is a colloquial form for released.
+windows-10-eos-feature-toast-subtitle = کئی لوکاں دی فرمائش تے، { -brand-product-name } ہݨ نویں فیچرز جاری کیتے ہن تاں جو تساݙی براؤزنگ ہموار تے مرکوز رہوے۔
+windows-10-eos-feature-toast-whats-new-button = ݙیکھو کیا نواں اے
+windows-10-eos-feature-toast-dismiss-button = خارج کرو
+
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-title = <strong>Microsoft Windows 10 دی سپورٹ بند کر رہیا اے۔</strong> اپݨی معلومات دا بیک اپ بݨاؤ تاں جو { -brand-product-name } Windows 11 کیتے تیار تھیوے۔
+windows-10-eos-global-infobar-primary-button = بیک اپ چالو کرو
+    .accesskey = T
+windows-10-eos-global-infobar-learn-more-link = بیا سکھو
+    .accessKey = L
+
+## ETP (Enhanced Tracking Protection) Strict exceptions infobar
+##
+## These strings are displayed in an infobar notification that appears when
+## Enhanced Tracking Protection's Strict mode is causing website functionality
+## issues. The infobar offers users the option to apply automatic exceptions
+## to fix common site breakage by unblocking essential elements.
+
+etp-strict-exceptions-infobar-message = <strong>سخت ٹریکنگ پروٹیکشن سائٹس کوں توڑ سڳدی اے۔</strong> ضروری عناصر کوں ان بلاک کر کے عام مسئلیاں ٹھیک کرو جے کوں وچ ٹریکرز تھی سڳدن۔
+etp-strict-exceptions-infobar-learn-more = بیا سکھو
+etp-strict-exceptions-infobar-button = فکس لگاؤ
+    .accesskey = A
+etp-strict-exceptions-infobar-not-now = ہݨ نیں
+    .accesskey = N
+
+## 'Set to default' messaging displayed within the App menu
+
+set-default-menu-message-simple-layout-title = { -brand-short-name } تساݙا ڈیفالٹ براؤزر نیں اے۔
+set-default-menu-message-simple-layout-title-variant = { -brand-short-name } تساݙا بنیادی براؤزر نیں اے۔
+set-default-menu-message-row-layout-title = { -brand-short-name } کوں اپݨا بنیادی براؤزر بݨاؤ
+set-default-menu-message-row-layout-title-variant = { -brand-short-name } کوں اپݨا ڈیفالٹ براؤزر بݨاؤ
+set-default-menu-message-row-layout-subtitle = ہر وار براؤز کروݨ ویلے رفتار، حفاظت تے پرائیویسی حاصل کرو۔
+set-default-menu-message-row-layout-subtitle-variant =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } کوں اپݨے اُنگلاں دی پوݨ تے رکھو — این کوں اپݨا ڈیفالٹ بݨاؤ تے اپݨے Dock وچ رکھو۔
+       *[other] { -brand-short-name } کوں اپݨے اُنگلاں دی پوݨ تے رکھو — این کوں اپݨا ڈیفالٹ بݨاؤ تے اپݨے ٹاسک بار وچ رکھو۔
+    }
+set-default-menu-message-split-layout-title =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } کوں اپݨے اُنگلاں دی پوݨ تے رکھو
+       *[other] سارے لنکس { -brand-short-name } نال کھولو
+    }
+set-default-menu-message-split-layout-subtitle =
+    { PLATFORM() ->
+        [macos] این کوں اپݨا ڈیفالٹ بݨاؤ تے اپݨے Dock وچ رکھو۔
+       *[other] تیز براؤزنگ تے خودکار پرائیویسی تحفظ حاصل کرو۔
+    }
+set-default-menu-message-primary-button = ڈیفالٹ بݨاؤ
+set-default-menu-message-primary-button-variant = بنیادی براؤزر بݨاؤ
+set-default-menu-message-primary-button-short-variant = { -brand-short-name } ڈیفالٹ بݨاؤ
+
+## Firefox Relay 50 Masks Announcement
+
+# "on us" in this context means "for free" or "at no cost"
+relay-50-masks-announcement-title = 50 ای میل ماسکس، بالکل مفت
+relay-50-masks-announcement-subtitle = ہݨ تساں کوں 50 مفت ماسکس ملدن (5 توں ودھ کر کے)۔ اپݨا اصلی ای میل پرائیویٹ رکھݨ کیتے ہر اکاؤنٹ کیتے ہِک ورتو۔
+relay-50-masks-announcement-primary-button = { -relay-brand-name } تے ونڄو
+    .accesskey = G
+relay-50-masks-announcement-secondary-button = خارج کرو
+    .accesskey = D
+
+## Nova Early Access Infobar
+
+nova-early-access-infobar-title = <strong>{ -brand-product-name } کوں نواں روپ مل رہیا اے۔</strong> تساں ایس سال دے آخر وچ لانچ توں پہلے اِک ابتدائی، غیر پالش شدہ ورژن ݙیکھ رہے ہو۔
+nova-early-access-share-feedback-link = فیڈ بیک ݙیو
+    .accesskey = S
+nova-early-access-infobar-primary-button = سمجھ ڳیا
+    .accesskey = G
+
+## Firefox launch options spotlight
+##
+## Shown as a spotlight prompt on browser close or launch, offering
+## launch-on-login, taskbar pinning, and session restore.
+
+launch-options-spotlight-title-launch-on-login = ہر وار Windows وچ سائن اِن کروݨ ویلے { -brand-short-name } شروع کرو؟
+launch-options-spotlight-title-session-restore = جݙاں { -brand-short-name } ری اسٹارٹ تھیوے تاں اپݨا سیشن ݙوبارہ کھولو؟
+launch-options-spotlight-checkbox-launch-on-login = { -brand-short-name } کوں اسٹارٹ اپ تے کھولو
+launch-options-spotlight-checkbox-pin-to-taskbar = اپݨے ٹاسک بار وچ پن کرو
+# Shown on the browser-close prompt only
+launch-options-spotlight-checkbox-restore-current = موجودہ ونڈوز تے ٹیبز ݙوبارہ کھولو
+# Shown on the browser-launch prompt only
+launch-options-spotlight-checkbox-restore-previous = پچھلیاں ونڈوز تے ٹیبز ݙوبارہ کھولو
+# Primary button on the browser-close prompt
+launch-options-spotlight-primary-button-close = { -brand-short-name } کوں محفوظ کر کے بند کرو
+# Primary button on the browser-launch prompt
+launch-options-spotlight-primary-button-launch = محفوظ کرو تے جاری رکھو
+
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+# "has your back" is an idiom meaning support and protection; adapt freely
+# rather than translating literally.
+lapsed-user-toast-title = { -brand-product-name } تساݙے نال اے
+lapsed-user-toast-subtitle = براؤز کروݨ دے نویں طریقے ݙیکھو — بیا انتخاب، بیا پرائیویسی، تے بیا کنٹرول نال۔
+lapsed-user-toast-whats-new-button = نویں ݙیکھو
+lapsed-user-toast-dismiss-button = خارج کرو
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = نویں شکل۔ ولا شروع کرݨ دی لوڑ نیں۔
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = اپݨے بُک مارکس، پاس ورڈز تے ہسٹری اوں براؤزر توں گھن آؤ جیہڑا تساں اجھاں ورتدے ہو۔
 
 ## Refresh Firefox infobar
 ##

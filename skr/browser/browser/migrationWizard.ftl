@@ -29,6 +29,7 @@ migration-wizard-migrator-display-name-chromium-360se = 360 قابل بروسا 
 migration-wizard-migrator-display-name-chromium-edge = مائیکروسافٹ عج
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
+migration-wizard-migrator-display-name-self = { -brand-product-name }
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = CSV فائل کنوں پاس ورڈز
 migration-wizard-migrator-display-name-file-bookmarks = ایچ ٹی ایم ایل فائل کنوں نشانیاں
@@ -50,6 +51,17 @@ migration-imported-edge-reading-list = فہرست پڑھدا پیا ہے (ایج
 migration-no-permissions-message = { -brand-short-name }کوں اِیں ڈیوائس اُتے انسٹال کِیتے ڳئے ٻئے براؤزرز دے پروفائلز تئیں رسائی حاصل کائے نِھیں۔
 migration-no-permissions-instructions = ٻئے براؤزر کنوں ڈیٹا دی درآمد جاری رکّھݨ کِیتے، { -brand-short-name }کوں اِین٘دے پروفائل فولڈر تئیں رسائی ݙیؤ۔
 migration-no-permissions-instructions-step1 = ” جاری” چݨو
+# The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] فائل چُݨݨ والی وچ، “Open” چُݨو
+       *[other] فائل چُݨݨ والی وچ، <code>{ $permissionsPath }</code> تے وَنجو تے “Select” چُݨو
+    }
 # The second step in getting permissions to read data for the selected
 # browser type.
 #
@@ -185,12 +197,23 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = مکمل تھی ڳیا
 migration-safari-password-import-header = سفاری کنوں پاس ورڈز امپورٹ کرو
+migration-safari-password-import-post-sequoia-step1 = اپݨے Mac تے <a data-l10n-name="macos-passwords-app">Passwords ایپ</a> کھولو
+migration-safari-password-import-post-sequoia-step2 = اسکرین دے اُتے مینو بار توں، File > Export All Passwords to File… چُݨو
+migration-safari-password-import-post-sequoia-step3 = فائل سیو کرو
+migration-safari-password-import-post-sequoia-step4 = اوہ فائل چݨو جیڑھی تساں محفوظ کیتی اے
 migration-safari-password-import-steps-header = سفاری پاس ورڈز امپورٹ کرݨ کیتے:
 migration-safari-password-import-step1 = Safari وچ ، ”Safari“ مینیو کھولو تے ترجیحاں> پاسورڈز تے ون٘ڄو
 migration-safari-password-import-step2 = <img data-l10n-name="safari-icon-3dots"/> بٹݨ چݨو تے "سارے پاس ورڈ ایکسپورٹ کرو" چݨو
 migration-safari-password-import-step3 = پاس ورڈز فائل محفوظ کرو
 migration-safari-password-import-step4 = آپݨی محفوظ کیتی ہوئی پاس ورڈ فائل چݨݨ کیتے ہیٹھاں ”فائل چݨو” ورتو
+migration-chrome-windows-password-import-header = Chrome توں پاس ورڈز کیویں امپورٹ کرو
+migration-chrome-windows-password-import-steps-header = Chrome وچ:
+migration-chrome-windows-password-import-step1 = مین مینیو کھولو <img data-l10n-name="chrome-icon-3dots"/> تے Passwords and Autofill > Google Password Manager تے ونڄو۔
+migration-chrome-windows-password-import-step2 = مینیو توں “Settings” چݨو۔
+migration-chrome-windows-password-import-step3 = “Download file” چݨو تے اینوں اپݨے آلے تے محفوظ کرو۔
+migration-chrome-windows-password-import-step4 = ایتھاں واپس آؤ تے “Select file” تے امپورٹ ختم کرو۔
 migration-manual-password-import-skip-button = چھوڑو
+migration-manual-password-import-cancel-button = منسوخ کرو
 migration-manual-password-import-select-button = فائل چݨو
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.

@@ -88,6 +88,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = پیغام پینل کھولو
 urlbar-geolocation-notification-anchor =
     .tooltiptext = محل وقوع درخواست پینل کھولو
+urlbar-localhost-notification-anchor =
+    .tooltiptext = ایں سائٹ کیتے مقامی آلے دی رسائی دا انتظام کرو
 urlbar-local-network-notification-anchor =
     .tooltiptext = ایس سائٹ نال اپݨے لوکل نیٹ ورک تک رسائی دا انتظام کرو
 urlbar-xr-notification-anchor =
@@ -907,8 +909,18 @@ urlbar-searchmode-bookmarks4 = نشانیاں
 urlbar-searchmode-tabs4 = ٹیباں
 urlbar-searchmode-history4 = تاریخ
 urlbar-searchmode-actions4 = عمل
+urlbar-searchmode-bookmarks3 = بک مارکس
+    .accesskey = B
+urlbar-searchmode-tabs3 = ٹیبز
+    .accesskey = T
+urlbar-searchmode-history3 = ہسٹری
+    .accesskey = H
+urlbar-searchmode-actions3 = ایکشنز
+    .accesskey = A
 urlbar-searchmode-exit-button2 =
     .title = بند کرو
+urlbar-searchmode-default2 =
+    .title = طے شدہ سرچ انجن
 # Shown when adding new search engines from the search mode switcher.
 # Variables:
 #  $engineName (String): The name of the search engine.
@@ -917,6 +929,10 @@ urlbar-searchmode-popup-add-engine = رلاؤ { $engineName }
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = ایں واری، دے نال ڳولو:
+# Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
+# reset after submitting.
+urlbar-searchmode-popup-header = نال ڳولو:
+urlbar-searchmode-popup-search-settings2 = سرچ سیٹنگز
 urlbar-searchmode-popup-settings2 = ترتیباں
 urlbar-searchmode-popup-search-settings = ڳولݨ ترتیباں
     .accesskey = ڳ
@@ -931,6 +947,41 @@ urlbar-result-action-search-bookmarks = نشانیاں ڳولو
 urlbar-result-action-search-history = تاریخ ڳولو
 urlbar-result-action-search-tabs = ٹیبز ڳولو
 urlbar-result-action-search-actions = ایکشن ڳولو
+# Label for a quickaction result used to switch to an open tab group.
+#  $group (String): the name of the tab group to switch to
+urlbar-result-action-switch-to-tabgroup = { $group } تے جاؤ
+# Label for a quickaction result used to re-opan a saved tab group.
+#  $group (String): the name of the tab group to re-open
+urlbar-result-action-open-saved-tabgroup = { $group } کھولو
+
+## Used in the menu of a urlbar result.
+
+urlbar-view-context-menu-open-in-tab =
+    .label = نویں ٹیب وچ کھولو
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab =
+    .label = نویں کنٹینر ٹیب وچ کھولو
+    .accesskey = i
+urlbar-view-context-menu-open-in-window =
+    .label = نویں ونڈو وچ کھولو
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window =
+    .label = نویں پرائیویٹ ونڈو وچ کھولو
+    .accesskey = P
+urlbar-view-context-menu-open-in-tab2 = نویں ٹیب وچ کھولو
+    .accesskey = w
+urlbar-view-context-menu-open-in-container-tab2 = نویں کنٹینر ٹیب وچ کھولو
+    .accesskey = i
+urlbar-view-context-menu-open-in-window2 = نویں ونڈو وچ کھولو
+    .accesskey = N
+urlbar-view-context-menu-open-in-private-window2 = نویں پرائیویٹ ونڈو وچ کھولو
+    .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = ٹیب کی استعمال کریندے ہوئیں ایں مینیو کوں چھوڑ ݙیو
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 
@@ -1001,6 +1052,9 @@ fullscreen-warning-no-domain = ایہ دستاویز ہݨ پوری سکرین ہ
 fullscreen-exit-button = پوری سکرین کنوں ٻاہر نکلو (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = پوری سکرین کنوں ٻاہر نکلو (esc)
+fullscreen-keyboardlock-exit-button = پوری سکرین توں ٻاہر نکلو (Esc دبا کے رکھو)
+# "esc" is lowercase on mac keyboards, but uppercase elsewhere.
+fullscreen-keyboardlock-exit-mac-button = پوری سکرین توں ٻاہر نکلو (esc دبا کے رکھو)
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -1102,8 +1156,14 @@ toolbar-button-email-link =
 toolbar-button-logins =
     .label = پاس ورڈز
     .tooltiptext = آپݨے پاس ورڈ ݙیکھو تے منیج کرو
+qrcode-panel-error =
+    .message = QR کوڈ بݨاوݨ وچ ناکامی۔ مہربانی کر کے مڑ کوشش کرو۔
 qrcode-copy-button =
     .label = نقل کرو
+qrcode-copy-success =
+    .message = QR کوڈ کلپ بورڈ تے کاپی تھیا ڳیا۔
+qrcode-copy-error =
+    .message = QR کوڈ کاپی کرݨ وچ ناکامی۔
 qrcode-save-button =
     .label = محفوظ
 qrcode-window-title = کیوآر کوڈ
@@ -1125,11 +1185,28 @@ toolbar-button-open-file =
 toolbar-button-synced-tabs =
     .label = سینک تھئے ہوئے ٹیبز
     .tooltiptext = ٻئی ڈیوائس کنوں ٹیبز ظآہر کرو
+toolbar-button-send-tab =
+    .label = ٹیب بھیجو
+    .tooltiptext = موجودہ ٹیب ٻئے آلے تے بھیجو
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = نویں نجی ونڈو
     .tooltiptext = ہک نویں نجی براؤزنگ ونڈو کھولو ({ $shortcut })
+toolbar-button-share-tab =
+    .label = شیئر کرو
+    .tooltiptext = ایں صفحے کوں شیئر کرو
+toolbar-button-tab-groups =
+    .label = ٹیب گروپس
+    .tooltiptext = اپݨے ٹیب گروپ ݙیکھو
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qrcode-{ $domain }
 
 ## EME notification panel
 
@@ -1151,8 +1228,26 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = ودھیک …
+menu-share-windows =
+    .label = وادھو آپشنز
+# Variables:
+#   $count (Number) - The number of links that will be copied.
+menu-share-copy-links =
+    .label =
+        { $count ->
+            [one] لنک کاپی کرو
+           *[other] { $count } لنک کاپی کرو
+        }
+    .accesskey = L
 ui-tour-info-panel-close =
     .tooltiptext = بند کرو
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+popups-infobar-allow2 =
+    .label = { $uriHost } کیتے پاپ اپس تے تریجے فریق دے ری ڈائریکٹس دی اجازت ݙیو
+    .accesskey = p
 
 ##
 
@@ -1179,6 +1274,8 @@ navbar-accessible =
     .aria-label = نیویگیشن
 navbar-downloads =
     .label = ڈاؤن لوڈ
+navbar-overflow-2 =
+    .tooltiptext = وادھو ٹولز
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -1199,9 +1296,16 @@ tabs-toolbar =
     .aria-label = براؤزر ٹیبز
 tabs-toolbar-new-tab =
     .label = نویں ٹیب
+tabs-toolbar-list-all-tabs-2 =
+    .label = ٹیبز ڳولو تے انھاں دا انتظام کرو
+    .tooltiptext = ٹیبز ڳولو تے انھاں دا انتظام کرو
 tabs-toolbar-list-all-tabs =
     .label = تمام ٹیبز دی تندیر بݨاؤ
     .tooltiptext = تمام ٹیبز دی تندیر بݨاؤ
+
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+pinned-tabs-drop-indicator = پن کرݨ کیتے ٹیب ایتھے چھوڑو
 
 ## Infobar shown at startup to suggest session-restore
 
@@ -1219,6 +1323,9 @@ filepicker-blocked-infobar = تُہاݙی تنظیم نے اِیں کمپیوٹ�
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ہݨ ٹیبز ڳولدا ہے
+urlbar-addons-shortcut-moved-description = ایکسٹینشنز تے تھیمز کھولݨ کیتے { $addonsShortcut } استعمال کرو۔
+urlbar-addons-shortcut-moved-change-shortcuts = شارٹ کٹس دا انتظام کرو
 urlbar-addons-shortcut-moved-dismiss = سمجھ گھدے
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -1278,15 +1385,32 @@ unified-extensions-button-quarantined =
         ایکسٹنشناں
         کجھ ایکسٹنشناں دی اجازت کائنی
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+unified-extensions-button-blocklisted =
+    .label = ایکسٹینشنز
+    .tooltiptext =
+        ایکسٹینشنز
+        کجھ ایکسٹینشنز غیر فعال ہن
+
 ## Private browsing reset button
 
+reset-pbm-panel-heading2 = ڈیٹا صاف کرو تے نواں پرائیویٹ سیشن شروع کرو؟
+reset-pbm-panel-description2 = ایہ تساݙی پرائیویٹ ونڈو بند کیتے بغیر ہسٹری، کوکیز تے سارا ٻیا سائٹ ڈیٹا مٹا ݙیندا ہے۔
 reset-pbm-panel-always-ask-checkbox =
     .label = ہمیشاں میݙے کنوں پچھو
     .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = منسوخ
     .accesskey = C
+reset-pbm-panel-confirm-button2 =
+    .label = پرائیویٹ سیشن صاف کرو
+    .accesskey = l
 reset-pbm-panel-complete = نجی مجلس ڈیٹا مٹ ڳیا
+reset-pbm-toolbar-button2 =
+    .label = پرائیویٹ سیشن صاف کرو
+    .tooltiptext = پرائیویٹ سیشن صاف کرو
 
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
@@ -1491,4 +1615,80 @@ trustpanel-list-label-social-tracking =
         [one] { $count } سوشل میڈیا ٹریکر
        *[other] { $count } سوشل میڈیا ٹریکرز
     }
+trustpanel-list-label-cryptominer =
+    { $count ->
+        [one] { $count } کرپٹو مائنر
+       *[other] { $count } کرپٹو مائنرز
+    }
+trustpanel-social-tracking-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } سوشل میڈیا ٹریکر بلاک کیتا
+       *[other] { -brand-product-name } نے { $count } سوشل میڈیا ٹریکرز بلاک کیتے
+    }
+trustpanel-social-tracking-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } سوشل میڈیا ٹریکر دی اجازت ݙتی
+       *[other] { -brand-product-name } نے { $count } سوشل میڈیا ٹریکرز دی اجازت ݙتی
+    }
+trustpanel-tracking-cookies-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } کراس سائٹ ٹریکنگ کوکی بلاک کیتی
+       *[other] { -brand-product-name } نے { $count } کراس سائٹ ٹریکنگ کوکیز بلاک کیتیاں
+    }
+trustpanel-tracking-cookies-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } کراس سائٹ ٹریکنگ کوکی دی اجازت ݙتی
+       *[other] { -brand-product-name } نے { $count } کراس سائٹ ٹریکنگ کوکیز دی اجازت ݙتی
+    }
+trustpanel-tracking-content-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } ٹریکر بلاک کیتا
+       *[other] { -brand-product-name } نے { $count } ٹریکرز بلاک کیتے
+    }
+trustpanel-tracking-content-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } ٹریکر دی اجازت ݙتی
+       *[other] { -brand-product-name } نے { $count } ٹریکرز دی اجازت ݙتی
+    }
+trustpanel-tracking-content-tab-list-header = ایہ سائٹاں تہاکوں ٹریک کرݨ دی کوشش کریندیاں پئین:
+trustpanel-fingerprinter-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } فنگر پرنٹر بلاک کیتا
+       *[other] { -brand-product-name } نے { $count } فنگر پرنٹرز بلاک کیتے
+    }
+trustpanel-fingerprinter-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } فنگر پرنٹر دی اجازت ݙتی
+       *[other] { -brand-product-name } نے { $count } فنگر پرنٹرز دی اجازت ݙتی
+    }
+trustpanel-fingerprinter-list-header = ایہ سائٹاں تہاݙا فنگر پرنٹ گھنݨ دی کوشش کریندیاں پئین:
+trustpanel-cryptominer-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } کرپٹو مائنر بلاک کیتا
+       *[other] { -brand-product-name } نے { $count } کرپٹو مائنرز بلاک کیتے
+    }
+trustpanel-cryptominer-not-blocking-tab-header =
+    { $count ->
+        [one] { -brand-product-name } نے { $count } کرپٹو مائنر دی اجازت ݙتی
+       *[other] { -brand-product-name } نے { $count } کرپٹو مائنرز دی اجازت ݙتی
+    }
+trustpanel-cryptominer-tab-list-header = ایہ سائٹاں کرپٹو مائننگ دی کوشش کریندیاں پئین:
+# "account on this site" refers to the (breached) site the user is currently visiting, not a Mozilla Monitor account.
+trustpanel-breachalerts-anonymous-breached-header = ایں سائٹ تے تہاݙا اکاؤنٹ ہے؟
+trustpanel-breachalerts-anonymous-breached-description = { -brand-product-name } کوں پتہ لڳا ہے جو پچھلے 12 مہینیاں وچ ایں سائٹ دا ڈیٹا لیک تھیا ہا۔ پتہ کرو جو تُساں متاثر تھئے ہاوے۔
 trustpanel-breachalerts-anonymous-breached-button-dismiss = فارغ کرو
+trustpanel-breachalerts-anonymous-breached-button-check-monitor = مفت سکین شروع کرو
+trustpanel-blocker-section-header2 =
+    { $count ->
+        [one] <span data-l10n-name="count">{ $count }</span> ٹریکر ایں سائٹ تے بلاک تھیا
+       *[other] <span data-l10n-name="count">{ $count }</span> ٹریکرز ایں سائٹ تے بلاک تھئے
+    }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
+# "temporarily lower your tracking protection" refers to temporarily decreasing the amount of tracking protection.
+reduced-protection-infobar-message = <strong>سائٹ ٹٹی پئی لڳدی ہے؟</strong> اپݨی ٹریکنگ پروٹیکشن عارضی طور تے گھٹاوݨ کیتے صفحہ مڑ لوڈ کرو۔
+reduced-protection-infobar-reload-button = مڑ لوڈ کرو
+    .accesskey = R
+reduced-protection-infobar-never-show-button = مڑ نہ ݙیکھاؤ
+    .accesskey = D

@@ -249,3 +249,14 @@ places-search-downloads =
 ##
 
 places-locked-prompt = نشانیاں تے تاریخ سسٹم فعال کائنا تھیسن کیوں جو { -brand-short-name } دیاں فائلاں وِچو ہک ٻئی ایپلیکیشن دے زیر استعمال ہے۔ کجھ سیکیورٹی سافٹ ویئر ایں مسئلے دا سبب بݨ سڳدے ہن۔
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = نواں
+    .label = فولڈر شیئر کرو
+    .accesskey = a
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder2 =
+    .badge = نواں
+    .label = فولڈر شیئر کرو

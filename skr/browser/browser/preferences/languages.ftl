@@ -53,3 +53,5 @@ browser-languages-select-language =
 browser-languages-installed-label = تنصیب زباناں
 browser-languages-available-label = دستیاب زباناں
 browser-languages-error = { -brand-short-name } ہݨ تہاݙیاں زباناں کوں اپ ڈیٹ نہیں کر سڳدا۔ چیک کرو جو تساں انٹرنیٹ نال منسلک ہو یا دوبارہ کوشش کرو۔
+browser-languages-update-error =
+    .message = { -brand-short-name } تساڈیاں زباناں کوں ہݨے اپ ڈیٹ نیں کر سڳدا۔ چیک کرو کہ تساں انٹرنیٹ نال ڄُڑے ہوے ہو یا ٻیا کوشش کرو۔

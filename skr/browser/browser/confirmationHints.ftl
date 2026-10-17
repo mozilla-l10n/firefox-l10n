@@ -13,12 +13,15 @@ confirmation-hint-address-created = پتہ محفوظ تھیا
 confirmation-hint-address-updated = پتہ اپ ڈیٹ تھی ڳیا
 confirmation-hint-credit-card-created = کارڈ محفوظ تھی ڳیا
 confirmation-hint-credit-card-updated = کارڈ اپ ڈیٹ تھی ڳیا
+confirmation-hint-passport-created = پاسپورٹ محفوظ تھی ڳیا
+confirmation-hint-passport-updated = پاسپورٹ اپ ڈیٹ تھی ڳیا
 confirmation-hint-pin-tab = پن لڳ ڳئے!
 confirmation-hint-pin-tab-description = ٹیب کوں ان پن کرݨ کیتے رائٹ کلک کرو۔
 confirmation-hint-send-to-device = بھیڄ ݙتا ڳئے!
 confirmation-hint-firefox-relay-mask-created = نواں ماسک تخلیق تھیا!
 confirmation-hint-firefox-relay-mask-reused = موجودہ ماسک ولدا ورتیجا!
 confirmation-hint-screenshot-copied = سکرین شاٹ نقل تھی ڳیا!
+confirmation-hint-tab-group-saved = ٹیب گروپ محفوظ تھی ڳیا
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
@@ -26,3 +29,5 @@ confirmation-hint-duplicate-tabs-closed =
         [one] بند تھئی { $tabCount } ٹیب
        *[other] بند تھیاں { $tabCount } ٹیباں
     }
+# Subtle notification shown when Extensions button moves into the application menu.
+confirmation-hint-extensions-button-hidden = مینیو وچ منتقل تھی ڳیا

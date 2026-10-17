@@ -80,16 +80,38 @@ turn-on-scheduled-backups-location-choose-button =
        *[other] براؤز…
     }
 turn-on-scheduled-backups-encryption-label = اپݨا حساس ڈیٹا دا بیک اپ بݨاؤ
+turn-on-scheduled-backups-encryption-create-password-label = پاس ورڈ
+# Users will be prompted to re-type a password, to ensure that the password is entered correctly.
+turn-on-scheduled-backups-encryption-repeat-password-label = پاس ورڈ دہراؤ
 turn-on-scheduled-backups-cancel-button = منسوخ
 turn-on-scheduled-backups-confirm-button = بیک اپ چالو کرو
+# Tell the user there was an error accessing the user's selected backup
+# folder. The folder may be invalid or inaccessible.
+turn-on-scheduled-backups-error-file-system = تساڈے چݨے بیک اپ فولڈر وچ مسئلہ تھیا۔ کوئی ٻیا فولڈر چݨو تے مڑ کوشش کرو۔
+turn-on-scheduled-backups-error-default-dir-denied = اساں تساڈے بیک اپ فولڈر تائیں رسائی حاصل نہ کر سڳے۔ کوئی نویں جاہ چݨݨ دی کوشش کرو۔
+backup-error-file-system = { -brand-short-name } دا بیک اپ بݨیندے ہوئیں تساڈے چݨے بیک اپ فولڈر وچ مسئلہ تھیا
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
+turn-off-scheduled-backups-header = بیک اپ بند کرݨا ہے؟
+turn-off-scheduled-backups-description = ایہ تساڈا سارا بیک اپ ڈیٹا وی مٹا ݙیندا ہے۔ ایہ واپس نہیں تھی سڳدا۔
 turn-off-scheduled-backups-support-link = ٻیا سِکھو
 turn-off-scheduled-backups-cancel-button = منسوخ
+turn-off-scheduled-backups-confirm-button = بیک اپ بند کرو تے مٹا ݙیو
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
+restore-from-backup-header = اپݨا ڈیٹا بحال کرو
+# Variables:
+#   $date (string) - Date to be formatted based on locale
+restore-from-backup-support-link1 = کیہڑا بحال تھیسی؟
+restore-from-backup-filepicker-label = بیک اپ فائل
+restore-from-backup-filepicker-title = بیک اپ فائل چݨو:
+restore-from-backup-file-choose-button =
+    { PLATFORM() ->
+        [macos] چݨو…
+       *[other] براؤز کرو…
+    }
 restore-from-backup-password-label = پاس ورڈ
 restore-from-backup-password-description = ایہہ تہاݙے انکرپٹڈ بیک اپ کوں کھولدا اے۔
 restore-from-backup-cancel-button = منسوخ

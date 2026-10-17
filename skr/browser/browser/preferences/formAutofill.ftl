@@ -119,3 +119,62 @@ autofill-card-expires-month = اختتامی مہینہ
 autofill-card-expires-year = اختتامی سال
 autofill-card-billing-address = بل دا پتہ
 autofill-card-network = کارڈ دی ونکی
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = کریڈٹ کارڈ، کریڈٹ، کارڈ، ڈیبٹ کارڈ، ڈیبٹ، والٹ، چیک آؤٹ
+
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = پاسپورٹ شامل کرو
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = پاسپورٹ ایڈیٹ کرو
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = ناں
+autofill-passport-country =
+    .label = مُلک
+autofill-passport-number =
+    .label = نمبر
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = جاری کرݨ دی تریخ
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = میعاد ختم تھیوݨ دی تریخ
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM
+# Day dropdown label for passport dates.
+autofill-passport-date-day =
+    .label = DD
+# Year dropdown label for passport dates.
+autofill-passport-date-year =
+    .label = YYYY
+
+## The passport capture doorhanger
+
+# Header of the doorhanger shown when Firefox offers to save a passport.
+passport-capture-save-doorhanger-header = پاسپورٹ محفوظ کرو؟
+passport-capture-save-doorhanger-description = معلومات کوں { -brand-short-name } وچ محفوظ کرو تاکہ تساں فارم جلدی بھر سڳو۔
+# Accessible label for a passport date part input in the capture doorhanger.
+# The date parts (month/day/year) show their format hint (MM/DD/YYYY) as
+# placeholder text rather than a visible label, so the accessible name combines
+# the date group heading with the part hint. $heading is the group heading
+# (e.g. "Issue date") and $part is the part hint (e.g. "MM"); translators can
+# reorder them to match their locale.
+passport-capture-date-part-aria-label = { $heading } { $part }
+passport-capture-save-button =
+    .label = محفوظ کرو
+    .accessKey = S
+passport-capture-not-now-button =
+    .label = ہݨ نیں
+    .accessKey = w
+passport-capture-never-save-button =
+    .label = پاسپورٹ کݙاہیں وی محفوظ نہ کرو
+    .accessKey = N

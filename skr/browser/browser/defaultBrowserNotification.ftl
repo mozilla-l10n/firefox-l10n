@@ -39,3 +39,8 @@ default-browser-guidance-notification-body-instruction-win11 =
     مرحلہ 2: { -brand-short-name } کِیتے "ڈیفالٹ مُرتّب کرو" چُݨو
 default-browser-guidance-notification-info-page = میکوں ݙکھاؤ
 default-browser-guidance-notification-dismiss = تھی ڳیا
+default-browser-guidance-notification-v2-title = { -brand-short-name } کوں اپݨا ڈیفالٹ براؤزر بݨاوݨ دا کم مکمل کرو
+default-browser-guidance-notification-v2-body = سیٹنگز وچ، { -brand-short-name } کیتے ”ڈیفالٹ سیٹ کرو“ منتخب کرو۔
+default-browser-guidance-notification-v2-title-only = { -brand-short-name } کوں اپݨا ڈیفالٹ براؤزر بݨاوݨ دا کم سیٹنگز وچ مکمل کرو
+default-browser-guidance-notification-auto-trigger-title = اپݨے لنکس { -brand-short-name } نال کھولو
+default-browser-guidance-notification-auto-trigger-body = سیٹنگز وچ { -brand-short-name } کوں اپݨا ڈیفالٹ براؤزر چُݨو۔

@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = اینجھاں پالیسیاں مرتب کرو جنہاں تک
+policy-AIControls = AI کنٹرولز کوں کنفیگر کرو۔
 policy-AllowedDomainsForApps = Google Workspace تک رسائی دی اجازت والے ڈومینز دی وضاحت کرو۔
 policy-AllowFileSelectionDialogs = فائل سلیکشن ڈائیلاگ دی اجازت ݙیؤ۔
 policy-AppAutoUpdate = خودکار ایپلیکیشن اپ ڈیٹ کوں فعال یا غیر فعال کرو۔
@@ -21,22 +22,34 @@ policy-AutofillAddressEnabled = پتیاں کِیتے خود کار طریقے �
 policy-AutofillCreditCardEnabled = ادائیگی دے طریقیاں کِیتے خود کار طریقے نال پُر کرݨ فعال کرو۔
 policy-AutoLaunchProtocolsFromOrigins = باہرلے پروٹوکولز دی ہک تندیر دی وضاحت کرو جیڑھی صارف کوں اشارہ کیتے بغیر درج کردہ اصل کنوں استعمال کیتا ونڄ سڳدا ہے۔
 policy-BackgroundAppUpdate2 = پس منظر اپڈیٹر کوں فعال یا غیر فعال کرو۔
+policy-Backup = پروفائل دے ڈیٹا دی بیک اپ یا بحالی کوں غیر فعال کرو۔
 policy-BlockAboutAddons = ایڈ آنز مینیجر تک رسائی دی ݙک ٹھل کرو (دے بارے وِچ:ایڈونز)۔
+policy-BlockAboutConfig2 = ایڈوانسڈ ترجیحات (about:config) تائیں رسائی بلاک کرو۔
+policy-BlockAboutProfiles2 = پروفائلز بارے (about:profiles) تائیں رسائی بلاک کرو۔
+policy-BlockAboutSupport2 = مسئلہ حل کرݨ دی معلومات (about:support) تائیں رسائی بلاک کرو۔
 policy-BlockAboutConfig = about:config ورقے تے رسائی کوں روکو۔
 policy-BlockAboutProfiles = about:profiles ورقے تے رسائی کوں روکو۔
 policy-BlockAboutSupport = about:support ورقے تے رسائی کوں روکو۔
 policy-Bookmarks = نشانیاں ٹول بار، نشانیاں مینو، یا انہاں دے اندر ہک مخصوص فولڈر وِچ نشانی بݨاؤ۔
 policy-CaptivePortal = کیپٹیو پورٹل سپورٹ کوں فعال یا غیر فعال کرو۔
 policy-CertificatesDescription = سرٹیفکیٹ شامل کرو یا بلٹ ان سرٹیفکیٹ استعمال کرو۔
+policy-ClearOnShutdown = جڈاں { -brand-short-name } بند تھیوے، تاں براؤزنگ دا ڈیٹا صاف کرو۔
+# CNSA 2.0 is the United States National Security Agency's Commercial National
+# Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
+# algorithm. Neither should be translated.
+policy-CNSA2KeyAgreementEnabled = TLS کیتے CNSA 2.0 ML-KEM-1024 کی ایگریمنٹ کوں فعال کرو۔
 policy-ContentAnalysis = ڈیٹا نقصان کنوں بچاء آلے ایجنٹ نال رابطہ کوں فعال یا غیر فعال کرو۔
 policy-Cookies = ویب سائٹس کوں کوکیز سیٹ کرݨ دی اجازت ݙیو یا انکار کرو۔
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = کینٹینرز بارے پالیسیاں مرتب کرو۔
 policy-DisableAccounts = ہم وقت کرݨ دے نال اکاؤنٹ اُتے مبنی خدمتاں کوں غیر فعال کرو۔
 policy-DisabledCiphers = سائفرز کوں غیر فعال کرو۔
+policy-DefaultBrowserSettingEnabled = کنٹرول کرو جو آیا ورتݨ آلا { -brand-short-name } کوں ڈیفالٹ براؤزر دے طور تے سیٹ کر سڳدے ہے۔
 policy-DefaultDownloadDirectory = پہلے کنوں طے شدہ ڈاؤن لوڈ ڈائریکٹری مرتب کرو۔
+policy-DefaultSerialGuardSetting = Serial API دے ورتݨ کوں کنٹرول کرو۔
 policy-DisableAppUpdate = براؤزر کوں اپڈیٹ تھیوݨ کنوں روکو۔
 policy-DisableBuiltinPDFViewer = PDF.js کوں غیر فعال کرو، جیڑھا { -brand-short-name } وِچ پہلے کنوں بݨیا PDF ویور ہے۔
+policy-DisableDefaultBrowserAgent2 = ڈیفالٹ براؤزر ایجنٹ کوں کوئی وی کارروائی کرݨ توں روکو۔
 policy-DisableDefaultBrowserAgent = ڈیفالٹ براؤزر ایجنٹ کوں کوئی وی کارروائی کرݨ کنوں روکو۔ صرف ونڈوز تے لاگو؛ ٻئے پلیٹ فارمز وِچ ایجنٹ کائنی۔
 policy-DisableDeveloperTools = ڈویلپر ٹولز تک رسائی کوں مسدود کرو۔
 policy-DisableEncryptedClientHello = ٹی ایل ایس خصوصیت خفیہ کردہ کلائنٹ ہیلو (ای سی ایچ) دے ورتݨ کوں غیر فعال کرو۔
@@ -48,11 +61,17 @@ policy-DisableFirefoxScreenshots = Firefox دیاں سکرین شاٹ خصوصی
 policy-DisableFirefoxStudies = { -brand-short-name } کوں جاری مطالعے کنوں روکو۔
 policy-DisableForgetButton = بھل ونڄݨ والے بٹن تک رسائی کوں روکو۔
 policy-DisableFormHistory = ڳول تے فارم دی تاریخ کوں یاد نہ رکھو۔
+policy-DisableLaunchOnLogin = جڈاں ورتݨ آلا لاگ اِن کرے تاں { -brand-short-name } کوں خودکار طور تے لانچ تھیوݨ توں روکو۔
 policy-DisablePrimaryPasswordCreation = جے درست ہے تاں، منڈھلا پاس ورڈ نہیں بݨایا ونڄ سڳدا۔
+policy-DisablePasswordReveal2 = محفوظ لاگ اِنز یا پاس ورڈ فیلڈز وچ پاس ورڈ ظاہر کرݨ دی اجازت نہ ڈیو۔
 policy-DisablePasswordReveal = ہتھیکڑے لاگ انز وِچ پاس ورڈ ظاہر کرݨ دی اجازت نہ ݙیو۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کرو
 policy-DisableProfileImport = ٻئے براؤزر کنوں ڈیٹا برآمد کرݨ کیتے مینیو کمانڈ کوں غیر فعال کرو۔
+policy-DisableProfileRefresh2 = مسئلہ حل کرݨ دی معلومات (about:support) وچ تے support.mozilla.org تے موجود Refresh { -brand-short-name } دے بٹݨ کوں غیر فعال کرو، تے اُوں پرامپٹ کوں وی جو جڈاں { -brand-short-name } کوں کافی عرصے توں ورتیا نیں ڳیا تاں ریفریش کرݨ دی پیشکش کریندے ہے۔
 policy-DisableProfileRefresh = ایں بارے وِچ: سپورٹ ورقہ وِچ ریفریش { -brand-short-name } بٹن کوں غیر فعال کرو۔
+policy-DisableRemoteImprovements = { -brand-short-name } کوں اپ ڈیٹس دے درمیان کارکردگی، استحکام تے فیچر تبدیلیاں لاڳو کرݨ توں روکو۔
+policy-DisableRemoteSettingsAndAcceptSecurityConsequences = ریموٹ سیٹنگز کوں غیر فعال کرو۔
+policy-DisableSafeMode2 = ٹربل شوٹ موڈ (سیف موڈ) وچ ٻاہر نِکل کرݨ (ری اسٹارٹ) کوں غیر فعال کرو۔
 policy-DisableSafeMode = سیف موڈ وِچ دوبارہ شروع کرݨ کیتے خصوصیت کوں غیر فعال کرو۔ نوٹ: سیف موڈ وِچ داخل تھیوݨ کیتے شفٹ کنجی کوں صرف گروپ پالیسی دا استعمال کریندے ہوئیں ونڈوز تے غیر فعال کیتا ونڄ سڳدا ہے
 policy-DisableSecurityBypass = صارف کوں بعض حفاظتی چتاوݨیاں کوں نظر انداز کرݨ کنوں روکو۔
 policy-DisableSetAsDesktopBackground = مینیو کمانڈ کوں غیر فعال کرو تصویراں کیتے ڈیسک ٹاپ بیک گراؤنڈ دے طور تے سیٹ کرو۔

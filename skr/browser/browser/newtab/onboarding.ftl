@@ -25,6 +25,8 @@ return-to-amo-subtitle = ٻہوں چنڳاں، تہاکوں { -brand-short-name 
 return-to-amo-addon-title = ہݨ اساں تہاکوں  <img data-l10n-name="icon"/> <b>{ $addon-name }</b> تے گھندے ہیں۔
 return-to-amo-add-extension-label = ایکسٹینشن  شامل کرو
 return-to-amo-add-theme-label = تھیم شامل کرو
+return-to-amo-theme-install-complete-label = تھیم انسٹال تھی ڳیا
+return-to-amo-extension-install-complete-label = ایکسٹینشن انسٹال تھی ڳیا
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
@@ -54,6 +56,15 @@ mr1-onboarding-theme-label-dark = شوخ
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = ایلپینگلو
 onboarding-theme-primary-button-label = تھی ڳیا
+
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = اینی میشن روکو
+onboarding-animation-play-button =
+    .aria-label = اینی میشن چلاؤ
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -267,6 +278,7 @@ onboarding-device-migration-primary-button-label = سائن ان
 ## Add-ons Picker screen
 
 amo-picker-title = { -brand-short-name } آپݨی من مرضی دا بݨاؤ
+amo-picker-subtitle = ایکسٹینشنز تساݙے براؤزر کیتے ایپس دی طرح ہن، تے او تساکوں پاسورڈز محفوظ رکھݨ، ویڈیوز ڈاؤن لوڈ کرݨ، ڈیلز لبھݨ، پریشان کن اشتہاراں بلاک کرݨ، اپݨے براؤزر دی شکل بدݨ، تے ٻہوں کجھ ٻیا کرݨ دیندے ہن۔
 amo-picker-install-button-label = { -brand-short-name } وچ شامل کرو
 amo-picker-install-complete-label = انسٹال تھیا
 amo-picker-collection-link = ٻئے ایڈ آن پھلورو
@@ -282,6 +294,9 @@ onboarding-mobile-download-security-and-privacy-subtitle = جہڑیلے تُسا
 # Gratitude screen
 onboarding-gratitude-security-and-privacy-title = { -brand-short-name } تُہاݙی کن٘ڈ تے ہِے
 onboarding-gratitude-security-and-privacy-subtitle = موزیلا فاؤنڈیشن دے تعاون نال { -brand-short-name }ورتݨ کِیتے تھورا۔ تُہاݙے تعاون نال، اَساں انٹرنیٹ کوں ساریاں کِیتے محفوظ اَتے وَدھ قابلِ رسائی بݨاوݨ کِیتے کَݨ کرین٘دے پئے ہِسے۔
+# Sign up or Sign in screen
+onboarding-sign-up-title = اپݨا ڈیٹا ڈیوائسز تے سنک کرو
+onboarding-sign-up-description = اکاؤنٹ کیتے سائن اپ کرو تے تساݙی ساری اہم معلومات — پاسورڈز، بُک مارکس، تے ٻہوں کجھ ٻیا — محفوظ طور تے رکھئی ویسی تے جݙاں وی تساں کسے ڈیوائس تے سائن ان کرسو، دستیاب ہوسی۔
 onboarding-sign-up-button = سائن اپ یا سائن ان
 onboarding-sign-up-secondary-button = براؤزنگ شروع کرو
 
@@ -306,6 +321,18 @@ onboarding-new-user-survey-familiarity-based-option-4 = میں اِیکوں ما
 
 ## UI strings for the sidebar and vertical tabs
 
+# Setup screen for vertical tabs
+onboarding-new-tabs-title = ساکوں ݙسو تساں اپݨے ٹیبز کِتھاں چاہندے ہو
+# Setup screen for vertical tabs - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-new-tabs-subtitle = سائیڈبار سیٹنگز وچ جݙاں چاہو بدلو۔
+# Setup screen for vertical tabs - too many tabs variation
+onboarding-many-tabs-title = تساݙے ٹیبز، تساݙی مرضی نال
+# Setup screen for vertical tabs - subtitle for too many tabs variation
+onboarding-many-tabs-subtitle = بہوں سارے ٹیبز کھلے رکھدے ہو؟ ٻہتر منظم منظر کیتے اپݨے ٹیبز کوں سائیڈ تے رکھݨ آزماؤ۔ یا ٹیبز کوں اُتے رکھ کے کلاسک رکھو۔ جݙاں چاہو بدلو۔
+# Setup screen for vertical tabs - focused variation
+onboarding-focused-tabs-title = اپݨا ٹیب لے آؤٹ چݨو
+# Setup screen for vertical tabs - subtitle for focused variation
+onboarding-focused-tabs-subtitle = توجہ مرکوز رکھݨ کیتے ہِک منظم منظر کیتے، اپݨے ٹیبز کوں سائیڈ تے رکھݨ آزماؤ۔ یا ٹیبز کوں اُتے رکھ کے کلاسک رکھو۔ جݙاں چاہو بدلو۔
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-new-vertical-tabs-label = سائیڈ تے ٹیباں
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
@@ -314,19 +341,224 @@ onboarding-new-horizontal-tabs-label = ٹاپ تے ٹیباں
 onboarding-existing-tabs-title = عمودی ٹیباں اتھ ہن
 # Setup screen for vertical tabs for existing users
 onboarding-existing-tabs-title2 = افقی ٹیباں متعارف کرواوݨ
+# Setup screen for vertical tabs for existing users - "Switch it up" refers to switching between horizontal and vertical tabs.
+onboarding-existing-tabs-subtitle = اپݨے ٹیبز کوں سائیڈ تے رکھݨ آزماؤ۔ سائیڈبار سیٹنگز وچ جݙاں چاہو بدلو۔
 # Text underneath an image used for selecting browser tabs to appear on the side of the browser.
 onboarding-existing-vertical-tabs-label = عمودی ٹیباں ازماؤ
 onboarding-flair-text = نواں!
 # Text underneath an image used for selecting browser tabs to appear at the top of the browser.
 onboarding-existing-horizontal-tabs-label = افقی ٹیباں رکھو
+# Tooltip displayed on hover for vertical tabs image
+onboarding-vertical-tabs-tooltip =
+    .title = ہِک براؤزر ونڈو جیڑھی { -brand-shorter-name } سائیڈبار دے حصے دے طور تے اسکرین دے سائیڈ تے ٹیبز ݙکھاوے۔
+# Description for vertical tabs image
+onboarding-vertical-tabs-description =
+    .aria-description = ہِک براؤزر ونڈو جیڑھی { -brand-shorter-name } سائیڈبار دے حصے دے طور تے اسکرین دے سائیڈ تے ٹیبز ݙکھاوے۔
+# Tooltip displayed on hover for horizontal tabs image
+onboarding-horizontal-tabs-tooltip =
+    .title = ہِک براؤزر ونڈو جیڑھی اُتے ٹیبز ݙکھاوے۔
+# Description for horizontal tabs image
+onboarding-horizontal-tabs-description =
+    .aria-description = ہِک براؤزر ونڈو جیڑھی اُتے ٹیبز ݙکھاوے۔
 # Additional setup card for setting up aichatbot in the sidebar
 onboarding-genai-sidebar-title = سائیڈ بار وچ اے آئی چیٹ بوٹ ازماؤ
+# Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
+onboarding-genai-sidebar-subtitle = ویب مواد دا خلاصہ کرو، خیالات تے غور کرو، پیغامات دا مسودہ بݨاؤ — سارا جتھے تساں براؤز کریندے ہو۔ کئی فراہم کنندگان وچوں چݨو۔ جݙاں چاہو بدلو۔ <a data-l10n-name="learn-more">بیا سکھو</a>
 onboarding-genai-sidebar-primary-button = چیٹ بوٹ چݨو
 onboarding-genai-sidebar-secondary-button = براؤزنگ شروع کرو
 
 ## New user onboarding checklist
 
+onboarding-checklist-title = { -brand-short-name } دا سیٹ اپ مکمل کرو
+onboarding-checklist-subtitle = اپݨے براؤزنگ تجربے دا ٻیا فائدہ گھنݨ کیتے ایہ مراحل مکمل کرو۔
 onboarding-checklist-set-default = { -brand-short-name } کوں ڈیفالٹ براؤزر بݨاؤ
 onboarding-checklist-pin = { -brand-short-name } ٹاسک بار تے پن کرو
 onboarding-checklist-import = پچھلے براؤزر کنوں درآمد کرو
 onboarding-checklist-extension = ایکسٹنشن شامل کرو
+onboarding-checklist-sign-up = اپݨے اکاؤنٹ کیتے سائن اپ یا سائن ان کرو
+onboarding-checklist-minimize =
+    .label = منیمائز
+onboarding-checklist-remove =
+    .label = چیک لسٹ ہٹاؤ
+onboarding-checklist-remove-2 = چیک لسٹ ہٹاؤ
+
+## Tab Groups feature onboarding strings
+
+tab-groups-onboarding-feature-callout-title = گھٹ بھیڑ تے ٻیا توجہ کیتے ٹیب گروپس آزماؤ
+tab-groups-onboarding-feature-callout-subtitle = ہِک ٹیب کوں ٻئی ٹیب دے اُتے گھسٹیٹ کے اپݨا پہلا گروپ بݨا کے منظم تھیو۔
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = کسے وی ویلے “ڳولو تے ٹیبز منیج کرو” مینیو وچ اپݨے ٹیب گروپس لبھو۔
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-create-group-title-3 = اپݨے ٹیب گروپس کوں کہیں وی ویلے List All Tabs مینیو وچ ڳولو۔
+tab-groups-onboarding-create-group-no-alltabs-button-title = اپݨے گروپس کوں ایڈریس بار وچ ڳول کے لَبھو۔
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = جدوں تساں ہِک ٹیب گروپ بند کرو، اوکوں کدھی وی “ٹیبز ڳولو تے منیج کرو” مینیو توں ٻاہر کھولو۔
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-saved-groups-title-3 = جدوں تساں ہِک ٹیب گروپ بند کرو، اوکوں کدھی وی “سب ٹیبز دی فہرست” مینیو توں ٻاہر کھولو۔
+tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = اپݨے بند گروپس کوں ایڈریس بار وچ ڳول کے لَبھو۔
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = اپݨے ٹیب گروپس کوں کدھی وی “ٹیبز ڳولو تے منیج کرو” مینیو توں ٻاہر کھولو۔
+# The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
+tab-groups-onboarding-session-restore-title-2 = اپݨے ٹیب گروپس کوں کدھی وی “سب ٹیبز دی فہرست” مینیو توں ٻاہر کھولو۔
+tab-groups-onboarding-dismiss = ٹھیک ہے
+
+## Multi Profiles feature onboarding messages
+
+multi-profile-spotlight-title = { -brand-product-name } پروفائلز کوں سلام آکھو
+multi-profile-spotlight-body = کام تے تفریح کیتے براؤزنگ دے درمیان آسانی نال تبدیل کرو۔ پروفائلز تہاݙی براؤزنگ دی معلومات — ڳولو دی تاریخ تے پاس ورڈز سمیت — بالکل علیحدہ رکھدے ہن تاں جے تساں منظم رہو۔
+multi-profile-callout-title = کم تے مزے کیتے وکھرے وکھرے پروفائل بݨاؤ
+multi-profile-callout-cta = پروفائل بݨاؤ
+
+## Desktop to Mobile Adoption feature callout strings
+
+# The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
+desktop-to-mobile-subtitle = موبائل کیتے { -brand-product-name } ڈاؤن لوڈ کرݨ کیتے QR کوڈ اسکین کرو۔ انسٹال تھیوݨ دے بعد تساڈے پاس ورڈ، بک مارکس تے بیا کجھ سفر دے دوران حاصل کرݨ کیتے ”موبائل نال سنک کرو“ چݨو۔
+sync-to-mobile-button-label = موبائل نال سنک کرو
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+fx-backup-confirmation-screen-all-data-item-text-3 = انکرپٹڈ تے پاسورڈ توں محفوظ
+fx-backup-confirmation-screen-easy-setup-item-text-1 = بُک مارکس، ہسٹری، سیٹنگز، تے ٻیا ڈیٹا شامل ہے
+fx-backup-confirmation-screen-easy-setup-item-text-2 = تساݙے ڈیوائس تے محفوظ کیتا ڳیا
+fx-backup-confirmation-screen-easy-setup-item-text-3 = پاسورڈز تے ادائیگیاں شامل نیں
+fx-backup-confirmation-screen-easy-setup-item-subtext-3 = <a data-l10n-name="settings">سیٹنگز</a> تے ونڄو تے حساس ڈیٹا شامل کرو۔
+fx-backup-confirmation-screen-item-subtext-1 = تساݙا بیک اپ چند منٹاں وچ شروع تھیسی تے روزانہ ہِک وار چلسی۔ تساں <a data-l10n-name="settings">سیٹنگز</a> وچ پیش رفت ݙیکھ سڳدے ہو۔
+fx-backup-confirmation-screen-item-subtext-2 = { -brand-short-name } تساݙا بیک اپ لبھیسی جے تساں ٻیہر انسٹال کرݨ دی ضرورت ہووے۔
+
+## Restore from Backup Flow about:welcome screens
+
+restore-from-backup-secondary-top-button = بیک اپ توں بحال کرو
+restore-from-backup-title = آؤ { -brand-short-name } کوں تساݙی پسند دے مطابق ٻیہر تیار کرݨ۔
+restore-from-backup-subtitle = اپݨے سارے بُک مارکس، ہسٹری، تے ٻیا ڈیٹا بحال کرو تے ٻیہر براؤزنگ تے واپس آؤ۔
+restore-from-backup-secondary-button = بحال نہ کرو
+multiple-backups-info-tile = <strong>کئی بیک اپ فائلاں لبھیاں ڳن۔</strong> سب توں تازہ فائل چُݨی ڳئی ہے۔ ٻیا پروفائل <a data-l10n-name="settings-label">سیٹنگز</a> وچ بحال کرو۔
+
+## Restored from Backup spotlight
+
+restored-from-backup-success-title = اساں واپس آ ڳئے! تساݙا { -brand-short-name } ڈیٹا بحال کر ݙتا ڳیا ہے۔
+restored-from-backup-success-with-checklist-subtitle = چاہندے ہو کہ تساݙا پسندیدہ رازداری تے توجہ ݙیوݨ آلا براؤزر ہِک کلک دی دوری تے ہووے؟
+restored-from-backup-success-no-checklist-subtitle = تساں ایں ڈیوائس کیتے بیک اپ <a data-l10n-name="settings">سیٹنگز</a> وچ چالو کر سڳدے ہو۔
+restored-from-backup-success-with-checklist-primary-button = محفوظ کرو تے جاری رکھو
+restored-from-backup-success-with-checklist-secondary-button = ایں مرحلے کوں چھوڑو
+restored-from-backup-success-no-checklist-primary-button = جاری رکھو
+restored-from-backup-error-title = اوہ، تساݙی بیک اپ فائل وچ کوئی مسئلہ تھی ڳیا ہے۔
+restored-from-backup-error-subtitle = جے تساݙے کول { -brand-short-name } دی بیا بیک اپ فائل ہے تاں اوندے توں بحال کرݨ دی کوشش کرو۔ <a data-l10n-name="restore-problems">اجھاں وی مسئلہ ہے؟</a>
+restored-from-backup-error-primary-button = بند کرو
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-title = اپݨا { -brand-short-name } تجربہ کسٹمائز کرو
+onboarding-personalization-subtitle = کجھ سوالاں دے جواب ݙیو تے اساں { -brand-short-name } دے ورتݨ کوں ودھاون کیتے فیچرز تے ایکسٹینشنز دی سفارش کریسوں۔
+onboarding-personalization-use-case-title = تساں { -brand-short-name } کوں کہیں کیتے ورتسو؟
+onboarding-personalization-use-case-personal-option = ذاتی
+onboarding-personalization-use-case-school-option = اسکول
+onboarding-personalization-use-case-work-option = کم
+onboarding-personalization-motivation-title = { -brand-short-name } دے کہڑے فیچرز تساݙے کیتے سب توں اہم ہن؟
+onboarding-personalization-motivation-privacy-option = رازداری تے سلامتی
+onboarding-personalization-motivation-productivity-option = پیداواریت
+onboarding-personalization-motivation-other-option = بیا
+
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-pin-set-default-subtitle = اساں تہاڈا ڈیٹا بچیندے ہیں تے کمپنیاں کوں تہاڈے کلکس تے جاسوسی کرݨ توں خود بخود روکدے ہیں۔
+# "safe paws" is a play on "safe hands", meaning you're being well taken care of or protected
+# If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
+onboarding-refresh-pin-set-default-title = تساں فائر فاکس نال محفوظ ہو۔
+onboarding-refresh-import-subtitle = اپݨے پاسورڈز، بُک مارکس، ہسٹری تے بیا کچھ گھن آؤ۔
+onboarding-refresh-import-title = { -brand-short-name } کوں اپݨے گھر آلا محسوس کرواؤ۔
+onboarding-refresh-onboarding-addons-subtitle = ایکسٹینشنز نکّیاں ایپس ہن جے کوں تساں { -brand-short-name } کوں کسٹمائز کرݨ کیتے ورتسڳدے ہو۔ اوہ تہاڈی پرائیویسی کوں وَدھاوݨ، پیداواریت بہتر کرݨ، { -brand-short-name } دی شکل بدلݨ تے بیا ٻہوں کچھ کر سڳدے ہن۔
+# "Give your browsing a boost" means to enhance or improve the browsing experience
+onboarding-refresh-onboarding-addons-title = اپݨی براؤزنگ کوں بہتر بناؤ۔
+onboarding-refresh-sync-subtitle = بُک مارکس، پاسورڈز تے بیا کچھ ہر جاہ حاصل کرو جتھاں تساں { -brand-short-name } وچ سائن ان کیتا ہووے۔ تے تہاڈا ڈیٹا انکرپٹڈ ہے، صرف تساں ای اوکوں ݙیکھ سڳدے ہو۔
+onboarding-refresh-sync-title = ہرجاہ ونجو۔ ہر شے سنک کرو۔
+onboarding-refresh-gratitude-subtitle = تہاڈا شکریہ جو تساں { -brand-short-name } ورتیا، ہِک ہی وݙا براؤزر جیندا سہارا ہِک غیر منافع بخش ادارہ ہے۔ تہاڈے ساتھ نال، اساں انٹرنیٹ کوں سبھ کیتے محفوظ تے بیا آسان بناوݨ تے کم کریندے ہیں۔
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-gratitude-title = { -brand-short-name } تہاڈا ساتھ ݙیندا ہے۔
+
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = { -brand-product-name } ہݨ توں تہاڈا ساتھ ݙیندا ہے۔
+onboarding-refresh-hero-text = تساں دی حفاظت کیتے بنایا ڳیا ہے، تساں دی نگرانی کیتے نیں۔
+onboarding-refresh-tou-default = سارے لنکس { -brand-short-name } نال کھولو۔
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] { -brand-short-name } کوں ڈاک وچ رکھو۔
+       *[other] { -brand-short-name } کوں تہاڈے ٹاسکبار وچ شامل کرو۔
+    }
+onboarding-refresh-tou-default-unchecked = ہر ویلے براؤز کرݨ ویلے بلٹ ان تحفظ رکھو۔
+onboarding-refresh-tou-pin-unchecked = ہِک ہی وݙا آزاد براؤزر ہِک کلک تے رکھو۔
+onboarding-refresh-terms-of-use-with-links = جاری رکھ کے تساں <a data-l10n-name="terms_of_use">{ -brand-product-name } دے استعمال دیاں شرائط</a> تے ساڈے <a data-l10n-name="privacy_notice">پرائیویسی نوٹس</a> نال اتفاق کریندے ہو۔ براؤزر کوں بہتر بناوݨ وچ مدد کیتے، { -brand-product-name } تشخیصی تے تعامل ڈیٹا { -vendor-short-name } کوں بھیجدا ہے۔
+onboarding-refresh-data-collection-link = ڈیٹا جمع کرݨ دیاں سیٹنگز منیج کرو۔
+onboarding-refresh-primary-button = جاری رکھو۔
+onboarding-refresh-fro-import-header = اپݨا ڈیٹا گھن آؤ۔
+onboarding-refresh-fro-import-body = تہاڈا ذاتی ڈیٹا ذاتی ہی رہسے۔ { -brand-product-name } اوکوں کدھی نیں ویچسے۔
+onboarding-refresh-fro-skip-button = چھوڑو۔
+onboarding-refresh-fro-theme-header = اپݨی شکل نال کھیڈو۔
+onboarding-refresh-tab-layout-header = ہِک مختلف ٹیب لے آؤٹ آزماؤ۔
+onboarding-refresh-tab-layout-top = اُتے۔
+onboarding-refresh-tab-layout-side = پاسے تے۔
+onboarding-refresh-tab-layout-minimal = نکا۔
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = ہِک براؤزر ونڈو جے وچ ٹیبز اسکرین دے پاسے نکّے آئیکونز دے طور تے ݙکھائیاں ویندیاں ہن، ہِک نکّی سائڈبار وچ۔
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = ہِک براؤزر ونڈو جے وچ ٹیبز اسکرین دے پاسے نکّے آئیکونز دے طور تے ݙکھائیاں ویندیاں ہن، ہِک نکّی سائڈبار وچ۔
+
+## Smart window switcher callout
+
+smartwindow-switcher-callout = کدھی وی اسمارٹ تے کلاسک ونڈوز دے وچکار بدلو۔
+
+## Smart Window ToU modal
+
+# Existing users
+smartwindow-existing-user-fx-tou-title = { -brand-product-name } دے استعمال دیاں شرائط۔
+smartwindow-existing-user-fx-tou-body = { -smart-window-brand-name } ورتݨ کیتے، براہ کرم <a data-l10n-name="terms_of_use">استعمال دیاں شرائط</a> تے اپ ڈیٹڈ <a data-l10n-name="privacy_notice">پرائیویسی نوٹس</a> قبول کرو۔
+smartwindow-existing-user-fx-tou-accept = قبول کرو۔
+smartwindow-existing-user-fx-tou-go-back = واپس ونجو۔
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-title = { -smart-window-brand-name } کوں اپݨا ترجیحی بناؤ۔
+smartwindow-onboarding-subtitle = ہِک لمحہ وی ضائع کیتے بغیر خلاصہ کرو، موازنہ کرو تے سوال پچھو۔
+smartwindow-onboarding-primary-button = جاری رکھو۔
+# Kit is referring to the Firefox mascot
+smartwindow-onboarding-image-alt =
+    .aria-label = { -brand-product-name } میسکوٹ (کِٹ) ستارے آلے پراپس نال۔
+
+## Smart Window Sidebar Auto-Open Pref
+
+smartwindow-sidebar-auto-open-callout-title = کیا تساں اسسٹنٹ کوں بند رکھݨ چاہندے ہو؟
+smartwindow-sidebar-auto-open-callout-body = تساں اوکوں جدوں وی ضرورت ہووے، کھول سڳدے ہو۔
+smartwindow-sidebar-auto-open-callout-accept = جی ہاں، بند رکھو۔
+smartwindow-sidebar-auto-open-callout-dismiss = نیں، شکریہ۔
+smartwindow-sidebar-auto-open-callout-rejected-subtitle = جے تساں اپݨا ارادہ بدلو، تاں تساں کدھی وی <a data-l10n-name="settings">ترتیباں</a> وچ ڈیفالٹ اپڈیٹ کر سڳدے ہو۔
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = ہِک تھیم چݨو
+onboarding-theme-picker-subtitle = { -brand-short-name } وچ تھوڑا بیا رنگ گھنو۔
+onboarding-theme-picker-button-label = محفوظ کرو تے اڳوں ودھو
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = نمایاں خصوصیات
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = نویں خصوصیات تہاݙے بیا کرݨ وچ مدد کیتے بنائیاں ڳئیاں ہن۔
+welcome-back-onboarding-primary-button-label = براؤزنگ شروع کرو
+welcome-back-onboarding-secondary-button-label = ݙیکھو جو بیا کیا نواں ہے
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = ستھرے ٹیبز
+welcome-back-onboarding-pill-label-vpn = بلٹ-اِن VPN
+welcome-back-onboarding-pill-label-pdf = PDF ٹولز
+welcome-back-onboarding-card-label-tabs = عمودی ٹیبز تے گروپس نال ستھرا کرو
+welcome-back-onboarding-card-label-vpn = بلٹ-اِن VPN نال لکیا رہو
+welcome-back-onboarding-card-label-pdf = PDFs تے ہائی لائٹ کرو، دستخط کرو تے کم کرو
+welcome-back-onboarding-card-tilebutton-label = آزماؤ
