@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Introducer VPN, ora justo interne a tu
 ipprotection-feature-introduction-title-1 = Essaya le VPN integrate de { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos.
 ipprotection-feature-introduction-title-privacy = Adder un altere nivello de confidentialitate
+ipprotection-feature-introduction-title-privacy-1 = Adde un altere nivello de confidentialitate con le VPN integrate
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige de plure positiones pro mantener ubi tu naviga plus private.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige de plure positiones pro mantener plus private ubi tu naviga.
 ipprotection-feature-introduction-link-text-privacy-3 = Obtene <a data-l10n-name="learn-more-vpn">ulterior confidentialitate</a> seligente de plure positiones pro celar ubi tu naviga.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = OK
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Predefini le regulas del VPN integrate, pois naviga
 ipprotection-site-inclusions-callout-title-lapsed-users = Essaya le VPN integrate, ora sito per sito
+ipprotection-site-inclusions-callout-description-1 = Activa le VPN quando tu vole confidentialitate ulterior o navigation basate sur le position, e disactiva lo ubi tu non vole.
 ipprotection-site-inclusions-callout-description = Activa lo quando tu vole confidentialitate ulterior o navigation basate sur le position, e disactiva ubi non.
 ipprotection-site-inclusions-callout-primary-button = Predefini regulas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Non ora
@@ -144,6 +146,12 @@ site-rules-status-heading = Tu regula
 site-rules-description-exclusion = VPN es disactivate pro iste sito
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN es active pro iste sito
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Sempre activar le VPN pro { $website }?
+    .message = Actualisa tu regulas quandocunque in parametros.
 ipprotection-settings-link =
     .label = Parametros
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = Pro saper plus
 ip-protection-not-opted-in-4 =
     .heading = Essaya le VPN integrate de { -brand-short-name }
     .message = Naviga con protection ulterior celante tu position.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Preste a lo provar?
+    .message = Obtener { $maxUsage } GB gratuite cata mense e elige in que sitos usar le VPN.
 ip-protection-not-opted-in-button = Comenciar
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.

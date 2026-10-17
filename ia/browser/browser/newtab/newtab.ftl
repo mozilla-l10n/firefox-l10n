@@ -891,6 +891,10 @@ newtab-custom-widget-search-toggle =
     .label = Cercar
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoscopos
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Viages
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

@@ -1415,6 +1415,12 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-toolbar-button =
+    .label = Deler alcun o tote tu datos de navigation
+    .tooltiptext = Deler alcun o tote tu datos de navigation
+fire-button-panel-heading = Deler tote le datos de navigation?
+fire-button-panel-description = Isto dele le chronologia, le cookies, e le datos del sitos. Tu sera disconnectite del sitos. Iste fenestra se claudera, e { -brand-short-name } aperira uno nove.
+fire-button-panel-choose-description = Si tu non vole deler omne cosa, elige plus tosto datos specific.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.
