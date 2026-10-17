@@ -336,6 +336,10 @@ newtab-picture-set-wallpaper =
     .title = سامووݩ و عونوان پس زمینه
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = دؽوۉداری کاقز دیواری
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = بؽڌار کردن ای شؽوات
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = نشووݩ داڌن شؽوات
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = بؽڌار کردن شؽوات ٱمرۊز
@@ -343,6 +347,10 @@ newtab-picture-menu-hide-photo = بؽڌار کردن شؽوات ٱمرۊز
 newtab-picture-menu-show-photo = نشووݩ داڌن شؽوات ٱمرۊز
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = قلوه دووسته بۊین
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = نشووݩ داڌن شؽوات
+    .title = نشووݩ داڌن شؽوات
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = نشووݩ داڌن شؽوات ٱمرۊز
@@ -360,6 +368,14 @@ newtab-search-widget-menu-button =
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = سفر
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = نومگه سفر ن بۊگۊشین
+    .title = نومگه سفر ن بۊگۊشین
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = قلوه دووسته بۊین
 
@@ -613,6 +629,10 @@ newtab-custom-widget-stocks-toggle =
     .label = سهام
 newtab-custom-widget-picture-toggle =
     .label = شؽوات رۊز
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = سفر
 newtab-custom-widget-section-title = ویجتا
 newtab-custom-widget-section-toggle =
     .label = ویجتا

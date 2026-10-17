@@ -43,6 +43,8 @@ sidebar-history-sort-option-site =
     .label = وبگه
 sidebar-history-sort-option-date-and-site =
     .label = تاریخ وو جاگه
+sidebar-history-import-promo-button =
+    .label = و من ٱووردن و { -brand-short-name }
 
 ## Labels for sidebar search
 
