@@ -115,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Iawn
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Gosodwch reolau VPN cynhenid, yna parhau i borwch
 ipprotection-site-inclusions-callout-title-lapsed-users = Rhowch gynnig ar VPN cynhenid, nawr fesul gwefan
+ipprotection-site-inclusions-callout-description-1 = Trowch y VPN ymlaen pan fyddwch chi eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i ddiffodd pan nad ydych chi.
 ipprotection-site-inclusions-callout-description = Trowch ef ymlaen pan fyddwch eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i diffodd lle nad oes ei angen.
 ipprotection-site-inclusions-callout-primary-button = Gosod rheolau
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nid nawr
@@ -145,6 +146,12 @@ site-rules-status-heading = Eich rheol
 site-rules-description-exclusion = Mae VPN i ffwrdd ar gyfer y wefan hon
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = Mae VPN ymlaen ar gyfer y wefan hon
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Trowch VPN ymlaen am { $website } bob tro?
+    .message = Diweddarwch eich rheolau ar unrhyw adeg yn y gosodiadau.
 ipprotection-settings-link =
     .label = Gosodiadau
 
@@ -269,6 +276,11 @@ ip-protection-learn-more = Dysgu rhagor
 ip-protection-not-opted-in-4 =
     .heading = Rhowch gynnig ar VPN cynhenid { -brand-short-name }
     .message = Pori gyda diogelwch ychwanegol drwy guddio'ch lleoliad.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Barod i roi cynnig arni?
+    .message = Cael { $maxUsage } GB am ddim bob mis a dewis pa wefannau sy'n defnyddio VPN.
 ip-protection-not-opted-in-button = Cychwyn arni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -288,6 +300,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Gosodwch reolau ar gyfer gwefannau sydd angen preifatrwydd ychwanegol neu'r VPN i ffwrdd.
     .label = Rheoli rheolau VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Gosodwch reolau i droi VPN ymlaen neu i ffwrdd yn awtomatig.
+    .label = Rheolau gwefannau
 ip-protection-site-rules-add-button =
     .label = Gosod rheol
 ip-protection-site-rules-delete-all-button =
@@ -370,6 +385,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Dileu holl reolau'r wefan?
 ip-protection-delete-all-site-rules-confirm =
     .label = Dileu pob rheol
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Methu dileu'r rheol
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Methu dileu'r rheolau
+ip-protection-delete-site-rule-retry =
+    .label = Ceisio eto
 
 ## IP Protection Bandwidth
 

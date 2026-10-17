@@ -52,6 +52,17 @@ migration-no-permissions-message = Does gan { -brand-short-name } ddim mynediad 
 migration-no-permissions-instructions = I barhau i fewnforio data o borwr arall, caniatewch i { -brand-short-name } gael mynediad i'w ffolder proffil.
 migration-no-permissions-instructions-step1 = Dewis “Continue”
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Yn y dewisydd ffeiliau, dewiswch "Agor"
+       *[other] Yn y dewisydd ffeiliau, ewch i <code>{ $permissionsPath }</code> a chlicio “Dewis”
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

@@ -1811,6 +1811,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Dewis pa wefannau all osod estyniadau
     .accesskey = D
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Caniatáu i wefannau ofyn i agor dolenni ap.
+    .accesskey = w
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Rheoli gwefannau sydd wedi'u rhwystro
+    .accesskey = R
 permissions-location2 =
     .label = Lleoliad
 permissions-localhost2 =

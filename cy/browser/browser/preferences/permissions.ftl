@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Rhwystro geisiadau newydd sy'n gofyn am gael mynediad at eich dyfeisiau rhithrealaeth
 permissions-site-xr-disable-desc = Bydd hyn yn rhwystro unrhyw wefan sydd heb ei rhestru uchod rhag gofyn am ganiatâd i gael mynediad at eich dyfeisiau rhithrealaeth. Gall rhwystro mynediad at eich dyfeisiau rhithrealaeth dorri nodweddion rhai gwefannau.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Gosodiadau - Gwefannau wedi'u Rhwystro ar gyfer Dolenni Apiau
+permissions-site-app-links-desc = Mae'r gwefannau hyn wedi'u rhwystro rhag gofyn am agor dolenni apiau, fel e-bost (mailto :). Tynnwch wefan i ganiatáu iddo ofyn eto.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
