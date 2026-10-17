@@ -598,12 +598,12 @@ newtab-horoscopes-menu-learn-more = Läs mer
 
 # Widget heading; also the widget's accessible name. Travel (noun) is a
 # widget on New Tab for searching hotels, flights and car rentals.
-newtab-travel-widget-title = Resa
+newtab-travel-widget-title = Resor
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-travel-widget-open-menu-button =
-    .aria-label = Öppna resemenyn
-    .title = Öppna resemenyn
+    .aria-label = Öppna menyn för resor
+    .title = Öppna menyn för resor
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Läs mer
 
@@ -918,7 +918,7 @@ newtab-custom-widget-horoscopes-toggle =
 # Travel (noun) is a widget on New Tab for searching hotels, flights
 # and car rentals.
 newtab-custom-widget-travel-toggle =
-    .label = Resa
+    .label = Resor
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar

@@ -27,7 +27,7 @@ ipprotection-feature-introduction-title = Introducerar VPN, nu direkt i din webb
 ipprotection-feature-introduction-title-1 = Testa { -brand-product-name }:s inbyggda VPN
 ipprotection-feature-introduction-link-text-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data.
 ipprotection-feature-introduction-title-privacy = Lägg till ytterligare ett lager av sekretess
-ipprotection-feature-introduction-title-privacy-1 = Lägg till ytterligare ett lager av sekretess med inbyggt VPN
+ipprotection-feature-introduction-title-privacy-1 = Få ett extra integritetsskydd med inbyggt VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplats mer privat.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplats mer privat.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">extra integritet</a> genom att välja mellan flera platser för att dölja var du surfar.
@@ -115,7 +115,7 @@ ipprotection-android-promo-callout-primary-button = Jag förstår
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Ställ in regler för inbyggt VPN och surfa vidare
 ipprotection-site-inclusions-callout-title-lapsed-users = Prova inbyggt VPN, nu för enskilda webbplatser
-ipprotection-site-inclusions-callout-description-1 = Slå på VPN när du vill ha extra sekretess eller platsbaserad surfning, och av där du inte vill.
+ipprotection-site-inclusions-callout-description-1 = Aktivera VPN på webbplatser där du vill ha extra integritet eller platsbaserad surfning, och inaktivera det på övriga.
 ipprotection-site-inclusions-callout-description = Aktivera det för webbplatser där du vill ha extra integritet eller surfa utifrån en viss plats, och inaktivera det för övriga.
 ipprotection-site-inclusions-callout-primary-button = Ange regler
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Inte nu
@@ -298,7 +298,7 @@ ip-protection-site-rules-button-1 =
     .label = Hantera VPN-regler
 ip-protection-site-rules-list-section-1 =
     .description = Ange regler för att slå på eller inaktivera VPN automatiskt.
-    .label = Webbplatsens regler
+    .label = Webbplatsregler
 ip-protection-site-rules-add-button =
     .label = Ange regel
 ip-protection-site-rules-delete-all-button =

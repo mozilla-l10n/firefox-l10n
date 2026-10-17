@@ -126,7 +126,7 @@ about-processes-preloaded-tab = Förinläst ny flik
 #   $count (Number) The number of open tabs currently listed. Always ≥ 0.
 about-processes-tab-count =
     { $count ->
-        [one] flik { $count }
+        [one] { $count } flik
        *[other] { $count } flikar
     }
 # Single subframe

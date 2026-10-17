@@ -9,7 +9,7 @@ protocolhandler-mailto-os-handler-no-button = Inte nu
 # asking again.
 protocolhandler-never-allow-button =
     .label = Tillåt aldrig
-    .accesskey = T
+    .accesskey = a
 # Variables:
 #  $host (String): The domain of the web application registering as a protocol handler.
 #  $protocol (String): The type of protocol (e.g. "web+example").
