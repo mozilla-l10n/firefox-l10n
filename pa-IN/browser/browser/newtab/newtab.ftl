@@ -459,6 +459,14 @@ newtab-stocks-search-no-results = “{ $query }” ਲਈ ਕੋਈ ਖੋਜ �
 newtab-stocks-search-loading = …ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = ਹੁਣ ਲੱਭਿਆ ਨਹੀਂ ਜਾ ਸਕਿਆ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ।
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] ਤੁਸੀਂ { $limit } ਸਟਾਕ ਹੀ ਜੋੜ ਸਕਦੇ ਹੋ। ਹੋਰ ਜੋੜਨ ਲਈ ਕਿਸੇ ਨੂੰ ਹਟਾਓ।
+       *[other] ਤੁਸੀਂ { $limit } ਸਟਾਕ ਹੀ ਜੋੜ ਸਕਦੇ ਹੋ। ਹੋਰ ਜੋੜਨ ਲਈ ਕਿਸੇ ਨੂੰ ਹਟਾਓ।
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -467,6 +475,10 @@ newtab-stocks-search-error = ਹੁਣ ਲੱਭਿਆ ਨਹੀਂ ਜਾ ਸ�
 newtab-picture-header = ਅੱਜ ਦੀ ਤਸਵੀਰ  ਵਿਕੀਮੀਡੀਆ ਕਾਮਨਜ਼
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = ਅੱਜ ਦੀ ਤਸਵੀਰ
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = ਅੱਜ ਦੀ ਤਸਵੀਰ: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -490,6 +502,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਵਾਲਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
     .title = ਅੱਜ ਦੀ ਤਸਵੀਰ ਵਾਲਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = ਇਸ ਤਸਵੀਰ ਨੂੰ ਆਪਣੇ ਵਾਲਪੇਪਰ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
+    .label = ਵਾਲਪੇਪਰ ਲਾਓ
+    .title = ਵਾਲਪੇਪਰ ਲਾਓ
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -498,6 +517,10 @@ newtab-picture-set-wallpaper =
     .title = ਵਾਲਪੇਪਰ ਲਾਓ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = ਵਾਲਪੇਪਰ ਦਾ ਇੰਤਜ਼ਾਮ
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = ਇਸ ਤਸਵੀਰ ਨੂੰ ਲੁਕਾਓ
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = ਤਸਵੀਰ ਨੂੰ ਵੇਖਾਓ
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਲੁਕਾਓ
@@ -505,6 +528,10 @@ newtab-picture-menu-hide-photo = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਲ�
 newtab-picture-menu-show-photo = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = ਹੋਰ ਜਾਣੋ
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = ਤਸਵੀਰ ਨੂੰ ਵੇਖਾਓ
+    .title = ਤਸਵੀਰ ਨੂੰ ਵੇਖਾਓ
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = ਅੱਜ ਦੀ ਤਸਵੀਰ ਨੂੰ ਦੇਖਾਓ
@@ -556,6 +583,11 @@ newtab-recent-searches-empty-trending = ਰੁਝਾਨ ਖੋਜਾਂ ਇਸ �
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = ਕੁੰਡਲੀਆਂ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = ਕੁੰਡਲੀਆਂ ਦਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
+    .title = ਕੁੰਡਲੀਆਂ ਦਾ ਮੇਨੂ ਖੋਲ੍ਹੋ
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = ਕੁੰਡਲੀਆਂ ਚੋਣਾਂ ਨੂੰ ਵੇਖੋ
@@ -564,6 +596,14 @@ newtab-horoscopes-menu-learn-more = ਹੋਰ ਜਾਣੋ
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = ਯਾਤਰਾ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = ਯਾਤਰਾ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
+    .title = ਯਾਤਰਾ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = ਹੋਰ ਜਾਣੋ
 
@@ -875,6 +915,10 @@ newtab-custom-widget-search-toggle =
     .label = ਖੋਜ
 newtab-custom-widget-horoscopes-toggle =
     .label = ਕੁੰਡਲੀਆਂ
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = ਯਾਤਰਾ
 newtab-custom-widget-section-title = ਵਿਜੈੱਟ
 newtab-custom-widget-section-toggle =
     .label = ਵਿਜੈੱਟ

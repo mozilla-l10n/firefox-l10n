@@ -371,6 +371,22 @@ ip-protection-site-rule-duplicate-error = ਇਸ ਸਾਈਟ ਲਈ ਪਹਿ�
 # Shown at the top of the dialog when the rule could not be saved.
 ip-protection-site-rule-save-error =
     .message = ਨਿਯਮ ਬਣਾਉਣ ਦੌਰਾਨ ਗਲਤੀ ਆਈ। ਫੇਰ ਕੋਸ਼ਿਸ ਕਰਿਓ।
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = ਕੀ { $website } ਲਈ ਨਿਯਮ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+ip-protection-delete-site-rule-cancel =
+    .label = ਰੱਦ ਕਰੋ
+ip-protection-delete-site-rule-confirm =
+    .label = ਹਟਾਓ
+ip-protection-delete-all-site-rules-message = ਕੀ ਸਾਰੇ ਵੈੱਬਸਾਈਟ ਨਿਯਮਾਂ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?
+ip-protection-delete-all-site-rules-confirm =
+    .label = ਸਾਰੇ ਨਿਯਮਾਂ ਨੂੰ ਹਟਾਓ
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = ਨਿਯਮ ਨੂੰ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = ਨਿਯਮਾਂ ਨੂੰ ਹਟਾਇਆ ਨਹੀਂ ਜਾ ਸਕਿਆ
+ip-protection-delete-site-rule-retry =
+    .label = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰਿਓ
 
 ## IP Protection Bandwidth
 

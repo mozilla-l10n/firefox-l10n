@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = HuggingChat ਨੂੰ ਚੁਣ ਕੇ �
 genai-settings-chat-lechat-links-2 = Mistral Vibe ਨੂੰ ਚੁਣ ਕੇ ਤੁਸੀਂ Mistral ਏ.ਆਈ. <a data-l10n-name="link1">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="link2">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 genai-settings-chat-lechat-links = Le Chat Mistral ਦੀ ਚੋਣ ਕਰਕੇ ਤੁਸੀਂ Mistral AI <a data-l10n-name="link1">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="link2">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 genai-settings-chat-localhost-links = { -vendor-short-name } ਦੇ ਖੋਜੀ ਗਰੁੱਪ ਵਲੋਂ <a data-l10n-name="link1">llamafile</a>  ਵਰਗੇ ਆਪਣਾ ਖੁਦ ਦਾ ਲੋਕਲ ਚੈਟ-ਬੋਟ ਲਿਆਓ।
+genai-settings-chat-scout-links = Yahoo Scout ਨੂੰ ਚੁਣ ਕੇ ਤੁਸੀਂ Yahoo ਦੀਆਂ <a data-l10n-name="link1">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਅਤੇ <a data-l10n-name="link2">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -24,6 +25,9 @@ genai-settings-chat-localhost-links = { -vendor-short-name } ਦੇ ਖੋਜੀ
 genai-prompts-summarize =
     .label = ਸੰਖੇਪ
     .value = ਕੀਤੀ ਚੋਣ ਦਾ ਸਾਰ ਸਹੀ ਤੇ ਸੰਖੇਪ ਭਾਸ਼ਾ ਵਿੱਚ ਦਿਓ। ਸਾਰ ਨੂੰ ਸੌਖਾ ਸਮਝਣਯੋਗ ਬਣਾਉਣ ਲਈ ਇਸ ਵਿੱਚ ਸਿਰਲੇਖ ਅਤੇ ਬਿੰਦੀਆਂ ਦੀ ਵਰਤੋਂ ਕਰੋ। ਅਰਥ ਅਤੇ ਤੱਥਾਂ ਦੀ ਦਰੁਸਤਾ ਨੂੰ ਬਣਾਈ ਰੱਖੋ।
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = { $url } ਉੱਤੇ ਵੈੱਬ ਸਫ਼ੇ ਦਾ ਸਹੀ ਅਤੇ ਸੰਖੇਪ ਭਾਸ਼ਾ ਵਿੱਚ ਸਾਰ ਬਣਾਓ। ਸਾਰ ਵਿੱਚ ਸਿਰਲੇਖ ਅਤੇ ਬਿੰਦੀਆਂ ਵਾਲੀਆਂ ਸੂਚੀਆਂ ਦਿਓ ਤਾਂ ਕਿ ਸਕੈਨ ਹੋ ਸਕੇ। ਅਸਲ ਅਰਥ ਅਤੇ ਤੱਥਾਂ ਬਣਾਈ ਰੱਖੋ।
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = ਭਾਸ਼ਾ ਨੂੰ ਸਰਲ ਕਰੋ
@@ -175,6 +179,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = ਬਿਨਾਂ ਟੈਬਾਂ ਨੂੰ ਬਦਲੇ AI ਚੈਟਬੋਟ ਨੂੰ ਵਰਤੋਂ
@@ -241,6 +247,11 @@ highlight-to-search-settings-ask-provider =
     .label = { $provider } ਨੂੰ ਪੁੱਛੋ
 highlight-to-search-settings-ask-generic =
     .label = AI ਨੂੰ ਪੁੱਛੋ
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = ਖੋਜ
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = AI ਨਾਲ ਹੋਰ ਵੇਖਣਾ ਹੈ?
 # Message that appears when user is shown the opt-in flow for link previews
