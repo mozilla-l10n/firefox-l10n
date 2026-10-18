@@ -19,6 +19,7 @@ ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 
 ## Firstrun onboarding
 
+aiwindow-firstrun-title = Добре дошли в { -smart-window-brand-name }
 # Recommended represents the chat brand and model we recommend for users. Only affects European users.
 aiwindow-firstrun-model-recommended = Препоръчан
 # $shortName (string) - The short name of the model version
@@ -41,3 +42,7 @@ aiwindow-input-model-select-default-badge =
 aiwindow-close-sidebar =
     .aria-label = Затваряне
     .tooltiptext = Затваряне
+
+## Smart Window Toggle Button (in-page)
+
+smartwindow-switch-to-smart-window = Превключете към { -smart-window-brand-name }

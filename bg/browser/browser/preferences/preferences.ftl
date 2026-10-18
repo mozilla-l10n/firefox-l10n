@@ -1382,6 +1382,23 @@ preferences-passwords-autofill-header =
 payment-moz-box-item =
     .description = { $expDate }
     .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV е записано
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV е записано
+    .label = { $cardNumber }
 addresses-group =
     .label = Адреси и други
 payments-group =
@@ -2223,3 +2240,15 @@ security-privacy-issue-warning-ech =
 security-privacy-issue-warning-proxy-autodetection =
     .description = Автоматичното конфигуриране на прокси може да позволи на ненадеждни мрежи да наблюдават вашата дейност.
     .label = Автоматичното конфигуриране на прокси е включено
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .description = Поканете някого да избере кой браузър поставя поверителността на първо място.
+    .label = Споделете { -brand-product-name }
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = Споделете { -brand-product-name }

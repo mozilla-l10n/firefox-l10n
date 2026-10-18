@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
+smart-window-block-title = Блокиране на { -smart-window-brand-name }?
 ai-window-features-group =
     .description = Задавайте въпроси, сравнявайте страници и получавайте персонализирани предложения с вграден асистент.
     .label = { -smart-window-brand-name }
