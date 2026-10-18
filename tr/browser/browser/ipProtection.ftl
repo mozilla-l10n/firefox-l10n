@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = VPN artık tarayıcınızın içinde
 ipprotection-feature-introduction-title-1 = Yerleşik { -brand-product-name } VPN’i deneyin
 ipprotection-feature-introduction-link-text-2 = Konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-title-privacy = Gizliliğinizi bir kat daha artırın
+ipprotection-feature-introduction-title-privacy-1 = Yerleşik VPN ile gizliliğinizi daha da güçlendirin
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Farklı konumlardan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } tarayıcısının yerleşik VPN özelliği</a> ile gezintinizi koruyabilirsiniz. Çok sayıda konumdan istediğinizi seçerek gezintilerinizi daha gizli tutun.
 ipprotection-feature-introduction-link-text-privacy-3 = İnternette gezdiğiniz yerleri gizlemek için çok sayıda konumdan istediğinizi seçerek <a data-l10n-name="learn-more-vpn">ekstra gizliliğe</a> kavuşun.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Anladım
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Yerleşik VPN kurallarını belirledikten sonra gezinmeye devam edin
 ipprotection-site-inclusions-callout-title-lapsed-users = Yerleşik VPN’i artık site bazında deneyebilirsiniz
+ipprotection-site-inclusions-callout-description-1 = Ekstra gizlilik veya konuma dayalı gezinmek istediğinizde VPN’i açın, istemediğiniz zaman VPN’i kapatın.
 ipprotection-site-inclusions-callout-description = Ekstra gizlilik veya konuma dayalı gezinmek istediğinizde açın, istemediğiniz zaman kapatın.
 ipprotection-site-inclusions-callout-primary-button = Kuralları ayarlayın
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Şimdi değil
@@ -144,6 +146,12 @@ site-rules-status-heading = Kuralınız
 site-rules-description-exclusion = Bu sitede VPN kapalı
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = Bu sitede VPN açık
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = { $website } sitesinde VPN her zaman açılsın mı?
+    .message = Kurallarınızı istediğiniz zaman ayarlardan değiştirebilirsiniz.
 ipprotection-settings-link =
     .label = Ayarlar
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = Daha fazla bilgi al
 ip-protection-not-opted-in-4 =
     .heading = Yerleşik { -brand-short-name } VPN’i deneyin
     .message = Konumunuzu gizleyerek ekstra korumayla gezinin.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Denemeye hazır mısınız?
+    .message = Her ay { $maxUsage } GB ücretsiz kotaya sahip olun, hangi sitelerin VPN kullanacağını siz seçin.
 ip-protection-not-opted-in-button = Başla
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -283,6 +296,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Ekstra gizlilik gerektiren veya VPN’in kapatılması gereken siteler için kurallar belirleyin.
     .label = VPN kurallarını yönet
+ip-protection-site-rules-list-section-1 =
+    .description = VPN’i otomatik olarak açacak veya kapatacak kurallar belirleyin.
+    .label = Web sitesi kuralları
 ip-protection-site-rules-add-button =
     .label = Kural ekle
 ip-protection-site-rules-delete-all-button =
@@ -365,6 +381,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Tüm web sitesi kuralları silinsin mi?
 ip-protection-delete-all-site-rules-confirm =
     .label = Tüm kuralları sil
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Kural silinemedi
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Kurallar silinemedi
+ip-protection-delete-site-rule-retry =
+    .label = Yeniden dene
 
 ## IP Protection Bandwidth
 

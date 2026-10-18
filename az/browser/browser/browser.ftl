@@ -632,6 +632,11 @@ reset-pbm-toolbar-button2 =
     .label = Məxfi Seansı Təmizlə
     .tooltiptext = Məxfi Seansı Təmizlə
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-panel-complete = Səyyah məlumatları silindi
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu səhifənin avtomatik yenilənməsinin qarşısını aldı.

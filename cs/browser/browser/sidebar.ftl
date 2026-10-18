@@ -52,6 +52,10 @@ sidebar-history-sort-option-last-visited =
     .label = Poslední návštěva
 sidebar-history-sort-option-most-visited =
     .label = Nejnavštěvovanější
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Něco vám tu chybí? Importujte historii z jiného prohlížeče.
 
 ## Labels for sidebar search
 

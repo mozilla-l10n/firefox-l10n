@@ -7,3 +7,4 @@
 
 confirmation-hint-pin-tab = Sabitləndi!
 confirmation-hint-send-to-device = Göndərildi!
+confirmation-hint-tab-group-saved = Vərəq qrupu saxlandı

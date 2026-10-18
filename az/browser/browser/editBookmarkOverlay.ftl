@@ -25,9 +25,11 @@ bookmark-properties-save-button =
 
 ## Titles of the dialog used to add or edit bookmarks and folders.
 
+bookmark-properties-title-add-bookmark = Əlfəcin əlavə et
 # Title used when bookmarking multiple tabs at once into a new folder.
 bookmark-properties-title-add-multiple-bookmarks = Yeni Əlfəcinlər
 bookmark-properties-title-add-folder = Əlfəcin qovluğu əlavə et
+bookmark-properties-title-edit-bookmark = Əlfəcini düzəlt
 
 ## Default names for newly created bookmarks and folders.
 
