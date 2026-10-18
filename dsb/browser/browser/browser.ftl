@@ -1439,6 +1439,7 @@ fire-button-toolbar-button =
     .label = Někotare abo wšykne daty wašogo pśeglědowanja lašowaś
     .tooltiptext = Někotare abo wšykne daty wašogo pśeglědowanja lašowaś
 fire-button-panel-heading = Wšykne daty pśeglědowanja lašowaś?
+fire-button-panel-description = To historiju, cookieje a sedłowe daty wulašujo. Wótzjawjaju was wót sedłow. Toś to wokno se zacynijo, a { -brand-short-name } nowe wócynijo.
 fire-button-panel-choose-description = Jolic njocośo wšykno lašowaś, wubjeŕśo wěste daty město togo.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog

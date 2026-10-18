@@ -170,6 +170,7 @@ permissions-site-xr-disable-desc = To budźe websydła, kotrež horjeka w lisći
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Nastajenja – zablokowane sydła za nałoženske wotkazy
+permissions-site-app-links-desc = Tute sydła njesmědźa nałoženske wotkazy kaž e-mejlow (mailto:) wočinić. Wotstrońće sydło, zo by so směło zaso prašeć.
 
 ## Site Permissions - Camera
 
