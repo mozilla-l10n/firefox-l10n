@@ -398,12 +398,18 @@ onboarding-checklist-remove-2 = ਚੈਕ-ਲਿਸਟ ਨੂੰ ਹਟਾਓ
 
 tab-groups-onboarding-feature-callout-title = ਘੱਟ ਗਾਹ ਅਤੇ ਵੱਧ ਫੋਕਸ ਵਾਸਤੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਅਜ਼ਮਾ ਕੇ ਵੇਖੋ
 tab-groups-onboarding-feature-callout-subtitle = ਸੁਚੱਜੇ ਢੰਗ ਨਾਲ ਇੰਤਜ਼ਾਮ ਵਾਸਤੇ ਇੱਕ ਟੈਬ ਨੂੰ ਦੂਜੀ ਟੈਬ ਉੱਤੇ ਰੱਖ ਕੇ ਆਪਣਾ ਪਹਿਲਾਂ ਗਰੁੱਪ ਬਣਾਓ।
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = ਆਪਣੇ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਕਦੇ ਵੀ “ਟੈਬ ਖੋਲ੍ਹੋ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰੋ” ਵਿੱਚ ਲੱਭੋ।
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = ਸਭ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਲੱਭੋ।
 tab-groups-onboarding-create-group-no-alltabs-button-title = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਆਪਣੇ ਗਰੁੱਪਾਂ ਨੂੰ ਖੋਜ ਕੇ ਲੱਭੋ।
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = ਜਦੋਂ ਤੁਸੀਂ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਇਸ ਨੂੰ ਕਦੇ ਵੀ “ਟੈਬ ਖੋਜੋ ਅਤੇ ਇੰਤਜ਼ਾਮ” ਮੇਨੂ ਤੋਂ ਫੇਰ ਖੋਲ੍ਹੋ।
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = ਜਦੋਂ ਤੁਸੀਂ ਕਿਸੇ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਬੰਦ ਕਰਦੇ ਹੋ ਤਾਂ ਸਭ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਇਸ ਨੂੰ ਫੇਰ ਖੋਲ੍ਹੋ।
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਵਿੱਚ ਆਪਣੇ ਬੰਦ ਕੀਤੇ ਗਰੁੱਪਾਂ ਨੂੰ ਖੋਜ ਕੇ ਲੱਭੋ।
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = ਆਪਣੇ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਕਦੇ ਵੀ “ਟੈਬ ਖੋਲ੍ਹੋ ਅਤੇ ਇੰਤਜ਼ਾਮ ਕਰੋ” ਵਿੱਚੋਂ ਮੁੜ-ਖੋਲ੍ਹੋ।
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = ਸਭ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਆਪਣੇ ਟੈਬ ਗਰੁੱਪਾਂ ਨੂੰ ਫੇਰ ਖੋਲ੍ਹੋ।
 tab-groups-onboarding-dismiss = ਠੀਕ ਹੈ

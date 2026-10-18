@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = ਕਲਾਸਿਕ ਵਿੰਡੋ
 toolbar-switcher-customizable-label =
     .label = { -smart-window-brand-name } ਸਵਿੱਚਰ
     .tooltiptext = ਸਮਾਰਟ ਅਤੇ ਕਲਾਸਿਕ ਵਿੰਡੋ ਵਿਚਾਲੇ ਬਦਲ
+toolbar-switcher-customizable-label-v2 =
+    .label = { -smart-window-brand-name } ਸਵਿੱਚਰ
+    .tooltiptext = ਸਮਾਰਟ ਅਤੇ ਕਲਾਸਿਕ ਵਿੰਡੋ ਵਿਚਾਲੇ ਬਦਲੋ
 
 ## Input CTA
 
@@ -79,6 +82,7 @@ smartbar-placeholder-hint-4 = …ਵੈੱਬ ਉੱਤੇ ਖੋਜੋ
 
 smartbar-mention-typing-placeholder = ਟੈਬ ਜਾਂ ਸਾਈਟ ਨੂੰ ਟੈਗ ਕਰੋ
 smartbar-mentions-list-no-results-label = ਨਤੀਜੇ ਨਹੀਂ ਲੱਭੇ
+smartbar-mentions-list-tab-groups-label = ਸੱਜਰੇ ਗਰੁੱਪ
 smartbar-mentions-list-recent-tabs-label = ਸੱਜਰੀਆਂ ਟੈਬਾਂ
 
 ## Context mentions menu toggle button

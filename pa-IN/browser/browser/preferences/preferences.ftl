@@ -1797,6 +1797,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = ਚੁਣੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਇਕਸਟੈਸ਼ਨਾਂ ਇੰਸਟਾਲ ਕਰ ਸਕਦੀਆਂ ਹਨ
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = ਸਾਈਟਾਂ ਨੂੰ ਐਪ ਲਿੰਕ ਖੋਲ੍ਹਣ ਲਈ ਪੁੱਛਣ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ
+    .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = ਪਾਬੰਦੀ ਲਾਈਆਂ ਸਾਈਟਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+    .accesskey = M
 permissions-location2 =
     .label = ਟਿਕਾਣਾ
 permissions-localhost2 =

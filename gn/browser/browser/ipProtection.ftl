@@ -276,6 +276,11 @@ ip-protection-site-rules-rule-excluded = VPN oguememéva
 ip-protection-site-rules-edit-button =
     .aria-label = Embosako’i mbojojaha { $website } peg̃uarã
     .title = Mbosako’i
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Embogue mbojojaha { $website }-pe g̃uarã
+    .title = Mboguete
 ip-protection-site-rules-header =
     .heading = Eñangareko ñanduti rogue mbojojaháre
 ip-protection-site-rules-button =
@@ -299,6 +304,35 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Eñangareko ñanduti rogue ñembohekóre
 ip-protection-exclusions-desc = Eiporu VPN opaite ñanduti rogue ha’eỹva ko tysyipegua. Embojuaju ñanduti rogue ápe térã embojuruja VPN.
+ip-protection-site-rule-window =
+    .title = Emoĩ mbojojaha
+ip-protection-edit-site-rule-window =
+    .title = Embosako’i mbojojaha
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Mboheko
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Ñongatu
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Ehai tenda, upéi eiporavo VPN rekotee.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Ñanduti rogue
+    .placeholder = ej: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN rekotee
+ip-protection-site-rule-status-on =
+    .label = Hendymeme
+ip-protection-site-rule-status-off =
+    .label = Oguememe
+ip-protection-delete-site-rule-cancel =
+    .label = Eheja
+ip-protection-delete-site-rule-confirm =
+    .label = Embogue
+ip-protection-delete-site-rule-retry =
+    .label = Eha’ã jey
 
 ## IP Protection Bandwidth
 

@@ -10,6 +10,9 @@ theme-picker-mode-device = ਡਿਵਾਈਸ
 # Accessible name for the group of light/dark/device buttons.
 theme-picker-mode =
     .aria-label = ਦਿੱਖ
+# Accessible name for the list of themes.
+theme-picker-themes =
+    .aria-label = ਥੀਮ
 theme-picker-use-linux-theme =
     .label = ਲੀਨਕਸ ਸਿਸਟਮ ਥੀਮ ਨੂੰ ਵਰਤੋਂ
 

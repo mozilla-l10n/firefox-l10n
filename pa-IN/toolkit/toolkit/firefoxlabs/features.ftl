@@ -17,6 +17,8 @@ experimental-features-group-customize-browsing =
     .label = ਆਪਣੀ ਬਰਾਊਜ਼ਿੰਗ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
 experimental-features-group-productivity =
     .label = ਉਤਪਾਦਨ
+experimental-features-group-newtab-widgets =
+    .label = { -firefox-home-brand-name } ਉੱਤੇ ਵਿਜੈੱਟ
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = ਨਵੀਂ ਟੈਬ ਵਾਸਤੇ ਪਸੰਦੀਦਾ ਵਾਲਪੇਪਰ ਜਾਂ ਕੋਈ ਰੰਗ ਚੁਣੋ

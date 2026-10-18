@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = ਪਿਛਲੀ ਵਾਰ ਖੋਲ੍ਹੋ
 sidebar-history-sort-option-most-visited =
     .label = ਅਕਸਰ ਖੋਲ੍ਹੇ
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = ਕੁਝ ਨਹੀਂ ਹੈ? ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਅਤੀਤ ਲਵੋ।
+sidebar-history-import-promo-button =
+    .label = { -brand-short-name } ਲਈ ਇੰਪੋਰਟ ਕਰੋ
 
 ## Labels for sidebar search
 

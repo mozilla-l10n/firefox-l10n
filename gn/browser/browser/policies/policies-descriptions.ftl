@@ -138,6 +138,7 @@ policy-RelaunchRequired = Ejerure { -brand-short-name } toñepyrũ jey peteĩ ar
 policy-RequestedLocales = Emopyenda tenda jerurepyre rusýi emomba’apo hag̃ua hekoitépe.
 policy-SanitizeOnShutdown2 = Emboguete kundaha mba’ekuaarã esẽnguévo.
 policy-SearchBar = Emboheko jehekaha rendaite ijypykue rupi. Pe poruhára ikatu gueteri oñemomba’e hese.
+policy-SearchEngines2 = Emboheko jehekaha poravorã.
 policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko porureko eiporukuaa pe Extended Support Release (ESR) rupive.
 policy-SearchSuggestEnabled = Emyandy térã embogue jeheka rehegua.
 # For more information, see https://wikipedia.org/wiki/PKCS_11

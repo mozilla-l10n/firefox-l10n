@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = ਤੁਹਾਡੇ ਵਰਚੁਅਲ ਰਿਐਲਟੀ ਡਿਵਾਈਸ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪੁੱਛਣ ਦੀਆਂ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 permissions-site-xr-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ ਨਾ ਹੋਣ ਵਾਲੀਆਂ ਕਿਸੇ ਵੀ ਵੈਬਸਾਈਟ ਨੂੰ ਤੁਹਾਡੇ ਵਰਚੁਅਲ ਰਿਐਲਟੀ ਡਿਵਾਈਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੀ ਬੇਨਤੀ ਕਰਨ ਤੋਂ ਰੋਕੇਗਾ। ਤੁਹਾਡੇ ਵਰਚੁਅਲ ਰਿਐਲਟੀ ਡਿਵਾਈਸ ਤੱਕ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਲਈ ਕੁਝ ਵੈਬਸਾਈਟ ਫੀਚਰ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਨ।
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = ਸੈਟਿੰਗਾਂ - ਐਪ ਲਿੰਕਾਂ ਲਈ ਪਾਬੰਦੀ ਲਾਈਆਂ ਸਾਈਟਾਂ
+permissions-site-app-links-desc = ਇਹਨਾਂ ਸਾਈਟਾਂ ਉੱਤੇ ਐਪ ਲਿੰਕ ਖੋਲ੍ਹਣ ਲਈ ਪੁੱਛਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਗਈ ਹੈ, ਜਿਵੇਂ ਕਿ ਈਮੇਲ (mailto:)। ਸਾਈਟ ਨੂੰ ਇੱਥੋਂ ਹਟਾਉਣ ਨਾਲ ਉਸ ਨੂੰ ਫੇਰ ਪੁੱਛਣ ਦੀ ਇਜਾਜ਼ਤ ਹੋਵੇਗੀ।
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
