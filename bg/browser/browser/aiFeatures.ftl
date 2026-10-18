@@ -4,6 +4,7 @@
 
 preferences-ai-controls-block-confirmation-smart-window = { -smart-window-brand-name }
 smart-window-block-title = Блокиране на { -smart-window-brand-name }?
+smart-window-block-description-chats = Това ще изтрие вашите разговори в { -smart-window-brand-name }.
 ai-window-features-group =
     .description = Задавайте въпроси, сравнявайте страници и получавайте персонализирани предложения с вграден асистент.
     .label = { -smart-window-brand-name }
