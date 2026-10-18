@@ -56,8 +56,8 @@ inspector-emulation-panel-color-scheme-dark = شوخ
 inspector-emulation-panel-color-scheme-none = کوئی ایمولیشن نہیں
     .aria-label = کلر سکیم ایمولیشن غیر فعال کرو
 # A label text for the reduced motion emulation radio button option.
-inspector-emulation-panel-reduced-motion-reduce = ڳھٹاؤ
-    .aria-label = ڳھٹی ہوئی موشن ایمولیشن فعال کرو
+inspector-emulation-panel-reduced-motion-reduce = گھٹاؤ
+    .aria-label = گھٹی ہوئی موشن ایمولیشن فعال کرو
 # A label text for the no preference for reduced motion emulation radio button option.
 inspector-emulation-panel-reduced-motion-no-preference = کوئی ترجیح نہیں
     .aria-label = ریڈیوسڈ موشن ایمولیشن کیتے کوئی ترجیح نہیں فعال کرو
