@@ -322,6 +322,8 @@ ip-protection-delete-site-rule-confirm =
     .label = Slett
 ip-protection-delete-all-site-rules-confirm =
     .label = Slett alle reglar
+ip-protection-delete-site-rule-retry =
+    .label = Prøv igjen
 
 ## IP Protection Bandwidth
 

@@ -501,6 +501,10 @@ newtab-picture-set-wallpaper =
     .title = Bruk som bakgrunnsbilde
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Handsam bakgrunnsbilde
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Skjul dette bildet
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Vis bilde
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Skjul dagens bilde
@@ -508,6 +512,10 @@ newtab-picture-menu-hide-photo = Skjul dagens bilde
 newtab-picture-menu-show-photo = Vis dagens bilde
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Les meir
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Vis bilde
+    .title = Vis bilde
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Vis dagens bilde
@@ -559,6 +567,11 @@ newtab-recent-searches-empty-trending = Populære søk er ikkje tilgjengelege ak
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskop
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Opne horoskopmenyen
+    .title = Opne horoskopmenyen
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Horoskop-innstillingar
@@ -567,6 +580,14 @@ newtab-horoscopes-menu-learn-more = Les meir
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Reise
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Opne menyen for reiser
+    .title = Opne menyen for reiser
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Les meir
 
@@ -878,6 +899,10 @@ newtab-custom-widget-search-toggle =
     .label = Søk
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskop
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Reise
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar
