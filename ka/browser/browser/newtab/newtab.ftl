@@ -498,12 +498,19 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = დღის სურათის მენიუს გახსნა
     .title = დღის სურათის მენიუს გახსნა
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = დააყენეთ ფონად ეს სურათი
+    .label = ფონად დაყენება
+    .title = ფონად დაყენება
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
     .aria-label = დააყენეთ ფონად დღის სურათი
-    .label = ფონის დაყენება
-    .title = ფონის დაყენება
+    .label = ფონად დაყენება
+    .title = ფონად დაყენება
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = ფონის მართვა
 # Context menu item that hides today’s picture, replacing it with an existing

@@ -75,7 +75,7 @@ about-private-browsing-felt-privacy-v1-info-link = ვისთვის შე�
 
 about-private-browsing-nova-info-body = ყველა პირადი ფანჯრის დახურვის შემთხვევაში თქვენი ფუნთუშები, ისტორია და საიტის მონაცემები წაიშლება.
 about-private-browsing-nova-info-link = მაინც ვისთვის შეიძლება იყოს ხილული ჩემი საქმიანობა?
-about-private-browsing-private-window-basics-link = პირადი ფანჯრის საფუძვლები
+about-private-browsing-private-window-basics-link = პირადი ფანჯრის შესახებ
 about-private-browsing-private-window-redesign-subheader = { -brand-short-name } შექმნილია თქვენი პირადულობის უზრუნველსაყოფად გვერდების მონახულებისას, თანმომყოლი დაცვით თვალთვალის ასარიდებლად. ამ ფანჯრის დახურვა წაშლის მის ისტორიას, ფუნთუშებსა და საიტის მონაცემებს, რომ თქვენ მიერ ნანახი გვერდების მონაცემები დატოვოს პირადი და არ გაუმჟღავნოს სხვებს, ვინც ამ მოწყობილობით ისარგებლებს.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
@@ -85,8 +85,8 @@ about-private-browsing-nova-info-subheader2 = ჩვენ წავშლით
 
 ## Strings for the Private Window basics spotlight
 
-about-private-browsing-spotlight-basics-title = პირადი ფანჯრის საფუძვლები
-about-private-browsing-spotlight-basics-subtitle = პირადი ფანჯრები გეხმარებათ, დატოვოთ მონახულებული გვერდების მონაცემები პირადი და უხილავი ამ მოწყობილობის სხვა მომხმარებლებისგან. მათი მეშვეობით ვერ მოხერხდება ვინაობის გაუმხელობა ან ყველა მონაცემისგან გასუფთავება.
+about-private-browsing-spotlight-basics-title = პირადი ფანჯრის შესახებ
+about-private-browsing-spotlight-basics-subtitle = პირადი ფანჯრები გეხმარებათ, დატოვოთ მონახულებული გვერდების მონაცემები პირადი და უხილავი ამ მოწყობილობის სხვა მომხმარებლებისგან. არაა განკუთვნილი ვინაობის დასაფარად ან ყველა მონაცემისგან გასუფთავებისთვის.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = რა უნდა იცოდეთ

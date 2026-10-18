@@ -435,6 +435,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Ehechauka mbosako’iha eñongatúvo
     .accesskey = S
+bookmark-panel-save-button2 =
+    .label = Ñongatu
+    .accesskey = a
 bookmark-panel-save-button =
     .label = Ñongatu
 # Width of the bookmark panel.
@@ -963,6 +966,12 @@ urlbar-view-context-menu-open-in-window2 = Eike Ovetã Pyahúpe
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = Eike Ovetã Ñemigua Pyahúpe
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Ehasánte ko poravoha eiporúvo tab
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 
@@ -1277,6 +1286,9 @@ tabs-toolbar =
     .aria-label = Kundahára rendayke
 tabs-toolbar-new-tab =
     .label = Tendayke pyahu
+tabs-toolbar-list-all-tabs-2 =
+    .label = Eheka ha eñangareko tendaykeita
+    .tooltiptext = Eheka ha eñangareko tendaykeita
 tabs-toolbar-list-all-tabs =
     .label = Opaite tendayke jehechauka
     .tooltiptext = Opaite tendayke jehechauka
@@ -1302,6 +1314,8 @@ filepicker-blocked-infobar = Nde atyguasu ojokóma marandurendápe jeike ko mohe
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
 urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ohekahína tendayke
+urlbar-addons-shortcut-moved-description = Embojuruja hag̃ua jepysokue ha téma, eiporu { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Eñangareko mbopya’eha
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
