@@ -1316,6 +1316,7 @@ filepicker-blocked-infobar = Nde atyguasu ojokóma marandurendápe jeike ko mohe
 urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ohekahína tendayke
 urlbar-addons-shortcut-moved-description = Embojuruja hag̃ua jepysokue ha téma, eiporu { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = Eñangareko mbopya’eha
+urlbar-addons-shortcut-moved-dismiss = Aikũmby
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1392,6 +1393,22 @@ reset-pbm-panel-complete = Oguéma mba’ekuaarã rembiapo ñemi
 reset-pbm-toolbar-button2 =
     .label = Embogue Jeike Ñemigua
     .tooltiptext = Embogue Jeike Ñemigua
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-panel-heading = ¿Emboguepa kundahára mba’ekuaarã?
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Eiporavo…
+fire-button-panel-cancel-button =
+    .label = Heja
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = Emboguepaite
+    .accesskey = D
+fire-button-panel-complete = Oñembogue kundahára mba’ekuaarã
 
 ## Autorefresh blocker
 

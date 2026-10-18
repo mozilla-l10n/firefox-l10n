@@ -94,10 +94,10 @@ about-private-browsing-spotlight-basics-activity-seen = გარკვეულ
 about-private-browsing-spotlight-basics-bookmarks-downloads = სანიშნები და ჩამოტვირთვები რჩება მოწყობილობაზევე და შესაძლოა, გამოჩნდეს მისამართების ველში.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
-about-private-browsing-spotlight-basics-more-privacy = პირადულობის უკეთ დაცვა
+about-private-browsing-spotlight-basics-more-privacy = პირადულობის უკეთ დასაცავად
 about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } თავისთავად გაცნობებთ მავნე და თაღლითური საიტების შესახებ.
 # "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
-about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } თავადვე მოსთხოვს შეთანხმებაში მონაწილე საიტებს, არ გაყიდონ და არავის გაუზიარონ თქვენი პირადი მონაცემები.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } თავადვე მოითხოვს შეთანხმებაში მონაწილე საიტებისგან, არ გაყიდონ და არავის გაუზიარონ თქვენი პირადი მონაცემები.
 about-private-browsing-spotlight-basics-vpn = გამოიყენეთ ჩაშენებული VPN თქვენი მდებარეობის შესანიღბად.
 # "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
 # Translations should be consistent with the existing "Strict" string in about:preferences.
