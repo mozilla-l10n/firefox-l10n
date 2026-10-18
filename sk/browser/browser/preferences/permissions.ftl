@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Blokovať nové žiadosti o prístup k zariadeniam pre virtuálnu realitu
 permissions-site-xr-disable-desc = Týmto zakážete webovým stránkam, ktoré nie sú uvedené v zozname vyššie, požiadať o prístup k vašim zariadeniam pre virtuálnu realitu. Blokovanie prístupu k zariadeniam pre virtuálnu realitu môže rozbiť niektoré funkcie stránok.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Nastavenia – Blokované stránky pre otváranie odkazov v aplikáciách
+permissions-site-app-links-desc = Tieto stránky nemôžu žiadať o otvorenie odkazov v aplikáciách, napríklad e-mailových odkazov (mailto:). Ak chcete stránke znova povoliť odosielanie takýchto žiadostí, odstráňte ju zo zoznamu.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

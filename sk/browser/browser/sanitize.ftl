@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Vymazanie celej histórie
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Odstránenie údajov o prehliadaní
 clear-data-settings-label = Pri zatvorení aplikácie { -brand-short-name } automaticky vymazať
 sanitize-on-shutdown-description = Pri ukončení { -brand-short-name(case: "gen") } automaticky vymazať všetky označené položky.
 
@@ -116,6 +123,14 @@ sanitize-button-ok2 =
     .label = Vymazať
 sanitize-button-ok-on-shutdown =
     .label = Uložiť zmeny
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Odstrániť
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Zavrieť
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

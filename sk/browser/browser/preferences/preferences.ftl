@@ -1799,6 +1799,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Vyberte, ktoré webové stránky môžu inštalovať rozšírenia
     .accesskey = e
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Povoliť webovým stránkam žiadať o otvorenie odkazov v aplikáciách.
+    .accesskey = w
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Spravovať blokované stránky
+    .accesskey = b
 permissions-location2 =
     .label = Poloha
 permissions-localhost2 =

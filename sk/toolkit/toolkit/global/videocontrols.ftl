@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Formát videa alebo typ MIME nie je podp
 videocontrols-error-no-source = Nebolo nájdené video s podporovaným formátom a typom MIME.
 videocontrols-error-generic = Prehrávanie videa bolo prerušené kvôli neznámej chybe.
 videocontrols-status-picture-in-picture = Toto video sa prehráva ako Obraz v obraze.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Video sa prehráva v režime Obraz v obraze
 # This message shows the current position and total video duration
 #
 # Variables:
