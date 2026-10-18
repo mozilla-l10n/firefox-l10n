@@ -2,7 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Pəncərələr və cihazlar üzrə son səyahətinizə baxış keçirin.
 firefoxview-tabpickup-password-locked-primarybutton = Baş Parolu daxil edin
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+firefoxview-opentabs-nav = Açıq vərəqlər
+    .title = Açıq vərəqlər
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
