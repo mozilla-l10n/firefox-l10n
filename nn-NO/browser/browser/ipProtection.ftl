@@ -329,9 +329,16 @@ ip-protection-site-rule-window =
     .title = Fastset regel
 ip-protection-edit-site-rule-window =
     .title = Rediger regel
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Fastset
+    .buttonaccesskeyaccept = F
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Lagre
     .buttonaccesskeyaccept = L
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Nettstad
+    .placeholder = Døme: acme.com
 # VPN status refers to a state of 'always on' or 'always off' applied to a site
 ip-protection-site-rule-status-field =
     .label = VPN-status
@@ -339,6 +346,10 @@ ip-protection-site-rule-status-on =
     .label = Alltid på
 ip-protection-site-rule-status-off =
     .label = Alltid av
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Skriv inn ei gyldig nettstadadresse.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Denne nettstaden har allereie ein regel.
 ip-protection-delete-site-rule-cancel =
     .label = Avbryt
 ip-protection-delete-site-rule-confirm =
