@@ -43,3 +43,14 @@ toolbox-always-on-top-enabled2 = ہمیشاں اوتے غیر فعال بݨاؤ
     .title = ایہ ڈویلپر ٹولز کوں دوبارہ شروع کریسے
 toolbox-always-on-top-disabled2 = ہمیشاں اوتے فعال بݨاؤ
     .title = ایہ ڈویلپر ٹولز کوں دوبارہ شروع کریسے
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+# Variables:
+#   $url (String): The local mode URL
+toolbox-local-mode-notice = ایندا دستاویز “{ $url }” توں DevTools دے لوکل موڈ نال وی لوڈ تھی سڳدی اے، جینکوں ترتیبات پینل وچ فعال کیتا ونڄ سڳدا اے۔
+toolbox-local-mode-notice-add-to-settings-button = ترتیبات وچ شامل کرو
+toolbox-local-mode-notice-try-it-button = کوشش کرو
+toolbox-local-mode-notice-navigate-to-existing-mapping = موجودہ میپنگ تے ونڄو
+toolbox-local-mode-notice-always-hide = مینکوں ایہ ٻیا نہ ݙکھاؤ

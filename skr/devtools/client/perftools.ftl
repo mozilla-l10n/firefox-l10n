@@ -91,6 +91,14 @@ perftools-button-add-directory = ڈائریکٹری شامل کرو
 perftools-button-remove-directory = منتخب شدہ ہٹاؤ
 perftools-button-edit-settings = سیٹنگز وچ تبدیلی کرو…
 
+## More actions menu
+
+perftools-menu-more-actions-button =
+    .title = ٻئے کم
+perftools-menu-more-actions-restart-with-profiling = اسٹارٹ اَپ پروفائلنگ فعال کر کے { -brand-shorter-name } ٻیا شروع کرو
+perftools-menu-more-actions-copy-for-startup = اسٹارٹ اَپ پروفائلنگ کیتے ماحول دے متغیر کاپی کرو
+perftools-menu-more-actions-copy-for-perf-tests = کارکردگی دے ٹیسٹ کیتے پیرامیٹر کاپی کرو
+
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
 perftools-thread-gecko-main =
@@ -111,6 +119,8 @@ pref-thread-stream-trans =
     .title = نیٹ ورک سٹریم ٹرانسپورٹ
 perftools-thread-socket-thread =
     .title = او تھریڈ جتھاں نیٹ ورکنگ کوڈ کہیں وی بلاکنگ ساکٹ کال کوں چلیندا ہے۔
+perftools-thread-jxl-img-decode =
+    .title = JPEG XL تصویری ڈی کوڈنگ تھریڈز
 perftools-thread-img-decoder =
     .title = تصویری ڈی کوڈنگ تھریڈز
 perftools-thread-dns-resolver =
@@ -153,10 +163,17 @@ perftools-presets-graphics-label = گرافکس
 perftools-presets-graphics-description = { -brand-shorter-name } وِچ گرافکس دیاں خرابیاں دی چھان بین کیتے پری سیٹ۔
 perftools-presets-media-label = میڈیا
 perftools-presets-media-description2 = { -brand-shorter-name } وِچ آڈیو تے ویڈیو بگز دی چھان بین کیتے پری سیٹ۔
+perftools-presets-ml-label = مشین لرننگ
+perftools-presets-ml-description2 = { -brand-shorter-name } وچ مشین لرننگ دے بگ دی جانچ پڑتال کیتے پیش سیٹ۔
 perftools-presets-networking-label = نیٹ ورکنگ
 perftools-presets-networking-description = { -brand-shorter-name } وِچ نیٹ ورکنگ بگز دی چھان بین کیتے پری سیٹ۔
+perftools-presets-networking-with-logs-label = لاگز نال نیٹ ورکنگ
+perftools-presets-networking-with-logs-description = { -brand-shorter-name } وچ نیٹ ورکنگ دے بگ دی جانچ پڑتال کیتے پیش سیٹ، نیٹ ورکنگ لاگز سمیت۔ ایناں لاگز وچ حساس معلومات ہو سگدین جیویں تساں جے وزٹ کیتے گئے URLs۔
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = بجلی
 perftools-presets-power-description = گھٹ اوور ہیڈ دے نال { -brand-shorter-name } وِچ پاور استعمال بگز دی چھان بین کیتے پری سیٹ۔
 perftools-presets-debug-label = ڈیبگ
+perftools-presets-debug-description = { -brand-shorter-name } وچ ڈی بگنگ کیتے پیش سیٹ۔ ودھ اوور ہیڈ، کارکردگی دے کم کیتے استعمال نہ کرو بلکہ براؤزر دے رویے کوں سمجھن تے توجہ ݙیون کیتے استعمال کرو۔
+perftools-presets-web-compat-label = ویب مطابقت
+perftools-presets-web-compat-description = ویب سائٹس وچ ویب کمپیٹیبیلٹی دے مسئلے ڈی بگ کرن کیتے تجویز کردہ پیش سیٹ، کارکردگی کوں ٹریک کرن دی بجائے۔
 perftools-presets-custom-label = مخصوص

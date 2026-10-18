@@ -36,6 +36,8 @@ storage-variable-view-search-box =
 # Add Item button title
 storage-add-button =
     .title = شے شامل کرو
+storage-delete-all-button =
+    .title = سارے مٹاؤ
 # Refresh button title
 storage-refresh-button =
     .title = شے کوں تازہ کرو
@@ -71,6 +73,7 @@ storage-table-headers-cookies-expires = میعاد ختم / زیادہ توں ز
 storage-table-headers-cookies-size = سائز
 storage-table-headers-cookies-last-accessed = چھیکڑی واری رسائی
 storage-table-headers-cookies-creation-time = بݨایا ڳیا
+storage-table-headers-cookies-update-time = اپ ڈیٹ تھی ڳیا
 storage-table-headers-cache-status = حالت
 storage-table-headers-extension-storage-area = سٹوریج دا علاقہ
 
@@ -107,3 +110,11 @@ storage-idb-delete-blocked = ڈیٹا بیس { $dbName } تمام کنکشن ب�
 # Variables:
 #   $dbName (String) - Name of the database
 storage-idb-delete-error = ڈیٹا بیس { $dbName } حذف نہیں تھی سڳدے۔
+# Error notification when cookie could not be created (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-create-error = کوکی بݨائی نہ ونڄ سڳی: “{ $errorString }”۔
+# Error notification when cookie could not be edited (e.g. because it's invalid).
+# Variables:
+#   $errorString (String) - Platform error message
+storage-cookie-edit-error = کوکی اپ ڈیٹ نہ کیتی ونڄ سڳی: “{ $errorString }”۔

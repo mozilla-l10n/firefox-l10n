@@ -30,10 +30,18 @@ options-context-inspector = معائنہ کرݨ والا
 options-show-user-agent-styles-label = براؤزر انداز ݙکھاؤ
 options-show-user-agent-styles-tooltip =
     .title = اینکوں آن کرݨ نال ڈیفالٹ سٹائل نظر آوسن جیڑھے براؤزر دے ذریعے لوڈ کیتے ڳئے ہن۔
+# The label for the checkbox option to show all anonymous content
+options-show-user-agent-shadow-dom-label = براؤزر شیڈو DOM ݙکھاؤ
+options-show-user-agent-shadow-dom-tooltip =
+    .title = ایندا کوں چالو کرݨ نال براؤزر دے ہینڈل کیتے ڳئے شیڈو DOM ایلیمنٹس ݙکھائے ویسن۔
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM دیاں خصوصیات کوں تراشو۔
 options-collapse-attrs-tooltip =
     .title = معائنہ کار وِچ لمبیاں صفتاں کٹ ݙیوو
+# The label for the checkbox option to enable the display of comments in the Inspector
+options-show-comments-label = تبصرے ݙکھاؤ
+options-show-comments-tooltip =
+    .title = انسپیکٹر وچ تبصرہ نوڈز ݙکھاؤ
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = سائز دیاں قدراں وِچ ترمیم کرݨ کیتے کلک کرو تے گھیلو
 options-inspector-draggable-properties-tooltip =
@@ -67,6 +75,35 @@ options-webconsole-label = ویب کنسول
 options-webconsole-split-console-label = سپلٹ کنسول کوں فعال کرو
 options-webconsole-split-console-tooltip =
     .title = ایسکیپ بٹݨ دے نال سپلِٹ کنسول کھولو
+
+## Network Monitor section
+
+# The heading
+options-netmonitor-label = نیٹ ورک مانیٹر
+# The label for the input defining the limit of stored request and response body size
+options-netmonitor-body-limit-label = درخواست تے جواب دے باڈی دا زیادہ توں زیادہ سائز (لامحدود کیتے 0 تے سیٹ کرو):
+options-netmonitor-body-limit-tooltip =
+    .title = درخواست یا جواب دے باڈیز جیہڑے متعین کردہ سائز توں ودھ ونجن، نیٹ ورک مانیٹر وچ ݙکھائے یا ڈاؤن لوڈ کیتے ویلے کٹ ݙتے ویسن۔ کوئی حد نہ ہووے کیتے 0 تے سیٹ کرو۔
+# Text shown in the input when there is no limitation (instead of showing "0")
+options-netmonitor-body-limit-unlimited-label = لامحدود
+options-netmonitor-body-limit-button =
+    .title = زیادہ توں زیادہ درخواست/جواب دے باڈی دا سائز تبدیل کرو۔
+options-netmonitor-body-limit-restore-default =
+    .title = زیادہ توں زیادہ درخواست/جواب دے باڈی دے سائز دی ڈیفالٹ قیمت بحال کرو۔
+options-netmonitor-body-limit-set =
+    .title = موجودہ ان پٹ دی قیمت کوں زیادہ توں زیادہ درخواست/جواب دے باڈی دا سائز سیٹ کرو۔
+
+## Experimental section
+
+# The heading
+options-experimental-label = تجرباتی خصوصیات
+# The label for the checkbox that toggles showing stylesheets in the debugger
+options-stylesheets-in-the-debugger-label = ڈی بگر وچ اسٹائل شیٹس ݙکھاؤ
+options-stylesheets-in-the-debugger-tooltip =
+    .title = ڈی بگر وچ اسٹائل شیٹس دی فہرست بݨاؤ تے ݙکھاؤ۔
+# The message shown for settings that indicates that the attached setting requires the
+# toolbox to be reopened to take effect.
+options-reopen-toolbox-message = (ٹول باکس کوں ٻیا کھولݨ دی ضرورت اے)
 
 ## Style Editor section
 
@@ -107,6 +144,40 @@ options-sourceeditor-tabsize-label = ٹیب سائز
 options-sourceeditor-keybinding-label = بٹن بائنڈنگ
 options-sourceeditor-keybinding-default-label = ڈیفالٹ
 
+## Local Mode section
+
+# The heading
+options-local-mode-label = لوکل موڈ
+options-local-mode-only-work-locally = لوکل موڈ صرف مقامی طور تے کم کریندا اے، تے ریموٹ کانٹیکسٹس کوں ڈی بگ کرݨ ویلے غیر فعال تھی ویندا اے۔
+options-local-mode-behavior = لوکل موڈ تساں کوں https URL دے ذریعے مقامی فائلز لوڈ کرݨ دی اجازت ݙیندا اے، بغیر کہیں بیرونی انحصار دے۔ URLs صرف ایندے ٹیبس توں لوڈ کیتے ونڄ سڳدے ہن جیندے وچ DevTools کھلیا ہوے۔
+options-local-mode-domain-label = کسٹم ڈومین:
+options-local-mode-origin-input =
+    .placeholder = لوکل میپنگ کیتے اوریجن
+# Errors shown when the origin input has an error
+options-local-mode-origin-conflict = ایہ اوریجن کہیں ٻئی موجودہ میپنگ نال ٹکراو کھاندی اے۔
+options-local-mode-origin-invalid = ایہ اوریجن غلط اے۔
+options-local-mode-folder-label = لوکل فولڈر:
+options-local-mode-choose-folder = براؤز…
+    .title = ایندا میپنگ کیتے لوکل فولڈر چنو۔
+# Dialog's title when picking a folder for a mapping
+# Variables:
+#   $url (String): The url for the mapping being configured
+options-local-mode-choose-folder-picker-title = { $url } کیتے لوکل موڈ دا فولڈر چنو:
+# Error shown when the folder is invalid
+# (can easily be triggered when using about:config and changing underlying mappings prefs)
+options-local-mode-folder-invalid = ایہ فولڈر موجود نہیں اے، یا غلط اے۔
+options-local-mode-toggle =
+    .title = ایندا لوکل میپنگ کوں ٹوگل کرو۔
+options-local-mode-toggle-enable = فعال کرو
+options-local-mode-toggle-disable = غیر فعال کرو
+options-local-mode-navigate-to =
+    .title = ایندا میپنگ URL تے ونڄو۔
+# Dialog message prompted when clicking on the Delete button
+# Variables:
+#   $mappingOrigin (String): The origin for the mapping
+options-local-mode-confirm-deletion = کیا تساں “{ $mappingOrigin }” میپنگ کوں ہٹاون چاہندے ہو؟
+options-local-mode-new-mapping = نویں لوکل میپنگ شامل کرو
+
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
@@ -115,6 +186,8 @@ options-context-advanced-settings = ایڈوانس ترتیباں
 options-disable-http-cache-label = HTTP کیشے کوں غیر فعال کرو (جݙاں ٹول باکس کھلیا ہووے)
 options-disable-http-cache-tooltip =
     .title = ایں آپشن کوں آن کرݨ نال انہاں تمام ٹیباں کیتے HTTP کیش غیر فعال تھی ویسے جنہاں وِچ ٹول باکس کھلا ہے۔ سروس ورکرز ایں اختیار نال متاثر نہیں تھیندے۔
+# The label for checkbox that toggles JavaScript on or off
+options-disable-javascript-label-2 = جاوا اسکرپٹ غیر فعال کرو
 options-disable-javascript-tooltip =
     .title = ایں آپشن کوں آن کرݨ نال موجودہ ٹیب کیتے JavaScript غیر فعال تھی ویسے۔ جے ٹیب یا ٹول باکس بند ہے تاں ایہ ترتیب بھل ویسے۔
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -141,6 +214,12 @@ options-enable-service-workers-http-tooltip =
 options-source-maps-label = سورس نقشے فعال بݨاؤ
 options-source-maps-tooltip =
     .title = جے تساں ایں اختیار کوں فعال کریندے او تاں ذرائع کوں ٹولز وِچ میپ کیتا ویسے۔
+# The message shown for settings that trigger page reload and will only apply to the current session
+# This appears underneath the applicable options (e.g. options-disable-javascript-label-2).
+options-context-triggers-page-refresh-temporary = (صرف موجودہ سیشن، ورقہ کیتے دوبارہ لوڈ کریندا اے۔)
+# The message shown for settings that trigger page reload
+# This appears underneath the applicable options (e.g. options-show-user-agent-shadow-dom-label).
+options-context-triggers-page-refresh-persists = (ورقہ کیتے دوبارہ لوڈ کریندا اے۔)
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:
