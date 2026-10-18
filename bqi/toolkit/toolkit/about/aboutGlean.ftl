@@ -11,3 +11,5 @@ about-glean-feedback-settings-and-ping =
     .message = سامووا ائمال وابین وو پینگ فشناڌه وابی!
 # Header for a section that shows client information
 about-glean-submitted-ping-client-info-title = دووسمندیا موشتری
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = دووسمندیا پینگ

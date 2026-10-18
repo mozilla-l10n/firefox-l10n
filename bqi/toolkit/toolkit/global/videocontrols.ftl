@@ -21,6 +21,8 @@ videocontrols-closed-caption-off =
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = شؽوات من شؽوات
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = فیلم من هالت شؽوات من شؽوات پشک ابۊ
 # This message shows the current position and total video duration
 #
 # Variables:

@@ -14,3 +14,14 @@ about-processes-shutdown-tab =
 
 about-processes-extension-process = وردنی یل ({ $pid })
 about-processes-socket-process = شبکه ({ $pid })
+
+## Details within processes
+
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [one] { $count } بلگه
+       *[other] { $count } بلگه
+    }
