@@ -89,12 +89,12 @@ turn-on-scheduled-backups-confirm-button = بیک اپ چالو کرو
 # folder. The folder may be invalid or inaccessible.
 turn-on-scheduled-backups-error-file-system = تساڈے چݨے بیک اپ فولڈر وچ مسئلہ تھیا۔ کوئی ٻیا فولڈر چݨو تے مڑ کوشش کرو۔
 turn-on-scheduled-backups-error-default-dir-denied = اساں تہاڈے بیک اپ فولڈر تائیں رسائی حاصل نہ کر سڳے۔ کوئی نویں جاہ چݨݨ دی کوشش کرو۔
-backup-error-file-system = { -brand-short-name } دا بیک اپ بݨیندے ہوئیں تہاڈے چݨے ڳئے بیک اپ فولڈر وچ مسئلہ تھیا
+backup-error-file-system = { -brand-short-name } دا بیک اپ بݨیندے ہوئیں تہاݙے چݨے ڳئے بیک اپ فولڈر وچ مسئلہ تھیا
 
 ## These strings are displayed in a modal when users want to turn off scheduled backups.
 
 turn-off-scheduled-backups-header = بیک اپ بند کرݨا ہے؟
-turn-off-scheduled-backups-description = ایہ تساڈا سارا بیک اپ ڈیٹا وی مٹا ݙیندا ہے۔ ایہ واپس نہیں تھی سڳدا۔
+turn-off-scheduled-backups-description = ایہ تہاݙا سارا بیک اپ ڈیٹا وی مٹا ݙیندا ہے۔ ایہ واپس نہیں تھی سڳدا۔
 turn-off-scheduled-backups-support-link = ٻیا سِکھو
 turn-off-scheduled-backups-cancel-button = منسوخ
 turn-off-scheduled-backups-confirm-button = بیک اپ بند کرو تے مٹا ݙیو

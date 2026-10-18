@@ -65,6 +65,7 @@ policy-DisableBuiltinPDFViewer =
         [with-cases] Zablokování PDF prohlížeče PDF.js vestavěného ve { -brand-short-name(case: "loc") }.
        *[no-cases] Zablokování PDF prohlížeče PDF.js vestavěného v aplikaci { -brand-short-name }.
     }
+policy-DisableDefaultBrowserAgent2 = Zakáže agentovi výchozího prohlížeče provádět jakékoli akce.
 policy-DisableDefaultBrowserAgent = Zabraňuje agentovi Default Browser Agent provádět jakékoliv akce. Platí pouze pro Windows; ostatní platformy tohoto agenta nemají.
 policy-DisableDeveloperTools = Blokování přístupu k nástrojům pro vývojáře.
 policy-DisableEncryptedClientHello = Zakáže použití funkce TLS Encrypted Client Hello (ECH).
@@ -86,9 +87,15 @@ policy-DisableLaunchOnLogin =
        *[no-cases] Zabrání automatickému spuštění aplikace { -brand-short-name } při přihlášení uživatele.
     }
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
+policy-DisablePasswordReveal2 = Zakáže zobrazení hesel v uložených přihlašovacích údajích a polích pro hesla.
 policy-DisablePasswordReveal = Zakázání možnosti zobrazit hesla ve správci přihlašovacích údajů.
 policy-DisablePrivateBrowsing = Zablokování anonymního prohlížení.
 policy-DisableProfileImport = Blokování importu dat z jiných prohlížečů.
+policy-DisableProfileRefresh2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Zakáže tlačítko Obnovit { -brand-short-name(case: "acc") } v Technických informacích (about:support) a na webu support.mozilla.org i výzvu k obnovení aplikace { -brand-short-name }, která se zobrazí, pokud nebyla delší dobu používána.
+       *[no-cases] Zakáže tlačítko Obnovit aplikaci { -brand-short-name } v Technických informacích (about:support) a na webu support.mozilla.org i výzvu k obnovení aplikace { -brand-short-name }, která se zobrazí, pokud nebyla delší dobu používána.
+    }
 policy-DisableProfileRefresh =
     { -brand-short-name.case-status ->
         [with-cases] Blokování tlačítka pro obnovu { -brand-short-name(case: "gen") } na stránce about:support.
@@ -96,11 +103,17 @@ policy-DisableProfileRefresh =
     }
 policy-DisableRemoteImprovements = Zabraní aplikaci { -brand-short-name } v období mezi aktualizacemi provádět změny související s výkonem, stabilitou a funkcemi.
 policy-DisableRemoteSettingsAndAcceptSecurityConsequences = Zakázat vzdálené nastavení.
+policy-DisableSafeMode2 = Zakáže restartování do režimu řešení potíží (nouzového režimu).
 policy-DisableSafeMode = Zablokování možnosti restartovat se zakázanými doplňky. Poznámka: přechod do nouzového režimu podržením klávesy Shift lze zablokovat jen na systému Windows pomocí zásad skupin.
 policy-DisableSecurityBypass = Zabránit uživateli obcházení některých bezpečnostních varování.
 policy-DisableSetAsDesktopBackground = Zablokování kontextové nabídky obrázků pro jejich nastavení jako pozadí plochy.
 policy-DisableSystemAddonUpdate = Zablokování instalace a aktualizací systémových doplňků prohlížeče.
 policy-DisableTelemetry = Vypnutí telemetrie.
+policy-DisableThirdPartyModuleBlocking2 =
+    { -brand-short-name.case-status ->
+        [with-cases] Znemožní uživateli blokovat moduly třetích stran vložené do procesu { -brand-short-name(case: "gen") } prostřednictvím stránky Informace o modulech třetích stran (about:third-party).
+       *[no-cases] Znemožní uživateli blokovat moduly třetích stran vložené do procesu aplikace { -brand-short-name } prostřednictvím stránky Informace o modulech třetích stran (about:third-party).
+    }
 policy-DisableThirdPartyModuleBlocking =
     { -brand-short-name.case-status ->
         [with-cases] Zabrání uživateli blokovat moduly třetích stran, které se vkládají do procesu { -brand-short-name(case: "gen") }.
@@ -164,6 +177,7 @@ policy-OfferToSaveLogins =
 policy-OfferToSaveLoginsDefault = Nastavení výchozí hodnoty pro to, zda má { -brand-short-name } nabízet ukládání přihlašovacích údajů. Platné hodnoty jsou true a false.
 policy-OverrideFirstRunPage = Nastavení vlastní stránky při prvním spuštění. Pokud nechcete při prvním spuštění zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
 policy-OverridePostUpdatePage = Nastavení vlastní stránky po aktualizaci. Pokud nechcete po aktualizaci zobrazovat žádnou stránku, nastavte toto pravidlo jako prázdné.
+policy-PasswordManagerEnabled2 = Povolí nebo zakáže ukládání hesel do Správce hesel. Pokud je ukládání zakázáno, zablokuje se také stránka Hesla (about:logins).
 policy-PasswordManagerEnabled = Povolení ukládat hesla do správce hesel.
 policy-PasswordManagerExceptions = Zabrání { -brand-short-name(case: "dat") } ukládat heslo pro vybrané servery.
 # Post-quantum refers to cryptography that is safe from attacks by quantum
