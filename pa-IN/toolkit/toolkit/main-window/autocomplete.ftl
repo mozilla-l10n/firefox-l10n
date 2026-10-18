@@ -25,9 +25,21 @@ autocomplete-delete-password = ਇਸ ਪਾਸਵਰਡ ਨੂੰ ਹਟਾਓ
 autocomplete-edit-address = ਇਸ ਸਿਰਨਾਵੇਂ ਨੂੰ ਸੋਧੋ
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = ਇਸ ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਓ
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = { $entry } ਸਿਰਨਾਵੇਂ ਨੂੰ ਹਟਾਓ
 autocomplete-edit-payment-method = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਸੋਧੋ
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਹਟਾਓ
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = { $entry } ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਹਟਾਓ
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = ਹਟਾਓ
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -36,6 +48,13 @@ autocomplete-delete-form-history-entry2 = ਫਾਰਮ ਅਤੀਤ ਤੋਂ { 
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = { $entry } ਲਈ ਹੋਰ ਕਾਰਵਾਈਆਂ
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = ਹੋਰ ਚੋਣਾਂ
+# Accessible name for the button that opens the edit/delete menu. It names the
+# row so screen reader users know which entry the menu belongs to.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-options-for-entry = { $entry } ਲਈ ਹੋਰ ਚੋਣਾਂ
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.

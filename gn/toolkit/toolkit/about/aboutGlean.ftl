@@ -176,6 +176,10 @@ about-glean-dual-labeled-metric-warning = Umi <code>DualLabeledCounter</code> m�
 about-glean-unknown-metric-type-warning = Peteĩ métrica ojekuaa’ỹva.
 # Label for selection drop-down list containing Pings for selection
 about-glean-store-submitted-pings-select-label = Ping:
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Marandu joguaha rehegua
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Marandu ping rehegua
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

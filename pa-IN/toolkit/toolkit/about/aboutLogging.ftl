@@ -41,6 +41,7 @@ about-logging-preset-webcodecs-label = ਵੈੱਬਕੋਡੈਕਸ
 about-logging-preset-ml-label = ਮਸ਼ੀਨ ਸਿਖਲਾਈ
 about-logging-preset-web-compat-label = ਵੈੱਬ ਕੰਪੈਟ
 about-logging-preset-navigation = ਨੇਵੀਗੇਸ਼ਨ
+about-logging-preset-vpn-label = VPN
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-gfx-label = ਗਰਾਫਿਕਸ
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
@@ -52,6 +53,7 @@ about-logging-error = ਗਲਤੀ:
 
 ##
 
+about-logging-configuration-url-ignored = URL ਸੰਰਚਨਾ ਨੂੰ ਅਣਡਿੱਠ ਕੀਤਾ
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
 about-logging-unknown-error = ਇੱਕ ਗਲਤੀ ਵਾਪਰੀ ਹੈ: { $errorText }

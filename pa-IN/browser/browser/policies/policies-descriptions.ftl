@@ -24,12 +24,16 @@ policy-AutoLaunchProtocolsFromOrigins = ਬਾਹਰੀ ਪਰੋਟੋਕਾਲ
 policy-BackgroundAppUpdate2 = ਬੈਕਗਰਾਊਂਡ ਅੱਪਡੇਟਰ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-Backup = ਪਰੋਫ਼ਾਈਲ ਡਾਟੇ ਦੇ ਬੈਕਅੱਪ ਜਾਂ ਬਹਾਲ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-BlockAboutAddons = ਐਡ-ਆਨ ਮੈਨੇਜਰ (about:addons) ਤਕ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ।
+policy-BlockAboutConfig2 = ਤਕਨੀਕੀ ਪਸੰਦਾਂ (about:config) ਲਈ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ।
+policy-BlockAboutProfiles2 = ਪ੍ਰੋਫਾਈਲਾਂ ਬਾਰੇ (about:profiles) ਤੱਕ ਪਹੁੰਚ ਲਈ ਪਾਬੰਦੀ।
+policy-BlockAboutSupport2 = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਜਾਣਕਾਰੀ (about:support) ਲਈ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ।
 policy-BlockAboutConfig = about:config ਸਫ਼ੇ ਲਈ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
 policy-BlockAboutProfiles = about:profiles ਸਫ਼ੇ ਲਈ ਪਹੁੰਚ ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
 policy-BlockAboutSupport = about:support ਸਫ਼ੇ ਉੱਤੇ ਪਹੁੰਚ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ।
 policy-Bookmarks = ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ, ਬੁੱਕਮਾਰਕ ਮੇਨੂ ਜਾਂ ਨਿਯਤ ਕੀਤੇ ਫੋਲਡਰ ਵਿੱਚ ਬੁੱਕਮਾਰਕ ਬਣਾਓ।
 policy-CaptivePortal = ਕੈਪੀਟਿਵ ਪੋਰਟਲ ਸਹਾਇਤਾ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 policy-CertificatesDescription = ਸਰਟੀਫਿਕੇਟ ਜੋੜੋ ਜਾਂ ਵਿਚੇ ਮੌਜੂਦ ਸਰਟੀਫਿਕੇਟ ਵਰਤੋਂ।
+policy-ClearOnShutdown = ਜਦੋਂ { -brand-short-name } ਬੰਦ ਕਰਨ ਉੱਤੇ ਬਰਾਊਜ਼ ਕਰਨ ਡਾਟੇ ਨੂੰ ਮਿਟਾਓ।
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.
@@ -45,6 +49,7 @@ policy-DefaultDownloadDirectory = ਮੂਲ ਡਾਊਨਲੋਡ ਡਾਇਰ�
 policy-DefaultSerialGuardSetting = ਸੀਰੀਅਸ API ਲਈ ਕੰਟਰੋਲ ਵਰਤੋਂ।
 policy-DisableAppUpdate = ਬਰਾਊਜ਼ਰ ਨੂੰ ਅੱਪਡੇਟ ਹੋਣ ਤੋਂ ਰੋਕੋ।
 policy-DisableBuiltinPDFViewer = PDF.js, { -brand-short-name } ਵਿੱਚ ਮੌਜੂਦ PDF ਦਰਸ਼ਕ, ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
+policy-DisableDefaultBrowserAgent2 = ਮੂਲ ਬਰਾਊਜ਼ਰ ਏਜੰਟ ਨੂੰ ਕੋਈ ਵੀ ਕਾਰਵਾਈ ਕਰਨ ਤੋਂ ਰੋਕੋ।
 policy-DisableDefaultBrowserAgent = ਡਿਫਾਲਟ ਬਰਾਊਜ਼ਰ ਏਜੰਟ ਨੂੰ ਕੋਈ ਵੀ ਕਾਰਵਾਈ ਕਰਨ ਤੋਂ ਰੋਕੋ। ਸਿਰਫ਼ ਵਿੰਡੋਜ਼ ਲਈ ਲਾਗੂ ਹੈ; ਦੂਜੇ ਪਲੇਟਫਾਰਮਾਂ ਵਿੱਚ ਏਜੰਟ ਨਹੀਂ ਹੁੰਦਾ।
 policy-DisableDeveloperTools = ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਲਈ ਪਹੁੰਚ ਵਾਸਤੇ ਪਾਬੰਦੀ ਲਗਾਓ।
 policy-DisableEncryptedClientHello = ਇੰਕ੍ਰਿਪਟ ਕੀਤੀ ਕਲਾਈਂਟ ਹੈਲੋ (ECH) ਫ਼ੀਚਰ ਦੀ ਵਰਤੋਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
@@ -58,12 +63,14 @@ policy-DisableForgetButton = ਭੁਲਾਓ ਬਟਨ ਲਈ ਪਹੁੰਚ �
 policy-DisableFormHistory = ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਨੂੰ ਯਾਦ ਨਾ ਰੱਖੋ।
 policy-DisableLaunchOnLogin = ਜਦੋਂ ਵਰਤੋਂਕਾਰ ਲਾਗਇਨ ਕਰਦਾ ਹੈ ਤਾਂ { -brand-short-name } ਨੂੰ ਆਪਣੇ-ਆਪ ਚੱਲਣ ਤੋਂ ਰੋਕੋ
 policy-DisablePrimaryPasswordCreation = ਜੇ ਇਹ ਸਹੀ ਹੈ, ਤਾਂ ਮੁੱਢਲਾ ਪਾਸਵਰਡ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ।
+policy-DisablePasswordReveal2 = ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਜਾਂ ਪਾਸਵਰਡ ਖੇਤਰਾਂ ਵਿੱਚ ਦਿਖਾਉਣ ਦੀ ਮਨਜ਼ੂਰੀ ਨਾ ਦਿਓ।
 policy-DisablePasswordReveal = ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਵਿੱਚ ਪਾਸਵਰਡ ਵੇਖਣ ਦੀ ਇਜਾਜ਼ਤ ਨਾ ਦਿਓ।
 policy-DisablePrivateBrowsing = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableProfileImport = ਕਿਸੇ ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਡਾਟਾ ਦਰਾਮਦ ਕਰਨ ਲਈ ਮੇਨੂ ਕਮਾਂਡ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableProfileRefresh = about:support ਸਫ਼ੇ ਵਿੱਚ { -brand-short-name } ਬਟਨ ਨੂੰ ਤਾਜ਼ਾ ਕਰਨ ਤੋਂ ਰੋਕੋ।
 policy-DisableRemoteImprovements = { -brand-short-name } ਵਲੋਂ ਅੱਪਡੇਟਾਂ ਵਿਚਾਲੇ ਕਾਰਗੁਜ਼ਰੀ, ਸਥਿਰਤਾ ਅਤੇ ਫ਼ੀਚਰ ਤਬਦੀਲੀ ਲਾਗੂ ਕਰਨ ਤੋਂ ਰੋਕਦੀ ਹੈ।
 policy-DisableRemoteSettingsAndAcceptSecurityConsequences = ਰਿਮੋਟ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
+policy-DisableSafeMode2 = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ (ਸੇਫ਼ ਢੰਗ) ਵਿੱਚ ਮੁੜ-ਚਾਲੂ ਕਰਨਾ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableSafeMode = ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਿੱਚ ਰੀਸਟਾਰਟ ਕਰਨ ਲਈ ਵਿਸ਼ੇਸ਼ਤਾ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਓ। ਨੋਟ: ਸੇਫ ਮੋਡ ਵਿੱਚ ਦਾਖਲ ਕਰਨ ਲਈ ਸ਼ਿਫਟ ਸਵਿੱਚ ਨੂੰ ਸਿਰਫ ਗਰੁੱਪ ਪਾਲਿਸੀ ਦੀ ਵਰਤੋਂ ਨਾਲ ਵਿੰਡੋਜ਼ ਉੱਤੇ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
 policy-DisableSecurityBypass = ਯੂਜ਼ਰ ਨੂੰ ਕੁਝ ਸੁਰੱਖਿਆ ਚੇਤਾਵਨੀਆਂ ਨੂੰ ਅਣਡਿੱਠ ਕਰਨ ਤੋਂ ਰੋਕੋ।
 policy-DisableSetAsDesktopBackground = ਮੇਨੂ ਕਮਾਂਡ ਨੂੰ ਅਯੋਗ ਕਰੋ ਚਿੱਤਰਾਂ ਲਈ ਡੈਸਕਟਾਪ ਬੈਕਗਰਾਊਂਡ ਵਾਂਗ ਸੈੱਟ ਕਰੋ।
@@ -124,6 +131,7 @@ policy-OfferToSaveLogins = { -brand-short-name } ਨੂੰ ਸੰਭਾਲੇ �
 policy-OfferToSaveLoginsDefault = { -brand-short-name } ਨੂੰ ਸੰਭਾਲੇ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਯਾਦ ਰੱਖਣ ਦੀ ਪੇਸ਼ਕਸ਼ ਦੀ ਸਹਿਮਤੀ ਲਈ ਮੂਲ ਮੁੱਲ ਨਿਯਤ ਕਰੋ। ਦੋਵੇ ਸਹੀ ਅਤੇ ਗਲਤ ਮੁੱਲ ਮਨਜ਼ੂਰ ਕੀਤੇ ਹਨ।
 policy-OverrideFirstRunPage = ਪਹਿਲੇ ਰਨ ਪੇਜ਼ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰੋ। ਜੇ ਤੁਸੀਂ ਪਹਿਲੇ ਰਨ ਪੇਜ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਇਸ ਨੀਤੀ ਨੂੰ ਖਾਲੀ ਕਰਨ ਲਈ ਸੈੱਟ ਕਰੋ।
 policy-OverridePostUpdatePage = ਪੋਸਟ-ਅਪਡੇਟ "ਨਵਾਂ ਕੀ ਹੈ" ਪੰਨੇ ਤੇ ਓਵਰਰਾਈਡ ਕਰੋ ਜੇਕਰ ਤੁਸੀਂ ਪੋਸਟ-ਅਪਡੇਟ ਸਫ਼ਾ ਨੂੰ ਅਸਮਰੱਥ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਇਸ ਨੀਤੀ ਨੂੰ ਖਾਲੀ ਕਰਨ ਲਈ ਸੈੱਟ ਕਰੋ।
+policy-PasswordManagerEnabled2 = ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਵਿੱਚ ਸੰਭਾਲੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ। ਜੇ ਅਸਮਰੱਥ ਹੈ ਤਾਂ ਪਾਸਵਰਡਾਂ (about:logins) ਉੱਤੇ ਵੀ ਪਾਬੰਦੀ ਹੋਵੇਗੀ।
 policy-PasswordManagerEnabled = ਪਾਸਵਰਡ ਮੈਨੇਜਰ ਵਿੱਚ ਪਾਸਵਰਡ ਸੰਭਾਲਣਾ ਸਮਰੱਥ ਕਰੋ।
 policy-PasswordManagerExceptions = { -brand-short-name } ਨੂੰ ਖਾਸ ਸਾਈਟਾਂ ਲਈ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਤੋਂ ਰੋਕਦਾ ਹੈ
 # Post-quantum refers to cryptography that is safe from attacks by quantum
@@ -144,6 +152,7 @@ policy-RelaunchRequired = ਦਿੱਤੇ ਸਮੇਂ ਵਿੱਚ { -brand-sho
 policy-RequestedLocales = ਤਰਜੀਹ ਦੇ ਅਨੁਸਾਰ ਅਰਜ਼ੀ ਲਈ ਲੋੜੀਦੇ ਲੋਕਲਾਂ ਦੀ ਸੂਚੀ ਸੈਟ ਕਰੋ।
 policy-SanitizeOnShutdown2 = ਬੰਦ ਕਰਨ ਸਮੇਂ ਨੈਵੀਗੇਸ਼ਨ ਡਾਟਾ ਸਾਫ਼ ਕਰੋ।
 policy-SearchBar = ਖੋਜ ਪੱਟੀ ਲਈ ਮੂਲ ਟਿਕਾਣਾ ਨਿਯਤ ਕਰੋ। ਵਰਤੋਂਕਾਰ ਹਾਲੇ ਵੀ ਇਸ ਨੂੰ ਆਪਣੀ ਪਸੰਦ ਮੁਤਾਬਕ ਬਦਲਣ ਲਈ ਆਗਿਆ ਹੁੰਦੀ ਹੈ।
+policy-SearchEngines2 = ਖੋਜ ਇੰਜਣ ਸੈਟਿੰਗਾਂ ਦੀ ਸੰਰਚਨਾ
 policy-SearchEngines = ਖੋਜ ਇੰਜਣ ਸੈਟਿੰਗਾਂ ਦੀ ਸੰਰਚਨਾ ਕਰੋ। ਇਹ ਨੀਤੀ ਕੇਵਲ ਐਕਸਟੈਂਡਡ ਸਪੋਰਟ ਰੀਲਿਜ਼ (ESR) ਵਰਜ਼ਨ ਨਾਲ ਹੀ ਉਪਲਬਧ ਹੈ।
 policy-SearchSuggestEnabled = ਖੋਜ ਸੁਝਾਅ ਨੂੰ ਸਮਰੱਥ ਜਾਂ ਅਸਮਰੱਥ ਕਰੋ।
 # For more information, see https://wikipedia.org/wiki/PKCS_11
