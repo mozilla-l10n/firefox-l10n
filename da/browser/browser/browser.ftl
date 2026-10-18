@@ -1145,7 +1145,7 @@ menu-share-copy-links =
     .label =
         { $count ->
             [one] Kopier link
-           *[other] Kopier { $count } link
+           *[other] Kopier { $count } links
         }
     .accesskey = r
 ui-tour-info-panel-close =
