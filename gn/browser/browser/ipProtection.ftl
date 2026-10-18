@@ -257,6 +257,25 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } ñanduti rogueita
         }
     .label = Eñangareko ñanduti rogue ñembohekóre
+ip-protection-site-rules-header-1 =
+    .heading = Eñangareko VPN mbojojaháre
+ip-protection-site-rules-button-1 =
+    .description = Emoĩ mbojojaha tenda oikotevéva tekoñemive térã VPN ñembogue.
+    .label = Eñangareko VPN mbojojaháre
+ip-protection-site-rules-add-button =
+    .label = Emoĩ mbojojaha
+ip-protection-site-rules-delete-all-button =
+    .label = Emboguepa mbojojaha
+ip-protection-site-rules-empty = Mbojojahaita emoĩmbyre oĩta ápe.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN hendymeméva
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN oguememéva
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Embosako’i mbojojaha { $website } peg̃uarã
+    .title = Mbosako’i
 ip-protection-site-rules-header =
     .heading = Eñangareko ñanduti rogue mbojojaháre
 ip-protection-site-rules-button =
