@@ -36,6 +36,11 @@ onboarding-existing-horizontal-tabs-label = Üfüqi vərəqləri saxla
 
 restored-from-backup-success-title = Hər şey hazır! { -brand-short-name } məlumatlarınız geri qaytarıldı.
 
+## Onboarding 2026 brand refresh
+
+onboarding-refresh-import-subtitle = Parollarınız, əlfəcinləriniz, baxış tarixçəniz və daha çoxunu özünüzlə gətirin.
+onboarding-refresh-import-title = { -brand-short-name } ilə özünüzü evinizdəki kimi hiss edin
+
 ## First Run Onboarding refresh strings
 
 # Tooltip displayed on hover for minimal tabs image
