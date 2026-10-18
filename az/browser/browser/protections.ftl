@@ -20,11 +20,16 @@ graph-total-tracker-summary =
     }
 protection-report-webpage-title = Qoruma Paneli
 protection-report-page-content-title = Qoruma Paneli
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = Siz internetdə gəzinərkən { -brand-short-name } arxa planda məxfiliyinizi qoruya bilir. Aşağıdakı bu qorumaların, onlayn təhlükəsizliyinizi idarə etmək üçün alətlər də daxil olmaqla fərdiləşdirilmiş xülasəsidir.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
 protection-report-page-summary-default = Siz internetdə gəzinərkən { -brand-short-name } arxa planda məxfiliyinizi qoruyur. Aşağıdakı bu qorumaların, onlayn təhlükəsizliyinizi idarə etmək üçün alətlər də daxil olmaqla fərdiləşdirilmiş xülasəsidir.
+protection-report-settings-link = Məxfilik və təhlükəsizlik tənzimləmələrinizi idarə edin
 etp-card-title-always = Artırılmış İzlənmə Qoruması: Həmişə Açıq
 etp-card-title-custom-not-blocking = Artırılmış İzlənmə Qoruması: QAPALI
 etp-card-content-description = { -brand-short-name } şirkətlərin sizi vebdə gizlincə təqib etməsini avtomatik dayandırır.
+protection-report-etp-card-content-custom-not-blocking = Bütün qorumalar hazırda söndürülüb. { -brand-short-name } qoruma tənzimləmələrinizi idarə edərək hansı izləyicilərin əngəllənəcəyini seçin.
+protection-report-manage-protections = Tənzimləmələri idarə et
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Bu gün
@@ -32,6 +37,7 @@ graph-today = Bu gün
 graph-legend-description = Bu həftə əngəllənmiş hər izləyici növünün cəmi sayını göstərən qrafik.
 social-tab-title = Sosial Media İzləyiciləri
 cookie-tab-title = Saytlararası İzləmə Çərəzləri
+fingerprinter-tab-title = Barmaq izi toplayıcılar
 cryptominer-tab-title = Kripto mədənçiləri
 protections-close-button2 =
     .aria-label = Bağla
