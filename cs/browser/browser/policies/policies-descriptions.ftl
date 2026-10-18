@@ -28,6 +28,7 @@ policy-AutoLaunchProtocolsFromOrigins = Seznam externích protokolů, které lze
 policy-BackgroundAppUpdate2 = Povolení nebo zákaz aktualizací na pozadí.
 policy-Backup = Zakázat zálohování nebo obnovu dat profilu.
 policy-BlockAboutAddons = Zablokování přístupu do správce doplňků (about:addons).
+policy-BlockAboutConfig2 = Zablokuje přístup k pokročilým předvolbám (about:config).
 policy-BlockAboutConfig = Zablokování přístupu do editoru předvoleb (about:config).
 policy-BlockAboutProfiles = Zablokování přístupu do správce profilů (about:profiles).
 policy-BlockAboutSupport = Zablokování přístupu na stránku s technickými informacemi (about:support).
