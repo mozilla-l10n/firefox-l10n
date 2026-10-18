@@ -261,6 +261,11 @@ link-preview-settings-key-points =
     .label = Povolit umělé inteligenci přečíst začátek stránky a vygenerovat výčet hlavních myšlenek
 link-preview-settings-long-press =
     .label = Zkratka: Klepněte na odkaz a ponechte tlačítko myši stisknuté 1 sekundu (dlouhý stisk)
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Hledat
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcete vidět víc s pomocí umělé inteligence?
 # Message that appears when user is shown the opt-in flow for link previews

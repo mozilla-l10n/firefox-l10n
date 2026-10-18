@@ -1518,6 +1518,7 @@ fire-button-panel-cancel-button =
 fire-button-panel-confirm-button =
     .label = Smazat vše
     .accesskey = S
+fire-button-panel-complete = Data o prohlížení byla smazána
 
 ## Autorefresh blocker
 

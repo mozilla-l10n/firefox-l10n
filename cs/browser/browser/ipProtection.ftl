@@ -336,6 +336,16 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webových stránek
         }
     .label = Spravovat nastavení webových stránek
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Upravit pravidlo pro { $website }
+    .title = Upravit
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Smazat pravidlo pro { $website }
+    .title = Smazat
 ip-protection-site-rules-header =
     .heading = Správa pravidel webových stránek
 ip-protection-site-rules-button =
@@ -363,6 +373,29 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Spravovat nastavení webových stránek
 ip-protection-exclusions-desc = Používat VPN pro všechny webové stránky kromě těch v tomto seznamu. Přidejte webovou stránku zde nebo otevřením VPN.
+ip-protection-site-rule-window =
+    .title = Nastavit pravidlo
+ip-protection-edit-site-rule-window =
+    .title = Upravit pravidlo
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Nastavit
+    .buttonaccesskeyaccept = s
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Uložit
+    .buttonaccesskeyaccept = U
+ip-protection-delete-site-rule-cancel =
+    .label = Zrušit
+ip-protection-delete-site-rule-confirm =
+    .label = Smazat
+ip-protection-delete-all-site-rules-message = Smazat všechna pravidla pro webové stránky?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Smazat všechna pravidla
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Pravidlo se nepodařilo smazat
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Pravidla se nepodařilo smazat
+ip-protection-delete-site-rule-retry =
+    .label = Zkusit znovu
 
 ## IP Protection Bandwidth
 
