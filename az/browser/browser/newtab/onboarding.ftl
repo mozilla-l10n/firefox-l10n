@@ -13,6 +13,10 @@
 onboarding-welcome-header = { -brand-short-name } səyyahına xoş gəlmisiniz
 onboarding-start-browsing-button-label = Səyahətə Başla
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
+mr1-return-to-amo-add-extension-label = { $addon-name } əlavə et
+
 ## MR2022 Upgrade Dialog screens
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
