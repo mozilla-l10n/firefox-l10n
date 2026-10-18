@@ -862,5 +862,6 @@ onboarding-carousel-nav =
 
 welcome-back-onboarding-primary-button-label = Začít prohlížet
 welcome-back-onboarding-secondary-button-label = Podívejte se, co je ještě nového
+welcome-back-onboarding-pill-label-vpn = Vestavěná VPN
 welcome-back-onboarding-pill-label-pdf = Nástroje pro PDF
 welcome-back-onboarding-card-tilebutton-label = Vyzkoušet
