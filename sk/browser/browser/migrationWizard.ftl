@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } nemá prístup k profil
 migration-no-permissions-instructions = Ak chcete pokračovať v importovaní údajov z iného prehliadača, udeľte { -brand-short-name(case: "dat") } prístup k priečinku jeho profilu.
 migration-no-permissions-instructions-step1 = Zvoľte tlačidlo “Pokračovať”
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] V dialógovom okne na výber súborov zvoľte “Vybrať”
+       *[other] V dialógovom okne na výber súborov prejdite do priečinka <code>{ $permissionsPath }</code> a zvoľte “Vybrať”
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

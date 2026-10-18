@@ -255,6 +255,11 @@ highlight-to-search-settings-ask-provider =
     .label = Opýtať sa chatbota { $provider }
 highlight-to-search-settings-ask-generic =
     .label = Opýtať sa umelej inteligencie
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Hľadať
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcete vidieť viac s pomocou umelej inteligencie?
 # Message that appears when user is shown the opt-in flow for link previews

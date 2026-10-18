@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Sanal gerçeklik cihazlarına erişme isteklerini sormadan engelle
 permissions-site-xr-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi sanal gerçeklik cihazlarınıza erişme isteğinde bulunamayacaktır. Sanal gerçeklik cihazlarınıza erişimi engellerseniz bazı site özellikleri çalışmayabilir.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Ayarlar - Uygulama Bağlantılarında Engellenen Siteler
+permissions-site-app-links-desc = Bu sitelerin e-posta (mailto:) vb. uygulama bağlantılarını açmayı istemesi engellendi. İstekte bulunmasına izin vermek istediğiniz siteleri listeden kaldırın.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

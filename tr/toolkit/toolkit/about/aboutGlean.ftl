@@ -184,6 +184,10 @@ about-glean-store-submitted-pings-select-label = Ping:
 about-glean-store-submitted-pings =
     .description = Gönderilen ping’lerin bellekte saklanmasını sağlar
     .label = Gönderilen ping’leri sakla
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = İstemci bilgileri
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Ping bilgileri
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

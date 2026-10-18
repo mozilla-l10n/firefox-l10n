@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } bu cihazda yüklü olan
 migration-no-permissions-instructions = Başka bir tarayıcıdan veri aktarmaya devam etmek için { -brand-short-name } uygulamasının profil dizinine erişmesine izin verin.
 migration-no-permissions-instructions-step1 = “Devam Et”i seçin
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Dosya seçiciden “Aç”ı seçin
+       *[other] Dosya seçicide <code>{ $permissionsPath }</code> klasörüne gidip “Seç”e tıklayın
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

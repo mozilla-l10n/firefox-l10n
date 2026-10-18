@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Video biçimi veya MIME türü desteklen
 videocontrols-error-no-source = Desteklenen biçimlerde veya MIME türlerinde video bulunamadı.
 videocontrols-error-generic = Bilinmeyen bir hata nedeniyle video oynatma iptal edildi.
 videocontrols-status-picture-in-picture = Bu video, görüntü içinde görüntü modunda oynatılıyor.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Video görüntü içinde görüntü modunda oynatılıyor
 # This message shows the current position and total video duration
 #
 # Variables:

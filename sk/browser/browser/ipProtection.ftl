@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Predstavujeme VPN, teraz priamo vo va�
 ipprotection-feature-introduction-title-1 = Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }
 ipprotection-feature-introduction-link-text-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú VPN</a> na skrytie svojej polohy a ochranu svojich údajov.
 ipprotection-feature-introduction-title-privacy = Pridajte ďalšiu vrstvu súkromia
+ipprotection-feature-introduction-title-privacy-1 = Zvýšte svoje súkromie pomocou vstavanej VPN
 ipprotection-feature-introduction-link-text-privacy-1 = Vstavaná VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z niekoľkých lokalít, aby ste si zachovali súkromie pri prehliadaní.
 ipprotection-feature-introduction-link-text-privacy-2 = VPN vstavaná vo <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "loc") }</a> pomáha chrániť vaše prehliadanie. Vyberte si z viacerých lokalít, aby ste si zachovali väčšie súkromie pri prehliadaní.
 ipprotection-feature-introduction-link-text-privacy-3 = Získajte <a data-l10n-name="learn-more-vpn">väčšie súkromie</a> výberom z viacerých lokalít, ak chcete skryť odkiaľ prehliadate.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Rozumiem
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Nastavte pravidlá pre vstavanú VPN a pokračujte v prehliadaní
 ipprotection-site-inclusions-callout-title-lapsed-users = Vyskúšajte vstavanú VPN, teraz s individuálnym nastavením pre každú stránku
+ipprotection-site-inclusions-callout-description-1 = Zapnite VPN na stránkach, kde chcete viac súkromia alebo prehliadanie na základe polohy, a na ostatných ju nechajte vypnutú.
 ipprotection-site-inclusions-callout-description = Zapnite ju na weboch, kde chcete viac súkromia alebo prehliadanie podľa polohy, a na ostatných ju nechajte vypnutú.
 ipprotection-site-inclusions-callout-primary-button = Nastaviť pravidlá
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Teraz nie
@@ -144,6 +146,12 @@ site-rules-status-heading = Vaše pravidlo
 site-rules-description-exclusion = VPN je pre túto stránku vypnutá
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN je pre túto stránku zapnutá
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Vždy zapnúť VPN pre { $website }?
+    .message = Pravidlá si môžete kedykoľvek aktualizovať v nastaveniach.
 ipprotection-settings-link =
     .label = Nastavenia
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = Ďalšie informácie
 ip-protection-not-opted-in-4 =
     .heading = Vyskúšajte VPN vstavanú vo { -brand-short-name(case: "loc") }
     .message = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Ste pripravení ju vyskúšať?
+    .message = Získajte každý mesiac { $maxUsage } GB zadarmo a vyberte si, ktoré stránky používajú VPN.
 ip-protection-not-opted-in-button = Začíname
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -285,6 +298,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Nastavte pravidlá pre stránky, ktoré vyžadujú zvýšené súkromie alebo vypnutú VPN.
     .label = Spravovať pravidlá VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Nastavte pravidlá na automatické zapnutie alebo vypnutie VPN.
+    .label = Pravidlá pre webové stránky
 ip-protection-site-rules-add-button =
     .label = Nastaviť pravidlo
 ip-protection-site-rules-delete-all-button =
@@ -367,6 +383,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Odstrániť všetky pravidlá pre webové stránky?
 ip-protection-delete-all-site-rules-confirm =
     .label = Odstrániť všetky pravidlá
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Pravidlo sa nepodarilo odstrániť
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Pravidlá sa nepodarilo odstrániť
+ip-protection-delete-site-rule-retry =
+    .label = Skúsiť znova
 
 ## IP Protection Bandwidth
 

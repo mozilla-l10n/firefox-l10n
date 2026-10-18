@@ -1430,6 +1430,27 @@ reset-pbm-toolbar-button2 =
     .label = Vymazať súkromnú reláciu
     .tooltiptext = Vymazať súkromnú reláciu
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Odstrániť niektoré alebo všetky údaje prehliadania
+    .tooltiptext = Odstrániť niektoré alebo všetky údaje prehliadania
+fire-button-panel-heading = Odstrániť všetky údaje prehliadania?
+fire-button-panel-description = Týmto sa odstráni história, súbory cookie a údaje stránok. Budete odhlásení zo stránok. Toto okno sa zatvorí a { -brand-short-name } otvorí nové.
+fire-button-panel-choose-description = Ak nechcete odstrániť všetko, vyberte si len konkrétne údaje.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Vybrať…
+fire-button-panel-cancel-button =
+    .label = Zrušiť
+    .accesskey = Z
+fire-button-panel-confirm-button =
+    .label = Odstrániť všetko
+    .accesskey = d
+fire-button-panel-complete = Údaje o prehliadaní boli odstránené
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } neumožnil tejto stránke automatické obnovenie obsahu.

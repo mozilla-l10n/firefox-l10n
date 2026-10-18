@@ -27,7 +27,7 @@ genai-prompts-summarize =
     .value = Seçtiğim metni özetle. Özetin kolay okunabilmesi için başlıklar ve madde işaretli listeler kullan. Anlam bütünlüğünü ve bilgilerin doğruluğunu koru.
 # Prompt purpose: help users understand what a webpage covers at a glance
 # $url (string) - address of the webpage to summarize
-genai-prompts-summarize-page = { $url } adresindeki web sayfasını açık ve öz bir üslupa özetle. Kolayca göz atılabilmersi için başlıklar ve madde işaretli listeler kullan. Anlamı ve olgusal doğruluğu koru.
+genai-prompts-summarize-page = { $url } adresindeki web sayfasını açık ve öz bir üslupla özetle. Kolayca göz atılabilmesi için başlıklar ve madde işaretli listeler kullan. Anlamı ve olgusal doğruluğu koru.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Dili basitleştir
