@@ -12,5 +12,6 @@ preonboarding-primary-cta-v2 = Davam et
 # Labels for header style button that toggles showing the terms of use, privacy notice, and data preferences checklist
 preonboarding-manage-and-read-header = Məlumat toplanması tənzimləmələrini idarə edin və İstifadə Şərtlərimiz ilə Məxfilik Bildirişimizi oxuyun.
 preonboarding-manage-and-read-header-v2 = İstifadə Şərtləri və Məxfilik Bildirişi ilə tanış olun. Əlavə tənzimləmələri idarə edin.
+preonboarding-terms-of-use-header-button-title-b-v2 = İstifadə Şərtləri
 # Description under label for header style buttons
 preonboarding-header-button-description = Ətraflı oxu

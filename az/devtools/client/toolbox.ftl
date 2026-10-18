@@ -14,3 +14,13 @@
 toolbox-meatball-menu-settings-label = Tənzimləmələr
 toolbox-meatball-menu-documentation-label = Sənədlər…
 toolbox-meatball-menu-community-label = İcma…
+
+## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
+
+toolbox-mode-everything-sub-label = (Daha yavaş)
+toolbox-mode-parent-process-sub-label = (Cəld)
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = Tənzimləmələrə əlavə et
