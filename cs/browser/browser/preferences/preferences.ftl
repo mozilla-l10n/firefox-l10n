@@ -1277,6 +1277,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Tyto položky synchronizujete ve všech připojených zařízeních:
 sync-syncing-across-devices-heading-2 = Data synchronizovaná mezi zařízeními
+sync-syncing-across-devices-heading-3 = Data synchronizovaná na tomto zařízení
 sync-syncing-across-devices-empty-state2 =
     .description = Zatím nic nesynchronizujete… Začněte synchronizovat, abyste měli všechna data na všech svých zařízeních.
     .label = Spravovat synchronizované údaje
@@ -1339,6 +1340,13 @@ sync-choose-what-to-sync-dialog4 =
     .buttonaccesskeyextra2 = O
     .style = min-width: 36em;
     .title = Správa synchronizace všech připojených zařízení
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = Uložit
+    .buttonlabelextra2 = Odpojit…
+    .buttonaccesskeyaccept = U
+    .buttonaccesskeyextra2 = O
+    .style = min-width: 36em;
+    .title = Spravovat synchronizovaný obsah na zařízení
 
 ## The device name controls.
 
@@ -1917,6 +1925,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Zvolte, které weby mohou instalovat rozšíření
     .accesskey = e
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Povolit stránkám žádat o otevření odkazů v aplikacích.
+    .accesskey = P
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Spravovat blokované stránky
+    .accesskey = S
 permissions-location2 =
     .label = Poloha
 permissions-localhost2 =
