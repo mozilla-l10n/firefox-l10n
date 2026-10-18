@@ -20,6 +20,8 @@ smartwindow-group-tabs-panel-heading = Organiser faner
 #   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
 smartwindow-group-tabs-flyout-list =
     .aria-label = Faner i { $groupLabel }
+# Heading for the list of groups the user just created (and can still undo).
+smartwindow-group-tabs-just-created-heading = Nettopp oppretta
 # Accessible name for the list of existing tab groups the row above opens.
 smartwindow-group-tabs-groups-list =
     .aria-label = Fanegrupper
