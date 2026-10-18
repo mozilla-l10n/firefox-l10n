@@ -473,6 +473,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Zobrazovat editor při ukládání
     .accesskey = u
+bookmark-panel-save-button2 =
+    .label = Uložit
+    .accesskey = U
 bookmark-panel-save-button =
     .label = Uložit
 # Width of the bookmark panel.
@@ -1501,6 +1504,20 @@ reset-pbm-panel-complete = Data anonymní relace byla smazána
 reset-pbm-toolbar-button2 =
     .label = Vymazat anonymní relaci
     .tooltiptext = Vymaže anonymní relaci
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Vybrat…
+fire-button-panel-cancel-button =
+    .label = Zrušit
+    .accesskey = Z
+fire-button-panel-confirm-button =
+    .label = Smazat vše
+    .accesskey = S
 
 ## Autorefresh blocker
 
