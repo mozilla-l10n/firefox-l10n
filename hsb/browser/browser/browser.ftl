@@ -1439,6 +1439,7 @@ fire-button-toolbar-button =
     .label = Někotre abo wšě daty wašeho přehladowanja zhašeć
     .tooltiptext = Někotre abo wšě daty wašeho přehladowanja zhašeć
 fire-button-panel-heading = Wšě daty přehladowanja zhašeć?
+fire-button-panel-description = To historiju, placki a sydłowe daty zhaša. Wotzjewjeja was wot sydłow. Tute wokno so začini, a { -brand-short-name } nowe wočini.
 fire-button-panel-choose-description = Jeli nochceće wšitko zhašeć, wubjerće wěste daty město toho.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
