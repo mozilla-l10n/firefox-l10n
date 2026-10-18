@@ -451,6 +451,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Pri shranjevanju prikaži urejevalnik
     .accesskey = j
+bookmark-panel-save-button2 =
+    .label = Shrani
+    .accesskey = a
 bookmark-panel-save-button =
     .label = Shrani
 # Width of the bookmark panel.
@@ -1425,6 +1428,17 @@ reset-pbm-panel-complete = Podatki zasebne seje so izbrisani
 reset-pbm-toolbar-button2 =
     .label = Počisti zasebno sejo
     .tooltiptext = Počisti zasebno sejo
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-panel-cancel-button =
+    .label = Prekliči
+    .accesskey = P
+fire-button-panel-confirm-button =
+    .label = Izbriši vse
+    .accesskey = I
+fire-button-panel-complete = Podatki brskanja izbrisani
 
 ## Autorefresh blocker
 
