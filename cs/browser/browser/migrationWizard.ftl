@@ -58,6 +58,17 @@ migration-no-permissions-instructions =
     }
 migration-no-permissions-instructions-step1 = Vyberte „Pokračovat“
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] V nástroji pro výběr souborů zvolte „Otevřít“
+       *[other] V dialogu pro výběr souborů přejděte do složky <code>{ $permissionsPath }</code> a vyberte možnost „Vybrat“
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:
