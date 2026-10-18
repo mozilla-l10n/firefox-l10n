@@ -283,6 +283,25 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Angi reglar for nettstadar som treng ekstra personvern eller VPN slått av.
     .label = Handsam VPN-reglar
+ip-protection-site-rules-add-button =
+    .label = Fastset regel
+ip-protection-site-rules-delete-all-button =
+    .label = Slett alle reglar
+ip-protection-site-rules-empty = Reglar du fastset vil visast her
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN alltid på
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN alltid av
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Rediger regelen for { $website }
+    .title = Rediger
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Slett regelen for { $website }
+    .title = Slett
 ip-protection-site-rules-header =
     .heading = Handsam nettstadreglar
 ip-protection-site-rules-button =
@@ -306,6 +325,10 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Handsam nettstadsinnstillingar
 ip-protection-exclusions-desc = Bruk VPN for alle nettstadar unnateke dei på denne lista. Legg til ein nettstad her eller ved å opne VPN.
+ip-protection-site-rule-window =
+    .title = Fastset regel
+ip-protection-edit-site-rule-window =
+    .title = Rediger regel
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Lagre
     .buttonaccesskeyaccept = L
