@@ -50,8 +50,8 @@ pane-privacy-title3 = Поверителност и защита
 pane-privacy-section =
     .heading = Поверителност и защита
 pane-sync-title3 = Синхронизиране
-pane-ai-controls-title2 = AI контроли
-    .title = AI контроли
+pane-ai-controls-title2 = Контрол върху AI
+    .title = Контрол върху AI
 pane-about-firefox-title = Относно { -brand-short-name }
     .title = { pane-about-firefox-title }
 pane-appearance-title = Външен вид
@@ -2071,7 +2071,7 @@ preferences-ai-controls-block-confirmation-cancel =
 preferences-ai-controls-block-confirmation-confirm =
     .label = Забраняване
 preferences-ai-controls-header3 =
-    .heading = AI контрол
+    .heading = Контрол върху AI
 
 ## Privacy and security status card
 

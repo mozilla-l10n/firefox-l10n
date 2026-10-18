@@ -278,6 +278,8 @@ quickactions-addons = Преглед на добавките
 # applicable to your language, only use the correct spelling (don't repeat the
 # same word).
 quickactions-cmd-addons3 = разширения, теми, добавки
+# Opens preferences page at AI controls
+quickactions-manageai = Управление на AI контролите
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Управление на отметки
 quickactions-cmd-bookmarks = отметки
