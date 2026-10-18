@@ -9,3 +9,4 @@ view-source-go-to-line-title = راو و تور
 view-source-go-to-line-text = شزماره تور ن بزنین
 view-source-invalid-input-title = وۊرۊدی نا موعتبر
 view-source-invalid-input-text = شوماره ستر وۊرۊدی نا موعتبر هڌ.
+view-source-out-of-range-title = ستر ن نجوست
