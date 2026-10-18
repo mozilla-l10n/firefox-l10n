@@ -9,3 +9,5 @@ about-glean-feedback-settings-only =
     .message = سامووا ائمال وابین!
 about-glean-feedback-settings-and-ping =
     .message = سامووا ائمال وابین وو پینگ فشناڌه وابی!
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = دووسمندیا موشتری
