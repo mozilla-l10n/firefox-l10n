@@ -39,6 +39,11 @@ screenshots-component-copy-button-2 = نقل کرو
 screenshots-component-download-button-2 = ڈاؤن لوڈ
     .aria-label = ڈاؤن لوڈ کرو
     .title = ڈاؤن لوڈ کرو ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the screenshot command.
+screenshot-toolbar-button =
+    .label = سکرین شاٹ
+    .tooltiptext = سکرین شاٹ گھنو ({ $shortcut })
 
 ## The below strings are used to capture keydown events so the strings should
 ## not be changed unless the keyboard layout in the locale requires it.

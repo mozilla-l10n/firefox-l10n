@@ -6,10 +6,12 @@ safeb-blocked-phishing-page-title = اڳوں فریبی سائٹ ہے
 safeb-blocked-malware-page-title = ایں ویب سائٹ دا دورہ تہاݙے کمپیوٹر کوں نقصان پڄا سڳدا ہے
 safeb-blocked-unwanted-page-title = اڳوں آوݨ والی سائٹ وِچ نقصان دہ پروگرام تھی سڳدے ہن
 safeb-blocked-harmful-page-title = اڳوں آوݨ والی سائٹ تے وائرس موجود تھی سڳدا ہے
+safeb-blocked-addon-page-title = تُہاڈی حفاظت کیتے سائٹ بلاک کر ڈتی ڳئی
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } ایں ورقے کوں بلاک کر ݙتا ہے کیوں جو ایہ تہاکوں کجھ خطرناک کرݨ کیتے دوکھا ݙے سکتا ہے جیویں سافٹ ویئر انسٹال کرݨ یا ذاتی معلومات جیویں پاس ورڈ یا کریڈٹ کارڈز کوں ظاہر کرݨ۔
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ایں ورقے کوں بلاک کر ݙتا ہے کیوں جو ایہ نقصان دہ سافٹ ویئر انسٹال کرݨ دی کوشش کر سڳدا ہے جیڑھا تہاݙے کمپیوٹر تے ذاتی معلومات چوری یا حذف کر سڳدا ہے۔
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ایں ورقہ کوں بلاک کر ݙتا ہے کیوں جو ایہ تہاکوں اینجھے پروگراماں کوں انسٹال کرݨ کیتے دھوکہ ݙیوݨ دی کوشش کر سڳدا ہے جو تہاݙے براؤزنگ دے تجربے کوں نقصان پڄیندے ہن (مثال دے طور تے، تہاݙے ہوم پیج کوں تبدیل کر دے یا تہاݙی ملاحظہ کردہ سائٹاں تے اضافی اشتہارات ݙکھا تے)۔
 safeb-blocked-harmful-page-short-desc = { -brand-short-name } ایں ورقے کوں بلاک کر ݙتا ہے کیوں جو ایہ خطرناک ایپاں انسٹال کرݨ دی کوشش کر سڳدا ہے جیڑھا تہاݙی معلومات (مثال دے طور تے، تصویراں، پاس ورڈز، سنیہے تے کریڈٹ کارڈز) کوں چوری یا حذف کریندیاں ہن۔
+safeb-blocked-addon-page-short-desc = { -brand-short-name } ایہے صفحہ ایں کیتے بلاک کیتے جو تُہاڈے ایڈ-آنز وچوں ہک نے ایہے کھولݨ دی کوشش کیتی اے۔ ایہے سائٹ تُہاڈی معلومات، جیویں پاس ورڈ یا کریڈٹ کارڈ نمبر، چوری کرݨ کیتے ورتی ونج سڳدی اے۔
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> دے ذریعے فراہم کردہ ایڈوائزری۔
@@ -31,6 +33,16 @@ safeb-blocked-unwanted-page-learn-more = خینسی تے اݨ بھانوݨے س�
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'>ممکنہ طور تے خینسی ایپلی کیشن دے طور تے رپورٹ کیتا ڳیا ہے</a>۔ تساں <a data-l10n-name='ignore_warning_link'>خطرے کوں نظر انداز کر سڳدے او</a> تے ایں غیر محفوظ سائٹ تے ونڄ سڳدے او۔
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> کوں <a data-l10n-name='error_desc_link'>ممکنہ طور تے خینسی ایپلی کیشن دے طور تے رپورٹ کیتا ڳیا ہے</a>۔
 safeb-blocked-harmful-page-learn-more = <a data-l10n-name='firefox_support'>support.mozilla.org</a> تے { -brand-short-name } دے فشنگ تے مالویئر پروٹیکشن دے بارے ودھیک ڄاݨو۔
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+safeb-blocked-addon-page-error-desc-override = <strong>ایہے سائٹ کیوں بلاک کیتی ڳئی؟</strong>
+safeb-blocked-addon-page-error-desc2-override = <strong>{ $sitename }</strong> دھوکہ دئیݨ آلی تے نقصان دہ سرگرمی نال جڑیا ہو سڳدا اے۔
+safeb-blocked-addon-page-error-desc3-override = <strong>تُساں ایہے بارے وچ کیا کر سڳدے ہیوے؟</strong>
+safeb-blocked-addon-page-error-desc4-override = ایہے دوبارہ نہ تھیوے ایں کیتے تُساں <strong>{ $addonName }</strong> کوں about:addons وچوں ہٹا سڳدے ہیوے یا غیر فعال کر سڳدے ہیوے۔
+safeb-blocked-addon-page-learn-more3 = <a data-l10n-name='firefox_support_harmful_addons'>{ -brand-short-name } دے نقصانکار ایڈ-آن تحفظ دے بارے وچ بیا سکھو</a>۔
 
 ## Alert shown when reporting a site as not deceptive fails
 

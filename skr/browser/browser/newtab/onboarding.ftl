@@ -408,6 +408,7 @@ multi-profile-spotlight-title = { -brand-product-name } پروفائلز کوں 
 multi-profile-spotlight-body = کام تے تفریح کیتے براؤزنگ دے درمیان آسانی نال تبدیل کرو۔ پروفائلز تہاݙی براؤزنگ دی معلومات — ڳولو دی تاریخ تے پاس ورڈز سمیت — بالکل علیحدہ رکھدے ہن تاں جے تساں منظم رہو۔
 multi-profile-spotlight-cta = نویں پروفائل بݨاؤ
 multi-profile-callout-title = کم تے مزے کیتے وکھرے وکھرے پروفائل بݨاؤ
+multi-profile-callout-subtitle = پروفائلز تہاݙی براؤزنگ دی معلومات، جیویں تلاش ہسٹری تے پاس ورڈز، بالکل ایویں رکھدن۔
 multi-profile-callout-cta = پروفائل بݨاؤ
 
 ## Desktop to Mobile Adoption feature callout strings
@@ -416,28 +417,46 @@ multi-profile-callout-cta = پروفائل بݨاؤ
 desktop-to-mobile-headline = ڈاؤن لوڈ کرو، سنک کرو تے چلو!
 # The phrase, 'on the go', is used to describe when people are very busy and are traveling from place to place.
 desktop-to-mobile-subtitle = موبائل کیتے { -brand-product-name } ڈاؤن لوڈ کرݨ کیتے QR کوڈ اسکین کرو۔ انسٹال تھیوݨ دے بعد تساڈے پاس ورڈ، بک مارکس تے بیا کجھ سفر دے دوران حاصل کرݨ کیتے ”موبائل نال سنک کرو“ چݨو۔
+dismiss-button-label = برخاست کرو
 sync-to-mobile-button-label = موبائل نال سنک کرو
 desktop-to-mobile-qr-code-alt =
     .aria-label = موبائل کیتے { -brand-product-name } ڈاؤن لوڈ کرݨ دا QR کوڈ
 
 ## Fx Backup onboarding: Create Backup spotlight
 
+create-backup-screen-1-title = ونڈوز 11 اپ گریڈ؟ آؤ تہاݙا { -brand-product-name } ڈیٹا بیک اپ کرو۔
 create-backup-screen-1-subtitle = اپݨے پاسورڈاں، بک مارکساں تے بیا ڈتا کوں صرف 1-2 منٹاں وچ آپوں محفوظ رکھو۔
+create-backup-screen-1-flair = سفارش شدہ
 create-backup-learn-more-link = <a data-l10n-name="learn-more-label">بیا ݙیکھو</a>
+create-backup-screen-1-sync-label = { -brand-product-name } نال سنک کرو۔
 create-backup-screen-1-sync-body = سائن ان تھیوے ہوئے سارے ڈیوائساں دا بیک اپ ڳھندی ہے۔
+create-backup-screen-1-backup-label = پی سی بیک اپ
 create-backup-screen-1-backup-body = تیڈے ڈیوائس یا OneDrive وچ محفوظ تھیندی ہے۔
+create-backup-select-tile-button-label = چݨو
 create-backup-back-button-label = پچھے
+create-backup-show-fewer =
+    .label = ایں جیہے گھٹ ݙکھاؤ
 create-backup-screen-2-title = { -brand-product-name } دا ڈتا بیک اپ کیتے چُنو۔
+create-backup-screen-2-subtitle = صرف ہک منٹ لڳدے۔ تہاݙا ڈیٹا روز بیک اپ تھیندے۔
 # Label for the "Easy setup" backup option
 create-backup-screen-2-easy-label = سادہ سیٹ اپ
+# Preceded by a green check mark indicating that these are included in "Easy setup" backup
+create-backup-screen-2-easy-list-1 = نشانیاں، ہسٹری، ترتیباں تے بیا وی
 # Preceded by a red X indicating that these are not included in the "Easy setup" backup
 create-backup-screen-2-easy-list-2 = پاسورڈ تے ادائیگیاں شامل نیہیں ہن۔
+# Preceded by a red X indicating that "Easy setup" backups are not encrypted
+create-backup-screen-2-easy-list-3 = انکرپٹ نئیں
 # Label for the "All data" backup option
 create-backup-screen-2-all-label = سارا ڈتا
+# Preceded by a green check mark indicating that these are included in the "All data" backup
+create-backup-screen-2-all-list-2 = پاس ورڈز تے ادائیگیاں شامل ہن
 # Preceded by a green check mark and shield indicating "All data" backups are encrypted
 create-backup-screen-2-all-list-3 = پاسورڈ نال انکرپٹڈ ہے۔
+# Title for a screen asking users to choose a file location
+create-backup-screen-3-location = تہاݙا بیک اپ کتھاں محفوظ تھیوے؟
 # Title for a screen asking users to create a password that will encrypt the backup
 create-backup-screen-3-title = بیک اپ فائل دا پاسورڈ بݨاؤ۔
+create-backup-screen-3-subtitle = تہاݙا ڈیٹا انکرپٹ کرݨا ضروری ہے۔ یاد راہوݨ آلی جاہ تے رکھو۔
 fx-backup-opt-in-header = فائل دی جاہ چُنو۔
 fx-backup-opt-in-filepath-label = نویں ڈیوائس تے ڳھن ونجݨ آلی جاہ چݨو، جیویں OneDrive۔
 fx-backup-opt-in-create-password-label = پاسورڈ لکھو۔

@@ -8,6 +8,19 @@ tabbrowser-menuitem-close-tab =
     .label = ٹیب بند کرو
 tabbrowser-menuitem-close =
     .label = بند کرو
+# Displayed within the tooltip on tabs inside of a tab group.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+tabbrowser-tab-tooltip-tab-group = { $tabGroupName }
+# Displayed within the tooltip on tabs in a container.
+# Variables:
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-container = { $containerName }
+# Displayed within the tooltip on tabs inside of a tab group if the tab is also in a container.
+# Variables:
+#   $tabGroupName (String): the user-defined name of the current tab group.
+#   $containerName (String): the name of the current container.
+tabbrowser-tab-tooltip-tab-group-container = { $tabGroupName } — { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -19,6 +32,10 @@ tabbrowser-close-tabs-button =
             [one] ٹیب بند کرو
            *[other] { $tabCount } ٹیباں بند کرو
         }
+tab-splitview-splitter =
+    .aria-label = سپلٹ ویو ٹیبز دا سائز تبدیل کرو
+tab-devtools-splitter =
+    .aria-label = ڈویلپر ٹولز پینل دا سائز تبدیل کرو
 
 ## Tooltips for tab audio control
 ## Variables:
@@ -59,6 +76,16 @@ tabbrowser-unblock-tab-audio-tooltip =
            *[other] { $tabCount } ٹیباں چلاؤ
         }
 
+## Tooltips for tab audio control
+
+tabbrowser-unmute-tab-audio-aria-label =
+    .aria-label = ٹیب دا آواز چالو کرو
+tabbrowser-mute-tab-audio-aria-label =
+    .aria-label = ٹیب دا آواز بند کرو
+# Used to unblock a tab with audio from autoplaying
+tabbrowser-unblock-tab-audio-aria-label =
+    .aria-label = ٹیب چلاؤ
+
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
 
@@ -70,6 +97,7 @@ tabbrowser-confirm-close-tabs-title =
        *[other] { $tabCount } ٹیباں بند کرو؟
     }
 tabbrowser-confirm-close-tabs-button = ٹیباں بند کرو
+tabbrowser-ask-close-tabs-checkbox = ملٹیپل ٹیبز بند کرݨ توں پہلے پوچھو
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
@@ -352,3 +380,88 @@ tab-groups-list-create-group-button = نواں گروپ
 # window and move this tab group to that new window.
 tab-group-context-move-to-new-window =
     .label = گروپ کوں نویں ونڈو اچ لے ونڄو
+# For a tab group open in a different window from the one that the
+# user is using to access the tab group menu, move that tab group into the
+# user's current window.
+tab-group-context-move-to-this-window =
+    .label = گروپ کوں ایں ونڈو وچ منتقل کرو
+# For a tab group that is open in any window, build a shareable link for the
+# tab group and open the content sharing dialog. Share is a verb here.
+# .badge labels this menu item as a newly introduced feature.
+tab-group-context-share-group =
+    .badge = نواں
+    .label = گروپ شیئر کرو
+# For a tab group that is open in any window, close the tab group and
+# do not save it. For a tab group that is closed but saved by the user, clicking
+# this will forget the saved tab group.
+tab-group-context-delete =
+    .label = گروپ مٹاؤ
+# For a saved tab group that is not open in any window, open the tab group
+# in the user's current window.
+tab-group-context-open-saved-group-in-this-window =
+    .label = گروپ کوں ایں ونڈو وچ کھولو
+# For a saved tab group that is not open in any window, create a new window and
+# open the tab group in that window.
+tab-group-context-open-saved-group-in-new-window =
+    .label = گروپ کوں نویں ونڈو وچ کھولو
+
+## Tab Notes
+
+tab-context-add-note =
+    .label = نوٹ شامل کرو
+    .accesskey = A
+tab-context-edit-note =
+    .label = نوٹ وچ تبدیلی کرو
+    .accesskey = E
+tab-context-delete-note =
+    .label = نوٹ مٹاؤ
+    .accesskey = D
+tab-note-editor-title-create = نوٹ شامل کرو
+tab-note-editor-title-edit = نوٹ وچ تبدیلی کرو
+tab-note-editor-text-field =
+    .placeholder = ایں ٹیب دے بارے وچ کیا یاد رکھݨا چاہندے ہو؟
+tab-note-editor-button-cancel =
+    .label = منسوخ
+    .accesskey = C
+tab-note-editor-button-save =
+    .label = محفوظ کرو
+    .accesskey = S
+tab-note-editor-button-delete =
+    .aria-label = نوٹ مٹاؤ
+    .title = نوٹ مٹاؤ
+    .accesskey = D
+tab-note-preview-edit-icon =
+    .alt = نوٹ وچ تبدیلی کرو
+# Link to show the full tab note in case it was truncated.
+tab-note-preview-expand = بیا پڑھو
+tab-note-panel-add-note-new-badge =
+    .label = نواں
+# Displayed within the tab note edit dialog box when the user has entered more
+# characters than are allowed.
+# Variables:
+#   $totalCharacters (Number): the number of characters the user has entered.
+#   $maxAllowedCharacters (Number): the maximum number of characters allowed for a tab note.
+tab-note-editor-character-limit =
+    { $maxAllowedCharacters ->
+        [one] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } حرف
+       *[other] { NUMBER($totalCharacters, useGrouping: "false") }/{ NUMBER($maxAllowedCharacters, useGrouping: "false") } حروف
+    }
+
+## Split View
+
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = سپلٹ ویو شامل کرو
+    .accesskey = t
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = سپلٹ ویو وچ کھولو
+    .accesskey = t
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = سپلٹ ویو علیحدہ کرو
+    .accesskey = t
+# Reverse the order of the two tabs in the split view
+tab-context-reverse-split-view =
+    .label = ٹیبز الٹاؤ
+    .accesskey = r

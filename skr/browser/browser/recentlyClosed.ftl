@@ -16,3 +16,16 @@ recently-closed-menu-reopen-all-windows = تمام ونڈوز کوں دوبار�
 
 recently-closed-panel-reopen-all-tabs = ساریاں ٹیباں کھولو
 recently-closed-panel-reopen-all-windows = سبھے ونڈوز ولا کھولو
+
+##
+
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } ٹیب، { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") } تے بند تھئے)
+       *[other] { $winTitle } ({ $tabCount } ٹیباں، { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") } تے بند تھئے)
+    }

@@ -103,6 +103,7 @@ autofill-address-tel = فون
 autofill-address-email = ای میل
 autofill-cancel-button = منسوخ
 autofill-save-button = ہتھیکڑا کرو
+autofill-country-warning-message-2 = فارم آٹو فل ہݨ صرف کجھ ملکاں کیلے دستیاب ہے
 autofill-country-warning-message = فارم آٹو فل فی الحال صرف مخصوص ممالک کیتے دستیاب ہے۔
 autofill-message-tooltip = خود کار طریقے نال پُر کرݨ دے بارے وِچ پیغام ݙیکھو
 # The dialog title for creating credit cards in browser preferences.
@@ -117,12 +118,18 @@ autofill-card-name-on-card-2 =
     .label = کارڈ تے ناں
 autofill-card-expires-month-2 =
     .label = ختم تھیوݨ دا مہینہ
+autofill-card-expires-year-2 =
+    .label = ختم تھیوݨ آلا سال
 autofill-card-billing-address-2 =
     .label = بل دا پتہ
 # "CVV" is a common abbreviation for the security code printed on a payment
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-optional =
     .label = CVV (اختیاری)
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = کارڈ تے ناں
 autofill-card-expires-month = اختتامی مہینہ
 autofill-card-expires-year = اختتامی سال

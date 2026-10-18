@@ -442,6 +442,9 @@ newtab-stocks-search-input =
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
     .aria-label = تلاش دے نتائج
+# Shown in the search panel, where the results will appear, until the user
+# has searched.
+newtab-stocks-search-hint = تہاݙی واچ لسٹ وچ شامل کرݨ کیتے علامات یا کمپنیاں تلاش کرو۔
 # "Back" is an icon-only button in the search panel header that returns to the
 # widget — the attributes are consumed as tooltip/screen-reader label only. The
 # button never renders visible text.
@@ -494,6 +497,11 @@ newtab-picture-attribution-license =
 newtab-picture-widget-menu-button =
     .aria-label = ڈینہہ دی تصویر دے آپشنز
     .title = ڈینہہ دی تصویر دے آپشنز
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = اڄ دی تصویر دا مینیو کھولو۔
+    .title = اڄ دی تصویر دا مینیو کھولو۔
 # Button that sets the picture shown in the widget, which may be today’s or the
 # previous day’s, as the New Tab background wallpaper. The button collapses to an
 # icon when not hovered/focused, so .title is its tooltip.
@@ -853,6 +861,9 @@ newtab-custom-shortcuts-toggle =
     .label = شارٹ کٹ
 newtab-custom-shortcuts-nova =
     .label = شارٹ کٹ
+newtab-custom-web-notifications-toggle =
+    .description = تہاݙیاں سائٹاں دیاں اطلاعاں انہاں دے شارٹ کٹس تے ݙکھاؤ۔
+    .label = ویب اطلاعاں
 newtab-custom-row-description =
     .description = قطاراں دی تعداد
 # Variables
@@ -874,6 +885,7 @@ newtab-custom-stories-personalized-toggle =
     .label = کہاݨیاں
 newtab-custom-stories-personalized-checkbox =
     .label = تساڈی سرگرمی دی بنیاد تے ذاتی کہانیاں
+newtab-custom-stories-personalized-checkbox-label = تہاݙی سرگرمی دی بنیاد تے ذاتی کہانیاں
 newtab-custom-weather-toggle =
     .description = اڄ دی پیش گوئی تے ہک نظر
     .label = موسم
@@ -883,6 +895,8 @@ newtab-custom-widget-lists-toggle =
     .label = فہرستاں
 newtab-custom-widget-timer-toggle =
     .label = ٹائمر
+newtab-custom-widget-clock-toggle =
+    .label = گھڑی
 newtab-custom-widget-sports-toggle2 =
     .label = کھیل
 newtab-custom-widget-privacy-toggle =
@@ -890,12 +904,17 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = کراس ورڈ
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = فنانس
 newtab-custom-widget-stocks-toggle =
     .label = سٹاک
 newtab-custom-widget-picture-toggle =
     .label = اج دی تصویر
 newtab-custom-widget-search-toggle =
     .label = ڳولو
+newtab-custom-widget-horoscopes-toggle =
+    .label = برج
 # Travel (noun) is a widget on New Tab for searching hotels, flights
 # and car rentals.
 newtab-custom-widget-travel-toggle =
@@ -1276,6 +1295,7 @@ newtab-section-confirm-block-topic-p2 = بلاک کیتے ڳئے موضوعات 
 # Variables:
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = { $topic } بلاک کرو
+newtab-section-block-cancel-button = منسوخ
 
 ## Strings for custom wallpaper highlight
 
@@ -1698,11 +1718,16 @@ newtab-sports-widget-information = میچ دے بارے وچ معلومات
 newtab-sports-widget-no-live-data = لائیو میچ ڈیٹا ہݨے اپ ڈیٹ نیں تھیندا پیا
 newtab-sports-widget-view-results-link = نتیجے ݙیکھو
 newtab-sports-widget-third-place = تیجا نمبر
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = ݙوجھے نمبر آلی ٹیم
 newtab-sports-widget-champions = چیمپئنز
 newtab-sports-widget-world-cup-champions = 2026 ورلڈ کپ چیمپئنز
 # Compact champions label for the medium-size widget result card; the larger
 # card uses newtab-sports-widget-world-cup-champions.
 newtab-sports-widget-world-cup-champions-short = 2026 چیمپئنز
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
 newtab-sports-widget-match-full-time = پورا وقت
 newtab-sports-widget-match-halftime = ہاف ٹائم۔
 newtab-sports-widget-match-extra-time = اضافی وقت۔

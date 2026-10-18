@@ -9,6 +9,8 @@ non-technical-privacy-group =
     .label = ویب سائٹ رازداری ترجیحاں
 do-not-track-removal3 =
     .message = اساں “Do Not Track” فیچر دی حمایت ہݨ نہیں کریندے۔
+non-technical-privacy-heading =
+    .label = اضافی تحفظات
 preferences-privacy-relay-available =
     .description = تیڈے اصلی ای میل پتے کوں لکائیے رکھے تاں جو تیڈا ان باکس اسپام توں محفوظ رہے۔
     .label = { -relay-brand-name } ای میل ماسکس تجویز کرو
@@ -35,6 +37,8 @@ managed-notice-info-icon =
     .alt = معلومات
 managed-notice-nav =
     .label = تہاݙا براؤزر تہاݙی تنظیم دے زیر انتظام ہے۔
+tls-key-logging-notice-nav =
+    .label = کوئی ایپ یا سروس تہاݙی انکرپٹڈ ٹریفک ݙیکھ سڳدی ہے۔
 category-list =
     .aria-label = ونکیاں
 pane-general-title = عمومی
@@ -48,10 +52,16 @@ pane-privacy-title3 = رازداری تے سلامتی
 pane-privacy-section =
     .heading = رازداری تے سلامتی
 pane-sync-title3 = ہم وقت
+pane-ai-controls-title2 = AI کنٹرولز
+    .title = AI کنٹرولز
 pane-about-firefox-title = { -brand-short-name } دے بارے اچ
     .title = { pane-about-firefox-title }
+pane-appearance-title = ظاہر
+    .title = { pane-appearance-title }
 pane-downloads-title2 = ڈاؤن لوڈز
     .title = ڈاؤن لوڈز
+pane-downloads3 =
+    .heading = ڈاؤن لوڈ
 pane-accessibility-title = رسائی
     .title = { pane-accessibility-title }
 pane-languages-title2 = زباناں
@@ -218,10 +228,19 @@ ask-on-quit-with-key =
 warn-on-open-many-tabs =
     .label = تہاکوں چتاوݨی ہے جو ٹیباں کھولݨ نال { -brand-short-name } سست تھی سڳدی ہے
     .accesskey = d
+switch-to-new-tabs-2 =
+    .label = جڈاں لنکس یا میڈیا نویں ٹیب وچ کھولو تاں فوراً اوں ٹیب تے ونڄو۔
+    .accesskey = h
 show-tabs-in-taskbar =
     .label = ونڈوز ٹاسک بار وِچ ٹیب دے مناظر ݙکھاؤ۔
     .accesskey = k
+browser-containers-enabled-2 =
+    .label = کنٹینر ٹیبز ورتو
+    .accesskey = n
 browser-containers-learn-more = ٻیا سِکھو
+browser-containers-settings-2 =
+    .label = ترتیباں دا بندوبست کرو
+    .accesskey = ت
 containers-disable-alert-title = تمام کنٹینر ٹیباں بند کرو؟
 startup-group =
     .label = سٹارٹ اپ
@@ -256,18 +275,61 @@ containers-remove-cancel-button = ایہ کنٹینر نہ ہٹاؤ
 settings-tabs-show-image-in-preview =
     .label = جہڑیلے تُساں کئیں ٹیب اُتے گُھمدے ہِیوے تاں ہِک تصویری پیش نظارہ ݙیکھو
     .accessKey = ایچ
+settings-tabs-drag-to-create-tab-groups =
+    .label = ٹیب گروپس بݨاوݨ کیلے ٹیبز کوں کٹھے گھساو۔
+browser-layout-header2 =
+    .label = براؤزر لے آؤٹ
+browser-layout-horizontal-tabs2 =
+    .description = اُتے ٹیبز
+    .label = افقی ٹیبز
+    .title = اُتے ٹیبز
+browser-layout-vertical-tabs2 =
+    .description = سائیڈ بار وچ پاسے تے ٹیبز
+    .label = عمودی ٹیبز
+    .title = سائیڈ بار وچ پاسے تے ٹیبز
+browser-layout-show-sidebar2 =
+    .description = اپݨا مرکزی منظر چھوڑے بغیر نشانیاں، تہاݙے فون توں ٹیبز، AI چیٹ بوٹس تے بیا چیزاں دی جلدی رسائی حاصل کرو۔
+    .label = سائیڈ بار ݙکھاؤ
+page-navigation-group =
+    .label = صفحے دی رہنمائی
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = زبان تے ظاہری شکل
+appearance-group2 =
+    .description = کجھ ویب سائٹاں تہاڈی ترجیحاں نال ملن کیتے اپنے رنگ بدل ڈیندیاں ہن۔ اپنا رنگ سکیم چنو۔
+    .label = ویب سائٹ دی ظاہری شکل
+preferences-web-appearance-choice-auto3 =
+    .label = سسٹم
+    .title = تہاݙے سسٹم دیاں ترتیباں تے { -brand-short-name } تھیم دے مطابق ویب سائٹ دے پس منظر تے مواد خودکار بدلݨا۔
 preferences-web-appearance-choice-light2 =
     .label = پھکا
     .title = ویب سائٹ دے پس منظر تے مواد کیتے ہلکی شکل دا استعمال کرو۔
 preferences-web-appearance-choice-dark2 =
     .label = شوخ
     .title = ویب سائٹ دے پس منظر تے مواد کیتے گہرے رنگ دا استعمال کرو۔
+web-appearance-group =
+    .aria-label = ویب سائٹ دی ظاہری شکل
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning3 =
+    .message = تہاݙے کنٹراسٹ کنٹرول دیاں ترتیباں ویب سائٹ دی ظاہری شکل کوں اووررائیڈ کر رہیاں ہن۔
 preferences-web-appearance-link =
     .label = ایکسٹینشنز تے تھیمز وِچ { -brand-short-name } تھیمز دا انتظام کرو
+preferences-contrast-control-group =
+    .description = ویب سائٹاں اگوں اتے پچھوں دے رنگاں دی کئی قسم استعمال کریندیاں ہن۔ ہکو جیہے کنٹراسٹ کیتے، تُساں ساریاں ویب سائٹاں تے ہکے رنگ استعمال کر سڳدو۔
+    .label = ویب سائٹ کنٹراسٹ
+preferences-contrast-control-radio-group =
+    .label = رنگ اووررائیڈ
+preferences-contrast-control-use-platform-settings =
+    .label = خودکار (سسٹم سیٹنگز استعمال کرو)
+    .accesskey = A
+preferences-contrast-control-off =
+    .label = بند
+    .accesskey = ب
+preferences-contrast-control-custom =
+    .label = کسٹم
+    .accesskey = C
 preferences-colors-manage-button2 =
     .label = رنگاں دا بندوبست کرو
     .accesskey = C
@@ -286,8 +348,15 @@ preferences-default-zoom-value =
 preferences-zoom-text-only =
     .label = ْصرف متن زوم کرو
     .accesskey = t
+preferences-text-zoom-override-warning2 =
+    .message = جے "Zoom text only" آن ہے تے تہاݙا ڈیفالٹ زوم 100% نئیں ہے، تاں کجھ سائٹاں مواد صحیح نہ ݙکھیسن۔
 language-header = زبان
 choose-language-description = ورقیاں دی نمائش کیتے اپݨی پسندیدہ زبان دا انتخاب کرو۔
+website-language-heading =
+    .description = کجھ ویب ورقے کئی زباناں وچ ڈکھائے ویندے ہن۔ اپنی ترجیح دے حکم وچ زباناں چنو۔
+    .label = ویب سائٹ دی زبان
+website-preferred-language =
+    .label = ترجیحی زباناں
 website-add-language =
     .label = زبان شامل کرو
 website-add-language-button =
@@ -573,6 +642,8 @@ support-application-heading =
     .label = { -brand-short-name } دی حمایت
 support-get-help =
     .label = مدد ڳھنو
+support-share-ideas =
+    .label = خیالات اتے رائے سانجھے کرو
 
 ## General Section - Performance
 
@@ -590,12 +661,20 @@ performance-default-content-process-count =
     .label = { $num } (طے شدہ)
 performance-group =
     .label = کارکردگی
+performance-use-recommended-settings-checkbox-2 =
+    .description = ایہ ترتیباں تہاݙے ہارڈویئر تے آپریٹنگ سسٹم دے مطابق ہن۔
+    .label = تجویز کردہ کارکردگی دیاں ترتیباں ورتو
+    .accesskey = ت
 
 ## Accessibility page
 
 browsing-use-autoscroll =
     .label = خودبخود سکرولنگ دا استعمال کرو
     .accesskey = a
+keyboard-and-scrolling-group =
+    .label = کی بورڈ نیویگیشن اتے سکرولنگ
+motion-and-link-group =
+    .label = حرکت تے لنک اسٹائل
 browsing-use-smooth-scrolling =
     .label = سُلھڑی سکرولنگ استعمال کرو
     .accesskey = m
@@ -617,9 +696,28 @@ browsing-use-full-keyboard-navigation =
 browsing-search-on-start-typing =
     .label = متن کیتے ڳول جݙاں تساں ٹائپنگ کرݨ شروع کرو
     .accesskey = x
+settings-keyboard-shortcuts-group =
+    .description = کنٹرول کرو تُساں { -brand-short-name } وچ کیویں چلدے پھردے ہو اتے کیویں تعامل کریندے ہو۔
+    .label = کی بورڈ شارٹ کٹس
+settings-keyboard-shortcuts-customkeys-link =
+    .label = کی بورڈ شارٹ کٹس اپݨے مطابق بݨاؤ
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = تلاش وچ ایڈریس بار سیٹنگز کسٹمائز کرو
+settings-media-group =
+    .label = میڈیا
+browsing-picture-in-picture-toggle-enabled-2 =
+    .label = پکچر-ان-پکچر استعمال کرو
+    .accesskey = e
+browsing-picture-in-picture-enable-when-switching-tabs =
+    .label = جڈاں ٹیبز بدلو تاں پکچر-ان-پکچر وچ ویڈیوز چلدیاں رہݨ ݙیو۔
+    .accesskey = ب
 browsing-media-control =
     .label = کی بورڈ، ہیڈ سیٹ، یا ورچوئل انٹرفیس دے ذریعے میڈیا کوں کنٹرول کرو۔
     .accesskey = v
+recommendations-group =
+    .label = سفارشات
 browsing-cfr-recommendations =
     .label = براؤز کریندے ویلھے ایکسٹیشنز تجویز کرو
     .accesskey = R
@@ -628,14 +726,45 @@ browsing-cfr-features =
     .accesskey = f
 browsing-group =
     .label = براؤزنگ
+preferences-accessibility-header =
+    .heading = رسائی
+preferences-default-zoom-select =
+    .aria-label = ڈیفالٹ زوم
+preferences-fonts-family =
+    .label = فونٹ فیملی
+    .accesskey = D
+preferences-fonts-size =
+    .label = فونٹ سائز
+    .accesskey = س
+preferences-fonts-advanced-settings =
+    .label = ایڈوانس سیٹنگز
+    .accesskey = A
+
+## General Section - Proxy
+
+network-proxy-group2 =
+    .description = ایہ طے کرو جے { -brand-short-name } انٹرنیٹ نال کیویں جڑدا ہے۔
+    .label = پروکسی ترتیباں
+network-proxy-connection-settings2 =
+    .description = ایہہ سیٹنگز بدلن نال کنیکشن دے مسئلے تھی سڳدن
+    .label = پراکسی کنفیگر کرو
+    .accesskey = p
 
 ## Home Section
 
 home-new-windows-tabs-header = نویاں ونڈوز تے ٹیباں
 home-new-windows-tabs-description2 = جݙاں تساں اپݨا ہوم پیج، نویں ونڈوز، تے نویاں ٹیباں کھولیندے او تاں تساں جو کجھ ݙیکھدے او اونکوں منتخب کرو۔
+home-section =
+    .heading = ہوم تے آغاز
 
 ## Home Section - Default Browser
 
+home-default-browser-title =
+    .label = ڈیفالٹ براؤزر
+is-default-browser-2 =
+    .message = { -brand-short-name } تہاݙا ڈیفالٹ براؤزر ہے۔ چنگی چوݨ اے۔
+is-not-default-browser-2 =
+    .message = Psst، { -brand-short-name } تہاݙا ڈیفالٹ براؤزر کائنی۔
 set-as-my-default-browser-2 =
     .label = طے شدہ بݨاؤ
     .accesskey = D
@@ -655,6 +784,9 @@ home-mode-choice-blank =
     .label = خالی ورقہ
 home-homepage-custom-url =
     .placeholder = URL چسپاں کرو …
+# This button is shown when the homepage is managed by an extension and is placed below extension-controlling-homepage.
+home-homepage-manage-extension-button =
+    .label = ایکسٹینشن دا بندوبست کرو
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -669,13 +801,46 @@ use-current-pages =
 choose-bookmark =
     .label = نشانی استعمال کرو …
     .accesskey = B
+home-homepage-title =
+    .label = ہوم پیج
+home-homepage-new-windows =
+    .label = نویں ونڈوز
 home-homepage-new-tabs =
     .label = نویاں ٹیباں
+# This option leads to the "Custom Homepage" subpage
+home-homepage-custom-homepage-button =
+    .label = کوئی خاص ویب سائٹ چنو
+# Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
+home-custom-homepage-card-header =
+    .label = ویب سائٹ دے ایڈریس
+home-custom-homepage-address =
+    .placeholder = ایڈریس لکھو
+home-custom-homepage-address-button =
+    .label = ایڈریس شامل کرو
+# Shown when no custom websites/URLs to use as a homepage have been added yet
+home-custom-homepage-no-results =
+    .label = ہُن تائیں کوئی ویب سائٹ شامل نئیں کیتی ڳئی۔
+home-custom-homepage-delete-address-button =
+    .aria-label = ایڈریس مٹاؤ
+    .title = ایڈریس مٹاؤ
+# Further options to use when setting the home page. Two action buttons are placed in line with this prompt
+# to replace the current home page with a currently open page or bookmark.
+home-custom-homepage-replace-with-prompt =
+    .label = نال بدل ڈیو
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-current-pages-button =
+    .label = ہݨ کھلے ہوئے صفحے
+# Button that appears in-line after text "Replace with" (home-custom-homepage-replace-with-prompt)
+home-custom-homepage-bookmarks-button =
+    .label = بُک مارکس…
 # Dropdown option shown when an extension replaces the contents of new windows or tabs.
 # Variables:
 #   $extension (string) - Name of the extension
 home-prefs-homepage-extension-option =
     .label = ایکسٹنشن ({ $extension })
+home-custom-homepage-header = اپݨا ہوم پیج
+home-custom-homepage-subpage =
+    .heading = کسٹم ہوم پیج
 
 ## Home Section - Firefox Home Content Customization
 
@@ -691,6 +856,9 @@ home-prefs-shortcuts-by-option-sponsored =
 home-prefs-recommended-by-header-generic =
     .label = تجویزہ کردہ کہاݨیاں
 home-prefs-recommended-by-description-generic = غیر معمولی مواد { -brand-product-name }ٹَٻَّر دے ذریعے تیار کِیتا ڳِیا ہِے
+home-prefs-stories-header =
+    .label = کہاݨیاں
+home-prefs-stories-description = تہاݙی سرگرمی دی بنیاد تے ذاتی کہاݨیاں
 
 ##
 
@@ -710,6 +878,13 @@ home-prefs-weather-header =
     .label = موسم
 home-prefs-weather-description = ہک نظر وچ اڄ دی پیش گوئی
 home-prefs-weather-learn-more-link = ٻیا سِکھو
+# "Support" here means to help sustain or contribute to something, especially through funding or sponsorship.
+home-prefs-support-firefox-header =
+    .label = { -brand-product-name } دی مدد کرو
+home-prefs-mission-message = ساݙے سپانسرز ساݙے مشن دی مدد کریندن ہک بہتر ویب بݨاوݨ وچ۔
+home-prefs-mission-message-learn-more-link = جانݨ کیتے
+home-prefs-manage-topics-link = موضوعاں دا بندوبست کرو
+home-prefs-choose-wallpaper-link = وال پیپر چُݨو
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -727,8 +902,33 @@ search-show-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = ایڈریس بار دے نتیجیاں وِچ ڳولݨ دیاں تجویزاں ظاہر کرو
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "before" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option-2 =
+    .label = ایڈریس بار دے نتیجیاں وچ براؤزنگ ہسٹری کنوں پہلے تلاش دیاں تجویزاں ڈکھاؤ۔
+search-show-suggestions-private-windows-2 =
+    .label = نجی ونڈوز وچ تلاش دیاں تجویزاں
 search-suggestions-cant-show-2 =
     .message = ڳولݨ دیاں صلاحیں لوکیشن بار دے نتیجے وِچ نہ ݙکھایاں ویسن کیوں جو تساں تاریخ کوں کݙاہیں یاد نہ رکھݨ کیتے { -brand-short-name } کوں ترتیب ݙتا ہے۔
+addressbar-header-1 =
+    .description = چݨو کیہڑیاں تجویزاں تہاݙے ایڈریس بار وچ ظاہر تھیون۔
+    .label = ایڈریس بار
+# When Firefox Suggest is enabled, this replaces `addressbar-header-1`.
+addressbar-header-firefox-suggest-2 =
+    .description = تہاݙے ایڈریس بار وچ { -brand-short-name } تے ساݙے شراکتاں دیاں تجویزاں۔
+    .label = { -firefox-suggest-brand-name }
+# With this option enabled, while on a SERP, the URL normally displayed in the
+# address bar will be replaced with the search term used to generate that SERP.
+search-show-search-term-option-2 =
+    .label = نتیجیاں دے صفحیاں تے ایڈریس بار وچ تلاش دے لفظ ڈکھاؤ۔
+search-separate-default-engine-2 =
+    .label = نجی ونڈوز وچ ہک بیا ڈیفالٹ سرچ انجن ورتو۔
+    .accesskey = و
+search-separate-default-engine-dropdown =
+    .aria-label = نجی ونڈوز وچ ڈیفالٹ سرچ انجن
 # "Navigation" here means moving around within the address bar and its results
 # list, not navigation to the address bar.
 addressbar-navigation-group =
@@ -988,6 +1188,8 @@ sync-manage-options =
 sync-manage-options-2 =
     .label = سنک کیتا ڳیا ڈیٹا منیج کرو
     .accesskey = M
+settings-sync-disconnect-button =
+    .label = کنکشن توڑو
 
 ## The "Choose what to sync" dialog.
 
@@ -1021,6 +1223,20 @@ sync-engine-settings =
     .label = ترتیباں
     .tooltiptext = عمومی، رازداری، تے سلامتی ترتیباں جیڑھیاں تساں ہتھیکڑیاں کیتن
     .accesskey = s
+sync-choose-what-to-sync-dialog4 =
+    .buttonlabelaccept = محفوظ کرو
+    .buttonlabelextra2 = کنکشن توڑو
+    .buttonaccesskeyaccept = م
+    .buttonaccesskeyextra2 = ک
+    .style = min-width: 36em;
+    .title = تہاݙے سارے جڑے ہوئے ڈیوائسز تے کیا سنک تھیندا ہے، ایندا بندوبست کرو۔
+sync-choose-what-to-sync-dialog5 =
+    .buttonlabelaccept = محفوظ کرو
+    .buttonlabelextra2 = کنکشن توڑو
+    .buttonaccesskeyaccept = م
+    .buttonaccesskeyextra2 = ک
+    .style = min-width: 36em;
+    .title = ایں ڈیوائس تے کیا سنک تھیندا ہے، ایندا بندوبست کرو۔
 
 ## The device name controls.
 
@@ -1058,10 +1274,16 @@ privacy-header = براؤزر رازداری
 # by searching for the former term "logins". It's not displayed in the UI.
 pane-privacy-passwords-header = پاس ورڈز
     .searchkeywords = لاگ اناں
+forms-passwords-header =
+    .aria-label = پاس ورڈز
+    .label = پاس ورڈز
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-passwords =
     .label = پاس ورڈز محفوظ کرݨ کِیتے پُچُّھو
     .accesskey = A
+forms-manage-password-exceptions =
+    .label = پاس ورڈ دے استثنات دا بندوبست کرو۔
+    .accesskey = ب
 forms-exceptions =
     .label = استثنیات …
     .accesskey = x
@@ -1080,15 +1302,41 @@ relay-integration-learn-more-link = ٻیا سِکھو
 forms-fill-usernames-and-passwords =
     .label = صارف ناں اَتے پاس ورڈز خود کار طریقے نال پُر کرو
     .accesskey = F
+forms-fill-usernames-and-passwords-2 =
+    .label = یوزر نیمز تے پاس ورڈز محفوظ کرو تے آٹو فل کرو۔
+    .accesskey = ف
 forms-saved-passwords =
     .label = محفوظ تھئے پاس ورڈ
     .accesskey = d
+forms-saved-passwords-2 =
+    .label = پاس ورڈز دا بندوبست کرو
+    .accesskey = د
+forms-saved-passwords-searchkeywords = ہیٹھ آلیاں ویب سائٹاں دے لاگ اِن تہاݙے کمپیوٹر تے محفوظ ہن۔
+# Header for additional protections when managing password settings.
+forms-additional-protections-header =
+    .label = اضافی تحفظات
 forms-primary-pw-use =
     .label = ہک منڈھلا پاس ورڈ استعمال کرو
     .accesskey = U
+forms-primary-pw-use-2 =
+    .description = تہاݙے محفوظ کیتے گئے پاس ورڈاں دی حفاظت کیتے سیکیورٹی دی بیا تہہ شامل کریندے۔
+    .label = پرائمری پاس ورڈ استعمال کرو
+    .accesskey = U
+forms-primary-pw-set =
+    .label = پرائمری پاس ورڈ سیٹ کرو
+forms-primary-pw-on-2 = منڈھلا پاس ورڈ <strong>ON</strong> اے۔
+forms-primary-pw-on =
+    .label = پرائمری پاس ورڈ ON ہے
+forms-primary-pw-change-2 =
+    .label = منڈھلا پاس ورڈ تبدیل کرو
+# Label for button to disable primary password.
+forms-primary-pw-turn-off =
+    .label = ایں بند کرو
 # This operation requires the user to authenticate with the operating system (device sign-in)
 forms-os-reauth =
     .label = پاس ورڈاں کوں پُر کرݨ اَتے منیج کرݨ کِیتے  ڈیوائس سائن ان دی لوڑ ہِے۔
+forms-os-reauth-2 =
+    .label = پاس ورڈاں دا انتظام کرݨ کیتے ڈیوائس سائن اِن دی ضرورت کرو
 forms-primary-pw-learn-more-link = ٻیا سِکھو
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
@@ -1110,6 +1358,14 @@ forms-windows-sso =
 forms-windows-sso-learn-more-link = ٻیا سِکھو
 forms-windows-sso-desc = اپݨے موبائل ڈیوائس وِچ اکاؤنٹس کوں منظم کرو
 windows-passkey-settings-label = سسٹم دیاں ترتیباں وِچ پاس کلیداں کوں منظم کرو
+privacy-panel-settings-header =
+    .description = { -brand-short-name } وچ آن لائن تہاݙی معلومات دی حفاظت کیلے مدد گھنو۔
+    .label = رازداری پینل دیاں ترتیباں
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = ڈیٹا بریچ پیغام ڈکھاؤ
+    .accesskey = s
 
 ## OS Authentication dialog
 
@@ -1131,6 +1387,71 @@ autofill-creditcard-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy section - Autofill
 
+autofill-payment-methods-header =
+    .aria-label = ادائیگی دے طریقے
+autofill-payment-methods-checkbox-message-2 =
+    .label = ادائیگی دی معلومات محفوظ کرو اتے خودکار بھرو
+    .accesskey = p
+autofill-payment-methods-manage-payments-title =
+    .heading = ادائیگی دے طریقیاں دا بندوبست کرو
+autofill-payment-methods-manage-payments-button =
+    .label = ادائیگی دے طریقے دا انتظام کرو
+    .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-reauth-payment-methods-checkbox-2 =
+    .label = ادائیگی دے طریقیاں کوں آٹو فل کرݨ تے بندوبست کرݨ کیتے ڈیوائس سائن ان دی ضرورت کرو
+    .accesskey = آ
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = سیکیورٹی کوڈ محفوظ کرو
+    .accesskey = c
+autofill-payment-methods-add-button = ادائیگی دا نواں طریقہ شامل کرو
+payments-list-header =
+    .label = ادائیگی دے طریقے
+payments-delete-payment-prompt-title = ایں ادائیگی دا طریقہ مٹاؤ؟
+payments-delete-payment-prompt-confirm-button = مٹاؤ
+payments-delete-payment-prompt-cancel-button = روکو
+payments-delete-payment-button-label =
+    .aria-label = مٹاؤ
+payments-edit-payment-button-label =
+    .aria-label = تبدیلی کرو
+# This message is displayed when no payment methods such as credit card are stored in Firefox
+payments-no-payments-stored-message =
+    .label = کوئی ادائیگی دے طریقے شامل نئیں کیتے ڳئے
+autofill-addresses-checkbox-message =
+    .label = پتے محفوظ کرو اتے خودکار بھرو
+    .accesskey = S
+autofill-addresses-manage-addresses-button =
+    .label = پتے تے بیا دا انتظام کرو
+    .accesskey = M
+addresses-list-header =
+    .label = ایڈریس
+addreses-delete-address-button-label =
+    .aria-label = مٹاؤ
+addreses-edit-address-button-label =
+    .aria-label = تبدیلی کرو
+addresses-delete-address-prompt-title = ایہ پتہ مٹاؤ؟
+addresses-delete-address-prompt-confirm-button = مٹاؤ
+addresses-delete-address-prompt-cancel-button = روکو
+autofill-addresses-add-button = نواں ایڈریس شامل کرو
+autofill-addresses-manage-addresses-title =
+    .heading = پتے تے بیا دا انتظام
+# This message is displayed when no addresses are stored in Firefox
+addresses-no-addresses-stored-message =
+    .label = کوئی ایڈریس شامل نئیں کیتے ڳئے
+personal-info-group =
+    .label = ذاتی معلومات
+autofill-personal-info-checkbox-message =
+    .label = ذاتی معلومات محفوظ کرو تے آٹو فل کرو
+autofill-personal-info-manage-button =
+    .label = ذاتی معلومات دا انتظام کرو
+passports-list-header =
+    .label = پاسپورٹ
+passports-delete-passport-button-label =
+    .aria-label = مٹاؤ
+passports-edit-passport-button-label =
+    .aria-label = تبدیلی کرو
+passports-delete-passport-prompt-title = ایہ پاسپورٹ مٹاؤ؟
 passports-delete-passport-prompt-confirm-button = کڈھ ݙے
 passports-delete-passport-prompt-cancel-button = منسوخ کرو
 autofill-passports-add-button = نواں پاسپورٹ شامل کرو
@@ -1461,29 +1782,114 @@ permissions-autoplay2 =
 permissions-block-popups2 =
     .label = پاپ اپس تے تھرڈ پارٹی ری ڈائریکٹس بلاک کرو
     .accesskey = B
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button4 =
+    .description = او ویب سائٹس شامل کرو جیڑھیاں پاپ اپ کھول سکدیاں ہن تے تیسری پارٹی ری ڈائریکٹس ورت سکدیاں ہن۔
+    .label = استثنات دا انتظام کرو
+    .searchkeywords = پاپ اپ
+    .accesskey = ا
+permissions-addon-install-warning3 =
+    .label = جڈاں ویب سائٹاں ایکسٹینشنز لاوݨ دی کوشش کرݨ تاں وارننگ ݙکھاؤ
+    .accesskey = ڈ
+permissions-addon-exceptions2 =
+    .label = او ویب سائٹس چنو جیڑھیاں ایکسٹینشنز لگا سکدیاں ہن۔
+    .accesskey = ا
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = سائٹاں کوں ایپ لنکس کھولن دی پچھ کرݨ دی اجازت ݙیوو
+    .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = بلاک شدیاں سائٹاں مینج کرو
+    .accesskey = M
 permissions-location2 =
     .label = مقام
+permissions-localhost2 =
+    .label = ڈیوائس ایپس تے سروسز
+permissions-local-network2 =
+    .label = لوکل نیٹ ورک ڈیوائسز
 permissions-xr2 =
     .label = مجازی حقیقت
 permissions-camera2 =
     .label = کیمرہ
 permissions-microphone2 =
     .label = مائیکروفون
+# Privacy permission for sound output devices.
+permissions-speaker2 =
+    .label = سپیکر
 permissions-notification2 =
     .label = اطلاع نامے
+permissions-header3 =
+    .description = منظم کرو کہ ویب سائٹاں کیہڑیاں چیزاں تئیں رسائی رکھ سڳدیاں ہن، کنٹرول کر سڳدیاں ہن یا شروع کر سڳدیاں ہن۔
+    .label = اجازتاں
+permissions-data-section =
+    .heading = اجازتاں تے ڈیٹا
+pane-permissions-data-title2 = اجازتاں تے ڈیٹا
+    .title = اجازتاں تے ڈیٹا
 
 ## Privacy Section - Data Collection
 
+backup-multi-profile-warning-message =
+    .message = تُہاڈے بیک اپ وچ ایہے تبدیلی شامل ہووݨ کوں یقینی بݨاوݨ کیتے، ہر پروفائل کھولو تے سیٹنگز وچ “ہݨ بیک اپ لگو” چݨو۔
+nimbus-rollouts =
+    .description = تبدیلیاں دور توں لاڳو کیتیاں ویئسن۔
+    .label = { -brand-short-name } کوں اپ ڈیٹاں دے وچکار خصوصیات، کارکردگی تے استحکام بیا بہتر بݨاوݨ دی اجازت ݙیو
+addon-recommendations3 =
+    .description = تُہاڈے براؤزنگ تجربے کوں بیا بہتر بݨاوݨ کیتے ایکسٹینشن سفارشاں گھنو۔
+    .label = مرضی مطابق ایکسٹینشن سفارشاں دی اجازت ݙیو
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled2 = ایہے بلڈ کنفیگریشن وچ ڈیٹا رپورٹنگ غیر فعال اے۔
+collection-backlogged-crash-reports2 =
+    .label = خودکار طریقے نال کریش رپورٹس بھیجو
+    .accesskey = خ
+collection-backlogged-crash-reports-description = ایہ { -vendor-short-name } کوں براؤزر دے مسئلیاں دی تشخیص کرݨ تے انہاں کوں ٹھیک کرݨ وچ مدد کریندے۔ رپورٹس وچ ذاتی یا حساس ڈیٹا شامل ہو سکدا اے۔
+# Promotional message displayed in the Settings panes to inform users of the new redesign
+settings-redesign-promo =
+    .heading = وہے سیٹنگز، نواں روپ!
+    .message = اسیں ایہ صفحہ بیا ترتیب ݙتی اے تاکہ ایندا سکین کرݨا تے ایں وچ ڳول پھرول کرݨا سکھا تھیوے۔ تُہاڈیاں ذاتی سیٹنگز نہیں بدلیاں، تے ہر شے اتھائیں موجود اے۔ ٹوٹکا: جو وی چاہیدا اے، تلاش نال سیدھا اوتھے ونڄو۔
+settings-redesign-promo-dismiss-button =
+    .label = سمجھ ڳئے
 privacy-segmentation-section-header = نویاں خصوصیات جیڑھیاں تہاݙی براؤزنگ کوں بہتر کریندیاں ہن۔
 privacy-segmentation-section-description = جݙاں اساں اینجھیاں خصوصیتاں پیش کریندے ہیں جیڑھیاں تہاکوں ودھیک ذاتی تجربہ ݙیوݨ کیتے تہاݙا ڈیٹا استعمال کریندیاں ہن:
 privacy-segmentation-radio-off =
     .label = { -brand-product-name } دیاں سفارشاں استعمال کرو
 privacy-segmentation-radio-on =
     .label = تفصیلی معلومات ݙکھاؤ
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+data-collection =
+    .description = اسیں تُہاکوں چوناں ݙیوݨ دی کوشش کریندے ہئیں تے ہر کائیں کیتے { -brand-product-name } بیا بہتر بݨاوݨ کیتے صرف لوڑھیندڑ گھٹ توں گھٹ ڈیٹا کلیکٹ کریندے ہئیں۔
+    .label = { -brand-short-name } ڈیٹا کلیکشن تے استعمال
+    .searchkeywords = telemetry
+data-collection-link = پرائیویسی نوٹس ݙیکھو
+data-collection-preferences-across-profiles =
+    .message = ایں ڈیوائس تے ہر { -brand-product-name } پروفائل تے ایہ سیٹنگز لاڳو تھیندن۔
+data-collection-profiles-link = سارے پروفائل ݙیکھو
 data-collection-health-report-telemetry-disabled =
     .message = ہݨ تساں { -vendor-short-name } کوں تکنیکی تے تعامل دا ڈیٹا حاصل کرݨ دی اجازت نہیں ݙیندے پئے او۔ تمام پچھوکڑ دا ڈیٹا 30 ݙینہاں دے اندر حذف تھی ویسے۔
+data-collection-health-report =
+    .description = ایہے ساکوں { -brand-product-name } دیاں خصوصیات، کارکردگی تے استحکام بیا بہتر بݨاوݨ وچ مدد کریندے۔
+    .label = تکنیکی تے تعاملی ڈیٹا { -vendor-short-name } کوں بھیجو
+    .accesskey = r
+data-collection-health-report-disabled =
+    .description = ایہے بلڈ کنفیگریشن وچ ڈیٹا رپورٹنگ غیر فعال اے۔
+    .label = تکنیکی تے تعاملی ڈیٹا { -vendor-short-name } کوں بھیجو
+    .accesskey = r
+data-collection-run-studies =
+    .description = { -brand-short-name } خصوصیات کوں پرکھݨ کیتے بے ترتیب صارف چݨدے، جیندے نال ہر کائیں کیتے معیار بہتر تھیندے۔
+    .label = { -brand-short-name } کوں خصوصیات دے مطالعے چلاوݨ دی اجازت ݙیو
 data-collection-studies-link =
     .label = { -brand-short-name } مطالعے ݙیکھو
+data-collection-backlogged-crash-reports =
+    .description = ایہ { -vendor-short-name } کوں براؤزر دے مسئلیاں دی تشخیص کرݨ تے انہاں کوں ٹھیک کرݨ وچ مدد کریندے۔ رپورٹس وچ ذاتی یا حساس ڈیٹا شامل ہو سکدا اے۔
+    .label = خودکار طریقے نال کریش رپورٹس بھیجو
+    .accesskey = خ
+data-collection-usage-ping =
+    .description = ایہے { -vendor-short-name } کوں فعال صارفیں دا اندازہ لاوݨ وچ مدد کریندے۔
+    .label = روزانہ دا استعمال پنگ { -vendor-short-name } کوں بھیجو
+    .accesskey = u
 
 ## Privacy Section - Security
 ##
@@ -1491,10 +1897,15 @@ data-collection-studies-link =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = سلامتی
+browsing-protection-group2 =
+    .description = خطرناک سائٹس تے ڈاؤن لوڈز تُہاڈے ڈیٹا تے ڈیوائس کوں خطرے وچ پا سکدن۔ { -brand-short-name } انہاں کوں خودکار طریقے نال بلاک کریندے، تے خطرناک یا غیر مطلوب سافٹ ویئر بارے تُہاکوں خبردار کریندے۔
+    .label = گمراہ کن مواد تے خطرناک سافٹ ویئر پروٹیکشن
 security-enable-safe-browsing =
     .label = خطرناک تے گمراہ کن مواد کوں بلاک کرو
     .accesskey = B
 security-enable-safe-browsing-link = ٻیا سِکھو
+security-safe-browsing-warning =
+    .message = ایں کوں بند کرݨ نال فراڈ، نقصان دہ سائٹس تے خطرناک ڈاؤن لوڈز کنوں تحفظ ڳھٹ تھی ویندے۔
 security-block-downloads =
     .label = خطرناک ڈاؤن لوڈز بلاک کرو
     .accesskey = d
@@ -1513,17 +1924,38 @@ space-alert-over-5gb-settings-button =
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } وِچ ڈسک دی جاہ ختم تھیندی پئی ہے۔</strong> تھی سڳدا ہے ویب سائٹ دے مواد ٹھیک طراں ظاہر نہ تھیون۔ تساں ترتیباں > رازداریی تے سیکیورٹی > کوکیاں تے سائٹ ڈیٹا وِچ محفوظ کردہ ڈیٹا کوں صاف کر سڳدے او۔
 space-alert-under-5gb-message2 = <strong>{ -brand-short-name } وِچ ڈسک دی جگہ ختم تھیندی پئی ہے۔</strong> تھی سڳدا ہے ویب سائٹ دے مواد ٹھیک طراں ظاہر نہ تھیون۔ براؤزنگ دے بہتر تجربے کیتے اپݨی ڈسک دے استعمال کوں بہتر بݨاوݨ کیتے "ودھیک ڄاݨو" تے ونڄو۔
+certs-description3 =
+    .description = انہاں تصدیق نامیاں کوں ترتیب ݙیو جنہاں کوں { -brand-short-name } محفوظ کنیکشن دی تصدیق کیتے ورتیندے۔
+    .label = تصدیق نامے
+certs-view2 =
+    .label = تصدیق نامے مینج کرو
+    .accesskey = C
+certs-devices2 =
+    .label = سکیورٹی ڈیوائسز مینج کرو
+    .accesskey = D
 
 ## Privacy Section - HTTPS-Only
 
+httpsonly-learn-more2 = HTTPS-Only کیویں کم کریندے اے
 httpsonly-radio-enabled =
     .label = تمام ونڈوز وِچ HTTPS-Only Mode فعال کرو
 httpsonly-radio-enabled-pbm =
     .label = صرف نجی ونڈوز وِچ HTTPS-Only Mode فعال کرو
+httpsonly-radio-disabled3 =
+    .description = { -brand-short-name } بیا وی کجھ کنیکشن اپگریڈ کر سگدے۔
+    .label = HTTPS-Only Mode فعال نہ کرو
+httpsonly-group =
+    .description = صرف ویب سائٹس نال محفوظ کنیکشن دی اجازت ݙیندے۔ { -brand-short-name } غیر محفوظ طریقے نال جڑݨ توں پہلے پچھسے۔
+    .label = ایچ ٹی ٹی پی ایس - صرف موڈ
+httpsonly-label2 =
+    .aria-label = { httpsonly-group.label }
 
 ## DoH Section
 
 preferences-doh-header = HTTPS تے DNS
+dns-over-https-group2 =
+    .description = ڈومین نیم سسٹم اوور HTTPS (DoH) سائٹ دے پتے دیاں تلاشاں کوں انکرپٹ کریندے، جیندے نال تُہاڈے انٹرنیٹ فراہم کنندہ یا دوجھے لوکاں کیتے ایہ ݙیکھݨا اوکھا تھی ویندے جو تُساں کیڑھیاں ویب سائٹس تے ونڄݨ والے ہیوے۔
+    .label = DNS over HTTPS
 preferences-doh-description2 = ایچ ٹی ٹی پی ایس کنوں وَدھ ڈومین ناں دا نظام (ڈی این ایس) ہِک خفیہ کِیتے ڳئے کنکشن دے ذریعے تُہاݙی عرضی کوں ڈومین دے ناں کِیتے گَھلین٘دا ہِے، ہِک محفوظ ڈی این ایس فراہم کرین٘دا ہِے اَتے ٻِنّھاں کوں اِیہ ݙیکھݨ اَوکھا بݨین٘دا ہِے جو تُساں کہڑی ویب سائٹ تئیں رسائل حاصل کرݨ وین٘دے پئے ہِیوے۔
 # Variables:
 #   $status (string) - The status of the DoH connection
@@ -1575,6 +2007,49 @@ preferences-doh-select-resolver = مہیا کار چݨو…
 preferences-doh-manage-exceptions =
     .label = مستثنیات کوں منظم کرو …
     .accesskey = x
+preferences-doh-overview-default =
+    .description = جتھے دستیاب ہووے اوتھے محفوظ DNS ورتو۔
+    .label = منڈھلا تحفظ
+preferences-doh-overview-custom =
+    .description = ہمیشہ محفوظ DNS ورتو، اپݨے فراہم کنندہ تے فال بیک رویے تے کنٹرول نال۔
+    .label = مخصوص
+preferences-doh-overview-off =
+    .description = اپݨا منڈھلا DNS ریزالور ورتو۔
+    .label = بند
+preferences-doh-advanced-button =
+    .label = ایڈوانسڈ سیٹنگز
+preferences-doh-advanced-section =
+    .description = ڈومین نیم سسٹم اوور HTTPS (DoH) سائٹ دے پتے دیاں تلاشاں کوں انکرپٹ کریندے، جیندے نال تُہاڈے انٹرنیٹ فراہم کنندہ یا دوجھے لوکاں کیتے ایہ ݙیکھݨا اوکھا تھی ویندے جو تُساں کیڑھیاں ویب سائٹس تے ونڄݨ والے ہیوے۔
+    .label = ایڈوانسڈ سیٹنگز
+preferences-doh-manage-exceptions2 =
+    .label = مستثنیات کوں منظم کرو
+    .accesskey = x
+preferences-doh-radio-default =
+    .description = جتھے دستیاب ہووے اوتھے محفوظ DNS ورتو۔
+    .label = ڈیفالٹ
+preferences-doh-radio-custom =
+    .description = ہمیشہ محفوظ DNS ورتو، اپݨے فراہم کنندہ تے فال بیک رویے تے کنٹرول نال۔
+    .label = مخصوص
+preferences-doh-radio-off =
+    .description = اپݨا منڈھلا DNS ریزالور ورتو۔
+    .label = بند
+preferences-doh-fallback-label =
+    .label = جڈاں محفوظ ڈی این ایس دستیاب نہ ہووے تاں میکوں ہمیشہ وارننگ ڈیو
+preferences-doh-status-item-off =
+    .message = DNS over HTTPS بند اے۔
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-not-active =
+    .message = ڈی این ایس اوور ایچ ٹی ٹی پی ایس کم نئیں پیا کریندا کیوں جو اساں کوں فراہم کنندہ { $name } ورتیندیں ہوئیں غلطی ( { $reason } ) تھئی ہے
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-item-not-active-bad-url =
+    .message = DNS over HTTPS کم نہیں کر ریا کیوں جو اساکوں غلط URL ملیا اے ({ $reason })۔
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-status-item-active =
+    .message = ڈی این ایس اوور ایچ ٹی ٹی پی ایس فراہم کنندہ { $name } ورتیندا پئے
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 #   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
@@ -1704,9 +2179,113 @@ preferences-ai-controls-block-confirmation-heading = AI بہتریاں بلاک 
 preferences-ai-controls-block-confirmation-description = تہاں { -brand-short-name } وچ نویاں یا موجودہ AI بہتریاں نیں ݙیکھسو، تے نہ انہاں بارے کوئی پاپ اپ ݙیکھسو۔ ایندے بعد، تہاں کہیں وی چیز کوں ان بلاک کر سڳسو جینکوں تہاں ورتݨا چاہو۔
 preferences-ai-controls-block-confirmation-features-start = کیا بلاک تھیسی:
 preferences-ai-controls-block-confirmation-translations = ترجمے
+preferences-ai-controls-block-confirmation-pdfjs = { -brand-short-name } دے PDF ویور وچ تصویراں دا alt متن
+preferences-ai-controls-block-confirmation-tab-group-suggestions = ٹیب گروپ تجویزاں
+preferences-ai-controls-block-confirmation-key-points = لنک دے پیش نظارے وچ اہم نکات
+preferences-ai-controls-block-confirmation-sidebar-chatbot = سائڈبار وچ چیٹ بوٹ فراہم کنندے
+preferences-ai-controls-block-confirmation-speech-recognition = ڳالھ دی پہچاݨ
+preferences-ai-controls-block-confirmation-features-after = ایہ بلاک کرݨا وی اناں ایکسٹینشنز کوں متاثر کریندے جیہڑیاں { -brand-short-name } دی فراہم کیتی گئی اے آئی ورتیندیاں ہن
+preferences-ai-controls-block-confirmation-cancel =
+    .label = منسوخ
+preferences-ai-controls-block-confirmation-confirm =
+    .label = بلاک کرو
+preferences-ai-controls-header3 =
+    .heading = AI کنٹرولز
+
+## Privacy and security status card
+
+security-privacy-status-ok-header = { -brand-short-name } پہرے تے ہے
+# This is the header above a section telling the user about problems in their settings
+security-privacy-status-problem-header = { -brand-short-name } کجھ سکیورٹی بہتریاں دی سفارش کریندے
+security-privacy-status-ok-label = بہتر ٹریکنگ تحفظ چالو ہے
+security-privacy-status-problem-label = اساں تہاڈے تحفظ کوں متاثر کرݨ والیاں سیٹنگز لبھیاں ہن
+security-privacy-status-problem-helper-label = مسئلے ݙیکھو
+security-privacy-status-pending-trackers-label = پچھلے مہینے وچ { -brand-short-name } کتنے ٹریکرز بلاک کیتے ہن، اے لبھیا پئے ویندے
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] { $trackerCount } ٹریکر پچھلے مہینے وچ بلاک کیتا ڳئے
+       *[other] { $trackerCount } ٹریکر پچھلے مہینے وچ بلاک کیتے ڳئے
+    }
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
+security-privacy-status-strict-enabled-label = تہاڈے کول <a data-l10n-name="strict-tracking-protection">سخت تحفظ</a> ہے
+# This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
+security-privacy-status-custom-enabled-label = تُہاکوں <a data-l10n-name="custom-tracking-protection">مخصوص تحفظ</a> ملیا اے
+security-privacy-status-up-to-date-label = تہاڈے کول { -brand-short-name } دا تازہ ترین، سب توں محفوظ ورژن ہے
+security-privacy-status-update-needed-label = { -brand-short-name } دا نواں ورژن دستیاب اے۔
+security-privacy-status-update-error-label = { -brand-short-name } کوں آپݨے آپ کوں اپڈیٹ کرݨ وچ دقت تھیندی پئی ہے
+security-privacy-status-update-checking-label = { -brand-short-name } اپ ڈیٹس دی جانچ کر ریہے۔
+security-privacy-status-update-needed-description = تازہ ترین رفتار، استحکام تے سیکیورٹی اپڈیٹس کیتے اپڈیٹ کرو
+security-privacy-status-update-button-label =
+    .label = { -brand-short-name } اپ ڈیٹ کرو
+security-privacy-image-warning =
+    .alt = ڈھال جیہڑی وچ تعجب دی علامت ہے، تہاڈی سیکیورٹی وارننگز تے فکر ظاہر کریندی ہے
+security-privacy-image-ok =
+    .alt = ٹک نشان آلی ڈھال، جیہڑی ڈسیندی اے کہ تساں کول کوئی باقی سلامتی دا مسئلہ کائنی۔
+security-privacy-issue-card =
+    .heading = سیکیورٹی وارننگز
+issue-card-reset-button =
+    .label = ری سیٹ کرو
+issue-card-dismiss-button =
+    .aria-label = ہٹا ڈیو
+    .tooltiptext = ہٹا ڈیو
 
 ## Enhanced Tracking Protection (ETP) status section
 
+preferences-etp-status-header =
+    .description = ویب سائٹاں تہاکوں آن لائن پیچھا کرن اتے ڈراؤنیاں اشتہاراں ڈکھاون دے واسطے ٹریکرز ورتیندیاں ہن۔ { -brand-short-name } تساں کوں براؤز کرن دے دوران بچاؤ دیندا اے، ٹریکرز کوں خودکار بلاک کردا اے تاں جو تساں اپنے ڈیجیٹل نشاناں تے قابو وچ رہو۔
+    .label = اینہانسڈ ٹریکنگ پروٹیکشن
+preferences-etp-level-radio-group =
+    .aria-label = بہتر ٹریکنگ تحفظ
+preferences-etp-level-standard =
+    .description = مضبوط اتے بھروسے جوگ تحفظ جیہڑے زیادتیں ویب سائٹاں نال سکھائت کم کردے ہن۔
+    .label = معیاری (منڈھلا)
+preferences-etp-level-strict =
+    .description = بیا طاقتور تحفظ جیہڑے بیا ٹریکرز کوں بلاک کریندن، پر کجھ سائٹاں خراب تھی سڳدن۔
+    .label = سخت
+preferences-etp-level-custom =
+    .description = چونو کہ کیہڑے تحفظ چالو کرن یا بند کرن۔
+    .label = مرضی مطابق
+preferences-etp-status-advanced-button =
+    .label = ایڈوانسڈ سیٹنگز
+preferences-etp-tracker-count-enabled =
+    .label = ایڈریس بار وچ بلاک شدے ٹریکرز ڈکھاؤ
+preferences-etp-status-protections-dashboard-link =
+    .description = ڈکھو کہ { -brand-short-name } تہاڈے کیتے کتنے چھپے ٹریکرز بلاک کیتے ہن، جندے وچ سوشل میڈیا ٹریکرز، فنگرپرنٹرز تے کرپٹومائنرز شامل ہن۔
+    .label = اپݨا ذاتی تحفظ ڈیش بورڈ ڈکھو
+preferences-etp-header =
+    .heading = اینہانسڈ ٹریکنگ پروٹیکشن
+preferences-etp-advanced-settings-group =
+    .description = سائٹاں تہاکوں آن لائن پچھوں کرݨ تے ڈراؤݨے اشتہار ڈکھاوݨ کیتے ٹریکرز ورتیندیاں ہن۔ { -brand-short-name } تہاکوں براؤز کریندیں ہوئیں ڈھال ڈیندی ہے، بیا ٹریکرز خودبخود بلاک کریندی ہے تاکہ تہاڈا ڈیجیٹل پچھا تہاڈے کنٹرول وچ ہووے۔
+    .label = ایڈوانسڈ سیٹنگز
+preferences-etp-customize-button =
+    .label = ٹریکنگ پروٹیکشن مرضی مطابق بناؤ
+preferences-etp-reload-tabs-hint =
+    .message = ایہ تبدیلیاں لاگو کرݨ کیتے اپݨیاں ٹیبز کوں ری لوڈ کرو۔
+preferences-etp-reload-tabs-hint-button =
+    .label = تمام ٹیبز دوبارہ لوڈ کرو
+preferences-etp-rfp-warning-message =
+    .message = تُساں ریزسٹ فنگرپرنٹنگ (RFP) ورتیندے پئے ہو، جیہڑی { -brand-short-name } دیاں کجھ فنگرپرنٹنگ تحفظ سیٹنگز دی جاہ تے لگدی ہے۔ ایندے نال کجھ سائٹاں خراب تھی سڳدن۔
+preferences-etp-level-warning-message =
+    .heading = ہوشیار! کجھ سائٹاں امید مطابق کم نئیں کریندیاں۔
+    .message = کجھ سائٹاں اپنڑے فیچرز یا مواد وچ ٹریکرز جوڑ دیندیاں ہن۔ جڈاں { -brand-short-name } انہاں کوں بلاک کردا اے تاں سائٹ ٹٹی ہوئی لڳدی اے۔ "Fix site issue" ورتاون دی کوشش کرو یا اوس سائٹ تے ٹریکنگ پروٹیکشن بند کر ڈیو۔
+preferences-etp-manage-exceptions-button =
+    .description = انھاں ویب سائٹاں دا انتظام کرو جتھے بہتر ٹریکنگ تحفظ بند ہے۔
+    .label = مستثنیات دا انتظام کرو
+preferences-etp-customize-header =
+    .heading = ٹریکنگ پروٹیکشن مرضی مطابق بناؤ
+preferences-etp-reset =
+    .description = سیٹنگز کوں پہلوں دے تحفظ لیول تے بحال کرو۔
+    .label = مرضی مطابق تبدیلیاں ری سیٹ کرو
+preferences-etp-reset-standard-button =
+    .label = معیاری تے ری سیٹ کرو
+preferences-etp-reset-strict-button =
+    .label = سخت تے ری سیٹ کرو
+preferences-etp-custom-control-group =
+    .description = چونو کہ کیہڑے تحفظ چالو کرن یا بند کرن۔
+    .label = ٹریکنگ پروٹیکشن
 preferences-etp-custom-cookies-enabled =
     .label = کوکیز
 preferences-etp-custom-cookie-behavior =

@@ -17,6 +17,31 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = ہم وقت کرݨ چالو کرو
 fxa-menu-connect-another-device =
     .label = ہک ٻئٖے آلے نال جوڑو …
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-device =
+    .label =
+        { $tabCount ->
+            [1] ڈیوائس تے بھجیو
+            [one] ڈیوائس تے بھجیو
+           *[other] { $tabCount } ٹیبز ڈیوائس تے بھجیو
+        }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] موبائل تے بھجیو
+            [one] موبائل تے بھجیو
+           *[other] { $tabCount } ٹیبز موبائل تے بھجیو
+        }
+fxa-menu-send-to-mobile-device-missing2 = اپݨی ڈیوائس نئیں لڳی؟
+fxviewtabrow-send-to-mobile-not-verified = اکاؤنٹ تصدیق نئیں تھیا
+fxviewtabrow-send-to-mobile-verify-account = اپݨے اکاؤنٹ دی تصدیق کرو
+fxa-menu-send-to-mobile-turn-on-sync = ٹیبز بھجݨ کیتے سنک چالو کرو
+fxa-menu-send-to-mobile-connect-device = ٹیبز بھجݨ کیتے ڈیوائس کنیکٹ کرو
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = ڈیوائساں دی ہمہ وقت سازی تھیندی پئی اے …
@@ -25,6 +50,33 @@ fxa-menu-send-tab-to-device-description = کہیں وی ڈیوائس تے ٹھک
 fxa-menu-sign-out =
     .label = سائن آؤٹ۔۔۔
 fxa-menu-sync-description = کتھاؤں وی آپݨی ویب تئیں رسائی حاصل کرو
+# Subtitle shown under the account email on the signed-in account button in the
+# account menu, indicating that activating it opens account management.
+fxa-menu-manage-account-subtitle = اکاؤنٹ مینج کرو
+# Promo shown in the account menu when the user is signed out and no previously
+# signed-in account is remembered, prompting them to sign in and sync.
+fxa-menu-sign-in-promo-heading = سنک کیتے سائن ان تھیو
+fxa-menu-sign-in-promo-message = اپݨا ڈیٹا ہر جاہ حاصل کرو
+fxa-menu-sign-in-promo-button =
+    .label = سائن ان تھیو
+# Card shown in the account menu when a previously signed-in account is
+# remembered but the user needs to sign in again. Shows the remembered email,
+# a reason, and a button to sign back in.
+fxa-menu-signed-out-sign-in-button =
+    .label = سائن ان تھیو
+# Reason shown when the session expired or credentials are no longer valid.
+fxa-menu-signed-out-message-login-failed = تُسیاں سائن آؤٹ تھیوے ہو
+# Reason shown when the remembered account still needs to verify their email.
+fxa-menu-signed-out-message-unverified = سیٹ اپ مکمل کرو
+# Shown by the same card, and by the app menu's sign-in row, once the user has
+# signed out - the account they signed out of can no longer be identified, so
+# this copy stands in for the email.
+fxa-menu-signed-out-title = سنک کیتے سائن ان تھیو
+fxa-menu-signed-out-description = تُسیاں سائن آؤٹ تھیوے ہو
+fxa-avatar-sign-in = سائن ان تھیو
+fxa-avatar-sign-up = سائن اپ تھیو
+fxa-avatar-tooltip =
+    .tooltiptext = اپݨے اکاؤنٹ وچ سائن ان تھیو
 sync-setup-verify-continue = جاری
 sync-setup-verify-title = چتاوݨی ضم کرو
 sync-setup-verify-heading = کیا تساں واقعی مطابقت پذیری کیتے سائن ان کرݨ چاہندے او؟
@@ -36,4 +88,19 @@ sync-setup-verify-description = ایں کمپیوٹر تے مطابقت پذیر
 
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+sync-account-in-use-description = تُساں ایہے اکاؤنٹ ایہے کمپیوٹر تے صرف ہک پروفائل نال جوڑ سڳدے ہیوے۔
+# Dialog 2 - account signed in on another profile with merge option
+sync-account-already-signed-in-header = ایہے اکاؤنٹ بئے پروفائل وچ سائن اِن اے۔ کیا ڈوہاں پروفائل کوں سنک کروں؟
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $currentProfile (String): Name of the current profile signing in
+#   $otherProfile (String): Name of the profile that is already signed in
+sync-account-in-use-description-merge = { $acctEmail } ایہے کمپیوٹر تے “{ $otherProfile }” پروفائل وچ سائن اِن اے۔ “{ $currentProfile }” پروفائل کوں سنک کرݨ نال ڈوہاں پروفائل دا ڈیٹا، جیویں پاس ورڈ تے بک مارکس، ہمیشہ کیتے مل ونجسی۔
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-switch-profile = “{ $profileName }” تے ونڄو
 sync-button-create-profile = نویں پروفائل بݨاؤ
+sync-button-sync-and-merge = سنک کرو تے ڈیٹا ملاؤ
+# Variables:
+#   $profileName (String) - Name of the profile to switch to
+sync-button-sync-profile = سنک کرو “{ $profileName }”

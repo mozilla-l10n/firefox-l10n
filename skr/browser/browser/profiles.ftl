@@ -114,9 +114,108 @@ delete-profile-confirm = مٹاؤ
 
 # The default system theme
 profiles-system-theme = سسٹم
+profiles-system-theme-title =
+    .title = سسٹم تھیم لڳاؤ
+profiles-gray-theme = سلےٹی
+profiles-gray-theme-title =
+    .title = سلےٹی تھیم لڳاؤ
+profiles-yellow-theme = پیلا
+profiles-yellow-theme-title =
+    .title = پیلا تھیم لڳاؤ
+profiles-orange-theme = نارنگی
+profiles-orange-theme-title =
+    .title = نارنگی تھیم لڳاؤ
+profiles-red-theme = سرخ
+profiles-red-theme-title =
+    .title = سرخ تھیم لڳاؤ
+profiles-pink-theme = گلابی
+profiles-pink-theme-title =
+    .title = گلابی تھیم لڳاؤ
+profiles-purple-theme = جامنی
+profiles-purple-theme-title =
+    .title = جامنی تھیم لڳاؤ
+profiles-violet-theme = بنفشی
+profiles-violet-theme-title =
+    .title = بنفشی تھیم لڳاؤ
+profiles-blue-theme = نیلا
+profiles-blue-theme-title =
+    .title = نیلا تھیم لڳاؤ
+profiles-green-theme = سبز
+profiles-green-theme-title =
+    .title = سبز تھیم لڳاؤ
+profiles-cyan-theme = سائین
+profiles-cyan-theme-title =
+    .title = سائین تھیم لڳاؤ
+profiles-custom-theme-title =
+    .title = مرضی مطابق تھیم لڳاؤ
+
+## Data collection settings changed (multi-profile)
+
+# Full infobar message with inline bold title followed by body text
+multiprofile-data-collection-message = <strong>ڈیٹا اکٹھا کرن دیاں سیٹنگز تبدیل تھی گئیاں۔</strong> ٻئے پروفائل وچ کیتیاں گئیاں تبدیلیاں ایس ڈیوائس دے سارے پروفائلز تے لاگو تھیندیاں ہن۔
+# Primary button label to open the Data collection section in Settings
+multiprofile-data-collection-view-settings = سیٹنگز ڈیکھو
+# Secondary button label to dismiss the infobar without action
+multiprofile-data-collection-dismiss = بند کرو
 
 ## Alternative text for default profile icons
 
+book-avatar-alt =
+    .alt = کتاب
+briefcase-avatar-alt =
+    .alt = بریک کیس
+picture-avatar-alt =
+    .alt = تصویر
+# Craft refers to hobby arts and crafts, represented by a button/fastener commonly found on clothing like shirts
+craft-avatar-alt =
+    .alt = دستکاری
+flower-avatar-alt =
+    .alt = پھول
+folder-avatar-alt =
+    .alt = فولڈر
+hammer-avatar-alt =
+    .alt = ہتھوڑا
+heart-avatar-alt =
+    .alt = دل
+heart-rate-avatar-alt =
+    .alt = دل دی دھڑکن
+clock-avatar-alt =
+    .alt = گھڑی
+leaf-avatar-alt =
+    .alt = پتّا
+lightbulb-avatar-alt =
+    .alt = بلب
+makeup-avatar-alt =
+    .alt = میک اپ
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-alt =
+    .alt = پیغام
+musical-note-avatar-alt =
+    .alt = موسیقی دی علامت
+palette-avatar-alt =
+    .alt = پیلیٹ
+paw-print-avatar-alt =
+    .alt = پیراں دا نشان
+plane-avatar-alt =
+    .alt = جہاز
+# Present refers to a gift box, not the current time period
+present-avatar-alt =
+    .alt = تحفہ
+shopping-avatar-alt =
+    .alt = خریداری دی ٹوکری
+soccer-ball-avatar-alt =
+    .alt = فٹ بال
+sparkle-single-avatar-alt =
+    .alt = چمک
+star-avatar-alt =
+    .alt = تارا
+video-game-controller-avatar-alt =
+    .alt = ویڈیو گیم کنٹرولر
+custom-avatar-alt =
+    .alt = کسٹم اوتار
+# Globe refers to the generic globe/world icon that appears in browser tabs when a website doesn't have its own favicon.
+globe-avatar-alt =
+    .alt = گلوب
 # Diamond refers to the precious stone, not the geometric shape
 diamond-avatar-alt =
     .alt = ہیرا
@@ -167,7 +266,7 @@ custom-avatar-crop-area =
     .aria-label = کاٹݨ دی جاہ ایڈجسٹ کرو
 custom-avatar-drag-handle =
     .aria-label = کاٹݨ دی جاہ دا سائز بدلو
-profiles-appmenu-callout-tour-title = تہاڈا نواں پروفائل تیار ہے
+profiles-appmenu-callout-tour-title = تہاݙا نواں پروفائل تیار ہے
 # "Spin up another" means creating another profile, “Hop between your digital lives" is referring to switching between different profiles such as work, personal, etc.
 profiles-appmenu-callout-tour-subtitle = مینیو ☰ وچ، اپݨے پروفائل دے ناں تے ٹیپ کرو تے ہک بیا پروفائل بݨاؤ، ایں کوں ترمیم کرو، یا اپݨیاں ڈیجیٹل زندگیاں دے درمیان بدلو۔
 profiles-appmenu-callout-tour-primary-button = مینوں ݙکھاؤ کیویں
@@ -197,3 +296,39 @@ folder-avatar-tooltip =
     .tooltiptext = فولڈر اوتار لاؤ
 hammer-avatar-tooltip =
     .tooltiptext = ہتھوڑا اوتار لاؤ
+heart-avatar-tooltip =
+    .tooltiptext = دل دا اوتار لاؤ
+heart-rate-avatar-tooltip =
+    .tooltiptext = دل دی دھڑکن دا اوتار لڳاؤ
+clock-avatar-tooltip =
+    .tooltiptext = گھڑی دا اوتار لاؤ
+leaf-avatar-tooltip =
+    .tooltiptext = پتّے دا اوتار لڳاؤ
+lightbulb-avatar-tooltip =
+    .tooltiptext = بلب دا اوتار لاؤ
+makeup-avatar-tooltip =
+    .tooltiptext = میک اپ دا اوتار لڳاؤ
+# Message refers to a text message, not a traditional letter/envelope message
+message-avatar-tooltip =
+    .tooltiptext = پیغام دا اوتار لاؤ
+musical-note-avatar-tooltip =
+    .tooltiptext = میوزیکل نوٹ دا اوتار لڳاؤ
+palette-avatar-tooltip =
+    .tooltiptext = رنگ پیلیٹ دا اوتار لاؤ
+paw-print-avatar-tooltip =
+    .tooltiptext = پنجے دے نشان والا اوتار لڳاؤ
+plane-avatar-tooltip =
+    .tooltiptext = ہوائی جہاز دا اوتار لاؤ
+# Present refers to a gift box, not the current time period
+present-avatar-tooltip =
+    .tooltiptext = تحفے والا اوتار لڳاؤ
+shopping-avatar-tooltip =
+    .tooltiptext = شاپنگ کارٹ دا اوتار لاؤ
+soccer-ball-avatar-tooltip =
+    .tooltiptext = فٹ بال دا اوتار لڳاؤ
+sparkle-single-avatar-tooltip =
+    .tooltiptext = چمک دا اوتار لاؤ
+star-avatar-tooltip =
+    .tooltiptext = ستارے والا اوتار لڳاؤ
+video-game-controller-avatar-tooltip =
+    .tooltiptext = ویڈیو گیم کنٹرولر دا اوتار لاؤ

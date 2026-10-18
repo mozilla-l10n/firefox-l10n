@@ -33,10 +33,18 @@ searchbar-icon =
 removed-search-engine-message2 = <strong>تہاݙا ڈیفالٹ سرچ انجݨ تبدیل کر ݙتا ڳیا ہے۔</strong> { $oldEngine } ہݨ ڈیفالٹ سرچ انجݨ دے طور ت { -brand-short-name } وِچ دستیاب کائنی۔ { $newEngine } ہݨ تہاݙا ڈیفالٹ سرچ انجݨ ہے۔ ٻئے ڈیفالٹ سرچ انجݨ وِچ تبدیل کرݨ کیتے، ترتیباں تے ونڄو۔
 remove-search-engine-button = ٹھیک ہے
 
+## Infobar shown when default search engine is reset due to an issue reading the settings file.
+## Variables
+## $newEngine (String) - the name of the new default search engine.
+
+reset-search-settings-message = تکنیکی مسئلے پاروں تُہاڈا منڈھلا سرچ انجن واپس { $newEngine } تے بدل ڈتا گیا اے۔ منڈھلا سرچ انجن بدلݨ کیتے، سیٹنگز تے ونڄو۔
+reset-search-settings-button = ٹھیک ہے
+
 ## Infobar shown when user is prompted to install search engine.
 ## Variables
 ## $engineName (String) - the name of the search engine to install.
 
+install-search-engine = { $engineName } کوں سرچ انجن بݨاؤں؟
 install-search-engine-add = شامل کرو
 install-search-engine-no = کو
 
@@ -45,11 +53,23 @@ install-search-engine-no = کو
 add-engine-window =
     .style = min-width: 32em;
     .title = ڳولݨ انجݨ شامل کرو
+edit-engine-window =
+    .style = min-width: 32em;
+    .title = سرچ انجن وچ تبدیلی کرو
 add-engine-button = حسب ضرورت انجن شامل کرو۔
 add-engine-name = ڳولݨ انجݨ ناں
+add-engine-url2 = تلاش لفظ دی جاہ تے %s والا یو آر ایل
+add-engine-keyword2 = مطلوبہ لفظ (اختیاری)
+# POST and GET refer to the HTTP methods.
+add-engine-post-data = تلاش لفظ دی جاہ تے %s نال POST ڈیٹا (GET کیتے خالی چھڈو)
+add-engine-suggest-url = تلاش لفظ دی جاہ تے %s نال تجویزاں دا یو آر ایل (اختیاری)
 
 ## The following placeholders are shown in the inputs when adding a new engine.
 
+add-engine-name-placeholder =
+    .placeholder = مثلاً، Mozilla Developer Network
+add-engine-url-placeholder =
+    .placeholder = مثلاً، https://developer.mozilla.com/search?q=%s
 add-engine-keyword-placeholder =
     .placeholder = e.g., @mdn
 

@@ -38,11 +38,17 @@ containers-site-container-label =
 containers-site-dialog =
     .buttonlabelaccept = محفوظ کرو
     .buttonaccesskeyaccept = S
+# Shown below the website field when the typed website is not a host, or when
+# it is a URL that does not use the https scheme.
+containers-site-invalid-error = صحیح تے محفوظ ویب سائٹ درج کرو
 # Shown below the website field when the typed website is already bound to a
 # container.
 containers-site-duplicate-error = ایہ ویب سائٹ پہلاں توں تیڈی لسٹ اچ موجود اے۔
 
 ## Container creation panel, anchored to the URL bar.
 
+containers-panel-title = نواں کنٹینر شامل کرو
 containers-panel-create-button =
     .label = تھیک اے۔
+containers-panel-cancel-button =
+    .label = روکو

@@ -168,37 +168,95 @@ monitor-resolve-breaches-link = خلاف ورزیاں حل کرو
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = سوشل میڈیا ٹریکرز
     .aria-label =
         { $count ->
             [one] { $count } سوشل میڈیا ٹریکر ({ $percentage }%)
            *[other] { $count } سوشل میڈیا ٹریکرز ({ $percentage }%)
         }
+    .title = سوشل میڈیا ٹریکرز
 bar-tooltip-cookie =
-    .title = کراس سائٹ ٹریکنگ کوکی
     .aria-label =
         { $count ->
             [one] { $count } کراس سائٹ ٹریکنگ کوکی ({ $percentage }%)
            *[other] { $count } کراس سائٹ ٹریکنگ کوکیاں ({ $percentage }%)
         }
+    .title = کراس سائٹ ٹریکنگ کوکی
 bar-tooltip-tracker =
-    .title = ٹریکنگ مواد
     .aria-label =
         { $count ->
             [one] { $count } ٹریکنگ مواد ({ $percentage }%)
            *[other] { $count } ٹریکنگ مواد ({ $percentage }%)
         }
+    .title = ٹریکنگ مواد
 bar-tooltip-fingerprinter =
-    .title = فنگر پرنٹرز
     .aria-label =
         { $count ->
             [one] { $count } فنگر پرنٹر ({ $percentage }%)
            *[other] { $count } فنگر پرنٹرز ({ $percentage }%)
         }
+    .title = فنگر پرنٹرز
 bar-tooltip-cryptominer =
-    .title = کرپٹومینرز
     .aria-label =
         { $count ->
             [one] { $count } کرپٹومینر ({ $percentage }%)
            *[other] { $count } کرپٹومینرز ({ $percentage }%)
         }
+    .title = کرپٹومینرز
+# Privacy Metrics Card
+privacy-metrics-title = پرائیویسی پروٹیکشنز
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } ایں ہفتے بلاک کیتے گئے
+       *[other] { $count } ایں ہفتے بلاک کیتے گئے
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } ٹریکر
+       *[other] { $count } ٹریکر
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } ٹریکر
+       *[other] { $count } ٹریکر
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } ٹریکنگ کوکی
+       *[other] { $count } ٹریکنگ کوکیز
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } سوشل ٹریکر
+       *[other] { $count } سوشل ٹریکر
+    }
+privacy-metrics-empty = ایں ہفتے کوئی ٹریکر بلاک نہیں کیتے گئے۔ { -brand-short-name } تُساں کوں براؤزنگ دے دوران اینہاں خطراں توں بچائیندے۔
+privacy-metrics-loading = حفاظتی اعداد و شمار لوڈ تھیندے پئے ہن…
+privacy-metrics-error = تحفظ دے اعدادوشمار لوڈ نہیں تھی سکے۔
+privacy-metrics-private-window = { -brand-short-name } پرائیویٹ ونڈوز اچ ٹریکراں کوں بلاک کریندے، پر بلاک کیتے گئے مواد دا کوئی ریکارڈ نہیں رکھدا۔
+
+## VPN promo card and banner
+
+protections-vpn-title = پرائیویسی تحفظات کوں براؤزر توں ٻاہر گھن ونڄو
+protections-vpn-header-content = اپݨے پورے ڈیوائس دی حفاظت { -mozilla-vpn-brand-name } نال کرو۔ ہک ٹیپ نال سارا ٹریفک انکرپٹ تھی ویندے تے تُہاڈی لوکیشن لک ویندی اے۔
+protections-get-vpn-link = { -mozilla-vpn-brand-name } گھنو
+protections-vpn-title-subscribed = VPN: سبسکرائب کیتا گیا
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] { -mozilla-vpn-brand-name } ورتن نال تُہاڈا سارا ٹریفک انکرپٹ تھی ویندے تے تُہاڈی جاہ لک ویندی اے۔ { $count } ڈیوائسز تک اپݨی رکنیت دا ودھ توں ودھ فائدہ گھنو، ایہے <a data-l10n-name="playstore-link">Google Play Store</a> یا <a data-l10n-name="appstore-link">Apple App Store</a> توں گھنو۔
+       *[other] { -mozilla-vpn-brand-name } ورتن نال تُہاڈا سارا ٹریفک انکرپٹ تھی ویندے تے تُہاڈی جاہ لک ویندی اے۔ { $count } ڈیوائسز تک اپݨی رکنیت دا ودھ توں ودھ فائدہ گھنو، ایہے <a data-l10n-name="playstore-link">Google Play Store</a> یا <a data-l10n-name="appstore-link">Apple App Store</a> توں گھنو۔
+    }
+protections-vpn-banner-header = تحفظ جیہڑا براؤزر توں اڳاں تک ویندے
+protections-vpn-banner-content = { -mozilla-vpn-brand-name } کوں خطرے توں بغیر آزماؤ تے ݙیکھو TechRadar کیوں آہدے، “ایندی رفتار، سادگی تے ڳھٹ ماہانہ مل ایہے ݙیکھݨ دے قابل بنڑیندی اے۔”
+protections-vpn-banner-link = { -mozilla-vpn-brand-name } گھنو

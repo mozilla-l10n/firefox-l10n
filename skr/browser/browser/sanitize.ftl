@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = یکی تاریخ صاف کرو
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = براؤزنگ ڈیٹا مٹاؤ
 clear-data-settings-label = جݙاں بند ہووے، { -brand-short-name } سبھ کجھ آپݨے آپ خالی کر سڳدا ہے
 sanitize-on-shutdown-description = جہڑیلے { -brand-short-name }بند تھی وین٘دا ہِے تاں خود کار طریقے نال سارے ݙِٹّھے ڳئے شئیں کوں صاف کرو۔
 
@@ -59,6 +66,7 @@ history-section-label = تاریخ
 item-history-and-downloads =
     .label = براؤزنگ تے ڈاؤن لوڈ تاریخ
     .accesskey = B
+item-history-and-downloads-description2 = سائٹ تے ڈاؤن لوڈ ہسٹری صاف کریندے
 item-cookies =
     .label = کوکیاں
     .accesskey = C
@@ -94,6 +102,10 @@ item-form-search-history =
 item-site-prefs =
     .label = سائٹ ترتیباں
     .accesskey = i
+item-formdata-prefs =
+    .label = محفوظ کیتی ڳئی فارم معلومات
+    .accesskey = o
+item-formdata-description = فارم وچ درج کیتیاں ڳئیاں شیواں، جیویں ناں، ای میل تے بیاں شیواں صاف کریندے
 item-site-prefs-description = تُہاݙی اجازت اَتے سائٹ ترجیح کوں اصل ترتبیاں اُتے وَلا سیٹ کرو
 data-section-label = ڈیٹا
 item-site-settings =
@@ -111,6 +123,14 @@ sanitize-button-ok2 =
     .label = صاف کرو
 sanitize-button-ok-on-shutdown =
     .label = تبدیلیاں محفوظ کرو
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = مٹاؤ
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = بند کرو
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
@@ -123,3 +143,6 @@ sanitize-everything-warning = ساری تاریخ خالی کر ݙتی ویسے
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
 sanitize-selected-warning = تمام منتخب چیزاں خالی کر ݙتے ویسن
+# Label shown next to the loading spinner while calculating the size of cached data
+# and cookies in the clear data dialog.
+sanitize-calculating-size = حساب لڳدا پیا…

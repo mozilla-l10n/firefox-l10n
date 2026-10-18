@@ -93,6 +93,9 @@ permissions-exceptions-cookie-desc = تساں ایہ ݙسا سڳدے او جو �
 
 ## Exceptions - Clear on Shutdown
 
+permissions-exceptions-shutdown-clearing-window =
+    .style = { permissions-window2.style }
+    .title = استثنات - بند کرݨ تے ہسٹری صاف کرو
 permissions-exceptions-shutdown-clearing-desc = تساں ایہہ طے کر سڳدے ہو جو جڈاں { -brand-short-name } بند تھیوݨ تے ہسٹری صاف کرے تاں کیہڑیاں ویب سائٹس اپݨا ڈیٹا رکھسن۔ جہڑی سائٹ کوں تساں سنبھالݨ چہندے ہو اوندا ٹھیک پتہ لکھو تے وَل اجازت ڈیو تے کلک کرو۔
 
 ## Exceptions - HTTPS-Only Mode
@@ -107,6 +110,7 @@ permissions-exceptions-https-only-desc2 = تساں مخصوص ویب سائٹا�
 permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
     .title = اجازت ڈتی ڳئیں ویب سائٹس - پوپ اپس تے تھرڈ پارٹی ری ڈائریکٹس
+permissions-exceptions-popup-desc2 = تساں طے کر سڳدے ہو کہ کہڑیاں ویب سائٹاں پاپ اپ ونڈوز کھول سڳدیاں ہن تے تیسرے فریق دے فریماں راہیں ری ڈائریکٹ تھی سڳدیاں ہن۔
 
 ## Exceptions - Saved Passwords
 
@@ -166,6 +170,7 @@ permissions-site-xr-disable-desc = ایہ کہیں وی ویب سائٹ کوں �
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = سیٹنگز - ایپ لنکس کیتے بلاک کیتیاں ڳئیں سائٹس
+permissions-site-app-links-desc = ایہ سائٹاں ایپ لنکس کھولوݨ دی اجازت منگݨ توں بلاک ہن، جیویں ای میل (mailto:)۔ کہیں سائٹ کوں ہٹا ݙیو تاں جو او وَل اجازت منگ سڳے۔
 
 ## Site Permissions - Camera
 
@@ -182,16 +187,20 @@ permissions-site-camera-disable-desc = ایہ کہیں وی ویب سائٹ کو
 permissions-site-localhost-window =
     .style = { permissions-window2.style }
     .title = سیٹنگز - ڈیوائس ایپس تے سروسز
+permissions-site-localhost-desc = ایہ ویب سائٹاں ایں ڈیوائس دیاں ایپس تے سروسز تک رسائی منگی ہے۔ تساں انتخاب کر سڳدے ہو کہ سائٹاں کوں اجازت ݙیوو یا انہاں کوں بلاک کرو۔
 permissions-site-localhost-disable-label =
     .label = ایں ڈیوائس تے ایپس تے سروسز دی رسائی کیتے نویاں درخواستاں بلاک کرو۔
+permissions-site-localhost-disable-desc = ایہ اُتے درج نہ تھیوݨ آلی ہر ویب سائٹ کوں ایں ڈیوائس دیاں ایپس تے سروسز تک رسائی منگݨ توں روک ݙیسی۔ ایں کرݨ نال کجھ ویب سائٹاں دے فیچر خراب تھی سڳدن۔
 
 ## Site Permissions - Local network
 
 permissions-site-local-network-window =
     .style = { permissions-window2.style }
     .title = سیٹنگز - مقامی نیٹ ورک ڈیوائسز
+permissions-site-local-network-desc = ایہ ویب سائٹاں تہاݙے وائی فائی یا مقامی نیٹ ورک نال جڑے ہوئے ڈیوائسز دیاں ایپس تے سروسز تک رسائی منگی ہے۔ تساں انتخاب کر سڳدے ہو کہ سائٹاں کوں اجازت ݙیوو یا انہاں کوں بلاک کرو۔
 permissions-site-local-network-disable-label =
     .label = تیڈے وائی فائی یا مقامی نیٹ ورک نال جڑے ڈیوائسز تے ایپس تے سروسز دی رسائی کیتے نویاں درخواستاں بلاک کرو۔
+permissions-site-local-network-disable-desc = ایہ اُتے درج نہ تھیوݨ آلی ہر ویب سائٹ کوں تہاݙے وائی فائی یا مقامی نیٹ ورک نال جڑے ہوئے ڈیوائسز دیاں ایپس تے سروسز تک رسائی منگݨ توں روک ݙیسی۔ ایں کرݨ نال کجھ ویب سائٹاں دے فیچر خراب تھی سڳدن۔
 
 ## Site Permissions - Microphone
 

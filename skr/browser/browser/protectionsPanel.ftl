@@ -62,6 +62,24 @@ protections-panel-blocking-label = بلاک تھی ڳیا
 protections-panel-not-blocking-label = اجازت ݙتے ہوئے
 protections-panel-not-found-label = کجھ نئیں لبھیا
 
+## Smartblock strings
+
+protections-panel-smartblock-desc-label = { -brand-short-name } ٹریکنگ مواد کوں بلاک کریندے جڈاں تک تُساں ایہے سائٹ تے ہیوے، جے تُساں اجازت نہ ڈتی ہوئے
+# Variables
+#  $trackername (String): the name of the tracker that is currently being blocked.
+protections-panel-smartblock-blocking-toggle =
+    .label = اجازت ݙیو { $trackername } کوں
+#  $trackername (String): the name of the tracker that is currently being blocked.
+smartblock-placeholder-title = { $trackername } ٹریکر تے مواد بلاک کیتا ڳئے
+smartblock-placeholder-desc = تُہاڈیاں { -brand-short-name } سیٹنگز ایہے مواد کوں سائٹس وچ تُہاڈا پچھا کرݨ یا اشتہاراں وچ ورتݨ توں بلاک کیتے
+#  $websitehost (String): host of website with blocked content.
+smartblock-placeholder-button-text = { $websitehost } تے اجازت ݙیو
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = بلاک کیتے ڳئے ایمبیڈ توں مواد
+
 ##
 
 protections-panel-settings-label = تحفظات دیاں ترتیباں
