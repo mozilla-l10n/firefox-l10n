@@ -319,6 +319,12 @@ about-debugging-multiprocess-toolbox-name = ملٹی پروسیس ٹول باک�
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = ہدف براؤزر کیتے اہم عمل تے مواد دے عمل
+about-debugging-message-error-icon =
+    .alt = خرابی دا آئیکن
+about-debugging-message-info-icon =
+    .alt = معلومات دا آئیکݨ
+about-debugging-message-warning-icon =
+    .alt = چتاوݨی آئیکن
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon2 =
     .tooltiptext = سنیہا بند کرو
@@ -331,3 +337,5 @@ about-debugging-message-details-label-error = نقص دیاں تفصیلاں
 about-debugging-message-details-label-warning = چتاوݨی دیاں تفصیلاں
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = تفصیلاں
+about-debugging-sidebar =
+    .heading = ڈیبگنگ

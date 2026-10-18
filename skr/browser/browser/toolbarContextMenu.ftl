@@ -29,6 +29,12 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] بند ٹیباں ولدا کھولو
         }
     .accesskey = o
+toolbar-context-turn-on-vertical-tabs =
+    .label = عمودی ٹیبز چالو کرو
+toolbar-context-turn-off-vertical-tabs =
+    .label = عمودی ٹیبز بند کرو
+toolbar-context-customize-sidebar =
+    .label = سائیڈ بار مرضی مطابق بناؤ
 toolbar-context-menu-manage-extension =
     .label = توسیع منظم کرو
     .accesskey = E
@@ -53,6 +59,10 @@ toolbar-context-menu-auto-hide-downloads-button-2 =
 toolbar-context-menu-always-open-downloads-panel =
     .label = پینل ݙکھاؤ جݙاں ڈاؤن لوڈ شروع تھیوے
     .accesskey = S
+# Label of checkbox menu item to toggle visibility of Extensions Button.
+toolbar-context-menu-always-show-extensions-button =
+    .label = ٹول بار اچ ہمیشاں ݙکھاؤ
+    .accesskey = ہ
 toolbar-context-menu-remove-from-toolbar =
     .label = ٹول بار کنوں ہٹاؤ
     .accesskey = R

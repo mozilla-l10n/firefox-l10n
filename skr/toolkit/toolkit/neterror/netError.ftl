@@ -65,6 +65,10 @@ neterror-dns-not-found-trr-unknown-problem = غیر متوقع مسئلہ
 
 neterror-file-not-found-filename = کیپٹلائزیشن یا ٹائپنگ دیاں ٻیاں غلطیاں کیتے فائل دا ناں چیک کرو۔
 neterror-file-not-found-moved = ایہ ݙیکھݨ کیتے چیک کرو جو آیا فائل کوں منتقل، ناں تبدیل یا حذف کیتا ڳیا ہا۔
+# Variables:
+#   $path (String) - Path of the local file that could not be found.
+neterror-file-not-found-intro = { -brand-short-name } <strong>{ $path }</strong> تے فائل نسے لبھ سڳیا۔ یا تاں او موجود کائنی یا رستہ غلط اے۔
+neterror-file-not-found-what-can-you-do = جے تساں پتہ ہتھ نال لکھیا ہووے، تاں فائل دے ناں یا رستے وچ وݙے-نکے اکھراں دیاں غلطیاں یا املا دیاں غلطیاں ݙیکھو۔ جے تساں کوئی محفوظ شدہ نشانی یا لنک ورتیا ہووے، تاں ہو سڳدے جو فائل سنبھالن توں بعد منتقل کیتی ڳئی ہووے، اوندا ناں تبدیل کیتا ڳیا ہووے، یا اونوں مٹا ݙتا ڳیا ہووے۔ تہاݙے فائل مینیجر یا حالیہ تلاش نال اونوں لبھن دی کوشش کرو۔
 neterror-access-denied = تھی سڳدا ہے اینکوں ہٹا ݙتا ڳیا ہووے، منتقل کر ݙتا ڳیا ہووے یا فائل دیاں اجازتاں رسائی کوں روکیندیاں پیاں ہوون۔
 neterror-unknown-protocol = ایں ایڈریس کوں کھولݨ کیتے تہاکوں ٻئے سافٹ ویئر انسٹال کرݨ دی لوڑ پئے سڳدی ہے۔
 neterror-redirect-loop = ایہ مسئلہ بعض اوقات کوکیاں کوں غیر فعال کرݨ یا قبول کرݨ کنوں انکار دی وجہ توں تھی سڳدا ہے۔
@@ -135,4 +139,9 @@ certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> دے 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+#   $responsestatus (Number) - HTTP response status code (e.g., 404).
+#   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
+fp-neterror-http-error-intro = <strong>{ $hostname }</strong> تے سرور اے غلطی بھیجی اے: { $responsestatus } { $responsestatustext }
 fp-neterror-denied-port-access = ایہ پتہ ہک نیٹ ورک پورٹ استعمال کریندا ہے جیڑھا عام طور تے ویب براؤزنگ دے علاوہ ٻئے مقاصد کیتے استعمال تھیندا ہے۔ { -brand-short-name }  تہاݙے تحفظ دی درخواست کوں منسوخ کر ݙتا ہے۔

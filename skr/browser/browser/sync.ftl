@@ -86,8 +86,30 @@ sync-setup-verify-heading = کیا تساں واقعی مطابقت پذیری �
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = ایں کمپیوٹر تے مطابقت پذیری کیتے پہلے ہک مختلف صارف تے دستخط کیتے ڳئے ہن۔ سائن ان کرݨ نال ایں براؤزر دے نشانیاں، پاس ورڈز تے ٻیاں ترتیباں کوں { $email } دے نال مل ویسے
 
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = ٹیبز بھیڄݨ کیتے سائن ان کرو۔
+
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
+# Dialog 1 - different account signing in without option to merge
+sync-profile-different-account-title = ایں پروفائل کیتے اکاؤنٹ دی حد پوری تھی ڳئی اے۔
+sync-profile-different-account-header = ایہ پروفائل پہلے کہیں ٻئے اکاؤنٹ نال سنک تھئی ہوئی ہئی۔
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+sync-profile-different-account-description = تہاݙا ڈیٹا منظم تے محفوظ رکھݨ کیتے، ہر { -brand-product-name } پروفائل صرف ہک اکاؤنٹ نال سنک تھی سڳدی اے۔ { $acctEmail } نال سائن ان کرݨ کیتے، ہک نواں پروفائل بݨاؤ۔
+# Dialog 1 - different account signing in with merge option
+sync-profile-different-account-title-merge = پروفائل ٻئے اکاؤنٹ نال سنک تھی ڳئی اے۔
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $profileName (String) - Name of the current profile
+sync-profile-different-account-description-merge = تہاݙا ڈیٹا منظم تے محفوظ رکھݨ کیتے، اساں سفارش کریندے ہیں جو تساں { $acctEmail } نال سائن ان کرݨ کیتے ہک نواں پروفائل بݨاؤ۔ جے تساں ایں پروفائل تے سنک جاری رکھݨ دا انتخاب کرو، تاں ݙوہیں اکاؤنٹاں دا ڈیٹا “{ $profileName }” تے مستقل طور تے ضم تھی ویسی۔
+# Dialog 2 - account signed in on another profile without option to merge
+sync-account-in-use-header = اکاؤنٹ پہلے توں ورتیا ویندا پئے۔
+# Variables:
+#   $acctEmail (String) - Email of the account signing into sync.
+#   $otherProfile (String) - Name of the other profile that is associated with the account
+sync-account-in-use-header-merge = { $acctEmail } پہلے توں “{ $otherProfile }” پروفائل اچ سائن ان کیتا ہویا اے۔
 sync-account-in-use-description = تُساں ایہے اکاؤنٹ ایہے کمپیوٹر تے صرف ہک پروفائل نال جوڑ سڳدے ہیوے۔
 # Dialog 2 - account signed in on another profile with merge option
 sync-account-already-signed-in-header = ایہے اکاؤنٹ بئے پروفائل وچ سائن اِن اے۔ کیا ڈوہاں پروفائل کوں سنک کروں؟

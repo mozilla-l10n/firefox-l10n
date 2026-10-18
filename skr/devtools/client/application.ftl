@@ -105,6 +105,22 @@ sidebar-item-manifest = منشور
 sidebar-item-service-workers = خدمت کارکنان
     .alt = خدمت کارکنان آئیکن
     .title = خدمت کارکنان
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = سیشن دی تاریخ
+    .alt = سیشن دی تاریخ دا آئیکݨ
+    .title = سیشن دی تاریخ
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = سیشن دی تاریخ دا ڈیٹا ݙکھاؤ
+# Title (tooltip) for the clickable Session History diagram column headers, which
+# navigate the inspected page to that entry in its session history.
+# Variables:
+#   $index (number) - The session history index that will be navigated to.
+session-history-navigate-button-title = سیشن دی تاریخ دی انٹری { $index } تے ونجو
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = سیشن دی تاریخ دا ڈایاگرام دستیاب کائنی
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = ٹارگٹ سیشن دی تاریخ دے ڈایاگرام ݙکھاوݨ کوں سہارا نئیں ݙیندا
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = چتاوݨی آئیکن

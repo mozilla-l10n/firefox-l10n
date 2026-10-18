@@ -33,11 +33,33 @@ perftools-description-local-build =
     جے تساں کہیں اینجھی اُساری دی پروفائلنگ کریندے پئے او جینکوں تساں خود مرتب کیتا ہے، ایندے اُوتے
     مشین، براہ مہربانی تلے ݙتی ڳئی فہرست وِچ اپݨے بِلڈ دا اعتراض شامل کرو جو 
     ایہ علامت دیاں معلوامت کوں ڳولݨ کیتے استعمال کیتا ونڄ سڳدا ہے۔
+perftools-pick-local-build-directory = بلڈ ڈائریکٹری چݨو
 
 ## The controls for the interval at which the profiler samples the code.
 
 perftools-range-interval-label = نمونے گھنݨ دا وقفہ:
 perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
+
+## Generic memory units that can be used in various places, eg for the buffer size.
+
+# Byte
+perftools-memory-unit-b = بائٹ { NUMBER($num, maxFractionalUnits: 2) }
+# Kibibyte
+perftools-memory-unit-kib = کے آئی بی { NUMBER($num, maxFractionalUnits: 2) }
+# Mebibyte
+perftools-memory-unit-mib = ایم آئی بی { NUMBER($num, maxFractionalUnits: 2) }
+# Gibibyte
+perftools-memory-unit-gib = جی آئی بی { NUMBER($num, maxFractionalUnits: 2) }
+# Tebibyte
+perftools-memory-unit-tib = ٹی آئی بی { NUMBER($num, maxFractionalUnits: 2) }
+# Pebibyte
+perftools-memory-unit-pib = پی آئی بی { NUMBER($num, maxFractionalUnits: 2) }
+# Exbibyte
+perftools-memory-unit-eib = ای آئی بی { NUMBER($num, maxFractionalUnits: 2) }
+# Zebibyte
+perftools-memory-unit-zib = زی آئی بی { NUMBER($num, maxFractionalUnits: 2) }
+# Yobibyte
+perftools-memory-unit-yib = وائی آئی بی { NUMBER($num, maxFractionalUnits: 2) }
 
 ##
 

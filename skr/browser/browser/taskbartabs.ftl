@@ -21,9 +21,17 @@ taskbar-tab-urlbar-button-hide = ویب ایپ دا پیج ایکشن لکاؤ
 #                    via a heuristic, or simply be the hostname of the
 #                    site.
 taskbar-tab-shortcut-description = { $name } ویب ایپ
+# This string is used as the name of the folder that contains Taskbar
+# Tabs. Don't use any characters that can't go in a folder name, or
+# they will be replaced by underscores. (This generally means to not
+# use: '<' '>' ':' '"' '/' '\' '|' '?' '*' . All other characters
+# should be fine.)
+taskbar-tab-shortcut-folder = { -brand-short-name } ویب ایپس
 
 ## These strings are used as the tooltip for the mute/unmute button.
 
+taskbar-tab-audio-mute =
+    .tooltiptext = ٹیب کوں خاموش کرو
 taskbar-tab-audio-unmute =
     .tooltiptext = ٹیب دا آواز چالو کرو
 

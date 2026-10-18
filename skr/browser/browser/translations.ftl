@@ -74,6 +74,14 @@ translations-panel-error-dismiss-button =
     .label = سمجھ گھدے
 translations-panel-error-change-button =
     .label = ماخذ زبان وٹاؤ
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from this language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known-2 = افسوس، اساں { $language } کوں سہارا نسے ݙیندے۔
+translations-panel-error-unsupported-hint-unknown-2 = افسوس، اساں ایں زبان کوں سہارا نسے ݙیندے۔
 
 ## The default translation view contains two language dropdowns.
 ## Each label is followed, on a new line, by a dropdown list of language names.
@@ -99,6 +107,10 @@ translations-panel-choose-language =
     .label = زبان چݨو
 translations-panel-restore-button =
     .label = اصل ݙکھاؤ
+# The label for the target-language dropdown in the revisit view. This may need
+# to be translated differently from translations-panel-to-label to convey that
+# selecting a language will translate the page again.
+translations-panel-revisit-to-label = وچ ترجمہ کرو
 
 ## Firefox Translations language management in about:preferences.
 
@@ -207,6 +219,16 @@ select-translations-panel-init-failure-message =
 # Text displayed when the translation fails to complete.
 select-translations-panel-translation-failure-message =
     .message = ترجمہ کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support translations from { $language } yet.
+#
+# Variables:
+#   $language (string) - The language of the document.
+select-translations-panel-unsupported-language-message-known-2 =
+    .message = افسوس، اساں { $language } کوں سہارا نسے ݙیندے۔
+select-translations-panel-unsupported-language-message-unknown-2 =
+    .message = افسوس، اساں ایں زبان کوں سہارا نسے ݙیندے۔
 # Text displayed on the menuitem that opens the Translation Settings page.
 select-translations-panel-open-translations-settings-menuitem =
     .label = ترجمہ ترتیباں
