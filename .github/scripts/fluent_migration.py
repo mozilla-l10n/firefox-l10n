@@ -231,7 +231,7 @@ def create_l10n_pr(recipes: list[Path]) -> tuple[str, str]:
 > [!IMPORTANT]
 > **Ensure sync is currently disabled**
 > Sync should have been disabled before merging source string changes. Ensure sync is disabled and source string changes have not synced to Pontoon.
-> This PR can be merged if sync was disabled. Re-enable sync after this PR has been merged."""
+> This PR can be merged if sync was disabled. Re-enable sync after source strings and this PR have been merged."""
 
     title = "Update with migrations"
     body = f"""\
