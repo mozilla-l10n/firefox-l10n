@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Przedstawiamy VPN, teraz dostępny od 
 ipprotection-feature-introduction-title-1 = Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }
 ipprotection-feature-introduction-link-text-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane.
 ipprotection-feature-introduction-title-privacy = Dodaj jeszcze jedną warstwę prywatności
+ipprotection-feature-introduction-title-privacy-1 = Dodaj jeszcze jedną warstwę prywatności dzięki wbudowanej sieci VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród kilku położeń, aby miejsce, z którego przeglądasz, było bardziej prywatne.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Wbudowana sieć VPN { -brand-product-name(case: "gen") }</a> pomaga chronić Cię podczas przeglądania Internetu. Wybieraj spośród wielu położeń, aby miejsce, z którego przeglądasz, było bardziej prywatne.
 ipprotection-feature-introduction-link-text-privacy-3 = <a data-l10n-name="learn-more-vpn">Zwiększ prywatność</a>, wybierając spośród wielu położeń, aby ukryć miejsce, z którego przeglądasz Internet.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = OK
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Ustaw reguły wbudowanej sieci VPN i przeglądaj dalej
 ipprotection-site-inclusions-callout-title-lapsed-users = Wypróbuj wbudowaną sieć VPN, którą teraz można włączać lub wyłączać dla wybranych witryn
+ipprotection-site-inclusions-callout-description-1 = Włącz sieć VPN, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłącz tam, gdzie jej nie potrzebujesz.
 ipprotection-site-inclusions-callout-description = Włącz ją, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłącz tam, gdzie jej nie potrzebujesz.
 ipprotection-site-inclusions-callout-primary-button = Ustaw reguły
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nie teraz
@@ -144,6 +146,12 @@ site-rules-status-heading = Reguła użytkownika
 site-rules-description-exclusion = VPN jest wyłączony na tej witrynie
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN jest włączony na tej witrynie
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Czy zawsze włączać VPN dla witryny „{ $website }”?
+    .message = W każdej chwili można to zmienić w ustawieniach.
 ipprotection-settings-link =
     .label = Ustawienia
 
@@ -284,6 +292,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Ustaw reguły dla witryn wymagających dodatkowej prywatności lub wyłączonej sieci VPN.
     .label = Zarządzaj regułami VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Ustaw reguły automatycznego włączania i wyłączania sieci VPN.
+    .label = Reguły dla witryn
 ip-protection-site-rules-add-button =
     .label = Ustaw regułę
 ip-protection-site-rules-delete-all-button =
@@ -366,6 +377,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Czy usunąć wszystkie reguły dla witryn?
 ip-protection-delete-all-site-rules-confirm =
     .label = Usuń wszystkie reguły
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Nie można usunąć reguły
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Nie można usunąć reguł
+ip-protection-delete-site-rule-retry =
+    .label = Spróbuj ponownie
 
 ## IP Protection Bandwidth
 
