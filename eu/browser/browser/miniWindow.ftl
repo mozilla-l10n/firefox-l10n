@@ -46,3 +46,30 @@ screenshots-component-reselect-button = Hasi berriro
 toolbar-button-mini-window =
     .label = Leiho txikia
     .tooltiptext = Erabili leiho txikia
+# Opens up the Mini Window section selector tool.
+main-context-menu-use-mini-window =
+    .label = Aldatu atala lekuz leiho txikira
+    .accesskey = h
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] Aldatu lekuz leiho txikira
+           *[other] Aldatu lekuz leiho txikietara
+        }
+    .accesskey = m
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Hautatu ikusgai mantentzeko orriaren zatia
+mini-window-overlay-instructions = Arrastatu edo egin klik leiho txikira lekuz aldatu beharreko eremua hautatzeko. Goian mantenduko da nabigatzen duzun bitartean.
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+mini-window-panel-header = Aukeratu zer aldatu lekuz leiho txikira
+mini-window-panel-move-selection = Aldatu hautapena lekuz
+mini-window-panel-move-full-tab = Aldatu fitxa osoa lekuz
