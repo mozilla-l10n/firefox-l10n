@@ -251,8 +251,11 @@ urlbar-split-view-button =
 ## URLbar context menu
 
 urlbar-menuitem-paste-and-go =
-    .label = Colar e ir
+    .label = Colar e Ir
     .accesskey = C
+urlbar-menuitem-paste-and-search =
+    .label = Colar e Pesquisar
+    .accesskey = P
 
 ## Searchbar context menu
 
