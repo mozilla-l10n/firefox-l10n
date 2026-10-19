@@ -1562,6 +1562,7 @@ urlbar-trust-icon-notsecure-label = Não seguro
 #  $count (number): the number of trackers blocked.
 urlbar-trust-icon-trackers-blocked-longform-label =
     { $count ->
+        [zero] Nenhum rastreador bloqueado
         [one] { $count } rastreador bloqueado
        *[other] { $count } rastreadores bloqueados
     }
