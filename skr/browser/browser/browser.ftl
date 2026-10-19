@@ -1397,7 +1397,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = ڈیٹا صاف کرو تے نواں پرائیویٹ سیشن شروع کرو؟
-reset-pbm-panel-description2 = ایہ تساݙی پرائیویٹ ونڈو بند کیتے بغیر ہسٹری، کوکیز تے سارا ٻیا سائٹ ڈیٹا مٹا ݙیندا ہے۔
+reset-pbm-panel-description2 = ایہ تہاݙی پرائیویٹ ونڈو بند کیتے بغیر ہسٹری، کوکیز تے سارا ٻیا سائٹ ڈیٹا مٹا ݙیندا ہے۔
 reset-pbm-panel-always-ask-checkbox =
     .label = ہمیشاں میݙے کنوں پچھو
     .accesskey = A

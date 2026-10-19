@@ -16,6 +16,10 @@ about-processes-kill-process =
     .title = مارݨ دا عمل
 about-processes-shutdown-tab =
     .title = ٹیب بند کرو
+about-processes-unload-tab =
+    .title = ٹیب اَن لوڈ کرو
+about-processes-go-to-tab =
+    .title = ٹیب تے ڄاؤ
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -58,6 +62,12 @@ about-processes-inference-process = انٹرفیس ({ $pid })
 #    $pid (String) The process id of this process, assigned by the OS.
 #    $type (String) The raw type for this process.
 about-processes-unknown-process = ٻئے: { $type } ({ $pid })
+
+## Properties of isolated web processes
+
+about-processes-web-isolated-property-private = نجی
+about-processes-web-isolated-property-serviceworker = خدمت دے کارکناں
+about-processes-web-isolated-property-with-coop-coep = کراس-اوریجن آئسولیٹڈ
 
 ## Details within processes
 

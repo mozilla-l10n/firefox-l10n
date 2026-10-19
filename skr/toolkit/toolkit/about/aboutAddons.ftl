@@ -124,6 +124,8 @@ private-browsing-description2 =
     نجی براؤزنگ دے دوران توسیع کم کائنا کریسے، تے تہاݙی آن لائن سرگرمیاں تائیں رسائی کائنا ہوسے۔
     اتھاں. اساں ایہ تبدیلی تہاݙی نجی براؤزنگ کوں نجی رکھݨ کیتے کیتی ہے۔
     <label data-l10n-name="private-browsing-learn-more"> ایکسٹینشن دیاں ترتیباں دا انتظام کرݨ دا طریقہ ڄاݨو</label>
+aboutaddons-sidebar =
+    .heading = ایڈ آنز
 addon-category-discover = سفارشاں
 addon-category-discover-title =
     .title = سفارشاں
@@ -169,6 +171,8 @@ extensions-warning-update-security-button = فعال بݨاؤ
 extensions-warning-imported-addons2 =
     .message = تھورائیت کرین٘دے ہوئے ایکسٹنشناں دی تنصیب کوں حتمی شکل ݙیؤ جہڑیاں { -brand-short-name } وِچ درآمد کِیتیاں ڳئیاں ہَن۔
 extensions-warning-imported-addons-button = ایکسٹنشناں انسٹال کرو
+extensions-warning-safe-mode3 =
+    .message = ٹرابل شوٹ موڈ ولوں سارے ایڈ آنز غیر فعال کر ݙتے ڳئے ہن۔
 
 ## Strings connected to add-on updates
 
@@ -200,6 +204,10 @@ addon-updates-manual-updates-found = دستیاب اپ ڈیٹاں دا نظار�
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file = فائل کنوں ایڈ آن انسٹال کرو…
+    .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = فائل توں ایڈ آن انسٹال یا اپ ڈیٹ کرو…
     .accesskey = I
 addon-install-from-file-dialog-title = انسٹال کرݨ کیتے ایڈ آن منتخب کرو
 addon-install-from-file-filter-name = ایڈ ــ آن
@@ -255,6 +263,16 @@ discopane-notice-recommendations2 =
         انہاں وِچوں کجھ سفارشاں ذاتی نوعیت دیاں ہن۔ او ٻئے تے مبنی ہن
         ایکسٹینشنز جیڑھیاں انسٹال کیتیا ہن، پروفائل دیاں ترجیحات، تے استعمال دے انگ اکھر۔
 discopane-notice-learn-more = ٻیا سِکھو
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = تہاݙے کلر وے تھیمز ہٹا ݙتے ڳئے۔
+    .message = { -brand-product-name } اپݨا کلر ویز مجموعہ اپ ڈیٹ کر ݙتا۔ اساں تساݙی ”Saved Themes“ فہرست وچوں پرانی ورژناں ہٹا ݙتیاں۔ نویاں ورژناں ایڈ آنز سائٹ توں حاصل کرو۔
+colorway-removal-notice-learn-more = ٻیا جانو
+colorway-removal-notice-button = اپ ڈیٹ شدہ کلر ویز تھیمز حاصل کرو
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = تہاݙیاں ونڈوز کنٹراسٹ سیٹنگز { -brand-short-name } تھیمز اُتے غالب آ ڳئیاں ہن۔ { -brand-short-name } وچ تھیمز ورتݨ کیتے ایہ سیٹنگز بند کرو۔
 privacy-policy = رازداری پالیسی
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -275,6 +293,11 @@ find-more-themes = ودھیک تھیمز لبھو
 # used for screen readers.
 addon-options-button =
     .aria-label = ودھیک اختیارات
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 = ایکسٹینشنز تے تھیمز تساݙی { -brand-product-name } کوں اپنی مرضی دے مطابق بݨاوݨ دیندیاں ہن۔ ایہ پرائیویسی ودھا سگدیاں ہن، پیداوار ودھاوݨ، میڈیا بہتر بݨاوݨ، { -brand-product-name } دے ݙکھائے ڳئے انداز کوں بدلݨ تے ٻہوں کجھ ٻیا۔ ایہ چھوٹے سافٹ ویئر پروگرام اکثر تیسری فریق ولوں تیار کیتے ویندے ہن۔ ایتھے Firefox <a data-l10n-name="learn-more-trigger">سفارش کردا اے</a> غیر معمولی سیکیورٹی، کارکردگی تے فعالیت کیتے۔
 
 ## Add-on actions
 
@@ -382,6 +405,20 @@ addon-detail-group-label-quarantined-domains =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = موزیلا دی طرفوں بݨایا ڳیا آفیشل ایکسٹینشن۔ سیکیورٹی تے کارکردگی دے معیار تے پورا لہندا ہے۔
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = ایہ ایکسٹینشن سیکیورٹی تے کارکردگی دے معیاراں تے پورا اترݨ کیتے جائزہ گھنا ڳیا اے۔
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = Firefox صرف اُوں ایکسٹینشنز دی سفارش کردا اے جو سیکیورٹی تے کارکردگی دے معیاراں تے پورا اتردیاں ہن۔
 
 ##
 
@@ -389,7 +426,15 @@ available-updates-heading = دستیاب تازہ کاریاں
 recent-updates-heading = حالیہ اپ ڈیٹاں
 release-notes-loading = لوڈ تھیندا پئے۔۔۔
 release-notes-error = معذرت، پر ریلیز نوٹس لوڈ کرݨ وِچ ہک خرابی ہئی۔
+addon-permissions-heading = اجازتاں
+addon-permissions-empty2 = ایں ایکسٹینشن کوں کوئی اجازتاں دی لوڑ کائنی۔
+addon-permissions-required-label = لوڑیندے:
+addon-permissions-optional-label = اختیاری:
 addon-permissions-learnmore = اجازتاں بارے ٻیا سکھو
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = کجھ اجازتاں تساݙی تنظیم ولوں منظم کیتے ویندیاں ہن۔
 recommended-extensions-heading = تجویز کردہ ایکسٹینشنز
 recommended-themes-heading = تجویز کردہ تھیمز
 # Variables:
@@ -413,6 +458,9 @@ shortcuts-heading = ایکسٹینشن شارٹ کٹس کوں منظم کرو۔
 default-heading-search-label = ودھیک ایڈ انز لبھو
 addons-heading-search-input =
     .placeholder = addons.mozilla.org ڳولو
+addons-heading-search-button =
+    .aria-label = addons.mozilla.org تلاش کرو
+    .title = addons.mozilla.org تلاش کرو
 addon-page-options-button =
     .title = تمام ایڈ آنز کیتے ٹولز
 
@@ -428,7 +476,19 @@ details-notification-unsigned-and-disabled2 =
     .message = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی تے اینکوں غیر فعال کر ݙتا ڳیا ہے۔
 details-notification-unsigned2 =
     .message = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی۔ احتیاط نال اڳو تے ودھو.
+details-notification-hard-blocked-extension =
+    .message = ایہ ایکسٹینشن Mozilla دیاں پالیسیاں دی خلاف ورزی تے بلاک کر ݙتی ڳئی اے تے ایں کوں غیر فعال کر ݙتا ڳیا اے۔
+details-notification-hard-blocked-other =
+    .message = ایہ ایڈ آن Mozilla دیاں پالیسیاں دی خلاف ورزی تے بلاک کر ݙتا ڳیا اے تے ایں کوں غیر فعال کر ݙتا ڳیا اے۔
 details-notification-blocked-link2 = تفصیلاں ݙیکھو
+details-notification-soft-blocked-extension-disabled2 =
+    .message = ایہ ایکسٹینشن محدود کر ݙتی ڳئی اے تے ایں کوں غیر فعال کر ݙتا ڳیا اے۔ تساں ایں کوں فعال کر سڳدے ہاو، پر ایہ خطرناک تھی سڳدا اے۔
+details-notification-soft-blocked-extension-enabled2 =
+    .message = ایہ ایکسٹینشن محدود اے۔ ایں کوں ورتݨا خطرناک تھی سگدا اے۔
+details-notification-soft-blocked-other-disabled2 =
+    .message = ایہ ایڈ آن محدود اے تے ایں کوں غیر فعال کر ݙتا ڳیا اے۔ تساں ایں کوں فعال کر سگدے ہو، پر ایہ خطرناک تھی سگدا اے۔
+details-notification-soft-blocked-other-enabled2 =
+    .message = ایہ ایڈ آن محدود اے۔ ایں کوں ورتݨا خطرناک تھی سگدا اے۔
 details-notification-softblocked-link2 = تفصیلاں ݙیکھو
 details-notification-gmp-pending2 =
     .message = { $name } ستت انسٹال کر ݙتا ویسے۔
@@ -441,3 +501,122 @@ plugins-openh264-name = Cisco Systems, Inc دے ذریعہ فراہم کردہ O
 plugins-openh264-description = ایہ پلگ ان Mozilla دے ذریعہ WebRTC تفصیلاں دی تعمیل کرݨ تے WebRTC کالز کوں انہاں آلات دے نال فعال کرݨ کیتے آپݨے آپ انسٹال کیتا ویندا ہے جنہاں کیتے H.264 ویڈیو کوڈیک دی لوڑ ہوندی ہے۔ کوڈیک سورس کوڈ ݙیکھݨ تے عمل درآمد دے بارے ودھیک ڄاݨݨ کیتے https://www.openh264.org/ ملاحظہ کرو۔
 plugins-widevine-name = گوگل انکارپوریٹڈ دے ذریعہ فراہم کردہ وائڈوائن مواد ڈکرپشن ماڈیول۔
 plugins-widevine-description = ایہ پلگ ان انکرپٹڈ میڈیا ایکسٹینشن دیاں تفصیلاں دے مطابق انکرپٹڈ میڈیا دے پلے بیک کوں قابل بݨیندا ہے۔ خفیہ کردہ میڈیا عام طور تے سائٹاں دے ذریعہ پریمیم میڈیا مواد دی کاپی کرݨ کنوں بچاوݨ کیتے استعمال کیتا ویندا ہے۔ انکرپٹڈ میڈیا ایکسٹینشنز دے بارے ودھیک معلومات کیتے https://www.w3.org/TR/encrypted-media/ ملاحظہ کرو۔
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = اجازتاں تے ڈیٹا
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = ایکسٹینشن { $extensionName } ولوں ورتیا ڳیا
+addon-permissions-data-collection-heading = ڈیٹا جمع کرݨ
+addon-permissions-data-collection-empty = ڈیویلپر آکھدا اے کہ ایں ایکسٹینشن کوں ڈیٹا جمع کرݨ دی لوڑ کائنی۔
+addon-data-collection-provided = ایکسٹینشن ڈویلپر ولوں ݙتی ڳئی معلومات
+addon-data-collection-learnmore = ڈیٹا جمع کرݨ بارے ٻیا جانو
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+mlmodel-about-inference = { -brand-short-name } ایں کوں about:inference تے ورتیدا اے
+mlmodel-link-preview = { -brand-short-name } ایں کوں لنکس دے پیش نظارے تے اہم نکات بݨاوݨ کیتے ورتیندا اے
+mlmodel-pdfjs = { -brand-short-name } ایں کوں PDFs وچ شامل کیتیاں ڳئیاں تصاویر کیتے متبادل متن بݨاوݨ کیتے ورتیندا اے
+mlmodel-smart-tab-topic-engine = { -brand-short-name } ایں کوں تہاݙے ٹیب گروپس کیتے ناں تجویز کرݨ کیتے ورتیندا اے
+mlmodel-smart-tab-embedding-engine = { -brand-short-name } ایں کوں تہاݙے ٹیب گروپس کیتے ٹیبز تجویز کرݨ کیتے ورتیندا اے
+mlmodel-formfill-engine = { -brand-short-name } ایں کوں پتہ دے فارمز بھرݨ وچ مدد کیتے ورتیندا اے
+mlmodel-speech-recognition = { -brand-short-name } ایں کوں ڈیوائس تے تقریر پچھاݨ کیتے ورتیندا اے
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = ڈیوائس تے AI
+addon-category-mlmodel-title =
+    .title = ڈیوائس تے AI
+mlmodel-heading = ڈیوائس تے AI ماڈلز دا انتظام کرو
+mlmodel-description = { -brand-short-name } دیاں کجھ خصوصیات تے ایکسٹینشنز AI ماڈلز ولوں چلدیاں ہن جہڑے تہاݙے ڈیوائس تے مقامی طور تے کم کریندے ہن۔ ایہ طریقہ تہاݙی رازداری دی حفاظت کریندا اے تے کئی صورتاں وچ کارکردگی کوں ودھاندا اے۔ <a data-l10n-name="learn-more">ٻیا جانو</a>
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = ہٹاؤ
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = فائل دا سائز
+mlmodel-addon-detail-last-used-label = آخری وار ورتیا ڳیا
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = ورتاون آلا
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = ماڈل کارڈ
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Hugging Face تے ݙیکھو
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = { -brand-product-name } آپݨے ڈھنگ نال ݙھالو
+    .message = آپݨیاں ضرورتاں تے ذوق دے مطابق ٹولز تے اسٹائلز شامل کرو۔
+find-more-addons-promo-open-amo-button = ایکسٹینشنز تے تھیمز دریافت کرو
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = آپݨی اڳلی پسندیدہ ایکسٹینشن ڳولو
+    .message = { -brand-product-name } کوں فوکس، پرائیویسی، شاپنگ تے ٻئے ٹولز نال آپݨے مزاج دا بݨاؤ۔
+find-more-extensions-promo-open-amo-button = ایکسٹینشنز ڳولو
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = ٻئے تازے روپ ڳولو
+    .message = اوہ انداز چݨو جیہڑا { -brand-product-name } کوں تہاݙا آپݨا لڳے۔
+find-more-themes-promo-open-amo-button = تھیمز دریافت کرو
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = تھوڑیاں ایکسٹینشنز وݙا فرق پوندیاں ہن
+    .message = تہاݙے فوکس، پرائیویسی تے ٻیا بہتر بݨاوݨ کیتے ساݙے کول تجویزاں ہن۔
+list-empty-get-extensions-promo-button = آپݨی پہلی ایکسٹینشن ڳولو
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = روشن
+themes-mode-dark =
+    .label = کالا
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = آلہ
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = ظاہر
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = تھیمز { -brand-product-name }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = بیا ݙیکھو
+aboutaddons-themes-picker-see-less = گھٹ ݙکھاؤ
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = فعال کرو
+aboutaddons-themes-picker-disable-button =
+    .label = غیر فعال
+aboutaddons-themes-picker-install-button =
+    .label = انسٹال کرو
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = تہاݙا تھیم اپ ڈیٹ نہ تھی سڳیا۔ آپݨا کنکشن ݙیکھو تے ٻیا کوشش کرو۔
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = لنکس سسٹم تھیم استعمال کرو

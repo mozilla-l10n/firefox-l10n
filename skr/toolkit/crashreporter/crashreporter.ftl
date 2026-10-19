@@ -8,13 +8,18 @@ crashreporter-crashed-and-restore = { -brand-short-name } وِچ ہِک مسئل
 crashreporter-plea = مسئلہ دی تشخیص تے اینکوں ٹھیک کرݨ وِچ اساݙی مدد کیتے، تساں اساکوں کریش رپورٹ بھیڄ سڳدے او۔
 crashreporter-information = ایہ ایپلی کیشن کریش دے بعد { -vendor-short-name } کوں مسئلہ دی اطلاع ݙیوݨ کیتے چلائی ویندی ہے۔ اینکوں براہ راست نہیں چلاوݨا چاہیدا۔
 crashreporter-error = { -brand-short-name } وِچ ہِک  مسئلہ ہا تے کریش تھی ڳیا۔ بدقسمتی نال، کریش رپورٹر ایں حادثے دی رپورٹ جمع کرݨ کنوں وان٘جھا ہے۔
+crashreporter-error-details-header = تفصیلات:
 crashreporter-no-run-message = ایہ ایپلی کیشن کریش دے بعد ایپلی کیشن وینڈر کوں مسئلہ دی اطلاع ݙیوݨ کیتے چلائی ویندی ہے۔ اینکوں براہ راست نہیں چلاوݨا چاہیدا ہے۔
 crashreporter-button-details = تفصیلاں۔۔۔
 crashreporter-loading-details = لوڈ تھیندا پئے۔۔۔
 crashreporter-view-report-title = مواد دی رپورٹ کرو
 crashreporter-comment-prompt = ہک تبصرہ شامل کرو (تبصرے عوامی طور تے نظر آوݨ والے ہن)
 crashreporter-report-info = ایں رپورٹ وِچ ایپلی کیشن دے کریش تھیوݨ دے ویلھے دی حالت دے بارے تکنیکی معلومات وی شامل ہن۔
+crashreporter-checkbox-test-hardware = اپݨی ڈیوائس تے ہارڈویئر تے ترتیب دیاں پریشانیاں دی جانچ کرو۔
+crashreporter-checkbox-send-report = ایں کریش دے بارے وچ { -vendor-short-name } کوں ݙسو تاں جو اوہ ایہہ ٹھیک کر سڳن۔
+crashreporter-checkbox-include-url = میں جیہڑے صفحے تے ہاں اوندا پتا شامل کرو۔
 crashreporter-submit-status = تہاݙے چھوڑݨ یا دوبارہ شروع کرݨ کنوں پہلے تہاݙی کریش رپورٹ جمع کر ݙتی ویسے۔
+crashreporter-submit-waiting-hardware-tests = ہارڈویئر تے ترتیب دیاں پریشانیاں دی جانچ تھیندی پئی اے…
 crashreporter-submit-in-progress = تہاݙی رپورٹ جمع کرائی ویندی پئی ہے…
 crashreporter-submit-success = رپورٹ کامیابی دے نال جمع کرائی ڳئی ہے!
 crashreporter-submit-failure = تہاݙی رپورٹ جمع کراوݨ وِچ ہک مسئلہ ہا۔
@@ -27,9 +32,6 @@ crashreporter-button-close = بند کرو
 crashreporter-crash-identifier = کریش ID: { $id }
 # $url (String) - the url which the user can use to view the submitted crash report
 crashreporter-crash-details = تساں ایں حادثے دیاں تفصیلاں { $url }  تے ݙیکھ سڳدے او۔
-
-# Error strings
-
 # $path (String) - the file path
 crashreporter-error-opening-file = ({ $path }) فائل کھولݨ وِچ ناکامی
 # $path (String) - the file path
@@ -41,3 +43,4 @@ crashreporter-error-no-home-dir = ہوم ڈائریکٹری لُکَّل ہِے
 # $to (String) - the destination path
 crashreporter-error-moving-path = { $from } کوں { $to } وِچ منتقل کرݨ وِچ نا کامی
 crashreporter-error-version-eol = ورژن دی حیاتی دا مُکاوا: کریش رپورٹاں ہُݨ قبول کائنی کیتیاں وین٘دیاں۔
+crashreporter-error-failed-to-generate-minidump = ایپلیکیشن کریش دی معلومات تیار کرݨ وچ ناکام تھی ڳئی۔

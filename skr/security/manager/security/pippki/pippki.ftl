@@ -80,6 +80,13 @@ client-auth-cert-details-issued-by = دی طرفوں جاری: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = تے ذخیرہ تھیا : { $storedOn }
+client-auth-cert-remember-label = ایندے فیصلے کوں یاد رکھو:
+client-auth-cert-remember-never =
+    .label = ہک دفعہ
+client-auth-cert-remember-always =
+    .label = ہمیشہ کیتے
+client-auth-cert-remember-temporarily =
+    .label = ایں سیشن کیتے
 
 ## Set password (p12) dialog
 
@@ -91,3 +98,11 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = سرٹیفکیٹ بیک اپ پاس ورڈ (دوبارہ):
 set-password-reminder = اہم: جے تساں اپݨا سرٹیفکیٹ بیک اپ پاس ورڈ بھل ویندے او، تاں تساں بعد وِچ ایں بیک اپ کوں بحال نہ کر سڳسو۔ براہ مہربانی اینکوں محفوظ مقام تے ریکارڈ کرو۔
+
+## Protected authentication dialog
+
+protected-auth-window =
+    .title = محفوظ تصدیق
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, “OS Client Cert Token (Modern)”)
+protected-auth-prompt = براہ مہربانی سیکیورٹی ڈیوائس ({ $tokenName }) تے تصدیق کرو۔ ایندا طریقہ ڈیوائس تے منحصر اے (مثال دے طور تے، فنگر پرنٹ ریڈر استعمال کرݨ یا کی پیڈ نال کوڈ داخل کرݨ)۔

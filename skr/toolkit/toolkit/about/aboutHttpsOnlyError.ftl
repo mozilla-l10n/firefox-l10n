@@ -11,6 +11,7 @@ about-httpsonly-explanation-question = ایندی وجہ کیا تھی سڳدی 
 about-httpsonly-explanation-nosupport = غالباً، ویب سائٹ سادگی نال ایچ ٹی ٹی پی ایس کوں سہارا کائنی ݙیندی۔
 about-httpsonly-explanation-risk = ایہ وی ممکن ہے جو کوئی حملہ آور ملوث ہووے۔ جے تساں ویب سائٹ تے ونڄݨ دا فیصلہ کریندے او، تاں تہاکوں کوئی وی حساس معلومات جیویں پاس ورڈ، ای میلاں، یا کریڈٹ کارڈ دیاں تفصیلاں درج نہیں کرݨیاں چاہیدیاں۔
 about-httpsonly-explanation-continue = جے تساں جاری رکھیندو او، تاں ایں سائٹ کیتے HTTPS-Only Mode کوں عارضی طور تے بند کر ݙتا ویسے۔
+about-httpsonly-explanation-iframe = مکسڈ مواد بلاک تھیوݨ دی وجہ توں ایہہ فریم دستی طور تے لوڈ کرݨ دی اجازت ݙیوݨ ممکن نئیں۔
 about-httpsonly-button-continue-to-site = ایچ ٹی ٹی پی سائٹ تے جاری رکھو
 about-httpsonly-button-go-back = واپس ون٘ڄو
 about-httpsonly-link-learn-more = ٻیا سکھو …
