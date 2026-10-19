@@ -252,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Coller et ouvrir
     .accesskey = C
+urlbar-menuitem-paste-and-search =
+    .label = Coller et rechercher
+    .accesskey = C
 
 ## Searchbar context menu
 

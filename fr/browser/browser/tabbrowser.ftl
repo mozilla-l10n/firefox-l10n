@@ -450,6 +450,8 @@ tab-context-reverse-split-view =
     .label = Inverser les onglets
     .accesskey = I
 tab-context-badge-new = Nouveau
+# The label of a badge shown in menu items to call out features that are in beta.
+tab-context-badge-beta = Bêta
 # Split view tabs display their respective contents side by side
 # Displayed within the tooltip on the left tab inside of a tab split view
 # "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.

@@ -101,3 +101,5 @@ default-browser-guidance-notification-v2-title-only =
         [with-cases] V Nastavení dokončete nastavování { -brand-short-name(case: "gen") } jako výchozího prohlížeče
        *[no-cases] V Nastavení dokončete nastavování aplikace { -brand-short-name } jako výchozího prohlížeče
     }
+default-browser-guidance-notification-auto-trigger-title = Otevírejte odkazy v prohlížeči { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = V nastavení zvolte { -brand-short-name } jako výchozí prohlížeč.

@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = Allez plus loin ave
 ipprotection-feature-introduction-link-text-private-browsing-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données, même lorsque vous êtes dans une fenêtre privée.
 ipprotection-feature-introduction-description-private-browsing = Naviguez avec une protection supplémentaire en masquant votre localisation, même dans une fenêtre de navigation privée.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Permet de masquer votre localisation pendant la navigation. Définissez des règles pour activer le VPN pour <a data-l10n-name="learn-more-vpn">plus de confidentialité</a> ou la navigation basée sur la localisation, et les désactiver là où ce n’est pas le cas.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Masquez votre localisation pour <a data-l10n-name="learn-more-vpn">mieux protéger votre vie privée</a> pendant la navigation. Définissez des règles pour activer le VPN lorsque vous souhaitez renforcer votre confidentialité ou naviguer depuis un autre emplacement, et le désactiver sur les sites où vous n’en avez pas besoin.
 ipprotection-feature-introduction-title-captive-portal = Vous utilisez un Wi-Fi public ? Essayez le VPN intégré à { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Naviguez avec une protection supplémentaire en masquant votre localisation, même sur un Wi-Fi public.
@@ -123,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorer
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Obtenez un VPN en illimité jusqu’au 30 janvier
+ipprotection-holiday-promo-description = Rendez votre navigation privée et plus difficile à tracer grâce au VPN intégré.
 ipprotection-holiday-promo-primary-button = Ouvrir le VPN
 ipprotection-holiday-promo-secondary-button = Ignorer
 
@@ -168,6 +172,8 @@ ipprotection-button-turn-vpn-off = Désactiver le VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Désactiver le VPN partout
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Activer
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Activer le VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Activation…
@@ -179,6 +185,8 @@ ipprotection-connection-status-excluded-1 = Le VPN est désactivé pour ce site
     .aria-label = Le VPN est désactivé pour ce site
 ipprotection-connection-status-connecting-1 = Le VPN est en cours de connexion…
     .aria-label = Le VPN est en cours de connexion…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Désactiver
 
 ## Location controls
 

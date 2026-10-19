@@ -252,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Klistra in och öppna
     .accesskey = K
+urlbar-menuitem-paste-and-search =
+    .label = Klistra in och sök
+    .accesskey = K
 
 ## Searchbar context menu
 

@@ -264,6 +264,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Vložit a jít
     .accesskey = V
+urlbar-menuitem-paste-and-search =
+    .label = Vložit a hledat
+    .accesskey = V
 
 ## Searchbar context menu
 
@@ -1519,6 +1522,8 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-panel-description = Tímto smažete historii, cookies a údaje stránek. Z webů budete odhlášeni. Toto okno se zavře a { -brand-short-name } otevře nové.
+fire-button-panel-choose-description = Pokud nechcete smazat vše, vyberte místo toho jen konkrétní data.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.
