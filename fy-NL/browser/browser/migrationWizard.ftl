@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } hat gjin tagong ta de p
 migration-no-permissions-instructions = Jou { -brand-short-name } tagong ta de profylmap om troch te gean mei it ymportearjen fan gegevens fan in oare browser út.
 migration-no-permissions-instructions-step1 = Selektearje ‘Trochgean’
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Yn de bestânskiezer, kies ‘Iepenje’
+       *[other] Navigearje yn de bestânskiezer nei <code>{ $permissionsPath }</code> en kies ‘Selektearje’
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

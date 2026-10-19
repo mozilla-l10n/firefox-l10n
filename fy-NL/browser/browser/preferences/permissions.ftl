@@ -170,6 +170,7 @@ permissions-site-xr-disable-desc = Dit foarkomt dat websites dy’t hjirboppe ne
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Ynstellingen – Blokkearre websites foar app-keppelingen
+permissions-site-app-links-desc = Dizze websites binne blokkearre te freegjen om app-keppelingen te iepenjen, bygelyks e-mail (mailto:). Smyt in website fuort om it opnij freegje te litten.
 
 ## Site Permissions - Camera
 

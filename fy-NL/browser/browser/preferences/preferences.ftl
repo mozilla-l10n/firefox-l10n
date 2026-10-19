@@ -1795,6 +1795,11 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Kies hokker websiden útwreidingen ynstallearje meie
     .accesskey = K
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Tastean dat websites freegje app-keppelingen te iepenjen.
+    .accesskey = T
 # Opens the list of sites that are blocked from asking to open app links.
 permissions-app-links-manage-button =
     .label = Blokkearre websites beheare
