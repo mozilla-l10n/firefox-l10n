@@ -14,7 +14,7 @@ cert-error-trust-unknown-issuer-intro = Някой може би се опитв
 cert-error-trust-unknown-issuer = Страниците потвърждават самоличността си чрез сертификати. { -brand-short-name } не се доверява на { $hostname }, защото издателят на сертификата е неизвестен, сертификатът е самоподписан или сървърът не изпраща верните посреднически сертификати.
 cert-error-trust-cert-invalid = Няма увереност в сертификата, защото е издаден от невалиден сертификат CA.
 cert-error-trust-untrusted-issuer = Няма увереност в сертификата, защото няма увереност в сертификата на издателя.
-cert-error-trust-signature-algorithm-disabled = Сертификатът не е доверен, защото е подписан с алгоритъм за подписване, който е деактивиран, защото не е безопасен.
+cert-error-trust-signature-algorithm-disabled = Сертификатът не е доверен, тъй като е подписан с алгоритъм, който се счита за несигурен и поради тази причина е изключен.
 cert-error-trust-expired-issuer = Няма увереност в сертификата, защото издателят на сертификата е с изтекла валидност.
 cert-error-trust-self-signed = Няма увереност в сертификата, защото е самоподписан.
 # Variables:
@@ -76,7 +76,15 @@ fp-certerror-bad-domain-why-dangerous-body = Сайтът е настроен д
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-bad-domain-what-can-you-do-body = По-скоро нищо, тъй като вероятно има проблем със самия сайт. Сайтовете използват сертификати, издадени от удостоверител на сертификати, за да докажат, че наистина са тези, за които се представят. Но ако сте във ведомствена мрежа, вашият екип за поддръжка може да има повече информация. Ако използвате антивирусен софтуер, опитайте да потърсите за потенциални конфликти или известни проблеми.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } ви предупреждава за тази страница, защото предоставеният сертификат за { $hostname } е издаден от орган за сертифициране, на който вече не се има доверие.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-untrusted-issuer-what-can-you-do-body = Вероятно нищо, тъй като може би има проблем със самия сайт. Можете да се консултирате със собственика на сайта, за да видите дали той работи по проблема.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Има проблем със сертификата на сайта. Възможно е злонамерено лице да се опитва да имитира сайта. Сайтовете използват сертификати, издадени от удостоверител на сертификати, за да докажат, че наистина са тези, за които се представят. { -brand-short-name } не се доверява на този сайт, защото не можем да определим кой е издал сертификата, дали е самоподписан или дали сайтът не изпраща междинни сертификати, на които може да се има доверие.
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = Вероятно нищо, тъй като може би има проблем със самия сайт. Но ако сте във ведомствена мрежа, вашият екип за поддръжка може да има повече информация. Ако използвате антивирусен софтуер, може да се наложи той да бъде конфигуриран да работи с { -brand-short-name }.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-self-signed-why-dangerous-body = Защото има проблем със сертификата на сайта. Сайтовете използват сертификати, издадени от удостоверител на сертификатите, за да докажат, че наистина са тези, за които се представят. Сертификатът на този сайт е самоподписан. Не е издаден от признат удостоверител на сертификати, затова не му се доверяваме по подразбиране.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
@@ -100,6 +108,7 @@ fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } не 
 ##   $hostname (string) - Hostname of the website with cert error.
 
 cert-error-unknown-critical-extension = { -brand-short-name } блокира посещението ви на този сайт, защото предоставеният за { $hostname } сертификат съдържа неподдържано критично разширение.
+cert-error-signature-algorithm-mismatch = { -brand-short-name } блокира посещението ви в този сайт, тъй като алгоритъмът за подпис на предоставения сертификат за { $hostname } не съответства на посочения в съответното му поле.
 
 ## Messages used for certificate error titles
 
