@@ -11,6 +11,9 @@ browser-main-window-default-title = { -brand-full-name }
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = ການທ່ອງເວັບແບບສ່ວນຕົວ
+
+##
+
 urlbar-identity-button =
     .aria-label = ເບິ່ງຂໍ້ມູນເວັບໄຊທ໌
 
@@ -176,6 +179,12 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = ບຸກມາກຫນ້ານີ້ ({ $shortcut })
+
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = ວາງ & ໄປ
+    .accesskey = G
 
 ## Searchbar context menu
 
@@ -445,6 +454,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ປິດການນຳໃຊ້ການປົກປ້ອງການແບ່ງປັນສຳລັບເຊດຊັນນີ້
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -587,6 +599,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · ສະໜັບສະໜູນ
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -686,6 +703,9 @@ urlbar-result-action-switch-to-tabgroup = ປ່ຽນເປັນ { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = ເປີດ { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -824,6 +844,9 @@ bookmarks-subview-bookmark-tab =
 library-bookmarks-menu =
     .label = ບຸກມາກ
 
+## Repair text encoding toolbar button
+
+
 ##
 
 # Variables:
@@ -860,6 +883,10 @@ toolbar-button-new-private-window =
     .label = ວິນໂດສ່ວນຕົວໃໝ່
     .tooltiptext = ເປີດວິນໂດການທ່ອງເວັບສ່ວນຕົວໃໝ່ ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = ສຽງ ຫລື ວີດີໂອບາງສ່ວນໃນເວັບໄຊທ໌ນີ້ໃຊ້ຊອບແວ DRM, ເຊິ່ງອາດຈະຈຳກັດສິ່ງທີ່ { -brand-short-name } ສາມາດໃຫ້ທ່ານເຮັດໄດ້.
@@ -883,6 +910,10 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = ປິດ
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
@@ -900,6 +931,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -948,6 +982,13 @@ restore-session-startup-suggestion-button = ບອກວິທີເຮັດໃ
 
 filepicker-blocked-infobar = ອົງກອນຂອງທ່ານໄດ້ບລັອກການເຂົ້າເຖິງໄຟລ໌ທ້ອງຖິ່ນຢູ່ໃນຄອມພິວເຕີເຄື່ອງນີ້
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ສົ່ງຂໍ້ມູນບາງຢ່າງໄປ { -vendor-short-name } ໂດຍອັດຕະໂນມັດ ເພື່ອໃຫ້ພວກເຮົາສາມາດປັບປຸງປະສົບການຂອງທ່ານໄດ້.
@@ -982,6 +1023,14 @@ unified-extensions-button-permissions-needed =
     .label = ສ່ວນຂະຫຍາຍ
     .tooltiptext = ສ່ວນຂະຫຍາຍ
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-always-ask-checkbox =
@@ -991,6 +1040,10 @@ reset-pbm-panel-cancel-button =
     .label = ຍົກເລີກ
     .accesskey = C
 reset-pbm-panel-complete = ລຶບຂໍ້ມູນເຊສຊັນສ່ວນຕົວແລ້ວ
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1058,6 +1111,13 @@ file-picker-crashed-open = Windows file-dialog ໄດ້ຂັດຂ້ອງ. �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows file-dialog ໄດ້ຂັດຂ້ອງ. ໄຟລ໌ດັ່ງກ່າວຈະຖືກບັນທຶກໄວ້ໃນ { $path }.
 file-picker-crashed-save-nowhere = Windows file-dialog ໄດ້ຂັດຂ້ອງ. ບໍ່ພົບໂຟນເດີເລີ່ມຕົ້ນ; ໄຟລ໌ຈະບໍ່ຖືກບັນທຶກໄວ້.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = ສະແດງໃນ Finder
     .accessKey = F
@@ -1105,6 +1165,9 @@ trustpanel-blocker-see-all = ເບິງທັງໝົດ
 trustpanel-blocker-header =
     .title = ການຕິດຕາມການປົກປ້ອງສໍາລັບ { $host }
 
+## The urlbar trust icon & panel
+
+
 ## Variables
 ##  $count (String): the number of trackers blocked.
 
@@ -1132,3 +1195,6 @@ trustpanel-fingerprinter-list-header = ເວັບໄຊເຫຼົ່ານ�
 trustpanel-cryptominer-blocking-tab-header = { -brand-product-name } ຖືກປິດກັ້ນ { $count } cryptominers
 trustpanel-cryptominer-not-blocking-tab-header = { -brand-product-name } ອະນຸຍາດໃຫ້ { $count } cryptominers
 trustpanel-cryptominer-tab-list-header = ເວັບເຫຼົ່ານີ້ກໍາລັງພະຍາຍາມ cryptomine:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
