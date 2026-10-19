@@ -2197,6 +2197,7 @@ security-privacy-status-pending-trackers-label = Verificando quantos rastreadore
 #   $trackerCount (Number) - Number of trackers we have blocked in the last month
 security-privacy-status-trackers-label =
     { $trackerCount ->
+        [zero] Nenhum rastreador bloqueado no último mês
         [one] { $trackerCount } rastreador bloqueado no último mês
        *[other] { $trackerCount } rastreadores bloqueados no último mês
     }

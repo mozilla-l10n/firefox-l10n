@@ -295,6 +295,7 @@ newtab-privacy-message-promo-relay-3-cta = Obtenha máscaras
 #   $count (number) - Trackers blocked this week
 newtab-privacy-message-milestone-week =
     { $count ->
+        [zero] Nenhum rastreador bloqueado esta semana. Descubra como o { -brand-short-name } protege sua privacidade
         [one] { $count } rastreador bloqueado esta semana. Descubra como o { -brand-short-name } protege sua privacidade
        *[other] { $count } rastreadores bloqueados esta semana. Descubra como o { -brand-short-name } protege sua privacidade
     }
@@ -303,6 +304,7 @@ newtab-privacy-message-milestone-week-cta = Ver proteções
 #   $count (number) - Trackers blocked this month
 newtab-privacy-message-milestone-month =
     { $count ->
+        [zero] Nenhum rastreador bloqueado este mês. Um pequeno passo para privacidade. Um grande passo para sua tranquilidade.
         [one] { $count } rastreador bloqueado este mês. Um pequeno passo para privacidade. Um grande passo para sua tranquilidade.
        *[other] { $count } rastreadores bloqueados este mês. Um pequeno passo para privacidade. Um grande passo para sua tranquilidade.
     }
@@ -311,6 +313,7 @@ newtab-privacy-message-milestone-month-cta = Ver proteções
 #   $count (number) - Trackers blocked this year
 newtab-privacy-message-milestone-year =
     { $count ->
+        [zero] Nenhum rastreador bloqueado este ano. Um ano marcante na proteção da sua privacidade.
         [one] { $count } rastreador bloqueado este ano. Um ano marcante na proteção da sua privacidade.
        *[other] { $count } rastreadores bloqueados este ano. Um ano marcante na proteção da sua privacidade.
     }
@@ -319,6 +322,7 @@ newtab-privacy-message-milestone-year-cta = Ver proteções
 #   $count (number) - Trackers blocked all-time
 newtab-privacy-message-milestone-total =
     { $count ->
+        [zero] Nenhum rastreador bloqueado. Um grande avanço para sua privacidade, sempre sob seu controle.
         [one] { $count } rastreador bloqueado. Um grande avanço para sua privacidade, sempre sob seu controle.
        *[other] { $count } rastreadores bloqueados. Um grande avanço para sua privacidade, sempre sob seu controle.
     }
