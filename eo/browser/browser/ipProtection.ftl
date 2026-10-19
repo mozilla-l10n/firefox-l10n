@@ -119,6 +119,11 @@ ipprotection-site-inclusions-callout-primary-button = Difini regulojn
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne nun
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignori
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Malfermi VPN
+ipprotection-holiday-promo-secondary-button = Ignori
+
 ## Panel
 
 # Also used for the callout shown in private browsing
