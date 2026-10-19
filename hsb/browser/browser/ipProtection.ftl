@@ -168,6 +168,8 @@ ipprotection-button-turn-vpn-off = VPN znjemóžnić
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN wšudźe znjemóžnić
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Zmóžnić
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN zmóžnić
 # Button while VPN is connecting
 ipprotection-button-connecting = Zmóžnja so…
@@ -179,6 +181,8 @@ ipprotection-connection-status-excluded-1 = VPN je za tute sydło znjemóžnjeny
     .aria-label = VPN je za tute sydło znjemóžnjeny
 ipprotection-connection-status-connecting-1 = VPN so zwjazuje…
     .aria-label = VPN so zwjazuje…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Znjemóžnić
 
 ## Location controls
 

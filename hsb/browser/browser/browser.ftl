@@ -257,6 +257,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Zasadźić a započeć
     .accesskey = Z
+urlbar-menuitem-paste-and-search =
+    .label = Zasadźić a pytać
+    .accesskey = Z
 
 ## Searchbar context menu
 

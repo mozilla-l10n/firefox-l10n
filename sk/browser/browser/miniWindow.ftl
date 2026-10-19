@@ -50,3 +50,28 @@ toolbar-button-mini-window =
 main-context-menu-use-mini-window =
     .label = Presunúť sekciu do mini okna
     .accesskey = m
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] Presunúť do mini okna
+            [one] Presunúť do mini okna
+            [few] Presunúť do mini okien
+           *[other] Presunúť do mini okien
+        }
+    .accesskey = m
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Vyberte časť stránky, ktorá má zostať viditeľná
+mini-window-overlay-instructions = Potiahnutím alebo kliknutím vyberte oblasť, ktorú chcete presunúť do mini okna. Pri prehliadaní zostane vždy navrchu.
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+mini-window-panel-header = Vyberte, čo sa má presunúť do mini okna
+mini-window-panel-move-selection = Presunúť výber
+mini-window-panel-move-full-tab = Presunúť celú kartu

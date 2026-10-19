@@ -564,6 +564,8 @@ newtab-picture-set-wallpaper =
 newtab-picture-menu-manage-wallpaper = Nastavení tapety
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Skrýt tento obrázek
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Zobrazit obrázek
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Skrýt dnešní obrázek
@@ -571,6 +573,10 @@ newtab-picture-menu-hide-photo = Skrýt dnešní obrázek
 newtab-picture-menu-show-photo = Ukázat dnešní obrázek
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Zjistit více
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Zobrazit obrázek
+    .title = Zobrazit obrázek
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Ukázat dnešní obrázek
@@ -622,6 +628,11 @@ newtab-recent-searches-empty-trending = Trendy vyhledávání nejsou v tuto chv�
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskopy
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Otevře nabídku horoskopů
+    .title = Otevřít nabídku horoskopů
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Možnosti horoskopu
@@ -630,8 +641,30 @@ newtab-horoscopes-menu-learn-more = Zjistit více
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Cestování
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Otevře nabídku cestování
+    .title = Otevřít nabídku cestování
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Zjistit více
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitaire
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Otevře nabídku solitaire
+    .title = Otevřít nabídku solitaire
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Zjistit více
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -942,6 +975,15 @@ newtab-custom-widget-search-toggle =
     .label = Vyhledávání
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskopy
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Cestování
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitaire
 newtab-custom-widget-section-title = Widgety
 newtab-custom-widget-section-toggle =
     .label = Widgety
