@@ -31,6 +31,7 @@ ipprotection-feature-introduction-title-1 =
     }
 ipprotection-feature-introduction-link-text-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data.
 ipprotection-feature-introduction-title-privacy = Přidejte další vrstvu soukromí
+ipprotection-feature-introduction-title-privacy-1 = Zvyšte své soukromí pomocí integrované VPN
 ipprotection-feature-introduction-link-text-privacy-1 =
     { -brand-product-name.case-status ->
         [with-cases] <a data-l10n-name="learn-more-vpn">Vestavěná síť VPN { -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení. Vyberte si z několika umístění, aby bylo vaše prohlížení více v soukromí.
@@ -142,6 +143,7 @@ ipprotection-android-promo-callout-primary-button = Rozumím
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Nastavte si vestavěná pravidla pro VPN a pak už jen pokračujte v prohlížení
 ipprotection-site-inclusions-callout-title-lapsed-users = Vyzkoušejte vestavěnou VPN pro jednotlivé webové stránky
+ipprotection-site-inclusions-callout-description-1 = Zapněte VPN na webech, kde chcete více soukromí nebo přístup k obsahu podle polohy, a na ostatních ji nechte vypnutou.
 ipprotection-site-inclusions-callout-description = Zapněte ji, kdykoli chcete zvýšit soukromí nebo brouzdat podle polohy, a vypněte tam, kde ji nepotřebujete.
 ipprotection-site-inclusions-callout-primary-button = Nastavit pravidla
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Teď ne
@@ -184,6 +186,12 @@ site-rules-status-heading = Vaše pravidlo
 site-rules-description-exclusion = VPN je pro tuto stránku vypnutá
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN je pro tuto stránku zapnuta
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Vždy zapínat VPN pro { $website }?
+    .message = Svá pravidla můžete kdykoliv aktualizovat v nastavení.
 ipprotection-settings-link =
     .label = Nastavení
 

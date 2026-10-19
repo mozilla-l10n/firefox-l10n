@@ -20,6 +20,17 @@ permission-dialog-description-file-app = ایں فائل کوں { $scheme } لن
 permission-dialog-description-extension-app = ایں ایکسٹنشن { $extension } کوں { $appName } نال { $scheme } لنک کھولݨ دی اجازت ݙیوو؟
 permission-dialog-description-system-app = { $scheme } لنک کوں { $appName } دے نال کھولوں؟
 permission-dialog-description-system-noapp = { $scheme } لنک کھولوں؟
+# Header on a permission prompt, asking the user if they should allow the website to continue.
+wallet-custom-scheme-warning-heading =
+    .heading = .heading = ایں سائٹ کوں تہاݙا ڈیجیٹل والٹ کھولݨ دی اجازت ݙیو؟
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = <strong>{ $scheme }</strong> لنک کھولݨ نال <strong>{ $host }</strong> کوں <strong>{ $appName }</strong> نال تہاݙی اصلی شناخت دی درخواست کرݨ دی اجازت ملدی ہے۔ صرف جے تساں ایں سائٹ تے بھروسا کریندے او تاں جاری رکھو۔
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = <strong>{ $scheme }</strong> لنک کھولݨ نال ایں سائٹ کوں <strong>{ $appName }</strong> نال تہاݙی اصلی شناخت دی درخواست کرݨ دی اجازت ملدی ہے۔ صرف جے تساں ایں سائٹ تے بھروسا کریندے او تاں جاری رکھو۔
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = <strong>{ $scheme }</strong> لنک کھولݨ نال <strong>{ $host }</strong> کوں تہاݙے ڈیجیٹل والٹ توں تہاݙی اصلی شناخت دی درخواست کرݨ دی اجازت ملدی ہے۔ صرف جے تساں ایں سائٹ تے بھروسا کریندے او تاں جاری رکھو۔
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = <strong>{ $scheme }</strong> لنک کھولݨ نال ایں سائٹ کوں تہاݙے ڈیجیٹل والٹ توں تہاݙی اصلی شناخت دی درخواست کرݨ دی اجازت ملدی ہے۔ صرف جے تساں ایں سائٹ تے بھروسا کریندے او تاں جاری رکھو۔
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -48,8 +59,8 @@ permission-dialog-set-change-app-link = ہک مختلف ایپلی کیشن دا
 ##  $scheme (string) - The type of link that's being opened.
 
 chooser-window =
-    .title = ایپ چݨو
     .style = min-width: 26em; min-height: 26em;
+    .title = ایپ چݨو
 chooser-dialog =
     .buttonlabelaccept = لنک کھولو
     .buttonaccesskeyaccept = O
@@ -68,3 +79,23 @@ choose-app-btn =
 choose-other-app-window-title = ہک ٻئی ایپ۔۔۔
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = نجی ونڈوز وِچ غیر فعال
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
+
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = اپݨی ای میل ایپ چݨو
+mailto-handler-picker-subtitle = او ایپ چݨو جیڑھی تساں ای میل لنکس کیتے ورتݨ چاہندے او۔ تساں ایں کوں بعد وچ ترتیبات وچ بدل سگدے او۔
+# Checkbox letting the user keep being prompted with this picker each time they
+# click an email link, instead of remembering the chosen handler.
+mailto-handler-picker-always-ask = جݙاں میں ای میل لنک تے کلک کراں تاں ہمیشہ میکوں پچھو
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = ڈیفالٹ طور تے سیٹ کرو
+    .accesskey = ڈ
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = ہݨ نئیں
+    .accesskey = ہ

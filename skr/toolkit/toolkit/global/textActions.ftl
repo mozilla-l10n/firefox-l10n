@@ -22,6 +22,12 @@ text-action-copy =
     .accesskey = C
 text-action-copy-shortcut =
     .key = C
+# "Copy Clean Link" means that Firefox will remove things from the link you
+# copied, like items that identify you for advertising purposes, and other items
+# sites add into URLs to help them deliver a certain browsing experience.
+text-action-copy-clean-link =
+    .label = صاف لنک کاپی کرو
+    .accesskey = ص
 text-action-paste =
     .label = چمباڑو
     .accesskey = P
@@ -33,6 +39,9 @@ text-action-paste-shortcut =
 text-action-delete =
     .label = مٹاؤ
     .accesskey = D
+text-action-reveal-password =
+    .label = پاس ورڈ ݙکھاؤ۔
+    .accesskey = و
 text-action-select-all =
     .label = سارے منتخب کرو
     .accesskey = A
@@ -59,3 +68,22 @@ text-action-search-text-box-clear =
     .title = صاف کرو
 text-action-highlight-selection =
     .label = چوݨ کوں نمایاں کرو
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-1 =
+    .label = منتخب متن تے تبصرہ شامل کرو
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight =
+    .label = ہائی لائٹ دا لنک کاپی کرو
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight =
+    .label = ہائی لائٹ دا صاف لنک کاپی کرو
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight =
+    .label = نمایاں ہٹاؤ
+profile-window-menu-edit =
+    .label = ترمیم کرو
+    .accesskey = ت

@@ -13,6 +13,7 @@ neterror-captive-portal-page-title = نیٹ ورک وچ لاگ ان تھیوو
 neterror-dns-not-found-title = سرور نہیں لبھیا
 neterror-malformed-uri-page-title = غلط یوآرایل
 general-body-title = محتاط رہو۔ کجھ ٹھیک نہیں لگدا۔
+problem-with-this-site-title = ایسا لگدے جو ایں سائٹ اچ کوئی مسئلہ ہے
 
 ## Error page actions
 
@@ -54,6 +55,9 @@ neterror-search-cta-search-button =
     .label = تلاش
     .tooltiptext = نواں ٹیب وچ تلاش دے نتیجے کھولدا ہے
     .accesskey = c
+neterror-search-cta-reload-button =
+    .label = دوبارہ لوڈ کرو۔
+    .accesskey = د
 # Shown in place of the Search button when the user clicks it but connectivity
 # has dropped since the page loaded, so the search cannot be performed.
 neterror-search-cta-offline = لڳدا ہے تساں آف لائن او۔ دوبارہ کنیکٹ کرو تے دوبارہ کوشش کرو۔
@@ -84,6 +88,9 @@ neterror-load-error-firewall = جے تہاݙا کمپیوٹر یا نیٹ ورک
 neterror-load-osx-permission = اگر تساں لوکل نیٹ ورک دا صفحہ لوڈ کرݨ چاہندے او، تاں براہ کرم چیک کرو جو { -brand-short-name } کوں macOS پرائیویسی تے سیکیورٹی سیٹنگز وچ لوکل نیٹ ورک آلیاں اجازتاں ݙتیاں ڳئیاں ہن۔
 neterror-http-error-page = چیک کرو جو تساں ویب سائٹ دا پتہ ٹھیک لکھیا ہے۔
 neterror-http-empty-response = چیک کرو جو تساں ویب سائٹ دا پتہ ٹھیک لکھیا ہے تے کجھ پل بعد دوبارہ کوشش کرو۔
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-http-empty-response-description = { $hostname } نے خالی صفحہ واپس بھیجا۔
 neterror-captive-portal = انٹرنیٹ تائیں رسائی حاصل کرݨ کنوں پہلے تہاکوں ایں نیٹ ورک وِچ لاگ ان کرݨا پوسے۔
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -92,7 +99,12 @@ neterror-dns-not-found-hint-header = <strong> جے تساں صحیح پتہ در
 neterror-dns-not-found-hint-try-again = بعد اِچ ولدا کوشش کرو
 neterror-dns-not-found-hint-check-network = اپݨا نیٹ ورک کنکشن چیک کرو۔
 neterror-dns-not-found-hint-firewall = چیک کرو جو { -brand-short-name } کوں ویب تائیں رسائی دی اجازت ہے (تھی سڳدا ہے جو تساں منسلک ہوو پر فائر وال دے پچھوں)
+neterror-dns-not-found-hint-check-network-2 = اپݨا نیٹ ورک کنکشن چیک کرو۔
 neterror-dns-not-found-hint-firewall-2 = چیک کرو جو { -brand-short-name } کوں ویب تک رسائی دی اجازت ہے (تساں شاید کنیکٹ او پر فائر وال دے پچھوں ہو)۔
+neterror-dns-not-found-offline-hint-header = <strong>تُساں ایہے بارے وچ کیا کر سڳدے ہیوے؟</strong>
+neterror-dns-not-found-offline-hint-different-device = کہیں ٻئے ڈیوائس تے کنکشن کرݨ دی کوشش کرو۔
+neterror-dns-not-found-offline-hint-modem = اپݨا موڈم یا راؤٹر چیک کرو۔
+neterror-dns-not-found-offline-hint-reconnect = وائی فائی توں ڈسکنکٹ کر تے ول کنکٹ کرو۔
 
 ## TRR-only specific messages
 ## Variables:
@@ -120,6 +132,7 @@ neterror-file-not-found-what-can-you-do = جے تساں پتہ ہتھ نال ل�
 neterror-access-denied = تھی سڳدا ہے اینکوں ہٹا ݙتا ڳیا ہووے، منتقل کر ݙتا ڳیا ہووے یا فائل دیاں اجازتاں رسائی کوں روکیندیاں پیاں ہوون۔
 neterror-unknown-protocol = ایں ایڈریس کوں کھولݨ کیتے تہاکوں ٻئے سافٹ ویئر انسٹال کرݨ دی لوڑ پئے سڳدی ہے۔
 neterror-redirect-loop = ایہ مسئلہ بعض اوقات کوکیاں کوں غیر فعال کرݨ یا قبول کرݨ کنوں انکار دی وجہ توں تھی سڳدا ہے۔
+neterror-unknown-socket-type-client-config = ایہ تہاݙے کلائنٹ دی کنفیگریشن اچ غلطی دی وجہ نال تھی سڳدے۔
 neterror-not-cached-intro = درخواست کردہ دستاویز { -brand-short-name } دے کیشے وِچ دستیاب کائنی۔
 neterror-not-cached-sensitive = حفاظتی احتیاط دے طور تے، { -brand-short-name } آپݨے آپ حساس دستاویزات دی دوبارہ درخواست نہیں کریندا۔
 neterror-not-cached-try-again = ویب سائٹ کنوں دستاویز دی دوبارہ درخواست کرݨ کیتے ولدا کوشش کرو تے کلک کرو۔
@@ -131,6 +144,9 @@ neterror-proxy-connect-failure-settings = ایہ یقینی بݨاوݨ کیتے 
 neterror-proxy-connect-failure-contact-admin = ایہ یقینی بݨاوݨ کیتے جو پراکسی سرور کم کریندا پیا ہے اپݨے نیٹ ورک ایڈمنسٹریٹر نال رابطہ کرو۔
 neterror-content-encoding-error = براہ مہربانی ویب سائٹ دے مالکاں نال رابطہ کر تے انہاں کوں ایں مسئلے کنوں آگاہ کرو۔
 neterror-unsafe-content-type = براہ مہربانی ویب سائٹ دے مالکاں نال رابطہ کر تے انہاں کوں ایں مسئلے بارے ݙساؤ۔
+# Variables:
+# $hostname (String) - Hostname of the website to which the user was trying to connect.
+neterror-basic-http-auth = { -brand-short-name } کوں { $hostname } تے اعتبار کینی کیوں جو کنکشن محفوظ کینی۔ URL کوں HTTPS اچ بدلݨ دی کوشش کرو۔
 neterror-nss-failure-not-verified = تساں جیڑھے ورقے کوں ݙیکھݨ دی کوشش کریندے پئے او اونکوں نہیں ݙکھایا ونڄ سڳدا کیوں جو وصول تھیوݨ والے ڈیٹا دی صداقت دی تصدیق نہیں تھی سڳی۔
 neterror-nss-failure-contact-website = براہ مہربانی ویب سائٹ دے مالکاں نال رابطہ کر تے انہاں کوں ایں مسئلے بارے ݙساؤ۔
 # Variables:
@@ -183,13 +199,50 @@ certerror-mitm-what-can-you-do-about-it-attack-sts = جے تساں <b>{ $mitm }<
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> دے کول ہک سیکورٹی پالیسی ہے جینکوں HTTP Strict Transport Security (HSTS) آہدے ہن، جیندا مطلب ہے جو { -brand-short-name } صرف ایں کنوں محفوظ طریقے نال جڑ سڳدا ہے۔ تساں ایں سائٹ کوں ݙیکھݨ کیتے کوئی رعایت شامل نہیں کر سڳدے۔
+cert-error-trust-certificate-transparency-what-can-you-do-about-it = شاید کجھ وی نئیں، کیوں جو شاید سائٹ نال ہی کوئی مسئلہ ہے۔
+certerror-blocked-by-corp-headers-description = کݙیں کݙیں ویب سائٹاں آپݨے تے تہاݙے جئے لوکاں واسطے ٻیاں سائٹاں نال غیر مطلوب تعامل توں بچاوݨ واسطے حفاظتاں لڳیندیاں ہن۔
+certerror-coop-learn-more = کراس اوریجن اوپنر پالیسیز (COOP) بارے ٻیا سکھو۔
+certerror-coep-learn-more = کراس اوریجن ایمبیڈر پالیسیز (COEP) بارے ٻیا سکھو۔
+# Variables:
+#   $responsestatus (string) - HTTP response status code (e.g., 500).
+#   $responsestatustext (string) - HTTP response status text (e.g., "Internal Server Error").
+neterror-response-status-code = خرابی دا کوڈ: { $responsestatus } { $responsestatustext }
+
+## Felt Privacy V1 Strings
+
+fp-neterror-offline-body-title = لڳدا اے جو تہاݙے انٹرنیٹ کنکشن اچ کوئی مسئلہ اے۔
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 
+fp-neterror-connection-intro = { -brand-short-name } { $hostname } تے سرور نال محفوظ کنکشن نئیں بݨا سڳدا۔
+fp-neterror-offline-intro = { -brand-short-name } <strong>{ $hostname }</strong> تے سرور نال کنکٹ نئیں تھی سڳدا۔
+fp-neterror-offline-intro-2 = { -brand-short-name } <strong>{ $hostname }</strong> تے سرور نال کنکٹ نئیں تھی سڳدا۔
+fp-neterror-net-timeout-intro = <strong>{ $hostname }</strong> تے سرور جواب ݙیوݨ اچ ٻہوں دیر لیندا پئے۔
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
 #   $responsestatustext (String) - HTTP response status text (e.g., "Not Found", always in English).
 fp-neterror-http-error-intro = <strong>{ $hostname }</strong> تے سرور اے غلطی بھیجی اے: { $responsestatus } { $responsestatustext }
+# Variables:
+#   $hostname (String) - Hostname of the website to which the user was trying to connect.
+fp-neterror-invalid-header-value-intro = <strong>{ $hostname }</strong> نے خالی اکھراں آلا ہیڈر واپس بھیجا، جہڑے ویب سکیورٹی معیار اجازت نئیں ݙیندے۔
+fp-neterror-content-encoding-intro = جیڑھے ورقے کوں تساں ݙیکھݨ دی کوشش کریندے پئے او او نہیں ݙکھایا ونڄ سڳدا کیوں جو اوندے وِچ کمپریشن دی ہک غلط یا غیر تعاون یافتہ شکل استعمال کیتی ڳئی ہے۔
+fp-neterror-coop-coep-intro = { -brand-short-name } نے ایہ ورقہ نئیں لوڈ کیتا کیوں جو لڳدا اے جو سکیورٹی کنفیگریشن پچھلے ورقے نال نئیں ملدی۔
+fp-neterror-blocked-by-policy-intro = تہاݙی تنظیم نے ایں صفحے یا ویب سائٹ تے رسائی روک ݙتی اے۔
+fp-neterror-http-auth-disabled-intro = سائٹ بݨ تے کوئی تہاݙا یوزرنیم، پاسورڈ، یا ای میل چوری کرݨ دی کوشش کر سڳدے۔
+fp-neterror-http-auth-disabled-secure-connection = ایں سائٹ کوں محفوظ کنکشن دی لوڑ اے، تے تساں ایندے تے ونجݨ واسطے کوئی استثنیٰ نئیں ݙے سڳدے۔
+fp-neterror-why-did-this-happen = ایہ کیوں تھیا؟
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-neterror-cypher-overlap-why-dangerous-body = لڳدا اے جو ایہ سائٹ پراݨا سافٹ ویئر استعمال کریندی پئی اے جیندے اچ سکیورٹی دے ڄاݨے ونڄݨ آلے مسئلے ہن۔
+fp-neterror-http-auth-disabled-why-dangerous-body = { -brand-short-name } { $hostname } تے اعتبار نئیں کریندا کیوں جو کنکشن محفوظ نئیں۔
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-neterror-cypher-overlap-what-can-you-do-body = یقینی بݨاو جو تساں { -brand-short-name } دا تازہ ترین ورژن استعمال کریندے پئے ہیو۔ مینو اچ Help > About { -brand-short-name } تے ونجو۔ جے تساں تازہ ترین { -brand-short-name } استعمال کریندے پئے ہیو، تاں مسئلہ شاید سائٹ نال ہی اے۔
+fp-neterror-offline-what-can-you-do-body = ٻئی ڈیوائس تے کنکٹ کرݨ دی کوشش کرو۔ آپݨا موڈیم یا راؤٹر چیک کرو۔ وائی فائی توں ڈسکنیکٹ تھی تے دوبارہ کنکٹ کرو۔
+fp-neterror-http-auth-disabled-what-can-you-do-body = URL کوں HTTPS اچ بدلݨ دی کوشش کرو۔ پر شاید سائٹ نال ہی کوئی مسئلہ اے۔
+# This string appears after the following string: "Why did this happen?" (fp-neterror-why-did-this-happen)
+fp-neterror-coop-coep-why-did-this-happen-body = کݙیں کݙیں ویب سائٹاں ٻیاں سائٹاں نال غیر مطلوب تعامل توں بچاوݨ واسطے آپݨے واسطے حفاظتاں لڳیندیاں ہن۔
+fp-learn-more-about-https-connections = HTTPS کنکشنز بارے سکھو۔
+fp-neterror-vpn-error-title = VPN نال جڑ نہ سڳے
+fp-neterror-vpn-error-description = چند منٹ وچ بیا کوشش کرو۔
 fp-neterror-denied-port-access = ایہ پتہ ہک نیٹ ورک پورٹ استعمال کریندا ہے جیڑھا عام طور تے ویب براؤزنگ دے علاوہ ٻئے مقاصد کیتے استعمال تھیندا ہے۔ { -brand-short-name }  تہاݙے تحفظ دی درخواست کوں منسوخ کر ݙتا ہے۔

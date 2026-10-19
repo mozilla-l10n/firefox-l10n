@@ -50,6 +50,7 @@ process-type-utility-actor-mf-media-engine = یوٹیلیٹی میڈیا فاؤ�
 process-type-utility-actor-js-oracle = یوٹیلیٹی JavaScript اوریکل
 process-type-utility-actor-windows-utils = یوٹیلیٹی ونڈوز یوٹلز
 process-type-utility-actor-windows-file-dialog = یوٹیلیٹی ونڈوز فائل ڈائیلاگ
+process-type-utility-actor-hw-inference = یوٹیلٹی ہارڈویئر ایکسیلریٹڈ انفیرنس
 
 ##
 ## Other

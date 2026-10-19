@@ -2,12 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-# DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
-# This file gets parsed into a JS dictionary of all known error message ids in
-# gen_aboutneterror_codes.py . If we end up needing fluent attributes or
-# refactoring them in some way, the script will need updating.
-
 psmerr-ssl-disabled = محفوظ طریقے نال نئیں جڑ سڳدا کیوں جو SSL پروٹوکول کوں غیر فعال کر ݙتا ڳیا ہے۔
 psmerr-ssl2-disabled = محفوظ طریقے نال نئیں جڑ سڳدا کیوں جو سائٹ SSL پروٹوکول دا پراݨا، غیر محفوظ ورژن استعمال کریندی ہے۔
 # This is a multi-line message.
@@ -331,6 +325,7 @@ mozilla-pkix-error-invalid-integer-encoding = سرور ہک سرٹیفکیٹ پ�
 mozilla-pkix-error-empty-issuer-name = سرور ہک خالی جاری کرݨ والے دے ڄاتے سنڄاتے ناں دے نال ہک سرٹیفکیٹ پیش کیتا۔
 mozilla-pkix-error-additional-policy-constraint-failed = ایں سرٹیفکیٹ دی توثیق کریندے ویلھے ہک اضافی پالیسی رکاوٹ ناکام تھی ڳئی۔
 mozilla-pkix-error-self-signed-cert = ایہ تصدیق نامہ قابل اعتماد کائنی کوں جو ایہ آپوں دستخط شدہ ہے۔
+mozilla-pkix-error-issuer-no-longer-trusted = سرٹیفکیٹ جاری کرݨ آلا سرٹیفکیٹ اتھارٹی سرٹیفکیٹ جاری تھیوݨ توں پہلے ہی ناقابل اعتبار قرار ݙتا ڳیا ہا۔
 xp-java-remove-principal-error = پرنسپل کوں ہٹایا نئیں ونڄ سڳدا
 xp-java-delete-privilege-error = استحقاق کوں حذف نہیں کیتا ونڄ سڳدا
 xp-java-cert-not-exists-error = ایں پرنسپل دے کول سرٹیفکیٹ کائنی

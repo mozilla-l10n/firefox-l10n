@@ -54,6 +54,8 @@ autocomplete-delete-form-history-entry2 = فارم دی تاریخ وچوں { $e
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = { $entry } کیتے مزید کم
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = ٻئے آپشن
 # Accessible name for the button that opens the edit/delete menu. It names the
 # row so screen reader users know which entry the menu belongs to.
 # Variables:
@@ -78,3 +80,4 @@ autocomplete-remove-password-os-auth-dialog-message-win = اپݨا پاسورڈ 
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # strings together will be presented by the operating system.
 autocomplete-remove-password-os-auth-dialog-message-macosx = محفوظ تھیا ہویا پاسورڈ مٹاؤ
+autocomplete-remove-password-os-auth-dialog-caption = { -brand-full-name }

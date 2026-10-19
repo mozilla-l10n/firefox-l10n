@@ -17,13 +17,18 @@ webext-perms-list-intro-unsigned = یہ غیر تصدیق شدہ ایکسٹین�
 
 ## Headers used in the webextension permissions dialog, inside the content.
 
+webext-perms-header-required-perms = ضروری اجازتاں:
 webext-perms-header-optional-settings = اختیاری سیٹنگز:
 webext-perms-header-update-required-perms = نویاں لازمی اجازتاں:
+webext-perms-header-optional-required-perms = نویاں اجازتاں:
 webext-perms-header-data-collection-perms = لازمی ڈیٹا کولیکشن:
 webext-perms-header-data-collection-is-none = ڈیٹا کولیکشن:
 # This is a header used in the add-ons "update" prompt, shown when the new
 # version requires new data collection permissions.
 webext-perms-header-update-data-collection-perms = نواں لازمی ڈیٹا کولیکشن:
+# This is a header used in the add-ons "optional" prompt, shown when the
+# extension requests new data collection permissions programmatically.
+webext-perms-header-optional-data-collection-perms = نواں ڈیٹا جمع کرݨ:
 
 ##
 
@@ -80,6 +85,7 @@ webext-perms-host-description-multiple-domains =
 
 ## Strings for data collection permissions in the permission prompt.
 
+webext-perms-description-data-none = ڈویلپر آہدا اے جو ایہ ایکسٹینشن ڈیٹا اکٹھا نئیں کریندی۔
 # Variables:
 #    $permissions (String): a list of data collection permissions formatted with `Intl.ListFormat` using the "narrow" style.
 webext-perms-description-data-some = ڈویلپر آہدے جو ایں ایکسٹینشن جمع کریندی ہے: { $permissions }
@@ -145,3 +151,4 @@ webext-site-perms-serial = سیریل ڈیوائسز تک رسائی
 ## Colorway theme migration
 
 webext-colorway-theme-migration-notification-message = <b>تہاݙا کلر وے تھیم ہٹا ݙتا ڳیا۔</b> { -brand-shorter-name } اپݨے کلر ویز کلیکشن کوں اپ ڈیٹ کیتا ہے۔ تساں تازہ ترین ورژنز ایڈ آنز سائٹ تے لبھ سگدے او۔
+webext-colorway-theme-migration-notification-button = اپ ڈیٹ شدہ کلر ویز حاصل کرو

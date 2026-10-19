@@ -20,7 +20,9 @@ elevation-more-elevated =
     اڳلی واری { -brand-short-name } شروع تھیسی تاں اپ ڈیٹ انسٹال تھی ویسی۔
     تساں ہݨ { -brand-short-name } کوں ولدا شروع کر سڳدے ہو، کم جاری رکھو تے بعد وچ ولدا شروع کرو، یا وت
     ایہ اپ ڈیٹ  کرݨ  دا انکار کر ݙیوو۔
+sandbox-missing-unprivileged-namespaces = تساݙے موجودہ آپریٹنگ سسٹم تے { -brand-short-name } دیاں کجھ سیکیورٹی خصوصیات گھٹ تحفظ فراہم کر سڳدیاں ہن
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = ولدا نہ ݙکھاؤ
     .accesskey = D
 sandbox-unprivileged-namespaces-howtofix = ایہ مسئلہ کین٘ویں ٹھیک کروں
+sandbox-content-disabled-warning = سیکیورٹی سینڈ باکس غیر فعال ہے۔ تساݙی کنفیگریشن غیر تعاون یافتہ تے گھٹ محفوظ اے

@@ -75,6 +75,7 @@ autofill-card-security-code-label = CVC
 
 credit-card-doorhanger-details-name = { $name }
 credit-card-doorhanger-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-details-cvv = CVV محفوظ ہے
 credit-card-doorhanger-details-name-expiration = { $name }, { $month }/{ $year }
 credit-card-doorhanger-details-name-cvv = { $name } | CVV محفوظ ہے
 credit-card-doorhanger-details-expiration-cvv = { $month }/{ $year } | CVV محفوظ ہے

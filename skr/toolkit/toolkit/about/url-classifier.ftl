@@ -90,6 +90,9 @@ url-classifier-content-classifier-col-matched = مشابہت تھی ڳئی
 # Column header: whether this feature matched an exception/allow-list entry that
 # spares the request (true/false).
 url-classifier-content-classifier-col-exception = استثناء
+# Column header: refers to the "important" syntax filter option giving it priority over other features.
+# "Important" should not be translated as it refers to technical syntax.
+url-classifier-content-classifier-col-important = ضروری
 # Column header: the raw result code returned by the engine for this feature.
 url-classifier-content-classifier-col-engine-result = انجن دا نتیجہ
 # Overall verdict shown when the request would be acted on (blocked or

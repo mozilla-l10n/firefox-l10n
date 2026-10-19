@@ -28,3 +28,5 @@ profile-manager-work-offline =
 profile-manager-use-selected =
     .label = شروع وِچ پچھے بغیر منتخب پروفائل دا استعمال کرو
     .accesskey = s
+profile-has-selectable-profiles-title = او پروفائل مٹایا نہیں ونج سڳدا جیڑھا ٻئے پروفائلز نال جُڑیا ہووے
+profile-has-selectable-profiles-message = ایں پروفائل کوں مٹاوݨ کیتے، اینکوں کھولو تے { -brand-short-name } مینو دے پروفائلز سیکشن وچوں ”Manage profiles“ منتخب کرو۔ تساں ایتھے جیڑھے وی اضافی پروفائلز بݨائے ہن انہاں کوں مٹاوݨ دے بعد، about:profiles تے واپس آ کے ایں پروفائل کوں مٹا سڳدے او۔
