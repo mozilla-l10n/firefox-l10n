@@ -89,3 +89,8 @@ account-multiple-tabs-arriving-from-unknown-device =
 ##   $closedCount (Number): the number of tabs closed
 
 account-view-recently-closed-tabs = ఇటీవల మూసిన ట్యాబులను చూడండి
+account-tabs-closed-remotely =
+    { $closedCount ->
+        [one] { $closedCount } { -brand-short-name } ట్యాబు మూసివేయబడింది
+       *[other] { $closedCount } { -brand-short-name } ట్యాబులు మూసివేయబడ్డాయి
+    }
