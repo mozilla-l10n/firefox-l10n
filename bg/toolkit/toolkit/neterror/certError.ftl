@@ -153,7 +153,7 @@ certerror-mitm-title = Софтуер пречи на { -brand-short-name } да
 ## Felt Privacy V1 Strings
 
 fp-certerror-page-title = Предупреждение: Риск за сигурността
-fp-certerror-body-title = Бъдете внимателни. Нещо не изглежда както трябва.
+fp-certerror-body-title = Бъдете внимателни. Нещо не изглежда наред.
 fp-certerror-why-site-dangerous = Какво прави сайтът да изглежда опасен?
 fp-certerror-what-can-you-do = Какво можете да направите?
 fp-certerror-advanced-title = Разширена информация
