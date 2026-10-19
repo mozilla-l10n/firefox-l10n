@@ -115,7 +115,7 @@ ipprotection-android-promo-callout-primary-button = J’ai compris
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Configurez les règles du VPN intégré, puis poursuivez votre navigation
 ipprotection-site-inclusions-callout-title-lapsed-users = Découvrez le VPN intégré, désormais activable site par site
-ipprotection-site-inclusions-callout-description-1 = Activez le VPN pour plus de confidentialité ou de navigation basée sur la localisation, et désactivez-le là où vous n’en avez pas.
+ipprotection-site-inclusions-callout-description-1 = Activez le VPN sur les sites où vous souhaitez renforcer votre confidentialité ou y accéder depuis un autre emplacement, et désactivez-le ailleurs.
 ipprotection-site-inclusions-callout-description = Activez-le sur les sites où vous souhaitez renforcer votre confidentialité ou y accéder depuis un autre emplacement, et désactivez-le ailleurs.
 ipprotection-site-inclusions-callout-primary-button = Configurer les règles
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Plus tard

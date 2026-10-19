@@ -163,6 +163,14 @@ permissions-site-xr-disable-label =
     .label = Nije fersiken om tagong ta jo virtual-reality-apparaten blokkearje
 permissions-site-xr-disable-desc = Dit foarkomt dat websites dy’t hjirboppe net fermeld wurde om tastimming foar tagong ta jo virtual-reality-apparaten freegje. It blokkearjen fan tagong ta jo virtual-reality-apparaten kin bepaalde funksjes fan websites fersteure.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Ynstellingen – Blokkearre websites foar app-keppelingen
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

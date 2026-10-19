@@ -52,6 +52,8 @@ sidebar-history-sort-option-last-visited =
     .label = Lêst besocht
 sidebar-history-sort-option-most-visited =
     .label = Meast besocht
+sidebar-history-import-promo-button =
+    .label = Ymportearje yn { -brand-short-name }
 
 ## Labels for sidebar search
 

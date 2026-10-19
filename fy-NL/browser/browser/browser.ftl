@@ -1415,6 +1415,12 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-toolbar-button =
+    .label = In part of al jo navigaasjegegevens fuortsmite
+    .tooltiptext = In part of al jo navigaasjegegevens fuortsmite
+fire-button-panel-heading = Alle navigaasjegegevens fuortsmite?
+fire-button-panel-description = Dit smyt skiednis, cookies en websitegegevens fuort. Jo wurde ôfmeld fan websites. Dit finster sil slute, en { -brand-short-name } sil in nij finster iepenje.
+fire-button-panel-choose-description = As jo net alles fuortsmite wolle, kies yn stee derfan dan spesifike gegevens.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.

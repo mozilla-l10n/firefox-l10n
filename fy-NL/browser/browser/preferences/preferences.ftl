@@ -1795,6 +1795,10 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Kies hokker websiden útwreidingen ynstallearje meie
     .accesskey = K
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Blokkearre websites beheare
+    .accesskey = B
 permissions-location2 =
     .label = Lokaasje
 permissions-localhost2 =

@@ -276,6 +276,11 @@ ip-protection-learn-more = Mear ynfo
 ip-protection-not-opted-in-4 =
     .heading = Probearje de ynboude VPN fan { -brand-short-name }
     .message = Sneup mei ekstra beskerming troch jo lokaasje te ferstopjen.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Klear om it te probearjen?
+    .message = Krij elke moanne { $maxUsage } GB fergees en kies hokker websites VPN brûke.
 ip-protection-not-opted-in-button = Begjinne
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -291,6 +296,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Regels ynstelle foar websites dy’t ekstra privacy nedich hawwe of VPN útskeakele wêze moat.
     .label = VPN-regels beheare
+ip-protection-site-rules-list-section-1 =
+    .description = Stel regels yn om VPN automatysk yn of út te skeakeljen.
+    .label = Websiteregels
 ip-protection-site-rules-add-button =
     .label = Regel ynstelle
 ip-protection-site-rules-delete-all-button =
@@ -373,6 +381,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Alle websiteregels fuortsmite?
 ip-protection-delete-all-site-rules-confirm =
     .label = Alle regels fuortsmite
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Kin regel net fuortsmite
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Kin regels net fuortsmite
+ip-protection-delete-site-rule-retry =
+    .label = Opnij probearje
 
 ## IP Protection Bandwidth
 

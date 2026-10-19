@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Fideoformaat of MIME-type is net stipe.
 videocontrols-error-no-source = Gjin stipe fideoformaat yn MIME-type fûn.
 videocontrols-error-generic = Fideo ôfspyljen ôfbrutsen fanwegen in ûnbekende flater.
 videocontrols-status-picture-in-picture = Dizze fideo wurdt yn Picture-in-Picture-modus ôfspile.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Fideo wurdt yn Picture-in-Picture ôfspile.
 # This message shows the current position and total video duration
 #
 # Variables:
