@@ -1661,7 +1661,6 @@ trustpanel-fingerprinter-not-blocking-tab-header =
         [one] { -brand-product-name } نے { $count } فنگر پرنٹر دی اجازت ݙتی
        *[other] { -brand-product-name } نے { $count } فنگر پرنٹرز دی اجازت ݙتی
     }
-trustpanel-fingerprinter-list-header = ایہ سائٹاں تہاݙا فنگر پرنٹ گھنݨ دی کوشش کریندیاں پئین:
 trustpanel-cryptominer-blocking-tab-header =
     { $count ->
         [one] { -brand-product-name } نے { $count } کرپٹو مائنر بلاک کیتا
