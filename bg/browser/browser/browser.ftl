@@ -198,6 +198,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Поставяне и посещаване
     .accesskey = П
+urlbar-menuitem-paste-and-search =
+    .label = Поставяне и търсене
+    .accesskey = П
 
 ## Searchbar context menu
 

@@ -290,3 +290,8 @@ tab-group-context-open-saved-group-in-new-window =
 
 tab-note-panel-add-note-new-badge =
     .label = Нова
+
+## Split View
+
+# The label of a badge shown in menu items to call out features that are in beta.
+tab-context-badge-beta = Бета

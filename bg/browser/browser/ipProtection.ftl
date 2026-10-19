@@ -23,6 +23,11 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Премахване на VPN от лентата с инструменти
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-title = Вземете неограничен VPN до 30 януари
+ipprotection-holiday-promo-primary-button = Отворете VPN
+
 ## Panel
 
 site-exclusion-toggle-enabled-1 =
@@ -33,6 +38,10 @@ site-exclusion-toggle-enabled-1 =
 
 # Button to turn off the VPN
 ipprotection-button-turn-vpn-off = Изключване на VPN
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Включване
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Изключване
 
 ## Location controls
 

@@ -130,6 +130,20 @@ newtab-picture-menu-learn-more = Научете повече
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Научете повече
 
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Пасианс
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Отваряне на меню за пасианс
+    .title = Отваряне на меню за пасианс
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Научете повече
+
 ## Search box component.
 
 # "Search" is a verb/action
@@ -365,6 +379,11 @@ newtab-custom-widget-timer-toggle =
     .label = Таймер
 newtab-custom-widget-privacy-toggle =
     .label = Поверителност
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Пасианс
 newtab-widget-manage-widget-button =
     .label = Управление на приставките
 # Tooltip for close button
