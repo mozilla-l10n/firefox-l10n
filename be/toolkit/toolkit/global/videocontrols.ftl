@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Фармат відэая або тып 
 videocontrols-error-no-source = Не знойдзены відэа, фармат якіх або тып MIME якіх падтрымліваецца.
 videocontrols-error-generic = Прайграванне відэа абарвана праз невядомую памылку.
 videocontrols-status-picture-in-picture = Гэта відэа прайграваецца ў рэжыме „выява ў выяве“.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Відэа прайграваецца ў рэжыме «Выява ў выяве»
 # This message shows the current position and total video duration
 #
 # Variables:

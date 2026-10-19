@@ -27,9 +27,12 @@ ipprotection-feature-introduction-title = Прадстаўляем VPN, цяпе
 ipprotection-feature-introduction-title-1 = Паспрабуйце ўбудаваны VPN ад { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя.
 ipprotection-feature-introduction-title-privacy = Дадайце яшчэ адзін узровень прыватнасці
+ipprotection-feature-introduction-title-privacy-1 = Дадайце яшчэ адзін узровень прыватнасці з убудаваным VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Убудаваны VPN ад { -brand-product-name }</a> дапамагае ахоўваць ваша агляданне інтэрнэту. Выбірайце адно з некалькі месцаў, каб трымаць больш прыватным тое, адкуль вы аглядаеце.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Убудаваны VPN ад { -brand-product-name }</a> дапамагае ахоўваць ваша агляданне інтэрнэту. Выбірайце сярод некалькіх месцаў, каб трымаць больш прыватным, адкуль вы аглядаеце.
 ipprotection-feature-introduction-link-text-privacy-3 = Атрымайце <a data-l10n-name="learn-more-vpn">дадатковую прыватнасць</a>, выбраўшы адно з некалькіх месцаў, каб схаваць, адкуль вы аглядаеце.
+# Used for multiple discovery callouts after release of the site inclusions feature
+ipprotection-feature-introduction-description-inclusions = Дапамажыце схаваць ваша месцазнаходжанне для <a data-l10n-name="learn-more-vpn">дадатковай прыватнасці</a> ў часе аглядання. Уключайце або выключайце VPN для пэўных сайтаў.
 ipprotection-feature-introduction-text-summer-promo-1 = Уключыце VPN, каб трымаць больш прыватным сваё агляданне. <a data-l10n-name="summer-promo-link">Атрымайце неабмежаваную прапускную здольнасць</a> і больш месцаў для аглядання. Дзейнічае да 31 жніўня.
 ipprotection-feature-introduction-title-summer-promo = Плануеце падарожжа? Вазьміце з сабой прыватнасць.
 ipprotection-feature-introduction-description-summer-promo = Атрымайце больш з убудаваным VPN ад { -brand-product-name }: больш месцаў, неабмежаваная прапускная здольнасць. Дзейнічае да 31 жніўня.
