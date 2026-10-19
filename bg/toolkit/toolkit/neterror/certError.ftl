@@ -66,6 +66,8 @@ cert-error-details-cert-chain-label = Верига на сертификата:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = С цел защита на вашата сигурност, { $hostname } няма да позволи { -brand-short-name } да покаже страницата ако друг сайт я е вградил. За да видите тази страница е необходимо да я отворите в нов прозорец.
 fp-certerror-view-certificate-link = Преглед на сертификата на сайта
+fp-certerror-return-to-previous-page-recommended-button-2 = Връщане назад (препоръчително)
+    .accesskey = В
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
@@ -89,6 +91,10 @@ fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numer
 fp-learn-more-about-secure-connection-failures = Научете повече за провалите в защитената връзка
 fp-learn-more-about-cert-issues = Научете повече за този вид проблеми със сертификатите
 fp-learn-more-about-time-related-errors = Научете повече за отстраняването на неизправности, свързани с часовника
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+# Variables:
+#   $datetime (Date) - Date the cert becomes valid.
+fp-certerror-pkix-not-yet-valid-why-dangerous-body = { -brand-short-name } не се доверява на този сайт, защото изглежда, че предоставеният сертификат не е валиден преди { DATETIME($date, timeStyle: "short") } на { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }.
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -141,6 +147,6 @@ fp-certerror-page-title = Предупреждение: Риск за сигур
 fp-certerror-body-title = Бъдете внимателни. Нещо не изглежда както трябва.
 fp-certerror-why-site-dangerous = Какво прави сайтът да изглежда опасен?
 fp-certerror-what-can-you-do = Какво можете да направите?
-fp-certerror-advanced-title = Разширени
-fp-certerror-advanced-button = Допълнителни
-fp-certerror-hide-advanced-button = Скриване на разширените настройки
+fp-certerror-advanced-title = Разширена информация
+fp-certerror-advanced-button = Разширена информация
+fp-certerror-hide-advanced-button = Скриване на разширената информация
