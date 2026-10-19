@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Si nuguan' sitio na
 
@@ -91,11 +94,20 @@ urlbar-star-edit-bookmark =
 urlbar-star-add-bookmark =
     .tooltiptext = Sa raj sun nichrà' doj pagina na ({ $shortcut })
 
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = Gachrun & guij
+    .accesskey = G
+
 ## Searchbar context menu
 
 clear-search-history =
     .label = Nadurè' sa nana'uî'
     .accesskey = H
+
+## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -126,6 +138,19 @@ search-one-offs-context-set-as-default-private =
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = Nutò' a'ngô sa ruguñu'unj ñù' nana'uì'
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -198,9 +223,18 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = Narán
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun nugua'ān ne'.
+
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -239,12 +273,35 @@ urlbar-result-action-search-w-engine = Nana'uì' 'ngà { $engine }
 urlbar-result-action-switch-tab = Naduno' a'ngô rakij ñaj
 urlbar-result-action-visit = Gatu gan'anj ni'iajt
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Nej sa râj sun nichrà\'t doj
 urlbar-searchmode-tabs4 = Nej rakïj ñanj
 urlbar-searchmode-history4 = Sa gini’hiājt
 urlbar-searchmode-actions4 = Sa gi'hiát
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
 
 ## Reader View toolbar buttons
 
@@ -254,6 +311,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Nàrun' sa ahio'
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -326,6 +388,9 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Sa raj sun nichrò' doj
 
+## Repair text encoding toolbar button
+
+
 ##
 
 toolbar-overflow-customize-button =
@@ -353,14 +418,25 @@ toolbar-button-new-private-window =
     .label = Nànin' 'ngo ventana huìi
     .tooltiptext = Na'nï' 'ngò ventana riña gache nu huì' ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Hua 'ngo sa achráa nej si video ni rajsun ma software DRM, ga'ue dure'ej { -brand-short-name } sa 'io' 'ngàj.
+
+## Password save/update panel
+
 
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = Narán
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -368,7 +444,14 @@ picture-in-picture-hide-toggle =
     .label = Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -401,12 +484,50 @@ tabs-toolbar-list-all-tabs =
     .label = Ni'io' nej rakïj ñanj hua ni'ninj
     .tooltiptext = Ni'io' nej rakïj ñanj hua ni'ninj
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } a'nîn ma'ān ma dato { -vendor-short-name } da' nahuin hue'e ma.
 data-reporting-notification-button =
     .label = Naduno' sa ga'ni' ga'anj
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -415,6 +536,9 @@ refresh-blocked-redirect-label = { -brand-short-name } nū ga'ue ga'anj ma'an pa
 refresh-blocked-allow =
     .label = Ga'nïn
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -450,3 +574,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Digun' “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
