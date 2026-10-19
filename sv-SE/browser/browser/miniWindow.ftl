@@ -8,8 +8,8 @@ mini-window-close-button =
 # Moves the tab in the mini window back to the original window
 # it came from.
 mini-window-restore-button =
-    .label = Lägg tillbaka fliken
-    .tooltiptext = Lägg tillbaka fliken
+    .label = Flytta tillbaka fliken
+    .tooltiptext = Flytta tillbaka fliken
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
@@ -45,7 +45,7 @@ screenshots-component-reselect-button = Börja om
 # open in a smaller window to appear cropped and always on top.
 toolbar-button-mini-window =
     .label = Minifönster
-    .tooltiptext = Använd Mini-fönster
+    .tooltiptext = Använd minifönster
 # Opens up the Mini Window section selector tool.
 main-context-menu-use-mini-window =
     .label = Flytta sektion till minifönster
@@ -57,20 +57,19 @@ move-to-mini-window =
     .label =
         { $tabCount ->
             [1] Flytta till minifönster
-            [one] Flytta till Mini Windows
-           *[other] Flytta till Mini Windows
+           *[other] Flytta till minifönster
         }
     .accesskey = F
 
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.
 
-mini-window-overlay-header = Välj en del av sidan att behålla synlig
-mini-window-overlay-instructions = Dra eller klicka för att välja ett område att flytta till ett minifönster. Den förblir överst medan du surfar.
+mini-window-overlay-header = Markera den del av sidan som ska förbli synlig
+mini-window-overlay-instructions = Dra eller klicka för att välja ett område som ska visas i ett minifönster. Det ligger kvar överst medan du surfar.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
-mini-window-panel-header = Välj vad som ska flyttas till ett minifönster
+mini-window-panel-header = Välj vad du vill flytta till ett minifönster
 mini-window-panel-move-selection = Flytta markering
-mini-window-panel-move-full-tab = Flytta hel flik
+mini-window-panel-move-full-tab = Flytta hela fliken

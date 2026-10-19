@@ -248,6 +248,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = 붙여넣고 바로 가기
     .accesskey = G
+urlbar-menuitem-paste-and-search =
+    .label = 붙여넣고 바로 검색
+    .accesskey = S
 
 ## Searchbar context menu
 

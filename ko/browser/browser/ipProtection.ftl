@@ -168,6 +168,8 @@ ipprotection-button-turn-vpn-off = VPN 끄기
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = 모든 곳에서 VPN 끄기
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = 켜기
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN 켜기
 # Button while VPN is connecting
 ipprotection-button-connecting = 켜는 중…
@@ -179,6 +181,8 @@ ipprotection-connection-status-excluded-1 = 이 사이트에서 VPN 꺼짐
     .aria-label = 이 사이트에서 VPN 꺼짐
 ipprotection-connection-status-connecting-1 = VPN 연결 중…
     .aria-label = VPN 연결 중…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = 끄기
 
 ## Location controls
 

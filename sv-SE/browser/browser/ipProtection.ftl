@@ -39,7 +39,7 @@ ipprotection-feature-introduction-description-summer-promo = Nå längre med { -
 ipprotection-feature-introduction-link-text-private-browsing-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data, även när du är i ett privat fönster.
 ipprotection-feature-introduction-description-private-browsing = Surfa med extra skydd genom att dölja din plats, även när du är i ett privat fönster.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Hjälp till att dölja din position när du surfar. Ställ in regler för att aktivera VPN för <a data-l10n-name="learn-more-vpn">extra sekretess</a> eller platsbaserad surfning och inaktivera där du inte gör det.
+ipprotection-feature-introduction-description-private-browsing-2 = Dölj din plats när du surfar. Skapa regler som aktiverar VPN för <a data-l10n-name="learn-more-vpn">extra integritet</a> eller platsbaserad surfning och inaktiverar det där du inte behöver det.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Dölj din plats för <a data-l10n-name="learn-more-vpn">ökad integritet</a> när du surfar. Skapa regler som aktiverar VPN för ökad integritet eller platsbaserad surfning och inaktiverar det där det inte behövs.
 ipprotection-feature-introduction-title-captive-portal = På offentligt Wi-Fi? Testa { -brand-product-name }:s inbyggda VPN.
@@ -172,7 +172,7 @@ ipprotection-button-turn-vpn-off = Stäng av VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Stäng av VPN överallt
 # Button to turn on the VPN
-ipprotection-button-turn-vpn-on-1 = Aktivera
+ipprotection-button-turn-vpn-on-1 = Slå på
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Slå på VPN
 # Button while VPN is connecting

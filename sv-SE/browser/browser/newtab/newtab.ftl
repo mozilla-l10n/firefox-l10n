@@ -612,12 +612,12 @@ newtab-travel-menu-learn-more = Läs mer
 ## Game displays within an iframe with name “Yahoo Solitaire”
 
 # Widget heading; also the widget's accessible name.
-newtab-solitaire-widget-title = Solitaire
+newtab-solitaire-widget-title = Patiens
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-solitaire-widget-open-menu-button =
-    .aria-label = Öppna patiensmenyn
-    .title = Öppna patiensmenyn
+    .aria-label = Öppna menyn för patiens
+    .title = Öppna menyn för patiens
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Läs mer
 
@@ -937,7 +937,7 @@ newtab-custom-widget-travel-toggle =
 # for one player, also known as patience.
 # Game displays within an iframe with name “Yahoo Solitaire”
 newtab-custom-widget-solitaire-toggle =
-    .label = Solitaire
+    .label = Patiens
 newtab-custom-widget-section-title = Widgetar
 newtab-custom-widget-section-toggle =
     .label = Widgetar
