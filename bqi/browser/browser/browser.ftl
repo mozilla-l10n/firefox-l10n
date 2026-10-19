@@ -36,6 +36,9 @@ urlbar-identity-button2 =
             [one] سیل کردن دووسمندیا وبگه (1 رڌجۊر مسدۊد وابیڌه)
            *[other] سیل کردن دووسمندیا وبگه ({ $count } رڌجۊر مسدۊد وابیڌن)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = نیشتن دووسمندیا وبگه
 
@@ -218,6 +221,12 @@ urlbar-star-add-bookmark =
 urlbar-split-view-button =
     .aria-label = نما تقسیم وابیڌه
     .tooltiptext = نما تقسیم وابیڌه
+
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = جا وندن وو رئڌن
+    .accesskey = G
 
 ## Searchbar context menu
 
@@ -716,6 +725,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · هؽزگری وابیڌه
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = پۊرسیڌن
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the result is bookmarked. The date will be
 # formatted as an absolute date like: "11 May", "11 May 2026"
 # Variables:
@@ -1182,6 +1196,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1228,6 +1245,13 @@ restore-session-startup-suggestion-button = نشووݩ داڌن بارت کار
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = سازمووݩ ایسا، دسرسی و فایلا مهلی ری ای کامپیتر ن مسدۊد کرده
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1406,6 +1430,13 @@ file-picker-crashed-open = نیمدری پسند فایل ویندووز کرش 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = نیمدری پسند فایل ویندووز کرش کرد. فایل من تور { $path } زفت ابۊ.
 file-picker-crashed-save-nowhere = نیمدری پسند فایل ویندووز کرش کرد. دوبلگه پؽش فرز ن نجوست؛ فایل زفت نؽبۊ.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = نشووݩ داڌن من دوبلگه
     .accessKey = F
@@ -1458,6 +1489,9 @@ trustpanel-blocker-see-all = نیشتن پوی
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = زفت وابیڌنا جلاو رڌجۊری سی { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
