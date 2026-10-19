@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = Pšawidła póstajiś
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic něnto
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zachyśiś
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = VPN wócyniś
+ipprotection-holiday-promo-secondary-button = Zachyśiś
+
 ## Panel
 
 # Also used for the callout shown in private browsing
