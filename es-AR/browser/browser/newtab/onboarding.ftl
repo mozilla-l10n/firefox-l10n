@@ -398,6 +398,8 @@ onboarding-checklist-remove-2 = Eliminar lista de verificación
 
 tab-groups-onboarding-feature-callout-title = Pruebe los grupos de pestañas para tener menos desorden y más atención
 tab-groups-onboarding-feature-callout-subtitle = Organícese arrastrando una pestaña encima de otra para crear el primer grupo.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Encuentre sus grupos de pestañas en el menú “Buscar y administrar pestañas” en cualquier momento.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Encuentre sus grupos de pestañas en el menú Mostrar todas las pestañas en cualquier momento.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Encuentre sus grupos buscándolos en la barra de direcciones.

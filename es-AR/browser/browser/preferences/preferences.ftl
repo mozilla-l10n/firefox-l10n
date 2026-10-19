@@ -926,6 +926,10 @@ search-separate-default-engine-dropdown =
 # list, not navigation to the address bar.
 addressbar-navigation-group =
     .label = Navegación en la barra de direcciones
+# "Results menu" refers to the menu available on each row of the address bar
+# results list, which offers actions such as dismissing the result.
+addressbar-skip-result-menu-on-tab =
+    .label = Omitir el menú de resultados al usar la tecla tab para mover el foco
 search-suggestions-header-2 =
     .label = Sugerencias de buscadores
 search-one-click-header2 = Atajos de búsqueda
@@ -1784,6 +1788,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Elegir qué sitios web pueden instalar extensiones
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Permitir que los sitios pidan abrir enlaces en aplicaciones.
+    .accesskey = a
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Administrar sitios bloqueados
+    .accesskey = m
 permissions-location2 =
     .label = Ubicación
 permissions-localhost2 =
