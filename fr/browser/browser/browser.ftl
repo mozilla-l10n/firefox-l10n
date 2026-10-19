@@ -1418,7 +1418,7 @@ fire-button-toolbar-button =
     .label = Supprimer tout ou partie de vos données de navigation
     .tooltiptext = Supprimer tout ou partie de vos données de navigation
 fire-button-panel-heading = Supprimer toutes les données de navigation ?
-fire-button-panel-description = Cela supprime l’historique, les cookies et les données des sites. Vous serez déconnecté·e des sites. Cette fenêtre se fermera et { -brand-short-name } en ouvrira une nouvelle.
+fire-button-panel-description = Cette action efface l’historique, les cookies et les données des sites. Vous serez déconnecté·e des sites. Cette fenêtre se fermera et { -brand-short-name } en ouvrira une nouvelle.
 fire-button-panel-choose-description = Si vous ne souhaitez pas tout supprimer, sélectionnez plutôt des données spécifiques.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog

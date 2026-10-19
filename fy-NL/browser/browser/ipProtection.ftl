@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Nij: VPN, no streekrjocht yn jo browse
 ipprotection-feature-introduction-title-1 = De ynboude VPN fan { -brand-product-name } probearje
 ipprotection-feature-introduction-link-text-2 = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen.
 ipprotection-feature-introduction-title-privacy = Foegje noch in laach privacy ta
+ipprotection-feature-introduction-title-privacy-1 = Foegje in ekstra laach privacy ta mei ynboude VPN
 ipprotection-feature-introduction-link-text-privacy-1 = De ynboude VPN fan <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> helpt jo navigaasje te beskermjen. Kies út ferskate lokaasjes om jo navigaasje mear privee te hâlden.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">De ynboude VPN fan { -brand-product-name }</a> helpt jo navigaasje te beskermjen. Kies út meardere lokaasjes om jo navigaasje mear privee te hâlden.
 ipprotection-feature-introduction-link-text-privacy-3 = Untfang <a data-l10n-name="learn-more-vpn">ekstra privacy</a> troch te kiezen út meardere lokaasjes  om te ferbergjen wêr’t jo sneupe.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Begrepen
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Stel ynboude VPN-regels yn en navigearje dan fierder
 ipprotection-site-inclusions-callout-title-lapsed-users = Probearje de ynboude VPN, no per website
+ipprotection-site-inclusions-callout-description-1 = Skeakelje VPN yn as jo ekstra privacy of lokaasje-basearre navigearje wolle, en út as jo dat net wolle.
 ipprotection-site-inclusions-callout-description = Skeakelje it yn as jo ekstra privacy of lokaasje-basearre navigearje wolle, en út as jo dat net wolle.
 ipprotection-site-inclusions-callout-primary-button = Regels ynstelle
 ipprotection-site-inclusions-callout-secondary-button-existing-users = No net
@@ -144,6 +146,12 @@ site-rules-status-heading = Jo regel
 site-rules-description-exclusion = VPN is út foar dizze website
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN is oan foar dizze website
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = VPN altyd oansette foar { $website }?
+    .message = Wurkje op elk momint jo regels by yn ynstellingen.
 ipprotection-settings-link =
     .label = Ynstellingen
 

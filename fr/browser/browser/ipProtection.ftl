@@ -27,7 +27,7 @@ ipprotection-feature-introduction-title = Découvrez le VPN, désormais intégr�
 ipprotection-feature-introduction-title-1 = Essayez le VPN intégré à { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Utilisez notre nouveau <a data-l10n-name="learn-more-vpn">VPN intégré</a> pour dissimuler votre localisation et protéger vos données.
 ipprotection-feature-introduction-title-privacy = Ajoutez une couche supplémentaire de confidentialité
-ipprotection-feature-introduction-title-privacy-1 = Ajoutez un autre niveau de confidentialité avec le VPN intégré
+ipprotection-feature-introduction-title-privacy-1 = Renforcez votre confidentialité grâce au VPN intégré
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Le VPN intégré à { -brand-product-name }</a> protège votre navigation. Sélectionnez parmi plusieurs emplacements pour renforcer la confidentialité de vos activités en ligne.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Le VPN intégré à { -brand-product-name }</a> protège votre navigation. Sélectionnez parmi plusieurs emplacements pour renforcer la confidentialité de vos activités en ligne.
 ipprotection-feature-introduction-link-text-privacy-3 = Bénéficiez de <a data-l10n-name="learn-more-vpn">davantage de confidentialité</a> en choisissant parmi plusieurs emplacements pour dissimuler votre localisation.

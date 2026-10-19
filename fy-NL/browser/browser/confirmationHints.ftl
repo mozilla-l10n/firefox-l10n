@@ -21,6 +21,7 @@ confirmation-hint-send-to-device = Ferstjoerd!
 confirmation-hint-firefox-relay-mask-created = Nij masker oanmakke!
 confirmation-hint-firefox-relay-mask-reused = Besteand masker opnij brûkt!
 confirmation-hint-screenshot-copied = Skermôfbylding kopiearre!
+confirmation-hint-tab-group-saved = Ljepblêdgroep bewarre
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
