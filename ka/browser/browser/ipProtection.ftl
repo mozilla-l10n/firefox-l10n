@@ -119,6 +119,11 @@ ipprotection-site-inclusions-callout-primary-button = წესების მ�
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ახლა არა
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = აცილება
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = გახსენით VPN
+ipprotection-holiday-promo-secondary-button = აცილება
+
 ## Panel
 
 # Also used for the callout shown in private browsing
