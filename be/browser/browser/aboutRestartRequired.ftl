@@ -7,6 +7,7 @@ restart-required-heading2 = Прабачце, { -brand-short-name } патраб
 restart-required-intro2 = { -brand-short-name } патрабуе завяршыць абнаўленне. Перазапусціце, каб забяспечыць бяспеку і бесперабойную працу.
 window-restoration-info2 = Мы зноў адкрыем усе вокны і карткі, акрамя прыватных.
 restart-required-why-now-question = Чаму зараз?
+restart-required-why-now-answer = Гэта можа здарыцца, калі абнаўляецца іншы профіль або асобнік { -brand-short-name }, або калі абнаўленне не можа чакаць да наступнага перазапуску.
 restart-required-more-details-heading = Больш падрабязна
 restart-required-multiple-instances-question = Чаму гэта можа здарыцца з некалькімі профілямі або экзэмплярамі { -brand-short-name }?
 restart-required-heading = Перазапусціць, каб працягваць карыстацца { -brand-short-name }

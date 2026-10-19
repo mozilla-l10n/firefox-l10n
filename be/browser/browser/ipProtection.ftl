@@ -346,6 +346,48 @@ ip-protection-site-rule-window =
     .title = Усталяваць правіла
 ip-protection-edit-site-rule-window =
     .title = Змяніць правіла
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Усталяваць
+    .buttonaccesskeyaccept = У
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Захаваць
+    .buttonaccesskeyaccept = З
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Увядзіце сайт, а затым выберыце яго стан VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Сайт
+    .placeholder = прыклад: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Стан VPN
+ip-protection-site-rule-status-on =
+    .label = Заўжды ўключаны
+ip-protection-site-rule-status-off =
+    .label = Заўжды выключаны
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Увядзіце сапраўдны адрас сайта.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Для гэтага сайта ўжо ёсць правіла.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Памылка пры стварэнні правіла. Паспрабуйце зноў.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Выдаліць правіла для { $website }?
+ip-protection-delete-site-rule-cancel =
+    .label = Скасаваць
+ip-protection-delete-site-rule-confirm =
+    .label = Выдаліць
+ip-protection-delete-all-site-rules-message = Выдаліць усе правілы сайтаў?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Выдаліць усе правілы
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Не ўдалося выдаліць правіла
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Не ўдалося выдаліць правілы
+ip-protection-delete-site-rule-retry =
+    .label = Паспрабаваць зноў
 
 ## IP Protection Bandwidth
 
