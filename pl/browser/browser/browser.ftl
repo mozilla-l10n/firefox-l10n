@@ -1422,6 +1422,27 @@ reset-pbm-toolbar-button2 =
     .label = Wyczyść prywatną sesję
     .tooltiptext = Wyczyść prywatną sesję
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Usuń wybrane lub wszystkie dane przeglądania
+    .tooltiptext = Usuń wybrane lub wszystkie dane przeglądania
+fire-button-panel-heading = Czy usunąć wszystkie dane przeglądania?
+fire-button-panel-description = Spowoduje to usunięcie historii, ciasteczek i danych witryn oraz wylogowanie z witryn. To okno zostanie zamknięte, a { -brand-short-name } otworzy nowe.
+fire-button-panel-choose-description = Jeśli nie chcesz usuwać wszystkiego, wybierz dane do usunięcia.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Wybierz…
+fire-button-panel-cancel-button =
+    .label = Anuluj
+    .accesskey = A
+fire-button-panel-confirm-button =
+    .label = Usuń wszystko
+    .accesskey = U
+fire-button-panel-complete = Usunięto dane przeglądania
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } uniemożliwił tej stronie automatyczne odświeżenie strony.

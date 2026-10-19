@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 42em
     .title = Czyszczenie historii
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 42em
+    .title = Usunięcie danych przeglądania
 clear-data-settings-label = Rzeczy zaznaczone poniżej będą usuwane podczas zamykania { -brand-short-name(case: "gen") }.
 sanitize-on-shutdown-description = Automatycznie usuwaj wszystkie zaznaczone elementy po zamknięciu { -brand-short-name(case: "gen") }.
 

@@ -182,6 +182,10 @@ about-glean-store-submitted-pings-select-label = Ping:
 about-glean-store-submitted-pings =
     .description = Umożliwia zachowywanie przesłanych pingów w pamięci
     .label = Zachowuj przesłane pingi
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Informacje o kliencie
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Informacje o pingu
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

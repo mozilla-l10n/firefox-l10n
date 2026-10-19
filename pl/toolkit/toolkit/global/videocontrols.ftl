@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Nieobsługiwany format wideo lub typ MIM
 videocontrols-error-no-source = Nie odnaleziono wideo w obsługiwanym formacie i typie MIME.
 videocontrols-error-generic = Odtwarzanie wideo przerwane z powodu nieznanego błędu.
 videocontrols-status-picture-in-picture = To wideo jest odtwarzane w trybie „Obraz w obrazie”.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Wideo jest odtwarzane w trybie „Obraz w obrazie”
 # This message shows the current position and total video duration
 #
 # Variables:
