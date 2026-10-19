@@ -42,3 +42,10 @@ about-private-browsing-promo-close-button =
 
 about-private-browsing-felt-privacy-v1-info-header = ఈ పరికరంలో జాడేమీ వదలకండి
 about-private-browsing-felt-privacy-v1-info-link = నా కార్యకలాపాన్ని ఎవరు చూడగలరు?
+
+## Strings for the Private Window basics spotlight
+
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = తెలుసుకోవాల్సినవి
+about-private-browsing-spotlight-basics-learn-more = ఇంకా తెలుసుకోండి

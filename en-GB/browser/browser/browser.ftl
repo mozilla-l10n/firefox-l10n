@@ -252,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Paste and Go
     .accesskey = G
+urlbar-menuitem-paste-and-search =
+    .label = Paste and Search
+    .accesskey = S
 
 ## Searchbar context menu
 

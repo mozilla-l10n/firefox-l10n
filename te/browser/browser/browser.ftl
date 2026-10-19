@@ -230,6 +230,7 @@ quickactions-cmd-downloads = దింపుకోళ్ళు
 quickactions-cmd-logins = ప్రవేశాలు, సంకేతపదాలు
 # Opens the print dialog
 quickactions-print2 = పేజీ ముద్రించు
+quickactions-cmd-print = ముద్రించు
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = పేజీని PDFగా భద్రపరుచు
 # Opens a new private browsing window

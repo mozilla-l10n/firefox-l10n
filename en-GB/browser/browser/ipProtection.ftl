@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = Go farther with { -
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use our new <a data-l10n-name="learn-more-vpn">built-in VPN</a> to hide your location and protect your data, even when you’re in a Private Window.
 ipprotection-feature-introduction-description-private-browsing = Browse with extra protection by hiding your location, even when you’re in a Private Window.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Help hide your location as you browse. Set rules to turn on VPN for <a data-l10n-name="learn-more-vpn">extra privacy</a> or location-based browsing, and off where you don’t.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Help hide your location for <a data-l10n-name="learn-more-vpn">extra privacy</a> as you browse. Set rules to turn on the VPN for extra privacy or location-based browsing, and off where you don’t.
 ipprotection-feature-introduction-title-captive-portal = On public Wi-Fi? Try { -brand-product-name }’s built-in VPN.
 ipprotection-feature-introduction-description-captive-portal = Browse with extra protection by hiding your location, even on public Wi-Fi.
@@ -123,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Dismiss
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Get unlimited VPN until 30th January
+ipprotection-holiday-promo-description = Make your browsing private and harder to trace with built-in VPN.
 ipprotection-holiday-promo-primary-button = Open VPN
 ipprotection-holiday-promo-secondary-button = Dismiss
 
@@ -168,6 +172,8 @@ ipprotection-button-turn-vpn-off = Turn off VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Turn off VPN everywhere
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Turn on
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Turn on VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Turning on…
@@ -179,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPN is off for this site
     .aria-label = VPN is off for this site
 ipprotection-connection-status-connecting-1 = VPN is connecting…
     .aria-label = VPN is connecting…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Turn off
 
 ## Location controls
 
