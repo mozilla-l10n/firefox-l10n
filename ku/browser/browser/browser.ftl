@@ -25,6 +25,12 @@
 urlbar-star-edit-bookmark =
     .tooltiptext = Vê bijareyê serast bike ({ $shortcut })
 
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = Bizeliqîne & Bidomîne
+    .accesskey = B
+
 ## Searchbar context menu
 
 clear-search-history =
@@ -231,6 +237,13 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = Ji bo ku em diakribin azmûnên te çêtir bikin { -brand-short-name } hin agahiyan xweber ji { -vendor-short-name }ê re dişîne.
@@ -254,6 +267,10 @@ data-reporting-notification-button =
 
 
 ## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
 
 
 ## Autorefresh blocker
