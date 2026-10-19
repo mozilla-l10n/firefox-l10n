@@ -30,6 +30,9 @@ ipprotection-feature-introduction-button-primary = Nākamais
 ipprotection-feature-introduction-button-secondary-not-now = Ne tagad
 ipprotection-feature-introduction-button-secondary-no-thanks = Nē, paldies
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Atvērt VPN
@@ -58,6 +61,11 @@ ipprotection-android-promo-callout-primary-button = Sapratu
 ipprotection-site-inclusions-callout-description-1 = VPN var ieslēgt, kad ir vēlēšanās pēc papildu privātumu vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne tagad
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Noraidīt
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Atvērt VPN
+ipprotection-holiday-promo-secondary-button = Noraidīt
 
 ## Panel
 
@@ -100,6 +108,9 @@ ipprotection-connection-status-excluded-1 = VPN šai vietnei ir izslēgts
 # This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
 ipprotection-recommended-location-button = Atrašanās vieta: ieteicama
 
+## VPN paused state
+
+
 ## Messages and errors
 
 ipprotection-connection-status-generic-error-description = Pēc dažām minūtēm mēģināt vēlreiz.
@@ -107,6 +118,12 @@ ipprotection-connection-status-generic-error-try-again = Lūgums vēlāk mēģin
 ipprotection-connection-status-network-error-title-1 = Pārbaudi savienojumu ar internetu
     .aria-label = Pārbaudi savienojumu ar internetu
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN šai vietnei ir izslēgts
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
 
 ## IP Protection Settings
 
@@ -210,9 +227,15 @@ ip-protection-delete-all-site-rules-error = Kārtulas nevarēja izdzēst
 ip-protection-delete-site-rule-retry =
     .label = Jāmēģina vēlreiz
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Sapratu
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
