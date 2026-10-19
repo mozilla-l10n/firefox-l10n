@@ -1517,7 +1517,7 @@ trustpanel-privacy-link = 개인 정보 설정
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-clear-cookies-header =
-    .title = { $host }에 대한 쿠키 및 사이트 데이터 지우기
+    .title = { $host }의 쿠키 및 사이트 데이터 지우기
 trustpanel-clear-cookies-description = 쿠키와 사이트 데이터를 제거하면 웹사이트에서 로그아웃되고 장바구니가 비워질 수 있습니다.
 trustpanel-clear-cookies-subview-button-clear = 지우기
 trustpanel-clear-cookies-subview-button-cancel = 취소

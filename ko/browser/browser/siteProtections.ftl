@@ -21,7 +21,7 @@ content-blocking-cookies-view-blocked-label =
 # Variables:
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
-    .tooltiptext = { $domain }에 대한 쿠키 예외 지우기
+    .tooltiptext = { $domain }의 쿠키 예외 지우기
 tracking-protection-icon-active = 소셜 미디어 추적기, 교차 사이트 추적 쿠키 및 디지털 지문을 차단합니다.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
@@ -79,10 +79,10 @@ protections-not-blocking-social-media-trackers =
 # This text indicates the total number of trackers blocked on all sites.
 # In its tooltip, we show the date when we started counting this number.
 protections-footer-blocked-tracker-counter = { $trackerCount }개 차단됨
-    .tooltiptext = { DATETIME($date, year: "numeric", month: "long", day: "numeric") } 이후
+    .tooltiptext = { DATETIME($date, day: "numeric", month: "long", year: "numeric") } 이후
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
 protections-footer-blocked-tracker-counter-no-tooltip = { $trackerCount }개 차단됨
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
-protections-milestone = { -brand-short-name }가 { DATETIME($date, year: "numeric", month: "long") } 이후 추적기 { $trackerCount }개 차단
+protections-milestone = { -brand-short-name }가 { DATETIME($date, month: "long", year: "numeric") } 이후 추적기 { $trackerCount }개 차단
