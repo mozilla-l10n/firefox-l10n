@@ -39,6 +39,9 @@ split-dismiss-button-show-fewer-option =
 # Opens about:preferences#general-cfrfeatures
 split-dismiss-button-manage-settings-option =
     .label = అమరికల నిర్వహణ
+# Accessibility label for dropdown menu button
+split-dismiss-button-default-label =
+    .title = మరిన్ని ఎంపికలు
 
 ## Sidebar Strings
 

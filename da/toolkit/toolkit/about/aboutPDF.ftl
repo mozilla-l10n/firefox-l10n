@@ -6,6 +6,9 @@ about-pdf-browse-files =
     .label = Gennemse filer
 # Title of the system file picker opened by the “Browse files” button.
 about-pdf-file-picker-title = Åbn PDF-fil
+about-pdf-promo =
+    .heading = Gør { -brand-short-name } til din foretrukne PDF-editor
+    .message = Åbn PDF-filer i { -brand-short-name } og håndter det grundlæggende ét sted, fra fremhævninger og signaturer til flettede filer og kommentarer.
 about-pdf-dismiss =
     .label = Afvis
 

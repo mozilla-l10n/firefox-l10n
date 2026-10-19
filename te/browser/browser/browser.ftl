@@ -18,6 +18,15 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = అంతరంగిక విహరణ
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } లంకె
+           *[other] { $count } లంకెలు
+        }
 urlbar-identity-button =
     .aria-label = సైటు సమాచారం చూడండి
 
@@ -487,6 +496,10 @@ urlbar-searchmode-bookmarks4 = ఇష్టాంశాలు
 urlbar-searchmode-tabs4 = ట్యాబులు
 urlbar-searchmode-history4 = చరిత్ర
 urlbar-searchmode-actions4 = చర్యలు
+urlbar-searchmode-history3 = చరిత్ర
+    .accesskey = H
+urlbar-searchmode-actions3 = చర్యలు
+    .accesskey = A
 urlbar-searchmode-exit-button2 =
     .title = మూసివేయి
 # Shown when adding new search engines from the search mode switcher.
@@ -497,6 +510,7 @@ urlbar-searchmode-popup-add-engine = “{ $engineName }”ని చేర్చ
 # Label shown on the top of Searchmode Switcher popup. After this label, the
 # available search engines will be listed.
 urlbar-searchmode-popup-one-off-header = ఈసారి దీనితో వెతుకు:
+urlbar-searchmode-popup-settings2 = అమరికలు
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -689,6 +703,8 @@ panel-save-update-password-2 =
 # "More" item in macOS share menu
 menu-share-more =
     .label = మరిన్ని…
+menu-share-windows =
+    .label = మరిన్ని ఎంపికలు
 ui-tour-info-panel-close =
     .tooltiptext = మూసివేయి
 
@@ -783,6 +799,17 @@ reset-pbm-panel-always-ask-checkbox =
     .label = ఎల్లప్పుడూ అడుగు
     .accesskey = A
 reset-pbm-panel-cancel-button =
+    .label = రద్దుచేయి
+    .accesskey = C
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = ఎంచుకోండి…
+fire-button-panel-cancel-button =
     .label = రద్దుచేయి
     .accesskey = C
 

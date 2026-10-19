@@ -8,3 +8,8 @@
 customkeys-nav-back = వెనుకకు
 customkeys-nav-forward = ముందుకు
 customkeys-nav-home = ముంగిలి
+
+## Confirmation dialogs
+
+customkeys-conflict-confirm-button-cancel = రద్దుచేయి
+customkeys-reset-all-confirm-button-cancel = రద్దుచేయి
