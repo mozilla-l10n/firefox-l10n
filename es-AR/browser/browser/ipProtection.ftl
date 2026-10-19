@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = Establecer reglas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = No ahora
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Descartar
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Abrir VPN
+ipprotection-holiday-promo-secondary-button = Descartar
+
 ## Panel
 
 # Also used for the callout shown in private browsing
