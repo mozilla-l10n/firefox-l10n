@@ -76,3 +76,30 @@ about-private-browsing-felt-privacy-v1-info-link = Hvem kan muligvis se min akti
 about-private-browsing-nova-info-body = Når du lukker alle dine private vinduer, så slettes dine cookies, din historik samt webstedsdata.
 about-private-browsing-nova-info-link = Hvem kan muligvis stadig se min aktivitet?
 about-private-browsing-private-window-basics-link = Grundlæggende om private vinduer
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } beskytter dit privatliv, mens du browser med indbygget beskyttelse mod sporing. Når du lukker dette vindue, slettes historik, cookies og webstedsdata så andre, der bruger denne enhed, ikke kan finde spor efter din browsing.
+# "You're off the record" is an English idiom meant to communicate that you
+# are not being recorded. If there is not a comparable phrase in the locale,
+# fall back to "Your browsing will be deleted"
+about-private-browsing-nova-info-header = Din browserhistorik slettes
+about-private-browsing-nova-info-subheader2 = Når du lukker alle dine private vinduer, slettes alle søgninger og logins. { -brand-short-name }s indbyggede beskyttelse er også aktiveret her, fx. blokering af sporings-mekanismer.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Grundlæggende om private vinduer
+about-private-browsing-spotlight-basics-subtitle = Private vinduer hjælper med at holde din browsing privat for andre på denne enhed. De gør dig ikke anonym eller sletter alle dine data.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Værd at vide
+about-private-browsing-spotlight-basics-activity-seen = Visse aktiviteter kan muligvis stadig ses af websteder, søgetjenester, internetudbydere eller din arbejdsgiver.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Bogmærker og filhentninger forbliver på din enhed og kan ses i adressefeltet.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Mere beskyttelse af privatliv
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } advarer dig automatisk om malware og vildledende websteder.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } beder automatisk deltagende websteder om ikke at sælge eller dele dine personlige data.
+about-private-browsing-spotlight-basics-vpn = Brug indbygget VPN for at gøre din placering sværere at spore.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Skift til Striks i indstillingerne for stærkere beskyttelse mod sporing.
+about-private-browsing-spotlight-basics-learn-more = Læs mere
