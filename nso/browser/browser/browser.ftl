@@ -21,6 +21,12 @@
 ##
 
 
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = Kgomaretša gomme o ye
+    .accesskey = K
+
 ## Searchbar context menu
 
 clear-search-history =
@@ -212,6 +218,13 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ka maitirišo e romela tsebišo e itšego go { -vendor-short-name } gore re kgone go kaonafatša maitemogelo a gago.
@@ -232,6 +245,10 @@ data-reporting-notification-message = { -brand-short-name } ka maitirišo e rome
 
 
 ## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
 
 
 ## Autorefresh blocker
