@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Șterge tot istoricul
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Șterge datele de navigare
 clear-data-settings-label = Când este închis, { -brand-short-name } ar trebui să șteargă automat totul
 sanitize-on-shutdown-description = Șterge automat toate elementele bifate la închiderea { -brand-short-name }.
 
@@ -116,6 +123,14 @@ sanitize-button-ok2 =
     .label = Șterge
 sanitize-button-ok-on-shutdown =
     .label = Salvează modificările
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = Șterge
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = Închide
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

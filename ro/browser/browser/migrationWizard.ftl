@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } nu are acces la profilu
 migration-no-permissions-instructions = Pentru a continua importarea datelor dintr-un alt browser, acordă acces lui { -brand-short-name } la dosarul profilului acestuia.
 migration-no-permissions-instructions-step1 = Selectează „Continuă”
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] În selectorul de fișiere, alege „Deschide”
+       *[other] În selectorul de fișiere, mergi la <code>{ $permissionsPath }</code> și alege „Selectează”
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

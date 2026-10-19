@@ -1422,6 +1422,27 @@ reset-pbm-toolbar-button2 =
     .label = Șterge sesiunea privată
     .tooltiptext = Șterge sesiunea privată
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Șterge o parte sau toate datele de navigare
+    .tooltiptext = Șterge o parte sau toate datele de navigare
+fire-button-panel-heading = Ștergi toate datele de navigare?
+fire-button-panel-description = Îți va șterge istoricul, cookie-urile și datele despre site-uri. Vei ieși din conturi de pe toate site-urile. Această fereastră se va închide și { -brand-short-name } va deschide una nouă.
+fire-button-panel-choose-description = Dacă nu vrei să ștergi tot, alege, în schimb, date specifice.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Alege…
+fire-button-panel-cancel-button =
+    .label = Anulează
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = Șterge tot
+    .accesskey = D
+fire-button-panel-complete = Datele de navigare au fost șterse
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } a împiedicat această pagină să se reîncarce automat.

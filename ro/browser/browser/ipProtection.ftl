@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Îți prezentăm VPN-ul, acum direct �
 ipprotection-feature-introduction-title-1 = Încearcă VPN-ul încorporat { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele.
 ipprotection-feature-introduction-title-privacy = Adaugă încă un strat de confidențialitate
+ipprotection-feature-introduction-title-privacy-1 = Adaugă încă un strat de confidențialitate cu VPN-ul încorporat
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN-ul încorporat din { -brand-product-name }</a> ajută la protejarea ta în timpul navigării. Alege din mai multe locații ca să îți păstrezi mai private locurile pe unde intri.
 ipprotection-feature-introduction-link-text-privacy-2 = VPN-ul încorporat din <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> te ajută să îți protejezi navigările pe internet. Alege dintre locații multiple pentru confidențialitatea locurilor pe unde mergi pe internet.
 ipprotection-feature-introduction-link-text-privacy-3 = Obține <a data-l10n-name="learn-more-vpn">confidențialitate extra</a> alegând dintre locații multiple pentru a ascunde pe unde mergi pe internet.
@@ -114,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Am înțeles
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Setează reguli pentru VPN-ul încorporat, apoi navighează mai departe
 ipprotection-site-inclusions-callout-title-lapsed-users = Încearcă VPN-ul încorporat, acum pentru fiecare site în parte
+ipprotection-site-inclusions-callout-description-1 = Activează VPN-ul încorporat când vrei un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei astea.
 ipprotection-site-inclusions-callout-description = Activează-l când dorești confidențialitate extra sau navigare bazată pe locație și dezactivează-l acolo unde nu dorești.
 ipprotection-site-inclusions-callout-primary-button = Setează reguli
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nu acum
@@ -144,6 +146,12 @@ site-rules-status-heading = Regula ta
 site-rules-description-exclusion = VPN-ul este dezactivat pentru acest site
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN-ul este activat pentru acest site
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Activezi pentru totdeauna VPN-ul pentru { $website }?
+    .message = Actualizează-ți regulile oricând în setări.
 ipprotection-settings-link =
     .label = Setări
 
@@ -268,6 +276,11 @@ ip-protection-learn-more = Află mai multe
 ip-protection-not-opted-in-4 =
     .heading = Încearcă VPN-ul încorporat din { -brand-short-name }
     .message = Navighează cu protecție extra, ascunzându-ți locația.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Ești gata să încerci?
+    .message = Obții { $maxUsage } GB gratuiți în fiecare lună și alegi ce site-uri să folosească VPN.
 ip-protection-not-opted-in-button = Începe
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -284,6 +297,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Setează reguli pentru site-uri care necesită un plus de confidențialitate sau dezactivarea VPN-ului.
     .label = Gestionează regulile VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Setează reguli pentru activarea sau dezactivarea automată a VPN-ului.
+    .label = Reguli pentru site-uri web
 ip-protection-site-rules-add-button =
     .label = Setează regula
 ip-protection-site-rules-delete-all-button =
@@ -366,6 +382,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Ștergi toate regulile pentru site-uri?
 ip-protection-delete-all-site-rules-confirm =
     .label = Șterge toate regulile
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Regula nu a putut fi ștearsă
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Regulile nu au putut fi șterse
+ip-protection-delete-site-rule-retry =
+    .label = Încearcă din nou
 
 ## IP Protection Bandwidth
 

@@ -1799,6 +1799,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Alege ce site-uri web pot instala extensii
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Permite site-urilor să îmi ceară să deschid linkuri de aplicații.
+    .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Gestionează site-urile blocate
+    .accesskey = M
 permissions-location2 =
     .label = Locație
 permissions-localhost2 =

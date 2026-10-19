@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Blochează noile solicitări de accesare a dispozitivelor de realitate virtuală
 permissions-site-xr-disable-desc = Acest lucru va împiedica orice site web care nu este listat mai sus să ceară permisiunea de a-ți accesa dispozitivele de realitate virtuală. Blocarea accesului la dispozitivele de realitate virtuală ar putea interfera cu unele funcții ale site-urilor web.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Setări - Site-uri blocate pentru linkuri de aplicații
+permissions-site-app-links-desc = Aceste site-uri au blocată opțiunea de a-ți oferi linkuri către aplicații, cum ar fi cea de e-mail (mailto:). Elimină un site ca să îi permiți să te întrebe din nou.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

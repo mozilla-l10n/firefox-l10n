@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = Ultimul vizitat
 sidebar-history-sort-option-most-visited =
     .label = Cele mai vizitate
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Lipsește ceva? Ia-ți istoricul din alt browser.
+sidebar-history-import-promo-button =
+    .label = Importă în { -brand-short-name }
 
 ## Labels for sidebar search
 

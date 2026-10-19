@@ -21,6 +21,7 @@ confirmation-hint-send-to-device = Trimis!
 confirmation-hint-firefox-relay-mask-created = Mască nouă creată!
 confirmation-hint-firefox-relay-mask-reused = Mască existentă refolosită!
 confirmation-hint-screenshot-copied = Captură de ecran copiată!
+confirmation-hint-tab-group-saved = Grupul de file a fost salvat
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =
