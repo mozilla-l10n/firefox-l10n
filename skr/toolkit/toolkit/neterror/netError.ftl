@@ -12,6 +12,7 @@ neterror-blocked-by-policy-page-title = بلاک تھیا ورقہ
 neterror-captive-portal-page-title = نیٹ ورک وچ لاگ ان تھیوو
 neterror-dns-not-found-title = سرور نہیں لبھیا
 neterror-malformed-uri-page-title = غلط یوآرایل
+general-body-title = محتاط رہو۔ کجھ ٹھیک نہیں لگدا۔
 
 ## Error page actions
 
@@ -23,13 +24,55 @@ neterror-override-exception-button = خطرے کوں قبول کرو تے جار
 neterror-pref-reset-button = طے شدہ ترتیباں بحال کرو
 neterror-return-to-previous-page-button = واپس ون٘ڄو
 neterror-return-to-previous-page-recommended-button = واپس ون٘ڄو(سفارش کیتی ویندی ہے)
+neterror-try-again-button-2 = دوبارہ کوشش کرو
+    .accesskey = T
 neterror-add-exception-button = ایں سائٹ کیتے ہمیشاں جاری رکھو
 neterror-settings-button = DNS ترتیباں تبدیل کرو
 neterror-view-certificate-link = تصدیق نامہ ݙیکھو
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+neterror-search-cta-title = ایں سائٹ تائیں نہیں پہنچیا ونڄ سڳدا۔
+# $hostname (String) - The host of the address that failed to load, including
+# any subdomains, for example "docs.example.com". The host is emphasized.
+neterror-search-cta-intro2 = <strong>{ $hostname }</strong> تے سرور نال کنیکٹ نہیں تھی سڳیا۔
+# Heading above the list of recovery hints on the search CTA error page.
+neterror-search-cta-things-to-try = ایہہ قدم آزماؤ:
+neterror-search-cta-hint-check-address = ویب سائٹ دا پتہ ڈبل چیک کرو
+# Shown when no Search button is offered, so no specific query can be named.
+neterror-search-cta-hint-search = سائٹ لبھݨ واسطے ویب تے تلاش کرو
+# Shown when the Search button is offered, naming the exact query it will run.
+# $query (String) - The search query derived from the address that failed to
+# load, beginning with the site's name, for example "example best hiking
+# boots". The query and the quotation marks around it are emphasized.
+neterror-search-cta-hint-search-query = <strong>“{ $query }”</strong> کوں ویب تے تلاش کرو
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = تلاش
+    .tooltiptext = نواں ٹیب وچ تلاش دے نتیجے کھولدا ہے
+    .accesskey = c
+# Shown in place of the Search button when the user clicks it but connectivity
+# has dropped since the page loaded, so the search cannot be performed.
+neterror-search-cta-offline = لڳدا ہے تساں آف لائن او۔ دوبارہ کنیکٹ کرو تے دوبارہ کوشش کرو۔
+# $error (String) - The error code, for example "dnsNotFound".
+neterror-search-cta-error-code = غلطی دا کوڈ: { $error }
+# The search CTA's own "Learn more" link text (no trailing ellipsis).
+neterror-search-cta-learn-more = ٻیا ڄاݨو
+
 ##
 
 neterror-pref-reset = ایویں لڳدا ہے جو تہاݙے نیٹ ورک دی سیکیورٹی دیاں ترتیباں ایندی وجہ بݨدیاں پیاں ہن۔ کیا تساں چاہندے او جو طے شدہ ترتیباں بحال تھیون؟
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
+
+neterror-sslkeylogging-warning =
+    .heading = تہاݙا کنکشن شاید نجی نہ ہووے
+    .message = کوئی ایپ یا سروس ایں سائٹ توں تہاݙی انکرپٹڈ ٹریفک ݙیکھ سڳدی ہے۔
 
 ## Specific error messages
 
@@ -37,6 +80,10 @@ neterror-generic-error = { -brand-short-name } کہیں وجہ توں ایں و�
 neterror-load-error-try-again = سائٹ عارضی طور تے غیر دستیاب یا ٻہوں مصروف تھی سڳدی ہے۔ کجھ پل اِچ ولدا کوشش کرو۔
 neterror-load-error-connection = جے تساں کوئی ورقہ لوڈ کرݨ کنوں عاری او تاں اپݨے کمپیوٹر دا نیٹ ورک کنکشن چیک کرو۔
 neterror-load-error-firewall = جے تہاݙا کمپیوٹر یا نیٹ ورک فائر وال یا پراکسی کنوں محفوظ ہے، تاں یقینی بݨاؤ جو { -brand-short-name } کوں ویب تائیں رسائی دی اجازت ہے۔
+# This warning is only shown on macOS Sequoia and later (see bug 1929377)
+neterror-load-osx-permission = اگر تساں لوکل نیٹ ورک دا صفحہ لوڈ کرݨ چاہندے او، تاں براہ کرم چیک کرو جو { -brand-short-name } کوں macOS پرائیویسی تے سیکیورٹی سیٹنگز وچ لوکل نیٹ ورک آلیاں اجازتاں ݙتیاں ڳئیاں ہن۔
+neterror-http-error-page = چیک کرو جو تساں ویب سائٹ دا پتہ ٹھیک لکھیا ہے۔
+neterror-http-empty-response = چیک کرو جو تساں ویب سائٹ دا پتہ ٹھیک لکھیا ہے تے کجھ پل بعد دوبارہ کوشش کرو۔
 neterror-captive-portal = انٹرنیٹ تائیں رسائی حاصل کرݨ کنوں پہلے تہاکوں ایں نیٹ ورک وِچ لاگ ان کرݨا پوسے۔
 # Variables:
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
@@ -45,6 +92,7 @@ neterror-dns-not-found-hint-header = <strong> جے تساں صحیح پتہ در
 neterror-dns-not-found-hint-try-again = بعد اِچ ولدا کوشش کرو
 neterror-dns-not-found-hint-check-network = اپݨا نیٹ ورک کنکشن چیک کرو۔
 neterror-dns-not-found-hint-firewall = چیک کرو جو { -brand-short-name } کوں ویب تائیں رسائی دی اجازت ہے (تھی سڳدا ہے جو تساں منسلک ہوو پر فائر وال دے پچھوں)
+neterror-dns-not-found-hint-firewall-2 = چیک کرو جو { -brand-short-name } کوں ویب تک رسائی دی اجازت ہے (تساں شاید کنیکٹ او پر فائر وال دے پچھوں ہو)۔
 
 ## TRR-only specific messages
 ## Variables:

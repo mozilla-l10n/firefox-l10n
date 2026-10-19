@@ -30,4 +30,32 @@ webext-perms-description-sessions = حالیہ بند تھیاں ٹیباں تے
 webext-perms-description-tabs = براؤزر ٹیبز تائیں رسائی حاصل کرو
 webext-perms-description-tabHide = براؤزر ٹیباں لکاؤ تے ݙکھاؤ
 webext-perms-description-topSites = براؤزنگ تاریخ تے اپڑو
+webext-perms-description-userScripts = غیر تصدیق شدہ تیسری پارٹی سکرپٹاں کوں تساں دے ڈیٹا تک رسائی ݙیو
 webext-perms-description-webNavigation = نیویگیشݨ دے دوران براوئزر دی سرگرمی تائیں رسائی
+
+## The userScripts permission includes an additional explanation that is
+## displayed prominently near the usual permission description.
+
+webext-perms-extra-warning-userScripts-long = غیر تصدیق شدہ سکرپٹاں سیکیورٹی تے پرائیویسی کیتے خطرناک تھی سڳدیاں ہن، جیویں نقصان دہ کوڈ چلاوݨا یا ویب سائٹ دی سرگرمی کوں ٹریک کرنا۔ صرف انہاں ایکسٹینشنز یا ذرائع توں سکرپٹاں چلاؤ جناں تے تساں بھروسہ کریندے او۔
+
+## Short form to be used in lists or in a string (`webext-perms-description-data-some`)
+## that formats some of the data collection permissions below using `Intl.ListFormat`.
+##
+## This is used when the data collection permissions are required.
+
+webext-perms-description-data-short-authenticationInfo = تصدیقی معلومات
+webext-perms-description-data-short-browsingActivity = براؤزنگ سرگرمی
+webext-perms-description-data-short-healthInfo = صحت دی معلومات
+webext-perms-description-data-short-locationInfo = ٹکاݨا
+webext-perms-description-data-short-personallyIdentifyingInfo = ذاتی شناختی معلومات
+webext-perms-description-data-short-technicalAndInteraction = تکنیکی تے انٹریکشن ڈیٹا
+webext-perms-description-data-short-websiteContent = ویب سائٹ دا مواد
+
+## Long form to be used in `about:addons` when these data collection permissions are optional.
+
+webext-perms-description-data-long-bookmarksInfo = نشانیاں دی معلومات ایکسٹینشن ڈویلپر نال شیئر کرو
+webext-perms-description-data-long-financialAndPaymentInfo = مالی تے ادائیگی دی معلومات ایکسٹینشن ڈویلپر نال شیئر کرو
+webext-perms-description-data-long-locationInfo = ٹکاݨا دی معلومات ایکسٹینشن ڈویلپر نال شیئر کرو
+webext-perms-description-data-long-personalCommunications = ذاتی رابطے ایکسٹینشن ڈویلپر نال شیئر کرو
+webext-perms-description-data-long-searchTerms = ڳولو دیاں اصطلاحاں ایکسٹینشن ڈویلپر نال شیئر کرو
+webext-perms-description-data-long-websiteActivity = ویب سائٹ دی سرگرمی ایکسٹینشن ڈویلپر نال شیئر کرو

@@ -32,14 +32,21 @@ user-context-shopping2 =
 user-context-manage-containers =
     .label = کنٹینرز دا بندوبست کرو
     .accesskey = o
+user-context-new-tab2 =
+    .label = نواں ٹیب
+user-context-add-container2 =
+    .label = نواں کنٹینر شامل کرو
 user-context-manage-containers2 =
     .label = کنٹینرز دا بندوبست کرو
+user-context-add-container2-panel-item = نواں کنٹینر شامل کرو
 user-context-manage-containers2-panel-item = کنٹینرز دا بندوبست کرو
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.
 
 user-context-color-blue =
     .label = نیلا
+user-context-color-cyan =
+    .label = سائن
 user-context-color-green =
     .label = ساوا
 user-context-color-yellow =
@@ -52,6 +59,8 @@ user-context-color-pink =
     .label = گلابی
 user-context-color-purple =
     .label = جامنی
+user-context-color-violet =
+    .label = بنفشی
 
 ## Container icons, shown as selectable swatches in the container
 ## creation/edit dialog.

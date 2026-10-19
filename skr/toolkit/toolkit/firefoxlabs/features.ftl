@@ -83,3 +83,15 @@ experimental-features-newtab-widget-picture-of-the-day-description = اپݨے ݙ
 experimental-features-newtab-widget-clocks =
     .label = گھڑیاں
 experimental-features-newtab-widget-clocks-description = اپݨی پسندیدہ جاہواں دے وقت دا حساب رکھݨ کیتے اپݨے ناواں آلیاں چار تائیں گھڑیاں شامل کرو۔ <a data-l10n-name="connect">رائے ݙیو</a>
+# Semantic History Search
+experimental-features-semantic-history-search =
+    .label = معنوی تاریخ دی تلاش
+experimental-features-semantic-history-search-description = مقامی مشین لرننگ ماڈل استعمال کرو تے { -brand-product-name } دے ایڈریس بار وچ قدرتی زبان دی سمجھ دی بنیاد تے تساں دے تلاشاں نال متعلقہ تاریخ دیاں انٹریاں تجویز کرو۔ <a data-l10n-name="connect">رائے ݙیو</a>
+# Tab Notes
+experimental-features-tab-notes =
+    .label = ٹیب نوٹس
+experimental-features-tab-notes-description = ٹیب نوٹس ہک تجرباتی خصوصیت ہے جیہڑی تساں کوں اپݨے براؤزر ٹیباں وچ چپکݨ آلے نوٹس شامل کرݨ ݙیندی ہے۔ سیاق، یاد ݙیوݨ آلیاں ڳالھیں، یا اڳلے قدماں کوں نوٹ کرو تاکہ تساں واپس آ کے یاد رکھ سکو کہ تساں ایہ کیوں کھولیا ہا۔ ساکوں تہاݙی رائے دا ٻہوں چنگا لڳسی جڈاں اساں ایں خصوصیت کوں ٻہتر بݨائی رکھدے ہیں۔ <a data-l10n-name="connect">رائے ݙیو</a>
+# Streamlined Tab Context Menu
+experimental-features-tab-context-menu =
+    .label = سادہ ٹیب مینیو
+experimental-features-tab-context-menu-description = جڈاں تساں ہک ٹیب تے سڄے کلک کرو تاں ہک سادہ سیاق مینیو ݙیکھو۔ ایہ عام کماں کوں لبھݨا سوکھا بݨاوݨ کیتے ڈیزائن کیتا ڳیا ہے۔ <a data-l10n-name="connect">رائے ݙیو</a>

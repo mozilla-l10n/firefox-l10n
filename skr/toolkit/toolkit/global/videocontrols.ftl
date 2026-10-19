@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = ویڈیو فارمیٹ یا MIME ونک
 videocontrols-error-no-source = تعاون یافتہ فارمیٹ تے MIME ونکی والی کوئی ویڈیو نہیں ملی۔
 videocontrols-error-generic = اݨ ڄاتی خرابی دی وجہ توں ویڈیو پلے بیک روک ݙتا ڳیا ہے۔
 videocontrols-status-picture-in-picture = ایہ ویڈیو پکچر ان پکچر موڈ وِچ چلدی پئی ہے۔
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = ویڈیو پکچر-ان-پکچر وچ چلدی پئی ہے
 # This message shows the current position and total video duration
 #
 # Variables:
