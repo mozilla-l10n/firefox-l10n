@@ -124,6 +124,15 @@ about-processes-thread-name-and-id = { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Filă: { $name }
 about-processes-preloaded-tab = Filă nouă preîncărcată
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [one] { $count } filă
+        [few] { $count } file
+       *[other] { $count } de file
+    }
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
