@@ -73,6 +73,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Нодид�
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-primary-button = Кушодани «VPN»
 ipprotection-holiday-promo-secondary-button = Нодида гузарондан
 
 ## Panel
