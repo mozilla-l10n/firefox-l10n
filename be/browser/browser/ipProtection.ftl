@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = Атрымайце 
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-description-private-browsing = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават калі вы ў прыватным акне.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Дапамажыце схаваць ваша месцазнаходжанне ў часе аглядання. Усталюйце правілы для ўключэння VPN для <a data-l10n-name="learn-more-vpn">дадатковай прыватнасці</a> або аглядання ў залежнасці ад месцазнаходжання, а таксама для выключэння VPN там, дзе вы яго не выкарыстоўваеце.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Дапамажыце схаваць ваша месцазнаходжанне для <a data-l10n-name="learn-more-vpn">дадатковай прыватнасці</a> ў часе аглядання. Усталюйце правілы, каб уключыць VPN для дадатковай прыватнасці або аглядання ў залежнасці ад месцазнаходжання і выключаць яго там, дзе вы яго не ўключаеце.
 ipprotection-feature-introduction-title-captive-portal = У грамадскай сетцы Wi-Fi? Паспрабуйце ўбудаваны ў { -brand-product-name } VPN.
 ipprotection-feature-introduction-description-captive-portal = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават ў агульнадаступнай сетцы Wi-Fi.
@@ -123,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Адхіл�
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Атрымайце неабмежаваны VPN да 30 студзеня
+ipprotection-holiday-promo-description = Зрабіце сваё агляданне прыватным і больш складаным для асочвання з дапамогай убудаванага VPN.
 ipprotection-holiday-promo-primary-button = Адкрыць VPN
 ipprotection-holiday-promo-secondary-button = Адхіліць
 
@@ -168,6 +172,8 @@ ipprotection-button-turn-vpn-off = Выключыць VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Выключыць VPN усюды
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Уключыць
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Уключыць VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Уключэнне…
@@ -179,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPN для гэтага сайта �
     .aria-label = VPN для гэтага сайта выключаны
 ipprotection-connection-status-connecting-1 = VPN падключаецца…
     .aria-label = VPN падключаецца…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Выключыць
 
 ## Location controls
 
