@@ -16,6 +16,10 @@ about-processes-kill-process =
     .title = Забіць працэс
 about-processes-shutdown-tab =
     .title = Закрыць картку
+about-processes-unload-tab =
+    .title = Выгрузіць картку
+about-processes-go-to-tab =
+    .title = Перайсці да карткі
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -33,6 +37,11 @@ about-processes-profile-process =
 about-processes-column-name = Назва
 about-processes-column-memory-resident = Памяць
 about-processes-column-cpu-total = ЦП
+# Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
+about-processes-column-cpu-total-tab = ЦП
+    .title = % агульнай магутнасці працэсара на ўсіх ядрах
+# Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
+about-processes-column-memory-resident-tab = АП
 
 ## Process names
 ## Variables:
@@ -115,6 +124,15 @@ about-processes-thread-name-and-id = { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Картка: { $name }
 about-processes-preloaded-tab = Папярэдне загружаная новая картка
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [one] { $count } картка
+        [few] { $count } карткі
+       *[many] { $count } картак
+    }
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -160,6 +178,14 @@ about-processes-cpu-almost-idle = < 0.1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = бяздзейны
     .title = Агульны час ЦП: { NUMBER($total, maximumFractionDigits: 0) } { $unit }
+# A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Special case: a tab is currently idle.
+about-processes-tab-cpu-fully-idle = бяздзейна
+# Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
+about-processes-tab-cpu-almost-idle = < 0.1%
 
 ## Displaying Memory (total and delta)
 ## Variables:

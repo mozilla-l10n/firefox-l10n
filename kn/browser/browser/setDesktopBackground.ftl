@@ -11,7 +11,7 @@ open-desktop-prefs =
 set-desktop-background-downloading =
     .label = ಚಿತ್ರವನ್ನು ಉಳಿಸಲಾಗುತ್ತಿದೆ…
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = ಡೆಸ್ಕಟಾಪ್ Background
 set-background-color = ಬಣ್ಣ:
 set-background-position = ಸ್ಥಾನ:

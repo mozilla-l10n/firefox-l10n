@@ -26,9 +26,6 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administroni rregullime për flluska dhe ridrejtime nga palë të treta…
     .accesskey = A
-
-##
-
 urlbar-identity-button =
     .aria-label = Shihni hollësi sajti
 
@@ -493,9 +490,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Çaktivizo mbrojtje ndarjeje për këtë sesion
 
-## WebSerial "select a port" popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -669,11 +663,6 @@ urlbar-result-weather-provider-sponsored = { $provider } ·E sponsorizuar
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pyetni
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -806,9 +795,6 @@ urlbar-result-action-switch-to-tabgroup = Kalo te { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Hap { $group }
-
-## Used in the menu of a urlbar result.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -1080,9 +1066,6 @@ picture-in-picture-move-toggle-left =
 
 ##
 
-
-# Navigator Toolbox
-
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1129,13 +1112,6 @@ restore-session-startup-suggestion-button = Tregomëni se si
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Enti juaj e ka bllokuar hyrjen te kartela vendore në këtë kompjuter
-
-## Address bar result shown when someone who used the Extensions and Themes
-## keyboard shortcut presses that shortcut after it moved to Search Tabs.
-## Variables:
-##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
-##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1198,10 +1174,6 @@ reset-pbm-panel-cancel-button =
     .label = Anuloje
     .accesskey = A
 reset-pbm-panel-complete = Të dhënat e sesionit privat u fshinë
-
-## Fire button. Clears the whole browsing session, then closes every window and
-## opens a new one.
-
 
 ## Autorefresh blocker
 
@@ -1294,13 +1266,6 @@ file-picker-crashed-open = Dialogu Windows për kartela u vithis. S’përzgjidh
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialogu Windows për kartela u vithis. Kartela do të ruhet te { $path }.
 file-picker-crashed-save-nowhere = Dialogu Windows për kartela u vithis. S’përzgjidhej dot dosje parazgjedhje; kartela s’do të ruhet.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Shfaqe Në Dosje
     .accessKey = D
@@ -1353,9 +1318,6 @@ trustpanel-blocker-see-all = Shihini Krejt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Mbrojtje nga gjurmimet për { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

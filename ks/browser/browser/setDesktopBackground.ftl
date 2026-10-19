@@ -11,7 +11,7 @@ open-desktop-prefs =
 set-desktop-background-downloading =
     .label = شكل محفوظ تھَوان
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = ڈیسكٹاپ پس۪ی منظر
 set-background-color = رنگ:
 set-background-position = جاے:

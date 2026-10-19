@@ -47,6 +47,9 @@ ai-window-toggleview-status-label-inactive = Класічнае акно
 toolbar-switcher-customizable-label =
     .label = Пераключальнік { -smart-window-brand-name }
     .tooltiptext = Пераключэнне паміж разумнымі і класічнымі вокнамі.
+toolbar-switcher-customizable-label-v2 =
+    .label = Пераключальнік { -smart-window-brand-name }
+    .tooltiptext = Пераключэнне паміж разумнымі і класічнымі вокнамі
 
 ## Input CTA
 
@@ -79,6 +82,7 @@ smartbar-placeholder-hint-4 = Пошук у сеціве…
 
 smartbar-mention-typing-placeholder = Пазначыць тэгам картку ці сайт
 smartbar-mentions-list-no-results-label = Нічога не знойдзена
+smartbar-mentions-list-tab-groups-label = Нядаўнія групы
 smartbar-mentions-list-recent-tabs-label = Нядаўнія карткі
 
 ## Context mentions menu toggle button

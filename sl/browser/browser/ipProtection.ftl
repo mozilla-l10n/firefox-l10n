@@ -43,9 +43,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Odpri VPN
 ipprotection-feature-introduction-button-get-started = Začni
 
-## Callout shown when the user opens a private browsing window
-
-
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -183,9 +180,6 @@ ipprotection-connection-status-generic-error-title-1 = Povezava z VPN ni bila mo
 
 ipprotection-bandwidth-upgrade-title = Vam je vgrajeni VPN všeč? Zagotovite si zaščito tudi zunaj { -brand-product-name(sklon: "rodilnik") } z { -mozilla-vpn-brand-name }.
 
-## IP Protection bandwidth warning infobar
-
-
 ## IP Protection Settings
 
 ip-protection-description =
@@ -259,9 +253,6 @@ ip-protection-bandwidth-header-1 = Mesečna omejitev prenosa podatkov
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Razumem
-
-## IP Protection add-on breakage warnings
-
 
 ## IP Protection alerts
 

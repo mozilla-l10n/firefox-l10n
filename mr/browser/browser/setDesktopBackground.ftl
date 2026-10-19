@@ -12,7 +12,7 @@ set-desktop-background-downloading =
     .label = चित्र संचयीत करत आहे…
 set-background-preview-unavailable = पूर्वावलोकन उपलब्ध नाही
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = डेस्कटॉप पार्श्वभूमी
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on

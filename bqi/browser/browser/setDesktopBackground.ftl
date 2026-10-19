@@ -5,7 +5,7 @@
 set-desktop-background-downloading =
     .label = زفت شؽوات…
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = Desktop Background
 set-background-color = رنگ:
 set-background-tile =

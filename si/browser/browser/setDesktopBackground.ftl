@@ -12,7 +12,7 @@ set-desktop-background-downloading =
     .label = රූපය සුරැකෙමින්…
 set-background-preview-unavailable = පෙරදසුන නොතිබේ
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = වැඩතල පසුබිම
 set-background-color = වර්ණය:
 set-background-position = පිහිටීම:

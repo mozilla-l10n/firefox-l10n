@@ -347,8 +347,8 @@ newtab-stocks-error-not-available = Stock data is not available.
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-stocks-widget-open-menu-button2 =
-    .title = Open finance menu
     .aria-label = Open finance menu
+    .title = Open finance menu
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -478,7 +478,7 @@ newtab-picture-header-main = Picture of the day
 # Title shown at the top of the widget, with the date of the picture shown.
 # $date (Date) - the day Wikimedia Commons featured the picture as its picture
 # of the day, shown in numbers (for example 10/8/2026).
-newtab-picture-header-date = Picture of the day: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric") }
+newtab-picture-header-date = Picture of the day: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -506,9 +506,9 @@ newtab-picture-widget-open-menu-button =
 # previous day’s, as the New Tab background wallpaper. The button collapses to an
 # icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper2 =
+    .aria-label = Set this picture as your wallpaper
     .label = Set wallpaper
     .title = Set wallpaper
-    .aria-label = Set this picture as your wallpaper
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -530,8 +530,8 @@ newtab-picture-menu-show-photo = Show today’s picture
 newtab-picture-menu-learn-more = Learn more
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button2 =
-    .title = Show picture
     .aria-label = Show picture
+    .title = Show picture
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Show today’s picture
@@ -586,24 +586,24 @@ newtab-horoscopes-widget-title = Horoscopes
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-horoscopes-widget-open-menu-button =
-    .title = Open horoscopes menu
     .aria-label = Open horoscopes menu
+    .title = Open horoscopes menu
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Horoscopes options
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Learn more
+
+## Strings for the Travel widget
+
 # Widget heading; also the widget's accessible name. Travel (noun) is a
 # widget on New Tab for searching hotels, flights and car rentals.
 newtab-travel-widget-title = Travel
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-travel-widget-open-menu-button =
-    .title = Open travel menu
     .aria-label = Open travel menu
-
-## Strings for the Travel widget
-
+    .title = Open travel menu
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Learn more
 

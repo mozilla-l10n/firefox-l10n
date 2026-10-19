@@ -35,9 +35,6 @@ urlbar-identity-button2 =
             [1] Lihat informasi situs (1 pelacak diblokir)
            *[other] Lihat informasi situs ({ $count } pelacak diblokir)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Tampilkan informasi situs
 
@@ -719,11 +716,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Tanya
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1138,10 +1130,6 @@ toolbar-button-share-tab =
     .label = Bagikan
     .tooltiptext = Bagikan laman Ini
 
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
-
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Beberapa audio atau video pada situs ini menggunakan perangkat lunak DRM yang mungkin membatasi pemakaian Anda atas { -brand-short-name }.
@@ -1189,9 +1177,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = i
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1313,10 +1298,6 @@ reset-pbm-panel-cancel-button =
     .accesskey = B
 reset-pbm-panel-complete = Data sesi pribadi dihapus
 
-## Fire button. Clears the whole browsing session, then closes every window and
-## opens a new one.
-
-
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } telah mencegah laman ini untuk otomatis dimuat ulang.
@@ -1400,13 +1381,6 @@ file-picker-crashed-open = Dialog berkas Windows mogok. Tidak ada berkas atau fo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialog berkas Windows mogok. Berkas akan disimpan ke { $path }.
 file-picker-crashed-save-nowhere = Dialog berkas Windows mogok. Tidak ada folder baku yang dapat ditemukan; berkas tidak akan disimpan.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Tampilkan di Folder
     .accessKey = F
@@ -1459,9 +1433,6 @@ trustpanel-blocker-see-all = Lihat Semua
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Perlindungan pelacakan untuk { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -39,8 +39,6 @@ ipprotection-feature-introduction-description-summer-promo = Go farther with { -
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use our new <a data-l10n-name="learn-more-vpn">built-in VPN</a> to hide your location and protect your data, even when you’re in a Private Window.
 ipprotection-feature-introduction-description-private-browsing = Browse with extra protection by hiding your location, even when you’re in a Private Window.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Help hide your location as you browse. Set rules to turn on VPN for <a data-l10n-name="learn-more-vpn">extra privacy</a> or location-based browsing, and off where you don’t.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Help hide your location for <a data-l10n-name="learn-more-vpn">extra privacy</a> as you browse. Set rules to turn on the VPN for extra privacy or location-based browsing, and off where you don’t.
 ipprotection-feature-introduction-title-captive-portal = On public Wi-Fi? Try { -brand-product-name }’s built-in VPN.
 ipprotection-feature-introduction-description-captive-portal = Browse with extra protection by hiding your location, even on public Wi-Fi.
@@ -122,12 +120,6 @@ ipprotection-site-inclusions-callout-description = Turn it on when you want extr
 ipprotection-site-inclusions-callout-primary-button = Set rules
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Not now
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Dismiss
-
-## Holiday Promotion Callout
-ipprotection-holiday-promo-title = Get unlimited VPN until January 30
-ipprotection-holiday-promo-description = Make your browsing private and harder to trace with built-in VPN.
-ipprotection-holiday-promo-primary-button = Open VPN
-ipprotection-holiday-promo-secondary-button = Dismiss
 
 ## Panel
 
@@ -302,11 +294,11 @@ ip-protection-site-exceptions-all-sites-button =
 ip-protection-site-rules-header-1 =
     .heading = Manage VPN rules
 ip-protection-site-rules-button-1 =
-    .label = Manage VPN rules
     .description = Set rules for sites that need extra privacy or VPN turned off.
+    .label = Manage VPN rules
 ip-protection-site-rules-list-section-1 =
-    .label = Website rules
     .description = Set rules to turn VPN on or off automatically.
+    .label = Website rules
 ip-protection-site-rules-add-button =
     .label = Set rule
 ip-protection-site-rules-delete-all-button =
@@ -319,13 +311,13 @@ ip-protection-site-rules-rule-excluded = VPN always off
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-site-rules-edit-button =
-    .title = Edit
     .aria-label = Edit the rule for { $website }
+    .title = Edit
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-site-rules-delete-button =
-    .title = Delete
     .aria-label = Delete the rule for { $website }
+    .title = Delete
 ip-protection-site-rules-header =
     .heading = Manage website rules
 ip-protection-site-rules-button =

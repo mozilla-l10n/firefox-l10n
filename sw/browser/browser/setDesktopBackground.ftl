@@ -11,7 +11,7 @@ open-desktop-prefs =
 set-desktop-background-downloading =
     .label = Inahifadhi Picha…
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = Eneo kazi Mandharinyuma
 set-background-color = Rangi:
 set-background-position = Mahali:

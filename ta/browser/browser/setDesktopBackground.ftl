@@ -11,7 +11,7 @@ open-desktop-prefs =
 set-desktop-background-downloading =
     .label = படத்தை சேமிக்கிறது…
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = மேசைக்கணினி Background
 set-background-color = நிறம்:
 set-background-position = நிலைப்பாடு:

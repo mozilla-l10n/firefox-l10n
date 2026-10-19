@@ -12,7 +12,7 @@ set-desktop-background-downloading =
     .label = బొమ్మను భద్రపరుచుచున్నది…
 set-background-preview-unavailable = మునుజూపు అందుబాటులో లేదు
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = డెస్కుటాపు  Background
 set-background-color = రంగు:
 set-background-position = స్థాయి:

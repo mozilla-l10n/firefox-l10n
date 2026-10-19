@@ -12,7 +12,7 @@ set-desktop-background-downloading =
     .label = Şəkil Saxlanılır…
 set-background-preview-unavailable = Ön baxış mümkün deyil
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = Masaüstü Arxa Fonu
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on

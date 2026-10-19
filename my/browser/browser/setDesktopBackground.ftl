@@ -11,7 +11,7 @@ open-desktop-prefs =
 set-desktop-background-downloading =
     .label = ရုပ်ပုံ သိမ်းဆည်းနေဆဲ…
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = စားပွဲတင် နောက်ခံ
 set-background-color = အရောင်-
 set-background-position = တည်နေရာ၊

@@ -52,9 +52,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = 打开 VPN
 ipprotection-feature-introduction-button-get-started = 开始使用
 
-## Callout shown when the user opens a private browsing window
-
-
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message

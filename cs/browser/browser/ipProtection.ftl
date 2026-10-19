@@ -337,6 +337,11 @@ ip-protection-learn-more = Zjistit více
 ip-protection-not-opted-in-4 =
     .heading = Vyzkoušejte vestavěnou síť VPN aplikace { -brand-short-name }
     .message = Procházejte internet s větší ochranou díky skrytí své polohy.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Jste připraveni vyzkoušet?
+    .message = Získejte { $maxUsage } GB zdarma každý měsíc a vyberte si, které stránky budou používat VPN.
 ip-protection-not-opted-in-button = Začít
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -349,6 +354,23 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } webových stránek
         }
     .label = Spravovat nastavení webových stránek
+ip-protection-site-rules-header-1 =
+    .heading = Spravovat pravidla VPN
+ip-protection-site-rules-button-1 =
+    .description = Nastavte pravidla pro stránky, které potřebují více soukromí či vypnutou VPN.
+    .label = Spravovat pravidla VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Nastavte pravidla pro automatické zapnutí nebo vypnutí VPN.
+    .label = Pravidla webových stránek
+ip-protection-site-rules-add-button =
+    .label = Nastavit pravidlo
+ip-protection-site-rules-delete-all-button =
+    .label = Smazat všechna pravidla
+ip-protection-site-rules-empty = Zde se zobrazí vámi nastavená pravidla.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN je vždy zapnutá
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN je vždy vypnutá
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-site-rules-edit-button =
@@ -396,6 +418,29 @@ ip-protection-site-rule-dialog =
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = Uložit
     .buttonaccesskeyaccept = U
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Zadejte stránku, a poté vyberte její stav VPN.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Webová stránka
+    .placeholder = např. acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = Stav sítě VPN
+ip-protection-site-rule-status-on =
+    .label = Vždy zapnutá
+ip-protection-site-rule-status-off =
+    .label = Vždy vypnutá
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Zadejte platnou adresu webové stránky.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Tato stránka již pravidlo má.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Chyba při vytváření pravidla. Zkuste to prosím znovu.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Smazat pravidlo pro { $website }?
 ip-protection-delete-site-rule-cancel =
     .label = Zrušit
 ip-protection-delete-site-rule-confirm =

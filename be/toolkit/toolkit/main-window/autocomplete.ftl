@@ -31,9 +31,21 @@ autocomplete-delete-password = Выдаліць гэты пароль
 autocomplete-edit-address = Змяніць гэты адрас
 # Tooltip for the trash button on an address row.
 autocomplete-delete-address = Выдаліць гэты адрас
+# Accessible name for the button. Names the address so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved address the button would delete.
+autocomplete-delete-address-entry = Выдаліць адрас { $entry }
 autocomplete-edit-payment-method = Змяніць гэты спосаб аплаты
 # Tooltip for the trash button on a payment method row.
 autocomplete-delete-payment-method = Выдаліць гэты спосаб аплаты
+# Accessible name for the button. Names the payment method so screen reader
+# users know which entry the button deletes.
+# Variables:
+#   $entry (String) - The saved payment method the button would delete.
+autocomplete-delete-payment-method-entry = Выдаліць спосаб аплаты { $entry }
+# Tooltip for the trash button on a form history entry.
+autocomplete-delete-entry = Выдаліць
 # aria-label for the trash button on a form history entry.
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
@@ -42,11 +54,22 @@ autocomplete-delete-form-history-entry2 = Выдаліць { $entry } з гіс
 # Variables:
 #   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
 autocomplete-more-actions2 = Больш дзеянняў для { $entry }
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = Дадатковыя налады
+# Accessible name for the button that opens the edit/delete menu. It names the
+# row so screen reader users know which entry the menu belongs to.
+# Variables:
+#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
+autocomplete-more-options-for-entry = Дадатковыя налады для { $entry }
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.
 
 autocomplete-remove-record-message = Вы не зможаце адмяніць гэта дзеянне.
+autocomplete-delete-record-button = Выдаліць
+autocomplete-delete-password-title = Выдаліць пароль?
+autocomplete-delete-address-title = Выдаліць адрас?
+autocomplete-delete-payment-method-title = Выдаліць спосаб аплаты?
 
 ## Device sign-in prompt shown before a password is removed from the autocomplete
 ## dropdown. The -win and -macosx variants are selected at runtime; other platforms

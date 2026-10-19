@@ -56,6 +56,12 @@ sidebar-history-sort-option-most-visited =
 # to import their browsing history from another browser.
 sidebar-history-import-promo =
     .message = Něco vám tu chybí? Importujte historii z jiného prohlížeče.
+sidebar-history-import-promo-button =
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Importovat do { -brand-short-name(case: "gen") }
+           *[no-cases] Importovat do aplikace { -brand-short-name }
+        }
 
 ## Labels for sidebar search
 

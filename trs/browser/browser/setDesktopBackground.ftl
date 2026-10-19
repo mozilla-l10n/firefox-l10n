@@ -12,7 +12,7 @@ set-desktop-background-downloading =
     .label = Na'nín sa'aj ña du'ua…
 set-background-preview-unavailable = Nitāj si huā sa gini'iājt
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = Riña si eskritorio
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on

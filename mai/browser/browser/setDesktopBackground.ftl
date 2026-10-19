@@ -11,7 +11,7 @@ open-desktop-prefs =
 set-desktop-background-downloading =
     .label = चित्र सहेज रहल अछि …
 # Name of the file that will be used as the desktop background. The
-# extension ".bmp" is added by the system.
+# extension ".png" is added by the browser.
 set-desktop-background-filename = डेस्कटाप पृष्ठभूमि
 set-background-color = रंग:
 set-background-position = स्थिति:

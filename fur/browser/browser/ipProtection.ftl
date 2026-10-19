@@ -52,9 +52,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Vierç VPN
 ipprotection-feature-introduction-button-get-started = Scomence
 
-## Callout shown when the user opens a private browsing window
-
-
 ## Summer promo offramp callout buttons
 
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Vierç VPN

@@ -3,13 +3,47 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Organize Tabs Toolbar Button
+
+smartwindow-organize-tabs-button =
+    .label = Uspořádání panelů
+    .tooltiptext = Uspořádání panelů
+
 ## Organize Tabs Panel
 ## The panel opened from the "Organize Tabs" toolbar button, which suggests
 ## groups for the window's open tabs and creates the ones the user picks.
 
+smartwindow-group-tabs-panel-heading = Uspořádání panelů
+# Shown while the on-device model clusters the open tabs into suggestions. It is
+# forming new groups from these tabs, not searching for tab groups that already
+# exist.
+smartwindow-group-tabs-loading = Hledání vhodných seskupení panelů…
+# Shown when clustering produced no group worth suggesting.
+smartwindow-group-tabs-empty = Momentálně není žádná skupina panelů k doporučení. Zkuste to znovu později.
+# Shown in place of suggestions when every group the model found has already
+# been created.
+smartwindow-group-tabs-all-sorted = Pěkná práce s uspořádáním vašich panelů
 # Creates every suggested group at once.
 smartwindow-group-tabs-create-all = Vytvořit všechny skupiny
 smartwindow-group-tabs-suggested-heading = Navrhované skupiny
+# Accessible name for the flyout that lists the tabs of one suggested group.
+# Activating a tab in the list switches to it.
+# Variables:
+#   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
+smartwindow-group-tabs-flyout-list =
+    .aria-label = Panely ve skupině { $groupLabel }
+# Accessible name for a suggested-group row. Activating the row creates the
+# group.
+# Variables:
+#   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
+#   $tabCount (Number) - Number of tabs the group would contain
+smartwindow-group-tabs-suggestion =
+    .aria-label =
+        { $tabCount ->
+            [one] Vytvořit skupinu { $groupLabel }, { $tabCount } panel
+            [few] Vytvořit skupinu { $groupLabel }, { $tabCount } panely
+           *[other] Vytvořit skupinu { $groupLabel }, { $tabCount } panelů
+        }
 # Heading for the list of groups the user just created (and can still undo).
 smartwindow-group-tabs-just-created-heading = Právě vytvořené
 # Action that dissolves every group in the "Just created" list. The tabs stay
@@ -22,3 +56,19 @@ smartwindow-group-tabs-view-tab-groups = Zobrazit skupiny panelů
 # Accessible name for the list of existing tab groups the row above opens.
 smartwindow-group-tabs-groups-list =
     .aria-label = Skupiny panelů
+# Action that closes this window's duplicate tabs, keeping the most recently
+# used tab of each set. Only shown when there are duplicates to close.
+# Variables:
+#   $tabCount (Number) - Number of duplicate tabs that activating it closes
+smartwindow-group-tabs-close-duplicates =
+    { $tabCount ->
+        [one] Zavřít { $tabCount } duplicitní panel
+        [few] Zavřít { $tabCount } duplicitní panely
+       *[other] Zavřít { $tabCount } duplicitních panelů
+    }
+# Accessible name for the list of duplicate tabs the row above would close,
+# one row per tab. Activating a tab in the list switches to it.
+# "Duplicate tabs" refers to tabs that are copies of each other; it is not a
+# verb telling the user to duplicate anything.
+smartwindow-group-tabs-duplicates-list =
+    .aria-label = Duplicitní panely pro zavření
