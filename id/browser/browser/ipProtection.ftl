@@ -51,14 +51,30 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Hapus VPN dari bilah alat
 ipprotection-feature-introduction-button-open-vpn = Buka VPN
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Buka VPN
 ipprotection-summer-promo-offramp-get-subscription-button = Dapatkan { -mozilla-vpn-brand-name }
 
+## Site settings callout
+
+
+## Location selection callout
+
+
+## VPN for Android promo callout
+
+
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Jangan sekarang
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Buka VPN
 
 ## Panel
 
@@ -66,6 +82,9 @@ ipprotection-site-inclusions-callout-secondary-button-existing-users = Jangan se
 site-rules-manage-rules-link-text = Kelola aturan VPN
 # Heading for user defined rules on VPN usage for particular websites
 site-rules-status-heading = Aturan Anda
+
+## Status card
+
 
 ## Location controls
 
@@ -85,6 +104,27 @@ upgrade-vpn-button = Coba { -mozilla-vpn-brand-name }
 ipprotection-connection-status-generic-error-description = Coba lagi dalam beberapa menit.
 ipprotection-connection-status-network-error-title-1 = Cek sambungan internet Anda
     .aria-label = Cek sambungan internet Anda
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
+## IP Protection Settings
+
+
+## IP Protection dialogs
+
+
+## IP Protection Bandwidth
+
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

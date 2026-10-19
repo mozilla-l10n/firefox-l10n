@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = Ezarri arauak
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Une honetan ez
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Baztertu
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Ireki VPNa
+ipprotection-holiday-promo-secondary-button = Baztertu
+
 ## Panel
 
 # Also used for the callout shown in private browsing

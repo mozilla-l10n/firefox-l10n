@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = Setează reguli
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nu acum
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Închide
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Deschide VPN-ul
+ipprotection-holiday-promo-secondary-button = Închide
+
 ## Panel
 
 # Also used for the callout shown in private browsing

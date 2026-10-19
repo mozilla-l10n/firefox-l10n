@@ -119,6 +119,11 @@ ipprotection-site-inclusions-callout-primary-button = Подеси правил�
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не сада
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Одбаци
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Отвори ВПН
+ipprotection-holiday-promo-secondary-button = Одбаци
+
 ## Panel
 
 # Also used for the callout shown in private browsing

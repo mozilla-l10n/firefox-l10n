@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = Ережелерді ор�
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Қазір емес
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Елемеу
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = VPN ашу
+ipprotection-holiday-promo-secondary-button = Елемеу
+
 ## Panel
 
 # Also used for the callout shown in private browsing

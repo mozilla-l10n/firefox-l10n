@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = ਨਿਯਮ ਬਣਾਓ
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ਹੁਣੇ ਨਹੀਂ
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ਖ਼ਾਰਜ ਕਰੋ
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = VPN ਨੂੰ ਖੋਲ੍ਹੋ
+ipprotection-holiday-promo-secondary-button = ਖ਼ਾਰਜ ਕਰੋ
+
 ## Panel
 
 # Also used for the callout shown in private browsing

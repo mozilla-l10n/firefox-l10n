@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = 규칙 설정
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 나중에
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 닫기
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = VPN 열기
+ipprotection-holiday-promo-secondary-button = 닫기
+
 ## Panel
 
 # Also used for the callout shown in private browsing

@@ -119,6 +119,11 @@ ipprotection-site-inclusions-callout-primary-button = Szabályok beállítása
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Most nem
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Eltüntetés
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = VPN megnyitása
+ipprotection-holiday-promo-secondary-button = Eltüntetés
+
 ## Panel
 
 # Also used for the callout shown in private browsing

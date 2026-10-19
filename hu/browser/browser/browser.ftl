@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Megosztás…
     .accesskey = o
+
+##
+
 urlbar-identity-button =
     .aria-label = Oldal adatainak megjelenítése
 
@@ -247,6 +250,12 @@ urlbar-star-add-bookmark =
 urlbar-split-view-button =
     .aria-label = Osztott nézet
     .tooltiptext = Osztott nézet
+
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = Beillesztés és ugrás
+    .accesskey = B
 
 ## Searchbar context menu
 
@@ -747,6 +756,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 urlbar-result-weather-provider-sponsored = { $provider } ∙ Szponzorálva
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Kérdezze meg
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1267,6 +1281,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1412,6 +1429,10 @@ reset-pbm-toolbar-button2 =
     .label = Privát munkamenet törlése
     .tooltiptext = Privát munkamenet törlése
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = A { -brand-short-name } megakadályozta, hogy az oldal automatikusan újratöltődjön.
@@ -1504,6 +1525,13 @@ file-picker-crashed-open = A Windows fájlválasztó párbeszédablaka összeoml
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = A Windows fájlválasztó párbeszédablaka összeomlott. A fájl ide lesz mentve: { $path }.
 file-picker-crashed-save-nowhere = A Windows fájlválasztó párbeszédablaka összeomlott. Nem található alapértelmezett mappa; a fájl nem lesz mentve.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Megjelenítés mappában
     .accessKey = m
@@ -1556,6 +1584,9 @@ trustpanel-blocker-see-all = Összes megjelenítése
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = A(z) { $host } követés elleni védelmei
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

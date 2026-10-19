@@ -37,6 +37,9 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = گۊشیڌن VPN
 ipprotection-feature-introduction-button-get-started = ناهاڌن پا کار
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -74,6 +77,11 @@ ipprotection-android-promo-callout-primary-button = فئمیم
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = سکو ن
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = رڌ کردن
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = گۊشیڌن VPN
+ipprotection-holiday-promo-secondary-button = رڌ کردن
 
 ## Panel
 
@@ -161,6 +169,12 @@ ipprotection-connection-status-blocked-error-title-1 = VPN من دسرس نؽ
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
 ipprotection-open-button = گۊشیڌن { -brand-product-name }
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = قلوه دووسته بۊین
@@ -201,6 +215,9 @@ ip-protection-bandwidth-header-1 = مئدۊدیت داده ماهانه
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = فئمیم
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

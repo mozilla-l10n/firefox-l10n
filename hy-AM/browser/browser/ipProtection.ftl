@@ -49,6 +49,9 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Բացել VPN-ը
 ipprotection-feature-introduction-button-get-started = Սկսել
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -102,6 +105,11 @@ ipprotection-android-promo-callout-primary-button = Հասկացա
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ոչ հիմա
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Բաց թողնել
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Բացել VPN-ը
+ipprotection-holiday-promo-secondary-button = Բաց թողնել
 
 ## Panel
 
@@ -329,6 +337,9 @@ ip-protection-bandwidth-header-1 = Ամսական տվյալների սահմա�
 ipprotection-bandwidth-reset-title = { $maxUsage } ԳԲ VPN, թարմացված և պատրաստ օգտագործման համար
 ipprotection-bandwidth-reset-text = Միացրեք VPN-ը՝ գաղտնիության լրացուցիչ բարձրացման համար, ամեն ամիս անվճար։
 ipprotection-bandwidth-reset-button = Հասկացա
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

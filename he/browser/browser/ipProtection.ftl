@@ -120,6 +120,11 @@ ipprotection-site-inclusions-callout-primary-button = הגדרת כללים
 ipprotection-site-inclusions-callout-secondary-button-existing-users = לא כעת
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = סגירה
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = פתיחת VPN
+ipprotection-holiday-promo-secondary-button = סגירה
+
 ## Panel
 
 # Also used for the callout shown in private browsing

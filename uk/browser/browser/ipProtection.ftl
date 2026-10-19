@@ -52,6 +52,9 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Відкрити VPN
 ipprotection-feature-introduction-button-get-started = Розпочати
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Відкрити VPN
@@ -79,6 +82,11 @@ ipprotection-android-promo-callout-primary-button = Зрозуміло
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не зараз
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Відхилити
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Відкрити VPN
+ipprotection-holiday-promo-secondary-button = Відхилити
 
 ## Panel
 

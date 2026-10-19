@@ -39,6 +39,9 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-open-vpn = Aberi sa VPN
 ipprotection-feature-introduction-button-get-started = Cumintza
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Aberi sa VPN
@@ -66,6 +69,11 @@ ipprotection-android-promo-callout-primary-button = Apo cumprèndidu
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Immoe nono
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Iscarta
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Aberi sa VPN
+ipprotection-holiday-promo-secondary-button = Iscarta
 
 ## Panel
 
@@ -135,6 +143,12 @@ ipprotection-open-button = Aberi { -brand-product-name }
 ipprotection-connection-status-generic-error-title-1 = Impossìbile connètere a sa VPN
     .aria-label = Impossìbile connètere a sa VPN
 
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-description =
@@ -157,9 +171,15 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exclusions-desc = Imprea sa VPN pro totu is sitos francu cussos de sa lista. Agiunghe unu situ inoghe o aberi sa VPN.
 
+## IP Protection Bandwidth
+
+
 ## IP Protection bandwidth reset callout
 
 ipprotection-bandwidth-reset-button = Apo cumprèndidu
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 

@@ -74,6 +74,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Sdílet…
     .accesskey = S
+
+##
+
 urlbar-identity-button =
     .aria-label = Zobrazit informace o stránce
 
@@ -258,6 +261,12 @@ urlbar-star-add-bookmark =
 urlbar-split-view-button =
     .aria-label = Rozdělené zobrazení
     .tooltiptext = Rozdělené zobrazení
+
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = Vložit a jít
+    .accesskey = V
 
 ## Searchbar context menu
 
@@ -815,6 +824,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorované
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Dotázat se
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1353,6 +1367,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1676,6 +1693,13 @@ file-picker-crashed-open = Souborový dialog systému Windows spadl. Nepodařilo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Souborový dialog systému Windows spadl. Soubor bude uložen do cesty { $path }.
 file-picker-crashed-save-nowhere = Souborový dialog systému Windows spadl. Nebyla nalezena žádná výchozí složka; soubor nebude uložen.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Zobrazit ve složce
     .accessKey = Z
@@ -1732,6 +1756,9 @@ trustpanel-blocker-see-all = Zobrazit vše
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ochrana proti sledování pro { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

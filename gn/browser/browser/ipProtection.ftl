@@ -51,6 +51,9 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Embojuruja VPN
 ipprotection-feature-introduction-button-get-started = Eñepyrũ
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -100,6 +103,11 @@ ipprotection-site-inclusions-callout-title-lapsed-users = Eiporu VPN juajupyre, 
 ipprotection-site-inclusions-callout-primary-button = Emoĩ mbojojaha
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ani ko’ág̃a
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Emboyke
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Embojuruja VPN
+ipprotection-holiday-promo-secondary-button = Emboyke
 
 ## Panel
 

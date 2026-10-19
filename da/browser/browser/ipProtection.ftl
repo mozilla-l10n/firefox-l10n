@@ -48,6 +48,9 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN fra værktøjslinjen
 ipprotection-feature-introduction-button-get-started = Kom i gang
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 ipprotection-summer-promo-offramp-get-subscription-button = Få { -mozilla-vpn-brand-name }
@@ -75,6 +78,10 @@ ipprotection-android-promo-callout-primary-button = Forstået
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ikke nu
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Afvis
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-secondary-button = Afvis
 
 ## Panel
 

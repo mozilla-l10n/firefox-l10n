@@ -52,6 +52,9 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Vierç VPN
 ipprotection-feature-introduction-button-get-started = Scomence
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Vierç VPN
@@ -79,6 +82,11 @@ ipprotection-android-promo-callout-primary-button = Capît
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = No cumò
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignore
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Vierç VPN
+ipprotection-holiday-promo-secondary-button = Ignore
 
 ## Panel
 

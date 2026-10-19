@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = 設定規則
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 現在不要
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 知道了！
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = 開啟 VPN
+ipprotection-holiday-promo-secondary-button = 知道了！
+
 ## Panel
 
 # Also used for the callout shown in private browsing

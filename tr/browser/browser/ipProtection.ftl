@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = Kuralları ayarlayın
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Şimdi değil
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Kapat
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = VPN’i aç
+ipprotection-holiday-promo-secondary-button = Kapat
+
 ## Panel
 
 # Also used for the callout shown in private browsing

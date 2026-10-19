@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = Ορισμός κανόν�
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Όχι τώρα
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Απόρριψη
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Άνοιγμα VPN
+ipprotection-holiday-promo-secondary-button = Απόρριψη
+
 ## Panel
 
 # Also used for the callout shown in private browsing

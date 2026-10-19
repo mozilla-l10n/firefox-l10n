@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = رولز سیٹ کرو
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ابھی نہیں
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = خارج کرو
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = VPN کھولو
+ipprotection-holiday-promo-secondary-button = خارج کرو
+
 ## Panel
 
 # Also used for the callout shown in private browsing

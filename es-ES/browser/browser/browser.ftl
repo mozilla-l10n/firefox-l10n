@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administrar la configuración de ventanas emergentes y redireccionamientos de terceros…
     .accesskey = A
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver información del sitio
 
@@ -198,6 +201,12 @@ urlbar-star-add-bookmark =
 urlbar-split-view-button =
     .aria-label = Vista dividida
     .tooltiptext = Vista dividida
+
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = Pegar e ir
+    .accesskey = P
 
 ## Searchbar context menu
 
@@ -686,6 +695,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1140,6 +1154,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1186,6 +1203,13 @@ restore-session-startup-suggestion-button = Mostrar cómo
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Su organización ha bloqueado el acceso a archivos locales en este equipo.
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1258,6 +1282,10 @@ reset-pbm-panel-complete = Se han eliminado los datos de la sesión privada
 reset-pbm-toolbar-button2 =
     .label = Borrar sesión privada
     .tooltiptext = Borrar sesión privada
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1351,6 +1379,13 @@ file-picker-crashed-open = El diálogo de archivos de Windows ha fallado. No se 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = El diálogo de archivos de Windows ha fallado. El archivo se guardará en { $path }.
 file-picker-crashed-save-nowhere = El diálogo de archivos de Windows ha fallado. No se ha podido encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostrar en la carpeta
     .accessKey = F
@@ -1403,6 +1438,9 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecciones contra el rastreo para { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

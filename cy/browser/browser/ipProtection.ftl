@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = Gosod rheolau
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nid nawr
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Cau
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Agor y VPN
+ipprotection-holiday-promo-secondary-button = Cau
+
 ## Panel
 
 # Also used for the callout shown in private browsing

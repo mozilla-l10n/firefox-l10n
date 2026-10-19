@@ -37,6 +37,12 @@ urlbar-web-rtc-share-devices-notification-anchor =
 urlbar-star-add-bookmark =
     .tooltiptext = Kãjãn naa ajte  ki'pwa'ja's ({ $shortcut })
 
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = Kne'tan u'hn
+    .accesskey = K
+
 ## Searchbar context menu
 
 
@@ -275,6 +281,13 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 
@@ -294,6 +307,10 @@ tabs-toolbar-list-all-tabs =
 
 
 ## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
 
 
 ## Autorefresh blocker

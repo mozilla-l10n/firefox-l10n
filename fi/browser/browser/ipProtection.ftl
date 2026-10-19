@@ -52,6 +52,9 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = Avaa VPN
 ipprotection-feature-introduction-button-get-started = Aloitetaan
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -105,6 +108,11 @@ ipprotection-android-promo-callout-primary-button = Selvä
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ei nyt
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Hylkää
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Avaa VPN
+ipprotection-holiday-promo-secondary-button = Hylkää
 
 ## Panel
 
