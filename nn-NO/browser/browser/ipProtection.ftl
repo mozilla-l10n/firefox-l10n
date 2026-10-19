@@ -119,6 +119,11 @@ ipprotection-site-inclusions-callout-primary-button = Fastset reglar
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ikkje no
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorer
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Opne VPN
+ipprotection-holiday-promo-secondary-button = Ignorer
+
 ## Panel
 
 # Also used for the callout shown in private browsing
