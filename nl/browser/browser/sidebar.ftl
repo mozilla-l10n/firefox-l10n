@@ -52,6 +52,8 @@ sidebar-history-sort-option-last-visited =
     .label = Laatst bezocht
 sidebar-history-sort-option-most-visited =
     .label = Meest bezocht
+sidebar-history-import-promo-button =
+    .label = Importeren in { -brand-short-name }
 
 ## Labels for sidebar search
 

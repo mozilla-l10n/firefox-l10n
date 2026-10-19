@@ -196,6 +196,10 @@ about-glean-store-submitted-pings-select-label = Ping:
 about-glean-store-submitted-pings =
     .description = Maakt opslaan van verzonden pings in geheugen mogelijk
     .label = Verzonden pings opslaan
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Clientinfo
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Ping-info
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

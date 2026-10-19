@@ -475,6 +475,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Afbeelding van de dag · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Foto van de dag
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Afbeelding van de dag: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -498,6 +502,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = Afbeelding van het dag-menu openen
     .title = Afbeelding van het dag-menu openen
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Deze afbeelding als achtergrond instellen
+    .label = Achtergrond instellen
+    .title = Achtergrond instellen
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -506,6 +517,10 @@ newtab-picture-set-wallpaper =
     .title = Achtergrond instellen
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Achtergrond beheren
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Deze afbeelding verbergen
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Afbeelding tonen
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Afbeelding van vandaag verbergen
@@ -513,6 +528,10 @@ newtab-picture-menu-hide-photo = Afbeelding van vandaag verbergen
 newtab-picture-menu-show-photo = Foto van vandaag tonen
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Meer info
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Afbeelding tonen
+    .title = Afbeelding tonen
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Foto van vandaag tonen
@@ -577,6 +596,9 @@ newtab-horoscopes-menu-learn-more = Meer info
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Reizen
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Meer info
 
@@ -888,6 +910,10 @@ newtab-custom-widget-search-toggle =
     .label = Zoeken
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoscopen
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Reizen
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
