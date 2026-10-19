@@ -38,6 +38,8 @@ ipprotection-feature-introduction-title-summer-promo = Плануеце пада
 ipprotection-feature-introduction-description-summer-promo = Атрымайце больш з убудаваным VPN ад { -brand-product-name }: больш месцаў, неабмежаваная прапускная здольнасць. Дзейнічае да 31 жніўня.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Скарыстайцеся нашым новым <a data-l10n-name="learn-more-vpn">убудаваным VPN</a>, каб схаваць сваё месцазнаходжанне і абараніць свае дадзеныя, нават калі вы ў рэжыме прыватнага аглядання.
 ipprotection-feature-introduction-description-private-browsing = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават калі вы ў прыватным акне.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Дапамажыце схаваць ваша месцазнаходжанне для <a data-l10n-name="learn-more-vpn">дадатковай прыватнасці</a> ў часе аглядання. Усталюйце правілы, каб уключыць VPN для дадатковай прыватнасці або аглядання ў залежнасці ад месцазнаходжання і выключаць яго там, дзе вы яго не ўключаеце.
 ipprotection-feature-introduction-title-captive-portal = У грамадскай сетцы Wi-Fi? Паспрабуйце ўбудаваны ў { -brand-product-name } VPN.
 ipprotection-feature-introduction-description-captive-portal = Аглядайце інтэрнэт з дадатковай аховай, хаваючы сваё месцазнаходжанне, нават ў агульнадаступнай сетцы Wi-Fi.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -110,7 +112,12 @@ ipprotection-android-promo-callout-primary-button = Зразумела
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Усталюйце правілы ўбудаванага VPN, а затым аглядайце далей
 ipprotection-site-inclusions-callout-title-lapsed-users = Паспрабуйце ўбудаваны VPN, каторы цяпер можна ўключаць або выключаць для асобных сайтаў
+ipprotection-site-inclusions-callout-description-1 = Уключайце VPN, калі вам патрэбна дадатковая прыватнасць або агляданне ў залежнасці ад месцазнаходжання, і выключайце, калі не.
+ipprotection-site-inclusions-callout-description = Уключайце, калі вам патрэбна дадатковая прыватнасць або агляданне ў залежнасці ад месцазнаходжання, і выключайце, калі не.
+ipprotection-site-inclusions-callout-primary-button = Усталяваць правілы
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не цяпер
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Адхіліць
 
@@ -139,6 +146,12 @@ site-rules-status-heading = Ваша правіла
 site-rules-description-exclusion = VPN для гэтага сайта выключаны
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN уключаны для гэтага сайта
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Заўсёды ўключаць VPN для { $website }?
+    .message = Абнаўляйце свае правілы ў любы час у наладах.
 ipprotection-settings-link =
     .label = Налады
 
@@ -263,6 +276,11 @@ ip-protection-learn-more = Падрабязней
 ip-protection-not-opted-in-4 =
     .heading = Паспрабуйце ўбудаваны ў { -brand-short-name } VPN
     .message = Аглядайце з дадатковай аховай, хаваючы сваё месцазнаходжанне.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Гатовыя паспрабаваць?
+    .message = Атрымлівайце бясплатна { $maxUsage } ГБ кожны месяц і выбірайце, якія сайты выкарыстоўваюць VPN.
 ip-protection-not-opted-in-button = Пачаць
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -274,6 +292,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[many] { $count } сайтаў
         }
     .label = Кіраваць наладамі сайтаў
+ip-protection-site-rules-header-1 =
+    .heading = Кіраванне правіламі VPN
+ip-protection-site-rules-button-1 =
+    .description = Усталюйце правілы для сайтаў, якім патрэбна дадатковая прыватнасць або адключаны VPN.
+    .label = Кіраванне правіламі VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Усталюйце правілы для аўтаматычнага ўключэння або выключэння VPN.
+    .label = Правілы сайтаў
+ip-protection-site-rules-add-button =
+    .label = Усталяваць правіла
+ip-protection-site-rules-delete-all-button =
+    .label = Выдаліць усе правілы
+ip-protection-site-rules-empty = Правілы, якія вы ўсталюеце, будуць адлюстроўвацца тут.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN заўсёды ўключаны
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN заўсёды выключаны
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Рэдагаваць правіла для { $website }
+    .title = Змяніць
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Выдаліць правіла для { $website }
+    .title = Выдаліць
 ip-protection-site-rules-header =
     .heading = Кіраванне правіламі сайтаў
 ip-protection-site-rules-button =
@@ -297,6 +342,10 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Кіраваць наладамі сайтаў
 ip-protection-exclusions-desc = Ужываць VPN для ўсіх сайтаў, акрамя тых, што ў гэтым спісе. Дадайце вэб-сайт тут або адкрыўшы VPN.
+ip-protection-site-rule-window =
+    .title = Усталяваць правіла
+ip-protection-edit-site-rule-window =
+    .title = Змяніць правіла
 
 ## IP Protection Bandwidth
 
