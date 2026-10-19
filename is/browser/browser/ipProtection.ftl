@@ -31,6 +31,9 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-open-vpn = Opna VPN
 ipprotection-feature-introduction-button-get-started = Hefjast handa
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 ipprotection-summer-promo-offramp-open-vpn-primary-button = Opna VPN
@@ -56,6 +59,11 @@ ipprotection-android-promo-callout-primary-button = Náði því
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ekki núna
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Afgreiða
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Opna VPN
+ipprotection-holiday-promo-secondary-button = Afgreiða
 
 ## Panel
 
@@ -114,6 +122,15 @@ ipprotection-connection-status-paused-description-1 = Þú hefur notað öll { $
 ipprotection-connection-status-paused-title-2 = VPN er í biðstöðu
     .aria-label = VPN er í biðstöðu
 
+## Messages and errors
+
+
+## IP Protection bandwidth callouts
+
+
+## IP Protection bandwidth warning infobar
+
+
 ## IP Protection Settings
 
 ip-protection-learn-more = Frekari upplýsingar
@@ -144,6 +161,12 @@ ip-protection-exceptions-dialog-window =
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-hit-for-the-month = Þú hefur notað öll { $maxUsage } GB af VPN-gögnunum þínum. Aðgangur endurstillist í næsta mánuði.
+
+## IP Protection bandwidth reset callout
+
+
+## IP Protection add-on breakage warnings
+
 
 ## IP Protection alerts
 
