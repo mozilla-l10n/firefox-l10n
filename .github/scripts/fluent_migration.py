@@ -15,9 +15,9 @@ Subcommands (run as separate workflow steps):
   create-prs   Open a PR in firefox-l10n with the migrated translations (if
                any), and a PR in fluent-migrations moving the recipes
 
-Configuration is read once from environment variables set in the workflow,
-see the variables below. create-prs also needs GH_TOKEN, which is read
-directly by gh.
+The workflow inputs are read from the FIREFOX_VERSION and SOURCE_BRANCH
+environment variables. create-prs also needs GH_TOKEN, which is read directly
+by gh.
 """
 
 import argparse
@@ -36,16 +36,16 @@ def env(name: str) -> str:
 
 
 # Repositories
-L10N_REPO = env("GITHUB_REPOSITORY")
-FM_REPO = env("FM_REPO")
-SOURCE_REPO = env("SOURCE_REPO")
+L10N_REPO = "mozilla-l10n/firefox-l10n"
+FM_REPO = "mozilla-l10n/fluent-migrations"
+SOURCE_REPO = "mozilla-l10n/firefox-l10n-source"
 # Local clones
-L10N_PATH = Path(env("L10N_PATH")).resolve()
-FM_PATH = Path(env("FM_PATH")).resolve()
-SOURCE_PATH = Path(env("SOURCE_PATH")).resolve()
+L10N_PATH = Path("firefox-l10n").resolve()
+FM_PATH = Path("fluent-migrations").resolve()
+SOURCE_PATH = Path("firefox-l10n-source").resolve()
 # Branches
-L10N_BRANCH = env("BRANCH_NAME")
-FM_BRANCH = env("FM_BRANCH_NAME")
+L10N_BRANCH = "update-migration"
+FM_BRANCH = f"move-recipes-{env('GITHUB_RUN_ID')}"
 SOURCE_BRANCH = env("SOURCE_BRANCH")
 # Files for GitHub Actions
 STEP_OUTPUTS_FILE = env("GITHUB_OUTPUT")
@@ -53,12 +53,11 @@ JOB_SUMMARY_FILE = env("GITHUB_STEP_SUMMARY")
 
 # Firefox version manually input when triggering workflow
 FIREFOX_VERSION = env("FIREFOX_VERSION")
-if not (FIREFOX_VERSION.isascii() and FIREFOX_VERSION.isdigit()):
+if not FIREFOX_VERSION.isdecimal() or int(FIREFOX_VERSION) == 0:
     sys.exit(
-        f"::error::Firefox version must be a whole number, got '{FIREFOX_VERSION}'"
+        f"::error::Firefox version must be a positive whole number, got '{FIREFOX_VERSION}'"
     )
-if int(FIREFOX_VERSION) == 0:
-    sys.exit("::error::Firefox version must be greater than 0")
+
 TARGET_FOLDER = f"fx{int(FIREFOX_VERSION)}"
 
 
