@@ -246,6 +246,12 @@ urlbar-split-view-button =
     .tooltiptext = 分割ビュー
     .aria-label = 分割ビュー
 
+## URLbar context menu
+
+urlbar-menuitem-paste-and-go =
+    .label = 貼り付けて移動
+    .accesskey = G
+
 ## Searchbar context menu
 
 clear-search-history =
@@ -361,9 +367,9 @@ quickactions-cmd-inspector2 = inspector, devtools, dev tools
 # Opens the devtools eyedropper to pick a color from the page
 quickactions-colorpicker = Pick a color
 quickactions-cmd-colorpicker = color picker, eyedropper, pick color
+quickactions-cmd-library = library
 # Opens Firefox Library
 quickactions-library = ライブラリーを開く
-quickactions-cmd-library = library
 # Opens about:logins
 quickactions-logins2 = パスワードを管理
 quickactions-cmd-logins = logins, passwords
