@@ -603,6 +603,20 @@ newtab-travel-widget-open-menu-button =
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Ulteriori informazioni
 
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitario
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Apri menu per il widget Solitario
+    .title = Apri menu per il widget Solitario
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Ulteriori informazioni
+
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
 
@@ -915,6 +929,11 @@ newtab-custom-widget-horoscopes-toggle =
 # and car rentals.
 newtab-custom-widget-travel-toggle =
     .label = Viaggi
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitario
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget
