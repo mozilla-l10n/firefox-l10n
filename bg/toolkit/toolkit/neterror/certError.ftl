@@ -75,12 +75,20 @@ fp-certerror-bad-domain-why-dangerous-body = Сайтът е настроен д
 fp-certerror-bad-domain-what-can-you-do-body = По-скоро нищо, тъй като вероятно има проблем със самия сайт. Сайтовете използват сертификати, издадени от удостоверител на сертификати, за да докажат, че наистина са тези, за които се представят. Но ако сте във ведомствена мрежа, вашият екип за поддръжка може да има повече информация. Ако използвате антивирусен софтуер, опитайте да потърсите за потенциални конфликти или известни проблеми.
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 fp-certerror-unknown-issuer-why-dangerous-body = Има проблем със сертификата на сайта. Възможно е злонамерено лице да се опитва да имитира сайта. Сайтовете използват сертификати, издадени от удостоверител на сертификати, за да докажат, че наистина са тези, за които се представят. { -brand-short-name } не се доверява на този сайт, защото не можем да определим кой е издал сертификата, дали е самоподписан или дали сайтът не изпраща междинни сертификати, на които може да се има доверие.
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-self-signed-why-dangerous-body = Защото има проблем със сертификата на сайта. Сайтовете използват сертификати, издадени от удостоверител на сертификатите, за да докажат, че наистина са тези, за които се представят. Сертификатът на този сайт е самоподписан. Не е издаден от признат удостоверител на сертификати, затова не му се доверяваме по подразбиране.
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = Не много. Вероятно има проблем със самия сайт.
 fp-certerror-self-signed-important-note = ВАЖНА ЗАБЕЛЕЖКА: Ако се опитвате да посетите този сайт през служебна интранет мрежа, вашият ИТ персонал може да използва самоподписани сертификати. Те могат да ви помогнат да проверите тяхната автентичност.
 # Variables:
 #   $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 fp-cert-error-code = Код на грешка: { $error }
+# Variables:
+#   $datetime (Date) - Current datetime.
+fp-datetime = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") } { DATETIME($datetime, timeStyle: "long") }
+fp-learn-more-about-secure-connection-failures = Научете повече за провалите в защитената връзка
+fp-learn-more-about-cert-issues = Научете повече за този вид проблеми със сертификатите
+fp-learn-more-about-time-related-errors = Научете повече за отстраняването на неизправности, свързани с часовника
 
 ## Variables:
 ##   $hostname (string) - Hostname of the website with cert error.
@@ -134,5 +142,5 @@ fp-certerror-body-title = Бъдете внимателни. Нещо не из�
 fp-certerror-why-site-dangerous = Какво прави сайтът да изглежда опасен?
 fp-certerror-what-can-you-do = Какво можете да направите?
 fp-certerror-advanced-title = Разширени
-fp-certerror-advanced-button = Разширени
+fp-certerror-advanced-button = Допълнителни
 fp-certerror-hide-advanced-button = Скриване на разширените настройки
