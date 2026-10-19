@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Blokowanie nowych próśb o dostęp do urządzeń rzeczywistości wirtualnej
 permissions-site-xr-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o dostęp do urządzeń rzeczywistości wirtualnej. Zablokowanie dostępu do urządzeń rzeczywistości wirtualnej może spowodować, że niektóre funkcje witryny nie będą działać.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Odnośniki w aplikacjach — witryny bez zezwolenia
+permissions-site-app-links-desc = Te witryny nie mogą prosić o otwieranie odnośników w aplikacjach, na przykład odnośników do poczty e-mail (mailto:). Usuń witrynę z listy, aby jej na to zezwolić.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
