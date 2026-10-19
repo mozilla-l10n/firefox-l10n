@@ -356,6 +356,10 @@ ip-protection-delete-site-rule-confirm =
     .label = Slett
 ip-protection-delete-all-site-rules-confirm =
     .label = Slett alle reglar
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Klarte ikkje å slette regelen
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Klarte ikkje å slette reglane
 ip-protection-delete-site-rule-retry =
     .label = Prøv igjen
 
