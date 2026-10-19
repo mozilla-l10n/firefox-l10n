@@ -32,6 +32,7 @@
 -solo-ai-brand-name = Solo
 -thunderbird-brand-name = Mozilla Thunderbird
 -thunderbird-brand-short-name = Thunderbird
+-mdn-brand-name = MDN Web Docs
 -yelp-brand-name = Yelp
 
 ##
@@ -54,3 +55,8 @@
 # The "Labs" portion can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxlabs-brand-name = Firefox Labs
+-smart-window-brand-name =
+    { $plural-form ->
+        [true] سمارٹ ونڈوز
+       *[false] سمارٹ ونڈو
+    }

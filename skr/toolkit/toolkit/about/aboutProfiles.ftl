@@ -27,6 +27,7 @@ profiles-rootdir = روٹ ڈائریکٹری
 profiles-localdir = مقامی ڈائریکٹری
 profiles-current-profile = یہ پروفائل زیر استعمال ہے تے اینکوں حذف نہیں کیتا ونڄ سڳدا۔
 profiles-in-use-profile = ایہ پروفائل کہیں ٻئی ایپلی کیشن وِچ زیر استعمال ہے تے اینکوں حذف نہیں کیتا ونڄ سڳدا
+profiles-cannot-delete-profile = او پروفائل مٹایا نئیں ونج سڳدا جیہڑا ٻئے پروفائلز نال جُڑیا ہووے۔
 profiles-rename = ناں وٹاؤ
 profiles-remove = ہٹاؤ
 profiles-set-as-default = پہلوں مقرر پروفائل دے طور تے سیٹ کرو

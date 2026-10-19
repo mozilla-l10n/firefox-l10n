@@ -502,6 +502,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = اڄ دی تصویر دا مینیو کھولو۔
     .title = اڄ دی تصویر دا مینیو کھولو۔
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = ایہ تصویر تہاݙا وال پیپر بݨاؤ
+    .label = وال پیپر لاؤ
+    .title = وال پیپر لاؤ
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

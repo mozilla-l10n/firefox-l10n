@@ -36,6 +36,11 @@ about-processes-profile-process =
 about-processes-column-name = ناں
 about-processes-column-memory-resident = میموری
 about-processes-column-cpu-total = CPU
+# Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
+about-processes-column-cpu-total-tab = CPU
+    .title = ساریاں کوراں تے CPU دی کل صلاحیت دا فیصد
+# Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
+about-processes-column-memory-resident-tab = RAM
 
 ## Process names
 ## Variables:
@@ -67,7 +72,15 @@ about-processes-unknown-process = ٻئے: { $type } ({ $pid })
 
 about-processes-web-isolated-property-private = نجی
 about-processes-web-isolated-property-serviceworker = خدمت دے کارکناں
+about-processes-web-isolated-property-jit-disabled = JIT بند
 about-processes-web-isolated-property-with-coop-coep = کراس-اوریجن آئسولیٹڈ
+
+## Isolated process names
+## Variables:
+##    $origin (String) The domain name for this process.
+##    $properties (String) A formatted list of properties from the above strings.
+
+about-processes-web-isolated-process2 = { $origin } ({ $properties })
 
 ## Details within processes
 
@@ -108,6 +121,14 @@ about-processes-thread-name-and-id = { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = ٹیب: { $name }
 about-processes-preloaded-tab = پہلے کنوں لوڈ تھیا نواں ٹیب
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [one] { $count } ٹیب
+       *[other] { $count } ٹیب
+    }
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
@@ -129,6 +150,8 @@ about-processes-utility-actor-mf-media-engine = ونڈوز میڈیا فاؤنڈ
 about-processes-utility-actor-js-oracle = JavaScript اوریکل
 about-processes-utility-actor-windows-utils = ونڈوز افادیت
 about-processes-utility-actor-windows-file-dialog = ونڈوز فائل ڈائیلاگ
+about-processes-utility-actor-pkcs11-module = سیکیورٹی ماڈیول ہیلپر
+about-processes-utility-actor-hw-inference = ہارڈویئر ایکسلریٹڈ انفرنس
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -151,6 +174,14 @@ about-processes-cpu-almost-idle = < 0.1%
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = idle
     .title = کل CPU وقت: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+# A tab's share of total CPU capacity across all cores. Unlike about-processes-cpu, no tooltip.
+# Variables:
+#    $percent (Number) Always >= 0, and never above 1.
+about-processes-tab-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
+# Special case: a tab is currently idle.
+about-processes-tab-cpu-fully-idle = بیکار
+# Special case: a tab's CPU share rounds to less than 0.1% of total capacity.
+about-processes-tab-cpu-almost-idle = < 0.1%>
 
 ## Displaying Memory (total and delta)
 ## Variables:

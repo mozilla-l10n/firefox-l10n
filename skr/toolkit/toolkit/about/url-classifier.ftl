@@ -14,6 +14,7 @@ url-classifier-search-result-list = جدولاں دی فہرست: { $list }
 url-classifier-search-input = یوآرایل
 url-classifier-search-error-invalid-url = غلط یوآرایل
 url-classifier-search-error-no-features = کوئی خصوصیات منتخب نہیں کیتیاں ڳئیاں
+url-classifier-search-error-no-results = URL کیتے کوئی اندراج نئیں لٻھے
 url-classifier-search-btn = ڳول شروع کرو
 url-classifier-search-features = خاص
 url-classifier-search-listType = تندیر قسم
@@ -36,6 +37,73 @@ url-classifier-cache-prefix = سابقہ
 url-classifier-cache-ncache-expiry = منفی کیشے اختتام
 url-classifier-cache-fullhash = مکمل ہیش
 url-classifier-cache-pcache-expiry = مثبت کیشے اختتام
+url-classifier-content-classifier-title = متن درجہ بندی کنندہ
+# URL of the resource being tested, i.e. the thing that would be loaded
+# (e.g. an image, script, or tracking pixel).
+url-classifier-content-classifier-url = یوآرایل
+# URL that loads the URL being tested (hence Loading URL)
+# This is the URL of a frame within the document that initiates the request to load another URL
+# (e.g. an iframe that is loading a tracking pixel)
+url-classifier-content-classifier-loading-url = یوآرایل لوڈ تھیندا پئے
+# Checkbox label to enable a Loading URL.
+# When on, the developer can type a "Loading URL"; when off, no loading URL is sent.
+url-classifier-content-classifier-loading-url-enabled = لوڈ تھیندا پئے یوآرایل فعال کرو
+# URL of the topmost window (https://developer.mozilla.org/en-US/docs/Web/API/Window/top)
+# Most often the site URL show in the address bar.
+url-classifier-content-classifier-top-window-url = اوپر آلی ونڈو دا یوآرایل
+# Checkbox label to enable a Top-window URL.
+# When on, the developer can type a "Top-window URL"; when off, no top-window URL is sent.
+url-classifier-content-classifier-top-window-url-enabled = اوپر آلی ونڈو دا یوآرایل فعال کرو
+# Label for a dropdown choosing what type of resource is at the destination (the destination type),
+# such as script, image, stylesheet, etc.
+url-classifier-content-classifier-destination-type = منزل دی قسم
+# Header for a group of on/off options (the checkboxes below) that modify how
+# the hypothetical request is classified.
+url-classifier-content-classifier-flags = جھنڈے
+# Header for the group of buttons that run a classification test. A "probe" here
+# means running the classifier once and reporting what it would do.
+url-classifier-content-classifier-probes = پرکھیاں
+# Header for the area that shows the outcome of a probe.
+url-classifier-content-classifier-results = نتیجے
+url-classifier-content-classifier-pbm = نجی براوزنگ
+# Checkbox: force the request to be treated as third-party relative to the
+# top-level page, regardless of the URLs entered above.
+url-classifier-content-classifier-force-third-party = تیسری پارٹی کوں اوپر آلے فریم تے مجبور کرو
+# Checkbox: classify the request as if it originated from an add-on that is not
+# on Mozilla's recommended list.
+url-classifier-content-classifier-non-recommended-addon = غیر تجویز کردہ ایڈ آن
+# Button: run the probe that reports whether the request would be blocked.
+url-classifier-content-classifier-probe-blocking-btn = پرکھ روکݨ
+# Button: run the probe that reports whether the request would be annotated
+# (labeled) as tracking without being blocked.
+url-classifier-content-classifier-probe-annotate-btn = پرکھ نشان ݙیݨ
+# Button: run the probe against a single classifier feature chosen in the
+# adjacent dropdown.
+url-classifier-content-classifier-probe-feature-btn = پرکھ خصوصیت
+# Label for an expandable area showing the detailed per-feature output from the
+# classification engine.
+url-classifier-content-classifier-engine-details = انجن دی تفصیل
+# Column header: the name of the classifier feature that produced the row.
+url-classifier-content-classifier-col-feature = خصوصیت
+# Column header: whether the request matched this feature (true/false).
+url-classifier-content-classifier-col-matched = مشابہت تھی ڳئی
+# Column header: whether this feature matched an exception/allow-list entry that
+# spares the request (true/false).
+url-classifier-content-classifier-col-exception = استثناء
+# Column header: the raw result code returned by the engine for this feature.
+url-classifier-content-classifier-col-engine-result = انجن دا نتیجہ
+# Overall verdict shown when the request would be acted on (blocked or
+# annotated): the classifier matched.
+url-classifier-content-classifier-verdict-hit = مل ڳیا
+# Overall verdict shown when the request is spared because it matched an
+# exception rule.
+url-classifier-content-classifier-verdict-exception = استثناء
+# Overall verdict shown when the classifier did not match the request at all.
+url-classifier-content-classifier-verdict-miss = نہ ملیا
+# Overall verdict shown when the probe could not run because of an error.
+# Variables:
+#   $code (string) - XPCOM error name (e.g. "NS_ERROR_MALFORMED_URI") for the failure that produced this verdict.
+url-classifier-content-classifier-verdict-error-with-code = خرابی ({ $code })
 url-classifier-debug-title = ڈیبگ
 url-classifier-debug-module-btn = لاگ ماڈیولز سیٹ کرو
 url-classifier-debug-file-btn = لاگ فائل سیٹ کرو

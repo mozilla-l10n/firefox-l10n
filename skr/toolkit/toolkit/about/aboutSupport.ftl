@@ -18,6 +18,10 @@ support-addons-type = قسم
 support-addons-enabled = فعال تھیا
 support-addons-version = ورشن
 support-addons-id = آئی ڈی
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = مقام
 legacy-user-stylesheets-title = لیگیسی صارف سٹائل شیٹاں
 legacy-user-stylesheets-enabled = فعال
 legacy-user-stylesheets-stylesheet-types = سٹائل شیٹاں
@@ -124,11 +128,25 @@ place-database-stats-efficiency-perc = کاکردگی (%)
 place-database-stats-sequentiality-perc = تسلسل (%)
 place-database-integrity = سالمیت
 place-database-verify-integrity = سالمیت دی تصدیق کرو۔
+place-database-last-idle-maintenance-data = آخری آئیڈل مینٹیننس دی تاریخ
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = آخری ویکیوم دی تاریخ
+place-database-last-integrity-corruption-date = آخری سالمیت خرابی دی تاریخ
 a11y-title = رسائیت
 a11y-activated = فعال تھیا
 a11y-force-disabled = رسائی کوں روکو۔
 a11y-handler-used = قابل رسائی ہینڈلر استعمال کیتا ڳیا ہے۔
 a11y-instantiator = ایکسیسبیلٹی انسٹیٹیئٹر
+pdfjs-title = پی ڈی ایف ویور
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = PDF.js ورژن
+pdfjs-enabled = فعال تھیا
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = اینوٹیشن ایڈیٹر فعال تھیا
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = XFA فارمز فعال تھیا
+pdfjs-open-attachments-inline = پی ڈی ایف منسلکات ان لائن کھولو
 library-version-title = لائبریری ورشن
 copy-text-to-clipboard-label = متن کوں کلپ بورڈ تے نقل کرو
 copy-raw-data-to-clipboard-label = خام ڈیٹا کوں کلپ بورڈ وِچ کاپی کرو۔
@@ -176,6 +194,8 @@ media-capabilities-enumerate = ڈیٹا بیس دی ڳݨتری کرو۔
 
 media-codec-support-sw-decoding = سافٹویئر ڈی کوڈنگ
 media-codec-support-hw-decoding = ہارڈویئر ڈی کوڈنگ
+media-codec-support-sw-encoding = سافٹ ویئر انکوڈنگ
+media-codec-support-hw-encoding = ہارڈ ویئر انکوڈنگ
 media-codec-support-codec-name = کوڈک ناں
 media-codec-support-supported = سہارا تھیا
 media-codec-support-unsupported = سہارا تھیا کائنی
@@ -336,6 +356,9 @@ has-seccomp-bpf = Seccomp-BPF (سسٹم کال فلٹرنگ)
 has-seccomp-tsync = Seccomp تھریڈ سنکرونائزیشن
 has-user-namespaces = صارف دے ناں دیاں جاہیں۔
 has-privileged-user-namespaces = مراعات یافتہ عمل کیتے صارف دے ناں دیاں جاہیں
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — ایہ خصوصیت تہاݙے سسٹم دی طرفوں اجازت نئیں ݙتی ڳئی۔ ایہ { -brand-short-name } دیاں سیکیورٹی خصوصیات کوں محدود کر سڳدی ہے۔
 can-sandbox-content = مواد دا عمل سینڈ باکسنگ
 can-sandbox-media = میڈیا پلگ ان سینڈ باکسنگ
 content-sandbox-level = مواد دا عمل سینڈ باکس دی سطح

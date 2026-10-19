@@ -92,3 +92,5 @@ about-reader-text-alignment-center =
     .title = عبارت آدھل وچ سیدھ کرو
 about-reader-text-alignment-right =
     .title = عبارت کھٻے پاسوں سیدھ کرو
+about-reader-text-alignment-justify =
+    .title = متن برابر کرو

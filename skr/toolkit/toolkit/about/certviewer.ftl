@@ -37,10 +37,16 @@ certificate-viewer-inc-locality = Inc. مقامیت
 certificate-viewer-locality = مقامیت
 certificate-viewer-location = مقام
 # Log is a noun meaning a record of events.
+certificate-viewer-log-name = لاگ دا ناں
+# Log is a noun meaning a record of events.
 certificate-viewer-logid = لاگ آئی ڈی
 certificate-viewer-method = طریقہ
 certificate-viewer-modulus = ماڈیولس
 certificate-viewer-name = ناں
+certificate-viewer-surname = سری نام
+# See https://datatracker.ietf.org/doc/html/rfc4519#section-2.12
+# Contains name strings that are the part of a person's name that is not their surname.
+certificate-viewer-given-name = ڈتا ڳیا ناں
 certificate-viewer-not-after = دے بعد کائنی
 certificate-viewer-not-before = پہلے کائنی
 certificate-viewer-organization = تنظیم
@@ -111,6 +117,8 @@ certificate-viewer-export = برآمد کرو
 
 # Label for a tab where we haven't found a better label:
 certificate-viewer-unknown-group-label = (اݨ ڄاتا)
+# Name for a file where we haven't found a better name:
+certificate-viewer-unknown-file-name = تصدیق ناں
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
