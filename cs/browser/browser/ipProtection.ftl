@@ -55,6 +55,8 @@ ipprotection-feature-introduction-description-summer-promo =
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Pomozte skrýt svou polohu při prohlížení. Nastavte pravidla, kde se má VPN zapnout kvůli <a data-l10n-name="learn-more-vpn">většímu soukromí</a> nebo prohlížení podle polohy a kde má zůstat vypnutá.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Pomozte skrýt svou polohu a získejte <a data-l10n-name="learn-more-vpn">zvlášť soukromí</a> během prohlížení. Nastavte si pravidla pro zapnutí VPN pro zvýšení soukromí nebo prohlížení podle polohy a vypnutí tam, kde nechcete.
 ipprotection-feature-introduction-title-captive-portal =
     { -brand-product-name.case-status ->
@@ -151,6 +153,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zavřít
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Získejte neomezenou VPN do 30. ledna
+ipprotection-holiday-promo-description = Procházejte web v soukromí a omezte možnost sledování díky integrované VPN.
 ipprotection-holiday-promo-primary-button = Otevřít VPN
 ipprotection-holiday-promo-secondary-button = Zavřít
 
@@ -208,6 +212,8 @@ ipprotection-button-turn-vpn-off = Vypnout VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Vypnout VPN všude
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Zapnout
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Zapnout VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Zapíná se…
@@ -219,6 +225,8 @@ ipprotection-connection-status-excluded-1 = VPN je pro tuto stránku vypnutá
     .aria-label = VPN je pro tuto stránku vypnutá
 ipprotection-connection-status-connecting-1 = VPN se připojuje…
     .aria-label = VPN se připojuje…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Vypnout
 
 ## Location controls
 

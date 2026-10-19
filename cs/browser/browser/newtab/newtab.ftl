@@ -387,6 +387,11 @@ newtab-privacy-message-first-protection-cta = Zobrazit ochrany
 newtab-stocks-menu-learn-more = Zjistit více
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Burzové údaje nejsou k dispozici.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Otevře nabídku finance
+    .title = Otevřít nabídku finance
 # "Stocks widget options" is an icon-only button in the widget toolbar — the
 # attributes are consumed as tooltip/screen-reader label only. The button
 # never renders visible text.
@@ -515,6 +520,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Obrázek dne · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Obrázek dne
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Obrázek dne: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -553,6 +562,8 @@ newtab-picture-set-wallpaper =
     .title = Nastavit tapetu
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Nastavení tapety
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Skrýt tento obrázek
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Skrýt dnešní obrázek

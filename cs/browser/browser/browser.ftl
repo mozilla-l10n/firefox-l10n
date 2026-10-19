@@ -1522,6 +1522,10 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-toolbar-button =
+    .label = Smazat některé nebo všechny údaje o prohlížení
+    .tooltiptext = Smaže některé nebo všechny údaje o prohlížení
+fire-button-panel-heading = Smazat všechna data prohlížení?
 fire-button-panel-description = Tímto smažete historii, cookies a údaje stránek. Z webů budete odhlášeni. Toto okno se zavře a { -brand-short-name } otevře nové.
 fire-button-panel-choose-description = Pokud nechcete smazat vše, vyberte místo toho jen konkrétní data.
 # Opens the "Delete browsing data" dialog, where the user picks

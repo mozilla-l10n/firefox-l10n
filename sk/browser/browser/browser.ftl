@@ -256,6 +256,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Prilepiť a prejsť
     .accesskey = P
+urlbar-menuitem-paste-and-search =
+    .label = Prilepiť a vyhľadať
+    .accesskey = P
 
 ## Searchbar context menu
 

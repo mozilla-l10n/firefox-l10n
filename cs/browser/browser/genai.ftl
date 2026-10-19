@@ -17,6 +17,7 @@ genai-settings-chat-localhost-links =
         [with-cases] Přiveďte svého vlastního soukromého místního chatbota jako je například <a data-l10n-name="link1">llamafile</a> ze skupiny inovací od { -vendor-short-name(case: "gen") }.
        *[no-cases] Přiveďte svého vlastního soukromého místního chatbota jako je například <a data-l10n-name="link1">llamafile</a> ze skupiny inovací organizace { -vendor-short-name }.
     }
+genai-settings-chat-scout-links = Volbou Yahoo Scout souhlasíte s <a data-l10n-name="link1">podmínkami služby</a> a <a data-l10n-name="link2">zásadami ochrany osobních údajů</a> Yahoo.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -28,6 +29,9 @@ genai-settings-chat-localhost-links =
 genai-prompts-summarize =
     .label = Shrnutí
     .value = Označený text shrň přesným a stručným jazykem. Ve shrnutí použij záhlaví a seznamy s odrážkami, aby se dalo snadno přečíst. Zachovej význam a věcnou správnost.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Stručně a přesně shrň webovou stránku na adrese { $url }. Pro lepší přehlednost použij nadpisy a odrážkové seznamy. Zachovej původní význam a věcnou správnost.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Zjednodušení jazyka
@@ -193,6 +197,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Používejte AI chatbota bez přepínání panelů
@@ -261,6 +267,14 @@ link-preview-settings-key-points =
     .label = Povolit umělé inteligenci přečíst začátek stránky a vygenerovat výčet hlavních myšlenek
 link-preview-settings-long-press =
     .label = Zkratka: Klepněte na odkaz a ponechte tlačítko myši stisknuté 1 sekundu (dlouhý stisk)
+highlight-to-search-settings-enable =
+    .description = Získejte rychlý přístup k užitečným akcím při výběru obsahu.
+    .label = Při označení textu zobrazit nabídku akcí
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Zeptat se { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Zeptat se AI
 # Checkbox label for one of the actions in the menu that appears when selecting
 # text on a page. "Search" is a verb: the action searches the selected text
 # with the default search engine.

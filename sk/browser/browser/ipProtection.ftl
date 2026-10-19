@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = Zájdite ďalej s V
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
 ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Pomôžte skryť svoju polohu pri prehliadaní. Nastavte pravidlá, ktoré zapnú VPN na stránkach, kde chcete <a data-l10n-name="learn-more-vpn">viac súkromia</a> alebo prehliadanie podľa polohy, a vypnú ju tam, kde ju nepotrebujete.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Pomôžte skryť svoju polohu a získajte pri prehliadaní <a data-l10n-name="learn-more-vpn">viac súkromia</a>. Nastavte pravidlá, kde sa má VPN zapnúť na zvýšenie súkromia alebo prehliadanie podľa polohy a kde má zostať vypnutá.
 ipprotection-feature-introduction-title-captive-portal = Používate verejnú Wi‑Fi sieť? Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }.
 ipprotection-feature-introduction-description-captive-portal = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj na verejných Wi‑Fi sieťach.
@@ -123,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zavrieť
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Užívajte si neobmedzenú VPN až do 30. januára
+ipprotection-holiday-promo-description = Prehliadajte súkromnejšie a sťažte svoje sledovanie pomocou vstavanej siete VPN.
 ipprotection-holiday-promo-primary-button = Otvoriť VPN
 ipprotection-holiday-promo-secondary-button = Zavrieť
 
@@ -168,6 +172,8 @@ ipprotection-button-turn-vpn-off = Vypnúť VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Vypnúť VPN všade
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Zapnúť
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Zapnúť VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Zapína sa…
@@ -179,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPN je pre túto stránku vypnutá
     .aria-label = VPN je pre túto stránku vypnutá
 ipprotection-connection-status-connecting-1 = VPN sa pripája…
     .aria-label = VPN sa pripája…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Vypnúť
 
 ## Location controls
 

@@ -69,7 +69,7 @@ webauthn-allow = اجازت ݙیوو
 webauthn-block = بلاک کرو
     .accesskey = B
 webauthn-continue = جاری
-    .accesskey = { "" }
+    .accesskey = ج
 # Variables:
 #   $origin (String): the domain of the site making the request
 #   $rpId (String): the related domain the passkey is associated with
