@@ -193,6 +193,8 @@ about-glean-store-submitted-pings-select-label = Ping:
 about-glean-store-submitted-pings =
     .description = Gjer det mogleg å lagre innsende ping i minnet
     .label = Lagre innsende ping
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Klientinformasjon
 # Header for a section that shows Ping information
 about-glean-submitted-ping-ping-info-title = Ping-informasjon
 

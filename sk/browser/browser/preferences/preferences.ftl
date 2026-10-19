@@ -867,7 +867,7 @@ home-prefs-stories-description = Prispôsobené príbehy na základe vašej akti
 
 home-prefs-recommended-by-learn-more = Ako to funguje
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Sponzorované stránky
+    .label = Sponzorované články
 home-prefs-highlights-option-visited-pages =
     .label = Navštívené stránky
 home-prefs-highlights-options-bookmarks =
@@ -1544,7 +1544,7 @@ history-custom-section-header =
     .description = Prispôsobte si, čo si má { -brand-short-name } zapamätať po zatvorení prehliadača.
     .label = Rozšírené nastavenia
 history-custom-button =
-    .label = Vyberte, čo si má { -brand-short-name } zapamätať
+    .label = Vybrať, čo si má { -brand-short-name } zapamätať
 history-group =
     .label = História
 history-mode-radio-group =

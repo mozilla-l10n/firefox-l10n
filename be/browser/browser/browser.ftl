@@ -1423,6 +1423,27 @@ reset-pbm-toolbar-button2 =
     .label = Ачысціць прыватны сеанс
     .tooltiptext = Ачысціць прыватны сеанс
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Выдаліць частку або ўсе звесткі аглядання
+    .tooltiptext = Выдаліць частку або ўсе звесткі аглядання
+fire-button-panel-heading = Выдаліць усе звесткі аглядання?
+fire-button-panel-description = Гэта выдаліць гісторыю, кукі і даныя сайтаў. Вы выйдзеце з сайтаў. Гэта акно закрыецца, і { -brand-short-name } адкрые новае.
+fire-button-panel-choose-description = Калі вы не хочаце выдаляць усё, выберыце толькі пэўныя дадзеныя.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Выбраць…
+fire-button-panel-cancel-button =
+    .label = Скасаваць
+    .accesskey = С
+fire-button-panel-confirm-button =
+    .label = Выдаліць усе
+    .accesskey = В
+fire-button-panel-complete = Дадзеныя аглядання выдалены
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } прадухіліў самастойнае абнаўленне старонкі.
