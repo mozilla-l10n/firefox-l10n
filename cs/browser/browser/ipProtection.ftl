@@ -149,6 +149,11 @@ ipprotection-site-inclusions-callout-primary-button = Nastavit pravidla
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Teď ne
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zavřít
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = Otevřít VPN
+ipprotection-holiday-promo-secondary-button = Zavřít
+
 ## Panel
 
 # Also used for the callout shown in private browsing
