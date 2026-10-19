@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = Выбіраючы HuggingChat, вы з�
 genai-settings-chat-lechat-links-2 = Выбіраючы Mistral Vibe, вы згаджаецеся з <a data-l10n-name="link1">Умовамі абслугоўвання</a> і <a data-l10n-name="link2">Палітыкай прыватнасці</a> Mistral AI.
 genai-settings-chat-lechat-links = Выбіраючы Le Chat Mistral, вы згаджаецеся з <a data-l10n-name="link1">Умовамі абслугоўвання</a> і <a data-l10n-name="link2">Палітыкай прыватнасці</a> Mistral AI .
 genai-settings-chat-localhost-links = Прынясіце свой уласны прыватны лакальны чат-бот, напрыклад <a data-l10n-name="link1">llamafile<</a> ад інавацыйнай групы { -vendor-short-name }.
+genai-settings-chat-scout-links = Выбіраючы Yahoo Scout, вы згаджаецеся з <a data-l10n-name="link1">Умовамі абслугоўвання</a> і <a data-l10n-name="link2">Палітыкай прыватнасці</a> Yahoo.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -182,6 +183,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Выкарыстоўвайце чат-бота са штучным інтэлектам без пераключэння картак
@@ -249,6 +252,11 @@ highlight-to-search-settings-ask-provider =
     .label = Спытаць { $provider }
 highlight-to-search-settings-ask-generic =
     .label = Спытаць штучны інтэлект
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Шукаць
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Бачыць больш з дапамогай штучнага інтэлекту?
 # Message that appears when user is shown the opt-in flow for link previews

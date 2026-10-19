@@ -629,4 +629,7 @@ welcome-back-onboarding-secondary-button-label = Глядзіце, што яшч
 welcome-back-onboarding-pill-label-tabs = Акуратныя карткі
 welcome-back-onboarding-pill-label-vpn = Убудаваны VPN
 welcome-back-onboarding-pill-label-pdf = Прылады PDF
+welcome-back-onboarding-card-label-tabs = Навядзіце парадак з дапамогай вертыкальных картак і груп
+welcome-back-onboarding-card-label-vpn = Заставайцеся схаванымі дзякуючы убудаванаму VPN
+welcome-back-onboarding-card-label-pdf = Вылучайце, падпісвайце і працуйце з PDF-файламі
 welcome-back-onboarding-card-tilebutton-label = Паспрабаваць

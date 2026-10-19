@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Блакаваць новыя запыты на доступ да вашых прылад віртуальнай рэальнасці
 permissions-site-xr-disable-desc = Гэта не дазволіць вэб-сайтам, акрамя пералічаных вышэй, запытваць дазвол на доступ да вашых прылад віртуальнай рэчаіснасці. Блакаванне доступу да вашых прылад віртуальнай рэальнасці можа парушыць некаторыя функцыі сайта.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Налады - Заблакаваныя сайты для спасылак на праграмы
+permissions-site-app-links-desc = Гэтым сайтам забаронена запытваць дазвол на адкрыццё спасылак на праграмы, напрыклад электроннай пошты (mailto:). Выдаліце сайт, каб ён зноў мог запытваць дазвол.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
