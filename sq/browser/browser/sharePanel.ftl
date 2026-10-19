@@ -5,11 +5,27 @@
 
 ## The share panel, opened from the share button in the address bar.
 
+# Address bar button that opens the share panel.
+urlbar-share-button =
+    .aria-label = Ndajeni këtë faqe me të tjerët
+    .tooltiptext = Ndajeni këtë faqe me të tjerët
+share-panel-heading = Ndani Faqe Me Të Tjerë
 share-panel-copy-link =
     .label = Kopjoji Lidhjen
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Lidhja u kopjua
+# Share with Windows/Mac means to pass a given link to the native OS sharing
+# system so that a given link can be shared with native apps
+share-panel-os-share-2 =
+    .label =
+        { PLATFORM() ->
+            [windows] Ndajeni me Windows…
+            [macos] Ndajeni me Mac…
+           *[other] Ndajeni me…
+        }
+share-panel-mail =
+    .label = Dërgoni Email
 share-panel-screenshot =
     .label = Bëni një Foto Ekrani
 share-panel-qr-code-2 =
