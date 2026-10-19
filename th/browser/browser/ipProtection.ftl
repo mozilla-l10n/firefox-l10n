@@ -52,6 +52,9 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ipprotection-feature-introduction-button-open-vpn = เปิด VPN
 ipprotection-feature-introduction-button-get-started = เริ่มต้นใช้งาน
 
+## Callout shown when the user opens a private browsing window
+
+
 ## Summer promo offramp callout buttons
 
 # Generic summer promo offramp message
@@ -103,6 +106,11 @@ ipprotection-android-promo-callout-primary-button = เข้าใจแล้�
 
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ไม่ใช่ตอนนี้
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ปิด
+
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = เปิด VPN
+ipprotection-holiday-promo-secondary-button = ปิด
 
 ## Panel
 
