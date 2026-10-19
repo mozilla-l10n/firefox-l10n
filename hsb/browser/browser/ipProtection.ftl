@@ -121,6 +121,11 @@ ipprotection-site-inclusions-callout-primary-button = Prawidła postajić
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic nětko
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zaćisnyć
 
+## Holiday Promotion Callout
+
+ipprotection-holiday-promo-primary-button = VPN wočinić
+ipprotection-holiday-promo-secondary-button = Zaćisnyć
+
 ## Panel
 
 # Also used for the callout shown in private browsing
