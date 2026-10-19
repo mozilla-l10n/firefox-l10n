@@ -5,6 +5,11 @@
 mini-window-close-button =
     .label = 닫기
     .tooltiptext = 닫기
+# Moves the tab in the mini window back to the original window
+# it came from.
+mini-window-restore-button =
+    .label = 탭을 원래 창으로 복원
+    .tooltiptext = 탭을 원래 창으로 복원
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
@@ -32,6 +37,10 @@ screenshots-component-mini-window-cancel-button = 취소
             [macos] 취소 (esc)
            *[other] 취소 (Esc)
         }
+# Clears the current selection so the user can select a new region.
+screenshots-component-reselect-button = 다시 선택
+    .aria-label = 다시 선택
+    .title = 다시 선택
 # Opens a selection tool to select a section of a page to
 # open in a smaller window to appear cropped and always on top.
 toolbar-button-mini-window =
@@ -55,7 +64,8 @@ move-to-mini-window =
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.
 
-mini-window-overlay-instructions = 마우스로 드래그하나 클릭하여 미니 창에 띄울 영역을 선택하세요. 탐색하는 동안 항상 맨 위에 유지됩니다.
+mini-window-overlay-header = 계속 표시할 페이지의 영역을 선택하세요
+mini-window-overlay-instructions = 마우스로 드래그하나 클릭하여 미니 창에 띄울 영역을 선택하세요. 탐색하는 동안 항상 맨 위에 표시됩니다.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
