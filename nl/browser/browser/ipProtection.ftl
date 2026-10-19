@@ -365,6 +365,8 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Alle websiteregels verwijderen?
 ip-protection-delete-all-site-rules-confirm =
     .label = Alle regels verwijderen
+ip-protection-delete-site-rule-retry =
+    .label = Opnieuw proberen
 
 ## IP Protection Bandwidth
 

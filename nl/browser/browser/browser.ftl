@@ -1412,6 +1412,21 @@ reset-pbm-toolbar-button2 =
     .label = Privésessie wissen
     .tooltiptext = Privésessie wissen
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Kiezen…
+fire-button-panel-cancel-button =
+    .label = Annuleren
+    .accesskey = A
+fire-button-panel-confirm-button =
+    .label = Alles verwijderen
+    .accesskey = A
+fire-button-panel-complete = Navigatiegegevens verwijderd
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } heeft voorkomen dat deze pagina automatisch werd herladen.
