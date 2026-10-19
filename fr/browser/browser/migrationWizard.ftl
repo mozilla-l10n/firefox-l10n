@@ -59,8 +59,8 @@ migration-no-permissions-instructions-step1 = Sélectionnez « Continuer »
 #  $permissionsPath (String): the file system path that the user will need to grant read permission to.
 migration-no-permissions-instructions-step2-2 =
     { PLATFORM() ->
-        [macos] Depuis le sélecteur de fichier, choisissez « Ouvrir »
-       *[other] Dans le sélecteur de fichier, accédez à <code>{ $permissionsPath }</code> et choisissez « Sélectionner »
+        [macos] Depuis le sélecteur de fichiers, choisissez « Ouvrir »
+       *[other] Depuis le sélecteur de fichiers, accédez à <code>{ $permissionsPath }</code> et choisissez « Sélectionner »
     }
 # The second step in getting permissions to read data for the selected
 # browser type.

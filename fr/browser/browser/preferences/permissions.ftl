@@ -170,7 +170,7 @@ permissions-site-xr-disable-desc = Cela empêchera tous les sites web non listé
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Paramètres - Sites bloqués pour les liens vers des applications
-permissions-site-app-links-desc = Ces sites ne peuvent pas demander d’ouvrir des liens d’applications, comme les e-mails (mailto:). Supprimez un site pour lui permettre de demander à nouveau.
+permissions-site-app-links-desc = Ces sites ne sont pas autorisés à demander l’ouverture de liens vers des applications, comme les liens d’adresse e-mail (mailto:). Supprimez un site pour lui permettre de demander à nouveau cette autorisation.
 
 ## Site Permissions - Camera
 
