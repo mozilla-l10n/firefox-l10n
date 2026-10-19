@@ -25,6 +25,22 @@ mini-window-audio-unmute =
 ## These strings label the buttons on the Screenshots selection overlay while
 ## it is being used to pick the region for a Mini Window.
 
+# Moves the tab to a Mini Window which frames the selected area of the page.
+screenshots-component-mini-window-button = Перамясціць у міні-акно
+    .aria-label = Перамясціць у міні-акно
+    .title = Перамясціць у міні-акно
+# Dismisses the Mini Window selection overlay without moving the tab.
+screenshots-component-mini-window-cancel-button = Адмена
+    .aria-label = Скасаваць
+    .title =
+        { PLATFORM() ->
+            [macos] Скасаваць (Esc)
+           *[other] Скасаваць (Esc)
+        }
+# Clears the current selection so the user can select a new region.
+screenshots-component-reselect-button = Пачаць спачатку
+    .aria-label = Пачаць спачатку
+    .title = Пачаць спачатку
 # Opens a selection tool to select a section of a page to
 # open in a smaller window to appear cropped and always on top.
 toolbar-button-mini-window =
