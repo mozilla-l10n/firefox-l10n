@@ -1,0 +1,86 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+name: Run Fluent migrations
+
+on:
+  workflow_dispatch:
+    inputs:
+      firefox_version:
+        description: "Firefox version the migration lands in (e.g. 160), recipes are moved to recipes/fx<version>"
+        required: true
+        type: number
+      source_branch:
+        description: "Branch on firefox-l10n-source to pull strings from (default: update)"
+        required: true
+        default: "update"
+        type: string
+
+permissions:
+  contents: read
+  pull-requests: read
+
+concurrency:
+  group: fluent-migrations
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"
+      FIREFOX_VERSION: ${{ inputs.firefox_version }}
+      SOURCE_BRANCH: ${{ inputs.source_branch }}
+    steps:
+      - name: Checkout automation scripts
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: automation
+          sparse-checkout: .github/scripts
+          persist-credentials: false
+      - name: Checkout fluent-migrations
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: fluent-migrations
+          repository: mozilla-l10n/fluent-migrations
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+      - name: Check for recipes
+        id: recipes
+        run: python automation/.github/scripts/fluent_migration.py check
+        env:
+          GH_TOKEN: ${{ github.token }}
+
+      - name: Checkout firefox-l10n-source
+        if: steps.recipes.outputs.found == 'true'
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: firefox-l10n-source
+          repository: mozilla-l10n/firefox-l10n-source
+          ref: ${{ inputs.source_branch }}
+          persist-credentials: false
+      - name: Checkout firefox-l10n
+        if: steps.recipes.outputs.found == 'true'
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          path: firefox-l10n
+          ref: main
+          # Full history is needed for blame to preserve attribution
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Set git identity
+        if: steps.recipes.outputs.found == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Run migrations
+        if: steps.recipes.outputs.found == 'true'
+        run: python automation/.github/scripts/fluent_migration.py migrate
+      - name: Create PRs
+        if: steps.recipes.outputs.found == 'true'
+        run: python automation/.github/scripts/fluent_migration.py create-prs
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_PAT }}

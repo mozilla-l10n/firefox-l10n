@@ -21,3 +21,17 @@ repository.
 
 Newly translated strings are committed to the `main` branch
 via Pontoon’s [translation sync](https://github.com/mozilla/pontoon/blob/main/pontoon/sync/README.md).
+
+## Fluent migration GitHub actions
+
+Fluent migrations copy existing Firefox translations to new strings from previous ones
+when the source content is the same, so strings don’t need to be translated again.
+
+The [Run Fluent migrations](.github/workflows/fluent-migrations.yml) workflow
+runs pending migration recipes on all locales (using the `update` quarantine branch in `firefox-l10n-source` as source)
+and opens a pull request with the migrated translations in this repository.
+Both source and migrated strings should only be merged while sync is disabled in Pontoon.
+
+Migration recipes are stored in the [fluent-migrations](https://github.com/mozilla-l10n/fluent-migrations)
+repository. Pending recipes are in the `recipes` folder, and recipes that have
+already been run are moved to `recipes/fx<version>`.
