@@ -5,6 +5,11 @@
 mini-window-close-button =
     .label = Začinić
     .tooltiptext = Začinić
+# Moves the tab in the mini window back to the original window
+# it came from.
+mini-window-restore-button =
+    .label = Rajtark wróćić
+    .tooltiptext = Rajtark wróćić
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
@@ -32,6 +37,10 @@ screenshots-component-mini-window-cancel-button = Přetorhnyć
             [macos] Přetorhnyć (esc)
            *[other] Přetorhnyć (Esc)
         }
+# Clears the current selection so the user can select a new region.
+screenshots-component-reselect-button = Nanowo započeć
+    .aria-label = Nanowo započeć
+    .title = Nanowo započeć
 # Opens a selection tool to select a section of a page to
 # open in a smaller window to appear cropped and always on top.
 toolbar-button-mini-window =
@@ -55,8 +64,14 @@ move-to-mini-window =
         }
     .accesskey = m
 
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Wubjerće dźěl strony, kotryž ma widźomny wostać
+
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
+mini-window-panel-header = Wubjerće, štož so ma do miniwokna přesunyć
 mini-window-panel-move-selection = Wuběr přesunyć
 mini-window-panel-move-full-tab = Cyły rajtark přesunyć

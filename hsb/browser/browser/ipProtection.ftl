@@ -123,6 +123,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zaćisnyć
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Dóstańće njewobmjezowany VPN hač do 30. januara
 ipprotection-holiday-promo-primary-button = VPN wočinić
 ipprotection-holiday-promo-secondary-button = Zaćisnyć
 
