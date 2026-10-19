@@ -276,6 +276,11 @@ ip-protection-learn-more = Więcej informacji
 ip-protection-not-opted-in-4 =
     .heading = Wypróbuj wbudowaną sieć VPN { -brand-short-name(case: "gen") }
     .message = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Chcesz wypróbować?
+    .message = Korzystaj z { $maxUsage } GB bezpłatnie co miesiąc i wybierz, na których witrynach używać sieci VPN.
 ip-protection-not-opted-in-button = Zacznij teraz
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
