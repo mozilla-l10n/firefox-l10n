@@ -254,10 +254,10 @@ appmenu-help-exit-troubleshoot-mode =
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
 
 appmenu-help-report-deceptive-site =
-    .label = Докладване на измамническа страница…
-    .accesskey = з
+    .label = Докладване на измамен сайт…
+    .accesskey = Д
 appmenu-help-not-deceptive =
-    .label = Това не е измамническа страница…
+    .label = Това не е измамен сайт…
     .accesskey = н
 
 ## More Tools
