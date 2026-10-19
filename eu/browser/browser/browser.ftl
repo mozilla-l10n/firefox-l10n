@@ -252,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Itsatsi eta joan
     .accesskey = t
+urlbar-menuitem-paste-and-search =
+    .label = Itsatsi eta bilatu
+    .accesskey = s
 
 ## Searchbar context menu
 

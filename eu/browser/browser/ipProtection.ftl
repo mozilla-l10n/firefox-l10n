@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = Joan urrutirago { -
 ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Lagundu zure kokapena ezkutatzen nabigatu ahala. Ezarri VPNa aktibatzeko arauak <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko edo kokapenean oinarritutako nabigaziorako, eta desaktibatu halakorik behar ez duzunean.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Lagundu zure kokapena ezkutatzen <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko nabigatu ahala. Ezarri VPNa aktibatzeko arauak pribatutasun estra edo kokapenean oinarritutako nabigaziorako, eta desaktibatu behar ez duzunean.
 ipprotection-feature-introduction-title-captive-portal = Wi-Fi publikoan zaude? Probatu { -brand-product-name }(r)en integratutako VPNa.
 ipprotection-feature-introduction-description-captive-portal = Nabigatu babes estraz zure kokapena ezkutatuz, baita Wi-Fi publikoetan ere.
@@ -123,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Baztertu
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Izan mugarik gabeko VPNa urtarrilaren 30era arte
+ipprotection-holiday-promo-description = Bihurtu zure nabigazioa pribatu eta arrastoa jarraitzeko zailagoa integratutako VPNarekin.
 ipprotection-holiday-promo-primary-button = Ireki VPNa
 ipprotection-holiday-promo-secondary-button = Baztertu
 
@@ -168,6 +172,8 @@ ipprotection-button-turn-vpn-off = Desaktibatu VPNa
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Desaktibatu VPNa toki guztietan
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Aktibatu
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Aktibatu VPNa
 # Button while VPN is connecting
 ipprotection-button-connecting = Aktibatzen…
@@ -179,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPNa inaktibo dago gune honetarako
     .aria-label = VPNa inaktibo dago gune honetarako
 ipprotection-connection-status-connecting-1 = VPNa konektatzen ari da…
     .aria-label = VPNa konektatzen ari da…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Desaktibatu
 
 ## Location controls
 
