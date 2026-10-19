@@ -15,6 +15,16 @@ restart-required-single-instance-question = Я не выкарыстоўваю �
 restart-required-single-instance-answer = { -brand-short-name } можа запатрабаваць перазапуск, калі абнаўленне ўсталявана ў фонавым рэжыме, пакуль ён адкрыты.
 restart-required-single-instance-answer-2 = Гэта можа здарыцца ў час працяглага сеансу аглядання або калі аперацыйная сістэма абнаўляе { -brand-short-name }. Перазапуск падтрымлівае бяспеку і нармальную працу { -brand-short-name }.
 restart-required-unsaved-work-question = Ці магу я страціць незахаваную працу?
+restart-required-unsaved-work-answer = Гэта магчыма, і мы разумеем, што гэта непрыемна. { -brand-short-name } зноў адкрые вашы карткі, але незахаваная праца ўнутры вэб-старонак, напрыклад, тэкст у форме, можа не аднавіцца. Прыватныя вокны не адкрыюцца зноў, каб абараніць вашу прыватнасць.
+restart-required-fix-question = Гэта сапраўды раздражняе! Ці працуе { -brand-short-name } над выпраўленнем?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Так. Мы разумеем, што гэта перашкаджае працы, і працуем над выпраўленнем, каб гэтага пазбегнуць. Сачыце за нашым прагрэсам у выпраўленні хібы 2072739 на Bugzilla.
+restart-button-label2 = Перазапусціць
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Падрабязней
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Схаваць падрабязнасці
 restart-required-heading = Перазапусціць, каб працягваць карыстацца { -brand-short-name }
 restart-required-intro = { -brand-short-name } абнаўляецца ў фонавым рэжыме. Каб завяршыць абнаўленне, вам трэба будзе перазапусціць браўзер.
 window-restoration-info = Вашы вокны і карткі (акрамя прыватных) будуць хутка адноўлены.
