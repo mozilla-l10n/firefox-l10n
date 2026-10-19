@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = Апошняе наведванне
 sidebar-history-sort-option-most-visited =
     .label = Часта наведваныя
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Нешта адсутнічае? Захапіце гісторыю з іншага браўзера.
+sidebar-history-import-promo-button =
+    .label = Імпарт у { -brand-short-name }
 
 ## Labels for sidebar search
 

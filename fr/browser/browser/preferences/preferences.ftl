@@ -1798,7 +1798,7 @@ permissions-addon-exceptions2 =
 # App links are links that a website can ask to open for you, like email
 # (mailto:) links.
 permissions-allow-app-links =
-    .label = Autoriser les sites à demander à ouvrir des liens vers les applications.
+    .label = Autoriser les sites à demander à ouvrir des liens vers des applications.
     .accesskey = A
 # Opens the list of sites that are blocked from asking to open app links.
 permissions-app-links-manage-button =
