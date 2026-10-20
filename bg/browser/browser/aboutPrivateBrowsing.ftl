@@ -73,6 +73,7 @@ about-private-browsing-nova-info-link = Кой все още може да ви�
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Няма ваши записи
+about-private-browsing-nova-info-subheader2 = Ние ще изтрием всяко търсене и вписване, когато затворите всички поверителни прозорци. Вградените защити на { -brand-short-name } също са включени тук, като блокирането на тракери.
 
 ## Strings for the Private Window basics spotlight
 
