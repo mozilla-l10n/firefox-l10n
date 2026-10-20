@@ -191,6 +191,14 @@ about-glean-dual-labeled-metric-warning = <code>DualLabeledCounter</code>-målin
 about-glean-unknown-metric-type-warning = Ukendt type af måling.
 # Label for selection drop-down list containing Pings for selection
 about-glean-store-submitted-pings-select-label = Ping:
+# Toggle label to enable the storage of Pings that are submitted
+about-glean-store-submitted-pings =
+    .description = Aktiverer lagring af indsendte pings i hukommelsen
+    .label = Gem indsendte pings
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Klient-info
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Ping-info
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

@@ -251,6 +251,12 @@ places-search-downloads =
 places-locked-prompt = Bogmærker og historik vil ikke virke, da en  { -brand-short-name }-fil er i brug af et andet program. Visse sikkerhedsprogrammer kan være skyld i dette.
 # Share is a verb here. Meaning to "Share" the bookmark "Folder"
 # .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Nyt
+    .label = Del mappe
+    .accesskey = D
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
 places-share-folder2 =
     .badge = Nyt
     .label = Del mappe

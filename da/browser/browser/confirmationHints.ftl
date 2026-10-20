@@ -21,6 +21,7 @@ confirmation-hint-send-to-device = Sendt!
 confirmation-hint-firefox-relay-mask-created = Ny maske oprettet!
 confirmation-hint-firefox-relay-mask-reused = Eksisterende maske genanvendt!
 confirmation-hint-screenshot-copied = Skærmbillede kopieret!
+confirmation-hint-tab-group-saved = Fanebladsgruppe gemt
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

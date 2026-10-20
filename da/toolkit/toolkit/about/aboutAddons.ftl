@@ -124,6 +124,8 @@ private-browsing-description2 =
     { -brand-short-name } blokerer udvidelserne for at sikre, at de kun med din tilladelse har adgang til din aktivitet
     på nettet, når du benytter privat browsing.
     <label data-l10n-name="private-browsing-learn-more">Læs her, hvordan du håndterer indstillingerne for udvidelser</label>.
+aboutaddons-sidebar =
+    .heading = Tilføjelser
 addon-category-discover = Anbefalinger
 addon-category-discover-title =
     .title = Anbefalinger
@@ -438,6 +440,10 @@ addon-permissions-empty2 = Denne udvidelse kræver ingen tilladelser.
 addon-permissions-required-label = Påkrævede:
 addon-permissions-optional-label = Valgfrie:
 addon-permissions-learnmore = Læs mere om tilladelser
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Nogle tilladelser administreres af din organisation.
 recommended-extensions-heading = Anbefalede udvidelser
 recommended-themes-heading = Anbefalede temaer
 # Variables:
@@ -527,6 +533,7 @@ mlmodel-pdfjs = { -brand-short-name } bruger denne model til at oprette alternat
 mlmodel-smart-tab-topic-engine = { -brand-short-name } bruger denne model til at foreslå navne til dine fanebladsgrupper
 mlmodel-smart-tab-embedding-engine = { -brand-short-name } bruger denne model til at forslå faneblade til dine fanebladsgrupper
 mlmodel-formfill-engine = { -brand-short-name } bruger denne til at udfylde adresseformularer
+mlmodel-speech-recognition = { -brand-short-name } bruger denne til talegenkendelse på enheden
 # AI Model will be downloaded on the users device and used locally
 addon-category-mlmodel = AI på enheden
 addon-category-mlmodel-title =
@@ -568,6 +575,11 @@ find-more-extensions-promo-open-amo-button = Udforsk udvidelser
 ## "Find more fresh looks" refers to the user looking for more Firefox themes.
 
 find-more-themes-promo-open-amo-button = Udforsk temaer
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo-button = Find din første udvidelse
 
 ## Themes Mode segmented control shown at the top of the about:addons themes list view
 ## when Project Nova is enabled.

@@ -111,5 +111,6 @@ customkeys-title-heading =
 customkeys-search-input =
     .aria-label = Søg i genveje
     .placeholder = Søg i genveje
+customkeys-description = Kontroller, hvordan du bevæger dig rundt og interagerer med { -brand-short-name }.
 customkeys-support-link-text = Lær mere
 customkeys-reset-all-button = Gendan standard-indstillinger

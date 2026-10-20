@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Videoformat eller MIME-type understøtte
 videocontrols-error-no-source = Ingen videokilde med understøttet MIME-type fundet.
 videocontrols-error-generic = Afspilning af video  stoppet på grund af ukendt fejl.
 videocontrols-status-picture-in-picture = Denne video afspilles i tilstanden billede-i-billede.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Video afspilles i Billede-i-billede
 # This message shows the current position and total video duration
 #
 # Variables:

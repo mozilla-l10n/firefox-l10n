@@ -242,6 +242,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Søg i historik
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Søg i faneblade
 
 ## Bookmarks Menu
 
@@ -250,6 +253,8 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = Håndter bogmærker
+menu-bookmarks-remote-tabs-promo =
+    .label = Synkroniser bogmærker til mobil
 menu-bookmark-tab =
     .label = Bogmærk dette faneblad…
 menu-edit-bookmark =

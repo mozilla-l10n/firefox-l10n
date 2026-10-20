@@ -26,6 +26,15 @@ fxa-menu-send-to-device =
             [1] Send til enhed
            *[other] Send { $tabCount } faneblade til enhed
         }
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+# The following string intentionally omits the word "tab" from the singular and includes it in the plural.
+fxa-menu-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Send til mobil
+           *[other] Send { $tabCount } faneblade til mobil
+        }
 fxa-menu-send-to-mobile-device-missing2 = Kan du ikke se din enhed?
 fxviewtabrow-send-to-mobile-not-verified = Kontoen er ikke bekræftet
 fxviewtabrow-send-to-mobile-verify-account = Bekræft din konto
@@ -45,6 +54,7 @@ fxa-menu-manage-account-subtitle = Håndter konto
 # Promo shown in the account menu when the user is signed out and no previously
 # signed-in account is remembered, prompting them to sign in and sync.
 fxa-menu-sign-in-promo-heading = Log ind for at synkronisere
+fxa-menu-sign-in-promo-message = Få adgang til dine data overalt
 fxa-menu-sign-in-promo-button =
     .label = Log ind
 # Card shown in the account menu when a previously signed-in account is

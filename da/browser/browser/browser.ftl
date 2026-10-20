@@ -26,6 +26,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Håndter indstillinger for pop op-vinduer og tredjeparts-omdirigeringer…
     .accesskey = H
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Vis information om websted
+            [1] Vis information om websted (1 forsøg på sporing blokeret)
+           *[other] Vis information om websted ({ $count } forsøg på sporing blokeret)
+        }
 # Caption shown in the native macOS share picker for the items being shared.
 # Variables:
 #   $count (Number) - The number of links being shared.
