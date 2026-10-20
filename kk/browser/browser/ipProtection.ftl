@@ -123,6 +123,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Елеме�
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = 30 қаңтарға дейін шексіз VPN алыңыз
+ipprotection-holiday-promo-description = Кіріктірілген VPN арқылы шолуды жеке қылыңыз және бақылауды қиындатыңыз.
 ipprotection-holiday-promo-primary-button = VPN ашу
 ipprotection-holiday-promo-secondary-button = Елемеу
 
@@ -168,6 +170,8 @@ ipprotection-button-turn-vpn-off = VPN сөндіру
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN-ді барлық жерде сөндіру
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Іске қосу
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN іске қосу
 # Button while VPN is connecting
 ipprotection-button-connecting = Іске қосу…
@@ -179,6 +183,8 @@ ipprotection-connection-status-excluded-1 = VPN бұл сайт үшін сөн�
     .aria-label = VPN бұл сайт үшін сөндірулі тұр
 ipprotection-connection-status-connecting-1 = VPN қосылуда…
     .aria-label = VPN қосылуда…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Сөндіру
 
 ## Location controls
 
