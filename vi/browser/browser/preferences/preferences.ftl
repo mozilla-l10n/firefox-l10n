@@ -1779,6 +1779,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Chọn trang web nào có thể cài đặt tiện ích mở rộng
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Cho phép các trang web yêu cầu mở liên kết trong ứng dụng.
+    .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Quản lý các trang bị chặn
+    .accesskey = M
 permissions-location2 =
     .label = Vị trí
 permissions-localhost2 =

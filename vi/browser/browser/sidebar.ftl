@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = Lần truy cập cuối
 sidebar-history-sort-option-most-visited =
     .label = Truy cập nhiều nhất
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Bạn thấy thiếu gì đó? Hãy lấy lịch sử duyệt web từ trình duyệt khác.
+sidebar-history-import-promo-button =
+    .label = Nhập vào { -brand-short-name }
 
 ## Labels for sidebar search
 

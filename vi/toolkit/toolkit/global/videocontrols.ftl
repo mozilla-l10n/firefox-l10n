@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = Định dạng video hoặc kiểu MIME 
 videocontrols-error-no-source = Không có video với định đạng được hỗ trợ.
 videocontrols-error-generic = Không thể xem video vì một lỗi chưa biết.
 videocontrols-status-picture-in-picture = Video này đang phát ở chế độ hình trong hình.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = Video đang phát ở chế độ hình trong hình
 # This message shows the current position and total video duration
 #
 # Variables:

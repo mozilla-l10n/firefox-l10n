@@ -439,6 +439,10 @@ newtab-stocks-watchlist-full = Bạn chỉ có thể thêm tối đa { $limit } 
 newtab-picture-header = Hình ảnh của ngày · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Hình ảnh của ngày
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Hình ảnh trong ngày: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -462,6 +466,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = Mở menu hình ảnh của ngày
     .title = Mở menu hình ảnh của ngày
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Đặt ảnh này làm hình nền của bạn
+    .label = Đặt hình nền
+    .title = Đặt hình nền
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -470,6 +481,10 @@ newtab-picture-set-wallpaper =
     .title = Đặt hình nền
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Quản lý hình nền
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Ẩn hình ảnh này
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Hiện hình ảnh
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Ẩn hình ảnh của ngày
@@ -477,6 +492,10 @@ newtab-picture-menu-hide-photo = Ẩn hình ảnh của ngày
 newtab-picture-menu-show-photo = Hiện hình ảnh của ngày
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Tìm hiểu thêm
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Hiện hình ảnh
+    .title = Hiện hình ảnh
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Hiện hình ảnh của ngày
@@ -541,8 +560,30 @@ newtab-horoscopes-menu-learn-more = Tìm hiểu thêm
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Du lịch
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Mở menu du lịch
+    .title = Mở menu du lịch
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Tìm hiểu thêm
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitaire
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Mở menu solitaire
+    .title = Mở menu solitaire
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Tìm hiểu thêm
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -851,6 +892,15 @@ newtab-custom-widget-search-toggle =
     .label = Tìm kiếm
 newtab-custom-widget-horoscopes-toggle =
     .label = Tử vi
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Du lịch
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitaire
 newtab-custom-widget-section-title = Widget
 newtab-custom-widget-section-toggle =
     .label = Widget

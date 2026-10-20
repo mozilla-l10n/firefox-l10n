@@ -21,6 +21,7 @@ confirmation-hint-send-to-device = Đã gửi!
 confirmation-hint-firefox-relay-mask-created = Đã tạo mặt nạ mới!
 confirmation-hint-firefox-relay-mask-reused = Mặt nạ hiện tại đã được tái sử dụng!
 confirmation-hint-screenshot-copied = Đã sao chép ảnh chụp màn hình!
+confirmation-hint-tab-group-saved = Đã lưu nhóm thẻ
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed = Đóng { $tabCount } thẻ

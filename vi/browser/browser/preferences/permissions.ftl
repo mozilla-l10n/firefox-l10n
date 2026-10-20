@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Chặn các yêu cầu mới mà nó yêu cầu truy cập các thiết bị thực tế ảo của bạn
 permissions-site-xr-disable-desc = Điều này sẽ ngăn mọi trang web không được liệt kê ở trên yêu cầu quyền truy cập vào các thiết bị thực tế ảo của bạn. Chặn quyền truy cập vào các thiết bị thực tế ảo của bạn có thể phá vỡ một số tính năng của trang web.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Cài đặt - Các trang web bị chặn đối với liên kết trong ứng dụng
+permissions-site-app-links-desc = Các trang web này bị chặn không cho yêu cầu mở liên kết trong ứng dụng, chẳng hạn như email (mailto:). Hãy xoá một trang web để cho phép nó yêu cầu lại.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
