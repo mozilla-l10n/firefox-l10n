@@ -29,3 +29,35 @@ mini-window-audio-unmute =
 screenshots-component-mini-window-button = Naar minivenster verplaatsen
     .aria-label = Naar minivenster verplaatsen
     .title = Naar minivenster verplaatsen
+# Dismisses the Mini Window selection overlay without moving the tab.
+screenshots-component-mini-window-cancel-button = Annuleren
+    .aria-label = Annuleren
+    .title =
+        { PLATFORM() ->
+            [macos] Annuleren (esc)
+           *[other] Annuleren (Esc)
+        }
+# Clears the current selection so the user can select a new region.
+screenshots-component-reselect-button = Opnieuw beginnen
+    .aria-label = Opnieuw beginnen
+    .title = Opnieuw beginnen
+# Opens a selection tool to select a section of a page to
+# open in a smaller window to appear cropped and always on top.
+toolbar-button-mini-window =
+    .label = Minivenster
+    .tooltiptext = Minivenster gebruiken
+# Opens up the Mini Window section selector tool.
+main-context-menu-use-mini-window =
+    .label = Sectie naar minivenster verplaatsen
+    .accesskey = S
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] Naar minivenster verplaatsen
+            [one] Naar minivenster verplaatsen
+           *[other] Naar minivensters verplaatsen
+        }
+    .accesskey = N
