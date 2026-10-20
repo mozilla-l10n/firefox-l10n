@@ -73,4 +73,3 @@ mini-window-overlay-instructions = Trascina o fai clic per selezionare un’area
 mini-window-panel-header = Scegli cosa spostare in una mini finestra
 mini-window-panel-move-selection = Sposta selezione
 mini-window-panel-move-full-tab = Sposta scheda intera
-
