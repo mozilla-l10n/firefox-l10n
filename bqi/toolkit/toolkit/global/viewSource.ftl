@@ -10,3 +10,9 @@ view-source-go-to-line-text = شزماره تور ن بزنین
 view-source-invalid-input-title = وۊرۊدی نا موعتبر
 view-source-invalid-input-text = شوماره ستر وۊرۊدی نا موعتبر هڌ.
 view-source-out-of-range-title = ستر ن نجوست
+
+## Context menu items, only visible when viewing the source of a page
+
+view-source-context-go-to-line =
+    .label = راو و تور…
+    .accesskey = L
