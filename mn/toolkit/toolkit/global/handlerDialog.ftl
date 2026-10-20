@@ -14,6 +14,7 @@
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
 
+
 ## Permission Dialog
 ## Variables:
 ##  $host (string) - The hostname that is initiating the request
@@ -42,4 +43,8 @@ choose-app-btn =
     .label = Сонго…
     .accessKey = н
 choose-other-app-window-title = Өөр програм…
+
+## Mailto handler picker
+## Shown when the user clicks a mailto: link and lets them pick which configured
+## web mail service (or the OS default app) should handle email links.
 

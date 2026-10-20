@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Unable to connect
@@ -18,3 +21,9 @@ proxyConnectFailure-title = The proxy server is refusing connections
 proxyResolveFailure-title = Unable to find the proxy server
 redirectLoop-title = The page isn't redirecting properly
 unknownSocketType-title = Unexpected response from server
+
+## Felt Privacy V1 Strings
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

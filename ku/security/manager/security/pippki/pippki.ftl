@@ -35,10 +35,10 @@ download-cert-view-text = Sertîfîkaya CA 'yê kontrol bike
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Lêpirsîna Diyarkirina Bikarhêner
-client-auth-site-description = Ev herêm diyarkirina sertîfîkaya te dixwaze:
-client-auth-choose-cert = Sertîfîkaya ku dê di nasînê de bê bikaranîn hilbijêre:
 
 ## Set password (p12) dialog
 
@@ -54,4 +54,6 @@ set-password-reminder = Girîngî: Heke nasnavê xwe yê hilanîna sertîfîkay�
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

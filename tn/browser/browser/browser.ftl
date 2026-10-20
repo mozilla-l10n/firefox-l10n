@@ -222,7 +222,8 @@ bookmarks-toolbar-placeholder-button =
 ## Repair text encoding toolbar button
 
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 toolbar-button-email-link =
     .label = Kgokagano ya Imeile
@@ -251,6 +252,8 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Modumo mongwe kgotsa bidio mo saeteng e, e dirisa serweboleta sa DRM se seka lekanyetsang se o { -brand-short-name } ka kgonang go se dira ka yone.
 
+## Notification bars for media playback issues
+
 ## Password save/update panel
 
 
@@ -265,9 +268,11 @@ ui-tour-info-panel-close =
 
 ##
 
-
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
 
 
 ##

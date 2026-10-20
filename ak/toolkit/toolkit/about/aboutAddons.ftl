@@ -89,15 +89,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Ahotew mu edum nkaho nyinara.
-extensions-warning-check-compatibility = Kaho wɔn nsɛ ne nhwehwɛmu edum. Etumi ba no sɛ wo nni nkaho a wɔfa.
-extensions-warning-safe-mode2 =
-    .message = Ahotew mu edum nkaho nyinara.
 extensions-warning-check-compatibility2 =
     .message = Kaho wɔn nsɛ ne nhwehwɛmu edum. Etumi ba no sɛ wo nni nkaho a wɔfa.
 extensions-warning-check-compatibility-button = Sɔ
     .title = Sɔ fidie a ɛkyerɛ sɛ nkaho no fa anaaso ɛmmfa a
-extensions-warning-update-security = Kaho sikuriti ntoso wɔn nhwehwɛmu edum. Etumi ba no sɛ ntoso bɛma wo ho ada hɔ.
 extensions-warning-update-security2 =
     .message = Kaho sikuriti ntoso wɔn nhwehwɛmu edum. Etumi ba no sɛ ntoso bɛma wo ho ada hɔ.
 extensions-warning-update-security-button = Sɔ
@@ -174,17 +169,36 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
-details-notification-incompatible = { $name } mmfa { -brand-short-name } { $version }.
-# Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } mmfa { -brand-short-name } { $version }.
-details-notification-blocked = Wɔedum { $name } ɛnam bambɔ ne faako-gyina ho nsɛm nti.
-details-notification-blocked2 =
-    .message = Wɔedum { $name } ɛnam bambɔ ne faako-gyina ho nsɛm nti.
-details-notification-blocked-link = Infɔmehyɛn Bio
-details-notification-softblocked = Yenim sɛ { $name } tumi haw adwen wɔ sikuriti anaaso faako-gyina nsɛm mu.
-details-notification-softblocked2 =
-    .message = Yenim sɛ { $name } tumi haw adwen wɔ sikuriti anaaso faako-gyina nsɛm mu.
-details-notification-softblocked-link = Infɔmehyɛn Bio
+
+## Gecko Media Plugins (GMPs)
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

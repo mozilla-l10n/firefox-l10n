@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = सर्वसादारण
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = सोद
     .title = सोद
-pane-search-title = सोद
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = बंद
 
@@ -42,12 +32,8 @@ should-restart-title = { -brand-short-name } परतून सुरू कर
 
 ## General Section
 
-startup-header = सुरवेक
-is-default = { -brand-short-name } तुमचो सद्याचो मूळ ब्रावजर
-is-not-default = { -brand-short-name } हे तुमचे मुळावे ब्रावजर न्ही
 tabs-group-header2 =
     .label = टॅब्जा
-tabs-group-header = टॅब्जा
 show-tabs-in-taskbar =
     .label = विंडोस कार्यपट्टींत टॅब पूर्वदेखाव दाखोवचो
     .accesskey = र
@@ -63,19 +49,10 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = अद्ययावत...
-    .accesskey = A
 choose-language-description = पानांचें प्रदर्शन करूंक तुमची आवडीची भास निवडची
 choose-button =
     .label = निवडचें...
     .accesskey = व
-translate-web-pages =
-    .label = वेब आशय अणकारात
-    .accesskey = अ
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = अणकार करपी <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = अपवाद...
     .accesskey = व
@@ -86,20 +63,6 @@ download-save-files-header =
     .label = न धारिका जतन करात
 download-save-where-3 =
     .aria-label = न धारिका जतन करात
-download-header = डाऊनलोड
-download-save-where = न धारिका जतन करात
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] निवडात...
-           *[other] ब्रावज...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
 applications-type-column =
     .label = आशय प्रकार
     .accesskey = T
@@ -132,17 +95,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = ({ $plugin-name } त) { -brand-short-name } वापरचें
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -155,10 +112,6 @@ applications-use-other-label =
     .value = { applications-use-other.label }
 
 ## Firefox updates
-
-update-application-use-service =
-    .label = सुदार प्रतिष्ठापित करपाक फाटभूंय सेवा वापरात
-    .accesskey = b
 
 ## About Firefox
 
@@ -177,7 +130,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = ब्रावजिंग
 browsing-use-autoscroll =
     .label = आपसूक स्क्रॉलिंग वापरात
     .accesskey = a
@@ -194,10 +146,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = स्थापितां...
-    .accesskey = e
 
 ## Home Section
 
@@ -236,10 +184,6 @@ choose-bookmark =
 
 ## Search Section
 
-search-engine-default-header = मुळावे सोद इंजिन
-search-suggestions-option =
-    .label = सोद सुचोवण्यो दियात
-    .accesskey = स
 search-choose-engine-column =
     .label = सोद इंजिन
 search-choose-keyword-column =
@@ -311,9 +255,6 @@ sync-engine-history =
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
-sync-verification-sent-title = दुजोरो धाडलो
-sync-verification-not-sent-title = दुजोरो धाडपाक शकनात
-
 ## Privacy Section
 
 
@@ -341,17 +282,9 @@ forms-master-pw-fips-desc = गुप्तशब्द  बदलप असफ�
 
 ## Privacy Section - History
 
-history-header = इतिहास
-history-remember-option-all =
-    .label = इतिहास उगडास धरचो
-history-remember-option-never =
-    .label = इतिहास केन्नाच उगडास धरचो न्हय
-history-remember-option-custom =
-    .label = इतिहासा खातीर कस्टम मांडावळी वापरच्यो
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
-history-dontremember-description = { -brand-short-name } खाजगी ब्रावजिंगाभशेन स्थापितां वापरतले, आनी तुमी वेब ब्रावज करता तेन्ना कसलोच इतिहास याद दवरचे ना.
 history-private-browsing-permanent =
     .label = सदाच खाजगी ब्रावजींग स्थिती वापरात
     .accesskey = p
@@ -405,13 +338,6 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = पॉप अप जनेलां आडयात
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = अपवाद...
-    .accesskey = E
-
 ## Privacy Section - Data Collection
 
 
@@ -426,10 +352,6 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
-certs-header = प्रमाणपत्रां
-certs-enable-ocsp =
-    .label = प्रमाणपत्रांची सद्याची वैधता विचारपाक OCSP प्रतिसाद दिवपी सर्वरांक प्रस्न विचारात
-    .accesskey = प
 certs-devices-enable-fips = एफआयपीएस सक्षम
 
 ## Privacy Section - HTTPS-Only
@@ -445,7 +367,6 @@ certs-devices-enable-fips = एफआयपीएस सक्षम
 
 desktop-folder-name = डेस्कटॉप
 downloads-folder-name = डाऊनलोड
-choose-download-folder-title = डावनलोड धारक निवडात:
 
 ## Appearance page
 

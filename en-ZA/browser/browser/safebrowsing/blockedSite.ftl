@@ -22,6 +22,21 @@
 
 ##
 
-safeb-palm-notdeceptive =
-    .label = This isn’t a deceptive site…
-    .accesskey = d
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+## Variables:
+##  $addonName (string) - the name of the harmful add-on
+##  $sitename (string) - Domain name for the blocked page
+
+## Alert shown when reporting a site as not deceptive fails
+

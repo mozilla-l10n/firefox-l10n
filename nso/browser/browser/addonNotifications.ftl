@@ -15,7 +15,6 @@
 
 ##
 
-xpinstall-disabled-locked = Go lokela lenaneotirišo la khomphutha go šitišitšwe ke molaodi wa tshepedišo ya gago.
 xpinstall-disabled = Go lokela lenaneotirišo la khomphutha gabjale go šitišitšwe. Kgotla Kgonagatša gomme o leke gape.
 
 ## Add-on removal warning

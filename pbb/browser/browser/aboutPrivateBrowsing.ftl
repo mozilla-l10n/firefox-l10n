@@ -6,7 +6,17 @@ about-private-browsing-not-private = Ãçxteya mei'g vxitx leçxkwete jiyunximet
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
+##
+
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+## Strings used in a promotion message for Firefox Relay
+
 ## Strings used in a promotion message for cookie banner reduction
+
+## Strings for the info section of about:privatebrowsing
+
+## Strings for the Nova redesign of about:privatebrowsing
+
+## Strings for the Private Window basics spotlight
 

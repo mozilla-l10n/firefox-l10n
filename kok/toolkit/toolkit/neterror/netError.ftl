@@ -10,10 +10,17 @@ neterror-page-title = पान लोडिंग जातना आडमे�
 ## Error page actions
 
 neterror-learn-more-link = अदिक शिकात...
-neterror-try-again-button = परतून यत्न करात
+
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
 
 ##
 
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
 
 ## Specific error messages
 
@@ -39,8 +46,6 @@ neterror-file-not-found-filename = कॅपिटलायझेशनाखा
 neterror-file-not-found-moved = फायल हालयली, नवे नाव दिले वो काडून उडयली हे पळोवपाक तपासात.
 neterror-unknown-protocol = हो नामो उगडपाक तुमका हेर सॉफ्टवेर प्रतिष्ठापित करचे पडत.
 neterror-redirect-loop = कुकीज अक्षम केल्यार वो स्विकारपाक न्हयकाल्यार काय वेळार हो आडमेळ येव येता.
-neterror-unknown-socket-type-psm-installed = तुमच्या व्यवस्थेक खाजगी सुरक्षा व्यवस्थापक प्रतिष्ठापित आसा हाजी खात्री करपाक तपासात.
-neterror-unknown-socket-type-server-config = हे सर्वरावयल्या अ-प्रमाणित संरचनायेक लागून आसत.
 neterror-not-cached-intro = विनंती केल्लो दस्तावेज { -brand-short-name } च्या कॅशान उपलब्ध ना.
 neterror-not-cached-sensitive = सुरक्षेची काळजीम्हण, { -brand-short-name } आपसूक संवेदनशील दस्तावेजांची परत-विनंती करीना.
 neterror-not-cached-try-again = वेबसायटीवयल्यान दस्तावेजाची परत-विनंती करपाक परत यत्न करातचेर क्लीक करात.

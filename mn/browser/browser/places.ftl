@@ -31,9 +31,6 @@ places-by-day-and-site =
     .label = Огноо ба Хуудсаар
     .accesskey = б
 
-places-delete-domain-data =
-    .label = Энэ хуудсыг март
-    .accesskey = м
 places-sortby-name =
     .label = Нэрээр эрэмбэл
     .accesskey = э

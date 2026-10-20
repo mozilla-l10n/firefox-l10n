@@ -4,3 +4,6 @@
 
 alert-close =
     .tooltiptext = Zamkni ne wiadło
+
+## Reminder Notifications
+

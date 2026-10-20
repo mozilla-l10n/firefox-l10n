@@ -33,10 +33,10 @@ download-cert-view-text = Hlola isitifiketi se-CA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Isicelo Sokuhlonzwa Koyisebenzisayo
-client-auth-site-description = Le ngosi icele ukuba uzihlonze ngesitifiketi:
-client-auth-choose-cert = Khetha isitifiketi ozosiveza lapho uzihlonza:
 
 ## Set password (p12) dialog
 
@@ -52,4 +52,6 @@ set-password-reminder = Okubalulekile: Uma ukhohlwa igama lokungena lesitifiketi
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

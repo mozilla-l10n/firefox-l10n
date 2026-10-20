@@ -35,10 +35,10 @@ download-cert-view-text = सीए प्रमाणपत्र तपास�
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = वापरपी वळखुपी विनंती
-client-auth-site-description = तुमी प्रमाणपत्रासयत तुमका वळखुपाची विनंती सायटीन केल्या:
-client-auth-choose-cert = वळख म्हणून सादर करपाखातीर प्रमाणपत्र निवडात:
 
 ## Set password (p12) dialog
 
@@ -54,4 +54,6 @@ set-password-reminder = महत्त्वाचे: जर तुमी त�
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

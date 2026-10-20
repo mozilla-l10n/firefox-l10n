@@ -43,14 +43,18 @@ permissions-invalid-uri-label = Usabwe kwinjiza izinanturo ariyo
 ## Exceptions - Cookies
 
 
+## Exceptions - Clear on Shutdown
+
 ## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-desc = Ushobora kuvuga ayahe ma webu yemerewe gufungura ibyifungura. Injiza aderesi nyayo ya webu ushaka kwemerera maze ukande kuri Emera.
-
 ## Exceptions - Saved Logins
 
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+## Exceptions - Saved Passwords
 
 ## Exceptions - Add-ons
 
@@ -69,8 +73,16 @@ permissions-exceptions-addons-desc = Ushobora kuvuga ayahe mbuga zemerewe kwinji
 
 ## Site Permissions - Virtual Reality
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
 ## Site Permissions - Camera
 
+
+## Site Permissions - Loopback network
+
+## Site Permissions - Local network
 
 ## Site Permissions - Microphone
 

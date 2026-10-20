@@ -36,6 +36,8 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+## Account toolbar Button
+
 ## Save Page
 
 main-context-menu-page-save =
@@ -67,6 +69,8 @@ main-context-menu-open-link-new-private-window =
 ## The access keys for "Copy Link" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
+
+##
 
 main-context-menu-copy-email =
     .label = Fakádote úiraɨma
@@ -107,7 +111,7 @@ main-context-menu-media-hide-controls =
     .label = Okuíra Rétaido
     .accesskey = R
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
 main-context-menu-media-video-fullscreen =
     .label = Nána éroiya ráa
@@ -132,6 +136,8 @@ main-context-menu-video-email =
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
+
+##
 
 ##
 

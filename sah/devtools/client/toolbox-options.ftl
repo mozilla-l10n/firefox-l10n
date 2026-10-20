@@ -17,6 +17,12 @@ options-context-inspector = Инспектор
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 # The heading
@@ -27,6 +33,8 @@ options-styleeditor-label = Истиил эрэдээктэрэ
 
 ## Editor section
 
+
+## Local Mode section
 
 ## Advanced section
 

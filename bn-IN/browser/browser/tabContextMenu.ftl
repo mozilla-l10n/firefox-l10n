@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## Variables:
+##  $tabCount (Number): the number of tabs that are affected by the action.
+
 reload-tab =
     .label = ট্যাব পুনরায় লোড করুন
     .accesskey = R
@@ -57,10 +61,3 @@ move-to-new-window =
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
-tab-context-send-tabs-to-device =
-    .label =
-        { $tabCount ->
-            [one] ট্যাব ডিভাইসে পাঠান
-           *[other] { $tabCount } ট্যাবটিকে ডিভাইসে পাঠান
-        }
-    .accesskey = n

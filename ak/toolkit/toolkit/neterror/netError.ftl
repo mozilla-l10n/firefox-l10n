@@ -9,10 +9,16 @@ neterror-page-title = Kratafa atwe ehyia mfomso
 
 ## Error page actions
 
-neterror-try-again-button = San Sɔ Hwɛ
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
 
 ##
 
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
 
 ## Specific error messages
 
@@ -38,8 +44,6 @@ neterror-file-not-found-filename = Hwɛ fael ne din sɛ wo annyɛ mfomso biara w
 neterror-file-not-found-moved = Hwɛ sɛ wɔmmfaa fael no nnkɔɔ beebi foforo, wɔnntoo no din foforo anaaso wonnyii mmfiri kɔmputa no so koraa mpo a.
 neterror-unknown-protocol = Etumi ba no sɛ ɛwɔ sɛ wo instɔl sɔftwɛɛ afoforo ansaana wo etumi ebue adrɛs yi.
 neterror-redirect-loop = Etumi ba no sɛ ɛnam sɛ wo renngye  nkuki no nti na worenya ɔhaw yi.
-neterror-unknown-socket-type-psm-installed = Hwɛ sɛ wo kɔmputa no wɔ Personal Security Manager .
-neterror-unknown-socket-type-server-config = Etumi ba no sɛ asɛm yi resi efiri sɛ wɔayɛ nhyehyɛe a wɔnntae nnyɛ wɔ sɛɛva no so.
 neterror-not-cached-intro = Dɔkomɛnte a wo bisae no nni hɔ bio wɔ { -brand-short-name } asiei-bea mu.
 neterror-not-cached-sensitive = Ɛnam sikuriti nsɛm nti, { -brand-short-name } nnsan mmbisa adɔkomɛnte a wɔn ho hia paa wɔn ekyiri kwan bio.
 neterror-not-cached-try-again = Kleke San Sɔ Hwɛ fa san bisa dɔkomɛnte no firi wɛbsaet no so.

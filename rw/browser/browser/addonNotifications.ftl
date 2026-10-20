@@ -15,7 +15,6 @@
 
 ##
 
-xpinstall-disabled-locked = Iyinjizaporogaramu yahagaritswe n'uyobora sisitemu yawe.
 xpinstall-disabled = Iyinjizaporogaramu ubu yahagaritswe. Kanda Gufungura maze wongere.
 
 ## Add-on removal warning

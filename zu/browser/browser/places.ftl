@@ -31,9 +31,6 @@ places-by-day-and-site =
     .label = Ngosuku nangesayithi
     .accesskey = s
 
-places-delete-domain-data =
-    .label = Khohlwa ngaleli sayithi
-    .accesskey = n
 places-sortby-name =
     .label = Hlunga ngegama
     .accesskey = r
@@ -46,10 +43,6 @@ places-organize-button =
     .tooltiptext = Hlela izimpawu zakho zokubekisa
     .accesskey = H
 
-places-organize-button-mac =
-    .label = Hlela
-    .tooltiptext = Hlela izimpawu zakho zokubekisa
-
 places-file-close =
     .label = Vala
     .accesskey = V
@@ -61,10 +54,6 @@ places-view-button =
     .label = Ukubuka
     .tooltiptext = Shintsha ukubuka kwakho
     .accesskey = b
-
-places-view-button-mac =
-    .label = Ukubuka
-    .tooltiptext = Shintsha ukubuka kwakho
 
 places-view-menu-columns =
     .label = Bonisa uhlu
@@ -90,10 +79,6 @@ places-maintenance-button =
     .label = Faka bese wenza isipele
     .tooltiptext = Faka izimpawu zakho zokubekisa bese wenza isipele
     .accesskey = F
-
-places-maintenance-button-mac =
-    .label = Faka bese wenza isipele
-    .tooltiptext = Faka izimpawu zakho zokubekisa bese wenza isipele
 
 places-cmd-backup =
     .label = Isipele…

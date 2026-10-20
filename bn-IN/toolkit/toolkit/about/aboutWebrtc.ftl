@@ -21,7 +21,6 @@ about-webrtc-save-page-dialog-title = এমন ভাবে সংরক্ষ�
 about-webrtc-aec-logging-msg-label = AEC লগিং
 about-webrtc-aec-logging-off-state-label = AEC লগিং শুরু করুন
 about-webrtc-aec-logging-on-state-label = AEC লগিং বন্ধ করুন
-about-webrtc-aec-logging-on-state-msg = AEC লগিং সক্রিয় (শ্রোতার সাথে কিছুক্ষন কথা বলে তারপরে ক্যাপচার বন্ধ করুন)
 
 about-webrtc-aec-logging-toggled-on-state-msg = AEC লগিং সক্রিয় (শ্রোতার সাথে কিছুক্ষন কথা বলে তারপরে ক্যাপচার বন্ধ করুন)
 # Variables:
@@ -76,15 +75,7 @@ about-webrtc-nominated = মনোনীত
 about-webrtc-selected = নির্বাচিত
 
 about-webrtc-save-page-label = পেজ সংরক্ষণ করুন
-about-webrtc-debug-mode-msg-label = ডিবাগ মোড
-about-webrtc-debug-mode-off-state-label = ডিবাগ মোড শুরু করুন
-about-webrtc-debug-mode-on-state-label = ডিবাগ মোড থামান
-about-webrtc-stats-heading = সেশন স্ট্যাটিসটিক্স
 about-webrtc-log-heading = সংযোগ লগ
-about-webrtc-log-show-msg = লগ প্রদর্শন
-    .title = সেকসান প্রসারিত করারা জন্য ক্লিক করুন
-about-webrtc-log-hide-msg = লগ লোকান
-    .title = সেকসান ভেঙ্গে দেখার জন্য ক্লিক করুন
 
 about-webrtc-log-section-show-msg = লগ প্রদর্শন
     .title = সেকসান প্রসারিত করারা জন্য ক্লিক করুন
@@ -111,10 +102,6 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (বন�
 about-webrtc-local-candidate = স্থানীয় ক্যান্ডিডেট
 about-webrtc-remote-candidate = রিমোট ক্যান্ডিডেট
 about-webrtc-priority = গুরুত্ব
-about-webrtc-fold-show-msg = বিবরণ প্রদর্শন
-    .title = সেকসান প্রসারিত করারা জন্য ক্লিক করুন
-about-webrtc-fold-hide-msg = বিবরণ প্রদর্শন করা হবে না
-    .title = সেকসান ভেঙ্গে দেখার জন্য ক্লিক করুন
 about-webrtc-fold-default-show-msg = বিবরণ প্রদর্শন
     .title = সেকসান প্রসারিত করারা জন্য ক্লিক করুন
 about-webrtc-fold-default-hide-msg = বিবরণ প্রদর্শন করা হবে না
@@ -137,16 +124,14 @@ about-webrtc-encoder-label = এনকোডার
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
-about-webrtc-save-page-msg = পেজ সংরক্ষণ করা হয়েছে: { $path }
-about-webrtc-debug-mode-off-state-msg = ট্রেস লগ এখানে পাওয়া যাবে: { $path }
-about-webrtc-debug-mode-on-state-msg = ডিবাগ মোড সক্রিয়, ট্রেস লগ এখানে: { $path }
-about-webrtc-aec-logging-off-state-msg = ক্যাপচার করা লগ ফাইল গুলি এখানে পাওয়া যাবে: { $path }
-
-about-webrtc-save-page-complete-msg = পেজ সংরক্ষণ করা হয়েছে: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = ট্রেস লগ এখানে পাওয়া যাবে: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = ডিবাগ মোড সক্রিয়, ট্রেস লগ এখানে: { $path }
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
 
 ##
+
+##
+
+about-webrtc-save-page-complete-msg = পেজ সংরক্ষণ করা হয়েছে: { $path }
 
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
@@ -165,6 +150,4 @@ about-webrtc-jitter-label = জিটার { $jitter }
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
-
-##
 

@@ -19,6 +19,12 @@ options-context-inspector = Mohlahlobi
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 
@@ -27,6 +33,8 @@ options-context-inspector = Mohlahlobi
 
 ## Editor section
 
+
+## Local Mode section
 
 ## Advanced section
 

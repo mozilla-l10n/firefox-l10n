@@ -34,9 +34,6 @@ places-by-day-and-site =
 places-history =
     .aria-label = History
 
-places-delete-domain-data =
-    .label = Forget About This Site
-    .accesskey = F
 places-sortby-name =
     .label = Sort By Name
     .accesskey = r
@@ -49,10 +46,6 @@ places-organize-button =
     .tooltiptext = Organise your bookmarks
     .accesskey = O
 
-places-organize-button-mac =
-    .label = Organise
-    .tooltiptext = Organise your bookmarks
-
 places-file-close =
     .label = Close
     .accesskey = C
@@ -64,10 +57,6 @@ places-view-button =
     .label = Views
     .tooltiptext = Change your view
     .accesskey = V
-
-places-view-button-mac =
-    .label = Views
-    .tooltiptext = Change your view
 
 places-view-menu-columns =
     .label = Show Columns
@@ -93,10 +82,6 @@ places-maintenance-button =
     .label = Import and Backup
     .tooltiptext = Import and backup your bookmarks
     .accesskey = I
-
-places-maintenance-button-mac =
-    .label = Import and Backup
-    .tooltiptext = Import and backup your bookmarks
 
 places-cmd-backup =
     .label = Backup…

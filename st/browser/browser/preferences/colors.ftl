@@ -7,13 +7,5 @@ colors-close-key =
 
 colors-text-and-background = Mongolo le Bokamorao
 
-colors-use-system =
-    .label = Sebedisa mebala ya sistimi
-    .accesskey = e
-
-colors-underline-links =
-    .label = Sehella mahokela mola
-    .accesskey = s
-
 colors-links-header = Hokanya Mebala
 

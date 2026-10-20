@@ -33,10 +33,10 @@ download-cert-view-text = CA гэрчилгээг тохируулах
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Хэрэглэгчийг таниулах хүсэлт
-client-auth-site-description = Энэ хуудас таныг өөрийгөө гэрчилгээтэйгээ хамт таниулахыг хүсэж байна:
-client-auth-choose-cert = Таних явцыг харуулахын тулд гэрчилгээг сонгох:
 
 ## Set password (p12) dialog
 
@@ -52,4 +52,6 @@ set-password-reminder = Чухал: Хэрэв та гэрчилгээний н�
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

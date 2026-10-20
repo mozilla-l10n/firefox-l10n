@@ -38,9 +38,6 @@ places-history =
 places-bookmarks-search =
     .placeholder = বুকমার্কগুলি খুঁজুন
 
-places-delete-domain-data =
-    .label = এই সাইট সম্বন্ধে তথ্য সংরক্ষণ করা হবে না
-    .accesskey = F
 places-sortby-name =
     .label = নাম অনুসারে সুবিন্যস্ত করুন
     .accesskey = r
@@ -62,10 +59,6 @@ places-organize-button =
     .tooltiptext = বুকমার্ক সুবিন্যস্ত করুন
     .accesskey = O
 
-places-organize-button-mac =
-    .label = সংগঠিত
-    .tooltiptext = বুকমার্ক সুবিন্যস্ত করুন
-
 places-file-close =
     .label = বন্ধ করুন
     .accesskey = C
@@ -77,10 +70,6 @@ places-view-button =
     .label = প্রদর্শন
     .tooltiptext = প্রদর্শন পরিবর্তন করুন
     .accesskey = V
-
-places-view-button-mac =
-    .label = প্রদর্শন
-    .tooltiptext = প্রদর্শন পরিবর্তন করুন
 
 places-view-menu-columns =
     .label = কলাম প্রদর্শন করা হবে
@@ -106,10 +95,6 @@ places-maintenance-button =
     .label = ইমপোর্ট ও ব্যাক-আপ করুন
     .tooltiptext = বুকমার্ক ইম্পোর্ট ও ব্যাক-আপ করুন
     .accesskey = I
-
-places-maintenance-button-mac =
-    .label = ইমপোর্ট ও ব্যাক-আপ করুন
-    .tooltiptext = বুকমার্ক ইম্পোর্ট ও ব্যাক-আপ করুন
 
 places-cmd-backup =
     .label = ব্যাক-আপ করুন…

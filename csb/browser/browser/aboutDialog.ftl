@@ -11,7 +11,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Zladënk aktualizacje — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Zladënk aktualizacje — { $transfer }
 
@@ -22,7 +21,6 @@ settings-update-applying =
     .label = Instalacjô aktualizacje…
 update-failed = Aktualizacjô sã nie darziła. <label data-l10n-name="failed-link">Zladëjë nônowszą wersjã</label>
 update-failed-main = Aktualizacjô sã nie darziła. <a data-l10n-name="failed-link-main">Zladëjë nônowszą wersjã</a>
-update-adminDisabled = Aktualizacje są wëłączoné przez sprôwnika systemù
 update-noUpdatesFound = Program { -brand-short-name } je zaktualniony
 settings-update-no-updates-found =
     .label = Program { -brand-short-name } je zaktualniony
@@ -47,5 +45,3 @@ warningDesc-version = { -brand-short-name } je blós eksperimentalną wersją pr
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> je <label data-l10n-name="community-exp-creditsLink">swiatową spòlëzną</label> wëspółrobiącą, bë Internet béł bëlniészi. Mómë wiarã, że Internet mùszi bëc òtemkłi, pùbliczny i przistãpny dlô wszëtczich bez niżódnëch restrikcjów.
 community-2 = Program { -brand-short-name } je zaprojektowóny przez karno <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">swiatową spòlëzną</label> wëspółrobiącą, bë Internet béł bëlniészi. Mómë wiarã, że Internet mùszi bëc òtemkłi, pùbliczny i przistãpny dlô wszëtczich bez niżódnëch restrikcjów.
 bottomLinks-license = Wëdowiédzô ò licencje
-bottomLinks-rights = Prawa brëkòwnika
-bottomLinks-privacy = Pòlitika priwatnoscë

@@ -18,14 +18,29 @@
 ## Labels for sidebar history context menu items
 
 
+## Labels for sidebar bookmarks context menu items
+
+## Labels for sidebar open tabs context menu items
+
+## Labels for the open tabs panel options menu
+
+## Labels for the open tabs hover preview
+
 ## Labels for sidebar menu items.
 
 
 ## Tooltips for sidebar menu items.
 
 
+## Tooltips displayed over the AI chatbot icon.
+## Variables:
+##   $shortcut (String) - The OS specific keyboard shortcut.
+##   $provider (String) - The name of the AI chatbot provider (if available).
+
 ## Headings for sidebar menu panels.
 
+
+## Labels for sidebar bookmarks panel folder names.
 
 ## Titles for sidebar menu panels.
 

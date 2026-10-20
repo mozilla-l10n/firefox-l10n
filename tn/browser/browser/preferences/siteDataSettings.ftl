@@ -12,3 +12,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Tlosa
 
+## Clear all site data prompt
+

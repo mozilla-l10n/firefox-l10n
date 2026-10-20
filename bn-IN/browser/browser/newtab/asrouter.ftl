@@ -206,3 +206,6 @@ refresh-unused-profile-infobar-message = আপনি যখন একটি { -
 refresh-reinstalled-profile-infobar-message = দেখাচ্ছে আপনি { -brand-short-name } পুনরায় ইন্সটল করেছেন। আপনি কি চান একটা নতুনের জন্য এটাকে মুছে ফেলতে, মানে নতুন একটা অভিজ্ঞতা?
 refresh-profile-infobar-button = রিফ্রেশ করুন { -brand-short-name }…
     .accesskey = ফ
+
+## Infobar shown at startup to suggest session-restore
+

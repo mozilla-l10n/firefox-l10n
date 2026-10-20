@@ -19,7 +19,6 @@ xpinstall-prompt-dont-allow =
 
 ##
 
-xpinstall-disabled-locked = সিস্টেম অ্যাডমিনিস্ট্রেটর দ্বারা সফটওয়্যার ইনস্টলেশন বর্তমানে নিষ্ক্রিয় করা আছে।
 xpinstall-disabled = সফটওয়্যার ইনস্টলেশন বর্তমানে নিষ্ক্রিয় করা আছে। সক্রিয় বোতাম ক্লিক করে আবার চেষ্টা করুন।
 xpinstall-disabled-button =
     .label = সক্রিয়
@@ -34,9 +33,6 @@ webext-perms-update-menu-item = { $addonName } এর নতুন অনুম�
 
 ## Add-on removal warning
 
-# Variables:
-#   $name (String): the name of the extension which is about to be removed.
-addon-removal-message = { -brand-shorter-name } হতে { $name } অপসারণ করবেন?
 addon-removal-button = অপসারণ
 
 # Variables:
@@ -89,4 +85,3 @@ addon-local-install-error-not-signed = ভেরিফাই না হওয়া
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ইনস্টল করা যায় না কারণ এটা { -brand-short-name } { $appVersion } এর সাথে সুসংগতিপূর্ণ নয়।
-addon-install-error-blocklisted = { $addonName } ইনস্টল করা যায় না কারণ এর মারাত্মক স্থায়িত্ব বা নিরাপত্তাজনিত সমস্যা হওয়ার সম্ভাবনা রয়েছে।

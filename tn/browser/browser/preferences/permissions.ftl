@@ -31,14 +31,18 @@ permissions-invalid-uri-label = Tsweetswee tsenya leina la boamaaruri la khomphi
 ## Exceptions - Cookies
 
 
+## Exceptions - Clear on Shutdown
+
 ## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-desc = O ka totobatsa gore ke di webosaete dife tse di letletlelelwang go bula di window tse di tlhagelelang.. Tlanya aterese ya saete e o batlang go e letlelela mme o tobetse Letlelela.
-
 ## Exceptions - Saved Logins
 
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+## Exceptions - Saved Passwords
 
 ## Exceptions - Add-ons
 
@@ -56,8 +60,16 @@ permissions-exceptions-popup-desc = O ka totobatsa gore ke di webosaete dife tse
 
 ## Site Permissions - Virtual Reality
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
 ## Site Permissions - Camera
 
+
+## Site Permissions - Loopback network
+
+## Site Permissions - Local network
 
 ## Site Permissions - Microphone
 

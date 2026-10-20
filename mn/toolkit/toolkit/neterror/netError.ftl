@@ -9,10 +9,16 @@ neterror-page-title = Хуудас дуудах алдаа
 
 ## Error page actions
 
-neterror-try-again-button = Дахин оролд
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
 
 ##
 
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
 
 ## Specific error messages
 
@@ -37,13 +43,15 @@ neterror-unknown-protocol = Та энэ хаягийг нээхийн тулд �
 
 neterror-redirect-loop = Энэ хүндрэл заримдаа күүкиг хорих юм уу татгалзсан үед гардаг.
 
-neterror-unknown-socket-type-psm-installed = Та компьютерт Хувийн нууцлалын зохицуулагч суулгасан эсэхээ шалгана уу.
-neterror-unknown-socket-type-server-config = Энэ магадгүй сервер дээр стандарт бус тохиргуулга хийсэнтэй холбоотой.
-
 neterror-proxy-resolve-failure-settings = Проксигийн тохиргоо зөв эсэхийг шалгана уу.
 neterror-proxy-resolve-failure-connection = Таны компьютер ажиллагаатай сүлжээнд холбогдсон эсэхээ шалга.
 neterror-proxy-resolve-failure-firewall = Хэрэв таны компьютер эсвэл сүлжээ галт хана, эсвэл проксигоор хамгаалагдсан бол { -brand-short-name }-г вэб хуудсанд зорчих эрхтэй эсэхийг шалгана уу.
 
 neterror-proxy-connect-failure-settings = Проксигийн тохиргоо зөв эсэхийг шалгана уу.
 neterror-proxy-connect-failure-contact-admin = Прокси сервер ажиллаж буй эсэхийг сүлжээ зохицуулагчаас лавлана уу.
+
+## Felt Privacy V1 Strings
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 

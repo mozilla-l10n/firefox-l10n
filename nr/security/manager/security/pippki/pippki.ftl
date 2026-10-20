@@ -35,10 +35,10 @@ download-cert-view-text = Qalisisa Iintifikhethi zeCA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Isibawo sokwazisa umsebenzisi
-client-auth-site-description = Indawo le ibawe bonyana uzazise ngesitifikeyiti:
-client-auth-choose-cert = Khetha isitifikhethi ozosibonisa njengomazisi:
 client-auth-cert-details = Imininingwane yesitifikhethi esikhethiweko:
 
 ## Set password (p12) dialog
@@ -55,4 +55,6 @@ set-password-reminder = Kuqakathekile: Nakube uyalibala inomboro yokungena yesis
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

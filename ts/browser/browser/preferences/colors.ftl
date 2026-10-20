@@ -7,13 +7,5 @@ colors-close-key =
 
 colors-text-and-background = Tsalwa na Xitandzhaku
 
-colors-use-system =
-    .label = Tirhisa mihlovo ya sisiteme
-    .accesskey = t
-
-colors-underline-links =
-    .label = Tilinki leti yelanaka
-    .accesskey = t
-
 colors-links-header = Mihlovo ya linki
 

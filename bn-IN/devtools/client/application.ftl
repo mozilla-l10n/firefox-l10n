@@ -12,6 +12,15 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+
+### These strings are used inside the Application panel which is available
+### by setting the preference `devtools-application-enabled` to true.
+###
+### The correct localization of this file might be to keep it in English, or another
+### language commonly spoken among web developers. You want to make that choice consistent
+### across the developer tools. A good criteria is the language in which you'd find the
+### best documentation on web development on the web.
+
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = সার্ভিস ওয়ার্কার
 
@@ -21,12 +30,6 @@ serviceworker-list-aboutdebugging = অন্য ডোমেইনের সা
 
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = নিবন্ধন মুক্ত
-
-# Text for the debug link displayed for an already started Service Worker. Clicking on the
-# link opens a new devtools toolbox for this service worker. The title attribute is only
-# displayed when the link is disabled.
-serviceworker-worker-debug = ডিবাগ
-    .title = কেবলমাত্র চলন্ত সার্ভিস ওয়ার্কার ডিবাগ করা যাবে
 
 # Text displayed for the updated time of the service worker. The <time> element will
 # display the last update time of the service worker script.

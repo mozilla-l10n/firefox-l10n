@@ -18,9 +18,11 @@
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
 
+
 ### UI strings for the MR1 onboarding / multistage about:welcome
 ### Various strings use a non-breaking space to avoid a single dangling /
 ### widowed word, so test on various window sizes if you also want this.
+
 
 ## Welcome page strings
 
@@ -57,6 +59,7 @@ onboarding-start-browsing-button-label = ব্রাউজিং শুরু �
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -72,6 +75,10 @@ onboarding-start-browsing-button-label = ব্রাউজিং শুরু �
 ## when Firefox is not default browser
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
+
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -124,6 +131,10 @@ onboarding-start-browsing-button-label = ব্রাউজিং শুরু �
 ## Playmaker. You create…") to "X: you…" ("Playmaker: You create…"). This might
 ## help creating a more inclusive translation.
 
+## MR2022 Get Started screen strings.
+## These strings will be used on the welcome page
+## when Firefox is already set to default and pinned.
+
 ## MR2022 Multistage Mobile Download screen strings
 
 ## MR2022 Upgrade Dialog screens
@@ -139,4 +150,51 @@ onboarding-start-browsing-button-label = ব্রাউজিং শুরু �
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
 
 ## Device migration onboarding
+
+## Add-ons Picker screen
+
+## The following screens have been updated to use security and privacy focused strings:
+
+## New user time and familiarity survey strings
+
+## UI strings for the sidebar and vertical tabs
+
+## New user onboarding checklist
+
+## Tab Groups feature onboarding strings
+
+## Multi Profiles feature onboarding messages
+
+## Desktop to Mobile Adoption feature callout strings
+
+## Fx Backup onboarding: Create Backup spotlight
+
+## Fx Backup confirmation screen strings
+
+## These strings appear as a confirmation of which items will or won't be included as part of the selected backup method.
+
+## Restore from Backup Flow about:welcome screens
+
+## Restored from Backup spotlight
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+## Onboarding 2026 brand refresh
+
+## First Run Onboarding refresh strings
+
+## Smart window switcher callout
+
+## Smart Window ToU modal
+
+## Smart Window about:welcome screen
+
+## Smart Window Sidebar Auto-Open Pref
+
+## Theme Picker screen strings
+
+## Carousel navigation
+
+## Welcome Back Onboarding
 

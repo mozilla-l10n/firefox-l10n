@@ -169,3 +169,6 @@
 ## Both offer to reset the profile to a fresh state.
 
 refresh-unused-profile-infobar-message = Dôwno nie môsz zrëszoné profilu { -brand-short-name }. Chcész gò rëmnąc i zacząc òd nowa? Jidze to wiedno copnąc!
+
+## Infobar shown at startup to suggest session-restore
+

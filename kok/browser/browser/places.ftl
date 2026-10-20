@@ -34,9 +34,6 @@ places-by-day-and-site =
 places-history =
     .aria-label = इतिहास
 
-places-delete-domain-data =
-    .label = या सायटीविशीं विसरात
-    .accesskey = F
 places-sortby-name =
     .label = नावान वर्गीकरण
     .accesskey = r
@@ -49,10 +46,6 @@ places-organize-button =
     .tooltiptext = तुमच्या बुकमार्कांची आयोजना
     .accesskey = आ
 
-places-organize-button-mac =
-    .label = आयोजना
-    .tooltiptext = तुमच्या बुकमार्कांची आयोजना
-
 places-file-close =
     .label = बंद
     .accesskey = C
@@ -64,10 +57,6 @@ places-view-button =
     .label = दृश्यां
     .tooltiptext = तुमचे दृश्य बदलात
     .accesskey = द
-
-places-view-button-mac =
-    .label = दृश्यां
-    .tooltiptext = तुमचे दृश्य बदलात
 
 places-view-menu-columns =
     .label = स्तंभ दाखयात
@@ -93,10 +82,6 @@ places-maintenance-button =
     .label = आयात आणि बॅकअप
     .tooltiptext = तुमचे बुकमार्क आयात आणि बॅकअप करात
     .accesskey = I
-
-places-maintenance-button-mac =
-    .label = आयात आणि बॅकअप
-    .tooltiptext = तुमचे बुकमार्क आयात आणि बॅकअप करात
 
 places-cmd-backup =
     .label = बॅकअप…

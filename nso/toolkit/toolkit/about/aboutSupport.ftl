@@ -15,7 +15,6 @@ app-basics-profile-dir =
         [linux] Tšhupetšo ya profaele
        *[other] Foltara ya profaele
     }
-app-basics-enabled-plugins = Ditsebišo-koketšo tšeo di kgontšhitšwego
 app-basics-build-config = Peakanyo ya go aga
 app-basics-user-agent = Moemedi wa modiriši
 app-basics-memory-use = Tirišo ya polokelo
@@ -37,6 +36,10 @@ copy-raw-data-to-clipboard-label = Kopiša tsebišo e sa tswakwago go lenaneo-po
 
 
 ## Codec support table
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 ##
 
@@ -94,5 +97,11 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

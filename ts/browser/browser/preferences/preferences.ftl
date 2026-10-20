@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-category-general =
-    .tooltiptext = { pane-general-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Pfala
 
@@ -35,7 +26,6 @@ close-button =
 
 ## General Section
 
-startup-header = Startup
 startup-group =
     .label = Startup
 
@@ -48,30 +38,12 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Swa xiyimo xa le henhla...
-    .accesskey = w
-
 ## General Section - Files and Applications
 
 download-save-files-header =
     .label = Save files to
 download-save-where-3 =
     .aria-label = Save files to
-download-header = Downloads
-download-save-where = Save files to
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Choose...
-           *[other] Browse...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Fayili { $extension }
@@ -85,8 +57,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -115,7 +85,6 @@ applications-use-other-label =
 
 ## Accessibility page
 
-browsing-title = Secha
 browsing-use-autoscroll =
     .label = Use autoscrolling
     .accesskey = a
@@ -132,10 +101,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Settings...
-    .accesskey = e
 
 ## Home Section
 
@@ -298,7 +263,6 @@ certs-devices-enable-fips = FIPS yi kotekile
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Desikithopo
-choose-download-folder-title = Hlawula Folidara yo Panga:
 
 ## Appearance page
 
@@ -313,4 +277,6 @@ choose-download-folder-title = Hlawula Folidara yo Panga:
 
 
 ## Warnings section
+
+## Referrals Section
 

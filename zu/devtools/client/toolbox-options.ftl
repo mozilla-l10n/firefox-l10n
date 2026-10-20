@@ -19,6 +19,12 @@ options-context-inspector = Umhloli
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 
@@ -28,6 +34,8 @@ options-context-inspector = Umhloli
 ## Editor section
 
 options-sourceeditor-keybinding-default-label = Okwakhona
+
+## Local Mode section
 
 ## Advanced section
 

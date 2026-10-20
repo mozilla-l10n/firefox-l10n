@@ -6,3 +6,6 @@ customize-mode-restore-defaults =
     .label = Bušetša ditirelwa
 customize-mode-undo-cmd =
     .label = Dirolla
+
+## Labels for the special items that can be added to toolbars in customize mode
+

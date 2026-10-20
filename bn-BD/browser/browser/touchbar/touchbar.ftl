@@ -20,3 +20,4 @@ close-window = উইন্ডো বন্ধ করুন
 ## Various categories of shortcuts for search.
 
 ##
+

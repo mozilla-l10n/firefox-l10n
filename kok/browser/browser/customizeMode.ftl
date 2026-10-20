@@ -8,3 +8,6 @@ customize-mode-titlebar =
     .label = शिर्शक पट्टी
 customize-mode-undo-cmd =
     .label = केल्ले फाटी घेयात
+
+## Labels for the special items that can be added to toolbars in customize mode
+

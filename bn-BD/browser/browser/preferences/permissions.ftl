@@ -70,22 +70,18 @@ permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
 permissions-exceptions-cookie-desc = কোন ওয়েবসাইট সবসময় সাইট ডেটা এবং কুকিজ ব্যবহার করবে অথবা কোনটি কখনই করবে না তা আপনি নির্দিষ্ট করতে পারেন। ওয়েব সাইটের সঠিক ঠিকানা টাইপ করুন এবং তারপরে ব্লক করুন, সেশনের জন্য অনুমতি দিন, বা অনুমতি দিন।
 
+## Exceptions - Clear on Shutdown
+
 ## Exceptions - HTTPS-Only Mode
 
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window2 =
-    .title = ওয়েবসাইট সমূহ- পপ-আপ দেখাতে পারবে
-    .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = কোন ওয়েবসাইটগুলো পপ-আপ উইন্ডো প্রদর্শন করতে পারবে আপনি তা উল্লেখ করতে পারেন। সাইটের সঠিক ঠিকানা লিখে "অনুমোদন করা হবে" ক্লিক করুন।
-
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window2 =
-    .title = ব্যতিক্রম - সংরক্ষিত লগইন
-    .style = { permissions-window2.style }
-permissions-exceptions-saved-logins-desc = নিম্নলিখিত ওয়েবসাইটে লগইনগুলি সংরক্ষণ করা হবে না
+## Exceptions - Pop-ups And Third-Party Redirects
+
+## Exceptions - Saved Passwords
 
 ## Exceptions - Add-ons
 
@@ -120,6 +116,10 @@ permissions-site-location-disable-desc = এতে করে, উপরের �
 ## Site Permissions - Virtual Reality
 
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
@@ -129,6 +129,10 @@ permissions-site-camera-desc = নিচের ওয়েবসাইট স�
 permissions-site-camera-disable-label =
     .label = আপনার ক্যামেরা ব্যবহারের নতুন অনুরোধ ব্লক করুন
 permissions-site-camera-disable-desc = এতে করে, উপরের তালিকায় না থাকা ওয়েবসাইট, আপনার ক্যামেরা ব্যবহার করার অনুরোধ করতে পারবে না। তবে ক্যামেরা ব্যবহার করতে না দিলে ওয়েবসাইটের কিছু বৈশিষ্ট্যে ব্যাঘাত ঘটতে পারে।
+
+## Site Permissions - Loopback network
+
+## Site Permissions - Local network
 
 ## Site Permissions - Microphone
 

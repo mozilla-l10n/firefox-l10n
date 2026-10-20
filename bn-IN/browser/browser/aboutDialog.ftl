@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>আপডেট ডাউনলোড করা হচ্ছে — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = আপডেট ডাউনলোড করা হচ্ছে — { $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = আপডেট প্রয়োগ করা হচ্ছে…
 update-failed = আপডেট করতে ব্যর্থ। <label data-l10n-name="failed-link">সর্বশেষ সংস্করণ ডাউনলোড করুন</label>
 update-failed-main = আপডেট করতে ব্যর্থ। <a data-l10n-name="failed-link-main">সর্বশেষ সংস্করণ ডাউনলোড করুন</a>
-update-adminDisabled = সিস্টেম অ্যাডমিনিস্ট্রেটর দ্বারা আপডেট প্রাপ্তি নিষ্ক্রিয় করা হয়েছে
 update-noUpdatesFound = { -brand-short-name } আপডেট করা অবস্থায় রয়েছে
 settings-update-no-updates-found =
     .label = { -brand-short-name } আপডেট করা অবস্থায় রয়েছে
@@ -58,5 +56,3 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } পরিকল্পিত হয়েছে <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label> দ্বারা, একটি <label data-l10n-name="community-creditsLink">বিশ্বব্যাপী সম্প্রদায়</label> যা ওয়েবকে মুক্ত, সার্বজনীন ও সকলের ব্যবহারযোগ্য করার উদ্দেশ্যে একযোগে কাজ করে চলেছে।
 helpus = সাহায্য করতে চান? <label data-l10n-name="helpus-donateLink">দান করুন</label> অথবা <label data-l10n-name="helpus-getInvolvedLink">যোগদান করুন!</label>
 bottomLinks-license = লাইসেন্স সংক্রান্ত তথ্য
-bottomLinks-rights = ব্যবহারকারীদের অধিকার
-bottomLinks-privacy = গোপনীয়তা সংক্রান্ত নীতি

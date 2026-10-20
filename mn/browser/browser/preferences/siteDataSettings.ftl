@@ -12,3 +12,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Устга
 
+## Clear all site data prompt
+

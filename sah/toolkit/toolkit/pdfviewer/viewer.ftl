@@ -54,24 +54,12 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = Докумуон туруоруулара...
 pdfjs-document-properties-file-name = Билэ аата:
 pdfjs-document-properties-file-size = Билэ кээмэйэ:
-# Variables:
-#   $size_kb (Number) - the PDF file size in kilobytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-kb = { $size_kb } КБ ({ $size_b } баайт)
-# Variables:
-#   $size_mb (Number) - the PDF file size in megabytes
-#   $size_b (Number) - the PDF file size in bytes
-pdfjs-document-properties-mb = { $size_mb } МБ ({ $size_b } баайт)
 pdfjs-document-properties-title = Баһа:
 pdfjs-document-properties-author = Ааптар:
 pdfjs-document-properties-subject = Тиэмэ:
 pdfjs-document-properties-keywords = Күлүүс тыл:
 pdfjs-document-properties-creation-date = Оҥоһуллубут кэмэ:
 pdfjs-document-properties-modification-date = Уларытыллыбыт кэмэ:
-# Variables:
-#   $date (Date) - the creation/modification date of the PDF file
-#   $time (Time) - the creation/modification time of the PDF file
-pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-producer = PDF оҥорооччу:
 pdfjs-document-properties-version = PDF барыла:
 pdfjs-document-properties-page-count = Сирэй ахсаана:
@@ -95,25 +83,11 @@ pdfjs-printing-not-ready = Сэрэтии: PDF бэчээттииргэ толо
 
 ## Tooltips and alt text for side panel toolbar buttons
 
-pdfjs-toggle-sidebar-button =
-    .title = Ойоҕос хапталы арый/сап
-pdfjs-toggle-sidebar-button-label = Ойоҕос хапталы арый/сап
-pdfjs-document-outline-button-label = Дөкүмүөн иһинээҕитэ
-pdfjs-attachments-button =
-    .title = Кыбытыктары көрдөр
-pdfjs-attachments-button-label = Кыбытык
-pdfjs-thumbs-button =
-    .title = Ойуучааннары көрдөр
-pdfjs-thumbs-button-label = Ойуучааннар
 pdfjs-findbar-button =
     .title = Дөкүмүөнтэн бул
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
-# Variables:
-#   $page (Number) - the page number
-pdfjs-thumb-page-title =
-    .title = Сирэй { $page }
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
@@ -171,9 +145,80 @@ pdfjs-web-fonts-disabled = Ситим-бичиктэр араарыллыахт�
 ## Editing
 
 
+## Default editor aria labels
+
+## Remove button for the various kind of editor.
+
+##
+
 ## Alt-text dialog
 
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
+
+## Color picker
+
+## Show all highlights
+## This is a toggle button to show/hide all the highlights.
+
+## New alt-text dialog
+## Group note for entire feature: Alternative text (alt text) helps when people can't see the image. This feature includes a tool to create alt text automatically using an AI model that works locally on the user's device to preserve privacy.
+
+## Image alt-text settings
+
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+## "Annotations removed" bar
+
+## Add a signature dialog
+
+## Tab names
+
+## Tab panels
+
+## Controls
+
+## Dialog buttons
+
+## Comment popup
+
+##  Edit a comment dialog
+
+## Edit a comment button in the editor toolbar
+
+## The view manager is a sidebar displaying different views:
+##  - thumbnails;
+##  - outline;
+##  - attachments;
+##  - layers.
+## The thumbnails view is used to edit the pdf: remove/insert pages, ...
+
+## Digital signature properties (signature verification panel)
+
+## Banner shown above the signature list summarising the overall
+## verification state of the document. Each variant is selected by the
+## viewer based on the worst per-signature status; one signature is
+## enough to lower the banner.
+##
+## Variables:
+##   $count (Number) - number of signatures at the worst level.
+
+## Per-signature status row. Only three distinct strings are needed:
+## the signature crypto either verified (the cert chain may still be
+## untrusted/expired/revoked, but that's surfaced on the cert row
+## below), or it failed, or its sub-format isn't supported.
+
+## Per-signature certificate row. The variants with an issuer / date in
+## parentheses embed fully-localized context — no English fall-through.
+##
+## Variables:
+##   $issuer (String) - issuer or subject common name from the cert.
+##   $dateObj (Date)  - notAfter date for the expired-with-date form.
+
+## Main menu for adding/removing signatures
+
+## Editor toolbar
+
+## Edit signature description dialog
 

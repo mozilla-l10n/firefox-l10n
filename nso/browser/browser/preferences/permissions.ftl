@@ -43,14 +43,18 @@ permissions-invalid-uri-label = Hle tsenya leina la moamogedi leo le šomago
 ## Exceptions - Cookies
 
 
+## Exceptions - Clear on Shutdown
+
 ## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-desc = O ka laetša gore ke diwepesaete dife tšeo di dumeletšwego go bula mafasetere a runyago. Tlaya ka go nepa aterese yeo o nyakago go e dumelela gomme o kgotle Dumelela.
-
 ## Exceptions - Saved Logins
 
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+## Exceptions - Saved Passwords
 
 ## Exceptions - Add-ons
 
@@ -69,8 +73,16 @@ permissions-exceptions-addons-desc = O ka laetša gore ke diwepesaete dife tšeo
 
 ## Site Permissions - Virtual Reality
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
 ## Site Permissions - Camera
 
+
+## Site Permissions - Loopback network
+
+## Site Permissions - Local network
 
 ## Site Permissions - Microphone
 

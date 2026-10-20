@@ -7,13 +7,5 @@ colors-close-key =
 
 colors-text-and-background = Tekst i spòdlé
 
-colors-use-system =
-    .label = Ùżëjë systemòwëch farwów
-    .accesskey = Ù
-
-colors-underline-links =
-    .label = Pòdsztëchiwôj lënczi
-    .accesskey = ô
-
 colors-links-header = Farwë lënków
 

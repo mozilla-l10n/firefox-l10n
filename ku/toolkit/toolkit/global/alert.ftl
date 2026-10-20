@@ -4,3 +4,6 @@
 
 alert-close =
     .tooltiptext = Vê hişyariyê bigire
+
+## Reminder Notifications
+

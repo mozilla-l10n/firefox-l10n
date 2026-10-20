@@ -5,19 +5,10 @@
 about-reader-loading = লোড করা হচ্ছে…
 about-reader-load-error = পাতা থেকে নিবন্ধ লোড ব্যর্থ
 
-# An estimate for how long it takes to read an article,
-# expressed as a range covering both slow and fast readers.
-# Variables:
-#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
-#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
-about-reader-estimated-read-time =
-    { $rangePlural ->
-        [one] { $range } মিনিট
-       *[other] { $range } মিনিট
-    }
-
 ## These are used as tooltips in Type Control
 
+
+## Reader View text and layout menu
 
 ## These are the styles of typeface that are options in the reader view controls.
 
@@ -27,4 +18,12 @@ about-reader-font-type-sans-serif = সান্স-সেরিফ
 ## Reader View toolbar buttons
 
 about-reader-toolbar-close = রিডার ভিউ বন্ধ করুন
-about-reader-toolbar-type-controls = নিয়ন্ত্রণের ধরন
+
+## Reader View colors menu
+
+## These are used as labels for the custom theme color pickers.
+## The .title element is used to make the editing functionality
+## clear and give context for screen reader users.
+
+## Reader View text and layout menu
+

@@ -12,3 +12,5 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Yi
 
+## Clear all site data prompt
+

@@ -44,25 +44,16 @@ webrtc-sharing-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = আপনার ক্যামেরা এবং মাইক্রোফোন শেয়ার করা হচ্ছে। শেয়ারিং নিয়ন্ত্রণ করতে ক্লিক করুন।
-webrtc-indicator-sharing-camera =
-    .tooltiptext = আপনার ক্যামেরা শেয়ার করা হচ্ছে। শেয়ারিং নিয়ন্ত্রণ করতে ক্লিক করুন।
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = আপনার ক্যামেরা শেয়ার করা হচ্ছে। শেয়ারিং নিয়ন্ত্রণ করতে ক্লিক করুন।
-webrtc-indicator-sharing-application =
-    .tooltiptext = একটি অ্যাপ্লিকেশন শেয়ার করা করা হচ্ছে। শেয়ারিং নিয়ন্ত্রণ করতে ক্লিক করুন।
-webrtc-indicator-sharing-screen =
-    .tooltiptext = আপনার স্ক্রীন শেয়ার করা করা হচ্ছে। শেয়ারিং নিয়ন্ত্রণ করতে ক্লিক করুন।
-webrtc-indicator-sharing-window =
-    .tooltiptext = আপনার উইন্ডো শেয়ার করা করা হচ্ছে। শেয়ারিং নিয়ন্ত্রণ করতে ক্লিক করুন।
-webrtc-indicator-sharing-browser =
-    .tooltiptext = একটি ট্যাব শেয়ার করা করা হচ্ছে। শেয়ারিং নিয়ন্ত্রণ করতে ক্লিক করুন।
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
 ##   $streamTitle (String): the title of the tab using the share.
+##   $tabCount (Number): the title of the tab using the share.
+
+## These strings are only used on Mac for menus attached to icons
+## near the clock on the mac menubar.
+## Variables:
+##   $streamTitle (String): the host of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-control-sharing =
@@ -130,6 +121,8 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
 
+## Special phrasing for sharing devices when the origin is a file url.
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -137,7 +130,6 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 
 ##
 
-webrtc-share-screen-learn-more = আরও জানুন
 webrtc-share-entire-screen = সমস্ত স্ক্রিন
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).

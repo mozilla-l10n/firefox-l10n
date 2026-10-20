@@ -35,10 +35,10 @@ download-cert-view-text = Sprôwdzë certifikat Òrganu Certifikacje
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Żądanié identifikacje brëkòwnika
-client-auth-site-description = Na strona żądô identifikacje przez certifikat:
-client-auth-choose-cert = Wëbierzë certifikat dlô pòcwierdzeniô identifikacje:
 client-auth-cert-details = Detale wëbrónégò certifikatu:
 
 ## Set password (p12) dialog
@@ -55,4 +55,6 @@ set-password-reminder = Wôżné: żlë òbaczysz parolã certifikatu zazychrowa
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

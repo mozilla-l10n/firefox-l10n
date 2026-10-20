@@ -15,7 +15,6 @@
 
 ##
 
-xpinstall-disabled-locked = Sazkirina nivîsbariyê ji hêla rêvebiriya pergala te ve hat neçalakirin.
 xpinstall-disabled = Sazkirina nivîsbariyê niha hate neçalakirin. Çalakirinê bitikîne û bidomîne.
 
 ## Add-on removal warning

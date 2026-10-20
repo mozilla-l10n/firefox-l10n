@@ -8,3 +8,6 @@ customize-mode-titlebar =
     .label = Title Bar
 customize-mode-undo-cmd =
     .label = Undo
+
+## Labels for the special items that can be added to toolbars in customize mode
+

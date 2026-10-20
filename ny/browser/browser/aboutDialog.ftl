@@ -14,7 +14,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Kulowetsa zobwera kumene — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Kulowetsa zobwera kumene — { $transfer }
 
@@ -23,7 +22,6 @@ settings-update-downloading-2 =
 update-applying = Kufunsira zobwera kumene…
 settings-update-applying =
     .label = Kufunsira zobwera kumene…
-update-adminDisabled = Mauthenga atsopano sakutheka chifukwa cha ndondomeko ya mpangiri wanu
 update-noUpdatesFound = { -brand-short-name } ilipo mpaka lero
 settings-update-no-updates-found =
     .label = { -brand-short-name } ilipo mpaka lero
@@ -46,5 +44,3 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } inapangidwa ndi <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a<label data-l10n-name="community-creditsLink">madera a dziko lonse</label> kugwirila limodzi pakusunga Web yotsegula, kwa wina aliyense kugwiritsa ntchito.
 helpus = Mukufuna kuthandiza? <label data-l10n-name="helpus-donateLink">Pelekani chithandizo</label> kapena <label data-l10n-name="helpus-getInvolvedLink">lowererani!</label>
 bottomLinks-license = Uthenga wopangira chiphaso
-bottomLinks-rights = Kumaliza-Ufulu wa ogwiritsa
-bottomLinks-privacy = Ndondomeko za chinsinsi

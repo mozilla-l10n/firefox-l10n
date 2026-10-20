@@ -15,7 +15,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Pheu'nxisa's spahtxna ũ'sa—<label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Pheu'nxisa's spahtxna ũ'sa—{ $transfer }
 
@@ -26,7 +25,6 @@ settings-update-applying =
     .label = Pheu'nxisa's txi'na ũ'sa…
 update-failed = Pheu'nxiisa' suweka<label data-l10n-name="failed-link">Nmejth fxijnxi's spajtxna ũ'sa'</label>
 update-failed-main = Pheu'nxiisa' suweka<a data-l10n-name="failed-link-main">Nmejth fxijnxi's spajtxna ũ'sa'</a>
-update-adminDisabled = Pheu'çxa i'ne mfxiçxa
 update-noUpdatesFound = { -brand-short-name } nãa pheu'nxinxaja
 settings-update-no-updates-found =
     .label = { -brand-short-name } nãa pheu'nxinxaja
@@ -52,5 +50,3 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } txte'wesx phewuj'nxi ũ'sa' <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>,Teeçx <label data-l10n-name="community-creditsLink">jxuka pkha'khesawesx</label> jxukaisa mjina webas phandeçxa jipuwẽçxa, jxuka wesxi'h selpiwaj.
 helpus = ¿Pu'çxwega? <label data-l10n-name="helpus-donateLink">Idxa mipes</label>o <label data-l10n-name="helpus-getInvolvedLink">¡Miphkhakhe!</label>
 bottomLinks-license = Pta'sxsa's kwehkwe jxkaajane'ga
-bottomLinks-rights = Txajx pejxinxi'tx vxisya' ewun nmejtepa
-bottomLinks-privacy = Utxate idx jĩ's puutx pu'çxna peekxĩiçxa's

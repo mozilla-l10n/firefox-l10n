@@ -2,17 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-category-general =
-    .tooltiptext = { pane-general-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Aphna
 
@@ -148,10 +139,6 @@ search-choose-engine-column =
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
-sync-verification-sent-title = The'gçxa kahnxii
-sync-verification-not-sent-title = Naa thegnxi's ya' kahjxa ewumeen
-sync-verification-not-sent-body = Naa tundte ya' kahjxa ewumeen jxujuy kahnxisa'nxakh, na' meen ãçxkwe txi'txin takhenekh.
-
 ## Privacy Section
 
 
@@ -244,4 +231,6 @@ sync-verification-not-sent-body = Naa tundte ya' kahjxa ewumeen jxujuy kahnxisa'
 
 
 ## Warnings section
+
+## Referrals Section
 

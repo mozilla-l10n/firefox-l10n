@@ -18,6 +18,9 @@ cert-error-trust-self-signed = Sertîfîka ne ewle ye ji ber ku bixwe hatiye îm
 
 cert-error-untrusted-default = Çavkaniya sertîfîkayê ne ewle ye.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Çewtî! Di Girêdanê de Kêmasî hene
@@ -37,4 +40,9 @@ proxyConnectFailure-title = Pêşkêşkara proksiyê girêdanan red dike
 proxyResolveFailure-title = Pêşkêşkara proksiyê nayê dîtin to find the proxy server
 redirectLoop-title = redirectLoop sernav
 unknownSocketType-title = Çewtî! Soket nayê zanîn
-corruptedContentError-title = Çewtiya Naveroka Şikestî
+
+## Felt Privacy V1 Strings
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

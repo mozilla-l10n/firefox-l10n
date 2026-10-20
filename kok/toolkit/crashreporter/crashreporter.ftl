@@ -2,11 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = क्रॅश अहवाल दिवपी
-crashreporter-crash-message = { -brand-short-name } न आडमेळ आयल्लो आणि क्रॅश जालो.
 crashreporter-plea = आडमेळ सोदपाक आणि सोडोवपाक मदत करात, तुमी आमका क्रॅश अहवाल धाडपाक शकता.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = तपशील: { $details }
 crashreporter-no-run-message = क्रॅश जातकेर अनुप्रयोग विक्रेत्याक आडमेळाविशीं कळोवपाक हो अनुप्रयोग चलयलो वता. तो थेट चलोवपाक जायना.
 crashreporter-button-details = तपशील...
 crashreporter-view-report-title = आशय अहवाल

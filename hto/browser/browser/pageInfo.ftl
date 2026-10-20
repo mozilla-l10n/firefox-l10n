@@ -143,7 +143,6 @@ media-unknown-not-cached =
     .value = Ónoñega (caché íyano)
 permissions-use-default =
     .label = Já íte diga taɨji
-security-no-visits = Óiakañede
 
 # This string is used to display the type of
 # an image
@@ -177,14 +176,6 @@ media-file-size = { $size } KB
 
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
-
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
-media-block-image =
-    .label = Jánanɨaɨ ɨbai { $website }
-    .accesskey = B
 
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box

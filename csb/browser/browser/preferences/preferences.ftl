@@ -3,17 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Òglowé
-category-general =
-    .tooltiptext = { pane-general-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -41,10 +32,8 @@ should-restart-title = Zrëszë { -brand-short-name } znowa.
 
 ## General Section
 
-startup-header = Zrëszanié
 tabs-group-header2 =
     .label = Kôrtë
-tabs-group-header = Kôrtë
 show-tabs-in-taskbar =
     .label = Przeniesë kôrtë na lëstwã dzejaniô Windowsa
     .accesskey = P
@@ -60,9 +49,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Zaawansowóné…
-    .accesskey = Z
 choose-language-description = Wëbierzë preferowóny jãzëk
 choose-button =
     .label = Wëbierzë...
@@ -74,20 +60,6 @@ download-save-files-header =
     .label = Zapiszë lopczi do
 download-save-where-3 =
     .aria-label = Zapiszë lopczi do
-download-header = Zladënczi
-download-save-where = Zapiszë lopczi do
-    .accesskey = o
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Wëbierzë…
-           *[other] Przezérôj…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] b
-           *[other] r
-        }
 applications-type-column =
     .label = Ôrt zamkłoscë
     .accesskey = t
@@ -120,17 +92,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Ùżëwôj { $plugin-name } (w { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -143,10 +109,6 @@ applications-use-other-label =
     .value = { applications-use-other.label }
 
 ## Firefox updates
-
-update-application-use-service =
-    .label = Ùżëjë spòdlowi ùsłëżnotë instalowaniô aktualizacje
-    .accesskey = Ù
 
 ## About Firefox
 
@@ -165,7 +127,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Przezéranié
 browsing-use-autoscroll =
     .label = Ùżëjë aùtomatnégò przewijaniô
     .accesskey = é
@@ -182,10 +143,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Nastawë…
-    .accesskey = N
 
 ## Home Section
 
@@ -306,17 +263,9 @@ forms-master-pw-fips-desc = Zmiana parolë nie darziła sã.
 
 ## Privacy Section - History
 
-history-header = Historiô
-history-remember-option-all =
-    .label = Spamiãtiwô historiã
-history-remember-option-never =
-    .label = Nie spamiãtiwô historie
-history-remember-option-custom =
-    .label = Ùżiwô swòji historie
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
-history-dontremember-description = Program { -brand-short-name } bãdze brëkòwôł tëch sómëch nastawów co w priwatnym tribie i nie bãdze pamiãtôł historie przë przezéranim stronów WWW.
 history-private-browsing-permanent =
     .label = Wiedno ùżëwôj tribu priwatnégò przezéraniô sécë
     .accesskey = Ù
@@ -364,16 +313,7 @@ history-mode-radio-group =
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = Blokùjë wëskakùjącé òkna
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = Wëjimczi…
-    .accesskey = W
-
 ## Privacy Section - Data Collection
-
-collection-health-report-link = Wicy wëdowiedzë
 
 ## Privacy Section - Website Advertising Preferences
 
@@ -386,7 +326,6 @@ collection-health-report-link = Wicy wëdowiedzë
 
 ## Privacy Section - Certificates
 
-certs-header = Certifikatë
 certs-devices-enable-fips = Włączë FIPS
 
 ## Privacy Section - HTTPS-Only
@@ -402,7 +341,6 @@ certs-devices-enable-fips = Włączë FIPS
 
 desktop-folder-name = Pùlt
 downloads-folder-name = Zladënczi
-choose-download-folder-title = Wëbierzë katalog dlô zladënków:
 
 ## Appearance page
 

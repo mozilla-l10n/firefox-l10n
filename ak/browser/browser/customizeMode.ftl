@@ -8,3 +8,6 @@ customize-mode-titlebar =
     .label = Tisɛm baa
 customize-mode-undo-cmd =
     .label = Nnyɛ
+
+## Labels for the special items that can be added to toolbars in customize mode
+

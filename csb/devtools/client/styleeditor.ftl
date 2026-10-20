@@ -14,8 +14,6 @@ styleeditor-visibility-toggle =
 styleeditor-save-button = Zapiszë
     .tooltiptext = Zapiszë CSS do lopka
     .accesskey = Z
-styleeditor-editor-textbox =
-    .data-placeholder = Wpiszë CSS.
 styleeditor-no-stylesheet = Strona nimô sztélu CSS.
 styleeditor-no-stylesheet-tip = Perhaps you'd like to <a data-l10n-name="append-new-stylesheet">append a new style sheet</a>?
 styleeditor-find =

@@ -16,7 +16,6 @@ app-basics-profile-dir =
         [linux] Daerɛktri Ho-nsɛm
        *[other] Wo-ho-nsɛm Folda
     }
-app-basics-enabled-plugins = Mplagin a wɔasɔ
 app-basics-build-config = esi nhyehyɛe
 app-basics-user-agent = Odi dwuma Gyinamusini
 app-basics-memory-use = Mɛmri Adwumadi
@@ -34,6 +33,10 @@ library-version-title = Nwomasiebea Vɛɛhyennom
 
 
 ## Codec support table
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 ##
 
@@ -90,5 +93,11 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

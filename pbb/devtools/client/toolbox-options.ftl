@@ -17,6 +17,12 @@ options-context-inspector = Thẽhgsaa
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 
@@ -32,13 +38,12 @@ options-sourceeditor-tabsize-label = walasa's txhuden
 options-sourceeditor-keybinding-label = Kuh jwed phkithnxisaa
 options-sourceeditor-keybinding-default-label = Ãhçxaak  pey.
 
+## Local Mode section
+
 ## Advanced section
 
 # The heading
 options-context-advanced-settings = Phewu'n yaçka u'hsatx
-
-# The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = Teeçxaa pkhakhenxi ãaçxtewe'sx, akhya' pta'sxna
 
 ##
 

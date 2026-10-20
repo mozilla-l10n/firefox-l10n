@@ -14,6 +14,9 @@ cert-error-trust-expired-issuer = The certificate is not trusted because the iss
 
 cert-error-untrusted-default = Гэрчилгээ итгэлтэй эх үүсвэрээс ирээгүй байна.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Холбогдож чадахгүй байна
@@ -32,3 +35,9 @@ proxyConnectFailure-title = Прокси сервер холболтоос та�
 proxyResolveFailure-title = Прокси серверийг олж чадсангүй
 redirectLoop-title = Хуудсанд зөв дамжуулалт хийгдсэнгүй
 unknownSocketType-title = Хүсээгүй үед ирсэн серверийн хариулт
+
+## Felt Privacy V1 Strings
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

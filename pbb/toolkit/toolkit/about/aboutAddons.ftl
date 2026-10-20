@@ -97,15 +97,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Jxuka kãajãhnxisa fxiçxhanxiya' neyũutxna tud tud isa.
-extensions-warning-check-compatibility = Puutx jadasa's thẽhgna kãajãhna naa fxiçxanxisa's. Idxa' puutx jada kãajãnxisa's ji'phuya' ewune'ga.
-extensions-warning-safe-mode2 =
-    .message = Jxuka kãajãhnxisa fxiçxhanxiya' neyũutxna tud tud isa.
 extensions-warning-check-compatibility2 =
     .message = Puutx jadasa's thẽhgna kãajãhna naa fxiçxanxisa's. Idxa' puutx jada kãajãnxisa's ji'phuya' ewune'ga.
 extensions-warning-check-compatibility-button = Mki'ta
     .title = Kẽse'hna we'wen katxhuden ki'h kãajãhna.
-extensions-warning-update-security = Kthegun ãan isa dxi'htepa' pa'yakx kãajãhna ũsa' fxiçxhanxitepa'.Idxa' pa'ya'kx thẽgya' ewune'ga nmeh ũukhũkhsa' napkaçxha' yu'thẽwẽete'.
 extensions-warning-update-security2 =
     .message = Kthegun ãan isa dxi'htepa' pa'yakx kãajãhna ũsa' fxiçxhanxitepa'.Idxa' pa'ya'kx thẽgya' ewune'ga nmeh ũukhũkhsa' napkaçxha' yu'thẽwẽete'.
 extensions-warning-update-security-button = Mki'ta
@@ -184,28 +179,42 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
-details-notification-incompatible = { $name } puutx jadamesaa yakh { -brand-short-name } { $version }.
-# Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } puutx jadamesaa yakh { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } thẽgya' ewume' idx  vxiswa'ja's { -brand-short-name }. vxite çxhaçxhanimeya' ũsa'.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } thẽgya' ewume' idx  vxiswa'ja's { -brand-short-name }. vxite çxhaçxhanimeya' ũsa'.
-details-notification-unsigned-and-disabled-link = Jweiçxaa pta'sxna
-details-notification-unsigned = { $name } Thẽgya' ewume' idx vxiswa'ja's { -brand-short-name }. Nmeh pa'yakx katekahn.
 details-notification-unsigned2 =
     .message = { $name } Thẽgya' ewume' idx vxiswa'ja's { -brand-short-name }. Nmeh pa'yakx katekahn.
-details-notification-unsigned-link = Jweiçxaa pta'sxna
-details-notification-blocked = { $name } kapçhujunxi'k neeyũu napa yuwe ewmeesa' isasa' meeçxaa kxteewe'sx.
-details-notification-blocked2 =
-    .message = { $name } kapçhujunxi'k neeyũu napa yuwe ewmeesa' isasa' meeçxaa kxteewe'sx.
-details-notification-blocked-link = Jweiçxaa pta'sxna
-details-notification-softblocked = Ki´h jiigah { $name } isa yuwesa's meeçxa' kxtee ũssa's.
-details-notification-softblocked2 =
-    .message = Ki´h jiigah { $name } isa yuwesa's meeçxa' kxtee ũssa's.
-details-notification-softblocked-link = Jweiçxaa pta'sxna
-details-notification-gmp-pending = { $name } jxuhmee çxkitxãn.
 details-notification-gmp-pending2 =
     .message = { $name } jxuhmee çxkitxãn.
+
+## Gecko Media Plugins (GMPs)
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

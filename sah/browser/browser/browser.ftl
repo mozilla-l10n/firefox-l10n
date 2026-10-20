@@ -170,8 +170,8 @@ bookmarks-toolbar-placeholder-button =
 ## Repair text encoding toolbar button
 
 
-##
-
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -179,6 +179,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## EME notification panel
 
+
+## Notification bars for media playback issues
 
 ## Password save/update panel
 
@@ -195,6 +197,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
 
 
 ##

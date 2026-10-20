@@ -14,7 +14,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>अद्यावत डावनलोडींग करता-<label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = अद्यावत डावनलोडींग करता-{ $transfer }
 
@@ -25,7 +24,6 @@ settings-update-applying =
     .label = सुदार लागू करता...
 update-failed = अद्यावत अपेशी थारलां.<label data-l10n-name="failed-link">हालींची वर्जन डावनलोड करचें</label>
 update-failed-main = अद्यावत अपेशी थारलां.<a data-l10n-name="failed-link-main">हालींची वर्जन डावनलोड करचें</a>
-update-adminDisabled = तुमच्या यंत्रणा प्रशसकान अद्यावतां असक्रिय केल्यांत
 update-noUpdatesFound = { -brand-short-name } हें अद्यावत केल्लें आसा
 settings-update-no-updates-found =
     .label = { -brand-short-name } हें अद्यावत केल्लें आसा
@@ -51,5 +49,3 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } हें देझेन्य केलां<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a <label data-l10n-name="community-creditsLink">वैश्वीक समुदाय</label>वेब उक्ते, भौशिक आणि सगळ्यांखातीर खुले दवरपाक एकठांय काम करता
 helpus = मदत जाय? <label data-l10n-name="helpus-donateLink">दान दियात</label> वो<label data-l10n-name="helpus-getInvolvedLink">भाग घेयात!</label>
 bottomLinks-license = परवान्याची माहिती
-bottomLinks-rights = निमणो वापरपी हक्क
-bottomLinks-privacy = खासगी धोरण

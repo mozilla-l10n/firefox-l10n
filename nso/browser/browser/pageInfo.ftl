@@ -138,7 +138,6 @@ media-unknown-not-cached =
     .value = Ga e tsebje (ga se ya bolokwa)
 permissions-use-default =
     .label = Diriša tirelwa
-security-no-visits = Aowa
 
 # This string is used to display the type of
 # an image
@@ -172,14 +171,6 @@ media-file-size = { $size } KB
 
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
-
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
-media-block-image =
-    .label = Thibela diswantšho tšeo di tšwago go { $website }
-    .accesskey = B
 
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box

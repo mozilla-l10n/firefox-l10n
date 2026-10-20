@@ -7,13 +7,5 @@ colors-close-key =
 
 colors-text-and-background = Mafoko le Lemorago
 
-colors-use-system =
-    .label = Dirisa mebala ya tsamaiso
-    .accesskey = i
-
-colors-underline-links =
-    .label = Thalela digoke
-    .accesskey = T
-
 colors-links-header = Gokaganya Mebala
 

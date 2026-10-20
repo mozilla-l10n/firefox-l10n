@@ -18,7 +18,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>হালনাগাদ ডাউনলোড করা হচ্ছে — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = হালনাগাদ ডাউনলোড করা হচ্ছে — { $transfer }
 
@@ -29,7 +28,6 @@ settings-update-applying =
     .label = হালানাগাদ প্রয়োগ করা হচ্ছে…
 update-failed = হালনাগাদ ব্যর্থ। <label data-l10n-name="failed-link">সর্বশেষ সংস্করণ ডাউনলোড করুন</label>
 update-failed-main = হালনাগাদ ব্যর্থ। <a data-l10n-name="failed-link-main">সর্বশেষ সংস্করণ ডাউনলোড করুন</a>
-update-adminDisabled = সিস্টেম প্রশাসক কর্তৃক হালনাগাদ নিস্ক্রিয় করা রয়েছে
 update-noUpdatesFound = { -brand-short-name } হালনাগাদ করা হয়েছে
 settings-update-no-updates-found =
     .label = { -brand-short-name } হালনাগাদ করা হয়েছে
@@ -58,8 +56,6 @@ community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-shor
 community-2 = { -brand-short-name } নকশা করেছে <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, একটি <label data-l10n-name="community-creditsLink">আন্তর্জাতিক সম্প্রদায়</label> যারা ওয়েব কে মুক্ত, সার্বজনীন ও প্রবেশযোগ্য রাখতে, একসাথে কাজ করে যাচ্ছে।
 helpus = সাহায্য করতে চান? <label data-l10n-name="helpus-donateLink">দান করুন</label> অথবা <label data-l10n-name="helpus-getInvolvedLink">যোগদান করুন!</label>
 bottomLinks-license = লাইসেন্স এর তথ্য
-bottomLinks-rights = প্রান্তিক ব্যবহারকারীর অধিকার
-bottomLinks-privacy = গোপনীয়তা নীতি
 # Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
 # Variables:
 #   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1

@@ -35,10 +35,10 @@ download-cert-view-text = Examine CA certificate
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = User Identification Request
-client-auth-site-description = This site has requested that you identify yourself with a certificate:
-client-auth-choose-cert = Choose a certificate to present as identification:
 
 ## Set password (p12) dialog
 
@@ -54,4 +54,6 @@ set-password-reminder = Important: If you forget your certificate backup passwor
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

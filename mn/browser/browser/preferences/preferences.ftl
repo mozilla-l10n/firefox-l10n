@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Ердийн
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Хайх
     .title = Хайх
-pane-search-title = Хайх
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -42,10 +32,8 @@ should-restart-title = { -brand-short-name }-г шинээр ачаал
 
 ## General Section
 
-startup-header = Эхлэл
 tabs-group-header2 =
     .label = Самбар
-tabs-group-header = Самбар
 show-tabs-in-taskbar =
     .label = Виндовсийн табыг харуулах
     .accesskey = k
@@ -61,9 +49,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Нэмэлт…
-    .accesskey = м
 choose-language-description = Хуудас харуулахад хэрэглэгдэх хэлээ сонгоно уу
 choose-button =
     .label = Сонго…
@@ -78,20 +63,6 @@ download-save-files-header =
     .label = Файлыг энд хадгал
 download-save-where-3 =
     .aria-label = Файлыг энд хадгал
-download-header = Файл татаж авах үед
-download-save-where = Файлыг энд хадгал
-    .accesskey = д
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Сонго…
-           *[other] Зааж өг…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] о
-           *[other] ө
-        }
 applications-type-column =
     .label = Файлын төрөл
     .accesskey = ө
@@ -124,17 +95,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name }-г хэрэглэ ({ -brand-short-name }-д буй)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -166,7 +131,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Вэбд зорчих
 browsing-use-autoscroll =
     .label = Хуудсанд автомат гулгуур хэрэглэ
     .accesskey = в
@@ -300,16 +264,9 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = Зорчсон түүхийг хадгална
-history-remember-option-never =
-    .label = Зорчсон түүхийг хадгалахгүй
-history-remember-option-custom =
-    .label = Зорчсон түүхэнд дурын тохиргоо хэрэглэнэ
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
-history-dontremember-description = { -brand-short-name } хувийн зорчилттой ижил тохиргоо хэрэглэж вэбд зорчсон түүхийг хадгалахгүй байх болно.
 history-private-browsing-permanent =
     .label = Дандаа ашиглах & хувийн ачааллах загвар
     .accesskey = p
@@ -344,13 +301,6 @@ history-private-browsing-permanent =
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = Дэлгэгдэх цонхуудыг хорих
-    .accesskey = Д
-permissions-addon-exceptions =
-    .label = Тодорхойлж өгөх…
-    .accesskey = ж
-
 ## Privacy Section - Data Collection
 
 
@@ -365,7 +315,6 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
-certs-header = Гэрчилгээ
 certs-devices-enable-fips = FIPS зөвшөөр
 
 ## Privacy Section - HTTPS-Only
@@ -381,7 +330,6 @@ certs-devices-enable-fips = FIPS зөвшөөр
 
 desktop-folder-name = Ар дэвсгэр
 downloads-folder-name = Татаж авалтууд
-choose-download-folder-title = Татаж авалтын санг сонго:
 
 ## Appearance page
 
@@ -396,4 +344,6 @@ choose-download-folder-title = Татаж авалтын санг сонго:
 
 
 ## Warnings section
+
+## Referrals Section
 

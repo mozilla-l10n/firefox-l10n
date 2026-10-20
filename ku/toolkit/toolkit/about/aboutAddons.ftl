@@ -89,15 +89,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Hemû add-on ji hêla moda ewle ve hatin neçalakirin.
-extensions-warning-check-compatibility = Kontrolkirina hevgirtina add-onan hat neçalakirin. Dibe ku add-onên te yên hev nagirin hene.
-extensions-warning-safe-mode2 =
-    .message = Hemû add-on ji hêla moda ewle ve hatin neçalakirin.
 extensions-warning-check-compatibility2 =
     .message = Kontrolkirina hevgirtina add-onan hat neçalakirin. Dibe ku add-onên te yên hev nagirin hene.
 extensions-warning-check-compatibility-button = Çalakkirin
     .title = Destûrê bide kontrolkirina hevgirtina add-onan
-extensions-warning-update-security = Di rojanekirina add-onan de kontrolkirina ewlekariyê girtî ye. Dibe ku rojanekirin ne ewle bin.
 extensions-warning-update-security2 =
     .message = Di rojanekirina add-onan de kontrolkirina ewlekariyê girtî ye. Dibe ku rojanekirin ne ewle bin.
 extensions-warning-update-security-button = Çalakkirin
@@ -174,17 +169,36 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
-details-notification-incompatible = { $name } û { -brand-short-name } { $version } hev nagirin.
-# Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } û { -brand-short-name } { $version } hev nagirin.
-details-notification-blocked = { $name } ji ber sedemên ewlekariyê an jî kêmasiyên hevgiriyê hate neçalakirin.
-details-notification-blocked2 =
-    .message = { $name } ji ber sedemên ewlekariyê an jî kêmasiyên hevgiriyê hate neçalakirin.
-details-notification-blocked-link = Zêdetir agahî
-details-notification-softblocked = Tê zanîn ku { $name } dibe sedema kêmasiyên ewlekarî an jî hevgiriyê.
-details-notification-softblocked2 =
-    .message = Tê zanîn ku { $name } dibe sedema kêmasiyên ewlekarî an jî hevgiriyê.
-details-notification-softblocked-link = Zêdetir agahî
+
+## Gecko Media Plugins (GMPs)
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

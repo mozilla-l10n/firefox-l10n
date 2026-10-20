@@ -15,7 +15,6 @@
 
 ##
 
-xpinstall-disabled-locked = Ukufakwa kwe-software kukhutshazwe umphathi wohlelo lwakho.
 xpinstall-disabled = Ukufakela uhlaka olusetshenziswayo kwenziwe kwangasebenza okwamanje. Chofoza okuthi Lungisa Ongakhetha Kukho… ukuze ukwenze kusebenze bese uphinde uzame.
 
 ## Add-on removal warning

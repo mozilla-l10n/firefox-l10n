@@ -15,7 +15,6 @@
 
 ##
 
-xpinstall-disabled-locked = Software installation has been disabled by your system administrator.
 xpinstall-disabled = Software installation is currently disabled. Click Enable and try again.
 xpinstall-disabled-button =
     .label = Enable

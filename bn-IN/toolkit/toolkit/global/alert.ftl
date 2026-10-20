@@ -6,3 +6,6 @@ alert-close =
     .tooltiptext = বিজ্ঞপ্তিটি বন্ধ করুন
 alert-settings-title =
     .tooltiptext = বৈশিষ্ট্যাবলী
+
+## Reminder Notifications
+

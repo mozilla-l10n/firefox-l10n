@@ -34,9 +34,6 @@ places-by-day-and-site =
 places-history =
     .aria-label = Raborî
 
-places-delete-domain-data =
-    .label = Vê rûpelê ji bîr bike
-    .accesskey = b
 places-sortby-name =
     .label = li Gorî Navan Rêz Bike
     .accesskey = R
@@ -49,10 +46,6 @@ places-organize-button =
     .tooltiptext = Bijareyên xwe bi rê ve bibe
     .accesskey = O
 
-places-organize-button-mac =
-    .label = Organîze Bike
-    .tooltiptext = Bijareyên xwe bi rê ve bibe
-
 places-file-close =
     .label = Girtin
     .accesskey = G
@@ -64,10 +57,6 @@ places-view-button =
     .label = Xuyakirin
     .tooltiptext = Xuyakirina xwe biguherîne
     .accesskey = X
-
-places-view-button-mac =
-    .label = Xuyakirin
-    .tooltiptext = Xuyakirina xwe biguherîne
 
 places-view-menu-columns =
     .label = Stûnan Nîşan Bide
@@ -93,10 +82,6 @@ places-maintenance-button =
     .label = Bîne û Hilîne
     .tooltiptext = Bijareyên xwe derxe û hilîne
     .accesskey = i
-
-places-maintenance-button-mac =
-    .label = Bîne û Hilîne
-    .tooltiptext = Bijareyên xwe derxe û hilîne
 
 places-cmd-backup =
     .label = Hilîne

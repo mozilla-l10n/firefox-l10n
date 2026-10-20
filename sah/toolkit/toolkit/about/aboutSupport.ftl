@@ -17,7 +17,6 @@ app-basics-profile-dir =
         [linux] Профиль паапката
        *[other] Профиль паапката
     }
-app-basics-enabled-plugins = Холбоммут плагииннар
 app-basics-build-config = Торум (build) конфигурацията
 app-basics-user-agent = User Agent
 app-basics-memory-use = Долоҕойу туттуу
@@ -38,6 +37,10 @@ copy-raw-data-to-clipboard-label = Таҥастамматах дааннайда
 
 
 ## Codec support table
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 ##
 
@@ -95,5 +98,11 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

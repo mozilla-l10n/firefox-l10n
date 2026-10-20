@@ -15,7 +15,6 @@
 
 ##
 
-xpinstall-disabled-locked = Instalacjô softwôrë je wëłączonô przez sprôwnika systemù.
 xpinstall-disabled = Instalacjô softwôrë je wëłączonô. Klëkni na knąpã Włączë i spróbùjë znowa.
 xpinstall-disabled-button =
     .label = Włączë

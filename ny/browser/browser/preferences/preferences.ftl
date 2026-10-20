@@ -2,20 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Fufuzani
     .title = Fufuzani
-pane-search-title = Fufuzani
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Tsekani
 
@@ -51,7 +41,6 @@ close-button =
 
 ## General Section - Files and Applications
 
-download-header = Zotsitsidwa
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -61,8 +50,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -190,7 +177,6 @@ sync-engine-history =
 
 ## Privacy Section - History
 
-history-header = Mbiri
 history-group =
     .label = Mbiri
 history-mode-radio-group =

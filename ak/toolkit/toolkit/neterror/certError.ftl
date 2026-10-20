@@ -16,6 +16,9 @@ cert-error-trust-self-signed = Olukusa terwesigika kubanga lweteerako omukono.
 
 cert-error-untrusted-default = Olukusa teruva mu kkubo lyesigika.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nntumi nnkɔnɛkt
@@ -35,4 +38,9 @@ proxyConnectFailure-title = Prɔksi sɛɛva no renngye nkɔnɛkhyɛn biara
 proxyResolveFailure-title = Nntumi nnhu prɔksi sɛɛva no
 redirectLoop-title = Krataafa no rennkɔ beebi a ɛwɔ sɛ ɔkɔ no papa
 unknownSocketType-title = Eni nnda mbuae a efiri sɛɛva no hɔ aba yi
-corruptedContentError-title = Mfomso a ɛkyerɛ kɔntent a ne ho atɔ kyima
+
+## Felt Privacy V1 Strings
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

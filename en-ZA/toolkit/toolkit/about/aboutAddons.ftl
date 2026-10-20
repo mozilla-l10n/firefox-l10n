@@ -98,15 +98,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = All add-ons have been disabled by safe mode.
-extensions-warning-check-compatibility = Add-on compatibility checking is disabled. You may have incompatible add-ons.
-extensions-warning-safe-mode2 =
-    .message = All add-ons have been disabled by safe mode.
 extensions-warning-check-compatibility2 =
     .message = Add-on compatibility checking is disabled. You may have incompatible add-ons.
 extensions-warning-check-compatibility-button = Enable
     .title = Enable add-on compatibility checking
-extensions-warning-update-security = Add-on update security checking is disabled. You may be compromised by updates.
 extensions-warning-update-security2 =
     .message = Add-on update security checking is disabled. You may be compromised by updates.
 extensions-warning-update-security-button = Enable
@@ -185,29 +180,13 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
-details-notification-incompatible = { $name } is incompatible with { -brand-short-name } { $version }.
-# Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } is incompatible with { -brand-short-name } { $version }.
-details-notification-unsigned-and-disabled = { $name } could not be verified for use in { -brand-short-name } and has been disabled.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } could not be verified for use in { -brand-short-name } and has been disabled.
-details-notification-unsigned-and-disabled-link = More Information
-details-notification-unsigned = { $name } could not be verified for use in { -brand-short-name }. Proceed with caution.
 details-notification-unsigned2 =
     .message = { $name } could not be verified for use in { -brand-short-name }. Proceed with caution.
-details-notification-unsigned-link = More Information
-details-notification-blocked = { $name } has been disabled due to security or stability issues.
-details-notification-blocked2 =
-    .message = { $name } has been disabled due to security or stability issues.
-details-notification-blocked-link = More Information
-details-notification-softblocked = { $name } is known to cause security or stability issues.
-details-notification-softblocked2 =
-    .message = { $name } is known to cause security or stability issues.
-details-notification-softblocked-link = More Information
-details-notification-gmp-pending = { $name } will be installed shortly.
 details-notification-gmp-pending2 =
     .message = { $name } will be installed shortly.
 
@@ -218,3 +197,31 @@ plugins-gmp-privacy-info = Privacy Information
 plugins-openh264-name = OpenH264 Video Codec provided by Cisco Systems, Inc.
 plugins-openh264-description = This plugin is automatically installed by Mozilla to comply with the WebRTC specification and to enable WebRTC calls with devices that require the H.264 video codec. Visit https://www.openh264.org/ to view the codec source code and learn more about the implementation.
 plugins-widevine-name = Widevine Content Decryption Module provided by Google Inc.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

@@ -14,7 +14,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Саҥардыы хаамыыта — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Саҥардыы хаамыыта — { $transfer }
 
@@ -25,7 +24,6 @@ settings-update-applying =
     .label = Саҥардыыны туһаныы...
 update-failed = Саҥардыы сатаммата.<label data-l10n-name="failed-link">Бүтэһик барылын хачайдаа</label>
 update-failed-main = Саҥардыы сатаммата.<a data-l10n-name="failed-link-main">Бүтэһик барылын хачайдаа</a>
-update-adminDisabled = Саҥардыыны дьаһабыл боппут
 update-noUpdatesFound = { -brand-short-name } тиһэх барыла турар эбит
 settings-update-no-updates-found =
     .label = { -brand-short-name } тиһэх барыла турар эбит
@@ -50,5 +48,3 @@ warningDesc-version = { -brand-short-name } тургутуллар, онон о�
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> буолар <label data-l10n-name="community-exp-creditsLink">аан дойдутааҕы холбоһук</label>Интэриниэт кимиэхэ баҕарар аһаҕас, көҥүл, босхо буоларын туһугар үлэлиир.
 community-2 = { -brand-short-name } оҥоһуллубут <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">аан дойдутааҕы холбоһук</label>Интэриниэт кимиэхэ баҕарар аһаҕас, көҥүл буоларын туһугар үлэлиир.
 bottomLinks-license = Лиссиэнсийэ туһунан
-bottomLinks-rights = Бүтэһик кыттааччы бырааба
-bottomLinks-privacy = Көмүскэл сиэрэ

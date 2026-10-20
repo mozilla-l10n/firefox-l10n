@@ -9,3 +9,10 @@
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+##
+
+## The upload interface is shown only with the preference toolkit.aboutLogging.uploadProfileToCloud
+## set to true. It is false by default, except on Android.
+
+## Uploaded Profiles section
+

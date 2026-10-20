@@ -86,11 +86,14 @@ about-webrtc-local-candidate = Béno íe jónegamakɨ
 ## Variables:
 ##  $path (String) - The path to which the file is saved.
 
-about-webrtc-save-page-msg = Rabe jonega bíemo: { $path }
-
-about-webrtc-save-page-complete-msg = Rabe jonega bíemo: { $path }
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
 
 ##
+
+##
+
+about-webrtc-save-page-complete-msg = Rabe jonega bíemo: { $path }
 
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
@@ -109,6 +112,4 @@ about-webrtc-jitter-label = Jitter { $jitter }
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
-
-##
 

@@ -29,10 +29,10 @@ download-cert-view-text = Kenenya Satifiketi ya CA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Ebikwata ku Mukozesa Bisabwa
-client-auth-site-description = Omuko guno gusabye ebikukwatako ne satifiketi yo:
-client-auth-choose-cert = Londako satifiketi jogenda kuwayo ne bikukwatako:
 
 ## Set password (p12) dialog
 
@@ -48,4 +48,6 @@ set-password-reminder = Important: If you forget your certificate backup passwor
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

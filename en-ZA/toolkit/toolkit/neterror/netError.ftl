@@ -12,11 +12,16 @@ neterror-page-title = Problem loading page
 neterror-copy-to-clipboard-button = Copy text to clipboard
 neterror-learn-more-link = Learn more…
 neterror-return-to-previous-page-button = Go Back
-neterror-try-again-button = Try Again
+
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
 
 ##
 
-neterror-error-reporting-automatic = Report errors like this to help { -vendor-short-name } identify and block malicious sites
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
 
 ## Specific error messages
 
@@ -43,8 +48,6 @@ neterror-file-not-found-moved = Check to see if the file was moved, renamed or d
 neterror-access-denied = It may have been removed, moved, or file permissions may be preventing access.
 neterror-unknown-protocol = You might need to install other software to open this address.
 neterror-redirect-loop = This problem can sometimes be caused by disabling or refusing to accept cookies.
-neterror-unknown-socket-type-psm-installed = Check to make sure your system has the Personal Security Manager installed.
-neterror-unknown-socket-type-server-config = This might be due to a non-standard configuration on the server.
 neterror-not-cached-intro = The requested document is not available in { -brand-short-name }’s cache.
 neterror-not-cached-sensitive = As a security precaution, { -brand-short-name } does not automatically re-request sensitive documents.
 neterror-not-cached-try-again = Click Try Again to re-request the document from the website.

@@ -6,3 +6,6 @@ customize-mode-titlebar =
     .label = Káifo rábemo
 customize-mode-undo-cmd =
     .label = Óni dóta
+
+## Labels for the special items that can be added to toolbars in customize mode
+

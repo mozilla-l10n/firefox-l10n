@@ -7,13 +7,5 @@ colors-close-key =
 
 colors-text-and-background = Umtlolo nangemuva kwawo
 
-colors-use-system =
-    .label = Sebenzisa ihlelo lemibala
-    .accesskey = s
-
-colors-underline-links =
-    .label = Dwebela ihlanganiso
-    .accesskey = d
-
 colors-links-header = Hlanganisa imibala
 

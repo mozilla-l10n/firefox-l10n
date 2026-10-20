@@ -24,6 +24,10 @@ options-select-additional-tools-label = Dewelopersczé nôrzãdła winstalowón�
 ## Web Console section
 
 
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 
@@ -32,6 +36,8 @@ options-select-additional-tools-label = Dewelopersczé nôrzãdła winstalowón�
 
 ## Editor section
 
+
+## Local Mode section
 
 ## Advanced section
 

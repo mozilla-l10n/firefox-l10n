@@ -9,10 +9,16 @@ neterror-page-title = Сирэйи хачайдыыр сатаммата
 
 ## Error page actions
 
-neterror-try-again-button = Хатылаан көр
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
 
 ##
 
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
 
 ## Specific error messages
 
@@ -38,8 +44,6 @@ neterror-file-not-found-filename = Билэ аата сөпкө суруллуб
 neterror-file-not-found-moved = Баҕар билэ аата уларыйбыта, эбэтэр билэ сотуллубута дуу, көһөрүллүбүтэ дуу буолуо.
 neterror-unknown-protocol = Бу аадырыһы арыйарга баҕар туспа бырагыраамманы туруорар наада буолуо.
 neterror-redirect-loop = Маннык кыһалҕа кууканыараардахха эбэтэр ылары боптоххо тахсыан сөп.
-neterror-unknown-socket-type-psm-installed = Көмпүүтэргэр «Тус көмүскүүр тэрил (PSM)» турарын тургут.
-neterror-unknown-socket-type-server-config = Баҕар субу сиэрбэр конфигурациятыттан тахсыбыта буолуо.
 neterror-not-cached-intro = Көрдөнүллүбүт дөкүмүөн кэшкэ суох { -brand-short-name }.
 neterror-not-cached-sensitive = Куттал суоһаабатын диэн { -brand-short-name } аптамаатынан хос көрдөөбөт.
 neterror-not-cached-try-again = Дөкүмүөнү хат көрдүүргэ «Хат хачайдаа» диэни баттаа.

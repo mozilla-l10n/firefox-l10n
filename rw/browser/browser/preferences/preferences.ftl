@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Rusange
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Gushakisha
     .title = Gushakisha
-pane-search-title = Gushakisha
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Gufunga
 
@@ -39,10 +29,8 @@ close-button =
 
 ## General Section
 
-startup-header = Ntangiriro
 tabs-group-header2 =
     .label = Udufishi
-tabs-group-header = Udufishi
 startup-group =
     .label = Ntangiriro
 
@@ -55,9 +43,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Bihanitse...
-    .accesskey = h
 translate-exceptions =
     .label = Amarengayobora...
     .accesskey = r
@@ -68,20 +53,6 @@ download-save-files-header =
     .label = Kubika dosiye mu
 download-save-where-3 =
     .aria-label = Kubika dosiye mu
-download-header = Ibyakuruwe
-download-save-where = Kubika dosiye mu
-    .accesskey = K
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Guhitamo...
-           *[other] Gushakisha...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] h
-           *[other] h
-        }
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Idosiye ya { $extension }
@@ -97,8 +68,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -127,7 +96,6 @@ applications-use-other-label =
 
 ## Accessibility page
 
-browsing-title = Gushakisha
 browsing-use-autoscroll =
     .label = Gukoresha Nyamwinyereza
     .accesskey = k
@@ -144,10 +112,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Amagenamiterere...
-    .accesskey = g
 
 ## Home Section
 
@@ -287,13 +251,6 @@ forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = Guhagarika Amadirishya y'Ibyiramburirahejuru
-    .accesskey = h
-permissions-addon-exceptions =
-    .label = Amarengayobora...
-    .accesskey = r
-
 ## Privacy Section - Data Collection
 
 
@@ -308,7 +265,6 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
-certs-header = Ibyemezo
 certs-devices-enable-fips = Gukoresha FIPS
 
 ## Privacy Section - HTTPS-Only
@@ -323,7 +279,6 @@ certs-devices-enable-fips = Gukoresha FIPS
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Ibiro
-choose-download-folder-title = Guhitamo Ububiko bw'Iyimura:
 
 ## Appearance page
 
@@ -338,4 +293,6 @@ choose-download-folder-title = Guhitamo Ububiko bw'Iyimura:
 
 
 ## Warnings section
+
+## Referrals Section
 

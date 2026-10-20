@@ -16,7 +16,6 @@ xpinstall-prompt = { -brand-short-name } न ह्या सायटीक त
 
 ##
 
-xpinstall-disabled-locked = सॉफ्टवेयर प्रतिष्ठापन तुमच्या व्यवस्था प्रशासकान अक्षम केला.
 xpinstall-disabled = सॉफ्टवेअर प्रतिष्ठापन सद्या अक्षम आसा. सक्षम क्लीक करात आणि परत यत्न करात.
 
 ## Add-on removal warning

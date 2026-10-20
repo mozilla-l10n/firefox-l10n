@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Nána
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Jénode
     .title = Jénode
-pane-search-title = Jénode
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 
 ## Browser Restart Dialog
 
@@ -39,12 +29,8 @@ restart-later = Úire abɨdo taineye
 
 ## General Section
 
-startup-header = Táɨnia
-is-default = { -brand-short-name } ó makara ja beno íte
-is-not-default = { -brand-short-name } ó makara ja beno íte
 tabs-group-header2 =
     .label = Úitɨraɨ
-tabs-group-header = Úitɨraɨ
 show-tabs-in-taskbar =
     .label = Akatari úitɨraɨ radozi Windows íyano
     .accesskey = k
@@ -60,19 +46,10 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Árifene...
-    .accesskey = Á
 choose-language-description = Ñúe úiado nɨze web jenoyena
 choose-button =
     .label = Nɨzede...
     .accesskey = z
-translate-web-pages =
-    .label = Web íyano jɨaɨe úiaido jone
-    .accesskey = W
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Jɨaɨe úiaido jonega bíedo <img data-l10n-name="logo"/> .
 translate-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = a
@@ -83,20 +60,6 @@ download-save-files-header =
     .label = Dáma jone bénomo
 download-save-where-3 =
     .aria-label = Dáma jone bénomo
-download-header = Yúnua
-download-save-where = Dáma jone bénomo
-    .accesskey = D
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Nɨzede...
-           *[other] Ñúe éroide...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] N
-           *[other] é
-        }
 applications-type-column =
     .label = Ráa ofítaɨra ízoi
     .accesskey = í
@@ -119,17 +82,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Fɨno { $plugin-name } (en { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -159,7 +116,6 @@ play-drm-content-learn-more = Aiyo onóde
 
 ## Accessibility page
 
-browsing-title = Makara
 browsing-use-autoscroll =
     .label = Dama gɨgɨta jone
     .accesskey = g
@@ -170,10 +126,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Abɨdo  fɨnoka...
-    .accesskey = A
 
 ## Home Section
 
@@ -234,8 +186,6 @@ sync-mobile-promo = Firefox yunude nɨbai <img data-l10n-name="android-icon"/> <
 
 ## Firefox account - Signed in
 
-sync-profile-picture =
-    .tooltiptext = Jɨaɨe jóreño ó náama mamekɨmo jóne
 sync-profile-picture-with-alt =
     .tooltiptext = Jɨaɨe jóreño ó náama mamekɨmo jóne
     .alt = Jɨaɨe jóreño ó náama mamekɨmo jóne
@@ -296,9 +246,6 @@ sync-device-name-input =
 forms-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = a
-forms-saved-logins =
-    .label = Taɨnede yuamo ñúe jonega…
-    .accesskey = T
 forms-master-pw-change =
     .label = Jɨaɨe jóne...
     .accesskey = j
@@ -314,17 +261,9 @@ forms-master-pw-change =
 
 ## Privacy Section - History
 
-history-header = Jagaɨ
-history-remember-option-all =
-    .label = Jágaɨ úibiri
-history-remember-option-never =
-    .label = Jágaɨ úibiñeniri
-history-remember-option-custom =
-    .label = Kúe dama ñúe fɨnoyena jagaɨ
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
-history-dontremember-description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
 history-private-browsing-permanent =
     .label = Dama& ó makara benomo íri
     .accesskey = p
@@ -378,13 +317,6 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Permissions
 
-permissions-notification = Ráfue yote
-permissions-block-popups =
-    .label = Eroirafo zúiya ɨ́bai
-    .accesskey = E
-permissions-addon-exceptions =
-    .label = Jɨ́aɨmakɨ…
-    .accesskey = J
 permissions-notification2 =
     .label = Ráfue yote
 

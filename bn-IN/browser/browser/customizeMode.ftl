@@ -27,3 +27,6 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = স্বাভাবিক
 customize-mode-undo-cmd =
     .label = পূর্বাবস্থা
+
+## Labels for the special items that can be added to toolbars in customize mode
+

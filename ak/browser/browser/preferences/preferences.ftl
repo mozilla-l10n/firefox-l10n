@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Gyɛnɛral
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Hwehwɛ
     .title = Hwehwɛ
-pane-search-title = Hwehwɛ
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -44,11 +34,8 @@ should-restart-title = San hyɛ { -brand-short-name } ase
 
 ## General Section
 
-startup-header = Nhyɛase
-is-default = { -brand-short-name } yɛ wo brawsa a ɛyɛ difɔlt seisei
 tabs-group-header2 =
     .label = Ntab
-tabs-group-header = Ntab
 show-tabs-in-taskbar =
     .label = Kyerɛ ntab priviw wɔ Windows taskbaa ne so
     .accesskey = b
@@ -64,9 +51,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Akɔenim…
-    .accesskey = A
 choose-language-description = Paw kasa a wo pɛ sɛ wo de kyerɛ nkrataafa
 choose-button =
     .label = Paw…
@@ -81,20 +65,6 @@ download-save-files-header =
     .label = Sie mfael kɔ
 download-save-where-3 =
     .aria-label = Sie mfael kɔ
-download-header = Ntwe
-download-save-where = Sie mfael kɔ
-    .accesskey = e
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Paw…
-           *[other] Brawse…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] w
-           *[other] a
-        }
 applications-type-column =
     .label = Emu nsɛm tebea
     .accesskey = t
@@ -127,17 +97,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Fa { $plugin-name } yɛ (wɔ { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -150,10 +114,6 @@ applications-use-other-label =
     .value = { applications-use-other.label }
 
 ## Firefox updates
-
-update-application-use-service =
-    .label = Fa ndaekyiri asom no instɔɔle ntoso bi
-    .accesskey = n
 
 ## About Firefox
 
@@ -172,7 +132,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Ɛrebrawse
 browsing-use-autoscroll =
     .label = Yɛ otomatik mpia
     .accesskey = o
@@ -189,10 +148,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Nhyehyɛe…
-    .accesskey = y
 
 ## Home Section
 
@@ -320,16 +275,9 @@ forms-master-pw-fips-desc = Ehintasɛmfua nsakrae dii nkugu
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = Kae abakɔsɛm
-history-remember-option-never =
-    .label = Mma nnkae abakɔsɛm biara
-history-remember-option-custom =
-    .label = Hyehyɛ abakɔsɛm ankorankorɛ
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
-history-dontremember-description = { -brand-short-name } de nhyehyɛe te sɛ brawsen praevet de bedi dwuma, na ɔrennkae wo abakɔsɛm biara wɔ bere a wo brawse Wɛb no so.
 history-private-browsing-permanent =
     .label = Fa tebea praevet a wɔde brawse di dwuma abere biara
     .accesskey = p
@@ -373,13 +321,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = Siw ntokuro mpɔpap
-    .accesskey = S
-permissions-addon-exceptions =
-    .label = Ngyegye…
-    .accesskey = e
-
 ## Privacy Section - Data Collection
 
 
@@ -394,7 +335,6 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
-certs-header = Abasobɔde nkrataa
 certs-devices-enable-fips = Ekyisobozisa FIPS
 
 ## Privacy Section - HTTPS-Only
@@ -410,7 +350,6 @@ certs-devices-enable-fips = Ekyisobozisa FIPS
 
 desktop-folder-name = Dɛsktɔp
 downloads-folder-name = Atwe siane
-choose-download-folder-title = Paw atwe folda:
 
 ## Appearance page
 
@@ -425,4 +364,6 @@ choose-download-folder-title = Paw atwe folda:
 
 
 ## Warnings section
+
+## Referrals Section
 

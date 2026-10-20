@@ -112,15 +112,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = নিরাপদ মোড এর সাহায্যে সব অ্যাড-অন নিস্ক্রিয়।
-extensions-warning-check-compatibility = অ্যাড-অনের উপযুক্ততা পরীক্ষা নিস্ক্রিয়। আপনার অ্যাড-অন অনুপোযুক্ত হতে পারে।
-extensions-warning-safe-mode2 =
-    .message = নিরাপদ মোড এর সাহায্যে সব অ্যাড-অন নিস্ক্রিয়।
 extensions-warning-check-compatibility2 =
     .message = অ্যাড-অনের উপযুক্ততা পরীক্ষা নিস্ক্রিয়। আপনার অ্যাড-অন অনুপোযুক্ত হতে পারে।
 extensions-warning-check-compatibility-button = সক্রিয়
     .title = অ্যাড-অনের উপযুক্ততা পরীক্ষা সক্রিয়
-extensions-warning-update-security = অ্যাড-অন হালনাগাদকরন পরীক্ষা নিস্ক্রিয়। আপনি সম্ভবত হালনাগাদকরনের সাথে আপোষ করে নিয়েছেন।
 extensions-warning-update-security2 =
     .message = অ্যাড-অন হালনাগাদকরন পরীক্ষা নিস্ক্রিয়। আপনি সম্ভবত হালনাগাদকরনের সাথে আপোষ করে নিয়েছেন।
 extensions-warning-update-security-button = সক্রিয়
@@ -211,29 +206,13 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
-details-notification-incompatible = { $name } ,{ -brand-short-name } { $version } এর জন্য উপযুক্ত।
-# Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } ,{ -brand-short-name } { $version } এর জন্য উপযুক্ত।
-details-notification-unsigned-and-disabled = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং নিস্ক্রিয় করে দেওয়া হয়েছে।
 details-notification-unsigned-and-disabled2 =
     .message = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং নিস্ক্রিয় করে দেওয়া হয়েছে।
-details-notification-unsigned-and-disabled-link = আরও তথ্য
-details-notification-unsigned = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, সতর্কতার সাথে আগান।
 details-notification-unsigned2 =
     .message = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, সতর্কতার সাথে আগান।
-details-notification-unsigned-link = আরও তথ্য
-details-notification-blocked = নিরাপত্তা ও স্থায়ীত্বজনিত কারণে { $name } নিস্ক্রিয় করা হয়েছে।
-details-notification-blocked2 =
-    .message = নিরাপত্তা ও স্থায়ীত্বজনিত কারণে { $name } নিস্ক্রিয় করা হয়েছে।
-details-notification-blocked-link = আরও তথ্য
-details-notification-softblocked = নিরাপত্তা ও স্থায়ীত্বজনিত ত্রুটির জন্য { $name } দায়ী।
-details-notification-softblocked2 =
-    .message = নিরাপত্তা ও স্থায়ীত্বজনিত ত্রুটির জন্য { $name } দায়ী।
-details-notification-softblocked-link = আরও তথ্য
-details-notification-gmp-pending = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।
 details-notification-gmp-pending2 =
     .message = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।
 
@@ -244,3 +223,31 @@ plugins-gmp-privacy-info = গোপনীয়তা তথ্য
 plugins-openh264-name = Cisco Systems, Inc. দ্বারা উপলব্ধ OpenH264 ভিডিও কোডেক
 plugins-openh264-description = এই প্লাগিনটি স্বয়ংক্রিয়ভাবেই Mozilla এর মাধ্যমে ইন্সটল করা হয়েছে WebRTC স্পেসিফিকেশনের সাথে পাল্লা দেওয়ার জন্য এবং WebRTC কল সক্রিয় করার জন্য। কারন WebRTC তে H.264 ভিডিও কোডেক দরকার হয়। https://www.openh264.org/ ভিজিট করুন কোডেকের সোর্স কোড দেখার জন্য এবং ইমপ্লিমেন্টেশন সম্পর্কে আরও জানার জন্য।
 plugins-widevine-name = Google inc প্রদত্ত Widevine Content Decryption মডিউল
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

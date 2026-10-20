@@ -11,7 +11,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Go laolla mpshafatšo —<label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Go laolla mpshafatšo —{ $transfer }
 
@@ -22,7 +21,6 @@ settings-update-applying =
     .label = Go diriša mpshafatšo...
 update-failed = Mpshafatšo e padile.<label data-l10n-name="failed-link">Laolla tokollo ya moragorago</label>
 update-failed-main = Mpshafatšo e padile.<a data-l10n-name="failed-link-main">Laolla tokollo ya moragorago</a>
-update-adminDisabled = Dimpshafatšo di šitišitšwe ke molaodi wa tshepedišo ya gago
 update-noUpdatesFound = { -brand-short-name } e nakong
 settings-update-no-updates-found =
     .label = { -brand-short-name } e nakong
@@ -42,5 +40,3 @@ warningDesc-version = { -brand-short-name } ke ya maitekelo gomme e ka no se šo
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>ke<label data-l10n-name="community-exp-creditsLink">setšhaba sa lefase ka bophara</label> se šomago mmogo go boloka Wepe e butšwe, e le ya setšhaba le go fihlelelwa ke bohle.
 community-2 = { -brand-short-name } e hlamilwe ke <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ke<label data-l10n-name="community-creditsLink">setšhaba sa lefase ka bophara</label>se šomago mmogo go boloka Wepe e butšwe, e le ya setšhaba le go fihlelelwa ke bohle.
 bottomLinks-license = Tshedimošo ya dilaesense
-bottomLinks-rights = Ditokelo tša modiriši
-bottomLinks-privacy = Pholisi ya sephiri

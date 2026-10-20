@@ -89,15 +89,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = सुरक्षित शैलीन सगले अँड-ऑन असमर्थ केल्यात
-extensions-warning-check-compatibility = अॅड-ऑन सुसंगतताय तपासणी अक्षम केल्या. तुमचेकडेन असुसंगत अॅड-ऑन आसू येतात.
-extensions-warning-safe-mode2 =
-    .message = सुरक्षित शैलीन सगले अँड-ऑन असमर्थ केल्यात
 extensions-warning-check-compatibility2 =
     .message = अॅड-ऑन सुसंगतताय तपासणी अक्षम केल्या. तुमचेकडेन असुसंगत अॅड-ऑन आसू येतात.
 extensions-warning-check-compatibility-button = सक्षम
     .title = अँड-ऑन अनुरूपताय तपासणी समर्थ करा
-extensions-warning-update-security = अॅड-ऑन सुदार सुरक्षा तपासणी अक्षम केल्या. तुमच्या सुदारांनी तडजोड केल्ली आसू येता.
 extensions-warning-update-security2 =
     .message = अॅड-ऑन सुदार सुरक्षा तपासणी अक्षम केल्या. तुमच्या सुदारांनी तडजोड केल्ली आसू येता.
 extensions-warning-update-security-button = सक्षम
@@ -174,21 +169,38 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
-details-notification-incompatible = { -brand-short-name } { $version } संयत { $name } सुसंगत ना.
-# Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { -brand-short-name } { $version } संयत { $name } सुसंगत ना.
-details-notification-blocked = सुरक्षा आणि स्थैर्यतेच्या प्रस्नांक लागून { $name } अक्षम केला
-details-notification-blocked2 =
-    .message = सुरक्षा आणि स्थैर्यतेच्या प्रस्नांक लागून { $name } अक्षम केला
-details-notification-blocked-link = अदिक माहिती
-details-notification-softblocked = { $name } क लागून सुरक्षा वो स्थैर्याचे प्रस्न उप्रासतले.
-details-notification-softblocked2 =
-    .message = { $name } क लागून सुरक्षा वो स्थैर्याचे प्रस्न उप्रासतले.
-details-notification-softblocked-link = अदिक माहिती
 
 ## Gecko Media Plugins (GMPs)
 
 plugins-openh264-name = सिस्को व्यवस्था, Inc. न पुरयल्लो OpenH264 व्हिडिओ Codec
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

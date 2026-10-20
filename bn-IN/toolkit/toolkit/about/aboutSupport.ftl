@@ -25,7 +25,6 @@ app-basics-profile-dir =
         [linux] প্রোফাইল ডিরেক্টরি
        *[other] Profile Folder
     }
-app-basics-enabled-plugins = সক্রিয় প্লাগ-ইন
 app-basics-build-config = বিল্ডের কনফিগারেশন
 app-basics-user-agent = ইউজার এজেন্ট
 app-basics-os = OS
@@ -75,6 +74,10 @@ sandbox-title = স্যান্ডবক্স
 audio-backend = অডিও ব্যাকেন্ড
 
 ## Codec support table
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 ##
 
@@ -211,5 +214,11 @@ touch-warning = অ্যাসিঙ্ক টাচ ইনপুট নিষ�
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

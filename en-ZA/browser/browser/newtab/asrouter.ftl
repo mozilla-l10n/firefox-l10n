@@ -171,3 +171,6 @@
 refresh-unused-profile-infobar-message = It looks like you haven't started { -brand-short-name } in a while. Do you want to clean it up for a fresh, like-new experience? And by the way, welcome back!
 refresh-profile-infobar-button = Refresh { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+

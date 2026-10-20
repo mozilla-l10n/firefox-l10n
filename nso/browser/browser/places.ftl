@@ -31,9 +31,6 @@ places-by-day-and-site =
     .label = Ka letšatšikgwedi le saete
     .accesskey = t
 
-places-delete-domain-data =
-    .label = Lebala ka saete ye
-    .accesskey = a
 places-sortby-name =
     .label = Hlopha ka leina
     .accesskey = r
@@ -46,10 +43,6 @@ places-organize-button =
     .tooltiptext = Rulaganya dipukutshwayo tša gago
     .accesskey = R
 
-places-organize-button-mac =
-    .label = Rulaganya
-    .tooltiptext = Rulaganya dipukutshwayo tša gago
-
 places-file-close =
     .label = Tswalela
     .accesskey = T
@@ -61,10 +54,6 @@ places-view-button =
     .label = Ditebelelo
     .tooltiptext = Fetoša tebelelo ya gago
     .accesskey = b
-
-places-view-button-mac =
-    .label = Ditebelelo
-    .tooltiptext = Fetoša tebelelo ya gago
 
 places-view-menu-columns =
     .label = Laetša dikholomo
@@ -90,10 +79,6 @@ places-maintenance-button =
     .label = Diamogelwa le dikopišwa
     .tooltiptext = Amogela le go dira pekapo ya dipukutshwayo tša gago
     .accesskey = i
-
-places-maintenance-button-mac =
-    .label = Diamogelwa le dikopišwa
-    .tooltiptext = Amogela le go dira pekapo ya dipukutshwayo tša gago
 
 places-cmd-backup =
     .label = Dikopišwa…

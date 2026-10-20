@@ -22,7 +22,6 @@ app-basics-profile-dir =
         [linux] प्रोफायल निदेशिका
        *[other] प्रोफायल फोल्डर
     }
-app-basics-enabled-plugins = सक्षम प्लगईन्स
 app-basics-build-config = संरचनाय बांधात
 app-basics-user-agent = वापरप्यालो एजंट
 app-basics-memory-use = मेमरीटो वापर
@@ -49,6 +48,10 @@ sandbox-title = सँडबॉक्स
 
 
 ## Codec support table
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 ##
 
@@ -151,5 +154,11 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

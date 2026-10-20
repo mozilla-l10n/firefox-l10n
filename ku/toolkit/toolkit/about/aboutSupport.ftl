@@ -12,7 +12,6 @@ app-basics-title = Bingehên Sepanê
 app-basics-name = Nav
 app-basics-version = Guherto
 app-basics-show-update-history = Raboriya nûkirinan nîşan bide
-app-basics-enabled-plugins = Pêvekên Çalak
 app-basics-build-config = Mîhengên Avakirinê
 app-basics-user-agent = Navbeynkara Bikarhêner
 
@@ -24,6 +23,10 @@ a11y-title = Gihîştin
 
 
 ## Codec support table
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 ##
 
@@ -64,5 +67,11 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

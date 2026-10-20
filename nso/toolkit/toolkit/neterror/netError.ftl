@@ -9,10 +9,16 @@ neterror-page-title = E na le mathata a go hlahlela letlakala
 
 ## Error page actions
 
-neterror-try-again-button = Leka gape
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
 
 ##
 
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
 
 ## Specific error messages
 
@@ -38,8 +44,6 @@ neterror-file-not-found-filename = Lekola leina la faele bakeng sa ditlhaka-kgol
 neterror-file-not-found-moved = Lekola go bona ge e ba faele e tlošitšwe, e reilwe leina gape goba e phumotšwe.
 neterror-unknown-protocol = O ka swanelwa ke go lokela lenaneotirišo le lengwe la khomphutha gore o bule aterese ye.
 neterror-redirect-loop = Bothata bjo mabakeng a mangwe bo ka bakwa ke go palediša goba go gana go amogela dikhukhi.
-neterror-unknown-socket-type-psm-installed = Lekola go kgonthišetša gore tshepedišo ya gago e loketšwe molaodi wa tšhireletšo wa botho.
-neterror-unknown-socket-type-server-config = Se se ka ba se bakwa ke peakanyo yeo e sego molaong sebareng.
 neterror-not-cached-intro = Tokumente e kgopetšwego ga e hwetšagale ka polokelo-tsebišo ya { -brand-short-name }.
 neterror-not-cached-sensitive = Bakeng sa tšhireletšego, { -brand-short-name } ga e kgopele gape ditokumente tša bohlokwa ka maitirišo.
 neterror-not-cached-try-again = Kgotla Leka gape gore o kgopele tokumente gape go tšwa wepesaeteng.

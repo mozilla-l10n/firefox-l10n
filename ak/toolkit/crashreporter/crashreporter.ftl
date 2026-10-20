@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Egyae-yɛ amaneɛbɔ-ni
-crashreporter-crash-message = { -brand-short-name } nyaa ɔhaw bi na egyaae adwuma-yɛ.
 crashreporter-plea = Wopɛ sɛ woboa na yesiesie ɔhaw yi a, wobetumi amane yɛn egyae-yɛ amaneɛbɔ.
 crashreporter-no-run-message = Yehim saa aplekehyɛn yi wɔ egyae-yɛ ekyi sɛnea yɛbɛbɔ aplekehyɛn-tɔnfo no amande. Ɛnwɔ sɛ wohim no saa kwa.
 crashreporter-button-details = Nhunumu…

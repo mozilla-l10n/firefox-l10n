@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Сүрүн
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Көрдөөһүн
     .title = Көрдөөһүн
-pane-search-title = Көрдөөһүн
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -44,11 +34,8 @@ should-restart-title = Маны { -brand-short-name } хат ыыт
 
 ## General Section
 
-startup-header = Саҥаттан
-is-default = Билигин куруук холбонор браузер - { -brand-short-name }
 tabs-group-header2 =
     .label = Кыбытыктар
-tabs-group-header = Кыбытыктар
 show-tabs-in-taskbar =
     .label = Кыбытыктар эскиистэрин Windows садаачатын панелыгар көрдөрөр буол
     .accesskey = т
@@ -64,9 +51,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Эбии…
-    .accesskey = Э
 choose-language-description = Ситим-сирэйдэри көрөргө ханнык тылы талаҕыный
 choose-button =
     .label = Тал…
@@ -81,20 +65,6 @@ download-save-files-header =
     .label = Билэни угуу суола
 download-save-where-3 =
     .aria-label = Билэни угуу суола
-download-header = Хачайдааһыннар
-download-save-where = Билэни угуу суола
-    .accesskey = л
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Тал…
-           *[other] Көрүү…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] а
-           *[other] р
-        }
 applications-type-column =
     .label = Иһинээҕитин көрүҥэ
     .accesskey = р
@@ -127,17 +97,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Маны { $plugin-name } тутун (манна { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -150,10 +114,6 @@ applications-use-other-label =
     .value = { applications-use-other.label }
 
 ## Firefox updates
-
-update-application-use-service =
-    .label = Саҥардыылары туруорарга фон сулууспаны туһан
-    .accesskey = ф
 
 ## About Firefox
 
@@ -172,7 +132,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Көрүү
 browsing-use-autoscroll =
     .label = Аптамаатынан прокрутканы туһан
     .accesskey = п
@@ -189,10 +148,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Туруоруулар...
-    .accesskey = р
 
 ## Home Section
 
@@ -319,16 +274,9 @@ forms-master-pw-fips-desc = Киирии тыл уларыйбата
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = устуоруйатын долоҕойугар хатыа
-history-remember-option-never =
-    .label = устуоруйатын долоҕойоугар хатыа суоҕа
-history-remember-option-custom =
-    .label = устуоруйаны харайыы туруорууларын туһаныа
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } бүөмнээн көрүү туруорууларын туһаныа уонна ситим-сирдэри кытта үлэҕин долоҕойугар хаалларыа суоҕа.
-history-dontremember-description = { -brand-short-name } бүөмнээн көрүү туруорууларын туһаныа уонна ситим-сирдэри кытта үлэҕин долоҕойугар хаалларыа суоҕа.
 history-private-browsing-permanent =
     .label = Бүөмнээн көрүү эрэсиимигэр куруук үлэлииргэ
     .accesskey = ү
@@ -372,13 +320,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = Ойон тахсар түннүктэри бүөлээ
-    .accesskey = б
-permissions-addon-exceptions =
-    .label = Туорааһыннар...
-    .accesskey = у
-
 ## Privacy Section - Data Collection
 
 
@@ -393,8 +334,6 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
-certs-header = Сэртипикээттэр
-
 ## Privacy Section - HTTPS-Only
 
 
@@ -408,7 +347,6 @@ certs-header = Сэртипикээттэр
 
 desktop-folder-name = Үлэлиир сирэй (рабочий стол)
 downloads-folder-name = Хачайдааһыннар
-choose-download-folder-title = Хачайдааһыннар паапкаларын тал:
 
 ## Appearance page
 
@@ -423,4 +361,6 @@ choose-download-folder-title = Хачайдааһыннар паапкалары
 
 
 ## Warnings section
+
+## Referrals Section
 

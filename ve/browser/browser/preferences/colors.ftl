@@ -7,13 +7,5 @@ colors-close-key =
 
 colors-text-and-background = Linwalwa na Siangane
 
-colors-use-system =
-    .label = Shumisani mivhala ya sisiṱeme
-    .accesskey = s
-
-colors-underline-links =
-    .label = Talelani ṱhumano
-    .accesskey = t
-
 colors-links-header = Ṱumanyani Mivhala
 

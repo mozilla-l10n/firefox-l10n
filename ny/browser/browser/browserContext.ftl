@@ -36,6 +36,8 @@ toolbar-button-stop-reload =
 
 ## Firefox Account Button
 
+## Account toolbar Button
+
 ## Save Page
 
 ## Simple menu items
@@ -50,6 +52,9 @@ toolbar-button-stop-reload =
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+##
+
+
 ## Media (video/audio) controls
 ##
 ## The accesskey for "Play" and "Pause" are the
@@ -59,16 +64,17 @@ toolbar-button-stop-reload =
 
 ##
 
+## The access keys for "Use Saved Login" and "Use Saved Password"
+## should be the same if possible; the two context menu items
+## are mutually exclusive.
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
 
-##
+## Displayed within the send tab submenu to prompt users to sign in, enable sync, pair a device, or troubleshoot device issues.
 
-## The access keys for "Use Saved Login" and "Use Saved Password"
-## should be the same if possible; the two context menu items
-## are mutually exclusive.
+##
 
 ##
 

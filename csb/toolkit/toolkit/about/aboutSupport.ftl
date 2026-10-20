@@ -21,7 +21,6 @@ app-basics-profile-dir =
         [linux] Miono profilu
        *[other] Katalog profilu
     }
-app-basics-enabled-plugins = Włączoné wtëkacze
 app-basics-build-config = Kònfigùracjã brëkòwóną do kòmpilacje
 app-basics-user-agent = Pòstrzédnik brëkòwnika
 app-basics-memory-use = Ùżëcé pamiãcë
@@ -43,6 +42,10 @@ copy-raw-data-to-clipboard-label = Kòpérëjë zamkłosc do tacnika
 
 
 ## Codec support table
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 ##
 
@@ -95,5 +98,11 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

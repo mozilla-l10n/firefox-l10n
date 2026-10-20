@@ -35,10 +35,10 @@ download-cert-view-text = Ṱolani ṱhanziela dza CA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Khumbelo ya Tsumbavhune ya Mushumisi
-client-auth-site-description = Hei saithi yo humbeliwa zwauri ni di bule nga ṱhanziela:
-client-auth-choose-cert = Nangani ṱhanziela uri ni I sumbedze sa ya u ditalusa:
 client-auth-cert-details = Zwidodombedzwa nga ha ṱhanziela dzo nangwaho:
 
 ## Set password (p12) dialog
@@ -55,4 +55,6 @@ set-password-reminder = Zwa vhuṱhogwa: Arali na hangwa phasiwede ya thikhedzo 
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

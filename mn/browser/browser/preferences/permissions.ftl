@@ -43,6 +43,8 @@ permissions-invalid-uri-label = Зөв компьютерийн нэр оруу�
 ## Exceptions - Cookies
 
 
+## Exceptions - Clear on Shutdown
+
 ## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
@@ -50,6 +52,10 @@ permissions-invalid-uri-label = Зөв компьютерийн нэр оруу�
 
 ## Exceptions - Saved Logins
 
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+## Exceptions - Saved Passwords
 
 ## Exceptions - Add-ons
 
@@ -67,8 +73,16 @@ permissions-invalid-uri-label = Зөв компьютерийн нэр оруу�
 
 ## Site Permissions - Virtual Reality
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
 ## Site Permissions - Camera
 
+
+## Site Permissions - Loopback network
+
+## Site Permissions - Local network
 
 ## Site Permissions - Microphone
 

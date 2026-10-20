@@ -18,20 +18,10 @@ account-send-to-all-devices-titlecase = সব ডিভাইসে প্র�
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the account has only 1 device connected.
 
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-status = কোন ডিভাইস সংযুক্ত নেই
-
-# Redirects to a marketing page.
-account-send-tab-to-device-singledevice-learnmore = ট্যাব পাঠানো সম্পর্কে জানুন…
-
-# Redirects to an FxAccounts page that tells to you to connect another device.
-account-send-tab-to-device-connectdevice = অন্য ডিভাইসকে সংযুক্ত করুন…
-
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = অ্যাকাউন্টের যাচাইকরণ হয়নি
-account-send-tab-to-device-verify = অ্যাকাউন্ট যাচাই করুন…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
@@ -76,3 +66,9 @@ account-multiple-tabs-arriving-from-unknown-device =
         [one] { $tabCount } ট্যাব এসেছে
        *[other] { $tabCount } ট্যাব এসেছে
     }
+
+## These strings are used in notifications in which the user remotely closed
+## tabs from other devices
+## Variables:
+##   $closedCount (Number): the number of tabs closed
+

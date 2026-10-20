@@ -43,14 +43,18 @@ permissions-invalid-uri-label = ji kerema xwe navekî derbasdar ê hostê têkev
 ## Exceptions - Cookies
 
 
+## Exceptions - Clear on Shutdown
+
 ## Exceptions - HTTPS-Only Mode
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-desc = Dikarî diyar bikî ka kîjan malper ji bo vekirina pencereyên pop-up bidestûr in. Navnîşana malpera ku dixwazî bi rê ve bibî têkevê û Destûrê Bide bitikîne
-
 ## Exceptions - Saved Logins
 
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+## Exceptions - Saved Passwords
 
 ## Exceptions - Add-ons
 
@@ -69,8 +73,16 @@ permissions-exceptions-addons-desc = Dikarî diyar bikî ka kîjan malper sazkir
 
 ## Site Permissions - Virtual Reality
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
 ## Site Permissions - Camera
 
+
+## Site Permissions - Loopback network
+
+## Site Permissions - Local network
 
 ## Site Permissions - Microphone
 

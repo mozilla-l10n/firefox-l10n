@@ -346,7 +346,8 @@ library-bookmarks-menu =
 ## Repair text encoding toolbar button
 
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 toolbar-overflow-customize-button =
     .label = কাস্টোমাইজ টুলবার…
@@ -381,6 +382,8 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
 
+## Notification bars for media playback issues
+
 ## Password save/update panel
 
 
@@ -395,9 +398,11 @@ ui-tour-info-panel-close =
 
 ##
 
-
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
 
 
 ##

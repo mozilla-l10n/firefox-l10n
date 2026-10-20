@@ -35,10 +35,10 @@ download-cert-view-text = Gusuzuma Icyemezo cya CA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Gusaba Ikiranga Ukoresha
-client-auth-site-description = Uru rubuga rwasabye ko utanga igikuranga ukoresheje icyemezo:
-client-auth-choose-cert = Guhitamo icyemezo cyo gutangwa nk'ikiranga:
 
 ## Set password (p12) dialog
 
@@ -54,4 +54,6 @@ set-password-reminder = Icyitonderwa: Niwibagirwa ijambobanga ryawe ry'inyibutsa
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

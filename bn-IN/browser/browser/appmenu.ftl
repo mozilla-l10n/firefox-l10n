@@ -61,11 +61,19 @@ appmenuitem-save-page =
 # devtools/client/performance-new/popup/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 ## History panel
+
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.sys.mjs
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
+##
 
 appmenu-restore-session =
     .label = পূর্ববর্তী সেশান পুনরুদ্ধার করুন
@@ -77,13 +85,16 @@ appmenu-recently-closed-tabs =
 appmenu-recently-closed-windows =
     .label = সম্প্রতি বন্ধ করা উইন্ডো
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
 ## Help panel
 
 appmenu-about =
     .label = { -brand-shorter-name } সম্পর্কে
     .accesskey = A
-appmenu-help-report-site-issue =
-    .label = সাইটের সমস্যা রিপোর্ট করুন…
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -100,4 +111,8 @@ appmenu-help-not-deceptive =
     .accesskey = d
 
 ## More Tools
+
+## Panel for privacy and security products
+
+## Profiles panel
 

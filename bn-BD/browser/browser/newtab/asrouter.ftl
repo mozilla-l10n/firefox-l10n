@@ -206,3 +206,6 @@ refresh-unused-profile-infobar-message = মনে হচ্ছে আপনি 
 refresh-reinstalled-profile-infobar-message = মনে হচ্ছে { -brand-short-name } আপনি পুনরায় ইনস্টল করেছেন। আপনি কি চান নতুনের মত অভিজ্ঞতা পেতে আমরা এটি পরিষ্কার করি?
 refresh-profile-infobar-button = { -brand-short-name } রিফ্রেশ করুন R…
     .accesskey = R
+
+## Infobar shown at startup to suggest session-restore
+

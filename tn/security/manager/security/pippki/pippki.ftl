@@ -30,10 +30,10 @@ download-cert-view-text = Tlhatlhoba Setifikeiti sa CA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Kopo ya Boitshupo jwa Modirisi
-client-auth-site-description = Setsha seno se kopile gore o itshupe ka setifikeiti:
-client-auth-choose-cert = Tlhopha setifikeiti se o tla se tlhagisang jaaka boitshupo:
 
 ## Set password (p12) dialog
 
@@ -49,4 +49,6 @@ set-password-reminder = Go botlhokwa: Fa o lebala khunololamoraba ya gago ya pol
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

@@ -39,9 +39,17 @@ webrtc-sharing-menuitem =
 ##   $tabCount (Number): the title of the tab using the share.
 
 
+## These strings are only used on Mac for menus attached to icons
+## near the clock on the mac menubar.
+## Variables:
+##   $streamTitle (String): the host of the tab using the share.
+##   $tabCount (Number): the title of the tab using the share.
+
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 ## Variables:
 ##   $origin (String): the first party origin.

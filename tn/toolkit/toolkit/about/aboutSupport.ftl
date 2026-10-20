@@ -8,6 +8,10 @@ a11y-title = Tetlelesego
 
 ## Codec support table
 
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
 ##
 
 ## Remote Debugging
@@ -47,5 +51,11 @@ touch-warning = nakoitaolo kamo tsenyeletso e koafaditswe ka mabaka a go tlhoka 
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

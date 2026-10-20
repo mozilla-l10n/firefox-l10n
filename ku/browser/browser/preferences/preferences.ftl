@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Giştî
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Lêgerîn
     .title = Lêgerîn
-pane-search-title = Lêgerîn
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = F
 close-button =
@@ -44,11 +34,8 @@ should-restart-title = Nûdestpêkirina { -brand-short-name }
 
 ## General Section
 
-startup-header = Destpêk
-is-default = { -brand-short-name } jixwe geroka te ya standard e
 tabs-group-header2 =
     .label = Hilpekîn
-tabs-group-header = Hilpekîn
 show-tabs-in-taskbar =
     .label = Di darikê amûran a Windowsê de pêşdîtina hilpekînê nîşan bide
     .accesskey = k
@@ -64,9 +51,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Pêşketî...
-    .accesskey = P
 choose-language-description = Ji bo nîşandana rûpelan zimanekî hilbijêre
 choose-button =
     .label = Hilbijêre...
@@ -78,20 +62,6 @@ download-save-files-header =
     .label = Pelan tomar bike li
 download-save-where-3 =
     .aria-label = Pelan tomar bike li
-download-header = Jêbarkirî
-download-save-where = Pelan tomar bike li
-    .accesskey = t
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Hilbijêre...
-           *[other] Bigere...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] H
-           *[other] g
-        }
 applications-type-column =
     .label = Cureyê Naverokê
     .accesskey = C
@@ -124,17 +94,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name }'ê bi kar bîne (ji bo { -brand-short-name }'ê)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -147,10 +111,6 @@ applications-use-other-label =
     .value = { applications-use-other.label }
 
 ## Firefox updates
-
-update-application-use-service =
-    .label = Ji bo sazkirina nûkirinan servîseke paşperdeyê bi kar bîne
-    .accesskey = p
 
 ## About Firefox
 
@@ -169,7 +129,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Digere
 browsing-use-autoscroll =
     .label = Şemitandina xweber bi kar bîne
     .accesskey = a
@@ -186,10 +145,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Mîheng…
-    .accesskey = e
 
 ## Home Section
 
@@ -319,16 +274,9 @@ forms-master-pw-fips-desc = Guherandina Nasnavê bi ser neket
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = Mêjûyê bi bîr bîne
-history-remember-option-never =
-    .label = Mêjûyê qet bi bîr neyne
-history-remember-option-custom =
-    .label = Ji bo mêjûyê mîhengên takekesî bi kar bîne
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
-history-dontremember-description = { -brand-short-name } dê heman mîhengê ji bo gera nepen jî bi kar bîne û dê ji gera te ya webê tu tiştî bi bîr neyne.
 history-private-browsing-permanent =
     .label = Her tim moda gera nepen bi kar bîne
     .accesskey = n
@@ -372,13 +320,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = Pencereyên bixweber vedibin asteng bike
-    .accesskey = b
-permissions-addon-exceptions =
-    .label = Rewşên Taybet...
-    .accesskey = e
-
 ## Privacy Section - Data Collection
 
 
@@ -393,7 +334,6 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
-certs-header = Sertîfîka
 certs-devices-enable-fips = FIPS 'ê çalak bike
 
 ## Privacy Section - HTTPS-Only
@@ -409,7 +349,6 @@ certs-devices-enable-fips = FIPS 'ê çalak bike
 
 desktop-folder-name = Sermase
 downloads-folder-name = Jêbarkirî
-choose-download-folder-title = Peldanka jêbarkirinê hilbijêre:
 
 ## Appearance page
 
@@ -424,4 +363,6 @@ choose-download-folder-title = Peldanka jêbarkirinê hilbijêre:
 
 
 ## Warnings section
+
+## Referrals Section
 

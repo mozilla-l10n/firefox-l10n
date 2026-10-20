@@ -15,11 +15,3 @@
 
 ##
 
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-       *[other] { $winTitle } (уонна { $tabCount } атын кыбытык)
-    }

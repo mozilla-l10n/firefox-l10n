@@ -44,25 +44,16 @@ webrtc-sharing-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Your camera and microphone are being shared. Click to control sharing.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Your camera is being shared. Click to control sharing.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = Your microphone is being shared. Click to control sharing.
-webrtc-indicator-sharing-application =
-    .tooltiptext = An application is being shared. Click to control sharing.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = Your screen is being shared. Click to control sharing.
-webrtc-indicator-sharing-window =
-    .tooltiptext = A window is being shared. Click to control sharing.
-webrtc-indicator-sharing-browser =
-    .tooltiptext = A tab is being shared. Click to control sharing.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
 ##   $streamTitle (String): the title of the tab using the share.
+##   $tabCount (Number): the title of the tab using the share.
+
+## These strings are only used on Mac for menus attached to icons
+## near the clock on the mac menubar.
+## Variables:
+##   $streamTitle (String): the host of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-control-sharing =
@@ -129,6 +120,8 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 ## Variables:
 ##   $origin (String): the first party origin.

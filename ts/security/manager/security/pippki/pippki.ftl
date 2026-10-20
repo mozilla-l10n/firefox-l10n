@@ -35,10 +35,10 @@ download-cert-view-text = Kambela xitifiketi xa CA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Xikombelo xo tiva mutirhisi
-client-auth-site-description = Sayiti leri ri komberile leswaku u titivisa hi xitifiketi:
-client-auth-choose-cert = Hlawula xitifiketi xa ku titivisa:
 client-auth-cert-details = Vuxokoxoko bya xitifiketi lexi nyikiweke:
 
 ## Set password (p12) dialog
@@ -55,4 +55,6 @@ set-password-reminder = Xa nkoka: Loko u lahlekeriwa hi phasiwedi ya xitandzhaku
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

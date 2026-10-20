@@ -8,3 +8,6 @@ customize-mode-titlebar =
     .label = Bara ya Setlhogo
 customize-mode-undo-cmd =
     .label = Dirolola
+
+## Labels for the special items that can be added to toolbars in customize mode
+

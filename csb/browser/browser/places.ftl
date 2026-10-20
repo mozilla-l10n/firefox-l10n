@@ -34,9 +34,6 @@ places-by-day-and-site =
 places-history =
     .aria-label = Historiô
 
-places-delete-domain-data =
-    .label = Rëmôj całowną domenã
-    .accesskey = d
 places-sortby-name =
     .label = Zortëjë wedle miona
     .accesskey = r
@@ -49,10 +46,6 @@ places-organize-button =
     .tooltiptext = Sprôwiôj swòjima załóżkama
     .accesskey = S
 
-places-organize-button-mac =
-    .label = Sprôwiôj
-    .tooltiptext = Sprôwiôj swòjima załóżkama
-
 places-file-close =
     .label = Zamkni
     .accesskey = Z
@@ -64,10 +57,6 @@ places-view-button =
     .label = Wëzdrzatczi
     .tooltiptext = Zmieni wëzdrzatk
     .accesskey = W
-
-places-view-button-mac =
-    .label = Wëzdrzatczi
-    .tooltiptext = Zmieni wëzdrzatk
 
 places-view-menu-columns =
     .label = Wëskrzëni kòlumnë
@@ -93,10 +82,6 @@ places-maintenance-button =
     .label = Impòrt i zazychrowanié pòdôwków
     .tooltiptext = Zaimpòrtëjë i zrobi dodôwną kòpiã załóżków
     .accesskey = J
-
-places-maintenance-button-mac =
-    .label = Impòrt i zazychrowanié pòdôwków
-    .tooltiptext = Zaimpòrtëjë i zrobi dodôwną kòpiã załóżków
 
 places-cmd-backup =
     .label = Zazychrowanié…

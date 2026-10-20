@@ -63,11 +63,6 @@ connection-proxy-reload =
     .label = পুনরায় লোড
     .accesskey = প
 
-connection-proxy-autologin =
-    .label = পাসওয়ার্ড সংরক্ষিত থাকলে authentication এর জন্য অনুরোধ জানানো হবে না
-    .accesskey = i
-    .tooltip = এই অপশানটি আপনাকে প্রক্সির অনুমতি দেয় যখন আপনি সেগুলোর জন্যে পরিচয়পত্র জমা রাখেন। অনুমতি বাতিল হলে আপনাকে জানানো হবে।
-
 connection-proxy-autologin-checkbox =
     .label = পাসওয়ার্ড সংরক্ষিত থাকলে authentication এর জন্য অনুরোধ জানানো হবে না
     .accesskey = i

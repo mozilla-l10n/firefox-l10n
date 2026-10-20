@@ -32,22 +32,8 @@ user-context-shopping2 =
 user-context-manage-containers =
     .label = কন্টেইনারগুলিকে পরিচালনা করুন
     .accesskey = O
-user-context-personal-panel-item = ব্যক্তিগত
-    .accesskey = P
-user-context-work-panel-item = কর্ম
-    .accesskey = W
-user-context-banking-panel-item = ব্যাঙ্কিং
-    .accesskey = B
-user-context-shopping-panel-item = কেনাকাটা
-    .accesskey = S
-user-context-manage-containers-panel-item = কন্টেইনারগুলিকে পরিচালনা করুন
-    .accesskey = O
 user-context-manage-containers2 =
     .label = কন্টেইনারগুলিকে পরিচালনা করুন
-user-context-personal2-panel-item = ব্যক্তিগত
-user-context-work2-panel-item = কর্ম
-user-context-banking2-panel-item = ব্যাঙ্কিং
-user-context-shopping2-panel-item = কেনাকাটা
 user-context-manage-containers2-panel-item = কন্টেইনারগুলিকে পরিচালনা করুন
 
 ## Container colors, shown as selectable swatches in the container creation/edit dialog.

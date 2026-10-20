@@ -36,6 +36,9 @@ cert-error-details-key-pinning-label = HTTP পাবলিক কী পিন:
 
 cert-error-details-cert-chain-label = সার্টিফিকেট চেইন:
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = সংযোগ করতে ব্যর্থ
@@ -64,10 +67,15 @@ proxyResolveFailure-title = প্রক্সি সার্ভার পা�
 redirectLoop-title = পাতাটি সঠিকভাবে রিডিরেক্ট হচ্ছে না
 unknownSocketType-title = সার্ভার থেকে অপ্রত্যাশিত উত্তর
 nssFailure2-title = নিরাপদ সংযোগ স্থাপন করতে ব্যর্থ
-corruptedContentError-title = ক্ষতিগ্রস্ত বিষয়বস্তুর ত্রুটি
 sslv3Used-title = সুরক্ষিতভাবে কানেক্ট করতে ব্যার্থ
 inadequateSecurityError-title = আপনার সংযোগ নিরাপদ নয়
 blockedByPolicy-title = ব্লক করা পাতা
 clockSkewError-title = আপনার কম্পিউটারের ঘড়ি ভুল
 networkProtocolError-title = নেটওয়ার্ক প্রটোকল ত্রুটি
 nssBadCert-title = সতর্কতা: সামনে সম্ভাব্য নিরাপত্তা ঝুঁকি রয়েছে
+
+## Felt Privacy V1 Strings
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

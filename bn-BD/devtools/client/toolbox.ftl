@@ -30,3 +30,6 @@ toolbox-meatball-menu-noautohide-label = পপআপ স্বয়ংক্র�
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+

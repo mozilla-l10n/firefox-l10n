@@ -14,7 +14,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Retwe ntoso — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Retwe ntoso — { $transfer }
 
@@ -25,7 +24,6 @@ settings-update-applying =
     .label = Rehyɛ ntoso no…
 update-failed = Ntoso no annkɔ yie. <label data-l10n-name="failed-link">Twe vɛɛhyen a adi ekyiri koraa no</label>
 update-failed-main = Ntoso no annkɔ yie. <a data-l10n-name="failed-link-main">Twe vɛɛhyen a adi ekyiri koraa no</a>
-update-adminDisabled = Wo sestɛm sohwɛfo adum ntoso
 update-noUpdatesFound = { -brand-short-name } nnhia ntoso
 settings-update-no-updates-found =
     .label = { -brand-short-name } nnhia ntoso
@@ -50,5 +48,3 @@ warningDesc-version = Yɛ resɔ { -brand-short-name } ahwɛ nti ɛbɛtumi aba no
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> yɛ <label data-l10n-name="community-exp-creditsLink">wiase fɛkuw</label> a wɔdi dwuma bɔ mu ma Wɛb no mu da hɔ ma obiara.
 community-2 = { -brand-short-name } ne bɔfo na siesefo yɛ <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, a ɛyɛ <label data-l10n-name="community-creditsLink">wiase fɛkuw</label> a wɔdi dwuma bɔ mu ma Wɛb no mu da hɔ ma obiara.
 bottomLinks-license = Laesens ho infɔmehyɛn
-bottomLinks-rights = Dehye ne mbra-akwanya
-bottomLinks-privacy = Siesɛm mbra

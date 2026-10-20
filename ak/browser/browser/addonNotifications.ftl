@@ -15,7 +15,6 @@
 
 ##
 
-xpinstall-disabled-locked = Wo sestɛm admin esiw sɔftwɛɛ instɔlehyɛn ano kwan.
 xpinstall-disabled = Woesiw sɔfwɛɛ instɔlehyɛn ano kwan. Klike Kenyan na san sɔ hwɛ.
 
 ## Add-on removal warning

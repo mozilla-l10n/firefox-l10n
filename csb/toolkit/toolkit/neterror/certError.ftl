@@ -18,6 +18,9 @@ cert-error-trust-self-signed = Certifikat je niedowierzóny bò je pòdpisóny p
 
 cert-error-untrusted-default = Certifikat je z niedowierzonégò zdroju.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nie dało sã sparłãczec
@@ -37,3 +40,9 @@ proxyResolveFailure-title = Nie jidze nalezc serwera proxy
 redirectLoop-title = Òpãtlo przeczérowaniów
 unknownSocketType-title = Lëchô òdpòwiesc serwera
 nssFailure2-title = Felënk bezpiecznégò sparłãczeniô
+
+## Felt Privacy V1 Strings
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

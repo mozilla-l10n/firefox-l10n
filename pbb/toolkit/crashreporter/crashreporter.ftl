@@ -2,11 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = Pta'sxni ewme'\u0020
-crashreporter-crash-message = { -brand-short-name } teeçx yuwe uynxisa' aphnxi neeyũuna.
 crashreporter-plea = Pu'çxna ma'wẽ piyatepa jiyuya' vxite yuwe ewmeesa's phewujxya', kaajxa' ewuma'k teeçx pta'sxnxi ewmeesa's.
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = Na'wẽ: { $details }
 crashreporter-no-run-message = Naa vxisnxi's mjĩiya' teeçx ewmees'as  pta'sxna yuwe ewmeesa'k txhuhdena vxi'wa'j. mjĩiya' yuunxi yuwene'ga .
 crashreporter-button-details = The'gnxi'sa...
 crashreporter-view-report-title = Ji'phunxi's pta'sxnxi \u0020
@@ -25,3 +21,4 @@ crashreporter-button-close = Aphnxi
 crashreporter-crash-identifier = ID ewmeesaa: { $id }
 
 # Error strings
+

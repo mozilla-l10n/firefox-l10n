@@ -16,7 +16,6 @@ xpinstall-prompt = { -brand-short-name } thibetse saete e go go botsa gore o tse
 
 ##
 
-xpinstall-disabled-locked = Tsenyo ya Serweboleta e emisitswe go dira ke molaolakhomphiutha.
 xpinstall-disabled = Tsenyo ya Serweboleta e santse e sa dire gone jaana. Tobetsa kgontsho a bo o leka gape.
 
 ## Add-on removal warning
@@ -64,4 +63,3 @@ addon-local-install-error-not-signed = Seoketswa se ga se a kgonwa go tsenyiwa k
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ga e a kgonwa go tsenyiwa ka gore ga e tsamaelane le { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } ga e akgonwa go tsenyiwa ka gore e na le ditlamorago tse di kwa godimo tsa go dira tlhoko tsepamo kgotsa mathata a pabalesego.

@@ -7,13 +7,5 @@ colors-close-key =
 
 colors-text-and-background = Inyandiko n'Imbuganyuma
 
-colors-use-system =
-    .label = Koresha amabara ya sisitemu
-    .accesskey = r
-
-colors-underline-links =
-    .label = Guca umurongo ku mahuza
-    .accesskey = c
-
 colors-links-header = Amabara ya Mahuza
 

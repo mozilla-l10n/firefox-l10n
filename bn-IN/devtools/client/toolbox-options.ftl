@@ -40,6 +40,10 @@ options-default-color-unit-name = রঙের নামসমূহ
 ## Web Console section
 
 
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 # The heading
@@ -69,12 +73,12 @@ options-sourceeditor-tabsize-label = ট্যাবের মাপ
 options-sourceeditor-keybinding-label = কি-বাইন্ডিং
 options-sourceeditor-keybinding-default-label = ডিফল্ট
 
+## Local Mode section
+
 ## Advanced section
 
 # The heading
 options-context-advanced-settings = উন্নত সেটিং
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = JavaScript* নিষ্ক্রিয় করুন
 options-disable-javascript-tooltip =
     .title = এই বিকল্প চালু করা হলে, বর্তমান ট্যাবের ক্ষেত্রে JavaScript নিষ্ক্রিয় করা হবে। ট্যাব বা টুলবক্স বন্ধ থাকলে, এই সেটিং প্রযোজ্য হবে না।
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -87,8 +91,6 @@ options-enable-remote-label = রিমোট ডিবাগিং সক্র
 options-enable-service-workers-http-label = সক্রিয় সার্ভিস HTTP-তে কাজ করে (টুলবক্স খোলা থাকলে)
 options-enable-service-workers-http-tooltip =
     .title = এই অপশন চালু করলে টুলবক্স খোলা এমন সমস্ত ট্যাবের জন্য সক্রিয় সার্ভিস HTTP-তে কাজ করে।
-# The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = * শুধুমাত্র বর্তমান সেশন, পেজ পুনরায় লোড হয়
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

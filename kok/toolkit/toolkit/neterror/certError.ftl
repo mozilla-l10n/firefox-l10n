@@ -18,6 +18,9 @@ cert-error-trust-self-signed = प्रमाणपत्र विस्वा
 
 cert-error-untrusted-default = हें प्रमाणपत्र विस्वासनीय स्त्रोता कडल्यान आयिल्लें ना.
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = जोडपाक शकना
@@ -37,5 +40,10 @@ proxyConnectFailure-title = प्रॉक्सी सर्व्हर ज�
 proxyResolveFailure-title = प्रॉक्सी सर्व्हर मेळपाक अपेस
 redirectLoop-title = हे पान योग्य दिशा दिना
 unknownSocketType-title = सर्वराकडल्यान अनपेक्षित प्रतिसाद
-corruptedContentError-title = भ्रश्ट आशय एरर
 sslv3Used-title = सुरक्षित पणान जुळपाक शकना.
+
+## Felt Privacy V1 Strings
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

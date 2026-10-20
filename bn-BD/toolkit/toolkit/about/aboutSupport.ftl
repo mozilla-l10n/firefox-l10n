@@ -19,10 +19,6 @@ security-software-name = নাম
 security-software-antivirus = এন্টিভাইরাস
 security-software-antispyware = এন্টিস্পাইওয়্যার
 security-software-firewall = ফায়ারওয়াল
-features-title = { -brand-short-name } বৈশিষ্ট্যসমূহ
-features-name = নাম
-features-version = সংস্করণ
-features-id = ID
 app-basics-title = অ্যাপ্লিকেশনের প্রাথমিক তথ্য
 app-basics-name = নাম
 app-basics-version = সংস্করণ
@@ -35,7 +31,6 @@ app-basics-profile-dir =
         [linux] প্রোফাইল ডিরেক্টরি
        *[other] প্রোফাইল ফোল্ডার
     }
-app-basics-enabled-plugins = সক্রিয় প্লাগইন
 app-basics-build-config = বিল্ড কনফিগারেশন
 app-basics-user-agent = ব্যবহারকারী এজেন্ট
 app-basics-os = OS
@@ -111,6 +106,10 @@ media-device-rate = মূল্যায়ন করুন
 media-device-latency = যোজনী
 
 ## Codec support table
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 ##
 
@@ -283,5 +282,11 @@ policies-error = ত্রুটি
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

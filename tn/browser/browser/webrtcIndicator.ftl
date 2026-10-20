@@ -44,17 +44,16 @@ webrtc-sharing-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = Sekapa-ditshwantsho le sekapa-mantswe sa gago di a abiwa. Tobetsa go laola kabo.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = Sekapa-ditshwantsho sa gago se a abiwa. Tobetsa go laola kabo.
-webrtc-indicator-sharing-window =
-    .tooltiptext = Window e a abiwa. Tobetsa go laola kabo.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
 ##   $streamTitle (String): the title of the tab using the share.
+##   $tabCount (Number): the title of the tab using the share.
+
+## These strings are only used on Mac for menus attached to icons
+## near the clock on the mac menubar.
+## Variables:
+##   $streamTitle (String): the host of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-sharing-camera-with =
@@ -81,6 +80,8 @@ webrtc-indicator-menuitem-sharing-browser-with =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+
+## Special phrasing for sharing devices when the origin is a file url.
 
 ## Variables:
 ##   $origin (String): the first party origin.

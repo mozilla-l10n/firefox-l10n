@@ -34,9 +34,6 @@ places-by-day-and-site =
 places-history =
     .aria-label = Fxihjçxa txi'khnxisah
 
-places-delete-domain-data =
-    .label = Peçxkanun ayte weba's
-    .accesskey = P
 places-sortby-name =
     .label = Yase isa phewuhn
     .accesskey = r
@@ -49,10 +46,6 @@ places-organize-button =
     .tooltiptext = Phewuhna mep idx txi'pupnxitxi
     .accesskey = P
 
-places-organize-button-mac =
-    .label = Phewuhna
-    .tooltiptext = Phewuhna mep idx txi'pupnxitxi
-
 places-file-close =
     .label = Aphna
     .accesskey = A
@@ -64,10 +57,6 @@ places-view-button =
     .label = Thegnxii
     .tooltiptext = Thegnxi's nxu'ptheth
     .accesskey = T
-
-places-view-button-mac =
-    .label = Thegnxii
-    .tooltiptext = Thegnxi's nxu'ptheth
 
 places-view-menu-columns =
     .label = Puçtewesxtx ta'sxth
@@ -93,10 +82,6 @@ places-maintenance-button =
     .label = Pu'çxna nuypahjxa'
     .tooltiptext = Txãa txi'pupnxisatx jxun uhna txi' jxunpahna
     .accesskey = P
-
-places-maintenance-button-mac =
-    .label = Pu'çxna nuypahjxa'
-    .tooltiptext = Txãa txi'pupnxisatx jxun uhna txi' jxunpahna
 
 places-cmd-backup =
     .label = Psxindna…

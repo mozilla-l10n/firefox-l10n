@@ -14,6 +14,17 @@
 ### A good criteria is the language in which you'd find the best
 ### documentation on web development on the web.
 
+
+### These strings are used inside the Debugger which is available from the Web
+### Developer sub-menu -> 'Debugger', as well as in the "Paused Debugger
+### Overlay" that is displayed in the content page when it pauses.
+###
+### The correct localization of this file might be to keep it in
+### English, or another language commonly spoken among web developers.
+### You want to make that choice consistent across the developer tools.
+### A good criteria is the language in which you'd find the best
+### documentation on web development on the web.
+
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused due to a `debugger` statement in the code
 whypaused-debugger-statement = ডিবাগার বিবৃতিতে বিরতি দেওয়া হয়েছে

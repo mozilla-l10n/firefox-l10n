@@ -16,8 +16,6 @@ styleeditor-save-button = সংরক্ষণ
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = স্টাইল সম্পাদক বিকল্প
-styleeditor-editor-textbox =
-    .data-placeholder = Type CSS here.
 styleeditor-no-stylesheet = This page has no style sheet.
 styleeditor-no-stylesheet-tip = Perhaps you'd like to <a data-l10n-name="append-new-stylesheet">append a new style sheet</a>?
 styleeditor-open-link-new-tab =

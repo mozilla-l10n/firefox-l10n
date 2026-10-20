@@ -40,6 +40,10 @@ options-default-color-unit-name = रंगाची नावां
 ## Web Console section
 
 
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 # The heading
@@ -69,12 +73,12 @@ options-sourceeditor-tabsize-label = टॅबाचो आकार
 options-sourceeditor-keybinding-label = कीबायंडिंग्ज
 options-sourceeditor-keybinding-default-label = डिफॉल्ट
 
+## Local Mode section
+
 ## Advanced section
 
 # The heading
 options-context-advanced-settings = अद्ययावत स्थापितां
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = जावालिपी * अक्षम करात
 options-disable-javascript-tooltip =
     .title = हो विकल्प चालू करप सद्याच्या टॅबार जावालिपी अक्षम करता. टॅब वो साधनपेटी बंद आसल्यार हे स्थांपित विसरले वतले.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
@@ -87,8 +91,6 @@ options-enable-remote-label = पैसुल्ले डिबगींग स
 options-enable-service-workers-http-label = HTTP चेर सेवा कामगार सक्षम करात (साधनपेटी उक्ती आसतना)
 options-enable-service-workers-http-tooltip =
     .title = हो विकल्प चालू करप साधनपेटी उक्ति आशिल्ल्या सगळ्या टॅबांखातीर HTTP चेर सेवा कामगार सक्षम करता.
-# The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = * फकत सद्याचे सत्र, पान परत लोड करता
 # This is used to add a * marker to the label for the Options Panel tool checkbox for the
 # tool which is not supported for the current toolbox target.
 # Variables:

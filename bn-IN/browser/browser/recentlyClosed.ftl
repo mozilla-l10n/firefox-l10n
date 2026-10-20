@@ -15,12 +15,3 @@
 
 ##
 
-# Variables:
-#   $tabCount (Number): Number of other tabs
-#   $winTitle (String): Window title
-recently-closed-undo-close-window-label =
-    { $tabCount ->
-        [0] { $winTitle }
-        [one] { $winTitle } (ও { $tabCount }-টি অন্যান্য ট্যাব)
-       *[other] { $winTitle } (ও { $tabCount }-টি অন্যান্য ট্যাব)
-    }

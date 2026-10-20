@@ -76,6 +76,10 @@ home-prefs-highlights-option-most-recent-download-srd =
 ## Strings for the Stocks widget
 
 
+## Strings for the Finance widget
+
+## Strings for the Finance widget
+
 ## Screen-reader summary of a stock ticker.
 ## Variables:
 ##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
@@ -89,6 +93,10 @@ home-prefs-highlights-option-most-recent-download-srd =
 ## Stocks widget ticker search
 
 
+## Finance widget watchlist add and remove controls
+
+## Finance widget ticker search
+
 ## Strings for the Picture of the Day widget
 
 
@@ -100,6 +108,14 @@ home-prefs-highlights-option-most-recent-download-srd =
 
 ## Recent searches widget — empty states
 
+
+## Strings for the Horoscopes widget
+
+## Strings for the Travel widget
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -324,6 +340,8 @@ newtab-error-fallback-refresh-link = পুনরায় চেস্টা ক�
 ## Strings introduced by the Nova redesign of the Timer widget
 
 
+## Crossword widget
+
 ## Strings introduced by the Nova redesign of the Timer widget
 
 
@@ -348,6 +366,9 @@ newtab-error-fallback-refresh-link = পুনরায় চেস্টা ক�
 ## Sports widget OMC messages
 ## Shown as on-screen messages promoting the Sports widget and World Cup wallpapers.
 
+
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
 
 ## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
 

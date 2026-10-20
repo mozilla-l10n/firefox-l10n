@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Variables:
 ## $timeValue (number) - Number of units of time
 
@@ -94,13 +95,6 @@ download-utils-time-left-single = { $time } বাকি আছে
 download-utils-time-left-double = { $time1 } { $time2 } বাকি আছে
 download-utils-time-few-seconds = কয়েক সেকেন্ড বাকি
 download-utils-time-unknown = অজানা সময় বাকি রয়েছে
-
-# Variables:
-#   $scheme (String): URI scheme like data: jar: about:
-download-utils-done-scheme = { $scheme } রিসোর্স
-# Special case of done-scheme for file:
-# This is used as an eTLD replacement for local files, so make it lower case
-download-utils-done-file-scheme = স্থানীয় ফাইল
 
 # Displayed time for files finished yesterday
 download-utils-yesterday = গতকাল

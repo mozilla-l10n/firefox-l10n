@@ -34,9 +34,6 @@ places-by-day-and-site =
 places-history =
     .aria-label = Abakɔsɛm
 
-places-delete-domain-data =
-    .label = Ma Wo Were Mfiri Saet Yi
-    .accesskey = f
 places-sortby-name =
     .label = Fa Din Hyehyɛ
     .accesskey = r
@@ -49,10 +46,6 @@ places-organize-button =
     .tooltiptext = Ɔganaez wo mbukmaak
     .accesskey = S
 
-places-organize-button-mac =
-    .label = Siesie
-    .tooltiptext = Ɔganaez wo mbukmaak
-
 places-file-close =
     .label = To-mu
     .accesskey = T
@@ -64,10 +57,6 @@ places-view-button =
     .label = Nhwɛ
     .tooltiptext = Sesa sɛnea wo hwɛ
     .accesskey = w
-
-places-view-button-mac =
-    .label = Nhwɛ
-    .tooltiptext = Sesa sɛnea wo hwɛ
 
 places-view-menu-columns =
     .label = Kyerɛ Nkɔlɔm
@@ -93,10 +82,6 @@ places-maintenance-button =
     .label = Gye Bra na Fa Sie-bio
     .tooltiptext = Twe wo nsɛm a wo de esie ne wo mbukmaak
     .accesskey = i
-
-places-maintenance-button-mac =
-    .label = Gye Bra na Fa Sie-bio
-    .tooltiptext = Twe wo nsɛm a wo de esie ne wo mbukmaak
 
 places-cmd-backup =
     .label = Sie-bio…

@@ -3,17 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Lokuvamile
-category-general =
-    .tooltiptext = { pane-general-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Vala
 
@@ -38,7 +29,6 @@ close-button =
 
 tabs-group-header2 =
     .label = Emathebhu
-tabs-group-header = Emathebhu
 
 ## Variables:
 ##   $tabCount (number) - Number of tabs
@@ -65,8 +55,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -95,7 +83,6 @@ applications-use-other-label =
 
 ## Accessibility page
 
-browsing-title = Tfunguluta
 browsing-use-smooth-scrolling =
     .label = Sebentisa kugicika lokushelelako
     .accesskey = s
@@ -195,7 +182,6 @@ forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
 
 ## Privacy Section - History
 
-history-header = Umlandvo
 history-group =
     .label = Umlandvo
 history-mode-radio-group =
@@ -246,7 +232,6 @@ history-mode-radio-group =
 
 ## Privacy Section - Certificates
 
-certs-header = Titifiketi
 certs-devices-enable-fips = Nika emandla FIPS
 
 ## Privacy Section - HTTPS-Only
@@ -261,7 +246,6 @@ certs-devices-enable-fips = Nika emandla FIPS
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Busokhompyutha
-choose-download-folder-title = Khetsa ifolda yekulayisha:
 
 ## Appearance page
 

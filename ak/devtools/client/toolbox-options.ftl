@@ -19,6 +19,12 @@ options-context-inspector = Inspɛkta
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 
@@ -28,6 +34,8 @@ options-context-inspector = Inspɛkta
 ## Editor section
 
 options-sourceeditor-keybinding-default-label = Difɔlt
+
+## Local Mode section
 
 ## Advanced section
 

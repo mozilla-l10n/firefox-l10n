@@ -16,7 +16,6 @@ xpinstall-prompt = { -brand-short-name } ситим-сиртэн көмпүүт�
 
 ##
 
-xpinstall-disabled-locked = Эн ситимиҥ дьаһабыла бырагыраамма туруорары боппут эбит.
 xpinstall-disabled = Бырагыраамманы туруорар билигин тохтоон турар. «Холбоо» диэни баттаан хат ыытан көр.
 
 ## Add-on removal warning
@@ -42,4 +41,3 @@ addon-local-install-error-file-access = { $addonName } турар кыаҕа с�
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } турар кыаҕа суох, тоҕо диэтэххэ маны кытта { -brand-short-name } { $appVersion } тапсыбат..
-addon-install-error-blocklisted = { $addonName } турар кыаҕа суох, тоҕо диэтэххэ туруордахха көмпүүтэргэ куттал суоһуон сөп.

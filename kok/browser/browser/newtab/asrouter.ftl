@@ -171,3 +171,6 @@
 refresh-unused-profile-infobar-message = अशे दिसता की तुमी हाली { -brand-short-name } चालू करूंक ना. तुमी ते ताज्या, नव्याभशेन अणभवाखातीर साफ करपाक सोदता? आणि परतून येवकार!
 refresh-profile-infobar-button = परतून& चालू { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+

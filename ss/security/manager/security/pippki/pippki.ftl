@@ -29,10 +29,10 @@ download-cert-view-text = Cubungula sitifiketi CA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Sicelo sekutichaza semsebentisi
-client-auth-site-description = Lisayithi licele kutsi utichaze ngesitifiketi sakho:
-client-auth-choose-cert = Khetsa sitifketi kusikhombisa njengekutichaza:
 
 ## Set password (p12) dialog
 
@@ -48,4 +48,6 @@ set-password-reminder = Lokubalulekile: Nawukhohlwa sitifiketi sakho sesibuyisi 
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

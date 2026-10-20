@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Ka kakaretso
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Batla
     .title = Batla
-pane-search-title = Batla
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = Tswala
 
@@ -41,12 +31,8 @@ should-restart-title = Simolola { -brand-short-name } sešwa
 
 ## General Section
 
-startup-header = Tshimololosešwa
-is-default = { -brand-short-name } ga jaana ke sebatli sebatli sa gago sa thulaganyetsoruri
-is-not-default = { -brand-short-name } ga se sebatli sa gago sa thulaganyetsoruri
 tabs-group-header2 =
     .label = Ditab
-tabs-group-header = Ditab
 show-tabs-in-taskbar =
     .label = Supa diponopele tsa thebe mo Baratiro ya di Window
     .accesskey = k
@@ -62,19 +48,10 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Maemogadi...
-    .accesskey = M
 choose-language-description = Tlhopha puo e o dumelanang le yone go bontsha ditsebe.
 choose-button =
     .label = Tlhopha…
     .accesskey = o
-translate-web-pages =
-    .label = Ranola diteng tsa webo
-    .accesskey = R
-# The <img> element is replaced by the logo of the provider
-# used to provide machine translations for web pages.
-translate-attribution = Dithanolo ka <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ditlogelwantle...
     .accesskey = x
@@ -85,20 +62,6 @@ download-save-files-header =
     .label = Bolokela difaele ko
 download-save-where-3 =
     .aria-label = Bolokela difaele ko
-download-header = Dikopololo
-download-save-where = Bolokela difaele ko
-    .accesskey = B
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Tlhopha…
-           *[other] Batla…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] B
-        }
 applications-action-column =
     .label = Kgato
     .accesskey = K
@@ -118,8 +81,6 @@ applications-type-description-with-type = { $type-description } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -149,7 +110,6 @@ play-drm-content-learn-more = Ithute mo go tseneletseng
 
 ## Accessibility page
 
-browsing-title = Go batla
 browsing-use-smooth-scrolling =
     .label = Dirisa momenololo o o borethe
     .accesskey = m
@@ -199,9 +159,6 @@ choose-bookmark =
 
 ## Search Section
 
-search-suggestions-option =
-    .label = Neela batla ditshitshinyo
-    .accesskey = b
 search-restore-default =
     .label = Busetsa Thulaganyetsoruri ya Dilaodisi kgolo Patlo
     .accesskey = T
@@ -258,9 +215,6 @@ sync-signedin-unverified = { $email } ga e a netefadiwa.
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
 
-sync-verification-sent-title = Netefatso e Rometswe
-sync-verification-not-sent-title = Ga go kgonege go romela Netefatso
-
 ## Privacy Section
 
 
@@ -282,7 +236,6 @@ forms-master-pw-fips-desc = Phetolo ya Khunololamoraba e retetse
 
 ## Privacy Section - History
 
-history-header = Motlhala wa tsedifitileng
 history-group =
     .label = Motlhala wa tsedifitileng
 history-mode-radio-group =
@@ -324,10 +277,6 @@ addressbar-locbar-openpage-option =
 
 ## Privacy Section - Permissions
 
-permissions-notification = Dikitsiso
-permissions-block-popups =
-    .label = Thibela di Window tse di tlhagelelang
-    .accesskey = T
 permissions-notification2 =
     .label = Dikitsiso
 
@@ -345,7 +294,6 @@ permissions-notification2 =
 
 ## Privacy Section - Certificates
 
-certs-header = Ditifikeiti
 certs-devices-enable-fips = Kgontsha FIPS
 
 ## Privacy Section - HTTPS-Only
@@ -360,7 +308,6 @@ certs-devices-enable-fips = Kgontsha FIPS
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tesekopo
-choose-download-folder-title = Tlhopha setsholadifaele sa Kopololo:
 
 ## Appearance page
 

@@ -7,11 +7,6 @@ tabbrowser-menuitem-close-tab =
     .label = ট্যাব বন্ধ
 tabbrowser-menuitem-close =
     .label = বন্ধ
-# Displayed as a tooltip on container tabs
-# Variables:
-#   $title (String): the title of the current tab.
-#   $containerName (String): the name of the current container.
-tabbrowser-container-tab-title = { $title } - { $containerName }
 # This text serves as an on-screen tooltip as well as an accessible name for
 # the "X" button that is shown on the active tab or, when multiple tabs are
 # selected, to all their "X" buttons.
@@ -23,19 +18,13 @@ tabbrowser-close-tabs-button =
             [one] ট্যাব বন্ধ
            *[other] { $tabCount } ট্যাব বন্ধ
         }
-# Variables:
-#   $tabCount (Number): The number of tabs that will be closed.
-tabbrowser-close-tabs-tooltip =
-    .label =
-        { $tabCount ->
-            [one] ট্যাব বন্ধ
-           *[other] { $tabCount } ট্যাব বন্ধ
-        }
 
 ## Tooltips for tab audio control
 ## Variables:
 ##   $tabCount (Number): The number of tabs that will be affected.
 
+
+## Tooltips for tab audio control
 
 ## Confirmation dialog when closing a window with more than one tab open,
 ## or when quitting when only one window is open.
@@ -48,6 +37,9 @@ tabbrowser-confirm-close-tabs-button = সব ট্যাব বন্ধ
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
+
+## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
+## and browser.warnOnQuitShortcut is true.
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
@@ -96,4 +88,33 @@ tabbrowser-ctrl-tab-list-all-tabs =
     .label = সকল { $tabCount } ট্যাব এর তালিকা
 
 ## Tab manager menu buttons
+
+## Tab manager menu buttons
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+##
+
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+## When collapsed, the tab group label's aria-description will indicate
+## whether the hover menu is open or closed.
+
+##
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+## Open/saved tab group context menu
+
+## Tab Notes
+
+## Split View
+
+## Manage Split View (icon in the address bar & three-dot menu in the footer)
 

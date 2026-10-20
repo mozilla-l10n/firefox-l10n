@@ -36,8 +36,6 @@ policy-DisableDeveloperTools = ডেভেলপার টুলগুলিত
 
 policy-DisableFeedbackCommands = সহায়তা মেনু থেকে প্রতিক্রিয়া পাঠানোর জন্য কমান্ডগুলিকে বন্ধ করুন (প্রতিক্রিয়া জমা দিন এবং প্রতারণামূলক সাইটের প্রতিবেদন জমা করুন)।
 
-policy-DisableFirefoxAccounts = সিঙ্ক সহ { -fxaccount-brand-name } ভিত্তিক পরিষেবাদিকে অক্ষম করুন।
-
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox স্ক্রিনশট-র বৈশিষ্ট্যকে নিষ্ক্রিয় করুন।
 
@@ -46,8 +44,6 @@ policy-DisableFirefoxStudies = অবিরত গবেষণা থেকে {
 policy-DisableForgetButton = ভুলে যাওয়ার বোতামে অ্যাক্সেস প্রতিরোধ করুন।
 
 policy-DisableFormHistory = অনুসন্ধান এবং ফর্মের ইতিহাস মনে রাখবেন না।
-
-policy-DisablePocket2 = { -pocket-brand-name } ওয়েবপেজ সংরক্ষণ করার জন্য বৈশিষ্ট্যটিকে নিস্ক্রিয় করুন।
 
 policy-DisablePrivateBrowsing = ব্যক্তিগত ব্রাউজিং ব্যবস্থা নিস্ক্রিয় করুন।
 
@@ -101,8 +97,6 @@ policy-OfferToSaveLogins = সংরক্ষিত লগইন এবং প�
 policy-OverrideFirstRunPage = প্রথমে রান করা পৃষ্ঠাকে ওভাররাইড করুন। আপনি যদি প্রথমে রান করা পৃষ্ঠাটিকে অক্ষম করতে চান তবে এই পলিসিটিতে ফাঁকা রাখুন।
 
 policy-OverridePostUpdatePage = "কি নতুন" পৃষ্ঠাটির পরের আপডেটকে ওভাররাইড করুন। আপনি যদি পরে-আপডেট করা পৃষ্ঠাটিকে অক্ষম করতে চান তবে এই পলিসিটিতে ফাঁকা রাখুন।
-
-policy-PopupBlocking = নির্দিষ্ট ওয়েবসাইটকে ডিফল্টরূপে পপআপ প্রদর্শন করার অনুমতি দিন।
 
 policy-Proxy = প্রক্সির সেটিংস কনফিগার করুন।
 

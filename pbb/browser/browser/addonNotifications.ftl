@@ -16,7 +16,6 @@ xpinstall-prompt = { -brand-short-name } payahtxne' ayte webte nanxu' çxkitxapa
 
 ##
 
-xpinstall-disabled-locked = Idx ika'hnxisa vxinxis mfxiçxa'ka txipnxis txãa softwaras.
 xpinstall-disabled = Ki'phwa'ja's software-te na's mfxiçxawe. Mikxthethwe  ki'ki'n isaya'.
 
 ## Add-on removal warning
@@ -64,4 +63,3 @@ addon-local-install-error-not-signed = Txãa kãja'nxisa ewume'h ya'txiphya then
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName } ewumene çxkitxaya napaka na' ya katxudewah ji'meah txãnxa'kh { -brand-short-name } { $appVersion }.
-addon-install-error-blocklisted = { $addonName } ewumena çxkitxaya nanxu mejse ewmesa ji'pa puphya ewumena payahtxmeçxa.

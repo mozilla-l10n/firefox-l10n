@@ -17,6 +17,12 @@ options-select-dev-tools-theme-label = Mamorago
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 
@@ -27,15 +33,12 @@ options-select-dev-tools-theme-label = Mamorago
 
 options-sourceeditor-keybinding-default-label = Thulaganyetso ruri
 
+## Local Mode section
+
 ## Advanced section
 
-# The label for checkbox that toggles JavaScript on or off
-options-disable-javascript-label = Thibela go dira ga JavaScript *
 options-disable-javascript-tooltip =
     .title = Tobetso go dirisa diitlhophelwa go tla thibela go dira ga JavaScript mo thebeng ya ga jaana. Fa the kgotsa sediriswa-bokoso di tswetswe ke gone thulaganyo e etla lebalwang.
-
-# The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = * Botlameladikopanelwa ja ga jaana fela, tsenya sešwa tsebe
 
 ##
 

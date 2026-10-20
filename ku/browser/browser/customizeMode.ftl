@@ -8,3 +8,6 @@ customize-mode-titlebar =
     .label = Darikê sernavê
 customize-mode-undo-cmd =
     .label = Şûnde Bîne
+
+## Labels for the special items that can be added to toolbars in customize mode
+

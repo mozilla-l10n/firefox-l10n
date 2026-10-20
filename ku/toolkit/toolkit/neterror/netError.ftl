@@ -10,10 +10,17 @@ neterror-page-title = Di barkirina rûpelê de çewtî
 ## Error page actions
 
 neterror-learn-more-link = Bêtir bizane…
-neterror-try-again-button = Dîsa Biceribîne
+
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
 
 ##
 
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
 
 ## Specific error messages
 
@@ -39,8 +46,6 @@ neterror-file-not-found-filename = Dibe ku di nivîsandina tîpên hûrdek/girde
 neterror-file-not-found-moved = Dibe ku ciyê pelê an jî navê wê hatibe guhertin an jî hatibe jêbirin.
 neterror-unknown-protocol = Dibe ku ji bo vekirina vê navnîşanê pêwîst be ku tu nermalaveke din saz bikî.
 neterror-redirect-loop = Dibe ku ev pirsgirêk bibe sedema neçalakirin an jî redkirina erêkirina çerezan.
-neterror-unknown-socket-type-psm-installed = Teqez bike ka Gerînendetiya Ewlekariyê ya Takeksî ya pergalê sazkirî ye an na.
-neterror-unknown-socket-type-server-config = Dibe ku ev ji vesazkirina nestandard a pêşkêşkarê be.
 neterror-not-cached-intro = Bergeya xwestî di pêşbîra { -brand-short-name }ê de tune ye.
 neterror-not-cached-sensitive = Wekî rêgiriyeke ewlekariyê, { -brand-short-name } belgeyên bihîstyar ji nû ve naxwaze.
 neterror-not-cached-try-again = Ji bo ku belgeyê dîsa ji malperê bixwazî Dîsa Biceribîneyê bitikîne.

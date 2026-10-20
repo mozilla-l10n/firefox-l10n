@@ -13,7 +13,6 @@ support-addons-version = Yoga rafue
 support-addons-id = ID
 app-basics-name = Mamékɨ:
 app-basics-version = Yoga rafue
-app-basics-enabled-plugins = Plugins bónoka
 app-basics-user-agent = Mámekɨ náama
 app-basics-os = OS
 app-basics-memory-use = Ráa ofítaɨra
@@ -39,6 +38,10 @@ copy-raw-data-to-clipboard-label = Rabéniko fákari íte rabemo jonéra jóne
 
 
 ## Codec support table
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
 
 ##
 
@@ -117,5 +120,11 @@ touch-enabled = Náze jétanua já bónoka
 
 ## Printing section
 
+## Remote Settings sections
+
 ## Normandy sections
+
+## Pointing devices
+
+## Content Analysis (DLP)
 

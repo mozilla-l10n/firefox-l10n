@@ -35,10 +35,10 @@ download-cert-view-text = Hlahloba setifikeiti sa CA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Kopo ya Boitsebiso ba Mosebedisi
-client-auth-site-description = Setsha se kopile hore o itsebahatse ka setifikeiti:
-client-auth-choose-cert = Kgetha setifikeiti se tla ba boitsebiso ba hao:
 client-auth-cert-details = Dintlha ka setifikeiti se kgethilweng:
 
 ## Set password (p12) dialog
@@ -55,4 +55,6 @@ set-password-reminder = Sa bohlokwa: Haeba o lebetse phasewete ya backup ya seti
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

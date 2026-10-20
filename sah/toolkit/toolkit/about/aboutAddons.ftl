@@ -89,15 +89,10 @@ addon-category-recent-updates-title =
 
 ## These are global warnings
 
-extensions-warning-safe-mode = Куттала суох үлэлиир эрэсиимҥэ эбиискэлэр араарыллаллар.
-extensions-warning-check-compatibility = Эбиискэлэр сөп түбэһэллэрин тургутуу араарыллыбыт. Сөп түбэспэт эбиискэлэр баар буолуохтарны сөп.
-extensions-warning-safe-mode2 =
-    .message = Куттала суох үлэлиир эрэсиимҥэ эбиискэлэр араарыллаллар.
 extensions-warning-check-compatibility2 =
     .message = Эбиискэлэр сөп түбэһэллэрин тургутуу араарыллыбыт. Сөп түбэспэт эбиискэлэр баар буолуохтарны сөп.
 extensions-warning-check-compatibility-button = Холбоо
     .title = Эбиискэлэр сөп түбэһэллэрин тургутууну холбоо
-extensions-warning-update-security = Эбиискэлэри саҥардарга арчылыыр сулууспа араарыллыбыт. Онон саҥартаххына ол бу буолуон сөп.
 extensions-warning-update-security2 =
     .message = Эбиискэлэри саҥардарга арчылыыр сулууспа араарыллыбыт. Онон саҥартаххына ол бу буолуон сөп.
 extensions-warning-update-security-button = Холбоо
@@ -174,17 +169,36 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
-details-notification-incompatible = { $name } маны кытта сөп түбэспэт { -brand-short-name } { $version }.
-# Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } маны кытта сөп түбэспэт { -brand-short-name } { $version }.
-details-notification-blocked = { $name } куттал суох буоллун уонна бигэтик үлэлээтин диэн араарыллыбыт.
-details-notification-blocked2 =
-    .message = { $name } куттал суох буоллун уонна бигэтик үлэлээтин диэн араарыллыбыт.
-details-notification-blocked-link = Сиһилии
-details-notification-softblocked = { $name } кутталы үөскэтэр уонна программа бигэтик үлэлииригэр мэһэй буолар.
-details-notification-softblocked2 =
-    .message = { $name } кутталы үөскэтэр уонна программа бигэтик үлэлииригэр мэһэй буолар.
-details-notification-softblocked-link = Сиһилии
+
+## Gecko Media Plugins (GMPs)
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+

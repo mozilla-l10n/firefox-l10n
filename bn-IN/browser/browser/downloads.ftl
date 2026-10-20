@@ -32,8 +32,6 @@ downloads-cmd-cancel-panel =
 
 ##
 
-downloads-cmd-show-downloads =
-    .label = ডাউনলোড ফোল্ডার দেখান
 downloads-cmd-retry =
     .tooltiptext = পুনরায় প্রচেষ্টা
 downloads-cmd-retry-panel =
@@ -126,6 +124,8 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = ডাউনলোডের বিবরণ
+
+## These strings are displayed in the private browsing view of the downloads panel
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:

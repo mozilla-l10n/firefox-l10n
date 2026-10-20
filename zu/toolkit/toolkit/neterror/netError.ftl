@@ -9,10 +9,16 @@ neterror-page-title = Kune nkinga ekulayisheni ikhasi
 
 ## Error page actions
 
-neterror-try-again-button = Phinda Uzame
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
 
 ##
 
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
 
 ## Specific error messages
 
@@ -38,8 +44,6 @@ neterror-file-not-found-filename = Hlola igama lefayela ukuthi osonhlamvukazi ba
 neterror-file-not-found-moved = Hlola ubone ukuthi ifayela aliyiswanga kwenye indawo, laqanjwa futhi noma lasuswa.
 neterror-unknown-protocol = Kungase kudingeke ukuba ufakele olunye uhlaka olusetshenziswayo ukuze uvule leli kheli.
 neterror-redirect-loop = Le nkinga ngezinye izikhathi ingase ibangelwe ukwenza angasebenzi noma ukwenqaba ukwamukela amakukizi.
-neterror-unknown-socket-type-psm-installed = Hlola ukuze uqiniseke ukuthi uhlelo lwakho lunoMqondisi wokuvikela Okungowakho ofakelwe.
-neterror-unknown-socket-type-server-config = Lokhu kungase kubangelwe isimo esingafani nezinye esikuseva.
 neterror-not-cached-intro = Umbhalo oceliwe awutholakali esilondolozini se-{ -brand-short-name }
 neterror-not-cached-sensitive = Njesiqaphelisi sokuphepha, i-{ -brand-short-name } ayiceli kabusha ngokuzenzakalela imibhalo ezwela  kakhulu.
 neterror-not-cached-try-again = Qhofoza u-Zama Futhi ukuze ucele kabusha umbhalo kusuka kuwebhusayithi.

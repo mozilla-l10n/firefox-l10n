@@ -43,23 +43,16 @@ webrtc-sharing-menu =
 
 ## Tooltips used by the legacy global sharing indicator
 
-webrtc-indicator-sharing-camera-and-microphone =
-    .tooltiptext = तुमचो कॅमेरा आनी मायक्रोफोन वाटून घेतलो वता. वाटून घेवपार नियंत्रण दवरपाक क्लीक करात.
-webrtc-indicator-sharing-camera =
-    .tooltiptext = तुमचो कॅमेरा वाटून घेतलो वता. वाटून घेवपार नियंत्रण दवरपाक क्लीक करात.
-webrtc-indicator-sharing-microphone =
-    .tooltiptext = तुमचो मायक्रोफोन वाटून घेतलो वता. वाटून घेवपार नियंत्रण दवरपाक क्लीक करात.
-webrtc-indicator-sharing-application =
-    .tooltiptext = अनुप्रयोग वाटून घेतलो वता. वाटून घेवपार नियंत्रण दवरपाक क्लीक करात.
-webrtc-indicator-sharing-screen =
-    .tooltiptext = तुमचो पड्डो वाटून घेतलो वता. वाटून घेवपार नियंत्रण दवरपाक क्लीक करात.
-webrtc-indicator-sharing-window =
-    .tooltiptext = विंडो वाटून घेतलो वता. वाटून घेवपार नियंत्रण दवरपाक क्लीक करात.
-
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.
 ## Variables:
 ##   $streamTitle (String): the title of the tab using the share.
+##   $tabCount (Number): the title of the tab using the share.
+
+## These strings are only used on Mac for menus attached to icons
+## near the clock on the mac menubar.
+## Variables:
+##   $streamTitle (String): the host of the tab using the share.
 ##   $tabCount (Number): the title of the tab using the share.
 
 webrtc-indicator-menuitem-control-sharing =
@@ -119,6 +112,8 @@ webrtc-indicator-menuitem-sharing-browser-with =
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
 
+## Special phrasing for sharing devices when the origin is a file url.
+
 ## Variables:
 ##   $origin (String): the first party origin.
 ##   $thirdParty (String): the third party origin.
@@ -140,3 +135,4 @@ webrtc-share-application =
 
 
 ##
+

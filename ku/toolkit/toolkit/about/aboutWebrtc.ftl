@@ -69,6 +69,17 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (hat gir
 ##  $path (String) - The path to which the file is saved.
 
 
+## These are displayed on the button that shows or hides the
+## user modified configuration disclosure
+
+##
+
+
+##
+
+##
+
+
 ##
 
 
@@ -81,12 +92,4 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (hat gir
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
-
-##
-
-##
-
-
-##
-
 

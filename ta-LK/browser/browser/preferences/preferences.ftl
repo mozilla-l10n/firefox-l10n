@@ -3,17 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = பொது
-category-general =
-    .tooltiptext = { pane-general-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 close-button =
     .aria-label = மூடுக
 
@@ -36,8 +27,6 @@ close-button =
 
 ## General Section
 
-startup-header = ஆரம்பிக்க
-is-default = தற்போதைய பொது இருப்பு உலாவி: { -brand-short-name }
 startup-group =
     .label = ஆரம்பிக்க
 
@@ -50,9 +39,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = மேலதிக...
-    .accesskey = A
 choose-language-description = பக்கங்களிற்கான விருப்பமான மொழியைத் தெரிக
 choose-button =
     .label = தெரிக...
@@ -64,20 +50,6 @@ download-save-files-header =
     .label = கோப்புகளை இங்கே சேமிக்க
 download-save-where-3 =
     .aria-label = கோப்புகளை இங்கே சேமிக்க
-download-header = பதிவிறக்கங்கள்
-download-save-where = கோப்புகளை இங்கே சேமிக்க
-    .accesskey = v
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] தெரிக...
-           *[other] உலாவுக...
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] o
-        }
 applications-type-column =
     .label = உள்ளடக்க வகை
     .accesskey = T
@@ -110,17 +82,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = { $plugin-name } இனைப் பயன்படுத்துக ({ -brand-short-name }இல்)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -133,10 +99,6 @@ applications-use-other-label =
     .value = { applications-use-other.label }
 
 ## Firefox updates
-
-update-application-use-service =
-    .label = இற்றைகளை நிறுவ ஒரு பின்னணி சேவையைப் பயன்படுத்துக
-    .accesskey = b
 
 ## About Firefox
 
@@ -152,7 +114,6 @@ update-application-use-service =
 
 ## Accessibility page
 
-browsing-title = உலாவுதல்
 browsing-use-autoscroll =
     .label = தானியக்க உருளலை பயன்படுத்துக
     .accesskey = a
@@ -166,10 +127,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = அமைவுகள்…
-    .accesskey = e
 
 ## Home Section
 
@@ -263,11 +220,6 @@ forms-exceptions =
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = வரலாற்றை நினைவிற்கொள்
-history-remember-option-never =
-    .label = வரலாற்றை நினைவிற்கொள்ளாதே
-
 ## Privacy Section - Site Data
 
 
@@ -298,13 +250,6 @@ history-remember-option-never =
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = முன்னெழும் சாளரங்களை நிறுத்துக
-    .accesskey = B
-permissions-addon-exceptions =
-    .label = விதிவிலக்குகள்
-    .accesskey = E
-
 ## Privacy Section - Data Collection
 
 
@@ -318,8 +263,6 @@ permissions-addon-exceptions =
 
 
 ## Privacy Section - Certificates
-
-certs-header = சான்றிதழ்கள்
 
 ## Privacy Section - HTTPS-Only
 
@@ -346,4 +289,6 @@ certs-header = சான்றிதழ்கள்
 
 
 ## Warnings section
+
+## Referrals Section
 

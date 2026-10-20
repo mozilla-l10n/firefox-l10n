@@ -15,6 +15,12 @@
 ## "Default Color Unit" options for the Inspector
 
 
+## Web Console section
+
+## Network Monitor section
+
+## Experimental section
+
 ## Style Editor section
 
 
@@ -24,6 +30,8 @@
 ## Editor section
 
 options-sourceeditor-keybinding-default-label = Chikhalire
+
+## Local Mode section
 
 ## Advanced section
 

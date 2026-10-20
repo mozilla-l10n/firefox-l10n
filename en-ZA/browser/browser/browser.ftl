@@ -241,7 +241,8 @@ bookmarks-toolbar-placeholder-button =
 ## Repair text encoding toolbar button
 
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 toolbar-button-email-link =
     .label = Email Link
@@ -273,6 +274,8 @@ toolbar-button-new-private-window =
 
 eme-notifications-drm-content-playing = Some audio or video on this site uses DRM software, which may limit what { -brand-short-name } can let you do with it.
 
+## Notification bars for media playback issues
+
 ## Password save/update panel
 
 
@@ -287,9 +290,11 @@ ui-tour-info-panel-close =
 
 ##
 
-
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
 
 
 ##

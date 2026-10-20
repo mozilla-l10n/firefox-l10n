@@ -2,11 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-crashreporter-title = ক্র্যাশ রিপোর্টার
-crashreporter-crash-message = { -brand-short-name }-এ উপস্থিত কিছু সমস্যার কারণে তা বিপর্যস্ত হয়েছে।
 crashreporter-plea = সমস্যার কারণনির্ণয় করে সমস্যাটি সমাধানে সাহায্য করার জন্য বিপর্যয় সংক্রান্ত রিপোর্ট পাঠিয়ে দিন।
-# $details (String) - the reason that a crash report cannot be submitted
-crashreporter-error-details = বিবরণ: { $details }
 crashreporter-no-run-message = বিপর্যয়ের পরে এই অ্যাপ্লিকেশনটি চালিয়ে সমস্যাটি অ্যাপ্লিকেশন বিক্রেতাকে জানানো হয়। সরাসরি এই অ্যাপ্লিকেশনটি চালানো উচিত নয়।
 crashreporter-button-details = বিবরণ…
 crashreporter-view-report-title = অন্তর্ভুক্ত তথ্যের রিপোর্ট দায়ের করুন

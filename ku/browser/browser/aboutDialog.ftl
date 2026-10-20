@@ -14,7 +14,6 @@ settings-update-checking-for-updates =
 ## Variables:
 ##   $transfer (string) - Transfer progress.
 
-settings-update-downloading = <img data-l10n-name="icon"/>Nûkirin tê daxistin — <label data-l10n-name="download-status">{ $transfer }</label>
 settings-update-downloading-2 =
     .label = Nûkirin tê daxistin — { $transfer }
 
@@ -25,7 +24,6 @@ settings-update-applying =
     .label = Nûkirin tê sepandin…
 update-failed = Nûkirin têk çû. <label data-l10n-name="failed-link">Versiyona dawiyê jêbar bike</label>
 update-failed-main = Nûkirin têk çû. <a data-l10n-name="failed-link-main">Versiyona dawiyê jêbar bike</a>
-update-adminDisabled = Birêveberiya pergala te nûkirin neçalak kirine
 update-noUpdatesFound = { -brand-short-name } ya nû ye
 settings-update-no-updates-found =
     .label = { -brand-short-name } ya nû ye
@@ -50,5 +48,3 @@ warningDesc-version = { -brand-short-name } ji bo ceribandinê ye û dibe ku ne 
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-exp-creditsLink">komeke gerdûyî ye ku</label> ji bo Web vekirî, bo raya giştî û berdest be bi hev re dixebite.
 community-2 = { -brand-short-name } ji hêla <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }ê ve hatiye dîzaynkirin </label>ku ew <label data-l10n-name="community-creditsLink">komeke gerdûnî</label> ji bo Web vekirî, bo raya giştî û berdest be bi hev re dixebite.
 bottomLinks-license = Agahiyên Lîsansê
-bottomLinks-rights = Mafên Bikarhênerên Dawî
-bottomLinks-privacy = Polîçeya Nepeniyê

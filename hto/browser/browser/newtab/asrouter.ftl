@@ -170,3 +170,6 @@
 
 refresh-profile-infobar-button = Ábɨdo taɨne { -brand-short-name }…
     .accesskey = e
+
+## Infobar shown at startup to suggest session-restore
+

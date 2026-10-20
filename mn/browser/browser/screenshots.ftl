@@ -4,11 +4,15 @@
 
 screenshots-cancel-button = Цуцлах
 screenshots-save-page-button = Бүтэн хуудсыг хадгалах
-screenshots-download-button = Татаж авах
 
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
+
+## The below strings are used to capture keydown events so the strings should
+## not be changed unless the keyboard layout in the locale requires it.
+
+##
 

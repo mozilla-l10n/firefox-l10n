@@ -47,15 +47,19 @@ permissions-invalid-uri-label = Wpiszë pòprôwné miono hòsta
 ## Exceptions - Cookies
 
 
+## Exceptions - Clear on Shutdown
+
 ## Exceptions - HTTPS-Only Mode
 
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-desc = Mòżesz wëbrac, chtërne stronë mògą òtmëkac wëskakùjącé òkna. Wpiszë akùratny adres stronë, chtërny chcesz na to dac zgòdã, i klëkni na Zezwòlë.
-
 ## Exceptions - Saved Logins
 
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+## Exceptions - Saved Passwords
 
 ## Exceptions - Add-ons
 
@@ -73,8 +77,16 @@ permissions-exceptions-addons-desc = Mòżesz wëbrac, chtërne stronë mògą i
 ## Site Permissions - Virtual Reality
 
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
 ## Site Permissions - Camera
 
+
+## Site Permissions - Loopback network
+
+## Site Permissions - Local network
 
 ## Site Permissions - Microphone
 

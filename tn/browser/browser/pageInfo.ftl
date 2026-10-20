@@ -74,7 +74,6 @@ general-strict-mode =
     .value = Mokgwa wa kobamelo ya Kemo
 media-unknown-not-cached =
     .value = Ga e itsiwe (ga e a khetšhiwa)
-security-no-visits = Nnyaa
 
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for

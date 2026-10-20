@@ -140,7 +140,6 @@ media-unknown-not-cached =
     .value = अज्ञात (कॅची करूंक नाशिल्लो)
 permissions-use-default =
     .label = डिफॉल्ट वापरचो
-security-no-visits = ना
 
 # This string is used to display the type of
 # an image
@@ -174,14 +173,6 @@ media-file-size = { $size } केबी (KB)
 
 ## Variables:
 ##   $website (string) — The url of the website pageInfo is getting info for
-
-# This string is used to display the website name next to the
-# "Block Images" checkbox in the media tab
-# Variables:
-#   $website (string) - The website name
-media-block-image =
-    .label = { $website } सावन प्रतिमा आडावच्यो
-    .accesskey = B
 
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box

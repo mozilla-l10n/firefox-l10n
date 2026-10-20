@@ -15,7 +15,6 @@
 
 ##
 
-xpinstall-disabled-locked = Ó iyaɨma já dúitate ó jonega biemo software.
 xpinstall-disabled = Software Jónega birui dúitaga. Abɨdo jeta bonóyena.
 
 ## Add-on removal warning

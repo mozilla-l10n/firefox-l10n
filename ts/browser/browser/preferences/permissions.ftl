@@ -47,15 +47,19 @@ permissions-invalid-uri-label = Nghenisa vito ra ntiyiso ro amukela
 ## Exceptions - Cookies
 
 
+## Exceptions - Clear on Shutdown
+
 ## Exceptions - HTTPS-Only Mode
 
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-desc = U nga boxa masayiti ya web lama faneleke ku pfula mafasitere ya pop up. Thayipa adirese leyi nga fanela ya sayiti leri u ri lavaka ku ri pfumelela ivi u tshikelela Pfumelela.
-
 ## Exceptions - Saved Logins
 
+
+## Exceptions - Pop-ups And Third-Party Redirects
+
+## Exceptions - Saved Passwords
 
 ## Exceptions - Add-ons
 
@@ -73,8 +77,16 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 ## Site Permissions - Virtual Reality
 
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
 ## Site Permissions - Camera
 
+
+## Site Permissions - Loopback network
+
+## Site Permissions - Local network
 
 ## Site Permissions - Microphone
 

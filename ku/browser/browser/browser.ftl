@@ -171,7 +171,8 @@ bookmarks-toolbar-placeholder-button =
 ## Repair text encoding toolbar button
 
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
@@ -185,6 +186,8 @@ toolbar-button-save-page =
 
 ## EME notification panel
 
+
+## Notification bars for media playback issues
 
 ## Password save/update panel
 
@@ -200,9 +203,11 @@ ui-tour-info-panel-close =
 
 ##
 
-
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
 
 
 ##

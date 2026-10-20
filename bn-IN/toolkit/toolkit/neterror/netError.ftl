@@ -22,13 +22,19 @@ neterror-override-exception-button = ঝুঁকি গ্রহণ করু�
 neterror-pref-reset-button = ডিফল্ট বৈশিষ্ট্যাবলী পুনরুদ্ধার করুন
 neterror-return-to-previous-page-button = ফিরে যান
 neterror-return-to-previous-page-recommended-button = ফিরে যান (প্রস্তাবিত)
-neterror-try-again-button = পুনরায় চেষ্টা করুন
 neterror-view-certificate-link = সার্টিফিকেট প্রদর্শন
+
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
 
 ##
 
 neterror-pref-reset = এটা দেখাচ্ছে যে আপনার নেটওয়ার্ক সুরক্ষা হয়তো এই ফাইলটাকে সমস্যা করছে। আপনি কি চান ডিফল্ট বৈশিষ্ট্যাবলী পুনরুদ্ধার করতে?
-neterror-error-reporting-automatic = এরম ত্রুটির রিপোর্ট করে { -vendor-short-name }-কে সাহায্য করুন ভাইরাসযুক্ত সাইটকে ব্লক করতে
+
+## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
+## environment variable is set, which causes { -brand-short-name } to log TLS
+## session keys that can be used to decrypt encrypted network traffic.
 
 ## Specific error messages
 
@@ -56,8 +62,6 @@ neterror-file-not-found-moved = ফাইলের স্থান অথবা 
 neterror-access-denied = এটা হয়তো মোছা হয়েছে, সরানো হয়েছে, বা ফাইলে প্রবেশের অনুমুতির অ্যাক্সেস নিষেধ করা হয়েছে।
 neterror-unknown-protocol = চিহ্নিত ঠিকানা খোলার জন্য সম্ভবত কয়েকটি সফ্টওয়্যার ইনস্টল করা আবশ্যক।
 neterror-redirect-loop = কুকি নিষ্ক্রিয় অথবা প্রত্যাখ্যান করা হলে এই সমস্যা দেখা দেওয়ার সম্ভাবনা রয়েছে।
-neterror-unknown-socket-type-psm-installed = আপনার সিস্টেমে ব্যক্তিগত নিরাপত্তা ব্যবস্থা উপস্থিত রয়েছে কিনা তা পরীক্ষা করুন।
-neterror-unknown-socket-type-server-config = সার্ভারে অপ্রমিত কনফিগারেশন স্থাপনার ফলে এই সম্ভাবনা রয়েছে।
 neterror-not-cached-intro = { -brand-short-name }-র ক্যাশের মধ্যে, অনুরোধ করা নথিটি উপলব্ধ নেই।
 neterror-not-cached-sensitive = নিরাপত্তার খাতিরে, সংবেদনশীল নথির ক্ষেত্রে { -brand-short-name } দ্বারা স্বয়ংক্রিয়ভাবে পুনরায় অনুরোধ করা হয় না।
 neterror-not-cached-try-again = ওয়েব-সাইট থেকে নথিটি পুনরায় অনুরোধ করার জন্য 'পুনরায় প্রচেষ্টা' ক্লিক করুন।

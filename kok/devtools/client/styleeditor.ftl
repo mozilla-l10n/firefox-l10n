@@ -16,8 +16,6 @@ styleeditor-save-button = जतनाय
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = शैली संपादक विकल्प
-styleeditor-editor-textbox =
-    .data-placeholder = हांगा CSS टायप करात
 styleeditor-no-stylesheet = या पानात शैलीपत्र ना
 styleeditor-no-stylesheet-tip = तुमका करपाक आवडटले<a data-l10n-name="append-new-stylesheet">नवे शैलीपत्र जोडात</a>?
 styleeditor-find =

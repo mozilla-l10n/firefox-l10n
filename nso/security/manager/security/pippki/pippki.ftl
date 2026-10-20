@@ -33,10 +33,10 @@ download-cert-view-text = Lekola setifikheiti sa CA
 
 ## Client Authorization Ask dialog
 
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Kgopelo ya Tlhatho ya Modiriši
-client-auth-site-description = Saete ye e kgopetše gore o itlhathe ka setifikheiti:
-client-auth-choose-cert = Kgetha setifikheiti go se hlagiša bjalo ka sehlathi:
 
 ## Set password (p12) dialog
 
@@ -52,4 +52,6 @@ set-password-reminder = Ye bohlokwa: Ge o lebetše lentšuphetišo la gago la th
 ## Protected Auth dialog
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

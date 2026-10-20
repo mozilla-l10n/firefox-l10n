@@ -40,8 +40,6 @@ download-cert-view-text = CA সার্টিফিকেট পরীক্�
 
 client-auth-window =
     .title = ব্যবহারকারীর পরিচয়প্রমাণের অনুরোধ
-client-auth-site-description = এই সাইটে আপনাকে একটি সার্টিফিকেটের সাহায্যে নিজের পরিচয় প্রমাণ করার অনুরোধ জানানো হয়েছে:
-client-auth-choose-cert = পরিচয় প্রমাণ হিসাবে পেশ করার জন্য একটি সার্টিফিকেট প্রস্তুত করুন:
 client-auth-cert-details = নির্বাচিত সার্টিফিকেটের বিবরণ:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -65,8 +63,6 @@ client-auth-cert-details-issued-by = ইস্যু করা হয়েছি�
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = জমা করা হয়েছে: { $storedOn }
-client-auth-cert-remember-box =
-    .label = এই সিদ্ধান্তটি মনে রাখা হবে
 
 ## Set password (p12) dialog
 
@@ -80,4 +76,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = গুরুত্বপূর্ণ: সার্টিফিকেট ব্যাক-আপ পাসওয়ার্ড হারিয়ে গেলে আপনি এই ব্যাক-আপ পুনরুদ্ধার করতে সক্ষম হবেন না। অনুগ্রহ করে এই পাসওয়ার্ডটি কোনো সুরক্ষিত স্থানে সংরক্ষণ করুন।
 
 ## Protected authentication alert
+
+## Protected authentication dialog
 

@@ -4,3 +4,6 @@
 
 customize-mode-restore-defaults =
     .label = Үндсэн дарааллыг сэргээ
+
+## Labels for the special items that can be added to toolbars in customize mode
+

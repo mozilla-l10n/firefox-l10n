@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-services =
@@ -205,6 +211,8 @@ menu-bookmarks-other =
 menu-bookmarks-mobile =
     .label = মোবাইলের বুকমার্কগুলি
 
+## Profiles Menu
+
 ## Tools Menu
 
 menu-tools =
@@ -247,8 +255,6 @@ menu-window-bring-all-to-front =
 menu-help =
     .label = সহায়তা
     .accesskey = H
-menu-help-report-site-issue =
-    .label = সাইটের সমস্যা রিপোর্ট করুন…
 # Label of the Help menu item. Either this or
 # safeb.palm.notdeceptive.label from
 # phishing-afterload-warning-message.dtd is shown.

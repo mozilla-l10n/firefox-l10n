@@ -3,20 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Kakaretšo
-category-general =
-    .tooltiptext = { pane-general-title }
 pane-search-title2 = Nyaka
     .title = Nyaka
-pane-search-title = Nyaka
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -44,11 +34,8 @@ should-restart-title = Thoma { -brand-short-name } ka leswa
 
 ## General Section
 
-startup-header = Thoma
-is-default = { -brand-short-name } gona bjale ke praosara ya gago ya tirelwa
 tabs-group-header2 =
     .label = Dithepe
-tabs-group-header = Dithepe
 show-tabs-in-taskbar =
     .label = Laetša ditebelelopele tša thepo go thasekepaa ya Windows
     .accesskey = k
@@ -64,9 +51,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Gatetšego pele…
-    .accesskey = G
 choose-language-description = Kgetha leleme leo o le kganyogago la go bontšha matlakala
 choose-button =
     .label = Kgetha…
@@ -81,20 +65,6 @@ download-save-files-header =
     .label = Boloka difaele go
 download-save-where-3 =
     .aria-label = Boloka difaele go
-download-header = Ditaollo
-download-save-where = Boloka difaele go
-    .accesskey = k
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Kgetha…
-           *[other] Phetla…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] e
-           *[other] e
-        }
 applications-type-column =
     .label = Mohuta wa dikagare
     .accesskey = t
@@ -127,17 +97,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Diriša { $plugin-name } (go { -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -150,10 +114,6 @@ applications-use-other-label =
     .value = { applications-use-other.label }
 
 ## Firefox updates
-
-update-application-use-service =
-    .label = Diriša tirelo ya bokamorago gore o lokele dimpshafatšo
-    .accesskey = b
 
 ## About Firefox
 
@@ -172,7 +132,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Go praosa
 browsing-use-autoscroll =
     .label = Diriša sekorolo sa maitirišo
     .accesskey = s
@@ -189,10 +148,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Dipeakanyo…
-    .accesskey = e
 
 ## Home Section
 
@@ -320,16 +275,9 @@ forms-master-pw-fips-desc = Go fetolwa ga lentšuphetišo go paletšwe
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = Gopola histori
-history-remember-option-never =
-    .label = O se ke wa gopola histori
-history-remember-option-custom =
-    .label = Diriša dipeakanyo tša tlwaelo bakeng sa histori
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
-history-dontremember-description = { -brand-short-name } e tla diriša dipeakanyo tše swanago le tša go praosa ga praebete, gomme e ka se gopole histori le ge e le efe ge o dutše o praosa wepe.
 history-private-browsing-permanent =
     .label = Ka mehla diriša mokgwa wa go praosa wa praebete
     .accesskey = p
@@ -373,13 +321,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = Thibela mafasetere a runyago
-    .accesskey = T
-permissions-addon-exceptions =
-    .label = Tše sa akaretšwego…
-    .accesskey = T
-
 ## Privacy Section - Data Collection
 
 
@@ -394,7 +335,6 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
-certs-header = Ditifikeiti
 certs-devices-enable-fips = Kgontšha FIPS
 
 ## Privacy Section - HTTPS-Only
@@ -410,7 +350,6 @@ certs-devices-enable-fips = Kgontšha FIPS
 
 desktop-folder-name = Tesekethopo
 downloads-folder-name = Ditaollo
-choose-download-folder-title = Kgetha foltara ya go laolla:
 
 ## Appearance page
 
@@ -425,4 +364,6 @@ choose-download-folder-title = Kgetha foltara ya go laolla:
 
 
 ## Warnings section
+
+## Referrals Section
 

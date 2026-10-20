@@ -4,3 +4,6 @@
 
 customize-mode-undo-cmd =
     .label = Төннөр
+
+## Labels for the special items that can be added to toolbars in customize mode
+

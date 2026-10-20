@@ -31,9 +31,6 @@ places-by-day-and-site =
     .label = Кэминэн уонна ситим-сирдэринэн
     .accesskey = у
 
-places-delete-domain-data =
-    .label = Бу ситим-сири умнарга
-    .accesskey = Б
 places-sortby-name =
     .label = Аатынан наардаа
     .accesskey = r
@@ -46,10 +43,6 @@ places-organize-button =
     .tooltiptext = Кыбытык бэлиэлэри уларытыы
     .accesskey = Т
 
-places-organize-button-mac =
-    .label = Тэрийии
-    .tooltiptext = Кыбытык бэлиэлэри уларытыы
-
 places-file-close =
     .label = Сап
     .accesskey = С
@@ -61,10 +54,6 @@ places-view-button =
     .label = Көстүү
     .tooltiptext = Көстүүтүн уларытыы
     .accesskey = К
-
-places-view-button-mac =
-    .label = Көстүү
-    .tooltiptext = Көстүүтүн уларытыы
 
 places-view-menu-columns =
     .label = Колуонкалары көрдөр
@@ -90,10 +79,6 @@ places-maintenance-button =
     .label = Импорт уонна бэкап
     .tooltiptext = Кыбытык бэлиэлэри импортааһын уонна бэкап
     .accesskey = И
-
-places-maintenance-button-mac =
-    .label = Импорт уонна бэкап
-    .tooltiptext = Кыбытык бэлиэлэри импортааһын уонна бэкап
 
 places-cmd-backup =
     .label = Сөргүтэр копията оҥор…

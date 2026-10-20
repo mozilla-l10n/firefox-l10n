@@ -4,3 +4,6 @@
 
 alert-close =
     .tooltiptext = Tswalela tsebišo ye
+
+## Reminder Notifications
+

@@ -28,6 +28,9 @@ cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 
 cert-error-details-cert-chain-label = Certificate chain:
 
+## Variables:
+##   $hostname (string) - Hostname of the website with cert error.
+
 ## Messages used for certificate error titles
 
 connectionFailure-title = Unable to connect
@@ -49,6 +52,11 @@ proxyResolveFailure-title = Unable to find the proxy server
 redirectLoop-title = The page isn’t redirecting properly
 unknownSocketType-title = Unexpected response from server
 nssFailure2-title = Secure Connection Failed
-corruptedContentError-title = Corrupted Content Error
 sslv3Used-title = Unable to Connect Securely
 inadequateSecurityError-title = Your connection is not secure
+
+## Felt Privacy V1 Strings
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+

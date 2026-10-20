@@ -3,17 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pane-general-title = Okuvamile
-category-general =
-    .tooltiptext = { pane-general-title }
-category-search =
-    .tooltiptext = { pane-search-title }
-category-privacy =
-    .tooltiptext = { pane-privacy-title }
 settings-pane-labs-title2 = { -firefoxlabs-brand-name }
     .title = { -firefoxlabs-brand-name }
-settings-pane-labs-title = { -firefoxlabs-brand-name }
-settings-category-labs =
-    .tooltiptext = { -firefoxlabs-brand-name }
 focus-search =
     .key = f
 close-button =
@@ -41,11 +32,8 @@ should-restart-title = Qala kabusha i-{ -brand-short-name }
 
 ## General Section
 
-startup-header = Qala
-is-default = I-{ -brand-short-name } okwamanje isibukisi sakhona sakho
 tabs-group-header2 =
     .label = Amathebhu
-tabs-group-header = Amathebhu
 show-tabs-in-taskbar =
     .label = Bonisa ukubukwa ngaphambili kwamathebhu kubha yemisebenzi ye-Windows
     .accesskey = b
@@ -61,9 +49,6 @@ startup-group =
 
 ## General Section - Language & Appearance
 
-advanced-fonts =
-    .label = Okuthuthukile…
-    .accesskey = O
 choose-language-description = Khetha ulimi olithandayo lokuboniswa kwamakhasi
 choose-button =
     .label = Khetha…
@@ -78,20 +63,6 @@ download-save-files-header =
     .label = Gcina amafayela ku
 download-save-where-3 =
     .aria-label = Gcina amafayela ku
-download-header = Okulayishiwe kwangeniswa
-download-save-where = Gcina amafayela ku
-    .accesskey = i
-download-choose-folder =
-    .label =
-        { PLATFORM() ->
-            [macos] Khetha…
-           *[other] Hambisa amehlo…
-        }
-    .accesskey =
-        { PLATFORM() ->
-            [macos] a
-           *[other] m
-        }
 applications-type-column =
     .label = Isimo sokuqukethwe
     .accesskey = s
@@ -124,17 +95,11 @@ applications-always-ask =
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
-# Variables:
-#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
-applications-use-plugin-in =
-    .label = Sebenzisa i-{ $plugin-name } (ku-{ -brand-short-name })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
 
-applications-use-plugin-in-label =
-    .value = { applications-use-plugin-in.label }
 applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
@@ -147,10 +112,6 @@ applications-use-other-label =
     .value = { applications-use-other.label }
 
 ## Firefox updates
-
-update-application-use-service =
-    .label = Sebenzisa isevisi yasemuva ukufaka ukwaziswa kwamuva
-    .accesskey = y
 
 ## About Firefox
 
@@ -169,7 +130,6 @@ performance-allow-hw-accel =
 
 ## Accessibility page
 
-browsing-title = Ukudlulisa amehlo
 browsing-use-autoscroll =
     .label = Sebenzisa ukuzula okuzenzakalelayo
     .accesskey = o
@@ -186,10 +146,6 @@ browsing-group =
 
 
 ## General Section - Proxy
-
-network-proxy-connection-settings =
-    .label = Izilungiselelo…
-    .accesskey = z
 
 ## Home Section
 
@@ -317,16 +273,9 @@ forms-master-pw-fips-desc = Ukushintsha Igama Lokungena Kuhlulekile
 
 ## Privacy Section - History
 
-history-remember-option-all =
-    .label = Khumbula umlando
-history-remember-option-never =
-    .label = Kungalokothwa kukhunjulwe umlando
-history-remember-option-custom =
-    .label = Sebenzisa izimiso zokuzenzela uzisebenzisele umlando
 history-dontremember-description4 =
     .aria-label = { history-group.label }
     .description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
-history-dontremember-description = I-{ -brand-short-name } izosebenzisa izimiso ezifana nezokuphequlula okuyimfihlo, futhi angeke ikhumbule umlando njengoba udlulisa amehlo kwi-webhu.
 history-private-browsing-permanent =
     .label = Sebenzisa njalo indlela yangasese yokudlulisa amehlo
     .accesskey = n
@@ -370,13 +319,6 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Permissions
 
-permissions-block-popups =
-    .label = Vimbela amawindi azivelelayo
-    .accesskey = V
-permissions-addon-exceptions =
-    .label = Okuhlukile…
-    .accesskey = k
-
 ## Privacy Section - Data Collection
 
 
@@ -391,7 +333,6 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Certificates
 
-certs-header = Izitifiketi
 certs-devices-enable-fips = Yenza kusebenze i-FIPS
 
 ## Privacy Section - HTTPS-Only
@@ -407,7 +348,6 @@ certs-devices-enable-fips = Yenza kusebenze i-FIPS
 
 desktop-folder-name = Okukuskrini
 downloads-folder-name = Okwami Ukwaziswa Okuthathwe Kwafakwa
-choose-download-folder-title = Khetha Ifolda Ozothatha Ukwaziswa Ukufake Kuyo:
 
 ## Appearance page
 
@@ -422,4 +362,6 @@ choose-download-folder-title = Khetha Ifolda Ozothatha Ukwaziswa Ukufake Kuyo:
 
 
 ## Warnings section
+
+## Referrals Section
 

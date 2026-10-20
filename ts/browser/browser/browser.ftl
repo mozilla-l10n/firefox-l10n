@@ -21,6 +21,8 @@
 ##
 
 
+## URLbar context menu
+
 ## Searchbar context menu
 
 clear-search-history =
@@ -146,8 +148,8 @@ bookmarks-toolbar-placeholder-button =
 ## Repair text encoding toolbar button
 
 
-##
-
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -155,6 +157,8 @@ bookmarks-toolbar-placeholder-button =
 
 ## EME notification panel
 
+
+## Notification bars for media playback issues
 
 ## Password save/update panel
 
@@ -171,6 +175,9 @@ bookmarks-toolbar-placeholder-button =
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
 
 
 ##
@@ -194,6 +201,12 @@ tabs-toolbar-new-tab =
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 
@@ -214,6 +227,9 @@ tabs-toolbar-new-tab =
 
 ## Private browsing reset button
 
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
 
 ## Autorefresh blocker
 
