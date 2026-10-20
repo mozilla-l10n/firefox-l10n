@@ -252,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = ਚੇਪੋ ਅਤੇ ਖੋਲ੍ਹੋ
     .accesskey = G
+urlbar-menuitem-paste-and-search =
+    .label = ਚੇਪੋ ਅਤੇ ਖੋਜੋ
+    .accesskey = S
 
 ## Searchbar context menu
 

@@ -123,6 +123,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ਖ਼ਾ�
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = 30 ਜਨਵਰੀ ਤੱਕ ਬੇਅੰਤ VPN ਲਵੋ
 ipprotection-holiday-promo-primary-button = VPN ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-holiday-promo-secondary-button = ਖ਼ਾਰਜ ਕਰੋ
 
