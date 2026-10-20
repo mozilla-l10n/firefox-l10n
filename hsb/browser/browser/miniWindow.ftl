@@ -8,8 +8,8 @@ mini-window-close-button =
 # Moves the tab in the mini window back to the original window
 # it came from.
 mini-window-restore-button =
-    .label = Rajtark wróćić
-    .tooltiptext = Rajtark wróćić
+    .label = Rajtark wróćo přesunyć
+    .tooltiptext = Rajtark wróćo přesunyć
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
