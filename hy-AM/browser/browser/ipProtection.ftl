@@ -26,6 +26,7 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Ներկայացնում ենք VPN-ը, այժմ՝ անմիջապես ձեր դիտարկիչում
 ipprotection-feature-introduction-title-1 = Փորձեք { -brand-product-name }-ի ներկառուցված VPN-ը
 ipprotection-feature-introduction-title-privacy = Ավելացրեք գաղտնիության ևս մեկ շերտ
+ipprotection-feature-introduction-title-privacy-1 = Ավելացրեք գաղտնիության ևս մեկ շերտ՝ ներկառուցված VPN-ի միջոցով
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
 ipprotection-feature-introduction-title-summer-promo = Ունե՞ք ճանապարհորդության ծրագրեր։ Վերցրեք ձեզ հետ գաղտնիությունը։
@@ -100,11 +101,17 @@ ipprotection-android-promo-callout-primary-button = Հասկացա
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
+# Here 'browse on' means continue browsing
+ipprotection-site-inclusions-callout-title-existing-users = Սահմանեք ներկառուցված VPN կանոններ, այնուհետև շարունակեք զննարկումը
+ipprotection-site-inclusions-callout-title-lapsed-users = Փորձեք ներկառուցված VPN-ը, այժմ՝ կայք առ կայք
+ipprotection-site-inclusions-callout-description-1 = Միացրեք VPN-ը, երբ ցանկանում եք լրացուցիչ գաղտնիություն կամ գտնվելու վայրի վրա հիմնված զննարկում, և անջատեք, երբ չեք ցանկանում։
+ipprotection-site-inclusions-callout-primary-button = Սահմանել կանոններ
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ոչ հիմա
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Բաց թողնել
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Ստացեք անսահմանափակ VPN մինչև հունվարի 30-ը
 ipprotection-holiday-promo-primary-button = Բացել VPN-ը
 ipprotection-holiday-promo-secondary-button = Բաց թողնել
 
@@ -133,6 +140,12 @@ site-rules-status-heading = Ձեր կանոնը
 site-rules-description-exclusion = VPN-ն անջատված է այս կայքի համար
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN-ը միացված է այս կայքի համար
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Միշտ միացնե՞լ VPN-ը { $website }-ի համար։
+    .message = Թարմացրեք ձեր կանոնները ցանկացած պահի կարգավորումներում։
 ipprotection-settings-link =
     .label = Կարգավորումներ
 
@@ -143,6 +156,8 @@ ipprotection-button-turn-vpn-off = Անջատել VPN-ը
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Անջատեք VPN-ը ամենուրեք
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Միացնել
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Միացնել VPN-ը
 # Button while VPN is connecting
@@ -155,6 +170,8 @@ ipprotection-connection-status-excluded-1 = VPN-ն անջատված է այս կ
     .aria-label = VPN-ն անջատված է այս կայքի համար
 ipprotection-connection-status-connecting-1 = VPN-ը կապակցվում է…
     .aria-label = VPN-ը կապակցվում է…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Անջատել
 
 ## Location controls
 
@@ -257,6 +274,11 @@ ip-protection-learn-more = Իմանալ ավելին
 ip-protection-not-opted-in-4 =
     .heading = Փորձեք { -brand-short-name }-ի ներկառուցված VPN-ը
     .message = Զննեք լրացուցիչ պաշտպանությամբ՝ թաքցնելով ձեր գտնվելու վայրը։
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Պատրա՞ստ եք փորձել այն։
+    .message = Ստացեք { $maxUsage } ԳԲ անվճար ամեն ամիս և ընտրեք, թե որ կայքերն են օգտագործում VPN:
 ip-protection-not-opted-in-button = Սկսել
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -267,6 +289,33 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } կայքեր
         }
     .label = Կառավարել կայքի կարգավորումները
+ip-protection-site-rules-header-1 =
+    .heading = Կառավարել VPN կանոնները
+ip-protection-site-rules-button-1 =
+    .description = Սահմանեք կանոններ այն կայքերի համար, որոնք պահանջում են լրացուցիչ գաղտնիություն կամ VPN-ն անջատված է։
+    .label = Կառավարել VPN կանոնները
+ip-protection-site-rules-list-section-1 =
+    .description = Սահմանեք կանոններ՝ VPN-ը ավտոմատ կերպով միացնելու կամ անջատելու համար։
+    .label = Կայքի կանոններ
+ip-protection-site-rules-add-button =
+    .label = Սահմանել կանոններ
+ip-protection-site-rules-delete-all-button =
+    .label = Ջնջել բոլոր կանոնները
+ip-protection-site-rules-empty = Ձեր սահմանած կանոնները կհայտնվեն այստեղ։
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN-ը միշտ միացված է
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN-ը միշտ անջատված է
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Խմբագրել { $website } կանոնը
+    .title = Խմբագրել
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Ջնջել { $website } կանոնը
+    .title = Ջնջել
 ip-protection-site-rules-header =
     .heading = Կառավարեք կայքի կանոնները
 ip-protection-site-rules-button =
@@ -290,6 +339,10 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Կառավարել կայքի կարգավորումները
 ip-protection-exclusions-desc = Օգտագործեք VPN բոլոր կայքերի համար, բացառությամբ այս ցանկում նշվածների: Ավելացրեք կայք այստեղ կամ VPN-ը բացելով:
+ip-protection-site-rule-window =
+    .title = Սահմանել կանոններ
+ip-protection-edit-site-rule-window =
+    .title = Խմբագրել կանոնը
 
 ## IP Protection Bandwidth
 

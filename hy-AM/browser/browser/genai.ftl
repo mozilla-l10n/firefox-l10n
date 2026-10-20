@@ -182,15 +182,29 @@ link-preview-settings-enable =
     .label = Միացնել հղումների նախադիտումները
 link-preview-settings-long-press =
     .label = Դյուրանցում. Սեղմեք և պահեք հղումը 1 վայրկյան (երկար սեղմեք)
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Որոնում
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Տեսնու՞մ եք ավելին ԱԲ միջոցով։
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Նոր. Սեղմեք և պահեք ցանկացած հղում՝ նախադիտելու համար
 # Header for the key points section
 link-preview-key-points-header = Հիմնական կետեր
+# Disclaimer for AI-generated key points
+link-preview-key-points-disclaimer = Հիմնական կետերը ստեղծված են արհեստական բանականության կողմից և կարող են սխալներ պարունակել։
+# Progress message for the first-time setup
+# $progress (number) - The percentage value 1-100 indicating the progress of the setup.
+link-preview-setup = Առաջին անգամ տեղադրում • <strong>{ $progress }%</strong>
+# Message indicating faster performance after initial setup
+link-preview-setup-faster-next-time = Հաջորդ անգամ դուք ավելի արագ կտեսնեք հիմնական կետերը։
 # Onboarding card See a preview button
 link-preview-onboarding-button = Դիտել նախադիտումը
 # Onboarding card Close button
 link-preview-onboarding-close = Փակել
 # Title for the first-time setup modal
 link-preview-first-time-setup-title = Առաջին անգամ տեղադրում
+# Message for the first-time setup modal
+link-preview-first-time-setup-message = Սա կարող է մի փոքր ժամանակ պահանջել։ Հաջորդ անգամ դուք ավելի արագ կտեսնեք հիմնական կետերը։

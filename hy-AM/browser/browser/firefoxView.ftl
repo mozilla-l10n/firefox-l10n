@@ -203,6 +203,7 @@ firefoxview-choose-browser-button = Ընտրեք դիտարկիչը
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header-2 = Դուք եք վերահսկում, թե ինչ է հիշում { -brand-short-name }-ը
 # “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
 firefoxview-dont-remember-history-empty-header-3 = Դուք գրառումից դուրս եք
 
