@@ -11,6 +11,7 @@ about-translations-learn-more-link = Læs mere
 about-translations-unsupported-info-message-2 =
     .heading = Oversættelse er ikke tilgængelig på denne enhed
     .message = Prøv at skifte til en anden enhed.
+about-translations-feature-blocked-unblock-button = Fjern blokering
 # An error message displayed when the language list fails to load.
 about-translations-language-load-error-message-2 =
     .heading = Kunne ikke indlæse sprog

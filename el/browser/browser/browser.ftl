@@ -252,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Επικόλληση και μετάβαση
     .accesskey = Ε
+urlbar-menuitem-paste-and-search =
+    .label = Επικόλληση και αναζήτηση
+    .accesskey = α
 
 ## Searchbar context menu
 

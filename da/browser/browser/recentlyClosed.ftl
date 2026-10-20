@@ -16,3 +16,16 @@ recently-closed-menu-reopen-all-windows = Genåbn alle vinduer
 
 recently-closed-panel-reopen-all-tabs = Åbn alle faneblade igen
 recently-closed-panel-reopen-all-windows = Åbn alle vinduer igen
+
+##
+
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } faneblad, lukket { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[other] { $winTitle } ({ $tabCount } faneblade, lukket { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }

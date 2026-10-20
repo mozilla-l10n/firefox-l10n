@@ -1367,6 +1367,7 @@ fire-button-panel-cancel-button =
 fire-button-panel-confirm-button =
     .label = Slet alt
     .accesskey = S
+fire-button-panel-complete = Browsing-data slettet
 
 ## Autorefresh blocker
 

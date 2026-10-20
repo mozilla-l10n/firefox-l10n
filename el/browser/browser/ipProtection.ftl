@@ -123,6 +123,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Απόρρ�
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Απεριόριστο VPN έως τις 30 Ιανουαρίου
 ipprotection-holiday-promo-primary-button = Άνοιγμα VPN
 ipprotection-holiday-promo-secondary-button = Απόρριψη
 
@@ -168,6 +169,8 @@ ipprotection-button-turn-vpn-off = Απενεργοποίηση VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Απενεργοποίηση VPN παντού
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Ενεργοποίηση
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Ενεργοποίηση VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Ενεργοποίηση…
@@ -179,6 +182,8 @@ ipprotection-connection-status-excluded-1 = Το VPN είναι ανενεργό
     .aria-label = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
 ipprotection-connection-status-connecting-1 = Το VPN συνδέεται…
     .aria-label = Το VPN συνδέεται…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Απενεργοποίηση
 
 ## Location controls
 
