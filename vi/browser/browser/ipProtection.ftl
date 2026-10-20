@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Giới thiệu VPN, giờ đây đã c
 ipprotection-feature-introduction-title-1 = Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu.
 ipprotection-feature-introduction-title-privacy = Thêm một lớp bảo mật nữa
+ipprotection-feature-introduction-title-privacy-1 = Tăng cường thêm lớp bảo mật với VPN tích hợp sẵn
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ nhiều địa điểm khác nhau để giữ cho nơi bạn duyệt web được riêng tư hơn.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">VPN tích hợp sẵn của { -brand-product-name }</a> giúp bảo vệ hoạt động duyệt web của bạn. Chọn từ nhiều địa điểm để giữ cho nơi bạn duyệt web được riêng tư hơn.
 ipprotection-feature-introduction-link-text-privacy-3 = Nhận <a data-l10n-name="learn-more-vpn">tăng cường quyền riêng tư</a> bằng cách chọn một trong nhiều địa điểm để ẩn nơi bạn duyệt web.
@@ -37,6 +38,8 @@ ipprotection-feature-introduction-title-summer-promo = Bạn có kế hoạch du
 ipprotection-feature-introduction-description-summer-promo = Mở rộng phạm vi phủ sóng với VPN tích hợp sẵn của { -brand-product-name }: nhiều địa điểm hơn, băng thông không giới hạn. Áp dụng từ nay đến hết ngày 31 tháng 8.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Sử dụng <a data-l10n-name="learn-more-vpn">VPN mới được tích hợp sẵn</a> của chúng tôi để che giấu vị trí của bạn và bảo vệ dữ liệu, ngay cả khi bạn đang ở trong cửa sổ riêng tư.
 ipprotection-feature-introduction-description-private-browsing = Duyệt web với tính năng bảo mật cao hơn bằng cách ẩn vị trí của bạn, ngay cả khi bạn đang ở chế độ riêng tư.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Giúp ẩn vị trí của bạn khi duyệt web. Thiết lập quy tắc để bật VPN khi cần <a data-l10n-name="learn-more-vpn">bảo mật hơn</a> hoặc duyệt web dựa trên vị trí, và tắt ở những nơi bạn không cần.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Giúp ẩn vị trí của bạn để có thêm <a data-l10n-name="learn-more-vpn">quyền riêng tư</a> khi duyệt web. Thiết lập các quy tắc để bật VPN khi cần thêm quyền riêng tư hoặc duyệt web dựa trên vị trí, và tắt ở những nơi bạn không cần.
 ipprotection-feature-introduction-title-captive-portal = Dùng Wi-Fi công cộng? Hãy thử VPN được tích hợp sẵn của { -brand-product-name }
@@ -114,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Đã hiểu
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Thiết lập các quy tắc VPN tích hợp sẵn, sau đó duyệt web
 ipprotection-site-inclusions-callout-title-lapsed-users = Thử VPN tích hợp, giờ đây theo từng trang web
+ipprotection-site-inclusions-callout-description-1 = Bật VPN khi bạn muốn có thêm sự riêng tư hoặc duyệt web dựa trên vị trí, và tắt nó khi không cần thiết.
 ipprotection-site-inclusions-callout-description = Bật tính năng này khi bạn muốn có thêm sự riêng tư hoặc duyệt web dựa trên vị trí, và tắt nó khi bạn không cần.
 ipprotection-site-inclusions-callout-primary-button = Thiết lập quy tắc
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Để sau
@@ -121,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Bỏ qua
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Nhận VPN không giới hạn đến hết ngày 30 tháng 1
+ipprotection-holiday-promo-description = Giúp việc duyệt web của bạn riêng tư hơn và khó bị theo dõi hơn với VPN tích hợp sẵn.
 ipprotection-holiday-promo-primary-button = Mở VPN
 ipprotection-holiday-promo-secondary-button = Bỏ qua
 
@@ -149,6 +155,12 @@ site-rules-status-heading = Quy tắc của bạn
 site-rules-description-exclusion = Đã tắt VPN cho trang web này
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = Đã bật VPN cho trang web này
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Luôn bật VPN cho { $website }?
+    .message = Cập nhật quy tắc của bạn bất cứ lúc nào trong phần cài đặt.
 ipprotection-settings-link =
     .label = Cài đặt
 
@@ -159,6 +171,8 @@ ipprotection-button-turn-vpn-off = Tắt VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Tắt VPN ở mọi nơi
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Bật
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Bật VPN
 # Button while VPN is connecting
@@ -171,6 +185,8 @@ ipprotection-connection-status-excluded-1 = Đã tắt VPN cho trang web này
     .aria-label = Đã tắt VPN cho trang web này
 ipprotection-connection-status-connecting-1 = VPN đang kết nối…
     .aria-label = VPN đang kết nối…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Tắt
 
 ## Location controls
 
@@ -273,6 +289,11 @@ ip-protection-learn-more = Tìm hiểu thêm
 ip-protection-not-opted-in-4 =
     .heading = Hãy thử VPN tích hợp sẵn của { -brand-short-name }
     .message = Duyệt web an toàn hơn nhờ tính năng ẩn vị trí của bạn.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Sẵn sàng thử nó?
+    .message = Nhận { $maxUsage } GB miễn phí mỗi tháng và chọn những trang web nào sử dụng VPN.
 ip-protection-not-opted-in-button = Bắt đầu
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -284,6 +305,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Đặt quy tắc cho các trang web cần bảo mật cao hơn hoặc tắt VPN.
     .label = Quản lý quy tắc VPN
+ip-protection-site-rules-list-section-1 =
+    .description = Thiết lập các quy tắc để bật hoặc tắt VPN tự động.
+    .label = Quy tắc trang web
 ip-protection-site-rules-add-button =
     .label = Thiết lập quy tắc
 ip-protection-site-rules-delete-all-button =
@@ -366,6 +390,12 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Xoá quy tắc cho tất cả trang web?
 ip-protection-delete-all-site-rules-confirm =
     .label = Xoá tất cả quy tắc
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Không thể xoá quy tắc
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Không thể xoá các quy tắc
+ip-protection-delete-site-rule-retry =
+    .label = Thử lại
 
 ## IP Protection Bandwidth
 

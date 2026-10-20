@@ -248,6 +248,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Dán & mở đường dẫn
     .accesskey = G
+urlbar-menuitem-paste-and-search =
+    .label = Dán và tìm kiếm
+    .accesskey = S
 
 ## Searchbar context menu
 
@@ -1378,6 +1381,27 @@ reset-pbm-panel-complete = Đã xóa dữ liệu phiên riêng tư
 reset-pbm-toolbar-button2 =
     .label = Xoá phiên riêng tư
     .tooltiptext = Xoá phiên riêng tư
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Xóa một phần hoặc toàn bộ dữ liệu duyệt web của bạn
+    .tooltiptext = Xóa một phần hoặc toàn bộ dữ liệu duyệt web của bạn
+fire-button-panel-heading = Xoá toàn bộ dữ liệu duyệt web?
+fire-button-panel-description = Thao tác này sẽ xóa lịch sử, cookie và dữ liệu trang web. Bạn sẽ bị đăng xuất khỏi trang web. Cửa sổ này sẽ đóng lại và { -brand-short-name } sẽ mở một cửa sổ mới.
+fire-button-panel-choose-description = Nếu bạn không muốn xóa toàn bộ, hãy chọn xóa dữ liệu cụ thể.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Chọn…
+fire-button-panel-cancel-button =
+    .label = Huỷ bỏ
+    .accesskey = H
+fire-button-panel-confirm-button =
+    .label = Xoá tất cả
+    .accesskey = D
+fire-button-panel-complete = Đã xoá dữ liệu duyệt web
 
 ## Autorefresh blocker
 
