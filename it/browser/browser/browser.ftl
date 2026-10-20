@@ -1280,6 +1280,15 @@ decoder-doctor-learn-how-link = Scopri come
 decoder-doctor-report-issue-button =
     .label = Segnala il problema con questo sito
     .accesskey = S
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Si è verificato un arresto anomalo del plugin { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Ricarica la pagina
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Invia segnalazione dell’arresto anomalo
+    .accesskey = n
 
 ## Password save/update panel
 
