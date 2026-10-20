@@ -8,6 +8,15 @@
 main-context-menu-open-link-new-smart-window =
     .label = Åbn link i nyt { -smart-window-brand-name }
     .accesskey = S
+appmenuitem-new-ai-window =
+    .label = Nyt { -smart-window-brand-name }
+    .value = Nyt { -smart-window-brand-name }
+appmenuitem-new-classic-window =
+    .label = Nyt klassisk vindue
+menu-file-new-ai-window =
+    .label = Nyt { -smart-window-brand-name }
+menu-file-new-classic-window =
+    .label = Nyt klassisk vindue
 menu-history-chats =
     .label = Chats
 menu-history-chats-recent =

@@ -39,4 +39,19 @@ content-sharing-modal-too-many-links-2 =
         [one] Kun { $count } link vil blive inkluderet
        *[other] Kun { $count } links vil blive inkluderet
     }
+content-sharing-modal-no-shareable-links =
+    .heading = Ingen delbare links inkluderet
+    .message = Kun links til webindhold kan deles.
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Du har delt { $count } side
+           *[other] Du har delt { $count } sider
+        }
+    .message = Prøv igen, når en af dine sider udløber.
 content-sharing-modal-some-invalid-links = Nogle links kan ikke deles.
+content-sharing-modal-generic-error-2 =
+    .heading = Noget gik galt
+    .message = Vi kunne ikke oprette din delte side denne gang. Prøv igen senere.

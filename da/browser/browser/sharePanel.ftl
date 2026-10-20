@@ -5,6 +5,13 @@
 
 ## The share panel, opened from the share button in the address bar.
 
+# Address bar button that opens the share panel.
+urlbar-share-button =
+    .aria-label = Del denne side
+    .tooltiptext = Del denne side
+share-panel-heading = Del side
+share-panel-copy-link =
+    .label = Kopier link
 # Confirmation hint shown near the share button after the user copies the
 # current page URL from the share panel.
 confirmation-hint-link-copied = Link kopieret
@@ -17,8 +24,22 @@ share-panel-os-share-2 =
             [macos] Del med Mac…
            *[other] Del med…
         }
+share-panel-mail =
+    .label = Send mail
+share-panel-screenshot =
+    .label = Tag et skærmbillede
 share-panel-qr-code-2 =
     .label = Opret QR-kode
+# This string is shown when the user has more than 1 device signed in to their account.
+# Clicking this will bring them to a subview where all of their devices are listed.
+share-panel-send-to-device =
+    .label = Send til enhed
+# This string is shown when the user has no other devices signed in to their account.
+# Clicking this will bring them to a place where they can connect other devices.
+share-panel-send-to-mobile =
+    .label = Send til mobil
+share-panel-device-subview =
+    .title = Alle enheder
 # Shown below the device list in the share panel's device subview. Clicking it
 # opens the flow to connect another device to the user's account.
 share-panel-connect-device-2 =

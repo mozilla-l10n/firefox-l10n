@@ -5,3 +5,9 @@
 moz-box-link-anchor =
     .title = Åbner i et nyt faneblad
 moz-box-link-opens-in-new-tab = Åbner i et nyt faneblad
+moz-box-item-reorder-handle =
+    .aria-label = Omarranger elementet ved hjælp af Ctrl+Shift+Pil op eller Ctrl+Shift+Pil ned
+# Variables:
+#   $item (string) - The label of the moz-box-item being reordered.
+moz-box-item-reorder-handle-named =
+    .aria-label = Omarranger { $item } ved hjælp af Ctrl+Shift+Pil op eller Ctrl+Shift+Pil ned

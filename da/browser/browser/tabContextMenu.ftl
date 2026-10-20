@@ -137,6 +137,13 @@ tab-context-close-n-tabs =
            *[other] Luk { $tabCount } faneblade
         }
     .accesskey = L
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Luk
+           *[other] Luk { $tabCount } faneblade
+        }
+    .accesskey = L
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -144,6 +151,18 @@ tab-context-move-tabs =
             [one] Flyt et faneblad
            *[other] Flyt faneblade
         }
+    .accesskey = y
+# Context menu option, highlighting this shows a submenu of potential destinations to move one or more tabs to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] Flyt faneblad til
+           *[other] Flyt { $tabCount } faneblade til
+        }
+    .accesskey = F
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Flyt opdelt visning til
     .accesskey = y
 # The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
 tab-context-send-to-device =
@@ -153,6 +172,18 @@ tab-context-send-to-device =
            *[other] Send { $tabCount } faneblade til enhed
         }
     .accesskey = d
+# The following string intentionally omits the word "Tab" from the singular and includes it in the plural.
+tab-context-send-to-mobile =
+    .label =
+        { $tabCount ->
+            [1] Send til mobil
+           *[other] Send { $tabCount } faneblade til mobil
+        }
+    .accesskey = n
+# Verb: share a collection of selected tabs as a link
+tab-context-share-selected-tabs =
+    .label = Opret et delbart link
+    .accesskey = O
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->
@@ -160,4 +191,8 @@ tab-context-unload-n-tabs =
             [one] Nedluk faneblad
            *[other] Nedluk { $tabCount } faneblade
         }
+    .accesskey = N
+# Context menu option, alternate label for unloading the content of 1 or more tabs to reduce memory usage
+tab-context-unload-tabs =
+    .label = Nedluk
     .accesskey = N
