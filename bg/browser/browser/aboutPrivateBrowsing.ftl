@@ -67,6 +67,7 @@ about-private-browsing-felt-privacy-v1-info-link = Кой би могъл да �
 
 ## Strings for the Nova redesign of about:privatebrowsing
 
+about-private-browsing-nova-info-body = Затварянето на всички ваши поверителни прозорци изтрива бисквитките, историята и данните от страниците.
 about-private-browsing-nova-info-link = Кой все още може да вижда моята активност?
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
