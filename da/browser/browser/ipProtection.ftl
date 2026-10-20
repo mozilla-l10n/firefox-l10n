@@ -78,6 +78,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Afvis
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Få ubegrænset VPN indtil 30. januar
+ipprotection-holiday-promo-primary-button = Åben VPN
 ipprotection-holiday-promo-secondary-button = Afvis
 
 ## Panel
@@ -115,6 +117,8 @@ ipprotection-button-turn-vpn-off = Slå VPN fra
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Slå VPN fra overalt
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Slå til
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Slå VPN til
 # Button while VPN is connecting
 ipprotection-button-connecting = Aktiverer…
@@ -126,6 +130,8 @@ ipprotection-connection-status-excluded-1 = VPN er slået fra for dette websted
     .aria-label = VPN er slået fra for dette websted
 ipprotection-connection-status-connecting-1 = VPN opretter forbindelse…
     .aria-label = VPN opretter forbindelse…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Slå fra
 
 ## Location controls
 
@@ -234,8 +240,35 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } websteder
         }
     .label = Håndter indstillinger for websteder
+ip-protection-site-rules-header-1 =
+    .heading = Håndter VPN-regler
+ip-protection-site-rules-button-1 =
+    .description = Angiv regler for websteder, der kræver ekstra beskyttelse af privatliv eller VPN slået fra.
+    .label = Håndter VPN-regler
+ip-protection-site-rules-add-button =
+    .label = Angiv regel
+ip-protection-site-rules-delete-all-button =
+    .label = Slet alle regler
+ip-protection-site-rules-empty = Regler, du angiver, vil blive vist her.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN altid slået til
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN altid slået fra
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = Rediger reglen for { $website }
+    .title = Rediger
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = Slet reglen for { $website }
+    .title = Slet
 ip-protection-site-rules-header =
     .heading = Håndter regler for websteder
+ip-protection-site-rules-button =
+    .description = Angiv regler for websteder, der kræver ekstra beskyttelse af privatliv eller VPN slået fra.
+    .label = Håndter regler for websteder
 ip-protection-autostart =
     .label = Slå VPN til automatisk
 ip-protection-autostart-checkbox =
@@ -254,10 +287,52 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = Håndter indstillinger for websteder
 ip-protection-exclusions-desc = Brug VPN på alle websteder, undtagen dem på denne liste. Tilføj et websted her eller ved at åbne VPN.
+ip-protection-site-rule-window =
+    .title = Angiv regel
+ip-protection-edit-site-rule-window =
+    .title = Rediger regel
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Angiv
+    .buttonaccesskeyaccept = A
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Gem
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Indtast et websted, og vælg derefter dets VPN-status.
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Websted
+    .placeholder = fx.: eksempel.dk
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN-status
+ip-protection-site-rule-status-on =
+    .label = Altid slået til
+ip-protection-site-rule-status-off =
+    .label = Altid slået fra
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Indtast en gyldig websteds-adresse.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Dette websted har allerede en regel.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Fejl ved oprettelse af regel. Prøv igen.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Slet regel for { $website }?
 ip-protection-delete-site-rule-cancel =
     .label = Annuller
 ip-protection-delete-site-rule-confirm =
     .label = Slet
+ip-protection-delete-all-site-rules-message = Slet alle regler for websteder?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Slet alle regler
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Kunne ikke slette regel
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Kunne ikke slette regler
+ip-protection-delete-site-rule-retry =
+    .label = Prøv igen
 
 ## IP Protection Bandwidth
 

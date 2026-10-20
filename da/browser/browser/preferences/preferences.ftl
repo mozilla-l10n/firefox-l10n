@@ -1399,6 +1399,13 @@ payment-moz-box-item =
 payment-moz-box-item-with-security-code =
     .description = { $expDate } | CVV gemt
     .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code for a card that has a
+# saved security code but no expiry date to show alongside it.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+payment-moz-box-item-security-code-only =
+    .description = CVV gemt
+    .label = { $cardNumber }
 addresses-group =
     .label = Adresser med mere
 payments-group =
@@ -1679,6 +1686,10 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Vælg hvilke websteder, som kan installere udvidelser
     .accesskey = u
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Håndter blokerede websteder
+    .accesskey = w
 permissions-location2 =
     .label = Position
 permissions-localhost2 =
@@ -1744,6 +1755,10 @@ data-collection-run-studies =
     .label = Tillad at { -brand-short-name } afvikler funktions-undersøgelser
 data-collection-studies-link =
     .label = Vis { -brand-short-name }-undersøgelser
+data-collection-backlogged-crash-reports =
+    .description = Dette hjælper { -vendor-short-name } med at diagnosticere og løse problemer med browseren. Rapporter kan indeholde personlige eller følsomme data.
+    .label = Send automatisk fejlrapporter
+    .accesskey = S
 data-collection-usage-ping =
     .description = Dette hjælper { -vendor-short-name } med at vurdere antallet af aktive brugere.
     .label = Send ping for dagligt brug til { -vendor-short-name }
@@ -2005,6 +2020,8 @@ security-privacy-status-update-error-label = { -brand-short-name } har problemer
 security-privacy-status-update-checking-label = { -brand-short-name } søger efter opdateringer
 security-privacy-status-update-button-label =
     .label = Opdater { -brand-short-name }
+security-privacy-image-ok =
+    .alt = Et skjold med et flueben, der viser, at du ikke har nogen udestående sikkerhedsproblemer
 security-privacy-issue-card =
     .heading = Sikkerhedsadvarsler
 issue-card-reset-button =
