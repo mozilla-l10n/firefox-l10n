@@ -170,6 +170,7 @@ permissions-site-xr-disable-desc = Isso impede que qualquer site solicite nova p
 permissions-site-app-links-window =
     .style = { permissions-window2.style }
     .title = Configurações - Sites bloqueados para links de aplicativos
+permissions-site-app-links-desc = Esses sites estão impedidos de pedir para abrir links de aplicativos, como email (mailto:). Remova um site para permitir que volte a pedir.
 
 ## Site Permissions - Camera
 

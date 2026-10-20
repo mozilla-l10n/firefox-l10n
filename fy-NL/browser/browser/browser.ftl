@@ -253,6 +253,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Plakke & iepenje
     .accesskey = P
+urlbar-menuitem-paste-and-search =
+    .label = Plakke en sykje
+    .accesskey = P
 
 ## Searchbar context menu
 

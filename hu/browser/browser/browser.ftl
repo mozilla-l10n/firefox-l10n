@@ -1427,6 +1427,20 @@ reset-pbm-toolbar-button2 =
 fire-button-toolbar-button =
     .label = Böngészési adatok részleges vagy teljes törlése
     .tooltiptext = Böngészési adatok részleges vagy teljes törlése
+fire-button-panel-heading = Törli az összes böngészési adatot?
+fire-button-panel-description = Ez törli az előzményeket, sütiket és oldaladatokat. Ki lesz jelentkeztetve a webhelyeken. Ez az ablak bezárul, és a { -brand-short-name } egy újat nyit.
+fire-button-panel-choose-description = Ha nem szeretne mindent törölni, akkor válasszon konkrét adatokat.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Válasszon…
+fire-button-panel-cancel-button =
+    .label = Mégse
+    .accesskey = M
+fire-button-panel-confirm-button =
+    .label = Összes törlése
+    .accesskey = e
+fire-button-panel-complete = Böngészési adatok törölve
 
 ## Autorefresh blocker
 
