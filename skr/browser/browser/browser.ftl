@@ -253,6 +253,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = چسپاں کرو تے ونڄو
     .accesskey = G
+urlbar-menuitem-paste-and-search =
+    .label = پیسٹ کرو تے ڳولو
+    .accesskey = S
 
 ## Searchbar context menu
 

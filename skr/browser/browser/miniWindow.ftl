@@ -37,3 +37,8 @@ screenshots-component-mini-window-cancel-button = منسوخ
 toolbar-button-mini-window =
     .label = منی ونڈو
     .tooltiptext = منی ونڈو ورتو
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+mini-window-panel-move-full-tab = پوری ٹیب ٹورو
