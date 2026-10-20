@@ -168,6 +168,8 @@ ipprotection-button-turn-vpn-off = VPN بند کرو
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN ہر جاہ بند کرو
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = چالو کرو
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN آن کرو
 # Button while VPN is connecting
 ipprotection-button-connecting = آن کریندی پئی…
@@ -179,6 +181,8 @@ ipprotection-connection-status-excluded-1 = این سائٹ کیتے VPN بند 
     .aria-label = این سائٹ کیتے VPN بند اے۔
 ipprotection-connection-status-connecting-1 = VPN جُڑ رہیا اے…
     .aria-label = VPN جُڑ رہیا اے…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = بند کرو
 
 ## Location controls
 
