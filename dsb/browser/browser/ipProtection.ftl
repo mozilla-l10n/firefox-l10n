@@ -123,6 +123,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zachyśiś
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Dostańśo njewobgranicowany VPN až do 30. januara
 ipprotection-holiday-promo-primary-button = VPN wócyniś
 ipprotection-holiday-promo-secondary-button = Zachyśiś
 
@@ -168,6 +169,8 @@ ipprotection-button-turn-vpn-off = VPN znjemóžniś
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN wšuźi znjemóžniś
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Zmóžniś
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN zmóžniś
 # Button while VPN is connecting
 ipprotection-button-connecting = Zmóžnja se…
@@ -179,6 +182,8 @@ ipprotection-connection-status-excluded-1 = VPN jo za toś to sedło znjemóžnj
     .aria-label = VPN jo za toś to sedło znjemóžnjony
 ipprotection-connection-status-connecting-1 = VPN se zwězujo…
     .aria-label = VPN se zwězujo…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Znjemóžniś
 
 ## Location controls
 
