@@ -117,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Begrepen
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Stel ingebouwde VPN-regels in en navigeer vervolgens verder
 ipprotection-site-inclusions-callout-title-lapsed-users = Probeer de ingebouwde VPN, nu per website
+ipprotection-site-inclusions-callout-description-1 = Zet VPN aan wanneer u extra privacy of locatiegebaseerd navigeren wilt, en uit waar dat niet nodig is.
 ipprotection-site-inclusions-callout-description = Zet de VPN aan wanneer u extra privacy of locatiegebaseerd navigeren wilt, en uit waar dat niet nodig is.
 ipprotection-site-inclusions-callout-primary-button = Regels instellen
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Niet nu
@@ -124,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Sluiten
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Ontvang tot 30 januari onbeperkte VPN
+ipprotection-holiday-promo-description = Maak uw navigatie privé en moeilijker te volgen met ingebouwde VPN.
 ipprotection-holiday-promo-primary-button = VPN openen
 ipprotection-holiday-promo-secondary-button = Sluiten
 
@@ -152,6 +155,12 @@ site-rules-status-heading = Uw regel
 site-rules-description-exclusion = VPN is uit voor deze website
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN is aan voor deze website
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = VPN voor { $website } altijd inschakelen?
+    .message = Werk uw regels bij in de instellingen.
 ipprotection-settings-link =
     .label = Instellingen
 
@@ -162,6 +171,8 @@ ipprotection-button-turn-vpn-off = VPN uitschakelen
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN overal uitschakelen
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Inschakelen
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN inschakelen
 # Button while VPN is connecting
@@ -174,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPN is uit voor deze website
     .aria-label = VPN is uit voor deze website
 ipprotection-connection-status-connecting-1 = VPN maakt verbinding…
     .aria-label = VPN maakt verbinding…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Uitschakelen
 
 ## Location controls
 
@@ -276,6 +289,11 @@ ip-protection-learn-more = Meer info
 ip-protection-not-opted-in-4 =
     .heading = Probeer de ingebouwde VPN van { -brand-short-name }
     .message = Surf met extra bescherming door uw locatie te verbergen.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Klaar om het te proberen?
+    .message = Ontvang elke maand { $maxUsage } GB gratis en kies welke websites VPN gebruiken.
 ip-protection-not-opted-in-button = Beginnen
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -291,6 +309,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Regels instellen voor websites die extra privacy nodig hebben of waarvoor de VPN uit moet zijn.
     .label = VPN-regels beheren
+ip-protection-site-rules-list-section-1 =
+    .description = Stel regels in om VPN automatisch in of uit te schakelen.
+    .label = Websiteregels
 ip-protection-site-rules-add-button =
     .label = Regel instellen
 ip-protection-site-rules-delete-all-button =
@@ -373,6 +394,10 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Alle websiteregels verwijderen?
 ip-protection-delete-all-site-rules-confirm =
     .label = Alle regels verwijderen
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Kan regel niet verwijderen
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Kan regels niet verwijderen
 ip-protection-delete-site-rule-retry =
     .label = Opnieuw proberen
 

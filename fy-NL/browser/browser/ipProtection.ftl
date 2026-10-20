@@ -155,7 +155,7 @@ site-rules-description-inclusion = VPN is oan foar dizze website
 # Variables
 #   $website (string) - The host of the current website (e.g. "example.com")
 site-rules-inclusion-prompt =
-    .heading = VPN altyd oansette foar { $website }?
+    .heading = VPN altyd ynkseakelje foar { $website }?
     .message = Wurkje op elk momint jo regels by yn ynstellingen.
 ipprotection-settings-link =
     .label = Ynstellingen
