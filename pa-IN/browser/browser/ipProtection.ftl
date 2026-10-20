@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = { -brand-product-na
 ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 ipprotection-feature-introduction-description-private-browsing = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਹੋਵੋ।
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਜਾਂ ਟਿਕਾਣੇ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ VPN ਨੂੰ ਚਾਲੂ ਜਾਂ ਲੋੜ ਨਾ ਹੋਣ ਉੱਤੇ ਬੰਦ ਕਰਨ ਵਾਸਤੇ ਨਿਯਮ ਬਣਾਓ।
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਲਈ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਜਾਂ ਜਿੱਥੇ ਲੋੜ ਨਾ ਹੋਵੇ ਤਾਂ ਬੰਦ ਕਰਨ ਲਈ ਨਿਯਮ ਬਣਾਓ।
 ipprotection-feature-introduction-title-captive-portal = ਪਬਲਿਕ Wi-Fi ਵਰਤ ਰਹੇ ਹੋ? { -brand-product-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ।
 ipprotection-feature-introduction-description-captive-portal = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪਬਲਿਕ Wi-Fi ਵੀ ਵਰਤਦੇ ਹੋਵੋ।
@@ -124,6 +126,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ਖ਼ਾ�
 ## Holiday Promotion Callout
 
 ipprotection-holiday-promo-title = 30 ਜਨਵਰੀ ਤੱਕ ਬੇਅੰਤ VPN ਲਵੋ
+ipprotection-holiday-promo-description = ਵਿੱਚੇ-ਮੌਜੂਦ VPN ਨਾਲ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਣਾਓ ਅਤੇ ਸੂਹ ਲੈਣਾ ਔਖਾ ਕਰੋ।
 ipprotection-holiday-promo-primary-button = VPN ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-holiday-promo-secondary-button = ਖ਼ਾਰਜ ਕਰੋ
 
@@ -169,6 +172,8 @@ ipprotection-button-turn-vpn-off = VPN ਬੰਦ ਕਰੋ
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN ਨੂੰ ਹਰ ਥਾਂ ਲਈ ਬੰਦ ਕਰੋ
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = ਚਾਲੂ ਕਰੋ
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN ਚਾਲੂ ਕਰੋ
 # Button while VPN is connecting
 ipprotection-button-connecting = …ਚਾਲੂ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
@@ -180,6 +185,8 @@ ipprotection-connection-status-excluded-1 = ਇਸ ਸਾਈਟ ਲਈ VPN ਬ�
     .aria-label = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
 ipprotection-connection-status-connecting-1 = …VPN ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
     .aria-label = …VPN ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = ਬੰਦ ਕਰੋ
 
 ## Location controls
 
