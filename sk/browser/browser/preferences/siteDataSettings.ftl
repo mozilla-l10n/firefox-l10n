@@ -22,11 +22,11 @@ site-data-column-last-used =
 # This label is used in the "Host" column for local files, which have no host.
 site-data-local-file-host = (lokálny súbor)
 site-data-remove-selected =
-    .label = Odstrániť vybrané
-    .accesskey = r
+    .label = Odstrániť vybraté
+    .accesskey = O
 site-data-settings-dialog =
     .buttonlabelaccept = Uložiť zmeny
-    .buttonaccesskeyaccept = e
+    .buttonaccesskeyaccept = U
 # Variables:
 #   $value (Number) - Value of the unit (for example: 4.6, 500)
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
