@@ -216,6 +216,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = ألصق وانتقل
     .accesskey = أ
+urlbar-menuitem-paste-and-search =
+    .label = ألصق وابحث
+    .accesskey = ص
 
 ## Searchbar context menu
 
