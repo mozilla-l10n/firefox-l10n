@@ -66,7 +66,7 @@ cert-error-details-cert-chain-label = Certifikačná reťaz:
 #   $hostname (string) - Hostname of the website blocked by csp or xfo error.
 csp-xfo-blocked-long-desc = Kvôli ochrane vašej bezpečnosti nemôže { -brand-short-name } zobraziť stránku zo servera { $hostname }, pretože táto je vložená do inej stránky. Ak ju chcete zobraziť, musíte ju otvoriť v novom okne.
 fp-certerror-view-certificate-link = Zobraziť certifikát stránky
-fp-certerror-return-to-previous-page-recommended-button-2 = Prejsť späť (odporúčané)
+fp-certerror-return-to-previous-page-recommended-button-2 = Prejsť naspäť (odporúča sa)
     .accesskey = P
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:

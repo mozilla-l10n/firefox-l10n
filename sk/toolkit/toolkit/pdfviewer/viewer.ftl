@@ -569,13 +569,13 @@ pdfjs-editor-add-signature-dialog-title = Pridať podpis
 ## Tab names
 
 # Type is a verb (you can type your name as signature)
-pdfjs-editor-add-signature-type-button = Typ
-    .title = Typ
+pdfjs-editor-add-signature-type-button = Napísať
+    .title = Napísať
 # Draw is a verb (you can draw your signature)
-pdfjs-editor-add-signature-draw-button = Kresliť
-    .title = Kresliť
-pdfjs-editor-add-signature-image-button = Obrázok
-    .title = Obrázok
+pdfjs-editor-add-signature-draw-button = Nakresliť
+    .title = Nakresliť
+pdfjs-editor-add-signature-image-button = Z obrázka
+    .title = Z obrázka
 
 ## Tab panels
 
