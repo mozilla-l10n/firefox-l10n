@@ -13,6 +13,9 @@ more-from-moz-subtitle = Se andre produkter fra { -vendor-short-name }, der arbe
 more-from-moz-firefox-mobile-title = { -brand-product-name } til mobilen
 more-from-moz-firefox-mobile-description = Mobil-browseren, der beskytter dit privatliv.
 more-from-moz-firefox-mobile-title-1 = { -brand-product-name } til mobilen
+more-from-moz-firefox-mobile =
+    .description = Mobil-browseren, der beskytter dit privatliv.
+    .label = { -brand-product-name } til mobilen
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Opdag et nyt lag af anonym browsing og beskyttelse.
 more-from-moz-qr-code-box-firefox-mobile-title = Hent med din mobil-enhed. Peg kameraet på QR-koden og tryk på linket, når det dukker op.
@@ -62,12 +65,21 @@ more-from-moz-new-products-button = Se nye produkter
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.
 
+more-from-moz-mozilla-monitor-card =
+    .description = Find ud af, hvor dine personlige oplysninger er blevet kompromitteret online, med en gratis skanning.
+    .label = { -mozmonitor-brand-name }
+more-from-moz-mozilla-vpn-card =
+    .description = Få ekstra beskyttelse til alle apps – ikke kun din browser. Beskyt dine data på offentlige wi-fi-netværk og usikre netværk.
+    .label = { -mozilla-vpn-brand-name }
 more-from-moz-firefox-relay-card =
     .description = Beskyt din indbakke mod spam med gratis mail-maskering.
     .label = { -relay-brand-name }
 more-from-moz-mdn-card =
     .description = Lær webudvikling med gratis guider og dokumentation.
     .label = { -mdn-brand-name }
+more-from-moz-thunderbird-card =
+    .description = Få adgang til dine mails, kalendere og kontakter i én hurtig app.
+    .label = { -thunderbird-brand-name }
 more-from-moz-solo-card-1 =
     .description = Opret din hjemmeside på et øjeblik og opret gratis forbindelse til dit eget domæne.
     .label = { -solo-ai-brand-name }

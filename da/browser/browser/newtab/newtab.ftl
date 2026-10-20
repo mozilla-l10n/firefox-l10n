@@ -86,6 +86,9 @@ home-prefs-clocks-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Krydsord
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Finans
 # Stocks is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header =
     .label = Aktier
@@ -96,6 +99,9 @@ home-prefs-picture-header =
 # searches.
 home-prefs-search-widget-header =
     .label = Søgning
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskoper
 home-prefs-mission-message2 =
     .message = Vores sponsorer støtter vores mission om at bygge et bedre internet.
 home-prefs-manage-topics-link2 =
@@ -157,6 +163,37 @@ home-prefs-mission-message-learn-more-link-srd = Find ud af hvordan
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Læs mere
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] Forsøg på sporing blokeret i dag
+       *[other] Forsøg på sporing blokeret i dag
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] På tværs af { $count } websted
+       *[other] På tværs af { $count } websteder
+    }
+
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = { -brand-short-name } blokerer automatisk sporings-mekanismer, hvilket holder mere af din aktivitet privat.
+
 ## Privacy widget — Enhanced Tracking Protection off state
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
@@ -169,11 +206,19 @@ newtab-privacy-etp-off-turn-on-tracking = Slå sporingsbeskyttelse til i indstil
 ## "-cta" button label sharing the same id stem (the CTA button isn't rendered
 ## yet; the labels are authored so the pairing is ready).
 
+newtab-privacy-message-info-1 = { -brand-short-name } blokerer automatisk sporings-mekanismer, mens du browser.
+newtab-privacy-message-info-1-cta = Vis beskyttelse
+newtab-privacy-message-info-2-cta = Vis beskyttelse
+newtab-privacy-message-info-4-cta = Vis beskyttelse
+newtab-privacy-message-info-5-cta = Vis beskyttelse
 newtab-privacy-message-info-6-cta = Læs mere
 newtab-privacy-message-info-7 = Se hvilke sporings-mekanismer { -brand-short-name } har blokeret.
+newtab-privacy-message-info-7-cta = Vis beskyttelse
 newtab-privacy-message-info-8-cta = Læs mere
 newtab-privacy-message-info-10-cta = Gå til adgangskoder
 newtab-privacy-message-info-11-cta = Læs mere
+newtab-privacy-message-info-12-cta = Vis beskyttelse
+newtab-privacy-message-info-13-cta = Vis beskyttelse
 
 ## Privacy widget — promotional messages
 ##
@@ -183,7 +228,27 @@ newtab-privacy-message-info-11-cta = Læs mere
 newtab-privacy-message-promo-monitor-1-cta = Læs mere
 newtab-privacy-message-promo-monitor-2-cta = Læs mere
 newtab-privacy-message-promo-signin-1-cta = Log ind
+newtab-privacy-message-promo-vpn-1-cta = Åben VPN
+newtab-privacy-message-promo-vpn-2-cta = Åben VPN
+newtab-privacy-message-promo-vpn-3-cta = Åben VPN
 newtab-privacy-message-promo-private-window-1-cta = Åbn privat vindue
+newtab-privacy-message-promo-relay-1-cta = Få masker
+newtab-privacy-message-promo-relay-2 = Beskyt din indbakke mod spam med gratis mail-maskering.
+newtab-privacy-message-promo-relay-2-cta = Få masker
+newtab-privacy-message-promo-relay-3-cta = Få masker
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Vis beskyttelse
+newtab-privacy-message-milestone-month-cta = Vis beskyttelse
+newtab-privacy-message-milestone-year-cta = Vis beskyttelse
+newtab-privacy-message-milestone-total-cta = Vis beskyttelse
+newtab-privacy-message-daily-cap-cta = Vis beskyttelse
+newtab-privacy-message-streak-cta = Vis beskyttelse
+newtab-privacy-message-first-protection-cta = Vis beskyttelse
 
 ## Strings for the Finance widget
 
@@ -222,6 +287,9 @@ newtab-stocks-list-watchlist = Overvågningsliste
     .label = Overvågningsliste
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Søg efter navn eller symbol
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Finans
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -379,6 +447,16 @@ newtab-recent-searches-row-remove =
     .aria-label = Fjern "{ $search }" fra seneste søgninger
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søgning
+# Screen reader label for the widget's icon-only menu button.
+newtab-search-widget-menu-button =
+    .aria-label = Søgeindstillinger
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskoper
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Lær mere
 
 ## Strings for the Travel widget
 
@@ -689,15 +767,22 @@ newtab-custom-widget-clock-toggle =
     .label = Ur
 newtab-custom-widget-sports-toggle2 =
     .label = Sport
+newtab-custom-widget-privacy-toggle =
+    .label = Privatliv
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = Krydsord
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Finans
 newtab-custom-widget-stocks-toggle =
     .label = Aktier
 newtab-custom-widget-picture-toggle =
     .label = Dagens billede
 newtab-custom-widget-search-toggle =
     .label = Søgning
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskoper
 # Travel (noun) is a widget on New Tab for searching hotels, flights
 # and car rentals.
 newtab-custom-widget-travel-toggle =
@@ -1222,6 +1307,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Sammenfold alle widgets til kompakt størrelse
     .title = Minimer widgets
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Vis widget-sektionen
+    .title = Vis widgets
 newtab-widget-section-menu-button =
     .aria-label = Åbn widgets-menu
     .title = Widgets-menu
@@ -1622,6 +1712,8 @@ newtab-clock-widget-custom-timezone-input =
     .placeholder = Søg efter by, tidszone eller UTC-forskydning
 # Shown in the time-zone picker when the search matches no time zones.
 newtab-clock-widget-custom-zone-no-results = Ingen matchende tidszoner
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Tilbage
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.
