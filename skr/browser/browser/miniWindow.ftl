@@ -16,3 +16,24 @@ mini-window-audio-mute =
 mini-window-audio-unmute =
     .label = ٹیب دا آواز چالو کرو
     .tooltiptext = ٹیب دا آواز چالو کرو
+
+## These strings label the buttons on the Screenshots selection overlay while
+## it is being used to pick the region for a Mini Window.
+
+# Moves the tab to a Mini Window which frames the selected area of the page.
+screenshots-component-mini-window-button = منی ونڈو تے ون٘ڄو
+    .aria-label = منی ونڈو تے ون٘ڄو
+    .title = منی ونڈو تے ون٘ڄو
+# Dismisses the Mini Window selection overlay without moving the tab.
+screenshots-component-mini-window-cancel-button = منسوخ
+    .aria-label = منسوخ
+    .title =
+        { PLATFORM() ->
+            [macos] منسوخ(ایسکیپ)
+           *[other] منسوخ(ایسکیپ)
+        }
+# Opens a selection tool to select a section of a page to
+# open in a smaller window to appear cropped and always on top.
+toolbar-button-mini-window =
+    .label = منی ونڈو
+    .tooltiptext = منی ونڈو ورتو
