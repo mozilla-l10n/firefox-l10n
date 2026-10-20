@@ -253,6 +253,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Beillesztés és ugrás
     .accesskey = B
+urlbar-menuitem-paste-and-search =
+    .label = Beillesztés és keresés
+    .accesskey = B
 
 ## Searchbar context menu
 
@@ -1417,6 +1420,13 @@ reset-pbm-panel-complete = A privát munkamenet adatai törölve
 reset-pbm-toolbar-button2 =
     .label = Privát munkamenet törlése
     .tooltiptext = Privát munkamenet törlése
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Böngészési adatok részleges vagy teljes törlése
+    .tooltiptext = Böngészési adatok részleges vagy teljes törlése
 
 ## Autorefresh blocker
 

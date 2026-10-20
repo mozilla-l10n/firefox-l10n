@@ -50,3 +50,26 @@ toolbar-button-mini-window =
 main-context-menu-use-mini-window =
     .label = Mover seção para mini janela
     .accesskey = M
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] Mover para mini janela
+           *[other] Mover para mini janelas
+        }
+    .accesskey = M
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Selecione parte da página para manter visível
+mini-window-overlay-instructions = Arraste ou clique para selecionar uma área para mover para uma mini janela. Ele fica sempre visível enquanto você navega.
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+mini-window-panel-header = Escolha o que mover para uma mini janela
+mini-window-panel-move-selection = Mover seleção
+mini-window-panel-move-full-tab = Mover aba inteira

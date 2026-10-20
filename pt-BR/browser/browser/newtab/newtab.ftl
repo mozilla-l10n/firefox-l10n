@@ -479,6 +479,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Imagem do dia · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Imagem do dia
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Imagem do dia: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -502,6 +506,13 @@ newtab-picture-widget-menu-button =
 newtab-picture-widget-open-menu-button =
     .aria-label = Abrir menu da imagem do dia
     .title = Abrir menu da imagem do dia
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Definir esta imagem como fundo de tela
+    .label = Definir fundo de tela
+    .title = Definir fundo de tela
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -510,6 +521,8 @@ newtab-picture-set-wallpaper =
     .title = Definir fundo de tela
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gerenciar fundo de tela
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Ocultar esta imagem
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Ocultar imagem do dia
