@@ -123,6 +123,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zamknij
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Korzystaj z VPN bez ograniczeń do 30 stycznia
+ipprotection-holiday-promo-description = Prywatnie przeglądaj Internet i utrudnij śledzenie swoich działań dzięki wbudowanej sieci VPN.
 ipprotection-holiday-promo-primary-button = Otwórz VPN
 ipprotection-holiday-promo-secondary-button = Zamknij
 
@@ -168,6 +170,8 @@ ipprotection-button-turn-vpn-off = Wyłącz VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Całkowicie wyłącz VPN
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Włącz
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Włącz VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Włączanie…
@@ -179,6 +183,8 @@ ipprotection-connection-status-excluded-1 = VPN jest wyłączony na tej witrynie
     .aria-label = VPN jest wyłączony na tej witrynie
 ipprotection-connection-status-connecting-1 = VPN się łączy…
     .aria-label = VPN się łączy…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Wyłącz
 
 ## Location controls
 
