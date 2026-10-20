@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } không có quyền truy
 migration-no-permissions-instructions = Để tiếp tục nhập dữ liệu từ trình duyệt khác, cho phép { -brand-short-name } truy cập vào thư mục hồ sơ của nó.
 migration-no-permissions-instructions-step1 = Chọn “Tiếp tục”
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] Trong trình chọn tập tin, nhấp vào “Mở”
+       *[other] Trong trình chọn tập tin, điều hướng đến <code>{ $permissionsPath }</code> và nhấp vào “Chọn”
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

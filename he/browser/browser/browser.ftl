@@ -251,7 +251,10 @@ urlbar-split-view-button =
 
 urlbar-menuitem-paste-and-go =
     .label = הדבקה ומעבר
-    .accesskey = ה
+    .accesskey = מ
+urlbar-menuitem-paste-and-search =
+    .label = הדבקה וחיפוש
+    .accesskey = ח
 
 ## Searchbar context menu
 
