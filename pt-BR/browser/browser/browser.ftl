@@ -1420,6 +1420,15 @@ reset-pbm-toolbar-button2 =
     .label = Limpar sessão privativa
     .tooltiptext = Limpar sessão privativa
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Excluir parte ou todos os dados de navegação
+    .tooltiptext = Excluir parte ou todos os dados de navegação
+fire-button-panel-heading = Excluir todos os dados de navegação?
+fire-button-panel-description = Exclui histórico, cookies e dados de sites. Sessões de acesso em sites são encerradas. Esta janela é fechada e o { -brand-short-name } abre uma nova.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = O { -brand-short-name } impediu que esta página fosse recarregada automaticamente.
