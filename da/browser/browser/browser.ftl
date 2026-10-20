@@ -127,6 +127,8 @@ urlbar-result-menu-tip-get-help2 = Få hjælp
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = Afvis dette forslag
     .accesskey = A
+urlbar-result-menu-remove-top-site = Fjern dette foretrukne websted
+    .accesskey = d
 urlbar-result-menu-manage-firefox-suggest2 = Håndter { -firefox-suggest-brand-name }
     .accesskey = H
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -250,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Indsæt og gå
     .accesskey = n
+urlbar-menuitem-paste-and-search =
+    .label = Indsæt og søg
+    .accesskey = d
 
 ## Searchbar context menu
 
@@ -441,6 +446,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Vis editor, når der gemmes
     .accesskey = V
+bookmark-panel-save-button2 =
+    .label = Gem
+    .accesskey = G
 bookmark-panel-save-button =
     .label = Gem
 # Width of the bookmark panel.
@@ -509,6 +517,7 @@ identity-description-passive-loaded-insecure2 = Noget af dette websteds indhold 
 identity-description-passive-loaded-mixed2 = Selvom { -brand-short-name } har blokeret noget af indholdet, så findes der stadig usikkert indhold på siden (fx billeder).
 identity-description-active-loaded = Dette websted indeholder usikkert indhold (fx scripts), og din forbindelse til det er ikke privat.
 identity-description-active-loaded-insecure = Information, du deler med dette websted (fx adgangskoder, beskeder og oplysninger om betalingskort) kan ses af andre.
+identity-description-tls-key-logging-heading = Din forbindelse er muligvis ikke privat
 identity-description-tls-key-logging-message = En app eller tjeneste kan muligvis se din krypterede trafik fra dette websted.
 identity-more-info-link-text =
     .label = Mere information
@@ -909,6 +918,12 @@ urlbar-view-context-menu-open-in-window2 = Åbn i et nyt vindue
     .accesskey = v
 urlbar-view-context-menu-open-in-private-window2 = Åbn i et nyt privat vindue
     .accesskey = p
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Spring denne menu over, når du bruger tabulatortasten
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 
@@ -1131,6 +1146,9 @@ toolbar-button-tab-groups =
 ## is added automatically.
 
 qrcode-save-filename-base = qrcode
+# Variables:
+#  $domain (String): The current page's domain used in the suggested filename.
+qrcode-save-filename-with-domain-base = qr-code-{ $domain }
 
 ## EME notification panel
 
@@ -1220,6 +1238,9 @@ tabs-toolbar =
     .aria-label = Faneblade
 tabs-toolbar-new-tab =
     .label = Nyt faneblad
+tabs-toolbar-list-all-tabs-2 =
+    .label = Søg i og håndter faneblade
+    .tooltiptext = Søg i og håndter faneblade
 tabs-toolbar-list-all-tabs =
     .label = List alle faneblade
     .tooltiptext = List alle faneblade
@@ -1237,6 +1258,17 @@ restore-session-startup-suggestion-button = Vis mig hvordan
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Din organisation har blokeret adgang til lokale filer på denne computer.
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } søger nu i faneblade
+urlbar-addons-shortcut-moved-description = Brug { $addonsShortcut } for at åbne udvidelser og temaer.
+urlbar-addons-shortcut-moved-change-shortcuts = Håndter genveje
+urlbar-addons-shortcut-moved-dismiss = Forstået
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1315,6 +1347,26 @@ reset-pbm-panel-complete = Data fra privat session blev slettet
 reset-pbm-toolbar-button2 =
     .label = Ryd privat session
     .tooltiptext = Ryd privat session
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Slet nogle af eller alle dine browsing-data
+    .tooltiptext = Slet nogle af eller alle dine browsing-data
+fire-button-panel-heading = Slet alle browsing-data?
+fire-button-panel-description = Dette sletter historik, cookies og webstedsdata. Du vil blive logget ud af websteder. Dette vindue lukkes, og { -brand-short-name } åbner et nyt.
+fire-button-panel-choose-description = Hvis du ikke vil slette alt, skal du i stedet vælge specifikke data.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Vælg…
+fire-button-panel-cancel-button =
+    .label = Annuller
+    .accesskey = A
+fire-button-panel-confirm-button =
+    .label = Slet alt
+    .accesskey = S
 
 ## Autorefresh blocker
 

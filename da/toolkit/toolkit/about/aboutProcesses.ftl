@@ -16,6 +16,8 @@ about-processes-kill-process =
     .title = Afslut proces
 about-processes-shutdown-tab =
     .title = Luk faneblad
+about-processes-unload-tab =
+    .title = Nedluk faneblad
 about-processes-go-to-tab =
     .title = Gå til faneblad
 # Profiler icons
@@ -34,6 +36,9 @@ about-processes-profile-process =
 about-processes-column-name = Navn
 about-processes-column-memory-resident = Hukommelse
 about-processes-column-cpu-total = CPU
+# Same visible header as about-processes-column-cpu-total, but the tooltip clarifies a different meaning here.
+about-processes-column-cpu-total-tab = CPU
+    .title = % af den samlede CPU-kapacitet på tværs af alle kerner
 # Shortened from the shared "Memory" to reclaim column width in the narrower view shown in a sidebar.
 about-processes-column-memory-resident-tab = RAM
 

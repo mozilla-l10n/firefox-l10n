@@ -363,6 +363,9 @@ browser-language-heading =
     .label = Browser-sprog
 browser-language-preferred-label =
     .label = Foretrukket sprog
+browser-language-fallback-label =
+    .description = Bruges når oversættelsen af det foretrukne sprog er ufuldstændig.
+    .label = Reservesprog
 browser-language-install-error =
     .message = { -brand-short-name } kan ikke opdatere dine sprog lige nu. Kontrollér din internetforbindelse eller prøv igen.
 fx-translate-web-pages = { -translations-brand-name }
@@ -442,6 +445,9 @@ check-user-spelling =
     .accesskey = K
 spellcheck-download-dictionaries =
     .label = Hent ordbøger
+spellcheck-promo =
+    .heading = Sådan bruger du stavekontrol
+    .message = Højreklik på et tekstfelt for at slå stavekontrol til eller fra eller for at skifte sproget. Ikke alle felter understøtter stavekontrol.
 
 ## General Section - Files and Applications
 
@@ -556,11 +562,20 @@ update-application-installation =
     .label = Installation
 update-application-radio-group =
     .aria-label = Installation
+update-application-auto-2 =
+    .label = installere opdateringer automatisk (anbefalet)
+    .accesskey = o
+update-application-check-choose-2 =
+    .label = Søg efter opdateringer, men vælg hvornår de skal installeres
+    .accesskey = S
 update-application-background-enabled =
     .label = Når { -brand-short-name } ikke kører
     .accesskey = N
 update-application-warning-cross-user-setting-2 =
     .message = Denne indstilling vil gælde alle Windows-konti og { -brand-short-name }-profiler, der anvender denne { -brand-short-name }-installation.
+update-application-suppress-prompts-2 =
+    .label = Vis færre opdateringspåmindelser
+    .accesskey = p
 update-setting-write-failure-title2 = Fejl under lagring af indstillinger for opdatering
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -618,6 +633,10 @@ performance-default-content-process-count =
     .label = { $num } (standard)
 performance-group =
     .label = Ydelse
+performance-use-recommended-settings-checkbox-2 =
+    .description = Disse indstillinger er skræddersyet til din hardware og dit operativsystem.
+    .label = Brug de anbefalede indstillinger for ydelse
+    .accesskey = y
 
 ## Accessibility page
 
@@ -972,6 +991,9 @@ account-group-label2 =
 account-disabled-group =
     .description = Kontoindstillinger er ikke tilgængelige.
     .label = Konto
+account-placeholder2 =
+    .description = Log ind, og hold dine data private, krypterede og øjeblikkeligt tilgængelige, uanset hvor du bruger { -brand-short-name }.
+    .label = Du er ikke logget ind
 account-sync-section =
     .heading = Konto og synkronisering
 pane-account-sync-title2 = Konto og synkronisering
@@ -1296,6 +1318,10 @@ autofill-payment-methods-manage-payments-button =
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Kræv login på enhed for at autofylde og håndtere betalingsmetoder
     .accesskey = o
+# Security codes are the CVV/CVC card codes
+autofill-payment-methods-save-security-codes-checkbox =
+    .label = Gem sikkerhedskoder
+    .accesskey = G
 autofill-payment-methods-add-button = Tilføj ny betalingsmetode
 payments-list-header =
     .label = Betalingsmetoder
@@ -1362,6 +1388,16 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself. "CVV" is a common abbreviation for the security code printed on a
+# payment card; use whichever abbreviation is most familiar in your locale.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+payment-moz-box-item-with-security-code =
+    .description = { $expDate } | CVV gemt
     .label = { $cardNumber }
 addresses-group =
     .label = Adresser med mere

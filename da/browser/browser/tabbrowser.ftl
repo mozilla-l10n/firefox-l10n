@@ -355,6 +355,7 @@ tab-group-overflow-count-tooltip =
 ## groups in one place. When the user has no tab groups, the list instead
 ## recommends that the user create a tab group.
 
+tab-groups-list-empty-description = Træk et faneblad over på et andet, eller højreklik på et faneblad for at begynde at organisere. Vi gemmer dine grupper her, så de er nemme at finde senere.
 tab-groups-list-empty-button = Opret en fanebladsgruppe
 # Text for a button that, when clicked, creates a new tab group
 tab-groups-list-create-group-button = Ny gruppe
@@ -370,6 +371,12 @@ tab-group-context-move-to-new-window =
 # user's current window.
 tab-group-context-move-to-this-window =
     .label = Flyt gruppe til dette vindue
+# For a tab group that is open in any window, build a shareable link for the
+# tab group and open the content sharing dialog. Share is a verb here.
+# .badge labels this menu item as a newly introduced feature.
+tab-group-context-share-group =
+    .badge = Nyt
+    .label = Del gruppe
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
 # this will forget the saved tab group.
@@ -405,6 +412,10 @@ tab-note-editor-button-cancel =
 tab-note-editor-button-save =
     .label = Gem
     .accesskey = G
+tab-note-editor-button-delete =
+    .aria-label = Slet note
+    .title = Slet note
+    .accesskey = S
 tab-note-preview-edit-icon =
     .alt = Rediger note
 # Link to show the full tab note in case it was truncated.
@@ -440,6 +451,8 @@ tab-context-reverse-split-view =
     .label = Byt om på faneblade
     .accesskey = m
 tab-context-badge-new = Ny
+# The label of a badge shown in menu items to call out features that are in beta.
+tab-context-badge-beta = Beta
 
 ## Manage Split View (icon in the address bar & three-dot menu in the footer)
 

@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = Ved at vælge HuggingChat accepterer du 
 genai-settings-chat-lechat-links-2 = Ved at vælge Mistral Vibe accepterer du Mistral AIs <a data-l10n-name="link1">tjenestevilkår</a> og <a data-l10n-name="link2">privatlivspolitik</a>.
 genai-settings-chat-lechat-links = Ved at vælge Le Chat Mistral accepterer du Mistral AIs <a data-l10n-name="link1">tjenestevilkår</a> og <a data-l10n-name="link2">privatlivspolitik</a>.
 genai-settings-chat-localhost-links = Brug din egen private chatbot lokalt, fx i form af <a data-l10n-name="link1">llamafil</a> fra { -vendor-short-name }s Innovationsgruppe.
+genai-settings-chat-scout-links = Ved at vælge Yahoo Scout accepterer du Yahoos <a data-l10n-name="link1">tjenestevilkår</a> og <a data-l10n-name="link2">privatlivspolitik</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -169,6 +170,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Brug en AI-chatbot uden at skifte faneblade
@@ -227,6 +230,16 @@ link-preview-settings-key-points =
     .label = Tillad AI at læse begyndelsen af siden og oprette hovedpunkter
 link-preview-settings-long-press =
     .label = Genvej: Klik og hold nede på linket i et sekund (langt tryk)
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Spørg { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Spørg AI
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Søg
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Vil du se mere med AI?
 # Message that appears when user is shown the opt-in flow for link previews
