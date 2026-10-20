@@ -166,6 +166,8 @@ ipprotection-button-turn-vpn-off = VPN kikapcsolása
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN kikapcsolása mindenhol
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Bekapcsolás
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN bekapcsolása
 # Button while VPN is connecting
 ipprotection-button-connecting = Bekapcsolás…
@@ -177,6 +179,8 @@ ipprotection-connection-status-excluded-1 = A VPN ki van kapcsolva ezen a webhel
     .aria-label = A VPN ki van kapcsolva ezen a webhelyen
 ipprotection-connection-status-connecting-1 = A VPN kapcsolódik…
     .aria-label = A VPN kapcsolódik…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Kikapcsolás
 
 ## Location controls
 

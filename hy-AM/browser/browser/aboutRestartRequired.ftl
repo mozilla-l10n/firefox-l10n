@@ -12,6 +12,7 @@ restart-required-more-details-heading = Դիտել մանրամասները
 restart-required-single-instance-question = Ես չեմ օգտագործում բազմաթիվ պրոֆիլներ կամ օրինակներ։ Ինչո՞ւ է սա տեղի ունենում։
 restart-required-single-instance-answer = { -brand-short-name }-ը կարող է վերագործարկման կարիք ունենալ, եթե թարմացումը կիրառվում է ֆոնային ռեժիմում, երբ այն բաց է։
 restart-required-unsaved-work-question = Կարո՞ղ եմ կորցնել չպահպանված աշխատանքը։
+restart-required-fix-question = Սա իսկապես նյարդայնացնող է։ Արդյո՞ք { -brand-short-name }-ը լուծում է փնտրում։
 restart-button-label2 = Վերսկսել
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Դիտել ավելին

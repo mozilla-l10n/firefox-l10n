@@ -21,6 +21,7 @@ customkeys-file-focus-search = Կենտրոնացեք որոնման դաշտի 
 customkeys-history-reopen-tab = Վերաբացեք վերջին փակված ներդիրը
 customkeys-history-reopen-window = Վերաբացեք վերջին փակված պատուհանը
 customkeys-sidebar-toggle = Բացել/Փակել կողագոտին
+customkeys-view-bookmarks-toolbar = Միացնել/անջատել էջանիշների գործիքագոտին
 customkeys-view-picture-in-picture = Նկարը նկարում
 customkeys-view-add-split-view = Ավելացնել տրոհված տեսք
 # Separate is a verb
@@ -35,6 +36,7 @@ customkeys-dev-performance = Արտադրողականություն
 customkeys-dev-storage = Պահեստի տեսուչ
 customkeys-dev-dom = DOM
 customkeys-dev-accessibility = Մատչելիություն
+customkeys-dev-profiler-toggle = Գործարկել/կանգնեցնել կատարողականության պրոֆիլավորիչը
 customkeys-category-navigation = Նավարկում
 customkeys-nav-back = Ետ
 customkeys-nav-forward = Առաջ
@@ -76,6 +78,8 @@ customkeys-key-reset =
 
 customkeys-key-new =
     .label = Սեղմեք նոր ստեղնը՝
+# Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
+customkeys-key-unchangeable = (չի կարող փոխվել)
 
 ## Confirmation dialogs
 

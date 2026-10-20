@@ -21,6 +21,7 @@ confirmation-hint-send-to-device = Ուղարկվեց
 confirmation-hint-firefox-relay-mask-created = Ստեղծվե՛ց նոր դիմակ
 confirmation-hint-firefox-relay-mask-reused = Գոյություն ունեցող դիմակը վերաօգտագործվե՛ց
 confirmation-hint-screenshot-copied = Էկրանի պատկերը պատճենվե՛ց
+confirmation-hint-tab-group-saved = Ներդիրների խումբը պահպանվեց
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

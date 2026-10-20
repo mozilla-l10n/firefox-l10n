@@ -83,6 +83,9 @@ firefoxview-overview-nav = Վերջերս դիտարկվող
     .title = Վերջերս դիտարկվող
 firefoxview-overview-header = Վերջերս դիտարկվող
     .title = Վերջերս դիտարկվող
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Ներդիրներ և դիտարկման պատմություն սարքերում
 
 ## History in this context refers to browser history
 
@@ -188,6 +191,9 @@ firefoxview-show-all-history = Ցուցադրել ամբողջ պատմությ�
 firefoxview-history-empty-header = Վերադարձեք այնտեղ, որտեղ եղել եք
 firefoxview-history-empty-description = Ինչպես որ դիտարկում եք, ձեր այցելած էջերը կցուցադրվեն այստեղ:
 firefoxview-history-empty-description-two = Ձեր գաղտնիության պաշտպանությունը մեր գործունեության հիմքում է։ Ահա թե ինչու դուք կարող եք վերահսկել { -brand-short-name }-ի կողմից հիշվող գործունեությունը ձեր <a data-l10n-name="history-settings-url">պատմության կարգավորումներում</a>։
+# This appears when a user does not have browsing history yet.
+# This is indicating that a users browsers history will be found here when they start browsing.
+firefoxview-history-empty-header-2 = Ձեր դիտարկման ուղին սկսվում է այստեղից
 
 ##
 

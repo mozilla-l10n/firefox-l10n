@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = Gean fierder mei de
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen, sels as jo yn in priveefinster binne.
 ipprotection-feature-introduction-description-private-browsing = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels as jo in priveefinster brûke.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Help jo lokaasje te ferbergjen wylst jo sneupe. Stel regels yn om VPN yn te skeakeljen foar <a data-l10n-name="learn-more-vpn">ekstra privacy</a> of lokaasje-basearre blêdzjen, en út te skeakeljen wêr’t dat net nedich is.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Help jo lokaasje te ferbergjen foar <a data-l10n-name="learn-more-vpn">ekstra privacy</a> wylst jo sneupe. Stel regels yn om de VPN yn te skeakeljen foar ekstra privacy of lokaasje-basearre navigearjen, en út te skeakeljen wêr’t jo dat net dogge.
 ipprotection-feature-introduction-title-captive-portal = Brûke jo iepenbiere wifi? Probearje de ynboude VPN fan { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels op iepenbiere wifi.
@@ -123,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Slute
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Untfang oant 30 jannewaris ûnbeheinde VPN
+ipprotection-holiday-promo-description = Meitsje jo navigaasje privee en dreger te folgjen mei ynboude VPN.
 ipprotection-holiday-promo-primary-button = VPN iepenje
 ipprotection-holiday-promo-secondary-button = Slute
 
@@ -168,6 +172,8 @@ ipprotection-button-turn-vpn-off = VPN útskeakelje
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN oeral útskeakelje
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Ynskeakelje
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN ynskeakelje
 # Button while VPN is connecting
 ipprotection-button-connecting = Ynskeakelje…
@@ -179,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPN is út foar dizze website
     .aria-label = VPN is út foar dizze website
 ipprotection-connection-status-connecting-1 = VPN makket ferbining…
     .aria-label = VPN makket ferbining…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Utskeakelje
 
 ## Location controls
 

@@ -153,6 +153,8 @@ about-glean-store-submitted-pings =
     .label = Armazenar pings enviados
 # Header for a section that shows client information
 about-glean-submitted-ping-client-info-title = Informações do cliente
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = Informações de ping
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

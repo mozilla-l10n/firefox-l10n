@@ -36,6 +36,11 @@ urlbar-identity-button2 =
             [one] Դիտել կայքի տեղեկատվությունը ({ $count } հետագծողներ արգելափակված են)
            *[other] Դիտել կայքի տեղեկատվությունը ({ $count } հետագծողներ արգելափակված են)
         }
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Համօգտագործել…
+    .accesskey = Հ
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկությունը
 
@@ -101,6 +106,8 @@ urlbar-result-menu-tip-get-help2 = Ստանալ օգնություն
     .accesskey = h
 urlbar-result-menu-dismiss-suggestion2 = Մերժել այս առաջարկը
     .accesskey = D
+urlbar-result-menu-remove-top-site = Հեռացնել այս գլխավոր կայքը
+    .accesskey = Հ
 urlbar-result-menu-manage-firefox-suggest2 = Կառավարել { -firefox-suggest-brand-name }-ը
     .accesskey = M
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -224,6 +231,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Փակցնել և գնալ
     .accesskey = Փ
+urlbar-menuitem-paste-and-search =
+    .label = Փակցնել և գնալ
+    .accesskey = S
 
 ## Searchbar context menu
 
@@ -422,6 +432,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Ցուցադրել խմբագրիչում, երբ պահվում է
     .accesskey = S
+bookmark-panel-save-button2 =
+    .label = Պահպանել
+    .accesskey = Պ
 bookmark-panel-save-button =
     .label = Պահել
 # Width of the bookmark panel.
@@ -950,6 +963,12 @@ urlbar-view-context-menu-open-in-window2 = Բացել նոր պատուհանո�
     .accesskey = N
 urlbar-view-context-menu-open-in-private-window2 = Բացել նոր գաղտնի պատուհանում
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Բաց թողնել այս ընտրացանկը Tab ստեղնն օգտագործելիս
+    .accesskey = Բ
 
 ## Labels shown above groups of urlbar results
 
@@ -1264,6 +1283,9 @@ tabs-toolbar =
     .aria-label = Դիտարկիչի ներդիրներ
 tabs-toolbar-new-tab =
     .label = Նոր Ներդիր
+tabs-toolbar-list-all-tabs-2 =
+    .label = Որոնել և կառավարել ներդիրները
+    .tooltiptext = Որոնել և կառավարել ներդիրները
 tabs-toolbar-list-all-tabs =
     .label = Ցուցադրել բոլոր էջերը
     .tooltiptext = Ցուցադրել բոլոր էջերը
@@ -1281,6 +1303,15 @@ restore-session-startup-suggestion-button = Ցույց տուր ինձ, թե ի�
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Ձեր կազմակերպությունն արգելափակել է մատչումը տեղային ֆայլերին այս համակարգչում
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut }-ը այժմ որոնում է ներդիրները
+urlbar-addons-shortcut-moved-description = Ընդլայնումները և թեմաները բացելու համար օգտագործեք { $addonsShortcut }-ը։
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

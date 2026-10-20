@@ -28,9 +28,27 @@ content-sharing-modal-sign-in-2 =
     .label = Մուտք գործեք՝ համօգտագործելու համար
 content-sharing-modal-title-2 = Կիսվեք այս էջերով ցանկացած մեկի հետ
 content-sharing-modal-title-signed-in = Ձեր հղումները պատրաստ են կիսվելու համար
+# This is a warning to the user when they try to share more than the maximum
+# number of links and that the first N links will be shared.
+# The current max is 30.
+content-sharing-modal-too-many-links-2 =
+    { $count ->
+        [one] Կներառվեն միայն { $count } հղումներ
+       *[other] Կներառվեն միայն { $count } հղումներ
+    }
 content-sharing-modal-no-shareable-links =
     .heading = Կիսվող հղումներ չկան
     .message = Միայն վեբ բովանդակության հղումները կարող են համօգտագործվել։
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Դուք կիսվել եք { $count } էջով
+           *[other] Դուք կիսվել եք { $count } էջերով
+        }
+    .message = Փորձեք կրկին, երբ ձեր էջերից մեկի ժամկետը լրանա։
+content-sharing-modal-some-invalid-links = Որոշ հղումներով հնարավոր չէ կիսվել։
 content-sharing-modal-generic-error-2 =
     .heading = Ինչ-որ բան այն չէ
     .message = Այս անգամ չկարողացանք ստեղծել ձեր համատեղ էջը։ Փորձեք կրկին ավելի ուշ։

@@ -121,6 +121,14 @@ about-processes-thread-name-and-id = { $name }
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Aba: { $name }
 about-processes-preloaded-tab = Nova aba pré-carregada
+# Tab count shown in the groupby=tab view's totals bar.
+# Variables:
+#   $count (Number) The number of open tabs currently listed. Always ≥ 0.
+about-processes-tab-count =
+    { $count ->
+        [one] { $count } aba
+       *[other] { $count } abas
+    }
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
