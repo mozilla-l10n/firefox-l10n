@@ -254,7 +254,10 @@ urlbar-split-view-button =
 
 urlbar-menuitem-paste-and-go =
     .label = Wklej i przejdź
-    .accesskey = W
+    .accesskey = d
+urlbar-menuitem-paste-and-search =
+    .label = Wklej i wyszukaj
+    .accesskey = s
 
 ## Searchbar context menu
 
