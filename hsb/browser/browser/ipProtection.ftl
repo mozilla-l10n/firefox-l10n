@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = Pokročujće ze zat
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał, samo hdyž sće w priwatnym woknje.
 ipprotection-feature-introduction-description-private-browsing = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo hdyž w priwatnym woknje.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Schowajće swoje stejnišćo, hdyž přehladujeće. Postajće prawidła, zo by´šće VPN za <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> abo na stejnišću bazowace přehladowanje zmóžnił, abo znjemóžnił, hdźež to nječiniće.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Pomhajće, waše stejnišćo za <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> schować, hdyž přehladujeće. Postajće prawidła, zo byšće VPN za přidatnu priwatnosć abo na stejnišću bazowane přehladowanje zmóžnił, a znjemóžnił, hdyž jón njetrjebaće.
 ipprotection-feature-introduction-title-captive-portal = W zjawnym WLAN? Wupruwujće zatwarjeny VPN { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo w zjawnym WLAN.

@@ -68,6 +68,7 @@ move-to-mini-window =
 ## what to move into a Mini Window.
 
 mini-window-overlay-header = Wubjeŕśo źěl boka, kótaryž ma widobny wóstaś
+mini-window-overlay-instructions = Śěgniśo abo klikniśo, aby wobceŕk wubrał, kótaryž se ma do miniwokna pśesunuś. Buźo górjejce wóstawaś, mjaztym až pśeglědujośo.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
