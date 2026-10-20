@@ -39,7 +39,9 @@ ipprotection-feature-introduction-description-summer-promo = Mergi mai departe c
 ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele, chiar și într-o fereastră privată.
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = Te ajută să îți ascunzi locația pentru <a data-l10n-name="learn-more-vpn">confidențialitate extra</a> în timp ce navighezi. Setează reguli pentru a activa VPN-ul pentru confidențialitate extra sau navigare bazată pe locație și dezactivează-l acolo unde nu vrei să îl folosești.
+ipprotection-feature-introduction-description-private-browsing-2 = Ajută la ascunderea locației când navighezi. Setează reguli pentru activarea VPN-ului pentru<a data-l10n-name="learn-more-vpn">un plus de confidențialitate</a> sau navigare în funcție de locație și pentru dezactivarea lui când nu vrei să îl folosești.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-1 = Te ajută să îți ascunzi locația pentru <a data-l10n-name="learn-more-vpn">un plus de confidențialitate</a> în timp ce navighezi. Setează reguli pentru activarea VPN-ului pentru un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
 ipprotection-feature-introduction-title-captive-portal = Ești într-o rețea Wi-Fi publică? Încearcă VPN-ul încorporat din { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și în Wi-Fi public.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -115,14 +117,16 @@ ipprotection-android-promo-callout-primary-button = Am înțeles
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Setează reguli pentru VPN-ul încorporat, apoi navighează mai departe
 ipprotection-site-inclusions-callout-title-lapsed-users = Încearcă VPN-ul încorporat, acum pentru fiecare site în parte
-ipprotection-site-inclusions-callout-description-1 = Activează VPN-ul încorporat când vrei un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei astea.
-ipprotection-site-inclusions-callout-description = Activează-l când dorești confidențialitate extra sau navigare bazată pe locație și dezactivează-l acolo unde nu dorești.
+ipprotection-site-inclusions-callout-description-1 = Activează VPN-ul încorporat când vrei un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
+ipprotection-site-inclusions-callout-description = Activează-l când vrei un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
 ipprotection-site-inclusions-callout-primary-button = Setează reguli
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nu acum
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Închide
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Bucură-te de VPN nelimitat până pe 30 ianuarie
+ipprotection-holiday-promo-description = Navighează privat și fii mai greu de urmărit cu VPN-ul integrat.
 ipprotection-holiday-promo-primary-button = Deschide VPN-ul
 ipprotection-holiday-promo-secondary-button = Închide
 
@@ -168,6 +172,8 @@ ipprotection-button-turn-vpn-off = Dezactivează VPN-ul
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Dezactivează VPN-ul peste tot
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Activează
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Activează VPN-ul
 # Button while VPN is connecting
 ipprotection-button-connecting = Se activează…
@@ -179,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPN-ul este dezactivat pentru acest 
     .aria-label = VPN-ul este dezactivat pentru acest site
 ipprotection-connection-status-connecting-1 = VPN-ul se conectează…
     .aria-label = VPN-ul se conectează…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Dezactivează
 
 ## Location controls
 

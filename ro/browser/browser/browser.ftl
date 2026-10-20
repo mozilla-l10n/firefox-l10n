@@ -255,6 +255,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Inserează și accesează
     .accesskey = n
+urlbar-menuitem-paste-and-search =
+    .label = Lipire și căutare
+    .accesskey = S
 
 ## Searchbar context menu
 
