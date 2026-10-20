@@ -168,6 +168,8 @@ ipprotection-button-turn-vpn-off = 關閉 VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = 關閉所有網站的 VPN
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = 開啟
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = 開啟 VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = 正在開啟…
@@ -179,6 +181,8 @@ ipprotection-connection-status-excluded-1 = 已對此網站關閉 VPN 連線
     .aria-label = 已對此網站關閉 VPN 連線
 ipprotection-connection-status-connecting-1 = VPN 連線中…
     .aria-label = VPN 連線中…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = 關閉
 
 ## Location controls
 
