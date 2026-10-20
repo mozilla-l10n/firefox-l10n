@@ -446,6 +446,8 @@ main-context-menu-reveal-password =
     .accesskey = з
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Новое
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = Бета
 main-context-menu-pdfjs-copy-page =
     .label = Копировать страницу
 main-context-menu-pdfjs-cut-page =
