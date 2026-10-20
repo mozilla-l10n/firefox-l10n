@@ -37,6 +37,10 @@ screenshots-component-mini-window-cancel-button = Anuluj
             [macos] Anuluj (esc)
            *[other] Anuluj (Esc)
         }
+# Clears the current selection so the user can select a new region.
+screenshots-component-reselect-button = Wyczyść zaznaczenie
+    .aria-label = Wyczyść zaznaczenie
+    .title = Wyczyść zaznaczenie
 # Opens a selection tool to select a section of a page to
 # open in a smaller window to appear cropped and always on top.
 toolbar-button-mini-window =
