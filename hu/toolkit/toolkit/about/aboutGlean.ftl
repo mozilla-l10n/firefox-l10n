@@ -195,6 +195,8 @@ about-glean-store-submitted-pings-select-label = Ping:
 about-glean-store-submitted-pings =
     .description = Engedélyezi a beküldött pingek tárolását a memóriában
     .label = Beküldött pingek tárolása
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = Kliensinformáció
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

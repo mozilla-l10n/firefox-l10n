@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = A videó formátuma vagy MIME-típusa ne
 videocontrols-error-no-source = Nincs támogatott formátumú vagy MIME-típusú videó.
 videocontrols-error-generic = A videólejátszás leállt ismeretlen hiba miatt.
 videocontrols-status-picture-in-picture = Ez a videó kép a képben módban van lejátszva.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = A videó kép a képben módban van lejátszva
 # This message shows the current position and total video duration
 #
 # Variables:

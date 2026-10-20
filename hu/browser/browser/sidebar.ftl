@@ -52,6 +52,8 @@ sidebar-history-sort-option-last-visited =
     .label = Utoljára látogatva
 sidebar-history-sort-option-most-visited =
     .label = Legtöbbször látogatott
+sidebar-history-import-promo-button =
+    .label = Importálás a { -brand-short-name }ba
 
 ## Labels for sidebar search
 

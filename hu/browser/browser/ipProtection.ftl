@@ -155,6 +155,12 @@ site-rules-status-heading = Saját szabály
 site-rules-description-exclusion = A VPN ki van kapcsolva ezen a webhelyen
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = A VPN be van kapcsolva ezen a webhelyen
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Mindig bekapcsolja a VPN-t a(z) { $website } esetén?
+    .message = Frissítse bármikor a szabályokat a beállításokban.
 ipprotection-settings-link =
     .label = Beállítások
 
@@ -283,6 +289,11 @@ ip-protection-learn-more = További tudnivalók
 ip-protection-not-opted-in-4 =
     .heading = Próbálja ki a { -brand-short-name } beépített VPN-jét
     .message = Böngésszen további adatvédelem mellett a helye elrejtésével.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Kész kipróbálni?
+    .message = Kapjon { $maxUsage } GB-ot ingyen havonta, és válassza ki, hogy mely webhelyek használjanak VPN-t.
 ip-protection-not-opted-in-button = Kezdő lépések
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -298,6 +309,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Állítson be szabályokat azokhoz a webhelyekhez, amelyek fokozott adatvédelmet vagy a VPN kikapcsolását igénylik.
     .label = VPN-szabályok kezelése
+ip-protection-site-rules-list-section-1 =
+    .description = Állítson be szabályokat a VPN automatikus be- vagy kikapcsolásához.
+    .label = Webhelyszabályok
 ip-protection-site-rules-add-button =
     .label = Szabály beállítása
 ip-protection-site-rules-delete-all-button =
@@ -380,6 +394,10 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Törli az összes webhelyszabályt?
 ip-protection-delete-all-site-rules-confirm =
     .label = Összes szabály törlése
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Nem sikerült törölni a szabályt
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Nem sikerült törölni a szabályokat
 ip-protection-delete-site-rule-retry =
     .label = Próbálja újra
 
