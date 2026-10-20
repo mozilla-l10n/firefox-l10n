@@ -1795,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Kiezen welke websites extensies mogen installeren
     .accesskey = x
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Websites toestaan te vragen om app-koppelingen te openen.
+    .accesskey = W
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Geblokkeerde websites beheren
+    .accesskey = G
 permissions-location2 =
     .label = Locatie
 permissions-localhost2 =

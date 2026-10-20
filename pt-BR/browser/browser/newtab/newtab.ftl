@@ -523,6 +523,8 @@ newtab-picture-set-wallpaper =
 newtab-picture-menu-manage-wallpaper = Gerenciar fundo de tela
 # Context menu item that hides the picture shown in the widget.
 newtab-picture-menu-hide-photo2 = Ocultar esta imagem
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Mostrar imagem
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Ocultar imagem do dia
@@ -530,6 +532,10 @@ newtab-picture-menu-hide-photo = Ocultar imagem do dia
 newtab-picture-menu-show-photo = Mostrar imagem do dia
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Saiba mais
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Mostrar imagem
+    .title = Mostrar imagem
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Mostrar imagem do dia
@@ -594,8 +600,30 @@ newtab-horoscopes-menu-learn-more = Saiba mais
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Viagem
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Abrir menu de viagem
+    .title = Abrir menu de viagem
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Saiba mais
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Paciência
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Abrir menu de paciência
+    .title = Abrir menu de paciência
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Saiba mais
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -905,6 +933,15 @@ newtab-custom-widget-search-toggle =
     .label = Pesquisar
 newtab-custom-widget-horoscopes-toggle =
     .label = Horóscopo
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Viagem
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Paciência
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

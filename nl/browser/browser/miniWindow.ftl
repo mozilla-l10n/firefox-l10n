@@ -61,3 +61,16 @@ move-to-mini-window =
            *[other] Naar minivensters verplaatsen
         }
     .accesskey = N
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Een deel van de pagina selecteren om zichtbaar te houden
+mini-window-overlay-instructions = Sleep of klik om een gebied te selecteren voor verplaatsing naar een minivenster. Hij blijft tijdens het surfen bovenaan staan.
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+mini-window-panel-header = Kies wat u naar een minivenster wilt verplaatsen
+mini-window-panel-move-selection = Selectie verplaatsen
+mini-window-panel-move-full-tab = Volledig tabblad verplaatsen

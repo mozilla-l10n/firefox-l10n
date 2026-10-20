@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Alle geschiedenis wissen
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Navigatiegegevens verwijderen
 clear-data-settings-label = Als { -brand-short-name } wordt afgesloten, automatisch het volgende wissen
 sanitize-on-shutdown-description = Automatisch alle aangevinkte items wissen wanneer { -brand-short-name } wordt gesloten.
 

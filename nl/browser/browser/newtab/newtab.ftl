@@ -599,8 +599,27 @@ newtab-horoscopes-menu-learn-more = Meer info
 # Widget heading; also the widget's accessible name. Travel (noun) is a
 # widget on New Tab for searching hotels, flights and car rentals.
 newtab-travel-widget-title = Reizen
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Menu Reizen openen
+    .title = Menu Reizen openen
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Meer info
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitaire
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Menu Solitaire openen
+    .title = Menu Solitaire openen
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Meer info
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -914,6 +933,11 @@ newtab-custom-widget-horoscopes-toggle =
 # and car rentals.
 newtab-custom-widget-travel-toggle =
     .label = Reizen
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitaire
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
