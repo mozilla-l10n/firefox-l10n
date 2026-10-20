@@ -253,6 +253,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Plakken & Gaan
     .accesskey = P
+urlbar-menuitem-paste-and-search =
+    .label = Plakken en zoeken
+    .accesskey = P
 
 ## Searchbar context menu
 
@@ -1421,6 +1424,12 @@ reset-pbm-toolbar-button2 =
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
 
+fire-button-toolbar-button =
+    .label = Een deel van of al uw navigatiegegevens verwijderen
+    .tooltiptext = Een deel van of al uw navigatiegegevens verwijderen
+fire-button-panel-heading = Alle navigatiegegevens verwijderen?
+fire-button-panel-description = Hiermee worden geschiedenis, cookies en websitegegevens verwijderd. U wordt bij websites afgemeld. Dit venster wordt gesloten en { -brand-short-name } zal een nieuw venster openen.
+fire-button-panel-choose-description = Als u niet alles wilt verwijderen, kies dan specifieke gegevens.
 # Opens the "Delete browsing data" dialog, where the user picks
 # which kinds of data to delete. The trailing ellipsis marks that a dialog
 # follows rather than the action happening immediately.

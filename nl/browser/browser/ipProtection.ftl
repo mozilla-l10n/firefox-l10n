@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Nieuw: VPN, nu rechtstreeks in uw brow
 ipprotection-feature-introduction-title-1 = De ingebouwde VPN van { -brand-product-name } proberen
 ipprotection-feature-introduction-link-text-2 = Gebruik onze nieuwe <a data-l10n-name="learn-more-vpn">ingebouwde VPN</a> om uw locatie te verbergen en uw gegevens te beschermen.
 ipprotection-feature-introduction-title-privacy = Nog een laag privacy toevoegen
+ipprotection-feature-introduction-title-privacy-1 = Voeg een extra laag privacy toe met ingebouwde VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">De ingebouwde VPN van { -brand-product-name }</a> helpt uw navigatie te beschermen. Kies uit diverse locaties om uw navigatie meer privé te houden.
 ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">De ingebouwde VPN van { -brand-product-name }</a> helpt uw navigatie te beschermen. Kies uit meerdere locaties om uw navigatie meer privé te houden.
 ipprotection-feature-introduction-link-text-privacy-3 = Ontvang <a data-l10n-name="learn-more-vpn">extra privacy</a> door te kiezen uit meerdere locaties om te verbergen waar u surft.
@@ -37,6 +38,8 @@ ipprotection-feature-introduction-title-summer-promo = Hebt u reisplannen? Neem 
 ipprotection-feature-introduction-description-summer-promo = Ga verder met de ingebouwde VPN van { -brand-product-name }: meer locaties, onbeperkte bandbreedte. Nu t/m 31 augustus.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gebruik onze nieuwe <a data-l10n-name="learn-more-vpn">ingebouwde VPN</a> om uw locatie te verbergen en uw gegevens te beschermen, zelfs als u zich in een privévenster bevindt.
 ipprotection-feature-introduction-description-private-browsing = Navigeer met extra bescherming door uw locatie te verbergen, zelfs wanneer u een privévenster gebuikt.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Help uw locatie te verbergen terwijl u surft. Stel regels in om VPN in te schakelen voor <a data-l10n-name="learn-more-vpn">extra privacy</a> of locatiegebaseerd navigeren, en schakel uit waar dat niet nodig is.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Help uw locatie te verbergen voor <a data-l10n-name="learn-more-vpn">extra privacy</a> terwijl u navigeert. Stel regels in om de VPN voor extra privacy of locatiegebaseerd navigeren in te schakelen, en uit te schakelen waar dat niet nodig is.
 ipprotection-feature-introduction-title-captive-portal = Gebruikt u openbare wifi? Probeer de ingebouwde VPN van { -brand-product-name }.
