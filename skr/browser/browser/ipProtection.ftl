@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = { -brand-product-na
 ipprotection-feature-introduction-link-text-private-browsing-2 = اپݨی لوکیشن لکاوݨ تے اپݨا ڈیٹا بچاوݨ کیتے ساݙا نواں <a data-l10n-name="learn-more-vpn">بلٹ-اِن VPN</a> ورتو، چاہے تساں پرائیویٹ ونڈو وچ ہو۔
 ipprotection-feature-introduction-description-private-browsing = اپݨی لوکیشن لکاوݨ نال ودھیک تحفظ نال براؤز کرو، چاہے تساں پرائیویٹ ونڈو وچ ہو۔
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = براؤز کریندے ویلے آپݨی لوکیشن لُکاوݨ وچ مدد گھنو۔ وی پی این کوں وچوں <a data-l10n-name="learn-more-vpn">ودھیک پرائیویسی</a> یا لوکیشن آلے براؤزنگ کیتے آن کرݨ دے ضابطے بݨاؤ، تے جتھاں ضرورت نہ ہووے اتھاں اوندے توں بند رکھو۔
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = براؤز کرݨ ویلے <a data-l10n-name="learn-more-vpn">ودھیک پرائیویسی</a> کیتے اپݨی لوکیشن لکاؤ۔ ودھیک پرائیویسی یا لوکیشن-بیسڈ براؤزنگ کیتے VPN آن کرݨ دے رولز سیٹ کرو، تے اتھاں بند جتھاں تساں نیں چاہندے۔
 ipprotection-feature-introduction-title-captive-portal = پبلک Wi-Fi تے ہو؟ { -brand-product-name } دا بلٹ-اِن VPN آزماؤ۔
 ipprotection-feature-introduction-description-captive-portal = اپݨی لوکیشن لکاوݨ نال ودھیک تحفظ نال براؤز کرو، چاہے پبلک Wi-Fi تے ہو۔
@@ -123,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = خارج ک
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = ٣٠ جنوری تیکر بے شمار وی پی این مفت گھنو
+ipprotection-holiday-promo-description = بلٹ اِن وی پی این نال آپݨی براؤزنگ کوں پرائیویٹ بݨاؤ تے اوندے پچھوں لگݨ اوکھا کرو۔
 ipprotection-holiday-promo-primary-button = VPN کھولو
 ipprotection-holiday-promo-secondary-button = خارج کرو
 
