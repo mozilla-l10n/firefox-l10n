@@ -122,6 +122,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = סגירה
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = קבלת VPN ללא הגבלה עד ה־30 בינואר
+ipprotection-holiday-promo-description = להפוך את הגלישה שלך לפרטית וקשה יותר למעקב בעזרת VPN מובנה.
 ipprotection-holiday-promo-primary-button = פתיחת VPN
 ipprotection-holiday-promo-secondary-button = סגירה
 
@@ -167,6 +169,8 @@ ipprotection-button-turn-vpn-off = כיבוי VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = כיבוי VPN בכל מקום
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = הפעלה
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = הפעלת VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = בתהליך הפעלה…
@@ -178,6 +182,8 @@ ipprotection-connection-status-excluded-1 = ה־VPN כבוי עבור אתר ז�
     .aria-label = ה־VPN כבוי עבור אתר זה
 ipprotection-connection-status-connecting-1 = ה־VPN מתחבר…
     .aria-label = ה־VPN מתחבר…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = כיבוי
 
 ## Location controls
 
