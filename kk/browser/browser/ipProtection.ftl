@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = { -brand-product-na
 ipprotection-feature-introduction-link-text-private-browsing-2 = Жекелік шолу терезесінде болсаңыз да, орналасқан жеріңізді жасыру және деректеріңізді қорғау үшін жаңа <a data-l10n-name="learn-more-vpn">кірістірілген VPN</a> мүмкіндігін қолданыңыз.
 ipprotection-feature-introduction-description-private-browsing = Жекелік терезесінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Шолу кезінде орналасқан жеріңізді жасыруға көмектесіңіз. <a data-l10n-name="learn-more-vpn">Қосымша жекелік</a> немесе орналасқан жерге негізделген шолу үшін VPN іске қосу үшін, ал қосылмаған жерлерде өшіріу үшін ережелерді орнатыңыз.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Шолу кезінде <a data-l10n-name="learn-more-vpn">қосымша жекелік</a> үшін орналасуыңызды жасыруға көмектесіңіз. Қосымша жекелік немесе орналасуға негізделген шолу үшін VPN-ді қосу, ал қажет емес жерде сөндіру ережелерін орнатыңыз.
 ipprotection-feature-introduction-title-captive-portal = Жалпыға ортақ Wi-Fi желісіндесіз бе? { -brand-product-name } құрамындағы VPN қызметін қолданып көріңіз.
 ipprotection-feature-introduction-description-captive-portal = Қоғамдық Wi-Fi желісінде болсаңыз да, орналасқан жеріңізді жасыру арқылы қосымша қорғаныспен шолыңыз.
