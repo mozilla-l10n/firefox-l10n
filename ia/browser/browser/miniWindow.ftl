@@ -17,6 +17,20 @@ mini-window-audio-unmute =
     .label = Non plus silentiar scheda
     .tooltiptext = Non plus silentiar scheda
 
+## These strings label the buttons on the Screenshots selection overlay while
+## it is being used to pick the region for a Mini Window.
+
+# Dismisses the Mini Window selection overlay without moving the tab.
+screenshots-component-mini-window-cancel-button = Cancellar
+    .aria-label =
+        Cancellar (Esc)
+        Cancel
+    .title =
+        { PLATFORM() ->
+            [macos] Cancellar (esc)
+           *[other] Cancellar (Esc)
+        }
+
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
