@@ -1428,6 +1428,18 @@ fire-button-toolbar-button =
     .tooltiptext = Excluir parte ou todos os dados de navegação
 fire-button-panel-heading = Excluir todos os dados de navegação?
 fire-button-panel-description = Exclui histórico, cookies e dados de sites. Sessões de acesso em sites são encerradas. Esta janela é fechada e o { -brand-short-name } abre uma nova.
+fire-button-panel-choose-description = Se não quiser excluir tudo, escolha dados específicos.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Escolher…
+fire-button-panel-cancel-button =
+    .label = Cancelar
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = Excluir tudo
+    .accesskey = E
+fire-button-panel-complete = Dados de navegação excluídos
 
 ## Autorefresh blocker
 
