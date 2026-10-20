@@ -380,6 +380,8 @@ ip-protection-delete-site-rule-confirm =
 ip-protection-delete-all-site-rules-message = Törli az összes webhelyszabályt?
 ip-protection-delete-all-site-rules-confirm =
     .label = Összes szabály törlése
+ip-protection-delete-site-rule-retry =
+    .label = Próbálja újra
 
 ## IP Protection Bandwidth
 

@@ -62,3 +62,16 @@ move-to-mini-window =
            *[other] Mută într-o fereastră mini
         }
     .accesskey = M
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Selectează partea din pagină pe care o vrei păstrată vizibilă
+mini-window-overlay-instructions = Trage sau dă clic ca să selectezi o zonă de mutat într-o fereastră mini. Va sta deasupra în timp ce navighezi.
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+mini-window-panel-header = Alege ce vrei să muți într-o fereastră mini
+mini-window-panel-move-selection = Mută selecția
+mini-window-panel-move-full-tab = Mută fila întreagă

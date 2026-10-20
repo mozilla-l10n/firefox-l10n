@@ -125,7 +125,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Închide
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Bucură-te de VPN nelimitat până pe 30 ianuarie
+ipprotection-holiday-promo-title = Obține VPN nelimitat până pe 30 ianuarie
 ipprotection-holiday-promo-description = Navighează privat și fii mai greu de urmărit cu VPN-ul integrat.
 ipprotection-holiday-promo-primary-button = Deschide VPN-ul
 ipprotection-holiday-promo-secondary-button = Închide
