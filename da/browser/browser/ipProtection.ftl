@@ -46,6 +46,7 @@ ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
 ipprotection-feature-introduction-button-secondary-remove = Fjern VPN fra værktøjslinjen
 ipprotection-feature-introduction-button-secondary-remove-1 =
     .label = Fjern VPN fra værktøjslinjen
+ipprotection-feature-introduction-button-open-vpn = Åben VPN
 ipprotection-feature-introduction-button-get-started = Kom i gang
 
 ## Summer promo offramp callout buttons
