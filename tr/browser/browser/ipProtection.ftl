@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = { -brand-product-na
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gizli pencerede konumunuzu gizlemek ve verilerinizi korumak için yeni <a data-l10n-name="learn-more-vpn">yerleşik VPN</a>’imizi kullanabilirsiniz.
 ipprotection-feature-introduction-description-private-browsing = Konumunuzu gizleyin, Gizli Pencere’de bile ekstra korumayla gezinin.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = İnternette gezinirken konumunuzu gizleyin. <a data-l10n-name="learn-more-vpn">Daha fazla gizlilik</a> veya konuma dayalı gezinme istediğiniz sitelerde VPN’i açacak, istemediğiniz sitelerde kapatacak kurallar belirleyin.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = İnternette gezinirken <a data-l10n-name="learn-more-vpn">daha fazla gizlilik</a> için konumunuzu gizleyebilirsiniz. Ekstra gizliliğe veya konuma dayalı gezinmeye gerek duyduğunuzda VPN’i açan, gerek kalmadığında kapatan kurallar belirleyebilirsiniz.
 ipprotection-feature-introduction-title-captive-portal = Halka açık bir Wi-Fi ağında mısınız? { -brand-product-name } tarayıcısının yerleşik VPN’ini deneyin.
 ipprotection-feature-introduction-description-captive-portal = Konumunuzu gizleyin, halka açık Wi-Fi ağlarında bile ekstra korumayla gezinin.

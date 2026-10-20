@@ -343,6 +343,27 @@ ip-protection-site-rule-window =
     .title = Սահմանել կանոններ
 ip-protection-edit-site-rule-window =
     .title = Խմբագրել կանոնը
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = Կայք
+    .placeholder = օրինակ՝ haysoft.org
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN կարգավիճակը
+ip-protection-site-rule-status-on =
+    .label = Միշտ միացված
+ip-protection-site-rule-status-off =
+    .label = Միշտ անջատված
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Մուտքագրեք վավեր կայքի հասցե։
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Այս կայքն արդեն ունի կանոն։
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Կանոն ստեղծելիս սխալ առաջացավ։ Խնդրում ենք կրկին փորձել։
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Ջնջե՞լ { $website }-ի կանոնը։
 
 ## IP Protection Bandwidth
 
