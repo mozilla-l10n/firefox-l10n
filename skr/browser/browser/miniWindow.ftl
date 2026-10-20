@@ -5,6 +5,11 @@
 mini-window-close-button =
     .label = بند کرو
     .tooltiptext = بند کرو
+# Moves the tab in the mini window back to the original window
+# it came from.
+mini-window-restore-button =
+    .label = ٹیب واپس گھن آؤ
+    .tooltiptext = ٹیب واپس گھن آؤ
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
@@ -32,13 +37,40 @@ screenshots-component-mini-window-cancel-button = منسوخ
             [macos] منسوخ(ایسکیپ)
            *[other] منسوخ(ایسکیپ)
         }
+# Clears the current selection so the user can select a new region.
+screenshots-component-reselect-button = مُن٘ڈھوں شروع کرو
+    .aria-label = مُن٘ڈھوں شروع کرو
+    .title = مُن٘ڈھوں شروع کرو
 # Opens a selection tool to select a section of a page to
 # open in a smaller window to appear cropped and always on top.
 toolbar-button-mini-window =
     .label = منی ونڈو
     .tooltiptext = منی ونڈو ورتو
+# Opens up the Mini Window section selector tool.
+main-context-menu-use-mini-window =
+    .label = حصہ منی ونڈو تے گھن ون٘ڄو
+    .accesskey = w
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] منی ونڈو تے گھن ون٘ڄو
+            [one] منی ونڈو تے گھن ون٘ڄو
+           *[other] منی ونڈو تے گھن ون٘ڄو
+        }
+    .accesskey = M
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = ورقے دا حصہ منتخب کرو جینکوں سامݨے رکھݨ چاہندے ہو
+mini-window-overlay-instructions = منی ونڈو وچ گھن ون٘ڄݨ کیتے کوئی علاقہ چُݨݨ کیتے گھسیٹو یا کلک کرو۔ جئیں ویلے تساں براؤز کریندے پئے ہوسو، ایہ ساریاں توں اتے راہسی۔
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
+mini-window-panel-header = چُݨو جو منی ونڈو وچ کیا گھن ون٘ڄݨا ہے یا انتخاب کرو جو منی ونڈو وچ کیا منتقل کرن٘ا ہے
+mini-window-panel-move-selection = چݨی ہوئی شئے گھن ون٘ڄو
 mini-window-panel-move-full-tab = پوری ٹیب ٹورو
