@@ -253,6 +253,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Yapıştır ve git
     .accesskey = Y
+urlbar-menuitem-paste-and-search =
+    .label = Yapıştır ve ara
+    .accesskey = Y
 
 ## Searchbar context menu
 

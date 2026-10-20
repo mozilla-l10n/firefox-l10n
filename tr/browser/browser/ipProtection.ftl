@@ -123,6 +123,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Kapat
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = 30 Ocak’a kadar sınırsız VPN’den yararlanın
+ipprotection-holiday-promo-description = Yerleşik VPN ile internette daha gizli gezinin ve takip edilmenizi zorlaştırın.
 ipprotection-holiday-promo-primary-button = VPN’i aç
 ipprotection-holiday-promo-secondary-button = Kapat
 
@@ -168,6 +170,8 @@ ipprotection-button-turn-vpn-off = VPN’i kapat
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = VPN’i her yerde kapat
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Etkinleştir
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = VPN’i aç
 # Button while VPN is connecting
 ipprotection-button-connecting = Açılıyor…
@@ -179,6 +183,8 @@ ipprotection-connection-status-excluded-1 = Bu sitede VPN kapalı
     .aria-label = Bu sitede VPN kapalı
 ipprotection-connection-status-connecting-1 = VPN’e bağlanılıyor…
     .aria-label = VPN’e bağlanılıyor…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Devre dışı bırak
 
 ## Location controls
 
