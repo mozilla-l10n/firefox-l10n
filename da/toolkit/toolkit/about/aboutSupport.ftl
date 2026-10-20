@@ -146,6 +146,7 @@ pdfjs-enabled = Aktiveret
 pdfjs-enabled-annotation-editor = Kommentar-editor aktiveret
 # XFA (XML Form Architecture) refers to Adobe’s technology for forms.
 pdfjs-enabled-xfa = XFA-formularer aktiveret
+pdfjs-open-attachments-inline = Åbn vedhæftede filer i PDF-filer inline
 library-version-title = Biblioteksversioner
 copy-text-to-clipboard-label = Kopier tekst til udklipsholderen
 copy-raw-data-to-clipboard-label = Kopier rå data til udklipsholderen
