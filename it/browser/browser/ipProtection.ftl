@@ -39,8 +39,6 @@ ipprotection-feature-introduction-description-summer-promo = Supera i confini co
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa la nostra nuova <a data-l10n-name="learn-more-vpn">VPN integrata</a> per nascondere la tua posizione e proteggere i tuoi dati, anche quando ti trovi in una finestra anonima
 ipprotection-feature-introduction-description-private-browsing = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi una finestra anonima.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Nascondi la tua posizione mentre navighi. Imposta regole per attivare la VPN sui siti in cui desideri <a data-l10n-name="learn-more-vpn">maggiore privacy</a> o navigare da una posizione specifica e disattivarla dove non serve.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Nascondi la tua posizione per una <a data-l10n-name="learn-more-vpn">maggiore privacy</a> durante la navigazione. Imposta regole per attivare la VPN quando vuoi più privacy o navigare da una posizione specifica e disattivarla dove non serve.
 ipprotection-feature-introduction-title-captive-portal = Sei su una rete Wi-Fi pubblica? Prova la VPN integrata di { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Naviga in modo ancora più sicuro nascondendo la tua posizione, anche quando usi reti Wi-Fi pubbliche.
@@ -125,7 +123,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignora
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = VPN illimitata fino al 30 gennaio
 ipprotection-holiday-promo-description = Naviga in modo più riservato e meno tracciabile grazie alla VPN integrata.
 ipprotection-holiday-promo-primary-button = Apri VPN
 ipprotection-holiday-promo-secondary-button = Ignora
