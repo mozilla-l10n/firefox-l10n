@@ -612,7 +612,7 @@ newtab-travel-menu-learn-more = En savoir plus
 ## Game displays within an iframe with name “Yahoo Solitaire”
 
 # Widget heading; also the widget's accessible name.
-newtab-solitaire-widget-title = solitaire
+newtab-solitaire-widget-title = Solitaire
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-solitaire-widget-open-menu-button =
@@ -937,7 +937,7 @@ newtab-custom-widget-travel-toggle =
 # for one player, also known as patience.
 # Game displays within an iframe with name “Yahoo Solitaire”
 newtab-custom-widget-solitaire-toggle =
-    .label = solitaire
+    .label = Solitaire
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets

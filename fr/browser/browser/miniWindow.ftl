@@ -45,7 +45,7 @@ screenshots-component-reselect-button = Recommencer
 # open in a smaller window to appear cropped and always on top.
 toolbar-button-mini-window =
     .label = Mini-fenêtre
-    .tooltiptext = Utiliser la mini-fenêtre
+    .tooltiptext = Utiliser une mini-fenêtre
 # Opens up the Mini Window section selector tool.
 main-context-menu-use-mini-window =
     .label = Déplacer la section vers la mini-fenêtre
@@ -66,11 +66,11 @@ move-to-mini-window =
 ## what to move into a Mini Window.
 
 mini-window-overlay-header = Sélectionner une partie de la page à garder visible
-mini-window-overlay-instructions = Faites glisser ou cliquez pour sélectionner une zone à déplacer vers une mini-fenêtre. Il restera visible pendant que vous naviguez.
+mini-window-overlay-instructions = Faites glisser le pointeur ou cliquez pour sélectionner la zone à placer dans une mini-fenêtre. Elle restera au premier plan pendant votre navigation.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
-mini-window-panel-header = Choisissez ce que vous souhaitez déplacer dans une mini-fenêtre
+mini-window-panel-header = Sélectionnez le contenu à déplacer dans une mini-fenêtre
 mini-window-panel-move-selection = Déplacer la sélection
 mini-window-panel-move-full-tab = Déplacer tout l’onglet
