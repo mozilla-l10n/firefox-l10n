@@ -52,6 +52,12 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Sin cookies guardadas ni historial, directamente desde su escritorio. Navegue como si nadie le estuviera mirando.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = Ayude a proteger su bandeja de entrada del spam con máscaras de correo electrónico
+about-private-browsing-relay-promo-title = Oculte su dirección real con una máscara de correo electrónico cuando se registre, compre o la comparta en línea.
+about-private-browsing-relay-promo-link-text = Probar las máscaras de correo electrónico
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
@@ -69,7 +75,31 @@ about-private-browsing-felt-privacy-v1-info-link = ¿Quién podría ver mi activ
 
 about-private-browsing-nova-info-body = Al cerrar todas las ventanas privadas se eliminan las cookies, el historial y los datos del sitio.
 about-private-browsing-nova-info-link = ¿Quién podría seguir viendo mi actividad?
+about-private-browsing-private-window-basics-link = Aspectos básicos de las ventanas privadas
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } está diseñado para proteger su privacidad mientras navega, con protecciones contra el rastreo integradas. Al cerrar esta ventana se eliminan su historial, cookies y datos del sitio para mantener su navegación privada frente a otras personas que usen este dispositivo.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = El historial de navegación se eliminará.
+about-private-browsing-nova-info-subheader2 = Eliminaremos todas las búsquedas e inicios de sesión cuando cierre todas sus ventanas privadas. Las protecciones integradas de { -brand-short-name }, como el bloqueo de rastreadores, también están activas aquí.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Aspectos básicos de las ventanas privadas
+about-private-browsing-spotlight-basics-subtitle = Las ventanas privadas ayudan a mantener su navegación privada frente a otras personas que usen este dispositivo. No le hacen anónimo ni borran todos sus datos.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Lo que debe saber
+about-private-browsing-spotlight-basics-activity-seen = Es posible que los sitios, los buscadores, los proveedores de internet o su empresa sigan viendo parte de su actividad.
+about-private-browsing-spotlight-basics-bookmarks-downloads = Los marcadores y las descargas permanecen en su dispositivo y pueden aparecer en la barra de direcciones.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Más protecciones de privacidad
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } le avisa automáticamente sobre software malicioso y sitios engañosos.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } pide automáticamente a los sitios participantes que no vendan ni compartan sus datos personales.
+about-private-browsing-spotlight-basics-vpn = Use la VPN integrada para que su ubicación sea más difícil de rastrear.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = Cambie a Estricto en los ajustes para obtener una mayor protección contra el rastreo.
+about-private-browsing-spotlight-basics-learn-more = Saber más
