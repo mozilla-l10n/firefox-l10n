@@ -241,8 +241,11 @@ urlbar-split-view-button =
 ## URLbar context menu
 
 urlbar-menuitem-paste-and-go =
-    .label = Ievietot un atvērt
-    .accesskey = e
+    .label = Ielīmēt un atvērt
+    .accesskey = a
+urlbar-menuitem-paste-and-search =
+    .label = Ielīmēt un meklēt
+    .accesskey = m
 
 ## Searchbar context menu
 
