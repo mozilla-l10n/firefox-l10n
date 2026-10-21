@@ -28,6 +28,10 @@ screenshots-component-mini-window-cancel-button = Ακύρωση
             [macos] Ακύρωση (esc)
            *[other] Ακύρωση (Esc)
         }
+# Clears the current selection so the user can select a new region.
+screenshots-component-reselect-button = Νέα επιλογή
+    .aria-label = Νέα επιλογή
+    .title = Νέα επιλογή
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
