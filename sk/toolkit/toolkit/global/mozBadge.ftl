@@ -7,4 +7,4 @@
 ## labels or buttons to indicate "New" or in "Beta".
 
 moz-badge-beta2 = BETA
-moz-badge-new2 = NOVÉ
+moz-badge-new2 = NOVINKA
