@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = ისტორიის სრულად გასუფთავება
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = დათვალიერების მონაცემების წაშლა
 clear-data-settings-label = როცა { -brand-short-name } დაიხურება, სრულად წაიშლება
 sanitize-on-shutdown-description = ყველა შერჩეული თავისთავად გასუფთავდება, როცა { -brand-short-name } დაიხურება.
 
@@ -116,6 +123,14 @@ sanitize-button-ok2 =
     .label = გასუფთავება
 sanitize-button-ok-on-shutdown =
     .label = ცვლილებების შენახვა
+# Confirm button used whenever this dialog is opened to delete data, whichever
+# entry point it was opened from.
+sanitize-button-delete =
+    .label = წაშლა
+# Icon-only button in the dialog's top right corner. Dismisses the dialog
+# without deleting anything, the same as the Cancel button.
+sanitize-dialog-close-button =
+    .title = დახურვა
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =

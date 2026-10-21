@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = წარმოსახვითი სინამდვილის მოწყობილობებთან წვდომის ახალი მოთხოვნების შეზღუდვა
 permissions-site-xr-disable-desc = შედეგად, ყველა ვებსაიტს, რომლებიც ზემოთ არ იქნება მითითებული, აეკრძალება წარმოსახვითი სინამდვილის თქვენს მოწყობილობებთან წვდომა. წარმოსახვითი სინამდვილის მოწყობილობებთან წვდომის შეზღუდვის გამო შესაძლოა, ვებსაიტის ზოგიერთმა შესაძლებლობამ ვერ იმუშაოს.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = პარამეტრები – შეზღუდული საიტები პროგრამული ბმულებისთვის
+permissions-site-app-links-desc = ამ საიტებს ეკრძალება პროგრამული ბმულების გახსნის მოთხოვნა, მაგალითად ელფოსტისთვის (mailto:). მოაცილეთ საიტი მოთხოვნის ხელახალი ნებართვისთვის.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

@@ -1795,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = აირჩიეთ საიტები, რომელთაც შეეძლება გაფართოებების დაყენება
     .accesskey = გ
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = საიტებისთვის მოთხოვნის ნებართვა პროგრამული ბმულების გასახსნელად.
+    .accesskey = ს
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = შეზღუდული საიტების მართვა
+    .accesskey = დ
 permissions-location2 =
     .label = მდებარეობა
 permissions-localhost2 =

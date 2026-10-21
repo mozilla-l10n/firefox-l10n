@@ -398,12 +398,18 @@ onboarding-checklist-remove-2 = შესასრულებელი სი�
 
 tab-groups-onboarding-feature-callout-title = მოსინჯეთ ჩანართების დაჯგუფება არეულობის ასარიდებლად და ყურადღების მოსაკრებად
 tab-groups-onboarding-feature-callout-subtitle = დაალაგეთ ჩანართები ერთიმეორის ზემოთ მოქცევით, რომ შეიქმნას პირველი ჯგუფი.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = ნებისმიერ დროს მონახეთ თქვენი ჩანართის ჯგუფები „ჩანართების ძიებისა და მართვის“ მენიუში
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = ნებისმიერ დროს მონახეთ თქვენი ჩანართის ჯგუფები ყველა ჩანართის მენიუში.
 tab-groups-onboarding-create-group-no-alltabs-button-title = მონახეთ თქვენი ჯგუფები მისამართების ველში მოძიებით.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = ჩანართის ჯგუფის დახურვის შემდგომ ნებისმიერ დროს შეგეძლებათ მისი დაბრუნება „ჩანართების ძიებისა და მართვის“ მენიუდან.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = ჩანართის ჯგუფის დახურვის შემდგომ, ნებისმიერ დროს შეგეძლებათ მისი დაბრუნება ყველა ჩანართის მენიუდან.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = მონახეთ დახურული ჯგუფები მისამართების ველში მოძიებით.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = ნებისმიერ დროს დააბრუნეთ თქვენი ჩანართის ჯგუფები „ჩანართების ძიებისა და მართვის“ მენიუდან.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = ნებისმიერ დროს შეგეძლებათ თქვენი ჩანართის ჯგუფები კვლავ გახსნათ ყველა ჩანართის მენიუდან.
 tab-groups-onboarding-dismiss = კარგი

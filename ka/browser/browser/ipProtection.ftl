@@ -318,14 +318,19 @@ ip-protection-site-rules-delete-all-button =
     .label = ყველა წესის წაშლა
 ip-protection-site-rules-empty = მითითებული წესები აქ გამოჩნდება.
 # Shown on a website whose rule turns the VPN on for it
-ip-protection-site-rules-rule-included = VPN მუდამ ჩართულია
+ip-protection-site-rules-rule-included = VPN მუდამ ჩართული
 # Shown on a website whose rule turns the VPN off for it
-ip-protection-site-rules-rule-excluded = VPN მუდამ გამორთულია
+ip-protection-site-rules-rule-excluded = VPN მუდამ გამორთული
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-site-rules-edit-button =
     .aria-label = წესის ჩასწორება, როცა იხსნება { $website }
     .title = ჩასწორება
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-delete-button =
+    .aria-label = წესის მიუთითებლად დარჩება { $website }
+    .title = წაშლა
 ip-protection-site-rules-header =
     .heading = საიტის წესების მართვა
 ip-protection-site-rules-button =
@@ -359,6 +364,8 @@ ip-protection-site-rule-dialog =
 ip-protection-edit-site-rule-dialog =
     .buttonlabelaccept = შენახვა
     .buttonaccesskeyaccept = ხ
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = შეიყვანეთ საიტი და მიუთითეთ, რა მდგომარეობაში დარჩეს VPN.
 # "ex:" is short for "example".
 ip-protection-site-rule-website-field =
     .label = ვებსაიტი
@@ -377,6 +384,9 @@ ip-protection-site-rule-duplicate-error = ამ საიტს უკვე �
 # Shown at the top of the dialog when the rule could not be saved.
 ip-protection-site-rule-save-error =
     .message = შეცდომა წესის შექმნისას. გთხოვთ, კვლავ სცადოთ.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = წესის მიუთითებლად დარჩება { $website }
 ip-protection-delete-site-rule-cancel =
     .label = გაუქმება
 ip-protection-delete-site-rule-confirm =
