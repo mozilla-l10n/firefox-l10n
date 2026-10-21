@@ -22,7 +22,3 @@ view-source-selection-title = Sorgente DOM della selezione
 view-source-context-go-to-line =
     .label = Vai alla riga…
     .accesskey = L
-view-source-context-wrap-long-lines =
-    .label = A capo automatico
-view-source-context-highlight-syntax =
-    .label = Evidenzia sintassi
