@@ -446,6 +446,8 @@ main-context-menu-reveal-password =
     .accesskey = D
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Newydd
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = Beta
 main-context-menu-pdfjs-copy-page =
     .label = Copïo tudalen
 main-context-menu-pdfjs-cut-page =

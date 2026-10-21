@@ -261,6 +261,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Gludo a Mynd
     .accesskey = G
+urlbar-menuitem-paste-and-search =
+    .label = Gludo a Chwilio. lle
+    .accesskey = G
 
 ## Searchbar context menu
 
