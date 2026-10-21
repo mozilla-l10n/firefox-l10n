@@ -39,6 +39,8 @@ ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda
 ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-2 = Helpwch i guddio'ch lleoliad wrth i chi bori. Gosodwch reolau i droi VPN ymlaen ar gyfer <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> neu bori ar sail lleoliad, neu i ffwrdd pan nad oes ei angen.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Helpwch i guddio'ch lleoliad ar gyfer <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> wrth i chi bori. Gosodwch reolau i droi'r VPN ymlaen ar gyfer preifatrwydd ychwanegol neu bori ar sail lleoliad, a ei ddiffodd lle nad ydych chi.
 ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN cynhenid { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
@@ -123,6 +125,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Cau
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = Cael VPN diderfyn tan Ionawr 30
+ipprotection-holiday-promo-description = Gwnewch eich pori'n breifat ac yn anoddach ei olrhain gyda VPN cynhenid .
 ipprotection-holiday-promo-primary-button = Agor y VPN
 ipprotection-holiday-promo-secondary-button = Cau
 
@@ -168,6 +172,8 @@ ipprotection-button-turn-vpn-off = Diffodd y VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Diffodd VPN ym mhobman
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Troi ymlaen
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Troi VPN ymlaen
 # Button while VPN is connecting
 ipprotection-button-connecting = Yn ei droi ymlaen…
@@ -179,6 +185,8 @@ ipprotection-connection-status-excluded-1 = Mae VPN i ffwrdd ar y wefan hon
     .aria-label = Mae VPN i ffwrdd ar y wefan hon
 ipprotection-connection-status-connecting-1 = Mae VPN yn cysylltu…
     .aria-label = Mae VPN yn cysylltu…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Troi i ffwrdd
 
 ## Location controls
 
