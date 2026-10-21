@@ -57,8 +57,8 @@ move-to-mini-window =
     .label =
         { $tabCount ->
             [1] Do miniwokna pśesunuś
-            [one] Do miniwoknowu pśesunuś
-            [two] Do miniwoknow pśesunuś
+            [one] Do miniwokna pśesunuś
+            [two] Do miniwoknowu pśesunuś
             [few] Do miniwoknow pśesunuś
            *[other] Do miniwoknow pśesunuś
         }
