@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = ვინაიდან აირჩი
 genai-settings-chat-lechat-links-2 = ვინაიდან აირჩიეთ Mistral Vibe, ეთანხმებით <a data-l10n-name="link1">მომსახურების პირობებსა</a> და <a data-l10n-name="link2">პირადულობის დებულებას</a>, რომელსაც ადგენს Mistral AI.
 genai-settings-chat-lechat-links = ვინაიდან აირჩიეთ Le Chat Mistral, ეთანხმებით <a data-l10n-name="link1">მომსახურების პირობებსა</a> და <a data-l10n-name="link2">პირადულობის დებულებას</a>, რომელსაც ადგენს Mistral AI.
 genai-settings-chat-localhost-links = დაამატეთ თქვენი საკუთარი ადგილობრივი თანამოსაუბრე, როგორიცაა <a data-l10n-name="link1">llamafile</a>, რომელსაც გთავაზობთ სიახლეების დამნერგავი საზოგადოება { -vendor-short-name }.
+genai-settings-chat-scout-links = ვინაიდან აირჩიეთ Yahoo Scout, ეთანხმებით <a data-l10n-name="link1">მომსახურების პირობებსა</a> და <a data-l10n-name="link2">პირადულობის დაცვის განაცხადს</a>, რომელსაც ადგენს Yahoo.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -180,6 +181,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = გამოიყენეთ AI-თანამოსაუბრე ჩანართების გადაურთველად.
@@ -246,6 +249,11 @@ highlight-to-search-settings-ask-provider =
     .label = გიპასუხებთ { $provider }
 highlight-to-search-settings-ask-generic =
     .label = ჰკითხეთ ხელგონს
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = ძიება
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = გსურთ, უფრო ვრცლად იხილოთ ხელგონით?
 # Message that appears when user is shown the opt-in flow for link previews

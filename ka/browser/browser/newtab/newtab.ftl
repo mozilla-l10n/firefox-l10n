@@ -475,6 +475,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = დღის სურათი · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = დღის სურათი
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = დღის სურათი: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -513,6 +517,10 @@ newtab-picture-set-wallpaper =
     .title = ფონად დაყენება
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = ფონის მართვა
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = ამ სურათის დამალვა
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = სურათის ჩვენება
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = დღის სურათის დამალვა
@@ -520,6 +528,10 @@ newtab-picture-menu-hide-photo = დღის სურათის დამა
 newtab-picture-menu-show-photo = დღის სურათის ჩვენება
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = ვრცლად
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = სურათის ჩვენება
+    .title = სურათის ჩვენება
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = დღის სურათის ჩვენება
@@ -571,6 +583,11 @@ newtab-recent-searches-empty-trending = ხშირად მოძიებუ
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = ჰოროსკოპი
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = ჰოროსკოპის მენიუს გახსნა
+    .title = ჰოროსკოპის მენიუს გახსნა
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = ჰოროსკოპის პარამეტრები
@@ -579,8 +596,30 @@ newtab-horoscopes-menu-learn-more = ვრცლად
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = მოგზაურობა
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = მოგზაურობის მენიუს გახსნა
+    .title = მოგზაურობის მენიუს გახსნა
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = ვრცლად
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = პასიანსი
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = პასიანსის მენიუს გახსნა
+    .title = პასიანსის მენიუს გახსნა
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = ვრცლად
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -890,6 +929,15 @@ newtab-custom-widget-search-toggle =
     .label = ძიება
 newtab-custom-widget-horoscopes-toggle =
     .label = ჰოროსკოპი
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = მოგზაურობა
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = პასიანსი
 newtab-custom-widget-section-title = ჩანამატები
 newtab-custom-widget-section-toggle =
     .label = ჩანამატები

@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = ვიდეოს ფორმატი
 videocontrols-error-no-source = ვიდეო არაა მხარდაჭერილი ფორმატის ან MIME-სახეობის.
 videocontrols-error-generic = ვიდეოს გაშვება შეწყდა, გაურკვეველი შეცდომის გამო.
 videocontrols-status-picture-in-picture = ვიდეო გაშვებულია რეჟიმით ეკრანი-ეკრანში.
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = ვიდეო გაშვებულია რეჟიმით ეკრანი-ეკრანში.
 # This message shows the current position and total video duration
 #
 # Variables:

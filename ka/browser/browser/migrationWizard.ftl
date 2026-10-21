@@ -52,6 +52,17 @@ migration-no-permissions-message = { -brand-short-name } ვერ ახერ�
 migration-no-permissions-instructions = რომ განაგრძოს მონაცემების გადმოტანა სხვა ბრაუზერიდან, { -brand-short-name } საჭიროებს მის პროფილთან წვდომის ნებართვას.
 migration-no-permissions-instructions-step1 = აირჩიეთ „გაგრძელება“
 # The second step in getting permissions to read data for the selected
+# browser type. On macOS, the file picker already opens in the folder that
+# needs to be selected.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2-2 =
+    { PLATFORM() ->
+        [macos] ფაილების ასარჩევში მიუთითეთ „გახსნა“
+       *[other] ფაილების ასარჩევში მონახეთ <code>{ $permissionsPath }</code> და დააჭირეთ „არჩევას“
+    }
+# The second step in getting permissions to read data for the selected
 # browser type.
 #
 # Variables:

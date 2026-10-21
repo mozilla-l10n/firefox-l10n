@@ -253,6 +253,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = ჩასმა და გადასვლა
     .accesskey = ჩ
+urlbar-menuitem-paste-and-search =
+    .label = ჩასმა და მოძიება
+    .accesskey = ს
 
 ## Searchbar context menu
 
@@ -451,6 +454,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = ჩასწორების შესაძლებლობა შენახვისას
     .accesskey = ჩ
+bookmark-panel-save-button2 =
+    .label = შენახვა
+    .accesskey = ხ
 bookmark-panel-save-button =
     .label = შენახვა
 # Width of the bookmark panel.
@@ -1299,6 +1305,9 @@ tabs-toolbar =
     .aria-label = ბრაუზერის ჩანართები
 tabs-toolbar-new-tab =
     .label = ახალი ჩანართი
+tabs-toolbar-list-all-tabs-2 =
+    .label = მოძებნეთ და მართეთ ჩანართები
+    .tooltiptext = მოძებნეთ და მართეთ ჩანართები
 tabs-toolbar-list-all-tabs =
     .label = ყველა ჩანართის სია
     .tooltiptext = ყველა ჩანართის სია
@@ -1411,6 +1420,14 @@ reset-pbm-panel-complete = პირადი სეანსის მონა
 reset-pbm-toolbar-button2 =
     .label = პირადი სეანსის გასუფთავება
     .tooltiptext = პირადი სეანსის გასუფთავება
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = წაშალეთ ნაწილობრივ ან სრულად დათვალიერების მონაცემები
+    .tooltiptext = წაშალეთ ნაწილობრივ ან სრულად დათვალიერების მონაცემები
+fire-button-panel-heading = წაიშალოს დათვალიერების მონაცემების?
 
 ## Autorefresh blocker
 

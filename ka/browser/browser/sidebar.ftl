@@ -52,6 +52,12 @@ sidebar-history-sort-option-last-visited =
     .label = ბოლოს ნანახით
 sidebar-history-sort-option-most-visited =
     .label = ხშირად მონახულებული
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = დანაკლისს გრძნობთ? გადმოიტანეთ ისტორია სხვა ბრაუზერიდან.
+sidebar-history-import-promo-button =
+    .label = გადმოტანა – { -brand-short-name }
 
 ## Labels for sidebar search
 
