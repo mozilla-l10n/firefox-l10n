@@ -168,8 +168,10 @@ link-preview-generation-error-unexpected = Нещо се обърка.
 # Text for the retry link when generation fails
 link-preview-generation-retry = Нов опит
 link-preview-settings-enable =
-    .description = Вижте заглавието, описанието и други неща, когато използвате прекия път или щракнете с десен бутон върху връзката.
-    .label = Включване на визуализациите на връзки
+    .description = Вижте заглавието, описанието и други подробности за дадена връзка, когато задържите левия бутон на мишката или чрез контекстното меню.
+    .label = Преглед на връзки
+link-preview-settings-long-press =
+    .label = С ляв бутон на мишката: кликнете и задръжте върху връзката за 1 секунда (продължително натискане)
 # Onboarding card title for long press
 link-preview-onboarding-title-long-press = Ново: Щракнете и задръжте върху препратка за бърз преглед
 # Header for the key points section
