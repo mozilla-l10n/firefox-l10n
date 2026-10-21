@@ -196,6 +196,10 @@ about-glean-store-submitted-pings-select-label = კრებული:
 about-glean-store-submitted-pings =
     .description = აამოქმედებს წარდგენილი კრებულების მეხსიერებაში შენახვას
     .label = წარმოდგენილი კრებულების შენახვა
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = კლიენტის შესახებ
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = უწყების შესახებ
 
 ## These labels are displayed to organize the different ping types within the dropdown.
 

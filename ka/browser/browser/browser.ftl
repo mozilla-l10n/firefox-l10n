@@ -1428,6 +1428,19 @@ fire-button-toolbar-button =
     .label = წაშალეთ ნაწილობრივ ან სრულად დათვალიერების მონაცემები
     .tooltiptext = წაშალეთ ნაწილობრივ ან სრულად დათვალიერების მონაცემები
 fire-button-panel-heading = წაიშალოს დათვალიერების მონაცემების?
+fire-button-panel-description = წაიშლება ისტორია, ფუნთუშები და საიტის მონაცემები. გამოხვალთ საიტებიდანაც. ეს ფანჯარა დაიხურება და { -brand-short-name } გახსნის ახალს.
+fire-button-panel-choose-description = თუ არ გსურთ ყველაფრის წაშლა, სანაცვლოდ აირჩიეთ ცალკეული მონაცემები.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = არჩევა…
+fire-button-panel-cancel-button =
+    .label = გაუქმება
+    .accesskey = გ
+fire-button-panel-confirm-button =
+    .label = ყველას წაშლა
+    .accesskey = ყ
+fire-button-panel-complete = დათვალიერების მონაცემები წაშლილია
 
 ## Autorefresh blocker
 
