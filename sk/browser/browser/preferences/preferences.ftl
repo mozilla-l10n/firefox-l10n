@@ -1004,26 +1004,26 @@ search-section =
 ## Containers Section
 
 containers-section-header2 =
-    .heading = Nastavenia kontajnera
+    .heading = Nastavenia kontajnerov
 containers-card-header2 =
-    .description = Oddeľte súbory cookie podľa kontajnera, aby ste mohli používať rôzne účty na tej istej stránke a obmedziť sledovanie medzi stránkami.
+    .description = Oddeľujú súbory cookie podľa kontajnera, aby ste mohli používať rôzne účty na tej istej stránke a obmedziť sledovanie medzi stránkami.
     .label = Kontajnery
 containers-add-button2 =
     .label = Pridať nový kontajner
     .accesskey = P
 containers-new-tab-check3 =
     .label = Zobraziť výber kontajnera pri otvorení novej karty
-    .accesskey = k
+    .accesskey = Z
 # Checkbox in the Containers settings. By default, when a link is opened from
 # another application, Firefox tries to pick a matching container for it. When
 # this checkbox is checked, such links always open outside of any container.
 containers-external-links-check =
     .label = Nepoužívať kontajnery pre odkazy otvorené z externých aplikácií
-    .accesskey = k
+    .accesskey = N
 containers-new-tab-check2 =
     .description = Toto otvorí ponuku kontajnerov vždy, keď stlačíte tlačidlo na otvorenie novej karty.
     .label = Zobraziť výber kontajnera pri otvorení novej karty
-    .accesskey = k
+    .accesskey = Z
 containers-settings-button2 =
     .title = Nastavenia
 containers-remove-button3 =
