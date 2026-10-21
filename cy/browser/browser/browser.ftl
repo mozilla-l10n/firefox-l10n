@@ -262,7 +262,7 @@ urlbar-menuitem-paste-and-go =
     .label = Gludo a Mynd
     .accesskey = G
 urlbar-menuitem-paste-and-search =
-    .label = Gludo a Chwilio. lle
+    .label = Gludo a Chwilio.
     .accesskey = G
 
 ## Searchbar context menu

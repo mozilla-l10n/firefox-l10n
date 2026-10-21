@@ -77,3 +77,4 @@ mini-window-overlay-instructions = Llusgwch neu clicio'r dewis ardal i symud i F
 
 mini-window-panel-header = Dewiswch beth i'w symud i Ffenestr Fach
 mini-window-panel-move-selection = Symud y dewis
+mini-window-panel-move-full-tab = Symud tab llawn

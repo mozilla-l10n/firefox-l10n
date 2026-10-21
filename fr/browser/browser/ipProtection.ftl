@@ -125,7 +125,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorer
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Obtenez un VPN en illimité jusqu’au 30 janvier
+ipprotection-holiday-promo-title = Profitez d’un VPN en illimité jusqu’au 30 janvier
 ipprotection-holiday-promo-description = Rendez votre navigation privée et plus difficile à tracer grâce au VPN intégré.
 ipprotection-holiday-promo-primary-button = Ouvrir le VPN
 ipprotection-holiday-promo-secondary-button = Ignorer

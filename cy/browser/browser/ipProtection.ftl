@@ -126,7 +126,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Cau
 ## Holiday Promotion Callout
 
 ipprotection-holiday-promo-title = Cael VPN diderfyn tan Ionawr 30
-ipprotection-holiday-promo-description = Gwnewch eich pori'n breifat ac yn anoddach ei olrhain gyda VPN cynhenid .
+ipprotection-holiday-promo-description = Gwnewch eich pori'n breifat ac yn anoddach ei olrhain gyda VPN cynhenid.
 ipprotection-holiday-promo-primary-button = Agor y VPN
 ipprotection-holiday-promo-secondary-button = Cau
 
