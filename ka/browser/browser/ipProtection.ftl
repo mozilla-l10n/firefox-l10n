@@ -124,6 +124,8 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = აცი�
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-title = მიიღეთ VPN შეუზღუდავად 30 იანვრამდე
+ipprotection-holiday-promo-description = გახადეთ გვერდების მონახულება მეტად პირადი და ძნელად მისადევნებელი, ჩაშენებული VPN-ის მეშვეობით.
 ipprotection-holiday-promo-primary-button = გახსენით VPN
 ipprotection-holiday-promo-secondary-button = აცილება
 
@@ -309,6 +311,19 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = ვებსაიტის პარამეტრების მართვა
 ip-protection-exclusions-desc = გამოიყენეთ VPN ყველა ვებსაიტზე, გარდა ამ სიაში შეტანილებისა. დაამატეთ ვებსაიტი აქვე ან, როცა VPN გაიხსნება.
+ip-protection-delete-site-rule-cancel =
+    .label = გაუქმება
+ip-protection-delete-site-rule-confirm =
+    .label = წაშლა
+ip-protection-delete-all-site-rules-message = წაიშალოს საიტის ყველა წესი?
+ip-protection-delete-all-site-rules-confirm =
+    .label = ყველა წესის წაშლა
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = წესის წაშლა ვერ მოხერხდა
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = წესების წაშლა ვერ მოხერხდა
+ip-protection-delete-site-rule-retry =
+    .label = ხელახლა ცდა
 
 ## IP Protection Bandwidth
 
