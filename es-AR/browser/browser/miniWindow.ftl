@@ -5,6 +5,11 @@
 mini-window-close-button =
     .label = Cerrar
     .tooltiptext = Cerrar
+# Moves the tab in the mini window back to the original window
+# it came from.
+mini-window-restore-button =
+    .label = Volver pestaña a la original
+    .tooltiptext = Volver pestaña a la original
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
