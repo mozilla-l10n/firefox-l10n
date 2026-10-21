@@ -72,3 +72,7 @@ about-glean-button-dictionary-link = ਦਸਤਾਵੇਜ਼
 about-glean-button-watch = ਨਿਗਰਾਨੀ
 # Meaning "to stop watching"
 about-glean-button-unwatch = ਨਿਗਰਾਨੀ ਹਟਾਓ
+# Header for a section that shows client information
+about-glean-submitted-ping-client-info-title = ਕਲਾਂਈਟ ਜਾਣਕਾਰੀ
+# Header for a section that shows Ping information
+about-glean-submitted-ping-ping-info-title = ਪਿੰਗ ਜਾਣਕਾਰੀ

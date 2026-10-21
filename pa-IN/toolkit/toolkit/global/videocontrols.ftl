@@ -45,6 +45,8 @@ videocontrols-error-src-not-supported = ਵਿਡੀਓ ਫਾਰਮੈਟ ਜ�
 videocontrols-error-no-source = ਸਹਾਇਕ ਫਾਰਮੈਟ ਤੇ MIME ਕਿਸਮ ਵਾਲੀ ਕੋਈ ਵਿਡੀਓ ਨਹੀਂ ਲੱਭੀ।
 videocontrols-error-generic = ਵੀਡੀਓ ਪਲੇਅਬੈਕ ਨੂੰ ਅਣਜਾਣ ਕਾਰਨ ਕਰਕੇ ਛੱਡਿਆ ਗਿਆ।
 videocontrols-status-picture-in-picture = ਇਹ ਵਿਡੀਓ ਤਸਵੀਰ-'ਚ-ਤਸਵੀਰ ਢੰਗ ਚੱਲ ਰਿਹਾ ਹੈ।
+# Android counterpart of videocontrols-status-picture-in-picture.
+videocontrols-status-picture-in-picture-android = ਵਿਡੀਓ ਤਸਵੀਰ-'ਚ-ਤਸਵੀਰ ਢੰਗ ਵਿੱਚ ਚੱਲ ਰਹੀ ਹੈ
 # This message shows the current position and total video duration
 #
 # Variables:
