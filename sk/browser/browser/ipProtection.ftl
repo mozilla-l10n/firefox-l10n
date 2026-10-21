@@ -101,7 +101,7 @@ ipprotection-site-settings-callout-button = Rozumiem
 
 ## Location selection callout
 
-ipprotection-location-selection-callout-title = Nové: Zmeňte svoju polohu
+ipprotection-location-selection-callout-title = Novinka: Zmeňte svoju polohu
 ipprotection-location-selection-callout-description-1 = Vstavaná sieť VPN od <a data-l10n-name="learn-more-vpn">{ -brand-product-name(case: "gen") }</a> vám umožňuje vybrať si z niekoľkých rôznych lokalít pre vaše prehliadanie. Alebo vám vyberieme pre vás tú najrýchlejšiu.
 ipprotection-location-selection-callout-primary-button = Vyskúšajte to
 ipprotection-location-selection-callout-secondary-button = Zavrieť

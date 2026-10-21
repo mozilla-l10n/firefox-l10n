@@ -418,7 +418,7 @@ tab-group-context-move-to-this-window =
 # tab group and open the content sharing dialog. Share is a verb here.
 # .badge labels this menu item as a newly introduced feature.
 tab-group-context-share-group =
-    .badge = Nové
+    .badge = NOVINKA
     .label = Zdieľať skupinu
 # For a tab group that is open in any window, close the tab group and
 # do not save it. For a tab group that is closed but saved by the user, clicking
@@ -496,7 +496,7 @@ tab-context-separate-split-view =
 tab-context-reverse-split-view =
     .label = Otočiť poradie kariet
     .accesskey = O
-tab-context-badge-new = Nové
+tab-context-badge-new = NOVINKA
 # The label of a badge shown in menu items to call out features that are in beta.
 tab-context-badge-beta = Beta
 # Split view tabs display their respective contents side by side

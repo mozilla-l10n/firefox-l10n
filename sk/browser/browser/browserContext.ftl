@@ -445,7 +445,7 @@ main-context-menu-reveal-password =
     .label = Odhaliť heslo
     .accesskey = h
 # The label of a badge shown in menu items to call out new features.
-main-context-menu-new-feature-badge = Nové
+main-context-menu-new-feature-badge = Novinka
 # The label of a badge shown in menu items to call out features that are in beta.
 main-context-menu-beta-feature-badge = Beta
 main-context-menu-pdfjs-copy-page =

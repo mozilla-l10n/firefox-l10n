@@ -84,7 +84,7 @@ genai-shortcut-more-actions-button =
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Opýtať sa { $provider }
-genai-menu-new-badge = Nové
+genai-menu-new-badge = Novinka
 genai-menu-summarize-page = Vytvor súhrn stránky
 genai-input-ask-smart-window =
     .placeholder = Opýtať sa…
@@ -265,7 +265,7 @@ link-preview-optin-title = Chcete vidieť viac s pomocou umelej inteligencie?
 # Message that appears when user is shown the opt-in flow for link previews
 link-preview-optin-message = { -brand-short-name } používa umelú inteligenciu na čítanie začiatku stránky a generovanie niekoľkých jej kľúčových bodov. Aby sa uprednostnilo vaše súkromie, deje sa to na vašom zariadení.
 # Onboarding card title for long press
-link-preview-onboarding-title-long-press = Nové: Kliknite a podržte ľubovoľný odkaz a zobrazí sa ukážka
+link-preview-onboarding-title-long-press = Novinka: Kliknite a podržte ľubovoľný odkaz a zobrazí sa ukážka
 # Onboarding card description for long press
 link-preview-onboarding-description-long-press = Pozrite si krátky popis, čas na prečítanie a ďalšie informácie, aby ste sa rozhodli, či sa oplatí odkaz otvoriť. Dostupné aj po kliknutí pravým tlačidlom myši.
 # Header for the key points section
