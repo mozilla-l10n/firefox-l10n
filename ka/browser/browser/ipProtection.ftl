@@ -41,7 +41,7 @@ ipprotection-feature-introduction-description-private-browsing = იმოგზ
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-2 = გეხმარებათ თქვენი ადგილმდებარეობის დამალვაში გვერდების მონახულებისას. გამართეთ წესები, რომ ჩართოთ VPN <a data-l10n-name="learn-more-vpn">დამატებითი პირადულობისთვის</a> ან სხვა მდებარეობაზე მორგებული გვერდების მოსანახულებლად, ასევე გამორთეთ მხოლოდ იქ, სადაც არ გჭირდებათ.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-1 = გააუმჯობესეთ ადგილმდებარეობის დამალვით <a data-l10n-name="learn-more-vpn">პირადულობა</a> გვერდების მონახულებისას. მიუთითეთ წესები, როდის ჩარითოს VPN გაუმჯობესებული პირადულობისთვის ან ადგილმდებარეობაზე მიბმული გვერდების მოსანახულებლად და როდის დარჩეს გამორთული.
+ipprotection-feature-introduction-description-private-browsing-1 = გააუმჯობესეთ ადგილმდებარეობის დამალვით <a data-l10n-name="learn-more-vpn">პირადულობა</a> გვერდების მონახულებისას. მიუთითეთ წესები, როდის ჩაირთოს VPN გაუმჯობესებული პირადულობისთვის ან მდებარეობაზე მორგებული გვერდების მოსანახულებლად და როდის დარჩეს გამორთული.
 ipprotection-feature-introduction-title-captive-portal = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის საჯარო WiFi-ქსელებში.
 # Used for discovery callouts for both captive portal login and private browsing
@@ -117,7 +117,8 @@ ipprotection-android-promo-callout-primary-button = გასაგებია
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = მომართეთ ჩაშენებული VPN წესებით და დაიწყეთ თვალიერება
 ipprotection-site-inclusions-callout-title-lapsed-users = გამოცადეთ ჩაშენებული VPN, ახლა უკვე საიტების მიხედვით
-ipprotection-site-inclusions-callout-description = ჩართეთ, როცა გსურთ გაუმჯობესებული პირადულობა ან ადგილმდებარეობაზე მიბმული გვერდების მონახულება და გამორთეთ, როცა არ გჭირდებათ.
+ipprotection-site-inclusions-callout-description-1 = ჩართეთ VPN, როცა გსურთ გაუმჯობესებული პირადულობა ან მდებარეობაზე მორგებული გვერდების მონახულება და გამორთეთ, როცა არ გჭირდებათ.
+ipprotection-site-inclusions-callout-description = ჩართეთ, როცა გსურთ გაუმჯობესებული პირადულობა ან მდებარეობაზე მორგებული გვერდების მონახულება და გამორთეთ, როცა არ გჭირდებათ.
 ipprotection-site-inclusions-callout-primary-button = წესების მითითება
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ახლა არა
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = აცილება
@@ -154,6 +155,12 @@ site-rules-status-heading = თქვენი წესი
 site-rules-description-exclusion = VPN გამორთულია ამ საიტზე
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN ჩართულია ამ საიტზე
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = ყოველთვის ჩაირთოს VPN, როცა იხსნება { $website }?
+    .message = ნებისმიერ დროს შეგიძლიათ წესების შეცვლა პარამეტრებში.
 ipprotection-settings-link =
     .label = პარამეტრები
 
@@ -164,6 +171,8 @@ ipprotection-button-turn-vpn-off = გამოირთოს VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = გამოირთოს VPN ყველგან
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = ჩართვა
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = ჩაირთოს VPN
 # Button while VPN is connecting
@@ -176,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPN გამორთულია �
     .aria-label = VPN გამორთულია ამ საიტზე
 ipprotection-connection-status-connecting-1 = VPN უკავშირდება…
     .aria-label = VPN უკავშირდება…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = გამორთვა
 
 ## Location controls
 
@@ -278,6 +289,11 @@ ip-protection-learn-more = ვრცლად
 ip-protection-not-opted-in-4 =
     .heading = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-short-name }
     .message = ინახულეთ გვერდები მეტად უსაფრთხოდ მდებარეობის დაფარვით.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = მზად ხართ გამოცადოთ?
+    .message = მიიღეთ { $maxUsage } ᲒᲑ ყოველთვიურად უფასოდ და აირჩიეთ, რომელ საიტებზე გამოიყენება VPN.
 ip-protection-not-opted-in-button = დაიწყეთ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -288,6 +304,28 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } ვებსაიტი
         }
     .label = ვებსაიტის პარამეტრების მართვა
+ip-protection-site-rules-header-1 =
+    .heading = VPN-წესების მართვა
+ip-protection-site-rules-button-1 =
+    .description = მიუთითეთ წესები საიტებისთვის, რომელთაც მეტად ესაჭიროება დამატებითი პირადულობა ან გამორთული VPN.
+    .label = VPN-წესების მართვა
+ip-protection-site-rules-list-section-1 =
+    .description = მიუთითეთ, როდის ჩაირთოს ან გამოირთოს VPN თავისთავად.
+    .label = ვებსაიტის წესები
+ip-protection-site-rules-add-button =
+    .label = წესის მითითება
+ip-protection-site-rules-delete-all-button =
+    .label = ყველა წესის წაშლა
+ip-protection-site-rules-empty = მითითებული წესები აქ გამოჩნდება.
+# Shown on a website whose rule turns the VPN on for it
+ip-protection-site-rules-rule-included = VPN მუდამ ჩართულია
+# Shown on a website whose rule turns the VPN off for it
+ip-protection-site-rules-rule-excluded = VPN მუდამ გამორთულია
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-site-rules-edit-button =
+    .aria-label = წესის ჩასწორება, როცა იხსნება { $website }
+    .title = ჩასწორება
 ip-protection-site-rules-header =
     .heading = საიტის წესების მართვა
 ip-protection-site-rules-button =
@@ -311,6 +349,34 @@ ip-protection-vpn-upgrade-link-1 =
 ip-protection-exceptions-dialog-window =
     .title = ვებსაიტის პარამეტრების მართვა
 ip-protection-exclusions-desc = გამოიყენეთ VPN ყველა ვებსაიტზე, გარდა ამ სიაში შეტანილებისა. დაამატეთ ვებსაიტი აქვე ან, როცა VPN გაიხსნება.
+ip-protection-site-rule-window =
+    .title = წესის მითითება
+ip-protection-edit-site-rule-window =
+    .title = წესის ჩასწორება
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = მითითება
+    .buttonaccesskeyaccept = მ
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = შენახვა
+    .buttonaccesskeyaccept = ხ
+# "ex:" is short for "example".
+ip-protection-site-rule-website-field =
+    .label = ვებსაიტი
+    .placeholder = მაგ.: acme.com
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-status-field =
+    .label = VPN-ის მდგომარეობა
+ip-protection-site-rule-status-on =
+    .label = მუდმივად ჩართული
+ip-protection-site-rule-status-off =
+    .label = მუდმივად გამორთული
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = შეიყვანეთ ვებსაიტის მართებული მისამართი.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = ამ საიტს უკვე აქვს წესი.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = შეცდომა წესის შექმნისას. გთხოვთ, კვლავ სცადოთ.
 ip-protection-delete-site-rule-cancel =
     .label = გაუქმება
 ip-protection-delete-site-rule-confirm =
