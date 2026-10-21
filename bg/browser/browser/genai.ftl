@@ -161,6 +161,8 @@ link-preview-reading-time =
         [one] { $range } минута за четене
        *[other] { $range } минути за четене
     }
+# Error message displayed when a link preview cannot be generated
+link-preview-error-message-v2 = { -brand-short-name } не може да визуализира тази връзка
 # Error message when something went wrong during key point generation
 link-preview-generation-error-unexpected = Нещо се обърка.
 # Text for the retry link when generation fails
