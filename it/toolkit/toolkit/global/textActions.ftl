@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = u
 text-action-search-text-box-clear =
     .title = Cancella
+text-action-highlight-selection-2 =
+    .label = Evidenzia selezione
+    .accesskey = E
 text-action-highlight-selection =
     .label = Evidenzia selezione
 # This adds a comment to selected text within the PDF viewer.
