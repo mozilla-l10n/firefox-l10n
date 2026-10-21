@@ -244,3 +244,5 @@ tab-note-panel-add-note-new-badge =
 tab-context-add-split-view =
     .label = Pievienot sadalīto skatu
     .accesskey = s
+# The label of a badge shown in menu items to call out features that are in beta.
+tab-context-badge-beta = Beta
