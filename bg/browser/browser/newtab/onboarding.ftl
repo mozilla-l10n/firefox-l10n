@@ -267,3 +267,8 @@ onboarding-genai-sidebar-title = Опитайте чатбот с AI в стра
 ## Multi Profiles feature onboarding messages
 
 multi-profile-spotlight-cta = Създаване на профил
+
+## Onboarding Personalization Screen
+## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
+
+onboarding-personalization-motivation-privacy-option = Поверителност и сигурност

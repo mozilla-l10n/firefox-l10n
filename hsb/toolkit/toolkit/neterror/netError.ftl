@@ -218,7 +218,7 @@ fp-neterror-offline-body-title = Zda so, zo je problem z wašim internetnym zwis
 fp-neterror-connection-intro = { -brand-short-name } njemóže wěsty zwisk z serwerom na { $hostname } nawjazać.
 fp-neterror-offline-intro = { -brand-short-name } njemóže ze serwerom <strong>{ $hostname }</strong> zwjazać
 fp-neterror-offline-intro-2 = { -brand-short-name } njemóže ze serwerom <strong>{ $hostname }</strong> zwjazać.
-fp-neterror-net-timeout-intro = Serwer na <strong>{ $hostname }{ $hostname }</strong> předołho trjeba, zo by wotmołwił.
+fp-neterror-net-timeout-intro = Serwer na <strong>{ $hostname }</strong> předołho trjeba, zo by wotmołwił.
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 #   $responsestatus (Number) - HTTP response status code (e.g., 404).
