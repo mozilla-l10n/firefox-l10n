@@ -56,16 +56,15 @@ main-context-menu-use-mini-window =
 move-to-mini-window =
     .label =
         { $tabCount ->
-            [1] Déplacer vers la mini-fenêtre
-            [one] Déplacer vers les mini-fenêtres
-           *[other] Déplacer vers les mini-fenêtres
+            [one] Déplacer vers une mini-fenêtre
+           *[other] Déplacer vers des mini-fenêtres
         }
     .accesskey = D
 
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.
 
-mini-window-overlay-header = Sélectionner une partie de la page à garder visible
+mini-window-overlay-header = Choisissez la partie de la page à garder visible
 mini-window-overlay-instructions = Faites glisser le pointeur ou cliquez pour sélectionner la zone à placer dans une mini-fenêtre. Elle restera au premier plan pendant votre navigation.
 
 ## These strings label the panel that asks what the user wants to move into a
