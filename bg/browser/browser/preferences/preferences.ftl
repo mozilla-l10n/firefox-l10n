@@ -699,6 +699,10 @@ settings-keyboard-shortcuts-group =
     .label = Клавишни комбинации
 settings-keyboard-shortcuts-customkeys-link =
     .label = Персонализиране на клавишни комбинации
+# Link that takes the user to the Search category of settings, where the
+# address bar options live.
+settings-keyboard-shortcuts-addressbar-link =
+    .label = Персонализирайте настройките на адресната лента в Търсене
 settings-media-group =
     .label = Медия
 browsing-picture-in-picture-toggle-enabled-2 =
@@ -1596,8 +1600,8 @@ enhanced-tracking-protection-setting-strict =
     .label = Строга
     .accesskey = т
 enhanced-tracking-protection-setting-custom =
-    .label = По избор
-    .accesskey = и
+    .label = Персонализирана защита
+    .accesskey = П
 
 ##
 
@@ -1913,7 +1917,7 @@ preferences-doh-overview-default =
     .label = Защита по подразбиране
 preferences-doh-overview-custom =
     .description = Винаги се ползва защитен DNS с контрол върху доставчика и възможност за резервен вариант,
-    .label = По избор
+    .label = Персонализирана защита
 preferences-doh-overview-off =
     .description = Използване на вашия DNS ресолвер по подразбиране.
     .label = Изключено
@@ -1930,7 +1934,7 @@ preferences-doh-radio-default =
     .label = По подразбиране
 preferences-doh-radio-custom =
     .description = Винаги използвайте защитен DNS с контрол върху вашия доставчик и обратно поведение
-    .label = По избор
+    .label = Персонализирана защита
 preferences-doh-radio-off =
     .description = Използвайте вашия DNS ресолвер по подразбиране
     .label = Изключено
@@ -2145,7 +2149,7 @@ preferences-etp-level-strict =
     .label = Строга
 preferences-etp-level-custom =
     .description = Изберете кои защити да включите или да изключите.
-    .label = По избор
+    .label = Персонализирана защита
 preferences-etp-status-advanced-button =
     .label = Разширени настройки
 preferences-etp-status-protections-dashboard-link =
