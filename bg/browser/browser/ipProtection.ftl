@@ -54,6 +54,18 @@ upgrade-vpn-button = Опитайте { -mozilla-vpn-brand-name }
 ## Messages and errors
 
 ipprotection-connection-status-network-error-description = Свържете се с интернет, след което опитайте да включите VPN.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning =
+    .heading = Приближавате се до своя VPN лимит
+    .message = Остават ви { $usageLeft } GB от { $maxUsage } GB този месец.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ipprotection-message-bandwidth-warning-mb =
+    .heading = Приближавате се до своя VPN лимит
+    .message = Остават ви { $usageLeft } MB от { $maxUsage } GB този месец.
 
 ## IP Protection bandwidth callouts
 
