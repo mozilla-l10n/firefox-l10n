@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = 지우기
+text-action-highlight-selection-2 =
+    .label = 선택 강조 표시
+    .accesskey = h
 text-action-highlight-selection =
     .label = 선택 강조 표시
 # This adds a comment to selected text within the PDF viewer.
