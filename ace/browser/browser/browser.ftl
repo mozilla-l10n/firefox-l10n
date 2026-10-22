@@ -196,6 +196,7 @@ toolbar-button-copy =
 
 ## Notification bars for media playback issues
 
+decoder-doctor-learn-how-link = Meureunoe kiban
 
 ## Password save/update panel
 
