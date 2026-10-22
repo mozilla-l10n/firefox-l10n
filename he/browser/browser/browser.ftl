@@ -1223,6 +1223,12 @@ toolbar-button-tab-groups =
 toolbar-button-history =
     .label = היסטוריה
     .tooltiptext = הצגת ההיסטוריה שלך ({ $shortcut })
+toolbar-button-developer =
+    .label = כלי פיתוח
+    .tooltiptext = פתיחת כלי פיתוח ({ $shortcut })
+toolbar-zoom-controls =
+    .label = פקדי מרחק מתצוגה
+    .title = פקדי מרחק מתצוגה
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
