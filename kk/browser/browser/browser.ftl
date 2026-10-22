@@ -1269,11 +1269,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = д
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Бұл беттегі кейбір аудио немесе видеоны ойнату үшін сізге DRM іске қосу керек.
 eme-notifications-drm-content-disabled-button =
     .label = DRM іске қосу
     .accesskey = е
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } бұл беттегі аудио не видеоны ойнатуға керек құрауыштарды орнатуда. Кейінірек қайталап көріңіз.
 decoder-doctor-no-codecs-linux-message = Видеоны ойнату үшін, сізге керек болған видео кодектерін орнату керек болуы мүмкін.
+decoder-doctor-no-hw-acceleration-message = Видео сапасын арттыру үшін, сізге Microsoft Media Feature Pack орнату керек болуы мүмкін.
 decoder-doctor-no-pulse-audio-message = Аудионы ойнату үшін, сізге керек болған PulseAudio БҚ орнату керек болуы мүмкін.
 decoder-doctor-unsupported-libavcodec-message = libavcodec ақаулығы бар немесе оған қолдауы жоқ болуы мүмкін, видеоны ойнату үшін оны жаңарту керек.
 decoder-doctor-decode-error-message = Медиа көзін декодтау кезінде қате орын алды.
@@ -1282,6 +1284,15 @@ decoder-doctor-learn-how-link = Көбірек білу
 decoder-doctor-report-issue-button =
     .label = Сайт мәселесі жөнінде хабарлау
     .accesskey = т
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } плагині құлап түсті.
+plugin-crashed-notification-reload-button =
+    .label = Парақты қайта жүктеу
+    .accesskey = П
+plugin-crashed-notification-submit-button =
+    .label = Құлау хабарламасын жіберу
+    .accesskey = е
 
 ## Password save/update panel
 
