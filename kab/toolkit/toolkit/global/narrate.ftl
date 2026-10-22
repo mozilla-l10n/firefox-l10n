@@ -8,6 +8,8 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+# Label for the toolbar button opening the read aloud menu.
+narrate-toggle-label = Ɣeṛ s ṣṣut ɛlayen ({ $shortcut })
 narrate-skip-previous =
     .title = Uɣal ({ $shortcut })
 narrate-start =
@@ -19,6 +21,8 @@ narrate-skip-next =
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = Ɣeṛ s ṣṣut ɛlayen
 narrate-voice-header = Taɣect
 # Default voice is determined by the language of the document.
 narrate-voice-default = Amezwer
