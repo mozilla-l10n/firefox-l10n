@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = S
 text-action-search-text-box-clear =
     .title = Tøm
+text-action-highlight-selection-2 =
+    .label = Uthev valg
+    .accesskey = U
 text-action-highlight-selection =
     .label = Uthev valg
 # This adds a comment to selected text within the PDF viewer.
