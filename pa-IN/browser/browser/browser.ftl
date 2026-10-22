@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = …ਸਾਂਝਾ ਕਰੋ
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = ਸਾਈਟ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ
 
@@ -757,6 +760,11 @@ urlbar-result-weather-title-city-only = { $city } ਵਿਖੇ <strong>{ $temper
 urlbar-result-weather-provider-sponsored = { $provider } · ਸਪੌਂਸਰ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = ਪੁੱਛੋ
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1146,7 +1154,8 @@ repair-text-encoding-button =
     .label = ਲਿਖਤ ਇੰਕੋਡਿੰਗ ਰਿਪੇਅਰ ਕਰੋ
     .tooltiptext = ਸਫ਼ਾ ਸਮੱਗਰੀ ਤੋਂ ਠੀਕ ਲਿਖਤ ਇੰਕੋਡਿੰਗ ਦਾ ਅੰਦਾਜ਼ਾ ਲਾਓ
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1209,6 +1218,12 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = ਟੈਬ ਦੇ ਗਰੁੱਪ
     .tooltiptext = ਆਪਣੇ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਵੇਖੋ
+toolbar-button-developer =
+    .label = ਡਿਵੈਲਪਰ
+    .tooltiptext = ਵੈੱਬ ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
+toolbar-button-forget =
+    .label = ਭੁੱਲ ਜਾਓ
+    .tooltiptext = ਕੁਝ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਬਾਰੇ ਭੁੱਲ ਜਾਓ
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1225,6 +1240,9 @@ eme-notifications-drm-content-playing-manage = ਸੈਟਿੰਗਾਂ ਦਾ �
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = ਖ਼ਾਰਜ ਕਰੋ
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1276,6 +1294,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1533,6 +1554,13 @@ file-picker-crashed-open = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਫਾਇਲ ਨੂੰ { $path } ਵਿੱਚ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।
 file-picker-crashed-save-nowhere = Windows ਫਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਕੋਈ ਮੂਲ ਫੋਲਡਰ ਨਹੀਂ ਲੱਭਿਆ ਜਾ ਸਕਿਆ; ਫਾਇਲ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
     .accessKey = F
@@ -1585,6 +1613,9 @@ trustpanel-blocker-see-all = ਸਾਰੇ ਵੇਖੋ
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
