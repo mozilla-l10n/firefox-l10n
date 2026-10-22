@@ -463,6 +463,20 @@ eme-notifications-drm-content-playing = Hua 'ngo sa achráa nej si video ni rajs
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Ngà 'iaj sunj DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } hìaj dugutujt nej sa gi'iaj da' gachrā ma chra'aj nej si videô riña pajinâ na. Gi'iaj suntuj u nī garahue ñunt.
+decoder-doctor-no-codecs-linux-message = Dā duguchrát videô nī da'uit dugutujt kodeks sa nachin' videô na.
+decoder-doctor-no-hw-acceleration-message = Dā' gurui' hue'ê videô, nī da'ui' ga'nïnjt Media Feature Pack si'iaj Microsoft riña si aga't.
+decoder-doctor-no-pulse-audio-message = Dā' duguchrát chra'aj, nī da'uit dugutujt Software gu'naj PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec na'ue gi'iaj sun nī da'ui nahuin nakà ma da' gi'iaj sun videô.
+decoder-doctor-decode-error-message = Hua 'ngò sa gire' 'ngà nachrunt multimedia.
+decoder-doctor-decode-warning-message = Hua 'ngò sa gire' 'ngà nachrunt multimedia sanī huaj nahuin ma.
+decoder-doctor-learn-how-link = Gahuin chrūn daj
+decoder-doctor-report-issue-button =
+    .label = Natà’ sa ‘iaj sun a’nan’ riña sitiô na
+    .accesskey = R
 
 ## Password save/update panel
 
