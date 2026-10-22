@@ -23,3 +23,15 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Hardop voorlezen
+narrate-rate-slow =
+    .title = Voorlezen vertragen
+narrate-rate-fast =
+    .title = Voorlezen versnellen
+narrate-voice-header = Stem
+# Default voice is determined by the language of the document.
+narrate-voice-default = Standaard
+# Label for a voice in the voice selector, e.g. "David (English)".
+# Variables:
+#   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
+#   $language (String) - The language of the voice, as a localized language name or a language tag (e.g. "en-US").
+narrate-voice-label = { $name } ({ $language })
