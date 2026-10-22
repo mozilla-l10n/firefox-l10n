@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = จัดการการตั้งค่าป๊อปอัปและการเปลี่ยนเส้นทางจากบุคคลที่สาม…
     .accesskey = จ
+
+##
+
 urlbar-identity-button =
     .aria-label = ดูข้อมูลไซต์
 
@@ -705,6 +708,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · ได้รับการสนับสนุน
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = ถาม
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1061,7 +1069,8 @@ repair-text-encoding-button =
     .label = ซ่อมแซมรหัสอักขระข้อความ
     .tooltiptext = คาดเดารหัสอักขระข้อความที่ถูกต้องจากเนื้อหาในหน้า
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1124,6 +1133,15 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = กลุ่มแท็บ
     .tooltiptext = แสดงกลุ่มแท็บของคุณ
+toolbar-button-history =
+    .label = ประวัติ
+    .tooltiptext = แสดงประวัติของคุณ ({ $shortcut })
+toolbar-button-find =
+    .label = ค้นหา
+    .tooltiptext = ค้นหาในหน้านี้ ({ $shortcut })
+toolbar-button-developer =
+    .label = นักพัฒนา
+    .tooltiptext = เปิดเครื่องมือนักพัฒนาเว็บ ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1140,6 +1158,9 @@ eme-notifications-drm-content-playing-manage = จัดการการตั
 eme-notifications-drm-content-playing-manage-accesskey = จ
 eme-notifications-drm-content-playing-dismiss = ปิด
 eme-notifications-drm-content-playing-dismiss-accesskey = ด
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1188,6 +1209,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1234,6 +1258,13 @@ restore-session-startup-suggestion-button = แสดงวิธีให้ฉ
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = องค์กรของคุณได้ปิดกั้นการเข้าถึงไฟล์ภายในเครื่องคอมพิวเตอร์นี้
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1306,6 +1337,10 @@ reset-pbm-panel-complete = ลบข้อมูลเซสชันส่ว�
 reset-pbm-toolbar-button2 =
     .label = ล้างเซสชันส่วนตัว
     .tooltiptext = ล้างเซสชันส่วนตัว
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1390,6 +1425,13 @@ file-picker-crashed-open = กล่องโต้ตอบไฟล์ Windows
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = กล่องโต้ตอบไฟล์ Windows ขัดข้อง ไฟล์ดังกล่าวจะถูกบันทึกไว้ที่ { $path }
 file-picker-crashed-save-nowhere = กล่องโต้ตอบไฟล์ Windows ขัดข้อง ไม่พบโฟลเดอร์เริ่มต้น ไฟล์จึงไม่ถูกบันทึก
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = แสดงในโฟลเดอร์
     .accessKey = F
@@ -1442,6 +1484,9 @@ trustpanel-blocker-see-all = ดูทั้งหมด
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = การป้องกันการติดตามสำหรับ { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
