@@ -1237,6 +1237,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = 이 페이지에서 일부 오디오 또는 비디오를 재생하려면 DRM을 활성화해야 합니다.
+eme-notifications-drm-content-disabled-button =
+    .label = DRM 활성화
+    .accesskey = E
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name }가 이 페이지에서 오디오나 비디오를 재생하는 데 필요한 구성 요소를 설치하고 있습니다. 나중에 다시 시도하세요.
 decoder-doctor-no-codecs-linux-message = 동영상을 재생하기 위해 동영상 코덱을 설치해야 합니다.
 decoder-doctor-no-hw-acceleration-message = 동영상 재생 품질을 높이기 위해 Microsoft의 Media Feature Pack을 설치해야 합니다.
@@ -1248,6 +1252,15 @@ decoder-doctor-learn-how-link = 방법 알아보기
 decoder-doctor-report-issue-button =
     .label = 이 사이트 문제 보고하기
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } 플러그인이 충돌했습니다.
+plugin-crashed-notification-reload-button =
+    .label = 페이지 새로 고침
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = 충돌 보고서 제출
+    .accesskey = S
 
 ## Password save/update panel
 
