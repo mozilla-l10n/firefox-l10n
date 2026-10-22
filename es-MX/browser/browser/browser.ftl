@@ -1188,6 +1188,28 @@ toolbar-button-developer =
 toolbar-button-forget =
     .label = Olvidar
     .tooltiptext = Olvidar el historial de navegación
+toolbar-zoom-controls =
+    .label = Controles de tamaño
+    .title = Controles de tamaño
+toolbar-button-zoom-out =
+    .label = Reducir Zoom
+    .tooltiptext = Reducir tamaño ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Reiniciar nivel de ampliación ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Aumentar Zoom
+    .tooltiptext = Aumentar tamaño ({ $shortcut })
+toolbar-edit-controls =
+    .label = Editar controles
+    .title = Editar controles
+toolbar-button-cut =
+    .label = Cortar
+    .tooltiptext = Cortar ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiar
+    .tooltiptext = Copiar ({ $shortcut })
+toolbar-button-paste =
+    .label = Pegar
+    .tooltiptext = Pegar ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
