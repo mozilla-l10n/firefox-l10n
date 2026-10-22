@@ -1202,6 +1202,15 @@ decoder-doctor-learn-how-link = Pelajari caranya
 decoder-doctor-report-issue-button =
     .label = Laporkan Masalah Situs
     .accesskey = L
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Plugin { $pluginName } berhenti bekerja tiba-tiba.
+plugin-crashed-notification-reload-button =
+    .label = Muat ulang laman
+    .accesskey = M
+plugin-crashed-notification-submit-button =
+    .label = Kirim laporan mogok
+    .accesskey = K
 
 ## Password save/update panel
 
