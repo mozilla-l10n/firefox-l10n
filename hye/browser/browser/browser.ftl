@@ -602,6 +602,31 @@ toolbar-button-find =
 toolbar-button-developer =
     .label = Մշակող
     .tooltiptext = Բացել մշակողի գործիքները ({ $shortcut })
+toolbar-button-forget =
+    .label = Մոռանալ
+    .tooltiptext = Մոռացեք զննարկման ինչ֊որ պատմութիւն
+toolbar-zoom-controls =
+    .label = Խոշորացման կառավարներ
+    .title = Խոշորացման կառավարներ
+toolbar-button-zoom-out =
+    .label = Փոքրացնել
+    .tooltiptext = Փոքրացնել ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Վերակայել խոշորացման մակարդակը ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Խոշորացնել
+    .tooltiptext = Խոշորացնել ({ $shortcut })
+toolbar-edit-controls =
+    .label = Խմբագրել կառավարները
+    .title = Խմբագրել կառավարները
+toolbar-button-cut =
+    .label = Կտրել
+    .tooltiptext = Կտրել ({ $shortcut })
+toolbar-button-copy =
+    .label = Պատճէնել
+    .tooltiptext = Պատճէնել ({ $shortcut })
+toolbar-button-paste =
+    .label = Փակցնել
+    .tooltiptext = Փակցնել ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
