@@ -8,9 +8,19 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+narrate-start =
+    .title = 开始（{ $shortcut }）
+narrate-stop =
+    .title = 结束（{ $shortcut }）
+narrate-skip-next =
+    .title = 前进（{ $shortcut }）
 
 ##
 
+narrate-rate-slow =
+    .title = 放慢旁白速度
+narrate-rate-fast =
+    .title = 加快旁白速度
 # Label for a voice in the voice selector, e.g. "David (English)".
 # Variables:
 #   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
