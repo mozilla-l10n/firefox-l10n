@@ -983,6 +983,21 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Morate omogućiti DRM za reprodukciju audio ili video sadržaja na ovoj stranici.
+eme-notifications-drm-content-disabled-button =
+    .label = Omogući DRM
+    .accesskey = O
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } instalira komponente potrebne za reproduciranje audio ili video sadržaja na ovoj stranici. Molimo pokušajte ponovo kasnije.
+decoder-doctor-no-codecs-linux-message = Da biste reproducirali video, morat ćete instalirati zahtijevane video kodeke.
+decoder-doctor-no-hw-acceleration-message = Da biste poboljšali kvalitet videa, morat ćete instalirati Microsoft Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Da biste reproducirali audio, morat ćete instalirati zahtijevani PulseAudio softver.
+decoder-doctor-unsupported-libavcodec-message = libavcodec je možda ranjiv ili nije podržan, i treba ga nadograditi da bi reproducirao video.
+decoder-doctor-decode-error-message = Došlo je do greške prilikom dekodiranja medijskog resursa.
+decoder-doctor-decode-warning-message = Došlo je do ispravljive greške prilikom dekodiranja medijskog resursa.
+decoder-doctor-learn-how-link = Saznajte kako
+decoder-doctor-report-issue-button =
+    .label = Prijavite problem sa stranicom
+    .accesskey = R
 
 ## Password save/update panel
 
