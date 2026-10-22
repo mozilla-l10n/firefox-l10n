@@ -1153,6 +1153,37 @@ toolbar-button-tab-groups =
 toolbar-button-history =
     .label = Historik
     .tooltiptext = Vis din historik ({ $shortcut })
+toolbar-button-find =
+    .label = Find
+    .tooltiptext = Find på denne side ({ $shortcut })
+toolbar-button-developer =
+    .label = Webudvikler
+    .tooltiptext = Åbn Webudviklerværktøj ({ $shortcut })
+toolbar-button-forget =
+    .label = Glem
+    .tooltiptext = Glem noget af din browserhistorik
+toolbar-zoom-controls =
+    .label = Zoom-knapper
+    .title = Zoom-knapper
+toolbar-button-zoom-out =
+    .label = Zoom ud
+    .tooltiptext = Zoom ud ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Nulstil zoom-niveau ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zoom ind
+    .tooltiptext = Zoom ind ({ $shortcut })
+toolbar-edit-controls =
+    .label = Redigeringsknapper
+    .title = Redigeringsknapper
+toolbar-button-cut =
+    .label = Klip
+    .tooltiptext = Klip ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopier
+    .tooltiptext = Kopier ({ $shortcut })
+toolbar-button-paste =
+    .label = Indsæt
+    .tooltiptext = Indsæt ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.

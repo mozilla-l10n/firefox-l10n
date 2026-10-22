@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Tilpas Touch Bar…
 customize-mode-downloads-button-autohide =
     .label = Skjul knappen, når listen er tom
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Fleksibelt mellemrum
+customize-mode-toolbarseparator =
+    .title = Skillelinje
+customize-mode-toolbarspacer =
+    .title = Mellemrum
