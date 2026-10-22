@@ -66,6 +66,13 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Esborra
+text-action-highlight-selection-2 =
+    .label = Ressalta la selecció
+    .accesskey = R
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = Afegeix un comentari a la selecció
+    .accesskey = A
 text-action-highlight-selection =
     .label = Ressalta la selecció
 # This adds a comment to selected text within the PDF viewer.
