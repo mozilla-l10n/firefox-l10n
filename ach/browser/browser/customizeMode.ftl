@@ -15,3 +15,12 @@ customize-mode-titlebar =
 customize-mode-overflow-list-description = Ywar ka i bol jami kany me gwoko gi kama cok ento woko me gitic mamegi…
 customize-mode-undo-cmd =
     .label = Gony
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Kabedo ma loke
+customize-mode-toolbarseparator =
+    .title = Gin mapoko
+customize-mode-toolbarspacer =
+    .title = Kine
