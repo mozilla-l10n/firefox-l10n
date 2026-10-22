@@ -521,6 +521,20 @@ eme-notifications-drm-content-playing = Bell audio u video d'iste puesto fan ser
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Activar DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ye instalando components necesarias ta reproducir l'audio u o video d'ista pachina. Intente-lo dimpués.
+decoder-doctor-no-codecs-linux-message = Pa reproducir video, talment le calga instalar los codecs de video requiestos.
+decoder-doctor-no-hw-acceleration-message = Pa amillorar la qualidat de video, talment le calga instalar lo Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Pa reproducir audio, talment le calga instalar el programa PuleAudio necesario.
+decoder-doctor-unsupported-libavcodec-message = libavcodec puet estar vulnerable u no ye soportau, y habría d'actualizar-se a play video.
+decoder-doctor-decode-error-message = Ha ocurriu una error entre que descodificaba un recurso multimedia.
+decoder-doctor-decode-warning-message = Una error recuperabla ha ocurriu entre que se descodificaba un recuso multimedia.
+decoder-doctor-learn-how-link = Aprenda cómo
+decoder-doctor-report-issue-button =
+    .label = Reportar un problema con o puesto
+    .accesskey = R
 
 ## Password save/update panel
 
