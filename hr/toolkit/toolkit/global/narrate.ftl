@@ -16,6 +16,8 @@ narrate-start =
     .title = Pokreni ({ $shortcut })
 narrate-stop =
     .title = Zaustavi ({ $shortcut })
+narrate-skip-next =
+    .title = Naprijed ({ $shortcut })
 
 ##
 
