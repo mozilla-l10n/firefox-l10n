@@ -1270,6 +1270,9 @@ eme-notifications-drm-content-playing-dismiss-accesskey = S
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM inschakelen
+    .accesskey = D
 
 ## Password save/update panel
 
