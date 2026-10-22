@@ -10,6 +10,8 @@
 
 # Label for the toolbar button opening the read aloud menu.
 narrate-toggle-label = Leer en voz alta ({ $shortcut })
+narrate-skip-previous =
+    .title = Atrás ({ $shortcut })
 narrate-start =
     .title = Iniciar ({ $shortcut })
 narrate-stop =
