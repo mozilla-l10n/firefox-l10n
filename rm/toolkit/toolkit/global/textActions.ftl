@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Svidar
+text-action-highlight-selection-2 =
+    .label = Relevar la selecziun
+    .accesskey = R
 text-action-highlight-selection =
     .label = Relevar la selecziun
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
