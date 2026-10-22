@@ -242,6 +242,16 @@ eme-notifications-drm-content-playing = ह्या सायटीवयलो
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-cdm-installing-message = ह्या पानार ऑडियो वो व्हिडियो चलोवपाक जाय आशिल्ले घटक { -brand-short-name } प्रतिष्ठापित करता. मात्शे मागीर यत्न करात.
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } प्लगइन क्रॅश जालां.
+plugin-crashed-notification-reload-button =
+    .label = पान परत लोड करात
+    .accesskey = प
+plugin-crashed-notification-submit-button =
+    .label = क्रॅश अहवास सादर करात
+    .accesskey = स
 
 ## Password save/update panel
 
