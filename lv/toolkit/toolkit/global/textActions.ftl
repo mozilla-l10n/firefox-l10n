@@ -50,6 +50,10 @@ text-action-spell-dictionaries =
 text-action-search-text-box-clear =
     .title = Notīrīt
 # This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = Pievienot atlasei piebildi
+    .accesskey = P
+# This adds a comment to selected text within the PDF viewer.
 text-action-comment-selection-1 =
     .label = Pievienot atlasei piebildi
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
