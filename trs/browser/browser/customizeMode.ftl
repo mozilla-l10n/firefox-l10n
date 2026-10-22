@@ -29,3 +29,12 @@ customize-mode-undo-cmd =
     .label = Nadurê'
 customize-mode-touchbar-cmd =
     .label = Nagi'iaj barrâ tâktil
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Flexible Space
+customize-mode-toolbarseparator =
+    .title = Sa 'iaj ninin
+customize-mode-toolbarspacer =
+    .title = espasio
