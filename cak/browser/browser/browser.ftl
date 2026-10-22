@@ -960,6 +960,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = T
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Titzij DRM
+    .accesskey = T
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } tajin yeruyäk taq ruch'akul, ri e rajowaxik richin nitzij k'oxom o silowäch pa re ruxaq re'. Tab'ana' utzil tatojtob'ej chik pa jun ti ramaj.
+decoder-doctor-no-codecs-linux-message = Richin nitzïj ri silowachib'äl, rik'in jub'a' rajowaxik ye'ayäk ri taq kicholel silowachib'äl yek'atzin.
+decoder-doctor-no-hw-acceleration-message = Richin nab'än rutzil rub'anikil ri silowachib'äl, rik'in jub'a' rajowaxik nayäk ri Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Richin nitzij ri q'ojom, rik'in jub'a' rajowaxik ye'ayäk ri PulseAudio kema'.
+decoder-doctor-unsupported-libavcodec-message = libavcodec rik'in jub'a' k'o ruk'ayewal o man koch'el ta, chuqa' ütz nik'ex richin yetzij taq silowachib'äl.
+decoder-doctor-decode-error-message = Xk'ulwachitäj jun sachoj toq nelesäx runa'oj jun rutob'al q'ojom.
+decoder-doctor-decode-warning-message = Xk'ulwachitäj jun kolotel sachoj toq nelesäx runa'oj jun rutob'al q'ojom.
+decoder-doctor-learn-how-link = Tetamäx achike rub'eyal
+decoder-doctor-report-issue-button =
+    .label = Tiya' rutzijol ri ruk'ayewal Ruxaq K'amaya'l
+    .accesskey = y
 
 ## Password save/update panel
 
