@@ -1215,6 +1215,11 @@ eme-notifications-drm-content-disabled-button =
     .accesskey = A
 decoder-doctor-no-codecs-linux-message = Pro riproduire su vìdeu, podet dare chi depas installare is codecs de vìdeu rechestos.
 decoder-doctor-no-pulse-audio-message = Pro riproduire s’àudio, podet dare chi depas installare su programma PulseAudio.
+decoder-doctor-decode-error-message = Faddina in sa decodificatzione de una resursa multimediale.
+decoder-doctor-decode-warning-message = Faddina curregìbile in sa decodificatzione de una resursa multimediale.
+decoder-doctor-report-issue-button =
+    .label = Sinnala unu problema de custu situ
+    .accesskey = S
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = Su plugin { $pluginName } est faddidu.
