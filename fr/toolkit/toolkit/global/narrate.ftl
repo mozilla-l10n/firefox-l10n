@@ -8,6 +8,8 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+narrate-skip-previous =
+    .title = Précédent ({ $shortcut })
 narrate-start =
     .title = Démarrer ({ $shortcut })
 narrate-stop =
@@ -17,6 +19,13 @@ narrate-skip-next =
 
 ##
 
+narrate-rate-slow =
+    .title = Ralentir la narration
+narrate-rate-fast =
+    .title = Accélérer la narration
+narrate-voice-header = Voix
+# Default voice is determined by the language of the document.
+narrate-voice-default = par défaut
 # Label for a voice in the voice selector, e.g. "David (English)".
 # Variables:
 #   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
