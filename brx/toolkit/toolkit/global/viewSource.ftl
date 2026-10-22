@@ -22,5 +22,6 @@ view-source-selection-title = सायखनायनि DOM फुंखा
 view-source-context-go-to-line =
     .label = सारिआव थां...
     .accesskey = L
-view-source-context-wrap-long-lines =
+view-source-context-wrap-long-lines-2 =
     .label = रेप गोलाव सारि
+    .accesskey = o
