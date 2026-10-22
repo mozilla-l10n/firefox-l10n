@@ -932,6 +932,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ວ
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = ທ່ານຕ້ອງເປີດໃຊ້ DRM ເພື່ອຫຼິ້ນບາງສຽງ ຫຼື ວິດີໂອໃນໜ້ານີ້.
 eme-notifications-drm-content-disabled-button =
     .label = ເປີດໃຊ້ງານ DRM
     .accesskey = E
@@ -941,10 +942,20 @@ decoder-doctor-no-hw-acceleration-message = ເພື່ອປັບປຸງຄ
 decoder-doctor-no-pulse-audio-message = ເພື່ອຫຼິ້ນສຽງ, ທ່ານອາດຈະຕ້ອງຕິດຕັ້ງຊອບແວ PulseAudio ທີ່ຕ້ອງການ.
 decoder-doctor-unsupported-libavcodec-message = libavcodec ອາດ​ຈະ​ມີ​ຄວາມ​ສ່ຽງ​ຫຼື​ບໍ່​ໄດ້​ຮັບ​ການ​ສະ​ຫນັບ​ສະ​ຫນູນ​, ແລະ ​ຄວນ​ຈະ​ໄດ້​ຮັບ​ການ​ປັບ​ປຸງ​ເພື່ອ​ຫຼິ້ນ​ວິ​ດີ​ໂອ​.
 decoder-doctor-decode-error-message = ເກີດຄວາມຜິດພາດໃນລະຫວ່າງການຖອດລະຫັດຊັບພະຍາກອນສື່.
+decoder-doctor-decode-warning-message = ເກີດຄວາມຜິດພາດທີ່ສາມາດກູ້ຄືນໄດ້ໃນຂະນະທີ່ຖອດລະຫັດຊັບພະຍາກອນສື່.
 decoder-doctor-learn-how-link = ຮຽນຮູ້ວິທີການ
 decoder-doctor-report-issue-button =
     .label = ລາຍງານບັນຫາເວັບໄຊທ໌
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = ປລັກອິນ { $pluginName } ຂັດຂ້ອງ.
+plugin-crashed-notification-reload-button =
+    .label = ໂຫລດຫນ້າໃຫມ່
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ສົ່ງລາຍງານຂໍ້ຂັດຂ້ອງ
+    .accesskey = S
 
 ## Password save/update panel
 
