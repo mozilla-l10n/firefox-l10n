@@ -1828,6 +1828,27 @@ permissions-data-section =
     .heading = Permissões e dados
 pane-permissions-data-title2 = Permissões e dados
     .title = Permissões e dados
+notifications-section-header =
+    .heading = Notificações
+notifications-entry-card-header =
+    .description = Escolha quais sites podem enviar notificações e como esses alertas são exibidos.
+    .label = Notificações
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } site
+           *[other] { $count } sites
+        }
+    .label = Gerenciar configurações de notificação
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Gerenciar configurações de notificações de sites
 
 ## Privacy Section - Data Collection
 
