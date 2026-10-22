@@ -348,6 +348,15 @@ eme-notifications-drm-content-playing = Sommige klank of video op dié werf gebr
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Aktiveer DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installeer tans komponente wat nodig is om die klank of video op dié bladsy te speel. Probeer gerus weer later.
+decoder-doctor-no-codecs-linux-message = Om video te speel is dit dalk nodig om die nodige video-dekodeerders te installeer.
+decoder-doctor-no-hw-acceleration-message = Om videokwaliteit te verbeter is dit dalk nodig om Microsoft se Media Feature Pack te installeer.
+decoder-doctor-no-pulse-audio-message = Om video te speel is dit dalk nodig om die nodige PulseAudio-sagteware te installeer.
+decoder-doctor-unsupported-libavcodec-message = libavcodec is moontlik kwesbaar of word nie ondersteun nie, en moet bygewerk word om video te speel.
+decoder-doctor-learn-how-link = Meer inligting
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = Die { $pluginName }-inprop het omgeval.
