@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = S
 text-action-search-text-box-clear =
     .title = Rensa
+text-action-highlight-selection-2 =
+    .label = Markera urval
+    .accesskey = M
 text-action-highlight-selection =
     .label = Markera urval
 # This adds a comment to selected text within the PDF viewer.
