@@ -1277,7 +1277,23 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = Om de audio of fideo op dizze side ôf te spyljen ynstallearret { -brand-short-name } de nedige komponinten. Probearje it letter opnij.
 decoder-doctor-no-codecs-linux-message = Om fideo ôf te spyljen, moatte jo mooglik de fereaske fideocodecs ynstallearje.
 decoder-doctor-no-hw-acceleration-message = Om de fideokwaliteit te ferbetterjen, moatte jo mooglik Microsoft’s Media Feature Pack ynstallearje.
+decoder-doctor-no-pulse-audio-message = Om audio ôf te spyljen, moatte jo mooglik it fereaske PulseAudio-programma ynstallearje.
+decoder-doctor-unsupported-libavcodec-message = libavcodec kin kwetsber wêze of wurdt net stipe en soe fernijd wurde moatte om fideo ôf te spyljen.
+decoder-doctor-decode-error-message = Der is in flater bard wylst it dekodearjen fan in mediaboarne.
+decoder-doctor-decode-warning-message = Der is in werstelbere flater bard wylst it dekodearjen fan in mediaboarne.
 decoder-doctor-learn-how-link = Mear ynfo
+decoder-doctor-report-issue-button =
+    .label = Websiteprobleem rapportearje
+    .accesskey = W
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = De { $pluginName } ynstekker is ferûngelokke.
+plugin-crashed-notification-reload-button =
+    .label = Side opnij lade
+    .accesskey = S
+plugin-crashed-notification-submit-button =
+    .label = Stjoer in ûngelokrapport
+    .accesskey = S
 
 ## Password save/update panel
 
