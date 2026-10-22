@@ -65,7 +65,6 @@ policy-DisableLaunchOnLogin = Impedisce l’avvio automatico di { -brand-short-n
 policy-DisableMacOSUserPolicies = Ignora i criteri definiti nelle preferenze dell’utente e nei profili di configurazione a livello utente su macOS.
 policy-DisablePrimaryPasswordCreation = Se impostato a “true” non è possibile impostare una password principale.
 policy-DisablePasswordReveal2 = Impedisce di mostrare le password negli accessi salvati o nei campi password.
-policy-DisablePasswordReveal = Non permettere di mostrare le password nelle credenziali salvate.
 policy-DisablePrivateBrowsing = Disattiva la modalità Navigazione anonima.
 policy-DisableProfileImport = Disattiva il menu per importare dati da un altro browser.
 policy-DisableProfileRefresh2 = Disattiva il pulsante “Ripristina { -brand-short-name }” nella pagina Informazioni per la risoluzione dei problemi (about:support) e su support.mozilla.org, nonché l’avviso che propone di ripristinare { -brand-short-name } dopo un periodo di inattività.
