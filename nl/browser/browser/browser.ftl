@@ -1270,9 +1270,21 @@ eme-notifications-drm-content-playing-dismiss-accesskey = S
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = U moet DRM inschakelen om bepaalde audio of video op deze pagina af te spelen.
 eme-notifications-drm-content-disabled-button =
     .label = DRM inschakelen
     .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installeert onderdelen die nodig zijn voor het afspelen van de audio of video op deze pagina. Probeer het later opnieuw.
+decoder-doctor-no-codecs-linux-message = Om video af te spelen, dient u mogelijk de vereiste videocodecs te installeren.
+decoder-doctor-no-hw-acceleration-message = Om de videokwaliteit te verbeteren, dient u mogelijk Microsofts Media Feature Pack te installeren.
+decoder-doctor-no-pulse-audio-message = Om audio af te spelen, dient u mogelijk de vereiste PulseAudio-software te installeren.
+decoder-doctor-unsupported-libavcodec-message = libavcodec kan kwetsbaar zijn of wordt niet ondersteund, en dient te worden bijgewerkt om video af te spelen.
+decoder-doctor-decode-error-message = Er is een fout opgetreden tijdens het decoderen van een mediabron.
+decoder-doctor-decode-warning-message = Er is een herstelbare fout opgetreden tijdens het decoderen van een mediabron.
+decoder-doctor-learn-how-link = Meer info
+decoder-doctor-report-issue-button =
+    .label = Websiteprobleem melden
+    .accesskey = W
 
 ## Password save/update panel
 
