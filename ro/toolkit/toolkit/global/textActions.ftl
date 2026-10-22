@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Curăță
+text-action-highlight-selection-2 =
+    .label = Evidențiază selecția
+    .accesskey = E
 text-action-highlight-selection =
     .label = Evidențiază selecția
 # This adds a comment to selected text within the PDF viewer.
