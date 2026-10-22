@@ -1242,6 +1242,9 @@ toolbar-button-zoom-reset-tooltip = Resetează nivelul zoomului ({ $shortcut })
 toolbar-button-zoom-in =
     .label = Mărește
     .tooltiptext = Mărește ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiază
+    .tooltiptext = Copiază ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
