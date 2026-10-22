@@ -1266,6 +1266,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Du må slå på DRM for å spele lyd eller video på denne sida.
+eme-notifications-drm-content-disabled-button =
+    .label = Slå på DRM
+    .accesskey = S
 decoder-doctor-no-codecs-linux-message = For å spele av videoer må du installere påkravde video-kodekar.
 decoder-doctor-no-hw-acceleration-message = For å forbetre videokvaliteten må du kanskje installere Microsofts Media Feature Pack.
 decoder-doctor-no-pulse-audio-message = For å spele av lyd må du installere den påkravde PulseAudio-programvara.
@@ -1276,6 +1280,15 @@ decoder-doctor-learn-how-link = Finn ut korleis
 decoder-doctor-report-issue-button =
     .label = Rapporter problem med nettsida
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Programtillegget { $pluginName } krasja.
+plugin-crashed-notification-reload-button =
+    .label = Oppdater sida
+    .accesskey = O
+plugin-crashed-notification-submit-button =
+    .label = Send inn ein krasjrapport
+    .accesskey = S
 
 ## Password save/update panel
 
