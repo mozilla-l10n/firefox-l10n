@@ -288,6 +288,19 @@ eme-notifications-drm-content-playing = Modumo mongwe kgotsa bidio mo saeteng e,
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Kgontsha DRM
+    .accesskey = K
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } e tsenya dikarolwana tse di tlhokafalang go tshameka modumo kgotsa bidio mo tsebeng e. Tswêê-tswêê leka gape moragonyana.
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Se { $pluginName } gokela se paletswe.
+plugin-crashed-notification-reload-button =
+    .label = Tsenya sešwa tsebe
+    .accesskey = T
+plugin-crashed-notification-submit-button =
+    .label = Romela pegelo ya palelo
+    .accesskey = R
 
 ## Password save/update panel
 
