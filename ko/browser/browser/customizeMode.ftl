@@ -38,3 +38,10 @@ customize-mode-touchbar-cmd =
     .label = 터치바 사용자 정의…
 customize-mode-downloads-button-autohide =
     .label = 비어있을 때 버튼 숨기기
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarseparator =
+    .title = 구분자
+customize-mode-toolbarspacer =
+    .title = 공간
