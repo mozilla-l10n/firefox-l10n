@@ -42,3 +42,5 @@ default-browser-guidance-notification-dismiss = Fet
 default-browser-guidance-notification-v2-title = Acabeu de definir el { -brand-short-name } com a navegador per defecte
 default-browser-guidance-notification-v2-body = A Configuració, seleccioneu “Defineix com a predeterminat” per al { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Acabeu de definir el { -brand-short-name } com a navegador per defecte a Configuració
+default-browser-guidance-notification-auto-trigger-title = Obre els enllaços amb { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Trieu { -brand-short-name } com a navegador predeterminat a Configuració.

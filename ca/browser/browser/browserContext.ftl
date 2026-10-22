@@ -426,6 +426,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = Inspecciona
     .accesskey = I
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = Inspecciona les propietats d'accessibilitat
+    .accesskey = y
 main-context-menu-inspect-a11y-properties =
     .label = Inspecciona les propietats d'accessibilitat
 main-context-menu-eme-learn-more =
@@ -441,6 +446,8 @@ main-context-menu-reveal-password =
     .accesskey = M
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Nou
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = Beta
 main-context-menu-pdfjs-copy-page =
     .label = Copia la pàgina
 main-context-menu-pdfjs-cut-page =

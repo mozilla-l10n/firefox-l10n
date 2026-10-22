@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Vá mais longe com 
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar sua localização e proteger seus dados, mesmo quando estiver em uma janela privativa.
 ipprotection-feature-introduction-description-private-browsing = Navegue com proteção extra, ocultando sua localização, mesmo quando estiver em uma janela privativa.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Ajude a ocultar sua localização enquanto navega. Defina regras para ativar a VPN quando quiser <a data-l10n-name="learn-more-vpn">mais privacidade</a> ou navegar com base em localização, ou desativar a VPN quando não quiser.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Ajude a ocultar sua localização para ter <a data-l10n-name="learn-more-vpn">mais privacidade</a> ao navegar. Defina regras para ativar a VPN onde quiser mais privacidade ou navegar com base em localização e regras para desativar onde não quiser.
 ipprotection-feature-introduction-title-captive-portal = Está em uma rede pública de WiFi? Experimente a VPN integrada no { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navegue com proteção extra, ocultando sua localização, mesmo em redes públicas de WiFi.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Entendi
 ipprotection-site-inclusions-callout-title-existing-users = Defina regras da VPN integrada, depois continue navegando
 ipprotection-site-inclusions-callout-title-lapsed-users = Experimente a VPN integrada, agora site por site
 ipprotection-site-inclusions-callout-description-1 = Ative a VPN onde quiser privacidade extra ou navegação com base em localização, desative onde não quiser.
+ipprotection-site-inclusions-callout-description-lapsed-users = Defina regras para ativar a VPN quando quiser mais privacidade ou navegar com base em localização, ou desativar a VPN quando não quiser.
 ipprotection-site-inclusions-callout-description = Ative quando quiser privacidade extra ou navegação baseada em localização, desative onde não quiser.
 ipprotection-site-inclusions-callout-primary-button = Definir regras
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Agora não
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Descartar
 ipprotection-holiday-promo-description = Torne sua navegação privativa e mais difícil de rastrear com a VPN integrada.
 ipprotection-holiday-promo-primary-button = Abrir VPN
 ipprotection-holiday-promo-secondary-button = Descartar
+ipprotection-holiday-promo-title-1 = Tenha VPN ilimitada até 31 de janeiro
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Ative a VPN para ocultar sua 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configure a VPN para ativar</a> toda vez que você abrir o { -brand-short-name }, para ter uma camada extra de proteção.
 ipprotection-message-continuous-onboarding-site-settings = O { -brand-short-name } memoriza quais sites você configura para usar VPN. Você pode modificar quando quiser nas <a data-l10n-name="setting-link">configurações</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN está desativada neste site
+confirmation-hint-ipprotection-navigated-to-included-site = A VPN está ativada neste site
 ipprotection-open-button = Abrir o { -brand-product-name }
 ipprotection-come-back-title = Volte para experimentar a VPN integrada
 ipprotection-message-body-hide-location = Oculte sua localização ao navegar no { -brand-product-name } para ter mais privacidade e controle.

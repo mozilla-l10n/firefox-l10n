@@ -44,6 +44,9 @@ ai-window-toggleview-open-private =
     .label = Obre una finestra privada nova
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Finestra clàssica
+toolbar-switcher-customizable-label-v2 =
+    .label = Commutador de la { -smart-window-brand-name }
+    .tooltiptext = Canvia entre finestres intel·ligents i clàssiques
 
 ## Input CTA
 
@@ -76,6 +79,7 @@ smartbar-placeholder-hint-4 = Cerca al web...
 
 smartbar-mention-typing-placeholder = Etiqueteu una pestanya o un lloc
 smartbar-mentions-list-no-results-label = No s'ha trobat cap resultat
+smartbar-mentions-list-tab-groups-label = Grups recents
 smartbar-mentions-list-recent-tabs-label = Pestanyes recents
 
 ## Context mentions menu toggle button
@@ -118,6 +122,7 @@ aiwindow-firstrun-model-personal-label = Personal
 aiwindow-firstrun-model-personal-body = Respostes a la vostra mida
 # $shortName (string) - The short name of the model version
 aiwindow-firstrun-model-personal-label-v2 = Personal: { $shortName }
+aiwindow-firstrun-model-personal-body-v2 = Dissenyat per a oferir assistència personalitzada en diversos idiomes
 aiwindow-firstrun-button = Som-hi
 aiwindow-firstrun-back-button = Enrere
 aiwindow-firstrun-next-button = Següent
@@ -142,6 +147,7 @@ aiwindow-input-model-select-settings-link = Paràmetres del model
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-title = Respostes més útils, al vostre gust
+aiwindow-firstrun-memories-subtitle = La { -smart-window-brand-name } pot aprendre dels xats, de la navegació o de totes dues coses per a crear memòries. D'aquesta manera, les respostes són cada cop més útils.
 aiwindow-firstrun-memories-conversation-title = Mantingueu el fil de la conversa
 aiwindow-firstrun-memories-conversation-body = Si aprèn dels xats, us haureu de repetir menys.
 aiwindow-firstrun-memories-relevance-title = Respostes més rellevants
@@ -318,7 +324,9 @@ smart-window-default-promo-additional-button = Ara no
 
 aiwindow-feedback-modal-title = Compartiu els comentaris
 aiwindow-feedback-what-worked-well = Què ha funcionat bé? No doneu informació personal, si us plau.
+aiwindow-feedback-choose-any = Trieu totes les opcions que corresponguin
 aiwindow-feedback-add-details = Afegiu-hi detalls si voleu. No doneu informació personal, si us plau.
+aiwindow-feedback-disclaimer = Enviant-ho compartiu els vostres comentaris i aquest xat per a ajudar el { -brand-shorter-name } a millorar la { -smart-window-brand-name }. Els vostres altres xats es mantenen privats. <a data-l10n-name="learn-more">Més informació</a>
 aiwindow-feedback-submit = Envia
 aiwindow-feedback-cancel = Cancel·la
 aiwindow-feedback-reason-incorrect-or-misleading = Incorrecte o enganyós
