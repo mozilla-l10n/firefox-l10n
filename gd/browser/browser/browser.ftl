@@ -1076,6 +1076,21 @@ eme-notifications-drm-content-playing-dismiss-accesskey = d
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Feumaidh tu DRM a chur an comas gus cuid dhen fhuaim no video air an duilleag seo a chluich.
+eme-notifications-drm-content-disabled-button =
+    .label = Cuir DRE an comas
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = Tha { -brand-short-name } a' stàladh co-phàirtean air a bheil feum gus an fhuaim no video air an duilleag seo a chluich. Feuch ris a-rithist an ceann greis.
+decoder-doctor-no-codecs-linux-message = Feumaidh tu na video codecs air a bheil feum a stàladh mus urrainn dhut video a chluich.
+decoder-doctor-no-hw-acceleration-message = Feumaidh tu am Media Feature Pack aig Microsoft a stàladh airson piseach a chur air a’ video.
+decoder-doctor-no-pulse-audio-message = Feumaidh tu am bathar-bog PulseAudio air a bheil feum a stàladh mus urrainn dhut fuaim a chluich.
+decoder-doctor-unsupported-libavcodec-message = Dh’fhaoidte gum bi libavcodec so-mhillidh no nach eil taic ris agus gu bheil feum air ùrachadh mus urrainn dhut video a chluich.
+decoder-doctor-decode-error-message = Thachair mearachd rè dì-chòdachadh goireas a’ mheadhain.
+decoder-doctor-decode-warning-message = Thachair mearachd rè dì-chòdachadh goireas a’ mheadhain ach is urrainn dhuinn aiseag a dhèanamh.
+decoder-doctor-learn-how-link = Barrachd fiosrachaidh
+decoder-doctor-report-issue-button =
+    .label = Dèan aithris air duilgheadas leis an làrach
+    .accesskey = R
 
 ## Password save/update panel
 
