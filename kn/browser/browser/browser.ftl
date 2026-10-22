@@ -378,6 +378,13 @@ eme-notifications-drm-content-playing = ಈ ತಾಣದಲ್ಲಿರುವ �
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Enable DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ಈ ಪುಟದಲ್ಲಿ ಧ್ವನಿ ಅಥವಾ ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡಲು ಬೇಕಿರುವ ಘಟಕಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸುತ್ತಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.
+decoder-doctor-no-codecs-linux-message = ವೀಡಿಯೊವನ್ನು ಪ್ಲೇ ಮಾಡಲು, ಅಗತ್ಯವಿರುವ ವೀಡಿಯೊ ಕೋಡೆಕ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಬೇಕಾಗಬಹುದು.
+decoder-doctor-no-hw-acceleration-message = ವೀಡಿಯೊದ ಗುಣಮಟ್ಟವನ್ನು ಸುಧಾರಿಸಲು, ಮೈಕ್ರೋಸಾಫ್ಟ್‌ನ ಮೀಡಿಯಾ ಫೀಚರ್ ಪ್ಯಾಕ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಬೇಕಾಗಬಹುದು.
+decoder-doctor-learn-how-link = ಹೇಗೆ ತಿಳಿಯಿರಿ
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = { $pluginName } ಪ್ಲಗ್ಇನ್ ಕುಸಿತಗೊಂಡಿದೆ.
