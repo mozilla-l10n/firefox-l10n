@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = Ј
 text-action-search-text-box-clear =
     .title = Избриши
+text-action-highlight-selection-2 =
+    .label = Истакни го изборот
+    .accesskey = И
 text-action-highlight-selection =
     .label = Истакни го изборот
 # This adds a comment to selected text within the PDF viewer.
