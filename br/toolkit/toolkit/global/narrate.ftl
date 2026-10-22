@@ -8,6 +8,12 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+narrate-start =
+    .title = Loc'hañ ({ $shortcut })
+narrate-stop =
+    .title = Paouez ({ $shortcut })
+narrate-skip-next =
+    .title = War-lec’h ({ $shortcut })
 
 ##
 
