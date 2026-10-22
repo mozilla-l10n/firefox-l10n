@@ -370,6 +370,15 @@ decoder-doctor-learn-how-link = Funda ukuba wenza njani
 decoder-doctor-report-issue-button =
     .label = Xela uMba weSayithi
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = I-{ $pluginName } softiwe encedisayo yonakele.
+plugin-crashed-notification-reload-button =
+    .label = Layisha kwakhona ikhasi
+    .accesskey = L
+plugin-crashed-notification-submit-button =
+    .label = Thumela ingxelo yokonakala
+    .accesskey = T
 
 ## Password save/update panel
 
