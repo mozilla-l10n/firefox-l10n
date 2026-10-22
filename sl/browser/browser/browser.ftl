@@ -1254,6 +1254,18 @@ toolbar-button-zoom-reset-tooltip = Ponastavi povečavo ({ $shortcut })
 toolbar-button-zoom-in =
     .label = Povečaj
     .tooltiptext = Povečaj ({ $shortcut })
+toolbar-edit-controls =
+    .label = Uredi
+    .title = Možnosti urejanja
+toolbar-button-cut =
+    .label = Izreži
+    .tooltiptext = Izreži ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopiraj
+    .tooltiptext = Kopiraj ({ $shortcut })
+toolbar-button-paste =
+    .label = Prilepi
+    .tooltiptext = Prilepi ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
