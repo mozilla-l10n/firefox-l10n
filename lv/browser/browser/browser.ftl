@@ -1139,6 +1139,9 @@ toolbar-button-find =
 toolbar-button-developer =
     .label = Izstrādātāju rīki
     .tooltiptext = Atvērt izstrādātāju rīkus ({ $shortcut })
+toolbar-button-forget =
+    .label = Aizmirst
+    .tooltiptext = Aizmirst daļu pārlūkošanas vēstures
 toolbar-zoom-controls =
     .label = Pietuvinājuma rīki
     .title = Pietuvinājuma rīki
@@ -1149,6 +1152,18 @@ toolbar-button-zoom-reset-tooltip = Atjaunot noklusēto pietuvinājumu ({ $short
 toolbar-button-zoom-in =
     .label = Pietuvināt
     .tooltiptext = Pietuvināt ({ $shortcut })
+toolbar-edit-controls =
+    .label = Labot vadīklas
+    .title = Labot vadīklas
+toolbar-button-cut =
+    .label = Izgriezt
+    .tooltiptext = Izgriezt ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopēt
+    .tooltiptext = Kopēt ({ $shortcut })
+toolbar-button-paste =
+    .label = Ielīmēt
+    .tooltiptext = Ielīmēt ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
