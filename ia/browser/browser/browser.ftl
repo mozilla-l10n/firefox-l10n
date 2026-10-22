@@ -1223,6 +1223,34 @@ toolbar-button-history =
 toolbar-button-find =
     .label = Cercar
     .tooltiptext = Cercar in iste pagina ({ $shortcut })
+toolbar-button-developer =
+    .label = Disveloppamento
+    .tooltiptext = Aperir le instrumentos de disveloppamento web ({ $shortcut })
+toolbar-button-forget =
+    .label = Oblidar
+    .tooltiptext = Oblidar parte del chronologia de navigation
+toolbar-zoom-controls =
+    .label = Controlos de zoom
+    .title = Controlos de zoom
+toolbar-button-zoom-out =
+    .label = Distantiar
+    .tooltiptext = Distantiar ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Reinitialisar le nivello de zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Approximar
+    .tooltiptext = Approximar ({ $shortcut })
+toolbar-edit-controls =
+    .label = Controlos de modification
+    .title = Controlos de edition
+toolbar-button-cut =
+    .label = Taliar
+    .tooltiptext = Taliar ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiar
+    .tooltiptext = Copiar ({ $shortcut })
+toolbar-button-paste =
+    .label = Collar
+    .tooltiptext = Collar ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
