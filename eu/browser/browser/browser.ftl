@@ -1269,6 +1269,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = B
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Gaitu DRMa
+    .accesskey = G
+eme-notifications-drm-content-cdm-installing-message = Orri honetako audioa edo bideoa erreproduzitzeko behar diren osagaiak instalatzen ari da { -brand-short-name }. Saiatu berriro geroago mesedez.
+decoder-doctor-no-codecs-linux-message = Bideoa erreproduzitzeko, baliteke beharrezko bideo-kodekak instalatu behar izatea.
+decoder-doctor-no-hw-acceleration-message = Bideoaren kalitatea hobetzeko, baliteke Microsoft-en Media Feature Pack-a instalatu behar izatea.
+decoder-doctor-no-pulse-audio-message = Bideoa erreproduzitzeko, baliteke PulseAudio softwarea instalatu behar izatea.
+decoder-doctor-unsupported-libavcodec-message = libavcodec babesik edo euskarririk gabe egon liteke eta eguneratu egin behar da bideoa erreproduzitzeko.
+decoder-doctor-decode-error-message = Errorea gertatu da multimedia-baliabide bat deskodetzean.
+decoder-doctor-decode-warning-message = Berreskuragarria den errore bat gertatu da multimedia-baliabide bat deskodetzean.
+decoder-doctor-learn-how-link = Ikasi nola
+decoder-doctor-report-issue-button =
+    .label = Eman gunearen arazoaren berri
+    .accesskey = E
 
 ## Password save/update panel
 
