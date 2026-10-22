@@ -752,11 +752,25 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 eme-notifications-drm-content-disabled-button =
     .label = DRM చేతినము చేయుము
     .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = ఈ పేజీలో ఆడియో లేదా వీడియో నడుపుటకు కావలసిన కాంపోనెంట్లను { -brand-short-name } స్థాపిస్తోంది. దయచేసి కాసేవాగి ప్రయత్నించండి.
 decoder-doctor-no-codecs-linux-message = వీడియో ప్లే చేయడానికి, మీరు అవసరమైన వీడియో కోడెక లు ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
 decoder-doctor-no-hw-acceleration-message = వీడియో నాణ్యతను మెరుగుపరిచేందుకు, మీరు Microsoft యొక్క Media Feature Pack ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
 decoder-doctor-no-pulse-audio-message = ఆడియో ప్లే చేయడానికి, మీరు అవసరమైన PulseAudio సాఫ్ట్వేరుని ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
 decoder-doctor-unsupported-libavcodec-message = libavcodec హాని కలిగించడానికి అవకాశం ఉండవచ్చు లేదా మద్దతుని ఇవ్వదు మరియు వీడియో ప్లే చేయడానికి నవీకరించాలి.
+decoder-doctor-decode-warning-message = మీడియా వనరును డీకోడ్ చేస్తున్నప్పుడు ఒక తిరిగి పొందగల లోపం సంభవించింది.
 decoder-doctor-learn-how-link = ఎలానో తెలుసుకోండి
+decoder-doctor-report-issue-button =
+    .label = సైటు సమస్యను నివేదించండి
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } ప్లగిన్ క్రాష్ అయినది.
+plugin-crashed-notification-reload-button =
+    .label = పేజీను తిరిగిలోడుచేయుము
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = క్రాష్ నివేదికలను సమర్పించండి
+    .accesskey = S
 
 ## Password save/update panel
 
