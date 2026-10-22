@@ -1215,6 +1215,25 @@ toolbar-button-forget =
 toolbar-zoom-controls =
     .label = 縮放控制
     .title = 縮放控制
+toolbar-button-zoom-out =
+    .label = 縮小
+    .tooltiptext = 縮小（{ $shortcut }）
+toolbar-button-zoom-reset-tooltip = 重設頁面縮放大小（{ $shortcut }）
+toolbar-button-zoom-in =
+    .label = 放大
+    .tooltiptext = 放大（{ $shortcut }）
+toolbar-edit-controls =
+    .label = 編輯控制元件
+    .title = 編輯控制
+toolbar-button-cut =
+    .label = 剪下
+    .tooltiptext = 剪下（{ $shortcut }）
+toolbar-button-copy =
+    .label = 複製
+    .tooltiptext = 複製（{ $shortcut }）
+toolbar-button-paste =
+    .label = 貼上
+    .tooltiptext = 貼上（{ $shortcut }）
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
