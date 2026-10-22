@@ -477,6 +477,15 @@ decoder-doctor-learn-how-link = Gahuin chrūn daj
 decoder-doctor-report-issue-button =
     .label = Natà’ sa ‘iaj sun a’nan’ riña sitiô na
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Gire' plugin { $pluginName } nitaj si 'iaj sun ma.
+plugin-crashed-notification-reload-button =
+    .label = Na'nī ñu' pajinâ
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Ganato' nuinsaj gire' ma
+    .accesskey = S
 
 ## Password save/update panel
 
