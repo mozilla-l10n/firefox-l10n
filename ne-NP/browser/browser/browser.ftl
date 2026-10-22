@@ -788,7 +788,12 @@ decoder-doctor-no-codecs-linux-message = भिडियो चलाउन, त
 decoder-doctor-no-hw-acceleration-message = भिडियो गुणस्तर सुधार गर्न, तपाईँले Microsoft को Media Feature Pack स्थापना गर्न आवश्यक हुन सक्छ।
 decoder-doctor-no-pulse-audio-message = आवाज सुन्नका लागि तपाईँलाई PulseAudio सफ्टवेयर स्थापना गर्न आवश्यक पर्न सक्छ।
 decoder-doctor-unsupported-libavcodec-message = भिडियो हेर्नको लागि libavcodec असुरक्षित हुन सक्छ अथवा समर्थित छैन, तसर्थ अद्यावधिक गर्न जरुरी छ।
+decoder-doctor-decode-error-message = मिडिया संसाधन असङ्केतन गर्दा त्रुटि उत्पन्न भयो।
+decoder-doctor-decode-warning-message = मिडिया संसाधन असङ्केतन गर्दा अप्राप्य त्रुटि उत्पन्न भयो।
 decoder-doctor-learn-how-link = कसरी जान्नुहोस्
+decoder-doctor-report-issue-button =
+    .label = साइटको समस्या दर्ता गर्नुहोस्‌
+    .accesskey = R
 
 ## Password save/update panel
 
