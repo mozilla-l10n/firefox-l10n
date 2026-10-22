@@ -335,6 +335,15 @@ toolbar-button-paste =
 
 ## Notification bars for media playback issues
 
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } ପ୍ଲଗଇନଟି ନଷ୍ଟ ହୋଇଯାଇଛି।
+plugin-crashed-notification-reload-button =
+    .label = ପୃଷ୍ଠାକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ଗୋଟିଏ ତ୍ରୁଟିବିବରଣୀ ଦାଖଲ କରନ୍ତୁ
+    .accesskey = S
 
 ## Password save/update panel
 
