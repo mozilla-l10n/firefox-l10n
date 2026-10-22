@@ -1072,7 +1072,17 @@ eme-notifications-drm-content-disabled-message = Трябва да активи�
 eme-notifications-drm-content-disabled-button =
     .label = Включване на DRM
     .accesskey = В
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } инсталира компоненти, необходими за работата на аудио или видеозапис от страницата. Моля, опитайте по-късно.
+decoder-doctor-no-codecs-linux-message = За възпроизвеждане на видеото, е нужно да инсталирате изискваните видео кодеци.
+decoder-doctor-no-hw-acceleration-message = За подобряване качеството на видеото, е нужно да инсталирате Media Feature Pack на Microsoft.
+decoder-doctor-no-pulse-audio-message = За възпроизвеждане на аудиото, е нужно да инсталирате изискваният софтуер на PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec може да е уязвима или неподдържана и за възпроизвеждане на видео трябва да бъде обновена.
+decoder-doctor-decode-error-message = Възникна грешка при разкодиране да медиен ресурс.
+decoder-doctor-decode-warning-message = Възникна възстановима грешка при разкодиране да медиен ресурс.
 decoder-doctor-learn-how-link = Научете как
+decoder-doctor-report-issue-button =
+    .label = Докладване на проблем със сайта
+    .accesskey = Д
 
 ## Password save/update panel
 
