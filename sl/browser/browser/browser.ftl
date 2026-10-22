@@ -1294,6 +1294,12 @@ decoder-doctor-no-codecs-linux-message = Za predvajanje videoposnetka boste mord
 decoder-doctor-no-hw-acceleration-message = Za izboljšanje kakovosti slike boste morda morali namestiti Microsoftov paket predstavnostnih funkcij.
 decoder-doctor-no-pulse-audio-message = Za predvajanje zvoka boste morda morali namestiti zahtevano programsko opremo PulseAudio.
 decoder-doctor-unsupported-libavcodec-message = libavcodec je morda ranljiv ali ni posodobljen. Posodobite ga za predvajanje videoposnetkov.
+decoder-doctor-decode-error-message = Med dekodiranjem vira predstavnosti je prišlo do napake.
+decoder-doctor-decode-warning-message = Med dekodiranjem vira predstavnosti je prišlo do popravljive napake.
+decoder-doctor-learn-how-link = Naučite se, kako
+decoder-doctor-report-issue-button =
+    .label = Prijavi napako strani
+    .accesskey = P
 
 ## Password save/update panel
 
