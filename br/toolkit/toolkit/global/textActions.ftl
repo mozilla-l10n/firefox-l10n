@@ -65,6 +65,17 @@ text-action-search-text-box-clear =
     .title = Clear
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
 # to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Eilañ an ere da sklêrijennañ
+    .accesskey = E
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = Eilañ an ere naet da sklêrijennañ
+    .accesskey = E
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
 text-action-copy-link-to-highlight =
     .label = Eilañ an ere da sklêrijennañ
 # This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
