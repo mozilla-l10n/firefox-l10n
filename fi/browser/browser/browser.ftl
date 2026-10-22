@@ -1269,6 +1269,16 @@ eme-notifications-drm-content-disabled-button =
     .label = Ota DRM-tuki käyttöön
     .accesskey = O
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } asentaa komponentteja, joita tarvitaan toistamaan sivun äänitteitä tai videoita. Yritä myöhemmin uudestaan.
+decoder-doctor-no-codecs-linux-message = Vaaditut videokoodekit tarvitsee ehkä asentaa, jotta voit toistaa videon.
+decoder-doctor-no-hw-acceleration-message = Microsoftin Mediaominaisuuspaketti tarvitsee ehkä asentaa videon laadun parantamiseksi.
+decoder-doctor-no-pulse-audio-message = PulseAudio-ohjelmisto tarvitsee ehkä asentaa, jotta voit toistaa ääntä.
+decoder-doctor-unsupported-libavcodec-message = libavcodec voi olla haavoittuvainen tai ehkä sitä ei tueta, ja se pitäisi päivittää, jotta voit katsoa videoita.
+decoder-doctor-decode-error-message = Tapahtui virhe purettaessa mediaresurssia.
+decoder-doctor-decode-warning-message = Tapahtui toivuttavissa oleva virhe purettaessa mediaresurssia.
+decoder-doctor-learn-how-link = Lue miten
+decoder-doctor-report-issue-button =
+    .label = Ilmoita sivuston ongelmasta
+    .accesskey = I
 
 ## Password save/update panel
 
