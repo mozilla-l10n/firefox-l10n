@@ -1237,6 +1237,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Bạn phải kích hoạt DRM để phát một số âm thanh hoặc video trên trang này.
+eme-notifications-drm-content-disabled-button =
+    .label = Kích hoạt DRM
+    .accesskey = E
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } đang cài đặt các thành phần cần thiết để xem audio hay video trên trang này. Xin hãy thử lại sau.
 decoder-doctor-no-codecs-linux-message = Để phát video, bạn có thể cần phải cài codec.
 decoder-doctor-no-hw-acceleration-message = Để cải thiện chất lượng video, bạn có thể cần phải cài Media Feature Pack của Microsoft.
@@ -1248,6 +1252,15 @@ decoder-doctor-learn-how-link = Tìm hiểu làm thế nào
 decoder-doctor-report-issue-button =
     .label = Báo cáo vấn đề về trang
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Phần bổ trợ { $pluginName } đã bị lỗi.
+plugin-crashed-notification-reload-button =
+    .label = Tải lại trang này
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Gửi báo cáo lỗi
+    .accesskey = S
 
 ## Password save/update panel
 
