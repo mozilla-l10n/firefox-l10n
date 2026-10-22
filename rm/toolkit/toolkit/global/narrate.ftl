@@ -16,3 +16,5 @@ narrate-rate-slow =
 narrate-rate-fast =
     .title = Accelerar la prelecziun
 narrate-voice-header = Vusch
+# Default voice is determined by the language of the document.
+narrate-voice-default = Standard
