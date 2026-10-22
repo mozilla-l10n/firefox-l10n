@@ -1223,6 +1223,9 @@ toolbar-button-cut =
 toolbar-button-copy =
     .label = Պատճենել
     .tooltiptext = Պատճենել ({ $shortcut })
+toolbar-button-paste =
+    .label = Փակցնել
+    .tooltiptext = Փակցնել ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
