@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = T
 text-action-search-text-box-clear =
     .title = Wiskje
+text-action-highlight-selection-2 =
+    .label = Seleksje markearje
+    .accesskey = S
 text-action-highlight-selection =
     .label = Seleksje markearje
 # This adds a comment to selected text within the PDF viewer.
