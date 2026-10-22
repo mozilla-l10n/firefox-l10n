@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = R
 text-action-search-text-box-clear =
     .title = Wuprózdnić
+text-action-highlight-selection-2 =
+    .label = Wuběr wuzběhnyć
+    .accesskey = W
 text-action-highlight-selection =
     .label = Wuběr wuzběhnyć
 # This adds a comment to selected text within the PDF viewer.
