@@ -29,3 +29,12 @@ customize-mode-undo-cmd =
     .label = Atsaukt
 customize-mode-touchbar-cmd =
     .label = Pīlāgōt skōrīnjūslu…
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Elasteiga atstorpe
+customize-mode-toolbarseparator =
+    .title = Atdaleituojs
+customize-mode-toolbarspacer =
+    .title = Atstorpe
