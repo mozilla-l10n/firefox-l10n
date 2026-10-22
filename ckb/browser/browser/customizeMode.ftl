@@ -29,3 +29,12 @@ customize-mode-undo-cmd =
     .label = گەڕانەوە
 customize-mode-touchbar-cmd =
     .label = تووڵی دەستلێدان(تەچ) بەدڵخوازی خۆت بکە...
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = بۆشایی گونجێنەر
+customize-mode-toolbarseparator =
+    .title = جیاکەرەوە
+customize-mode-toolbarspacer =
+    .title = بۆشایی
