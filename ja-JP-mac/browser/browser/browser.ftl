@@ -1243,6 +1243,15 @@ eme-notifications-drm-content-disabled-button =
     .label = DRM を有効にする
     .accesskey = E
 eme-notifications-drm-content-cdm-installing-message = このページの音声や映像の再生に必要なコンポーネントをインストールしています。後で試してください。
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } プラグインがクラッシュしました。
+plugin-crashed-notification-reload-button =
+    .label = ページを再読み込み
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = クラッシュレポートを送信
+    .accesskey = S
 
 ## Password save/update panel
 
