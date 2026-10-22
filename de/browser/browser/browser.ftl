@@ -1270,6 +1270,14 @@ eme-notifications-drm-content-playing-dismiss-accesskey = c
 
 ## Notification bars for media playback issues
 
+decoder-doctor-no-pulse-audio-message = Zur Audio-Wiedergabe müssen Sie die eventuell benötigte Software PulseAudio installieren.
+decoder-doctor-unsupported-libavcodec-message = libavcodec sollte aktualisiert werden, um Videos wiederzugeben, da es gegen Angriffe verwundbar sein könnte oder die installierte Version nicht unterstützt wird.
+decoder-doctor-decode-error-message = Beim Dekodieren einer Medien-Ressource trat ein Fehler auf.
+decoder-doctor-decode-warning-message = Beim Dekodieren einer Medien-Ressource trat ein behebbarer Fehler auf.
+decoder-doctor-learn-how-link = So wird's gemacht
+decoder-doctor-report-issue-button =
+    .label = Seitenproblem melden
+    .accesskey = m
 
 ## Password save/update panel
 
