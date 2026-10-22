@@ -1143,6 +1143,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Virkja DRM
+    .accesskey = V
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } er að setja inn viðbætur til að geta spilað hljóðskrá eða myndband á þessari síðu. Reyndu aftur seinna.
+decoder-doctor-no-codecs-linux-message = Til að geta spilað myndband, þarftu að setja inn nauðsynlega myndbanda kóðaalgrím.
+decoder-doctor-no-hw-acceleration-message = Til að auka gæði myndbanda, gætirðu þurft að setja inn Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Til að geta spilað hljóð, þarftu að setja inn nauðsynlegan PulseAudio hugbúnað.
+decoder-doctor-unsupported-libavcodec-message = libavcodec gæti verið gallað og er ekki með stuðning, þú ættir að uppfæra það til að geta spilað myndefni.
+decoder-doctor-decode-error-message = Villa kom upp þegar verið var að afkóða miðlaragögn.
+decoder-doctor-decode-warning-message = Upp koma villa sem var hægt að laga þegar verið var að afkóða miðlaragögn.
+decoder-doctor-learn-how-link = Vita hvernig
+decoder-doctor-report-issue-button =
+    .label = Tilkynna vandamál á vefsvæði
+    .accesskey = T
 
 ## Password save/update panel
 
