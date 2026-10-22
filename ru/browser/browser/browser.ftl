@@ -1281,6 +1281,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = к
 
 decoder-doctor-no-pulse-audio-message = Для воспроизведения аудио вам может потребоваться установить необходимое программное обеспечение PulseAudio.
 decoder-doctor-unsupported-libavcodec-message = libavcodec может быть уязвим или не поддерживаться и должен быть обновлён для воспроизведения видео.
+decoder-doctor-decode-error-message = При декодировании медиаресурса произошла ошибка.
 decoder-doctor-decode-warning-message = При декодировании медиаресурса произошла ошибка, которую можно исправить.
 decoder-doctor-learn-how-link = Подробнее
 decoder-doctor-report-issue-button =
