@@ -529,6 +529,12 @@ toolbar-edit-controls =
 toolbar-button-cut =
     .label = काटें
     .tooltiptext = कट ({ $shortcut })
+toolbar-button-copy =
+    .label = नकल करें
+    .tooltiptext = नकल करें ({ $shortcut })
+toolbar-button-paste =
+    .label = चिपकाएँ
+    .tooltiptext = चिपकाएँ ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
