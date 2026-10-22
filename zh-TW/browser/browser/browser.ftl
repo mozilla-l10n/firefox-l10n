@@ -1260,7 +1260,23 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } 正在安裝讓您播放此頁面中的影音內容的元件，請稍後再試。
 decoder-doctor-no-codecs-linux-message = 您可能需要安裝必須的視訊解碼器才能播放影片。
 decoder-doctor-no-hw-acceleration-message = 若要改善影片播放品質，您可能需要安裝微軟的 Media Feature Pack。
+decoder-doctor-no-pulse-audio-message = 要播放音效，您可能必須安裝 PulseAudio 軟體套件。
+decoder-doctor-unsupported-libavcodec-message = libavcodec 可能不安全或不受支援，要用來播放影片前請先更新。
+decoder-doctor-decode-error-message = 解碼媒體資源時發生錯誤。
+decoder-doctor-decode-warning-message = 解碼媒體資源時發生可恢復的錯誤。
 decoder-doctor-learn-how-link = 了解要怎麼做
+decoder-doctor-report-issue-button =
+    .label = 回報網站問題
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } 外掛程式發生錯誤，已經關閉。
+plugin-crashed-notification-reload-button =
+    .label = 重新載入網頁
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = 送出一份錯誤報告
+    .accesskey = S
 
 ## Password save/update panel
 
