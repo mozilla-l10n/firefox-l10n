@@ -8,9 +8,21 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+# Label for the toolbar button opening the read aloud menu.
+narrate-toggle-label = Čitaj naglas ({ $shortcut })
+narrate-skip-previous =
+    .title = Nazad ({ $shortcut })
+narrate-start =
+    .title = Pokreni ({ $shortcut })
+narrate-stop =
+    .title = Zaustavi ({ $shortcut })
+narrate-skip-next =
+    .title = Naprijed ({ $shortcut })
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = Čitaj naglas
 narrate-rate-slow =
     .title = Uspori naraciju
 narrate-rate-fast =
