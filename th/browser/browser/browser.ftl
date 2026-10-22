@@ -1142,6 +1142,31 @@ toolbar-button-find =
 toolbar-button-developer =
     .label = นักพัฒนา
     .tooltiptext = เปิดเครื่องมือนักพัฒนาเว็บ ({ $shortcut })
+toolbar-button-forget =
+    .label = ลืม
+    .tooltiptext = ลืมประวัติการเรียกดูบางส่วน
+toolbar-zoom-controls =
+    .label = ปุ่มควบคุมการซูม
+    .title = ปุ่มควบคุมการซูม
+toolbar-button-zoom-out =
+    .label = ซูมออก
+    .tooltiptext = ซูมออก ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = กลับค่าเดิมของระดับการซูม ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = ซูมเข้า
+    .tooltiptext = ซูมเข้า ({ $shortcut })
+toolbar-edit-controls =
+    .label = ปุ่มควบคุมการแก้ไข
+    .title = ปุ่มควบคุมการแก้ไข
+toolbar-button-cut =
+    .label = ตัด
+    .tooltiptext = ตัด ({ $shortcut })
+toolbar-button-copy =
+    .label = คัดลอก
+    .tooltiptext = คัดลอก ({ $shortcut })
+toolbar-button-paste =
+    .label = วาง
+    .tooltiptext = วาง ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
