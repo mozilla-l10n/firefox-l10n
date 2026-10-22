@@ -1229,9 +1229,31 @@ toolbar-button-find =
 toolbar-button-developer =
     .label = כלי פיתוח
     .tooltiptext = פתיחת כלי פיתוח ({ $shortcut })
+toolbar-button-forget =
+    .label = לשכוח
+    .tooltiptext = לשכוח חלק מהיסטוריית הגלישה
 toolbar-zoom-controls =
     .label = פקדי מרחק מתצוגה
     .title = פקדי מרחק מתצוגה
+toolbar-button-zoom-out =
+    .label = התרחקות
+    .tooltiptext = התרחקות ‎({ $shortcut })
+toolbar-button-zoom-reset-tooltip = איפוס הגדרות מרחק מתצוגה ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = התקרבות
+    .tooltiptext = התקרבות ‎({ $shortcut })
+toolbar-edit-controls =
+    .label = פקדי עריכה
+    .title = פקדי עריכה
+toolbar-button-cut =
+    .label = גזירה
+    .tooltiptext = גזירה ({ $shortcut })
+toolbar-button-copy =
+    .label = העתקה
+    .tooltiptext = העתקה ({ $shortcut })
+toolbar-button-paste =
+    .label = הדבקה
+    .tooltiptext = הדבקה ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
