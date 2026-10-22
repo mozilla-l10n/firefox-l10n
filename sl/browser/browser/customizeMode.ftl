@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Prilagodi vrstico na dotik …
 customize-mode-downloads-button-autohide =
     .label = Skrij gumb, ko je seznam prazen
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Prilagodljiv prostor
+customize-mode-toolbarseparator =
+    .title = Ločilna črta
+customize-mode-toolbarspacer =
+    .title = Prostor
