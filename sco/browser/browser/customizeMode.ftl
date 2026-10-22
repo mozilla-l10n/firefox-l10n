@@ -35,3 +35,12 @@ customize-mode-touchbar-cmd =
     .label = Mak Touch Baur Yer Ain…
 customize-mode-downloads-button-autohide =
     .label = Hide button when tuim
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Shoogleable Space
+customize-mode-toolbarseparator =
+    .title = Sinderer
+customize-mode-toolbarspacer =
+    .title = Space
