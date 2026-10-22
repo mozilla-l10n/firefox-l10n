@@ -1306,6 +1306,16 @@ eme-notifications-drm-content-playing-dismiss-accesskey = C
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Rhaid galluogi DRM i chwarae'r sain neu'r fideo sydd ar y dudalen hon. %S
+eme-notifications-drm-content-disabled-button =
+    .label = Galluogi DRM
+    .accesskey = G
+eme-notifications-drm-content-cdm-installing-message = Mae { -brand-short-name } yn gosod cydrannau sydd eu hangen i chwarae'r sain a'r fideo ar y dudalen hon. Ceisiwch eto'n hwyrach ymlaen.
+decoder-doctor-no-codecs-linux-message = I chwarae fideo, efallai y bydd angen gosod y codecsau fideo angenrheidiol.
+decoder-doctor-no-hw-acceleration-message = I wella ansawdd y fideo, efallai y bydd angen gosod y Microsoft Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = I chwarae sain, efallai y bydd angen gosod y feddalwedd PulseAudio angenrheidiol.
+decoder-doctor-unsupported-libavcodec-message = Gall libavcodec fod yn fregus neu heb ei gynnal a dylai gael ei ddiweddaru ar gyfer chwarae fideo.
+decoder-doctor-learn-how-link = Sut mae gwneud
 
 ## Password save/update panel
 
