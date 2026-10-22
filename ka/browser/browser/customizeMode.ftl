@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = შეხების ზოლის მორგება...
 customize-mode-downloads-button-autohide =
     .label = ღილაკის დამალვა როცა ცარიელია
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = დრეკადი არე
+customize-mode-toolbarseparator =
+    .title = გამყოფი
+customize-mode-toolbarspacer =
+    .title = სივრცე

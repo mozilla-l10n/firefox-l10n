@@ -5,6 +5,9 @@
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = „{ -brand-shortcut-name }“ privatusis naršymas
+
+##
+
 urlbar-identity-button =
     .aria-label = Peržiūrėti svetainės informaciją
 
@@ -375,6 +378,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Išjungti dalinimosi apsaugą šiam seansui
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -480,6 +486,18 @@ urlbar-result-action-tabtosearch-other-engine = Ieškokite „{ $engine }“ tie
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopijuoti
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Adresynas
@@ -500,6 +518,9 @@ urlbar-result-action-search-bookmarks = Ieškoti adresyne
 urlbar-result-action-search-history = Ieškoti žurnale
 urlbar-result-action-search-tabs = Ieškoti kortelėse
 urlbar-result-action-search-actions = Paieškos veiksmai
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -627,7 +648,8 @@ repair-text-encoding-button =
     .label = Sutvarkyti simbolių koduotę
     .tooltiptext = Nuspėti tinkamą simbolių koduotę iš puslapio turinio
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -665,6 +687,44 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Naujas privataus naršymo langas
     .tooltiptext = Atverti naują privačiojo naršymo langą ({ $shortcut })
+toolbar-button-history =
+    .label = Žurnalas
+    .tooltiptext = Rodyti žurnalą ({ $shortcut })
+toolbar-button-find =
+    .label = Ieškoti
+    .tooltiptext = Ieškoti šiame tinklalapyje ({ $shortcut })
+toolbar-button-developer =
+    .label = Programuotojams
+    .tooltiptext = Atverti saityno kūrėjų priemones ({ $shortcut })
+toolbar-button-forget =
+    .label = Valyti žurnalą
+    .tooltiptext = Valyti paskiausius naršymo žurnalo įrašus
+toolbar-zoom-controls =
+    .label = Mastelio keitimo mygtukai
+    .title = Mastelio keitimo mygtukai
+toolbar-button-zoom-out =
+    .label = Sumažinti
+    .tooltiptext = Sumažinti ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Grąžinti pirminį mastelį ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Padidinti
+    .tooltiptext = Padidinti ({ $shortcut })
+toolbar-edit-controls =
+    .label = Taisos mygtukai
+    .title = Taisos mygtukai
+toolbar-button-cut =
+    .label = Iškirpti
+    .tooltiptext = Iškirpti ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopijuoti
+    .tooltiptext = Kopijuoti ({ $shortcut })
+toolbar-button-paste =
+    .label = Įklijuoti
+    .tooltiptext = Įklijuoti ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -673,6 +733,33 @@ eme-notifications-drm-content-playing-manage = Keisti nuostatas
 eme-notifications-drm-content-playing-manage-accesskey = K
 eme-notifications-drm-content-playing-dismiss = Paslėpti
 eme-notifications-drm-content-playing-dismiss-accesskey = P
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Privalote įjungti DRM, norėdami atkurti dalį šiame tinklalapyje esančių garsų ar vaizdų.
+eme-notifications-drm-content-disabled-button =
+    .label = Įjungti DRM
+    .accesskey = Į
+eme-notifications-drm-content-cdm-installing-message = „{ -brand-short-name }“ diegia komponentus, reikalingus atkurti garsus arba vaizdus šiame tinklalapyje. Prašome bandyti vėliau dar kartą.
+decoder-doctor-no-codecs-linux-message = Norėdami atkurti vaizdo įrašą, galimai turite įsidiegti reikalingus vaizdo kodekus.
+decoder-doctor-no-hw-acceleration-message = Norėdami pagerinti vaizdo kokybę, galimai turite įsidiegti „Microsoft Media Feature Pack“.
+decoder-doctor-no-pulse-audio-message = Norėdami atkurti garso įrašą, galimai turite įsidiegti reikalingą „PulseAudio“ programinę įrangą.
+decoder-doctor-unsupported-libavcodec-message = „libavcodec“ gali būti nesaugus arba yra nepalaikomas, tad turėtų būtų atnaujintas, norint atkurti vaizdo įrašus.
+decoder-doctor-decode-error-message = Iškoduojant medijos išteklių įvyko klaida.
+decoder-doctor-decode-warning-message = Iškoduojant medijos išteklių įvyko atstatoma klaida.
+decoder-doctor-learn-how-link = Sužinokite kaip
+decoder-doctor-report-issue-button =
+    .label = Pranešti apie svetainės problemą
+    .accesskey = k
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Papildinys „{ $pluginName }“ užstrigo.
+plugin-crashed-notification-reload-button =
+    .label = Įkelti tinklalapį iš naujo
+    .accesskey = n
+plugin-crashed-notification-submit-button =
+    .label = Nusiųsti strigties pranešimą
+    .accesskey = s
 
 ## Password save/update panel
 
@@ -688,6 +775,10 @@ menu-share-more =
     .label = Daugiau…
 ui-tour-info-panel-close =
     .tooltiptext = Užverti
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -706,6 +797,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = k
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -738,11 +832,24 @@ tabs-toolbar-list-all-tabs =
     .label = Pateikti visas korteles
     .tooltiptext = Pateikti visas korteles
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Atverti ankstesnes korteles?</strong> Galite atkurti savo ankstesnį seansą iš „{ -brand-short-name }“ programos meniu <img data-l10n-name="icon"/>, iš žurnalo.
 restore-session-startup-suggestion-button = Parodyti instrukciją
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -768,6 +875,14 @@ unified-extensions-button-permissions-needed =
         Priedai
         Reikia leidimų
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-always-ask-checkbox =
@@ -777,6 +892,10 @@ reset-pbm-panel-cancel-button =
     .label = Atsisakyti
     .accesskey = A
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = „{ -brand-short-name }“ neleido šiam tinklalapiui automatiškai būti automatiškai atsiųstam iš naujo.
@@ -784,6 +903,9 @@ refresh-blocked-redirect-label = „{ -brand-short-name }“ neleido šiam tinkl
 refresh-blocked-allow =
     .label = Leisti
     .accesskey = L
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -825,3 +947,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Rodyti „{ $popupURI }“
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

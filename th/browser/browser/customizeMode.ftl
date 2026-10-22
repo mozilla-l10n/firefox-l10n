@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = ปรับแต่งแถบสัมผัส…
 customize-mode-downloads-button-autohide =
     .label = ซ่อนปุ่มเมื่อว่างเปล่า
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = ช่องว่างแบบยืดหยุ่น
+customize-mode-toolbarseparator =
+    .title = ตัวแบ่ง
+customize-mode-toolbarspacer =
+    .title = ช่องว่าง

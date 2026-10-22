@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administrar ils parameters per pop-ups u renviaments da terzas partidas…
     .accesskey = A
+
+##
+
 urlbar-identity-button =
     .aria-label = Mussar infurmaziuns davart la pagina
 
@@ -496,6 +499,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Deactivar la protecziun da cundivisiun per questa sesida
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -669,6 +675,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsurisà
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Dumandar
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -801,6 +812,9 @@ urlbar-result-action-switch-to-tabgroup = Midar a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Avrir { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -952,7 +966,8 @@ repair-text-encoding-button =
     .label = Reparar la codaziun dal text
     .tooltiptext = Engiavinar la codaziun correcta dal text dal cuntegn da la pagina
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1009,6 +1024,40 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Parter
     .tooltiptext = Parter questa pagina
+toolbar-button-history =
+    .label = Cronologia
+    .tooltiptext = Mussar tia cronologia ({ $shortcut })
+toolbar-button-find =
+    .label = Tschertgar
+    .tooltiptext = Tschertgar en la pagina ({ $shortcut })
+toolbar-button-developer =
+    .label = Sviluppaders
+    .tooltiptext = Utensils per sviluppaders dal web ({ $shortcut })
+toolbar-button-forget =
+    .label = Emblidar
+    .tooltiptext = Emblidar ina part da la cronologia da navigar
+toolbar-zoom-controls =
+    .label = Controlla dal zoom
+    .title = Controlla dal zoom
+toolbar-button-zoom-out =
+    .label = Empitschnir
+    .tooltiptext = Empitschnir ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Grondezza normala ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Engrondir
+    .tooltiptext = Engrondir ({ $shortcut })
+toolbar-edit-controls =
+    .label = Utensils per modifitgar
+    .title = Utensils per modifitgar
+toolbar-button-cut =
+    .label = Tagliar ora
+    .tooltiptext = Tagliar ora ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiar
+    .tooltiptext = Copiar ({ $shortcut })
+toolbar-button-paste =
+    .label = Encollar
+    .tooltiptext = Encollar ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1022,6 +1071,33 @@ eme-notifications-drm-content-playing-manage = Administrar ils parameters
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Serrar
 eme-notifications-drm-content-playing-dismiss-accesskey = S
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Ti stos activar DRM per pudair far ir l'audio u video da questa pagina.
+eme-notifications-drm-content-disabled-button =
+    .label = Activar DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installescha las cumponentas necessarias per far ir video u audio sin questa pagina. Emprova pli tard anc ina giada.
+decoder-doctor-no-codecs-linux-message = Per far ir il video stos ti eventualmain installar ils codecs necessaris.
+decoder-doctor-no-hw-acceleration-message = Per augmentar la qualitad da video stos ti eventualmain installar il «Media Feature Pack» da Microsoft.
+decoder-doctor-no-pulse-audio-message = Per far ir il tun stos ti eventualmain installar la software «PulseAudio».
+decoder-doctor-unsupported-libavcodec-message = libavcodec è eventualmain attatgabel u betg pli sustegnì e stuess vegnir actualisà per far ir videos.
+decoder-doctor-decode-error-message = Ina errur è cumparida durant decodar ina resursa da medias.
+decoder-doctor-decode-warning-message = Ina errur curregibla è cumparida durant decodar ina resursa da medias.
+decoder-doctor-learn-how-link = Vegnir a savair co
+decoder-doctor-report-issue-button =
+    .label = Rapportar in problem cun la pagina
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Il plug-in { $pluginName } è collabà.
+plugin-crashed-notification-reload-button =
+    .label = Rechargiar la pagina
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Trametter ina annunzia da collaps
+    .accesskey = T
 
 ## Password save/update panel
 
@@ -1072,6 +1148,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1118,6 +1197,13 @@ restore-session-startup-suggestion-button = Mussar co
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Tia organisaziun ha bloccà l’access a las datotecas localas sin quest computer
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1182,6 +1268,10 @@ reset-pbm-panel-cancel-button =
     .label = Interrumper
     .accesskey = I
 reset-pbm-panel-complete = Stizzà las datas da la sesida privata
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1273,6 +1363,13 @@ file-picker-crashed-open = La fanestra per selecziunar datotecas da Windows è c
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La fanestra per selecziunar datotecas da Windows è collabada. La datoteca vegn a vegnir memorisada en { $path }.
 file-picker-crashed-save-nowhere = La fanestra per selecziunar datotecas da Windows è collabada. Betg chattà in ordinatur predefinì; la datoteca na vegn betg memorisada.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mussar en l’ordinatur
     .accessKey = F
@@ -1325,6 +1422,9 @@ trustpanel-blocker-see-all = Mussar tut
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecziuns cunter il fastizar per { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1418,3 +1518,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> fastizader bloccà sin questa website
        *[other] <span data-l10n-name="count">{ $count }</span> fastizaders bloccads sin questa website
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

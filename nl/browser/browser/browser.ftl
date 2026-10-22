@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Delen…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Website-informatie weergeven
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Gesponsord
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Vragen
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1145,7 +1153,8 @@ repair-text-encoding-button =
     .label = Tekstcodering repareren
     .tooltiptext = De juiste tekstcodering raden vanuit de pagina-inhoud
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1208,6 +1217,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Tabbladgroepen
     .tooltiptext = Uw tabbladgroepen tonen
+toolbar-button-history =
+    .label = Geschiedenis
+    .tooltiptext = Uw geschiedenis tonen ({ $shortcut })
+toolbar-button-find =
+    .label = Zoeken
+    .tooltiptext = Zoeken op deze pagina ({ $shortcut })
+toolbar-button-developer =
+    .label = Ontwikkelaar
+    .tooltiptext = Hulpmiddelen voor webontwikkelaars openen ({ $shortcut })
+toolbar-button-forget =
+    .label = Vergeten
+    .tooltiptext = Bepaalde navigatiegeschiedenis vergeten
+toolbar-zoom-controls =
+    .label = Zoombediening
+    .title = Zoombediening
+toolbar-button-zoom-out =
+    .label = Uitzoomen
+    .tooltiptext = Uitzoomen ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Zoomniveau terugzetten ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Inzoomen
+    .tooltiptext = Inzoomen ({ $shortcut })
+toolbar-edit-controls =
+    .label = Bedieningselementen voor bewerken
+    .title = Bedieningselementen voor bewerken
+toolbar-button-cut =
+    .label = Knippen
+    .tooltiptext = Knippen ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopiëren
+    .tooltiptext = Kopiëren ({ $shortcut })
+toolbar-button-paste =
+    .label = Plakken
+    .tooltiptext = Plakken ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1224,6 +1267,33 @@ eme-notifications-drm-content-playing-manage = Instellingen beheren
 eme-notifications-drm-content-playing-manage-accesskey = b
 eme-notifications-drm-content-playing-dismiss = Sluiten
 eme-notifications-drm-content-playing-dismiss-accesskey = S
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = U moet DRM inschakelen om bepaalde audio of video op deze pagina af te spelen.
+eme-notifications-drm-content-disabled-button =
+    .label = DRM inschakelen
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installeert onderdelen die nodig zijn voor het afspelen van de audio of video op deze pagina. Probeer het later opnieuw.
+decoder-doctor-no-codecs-linux-message = Om video af te spelen, dient u mogelijk de vereiste videocodecs te installeren.
+decoder-doctor-no-hw-acceleration-message = Om de videokwaliteit te verbeteren, dient u mogelijk Microsofts Media Feature Pack te installeren.
+decoder-doctor-no-pulse-audio-message = Om audio af te spelen, dient u mogelijk de vereiste PulseAudio-software te installeren.
+decoder-doctor-unsupported-libavcodec-message = libavcodec kan kwetsbaar zijn of wordt niet ondersteund, en dient te worden bijgewerkt om video af te spelen.
+decoder-doctor-decode-error-message = Er is een fout opgetreden tijdens het decoderen van een mediabron.
+decoder-doctor-decode-warning-message = Er is een herstelbare fout opgetreden tijdens het decoderen van een mediabron.
+decoder-doctor-learn-how-link = Meer info
+decoder-doctor-report-issue-button =
+    .label = Websiteprobleem melden
+    .accesskey = W
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = De { $pluginName }-plug-in is gecrasht.
+plugin-crashed-notification-reload-button =
+    .label = Pagina vernieuwen
+    .accesskey = n
+plugin-crashed-notification-submit-button =
+    .label = Een crashrapport verzenden
+    .accesskey = c
 
 ## Password save/update panel
 
@@ -1275,6 +1345,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = j
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1534,6 +1607,13 @@ file-picker-crashed-open = Het Windows-bestandsdialoogvenster is gecrasht. Er is
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Het Windows-bestandsdialoogvenster is gecrasht. Het bestand wordt opgeslagen in { $path }.
 file-picker-crashed-save-nowhere = Het Windows-bestandsdialoogvenster is gecrasht. Er is geen standaardmap gevonden; het bestand zal niet worden opgeslagen.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = In map tonen
     .accessKey = m
@@ -1586,6 +1666,9 @@ trustpanel-blocker-see-all = Alles bekijken
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Bescherming tegen volgen voor { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

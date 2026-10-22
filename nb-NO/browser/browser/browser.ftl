@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Del…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Vis nettstedsinformasjon
 
@@ -752,6 +755,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponset
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spør
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1141,7 +1149,8 @@ repair-text-encoding-button =
     .label = Reparer tekstkoding
     .tooltiptext = Gjett riktig tekstkoding fra sideinnhold
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1204,6 +1213,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Fanegrupper
     .tooltiptext = Vis fanegruppene dine
+toolbar-button-history =
+    .label = Historikk
+    .tooltiptext = Vis historikk ({ $shortcut })
+toolbar-button-find =
+    .label = Finn
+    .tooltiptext = Finn i denne siden ({ $shortcut })
+toolbar-button-developer =
+    .label = Utviklere
+    .tooltiptext = Åpne webutviklerverktøy ({ $shortcut })
+toolbar-button-forget =
+    .label = Glem
+    .tooltiptext = Glem deler av nettleserhistorikken
+toolbar-zoom-controls =
+    .label = Zoom-kontroller
+    .title = Zoom-kontroller
+toolbar-button-zoom-out =
+    .label = Zoom ut
+    .tooltiptext = Zoom ut ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Tilbakestill zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zoom inn
+    .tooltiptext = Zoom inn ({ $shortcut })
+toolbar-edit-controls =
+    .label = Rediger kontroller
+    .title = Rediger kontroller
+toolbar-button-cut =
+    .label = Klipp ut
+    .tooltiptext = Klipp ut ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopier
+    .tooltiptext = Kopier ({ $shortcut })
+toolbar-button-paste =
+    .label = Lim inn
+    .tooltiptext = Lim inn ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1220,6 +1263,33 @@ eme-notifications-drm-content-playing-manage = Behandle innstillinger
 eme-notifications-drm-content-playing-manage-accesskey = B
 eme-notifications-drm-content-playing-dismiss = Ignorer
 eme-notifications-drm-content-playing-dismiss-accesskey = I
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Du må aktivere DRM for å spille lyd eller video på denne siden.
+eme-notifications-drm-content-disabled-button =
+    .label = Slå på DRM
+    .accesskey = S
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installerer komponentene som trengs for å spille av lyden eller videoen på denne siden. Prøv igjen senere.
+decoder-doctor-no-codecs-linux-message = For å spille av videoer må du installere de påkrevde video-kodekene.
+decoder-doctor-no-hw-acceleration-message = For å forbedre videokvalitet må du kanskje installere Microsofts Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = For å spille av lyd, må du kanskje installere den påkrevde PulseAudio-programvaren.
+decoder-doctor-unsupported-libavcodec-message = libavcode kan være sårbart eller ikke støttet, og burde oppdateres for å spille video.
+decoder-doctor-decode-error-message = Det oppstod en feil under dekoding av en medieressurs.
+decoder-doctor-decode-warning-message = En gjenopprettelig feil oppstod ved dekoding av en medieressurs.
+decoder-doctor-learn-how-link = Finn ut hvordan
+decoder-doctor-report-issue-button =
+    .label = Rapporter problem med nettsted
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Programtillegget { $pluginName } krasjet.
+plugin-crashed-notification-reload-button =
+    .label = Oppdater siden
+    .accesskey = O
+plugin-crashed-notification-submit-button =
+    .label = Send inn en krasjrapport
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1271,6 +1341,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1411,6 +1484,10 @@ reset-pbm-toolbar-button2 =
     .label = Tøm privat økt
     .tooltiptext = Tøm privat økt
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } forhindret denne nettsiden fra å automatisk laste inn på nytt.
@@ -1501,6 +1578,13 @@ file-picker-crashed-open = Windows-fildialogvinduet har krasjet. Ingen fil eller
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-fildialogvinduet har krasjet. Filen vil bli lagret i { $path }.
 file-picker-crashed-save-nowhere = Windows-fildialogvinduet har krasjet. Fant ingen standardmappe, og filen vil ikke bli lagret.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Vis i mappe
     .accessKey = m
@@ -1553,6 +1637,9 @@ trustpanel-blocker-see-all = Vis alle
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Sporingsbeskyttelse for { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

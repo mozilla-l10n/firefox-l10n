@@ -33,3 +33,12 @@ customize-mode-undo-cmd =
     .label = Desfacer
 customize-mode-touchbar-cmd =
     .label = Personalizar la barra táctil…
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Espaciu flexible
+customize-mode-toolbarseparator =
+    .title = Separtador
+customize-mode-toolbarspacer =
+    .title = Espaciu

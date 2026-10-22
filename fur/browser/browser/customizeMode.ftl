@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Personalize sbare tatil…
 customize-mode-downloads-button-autohide =
     .label = Plate il boton cuant che al è vueit
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Spazi flessibil
+customize-mode-toolbarseparator =
+    .title = Separadôr
+customize-mode-toolbarspacer =
+    .title = Spazi

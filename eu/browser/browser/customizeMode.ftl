@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Pertsonalizatu Touch Bar-a…
 customize-mode-downloads-button-autohide =
     .label = Ezkutatu botoia hutsik dagoenean
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Zuriune malgua
+customize-mode-toolbarseparator =
+    .title = Bereizlea
+customize-mode-toolbarspacer =
+    .title = Zuriunea

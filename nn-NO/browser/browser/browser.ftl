@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Del…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Vis sideinfo
 
@@ -752,6 +755,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsa
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spør
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1141,7 +1149,8 @@ repair-text-encoding-button =
     .label = Reparer tekstkoding
     .tooltiptext = Gjett rett tekstkoding frå sideinnhald
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1204,6 +1213,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Fanegrupper
     .tooltiptext = Vis fanegruppene dine
+toolbar-button-history =
+    .label = Historikk
+    .tooltiptext = Vis historikk ({ $shortcut })
+toolbar-button-find =
+    .label = Finn
+    .tooltiptext = Søk på denne sida ({ $shortcut })
+toolbar-button-developer =
+    .label = Utviklar
+    .tooltiptext = Opne webutviklarverktøya ({ $shortcut })
+toolbar-button-forget =
+    .label = Gløym
+    .tooltiptext = Gløym delar av nettlesarhistorikken
+toolbar-zoom-controls =
+    .label = Zoom-kontrollar
+    .title = Zoom-kontrollar
+toolbar-button-zoom-out =
+    .label = Zoom ut
+    .tooltiptext = Zoom inn ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Tilbakestill zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zoom inn
+    .tooltiptext = Zoom inn ({ $shortcut })
+toolbar-edit-controls =
+    .label = Redigeringsknappar
+    .title = Redigeringsknappar
+toolbar-button-cut =
+    .label = Klipp ut
+    .tooltiptext = Klipp ut ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopier
+    .tooltiptext = Kopier ({ $shortcut })
+toolbar-button-paste =
+    .label = Lim inn
+    .tooltiptext = Lim inn ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1220,6 +1263,33 @@ eme-notifications-drm-content-playing-manage = Handsam innstillingar
 eme-notifications-drm-content-playing-manage-accesskey = H
 eme-notifications-drm-content-playing-dismiss = Ignorer
 eme-notifications-drm-content-playing-dismiss-accesskey = I
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Du må slå på DRM for å spele lyd eller video på denne sida.
+eme-notifications-drm-content-disabled-button =
+    .label = Slå på DRM
+    .accesskey = S
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installerer komponentane som trengst for å spele av lyden eller videoen på denne sida. Prøv på nytt seinare.
+decoder-doctor-no-codecs-linux-message = For å spele av videoer må du installere påkravde video-kodekar.
+decoder-doctor-no-hw-acceleration-message = For å forbetre videokvaliteten må du kanskje installere Microsofts Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = For å spele av lyd må du installere den påkravde PulseAudio-programvara.
+decoder-doctor-unsupported-libavcodec-message = libavcode kan vere sårbar eller ikkje støtta, og burde oppdaterast for å spele video.
+decoder-doctor-decode-error-message = Det oppstod ein feil under dekoding av ein mediaressurs.
+decoder-doctor-decode-warning-message = Ved dekoding av ein mediaressurs, oppstod det ein feil som kan rettast.
+decoder-doctor-learn-how-link = Finn ut korleis
+decoder-doctor-report-issue-button =
+    .label = Rapporter problem med nettsida
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Programtillegget { $pluginName } krasja.
+plugin-crashed-notification-reload-button =
+    .label = Oppdater sida
+    .accesskey = O
+plugin-crashed-notification-submit-button =
+    .label = Send inn ein krasjrapport
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1271,6 +1341,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1515,6 +1588,13 @@ file-picker-crashed-open = Windows-fildialogvindauget har krasja. Ingen fil elle
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-fildialogvindauget har krasja. Fila vil bli lagra i { $path }.
 file-picker-crashed-save-nowhere = Windows-fildialogvindauget har krasja. Fann inga standardmappe, og fila vil ikkje bli lagra.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Vis i mappe
     .accessKey = i
@@ -1567,6 +1647,9 @@ trustpanel-blocker-see-all = Vis alle
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Sporingsvern for { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -20,3 +20,10 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = सरासनस्रा
 customize-mode-undo-cmd =
     .label = सिगांनि महराव लाबोफिन
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarseparator =
+    .title = बोखावग्रा
+customize-mode-toolbarspacer =
+    .title = जायगा

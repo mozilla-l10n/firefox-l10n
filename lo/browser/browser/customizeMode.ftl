@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = ປັບແຕ່ງແຖບສໍາຜັດ…
 customize-mode-downloads-button-autohide =
     .label = ເຊື່ອງປຸ່ມເມື່ອຫວ່າງເປົ່າ
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = ຊ່ອງວ່າງທີ່ປັບປ່ຽນຂະຫນາດໄດ້
+customize-mode-toolbarseparator =
+    .title = ຕົວແບ່ງ
+customize-mode-toolbarspacer =
+    .title = ຊ່ອງວ່າງ

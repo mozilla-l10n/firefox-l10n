@@ -29,3 +29,12 @@ customize-mode-undo-cmd =
     .label = पूर्ववत् करा
 customize-mode-touchbar-cmd =
     .label = टच बार सानुकूलित करा…
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = लवचिक रिक्त जागा
+customize-mode-toolbarseparator =
+    .title = दुभाजक
+customize-mode-toolbarspacer =
+    .title = जागा

@@ -18,6 +18,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = സ്വകാര്യ തിരച്ചിൽ
+
+##
+
 urlbar-identity-button =
     .aria-label = സൈറ്റ് വിവരങ്ങൾ കാണുക
 
@@ -437,6 +440,9 @@ sharing-warning-screen = താങ്ങളുടെ പ്രലമാകെ �
 sharing-warning-proceed-to-tab =
     .label = ടാബിലേക്ക് ചെല്ലുക
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -559,6 +565,11 @@ urlbar-result-yelp-subtitle = { -yelp-brand-name }
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } ∙ പണമടച്ചുപ്രചരിപ്പിച്ചതു്
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -705,6 +716,9 @@ urlbar-result-action-switch-to-tabgroup = { $group }-ലേക്കു് മ�
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = { $group } തുറക്കുക
 
+## Used in the menu of a urlbar result.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -839,7 +853,8 @@ repair-text-encoding-button =
     .label = പാഠ ഇഴചേ‌ർച്ചയെ നന്നാക്കുക
     .tooltiptext = താളുള്ളടക്കം നിന്നു ശരിയായ പാഠ ഇഴചേ‌ർച്ച ഊഹിക്കുക
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -890,6 +905,44 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = പങ്കിടുക
     .tooltiptext = ഈ താൾ പങ്കിടുക
+toolbar-button-history =
+    .label = നാള്‍വഴി
+    .tooltiptext = നാള്‍വഴി കാണിയ്ക്കുക ({ $shortcut })
+toolbar-button-find =
+    .label = കണ്ടെത്തുക
+    .tooltiptext = ഈ ഫയലില്‍ കണ്ടുപിടിയ്ക്കുക ({ $shortcut })
+toolbar-button-developer =
+    .label = വികസനാക്താവു്
+    .tooltiptext = ഓപ്പണ്‍ വെബ് ഡവലപ്പര്‍ ഉപകരണങ്ങള്‍ ({ $shortcut })
+toolbar-button-forget =
+    .label = മറന്നേക്കൂ
+    .tooltiptext = ചില തിരച്ചിൽ നാള്‍വഴി ഇനങ്ങളെ മറന്നേക്കൂ
+toolbar-zoom-controls =
+    .label = നിയന്ത്രണങ്ങള്‍ വലുതാക്കുക
+    .title = നിയന്ത്രണങ്ങള്‍ വലുതാക്കുക
+toolbar-button-zoom-out =
+    .label = ചെറുതാക്കുക
+    .tooltiptext = വലുതാക്കുക ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = വലിപ്പം മാറ്റുന്ന മൂല്ല്യം വീണ്ടും സജ്ജമാക്കുക ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = വലുതാക്കുക
+    .tooltiptext = വലുതാക്കുക ({ $shortcut })
+toolbar-edit-controls =
+    .label = നിയന്ത്രണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക
+    .title = നിയന്ത്രണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക
+toolbar-button-cut =
+    .label = മുറിക്കുക
+    .tooltiptext = മുറിയ്ക്കുക ({ $shortcut })
+toolbar-button-copy =
+    .label = പകര്‍ത്തുക
+    .tooltiptext = പകര്‍ത്തുക ({ $shortcut })
+toolbar-button-paste =
+    .label = ഒട്ടിക്കുക
+    .tooltiptext = ഒട്ടിയ്ക്കുക ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -898,6 +951,32 @@ eme-notifications-drm-content-playing-manage = ക്രമീകരണങ്ങ
 eme-notifications-drm-content-playing-manage-accesskey = മ
 eme-notifications-drm-content-playing-dismiss = കളയുക
 eme-notifications-drm-content-playing-dismiss-accesskey = ക
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = ഡിആര്‍എം പ്രവര്‍ത്തന സജ്ജമാക്കുക
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = ഈ താളില്‍ ഓഡിയോ അല്ലെങ്കില്‍ വീഡിയോ കാണുന്നതിനു് ആവശ്യമായ ഘടകങ്ങള്‍ { -brand-short-name } ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു. പിന്നീടു് വീണ്ടും ശ്രമിയ്ക്കുക.
+decoder-doctor-no-codecs-linux-message = വീഡിയോ പ്രവര്‍ത്തിപ്പിക്കാന്‍, വീഡിയോ കൊഡക്കുകള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടി വരും.
+decoder-doctor-no-hw-acceleration-message = വീഡിയോ ഗുണമേന്മ വര്‍ദ്ധിപ്പിക്കാന്‍, മൈക്രോസോഫ്റ്റിന്റെ മീഡിയാ ഫീച്ചര്‍ പാക്ക് ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടി വരും.
+decoder-doctor-no-pulse-audio-message = ഓഡിയോ പ്ലേ ചെയ്യാൻ നിങ്ങൾക്ക് ആവശ്യമായ PulseAudio സോഫ്റ്റ്വെയർ ഇൻസ്റ്റാൾ ചെയ്യേണ്ടതായി വന്നേക്കാം.
+decoder-doctor-unsupported-libavcodec-message = libavcodec കേടുപറ്റാവുന്നതായേക്കാം അല്ലെങ്കിൽ പിന്തുണയ്ക്കുന്നില്ല, വീഡിയോ പ്ലേ ചെയ്യാൻ അപ്ഡേറ്റ് ചെയ്യണം.
+decoder-doctor-decode-error-message = ഒരു മീഡിയ റിസോര്‍സ് ഡീകോഡ് ചെയ്യുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു.
+decoder-doctor-decode-warning-message = ഒരു മീഡിയ റിസോര്‍സ് ഡീകോഡ് ചെയ്യുമ്പോൾ ഒരു വീണ്ടെടുക്കാവുന്ന ഒരു പിശക് സംഭവിച്ചു.
+decoder-doctor-learn-how-link = എങ്ങനെയെന്നറിയാം
+decoder-doctor-report-issue-button =
+    .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } പ്ലഗിനു് തകരാറു് സംഭവിച്ചിരിയ്ക്കുന്നു.
+plugin-crashed-notification-reload-button =
+    .label = താള്‍ വീണ്ടും ലഭ്യമാക്കുക
+    .accesskey = ല
+plugin-crashed-notification-submit-button =
+    .label = തകരാറിനുള്ള ഒരു റിപോര്‍ട്ട് സമര്‍പ്പിയ്ക്കുക
+    .accesskey = സ
 
 ## Password save/update panel
 
@@ -914,7 +993,21 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = അടയ്ക്കുക
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -949,9 +1042,22 @@ tabs-toolbar-list-all-tabs =
     .label = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
     .tooltiptext = എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = എങ്ങനെയെന്നു് കാണിയ്ക്കുക.
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1009,6 +1115,10 @@ reset-pbm-panel-cancel-button =
     .accesskey = റ
 reset-pbm-panel-complete = സ്വകാര്യ ഘട്ടത്തിന്റെ ദത്ത മായച്ചു
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ഈ താള്‍ സ്വയമായി ലഭ്യമാകുന്നതു് { -brand-short-name } തടഞ്ഞിരിക്കുന്നു.
@@ -1016,6 +1126,9 @@ refresh-blocked-redirect-label = മറ്റൊരു താളിലേക്�
 refresh-blocked-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -1072,6 +1185,13 @@ file-picker-crashed-open = വിണ്ടോസു് ഫയൽ സന്ദേ
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തകർന്നിരിക്കുന്നു. ഫയൽ { $path }-ലേക്കു് കരുതിവയ്ക്കപ്പെടും
 file-picker-crashed-save-nowhere = വിണ്ടോസു് ഫയൽ സന്ദേശപ്പെട്ടി തകർന്നിരിക്കുന്നു.  തനതു അറ കണ്ടുപ്പിടിക്കാൻ കഴിഞ്ഞില്ല; അതുകൊണ്ടു ഈ ഫയൽ കരുതിവയ്ക്കപ്പെടില്ല
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = അറയിൽ കാണിക്കുക
     .accessKey = ക
@@ -1099,7 +1219,17 @@ trustpanel-clear-cookies-subview-button-clear = മായ്ക്കുക
 trustpanel-clear-cookies-subview-button-cancel = റദ്ദാക്കുക
 trustpanel-siteinformation-morelink = കൂടുതൽ വെബ്ബിടവിവരങ്ങൾ
 trustpanel-blocker-see-all = മുഴുവന്‍ കാണുക
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = സുരക്ഷിതമല്ല
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

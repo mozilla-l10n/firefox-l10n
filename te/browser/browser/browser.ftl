@@ -27,6 +27,9 @@ menu-share-links =
             [one] { $count } లంకె
            *[other] { $count } లంకెలు
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = సైటు సమాచారం చూడండి
 
@@ -382,6 +385,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = ఈ సెషనుకి పంచుకోలు రక్షణను అచేతనంచేయి
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -461,6 +467,11 @@ urlbar-result-mdn-subtitle = { -mdn-brand-name }
 # The sub title of a Yelp suggestion in the urlbar.
 urlbar-result-yelp-subtitle = { -yelp-brand-name }
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -523,6 +534,9 @@ urlbar-result-action-search-actions = వెతుకుడు చర్యల�
 # Label for a quickaction result used to switch to an open tab group.
 #  $group (String): the name of the tab group to switch to
 urlbar-result-action-switch-to-tabgroup = { $group }కి మారండి
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -640,7 +654,11 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = ఇష్టాంశాలు
 
-##
+## Repair text encoding toolbar button
+
+
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -682,6 +700,44 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = కొత్త ఆంతరంగిక విండో
     .tooltiptext = కొత్త ఆంతరంగిక విహరణ విండో తెరువు ({ $shortcut })
+toolbar-button-history =
+    .label = చరిత్ర
+    .tooltiptext = మీ చరిత్రను చూడండి ({ $shortcut })
+toolbar-button-find =
+    .label = వెతుకు
+    .tooltiptext = ఈ పేజీలో వెతకండి ({ $shortcut })
+toolbar-button-developer =
+    .label = డెవలపర్
+    .tooltiptext = వెబ్ డెవలపర్ పనిముట్లను తెరువు ({ $shortcut })
+toolbar-button-forget =
+    .label = మర్చిపో
+    .tooltiptext = కొంత విహారణ చరిత్ర గురించి మర్చిపో
+toolbar-zoom-controls =
+    .label = జూమ్ నియంత్రికలు
+    .title = జూమ్ నియంత్రికలు
+toolbar-button-zoom-out =
+    .label = జూమ్ తగ్గించు
+    .tooltiptext = జూమ్ తగ్గించు ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = జూమ్ స్థాయి పునరుద్ధరించు ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = జూమ్ పెంచు
+    .tooltiptext = జూమ్ పెంచు ({ $shortcut })
+toolbar-edit-controls =
+    .label = సవరణ నియంత్రికలు
+    .title = సవరణ నియంత్రికలు
+toolbar-button-cut =
+    .label = కత్తిరించు
+    .tooltiptext = కత్తిరించు ({ $shortcut })
+toolbar-button-copy =
+    .label = కాపీచేయి
+    .tooltiptext = కాపీచేయి ({ $shortcut })
+toolbar-button-paste =
+    .label = అతికించు
+    .tooltiptext = అతికించు ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -690,6 +746,32 @@ eme-notifications-drm-content-playing-manage = అమరికలను ని�
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = విస్మరించు
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = DRM చేతినము చేయుము
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = ఈ పేజీలో ఆడియో లేదా వీడియో నడుపుటకు కావలసిన కాంపోనెంట్లను { -brand-short-name } స్థాపిస్తోంది. దయచేసి కాసేవాగి ప్రయత్నించండి.
+decoder-doctor-no-codecs-linux-message = వీడియో ప్లే చేయడానికి, మీరు అవసరమైన వీడియో కోడెక లు ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
+decoder-doctor-no-hw-acceleration-message = వీడియో నాణ్యతను మెరుగుపరిచేందుకు, మీరు Microsoft యొక్క Media Feature Pack ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
+decoder-doctor-no-pulse-audio-message = ఆడియో ప్లే చేయడానికి, మీరు అవసరమైన PulseAudio సాఫ్ట్వేరుని ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
+decoder-doctor-unsupported-libavcodec-message = libavcodec హాని కలిగించడానికి అవకాశం ఉండవచ్చు లేదా మద్దతుని ఇవ్వదు మరియు వీడియో ప్లే చేయడానికి నవీకరించాలి.
+decoder-doctor-decode-error-message = మీడియా వనరును డీకోడ్ చేస్తున్నప్పుడు లోపం సంభవించింది.
+decoder-doctor-decode-warning-message = మీడియా వనరును డీకోడ్ చేస్తున్నప్పుడు ఒక తిరిగి పొందగల లోపం సంభవించింది.
+decoder-doctor-learn-how-link = ఎలానో తెలుసుకోండి
+decoder-doctor-report-issue-button =
+    .label = సైటు సమస్యను నివేదించండి
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } ప్లగిన్ క్రాష్ అయినది.
+plugin-crashed-notification-reload-button =
+    .label = పేజీను తిరిగిలోడుచేయుము
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = క్రాష్ నివేదికలను సమర్పించండి
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -708,7 +790,21 @@ menu-share-windows =
 ui-tour-info-panel-close =
     .tooltiptext = మూసివేయి
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -743,9 +839,22 @@ tabs-toolbar-list-all-tabs =
     .label = అన్ని ట్యాబుల జాబితా చూపించు
     .tooltiptext = అన్ని ట్యాబుల జాబితా చూపించు
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = ఎలానో నాకు చూపించు
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -821,6 +930,9 @@ refresh-blocked-allow =
     .label = అనుమతించు
     .accesskey = A
 
+## Firefox Relay integration
+
+
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
@@ -855,9 +967,19 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = సంచయంలో చూపించు
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+
 
 ## The urlbar trust icon & panel
 
@@ -866,6 +988,9 @@ trustpanel-privacy-link = అంతరంగిత అమరికలు
 trustpanel-clear-cookies-subview-button-cancel = రద్దుచేయి
 trustpanel-siteinformation-morelink = మరింత సైటు సమాచారం
 trustpanel-blocker-see-all = అన్నింటినీ చూడండి
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -880,3 +1005,6 @@ trustpanel-list-label-cryptominer =
         [one] { $count } క్రిప్టోమైనర్
        *[other] { $count } క్రిప్టోమైనర్లు
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

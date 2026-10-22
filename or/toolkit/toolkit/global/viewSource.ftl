@@ -19,5 +19,6 @@ view-source-selection-title = DOM ଚୟନର ଉତ୍ସ
 
 ## Context menu items, only visible when viewing the source of a page
 
-view-source-context-wrap-long-lines =
+view-source-context-wrap-long-lines-2 =
     .label = ଲମ୍ବା ଧାଡ଼ିଗୁଡ଼ିକୁ ଏକତ୍ର କରନ୍ତୁ
+    .accesskey = o

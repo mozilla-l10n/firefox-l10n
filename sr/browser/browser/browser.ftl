@@ -37,6 +37,9 @@ urlbar-identity-button2 =
             [few] Погледајте податке о страници (блокирани су пратиоци са { $count })
            *[other] Погледајте податке о страници (блокирани су пратиоци са { $count })
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Прикажи информације о сајту
 
@@ -735,6 +738,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонзорисано
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Питај
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1124,7 +1132,8 @@ repair-text-encoding-button =
     .label = Исправи кодни распоред
     .tooltiptext = Препознаје кодирање текста на основу садржаја странице
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1187,6 +1196,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Групе језичака
     .tooltiptext = Прикажите ваше групе језичака
+toolbar-button-history =
+    .label = Историја
+    .tooltiptext = Прикажи историју ({ $shortcut })
+toolbar-button-find =
+    .label = Пронађи
+    .tooltiptext = Пронађи на овој страници ({ $shortcut })
+toolbar-button-developer =
+    .label = Програмер
+    .tooltiptext = Алати за веб програмера ({ $shortcut })
+toolbar-button-forget =
+    .label = Заборави
+    .tooltiptext = Заборави део историје прегледања
+toolbar-zoom-controls =
+    .label = Управљање увећањем
+    .title = Управљање увећањем
+toolbar-button-zoom-out =
+    .label = Умањи
+    .tooltiptext = Умањи ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Врати оригиналну величину ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Увећај
+    .tooltiptext = Увећај ({ $shortcut })
+toolbar-edit-controls =
+    .label = Уреди
+    .title = Уреди
+toolbar-button-cut =
+    .label = Исеци
+    .tooltiptext = Исеци ({ $shortcut })
+toolbar-button-copy =
+    .label = Копирај
+    .tooltiptext = Копирај ({ $shortcut })
+toolbar-button-paste =
+    .label = Налепи
+    .tooltiptext = Налепи ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1203,6 +1246,33 @@ eme-notifications-drm-content-playing-manage = Управљање подешав
 eme-notifications-drm-content-playing-manage-accesskey = У
 eme-notifications-drm-content-playing-dismiss = Одбаци
 eme-notifications-drm-content-playing-dismiss-accesskey = О
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = За репродукцију аудио или видео снимака на овој страници потребно је да омогућите DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = Омогући DRM
+    .accesskey = ћ
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } инсталира компоненте које су потребне да би се пустио аудио или видео на овој страници. Покушајте поново касније.
+decoder-doctor-no-codecs-linux-message = Инсталирајте потребне кодеке да бисте пустили видео.
+decoder-doctor-no-hw-acceleration-message = Да побољшате видео квалитет, можда ћете морати да инсталирате пакет Microsoft’s Media Feature.
+decoder-doctor-no-pulse-audio-message = Да пуштате аудио, можда ћете морати да инсталирате захтевани PulseAudio софтвер.
+decoder-doctor-unsupported-libavcodec-message = libavcodec је можда рањив или није подржан и требао би да се ажурира ради пуштања видеа.
+decoder-doctor-decode-error-message = Догодила се грешка приликом декодирања ресурса медије.
+decoder-doctor-decode-warning-message = Догодила се исправљива грешка приликом декодирања ресурса медије.
+decoder-doctor-learn-how-link = Сазнајте како
+decoder-doctor-report-issue-button =
+    .label = Пријави проблем са сајтом
+    .accesskey = б
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Додатна компонента { $pluginName } је отказала.
+plugin-crashed-notification-reload-button =
+    .label = Учитај поново
+    .accesskey = У
+plugin-crashed-notification-submit-button =
+    .label = Пошаљи извештај о отказивању
+    .accesskey = П
 
 ## Password save/update panel
 
@@ -1256,6 +1326,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1302,6 +1375,13 @@ restore-session-startup-suggestion-button = Покажи ми како
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Ваша организација је блокирала приступ локалним датотекама на овом рачунару
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1382,6 +1462,10 @@ reset-pbm-panel-complete = Подаци приватне сесије су об�
 reset-pbm-toolbar-button2 =
     .label = Очисти приватну сесију
     .tooltiptext = Очисти приватну сесију
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1481,6 +1565,13 @@ file-picker-crashed-open = Windows дијалошки оквир за избор
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows дијалошки оквир за избор датотеке је пао. Датотека ће бити сачувана у { $path }.
 file-picker-crashed-save-nowhere = Windows дијалошки оквир за избор датотеке је пао. Подразумевана фасцикла за чување није пронађена, те датотека неће бити сачувана.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Прикажи у фасцикли
     .accessKey = ф
@@ -1533,6 +1624,9 @@ trustpanel-blocker-see-all = Прикажи све
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Заштита од праћења за { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

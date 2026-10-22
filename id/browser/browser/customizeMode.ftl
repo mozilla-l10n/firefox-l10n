@@ -37,3 +37,12 @@ customize-mode-touchbar-cmd =
     .label = Ubahsuai Touch Bar...
 customize-mode-downloads-button-autohide =
     .label = Sembunyikan tombol jika kosong
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Ruang Fleksibel
+customize-mode-toolbarseparator =
+    .title = Pemisah
+customize-mode-toolbarspacer =
+    .title = Ruang

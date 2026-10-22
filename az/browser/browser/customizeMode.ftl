@@ -29,3 +29,12 @@ customize-mode-undo-cmd =
     .label = Geri al
 customize-mode-touchbar-cmd =
     .label = Touch Bar-ı fərdiləşdir…
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Elastik Boşluq
+customize-mode-toolbarseparator =
+    .title = Ayırıcı
+customize-mode-toolbarspacer =
+    .title = Boşluq

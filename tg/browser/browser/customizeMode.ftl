@@ -37,3 +37,12 @@ customize-mode-touchbar-cmd =
     .label = Танзим кардани навори ламсӣ…
 customize-mode-downloads-button-autohide =
     .label = Агар холӣ бошад, тугмаро пинҳон кунед
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Фазои чандир
+customize-mode-toolbarseparator =
+    .title = Хати ҷудокунанда
+customize-mode-toolbarspacer =
+    .title = Фазо

@@ -66,6 +66,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Падзяліцца…
     .accesskey = П
+
+##
+
 urlbar-identity-button =
     .aria-label = Звесткі аб сайце
 
@@ -760,6 +763,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсар
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Спытаць
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1155,7 +1163,8 @@ repair-text-encoding-button =
     .label = Выправіць кадаванне тэксту
     .tooltiptext = Адгадаць правільнае кадаванне знакаў па змесціве старонкі
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1218,6 +1227,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Групы картак
     .tooltiptext = Паказаць вашы групы картак
+toolbar-button-history =
+    .label = Гісторыя
+    .tooltiptext = Паказаць вашу гісторыю ({ $shortcut })
+toolbar-button-find =
+    .label = Знайсці
+    .tooltiptext = Знайсці на гэтай старонцы ({ $shortcut })
+toolbar-button-developer =
+    .label = Распрацоўка
+    .tooltiptext = Адкрыць сродкі распрацоўкі ({ $shortcut })
+toolbar-button-forget =
+    .label = Забыць
+    .tooltiptext = Забыцца на некаторую гісторыю аглядання
+toolbar-zoom-controls =
+    .label = Элементы кіравання павелічэннем
+    .title = Элементы кіравання павелічэннем
+toolbar-button-zoom-out =
+    .label = Паменшыць
+    .tooltiptext = Паменшыць ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Скінуць узровень павелічэння ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Павялічыць
+    .tooltiptext = Павялічыць ({ $shortcut })
+toolbar-edit-controls =
+    .label = Інструменты рэдагавання
+    .title = Інструменты рэдагавання
+toolbar-button-cut =
+    .label = Выразаць
+    .tooltiptext = Выразаць ({ $shortcut })
+toolbar-button-copy =
+    .label = Капіяваць
+    .tooltiptext = Капіяваць ({ $shortcut })
+toolbar-button-paste =
+    .label = Уставіць
+    .tooltiptext = Уставіць ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1234,6 +1277,33 @@ eme-notifications-drm-content-playing-manage = Кіраваць наладамі
 eme-notifications-drm-content-playing-manage-accesskey = К
 eme-notifications-drm-content-playing-dismiss = Адхіліць
 eme-notifications-drm-content-playing-dismiss-accesskey = А
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Вы павінны ўключыць DRM, каб прайграць некаторыя аўдыё ці відэа на гэтай старонцы.
+eme-notifications-drm-content-disabled-button =
+    .label = Уключыць DRM
+    .accesskey = У
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } усталёўвае кампаненты, неабходныя для прайгравання аўдыё або відэа на гэтай старонцы. Калі ласка, паўтарыце спробу пазней.
+decoder-doctor-no-codecs-linux-message = Для прайгравання відэа вам можа спатрэбіцца ўсталяванне неабходных відэакодэкаў.
+decoder-doctor-no-hw-acceleration-message = Для паляпшэння якасці відэа вам можа спатрэбіцца Media Feature Pack ад Microsoft.
+decoder-doctor-no-pulse-audio-message = Для прайгравання аўдыё вам можа спатрэбіцца неабходнае праграмнае забеспячэнне PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec можа быць пашкоджаны ці не падтрымліваецца, і павінен быць абноўлены для прайгравання відэа.
+decoder-doctor-decode-error-message = Пры дэкадаванні медыя адбылася памылка.
+decoder-doctor-decode-warning-message = Пры дэкадаванні медыя адбылася памылка, якую можна выправіць.
+decoder-doctor-learn-how-link = Даведацца, як
+decoder-doctor-report-issue-button =
+    .label = Паведаміць аб праблеме з сайтам
+    .accesskey = П
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Плагін { $pluginName } пацярпеў крах.
+plugin-crashed-notification-reload-button =
+    .label = Перазагрузіць старонку
+    .accesskey = П
+plugin-crashed-notification-submit-button =
+    .label = Даслаць справаздачу пра падзенне браўзера
+    .accesskey = Д
 
 ## Password save/update panel
 
@@ -1286,6 +1356,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = л
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1553,6 +1626,13 @@ file-picker-crashed-open = Здарыўся крах дыялогавага ак
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Здарыўся крах дыялогавага акна файла Windows. Файл будзе захаваны ў { $path }.
 file-picker-crashed-save-nowhere = Здарыўся крах дыялогавага акна файла Windows. Прадвызначаная папка не знойдзена; файл не будзе захаваны.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Паказаць у папцы
     .accessKey = а
@@ -1605,6 +1685,9 @@ trustpanel-blocker-see-all = Глядзець усё
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ахова ад сачэння для { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

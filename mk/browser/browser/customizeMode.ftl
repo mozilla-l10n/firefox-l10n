@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Прилагоди ја лентата за допир…
 customize-mode-downloads-button-autohide =
     .label = Скриј го копчето кога е празно
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Флексибилен простор
+customize-mode-toolbarseparator =
+    .title = Одделувач
+customize-mode-toolbarspacer =
+    .title = Празно место

@@ -22,5 +22,6 @@ view-source-selection-title = තේරිමේ DOM මූලය
 view-source-context-go-to-line =
     .label = පේළියට යන්න…
     .accesskey = L
-view-source-context-highlight-syntax =
+view-source-context-highlight-syntax-2 =
     .label = පදඝටනා ත්‍රීවාලෝකය
+    .accesskey = x

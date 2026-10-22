@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = שיתוף…
     .accesskey = ש
+
+##
+
 urlbar-identity-button =
     .aria-label = הצגת נתוני אתר
 
@@ -753,6 +756,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = ‏{ $provider } · ממומן
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1148,7 +1156,8 @@ repair-text-encoding-button =
     .label = תיקון קידוד טקסט
     .tooltiptext = ניחוש קידוד הטקסט הנכון בהסתמך על תוכן הדף
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1211,6 +1220,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = קבוצות לשוניות
     .tooltiptext = הצגת קבוצות הלשוניות שלך
+toolbar-button-history =
+    .label = היסטוריה
+    .tooltiptext = הצגת ההיסטוריה שלך ({ $shortcut })
+toolbar-button-find =
+    .label = חיפוש
+    .tooltiptext = חיפוש בדף זה ({ $shortcut })
+toolbar-button-developer =
+    .label = כלי פיתוח
+    .tooltiptext = פתיחת כלי פיתוח ({ $shortcut })
+toolbar-button-forget =
+    .label = לשכוח
+    .tooltiptext = לשכוח חלק מהיסטוריית הגלישה
+toolbar-zoom-controls =
+    .label = פקדי מרחק מתצוגה
+    .title = פקדי מרחק מתצוגה
+toolbar-button-zoom-out =
+    .label = התרחקות
+    .tooltiptext = התרחקות ‎({ $shortcut })
+toolbar-button-zoom-reset-tooltip = איפוס הגדרות מרחק מתצוגה ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = התקרבות
+    .tooltiptext = התקרבות ‎({ $shortcut })
+toolbar-edit-controls =
+    .label = פקדי עריכה
+    .title = פקדי עריכה
+toolbar-button-cut =
+    .label = גזירה
+    .tooltiptext = גזירה ({ $shortcut })
+toolbar-button-copy =
+    .label = העתקה
+    .tooltiptext = העתקה ({ $shortcut })
+toolbar-button-paste =
+    .label = הדבקה
+    .tooltiptext = הדבקה ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1227,6 +1270,33 @@ eme-notifications-drm-content-playing-manage = ניהול הגדרות
 eme-notifications-drm-content-playing-manage-accesskey = נ
 eme-notifications-drm-content-playing-dismiss = סגירה
 eme-notifications-drm-content-playing-dismiss-accesskey = ס
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = עליך להפעיל את רכיב ניהול זכויות הקניין (DRM) כדי להשמיע אודיו או לצפות בווידאו בדף זה.
+eme-notifications-drm-content-disabled-button =
+    .label = הפעלת ניהול זכויות קניין
+    .accesskey = ז
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } מתקין כעת רכיבים הנחוצים כדי לנגן אודיו או וידאו בדף זה. נא להמתין ולנסות שוב מאוחר יותר.
+decoder-doctor-no-codecs-linux-message = כדי לנגן וידאו יתכן שיהיה עליך להתקין את מפעני הווידאו הנדרשים.
+decoder-doctor-no-hw-acceleration-message = כדי לשפר את איכות הווידאו יתכן שיהיה עליך להתקין את חבילת תכונות המדיה מבית Microsoft.
+decoder-doctor-no-pulse-audio-message = כדי להשמיע קול, נדרשת התקנת היישום PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec כנראה חשוף לסכנות או אינו נתמך, ויש לעדכנו כדי לנגן וידאו.
+decoder-doctor-decode-error-message = אירעה תקלה בעת פענוח משאב מדיה.
+decoder-doctor-decode-warning-message = אירעה שגיאה במהלך פענוח משאב מדיה.
+decoder-doctor-learn-how-link = מידע נוסף
+decoder-doctor-report-issue-button =
+    .label = דיווח על בעיה באתר
+    .accesskey = ב
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = התוסף החיצוני { $pluginName } קרס.
+plugin-crashed-notification-reload-button =
+    .label = טעינת דף מחדש
+    .accesskey = מ
+plugin-crashed-notification-submit-button =
+    .label = שליחת דיווח קריסה
+    .accesskey = ק
 
 ## Password save/update panel
 
@@ -1278,6 +1348,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = ש
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1540,6 +1613,13 @@ file-picker-crashed-open = דו־שיח הקבצים של Windows קרס. לא �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = דו־שיח הקבצים של Windows קרס. הקובץ יישמר ב־{ $path }.
 file-picker-crashed-save-nowhere = דו־שיח הקבצים של Windows קרס. לא נמצאה תיקיית ברירת מחדל; הקובץ לא יישמר.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = הצגה בתיקייה
     .accessKey = ת
@@ -1592,6 +1672,9 @@ trustpanel-blocker-see-all = צפייה בהכל
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = הגנות מעקב עבור { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

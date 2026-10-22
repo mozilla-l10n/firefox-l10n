@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Прилагоди додирну траку…
 customize-mode-downloads-button-autohide =
     .label = Сакриј дугме када нема преузимања
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Флексибилан размак
+customize-mode-toolbarseparator =
+    .title = Сепаратор
+customize-mode-toolbarspacer =
+    .title = Размак

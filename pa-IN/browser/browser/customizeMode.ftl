@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = ਟੱਚ-ਪੱਟੀ ਨੂੰ ਪਸੰਦੀਦਾ ਬਣਾਓ…
 customize-mode-downloads-button-autohide =
     .label = ਜਦੋਂ ਖਾਲੀ ਹੋਵੇ ਤਾਂ ਬਟਨ ਲੁਕਾਓ
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = ਲਚਕੀਲੀ ਥਾਂ
+customize-mode-toolbarseparator =
+    .title = ਵੱਖਰੇਵਾਂ
+customize-mode-toolbarspacer =
+    .title = ਖਾਲੀ ਥਾਂ

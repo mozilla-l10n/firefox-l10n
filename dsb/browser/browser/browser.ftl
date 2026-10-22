@@ -67,6 +67,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Źěliś…
     .accesskey = l
+
+##
+
 urlbar-identity-button =
     .aria-label = Sedłowe informacije se woglědaś
 
@@ -762,6 +765,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pšašaś se
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1163,7 +1171,8 @@ repair-text-encoding-button =
     .label = Tekstowe koděrowanje reparěrowaś
     .tooltiptext = Korektne tekstowe koděrowanje z wopśimjeśa boka wugódaś
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1226,6 +1235,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Kupki rejtarikow
     .tooltiptext = Waše kupki rejtarikow pokazaś
+toolbar-button-history =
+    .label = Historija
+    .tooltiptext = Wašu historiju pokazaś ({ $shortcut })
+toolbar-button-find =
+    .label = Pytaś
+    .tooltiptext = Na toś tom boku pytaś ({ $shortcut })
+toolbar-button-developer =
+    .label = Wuwijaŕ
+    .tooltiptext = Webwuwijaŕske rědy ({ $shortcut }) wócyniś
+toolbar-button-forget =
+    .label = Zabyś
+    .tooltiptext = Pśeglědowańsku historiju zabyś
+toolbar-zoom-controls =
+    .label = Skalěrowańske rědy
+    .title = Skalěrowańske rědy
+toolbar-button-zoom-out =
+    .label = Pówětšyś
+    .tooltiptext = Pómjeńšyś ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Skalěrowański schójźeńk slědk stajiś ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Pómjeńšyś
+    .tooltiptext = Pówětšyś ({ $shortcut })
+toolbar-edit-controls =
+    .label = Wobźěłowańske rědy
+    .title = Wobźěłowańske rědy
+toolbar-button-cut =
+    .label = Wurězaś
+    .tooltiptext = Wurězaś ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopěrowaś
+    .tooltiptext = Kopěrowaś ({ $shortcut })
+toolbar-button-paste =
+    .label = Zasajźiś
+    .tooltiptext = Zasajźiś ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1242,6 +1285,33 @@ eme-notifications-drm-content-playing-manage = Nastajenja zastojaś
 eme-notifications-drm-content-playing-manage-accesskey = N
 eme-notifications-drm-content-playing-dismiss = Zachyśiś
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Musyśo DRM zmóžniś, aby awdiodataju abo wideodataju na toś tom boku wótgrał.
+eme-notifications-drm-content-disabled-button =
+    .label = DRM zmóžniś
+    .accesskey = z
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } instalěrujo komponenty, kótarež su trjebne, aby awdio- abo wideodataju na toś tom boku wótgrali. Pšosym wopytajśo pózdźej hyšći raz.
+decoder-doctor-no-codecs-linux-message = Aby wideo wótgrał, musyśo trjebne wideokodeki instalěrowaś.
+decoder-doctor-no-hw-acceleration-message = Aby wideokwalitu pólěpšył, musyśo Media Feature Pack pśedewześa Microsoft instalěrowaś.
+decoder-doctor-no-pulse-audio-message = Aby wideo wótgrał, musyśo trjebnu softwaru PulseAudio instalěrowaś.
+decoder-doctor-unsupported-libavcodec-message = libavcodec móžo napadojty byś abo se njepódpěra a by měł se za wótgraśe wideo aktualizěrowaś.
+decoder-doctor-decode-error-message = Pśi dekoděrowanju medijoweje resurse jo zmólka nastała.
+decoder-doctor-decode-warning-message = Pśi dekoděrowanju medijoweje resurse jo wótpórajobna zmólka nastała.
+decoder-doctor-learn-how-link = Zgóńśo kak
+decoder-doctor-report-issue-button =
+    .label = Sedłowy problem k wěsći daś
+    .accesskey = d
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Tykac { $pluginName } jo se wowalił.
+plugin-crashed-notification-reload-button =
+    .label = Bok znowego zacytaś
+    .accesskey = B
+plugin-crashed-notification-submit-button =
+    .label = Wowaleńsku rozpšawu pósłaś
+    .accesskey = r
 
 ## Password save/update panel
 
@@ -1295,6 +1365,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1566,6 +1639,13 @@ file-picker-crashed-open = Datajowy dialog Windows jo spadnuł. Dataja abo zarě
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Datajowy dialog Windows jo spadnuł. Dataja buźo se do { $path } składowaś.
 file-picker-crashed-save-nowhere = Datajowy dialog Windows jo spadnuł. Standardny zarědnik njedajo se namakaś; dataja njebuźo se składowaś.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = W zarědniku pokazaś
     .accessKey = z
@@ -1618,6 +1698,9 @@ trustpanel-blocker-see-all = Wšykne pokazaś
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Slědowański šćit za { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administroni rregullime për flluska dhe ridrejtime nga palë të treta…
     .accesskey = A
+
+##
+
 urlbar-identity-button =
     .aria-label = Shihni hollësi sajti
 
@@ -490,6 +493,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Çaktivizo mbrojtje ndarjeje për këtë sesion
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -663,6 +669,11 @@ urlbar-result-weather-provider-sponsored = { $provider } ·E sponsorizuar
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pyetni
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -795,6 +806,9 @@ urlbar-result-action-switch-to-tabgroup = Kalo te { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Hap { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -946,7 +960,8 @@ repair-text-encoding-button =
     .label = Riparo kodim teksti
     .tooltiptext = Hamendësoje kodimin e saktë të tekstit që nga lënda e faqes
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1003,6 +1018,40 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Ndajeni me të tjerët
     .tooltiptext = Ndajeni këtë faqe me të tjerët
+toolbar-button-history =
+    .label = Historik
+    .tooltiptext = Shfaqni historikun tuaj ({ $shortcut })
+toolbar-button-find =
+    .label = Gjej
+    .tooltiptext = Gjeni në këtë faqe ({ $shortcut })
+toolbar-button-developer =
+    .label = Zhvillues
+    .tooltiptext = Hapni mjete zhvilluesish Web ({ $shortcut })
+toolbar-button-forget =
+    .label = Harroje
+    .tooltiptext = Harro historikun e shfletimit
+toolbar-zoom-controls =
+    .label = Kontrolle Zoom-i
+    .title = Kontrolle zoom-i
+toolbar-button-zoom-out =
+    .label = Zvogëlojeni
+    .tooltiptext = Zvogëlojeni ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Zeroni shkallën e zoom-it ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zmadhojeni
+    .tooltiptext = Zmadhojeni ({ $shortcut })
+toolbar-edit-controls =
+    .label = Kontrolle Përpunimi
+    .title = Kontrolle përpunimi
+toolbar-button-cut =
+    .label = Prije
+    .tooltiptext = Prijeni ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopjoje
+    .tooltiptext = Kopjojeni ({ $shortcut })
+toolbar-button-paste =
+    .label = Ngjite
+    .tooltiptext = Ngjiteni ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1016,6 +1065,33 @@ eme-notifications-drm-content-playing-manage = Administroni rregullime
 eme-notifications-drm-content-playing-manage-accesskey = A
 eme-notifications-drm-content-playing-dismiss = Hidhe tej
 eme-notifications-drm-content-playing-dismiss-accesskey = H
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Që të luhet video ose audio në këtë faqe, duhet të aktivizoni DRM-në.
+eme-notifications-drm-content-disabled-button =
+    .label = Aktivizoje DRM-n
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name }-i po instalon përbërës të nevojshëm për të luajtur audio ose video në këtë faqe. Ju lutemi, riprovoni më vonë.
+decoder-doctor-no-codecs-linux-message = Që të luani videon, mund t’ju duhet të instaloni kodekët e domosdoshëm për video.
+decoder-doctor-no-hw-acceleration-message = Që të përmirësoni cilësinë e videos, mund t’ju duhet të instaloni Media Feature Pack të Microsoft-it.
+decoder-doctor-no-pulse-audio-message = Që të luhet audio, mund  t’ju duhet të instaloni software-in e domosdoshëm PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec mund të jetë i cenueshëm, ose nuk mbulohet dhe duhet përditësuar që të luhet videoja.
+decoder-doctor-decode-error-message = Ndodhi një gabim gjatë shkodimit të një burimi media.
+decoder-doctor-decode-warning-message = Ndodhi një gabim i riparueshëm gjatë shkodimit të një burimi media.
+decoder-doctor-learn-how-link = Mësoni se si
+decoder-doctor-report-issue-button =
+    .label = Raporto problem sajti
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Shtojca { $pluginName } u vithis.
+plugin-crashed-notification-reload-button =
+    .label = Ringarkoje faqen
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Parashtroni një njoftim vithisjeje
+    .accesskey = P
 
 ## Password save/update panel
 
@@ -1066,6 +1142,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1112,6 +1191,13 @@ restore-session-startup-suggestion-button = Tregomëni se si
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Enti juaj e ka bllokuar hyrjen te kartela vendore në këtë kompjuter
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1174,6 +1260,10 @@ reset-pbm-panel-cancel-button =
     .label = Anuloje
     .accesskey = A
 reset-pbm-panel-complete = Të dhënat e sesionit privat u fshinë
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1266,6 +1356,13 @@ file-picker-crashed-open = Dialogu Windows për kartela u vithis. S’përzgjidh
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialogu Windows për kartela u vithis. Kartela do të ruhet te { $path }.
 file-picker-crashed-save-nowhere = Dialogu Windows për kartela u vithis. S’përzgjidhej dot dosje parazgjedhje; kartela s’do të ruhet.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Shfaqe Në Dosje
     .accessKey = D
@@ -1318,6 +1415,9 @@ trustpanel-blocker-see-all = Shihini Krejt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Mbrojtje nga gjurmimet për { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

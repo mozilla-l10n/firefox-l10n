@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Del…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Vis information om websted
 
@@ -749,6 +752,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsoreret
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spørg
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1078,7 +1086,8 @@ repair-text-encoding-button =
     .label = Reparer tegnkodning
     .tooltiptext = Fastlæg den korrekte tekstkodning ud fra meddelelsens indhold
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1141,6 +1150,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Fanebladsgrupper
     .tooltiptext = Vis dine fanebladsgrupper
+toolbar-button-history =
+    .label = Historik
+    .tooltiptext = Vis din historik ({ $shortcut })
+toolbar-button-find =
+    .label = Find
+    .tooltiptext = Find på denne side ({ $shortcut })
+toolbar-button-developer =
+    .label = Webudvikler
+    .tooltiptext = Åbn Webudviklerværktøj ({ $shortcut })
+toolbar-button-forget =
+    .label = Glem
+    .tooltiptext = Glem noget af din browserhistorik
+toolbar-zoom-controls =
+    .label = Zoom-knapper
+    .title = Zoom-knapper
+toolbar-button-zoom-out =
+    .label = Zoom ud
+    .tooltiptext = Zoom ud ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Nulstil zoom-niveau ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zoom ind
+    .tooltiptext = Zoom ind ({ $shortcut })
+toolbar-edit-controls =
+    .label = Redigeringsknapper
+    .title = Redigeringsknapper
+toolbar-button-cut =
+    .label = Klip
+    .tooltiptext = Klip ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopier
+    .tooltiptext = Kopier ({ $shortcut })
+toolbar-button-paste =
+    .label = Indsæt
+    .tooltiptext = Indsæt ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1157,6 +1200,33 @@ eme-notifications-drm-content-playing-manage = Håndter indstillinger
 eme-notifications-drm-content-playing-manage-accesskey = H
 eme-notifications-drm-content-playing-dismiss = Afvis
 eme-notifications-drm-content-playing-dismiss-accesskey = A
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Du skal aktivere DRM for at afspille lyd eller video på denne side.
+eme-notifications-drm-content-disabled-button =
+    .label = Aktivér DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } er ved at installere komponenter, der er nødvendige for at afspille lyd eller video på siden. Prøv venligst igen senere.
+decoder-doctor-no-codecs-linux-message = For at afspille video skal du muligvis installere de påkrævede video-codecs.
+decoder-doctor-no-hw-acceleration-message = For at forbedre video-kvaliteten skal du muligvis installere Microsofts Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = PulseAudio skal være installeret for at du kan afspille lyd.
+decoder-doctor-unsupported-libavcodec-message = libavcodec kan være sårbar eller er ikke understøttet. Du bør opdatere libavcodec for at afspille video.
+decoder-doctor-decode-error-message = Der opstod en fejl under dekodning af et medie
+decoder-doctor-decode-warning-message = Der opstod en oprettelig fejl under dekodning af et medie
+decoder-doctor-learn-how-link = Læs mere
+decoder-doctor-report-issue-button =
+    .label = Indrapporter problem
+    .accesskey = I
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Der opstod en fejl i plugin'et { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Genindlæs side
+    .accesskey = G
+plugin-crashed-notification-submit-button =
+    .label = Send en fejlrapport
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1208,6 +1278,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1460,6 +1533,13 @@ file-picker-crashed-open = Fildialogboksen i Windows er gået ned. Der kunne ikk
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Fildialogboksen i Windows er gået ned. Filen vil blive gemt i { $path }.
 file-picker-crashed-save-nowhere = Fildialogboksen i Windows er gået ned. Der blev ikke fundet nogen standardmappe; filen vil ikke blive gemt.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Vis i mappe
     .accessKey = F
@@ -1512,6 +1592,9 @@ trustpanel-blocker-see-all = Vis alle
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Sporingsbeskyttelse for { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

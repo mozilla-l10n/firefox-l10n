@@ -5,6 +5,9 @@
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } प्राइवेट ब्रॉउजिंग
+
+##
+
 urlbar-identity-button =
     .aria-label = साइट केर जानकारी देखू
 
@@ -183,6 +186,9 @@ quickactions-addons = एड-ऑन देखू
 quickactions-bookmarks2 = पुस्तकचिहन्न प्रबंधित करू
 quickactions-cmd-bookmarks = पुस्तचिह्न
 
+## Bookmark Panel
+
+
 ## Identity Panel
 
 identity-connection-internal = ई एकटा सुरक्षित { -brand-short-name } पेज अछि.
@@ -210,9 +216,18 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = बन्न करू
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = अहाँक स्क्रीन पर सभ दृश्य विंडो साझा कएल जाएत.
+
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -239,6 +254,18 @@ urlbar-go-button2 =
 urlbar-result-action-search-w-engine = { $engine } केर सँग खोजू
 urlbar-result-action-switch-tab = 'टैब मे स्विच करू
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = पुस्तकचिह्न
@@ -250,6 +277,17 @@ urlbar-searchmode-history4 = इतिहास
 urlbar-searchmode-popup-add-engine = जोड़ू“{ $engineName }”
     .title = खोज इंजिन जोड़ू “{ $engineName }”
 
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -258,6 +296,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = पाठक व्यू बन्न करू
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -281,6 +324,11 @@ bookmarks-toolbar-chevron =
 bookmarks-sidebar-content =
     .aria-label = पुस्तकचिह्न
 
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
 ##
 
 bookmarks-toolbar-menu =
@@ -290,7 +338,14 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = अओजारपट्टी मद पुस्तकचिह्नित करैता अछि
 
-##
+## Library Panel items
+
+
+## Repair text encoding toolbar button
+
+
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 toolbar-button-email-link =
     .label = कड़ी ईमेल करू
@@ -313,11 +368,65 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = नया निज विंडो (W)
     .tooltiptext = नव विंडो खोलू निज ब्राउसिंग स्थिति मे ({ $shortcut })
+toolbar-button-history =
+    .label = इतिहास
+    .tooltiptext = इतिहास देखाबू ({ $shortcut })
+toolbar-button-find =
+    .label = ताकू
+    .tooltiptext = एहि पृष्ठमे ताकू ({ $shortcut })
+toolbar-button-developer =
+    .label = डेवलेपर
+    .tooltiptext = वेब डेवलेपर अओजार खोलू ({ $shortcut })
+toolbar-button-forget =
+    .label = बिसरू
+    .tooltiptext = किछु ब्राउजिंग इतिहास क संबंध मे बिसरि गेलहूँ
+toolbar-zoom-controls =
+    .label = आकार नियंत्रण
+    .title = आकार नियंत्रण
+toolbar-button-zoom-out =
+    .label = पैघ करू
+    .tooltiptext = ({ $shortcut }) छोट रूपमे देखाबू
+toolbar-button-zoom-reset-tooltip = जूम स्तर ({ $shortcut }) रीसेट करू
+toolbar-button-zoom-in =
+    .label = छोट करू
+    .tooltiptext = पैघ रूपमे ({ $shortcut }) देखाबू
+toolbar-edit-controls =
+    .label = नियंत्रण संपादित करू
+    .title = नियंत्रण संपादित करू
+toolbar-button-cut =
+    .label = काटू
+    .tooltiptext = काटू ({ $shortcut })
+toolbar-button-copy =
+    .label = कापी करू
+    .tooltiptext = कॉपी ({ $shortcut })
+toolbar-button-paste =
+    .label = साटू
+    .tooltiptext = साटू ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
 eme-notifications-drm-content-playing = एहि साइट पर किछु ऑडियो या वीडियो DRM सॉफ्टवेयर केर उपयोग करैत छी, जे सीमित कए सकैत अछि जे { -brand-short-name } अहाँक एकरा सँग की करए दिए सकैत अछि.
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = DRM सक्रिय करू
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ऑडियो आ वीडियो चलेबाक लेल जरूरी अद्यतन स्थापित कए रहल अछि. कृपया बाद मे फेर स कोशि‍श करू
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } प्लगिन क्रैश भए गेल अछि.
+plugin-crashed-notification-reload-button =
+    .label = पृष्ठ फेर लोड करू (R)
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = कोनो क्रैश रिपोर्ट सुपुर्द करू (S)
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -331,7 +440,21 @@ panel-save-update-password-2 =
 ui-tour-info-panel-close =
     .tooltiptext = बन्न करू
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = डाउनलोड
@@ -351,12 +474,50 @@ tabs-toolbar-list-all-tabs =
     .label = सभटा टैब सूचीबद्ध करू
     .tooltiptext = सभटा टैब सूचीबद्ध करू
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } स्वतः किछु आँकड़ा केँ { -vendor-short-name } मे भेजैछ जाहिसँ हम अहाँ अनुभव केँ बढ़ा सकू.
 data-reporting-notification-button =
     .label = चुनू जकरा हम साझा कएलहुँ (C)
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -365,6 +526,9 @@ refresh-blocked-redirect-label = { -brand-short-name } ने एहि पृ�
 refresh-blocked-allow =
     .label = स्वीकारू
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -384,3 +548,29 @@ popup-warning-message =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' देखाउ
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

@@ -27,6 +27,7 @@ urlbar-eme-notification-anchor =
 
 ## URLbar context menu
 
+
 ## Searchbar context menu
 
 
@@ -166,6 +167,7 @@ bookmarks-sidebar-content =
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
+
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
 
@@ -175,11 +177,14 @@ bookmarks-sidebar-content =
 
 ## Notification bars for media playback issues
 
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Bíe plugin { $pluginName } já táɨjɨakañede.
+
 ## Password save/update panel
 
 
 ##
-
 
 ui-tour-info-panel-close =
     .tooltiptext = Ɨ́baide
@@ -190,11 +195,9 @@ ui-tour-info-panel-close =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
 
 
 ##
@@ -225,6 +228,7 @@ tabs-toolbar =
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 
@@ -248,6 +252,7 @@ tabs-toolbar =
 
 ## Fire button. Clears the whole browsing session, then closes every window and
 ## opens a new one.
+
 
 ## Autorefresh blocker
 

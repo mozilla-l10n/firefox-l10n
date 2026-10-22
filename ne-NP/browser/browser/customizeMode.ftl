@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = टच बार अनुकूलित गर्नुहोस्...
 customize-mode-downloads-button-autohide =
     .label = खाली हुँदा बटन लुकाउनुहोस्
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = लचिलो स्पेस
+customize-mode-toolbarseparator =
+    .title = विभाजक
+customize-mode-toolbarspacer =
+    .title = खालीस्थान

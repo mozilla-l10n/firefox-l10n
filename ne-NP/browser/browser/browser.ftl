@@ -5,6 +5,9 @@
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } निजी ब्राउजिङ
+
+##
+
 urlbar-identity-button =
     .aria-label = साइट जानकारी हेर्नुहोस्
 
@@ -383,6 +386,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = यस सत्रको लागि साझेदारी सुरक्षा असक्षम गर्नुहोस्
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -497,6 +503,18 @@ urlbar-result-action-tabtosearch-other-engine = ठेगाना पट्ट�
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = प्रतिलिपि गर्नुहोस्
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -520,6 +538,9 @@ urlbar-result-action-search-bookmarks = बुकमार्कहरू खो
 urlbar-result-action-search-history = खोज इतिहास
 urlbar-result-action-search-tabs = ट्याबहरू खोज्नुहोस्
 urlbar-result-action-search-actions = खोज कार्यहरू
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -671,7 +692,8 @@ repair-text-encoding-button =
     .label = पाठ एन्कोडिङ मर्मत गर्नुहोस्
     .tooltiptext = पृष्ठ सामग्रीबाट सही पाठ इन्कोडिङ अनुमान गर्नुहोस्
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -709,6 +731,44 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = नयाँ निजी सञ्झ्याल
     .tooltiptext = एउटा नयाँ निजी ब्राउजिङ्ग सञ्झ्याल खोल्नुहोस् ({ $shortcut })
+toolbar-button-history =
+    .label = इतिहास
+    .tooltiptext = आफ्नो इतिहास देखाउनुहोस्  ({ $shortcut })
+toolbar-button-find =
+    .label = खोज्नुहोस्
+    .tooltiptext = यस पृष्ठ ({ $shortcut })मा खोज्नुहोस्
+toolbar-button-developer =
+    .label = विकासकर्ता
+    .tooltiptext = खुल्ला वेब विकासकर्ता उपकरणहरू ({ $shortcut })
+toolbar-button-forget =
+    .label = बिर्सनुहोस्
+    .tooltiptext = केहि ब्राउजिङ्ग इतिहासका बारेमा बिर्सिनुहोस्
+toolbar-zoom-controls =
+    .label = जुम नियन्त्रकहरू
+    .title = जुम नियन्त्रकहरू
+toolbar-button-zoom-out =
+    .label = सानो बनाउनुहोस्
+    .tooltiptext = सानो बनाउनुहोस् ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = जुम तह रिसेट गर्नुहोस् ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = सानो बनाउनुहोस्
+    .tooltiptext = ठूलो बनाउनुहोस् ({ $shortcut })
+toolbar-edit-controls =
+    .label = नियन्त्रणहरू सम्पादन गर्नुहोस्
+    .title = नियन्त्रणहरू सम्पादन गर्नुहोस्
+toolbar-button-cut =
+    .label = काट्नुहोस्
+    .tooltiptext = काट्नुहोस् ({ $shortcut })
+toolbar-button-copy =
+    .label = प्रतिलिपि गर्नुहोस्
+    .tooltiptext = प्रतिलिपि ({ $shortcut })
+toolbar-button-paste =
+    .label = पेस्ट गर्नुहोस्
+    .tooltiptext = ({ $shortcut }) पेस्ट गर्नुहोस्
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -717,6 +777,32 @@ eme-notifications-drm-content-playing-manage = सेटिङहरू प्�
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = खारेज गर्नुहोस्
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = DRM सक्रिय पार्नुहोस्
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ले ध्वनी अथवा भिडियो चलाउनका लागि चाहिने अद्यावदिकहरू स्थापना गर्दैछ। कृपया पुनः प्रयास गर्नुहोस्।
+decoder-doctor-no-codecs-linux-message = भिडियो चलाउन, तपाईँले आवश्यक भिडियो कोडेकहरू स्थापना गर्नुपर्छ।
+decoder-doctor-no-hw-acceleration-message = भिडियो गुणस्तर सुधार गर्न, तपाईँले Microsoft को Media Feature Pack स्थापना गर्न आवश्यक हुन सक्छ।
+decoder-doctor-no-pulse-audio-message = आवाज सुन्नका लागि तपाईँलाई PulseAudio सफ्टवेयर स्थापना गर्न आवश्यक पर्न सक्छ।
+decoder-doctor-unsupported-libavcodec-message = भिडियो हेर्नको लागि libavcodec असुरक्षित हुन सक्छ अथवा समर्थित छैन, तसर्थ अद्यावधिक गर्न जरुरी छ।
+decoder-doctor-decode-error-message = मिडिया संसाधन असङ्केतन गर्दा त्रुटि उत्पन्न भयो।
+decoder-doctor-decode-warning-message = मिडिया संसाधन असङ्केतन गर्दा अप्राप्य त्रुटि उत्पन्न भयो।
+decoder-doctor-learn-how-link = कसरी जान्नुहोस्
+decoder-doctor-report-issue-button =
+    .label = साइटको समस्या दर्ता गर्नुहोस्‌
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } प्लगिन क्र्यास भयो।
+plugin-crashed-notification-reload-button =
+    .label = पृष्ठ पुनःलोड गर
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = क्र्यास प्रतिवेदन बुझाउनुहोस्
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -732,6 +818,10 @@ menu-share-more =
     .label = थप…
 ui-tour-info-panel-close =
     .tooltiptext = बन्द गर्नुहोस्
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -750,6 +840,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -782,6 +875,9 @@ tabs-toolbar-list-all-tabs =
     .label = सब ट्याबहरूको सूचि बनाउनुहोस्
     .tooltiptext = सब ट्याबहरूको सूचि बनाउनुहोस्
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -791,6 +887,13 @@ restore-session-startup-suggestion-button = कसरी देखाउनु�
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = तपाईंको संगठनले यस कम्प्युटरमा स्थानीय फाइलहरूमा पहुँच रोकेको छ
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -827,6 +930,10 @@ unified-extensions-button-quarantined =
     .label = बिस्तारहरु
     .tooltiptext = बिस्तारहरु
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-always-ask-checkbox =
@@ -836,6 +943,10 @@ reset-pbm-panel-cancel-button =
     .label = रद्द गर्नुहोस्
     .accesskey = C
 reset-pbm-panel-complete = निजी सत्र डाटा मेटाइयो
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -902,6 +1013,29 @@ file-picker-crashed-open = Windows फाइल-संवाद क्र्य�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows फाइल-संवाद क्र्यास भएको छ। फाइल { $path } मा सुरक्षित हुनेछ।
 file-picker-crashed-save-nowhere = Windows फाइल-संवाद क्र्यास भएको छ। कुनै पूर्वनिर्धारित फोल्डर फेला परेन; फाइल बचत हुनेछैन।
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = फोल्डरमा देखाउनुहोस्
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

@@ -41,6 +41,9 @@ urlbar-identity-button2 =
 urlbar-share-url =
     .label = Համօգտագործել…
     .accesskey = Հ
+
+##
+
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկությունը
 
@@ -734,6 +737,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } ∙ Հովանավորվում է
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Հարցնել
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1123,7 +1131,8 @@ repair-text-encoding-button =
     .label = Վերականգնել տեքստի կոդավորումը
     .tooltiptext = Էջի բովանդակությունից գուշակում է էջի ճիշտ կոդավորումը
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1186,6 +1195,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Ներդիրների խմբեր
     .tooltiptext = Ցուցադրել ձեր ներդիրների խմբերը
+toolbar-button-history =
+    .label = Պատմություն
+    .tooltiptext = Ցուցադրել պատմությունը ({ $shortcut })
+toolbar-button-find =
+    .label = Գտնել
+    .tooltiptext = Գտնել այս Էջում ({ $shortcut })
+toolbar-button-developer =
+    .label = Մշակող
+    .tooltiptext = Բացել Մշակողի գործիքները ({ $shortcut })
+toolbar-button-forget =
+    .label = Մոռանալ
+    .tooltiptext = Մոռանալ դիտարկման որոշ պատմությունը
+toolbar-zoom-controls =
+    .label = Չափի ղեկավարում
+    .title = Չափի ղեկավարում
+toolbar-button-zoom-out =
+    .label = Մանրացնել
+    .tooltiptext = Փոքրացնել ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Վերակայել խոշորացման մակարդակը ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Խոշորացնել
+    .tooltiptext = Մեծացնել ({ $shortcut })
+toolbar-edit-controls =
+    .label = Խմբագրել Կառավարները
+    .title = Խմբագրել Կառավարները
+toolbar-button-cut =
+    .label = Կտրել
+    .tooltiptext = Կտրել ({ $shortcut })
+toolbar-button-copy =
+    .label = Պատճենել
+    .tooltiptext = Պատճենել ({ $shortcut })
+toolbar-button-paste =
+    .label = Փակցնել
+    .tooltiptext = Փակցնել ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1202,6 +1245,32 @@ eme-notifications-drm-content-playing-manage = Կառավարել կարգավո
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Բաց թողնել
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = Միացնել DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name }-ը տեղադրում է թարմացումներ, որոնք պետք են այս էջի ձայնանյութը և տեսանյութը նվագարկելու համար: Փորձեք ավելի ուշ:
+decoder-doctor-no-codecs-linux-message = Տեսանյութը նվագարկելու համար պետք է տեղադրեք պահանջվող տեսակոդեկները:
+decoder-doctor-no-hw-acceleration-message = Տեսանյութի որակը լավարկելու համար պետք է տեղադրեք Microsoft-ի Media Feature Pack-ը:
+decoder-doctor-no-pulse-audio-message = Ձայնագրությունը նվագարկելու համար անհրաժեշտ կլինի տեղադրել պահանջվող PulseAudio ծրագրակազմը:
+decoder-doctor-unsupported-libavcodec-message = libavcodec-ը կարող է խոցելի կամ չաջակցված լինել և պետք է թարմացվի, որ նվագարկվի տեսանյութը։
+decoder-doctor-decode-error-message = Սխալ՝ մեդիայի պաշարը ապակոդավորելիս:
+decoder-doctor-decode-warning-message = Ուղղելի սխալ է պատահել՝ մեդիայի ռեսուրսը ապակոդավորելիս:
+decoder-doctor-learn-how-link = Սովորել, թե ինչպես
+decoder-doctor-report-issue-button =
+    .label = Զեկուցել կայքի խնդրի մասին
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } բաղադրիչը վնասվեց:
+plugin-crashed-notification-reload-button =
+    .label = Կրկին բեռնել էջը
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Տեղեկացնել վթարի մասին
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1253,6 +1322,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1391,6 +1463,10 @@ reset-pbm-toolbar-button2 =
     .label = Մաքրել անձնական նիստը
     .tooltiptext = Մաքրել անձնական նիստը
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }-ը կասեցրեց այս էջի ինքնաբար վերբեռնումը:
@@ -1465,6 +1541,13 @@ file-picker-crashed-open = Windows-ի ֆայլերի երկխոսության պ
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-ի ֆայլի երկխոսության պատուհանը խափանվել է։ Ֆայլը կպահպանվի { $path }-ում։
 file-picker-crashed-save-nowhere = Windows-ի ֆայլերի երկխոսության պատուհանը խափանվել է: Լռելյայն թղթապանակը չի գտնվել. ֆայլը չի պահպանվի:
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Ցուցադրել պանակում
     .accessKey = F
@@ -1516,6 +1599,9 @@ trustpanel-blocker-see-all = Տեսնել բոլորը
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Հետևողականության պաշտպանություն { $host }-ի համար
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

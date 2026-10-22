@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Dotyknjeńsku rědku pśiměriś…
 customize-mode-downloads-button-autohide =
     .label = Tłocašk schowaś, gaž prozny
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Fleksibelna prozny rum
+customize-mode-toolbarseparator =
+    .title = Žěleńske znamuško
+customize-mode-toolbarspacer =
+    .title = Prozny rum

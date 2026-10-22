@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Diele…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Website-ynformaasje werjaan
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsore
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Freegje
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1145,7 +1153,8 @@ repair-text-encoding-button =
     .label = Tekstkodearring reparearje
     .tooltiptext = Betink krekte tekstkodearring fan sideynhâld út
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1208,6 +1217,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Ljepblêdgroepen
     .tooltiptext = Jo ljepblêdgroepen toane
+toolbar-button-history =
+    .label = Skiednis
+    .tooltiptext = Jo skiednis toane ({ $shortcut })
+toolbar-button-find =
+    .label = Sykje
+    .tooltiptext = Sykje op dizze side ({ $shortcut })
+toolbar-button-developer =
+    .label = Untwikkeler
+    .tooltiptext = Webûntwikkelark iepenje ({ $shortcut })
+toolbar-button-forget =
+    .label = Ferjitte
+    .tooltiptext = Bepaalde navigaasjeskiednis ferjitte
+toolbar-zoom-controls =
+    .label = Zoombetsjinning
+    .title = Zoombetsjinning
+toolbar-button-zoom-out =
+    .label = Utzoome
+    .tooltiptext = Utzoome ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Zoomnivo weromsette ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Ynzoome
+    .tooltiptext = Ynzoome ({ $shortcut })
+toolbar-edit-controls =
+    .label = Betsjinningen bewurkje
+    .title = Betsjinningen bewurkje
+toolbar-button-cut =
+    .label = Knippe
+    .tooltiptext = Knippe ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopiearje
+    .tooltiptext = Kopiearje ({ $shortcut })
+toolbar-button-paste =
+    .label = Plakke
+    .tooltiptext = Plakke ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1224,6 +1267,33 @@ eme-notifications-drm-content-playing-manage = Ynstellingen beheare
 eme-notifications-drm-content-playing-manage-accesskey = b
 eme-notifications-drm-content-playing-dismiss = Slute
 eme-notifications-drm-content-playing-dismiss-accesskey = S
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Jo moatte DRM ynskeakelje om bepaalde audio of fideo op dizze side ôf te spyljen.
+eme-notifications-drm-content-disabled-button =
+    .label = DRM ynskeakelje
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = Om de audio of fideo op dizze side ôf te spyljen ynstallearret { -brand-short-name } de nedige komponinten. Probearje it letter opnij.
+decoder-doctor-no-codecs-linux-message = Om fideo ôf te spyljen, moatte jo mooglik de fereaske fideocodecs ynstallearje.
+decoder-doctor-no-hw-acceleration-message = Om de fideokwaliteit te ferbetterjen, moatte jo mooglik Microsoft’s Media Feature Pack ynstallearje.
+decoder-doctor-no-pulse-audio-message = Om audio ôf te spyljen, moatte jo mooglik it fereaske PulseAudio-programma ynstallearje.
+decoder-doctor-unsupported-libavcodec-message = libavcodec kin kwetsber wêze of wurdt net stipe en soe fernijd wurde moatte om fideo ôf te spyljen.
+decoder-doctor-decode-error-message = Der is in flater bard wylst it dekodearjen fan in mediaboarne.
+decoder-doctor-decode-warning-message = Der is in werstelbere flater bard wylst it dekodearjen fan in mediaboarne.
+decoder-doctor-learn-how-link = Mear ynfo
+decoder-doctor-report-issue-button =
+    .label = Websiteprobleem rapportearje
+    .accesskey = W
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = De { $pluginName } ynstekker is ferûngelokke.
+plugin-crashed-notification-reload-button =
+    .label = Side opnij lade
+    .accesskey = S
+plugin-crashed-notification-submit-button =
+    .label = Stjoer in ûngelokrapport
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1275,6 +1345,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1534,6 +1607,13 @@ file-picker-crashed-open = It Windows-bestânsdialoochfinster is ferûngelokke. 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = It Windows-bestânsdialoochfinster is ferûngelokke. It bestân wurdt bewarre yn { $path }.
 file-picker-crashed-save-nowhere = It Windows-bestânsdialoochfinster is ferûngelokke. Der is gjin standertmap fûn; it bestân sil net bewarre wurde.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Yn map toane
     .accessKey = m
@@ -1586,6 +1666,9 @@ trustpanel-blocker-see-all = Alles besjen
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Beskerming tsjin folgjen foar { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

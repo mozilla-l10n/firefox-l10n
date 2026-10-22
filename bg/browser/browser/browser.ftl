@@ -24,6 +24,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Управление на изскачащи прозорци и пренасочвания от трети страни…
     .accesskey = и
+
+##
+
 urlbar-identity-button =
     .aria-label = Показване на информация за уеб страницата
 
@@ -495,6 +498,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Изключване на защита от споделяне за сесията
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -666,6 +672,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсорирано
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Попитайте
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -967,7 +978,8 @@ repair-text-encoding-button =
     .label = Поправка на кодировката
     .tooltiptext = Прави предположение за кодирането на текста от съдържанието на страницата
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1007,6 +1019,44 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Поверителен прозорец
     .tooltiptext = Отваряне на поверителен прозорец ({ $shortcut })
+toolbar-button-history =
+    .label = История
+    .tooltiptext = Показване на история ({ $shortcut })
+toolbar-button-find =
+    .label = Търсене
+    .tooltiptext = Търсене в страницата ({ $shortcut })
+toolbar-button-developer =
+    .label = Разработчик
+    .tooltiptext = Отваряне на развойни инструменти ({ $shortcut })
+toolbar-button-forget =
+    .label = Забравяне
+    .tooltiptext = Забравяне на част от историята на разглеждане
+toolbar-zoom-controls =
+    .label = Контроли за мащабиране
+    .title = Контроли за мащабиране
+toolbar-button-zoom-out =
+    .label = Намаляване
+    .tooltiptext = Намаляване ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Нулиране на мащабирането ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Увеличаване
+    .tooltiptext = Увеличаване ({ $shortcut })
+toolbar-edit-controls =
+    .label = Контроли за редактиране
+    .title = Контроли за редактиране
+toolbar-button-cut =
+    .label = Изрязване
+    .tooltiptext = Изрязване ({ $shortcut })
+toolbar-button-copy =
+    .label = Копиране
+    .tooltiptext = Копиране ({ $shortcut })
+toolbar-button-paste =
+    .label = Поставяне
+    .tooltiptext = Поставяне ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -1015,6 +1065,33 @@ eme-notifications-drm-content-playing-manage = Управление на нас�
 eme-notifications-drm-content-playing-manage-accesskey = М
 eme-notifications-drm-content-playing-dismiss = Прекратяване
 eme-notifications-drm-content-playing-dismiss-accesskey = р
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Трябва да активирате DRM, за да възпроизведете аудио или видео на тази страница.
+eme-notifications-drm-content-disabled-button =
+    .label = Включване на DRM
+    .accesskey = В
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } инсталира компоненти, необходими за работата на аудио или видеозапис от страницата. Моля, опитайте по-късно.
+decoder-doctor-no-codecs-linux-message = За възпроизвеждане на видеото, е нужно да инсталирате изискваните видео кодеци.
+decoder-doctor-no-hw-acceleration-message = За подобряване качеството на видеото, е нужно да инсталирате Media Feature Pack на Microsoft.
+decoder-doctor-no-pulse-audio-message = За възпроизвеждане на аудиото, е нужно да инсталирате изискваният софтуер на PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec може да е уязвима или неподдържана и за възпроизвеждане на видео трябва да бъде обновена.
+decoder-doctor-decode-error-message = Възникна грешка при разкодиране да медиен ресурс.
+decoder-doctor-decode-warning-message = Възникна възстановима грешка при разкодиране да медиен ресурс.
+decoder-doctor-learn-how-link = Научете как
+decoder-doctor-report-issue-button =
+    .label = Докладване на проблем със сайта
+    .accesskey = Д
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Приставката { $pluginName } се срина.
+plugin-crashed-notification-reload-button =
+    .label = Презареждане на страницата
+    .accesskey = П
+plugin-crashed-notification-submit-button =
+    .label = Изпращане на доклад за срив
+    .accesskey = И
 
 ## Password save/update panel
 
@@ -1055,6 +1132,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = л
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1102,6 +1182,13 @@ restore-session-startup-suggestion-button = Покажете ми как
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Достъпът до файловете на компютъра е ограничен от вашето ведомство.
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1166,6 +1253,10 @@ reset-pbm-panel-cancel-button =
     .label = Отказ
     .accesskey = т
 reset-pbm-panel-complete = Информацията от поверителния сеанс е премахната
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1258,6 +1349,13 @@ file-picker-crashed-open = Файловият диалогов прозорец 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Файловият диалогов прозорец на Windows се срина. Файлът ще бъде запазен в { $path }.
 file-picker-crashed-save-nowhere = Файловият диалогов прозорец на Windows се срина. Не може да бъде намерена папка по подразбиране. Файлът няма да бъде записан.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Показване в папка
     .accessKey = о
@@ -1310,6 +1408,9 @@ trustpanel-blocker-see-all = Вижте всички
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Защити от проследяване за { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1403,3 +1504,6 @@ trustpanel-blocker-section-header2 =
         [one] <span data-l10n-name="count">{ $count }</span> проследяващ скрипт е блокиран на този сайт.
        *[other] <span data-l10n-name="count">{ $count }</span> проследяващи скриптове са блокирани на този сайт.
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

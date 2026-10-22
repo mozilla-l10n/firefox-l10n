@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Настройки на лентата за докосване…
 customize-mode-downloads-button-autohide =
     .label = Скриване на бутона ако няма нищо
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Адаптивен интервал
+customize-mode-toolbarseparator =
+    .title = Разделител
+customize-mode-toolbarspacer =
+    .title = Интервал

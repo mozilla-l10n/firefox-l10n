@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = خصّص شريط اللمس…
 customize-mode-downloads-button-autohide =
     .label = أخفِ الزر إن لم تكن هناك تنزيلات
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = فراغ مرن
+customize-mode-toolbarseparator =
+    .title = فاصل
+customize-mode-toolbarspacer =
+    .title = فراغ

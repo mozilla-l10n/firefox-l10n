@@ -27,3 +27,12 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = சாதாரணம்
 customize-mode-undo-cmd =
     .label = செயல்தவிர்
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = நெகிழ்வான இடம்
+customize-mode-toolbarseparator =
+    .title = பிரிப்பி
+customize-mode-toolbarspacer =
+    .title = இடைவெளி

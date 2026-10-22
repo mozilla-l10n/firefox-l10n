@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Paylaş…
     .accesskey = P
+
+##
+
 urlbar-identity-button =
     .aria-label = Site bilgilerini göster
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = { $city } şu anda <strong>{ $temperatur
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorlu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Sor
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1145,7 +1153,8 @@ repair-text-encoding-button =
     .label = Metin kodlamasını onar
     .tooltiptext = Sayfa içeriğinden doğru metin kodlamasını tahmin et
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1208,6 +1217,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Sekme grupları
     .tooltiptext = Sekme gruplarımı göster
+toolbar-button-history =
+    .label = Geçmiş
+    .tooltiptext = Geçmişimi göster ({ $shortcut })
+toolbar-button-find =
+    .label = Bul
+    .tooltiptext = Bu sayfada bul ({ $shortcut })
+toolbar-button-developer =
+    .label = Geliştirici
+    .tooltiptext = Web geliştirici araçlarını aç ({ $shortcut })
+toolbar-button-forget =
+    .label = Unut
+    .tooltiptext = Gezinti geçmişimin bir kısmını unut
+toolbar-zoom-controls =
+    .label = Yakınlaştırma düğmeleri
+    .title = Yakınlaştırma düğmeleri
+toolbar-button-zoom-out =
+    .label = Uzaklaştır
+    .tooltiptext = Uzaklaştır ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Yakınlaştırma düzeyini sıfırla ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Yakınlaştır
+    .tooltiptext = Yakınlaştır ({ $shortcut })
+toolbar-edit-controls =
+    .label = Düzenleme düğmeleri
+    .title = Düzenleme düğmeleri
+toolbar-button-cut =
+    .label = Kes
+    .tooltiptext = Kes ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopyala
+    .tooltiptext = Kopyala ({ $shortcut })
+toolbar-button-paste =
+    .label = Yapıştır
+    .tooltiptext = Yapıştır ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1224,6 +1267,33 @@ eme-notifications-drm-content-playing-manage = Ayarları yönet
 eme-notifications-drm-content-playing-manage-accesskey = A
 eme-notifications-drm-content-playing-dismiss = Kapat
 eme-notifications-drm-content-playing-dismiss-accesskey = K
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Bu sayfadaki bazı ses veya videoları oynatmak için DRM’i etkinleştirmelisiniz.
+eme-notifications-drm-content-disabled-button =
+    .label = DRM’i etkinleştir
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } bu sayfadaki ses ve videoyu oynatmak için gereken bileşenleri yüklüyor. Lütfen daha sonra tekrar deneyin.
+decoder-doctor-no-codecs-linux-message = Video oynatmak için gereken video codec’lerini yüklemeniz gerekebilir.
+decoder-doctor-no-hw-acceleration-message = Video kalitesini yükseltmek için Microsoft’tan Media Feature Pack’i yüklemeniz gerekebilir.
+decoder-doctor-no-pulse-audio-message = Ses çalmak için gereken PulseAudio yazılımını yüklemeniz gerekebilir.
+decoder-doctor-unsupported-libavcodec-message = libavcodec güvenli değil veya desteklenmiyor. Video oynatmak için güncellenmesi gerekiyor.
+decoder-doctor-decode-error-message = Bir multimedya kaynağı çözülürken hata oluştu.
+decoder-doctor-decode-warning-message = Bir multimedya kaynağı çözülürken kurtarılabilir bir hata oluştu.
+decoder-doctor-learn-how-link = Nasıl yapılacağını öğren
+decoder-doctor-report-issue-button =
+    .label = Site sorununu bildir
+    .accesskey = S
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } yan uygulaması çöktü.
+plugin-crashed-notification-reload-button =
+    .label = Sayfayı tazele
+    .accesskey = S
+plugin-crashed-notification-submit-button =
+    .label = Çökme raporu gönder
+    .accesskey = r
 
 ## Password save/update panel
 
@@ -1275,6 +1345,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = ö
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1536,6 +1609,13 @@ file-picker-crashed-open = Windows dosya iletişim kutusu çöktü. Hiçbir dosy
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows dosya iletişim kutusu çöktü. Dosya { $path } konumuna kaydedilecek.
 file-picker-crashed-save-nowhere = Windows dosya iletişim kutusu çöktü. Varsayılan klasör bulunamadı. Dosya kaydedilmeyecektir.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Klasörde göster
     .accessKey = l
@@ -1588,6 +1668,9 @@ trustpanel-blocker-see-all = Tümünü göster
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } izlenme korumaları
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

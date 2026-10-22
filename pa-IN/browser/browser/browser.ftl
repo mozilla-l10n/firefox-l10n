@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = …ਸਾਂਝਾ ਕਰੋ
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = ਸਾਈਟ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ
 
@@ -757,6 +760,11 @@ urlbar-result-weather-title-city-only = { $city } ਵਿਖੇ <strong>{ $temper
 urlbar-result-weather-provider-sponsored = { $provider } · ਸਪੌਂਸਰ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = ਪੁੱਛੋ
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1146,7 +1154,8 @@ repair-text-encoding-button =
     .label = ਲਿਖਤ ਇੰਕੋਡਿੰਗ ਰਿਪੇਅਰ ਕਰੋ
     .tooltiptext = ਸਫ਼ਾ ਸਮੱਗਰੀ ਤੋਂ ਠੀਕ ਲਿਖਤ ਇੰਕੋਡਿੰਗ ਦਾ ਅੰਦਾਜ਼ਾ ਲਾਓ
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1209,6 +1218,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = ਟੈਬ ਦੇ ਗਰੁੱਪ
     .tooltiptext = ਆਪਣੇ ਟੈਬ ਗਰੁੱਪ ਨੂੰ ਵੇਖੋ
+toolbar-button-history =
+    .label = ਅਤੀਤ
+    .tooltiptext = ਆਪਣੇ ਅਤੀਤ ਵੇਖੋ ({ $shortcut })
+toolbar-button-find =
+    .label = ਖੋਜ
+    .tooltiptext = ਇਸ ਸਫ਼ੇ ਵਿੱਚ ਲੱਭੋ ({ $shortcut })
+toolbar-button-developer =
+    .label = ਡਿਵੈਲਪਰ
+    .tooltiptext = ਵੈੱਬ ਡਿਵੈਲਪਰ ਟੂਲਾਂ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
+toolbar-button-forget =
+    .label = ਭੁੱਲ ਜਾਓ
+    .tooltiptext = ਕੁਝ ਬਰਾਊਜ਼ਿੰਗ ਅਤੀਤ ਬਾਰੇ ਭੁੱਲ ਜਾਓ
+toolbar-zoom-controls =
+    .label = ਜ਼ੂਮ ਕੰਟਰੋਲ
+    .title = ਜ਼ੂਮ ਕੰਟਰੋਲ
+toolbar-button-zoom-out =
+    .label = ਜ਼ੂਮ ਆਉਟ
+    .tooltiptext = ਜ਼ੂਮ ਆਉਟ ਕਰੋ ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = ਜ਼ੂਮ ਪੱਧਰ ਮੁੜ-ਸੈੱਟ ਕਰੋ ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = ਜ਼ੂਮ ਇਨ
+    .tooltiptext = ਜ਼ੂਮ ਇਨ ({ $shortcut })
+toolbar-edit-controls =
+    .label = ਕੰਟਰੋਲ ਸੋਧ
+    .title = ਕੰਟਰੋਲ ਸੋਧ ਕਰੋ
+toolbar-button-cut =
+    .label = ਕੱਟੋ
+    .tooltiptext = ਕੱਟੋ ({ $shortcut })
+toolbar-button-copy =
+    .label = ਕਾਪੀ
+    .tooltiptext = ਕਾਪੀ ਕਰੋ ({ $shortcut })
+toolbar-button-paste =
+    .label = ਚੇਪੋ
+    .tooltiptext = ਚੇਪੋ ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1225,6 +1268,33 @@ eme-notifications-drm-content-playing-manage = ਸੈਟਿੰਗਾਂ ਦਾ �
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = ਖ਼ਾਰਜ ਕਰੋ
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਕੁਝ ਆਡੀਓ ਜਾਂ ਵੀਡੀਓ ਨੂੰ ਚਲਾਉਣ ਲਈ ਤੁਹਾਨੂੰ DRM ਸਮਰੱਥ ਕਰਨੇ ਜ਼ਰੂਰੀ ਹਨ।
+eme-notifications-drm-content-disabled-button =
+    .label = DRM ਸਮਰੱਥ ਕਰੋ
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ਭਾਗਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰ ਰਿਹਾ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਆਡੀਓ ਜਾਂ ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਚਾਹੀਦੇ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+decoder-doctor-no-codecs-linux-message = ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਤੁਹਾਨੂੰ ਵੀਡੀਓ codecs ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
+decoder-doctor-no-hw-acceleration-message = ਵੀਡੀਓ ਕੁਆਲਟੀ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਤੁਹਾਨੂੰ Microsoft ਦੇ ਮੀਡੀਆ ਫੀਚਰ ਪੈਕ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
+decoder-doctor-no-pulse-audio-message = ਆਡੀਓ ਚਲਾਉਣ ਲਈ ਤੁਹਾਨੂੰ ਲੋੜੀਂਦੇ PulseAudio ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+decoder-doctor-unsupported-libavcodec-message = libavcodec ਕਮਜ਼ੋਰ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਸਹਾਇਕ ਨਹੀਂ ਹੋ ਸਕਦੀ ਅਤੇ ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਅੱਪਡੇਟ ਕਰਨਾ ਜ਼ਰੂਰੀ ਹੈ।
+decoder-doctor-decode-error-message = ਮੀਡੀਆ ਸਰੋਤ ਨੂੰ ਡੀਕੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਵਾਪਰੀ ਹੈ।
+decoder-doctor-decode-warning-message = ਮੀਡੀਆ ਸਰੋਤ ਨੂੰ ਡੀਕੋਡ ਕਰਨ ਦੌਰਾਨ ਪ੍ਰਾਪਤ ਕਰਨ ਯੋਗ ਗ਼ਲਤੀ ਵਾਪਰੀ ਹੈ।
+decoder-doctor-learn-how-link = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
+decoder-doctor-report-issue-button =
+    .label = ਸਾਈਟ ਮਸਲੇ ਬਾਰੇ ਰਿਪੋਰਟ ਦਿਓ
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } ਪਲੱਗਇਨ ਕਰੈਸ਼ ਕਰ ਗਈ ਹੈ।
+plugin-crashed-notification-reload-button =
+    .label = ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰੋ
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ਕਰੈਸ਼ ਰਿਪੋਰਟ ਭੇਜੋ
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1276,6 +1346,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1533,6 +1606,13 @@ file-picker-crashed-open = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਫਾਇਲ ਨੂੰ { $path } ਵਿੱਚ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।
 file-picker-crashed-save-nowhere = Windows ਫਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਕੋਈ ਮੂਲ ਫੋਲਡਰ ਨਹੀਂ ਲੱਭਿਆ ਜਾ ਸਕਿਆ; ਫਾਇਲ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
     .accessKey = F
@@ -1585,6 +1665,9 @@ trustpanel-blocker-see-all = ਸਾਰੇ ਵੇਖੋ
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

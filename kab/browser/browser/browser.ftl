@@ -20,6 +20,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Tunigin tusligt
+
+##
+
 urlbar-identity-button =
     .aria-label = Sken talɣut n usmel
 
@@ -480,6 +483,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -651,6 +657,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } ⋅ S lmendad
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Suter
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
@@ -934,7 +945,8 @@ repair-text-encoding-button =
     .label = Ṣeggem asettengel n uḍris
     .tooltiptext = Sumer asettengel ameɣtu n uḍris seg ugbur n usebter
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -988,6 +1000,44 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Bḍu
     .tooltiptext = Bḍu asebter-a
+toolbar-button-history =
+    .label = Azray
+    .tooltiptext = Sken azray-ik ({ $shortcut })
+toolbar-button-find =
+    .label = Nadi
+    .tooltiptext = Nadi deg usebter-a ({ $shortcut })
+toolbar-button-developer =
+    .label = Taneflit
+    .tooltiptext = Ifecka n tneflit web ({ $shortcut })
+toolbar-button-forget =
+    .label = Sfeḍ isefka
+    .tooltiptext = Sfeḍ isefka n umazray n iminig
+toolbar-zoom-controls =
+    .label = Aswir n usemɣeṛ/asemẓi
+    .title = Aswir n usemɣeṛ/asemẓi
+toolbar-button-zoom-out =
+    .label = &Semẓi
+    .tooltiptext = Semẓi ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Wennez aswir n usemɣeṛ/asemẓi ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Semɣeṛ
+    .tooltiptext = Semɣer ({ $shortcut })
+toolbar-edit-controls =
+    .label = Asenqed n teẓrigt
+    .title = Asenqed n teẓrigt
+toolbar-button-cut =
+    .label = Gzem
+    .tooltiptext = Gzem ({ $shortcut })
+toolbar-button-copy =
+    .label = Nɣel
+    .tooltiptext = Nɣel ({ $shortcut })
+toolbar-button-paste =
+    .label = Senteḍ
+    .tooltiptext = Senteḍ ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -996,6 +1046,33 @@ eme-notifications-drm-content-playing-manage = Sefrek iɣewwaren
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Zgel
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Ilaq ad tremdeḍ DRM akken ad teɣreḍ kra n yifuyla imeslayen neɣ tividyutin deg usebter-a.
+eme-notifications-drm-content-disabled-button =
+    .label = Rmed DRM
+    .accesskey = R
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } a yessebdad iferdisen ilaqen i wurar n umeslaw neɣ n tvidyut ɣef usebter-a. Ma ulac aɣilif, ɛreḍ ticki.
+decoder-doctor-no-codecs-linux-message = Akken ad turareḍ tavidyut, ahat tesriḍ ad tesbedded ikudiken n uvidyu i iwulmen.
+decoder-doctor-no-hw-acceleration-message = Akken ad igerrez uvidyu, ahat tesriḍ ad tesbeddeḍ Media Feature Pack n Microsoft.
+decoder-doctor-no-pulse-audio-message = Akken ad turareḍ tavidyut, ahat tesriḍ ad tesbedded aseɣẓan PulseAudio iwulmen.
+decoder-doctor-unsupported-libavcodec-message = libavcodec ahat d ameɛlal neɣ ur yettusefrak ara, ihi yessefk ad yettwaleqqem akken ad yurar tavidyut.
+decoder-doctor-decode-error-message = Tella-d tuccḍa deg ukestengel n teɣbalut n teɣwalt.
+decoder-doctor-decode-warning-message = Tella-d tuccḍa yettwaseɣtayen deg ukestengel n teɣbalut n teɣwalt.
+decoder-doctor-learn-how-link = Issin amek
+decoder-doctor-report-issue-button =
+    .label = Azen ugur ɣef usmel
+    .accesskey = Z
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Azgrir { $pluginName } yeɣli.
+plugin-crashed-notification-reload-button =
+    .label = Smiren asebter
+    .accesskey = S
+plugin-crashed-notification-submit-button =
+    .label = Azen aneqqis n uɣelluy
+    .accesskey = A
 
 ## Password save/update panel
 
@@ -1014,6 +1091,10 @@ menu-share-windows =
 ui-tour-info-panel-close =
     .tooltiptext = Mdel
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
@@ -1031,6 +1112,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = Z
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1065,6 +1149,9 @@ tabs-toolbar-list-all-tabs =
     .label = Bder akk accaren
     .tooltiptext = Bder akk accaren
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
@@ -1074,6 +1161,13 @@ restore-session-startup-suggestion-button = Sken-iyi-d amek
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Tuddsa-ik tessewḥel anekcum i ifuyla idiganen ɣef uselkim-a.
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1139,6 +1233,10 @@ reset-pbm-toolbar-button2 =
     .label = Sfeḍ tiɣimit tusligt
     .tooltiptext = Sfeḍ tiɣimit tusligt
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } issewḥel asebter-a seg usmiren awurman.
@@ -1146,6 +1244,9 @@ refresh-blocked-redirect-label = { -brand-short-name } issewḥel awehhi awurman
 refresh-blocked-allow =
     .label = Sireg
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -1198,6 +1299,13 @@ popup-trigger-redirect-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Sken deg ukaram
     .accessKey = F
@@ -1235,6 +1343,9 @@ trustpanel-blocker-see-all = Wali akk
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ammesten n uḍfar i { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

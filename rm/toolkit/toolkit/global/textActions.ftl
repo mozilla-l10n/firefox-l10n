@@ -66,6 +66,20 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Svidar
+text-action-highlight-selection-2 =
+    .label = Relevar la selecziun
+    .accesskey = R
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Copiar la colliaziun al text marcà
+    .accesskey = C
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = Copiar ina colliaziun netta al text marcà
+    .accesskey = C
 text-action-highlight-selection =
     .label = Relevar la selecziun
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link

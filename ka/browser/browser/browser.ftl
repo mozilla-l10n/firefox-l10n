@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = გაზიარება…
     .accesskey = გ
+
+##
+
 urlbar-identity-button =
     .aria-label = საიტის ინფორმაციის ჩვენება
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · დამკვეთისგან
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = კითხვა
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1145,7 +1153,8 @@ repair-text-encoding-button =
     .label = ტექსტის კოდირების გასწორება
     .tooltiptext = ამოიცნობს სათანადო კოდირებას გვერდის შიგთავსიდან
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1208,6 +1217,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = ჩანართის ჯგუფები
     .tooltiptext = ჩანართის ჯგუფების ჩვენება
+toolbar-button-history =
+    .label = ისტორია
+    .tooltiptext = ისტორიის ჩვენება ({ $shortcut })
+toolbar-button-find =
+    .label = ძიება
+    .tooltiptext = ამ გვერდზე პოვნა ({ $shortcut })
+toolbar-button-developer =
+    .label = შემმუშავებლის ხელსაწყოები
+    .tooltiptext = ვებშემუშავების ხელსაწყოების გახსნა ({ $shortcut })
+toolbar-button-forget =
+    .label = დავიწყება
+    .tooltiptext = მონახულებული გვერდების ისტორიის ნაწილის დავიწყება
+toolbar-zoom-controls =
+    .label = ზომების მართვა
+    .title = ზომების მართვა
+toolbar-button-zoom-out =
+    .label = დაშორება
+    .tooltiptext = დაშორება ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = საწყის ზომაზე დაბრუნება ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = მიახლოება
+    .tooltiptext = მიახლოება ({ $shortcut })
+toolbar-edit-controls =
+    .label = ჩასწორების ხელსაწყოები
+    .title = ჩასწორების ხელსაწყოები
+toolbar-button-cut =
+    .label = ამოჭრა
+    .tooltiptext = ამოჭრა ({ $shortcut })
+toolbar-button-copy =
+    .label = ასლი
+    .tooltiptext = ასლი ({ $shortcut })
+toolbar-button-paste =
+    .label = ჩასმა
+    .tooltiptext = ჩასმა ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1224,6 +1267,33 @@ eme-notifications-drm-content-playing-manage = პარამეტრები
 eme-notifications-drm-content-playing-manage-accesskey = ვ
 eme-notifications-drm-content-playing-dismiss = დახურვა
 eme-notifications-drm-content-playing-dismiss-accesskey = უ
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = ამ გვერდზე ზოგიერთი ხმოვანი ან ვიდეოფაილის გასაშვებად უნდა ჩართოთ DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = ჩაირთოს DRM
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } აყენებს ამ გვერდზე ხმოვანი ფაილის ან ვიდეოს გასაშვებად საჭირო პროგრამულ ნაწილებს. მოითმინეთ და სცადეთ ახლიდან.
+decoder-doctor-no-codecs-linux-message = ვიდეოს გასაშვებად შეიძლება დაგჭირდეთ შესაბამისი ვიდეომშიფრავების დაყენება.
+decoder-doctor-no-hw-acceleration-message = ვიდეოს ხარისხის გასაუმჯობესებლად, შეიძლება დაგჭირდეთ Microsoft Media Feature Pack-ის დაყენება.
+decoder-doctor-no-pulse-audio-message = აუდიოს გასაშვებად, შეიძლება დაგჭირდეთ PulseAudio პროგრამა.
+decoder-doctor-unsupported-libavcodec-message = libavcodec შესაძლოა, დაუცველია ან არაა მხარდაჭერილი და ვიდეოს გასაშვებად საჭიროა მისი განახლება.
+decoder-doctor-decode-error-message = შეცდომა, მედიაფაილის გაშიფვრისას.
+decoder-doctor-decode-warning-message = აღდგენადი შეცდომა, მედიაფაილის გაშიფვრისას.
+decoder-doctor-learn-how-link = ნახეთ როგორ
+decoder-doctor-report-issue-button =
+    .label = საიტის ხარვეზის მოხსენება
+    .accesskey = მ
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } მოდული უეცრად გაითიშა.
+plugin-crashed-notification-reload-button =
+    .label = გვერდის ხელახლა გახსნა
+    .accesskey = ხ
+plugin-crashed-notification-submit-button =
+    .label = უეცარი გათიშვის მოხსენების გადაგზავნა
+    .accesskey = გ
 
 ## Password save/update panel
 
@@ -1275,6 +1345,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = ც
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1533,6 +1606,13 @@ file-picker-crashed-open = Windows-ის ფაილების მმარ�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-ის ფაილების მმართველი უეცრად გაითიშა. ფაილის შენახვის ადგილი იქნება { $path }.
 file-picker-crashed-save-nowhere = Windows-ის ფაილების მმართველი უეცრად გაითიშა. ნაგულისხმევი საქაღალდე ვერ მოინახა; ფაილის შენახვა ვერ მოხერხდა.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = ჩვენება საქაღალდეში
     .accessKey = ქ
@@ -1585,6 +1665,9 @@ trustpanel-blocker-see-all = ყველას ნახვა
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = თვალთვალისგან დაცვა საიტისთვის { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

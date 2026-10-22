@@ -65,6 +65,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Partajează…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = Vezi informații despre site
 
@@ -759,6 +762,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizat
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Întreabă
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1154,7 +1162,8 @@ repair-text-encoding-button =
     .label = Repară codarea de text
     .tooltiptext = Determină codarea de text corectă din conținutul paginii
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1217,6 +1226,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grupe de file
     .tooltiptext = Afișează grupele de file
+toolbar-button-history =
+    .label = Istoric
+    .tooltiptext = Afișează istoricul ({ $shortcut })
+toolbar-button-find =
+    .label = Caută
+    .tooltiptext = Caută în această pagină ({ $shortcut })
+toolbar-button-developer =
+    .label = Dezvoltator
+    .tooltiptext = Deschide instrumentele pentru dezvoltatori web ({ $shortcut })
+toolbar-button-forget =
+    .label = Uită
+    .tooltiptext = Uită de o parte din istoricul de navigare
+toolbar-zoom-controls =
+    .label = Comenzi pentru zoom
+    .title = Comenzi pentru zoom
+toolbar-button-zoom-out =
+    .label = Micșorează
+    .tooltiptext = Micșorează ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Resetează nivelul zoomului ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Mărește
+    .tooltiptext = Mărește ({ $shortcut })
+toolbar-edit-controls =
+    .label = Comenzi pentru editare
+    .title = Comenzi pentru editare
+toolbar-button-cut =
+    .label = Taie
+    .tooltiptext = Taie ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiază
+    .tooltiptext = Copiază ({ $shortcut })
+toolbar-button-paste =
+    .label = Inserează
+    .tooltiptext = Inserează ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1233,6 +1276,33 @@ eme-notifications-drm-content-playing-manage = Gestionează setările
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Respinge
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Trebuie să activezi DRM pentru redare audio sau video pe această pagină.
+eme-notifications-drm-content-disabled-button =
+    .label = Activează DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } instalează componentele necesare pentru a reda videoclipurile sau sunetele de pe aceasta pagină. Te rugăm să încerci din nou mai târziu.
+decoder-doctor-no-codecs-linux-message = Pentru a redare video, ar putea fi necesară instalarea de codecuri video.
+decoder-doctor-no-hw-acceleration-message = Pentru a îmbunătăți calitatea video, ar putea fi necesară instalarea pachetului de funcții media de la Microsoft.
+decoder-doctor-no-pulse-audio-message = Pentru redare audio ar putea fi necesară instalarea programelor PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = Este posibil ca libavcodec să fie vulnerabil sau să nu fie suportat și trebuie actualizat pentru redare video.
+decoder-doctor-decode-error-message = A intervenit o eroare la decodarea unei resurse media.
+decoder-doctor-decode-warning-message = A intervenit o eroare recuperabilă la decodarea unei resurse media.
+decoder-doctor-learn-how-link = Află cum
+decoder-doctor-report-issue-button =
+    .label = Raportează problemă cu site-ul
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Pluginul { $pluginName } s-a închis neașteptat.
+plugin-crashed-notification-reload-button =
+    .label = Reîncarcă pagina
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Trimite un raport de defecțiuni
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1285,6 +1355,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1551,6 +1624,13 @@ file-picker-crashed-open = Fereastra de dialog pentru fișiere Windows s-a oprit
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Fișierul va fi salvat în { $path }.
 file-picker-crashed-save-nowhere = Fereastra de dialog pentru fișiere Windows s-a oprit neașteptat. Nu s-a găsit nicio locație implicită; fișierul nu va fi salvat.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Afișează în dosar
     .accessKey = F
@@ -1603,6 +1683,9 @@ trustpanel-blocker-see-all = Afișează tot
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecții împotriva urmăririi pentru { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

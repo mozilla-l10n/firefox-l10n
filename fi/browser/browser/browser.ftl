@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Jaa…
     .accesskey = J
+
+##
+
 urlbar-identity-button =
     .aria-label = Näytä sivuston tiedot
 
@@ -751,6 +754,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsoroitu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Kysy
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1140,7 +1148,8 @@ repair-text-encoding-button =
     .label = Korjaa merkistökoodaus
     .tooltiptext = Arvaa oikea merkistökoodaus sivun sisällöstä
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1203,6 +1212,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Välilehtiryhmät
     .tooltiptext = Näytä välilehtiryhmät
+toolbar-button-history =
+    .label = Sivuhistoria
+    .tooltiptext = Näytä sivuhistoria ({ $shortcut })
+toolbar-button-find =
+    .label = Etsi
+    .tooltiptext = Etsi sivulta ({ $shortcut })
+toolbar-button-developer =
+    .label = Web-työkalut
+    .tooltiptext = Avaa web-työkalut (englanninkielisiä) ({ $shortcut })
+toolbar-button-forget =
+    .label = Unohda
+    .tooltiptext = Unohda jonkin verran selaushistoriaa
+toolbar-zoom-controls =
+    .label = Lähennyksen valitsimet
+    .title = Lähennyksen valitsimet
+toolbar-button-zoom-out =
+    .label = Loitonna
+    .tooltiptext = Loitonna ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Palauta oletuslähennystaso ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Lähennä
+    .tooltiptext = Lähennä ({ $shortcut })
+toolbar-edit-controls =
+    .label = Muokkauksen valitsimet
+    .title = Muokkauksen valitsimet
+toolbar-button-cut =
+    .label = Leikkaa
+    .tooltiptext = Leikkaa ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopioi
+    .tooltiptext = Kopioi ({ $shortcut })
+toolbar-button-paste =
+    .label = Liitä
+    .tooltiptext = Liitä ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1219,6 +1262,33 @@ eme-notifications-drm-content-playing-manage = Muokkaa asetuksia
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Hylkää
 eme-notifications-drm-content-playing-dismiss-accesskey = H
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = DRM täytyy ottaa käyttöön, jotta joitain tällä sivulla olevia ääniä tai videoita voi toistaa.
+eme-notifications-drm-content-disabled-button =
+    .label = Ota DRM-tuki käyttöön
+    .accesskey = O
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } asentaa komponentteja, joita tarvitaan toistamaan sivun äänitteitä tai videoita. Yritä myöhemmin uudestaan.
+decoder-doctor-no-codecs-linux-message = Vaaditut videokoodekit tarvitsee ehkä asentaa, jotta voit toistaa videon.
+decoder-doctor-no-hw-acceleration-message = Microsoftin Mediaominaisuuspaketti tarvitsee ehkä asentaa videon laadun parantamiseksi.
+decoder-doctor-no-pulse-audio-message = PulseAudio-ohjelmisto tarvitsee ehkä asentaa, jotta voit toistaa ääntä.
+decoder-doctor-unsupported-libavcodec-message = libavcodec voi olla haavoittuvainen tai ehkä sitä ei tueta, ja se pitäisi päivittää, jotta voit katsoa videoita.
+decoder-doctor-decode-error-message = Tapahtui virhe purettaessa mediaresurssia.
+decoder-doctor-decode-warning-message = Tapahtui toivuttavissa oleva virhe purettaessa mediaresurssia.
+decoder-doctor-learn-how-link = Lue miten
+decoder-doctor-report-issue-button =
+    .label = Ilmoita sivuston ongelmasta
+    .accesskey = I
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Liitännäinen { $pluginName } kaatui.
+plugin-crashed-notification-reload-button =
+    .label = Lataa sivu uudestaan
+    .accesskey = L
+plugin-crashed-notification-submit-button =
+    .label = Lähetä kaatumisilmoitus
+    .accesskey = k
 
 ## Password save/update panel
 
@@ -1270,6 +1340,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1523,6 +1596,13 @@ file-picker-crashed-open = Windowsin tiedostovalintaikkuna on kaatunut. Tiedosto
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windowsin tiedostovalintaikkuna on kaatunut. Tiedosto tallennetaan sijaintiin { $path }.
 file-picker-crashed-save-nowhere = Windowsin tiedostovalintaikkuna on kaatunut. Oletuskansiota ei löytynyt; tiedostoa ei tallenneta.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Näytä kansiossa
     .accessKey = K
@@ -1575,6 +1655,9 @@ trustpanel-blocker-see-all = Näytä kaikki
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Seurantasuojaukset sivustolle { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

@@ -20,6 +20,9 @@ browser-main-private-window-title =
 # This is only used on macOS; on other OSes we use the full private window
 # title (so including the brand name) as a suffix
 browser-main-private-suffix-for-content = Navegación privada
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver a información do sitio
 
@@ -473,6 +476,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar a protección compartida para esta sesión
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -635,6 +641,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -719,6 +730,9 @@ urlbar-result-action-switch-to-tabgroup = Cambiar a { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Abrir { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -870,7 +884,8 @@ repair-text-encoding-button =
     .label = Reparar codificación do texto
     .tooltiptext = Adiviñar a codificación correcta do texto a partir do contido da páxina
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -908,6 +923,44 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nova xanela privada
     .tooltiptext = Abrir unha nova xanela de navegación privada ({ $shortcut })
+toolbar-button-history =
+    .label = Historial
+    .tooltiptext = Amosar o historial ({ $shortcut })
+toolbar-button-find =
+    .label = Atopar
+    .tooltiptext = Atopar nesta páxina ({ $shortcut })
+toolbar-button-developer =
+    .label = Desenvolvedor
+    .tooltiptext = Abrir as ferramentas de desenvolvemento web ({ $shortcut })
+toolbar-button-forget =
+    .label = Esquecer
+    .tooltiptext = Esquecer parte do historial de navegación
+toolbar-zoom-controls =
+    .label = Controis do zoom
+    .title = Controis do zoom
+toolbar-button-zoom-out =
+    .label = Reducir
+    .tooltiptext = Reducir ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Restabelecer nivel de zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Ampliar
+    .tooltiptext = Ampliar ({ $shortcut })
+toolbar-edit-controls =
+    .label = Controis de edición
+    .title = Controis de edición
+toolbar-button-cut =
+    .label = Cortar
+    .tooltiptext = Cortar ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiar
+    .tooltiptext = Copiar ({ $shortcut })
+toolbar-button-paste =
+    .label = Pegar
+    .tooltiptext = Pegar ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -916,6 +969,33 @@ eme-notifications-drm-content-playing-manage = Xestionar configuración
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Rexeitar
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Debe activar o DRM para reproducir algún son ou vídeo nesta páxina.
+eme-notifications-drm-content-disabled-button =
+    .label = Activar DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando compoñentes necesarios para reproducir o son ou vídeo nesta páxina. Tente de novo máis tarde.
+decoder-doctor-no-codecs-linux-message = Para reproducir o vídeo, precisa instalar os códecs de vídeo necesarios.
+decoder-doctor-no-hw-acceleration-message = Para mellorar a calidade do vídeo, precisa instalar Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Para reproducir o son, precisa instalar o software necesario de PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = A biblioteca libavcodec podería ser vulnerábel ou non compatíbel, e debería actualizarse para reproducir vídeos.
+decoder-doctor-decode-error-message = Produciuse un erro ao descodificar un recurso multimedia.
+decoder-doctor-decode-warning-message = Produciuse un erro recuperable ao descodificar un recurso multimedia.
+decoder-doctor-learn-how-link = Aprender como
+decoder-doctor-report-issue-button =
+    .label = Informar dun fallo no sitio
+    .accesskey = I
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Fallou o engadido { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Recargar a páxina
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Enviar un informe de falla
+    .accesskey = E
 
 ## Password save/update panel
 
@@ -931,6 +1011,10 @@ menu-share-more =
     .label = Máis...
 ui-tour-info-panel-close =
     .tooltiptext = Pechar
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -949,6 +1033,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -996,6 +1083,13 @@ restore-session-startup-suggestion-button = Móstreme como.
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = A túa organización bloqueou o acceso aos ficheiros locais deste ordenador
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1060,6 +1154,10 @@ reset-pbm-panel-cancel-button =
     .label = Cancelar
     .accesskey = C
 reset-pbm-panel-complete = Elimináronse os datos da sesión privada
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1132,6 +1230,13 @@ file-picker-crashed-open = O diálogo de ficheiros de Windows fallou. Non se pui
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = O diálogo de ficheiros de Windows fallou. O ficheiro gardarase en { $path }.
 file-picker-crashed-save-nowhere = O diálogo de ficheiros de Windows fallou. Non se puido atopar ningún cartafol predeterminado; o ficheiro non se gardará.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostrar no cartafol
     .accessKey = C
@@ -1181,6 +1286,9 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Proteccións de rastrexo para { $host }
+
+## The urlbar trust icon & panel
+
 
 ## Variables
 ##  $count (String): the number of trackers blocked.
@@ -1265,3 +1373,6 @@ trustpanel-cryptominer-not-blocking-tab-header =
        *[other] { -brand-product-name } permitiu { $count } criptomineiros
     }
 trustpanel-cryptominer-tab-list-header = Estes sitios están tentando criptominar:
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = 공유…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = 사이트 정보 보기
 
@@ -747,6 +750,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · 스폰서
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 묻기
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1112,7 +1120,8 @@ repair-text-encoding-button =
     .label = 텍스트 인코딩 복구
     .tooltiptext = 페이지 콘텐츠에서 올바른 텍스트 인코딩 추측
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1175,6 +1184,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = 탭 그룹
     .tooltiptext = 탭 그룹 표시
+toolbar-button-history =
+    .label = 기록
+    .tooltiptext = 기록 보기 ({ $shortcut })
+toolbar-button-find =
+    .label = 찾기
+    .tooltiptext = 이 페이지에서 찾기 ({ $shortcut })
+toolbar-button-developer =
+    .label = 개발자
+    .tooltiptext = 웹 개발자 도구 열기 ({ $shortcut })
+toolbar-button-forget =
+    .label = 삭제
+    .tooltiptext = 최근 방문 기록 삭제
+toolbar-zoom-controls =
+    .label = 확대/축소 컨트롤
+    .title = 확대/축소 컨트롤
+toolbar-button-zoom-out =
+    .label = 축소
+    .tooltiptext = 축소 ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = 확대/축소 초기화 ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = 확대
+    .tooltiptext = 확대 ({ $shortcut })
+toolbar-edit-controls =
+    .label = 편집 컨트롤
+    .title = 편집 컨트롤
+toolbar-button-cut =
+    .label = 잘라내기
+    .tooltiptext = 잘라내기 ({ $shortcut })
+toolbar-button-copy =
+    .label = 복사
+    .tooltiptext = 복사 ({ $shortcut })
+toolbar-button-paste =
+    .label = 붙여넣기
+    .tooltiptext = 붙여넣기 ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1191,6 +1234,33 @@ eme-notifications-drm-content-playing-manage = 설정 관리
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = 닫기
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = 이 페이지에서 일부 오디오 또는 비디오를 재생하려면 DRM을 활성화해야 합니다.
+eme-notifications-drm-content-disabled-button =
+    .label = DRM 활성화
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name }가 이 페이지에서 오디오나 비디오를 재생하는 데 필요한 구성 요소를 설치하고 있습니다. 나중에 다시 시도하세요.
+decoder-doctor-no-codecs-linux-message = 동영상을 재생하기 위해 동영상 코덱을 설치해야 합니다.
+decoder-doctor-no-hw-acceleration-message = 동영상 재생 품질을 높이기 위해 Microsoft의 Media Feature Pack을 설치해야 합니다.
+decoder-doctor-no-pulse-audio-message = 소리를 재생하기 위해서는 PulseAudio 소프트웨어가 필요합니다.
+decoder-doctor-unsupported-libavcodec-message = libavcodec은 취약하거나 지원되지 않을 수 있으므로 동영상을 재생하기 위해서 업데이트되어야 합니다.
+decoder-doctor-decode-error-message = 미디어 리소스를 디코딩하는 동안 오류가 발생했습니다.
+decoder-doctor-decode-warning-message = 미디어 리소스를 디코딩하는 동안 복구 가능한 오류가 발생했습니다.
+decoder-doctor-learn-how-link = 방법 알아보기
+decoder-doctor-report-issue-button =
+    .label = 이 사이트 문제 보고하기
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } 플러그인이 충돌했습니다.
+plugin-crashed-notification-reload-button =
+    .label = 페이지 새로 고침
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = 충돌 보고서 제출
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1238,6 +1308,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1488,6 +1561,13 @@ file-picker-crashed-open = Windows 파일 대화 상자가 충돌했습니다. �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 파일 대화 상자가 충돌했습니다. 파일은 { $path }에 저장됩니다.
 file-picker-crashed-save-nowhere = Windows 파일 대화 상자가 충돌했습니다. 기본 폴더를 찾을 수 없습니다. 파일은 저장되지 않습니다.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = 폴더에서 보기
     .accessKey = F
@@ -1540,6 +1620,9 @@ trustpanel-blocker-see-all = 모두 보기
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host }에 대한 추적 방지
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

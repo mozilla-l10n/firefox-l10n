@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Dostosuj pasek Touch Bar…
 customize-mode-downloads-button-autohide =
     .label = Ukrywaj przycisk, kiedy lista jest pusta
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Swobodny odstęp
+customize-mode-toolbarseparator =
+    .title = Separator
+customize-mode-toolbarspacer =
+    .title = Odstęp

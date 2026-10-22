@@ -24,6 +24,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Stiùirich roghainnean phriob-uinneagan is ath-stiùireadh le treas-phàrtaidhean…
     .accesskey = S
+
+##
+
 urlbar-identity-button =
     .aria-label = Seall fiosrachadh na làraich-lìn
 
@@ -492,6 +495,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Cuir dìon a’ cho-roinnidh à comas rè an t-seisein seo
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -665,6 +671,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Sponsairichte
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Faighnich
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -803,6 +814,9 @@ urlbar-result-action-switch-to-tabgroup = Leum gu { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Fosgail { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -954,7 +968,8 @@ repair-text-encoding-button =
     .label = Càraich còdachadh an teacsa
     .tooltiptext = Dèan tuairmse air còdachadh ceart an teacsa o shusbaint na duilleige
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1011,6 +1026,40 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Co-roinn
     .tooltiptext = Co-roinn an duilleag seo
+toolbar-button-history =
+    .label = Eachdraidh
+    .tooltiptext = Seall an eachdraidh agad ({ $shortcut })
+toolbar-button-find =
+    .label = Lorg
+    .tooltiptext = Lorg air an duilleag seo ({ $shortcut })
+toolbar-button-developer =
+    .label = Leasaichear
+    .tooltiptext = Fosgail innealan luchd-leasachaidh ({ $shortcut })
+toolbar-button-forget =
+    .label = Dìochuimhnich
+    .tooltiptext = Dìochuimhnich cuid dhen eachdraidh bhrabhsaidh
+toolbar-zoom-controls =
+    .label = Innealan-smachd an t-sùim
+    .title = Innealan-smachd an t-sùim
+toolbar-button-zoom-out =
+    .label = Sùm a-mach
+    .tooltiptext = Sùm a-mach ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Ath-shuidhich ìre an t-sùim ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Sùm a-steach
+    .tooltiptext = Sùm a-steach ({ $shortcut })
+toolbar-edit-controls =
+    .label = Deasaich na h-uidheaman-smachd
+    .title = Deasaich na h-uidheaman-smachd
+toolbar-button-cut =
+    .label = Gearr às
+    .tooltiptext = Gearr ({ $shortcut })
+toolbar-button-copy =
+    .label = Dèan lethbhreac
+    .tooltiptext = Dèan lethbhreac ({ $shortcut })
+toolbar-button-paste =
+    .label = Cuir ann
+    .tooltiptext = Cuir ann ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1024,6 +1073,33 @@ eme-notifications-drm-content-playing-manage = Stiùirich na roghainnean
 eme-notifications-drm-content-playing-manage-accesskey = S
 eme-notifications-drm-content-playing-dismiss = Leig seachad
 eme-notifications-drm-content-playing-dismiss-accesskey = d
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Feumaidh tu DRM a chur an comas gus cuid dhen fhuaim no video air an duilleag seo a chluich.
+eme-notifications-drm-content-disabled-button =
+    .label = Cuir DRE an comas
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = Tha { -brand-short-name } a' stàladh co-phàirtean air a bheil feum gus an fhuaim no video air an duilleag seo a chluich. Feuch ris a-rithist an ceann greis.
+decoder-doctor-no-codecs-linux-message = Feumaidh tu na video codecs air a bheil feum a stàladh mus urrainn dhut video a chluich.
+decoder-doctor-no-hw-acceleration-message = Feumaidh tu am Media Feature Pack aig Microsoft a stàladh airson piseach a chur air a’ video.
+decoder-doctor-no-pulse-audio-message = Feumaidh tu am bathar-bog PulseAudio air a bheil feum a stàladh mus urrainn dhut fuaim a chluich.
+decoder-doctor-unsupported-libavcodec-message = Dh’fhaoidte gum bi libavcodec so-mhillidh no nach eil taic ris agus gu bheil feum air ùrachadh mus urrainn dhut video a chluich.
+decoder-doctor-decode-error-message = Thachair mearachd rè dì-chòdachadh goireas a’ mheadhain.
+decoder-doctor-decode-warning-message = Thachair mearachd rè dì-chòdachadh goireas a’ mheadhain ach is urrainn dhuinn aiseag a dhèanamh.
+decoder-doctor-learn-how-link = Barrachd fiosrachaidh
+decoder-doctor-report-issue-button =
+    .label = Dèan aithris air duilgheadas leis an làrach
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Thuislich am plugan { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Ath-luchdaich an duilleag
+    .accesskey = t
+plugin-crashed-notification-submit-button =
+    .label = Cuir a-steach aithisg tuislidh
+    .accesskey = s
 
 ## Password save/update panel
 
@@ -1064,6 +1140,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1111,6 +1190,13 @@ restore-session-startup-suggestion-button = Seall dhomh mar a nì mi seo
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Bhac am buidheann agad cothrom air faidhlichean ionadail air a’ choimpiutair seo
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1175,6 +1261,10 @@ reset-pbm-panel-cancel-button =
     .label = Sguir dheth
     .accesskey = S
 reset-pbm-panel-complete = Chaidh dàta an t-seisein phrìobhaidich a sguabadh às
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1280,6 +1370,13 @@ file-picker-crashed-open = Thuislich  còmhradh faidhle Windows. Cha b’ urrain
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Thuislich còmhradh faidhle Windows. Thèid am faidhle a shàbhaladh an-seo: { $path }.
 file-picker-crashed-save-nowhere = Thuislich còmhradh faidhle Windows. Cha d’fhuair sinn lorg air pasgan bunaiteach; cha tèid am faidhle a shàbhaladh.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Seall sa phasgan
     .accessKey = S
@@ -1332,6 +1429,9 @@ trustpanel-blocker-see-all = Seall na h-uile
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Dìon o thracadh airson { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
@@ -1455,3 +1555,6 @@ trustpanel-blocker-section-header2 =
         [few] Chaidh <span data-l10n-name="count">{ $count }</span> tracaichean a bhacadh air an làrach seo
        *[other] Chaidh <span data-l10n-name="count">{ $count }</span> tracaiche a bhacadh air an làrach seo
     }
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

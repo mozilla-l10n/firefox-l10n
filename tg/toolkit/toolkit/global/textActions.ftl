@@ -66,6 +66,29 @@ text-action-spell-dictionaries =
     .accesskey = З
 text-action-search-text-box-clear =
     .title = Пок кардан
+text-action-highlight-selection-2 =
+    .label = Ҷудокунии интихоб
+    .accesskey = Ҷ
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = Илова кардани шарҳ ба қисми интихобшуда
+    .accesskey = И
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Нусха бардоштани пайванд ба ҷудокунӣ
+    .accesskey = Н
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = Нусха бардоштани пайванди тоза ба ҷудокунӣ
+    .accesskey = Н
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = Тоза кардани ҷудокунӣ
+    .accesskey = Т
 text-action-highlight-selection =
     .label = Ҷудокунии интихоб
 # This adds a comment to selected text within the PDF viewer.

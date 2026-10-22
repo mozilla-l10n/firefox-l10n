@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Сенсорлық панельді баптау…
 customize-mode-downloads-button-autohide =
     .label = Бос болған кезде батырманы жасыру
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Өзгертілетін аралық
+customize-mode-toolbarseparator =
+    .title = Ажыратқыш
+customize-mode-toolbarspacer =
+    .title = Аралық

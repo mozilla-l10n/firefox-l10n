@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Kohanda puuteriba…
 customize-mode-downloads-button-autohide =
     .label = Allalaadimiste puudumisel nupp peidetakse
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Liikuv tühimik
+customize-mode-toolbarseparator =
+    .title = Eraldaja
+customize-mode-toolbarspacer =
+    .title = Tühimik

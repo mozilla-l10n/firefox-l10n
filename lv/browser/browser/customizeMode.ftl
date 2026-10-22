@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Pielāgot skārienjoslu…
 customize-mode-downloads-button-autohide =
     .label = Paslēpt pogu, kad tukša
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Elastīga atstarpe
+customize-mode-toolbarseparator =
+    .title = Atdalītājs
+customize-mode-toolbarspacer =
+    .title = Atstarpe

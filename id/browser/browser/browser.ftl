@@ -35,6 +35,9 @@ urlbar-identity-button2 =
             [1] Lihat informasi situs (1 pelacak diblokir)
            *[other] Lihat informasi situs ({ $count } pelacak diblokir)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Tampilkan informasi situs
 
@@ -716,6 +719,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Tanya
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1075,7 +1083,8 @@ repair-text-encoding-button =
     .label = Memperbaiki pengodean teks
     .tooltiptext = Menebak pengkodean teks yang benar dari isi halaman
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1129,6 +1138,44 @@ toolbar-button-new-private-window =
 toolbar-button-share-tab =
     .label = Bagikan
     .tooltiptext = Bagikan laman Ini
+toolbar-button-history =
+    .label = Riwayat
+    .tooltiptext = Tampilkan riwayat Anda({ $shortcut })
+toolbar-button-find =
+    .label = Temukan
+    .tooltiptext = Temukan di laman ini ({ $shortcut })
+toolbar-button-developer =
+    .label = Pengembang
+    .tooltiptext = Buka Alat pengembang web ({ $shortcut })
+toolbar-button-forget =
+    .label = Lupakan
+    .tooltiptext = Lupakan semua atau beberapa riwayat penjelajahan
+toolbar-zoom-controls =
+    .label = Kendali Perbesaran
+    .title = Kendali perbesaran
+toolbar-button-zoom-out =
+    .label = Perkecil
+    .tooltiptext = Perkecil ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Setel ulang tingkat perbesaran ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Perbesar
+    .tooltiptext = Perbesar ({ $shortcut })
+toolbar-edit-controls =
+    .label = Edit Kontrol
+    .title = Edit kontrol
+toolbar-button-cut =
+    .label = Potong
+    .tooltiptext = Potong ({ $shortcut })
+toolbar-button-copy =
+    .label = Salin
+    .tooltiptext = Salin ({ $shortcut })
+toolbar-button-paste =
+    .label = Tempel
+    .tooltiptext = Tempel ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -1137,6 +1184,33 @@ eme-notifications-drm-content-playing-manage = Kelola Pengaturan
 eme-notifications-drm-content-playing-manage-accesskey = K
 eme-notifications-drm-content-playing-dismiss = Tutup
 eme-notifications-drm-content-playing-dismiss-accesskey = T
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Anda harus mengaktifkan DRM untuk memainkan suara atau video pada laman ini.
+eme-notifications-drm-content-disabled-button =
+    .label = Aktifkan DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } sedang memasang komponen yang dibutuhkan untuk memutar audio atau video pada laman ini. Coba lagi nanti.
+decoder-doctor-no-codecs-linux-message = Untuk memutar video, Anda mungkin harus menginstal kodek video yang dibutuhkan.
+decoder-doctor-no-hw-acceleration-message = Untuk meningkatkan kualitas video, Anda mungkin harus menginstal Media Feature Pack dari Microsoft.
+decoder-doctor-no-pulse-audio-message = Untuk memutar audio, Anda mungkin harus menginstal perangkat lunak PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec mungkin rentan atau tidak didukung, dan harus diperbarui untuk memutar video.
+decoder-doctor-decode-error-message = Masalah terjadi ketika mendekode sumber daya media.
+decoder-doctor-decode-warning-message = Masalah yang bisa diperbaiki terjadi ketika mendekode sumber daya media.
+decoder-doctor-learn-how-link = Pelajari caranya
+decoder-doctor-report-issue-button =
+    .label = Laporkan Masalah Situs
+    .accesskey = L
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Plugin { $pluginName } berhenti bekerja tiba-tiba.
+plugin-crashed-notification-reload-button =
+    .label = Muat ulang laman
+    .accesskey = M
+plugin-crashed-notification-submit-button =
+    .label = Kirim laporan mogok
+    .accesskey = K
 
 ## Password save/update panel
 
@@ -1177,6 +1251,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = i
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1298,6 +1375,10 @@ reset-pbm-panel-cancel-button =
     .accesskey = B
 reset-pbm-panel-complete = Data sesi pribadi dihapus
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } telah mencegah laman ini untuk otomatis dimuat ulang.
@@ -1381,6 +1462,13 @@ file-picker-crashed-open = Dialog berkas Windows mogok. Tidak ada berkas atau fo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialog berkas Windows mogok. Berkas akan disimpan ke { $path }.
 file-picker-crashed-save-nowhere = Dialog berkas Windows mogok. Tidak ada folder baku yang dapat ditemukan; berkas tidak akan disimpan.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Tampilkan di Folder
     .accessKey = F
@@ -1433,6 +1521,9 @@ trustpanel-blocker-see-all = Lihat Semua
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Perlindungan pelacakan untuk { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

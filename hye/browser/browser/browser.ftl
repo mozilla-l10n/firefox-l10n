@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկութիւնը
 
@@ -111,6 +114,9 @@ clear-search-history =
     .label = Մաքրել որոնման պատմութիւնը
     .accesskey = H
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -168,6 +174,11 @@ search-one-offs-tabs =
     .tooltiptext = Ներդիներներ ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Պատմութիւն ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -295,6 +306,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Անջատել համաւգտագործման պաշտպանութիւնը այս աշխատաշրջանի ընթացքում
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -396,6 +410,18 @@ urlbar-result-action-tabtosearch-other-engine = Փնտրել { $engine }֊ում
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Պատճէնել
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Էջանիշեր
@@ -414,6 +440,9 @@ urlbar-searchmode-popup-add-engine = Աւելացնել « { $engineName } »-ը
 urlbar-result-action-search-bookmarks = Փնտրել էջանիշներում
 urlbar-result-action-search-history = Փնտրել Պատմութեան գրանցումներում
 urlbar-result-action-search-tabs = Փնտրել ներդիրներում
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -436,6 +465,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Փակել ընթերցողի դիտակէտը
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -523,7 +557,8 @@ repair-text-encoding-button =
     .label = Փոխել այղագրումը
     .tooltiptext = Պարզէք ճիշտ այղագրումը էջի բովանդակութեան բաժնում
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -558,6 +593,44 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Սկսել գաղտնի դիտարկում
     .tooltiptext = Բացել գաղտնի դիտարկման նոր պատուհան ({ $shortcut })
+toolbar-button-history =
+    .label = Պատմութիւն
+    .tooltiptext = Ցուցադրել Ձեր պատմութիւնը ({ $shortcut })
+toolbar-button-find =
+    .label = Գտնել
+    .tooltiptext = Գտնել այս էջում ({ $shortcut })
+toolbar-button-developer =
+    .label = Մշակող
+    .tooltiptext = Բացել մշակողի գործիքները ({ $shortcut })
+toolbar-button-forget =
+    .label = Մոռանալ
+    .tooltiptext = Մոռացեք զննարկման ինչ֊որ պատմութիւն
+toolbar-zoom-controls =
+    .label = Խոշորացման կառավարներ
+    .title = Խոշորացման կառավարներ
+toolbar-button-zoom-out =
+    .label = Փոքրացնել
+    .tooltiptext = Փոքրացնել ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Վերակայել խոշորացման մակարդակը ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Խոշորացնել
+    .tooltiptext = Խոշորացնել ({ $shortcut })
+toolbar-edit-controls =
+    .label = Խմբագրել կառավարները
+    .title = Խմբագրել կառավարները
+toolbar-button-cut =
+    .label = Կտրել
+    .tooltiptext = Կտրել ({ $shortcut })
+toolbar-button-copy =
+    .label = Պատճէնել
+    .tooltiptext = Պատճէնել ({ $shortcut })
+toolbar-button-paste =
+    .label = Փակցնել
+    .tooltiptext = Փակցնել ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -566,6 +639,33 @@ eme-notifications-drm-content-playing-manage = Կառավարել կարգաւո
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Հեռացնել
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Հարկաւոր է միացնել DRM-ը՝ էջում ձայնանիւթ կամ տեսանիւթ միացնելու համար:
+eme-notifications-drm-content-disabled-button =
+    .label = Միացնել DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name }-ը տեղադրում է թարմացումներ, որոնք պէտք են այս էջի ձայնանիւթը եւ տեսանիւթը նուագարկելու համար։ Փորձէք աւելի ուշ։
+decoder-doctor-no-codecs-linux-message = Տեսանիւթը նուագարկելու համար պէտք է տեղադրէք պահանջուող տեսակոդեկները։
+decoder-doctor-no-hw-acceleration-message = Տեսանիւթի որակը բարելաւել համար դուք պէտք է տեղադրէք Microsoft-ի Media Feature Pack-ը։
+decoder-doctor-no-pulse-audio-message = Ձայնագրութիւնը նուագարկելու համար անհրաժեշտ կլինի տեղադրել պահանջուող PulseAudio ծրագրակազմը․
+decoder-doctor-unsupported-libavcodec-message = libavcodec-ը կարող է խոցելի կամ չաջակցուած լինել եւ պէտք է թարմացուի, որ նուագարկուի տեսանիւթը։
+decoder-doctor-decode-error-message = Սխալ՝ մեդիայի պաշարը ապակոդաւորելիս։
+decoder-doctor-decode-warning-message = սխալը ուղղելու համար՝ մեդիայի պաշարը ապակոդաւորեք։
+decoder-doctor-learn-how-link = Սովորել, թէ ինչպէս
+decoder-doctor-report-issue-button =
+    .label = Զեկուցել կայքի խնդրի մասին
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } բաղադրիչը վնասուեց։
+plugin-crashed-notification-reload-button =
+    .label = Կրկին բեռնել էջը
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Տեղեկացնել վթարի մասին
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -581,6 +681,10 @@ menu-share-more =
     .label = Աւելին…
 ui-tour-info-panel-close =
     .tooltiptext = Փակել
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -599,6 +703,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = ձ
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -631,11 +738,24 @@ tabs-toolbar-list-all-tabs =
     .label = Ցուցադրել բոլոր էջերը
     .tooltiptext = Ցուցադրել բոլոր էջերը
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong> Բացե՞լ նախորդ ներդիրները </strong> Կարող էք վերագործարկել նախկին աշխատաշրջանը { -brand-short-name } ծրագրային ցանկից <img data-l10n-name="icon"/> , Պատմութիւն բաժնի ներքեւում:
 restore-session-startup-suggestion-button = Ցոյց տալ, թե ինչպէս
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -644,6 +764,28 @@ data-reporting-notification-button =
     .label = Ընտրեք այն ինչ ես կիսում եմ
     .accesskey = C
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }-ը կասեցրեց այս էջը ինքնաբերաբար վերբեռնումից։
@@ -651,6 +793,9 @@ refresh-blocked-redirect-label = { -brand-short-name }-ը կասեցրեց այ�
 refresh-blocked-allow =
     .label = Թոյլատրել
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -686,3 +831,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Ցուցադրել '{ $popupURI }'-ը
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

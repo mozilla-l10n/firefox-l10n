@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = স্পৰ্শ দণ্ডিকা অনুকূলিত কৰক…
 customize-mode-downloads-button-autohide =
     .label = খালী থাকিলে বুটাম লুকুৱাব
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = নমনীয় খালী ঠাই
+customize-mode-toolbarseparator =
+    .title = বিভাজক
+customize-mode-toolbarspacer =
+    .title = খালী ঠাই

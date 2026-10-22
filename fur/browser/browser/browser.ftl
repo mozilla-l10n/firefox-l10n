@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gjestìs impostazions di barcons a comparse e di indreçaments di tiercis bandis…
     .accesskey = G
+
+##
+
 urlbar-identity-button =
     .aria-label = Visualize informazions sul sît
 
@@ -694,6 +697,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorizât
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Domande
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1046,7 +1054,8 @@ repair-text-encoding-button =
     .label = Comede la codifiche dal test
     .tooltiptext = Partint dal contignût de pagjine, induvine la juste codifiche dal test
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1109,6 +1118,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grups di schedis
     .tooltiptext = Mostre i tiei grups di schedis
+toolbar-button-history =
+    .label = Cronologjie
+    .tooltiptext = Mostre la storie ({ $shortcut })
+toolbar-button-find =
+    .label = Cjate
+    .tooltiptext = Cjate cheste pagjine ({ $shortcut })
+toolbar-button-developer =
+    .label = Disvilupadôr
+    .tooltiptext = Vierç i struments di disvilup web ({ $shortcut })
+toolbar-button-forget =
+    .label = Dismentê
+    .tooltiptext = Dismentee alc de cronologjie di navigazion
+toolbar-zoom-controls =
+    .label = Controi dal ingrandiment
+    .title = Controi dal ingrandiment
+toolbar-button-zoom-out =
+    .label = Fâs piçul
+    .tooltiptext = Slargje ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Ristabilìs il livel di ingrandiment ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Slargje
+    .tooltiptext = Slargje ({ $shortcut })
+toolbar-edit-controls =
+    .label = Cambie i controi
+    .title = Cambie i controi
+toolbar-button-cut =
+    .label = Taie
+    .tooltiptext = Tae ({ $shortcut })
+toolbar-button-copy =
+    .label = Copie
+    .tooltiptext = Copie ({ $shortcut })
+toolbar-button-paste =
+    .label = Tache
+    .tooltiptext = Tache ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1125,6 +1168,33 @@ eme-notifications-drm-content-playing-manage = Gjestìs impostazions
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Scarte
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Tu scugnis abilitâ il DRM par riprodusi cualchi contignût audio o video su cheste pagjine.
+eme-notifications-drm-content-disabled-button =
+    .label = Abilite DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } al sta instalant components necessaris par riprodusi il contignût audio o video su cheste pagjine. Torne prove plui indenant.
+decoder-doctor-no-codecs-linux-message = Par riprodusi il video tu podaressis vê di instalâ i codecs video necessaris.
+decoder-doctor-no-hw-acceleration-message = Par miorâ la cualitât video tu podaressis vê di instalâ il pachet di funzionalitâts multimediâls di Microsoft.
+decoder-doctor-no-pulse-audio-message = Par riprodusi l'audio tu podaressis vê di instalâ il software PulseAudio necessari.
+decoder-doctor-unsupported-libavcodec-message = libavcodec al podarès jessi vulnerabil o nol è supuartât e, par riprodusi il video, tu varessis di inzornâlu.
+decoder-doctor-decode-error-message = Al è capitât un erôr intant che si decodificave une risorse multimediâl.
+decoder-doctor-decode-warning-message = Al è capitât un erôr recuperabil intant che si decodificave une risorse multimediâl.
+decoder-doctor-learn-how-link = Impare cemût
+decoder-doctor-report-issue-button =
+    .label = Segnale probleme cul sît
+    .accesskey = S
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Il plugin { $pluginName } al è colassât.
+plugin-crashed-notification-reload-button =
+    .label = Torne cjame la pagjine
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Mande une segnalazion di colàs
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1177,6 +1247,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1223,6 +1296,13 @@ restore-session-startup-suggestion-button = Mostrimi cemût
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = La tô organizazion e à blocât l’acès ai files locâi di chest computer
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1295,6 +1375,10 @@ reset-pbm-panel-complete = Dâts de session privade eliminâts
 reset-pbm-toolbar-button2 =
     .label = Nete session privade
     .tooltiptext = Nete la session privade
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1388,6 +1472,13 @@ file-picker-crashed-open = Il dialic di Windows pe selezion dai files al è cola
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Il dialic di Windows pe selezion dai files al è colassât. Il file al vignarà salvât come { $path }.
 file-picker-crashed-save-nowhere = Il dialic di Windows pe selezion dai files al è colassât. No je stade cjatade nissune cartele predefinide e il file nol vignarà salvât.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostre te cartele
     .accessKey = F
@@ -1440,6 +1531,9 @@ trustpanel-blocker-see-all = Viôt ducj
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protezions da lis spiis par { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

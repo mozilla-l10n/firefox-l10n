@@ -27,3 +27,12 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = Normal
 customize-mode-undo-cmd =
     .label = Keri Yap
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Mayışqaq Boşluq
+customize-mode-toolbarseparator =
+    .title = Ayırğıç
+customize-mode-toolbarspacer =
+    .title = Boşluq

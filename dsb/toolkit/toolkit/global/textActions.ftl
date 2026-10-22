@@ -66,6 +66,29 @@ text-action-spell-dictionaries =
     .accesskey = R
 text-action-search-text-box-clear =
     .title = Wuprozniś
+text-action-highlight-selection-2 =
+    .label = Wuběrk wuzwignuś
+    .accesskey = W
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = Wuběrkoju komentar pśidaś
+    .accesskey = W
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Wótkaz do wuzwignjenja kopěrowaś
+    .accesskey = W
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = Cysty wótkaz do wuzwignjenja kopěrowaś
+    .accesskey = C
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = Wuzwignjenje wótpóraś
+    .accesskey = W
 text-action-highlight-selection =
     .label = Wuběrk wuzwignuś
 # This adds a comment to selected text within the PDF viewer.

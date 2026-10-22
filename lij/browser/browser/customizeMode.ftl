@@ -27,3 +27,12 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = Normale
 customize-mode-undo-cmd =
     .label = Anulla
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Spaçio flescibile
+customize-mode-toolbarseparator =
+    .title = Separatô
+customize-mode-toolbarspacer =
+    .title = Spaçio

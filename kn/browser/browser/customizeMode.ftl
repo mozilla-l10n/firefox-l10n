@@ -26,3 +26,12 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = ಸಾಧಾರಣ
 customize-mode-undo-cmd =
     .label = ರದ್ದು ಮಾಡು
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = ಹೊಂದಬಲ್ಲಂತಹ ಜಾಗ
+customize-mode-toolbarseparator =
+    .title = ವಿಭಜಕ
+customize-mode-toolbarspacer =
+    .title = ಜಾಗ

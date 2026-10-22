@@ -24,3 +24,12 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = Gnáthdhlús
 customize-mode-undo-cmd =
     .label = Cealaigh
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Spás Solúbtha
+customize-mode-toolbarseparator =
+    .title = Deighilteoir
+customize-mode-toolbarspacer =
+    .title = Spás

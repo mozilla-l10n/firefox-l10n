@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Partager…
     .accesskey = P
+
+##
+
 urlbar-identity-button =
     .aria-label = Afficher les informations du site
 
@@ -755,6 +758,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorisé
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Demander
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1144,7 +1152,8 @@ repair-text-encoding-button =
     .label = Réparer l’encodage du texte
     .tooltiptext = Détermine l’encodage correct du texte depuis le contenu de la page
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1207,6 +1216,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Groupes d’onglets
     .tooltiptext = Afficher les groupes d’onglets
+toolbar-button-history =
+    .label = Historique
+    .tooltiptext = Afficher votre historique ({ $shortcut })
+toolbar-button-find =
+    .label = Rechercher
+    .tooltiptext = Rechercher dans la page ({ $shortcut })
+toolbar-button-developer =
+    .label = Développement
+    .tooltiptext = Outils de développement web ({ $shortcut })
+toolbar-button-forget =
+    .label = Effacer des données
+    .tooltiptext = Effacer des données de l’historique de navigation
+toolbar-zoom-controls =
+    .label = Niveau de zoom
+    .title = Niveau de zoom
+toolbar-button-zoom-out =
+    .label = Zoom arrière
+    .tooltiptext = Zoom arrière ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Réinitialiser le niveau de zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zoom avant
+    .tooltiptext = Zoom avant ({ $shortcut })
+toolbar-edit-controls =
+    .label = Contrôles d’édition
+    .title = Contrôles d’édition
+toolbar-button-cut =
+    .label = Couper
+    .tooltiptext = Couper ({ $shortcut })
+toolbar-button-copy =
+    .label = Copier
+    .tooltiptext = Copier ({ $shortcut })
+toolbar-button-paste =
+    .label = Coller
+    .tooltiptext = Coller ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1223,6 +1266,33 @@ eme-notifications-drm-content-playing-manage = Gérer les paramètres
 eme-notifications-drm-content-playing-manage-accesskey = m
 eme-notifications-drm-content-playing-dismiss = Ignorer
 eme-notifications-drm-content-playing-dismiss-accesskey = n
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Vous devez activer les DRM pour lire certains éléments audio ou vidéo sur cette page.
+eme-notifications-drm-content-disabled-button =
+    .label = Activer les DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installe des composants nécessaires à la lecture d’éléments audio ou vidéo sur cette page. Veuillez réessayer plus tard.
+decoder-doctor-no-codecs-linux-message = Pour lire la vidéo, vous devez peut-être installer les codecs vidéo nécessaires.
+decoder-doctor-no-hw-acceleration-message = Afin d’améliorer la qualité de la vidéo, vous devez peut-être installer le Media Feature Pack de Microsoft.
+decoder-doctor-no-pulse-audio-message = Pour activer l’audio, vous devez peut-être installer le logiciel PulseAudio demandé.
+decoder-doctor-unsupported-libavcodec-message = libavcodec pourrait être vulnérable ou n’est pas pris en charge, et devrait être mis à jour pour lire des vidéos.
+decoder-doctor-decode-error-message = Une erreur s’est produite lors du décodage d’une ressource multimédia.
+decoder-doctor-decode-warning-message = Une erreur corrigible s’est produite lors du décodage d’une ressource multimédia.
+decoder-doctor-learn-how-link = Me montrer comment
+decoder-doctor-report-issue-button =
+    .label = Signaler un problème sur ce site
+    .accesskey = S
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Le plugin { $pluginName } a planté.
+plugin-crashed-notification-reload-button =
+    .label = Actualiser la page
+    .accesskey = A
+plugin-crashed-notification-submit-button =
+    .label = Envoyer un rapport de plantage
+    .accesskey = r
 
 ## Password save/update panel
 
@@ -1274,6 +1344,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = G
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1528,6 +1601,13 @@ file-picker-crashed-open = La boîte de dialogue de fichiers de Windows a plant�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La boîte de dialogue de fichiers de Windows a planté. Le fichier sera enregistré à l’emplacement { $path }.
 file-picker-crashed-save-nowhere = La boîte de dialogue de fichiers de Windows a planté. Aucun dossier de sauvegarde par défaut n’a pu être trouvé, le fichier ne sera pas enregistré.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Afficher dans le dossier
     .accessKey = d
@@ -1580,6 +1660,9 @@ trustpanel-blocker-see-all = Tout afficher
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protections contre le pistage pour { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

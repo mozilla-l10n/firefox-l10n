@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Prispôsobiť touch bar…
 customize-mode-downloads-button-autohide =
     .label = Skryť, ak je zoznam prázdny
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Pružná medzera
+customize-mode-toolbarseparator =
+    .title = Oddeľovač
+customize-mode-toolbarspacer =
+    .title = Medzera

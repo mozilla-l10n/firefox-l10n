@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Personecigi la tuŝan strion…
 customize-mode-downloads-button-autohide =
     .label = Kaŝi butonon se la listo malplenas
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Adaptebla spaco
+customize-mode-toolbarseparator =
+    .title = Apartigilo
+customize-mode-toolbarspacer =
+    .title = Spaco

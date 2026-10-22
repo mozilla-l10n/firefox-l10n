@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = មើល​ព័ត៌មាន​តំបន់បណ្ដាញ
 
@@ -93,6 +96,9 @@ urlbar-menuitem-paste-and-go =
 clear-search-history =
     .label = សម្អាត​ប្រវត្តិ​ស្វែងរក
     .accesskey = ស
+
+## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -208,6 +214,12 @@ browser-import-button2 =
 
 popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។
 
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -251,11 +263,19 @@ urlbar-result-action-search-w-engine = ស្វែងរក​ជាមួយ {
 urlbar-result-action-switch-tab = ប្ដូរ​ទៅ​ផ្ទាំង
 urlbar-result-action-visit = មើល
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = កុំទាន់
+
+## These strings are used for suggestions of important dates in the urlbar.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -270,6 +290,12 @@ urlbar-result-action-search-bookmarks = ស្វែងរក​ចំណាំ
 urlbar-result-action-search-history = ស្វែងរក​ប្រវត្តិ
 urlbar-result-action-search-tabs = ស្វែងរកផ្ទាំង
 
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -278,6 +304,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = បិទ​ទិដ្ឋភាព​អ្នក​អាន​
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -364,7 +395,11 @@ bookmarks-subview-bookmark-tab =
 library-bookmarks-menu =
     .label = ចំណាំ
 
-##
+## Repair text encoding toolbar button
+
+
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 toolbar-overflow-customize-button =
     .label = ប្តូរ​របារ​ឧបករណ៍​តាម​បំណង...
@@ -393,10 +428,74 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = បង្អួច​ឯកជន​ថ្មី
     .tooltiptext = បើក​បង្អួច​ការ​រុករក​ឯកជន​ថ្មី ({ $shortcut })
+toolbar-button-history =
+    .label = ប្រវត្តិ
+    .tooltiptext = បង្ហាញ​ប្រវត្តិ​របស់​អ្នក ({ $shortcut })
+toolbar-button-find =
+    .label = រក
+    .tooltiptext = ស្វែងរក​ក្នុង​ទំព័រ​នេះ ({ $shortcut })
+toolbar-button-developer =
+    .label = អ្នក​អភិវឌ្ឍន៍
+    .tooltiptext = បើក​ឧបករណ៍​អ្នក​អភិវឌ្ឍន៍​តំបន់​បណ្ដាញ ({ $shortcut })
+toolbar-button-forget =
+    .label = ភ្លេច
+    .tooltiptext = ភ្លេច​អំពី​ប្រវត្តិ​ការ​រុករក​មួយ​ចំនួន
+toolbar-zoom-controls =
+    .label = គ្រប់គ្រង​ការ​បង្រួម/ពង្រីក
+    .title = គ្រប់គ្រង​ការ​បង្រួម/ពង្រីក
+toolbar-button-zoom-out =
+    .label = បង្រួម
+    .tooltiptext = បង្រួម ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = កំណត់​កម្រិត​ពង្រីក​ឡើង​វិញ ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = ពង្រីក
+    .tooltiptext = ពង្រីក ({ $shortcut })
+toolbar-edit-controls =
+    .label = កែសម្រួល​ការ​ត្រួតពិនិត្យ
+    .title = កែសម្រួល​ការ​ត្រួតពិនិត្យ
+toolbar-button-cut =
+    .label = កាត់
+    .tooltiptext = កាត់ ({ $shortcut })
+toolbar-button-copy =
+    .label = ​ចម្លង
+    .tooltiptext = ចម្លង ({ $shortcut })
+toolbar-button-paste =
+    .label = បិទភ្ជាប់
+    .tooltiptext = បិទភ្ជាប់ ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
 eme-notifications-drm-content-playing = វីដេអូ និង​អូឌីយ៉ូ​មួយ​ចំនួន​នៅ​លើ​វេបសាយ​នេះ​ប្រើ​កម្មវិធី DRM ដែល​អាច​ដាក់​ដែន​កំណត់​ការ​ធ្វើ​របស់​អ្នក​ជាមួយ { -brand-short-name } ។
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = បើក DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } កំពុង​ដំឡើង​សមាសភាគ​ចាំបាច់​ដើម្បី​ចាក់​អូឌីយ៉ូ ឬ​វីដេអូ​នៅ​លើ​ទំព័រ​នេះ។ សូម​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ។
+decoder-doctor-no-codecs-linux-message = ដើម្បី​លេង​វីដេអូ​បាន អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កូដិក​វីដេអូ​ដែល​បាន​ទាមទារ។
+decoder-doctor-no-hw-acceleration-message = ដើម្បី​ធ្វើឲ្យ​គុណភាព​វីដេអូ​ប្រសើរ​ឡើង អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កម្មវិធី Microsoft’s Media Feature Pack។​
+decoder-doctor-no-pulse-audio-message = ដើម្បី​ចាក់​អូឌីយ៉ូ អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កម្មវិធី PulseAudio ដែល​បាន​ទាមទារ។
+decoder-doctor-unsupported-libavcodec-message = libavcodec អាច​ខូច​ឬ​មិន​គាំទ្រ ហើយ​វា​គួរ​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព​ដើម្បី​អាច​ចាក់​វីដេអូ​បាន។
+decoder-doctor-decode-error-message = កំហុស​បាន​កើតឡើង​ពេល​ឌិកូដ​ធនធាន​មេឌា។
+decoder-doctor-decode-warning-message = កំហុស​ដែល​អាច​សង្គ្រោះ​បាន បាន​កើតឡើង​ពេល​ឌិកូដ​ធនធាន​មេឌា។
+decoder-doctor-learn-how-link = ស្វែងយល់​ពី​របៀប
+decoder-doctor-report-issue-button =
+    .label = រាយការណ៍​បញ្ហា​វេបសាយ
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = កម្មវិធី​ជំនួយ { $pluginName } បាន​គាំង ។
+plugin-crashed-notification-reload-button =
+    .label = ផ្ទុក​ទំព័រ​​ឡើងវិញ
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ដាក់​ស្នើ​របាយការណ៍​គាំង
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -410,7 +509,21 @@ panel-save-update-password-2 =
 ui-tour-info-panel-close =
     .tooltiptext = បិទ
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = ទាញ​យក
@@ -438,6 +551,22 @@ tabs-toolbar-list-all-tabs =
     .label = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
     .tooltiptext = រាយបញ្ជី​​ផ្ទាំង​ទាំងអស់
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ផ្ញើ​ទិន្នន័យ​មួយ​ចំនួន​ដោយ​ស្វ័យប្រវត្តិ​ទៅកាន់ { -vendor-short-name } ដូច្នេះ​យើង​អាច​ធ្វើឲ្យ​បទពិសោធន៍​របស់​អ្នក​ប្រសើរ​ឡើង។
@@ -445,11 +574,30 @@ data-reporting-notification-button =
     .label = ជ្រើស​អ្វី​ដែល​ខ្ញុំ​ចែករំលែក
     .accesskey = C
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
 ## Private browsing reset button
 
 reset-pbm-panel-cancel-button =
     .label = បោះបង់
     .accesskey = C
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -458,6 +606,9 @@ refresh-blocked-redirect-label = { -brand-short-name } បាន​រារា�
 refresh-blocked-allow =
     .label = អនុញ្ញាត
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -485,10 +636,33 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = បង្ហាញ '{ $popupURI }'
 
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
 ## The urlbar trust icon & panel
 
 trustpanel-clear-cookies-subview-button-cancel = បោះបង់
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
 urlbar-trust-icon-notsecure-label = មិនមានសុវត្ថិភាព
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

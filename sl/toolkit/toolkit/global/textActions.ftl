@@ -66,6 +66,29 @@ text-action-spell-dictionaries =
     .accesskey = J
 text-action-search-text-box-clear =
     .title = Počisti
+text-action-highlight-selection-2 =
+    .label = Označi izbrano besedilo
+    .accesskey = O
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = Dodaj komentar k izbiri
+    .accesskey = D
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Kopiraj povezavo do označitve
+    .accesskey = K
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = Kopiraj očiščeno povezavo do označitve
+    .accesskey = K
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = Odstrani označbo
+    .accesskey = O
 text-action-highlight-selection =
     .label = Označi izbrano besedilo
 # This adds a comment to selected text within the PDF viewer.

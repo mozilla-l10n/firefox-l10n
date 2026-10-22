@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Cyfaddasu'r Bar Cyffwrdd…
 customize-mode-downloads-button-autohide =
     .label = Cuddio'r botwm pan yn wag
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Bwlch Hyblyg
+customize-mode-toolbarseparator =
+    .title = Gwahanydd
+customize-mode-toolbarspacer =
+    .title = Bwlch

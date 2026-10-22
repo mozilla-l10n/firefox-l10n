@@ -66,6 +66,25 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Očisti
+text-action-highlight-selection-2 =
+    .label = Istakni odabir
+    .accesskey = s
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Kopiraj link do istaknutog sadržaja
+    .accesskey = K
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = Kopiraj čisti link do istaknutog sadržaja
+    .accesskey = K
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = Ukloni istaknuto
+    .accesskey = U
 text-action-highlight-selection =
     .label = Istakni odabir
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link

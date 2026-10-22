@@ -65,6 +65,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Поделиться…
     .accesskey = р
+
+##
+
 urlbar-identity-button =
     .aria-label = Просмотреть информацию о сайте
 
@@ -759,6 +762,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 urlbar-result-weather-provider-sponsored = { $provider } · На правах рекламы
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Спросить
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1154,7 +1162,8 @@ repair-text-encoding-button =
     .label = Исправить кодировку текста
     .tooltiptext = Угадать правильную кодировку текста по содержимому страницы
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1217,6 +1226,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Группы вкладок
     .tooltiptext = Показать ваши группы вкладок
+toolbar-button-history =
+    .label = Журнал
+    .tooltiptext = Показать ваш журнал ({ $shortcut })
+toolbar-button-find =
+    .label = Найти
+    .tooltiptext = Найти на этой странице ({ $shortcut })
+toolbar-button-developer =
+    .label = Разработка
+    .tooltiptext = Открыть инструменты веб-разработчика ({ $shortcut })
+toolbar-button-forget =
+    .label = Забыть
+    .tooltiptext = Забыть о части истории веб-сёрфинга
+toolbar-zoom-controls =
+    .label = Управление масштабом
+    .title = Управление масштабом
+toolbar-button-zoom-out =
+    .label = Уменьшить
+    .tooltiptext = Уменьшить ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Сбросить масштаб ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Увеличить
+    .tooltiptext = Увеличить ({ $shortcut })
+toolbar-edit-controls =
+    .label = Инструменты правки
+    .title = Инструменты правки
+toolbar-button-cut =
+    .label = Вырезать
+    .tooltiptext = Вырезать ({ $shortcut })
+toolbar-button-copy =
+    .label = Копировать
+    .tooltiptext = Копировать ({ $shortcut })
+toolbar-button-paste =
+    .label = Вставить
+    .tooltiptext = Вставить ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1233,6 +1276,33 @@ eme-notifications-drm-content-playing-manage = Управление настро
 eme-notifications-drm-content-playing-manage-accesskey = в
 eme-notifications-drm-content-playing-dismiss = Закрыть
 eme-notifications-drm-content-playing-dismiss-accesskey = к
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Для проигрывания некоторых аудио или видео на этой странице нужно включить DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = Включить DRM
+    .accesskey = В
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } устанавливает компоненты, необходимые для воспроизведения аудио или видео на этой странице. Пожалуйста, попробуйте ещё раз позже.
+decoder-doctor-no-codecs-linux-message = Для воспроизведения видео вам может потребоваться установить необходимые видеокодеки.
+decoder-doctor-no-hw-acceleration-message = Для улучшения качества видео вам может потребоваться установить Мedia Feature Pack от Microsoft.
+decoder-doctor-no-pulse-audio-message = Для воспроизведения аудио вам может потребоваться установить необходимое программное обеспечение PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec может быть уязвим или не поддерживаться и должен быть обновлён для воспроизведения видео.
+decoder-doctor-decode-error-message = При декодировании медиаресурса произошла ошибка.
+decoder-doctor-decode-warning-message = При декодировании медиаресурса произошла ошибка, которую можно исправить.
+decoder-doctor-learn-how-link = Подробнее
+decoder-doctor-report-issue-button =
+    .label = Сообщить о проблеме с сайтом
+    .accesskey = П
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Плагин { $pluginName } аварийно завершил работу.
+plugin-crashed-notification-reload-button =
+    .label = Перезагрузить страницу
+    .accesskey = П
+plugin-crashed-notification-submit-button =
+    .label = Отправить сообщение о падении
+    .accesskey = П
 
 ## Password save/update panel
 
@@ -1285,6 +1355,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = л
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1552,6 +1625,13 @@ file-picker-crashed-open = Произошло падение диалогово�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Произошло падение диалогового окна «Файл» Windows. Файл будет сохранён в { $path }.
 file-picker-crashed-save-nowhere = Произошло падение диалогового окна «Файл» Windows. Папка по умолчанию не найдена; файл не будет сохранён.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Показать в папке
     .accessKey = А
@@ -1604,6 +1684,9 @@ trustpanel-blocker-see-all = Показать все
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Защита от отслеживания на { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

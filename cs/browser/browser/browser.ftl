@@ -74,6 +74,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Sdílet…
     .accesskey = S
+
+##
+
 urlbar-identity-button =
     .aria-label = Zobrazit informace o stránce
 
@@ -824,6 +827,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorované
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Dotázat se
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1225,7 +1233,8 @@ repair-text-encoding-button =
     .label = Opravit znakovou sadu textu
     .tooltiptext = Na základě obsahu stránky odhadne správnou znakovou sadu textu
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1288,6 +1297,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Skupiny panelů
     .tooltiptext = Zobrazí vaše skupiny panelů
+toolbar-button-history =
+    .label = Historie
+    .tooltiptext = Zobrazí vaši historii ({ $shortcut })
+toolbar-button-find =
+    .label = Najít na stránce
+    .tooltiptext = Prohledá aktuální stránku ({ $shortcut })
+toolbar-button-developer =
+    .label = Nástroje pro vývojáře
+    .tooltiptext = Otevře nástroje pro webové vývojáře ({ $shortcut })
+toolbar-button-forget =
+    .label = Zapomenout
+    .tooltiptext = Zapomene část historie prohlížení
+toolbar-zoom-controls =
+    .label = Velikost stránky
+    .title = Ovládání přiblížení stránky
+toolbar-button-zoom-out =
+    .label = Zmenšit
+    .tooltiptext = Zmenší velikost stránky ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Obnoví velikost stránky ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zvětšit
+    .tooltiptext = Zvětší velikost stránky ({ $shortcut })
+toolbar-edit-controls =
+    .label = Úpravy
+    .title = Upraví ovládání
+toolbar-button-cut =
+    .label = Vyjmout
+    .tooltiptext = Vyjme výběr do schránky ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopírovat
+    .tooltiptext = Zkopíruje výběr do schránky ({ $shortcut })
+toolbar-button-paste =
+    .label = Vložit
+    .tooltiptext = Vloží obsah schránky ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1308,6 +1351,33 @@ eme-notifications-drm-content-playing-manage = Nastavení
 eme-notifications-drm-content-playing-manage-accesskey = N
 eme-notifications-drm-content-playing-dismiss = Zavřít
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Pro přehrání audia nebo videa na této stránce musíte nejdříve povolit DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = Povolit DRM
+    .accesskey = P
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } instaluje součásti potřebné pro přehrání audia nebo videa na této stránce. Zkuste to prosím znovu později.
+decoder-doctor-no-codecs-linux-message = Pro přehrávání videa může být potřeba nainstalovat video kodeky.
+decoder-doctor-no-hw-acceleration-message = Pro zlepšení kvality videa může být potřeba nainstalovat Media Feature Pack od Microsoftu.
+decoder-doctor-no-pulse-audio-message = Pro přehrávání hudby může být potřeba nainstalovat software PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = Verze knihovny libavcodec může být zranitelná nebo není podporována a pro přehrání videa je potřeba její aktualizace.
+decoder-doctor-decode-error-message = Při dekódování zdroje médií nastala chyba.
+decoder-doctor-decode-warning-message = Při dekódování zdroje médií nastala chyba, kterou lze opravit.
+decoder-doctor-learn-how-link = Zjistěte jak
+decoder-doctor-report-issue-button =
+    .label = Nahlásit problém se zobrazením stránky
+    .accesskey = r
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Zásuvný modul { $pluginName } spadl.
+plugin-crashed-notification-reload-button =
+    .label = Znovu načíst stránku
+    .accesskey = o
+plugin-crashed-notification-submit-button =
+    .label = Odeslat hlášení o pádu
+    .accesskey = d
 
 ## Password save/update panel
 
@@ -1361,6 +1431,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1696,6 +1769,13 @@ file-picker-crashed-open = Souborový dialog systému Windows spadl. Nepodařilo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Souborový dialog systému Windows spadl. Soubor bude uložen do cesty { $path }.
 file-picker-crashed-save-nowhere = Souborový dialog systému Windows spadl. Nebyla nalezena žádná výchozí složka; soubor nebude uložen.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Zobrazit ve složce
     .accessKey = Z
@@ -1752,6 +1832,9 @@ trustpanel-blocker-see-all = Zobrazit vše
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ochrana proti sledování pro { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

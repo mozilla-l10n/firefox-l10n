@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Muokkaa Touch Baria…
 customize-mode-downloads-button-autohide =
     .label = Piilota painike sen ollessa tyhjä
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Joustava tyhjä tila
+customize-mode-toolbarseparator =
+    .title = Erotin
+customize-mode-toolbarspacer =
+    .title = Tyhjä tila

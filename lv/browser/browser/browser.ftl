@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Kopīgot…
     .accesskey = K
+
+##
+
 urlbar-identity-button =
     .aria-label = Apskatīt informāciju par vietni
 
@@ -737,6 +740,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · apmaksāts
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Prasīt
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1058,7 +1066,8 @@ repair-text-encoding-button =
     .label = Labot teksta kodējumu
     .tooltiptext = Minēt pareizo teksta kodējumu, vadoties no lapas satura
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1121,6 +1130,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Ciļņu kopas
     .tooltiptext = Rādīt jūsu ciļņu kopas
+toolbar-button-history =
+    .label = Vēsture
+    .tooltiptext = Parādīt vēsturi ({ $shortcut })
+toolbar-button-find =
+    .label = Meklēt
+    .tooltiptext = Meklēt šajā lapā ({ $shortcut })
+toolbar-button-developer =
+    .label = Izstrādātāju rīki
+    .tooltiptext = Atvērt izstrādātāju rīkus ({ $shortcut })
+toolbar-button-forget =
+    .label = Aizmirst
+    .tooltiptext = Aizmirst daļu pārlūkošanas vēstures
+toolbar-zoom-controls =
+    .label = Pietuvinājuma rīki
+    .title = Pietuvinājuma rīki
+toolbar-button-zoom-out =
+    .label = Attālināt
+    .tooltiptext = Attālināt ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Atjaunot noklusēto pietuvinājumu ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Pietuvināt
+    .tooltiptext = Pietuvināt ({ $shortcut })
+toolbar-edit-controls =
+    .label = Labot vadīklas
+    .title = Labot vadīklas
+toolbar-button-cut =
+    .label = Izgriezt
+    .tooltiptext = Izgriezt ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopēt
+    .tooltiptext = Kopēt ({ $shortcut })
+toolbar-button-paste =
+    .label = Ielīmēt
+    .tooltiptext = Ielīmēt ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1137,6 +1180,33 @@ eme-notifications-drm-content-playing-manage = Pārvaldīt iestatījumus
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Noraidīt
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Jāiespējo DRM, lai šajā lapā atskaņotu kādu skaņu ierakstu vai video.
+eme-notifications-drm-content-disabled-button =
+    .label = Iespējot DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } uzstāda sastāvdaļas, kas ir nepieciešamas skaņas vai video atskaņošanai šajā lapā. Lūgums vēlāk mēģināt vēlreiz.
+decoder-doctor-no-codecs-linux-message = Lai atskaņotu video, varētu būt nepieciešams uzstādīt nepieciešamos video saspiedatspiedējus.
+decoder-doctor-no-hw-acceleration-message = Lai uzlabotu video kvalitāti, varētu būt nepieciešams uzstādīt Microsoft Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Lai atskaņotu skaņu, varētu būt nepieciešams uzstādīt nepieciešamo PulseAudio programmatūru.
+decoder-doctor-unsupported-libavcodec-message = libavcodec var būt nedrošs vai nav atbalstīts, to vajadzētu atjaunināt, lai atskaņotu video.
+decoder-doctor-decode-error-message = Atkodējot mēdiju resursu notikusi kļūda.
+decoder-doctor-decode-warning-message = Atkodējot mēdiju resursu notikusi apejama kļūda.
+decoder-doctor-learn-how-link = Uzziniet kā
+decoder-doctor-report-issue-button =
+    .label = Ziņot par problēmu ar lapu
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Spraudnis { $pluginName } ir avarējis.
+plugin-crashed-notification-reload-button =
+    .label = Pārlādēt lapu
+    .accesskey = r
+plugin-crashed-notification-submit-button =
+    .label = Nosūtīt avārijas ziņojumu
+    .accesskey = s
 
 ## Password save/update panel
 
@@ -1189,6 +1259,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1448,6 +1521,13 @@ file-picker-crashed-open = Nevarēja atvērt Windows datņu dialoglodziņu. Neva
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows datņu dialoglodziņš ir avarējis. Datne tiks saglabāta mapē { $path }.
 file-picker-crashed-save-nowhere = Nevarēja atvērt Windows datņu dialoglodziņu. Nevarēja atrast noklusējuma mapi; datne netiks saglabāta.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Rādīt mapē
     .accessKey = m
@@ -1500,6 +1580,9 @@ trustpanel-blocker-see-all = Apskatīt visu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Pretizsekošanas aizsardzība { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

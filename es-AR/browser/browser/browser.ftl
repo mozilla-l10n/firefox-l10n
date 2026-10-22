@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Compartir…
     .accesskey = t
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver información del sitio
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinado
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Preguntar
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1145,7 +1153,8 @@ repair-text-encoding-button =
     .label = Reparar codificación de texto
     .tooltiptext = Adivinar la codificación de texto correcta desde la página
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1208,6 +1217,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grupos de pestañas
     .tooltiptext = Mostrar los grupos de pestañas
+toolbar-button-history =
+    .label = Historial
+    .tooltiptext = Mostrar historial… ({ $shortcut })
+toolbar-button-find =
+    .label = Buscar
+    .tooltiptext = Buscar en esta página ({ $shortcut })
+toolbar-button-developer =
+    .label = Desarrollador
+    .tooltiptext = Abrir herramientas para desarrollador web ({ $shortcut })
+toolbar-button-forget =
+    .label = Olvidar
+    .tooltiptext = Olvidar algo del historial de navegación
+toolbar-zoom-controls =
+    .label = Controles de zoom
+    .title = Controles de zoom
+toolbar-button-zoom-out =
+    .label = Alejar
+    .tooltiptext = Alejar ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Reiniciar nivel de zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Acercar
+    .tooltiptext = Acercar ({ $shortcut })
+toolbar-edit-controls =
+    .label = Controles de edición
+    .title = Controles de edición
+toolbar-button-cut =
+    .label = Cortar
+    .tooltiptext = Cortar ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiar
+    .tooltiptext = Copiar ({ $shortcut })
+toolbar-button-paste =
+    .label = Pegar
+    .tooltiptext = Pegar ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1224,6 +1267,33 @@ eme-notifications-drm-content-playing-manage = Administrar las preferencias
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Descartar
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Tiene que habilitar DRM para reproducir audio o video en esta página.
+eme-notifications-drm-content-disabled-button =
+    .label = Habilitar DRM
+    .accesskey = H
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando componentes necesarios para reproducir audio o video en esta página. Intente más adelante.
+decoder-doctor-no-codecs-linux-message = Para reproducir video, necesita instalar los codecs de video necesarios.
+decoder-doctor-no-hw-acceleration-message = Para mejorar la calidad de video, necesita instalar Media Feature Pack de Microsoft.
+decoder-doctor-no-pulse-audio-message = Para reproducir audio, se necesita instalar el software PulseAudio requerido.
+decoder-doctor-unsupported-libavcodec-message = libavcodec puede ser vulnerable o no está soportado y debería actualizarse para reproducir video.
+decoder-doctor-decode-error-message = Hubo un error al decodificar un recurso de medios.
+decoder-doctor-decode-warning-message = Hubo un error recuperable al decodificar un recurso de medios.
+decoder-doctor-learn-how-link = Aprender como
+decoder-doctor-report-issue-button =
+    .label = Informar problema con el sitio
+    .accesskey = r
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = El plugin { $pluginName } ha fallado.
+plugin-crashed-notification-reload-button =
+    .label = Recargar la página
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Enviar un informe de problemas
+    .accesskey = E
 
 ## Password save/update panel
 
@@ -1275,6 +1345,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1532,6 +1605,13 @@ file-picker-crashed-open = El diálogo de archivo de Windows se colgó. No se pu
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = El diálogo de archivo de Windows se colgó. El archivo se guardará en { $path }.
 file-picker-crashed-save-nowhere = El diálogo de archivo de Windows se colgó. No se pudo encontrar ninguna carpeta predeterminada; el archivo no se guardará.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostrar en carpeta
     .accessKey = M
@@ -1584,6 +1664,9 @@ trustpanel-blocker-see-all = Ver todo
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protecciones de rastreo para { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

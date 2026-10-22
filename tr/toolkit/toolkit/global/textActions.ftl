@@ -66,6 +66,29 @@ text-action-spell-dictionaries =
     .accesskey = D
 text-action-search-text-box-clear =
     .title = Temizle
+text-action-highlight-selection-2 =
+    .label = Seçimi vurgula
+    .accesskey = S
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = Seçime yorum ekle
+    .accesskey = S
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Vurgu bağlantısını kopyala
+    .accesskey = V
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = Vurgunun temiz bağlantısını kopyala
+    .accesskey = V
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = Vurgulamayı kaldır
+    .accesskey = V
 text-action-highlight-selection =
     .label = Seçimi vurgula
 # This adds a comment to selected text within the PDF viewer.

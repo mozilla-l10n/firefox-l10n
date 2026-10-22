@@ -189,6 +189,16 @@ toolbar-button-save-page =
 
 ## Notification bars for media playback issues
 
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Plugin { $pluginName } têk çû.
+plugin-crashed-notification-reload-button =
+    .label = Rûpelê ji nû ve bar bike
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Rapora têkçûnê bişîne
+    .accesskey = b
+
 ## Password save/update panel
 
 
@@ -203,11 +213,9 @@ ui-tour-info-panel-close =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
 
 
 ##

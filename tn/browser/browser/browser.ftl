@@ -243,6 +243,40 @@ toolbar-button-open-file =
 toolbar-button-new-private-window =
     .label = Window e Ntšha ya Poraefete
     .tooltiptext = Bula window e ntšhwa ya Patlo e Poraefete ({ $shortcut })
+toolbar-button-history =
+    .label = Hisetori
+    .tooltiptext = Supa motlhala wa gago ({ $shortcut })
+toolbar-button-find =
+    .label = Batla
+    .tooltiptext = Batla tsebe e ({ $shortcut })
+toolbar-button-developer =
+    .label = Moagi
+    .tooltiptext = Didiriswa tsa Baagi ba Webo tse di Butsweng ({ $shortcut })
+toolbar-button-forget =
+    .label = Lebala
+    .tooltiptext = Lebala ka motlhala mongwe wa patlo
+toolbar-zoom-controls =
+    .label = Ditaolo tsa Taolabogolo
+    .title = Ditaola tsa Taolabogolo
+toolbar-button-zoom-out =
+    .label = Nyenyefatsa
+    .tooltiptext = Nyenyefatsa ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Rulaganyasešwa maemo a taolabogolo ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Godisa
+    .tooltiptext = Godisa ({ $shortcut })
+toolbar-edit-controls =
+    .label = Tselaganya Ditaolo
+    .title = Tselaganya Ditaolo
+toolbar-button-cut =
+    .label = Sega
+    .tooltiptext = Sega ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopolola
+    .tooltiptext = Kopolola ({ $shortcut })
+toolbar-button-paste =
+    .label = Manega
+    .tooltiptext = Kgomaretsa ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -253,6 +287,20 @@ toolbar-button-new-private-window =
 eme-notifications-drm-content-playing = Modumo mongwe kgotsa bidio mo saeteng e, e dirisa serweboleta sa DRM se seka lekanyetsang se o { -brand-short-name } ka kgonang go se dira ka yone.
 
 ## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = Kgontsha DRM
+    .accesskey = K
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } e tsenya dikarolwana tse di tlhokafalang go tshameka modumo kgotsa bidio mo tsebeng e. Tswêê-tswêê leka gape moragonyana.
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Se { $pluginName } gokela se paletswe.
+plugin-crashed-notification-reload-button =
+    .label = Tsenya sešwa tsebe
+    .accesskey = T
+plugin-crashed-notification-submit-button =
+    .label = Romela pegelo ya palelo
+    .accesskey = R
 
 ## Password save/update panel
 
@@ -268,11 +316,9 @@ ui-tour-info-panel-close =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
 
 
 ##

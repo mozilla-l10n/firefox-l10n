@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = 自訂觸控列…
 customize-mode-downloads-button-autohide =
     .label = 無內容時隱藏按鈕
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = 靈活空間
+customize-mode-toolbarseparator =
+    .title = 分隔線
+customize-mode-toolbarspacer =
+    .title = 空白

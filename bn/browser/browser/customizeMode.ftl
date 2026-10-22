@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = টাচ বার কাস্টোমাইজ করুন...
 customize-mode-downloads-button-autohide =
     .label = খালি হলে বোতাম লুকান
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = পরিবর্তনশীল ফাঁকাস্থান
+customize-mode-toolbarseparator =
+    .title = বিভাজক
+customize-mode-toolbarspacer =
+    .title = ফাঁকাস্থান

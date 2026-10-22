@@ -29,3 +29,12 @@ customize-mode-undo-cmd =
     .label = રદ કરો
 customize-mode-touchbar-cmd =
     .label = ટચ બારને કસ્ટમાઇઝ કરો...
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = મોકળાશભરી જગ્યા
+customize-mode-toolbarseparator =
+    .title = વિભાજક
+customize-mode-toolbarspacer =
+    .title = જગ્યા

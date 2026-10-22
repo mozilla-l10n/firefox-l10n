@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = ടച്ച് ബാർ ഇഷ്‌ടാനുസൃതമാക്കുക...
 customize-mode-downloads-button-autohide =
     .label = ഒഴിഞ്ഞതാവുമ്പോഴു് ബട്ടൺ ഒളിപ്പിക്കുക
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = ഫ്ലക്സിബിൾ സ്പേസ്
+customize-mode-toolbarseparator =
+    .title = വേര്‍തിരിവ്
+customize-mode-toolbarspacer =
+    .title = അകലം

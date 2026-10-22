@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Touch Bar’ı özelleştir…
 customize-mode-downloads-button-autohide =
     .label = Boşsa düğmeyi gizle
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Esnek boşluk
+customize-mode-toolbarseparator =
+    .title = Ayraç
+customize-mode-toolbarspacer =
+    .title = Boşluk

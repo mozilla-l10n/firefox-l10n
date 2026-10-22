@@ -197,6 +197,40 @@ toolbar-button-open-file =
 toolbar-button-new-private-window =
     .label = नवो खाजगी विंडो
     .tooltiptext = नवो खाजगी ब्रावजिंग विंडो ({ $shortcut }) उगडात
+toolbar-button-history =
+    .label = इतिहास
+    .tooltiptext = तुमचो इतिहास ({ $shortcut }) दाखयात
+toolbar-button-find =
+    .label = सोदात
+    .tooltiptext = ह्या पानान ({ $shortcut }) सोदात
+toolbar-button-developer =
+    .label = विकासक
+    .tooltiptext = वेब विकासक साधनां ({ $shortcut }) उगडात
+toolbar-button-forget =
+    .label = विसरात
+    .tooltiptext = काय ब्रावजिंग इतिहासाविशीं विसरात
+toolbar-zoom-controls =
+    .label = झूम नियंत्रणां
+    .title = झूम नियंत्रण
+toolbar-button-zoom-out =
+    .label = झूम आवट करचें
+    .tooltiptext = झूम आवट ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = झूम पातळी ({ $shortcut }) परत थारायात
+toolbar-button-zoom-in =
+    .label = झूम इन करचें
+    .tooltiptext = झूम ईन ({ $shortcut })
+toolbar-edit-controls =
+    .label = नियंत्रक संपादित करात
+    .title = नियंत्रक संपादित करात
+toolbar-button-cut =
+    .label = कापात
+    .tooltiptext = कापात ({ $shortcut })
+toolbar-button-copy =
+    .label = नकल
+    .tooltiptext = प्रत करात ({ $shortcut })
+toolbar-button-paste =
+    .label = दसयात
+    .tooltiptext = दसयात ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -207,6 +241,17 @@ toolbar-button-new-private-window =
 eme-notifications-drm-content-playing = ह्या सायटीवयलो काय ऑडियो वो व्हिडियो DRM सॉफ्टवेअर वापरता, जे { -brand-short-name } तुमका ताजेसंयत किदे करपाक दिंव शकता हाजेर मर्यादा हाडपाक शकता.
 
 ## Notification bars for media playback issues
+
+eme-notifications-drm-content-cdm-installing-message = ह्या पानार ऑडियो वो व्हिडियो चलोवपाक जाय आशिल्ले घटक { -brand-short-name } प्रतिष्ठापित करता. मात्शे मागीर यत्न करात.
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } प्लगइन क्रॅश जालां.
+plugin-crashed-notification-reload-button =
+    .label = पान परत लोड करात
+    .accesskey = प
+plugin-crashed-notification-submit-button =
+    .label = क्रॅश अहवास सादर करात
+    .accesskey = स
 
 ## Password save/update panel
 
@@ -222,11 +267,9 @@ ui-tour-info-panel-close =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
 
 
 ##

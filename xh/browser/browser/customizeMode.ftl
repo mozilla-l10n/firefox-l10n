@@ -24,3 +24,12 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = Okuqhelekileyo
 customize-mode-undo-cmd =
     .label = Lungisa okwenzileyo
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Isithuba esiGobekayo
+customize-mode-toolbarseparator =
+    .title = Isahlukanisi
+customize-mode-toolbarspacer =
+    .title = Isithuba

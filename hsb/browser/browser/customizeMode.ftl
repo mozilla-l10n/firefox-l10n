@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Dótknjensku lajstu přiměrić…
 customize-mode-downloads-button-autohide =
     .label = Tłóčatko schować, hdyž prózdne
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Fleksibelna mjezota
+customize-mode-toolbarseparator =
+    .title = Dźělatko
+customize-mode-toolbarspacer =
+    .title = Mjezota

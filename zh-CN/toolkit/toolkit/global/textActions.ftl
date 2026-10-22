@@ -66,6 +66,29 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = 清空
+text-action-highlight-selection-2 =
+    .label = 高亮选中部分
+    .accesskey = h
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = 为选中部分添加批注
+    .accesskey = m
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = 复制指向选中部分的链接
+    .accesskey = h
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = 复制指向选中部分的无跟踪参数链接
+    .accesskey = k
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = 移除高亮
+    .accesskey = h
 text-action-highlight-selection =
     .label = 高亮选中部分
 # This adds a comment to selected text within the PDF viewer.

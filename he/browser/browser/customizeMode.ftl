@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = התאמה אישית של סרגל המגע…
 customize-mode-downloads-button-autohide =
     .label = הסתרת הכפתור כשהרשימה ריקה
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = רווח גמיש
+customize-mode-toolbarseparator =
+    .title = מפריד
+customize-mode-toolbarspacer =
+    .title = רווח

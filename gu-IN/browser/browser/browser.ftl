@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = સાઇટની માહિતી જુઓ
 
@@ -50,6 +53,9 @@ urlbar-search-tips-confirm = ઠીક છે, સમજાઇ ગયું
 
 urlbar-search-tips-onboard = ઓછ ટાઇપ કરો, વધુ શોધો: { $engineName } તમારા સરનામાં બારમાંથી જ શોધો.
 
+## Local search mode indicator labels in the urlbar
+
+
 ##
 
 urlbar-geolocation-blocked =
@@ -91,6 +97,9 @@ clear-search-history =
     .label = શોધ ઇતિહાસ સાફ કરો
     .accesskey = H
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -117,6 +126,19 @@ search-one-offs-context-set-as-default =
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
     .label = શોધ એન્જિન ઉમેરો
+
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -175,9 +197,18 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = બંધ કરો
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = તમારી સ્ક્રીન પર બધી દૃશ્યમાન વિન્ડો વહેંચાયેલ હશે.
+
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -214,6 +245,32 @@ urlbar-result-action-search-w-engine = { $engine } સાથે શોધો
 urlbar-result-action-switch-tab = ટૅબ પર સ્વિચ કરો
 urlbar-result-action-visit = મુલાકાત
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
+
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -222,6 +279,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = રીડર દૃશ્ય બંધ કરો
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -287,7 +349,11 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = બુકમાર્ક્સ
 
-##
+## Repair text encoding toolbar button
+
+
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 toolbar-overflow-customize-button =
     .label = પોતાની રીતની સાધનપટ્ટી…
@@ -313,17 +379,98 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = નવી ખાનગી વિન્ડો
     .tooltiptext = નવી ખાનગી બ્રાઉઝીંગ વિન્ડો ({ $shortcut }) ને ખોલો
+toolbar-button-history =
+    .label = ઇતિહાસ
+    .tooltiptext = તમારાં ઇતિહાસ ({ $shortcut }) ને બતાવો
+toolbar-button-find =
+    .label = શોધો
+    .tooltiptext = આ પાનાં ({ $shortcut }) માં શોધો
+toolbar-button-developer =
+    .label = ડેવલપર
+    .tooltiptext = વેબ ડેવલપર સાધનો ({ $shortcut }) ખોલો
+toolbar-button-forget =
+    .label = ભૂલી જાઓ
+    .tooltiptext = કેટલાક બ્રાઉઝિંગ ઇતિહાસ વિશે ભૂલી જાઓ
+toolbar-zoom-controls =
+    .label = નાનુ મોટુ કરવા માટે નિયંત્રણો
+    .title = નાનુ મોટુ કરવા માટે નિયંત્રણો
+toolbar-button-zoom-out =
+    .label = નાનુ કરો
+    .tooltiptext = નાનુ કરો ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = નાનુ મોટુ કરવાનાં સ્તર ({ $shortcut }) ને પુન:સુયોજિત કરો
+toolbar-button-zoom-in =
+    .label = મોટુ કરો
+    .tooltiptext = મોટુ કરો ({ $shortcut })
+toolbar-edit-controls =
+    .label = નિયંત્રણોમાં ફેરફાર કરો
+    .title = નિયંત્રણોમાં ફેરફાર કરો
+toolbar-button-cut =
+    .label = કાપો
+    .tooltiptext = કાપો ({ $shortcut })
+toolbar-button-copy =
+    .label = નકલ
+    .tooltiptext = નકલ ({ $shortcut })
+toolbar-button-paste =
+    .label = ચોંટાડો
+    .tooltiptext = ચોંટાડો ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
 eme-notifications-drm-content-playing = આ સાઇટ પરના કેટલાક ઑડિઓ અથવા વિડિઓ DRM સૉફ્ટવેરનો ઉપયોગ કરે છે, જે { -brand-short-name } તમને તેની સાથે શું કરી શકે છે તે મર્યાદિત કરી શકે છે.
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = સક્રિય DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } આ પૃષ્ઠ પર ઑડિઓ અથવા વિડિઓ ચલાવવા માટે જરૂરી ઘટકો ઇન્સ્ટોલ કરી રહ્યું છે. પછીથી ફરી પ્રયત્ન કરો.
+decoder-doctor-no-codecs-linux-message = વિડિઓ ચલાવવા માટે, તમારે આવશ્યક વિડિઓ કોડેક્સ ઇન્સ્ટોલ કરવાની જરૂર પડી શકે છે.
+decoder-doctor-no-hw-acceleration-message = વિડિઓ ગુણવત્તા સુધારવા માટે, તમારે Microsoft ના મીડિયા સુવિધા પૅકને ઇન્સ્ટોલ કરવાની જરૂર પડી શકે છે.
+decoder-doctor-no-pulse-audio-message = ઑડિઓ ચલાવવા માટે, તમારે આવશ્યક PulseAudio સૉફ્ટવેર ઇન્સ્ટોલ કરવાની જરૂર પડી શકે છે.
+decoder-doctor-unsupported-libavcodec-message = Libavcodec સંવેદનશીલ હોઈ શકે છે અથવા સમર્થિત નથી, અને વિડિઓ ચલાવવા માટે અપડેટ થવું જોઈએ.
+decoder-doctor-decode-error-message = મીડિયા સંસાધન ડીકોડિંગ કરતી વખતે એક ભૂલ આવી છે.
+decoder-doctor-decode-warning-message = મીડિયા સ્રોતને ડીકોડિંગ કરતી વખતે પુનઃપ્રાપ્ત ભૂલ આવી.
+decoder-doctor-learn-how-link = કેવી રીતે તે જાણો
+decoder-doctor-report-issue-button =
+    .label = સાઇટ સમસ્યાનો અહેવાલ આપો
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } પ્લગઇન ભાંગી ગયુ છે.
+plugin-crashed-notification-reload-button =
+    .label = પૃષ્ઠ ફરીથી લોડ કરો
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ભંગાણ અહેવાલો જમા કર્યા
+    .accesskey = S
+
+## Password save/update panel
+
 
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = બંધ કરો
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = ડાઉનલોડ
@@ -351,12 +498,50 @@ tabs-toolbar-list-all-tabs =
     .label = બધા ટૅબ્સની યાદી કરો
     .tooltiptext = બધા ટૅબ્સની યાદી કરો
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } એ { -vendor-short-name } ને આપોઆપ અમુક માહિતી મોકલે છે કે જેથી અમે તમારો અનુભવ સુધારી શકીએ.
 data-reporting-notification-button =
     .label = શું વહેંચવું છે તે પસંદ કરો
     .accesskey = C
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -365,6 +550,9 @@ refresh-blocked-redirect-label = { -brand-short-name } એ આ પાનાં�
 refresh-blocked-allow =
     .label = પરવાનગી આપો
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -399,3 +587,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' બતાવો
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

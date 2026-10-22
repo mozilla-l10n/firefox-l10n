@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Յարմարեցնել հպման փեղկը…
 customize-mode-downloads-button-autohide =
     .label = Թաքցնել կոճակը, դատարկութեան դէպքում
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Ճկուն բացատ
+customize-mode-toolbarseparator =
+    .title = Բաժանիչ
+customize-mode-toolbarspacer =
+    .title = Բացատ

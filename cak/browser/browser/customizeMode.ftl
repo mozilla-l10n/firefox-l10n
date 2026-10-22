@@ -37,3 +37,12 @@ customize-mode-touchbar-cmd =
     .label = Tichinäx ri Na'onel Kajtz'ik…
 customize-mode-downloads-button-autohide =
     .label = Tewüx pitz'b'äl toq kowöl
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Jalel Rukojol
+customize-mode-toolbarseparator =
+    .title = Jachöy
+customize-mode-toolbarspacer =
+    .title = Rukojol

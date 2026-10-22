@@ -30,3 +30,9 @@ customize-mode-undo-cmd =
 
 ## Labels for the special items that can be added to toolbars in customize mode
 
+customize-mode-toolbarspring =
+    .title = পরিবর্তনশীল ফাঁকাস্থান
+customize-mode-toolbarseparator =
+    .title = বিভাজক
+customize-mode-toolbarspacer =
+    .title = ফাঁকাস্থান

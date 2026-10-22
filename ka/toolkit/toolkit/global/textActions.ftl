@@ -66,6 +66,29 @@ text-action-spell-dictionaries =
     .accesskey = ე
 text-action-search-text-box-clear =
     .title = გასუფთავება
+text-action-highlight-selection-2 =
+    .label = მონიშნულის გამორჩევა
+    .accesskey = მ
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = შენიშვნის დართვა მონიშნულზე
+    .accesskey = შ
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = ბმულის აღება მონიშნულზე
+    .accesskey = ბ
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = სუფთა ბმულის აღება მონიშნულიდან
+    .accesskey = ს
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = მონიშვნის მოცილება
+    .accesskey = მ
 text-action-highlight-selection =
     .label = მონიშნულის გამორჩევა
 # This adds a comment to selected text within the PDF viewer.

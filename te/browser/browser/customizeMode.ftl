@@ -32,3 +32,12 @@ customize-mode-touchbar-cmd =
     .label = టచ్ బార్‌ను అభిమతీకరించు…
 customize-mode-downloads-button-autohide =
     .label = ఖాళీగా ఉన్నప్పుడు బొత్తాన్ని దాచు
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = అనువైన ఖాళీ
+customize-mode-toolbarseparator =
+    .title = వేర్పరి
+customize-mode-toolbarspacer =
+    .title = ఖాళీ

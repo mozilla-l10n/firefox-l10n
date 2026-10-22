@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Megosztás…
     .accesskey = o
+
+##
+
 urlbar-identity-button =
     .aria-label = Oldal adatainak megjelenítése
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 urlbar-result-weather-provider-sponsored = { $provider } ∙ Szponzorálva
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Kérdezze meg
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1145,7 +1153,8 @@ repair-text-encoding-button =
     .label = Szövegkódolás javítása
     .tooltiptext = A szöveg kódolásának kitalálása az oldal tartalma alapján
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1208,6 +1217,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Lapcsoportok
     .tooltiptext = Lapcsoportok megjelenítése
+toolbar-button-history =
+    .label = Előzmények
+    .tooltiptext = Előzmények megjelenítése ({ $shortcut })
+toolbar-button-find =
+    .label = Keresés
+    .tooltiptext = Keresés ezen az oldalon ({ $shortcut })
+toolbar-button-developer =
+    .label = Fejlesztő
+    .tooltiptext = Webfejlesztői eszközök ({ $shortcut })
+toolbar-button-forget =
+    .label = Elfelejtés
+    .tooltiptext = Böngészési előzmények elfelejtése
+toolbar-zoom-controls =
+    .label = Nagyítás
+    .title = Nagyítás
+toolbar-button-zoom-out =
+    .label = Kicsinyítés
+    .tooltiptext = Kicsinyítés ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Nagyítási szint visszaállítása ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Nagyítás
+    .tooltiptext = Nagyítás ({ $shortcut })
+toolbar-edit-controls =
+    .label = Szerkesztésvezérlők
+    .title = Vezérlőelemek szerkesztése
+toolbar-button-cut =
+    .label = Kivágás
+    .tooltiptext = Kivágás ({ $shortcut })
+toolbar-button-copy =
+    .label = Másolás
+    .tooltiptext = Másolás ({ $shortcut })
+toolbar-button-paste =
+    .label = Beillesztés
+    .tooltiptext = Beillesztés ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1224,6 +1267,33 @@ eme-notifications-drm-content-playing-manage = Beállítások kezelése
 eme-notifications-drm-content-playing-manage-accesskey = k
 eme-notifications-drm-content-playing-dismiss = Elvetés
 eme-notifications-drm-content-playing-dismiss-accesskey = E
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Az oldalon lévő egyes hangok vagy videók lejátszásához engedélyezni kell a DRM-et.
+eme-notifications-drm-content-disabled-button =
+    .label = DRM engedélyezése
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = A { -brand-short-name } az oldalon lévő hangok vagy videók lejátszásához szükséges összetevőket telepít. Próbálja újra később.
+decoder-doctor-no-codecs-linux-message = Videolejátszáshoz szükség lehet a szükséges videokodekek telepítésére.
+decoder-doctor-no-hw-acceleration-message = A videominőség javításához szükség lehet a Microsoft Media Feature Pack telepítésére.
+decoder-doctor-no-pulse-audio-message = Hanglejátszáshoz szükség lehet a szükséges PulseAudio szoftver telepítésére.
+decoder-doctor-unsupported-libavcodec-message = A libavcodec sebezhető lehet, vagy nem támogatott, és frissíteni kell a videolejátszáshoz.
+decoder-doctor-decode-error-message = Hiba történt a média-erőforrás dekódolása közben.
+decoder-doctor-decode-warning-message = Helyrehozható hiba történt a média-erőforrás dekódolása közben.
+decoder-doctor-learn-how-link = Tudja meg, hogyan
+decoder-doctor-report-issue-button =
+    .label = Hibás webhely bejelentése
+    .accesskey = j
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = A(z) { $pluginName } bővítmény összeomlott.
+plugin-crashed-notification-reload-button =
+    .label = Újratöltés
+    .accesskey = r
+plugin-crashed-notification-submit-button =
+    .label = Hibajelentés küldése
+    .accesskey = H
 
 ## Password save/update panel
 
@@ -1275,6 +1345,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = b
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1534,6 +1607,13 @@ file-picker-crashed-open = A Windows fájlválasztó párbeszédablaka összeoml
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = A Windows fájlválasztó párbeszédablaka összeomlott. A fájl ide lesz mentve: { $path }.
 file-picker-crashed-save-nowhere = A Windows fájlválasztó párbeszédablaka összeomlott. Nem található alapértelmezett mappa; a fájl nem lesz mentve.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Megjelenítés mappában
     .accessKey = m
@@ -1586,6 +1666,9 @@ trustpanel-blocker-see-all = Összes megjelenítése
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = A(z) { $host } követés elleni védelmei
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

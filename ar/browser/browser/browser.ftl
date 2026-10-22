@@ -38,6 +38,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = شارك…
     .accesskey = ر
+
+##
+
 urlbar-identity-button =
     .aria-label = اعرض معلومات الموقع
 
@@ -718,6 +721,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · مموّل
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = اسأل
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1060,7 +1068,8 @@ repair-text-encoding-button =
     .label = أصلِح ترميز النص
     .tooltiptext = خمّن ترميز النص الصحيح من محتوى الصفحة
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1123,6 +1132,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = مجموعات الألسنة
     .tooltiptext = أظهر مجموعات ألسنتك
+toolbar-button-history =
+    .label = التأريخ
+    .tooltiptext = أظهر التأريخ ({ $shortcut })
+toolbar-button-find =
+    .label = ابحث
+    .tooltiptext = ابحث في هذه الصفحة ({ $shortcut })
+toolbar-button-developer =
+    .label = المطوّرين
+    .tooltiptext = أدوات مطوري الوب ({ $shortcut })
+toolbar-button-forget =
+    .label = انسَ
+    .tooltiptext = انسَ بعضًا من تأريخ التصفح
+toolbar-zoom-controls =
+    .label = عناصر التقريب
+    .title = عناصر التقريب
+toolbar-button-zoom-out =
+    .label = بعّد
+    .tooltiptext = بعّد ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = صفّر مستوى التقريب ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = قرّب
+    .tooltiptext = قرّب ({ $shortcut })
+toolbar-edit-controls =
+    .label = عناصر التحرير
+    .title = عناصر التحرير
+toolbar-button-cut =
+    .label = قصّ
+    .tooltiptext = قص ({ $shortcut })
+toolbar-button-copy =
+    .label = انسخ
+    .tooltiptext = انسخ ({ $shortcut })
+toolbar-button-paste =
+    .label = ألصق
+    .tooltiptext = ألصق ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1139,6 +1182,33 @@ eme-notifications-drm-content-playing-manage = أدِر الإعدادات
 eme-notifications-drm-content-playing-manage-accesskey = د
 eme-notifications-drm-content-playing-dismiss = أهمِل
 eme-notifications-drm-content-playing-dismiss-accesskey = ه
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = يجب تفعيل إدارة الحقوق الرقمية لتشغيل بعض ملفات الصوت أو الفيديو على هذه الصفحة.
+eme-notifications-drm-content-disabled-button =
+    .label = فعّل إدارة الحقوق الرقمية
+    .accesskey = ف
+eme-notifications-drm-content-cdm-installing-message = يُنصّب { -brand-short-name } المكونات اللازمة لتشغيل ملفات الصوت أو الفيديو على هذه الصفحة. يرجى إعادة المحاولة لاحقًا.
+decoder-doctor-no-codecs-linux-message = لتشغيل الڤديو قد تحتاج لتثبيت مرمزات الڤديو المطلوبة.
+decoder-doctor-no-hw-acceleration-message = لتحسين جودة الڤديو قد تحتاج لتثبيت حزمة ميكروسوفت للوسائط.
+decoder-doctor-no-pulse-audio-message = لتشغيل الصوت قد تحتاج لتثبيت PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = برمجية libavcodec قد تكون ضعيفة أمنيًا أو غير مدعومة، و يجب تحديثها لتشغيل الڤديو.
+decoder-doctor-decode-error-message = حدث خطأ أثناء فك ترميز مورِد الوسائط.
+decoder-doctor-decode-warning-message = حدث خطأ غير خطير أثناء فك ترميز مورِد الوسائط.
+decoder-doctor-learn-how-link = اطّلع على المزيد
+decoder-doctor-report-issue-button =
+    .label = أبلغ عن مشكلة بالموقع
+    .accesskey = س
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = انهارت الملحقة { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = أعد تحميل الصفحة
+    .accesskey = ع
+plugin-crashed-notification-submit-button =
+    .label = بلّغ عن الانهيار
+    .accesskey = ن
 
 ## Password save/update panel
 
@@ -1194,6 +1264,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = س
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1335,6 +1408,10 @@ reset-pbm-toolbar-button2 =
     .label = امحُ الجلسة الخاصة
     .tooltiptext = امحُ الجلسة الخاصة
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = منع { -brand-short-name } هذه الصفحة من إعادة التحميل تلقائيًا.
@@ -1420,6 +1497,13 @@ file-picker-crashed-open = انهار مربع حوار ملف ويندوز. ل�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = انهار مربع حوار ملف ويندوز. سيتم حفظ الملف في { $path }.
 file-picker-crashed-save-nowhere = انهار مربع حوار ملف ويندوز. لم يتم العثور على المجلد المبدئي؛ ولن يُحفظ الملف.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = اعرض في المجلد
     .accessKey = م
@@ -1472,6 +1556,9 @@ trustpanel-blocker-see-all = اعرض الكل
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = حماية التتبع لـ { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

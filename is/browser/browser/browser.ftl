@@ -36,6 +36,9 @@ urlbar-identity-button2 =
             [one] Skoða upplýsingar um vefsvæði (1 rekjari útilokaður)
            *[other] Skoða upplýsingar um vefsvæði ({ $count } rekjarar útilokaðir)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Skoða upplýsingar um vefsvæði
 
@@ -706,6 +709,11 @@ urlbar-result-weather-provider-sponsored = { $provider }∙Kostað
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Spyrja
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1020,7 +1028,8 @@ repair-text-encoding-button =
     .label = Gera við textakóðun
     .tooltiptext = Giska á rétta stafatöflu texta út frá efni síðunnar
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1081,6 +1090,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Flipahópar
     .tooltiptext = Sýna flipahópana þína
+toolbar-button-history =
+    .label = Ferill
+    .tooltiptext = Sýna feril ({ $shortcut })
+toolbar-button-find =
+    .label = Leita
+    .tooltiptext = Leita í þessari síðu ({ $shortcut })
+toolbar-button-developer =
+    .label = Forritari
+    .tooltiptext = Opna tækjatól vefforritara ({ $shortcut })
+toolbar-button-forget =
+    .label = Gleyma
+    .tooltiptext = Gleyma hluta af vafraferil
+toolbar-zoom-controls =
+    .label = Aðdráttarstýringar
+    .title = Aðdráttarstýringar
+toolbar-button-zoom-out =
+    .label = Minnka aðdrátt
+    .tooltiptext = Minnka aðdrátt ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Endurstilla aðdrátt ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Auka aðdrátt
+    .tooltiptext = Minnka aðdrátt ({ $shortcut })
+toolbar-edit-controls =
+    .label = Breyta stjórntækjum
+    .title = Breyta stjórntækjum
+toolbar-button-cut =
+    .label = Klippa
+    .tooltiptext = Klippa ({ $shortcut })
+toolbar-button-copy =
+    .label = Afrita
+    .tooltiptext = Afrita ({ $shortcut })
+toolbar-button-paste =
+    .label = Líma
+    .tooltiptext = Líma ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1097,6 +1140,33 @@ eme-notifications-drm-content-playing-manage = Sýsla með stillingar
 eme-notifications-drm-content-playing-manage-accesskey = m
 eme-notifications-drm-content-playing-dismiss = Hafna
 eme-notifications-drm-content-playing-dismiss-accesskey = H
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Þú verður að virkja DRM til að geta spilað hljóð eða myndband á þessu vefsvæði.
+eme-notifications-drm-content-disabled-button =
+    .label = Virkja DRM
+    .accesskey = V
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } er að setja inn viðbætur til að geta spilað hljóðskrá eða myndband á þessari síðu. Reyndu aftur seinna.
+decoder-doctor-no-codecs-linux-message = Til að geta spilað myndband, þarftu að setja inn nauðsynlega myndbanda kóðaalgrím.
+decoder-doctor-no-hw-acceleration-message = Til að auka gæði myndbanda, gætirðu þurft að setja inn Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Til að geta spilað hljóð, þarftu að setja inn nauðsynlegan PulseAudio hugbúnað.
+decoder-doctor-unsupported-libavcodec-message = libavcodec gæti verið gallað og er ekki með stuðning, þú ættir að uppfæra það til að geta spilað myndefni.
+decoder-doctor-decode-error-message = Villa kom upp þegar verið var að afkóða miðlaragögn.
+decoder-doctor-decode-warning-message = Upp koma villa sem var hægt að laga þegar verið var að afkóða miðlaragögn.
+decoder-doctor-learn-how-link = Vita hvernig
+decoder-doctor-report-issue-button =
+    .label = Tilkynna vandamál á vefsvæði
+    .accesskey = T
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Tengiforritið { $pluginName } hrundi.
+plugin-crashed-notification-reload-button =
+    .label = Endurlesa síðu
+    .accesskey = r
+plugin-crashed-notification-submit-button =
+    .label = Senda hrunskýrslu
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1149,6 +1219,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1195,6 +1268,13 @@ restore-session-startup-suggestion-button = Sýna mér hvernig
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Stofnunin/fyrirtækið þitt hefur lokað fyrir aðgang að staðbundnum skrám á þessari tölvu
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1264,6 +1344,10 @@ reset-pbm-panel-cancel-button =
     .label = Hætta við
     .accesskey = H
 reset-pbm-panel-complete = Huliðsvafurgögnum eytt
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1357,6 +1441,13 @@ file-picker-crashed-open = Windows-skráaglugginn hefur hrunið. Ekki var hægt 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows-skráaglugginn hefur hrunið. Skráin verður vistuð í { $path }.
 file-picker-crashed-save-nowhere = Windows-skráaglugginn hefur hrunið. Engin sjálfgefin mappa fannst; skráin verður ekki vistuð.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Sýna í möppu
     .accessKey = m
@@ -1409,6 +1500,9 @@ trustpanel-blocker-see-all = Sjá allt
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Rakningarvarnir fyrir { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

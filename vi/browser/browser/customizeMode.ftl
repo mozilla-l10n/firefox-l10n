@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Tùy biến Touch Bar…
 customize-mode-downloads-button-autohide =
     .label = Ẩn nút khi trống
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Khoảng cách linh động
+customize-mode-toolbarseparator =
+    .title = Dấu phân cách
+customize-mode-toolbarspacer =
+    .title = Khoảng trắng

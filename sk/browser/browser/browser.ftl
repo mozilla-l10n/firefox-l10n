@@ -66,6 +66,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Zdieľať…
     .accesskey = Z
+
+##
+
 urlbar-identity-button =
     .aria-label = Zobraziť informácie o stránke
 
@@ -760,6 +763,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature } °{ $unit }</st
 urlbar-result-weather-provider-sponsored = { $provider } · Sponzorované
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Opýtať sa
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1161,7 +1169,8 @@ repair-text-encoding-button =
     .label = Opraviť kódovanie textu
     .tooltiptext = Pokúsi sa odhadnúť kódovanie textu podľa obsahu stránky
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1224,6 +1233,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Skupiny kariet
     .tooltiptext = Zobraziť skupiny kariet
+toolbar-button-history =
+    .label = História
+    .tooltiptext = Zobrazí vašu históriu ({ $shortcut })
+toolbar-button-find =
+    .label = Hľadať
+    .tooltiptext = Umožní vyhľadávať na tejto stránke ({ $shortcut })
+toolbar-button-developer =
+    .label = Vývojár
+    .tooltiptext = Otvorí vývojárske nástroje webového vývojára ({ $shortcut })
+toolbar-button-forget =
+    .label = Zabudnúť
+    .tooltiptext = Umožní zabudnúť na históriu prehliadania za definovaný čas
+toolbar-zoom-controls =
+    .label = Ovládače lupy
+    .title = Ovládače lupy
+toolbar-button-zoom-out =
+    .label = Oddialiť
+    .tooltiptext = Oddialiť ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Vynulovať úroveň priblíženia ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Priblížiť
+    .tooltiptext = Priblížiť ({ $shortcut })
+toolbar-edit-controls =
+    .label = Ovládače úprav
+    .title = Ovládače úprav
+toolbar-button-cut =
+    .label = Vystrihnúť
+    .tooltiptext = Vystrihnúť ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopírovať
+    .tooltiptext = Kopírovať ({ $shortcut })
+toolbar-button-paste =
+    .label = Prilepiť
+    .tooltiptext = Prilepiť ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1240,6 +1283,33 @@ eme-notifications-drm-content-playing-manage = Spravovať nastavenia
 eme-notifications-drm-content-playing-manage-accesskey = S
 eme-notifications-drm-content-playing-dismiss = Zavrieť
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Pre prehranie zvuku alebo videa na tejto stránke musíte najprv povoliť DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = Povoliť DRM
+    .accesskey = o
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } inštaluje komponenty potrebné na prehratie zvuku alebo videa na tejto stránke. Skúste to znova neskôr.
+decoder-doctor-no-codecs-linux-message = Na prehrávanie videa môže byť potrebné nainštalovať video kodeky.
+decoder-doctor-no-hw-acceleration-message = Pre zlepšenie kvality videa môže byť potrebné nainštalovať Media Feature Pack od Microsoftu.
+decoder-doctor-no-pulse-audio-message = Na prehrávanie hudby môže byť potrebné nainštalovať softvér PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = Verzia knižnice libavcodec môže byť zraniteľná alebo nie je podporovaná a na prehrávanie videa je potrebná jej aktualizácia.
+decoder-doctor-decode-error-message = Pri dekódovaní média sa vyskytla chyba.
+decoder-doctor-decode-warning-message = Pri dekódovaní média sa vyskytla chyba, ktorú možno opraviť.
+decoder-doctor-learn-how-link = Ďalšie informácie
+decoder-doctor-report-issue-button =
+    .label = Nahlásiť problém so stránkou
+    .accesskey = r
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Zásuvný modul { $pluginName } zlyhal.
+plugin-crashed-notification-reload-button =
+    .label = Obnoviť stránku
+    .accesskey = b
+plugin-crashed-notification-submit-button =
+    .label = Odoslať hlásenie o zlyhaní
+    .accesskey = d
 
 ## Password save/update panel
 
@@ -1293,6 +1363,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = u
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1562,6 +1635,13 @@ file-picker-crashed-open = Súborové dialógové okno systému Windows zlyhalo.
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Súborové dialógové okno systému Windows zlyhalo. Súbor sa uloží do { $path }.
 file-picker-crashed-save-nowhere = Súborové dialógové okno systému Windows zlyhalo. Nenašiel sa žiadny predvolený priečinok; súbor sa neuloží.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Zobraziť v priečinku
     .accessKey = b
@@ -1614,6 +1694,9 @@ trustpanel-blocker-see-all = Zobraziť všetko
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ochrana pred sledovaním pre { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

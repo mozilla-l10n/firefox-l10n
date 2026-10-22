@@ -29,3 +29,12 @@ customize-mode-undo-cmd =
     .label = Sfai
 customize-mode-touchbar-cmd =
     .label = Pirsunalizza sbarra tàttili…
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Spazziu flissìbbili
+customize-mode-toolbarseparator =
+    .title = Sipiraturi
+customize-mode-toolbarspacer =
+    .title = Spazziu

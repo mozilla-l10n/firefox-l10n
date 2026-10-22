@@ -71,6 +71,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Rhannu…
     .accesskey = R
+
+##
+
 urlbar-identity-button =
     .aria-label = Gweld manylion y wefan
 
@@ -768,6 +771,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Wedi'i noddi
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Gofyn
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1181,7 +1189,8 @@ repair-text-encoding-button =
     .label = Trwsio amgodio testun
     .tooltiptext = Dyfalu'r amgodio testun cywir o gynnwys y dudalen
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1244,6 +1253,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grwpiau tabiau
     .tooltiptext = Dangos eich grwpiau tabiau
+toolbar-button-history =
+    .label = Hanes
+    .tooltiptext = Dangos eich hanes ({ $shortcut })
+toolbar-button-find =
+    .label = Canfod
+    .tooltiptext = Canfod ar y dudalen ({ $shortcut })
+toolbar-button-developer =
+    .label = Datblygwr
+    .tooltiptext = Agor offer datblygwyr Gwe ({ $shortcut })
+toolbar-button-forget =
+    .label = Anghofio
+    .tooltiptext = Anghofio am beth hanes pori
+toolbar-zoom-controls =
+    .label = Offer Chwyddo
+    .title = Offer chwyddo
+toolbar-button-zoom-out =
+    .label = Lleihau
+    .tooltiptext = Lleihau ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Ailosod lefel chwyddo ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Cynyddu
+    .tooltiptext = Cynyddu ({ $shortcut })
+toolbar-edit-controls =
+    .label = Rheolyddion Golygu
+    .title = Rheolyddion golygu
+toolbar-button-cut =
+    .label = Torri
+    .tooltiptext = Torri ({ $shortcut })
+toolbar-button-copy =
+    .label = Copïo
+    .tooltiptext = Copïo ({ $shortcut })
+toolbar-button-paste =
+    .label = Gludo
+    .tooltiptext = Gludo ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1260,6 +1303,33 @@ eme-notifications-drm-content-playing-manage = Rheoli gosodiadau
 eme-notifications-drm-content-playing-manage-accesskey = R
 eme-notifications-drm-content-playing-dismiss = Cau
 eme-notifications-drm-content-playing-dismiss-accesskey = C
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = Rhaid galluogi DRM i chwarae'r sain neu'r fideo sydd ar y dudalen hon. %S
+eme-notifications-drm-content-disabled-button =
+    .label = Galluogi DRM
+    .accesskey = G
+eme-notifications-drm-content-cdm-installing-message = Mae { -brand-short-name } yn gosod cydrannau sydd eu hangen i chwarae'r sain a'r fideo ar y dudalen hon. Ceisiwch eto'n hwyrach ymlaen.
+decoder-doctor-no-codecs-linux-message = I chwarae fideo, efallai y bydd angen gosod y codecsau fideo angenrheidiol.
+decoder-doctor-no-hw-acceleration-message = I wella ansawdd y fideo, efallai y bydd angen gosod y Microsoft Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = I chwarae sain, efallai y bydd angen gosod y feddalwedd PulseAudio angenrheidiol.
+decoder-doctor-unsupported-libavcodec-message = Gall libavcodec fod yn fregus neu heb ei gynnal a dylai gael ei ddiweddaru ar gyfer chwarae fideo.
+decoder-doctor-decode-error-message = Digwyddodd gwall wrth ddadgodio adnodd cyfrwng.
+decoder-doctor-decode-warning-message = Digwyddodd gwall adferadwy wrth ddadgodio adnodd cyfrwng.
+decoder-doctor-learn-how-link = Sut mae gwneud
+decoder-doctor-report-issue-button =
+    .label = Adrodd am fater gwefan
+    .accesskey = A
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Mae'r ategyn { $pluginName } wedi chwalu.
+plugin-crashed-notification-reload-button =
+    .label = Ail lwytho tudalen
+    .accesskey = A
+plugin-crashed-notification-submit-button =
+    .label = Cyflwyno adroddiad chwalu
+    .accesskey = C
 
 ## Password save/update panel
 
@@ -1315,6 +1385,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = C
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1594,6 +1667,13 @@ file-picker-crashed-open = Mae deialog ffeil Windows wedi chwalu. Nid oedd modd 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Mae deialog ffeil Windows wedi chwalu. Bydd y ffeil yn cael ei chadw i { $path }.
 file-picker-crashed-save-nowhere = Mae deialog ffeil Windows wedi chwalu. Doedd dim modd dod o hyd i ffolder rhagosodedig; fydd y ffeil ddim yn cael ei chadw.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Dangos mewn Ffolder
     .accessKey = F
@@ -1646,6 +1726,9 @@ trustpanel-blocker-see-all = Gweld y Cyfan
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Diogelwch tracio ar gyfer  { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

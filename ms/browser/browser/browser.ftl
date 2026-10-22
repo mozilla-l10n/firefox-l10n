@@ -24,6 +24,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Urus tetapan pop-up dan lencongan pihak ketiga...
     .accesskey = U
+
+##
+
 urlbar-identity-button =
     .aria-label = Papar maklumat laman
 
@@ -493,6 +496,12 @@ bookmarks-toolbar-empty-message = Untuk akses pantas, letakkan penanda halaman a
 
 popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.
 
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -578,6 +587,21 @@ urlbar-result-action-tabtosearch-other-engine = Cari { $engine } terus dari bar 
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Salin
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
+## Strings used for buttons in the urlbar
+
+
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
 ## In these actions "Search" is a verb, followed by where the search is performed.
@@ -585,6 +609,12 @@ urlbar-result-action-copy-to-clipboard = Salin
 urlbar-result-action-search-bookmarks = Cari Tandabuku
 urlbar-result-action-search-history = Cari Sejarah
 urlbar-result-action-search-tabs = Cari Tab
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
 
 ## Reader View toolbar buttons
 
@@ -594,6 +624,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Tutup Reader View
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -681,7 +716,8 @@ repair-text-encoding-button =
     .label = Baiki pengekodan teks
     .tooltiptext = Teka pengekodan teks yang betul daripada kandungan halaman
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -716,17 +752,98 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Tetingkap Peribadi Baru
     .tooltiptext = Buka tetingkap Pelayaran Peribadi baharu ({ $shortcut })
+toolbar-button-history =
+    .label = Sejarah
+    .tooltiptext = Papar sejarah anda ({ $shortcut })
+toolbar-button-find =
+    .label = Cari
+    .tooltiptext = Cari dalam halaman ini ({ $shortcut })
+toolbar-button-developer =
+    .label = Pembangun
+    .tooltiptext = Buka alatan pembangun Web ({ $shortcut })
+toolbar-button-forget =
+    .label = Lupakan
+    .tooltiptext = Lupakan beberapa sejarah pelayaran
+toolbar-zoom-controls =
+    .label = Kawalan Zum
+    .title = Kawalan zum
+toolbar-button-zoom-out =
+    .label = Zum ke luar
+    .tooltiptext = Zum keluar ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Set semula paras zum ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zum ke dalam
+    .tooltiptext = Zum masuk ({ $shortcut })
+toolbar-edit-controls =
+    .label = Edit Kawalan
+    .title = Edit kawalan
+toolbar-button-cut =
+    .label = Potong
+    .tooltiptext = Potong ({ $shortcut })
+toolbar-button-copy =
+    .label = Salin
+    .tooltiptext = Salin ({ $shortcut })
+toolbar-button-paste =
+    .label = Tampal
+    .tooltiptext = Tampal ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Beberapa audio atau video pada laman ini menggunakan perisian DRM, yang mungkin mengehadkan penggunaan anda dengan { -brand-short-name }.
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = Dayakan DRM
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } sedang memasang komponen yang diperlukan untuk memainkan audio atau video pada laman ini. Sila cuba lagi kemudian.
+decoder-doctor-no-codecs-linux-message = Untuk memainkan video, anda mungkin perlu memasang kodek video yang diperlukan.
+decoder-doctor-no-hw-acceleration-message = Untuk memainkan video, anda mungkin perlu memasang Ciri Media Pek Microsoft.
+decoder-doctor-no-pulse-audio-message = Untuk memainkan audio, anda perlu memasang perisian PulseAudio yang diperlukan.
+decoder-doctor-unsupported-libavcodec-message = libavcodec mungkin rosak atau tidak disokong, anda perlu mengemaskini untuk memainkan video.
+decoder-doctor-decode-error-message = Ada ralat semasa menyahkod sumber media.
+decoder-doctor-decode-warning-message = Ada ralat yang boleh dpulihkan semasa menyahkod sumber media.
+decoder-doctor-learn-how-link = Ketahui caranya
+decoder-doctor-report-issue-button =
+    .label = Laporkan Isu Laman
+    .accesskey = L
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Plugin { $pluginName } telah ranap.
+plugin-crashed-notification-reload-button =
+    .label = Muat semula halaman
+    .accesskey = m
+plugin-crashed-notification-submit-button =
+    .label = Hantarkan laporan ranap
+    .accesskey = a
+
+## Password save/update panel
+
 
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = Tutup
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = Muat turun
@@ -754,12 +871,50 @@ tabs-toolbar-list-all-tabs =
     .label = Senarai semua tab
     .tooltiptext = Senarai semua tab
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } secara automatik menghantar data ke { -vendor-short-name } supaya kami boleh menambah baik pengalaman anda.
 data-reporting-notification-button =
     .label = Pilih Apa Yang Saya Kongsi
     .accesskey = P
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -768,6 +923,9 @@ refresh-blocked-redirect-label = { -brand-short-name } menghalang halaman ini da
 refresh-blocked-allow =
     .label = Izinkan
     .accesskey = I
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -798,3 +956,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Papar “{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+

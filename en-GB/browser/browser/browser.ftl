@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Share…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = View site information
 
@@ -755,6 +758,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsored
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Ask
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1144,7 +1152,8 @@ repair-text-encoding-button =
     .label = Repair text encoding
     .tooltiptext = Guess correct text encoding from page content
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1207,6 +1216,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Tab groups
     .tooltiptext = Show your tab groups
+toolbar-button-history =
+    .label = History
+    .tooltiptext = Show your history ({ $shortcut })
+toolbar-button-find =
+    .label = Find
+    .tooltiptext = Find in this page ({ $shortcut })
+toolbar-button-developer =
+    .label = Developer
+    .tooltiptext = Open Web developer tools ({ $shortcut })
+toolbar-button-forget =
+    .label = Forget
+    .tooltiptext = Forget about some browsing history
+toolbar-zoom-controls =
+    .label = Zoom Controls
+    .title = Zoom controls
+toolbar-button-zoom-out =
+    .label = Zoom out
+    .tooltiptext = Zoom out ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Reset zoom level ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zoom in
+    .tooltiptext = Zoom in ({ $shortcut })
+toolbar-edit-controls =
+    .label = Edit controls
+    .title = Edit controls
+toolbar-button-cut =
+    .label = Cut
+    .tooltiptext = Cut ({ $shortcut })
+toolbar-button-copy =
+    .label = Copy
+    .tooltiptext = Copy ({ $shortcut })
+toolbar-button-paste =
+    .label = Paste
+    .tooltiptext = Paste ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1223,6 +1266,33 @@ eme-notifications-drm-content-playing-manage = Manage settings
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Dismiss
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-message = You must enable DRM to play some audio or video on this page.
+eme-notifications-drm-content-disabled-button =
+    .label = Enable DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } is installing components needed to play the audio or video on this page. Please try again later.
+decoder-doctor-no-codecs-linux-message = To play video, you may need to install the required video codecs.
+decoder-doctor-no-hw-acceleration-message = To improve video quality, you may need to install Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = To play audio, you may need to install the required PulseAudio software.
+decoder-doctor-unsupported-libavcodec-message = libavcodec may be vulnerable or is not supported, and should be updated to play video.
+decoder-doctor-decode-error-message = An error occurred while decoding a media resource.
+decoder-doctor-decode-warning-message = A recoverable error occurred while decoding a media resource.
+decoder-doctor-learn-how-link = Learn how
+decoder-doctor-report-issue-button =
+    .label = Report site issue
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = The { $pluginName } plugin has crashed.
+plugin-crashed-notification-reload-button =
+    .label = Reload page
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Submit a crash report
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -1274,6 +1344,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1531,6 +1604,13 @@ file-picker-crashed-open = The Windows file-dialogue has crashed. No file or fol
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = The Windows file-dialogue has crashed. The file will be saved to { $path }.
 file-picker-crashed-save-nowhere = The Windows file-dialogue has crashed. No default folder could be found; the file will not be saved.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Show in Folder
     .accessKey = F
@@ -1583,6 +1663,9 @@ trustpanel-blocker-see-all = See All
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Tracking protections for { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

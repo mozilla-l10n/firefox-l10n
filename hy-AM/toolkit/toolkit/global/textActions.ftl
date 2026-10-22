@@ -63,6 +63,24 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Մաքրել
+text-action-highlight-selection-2 =
+    .label = Գունանշել ընտրածը
+    .accesskey = Գ
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = Ավելացնել մեկնաբանություն ընտրությանը
+    .accesskey = Ա
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Պատճենել հղումը ընդգծման համար
+    .accesskey = Պ
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = Պատճենել մաքուր հղումը գունանշելու համար
+    .accesskey = Պ
 text-action-highlight-selection =
     .label = Գունանշել ընտրածը
 # This adds a comment to selected text within the PDF viewer.

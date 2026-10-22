@@ -373,6 +373,40 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = নতুন ব্যক্তিগত উইন্ডো
     .tooltiptext = একটি নতুন ব্যক্তিগত ব্রাউজিং উইন্ডো খুলুন ({ $shortcut })
+toolbar-button-history =
+    .label = ইতিহাস
+    .tooltiptext = আপনার ইতিহাস প্রদর্শন করুন ({ $shortcut })
+toolbar-button-find =
+    .label = অনুসন্ধান করুন
+    .tooltiptext = এই ফাইলে খুঁজুন ({ $shortcut })
+toolbar-button-developer =
+    .label = ডেভেলপার
+    .tooltiptext = ডেভলপার টুলসমূহ খুলুন ({ $shortcut })
+toolbar-button-forget =
+    .label = ভুলে যাও
+    .tooltiptext = কিছু ব্রাউজিং-এর ইতিহাস ভুলে যান
+toolbar-zoom-controls =
+    .label = বড় আকারে প্রদর্শন কন্ট্রোল
+    .title = বড় আকারে প্রদর্শন কন্ট্রোল
+toolbar-button-zoom-out =
+    .label = ছোট আকারে প্রদর্শন
+    .tooltiptext = ছোট আকারে প্রদর্শন ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = পুনরায় সেট করুন জুম লেভেলে ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = বড় আকারে প্রদর্শন
+    .tooltiptext = বড় আকারে প্রদর্শন ({ $shortcut })
+toolbar-edit-controls =
+    .label = সম্পাদনা নিয়ন্ত্রণ করুন
+    .title = সম্পাদনা নিয়ন্ত্রণ করুন
+toolbar-button-cut =
+    .label = কাটা
+    .tooltiptext = কাট ({ $shortcut })
+toolbar-button-copy =
+    .label = অনুলিপি
+    .tooltiptext = অনুলিপি ({ $shortcut })
+toolbar-button-paste =
+    .label = প্রতিলেপন
+    .tooltiptext = প্রতিলেপন ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -383,6 +417,30 @@ toolbar-button-new-private-window =
 eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
 
 ## Notification bars for media playback issues
+
+eme-notifications-drm-content-disabled-button =
+    .label = সক্রিয় করুন DRM E
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = এই পাতার অডিও অথবা ভিডিও চালানোর জন্য { -brand-short-name } এর উপাদান ইনস্টল হচ্ছে। অনুগ্রহ করে আবার চেষ্টা করুন।
+decoder-doctor-no-codecs-linux-message = এই ভিডিও চালাতে, আপনাকে প্রয়োজনীয় ভিডিও কোডেক ইন্সটল করতে হবে।
+decoder-doctor-no-hw-acceleration-message = ভিডিওর মান উন্নয়ন করতে, আপনাকে Microsoft এর Media Feature Pack ইন্সটল করতে হবে।
+decoder-doctor-no-pulse-audio-message = এই ভিডিও চালাতে, আপনাকে প্রয়োজনীয় ভিডিও PulseAudio সফটওয়্যার ইন্সটল করতে হবে।
+decoder-doctor-unsupported-libavcodec-message = libavcodec হয়তো দূর্বল বা সমর্থিত নয় এবং ভিডিও চালাতে যা হালনাগাদ করতে হবে।
+decoder-doctor-decode-error-message = মিডিয়া রিসোর্স ডিকোডের সময় একটি ত্রুটি ঘটেছে।
+decoder-doctor-decode-warning-message = মিডিয়া রিসোর্স ডিকোডের সময় একটি উদ্ধারযোগ্য ত্রুটি ঘটেছে।
+decoder-doctor-learn-how-link = শিখুন কিভাবে হয়
+decoder-doctor-report-issue-button =
+    .label = সাইট ইস্যু রিপোর্ট করুন
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } প্লাগইন ক্র্যাশ করেছে।
+plugin-crashed-notification-reload-button =
+    .label = পাতা রিলোড
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ক্র্যাশ প্রতিবেদন জমা দিন
+    .accesskey = S
 
 ## Password save/update panel
 
@@ -398,11 +456,9 @@ ui-tour-info-panel-close =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
 
 
 ##

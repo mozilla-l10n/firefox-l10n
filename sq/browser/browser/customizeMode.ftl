@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Përshtatni Shtyllën e Prekjeve…
 customize-mode-downloads-button-autohide =
     .label = Fshihe butonin, kur është e zbrazët
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Hapësirë e Epshme
+customize-mode-toolbarseparator =
+    .title = Ndarës
+customize-mode-toolbarspacer =
+    .title = Hapësirë

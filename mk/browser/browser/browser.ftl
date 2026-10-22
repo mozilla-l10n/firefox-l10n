@@ -10,6 +10,9 @@ browser-shortcut-description = Брзи и приватно прелистува
 edit-popup-settings2 =
     .label = Управувај со поставките за скокачки прозорци и пренасочувања од трети страни…
     .accesskey = У
+
+##
+
 urlbar-identity-button =
     .aria-label = Видете ги информациите за веб-сајтот
 
@@ -119,6 +122,9 @@ clear-search-history =
     .label = Исчисти ја историјата од пребарувањата
     .accesskey = И
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -176,6 +182,11 @@ search-one-offs-tabs =
     .tooltiptext = Јазичиња ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Историја ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -301,6 +312,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Оневозможи заштита за споделување за оваа сесија
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -402,6 +416,18 @@ urlbar-result-action-tabtosearch-other-engine = Пребарувајте { $engi
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Копирај
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Обележувачи
@@ -421,6 +447,9 @@ urlbar-result-action-search-bookmarks = Барај во обележувачит
 urlbar-result-action-search-history = Барај во историјата
 urlbar-result-action-search-tabs = Јазичиња за пребарување
 
+## Used in the menu of a urlbar result.
+
+
 ## Labels shown above groups of urlbar results
 
 # A label shown above the "Firefox Suggest" (bookmarks/history) group in the
@@ -433,6 +462,14 @@ urlbar-group-firefox-suggest =
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Предлози за { $engine }
+
+## Reader View toolbar buttons
+
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -520,7 +557,8 @@ repair-text-encoding-button =
     .label = Поправете го кодирањето на текстот
     .tooltiptext = Одберете го точното кодирање на текст од содржината на страницата
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -555,6 +593,25 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Нов приватен прозорец
     .tooltiptext = Отворете нов приватен прозорец за прелистување ({ $shortcut })
+toolbar-button-history =
+    .label = Историја
+    .tooltiptext = Прикажете ја вашата историја ({ $shortcut })
+toolbar-button-forget =
+    .label = Заборави
+    .tooltiptext = Заборавете на некоја историја на прелистување
+toolbar-button-cut =
+    .label = Исечи
+    .tooltiptext = Исечи ({ $shortcut })
+toolbar-button-copy =
+    .label = Копирај
+    .tooltiptext = Копирај ({ $shortcut })
+toolbar-button-paste =
+    .label = Залепи
+    .tooltiptext = Залепи ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -563,6 +620,22 @@ eme-notifications-drm-content-playing-manage = Управувајте со по�
 eme-notifications-drm-content-playing-manage-accesskey = М
 eme-notifications-drm-content-playing-dismiss = Откажи
 eme-notifications-drm-content-playing-dismiss-accesskey = Д
+
+## Notification bars for media playback issues
+
+decoder-doctor-learn-how-link = Дознајте како
+decoder-doctor-report-issue-button =
+    .label = Пријави проблем со мрежно место
+    .accesskey = П
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Приклучокот { $pluginName } се урна.
+plugin-crashed-notification-reload-button =
+    .label = Превчитај ја страната
+    .accesskey = П
+plugin-crashed-notification-submit-button =
+    .label = Испрати извештај за проблемот
+    .accesskey = И
 
 ## Password save/update panel
 
@@ -578,6 +651,10 @@ menu-share-more =
     .label = Повеќе…
 ui-tour-info-panel-close =
     .tooltiptext = Затвори
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -596,6 +673,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = Л
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -628,11 +708,24 @@ tabs-toolbar-list-all-tabs =
     .label = Прикажи ги сите јазичиња
     .tooltiptext = Прикажи ги сите јазичиња
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Отворете ги претходните јазичиња?</strong> Можете да ја вратите претходната сесија од менито на апликацијата { -brand-short-name } <img data-l10n-name="icon"/>, под Историја.
 restore-session-startup-suggestion-button = Покажи ми како.
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -641,6 +734,28 @@ data-reporting-notification-button =
     .label = Што споделувам?
     .accesskey = с
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } спречи оваа страница автоматски да се превчита.
@@ -648,6 +763,9 @@ refresh-blocked-redirect-label = { -brand-short-name } спречи оваа с�
 refresh-blocked-allow =
     .label = Дозволи
     .accesskey = Д
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -678,3 +796,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Покажи го „{ $popupURI }“
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
