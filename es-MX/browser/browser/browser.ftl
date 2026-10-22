@@ -1232,6 +1232,9 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 eme-notifications-drm-content-disabled-button =
     .label = Habilitar DRM
     .accesskey = H
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando componentes necesarios para reproducir audio o video en esta página. Por favor, intenta de nuevo más tarde.
+decoder-doctor-no-codecs-linux-message = Para reproducir el video, puede ser necesario instalar los códecs de video requeridos.
+decoder-doctor-no-hw-acceleration-message = Para mejorar la calidad de video, puede ser necesario instalar el Media Feature Pack de Microsoft.
 
 ## Password save/update panel
 
