@@ -972,6 +972,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando compoñentes necesarios para reproducir o son ou vídeo nesta páxina. Tente de novo máis tarde.
 
 ## Password save/update panel
 
