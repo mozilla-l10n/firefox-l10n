@@ -68,7 +68,7 @@ neterror-search-cta-learn-more = Μάθετε περισσότερα
 
 ##
 
-neterror-pref-reset = Μοιάζει να προκαλείται από τις ρυθμίσεις ασφαλείας του δικτύου σας. Θέλετε να αποκατασταθούν οι προεπιλεγμένες ρυθμίσεις;
+neterror-pref-reset = Αυτό φαίνεται να οφείλεται στις ρυθμίσεις ασφαλείας του δικτύου σας. Θέλετε να γίνει επαναφορά στις προεπιλεγμένες ρυθμίσεις;
 
 ## Shown on about:neterror and about:certerror when the SSLKEYLOGFILE
 ## environment variable is set, which causes { -brand-short-name } to log TLS

@@ -524,5 +524,5 @@ refresh-profile-infobar-button = Ανανέωση του { -brand-short-name }�
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Άνοιγμα προηγούμενων καρτελών;</strong> Μπορείτε να ανακτήσετε την προηγούμενη συνεδρία σας από το μενού εφαρμογής του { -brand-short-name } <img data-l10n-name="icon"/>, στην ενότητα «Ιστορικό».
+restore-session-startup-suggestion-message = <strong>Άνοιγμα προηγούμενων καρτελών;</strong> Μπορείτε να ανακτήσετε την προηγούμενη συνεδρία σας από την ενότητα «Ιστορικό» του μενού εφαρμογής <img data-l10n-name="icon"/> του { -brand-short-name }.
 restore-session-startup-suggestion-button = Εμφάνιση οδηγιών

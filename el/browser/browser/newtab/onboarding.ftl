@@ -495,22 +495,22 @@ fx-backup-confirmation-screen-item-subtext-2 = Το { -brand-short-name } θα �
 
 ## Restore from Backup Flow about:welcome screens
 
-restore-from-backup-secondary-top-button = Επαναφορά από αντίγραφο ασφαλείας
+restore-from-backup-secondary-top-button = Ανάκτηση από αντίγραφο ασφαλείας
 restore-from-backup-title = Ας επαναφέρουμε το { -brand-short-name } όπως σας αρέσει
 restore-from-backup-subtitle = Ανακτήστε όλους τους σελιδοδείκτες, το ιστορικό και άλλα δεδομένα σας για να συνεχίσετε την περιήγηση.
-restore-from-backup-secondary-button = Να μην γίνει επαναφορά
-multiple-backups-info-tile = <strong>Βρέθηκαν πολλαπλά αντίγραφα ασφαλείας.</strong> Έχει επιλεχθεί το πιο πρόσφατο αρχείο. Ανακτήστε άλλα προφίλ στις <a data-l10n-name="settings-label">Ρυθμίσεις.</a>
+restore-from-backup-secondary-button = Να μην γίνει ανάκτηση
+multiple-backups-info-tile = <strong>Βρέθηκαν πολλαπλά αντίγραφα ασφαλείας.</strong> Έχει επιλεχθεί το πιο πρόσφατο αρχείο. Ανακτήστε άλλα προφίλ στις <a data-l10n-name="settings-label">Ρυθμίσεις</a>.
 
 ## Restored from Backup spotlight
 
-restored-from-backup-success-title = Επιστρέψαμε! Έγινε επαναφορά των δεδομένων σας στο { -brand-short-name }.
+restored-from-backup-success-title = Επιστρέψαμε! Έγινε ανάκτηση των δεδομένων σας στο { -brand-short-name }.
 restored-from-backup-success-with-checklist-subtitle = Θέλετε να κρατήσετε το αγαπημένο σας πρόγραμμα περιήγησης με ένα κλικ μακριά;
 restored-from-backup-success-no-checklist-subtitle = Μπορείτε να ενεργοποιήσετε τη δημιουργία αντιγράφων ασφαλείας σε αυτήν τη συσκευή στις <a data-l10n-name="settings">Ρυθμίσεις</a>.
 restored-from-backup-success-with-checklist-primary-button = Αποθήκευση και συνέχεια
 restored-from-backup-success-with-checklist-secondary-button = Παράβλεψη βήματος
 restored-from-backup-success-no-checklist-primary-button = Συνέχεια
 restored-from-backup-error-title = Προέκυψε πρόβλημα με το αντίγραφο ασφαλείας σας.
-restored-from-backup-error-subtitle = Αν έχετε κάποιο άλλο αντίγραφο ασφαλείας του αρχείου { -brand-short-name }, δοκιμάστε να κάνετε επαναφορά από αυτό. <a data-l10n-name="restore-problems">Ακόμα έχετε προβλήματα;</a>
+restored-from-backup-error-subtitle = Εάν διαθέτετε κάποιο άλλο αντίγραφο ασφαλείας για το { -brand-short-name }, δοκιμάστε να κάνετε ανάκτηση από αυτό. <a data-l10n-name="restore-problems">Αντιμετωπίζετε ακόμα προβλήματα;</a>
 restored-from-backup-error-primary-button = Κλείσιμο
 
 ## Onboarding Personalization Screen

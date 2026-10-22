@@ -536,7 +536,7 @@ browser-window-minimize-button =
 browser-window-maximize-button =
     .tooltiptext = Μεγιστοποίηση
 browser-window-restore-down-button =
-    .tooltiptext = Επαναφορά κάτω
+    .tooltiptext = Αναίρεση μεγιστοποίησης
 browser-window-close-button =
     .tooltiptext = Κλείσιμο
 # Clicking this button closes the window and returns to the tab where it was opened from
@@ -1318,7 +1318,7 @@ pinned-tabs-drop-indicator = Αποθέστε εδώ την καρτέλα γι�
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>Άνοιγμα προηγούμενων καρτελών;</strong> Μπορείτε να ανακτήσετε την προηγούμενη συνεδρία σας από το μενού εφαρμογής του { -brand-short-name } <img data-l10n-name="icon"/>, στην ενότητα «Ιστορικό».
+restore-session-startup-suggestion-message = <strong>Άνοιγμα προηγούμενων καρτελών;</strong> Μπορείτε να ανακτήσετε την προηγούμενη συνεδρία σας από την ενότητα «Ιστορικό» του μενού εφαρμογής <img data-l10n-name="icon"/> του { -brand-short-name }.
 restore-session-startup-suggestion-button = Εμφάνιση οδηγιών
 
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy

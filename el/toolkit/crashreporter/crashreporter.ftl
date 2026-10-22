@@ -4,7 +4,7 @@
 
 crashreporter-branded-title = Αναφορά καταρρεύσεων { -brand-short-name }
 crashreporter-apology = Λυπούμαστε
-crashreporter-crashed-and-restore = Το { -brand-short-name } αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Θα προσπαθήσουμε να ανακτήσουμε τις καρτέλες και τα παράθυρά σας όταν επανεκκινηθεί.
+crashreporter-crashed-and-restore = Το { -brand-short-name } αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Θα προσπαθήσουμε να ανακτήσουμε τις καρτέλες και τα παράθυρά σας κατά την επανεκκίνησή του.
 crashreporter-plea = Για να μας βοηθήσετε στη διάγνωση και την επίλυση του προβλήματος, μπορείτε να μας στείλετε μια αναφορά κατάρρευσης.
 crashreporter-information = Αυτή η εφαρμογή εκτελείται μετά από μια κατάρρευση για την αναφορά του προβλήματος στη { -vendor-short-name }. Δεν θα πρέπει να εκτελείται χειροκίνητα.
 crashreporter-error = Το { -brand-short-name } αντιμετώπισε ένα πρόβλημα και κατέρρευσε. Δυστυχώς, η εφαρμογή αναφοράς καταρρεύσεων δεν μπορεί να υποβάλει αναφορά για αυτήν την κατάρρευση.
@@ -32,9 +32,6 @@ crashreporter-button-close = Κλείσιμο
 crashreporter-crash-identifier = Αναγνωριστικό προβλήματος: { $id }
 # $url (String) - the url which the user can use to view the submitted crash report
 crashreporter-crash-details = Μπορείτε να δείτε τις λεπτομέρειες αυτής της κατάρρευσης στο { $url }.
-
-# Error strings
-
 # $path (String) - the file path
 crashreporter-error-opening-file = Αποτυχία ανοίγματος αρχείου ({ $path })
 # $path (String) - the file path
