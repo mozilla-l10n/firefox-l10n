@@ -1264,6 +1264,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Vi devas aktivigi DRM por ludi sonon aŭ videon en tiu ĉi paĝo.
 eme-notifications-drm-content-disabled-button =
     .label = Aktivigi DRM
     .accesskey = A
@@ -1278,6 +1279,15 @@ decoder-doctor-learn-how-link = Lernu kiel fari
 decoder-doctor-report-issue-button =
     .label = Raporti problemon de retejo
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = La kromprogramo { $pluginName } paneis.
+plugin-crashed-notification-reload-button =
+    .label = Reŝargi paĝon
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Sendi raporton pri paneo
+    .accesskey = S
 
 ## Password save/update panel
 
