@@ -8,10 +8,30 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+# Label for the toolbar button opening the read aloud menu.
+narrate-toggle-label = Irakurri ozenki ({ $shortcut })
+narrate-skip-previous =
+    .title = Atzera ({ $shortcut })
+narrate-start =
+    .title = Hasi ({ $shortcut })
+narrate-stop =
+    .title = Gelditu ({ $shortcut })
+narrate-skip-next =
+    .title = Aurrera ({ $shortcut })
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = Irakurri ozenki
 narrate-rate-slow =
     .title = Mantsotu narrazioa
 narrate-rate-fast =
     .title = Azkartu narrazioa
+narrate-voice-header = Ahotsa
+# Default voice is determined by the language of the document.
+narrate-voice-default = Lehenetsia
+# Label for a voice in the voice selector, e.g. "David (English)".
+# Variables:
+#   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
+#   $language (String) - The language of the voice, as a localized language name or a language tag (e.g. "en-US").
+narrate-voice-label = { $name } ({ $language })
