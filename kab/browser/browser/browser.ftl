@@ -1049,6 +1049,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Ilaq ad tremdeḍ DRM akken ad teɣreḍ kra n yifuyla imeslayen neɣ tividyutin deg usebter-a.
+eme-notifications-drm-content-disabled-button =
+    .label = Rmed DRM
+    .accesskey = R
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } a yessebdad iferdisen ilaqen i wurar n umeslaw neɣ n tvidyut ɣef usebter-a. Ma ulac aɣilif, ɛreḍ ticki.
 decoder-doctor-no-codecs-linux-message = Akken ad turareḍ tavidyut, ahat tesriḍ ad tesbedded ikudiken n uvidyu i iwulmen.
 decoder-doctor-no-hw-acceleration-message = Akken ad igerrez uvidyu, ahat tesriḍ ad tesbeddeḍ Media Feature Pack n Microsoft.
@@ -1060,6 +1064,15 @@ decoder-doctor-learn-how-link = Issin amek
 decoder-doctor-report-issue-button =
     .label = Azen ugur ɣef usmel
     .accesskey = Z
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Azgrir { $pluginName } yeɣli.
+plugin-crashed-notification-reload-button =
+    .label = Smiren asebter
+    .accesskey = S
+plugin-crashed-notification-submit-button =
+    .label = Azen aneqqis n uɣelluy
+    .accesskey = A
 
 ## Password save/update panel
 
