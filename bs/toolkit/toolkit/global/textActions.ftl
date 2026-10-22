@@ -80,6 +80,11 @@ text-action-copy-link-to-highlight-2 =
 text-action-copy-clean-link-to-highlight-2 =
     .label = Kopiraj čisti link do istaknutog sadržaja
     .accesskey = K
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = Ukloni istaknuto
+    .accesskey = U
 text-action-highlight-selection =
     .label = Istakni odabir
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
