@@ -512,6 +512,9 @@ toolbar-button-paste =
 
 ## Notification bars for media playback issues
 
+plugin-crashed-notification-reload-button =
+    .label = بارکردنەوەی پەڕە
+    .accesskey = R
 
 ## Password save/update panel
 
