@@ -815,6 +815,29 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 ## Notification bars for media playback issues
 
 eme-notifications-drm-content-disabled-message = Cal activar lo DRM per legir d'àudio e de vidèo sus aquela pagina.
+eme-notifications-drm-content-disabled-button =
+    .label = Activar lo DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installa de mesas a jorn necessàrias a la lectura d'elements àudio o vidèo sus aquesta pagina. Ensajatz tornamai mai tard.
+decoder-doctor-no-codecs-linux-message = Per legir la vidèo, benlèu vos cal installar los codècs de vidèos necessaris.
+decoder-doctor-no-hw-acceleration-message = Per melhorar la qualitat de la vidèo, benlèu vos cal installar Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Per legir l'àudio, benlèu vos cal installar lo logicial PulseAudio necessari.
+decoder-doctor-unsupported-libavcodec-message = Lo libavcodec es benlèu vulnerable o non compatible, e deuriatz l'actualizar per legir la vidèo.
+decoder-doctor-decode-error-message = Una error s'es producha pendent lo descodatge d'una font mèdia.
+decoder-doctor-decode-warning-message = Una error corregibla s'es producha pendent lo descodatge d'una font mèdia.
+decoder-doctor-learn-how-link = Ne saber mai
+decoder-doctor-report-issue-button =
+    .label = Reportar lo problèma del site
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Lo plugin { $pluginName } a plantat.
+plugin-crashed-notification-reload-button =
+    .label = Actualizar la pagina
+    .accesskey = A
+plugin-crashed-notification-submit-button =
+    .label = Mandar un rapòrt de fracàs
+    .accesskey = M
 
 ## Password save/update panel
 
