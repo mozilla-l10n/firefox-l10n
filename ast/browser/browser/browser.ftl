@@ -475,6 +475,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = E
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Has activar el DRM pa reproducir audiu o videu nesta páxina.
+eme-notifications-drm-content-disabled-button =
+    .label = Activar el DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ta instalando los componentes precisos pa reproducir l'audiu o videu d'esta páxina. Volvi tentalo dempués.
+decoder-doctor-decode-error-message = Asocedió un fallu mentanto se descodificaba un recursu multimedia.
+decoder-doctor-decode-warning-message = Asocedió un fallu irrecuperable mentanto se descodificaba un recursu multimedia.
+decoder-doctor-learn-how-link = Lleer cómo
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = El plugin { $pluginName } cascó.
+plugin-crashed-notification-reload-button =
+    .label = Recargar la páxina
+    .accesskey = R
 
 ## Password save/update panel
 
