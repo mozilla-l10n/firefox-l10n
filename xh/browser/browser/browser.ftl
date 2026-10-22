@@ -356,6 +356,20 @@ eme-notifications-drm-content-playing = Enye into evakalayo okanye ividiyo kule 
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Yenza i-Enable DRM isebenze
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = I-{ -brand-short-name } ifakela izinto ezifunekayo ukudlala i-odiyo okanye ividiyo kweli phepha. Nceda uzame kwakhona ngelinye ixesha.
+decoder-doctor-no-codecs-linux-message = Ukuze udlale ividiyo, kusenokufuneka ufakele iicodec zevidiyo ezifunekayo.
+decoder-doctor-no-hw-acceleration-message = Ukuze uphucule umgangatho wevidiyo, kusenokufuneka ufakele iMicrosoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Ukuze udlale i-odiyo, kusenokufuneka ufakele isoftwe efunekayo eyiPulseAudio.
+decoder-doctor-unsupported-libavcodec-message = i-libavcodec inokuba sesichengenii okanye ingaxhaswa, yaye ifanele ihlaziywe ukuze idlale ividiyo.
+decoder-doctor-decode-error-message = Kuye kwenzeka impazamo ngoxa bekususwa uvimba wemidiya.
+decoder-doctor-decode-warning-message = Kuye kwenzeka impazamo elungisekayo ngoxa kususwa ikhowudi yovimba wemidiya.
+decoder-doctor-learn-how-link = Funda ukuba wenza njani
+decoder-doctor-report-issue-button =
+    .label = Xela uMba weSayithi
+    .accesskey = R
 
 ## Password save/update panel
 
