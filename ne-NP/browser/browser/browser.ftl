@@ -780,6 +780,15 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM सक्रिय पार्नुहोस्
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ले ध्वनी अथवा भिडियो चलाउनका लागि चाहिने अद्यावदिकहरू स्थापना गर्दैछ। कृपया पुनः प्रयास गर्नुहोस्।
+decoder-doctor-no-codecs-linux-message = भिडियो चलाउन, तपाईँले आवश्यक भिडियो कोडेकहरू स्थापना गर्नुपर्छ।
+decoder-doctor-no-hw-acceleration-message = भिडियो गुणस्तर सुधार गर्न, तपाईँले Microsoft को Media Feature Pack स्थापना गर्न आवश्यक हुन सक्छ।
+decoder-doctor-no-pulse-audio-message = आवाज सुन्नका लागि तपाईँलाई PulseAudio सफ्टवेयर स्थापना गर्न आवश्यक पर्न सक्छ।
+decoder-doctor-unsupported-libavcodec-message = भिडियो हेर्नको लागि libavcodec असुरक्षित हुन सक्छ अथवा समर्थित छैन, तसर्थ अद्यावधिक गर्न जरुरी छ।
+decoder-doctor-learn-how-link = कसरी जान्नुहोस्
 
 ## Password save/update panel
 
