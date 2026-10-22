@@ -1238,6 +1238,11 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 ## Notification bars for media playback issues
 
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } đang cài đặt các thành phần cần thiết để xem audio hay video trên trang này. Xin hãy thử lại sau.
+decoder-doctor-decode-error-message = Đã xảy ra lỗi khi mã hóa một tài nguyên phương tiện truyền thông.
+decoder-doctor-decode-warning-message = Việc khôi phục đã xảy ra lỗi khi mã hóa một tài nguyên phương tiện truyền thông.
+decoder-doctor-report-issue-button =
+    .label = Báo cáo vấn đề về trang
+    .accesskey = R
 
 ## Password save/update panel
 
