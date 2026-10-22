@@ -1232,6 +1232,9 @@ toolbar-button-history =
 toolbar-button-find =
     .label = Найти
     .tooltiptext = Найти на этой странице ({ $shortcut })
+toolbar-button-developer =
+    .label = Разработка
+    .tooltiptext = Открыть инструменты веб-разработчика ({ $shortcut })
 toolbar-button-forget =
     .label = Забыть
     .tooltiptext = Забыть о части истории веб-сёрфинга
@@ -1251,6 +1254,12 @@ toolbar-edit-controls =
 toolbar-button-cut =
     .label = Вырезать
     .tooltiptext = Вырезать ({ $shortcut })
+toolbar-button-copy =
+    .label = Копировать
+    .tooltiptext = Копировать ({ $shortcut })
+toolbar-button-paste =
+    .label = Вставить
+    .tooltiptext = Вставить ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
