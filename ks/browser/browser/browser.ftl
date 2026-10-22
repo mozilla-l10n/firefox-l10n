@@ -257,6 +257,15 @@ eme-notifications-drm-content-disabled-button =
     .label = اینیبْل کْریو ڈی آر ایم&
     .accesskey = E
 eme-notifications-drm-content-cdm-installing-message = چُھ انسٹال کران کمپونینٹ  یم ضرورت چھ چلاونْہ باپت آڈیو یا ویڈیو یتھ پیجس پیٹھ۔ مہربأنی کْرتھ کْریو پتْہ دوبار کوشش۔{ -brand-short-name }
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } پلگ اِن گئئ كریش
+plugin-crashed-notification-reload-button =
+    .label = پیج کْریو ریلوڈ &
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = سبمِٹ کْریو اکھ کریش رپورٹ
+    .accesskey = س
 
 ## Password save/update panel
 
