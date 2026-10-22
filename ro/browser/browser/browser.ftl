@@ -1279,6 +1279,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Trebuie să activezi DRM pentru redare audio sau video pe această pagină.
+decoder-doctor-decode-error-message = A intervenit o eroare la decodarea unei resurse media.
+decoder-doctor-decode-warning-message = A intervenit o eroare recuperabilă la decodarea unei resurse media.
+decoder-doctor-learn-how-link = Află cum
+decoder-doctor-report-issue-button =
+    .label = Raportează problemă cu site-ul
+    .accesskey = R
 
 ## Password save/update panel
 
