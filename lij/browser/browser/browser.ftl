@@ -650,6 +650,15 @@ eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto 
 
 ## Notification bars for media playback issues
 
+decoder-doctor-no-codecs-linux-message = Pe vedde o video ti doviesci instalâ i codec video domandæ.
+decoder-doctor-no-hw-acceleration-message = Pe vedde megio o video ti doviesci instalâ o Media Feature Pack de Microsoft.
+decoder-doctor-no-pulse-audio-message = Pe sentî sto òudio ti doviesci instalâ o software PulseAudio domandou.
+decoder-doctor-unsupported-libavcodec-message = libavcodec o peu êse vulenrabile ò no soportou, e ti doviesci agiornalo pe vedde sto video.
+decoder-doctor-decode-error-message = S'é verificou 'n'erô inta decodifica da risorsa media.
+decoder-doctor-learn-how-link = Comme se fa
+decoder-doctor-report-issue-button =
+    .label = Denonçia Problema Scito
+    .accesskey = D
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = O plugin { $pluginName } o s'é ciantou.
