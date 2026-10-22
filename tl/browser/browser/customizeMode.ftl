@@ -32,3 +32,8 @@ customize-mode-touchbar-cmd =
     .label = I-customize ang Touch Bar...
 customize-mode-downloads-button-autohide =
     .label = Itago ang button kapag walang laman
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Flexible na Puwang
