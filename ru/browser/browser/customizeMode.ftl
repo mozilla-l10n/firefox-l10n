@@ -41,6 +41,8 @@ customize-mode-downloads-button-autohide =
 
 ## Labels for the special items that can be added to toolbars in customize mode
 
+customize-mode-toolbarspring =
+    .title = Растягивающийся пробел
 customize-mode-toolbarseparator =
     .title = Разделитель
 customize-mode-toolbarspacer =
