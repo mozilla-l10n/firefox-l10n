@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Partekatu…
     .accesskey = P
+
+##
+
 urlbar-identity-button =
     .aria-label = Ikusi gunearen informazioa
 
@@ -755,6 +758,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Babeslea
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Galdetu
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1144,7 +1152,8 @@ repair-text-encoding-button =
     .label = Konpondu testu-kodeketa
     .tooltiptext = Antzeman testuaren kodeketa zuzena orriaren edukitik
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1207,6 +1216,34 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Fitxa-taldeak
     .tooltiptext = Erakutsi zure fitxa-taldeak
+toolbar-button-developer =
+    .label = Garatzailea
+    .tooltiptext = Ireki web garapenerako tresnak ({ $shortcut })
+toolbar-button-forget =
+    .label = Ahaztu
+    .tooltiptext = Ahaztu nabigatze-historiaren zati bat
+toolbar-zoom-controls =
+    .label = Zoomaren kontrolak
+    .title = Zoomaren kontrolak
+toolbar-button-zoom-out =
+    .label = Urrundu zooma
+    .tooltiptext = Urrundu zooma ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Berrezarri zoomaren maila ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Gerturatu zooma
+    .tooltiptext = Gerturatu zooma ({ $shortcut })
+toolbar-edit-controls =
+    .label = Editatu kontrolak
+    .title = Editatu kontrolak
+toolbar-button-cut =
+    .label = Ebaki
+    .tooltiptext = Ebaki ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopiatu
+    .tooltiptext = Kopiatu ({ $shortcut })
+toolbar-button-paste =
+    .label = Itsatsi
+    .tooltiptext = Itsatsi ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1223,6 +1260,9 @@ eme-notifications-drm-content-playing-manage = Kudeatu ezarpenak
 eme-notifications-drm-content-playing-manage-accesskey = K
 eme-notifications-drm-content-playing-dismiss = Baztertu
 eme-notifications-drm-content-playing-dismiss-accesskey = B
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1274,6 +1314,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = z
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1533,6 +1576,13 @@ file-picker-crashed-open = Windowsen fitxategien elkarrizketa-koadroak huts egin
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windowsen fitxategien elkarrizketa-koadroak huts egin du. Fitxategia { $path } bidean gordeko da.
 file-picker-crashed-save-nowhere = Windowsen fitxategien elkarrizketa-koadroak huts egin du. Ezin da karpeta lehenetsirik aurkitu; fitxategia ez da gordeko.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Erakutsi karpetan
     .accessKey = k
@@ -1585,6 +1635,9 @@ trustpanel-blocker-see-all = Ikusi guztiak
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Jarraipenaren babesak { $host } ostalarirako
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
