@@ -1257,6 +1257,9 @@ toolbar-button-cut =
 toolbar-button-copy =
     .label = Copiază
     .tooltiptext = Copiază ({ $shortcut })
+toolbar-button-paste =
+    .label = Inserează
+    .tooltiptext = Inserează ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
