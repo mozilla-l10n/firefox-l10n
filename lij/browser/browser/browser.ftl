@@ -650,6 +650,15 @@ eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto 
 
 ## Notification bars for media playback issues
 
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = O plugin { $pluginName } o s'é ciantou.
+plugin-crashed-notification-reload-button =
+    .label = Carega torna a pagina
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Segnala un problema
+    .accesskey = S
 
 ## Password save/update panel
 
