@@ -1235,6 +1235,16 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando componentes necesarios para reproducir audio o video en esta página. Por favor, intenta de nuevo más tarde.
 decoder-doctor-no-codecs-linux-message = Para reproducir el video, puede ser necesario instalar los códecs de video requeridos.
 decoder-doctor-no-hw-acceleration-message = Para mejorar la calidad de video, puede ser necesario instalar el Media Feature Pack de Microsoft.
+decoder-doctor-no-pulse-audio-message = Para reproducir audio, necesitas instalar el software PulseAudio requerido.
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = El plugin { $pluginName } dejó de funcionar.
+plugin-crashed-notification-reload-button =
+    .label = Recargar la página
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Enviar un reporte del fallo
+    .accesskey = E
 
 ## Password save/update panel
 
