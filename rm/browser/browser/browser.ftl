@@ -1074,6 +1074,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = S
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Ti stos activar DRM per pudair far ir l'audio u video da questa pagina.
 eme-notifications-drm-content-disabled-button =
     .label = Activar DRM
     .accesskey = A
@@ -1088,6 +1089,15 @@ decoder-doctor-learn-how-link = Vegnir a savair co
 decoder-doctor-report-issue-button =
     .label = Rapportar in problem cun la pagina
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Il plug-in { $pluginName } è collabà.
+plugin-crashed-notification-reload-button =
+    .label = Rechargiar la pagina
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Trametter ina annunzia da collaps
+    .accesskey = T
 
 ## Password save/update panel
 
