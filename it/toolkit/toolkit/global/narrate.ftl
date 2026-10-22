@@ -21,3 +21,17 @@ narrate-skip-next =
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = Leggi ad alta voce
+narrate-rate-slow =
+    .title = Rallenta narrazione
+narrate-rate-fast =
+    .title = Velocizza narrazione
+narrate-voice-header = Voce
+# Default voice is determined by the language of the document.
+narrate-voice-default = Predefinita
+# Label for a voice in the voice selector, e.g. "David (English)".
+# Variables:
+#   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
+#   $language (String) - The language of the voice, as a localized language name or a language tag (e.g. "en-US").
+narrate-voice-label = { $name } ({ $language })
