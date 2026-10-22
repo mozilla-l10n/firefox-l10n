@@ -1279,6 +1279,30 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Musisz włączyć DRM, aby odtwarzać dźwięk lub obraz na tej stronie.
+eme-notifications-drm-content-disabled-button =
+    .label = Włącz DRM
+    .accesskey = W
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } instaluje oprogramowanie wymagane do odtwarzania dźwięku lub obrazu na tej stronie. Proszę spróbować później.
+decoder-doctor-no-codecs-linux-message = Aby odtwarzać wideo, może być konieczna instalacja odpowiednich kodeków.
+decoder-doctor-no-hw-acceleration-message = Aby poprawić jakość wideo, może być konieczna instalacja pakietu Microsoft Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Aby odtwarzać dźwięk, może być konieczna instalacja PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = Nieobsługiwana biblioteka libavcodec może być podatna na ataki i powinna zostać uaktualniona, aby odtwarzać wideo.
+decoder-doctor-decode-error-message = Wystąpił błąd podczas dekodowania zasobu medialnego.
+decoder-doctor-decode-warning-message = Wystąpił naprawialny błąd podczas dekodowania zasobu medialnego.
+decoder-doctor-learn-how-link = Więcej informacji
+decoder-doctor-report-issue-button =
+    .label = Zgłoś problem
+    .accesskey = Z
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Wtyczka { $pluginName } uległa awarii.
+plugin-crashed-notification-reload-button =
+    .label = Odśwież stronę
+    .accesskey = O
+plugin-crashed-notification-submit-button =
+    .label = Prześlij zgłoszenie błędu
+    .accesskey = P
 
 ## Password save/update panel
 
