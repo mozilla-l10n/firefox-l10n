@@ -1266,6 +1266,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 
 ## Notification bars for media playback issues
 
+decoder-doctor-learn-how-link = Finn ut korleis
 
 ## Password save/update panel
 
