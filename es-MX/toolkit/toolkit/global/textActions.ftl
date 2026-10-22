@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = I
 text-action-search-text-box-clear =
     .title = Limpiar
+text-action-highlight-selection-2 =
+    .label = Destacar selección
+    .accesskey = D
 text-action-highlight-selection =
     .label = Destacar selección
 # This adds a comment to selected text within the PDF viewer.
