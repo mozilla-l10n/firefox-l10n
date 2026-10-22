@@ -1269,6 +1269,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = B
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = DRMa gaitu behar duzu orri honetako zenbait audio edo bideo erreproduzitzeko.
 eme-notifications-drm-content-disabled-button =
     .label = Gaitu DRMa
     .accesskey = G
@@ -1283,6 +1284,15 @@ decoder-doctor-learn-how-link = Ikasi nola
 decoder-doctor-report-issue-button =
     .label = Eman gunearen arazoaren berri
     .accesskey = E
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } pluginak huts egin du.
+plugin-crashed-notification-reload-button =
+    .label = Berritu orria
+    .accesskey = B
+plugin-crashed-notification-submit-button =
+    .label = Bidali hutsegite-txostena
+    .accesskey = B
 
 ## Password save/update panel
 
