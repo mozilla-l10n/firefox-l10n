@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Gnàthaich am bàr-suathaidh…
 customize-mode-downloads-button-autohide =
     .label = Falaich am putan nuair a bhios e falamh
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Beàrn sùbailte
+customize-mode-toolbarseparator =
+    .title = Sgaradair
+customize-mode-toolbarspacer =
+    .title = Beàrn
