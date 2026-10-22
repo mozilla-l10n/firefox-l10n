@@ -1242,7 +1242,11 @@ decoder-doctor-no-codecs-linux-message = 동영상을 재생하기 위해 동영
 decoder-doctor-no-hw-acceleration-message = 동영상 재생 품질을 높이기 위해 Microsoft의 Media Feature Pack을 설치해야 합니다.
 decoder-doctor-no-pulse-audio-message = 소리를 재생하기 위해서는 PulseAudio 소프트웨어가 필요합니다.
 decoder-doctor-unsupported-libavcodec-message = libavcodec은 취약하거나 지원되지 않을 수 있으므로 동영상을 재생하기 위해서 업데이트되어야 합니다.
+decoder-doctor-decode-warning-message = 미디어 리소스를 디코딩하는 동안 복구 가능한 오류가 발생했습니다.
 decoder-doctor-learn-how-link = 방법 알아보기
+decoder-doctor-report-issue-button =
+    .label = 이 사이트 문제 보고하기
+    .accesskey = R
 
 ## Password save/update panel
 
