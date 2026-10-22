@@ -1243,6 +1243,16 @@ eme-notifications-drm-content-disabled-button =
     .label = DRM を有効にする
     .accesskey = E
 eme-notifications-drm-content-cdm-installing-message = このページの音声や映像の再生に必要なコンポーネントをインストールしています。後で試してください。
+decoder-doctor-no-codecs-linux-message = 動画を再生するには、対応する動画コーデックをインストールしてください。
+decoder-doctor-no-hw-acceleration-message = Microsoft Media Feature Pack をインストールすると、動画の再生品質が向上します。
+decoder-doctor-no-pulse-audio-message = 音声を再生するには、PulseAudio をインストールしてください。
+decoder-doctor-unsupported-libavcodec-message = libavcodec に脆弱性があるかサポートされていません。動画を再生するには libavcodec を更新してください。
+decoder-doctor-decode-error-message = メディアリソースのデコード中にエラーが発生しました。
+decoder-doctor-decode-warning-message = メディアリソースのデコード中に復旧可能なエラーが発生しました。
+decoder-doctor-learn-how-link = 利用方法
+decoder-doctor-report-issue-button =
+    .label = サイトの問題を報告
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = { $pluginName } プラグインがクラッシュしました。
