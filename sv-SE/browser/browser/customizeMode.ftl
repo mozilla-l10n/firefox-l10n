@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Anpassa Touch Bar…
 customize-mode-downloads-button-autohide =
     .label = Dölj knappen när den är tom
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Flexibelt mellanrum
+customize-mode-toolbarseparator =
+    .title = Avgränsare
+customize-mode-toolbarspacer =
+    .title = Mellanrum
