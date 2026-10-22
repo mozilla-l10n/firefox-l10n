@@ -473,6 +473,7 @@ eme-notifications-drm-content-playing = វីដេអូ និង​អូឌ
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } កំពុង​ដំឡើង​សមាសភាគ​ចាំបាច់​ដើម្បី​ចាក់​អូឌីយ៉ូ ឬ​វីដេអូ​នៅ​លើ​ទំព័រ​នេះ។ សូម​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ។
 decoder-doctor-no-codecs-linux-message = ដើម្បី​លេង​វីដេអូ​បាន អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កូដិក​វីដេអូ​ដែល​បាន​ទាមទារ។
 decoder-doctor-no-hw-acceleration-message = ដើម្បី​ធ្វើឲ្យ​គុណភាព​វីដេអូ​ប្រសើរ​ឡើង អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កម្មវិធី Microsoft’s Media Feature Pack។​
 decoder-doctor-no-pulse-audio-message = ដើម្បី​ចាក់​អូឌីយ៉ូ អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កម្មវិធី PulseAudio ដែល​បាន​ទាមទារ។
