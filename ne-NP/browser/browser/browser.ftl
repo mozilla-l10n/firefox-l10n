@@ -743,6 +743,22 @@ toolbar-button-developer =
 toolbar-zoom-controls =
     .label = जुम नियन्त्रकहरू
     .title = जुम नियन्त्रकहरू
+toolbar-button-zoom-out =
+    .label = सानो बनाउनुहोस्
+    .tooltiptext = सानो बनाउनुहोस् ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = जुम तह रिसेट गर्नुहोस् ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = सानो बनाउनुहोस्
+    .tooltiptext = ठूलो बनाउनुहोस् ({ $shortcut })
+toolbar-edit-controls =
+    .label = नियन्त्रणहरू सम्पादन गर्नुहोस्
+    .title = नियन्त्रणहरू सम्पादन गर्नुहोस्
+toolbar-button-cut =
+    .label = काट्नुहोस्
+    .tooltiptext = काट्नुहोस् ({ $shortcut })
+toolbar-button-copy =
+    .label = प्रतिलिपि गर्नुहोस्
+    .tooltiptext = प्रतिलिपि ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
