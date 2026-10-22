@@ -8,9 +8,21 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+# Label for the toolbar button opening the read aloud menu.
+narrate-toggle-label = بلندخوانی ({ $shortcut })
+narrate-skip-previous =
+    .title = عقب ({ $shortcut })
+narrate-start =
+    .title = شروع ({ $shortcut })
+narrate-stop =
+    .title = توقف ({ $shortcut })
+narrate-skip-next =
+    .title = جلو ({ $shortcut })
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = بلندخوانی
 narrate-rate-slow =
     .title = کند کردن خوانش
 narrate-rate-fast =
