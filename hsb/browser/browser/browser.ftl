@@ -1288,6 +1288,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM zmóžnić
+    .accesskey = z
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } instaluje komponenty, kotrež su trěbne, zo bychu awdijo- abo widejodataju na tutej stronje wothrali. Prošu spytajće pozdźišo hišće raz.
+decoder-doctor-no-codecs-linux-message = Zo byšće widejo wothrał, dyrbiće trěbne widejokodeki instalować.
+decoder-doctor-no-hw-acceleration-message = Zo byšće widejokwalitu polěpšił, dyrbiće Media Feature Pack předewzaća Microsoft instalować.
+decoder-doctor-no-pulse-audio-message = Zo byšće awdijo wothrał, dyrbiće trěbnu softwaru PulseAudio instalować.
+decoder-doctor-unsupported-libavcodec-message = libavcodec móže napadliwy być abo so njepodpěruje a měł so za wothraće widejow aktualizować.
+decoder-doctor-decode-error-message = Při dekodowanju medijoweje resursy je zmylk wustupił.
+decoder-doctor-decode-warning-message = Při dekodowanju medijoweje resursy je porjedźujomny zmylk wustupił.
+decoder-doctor-learn-how-link = Zhońće kak
+decoder-doctor-report-issue-button =
+    .label = Sydłowy problem zdźělić
+    .accesskey = z
 
 ## Password save/update panel
 
