@@ -749,6 +749,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM చేతినము చేయుము
+    .accesskey = E
+decoder-doctor-no-codecs-linux-message = వీడియో ప్లే చేయడానికి, మీరు అవసరమైన వీడియో కోడెక లు ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
+decoder-doctor-no-hw-acceleration-message = వీడియో నాణ్యతను మెరుగుపరిచేందుకు, మీరు Microsoft యొక్క Media Feature Pack ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
+decoder-doctor-no-pulse-audio-message = ఆడియో ప్లే చేయడానికి, మీరు అవసరమైన PulseAudio సాఫ్ట్వేరుని ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
+decoder-doctor-unsupported-libavcodec-message = libavcodec హాని కలిగించడానికి అవకాశం ఉండవచ్చు లేదా మద్దతుని ఇవ్వదు మరియు వీడియో ప్లే చేయడానికి నవీకరించాలి.
 decoder-doctor-learn-how-link = ఎలానో తెలుసుకోండి
 
 ## Password save/update panel
