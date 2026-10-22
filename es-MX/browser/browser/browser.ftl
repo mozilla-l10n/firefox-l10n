@@ -1229,6 +1229,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Debes activar DRM para reproducir algún audio o video de esta página.
 eme-notifications-drm-content-disabled-button =
     .label = Habilitar DRM
     .accesskey = H
@@ -1236,6 +1237,7 @@ eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } est
 decoder-doctor-no-codecs-linux-message = Para reproducir el video, puede ser necesario instalar los códecs de video requeridos.
 decoder-doctor-no-hw-acceleration-message = Para mejorar la calidad de video, puede ser necesario instalar el Media Feature Pack de Microsoft.
 decoder-doctor-no-pulse-audio-message = Para reproducir audio, necesitas instalar el software PulseAudio requerido.
+decoder-doctor-unsupported-libavcodec-message = libavcodec puede ser vulnerable o no está soportado y debería actualizarse para reproducir video.
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = El plugin { $pluginName } dejó de funcionar.
