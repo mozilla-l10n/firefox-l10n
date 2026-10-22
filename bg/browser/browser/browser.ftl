@@ -1022,6 +1022,37 @@ toolbar-button-new-private-window =
 toolbar-button-history =
     .label = История
     .tooltiptext = Показване на история ({ $shortcut })
+toolbar-button-find =
+    .label = Търсене
+    .tooltiptext = Търсене в страницата ({ $shortcut })
+toolbar-button-developer =
+    .label = Разработчик
+    .tooltiptext = Отваряне на развойни инструменти ({ $shortcut })
+toolbar-button-forget =
+    .label = Забравяне
+    .tooltiptext = Забравяне на част от историята на разглеждане
+toolbar-zoom-controls =
+    .label = Контроли за мащабиране
+    .title = Контроли за мащабиране
+toolbar-button-zoom-out =
+    .label = Намаляване
+    .tooltiptext = Намаляване ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Нулиране на мащабирането ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Увеличаване
+    .tooltiptext = Увеличаване ({ $shortcut })
+toolbar-edit-controls =
+    .label = Контроли за редактиране
+    .title = Контроли за редактиране
+toolbar-button-cut =
+    .label = Изрязване
+    .tooltiptext = Изрязване ({ $shortcut })
+toolbar-button-copy =
+    .label = Копиране
+    .tooltiptext = Копиране ({ $shortcut })
+toolbar-button-paste =
+    .label = Поставяне
+    .tooltiptext = Поставяне ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
