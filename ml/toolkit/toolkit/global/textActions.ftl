@@ -69,6 +69,17 @@ text-action-search-text-box-clear =
 text-action-highlight-selection-2 =
     .label = തിരഞ്ഞെടുത്തതിനെ അടയാളപ്പെടുത്തുക
     .accesskey = ത
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = അടയാളപ്പെട്ട ഭാഗത്തിലോട്ടു് എത്തിത്തീരുന്ന കണ്ണിയെ പകൎത്തുക
+    .accesskey = അ
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = അടയാളപ്പെട്ട ഭാഗത്തിലോട്ടു് എത്തിത്തീരുന്ന കണ്ണിയെ പകൎത്തുക (പിന്തുടൎച്ചയന്ത്രങ്ങളില്ലാതെ)
+    .accesskey = അ
 text-action-highlight-selection =
     .label = തിരഞ്ഞെടുത്തതിനെ അടയാളപ്പെടുത്തുക
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
