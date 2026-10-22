@@ -1271,6 +1271,14 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਕੁਝ ਆਡੀਓ ਜਾਂ ਵੀਡੀਓ ਨੂੰ ਚਲਾਉਣ ਲਈ ਤੁਹਾਨੂੰ DRM ਸਮਰੱਥ ਕਰਨੇ ਜ਼ਰੂਰੀ ਹਨ।
+eme-notifications-drm-content-disabled-button =
+    .label = DRM ਸਮਰੱਥ ਕਰੋ
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ਭਾਗਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰ ਰਿਹਾ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਆਡੀਓ ਜਾਂ ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਚਾਹੀਦੇ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+decoder-doctor-no-codecs-linux-message = ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਤੁਹਾਨੂੰ ਵੀਡੀਓ codecs ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
+decoder-doctor-no-hw-acceleration-message = ਵੀਡੀਓ ਕੁਆਲਟੀ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਤੁਹਾਨੂੰ Microsoft ਦੇ ਮੀਡੀਆ ਫੀਚਰ ਪੈਕ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
+decoder-doctor-learn-how-link = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 
 ## Password save/update panel
 
