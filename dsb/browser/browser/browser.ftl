@@ -1241,6 +1241,9 @@ toolbar-button-history =
 toolbar-button-find =
     .label = Pytaś
     .tooltiptext = Na toś tom boku pytaś ({ $shortcut })
+toolbar-button-forget =
+    .label = Zabyś
+    .tooltiptext = Pśeglědowańsku historiju zabyś
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
