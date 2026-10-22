@@ -649,6 +649,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = R
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Cumasaigh DRM
+    .accesskey = C
+eme-notifications-drm-content-cdm-installing-message = Tá { -brand-short-name } ag suiteáil comhpháirteanna a theastaíonn uait le fuaim nó físeán ar an leathanach seo a sheinm. Bain triail eile as ar ball.
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = Thuairteáil forlíontán { $pluginName }.
