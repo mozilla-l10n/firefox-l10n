@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Nasztaluj posek  Touch Bar…
 customize-mode-downloads-button-autohide =
     .label = Skryj knefel, jak nic niy ma
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Swobodno pauza
+customize-mode-toolbarseparator =
+    .title = Separator
+customize-mode-toolbarspacer =
+    .title = Pauza

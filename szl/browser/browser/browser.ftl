@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Pokoż informacyje ô strōnie
 
@@ -333,6 +336,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Zastow ôchrōna udostympnianio we tyj sesyji
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -438,6 +444,18 @@ urlbar-result-action-tabtosearch-other-engine = Szukej na { $engine } zaroz na p
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopiuj
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Zokłodki
@@ -458,6 +476,9 @@ urlbar-result-action-search-bookmarks = Szukej we zokłodkach
 urlbar-result-action-search-history = Szukej w historyji
 urlbar-result-action-search-tabs = Szukej po kartach
 urlbar-result-action-search-actions = Przeszukowanie akcyjōw
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -483,6 +504,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Zawrzij podglōnd czytanio
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -575,7 +601,8 @@ repair-text-encoding-button =
     .label = Naprow kodowanie tekstu
     .tooltiptext = Zgoduj dobre kodowanie tekstu z kōntekstu strōny
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -610,6 +637,44 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Nowe prywatne ôkno
     .tooltiptext = Ôdewrzij nowe ôkno w trybie prywatnego przeglōndanio ({ $shortcut })
+toolbar-button-history =
+    .label = Historyjo
+    .tooltiptext = Pokoż swoja historyjo ({ $shortcut })
+toolbar-button-find =
+    .label = Znojdź
+    .tooltiptext = Znojdź na tyj strōnie ({ $shortcut })
+toolbar-button-developer =
+    .label = Noczynia do deweloprōw
+    .tooltiptext = Ôdewrzij noczynia do necowych deweloprōw ({ $shortcut })
+toolbar-button-forget =
+    .label = Zapōmnij!
+    .tooltiptext = Zapōmnij kōnsek historyje przeglōndanio
+toolbar-zoom-controls =
+    .label = Sztalowanie powiynkszynio
+    .title = Sztalowanie powiynkszynio
+toolbar-button-zoom-out =
+    .label = Zmyńsz
+    .tooltiptext = Zmyńsz strōna ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Wrōć bazowo srogość ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zwiynksz
+    .tooltiptext = Zwiynksz strōna ({ $shortcut })
+toolbar-edit-controls =
+    .label = Edytuj kōntrolery
+    .title = Edytuj kōntrolery
+toolbar-button-cut =
+    .label = Wytnij
+    .tooltiptext = Wytnij ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopiuj
+    .tooltiptext = Kopiuj ({ $shortcut })
+toolbar-button-paste =
+    .label = Wraź
+    .tooltiptext = Wraź ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -618,6 +683,9 @@ eme-notifications-drm-content-playing-manage = Regiyruj sztalōnkami
 eme-notifications-drm-content-playing-manage-accesskey = R
 eme-notifications-drm-content-playing-dismiss = Ôdkoż
 eme-notifications-drm-content-playing-dismiss-accesskey = O
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -633,6 +701,10 @@ menu-share-more =
     .label = Wiyncyj…
 ui-tour-info-panel-close =
     .tooltiptext = Zawrzij
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -651,6 +723,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -683,11 +758,24 @@ tabs-toolbar-list-all-tabs =
     .label = Wykoz wszyskich kart
     .tooltiptext = Wykoz wszyskich kart
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Ôdewrzić piyrwyjsze karty?</strong> Możesz wrōcić swoja piyrwyjszo sesyjo w myni aplikacyje { -brand-short-name } <img data-l10n-name="icon"/> w sekcyji Historyjo.
 restore-session-startup-suggestion-button = Pokoż jak
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -704,6 +792,25 @@ unified-extensions-button =
     .label = Rozszyrzynia
     .tooltiptext = Rozszyrzynia
 
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } niy doł tyj strōnie sie autōmatycznie przeladować.
@@ -711,6 +818,9 @@ refresh-blocked-redirect-label = { -brand-short-name } niy doł tyj strōnie aut
 refresh-blocked-allow =
     .label = Przizwōl
     .accesskey = P
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -752,3 +862,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Pokoż „{ $popupURI }”
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
