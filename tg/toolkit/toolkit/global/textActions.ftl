@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = З
 text-action-search-text-box-clear =
     .title = Пок кардан
+text-action-highlight-selection-2 =
+    .label = Ҷудокунии интихоб
+    .accesskey = Ҷ
 text-action-highlight-selection =
     .label = Ҷудокунии интихоб
 # This adds a comment to selected text within the PDF viewer.
