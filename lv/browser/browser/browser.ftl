@@ -1183,6 +1183,8 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } uzstāda sastāvdaļas, kas ir nepieciešamas skaņas vai video atskaņošanai šajā lapā. Lūgums vēlāk mēģināt vēlreiz.
+decoder-doctor-learn-how-link = Uzziniet kā
 
 ## Password save/update panel
 
