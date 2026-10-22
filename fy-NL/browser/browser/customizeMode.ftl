@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Oanraakbalke oanpasse…
 customize-mode-downloads-button-autohide =
     .label = Knop ferstopje wannear leech
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Fleksibele romte
+customize-mode-toolbarseparator =
+    .title = Skiedingsteken
+customize-mode-toolbarspacer =
+    .title = Romte
