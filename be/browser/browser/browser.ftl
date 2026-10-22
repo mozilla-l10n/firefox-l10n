@@ -1291,6 +1291,7 @@ decoder-doctor-no-pulse-audio-message = Для прайгравання аўды
 decoder-doctor-unsupported-libavcodec-message = libavcodec можа быць пашкоджаны ці не падтрымліваецца, і павінен быць абноўлены для прайгравання відэа.
 decoder-doctor-decode-error-message = Пры дэкадаванні медыя адбылася памылка.
 decoder-doctor-decode-warning-message = Пры дэкадаванні медыя адбылася памылка, якую можна выправіць.
+decoder-doctor-learn-how-link = Даведацца, як
 decoder-doctor-report-issue-button =
     .label = Паведаміць аб праблеме з сайтам
     .accesskey = П
