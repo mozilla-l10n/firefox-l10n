@@ -740,6 +740,9 @@ toolbar-button-find =
 toolbar-button-developer =
     .label = विकासकर्ता
     .tooltiptext = खुल्ला वेब विकासकर्ता उपकरणहरू ({ $shortcut })
+toolbar-button-forget =
+    .label = बिर्सनुहोस्
+    .tooltiptext = केहि ब्राउजिङ्ग इतिहासका बारेमा बिर्सिनुहोस्
 toolbar-zoom-controls =
     .label = जुम नियन्त्रकहरू
     .title = जुम नियन्त्रकहरू
@@ -759,6 +762,9 @@ toolbar-button-cut =
 toolbar-button-copy =
     .label = प्रतिलिपि गर्नुहोस्
     .tooltiptext = प्रतिलिपि ({ $shortcut })
+toolbar-button-paste =
+    .label = पेस्ट गर्नुहोस्
+    .tooltiptext = ({ $shortcut }) पेस्ट गर्नुहोस्
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
