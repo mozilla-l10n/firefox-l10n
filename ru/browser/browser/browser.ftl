@@ -1279,6 +1279,22 @@ eme-notifications-drm-content-playing-dismiss-accesskey = к
 
 ## Notification bars for media playback issues
 
+decoder-doctor-no-pulse-audio-message = Для воспроизведения аудио вам может потребоваться установить необходимое программное обеспечение PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec может быть уязвим или не поддерживаться и должен быть обновлён для воспроизведения видео.
+decoder-doctor-decode-warning-message = При декодировании медиаресурса произошла ошибка, которую можно исправить.
+decoder-doctor-learn-how-link = Подробнее
+decoder-doctor-report-issue-button =
+    .label = Сообщить о проблеме с сайтом
+    .accesskey = П
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Плагин { $pluginName } аварийно завершил работу.
+plugin-crashed-notification-reload-button =
+    .label = Перезагрузить страницу
+    .accesskey = П
+plugin-crashed-notification-submit-button =
+    .label = Отправить сообщение о падении
+    .accesskey = П
 
 ## Password save/update panel
 
