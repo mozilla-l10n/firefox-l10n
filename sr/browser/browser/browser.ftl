@@ -1249,6 +1249,11 @@ eme-notifications-drm-content-playing-dismiss-accesskey = О
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Омогући DRM
+    .accesskey = ћ
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } инсталира компоненте које су потребне да би се пустио аудио или видео на овој страници. Покушајте поново касније.
+decoder-doctor-learn-how-link = Сазнајте како
 
 ## Password save/update panel
 
