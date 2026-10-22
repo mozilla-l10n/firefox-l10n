@@ -1236,6 +1236,27 @@ eme-notifications-drm-content-playing-dismiss-accesskey = х
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Для відтворення аудіо чи відео на цій сторінці вам потрібно увімкнути DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = Активувати DRM
+    .accesskey = А
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } встановлює компоненти, необхідні для відтворення аудіо чи відео на цій сторінці. Будь ласка, спробуйте знову пізніше.
+decoder-doctor-unsupported-libavcodec-message = libavcodec може бути вразливим або непідтримуваним, тому для відтворення відео його необхідно оновити.
+decoder-doctor-decode-error-message = При декодуванні джерела медіа сталась помилка.
+decoder-doctor-decode-warning-message = При декодуванні джерела медіа сталась помилка, яку можливо виправити.
+decoder-doctor-learn-how-link = Навчитися
+decoder-doctor-report-issue-button =
+    .label = Проблема з сайтом
+    .accesskey = П
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Плагін { $pluginName } аварійно завершив роботу.
+plugin-crashed-notification-reload-button =
+    .label = Перезавантажити сторінку
+    .accesskey = П
+plugin-crashed-notification-submit-button =
+    .label = Надіслати звіт про цей збій
+    .accesskey = з
 
 ## Password save/update panel
 
