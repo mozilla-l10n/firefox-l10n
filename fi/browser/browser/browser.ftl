@@ -1265,6 +1265,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Ota DRM-tuki käyttöön
+    .accesskey = O
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } asentaa komponentteja, joita tarvitaan toistamaan sivun äänitteitä tai videoita. Yritä myöhemmin uudestaan.
 
 ## Password save/update panel
 
