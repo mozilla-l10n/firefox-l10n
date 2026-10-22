@@ -1242,6 +1242,7 @@ eme-notifications-drm-content-disabled-message = このページの音声や動�
 eme-notifications-drm-content-disabled-button =
     .label = DRM を有効にする
     .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = このページの音声や映像の再生に必要なコンポーネントをインストールしています。後で試してください。
 
 ## Password save/update panel
 
