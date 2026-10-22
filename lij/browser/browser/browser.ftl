@@ -650,11 +650,16 @@ eme-notifications-drm-content-playing = Quarche contegnuo aodio ò video in sto 
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Ativa DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = Inpostaçioin in corso dei componenti necessari pe riproduî i contegnui aodio ò video prezenti inta pagina. Preuva torna ciù tardi.
 decoder-doctor-no-codecs-linux-message = Pe vedde o video ti doviesci instalâ i codec video domandæ.
 decoder-doctor-no-hw-acceleration-message = Pe vedde megio o video ti doviesci instalâ o Media Feature Pack de Microsoft.
 decoder-doctor-no-pulse-audio-message = Pe sentî sto òudio ti doviesci instalâ o software PulseAudio domandou.
 decoder-doctor-unsupported-libavcodec-message = libavcodec o peu êse vulenrabile ò no soportou, e ti doviesci agiornalo pe vedde sto video.
 decoder-doctor-decode-error-message = S'é verificou 'n'erô inta decodifica da risorsa media.
+decoder-doctor-decode-warning-message = Gh'é stæto 'n erô che ghe se peu dâ recatto mentre faxeivo a decodifica de 'na risorsa media.
 decoder-doctor-learn-how-link = Comme se fa
 decoder-doctor-report-issue-button =
     .label = Denonçia Problema Scito
