@@ -879,6 +879,15 @@ decoder-doctor-learn-how-link = Gouzout penaos
 decoder-doctor-report-issue-button =
     .label = Danevelliñ ur gudenn lec'hienn
     .accesskey = A
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Sac'het eo an enlugellad { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Adkargañ ar bajennad
+    .accesskey = A
+plugin-crashed-notification-submit-button =
+    .label = Kas un danevell sac'hadenn
+    .accesskey = K
 
 ## Password save/update panel
 
