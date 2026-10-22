@@ -1239,6 +1239,18 @@ toolbar-button-zoom-reset-tooltip = Nagyítási szint visszaállítása ({ $shor
 toolbar-button-zoom-in =
     .label = Nagyítás
     .tooltiptext = Nagyítás ({ $shortcut })
+toolbar-edit-controls =
+    .label = Szerkesztésvezérlők
+    .title = Vezérlőelemek szerkesztése
+toolbar-button-cut =
+    .label = Kivágás
+    .tooltiptext = Kivágás ({ $shortcut })
+toolbar-button-copy =
+    .label = Másolás
+    .tooltiptext = Másolás ({ $shortcut })
+toolbar-button-paste =
+    .label = Beillesztés
+    .tooltiptext = Beillesztés ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
