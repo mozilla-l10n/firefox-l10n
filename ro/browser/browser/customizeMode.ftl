@@ -43,3 +43,7 @@ customize-mode-downloads-button-autohide =
 
 customize-mode-toolbarspring =
     .title = Spațiu flexibil
+customize-mode-toolbarseparator =
+    .title = Separator
+customize-mode-toolbarspacer =
+    .title = Spațiu
