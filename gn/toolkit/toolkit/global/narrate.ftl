@@ -8,9 +8,26 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+# Label for the toolbar button opening the read aloud menu.
+narrate-toggle-label = Emoñe’ẽ ayvúpe ({ $shortcut })
+narrate-skip-previous =
+    .title = Tapykue ({ $shortcut })
+narrate-start =
+    .title = Ñepyrũ ({ $shortcut })
+narrate-stop =
+    .title = Pyta ({ $shortcut })
+narrate-skip-next =
+    .title = Tenonde ({ $shortcut })
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = Emoñe’ẽ ayvúpe
+narrate-rate-slow =
+    .title = Emombegue ñemombe’u
+narrate-rate-fast =
+    .title = Embopya’e ñemombe’u
+narrate-voice-header = Ayvu
 # Default voice is determined by the language of the document.
 narrate-voice-default = Ijypykue
 # Label for a voice in the voice selector, e.g. "David (English)".
