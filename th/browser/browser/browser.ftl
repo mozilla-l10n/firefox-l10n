@@ -1186,6 +1186,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ด
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = เปิดใช้งาน DRM
+    .accesskey = ป
+decoder-doctor-no-hw-acceleration-message = เพื่อปรับปรุงคุณภาพวิดีโอ คุณอาจจำเป็นต้องติดตั้ง Media Feature Pack ของ Microsoft
 
 ## Password save/update panel
 
