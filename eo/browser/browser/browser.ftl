@@ -1264,6 +1264,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Aktivigi DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } nun instalas komponantojn bezonatajn por ludi la sonon aŭ filmeton en tiu ĉi paĝo. Bonvolu klopodi denove poste.
+decoder-doctor-no-codecs-linux-message = Por ludi videon vi eble devos instali la postulatajn videajn kodekojn.
+decoder-doctor-no-hw-acceleration-message = Por plibonigi la videan kvaliton, vi eble devos instali Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Por ludi sonon, vi eble devos instali la postulatajn programojn de PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec povas esti sendefenda aŭ ne subtenata. Oni devus ĝisdatigi ĝin antaŭ ol ludi videon.
+decoder-doctor-decode-error-message = Eraro okazis dum malkodado de aŭdvidaĵo.
+decoder-doctor-decode-warning-message = Solvebla eraro okazis dum malkodado de aŭdvidaĵo.
+decoder-doctor-learn-how-link = Lernu kiel fari
+decoder-doctor-report-issue-button =
+    .label = Raporti problemon de retejo
+    .accesskey = R
 
 ## Password save/update panel
 
