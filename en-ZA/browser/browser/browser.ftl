@@ -265,6 +265,40 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = New Private Window
     .tooltiptext = Open a new Private Browsing window ({ $shortcut })
+toolbar-button-history =
+    .label = History
+    .tooltiptext = Show your history ({ $shortcut })
+toolbar-button-find =
+    .label = Find
+    .tooltiptext = Find in this page ({ $shortcut })
+toolbar-button-developer =
+    .label = Developer
+    .tooltiptext = Open Web developer tools ({ $shortcut })
+toolbar-button-forget =
+    .label = Forget
+    .tooltiptext = Forget about some browsing history
+toolbar-zoom-controls =
+    .label = Zoom Controls
+    .title = Zoom controls
+toolbar-button-zoom-out =
+    .label = Zoom out
+    .tooltiptext = Zoom out ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Reset zoom level ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zoom in
+    .tooltiptext = Zoom in ({ $shortcut })
+toolbar-edit-controls =
+    .label = Edit Controls
+    .title = Edit controls
+toolbar-button-cut =
+    .label = Cut
+    .tooltiptext = Cut ({ $shortcut })
+toolbar-button-copy =
+    .label = Copy
+    .tooltiptext = Copy ({ $shortcut })
+toolbar-button-paste =
+    .label = Paste
+    .tooltiptext = Paste ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -275,6 +309,7 @@ toolbar-button-new-private-window =
 eme-notifications-drm-content-playing = Some audio or video on this site uses DRM software, which may limit what { -brand-short-name } can let you do with it.
 
 ## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -290,11 +325,9 @@ ui-tour-info-panel-close =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
 
 
 ##
