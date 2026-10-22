@@ -1270,9 +1270,16 @@ eme-notifications-drm-content-playing-dismiss-accesskey = უ
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = ამ გვერდზე ზოგიერთი ხმოვანი ან ვიდეოფაილის გასაშვებად უნდა ჩართოთ DRM.
 decoder-doctor-no-codecs-linux-message = ვიდეოს გასაშვებად შეიძლება დაგჭირდეთ შესაბამისი ვიდეომშიფრავების დაყენება.
 decoder-doctor-no-hw-acceleration-message = ვიდეოს ხარისხის გასაუმჯობესებლად, შეიძლება დაგჭირდეთ Microsoft Media Feature Pack-ის დაყენება.
 decoder-doctor-no-pulse-audio-message = აუდიოს გასაშვებად, შეიძლება დაგჭირდეთ PulseAudio პროგრამა.
+decoder-doctor-decode-error-message = შეცდომა, მედიაფაილის გაშიფვრისას.
+decoder-doctor-decode-warning-message = აღდგენადი შეცდომა, მედიაფაილის გაშიფვრისას.
+decoder-doctor-learn-how-link = ნახეთ როგორ
+decoder-doctor-report-issue-button =
+    .label = საიტის ხარვეზის მოხსენება
+    .accesskey = მ
 
 ## Password save/update panel
 
