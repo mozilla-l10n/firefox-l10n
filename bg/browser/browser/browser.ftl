@@ -1068,6 +1068,11 @@ eme-notifications-drm-content-playing-dismiss-accesskey = р
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Трябва да активирате DRM, за да възпроизведете аудио или видео на тази страница.
+eme-notifications-drm-content-disabled-button =
+    .label = Включване на DRM
+    .accesskey = В
+decoder-doctor-learn-how-link = Научете как
 
 ## Password save/update panel
 
