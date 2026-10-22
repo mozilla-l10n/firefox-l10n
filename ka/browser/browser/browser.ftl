@@ -1271,15 +1271,29 @@ eme-notifications-drm-content-playing-dismiss-accesskey = უ
 ## Notification bars for media playback issues
 
 eme-notifications-drm-content-disabled-message = ამ გვერდზე ზოგიერთი ხმოვანი ან ვიდეოფაილის გასაშვებად უნდა ჩართოთ DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = ჩაირთოს DRM
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } აყენებს ამ გვერდზე ხმოვანი ფაილის ან ვიდეოს გასაშვებად საჭირო პროგრამულ ნაწილებს. მოითმინეთ და სცადეთ ახლიდან.
 decoder-doctor-no-codecs-linux-message = ვიდეოს გასაშვებად შეიძლება დაგჭირდეთ შესაბამისი ვიდეომშიფრავების დაყენება.
 decoder-doctor-no-hw-acceleration-message = ვიდეოს ხარისხის გასაუმჯობესებლად, შეიძლება დაგჭირდეთ Microsoft Media Feature Pack-ის დაყენება.
 decoder-doctor-no-pulse-audio-message = აუდიოს გასაშვებად, შეიძლება დაგჭირდეთ PulseAudio პროგრამა.
+decoder-doctor-unsupported-libavcodec-message = libavcodec შესაძლოა, დაუცველია ან არაა მხარდაჭერილი და ვიდეოს გასაშვებად საჭიროა მისი განახლება.
 decoder-doctor-decode-error-message = შეცდომა, მედიაფაილის გაშიფვრისას.
 decoder-doctor-decode-warning-message = აღდგენადი შეცდომა, მედიაფაილის გაშიფვრისას.
 decoder-doctor-learn-how-link = ნახეთ როგორ
 decoder-doctor-report-issue-button =
     .label = საიტის ხარვეზის მოხსენება
     .accesskey = მ
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } მოდული უეცრად გაითიშა.
+plugin-crashed-notification-reload-button =
+    .label = გვერდის ხელახლა გახსნა
+    .accesskey = ხ
+plugin-crashed-notification-submit-button =
+    .label = უეცარი გათიშვის მოხსენების გადაგზავნა
+    .accesskey = გ
 
 ## Password save/update panel
 
