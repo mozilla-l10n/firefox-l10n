@@ -8,10 +8,14 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+narrate-skip-previous =
+    .title = Tilbage ({ $shortcut })
 narrate-start =
     .title = Start ({ $shortcut })
 narrate-stop =
     .title = Stop ({ $shortcut })
+narrate-skip-next =
+    .title = Frem ({ $shortcut })
 
 ##
 
