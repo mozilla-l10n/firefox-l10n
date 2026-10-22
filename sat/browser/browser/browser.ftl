@@ -928,6 +928,16 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱥᱟᱰᱮ ᱟᱨᱵᱟᱝ ᱣᱤᱰᱤᱭᱚ ᱪᱟᱹᱞᱩ ᱞᱟᱹᱜᱤᱫ DRM ᱮᱢ ᱛᱮ ᱦᱤᱭᱟᱢᱟ ᱾
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } ᱯᱟᱥᱱᱟᱣ ᱫᱚ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾
+plugin-crashed-notification-reload-button =
+    .label = ᱥᱟᱦᱴᱟ ᱫᱚᱦᱲᱟ ᱞᱟᱫᱮ ᱢᱮ
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ᱢᱤᱫ ᱴᱟᱹᱝ ᱰᱤᱜᱟᱹᱣ ᱨᱤᱯᱚᱴ ᱡᱚᱢᱟᱭ ᱢᱮ
+    .accesskey = S
 
 ## Password save/update panel
 
