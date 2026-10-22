@@ -1279,7 +1279,21 @@ decoder-doctor-no-codecs-linux-message = Video oynatmak için gereken video code
 decoder-doctor-no-hw-acceleration-message = Video kalitesini yükseltmek için Microsoft’tan Media Feature Pack’i yüklemeniz gerekebilir.
 decoder-doctor-no-pulse-audio-message = Ses çalmak için gereken PulseAudio yazılımını yüklemeniz gerekebilir.
 decoder-doctor-unsupported-libavcodec-message = libavcodec güvenli değil veya desteklenmiyor. Video oynatmak için güncellenmesi gerekiyor.
+decoder-doctor-decode-error-message = Bir multimedya kaynağı çözülürken hata oluştu.
+decoder-doctor-decode-warning-message = Bir multimedya kaynağı çözülürken kurtarılabilir bir hata oluştu.
 decoder-doctor-learn-how-link = Nasıl yapılacağını öğren
+decoder-doctor-report-issue-button =
+    .label = Site sorununu bildir
+    .accesskey = S
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } yan uygulaması çöktü.
+plugin-crashed-notification-reload-button =
+    .label = Sayfayı tazele
+    .accesskey = S
+plugin-crashed-notification-submit-button =
+    .label = Çökme raporu gönder
+    .accesskey = r
 
 ## Password save/update panel
 
