@@ -1248,6 +1248,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Միացնել DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name }-ը տեղադրում է թարմացումներ, որոնք պետք են այս էջի ձայնանյութը և տեսանյութը նվագարկելու համար: Փորձեք ավելի ուշ:
+decoder-doctor-no-codecs-linux-message = Տեսանյութը նվագարկելու համար պետք է տեղադրեք պահանջվող տեսակոդեկները:
+decoder-doctor-no-hw-acceleration-message = Տեսանյութի որակը լավարկելու համար պետք է տեղադրեք Microsoft-ի Media Feature Pack-ը:
+decoder-doctor-no-pulse-audio-message = Ձայնագրությունը նվագարկելու համար անհրաժեշտ կլինի տեղադրել պահանջվող PulseAudio ծրագրակազմը:
+decoder-doctor-unsupported-libavcodec-message = libavcodec-ը կարող է խոցելի կամ չաջակցված լինել և պետք է թարմացվի, որ նվագարկվի տեսանյութը։
+decoder-doctor-decode-error-message = Սխալ՝ մեդիայի պաշարը ապակոդավորելիս:
+decoder-doctor-decode-warning-message = Ուղղելի սխալ է պատահել՝ մեդիայի ռեսուրսը ապակոդավորելիս:
+decoder-doctor-learn-how-link = Սովորել, թե ինչպես
+decoder-doctor-report-issue-button =
+    .label = Զեկուցել կայքի խնդրի մասին
+    .accesskey = R
 
 ## Password save/update panel
 
