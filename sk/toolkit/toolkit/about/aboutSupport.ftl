@@ -279,9 +279,9 @@ crashes-time-days =
 # $reports (integer) - Number of pending reports
 pending-reports =
     { $reports ->
-        [one] Všetky správy o zlyhaní (vrátane { $reports } čakajúcej správy za dané obdobie)
-        [few] Všetky správy o zlyhaní (vrátane { $reports } čakajúcich správ za dané obdobie)
-       *[other] Všetky správy o zlyhaní (vrátane { $reports } čakajúcich správ za dané obdobie)
+        [one] Všetky hlásenia o zlyhaní (vrátane { $reports } čakajúceho hlásenia za dané obdobie)
+        [few] Všetky hlásenia  o zlyhaní (vrátane { $reports } čakajúcich hlásení za dané obdobie)
+       *[other] Všetky hlásenia  o zlyhaní (vrátane { $reports } čakajúcich hlásení za dané obdobie)
     }
 raw-data-copied = Údaje boli skopírované do schránky
 text-copied = Text bol skopírovaný do schránky

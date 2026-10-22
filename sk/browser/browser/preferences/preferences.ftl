@@ -1847,7 +1847,7 @@ addon-recommendations3 =
 # or builds with no Telemetry support available.
 collection-health-report-disabled2 = Odosielanie údajov je v konfigurácii tohto zostavenia zakázané.
 collection-backlogged-crash-reports2 =
-    .label = Automaticky odosielať správy o zlyhaní
+    .label = Automaticky odosielať hlásenia o zlyhaní
     .accesskey = A
 collection-backlogged-crash-reports-description = Toto umožňuje { -vendor-short-name(case: "dat") } diagnostikovať a opraviť problémy s prehliadačom. Hlásenia môžu obsahovať osobné alebo citlivé údaje.
 # Promotional message displayed in the Settings panes to inform users of the new redesign
@@ -1887,8 +1887,8 @@ data-collection-run-studies =
 data-collection-studies-link =
     .label = Zobraziť štúdie aplikácie { -brand-short-name }
 data-collection-backlogged-crash-reports =
-    .description = Toto pomáha { -vendor-short-name(case: "dat") } diagnostikovať a opraviť problémy s prehliadačom. Správy môžu obsahovať osobné alebo citlivé údaje.
-    .label = Automaticky odosielať správy o zlyhaní
+    .description = Toto pomáha { -vendor-short-name(case: "dat") } diagnostikovať a opraviť problémy s prehliadačom. Hlásenia môžu obsahovať osobné alebo citlivé údaje.
+    .label = Automaticky odosielať hlásenia o zlyhaní
     .accesskey = z
 data-collection-usage-ping =
     .description = Toto pomáha spoločnosti { -vendor-short-name } odhadnúť počet aktívnych používateľov.

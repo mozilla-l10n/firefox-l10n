@@ -5,7 +5,7 @@
 crashreporter-branded-title = Oznamovateľ zlyhania { -brand-short-name(case: "gen") }
 crashreporter-apology = Ospravedlňujeme sa!
 crashreporter-crashed-and-restore = { -brand-short-name } sa stretol s neočakávaným problémom a zlyhal. Po reštartovaní sa pokúsime obnoviť vaše karty a okná.
-crashreporter-plea = Ak nám chcete pomôcť diagnostikovať a vyriešiť problém, môžete nám odoslať správu o zlyhaní.
+crashreporter-plea = Ak nám chcete pomôcť diagnostikovať a vyriešiť problém, môžete nám odoslať hlásenie o zlyhaní.
 crashreporter-information = Táto aplikácia sa spúšťa po zlyhaní za účelom nahlásenia problému { -vendor-short-name(case: "dat") }. Nemala by sa spúšťať priamo.
 crashreporter-error = { -brand-short-name } sa stretol s neočakávaným problémom a zlyhal. Funkcia Oznamovateľ zlyhania bohužiaľ nemohla odoslať správu o tejto chybe.
 crashreporter-error-details-header = Podrobnosti:
@@ -18,7 +18,7 @@ crashreporter-report-info = Táto správa obsahuje aj technické údaje o stave 
 crashreporter-checkbox-test-hardware = Skontrolovať problémy s hardvérom a konfiguráciou na mojom zariadení.
 crashreporter-checkbox-send-report = Oznámiť { -vendor-short-name(case: "dat") } toto zlyhanie, aby bolo možné problém odstrániť
 crashreporter-checkbox-include-url = Zahrnúť adresu stránky, ktorú som prehliadal pri zlyhaní.
-crashreporter-submit-status = Správa o zlyhaní bude odoslaná pred reštartom alebo ukončením aplikácie.
+crashreporter-submit-status = Hlásenie o zlyhaní bude odoslané pred reštartom alebo ukončením aplikácie.
 crashreporter-submit-waiting-hardware-tests = Kontrolujú sa problémy s hardvérom a konfiguráciou…
 crashreporter-submit-in-progress = Odosiela sa…
 crashreporter-submit-success = Správa bola úspešne odoslaná!
@@ -32,9 +32,6 @@ crashreporter-button-close = Zavrieť
 crashreporter-crash-identifier = ID zlyhania: { $id }
 # $url (String) - the url which the user can use to view the submitted crash report
 crashreporter-crash-details = Podrobnosti o zlyhaní si môžete pozrieť na stránke { $url }.
-
-# Error strings
-
 # $path (String) - the file path
 crashreporter-error-opening-file = Nepodarilo sa otvoriť súbor ({ $path })
 # $path (String) - the file path
@@ -45,5 +42,5 @@ crashreporter-error-no-home-dir = Chýbajúci domovský priečinok
 # $from (String) - the source path
 # $to (String) - the destination path
 crashreporter-error-moving-path = Nepodarilo sa presunúť z { $from } do { $to }
-crashreporter-error-version-eol = Verzia s ukončenou podporou: správy o zlyhaní už nie sú akceptované.
+crashreporter-error-version-eol = Verzia s ukončenou podporou: hlásenia o zlyhaní už nie sú akceptované.
 crashreporter-error-failed-to-generate-minidump = Aplikácii sa nepodarilo vygenerovať informácie o zlyhaní.
