@@ -1267,9 +1267,14 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 ## Notification bars for media playback issues
 
 eme-notifications-drm-content-disabled-message = Du må aktivere DRM for å spille lyd eller video på denne siden.
+eme-notifications-drm-content-disabled-button =
+    .label = Slå på DRM
+    .accesskey = S
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installerer komponentene som trengs for å spille av lyden eller videoen på denne siden. Prøv igjen senere.
 decoder-doctor-no-codecs-linux-message = For å spille av videoer må du installere de påkrevde video-kodekene.
 decoder-doctor-no-hw-acceleration-message = For å forbedre videokvalitet må du kanskje installere Microsofts Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = For å spille av lyd, må du kanskje installere den påkrevde PulseAudio-programvaren.
+decoder-doctor-unsupported-libavcodec-message = libavcode kan være sårbart eller ikke støttet, og burde oppdateres for å spille video.
 decoder-doctor-learn-how-link = Finn ut hvordan
 
 ## Password save/update panel
