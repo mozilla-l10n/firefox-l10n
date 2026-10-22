@@ -24,5 +24,5 @@ sandbox-missing-unprivileged-namespaces = Μερικές από τις λειτ�
 sandbox-unprivileged-namespaces-dismiss-button =
     .label = Να μην εμφανιστεί ξανά
     .accesskey = Ν
-sandbox-unprivileged-namespaces-howtofix = Τρόπος διόρθωσης του ζητήματος
+sandbox-unprivileged-namespaces-howtofix = Οδηγίες διόρθωσης του ζητήματος
 sandbox-content-disabled-warning = Το sandbox ασφαλείας είναι ανενεργό. Η ρύθμισή σας δεν υποστηρίζεται και είναι λιγότερο ασφαλής.

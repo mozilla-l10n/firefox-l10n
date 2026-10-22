@@ -3,4 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 rosetta-translated-message = Το { -brand-short-name } εκτελείται μέσω του Rosetta, γεγονός που μπορεί να μειώσει τις επιδόσεις και τη διάρκεια ζωής της μπαταρίας.
-rosetta-translated-launch-without-rosetta = Τρόπος εκκίνησης χωρίς το Rosetta
+rosetta-translated-launch-without-rosetta = Οδηγίες εκκίνησης χωρίς το Rosetta
