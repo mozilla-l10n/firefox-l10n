@@ -413,6 +413,20 @@ eme-notifications-drm-content-playing = இந்த தளத்தில் �
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM என்பதை செயற்படுத்து
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } கூறுகளை நிறுவுகிறது எனவே இந்தப் பக்கத்தில் பாடல் அல்லது காணொளி இயக்க வேண்டும். பின்னர் மீண்டும் முயற்சிக்கவும்.
+decoder-doctor-no-codecs-linux-message = காணொளியை இயக்க, தேவையான குறியாக்கிகளை நிறுவ வேண்டி இருக்கலாம்.
+decoder-doctor-no-hw-acceleration-message = காணோளி தரத்தை மேம்படுத்த, மைரரோசாப்டின் ஊடக கட்டு வசதியை நிறுவ வேண்டி இருக்கலாம்.
+decoder-doctor-no-pulse-audio-message = காணொளியை இயக்க, தேவையான பல்ஸ்ஆடியோ மென்பொருளை நிறுவ வேண்டி இருக்கலாம்.
+decoder-doctor-unsupported-libavcodec-message = libavcodec பாதுகாப்பற்றதாகவோ ஆதரிக்கப்படாததாகவோ இருக்கலாம், காணொளியை இயக்க அதனைப் புதுப்பிக்க வேண்டும்.
+decoder-doctor-decode-error-message = ஊடக வளத்தைக் குறிவிழக்கும்பொருட்டு ஒரு பிழை ஏற்பட்டது
+decoder-doctor-decode-warning-message = ஊடக வளத்தைக் குறிவிழக்கும்பொருட்டு திரும்பப்பெறக் கூடிய பிழை ஏற்பட்டது.
+decoder-doctor-learn-how-link = எப்படியென்று அறி
+decoder-doctor-report-issue-button =
+    .label = தள சிக்கலைத் தெரிவி
+    .accesskey = ர
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = இந்த { $pluginName } கூடுதல் இணைப்பு சேதமடைந்தது.
