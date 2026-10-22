@@ -8,6 +8,10 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+# Label for the toolbar button opening the read aloud menu.
+narrate-toggle-label = Laut vorlesen ({ $shortcut })
+narrate-skip-previous =
+    .title = Zurück ({ $shortcut })
 narrate-start =
     .title = Wiedergeben ({ $shortcut })
 narrate-stop =
@@ -17,6 +21,10 @@ narrate-skip-next =
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = Laut vorlesen
+narrate-rate-slow =
+    .title = Vorlesen verlangsamen
 narrate-rate-fast =
     .title = Vorlesen beschleunigen
 narrate-voice-header = Stimme
