@@ -695,6 +695,14 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Paganahin ang DRM
+    .accesskey = E
+decoder-doctor-no-codecs-linux-message = Upang may-play ng video, maaaring kailanganin mong i-install ang kinakailangang mga video codec.
+decoder-doctor-no-hw-acceleration-message = Upang mapabuti ang kalidad ng video, maaaring kailanganin mong i-install ang Media Feature Pack ng Microsoft.
+decoder-doctor-no-pulse-audio-message = Upang mag-play ng audio, maaaring kailangan mong i-install ang kinakailangang software na PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = maaaring mahina ang libavcodec o hindi suportado, at dapat ma-update upang i-play ang video.
+decoder-doctor-decode-error-message = May naganap na error habang nagde-decode sa pinagkukuhanan ng media.
 decoder-doctor-decode-warning-message = Isang recoverable na error ang naganap habang nagde-decode sa pinagkukuhanan ng media.
 decoder-doctor-report-issue-button =
     .label = Mag-report ng Issue sa Site
