@@ -628,6 +628,15 @@ decoder-doctor-learn-how-link = Necə edəcəyini öyrən
 decoder-doctor-report-issue-button =
     .label = Sayt Problemini Bildir
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } əlavə proqramı çökdü.
+plugin-crashed-notification-reload-button =
+    .label = Səhifəni yenilə
+    .accesskey = y
+plugin-crashed-notification-submit-button =
+    .label = Çökmə hesabatını göndər
+    .accesskey = g
 
 ## Password save/update panel
 
