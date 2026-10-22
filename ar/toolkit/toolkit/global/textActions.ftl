@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = ت
 text-action-search-text-box-clear =
     .title = امسح
+text-action-highlight-selection-2 =
+    .label = لون التحديد
+    .accesskey = ل
 text-action-highlight-selection =
     .label = لون التحديد
 # This adds a comment to selected text within the PDF viewer.
