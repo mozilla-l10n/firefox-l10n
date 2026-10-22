@@ -36,6 +36,9 @@ urlbar-identity-button2 =
             [few] Переглянути інформацію про сайт (заблоковано { $count } вистежувачі)
            *[many] Переглянути інформацію про сайт (заблоковано { $count } вистежувачів)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Перегляд інформації про сайт
 
@@ -722,6 +725,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсоровано
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Запитати
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1111,7 +1119,8 @@ repair-text-encoding-button =
     .label = Виправити кодування тексту
     .tooltiptext = Вгадувати правильне кодування тексту із вмісту сторінки
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1174,6 +1183,28 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Групи вкладок
     .tooltiptext = Показати групи вкладок
+toolbar-zoom-controls =
+    .label = Керування масштабом
+    .title = Інструменти керування масштабом
+toolbar-button-zoom-out =
+    .label = Зменшити
+    .tooltiptext = Зменшити ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Скинути масштаб ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Збільшити
+    .tooltiptext = Збільшити ({ $shortcut })
+toolbar-edit-controls =
+    .label = Інструменти редагування
+    .title = Інструменти редагування
+toolbar-button-cut =
+    .label = Вирізати
+    .tooltiptext = Вирізати ({ $shortcut })
+toolbar-button-copy =
+    .label = Копіювати
+    .tooltiptext = Копіювати ({ $shortcut })
+toolbar-button-paste =
+    .label = Вставити
+    .tooltiptext = Вставити ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1190,6 +1221,9 @@ eme-notifications-drm-content-playing-manage = Керувати налаштув
 eme-notifications-drm-content-playing-manage-accesskey = К
 eme-notifications-drm-content-playing-dismiss = Відхилити
 eme-notifications-drm-content-playing-dismiss-accesskey = х
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1243,6 +1277,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1289,6 +1326,13 @@ restore-session-startup-suggestion-button = Покажіть як
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Ваша організація заблокувала доступ до локальних файлів на цьому комп'ютері
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1369,6 +1413,10 @@ reset-pbm-panel-complete = Дані приватного сеансу видал
 reset-pbm-toolbar-button2 =
     .label = Стерти приватний сеанс
     .tooltiptext = Стерти приватний сеанс
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1468,6 +1516,13 @@ file-picker-crashed-open = Стався збій діалогового вікн
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Стався збій діалогового вікна провідника Windows. Файл буде збережено в { $path }.
 file-picker-crashed-save-nowhere = Стався збій діалогового вікна провідника Windows. Неможливо знайти типову теку. Файл не буде збережено.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Показати у теці
     .accessKey = П
@@ -1520,6 +1575,9 @@ trustpanel-blocker-see-all = Показати все
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Захист від стеження для { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
