@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = J
 text-action-search-text-box-clear =
     .title = Izbriši
+text-action-highlight-selection-2 =
+    .label = Istakni odabir
+    .accesskey = s
 text-action-highlight-selection =
     .label = Istakni odabir
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
