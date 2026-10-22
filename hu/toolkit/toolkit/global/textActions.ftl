@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = N
 text-action-search-text-box-clear =
     .title = Törlés
+text-action-highlight-selection-2 =
+    .label = Kijelölés kiemelése
+    .accesskey = K
 text-action-highlight-selection =
     .label = Kijelölés kiemelése
 # This adds a comment to selected text within the PDF viewer.
