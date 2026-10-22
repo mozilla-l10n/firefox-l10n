@@ -1201,6 +1201,15 @@ decoder-doctor-learn-how-link = เรียนรู้วิธี
 decoder-doctor-report-issue-button =
     .label = รายงานปัญหาไซต์
     .accesskey = ร
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = ปลั๊กอิน { $pluginName } ขัดข้อง
+plugin-crashed-notification-reload-button =
+    .label = โหลดหน้าใหม่
+    .accesskey = ห
+plugin-crashed-notification-submit-button =
+    .label = ส่งรายงานข้อขัดข้อง
+    .accesskey = ส
 
 ## Password save/update panel
 
