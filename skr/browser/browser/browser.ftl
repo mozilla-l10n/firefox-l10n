@@ -1270,6 +1270,21 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = تہاکوں ایں ورقے تے کجھ آڈیو یا ویڈیو چلاوݨ کیتے DRM  کوں فعال کرݨا چاہیدا ہے۔
+eme-notifications-drm-content-disabled-button =
+    .label = DRM فعال کرو
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ایں ورقے تے آڈیو یا ویڈیو چلاوݨ کیتے ضروری اجزاء انسٹال کریندا پیا ہے۔ براہ کرم کجھ دیر بعد کوشش کرو۔
+decoder-doctor-no-codecs-linux-message = ویڈیو چلاوݨ کیتے، تہاکوں مطلوبہ ویڈیو کوڈیکس انسٹال کرݨ دی لوڑ پئے سڳدی اے۔
+decoder-doctor-no-hw-acceleration-message = ویڈیو دے معیار کوں بہتر بݨاوݨ کیتے، تہاکوں Microsoft دا میڈیا فیچر پیک انسٹال کرݨ دی ضرورت پئے سڳدی ہے۔
+decoder-doctor-no-pulse-audio-message = آڈیوں کوں چلاوݨ کیتے، تہاکوں مطلوبہ PulseAudio سافٹ ویئر انسٹال کرݨ دی ضرورت پئےسڳدی ہے۔
+decoder-doctor-unsupported-libavcodec-message = libavcodec کمزور تھی سڳدا ہے یا تعاون یافتہ کائنی، تے ویڈیو چلاوݨ کیتے اینکوں اپ ڈیٹ کیتا ونڄݨا چاہیدا ہے۔
+decoder-doctor-decode-error-message = میڈیا ریسورس کوں ڈی کوڈ کریندے ویلھے ہک خرابی پیش آڳئی ہے۔
+decoder-doctor-decode-warning-message = میڈیا ریسورس کوں ڈی کوڈ کریندے ویلھے ہک قابل بازیافت خرابی پیش آڳئی ہے۔
+decoder-doctor-learn-how-link = ڄاݨو کیویں
+decoder-doctor-report-issue-button =
+    .label = سائٹ دا مسئلہ رپورٹ کرو
+    .accesskey = R
 
 ## Password save/update panel
 
