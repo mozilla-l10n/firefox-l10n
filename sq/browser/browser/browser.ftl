@@ -1068,6 +1068,30 @@ eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Që të luhet video ose audio në këtë faqe, duhet të aktivizoni DRM-në.
+eme-notifications-drm-content-disabled-button =
+    .label = Aktivizoje DRM-n
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name }-i po instalon përbërës të nevojshëm për të luajtur audio ose video në këtë faqe. Ju lutemi, riprovoni më vonë.
+decoder-doctor-no-codecs-linux-message = Që të luani videon, mund t’ju duhet të instaloni kodekët e domosdoshëm për video.
+decoder-doctor-no-hw-acceleration-message = Që të përmirësoni cilësinë e videos, mund t’ju duhet të instaloni Media Feature Pack të Microsoft-it.
+decoder-doctor-no-pulse-audio-message = Që të luhet audio, mund  t’ju duhet të instaloni software-in e domosdoshëm PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec mund të jetë i cenueshëm, ose nuk mbulohet dhe duhet përditësuar që të luhet videoja.
+decoder-doctor-decode-error-message = Ndodhi një gabim gjatë shkodimit të një burimi media.
+decoder-doctor-decode-warning-message = Ndodhi një gabim i riparueshëm gjatë shkodimit të një burimi media.
+decoder-doctor-learn-how-link = Mësoni se si
+decoder-doctor-report-issue-button =
+    .label = Raporto problem sajti
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Shtojca { $pluginName } u vithis.
+plugin-crashed-notification-reload-button =
+    .label = Ringarkoje faqen
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Parashtroni një njoftim vithisjeje
+    .accesskey = P
 
 ## Password save/update panel
 
