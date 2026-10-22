@@ -26,6 +26,7 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 ## Holiday Promotion Callout
 
 ipprotection-holiday-promo-primary-button = Отворете VPN
+ipprotection-holiday-promo-title-1 = Вземете неограничен VPN до 31 януари
 
 ## Panel
 
@@ -65,6 +66,7 @@ ipprotection-message-bandwidth-warning =
 ipprotection-message-bandwidth-warning-mb =
     .heading = Приближавате се до своя VPN лимит
     .message = Остават ви { $usageLeft } MB от { $maxUsage } GB този месец.
+confirmation-hint-ipprotection-navigated-to-included-site = VPN е включено за този сайт
 
 ## IP Protection bandwidth callouts
 

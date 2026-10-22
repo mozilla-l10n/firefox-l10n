@@ -1733,6 +1733,16 @@ permissions-data-section =
     .heading = Права и данни
 pane-permissions-data-title2 = Права и данни
     .title = Права и данни
+notifications-section-header =
+    .heading = Известия
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Уебсайт
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Никога
 
 ## Privacy Section - Data Collection
 
@@ -2059,6 +2069,9 @@ preferences-ai-controls-key-points-control =
 preferences-ai-controls-speech-recognition-control =
     .description = Транскрибиране на реч локално.
     .label = Разпознаване на реч
+preferences-ai-controls-sidebar-chatbot-group-3 =
+    .description = Дръжте чатбота видим, докато сърфирате. Изберете от множество доставчици и сменете по всяко време.
+    .label = Доставчици на чатбот с AI в страничната лента
 preferences-ai-controls-sidebar-chatbot-group =
     .description = Задържане на чатбота на екрана при сърфиране. Избор между Anthropic Claude, ChatGPT, Copilot, Google Gemini и Le Chat Mistral.
     .label = Доставчици на чатбот с AI в страничната лента
