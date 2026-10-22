@@ -620,7 +620,14 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } bu səhifədəki səs və videonu oynatmaq üçün lazım olan parçaları qurur. Lütfən daha sonra təkrar yoxlayın.
 decoder-doctor-no-codecs-linux-message = Videonu oynatmaq üçün tələb edilən video kodeklərini qurmağınız lazımdır.
 decoder-doctor-no-hw-acceleration-message = Video keyfiyyətini artırmaq üçün üçün Microsoft-un Media Feature Pack-ni quraşdırmağınız lazım gələ bilər.
+decoder-doctor-no-pulse-audio-message = Audio oxutmaq üçün tələb edilən PulseAudio proqramını qurmağınız gərəkə bilər.
+decoder-doctor-unsupported-libavcodec-message = libavcodec təhlükəyə açıqdır və dəstəklənmir, videonu oynatmaq üçün yenilənməlidir.
+decoder-doctor-decode-error-message = Media qaynağını dekodlaşdırarkən xəta baş verdi.
+decoder-doctor-decode-warning-message = Media qaynağını dekodlaşdırarkən düzəldilə biləcək xəta baş verdi.
 decoder-doctor-learn-how-link = Necə edəcəyini öyrən
+decoder-doctor-report-issue-button =
+    .label = Sayt Problemini Bildir
+    .accesskey = R
 
 ## Password save/update panel
 
