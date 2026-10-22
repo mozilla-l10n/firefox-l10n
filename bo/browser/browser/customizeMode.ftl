@@ -27,3 +27,12 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = སྤྱིར་བཏང
 customize-mode-undo-cmd =
     .label = ཕྱིར་འཐེན
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Flexible Space
+customize-mode-toolbarseparator =
+    .title = Separator
+customize-mode-toolbarspacer =
+    .title = Space
