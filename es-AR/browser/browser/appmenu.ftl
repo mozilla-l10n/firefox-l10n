@@ -165,6 +165,9 @@ appmenu-fxa-signed-in-label = Iniciar sesión
 # dismiss it, after which the compact sign-in row is shown in its place.
 appmenu-fxa-sign-in-promo-heading2 = Sincronizar los datos en todas partes
 appmenu-fxa-sign-in-promo-link = Iniciar sesión
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = Descartar la promoción de inicio de sesión
+    .title = Descartar
 appmenu-fxa-setup-sync =
     .label = Activar sincronización…
 appmenu-fxa-setup-sync-new = Activar
