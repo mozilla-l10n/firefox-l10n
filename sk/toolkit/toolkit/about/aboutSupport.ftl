@@ -8,7 +8,7 @@ page-subtitle =
     problémov s touto aplikáciou. Ak hľadáte odpovede na bežné otázky
     o programe { -brand-short-name }, navštívte <a data-l10n-name="support-link">stránku podpory</a>.
 crashes-title = Hlásenia o zlyhaní
-crashes-id = Identifikátor správy
+crashes-id = Identifikátor hlásenia
 crashes-send-date = Dátum odoslania
 crashes-all-reports = Všetky hlásenia o zlyhaní
 crashes-no-config = Táto aplikácia nebola nakonfigurovaná na zobrazovanie hlásení o zlyhaní.

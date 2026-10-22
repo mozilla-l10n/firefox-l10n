@@ -43,10 +43,10 @@ report-broken-site-panel-button-okay =
     .label = OK
 report-broken-site-panel-button-send-report =
     .label = Odoslať hlásenie
-report-broken-site-panel-report-sent-label = Vaša správa bola odoslaná
+report-broken-site-panel-report-sent-label = Vaše hlásenie bolo odoslané
 report-broken-site-panel-report-sent-header =
-    .label = Vaša správa bola odoslaná
-    .title = Vaša správa bola odoslaná
+    .label = Vaše hlásenie bolo odoslané
+    .title = Vaše hlásenie bolo odoslané
 report-broken-site-panel-report-sent-text = Ďakujeme, že pomáhate { -brand-product-name(case: "dat") } urobiť web otvorenejším, prístupnejším a lepším pre každého.
 report-broken-site-panel-invalid-url-label = Zadajte platnú adresu URL
 # $minLength (number) - The minimum number of characters required in the description textarea.
