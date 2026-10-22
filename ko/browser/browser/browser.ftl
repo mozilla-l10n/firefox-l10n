@@ -1238,6 +1238,11 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 ## Notification bars for media playback issues
 
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name }가 이 페이지에서 오디오나 비디오를 재생하는 데 필요한 구성 요소를 설치하고 있습니다. 나중에 다시 시도하세요.
+decoder-doctor-no-codecs-linux-message = 동영상을 재생하기 위해 동영상 코덱을 설치해야 합니다.
+decoder-doctor-no-hw-acceleration-message = 동영상 재생 품질을 높이기 위해 Microsoft의 Media Feature Pack을 설치해야 합니다.
+decoder-doctor-no-pulse-audio-message = 소리를 재생하기 위해서는 PulseAudio 소프트웨어가 필요합니다.
+decoder-doctor-unsupported-libavcodec-message = libavcodec은 취약하거나 지원되지 않을 수 있으므로 동영상을 재생하기 위해서 업데이트되어야 합니다.
+decoder-doctor-learn-how-link = 방법 알아보기
 
 ## Password save/update panel
 
