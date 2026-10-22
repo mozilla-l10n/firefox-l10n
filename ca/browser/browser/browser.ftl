@@ -1229,6 +1229,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Cal activar el DRM per reproduir àudio o vídeo d'aquesta pàgina.
 eme-notifications-drm-content-disabled-button =
     .label = Activa el DRM
     .accesskey = v
