@@ -567,6 +567,15 @@ eme-notifications-drm-content-cdm-installing-message = Ushbu sahifadagi audio yo
 decoder-doctor-no-codecs-linux-message = Videoni tomosha qilish uchun kerakli video kodeklarni o‘rnatishingiz kerak.
 decoder-doctor-no-hw-acceleration-message = Videoni tomosha qilish uchun siz Microsoft kompaniyasining "Media Feature Pack" to‘plamini o‘rnatishingiz kerak.
 decoder-doctor-learn-how-link = Qanday amalga oshirishni o‘rganish
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } plagin nosozlikka uchradi.
+plugin-crashed-notification-reload-button =
+    .label = Sahifani qayta yuklash
+    .accesskey = y
+plugin-crashed-notification-submit-button =
+    .label = Nosozlik haqida ma’lumot jo‘natish
+    .accesskey = j
 
 ## Password save/update panel
 
