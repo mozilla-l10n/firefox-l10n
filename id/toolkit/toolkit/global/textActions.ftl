@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = B
 text-action-search-text-box-clear =
     .title = Bersihkan
+text-action-highlight-selection-2 =
+    .label = Sorot Pilihan
+    .accesskey = S
 text-action-highlight-selection =
     .label = Sorot Pilihan
 # This adds a comment to selected text within the PDF viewer.
