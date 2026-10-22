@@ -1273,6 +1273,7 @@ eme-notifications-drm-content-disabled-message = Θα πρέπει να ενερ
 eme-notifications-drm-content-disabled-button =
     .label = Ενεργοποίηση DRM
     .accesskey = Ε
+eme-notifications-drm-content-cdm-installing-message = Το { -brand-short-name } εγκαθιστά κάποια απαραίτητα στοιχεία προκειμένου να γίνει αναπαραγωγή ήχου ή βίντεο στη σελίδα. Δοκιμάστε ξανά αργότερα.
 decoder-doctor-no-codecs-linux-message = Για την αναπαραγωγή βίντεο, ενδέχεται να χρειάζεται η εγκατάσταση των απαραίτητων αποκωδικοποιητών βίντεο.
 decoder-doctor-no-hw-acceleration-message = Για τη βελτίωση της ποιότητας των βίντεο, ενδέχεται να χρειάζεται η εγκατάσταση του Πακέτου δυνατοτήτων media της Microsoft.
 decoder-doctor-no-pulse-audio-message = Για την αναπαραγωγή ήχου, ίσως χρειαστεί να εγκαταστήσετε το λογισμικό PulseAudio.
