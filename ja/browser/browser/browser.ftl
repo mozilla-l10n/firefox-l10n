@@ -1238,6 +1238,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = このページの音声や動画を再生するには DRM を有効にする必要があります。
+eme-notifications-drm-content-disabled-button =
+    .label = DRM を有効にする
+    .accesskey = E
 
 ## Password save/update panel
 
