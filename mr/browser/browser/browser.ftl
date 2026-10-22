@@ -438,6 +438,20 @@ eme-notifications-drm-content-playing = या साईट वरील का�
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM सक्षम करा
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = या पृष्ठावरील ऑडियो किंवा व्हिडीओ चालवण्यासाठी, { -brand-short-name } आवश्यक घटक प्रस्थापित करत आहे. कृपया नंतर पुन्हा प्रयत्न करा.
+decoder-doctor-no-codecs-linux-message = व्हिडिओ चालविण्यासाठी, कदाचित आपणास गरजेचे व्हीडीओ कोडेक्स स्थापित करावे लागेल.
+decoder-doctor-no-hw-acceleration-message = व्हिडिओची गुणवत्ता सुधारण्यासाठी, कदाचीत आपणास Microsoft चा मीडिया वैशिष्ट्य पॅक स्थापित करावा लागेल.
+decoder-doctor-no-pulse-audio-message = ऑडिओ चालविण्यासाठी कदाचित आपणास गरजेचे PulseAudio सॉफ्टवेअर स्थापित करावे लागेल.
+decoder-doctor-unsupported-libavcodec-message = libavcodec असुरक्षित असेल किंवा समर्थित नाही, व व्हिडिओ चालविण्यासाठी अद्ययावत करावे.
+decoder-doctor-decode-error-message = एका मिडीया संसाधनाचे निरूपण करताना एक चूक घडली आहे.
+decoder-doctor-decode-warning-message = एका मिडीया संसाधनाचे निरूपण करताना सुधारणा करता येण्याजोगी एक चूक आढळली आहे
+decoder-doctor-learn-how-link = कसे ते शिका
+decoder-doctor-report-issue-button =
+    .label = साईटची त्रुटी दाखल करा
+    .accesskey = R
 
 ## Password save/update panel
 
