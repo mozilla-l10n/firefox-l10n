@@ -1288,6 +1288,15 @@ decoder-doctor-learn-how-link = מידע נוסף
 decoder-doctor-report-issue-button =
     .label = דיווח על בעיה באתר
     .accesskey = ב
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = התוסף החיצוני { $pluginName } קרס.
+plugin-crashed-notification-reload-button =
+    .label = טעינת דף מחדש
+    .accesskey = מ
+plugin-crashed-notification-submit-button =
+    .label = שליחת דיווח קריסה
+    .accesskey = ק
 
 ## Password save/update panel
 
