@@ -1234,6 +1234,18 @@ toolbar-button-zoom-reset-tooltip = Palauta oletuslähennystaso ({ $shortcut })
 toolbar-button-zoom-in =
     .label = Lähennä
     .tooltiptext = Lähennä ({ $shortcut })
+toolbar-edit-controls =
+    .label = Muokkauksen valitsimet
+    .title = Muokkauksen valitsimet
+toolbar-button-cut =
+    .label = Leikkaa
+    .tooltiptext = Leikkaa ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopioi
+    .tooltiptext = Kopioi ({ $shortcut })
+toolbar-button-paste =
+    .label = Liitä
+    .tooltiptext = Liitä ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
