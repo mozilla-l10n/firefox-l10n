@@ -1265,6 +1265,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = DRM täytyy ottaa käyttöön, jotta joitain tällä sivulla olevia ääniä tai videoita voi toistaa.
 eme-notifications-drm-content-disabled-button =
     .label = Ota DRM-tuki käyttöön
     .accesskey = O
@@ -1279,6 +1280,15 @@ decoder-doctor-learn-how-link = Lue miten
 decoder-doctor-report-issue-button =
     .label = Ilmoita sivuston ongelmasta
     .accesskey = I
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Liitännäinen { $pluginName } kaatui.
+plugin-crashed-notification-reload-button =
+    .label = Lataa sivu uudestaan
+    .accesskey = L
+plugin-crashed-notification-submit-button =
+    .label = Lähetä kaatumisilmoitus
+    .accesskey = k
 
 ## Password save/update panel
 
