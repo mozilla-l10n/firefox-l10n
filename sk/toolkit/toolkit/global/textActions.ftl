@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = J
 text-action-search-text-box-clear =
     .title = Vymazať
+text-action-highlight-selection-2 =
+    .label = Zvýrazniť výber
+    .accesskey = Z
 text-action-highlight-selection =
     .label = Zvýrazniť výber
 # This adds a comment to selected text within the PDF viewer.
