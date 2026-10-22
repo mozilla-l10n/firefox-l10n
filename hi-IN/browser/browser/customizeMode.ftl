@@ -32,6 +32,8 @@ customize-mode-touchbar-cmd =
 
 ## Labels for the special items that can be added to toolbars in customize mode
 
+customize-mode-toolbarspring =
+    .title = लचीला स्थान
 customize-mode-toolbarseparator =
     .title = विभाजक
 customize-mode-toolbarspacer =
