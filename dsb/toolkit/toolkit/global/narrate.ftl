@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Głosnje cytaś
+narrate-rate-input =
+    .aria-label = Wubjeŕśo powědańsku malsnosć z -100 do 100, źož 0 jo standardna malsnosć.
+    .title = Malsnosć
 narrate-rate-slow =
     .title = Pśedcytanje spómałšyś
 narrate-rate-fast =

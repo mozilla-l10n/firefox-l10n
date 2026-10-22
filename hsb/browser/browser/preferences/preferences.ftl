@@ -1893,7 +1893,7 @@ notifications-empty-message =
     .label = Žane zdźělenki websydła přidate.
 # Shown as a row under the list header when a search matches no website.
 notifications-no-results-message =
-    .label = Žane zdźělenske websydła wašemu pytanju njewotpowěduja.
+    .label = Žane zdźělenki websydła wašemu pytanju njewotpowěduja.
 
 ## Privacy Section - Data Collection
 

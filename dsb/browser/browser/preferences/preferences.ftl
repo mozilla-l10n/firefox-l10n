@@ -1891,6 +1891,9 @@ notifications-state-never = Nigda
 # notification decision.
 notifications-empty-message =
     .label = Žedne powěźeńki websedła pśidane.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Žedne powěźeńki websedła wašomu pytanjeju njewótpowěduju.
 
 ## Privacy Section - Data Collection
 
