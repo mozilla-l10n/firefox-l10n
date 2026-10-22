@@ -414,6 +414,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM सक्रिय करू
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ऑडियो आ वीडियो चलेबाक लेल जरूरी अद्यतन स्थापित कए रहल अछि. कृपया बाद मे फेर स कोशि‍श करू
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = { $pluginName } प्लगिन क्रैश भए गेल अछि.
