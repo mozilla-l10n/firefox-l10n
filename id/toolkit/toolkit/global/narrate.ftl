@@ -8,6 +8,12 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+narrate-start =
+    .title = Mulai ({ $shortcut })
+narrate-stop =
+    .title = Berhenti ({ $shortcut })
+narrate-skip-next =
+    .title = Maju ({ $shortcut })
 
 ##
 
