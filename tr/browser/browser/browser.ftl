@@ -1229,6 +1229,25 @@ toolbar-button-developer =
 toolbar-button-forget =
     .label = Unut
     .tooltiptext = Gezinti geçmişimin bir kısmını unut
+toolbar-button-zoom-out =
+    .label = Uzaklaştır
+    .tooltiptext = Uzaklaştır ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Yakınlaştırma düzeyini sıfırla ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Yakınlaştır
+    .tooltiptext = Yakınlaştır ({ $shortcut })
+toolbar-edit-controls =
+    .label = Düzenleme düğmeleri
+    .title = Düzenleme düğmeleri
+toolbar-button-cut =
+    .label = Kes
+    .tooltiptext = Kes ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopyala
+    .tooltiptext = Kopyala ({ $shortcut })
+toolbar-button-paste =
+    .label = Yapıştır
+    .tooltiptext = Yapıştır ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
