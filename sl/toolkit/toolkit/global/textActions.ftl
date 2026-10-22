@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = J
 text-action-search-text-box-clear =
     .title = Počisti
+text-action-highlight-selection-2 =
+    .label = Označi izbrano besedilo
+    .accesskey = O
 text-action-highlight-selection =
     .label = Označi izbrano besedilo
 # This adds a comment to selected text within the PDF viewer.
