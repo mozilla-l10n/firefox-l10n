@@ -1187,6 +1187,8 @@ eme-notifications-drm-content-playing-dismiss-accesskey = T
 
 ## Notification bars for media playback issues
 
+decoder-doctor-no-pulse-audio-message = Untuk memutar audio, Anda mungkin harus menginstal perangkat lunak PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec mungkin rentan atau tidak didukung, dan harus diperbarui untuk memutar video.
 
 ## Password save/update panel
 
