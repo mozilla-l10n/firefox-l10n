@@ -642,6 +642,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Հարկաւոր է միացնել DRM-ը՝ էջում ձայնանիւթ կամ տեսանիւթ միացնելու համար:
 eme-notifications-drm-content-disabled-button =
     .label = Միացնել DRM
     .accesskey = E
