@@ -1275,7 +1275,20 @@ decoder-doctor-no-codecs-linux-message = For å spille av videoer må du install
 decoder-doctor-no-hw-acceleration-message = For å forbedre videokvalitet må du kanskje installere Microsofts Media Feature Pack.
 decoder-doctor-no-pulse-audio-message = For å spille av lyd, må du kanskje installere den påkrevde PulseAudio-programvaren.
 decoder-doctor-unsupported-libavcodec-message = libavcode kan være sårbart eller ikke støttet, og burde oppdateres for å spille video.
+decoder-doctor-decode-warning-message = En gjenopprettelig feil oppstod ved dekoding av en medieressurs.
 decoder-doctor-learn-how-link = Finn ut hvordan
+decoder-doctor-report-issue-button =
+    .label = Rapporter problem med nettsted
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Programtillegget { $pluginName } krasjet.
+plugin-crashed-notification-reload-button =
+    .label = Oppdater siden
+    .accesskey = O
+plugin-crashed-notification-submit-button =
+    .label = Send inn en krasjrapport
+    .accesskey = S
 
 ## Password save/update panel
 
