@@ -653,6 +653,16 @@ eme-notifications-drm-content-disabled-button =
     .label = Cumasaigh DRM
     .accesskey = C
 eme-notifications-drm-content-cdm-installing-message = Tá { -brand-short-name } ag suiteáil comhpháirteanna a theastaíonn uait le fuaim nó físeán ar an leathanach seo a sheinm. Bain triail eile as ar ball.
+decoder-doctor-no-codecs-linux-message = Seans gur gá duit an dí-chomhbhrúiteoir riachtanach a shuiteáil chun físeáin a sheinm.
+decoder-doctor-no-hw-acceleration-message = Seans gur gá duit Microsoft Media Feature Pack a shuiteáil chun cáilíocht na físe a fheabhsú.
+decoder-doctor-no-pulse-audio-message = Seans gur gá duit an bogearra riachtanach PulseAudio a shuiteáil chun fuaim a sheinm.
+decoder-doctor-unsupported-libavcodec-message = Tá libavcodec so-ionsaithe, nó nach dtacaítear leis, agus ba chóir duit é a nuashonrú chun físeáin a sheinm.
+decoder-doctor-decode-error-message = Tharla earráid agus an meán á dhíchódú.
+decoder-doctor-decode-warning-message = Tharla earráid incheartaithe agus meán á dhíchódú.
+decoder-doctor-learn-how-link = Tuilleadh eolais
+decoder-doctor-report-issue-button =
+    .label = Tuairiscigh Fadhb leis an Suíomh
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = Thuairteáil forlíontán { $pluginName }.
