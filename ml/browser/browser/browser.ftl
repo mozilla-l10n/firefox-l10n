@@ -954,6 +954,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ക
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = ഡിആര്‍എം പ്രവര്‍ത്തന സജ്ജമാക്കുക
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = ഈ താളില്‍ ഓഡിയോ അല്ലെങ്കില്‍ വീഡിയോ കാണുന്നതിനു് ആവശ്യമായ ഘടകങ്ങള്‍ { -brand-short-name } ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു. പിന്നീടു് വീണ്ടും ശ്രമിയ്ക്കുക.
+decoder-doctor-no-codecs-linux-message = വീഡിയോ പ്രവര്‍ത്തിപ്പിക്കാന്‍, വീഡിയോ കൊഡക്കുകള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടി വരും.
+decoder-doctor-no-hw-acceleration-message = വീഡിയോ ഗുണമേന്മ വര്‍ദ്ധിപ്പിക്കാന്‍, മൈക്രോസോഫ്റ്റിന്റെ മീഡിയാ ഫീച്ചര്‍ പാക്ക് ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടി വരും.
+decoder-doctor-learn-how-link = എങ്ങനെയെന്നറിയാം
 
 ## Password save/update panel
 
