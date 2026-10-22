@@ -649,18 +649,37 @@ toolbar-button-new-private-window =
 toolbar-button-history =
     .label = Kasaysayan
     .tooltiptext = Ipakita ang iyong kasaysayan ({ $shortcut })
+toolbar-button-find =
+    .label = Hanapin
+    .tooltiptext = Hanapin sa pahinang ito ({ $shortcut })
+toolbar-button-developer =
+    .label = Developer
+    .tooltiptext = Buksan ang Web developer na mga tools ({ $shortcut })
 toolbar-button-forget =
     .label = Kalimutan
     .tooltiptext = Kalimutan ang ibang kasaysayan ng pag-browse
 toolbar-zoom-controls =
     .label = Mga control pang-zoom
     .title = Mga control pang-zoom
+toolbar-button-zoom-out =
+    .label = Paliitin
+    .tooltiptext = Paliitin ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = I-reset ang etiketa ng pag-zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Palakihin
+    .tooltiptext = Palakihin ({ $shortcut })
+toolbar-edit-controls =
+    .label = Mga Edit Control
+    .title = Mga edit control
 toolbar-button-cut =
     .label = i-Cut
     .tooltiptext = i-Cut ({ $shortcut })
 toolbar-button-copy =
     .label = Kopyahin
     .tooltiptext = Kopyahin ({ $shortcut })
+toolbar-button-paste =
+    .label = i-Paste
+    .tooltiptext = i-Paste ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
