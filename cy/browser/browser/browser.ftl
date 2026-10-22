@@ -1316,7 +1316,11 @@ decoder-doctor-no-hw-acceleration-message = I wella ansawdd y fideo, efallai y b
 decoder-doctor-no-pulse-audio-message = I chwarae sain, efallai y bydd angen gosod y feddalwedd PulseAudio angenrheidiol.
 decoder-doctor-unsupported-libavcodec-message = Gall libavcodec fod yn fregus neu heb ei gynnal a dylai gael ei ddiweddaru ar gyfer chwarae fideo.
 decoder-doctor-decode-error-message = Digwyddodd gwall wrth ddadgodio adnodd cyfrwng.
+decoder-doctor-decode-warning-message = Digwyddodd gwall adferadwy wrth ddadgodio adnodd cyfrwng.
 decoder-doctor-learn-how-link = Sut mae gwneud
+decoder-doctor-report-issue-button =
+    .label = Adrodd am fater gwefan
+    .accesskey = A
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = Mae'r ategyn { $pluginName } wedi chwalu.
