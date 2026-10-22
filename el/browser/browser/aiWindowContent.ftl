@@ -100,8 +100,8 @@ smart-window-closed-tabs-row-label = Κλεισμένες καρτέλες
 smart-window-closed-and-restored-label = Κλεισμένες και ανακτημένες καρτέλες
 smart-window-restored-row-label =
     { $count ->
-        [one] Έγινε επαναφορά { $count } καρτέλας
-       *[other] Έγινε επαναφορά { $count } καρτελών
+        [one] Ανακτήθηκε { $count } καρτέλα
+       *[other] Ανακτήθηκαν { $count } καρτέλες
     }
 smart-window-restore-success-summary =
     { $count ->

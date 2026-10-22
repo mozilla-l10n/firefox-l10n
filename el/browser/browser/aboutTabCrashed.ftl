@@ -4,12 +4,12 @@
 
 crashed-title = Αναφορά κατάρρευσης καρτελών
 crashed-close-tab-button = Κλείσιμο καρτέλας
-crashed-restore-tab-button = Επαναφορά καρτέλας
-crashed-restore-all-button = Επαναφορά όλων των καρτελών που κατέρρευσαν
+crashed-restore-tab-button = Ανάκτηση καρτέλας
+crashed-restore-all-button = Ανάκτηση όλων των καρτελών που κατέρρευσαν
 crashed-header = Ωχ. Η καρτέλα σας μόλις κατέρρευσε.
 crashed-offer-help = Μπορούμε να βοηθήσουμε!
 crashed-single-offer-help-message = Επιλέξτε { crashed-restore-tab-button } για εκ νέου φόρτωση της σελίδας.
-crashed-multiple-offer-help-message = Επιλέξτε { crashed-restore-tab-button } ή { crashed-restore-all-button } για να κάνετε εκ νέου φόρτωση σελίδας/σελίδων.
+crashed-multiple-offer-help-message = Επιλέξτε { crashed-restore-tab-button } ή { crashed-restore-all-button } για εκ νέου φόρτωση της σελίδας (ή των σελίδων).
 crashed-request-help = Θα μας βοηθήσετε;
 crashed-request-help-message = Οι αναφορές κατάρρευσης βοηθούν στη διάγνωση ζητημάτων και στη βελτίωση του { -brand-short-name }.
 crashed-request-report-title = Αναφορά καρτέλας

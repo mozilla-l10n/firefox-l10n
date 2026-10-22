@@ -7,7 +7,7 @@
 # when following backup restoration steps. Please only include characters that
 # can be used for folders. Invalid characters will be automatically stripped out
 # or replaced with underscores.
-backup-folder-name = Επαναφορά δεδομένων του { -brand-product-name }
+backup-folder-name = Ανάκτηση δεδομένων του { -brand-product-name }
 # This string is used for the generated file that will be stored within the
 # backup-folder-name folder. It will have the profile name and an encoding of
 # the backup date appended to it, followed by `.html`. Please only include
@@ -64,7 +64,7 @@ settings-data-change-password2 =
 ## These strings are displayed in a modal when users want to turn on scheduled backups.
 
 turn-on-scheduled-backups-header = Ενεργοποίηση αντιγράφου ασφαλείας
-turn-on-scheduled-backups-description = Το { -brand-short-name } θα δημιουργεί ένα στιγμιότυπο των δεδομένων σας κάθε 24 ώρες. Μπορείτε να το επαναφέρετε αν υπάρξει κάποιο πρόβλημα ή αποκτήσετε μια νέα συσκευή.
+turn-on-scheduled-backups-description = Το { -brand-short-name } θα δημιουργεί ένα στιγμιότυπο των δεδομένων σας κάθε 24 ώρες. Μπορείτε να το ανακτήσετε αν υπάρξει κάποιο πρόβλημα ή αποκτήσετε μια νέα συσκευή.
 turn-on-scheduled-backups-support-link = Ποια δεδομένα θα περιλαμβάνονται;
 # "Location" refers to the save location or a folder where users want backups stored.
 turn-on-scheduled-backups-location-label = Τοποθεσία
@@ -101,7 +101,7 @@ turn-off-scheduled-backups-confirm-button = Απενεργοποίηση και 
 
 ## These strings are displayed in a modal when users want restore from a backup.
 
-restore-from-backup-header = Επαναφορά δεδομένων
+restore-from-backup-header = Ανάκτηση δεδομένων
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 restore-from-backup-support-link1 = Τι θα ανακτηθεί;
@@ -115,7 +115,7 @@ restore-from-backup-file-choose-button =
 restore-from-backup-password-label = Κωδικός πρόσβασης
 restore-from-backup-password-description = Αυτός ξεκλειδώνει το κρυπτογραφημένο αντίγραφο ασφαλείας σας.
 restore-from-backup-cancel-button = Ακύρωση
-restore-from-backup-confirm-button = Επαναφορά και επανεκκίνηση
+restore-from-backup-confirm-button = Ανάκτηση και επανεκκίνηση
 restore-from-backup-restoring-button = Επαναφορά…
 restore-from-backup-type-group-label =
     .label = Αντικατάσταση τρέχοντος προφίλ;
@@ -154,8 +154,8 @@ backup-service-error-unsupported-application =
 # Recovery from backup did not succeed. Potential causes could be file system
 # errors, internal code errors, decryption errors, etc.
 backup-service-error-recovery-failed =
-    .heading = Δεν ήταν δυνατή η επαναφορά των δεδομένων στο { -brand-short-name }
-    .message = Επανεκκινήστε το { -brand-short-name } και δοκιμάστε ξανά να επαναφέρετε το αντίγραφο ασφαλείας σας.
+    .heading = Δεν ήταν δυνατή η ανάκτηση των δεδομένων στο { -brand-short-name }
+    .message = Επανεκκινήστε το { -brand-short-name } και δοκιμάστε ξανά να ανακτήσετε το αντίγραφο ασφαλείας σας.
 # There was some error in the backup service but we don't have a more specific
 # idea of what went wrong
 backup-service-error-went-wrong2 =
@@ -213,8 +213,8 @@ backup-error-retry = Κάτι πήγε στραβά. Δοκιμάστε ξανά
 ## that is placed within a user specified directory (the Documents folder by
 ## default) within a folder labelled with the "backup-folder-name" string.
 
-backup-file-header = Το { -brand-short-name } είναι έτοιμο προς επαναφορά
-backup-file-title = Επαναφορά δεδομένων του { -brand-short-name }
+backup-file-header = Τα δεδομένα του { -brand-short-name } είναι έτοιμα προς ανάκτηση
+backup-file-title = Ανάκτηση δεδομένων του { -brand-short-name }
 backup-file-intro = Συνεχίστε την περιήγησή σας και ανακτήστε όλους τους σελιδοδείκτες, το ιστορικό και άλλα δεδομένα. <a data-l10n-name="backup-file-support-link">Μάθετε περισσότερα</a>
 backup-file-path-label = Αρχείο αντιγράφου ασφαλείας:
 backup-file-encryption-state-label = Κρυπτογράφηση:
@@ -225,7 +225,7 @@ backup-file-creation-date-label = Δημιουργία:
 # Variables:
 #   $date (Datetime) - The date the backup was created
 backup-file-creation-date-value = { DATETIME($date, timeStyle: "short") }, { DATETIME($date, dateStyle: "short") }
-backup-file-how-to-restore-header = Τρόπος επαναφοράς:
+backup-file-how-to-restore-header = Οδηγίες ανάκτησης:
 # The ☰ character is intended as a visual icon representing the Firefox
 # application menu.
 backup-file-moz-browser-restore-step-1 = Ανοίξτε το μενού της εφαρμογής ☰ και μεταβείτε στις Ρυθμίσεις > Συγχρονισμός
