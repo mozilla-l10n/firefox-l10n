@@ -1838,6 +1838,9 @@ pane-permissions-data-title2 = Prawa a daty
     .title = Prawa a daty
 notifications-section-header =
     .heading = Zdźělenki
+notifications-entry-card-header =
+    .description = Wubjerće, kotre websydła móža zdźělenki słać a kak so tute zdźělenki pokazuja.
+    .label = Zdźělenki
 # Variables:
 #   $count (number) - Number of websites with a stored notification decision,
 #                     always one or more. The zero case is a separate message,
@@ -1851,6 +1854,14 @@ notifications-entry-manage-button =
            *[other] { $count } websydłow
         }
     .label = Zdźělenske nastajenja rjadować
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Zdźělenske nastajenja websydła rjadować
+notifications-website-card-header =
+    .description = Wubjerće, kak websydła móža zdźělenki słać.
+    .label = Zdźělenki websydła
 notifications-filter =
     .placeholder = Websydła přepytać
 # Heading of the website column in the list of websites and their notification

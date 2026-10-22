@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Wótře čitać
+narrate-rate-input =
+    .aria-label = Wubjerće rěčensku spěšnosć z -100 do 100, hdźež 0 je standardna spěšnosć.
+    .title = Spěšnosć
 narrate-rate-slow =
     .title = Předčitanje spomalić
 narrate-rate-fast =
