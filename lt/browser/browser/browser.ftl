@@ -746,7 +746,20 @@ decoder-doctor-no-hw-acceleration-message = Norėdami pagerinti vaizdo kokybę, 
 decoder-doctor-no-pulse-audio-message = Norėdami atkurti garso įrašą, galimai turite įsidiegti reikalingą „PulseAudio“ programinę įrangą.
 decoder-doctor-unsupported-libavcodec-message = „libavcodec“ gali būti nesaugus arba yra nepalaikomas, tad turėtų būtų atnaujintas, norint atkurti vaizdo įrašus.
 decoder-doctor-decode-error-message = Iškoduojant medijos išteklių įvyko klaida.
+decoder-doctor-decode-warning-message = Iškoduojant medijos išteklių įvyko atstatoma klaida.
 decoder-doctor-learn-how-link = Sužinokite kaip
+decoder-doctor-report-issue-button =
+    .label = Pranešti apie svetainės problemą
+    .accesskey = k
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Papildinys „{ $pluginName }“ užstrigo.
+plugin-crashed-notification-reload-button =
+    .label = Įkelti tinklalapį iš naujo
+    .accesskey = n
+plugin-crashed-notification-submit-button =
+    .label = Nusiųsti strigties pranešimą
+    .accesskey = s
 
 ## Password save/update panel
 
