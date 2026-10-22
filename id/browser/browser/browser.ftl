@@ -1191,6 +1191,7 @@ eme-notifications-drm-content-disabled-message = Anda harus mengaktifkan DRM unt
 eme-notifications-drm-content-disabled-button =
     .label = Aktifkan DRM
     .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } sedang memasang komponen yang dibutuhkan untuk memutar audio atau video pada laman ini. Coba lagi nanti.
 decoder-doctor-no-codecs-linux-message = Untuk memutar video, Anda mungkin harus menginstal kodek video yang dibutuhkan.
 decoder-doctor-no-hw-acceleration-message = Untuk meningkatkan kualitas video, Anda mungkin harus menginstal Media Feature Pack dari Microsoft.
 decoder-doctor-no-pulse-audio-message = Untuk memutar audio, Anda mungkin harus menginstal perangkat lunak PulseAudio.
