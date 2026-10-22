@@ -1268,6 +1268,25 @@ toolbar-button-forget =
 toolbar-zoom-controls =
     .label = Offer Chwyddo
     .title = Offer chwyddo
+toolbar-button-zoom-out =
+    .label = Lleihau
+    .tooltiptext = Lleihau ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Ailosod lefel chwyddo ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Cynyddu
+    .tooltiptext = Cynyddu ({ $shortcut })
+toolbar-edit-controls =
+    .label = Rheolyddion Golygu
+    .title = Rheolyddion golygu
+toolbar-button-cut =
+    .label = Torri
+    .tooltiptext = Torri ({ $shortcut })
+toolbar-button-copy =
+    .label = Copïo
+    .tooltiptext = Copïo ({ $shortcut })
+toolbar-button-paste =
+    .label = Gludo
+    .tooltiptext = Gludo ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.

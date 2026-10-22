@@ -45,3 +45,5 @@ customize-mode-toolbarspring =
     .title = Bwlch Hyblyg
 customize-mode-toolbarseparator =
     .title = Gwahanydd
+customize-mode-toolbarspacer =
+    .title = Bwlch
