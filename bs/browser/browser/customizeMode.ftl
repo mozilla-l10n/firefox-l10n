@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Prilagodite Touch Bar…
 customize-mode-downloads-button-autohide =
     .label = Sakrij dugme kada je prazno
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Fleksibilan razmak
+customize-mode-toolbarseparator =
+    .title = Separator
+customize-mode-toolbarspacer =
+    .title = Razmak
