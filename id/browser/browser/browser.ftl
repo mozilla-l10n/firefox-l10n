@@ -1187,8 +1187,15 @@ eme-notifications-drm-content-playing-dismiss-accesskey = T
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Anda harus mengaktifkan DRM untuk memainkan suara atau video pada laman ini.
+eme-notifications-drm-content-disabled-button =
+    .label = Aktifkan DRM
+    .accesskey = A
+decoder-doctor-no-codecs-linux-message = Untuk memutar video, Anda mungkin harus menginstal kodek video yang dibutuhkan.
+decoder-doctor-no-hw-acceleration-message = Untuk meningkatkan kualitas video, Anda mungkin harus menginstal Media Feature Pack dari Microsoft.
 decoder-doctor-no-pulse-audio-message = Untuk memutar audio, Anda mungkin harus menginstal perangkat lunak PulseAudio.
 decoder-doctor-unsupported-libavcodec-message = libavcodec mungkin rentan atau tidak didukung, dan harus diperbarui untuk memutar video.
+decoder-doctor-learn-how-link = Pelajari caranya
 
 ## Password save/update panel
 
