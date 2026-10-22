@@ -755,6 +755,9 @@ plugin-crashed-notification-message = { $pluginName } පේනුව බිඳ 
 plugin-crashed-notification-reload-button =
     .label = පිටුව යළි පූරණය
     .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = බිඳවැටීම් වාර්තාවක් යවන්න
+    .accesskey = S
 
 ## Password save/update panel
 
