@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = T
 text-action-search-text-box-clear =
     .title = Wissen
+text-action-highlight-selection-2 =
+    .label = Selectie markeren
+    .accesskey = S
 text-action-highlight-selection =
     .label = Selectie markeren
 # This adds a comment to selected text within the PDF viewer.
