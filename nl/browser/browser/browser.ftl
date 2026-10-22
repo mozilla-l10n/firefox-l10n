@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Delen…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Website-informatie weergeven
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Gesponsord
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Vragen
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1145,7 +1153,8 @@ repair-text-encoding-button =
     .label = Tekstcodering repareren
     .tooltiptext = De juiste tekstcodering raden vanuit de pagina-inhoud
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1208,6 +1217,19 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Tabbladgroepen
     .tooltiptext = Uw tabbladgroepen tonen
+toolbar-button-history =
+    .label = Geschiedenis
+    .tooltiptext = Uw geschiedenis tonen ({ $shortcut })
+toolbar-zoom-controls =
+    .label = Zoombediening
+    .title = Zoombediening
+toolbar-button-zoom-out =
+    .label = Uitzoomen
+    .tooltiptext = Uitzoomen ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Zoomniveau terugzetten ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Inzoomen
+    .tooltiptext = Inzoomen ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1224,6 +1246,9 @@ eme-notifications-drm-content-playing-manage = Instellingen beheren
 eme-notifications-drm-content-playing-manage-accesskey = b
 eme-notifications-drm-content-playing-dismiss = Sluiten
 eme-notifications-drm-content-playing-dismiss-accesskey = S
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1275,6 +1300,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = j
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1534,6 +1562,13 @@ file-picker-crashed-open = Het Windows-bestandsdialoogvenster is gecrasht. Er is
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Het Windows-bestandsdialoogvenster is gecrasht. Het bestand wordt opgeslagen in { $path }.
 file-picker-crashed-save-nowhere = Het Windows-bestandsdialoogvenster is gecrasht. Er is geen standaardmap gevonden; het bestand zal niet worden opgeslagen.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = In map tonen
     .accessKey = m
@@ -1586,6 +1621,9 @@ trustpanel-blocker-see-all = Alles bekijken
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Bescherming tegen volgen voor { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
