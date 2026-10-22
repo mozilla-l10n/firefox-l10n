@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Προσαρμογή γραμμής αφής…
 customize-mode-downloads-button-autohide =
     .label = Απόκρυψη κουμπιού όταν είναι κενό
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Ευέλικτο διάστημα
+customize-mode-toolbarseparator =
+    .title = Διαχωριστικό
+customize-mode-toolbarspacer =
+    .title = Διάστημα

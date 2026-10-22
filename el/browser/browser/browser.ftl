@@ -1219,6 +1219,25 @@ toolbar-button-tab-groups =
 toolbar-button-history =
     .label = Ιστορικό
     .tooltiptext = Εμφάνιση ιστορικού ({ $shortcut })
+toolbar-button-forget =
+    .label = Διαγραφή
+    .tooltiptext = Διαγραφή μέρους του ιστορικού περιήγησης
+toolbar-zoom-controls =
+    .label = Στοιχεία ελέγχου ζουμ
+    .title = Στοιχεία ελέγχου ζουμ
+toolbar-button-zoom-out =
+    .label = Σμίκρυνση
+    .tooltiptext = Σμίκρυνση ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Επαναφορά επιπέδου ζουμ ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Μεγέθυνση
+    .tooltiptext = Μεγέθυνση ({ $shortcut })
+toolbar-button-copy =
+    .label = Αντιγραφή
+    .tooltiptext = Αντιγραφή ({ $shortcut })
+toolbar-button-paste =
+    .label = Επικόλληση
+    .tooltiptext = Επικόλληση ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
