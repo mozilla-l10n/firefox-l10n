@@ -27,3 +27,12 @@ customize-mode-uidensity-menu-normal =
     .tooltiptext = Normal
 customize-mode-undo-cmd =
     .label = Batal
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Ruang Fleksibel
+customize-mode-toolbarseparator =
+    .title = Pemisah
+customize-mode-toolbarspacer =
+    .title = Ruang
