@@ -1203,6 +1203,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = A
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Du skal aktivere DRM for at afspille lyd eller video på denne side.
 eme-notifications-drm-content-disabled-button =
     .label = Aktivér DRM
     .accesskey = A
