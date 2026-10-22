@@ -1143,6 +1143,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = H
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Þú verður að virkja DRM til að geta spilað hljóð eða myndband á þessu vefsvæði.
 eme-notifications-drm-content-disabled-button =
     .label = Virkja DRM
     .accesskey = V
@@ -1157,6 +1158,15 @@ decoder-doctor-learn-how-link = Vita hvernig
 decoder-doctor-report-issue-button =
     .label = Tilkynna vandamál á vefsvæði
     .accesskey = T
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Tengiforritið { $pluginName } hrundi.
+plugin-crashed-notification-reload-button =
+    .label = Endurlesa síðu
+    .accesskey = r
+plugin-crashed-notification-submit-button =
+    .label = Senda hrunskýrslu
+    .accesskey = S
 
 ## Password save/update panel
 
