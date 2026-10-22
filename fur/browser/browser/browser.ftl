@@ -1124,6 +1124,34 @@ toolbar-button-history =
 toolbar-button-find =
     .label = Cjate
     .tooltiptext = Cjate cheste pagjine ({ $shortcut })
+toolbar-button-developer =
+    .label = Disvilupadôr
+    .tooltiptext = Vierç i struments di disvilup web ({ $shortcut })
+toolbar-button-forget =
+    .label = Dismentê
+    .tooltiptext = Dismentee alc de cronologjie di navigazion
+toolbar-zoom-controls =
+    .label = Controi dal ingrandiment
+    .title = Controi dal ingrandiment
+toolbar-button-zoom-out =
+    .label = Fâs piçul
+    .tooltiptext = Slargje ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Ristabilìs il livel di ingrandiment ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Slargje
+    .tooltiptext = Slargje ({ $shortcut })
+toolbar-edit-controls =
+    .label = Cambie i controi
+    .title = Cambie i controi
+toolbar-button-cut =
+    .label = Taie
+    .tooltiptext = Tae ({ $shortcut })
+toolbar-button-copy =
+    .label = Copie
+    .tooltiptext = Copie ({ $shortcut })
+toolbar-button-paste =
+    .label = Tache
+    .tooltiptext = Tache ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
