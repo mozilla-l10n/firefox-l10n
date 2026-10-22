@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Nå längre med { -
 ipprotection-feature-introduction-link-text-private-browsing-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data, även när du är i ett privat fönster.
 ipprotection-feature-introduction-description-private-browsing = Surfa med extra skydd genom att dölja din plats, även när du är i ett privat fönster.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Hjälp till att dölja din position när du surfar. Ställ in regler för att aktivera VPN när du vill ha <a data-l10n-name="learn-more-vpn">extra sekretess</a> eller platsbaserad surfning och av när du inte vill.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Dölj din plats för <a data-l10n-name="learn-more-vpn">ökad integritet</a> när du surfar. Skapa regler som aktiverar VPN för ökad integritet eller platsbaserad surfning och inaktiverar det där det inte behövs.
 ipprotection-feature-introduction-title-captive-portal = På offentligt Wi-Fi? Testa { -brand-product-name }:s inbyggda VPN.
 ipprotection-feature-introduction-description-captive-portal = Surfa med extra skydd genom att dölja din plats, även på offentligt Wi-Fi.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Jag förstår
 ipprotection-site-inclusions-callout-title-existing-users = Ställ in regler för inbyggt VPN och surfa vidare
 ipprotection-site-inclusions-callout-title-lapsed-users = Prova inbyggt VPN, nu för enskilda webbplatser
 ipprotection-site-inclusions-callout-description-1 = Aktivera VPN på webbplatser där du vill ha extra integritet eller platsbaserad surfning, och inaktivera det på övriga.
+ipprotection-site-inclusions-callout-description-lapsed-users = Ställ in regler för att aktivera VPN när du vill ha extra sekretess eller platsbaserad surfning och av när du inte vill det.
 ipprotection-site-inclusions-callout-description = Aktivera det för webbplatser där du vill ha extra integritet eller surfa utifrån en viss plats, och inaktivera det för övriga.
 ipprotection-site-inclusions-callout-primary-button = Ange regler
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Inte nu
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorera
 ipprotection-holiday-promo-description = Gör din surfning privat och svårare att spåra med inbyggt VPN.
 ipprotection-holiday-promo-primary-button = Öppna VPN
 ipprotection-holiday-promo-secondary-button = Ignorera
+ipprotection-holiday-promo-title-1 = Få obegränsat VPN fram till den 31 januari
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Aktivera VPN för att dölja 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ställ in VPN så att den slås på</a> varje gång du öppnar { -brand-short-name } för ett extra lager av skydd.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } kommer ihåg vilka webbplatser du har ställt in för att använda VPN. Uppdatera dessa i <a data-l10n-name="setting-link">inställningarna</a> när som helst.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN är avstängt för den här webbplatsen
+confirmation-hint-ipprotection-navigated-to-included-site = VPN är på för den här webbplatsen
 ipprotection-open-button = Öppna { -brand-product-name }
 ipprotection-come-back-title = Kom tillbaka för att prova inbyggt VPN
 ipprotection-message-body-hide-location = Dölj din plats när du surfar i { -brand-product-name } för mer integritet och kontroll.

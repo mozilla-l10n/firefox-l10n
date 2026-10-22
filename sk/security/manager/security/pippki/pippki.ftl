@@ -30,7 +30,7 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Zmeniť
 reset-primary-password-text = Ak zmeníte svoje hlavné heslo, všetky uložené heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané. Naozaj chcete zmeniť svoje hlavné heslo?
-pippki-reset-password-confirmation-title = Zmena hlavného hesla
+pippki-reset-password-confirmation-title = Obnovenie hlavného hesla
 pippki-reset-password-confirmation-message = Vaše hlavné heslo bolo zmenené.
 
 ## Downloading cert dialog

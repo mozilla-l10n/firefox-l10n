@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Läs högt
+narrate-rate-input =
+    .aria-label = Välj en berättarhastighet från -100 till 100, där 0 är standardhastigheten.
+    .title = Hastighet
 narrate-rate-slow =
     .title = Sakta ner berättarröst
 narrate-rate-fast =
