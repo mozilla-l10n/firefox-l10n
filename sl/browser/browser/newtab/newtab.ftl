@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Finance
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Delnice
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Slika dneva
@@ -172,12 +169,6 @@ home-prefs-mission-message-learn-more-link-srd = Spoznajte, kako
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Več o tem
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Možnosti zasebnosti
-    .title = Možnosti zasebnosti
 # Accessible name for the Privacy widget container. The widget shows no visible
 # title, so screen readers rely on this label to identify it.
 newtab-privacy-widget-label =
@@ -311,12 +302,6 @@ newtab-privacy-message-first-protection-cta = Ogled zaščit
 newtab-stocks-menu-learn-more = Več o tem
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Podatki o delnicah niso na voljo.
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Možnosti pripomočka za delnice
-    .title = Možnosti pripomočka za delnice
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -331,9 +316,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Iskanje po imenu ali simbolu
     .label = Iskanje
     .title = Iskanje po imenu ali simbolu
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Delnice
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Trgi
@@ -443,11 +425,6 @@ newtab-picture-attribution-source-link = Wikimedijina zbirka
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Ogled licence { $license }
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Možnosti slike dneva
-    .title = Možnosti slike dneva
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -494,9 +471,6 @@ newtab-recent-searches-row-remove =
     .aria-label = Odstrani "{ $search }" iz nedavnih iskanj
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Iskanje
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Možnosti iskanja
 
 ## Recent searches widget — empty states
 
@@ -820,8 +794,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Finance
-newtab-custom-widget-stocks-toggle =
-    .label = Delnice
 newtab-custom-widget-picture-toggle =
     .label = Slika dneva
 newtab-custom-widget-search-toggle =
@@ -1329,9 +1301,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Prekliči
     .title = Prekliči
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = Možnosti seznamov
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1423,8 +1392,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Izklopi obvestila
 newtab-widget-timer-menu-notifications-on = Vklopi obvestila
 newtab-widget-timer-menu-learn-more = Več o tem
-newtab-widget-timer-menu-button =
-    .aria-label = Možnosti časovnika
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1556,8 +1523,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Samo ekipe, ki jih spremljate
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Nalaganje več tekem …
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Glej
@@ -1637,9 +1602,6 @@ newtab-sports-widget-third-place = Tretje mesto
 newtab-sports-widget-runner-up = Podprvaki
 newtab-sports-widget-champions = Prvaki
 newtab-sports-widget-world-cup-champions = Zmagovalci svetovnega prvenstva 2026
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Prvaki 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", hourCycle: "h23", minute: "2-digit") }
@@ -1746,15 +1708,6 @@ newtab-sports-widget-message-day-in-play-title = Ostanite v igri ves dan s pripo
 newtab-sports-widget-message-day-in-play-body = Spremljajte svetovno prvenstvo, ostanite osredotočeni, preverjajte čas po svetu in še več.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Raziščite pripomočke
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Pomagajte nam izboljšati pripomočke
-newtab-sports-widget-message-survey-body = Svetovno prvenstvo je pri koncu. Sporočite nam svoje mnenje o izkušnji.
-newtab-sports-widget-message-survey-widget-title = Kakšen se vam je zdel pripomoček za svetovno prvenstvo?
-newtab-sports-widget-message-survey-widget-body = Delite svoje mnenje in nam pomagajte izboljšati prihodnje pripomočke. Nato preizkusite še nove v svoji zbirki.
-newtab-sports-widget-message-survey-cta =
-    .label = Izpolni vprašalnik
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1863,12 +1816,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Ni ujemajočih se časovnih pasov
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Nazaj
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = Možnosti ure
-    .title = Možnosti ure
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

@@ -1142,8 +1142,8 @@ prefs-syncing-off-2 =
     .label = Syncing is OFF
 # This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
 prefs-syncing-off-3 =
-    .label = Syncing is OFF
     .description = Turn on sync to get your bookmarks, passwords, history, and more on this device.
+    .label = Syncing is OFF
 prefs-sync-turn-on-syncing =
     .label = Turn on syncing…
     .accesskey = s
@@ -1231,12 +1231,12 @@ sync-choose-what-to-sync-dialog4 =
     .style = min-width: 36em;
     .title = Manage what syncs on all your connected devices
 sync-choose-what-to-sync-dialog5 =
-    .title = Manage what syncs on this device
-    .style = min-width: 36em;
     .buttonlabelaccept = Save
-    .buttonaccesskeyaccept = S
     .buttonlabelextra2 = Disconnect…
+    .buttonaccesskeyaccept = S
     .buttonaccesskeyextra2 = D
+    .style = min-width: 36em;
+    .title = Manage what syncs on this device
 
 ## The device name controls.
 

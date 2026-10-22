@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = Malfermi novan privatan fenestron
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Klasika fenestro
-toolbar-switcher-customizable-label =
-    .label = Elektilo de { -smart-window-brand-name }
-    .tooltiptext = Baskuli inter inteligentaj kaj klasikaj fenestroj.
 
 ## Input CTA
 

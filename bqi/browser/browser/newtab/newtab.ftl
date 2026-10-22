@@ -86,9 +86,6 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = جدول کلمه یل موتقاتع
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = سهام
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = شؽوات رۊز
@@ -236,12 +233,6 @@ newtab-privacy-message-first-protection-cta = نیشتن زفت وابیڌنا
 newtab-stocks-menu-learn-more = قلوه دووسته بۊین
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = دووسمندیا سهام من دسرس نؽڌن.
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = گۊزینه یل ویجت سهام
-    .title = گۊزینه یل ویجت سهام
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -249,9 +240,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = پیتینیڌن و ری نوم یا نماد
     .label = پیتینیڌن
     .title = پیتینیڌن و ری نوم یا نماد
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = سهام
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = بازارا
@@ -323,11 +311,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = نیشتن موجوز { $license }
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = گۊزینه یل شؽوات رۊز
-    .title = گۊزینه یل شؽوات رۊز
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -362,9 +345,6 @@ newtab-picture-show-button =
 newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = پیتینیڌن
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = گۊزینه یل پیتینیڌن
 
 ## Strings for the Travel widget
 
@@ -625,8 +605,6 @@ newtab-custom-widget-privacy-toggle =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 newtab-custom-widget-crossword-toggle =
     .label = جدول کلمه یل موتقاتع
-newtab-custom-widget-stocks-toggle =
-    .label = سهام
 newtab-custom-widget-picture-toggle =
     .label = شؽوات رۊز
 # Travel (noun) is a widget on New Tab for searching hotels, flights
@@ -1056,9 +1034,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = لقو
     .title = لقو
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = گۊزینه یل نومگه
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + وورکل ی نومگه نۊ
@@ -1144,8 +1119,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = کۊر کردن وارسۊویا
 newtab-widget-timer-menu-notifications-on = رۊشن کردن وارسۊویا
 newtab-widget-timer-menu-learn-more = قلوه دووسته بۊین
-newtab-widget-timer-menu-button =
-    .aria-label = گۊزینه یل تایمر
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = موهم ترین سرتالا هوالی
 newtab-daily-briefing-card-menu-dismiss = رڌ کردن
@@ -1257,9 +1230,6 @@ newtab-sports-widget-third-place = مقام سووم
 newtab-sports-widget-runner-up = نایب قئرموو
 newtab-sports-widget-champions = قهرمووݩ
 newtab-sports-widget-world-cup-champions = قئرمووا جام جهۊوی 2026
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = قهرمووݩ 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1358,12 +1328,6 @@ newtab-sports-widget-message-add-widgets-cta =
     .label = ٱووردن ویجتا
 newtab-sports-widget-message-explore-widgets-cta =
     .label = جوستن ویجتا
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = من بؽڌر کردن ویجتا ایما ن هیاری بڌین
-newtab-sports-widget-message-survey-cta =
-    .label = شرکت من منشڌسنجی
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

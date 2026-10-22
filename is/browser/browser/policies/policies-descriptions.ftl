@@ -49,7 +49,6 @@ policy-DisableFirefoxStudies = Hamla aðgang að könnunum frá { -brand-short-n
 policy-DisableForgetButton = Koma í veg fyrir aðgang að Gleyma-hnappnum.
 policy-DisableFormHistory = Ekki muna leitar- og innfyllingarferil.
 policy-DisablePrimaryPasswordCreation = Ef satt, er ekki hægt að búa til aðallykilorð.
-policy-DisablePasswordReveal = Ekki leyfa birtingu lykilorða í vistuðum innskráningum.
 policy-DisablePrivateBrowsing = Gera huliðsvafur óvirkt.
 policy-DisableProfileImport = Slökkva á valmyndinni til að flytja inn gögn úr öðrum vafra.
 policy-DisableProfileRefresh = Slökkva á Endurhlaða { -brand-short-name } takkanum á about:support siðunni.

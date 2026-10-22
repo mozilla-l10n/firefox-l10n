@@ -88,7 +88,6 @@ policy-DisableLaunchOnLogin =
     }
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
 policy-DisablePasswordReveal2 = Zakáže zobrazení hesel v uložených přihlašovacích údajích a polích pro hesla.
-policy-DisablePasswordReveal = Zakázání možnosti zobrazit hesla ve správci přihlašovacích údajů.
 policy-DisablePrivateBrowsing = Zablokování anonymního prohlížení.
 policy-DisableProfileImport = Blokování importu dat z jiných prohlížečů.
 policy-DisableProfileRefresh2 =

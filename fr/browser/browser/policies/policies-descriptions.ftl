@@ -64,7 +64,6 @@ policy-DisableFormHistory = Désactiver la conservation de l’historique des re
 policy-DisableLaunchOnLogin = Empêcher { -brand-short-name } de se lancer automatiquement lorsque l’utilisateur se connecte.
 policy-DisablePrimaryPasswordCreation = Si la valeur est sur true, la création d’un mot de passe principal est impossible.
 policy-DisablePasswordReveal2 = Ne pas permettre de révéler les mots de passe dans les identifiants enregistrés ou les champs de mots de passe.
-policy-DisablePasswordReveal = Ne pas permettre de révéler les mots de passe dans les identifiants enregistrés.
 policy-DisablePrivateBrowsing = Désactiver la navigation privée.
 policy-DisableProfileImport = Désactiver la commande de menu permettant d’importer des données à partir d’un autre navigateur.
 policy-DisableProfileRefresh2 = Désactiver le bouton Réparer { -brand-short-name } sur la page Informations de dépannage (about:support) et sur support.mozilla.org, ainsi que l’invite proposant de réparer { -brand-short-name } lorsqu’il n’a pas été utilisé depuis un certain temps.

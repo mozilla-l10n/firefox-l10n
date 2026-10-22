@@ -41,7 +41,6 @@ policy-DisableFirefoxStudies = ປ້ອງກັນບໍ່ໃຫ້ { -brand-
 policy-DisableForgetButton = ປ້ອງກັນການເຂົ້າເຖິງປຸ່ມລືມ.
 policy-DisableFormHistory = ບໍ່ຈື່ປະຫວັດການຊອກຫາ ແລະແບບຟອມ.
 policy-DisablePrimaryPasswordCreation = ຖ້າເປັນຄວາມຈິງ, ບໍ່ສາມາດສ້າງລະຫັດຜ່ານຫຼັກໄດ້.
-policy-DisablePasswordReveal = ບໍ່ອະນຸຍາດໃຫ້ເປີດເຜີຍລະຫັດຜ່ານໃນການເຂົ້າສູ່ລະບົບທີ່ບັນທຶກໄວ້.
 policy-DisablePrivateBrowsing = ປິດການທ່ອງເວັບສ່ວນຕົວ.
 policy-DisableProfileImport = ປິດການໃຊ້ງານຄໍາສັ່ງເມນູເພື່ອນໍາເຂົ້າຂໍ້ມູນຈາກຕົວທ່ອງເວັບອື່ນ.
 policy-DisableProfileRefresh = ປິດການໂຫຼດປຸ່ມ Refresh { -brand-short-name } ໃນໜ້າກ່ຽວກັບ:ການຮອງຮັບ.

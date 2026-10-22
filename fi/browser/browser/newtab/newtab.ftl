@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Talous
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Osakkeet
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Päivän kuva
@@ -170,12 +167,6 @@ home-prefs-mission-message-learn-more-link-srd = Lue lisää
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Lue lisää
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Tietosuoja-asetukset
-    .title = Tietosuoja-asetukset
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -349,12 +340,6 @@ newtab-stocks-error-not-available = Osaketietoja ei ole saatavilla.
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = Avaa talousvalikko
     .title = Avaa talousvalikko
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Osakkeiden pienoisohjelman asetukset
-    .title = Osakkeiden pienoisohjelman asetukset
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -372,9 +357,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Hae nimellä tai symbolilla
     .label = Haku
     .title = Hae nimellä tai symbolilla
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Osakkeet
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Markkinat
@@ -492,11 +474,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Näytä lisenssi { $license }
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Päivän kuvan asetukset
-    .title = Päivän kuvan asetukset
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -563,9 +540,6 @@ newtab-recent-searches-row-remove =
     .aria-label = Poista ”{ $search }” viimeaikaisista hauista
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Haku
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Hakuvalinnat
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -911,8 +885,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Talous
-newtab-custom-widget-stocks-toggle =
-    .label = Osakkeet
 newtab-custom-widget-picture-toggle =
     .label = Päivän kuva
 newtab-custom-widget-search-toggle =
@@ -1408,9 +1380,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Peruuta
     .title = Peruuta
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = Lista-asetukset
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1502,8 +1471,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Poista ilmoitukset käytöstä
 newtab-widget-timer-menu-notifications-on = Ota ilmoitukset käyttöön
 newtab-widget-timer-menu-learn-more = Lue lisää
-newtab-widget-timer-menu-button =
-    .aria-label = Ajastimen asetukset
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1629,8 +1596,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Vain seuratut joukkueet
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Ladataan lisää otteluita…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Katso
@@ -1710,9 +1675,6 @@ newtab-sports-widget-third-place = Kolmas sija
 newtab-sports-widget-runner-up = Toinen sija
 newtab-sports-widget-champions = Mestarit
 newtab-sports-widget-world-cup-champions = Vuoden 2026 MM-kilpailujen mestarit
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Vuoden 2026 mestarit
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1819,15 +1781,6 @@ newtab-sports-widget-message-day-in-play-title = Pidä päiväsi käynnissä { -
 newtab-sports-widget-message-day-in-play-body = Seuraa jalkapallon MM-kisoja, pysy tehtävissäsi, seuraa aikaa ympäri maailmaa ja paljon muuta.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Tutustu pienoisohjelmiin
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Auta meitä parantamaan pienoisohjelmia
-newtab-sports-widget-message-survey-body = Siinäpä ne MM-kisat. Jaa palautetta kokemuksesta.
-newtab-sports-widget-message-survey-widget-title = Mitä pidit MM-kisojen pienoisohjelmasta?
-newtab-sports-widget-message-survey-widget-body = Jaa palautteesi, niin autat meitä parantamaan tulevia pienoisohjelmia. Kokeile sitten uutta pienoisohjelmaa.
-newtab-sports-widget-message-survey-cta =
-    .label = Osallistu kyselyyn
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1941,12 +1894,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Ei vastaavia aikavyöhykkeitä
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Takaisin
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = Kellon asetukset
-    .title = Kellon asetukset
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

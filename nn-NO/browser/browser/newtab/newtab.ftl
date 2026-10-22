@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Finans
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Aksjar
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Dagens bilde
@@ -170,12 +167,6 @@ home-prefs-mission-message-learn-more-link-srd = Finn ut korleis
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Les meir
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Personverninnstillingar
-    .title = Personverninnstillingar
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -344,12 +335,6 @@ newtab-privacy-message-first-protection-cta = Vis vern
 newtab-stocks-menu-learn-more = Les meir
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Aksjedata er ikkje tilgjengelege.
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Innstillingar for aksje-widgeten
-    .title = Innstillingar for aksje-widgeten
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -367,9 +352,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Søk etter namn eller symbol
     .label = Søk
     .title = Søk etter namn eller symbol
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Aksjar
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Marknadar
@@ -483,11 +465,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Vis { $license }-lisensen
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Innstillingar for «Dagens bilde»
-    .title = Innstillingar for «Dagens bilde»
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -547,9 +524,6 @@ newtab-recent-searches-row-remove =
     .aria-label = Fjern «{ $search }» frå nylege søk
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søk
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Søkjeinnstillingar
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -900,8 +874,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Finans
-newtab-custom-widget-stocks-toggle =
-    .label = Aksjar
 newtab-custom-widget-picture-toggle =
     .label = Dagens bilde
 newtab-custom-widget-search-toggle =
@@ -1418,9 +1390,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Avbryt
     .title = Avbryt
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = Listeinnstillingar
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1512,8 +1481,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Slå av varsel
 newtab-widget-timer-menu-notifications-on = Slå på varsel
 newtab-widget-timer-menu-learn-more = Les meir
-newtab-widget-timer-menu-button =
-    .aria-label = Timer-innstillingar
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1637,8 +1604,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Berre følgde lag
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Lastar inn fleire treff…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Sjå
@@ -1718,9 +1683,6 @@ newtab-sports-widget-third-place = Tredjeplass
 newtab-sports-widget-runner-up = Andreplass
 newtab-sports-widget-champions = Meistrar
 newtab-sports-widget-world-cup-champions = VM 2026 – verds­meistrar
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Verdsmeistrar 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1827,15 +1789,6 @@ newtab-sports-widget-message-day-in-play-title = Hald dagen i gang med widgetar 
 newtab-sports-widget-message-day-in-play-body = Følg VM, hald fokus på oppgåvene dine, følg tida rundt om i verda, og meir.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Utforsk widgetar
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Hjelp oss med å gjere widgetane betre
-newtab-sports-widget-message-survey-body = Då er VM over. Fortel oss kva du synest om opplevinga.
-newtab-sports-widget-message-survey-widget-title = Korleis var VM-widgeten?
-newtab-sports-widget-message-survey-widget-body = Del tilbakemeldingane dine for å hjelpe oss med å gjere framtidige widgetar betre. Prøv deretter den nye i utvalet ditt.
-newtab-sports-widget-message-survey-cta =
-    .label = Ver med på undersøkinga
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1949,12 +1902,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Ingen samsvarande tidssoner
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Tilbake
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = Klokkeinnstillinger
-    .title = Klokkeinnstillinger
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

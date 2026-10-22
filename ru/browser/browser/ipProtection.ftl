@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Используйте наш н
 ipprotection-feature-introduction-title-privacy = Добавьте ещё один уровень приватности
 ipprotection-feature-introduction-title-privacy-1 = Добавьте ещё один уровень приватности со встроенным VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из нескольких местоположений, чтобы обеспечить приватность вашего веб-сёрфинга.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Встроенный в { -brand-product-name }</a> VPN помогает защитить ваш веб-сёрфинг. Выберите одно из 5 местоположений, чтобы повысить приватность вашего веб-сёрфинга.
 ipprotection-feature-introduction-link-text-privacy-3 = Получите <a data-l10n-name="learn-more-vpn">дополнительную приватность</a>, выбрав одно из множества местоположений, чтобы скрывать своё пребывание в Интернете.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Помогите скрыть свое местоположение для <a data-l10n-name="learn-more-vpn">дополнительной конфиденциальности</a> при веб-сёрфинге. Включает или выключает VPN для определенных сайтов.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Есть планы на 
 ipprotection-feature-introduction-description-summer-promo = Возьмите больше со встроенным VPN в { -brand-product-name }: больше местоположений, неограниченная пропускная способность. Теперь до 31 августа.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные, даже когда вы находитесь в приватном окне.
 ipprotection-feature-introduction-description-private-browsing = Работайте в интернете с дополнительной защитой, скрывая своё местоположение, даже когда вы находитесь в приватном окне.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Скрывайте своё местоположение при просмотре сайтов. Настройте правила, чтобы включать VPN для <a data-l10n-name="learn-more-vpn">дополнительной приватности</a> или доступа к контенту с учётом местоположения и отключать там, где он не нужен.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Помогите скрыть свое местоположение для <a data-l10n-name="learn-more-vpn">дополнительной конфиденциальности</a> при веб-сёрфинге. Установите правила, чтобы включать VPN для дополнительной конфиденциальности или просмотра на основе местоположения, и выключать там, где это не нужно.
 ipprotection-feature-introduction-title-captive-portal = Используете общедоступный Wi-Fi? Попробуйте встроенный в { -brand-product-name } VPN.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Убрат�
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Получите безлимитный VPN до 30 января
 ipprotection-holiday-promo-description = Сделайте свой веб-сёрфинг приватным и трудным для отслеживания с помощью встроенного VPN.
 ipprotection-holiday-promo-primary-button = Открыть VPN
 ipprotection-holiday-promo-secondary-button = Убрать

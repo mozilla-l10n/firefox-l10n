@@ -32,8 +32,6 @@ appearance-browser-icon-basic-group =
 # action.
 appearance-browser-icon-bonus-group2 =
     .label = 보너스
-appearance-browser-icon-bonus-group =
-    .label = 스페셜
 
 ##
 

@@ -22,8 +22,6 @@ appearance-browser-icon-subpage-title =
 
 appearance-browser-icon-basic-group =
     .label = استاندارد
-appearance-browser-icon-bonus-group =
-    .label = ویژه
 
 ##
 

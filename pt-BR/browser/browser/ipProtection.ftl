@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Use nossa nova <a data-l10n-name
 ipprotection-feature-introduction-title-privacy = Adicione outra camada de privacidade
 ipprotection-feature-introduction-title-privacy-1 = Adicione outra camada de privacidade com a VPN integrada
 ipprotection-feature-introduction-link-text-privacy-1 = A <a data-l10n-name="learn-more-vpn">VPN integrada no { -brand-product-name }</a> ajuda a proteger sua navegação. Escolha entre vários locais para manter de onde você navega mais privativo.
-ipprotection-feature-introduction-link-text-privacy-2 = A <a data-l10n-name="learn-more-vpn">VPN integrada no { -brand-product-name }</a> ajuda a proteger sua navegação. Escolha entre vários locais para ter mais privacidade sobre onde você está ao navegar.
 ipprotection-feature-introduction-link-text-privacy-3 = Tenha <a data-l10n-name="learn-more-vpn">privacidade extra</a> ao escolher entre vários locais para ocultar onde você está ao navegar.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Ajude a ocultar sua localização para ter <a data-l10n-name="learn-more-vpn">mais privacidade</a> ao navegar. Configure a VPN para ser ativada ou desativada em sites específicos.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Planeja viajar? Leve a pr
 ipprotection-feature-introduction-description-summer-promo = Vá mais longe com a VPN integrada no { -brand-product-name }: mais locais, largura de banda ilimitada. Agora até 31 de agosto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use nossa nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> para ocultar sua localização e proteger seus dados, mesmo quando estiver em uma janela privativa.
 ipprotection-feature-introduction-description-private-browsing = Navegue com proteção extra, ocultando sua localização, mesmo quando estiver em uma janela privativa.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Ajude a ocultar sua localização enquanto navega. Defina regras para ativar a VPN para ter <a data-l10n-name="learn-more-vpn">privacidade extra</a> ou navegação com base em localização, ou desativar onde não quiser.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Ajude a ocultar sua localização para ter <a data-l10n-name="learn-more-vpn">mais privacidade</a> ao navegar. Defina regras para ativar a VPN onde quiser mais privacidade ou navegar com base em localização e regras para desativar onde não quiser.
 ipprotection-feature-introduction-title-captive-portal = Está em uma rede pública de WiFi? Experimente a VPN integrada no { -brand-product-name }.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Descartar
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Tenha VPN ilimitada até 30 de janeiro
 ipprotection-holiday-promo-description = Torne sua navegação privativa e mais difícil de rastrear com a VPN integrada.
 ipprotection-holiday-promo-primary-button = Abrir VPN
 ipprotection-holiday-promo-secondary-button = Descartar

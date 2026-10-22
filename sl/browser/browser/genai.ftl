@@ -59,10 +59,6 @@ genai-menu-remove-provider =
     .label = Odstrani { $provider }
 genai-menu-remove-sidebar =
     .label = Odstrani iz stranske vrstice
-# $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Vprašaj { $provider }
-    .tooltiptext = Vprašaj { $provider }
 genai-shortcut-copy-button =
     .aria-label = Kopiraj izbrano besedilo
     .tooltiptext = Kopiraj izbrano besedilo

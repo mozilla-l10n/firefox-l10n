@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = 试用 { -brand-product-name } 的�
 ipprotection-feature-introduction-link-text-2 = 使用全新的<a data-l10n-name="learn-more-vpn">内置 VPN</a> 隐藏真实位置、保护个人数据。
 ipprotection-feature-introduction-title-privacy = 再添加一层隐私保护
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的内置 VPN</a> 有助于保护您的浏览。多个位置任您选择，让浏览更私密。
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } 的内置 VPN</a> 有助于保护您的浏览。多个位置任您选择，让浏览更私密。
 ipprotection-feature-introduction-link-text-privacy-3 = 多个位置任您选择，隐藏真实浏览位置，获得<a data-l10n-name="learn-more-vpn">额外隐私保护</a>。
 ipprotection-feature-introduction-text-summer-promo-1 = 开启此功能，浏览更私密。即日起至 8 月 31 日可<a data-l10n-name="summer-promo-link">获取无限带宽</a>，并解锁更多浏览位置。
 ipprotection-feature-introduction-title-summer-promo = 出门旅行，隐私随行。

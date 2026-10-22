@@ -64,7 +64,6 @@ policy-DisableFormHistory = Не запамінаць гісторыю пошу�
 policy-DisableLaunchOnLogin = Забараніць аўтаматычны запуск { -brand-short-name } пры ўваходзе карыстальніка ў сістэму.
 policy-DisablePrimaryPasswordCreation = Значэнне true не дазваляе стварыць галоўны пароль.
 policy-DisablePasswordReveal2 = Не дазваляць паказваць паролі ў захаваных лагінах або палях пароляў.
-policy-DisablePasswordReveal = Не дазваляйце паказваць паролі ў захаваных лагінах.
 policy-DisablePrivateBrowsing = Адключыць прыватнае агляданне.
 policy-DisableProfileImport = Адключыць каманду меню для імпарту даных з іншага браўзера.
 policy-DisableProfileRefresh2 = Адключыць кнопку «Аднавіць { -brand-short-name }» на старонцы «Звесткі для вырашэння праблемаў» (about:support) і на сайце support.mozilla.org, а таксама прапанову аднавіць { -brand-short-name }, калі ён некаторы час не выкарыстоўваўся.

@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Prøv den innebygde VPN-en i { -bran
 ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringa di og verne dataa dine.
 ipprotection-feature-introduction-title-privacy = Legg til eit nytt lag med personvern
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidreg til å verne surfinga di. Vel mellom fleire plasseringar for å gjere kvar du surfar meir privat.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Den integrerte VPN-en til { -brand-product-name }</a> hjelper til med å beskytte surfinga di. Vel mellom fleire plasseringar for å beskytte personvernet ditt når du surfar.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velje mellom fleire plasseringar for å skjule kvar du surfar.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Bidra til å skjule plasseringa di for <a data-l10n-name="learn-more-vpn">ekstra personvern</a> medan du surfar. Slå VPN på eller av for visse nettstadar.

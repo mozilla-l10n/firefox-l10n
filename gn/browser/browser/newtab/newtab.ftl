@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Viruporukuaa
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Jejapo
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Ta’ãnga araguáva
@@ -170,12 +167,6 @@ home-prefs-mission-message-learn-more-link-srd = Eikuaa mba’éichapa
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Eikuaave
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Tekoñemi poravorã
-    .title = Tekoñemi poravorã
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -308,12 +299,6 @@ newtab-stocks-error-not-available = Mba’ekuaarãita apopyre ndojeporukuaái
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = Embojuruja poravorã viruporukuaa
     .title = Embojuruja poravorã viruporukuaa
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Widget jepovorã jeku’erãva
-    .title = Widget jepovorã jeku’erãva
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -328,9 +313,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Eheka téra térã ta’ãnga’i rupi
     .label = Eheka
     .title = Eheka téra térã ta’ãnga’i rupi
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Jejaporã
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Ñemuhaguasu
@@ -433,11 +415,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Ehecha moneĩha { $license }
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Ta’ãnga aragua poravorã
-    .title = Ta’ãnga aragua poravorã
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -479,9 +456,6 @@ newtab-recent-searches-trending-attribution = { $engine } rupive
 newtab-recent-searches-just-now = Ko’ag̃aite
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Eheka
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Jehekarã rehegua
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -803,8 +777,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Viruporukuaa
-newtab-custom-widget-stocks-toggle =
-    .label = Jejapo
 newtab-custom-widget-picture-toggle =
     .label = Ta’ãnga araguáva
 newtab-custom-widget-search-toggle =
@@ -1310,9 +1282,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Eheja
     .title = Eheja
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = Tysýi jeporavorã
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1404,8 +1373,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Eipe’a ñemomarandu
 newtab-widget-timer-menu-notifications-on = Emyandy marandu’i
 newtab-widget-timer-menu-learn-more = Kuaave
-newtab-widget-timer-menu-button =
-    .aria-label = Aravomoĩha porurã
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1530,8 +1497,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Aty ojesegíva añoite
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Ehupive ojojoguáva…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Ehecha
@@ -1611,9 +1576,6 @@ newtab-sports-widget-third-place = Osẽva mbohapyhápe
 newtab-sports-widget-runner-up = Osẽva mokõihápe
 newtab-sports-widget-champions = Campeón
 newtab-sports-widget-world-cup-champions = Copa Mundial 2026 oganáva
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Campeón 2026-pe
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1720,15 +1682,6 @@ newtab-sports-widget-message-day-in-play-title = Ereko nde ára pukukue jeku’�
 newtab-sports-widget-message-day-in-play-body = Ehecha Mundial, pepyta py’aguapýpe, pehecha aravo arapy tuichakue ha hetave.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Emyasãi widgets
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Ore pytyvõ widgets porãverã
-newtab-sports-widget-message-survey-body = Opáma upe Copa del Mundo. Emoherakuã ne remiandu oikova’ekue hesegua.
-newtab-sports-widget-message-survey-widget-title = ¿Mba’éicha oĩ Copa del Mundo widget?
-newtab-sports-widget-message-survey-widget-body = Ere ne remiandu orepytyvõ hag̃ua romoporãvévo umi widget oútava. Upéi eiporu ipyahúva tysyigua.
-newtab-sports-widget-message-survey-cta =
-    .label = Ejapo encuesta
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1841,12 +1794,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Ndaipóri aravo ojueheguáva
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Tapykue
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = Aravopapaha poravorã
-    .title = Aravopapaha poravorã
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

@@ -52,7 +52,6 @@ policy-DisableFirefoxStudies = Impedìs a { -brand-short-name } di puartâ inden
 policy-DisableForgetButton = Impedìs l'acès al boton Dismentee.
 policy-DisableFormHistory = No sta visâti lis ricercjis e no stâ creâ la cronologjie.
 policy-DisablePrimaryPasswordCreation = Se true (vêr), no si pues creâ une password principâl.
-policy-DisablePasswordReveal = Impedìs di palesâ lis passwords tes credeziâls salvadis.
 policy-DisablePrivateBrowsing = Disabilite la navigazion privade.
 policy-DisableProfileImport = Disabilite il comant dal menù par impuartâ i dâts di un altri navigadôr.
 policy-DisableProfileRefresh = Disabilite il boton “Ripristine { -brand-short-name }” te pagjine about:support.

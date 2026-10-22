@@ -29,10 +29,6 @@ genai-menu-open-generic =
 genai-menu-remove-generic =
     .label = Tirar lo robòt de convèrsa d’IA
 # $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Demandar a { $provider }
-    .tooltiptext = Demandar a { $provider }
-# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Demandar a { $provider }
 genai-menu-new-badge = Nòu

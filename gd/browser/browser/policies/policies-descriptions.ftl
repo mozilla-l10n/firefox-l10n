@@ -41,7 +41,6 @@ policy-DisableFirefoxStudies = Na leig le { -brand-short-name } obair-rannsachai
 policy-DisableForgetButton = Na ceadaich cothrom air a’ phutan “Dìochuimhnich”.
 policy-DisableFormHistory = Na cuimhnich eachdraidh nan lorg is nam foirmean.
 policy-DisablePrimaryPasswordCreation = Ma thagh thu true, cha ghabh prìomh fhacal-faire a chruthachadh.
-policy-DisablePasswordReveal = Na ceadaich nochdadh nam faclan-faire ann an clàraidhean a-steach air an sàbhaladh.
 policy-DisablePrivateBrowsing = Cuir am brabhsadh prìobhaideach à comas.
 policy-DisableProfileImport = Cuir an àithne airson dàta ion-phortadh o bhrabhsair eile à comas.
 policy-DisableProfileRefresh = Cuir am putan “Ath-nuadhaich { -brand-short-name }” à comas air an duilleag about:support.

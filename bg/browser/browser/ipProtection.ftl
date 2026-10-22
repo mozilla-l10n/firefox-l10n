@@ -25,7 +25,6 @@ ipprotection-feature-introduction-button-secondary-remove-1 =
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Вземете неограничен VPN до 30 януари
 ipprotection-holiday-promo-primary-button = Отворете VPN
 
 ## Panel

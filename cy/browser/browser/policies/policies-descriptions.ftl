@@ -64,7 +64,6 @@ policy-DisableFormHistory = Peidio â chofio chwilio a hanes ffurflenni.
 policy-DisableLaunchOnLogin = Atal { -brand-short-name } rhag agor yn awtomatig pan fydd y defnyddiwr yn mewngofnodi.
 policy-DisablePrimaryPasswordCreation = Os yn wir, nid oes modd creu Prif Cyfrinair.
 policy-DisablePasswordReveal2 = Peidiwch gadael i gyfrineiriau gael eu gweld mewn meysydd mewngofnodi neu gyfrineiriau sydd wedi'u cadw.
-policy-DisablePasswordReveal = Peidiwch â gadael i gyfrineiriau gael eu datgelu mewn mewngofnodi sydd wedi'u cadw.
 policy-DisablePrivateBrowsing = Analluogi Pori Preifat.
 policy-DisableProfileImport = Analluogi'r gorchymyn dewislen i fewnforio data o borwr arall.
 policy-DisableProfileRefresh2 = Analluogi'r botwm Adnewyddu { -brand-short-name } yn Gwybodaeth am Ddatrys Problemau (about:support) ac ar support.mozilla.org, yn ogystal â'r anogwr yn cynnig adnewyddu { -brand-short-name } pan nad yw wedi ei ddefnyddio am dipyn.

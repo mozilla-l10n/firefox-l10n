@@ -52,7 +52,6 @@ policy-DisableFirefoxStudies = ป้องกันไม่ให้ { -brand-
 policy-DisableForgetButton = ป้องกันไม่ให้เข้าถึงปุ่ม ลืม
 policy-DisableFormHistory = ไม่จดจำประวัติการค้นหาและแบบฟอร์ม
 policy-DisablePrimaryPasswordCreation = ถ้าเป็นค่า true จะไม่สามารถสร้างรหัสผ่านหลักได้
-policy-DisablePasswordReveal = ไม่อนุญาตให้เปิดเผยรหัสผ่านในการเข้าสู่ระบบที่บันทึกไว้
 policy-DisablePrivateBrowsing = ปิดใช้งานการเรียกดูแบบส่วนตัว
 policy-DisableProfileImport = ปิดใช้งานคำสั่งเมนูในการนำเข้าข้อมูลจากเบราว์เซอร์อื่น
 policy-DisableProfileRefresh = ปิดใช้งานปุ่ม ล้าง { -brand-short-name } ใหม่ ในหน้า about:support

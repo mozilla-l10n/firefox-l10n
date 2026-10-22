@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Use nuestra nueva <a data-l10n-n
 ipprotection-feature-introduction-title-privacy = Agregar otra capa de privacidad
 ipprotection-feature-introduction-title-privacy-1 = Agregue otra capa de privacidad con la VPN incorporada
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger su navegación. Elija entre varias ubicaciones para mantener más privado desde donde navega.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La VPN integrada de { -brand-product-name }</a> ayuda a proteger su navegación. Elija entre múltiples ubicaciones para mantener más privado desde donde navega.
 ipprotection-feature-introduction-link-text-privacy-3 = Consiga <a data-l10n-name="learn-more-vpn">privacidad adicional</a> eligiendo entre múltiples ubicaciones para ocultar desde dónde navega.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Se puede ayudar a ocultar la ubicación para <a data-l10n-name="learn-more-vpn">privacidad adicional</a> mientras se navega. Hay que activar o desactivar la VPN para ciertos sitios.
@@ -123,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Descartar
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Tenga VPN ilimitada hasta el 30 de enero
 ipprotection-holiday-promo-description = Haga que la navegación sea privada y más difícil de rastrear con la VPN incorporada.
 ipprotection-holiday-promo-primary-button = Abrir VPN
 ipprotection-holiday-promo-secondary-button = Descartar

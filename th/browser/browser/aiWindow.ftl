@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = เปิดหน้าต่างส่วนตัวใหม่
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = หน้าต่างคลาสสิก
-toolbar-switcher-customizable-label =
-    .label = ตัวสลับ{ -smart-window-brand-name }
-    .tooltiptext = สลับระหว่างหน้าต่างอัจฉริยะกับหน้าต่างคลาสสิก
 
 ## Input CTA
 

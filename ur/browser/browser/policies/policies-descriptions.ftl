@@ -34,7 +34,6 @@ policy-DisableFirefoxStudies = { -brand-short-name } کو مطالعے  چلان
 policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
 policy-DisableFormHistory = تلاش اور فارم کی سابقات یاد نا رکھیں۔
 policy-DisablePrimaryPasswordCreation = اگر درست ہے تو ، بنیادی پاس ورڈ نہیں بنایا جاسکتا۔
-policy-DisablePasswordReveal = پاس ورڈز کو محفوظ لاگ ان میں ظاہر ہونے کی اجازت نہ دیں۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کریں
 policy-DisableProfileImport = دوسرے براؤزر سے ڈیٹا درآمد کرنے کیلئے مینو کمانڈ کو غیر فعال کریں۔
 policy-DisableSecurityBypass = صارف کو سیکیورٹی کے بعض انتباہات کو نظرانداز کرنے سے روکیں۔

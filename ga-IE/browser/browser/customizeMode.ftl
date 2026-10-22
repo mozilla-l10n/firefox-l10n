@@ -14,14 +14,14 @@ customize-mode-titlebar =
     .label = Barra Teidil
 customize-mode-uidensity-menu-touch =
     .label = Tadhall
-    .accesskey = T
     .tooltiptext = Tadhall
+    .accesskey = T
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Úsáid Tadhall don Mhód Táibléid
 customize-mode-uidensity-menu-normal =
     .label = Gnáthdhlús
-    .accesskey = n
     .tooltiptext = Gnáthdhlús
+    .accesskey = n
 customize-mode-undo-cmd =
     .label = Cealaigh
 

@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Cobalah VPN bawaan { -brand-product-
 ipprotection-feature-introduction-link-text-2 = Gunakan <a data-l10n-name="learn-more-vpn">VPN bawaan</a> baru kami untuk menyembunyikan lokasi Anda dan melindungi data Anda.
 ipprotection-feature-introduction-title-privacy = Tambahkan lapisan privasi lainnya
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN bawaan { -brand-product-name }</a> membantu melindungi penjelajahan Anda. Pilih dari beberapa lokasi untuk menjaga dari mana Anda menjelajah lebih pribadi.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">VPN bawaan { -brand-product-name }</a> membantu melindungi penjelajahan Anda. Pilih dari beberapa lokasi untuk menjaga tempat Anda menjelajah lebih pribadi.
 ipprotection-feature-introduction-link-text-privacy-3 = Dapatkan <a data-l10n-name="learn-more-vpn">privasi ekstra</a> dengan memilih dari beberapa lokasi untuk menyembunyikan tempat Anda menjelajah.
 ipprotection-feature-introduction-text-summer-promo-1 = Nyalakan untuk menjaga penjelajahan Anda lebih pribadi. <a data-l10n-name="summer-promo-link">Dapatkan bandwidth tak terbatas</a> dan lebih banyak lokasi tempat asal menjelajah. Sekarang hingga 31 Agustus.
 ipprotection-feature-introduction-title-summer-promo = Punya rencana perjalanan? Bawa privasi bersama Anda.

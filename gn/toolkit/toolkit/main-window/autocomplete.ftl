@@ -45,10 +45,6 @@ autocomplete-delete-entry = Mboguete
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Embogue { $entry } myanyhẽha rembiasakuégui
-# aria-label and tooltip for the button that opens the edit/delete menu.
-# Variables:
-#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
-autocomplete-more-actions2 = Ejapove { $entry }-pe g̃uarã
 # Tooltip for the button that opens the edit/delete menu.
 autocomplete-more-options = Jeporavorãve
 

@@ -28,8 +28,6 @@ appearance-browser-icon-subpage-title =
 
 appearance-browser-icon-basic-group =
     .label = 标准
-appearance-browser-icon-bonus-group =
-    .label = 特殊
 
 ##
 

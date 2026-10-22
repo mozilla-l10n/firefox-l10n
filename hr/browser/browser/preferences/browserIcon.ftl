@@ -28,8 +28,6 @@ appearance-browser-icon-subpage-title =
 
 appearance-browser-icon-basic-group =
     .label = Standardno
-appearance-browser-icon-bonus-group =
-    .label = Posebno
 
 ##
 

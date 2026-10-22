@@ -64,7 +64,6 @@ policy-DisableFormHistory = Отключает запоминание истор
 policy-DisableLaunchOnLogin = Запрещает автоматический запуск { -brand-short-name } при входе пользователя в систему.
 policy-DisablePrimaryPasswordCreation = Не позволяет устанавливать основной пароль, если установлено значение true.
 policy-DisablePasswordReveal2 = Не позволяет просматривать пароли в сохранённых логинах или полях для паролей.
-policy-DisablePasswordReveal = Не позволяет просматривать пароли у сохранённых логинов.
 policy-DisablePrivateBrowsing = Отключает приватный режим.
 policy-DisableProfileImport = Отключает команду меню для импорта данных из другого браузера.
 policy-DisableProfileRefresh2 = Отключает кнопку Обновить { -brand-short-name } в разделе «Информация для решения проблем» (about:support) и на сайте support.mozilla.org, а также запрос на обновление { -brand-short-name }, если он не используется некоторое время.

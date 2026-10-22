@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Испробајте { -brand-produc
 ipprotection-feature-introduction-link-text-2 = Користите наш нови <a data-l10n-name="learn-more-vpn">уграђени ВПН</a> да сакријете своју локацију и заштитите своје податке.
 ipprotection-feature-introduction-title-privacy = Додајте још један слој приватности
 ipprotection-feature-introduction-link-text-privacy-1 = Уграђени ВПН услуге <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> помаже у заштити вашег прегледања. Изаберите једну од неколико локација како бисте заштитили приватност прегледања.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Уграђени ВПН { -brand-product-name }-а</a> помаже у заштити вашег прегледања. Изаберите више локација како бисте своје прегледање учинили приватнијим.
 ipprotection-feature-introduction-link-text-privacy-3 = Остварите <a data-l10n-name="learn-more-vpn">додатну приватност</a> избором једне од више локација како бисте сакрили то што прегледате.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Помаже у скривању ваше локације за <a data-l10n-name="learn-more-vpn">додатну приватност</a> током прегледања. Подесите ВПН на укључено или искључено за одређене странице.

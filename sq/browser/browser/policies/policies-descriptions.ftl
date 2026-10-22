@@ -50,7 +50,6 @@ policy-DisableFirefoxStudies = Pengojani { -brand-short-name }-it xhirimin e stu
 policy-DisableForgetButton = Pengoni përdorimin e butoni Harroje.
 policy-DisableFormHistory = Mos mba mend historik kërkimesh dhe plotësimi formularësh.
 policy-DisablePrimaryPasswordCreation = Në qoftë <em>true</em>, s’mund të krijohet një Fjalëkalim i Përgjithshëm.
-policy-DisablePasswordReveal = Mos lejo të shfaqen fjalëkalime te kredenciale hyrjesh të ruajtura.
 policy-DisablePrivateBrowsing = Çaktivizoni Shfletimin Privat.
 policy-DisableProfileImport = Çaktivizoni te menuja urdhrin për Importim të dhënash nga një tjetër shfletues.
 policy-DisableProfileRefresh = Çaktivizoni te faqja about:support butonin Rifreskoni { -brand-short-name }-in.

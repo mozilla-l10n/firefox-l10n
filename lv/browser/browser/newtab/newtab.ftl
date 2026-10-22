@@ -106,12 +106,6 @@ home-prefs-weather-header-srd =
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Uzzināt vairāk
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Privātuma iespējas
-    .title = Privātuma iespējas
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -164,12 +158,6 @@ newtab-stocks-menu-learn-more = Uzzināt vairāk
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = Atvērt finanšu izvēlni
     .title = Atvērt finanšu izvēlni
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Akciju logrīka iespējas
-    .title = Akciju logrīka iespējas
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -184,9 +172,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Meklēt pēc nosaukuma vai apzīmējuma
     .label = Meklēt
     .title = Meklēt pēc nosaukuma vai apzīmējuma
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Akcijas
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Tirgi
@@ -339,9 +324,6 @@ newtab-recent-searches-row-remove =
     .aria-label = Noņemt “{ $search }” no nesenajiem meklējumiem
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Meklēt
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Meklēšanas iespējas
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -1027,12 +1009,6 @@ newtab-clock-widget-custom-timezone-input =
     .aria-label = Laika josla
     .label = Laika josla
     .placeholder = Meklēt pēc pilsētas, laika joslas vai UTC nobīdes
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = Pulksteņa iespējas
-    .title = Pulksteņa iespējas
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

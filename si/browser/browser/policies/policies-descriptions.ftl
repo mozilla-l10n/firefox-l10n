@@ -38,7 +38,6 @@ policy-DisableFirefoxStudies = { -brand-short-name } අධ්‍යන ධා�
 policy-DisableForgetButton = අමතක කිරීමේ බොත්තමට ප්‍රවේශය වලක්වන්න
 policy-DisableFormHistory = සෙවුම් හා ආකෘති ඉතිහාසය මතක තබා නොගන්න.
 policy-DisablePrimaryPasswordCreation = හරි නම්, ප්‍රාථමික මුරපදයක් සෑදීමට නොහැකිය.
-policy-DisablePasswordReveal = සුරකින ලද පිවිසුම් තුළ මුරපද හෙළි වීමට ඉඩ නොදෙන්න
 policy-DisablePrivateBrowsing = පෞද්. පිරික්සීම අබල කරන්න.
 policy-DisableProfileImport = අන් අතිරික්සුවකින් දත්ත ආයාත කිරීමට වට්ටෝරුවෙහි විධානය අබල කරන්න.
 policy-DisableProfileRefresh = about:support පිටුවෙහි { -brand-short-name } නැවුම් කරන්න බොත්තම අබල කරන්න.

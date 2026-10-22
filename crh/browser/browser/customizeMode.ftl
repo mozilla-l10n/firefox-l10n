@@ -16,15 +16,15 @@ customize-mode-titlebar =
     .label = Serleva Çubuğı
 customize-mode-uidensity-menu-touch =
     .label = Tiyme
-    .accesskey = T
     .tooltiptext = Tiyme
+    .accesskey = T
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Tablet Tarzı içün Tiyişni Qullan
 customize-mode-overflow-list-description = Unsurlarnı irişim içerisinde lâkin alet çubuğıñız tışında tutmaq içün olarnı mında süyrekleñiz…
 customize-mode-uidensity-menu-normal =
     .label = Normal
-    .accesskey = N
     .tooltiptext = Normal
+    .accesskey = N
 customize-mode-undo-cmd =
     .label = Keri Yap
 

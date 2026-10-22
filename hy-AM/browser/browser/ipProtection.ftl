@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Փորձեք { -brand-product-name }
 ipprotection-feature-introduction-title-privacy = Ավելացրեք գաղտնիության ևս մեկ շերտ
 ipprotection-feature-introduction-title-privacy-1 = Ավելացրեք գաղտնիության ևս մեկ շերտ՝ ներկառուցված VPN-ի միջոցով
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }-ի ներկառուցված VPN-ը</a> օգնում է պաշտպանել ձեր դիտարկումները: Ընտրեք բազմաթիվ տեղադրություններից մեկը՝ ձեր դիտարկման վայրերն ավելի գաղտնի պահելու համար:
 ipprotection-feature-introduction-title-summer-promo = Ունե՞ք ճանապարհորդության ծրագրեր։ Վերցրեք ձեզ հետ գաղտնիությունը։
 ipprotection-feature-introduction-description-summer-promo = Ավելի հեռու գնացեք { -brand-product-name }-ի ներկառուցված VPN-ի միջոցով. ավելի շատ վայրեր, անսահմանափակ թողունակություն։ Այժմ մինչև օգոստոսի 31-ը։
 ipprotection-feature-introduction-link-text-private-browsing-2 = Օգտագործեք մեր նոր <a data-l10n-name="learn-more-vpn">ներկառուցված VPN-ը</a>՝ ձեր գտնվելու վայրը թաքցնելու և տվյալները պաշտպանելու համար, նույնիսկ երբ գտնվում եք «Մասնավոր պատուհանում»։
@@ -111,7 +110,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Բաց թո
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Ստացեք անսահմանափակ VPN մինչև հունվարի 30-ը
 ipprotection-holiday-promo-primary-button = Բացել VPN-ը
 ipprotection-holiday-promo-secondary-button = Բաց թողնել
 

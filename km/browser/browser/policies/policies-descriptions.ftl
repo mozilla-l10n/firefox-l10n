@@ -32,7 +32,6 @@ policy-DisableFirefoxStudies = រារាំង { -brand-short-name } ពី�
 policy-DisableForgetButton = រារាំង​ការ​ចូល​ប្រើ​ប៊ូតុង​រំលង។
 policy-DisableFormHistory = មិន​ចងចាំ​ប្រវត្តិ​ស្វែងរក និង​សំណុំ​បែបបទ
 policy-DisablePrimaryPasswordCreation = ប្រសិនបើ​ពិត នោះពាក្យសម្ងាត់​ចម្បង​មិនអាចត្រូវបានបង្កើតទេ។
-policy-DisablePasswordReveal = កុំអនុញ្ញាតឱ្យបង្ហាញពាក្យសម្ងាត់នៅក្នុងការចូលដែលបានរក្សាទុក។
 policy-DisablePrivateBrowsing = បិទដំណើររុករកឯកជន។
 policy-DisplayBookmarksToolbar = បង្ហាញរបារឧបករណ៍ចំណាំតាមលំនាំដើម
 policy-DisplayMenuBar = បង្ហាញរបារម៉ឺនុយតាមលំនាំដើម។

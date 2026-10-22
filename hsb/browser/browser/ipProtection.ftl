@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Wužiwajće naš nowy <a data-l1
 ipprotection-feature-introduction-title-privacy = Dalšu runinu priwatnosće přidać
 ipprotection-feature-introduction-title-privacy-1 = Přidajće dalšu runinu priwatnosće ze zatwarjenym VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z wjacorych stejnišćow, hdźež chceće priwatnišo přehladować.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Zatwarjeny VPN { -brand-product-name }</a> pomha waše přehladowanje škitać. Wubjerće z wjacorych stejnišćow, hdźež chceće priwatnišo přehladować.
 ipprotection-feature-introduction-link-text-privacy-3 = Wubjerće z wjacorych stejnišćow, zo byšće schował, hdźež přehladujeće, zo byšće <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> dóstał.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Pomhajće, waše stejnišćo za <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> schować, hdyž přehladujeće. Zmóžńće abo znjemóžńće VPN za wěste sydła.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Maće pućowanske plany? 
 ipprotection-feature-introduction-description-summer-promo = Pokročujće ze zatwarjenym VPN { -brand-product-name }: wjace stejnišćow, njewobmjezowana šěrokosć pasma. Nětko hač do 31. awgusta.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužiwajće naš nowy <a data-l10n-name="learn-more-vpn">zatwarjeny VPN</a>, zo byšće swoje stejnišćo schował a swoje daty škitał, samo hdyž sće w priwatnym woknje.
 ipprotection-feature-introduction-description-private-browsing = Schowajće swoje stejnišćo, zo byšće z přidatnym škit přehladował, samo hdyž w priwatnym woknje.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Schowajće swoje stejnišćo, hdyž přehladujeće. Postajće prawidła, zo by´šće VPN za <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> abo na stejnišću bazowace přehladowanje zmóžnił, abo znjemóžnił, hdźež to nječiniće.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Pomhajće, waše stejnišćo za <a data-l10n-name="learn-more-vpn">přidatnu priwatnosć</a> schować, hdyž přehladujeće. Postajće prawidła, zo byšće VPN za přidatnu priwatnosć abo na stejnišću bazowane přehladowanje zmóžnił, a znjemóžnił, hdyž jón njetrjebaće.
 ipprotection-feature-introduction-title-captive-portal = W zjawnym WLAN? Wupruwujće zatwarjeny VPN { -brand-product-name }.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zaćisnyć
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Dóstańće njewobmjezowany VPN hač do 30. januara
 ipprotection-holiday-promo-description = Přehladujće priwatnje a poćežće přesćěhowanje ze zatwarjenym VPN.
 ipprotection-holiday-promo-primary-button = VPN wočinić
 ipprotection-holiday-promo-secondary-button = Zaćisnyć

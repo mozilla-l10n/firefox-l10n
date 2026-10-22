@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = Obre una finestra privada nova
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Finestra clàssica
-toolbar-switcher-customizable-label =
-    .label = Commutador de la { -smart-window-brand-name }
-    .tooltiptext = Canvia entre finestres intel·ligents i clàssiques.
 
 ## Input CTA
 

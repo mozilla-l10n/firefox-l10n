@@ -20,9 +20,6 @@ menu-history-chats-recent =
 ## Smart Window Toggle Button
 
 ai-window-toggleview-status-label-inactive = Klassik Pəncərə
-toolbar-switcher-customizable-label =
-    .label = { -smart-window-brand-name } dəyişdirici
-    .tooltiptext = Ağıllı və Klassik pəncərələr arasında keçid edin.
 
 ## Input CTA
 

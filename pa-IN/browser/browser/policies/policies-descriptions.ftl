@@ -64,7 +64,6 @@ policy-DisableFormHistory = ਖੋਜ ਅਤੇ ਫਾਰਮ ਅਤੀਤ ਨੂ
 policy-DisableLaunchOnLogin = ਜਦੋਂ ਵਰਤੋਂਕਾਰ ਲਾਗਇਨ ਕਰਦਾ ਹੈ ਤਾਂ { -brand-short-name } ਨੂੰ ਆਪਣੇ-ਆਪ ਚੱਲਣ ਤੋਂ ਰੋਕੋ
 policy-DisablePrimaryPasswordCreation = ਜੇ ਇਹ ਸਹੀ ਹੈ, ਤਾਂ ਮੁੱਢਲਾ ਪਾਸਵਰਡ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ।
 policy-DisablePasswordReveal2 = ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਜਾਂ ਪਾਸਵਰਡ ਖੇਤਰਾਂ ਵਿੱਚ ਦਿਖਾਉਣ ਦੀ ਮਨਜ਼ੂਰੀ ਨਾ ਦਿਓ।
-policy-DisablePasswordReveal = ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਵਿੱਚ ਪਾਸਵਰਡ ਵੇਖਣ ਦੀ ਇਜਾਜ਼ਤ ਨਾ ਦਿਓ।
 policy-DisablePrivateBrowsing = ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableProfileImport = ਕਿਸੇ ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਡਾਟਾ ਦਰਾਮਦ ਕਰਨ ਲਈ ਮੇਨੂ ਕਮਾਂਡ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।
 policy-DisableProfileRefresh = about:support ਸਫ਼ੇ ਵਿੱਚ { -brand-short-name } ਬਟਨ ਨੂੰ ਤਾਜ਼ਾ ਕਰਨ ਤੋਂ ਰੋਕੋ।

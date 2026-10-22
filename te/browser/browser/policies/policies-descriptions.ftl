@@ -27,7 +27,6 @@ policy-DisableFirefoxScreenshots = Firefox Screenshots సౌలభ్యాన�
 policy-DisableFirefoxStudies = అధ్యయనాలను నడపడకుండా { -brand-short-name }‌ను నివారించు.
 policy-DisableForgetButton = మర్చిపోయే బొత్తానికి ప్రాప్యతను నిరోధించు.
 policy-DisableFormHistory = వెతుకుడు, ఫారాల చరిత్రను గుర్తుపెట్టుకోవద్దు.
-policy-DisablePasswordReveal = భద్రపరచిన ప్రవేశాలలో సంకేతపదాలను చూపించడాన్ని అనుమతించవద్దు.
 policy-DisablePrivateBrowsing = అంతరంగిక విహరణను అచేతనించు.
 policy-DisableProfileImport = మరొక విహారిణి నుండి దిగుమతి చేసే మెనూ ఆదేశాన్ని అచేతనం చేయి.
 policy-DisableSafeMode = సేఫ్ మోడ్‌లో పునఃప్రారంభించగలిగే సౌలభ్యాన్ని నిలిపివేయండి. గమనిక: Shift మీట ద్వారా సేఫ్ మోడ్‌లోకి ప్రవేశించడాన్ని Windowsలో మాత్రమే గ్రూప్ పాలసీని వాడి నిలిపివేయగలరు.

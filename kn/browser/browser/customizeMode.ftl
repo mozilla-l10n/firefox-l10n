@@ -16,14 +16,14 @@ customize-mode-titlebar =
     .label = ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ
 customize-mode-uidensity-menu-touch =
     .label = ಸ್ಪರ್ಶ
-    .accesskey = T
     .tooltiptext = ಸ್ಪರ್ಶ
+    .accesskey = T
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = ಟ್ಯಾಬ್ಲೆಟ್ ಮೋಡ್‌ಗಾಗಿ ಟಚ್ಅನ್ನು ಬಳಸಿ
 customize-mode-uidensity-menu-normal =
     .label = ಸಾಧಾರಣ
-    .accesskey = N
     .tooltiptext = ಸಾಧಾರಣ
+    .accesskey = N
 customize-mode-undo-cmd =
     .label = ರದ್ದು ಮಾಡು
 

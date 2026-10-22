@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-##
-
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկութիւնը
 
@@ -114,9 +111,6 @@ clear-search-history =
     .label = Մաքրել որոնման պատմութիւնը
     .accesskey = H
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -174,11 +168,6 @@ search-one-offs-tabs =
     .tooltiptext = Ներդիներներ ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Պատմութիւն ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action. English commas should be used, i.e. ,
-
 
 ## Bookmark Panel
 
@@ -306,9 +295,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Անջատել համաւգտագործման պաշտպանութիւնը այս աշխատաշրջանի ընթացքում
 
-## WebSerial "select a port" popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -410,18 +396,6 @@ urlbar-result-action-tabtosearch-other-engine = Փնտրել { $engine }֊ում
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Պատճէնել
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Էջանիշեր
@@ -440,9 +414,6 @@ urlbar-searchmode-popup-add-engine = Աւելացնել « { $engineName } »-ը
 urlbar-result-action-search-bookmarks = Փնտրել էջանիշներում
 urlbar-result-action-search-history = Փնտրել Պատմութեան գրանցումներում
 urlbar-result-action-search-tabs = Փնտրել ներդիրներում
-
-## Used in the menu of a urlbar result.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -465,11 +436,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Փակել ընթերցողի դիտակէտը
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -575,21 +541,15 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = Էլ. Փոստի յղում
     .tooltiptext = Էլ․Փոստի յղումը այս էջում
-# Variables:
-#  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Պահպանել էջը
     .tooltiptext = Պահպանել այս էջը ({ $shortcut })
-# Variables:
-#  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Բացել նիշքը
     .tooltiptext = Բացել նիշք ({ $shortcut })
 toolbar-button-synced-tabs =
     .label = Համաժամեցուած ներդիրներ
     .tooltiptext = Ցուցադրել այլ սարքերի ներդիրները
-# Variables
-# $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Սկսել գաղտնի դիտարկում
     .tooltiptext = Բացել գաղտնի դիտարկման նոր պատուհան ({ $shortcut })
@@ -627,10 +587,6 @@ toolbar-button-copy =
 toolbar-button-paste =
     .label = Փակցնել
     .tooltiptext = Փակցնել ({ $shortcut })
-
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
 
 ## EME notification panel
 
@@ -682,10 +638,6 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Փակել
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-
 ##
 
 picture-in-picture-hide-toggle =
@@ -703,9 +655,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = ձ
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -738,24 +687,11 @@ tabs-toolbar-list-all-tabs =
     .label = Ցուցադրել բոլոր էջերը
     .tooltiptext = Ցուցադրել բոլոր էջերը
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong> Բացե՞լ նախորդ ներդիրները </strong> Կարող էք վերագործարկել նախկին աշխատաշրջանը { -brand-short-name } ծրագրային ցանկից <img data-l10n-name="icon"/> , Պատմութիւն բաժնի ներքեւում:
 restore-session-startup-suggestion-button = Ցոյց տալ, թե ինչպէս
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
-## Address bar result shown when someone who used the Extensions and Themes
-## keyboard shortcut presses that shortcut after it moved to Search Tabs.
-## Variables:
-##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
-##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
-
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -764,28 +700,6 @@ data-reporting-notification-button =
     .label = Ընտրեք այն ինչ ես կիսում եմ
     .accesskey = C
 
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
-
-## Fire button. Clears the whole browsing session, then closes every window and
-## opens a new one.
-
-
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }-ը կասեցրեց այս էջը ինքնաբերաբար վերբեռնումից։
@@ -793,9 +707,6 @@ refresh-blocked-redirect-label = { -brand-short-name }-ը կասեցրեց այ�
 refresh-blocked-allow =
     .label = Թոյլատրել
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -831,29 +742,3 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Ցուցադրել '{ $popupURI }'-ը
-
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

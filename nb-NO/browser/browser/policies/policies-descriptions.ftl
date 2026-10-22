@@ -59,7 +59,6 @@ policy-DisableForgetButton = Forhindre tilgang til knappen Glem.
 policy-DisableFormHistory = Ikke lagre søke- og skjemahistorikk.
 policy-DisableLaunchOnLogin = Hindre at { -brand-short-name } starter automatisk når brukeren logger inn.
 policy-DisablePrimaryPasswordCreation = Om aktiv, kan ikke et hovedpassord lages.
-policy-DisablePasswordReveal = Ikke la passord bli avslørt for lagrede innlogginger.
 policy-DisablePrivateBrowsing = Slå av privat nettlesing.
 policy-DisableProfileImport = Deaktiver meny-kommandoen for å importere data fra en annen nettleser.
 policy-DisableProfileRefresh = Deaktiver knappen Tilbakestill { -brand-short-name } på siden about:support.

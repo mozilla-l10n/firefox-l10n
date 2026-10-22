@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Folosește noul nostru <a data-l
 ipprotection-feature-introduction-title-privacy = Adaugă încă un strat de confidențialitate
 ipprotection-feature-introduction-title-privacy-1 = Adaugă încă un strat de confidențialitate cu VPN-ul încorporat
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN-ul încorporat din { -brand-product-name }</a> ajută la protejarea ta în timpul navigării. Alege din mai multe locații ca să îți păstrezi mai private locurile pe unde intri.
-ipprotection-feature-introduction-link-text-privacy-2 = VPN-ul încorporat din <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> te ajută să îți protejezi navigările pe internet. Alege dintre locații multiple pentru confidențialitatea locurilor pe unde mergi pe internet.
 ipprotection-feature-introduction-link-text-privacy-3 = Obține <a data-l10n-name="learn-more-vpn">confidențialitate extra</a> alegând dintre locații multiple pentru a ascunde pe unde mergi pe internet.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Te ajută să îți ascunzi locația pentru <a data-l10n-name="learn-more-vpn">confidențialitate extra</a> în timp ce navighezi. Activează sau dezactivează VPN-ul pentru anumite site-uri.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Ai planuri de călătorie
 ipprotection-feature-introduction-description-summer-promo = Mergi mai departe cu VPN-ul încorporat în { -brand-product-name }: mai multe locații, lățime de bandă nelimitată. Acum până pe 31 august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele, chiar și într-o fereastră privată.
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Ajută la ascunderea locației când navighezi. Setează reguli pentru activarea VPN-ului pentru<a data-l10n-name="learn-more-vpn">un plus de confidențialitate</a> sau navigare în funcție de locație și pentru dezactivarea lui când nu vrei să îl folosești.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Te ajută să îți ascunzi locația pentru <a data-l10n-name="learn-more-vpn">un plus de confidențialitate</a> în timp ce navighezi. Setează reguli pentru activarea VPN-ului pentru un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
 ipprotection-feature-introduction-title-captive-portal = Ești într-o rețea Wi-Fi publică? Încearcă VPN-ul încorporat din { -brand-product-name }.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Închide
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Obține VPN nelimitat până pe 30 ianuarie
 ipprotection-holiday-promo-description = Navighează privat și fii mai greu de urmărit cu VPN-ul integrat.
 ipprotection-holiday-promo-primary-button = Deschide VPN-ul
 ipprotection-holiday-promo-secondary-button = Închide

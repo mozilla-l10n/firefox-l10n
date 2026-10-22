@@ -64,7 +64,6 @@ policy-DisableFormHistory = No recordar la búsqueda y el historial de formulari
 policy-DisableLaunchOnLogin = Evita que { -brand-short-name } se inicie automáticamente cuando el usuario inicie sesión.
 policy-DisablePrimaryPasswordCreation = Si es verdadero, no se puede crear una contraseña maestra.
 policy-DisablePasswordReveal2 = No permitir que se vean las contraseñas en los inicios de sesión guardados o campos de contraseñas.
-policy-DisablePasswordReveal = No permitir que se vean las contraseñas en los inicios de sesión guardados.
 policy-DisablePrivateBrowsing = Deshabilitar la Navegación privada.
 policy-DisableProfileImport = Deshabilitar el comando de menú para importar datos desde otro navegador.
 policy-DisableProfileRefresh2 = Deshabilitar el botón Refrescar { -brand-short-name } en Información para solución de problemas (about:support) y en support.mozilla.org, así como el mensaje que ofrece refrescar { -brand-short-name } cuando no se haya usado por un tiempo.

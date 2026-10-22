@@ -59,10 +59,6 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Allontanar da la trav laterala
 # $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Dumandar { $provider }
-    .tooltiptext = Dumandar { $provider }
-# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Dumandar { $provider }
 genai-menu-new-badge = Nov

@@ -18,10 +18,6 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = پاک کردن ز نوار کلی
 # $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = پورس کردن ز { $provider }
-    .tooltiptext = پورس کردن ز { $provider }
-# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = پورس کردن ز { $provider }
 genai-menu-new-badge = نۊ

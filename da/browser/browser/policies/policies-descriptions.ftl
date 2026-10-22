@@ -55,7 +55,6 @@ policy-DisableFirefoxStudies = Deaktiver afvikling af { -brand-short-name }-unde
 policy-DisableForgetButton = Bloker adgang til knappen Glem.
 policy-DisableFormHistory = Husk ikke formular- og søgehistorik.
 policy-DisablePrimaryPasswordCreation = En hovedadgangskode kan ikke oprettes, hvis værdien er sat til true.
-policy-DisablePasswordReveal = Tillad ikke adgangskoder at blive vist i gemte logins.
 policy-DisablePrivateBrowsing = Deaktiver privat browsing.
 policy-DisableProfileImport = Deaktiver menu-kommandoen til at importere data fra en anden browser.
 policy-DisableProfileRefresh = Deaktiver knappen Nulstil { -brand-short-name } på siden about:support.

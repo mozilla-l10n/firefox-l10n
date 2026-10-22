@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Använd vår nya <a data-l10n-na
 ipprotection-feature-introduction-title-privacy = Lägg till ytterligare ett lager av sekretess
 ipprotection-feature-introduction-title-privacy-1 = Få ett extra integritetsskydd med inbyggt VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplats mer privat.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }:s inbyggda VPN</a> hjälper till att skydda din surfning. Välj mellan flera platser för att hålla din surfplats mer privat.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">extra integritet</a> genom att välja mellan flera platser för att dölja var du surfar.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Dölj din plats för <a data-l10n-name="learn-more-vpn">bättre integritet</a> när du surfar. Slå på eller av VPN för specifika webbplatser.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Har du resplaner? Ta med 
 ipprotection-feature-introduction-description-summer-promo = Nå längre med { -brand-product-name }:s inbyggda VPN: fler platser, obegränsad bandbredd. Nu fram till 31 augusti.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Använd vår nya <a data-l10n-name="learn-more-vpn">inbyggda VPN</a> för att dölja din plats och skydda din data, även när du är i ett privat fönster.
 ipprotection-feature-introduction-description-private-browsing = Surfa med extra skydd genom att dölja din plats, även när du är i ett privat fönster.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Dölj din plats när du surfar. Skapa regler som aktiverar VPN för <a data-l10n-name="learn-more-vpn">extra integritet</a> eller platsbaserad surfning och inaktiverar det där du inte behöver det.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Dölj din plats för <a data-l10n-name="learn-more-vpn">ökad integritet</a> när du surfar. Skapa regler som aktiverar VPN för ökad integritet eller platsbaserad surfning och inaktiverar det där det inte behövs.
 ipprotection-feature-introduction-title-captive-portal = På offentligt Wi-Fi? Testa { -brand-product-name }:s inbyggda VPN.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorera
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Få obegränsat VPN fram till den 30 januari
 ipprotection-holiday-promo-description = Gör din surfning privat och svårare att spåra med inbyggt VPN.
 ipprotection-holiday-promo-primary-button = Öppna VPN
 ipprotection-holiday-promo-secondary-button = Ignorera

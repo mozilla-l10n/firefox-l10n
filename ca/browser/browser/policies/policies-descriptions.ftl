@@ -58,7 +58,6 @@ policy-DisableForgetButton = Evita l'accés al botó Oblida.
 policy-DisableFormHistory = No recorda l'historial de cerca ni de formularis.
 policy-DisableLaunchOnLogin = Evita que el { -brand-short-name } s'iniciï automàticament quan l'usuari inicia sessió.
 policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
-policy-DisablePasswordReveal = No permet mostrar les contrasenyes dels inicis de sessió desats.
 policy-DisablePrivateBrowsing = Desactiva la navegació privada.
 policy-DisableProfileImport = Desactiva l'ordre de menú «Importa les dades d'un altre navegador».
 policy-DisableProfileRefresh = Desactiva el botó «Restableix el { -brand-short-name } a l'estat inicial» de la pàgina about:support.

@@ -32,7 +32,6 @@ policy-DisableFirefoxScreenshots = Firefox Screenshots এর ফিচার �
 policy-DisableFirefoxStudies = চলমান গবেষণা থেকে { -brand-short-name } বিরত রাখুন।
 policy-DisableForgetButton = Forget বাটন ব্যবহারে বিরত রাখুন।
 policy-DisableFormHistory = অনুসন্ধান ও ফরম ইতিহাস মনে রাখবে না।
-policy-DisablePasswordReveal = সংরক্ষিত লগইনে পাসওয়ার্ড প্রকাশ করার অনুমতি দেবেন না।
 policy-DisablePrivateBrowsing = ব্যক্তিগত ব্রাউজিং নিস্ক্রিয় করুন।
 policy-DisableProfileImport = অন্য ব্রাউজার থেকে তথ্য আমদানি করার মেনু নির্দেশটি নিস্ক্রিয় করুন।
 policy-DisableProfileRefresh = about:support পাতায় রিফ্রেশ { -brand-short-name } বোতামটি নিস্ক্রিয় করুন।

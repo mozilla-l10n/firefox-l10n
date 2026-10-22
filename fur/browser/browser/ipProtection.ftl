@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Prove la VPN integrade di { -brand-p
 ipprotection-feature-introduction-link-text-2 = Dopre la nestre gnove <a data-l10n-name="learn-more-vpn">VPN integrade</a> par platâ la tô posizion e protezi i tiei dâts.
 ipprotection-feature-introduction-title-privacy = Zonte un altri nivel di riservatece
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra varis lûcs par rindi plui riservade la tô ativitât in rêt.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La VPN integrade di { -brand-product-name }</a> e jude a protezi la tô navigazion. Sielç tra diviersis posizions par rindi plui privade la tô ativitât in rêt.
 ipprotection-feature-introduction-link-text-privacy-3 = Oten <a data-l10n-name="learn-more-vpn">plui riservatece</a> sielzint tra diviersis posizions cussì di platâ di dulà che tu ti conetis.
 ipprotection-feature-introduction-text-summer-promo-1 = Ativile, par mantignî ancjemò plui privade la tô navigazion in rêt. <a data-l10n-name="summer-promo-link">Aprofite de largjece di bande ilimitade</a> e de pussibilitât di sielzi tra diviersis posizions di dulà navigâ. La ufierte e je valide fin ai 31 di Avost.
 ipprotection-feature-introduction-title-summer-promo = Âstu tal cjâf di fâ un viaç? Puartiti daûr la tô riservatece.

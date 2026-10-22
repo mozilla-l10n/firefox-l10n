@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = 금융
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = 주식
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = 오늘의 사진
@@ -166,12 +163,6 @@ home-prefs-mission-message-learn-more-link-srd = 방법 알아보기
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = 더 알아보기
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = 개인정보 보호 옵션
-    .title = 개인정보 보호 옵션
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -317,12 +308,6 @@ newtab-stocks-error-not-available = 주식 데이터가 없습니다.
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = 금융 메뉴 열기
     .title = 금융 메뉴 열기
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = 주식 위젯 옵션
-    .title = 주식 위젯 옵션
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -340,9 +325,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = 이름 또는 기호로 검색
     .label = 검색
     .title = 이름 또는 기호로 검색
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = 주식
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = 증시
@@ -456,11 +438,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = { $license } 라이선스 보기
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = 오늘의 사진 옵션
-    .title = 오늘의 사진 옵션
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -527,9 +504,6 @@ newtab-recent-searches-row-remove =
     .aria-label = 최근 검색에서 “{ $search }” 제거
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = 검색
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = 검색 옵션
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -884,8 +858,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = 금융
-newtab-custom-widget-stocks-toggle =
-    .label = 주식
 newtab-custom-widget-picture-toggle =
     .label = 오늘의 사진
 newtab-custom-widget-search-toggle =
@@ -1402,9 +1374,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = 취소
     .title = 취소
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = 목록 옵션
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1496,8 +1465,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = 알림 끄기
 newtab-widget-timer-menu-notifications-on = 알림 켜기
 newtab-widget-timer-menu-learn-more = 더 알아보기
-newtab-widget-timer-menu-button =
-    .aria-label = 타이머 옵션
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1611,8 +1578,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = 팔로우한 팀만
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = 더 많은 경기 로딩 중…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = 시청
@@ -1692,9 +1657,6 @@ newtab-sports-widget-third-place = 3위
 newtab-sports-widget-runner-up = 준우승
 newtab-sports-widget-champions = 우승팀
 newtab-sports-widget-world-cup-champions = 2026년 월드컵 우승팀
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = 2026 우승팀
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1801,15 +1763,6 @@ newtab-sports-widget-message-day-in-play-title = { -brand-product-name } 위젯�
 newtab-sports-widget-message-day-in-play-body = 월드컵 소식을 확인하고, 할 일에 집중하며, 세계 각지의 시간을 확인하는 등 다양한 기능을 만나보세요.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = 위젯 살펴보기
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = 더 나은 위젯을 만들 수 있도록 도와주세요
-newtab-sports-widget-message-survey-body = 월드컵이 막을 내렸습니다. 이번 위젯 경험에 대한 피드백을 공유해 주세요.
-newtab-sports-widget-message-survey-widget-title = 월드컵 위젯은 어떠셨나요?
-newtab-sports-widget-message-survey-widget-body = 더 나은 위젯을 만들 수 있도록 피드백을 공유해 주세요. 그런 다음 내 위젯 목록에 추가된 새로운 위젯도 이용해 보세요.
-newtab-sports-widget-message-survey-cta =
-    .label = 설문 조사 참여
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1923,12 +1876,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = 일치하는 시간대가 없습니다
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = 뒤로
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = 시계 옵션
-    .title = 시계 옵션
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

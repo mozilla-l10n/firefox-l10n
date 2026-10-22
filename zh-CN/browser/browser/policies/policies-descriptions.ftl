@@ -59,7 +59,6 @@ policy-DisableForgetButton = 阻止使用“抹去足迹”按钮。
 policy-DisableFormHistory = 不要记住搜索和表单的历史记录。
 policy-DisableLaunchOnLogin = 阻止 { -brand-short-name } 在用户登录时自动启动。
 policy-DisablePrimaryPasswordCreation = 若为 true，将无法创建主密码。
-policy-DisablePasswordReveal = 阻止密码在列表中明文显示
 policy-DisablePrivateBrowsing = 禁用隐私浏览功能。
 policy-DisableProfileImport = 禁用自其他浏览器导入数据的菜单命令。
 policy-DisableProfileRefresh = 禁用 about:support 页面中的“翻新 { -brand-short-name }”按钮。

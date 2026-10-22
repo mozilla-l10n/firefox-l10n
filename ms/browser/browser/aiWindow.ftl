@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = Buka Tetingkap Peribadi Baharu
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Tetingkap Klasik
-toolbar-switcher-customizable-label =
-    .label = Penukar { -smart-window-brand-name }
-    .tooltiptext = Tukar antara tetingkap Smart dan Klasik.
 
 ## Input CTA
 

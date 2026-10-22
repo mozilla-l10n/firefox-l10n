@@ -61,10 +61,6 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-3 =
     .aria-label = Eporandu ko moñe’ẽrã rehegua
     .tooltiptext = Eporandu ko moñe’ẽrã rehegua
-# $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Eporandu { $provider }-pe
-    .tooltiptext = Eporandu { $provider }-pe
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =

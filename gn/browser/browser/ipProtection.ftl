@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Eiporu VPN jehe’apyre { -brand-pro
 ipprotection-feature-introduction-link-text-2 = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua ne rendaite ha emo’ã ne mba’ekuaarã.
 ipprotection-feature-introduction-title-privacy = Embojuaju ambue tekoñemiverã
 ipprotection-feature-introduction-link-text-privacy-1 = VPN oñemohendapyréva <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> rehegua oipytyvõ omo’ã hag̃ua ne ñeikundaha. Eiporavo heta hendágui eikundaha ñemi hag̃ua.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn"> VPN ojuajupyréva { -brand-product-name }</a> rehegua oipytyvõ omo’ãkuaa hag̃ua ne ñeikundaha. Eiporavo heta hendágui eikundaha ñemi hag̃ua.
 ipprotection-feature-introduction-link-text-privacy-3 = Ehupyty <a data-l10n-name="learn-more-vpn">tekoñemive</a> eiporavóvo heta tendaite apytégui eñomi hag̃ua eikundahaha.
 ipprotection-feature-introduction-title-summer-promo = ¿Eviajasépa? Egueraha nendive nde rekoñemi.
 ipprotection-feature-introduction-description-summer-promo = Eg̃uahẽ mombyryve VPN juajupyre { -brand-product-name } ndive: tendaiteve, banda ancha opa’ỹva. Kóva 31 japorundy peve.

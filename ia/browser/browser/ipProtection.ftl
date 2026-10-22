@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Usa nostre nove <a data-l10n-nam
 ipprotection-feature-introduction-title-privacy = Adder un altere nivello de confidentialitate
 ipprotection-feature-introduction-title-privacy-1 = Adde un altere nivello de confidentialitate con le VPN integrate
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige de plure positiones pro mantener ubi tu naviga plus private.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Le VPN integrate de { -brand-product-name }</a> adjuta a proteger tu navigation. Elige de plure positiones pro mantener plus private ubi tu naviga.
 ipprotection-feature-introduction-link-text-privacy-3 = Obtene <a data-l10n-name="learn-more-vpn">ulterior confidentialitate</a> seligente de plure positiones pro celar ubi tu naviga.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Adjuta a celar tu position pro <a data-l10n-name="learn-more-vpn">confidentialitate ulterior</a> quando tu naviga. Activa o disactiva le VPN pro certe sitos.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Recipeva planos de viage?
 ipprotection-feature-introduction-description-summer-promo = Ir ultra con le VPN integrate de { -brand-product-name }: plus positiones, illimitate largessa de banda. Ora usque le 31 augusto.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Usa nostre nove <a data-l10n-name="learn-more-vpn">VPN integrate</a> pro celar tu position e proteger tu datos, mesmo quando tu es in un Fenestra private.
 ipprotection-feature-introduction-description-private-browsing = Navigar con protection ulterior celante tu position, mesmo quando tu es in un Fenestra private.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Adjuta a celar tu position quando tu navigaStabili le regulas pro activar le VPN pro <a data-l10n-name="learn-more-vpn">ulterior confidentialitate</a> o le navigation basate sur loco, e disactivar ubi tu non vole.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Adjuta a celar tu position pro <a data-l10n-name="learn-more-vpn">confidentialitate ulterior</a> quando tu naviga. Predefini regulas pro activar le VPN pro confidentialitate ulterior o navigation basate sur position, e disactivar ubi non.
 ipprotection-feature-introduction-title-captive-portal = Es tu sur un wi-fi public? Essaya le VPN integrate de { -brand-product-name }.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorar
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Recipe VPN illimitate usque le 30 de januario
 ipprotection-holiday-promo-description = Rende private e plus ardue a traciar tu navigation con le VPN integrate.
 ipprotection-holiday-promo-primary-button = Aperir VPN
 ipprotection-holiday-promo-secondary-button = Ignorar

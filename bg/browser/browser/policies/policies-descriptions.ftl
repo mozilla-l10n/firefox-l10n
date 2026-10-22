@@ -25,7 +25,6 @@ policy-DisableFirefoxScreenshots = Изключване на функцията 
 policy-DisableFirefoxStudies = Забранява на { -brand-short-name } да извършва изследвания.
 policy-DisableForgetButton = Предотвратяване на достъпа до бутона "Забравяне".
 policy-DisablePrimaryPasswordCreation = Ако е true, не може да бъде създадена главна парола.
-policy-DisablePasswordReveal = В запазените регистрации паролите не могат да бъдат показвани.
 policy-DisablePrivateBrowsing = Изключва поверителното разглеждане.
 policy-DisableProfileRefresh = Забраняване на бутона за опресняване на { -brand-short-name } в страницата about:support.
 policy-DisableSystemAddonUpdate = Забранява на браузъра да инсталира и обновява системни добавки.

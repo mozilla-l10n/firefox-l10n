@@ -58,7 +58,6 @@ policy-DisableForgetButton = Ani eheja votõ Tesaráipe jeike.
 policy-DisableFormHistory = Ani nemandu’a jeheka ha tembiasakue myanyhẽha rehe.
 policy-DisableLaunchOnLogin = Emboyke ani { -brand-short-name } oñepyrũ ijeheguiete poruhára oike jave.
 policy-DisablePrimaryPasswordCreation = Añetérõ, ndaikatúi emoheñói Ñe’ẽñemi ha’etéva.
-policy-DisablePasswordReveal = Ani emoneĩ ojehecha ñe’ẽñemi tembiapo ñepyrũ ñongatupyrépe.
 policy-DisablePrivateBrowsing = Eipe’a kundaha ñemigua.
 policy-DisableProfileImport = Eipe’a poravorã mbohapeha egueru hag̃ua mba’ekuaarã ambue kundaháragui.
 policy-DisableProfileRefresh = Eipe’a votõ Myanyhẽjey { -brand-short-name } about:support kuatyaroguépe.

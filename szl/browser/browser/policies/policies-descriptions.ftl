@@ -38,7 +38,6 @@ policy-DisableFirefoxStudies = Zakazowanie aplikacyji { -brand-short-name } klud
 policy-DisableForgetButton = Zakazowanie dostympu do knefla "Przepōmnij".
 policy-DisableFormHistory = Wyłōnczanie spamiyntowanio historyje szukanio i formularōw.
 policy-DisablePrimaryPasswordCreation = Jak to je aktywne, to niy idzie zrychtować głōwnego hasła.
-policy-DisablePasswordReveal = Zakazowanie pokazowanio haseł we spamiyntanych danych logowanio.
 policy-DisablePrivateBrowsing = Zastawianie prywatnego przeglōndanio.
 policy-DisableProfileImport = Zastawianie możności importowanio danych z inkszyj przeglōndarki.
 policy-DisableProfileRefresh = Zastawianie knefla do ôdświyżanio aplikacyje { -brand-short-name } na strōnie about:support.

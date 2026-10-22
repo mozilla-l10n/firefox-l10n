@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Használja az új <a data-l10n-n
 ipprotection-feature-introduction-title-privacy = Adjon hozzá még egy adatvédelmi réteget
 ipprotection-feature-introduction-title-privacy-1 = Adjon egy további adatvédelmi réteget a beépített VPN-nel
 ipprotection-feature-introduction-link-text-privacy-1 = A <a data-l10n-name="learn-more-vpn">A { -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon több hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
-ipprotection-feature-introduction-link-text-privacy-2 = A <a data-l10n-name="learn-more-vpn">{ -brand-product-name } beépített VPN-je</a> segít megvédeni a böngészését. Válasszon több hely közül, hogy még nagyobb adatvédelem mellett böngésszen.
 ipprotection-feature-introduction-link-text-privacy-3 = Kapjon <a data-l10n-name="learn-more-vpn">további adatvédelmet</a> azáltal, hogy választ több hely közül, hogy elrejtse a böngészési helyét.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Segítsen elrejteni a tartózkodási helyét a <a data-l10n-name="learn-more-vpn">további adatvédelem</a> érdekében böngészés közben. Egyes webhelyeknél külön be- vagy kikapcsolhatja a VPN-t.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Utazási tervei vannak? V
 ipprotection-feature-introduction-description-summer-promo = Jusson tovább a { -brand-product-name } beépített VPN-jével: több hely, korlátlan sávszélesség. Mostantól augusztus 31-ig.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Használja az új <a data-l10n-name="learn-more-vpn">beépített VPN-ünket</a>, hogy elrejtse a tartózkodási helyét és megvédje az adatait, még akkor is, ha privát ablakban van.
 ipprotection-feature-introduction-description-private-browsing = Böngésszen a tartózkodási helyének elrejtésével, extra védelemmel, még privát ablakban is.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Segítsen elrejteni a tartózkodási helyét böngészés közben. Állítson be szabályokat a VPN bekapcsolásához a <a data-l10n-name="learn-more-vpn">további adatvédelem</a> vagy a helyfüggő böngészés érdekében, és kikapcsolja ott, ahol nincs rá szüksége.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Segítsen elrejteni a tartózkodási helyét a <a data-l10n-name="learn-more-vpn">további adatvédelem</a> érdekében böngészés közben. Állítson be szabályokat a VPN bekapcsolásához a fokozott adatvédelem vagy a helyalapú böngészés érdekében, és kapcsolja ki a VPN-t, ahol nem.
 ipprotection-feature-introduction-title-captive-portal = Nyilvános Wi-Fi-n van? Próbálja ki a { -brand-product-name } beépített VPN-jét.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Eltünteté
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Kapjon korlátlan VPN-t január 30-ig
 ipprotection-holiday-promo-description = Tegye priváttá és nehezebben nyomon követhetővé a böngészését a beépített VPN-nel.
 ipprotection-holiday-promo-primary-button = VPN megnyitása
 ipprotection-holiday-promo-secondary-button = Eltüntetés

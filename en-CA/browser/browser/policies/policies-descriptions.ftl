@@ -64,7 +64,6 @@ policy-DisableFormHistory = Don’t remember search and form history.
 policy-DisableLaunchOnLogin = Prevent { -brand-short-name } from launching automatically when the user logs in.
 policy-DisablePrimaryPasswordCreation = If true, a Primary Password can’t be created.
 policy-DisablePasswordReveal2 = Do not allow passwords to be revealed in saved logins or password fields.
-policy-DisablePasswordReveal = Do not allow passwords to be revealed in saved logins.
 policy-DisablePrivateBrowsing = Disable Private Browsing.
 policy-DisableProfileImport = Disable the menu command to Import data from another browser.
 policy-DisableProfileRefresh2 = Disable the Refresh { -brand-short-name } button in Troubleshooting Information (about:support) and on support.mozilla.org, as well as the prompt offering to refresh { -brand-short-name } when it hasn’t been used for a while.

@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = ᱱᱟᱶᱟ ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱚ ᱡᱷᱤᱡᱽ ᱢᱮ
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = ᱠᱞᱟᱥᱤᱠ ᱡᱟᱨᱞᱟ
-toolbar-switcher-customizable-label =
-    .label = { -smart-window-brand-name } ᱵᱚᱫᱚᱞᱤᱭᱟᱹ
-    .tooltiptext = ᱥᱢᱟᱨᱴ ᱟᱨ ᱠᱞᱟᱥᱤᱠ ᱡᱟᱨᱞᱟ ᱠᱚ ᱛᱟᱞᱟ ᱨᱮ ᱵᱚᱫᱚᱞ ᱢᱮ ᱾
 
 ## Input CTA
 

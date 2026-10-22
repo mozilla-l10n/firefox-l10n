@@ -51,7 +51,6 @@ policy-DisableFirefoxStudies = «{ -brand-short-name }»-ро аз иҷроку�
 policy-DisableForgetButton = Дастрасиро ба тугмаи «Фаромӯш кардан» манъ мекунад.
 policy-DisableFormHistory = Нигоҳдории таърихи ҷустуҷӯ ва шаклҳоро дар хотири низом ғайрифаъол мекунад.
 policy-DisablePrimaryPasswordCreation = Агар «true» бошад, ниҳонвожаи асосӣ эҷод карда намешавад.
-policy-DisablePasswordReveal = Имкон намедиҳад, ки ниҳонвожаҳо дар воридшавиҳои нигоҳдошташуда намоиш дода шаванд.
 policy-DisablePrivateBrowsing = Тамошобинии хусусиро ғайрифаъол мекунад.
 policy-DisableProfileImport = Фармони менюро барои ворид кардани маълумот аз браузери дигар ғайрифаъол мекунад.
 policy-DisableProfileRefresh = Тугмаи «Аз нав сохтани { -brand-short-name }»-ро дар саҳифаи «about:support» ғайрифаъол мекунад.

@@ -58,9 +58,6 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = 공유…
     .accesskey = h
-
-##
-
 urlbar-identity-button =
     .aria-label = 사이트 정보 보기
 
@@ -750,11 +747,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · 스폰서
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 묻기
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1157,13 +1149,9 @@ qrcode-image =
     .aria-label = QR 코드
 qrcode-close-button =
     .aria-label = 닫기
-# Variables:
-#  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = 페이지 저장
     .tooltiptext = 이 페이지 저장 ({ $shortcut })
-# Variables:
-#  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = 파일 열기
     .tooltiptext = 파일 열기 ({ $shortcut })
@@ -1173,8 +1161,6 @@ toolbar-button-synced-tabs =
 toolbar-button-send-tab =
     .label = 탭 보내기
     .tooltiptext = 현재 탭을 다른 기기로 보내기
-# Variables
-# $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = 새 사생활 보호 창
     .tooltiptext = 새 사생활 보호 창 열기 ({ $shortcut })
@@ -1308,9 +1294,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1561,13 +1544,6 @@ file-picker-crashed-open = Windows 파일 대화 상자가 충돌했습니다. �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 파일 대화 상자가 충돌했습니다. 파일은 { $path }에 저장됩니다.
 file-picker-crashed-save-nowhere = Windows 파일 대화 상자가 충돌했습니다. 기본 폴더를 찾을 수 없습니다. 파일은 저장되지 않습니다.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = 폴더에서 보기
     .accessKey = F
@@ -1620,9 +1596,6 @@ trustpanel-blocker-see-all = 모두 보기
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host }에 대한 추적 방지
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

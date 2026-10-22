@@ -64,7 +64,6 @@ policy-DisableFormHistory = Pytańsku a formularnu historiju se njespomnjeś.
 policy-DisableLaunchOnLogin = Zawoborajśo { -brand-short-name } awtomatiski startowaś, gaž se wužywaŕ pśizjawja.
 policy-DisablePrimaryPasswordCreation = Jolic to trjefijo, njedajo se głowne gronidło napóraś.
 policy-DisablePasswordReveal2 = Njedowóliś, až se gronidła w skłaźonych pśizjawjenjach abo gronidłowych pólach pokazuju.
-policy-DisablePasswordReveal = Njedowóliś, až se gronidła w skłaźonych pśizjawjenjach pokazuju
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžniś.
 policy-DisableProfileImport = Menijowy pśikaz za importěrowanje datow z drugego wobglědowaka znjemóžniś.
 policy-DisableProfileRefresh2 = Znjemóžniśo tłocašk { -brand-short-name } aktualizěrowaś w informacijach wó rozwězowanju problemow (about:support) a na support.mozilla.org a naspominanje { -brand-short-name } aktualizěrowaś, gaž njejo se chylku wužywał.

@@ -50,10 +50,6 @@ autocomplete-delete-entry = 刪除
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = 從表單填寫紀錄刪除「{ $entry }」
-# aria-label and tooltip for the button that opens the edit/delete menu.
-# Variables:
-#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
-autocomplete-more-actions2 = 有關「{ $entry }」的更多操作
 # Tooltip for the button that opens the edit/delete menu.
 autocomplete-more-options = 更多選項
 # Accessible name for the button that opens the edit/delete menu. It names the

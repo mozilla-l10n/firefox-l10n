@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Proveu la VPN integrada del { -brand
 ipprotection-feature-introduction-link-text-2 = Feu servir la nostra nova <a data-l10n-name="learn-more-vpn">VPN integrada</a> per a amagar la vostra ubicació i protegir les dades.
 ipprotection-feature-introduction-title-privacy = Afegiu una altra capa de privadesa
 ipprotection-feature-introduction-link-text-privacy-1 = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ajuda a protegir la navegació. Trieu entre diverses ubicacions per a navegar amb més privadesa.
-ipprotection-feature-introduction-link-text-privacy-2 = La VPN integrada del <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> ajuda a protegir la navegació. Trieu entre diverses ubicacions per mantenir la privadesa dels llocs des d'on navegueu.
 ipprotection-feature-introduction-link-text-privacy-3 = Obteniu <a data-l10n-name="learn-more-vpn">més privadesa</a> triant entre diverses ubicacions per amagar des d'on navegueu.
 ipprotection-feature-introduction-text-summer-promo-1 = Activeu-ho per mantenir la privadesa de la navegació. <a data-l10n-name="summer-promo-link">Obteniu amplada de banda il·limitada</a> i més ubicacions des de les quals navegar. Ara fins al 31 d'agost.
 ipprotection-feature-introduction-title-summer-promo = Teniu pensat anar de viatge? Emporteu-vos-hi la privadesa.

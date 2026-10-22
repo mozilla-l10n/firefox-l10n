@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Finances
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Accions
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Imatge del dia
@@ -170,12 +167,6 @@ home-prefs-mission-message-learn-more-link-srd = Descobriu com
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Més informació
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Opcions de privadesa
-    .title = Opcions de privadesa
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -303,9 +294,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Cerca per nom o símbol
     .label = Cerca
     .title = Cerca per nom o símbol
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Accions
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Mercats
@@ -411,11 +399,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Mostra la llicència { $license }
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Opcions de la imatge del dia
-    .title = Opcions de la imatge del dia
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -756,8 +739,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Finances
-newtab-custom-widget-stocks-toggle =
-    .label = Accions
 newtab-custom-widget-picture-toggle =
     .label = Imatge del dia
 newtab-custom-widget-search-toggle =
@@ -1406,9 +1387,6 @@ newtab-sports-widget-now = Ara
 newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Subcampió
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Campions 2026
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
 newtab-sports-widget-match-vs = contra
@@ -1452,13 +1430,6 @@ newtab-sports-widget-team-name-label-sco =
 
 newtab-sports-widget-message-add-widgets-cta =
     .label = Afegeix ginys
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Ajudeu-nos a millorar els ginys
-newtab-sports-widget-message-survey-body = Això és el final de la Copa del Món. Compartiu la vostra opinió de l’experiència.
-newtab-sports-widget-message-survey-cta =
-    .label = Fes l’enquesta
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

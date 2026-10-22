@@ -64,7 +64,6 @@ policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulár
 policy-DisableLaunchOnLogin = Zabráni automatickému spusteniu { -brand-short-name(case: "gen") } po prihlásení používateľa.
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
 policy-DisablePasswordReveal2 = Zakáže zobrazovanie hesiel v uložených prihlasovacích údajoch a poliach pre heslá.
-policy-DisablePasswordReveal = Zablokuje zobrazovanie hesiel v správcovi prihlasovacích údajov.
 policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie.
 policy-DisableProfileImport = Zablokuje možnosť importu údajov z iných prehliadačov.
 policy-DisableProfileRefresh2 = Zakáže tlačidlo Obnoviť { -brand-short-name } v Informácie pre riešenie problémov (about:support) a na stránke support.mozilla.org, ako aj výzvu na obnovenie aplikácie { -brand-short-name }, ak sa dlhší čas nepoužívala.

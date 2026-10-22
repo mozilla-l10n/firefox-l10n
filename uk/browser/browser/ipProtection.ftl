@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Спробуйте вбудован�
 ipprotection-feature-introduction-link-text-2 = Скористайтеся нашою новою <a data-l10n-name="learn-more-vpn">вбудованою VPN</a>, щоб приховати своє розташування і захистити свої дані.
 ipprotection-feature-introduction-title-privacy = Додайте ще один рівень приватності
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Вбудована VPN від { -brand-product-name }</a> допомагає захистити вас під час вебперегляду. Виберіть одне з кількох розташувань, щоб забезпечити вдосконалену приватність.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Вбудована VPN від { -brand-product-name }</a> допомагає захистити вас під час вебперегляду. Виберіть одне з багатьох розташувань, щоб забезпечити вдосконалену приватність.
 ipprotection-feature-introduction-link-text-privacy-3 = Отримайте <a data-l10n-name="learn-more-vpn">додаткову приватність,</a> вибравши одне з багатьох розташувань, щоб приховати свої дані.
 ipprotection-feature-introduction-text-summer-promo-1 = Увімкніть цю функцію, щоб покращити приватність під час вебперегляду. <a data-l10n-name="summer-promo-link">Отримайте необмежену пропускну здатність</a> та більше розташувань для перегляду. Пропозиція діє до 31 серпня.
 ipprotection-feature-introduction-title-summer-promo = Плануєте подорож? Візьміть приватність із собою.

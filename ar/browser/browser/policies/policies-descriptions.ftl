@@ -49,7 +49,6 @@ policy-DisableForgetButton = منع الوصول إلى زر النسيان.
 policy-DisableFormHistory = عدم تذكّر تأريخ الاستمارات والبحث.
 policy-DisableLaunchOnLogin = امنع { -brand-short-name } من التشغيل تلقائيًا عند ولوج المستخدم.
 policy-DisablePrimaryPasswordCreation = إن كان ”صحيح“، فلا يمكن إنشاء كلمة سر رئيسية.
-policy-DisablePasswordReveal = لا تسمح بكشف كلمات السر في جلسات الولوج المحفوظة.
 policy-DisablePrivateBrowsing = تعطيل التصفح الخاص.
 policy-DisableProfileImport = تعطيل أمر القائمة الخاص باستيراد البيانات من المتصفحات الأخرى.
 policy-DisableProfileRefresh = تعطيل زر ”أنعِش { -brand-short-name }“ في صفحة about:support.

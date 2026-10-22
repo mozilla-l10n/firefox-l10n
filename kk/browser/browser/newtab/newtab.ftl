@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Қаржы
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Акциялар
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Осы күннің суреті
@@ -170,12 +167,6 @@ home-prefs-mission-message-learn-more-link-srd = Қалай екенін біл�
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Көбірек білу
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Жекелік опциялары
-    .title = Жекелік опциялары
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -349,12 +340,6 @@ newtab-stocks-error-not-available = Қор биржасы деректері қ�
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = Қаржы мәзірін ашу
     .title = Қаржы мәзірін ашу
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Акциялар виджетінің опциялары
-    .title = Акциялар виджетінің опциялары
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -372,9 +357,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Аты немесе белгісі бойынша іздеу
     .label = Іздеу
     .title = Аты немесе белгісі бойынша іздеу
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Акциялар
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Нарықтар
@@ -492,11 +474,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = { $license } лицензиясын қарау
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Осы күннің суреті опциялары
-    .title = Осы күннің суреті опциялары
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -563,9 +540,6 @@ newtab-recent-searches-row-remove =
     .aria-label = Жуырдағы іздеулерден «{ $search }» өшіру
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Іздеу
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Іздеу опциялары
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -920,8 +894,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Қаржы
-newtab-custom-widget-stocks-toggle =
-    .label = Акциялар
 newtab-custom-widget-picture-toggle =
     .label = Осы күннің суреті
 newtab-custom-widget-search-toggle =
@@ -1438,9 +1410,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Бас тарту
     .title = Бас тарту
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = Тізімдер опциялары
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1532,8 +1501,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Хабарламаларды сөндіру
 newtab-widget-timer-menu-notifications-on = Хабарламаларды іске қосу
 newtab-widget-timer-menu-learn-more = Көбірек білу
-newtab-widget-timer-menu-button =
-    .aria-label = Таймер опциялары
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1657,8 +1624,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Тек жазылған командалар
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Көбірек матчтарды жүктеу…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Қарау
@@ -1738,9 +1703,6 @@ newtab-sports-widget-third-place = Үшінші орын
 newtab-sports-widget-runner-up = Екінші орын алған
 newtab-sports-widget-champions = Чемпиондар
 newtab-sports-widget-world-cup-champions = 2026 ӘЧ чемпиондары
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = 2026 чемпиондары
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1847,15 +1809,6 @@ newtab-sports-widget-message-day-in-play-title = Күніңізді { -brand-pro
 newtab-sports-widget-message-day-in-play-body = Әлем чемпионатын қадағалаңыз, тапсырманы орындаңыз, әлем бойынша уақытты бақылаңыз және т.б.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Виджеттерді шолу
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Бізге виджеттерді жақсартуға көмектесіңіз
-newtab-sports-widget-message-survey-body = Әлем чемпионаты аяқталды. Өз пікіріңізбен бөлісіңіз.
-newtab-sports-widget-message-survey-widget-title = Әлем чемпионаты виджеті қалай болды?
-newtab-sports-widget-message-survey-widget-body = Болашақ виджеттерді жақсартуға көмектесу үшін пікіріңізбен бөлісіңіз. Содан кейін тізіміңіздегі жаңасын пайдаланып көріңіз.
-newtab-sports-widget-message-survey-cta =
-    .label = Сауалнамадан өту
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1969,12 +1922,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Сәйкес келетін уақыт белдеулері жоқ
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Артқа
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = Сағат опциялары
-    .title = Сағат опциялары
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

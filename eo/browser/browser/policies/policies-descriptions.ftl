@@ -59,7 +59,6 @@ policy-DisableForgetButton = Malpermesi aliron al la butono "Forgesi".
 policy-DisableFormHistory = Ne memori serĉan kah formularan historion.
 policy-DisableLaunchOnLogin = Eviti ke { -brand-short-name } aŭtomate komencu kiam la uzanto komencas seancon.
 policy-DisablePrimaryPasswordCreation = Se tio estas aktiva, ne eblos krei ĉefan pasvorton.
-policy-DisablePasswordReveal = Ne permesi malkaŝi pasvortojn en konservitaj legitimiloj.
 policy-DisablePrivateBrowsing = Malaktivigi privatan retumon
 policy-DisableProfileImport = Malaktivigi la menueron por importi datumojn el alia retumilo.
 policy-DisableProfileRefresh = Malaktivigi la butonon "Reŝargi { -brand-short-name }" en la paĝo about:support.

@@ -14,14 +14,14 @@ customize-mode-titlebar =
     .label = Ibha yomxholo
 customize-mode-uidensity-menu-touch =
     .label = Chukumisa
-    .accesskey = C
     .tooltiptext = Chukumisa
+    .accesskey = C
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Sebenzisa uChukumisa kwiMowudi yeTablethi
 customize-mode-uidensity-menu-normal =
     .label = Okuqhelekileyo
-    .accesskey = O
     .tooltiptext = Okuqhelekileyo
+    .accesskey = O
 customize-mode-undo-cmd =
     .label = Lungisa okwenzileyo
 

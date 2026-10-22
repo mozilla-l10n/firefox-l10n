@@ -64,7 +64,6 @@ policy-DisableFormHistory = Να μην γίνεται διατήρηση ιστ
 policy-DisableLaunchOnLogin = Αποτροπή αυτόματης εκκίνησης του { -brand-short-name } κατά τη σύνδεση του χρήστη.
 policy-DisablePrimaryPasswordCreation = Αν είναι αληθές, δεν είναι δυνατή η δημιουργία κύριου κωδικού πρόσβασης.
 policy-DisablePasswordReveal2 = Να μην επιτρέπεται η αποκάλυψη κωδικών πρόσβασης σε αποθηκευμένες συνδέσεις ή πεδία κωδικού πρόσβασης.
-policy-DisablePasswordReveal = Να μην επιτρέπεται η αποκάλυψη κωδικών πρόσβασης σε αποθηκευμένες συνδέσεις.
 policy-DisablePrivateBrowsing = Απενεργοποίηση ιδιωτικής περιήγησης.
 policy-DisableProfileImport = Απενεργοποίηση της εντολής μενού για εισαγωγή δεδομένων από άλλο πρόγραμμα περιήγησης.
 policy-DisableProfileRefresh2 = Απενεργοποίηση του κουμπιού ανανέωσης του { -brand-short-name } στις Πληροφορίες επίλυσης προβλημάτων (about:support) και στο support.mozilla.org, καθώς και του μηνύματος που προσφέρει τη δυνατότητα ανανέωσης του { -brand-short-name } όταν δεν έχει χρησιμοποιηθεί για κάποιο χρονικό διάστημα.

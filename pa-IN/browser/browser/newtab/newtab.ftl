@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = ਵਿੱਤੀ
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = ਸਟਾਕ
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = ਅੱਜ ਦੀ ਤਸਵੀਰ
@@ -170,12 +167,6 @@ home-prefs-mission-message-learn-more-link-srd = ਸਮਝੋ ਕਿ ਕਿਵ�
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = ਹੋਰ ਜਾਣੋ
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = ਪਰਦੇਦਾਰੀ ਚੋਣਾਂ
-    .title = ਪਰਦੇਦਾਰੀ ਚੋਣਾਂ
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -349,12 +340,6 @@ newtab-stocks-error-not-available = ਸਟਾਕ ਡਾਟਾ ਮੌਜੂਦ �
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = ਵਿੱਤੀ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
     .title = ਵਿੱਤੀ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = ਸਟਾਕ ਵਿਜੈੱਟ ਚੋਣਾਂ
-    .title = ਸਟਾਕ ਵਿਜੈਟ ਚੋਣਾਂ
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -372,9 +357,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
     .label = ਖੋਜ
     .title = ਨਾਂ ਜਾਂ ਨਿਸ਼ਾਨ ਨਾਲ ਲੱਭੋ
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = ਸਟਾਕ
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = ਬਾਜ਼ਾਰ
@@ -492,11 +474,6 @@ newtab-picture-attribution-source-link = ਵਿਕੀਮੀਡੀਆ ਕਾਮ�
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = { $license } ਲਸੰਸ ਨੂੰ ਵੇਖੋ
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
-    .title = ਦਿਨ ਦੀ ਤਸਵੀਰ ਲਈ ਚੋਣਾਂ
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -563,9 +540,6 @@ newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” ਨੂੰ ਸੱਜਰੀਆਂ ਖੋਜਾਂ ਵਿੱਚ ਹਟਾਓ
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = ਖੋਜ
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = ਖੋਜ ਚੋਣਾਂ
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -921,8 +895,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = ਵਿੱਤੀ
-newtab-custom-widget-stocks-toggle =
-    .label = ਸਟਾਕ
 newtab-custom-widget-picture-toggle =
     .label = ਅੱਜ ਦੀ ਤਸਵੀਰ
 newtab-custom-widget-search-toggle =
@@ -1439,9 +1411,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = ਰੱਦ ਕਰੋ
     .title = ਰੱਦ ਕਰੋ
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = ਚੋਣਾਂ ਦੀ ਸੂਚੀ
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1533,8 +1502,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ
 newtab-widget-timer-menu-notifications-on = ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਨੂੰ ਚਾਲੂ ਕਰੋ
 newtab-widget-timer-menu-learn-more = ਹੋਰ ਜਾਣੋ
-newtab-widget-timer-menu-button =
-    .aria-label = ਟਾਈਮਰ ਚੋਣਾਂ
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1658,8 +1625,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = ਸਿਰਫ਼ ਫ਼ਾਲੋ ਕੀਤੀਆਂ ਟੀਮਾਂ
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = …ਹੋਰ ਮੈਚ ਲੋਡ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = ਵੇਖੋ
@@ -1739,9 +1704,6 @@ newtab-sports-widget-third-place = ਤੀਜੀ ਥਾਂ
 newtab-sports-widget-runner-up = ਦੂਜੇ ਨੰਬਰ ਉੱਤੇ
 newtab-sports-widget-champions = ਚੈਂਪੀਅਨ
 newtab-sports-widget-world-cup-champions = 2026 ਵਰਲਡ ਕੱਪ ਚੈਪੀਅਨ
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = 2026 ਚੈਂਪੀਅਨ
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1848,15 +1810,6 @@ newtab-sports-widget-message-day-in-play-title = { -brand-product-name } ਵਿ�
 newtab-sports-widget-message-day-in-play-body = ਵਰਲਡ ਕੱਪ ਨੂੰ ਫ਼ਾਲੋ ਕਰੋ, ਕੰਮ ਕਰਦੇ ਰਹੋ, ਸੰਸਾਰ ਭਰ ਦੇ ਟਾਈਮ ਉੱਤੇ ਨਿਗ੍ਹਾ ਰੱਖੋ ਅਤੇ ਹੋਰ ਕਈ ਕੁਝ।
 newtab-sports-widget-message-explore-widgets-cta =
     .label = ਵਿਜੈੱਟ ਲੱਭੋ
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = ਸਾਨੂੰ ਵਿਜੈਟ ਬੇਹਤਰ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰੋ
-newtab-sports-widget-message-survey-body = ਵਰਲਡ ਕੱਪ ਖਤਮ ਹੋ ਗਿਆ ਹੈ। ਆਪਣੇ ਤਜਰਬੇ ਬਾਰੇ ਸਾਨੂੰ ਸੁਝਾਅ ਦਿਓ।
-newtab-sports-widget-message-survey-widget-title = ਵਰਲਡ ਕੱਪ ਵਿਜੈਟ ਕਿਵੇਂ ਸੀ?
-newtab-sports-widget-message-survey-widget-body = ਭਵਿੱਖ ਵਿੱਚ ਆਉਣ ਵਾਲੇ ਵਿਜੈਟ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰਨ ਵਾਸਤੇ ਆਪਣੇ ਸੁਝਾਅ ਸਾਨੂੰ ਭੇਜੋ। ਤਦ ਕਿਸੇ ਨੂੰ ਨਵੇਂ ਨੂੰ ਅਜ਼ਮਾਓ।
-newtab-sports-widget-message-survey-cta =
-    .label = ਸਰਵੇਖਣ ਭਰੋ
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1970,12 +1923,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = ਕੋਈ ਮਿਲਦਾ ਸਮਾਂ ਖੇਤਰ ਨਹੀਂ ਹੈ
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = ਪਿੱਛੇ
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = ਘੜੀਆਂ ਦੀਆਂ ਚੋਣਾਂ
-    .title = ਘੜੀਆਂ ਦੀਆਂ ਚੋਣਾਂ
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

@@ -64,7 +64,6 @@ policy-DisableFormHistory = ڳول تے فارم دی تاریخ کوں یاد �
 policy-DisableLaunchOnLogin = جڈاں ورتݨ آلا لاگ اِن کرے تاں { -brand-short-name } کوں خودکار طور تے لانچ تھیوݨ توں روکو۔
 policy-DisablePrimaryPasswordCreation = جے درست ہے تاں، منڈھلا پاس ورڈ نہیں بݨایا ونڄ سڳدا۔
 policy-DisablePasswordReveal2 = محفوظ لاگ اِنز یا پاس ورڈ فیلڈز وچ پاس ورڈ ظاہر کرݨ دی اجازت نہ ڈیو۔
-policy-DisablePasswordReveal = ہتھیکڑے لاگ انز وِچ پاس ورڈ ظاہر کرݨ دی اجازت نہ ݙیو۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کرو
 policy-DisableProfileImport = ٻئے براؤزر کنوں ڈیٹا برآمد کرݨ کیتے مینیو کمانڈ کوں غیر فعال کرو۔
 policy-DisableProfileRefresh2 = مسئلہ حل کرݨ دی معلومات (about:support) وچ تے support.mozilla.org تے موجود Refresh { -brand-short-name } دے بٹݨ کوں غیر فعال کرو، تے اُوں پرامپٹ کوں وی جو جڈاں { -brand-short-name } کوں کافی عرصے توں ورتیا نیں ڳیا تاں ریفریش کرݨ دی پیشکش کریندے ہے۔

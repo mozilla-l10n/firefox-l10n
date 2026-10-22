@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Χρησιμοποιήστε τ�
 ipprotection-feature-introduction-title-privacy = Προσθέστε ένα ακόμα επίπεδο ιδιωτικότητας
 ipprotection-feature-introduction-title-privacy-1 = Προσθέστε ακόμα ένα επίπεδο ιδιωτικότητας με το ενσωματωμένο VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> προστατεύει την περιήγησή σας. Επιλέξτε μία από τις πολλαπλές τοποθεσίες για να διατηρήσετε την περιήγησή σας πιο ιδιωτική.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Το ενσωματωμένο VPN του { -brand-product-name }</a> προστατεύει την περιήγησή σας. Επιλέξτε ανάμεσα σε πολλαπλές τοποθεσίες για ακόμη πιο ιδιωτική πλοήγηση.
 ipprotection-feature-introduction-link-text-privacy-3 = Απολαύστε <a data-l10n-name="learn-more-vpn">επιπλέον απόρρητο</a> επιλέγοντας ανάμεσα σε πολλαπλές τοποθεσίες για να αποκρύψετε το μέρος απ' όπου περιηγείστε.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Αποκρύψτε την τοποθεσία σας για <a data-l10n-name="learn-more-vpn">επιπλέον ιδιωτικότητα</a> κατά την περιήγηση. Ενεργοποιήστε ή απενεργοποιήστε το VPN για συγκεκριμένους ιστοτόπους.
@@ -123,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Απόρρ�
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Απεριόριστο VPN έως τις 30 Ιανουαρίου
 ipprotection-holiday-promo-primary-button = Άνοιγμα VPN
 ipprotection-holiday-promo-secondary-button = Απόρριψη
 

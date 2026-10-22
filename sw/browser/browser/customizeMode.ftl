@@ -4,7 +4,7 @@
 
 customize-mode-uidensity-menu-touch =
     .label = bonyeza
-    .accesskey = T
     .tooltiptext = bonyeza
+    .accesskey = T
 customize-mode-undo-cmd =
     .label = Tendua

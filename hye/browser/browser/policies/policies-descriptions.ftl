@@ -38,7 +38,6 @@ policy-DisableFirefoxStudies = Կանխարգելել { -brand-short-name }-ը �
 policy-DisableForgetButton = Կանխարգելել մուտքը մոռացման կոճակով։
 policy-DisableFormHistory = Չյիշել որոնումները պատմութեան միջից։
 policy-DisablePrimaryPasswordCreation = Եթե ստոյգ է, հիմնական գաղտնաբառ չի կարող ստեղծուել։
-policy-DisablePasswordReveal = Թոյլ մի տուեք, որ գաղտնաբառերը բացահայտուեն պահուած մուտքերում։
 policy-DisablePrivateBrowsing = Անջատել անհատական զննումը։
 policy-DisableProfileImport = Անջատել ցանկային հրամանը այլ զննարկչից տուեալներ ներածելու համար։
 policy-DisableProfileRefresh = Անջատել թարմացումը { -brand-short-name } կոճակով about:support բաժնում։

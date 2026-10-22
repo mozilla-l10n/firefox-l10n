@@ -35,9 +35,6 @@ urlbar-identity-button2 =
             [1] Lihat informasi situs (1 pelacak diblokir)
            *[other] Lihat informasi situs ({ $count } pelacak diblokir)
         }
-
-##
-
 urlbar-identity-button =
     .aria-label = Tampilkan informasi situs
 
@@ -719,11 +716,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Disponsori
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Tanya
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1114,13 +1106,9 @@ qrcode-save-button =
     .label = Simpan
 qrcode-close-button =
     .aria-label = Tutup
-# Variables:
-#  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Simpan Laman
     .tooltiptext = Simpan laman ini ({ $shortcut })
-# Variables:
-#  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Buka Berkas
     .tooltiptext = Buka berkas ({ $shortcut })
@@ -1130,8 +1118,6 @@ toolbar-button-synced-tabs =
 toolbar-button-send-tab =
     .label = Kirim tab
     .tooltiptext = Kirim tab saat ini ke peranti lain
-# Variables
-# $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Jendela Mode Pribadi Baru
     .tooltiptext = Buka jendela Penjelajahan Pribadi baru ({ $shortcut })
@@ -1172,10 +1158,6 @@ toolbar-button-copy =
 toolbar-button-paste =
     .label = Tempel
     .tooltiptext = Tempel ({ $shortcut })
-
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
 
 ## EME notification panel
 
@@ -1251,9 +1233,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = i
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1375,10 +1354,6 @@ reset-pbm-panel-cancel-button =
     .accesskey = B
 reset-pbm-panel-complete = Data sesi pribadi dihapus
 
-## Fire button. Clears the whole browsing session, then closes every window and
-## opens a new one.
-
-
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } telah mencegah laman ini untuk otomatis dimuat ulang.
@@ -1462,13 +1437,6 @@ file-picker-crashed-open = Dialog berkas Windows mogok. Tidak ada berkas atau fo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Dialog berkas Windows mogok. Berkas akan disimpan ke { $path }.
 file-picker-crashed-save-nowhere = Dialog berkas Windows mogok. Tidak ada folder baku yang dapat ditemukan; berkas tidak akan disimpan.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Tampilkan di Folder
     .accessKey = F
@@ -1521,9 +1489,6 @@ trustpanel-blocker-see-all = Lihat Semua
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Perlindungan pelacakan untuk { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

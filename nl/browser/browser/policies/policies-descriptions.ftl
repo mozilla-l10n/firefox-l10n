@@ -64,7 +64,6 @@ policy-DisableFormHistory = Geen zoek- en formuliergeschiedenis onthouden.
 policy-DisableLaunchOnLogin = Voorkomen dat { -brand-short-name } automatisch wordt gestart wanneer de gebruiker zich aanmeldt.
 policy-DisablePrimaryPasswordCreation = Wanneer true, kan geen hoofdwachtwoord worden aangemaakt.
 policy-DisablePasswordReveal2 = Niet toestaan dat wachtwoorden worden onthuld in opgeslagen aanmeldingen of wachtwoordvelden.
-policy-DisablePasswordReveal = Niet toestaan dat wachtwoorden worden onthuld in opgeslagen aanmeldingen.
 policy-DisablePrivateBrowsing = Privénavigatie uitschakelen.
 policy-DisableProfileImport = De menuopdracht voor het importeren van gegevens vanuit een andere browser uitschakelen.
 policy-DisableProfileRefresh2 = De knop { -brand-short-name } opfrissen in Probleemoplossingsinformatie (about:support) en op support.mozilla.org uitschakelen, evenals de vraag om { -brand-short-name } te verversen wanneer het enige tijd niet is gebruikt.

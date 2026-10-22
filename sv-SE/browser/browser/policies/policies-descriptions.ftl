@@ -64,7 +64,6 @@ policy-DisableFormHistory = Spara inte sök- och formulärhistorik.
 policy-DisableLaunchOnLogin = Förhindra att { -brand-short-name } startas automatiskt när användaren loggar in.
 policy-DisablePrimaryPasswordCreation = Om det är sant kan ett huvudlösenord inte skapas.
 policy-DisablePasswordReveal2 = Förhindra att lösenord visas i sparade inloggningar eller lösenordsfält.
-policy-DisablePasswordReveal = Låt inte lösenord avslöjas i sparade inloggningar.
 policy-DisablePrivateBrowsing = Inaktivera privat surfning.
 policy-DisableProfileImport = Inaktivera menyalternativet att importera data från en annan webbläsare.
 policy-DisableProfileRefresh2 = Inaktivera knappen Återställ { -brand-short-name } i Felsökningsinformation (about:support) och på support.mozilla.org samt meddelandet som erbjuder en återställning av { -brand-short-name } när programmet inte har använts på ett tag.

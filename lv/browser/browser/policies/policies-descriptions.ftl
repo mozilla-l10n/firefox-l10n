@@ -55,7 +55,6 @@ policy-DisableForgetButton = Liedz pieeju Aizmirst pogai.
 policy-DisableFormHistory = Neatcerēties meklēšanas un veidlapu vēsturi.
 policy-DisablePrimaryPasswordCreation = Ja iestatīts, nevar izveidot galveno paroli.
 policy-DisablePasswordReveal2 = Neļaut atklāt paroles saglabātajos pieteikšanās vienumos vai paroļu laukos.
-policy-DisablePasswordReveal = Liegt izpaust paroles pie saglabātajiem lietotājvārdiem.
 policy-DisablePrivateBrowsing = Izslēgt privāto pārūkošanu.
 policy-DisableProfileImport = Izslēgt izvēlnes vienumu datu importēšanai no cita pārlūka.
 policy-DisableProfileRefresh2 = Atspēo pogu “Atsvaidzināt { -brand-short-name }” sarežģījumu novēršanas informācijā (about:support) un support.mozilla.org, kā arī uzvednē, kas piedāvā atsvaidzināt { -brand-short-name }, kad tas nav kādu laiku izmantots.

@@ -50,10 +50,6 @@ autocomplete-delete-entry = Odstrániť
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Odstrániť { $entry } z histórie formulárov
-# aria-label and tooltip for the button that opens the edit/delete menu.
-# Variables:
-#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
-autocomplete-more-actions2 = Ďalšie akcie pre { $entry }
 # Tooltip for the button that opens the edit/delete menu.
 autocomplete-more-options = Ďalšie možnosti
 # Accessible name for the button that opens the edit/delete menu. It names the

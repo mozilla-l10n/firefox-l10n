@@ -64,7 +64,6 @@ policy-DisableFormHistory = Ne shranjuj zgodovine iskanja in obrazcev.
 policy-DisableLaunchOnLogin = Onemogoči samodejni zagon { -brand-short-name(sklon: "rodilnik") } ob prijavi uporabnika.
 policy-DisablePrimaryPasswordCreation = Če je "true", glavnega gesla ni mogoče ustvariti.
 policy-DisablePasswordReveal2 = Ne dovoli razkrivanja gesel na seznamu shranjenih prijav ali v poljih za geslo.
-policy-DisablePasswordReveal = Ne dovoli razkrivanja gesel na seznamu shranjenih prijav.
 policy-DisablePrivateBrowsing = Onemogoči zasebno brskanje.
 policy-DisableProfileImport = Onemogoči menijski ukaz Uvozi podatke drugega brskalnika.
 policy-DisableProfileRefresh2 = Onemogoči gumb Osveži { -brand-short-name } na strani s podatki za odpravljanje težav (about:support) in na support.mozilla.org ter poziv k osvežitvi { -brand-short-name(sklon: "rodilnik") }, ko je zagnan po daljšem času.

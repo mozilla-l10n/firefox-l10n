@@ -64,7 +64,6 @@ policy-DisableFormHistory = Ne jegyezze meg a keresőmezők és űrlapmezők el�
 policy-DisableLaunchOnLogin = A { -brand-short-name } automatikus elindulásának megakadályozása, amikor a felhasználó bejelentkezik.
 policy-DisablePrimaryPasswordCreation = Ha igaz, akkor nem hozható létre elsődleges jelszó.
 policy-DisablePasswordReveal2 = Ne engedje, hogy a mentett bejelentkezésekben szereplő jelszavak megjelenítésre kerüljenek.
-policy-DisablePasswordReveal = Ne engedje, hogy a mentet bejelentkezésekben szereplő jelszavak megjelenítésre kerüljenek.
 policy-DisablePrivateBrowsing = Privát böngészés letiltása.
 policy-DisableProfileImport = A más böngészőből történő adatimportálás parancsok letiltása.
 policy-DisableProfileRefresh2 = A { -brand-short-name } felfrissítése gomb a Hibakeresési információk (about:support) és a support.mozilla.org oldalon, valamint a { -brand-short-name } felfrissítésére vonatkozó javaslat letiltása, ha az nem volt használva egy ideje.

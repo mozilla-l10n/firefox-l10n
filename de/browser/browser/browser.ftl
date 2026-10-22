@@ -63,9 +63,6 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Teilen …
     .accesskey = T
-
-##
-
 urlbar-identity-button =
     .aria-label = Seiteninformationen anzeigen
 
@@ -759,11 +756,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Gesponsert
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Fragen
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1190,13 +1182,9 @@ qrcode-image =
     .aria-label = QR-Code
 qrcode-close-button =
     .aria-label = Schließen
-# Variables:
-#  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Seite speichern
     .tooltiptext = Seite speichern unter ({ $shortcut })
-# Variables:
-#  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Datei öffnen
     .tooltiptext = Datei öffnen ({ $shortcut })
@@ -1206,8 +1194,6 @@ toolbar-button-synced-tabs =
 toolbar-button-send-tab =
     .label = Tab senden
     .tooltiptext = Aktuellen Tab an ein anderes Gerät senden
-# Variables
-# $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Neues privates Fenster
     .tooltiptext = Ein neues privates Fenster öffnen ({ $shortcut })
@@ -1345,9 +1331,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = v
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1607,13 +1590,6 @@ file-picker-crashed-open = Der Windows-Dateidialog ist abgestürzt. Es konnte ke
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Der Windows-Dateidialog ist abgestürzt. Die Datei wird unter { $path } gespeichert.
 file-picker-crashed-save-nowhere = Der Windows-Dateidialog ist abgestürzt. Es konnte kein Standardordner gefunden werden; die Datei wird nicht gespeichert.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = In Ordner anzeigen
     .accessKey = O
@@ -1666,9 +1642,6 @@ trustpanel-blocker-see-all = Alle anzeigen
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Verfolgungsschutz für { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

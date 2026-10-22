@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Finantza
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Akzioak
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Eguneko argazkia
@@ -170,12 +167,6 @@ home-prefs-mission-message-learn-more-link-srd = Ezagutu nola
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Argibide gehiago
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Pribatutasun-aukerak
-    .title = Pribatutasun-aukerak
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -349,12 +340,6 @@ newtab-stocks-error-not-available = Akzioen datuak ez daude erabilgarri.
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = Ireki finantzaren menua
     .title = Ireki finantzaren menua
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Akzioen widgetaren aukerak
-    .title = Akzioen widgetaren aukerak
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -372,9 +357,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Bilatu izen edo sinboloaren arabera
     .label = Bilatu
     .title = Bilatu izen edo sinboloaren arabera
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Akzioak
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Merkatuak
@@ -492,11 +474,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Ikusi { $license } lizentzia
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Eguneko argazkiaren aukerak
-    .title = Eguneko argazkiaren aukerak
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -563,9 +540,6 @@ newtab-recent-searches-row-remove =
     .aria-label = Kendu "{ $search }" azken bilaketetatik
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Bilaketa
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Bilaketa-aukerak
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -921,8 +895,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Finantza
-newtab-custom-widget-stocks-toggle =
-    .label = Akzioak
 newtab-custom-widget-picture-toggle =
     .label = Eguneko argazkia
 newtab-custom-widget-search-toggle =
@@ -1439,9 +1411,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Utzi
     .title = Utzi
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = Zerrenden aukerak
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1533,8 +1502,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Desaktibatu jakinarazpenak
 newtab-widget-timer-menu-notifications-on = Aktibatu jakinarazpenak
 newtab-widget-timer-menu-learn-more = Argibide gehiago
-newtab-widget-timer-menu-button =
-    .aria-label = Tenporizadorearen aukerak
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1660,8 +1627,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Jarraitzen ditudan taldeak soilik
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Partida gehiago kargatzen…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Ikusi
@@ -1741,9 +1706,6 @@ newtab-sports-widget-third-place = Hirugarren postua
 newtab-sports-widget-runner-up = Txapeldunordea
 newtab-sports-widget-champions = Txapeldunak
 newtab-sports-widget-world-cup-champions = 2026ko Munduko Koparen Txapeldunak
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = 2026ko txapeldunak
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1850,15 +1812,6 @@ newtab-sports-widget-message-day-in-play-title = Izan eguna jokoan { -brand-prod
 newtab-sports-widget-message-day-in-play-body = Jarraitu Munduko Kopa, egon zereginen gainean, egin mundu osoko orduaren jarraipena eta gehiago.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Arakatu widgetak
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Lagun gaitzazu widgetak hobetzen
-newtab-sports-widget-message-survey-body = Munduko Kopa amaitu da. Partekatu zure esperientziari buruzko iritzia.
-newtab-sports-widget-message-survey-widget-title = Zer moduzkoa izan da Munduko Kopako widgeta?
-newtab-sports-widget-message-survey-widget-body = Partekatu zure iritzia etorkizuneko widgetak hobetzen laguntzeko. Ondoren, proba ezazu zure ilarako hurrengoa.
-newtab-sports-widget-message-survey-cta =
-    .label = Bete inkesta
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1972,12 +1925,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Bat datorren ordu-zonarik ez
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Atzera
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = Erlojuaren aukerak
-    .title = Erlojuaren aukerak
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

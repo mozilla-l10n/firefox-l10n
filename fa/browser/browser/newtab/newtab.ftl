@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = مالی
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = بورس
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = تصویر روز
@@ -170,12 +167,6 @@ home-prefs-mission-message-learn-more-link-srd = مشاهدهٔ روش‌ها
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = بیشتر بدانید
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = گزینه‌های حریم خصوصی
-    .title = گزینه‌های حریم خصوصی
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -349,12 +340,6 @@ newtab-stocks-error-not-available = داده‌های بورس در دسترس �
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = باز کردن منوی مالی
     .title = باز کردن منوی مالی
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = گزینه‌های ویجت بورس
-    .title = گزینه‌های ویجت بورس
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -372,9 +357,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = جست‌وجو بر اساس نام یا نماد
     .label = جست‌وجو
     .title = جست‌وجو بر اساس نام یا نماد
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = بورس
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = بازارها
@@ -488,11 +470,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = مشاهدهٔ مجوز { $license }
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = گزینه‌های تصویر روز
-    .title = گزینه‌های تصویر روز
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -544,9 +521,6 @@ newtab-recent-searches-row-remove =
     .aria-label = حذف «{ $search }» از جست‌وجوهای اخیر
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = جست‌وجو
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = گزینه‌های جست‌وجو
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -875,8 +849,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = مالی
-newtab-custom-widget-stocks-toggle =
-    .label = بورس
 newtab-custom-widget-picture-toggle =
     .label = تصویر روز
 newtab-custom-widget-search-toggle =
@@ -1384,9 +1356,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = انصراف
     .title = انصراف
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = گزینه‌های فهرست‌ها
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1478,8 +1447,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = خاموش کردن اعلان‌ها
 newtab-widget-timer-menu-notifications-on = روشن کردن اعلان‌ها
 newtab-widget-timer-menu-learn-more = بیشتر بدانید
-newtab-widget-timer-menu-button =
-    .aria-label = گزینه‌های تایمر
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1603,8 +1570,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = فقط تیم‌های دنبال‌شده
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = در حال بارگیری بازی‌های بیشتر…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = تماشا
@@ -1684,9 +1649,6 @@ newtab-sports-widget-third-place = مقام سوم
 newtab-sports-widget-runner-up = نایب‌قهرمان
 newtab-sports-widget-champions = قهرمان
 newtab-sports-widget-world-cup-champions = قهرمان جام جهانی ۲۰۲۶
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = قهرمان ۲۰۲۶
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1793,15 +1755,6 @@ newtab-sports-widget-message-day-in-play-title = روز خود را با ابز�
 newtab-sports-widget-message-day-in-play-body = جام جهانی را دنبال کنید، روی کارها بمانید، ساعت جهانی را ببینید و موارد دیگر.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = کاوش ابزارک‌ها
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = در بهبود ابزارک‌ها همراه ما باشید
-newtab-sports-widget-message-survey-body = پروندهٔ جام جهانی بسته شد. تجربه و نظرات خود را با ما در میان بگذارید.
-newtab-sports-widget-message-survey-widget-title = ویجت جام جهانی چطور بود؟
-newtab-sports-widget-message-survey-widget-body = نظر خود را هم‌رسانی کنید تا ابزارک‌های آینده را بهتر کنیم؛ سپس ابزارک‌های جدید دیگر را امتحان کنید.
-newtab-sports-widget-message-survey-cta =
-    .label = شرکت در نظرسنجی
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1915,12 +1868,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = منطقه زمانی منطبقی پیدا نشد
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = بازگشت
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = گزینه‌های ساعت
-    .title = گزینه‌های ساعت
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

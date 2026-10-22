@@ -50,7 +50,6 @@ policy-DisableFirefoxStudies = Не дозволяти { -brand-short-name } в�
 policy-DisableForgetButton = Не дозволяти доступ до кнопки Забути.
 policy-DisableFormHistory = Не пам'ятати історію пошуку та форм.
 policy-DisablePrimaryPasswordCreation = Значення true не дозволяє встановлювати головний пароль.
-policy-DisablePasswordReveal = Не дозволяти показ паролів у збережених записах.
 policy-DisablePrivateBrowsing = Вимкнути приватний перегляд.
 policy-DisableProfileImport = Вимкнути команду меню імпорту даних з іншого браузера.
 policy-DisableProfileRefresh = Вимкнути кнопку Відновити { -brand-short-name } на сторінці about:support.

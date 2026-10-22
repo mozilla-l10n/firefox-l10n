@@ -44,7 +44,6 @@ policy-DisableFirefoxStudies = Empacha { -brand-short-name } d’executar d’es
 policy-DisableForgetButton = Empacha l’accès al boton d’escafament de las donadas.
 policy-DisableFormHistory = Conservar pas d’istoric de las recèrcas e dels formularis.
 policy-DisablePrimaryPasswordCreation = Se activat, serà impossible de crear un senhal principal.
-policy-DisablePasswordReveal = Permetre pas de revelar los senhals dels identificants gardats.
 policy-DisablePrivateBrowsing = Desactivar la navegacion privada.
 policy-DisableProfileImport = Desactiva la comanda de menú que permet d’importar de donadas a partir d’un autre navegador.
 policy-DisableProfileRefresh = Desactiva lo boton Actualizar de { -brand-short-name } dins la pagina about:support.

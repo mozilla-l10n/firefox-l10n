@@ -64,7 +64,6 @@ policy-DisableFormHistory = Nu memora istoricul căutărilor și al formularelor
 policy-DisableLaunchOnLogin = Împiedică lansarea automată a { -brand-short-name } la autentificarea utilizatorului în cont.
 policy-DisablePrimaryPasswordCreation = Dacă valoarea este adevărată, nu se poate crea o parolă primară.
 policy-DisablePasswordReveal2 = Nu permite afișarea parolelor în date de autentificare salvate sau în câmpuri pentru parolă.
-policy-DisablePasswordReveal = Nu permite dezvăluirea parolelor din datele de autentificare salvate.
 policy-DisablePrivateBrowsing = Dezactivează navigarea privată.
 policy-DisableProfileImport = Dezactivează comanda de meniu pentru importul de date din alte browsere.
 policy-DisableProfileRefresh2 = Dezactivează butonul de Reîmprospătare { -brand-short-name } din Informații pentru depanare (about:support) și pe support.mozilla.org, precum și mesajul care propune reîmprospătarea { -brand-short-name } după o perioadă de neutilizare.

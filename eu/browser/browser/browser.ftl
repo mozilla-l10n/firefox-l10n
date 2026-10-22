@@ -62,9 +62,6 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Partekatu…
     .accesskey = P
-
-##
-
 urlbar-identity-button =
     .aria-label = Ikusi gunearen informazioa
 
@@ -758,11 +755,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Babeslea
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Galdetu
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1189,13 +1181,9 @@ qrcode-image =
     .aria-label = QR kodea
 qrcode-close-button =
     .aria-label = Itxi
-# Variables:
-#  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Gorde orria
     .tooltiptext = Gorde orri hau ({ $shortcut })
-# Variables:
-#  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Ireki fitxategia
     .tooltiptext = Ireki fitxategia ({ $shortcut })
@@ -1205,8 +1193,6 @@ toolbar-button-synced-tabs =
 toolbar-button-send-tab =
     .label = Bidali fitxa
     .tooltiptext = Bidali uneko fitxa beste gailu batera
-# Variables
-# $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Leiho pribatu berria
     .tooltiptext = Ireki nabigatze pribatuko leiho berri bat ({ $shortcut })
@@ -1344,9 +1330,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = z
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1606,13 +1589,6 @@ file-picker-crashed-open = Windowsen fitxategien elkarrizketa-koadroak huts egin
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windowsen fitxategien elkarrizketa-koadroak huts egin du. Fitxategia { $path } bidean gordeko da.
 file-picker-crashed-save-nowhere = Windowsen fitxategien elkarrizketa-koadroak huts egin du. Ezin da karpeta lehenetsirik aurkitu; fitxategia ez da gordeko.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Erakutsi karpetan
     .accessKey = k
@@ -1665,9 +1641,6 @@ trustpanel-blocker-see-all = Ikusi guztiak
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Jarraipenaren babesak { $host } ostalarirako
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

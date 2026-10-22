@@ -28,8 +28,6 @@ appearance-browser-icon-subpage-title =
 
 appearance-browser-icon-basic-group =
     .label = Стандартні
-appearance-browser-icon-bonus-group =
-    .label = Особливі
 
 ##
 

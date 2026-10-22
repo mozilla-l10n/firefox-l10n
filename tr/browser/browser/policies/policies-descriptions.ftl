@@ -64,7 +64,6 @@ policy-DisableFormHistory = Arama ve form geçmişini hatırlama.
 policy-DisableLaunchOnLogin = Kullanıcı oturum açtığında { -brand-short-name } uygulamasının otomatik olarak başlatılmasını engelle.
 policy-DisablePrimaryPasswordCreation = True olarak ayarlanırsa ana parola oluşturulamaz.
 policy-DisablePasswordReveal2 = Kayıtlı hesaplarda veya parola alanlarında parolaların görüntülenmesine izin verme.
-policy-DisablePasswordReveal = Kayıtlı hesaplardaki parolaların görüntülenmesine izin verme.
 policy-DisablePrivateBrowsing = Gizli gezintiyi devre dışı bırak.
 policy-DisableProfileImport = Başka tarayıcılardaki verileri içe aktarmaya olanak veren menü komutunu devre dışı bırak.
 policy-DisableProfileRefresh2 = Sorun giderme bilgileri (about:support) sayfasında ve support.mozilla.org sitesinde bulunan { -brand-short-name } tarayıcısını yenileme düğmesini ve { -brand-short-name } uzun süre kullanılmadığında tarayıcıyı yenilemeyi öneren bildirimi devre dışı bırak.

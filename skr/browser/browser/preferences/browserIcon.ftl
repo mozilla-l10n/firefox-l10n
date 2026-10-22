@@ -32,8 +32,6 @@ appearance-browser-icon-basic-group =
 # action.
 appearance-browser-icon-bonus-group2 =
     .label = بونس
-appearance-browser-icon-bonus-group =
-    .label = خصوصی
 
 ##
 

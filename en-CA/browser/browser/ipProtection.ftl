@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Use our new <a data-l10n-name="l
 ipprotection-feature-introduction-title-privacy = Add another layer of privacy
 ipprotection-feature-introduction-title-privacy-1 = Add another layer of privacy with built-in VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }’s built-in VPN</a> helps protect your browsing. Choose from several locations to keep where you browse more private.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }’s built-in VPN</a> helps protect your browsing. Choose from multiple locations to keep where you browse more private.
 ipprotection-feature-introduction-link-text-privacy-3 = Get <a data-l10n-name="learn-more-vpn">extra privacy</a> by choosing from multiple locations to hide where you browse.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Help hide your location for <a data-l10n-name="learn-more-vpn">extra privacy</a> as you browse. Set the VPN on or off for certain sites.

@@ -31,7 +31,6 @@ policy-DisableFirefoxScreenshots = Disabbìlita Schirmati Firefox.
 policy-DisableFirefoxStudies = Mpidisci a { -brand-short-name } di fari studi.
 policy-DisableForgetButton = Mpidisci l’accessu ô buttuni Scorda.
 policy-DisableFormHistory = Nun ricurdari a crunuluggìa di risciduta e dî mòduli.
-policy-DisablePasswordReveal = Nun pirmèttiri di mustrari i chiavi nnê cridinziali sarbati.
 policy-DisablePrivateBrowsing = Disabbìlita a Navicazzioni privata.
 policy-DisableProfileImport = Disabbìlita u cumannu dû minù pi mpurtari dati di n’autru navicaturi.
 policy-DisableProfileRefresh = Disabbìlita u buttuni “Ricàrrica { -brand-short-name }” nnâ pàggina about:support.

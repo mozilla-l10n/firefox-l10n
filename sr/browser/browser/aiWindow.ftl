@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = Отвори нови приватни прозор
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Обични прозор
-toolbar-switcher-customizable-label =
-    .label = пребацивач { -smart-window-brand-name }
-    .tooltiptext = Пребаците се између паметних и класичних прозора.
 
 ## Input CTA
 

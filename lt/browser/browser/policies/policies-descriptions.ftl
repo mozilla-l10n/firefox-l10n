@@ -39,7 +39,6 @@ policy-DisableFirefoxStudies = Neleisti „{ -brand-short-name }“ vykdyti tyri
 policy-DisableForgetButton = Blokuoti prieigą prie mygtuką „Pamiršti“.
 policy-DisableFormHistory = Neįsiminti įvestų paieškos ir formų laukų reikšmių.
 policy-DisablePrimaryPasswordCreation = Jei „true“, negalima sukurti pagrindinio slaptažodžio.
-policy-DisablePasswordReveal = Neleisti parodyti slaptažodžių įrašytuose prisijungimuose.
 policy-DisablePrivateBrowsing = Išjungti privatųjį naršymą.
 policy-DisableProfileImport = Išjungti meniu komandą, skirtą importuoti duomenis iš kitos naršyklės.
 policy-DisableProfileRefresh = Išjungti mygtuką „Atšviežinti { -brand-short-name }“, esantį about:support puslapyje.

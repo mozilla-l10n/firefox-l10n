@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Prøv den indbyggede VPN i { -brand-
 ipprotection-feature-introduction-link-text-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data.
 ipprotection-feature-introduction-title-privacy = Tilføj yderligere et lag af sikkerhed
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> hjælper med at beskytte dig på nettet. Vælg mellem flere placeringer for at beskytte dit privatliv, når du browser.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> hjælper med at beskytte dig på nettet. Vælg mellem flere placeringer for at beskytte dit privatliv, når du browser.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">et bedre beskyttet privatliv</a> ved at vælge mellem flere placeringer, der skjuler hvor du befinder dig.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data - selv om du befinder dig i et privat vindue.
 ipprotection-feature-introduction-description-private-browsing = Brug nettet med yderligere beskyttelse ved at skjule din placering, selv når du er i et privat vindue.
@@ -79,7 +78,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Afvis
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Få ubegrænset VPN indtil 30. januar
 ipprotection-holiday-promo-primary-button = Åben VPN
 ipprotection-holiday-promo-secondary-button = Afvis
 

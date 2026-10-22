@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Cyllid
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Stociau
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Darlun y dydd
@@ -174,12 +171,6 @@ home-prefs-mission-message-learn-more-link-srd = Dyma sut
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Dysgu rhagor
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Dewisiadau preifatrwydd
-    .title = Dewisiadau preifatrwydd
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -381,12 +372,6 @@ newtab-stocks-error-not-available = Dyw data stoc ddim ar gael.
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = Agor y ddewislen cyllid
     .title = Agor y ddewislen cyllid
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Dewisiadau'r teclyn stociau
-    .title = Dewisiadau'r teclyn stociau
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -404,9 +389,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Chwilio yn ôl enw neu symbol
     .label = Chwilio
     .title = Chwilio yn ôl enw neu symbol
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Stociau
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Marchnadoedd
@@ -528,11 +510,6 @@ newtab-picture-attribution-source-link = Comin Wikimedia
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Gweld trwydded { $license }
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Dewisiadau darlun y dydd
-    .title = Dewisiadau darlun y dydd
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -599,9 +576,6 @@ newtab-recent-searches-row-remove =
     .aria-label = Tynnu “{ $search }” o'r chwilio diweddar
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Chwilio
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Dewisiadau chwilio
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -961,8 +935,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Cyllid
-newtab-custom-widget-stocks-toggle =
-    .label = Stociau
 newtab-custom-widget-picture-toggle =
     .label = Darlun y dydd
 newtab-custom-widget-search-toggle =
@@ -1479,9 +1451,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Diddymu
     .title = Diddymu
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = Dewisiadau'r rhestr
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1573,8 +1542,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Diffodd hysbysiadau
 newtab-widget-timer-menu-notifications-on = Troi hysbysiadau ymlaen
 newtab-widget-timer-menu-learn-more = Dysgu rhagor
-newtab-widget-timer-menu-button =
-    .aria-label = Dewisiadau amserydd
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1712,8 +1679,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Dim ond timau sy'n cael eu dilyn
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Wrthi'n llwytho mwy o gydweddu…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Gwylio
@@ -1793,9 +1758,6 @@ newtab-sports-widget-third-place = Yn Drydydd
 newtab-sports-widget-runner-up = Yn Ail
 newtab-sports-widget-champions = Pencampwyr
 newtab-sports-widget-world-cup-champions = Pencampwyr Cwpan y Byd 2026
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Pencampwyr 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1902,15 +1864,6 @@ newtab-sports-widget-message-day-in-play-title = Cadwch eich diwrnod ar waith gy
 newtab-sports-widget-message-day-in-play-body = Dilynwch Gwpan y Byd, cadw ar y dasg, dilyn amser o amgylch y byd, a mwy.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Archwilio'r teclynnau
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Helpwch ni i wella teclynnau
-newtab-sports-widget-message-survey-body = Dyna ddiwedd ar Gwpan y Byd. Rhannwch eich adborth am y profiad.
-newtab-sports-widget-message-survey-widget-title = Sut oedd teclyn Cwpan y Byd?
-newtab-sports-widget-message-survey-widget-body = Rhannwch eich adborth i'n helpu ni i wella teclynnau'r dyfodol. Yna, rhowch gynnig ar yr un newydd yn eich tîm.
-newtab-sports-widget-message-survey-cta =
-    .label = Llenwch yr Arolwg
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -2024,12 +1977,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Dim cylchfaoedd amser cyfatebol
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Nôl
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = Dewisiadau cloc
-    .title = Dewisiadau cloc
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

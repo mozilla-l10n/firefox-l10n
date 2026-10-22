@@ -37,7 +37,6 @@ policy-DisableFirefoxStudies = Impedeix que el { -brand-short-name } execute est
 policy-DisableForgetButton = Evita l'accés al botó Oblida.
 policy-DisableFormHistory = No recorda l'historial de cerca ni de formularis.
 policy-DisablePrimaryPasswordCreation = Si és cert, no es pot crear una contrasenya principal.
-policy-DisablePasswordReveal = No permet mostrar les contrasenyes dels inicis de sessió guardats.
 policy-DisablePrivateBrowsing = Desactiva la navegació privada.
 policy-DisableProfileImport = Desactiva l'orde de menú «Importa les dades d'un altre navegador».
 policy-DisableProfileRefresh = Desactiva el botó «Restableix el { -brand-short-name } a l'estat inicial» de la pàgina about:support.

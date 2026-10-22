@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = تساݙی جگہ لُکاوݨ �
 ipprotection-feature-introduction-title-privacy = پرائیویسی دی ہِک ٻئی تہہ شامل کرو۔
 ipprotection-feature-introduction-title-privacy-1 = بلٹ-اِن VPN نال پرائیویسی دی ہِک ٻئی تہہ شامل کرو۔
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } دا بلٹ-اِن VPN</a> تساݙی براؤزنگ کوں تحفظ ݙیندا اے۔ اپݨی براؤزنگ کوں ودھیک پرائیویٹ رکھݨ کیتے کئی لوکیشنز وچوں چُݨو۔
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } دا بلٹ-اِن VPN</a> تساݙی براؤزنگ کوں تحفظ ݙیندا اے۔ اپݨی براؤزنگ کوں ودھیک پرائیویٹ رکھݨ کیتے کئی لوکیشنز وچوں چُݨو۔
 ipprotection-feature-introduction-link-text-privacy-3 = <a data-l10n-name="learn-more-vpn">ودھیک پرائیویسی</a> حاصل کرو کئی لوکیشنز وچوں چُݨ کے تاں جو تساں جتھوں براؤز کرو او لکیا رہوے۔
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = براؤز کرݨ ویلے <a data-l10n-name="learn-more-vpn">ودھیک پرائیویسی</a> کیتے اپݨی لوکیشن لکاؤ۔ کہیں خاص سائٹس کیتے VPN آن یا بند کرو۔
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = سفر دے پلان ہن
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name } دے بلٹ-اِن VPN نال ٻیا دور ونڄو: ٻیا لوکیشنز، لا محدود بینڈ وڈتھ۔ ہݨ توں اگست 31 تک۔
 ipprotection-feature-introduction-link-text-private-browsing-2 = اپݨی لوکیشن لکاوݨ تے اپݨا ڈیٹا بچاوݨ کیتے ساݙا نواں <a data-l10n-name="learn-more-vpn">بلٹ-اِن VPN</a> ورتو، چاہے تساں پرائیویٹ ونڈو وچ ہو۔
 ipprotection-feature-introduction-description-private-browsing = اپݨی لوکیشن لکاوݨ نال ودھیک تحفظ نال براؤز کرو، چاہے تساں پرائیویٹ ونڈو وچ ہو۔
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = براؤز کریندے ویلے آپݨی لوکیشن لُکاوݨ وچ مدد گھنو۔ وی پی این کوں وچوں <a data-l10n-name="learn-more-vpn">ودھیک پرائیویسی</a> یا لوکیشن آلے براؤزنگ کیتے آن کرݨ دے ضابطے بݨاؤ، تے جتھاں ضرورت نہ ہووے اتھاں اوندے توں بند رکھو۔
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = براؤز کرݨ ویلے <a data-l10n-name="learn-more-vpn">ودھیک پرائیویسی</a> کیتے اپݨی لوکیشن لکاؤ۔ ودھیک پرائیویسی یا لوکیشن-بیسڈ براؤزنگ کیتے VPN آن کرݨ دے رولز سیٹ کرو، تے اتھاں بند جتھاں تساں نیں چاہندے۔
 ipprotection-feature-introduction-title-captive-portal = پبلک Wi-Fi تے ہو؟ { -brand-product-name } دا بلٹ-اِن VPN آزماؤ۔
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = خارج ک
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = ٣٠ جنوری تیکر بے شمار وی پی این مفت گھنو
 ipprotection-holiday-promo-description = بلٹ اِن وی پی این نال آپݨی براؤزنگ کوں پرائیویٹ بݨاؤ تے اوندے پچھوں لگݨ اوکھا کرو۔
 ipprotection-holiday-promo-primary-button = VPN کھولو
 ipprotection-holiday-promo-secondary-button = خارج کرو

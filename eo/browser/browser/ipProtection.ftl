@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Provu la integritan VPN de { -brand-
 ipprotection-feature-introduction-link-text-2 = Uzu nian novan <a data-l10n-name="learn-more-vpn">integritan VPN</a> por kaŝi vian pozicion kaj protekti viajn datumojn.
 ipprotection-feature-introduction-title-privacy = Aldoni alian privatecan tavolon
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu inter pluraj lokoj por teni vian retumon pli privata.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">La integrita VPN en { -brand-product-name }</a> helpas vin protekti vian retumon. Elektu inter pluraj lokoj por teni vian retumon pli privata.
 ipprotection-feature-introduction-link-text-privacy-3 = Ricevu <a data-l10n-name="learn-more-vpn">ekstran privatecon</a> per elekto inter pluraj lokoj, por kaŝi la lokon el kie vi retumas.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Kaŝu vian pozicion por havi <a data-l10n-name="learn-more-vpn">kroman privatecon</a> dum vi retumas. Ŝaltu aŭ malŝaltu la VPN por specifaj retejoj.

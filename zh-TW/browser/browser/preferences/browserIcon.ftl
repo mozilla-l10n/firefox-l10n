@@ -32,8 +32,6 @@ appearance-browser-icon-basic-group =
 # action.
 appearance-browser-icon-bonus-group2 =
     .label = 獎勵
-appearance-browser-icon-bonus-group =
-    .label = 特殊
 
 ##
 

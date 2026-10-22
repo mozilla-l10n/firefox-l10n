@@ -57,7 +57,6 @@ policy-DisableFirefoxStudies = Evitar que { -brand-short-name } ejecute estudios
 policy-DisableForgetButton = Evitar el acceso al botón Olvidar.
 policy-DisableFormHistory = No recordar la búsqueda y el historial de formularios.
 policy-DisablePrimaryPasswordCreation = Si es cierto, no se puede crear una contraseña maestra
-policy-DisablePasswordReveal = No permitir que las contraseñas sean reveladas en inicios de sesión guardados.
 policy-DisablePrivateBrowsing = Deshabilitar Navegación Privada.
 policy-DisableProfileImport = Deshabilitar el comando de menú para importar datos desde otro navegador.
 policy-DisableProfileRefresh = Deshabilitar el botón "Recargar { -brand-short-name }" en la página about:support.

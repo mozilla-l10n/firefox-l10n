@@ -31,7 +31,6 @@ policy-DisableDeveloperTools = डेवलपर टूल्स तक के 
 policy-DisableFirefoxScreenshots = Firefox स्क्रीनशॉट सुविधा को अक्षम करें.
 policy-DisableForgetButton = भूल बटन तक पहुँच को रोकें।
 policy-DisableFormHistory = खोज और फ़ॉर्म इतिहास याद न रखें।
-policy-DisablePasswordReveal = सहेजे गए लॉगिन में पासवर्ड को प्रदर्शित होने की अनुमति ना दें।
 policy-DisablePrivateBrowsing = निजी ब्राउजिंग अक्षम करें।
 policy-DisableProfileImport = किसी अन्य ब्राउज़र से डेटा आयात करने के लिए मेन्यू कमांड को निष्क्रिय करें।
 policy-DisableSystemAddonUpdate = सिस्टम ऐड-ऑन को इंस्टॉल करने और अपडेट करने से ब्राउज़र को रोकें।

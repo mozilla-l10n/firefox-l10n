@@ -59,10 +59,6 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Вилучити з бічної панелі
 # $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Запитати в { $provider }
-    .tooltiptext = Запитати в { $provider }
-# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Запитати в { $provider }
 genai-menu-new-badge = Нове

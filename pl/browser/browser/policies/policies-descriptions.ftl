@@ -64,7 +64,6 @@ policy-DisableFormHistory = Wyłączenie zachowywania historii wyszukiwania i f
 policy-DisableLaunchOnLogin = Uniemożliwienie { -brand-short-name(case: "dat") } automatycznego uruchamiania po zalogowaniu użytkownika.
 policy-DisablePrimaryPasswordCreation = Wartość „prawda” powoduje, że nie można utworzyć hasła głównego.
 policy-DisablePasswordReveal2 = Wyłączenie możliwości wyświetlania haseł w zachowanych danych logowania i polach haseł.
-policy-DisablePasswordReveal = Wyłączenie możliwości wyświetlania haseł w zachowanych danych logowania.
 policy-DisablePrivateBrowsing = Wyłączenie trybu prywatnego.
 policy-DisableProfileImport = Wyłączenie polecenia menu do importowania danych z innej przeglądarki.
 policy-DisableProfileRefresh2 = Wyłączenie przycisku „Odśwież { -brand-short-name(case: "acc") }” na stronie informacji do rozwiązywania problemów (about:support) oraz na stronie support.mozilla.org, a także komunikatu proponującego odświeżenie { -brand-short-name(case: "gen") } po dłuższym czasie nieużywania.

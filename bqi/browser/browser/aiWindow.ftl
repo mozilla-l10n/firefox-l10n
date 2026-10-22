@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = گۊشیڌن نیمدری سیخومی نۊ
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = نیمدری کلاسیک
-toolbar-switcher-customizable-label =
-    .label = جاگورو کوننده { -smart-window-brand-name }
-    .tooltiptext = منجا نیمدری یل هۊشمند وو کلاسیک جاگورو بۊین.
 
 ## Input CTA
 

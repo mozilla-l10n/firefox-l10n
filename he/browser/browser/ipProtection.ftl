@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = ניתן להשתמש ב־<a dat
 ipprotection-feature-introduction-title-privacy = הוספת שכבה נוספת של פרטיות
 ipprotection-feature-introduction-title-privacy-1 = הוספת שכבה נוספת של פרטיות עם VPN מובנה
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין מספר מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">ה־VPN המובנה של { -brand-product-name }</a> מסייע להגן על הגלישה שלך. ניתן לבחור מבין מספר מיקומים כדי לשמור על פרטיות המיקום שממנו מתבצעת הגלישה.
 ipprotection-feature-introduction-link-text-privacy-3 = ניתן לקבל <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> על־ידי בחירה מבין מספר מיקומים להסתרת המקום שממנו מתבצעת הגלישה.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = ניתן להסתיר את המיקום שלך לקבלת <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> תוך כדי הגלישה. אפשר להפעיל או לכבות את ה־VPN עבור אתרים מסויימים.
@@ -122,7 +121,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = סגירה
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = קבלת VPN ללא הגבלה עד ה־30 בינואר
 ipprotection-holiday-promo-description = להפוך את הגלישה שלך לפרטית וקשה יותר למעקב בעזרת VPN מובנה.
 ipprotection-holiday-promo-primary-button = פתיחת VPN
 ipprotection-holiday-promo-secondary-button = סגירה

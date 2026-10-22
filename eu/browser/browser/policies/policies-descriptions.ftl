@@ -64,7 +64,6 @@ policy-DisableFormHistory = Ez gogoratu bilaketen eta inprimakien historia.
 policy-DisableLaunchOnLogin = Eragotzi { -brand-short-name }(r)i automatikoki abiatzea erabiltzaileak saioa hasten duenean.
 policy-DisablePrimaryPasswordCreation = Ezarrita badago, ezingo da pasahitz nagusia sortu.
 policy-DisablePasswordReveal2 = Ez baimendu gordetako saio-hasieretan edo pasahitz eremuetan pasahitzak agerraraztea.
-policy-DisablePasswordReveal = Ez baimendu gordetako saio-hasieretan pasahitzak agerraraztea.
 policy-DisablePrivateBrowsing = Desgaitu nabigatze pribatua.
 policy-DisableProfileImport = Desgaitu beste nabigatzaile batetik datuak inportatzeko menu-komandoa.
 policy-DisableProfileRefresh2 = Desgaitu Biziberritu { -brand-short-name } botoia arazoak konpontzeko (about:support) eta support.mozilla.org orrietan, hala nola biziberritzeko gonbita nabigatzailea denbora luzez erabili ez denean.

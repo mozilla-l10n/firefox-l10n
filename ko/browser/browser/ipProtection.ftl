@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = 새로운 <a data-l10n-name="lea
 ipprotection-feature-introduction-title-privacy = 또 다른 개인 정보 보호 계층 추가
 ipprotection-feature-introduction-title-privacy-1 = 내장 VPN으로 또 다른 개인 정보 보호 계층을 추가하세요
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>이 탐색을 안전하게 보호해 드립니다. 여러 위치 중 원하는 곳을 선택하여 탐색 위치를 더욱 안전하게 보호하세요.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }에 내장된 VPN</a>이 탐색을 안전하게 보호해 드립니다. 여러 위치 중 원하는 곳을 선택하여 탐색 위치를 더욱 안전하게 보호하세요.
 ipprotection-feature-introduction-link-text-privacy-3 = 여러 위치 중 원하는 곳을 선택하여 탐색 위치를 숨기는 <a data-l10n-name="learn-more-vpn">추가적인 개인정보 보호</a>를 받으세요.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = 탐색할 때 <a data-l10n-name="learn-more-vpn">개인 정보 보호</a>를 위해 위치를 숨길 수 있습니다. 특정 사이트에 대해 VPN을 켜거나 끌 수 있습니다.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = 여행 계획이 있으�
 ipprotection-feature-introduction-description-summer-promo = { -brand-product-name }에 내장된 VPN으로 더 넓은 세상을 만나보세요. 더 많은 접속 지역과 무제한 대역폭이 8월 31일까지 제공됩니다.
 ipprotection-feature-introduction-link-text-private-browsing-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 사생활 보호 창에 있을 때도 위치를 숨기고 데이터를 보호하세요.
 ipprotection-feature-introduction-description-private-browsing = 사생활 보호 창에 있을 때도 위치를 숨겨 탐색을 추가 보호합니다.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = 탐색할 때 위치를 숨길 수 있습니다. <a data-l10n-name="learn-more-vpn">추가적인 개인 정보 보호</a> 또는 위치 기반 탐색을 위해서 VPN을 켜고 그렇지 않은 곳에서는 VPN을 끄는 규칙을 설정해 보세요.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = 탐색할 때 <a data-l10n-name="learn-more-vpn">개인 정보 보호</a>를 위해 위치를 숨길 수 있습니다. 추가 개인 정보 보호 또는 위치 기반 탐색을 위해 VPN을 켜고 그렇지 않은 곳에서는 끄는 규칙을 설정하세요.
 ipprotection-feature-introduction-title-captive-portal = 공용 Wi-Fi를 사용하고 계십니까? { -brand-product-name }에 내장된 VPN을 사용해 보세요.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 닫기
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = 1월 30일까지 VPN 무제한 제공
 ipprotection-holiday-promo-description = 내장형 VPN으로 탐색에서 개인 정보를 보호하고 추적을 어렵게 만드세요.
 ipprotection-holiday-promo-primary-button = VPN 열기
 ipprotection-holiday-promo-secondary-button = 닫기

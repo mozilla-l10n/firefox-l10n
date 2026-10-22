@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = Kokeile { -brand-product-name }in si
 ipprotection-feature-introduction-link-text-2 = Käytä uutta <a data-l10n-name="learn-more-vpn">sisäänrakennettua VPN-yhteyttämme</a> piilottaaksesi sijaintisi ja suojataksesi tietojasi.
 ipprotection-feature-introduction-title-privacy = Lisää kerros yksityisyyttä
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse useista sijainneista, jotta selaamisesi alkuperä pysyy yksityisempänä.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }in sisäänrakennettu VPN</a> auttaa suojaamaan selaamistasi. Valitse useista sijainneista, jotta selaamisesi alkuperä pysyy yksityisempänä.
 ipprotection-feature-introduction-link-text-privacy-3 = Saat <a data-l10n-name="learn-more-vpn">enemmän yksityisyyttä</a> valitsemalla useista sijainneista, joihin selauksesi alkuperä piilotetaan.
 ipprotection-feature-introduction-text-summer-promo-1 = Ota se käyttöön pitääksesi selaamisesi yksityisempänä. <a data-l10n-name="summer-promo-link">Saat rajattoman kaistanleveyden</a> ja lisää sijainteja selailun alkuperän piilottamiseksi. Nyt 31. elokuuta asti.
 ipprotection-feature-introduction-title-summer-promo = Onko sinulla matkasuunnitelmia? Pidä yksityisyys mukanasi.

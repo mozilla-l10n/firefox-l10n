@@ -59,7 +59,6 @@ policy-DisableForgetButton = Спречи приступ дугмету „За�
 policy-DisableFormHistory = Не памти историју претраживања и формулара.
 policy-DisableLaunchOnLogin = Спречите самостално покретање { -brand-short-name }-а када се корисник пријави.
 policy-DisablePrimaryPasswordCreation = Ако је тачно, главна лозинка се не може направити.
-policy-DisablePasswordReveal = Не дозволите приказивање лозинке у сачуваним подацима за пријаву.
 policy-DisablePrivateBrowsing = Онемогући приватно прегледање.
 policy-DisableProfileImport = Онемогући наредбу у менију за увоз података из других прегледача.
 policy-DisableProfileRefresh = Онемогући дугме за освежавање програма { -brand-short-name } на страни about:support.

@@ -16,15 +16,15 @@ customize-mode-titlebar =
     .label = Bara do titolo
 customize-mode-uidensity-menu-touch =
     .label = Tòcco
-    .accesskey = T
     .tooltiptext = Tòcco
+    .accesskey = T
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Deuvia tòcco pe-o mòddo Tablet
 customize-mode-overflow-list-description = Rebela e mòlla i elementi chi pe tegnili razonzibili ma feua da teu bara di atressi…
 customize-mode-uidensity-menu-normal =
     .label = Normale
-    .accesskey = N
     .tooltiptext = Normale
+    .accesskey = N
 customize-mode-undo-cmd =
     .label = Anulla
 

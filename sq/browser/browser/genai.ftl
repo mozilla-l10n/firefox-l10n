@@ -59,10 +59,6 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Hiqe nga Anështylla
 # $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Pyetni { $provider }
-    .tooltiptext = Pyetni { $provider }
-# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Pyetni { $provider }
 genai-menu-new-badge = I ri

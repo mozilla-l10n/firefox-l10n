@@ -64,7 +64,6 @@ policy-DisableFormHistory = Pytansku a formularnu historiju sej njespomjatkować
 policy-DisableLaunchOnLogin = Zadźěwajće tomu, zo so { -brand-short-name } awtomatisce startuje, hdyž so wužiwar přizjewja.
 policy-DisablePrimaryPasswordCreation = Jeli to trjechi, njeda so hłowne hesło wutworić.
 policy-DisablePasswordReveal2 = Njedowolić, zo so hesła w składowanych přizjewjenjach abo hesłowych polach pokazuja.
-policy-DisablePasswordReveal = Njedowolić, zo so hesła w składowanych přizjewjenjach pokazuja
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžnić.
 policy-DisableProfileImport = Menijowy přikaz za importowanje datow z druheho wobhladowaka znjemóžnić.
 policy-DisableProfileRefresh2 = Znjemóžńće tłóčatko { -brand-short-name } aktualizować w informacijach wo rozrisowanju problemow (about:support) a na support.mozilla.org a namołwu { -brand-short-name } aktualizować, hdyž njeje so chwilku wužiwał.

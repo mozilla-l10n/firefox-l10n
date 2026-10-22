@@ -49,7 +49,6 @@ policy-DisableFirefoxStudies = { -brand-short-name } ᱫᱚ ᱯᱟᱲᱦᱟᱣ �
 policy-DisableForgetButton = ᱦᱤᱲᱤᱧ ᱵᱩᱛᱟᱹᱢ ᱨᱮ ᱟᱫᱮᱨ ᱟᱠᱚᱴ ᱢᱮ ᱾
 policy-DisableFormHistory = ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱯᱷᱚᱨᱢ ᱦᱤᱛᱟᱹᱞ ᱩᱭᱦᱟᱹᱨ ᱟᱞᱚᱫᱚᱦᱚᱭᱟᱢ ᱾
 policy-DisablePrimaryPasswordCreation = ᱡᱩᱫᱤ ᱥᱟᱹᱨᱤ ᱠᱷᱟᱱ, ᱢᱤᱫᱴᱟᱝ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱫᱚ ᱛᱮᱭᱟᱨ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱾
-policy-DisablePasswordReveal = ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱵᱚᱞᱚ ᱦᱚᱨ ᱨᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱟᱞᱚ ᱫᱮᱠᱷᱟᱣ ᱪᱷᱚᱭᱟ ᱾
 policy-DisablePrivateBrowsing = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱵᱚᱱᱫ ᱠᱟᱜ ᱢᱮ ᱾
 policy-DisableProfileImport = ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱰᱟᱴᱟ ᱟᱹᱜᱩ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱢᱮᱱᱩ ᱠᱚᱢᱟᱱᱰ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾
 policy-DisableProfileRefresh = about:support ᱥᱟᱦᱴᱟ ᱨᱮ ᱱᱟᱶᱟ { -brand-short-name } ᱟᱹᱨᱩ ᱵᱩᱛᱟᱹᱢ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾

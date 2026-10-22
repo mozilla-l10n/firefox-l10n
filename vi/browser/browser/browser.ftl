@@ -58,9 +58,6 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Chia sẻ…
     .accesskey = h
-
-##
-
 urlbar-identity-button =
     .aria-label = Xem thông tin trang
 
@@ -750,11 +747,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Được tài trợ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Hỏi
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1157,13 +1149,9 @@ qrcode-image =
     .aria-label = Mã QR
 qrcode-close-button =
     .aria-label = Đóng
-# Variables:
-#  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Lưu trang
     .tooltiptext = Lưu trang này ({ $shortcut })
-# Variables:
-#  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Mở tập tin
     .tooltiptext = Mở một tập tin ({ $shortcut })
@@ -1173,8 +1161,6 @@ toolbar-button-synced-tabs =
 toolbar-button-send-tab =
     .label = Gửi thẻ
     .tooltiptext = Gửi thẻ hiện tại sang thiết bị khác
-# Variables
-# $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Cửa sổ riêng tư mới
     .tooltiptext = Mở một cửa sổ duyệt web riêng tư mới ({ $shortcut })
@@ -1308,9 +1294,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1562,13 +1545,6 @@ file-picker-crashed-open = Không thể mở hộp thoại tập tin Windows. Kh
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Hộp thoại tập tin Windows đã bị lỗi. Tập tin sẽ được lưu vào { $path }.
 file-picker-crashed-save-nowhere = Hộp thoại tập tin Windows đã bị lỗi. Không tìm thấy thư mục mặc định; tập tin sẽ không được lưu.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Hiển thị trong thư mục
     .accessKey = F
@@ -1621,9 +1597,6 @@ trustpanel-blocker-see-all = Xem tất cả
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Trình chống theo dõi cho { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

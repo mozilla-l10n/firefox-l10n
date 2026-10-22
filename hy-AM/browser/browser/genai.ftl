@@ -54,10 +54,6 @@ genai-menu-remove-provider =
     .label = Հեռացնել { $provider }-ը
 genai-menu-remove-sidebar =
     .label = Հեռացնել կողային վահանակից
-# $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Հարցրեք { $provider }-ին
-    .tooltiptext = Հարցրեք { $provider }-ին
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =

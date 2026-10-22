@@ -63,9 +63,6 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Kopīgot…
     .accesskey = K
-
-##
-
 urlbar-identity-button =
     .aria-label = Apskatīt informāciju par vietni
 
@@ -740,11 +737,6 @@ urlbar-result-weather-provider-sponsored = { $provider } · apmaksāts
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Prasīt
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1103,13 +1095,9 @@ qrcode-image =
     .aria-label = QR kods
 qrcode-close-button =
     .aria-label = Aizvērt
-# Variables:
-#  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Saglabāt lapu
     .tooltiptext = Saglabā šo lapu ({ $shortcut })
-# Variables:
-#  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Atvērt datni
     .tooltiptext = Atvērt datni ({ $shortcut })
@@ -1119,8 +1107,6 @@ toolbar-button-synced-tabs =
 toolbar-button-send-tab =
     .label = Sūtīt cilni
     .tooltiptext = Sūtīt pašreizējo cilni uz citu ierīci
-# Variables
-# $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Jauns privātais logs
     .tooltiptext = Atver jaunu privātās pārlūkošanas logu ({ $shortcut })
@@ -1259,9 +1245,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1521,13 +1504,6 @@ file-picker-crashed-open = Nevarēja atvērt Windows datņu dialoglodziņu. Neva
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows datņu dialoglodziņš ir avarējis. Datne tiks saglabāta mapē { $path }.
 file-picker-crashed-save-nowhere = Nevarēja atvērt Windows datņu dialoglodziņu. Nevarēja atrast noklusējuma mapi; datne netiks saglabāta.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Rādīt mapē
     .accessKey = m
@@ -1580,9 +1556,6 @@ trustpanel-blocker-see-all = Apskatīt visu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Pretizsekošanas aizsardzība { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

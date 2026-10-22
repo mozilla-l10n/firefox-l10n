@@ -50,7 +50,6 @@ policy-DisableFirefoxStudies = Spriječi { -brand-short-name } da pokreće istra
 policy-DisableForgetButton = Spriječite pristup tipki za brisanje povijesti pretraživanja.
 policy-DisableFormHistory = Nemoj pamtiti povijest pretraživanja i obrazaca.
 policy-DisablePrimaryPasswordCreation = Ukoliko je točno, neće biti moguće postaviti primarnu lozinku.
-policy-DisablePasswordReveal = Nemoj dozvoliti prikaz spremljenih lozinki.
 policy-DisablePrivateBrowsing = Onemogući privatno pregledavanje.
 policy-DisableProfileImport = Onemogućite naredbu izbornika za uvoz podatka iz drugog preglednika.
 policy-DisableProfileRefresh = Deaktiviraj gumb „Aktualiziraj { -brand-short-name }” na stranici about:support.

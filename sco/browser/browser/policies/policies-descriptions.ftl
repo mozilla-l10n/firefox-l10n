@@ -38,7 +38,6 @@ policy-DisableFirefoxStudies = Stap { -brand-short-name } fae runnin studies.
 policy-DisableForgetButton = Stap ingang tae the Tyne button.
 policy-DisableFormHistory = Dinnae mind o airt-oot and form historie.
 policy-DisablePrimaryPasswordCreation = Gin true, a Primary Passwird cannae be makkit.
-policy-DisablePasswordReveal = Dinnae alloo passwirds tae be kythed in saved logins.
 policy-DisablePrivateBrowsing = Disable Private Stravaigin
 policy-DisableProfileImport = Disable the menu command tae Inbring data fae anither stravaiger.
 policy-DisableProfileRefresh = Disable the Refresh { -brand-short-name } button in the aboot:support page.

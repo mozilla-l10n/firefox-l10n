@@ -62,9 +62,6 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = …ਸਾਂਝਾ ਕਰੋ
     .accesskey = h
-
-##
-
 urlbar-identity-button =
     .aria-label = ਸਾਈਟ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ
 
@@ -760,11 +757,6 @@ urlbar-result-weather-title-city-only = { $city } ਵਿਖੇ <strong>{ $temper
 urlbar-result-weather-provider-sponsored = { $provider } · ਸਪੌਂਸਰ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = ਪੁੱਛੋ
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1191,13 +1183,9 @@ qrcode-image =
     .aria-label = QR ਕੋਡ
 qrcode-close-button =
     .aria-label = ਬੰਦ ਕਰੋ
-# Variables:
-#  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ
     .tooltiptext = ਇਹ ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ ({ $shortcut })
-# Variables:
-#  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ਫਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ
     .tooltiptext = ਫਾਇਲ ਨੂੰ ਖੋਲ੍ਹੋ ({ $shortcut })
@@ -1207,8 +1195,6 @@ toolbar-button-synced-tabs =
 toolbar-button-send-tab =
     .label = ਟੈਬ ਨੂੰ ਭੇਜੋ
     .tooltiptext = ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਹੋਰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
-# Variables
-# $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ
     .tooltiptext = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਵਿੰਡੋ ਖੋਲ੍ਹੋ ({ $shortcut })
@@ -1346,9 +1332,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1606,13 +1589,6 @@ file-picker-crashed-open = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows ਫ਼ਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਫਾਇਲ ਨੂੰ { $path } ਵਿੱਚ ਸੰਭਾਲਿਆ ਜਾਵੇਗਾ।
 file-picker-crashed-save-nowhere = Windows ਫਾਇਲ-ਡਾਈਲਾਗ ਕਰੈਸ਼ ਹੋਇਆ। ਕੋਈ ਮੂਲ ਫੋਲਡਰ ਨਹੀਂ ਲੱਭਿਆ ਜਾ ਸਕਿਆ; ਫਾਇਲ ਨੂੰ ਸੰਭਾਲਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = ਫੋਲਡਰ ਵਿੱਚ ਵੇਖਾਓ
     .accessKey = F
@@ -1665,9 +1641,6 @@ trustpanel-blocker-see-all = ਸਾਰੇ ਵੇਖੋ
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } ਲਈ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

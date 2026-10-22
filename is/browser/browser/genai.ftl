@@ -60,10 +60,6 @@ genai-menu-remove-provider =
 genai-menu-remove-sidebar =
     .label = Fjarlægja af hliðarstiku
 # $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Spyrja { $provider }
-    .tooltiptext = Spyrja { $provider }
-# $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Spyrja { $provider }
 genai-menu-new-badge = Nýtt

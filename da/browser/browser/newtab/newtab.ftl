@@ -89,9 +89,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Finans
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Aktier
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Dagens billede
@@ -254,12 +251,6 @@ newtab-privacy-message-first-protection-cta = Vis beskyttelse
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Lær mere
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Indstillinger for aktie-widget
-    .title = Indstillinger for aktie-widget
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -274,9 +265,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Søg efter navn eller symbol
     .label = Søg
     .title = Søg efter navn eller symbol
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Aktier
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Markeder
@@ -383,11 +371,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Se { $license }-licensen
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Indstillinger for dagens billede
-    .title = Indstillinger for dagens billede
 # Button that sets the picture shown in the widget, which may be today’s or the
 # previous day’s, as the New Tab background wallpaper. The button collapses to an
 # icon when not hovered/focused, so .title is its tooltip.
@@ -447,9 +430,6 @@ newtab-recent-searches-row-remove =
     .aria-label = Fjern "{ $search }" fra seneste søgninger
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søgning
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Søgeindstillinger
 
 ## Strings for the Horoscopes widget
 
@@ -775,8 +755,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Finans
-newtab-custom-widget-stocks-toggle =
-    .label = Aktier
 newtab-custom-widget-picture-toggle =
     .label = Dagens billede
 newtab-custom-widget-search-toggle =
@@ -1444,8 +1422,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Kun hold, der følges
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Indlæser flere kampe…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Se
@@ -1525,9 +1501,6 @@ newtab-sports-widget-third-place = Tredjeplads
 newtab-sports-widget-runner-up = Andenplads
 newtab-sports-widget-champions = Mestre
 newtab-sports-widget-world-cup-champions = Verdensmestre i 2026
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Mestre i 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1629,12 +1602,6 @@ newtab-sports-widget-message-add-widgets-cta =
     .label = Tilføj widgets
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Udforsk widgets
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Hjælp os med at gøre widgets bedre
-newtab-sports-widget-message-survey-cta =
-    .label = Deltag i undersøgelsen
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

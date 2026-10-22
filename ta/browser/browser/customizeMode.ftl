@@ -16,15 +16,15 @@ customize-mode-titlebar =
     .label = தலைப்பு பட்டை
 customize-mode-uidensity-menu-touch =
     .label = தொடுதல்
-    .accesskey = T
     .tooltiptext = தொடுதல்
+    .accesskey = T
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = கைக்கணினி முறைமையில் தொட்டுப் பாவிக்கவும்
 customize-mode-overflow-list-description = கருவிப்பெட்டிக்கு வெளியே ஆனால் கைக்கெட்டும் தூரத்தில் உருப்படிகளை வைக்க இழுத்து இங்கே போடவும்…
 customize-mode-uidensity-menu-normal =
     .label = சாதாரணம்
-    .accesskey = N
     .tooltiptext = சாதாரணம்
+    .accesskey = N
 customize-mode-undo-cmd =
     .label = செயல்தவிர்
 

@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = ‏VPN داخلی { -brand-product-n
 ipprotection-feature-introduction-link-text-2 = از <a data-l10n-name="learn-more-vpn">VPN داخلی</a> جدید ما برای پنهان کردن موقعیت مکانی و محافظت از داده‌های خود استفاده کنید.
 ipprotection-feature-introduction-title-privacy = افزودن لایهٔ دیگری از حریم‌خصوصی
 ipprotection-feature-introduction-link-text-privacy-1 = ‏<a data-l10n-name="learn-more-vpn">VPN داخلی { -brand-product-name }</a> به محافظت از وب‌گردی شما کمک می‌کند. از میان چندین موقعیت مکانی انتخاب کنید تا مکان وب‌گردی‌تان خصوصی‌تر بماند.
-ipprotection-feature-introduction-link-text-privacy-2 = ‏<a data-l10n-name="learn-more-vpn">VPN داخلی { -brand-product-name }</a> به محافظت از وب‌گردی شما کمک می‌کند. از میان چندین موقعیت مکانی انتخاب کنید تا مکان وب‌گردی‌تان خصوصی‌تر بماند.
 ipprotection-feature-introduction-link-text-privacy-3 = با انتخاب از میان چندین موقعیت مکانی، <a data-l10n-name="learn-more-vpn">حریم‌خصوصی بیشتری</a> برای پنهان کردن مکان وب‌گردی خود داشته باشید.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = هنگام مرور، برای <a data-l10n-name="learn-more-vpn">حریم خصوصی بیشتر</a> به پنهان کردن موقعیت مکانی‌تان کمک کنید. VPN را برای سایت‌های مشخصی روشن یا خاموش کنید.

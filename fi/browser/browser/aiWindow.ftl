@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = Avaa uusi yksityinen ikkuna
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Perinteinen ikkuna
-toolbar-switcher-customizable-label =
-    .label = { -smart-window-brand-name } -vaihtaja
-    .tooltiptext = Vaihda älykkäiden ja perinteisten ikkunoiden välillä.
 
 ## Input CTA
 

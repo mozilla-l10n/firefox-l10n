@@ -92,9 +92,6 @@ home-prefs-crossword-widget-header =
 # Finance is a widget on New Tab that shows stock ticker prices.
 home-prefs-stocks-header2 =
     .label = Tài chính
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Cổ phiếu
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Hình ảnh của ngày
@@ -166,12 +163,6 @@ home-prefs-mission-message-learn-more-link-srd = Tìm hiểu cách thức
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Tìm hiểu thêm
-# "Privacy options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-privacy-widget-menu-button =
-    .aria-label = Tuỳ chọn quyền riêng tư
-    .title = Tuỳ chọn quyền riêng tư
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-privacy-widget-open-menu-button =
@@ -317,12 +308,6 @@ newtab-stocks-error-not-available = Dữ liệu cổ phiếu hiện không khả
 newtab-stocks-widget-open-menu-button2 =
     .aria-label = Mở menu tài chính
     .title = Mở menu tài chính
-# "Stocks widget options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-stocks-widget-menu-button =
-    .aria-label = Tuỳ chọn widget Cổ phiếu
-    .title = Tuỳ chọn widget Cổ phiếu
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -340,9 +325,6 @@ newtab-stocks-watchlist-empty-search =
     .aria-label = Tìm kiếm theo tên hoặc ký hiệu
     .label = Tìm kiếm
     .title = Tìm kiếm theo tên hoặc ký hiệu
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Cổ phiếu
 # "Markets" is the default list of market ETFs. The value is shown in the menu,
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = Thị trường
@@ -456,11 +438,6 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Xem giấy phép { $license }
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Tuỳ chọn Hình ảnh của ngày
-    .title = Tuỳ chọn Hình ảnh của ngày
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-picture-widget-open-menu-button =
@@ -527,9 +504,6 @@ newtab-recent-searches-row-remove =
     .aria-label = Xoá “{ $search }” khỏi các tìm kiếm gần đây
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Tìm kiếm
-# Screen reader label for the widget's icon-only menu button.
-newtab-search-widget-menu-button =
-    .aria-label = Tuỳ chọn tìm kiếm
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-search-widget-open-menu-button =
@@ -884,8 +858,6 @@ newtab-custom-widget-crossword-toggle =
 # Finance is a widget on New Tab that shows stock ticker prices.
 newtab-custom-widget-stocks-toggle2 =
     .label = Tài chính
-newtab-custom-widget-stocks-toggle =
-    .label = Cổ phiếu
 newtab-custom-widget-picture-toggle =
     .label = Hình ảnh của ngày
 newtab-custom-widget-search-toggle =
@@ -1402,9 +1374,6 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Huỷ bỏ
     .title = Huỷ bỏ
-# Lists is a noun, as in "options for the lists"
-newtab-widget-lists-menu-button =
-    .aria-label = Tuỳ chọn trong danh sách
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 # Lists is a noun, as in "the menu for your lists".
@@ -1496,8 +1465,6 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Tắt thông báo
 newtab-widget-timer-menu-notifications-on = Bật thông báo
 newtab-widget-timer-menu-learn-more = Tìm hiểu thêm
-newtab-widget-timer-menu-button =
-    .aria-label = Tùy chọn bộ đếm giờ
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-widget-timer-open-menu-button =
@@ -1614,8 +1581,6 @@ newtab-sports-widget-show-less =
 # Toggle that filters the list of teams the user follows
 newtab-sports-widget-followed-only-toggle =
     .label = Chỉ các đội đã theo dõi
-# Status shown when more matches are being fetched.
-newtab-sports-widget-loading-more = Đang tải thêm kết quả phù hợp…
 # Watch is a verb (as in watch matches online).
 newtab-sports-widget-watch =
     .label = Xem
@@ -1695,9 +1660,6 @@ newtab-sports-widget-third-place = Hạng ba
 newtab-sports-widget-runner-up = Á quân
 newtab-sports-widget-champions = Nhà vô địch
 newtab-sports-widget-world-cup-champions = Nhà vô địch World Cup 2026
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Nhà vô địch năm 2026
 # Variables:
 #   $date (Date) - The match start time
 newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
@@ -1804,15 +1766,6 @@ newtab-sports-widget-message-day-in-play-title = Hãy giữ cho ngày của bạ
 newtab-sports-widget-message-day-in-play-body = Theo dõi World Cup, hoàn thành công việc, theo dõi thời gian trên toàn cầu và hơn thế nữa.
 newtab-sports-widget-message-explore-widgets-cta =
     .label = Khám phá widget
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Giúp chúng tôi cải thiện các tiện ích
-newtab-sports-widget-message-survey-body = Giải vô địch bóng đá thế giới đã khép lại. Hãy chia sẻ cảm nhận của bạn về trải nghiệm này.
-newtab-sports-widget-message-survey-widget-title = Tiện ích World Cup hoạt động như thế nào?
-newtab-sports-widget-message-survey-widget-body = Hãy chia sẻ phản hồi của bạn để giúp chúng tôi cải thiện các tiện ích trong tương lai. Sau đó, hãy thử tiện ích mới trong danh sách các tiện ích của bạn.
-newtab-sports-widget-message-survey-cta =
-    .label = Tham gia khảo sát
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1926,12 +1879,6 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Không có múi giờ phù hợp
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Quay lại
-# "Clock options" is an icon-only button in the widget toolbar — the
-# attributes are consumed as tooltip/screen-reader label only. The button
-# never renders visible text.
-newtab-clock-widget-menu-button2 =
-    .aria-label = Tuỳ chọn đồng hồ
-    .title = Tuỳ chọn đồng hồ
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-clock-widget-open-menu-button =

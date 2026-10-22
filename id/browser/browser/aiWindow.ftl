@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = Buka Jendela Pribadi Baru
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Jendela Klasik
-toolbar-switcher-customizable-label =
-    .label = Pengalih { -smart-window-brand-name }
-    .tooltiptext = Beralih antara jendela Cerdas dan Klasik.
 
 ## Input CTA
 

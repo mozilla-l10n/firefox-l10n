@@ -36,7 +36,6 @@ policy-DisableFirefoxStudies = Evita que { -brand-short-name } execute estudios.
 policy-DisableForgetButton = Evita l'accesu al botón «Escaecer».
 policy-DisableFormHistory = Nun recuerda l'historial de busques y formularios.
 policy-DisablePrimaryPasswordCreation = Si s'afita «true», nun pue crease una contraseña primaria.
-policy-DisablePasswordReveal = Nun permite que les contraseñes se desvelen nes cuentes guardaes.
 policy-DisablePrivateBrowsing = Desactiva'l restolar en privao.
 policy-DisableProfileImport = Desactiva los comandos del menú pa importar los datos d'otros restoladores.
 policy-DisableProfileRefresh = Desactiva'l botón «Reafitar { -brand-short-name }» na páxina «about:support».

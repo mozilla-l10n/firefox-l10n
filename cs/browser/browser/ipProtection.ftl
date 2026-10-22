@@ -37,11 +37,6 @@ ipprotection-feature-introduction-link-text-privacy-1 =
         [with-cases] <a data-l10n-name="learn-more-vpn">Vestavěná síť VPN { -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení. Vyberte si z několika umístění, aby bylo vaše prohlížení více v soukromí.
        *[no-cases] <a data-l10n-name="learn-more-vpn">Vestavěná síť VPN aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení. Vyberte si z několika umístění, aby bylo vaše prohlížení více v soukromí.
     }
-ipprotection-feature-introduction-link-text-privacy-2 =
-    { -brand-product-name.case-status ->
-        [with-cases] <a data-l10n-name="learn-more-vpn">Integrovaná služba VPN{ -brand-product-name(case: "gen") }</a> pomáhá chránit vaše prohlížení webu. Vyberte si z řady umístění a zajistěte si větší soukromí při prohlížení webu.
-       *[no-cases] <a data-l10n-name="learn-more-vpn">Integrovaná služba VPN aplikace { -brand-product-name }</a> pomáhá chránit vaše prohlížení webu. Vyberte si z řady umístění a zajistěte si větší soukromí při prohlížení webu.
-    }
 ipprotection-feature-introduction-link-text-privacy-3 = Získejte <a data-l10n-name="learn-more-vpn">větší soukromí</a> tím, že si vyberete z několika umístění a skryjete tak místo, odkud surfujete.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Pomozte skrýt svou polohu a získejte při prohlížení <a data-l10n-name="learn-more-vpn">větší soukromí</a>. Pro vybrané weby můžete VPN zapnout nebo vypnout.
@@ -54,8 +49,6 @@ ipprotection-feature-introduction-description-summer-promo =
     }
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použijte naši novou <a data-l10n-name="learn-more-vpn">vestavěnou VPN</a>, skryjte svou polohu a chraňte svá data, i když jste v anonymním okně.
 ipprotection-feature-introduction-description-private-browsing = Procházejte internet s větší ochranou díky skrytí vaší polohy, a to i v anonymním okně.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Pomozte skrýt svou polohu při prohlížení. Nastavte pravidla, kde se má VPN zapnout kvůli <a data-l10n-name="learn-more-vpn">většímu soukromí</a> nebo prohlížení podle polohy a kde má zůstat vypnutá.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Pomozte skrýt svou polohu a získejte <a data-l10n-name="learn-more-vpn">zvlášť soukromí</a> během prohlížení. Nastavte si pravidla pro zapnutí VPN pro zvýšení soukromí nebo prohlížení podle polohy a vypnutí tam, kde nechcete.
 ipprotection-feature-introduction-title-captive-portal =
@@ -153,7 +146,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zavřít
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Získejte neomezenou VPN do 30. ledna
 ipprotection-holiday-promo-description = Procházejte web v soukromí a omezte možnost sledování díky integrované VPN.
 ipprotection-holiday-promo-primary-button = Otevřít VPN
 ipprotection-holiday-promo-secondary-button = Zavřít

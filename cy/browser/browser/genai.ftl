@@ -66,10 +66,6 @@ genai-menu-remove-sidebar =
 genai-shortcut-button-3 =
     .aria-label = Gofynnwch am y testun hwn
     .tooltiptext = Gofynnwch am y testun hwn
-# $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Gofyn i { $provider }
-    .tooltiptext = Gofyn i { $provider }
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =

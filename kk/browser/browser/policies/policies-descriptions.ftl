@@ -64,7 +64,6 @@ policy-DisableFormHistory = Іздеу және формалар тарихын 
 policy-DisableLaunchOnLogin = Пайдаланушы жүйеге кірген кезде { -brand-short-name } автоматты түрде іске қосылуын болдырмау.
 policy-DisablePrimaryPasswordCreation = Мәні true болса, басты парольді орнату мүмкін болмайды.
 policy-DisablePasswordReveal2 = Сақталған логиндерде немесе парольдер өрістерінде парольдерді көрсетуге жол бермеу.
-policy-DisablePasswordReveal = Сақталған логиндерде парольдердің ашылуына жол бермеу.
 policy-DisablePrivateBrowsing = Жекелік шолуды сөндіру
 policy-DisableProfileImport = Басқа браузерден деректерді импорттау мәзір командасын сөндіру.
 policy-DisableProfileRefresh2 = Мәселелерді шешу ақпаратында (about:support) және support.mozilla.org сайтындағы "{ -brand-short-name } жаңарту" батырмасын, сондай-ақ { -brand-short-name } біраз уақыт пайдаланылмаған кезде жаңартуды ұсынуды сөндіру.

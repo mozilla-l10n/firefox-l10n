@@ -44,10 +44,6 @@ autocomplete-delete-entry = ਹਟਾਓ
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = ਫਾਰਮ ਅਤੀਤ ਤੋਂ { $entry } ਨੂੰ ਹਟਾਓ
-# aria-label and tooltip for the button that opens the edit/delete menu.
-# Variables:
-#   $entry (String) - The dropdown row the actions apply to, such as a username, an address, or a payment method.
-autocomplete-more-actions2 = { $entry } ਲਈ ਹੋਰ ਕਾਰਵਾਈਆਂ
 # Tooltip for the button that opens the edit/delete menu.
 autocomplete-more-options = ਹੋਰ ਚੋਣਾਂ
 # Accessible name for the button that opens the edit/delete menu. It names the

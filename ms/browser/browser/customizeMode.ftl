@@ -16,15 +16,15 @@ customize-mode-titlebar =
     .label = Bar Tajuk
 customize-mode-uidensity-menu-touch =
     .label = Sentuh
-    .accesskey = S
     .tooltiptext = Sentuh
+    .accesskey = S
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Guna Sentuh untuk Mod Tablet
 customize-mode-overflow-list-description = Seret dan lepas item di sini untuk memastikan mudah dicapai, tetapi di luar bar alatan anda…
 customize-mode-uidensity-menu-normal =
     .label = Normal
-    .accesskey = N
     .tooltiptext = Normal
+    .accesskey = N
 customize-mode-undo-cmd =
     .label = Batal
 

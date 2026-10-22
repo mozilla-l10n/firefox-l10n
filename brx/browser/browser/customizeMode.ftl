@@ -12,12 +12,12 @@ customize-mode-titlebar =
     .label = बिमुं बार
 customize-mode-uidensity-menu-touch =
     .label = टाच
-    .accesskey = T
     .tooltiptext = टाच
+    .accesskey = T
 customize-mode-uidensity-menu-normal =
     .label = सरासनस्रा
-    .accesskey = N
     .tooltiptext = सरासनस्रा
+    .accesskey = N
 customize-mode-undo-cmd =
     .label = सिगांनि महराव लाबोफिन
 

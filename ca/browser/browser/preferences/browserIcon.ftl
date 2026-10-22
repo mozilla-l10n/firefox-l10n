@@ -28,8 +28,6 @@ appearance-browser-icon-subpage-title =
 
 appearance-browser-icon-basic-group =
     .label = Estàndard
-appearance-browser-icon-bonus-group =
-    .label = Especial
 
 ##
 

@@ -41,7 +41,6 @@ policy-DisableFirefoxStudies = Man tiya' q'ij chi ri { -brand-short-name } tib'�
 policy-DisableForgetButton = Tiq'at okem pa ri rupitz'b'al Timestäx.
 policy-DisableFormHistory = Man tinatäx ri runatab'al kanob'äl chuqa' taq nojwuj
 policy-DisablePrimaryPasswordCreation = We qitzij, man nitikïr ta nitz'uk jun aNab'ey Ewan Tzij.
-policy-DisablePasswordReveal = Man tiya' q'ij chi kek'ut ri ewan taq tzij pa yakon taq tikirib'äl molojri'ïl.
 policy-DisablePrivateBrowsing = Tichup  ri Ichinan Okem pa K'amaya'l.
 policy-DisableProfileImport = Tichup ri runuk'uj k'utsamaj richin yejik' taq tzij pa ch'aqa' chik taq okik'amaya'l.
 policy-DisableProfileRefresh = Tichup ri Titzolïx { -brand-short-name } pitz'b'äl pa ri ruxaq about:support.

@@ -46,10 +46,6 @@ genai-prompt-prefix-selection = Esmu lapā “{ $tabTitle }” ar atlasītu “{
 
 ## Chatbot menu shortcuts
 
-# $provider (string) - name of the AI chat provider
-genai-shortcut-button-2 =
-    .aria-label = Vaicāt { $provider }
-    .tooltiptext = Vaicāt { $provider }
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =

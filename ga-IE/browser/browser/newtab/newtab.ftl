@@ -64,9 +64,6 @@ home-prefs-clocks-header =
 # Privacy is a widget on New Tab that shows tracking protection activity.
 home-prefs-privacy-header =
     .label = Príobháideacht
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Stoic
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Pictiúr an lae
@@ -163,9 +160,6 @@ newtab-privacy-message-promo-private-window-1-cta = Oscail fuinneog phríobháid
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Tuilleadh eolais
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Stoic
 
 ## Strings for the Picture of the Day widget
 
@@ -466,11 +460,6 @@ newtab-report-content-inappropriate-offensive =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
-newtab-widget-timer-menu-button =
-    .aria-label = Roghanna an amadóra
-
-## Strings introduced by the Nova redesign of the Timer widget
-
 newtab-widget-timer-pause-aria =
     .aria-label = Cuir an t-amadóir ar sos
 # Variables:
@@ -623,9 +612,6 @@ newtab-sports-widget-third-place = An Tríú hÁit
 newtab-sports-widget-runner-up = An dara háit
 newtab-sports-widget-champions = Seaimpíní
 newtab-sports-widget-world-cup-champions = Seaimpíní Chorn an Domhain 2026
-# Compact champions label for the medium-size widget result card; the larger
-# card uses newtab-sports-widget-world-cup-champions.
-newtab-sports-widget-world-cup-champions-short = Seaimpíní 2026
 newtab-sports-widget-match-full-time = Thart
 newtab-sports-widget-match-halftime = Leath-am
 newtab-sports-widget-match-extra-time = Am breise
@@ -717,15 +703,6 @@ newtab-sports-widget-message-wallpapers-semifinals-body = Cruthaigh atmaisféar 
 newtab-sports-widget-message-add-widgets-cta =
     .label = Cuir giuirléidí leis
 newtab-sports-widget-message-day-in-play-body = Lean Corn an Domhain, fan dírithe, rianaigh an t-am ar fud an domhain, agus tuilleadh.
-
-## Survey prompts shown after the World Cup to gather feedback on the widgets experience.
-
-newtab-sports-widget-message-survey-title = Cabhraigh linn na giuirléidí a fheabhsú
-newtab-sports-widget-message-survey-body = Sin sin, tá Corn an Domhain thart. Seol aiseolas faoina cheap tú den taithí.
-newtab-sports-widget-message-survey-widget-title = Céard a cheap tú de ghiuirléid Corn an Domhain?
-newtab-sports-widget-message-survey-widget-body = Roinn do thuairimí le cabhrú linn giuirléidí amach anseo a fheabhsú. Ansin, bain triail as an gceann nua i do liosta.
-newtab-sports-widget-message-survey-cta =
-    .label = Tóg suirbhé
 
 ## Strings for the Clock widget
 

@@ -64,7 +64,6 @@ policy-DisableFormHistory = Formular- und Suchchronik nicht speichern
 policy-DisableLaunchOnLogin = Verhindern, dass { -brand-short-name } automatisch gestartet wird, wenn der Benutzer sich anmeldet
 policy-DisablePrimaryPasswordCreation = Hauptpasswort kann nicht erstellt werden, falls true
 policy-DisablePasswordReveal2 = Option zur Klartextanzeige von Passwörtern in gespeicherten Zugangsdaten oder Passwortfeldern deaktivieren
-policy-DisablePasswordReveal = Option zur Klartextanzeige von Passwörtern in gespeicherten Zugangsdaten deaktivieren
 policy-DisablePrivateBrowsing = Privates Surfen deaktivieren
 policy-DisableProfileImport = Datenimport aus anderen Browsern (Menüeintrag) deaktivieren
 policy-DisableProfileRefresh2 = Deaktiviert die Schaltfläche "{ -brand-short-name } bereinigen" in den Informationen zur Fehlerbehebung (about:support) und auf support.mozilla.org sowie die Aufforderung zum Bereinigen von { -brand-short-name }, wenn das Programm längere Zeit nicht verwendet wurde.

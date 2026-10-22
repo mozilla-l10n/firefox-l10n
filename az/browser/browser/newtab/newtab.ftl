@@ -339,8 +339,6 @@ newtab-widget-section-show-less =
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-notification-title = Vaxtölçən
-newtab-widget-timer-menu-button =
-    .aria-label = Vaxtölçən seçimləri
 
 ##
 

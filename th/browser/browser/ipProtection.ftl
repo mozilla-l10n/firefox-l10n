@@ -28,7 +28,6 @@ ipprotection-feature-introduction-title-1 = ลองใช้ VPN ในตั�
 ipprotection-feature-introduction-link-text-2 = ใช้ <a data-l10n-name="learn-more-vpn">VPN ในตัว</a>ใหม่ของเราเพื่อซ่อนตำแหน่งที่ตั้งและปกป้องข้อมูลของคุณ
 ipprotection-feature-introduction-title-privacy = เพิ่มความเป็นส่วนตัวอีกขั้น
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN ในตัวของ { -brand-product-name }</a> จะช่วยปกป้องการเรียกดูของคุณ เลือกตำแหน่งได้หลากหลายเพื่อช่วยให้การเรียกดูของคุณเป็นส่วนตัวขึ้น
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">VPN ในตัวของ { -brand-product-name }</a> จะช่วยปกป้องการเรียกดูของคุณ เลือกตำแหน่งได้หลากหลายเพื่อช่วยให้การเรียกดูของคุณเป็นส่วนตัวขึ้น
 ipprotection-feature-introduction-link-text-privacy-3 = <a data-l10n-name="learn-more-vpn">เพิ่มความเป็นส่วนตัวอีกขั้น</a>ด้วยการเลือกตำแหน่งได้หลายแห่งเพื่อซ่อนตำแหน่งที่คุณกำลังเรียกดู
 ipprotection-feature-introduction-text-summer-promo-1 = เปิดใช้งานเพื่อให้การเรียกดูของคุณเป็นส่วนตัวยิ่งขึ้น <a data-l10n-name="summer-promo-link">รับแบนด์วิดท์ไม่จำกัด</a>และเลือกตำแหน่งสำหรับการเรียกดูได้มากขึ้น ตั้งแต่วันนี้ถึง 31 สิงหาคม
 ipprotection-feature-introduction-title-summer-promo = มีแผนเดินทางใช่ไหม? พกความเป็นส่วนตัวไปด้วยสิ

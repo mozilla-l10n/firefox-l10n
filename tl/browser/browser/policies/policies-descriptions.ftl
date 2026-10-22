@@ -38,7 +38,6 @@ policy-DisableFirefoxStudies = Pigilan ang { -brand-short-name } mula sa pagpapa
 policy-DisableForgetButton = hadlangan ang pag access sa Forget button.
 policy-DisableFormHistory = Huwag tandaan ang search at form history.
 policy-DisablePrimaryPasswordCreation = Kung true, hindi maaaring makagawa ng Primary Password.
-policy-DisablePasswordReveal = Huwag payagang mailantad ang mga password sa mga naka-save na login.
 policy-DisablePrivateBrowsing = Huwag paganahin ang Pribadong Pagba-browse.
 policy-DisableProfileImport = I-disable ang menu command para makapag-Import ng data mula sa ibang browser.
 policy-DisableProfileRefresh = I-disable ang Refresh { -brand-short-name } button sa about:support page.

@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Erabili gure <a data-l10n-name="
 ipprotection-feature-introduction-title-privacy = Gehitu beste pribatutasun geruza bat
 ipprotection-feature-introduction-title-privacy-1 = Gehitu pribatutasunaren beste geruza bat integratutako VPNarekin
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
-ipprotection-feature-introduction-link-text-privacy-2 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
 ipprotection-feature-introduction-link-text-privacy-3 = Lortu <a data-l10n-name="learn-more-vpn">pribatutasun gehiago</a> nabigatzen duzun tokia ezkutatzeko hainbat kokapenen artean aukeratuz.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Lagundu zure kokapena ezkutatzen <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko nabigatu ahala. Aktibatu VPNa gunean guneko beharren arabera.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Bidaia-planak dituzu? Era
 ipprotection-feature-introduction-description-summer-promo = Joan urrutirago { -brand-product-name }(r)en integratutako VPNarekin: kokapen gehiago, banda-zabalera mugagabea. Orain abuztuaren 31ra arte.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Lagundu zure kokapena ezkutatzen nabigatu ahala. Ezarri VPNa aktibatzeko arauak <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko edo kokapenean oinarritutako nabigaziorako, eta desaktibatu halakorik behar ez duzunean.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Lagundu zure kokapena ezkutatzen <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko nabigatu ahala. Ezarri VPNa aktibatzeko arauak pribatutasun estra edo kokapenean oinarritutako nabigaziorako, eta desaktibatu behar ez duzunean.
 ipprotection-feature-introduction-title-captive-portal = Wi-Fi publikoan zaude? Probatu { -brand-product-name }(r)en integratutako VPNa.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Baztertu
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Izan mugarik gabeko VPNa urtarrilaren 30era arte
 ipprotection-holiday-promo-description = Bihurtu zure nabigazioa pribatu eta arrastoa jarraitzeko zailagoa integratutako VPNarekin.
 ipprotection-holiday-promo-primary-button = Ireki VPNa
 ipprotection-holiday-promo-secondary-button = Baztertu

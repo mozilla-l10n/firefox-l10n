@@ -29,7 +29,6 @@ ipprotection-feature-introduction-link-text-2 = Verwenden Sie unser neues <a dat
 ipprotection-feature-introduction-title-privacy = Fügen Sie eine weitere Ebene für den Datenschutz hinzu
 ipprotection-feature-introduction-title-privacy-1 = Fügen Sie mit integriertem VPN eine weitere Ebene des Datenschutzes hinzu
 ipprotection-feature-introduction-link-text-privacy-1 = Das integrierte VPN von <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> schützt Ihr Surfen. Wählen Sie einen von mehreren Orten, um Ihre Privatsphäre beim Surfen zu schützen.
-ipprotection-feature-introduction-link-text-privacy-2 = Das <a data-l10n-name="learn-more-vpn"> integrierte VPN von { -brand-product-name }</a> trägt zum Schutz Ihrer Online-Aktivitäten bei. Wählen Sie aus 5 Standorten aus, um Ihre Privatsphäre beim Surfen zu schützen.
 ipprotection-feature-introduction-link-text-privacy-3 = Holen Sie sich <a data-l10n-name="learn-more-vpn">zusätzliche Privatsphäre</a>, indem Sie aus mehreren Standorten wählen, um zu verbergen, von wo aus Sie im Internet surfen.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Helfen Sie mit, Ihren Standort beim Surfen zu verbergen, um <a data-l10n-name="learn-more-vpn">mehr Privatsphäre</a> zu erhalten. Schalten Sie das VPN für bestimmte Websites ein oder aus.
@@ -38,8 +37,6 @@ ipprotection-feature-introduction-title-summer-promo = Haben Sie Reisepläne? Ne
 ipprotection-feature-introduction-description-summer-promo = Kommen Sie noch weiter mit dem integrierten VPN von { -brand-product-name }: mehr Standorte, unbegrenzte Bandbreite. Jetzt bis zum 31. August.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Verwenden Sie unser neues <a data-l10n-name="learn-more-vpn">integriertes VPN</a>, um Ihren Standort zu verbergen und Ihre Daten zu schützen, auch wenn Sie sich in einem privaten Fenster befinden.
 ipprotection-feature-introduction-description-private-browsing = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verstecken, auch wenn Sie sich in einem privaten Fenster befinden.
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Verbergen Sie Ihren Standort beim Surfen. Legen Sie Regeln fest, um VPN für <a data-l10n-name="learn-more-vpn">mehr Privatsphäre</a> oder standortbasiertes Surfen zu aktivieren und zu deaktivieren, wenn Sie dies nicht tun.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Verbergen Sie beim Surfen Ihren Standort für <a data-l10n-name="learn-more-vpn">mehr Privatsphäre</a>. Legen Sie Regeln fest, um das VPN für zusätzlichen Schutz oder standortbezogenes Surfen zu aktivieren und dort zu deaktivieren, wo Sie es nicht benötigen.
 ipprotection-feature-introduction-title-captive-portal = Im öffentlichen WLAN? Probieren Sie das integrierte VPN von { -brand-product-name } aus.
@@ -125,7 +122,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Schließen
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Unbegrenztes VPN bis zum 30. Januar sichern
 ipprotection-holiday-promo-description = Surfen Sie mit dem integrierten VPN privater und erschweren Sie die Nachverfolgung.
 ipprotection-holiday-promo-primary-button = VPN öffnen
 ipprotection-holiday-promo-secondary-button = Schließen

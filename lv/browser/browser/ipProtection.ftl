@@ -26,8 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Iepazīstinām ar VPN, tagad tavā pārlūkprogrammā
 ipprotection-feature-introduction-title-privacy-1 = Pievienot vēl vienu privātuma slāni ar iebūvēto VPN
 ipprotection-feature-introduction-title-summer-promo = Ir paredzēts ceļojums? Ņem sev līdzi privātumu!
-# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
-ipprotection-feature-introduction-description-private-browsing-2 = Palīdz pārlūkošanas laikā paslēpt atrašanās vietu. Iestati kārtulas, lai ieslēgtu VPN <a data-l10n-name="learn-more-vpn">papildu privātumam</a> vai no atrašanās vietas atkarīgai pārlūkošanai vai izslēgtu, kad tas nav nepieciešams!
 ipprotection-feature-introduction-button-primary = Nākamais
 ipprotection-feature-introduction-button-secondary-not-now = Ne tagad
 ipprotection-feature-introduction-button-secondary-no-thanks = Nē, paldies
@@ -63,7 +61,6 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Noraidīt
 
 ## Holiday Promotion Callout
 
-ipprotection-holiday-promo-title = Iegūsti neierobežotu VPN līdz 30. janvārim
 ipprotection-holiday-promo-description = Padari pārlūkošanu privātu un grūtāk izsekojamu ar iebūvēto VPN!
 ipprotection-holiday-promo-primary-button = Atvērt VPN
 ipprotection-holiday-promo-secondary-button = Noraidīt

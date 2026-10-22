@@ -66,9 +66,6 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Падзяліцца…
     .accesskey = П
-
-##
-
 urlbar-identity-button =
     .aria-label = Звесткі аб сайце
 
@@ -763,11 +760,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Спонсар
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Спытаць
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1200,13 +1192,9 @@ qrcode-image =
     .aria-label = QR-код
 qrcode-close-button =
     .aria-label = Закрыць
-# Variables:
-#  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Захаваць старонку
     .tooltiptext = Захаваць гэтую старонку ({ $shortcut })
-# Variables:
-#  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Адкрыць файл
     .tooltiptext = Адкрыць файл ({ $shortcut })
@@ -1216,8 +1204,6 @@ toolbar-button-synced-tabs =
 toolbar-button-send-tab =
     .label = Даслаць картку
     .tooltiptext = Адправіць дзейную картку на іншую прыладу
-# Variables
-# $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = Новае прыватнае акно
     .tooltiptext = Адкрыць новае акно для прыватнага аглядання ({ $shortcut })
@@ -1356,9 +1342,6 @@ picture-in-picture-move-toggle-left =
     .accesskey = л
 
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1626,13 +1609,6 @@ file-picker-crashed-open = Здарыўся крах дыялогавага ак
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Здарыўся крах дыялогавага акна файла Windows. Файл будзе захаваны ў { $path }.
 file-picker-crashed-save-nowhere = Здарыўся крах дыялогавага акна файла Windows. Прадвызначаная папка не знойдзена; файл не будзе захаваны.
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = Паказаць у папцы
     .accessKey = а
@@ -1685,9 +1661,6 @@ trustpanel-blocker-see-all = Глядзець усё
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ахова ад сачэння для { $host }
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

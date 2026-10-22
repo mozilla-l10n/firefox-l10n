@@ -64,7 +64,6 @@ policy-DisableFormHistory = Không lưu lịch sử tìm kiếm và biểu mẫu
 policy-DisableLaunchOnLogin = Ngăn { -brand-short-name } tự động khởi chạy khi người dùng đăng nhập.
 policy-DisablePrimaryPasswordCreation = Nếu đúng, không thể tạo mật khẩu chính.
 policy-DisablePasswordReveal2 = Không cho phép mật khẩu được tiết lộ trong thông tin đăng nhập đã lưu hoặc trường mật khẩu.
-policy-DisablePasswordReveal = Không cho phép mật khẩu được tiết lộ trong thông tin đăng nhập đã lưu.
 policy-DisablePrivateBrowsing = Vô hiệu hóa duyệt web riêng tư.
 policy-DisableProfileImport = Vô hiệu hóa lệnh nhập dữ liệu từ trình duyệt khác trên bảng chọn.
 policy-DisableProfileRefresh2 = Vô hiệu hóa nút Làm mới { -brand-short-name } trong Thông tin xử lý sự cố (about:support) và trên support.mozilla.org, cũng như lời nhắc đề nghị làm mới { -brand-short-name } khi nó không được sử dụng trong một thời gian.

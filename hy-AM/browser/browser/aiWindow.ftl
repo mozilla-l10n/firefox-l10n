@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = Բացել նոր գաղտնի պատուհան
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Դասական պատուհան
-toolbar-switcher-customizable-label =
-    .label = { -smart-window-brand-name } փոխարկիչ
-    .tooltiptext = Անցում Smart և Classic պատուհանների միջև։
 
 ## Input CTA
 

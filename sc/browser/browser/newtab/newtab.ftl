@@ -89,9 +89,6 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Faeddos rugrados
-# Stocks is a widget on New Tab that shows stock ticker prices.
-home-prefs-stocks-header =
-    .label = Atziones
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Immàgine de sa die
@@ -243,9 +240,6 @@ newtab-privacy-message-first-protection-cta = Ammustra is amparos
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Àteras informatziones
-# Accessible name for the Stocks widget; hidden because the list dropdown is
-# shown in place of the title.
-newtab-stocks-widget-title = Atziones
 
 ## Strings for the Picture of the Day widget
 
@@ -262,11 +256,6 @@ newtab-picture-attribution-author = © { $author }
 # Link to the picture's source page (its Wikimedia Commons file page).
 # "Wikimedia Commons" is a brand name and should not be translated.
 newtab-picture-attribution-source-link = Wikimedia Commons
-# Tooltip and screen-reader label for the icon-only button that opens the
-# widget's context menu. The button never renders visible text.
-newtab-picture-widget-menu-button =
-    .aria-label = Cunfiguratzione de s’immàgine de sa die
-    .title = Cunfiguratzione de s’immàgine de sa die
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =

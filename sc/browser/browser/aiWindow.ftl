@@ -44,9 +44,6 @@ ai-window-toggleview-open-private =
     .label = Aberi una ventana privada noa
 ai-window-toggleview-status-label-active = { -smart-window-brand-name }
 ai-window-toggleview-status-label-inactive = Ventana clàssica
-toolbar-switcher-customizable-label =
-    .label = Cuncambiadore de { -smart-window-brand-name }
-    .tooltiptext = Cuncàmbia intre sa ventana clàssica e cussa inteligente
 
 ## Input CTA
 

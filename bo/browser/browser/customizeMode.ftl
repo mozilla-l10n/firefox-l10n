@@ -16,15 +16,15 @@ customize-mode-titlebar =
     .label = ཁ་བྱང་ངོས
 customize-mode-uidensity-menu-touch =
     .label = Touch
-    .accesskey = T
     .tooltiptext = Touch
+    .accesskey = T
 customize-mode-uidensity-auto-touch-mode-checkbox =
     .label = Use Touch for Tablet Mode
 customize-mode-overflow-list-description = ནང་ཚན་འདི་རུ་དྲུད་ནས་སྤོས་ཚར་རྗེས་ལེན་བདེ་བ་དང་ལག་ཆའི་ངོས་སུའང་ཤར་མི་དགོས…
 customize-mode-uidensity-menu-normal =
     .label = སྤྱིར་བཏང
-    .accesskey = N
     .tooltiptext = སྤྱིར་བཏང
+    .accesskey = N
 customize-mode-undo-cmd =
     .label = ཕྱིར་འཐེན
 
