@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = ز
 text-action-search-text-box-clear =
     .title = پاک کردن
+text-action-highlight-selection-2 =
+    .label = برجسته کردن انتخاب شده
+    .accesskey = ب
 text-action-highlight-selection =
     .label = برجسته کردن انتخاب شده
 # This adds a comment to selected text within the PDF viewer.
