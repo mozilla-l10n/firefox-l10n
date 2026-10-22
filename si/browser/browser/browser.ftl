@@ -743,7 +743,18 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 eme-notifications-drm-content-disabled-button =
     .label = DRM සබල කරන්න
     .accesskey = E
+decoder-doctor-decode-error-message = මාධ්‍ය සම්පතක් විකේතනය කිරීමේදී දෝෂයක් ඇති විය.
 decoder-doctor-decode-warning-message = මාධ්‍ය සම්පතක් විකේතනය කිරීමේදී ප්‍රතිසාධනය කළ හැකි දෝෂයක් සිදු විය.
+decoder-doctor-learn-how-link = කෙසේදැයි දැනගන්න
+decoder-doctor-report-issue-button =
+    .label = අඩවියේ දෝෂ වාර්තාව
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } පේනුව බිඳ වැටී ඇත.
+plugin-crashed-notification-reload-button =
+    .label = පිටුව යළි පූරණය
+    .accesskey = R
 
 ## Password save/update panel
 
