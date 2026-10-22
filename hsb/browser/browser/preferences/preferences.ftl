@@ -1890,7 +1890,10 @@ notifications-state-never = Ženje
 # Shown as a row under the list header when no website has a stored
 # notification decision.
 notifications-empty-message =
-    .label = Žane zdźělenske websydła přidate.
+    .label = Žane zdźělenki websydła přidate.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Žane zdźělenske websydła wašemu pytanju njewotpowěduja.
 
 ## Privacy Section - Data Collection
 

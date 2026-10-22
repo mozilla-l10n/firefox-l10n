@@ -1836,6 +1836,61 @@ permissions-data-section =
     .heading = Pšawa a daty
 pane-permissions-data-title2 = Pšawa a daty
     .title = Pšawa a daty
+notifications-section-header =
+    .heading = Powěźeńki
+notifications-entry-card-header =
+    .description = Wubjeŕśo, kótare websedła mógu powěźeńki słaś a kak se toś te powěźeńki pokazuju.
+    .label = Powěźeńki
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } websedło
+            [two] { $count } websedle
+            [few] { $count } websedła
+           *[other] { $count } websedłow
+        }
+    .label = Nastajenja powěźeńkow zastojaś
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Nastajenja powěźeńkow websedła zastojaś
+notifications-website-card-header =
+    .description = Wubjeŕśo, kak websedła mógu powěźeńki słaś.
+    .label = Powěźeńki websedła
+notifications-filter =
+    .placeholder = Websedła pśepytaś
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Websedło
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Powěźeńki dowóliś
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Websedła
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Pśecej
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Dowóliś
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Nigda
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Žedne powěźeńki websedła pśidane.
 
 ## Privacy Section - Data Collection
 

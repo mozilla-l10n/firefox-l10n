@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } zakazaś, studije wuwjasć.
 policy-DisableForgetButton = Pśistup k tłocaškoju Zabyś zakazaś.
 policy-DisableFormHistory = Pytańsku a formularnu historiju se njespomnjeś.
 policy-DisableLaunchOnLogin = Zawoborajśo { -brand-short-name } awtomatiski startowaś, gaž se wužywaŕ pśizjawja.
+policy-DisableMacOSUserPolicies = Pšawidła z wužywaŕskich nastajenjow a profilow wužywaŕskeje konfiguracije na macOS ignorěrowaś.
 policy-DisablePrimaryPasswordCreation = Jolic to trjefijo, njedajo se głowne gronidło napóraś.
 policy-DisablePasswordReveal2 = Njedowóliś, až se gronidła w skłaźonych pśizjawjenjach abo gronidłowych pólach pokazuju.
 policy-DisablePrivateBrowsing = Priwatny modus znjemóžniś.

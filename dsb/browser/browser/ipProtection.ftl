@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Pókšacujśo ze za
 ipprotection-feature-introduction-link-text-private-browsing-2 = Wužywajśo naš nowy <a data-l10n-name="learn-more-vpn">zatwarjony VPN</a>, aby swójo stojnišćo schował a swóje daty šćitał, samo gaby wy w priwatnym woknje był.
 ipprotection-feature-introduction-description-private-browsing = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo gaby wy był w priwatnem woknje.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Schowajśo swójo stojnišćo, gaž pśeglědujośo. Póstajśo pšawidła, aby VPN zmóžnił, gaž <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> abo na stojnišću bazěrujuce pśeglědowanje cośo, abo znjemóžnił, gaž to njecyniśo.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Pomagajśo, wašo stojnišćo za <a data-l10n-name="learn-more-vpn">pśidatnu priwatnosć</a> schowaś, gaž pśeglědujośo. Nastajśo pšawidła, aby VPN za pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje zmóžnił, abo znjemóžnił, gaž jen njetrjebaśo.
 ipprotection-feature-introduction-title-captive-portal = W zjawnem WLAN? Wopytajśo zatwarjony VPN { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Schowajśo swójo stojnišćo, aby z pśidatnym šćit pśeglědował, samo w zjawnem WLAN.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Som zrozměł
 ipprotection-site-inclusions-callout-title-existing-users = Nastajśo pšawidła zatwarjonego VPN a pśeglědujśo pón dalej
 ipprotection-site-inclusions-callout-title-lapsed-users = Testujśo zatwarjony VPN, něnto sedło pó sedle
 ipprotection-site-inclusions-callout-description-1 = Zmóžniśo VPN, gaž cośo pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje, a znjemóžniśo jen, źož jen njetrjebaśo.
+ipprotection-site-inclusions-callout-description-lapsed-users = Póstajśo pšawidła, aby VPN zmóžnił, gaž cośo pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje, a znjemóžniśo jen, gaž jen njetrjebaśo.
 ipprotection-site-inclusions-callout-description = Zmóžniśo jen, gaž cośo pśidatnu priwatnosć abo na stojnišću bazěrowane pśeglědowanje, a znjemóžniśo jen, źož jen njetrjebaśo.
 ipprotection-site-inclusions-callout-primary-button = Pšawidła póstajiś
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic něnto
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zachyśiś
 ipprotection-holiday-promo-description = Pśeglědujśo priwatnje a póśěžćo pśeslědowanje ze zatwarjonym VPN.
 ipprotection-holiday-promo-primary-button = VPN wócyniś
 ipprotection-holiday-promo-secondary-button = Zachyśiś
+ipprotection-holiday-promo-title-1 = Dostańśo njewobgranicowany VPN až do 31. januara
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Zmóžniśo VPN, aby swójo s
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžniśo VPN</a> za pśidatnu šćitnu rowninu, kuždy raz, gaž { -brand-short-name } wócynjaśo.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } se na to dopomina, za kótare websedła se ma VPN wužywaś. Aktualizěrujśo toś te kuždy cas w <a data-l10n-name="setting-link">nastajenjach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jo za toś to sedło znjemóžnjony
+confirmation-hint-ipprotection-navigated-to-included-site = VPN jo za toś to sedło zmóžnjony
 ipprotection-open-button = { -brand-product-name } wócyniś
 ipprotection-come-back-title = Wrośćo se, aby zatwarjony VPN wopytał
 ipprotection-message-body-hide-location = Schowajśo swójo stojnišćo, gaž z { -brand-product-name } pśeglědujośo, za wěcej priwatnosći a kontrole.
