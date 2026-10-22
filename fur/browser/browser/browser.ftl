@@ -1171,6 +1171,30 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Tu scugnis abilitâ il DRM par riprodusi cualchi contignût audio o video su cheste pagjine.
+eme-notifications-drm-content-disabled-button =
+    .label = Abilite DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } al sta instalant components necessaris par riprodusi il contignût audio o video su cheste pagjine. Torne prove plui indenant.
+decoder-doctor-no-codecs-linux-message = Par riprodusi il video tu podaressis vê di instalâ i codecs video necessaris.
+decoder-doctor-no-hw-acceleration-message = Par miorâ la cualitât video tu podaressis vê di instalâ il pachet di funzionalitâts multimediâls di Microsoft.
+decoder-doctor-no-pulse-audio-message = Par riprodusi l'audio tu podaressis vê di instalâ il software PulseAudio necessari.
+decoder-doctor-unsupported-libavcodec-message = libavcodec al podarès jessi vulnerabil o nol è supuartât e, par riprodusi il video, tu varessis di inzornâlu.
+decoder-doctor-decode-error-message = Al è capitât un erôr intant che si decodificave une risorse multimediâl.
+decoder-doctor-decode-warning-message = Al è capitât un erôr recuperabil intant che si decodificave une risorse multimediâl.
+decoder-doctor-learn-how-link = Impare cemût
+decoder-doctor-report-issue-button =
+    .label = Segnale probleme cul sît
+    .accesskey = S
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Il plugin { $pluginName } al è colassât.
+plugin-crashed-notification-reload-button =
+    .label = Torne cjame la pagjine
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Mande une segnalazion di colàs
+    .accesskey = S
 
 ## Password save/update panel
 
