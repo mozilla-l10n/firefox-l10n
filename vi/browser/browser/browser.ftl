@@ -1238,8 +1238,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 ## Notification bars for media playback issues
 
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } đang cài đặt các thành phần cần thiết để xem audio hay video trên trang này. Xin hãy thử lại sau.
+decoder-doctor-no-codecs-linux-message = Để phát video, bạn có thể cần phải cài codec.
+decoder-doctor-no-hw-acceleration-message = Để cải thiện chất lượng video, bạn có thể cần phải cài Media Feature Pack của Microsoft.
+decoder-doctor-no-pulse-audio-message = Để phát âm thanh, bạn có thể cần phải cài phần mềm PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec có thể bị tấn công hoặc không được hỗ trợ, và nên được cập nhật để phát video.
 decoder-doctor-decode-error-message = Đã xảy ra lỗi khi mã hóa một tài nguyên phương tiện truyền thông.
 decoder-doctor-decode-warning-message = Việc khôi phục đã xảy ra lỗi khi mã hóa một tài nguyên phương tiện truyền thông.
+decoder-doctor-learn-how-link = Tìm hiểu làm thế nào
 decoder-doctor-report-issue-button =
     .label = Báo cáo vấn đề về trang
     .accesskey = R
