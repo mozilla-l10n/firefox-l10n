@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Mopotĩ
+text-action-highlight-selection-2 =
+    .label = Embosa’y jeporavopy
+    .accesskey = h
 text-action-highlight-selection =
     .label = Embosa’y jeporavopy
 # This adds a comment to selected text within the PDF viewer.
