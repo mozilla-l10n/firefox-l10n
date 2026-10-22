@@ -736,6 +736,17 @@ eme-notifications-drm-content-playing-dismiss-accesskey = P
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Privalote įjungti DRM, norėdami atkurti dalį šiame tinklalapyje esančių garsų ar vaizdų.
+eme-notifications-drm-content-disabled-button =
+    .label = Įjungti DRM
+    .accesskey = Į
+eme-notifications-drm-content-cdm-installing-message = „{ -brand-short-name }“ diegia komponentus, reikalingus atkurti garsus arba vaizdus šiame tinklalapyje. Prašome bandyti vėliau dar kartą.
+decoder-doctor-no-codecs-linux-message = Norėdami atkurti vaizdo įrašą, galimai turite įsidiegti reikalingus vaizdo kodekus.
+decoder-doctor-no-hw-acceleration-message = Norėdami pagerinti vaizdo kokybę, galimai turite įsidiegti „Microsoft Media Feature Pack“.
+decoder-doctor-no-pulse-audio-message = Norėdami atkurti garso įrašą, galimai turite įsidiegti reikalingą „PulseAudio“ programinę įrangą.
+decoder-doctor-unsupported-libavcodec-message = „libavcodec“ gali būti nesaugus arba yra nepalaikomas, tad turėtų būtų atnaujintas, norint atkurti vaizdo įrašus.
+decoder-doctor-decode-error-message = Iškoduojant medijos išteklių įvyko klaida.
+decoder-doctor-learn-how-link = Sužinokite kaip
 
 ## Password save/update panel
 
