@@ -1317,6 +1317,15 @@ decoder-doctor-no-pulse-audio-message = I chwarae sain, efallai y bydd angen gos
 decoder-doctor-unsupported-libavcodec-message = Gall libavcodec fod yn fregus neu heb ei gynnal a dylai gael ei ddiweddaru ar gyfer chwarae fideo.
 decoder-doctor-decode-error-message = Digwyddodd gwall wrth ddadgodio adnodd cyfrwng.
 decoder-doctor-learn-how-link = Sut mae gwneud
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Mae'r ategyn { $pluginName } wedi chwalu.
+plugin-crashed-notification-reload-button =
+    .label = Ail lwytho tudalen
+    .accesskey = A
+plugin-crashed-notification-submit-button =
+    .label = Cyflwyno adroddiad chwalu
+    .accesskey = C
 
 ## Password save/update panel
 
