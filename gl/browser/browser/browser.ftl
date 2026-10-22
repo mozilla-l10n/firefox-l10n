@@ -977,6 +977,7 @@ eme-notifications-drm-content-disabled-button =
     .label = Activar DRM
     .accesskey = A
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando compoñentes necesarios para reproducir o son ou vídeo nesta páxina. Tente de novo máis tarde.
+decoder-doctor-learn-how-link = Aprender como
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = Fallou o engadido { $pluginName }.
