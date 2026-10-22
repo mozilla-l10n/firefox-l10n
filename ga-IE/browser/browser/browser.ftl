@@ -649,6 +649,15 @@ eme-notifications-drm-content-playing-dismiss-accesskey = R
 
 ## Notification bars for media playback issues
 
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Thuairteáil forlíontán { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Athlódáil an leathanach
+    .accesskey = A
+plugin-crashed-notification-submit-button =
+    .label = Seol tuairisc tuairteála
+    .accesskey = S
 
 ## Password save/update panel
 
