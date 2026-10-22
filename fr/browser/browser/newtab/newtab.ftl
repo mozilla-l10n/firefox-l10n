@@ -616,8 +616,8 @@ newtab-solitaire-widget-title = Solitaire
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-solitaire-widget-open-menu-button =
-    .aria-label = Ouvrir le menu du solitaire
-    .title = Ouvrir le menu du solitaire
+    .aria-label = Ouvrir le menu du Solitaire
+    .title = Ouvrir le menu du Solitaire
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = En savoir plus
 

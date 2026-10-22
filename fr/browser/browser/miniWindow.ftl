@@ -26,9 +26,9 @@ mini-window-audio-unmute =
 ## it is being used to pick the region for a Mini Window.
 
 # Moves the tab to a Mini Window which frames the selected area of the page.
-screenshots-component-mini-window-button = Déplacer vers la mini-fenêtre
-    .aria-label = Déplacer vers la mini-fenêtre
-    .title = Déplacer vers la mini-fenêtre
+screenshots-component-mini-window-button = Déplacer vers une mini-fenêtre
+    .aria-label = Déplacer vers une mini-fenêtre
+    .title = Déplacer vers une mini-fenêtre
 # Dismisses the Mini Window selection overlay without moving the tab.
 screenshots-component-mini-window-cancel-button = Annuler
     .aria-label = Annuler
@@ -48,7 +48,7 @@ toolbar-button-mini-window =
     .tooltiptext = Utiliser une mini-fenêtre
 # Opens up the Mini Window section selector tool.
 main-context-menu-use-mini-window =
-    .label = Déplacer la section vers la mini-fenêtre
+    .label = Déplacer une section vers une mini-fenêtre
     .accesskey = D
 # Moves full tabs to Mini Windows, one window per tab.
 # Variables
