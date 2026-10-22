@@ -1279,6 +1279,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = к
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Для проигрывания некоторых аудио или видео на этой странице нужно включить DRM.
 eme-notifications-drm-content-disabled-button =
     .label = Включить DRM
     .accesskey = В
