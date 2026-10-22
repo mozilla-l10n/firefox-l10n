@@ -1229,6 +1229,9 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Habilitar DRM
+    .accesskey = H
 
 ## Password save/update panel
 
