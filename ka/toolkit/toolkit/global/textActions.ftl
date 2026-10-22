@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = ე
 text-action-search-text-box-clear =
     .title = გასუფთავება
+text-action-highlight-selection-2 =
+    .label = მონიშნულის გამორჩევა
+    .accesskey = მ
 text-action-highlight-selection =
     .label = მონიშნულის გამორჩევა
 # This adds a comment to selected text within the PDF viewer.
