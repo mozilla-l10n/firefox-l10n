@@ -1231,6 +1231,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = 您必须启用 DRM 才能播放此页面上的某些音频或视频。
 eme-notifications-drm-content-disabled-button =
     .label = 启用数字版权管理（DRM）
     .accesskey = E
@@ -1242,6 +1243,15 @@ decoder-doctor-learn-how-link = 了解如何运行
 decoder-doctor-report-issue-button =
     .label = 反馈网站问题
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = 插件 { $pluginName } 已崩溃。
+plugin-crashed-notification-reload-button =
+    .label = 重新加载页面
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = 提交崩溃报告
+    .accesskey = S
 
 ## Password save/update panel
 
