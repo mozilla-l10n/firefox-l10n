@@ -1270,6 +1270,21 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Deve ativar o DRM para reproduzir algum áudio ou vídeo desta página.
+eme-notifications-drm-content-disabled-button =
+    .label = Ativar DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = O { -brand-short-name } está a instalar os componentes necessários para reproduzir áudio ou vídeo nesta página. Por favor tente novamente mais tarde.
+decoder-doctor-no-codecs-linux-message = Para reproduzir vídeo, poderá ter de instalar os codecs de vídeo necessários.
+decoder-doctor-no-hw-acceleration-message = Para melhorar a qualidade de vídeo, poderá ter de instalar o Media Feature Pack da Microsoft.
+decoder-doctor-no-pulse-audio-message = Para reproduzir áudio, poderá ter de instalar o necessário software PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec pode ser vulnerável ou não é suportado, e deve ser atualizado para reproduzir vídeo.
+decoder-doctor-decode-error-message = Ocorreu um erro enquanto descodificava um recurso multimédia.
+decoder-doctor-decode-warning-message = Ocorreu um erro recuperável enquanto descodificava um recurso multimédia.
+decoder-doctor-learn-how-link = Saiba como
+decoder-doctor-report-issue-button =
+    .label = Reportar problema no site
+    .accesskey = R
 
 ## Password save/update panel
 
