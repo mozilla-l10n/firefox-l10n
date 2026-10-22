@@ -1292,7 +1292,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = C
 
 ## Notification bars for media playback issues
 
-eme-notifications-drm-content-disabled-message = Rhaid galluogi DRM i chwarae'r sain neu'r fideo sydd ar y dudalen hon. %S
+eme-notifications-drm-content-disabled-message = Rhaid galluogi DRM i chwarae'r sain neu'r fideo sydd ar y dudalen hon.
 eme-notifications-drm-content-disabled-button =
     .label = Galluogi DRM
     .accesskey = G
