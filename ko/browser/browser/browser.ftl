@@ -58,6 +58,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = 공유…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = 사이트 정보 보기
 
@@ -747,6 +750,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · 스폰서
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = 묻기
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1112,7 +1120,8 @@ repair-text-encoding-button =
     .label = 텍스트 인코딩 복구
     .tooltiptext = 페이지 콘텐츠에서 올바른 텍스트 인코딩 추측
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1175,6 +1184,9 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = 탭 그룹
     .tooltiptext = 탭 그룹 표시
+toolbar-button-developer =
+    .label = 개발자
+    .tooltiptext = 웹 개발자 도구 열기 ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1191,6 +1203,9 @@ eme-notifications-drm-content-playing-manage = 설정 관리
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = 닫기
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1238,6 +1253,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1488,6 +1506,13 @@ file-picker-crashed-open = Windows 파일 대화 상자가 충돌했습니다. �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Windows 파일 대화 상자가 충돌했습니다. 파일은 { $path }에 저장됩니다.
 file-picker-crashed-save-nowhere = Windows 파일 대화 상자가 충돌했습니다. 기본 폴더를 찾을 수 없습니다. 파일은 저장되지 않습니다.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = 폴더에서 보기
     .accessKey = F
@@ -1540,6 +1565,9 @@ trustpanel-blocker-see-all = 모두 보기
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host }에 대한 추적 방지
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
