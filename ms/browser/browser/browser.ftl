@@ -797,10 +797,20 @@ eme-notifications-drm-content-playing = Beberapa audio atau video pada laman ini
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Dayakan DRM
+    .accesskey = D
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } sedang memasang komponen yang diperlukan untuk memainkan audio atau video pada laman ini. Sila cuba lagi kemudian.
 decoder-doctor-no-codecs-linux-message = Untuk memainkan video, anda mungkin perlu memasang kodek video yang diperlukan.
 decoder-doctor-no-hw-acceleration-message = Untuk memainkan video, anda mungkin perlu memasang Ciri Media Pek Microsoft.
+decoder-doctor-no-pulse-audio-message = Untuk memainkan audio, anda perlu memasang perisian PulseAudio yang diperlukan.
+decoder-doctor-unsupported-libavcodec-message = libavcodec mungkin rosak atau tidak disokong, anda perlu mengemaskini untuk memainkan video.
+decoder-doctor-decode-error-message = Ada ralat semasa menyahkod sumber media.
+decoder-doctor-decode-warning-message = Ada ralat yang boleh dpulihkan semasa menyahkod sumber media.
 decoder-doctor-learn-how-link = Ketahui caranya
+decoder-doctor-report-issue-button =
+    .label = Laporkan Isu Laman
+    .accesskey = L
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = Plugin { $pluginName } telah ranap.
