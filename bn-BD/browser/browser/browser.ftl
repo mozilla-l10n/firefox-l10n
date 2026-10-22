@@ -401,6 +401,12 @@ toolbar-edit-controls =
 toolbar-button-cut =
     .label = কাটা
     .tooltiptext = কাট ({ $shortcut })
+toolbar-button-copy =
+    .label = অনুলিপি
+    .tooltiptext = অনুলিপি ({ $shortcut })
+toolbar-button-paste =
+    .label = প্রতিলেপন
+    .tooltiptext = প্রতিলেপন ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
