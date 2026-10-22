@@ -929,6 +929,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 ## Notification bars for media playback issues
 
 eme-notifications-drm-content-disabled-message = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱥᱟᱰᱮ ᱟᱨᱵᱟᱝ ᱣᱤᱰᱤᱭᱚ ᱪᱟᱹᱞᱩ ᱞᱟᱹᱜᱤᱫ DRM ᱮᱢ ᱛᱮ ᱦᱤᱭᱟᱢᱟ ᱾
+eme-notifications-drm-content-disabled-button =
+    .label = DRM ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ᱫᱚ ᱦᱟᱹᱞᱤ ᱨᱟᱠᱟᱵ ᱵᱚᱦᱟᱞᱮᱫᱟ ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱟᱧᱡᱚᱢᱟᱜ ᱟᱨ ᱵᱟᱝ ᱣᱤᱰᱤᱭᱚ ᱮᱱᱮᱡ ᱞᱟᱹᱠᱛᱤᱭᱟ ᱾ ᱛᱟᱭᱚᱢ ᱨᱮ ᱫᱚᱦᱲᱟ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮ ᱾
+decoder-doctor-no-codecs-linux-message = ᱣᱤᱰᱤᱭᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱟᱢ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱣᱤᱰᱤᱭᱚ ᱠᱚᱰᱮᱠ ᱵᱚᱦᱟᱞ ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱾ᱣᱤᱰᱤᱭᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱟᱢ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱣᱤᱰᱤᱭᱚ ᱠᱚᱰᱮᱠ ᱵᱚᱦᱟᱞ ᱛᱮ ᱦᱩᱭᱟᱢᱟ ᱾
+decoder-doctor-no-hw-acceleration-message = ᱣᱤᱰᱤᱭᱚ ᱠᱣᱟᱞᱤᱴᱤ ᱥᱩᱫᱽᱷᱨᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ, ᱟᱢ Microsoftᱟᱜ ᱢᱤᱰᱤᱭᱟ ᱯᱷᱤᱪᱚᱨ ᱯᱮᱠ ᱵᱚᱦᱟᱞ ᱠᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱾
+decoder-doctor-no-pulse-audio-message = ᱥᱟᱰᱮ ᱪᱟᱹᱞᱩ ᱞᱟᱹᱜᱤᱫ, ᱟᱢ PulseAudio ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱚᱦᱟᱞ ᱛᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱾
+decoder-doctor-unsupported-libavcodec-message = libavcodec ᱫᱚ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱵᱟᱝᱨᱩᱠᱷᱤᱭᱟ ᱟᱨᱵᱟᱝ ᱥᱚᱦᱚᱫ ᱵᱟᱝ ᱧᱟᱢᱚᱜᱼᱟ, ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱪᱟᱹᱞᱩ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱱᱟᱣᱟ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱛᱮ ᱦᱩᱭᱩᱜᱼᱟ ᱾
+decoder-doctor-decode-error-message = ᱢᱤᱫ ᱢᱤᱰᱤᱭᱟ ᱥᱚᱝᱥᱟᱫᱷᱚᱱ ᱰᱤᱠᱚᱰᱤᱝ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
+decoder-doctor-decode-warning-message = ᱢᱤᱫ ᱢᱤᱰᱤᱭᱟ ᱥᱚᱝᱥᱟᱫᱷᱚᱱ ᱰᱤᱠᱚᱰᱤᱝ ᱡᱷᱚᱜ ᱥᱩᱫᱷᱨᱟᱹᱣ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
+decoder-doctor-learn-how-link = ᱪᱮᱫᱢᱮ ᱚᱠᱟᱞᱠᱟ
+decoder-doctor-report-issue-button =
+    .label = ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱤᱛᱞᱟᱹᱭ ᱢᱮ
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = { $pluginName } ᱯᱟᱥᱱᱟᱣ ᱫᱚ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾
