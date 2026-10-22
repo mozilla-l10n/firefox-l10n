@@ -1269,6 +1269,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Α
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Θα πρέπει να ενεργοποιήσετε το DRM για αναπαραγωγή ήχου ή βίντεο στη σελίδα.
 eme-notifications-drm-content-disabled-button =
     .label = Ενεργοποίηση DRM
     .accesskey = Ε
@@ -1279,6 +1280,18 @@ decoder-doctor-unsupported-libavcodec-message = Το libavcodec παρουσιά
 decoder-doctor-decode-error-message = Προέκυψε σφάλμα κατά την αποκωδικοποίηση ενός πόρου πολυμέσων.
 decoder-doctor-decode-warning-message = Προέκυψε ανακτήσιμο σφάλμα κατά την αποκωδικοποίηση ενός πόρου πολυμέσων.
 decoder-doctor-learn-how-link = Μάθετε πώς
+decoder-doctor-report-issue-button =
+    .label = Αναφορά ζητήματος ιστοτόπου
+    .accesskey = Α
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Το άρθρωμα { $pluginName } κατέρρευσε.
+plugin-crashed-notification-reload-button =
+    .label = Ανανέωση σελίδας
+    .accesskey = ν
+plugin-crashed-notification-submit-button =
+    .label = Υποβολή αναφοράς κατάρρευσης
+    .accesskey = β
 
 ## Password save/update panel
 
