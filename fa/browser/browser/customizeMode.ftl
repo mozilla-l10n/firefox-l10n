@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = تنظیم کردن نوار لمسی…
 customize-mode-downloads-button-autohide =
     .label = پنهان کردن دکمه هنگام خالی بودن
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = فاصلهٔ تغییرپذیر
+customize-mode-toolbarseparator =
+    .title = جدا کننده
+customize-mode-toolbarspacer =
+    .title = فاصله
