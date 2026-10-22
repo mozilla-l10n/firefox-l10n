@@ -1286,6 +1286,12 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Pre prehranie zvuku alebo videa na tejto stránke musíte najprv povoliť DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = Povoliť DRM
+    .accesskey = o
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } inštaluje komponenty potrebné na prehratie zvuku alebo videa na tejto stránke. Skúste to znova neskôr.
+decoder-doctor-no-hw-acceleration-message = Pre zlepšenie kvality videa môže byť potrebné nainštalovať Media Feature Pack od Microsoftu.
 
 ## Password save/update panel
 
