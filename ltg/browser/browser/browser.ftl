@@ -382,6 +382,34 @@ toolbar-button-history =
 toolbar-button-find =
     .label = Mekleit
     .tooltiptext = Mekleit itymā lopā ({ $shortcut })
+toolbar-button-developer =
+    .label = Izstrōdōtōju reiki
+    .tooltiptext = Attaiseit izstrōdōtōju reikus ({ $shortcut })
+toolbar-button-forget =
+    .label = Aizmierst/damierst
+    .tooltiptext = Forget about some browsing history
+toolbar-zoom-controls =
+    .label = Pītuvynuojuma reiki
+    .title = Pītuvynuojuma reiki
+toolbar-button-zoom-out =
+    .label = Attuolynuot
+    .tooltiptext = Attuolynuot ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Atjaunōt nūkluseitū pītuvynuojumu ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Pītuvynuot
+    .tooltiptext = Pītuvynuot ({ $shortcut })
+toolbar-edit-controls =
+    .label = Redigeit kontroles
+    .title = Redigeit kontroles
+toolbar-button-cut =
+    .label = Izgrīzt
+    .tooltiptext = Izgrīzt ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopēt
+    .tooltiptext = Kopēt ({ $shortcut })
+toolbar-button-paste =
+    .label = Īleimeit
+    .tooltiptext = Īleimeit ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
