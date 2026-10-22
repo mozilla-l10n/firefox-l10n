@@ -1269,6 +1269,14 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Α
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Ενεργοποίηση DRM
+    .accesskey = Ε
+decoder-doctor-no-codecs-linux-message = Για την αναπαραγωγή βίντεο, ενδέχεται να χρειάζεται η εγκατάσταση των απαραίτητων αποκωδικοποιητών βίντεο.
+decoder-doctor-no-hw-acceleration-message = Για τη βελτίωση της ποιότητας των βίντεο, ενδέχεται να χρειάζεται η εγκατάσταση του Πακέτου δυνατοτήτων media της Microsoft.
+decoder-doctor-decode-error-message = Προέκυψε σφάλμα κατά την αποκωδικοποίηση ενός πόρου πολυμέσων.
+decoder-doctor-decode-warning-message = Προέκυψε ανακτήσιμο σφάλμα κατά την αποκωδικοποίηση ενός πόρου πολυμέσων.
+decoder-doctor-learn-how-link = Μάθετε πώς
 
 ## Password save/update panel
 
