@@ -455,6 +455,15 @@ decoder-doctor-learn-how-link = Humpito no wairtee
 decoder-doctor-report-issue-button =
     .label = Jangto Caɗe Lowre
     .accesskey = L
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Ceŋol { $pluginName } hookii.
+plugin-crashed-notification-reload-button =
+    .label = Loowtu hello
+    .accesskey = L
+plugin-crashed-notification-submit-button =
+    .label = Neldu jaŋtol hookre
+    .accesskey = N
 
 ## Password save/update panel
 
