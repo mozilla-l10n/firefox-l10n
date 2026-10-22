@@ -1279,10 +1279,20 @@ decoder-doctor-no-hw-acceleration-message = Afin d’améliorer la qualité de l
 decoder-doctor-no-pulse-audio-message = Pour activer l’audio, vous devez peut-être installer le logiciel PulseAudio demandé.
 decoder-doctor-unsupported-libavcodec-message = libavcodec pourrait être vulnérable ou n’est pas pris en charge, et devrait être mis à jour pour lire des vidéos.
 decoder-doctor-decode-error-message = Une erreur s’est produite lors du décodage d’une ressource multimédia.
+decoder-doctor-decode-warning-message = Une erreur corrigible s’est produite lors du décodage d’une ressource multimédia.
 decoder-doctor-learn-how-link = Me montrer comment
 decoder-doctor-report-issue-button =
     .label = Signaler un problème sur ce site
     .accesskey = S
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Le plugin { $pluginName } a planté.
+plugin-crashed-notification-reload-button =
+    .label = Actualiser la page
+    .accesskey = A
+plugin-crashed-notification-submit-button =
+    .label = Envoyer un rapport de plantage
+    .accesskey = r
 
 ## Password save/update panel
 
