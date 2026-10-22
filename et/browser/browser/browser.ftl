@@ -735,6 +735,15 @@ decoder-doctor-learn-how-link = Rohkem teavet
 decoder-doctor-report-issue-button =
     .label = Anna teada saidil olevast veast
     .accesskey = A
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Plugin { $pluginName } on kokku jooksnud.
+plugin-crashed-notification-reload-button =
+    .label = Laadi leht uuesti
+    .accesskey = L
+plugin-crashed-notification-submit-button =
+    .label = Sisesta vearaport
+    .accesskey = S
 
 ## Password save/update panel
 
