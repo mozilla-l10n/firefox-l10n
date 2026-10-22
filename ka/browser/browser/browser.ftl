@@ -1226,6 +1226,9 @@ toolbar-button-find =
 toolbar-button-developer =
     .label = შემმუშავებლის ხელსაწყოები
     .tooltiptext = ვებშემუშავების ხელსაწყოების გახსნა ({ $shortcut })
+toolbar-button-forget =
+    .label = დავიწყება
+    .tooltiptext = მონახულებული გვერდების ისტორიის ნაწილის დავიწყება
 toolbar-zoom-controls =
     .label = ზომების მართვა
     .title = ზომების მართვა
@@ -1242,6 +1245,12 @@ toolbar-edit-controls =
 toolbar-button-cut =
     .label = ამოჭრა
     .tooltiptext = ამოჭრა ({ $shortcut })
+toolbar-button-copy =
+    .label = ასლი
+    .tooltiptext = ასლი ({ $shortcut })
+toolbar-button-paste =
+    .label = ჩასმა
+    .tooltiptext = ჩასმა ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
