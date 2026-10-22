@@ -12,6 +12,8 @@ narrate-skip-previous =
     .title = Uɣal ({ $shortcut })
 narrate-start =
     .title = Bdu ({ $shortcut })
+narrate-stop =
+    .title = Seḥbes ({ $shortcut })
 narrate-skip-next =
     .title = Welleh ({ $shortcut })
 
