@@ -424,7 +424,14 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } কম্পনেন্টগুলো ইন্সটল করছে যা এই অডিও বা ভিডিও চালাতে কাজে লাগবে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।
 decoder-doctor-no-codecs-linux-message = ভিডিও চালানোর জন্য, আপনাকে প্রয়োজনীয় ভিডিও কোডেক ইনস্টল করতে হবে।
 decoder-doctor-no-hw-acceleration-message = ভিডিওর গুণমান বাড়াতে গেলে, আপনাকে হয়তো Microsoft’s Media Feature Pack ইন্সটল করতে হবে।
+decoder-doctor-no-pulse-audio-message = অডিও চালানোর জন্য, আপনাকে হয়তো প্রয়োজনীয় PulseAudio সফটওয়্যার ইন্সটল করতে হতে পারে।
+decoder-doctor-unsupported-libavcodec-message = libavcodec ভেদনীয় হতে পারে বা সাপোর্ট করতে না পারে, এবং ভিডিও চালানোর জন্য আপডেট করা উচিৎ।
+decoder-doctor-decode-error-message = মিডিয়া সম্পদের ডিকোডের সময় একটি ত্রুটি ঘটেছে।
+decoder-doctor-decode-warning-message = মিডিয়া সম্পদের ডিকোডের সময় একটি উদ্ধারযোগ্য ত্রুটি ঘটেছে।
 decoder-doctor-learn-how-link = জানুন কিভাবে
+decoder-doctor-report-issue-button =
+    .label = সাইট ইস্যু রিপোর্ট
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = { $pluginName } প্লাগ-ইনটি বিপর্যস্ত হয়েছে।
