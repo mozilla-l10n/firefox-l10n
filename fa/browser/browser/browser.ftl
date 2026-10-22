@@ -1266,6 +1266,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = فعال‌سازی DRM
+    .accesskey = ف
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } در حال نصب جزئیاتی است که برای پخش ویدئو یا صدا در این صفحه لازم است. لطفا بعدا دوباره تلاش کنید.
+decoder-doctor-no-codecs-linux-message = برای پخش ویدئو، ممکن است لازم باشد کدک‌های ویدئویی لازم را نصب کنید.
+decoder-doctor-no-hw-acceleration-message = برای افزایش کیفیت ویدئو، ممکن است لازم باشد Media Feature Pack مایکروسافت را نصب کنید.
+decoder-doctor-no-pulse-audio-message = برای پخش ویدئو، ممکن است لازم باشد نرم‌افزار PulseAudio را نصب کنید.
+decoder-doctor-unsupported-libavcodec-message = libavcodec ممکن است خطرناک باشد یا دیگر مورد پشتیبانی قرار نگیرد، و بایستی به پخش کننده ویدئو بروز شود.
+decoder-doctor-decode-error-message = خطایی در حین بازگشایی کد منبع رسانه رخ داده است.
+decoder-doctor-decode-warning-message = یک خطا قابل‌بازیابی در حین بازگشایی کد منبع رسانه رخ داده است.
+decoder-doctor-learn-how-link = بیشتر بدانید
+decoder-doctor-report-issue-button =
+    .label = مشکل پایگاه اینترنتی را گزارش کنید
+    .accesskey = R
 
 ## Password save/update panel
 
