@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = l
 text-action-search-text-box-clear =
     .title = Clear
+text-action-highlight-selection-2 =
+    .label = Áherslulita valið
+    .accesskey = Á
 text-action-highlight-selection =
     .label = Áherslulita valið
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
