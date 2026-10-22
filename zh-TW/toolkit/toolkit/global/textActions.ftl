@@ -69,6 +69,26 @@ text-action-search-text-box-clear =
 text-action-highlight-selection-2 =
     .label = 強調選擇範圍
     .accesskey = h
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = 對選擇範圍加入註解
+    .accesskey = m
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = 複製選擇範圍的鏈結
+    .accesskey = h
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = 複製選擇範圍，不含追蹤碼的鏈結
+    .accesskey = k
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = 移除選擇範圍的強調效果
+    .accesskey = h
 text-action-highlight-selection =
     .label = 強調選擇範圍
 # This adds a comment to selected text within the PDF viewer.
