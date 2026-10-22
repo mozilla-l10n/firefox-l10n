@@ -1297,6 +1297,7 @@ decoder-doctor-no-pulse-audio-message = Na prehrávanie hudby môže byť potreb
 decoder-doctor-unsupported-libavcodec-message = Verzia knižnice libavcodec môže byť zraniteľná alebo nie je podporovaná a na prehrávanie videa je potrebná jej aktualizácia.
 decoder-doctor-decode-error-message = Pri dekódovaní média sa vyskytla chyba.
 decoder-doctor-decode-warning-message = Pri dekódovaní média sa vyskytla chyba, ktorú možno opraviť.
+decoder-doctor-learn-how-link = Ďalšie informácie
 decoder-doctor-report-issue-button =
     .label = Nahlásiť problém so stránkou
     .accesskey = r
