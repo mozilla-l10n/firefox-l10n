@@ -1270,10 +1270,15 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Tu debe activar DRM pro reproducer certe elementos audio o video sur iste pagina.
+eme-notifications-drm-content-disabled-button =
+    .label = Activar DRM
+    .accesskey = A
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } es installante componentes necessari pro leger le audio o video in iste pagina. Per favor retenta plus tarde.
 decoder-doctor-no-codecs-linux-message = Pro leger le video, tu debe possibilemente installar le codecs de video necessari.
 decoder-doctor-no-hw-acceleration-message = A fin de meliorar le qualitate del video, pote esser necessari installar le Media Feature Pack de Microsoft.
 decoder-doctor-no-pulse-audio-message = Pro leger le audio, tu debe possibilemente installar le software PulseAudio requirite.
+decoder-doctor-unsupported-libavcodec-message = libavcodec pote esser vulnerabile o non es supportate, e debe esser actualisate pro reproducer le video.
 decoder-doctor-decode-error-message = Un error occurreva durante le decodification de un ressource multimedia.
 decoder-doctor-decode-warning-message = Un error recovrabile occurreva durante le decodification de un ressource multimedia.
 decoder-doctor-learn-how-link = Apprende como
