@@ -473,12 +473,20 @@ eme-notifications-drm-content-playing = វីដេអូ និង​អូឌ
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = បើក DRM
+    .accesskey = E
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } កំពុង​ដំឡើង​សមាសភាគ​ចាំបាច់​ដើម្បី​ចាក់​អូឌីយ៉ូ ឬ​វីដេអូ​នៅ​លើ​ទំព័រ​នេះ។ សូម​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ។
 decoder-doctor-no-codecs-linux-message = ដើម្បី​លេង​វីដេអូ​បាន អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កូដិក​វីដេអូ​ដែល​បាន​ទាមទារ។
 decoder-doctor-no-hw-acceleration-message = ដើម្បី​ធ្វើឲ្យ​គុណភាព​វីដេអូ​ប្រសើរ​ឡើង អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កម្មវិធី Microsoft’s Media Feature Pack។​
 decoder-doctor-no-pulse-audio-message = ដើម្បី​ចាក់​អូឌីយ៉ូ អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កម្មវិធី PulseAudio ដែល​បាន​ទាមទារ។
+decoder-doctor-unsupported-libavcodec-message = libavcodec អាច​ខូច​ឬ​មិន​គាំទ្រ ហើយ​វា​គួរ​ត្រូវ​បាន​ធ្វើ​បច្ចុប្បន្នភាព​ដើម្បី​អាច​ចាក់​វីដេអូ​បាន។
+decoder-doctor-decode-error-message = កំហុស​បាន​កើតឡើង​ពេល​ឌិកូដ​ធនធាន​មេឌា។
 decoder-doctor-decode-warning-message = កំហុស​ដែល​អាច​សង្គ្រោះ​បាន បាន​កើតឡើង​ពេល​ឌិកូដ​ធនធាន​មេឌា។
 decoder-doctor-learn-how-link = ស្វែងយល់​ពី​របៀប
+decoder-doctor-report-issue-button =
+    .label = រាយការណ៍​បញ្ហា​វេបសាយ
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = កម្មវិធី​ជំនួយ { $pluginName } បាន​គាំង ។
