@@ -1140,6 +1140,30 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Барои пахш кардани баъзе аудио ё видео дар ин саҳифа, шумо бояд DRM-ро фаъол кунед.
+eme-notifications-drm-content-disabled-button =
+    .label = Фаъол кардани DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = Барои пахш кардани аудио ва видео дар ин саҳифа, { -brand-short-name } унсурҳои лозимиро насб карда истодааст. Лутфан, баъдтар аз нав кӯшиш кунед.
+decoder-doctor-no-codecs-linux-message = Барои пахш кардани видео, ба шумо лозим мешавад, ки кодекҳои видеоии лозимиро насб намоед.
+decoder-doctor-no-hw-acceleration-message = Барои беҳтар кардани сифати видео, ба шумо лозим мешавад, ки бастаи «Media Feature Pack»-ро аз Microsoft насб намоед.
+decoder-doctor-no-pulse-audio-message = Барои пахш кардани аудио, ба шумо лозим мешавад, ки нармафзори лозимии «PulseAudio»-ро насб намоед.
+decoder-doctor-unsupported-libavcodec-message = Рамзкушои «libavcodec» метавонад осебпазир бошад ё дастгирӣ намешавад, ва барои пахш кардани видео он бояд навсозӣ карда шавад.
+decoder-doctor-decode-error-message = Ҳангоми рамзкушоӣ кардани манбаи медиа хато ба миён омад.
+decoder-doctor-decode-warning-message = Ҳангоми рамзкушоӣ кардани манбаи медиа хато ислоҳшаванда ба миён омад.
+decoder-doctor-learn-how-link = Бифаҳмед, ки чӣ тавр
+decoder-doctor-report-issue-button =
+    .label = Гузориш дар бораи мушкилии сомона
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Плагини { $pluginName } вайрон шудааст.
+plugin-crashed-notification-reload-button =
+    .label = Аз нав бор кардани саҳифа
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Пешниҳоди гузориш дар бораи вайронӣ
+    .accesskey = S
 
 ## Password save/update panel
 
