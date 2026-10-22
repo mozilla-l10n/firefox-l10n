@@ -1241,6 +1241,7 @@ eme-notifications-drm-content-disabled-button =
     .label = Активувати DRM
     .accesskey = А
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } встановлює компоненти, необхідні для відтворення аудіо чи відео на цій сторінці. Будь ласка, спробуйте знову пізніше.
+decoder-doctor-no-codecs-linux-message = Для відтворення відео, можливо, доведеться встановити необхідні відео-кодеки.
 decoder-doctor-unsupported-libavcodec-message = libavcodec може бути вразливим або непідтримуваним, тому для відтворення відео його необхідно оновити.
 decoder-doctor-decode-error-message = При декодуванні джерела медіа сталась помилка.
 decoder-doctor-decode-warning-message = При декодуванні джерела медіа сталась помилка, яку можливо виправити.
