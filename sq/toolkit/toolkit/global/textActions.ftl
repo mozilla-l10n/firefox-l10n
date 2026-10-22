@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = G
 text-action-search-text-box-clear =
     .title = Spastroje
+text-action-highlight-selection-2 =
+    .label = Theksoje Përzgjedhjen
+    .accesskey = T
 text-action-highlight-selection =
     .label = Theksoje Përzgjedhjen
 # This adds a comment to selected text within the PDF viewer.
