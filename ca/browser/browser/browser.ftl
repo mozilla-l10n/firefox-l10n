@@ -1229,6 +1229,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Activa el DRM
+    .accesskey = v
+eme-notifications-drm-content-cdm-installing-message = El { -brand-short-name } està instal·lant els components necessaris per reproduir l'àudio o vídeo d'aquesta pàgina. Torneu-ho a provar més tard.
+decoder-doctor-no-codecs-linux-message = Per reproduir vídeo, potser us cal instal·lar els còdecs de vídeo necessaris.
+decoder-doctor-no-hw-acceleration-message = Per millorar la qualitat del vídeo, potser us cal instal·lar el Media Feature Pack de Microsoft.
+decoder-doctor-no-pulse-audio-message = Per reproduir àudio, potser us cal instal·lar el programari PulseAudio necessari.
+decoder-doctor-unsupported-libavcodec-message = libavcodec podria ser vulnerable o incompatible, i cal actualitzar-lo per reproduir vídeo.
+decoder-doctor-decode-error-message = S'ha produït un error en descodificar un recurs multimèdia.
+decoder-doctor-decode-warning-message = S'ha produït un error recuperable en descodificar un recurs multimèdia.
+decoder-doctor-learn-how-link = Vegeu com fer-ho
+decoder-doctor-report-issue-button =
+    .label = Informa d'un problema amb el lloc
+    .accesskey = I
 
 ## Password save/update panel
 
