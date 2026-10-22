@@ -10,6 +10,12 @@
 
 narrate-skip-previous =
     .title = Назад ({ $shortcut })
+narrate-start =
+    .title = Запустити ({ $shortcut })
+narrate-stop =
+    .title = Зупинити ({ $shortcut })
+narrate-skip-next =
+    .title = Вперед ({ $shortcut })
 
 ##
 
