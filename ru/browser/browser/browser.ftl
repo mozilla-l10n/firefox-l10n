@@ -1279,6 +1279,12 @@ eme-notifications-drm-content-playing-dismiss-accesskey = к
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Включить DRM
+    .accesskey = В
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } устанавливает компоненты, необходимые для воспроизведения аудио или видео на этой странице. Пожалуйста, попробуйте ещё раз позже.
+decoder-doctor-no-codecs-linux-message = Для воспроизведения видео вам может потребоваться установить необходимые видеокодеки.
+decoder-doctor-no-hw-acceleration-message = Для улучшения качества видео вам может потребоваться установить Мedia Feature Pack от Microsoft.
 decoder-doctor-no-pulse-audio-message = Для воспроизведения аудио вам может потребоваться установить необходимое программное обеспечение PulseAudio.
 decoder-doctor-unsupported-libavcodec-message = libavcodec может быть уязвим или не поддерживаться и должен быть обновлён для воспроизведения видео.
 decoder-doctor-decode-error-message = При декодировании медиаресурса произошла ошибка.
