@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = D
 text-action-search-text-box-clear =
     .title = Temizle
+text-action-highlight-selection-2 =
+    .label = Seçimi vurgula
+    .accesskey = S
 text-action-highlight-selection =
     .label = Seçimi vurgula
 # This adds a comment to selected text within the PDF viewer.
