@@ -253,6 +253,10 @@ eme-notifications-drm-content-playing = کوس تام آڈیو یا ویڈیو
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = اینیبْل کْریو ڈی آر ایم&
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = چُھ انسٹال کران کمپونینٹ  یم ضرورت چھ چلاونْہ باپت آڈیو یا ویڈیو یتھ پیجس پیٹھ۔ مہربأنی کْرتھ کْریو پتْہ دوبار کوشش۔{ -brand-short-name }
 
 ## Password save/update panel
 
