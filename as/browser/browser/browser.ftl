@@ -640,6 +640,18 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+decoder-doctor-no-codecs-linux-message = ভিডিঅ' চলাবলৈ আপুনি প্ৰয়োজনীয় ভিডিঅ' ক'ডেকবিলাক ইনষ্টল কৰিব লাগিব পাৰে।
+decoder-doctor-no-hw-acceleration-message = ভিডিঅ'ৰ গুণাগুণ উন্নত কৰিবলৈ আপুনি Microsoft-ৰ Media Feature Pack ইনষ্টল কৰিব লাগিব পাৰে।
+decoder-doctor-no-pulse-audio-message = অডিঅ' বজাবলৈ আপুনি প্ৰয়োজনীয় PulseAudio ছফ্টৱেৰ ইনষ্টল কৰিব লাগিব পাৰে।
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } প্লাগিনটোৰ ক্ৰেশ হৈছে।
+plugin-crashed-notification-reload-button =
+    .label = পৃষ্ঠা পুনৰ ল'ড কৰক
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = এটা ক্ৰেশ সংবাদ জমা দিয়ক
+    .accesskey = S
 
 ## Password save/update panel
 
