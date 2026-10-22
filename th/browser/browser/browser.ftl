@@ -1186,10 +1186,21 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ด
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = คุณต้องเปิดใช้งาน DRM เพื่อเล่นเสียงหรือวิดีโอบางส่วนในหน้านี้
 eme-notifications-drm-content-disabled-button =
     .label = เปิดใช้งาน DRM
     .accesskey = ป
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } กำลังติดตั้งองค์ประกอบที่จำเป็นในการเล่นเสียงหรือวิดีโอในหน้านี้ โปรดลองอีกครั้งในภายหลัง
+decoder-doctor-no-codecs-linux-message = เพื่อเล่นวิดีโอ คุณอาจจำเป็นต้องติดตั้งตัวถอดรหัสวิดีโอที่ต้องการ
 decoder-doctor-no-hw-acceleration-message = เพื่อปรับปรุงคุณภาพวิดีโอ คุณอาจจำเป็นต้องติดตั้ง Media Feature Pack ของ Microsoft
+decoder-doctor-no-pulse-audio-message = เพื่อเล่นเสียง คุณอาจจำเป็นต้องติดตั้งซอฟต์แวร์ PulseAudio ที่จำเป็น
+decoder-doctor-unsupported-libavcodec-message = libavcodec อาจมีความเสี่ยงหรือไม่รองรับ และควรได้รับการอัปเดตเพื่อเล่นวิดีโอ
+decoder-doctor-decode-error-message = เกิดข้อผิดพลาดขณะถอดรหัสทรัพยากรสื่อ
+decoder-doctor-decode-warning-message = เกิดข้อผิดพลาดที่สามารถกู้คืนได้ขณะถอดรหัสทรัพยากรสื่อ
+decoder-doctor-learn-how-link = เรียนรู้วิธี
+decoder-doctor-report-issue-button =
+    .label = รายงานปัญหาไซต์
+    .accesskey = ร
 
 ## Password save/update panel
 
