@@ -551,6 +551,18 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM اہل بنائیں
+    .accesskey = ا
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } اس صفحہ پر آڈیو یا وڈیو چلانے کے لیئے اجزا تنصیب کر رہا ہے۔ برائے مہربانی پھر کوشش کریں۔
+decoder-doctor-no-codecs-linux-message = وڈیو کو چلانے کے لئے، آپکو شاید وڈیو کوڈیکس تنصیب کرنا پڑیں۔
+decoder-doctor-no-hw-acceleration-message = وڈیو کوالٹی کو پہتر بنانے کے لیئے، آپکو شاید Microsoft’s Media Feature Pack تنصیب کرنے کی ضرورت پڑے۔
+decoder-doctor-no-pulse-audio-message = آڈیو کو چلانے کے لئے، آپکو شاید PulseAudio سافٹ ویئر تنصیب کرنا ہوگا۔
+decoder-doctor-unsupported-libavcodec-message = لاباوکودیک عٰیر محفوظ یا بلا تعاون ہو سکتا ہے، اور ویڈیو چلانے کے لئے اسے تازہ کاری ہونا چاہئے۔
+decoder-doctor-learn-how-link = کیسے سیکھیں
+decoder-doctor-report-issue-button =
+    .label = سائٹ مسلہ رپورٹ کریں
+    .accesskey = R
 
 ## Password save/update panel
 
