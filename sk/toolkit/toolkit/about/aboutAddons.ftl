@@ -533,7 +533,7 @@ mlmodel-speech-recognition = { -brand-short-name } túto funkciu využíva na ro
 addon-category-mlmodel = Umelá inteligencia v zariadení
 addon-category-mlmodel-title =
     .title = Umelá inteligencia v zariadení
-mlmodel-heading = Spravovať modely umelej inteligencie v zariadení
+mlmodel-heading = Spravujte modely umelej inteligencie v zariadení
 mlmodel-description = Niektoré funkcie a rozšírenia sú vo { -brand-short-name(case: "loc") } poháňané modelmi umelej inteligencie, ktoré fungujú lokálne na vašom zariadení. Tento prístup chráni vaše súkromie a v mnohých prípadoch zrýchľuje výkon. <a data-l10n-name="learn-more">Ďalšie informácie</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =

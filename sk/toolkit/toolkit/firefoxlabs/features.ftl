@@ -89,8 +89,8 @@ experimental-features-semantic-history-search =
 experimental-features-semantic-history-search-description = V adresnom paneli { -brand-product-name(case: "gen") } použite lokálny model strojového učenia na ponúkanie návrhov položiek z histórie, ktoré súvisia s vašimi vyhľadávaniami na základe porozumenia prirodzenému jazyku. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
 # Tab Notes
 experimental-features-tab-notes =
-    .label = Poznámky pre kartu
-experimental-features-tab-notes-description = Poznámky pre kartu sú experimentálnou funkciou, ktorá vám umožňuje pridávať rýchle poznámky ku kartám prehliadača. Zapíšte si kontext, pripomienky alebo ďalšie kroky, aby ste sa mohli vrátiť a spomenúť si, prečo ste danú položku otvorili. Uvítali by sme vašu spätnú väzbu, ktorá nám pomôže túto funkciu neustále vylepšovať. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
+    .label = Poznámky ku kartám
+experimental-features-tab-notes-description = Poznámky ku kartám je experimentálna funkcia, ktorá vám umožňuje pridávať rýchle poznámky ku kartám prehliadača. Zapíšte si kontext, pripomienky alebo ďalšie kroky, aby ste sa mohli vrátiť a spomenúť si, prečo ste danú položku otvorili. Uvítali by sme vašu spätnú väzbu, ktorá nám pomôže túto funkciu neustále vylepšovať. <a data-l10n-name="connect">Zdieľať spätnú väzbu</a>
 # Streamlined Tab Context Menu
 experimental-features-tab-context-menu =
     .label = Zjednodušená ponuka pre karty
