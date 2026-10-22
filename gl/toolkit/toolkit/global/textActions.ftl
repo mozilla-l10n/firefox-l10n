@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = I
 text-action-search-text-box-clear =
     .title = Limpar
+text-action-highlight-selection-2 =
+    .label = Resaltar selección
+    .accesskey = R
 text-action-highlight-selection =
     .label = Resaltar selección
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
