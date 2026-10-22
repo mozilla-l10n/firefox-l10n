@@ -34,3 +34,12 @@ customize-mode-touchbar-cmd =
     .label = ස්පර්ශ තීරුව රිසිකරණය…
 customize-mode-downloads-button-autohide =
     .label = හිස් විට බොත්තම සඟවන්න
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = නම්‍යශීලී ඉඩ
+customize-mode-toolbarseparator =
+    .title = වෙන්කිරීම
+customize-mode-toolbarspacer =
+    .title = ඉඩ
