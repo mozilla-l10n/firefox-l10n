@@ -36,6 +36,9 @@ urlbar-identity-button2 =
             [one] Mostra la informació del lloc ({ $count } element de seguiment blocat)
            *[other] Mostra la informació del lloc ({ $count } elements de seguiment blocats)
         }
+
+##
+
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 
@@ -721,6 +724,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrocinat
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1104,7 +1112,8 @@ repair-text-encoding-button =
     .label = Repara la codificació del text
     .tooltiptext = Detecta la codificació del text correcta a partir del contingut de la pàgina
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1167,6 +1176,9 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grups de pestanyes
     .tooltiptext = Mostreu els vostres grups de pestanyes
+toolbar-button-history =
+    .label = Historial
+    .tooltiptext = Mostra l'historial ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1183,6 +1195,9 @@ eme-notifications-drm-content-playing-manage = Gestiona els paràmetres
 eme-notifications-drm-content-playing-manage-accesskey = G
 eme-notifications-drm-content-playing-dismiss = Descarta
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1235,6 +1250,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1281,6 +1299,13 @@ restore-session-startup-suggestion-button = Mostra com fer-ho
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = La vostra organització ha blocat l'accés als fitxers locals d'aquest ordinador
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1361,6 +1386,10 @@ reset-pbm-panel-complete = S'han suprimit les dades de la sessió privada
 reset-pbm-toolbar-button2 =
     .label = Esborra la sessió privada
     .tooltiptext = Esborreu la sessió privada
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1454,6 +1483,13 @@ file-picker-crashed-open = El diàleg de fitxers del Windows ha fallat. No s'ha 
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = El diàleg de fitxers del Windows ha fallat. El fitxer es desarà a { $path }.
 file-picker-crashed-save-nowhere = El diàleg de fitxers del Windows ha fallat. No s'ha trobat cap carpeta per defecte; el fitxer no es desarà.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostra en la carpeta
     .accessKey = M
@@ -1506,6 +1542,9 @@ trustpanel-blocker-see-all = Mostra-ho tot
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Proteccions conta el seguiment per a { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
