@@ -69,6 +69,26 @@ text-action-search-text-box-clear =
 text-action-highlight-selection-2 =
     .label = Zvýrazniť výber
     .accesskey = Z
+# This adds a comment to selected text within the PDF viewer.
+text-action-comment-selection-2 =
+    .label = Pridať komentár k výberu
+    .accesskey = P
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Kopírovať odkaz na zvýraznenie
+    .accesskey = K
+# This combines "Copy Link to Highlight" with "Copy Clean Link", ie.
+# it creates a link with a text fragment to the current selection
+# and it strips trackers etc.
+text-action-copy-clean-link-to-highlight-2 =
+    .label = Kopírovať čistý odkaz na zvýraznenie
+    .accesskey = K
+# If the page has been loaded with a text fragment and text is
+# visibly highlighted, this removes any highlighted sections on the page.
+text-action-remove-highlight-2 =
+    .label = Odstrániť zvýraznenie
+    .accesskey = O
 text-action-highlight-selection =
     .label = Zvýrazniť výber
 # This adds a comment to selected text within the PDF viewer.
