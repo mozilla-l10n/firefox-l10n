@@ -1140,6 +1140,24 @@ eme-notifications-drm-content-playing-dismiss-accesskey = O
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Za reprodukciju nekih audiosnimaka ili videa na ovoj stranici moraš aktivirati DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = Aktiviraj DRM
+    .accesskey = O
+decoder-doctor-no-codecs-linux-message = Da biste reproducirali video, možda ćete trebati instalirati potrebne video kodeke.
+decoder-doctor-unsupported-libavcodec-message = libavcodec je možda ranjiv ili nije podržan i za prikaz videa, trebao bi se aktualizirati.
+decoder-doctor-decode-error-message = Pojavila se greška tijekom dekodiranja medijskog resursa.
+decoder-doctor-decode-warning-message = Pojavila se greška koja se može ispraviti tijekom dekodiranja medijskog resursa.
+decoder-doctor-learn-how-link = Saznaj kako
+decoder-doctor-report-issue-button =
+    .label = Prijavi problem sa stranicom
+    .accesskey = r
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Dodatak { $pluginName } se srušio.
+plugin-crashed-notification-reload-button =
+    .label = Ponovo učitaj stranicu
+    .accesskey = r
 
 ## Password save/update panel
 
