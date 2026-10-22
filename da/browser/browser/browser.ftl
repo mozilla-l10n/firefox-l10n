@@ -1203,6 +1203,19 @@ eme-notifications-drm-content-playing-dismiss-accesskey = A
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Aktivér DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } er ved at installere komponenter, der er nødvendige for at afspille lyd eller video på siden. Prøv venligst igen senere.
+decoder-doctor-no-hw-acceleration-message = For at forbedre video-kvaliteten skal du muligvis installere Microsofts Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = PulseAudio skal være installeret for at du kan afspille lyd.
+decoder-doctor-unsupported-libavcodec-message = libavcodec kan være sårbar eller er ikke understøttet. Du bør opdatere libavcodec for at afspille video.
+decoder-doctor-decode-error-message = Der opstod en fejl under dekodning af et medie
+decoder-doctor-decode-warning-message = Der opstod en oprettelig fejl under dekodning af et medie
+decoder-doctor-learn-how-link = Læs mere
+decoder-doctor-report-issue-button =
+    .label = Indrapporter problem
+    .accesskey = I
 
 ## Password save/update panel
 
