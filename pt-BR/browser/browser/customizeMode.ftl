@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Personalizar barra de toque…
 customize-mode-downloads-button-autohide =
     .label = Ocultar botão quando estiver vazio
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Espaço flexível
+customize-mode-toolbarseparator =
+    .title = Separador
+customize-mode-toolbarspacer =
+    .title = Espaço
