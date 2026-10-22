@@ -612,6 +612,22 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Tee DRM
+    .accesskey = H
+decoder-doctor-learn-how-link = Sikua´a naja
+decoder-doctor-report-issue-button =
+    .label = Kachi de íyo iin tixi ji nuu ya´a
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Ntu íyo tiñu plugin { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Nachu'un tuku página
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Chu'un íchi tutu kachi ntivɨ ya'a
+    .accesskey = E
 
 ## Password save/update panel
 
