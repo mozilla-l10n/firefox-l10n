@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = ٹچ بار دی تخصیص کرو…
 customize-mode-downloads-button-autohide =
     .label = خالی تھیوݨ تے بٹن لُکاؤ
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = لچکدار جاہ
+customize-mode-toolbarseparator =
+    .title = جدا کار
+customize-mode-toolbarspacer =
+    .title = وتھی
