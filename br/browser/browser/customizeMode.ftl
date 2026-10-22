@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Personelaat ar varrenn-stok…
 customize-mode-downloads-button-autohide =
     .label = Kuzhat an afell p'eo goullo
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Esaouenn wevn
+customize-mode-toolbarseparator =
+    .title = Disranner
+customize-mode-toolbarspacer =
+    .title = Esaouenn
