@@ -441,6 +441,10 @@ eme-notifications-drm-content-playing = ဒီဆိုက်ရှိ အော
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-cdm-installing-message = ဒီစာမျက်နှာရှိ အော်ဒီယို သို့မဟုတ် ဗွီဒီယိုကို ဖွင့်ရန် { -brand-short-name } သည် လိုအပ်သော အစိတ်အပိုင်းများကို တပ်ဆင်နေသည်။. ကျေးဇူးပြု၍ နောင်တွင် ထပ်မံ ဆောင်ရွက်ကြည့်ပါ။
+decoder-doctor-no-codecs-linux-message = ဗီဒီယိုကို ဖွင့်ရန် လိုအပ်သော ဗီဒီယိုကိုဒက်များကို ထည့်သွင်းထားရန် လိုအပ်သည်။
+decoder-doctor-no-hw-acceleration-message = ဗီဒီယိုအရည်အသွေးမြင့်မားစေရန် မိုက္ကရိုဆော့ဖ်၏ Media Feature Pack ကို ထည့်သွင်းရန် လိုအပ်နိုင်သည်။
+decoder-doctor-learn-how-link = ဆောင်ရွက်ပုံကို လေ့လာရန်
 
 ## Password save/update panel
 
