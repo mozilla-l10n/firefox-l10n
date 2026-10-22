@@ -1233,6 +1233,19 @@ toolbar-button-history =
 toolbar-button-find =
     .label = Знайсці
     .tooltiptext = Знайсці на гэтай старонцы ({ $shortcut })
+toolbar-button-forget =
+    .label = Забыць
+    .tooltiptext = Забыцца на некаторую гісторыю аглядання
+toolbar-zoom-controls =
+    .label = Элементы кіравання павелічэннем
+    .title = Элементы кіравання павелічэннем
+toolbar-button-zoom-out =
+    .label = Паменшыць
+    .tooltiptext = Паменшыць ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Скінуць узровень павелічэння ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Павялічыць
+    .tooltiptext = Павялічыць ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
