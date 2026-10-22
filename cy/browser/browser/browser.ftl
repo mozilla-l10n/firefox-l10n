@@ -1315,6 +1315,7 @@ decoder-doctor-no-codecs-linux-message = I chwarae fideo, efallai y bydd angen g
 decoder-doctor-no-hw-acceleration-message = I wella ansawdd y fideo, efallai y bydd angen gosod y Microsoft Media Feature Pack.
 decoder-doctor-no-pulse-audio-message = I chwarae sain, efallai y bydd angen gosod y feddalwedd PulseAudio angenrheidiol.
 decoder-doctor-unsupported-libavcodec-message = Gall libavcodec fod yn fregus neu heb ei gynnal a dylai gael ei ddiweddaru ar gyfer chwarae fideo.
+decoder-doctor-decode-error-message = Digwyddodd gwall wrth ddadgodio adnodd cyfrwng.
 decoder-doctor-learn-how-link = Sut mae gwneud
 
 ## Password save/update panel
