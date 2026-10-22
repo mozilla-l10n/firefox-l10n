@@ -5,6 +5,9 @@
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Pribadong Pagba-browse
+
+##
+
 urlbar-identity-button =
     .aria-label = Tingnan ang impormasyon ng site
 
@@ -110,6 +113,9 @@ urlbar-menuitem-paste-and-go =
 clear-search-history =
     .label = Burahin ang Search History
     .accesskey = H
+
+## Page Action Context Menu
+
 
 ## Auto-hide Context Menu
 
@@ -335,6 +341,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = I-disable ang sharing protection para sa session na ito
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -443,6 +452,18 @@ urlbar-result-action-tabtosearch-other-engine = Maghanap sa { $engine } direkta 
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Kopyahin
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Mga Bookmark
@@ -461,6 +482,9 @@ urlbar-searchmode-popup-add-engine = I-dagdag ang “{ $engineName }”
 urlbar-result-action-search-bookmarks = Hanapin sa mga Bookmark
 urlbar-result-action-search-history = Hanapin sa Kasaysayan
 urlbar-result-action-search-tabs = Hanapin sa mga Tab
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -583,7 +607,8 @@ repair-text-encoding-button =
     .label = Ayusin ang text encoding
     .tooltiptext = Hulahan ang tamang text encoding mula sa nilalaman ng pahina
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -621,6 +646,13 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Bagong Private Window
     .tooltiptext = Magbukas ng panibagong Private Browsing window ({ $shortcut })
+toolbar-button-history =
+    .label = Kasaysayan
+    .tooltiptext = Ipakita ang iyong kasaysayan ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -629,6 +661,9 @@ eme-notifications-drm-content-playing-manage = I-manage ang mga setting
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Alisin
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -645,13 +680,24 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Isarado
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
     .label = Itago ang Toggle para sa Picture-in-Picture
     .accesskey = H
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -684,9 +730,22 @@ tabs-toolbar-list-all-tabs =
     .label = Ilista ang lahat ng mga tabs
     .tooltiptext = Ilista ang lahat ng mga tabs
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = Ipakita sa akin kung paano
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -721,6 +780,17 @@ unified-extensions-button-quarantined =
         Mga extension
         May ilang mga extension na hindi pinapayagan
 
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Pinigilan ng { -brand-short-name } ang agarang pagbukas ng pahinang ito.
@@ -728,6 +798,9 @@ refresh-blocked-redirect-label = Pingilan ng { -brand-short-name } ang kusang pa
 refresh-blocked-allow =
     .label = Payagan
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -763,3 +836,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Ipakita ang '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
