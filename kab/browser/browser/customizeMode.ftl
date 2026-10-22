@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Mudd udem i Touch Bar…
 customize-mode-downloads-button-autohide =
     .label = Ffer taqeffalt mi ara yili d ilem
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Tallunt tafallaẓt
+customize-mode-toolbarseparator =
+    .title = Anabraz
+customize-mode-toolbarspacer =
+    .title = Tallunt
