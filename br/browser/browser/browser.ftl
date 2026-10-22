@@ -865,6 +865,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = A
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Aotren an DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = Emañ { -brand-short-name } o staliañ parzhioù dleet evit lenn an aodio pe ar video war ar bajenn-mañ. Klaskit en-dro diwezhatoc'h mar plij.
+decoder-doctor-no-codecs-linux-message = Marteze ho peus ezhomm da staliañ an enboneger-ezvoneger azgoulennet evit lenn videoioù.
+decoder-doctor-no-hw-acceleration-message = Marteze ho peus ezhomm da staliañ ar Microsoft’s Media Feature Pack evit lenn videoioù.
+decoder-doctor-no-pulse-audio-message = Marteze ho peus ezhomm da staliañ ar meziant PulseAudio azgoulennet evit lenn audio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec a c'hall bezañ bresk pe n'eo ket skoret ha ret eo dezhañ bezañ hizivaet evit lenn ar video.
+decoder-doctor-decode-error-message = Degouezhet ez eus bet ur fazi en ur ezvonegañ ul loaz media.
+decoder-doctor-decode-warning-message = Degouezhet ez eus bet ur fazi atorus en ur ezvonegañ ul loaz media.
+decoder-doctor-learn-how-link = Gouzout penaos
+decoder-doctor-report-issue-button =
+    .label = Danevelliñ ur gudenn lec'hienn
+    .accesskey = A
 
 ## Password save/update panel
 
