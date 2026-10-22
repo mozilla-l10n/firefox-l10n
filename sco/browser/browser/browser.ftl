@@ -646,7 +646,17 @@ eme-notifications-drm-content-disabled-message = Ye maun enable DRM fur tae pley
 eme-notifications-drm-content-disabled-button =
     .label = Enable DRM
     .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } is instawin components needit tae pley the soond or video on this page. Gie it anither shot later.
+decoder-doctor-no-codecs-linux-message = Fur tae pley video, ye micht need tae instaw the necessar video codecs.
+decoder-doctor-no-hw-acceleration-message = Fur tae impruive video quality, ye micht need tae instaw Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Fur tae pley audio, ye micht need tae instaw the necessar PulseAudio saftware.
+decoder-doctor-unsupported-libavcodec-message = libavcodec micht be shooglie or isnae supportit, and maun be updatit fur tae pley video.
+decoder-doctor-decode-error-message = A mishanter tuik place while decodin a media resoorce.
 decoder-doctor-decode-warning-message = A tholeable mishanter tuik place while decodin a media resoorce.
+decoder-doctor-learn-how-link = Lairn how
+decoder-doctor-report-issue-button =
+    .label = Report site issue
+    .accesskey = R
 
 ## Password save/update panel
 
