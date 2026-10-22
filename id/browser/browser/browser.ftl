@@ -1195,6 +1195,7 @@ decoder-doctor-no-codecs-linux-message = Untuk memutar video, Anda mungkin harus
 decoder-doctor-no-hw-acceleration-message = Untuk meningkatkan kualitas video, Anda mungkin harus menginstal Media Feature Pack dari Microsoft.
 decoder-doctor-no-pulse-audio-message = Untuk memutar audio, Anda mungkin harus menginstal perangkat lunak PulseAudio.
 decoder-doctor-unsupported-libavcodec-message = libavcodec mungkin rentan atau tidak didukung, dan harus diperbarui untuk memutar video.
+decoder-doctor-decode-error-message = Masalah terjadi ketika mendekode sumber daya media.
 decoder-doctor-learn-how-link = Pelajari caranya
 
 ## Password save/update panel
