@@ -418,6 +418,22 @@ eme-notifications-drm-content-playing = এই সাইটের কিছু �
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = সক্রিয় করুন DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } কম্পনেন্টগুলো ইন্সটল করছে যা এই অডিও বা ভিডিও চালাতে কাজে লাগবে। অনুগ্রহ করে পরে আবার চেষ্টা করুন।
+decoder-doctor-no-codecs-linux-message = ভিডিও চালানোর জন্য, আপনাকে প্রয়োজনীয় ভিডিও কোডেক ইনস্টল করতে হবে।
+decoder-doctor-no-hw-acceleration-message = ভিডিওর গুণমান বাড়াতে গেলে, আপনাকে হয়তো Microsoft’s Media Feature Pack ইন্সটল করতে হবে।
+decoder-doctor-learn-how-link = জানুন কিভাবে
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } প্লাগ-ইনটি বিপর্যস্ত হয়েছে।
+plugin-crashed-notification-reload-button =
+    .label = পৃষ্ঠা পুনরায় লোড করুন
+    .accesskey = ল
+plugin-crashed-notification-submit-button =
+    .label = বিপর্যয় সংক্রান্ত রিপোর্ট দায়ের করুন
+    .accesskey = S
 
 ## Password save/update panel
 
