@@ -254,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Attiva la VPN per nascondere 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Configura la VPN per attivarsi</a> ogni volta che apri { -brand-short-name } così da aggiungere un ulteriore livello di protezione.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } terrà traccia dei siti web per cui hai scelto di usare la VPN. Puoi modificarli in qualsiasi momento nelle <a data-l10n-name="setting-link">impostazioni</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = La VPN è disattivata per questo sito
+confirmation-hint-ipprotection-navigated-to-included-site = La VPN è attiva per questo sito
 ipprotection-open-button = Apri { -brand-product-name }
 ipprotection-come-back-title = Torna e prova la VPN integrata
 ipprotection-message-body-hide-location = Proteggi la tua privacy e rimani in controllo nascondendo la tua posizione quando navighi con { -brand-product-name }.
