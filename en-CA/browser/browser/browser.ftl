@@ -1266,6 +1266,17 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = You must enable DRM to play some audio or video on this page.
+eme-notifications-drm-content-disabled-button =
+    .label = Enable DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } is installing components needed to play the audio or video on this page. Please try again later.
+decoder-doctor-no-codecs-linux-message = To play video, you may need to install the required video codecs.
+decoder-doctor-no-hw-acceleration-message = To improve video quality, you may need to install Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = To play audio, you may need to install the required PulseAudio software.
+decoder-doctor-unsupported-libavcodec-message = libavcodec may be vulnerable or is not supported, and should be updated to play video.
+decoder-doctor-decode-error-message = An error occurred while decoding a media resource.
+decoder-doctor-learn-how-link = Learn how
 
 ## Password save/update panel
 
