@@ -1049,7 +1049,14 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } a yessebdad iferdisen ilaqen i wurar n umeslaw neɣ n tvidyut ɣef usebter-a. Ma ulac aɣilif, ɛreḍ ticki.
+decoder-doctor-no-codecs-linux-message = Akken ad turareḍ tavidyut, ahat tesriḍ ad tesbedded ikudiken n uvidyu i iwulmen.
+decoder-doctor-no-hw-acceleration-message = Akken ad igerrez uvidyu, ahat tesriḍ ad tesbeddeḍ Media Feature Pack n Microsoft.
+decoder-doctor-no-pulse-audio-message = Akken ad turareḍ tavidyut, ahat tesriḍ ad tesbedded aseɣẓan PulseAudio iwulmen.
+decoder-doctor-unsupported-libavcodec-message = libavcodec ahat d ameɛlal neɣ ur yettusefrak ara, ihi yessefk ad yettwaleqqem akken ad yurar tavidyut.
+decoder-doctor-decode-error-message = Tella-d tuccḍa deg ukestengel n teɣbalut n teɣwalt.
 decoder-doctor-decode-warning-message = Tella-d tuccḍa yettwaseɣtayen deg ukestengel n teɣbalut n teɣwalt.
+decoder-doctor-learn-how-link = Issin amek
 decoder-doctor-report-issue-button =
     .label = Azen ugur ɣef usmel
     .accesskey = Z
