@@ -1307,6 +1307,9 @@ plugin-crashed-notification-message = Zásuvný modul { $pluginName } zlyhal.
 plugin-crashed-notification-reload-button =
     .label = Obnoviť stránku
     .accesskey = b
+plugin-crashed-notification-submit-button =
+    .label = Odoslať hlásenie o zlyhaní
+    .accesskey = d
 
 ## Password save/update panel
 
