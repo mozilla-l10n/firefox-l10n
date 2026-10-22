@@ -1257,6 +1257,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM moapysẽ
+    .accesskey = E
+decoder-doctor-learn-how-link = Eikuaa hag̃ua
+decoder-doctor-report-issue-button =
+    .label = Emomarandu tenda apañuãi
+    .accesskey = R
 
 ## Password save/update panel
 
