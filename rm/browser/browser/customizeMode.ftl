@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Modifitgar la trav da tutgar…
 customize-mode-downloads-button-autohide =
     .label = Zuppentar il buttun sche vid
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Spazi flexibel
+customize-mode-toolbarseparator =
+    .title = Separatur
+customize-mode-toolbarspacer =
+    .title = Spazi
