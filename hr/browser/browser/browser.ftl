@@ -1144,7 +1144,10 @@ eme-notifications-drm-content-disabled-message = Za reprodukciju nekih audiosnim
 eme-notifications-drm-content-disabled-button =
     .label = Aktiviraj DRM
     .accesskey = O
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } instalira komponente potrebne za reproduciranje audio ili video materijala na ovoj stranici. Pokušaj kasnije ponovo.
 decoder-doctor-no-codecs-linux-message = Da biste reproducirali video, možda ćete trebati instalirati potrebne video kodeke.
+decoder-doctor-no-hw-acceleration-message = Za poboljšavanje kvalitete videa možda moraš instalirati Microsoftov Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Za reprodukciju videa ćeš možda morati instalirati potreban PulseAudio softver.
 decoder-doctor-unsupported-libavcodec-message = libavcodec je možda ranjiv ili nije podržan i za prikaz videa, trebao bi se aktualizirati.
 decoder-doctor-decode-error-message = Pojavila se greška tijekom dekodiranja medijskog resursa.
 decoder-doctor-decode-warning-message = Pojavila se greška koja se može ispraviti tijekom dekodiranja medijskog resursa.
@@ -1158,6 +1161,9 @@ plugin-crashed-notification-message = Dodatak { $pluginName } se srušio.
 plugin-crashed-notification-reload-button =
     .label = Ponovo učitaj stranicu
     .accesskey = r
+plugin-crashed-notification-submit-button =
+    .label = Pošalji izvještaj o prekidu rada programa
+    .accesskey = š
 
 ## Password save/update panel
 
