@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = H
 text-action-search-text-box-clear =
     .title = Garbitu
+text-action-highlight-selection-2 =
+    .label = Nabarmendu hautapena
+    .accesskey = N
 text-action-highlight-selection =
     .label = Nabarmendu hautapena
 # This adds a comment to selected text within the PDF viewer.
