@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Érintősár testreszabása…
 customize-mode-downloads-button-autohide =
     .label = Gomb elrejtése, ha üres
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Széthúzható hely
+customize-mode-toolbarseparator =
+    .title = Elválasztó
+customize-mode-toolbarspacer =
+    .title = Szóköz
