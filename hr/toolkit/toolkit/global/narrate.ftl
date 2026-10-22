@@ -28,3 +28,8 @@ narrate-rate-fast =
 narrate-voice-header = Govor
 # Default voice is determined by the language of the document.
 narrate-voice-default = Standardni
+# Label for a voice in the voice selector, e.g. "David (English)".
+# Variables:
+#   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
+#   $language (String) - The language of the voice, as a localized language name or a language tag (e.g. "en-US").
+narrate-voice-label = { $name } ({ $language })
