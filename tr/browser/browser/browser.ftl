@@ -1226,6 +1226,9 @@ toolbar-button-find =
 toolbar-button-developer =
     .label = Geliştirici
     .tooltiptext = Web geliştirici araçlarını aç ({ $shortcut })
+toolbar-button-forget =
+    .label = Unut
+    .tooltiptext = Gezinti geçmişimin bir kısmını unut
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
