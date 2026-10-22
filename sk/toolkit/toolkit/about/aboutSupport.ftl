@@ -7,11 +7,11 @@ page-subtitle =
     Táto stránka obsahuje technické informácie, ktoré môžu byť užitočné pri riešení
     problémov s touto aplikáciou. Ak hľadáte odpovede na bežné otázky
     o programe { -brand-short-name }, navštívte <a data-l10n-name="support-link">stránku podpory</a>.
-crashes-title = Správy o zlyhaní
+crashes-title = Hlásenia o zlyhaní
 crashes-id = Identifikátor správy
 crashes-send-date = Dátum odoslania
-crashes-all-reports = Všetky správy o zlyhaní
-crashes-no-config = Táto aplikácia nepodporuje zobrazenie správ o zlyhaní.
+crashes-all-reports = Všetky hlásenia o zlyhaní
+crashes-no-config = Táto aplikácia nebola nakonfigurovaná na zobrazovanie hlásení o zlyhaní.
 support-addons-title = Doplnky
 support-addons-name = Názov
 support-addons-type = Typ
@@ -247,9 +247,9 @@ remote-debugging-url = URL
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
     { $days ->
-        [one] Správy o zlyhaní za posledný { $days } deň
-        [few] Správy o zlyhaní za posledné { $days } dni
-       *[other] Správy o zlyhaní za posledných { $days } dní
+        [one] Hlásenia o zlyhaní za posledný { $days } deň
+        [few] Hlásenia o zlyhaní za posledné { $days } dni
+       *[other] Hlásenia o zlyhaní za posledných { $days } dní
     }
 # Variables
 # $minutes (integer) - Number of minutes since crash

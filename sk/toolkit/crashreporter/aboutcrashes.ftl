@@ -9,7 +9,7 @@ delete-confirm-title = Určite?
 delete-unsubmitted-description = Týmto sa vymažú všetky neodoslané hlásenia o zlyhaní. Akciu nie je možné vrátiť späť.
 delete-submitted-description = Týmto sa odstráni zoznam odoslaných hlásení o zlyhaní, ale odoslané údaje sa nevymažú. Túto akciu nemožno vrátiť späť.
 crashes-unsubmitted-label = Neodoslané hlásenia o zlyhaní
-id-heading = Identifikátor správy
+id-heading = Identifikátor hlásenia
 date-crashed-heading = Dátum zlyhania
 submit-crash-button-label = Odoslať
 # This text is used to replace the label of the crash submit button
