@@ -1118,6 +1118,9 @@ toolbar-button-cut =
 toolbar-button-copy =
     .label = Kopiraj
     .tooltiptext = Kopiraj ({ $shortcut })
+toolbar-button-paste =
+    .label = Umetni
+    .tooltiptext = Umetni ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
