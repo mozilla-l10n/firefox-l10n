@@ -1253,6 +1253,7 @@ eme-notifications-drm-content-disabled-button =
     .label = Омогући DRM
     .accesskey = ћ
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } инсталира компоненте које су потребне да би се пустио аудио или видео на овој страници. Покушајте поново касније.
+decoder-doctor-no-pulse-audio-message = Да пуштате аудио, можда ћете морати да инсталирате захтевани PulseAudio софтвер.
 decoder-doctor-learn-how-link = Сазнајте како
 
 ## Password save/update panel
