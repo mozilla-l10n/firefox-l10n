@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = I
 text-action-search-text-box-clear =
     .title = Clirio
+text-action-highlight-selection-2 =
+    .label = Amlygu Adran
+    .accesskey = A
 text-action-highlight-selection =
     .label = Amlygu Adran
 # This adds a comment to selected text within the PDF viewer.
