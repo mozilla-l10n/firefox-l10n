@@ -623,6 +623,19 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Д
 
 ## Notification bars for media playback issues
 
+decoder-doctor-learn-how-link = Дознајте како
+decoder-doctor-report-issue-button =
+    .label = Пријави проблем со мрежно место
+    .accesskey = П
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Приклучокот { $pluginName } се урна.
+plugin-crashed-notification-reload-button =
+    .label = Превчитај ја страната
+    .accesskey = П
+plugin-crashed-notification-submit-button =
+    .label = Испрати извештај за проблемот
+    .accesskey = И
 
 ## Password save/update panel
 
