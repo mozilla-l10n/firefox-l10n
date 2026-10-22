@@ -814,6 +814,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Cal activar lo DRM per legir d'àudio e de vidèo sus aquela pagina.
 
 ## Password save/update panel
 
