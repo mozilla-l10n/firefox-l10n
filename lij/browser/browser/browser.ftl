@@ -611,6 +611,34 @@ toolbar-button-history =
 toolbar-button-find =
     .label = Treuva
     .tooltiptext = Treuva inta pagina ({ $shortcut })
+toolbar-button-developer =
+    .label = Sviluppo
+    .tooltiptext = Arvi i atressi do svilupatô ({ $shortcut })
+toolbar-button-forget =
+    .label = Ascòrda
+    .tooltiptext = Scancella quarche informaçion da stöia da navegaçion
+toolbar-zoom-controls =
+    .label = Contròlli zoom
+    .title = Contròlli pe-a gestion do zoom
+toolbar-button-zoom-out =
+    .label = Riduci zoom
+    .tooltiptext = Riduci zoom ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Repiggia o livello de zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Aomenta zoom
+    .tooltiptext = Aomenta zoom ({ $shortcut })
+toolbar-edit-controls =
+    .label = Contròlli de cangiamento
+    .title = Contròlli pe-o cangiamento do testo
+toolbar-button-cut =
+    .label = Taggia
+    .tooltiptext = Taggia ({ $shortcut })
+toolbar-button-copy =
+    .label = Còpia
+    .tooltiptext = Còpia ({ $shortcut })
+toolbar-button-paste =
+    .label = Incòlla
+    .tooltiptext = Incòlla ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
