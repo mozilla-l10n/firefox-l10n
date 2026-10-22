@@ -972,7 +972,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Debe activar o DRM para reproducir algún son ou vídeo nesta páxina.
+eme-notifications-drm-content-disabled-button =
+    .label = Activar DRM
+    .accesskey = A
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando compoñentes necesarios para reproducir o son ou vídeo nesta páxina. Tente de novo máis tarde.
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Fallou o engadido { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Recargar a páxina
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Enviar un informe de falla
+    .accesskey = E
 
 ## Password save/update panel
 
