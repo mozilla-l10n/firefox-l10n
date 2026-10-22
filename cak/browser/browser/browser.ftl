@@ -960,6 +960,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = T
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = K'atzinel najäq ri DRM richin nitzijtäj jun k'oxom o jun silowachib'äl pa re ruxaq k'amaya'l re'.
 eme-notifications-drm-content-disabled-button =
     .label = Titzij DRM
     .accesskey = T
@@ -974,6 +975,15 @@ decoder-doctor-learn-how-link = Tetamäx achike rub'eyal
 decoder-doctor-report-issue-button =
     .label = Tiya' rutzijol ri ruk'ayewal Ruxaq K'amaya'l
     .accesskey = y
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Xtane' rusamaj ri nak'ab'äl { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Katok chik chupam ri ruxaq
+    .accesskey = K
+plugin-crashed-notification-submit-button =
+    .label = Tik'ut pe jun rutzijol chi rij sachoj
+    .accesskey = T
 
 ## Password save/update panel
 
