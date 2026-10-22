@@ -380,6 +380,28 @@ toolbar-button-developer =
 toolbar-button-forget =
     .label = மற
     .tooltiptext = சில உலாவல் வரலாற்றை மற
+toolbar-zoom-controls =
+    .label = அளவீட்டு விசைகள்
+    .title = அளவீட்டு விசைகள்
+toolbar-button-zoom-out =
+    .label = சிறிதாக்கு
+    .tooltiptext = சிறிதாக்கு ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = அளவை மீட்டமை ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = பெரிதாக்கு
+    .tooltiptext = பெரிதாக்கு ({ $shortcut })
+toolbar-edit-controls =
+    .label = கட்டுபாட்டுகளைத் திருத்து
+    .title = கட்டுபாட்டுகளைத் திருத்து
+toolbar-button-cut =
+    .label = வெட்டு
+    .tooltiptext = வெட்டு ({ $shortcut })
+toolbar-button-copy =
+    .label = நகலெடு
+    .tooltiptext = நகலெடு ({ $shortcut })
+toolbar-button-paste =
+    .label = ஒட்டு
+    .tooltiptext = ஒட்டு ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
