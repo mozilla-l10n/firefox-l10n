@@ -1247,6 +1247,28 @@ toolbar-button-developer =
 toolbar-button-forget =
     .label = Zabyś
     .tooltiptext = Pśeglědowańsku historiju zabyś
+toolbar-zoom-controls =
+    .label = Skalěrowańske rědy
+    .title = Skalěrowańske rědy
+toolbar-button-zoom-out =
+    .label = Pówětšyś
+    .tooltiptext = Pómjeńšyś ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Skalěrowański schójźeńk slědk stajiś ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Pómjeńšyś
+    .tooltiptext = Pówětšyś ({ $shortcut })
+toolbar-edit-controls =
+    .label = Wobźěłowańske rědy
+    .title = Wobźěłowańske rědy
+toolbar-button-cut =
+    .label = Wurězaś
+    .tooltiptext = Wurězaś ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopěrowaś
+    .tooltiptext = Kopěrowaś ({ $shortcut })
+toolbar-button-paste =
+    .label = Zasajźiś
+    .tooltiptext = Zasajźiś ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
