@@ -1273,6 +1273,17 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ס
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = עליך להפעיל את רכיב ניהול זכויות הקניין (DRM) כדי להשמיע אודיו או לצפות בווידאו בדף זה.
+eme-notifications-drm-content-disabled-button =
+    .label = הפעלת ניהול זכויות קניין
+    .accesskey = ז
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } מתקין כעת רכיבים הנחוצים כדי לנגן אודיו או וידאו בדף זה. נא להמתין ולנסות שוב מאוחר יותר.
+decoder-doctor-no-pulse-audio-message = כדי להשמיע קול, נדרשת התקנת היישום PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec כנראה חשוף לסכנות או אינו נתמך, ויש לעדכנו כדי לנגן וידאו.
+decoder-doctor-decode-error-message = אירעה תקלה בעת פענוח משאב מדיה.
+decoder-doctor-report-issue-button =
+    .label = דיווח על בעיה באתר
+    .accesskey = ב
 
 ## Password save/update panel
 
