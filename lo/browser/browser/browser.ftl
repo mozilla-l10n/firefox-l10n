@@ -932,6 +932,19 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ວ
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = ເປີດໃຊ້ງານ DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ກຳລັງຕິດຕັ້ງອົງປະກອບທີ່ຈຳເປັນສຳລັບການຫລິ້ນສຽງຫລືວິດີໂອໃນຫນ້ານີ້. ກະລຸນາລອງອີກຄັ້ງໃນພາຍຫລັງ.
+decoder-doctor-no-codecs-linux-message = ເພື່ອຫຼິ້ນວິດີໂອ, ທ່ານອາດຈະຕ້ອງຕິດຕັ້ງຕົວແປງສັນຍານວິດີໂອທີ່ຕ້ອງການ.
+decoder-doctor-no-hw-acceleration-message = ເພື່ອປັບປຸງຄຸນນະພາບວິດີໂອ, ທ່ານອາດຕ້ອງຕິດຕັ້ງ Media Feature Pack ຂອງ Microsoft.
+decoder-doctor-no-pulse-audio-message = ເພື່ອຫຼິ້ນສຽງ, ທ່ານອາດຈະຕ້ອງຕິດຕັ້ງຊອບແວ PulseAudio ທີ່ຕ້ອງການ.
+decoder-doctor-unsupported-libavcodec-message = libavcodec ອາດ​ຈະ​ມີ​ຄວາມ​ສ່ຽງ​ຫຼື​ບໍ່​ໄດ້​ຮັບ​ການ​ສະ​ຫນັບ​ສະ​ຫນູນ​, ແລະ ​ຄວນ​ຈະ​ໄດ້​ຮັບ​ການ​ປັບ​ປຸງ​ເພື່ອ​ຫຼິ້ນ​ວິ​ດີ​ໂອ​.
+decoder-doctor-decode-error-message = ເກີດຄວາມຜິດພາດໃນລະຫວ່າງການຖອດລະຫັດຊັບພະຍາກອນສື່.
+decoder-doctor-learn-how-link = ຮຽນຮູ້ວິທີການ
+decoder-doctor-report-issue-button =
+    .label = ລາຍງານບັນຫາເວັບໄຊທ໌
+    .accesskey = R
 
 ## Password save/update panel
 
