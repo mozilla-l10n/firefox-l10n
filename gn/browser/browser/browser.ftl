@@ -1257,13 +1257,29 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Embojuruja DRM ehechasérõ ta’ãngamýi térã mba’epu ko kuatiaroguépe.
 eme-notifications-drm-content-disabled-button =
     .label = DRM moapysẽ
     .accesskey = E
+decoder-doctor-no-codecs-linux-message = Emboheta hag̃ua ta’ãngamýi, ikatu emohenda códec ta’ãngamýi rehegua tekotevẽva.
+decoder-doctor-no-hw-acceleration-message = Emboheta hag̃ua ta’ãngamýi, emohenda raẽta Media Feature Pack Microsoft mba’éva.
+decoder-doctor-no-pulse-audio-message = Emboheta hag̃ua mba’epu, ikatu emohenda software PulseAudio tekotevẽva.
+decoder-doctor-unsupported-libavcodec-message = Libavcodec ikatu imarã térã ndojokupytýi, ha embohekopyahu va’erã emboheta hag̃ua ta’ãngamýi.
+decoder-doctor-decode-error-message = Oiko jejavy embopapapy’óvo peteĩ porupy rupytyha.
+decoder-doctor-decode-warning-message = Oiko jejavy eguerukuaa je’ýva embopapapy’óvo peteĩ porupy rupytyha.
 decoder-doctor-learn-how-link = Eikuaa hag̃ua
 decoder-doctor-report-issue-button =
     .label = Emomarandu tenda apañuãi
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Pe mba’ejoajurã { $pluginName } ndoikói.
+plugin-crashed-notification-reload-button =
+    .label = Kuatiarogue myanyhẽjey
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Jekái mbotapykue mondo
+    .accesskey = S
 
 ## Password save/update panel
 
