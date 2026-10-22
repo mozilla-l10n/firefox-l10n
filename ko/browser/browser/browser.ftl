@@ -1184,9 +1184,24 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = 탭 그룹
     .tooltiptext = 탭 그룹 표시
+toolbar-button-history =
+    .label = 기록
+    .tooltiptext = 기록 보기 ({ $shortcut })
+toolbar-button-find =
+    .label = 찾기
+    .tooltiptext = 이 페이지에서 찾기 ({ $shortcut })
 toolbar-button-developer =
     .label = 개발자
     .tooltiptext = 웹 개발자 도구 열기 ({ $shortcut })
+toolbar-button-forget =
+    .label = 삭제
+    .tooltiptext = 최근 방문 기록 삭제
+toolbar-zoom-controls =
+    .label = 확대/축소 컨트롤
+    .title = 확대/축소 컨트롤
+toolbar-button-zoom-out =
+    .label = 축소
+    .tooltiptext = 축소 ({ $shortcut })
 toolbar-button-zoom-reset-tooltip = 확대/축소 초기화 ({ $shortcut })
 toolbar-button-zoom-in =
     .label = 확대
@@ -1197,6 +1212,12 @@ toolbar-edit-controls =
 toolbar-button-cut =
     .label = 잘라내기
     .tooltiptext = 잘라내기 ({ $shortcut })
+toolbar-button-copy =
+    .label = 복사
+    .tooltiptext = 복사 ({ $shortcut })
+toolbar-button-paste =
+    .label = 붙여넣기
+    .tooltiptext = 붙여넣기 ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
