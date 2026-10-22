@@ -1277,7 +1277,14 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando componentes necesarios para reproducir audio o video en esta página. Intente más adelante.
 decoder-doctor-no-codecs-linux-message = Para reproducir video, necesita instalar los codecs de video necesarios.
 decoder-doctor-no-hw-acceleration-message = Para mejorar la calidad de video, necesita instalar Media Feature Pack de Microsoft.
+decoder-doctor-no-pulse-audio-message = Para reproducir audio, se necesita instalar el software PulseAudio requerido.
+decoder-doctor-unsupported-libavcodec-message = libavcodec puede ser vulnerable o no está soportado y debería actualizarse para reproducir video.
+decoder-doctor-decode-error-message = Hubo un error al decodificar un recurso de medios.
+decoder-doctor-decode-warning-message = Hubo un error recuperable al decodificar un recurso de medios.
 decoder-doctor-learn-how-link = Aprender como
+decoder-doctor-report-issue-button =
+    .label = Informar problema con el sitio
+    .accesskey = r
 
 ## Password save/update panel
 
