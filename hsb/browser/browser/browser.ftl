@@ -67,6 +67,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Dźělić…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Sydłowe informacije wobhladać
 
@@ -762,6 +765,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Prašeć so
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1163,7 +1171,8 @@ repair-text-encoding-button =
     .label = Tekstowe kodowanje reparować
     .tooltiptext = Korektne tekstowe kodowanje z wobsaha strony wuhódać
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1226,6 +1235,28 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Skupiny rajtarkow
     .tooltiptext = Waše skupiny rajtarki pokazać
+toolbar-button-history =
+    .label = Historija
+    .tooltiptext = Wašu historiju pokazać ({ $shortcut })
+toolbar-button-find =
+    .label = Pytać
+    .tooltiptext = W tutej stronje pytać ({ $shortcut })
+toolbar-button-developer =
+    .label = Wuwiwar
+    .tooltiptext = Webwuwiwanske nastroje wočinić ({ $shortcut })
+toolbar-button-forget =
+    .label = Zabyć
+    .tooltiptext = Přehladowansku historiju zabyć
+toolbar-zoom-controls =
+    .label = Skalowanske nastroje
+    .title = Skalowanske nastroje
+toolbar-button-zoom-out =
+    .label = Powjetšić
+    .tooltiptext = Pomjeńšić ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Skalowanski schodźenk wróćo stajić ({ $shortcut })
+toolbar-button-paste =
+    .label = Zasadźić
+    .tooltiptext = Zasadźić ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1242,6 +1273,9 @@ eme-notifications-drm-content-playing-manage = Nastajenja rjadować
 eme-notifications-drm-content-playing-manage-accesskey = N
 eme-notifications-drm-content-playing-dismiss = Zaćisnyć
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1295,6 +1329,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = l
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1566,6 +1603,13 @@ file-picker-crashed-open = Datajowy dialog Windows je spadnył. Dataja abo rjado
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Datajowy dialog Windows je spadnył. Dataja budźe so do { $path } składować.
 file-picker-crashed-save-nowhere = Datajowy dialog Windows je spadnył. Standardny rjadowak njeda so namakać; dataja njebudźe so składować.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = W rjadowaku pokazać
     .accessKey = r
@@ -1618,6 +1662,9 @@ trustpanel-blocker-see-all = Wšě pokazać
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Slědowanski škit za { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
