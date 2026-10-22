@@ -757,6 +757,7 @@ decoder-doctor-no-codecs-linux-message = వీడియో ప్లే చే�
 decoder-doctor-no-hw-acceleration-message = వీడియో నాణ్యతను మెరుగుపరిచేందుకు, మీరు Microsoft యొక్క Media Feature Pack ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
 decoder-doctor-no-pulse-audio-message = ఆడియో ప్లే చేయడానికి, మీరు అవసరమైన PulseAudio సాఫ్ట్వేరుని ఇన్స్టాల్ చేయడం అవసరం కావచ్చు.
 decoder-doctor-unsupported-libavcodec-message = libavcodec హాని కలిగించడానికి అవకాశం ఉండవచ్చు లేదా మద్దతుని ఇవ్వదు మరియు వీడియో ప్లే చేయడానికి నవీకరించాలి.
+decoder-doctor-decode-error-message = మీడియా వనరును డీకోడ్ చేస్తున్నప్పుడు లోపం సంభవించింది.
 decoder-doctor-decode-warning-message = మీడియా వనరును డీకోడ్ చేస్తున్నప్పుడు ఒక తిరిగి పొందగల లోపం సంభవించింది.
 decoder-doctor-learn-how-link = ఎలానో తెలుసుకోండి
 decoder-doctor-report-issue-button =
