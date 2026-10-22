@@ -1074,6 +1074,17 @@ eme-notifications-drm-content-playing-dismiss-accesskey = S
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Activar DRM
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installescha las cumponentas necessarias per far ir video u audio sin questa pagina. Emprova pli tard anc ina giada.
+decoder-doctor-no-pulse-audio-message = Per far ir il tun stos ti eventualmain installar la software «PulseAudio».
+decoder-doctor-unsupported-libavcodec-message = libavcodec è eventualmain attatgabel u betg pli sustegnì e stuess vegnir actualisà per far ir videos.
+decoder-doctor-decode-error-message = Ina errur è cumparida durant decodar ina resursa da medias.
+decoder-doctor-decode-warning-message = Ina errur curregibla è cumparida durant decodar ina resursa da medias.
+decoder-doctor-report-issue-button =
+    .label = Rapportar in problem cun la pagina
+    .accesskey = R
 
 ## Password save/update panel
 
