@@ -720,6 +720,21 @@ eme-notifications-drm-content-playing-dismiss-accesskey = P
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Osa sellel lehel oleva audio või video esitamiseks tuleb lubada DRM.
+eme-notifications-drm-content-disabled-button =
+    .label = Luba DRM
+    .accesskey = L
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } paigaldab komponente, mis on vajalikud sellel lehel oleva audio või video esitamiseks. Palun proovi hiljem uuesti.
+decoder-doctor-no-codecs-linux-message = Video esitamiseks tuleb paigaldada nõutud videokoodekid.
+decoder-doctor-no-hw-acceleration-message = Video kvaliteedi parandamiseks võid paigaldada Microsofti meediumifunktsioonide paketi.
+decoder-doctor-no-pulse-audio-message = Heli esitamiseks on võib-olla vaja paigaldada tarkvara PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec võib olla haavatav või pole toetatud ning video esitamiseks tuleks see uuendada.
+decoder-doctor-decode-error-message = Meediaressursi dekodeerimisel esines viga.
+decoder-doctor-decode-warning-message = Meediaressursi dekodeerimisel esines parandatav viga.
+decoder-doctor-learn-how-link = Rohkem teavet
+decoder-doctor-report-issue-button =
+    .label = Anna teada saidil olevast veast
+    .accesskey = A
 
 ## Password save/update panel
 
