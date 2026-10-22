@@ -32,3 +32,12 @@ customize-mode-touchbar-cmd =
     .label = ٹچ بار کی تخصیص کریں
 customize-mode-downloads-button-autohide =
     .label = خالی ہونے پر بٹن چھپائیں
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = لچکدار جگہ
+customize-mode-toolbarseparator =
+    .title = جداگار
+customize-mode-toolbarspacer =
+    .title = وقفہ
