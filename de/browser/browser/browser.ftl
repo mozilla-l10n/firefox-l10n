@@ -1270,6 +1270,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = c
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Der DRM-Kopierschutz muss aktiviert werden, um einige Audio- oder Videoelemente auf dieser Seite wiederzugeben.
 eme-notifications-drm-content-disabled-button =
     .label = DRM-Kopierschutz aktivieren
     .accesskey = a
@@ -1282,6 +1283,15 @@ decoder-doctor-learn-how-link = So wird's gemacht
 decoder-doctor-report-issue-button =
     .label = Seitenproblem melden
     .accesskey = m
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Das Plugin "{ $pluginName }" ist abgestürzt.
+plugin-crashed-notification-reload-button =
+    .label = Seite neu laden
+    .accesskey = S
+plugin-crashed-notification-submit-button =
+    .label = Absturzbericht senden
+    .accesskey = A
 
 ## Password save/update panel
 
