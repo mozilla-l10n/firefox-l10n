@@ -1121,7 +1121,8 @@ repair-text-encoding-button =
     .label = テキストエンコーディングを修復
     .tooltiptext = ページの内容から正しいテキストエンコーディングを推測します
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1184,6 +1185,34 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = タブグループ
     .tooltiptext = タブグループを表示します
+toolbar-button-developer =
+    .label = 開発ツール
+    .tooltiptext = ウェブ開発ツールを開きます ({ $shortcut })
+toolbar-button-forget =
+    .label = 忘れる
+    .tooltiptext = 直前の閲覧履歴を消去します
+toolbar-zoom-controls =
+    .label = 拡大／縮小
+    .title = 拡大／縮小
+toolbar-button-zoom-out =
+    .label = 縮小
+    .tooltiptext = 縮小 ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = 拡大／縮小をリセット ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = 拡大
+    .tooltiptext = 拡大 ({ $shortcut })
+toolbar-edit-controls =
+    .label = 編集メニュー
+    .title = 編集メニュー
+toolbar-button-cut =
+    .label = カット
+    .tooltiptext = カット ({ $shortcut })
+toolbar-button-copy =
+    .label = コピー
+    .tooltiptext = コピー ({ $shortcut })
+toolbar-button-paste =
+    .label = ペースト
+    .tooltiptext = ペースト ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1200,6 +1229,9 @@ eme-notifications-drm-content-playing-manage = 設定を管理
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = 閉じる
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
