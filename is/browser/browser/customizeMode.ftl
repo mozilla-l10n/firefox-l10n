@@ -42,3 +42,7 @@ customize-mode-downloads-button-autohide =
 
 customize-mode-toolbarspring =
     .title = Teygjanlegt bil
+customize-mode-toolbarseparator =
+    .title = Aðgreinir
+customize-mode-toolbarspacer =
+    .title = Bil

@@ -1102,6 +1102,28 @@ toolbar-button-developer =
 toolbar-button-forget =
     .label = Gleyma
     .tooltiptext = Gleyma hluta af vafraferil
+toolbar-zoom-controls =
+    .label = Aðdráttarstýringar
+    .title = Aðdráttarstýringar
+toolbar-button-zoom-out =
+    .label = Minnka aðdrátt
+    .tooltiptext = Minnka aðdrátt ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Endurstilla aðdrátt ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Auka aðdrátt
+    .tooltiptext = Minnka aðdrátt ({ $shortcut })
+toolbar-edit-controls =
+    .label = Breyta stjórntækjum
+    .title = Breyta stjórntækjum
+toolbar-button-cut =
+    .label = Klippa
+    .tooltiptext = Klippa ({ $shortcut })
+toolbar-button-copy =
+    .label = Afrita
+    .tooltiptext = Afrita ({ $shortcut })
+toolbar-button-paste =
+    .label = Líma
+    .tooltiptext = Líma ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
