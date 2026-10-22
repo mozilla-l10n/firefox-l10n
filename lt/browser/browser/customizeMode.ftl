@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = Tvarkyti lietimo juostą…
 customize-mode-downloads-button-autohide =
     .label = Slėpti mygtuką, kai tuščia
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Kintamo pločio tarpas
+customize-mode-toolbarseparator =
+    .title = Skirtukas
+customize-mode-toolbarspacer =
+    .title = Tarpas
