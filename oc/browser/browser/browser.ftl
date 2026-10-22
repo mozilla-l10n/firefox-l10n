@@ -15,6 +15,9 @@ browser-main-private-window-title =
         [macos] { -brand-full-name } — Navegacion privada
        *[other] { -brand-full-name } navegacion privada
     }
+
+##
+
 urlbar-identity-button =
     .aria-label = Afichar las informacions sul site internet
 
@@ -392,6 +395,9 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Desactivar lo partiment per aquesta session
 
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -508,11 +514,19 @@ urlbar-result-action-tabtosearch-other-engine = Cercar dins { $engine } dirècta
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Copiar
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
 # This string is shown in split button to dismiss activation the Realtime suggestion.
 urlbar-result-realtime-opt-in-not-now = Pas ara
+
+## These strings are used for suggestions of important dates in the urlbar.
+
 
 ## Strings used for buttons in the urlbar
 
@@ -561,6 +575,9 @@ urlbar-result-action-search-actions = Accions de recèrca
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Dobrir { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -709,7 +726,8 @@ repair-text-encoding-button =
     .label = Reparar l’encodatge del tèxte
     .tooltiptext = Devinar l’encodatge de tèxte corrècte amb lo contengut de la pagina
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -747,6 +765,41 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Novèla fenèstra de navegacion privada
     .tooltiptext = Novèla fenèstra de navegacion privada ({ $shortcut })
+toolbar-button-history =
+    .label = Istoric
+    .tooltiptext = Afichar vòstre istoric ({ $shortcut })
+toolbar-button-find =
+    .label = Recercar
+    .tooltiptext = Recercar dins aquesta pagina ({ $shortcut })
+toolbar-button-developer =
+    .label = Desvolopaire
+    .tooltiptext = Aisinas de desvolopament web ({ $shortcut })
+toolbar-zoom-controls =
+    .label = Nivèl de zoom
+    .title = Nivèl de zoom
+toolbar-button-zoom-out =
+    .label = Zoom arrièr
+    .tooltiptext = Zoom arrièr ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Reïnicializar lo nivèl de zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Zoom avant
+    .tooltiptext = Zoom avant ({ $shortcut })
+toolbar-edit-controls =
+    .label = Contraròtles d'edicion
+    .title = Contraròtles d'edicion
+toolbar-button-cut =
+    .label = Talhar
+    .tooltiptext = Talhar ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiar
+    .tooltiptext = Copiar ({ $shortcut })
+toolbar-button-paste =
+    .label = Pegar
+    .tooltiptext = Pegar ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -755,6 +808,9 @@ eme-notifications-drm-content-playing-manage = Gerir los paramètres
 eme-notifications-drm-content-playing-manage-accesskey = G
 eme-notifications-drm-content-playing-dismiss = Ignorar
 eme-notifications-drm-content-playing-dismiss-accesskey = I
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -770,6 +826,10 @@ menu-share-more =
     .label = Mai…
 ui-tour-info-panel-close =
     .tooltiptext = Tampar
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -788,6 +848,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = D
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -820,11 +883,24 @@ tabs-toolbar-list-all-tabs =
     .label = Far la lista de totes los onglets
     .tooltiptext = Far la lista de totes los onglets
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Tornar dobrir los onglets precedents ?</strong> Podètz restablir vòstra session precedenta del menú d’aplicacion de { -brand-short-name } <img data-l10n-name="icon"/> estant jos Istoric.
 restore-session-startup-suggestion-button = Cossí far
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -881,6 +957,10 @@ reset-pbm-panel-cancel-button =
     .label = Anullar
     .accesskey = A
 reset-pbm-panel-complete = Donadas de session privada suprimidas
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -940,6 +1020,29 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Mostrar dins lo dossièr
     .accessKey = M
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
