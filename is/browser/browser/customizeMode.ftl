@@ -37,3 +37,8 @@ customize-mode-touchbar-cmd =
     .label = Sérsníða snertistiku…
 customize-mode-downloads-button-autohide =
     .label = Fela hnapp þegar hann er tómur
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Teygjanlegt bil

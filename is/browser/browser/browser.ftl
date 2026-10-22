@@ -1090,9 +1090,18 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Flipahópar
     .tooltiptext = Sýna flipahópana þína
+toolbar-button-history =
+    .label = Ferill
+    .tooltiptext = Sýna feril ({ $shortcut })
+toolbar-button-find =
+    .label = Leita
+    .tooltiptext = Leita í þessari síðu ({ $shortcut })
 toolbar-button-developer =
     .label = Forritari
     .tooltiptext = Opna tækjatól vefforritara ({ $shortcut })
+toolbar-button-forget =
+    .label = Gleyma
+    .tooltiptext = Gleyma hluta af vafraferil
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
