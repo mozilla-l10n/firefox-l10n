@@ -1267,6 +1267,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Debes activar DRM para reproducir algunos audios o videos de esta página.
+eme-notifications-drm-content-disabled-button =
+    .label = Activar DRM
+    .accesskey = E
+decoder-doctor-no-codecs-linux-message = Para reproducir el video, puede que debas instalar los códecs de video requeridos.
+decoder-doctor-no-hw-acceleration-message = Para mejorar la calidad del video, puedes que deba instalar el Media Feature Pack de Microsoft.
+decoder-doctor-learn-how-link = Aprender cómo
 
 ## Password save/update panel
 
