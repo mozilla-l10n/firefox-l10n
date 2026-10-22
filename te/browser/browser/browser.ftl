@@ -749,6 +749,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+decoder-doctor-learn-how-link = ఎలానో తెలుసుకోండి
 
 ## Password save/update panel
 
