@@ -378,6 +378,15 @@ eme-notifications-drm-content-playing = ಈ ತಾಣದಲ್ಲಿರುವ �
 
 ## Notification bars for media playback issues
 
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } ಪ್ಲಗ್ಇನ್ ಕುಸಿತಗೊಂಡಿದೆ.
+plugin-crashed-notification-reload-button =
+    .label = Reload ಪುಟ
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Submit ಕ್ರಿಯಾವೈಫಲ್ಯ ವರದಿ
+    .accesskey = S
 
 ## Password save/update panel
 
