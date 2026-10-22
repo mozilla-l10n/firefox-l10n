@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Dividi…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Vidi informon de la retejo
 
@@ -750,6 +753,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patronita
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Demandi
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1139,7 +1147,8 @@ repair-text-encoding-button =
     .label = Ripari tekstan enkodigon
     .tooltiptext = Eltrovi ĝustan tekstan enkodigon surbaze de la enhavo de la paĝo
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1202,6 +1211,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grupoj de langetoj
     .tooltiptext = Montri viajn grupojn de langetoj
+toolbar-button-history =
+    .label = Historio
+    .tooltiptext = Montri vian historion ({ $shortcut })
+toolbar-button-find =
+    .label = Serĉi
+    .tooltiptext = Serĉi en tiu ĉi paĝo ({ $shortcut })
+toolbar-button-developer =
+    .label = Programisto
+    .tooltiptext = Malfermi la ilojn por Teksaĵaj programistoj ({ $shortcut })
+toolbar-button-forget =
+    .label = Forgesi
+    .tooltiptext = Forgesi parton de la retuman historion
+toolbar-zoom-controls =
+    .label = Regiloj de pligrandigilo
+    .title = Regiloj de pligrandigilo
+toolbar-button-zoom-out =
+    .label = Malpligrandigi
+    .tooltiptext = Malpligrandigi ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Ŝanĝi grandon ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Grandigi
+    .tooltiptext = Grandigi ({ $shortcut })
+toolbar-edit-controls =
+    .label = Modifi regilojn
+    .title = Modifi regilojn
+toolbar-button-cut =
+    .label = Eltondi
+    .tooltiptext = Eltondi ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopii
+    .tooltiptext = Kopii ({ $shortcut })
+toolbar-button-paste =
+    .label = Alglui
+    .tooltiptext = Alglui ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1218,6 +1261,9 @@ eme-notifications-drm-content-playing-manage = Administri agordojn
 eme-notifications-drm-content-playing-manage-accesskey = A
 eme-notifications-drm-content-playing-dismiss = Ignori
 eme-notifications-drm-content-playing-dismiss-accesskey = I
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1270,6 +1316,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1316,6 +1365,13 @@ restore-session-startup-suggestion-button = Montri al mi kiel fari tion
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Via organizo blokis aliron al lokaj dosieroj en tiu ĉi komputilo.
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1400,6 +1456,10 @@ reset-pbm-panel-complete = Datumoj de privata seanco estis forigitaj
 reset-pbm-toolbar-button2 =
     .label = Viŝi privatan seancon
     .tooltiptext = Viŝi privatan seancon
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1492,6 +1552,13 @@ file-picker-crashed-open = La dosiera dialogo de Windows paneis. Neniu dosierujo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = La dosiera dialogo de Windows paneis. La dosiero estos konservita en { $path }.
 file-picker-crashed-save-nowhere = La dosiera dialogo de Windows paneis. Neniu norma dosierujo estis trovita do la dosiero ne estos konservita.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Montri en dosierujo
     .accessKey = d
@@ -1544,6 +1611,9 @@ trustpanel-blocker-see-all = Vidi ĉiujn
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protektoj kontraŭ spuriloj por { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
