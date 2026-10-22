@@ -1836,6 +1836,50 @@ permissions-data-section =
     .heading = Prawa a daty
 pane-permissions-data-title2 = Prawa a daty
     .title = Prawa a daty
+notifications-section-header =
+    .heading = Zdźělenki
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } websydło
+            [two] { $count } websydle
+            [few] { $count } websydła
+           *[other] { $count } websydłow
+        }
+    .label = Zdźělenske nastajenja rjadować
+notifications-filter =
+    .placeholder = Websydła přepytać
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Websydło
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Zdźělenki dowolić
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Websydła
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Přeco
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Dowolić
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Ženje
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Žane zdźělenske websydła přidate.
 
 ## Privacy Section - Data Collection
 

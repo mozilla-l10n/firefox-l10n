@@ -115,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Sym zrozumił
 ipprotection-site-inclusions-callout-title-existing-users = Nastajće prawidła zatwarjeneho VPN a přehladujće potom dale
 ipprotection-site-inclusions-callout-title-lapsed-users = Testujće zatwarjeny VPN, nětko sydło po sydle
 ipprotection-site-inclusions-callout-description-1 = Zmóžńće VPN, hdyž chceće přidatnu priwatnosć abo na stejnišću bazowane přehladowanje, a znjemóžńće jón, hdźež jón njetrjebaće.
+ipprotection-site-inclusions-callout-description-lapsed-users = Postajće prawidła, zo byšće VPN zmóžnił, hdyž chceće přidatnu priwatnosć abo na stejnišću bazowane přehladowanje, a znjemóžńće jón, hdyž jón njetrjebaće.
 ipprotection-site-inclusions-callout-description = Zmóžńće jón, hdyž chceće přidatnu priwatnosć abo na stejnišću bazowane přehladowanje, a znjemóžńće jón, hdźež jón njetrjebaće.
 ipprotection-site-inclusions-callout-primary-button = Prawidła postajić
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nic nětko
@@ -125,6 +126,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zaćisnyć
 ipprotection-holiday-promo-description = Přehladujće priwatnje a poćežće přesćěhowanje ze zatwarjenym VPN.
 ipprotection-holiday-promo-primary-button = VPN wočinić
 ipprotection-holiday-promo-secondary-button = Zaćisnyć
+ipprotection-holiday-promo-title-1 = Dóstańće njewobmjezowany VPN hač do 31. januara
 
 ## Panel
 
@@ -250,6 +252,7 @@ ipprotection-message-continuous-onboarding-intro = Zmóžńće VPN, zo byšće s
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Zmóžńće VPN</a> za přidatnu škitnu runinu, kóždy raz, hdyž { -brand-short-name } wočinjeće.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } so na to dopomina, za kotre websydła so ma VPN wužiwać. Aktualizujće tute kóždy čas w <a data-l10n-name="setting-link">nastajenjach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je za tute sydło znjemóžnjeny
+confirmation-hint-ipprotection-navigated-to-included-site = VPN je za tute sydło zmóžnjeny
 ipprotection-open-button = { -brand-product-name } wočinić
 ipprotection-come-back-title = Wróćće so, zo byšće zatwarjeny VPN wupruwował
 ipprotection-message-body-hide-location = Schowajće swoje stejnišćo, hdyž z { -brand-product-name } přehladujeće, za wjace priwatnosće a kontrole.

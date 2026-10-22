@@ -1832,6 +1832,63 @@ permissions-data-section =
     .heading = Oprávnenia a údaje
 pane-permissions-data-title2 = Oprávnenia a údaje
     .title = Oprávnenia a údaje
+notifications-section-header =
+    .heading = Upozornenia
+notifications-entry-card-header =
+    .description = Vyberte, ktoré webové stránky môžu odosielať upozornenia a ako sa tieto upozornenia zobrazujú.
+    .label = Upozornenia
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } stránka
+            [few] { $count } stránky
+           *[other] { $count } stránok
+        }
+    .label = Spravovať nastavenia upozornení
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Spravovať nastavenia upozornení z webových stránok
+notifications-website-card-header =
+    .description = Vyberte, ako môžu webové stránky odosielať upozornenia.
+    .label = Upozornenia z webových stránok
+notifications-filter =
+    .placeholder = Hľadať v stránkach
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Webová stránka
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Povoliť upozornenia
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Webové stránky
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Vždy
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Povoliť
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Nikdy
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Neboli pridané žiadne upozornenia z webových stránok.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Vášmu vyhľadávaniu nezodpovedajú žiadne upozornenia z webových stránok.
 
 ## Privacy Section - Data Collection
 
