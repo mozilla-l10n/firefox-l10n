@@ -38,3 +38,10 @@ customize-mode-touchbar-cmd =
     .label = Уладкаваць сенсарную панэль…
 customize-mode-downloads-button-autohide =
     .label = Хаваць кнопку, калі спіс пусты
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarseparator =
+    .title = Раздзяляльнік
+customize-mode-toolbarspacer =
+    .title = Інтэрвал
