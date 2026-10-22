@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Aanraakbalk aanpassen…
 customize-mode-downloads-button-autohide =
     .label = Knop verbergen indien leeg
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Flexibele ruimte
+customize-mode-toolbarseparator =
+    .title = Scheidingsteken
+customize-mode-toolbarspacer =
+    .title = Ruimte
