@@ -1238,6 +1238,18 @@ toolbar-button-zoom-reset-tooltip = Reset zoom level ({ $shortcut })
 toolbar-button-zoom-in =
     .label = Zoom in
     .tooltiptext = Zoom in ({ $shortcut })
+toolbar-edit-controls =
+    .label = Edit controls
+    .title = Edit controls
+toolbar-button-cut =
+    .label = Cut
+    .tooltiptext = Cut ({ $shortcut })
+toolbar-button-copy =
+    .label = Copy
+    .tooltiptext = Copy ({ $shortcut })
+toolbar-button-paste =
+    .label = Paste
+    .tooltiptext = Paste ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
