@@ -1271,9 +1271,26 @@ eme-notifications-drm-content-disabled-message = Debes activar DRM para reproduc
 eme-notifications-drm-content-disabled-button =
     .label = Activar DRM
     .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando los componentes necesarios para reproducir los audios o videos de esta página. Por favor, vuelve a intentarlo más tarde.
 decoder-doctor-no-codecs-linux-message = Para reproducir el video, puede que debas instalar los códecs de video requeridos.
 decoder-doctor-no-hw-acceleration-message = Para mejorar la calidad del video, puedes que deba instalar el Media Feature Pack de Microsoft.
+decoder-doctor-no-pulse-audio-message = Para reproducir audio, puede que debas instalar el software PulseAudio requerido.
+decoder-doctor-unsupported-libavcodec-message = libavcodec puede ser vulnerable o no estar soportado, y debiera ser actualizado para reproducir video.
+decoder-doctor-decode-error-message = Ocurrió un error mientras se decodificaba un recurso multimedia.
+decoder-doctor-decode-warning-message = Ocurrió un error recuperable mientras se decodificaba un recurso multimedia.
 decoder-doctor-learn-how-link = Aprender cómo
+decoder-doctor-report-issue-button =
+    .label = Reportar problema con el sitio
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = El complemento { $pluginName } ha fallado.
+plugin-crashed-notification-reload-button =
+    .label = Recargar la página
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Enviar un reporte de fallos
+    .accesskey = E
 
 ## Password save/update panel
 
