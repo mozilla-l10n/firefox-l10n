@@ -1185,6 +1185,12 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ه
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = يجب تفعيل إدارة الحقوق الرقمية لتشغيل بعض ملفات الصوت أو الفيديو على هذه الصفحة.
+eme-notifications-drm-content-disabled-button =
+    .label = فعّل إدارة الحقوق الرقمية
+    .accesskey = ف
+eme-notifications-drm-content-cdm-installing-message = يُنصّب { -brand-short-name } المكونات اللازمة لتشغيل ملفات الصوت أو الفيديو على هذه الصفحة. يرجى إعادة المحاولة لاحقًا.
+decoder-doctor-learn-how-link = اطّلع على المزيد
 
 ## Password save/update panel
 
