@@ -1354,6 +1354,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Povolit DRM
+    .accesskey = P
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } instaluje součásti potřebné pro přehrání audia nebo videa na této stránce. Zkuste to prosím znovu později.
 
 ## Password save/update panel
 
