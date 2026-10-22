@@ -1231,10 +1231,17 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = 启用数字版权管理（DRM）
+    .accesskey = E
 decoder-doctor-no-pulse-audio-message = 要播放音频，您可能需要安装必需的 PulseAudio 软件。
 decoder-doctor-unsupported-libavcodec-message = libavcodec 可能存在安全隐患或已不再支持，应当被更新以播放视频。
 decoder-doctor-decode-error-message = 解码媒体资源时发生错误。
+decoder-doctor-decode-warning-message = 解码媒体资源时发生可恢复的错误。
 decoder-doctor-learn-how-link = 了解如何运行
+decoder-doctor-report-issue-button =
+    .label = 反馈网站问题
+    .accesskey = R
 
 ## Password save/update panel
 
