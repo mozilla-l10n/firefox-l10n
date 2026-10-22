@@ -1354,6 +1354,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Pro přehrání audia nebo videa na této stránce musíte nejdříve povolit DRM.
 eme-notifications-drm-content-disabled-button =
     .label = Povolit DRM
     .accesskey = P
