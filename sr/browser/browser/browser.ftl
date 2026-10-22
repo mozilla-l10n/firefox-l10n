@@ -1249,10 +1249,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = О
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = За репродукцију аудио или видео снимака на овој страници потребно је да омогућите DRM.
 eme-notifications-drm-content-disabled-button =
     .label = Омогући DRM
     .accesskey = ћ
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } инсталира компоненте које су потребне да би се пустио аудио или видео на овој страници. Покушајте поново касније.
+decoder-doctor-no-codecs-linux-message = Инсталирајте потребне кодеке да бисте пустили видео.
+decoder-doctor-no-hw-acceleration-message = Да побољшате видео квалитет, можда ћете морати да инсталирате пакет Microsoft’s Media Feature.
 decoder-doctor-no-pulse-audio-message = Да пуштате аудио, можда ћете морати да инсталирате захтевани PulseAudio софтвер.
 decoder-doctor-unsupported-libavcodec-message = libavcodec је можда рањив или није подржан и требао би да се ажурира ради пуштања видеа.
 decoder-doctor-decode-error-message = Догодила се грешка приликом декодирања ресурса медије.
