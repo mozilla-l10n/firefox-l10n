@@ -251,3 +251,9 @@ places-search-downloads =
 ##
 
 places-locked-prompt = Отметки и История няма да работят, защото един от файловете на { -brand-short-name } е заключен от друго приложение. Някои от програмите за безопасност може да предизвикат такъв проблем.
+# Share is a verb here. Meaning to "Share" the bookmark "Folder"
+# .badge used to promote the sharing menu item; keep it as short as possible.
+places-share-folder3 =
+    .badge = Новo
+    .label = Споделяне на папка
+    .accesskey = С

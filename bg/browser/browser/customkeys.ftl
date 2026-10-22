@@ -8,6 +8,11 @@
 customkeys-title = Клавишни комбинации
 customkeys-view-add-split-view = Добавяне на разделен изглед
 customkeys-category-navigation = Навигация
+customkeys-nav-back = Назад
+customkeys-nav-forward = Напред
+customkeys-nav-home = Начало
+customkeys-nav-reload = Презареждане
+customkeys-nav-reload-skip-cache = Презареждане (замяна на кеша)
 customkeys-category-navigation-2 =
     .heading = Навигация
 

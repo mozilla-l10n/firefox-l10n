@@ -491,6 +491,8 @@ newtab-weather-menu-change-temperature-units-celsius = Превключване 
 newtab-weather-menu-learn-more = Научете повече
 # This message is shown if user is working offline
 newtab-weather-error-not-available = В момента няма данни за времето.
+# We'll be showing static (fake) weather data if the user has not opted in to using their location
+newtab-weather-static-city = Ню Йорк
 
 ## Topic Labels
 
@@ -535,6 +537,9 @@ newtab-custom-wallpaper-cta = Опитайте
 
 ## Strings for task / to-do list productivity widget
 
+# A simple label next to the default list name letting users know this is a new / beta feature
+newtab-widget-lists-label-new =
+    .label = Ново
 newtab-widget-task-list-menu-copy = Копиране
 newtab-widget-lists-menu-delete = Изтриване на този списък
 newtab-widget-lists-menu-learn-more = Научете повече
@@ -553,6 +558,12 @@ newtab-sports-widget-done-button =
 
 ## Strings for the Clock widget
 
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .aria-label = Добавяне на часовник
+    .title = Добавяне на часовник
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Ню Йорк
