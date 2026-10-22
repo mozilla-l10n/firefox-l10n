@@ -1091,6 +1091,15 @@ decoder-doctor-learn-how-link = Barrachd fiosrachaidh
 decoder-doctor-report-issue-button =
     .label = Dèan aithris air duilgheadas leis an làrach
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Thuislich am plugan { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = Ath-luchdaich an duilleag
+    .accesskey = t
+plugin-crashed-notification-submit-button =
+    .label = Cuir a-steach aithisg tuislidh
+    .accesskey = s
 
 ## Password save/update panel
 
