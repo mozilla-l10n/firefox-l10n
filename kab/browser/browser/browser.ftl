@@ -1049,6 +1049,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+decoder-doctor-decode-warning-message = Tella-d tuccḍa yettwaseɣtayen deg ukestengel n teɣbalut n teɣwalt.
+decoder-doctor-report-issue-button =
+    .label = Azen ugur ɣef usmel
+    .accesskey = Z
 
 ## Password save/update panel
 
