@@ -41,3 +41,7 @@ customize-mode-downloads-button-autohide =
 
 customize-mode-toolbarspring =
     .title = Fleksibilan razmak
+customize-mode-toolbarseparator =
+    .title = Linija razgraničenja
+customize-mode-toolbarspacer =
+    .title = Razmak

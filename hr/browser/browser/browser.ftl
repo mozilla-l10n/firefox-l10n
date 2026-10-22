@@ -1087,9 +1087,37 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grupe kartica
     .tooltiptext = Prikaži svoje grupe kartica
+toolbar-button-history =
+    .label = Povijest
+    .tooltiptext = Prikaži tvoju povijest ({ $shortcut })
+toolbar-button-find =
+    .label = Pronađi
+    .tooltiptext = Pronađi na ovoj stranici ({ $shortcut })
+toolbar-button-developer =
+    .label = Programer
+    .tooltiptext = Otvori alate za web programere ({ $shortcut })
+toolbar-button-forget =
+    .label = Zaboravi
+    .tooltiptext = Zaboravi neke dijelove povijesti pregledavanja
 toolbar-zoom-controls =
     .label = Kontrole zumiranja
     .title = Kontrole zumiranja
+toolbar-button-zoom-out =
+    .label = Umanji
+    .tooltiptext = Umanji ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Resetiraj zumiranje ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Uvećaj
+    .tooltiptext = Uvećaj ({ $shortcut })
+toolbar-edit-controls =
+    .label = Kontrole uređivanja
+    .title = Uredi kontrole
+toolbar-button-cut =
+    .label = Izreži
+    .tooltiptext = Izreži ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopiraj
+    .tooltiptext = Kopiraj ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
