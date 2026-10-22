@@ -1229,6 +1229,16 @@ toolbar-button-developer =
 toolbar-button-forget =
     .label = Elfelejtés
     .tooltiptext = Böngészési előzmények elfelejtése
+toolbar-zoom-controls =
+    .label = Nagyítás
+    .title = Nagyítás
+toolbar-button-zoom-out =
+    .label = Kicsinyítés
+    .tooltiptext = Kicsinyítés ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Nagyítási szint visszaállítása ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Nagyítás
+    .tooltiptext = Nagyítás ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
