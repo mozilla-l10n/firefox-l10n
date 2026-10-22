@@ -642,6 +642,11 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Ye maun enable DRM fur tae pley some soond or video on this page.
+eme-notifications-drm-content-disabled-button =
+    .label = Enable DRM
+    .accesskey = E
+decoder-doctor-decode-warning-message = A tholeable mishanter tuik place while decodin a media resoorce.
 
 ## Password save/update panel
 
