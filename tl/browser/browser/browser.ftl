@@ -695,6 +695,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+decoder-doctor-decode-warning-message = Isang recoverable na error ang naganap habang nagde-decode sa pinagkukuhanan ng media.
+decoder-doctor-report-issue-button =
+    .label = Mag-report ng Issue sa Site
+    .accesskey = R
 
 ## Password save/update panel
 
