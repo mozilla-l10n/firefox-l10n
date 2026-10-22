@@ -36,3 +36,12 @@ customize-mode-touchbar-cmd =
     .label = ᱡᱚᱴᱮᱫ ᱵᱟᱨ ᱠᱚᱥᱴᱚᱢᱟᱭᱤᱡᱽ ᱢᱮ…
 customize-mode-downloads-button-autohide =
     .label = ᱠᱷᱟᱹᱞᱤ ᱡᱷᱚᱜ ᱵᱩᱛᱟᱹᱢ ᱩᱠᱩᱭ ᱢᱮ
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = ᱞᱚᱪᱞᱟ ᱠᱷᱟᱹᱞᱤ ᱡᱟᱭᱜᱟ
+customize-mode-toolbarseparator =
+    .title = ᱵᱷᱮᱜᱟᱨ ᱚᱪᱚᱣᱟᱜ
+customize-mode-toolbarspacer =
+    .title = ᱟᱲᱟᱜ ᱡᱟᱭᱜᱟ
