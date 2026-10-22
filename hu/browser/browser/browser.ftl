@@ -1270,6 +1270,21 @@ eme-notifications-drm-content-playing-dismiss-accesskey = E
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Az oldalon lévő egyes hangok vagy videók lejátszásához engedélyezni kell a DRM-et.
+eme-notifications-drm-content-disabled-button =
+    .label = DRM engedélyezése
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = A { -brand-short-name } az oldalon lévő hangok vagy videók lejátszásához szükséges összetevőket telepít. Próbálja újra később.
+decoder-doctor-no-codecs-linux-message = Videolejátszáshoz szükség lehet a szükséges videokodekek telepítésére.
+decoder-doctor-no-hw-acceleration-message = A videominőség javításához szükség lehet a Microsoft Media Feature Pack telepítésére.
+decoder-doctor-no-pulse-audio-message = Hanglejátszáshoz szükség lehet a szükséges PulseAudio szoftver telepítésére.
+decoder-doctor-unsupported-libavcodec-message = A libavcodec sebezhető lehet, vagy nem támogatott, és frissíteni kell a videolejátszáshoz.
+decoder-doctor-decode-error-message = Hiba történt a média-erőforrás dekódolása közben.
+decoder-doctor-decode-warning-message = Helyrehozható hiba történt a média-erőforrás dekódolása közben.
+decoder-doctor-learn-how-link = Tudja meg, hogyan
+decoder-doctor-report-issue-button =
+    .label = Hibás webhely bejelentése
+    .accesskey = j
 
 ## Password save/update panel
 
