@@ -709,6 +709,15 @@ decoder-doctor-learn-how-link = Alamin kung paano
 decoder-doctor-report-issue-button =
     .label = Mag-report ng Issue sa Site
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Nag-crash ang plugin na { $pluginName }.
+plugin-crashed-notification-reload-button =
+    .label = i-Reload ang pahina
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Magpasa ng crash report
+    .accesskey = S
 
 ## Password save/update panel
 
