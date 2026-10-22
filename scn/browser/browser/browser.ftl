@@ -485,6 +485,20 @@ toolbar-button-paste =
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Attiva DRM
+    .accesskey = E
+decoder-doctor-decode-warning-message = Cci fu nu sbagghiu ricupiràbbili mentri chi dicudificava na risursa murtimidiali.
+decoder-doctor-learn-how-link = Vidi comu
+decoder-doctor-report-issue-button =
+    .label = Signalija un prubblema cû situ
+    .accesskey = R
+plugin-crashed-notification-reload-button =
+    .label = Càrrica arrè a pàggina
+    .accesskey = C
+plugin-crashed-notification-submit-button =
+    .label = Manna na signalijazzioni di bloccu
+    .accesskey = M
 
 ## Password save/update panel
 
