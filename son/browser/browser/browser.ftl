@@ -355,6 +355,15 @@ eme-notifications-drm-content-playing = Jinde wala widewo foo interneti nungoo w
 
 ## Notification bars for media playback issues
 
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } sukaroo kaŋ.
+plugin-crashed-notification-reload-button =
+    .label = Moo dam taaga
+    .accesskey = M
+plugin-crashed-notification-submit-button =
+    .label = Kaŋyan bayrandi sanba
+    .accesskey = s
 
 ## Password save/update panel
 
