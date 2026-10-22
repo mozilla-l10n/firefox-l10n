@@ -424,6 +424,9 @@ eme-notifications-drm-content-playing = આ સાઇટ પરના કેટ�
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = સક્રિય DRM
+    .accesskey = E
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } આ પૃષ્ઠ પર ઑડિઓ અથવા વિડિઓ ચલાવવા માટે જરૂરી ઘટકો ઇન્સ્ટોલ કરી રહ્યું છે. પછીથી ફરી પ્રયત્ન કરો.
 decoder-doctor-no-codecs-linux-message = વિડિઓ ચલાવવા માટે, તમારે આવશ્યક વિડિઓ કોડેક્સ ઇન્સ્ટોલ કરવાની જરૂર પડી શકે છે.
 decoder-doctor-no-hw-acceleration-message = વિડિઓ ગુણવત્તા સુધારવા માટે, તમારે Microsoft ના મીડિયા સુવિધા પૅકને ઇન્સ્ટોલ કરવાની જરૂર પડી શકે છે.
