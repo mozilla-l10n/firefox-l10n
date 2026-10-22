@@ -1269,6 +1269,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = g
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Du måste aktivera DRM för att spela upp ljud eller video på den här sidan.
+eme-notifications-drm-content-disabled-button =
+    .label = Aktivera DRM
+    .accesskey = A
+decoder-doctor-no-codecs-linux-message = För att spela upp video, kan du behöva installera nödvändiga video-codec.
+decoder-doctor-no-hw-acceleration-message = För att förbättra videokvaliteten, kan du behöva installera Microsofts Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Att spela upp ljud, kan du behöva installera PulseAudio programvara som krävs.
+decoder-doctor-unsupported-libavcodec-message = libavcodec kan vara sårbar eller stöds inte och bör uppdateras för att spela upp video.
+decoder-doctor-decode-error-message = Ett fel uppstod vid avkodning en mediaresurs.
+decoder-doctor-decode-warning-message = Ett återhämtningsbart fel uppstod vid avkodning en mediaresurs.
+decoder-doctor-learn-how-link = Lär dig hur
+decoder-doctor-report-issue-button =
+    .label = Rapportera webbplatsproblem
+    .accesskey = R
 
 ## Password save/update panel
 
