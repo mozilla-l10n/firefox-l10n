@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Eolas faoin suíomh
 
@@ -265,6 +268,9 @@ browser-window-maximize-button =
 browser-window-close-button =
     .tooltiptext = Dún
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-speaker-icon =
@@ -278,6 +284,9 @@ popup-all-windows-shared = Comhroinnfear gach fuinneog infheicthe ar do scáile�
 
 sharing-warning-proceed-to-tab =
     .label = Lean ar aghaidh go Cluaisín
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -375,6 +384,18 @@ urlbar-result-action-copy-to-clipboard = Cóipeáil
 # The string returned for an undefined calculator result such as when dividing by 0
 urlbar-result-action-undefined-calculator-result = gan sainmhíniú
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -427,6 +448,9 @@ urlbar-result-action-switch-to-tabgroup = Athraigh go { $group }
 # Label for a quickaction result used to re-opan a saved tab group.
 #  $group (String): the name of the tab group to re-open
 urlbar-result-action-open-saved-tabgroup = Oscail { $group }
+
+## Used in the menu of a urlbar result.
+
 
 ## Labels shown above groups of urlbar results
 
@@ -508,6 +532,11 @@ bookmarks-other-bookmarks-menu =
 bookmarks-mobile-bookmarks-menu =
     .label = Leabharmharcanna Soghluaiste
 
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+
 ##
 
 bookmarks-search =
@@ -533,7 +562,11 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Leabharmharcanna
 
-##
+## Repair text encoding toolbar button
+
+
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -568,6 +601,19 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Fuinneog Nua Phríobháideach
     .tooltiptext = Oscail Fuinneog Nua Phríobháideach ({ $shortcut })
+toolbar-button-history =
+    .label = Stair
+    .tooltiptext = Taispeáin an stair ({ $shortcut })
+toolbar-button-find =
+    .label = Aimsigh
+    .tooltiptext = Aimsigh sa leathanach seo ({ $shortcut })
+toolbar-button-forget =
+    .label = Déan Dearmad
+    .tooltiptext = Déan dearmad ar chuid den stair bhrabhsála
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -575,6 +621,9 @@ eme-notifications-drm-content-playing = Baineann roinnt comhad fuaime nó físe 
 eme-notifications-drm-content-playing-manage = Bainistigh na socruithe
 eme-notifications-drm-content-playing-dismiss = Ruaig
 eme-notifications-drm-content-playing-dismiss-accesskey = R
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -591,13 +640,24 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Dún
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
 
 picture-in-picture-hide-toggle =
     .label = Folaigh an Scoránú Pictiúr-i-bPictiúr
     .accesskey = F
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -630,9 +690,22 @@ tabs-toolbar-list-all-tabs =
     .label = Liostaigh gach cluaisín
     .tooltiptext = Liostaigh gach cluaisín
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
 ## Infobar shown at startup to suggest session-restore
 
 restore-session-startup-suggestion-button = Taispeáin dom conas
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -678,6 +751,10 @@ reset-pbm-panel-cancel-button =
     .label = Cealaigh
     .accesskey = C
 
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Níor lig { -brand-short-name } don leathanach seo athlódáil go huathoibríoch.
@@ -685,6 +762,9 @@ refresh-blocked-redirect-label = Níor lig { -brand-short-name } don leathanach 
 refresh-blocked-allow =
     .label = Ceadaigh
     .accesskey = A
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -723,6 +803,29 @@ popup-show-popup-menuitem =
 
 ## File-picker crash notification ("FilePickerCrashed.sys.mjs")
 
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Taispeáin san Fhillteán
     .accessKey = F
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
