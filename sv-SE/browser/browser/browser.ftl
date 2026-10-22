@@ -1273,6 +1273,7 @@ eme-notifications-drm-content-disabled-message = Du måste aktivera DRM för att
 eme-notifications-drm-content-disabled-button =
     .label = Aktivera DRM
     .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installerar komponenter som krävs för att spela ljud eller video på denna sida. Försök igen senare.
 decoder-doctor-no-codecs-linux-message = För att spela upp video, kan du behöva installera nödvändiga video-codec.
 decoder-doctor-no-hw-acceleration-message = För att förbättra videokvaliteten, kan du behöva installera Microsofts Media Feature Pack.
 decoder-doctor-no-pulse-audio-message = Att spela upp ljud, kan du behöva installera PulseAudio programvara som krävs.
