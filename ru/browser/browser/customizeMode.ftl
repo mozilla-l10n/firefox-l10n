@@ -38,3 +38,10 @@ customize-mode-touchbar-cmd =
     .label = Настроить сенсорную панель…
 customize-mode-downloads-button-autohide =
     .label = Скрывать кнопку, когда нет загрузок
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarseparator =
+    .title = Разделитель
+customize-mode-toolbarspacer =
+    .title = Пробел
