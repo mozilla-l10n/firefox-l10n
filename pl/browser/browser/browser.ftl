@@ -65,6 +65,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Udostępnij…
     .accesskey = U
+
+##
+
 urlbar-identity-button =
     .aria-label = Wyświetl informacje o stronie
 
@@ -759,6 +762,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorowane
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = zapytaj
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1154,7 +1162,8 @@ repair-text-encoding-button =
     .label = Napraw kodowanie tekstu
     .tooltiptext = Spróbuj wykryć właściwe kodowanie tekstu na podstawie treści strony
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1217,6 +1226,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grupy kart
     .tooltiptext = Wyświetl grupy kart
+toolbar-button-history =
+    .label = Historia
+    .tooltiptext = Wyświetl historię ({ $shortcut })
+toolbar-button-find =
+    .label = Znajdź
+    .tooltiptext = Znajdź na tej stronie ({ $shortcut })
+toolbar-button-developer =
+    .label = Narzędzia
+    .tooltiptext = Otwórz narzędzia dla twórców witryn ({ $shortcut })
+toolbar-button-forget =
+    .label = Wyczyść
+    .tooltiptext = Wyczyść ostatnią historię przeglądania
+toolbar-zoom-controls =
+    .label = Zmiana rozmiaru
+    .title = Zmiana rozmiaru
+toolbar-button-zoom-out =
+    .label = Pomniejsz
+    .tooltiptext = Pomniejsz ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Przywróć oryginalny rozmiar ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Powiększ
+    .tooltiptext = Powiększ ({ $shortcut })
+toolbar-edit-controls =
+    .label = Narzędzia edycji
+    .title = Narzędzia edycji
+toolbar-button-cut =
+    .label = Wytnij
+    .tooltiptext = Wytnij ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopiuj
+    .tooltiptext = Kopiuj ({ $shortcut })
+toolbar-button-paste =
+    .label = Wklej
+    .tooltiptext = Wklej ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1233,6 +1276,9 @@ eme-notifications-drm-content-playing-manage = Ustawienia
 eme-notifications-drm-content-playing-manage-accesskey = U
 eme-notifications-drm-content-playing-dismiss = Zamknij
 eme-notifications-drm-content-playing-dismiss-accesskey = Z
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1285,6 +1331,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = O
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1552,6 +1601,13 @@ file-picker-crashed-open = Okno wyboru pliku systemu Windows uległo awarii. Nie
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Okno wyboru pliku systemu Windows uległo awarii. Plik zostanie zapisany jako { $path }.
 file-picker-crashed-save-nowhere = Okno wyboru pliku systemu Windows uległo awarii. Nie można odnaleźć żadnego folderu domyślnego. Plik nie zostanie zapisany.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Pokaż w folderze
     .accessKey = P
@@ -1604,6 +1660,9 @@ trustpanel-blocker-see-all = Pokaż wszystko
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Ochrona przed śledzeniem na witrynie { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
