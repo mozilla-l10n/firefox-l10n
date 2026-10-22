@@ -1293,6 +1293,7 @@ eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } nam
 decoder-doctor-no-codecs-linux-message = Za predvajanje videoposnetka boste morda morali namestiti zahtevane videokodeke.
 decoder-doctor-no-hw-acceleration-message = Za izboljšanje kakovosti slike boste morda morali namestiti Microsoftov paket predstavnostnih funkcij.
 decoder-doctor-no-pulse-audio-message = Za predvajanje zvoka boste morda morali namestiti zahtevano programsko opremo PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec je morda ranljiv ali ni posodobljen. Posodobite ga za predvajanje videoposnetkov.
 
 ## Password save/update panel
 
