@@ -1275,6 +1275,7 @@ decoder-doctor-no-codecs-linux-message = For å spille av videoer må du install
 decoder-doctor-no-hw-acceleration-message = For å forbedre videokvalitet må du kanskje installere Microsofts Media Feature Pack.
 decoder-doctor-no-pulse-audio-message = For å spille av lyd, må du kanskje installere den påkrevde PulseAudio-programvaren.
 decoder-doctor-unsupported-libavcodec-message = libavcode kan være sårbart eller ikke støttet, og burde oppdateres for å spille video.
+decoder-doctor-decode-error-message = Det oppstod en feil under dekoding av en medieressurs.
 decoder-doctor-decode-warning-message = En gjenopprettelig feil oppstod ved dekoding av en medieressurs.
 decoder-doctor-learn-how-link = Finn ut hvordan
 decoder-doctor-report-issue-button =
