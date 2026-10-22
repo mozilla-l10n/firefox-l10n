@@ -441,6 +441,20 @@ eme-notifications-drm-content-playing = Yoga e ojooji e widewooji ndee lowre ena
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Hurmin DRM
+    .accesskey = H
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } nana aafa komponne coklaaɗe ngam heɗaade ojoo walla widewoo e ngoo hello. Tiiɗno eto kadi yeeso.
+decoder-doctor-no-codecs-linux-message = Ngam tarde widewoo, aɗa waawi soklude aafde kodekke baɗɗiiɗe ɗee.
+decoder-doctor-no-hw-acceleration-message = Ngam ƴelitde moƴƴugol widewoo, aɗa waawi soklude aafde Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Ngam tarde ojoo, aɗa waawi soklude aafde topirde PulseAudio ndee.
+decoder-doctor-unsupported-libavcodec-message = libavcodec ena waawi yaafde kisal walla tammbitaaka, tee ena foti hesɗitineede ngam tarde widewoo.
+decoder-doctor-decode-error-message = Juumre kewii e piɓtugol kod keɓal tammbol.
+decoder-doctor-decode-warning-message = Juumre safrotoonde kewii e piɓtugol kod keɓal keewtambiwal.
+decoder-doctor-learn-how-link = Humpito no wairtee
+decoder-doctor-report-issue-button =
+    .label = Jangto Caɗe Lowre
+    .accesskey = L
 
 ## Password save/update panel
 
