@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = ש
 text-action-search-text-box-clear =
     .title = ניקוי
+text-action-highlight-selection-2 =
+    .label = הדגשת הבחירה
+    .accesskey = ה
 text-action-highlight-selection =
     .label = הדגשת הבחירה
 # This adds a comment to selected text within the PDF viewer.
