@@ -690,6 +690,7 @@ eme-notifications-drm-content-disabled-message = Trza załōnczyć DRM, coby pus
 eme-notifications-drm-content-disabled-button =
     .label = Załōncz DRM
     .accesskey = Z
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } insztaluje elymynta potrzebne do puszczanio na tyj strōnie klangu abo filmōw. Sprōbuj zaś niyskorzij.
 decoder-doctor-no-codecs-linux-message = Coby puścić video, możno bydzie trza zainsztalować potrzebne kodeki.
 decoder-doctor-no-hw-acceleration-message = Copy polepszyć jakość video, możno bydzie trza zainsztalować Media Feature Pack ôd Microsoftu.
 decoder-doctor-no-pulse-audio-message = Coby puścić klang, możno bydzie trza zainsztalować software PulseAudio.
