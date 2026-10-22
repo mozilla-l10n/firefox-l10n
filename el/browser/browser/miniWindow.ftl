@@ -20,6 +20,10 @@ mini-window-audio-unmute =
 ## These strings label the buttons on the Screenshots selection overlay while
 ## it is being used to pick the region for a Mini Window.
 
+# Moves the tab to a Mini Window which frames the selected area of the page.
+screenshots-component-mini-window-button = Μετακίνηση σε μίνι παράθυρο
+    .aria-label = Μετακίνηση σε μίνι παράθυρο
+    .title = Μετακίνηση σε μίνι παράθυρο
 # Dismisses the Mini Window selection overlay without moving the tab.
 screenshots-component-mini-window-cancel-button = Ακύρωση
     .aria-label = Ακύρωση
@@ -32,6 +36,25 @@ screenshots-component-mini-window-cancel-button = Ακύρωση
 screenshots-component-reselect-button = Νέα επιλογή
     .aria-label = Νέα επιλογή
     .title = Νέα επιλογή
+# Opens a selection tool to select a section of a page to
+# open in a smaller window to appear cropped and always on top.
+toolbar-button-mini-window =
+    .label = Μίνι παράθυρο
+    .tooltiptext = Χρήση μίνι παραθύρου
+# Opens up the Mini Window section selector tool.
+main-context-menu-use-mini-window =
+    .label = Μετακίνηση ενότητας σε μίνι παράθυρο
+    .accesskey = θ
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] Μετακίνηση σε μίνι παράθυρο
+           *[other] Μετακίνηση σε μίνι παράθυρα
+        }
+    .accesskey = Μ
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
