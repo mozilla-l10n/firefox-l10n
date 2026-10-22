@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = ภ
 text-action-search-text-box-clear =
     .title = ล้าง
+text-action-highlight-selection-2 =
+    .label = เน้นสีส่วนที่เลือก
+    .accesskey = เ
 text-action-highlight-selection =
     .label = เน้นสีส่วนที่เลือก
 # This adds a comment to selected text within the PDF viewer.
