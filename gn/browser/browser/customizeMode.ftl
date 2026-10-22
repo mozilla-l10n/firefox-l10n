@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Eñemomba’e pokogua rendáre…
 customize-mode-downloads-button-autohide =
     .label = Eñomi votõ inandi jave
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Pa’ũ Ikangýva
+customize-mode-toolbarseparator =
+    .title = Mopa’ũha
+customize-mode-toolbarspacer =
+    .title = Pa’ũ
