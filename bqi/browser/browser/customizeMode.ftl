@@ -36,3 +36,10 @@ customize-mode-touchbar-cmd =
     .label = سفارشی کردن نوار لمسی…
 customize-mode-downloads-button-autohide =
     .label = بؽڌار کردن دویمه مجال پتی بیڌن
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = جاگه انعتاف پزیر
+customize-mode-toolbarspacer =
+    .title = فاسله
