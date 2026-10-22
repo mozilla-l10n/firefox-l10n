@@ -1253,6 +1253,14 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = 您必須開啟 DRM 才能播放此頁面中的某些影音內容。
+eme-notifications-drm-content-disabled-button =
+    .label = 開啟 DRM
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } 正在安裝讓您播放此頁面中的影音內容的元件，請稍後再試。
+decoder-doctor-no-codecs-linux-message = 您可能需要安裝必須的視訊解碼器才能播放影片。
+decoder-doctor-no-hw-acceleration-message = 若要改善影片播放品質，您可能需要安裝微軟的 Media Feature Pack。
+decoder-doctor-learn-how-link = 了解要怎麼做
 
 ## Password save/update panel
 
