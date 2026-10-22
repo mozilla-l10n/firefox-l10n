@@ -37,3 +37,7 @@ customize-mode-downloads-button-autohide =
 
 customize-mode-toolbarspring =
     .title = Flexible na Puwang
+customize-mode-toolbarseparator =
+    .title = Panghiwalay
+customize-mode-toolbarspacer =
+    .title = Puwang
