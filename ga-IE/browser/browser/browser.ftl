@@ -607,9 +607,34 @@ toolbar-button-history =
 toolbar-button-find =
     .label = Aimsigh
     .tooltiptext = Aimsigh sa leathanach seo ({ $shortcut })
+toolbar-button-developer =
+    .label = Forbróir
+    .tooltiptext = Oscail na huirlisí forbartha Gréasáin ({ $shortcut })
 toolbar-button-forget =
     .label = Déan Dearmad
     .tooltiptext = Déan dearmad ar chuid den stair bhrabhsála
+toolbar-zoom-controls =
+    .label = Rialtáin Súmála
+    .title = Rialtáin súmála
+toolbar-button-zoom-out =
+    .label = Súmáil amach
+    .tooltiptext = Súmáil amach ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Athshocraigh leibhéal súmála ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Súmáil isteach
+    .tooltiptext = Súmáil isteach ({ $shortcut })
+toolbar-edit-controls =
+    .label = Cuir Rialtáin in Eagar
+    .title = Cuir rialtáin in eagar
+toolbar-button-cut =
+    .label = Gearr
+    .tooltiptext = Gearr ({ $shortcut })
+toolbar-button-copy =
+    .label = Cóipeáil
+    .tooltiptext = Cóipeáil ({ $shortcut })
+toolbar-button-paste =
+    .label = Greamaigh
+    .tooltiptext = Greamaigh ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
