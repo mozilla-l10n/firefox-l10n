@@ -1270,10 +1270,14 @@ eme-notifications-drm-content-playing-dismiss-accesskey = S
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Jo moatte DRM ynskeakelje om bepaalde audio of fideo op dizze side ôf te spyljen.
 eme-notifications-drm-content-disabled-button =
     .label = DRM ynskeakelje
     .accesskey = D
 eme-notifications-drm-content-cdm-installing-message = Om de audio of fideo op dizze side ôf te spyljen ynstallearret { -brand-short-name } de nedige komponinten. Probearje it letter opnij.
+decoder-doctor-no-codecs-linux-message = Om fideo ôf te spyljen, moatte jo mooglik de fereaske fideocodecs ynstallearje.
+decoder-doctor-no-hw-acceleration-message = Om de fideokwaliteit te ferbetterjen, moatte jo mooglik Microsoft’s Media Feature Pack ynstallearje.
+decoder-doctor-learn-how-link = Mear ynfo
 
 ## Password save/update panel
 
