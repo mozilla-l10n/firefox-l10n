@@ -1235,6 +1235,7 @@ eme-notifications-drm-content-disabled-message = 您必须启用 DRM 才能播�
 eme-notifications-drm-content-disabled-button =
     .label = 启用数字版权管理（DRM）
     .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } 正在安装组件，以便播放此页面上的音频或视频。请稍后再试。
 decoder-doctor-no-pulse-audio-message = 要播放音频，您可能需要安装必需的 PulseAudio 软件。
 decoder-doctor-unsupported-libavcodec-message = libavcodec 可能存在安全隐患或已不再支持，应当被更新以播放视频。
 decoder-doctor-decode-error-message = 解码媒体资源时发生错误。
