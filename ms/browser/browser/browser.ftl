@@ -797,6 +797,10 @@ eme-notifications-drm-content-playing = Beberapa audio atau video pada laman ini
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } sedang memasang komponen yang diperlukan untuk memainkan audio atau video pada laman ini. Sila cuba lagi kemudian.
+decoder-doctor-no-codecs-linux-message = Untuk memainkan video, anda mungkin perlu memasang kodek video yang diperlukan.
+decoder-doctor-no-hw-acceleration-message = Untuk memainkan video, anda mungkin perlu memasang Ciri Media Pek Microsoft.
+decoder-doctor-learn-how-link = Ketahui caranya
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = Plugin { $pluginName } telah ranap.
