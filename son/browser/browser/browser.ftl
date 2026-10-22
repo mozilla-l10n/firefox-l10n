@@ -355,6 +355,20 @@ eme-notifications-drm-content-playing = Jinde wala widewo foo interneti nungoo w
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM tunandi
+    .accesskey = t
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } goo ma jere-izeyaŋ sinji kaŋ ga too jinde wala widewo ma hẽe moɲoo ga. Ceeci koyne hiino.
+decoder-doctor-no-codecs-linux-message = Ka widewo hẽenandi, war ga hima ka widewo jišikaw waažibantey sinji.
+decoder-doctor-no-hw-acceleration-message = Ka widewo hennandi ka tonton, war ga hima ka Microsoft Media Feature Pack sinji.
+decoder-doctor-no-pulse-audio-message = Ka jinde hẽenandi, war ga hima ka PulseAudio goyjinay waažibantaa sinji.
+decoder-doctor-unsupported-libavcodec-message = libavcodec ga hin ka yalaafu wal'a ši kanbandi, nd'a ga hima ka taagandi ka widewo hẽenandi.
+decoder-doctor-decode-error-message = Firka bangay kaŋ alhabar goyjinay goo ma feerandi.
+decoder-doctor-decode-warning-message = Firkaa kaŋ bangay kaŋ alhabar goyjinay ga feerandi ga hin ka hanse.
+decoder-doctor-learn-how-link = Caw ka bay
+decoder-doctor-report-issue-button =
+    .label = Nungu šenday bayrandi
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = { $pluginName } sukaroo kaŋ.
