@@ -1285,6 +1285,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Omogoči DRM
+    .accesskey = O
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } namešča komponente, ki so potrebne za predvajanje zvoka ali videa na tej strani. Poskusite znova pozneje.
 
 ## Password save/update panel
 
