@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver la información del sitiu
 
@@ -73,6 +76,9 @@ clear-search-history =
     .label = Llimpiar l'historial de busques
     .accesskey = h
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -122,6 +128,11 @@ search-one-offs-tabs =
     .tooltiptext = Llingüetes ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historial ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -227,6 +238,12 @@ popup-select-window-or-screen =
     .accesskey = V
 popup-all-windows-shared = Van compartise toles ventanes visibles de la pantalla.
 
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
+
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -261,6 +278,18 @@ urlbar-result-action-switch-tab = Dir pa la llingüeta
 #  (e.g. Amazon).
 urlbar-result-action-tabtosearch-other-engine = Buscar en «{ $engine }» direutamente dende la barra de direiciones
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Marcadores
@@ -273,6 +302,12 @@ urlbar-searchmode-history4 = Historial
 
 urlbar-result-action-search-bookmarks = Buscar nos marcadores
 
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -281,6 +316,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Zarrar la Vista de Llector
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -348,7 +388,11 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Marcadores
 
-##
+## Repair text encoding toolbar button
+
+
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -383,6 +427,44 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = Ventana privada nueva
     .tooltiptext = Abre una ventana nueva de Restolar en Privao ({ $shortcut })
+toolbar-button-history =
+    .label = Historial
+    .tooltiptext = Amuesa l'historial ({ $shortcut })
+toolbar-button-find =
+    .label = Atopar
+    .tooltiptext = Atopa nesta páxina ({ $shortcut })
+toolbar-button-developer =
+    .label = Desendolcador
+    .tooltiptext = Abre les DevTools web ({ $shortcut })
+toolbar-button-forget =
+    .label = Escaecer
+    .tooltiptext = Escaez parte del historial de restolar
+toolbar-zoom-controls =
+    .label = Controles del zoom
+    .title = Los controles del zoom
+toolbar-button-zoom-out =
+    .label = Alloñar
+    .tooltiptext = Alloña ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Reafita'l nivel del zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Averar
+    .tooltiptext = Avera ({ $shortcut })
+toolbar-edit-controls =
+    .label = Editar los controles
+    .title = Edita los controles
+toolbar-button-cut =
+    .label = Cortar
+    .tooltiptext = Corta ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiar
+    .tooltiptext = Copia ({ $shortcut })
+toolbar-button-paste =
+    .label = Apegar
+    .tooltiptext = Apiega ({ $shortcut })
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
 
 ## EME notification panel
 
@@ -390,6 +472,9 @@ eme-notifications-drm-content-playing-manage = Xestionar los axustes
 eme-notifications-drm-content-playing-manage-accesskey = X
 eme-notifications-drm-content-playing-dismiss = Escartar
 eme-notifications-drm-content-playing-dismiss-accesskey = E
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -404,7 +489,21 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Zarrar
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -430,13 +529,54 @@ tabs-toolbar-list-all-tabs =
     .label = Llistar toles llingüetes
     .tooltiptext = Llistar toles llingüetes
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } unvia automáticamente dalgunos datos a { -vendor-short-name } pa que podamos ameyorar la to esperiencia.
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } evitó qu'esta páxina se volviere cargar automáticamente.
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -471,3 +611,29 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Amosar «{ $popupURI }»
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
