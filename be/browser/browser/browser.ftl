@@ -1280,6 +1280,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = А
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Вы павінны ўключыць DRM, каб прайграць некаторыя аўдыё ці відэа на гэтай старонцы.
+eme-notifications-drm-content-disabled-button =
+    .label = Уключыць DRM
+    .accesskey = У
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } усталёўвае кампаненты, неабходныя для прайгравання аўдыё або відэа на гэтай старонцы. Калі ласка, паўтарыце спробу пазней.
+decoder-doctor-no-codecs-linux-message = Для прайгравання відэа вам можа спатрэбіцца ўсталяванне неабходных відэакодэкаў.
+decoder-doctor-no-hw-acceleration-message = Для паляпшэння якасці відэа вам можа спатрэбіцца Media Feature Pack ад Microsoft.
+decoder-doctor-no-pulse-audio-message = Для прайгравання аўдыё вам можа спатрэбіцца неабходнае праграмнае забеспячэнне PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec можа быць пашкоджаны ці не падтрымліваецца, і павінен быць абноўлены для прайгравання відэа.
+decoder-doctor-decode-error-message = Пры дэкадаванні медыя адбылася памылка.
+decoder-doctor-decode-warning-message = Пры дэкадаванні медыя адбылася памылка, якую можна выправіць.
+decoder-doctor-report-issue-button =
+    .label = Паведаміць аб праблеме з сайтам
+    .accesskey = П
 
 ## Password save/update panel
 
