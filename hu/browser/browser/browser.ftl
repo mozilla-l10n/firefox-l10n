@@ -1285,6 +1285,15 @@ decoder-doctor-learn-how-link = Tudja meg, hogyan
 decoder-doctor-report-issue-button =
     .label = Hibás webhely bejelentése
     .accesskey = j
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = A(z) { $pluginName } bővítmény összeomlott.
+plugin-crashed-notification-reload-button =
+    .label = Újratöltés
+    .accesskey = r
+plugin-crashed-notification-submit-button =
+    .label = Hibajelentés küldése
+    .accesskey = H
 
 ## Password save/update panel
 
