@@ -420,6 +420,20 @@ eme-notifications-drm-content-playing = Bu sayttaki bazı audio yaki video DRM y
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM Qabil Olsun
+    .accesskey = O
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } bu saifedeki audio ve videonı oynatmaq içün kerekli komponentlerni qura. Lütfen soñra yañıdan deñeñiz.
+decoder-doctor-no-codecs-linux-message = Video oynatmaq içün şart olğan video kodeklerini belki qurmañız kerekir.
+decoder-doctor-no-hw-acceleration-message = Video keyfiyetini eyileştirmek içün Microsoft’nıñ Vasat Hususiyet Destesi’ni belki qurmañız kerekir.
+decoder-doctor-no-pulse-audio-message = Audionı oynatmaq içün, şart olğan PulseAudio yazılımını qurmağa ihtiyacıñız olabilir.
+decoder-doctor-unsupported-libavcodec-message = libavcodec örselenebilir yaki desteklenmey ve video oynatmaq içün yañartılması lâzim.
+decoder-doctor-decode-error-message = Bir vasat qaynağını dekodlağanda bir hata asıl oldı.
+decoder-doctor-decode-warning-message = Bir vasat qaynağını dekodlağanda qurtulınabilir bir hata asıl oldı.
+decoder-doctor-learn-how-link = Nasıl ögren
+decoder-doctor-report-issue-button =
+    .label = Sayt Mes'elesini Maruzala
+    .accesskey = M
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = { $pluginName } plagini çökkendir.
