@@ -1261,6 +1261,7 @@ eme-notifications-drm-content-disabled-message = Embojuruja DRM ehechasérõ ta�
 eme-notifications-drm-content-disabled-button =
     .label = DRM moapysẽ
     .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } omohenda tape’apo tekotevẽva ehendu hag̃ua mba’epu térã ta’ãngamýi kuatiarogue. Eha’ã jey ag̃ave.
 decoder-doctor-no-codecs-linux-message = Emboheta hag̃ua ta’ãngamýi, ikatu emohenda códec ta’ãngamýi rehegua tekotevẽva.
 decoder-doctor-no-hw-acceleration-message = Emboheta hag̃ua ta’ãngamýi, emohenda raẽta Media Feature Pack Microsoft mba’éva.
 decoder-doctor-no-pulse-audio-message = Emboheta hag̃ua mba’epu, ikatu emohenda software PulseAudio tekotevẽva.
