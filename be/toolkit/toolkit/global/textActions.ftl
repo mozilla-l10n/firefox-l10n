@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = М
 text-action-search-text-box-clear =
     .title = Ачысціць
+text-action-highlight-selection-2 =
+    .label = Падфарбаваць вылучэнне
+    .accesskey = П
 text-action-highlight-selection =
     .label = Падфарбаваць вылучэнне
 # This adds a comment to selected text within the PDF viewer.
