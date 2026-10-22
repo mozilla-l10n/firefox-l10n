@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = R
 text-action-search-text-box-clear =
     .title = Wuprozniś
+text-action-highlight-selection-2 =
+    .label = Wuběrk wuzwignuś
+    .accesskey = W
 text-action-highlight-selection =
     .label = Wuběrk wuzwignuś
 # This adds a comment to selected text within the PDF viewer.
