@@ -501,6 +501,15 @@ toolbar-button-zoom-in =
 toolbar-edit-controls =
     .label = Controls d'edición
     .title = Controls d'edición
+toolbar-button-cut =
+    .label = Retallar
+    .tooltiptext = Retallar ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiar
+    .tooltiptext = Copiar ({ $shortcut })
+toolbar-button-paste =
+    .label = Apegar
+    .tooltiptext = Apegar ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
