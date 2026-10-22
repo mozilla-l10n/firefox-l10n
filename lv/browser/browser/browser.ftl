@@ -1184,7 +1184,13 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 ## Notification bars for media playback issues
 
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } uzstāda sastāvdaļas, kas ir nepieciešamas skaņas vai video atskaņošanai šajā lapā. Lūgums vēlāk mēģināt vēlreiz.
+decoder-doctor-unsupported-libavcodec-message = libavcodec var būt nedrošs vai nav atbalstīts, to vajadzētu atjaunināt, lai atskaņotu video.
+decoder-doctor-decode-error-message = Atkodējot mēdiju resursu notikusi kļūda.
+decoder-doctor-decode-warning-message = Atkodējot mēdiju resursu notikusi apejama kļūda.
 decoder-doctor-learn-how-link = Uzziniet kā
+decoder-doctor-report-issue-button =
+    .label = Ziņot par problēmu ar lapu
+    .accesskey = R
 
 ## Password save/update panel
 
