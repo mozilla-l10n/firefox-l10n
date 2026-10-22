@@ -29,3 +29,12 @@ customize-mode-undo-cmd =
     .label = Firtu
 customize-mode-touchbar-cmd =
     .label = Heertin Touch Bar…
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Boowal lirotoongal
+customize-mode-toolbarseparator =
+    .title = Ceerndirgal
+customize-mode-toolbarspacer =
+    .title = Bayaal
