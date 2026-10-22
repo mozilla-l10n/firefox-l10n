@@ -614,6 +614,13 @@ eme-notifications-drm-content-playing-manage = Tənzimləmələri idarə et
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM Aktivləşdir
+    .accesskey = A
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } bu səhifədəki səs və videonu oynatmaq üçün lazım olan parçaları qurur. Lütfən daha sonra təkrar yoxlayın.
+decoder-doctor-no-codecs-linux-message = Videonu oynatmaq üçün tələb edilən video kodeklərini qurmağınız lazımdır.
+decoder-doctor-no-hw-acceleration-message = Video keyfiyyətini artırmaq üçün üçün Microsoft-un Media Feature Pack-ni quraşdırmağınız lazım gələ bilər.
+decoder-doctor-learn-how-link = Necə edəcəyini öyrən
 
 ## Password save/update panel
 
