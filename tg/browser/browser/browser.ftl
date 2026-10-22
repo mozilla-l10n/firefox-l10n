@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Идоракунии танзимоти равзанаҳои зоҳиршаванда ва тағйири масир аз тарафҳои сеюм…
     .accesskey = И
+
+##
+
 urlbar-identity-button =
     .aria-label = Дидани маълумот дар бораи сомона
 
@@ -697,6 +700,11 @@ urlbar-result-weather-provider-sponsored = { $provider } · Сарпарастӣ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Пурсидан
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
 ## These strings are used for Realtime suggestions in the urlbar.
 ## Market refers to stocks, indexes, and funds.
 
@@ -1017,7 +1025,8 @@ repair-text-encoding-button =
     .label = Ислоҳкунии рамзгузории матн
     .tooltiptext = Рамзгузории матни дурустро аз муҳтавои саҳифа пешниҳод мекунад
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1078,6 +1087,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Гурӯҳҳои варақаҳо
     .tooltiptext = Гурӯҳҳои варақаҳои худро нишон диҳед
+toolbar-button-history =
+    .label = Таърих
+    .tooltiptext = Намоиш додани таърихи худ ({ $shortcut })
+toolbar-button-find =
+    .label = Ҷустуҷӯ
+    .tooltiptext = Ҷустуҷӯ дар ин саҳифа ({ $shortcut })
+toolbar-button-developer =
+    .label = Барномасоз
+    .tooltiptext = Кушодани абзорҳои барномарезии сомона ({ $shortcut })
+toolbar-button-forget =
+    .label = Фаромӯш кардан
+    .tooltiptext = Фаромӯш кардани як қисми таърихи тамошо
+toolbar-zoom-controls =
+    .label = Унсурҳои идоракунии андоза
+    .title = Унсурҳои идоракунии андоза
+toolbar-button-zoom-out =
+    .label = Хурд кардан
+    .tooltiptext = Хурд кардан ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Бозсозии андозаи миқёс ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Калон кардан
+    .tooltiptext = Калон кардан ({ $shortcut })
+toolbar-edit-controls =
+    .label = Таҳрир кардани унсурҳои идоракунӣ
+    .title = Таҳрир кардани унсурҳои идоракунӣ
+toolbar-button-cut =
+    .label = Буридан
+    .tooltiptext = Буридан ({ $shortcut })
+toolbar-button-copy =
+    .label = Нусха бардоштан
+    .tooltiptext = Нусха бардоштан ({ $shortcut })
+toolbar-button-paste =
+    .label = Гузоштан
+    .tooltiptext = Гузоштан ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1094,6 +1137,9 @@ eme-notifications-drm-content-playing-manage = Идоракунии танзим
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Нодида гузарондан
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1146,6 +1192,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1192,6 +1241,13 @@ restore-session-startup-suggestion-button = Нишон медиҳад, ки чӣ
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Ташкилоти шумо ба файлҳои маҳаллӣ дар ин компютер дастрасиро манъ кард
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1268,6 +1324,10 @@ reset-pbm-panel-complete = Маълумоти ҷаласаи хусусӣ нес
 reset-pbm-toolbar-button2 =
     .label = Пок кардани ҷаласаи хусусӣ
     .tooltiptext = Пок кардани ҷаласаи хусусӣ
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1359,6 +1419,13 @@ file-picker-crashed-open = Равзанаи «Файл» дар «Windows» ва
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Файл ба «{ $path }» нигоҳ дошта мешавад.
 file-picker-crashed-save-nowhere = Равзанаи «Файл» дар «Windows» вайрон шудааст. Ягон ҷузвдон ба таври пешфарз ёфт нашуд ва файл нигоҳ дошта намешавад.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Намоиш додан дар ҷузвдон
     .accessKey = Н
@@ -1411,6 +1478,9 @@ trustpanel-blocker-see-all = Ҳамаро дидан
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Воситаҳои муҳофизат аз пайгирӣ барои { $host } фаъол аст
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
