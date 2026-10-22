@@ -1288,6 +1288,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = Z
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Dyrbiće DRM zmóžnić, zo byšće awdijodataju abo widejodataju na tutej stronje wothrał.
 eme-notifications-drm-content-disabled-button =
     .label = DRM zmóžnić
     .accesskey = z
