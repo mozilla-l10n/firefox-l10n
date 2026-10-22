@@ -40,6 +40,8 @@ customize-mode-downloads-button-autohide =
 
 ## Labels for the special items that can be added to toolbars in customize mode
 
+customize-mode-toolbarspring =
+    .title = Jalel Rukojol
 customize-mode-toolbarseparator =
     .title = Jachöy
 customize-mode-toolbarspacer =

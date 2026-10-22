@@ -916,12 +916,31 @@ toolbar-button-find =
 toolbar-button-developer =
     .label = Nuk'unel
     .tooltiptext = Rusamajib'al b'anel Ajk'amaya'l ({ $shortcut })
+toolbar-button-forget =
+    .label = Timestäx
+    .tooltiptext = Timestäx ri runatab'al okem pa k'amaya'l
+toolbar-zoom-controls =
+    .label = Taq ruchajixik pa'alem
+    .title = Taq ruchajinïk pa'alem
+toolbar-button-zoom-out =
+    .label = Ruch'utinirisaxik Rupalem
+    .tooltiptext = Nïm tzub'al ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Titz'olïx pa rupalem tzub'al ({ $shortcut })
 toolbar-button-zoom-in =
     .label = Tinimirisäx
     .tooltiptext = Tinimirisäx ({ $shortcut })
 toolbar-edit-controls =
     .label = Kenuk' ri chajinela'
     .title = Kenuk' ri chajinela'
+toolbar-button-cut =
+    .label = Tiqupïx
+    .tooltiptext = Tiqupïx ({ $shortcut })
+toolbar-button-copy =
+    .label = Tiwachib'ëx
+    .tooltiptext = Tiwachib'ëx ({ $shortcut })
+toolbar-button-paste =
+    .label = Titz'ajb'äx
+    .tooltiptext = Titz'ajb'äx ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
