@@ -1266,7 +1266,16 @@ eme-notifications-drm-content-playing-dismiss-accesskey = I
 
 ## Notification bars for media playback issues
 
+decoder-doctor-no-codecs-linux-message = For å spele av videoer må du installere påkravde video-kodekar.
+decoder-doctor-no-hw-acceleration-message = For å forbetre videokvaliteten må du kanskje installere Microsofts Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = For å spele av lyd må du installere den påkravde PulseAudio-programvara.
+decoder-doctor-unsupported-libavcodec-message = libavcode kan vere sårbar eller ikkje støtta, og burde oppdaterast for å spele video.
+decoder-doctor-decode-error-message = Det oppstod ein feil under dekoding av ein mediaressurs.
+decoder-doctor-decode-warning-message = Ved dekoding av ein mediaressurs, oppstod det ein feil som kan rettast.
 decoder-doctor-learn-how-link = Finn ut korleis
+decoder-doctor-report-issue-button =
+    .label = Rapporter problem med nettsida
+    .accesskey = R
 
 ## Password save/update panel
 
