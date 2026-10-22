@@ -519,6 +519,15 @@ decoder-doctor-learn-how-link = Nong ngec i kit yoo
 decoder-doctor-report-issue-button =
     .label = Mi ripot ikom peko me kakube
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Larwak man me { $pluginName } opoto woko.
+plugin-crashed-notification-reload-button =
+    .label = Nwo cano pot buk
+    .accesskey = N
+plugin-crashed-notification-submit-button =
+    .label = Cwal ripot me poto
+    .accesskey = C
 
 ## Password save/update panel
 
