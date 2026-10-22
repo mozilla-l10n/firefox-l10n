@@ -1196,7 +1196,11 @@ decoder-doctor-no-hw-acceleration-message = Untuk meningkatkan kualitas video, A
 decoder-doctor-no-pulse-audio-message = Untuk memutar audio, Anda mungkin harus menginstal perangkat lunak PulseAudio.
 decoder-doctor-unsupported-libavcodec-message = libavcodec mungkin rentan atau tidak didukung, dan harus diperbarui untuk memutar video.
 decoder-doctor-decode-error-message = Masalah terjadi ketika mendekode sumber daya media.
+decoder-doctor-decode-warning-message = Masalah yang bisa diperbaiki terjadi ketika mendekode sumber daya media.
 decoder-doctor-learn-how-link = Pelajari caranya
+decoder-doctor-report-issue-button =
+    .label = Laporkan Masalah Situs
+    .accesskey = L
 
 ## Password save/update panel
 
