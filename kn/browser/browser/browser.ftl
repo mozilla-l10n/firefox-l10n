@@ -385,6 +385,9 @@ eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ಈ
 decoder-doctor-no-codecs-linux-message = ವೀಡಿಯೊವನ್ನು ಪ್ಲೇ ಮಾಡಲು, ಅಗತ್ಯವಿರುವ ವೀಡಿಯೊ ಕೋಡೆಕ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಬೇಕಾಗಬಹುದು.
 decoder-doctor-no-hw-acceleration-message = ವೀಡಿಯೊದ ಗುಣಮಟ್ಟವನ್ನು ಸುಧಾರಿಸಲು, ಮೈಕ್ರೋಸಾಫ್ಟ್‌ನ ಮೀಡಿಯಾ ಫೀಚರ್ ಪ್ಯಾಕ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಬೇಕಾಗಬಹುದು.
 decoder-doctor-learn-how-link = ಹೇಗೆ ತಿಳಿಯಿರಿ
+decoder-doctor-report-issue-button =
+    .label = ಜಾಲದ ತೊಂದರೆ ವರದಿ ಮಾಡಿ
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = { $pluginName } ಪ್ಲಗ್ಇನ್ ಕುಸಿತಗೊಂಡಿದೆ.
