@@ -1270,6 +1270,7 @@ eme-notifications-drm-content-disabled-message = Du må slå på DRM for å spel
 eme-notifications-drm-content-disabled-button =
     .label = Slå på DRM
     .accesskey = S
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installerer komponentane som trengst for å spele av lyden eller videoen på denne sida. Prøv på nytt seinare.
 decoder-doctor-no-codecs-linux-message = For å spele av videoer må du installere påkravde video-kodekar.
 decoder-doctor-no-hw-acceleration-message = For å forbetre videokvaliteten må du kanskje installere Microsofts Media Feature Pack.
 decoder-doctor-no-pulse-audio-message = For å spele av lyd må du installere den påkravde PulseAudio-programvara.
