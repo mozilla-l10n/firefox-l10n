@@ -66,6 +66,14 @@ text-action-spell-dictionaries =
     .accesskey = T
 text-action-search-text-box-clear =
     .title = Sfeḍ
+text-action-highlight-selection-2 =
+    .label = Sebrureq tafrant
+    .accesskey = S
+# "Copy Link to Highlight" creates a permanent 'Text Fragment' link
+# to the current selection, and copies it into the user's clipboard.
+text-action-copy-link-to-highlight-2 =
+    .label = Nɣel aseɣwen i usebrureq
+    .accesskey = N
 text-action-highlight-selection =
     .label = Sebrureq tafrant
 # "Copy Link to Highlight" creates a permanent 'Text Fragment' link
