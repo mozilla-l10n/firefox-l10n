@@ -38,3 +38,8 @@ customize-mode-touchbar-cmd =
     .label = Personalizează bara tactilă...
 customize-mode-downloads-button-autohide =
     .label = Ascunde butonul când este gol
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Spațiu flexibil
