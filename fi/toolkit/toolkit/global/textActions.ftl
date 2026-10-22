@@ -74,6 +74,9 @@ text-action-spell-dictionaries =
     .accesskey = K
 text-action-search-text-box-clear =
     .title = Tyhjennä
+text-action-highlight-selection-2 =
+    .label = Korosta valinta
+    .accesskey = K
 text-action-highlight-selection =
     .label = Korosta valinta
 # This adds a comment to selected text within the PDF viewer.
