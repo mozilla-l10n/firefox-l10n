@@ -63,6 +63,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Condivider…
     .accesskey = C
+
+##
+
 urlbar-identity-button =
     .aria-label = Vider le informationes del sito
 
@@ -756,6 +759,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponsorisate
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Demandar
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1145,7 +1153,8 @@ repair-text-encoding-button =
     .label = Corriger le codification del texto
     .tooltiptext = Divinar le correcte codification del texto ab le contento del pagina
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1208,6 +1217,12 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Gruppos de schedas
     .tooltiptext = Monstrar tu gruppos de schedas
+toolbar-button-history =
+    .label = Chronologia
+    .tooltiptext = Monstra tu chronologia ({ $shortcut })
+toolbar-button-find =
+    .label = Cercar
+    .tooltiptext = Cercar in iste pagina ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1224,6 +1239,9 @@ eme-notifications-drm-content-playing-manage = Gerer le parametros
 eme-notifications-drm-content-playing-manage-accesskey = G
 eme-notifications-drm-content-playing-dismiss = Dimitter
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1275,6 +1293,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = s
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1534,6 +1555,13 @@ file-picker-crashed-open = Le fenestra de selection file de Windows collabeva. N
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Le fenestra de selection file de Windows collabeva. Le file o sera salvate a { $path }.
 file-picker-crashed-save-nowhere = Impossibile aperir fenestra de selection file de Windows. Nulle plica predefinite trovate; le file non sera salvate.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Monstrar in plica
     .accessKey = p
@@ -1586,6 +1614,9 @@ trustpanel-blocker-see-all = Vider toto
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Protectiones de traciamento pro { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
