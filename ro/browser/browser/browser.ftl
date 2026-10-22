@@ -1294,6 +1294,15 @@ decoder-doctor-learn-how-link = Află cum
 decoder-doctor-report-issue-button =
     .label = Raportează problemă cu site-ul
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Pluginul { $pluginName } s-a închis neașteptat.
+plugin-crashed-notification-reload-button =
+    .label = Reîncarcă pagina
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = Trimite un raport de defecțiuni
+    .accesskey = S
 
 ## Password save/update panel
 
