@@ -1192,7 +1192,11 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = يُنصّب { -brand-short-name } المكونات اللازمة لتشغيل ملفات الصوت أو الفيديو على هذه الصفحة. يرجى إعادة المحاولة لاحقًا.
 decoder-doctor-unsupported-libavcodec-message = برمجية libavcodec قد تكون ضعيفة أمنيًا أو غير مدعومة، و يجب تحديثها لتشغيل الڤديو.
 decoder-doctor-decode-error-message = حدث خطأ أثناء فك ترميز مورِد الوسائط.
+decoder-doctor-decode-warning-message = حدث خطأ غير خطير أثناء فك ترميز مورِد الوسائط.
 decoder-doctor-learn-how-link = اطّلع على المزيد
+decoder-doctor-report-issue-button =
+    .label = أبلغ عن مشكلة بالموقع
+    .accesskey = س
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = انهارت الملحقة { $pluginName }.
