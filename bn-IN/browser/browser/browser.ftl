@@ -373,6 +373,40 @@ toolbar-button-synced-tabs =
 toolbar-button-new-private-window =
     .label = নতুন ব্যক্তিগত উইন্ডো
     .tooltiptext = নতুন ব্যক্তিগত উইন্ডো খুলুন ({ $shortcut })
+toolbar-button-history =
+    .label = পূর্ববর্তী তথ্য
+    .tooltiptext = আপনার ইতিহাস দেখান ({ $shortcut })
+toolbar-button-find =
+    .label = অনুসন্ধান করুন
+    .tooltiptext = এই পেজের মধ্যে অনুসন্ধান করুন ({ $shortcut })
+toolbar-button-developer =
+    .label = নির্মাতা
+    .tooltiptext = ওয়েব ডেভেলপার টুল ({ $shortcut })
+toolbar-button-forget =
+    .label = ভুলে যান
+    .tooltiptext = কিছু ব্রওসিং ইতিহাসের কথা ভুলে যান
+toolbar-zoom-controls =
+    .label = বিবর্ধনের মাপ নিয়ন্ত্রণ
+    .title = বিবর্ধনের মাপ নিয়ন্ত্রণ
+toolbar-button-zoom-out =
+    .label = ছোট মাপে প্রদর্শন
+    .tooltiptext = যুম আউট ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = যুম লেভেল পুনরায় সেট করুন ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = বড় মাপে প্রদর্শন
+    .tooltiptext = যুম ইন ({ $shortcut })
+toolbar-edit-controls =
+    .label = সম্পাদনা নিয়ন্ত্রণ
+    .title = সম্পাদনা নিয়ন্ত্রণ
+toolbar-button-cut =
+    .label = কাট করুন
+    .tooltiptext = কাটুন  ({ $shortcut })
+toolbar-button-copy =
+    .label = কপি করুন
+    .tooltiptext = কপি করুন ({ $shortcut })
+toolbar-button-paste =
+    .label = পেস্ট করুন
+    .tooltiptext = পেস্ট করুন ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -383,6 +417,7 @@ toolbar-button-new-private-window =
 eme-notifications-drm-content-playing = এই সাইটের কিছু অডিও এবং ভিডিও DRM সফটওয়্যার ব্যবহার করে, যেটা আপনাকে সীমিত রাখতে পারে যা আপনাকে { -brand-short-name } করতে দেয়।
 
 ## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -398,11 +433,9 @@ ui-tour-info-panel-close =
 
 ##
 
+
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
 
 
 ##
