@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = 清除
+text-action-highlight-selection-2 =
+    .label = 強調選擇範圍
+    .accesskey = h
 text-action-highlight-selection =
     .label = 強調選擇範圍
 # This adds a comment to selected text within the PDF viewer.
