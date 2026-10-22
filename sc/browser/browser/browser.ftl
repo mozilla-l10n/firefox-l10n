@@ -1209,6 +1209,21 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Depes ativare DRM pro reproduire àudio o vìdeu de custa pàgina.
+eme-notifications-drm-content-disabled-button =
+    .label = Ativa DRM
+    .accesskey = A
+decoder-doctor-no-codecs-linux-message = Pro riproduire su vìdeu, podet dare chi depas installare is codecs de vìdeu rechestos.
+decoder-doctor-no-pulse-audio-message = Pro riproduire s’àudio, podet dare chi depas installare su programma PulseAudio.
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Su plugin { $pluginName } est faddidu.
+plugin-crashed-notification-reload-button =
+    .label = Torra a carrigare sa pàgina
+    .accesskey = T
+plugin-crashed-notification-submit-button =
+    .label = Imbia un'informe de faddina
+    .accesskey = I
 
 ## Password save/update panel
 
