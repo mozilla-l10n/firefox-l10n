@@ -1254,7 +1254,13 @@ eme-notifications-drm-content-disabled-button =
     .accesskey = ћ
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } инсталира компоненте које су потребне да би се пустио аудио или видео на овој страници. Покушајте поново касније.
 decoder-doctor-no-pulse-audio-message = Да пуштате аудио, можда ћете морати да инсталирате захтевани PulseAudio софтвер.
+decoder-doctor-unsupported-libavcodec-message = libavcodec је можда рањив или није подржан и требао би да се ажурира ради пуштања видеа.
+decoder-doctor-decode-error-message = Догодила се грешка приликом декодирања ресурса медије.
+decoder-doctor-decode-warning-message = Догодила се исправљива грешка приликом декодирања ресурса медије.
 decoder-doctor-learn-how-link = Сазнајте како
+decoder-doctor-report-issue-button =
+    .label = Пријави проблем са сајтом
+    .accesskey = б
 
 ## Password save/update panel
 
