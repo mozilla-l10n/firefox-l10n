@@ -1183,7 +1183,14 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Jāiespējo DRM, lai šajā lapā atskaņotu kādu skaņu ierakstu vai video.
+eme-notifications-drm-content-disabled-button =
+    .label = Iespējot DRM
+    .accesskey = A
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } uzstāda sastāvdaļas, kas ir nepieciešamas skaņas vai video atskaņošanai šajā lapā. Lūgums vēlāk mēģināt vēlreiz.
+decoder-doctor-no-codecs-linux-message = Lai atskaņotu video, varētu būt nepieciešams uzstādīt nepieciešamos video saspiedatspiedējus.
+decoder-doctor-no-hw-acceleration-message = Lai uzlabotu video kvalitāti, varētu būt nepieciešams uzstādīt Microsoft Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Lai atskaņotu skaņu, varētu būt nepieciešams uzstādīt nepieciešamo PulseAudio programmatūru.
 decoder-doctor-unsupported-libavcodec-message = libavcodec var būt nedrošs vai nav atbalstīts, to vajadzētu atjaunināt, lai atskaņotu video.
 decoder-doctor-decode-error-message = Atkodējot mēdiju resursu notikusi kļūda.
 decoder-doctor-decode-warning-message = Atkodējot mēdiju resursu notikusi apejama kļūda.
@@ -1191,6 +1198,15 @@ decoder-doctor-learn-how-link = Uzziniet kā
 decoder-doctor-report-issue-button =
     .label = Ziņot par problēmu ar lapu
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Spraudnis { $pluginName } ir avarējis.
+plugin-crashed-notification-reload-button =
+    .label = Pārlādēt lapu
+    .accesskey = r
+plugin-crashed-notification-submit-button =
+    .label = Nosūtīt avārijas ziņojumu
+    .accesskey = s
 
 ## Password save/update panel
 
