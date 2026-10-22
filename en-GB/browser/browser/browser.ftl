@@ -1279,7 +1279,11 @@ decoder-doctor-no-hw-acceleration-message = To improve video quality, you may ne
 decoder-doctor-no-pulse-audio-message = To play audio, you may need to install the required PulseAudio software.
 decoder-doctor-unsupported-libavcodec-message = libavcodec may be vulnerable or is not supported, and should be updated to play video.
 decoder-doctor-decode-error-message = An error occurred while decoding a media resource.
+decoder-doctor-decode-warning-message = A recoverable error occurred while decoding a media resource.
 decoder-doctor-learn-how-link = Learn how
+decoder-doctor-report-issue-button =
+    .label = Report site issue
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = The { $pluginName } plugin has crashed.
