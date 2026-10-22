@@ -1179,6 +1179,34 @@ toolbar-button-tab-groups =
 toolbar-button-history =
     .label = Historial
     .tooltiptext = Mostra l'historial ({ $shortcut })
+toolbar-button-find =
+    .label = Cerca
+    .tooltiptext = Cerca en aquesta pàgina ({ $shortcut })
+toolbar-button-developer =
+    .label = Desenvolupador
+    .tooltiptext = Obre les eines per a desenvolupadors web ({ $shortcut })
+toolbar-zoom-controls =
+    .label = Controls del zoom
+    .title = Controls del zoom
+toolbar-button-zoom-out =
+    .label = Redueix
+    .tooltiptext = Redueix ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Reinicia el nivell de zoom ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Amplia
+    .tooltiptext = Amplia ({ $shortcut })
+toolbar-edit-controls =
+    .label = Controls d'edició
+    .title = Controls d'edició
+toolbar-button-cut =
+    .label = Retalla
+    .tooltiptext = Retalla ({ $shortcut })
+toolbar-button-copy =
+    .label = Copia
+    .tooltiptext = Copia ({ $shortcut })
+toolbar-button-paste =
+    .label = Enganxa
+    .tooltiptext = Enganxa ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
