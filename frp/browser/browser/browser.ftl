@@ -179,6 +179,12 @@ toolbar-button-paste =
 
 ## Notification bars for media playback issues
 
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = L’agllèton { $pluginName } at falyi.
+plugin-crashed-notification-reload-button =
+    .label = Rechargér la pâge
+    .accesskey = R
 
 ## Password save/update panel
 
