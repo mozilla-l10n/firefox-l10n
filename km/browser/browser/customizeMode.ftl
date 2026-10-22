@@ -28,3 +28,12 @@ customize-mode-uidensity-menu-normal =
 customize-mode-undo-cmd =
     .label = មិនធ្វើវិញ
 customize-mode-lwthemes-link = គ្រប់គ្រង​រចនាប័ទ្ម
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = ចន្លោះ​ប្រែប្រួល
+customize-mode-toolbarseparator =
+    .title = សញ្ញា​បំបែក
+customize-mode-toolbarspacer =
+    .title = ចន្លោះ
