@@ -4,6 +4,7 @@
 
 restart-required-title = Cal que reinicieu
 restart-required-heading2 = { -brand-short-name } necessita un reinici ràpid
+restart-required-intro2 = El { -brand-short-name } ha d'acabar una actualització. Reinicieu per a mantenir les coses segures i suaus.
 window-restoration-info2 = Reobrirem totes les finestres i pestanyes excepte les privades.
 restart-required-why-now-question = Per què ara?
 restart-required-more-details-heading = Més detalls

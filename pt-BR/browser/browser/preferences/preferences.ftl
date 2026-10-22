@@ -1852,6 +1852,8 @@ notifications-entry-manage-button-empty =
 notifications-website-card-header =
     .description = Escolher como sites podem enviar notificações.
     .label = Notificações de sites
+notifications-filter =
+    .placeholder = Pesquisar sites
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
