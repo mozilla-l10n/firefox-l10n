@@ -548,6 +548,20 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM सक्रिय करें
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ऑडियो या वीडियो चलाने के लिए जरुरी अद्यतन स्थापित कर रहा है. कृपया बाद में दुबारा प्रयास करें.
+decoder-doctor-no-codecs-linux-message = वीडियो चलाने के लिए, आपको अपेक्षित वीडियो codecs संस्थापित करने की आवश्यकता हो सकती है.
+decoder-doctor-no-hw-acceleration-message = वीडियो की गुणवत्ता में सुधार करने के लिए, आपको माइक्रोसॉफ्ट के मीडिया फीचर पैक संस्थापित करने की आवश्यकता हो सकती है.
+decoder-doctor-no-pulse-audio-message = ऑडियो बजाने के लिए, आपको PulseAudio सॉफ्टवेर इनस्टॉल की ज़रूरत पड़ेगी.
+decoder-doctor-unsupported-libavcodec-message = libavcodec या तो असुरक्षित या अयोग्य हो सकता है, और वीडियो चलाने के लिए अपडेटेड होना चाहिये.
+decoder-doctor-decode-error-message = मीडिया संसाधन को डीकोड करते समय एक त्रुटि हुई.
+decoder-doctor-decode-warning-message = मीडिया संसाधन को डीकोड करते समय एक बचा ली जाने वाली त्रुटि हुई.
+decoder-doctor-learn-how-link = सीखें कैसे
+decoder-doctor-report-issue-button =
+    .label = साइट समस्या की रिपोर्ट करें
+    .accesskey = R
 
 ## Password save/update panel
 
