@@ -8,9 +8,26 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+# Label for the toolbar button opening the read aloud menu.
+narrate-toggle-label = Εκφώνηση ({ $shortcut })
+narrate-skip-previous =
+    .title = Πίσω ({ $shortcut })
+narrate-start =
+    .title = Έναρξη ({ $shortcut })
+narrate-stop =
+    .title = Διακοπή ({ $shortcut })
+narrate-skip-next =
+    .title = Εμπρός ({ $shortcut })
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = Εκφώνηση
+narrate-rate-slow =
+    .title = Επιβράδυνση αφήγησης
+narrate-rate-fast =
+    .title = Επιτάχυνση αφήγησης
+narrate-voice-header = Φωνή
 # Default voice is determined by the language of the document.
 narrate-voice-default = Προεπιλογή
 # Label for a voice in the voice selector, e.g. "David (English)".
