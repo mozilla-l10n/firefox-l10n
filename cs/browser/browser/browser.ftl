@@ -1359,6 +1359,16 @@ eme-notifications-drm-content-disabled-button =
     .label = Povolit DRM
     .accesskey = P
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } instaluje součásti potřebné pro přehrání audia nebo videa na této stránce. Zkuste to prosím znovu později.
+decoder-doctor-no-codecs-linux-message = Pro přehrávání videa může být potřeba nainstalovat video kodeky.
+decoder-doctor-no-hw-acceleration-message = Pro zlepšení kvality videa může být potřeba nainstalovat Media Feature Pack od Microsoftu.
+decoder-doctor-no-pulse-audio-message = Pro přehrávání hudby může být potřeba nainstalovat software PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = Verze knihovny libavcodec může být zranitelná nebo není podporována a pro přehrání videa je potřeba její aktualizace.
+decoder-doctor-decode-error-message = Při dekódování zdroje médií nastala chyba.
+decoder-doctor-decode-warning-message = Při dekódování zdroje médií nastala chyba, kterou lze opravit.
+decoder-doctor-learn-how-link = Zjistěte jak
+decoder-doctor-report-issue-button =
+    .label = Nahlásit problém se zobrazením stránky
+    .accesskey = r
 
 ## Password save/update panel
 
