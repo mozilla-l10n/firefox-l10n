@@ -22,7 +22,3 @@ view-source-selection-title = מקור DOM של בחירה
 view-source-context-go-to-line =
     .label = מעבר לשורה…
     .accesskey = ש
-view-source-context-wrap-long-lines =
-    .label = גלישת שורות ארוכות
-view-source-context-highlight-syntax =
-    .label = הדגשת תחביר
