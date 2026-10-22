@@ -648,6 +648,7 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name }-ը տեղադրում է թարմացումներ, որոնք պէտք են այս էջի ձայնանիւթը եւ տեսանիւթը նուագարկելու համար։ Փորձէք աւելի ուշ։
 decoder-doctor-no-codecs-linux-message = Տեսանիւթը նուագարկելու համար պէտք է տեղադրէք պահանջուող տեսակոդեկները։
 decoder-doctor-no-hw-acceleration-message = Տեսանիւթի որակը բարելաւել համար դուք պէտք է տեղադրէք Microsoft-ի Media Feature Pack-ը։
+decoder-doctor-no-pulse-audio-message = Ձայնագրութիւնը նուագարկելու համար անհրաժեշտ կլինի տեղադրել պահանջուող PulseAudio ծրագրակազմը․
 decoder-doctor-unsupported-libavcodec-message = libavcodec-ը կարող է խոցելի կամ չաջակցուած լինել եւ պէտք է թարմացուի, որ նուագարկուի տեսանիւթը։
 decoder-doctor-decode-error-message = Սխալ՝ մեդիայի պաշարը ապակոդաւորելիս։
 decoder-doctor-decode-warning-message = սխալը ուղղելու համար՝ մեդիայի պաշարը ապակոդաւորեք։
