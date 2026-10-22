@@ -455,6 +455,15 @@ decoder-doctor-learn-how-link = ဆောင်ရွက်ပုံကို �
 decoder-doctor-report-issue-button =
     .label = ဆိုက်ပြဿနာကို သတင်းပို့ရန်
     .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = ဒီ ပလက်အင်{ $pluginName } သည် ရုတ်တရက် ရပ်ဆိုင်းသွားသည်။
+plugin-crashed-notification-reload-button =
+    .label = စာမျက်နှာကို ပြန်ဖွင့်ပါ
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ပျက်ဆီးမှု အစီရင်ခံစာ တင်သွင်းပါ
+    .accesskey = S
 
 ## Password save/update panel
 
