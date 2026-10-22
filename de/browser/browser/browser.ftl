@@ -1270,6 +1270,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = c
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM-Kopierschutz aktivieren
+    .accesskey = a
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } installiert zusätzliche Komponenten, welche für die Wiedergabe der Audio- oder Videodateien auf dieser Seite benötigt werden. Versuchen Sie es später erneut.
 decoder-doctor-no-pulse-audio-message = Zur Audio-Wiedergabe müssen Sie die eventuell benötigte Software PulseAudio installieren.
 decoder-doctor-unsupported-libavcodec-message = libavcodec sollte aktualisiert werden, um Videos wiederzugeben, da es gegen Angriffe verwundbar sein könnte oder die installierte Version nicht unterstützt wird.
 decoder-doctor-decode-error-message = Beim Dekodieren einer Medien-Ressource trat ein Fehler auf.
