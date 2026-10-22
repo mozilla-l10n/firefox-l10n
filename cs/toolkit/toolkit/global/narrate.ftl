@@ -19,6 +19,13 @@ narrate-skip-next =
 
 ##
 
+narrate-rate-slow =
+    .title = Zpomalení vyprávění
+narrate-rate-fast =
+    .title = Zrychlení vyprávění
+narrate-voice-header = Hlas
+# Default voice is determined by the language of the document.
+narrate-voice-default = Výchozí
 # Label for a voice in the voice selector, e.g. "David (English)".
 # Variables:
 #   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
