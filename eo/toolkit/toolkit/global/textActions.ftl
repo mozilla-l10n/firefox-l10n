@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Viŝi
+text-action-highlight-selection-2 =
+    .label = Elstarigi elektaĵon
+    .accesskey = E
 text-action-highlight-selection =
     .label = Elstarigi elektaĵon
 # This adds a comment to selected text within the PDF viewer.
