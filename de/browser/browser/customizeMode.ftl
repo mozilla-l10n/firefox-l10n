@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Touch Bar anpassen…
 customize-mode-downloads-button-autohide =
     .label = Schaltfläche nur bei vorhandenen Downloads anzeigen
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Flexibler Leerraum
+customize-mode-toolbarseparator =
+    .title = Trenner
+customize-mode-toolbarspacer =
+    .title = Leerraum
