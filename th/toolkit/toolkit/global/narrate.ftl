@@ -16,3 +16,5 @@ narrate-rate-slow =
 narrate-rate-fast =
     .title = บรรยายให้เร็วขึ้น
 narrate-voice-header = เสียงพูด
+# Default voice is determined by the language of the document.
+narrate-voice-default = ค่าเริ่มต้น
