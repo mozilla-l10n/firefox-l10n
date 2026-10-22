@@ -473,6 +473,20 @@ eme-notifications-drm-content-playing = វីដេអូ និង​អូឌ
 
 ## Notification bars for media playback issues
 
+decoder-doctor-no-codecs-linux-message = ដើម្បី​លេង​វីដេអូ​បាន អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កូដិក​វីដេអូ​ដែល​បាន​ទាមទារ។
+decoder-doctor-no-hw-acceleration-message = ដើម្បី​ធ្វើឲ្យ​គុណភាព​វីដេអូ​ប្រសើរ​ឡើង អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កម្មវិធី Microsoft’s Media Feature Pack។​
+decoder-doctor-no-pulse-audio-message = ដើម្បី​ចាក់​អូឌីយ៉ូ អ្នក​ចាំបាច់​ត្រូវ​ដំឡើង​កម្មវិធី PulseAudio ដែល​បាន​ទាមទារ។
+decoder-doctor-decode-warning-message = កំហុស​ដែល​អាច​សង្គ្រោះ​បាន បាន​កើតឡើង​ពេល​ឌិកូដ​ធនធាន​មេឌា។
+decoder-doctor-learn-how-link = ស្វែងយល់​ពី​របៀប
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = កម្មវិធី​ជំនួយ { $pluginName } បាន​គាំង ។
+plugin-crashed-notification-reload-button =
+    .label = ផ្ទុក​ទំព័រ​​ឡើងវិញ
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ដាក់​ស្នើ​របាយការណ៍​គាំង
+    .accesskey = S
 
 ## Password save/update panel
 
