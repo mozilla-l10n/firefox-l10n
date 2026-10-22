@@ -1226,6 +1226,9 @@ toolbar-button-find =
 toolbar-button-developer =
     .label = Ontwikkelaar
     .tooltiptext = Hulpmiddelen voor webontwikkelaars openen ({ $shortcut })
+toolbar-button-forget =
+    .label = Vergeten
+    .tooltiptext = Bepaalde navigatiegeschiedenis vergeten
 toolbar-zoom-controls =
     .label = Zoombediening
     .title = Zoombediening
@@ -1236,6 +1239,18 @@ toolbar-button-zoom-reset-tooltip = Zoomniveau terugzetten ({ $shortcut })
 toolbar-button-zoom-in =
     .label = Inzoomen
     .tooltiptext = Inzoomen ({ $shortcut })
+toolbar-edit-controls =
+    .label = Bedieningselementen voor bewerken
+    .title = Bedieningselementen voor bewerken
+toolbar-button-cut =
+    .label = Knippen
+    .tooltiptext = Knippen ({ $shortcut })
+toolbar-button-copy =
+    .label = Kopiëren
+    .tooltiptext = Kopiëren ({ $shortcut })
+toolbar-button-paste =
+    .label = Plakken
+    .tooltiptext = Plakken ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
