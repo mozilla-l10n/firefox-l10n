@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = л
 text-action-search-text-box-clear =
     .title = Тазарту
+text-action-highlight-selection-2 =
+    .label = Таңдалғанды ерекшелеу
+    .accesskey = Т
 text-action-highlight-selection =
     .label = Таңдалғанды ерекшелеу
 # This adds a comment to selected text within the PDF viewer.
