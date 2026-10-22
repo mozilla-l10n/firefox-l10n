@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = Γ
 text-action-search-text-box-clear =
     .title = Απαλοιφή
+text-action-highlight-selection-2 =
+    .label = Επισήμανση επιλογής
+    .accesskey = Ε
 text-action-highlight-selection =
     .label = Επισήμανση επιλογής
 # This adds a comment to selected text within the PDF viewer.
