@@ -1301,6 +1301,12 @@ decoder-doctor-learn-how-link = Ďalšie informácie
 decoder-doctor-report-issue-button =
     .label = Nahlásiť problém so stránkou
     .accesskey = r
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Zásuvný modul { $pluginName } zlyhal.
+plugin-crashed-notification-reload-button =
+    .label = Obnoviť stránku
+    .accesskey = b
 
 ## Password save/update panel
 
