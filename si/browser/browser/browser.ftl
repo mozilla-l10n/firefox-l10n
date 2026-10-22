@@ -743,6 +743,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 eme-notifications-drm-content-disabled-button =
     .label = DRM සබල කරන්න
     .accesskey = E
+decoder-doctor-decode-warning-message = මාධ්‍ය සම්පතක් විකේතනය කිරීමේදී ප්‍රතිසාධනය කළ හැකි දෝෂයක් සිදු විය.
 
 ## Password save/update panel
 
