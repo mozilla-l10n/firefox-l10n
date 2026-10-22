@@ -441,10 +441,20 @@ eme-notifications-drm-content-playing = ဒီဆိုက်ရှိ အော
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM ကို ဖွင့်ပါ
+    .accesskey = E
 eme-notifications-drm-content-cdm-installing-message = ဒီစာမျက်နှာရှိ အော်ဒီယို သို့မဟုတ် ဗွီဒီယိုကို ဖွင့်ရန် { -brand-short-name } သည် လိုအပ်သော အစိတ်အပိုင်းများကို တပ်ဆင်နေသည်။. ကျေးဇူးပြု၍ နောင်တွင် ထပ်မံ ဆောင်ရွက်ကြည့်ပါ။
 decoder-doctor-no-codecs-linux-message = ဗီဒီယိုကို ဖွင့်ရန် လိုအပ်သော ဗီဒီယိုကိုဒက်များကို ထည့်သွင်းထားရန် လိုအပ်သည်။
 decoder-doctor-no-hw-acceleration-message = ဗီဒီယိုအရည်အသွေးမြင့်မားစေရန် မိုက္ကရိုဆော့ဖ်၏ Media Feature Pack ကို ထည့်သွင်းရန် လိုအပ်နိုင်သည်။
+decoder-doctor-no-pulse-audio-message = အော်ဒီယိုကို ဖွင့်ရန် PulseAudio ဆော့ဖ်ဝဲလ်ကို တပ်ဆင်ရန် လိုအပ်ကောင်း လိုအပ်နိုင်သည်။
+decoder-doctor-unsupported-libavcodec-message = libavcodec သည် အားနည်းချက်များ ရှိနိုင်သည် သို့မဟုတ် ၎င်းကို မထောက်ပံ့တော့ပါ။ ထို့ပြင် ဗီဒီယိုများကို ဖွင့်နိုင်ရန် ၎င်းကို အဆင့်မြှင့်တင်ထားသင့်သည်။
+decoder-doctor-decode-error-message = မီဒီယာရင်းမြစ်တစ်ခုကို ဒီကုဒ်ဆောင်ရွက်နေစဉ် အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။
+decoder-doctor-decode-warning-message = မီဒီယာရင်းမြစ်တစ်ခုကို ဒီကုဒ်ဆောင်ရွက်နေစဉ် အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်။
 decoder-doctor-learn-how-link = ဆောင်ရွက်ပုံကို လေ့လာရန်
+decoder-doctor-report-issue-button =
+    .label = ဆိုက်ပြဿနာကို သတင်းပို့ရန်
+    .accesskey = R
 
 ## Password save/update panel
 
