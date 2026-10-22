@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Nete
+text-action-highlight-selection-2 =
+    .label = Evidenzie selezion
+    .accesskey = E
 text-action-highlight-selection =
     .label = Evidenzie selezion
 # This adds a comment to selected text within the PDF viewer.
