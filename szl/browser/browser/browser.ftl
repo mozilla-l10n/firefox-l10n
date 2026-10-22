@@ -686,6 +686,29 @@ eme-notifications-drm-content-playing-dismiss-accesskey = O
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Trza załōnczyć DRM, coby puszczać na tyj strōnie klang abo filmy.
+eme-notifications-drm-content-disabled-button =
+    .label = Załōncz DRM
+    .accesskey = Z
+decoder-doctor-no-codecs-linux-message = Coby puścić video, możno bydzie trza zainsztalować potrzebne kodeki.
+decoder-doctor-no-hw-acceleration-message = Copy polepszyć jakość video, możno bydzie trza zainsztalować Media Feature Pack ôd Microsoftu.
+decoder-doctor-no-pulse-audio-message = Coby puścić klang, możno bydzie trza zainsztalować software PulseAudio.
+decoder-doctor-unsupported-libavcodec-message = libavcodec może być leki do zaatakowanio abo niy ma ôbsugowany. Trza go zaktualizować, coby puścić video.
+decoder-doctor-decode-error-message = Przi dekodowaniu zdrzōdła mydiōw pokozoł sie feler.
+decoder-doctor-decode-warning-message = Przi dekodowaniu zdrzōdła mydiōw pokozoł sie feler, kery idzie naprawić.
+decoder-doctor-learn-how-link = Przewiydz sie, jak
+decoder-doctor-report-issue-button =
+    .label = Dej znać ô problymie ze strōnōm
+    .accesskey = D
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Rozszyrzynie { $pluginName } miało awaryjo.
+plugin-crashed-notification-reload-button =
+    .label = Przeladuj strōna
+    .accesskey = P
+plugin-crashed-notification-submit-button =
+    .label = Poślij raport ô awaryji
+    .accesskey = R
 
 ## Password save/update panel
 
