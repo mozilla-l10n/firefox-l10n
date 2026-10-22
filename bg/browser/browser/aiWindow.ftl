@@ -9,6 +9,7 @@ appmenuitem-new-ai-window =
     .label = Нов { -smart-window-brand-name }
     .value = Нов { -smart-window-brand-name }
 smartwindow-fullpage-heading = { -smart-window-brand-name }
+smartwindow-document-title = Нов раздел
 
 ## Smart Window Toggle Button
 
