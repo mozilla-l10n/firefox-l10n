@@ -507,6 +507,18 @@ eme-notifications-drm-content-playing = Dwon ki vidio mogo i kakube man tiyo ki 
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = Cak DRM
+    .accesskey = C
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } tye ka keto jami ma mite me tuko dwon onyo vidio i pot buk man. Tim ber i tem doki lacen.
+decoder-doctor-no-codecs-linux-message = Me tuko vidio, twero mite ni myero kong iket latuk vidio ma mite.
+decoder-doctor-no-hw-acceleration-message = Me weko video onen maleng, twero mite ni myero iket Microsoft’s Media Feature Pack.
+decoder-doctor-no-pulse-audio-message = Me tuko dwon, twero mite ni myero kong iket purugram me PulseAudio ma mite.
+decoder-doctor-unsupported-libavcodec-message = libavcodec twero bedo goro onyo pe kicwako, kadong myero ki ket ngec manyen wek otuk vidio.
+decoder-doctor-learn-how-link = Nong ngec i kit yoo
+decoder-doctor-report-issue-button =
+    .label = Mi ripot ikom peko me kakube
+    .accesskey = R
 
 ## Password save/update panel
 
