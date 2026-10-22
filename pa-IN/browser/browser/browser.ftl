@@ -1278,7 +1278,14 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } ਭਾਗਾਂ ਨੂੰ ਇੰਸਟਾਲ ਕਰ ਰਿਹਾ ਹੈ, ਜੋ ਕਿ ਇਸ ਸਫ਼ੇ ਉੱਤੇ ਆਡੀਓ ਜਾਂ ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਚਾਹੀਦੇ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 decoder-doctor-no-codecs-linux-message = ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਤੁਹਾਨੂੰ ਵੀਡੀਓ codecs ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
 decoder-doctor-no-hw-acceleration-message = ਵੀਡੀਓ ਕੁਆਲਟੀ ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਤੁਹਾਨੂੰ Microsoft ਦੇ ਮੀਡੀਆ ਫੀਚਰ ਪੈਕ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
+decoder-doctor-no-pulse-audio-message = ਆਡੀਓ ਚਲਾਉਣ ਲਈ ਤੁਹਾਨੂੰ ਲੋੜੀਂਦੇ PulseAudio ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
+decoder-doctor-unsupported-libavcodec-message = libavcodec ਕਮਜ਼ੋਰ ਹੋ ਸਕਦੀ ਹੈ ਜਾਂ ਸਹਾਇਕ ਨਹੀਂ ਹੋ ਸਕਦੀ ਅਤੇ ਵੀਡੀਓ ਚਲਾਉਣ ਲਈ ਅੱਪਡੇਟ ਕਰਨਾ ਜ਼ਰੂਰੀ ਹੈ।
+decoder-doctor-decode-error-message = ਮੀਡੀਆ ਸਰੋਤ ਨੂੰ ਡੀਕੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਵਾਪਰੀ ਹੈ।
+decoder-doctor-decode-warning-message = ਮੀਡੀਆ ਸਰੋਤ ਨੂੰ ਡੀਕੋਡ ਕਰਨ ਦੌਰਾਨ ਪ੍ਰਾਪਤ ਕਰਨ ਯੋਗ ਗ਼ਲਤੀ ਵਾਪਰੀ ਹੈ।
 decoder-doctor-learn-how-link = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
+decoder-doctor-report-issue-button =
+    .label = ਸਾਈਟ ਮਸਲੇ ਬਾਰੇ ਰਿਪੋਰਟ ਦਿਓ
+    .accesskey = R
 
 ## Password save/update panel
 
