@@ -1238,6 +1238,12 @@ decoder-doctor-no-codecs-linux-message = Para reproducir el video, puede ser nec
 decoder-doctor-no-hw-acceleration-message = Para mejorar la calidad de video, puede ser necesario instalar el Media Feature Pack de Microsoft.
 decoder-doctor-no-pulse-audio-message = Para reproducir audio, necesitas instalar el software PulseAudio requerido.
 decoder-doctor-unsupported-libavcodec-message = libavcodec puede ser vulnerable o no está soportado y debería actualizarse para reproducir video.
+decoder-doctor-decode-error-message = Ocurrió un error al decodificar una fuente mediática.
+decoder-doctor-decode-warning-message = Ocurrió un error recuperable mientras se decodificaba una fuente mediática.
+decoder-doctor-learn-how-link = Aprende cómo
+decoder-doctor-report-issue-button =
+    .label = Reportar un problema con el sitio
+    .accesskey = R
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = El plugin { $pluginName } dejó de funcionar.
