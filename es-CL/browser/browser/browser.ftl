@@ -1214,6 +1214,15 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grupos de pestañas
     .tooltiptext = Mostrar tus grupos de pestañas
+toolbar-button-history =
+    .label = Historial
+    .tooltiptext = Mostrar el historial ({ $shortcut })
+toolbar-button-find =
+    .label = Buscar
+    .tooltiptext = Buscar en esta página… ({ $shortcut })
+toolbar-button-developer =
+    .label = Desarrollador
+    .tooltiptext = Abrir herramientas de desarrollador web ({ $shortcut })
 toolbar-button-forget =
     .label = Olvidar
     .tooltiptext = Olvidarse de parte del historial de navegación
@@ -1227,6 +1236,18 @@ toolbar-button-zoom-reset-tooltip = Reiniciar nivel de zoom ({ $shortcut })
 toolbar-button-zoom-in =
     .label = Acercar
     .tooltiptext = Acercar ({ $shortcut })
+toolbar-edit-controls =
+    .label = Controles de edición
+    .title = Controles de edición
+toolbar-button-cut =
+    .label = Cortar
+    .tooltiptext = Cortar ({ $shortcut })
+toolbar-button-copy =
+    .label = Copiar
+    .tooltiptext = Copiar ({ $shortcut })
+toolbar-button-paste =
+    .label = Pegar
+    .tooltiptext = Pegar ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
