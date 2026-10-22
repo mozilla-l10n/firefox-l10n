@@ -1270,6 +1270,10 @@ eme-notifications-drm-content-playing-dismiss-accesskey = S
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM ynskeakelje
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = Om de audio of fideo op dizze side ôf te spyljen ynstallearret { -brand-short-name } de nedige komponinten. Probearje it letter opnij.
 
 ## Password save/update panel
 
