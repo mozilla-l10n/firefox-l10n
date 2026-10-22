@@ -1270,6 +1270,16 @@ eme-notifications-drm-content-playing-dismiss-accesskey = K
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Bu sayfadaki bazı ses veya videoları oynatmak için DRM’i etkinleştirmelisiniz.
+eme-notifications-drm-content-disabled-button =
+    .label = DRM’i etkinleştir
+    .accesskey = D
+eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } bu sayfadaki ses ve videoyu oynatmak için gereken bileşenleri yüklüyor. Lütfen daha sonra tekrar deneyin.
+decoder-doctor-no-codecs-linux-message = Video oynatmak için gereken video codec’lerini yüklemeniz gerekebilir.
+decoder-doctor-no-hw-acceleration-message = Video kalitesini yükseltmek için Microsoft’tan Media Feature Pack’i yüklemeniz gerekebilir.
+decoder-doctor-no-pulse-audio-message = Ses çalmak için gereken PulseAudio yazılımını yüklemeniz gerekebilir.
+decoder-doctor-unsupported-libavcodec-message = libavcodec güvenli değil veya desteklenmiyor. Video oynatmak için güncellenmesi gerekiyor.
+decoder-doctor-learn-how-link = Nasıl yapılacağını öğren
 
 ## Password save/update panel
 
