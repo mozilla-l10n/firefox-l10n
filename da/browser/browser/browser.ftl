@@ -1208,6 +1208,7 @@ eme-notifications-drm-content-disabled-button =
     .label = Aktivér DRM
     .accesskey = A
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } er ved at installere komponenter, der er nødvendige for at afspille lyd eller video på siden. Prøv venligst igen senere.
+decoder-doctor-no-codecs-linux-message = For at afspille video skal du muligvis installere de påkrævede video-codecs.
 decoder-doctor-no-hw-acceleration-message = For at forbedre video-kvaliteten skal du muligvis installere Microsofts Media Feature Pack.
 decoder-doctor-no-pulse-audio-message = PulseAudio skal være installeret for at du kan afspille lyd.
 decoder-doctor-unsupported-libavcodec-message = libavcodec kan være sårbar eller er ikke understøttet. Du bør opdatere libavcodec for at afspille video.
