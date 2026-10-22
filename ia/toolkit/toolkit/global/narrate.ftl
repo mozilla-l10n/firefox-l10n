@@ -8,9 +8,28 @@
 ## Variables:
 ##   $shortcut (String) - The keyboard shortcut for the command, e.g. "N" or "←".
 
+# Label for the toolbar button opening the read aloud menu.
+narrate-toggle-label = Leger a alte voce ({ $shortcut })
+narrate-skip-previous =
+    .title = Retro ({ $shortcut })
+narrate-start =
+    .title = Initiar ({ $shortcut })
+narrate-stop =
+    .title = Stoppar ({ $shortcut })
+narrate-skip-next =
+    .title = Avante ({ $shortcut })
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = Leger in alte voce
+narrate-rate-slow =
+    .title = Relentar narration
+narrate-rate-fast =
+    .title = Accelerar narration
+narrate-voice-header = Voce
+# Default voice is determined by the language of the document.
+narrate-voice-default = Predefinite
 # Label for a voice in the voice selector, e.g. "David (English)".
 # Variables:
 #   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
