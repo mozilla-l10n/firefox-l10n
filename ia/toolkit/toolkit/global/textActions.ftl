@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Vacuar
+text-action-highlight-selection-2 =
+    .label = Evidentiar selection
+    .accesskey = E
 text-action-highlight-selection =
     .label = Evidentiar selection
 # This adds a comment to selected text within the PDF viewer.
