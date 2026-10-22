@@ -53,6 +53,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Moherakuã…
     .accesskey = h
+
+##
+
 urlbar-identity-button =
     .aria-label = Ehecha marandu ko tenda pegua
 
@@ -743,6 +746,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Ykekopyre
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Porandu
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1132,7 +1140,8 @@ repair-text-encoding-button =
     .label = Emoĩporã moñe’ẽrã ayvu
     .tooltiptext = Eikuaáke moñe’ẽrã ayvu oikóva pe kuatiarogue retepy guive
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1195,6 +1204,24 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Tendaykeita aty
     .tooltiptext = Ehechauka tendaykeita aty
+toolbar-button-history =
+    .label = Tembiasakue
+    .tooltiptext = Tembiasakue jehechauka ({ $shortcut })
+toolbar-button-find =
+    .label = Eheka
+    .tooltiptext = Ejuhu ko kuatiaroguépe ({ $shortcut })
+toolbar-button-forget =
+    .label = Ñembyesarái
+    .tooltiptext = Nderesaráike oimeraẽva kundaha rembiasakuégui
+toolbar-button-cut =
+    .label = Kytĩ
+    .tooltiptext = Kytĩ ({ $shortcut })
+toolbar-button-copy =
+    .label = Mbohasarã
+    .tooltiptext = Mbohasarã ({ $shortcut })
+toolbar-button-paste =
+    .label = Mboja
+    .tooltiptext = Mboja ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1211,6 +1238,9 @@ eme-notifications-drm-content-playing-manage = Eñangareko ñembohekóre
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Mosẽ
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1262,6 +1292,9 @@ picture-in-picture-move-toggle-left =
     .accesskey = L
 
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -1507,6 +1540,13 @@ file-picker-crashed-open = Marandurenda ñemongetaha Windows pegua ndoikói. Ndo
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Marandurenda ñemongetaha Windows pegua ndoikói. Marandurenda ohóta { $path }-pe.
 file-picker-crashed-save-nowhere = Marandurenda ñemongetaha Windows ndoikói. Ndojejuhúi marandurenda ypyguáva; marandurenda noñeñongatumo’ãi.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Ehechauka ñongatuhápe
     .accessKey = F
@@ -1559,6 +1599,9 @@ trustpanel-blocker-see-all = Hechapa
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Tapykuehoha mo’ãha { $host }-pe g̃uarã
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
