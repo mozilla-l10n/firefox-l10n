@@ -38,3 +38,12 @@ customize-mode-touchbar-cmd =
     .label = Personaliza sa barra tàtile...
 customize-mode-downloads-button-autohide =
     .label = Cua su butone cando sa lista siat bòida
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspring =
+    .title = Ispàtziu flessìbile
+customize-mode-toolbarseparator =
+    .title = Separadore
+customize-mode-toolbarspacer =
+    .title = Ispàtziu

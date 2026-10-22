@@ -26,6 +26,9 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gesti is cunfiguratziones de ventanas emergentes e rediretziones de àteras partes…
     .accesskey = G
+
+##
+
 urlbar-identity-button =
     .aria-label = Visualiza informatziones de su situ
 
@@ -704,6 +707,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Patrotzinadu
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Pregunta
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1084,7 +1092,8 @@ repair-text-encoding-button =
     .label = Assenta sa codìfica de su testu
     .tooltiptext = Rileva sa codìfica de su testu dae su cuntenutu de sa pàgina
 
-##
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -1147,6 +1156,40 @@ toolbar-button-share-tab =
 toolbar-button-tab-groups =
     .label = Grupos de ischedas
     .tooltiptext = Ammustra is grupos de ischedas
+toolbar-button-history =
+    .label = Cronologia
+    .tooltiptext = Ammustra sa cronologia tua ({ $shortcut })
+toolbar-button-find =
+    .label = Agata
+    .tooltiptext = Agata in custa pàgina ({ $shortcut })
+toolbar-button-developer =
+    .label = Iscuadra de isvilupu
+    .tooltiptext = Aberi is ainas pro s'isvilupu web ({ $shortcut })
+toolbar-button-forget =
+    .label = Iscaressi
+    .tooltiptext = Iscaressi parte de sa cronologia de navigatzione
+toolbar-zoom-controls =
+    .label = Cumandos de s'ingrandimentu
+    .title = Cumandos de s'ingrandimentu
+toolbar-button-zoom-out =
+    .label = Impitica
+    .tooltiptext = Impitica ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = Torra a s'ingrandimentu predefinidu ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = Ismànnia
+    .tooltiptext = Ismànnia ({ $shortcut })
+toolbar-edit-controls =
+    .label = Cumandos de modìfica
+    .title = Cumandos de modìfica
+toolbar-button-cut =
+    .label = Sega
+    .tooltiptext = Sega ({ $shortcut })
+toolbar-button-copy =
+    .label = Còpia
+    .tooltiptext = Còpia ({ $shortcut })
+toolbar-button-paste =
+    .label = Incolla
+    .tooltiptext = Incolla ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
@@ -1163,6 +1206,9 @@ eme-notifications-drm-content-playing-manage = Gesti sa cunfiguratzione
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Iscarta
 eme-notifications-drm-content-playing-dismiss-accesskey = D
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -1215,6 +1261,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1261,6 +1310,13 @@ restore-session-startup-suggestion-button = Ammustra·mi comente
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = S’organizatzione tua at blocadu s’atzessu a is archìvios locales in custu elaboradore
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1338,6 +1394,10 @@ reset-pbm-panel-complete = Datos de sa sessione privada cantzellados
 reset-pbm-toolbar-button2 =
     .label = Cantzella sa sessione privada
     .tooltiptext = Cantzella sa sessione privada
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -1431,6 +1491,13 @@ file-picker-crashed-open = Sa ventana de seletzione de archìvios de Windows s�
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Sa ventana de seletzione de archìvios de Windows s’est serrada. S’archìviu at a èssere sarvadu in { $path }.
 file-picker-crashed-save-nowhere = Sa ventana de seletzione de archìvios de Windows s’est serrada. Impossìbile agatare sa cartella predefinida; s’archìviu no at a èssere sarvadu.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = Ammustra in sa cartella
     .accessKey = A
@@ -1483,6 +1550,9 @@ trustpanel-blocker-see-all = Ammustra totu
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Amparu contra sa sighidura pro { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
