@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = p
 text-action-search-text-box-clear =
     .title = Ryd
+text-action-highlight-selection-2 =
+    .label = Fremhæv markering
+    .accesskey = F
 text-action-highlight-selection =
     .label = Fremhæv markering
 # This adds a comment to selected text within the PDF viewer.
