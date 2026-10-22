@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = ਸਾਫ਼ ਕਰੋ
+text-action-highlight-selection-2 =
+    .label = ਚੋਣ ਨੂੰ ਹਾਈਲਾਈਟ ਕਰੋ
+    .accesskey = h
 text-action-highlight-selection =
     .label = ਚੋਣ ਨੂੰ ਹਾਈਲਾਈਟ ਕਰੋ
 # This adds a comment to selected text within the PDF viewer.
