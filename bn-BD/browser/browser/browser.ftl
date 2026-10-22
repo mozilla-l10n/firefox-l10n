@@ -418,6 +418,29 @@ eme-notifications-drm-content-playing = এই সাইটের কিছু �
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = সক্রিয় করুন DRM E
+    .accesskey = E
+eme-notifications-drm-content-cdm-installing-message = এই পাতার অডিও অথবা ভিডিও চালানোর জন্য { -brand-short-name } এর উপাদান ইনস্টল হচ্ছে। অনুগ্রহ করে আবার চেষ্টা করুন।
+decoder-doctor-no-codecs-linux-message = এই ভিডিও চালাতে, আপনাকে প্রয়োজনীয় ভিডিও কোডেক ইন্সটল করতে হবে।
+decoder-doctor-no-hw-acceleration-message = ভিডিওর মান উন্নয়ন করতে, আপনাকে Microsoft এর Media Feature Pack ইন্সটল করতে হবে।
+decoder-doctor-no-pulse-audio-message = এই ভিডিও চালাতে, আপনাকে প্রয়োজনীয় ভিডিও PulseAudio সফটওয়্যার ইন্সটল করতে হবে।
+decoder-doctor-unsupported-libavcodec-message = libavcodec হয়তো দূর্বল বা সমর্থিত নয় এবং ভিডিও চালাতে যা হালনাগাদ করতে হবে।
+decoder-doctor-decode-error-message = মিডিয়া রিসোর্স ডিকোডের সময় একটি ত্রুটি ঘটেছে।
+decoder-doctor-decode-warning-message = মিডিয়া রিসোর্স ডিকোডের সময় একটি উদ্ধারযোগ্য ত্রুটি ঘটেছে।
+decoder-doctor-learn-how-link = শিখুন কিভাবে হয়
+decoder-doctor-report-issue-button =
+    .label = সাইট ইস্যু রিপোর্ট করুন
+    .accesskey = R
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = { $pluginName } প্লাগইন ক্র্যাশ করেছে।
+plugin-crashed-notification-reload-button =
+    .label = পাতা রিলোড
+    .accesskey = R
+plugin-crashed-notification-submit-button =
+    .label = ক্র্যাশ প্রতিবেদন জমা দিন
+    .accesskey = S
 
 ## Password save/update panel
 
