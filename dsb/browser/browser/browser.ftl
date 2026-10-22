@@ -1298,7 +1298,20 @@ decoder-doctor-no-hw-acceleration-message = Aby wideokwalitu pólěpšył, musy�
 decoder-doctor-no-pulse-audio-message = Aby wideo wótgrał, musyśo trjebnu softwaru PulseAudio instalěrowaś.
 decoder-doctor-unsupported-libavcodec-message = libavcodec móžo napadojty byś abo se njepódpěra a by měł se za wótgraśe wideo aktualizěrowaś.
 decoder-doctor-decode-error-message = Pśi dekoděrowanju medijoweje resurse jo zmólka nastała.
+decoder-doctor-decode-warning-message = Pśi dekoděrowanju medijoweje resurse jo wótpórajobna zmólka nastała.
 decoder-doctor-learn-how-link = Zgóńśo kak
+decoder-doctor-report-issue-button =
+    .label = Sedłowy problem k wěsći daś
+    .accesskey = d
+# Variables:
+#   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
+plugin-crashed-notification-message = Tykac { $pluginName } jo se wowalił.
+plugin-crashed-notification-reload-button =
+    .label = Bok znowego zacytaś
+    .accesskey = B
+plugin-crashed-notification-submit-button =
+    .label = Wowaleńsku rozpšawu pósłaś
+    .accesskey = r
 
 ## Password save/update panel
 
