@@ -29,3 +29,8 @@ customize-mode-undo-cmd =
     .label = မလုပ်တော့ပါ
 customize-mode-touchbar-cmd =
     .label = Touch ဘား ကို စိတ်ကြိုက် ပြင်ဆင်ရန်…
+
+## Labels for the special items that can be added to toolbars in customize mode
+
+customize-mode-toolbarspacer =
+    .title = နေရာလွတ်
