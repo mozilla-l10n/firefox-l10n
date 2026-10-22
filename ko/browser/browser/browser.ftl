@@ -1187,6 +1187,16 @@ toolbar-button-tab-groups =
 toolbar-button-developer =
     .label = 개발자
     .tooltiptext = 웹 개발자 도구 열기 ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = 확대/축소 초기화 ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = 확대
+    .tooltiptext = 확대 ({ $shortcut })
+toolbar-edit-controls =
+    .label = 편집 컨트롤
+    .title = 편집 컨트롤
+toolbar-button-cut =
+    .label = 잘라내기
+    .tooltiptext = 잘라내기 ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
