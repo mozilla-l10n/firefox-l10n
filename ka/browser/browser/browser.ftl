@@ -1270,6 +1270,9 @@ eme-notifications-drm-content-playing-dismiss-accesskey = უ
 
 ## Notification bars for media playback issues
 
+decoder-doctor-no-codecs-linux-message = ვიდეოს გასაშვებად შეიძლება დაგჭირდეთ შესაბამისი ვიდეომშიფრავების დაყენება.
+decoder-doctor-no-hw-acceleration-message = ვიდეოს ხარისხის გასაუმჯობესებლად, შეიძლება დაგჭირდეთ Microsoft Media Feature Pack-ის დაყენება.
+decoder-doctor-no-pulse-audio-message = აუდიოს გასაშვებად, შეიძლება დაგჭირდეთ PulseAudio პროგრამა.
 
 ## Password save/update panel
 
