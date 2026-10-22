@@ -960,7 +960,14 @@ eme-notifications-drm-content-disabled-button =
 eme-notifications-drm-content-cdm-installing-message = ഈ താളില്‍ ഓഡിയോ അല്ലെങ്കില്‍ വീഡിയോ കാണുന്നതിനു് ആവശ്യമായ ഘടകങ്ങള്‍ { -brand-short-name } ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു. പിന്നീടു് വീണ്ടും ശ്രമിയ്ക്കുക.
 decoder-doctor-no-codecs-linux-message = വീഡിയോ പ്രവര്‍ത്തിപ്പിക്കാന്‍, വീഡിയോ കൊഡക്കുകള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടി വരും.
 decoder-doctor-no-hw-acceleration-message = വീഡിയോ ഗുണമേന്മ വര്‍ദ്ധിപ്പിക്കാന്‍, മൈക്രോസോഫ്റ്റിന്റെ മീഡിയാ ഫീച്ചര്‍ പാക്ക് ഇന്‍സ്റ്റോള്‍ ചെയ്യേണ്ടി വരും.
+decoder-doctor-no-pulse-audio-message = ഓഡിയോ പ്ലേ ചെയ്യാൻ നിങ്ങൾക്ക് ആവശ്യമായ PulseAudio സോഫ്റ്റ്വെയർ ഇൻസ്റ്റാൾ ചെയ്യേണ്ടതായി വന്നേക്കാം.
+decoder-doctor-unsupported-libavcodec-message = libavcodec കേടുപറ്റാവുന്നതായേക്കാം അല്ലെങ്കിൽ പിന്തുണയ്ക്കുന്നില്ല, വീഡിയോ പ്ലേ ചെയ്യാൻ അപ്ഡേറ്റ് ചെയ്യണം.
+decoder-doctor-decode-error-message = ഒരു മീഡിയ റിസോര്‍സ് ഡീകോഡ് ചെയ്യുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു.
+decoder-doctor-decode-warning-message = ഒരു മീഡിയ റിസോര്‍സ് ഡീകോഡ് ചെയ്യുമ്പോൾ ഒരു വീണ്ടെടുക്കാവുന്ന ഒരു പിശക് സംഭവിച്ചു.
 decoder-doctor-learn-how-link = എങ്ങനെയെന്നറിയാം
+decoder-doctor-report-issue-button =
+    .label = സൈറ്റ് ഇഷ്യു റിപ്പോർട്ട് ചെയ്യുക
+    .accesskey = R
 
 ## Password save/update panel
 
