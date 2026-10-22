@@ -66,6 +66,9 @@ text-action-spell-dictionaries =
     .accesskey = L
 text-action-search-text-box-clear =
     .title = Xóa trắng
+text-action-highlight-selection-2 =
+    .label = Đánh dấu lựa chọn
+    .accesskey = h
 text-action-highlight-selection =
     .label = Đánh dấu lựa chọn
 # This adds a comment to selected text within the PDF viewer.
