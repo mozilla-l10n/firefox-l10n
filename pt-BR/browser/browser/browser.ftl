@@ -1272,6 +1272,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 eme-notifications-drm-content-disabled-message = Você deve ativar o DRM para reproduzir algum áudio ou vídeo nesta página.
 eme-notifications-drm-content-cdm-installing-message = { -brand-short-name } está instalando componentes necessários para reprodução do áudio ou vídeo nesta página. Tente novamente mais tarde.
 decoder-doctor-no-hw-acceleration-message = Para melhorar a qualidade do vídeo, pode ser necessário instalar o Media Feature Pack da Microsoft.
+decoder-doctor-unsupported-libavcodec-message = libavcodec pode ser vulnerável ou não suportado e deve ser atualizado para reproduzir o vídeo.
 decoder-doctor-decode-warning-message = Ocorreu um erro recuperável ao decodificar um recurso de mídia.
 decoder-doctor-report-issue-button =
     .label = Relatar problema no site
