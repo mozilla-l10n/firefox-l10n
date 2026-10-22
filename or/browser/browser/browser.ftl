@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = ୱେବସାଇଟ ସୂଚନା ଦେଖନ୍ତୁ
 
@@ -95,6 +98,9 @@ clear-search-history =
     .label = ଖୋଜା ଇତିହାସ ସଫାକରନ୍ତୁ
     .accesskey = H
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -125,6 +131,22 @@ search-one-offs-context-set-as-default-private =
 search-one-offs-add-engine-menu =
     .label = ସନ୍ଧାନ ଇଞ୍ଜିନ୍ ଯୋଡ଼ନ୍ତୁ
 
+## Local search mode one-off buttons
+## Variables:
+##  $restrict (String): The restriction token corresponding to the search mode.
+##    Restriction tokens are special characters users can type in the urlbar to
+##    restrict their searches to certain sources (e.g., "*" to search only
+##    bookmarks).
+
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
+
+## Bookmark Panel
+
+
 ## Identity Panel
 
 identity-https-only-dropdown-on =
@@ -142,6 +164,9 @@ browser-window-minimize-button =
 browser-window-close-button =
     .tooltiptext = ବନ୍ଦକରନ୍ତୁ
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-select-camera-icon =
@@ -149,6 +174,12 @@ popup-select-camera-icon =
 popup-select-microphone-icon =
     .tooltiptext = ମାଇକ୍ରୋଫୋନ୍
 popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟମାନ ହେଉଥିବା ସମସ୍ତ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସହଭାଗ କରାଯିବ।
+
+## WebRTC window or screen share tab switch warning
+
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -174,9 +205,43 @@ urlbar-go-button2 =
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = { $engine } ସହିତ ଖୋଜନ୍ତୁ
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-history4 = ଇତିହାସ
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
+
+## Reader View toolbar buttons
+
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+
+## Full Screen and Pointer Lock UI
+
 
 ## Bookmarks panels, menus and toolbar
 
@@ -184,6 +249,11 @@ bookmarks-toolbar-chevron =
     .tooltiptext = ଅଧିକ ଚିହ୍ନିତ ସ୍ଥାନ ଦର୍ଶାନ୍ତୁ
 bookmarks-sidebar-content =
     .aria-label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
 
 ##
 
@@ -194,7 +264,14 @@ bookmarks-toolbar-placeholder =
 bookmarks-toolbar-placeholder-button =
     .label = ସାଧନପଟି ବସ୍ତୁଗୁଡ଼ିକୁ ଚିହ୍ନିତ କରନ୍ତୁ
 
-##
+## Library Panel items
+
+
+## Repair text encoding toolbar button
+
+
+## Variables:
+##  $shortcut (String): keyboard shortcut to perform the action
 
 toolbar-button-email-link =
     .label = ଇମେଲ ଲିଙ୍କ
@@ -214,6 +291,28 @@ toolbar-button-open-file =
 toolbar-button-new-private-window =
     .label = ନୂତନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ
     .tooltiptext = ନୂତନ ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ୱିଣ୍ଡୋ ଖୋଲନ୍ତୁ ({ $shortcut })
+toolbar-button-history =
+    .label = ପୁରୁଣା ତଥ୍ଯ
+    .tooltiptext = ଆପଣଙ୍କର ପୁରୁଣାତଥ୍ୟକୁ ଦର୍ଶାନ୍ତୁ ({ $shortcut })
+toolbar-button-find =
+    .label = ଖୋଜନ୍ତୁ
+    .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ଖୋଜନ୍ତୁ  ({ $shortcut })
+toolbar-button-developer =
+    .label = ବିକାଶକାରୀ
+    .tooltiptext = ୱେବ ବିକାଶ ସାଧନଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ ({ $shortcut })
+toolbar-button-forget =
+    .label = ଭୁଲିଯାଆନ୍ତୁ
+    .tooltiptext = କିଛି ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ ଭୁଲି ଯାଆନ୍ତୁ
+
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
+## EME notification panel
+
+
+## Notification bars for media playback issues
+
 
 ## Password save/update panel
 
@@ -225,7 +324,21 @@ panel-save-update-password-2 =
 ui-tour-info-panel-close =
     .tooltiptext = ବନ୍ଦକରନ୍ତୁ
 
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
+
 ##
+
+
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
+##
+
+
+# Navigator Toolbox
 
 navbar-downloads =
     .label = ଆହରଣଗୁଡ଼ିକ
@@ -245,6 +358,22 @@ tabs-toolbar-list-all-tabs =
     .label = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
     .tooltiptext = ସମସ୍ତ ଟ୍ୟାବଗୁଡ଼ିକୁ ତାଲିକାଭୁକ୍ତ କରନ୍ତୁ
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ସ୍ୱୟଂଚାଳିତ ଭାବରେ କିଛି ତଥ୍ୟ { -vendor-short-name } କୁ ପଠାଇଥାଏ ଯାହା ଫଳରେ ଆମେ ଆପଣଙ୍କର ଅଭିଜ୍ଞତାକୁ ଉନ୍ନତ କରିପାରିବୁ।
@@ -252,10 +381,38 @@ data-reporting-notification-button =
     .label = ମୁଁ ଯାହା ସହଭାଗ କରିଛି ତାହାକୁ ବାଛନ୍ତୁ
     .accesskey = C
 
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ଏହି ପୃଷ୍ଠାକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ପୁନର୍ଧାରଣ କରିବାରୁ ପ୍ରତିରୋଧ କରିଛି.
 refresh-blocked-redirect-label = { -brand-short-name } ଏହି ପୃଷ୍ଠାକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଅନ୍ୟ ଏକ ପୃଷ୍ଠାକୁ ପୁନଃ ପ୍ରେରଣ କରିବାରୁ ପ୍ରତିରୋଧ କରିଛି.
+
+## Firefox Relay integration
+
+
+## Add-on Pop-up Notifications
+
 
 ## Pop-up warning
 
@@ -270,3 +427,29 @@ popup-warning-message =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = '{ $popupURI }'କୁ ଦର୍ଶାନ୍ତୁ
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
