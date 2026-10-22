@@ -1003,6 +1003,9 @@ toolbar-button-share-tab =
 toolbar-button-developer =
     .label = Taneflit
     .tooltiptext = Ifecka n tneflit web ({ $shortcut })
+toolbar-button-forget =
+    .label = Sfeḍ isefka
+    .tooltiptext = Sfeḍ isefka n umazray n iminig
 toolbar-zoom-controls =
     .label = Aswir n usemɣeṛ/asemẓi
     .title = Aswir n usemɣeṛ/asemẓi
@@ -1019,6 +1022,12 @@ toolbar-edit-controls =
 toolbar-button-cut =
     .label = Gzem
     .tooltiptext = Gzem ({ $shortcut })
+toolbar-button-copy =
+    .label = Nɣel
+    .tooltiptext = Nɣel ({ $shortcut })
+toolbar-button-paste =
+    .label = Senteḍ
+    .tooltiptext = Senteḍ ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
