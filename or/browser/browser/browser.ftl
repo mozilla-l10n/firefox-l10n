@@ -303,6 +303,28 @@ toolbar-button-developer =
 toolbar-button-forget =
     .label = ଭୁଲିଯାଆନ୍ତୁ
     .tooltiptext = କିଛି ବ୍ରାଉଜିଙ୍ଗ ପୁରୁଣା ତଥ୍ୟ ଭୁଲି ଯାଆନ୍ତୁ
+toolbar-zoom-controls =
+    .label = ଆକାର ପରିବର୍ତ୍ତନ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ
+    .title = ଆକାର ପରିବର୍ତ୍ତନ ନିୟନ୍ତ୍ରଣଗୁଡ଼ିକ
+toolbar-button-zoom-out =
+    .label = ଛୋଟ କରିବା
+    .tooltiptext = ଛୋଟ କରନ୍ତୁ ({ $shortcut })
+toolbar-button-zoom-reset-tooltip = ଆକାର ପରିବର୍ତ୍ତନ ସ୍ତରକୁ ପୁଣି ସେଟ କରନ୍ତୁ ({ $shortcut })
+toolbar-button-zoom-in =
+    .label = ବଡ଼ କରିବା
+    .tooltiptext = ବଡ କରନ୍ତୁ ({ $shortcut })
+toolbar-edit-controls =
+    .label = ନିଯନ୍ତ୍ରଣଗୁଡିକୁ ସମ୍ପାଦନ କରନ୍ତୁ
+    .title = ନିଯନ୍ତ୍ରଣଗୁଡିକୁ ସମ୍ପାଦନ କରନ୍ତୁ
+toolbar-button-cut =
+    .label = କାଟନ୍ତୁ
+    .tooltiptext = କାଟନ୍ତୁ ({ $shortcut })
+toolbar-button-copy =
+    .label = ନକଲ କରନ୍ତୁ
+    .tooltiptext = ନକଲ ({ $shortcut })
+toolbar-button-paste =
+    .label = ଲଗାନ୍ତୁ
+    .tooltiptext = ଲଗାନ୍ତୁ ({ $shortcut })
 
 ## Default filenames used when saving a QR code. The file extension (.png)
 ## is added automatically.
