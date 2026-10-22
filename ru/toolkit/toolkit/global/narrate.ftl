@@ -16,6 +16,8 @@ narrate-start =
     .title = Начать ({ $shortcut })
 narrate-stop =
     .title = Остановить ({ $shortcut })
+narrate-skip-next =
+    .title = Вперёд ({ $shortcut })
 
 ##
 
