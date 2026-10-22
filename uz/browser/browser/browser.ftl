@@ -560,6 +560,13 @@ eme-notifications-drm-content-playing-manage = Sozlamalarni boshqarish
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-button =
+    .label = DRM’ni yoqish
+    .accesskey = y
+eme-notifications-drm-content-cdm-installing-message = Ushbu sahifadagi audio yoki videolarni ko‘rish va tinglashingiz uchun { -brand-short-name } kerakli komponentlarni o‘rnatmoqda. Keyinroq urinib ko‘ring.
+decoder-doctor-no-codecs-linux-message = Videoni tomosha qilish uchun kerakli video kodeklarni o‘rnatishingiz kerak.
+decoder-doctor-no-hw-acceleration-message = Videoni tomosha qilish uchun siz Microsoft kompaniyasining "Media Feature Pack" to‘plamini o‘rnatishingiz kerak.
+decoder-doctor-learn-how-link = Qanday amalga oshirishni o‘rganish
 
 ## Password save/update panel
 
