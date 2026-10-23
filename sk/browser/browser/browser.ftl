@@ -347,7 +347,7 @@ quickactions-addons = Zobraziť doplnky
 quickactions-cmd-addons3 = rozšírenia, témy, doplnky
 # Opens preferences page at AI controls
 quickactions-manageai = Spravovať nastavenia umelej inteligencie
-quickactions-cmd-manageai = vypnúť ai, spravovať ai
+quickactions-cmd-manageai = vypnúť ai, spravovať ai, umelá inteligencia
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Spravovať záložky
 quickactions-cmd-bookmarks = záložky
