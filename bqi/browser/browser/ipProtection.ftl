@@ -164,6 +164,7 @@ ipprotection-connection-status-network-error-description = و اینترنت م�
 ipprotection-connection-status-blocked-error-title-1 = VPN من دسرس نؽ
     .aria-label = VPN من دسرس نؽ
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN سی ای وبگه کۊر هڌ
+confirmation-hint-ipprotection-navigated-to-included-site = VPN سی ای وبگه رۊشن هڌ
 ipprotection-open-button = گۊشیڌن { -brand-product-name }
 
 ## IP Protection Settings

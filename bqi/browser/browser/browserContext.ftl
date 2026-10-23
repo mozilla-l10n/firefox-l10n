@@ -426,6 +426,11 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect =
     .label = بازرسی
     .accesskey = Q
+# This item only shows for DevTools users, so its access key may be the same
+# as another item's, such as "Copy Image".
+main-context-menu-inspect-a11y-properties2 =
+    .label = بازرسی ویژیی یل دسرسی پزیری
+    .accesskey = ب
 main-context-menu-inspect-a11y-properties =
     .label = بازرسی ویژیی یل دسرسی پزیری
 main-context-menu-eme-learn-more =
@@ -441,6 +446,8 @@ main-context-menu-reveal-password =
     .accesskey = v
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = نۊ
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = آزمایشی
 main-context-menu-pdfjs-copy-page =
     .label = لف گیری بلگه
 main-context-menu-pdfjs-cut-page =

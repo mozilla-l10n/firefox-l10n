@@ -41,5 +41,7 @@ customize-mode-downloads-button-autohide =
 
 customize-mode-toolbarspring =
     .title = جاگه انعتاف پزیر
+customize-mode-toolbarseparator =
+    .title = سوا ساز
 customize-mode-toolbarspacer =
     .title = فاسله

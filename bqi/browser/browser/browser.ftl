@@ -36,6 +36,11 @@ urlbar-identity-button2 =
             [one] سیل کردن دووسمندیا وبگه (1 رڌجۊر مسدۊد وابیڌه)
            *[other] سیل کردن دووسمندیا وبگه ({ $count } رڌجۊر مسدۊد وابیڌن)
         }
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = یک رسۊوی…
+    .accesskey = ی
 urlbar-identity-button =
     .aria-label = نیشتن دووسمندیا وبگه
 

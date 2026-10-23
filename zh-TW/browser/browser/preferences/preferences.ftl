@@ -1816,6 +1816,61 @@ permissions-data-section =
     .heading = 權限與資料
 pane-permissions-data-title2 = 權限與資料
     .title = 權限與資料
+notifications-section-header =
+    .heading = 通知
+notifications-entry-card-header =
+    .description = 選擇哪些網站可以傳送通知，以及要如何顯示。
+    .label = 通知
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+           *[other] { $count } 個網站
+        }
+    .label = 管理通知設定
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = 管理網站通知設定
+notifications-website-card-header =
+    .description = 選擇網站可如何傳送通知。
+    .label = 網站通知
+notifications-filter =
+    .placeholder = 搜尋網站
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = 網站
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = 允許通知
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = 網站
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = 總是
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = 允許
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = 永不
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = 尚未新增任何網站通知。
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = 沒有任何符合您搜尋條件的網站通知。
 
 ## Privacy Section - Data Collection
 

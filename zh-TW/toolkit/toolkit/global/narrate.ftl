@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = 大聲朗讀
+narrate-rate-input =
+    .aria-label = 請選擇旁白速度（在 -100 到 100 之間），0 為預設速度。
+    .title = 速度
 narrate-rate-slow =
     .title = 放慢說話速度
 narrate-rate-fast =
@@ -34,4 +37,4 @@ narrate-voice-default = 預設
 # Variables:
 #   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
 #   $language (String) - The language of the voice, as a localized language name or a language tag (e.g. "en-US").
-narrate-voice-label = { $name } ({ $language })
+narrate-voice-label = { $name }（{ $language }）

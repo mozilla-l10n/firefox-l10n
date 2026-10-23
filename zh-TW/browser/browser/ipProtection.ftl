@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = 使用 { -brand-pro
 ipprotection-feature-introduction-link-text-private-browsing-2 = 請使用我們全新推出的<a data-l10n-name="learn-more-vpn">內建 VPN</a> 功能，來隱藏所在位置，並保護您的資料，就算在隱私瀏覽視窗中也能受到保護。
 ipprotection-feature-introduction-description-private-browsing = 隱藏您的實際所在位置，就算是在隱私視窗中也能獲得額外保護。
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = 協助您在上網時隱藏實際所在位置。您可以設定規則，在需要<a data-l10n-name="learn-more-vpn">加強隱私</a>時，或需要開啟特定地點網站時才開啟 VPN；不需要時可維持關閉。
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = 在您上網時隱藏實際所在地點，以獲得<a data-l10n-name="learn-more-vpn">更多隱私保障</a>。您可以設定規則，對需要更多隱私保護或根據地點顯示不同資訊的網站開啟 VPN，或在不需要的地方關閉。
 ipprotection-feature-introduction-title-captive-portal = 透過公共 Wi-Fi 上網嗎？請試用 { -brand-product-name } 的內建 VPN。
 ipprotection-feature-introduction-description-captive-portal = 隱藏您的實際所在位置，就算是使用公共 Wi-Fi 也能獲得額外保護。
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = 知道了！
 ipprotection-site-inclusions-callout-title-existing-users = 設定內建 VPN 規則，然後繼續上網
 ipprotection-site-inclusions-callout-title-lapsed-users = 試用內建 VPN 功能，現在可針對特定網站單獨開啟
 ipprotection-site-inclusions-callout-description-1 = 針對需加強隱私保護，或瀏覽特定地區內容時開啟 VPN，不需要時則關閉。
+ipprotection-site-inclusions-callout-description-lapsed-users = 設定規則，針對需加強隱私保護，或瀏覽特定地區內容時開啟 VPN，不需要時則關閉。
 ipprotection-site-inclusions-callout-description = 針對需加強隱私保護，或瀏覽特定地區內容時開啟，不需要時則關閉。
 ipprotection-site-inclusions-callout-primary-button = 設定規則
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 現在不要
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 知道了�
 ipprotection-holiday-promo-description = 透過內建 VPN 功能，讓您上網更有隱私，也更難被追蹤。
 ipprotection-holiday-promo-primary-button = 開啟 VPN
 ipprotection-holiday-promo-secondary-button = 知道了！
+ipprotection-holiday-promo-title-1 = 1 月 31 日前可無限流量使用 VPN
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = 開啟 VPN 即可隱藏您的
 ipprotection-message-continuous-onboarding-autostart = 設定在每次開啟 { -brand-short-name } 時<a data-l10n-name="setting-link">就自動開啟 VPN</a>，讓您受到更多一層保護。
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } 會記得您設定要讓哪些網站透過 VPN 開啟。也可隨時到<a data-l10n-name="setting-link">設定</a>當中調整。
 confirmation-hint-ipprotection-navigated-to-excluded-site = 已對此網站關閉 VPN 連線
+confirmation-hint-ipprotection-navigated-to-included-site = 已對此網站開啟 VPN 連線
 ipprotection-open-button = 開啟 { -brand-product-name }
 ipprotection-come-back-title = 回來試用內建 VPN 功能
 ipprotection-message-body-hide-location = 在 { -brand-product-name } 上網時隱藏您的實際所在位置，讓您更有隱私，更有掌控。
