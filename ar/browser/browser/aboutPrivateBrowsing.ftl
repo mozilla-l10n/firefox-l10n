@@ -52,6 +52,10 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = لن تحفظ ملفات تعريف الارتباط ولا التاريخ، مباشرة من سطح مكتبك. تصفح وكأن لا أحد يراقبك.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-header = ساعد في منع الرسائل غير المرغوب فيها في صندوق الوارد باستخدام عناوين بريد إلكتروني مستعارة.
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
@@ -69,7 +73,29 @@ about-private-browsing-felt-privacy-v1-info-link = من يمكنه رؤية نش
 
 about-private-browsing-nova-info-body = يؤدي إغلاق جميع نوافذك الخاصة إلى حذف ملفات تعريف الارتباط وسجل التصفح وبيانات الموقع.
 about-private-browsing-nova-info-link = مَن قد يكون قادرًا على رؤية نشاطي؟
+about-private-browsing-private-window-redesign-subheader = صُمّم { -brand-short-name } لحماية خصوصيتك أثناء التصفح، من خلال وسائل حماية مدمجة من التتبع. عند إغلاق هذه النافذة، سيتم حذف التأريخ وملفات تعريف الارتباط وبيانات المواقع، للحفاظ على خصوصية تصفحك عن الآخرين الذين يستخدمون هذا الجهاز.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = أنت خارج نطاق التسجيل
+about-private-browsing-nova-info-subheader2 = سنحذف جميع عمليات البحث وبيانات الولوج عند إغلاق جميع نوافذ التصفح الخاص. كما أن وسائل الحماية المدمجة في { -brand-short-name } مفعّلة هنا أيضًا، مثل حظر المتعقبّات.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = أساسيات النوافذ الخاصة
+about-private-browsing-spotlight-basics-subtitle = تساعد النوافذ الخاصة في الحفاظ على خصوصية تصفحك للإنترنت على هذا الجهاز. لكنها لا تجعلك مجهول الهوية أو تمسح جميع بياناتك.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = ما يجب معرفته
+about-private-browsing-spotlight-basics-activity-seen = قد يظل بعض النشاط مرئيًا للمواقع الإلكترونية، ومحركات البحث ومزودي خدمة الإنترنت أو حتى صاحب العمل.
+about-private-browsing-spotlight-basics-bookmarks-downloads = تبقى العلامات والتنزيلات على جهازك وقد تظهر في شريط العناوين.
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = مزيد من الحماية للخصوصية
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } ينبهك تلقائيًا بشأن البرامج الضارة والمواقع المخادعة.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data = { -brand-short-name } يطلب تلقائيًا من المواقع المشاركة عدم بيع أو مشاركة بياناتك الشخصية.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = بدِّل إلى الوضع الصارم في الإعدادات للحصول على حماية أقوى ضد التتبع.
+about-private-browsing-spotlight-basics-learn-more = اطّلع على المزيد
