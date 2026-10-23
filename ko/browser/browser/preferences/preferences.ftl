@@ -1849,13 +1849,24 @@ notifications-list-header-state = 알림 허용
 notifications-list-header-empty =
     .label = 웹 사이트
 # Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = 항상
+# Read-only state shown on each row of the website notifications list, in the
 # column headed "Allow notifications". "Allow" is used where notifications
 # cannot be delivered while Firefox is closed.
 notifications-state-allow = 허용
 # Read-only state shown on each row of the website notifications list, in the
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
-notifications-state-never = 허용 안 함
+notifications-state-never = 안 함
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = 추가된 웹 사이트 알림이 없습니다.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = 검색어와 일치하는 웹 사이트 알림이 없습니다.
 
 ## Privacy Section - Data Collection
 

@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } 연구 실행을 막습니�
 policy-DisableForgetButton = Forget 버튼 접근을 막습니다.
 policy-DisableFormHistory = 검색과 양식 기록을 기억하지 않습니다.
 policy-DisableLaunchOnLogin = 사용자가 로그인할 때 { -brand-short-name }가 자동으로 실행되지 않도록 합니다.
+policy-DisableMacOSUserPolicies = macOS의 사용자 설정 및 사용자 범위 구성 프로필에 있는 정책을 무시합니다.
 policy-DisablePrimaryPasswordCreation = True 값이면 기본 비밀번호를 만들 수 없습니다.
 policy-DisablePasswordReveal2 = 저장된 로그인이나 비밀번호 필드에 비밀번호가 표시되는 것을 허용하지 않습니다.
 policy-DisablePrivateBrowsing = 사생활 보호 모드를 사용 안 합니다.

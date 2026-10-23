@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = { -brand-product-na
 ipprotection-feature-introduction-link-text-private-browsing-2 = 새로운 <a data-l10n-name="learn-more-vpn">내장 VPN</a>을 사용하여 사생활 보호 창에 있을 때도 위치를 숨기고 데이터를 보호하세요.
 ipprotection-feature-introduction-description-private-browsing = 사생활 보호 창에 있을 때도 위치를 숨겨 탐색을 추가 보호합니다.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = 탐색할 때 위치를 숨길 수 있습니다. <a data-l10n-name="learn-more-vpn">추가적인 개인 정보 보호</a> 또는 위치 기반 탐색을 원할때 VPN을 켜고 그렇지 않은 곳에서는 VPN을 끄는 규칙을 설정해 보세요.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = 탐색할 때 <a data-l10n-name="learn-more-vpn">개인 정보 보호</a>를 위해 위치를 숨길 수 있습니다. 추가 개인 정보 보호 또는 위치 기반 탐색을 위해 VPN을 켜고 그렇지 않은 곳에서는 끄는 규칙을 설정하세요.
 ipprotection-feature-introduction-title-captive-portal = 공용 Wi-Fi를 사용하고 계십니까? { -brand-product-name }에 내장된 VPN을 사용해 보세요.
 ipprotection-feature-introduction-description-captive-portal = 공용 Wi-Fi에서도 위치를 숨겨 탐색을 추가 보호합니다.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = 확인
 ipprotection-site-inclusions-callout-title-existing-users = 내장 VPN 규칙을 설정하고, 계속해서 자유롭게 탐색해 보세요
 ipprotection-site-inclusions-callout-title-lapsed-users = 이제 사이트별로 내장 VPN을 이용해 보세요
 ipprotection-site-inclusions-callout-description-1 = 추가적인 개인 정보 보호 또는 위치 기반 탐색이 필요할 때 켜고 그렇지 않은 곳에서 끌 수 있습니다.
+ipprotection-site-inclusions-callout-description-lapsed-users = 추가적인 개인 정보 보호 또는 위치 기반 탐색이 필요할 때 켜고 그렇지 않은 곳에서 끌 수 있습니다.
 ipprotection-site-inclusions-callout-description = 추가적인 개인 정보 보호 또는 위치 기반 탐색이 필요할 때 켜고 그렇지 않은 곳에서 끌 수 있습니다.
 ipprotection-site-inclusions-callout-primary-button = 규칙 설정
 ipprotection-site-inclusions-callout-secondary-button-existing-users = 나중에
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = 닫기
 ipprotection-holiday-promo-description = 내장형 VPN으로 탐색에서 개인 정보를 보호하고 추적을 어렵게 만드세요.
 ipprotection-holiday-promo-primary-button = VPN 열기
 ipprotection-holiday-promo-secondary-button = 닫기
+ipprotection-holiday-promo-title-1 = 1월 31일까지 VPN 무제한 제공
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = VPN을 켜서 위치를 숨�
 ipprotection-message-continuous-onboarding-autostart = { -brand-short-name }를 열 때마다 <a data-l10n-name="setting-link">VPN을 켜도록 설정</a>하여 추가 보호 계층을 사용하세요.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }는 VPN을 사용하도록 설정한 웹 사이트를 기억합니다. <a data-l10n-name="setting-link">설정</a>에서 언제든지 변경할 수 있습니다.
 confirmation-hint-ipprotection-navigated-to-excluded-site = 이 사이트에서 VPN 꺼짐
+confirmation-hint-ipprotection-navigated-to-included-site = 이 사이트에서 VPN 켜짐
 ipprotection-open-button = { -brand-product-name } 열기
 ipprotection-come-back-title = 다시 돌아와 내장된 VPN을 이용해 보세요
 ipprotection-message-body-hide-location = { -brand-product-name }에서 탐색할 때 위치를 숨겨 개인 정보 보호를 강화하고 제어 권한을 높여보세요.

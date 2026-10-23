@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = 소리내어 읽기
+narrate-rate-input =
+    .aria-label = -100에서 100 사이에서 내레이션 속도를 선택하세요. 0이 기본 속도입니다.
+    .title = 속도
 narrate-rate-slow =
     .title = 내레이션 느리게
 narrate-rate-fast =
