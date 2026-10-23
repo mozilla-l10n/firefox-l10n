@@ -1949,7 +1949,7 @@ data-collection-backlogged-crash-reports =
     .accesskey = z
 data-collection-usage-ping =
     .description = Toto pomáha spoločnosti { -vendor-short-name } odhadnúť počet aktívnych používateľov.
-    .label = Odosielať ping denného používania { -vendor-short-name(case: "gen") }
+    .label = Odosielať { -vendor-short-name(case: "dat") } údaje o dennom používaní
     .accesskey = l
 
 ## Privacy Section - Security
