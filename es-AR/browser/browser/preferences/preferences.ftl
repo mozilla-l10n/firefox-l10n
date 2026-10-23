@@ -1821,6 +1821,57 @@ permissions-data-section =
     .heading = Permisos y datos
 pane-permissions-data-title2 = Permisos y datos
     .title = Permisos y datos
+notifications-section-header =
+    .heading = Notificaciones
+notifications-entry-card-header =
+    .description = Seleccione qué sitios web pueden enviar notificaciones y cómo se muestran esas alertas.
+    .label = Notificaciones
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } sitio web
+           *[other] { $count } sitios web
+        }
+    .label = Administrar configuración de notificaciones
+notifications-website-card-header =
+    .description = Seleccionar cómo los sitios web pueden enviar notificaciones.
+    .label = Notificaciones de sitio web
+notifications-filter =
+    .placeholder = Buscar sitios Web
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Sitio web
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Permitir notificaciones
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Sitios web
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Siempre
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Permitir
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Nunca
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = No se agregaron notificaciones de sitios web.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Ninguna notificación de sitios web coincide con la búsqueda.
 
 ## Privacy Section - Data Collection
 
