@@ -113,6 +113,16 @@ urlbar-result-menu-manage-firefox-suggest2 = أدر { -firefox-suggest-brand-nam
 urlbar-result-menu-report-inaccurate-location2 = بلّغ عن موقع غير دقيق
 urlbar-result-menu-show-less-frequently2 = اعرض أقل تواترا
 urlbar-result-menu-dont-show-weather-suggestions2 = لا تعرض اقتراحات الطقس
+# Shown in the urlbar input field context menu to dismiss an adaptive autofill
+# suggestion.
+urlbar-input-dismiss-autofill =
+    .label = أهمل هذا الاقتراح
+    .accesskey = م
+# Shown in the urlbar input field context menu to remove an adaptive autofill
+# URL from history.
+urlbar-input-remove-from-history =
+    .label = احذف من التأريخ
+    .accesskey = ذ
 urlbar-result-menu-learn-more =
     .label = اطّلع على المزيد
     .accesskey = ز
@@ -421,6 +431,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = اعرض المحرر عند الحفظ
     .accesskey = ظ
+bookmark-panel-save-button2 =
+    .label = احفظ
+    .accesskey = ا
 bookmark-panel-save-button =
     .label = احفظ
 # Width of the bookmark panel.
@@ -489,6 +502,8 @@ identity-description-passive-loaded-insecure2 = يحوي هذا الموقع م�
 identity-description-passive-loaded-mixed2 = مع أنّ { -brand-short-name } حجب بعض المحتويات، إلا أن هناك أخرى غير آمنة ما زالت في الصفحة (مثل الصور).
 identity-description-active-loaded = يحوي هذا الموقع محتوى غير آمن (مثل السكربتات) و اتصالك به ليس خاصا.
 identity-description-active-loaded-insecure = يمكن للآخرين مطالعة المعلومات التي تشاركها مع الموقع (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).
+identity-description-tls-key-logging-heading = قد لا يكون اتصالك خاصًا
+identity-description-tls-key-logging-message = قد يتمكن تطبيق أو خدمة ما من رؤية حركة البيانات المُعمّاة الخاصة بك من هذا الموقع.
 identity-more-info-link-text =
     .label = المزيد من المعلومات
 
@@ -853,6 +868,14 @@ urlbar-searchmode-bookmarks4 = العلامات
 urlbar-searchmode-tabs4 = الألسنة
 urlbar-searchmode-history4 = التأريخ
 urlbar-searchmode-actions4 = الإجراءات
+urlbar-searchmode-bookmarks3 = العلامات
+    .accesskey = م
+urlbar-searchmode-tabs3 = الألسنة
+    .accesskey = ا
+urlbar-searchmode-history3 = التأريخ
+    .accesskey = ا
+urlbar-searchmode-actions3 = الإجراءات
+    .accesskey = ء
 urlbar-searchmode-exit-button2 =
     .title = أغلق
 urlbar-searchmode-default2 =
@@ -868,6 +891,12 @@ urlbar-searchmode-popup-one-off-header = ابحث هذه المرة بـ:
 # Label shown on the top of Searchmode Switcher popup when the search engine won't automatically
 # reset after submitting.
 urlbar-searchmode-popup-header = ابحث بـ:
+urlbar-searchmode-popup-search-settings2 = إعدادات البحث
+urlbar-searchmode-popup-settings2 = الإعدادات
+urlbar-searchmode-popup-search-settings = إعدادات البحث
+    .accesskey = ع
+urlbar-searchmode-popup-settings = الإعدادات
+    .accesskey = د
 
 ## Action text shown in urlbar results, usually appended after the search
 ## string or the url, like "result value - action text".
@@ -906,6 +935,12 @@ urlbar-view-context-menu-open-in-window2 = افتح في نافذة جديدة
     .accesskey = ف
 urlbar-view-context-menu-open-in-private-window2 = افتح في نافذة خاصة جديدة
     .accesskey = ف
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = تخطَّ هذه القائمة عند استخدام مفتاح Tab
+    .accesskey = ط
 
 ## Labels shown above groups of urlbar results
 
@@ -1280,6 +1315,9 @@ tabs-toolbar =
     .aria-label = ألسنة المتصفح
 tabs-toolbar-new-tab =
     .label = لسان جديد
+tabs-toolbar-list-all-tabs-2 =
+    .label = ابحث وأدِر الألسنة
+    .tooltiptext = ابحث وأدِر الألسنة
 tabs-toolbar-list-all-tabs =
     .label = اسرد كل الألسنة
     .tooltiptext = اسرد كل الألسنة
@@ -1304,6 +1342,8 @@ filepicker-blocked-infobar = حجبت منظّمتك الوصول إلى الم�
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } يبحث الآن في ألسنتك
+urlbar-addons-shortcut-moved-description = لفتح الإضافات والسمات، استخدم { $addonsShortcut }.
 urlbar-addons-shortcut-moved-change-shortcuts = إدارة الاختصارات
 urlbar-addons-shortcut-moved-dismiss = فهمت
 
@@ -1390,6 +1430,27 @@ reset-pbm-panel-complete = حُذفت بيانات الجلسة الخاصة
 reset-pbm-toolbar-button2 =
     .label = امحُ الجلسة الخاصة
     .tooltiptext = امحُ الجلسة الخاصة
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = احذف بعض أو كل بيانات تصفحك
+    .tooltiptext = احذف بعض أو كل بيانات تصفحك
+fire-button-panel-heading = حذف جميع بيانات التصفح؟
+fire-button-panel-description = سيؤدي هذا إلى حذف سجل التصفح وملفات تعريف الارتباط وبيانات الموقع. سيتم تسجيل خروجك من المواقع. ستُغلق هذه النافذة، وسيتم فتح نافذة جديدة باستخدام { -brand-short-name }.
+fire-button-panel-choose-description = إذا كنت لا ترغب في حذف كل شيء، فاختر بيانات محددة بدلاً من ذلك.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = اختر…
+fire-button-panel-cancel-button =
+    .label = ألغِ
+    .accesskey = غ
+fire-button-panel-confirm-button =
+    .label = احذف الكل
+    .accesskey = ك
+fire-button-panel-complete = حُذفت بيانات التصفح
 
 ## Autorefresh blocker
 

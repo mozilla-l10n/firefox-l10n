@@ -105,6 +105,10 @@ move-to-new-profile =
 tab-context-close-multiple-tabs =
     .label = أغلِق أكثر من لسان
     .accesskey = ك
+# Sub-menu label in context menu with different options to close multiple tabs (e.g. close to right, left, etc.).
+tab-context-close-multiple-tabs2 =
+    .label = إغلاق متعدد
+    .accesskey = د
 tab-context-close-duplicate-tabs =
     .label = أغلِق الألسنة المتكررة
     .accesskey = ك
@@ -148,6 +152,18 @@ tab-context-close-n-tabs =
            *[other] أغلِق { $tabCount } لسان
         }
     .accesskey = ا
+tab-context-close-n-tabs2 =
+    .label =
+        { $tabCount ->
+            [1] أغلق
+            [zero] أغلِق { $tabCount } لسان
+            [one] أغلِق اللسان
+            [two] أغلِق لسانين ({ $tabCount })
+            [few] أغلِق { $tabCount } ألسنة
+            [many] أغلِق { $tabCount } لسانًا
+           *[other] أغلِق { $tabCount } لسان
+        }
+    .accesskey = أ
 tab-context-move-tabs =
     .label =
         { $tabCount ->

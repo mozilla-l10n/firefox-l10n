@@ -1810,6 +1810,51 @@ permissions-data-section =
     .heading = الأذونات والبيانات
 pane-permissions-data-title2 = الأذونات والبيانات
     .title = الأذونات والبيانات
+notifications-section-header =
+    .heading = الإشعارات
+notifications-entry-card-header =
+    .description = اختر المواقع الإلكترونية التي يمكنها إرسال الإشعارات، وكيف تظهر هذه التنبيهات.
+    .label = الإشعارات
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = أدر إعدادات إشعارات الموقع الإلكتروني
+notifications-website-card-header =
+    .description = اختر الطريقة التي يمكن للمواقع الإلكترونية من خلالها إرسال الإشعارات.
+    .label = إشعارات الموقع الإلكتروني
+notifications-filter =
+    .placeholder = ابحث في المواقع
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = الموقع
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = اسمح بالإشعارات
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = مواقع وِب
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = دائمًا
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = اسمح
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = أبدًا
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = لم تتم إضافة أي إشعارات للموقع الإلكتروني.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = لا توجد إشعارات من مواقع الوِب تتطابق مع بحثك.
 
 ## Privacy Section - Data Collection
 
@@ -2133,6 +2178,9 @@ preferences-ai-controls-tab-group-suggestions-control =
 preferences-ai-controls-key-points-control =
     .description = اطّلع على ملخص سريع قبل فتح أي رابط.
     .label = أهم النقاط في معاينات الروابط
+preferences-ai-controls-speech-recognition-control =
+    .description = حوِّل الكلام لنص محليًا.
+    .label = التعرُف على الكلام
 preferences-ai-controls-sidebar-chatbot-group =
     .description = أبقِ روبوت الدردشة أمامك أثناء التصفح. اختر من بين Anthropic Claude وChatGPT وCopilot وGoogle Gemini وLe Chat Mistral.
     .label = مزودي برامج الدردشة الآلية المدعومة بالذكاء الاصطناعي في الشريط الجانبي
@@ -2159,6 +2207,7 @@ preferences-ai-controls-block-confirmation-pdfjs = نص بديل للصورة ف
 preferences-ai-controls-block-confirmation-tab-group-suggestions = اقتراحات مجموعات اللسان
 preferences-ai-controls-block-confirmation-key-points = أهم النقاط في معاينات الروابط
 preferences-ai-controls-block-confirmation-sidebar-chatbot = مزودي برامج الدردشة الآلية في الشريط الجانبي
+preferences-ai-controls-block-confirmation-speech-recognition = التعرُف على الكلام
 preferences-ai-controls-block-confirmation-features-after = يؤثر الحظر أيضًا على الإمتدادات التي تستخدم الذكاء الاصطناعي المقدم من { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = ألغِ
