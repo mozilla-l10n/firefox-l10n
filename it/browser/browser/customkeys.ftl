@@ -17,6 +17,7 @@ customkeys-reset-all = Ripristina tutte le scorciatoie predefinite
 customkeys-conflict-confirm = Questo tasto è già assegnato a { $conflict }. Sostituirlo?
 customkeys-reset-all-confirm = Ripristinare le impostazioni predefinite di tutte le scorciatoie da tastiera?
 customkeys-file-duplicate-tab = Duplica scheda
+customkeys-file-copy-tab-url = Copia URL scheda
 customkeys-file-focus-search = Attiva la barra di ricerca
 customkeys-history-reopen-tab = Riapri l’ultima scheda chiusa
 customkeys-history-reopen-window = Riapri l’ultima finestra chiusa

@@ -563,6 +563,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Opzioni oroscopo
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Ulteriori informazioni
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Realizzato da Yahoo
 
 ## Strings for the Travel widget
 
