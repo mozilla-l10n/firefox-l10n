@@ -125,6 +125,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = خارج ک
 ipprotection-holiday-promo-description = بلٹ اِن وی پی این نال آپݨی براؤزنگ کوں پرائیویٹ بݨاؤ تے اوندے پچھوں لگݨ اوکھا کرو۔
 ipprotection-holiday-promo-primary-button = VPN کھولو
 ipprotection-holiday-promo-secondary-button = خارج کرو
+ipprotection-holiday-promo-title-1 = ٣١ جنوری تیکر بے شمار وی پی این مفت گھنو
 
 ## Panel
 
@@ -250,6 +251,7 @@ ipprotection-message-continuous-onboarding-intro = اپݨی لوکیشن لکا�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">VPN چالو کرݨ تے سیٹ کرو</a> ہر واری جݙاں تساں تحفظ دی ہِک اضافی تہہ کیتے { -brand-short-name } کھولیسو۔
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } یاد رکھیسی کہ تساں کیڑھیاں ویب سائٹاں VPN ورتݨ کیتے سیٹ کیتیاں ہن۔ ایناں کوں کِسے وی ویلھے <a data-l10n-name="setting-link">سیٹنگز</a> وچ اپ ڈیٹ کرو۔
 confirmation-hint-ipprotection-navigated-to-excluded-site = ایں سائٹ کیتے VPN بند ہے
+confirmation-hint-ipprotection-navigated-to-included-site = VPN این سائٹ کیتے آن اے
 ipprotection-open-button = { -brand-product-name } کھولو
 ipprotection-come-back-title = بلٹ اِن VPN آزماوݨ کیتے واپس آؤ
 ipprotection-message-body-hide-location = اپݨی لوکیشن لکاو جݙاں تساں { -brand-product-name } وچ براؤز کریندے ہو، بیا پرائیویسی تے کنٹرول کیتے۔
