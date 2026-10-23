@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Read aloud
+narrate-rate-input =
+    .aria-label = Choose a narration speed from -100 to 100, where 0 is the default speed.
+    .title = Speed
 narrate-rate-slow =
     .title = Slow down narration
 narrate-rate-fast =

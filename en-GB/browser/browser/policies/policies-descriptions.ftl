@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = Prevent { -brand-short-name } from running studie
 policy-DisableForgetButton = Prevent access to the Forget button.
 policy-DisableFormHistory = Don’t remember search and form history.
 policy-DisableLaunchOnLogin = Prevent { -brand-short-name } from launching automatically when the user logs in.
+policy-DisableMacOSUserPolicies = Ignore policies from the user’s preferences and from user-scope configuration profiles on macOS.
 policy-DisablePrimaryPasswordCreation = If true, a Primary Password can’t be created.
 policy-DisablePasswordReveal2 = Do not allow passwords to be revealed in saved logins or password fields.
 policy-DisablePrivateBrowsing = Disable Private Browsing.
