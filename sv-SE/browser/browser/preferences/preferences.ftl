@@ -1840,7 +1840,7 @@ notifications-entry-card-header =
 notifications-entry-manage-button =
     .description =
         { $count ->
-            [one] Webbplats för { $count }
+            [one] { $count } webbplats
            *[other] { $count } webbplatser
         }
     .label = Hantera aviseringsinställningar
@@ -1851,7 +1851,7 @@ notifications-entry-manage-button-empty =
     .label = Hantera inställningar för webbplatsaviseringar
 notifications-website-card-header =
     .description = Välj hur webbplatser kan skicka aviseringar.
-    .label = Webbplatsmeddelanden
+    .label = Webbplatsaviseringar
 notifications-filter =
     .placeholder = Sök webbplatser
 # Heading of the website column in the list of websites and their notification
@@ -1860,7 +1860,7 @@ notifications-list-header =
     .label = Webbplats
 # Heading of the state column in the list of websites and their notification
 # state, shown when the list has rows.
-notifications-list-header-state = Tillåt meddelanden
+notifications-list-header-state = Tillåt aviseringar
 # Heading of the list of websites when it has no rows, because no website has a
 # stored notification decision or a search matches no website.
 notifications-list-header-empty =
@@ -1883,7 +1883,7 @@ notifications-empty-message =
     .label = Inga webbplatsaviseringar har lagts till.
 # Shown as a row under the list header when a search matches no website.
 notifications-no-results-message =
-    .label = Inga webbplatsmeddelanden matchar din sökning.
+    .label = Inga webbplatsaviseringar motsvarar din sökning.
 
 ## Privacy Section - Data Collection
 
