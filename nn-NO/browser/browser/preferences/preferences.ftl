@@ -1807,6 +1807,18 @@ permissions-data-section =
     .heading = Løyve og data
 pane-permissions-data-title2 = Løyve og data
     .title = Løyve og data
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Alltid
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Tillat
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Aldri
 
 ## Privacy Section - Data Collection
 
