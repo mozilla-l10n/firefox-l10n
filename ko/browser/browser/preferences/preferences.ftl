@@ -1812,6 +1812,50 @@ permissions-data-section =
     .heading = 권한 및 데이터
 pane-permissions-data-title2 = 권한 및 데이터
     .title = 권한 및 데이터
+notifications-section-header =
+    .heading = 알림
+notifications-entry-card-header =
+    .description = 알림을 보낼 수 있는 웹 사이트와 알림 메시지 표시 방법을 선택하세요.
+    .label = 알림
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+           *[other] 웹 사이트 { $count }개
+        }
+    .label = 알림 설정 관리
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = 웹 사이트 알림 설정 관리
+notifications-website-card-header =
+    .description = 웹 사이트가 알림을 보낼 수 있는 방법을 선택하세요.
+    .label = 웹 사이트 알림
+notifications-filter =
+    .placeholder = 웹 사이트 검색
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = 웹 사이트
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = 알림 허용
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = 웹 사이트
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = 허용
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = 허용 안 함
 
 ## Privacy Section - Data Collection
 
