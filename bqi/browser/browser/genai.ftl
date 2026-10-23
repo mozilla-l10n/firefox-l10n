@@ -122,6 +122,9 @@ link-preview-generation-retry = قپ ریت دووارته
 # Button that opens the Link Preview settings
 link-preview-settings-button =
     .title = لینگ پؽش نشووݩ سامووا
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = پورس کردن ز { $provider }
 # Checkbox label for one of the actions in the menu that appears when selecting
 # text on a page. "Search" is a verb: the action searches the selected text
 # with the default search engine.

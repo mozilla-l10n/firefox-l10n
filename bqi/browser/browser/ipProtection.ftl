@@ -112,6 +112,8 @@ ipprotection-button-turn-vpn-off = کۊر کردن VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = کۊر کردن VPN سی همه جا
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = رۊشن کردن
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = رۊشن کردن VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = هونی رۊشن ابۊ…
@@ -123,6 +125,8 @@ ipprotection-connection-status-excluded-1 = VPN سی ای وبگه کۊر هڌ
     .aria-label = VPN سی ای وبگه کۊر هڌ
 ipprotection-connection-status-connecting-1 = VPN هونی منپیز ابۊ…
     .aria-label = VPN هونی منپیز ابۊ…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = کۊر کردن
 
 ## Location controls
 
@@ -180,6 +184,8 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } وبگه
         }
     .label = دؽوۉداری سامووا وبگه
+ip-protection-site-rules-header-1 =
+    .heading = دؽوۉداری قانووا VPN
 ip-protection-site-rules-header =
     .heading = دؽوۉداری قانووا وبگه
 ip-protection-autostart =
@@ -193,6 +199,10 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = دؽوۉداری سامووا وبگه
+ip-protection-delete-site-rule-cancel =
+    .label = لقو
+ip-protection-delete-site-rule-confirm =
+    .label = پاک کردن
 # Shown in place of the delete confirmation when deleting a rule fails.
 ip-protection-delete-site-rule-error = نترست قانووݩ ن پاک کونه
 # Shown in place of the delete confirmation when deleting all rules fails.
