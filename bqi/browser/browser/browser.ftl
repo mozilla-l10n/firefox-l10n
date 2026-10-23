@@ -428,6 +428,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = نشووݩ داڌن آلشتگر مجال زفت کردن
     .accesskey = S
+bookmark-panel-save-button2 =
+    .label = زفت
+    .accesskey = ز
 bookmark-panel-save-button =
     .label = زفت
 # Width of the bookmark panel.
@@ -1164,6 +1167,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+decoder-doctor-learn-how-link = قلوه دووسته بۊین
 # Variables:
 #   $pluginName (String) - The name of the media plugin that crashed (for example, “Widevine Content Decryption Module”).
 plugin-crashed-notification-message = وردنی { $pluginName } خراو وابیڌه.
@@ -1271,6 +1275,14 @@ restore-session-startup-suggestion-button = نشووݩ داڌن بارت کار
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = سازمووݩ ایسا، دسرسی و فایلا مهلی ری ای کامپیتر ن مسدۊد کرده
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-dismiss = فئمیم
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
