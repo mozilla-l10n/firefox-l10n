@@ -42,8 +42,8 @@ customize-mode-downloads-button-autohide =
 ## Labels for the special items that can be added to toolbars in customize mode
 
 customize-mode-toolbarspring =
-    .title = Fleksibelna prozny rum
+    .title = Fleksibelny prozny rum
 customize-mode-toolbarseparator =
-    .title = Žěleńske znamuško
+    .title = Źěleńske znamuško
 customize-mode-toolbarspacer =
     .title = Prozny rum

@@ -536,7 +536,7 @@ onboarding-refresh-pin-set-default-subtitle = Zure datuak babestu eta enpresek z
 onboarding-refresh-pin-set-default-title = Seguru zaude Firefoxekin
 onboarding-refresh-import-subtitle = Ekarri zure pasahitzak, laster-markak, historia eta gehiago.
 onboarding-refresh-import-title = Senti zaitez { -brand-short-name }(e)kin etxean bezala.
-onboarding-refresh-onboarding-addons-subtitle = Hedapenak { -brand-short-name } pertsonalizatzen uzten dizuten aplikazio txikiak dira. Zure pribatutasuna hobetu, produktibitatea areagotu, { -brand-short-name }(e)n itxura aldatu eta gehiago ere egin dezakete.
+onboarding-refresh-onboarding-addons-subtitle = Hedapenak { -brand-short-name } pertsonalizatzen uzten dizuten aplikazio txikiak dira. Zure pribatutasuna handitu, produktibitatea areagotu, { -brand-short-name }(e)n itxura aldatu eta gehiago ere egin dezakete.
 # "Give your browsing a boost" means to enhance or improve the browsing experience
 onboarding-refresh-onboarding-addons-title = Emaiozu bultzada zure nabigazioari
 onboarding-refresh-sync-subtitle = Hartu laster-markak, pasahitzak eta gehiago { -brand-short-name }(e)n saioa hasita duzun toki orotatik. Gainera, zure datuak zifratuta daude eta zuk bakarrik ikus ditzakezu.

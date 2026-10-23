@@ -29,7 +29,7 @@ ipprotection-feature-introduction-link-text-2 = Erabili gure <a data-l10n-name="
 ipprotection-feature-introduction-title-privacy = Gehitu beste pribatutasun geruza bat
 ipprotection-feature-introduction-title-privacy-1 = Gehitu pribatutasunaren beste geruza bat integratutako VPNarekin
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name }(r)en integratutako VPNak</a> zure nabigazioa babesten laguntzen dizu. Aukeratu hainbat kokapenen artetik nabigatzen duzun tokia pribatuago mantentzeko.
-ipprotection-feature-introduction-link-text-privacy-3 = Lortu <a data-l10n-name="learn-more-vpn">pribatutasun gehiago</a> nabigatzen duzun tokia ezkutatzeko hainbat kokapenen artean aukeratuz.
+ipprotection-feature-introduction-link-text-privacy-3 = Lortu <a data-l10n-name="learn-more-vpn">pribatutasun handiagoa</a> nabigatzen duzun tokia ezkutatzeko hainbat kokapenen artean aukeratuz.
 # Used for multiple discovery callouts after release of the site inclusions feature
 ipprotection-feature-introduction-description-inclusions = Lagundu zure kokapena ezkutatzen <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko nabigatu ahala. Aktibatu VPNa gunean guneko beharren arabera.
 ipprotection-feature-introduction-text-summer-promo-1 = Aktiba ezazu zure nabigazioa pribatuago mantentzeko. <a data-l10n-name="summer-promo-link">Eskuratu banda-zabalera mugagabea</a> eta nabigatu beharreko kokapen gehiago. Orain abuztuaren 31ra arte.
@@ -44,7 +44,7 @@ ipprotection-feature-introduction-description-private-browsing-1 = Lagundu zure 
 ipprotection-feature-introduction-title-captive-portal = Wi-Fi publikoan zaude? Probatu { -brand-product-name }(r)en integratutako VPNa.
 ipprotection-feature-introduction-description-captive-portal = Nabigatu babes estraz zure kokapena ezkutatuz, baita Wi-Fi publikoetan ere.
 # Used for discovery callouts for both captive portal login and private browsing
-ipprotection-feature-introduction-link-text-captive-portal-1 = Lortu <a data-l10n-name="learn-more-vpn">pribatutasun gehiago</a> nabigatzen duzun tokia ezkutatzeko hainbat kokapenen artean aukeratuz.
+ipprotection-feature-introduction-link-text-captive-portal-1 = Lortu <a data-l10n-name="learn-more-vpn">pribatutasun handiagoa</a> nabigatzen duzun tokia ezkutatzeko hainbat kokapenen artean aukeratuz.
 ipprotection-feature-introduction-button-primary = Hurrengoa
 ipprotection-feature-introduction-button-secondary-not-now = Une honetan ez
 ipprotection-feature-introduction-button-secondary-not-now-menuitem =
@@ -68,11 +68,11 @@ ipprotection-feature-introduction-title-private-browsing = Maximizatu pribatutas
 ipprotection-summer-promo-offramp-generic-title = Integratutako VPNaren zure mugak irailaren 1ean berrezarriko dira
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-summer-promo-offramp-generic-description = Erabili { $maxUsage } GB eta 6 kokapen pribatutasun gehiagorako eta nabigazioaren zure aztarna jarraitzea zailtzeko.
+ipprotection-summer-promo-offramp-generic-description = Erabili { $maxUsage } GB eta 6 kokapen pribatutasun handiagorako eta nabigazioaren zure aztarna jarraitzea zailtzeko.
 # Generic summer promo offramp message for users who cannot upgrade to Mozilla VPN due to locale and already have Firefox as their default browser
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
-ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Erabili { $maxUsage } GB eta 20 kokapen baino gehiago pribatutasun gehiagorako eta nabigazioaren zure aztarna jarraitzea zailtzeko.
+ipprotection-summer-promo-offramp-generic-description-default-browser-users-no-upgrade = Erabili { $maxUsage } GB eta 20 kokapen baino gehiago pribatutasun handiagorako eta nabigazioaren zure aztarna jarraitzea zailtzeko.
 # Mozilla VPN subscriber summer promo offramp message
 # Message shown to current subscribers of Mozilla VPN
 # Refers to subscribers now receiving unlimited bandwidth and more locations in the Firefox built-in VPN
@@ -108,7 +108,7 @@ ipprotection-location-selection-callout-secondary-button = Baztertu
 ## VPN for Android promo callout
 
 ipprotection-android-promo-callout-title = Eraman aldean integratutako VPNa Androiden
-ipprotection-android-promo-callout-description = Eskaneatu QR kodea Androiderako { -brand-product-name } eskuratzeko eta gaitu integratutako VPNa pribatutasun gehiago izateko edonon. Laster iOS-en ere bai.
+ipprotection-android-promo-callout-description = Eskaneatu QR kodea Androiderako { -brand-product-name } eskuratzeko eta gaitu integratutako VPNa pribatutasun handiagoa izateko edonon. Laster iOS-en ere bai.
 ipprotection-android-promo-callout-primary-button = Ulertuta
 
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
