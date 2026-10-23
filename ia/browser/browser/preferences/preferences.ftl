@@ -1830,6 +1830,9 @@ pane-permissions-data-title2 = Permissos e datos
     .title = Permissos e datos
 notifications-section-header =
     .heading = Avisos
+notifications-entry-card-header =
+    .description = Selige que sitos web pote inviar avisos, e como ille avisos appare.
+    .label = Avisos
 notifications-filter =
     .placeholder = Cercar sitos web
 # Heading of the website column in the list of websites and their notification
