@@ -37,3 +37,8 @@ screenshots-component-mini-window-cancel-button = ألغِ
 screenshots-component-reselect-button = ابدأ من جديد
     .aria-label = ابدأ من جديد
     .title = ابدأ من جديد
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = حدد جزءًا من الصفحة لإبقائه مرئيًا

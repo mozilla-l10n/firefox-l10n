@@ -217,6 +217,13 @@ newtab-picture-menu-learn-more = اطّلع على المزيد
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = اطّلع على المزيد
 
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = اطّلع على المزيد
+
 ## Search box component.
 
 # "Search" is a verb/action

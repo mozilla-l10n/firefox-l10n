@@ -591,7 +591,7 @@ urlbar-search-mode-indicator-close =
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = Αναζήτηση όρου ή εισαγωγή διεύθυνσης
+    .placeholder = Αναζήτηση ή εισαγωγή διεύθυνσης
 # This placeholder is used when not in search mode and searching in the urlbar
 # is disabled via the keyword.enabled pref.
 urlbar-placeholder-keyword-disabled =
