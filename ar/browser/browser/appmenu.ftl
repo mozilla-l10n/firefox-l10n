@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = تعذّر التحديث — النظام غير متطابق
 appmenuitem-banner-update-restart =
     .label = يتوفّر تحديث — أعِد التشغيل
+appmenu-nova-update-title = أعد التشغيل لتحديث { -brand-short-name }
+appmenu-nova-update-description = ستُعاد فتح ألسنتك.
 appmenu-nova-fxa-sign-in = لِج
 appmenu-nova-switch-device-promo =
     .message = هل ستحصل على جهازًا جديدًا قريبًا؟ خذ معك { -brand-short-name }!
@@ -51,6 +53,9 @@ appmenuitem-referrals =
     .label = شارك { -brand-product-name }
 appmenuitem-more-tools =
     .label = أدوات أكثر
+# Menu combining the previous "Help" menu and report broken site
+appmenuitem-help-and-report =
+    .label = المساعدة والإبلاغ
 appmenuitem-help =
     .label = مساعدة
 appmenuitem-exit2 =
@@ -121,6 +126,7 @@ fxa-menu-sync-off-data-description = لا تتم مزامنة بياناتك
 # turned off. Turns syncing on by opening sync preferences.
 fxa-menu-sync-status-turn-on-button =
     .label = شغّل
+fxa-menu-sync-status-turn-on-button-aria-label = شغّل
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
 fxa-menu-sync-off-signin-description = لِج كي تبدأ المزامنة
@@ -154,6 +160,14 @@ appmenu-fxa-last-sync = كانت آخر مزامنة { $time }
     .label = كانت آخر مزامنة { $time }
 appmenu-fxa-sync-and-save-data2 = زامِن واحفظ البيانات
 appmenu-fxa-signed-in-label = لِج
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = زامِن بياناتك في كل مكان
+appmenu-fxa-sign-in-promo-link = لِج
+appmenu-fxa-sign-in-promo-dismiss-button =
+    .aria-label = أهمِل عرض الولوج الترويجي
+    .title = أهمِل
 appmenu-fxa-setup-sync =
     .label = فعّل المزامنة…
 appmenu-fxa-setup-sync-new = فعّل
@@ -291,6 +305,11 @@ appmenu-help-header =
 appmenu-about =
     .label = عن { -brand-shorter-name }
     .accesskey = ع
+# This menu item opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+appmenu-referrals2 =
+    .label = شارك { -brand-product-name }
+    .accesskey = ر
 appmenu-get-help =
     .label = احصل على مُساعدة
     .accesskey = س
@@ -302,6 +321,9 @@ appmenu-help-share-ideas =
     .accesskey = ك
 appmenu-help-switch-device =
     .label = التبديل إلى جهاز جديد
+# Menu header for combination of "Help" menu and report broken site
+appmenu-help-and-report-header =
+    .title = المساعدة والإبلاغ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -329,6 +351,8 @@ appmenu-customizetoolbar =
     .label = خصّص شريط الأدوات…
 appmenu-abouttranslations =
     .label = ترجم…
+appmenu-edit-pdf =
+    .label = حرِّر PDF…
 appmenu-developer-tools-subheader = أدوات المتصفّح
 appmenu-developer-tools-extensions =
     .label = الامتدادات التي تخصّ المطوّرين
@@ -338,6 +362,7 @@ appmenuitem-report-broken-site =
 ## Panel for privacy and security products
 
 appmenuitem-sign-in-account = لِج إلى حسابك
+appmenuitem-monitor-title2 = تجنب سرقة الهوية
 # Shown in place of appmenuitem-monitor-title2 when the user has signed up for Monitor.
 appmenuitem-monitor-title-signed-in = { -monitor-brand-short-name } تنبيهات اختراق البيانات
 appmenuitem-monitor-title = { -monitor-brand-short-name }
@@ -384,6 +409,7 @@ fxa-menu-create-profile-confirm =
     .label = أنشِئ ملفًا شخصيًا
 fxa-menu-create-profile-learn-more =
     .label = ما هي الملفات الشخصية؟
+appmenuitem-share-firefox-description = ادعُ شخصًا ما لاختيار المتصفح الذي يضع الخصوصية في المقام الأول
 appmenu-profiles-2 =
     .label = ملفات تعريف
 appmenu-profiles-header = ملفات شخصية
@@ -394,6 +420,19 @@ appmenu-secure-sync-header = مزامنة آمنة
 # The .title attribute sets the panel header text.
 fxa-menu-device-recent-tabs-panel =
     .title = الألسنة الحديثة
+# Button at the bottom of the per-device recent tabs subpanel.
+# Variables:
+#   $tabCount (Number): Total number of synced tabs on the device.
+fxa-menu-device-view-all-synced-tabs =
+    .label =
+        { $tabCount ->
+            [zero] اعرض { $tabCount } لسان متزامن
+            [one] اعرض لسان واحد متزامن
+            [two] اعرض اللسانين المتزامنين
+            [few] اعرض كل { $tabCount } لسان متزامن
+            [many] اعرض كل { $tabCount } لسانًا متزامن
+           *[other] اعرض كل { $tabCount } لسان متزامن
+        }
 # Button in the recent tabs sub-panel that sends the current page to the synced device.
 fxa-menu-device-send-current-page =
     .label = أرسل الصفحة الحالية إلى هذا الجهاز

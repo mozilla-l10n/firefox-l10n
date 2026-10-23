@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = احجب الطلبات الجديدة التي تطلب الوصول إلى أجهزة الواقع الافتراضي عندك
 permissions-site-xr-disable-desc = سيمنع هذا مواقع الوب غير المدرجة أعلاه من طلب تصريح الوصول إلى أجهزة الواقع الافتراضي عندك. يمكن أن يؤدي منع التصريح هذا إلى عطب مزايا بعض المواقع.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = الإعدادات - المواقع المحظورة لروابط التطبيقات
+permissions-site-app-links-desc = هذه المواقع ممنوعة من طلب فتح روابط التطبيقات، مثل البريد الإلكتروني (mailto:). أزِل موقع للسماح له بطلب ذلك مرة أخرى.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
