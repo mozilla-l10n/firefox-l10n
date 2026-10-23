@@ -117,13 +117,13 @@ fxa-adoption-passwords-primary-button-label = Registrati
 ## Taskbar Tabs callout strings
 
 taskbar-tabs-social-callout-title = Mantieni i tuoi feed preferiti nella barra delle applicazioni
-taskbar-tabs-social-callout-subtitle = Apri i tuoi social preferiti come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }
+taskbar-tabs-social-callout-subtitle = Apri i tuoi social preferiti come un’app, in una finestra essenziale e protetta da { -brand-short-name }
 taskbar-tabs-chat-callout-title = Chatta dalla barra delle applicazioni
-taskbar-tabs-chat-callout-subtitle = Apri le tue chat preferite come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-chat-callout-subtitle = Apri le tue chat preferite come un’app, in una finestra essenziale e protetta da { -brand-short-name }.
 taskbar-tabs-email-callout-title = Mantieni la tua email nella barra delle applicazioni
-taskbar-tabs-email-callout-subtitle = Apri la tua webmail come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-email-callout-subtitle = Apri la tua webmail come un’app, in una finestra essenziale e protetta da { -brand-short-name }.
 taskbar-tabs-media-callout-title = Riprendi lo streaming dalla barra delle applicazioni
-taskbar-tabs-media-callout-subtitle = Apri i tuoi siti di streaming preferiti come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-media-callout-subtitle = Apri i tuoi siti di streaming preferiti come un’app, in una finestra essenziale e protetta da { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title = Aggiungi questo sito alla barra delle applicazioni
 taskbar-tabs-value-prop-callout-subtitle = Aprilo in una finestra separata e con un’interfaccia ottimizzata con un solo clic.
 
@@ -137,13 +137,13 @@ taskbar-tabs-value-prop-callout-subtitle = Aprilo in una finestra separata e con
 # treatment A, so this variant reuses taskbar-tabs-chat-callout-subtitle.
 taskbar-tabs-chat-callout-title-v3 = Rimani connesso dalla barra delle applicazioni
 taskbar-tabs-email-callout-title-v3 = Mantieni la tua email nella barra delle applicazioni
-taskbar-tabs-email-callout-subtitle-v3 = Apri i siti per gestire le tue email come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-email-callout-subtitle-v3 = Apri i siti per gestire le tue email come un’app, in una finestra essenziale e protetta da { -brand-short-name }.
 taskbar-tabs-media-callout-title-v3 = Mantieni i tuoi streaming nella barra delle applicazioni
-taskbar-tabs-media-callout-subtitle-v3 = Apri i tuoi siti multimediali preferiti come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-media-callout-subtitle-v3 = Apri i tuoi siti multimediali preferiti come un’app, in una finestra essenziale e protetta da { -brand-short-name }.
 taskbar-tabs-value-prop-callout-title-v3 = Mantieni i tuoi siti preferiti nella barra delle applicazioni
-taskbar-tabs-value-prop-callout-subtitle-v3 = Apri qualsiasi sito come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-value-prop-callout-subtitle-v3 = Apri qualsiasi sito come un’app, in una finestra essenziale e protetta da { -brand-short-name }.
 taskbar-tabs-gaming-callout-title-v3 = Riprendi i tuoi giochi dalla barra delle applicazioni
-taskbar-tabs-gaming-callout-subtitle-v3 = Apri i tuoi siti di giochi preferiti come un’app, in una finestra ottimizzata e protetta da { -brand-short-name }.
+taskbar-tabs-gaming-callout-subtitle-v3 = Apri i tuoi siti di giochi preferiti come un’app, in una finestra essenziale e protetta da { -brand-short-name }.
 # Button that pins the current site to the taskbar as a taskbar tab
 taskbar-tabs-callout-primary-button-v3 = Aggiungi alla barra delle applicazioni
 
