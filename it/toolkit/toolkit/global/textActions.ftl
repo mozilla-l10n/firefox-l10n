@@ -110,3 +110,4 @@ text-action-remove-highlight =
 profile-window-menu-edit =
     .label = Modifica
     .accesskey = M
+

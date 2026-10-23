@@ -38,3 +38,4 @@ narrate-voice-default = Predefinita
 #   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
 #   $language (String) - The language of the voice, as a localized language name or a language tag (e.g. "en-US").
 narrate-voice-label = { $name } ({ $language })
+
