@@ -12,7 +12,7 @@ genai-settings-chat-gemini-links = Google Gemini aukeratuta, <a data-l10n-name="
 genai-settings-chat-huggingchat-links = HuggingChat aukeratuta, <a data-l10n-name="link1">HuggingChat pribatutasun-oharra</a> eta <a data-l10n-name="link2">Hugging Face pribatutasun-politika</a> onartzen dituzu.
 genai-settings-chat-lechat-links-2 = Mistral Vibe aukeratuta, Mistral AI-ren <a data-l10n-name="link1">zerbitzu-baldintzak</a> eta <a data-l10n-name="link2">pribatutasun-politika</a> onartzen dituzu.
 genai-settings-chat-lechat-links = Le Chat Mistral aukeratuta, Mistral AI-ren <a data-l10n-name="link1">zerbitzu-baldintzak</a> eta <a data-l10n-name="link2">pribatutasun-politika</a> onartzen dituzu.
-genai-settings-chat-localhost-links = Ekarri zure txaterako bot pribatu lokala, adibidez { -vendor-short-name }ko berrikuntza taldeko <a data-l10n-name="link1">llamafile</a>.
+genai-settings-chat-localhost-links = Ekarri zure txatbot pribatu lokala, adibidez { -vendor-short-name }ko berrikuntza taldeko <a data-l10n-name="link1">llamafile</a>.
 genai-settings-chat-scout-links = Yahoo Scout aukeratuta, Yahoo-ren <a data-l10n-name="link1">zerbitzu-baldintzak</a> eta <a data-l10n-name="link2">pribatutasun-politika</a> onartzen dituzu.
 
 ## Chatbot prompts
@@ -52,12 +52,12 @@ genai-prompt-prefix-selection = "{ $tabTitle }" orrian nago "{ $selection }" hau
 ## Chatbot menu shortcuts
 
 genai-menu-open-generic =
-    .label = Ireki AA txaterako bota
+    .label = Ireki AA txatbota
 # $provider (string) - name of the provider
 genai-menu-open-provider =
     .label = Ireki { $provider }
 genai-menu-remove-generic =
-    .label = Kendu AA txaterako bota
+    .label = Kendu AA txatbota
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Kendu { $provider }
@@ -85,14 +85,14 @@ genai-menu-summarize-page = Laburbildu orria
 genai-input-ask-smart-window =
     .placeholder = Galdetu…
 genai-input-ask-generic =
-    .placeholder = Galdetu AA txaterako botari…
+    .placeholder = Galdetu AA txatbotari…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Galdetu { $provider } hornitzaileari…
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
-    .heading = AA txaterako botak ez du zure hautapen osoa hartuko
+    .heading = AA txatbotak ez du zure hautapen osoa hartuko
     .message =
         { $selectionLength ->
             [one] Gutxi gorabehera karaktere { $selectionLength } hautatu duzu. AA txatera gehienez ere bidal ditzakegun karaktere kopurua { $maxLength } da gutxi gorabehera.
@@ -109,18 +109,18 @@ genai-shortcuts-selected-warning =
            *[other] Gutxi gorabehera { $selectionLength } karaktere hautatu dituzu. { $provider }(e)ra gehienez ere bidal ditzakegun karaktere kopurua { $maxLength } da gutxi gorabehera.
         }
 genai-shortcuts-hide =
-    .label = Ezkutatu txaterako botaren lasterbidea
+    .label = Ezkutatu txatbotaren lasterbidea
 genai-menu-choose-chatbot =
-    .label = Aukeratu AA txaterako bota
+    .label = Aukeratu AA txatbota
 genai-menu-ask-generic-2 =
-    .label = Galdetu AA txaterako botari
+    .label = Galdetu AA txatbotari
     .accesskey = G
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = Galdetu { $provider } hornitzaileari
     .accesskey = G
 genai-menu-no-provider-2 =
-    .label = Galdetu AA txaterako botari
+    .label = Galdetu AA txatbotari
     .accesskey = G
 genai-menu-ask-smart-window =
     .label = Galdetu…
@@ -128,17 +128,17 @@ genai-menu-ask-smart-window =
 
 ## Chatbot header
 
-genai-chatbot-title = AA txaterako bota
+genai-chatbot-title = AA txatbota
 genai-header-provider-menu =
-    .title = Aukeratu txaterako bota
+    .title = Aukeratu txatbota
 genai-header-settings-button =
     .title = AA txataren ezarpenak
 genai-header-close-button =
     .title = Itxi
 genai-provider-view-details =
-    .label = Ikusi txaterako botaren xehetasunak
+    .label = Ikusi txatbotaren xehetasunak
 genai-options-reload-generic =
-    .label = Berritu AA txaterako bota
+    .label = Berritu AA txatbota
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Berritu { $provider }
@@ -147,7 +147,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Ezkutatu lasterbidea testua hautatzean
 genai-options-about-chatbot =
-    .label = { -brand-short-name }(e)ko AA txaterako botei buruz
+    .label = { -brand-short-name }(e)ko AA txatbotei buruz
 
 ## Chatbot message
 
@@ -160,9 +160,9 @@ genai-page-button-summarize = Laburbildu orria
 
 ## Chatbot onboarding
 
-genai-onboarding-choose-header = Aukeratu { -brand-short-name } alboko barran erabili beharreko AA txaterako bota
+genai-onboarding-choose-header = Aukeratu { -brand-short-name } alboko barran erabili beharreko AA txatbota
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
-genai-onboarding-choose-description = Aldatu edonoiz. Aukeratzeko laguntzarako, eskuratu <a data-l10n-name="learn-more">txaterako bot bakoitzari buruzko argibide gehiago</a>.
+genai-onboarding-choose-description = Aldatu edonoiz. Aukeratzeko laguntzarako, eskuratu <a data-l10n-name="learn-more">txatbot bakoitzari buruzko argibide gehiago</a>.
 genai-onboarding-primary = Jarraitu
 genai-onboarding-secondary = Itxi
 genai-onboarding-claude-tooltip =
@@ -181,18 +181,18 @@ genai-onboarding-scout-tooltip =
     .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
-genai-chatbot-contextual-title = Erabili AA txaterako bota fitxarik aldatu gabe
-genai-chatbot-contextual-subtitle = Txateatu eta nabigatu alboz albo AA txaterako bota { -brand-short-name }(e)n alboko barran gehitzean.
-genai-chatbot-contextual-button = Aukeratu txaterako bota
+genai-chatbot-contextual-title = Erabili AA txatbota fitxarik aldatu gabe
+genai-chatbot-contextual-subtitle = Txateatu eta nabigatu alboz albo AA txatbota { -brand-short-name }(e)n alboko barran gehitzean.
+genai-chatbot-contextual-button = Aukeratu txatbota
 genai-chatbot-summarize-title = Berria Laburbildu orriak klik bakarrean
 genai-chatbot-summarize-button = Laburbildu orria
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-provider-subtitle = Egin eskuin-klika alboko barrako AA txaterako botean eta aukeratu "Laburbildu orria".
+genai-chatbot-summarize-sidebar-provider-subtitle = Egin eskuin-klika alboko barrako AA txatbotean eta aukeratu "Laburbildu orria".
 # “Summarize Page” should be consistent with the translation for the string genai-menu-summarize-page
-genai-chatbot-summarize-sidebar-generic-subtitle = Egin eskuin-klika alboko barrako distiraren ikonoan eta aukeratu "Laburbildu orria". Lehenengo aldian AA txaterako bota ere aukeratu beharko duzu.
+genai-chatbot-summarize-sidebar-generic-subtitle = Egin eskuin-klika alboko barrako distiraren ikonoan eta aukeratu "Laburbildu orria". Lehenengo aldian AA txatbota ere aukeratu beharko duzu.
 # “Summarize page” should be consistent with the translation for the string genai-page-button-summarize
-genai-chatbot-summarize-footer-provider-subtitle = Ireki alboko barran AA txaterako bota eta aukeratu behean "Laburbildu orria".
-genai-chatbot-summarize-footer-generic-subtitle = Gehitu AA txaterako bota { -brand-short-name } alboko barran orriak ziztu batean laburbiltzeko.
+genai-chatbot-summarize-footer-provider-subtitle = Ireki alboko barran AA txatbota eta aukeratu behean "Laburbildu orria".
+genai-chatbot-summarize-footer-generic-subtitle = Gehitu AA txatbota { -brand-short-name } alboko barran orriak ziztu batean laburbiltzeko.
 
 ## Model Optin Component
 

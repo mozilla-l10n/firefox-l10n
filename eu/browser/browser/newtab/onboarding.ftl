@@ -373,10 +373,10 @@ onboarding-horizontal-tabs-tooltip =
 onboarding-horizontal-tabs-description =
     .aria-description = Nabigatzailearen leiho bat fitxak goialdean bistaratzen.
 # Additional setup card for setting up aichatbot in the sidebar
-onboarding-genai-sidebar-title = Probatu AA txaterako bota alboko barran
+onboarding-genai-sidebar-title = Probatu AA txatbota alboko barran
 # Setup card for setting up AI chatbot in the sidebar; "Providers" refers to AI chatbot providers (e.g. OpenAI, etc). "Switch anytime" refers to allowing the user to switch to a different chatbot.
 onboarding-genai-sidebar-subtitle = Laburbildu web edukia, egin ideien bateratze-lana, idatzi mezuen zirriborroak — dena nabigatu ahala. Aukeratu hainbat hornitzaileren artean. Aldatu edonoiz. <a data-l10n-name="learn-more">Argibide gehiago</a>
-onboarding-genai-sidebar-primary-button = Aukeratu txaterako bota
+onboarding-genai-sidebar-primary-button = Aukeratu txatbota
 onboarding-genai-sidebar-secondary-button = Hasi nabigatzen
 
 ## New user onboarding checklist

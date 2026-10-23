@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = AA txaterako bota
+    .label = AA txatbota
 menu-view-contextual-password-manager =
     .label = Pasahitzak
 menu-view-resource-monitor =
@@ -189,7 +189,7 @@ sidebar-opentabs-preview-unmute-tab =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = AA txaterako bota
+    .label = AA txatbota
 sidebar-menu-history-label =
     .label = Historia
 sidebar-menu-synced-tabs-label =
@@ -234,9 +234,9 @@ sidebar-menu-close-bookmarks-tooltip = Itxi laster-markak ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
-sidebar-menu-open-ai-chatbot-tooltip-generic = Ireki AA txaterako bota ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip-generic = Ireki AA txatbota ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Ireki { $provider } ({ $shortcut })
-sidebar-menu-close-ai-chatbot-tooltip-generic = Itxi AA txaterako bota ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Itxi AA txatbota ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Itxi { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.

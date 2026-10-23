@@ -232,11 +232,11 @@ pin-tabs-callout-4-title = Ainguratu gehien bisitatzen dituzun guneak
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Alboko barra: tresna eta fitxen zure tokia
-sidebar-customization-callout-1-subtitle = { -brand-product-name } alboko barrak sarbide bizkorra ematen dizu nabigatze-historiara, beste gailuetako fitxetara eta AA txaterako botera — hau guztia zure ikuspegi nagusia utzi gabe.
+sidebar-customization-callout-1-subtitle = { -brand-product-name } alboko barrak sarbide bizkorra ematen dizu nabigatze-historiara, beste gailuetako fitxetara eta AA txatbotera — hau guztia zure ikuspegi nagusia utzi gabe.
 sidebar-customization-callout-callout-button = Pertsonalizatu alboko barra
 sidebar-customization-callout-dismiss-button = Ezkutatu alboko barra
 sidebar-customization-callout-2-title = Pertsonaliza ezazu { -brand-product-name } alboko barra
-sidebar-customization-callout-2-subtitle = Gehitu eta kendu tresnak. Jarri fitxak alboko barran. Proba ezazu AA txaterako bota. Alboko barra pertsonalizatzeko modua zure esku dago.
+sidebar-customization-callout-2-subtitle = Gehitu eta kendu tresnak. Jarri fitxak alboko barran. Proba ezazu AA txatbota. Alboko barra pertsonalizatzeko modua zure esku dago.
 
 ## Sidebar Callout Survey Strings
 
@@ -263,10 +263,10 @@ sidebar-callout-survey-saved-websites-2 = Zure laster-marketarako sarbide bizkor
 sidebar-callout-survey-none-of-above = Goiko bat bera ere ez
 sidebar-callout-survey-submit = Bidali
 sidebar-callout-survey-thank-you = Eskerrik asko zure iritziagatik!
-sidebar-genai-survey-satisfaction-question = Zenbateraino zaude pozik AA txaterako boterako sarbidea alboko barran izateaz?
+sidebar-genai-survey-satisfaction-question = Zenbateraino zaude pozik AA txaboterako sarbidea alboko barran izateaz?
 sidebar-genai-survey-productive-question =
     Zein neurriraino zaude ados edo desados ondorengo adierazpenarekin:<br/>
-    "Alboko barrako AA txaterako botak emankorrago izaten laguntzen dit"?
+    "Alboko barrako AA txatbotak emankorrago izaten laguntzen dit"?
 splitview-onboarding-callout-title-1 = Ikuspegi zatitua: aldibereko zereginetarako modu hobea
 splitview-onboarding-callout-subtitle-1 = Egin eskuin-klika fitxa honetan eta aukeratu "Gehitu ikuspegi zatitua" bi fitxa aldi berean ikusteko.
 splitview-onboarding-callout-cta-1 = Probatu orain

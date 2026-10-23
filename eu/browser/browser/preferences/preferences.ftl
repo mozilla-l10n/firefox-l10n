@@ -288,7 +288,7 @@ browser-layout-vertical-tabs2 =
     .label = Fitxa bertikalak
     .title = Fitxak alboan, alboko barran
 browser-layout-show-sidebar2 =
-    .description = Izan laster-marka, telefonoko fitxa, AA txaterako bot eta gehiagoren sarbide bizkorra zure ikuspegi nagusia utzi gabe.
+    .description = Izan laster-marka, telefonoko fitxa, AA txatbot eta gehiagoren sarbide bizkorra zure ikuspegi nagusia utzi gabe.
     .label = Erakutsi alboko barra
 page-navigation-group =
     .label = Orriaren nabigazioa
@@ -1828,6 +1828,8 @@ permissions-data-section =
     .heading = Baimenak eta datuak
 pane-permissions-data-title2 = Baimenak eta datuak
     .title = Baimenak eta datuak
+notifications-section-header =
+    .heading = Jakinarazpenak
 
 ## Privacy Section - Data Collection
 
@@ -2155,13 +2157,13 @@ preferences-ai-controls-speech-recognition-control =
     .description = Transkribatu hizketa modu lokalean.
     .label = Hizketa-ezagutzea
 preferences-ai-controls-sidebar-chatbot-group-3 =
-    .description = Mantendu txaterako botaren ikuspegia nabigatu ahala. Aukeratu hainbat hornitzaileren artetik eta aldatu edonoiz.
-    .label = AA txaterako boten hornitzaileak alboko barran
+    .description = Mantendu txatbotaren ikuspegia nabigatu ahala. Aukeratu hainbat hornitzaileren artetik eta aldatu edonoiz.
+    .label = AA txatboten hornitzaileak alboko barran
 preferences-ai-controls-sidebar-chatbot-group =
-    .description = Izan bistan txaterako bota nabigatu bitartean. Aukeratu hainbaten artean: Anthropic Claude, ChatGPT, Copilot, Google Gemini eta Le Chat Mistral.
-    .label = AA txaterako boten hornitzaileak alboko barran
+    .description = Izan bistan txatbota nabigatu bitartean. Aukeratu hainbaten artean: Anthropic Claude, ChatGPT, Copilot, Google Gemini eta Le Chat Mistral.
+    .label = AA txatboten hornitzaileak alboko barran
 preferences-ai-controls-sidebar-chatbot-control =
-    .label = Txaterako bota alboko barran
+    .label = Txatbota alboko barran
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Erabilgarri
@@ -2182,7 +2184,7 @@ preferences-ai-controls-block-confirmation-translations = Itzulpenak
 preferences-ai-controls-block-confirmation-pdfjs = Irudien ordezko testua { -brand-short-name } PDF ikustailean
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Fitxa-taldeen gomendioak
 preferences-ai-controls-block-confirmation-key-points = Puntu nagusiak loturen aurrebistetan
-preferences-ai-controls-block-confirmation-sidebar-chatbot = Txaterako botak alboko barran
+preferences-ai-controls-block-confirmation-sidebar-chatbot = Txatbota hornitzaileak alboko barran
 preferences-ai-controls-block-confirmation-speech-recognition = Hizketa-ezagutzea
 preferences-ai-controls-block-confirmation-features-after = Blokeatzeak { -brand-short-name }(e)k hornitutako AAa darabilten hedapenei ere eragiten die.
 preferences-ai-controls-block-confirmation-cancel =

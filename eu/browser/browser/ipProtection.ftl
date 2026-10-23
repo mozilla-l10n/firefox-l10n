@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Joan urrutirago { -
 ipprotection-feature-introduction-link-text-private-browsing-2 = Erabili gure <a data-l10n-name="learn-more-vpn">integratutako VPN</a> berria zure kokapena ezkutatu eta datuak babesteko, baita leiho pribatuetan zaudenean ere.
 ipprotection-feature-introduction-description-private-browsing = Nabigatu babes estraz zure kokapena ezkutatuz, baita leiho pribatuetan zaudenean ere.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Lagundu zure kokapena ezkutatzen nabigatu ahala. Ezarri VPNa aktibatzeko arauak <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> nahi duzunean edo kokapenean oinarritutako nabigaziorako, eta desaktibatu halakorik nahi ez duzunean.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Lagundu zure kokapena ezkutatzen <a data-l10n-name="learn-more-vpn">pribatutasun estra</a> izateko nabigatu ahala. Ezarri VPNa aktibatzeko arauak pribatutasun estra edo kokapenean oinarritutako nabigaziorako, eta desaktibatu behar ez duzunean.
 ipprotection-feature-introduction-title-captive-portal = Wi-Fi publikoan zaude? Probatu { -brand-product-name }(r)en integratutako VPNa.
 ipprotection-feature-introduction-description-captive-portal = Nabigatu babes estraz zure kokapena ezkutatuz, baita Wi-Fi publikoetan ere.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Ulertuta
 ipprotection-site-inclusions-callout-title-existing-users = Ezarri integratutako VPNaren arauak, gero jarraitu nabigatzen
 ipprotection-site-inclusions-callout-title-lapsed-users = Probatu integratutako VPNa, orain gunean guneko konfigurazioarekin
 ipprotection-site-inclusions-callout-description-1 = Aktibatu VPNa pribatutasun estra edo kokapenean oinarritutako nabigazioa nahi duzunean, eta desaktibatu behar ez duzunean.
+ipprotection-site-inclusions-callout-description-lapsed-users = Ezarri arauak VPNa aktibatzeko pribatutasun estra edo kokapenean oinarritutako nabigazioa nahi duzunean, eta desaktibatu halakorik nahi ez duzunean.
 ipprotection-site-inclusions-callout-description = Aktiba ezazu pribatutasun estra edo kokapenean oinarritutako nabigazioa nahi duzunean, eta desaktibatu behar ez duzunean.
 ipprotection-site-inclusions-callout-primary-button = Ezarri arauak
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Une honetan ez
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Baztertu
 ipprotection-holiday-promo-description = Bihurtu zure nabigazioa pribatu eta arrastoa jarraitzeko zailagoa integratutako VPNarekin.
 ipprotection-holiday-promo-primary-button = Ireki VPNa
 ipprotection-holiday-promo-secondary-button = Baztertu
+ipprotection-holiday-promo-title-1 = Eskuratu VPN mugagabea urtarrilaren 31ra arte
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Aktibatu VPNa zure kokapena e
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ezarri VPNa aktibatzea</a> { -brand-short-name } irekitzen duzun aldiro babes-geruza estra baterako.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }(e)k gogoratu egingo ditu VPN bidez sartzeko ezarri dituzun webguneak. Eguneratu hauek edonoiz <a data-l10n-name="setting-link">ezarpenetan</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPNa inaktibo dago gune honetarako
+confirmation-hint-ipprotection-navigated-to-included-site = VPNa aktibo dago gune honetarako
 ipprotection-open-button = Ireki { -brand-product-name }
 ipprotection-come-back-title = Itzuli integratutako VPNa probatzeko
 ipprotection-message-body-hide-location = Ezkutatu zure kokapena { -brand-product-name }(e)n nabigatzean pribatutasun eta kontrol gehiagorako.

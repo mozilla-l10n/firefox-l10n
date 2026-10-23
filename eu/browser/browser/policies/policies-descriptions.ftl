@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = Eragotzi { -brand-short-name }(r)i esperimentuak 
 policy-DisableForgetButton = Eragotzi 'Ahaztu' botoirako sarbidea.
 policy-DisableFormHistory = Ez gogoratu bilaketen eta inprimakien historia.
 policy-DisableLaunchOnLogin = Eragotzi { -brand-short-name }(r)i automatikoki abiatzea erabiltzaileak saioa hasten duenean.
+policy-DisableMacOSUserPolicies = Ezikusi politikak erabiltzailearen hobespenetatik edo erabiltzaile-esparruko konfigurazio-profiletatik macOSen.
 policy-DisablePrimaryPasswordCreation = Ezarrita badago, ezingo da pasahitz nagusia sortu.
 policy-DisablePasswordReveal2 = Ez baimendu gordetako saio-hasieretan edo pasahitz eremuetan pasahitzak agerraraztea.
 policy-DisablePrivateBrowsing = Desgaitu nabigatze pribatua.
