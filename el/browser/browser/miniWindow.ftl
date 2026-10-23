@@ -56,6 +56,11 @@ move-to-mini-window =
         }
     .accesskey = Μ
 
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Επιλέξτε το τμήμα της σελίδας που θέλετε να παραμένει ορατό
+
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
