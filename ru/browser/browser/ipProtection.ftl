@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Возьмите б
 ipprotection-feature-introduction-link-text-private-browsing-2 = Используйте наш новый <a data-l10n-name="learn-more-vpn">встроенный VPN</a>, чтобы скрыть своё местоположение и защитить свои данные, даже когда вы находитесь в приватном окне.
 ipprotection-feature-introduction-description-private-browsing = Работайте в интернете с дополнительной защитой, скрывая своё местоположение, даже когда вы находитесь в приватном окне.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Помогите скрыть свое местоположение во время веб-сёрфинга. Установите правила, включающие VPN, когда вы хотите <a data-l10n-name="learn-more-vpn">дополнительную приватность</a> или веб-сёрфинг с учётом местоположения, и выключать, когда вы этого не хотите.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Помогите скрыть свое местоположение для <a data-l10n-name="learn-more-vpn">дополнительной конфиденциальности</a> при веб-сёрфинге. Установите правила, чтобы включать VPN для дополнительной конфиденциальности или просмотра на основе местоположения, и выключать там, где это не нужно.
 ipprotection-feature-introduction-title-captive-portal = Используете общедоступный Wi-Fi? Попробуйте встроенный в { -brand-product-name } VPN.
 ipprotection-feature-introduction-description-captive-portal = Работайте в интернете с дополнительной защитой, скрывая своё местоположение даже при подключении к общедоступной сети Wi-Fi.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Понятно
 ipprotection-site-inclusions-callout-title-existing-users = Установите встроенные правила VPN, а затем сёрфите дальше
 ipprotection-site-inclusions-callout-title-lapsed-users = Попробуйте встроенный VPN, теперь сайт за сайтом
 ipprotection-site-inclusions-callout-description-1 = Включите VPN, когда вам нужна дополнительная приватность или местоположение в Интернете, и выключите там, где вам это не нужно.
+ipprotection-site-inclusions-callout-description-lapsed-users = Установите правила для включения VPN, когда вам нужна дополнительная приватность или местоположение в зависимости от местоположения, и отключения, когда это не требуется.
 ipprotection-site-inclusions-callout-description = Включите это, когда вам нужна дополнительная приватность или сёрфинг на основе местоположения, и выключите, если это вам не нужно.
 ipprotection-site-inclusions-callout-primary-button = Установить правила
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Не сейчас
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Убрат�
 ipprotection-holiday-promo-description = Сделайте свой веб-сёрфинг приватным и трудным для отслеживания с помощью встроенного VPN.
 ipprotection-holiday-promo-primary-button = Открыть VPN
 ipprotection-holiday-promo-secondary-button = Убрать
+ipprotection-holiday-promo-title-1 = Получите безлимитный VPN до 31 января
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Включите VPN, что�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Настройте VPN на включение</a> каждый раз при открытии { -brand-short-name } для получения дополнительного уровня защиты.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } будет помнить, какие веб-сайты вы разрешили использовать VPN. Обновите их в <a data-l10n-name="setting-link">настройках</a> в любое время.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN для этого сайта отключён
+confirmation-hint-ipprotection-navigated-to-included-site = VPN для этого сайта включён
 ipprotection-open-button = Открыть { -brand-product-name }
 ipprotection-come-back-title = Вернитесь, чтобы попробовать встроенный VPN
 ipprotection-message-body-hide-location = Скрывайте свое местоположение при веб-сёрфинге в { -brand-product-name } для повышения приватности и контроля.

@@ -1832,6 +1832,63 @@ permissions-data-section =
     .heading = Разрешения и данные
 pane-permissions-data-title2 = Разрешения и данные
     .title = Разрешения и данные
+notifications-section-header =
+    .heading = Уведомления
+notifications-entry-card-header =
+    .description = Выберите, какие веб-сайты могут отправлять уведомления и как эти уведомления будут отображаться.
+    .label = Уведомления
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } веб-сайт
+            [few] { $count } веб-сайта
+           *[many] { $count } веб-сайтов
+        }
+    .label = Управление настройками уведомлений
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Управление настройками уведомлений веб-сайтов
+notifications-website-card-header =
+    .description = Выберите, как веб-сайты могут отправлять уведомления.
+    .label = Уведомления веб-сайтов
+notifications-filter =
+    .placeholder = Поиск веб-сайтов
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Веб-сайт
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Разрешить уведомления
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Веб-сайты
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Всегда
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Разрешить
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Никогда
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Уведомления от веб-сайтов не добавлены.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Сайтов с уведомлениями, соответствующих вашему запросу, не найдено.
 
 ## Privacy Section - Data Collection
 
