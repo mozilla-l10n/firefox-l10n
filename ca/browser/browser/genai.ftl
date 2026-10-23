@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = En triar HuggingChat, accepteu l'<a data
 genai-settings-chat-lechat-links-2 = En triar Mistral Vibe, accepteu les <a data-l10n-name="link1">condicions del servei</a> i la <a data-l10n-name="link2">política de privadesa</a> de Mistral AI.
 genai-settings-chat-lechat-links = En triar Le Chat Mistral, accepteu les <a data-l10n-name="link1">condicions del servei</a> i la <a data-l10n-name="link2">política de privadesa</a> de Mistral AI .
 genai-settings-chat-localhost-links = Porteu el vostre bot de conversa local privat com ara <a data-l10n-name="link1">llamafile</a> del grup d'Innovació de { -vendor-short-name }.
+genai-settings-chat-scout-links = En triar Yahoo Scout, accepteu les <a data-l10n-name="link1">Condicions del servei</a> de Yahoo i la <a data-l10n-name="link2">Política de privadesa</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -24,6 +25,9 @@ genai-settings-chat-localhost-links = Porteu el vostre bot de conversa local pri
 genai-prompts-summarize =
     .label = Resumeix
     .value = Resumeix la selecció utilitzant un llenguatge precís i concís. Fes servir encapçalaments i llistes amb punts en el resum per a que sigui consultable fàcilment. Mantén el significat i l’exactitud dels fets.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Resumeix la pàgina web a { $url } amb un llenguatge precís i concís. Utilitza les capçaleres i les llistes amb pics al resum perquè es pugui explorar. Mantén el significat i l'exactitud factual.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Simplifica el llenguatge
@@ -59,6 +63,20 @@ genai-menu-remove-provider =
     .label = Elimina { $provider }
 genai-menu-remove-sidebar =
     .label = Elimina de la barra lateral
+genai-shortcut-button-3 =
+    .aria-label = Pregunta sobre aquest text
+    .tooltiptext = Pregunta sobre aquest text
+# $engine (string) - name of the search engine
+# $selection (string) - the selected text, truncated
+genai-shortcut-search-button =
+    .aria-label = Cerca «{ $selection }» al { $engine }
+    .tooltiptext = Cerca «{ $selection }» al { $engine }
+genai-shortcut-copy-button =
+    .aria-label = Copia el text seleccionat
+    .tooltiptext = Copia el text seleccionat
+genai-shortcut-more-actions-button =
+    .aria-label = Més opcions
+    .tooltiptext = Més opcions
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Pregunta-ho a { $provider }
@@ -157,6 +175,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Utilitzeu un bot de conversa d'IA sense canviar de pestanya
@@ -215,6 +235,19 @@ link-preview-settings-key-points =
     .label = Permet que la IA llegeixi el principi de la pàgina i generi punts clau
 link-preview-settings-long-press =
     .label = Drecera: Feu clic i manteniu premut l'enllaç durant 1 segon
+highlight-to-search-settings-enable =
+    .description = Accediu ràpidament a accions útils quan seleccioneu contingut.
+    .label = Mostra el menú d'accions en seleccionar text
+# $provider (string) - name of the AI chatbot provider
+highlight-to-search-settings-ask-provider =
+    .label = Pregunta-ho a { $provider }
+highlight-to-search-settings-ask-generic =
+    .label = Pregunta-ho a la IA
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Cerca
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Voleu veure més amb la IA?
 # Message that appears when user is shown the opt-in flow for link previews
