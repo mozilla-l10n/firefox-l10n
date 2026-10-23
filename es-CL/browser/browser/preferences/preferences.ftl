@@ -1795,6 +1795,11 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Elige qué sitios web pueden instalar extensiones
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Permitir que los sitios web soliciten abrir enlaces de aplicación.
+    .accesskey = A
 # Opens the list of sites that are blocked from asking to open app links.
 permissions-app-links-manage-button =
     .label = Gestionar sitios bloqueados
@@ -1823,6 +1828,8 @@ permissions-data-section =
     .heading = Permisos y datos
 pane-permissions-data-title2 = Permisos y datos
     .title = Permisos y datos
+notifications-section-header =
+    .heading = Notificaciones
 
 ## Privacy Section - Data Collection
 
