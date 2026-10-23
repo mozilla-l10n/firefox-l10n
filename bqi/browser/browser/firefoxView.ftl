@@ -66,6 +66,8 @@ firefoxview-history-nav = ویرگار
 firefoxview-history-header = ویرگار
 firefoxview-history-context-delete = پاک کردن ز ویرگار
     .accesskey = D
+firefoxview-history-context-forget-site = ز ویر بوردن ای وبگه…
+    .accesskey = ز
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -161,6 +163,11 @@ firefoxview-show-all-history = نشوݩ داڌن پوی ویرگار
 # Button text for choosing a browser within the ’Import history from another browser’ banner
 firefoxview-choose-browser-button = پسند گشت گر
     .title = پسند گشت گر
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+# “Off the record” is an English phrase journalists use when a conversation will not be recorded or reported on. It’s meant to convey that users’ history activity will not be recorded or shown.
+firefoxview-dont-remember-history-empty-header-3 = ایسا ز هالت زفت و در زیڌین
 
 ##
 
