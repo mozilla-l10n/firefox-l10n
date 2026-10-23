@@ -30,6 +30,7 @@ policy-BlockAboutSupport = Bloca l'accés a la pàgina about:support.
 policy-Bookmarks = Crea adreces d'interès a la barra d'adreces d'interès, al menú d'adreces d'interès o a la carpeta especificada.
 policy-CaptivePortal = Activa o desactiva la funcionalitat de portal captiu.
 policy-CertificatesDescription = Afegeix certificats o utilitza certificats integrats.
+policy-ClearOnShutdown = Esborra les dades de navegació en tancar el { -brand-short-name }.
 # CNSA 2.0 is the United States National Security Agency's Commercial National
 # Security Algorithm Suite 2.0. ML-KEM-1024 is a post-quantum key agreement
 # algorithm. Neither should be translated.

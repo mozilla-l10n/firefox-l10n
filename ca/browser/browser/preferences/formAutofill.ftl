@@ -29,6 +29,9 @@ address-capture-save-button =
 address-capture-not-now-button =
     .label = Ara no
     .accessKey = n
+address-capture-never-save-addresses-button =
+    .label = No desis mai les adreces
+    .accessKey = v
 address-capture-cancel-button =
     .label = Cancel·la
     .accessKey = C
@@ -100,6 +103,7 @@ autofill-address-tel = Telèfon
 autofill-address-email = Adreça electrònica
 autofill-cancel-button = Cancel·la
 autofill-save-button = Desa
+autofill-country-warning-message-2 = Actualment l'emplenament automàtic de formularis només està disponible per a alguns països
 autofill-country-warning-message = Actualment l'emplenament automàtic de formularis només està disponible per a alguns països.
 autofill-message-tooltip = Mostra el missatge sobre l'emplenament automàtic
 # The dialog title for creating credit cards in browser preferences.
@@ -118,6 +122,14 @@ autofill-card-expires-year-2 =
     .label = Expira l'any
 autofill-card-billing-address-2 =
     .label = Adreça de facturació
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code-optional =
+    .label = CVV (opcional)
+# "CVV" is a common abbreviation for the security code printed on a payment
+# card. Use whichever abbreviation is most familiar in your locale.
+autofill-card-security-code =
+    .label = CVV
 autofill-card-name-on-card = Nom del titular
 autofill-card-expires-month = Mes de caducitat
 autofill-card-expires-year = Any de caducitat

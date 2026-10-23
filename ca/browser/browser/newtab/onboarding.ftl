@@ -538,6 +538,16 @@ onboarding-refresh-gratitude-subtitle = Gràcies per utilitzar el { -brand-short
 # "has your back" is an idiom suggesting support and protection
 onboarding-refresh-gratitude-title = El { -brand-short-name } està de part vostra
 
+## First Run Onboarding refresh strings
+
+# "has your back" is an idiom suggesting support and protection
+onboarding-refresh-splash-screen-title = El { -brand-product-name } us dona suport des d'ara mateix
+onboarding-refresh-hero-text = Dissenyat per a protegir-vos, no per a rastrejar-vos.
+onboarding-refresh-tou-default = Obriu tots els enllaços amb el { -brand-short-name }
+onboarding-refresh-tou-default-unchecked = Navegueu sempre amb la protecció integrada
+onboarding-refresh-tou-pin-unchecked = Tingueu l'únic gran navegador independent a un sol clic
+onboarding-refresh-terms-of-use-with-links = En continuar, accepteu les <a data-l10n-name="terms_of_use">{ -brand-product-name } Condicions d'ús</a> i l'<a data-l10n-name="privacy_notice">Avís de privadesa</a>. Per a ajudar a millorar el navegador, el { -brand-product-name } envia dades de diagnòstic i interacció a { -vendor-short-name }.
+
 ## Smart window switcher callout
 
 smartwindow-switcher-callout = Canvia entre finestres intel·ligents i clàssiques en qualsevol moment.

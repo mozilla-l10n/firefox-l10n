@@ -2143,6 +2143,11 @@ preferences-ai-controls-speech-recognition-control =
 preferences-ai-controls-sidebar-chatbot-group-3 =
     .description = Mostra un bot de conversa d’IA mentre navegueu. Podeu triar entre diversos proveïdors i canviar-los en qualsevol moment.
     .label = Proveïdors de bot de conversa d’IA a la barra lateral
+preferences-ai-controls-sidebar-chatbot-group =
+    .description = Tingueu un bot de conversa a la vista mentre navegueu. Escolliu entre Anthropic Claude, ChatGPT, Copilot, Google Gemini i Le Chat Mistral.
+    .label = Proveïdors de bots de conversa d'IA a la barra lateral
+preferences-ai-controls-sidebar-chatbot-control =
+    .label = Bot de conversa a la barra lateral
 # This option means that a user will see the feature and can use it.
 preferences-ai-controls-state-available =
     .label = Disponible
@@ -2157,6 +2162,7 @@ preferences-ai-controls-state-description-available = <strong>Disponible:</stron
 preferences-ai-controls-state-description-enabled = <strong>Activat:</strong> Heu optat per utilitzar la funció.
 preferences-ai-controls-state-description-blocked = <strong>Blocat</strong>: No veureu la funció ni la podreu utilitzar. Per a la IA en el dispositiu, s’eliminaran tots els models baixats.
 preferences-ai-controls-block-confirmation-heading = Voleu blocar les millores basades en IA?
+preferences-ai-controls-block-confirmation-description = No veureu millores noves o actuals de la IA al { -brand-short-name }, ni finestres emergents sobre elles. Després, podeu desbloquejar tot el que vulgueu continuar utilitzant.
 preferences-ai-controls-block-confirmation-features-start = Què es blocarà:
 preferences-ai-controls-block-confirmation-translations = Traduccions
 preferences-ai-controls-block-confirmation-pdfjs = Text alternatiu de la imatge al visor de PDF del { -brand-short-name }
@@ -2180,6 +2186,14 @@ security-privacy-status-ok-label = La protecció contra el seguiment millorada e
 security-privacy-status-problem-label = Hem trobat paràmetres que afecten la vostra protecció
 security-privacy-status-problem-helper-label = Mostra els problemes
 security-privacy-status-pending-trackers-label = S'està cercant quants elements de seguiment { -brand-short-name } s'han blocat durant l'últim mes
+# This label tells the user how many trackers we have blocked for them.
+# Variables:
+#   $trackerCount (Number) - Number of trackers we have blocked in the last month
+security-privacy-status-trackers-label =
+    { $trackerCount ->
+        [one] S'ha bloquejat { $trackerCount } element de seguiment durant l'últim mes
+       *[other] S'han bloquejat { $trackerCount } elements de seguiment durant l'últim mes
+    }
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Strict" in Enhanced Tracking Protection advanced settings
 security-privacy-status-strict-enabled-label = Teniu <a data-l10n-name="strict-tracking-protection">protecció estricta</a>
 # This string appears under "Enhanced Tracking Protection is on" when a user has enabled "Custom" in Enhanced Tracking Protection advanced settings
@@ -2191,6 +2205,10 @@ security-privacy-status-update-checking-label = El { -brand-short-name } està c
 security-privacy-status-update-needed-description = Actualitzeu per a les últimes actualitzacions de velocitat, estabilitat i seguretat.
 security-privacy-status-update-button-label =
     .label = Actualitza el { -brand-short-name }
+security-privacy-image-warning =
+    .alt = Un escut amb una exclamació, expressant preocupació pels vostres avisos de seguretat
+security-privacy-image-ok =
+    .alt = Un escut amb una marca de verificació, que demostra que no teniu problemes de seguretat pendents
 security-privacy-issue-card =
     .heading = Avisos de seguretat
 issue-card-reset-button =
@@ -2204,12 +2222,109 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Els llocs web utilitzen elements que fan el seguiment de la vostra navegació i que mostren anuncis esgarrifosos. El { -brand-short-name } us protegeix mentre navegueu, blocant els elements de seguiment automàticament perquè tingueu el control del vostre rastre digital.
     .label = Protecció contra el seguiment millorada
+preferences-etp-level-standard =
+    .description = Proteccions fortes i fiables que funcionen sense problemes amb la majoria de llocs web.
+    .label = Estàndard (per defecte)
+preferences-etp-level-strict =
+    .description = Proteccions més fortes que bloquegen més elements de seguiment, però que poden provocar que alguns llocs no funcionin correctament.
+    .label = Estricta
+preferences-etp-level-custom =
+    .description = Trieu quines proteccions voleu activar o desactivar.
+    .label = Personalitzada
+preferences-etp-status-advanced-button =
+    .label = Paràmetres avançats
+preferences-etp-tracker-count-enabled =
+    .label = Mostra els elements de seguiment bloquejats a la barra d'adreces
+preferences-etp-header =
+    .heading = Protecció contra el seguiment millorada
+preferences-etp-customize-button =
+    .label = Personalitzeu la protecció contra el seguiment
 preferences-etp-reload-tabs-hint =
     .message = Torneu a carregar les pestanyes per aplicar aquests canvis.
+preferences-etp-reload-tabs-hint-button =
+    .label = Torna a carregar totes les pestanyes
+preferences-etp-rfp-warning-message =
+    .message = Esteu utilitzant RFP (Resist Fingerprinting), que substitueix alguns dels paràmetres de protecció d'empremtes digitals del { -brand-short-name }. Això pot fer que alguns llocs no funcionin correctament.
 preferences-etp-manage-exceptions-button =
     .description = Gestioneu els llocs web on la protecció contra el seguiment millorada està desactivada.
     .label = Gestiona les excepcions
 preferences-etp-customize-header =
     .heading = Personalitzeu la protecció contra el seguiment
+preferences-etp-reset =
+    .description = Restableix la configuració a un nivell de protecció preestablert.
+    .label = Restableix les personalitzacions
+preferences-etp-reset-standard-button =
+    .label = Restableix a estàndard
+preferences-etp-reset-strict-button =
+    .label = Restableix a estricte
+preferences-etp-custom-control-group =
+    .description = Trieu quines proteccions voleu activar o desactivar.
+    .label = Protecció contra el seguiment
+preferences-etp-custom-cookies-enabled =
+    .label = Galetes
+preferences-etp-custom-cookie-behavior =
+    .aria-label = Galetes
+preferences-etp-custom-cookie-behavior-accept-all =
+    .label = Permet totes les galetes
+preferences-etp-custom-cookie-behavior-block-cross-site-tracking-cookies =
+    .label = Bloca les galetes de seguiment entre llocs
+preferences-etp-custom-cookie-behavior-block-cross-site-cookies =
+    .label = Bloqueja les galetes entre llocs
 preferences-etp-custom-cookie-behavior-isolate-cross-site-cookies =
     .label = Aïlla les galetes entre llocs
+preferences-etp-custom-cookie-behavior-block-unvisited =
+    .label = Bloqueja les galetes dels llocs web no visitats
+preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
+    .label = Bloqueja totes les galetes entre llocs (pot fer que els llocs web no funcionin)
+preferences-etp-custom-cookie-behavior-block-all =
+    .label = Bloqueja totes les galetes (farà que els llocs web no funcionin)
+preferences-etp-custom-crypto-mining-protection-enabled =
+    .label = Miners de criptomonedes
+preferences-etp-custom-known-fingerprinting-protection-enabled =
+    .label = Generadors d'empremtes digitals coneguts
+preferences-etp-custom-suspect-fingerprinting-protection-enabled =
+    .label = Generadors d'empremtes digitals sospitosos
+preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
+    .aria-label = Generadors d'empremtes digitals sospitosos
+
+## Warnings section
+
+security-privacy-issue-warning-fingerprinters =
+    .description = Això pot permetre que alguns elements de seguiment us segueixin sense galetes.
+    .label = Els generadors d'empremtes digitals coneguts no estan bloquejats
+security-privacy-issue-warning-password-manager =
+    .description = Els gestors de contrasenyes us ajuden a emmagatzemar contrasenyes segures per als vostres comptes.
+    .label = El gestor de contrasenyes està desactivat
+security-privacy-issue-warning-popup-blocker =
+    .description = Les finestres emergents són intrusives i potencialment perjudicials.
+    .label = El blocador emergent està desactivat
+security-privacy-issue-warning-extension-install =
+    .description = Els llocs web poden instal·lar extensions al { -brand-short-name } sense preguntar.
+    .label = Els llocs web poden instal·lar extensions
+security-privacy-issue-warning-safe-browsing =
+    .description = S'incrementa la vostra exposició a estafes i programari maliciós dels llocs web.
+    .label = El contingut perillós i enganyós no està bloquejat
+security-privacy-issue-warning-doh2 =
+    .description = DNS sobre HTTPS ajuda a ocultar quins llocs esteu a punt de visitar des del vostre proveïdor de xarxa.
+    .label = DNS sobre HTTPS està desactivat
+security-privacy-issue-warning-doh =
+    .description = DNS sobre HTTPS oculta els llocs que visiteu des del vostre proveïdor de xarxa.
+    .label = DNS sobre HTTPS està desactivat
+security-privacy-issue-warning-ech =
+    .description = El «Client Hello» xifrat oculta els llocs que visiteu des del vostre proveïdor de xarxa.
+    .label = El «Client Hello» xifrat està desactivat
+security-privacy-issue-warning-proxy-autodetection =
+    .description = La configuració automàtica del servidor intermediari podria permetre que xarxes no fiables supervisin la vostra activitat.
+    .label = La configuració automàtica del servidor intermediari està activada
+
+## Referrals Section
+
+# The header in settings with link to the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-section-header2 =
+    .description = Convideu algú a triar el navegador que dona prioritat a la privadesa.
+    .label = Compartiu el { -brand-product-name }
+# Link that opens the referral page, where the user can invite others to
+# use the browser. "Share" here means recommending or referring the browser
+referrals-link2 =
+    .label = Comparteix el { -brand-product-name }

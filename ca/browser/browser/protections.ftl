@@ -168,40 +168,40 @@ monitor-resolve-breaches-link = Resol les filtracions
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Elements de seguiment de xarxes socials
     .aria-label =
         { $count ->
             [one] { $count } element de seguiment de xarxes socials ({ $percentage }%)
            *[other] { $count } elements de seguiment de xarxes socials ({ $percentage }%)
         }
+    .title = Elements de seguiment de xarxes socials
 bar-tooltip-cookie =
-    .title = Galetes de seguiment entre llocs
     .aria-label =
         { $count ->
             [one] { $count } galeta de seguiment entre llocs ({ $percentage }%)
            *[other] { $count } galetes de seguiment entre llocs ({ $percentage }%)
         }
+    .title = Galetes de seguiment entre llocs
 bar-tooltip-tracker =
-    .title = Contingut que fa seguiment
     .aria-label =
         { $count ->
             [one] { $count } contingut que fa seguiment ({ $percentage }%)
            *[other] { $count } continguts que fan seguiment ({ $percentage }%)
         }
+    .title = Contingut que fa seguiment
 bar-tooltip-fingerprinter =
-    .title = Generadors d'empremtes digitals
     .aria-label =
         { $count ->
             [one] { $count } generador d'empremtes digitals ({ $percentage }%)
            *[other] { $count } generador d'empremtes digitals ({ $percentage }%)
         }
+    .title = Generadors d'empremtes digitals
 bar-tooltip-cryptominer =
-    .title = Miners de criptomonedes
     .aria-label =
         { $count ->
             [one] { $count } miner de criptomonedes ({ $percentage }%)
            *[other] { $count } miners de criptomonedes ({ $percentage }%)
         }
+    .title = Miners de criptomonedes
 # Privacy Metrics Card
 privacy-metrics-title = Proteccions de privadesa
 # Variables:
@@ -243,3 +243,20 @@ privacy-metrics-empty = No s'ha blocat cap element de seguiment aquesta setmana.
 privacy-metrics-loading = S'estan carregant les estadístiques de protecció…
 privacy-metrics-error = No s'han pogut carregar les estadístiques de protecció.
 privacy-metrics-private-window = En les finestres privades, el { -brand-short-name } segueix blocant els elements de seguiment, però no conserva cap registre d'allò que bloca.
+
+## VPN promo card and banner
+
+protections-vpn-title = Porteu les proteccions de privadesa més enllà del navegador
+protections-vpn-header-content = Protegiu tot el dispositiu amb { -mozilla-vpn-brand-name }. Un toc encripta tot el trànsit i amaga la vostra ubicació.
+protections-get-vpn-link = Obteniu { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: subscrit
+# Variables
+#   $count (number): Number of devices
+protections-vpn-header-content-subscribed =
+    { $count ->
+        [one] Si feu servir { -mozilla-vpn-brand-name } s'encriptarà tot el trànsit i s'amagarà la vostra ubicació en fins a { $count } dispositius. Traieu el màxim partit de la vostra subscripció: afegiu-la des de <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+       *[other] Si feu servir { -mozilla-vpn-brand-name } s'encriptarà tot el trànsit i s'amagarà la vostra ubicació en fins a { $count } dispositius. Traieu el màxim partit de la vostra subscripció: afegiu-la des de <a data-l10n-name="playstore-link">Google Play Store</a> o <a data-l10n-name="appstore-link">Apple App Store</a>.
+    }
+protections-vpn-banner-header = Una protecció que va més enllà del navegador
+protections-vpn-banner-content = Proveu { -mozilla-vpn-brand-name } sense riscos i vegeu per què TechRadar diu: "la velocitat, la simplicitat i el baix preu mensual fan que valgui la pena fer-hi una ullada."
+protections-vpn-banner-link = Obteniu { -mozilla-vpn-brand-name }

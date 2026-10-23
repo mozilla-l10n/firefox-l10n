@@ -117,6 +117,7 @@ unauthenticated-vpn-title = Proveu la VPN integrada del { -brand-product-name }
 unauthenticated-hide-location-message-3 = <a data-l10n-name="learn-more-vpn">Amagueu la vostra ubicació</a> mentre navegueu amb el { -brand-product-name }.
 unauthenticated-private-location-message = Ajuda a <a data-l10n-name="learn-more-vpn">mantenir la privadesa de la vostra ubicació</a> al { -brand-product-name }.
 unauthenticated-choose-location-message-1 = Trieu entre diverses ubicacions o deixeu que el { -brand-product-name } triï la més ràpida.
+unauthenticated-site-rules-message = Controleu quins llocs utilitzen VPN i quins no.
 unauthenticated-get-started = Comença
 unauthenticated-terms-of-service-privacy-notice = En continuar, accepteu les <a data-l10n-name="vpn-terms-of-service">condicions d'ús del servei</a> i l'<a data-l10n-name="vpn-privacy-notice">avís de privadesa</a>.
 site-exclusion-toggle-enabled-1 =
@@ -126,6 +127,14 @@ site-exclusion-toggle-disabled-1 =
     .aria-label = La VPN està desactivada per a aquest lloc
     .label = Fes servir la VPN per a aquest lloc
 site-exclusion-toggle-description = El lloc web no funciona? Proveu de desactivar la VPN.
+# Manages rules for VPN to turn on or off automatically for certain websites
+site-rules-manage-rules-link-text = Gestioneu les regles de la VPN
+# Heading for user defined rules on VPN usage for particular websites
+site-rules-status-heading = La vostra regla
+# Used in the panel when a user navigates to a site where the VPN is off due to a site exclusion
+site-rules-description-exclusion = La VPN està desactivada per a aquest lloc web
+# Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
+site-rules-description-inclusion = La VPN està activada per a aquest lloc web
 ipprotection-settings-link =
     .label = Paràmetres
 
@@ -260,6 +269,11 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } llocs web
         }
     .label = Gestioneu els paràmetres de llocs web
+ip-protection-site-rules-header =
+    .heading = Gestioneu les regles del lloc web
+ip-protection-site-rules-button =
+    .description = Establiu regles per als llocs que necessitin privadesa addicional o la VPN desactivada.
+    .label = Gestioneu les regles del lloc web
 ip-protection-autostart =
     .label = Activa la VPN automàticament
 ip-protection-autostart-checkbox =
