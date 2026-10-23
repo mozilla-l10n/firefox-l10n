@@ -1311,7 +1311,7 @@ forms-saved-passwords =
 forms-saved-passwords-2 =
     .label = Διαχείριση αποθηκευμένων κωδικών πρόσβασης
     .accesskey = χ
-forms-saved-passwords-searchkeywords = Οι συνδέσεις των ακόλουθων ιστοσελίδων αποθηκεύονται στον υπολογιστή σας
+forms-saved-passwords-searchkeywords = Οι συνδέσεις για τους ακόλουθους ιστοτόπους αποθηκεύονται στον υπολογιστή σας
 # Header for additional protections when managing password settings.
 forms-additional-protections-header =
     .label = Πρόσθετα μέτρα προστασίας
@@ -1828,6 +1828,52 @@ permissions-data-section =
     .heading = Δικαιώματα και δεδομένα
 pane-permissions-data-title2 = Δικαιώματα και δεδομένα
     .title = Δικαιώματα και δεδομένα
+notifications-section-header =
+    .heading = Ειδοποιήσεις
+notifications-entry-card-header =
+    .description = Επιλέξτε ποιοι ιστότοποι μπορούν να στέλνουν ειδοποιήσεις και πώς θα εμφανίζονται αυτές.
+    .label = Ειδοποιήσεις
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } ιστότοπος
+           *[other] { $count } ιστότοποι
+        }
+    .label = Διαχείριση ρυθμίσεων ειδοποιήσεων
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Διαχείριση ρυθμίσεων ειδοποιήσεων ιστοτόπων
+notifications-filter =
+    .placeholder = Αναζήτηση ιστοτόπων
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Ιστότοπος
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Αποδοχή ειδοποιήσεων
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Ιστότοποι
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Πάντα
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Αποδοχή
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Ποτέ
 
 ## Privacy Section - Data Collection
 

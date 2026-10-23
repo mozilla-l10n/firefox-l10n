@@ -249,6 +249,7 @@ ipprotection-message-continuous-onboarding-intro = Ενεργοποιήστε τ
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ρυθμίστε το VPN έτσι, ώστε να ενεργοποιείται</a> κάθε φορά που ανοίγετε το { -brand-short-name } για ένα επιπλέον επίπεδο προστασίας.
 ipprotection-message-continuous-onboarding-site-settings = Το { -brand-short-name } θα θυμάται ποιους ιστοτόπους έχετε ρυθμίσει να χρησιμοποιούν VPN. Ενημερώστε τους στις <a data-l10n-name="setting-link">ρυθμίσεις</a> ανά πάσα στιγμή.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Το VPN είναι ανενεργό για αυτόν τον ιστότοπο
+confirmation-hint-ipprotection-navigated-to-included-site = Το VPN είναι ενεργό για αυτόν τον ιστότοπο
 ipprotection-open-button = Άνοιγμα του { -brand-product-name }
 ipprotection-come-back-title = Επιστρέψτε για να δοκιμάσετε το ενσωματωμένο VPN
 ipprotection-message-body-hide-location = Αποκρύψτε την τοποθεσία σας κατά την περιήγηση με το { -brand-product-name } για περισσότερη ιδιωτικότητα και έλεγχο.
