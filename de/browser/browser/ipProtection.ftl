@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Kommen Sie noch wei
 ipprotection-feature-introduction-link-text-private-browsing-2 = Verwenden Sie unser neues <a data-l10n-name="learn-more-vpn">integriertes VPN</a>, um Ihren Standort zu verbergen und Ihre Daten zu schützen, auch wenn Sie sich in einem privaten Fenster befinden.
 ipprotection-feature-introduction-description-private-browsing = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verstecken, auch wenn Sie sich in einem privaten Fenster befinden.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Verbergen Sie Ihren Standort beim Surfen. Legen Sie Regeln fest, um VPN zu aktivieren, wenn Sie <a data-l10n-name="learn-more-vpn">mehr Privatsphäre</a> oder standortbasiertes Surfen wünschen, und deaktivieren Sie es, wenn Sie dies nicht tun.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Verbergen Sie beim Surfen Ihren Standort für <a data-l10n-name="learn-more-vpn">mehr Privatsphäre</a>. Legen Sie Regeln fest, um das VPN für zusätzlichen Schutz oder standortbezogenes Surfen zu aktivieren und dort zu deaktivieren, wo Sie es nicht benötigen.
 ipprotection-feature-introduction-title-captive-portal = Im öffentlichen WLAN? Probieren Sie das integrierte VPN von { -brand-product-name } aus.
 ipprotection-feature-introduction-description-captive-portal = Surfen Sie mit zusätzlichem Schutz, indem Sie Ihren Standort verbergen, auch im öffentlichen WLAN.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Verstanden
 ipprotection-site-inclusions-callout-title-existing-users = Integrierte VPN-Regeln festlegen und weitersurfen
 ipprotection-site-inclusions-callout-title-lapsed-users = Integriertes VPN jetzt gezielt für einzelne Websites testen
 ipprotection-site-inclusions-callout-description-1 = Aktivieren Sie VPN, wenn Sie mehr Privatsphäre oder standortbasiertes Surfen wünschen, und deaktivieren Sie es, wenn dies nicht der Fall ist.
+ipprotection-site-inclusions-callout-description-lapsed-users = Legen Sie Regeln fest, um VPN zu aktivieren, wenn Sie mehr Privatsphäre oder standortbasiertes Surfen wünschen, und aus, wenn Sie dies nicht tun.
 ipprotection-site-inclusions-callout-description = Aktivieren Sie es, wenn Sie mehr Privatsphäre oder standortbasiertes Surfen wünschen, und deaktivieren Sie es, wenn dies nicht der Fall ist.
 ipprotection-site-inclusions-callout-primary-button = Regeln festlegen
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nicht jetzt
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Schließen
 ipprotection-holiday-promo-description = Surfen Sie mit dem integrierten VPN privater und erschweren Sie die Nachverfolgung.
 ipprotection-holiday-promo-primary-button = VPN öffnen
 ipprotection-holiday-promo-secondary-button = Schließen
+ipprotection-holiday-promo-title-1 = VPN bis zum 31. Januar unbegrenzt nutzen
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Aktivieren Sie VPN, um Ihren 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stellen Sie VPN so ein</a>, dass es jedes Mal aktiviert wird, wenn Sie { -brand-short-name } öffnen, um eine zusätzliche Schutzebene zu erhalten.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } wird sich merken, für welche Websites Sie die Verwendung von VPN eingestellt haben. Aktualisieren Sie diese Informationen jederzeit in den <a data-l10n-name="setting-link">Einstellungen</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ist für diese Website deaktiviert
+confirmation-hint-ipprotection-navigated-to-included-site = VPN ist für diese Website aktiviert
 ipprotection-open-button = { -brand-product-name } öffnen
 ipprotection-come-back-title = Kommen Sie zurück, um das integrierte VPN auszuprobieren
 ipprotection-message-body-hide-location = Verbergen Sie Ihren Standort, wenn Sie mit { -brand-product-name } surfen, um mehr Privatsphäre und Kontrolle zu erhalten.
