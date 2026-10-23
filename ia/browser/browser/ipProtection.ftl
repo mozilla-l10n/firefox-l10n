@@ -117,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = OK
 ipprotection-site-inclusions-callout-title-existing-users = Predefini le regulas del VPN integrate, pois naviga
 ipprotection-site-inclusions-callout-title-lapsed-users = Essaya le VPN integrate, ora sito per sito
 ipprotection-site-inclusions-callout-description-1 = Activa le VPN quando tu vole confidentialitate ulterior o navigation basate sur le position, e disactiva lo ubi tu non vole.
+ipprotection-site-inclusions-callout-description-lapsed-users = Stabili le regulas pro activar le VPN quando tu vole confidentialitate ulterior o navigation basate sur le position, e disactivar lo quando non.
 ipprotection-site-inclusions-callout-description = Activa lo quando tu vole confidentialitate ulterior o navigation basate sur le position, e disactiva ubi non.
 ipprotection-site-inclusions-callout-primary-button = Predefini regulas
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Non ora
@@ -127,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorar
 ipprotection-holiday-promo-description = Rende private e plus ardue a traciar tu navigation con le VPN integrate.
 ipprotection-holiday-promo-primary-button = Aperir VPN
 ipprotection-holiday-promo-secondary-button = Ignorar
+ipprotection-holiday-promo-title-1 = Obtene VPN illimitate usque le 31 de januario
 
 ## Panel
 
@@ -252,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Activa le VPN pro celar tu po
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Predefinir VPN pro activar se</a> cata vice tu aperi { -brand-short-name } pro un strato ulterior de protection.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } memorara que sitos web tu ha configurate pro usar le VPN. Actualisa istos in <a data-l10n-name="setting-link">parametros</a> quandocunque.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Le VPN es disactivate pro iste sito
+confirmation-hint-ipprotection-navigated-to-included-site = Le VPN es active pro iste sito
 ipprotection-open-button = Aperir { -brand-product-name }
 ipprotection-come-back-title = Come back to try built-in VPN
 ipprotection-message-body-hide-location = Cela tu position quando tu naviga in { -brand-product-name } pro plus confidentialitate e plus controlo.

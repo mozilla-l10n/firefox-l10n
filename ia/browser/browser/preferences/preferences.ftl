@@ -1833,12 +1833,34 @@ notifications-section-header =
 notifications-entry-card-header =
     .description = Selige que sitos web pote inviar avisos, e como ille avisos appare.
     .label = Avisos
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } sito web
+           *[other] { $count } sitos web
+        }
+    .label = Gerer configuration del avisos
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Gerer le configuration del avisos pro le sitos web
+notifications-website-card-header =
+    .description = Elige como le sitos web pote inviar avisos.
+    .label = Avisos del sito web
 notifications-filter =
     .placeholder = Cercar sitos web
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
     .label = Sito web
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Permitter avisos
 # Heading of the list of websites when it has no rows, because no website has a
 # stored notification decision or a search matches no website.
 notifications-list-header-empty =
@@ -1855,6 +1877,13 @@ notifications-state-allow = Permitter
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = Jammais
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Necun aviso del sito web addite.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Necun aviso de sito web concorda tu recerca.
 
 ## Privacy Section - Data Collection
 
