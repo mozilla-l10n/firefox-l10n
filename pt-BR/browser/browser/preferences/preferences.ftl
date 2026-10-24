@@ -1881,6 +1881,9 @@ notifications-state-never = Nunca
 # notification decision.
 notifications-empty-message =
     .label = Nenhum site adicionado com configuração de notificações
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Nenhum site com configuração de notificações corresponde à pesquisa.
 
 ## Privacy Section - Data Collection
 
