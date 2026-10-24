@@ -1958,6 +1958,23 @@ permissions-data-section =
     .heading = Oprávnění a data
 pane-permissions-data-title2 = Oprávnění a data
     .title = Oprávnění a data
+notifications-section-header =
+    .heading = Upozornění
+notifications-entry-card-header =
+    .description = Vyberte, které strány mohou posílat oznámení a jak se mají zobrazovat.
+    .label = Upozornění
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } stránka
+            [few] { $count } stránky
+           *[other] { $count } stránek
+        }
+    .label = Spravovat nastavení oznámení
 
 ## Privacy Section - Data Collection
 

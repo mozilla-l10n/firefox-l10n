@@ -86,6 +86,7 @@ policy-DisableLaunchOnLogin =
         [with-cases] Zabrání automatickému spuštění { -brand-short-name(case: "gen") } při přihlášení uživatele.
        *[no-cases] Zabrání automatickému spuštění aplikace { -brand-short-name } při přihlášení uživatele.
     }
+policy-DisableMacOSUserPolicies = Ignorovat zásady nastavené v uživatelských předvolbách a konfiguračních profilech na úrovni uživatele v systému macOS.
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavení hlavního hesla.
 policy-DisablePasswordReveal2 = Zakáže zobrazení hesel v uložených přihlašovacích údajích a polích pro hesla.
 policy-DisablePrivateBrowsing = Zablokování anonymního prohlížení.
