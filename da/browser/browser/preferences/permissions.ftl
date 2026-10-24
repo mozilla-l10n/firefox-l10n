@@ -108,7 +108,7 @@ permissions-exceptions-https-only-desc2 = Du kan slå tilstanden Kun-HTTPS fra f
 
 permissions-exceptions-popup-window3 =
     .style = { permissions-window2.style }
-    .title = Tillade websteder - Pop op-vinduer og tredjeparts-omdirigeringer
+    .title = Tilladte websteder - Pop op-vinduer og tredjeparts-omdirigeringer
 permissions-exceptions-popup-desc2 = Du kan angive, hvilke websteder der må åbne pop op-vinduer og blive omdirigeret af tredjeparts-frames.
 
 ## Exceptions - Saved Passwords
