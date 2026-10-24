@@ -1830,6 +1830,53 @@ pane-permissions-data-title2 = הרשאות ונתונים
     .title = הרשאות ונתונים
 notifications-section-header =
     .heading = התרעות
+notifications-entry-card-header =
+    .description = בחירה באילו אתרים יכולים לשלוח התרעות, וכיצד התרעות אלו יופיעו.
+    .label = התרעות
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] אתר אחד
+           *[other] { $count } אתרים
+        }
+    .label = ניהול הגדרות התרעות
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = ניהול הגדרות התרעות של אתרים
+notifications-website-card-header =
+    .description = בחירה באופן שבו אתרים יכולים לשלוח התרעות.
+    .label = התרעות של אתרים
+notifications-filter =
+    .placeholder = חיפוש אתרים
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = אתר
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = לאפשר התרעות
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = אתרים
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = תמיד
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = לאפשר
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = לעולם לא
 
 ## Privacy Section - Data Collection
 
