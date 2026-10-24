@@ -125,6 +125,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Kapat
 ipprotection-holiday-promo-description = Yerleşik VPN ile internette daha gizli gezinin ve takip edilmenizi zorlaştırın.
 ipprotection-holiday-promo-primary-button = VPN’i aç
 ipprotection-holiday-promo-secondary-button = Kapat
+ipprotection-holiday-promo-title-1 = 31 Ocak’a kadar sınırsız VPN’den yararlanın
 
 ## Panel
 
@@ -250,6 +251,7 @@ ipprotection-message-continuous-onboarding-intro = Konumunuzu gizlemek ve gezint
 ipprotection-message-continuous-onboarding-autostart = Ekstra koruma için { -brand-short-name } tarayıcınızı her açtığınızda <a data-l10n-name="setting-link">VPN’i açılacak şekilde ayarlayabilirsiniz</a>.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } hangi sitelerde VPN kullandığınızı hatırlayacaktır. Bunları istediğiniz zaman <a data-l10n-name="setting-link">ayarlar</a> üzerinden güncelleyebilirsiniz.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Bu sitede VPN kapalı
+confirmation-hint-ipprotection-navigated-to-included-site = Bu sitede VPN açık
 ipprotection-open-button = { -brand-product-name }’u aç
 ipprotection-come-back-title = Yerleşik VPN’i denemek için yine gelin
 ipprotection-message-body-hide-location = { -brand-product-name } ile gezinirken daha fazla gizlilik ve kontrol için konumunuzu gizleyin.

@@ -1828,6 +1828,50 @@ permissions-data-section =
     .heading = İzinler ve veriler
 pane-permissions-data-title2 = İzinler ve veriler
     .title = İzinler ve veriler
+notifications-section-header =
+    .heading = Bildirimler
+notifications-entry-card-header =
+    .description = Hangi sitelerin bildirim gönderebileceğini ve bu uyarıların nasıl görüneceğini seçin.
+    .label = Bildirimler
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } web sitesi
+           *[other] { $count } web sitesi
+        }
+    .label = Bildirim ayarlarını yönet
+notifications-website-card-header =
+    .description = Web sitelerinin nasıl bildirim gönderebileceğini seçin.
+    .label = Web sitesi bildirimleri
+notifications-filter =
+    .placeholder = Web sitelerinde ara
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Web sitesi
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Bildirimlere izin ver
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Web siteleri
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Her zaman
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = İzin ver
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Asla
 
 ## Privacy Section - Data Collection
 
