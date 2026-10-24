@@ -1832,6 +1832,28 @@ permissions-data-section =
     .heading = Дазволы і дадзеныя
 pane-permissions-data-title2 = Дазволы і дадзеныя
     .title = Дазволы і дадзеныя
+notifications-filter =
+    .placeholder = Пошук вэб-сайтаў
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Сайт
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Вэб-сайты
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Заўсёды
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Дазволіць
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Ніколі
 
 ## Privacy Section - Data Collection
 
