@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Go farther with { -
 ipprotection-feature-introduction-link-text-private-browsing-2 = Use our new <a data-l10n-name="learn-more-vpn">built-in VPN</a> to hide your location and protect your data, even when you’re in a Private Window.
 ipprotection-feature-introduction-description-private-browsing = Browse with extra protection by hiding your location, even when you’re in a Private Window.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Help hide your location as you browse. Set rules to turn on VPN when you want <a data-l10n-name="learn-more-vpn">extra privacy</a> or location-based browsing, and off when you don’t.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Help hide your location for <a data-l10n-name="learn-more-vpn">extra privacy</a> as you browse. Set rules to turn on the VPN for extra privacy or location-based browsing, and off where you don’t.
 ipprotection-feature-introduction-title-captive-portal = On public Wi-Fi? Try { -brand-product-name }’s built-in VPN.
 ipprotection-feature-introduction-description-captive-portal = Browse with extra protection by hiding your location, even on public Wi-Fi.
@@ -115,10 +117,17 @@ ipprotection-android-promo-callout-primary-button = Got it
 ipprotection-site-inclusions-callout-title-existing-users = Set built-in VPN rules, then browse on
 ipprotection-site-inclusions-callout-title-lapsed-users = Try built-in VPN, now site by site
 ipprotection-site-inclusions-callout-description-1 = Turn on VPN when you want extra privacy or location-based browsing, and off where you don’t.
+ipprotection-site-inclusions-callout-description-lapsed-users = Set rules to turn on VPN when you want extra privacy or location-based browsing, and off when you don’t.
 ipprotection-site-inclusions-callout-description = Turn it on when you want extra privacy or location-based browsing, and off where you don’t.
 ipprotection-site-inclusions-callout-primary-button = Set rules
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Not now
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Dismiss
+
+## Holiday Promotion Callout
+ipprotection-holiday-promo-description = Make your browsing private and harder to trace with built-in VPN.
+ipprotection-holiday-promo-primary-button = Open VPN
+ipprotection-holiday-promo-secondary-button = Dismiss
+ipprotection-holiday-promo-title-1 = Get unlimited VPN until January 31
 
 ## Panel
 
@@ -162,6 +171,8 @@ ipprotection-button-turn-vpn-off = Turn off VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Turn off VPN everywhere
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Turn on
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Turn on VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Turning on…
@@ -173,6 +184,8 @@ ipprotection-connection-status-excluded-1 = VPN is off for this site
     .aria-label = VPN is off for this site
 ipprotection-connection-status-connecting-1 = VPN is connecting…
     .aria-label = VPN is connecting…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Turn off
 
 ## Location controls
 
@@ -240,6 +253,7 @@ ipprotection-message-continuous-onboarding-intro = Turn on VPN to hide your loca
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Set VPN to turn on</a> every time you open { -brand-short-name } for an extra layer of protection.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } will remember which websites you’ve set to use VPN. Update these in <a data-l10n-name="setting-link">settings</a> anytime.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is off for this site
+confirmation-hint-ipprotection-navigated-to-included-site = VPN is on for this site
 ipprotection-open-button = Open { -brand-product-name }
 ipprotection-come-back-title = Come back to try built-in VPN
 ipprotection-message-body-hide-location = Hide your location when you browse in { -brand-product-name } for more privacy and control.

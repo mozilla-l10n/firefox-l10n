@@ -567,6 +567,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Horoscopes options
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Learn more
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Powered by Yahoo
 
 ## Strings for the Travel widget
 
@@ -580,6 +583,19 @@ newtab-travel-widget-open-menu-button =
     .title = Open travel menu
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Learn more
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitaire
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .title = Open solitaire menu
+    .aria-label = Open solitaire menu
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Learn more
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -891,6 +907,11 @@ newtab-custom-widget-horoscopes-toggle =
 # and car rentals.
 newtab-custom-widget-travel-toggle =
     .label = Travel
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitaire
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
