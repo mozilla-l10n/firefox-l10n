@@ -1877,6 +1877,13 @@ notifications-state-allow = לאפשר
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = לעולם לא
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = לא נוספו התרעות של אתרים.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = אין התרעות של אתרים התואמות את החיפוש שלך.
 
 ## Privacy Section - Data Collection
 
