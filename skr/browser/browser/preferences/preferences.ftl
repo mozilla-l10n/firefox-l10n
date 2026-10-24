@@ -1828,12 +1828,39 @@ permissions-data-section =
     .heading = اجازتاں تے ڈیٹا
 pane-permissions-data-title2 = اجازتاں تے ڈیٹا
     .title = اجازتاں تے ڈیٹا
+notifications-section-header =
+    .heading = اطلاع نامے
+notifications-entry-card-header =
+    .description = چݨو جو کیڑھیاں ویب سائٹاں اطلاع نامے بھیج سڳدیاں ہن، تے او الرٹ کیویں نظر آون۔
+    .label = اطلاع نامے
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } ویب سائٹ
+           *[other] { $count } ویب سائٹاں
+        }
+    .label = اطلاع نامیاں دیاں ترتیباں دا انتظام کرو
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = ویب سائٹ اطلاع نامیاں دیاں ترتیباں منظم کرو
+notifications-website-card-header =
+    .description = چݨو جو ویب سائٹاں اطلاع نامے کیویں بھیج سڳدیاں ہن۔
+    .label = ویب سائٹ اطلاع نامے
 notifications-filter =
     .placeholder = ویب سائٹ ڳولو
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
     .label = ویب سائٹ
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = اطلاع نامیاں دی اجازت ݙیو
 # Heading of the list of websites when it has no rows, because no website has a
 # stored notification decision or a search matches no website.
 notifications-list-header-empty =
@@ -1850,6 +1877,13 @@ notifications-state-allow = اجازت ݙیوو
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = کݙاہیں نہ
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = کوئی ویب سائٹ اطلاع نامے شامل نہیں کیتے۔
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = تہاݙی ڳول نال کوئی ویب سائٹ اطلاع نامے میل نہیں کھاندے۔
 
 ## Privacy Section - Data Collection
 

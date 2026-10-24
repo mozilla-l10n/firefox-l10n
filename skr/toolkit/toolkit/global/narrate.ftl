@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = اُچی اواز نال پڑھو
+narrate-rate-input =
+    .aria-label = بیان دی رفتار -100 توں 100 تئیں چݨو، جتھاں 0 طے شدہ رفتار ہے۔
+    .title = رفتار
 narrate-rate-slow =
     .title = بیان کوں مٹھا کرو
 narrate-rate-fast =

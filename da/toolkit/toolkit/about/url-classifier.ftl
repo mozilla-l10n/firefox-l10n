@@ -10,7 +10,7 @@ url-classifier-search-result-title = Resultater
 url-classifier-search-result-uri = URI: { $uri }
 # Variables:
 #   $list (string) - List of tables where the page is blocked
-url-classifier-search-result-list = Liste 0ver tabeller: { $list }
+url-classifier-search-result-list = Liste over tabeller: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = Ugyldig URL
 url-classifier-search-error-no-features = Ingen funktioner valgt

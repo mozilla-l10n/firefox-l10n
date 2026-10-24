@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = { -brand-short-name } کوں جاری مطالع�
 policy-DisableForgetButton = بھل ونڄݨ والے بٹن تک رسائی کوں روکو۔
 policy-DisableFormHistory = ڳول تے فارم دی تاریخ کوں یاد نہ رکھو۔
 policy-DisableLaunchOnLogin = جڈاں ورتݨ آلا لاگ اِن کرے تاں { -brand-short-name } کوں خودکار طور تے لانچ تھیوݨ توں روکو۔
+policy-DisableMacOSUserPolicies = صارف دیاں ترجیحاں تے macOS تے یوزر سکوپ کنفیگریشن پروفائلز توں پالیسیاں کوں نظر انداز کرو۔
 policy-DisablePrimaryPasswordCreation = جے درست ہے تاں، منڈھلا پاس ورڈ نہیں بݨایا ونڄ سڳدا۔
 policy-DisablePasswordReveal2 = محفوظ لاگ اِنز یا پاس ورڈ فیلڈز وچ پاس ورڈ ظاہر کرݨ دی اجازت نہ ڈیو۔
 policy-DisablePrivateBrowsing = نجی براؤزنگ غیر فعال کرو
