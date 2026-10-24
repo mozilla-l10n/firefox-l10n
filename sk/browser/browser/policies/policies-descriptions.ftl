@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = Zabráni prehliadaču { -brand-short-name } spú�
 policy-DisableForgetButton = Zablokuje prístup ku tlačidlu Zabudnúť.
 policy-DisableFormHistory = Vypne ukladanie histórie vyhľadávania a formulárov.
 policy-DisableLaunchOnLogin = Zabráni automatickému spusteniu { -brand-short-name(case: "gen") } po prihlásení používateľa.
+policy-DisableMacOSUserPolicies = Ignoruje politiky z možností používateľa a konfiguračných profilov na úrovni používateľa v systéme macOS.
 policy-DisablePrimaryPasswordCreation = Hodnota true znemožní nastavenie hlavného hesla.
 policy-DisablePasswordReveal2 = Zakáže zobrazovanie hesiel v uložených prihlasovacích údajoch a poliach pre heslá.
 policy-DisablePrivateBrowsing = Zablokuje súkromné prehliadanie.

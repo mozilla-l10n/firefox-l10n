@@ -1828,6 +1828,8 @@ permissions-data-section =
     .heading = הרשאות ונתונים
 pane-permissions-data-title2 = הרשאות ונתונים
     .title = הרשאות ונתונים
+notifications-section-header =
+    .heading = התרעות
 
 ## Privacy Section - Data Collection
 

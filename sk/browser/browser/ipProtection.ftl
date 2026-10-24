@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Zájdite ďalej s V
 ipprotection-feature-introduction-link-text-private-browsing-2 = Použite našu novú <a data-l10n-name="learn-more-vpn">vstavanú sieť VPN</a> na skrytie svojej polohy a ochranu údajov, a to aj v súkromnom okne.
 ipprotection-feature-introduction-description-private-browsing = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj v súkromnom okne.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Pomôžte skryť svoju polohu pri prehliadaní. Nastavte pravidlá, podľa ktorých sa VPN zapne, keď chcete <a data-l10n-name="learn-more-vpn">viac súkromia</a> alebo prehliadať podľa polohy, a vypne, keď ju nepotrebujete.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Pomôžte skryť svoju polohu a získajte pri prehliadaní <a data-l10n-name="learn-more-vpn">viac súkromia</a>. Nastavte pravidlá, kde sa má VPN zapnúť na zvýšenie súkromia alebo prehliadanie podľa polohy a kde má zostať vypnutá.
 ipprotection-feature-introduction-title-captive-portal = Používate verejnú Wi‑Fi sieť? Vyskúšajte vstavanú VPN od { -brand-product-name(case: "gen") }.
 ipprotection-feature-introduction-description-captive-portal = Prehliadajte web s dodatočnou ochranou skrytím svojej polohy, a to aj na verejných Wi‑Fi sieťach.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Rozumiem
 ipprotection-site-inclusions-callout-title-existing-users = Nastavte pravidlá pre vstavanú VPN a pokračujte v prehliadaní
 ipprotection-site-inclusions-callout-title-lapsed-users = Vyskúšajte vstavanú VPN, teraz s individuálnym nastavením pre každú stránku
 ipprotection-site-inclusions-callout-description-1 = Zapnite VPN na stránkach, kde chcete viac súkromia alebo prehliadanie na základe polohy, a na ostatných ju nechajte vypnutú.
+ipprotection-site-inclusions-callout-description-lapsed-users = Nastavte si pravidlá, podľa ktorých sa VPN zapne, keď chcete viac súkromia alebo prehliadať z určitej lokality, a vypne, keď ju nepotrebujete.
 ipprotection-site-inclusions-callout-description = Zapnite ju na weboch, kde chcete viac súkromia alebo prehliadanie podľa polohy, a na ostatných ju nechajte vypnutú.
 ipprotection-site-inclusions-callout-primary-button = Nastaviť pravidlá
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Teraz nie
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zavrieť
 ipprotection-holiday-promo-description = Prehliadajte súkromnejšie a sťažte svoje sledovanie pomocou vstavanej siete VPN.
 ipprotection-holiday-promo-primary-button = Otvoriť VPN
 ipprotection-holiday-promo-secondary-button = Zavrieť
+ipprotection-holiday-promo-title-1 = Užívajte si neobmedzenú VPN až do 31. januára
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Zapnite VPN, aby ste skryli s
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Nastavte VPN tak, aby sa zapínala</a> pri každom otvorení { -brand-short-name(case: "gen") }, čím získate ďalšiu vrstvu ochrany.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } si zapamätá, ktoré webové stránky ste nastavili na používanie VPN. Tieto nastavenia môžete kedykoľvek zmeniť v <a data-l10n-name="setting-link">nastaveniach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je pre túto stránku vypnutá
+confirmation-hint-ipprotection-navigated-to-included-site = VPN je pre túto stránku zapnutá
 ipprotection-open-button = Otvoriť { -brand-product-name(case: "acc") }
 ipprotection-come-back-title = Vráťte sa a vyskúšajte vstavanú VPN
 ipprotection-message-body-hide-location = Skryte svoju polohu pri prehliadaní vo { -brand-product-name(case: "loc") } a získate väčšiu ochranu súkromia a kontrolu.

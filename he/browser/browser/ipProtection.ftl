@@ -37,6 +37,8 @@ ipprotection-feature-introduction-title-summer-promo = מתכננים לטייל
 ipprotection-feature-introduction-link-text-private-browsing-2 = ניתן להשתמש ב־<a data-l10n-name="learn-more-vpn">VPN המובנה</a> החדש שלנו כדי להסתיר את המיקום שלך ולהגן על הנתונים שלך, אפילו כשנמצאים בחלון פרטי.
 ipprotection-feature-introduction-description-private-browsing = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשנמצאים בחלון פרטי.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = סיוע בהסתרת המיקום שלך בזמן הגלישה. הגדרת כללים להפעלת VPN כשרוצים <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> או גלישה מבוססת מיקום, וכיבוי ה־VPN כשאין בו צורך.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = ניתן להסתיר את המיקום שלך לקבלת <a data-l10n-name="learn-more-vpn">פרטיות מוגברת</a> תוך כדי הגלישה. אפשר להגדיר כללים להפעלת ה־VPN לקבלת פרטיות מוגברת או לגלישה מבוססת מיקום, ולהשאיר אותו כבוי במקומות שבהם אין בו צורך.
 ipprotection-feature-introduction-title-captive-portal = התחברת ל־Wi-Fi ציבורי? ניתן לנסות את ה־VPN המובנה של { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = גלישה עם הגנה נוספת על־ידי הסתרת המיקום שלך, גם כשמחוברים ל־Wi-Fi ציבורי.
@@ -114,6 +116,7 @@ ipprotection-android-promo-callout-primary-button = הבנתי
 ipprotection-site-inclusions-callout-title-existing-users = הגדרת כללים ל־VPN המובנה, וגלישה בראש שקט
 ipprotection-site-inclusions-callout-title-lapsed-users = כדאי לנסות את ה־VPN המובנה, עכשיו לפי אתר
 ipprotection-site-inclusions-callout-description-1 = ניתן להפעיל את ה־VPN כשנדרשת פרטיות מוגברת או גלישה מבוססת מיקום, ולהשבית אותו במקומות שבהם אין בו צורך.
+ipprotection-site-inclusions-callout-description-lapsed-users = ניתן להגדיר כללים כדי להפעיל את ה־VPN כשנדרשת פרטיות מוגברת או גלישה מבוססת מיקום, ולהשבית אותו במקומות שבהם אין בו צורך.
 ipprotection-site-inclusions-callout-description = ניתן להפעיל אותו כשנדרשת פרטיות מוגברת או גלישה מבוססת מיקום, ולהשבית אותו במקומות שבהם אין בו צורך.
 ipprotection-site-inclusions-callout-primary-button = הגדרת כללים
 ipprotection-site-inclusions-callout-secondary-button-existing-users = לא כעת
@@ -124,6 +127,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = סגירה
 ipprotection-holiday-promo-description = להפוך את הגלישה שלך לפרטית וקשה יותר למעקב בעזרת VPN מובנה.
 ipprotection-holiday-promo-primary-button = פתיחת VPN
 ipprotection-holiday-promo-secondary-button = סגירה
+ipprotection-holiday-promo-title-1 = קבלת VPN ללא הגבלה עד ה־31 בינואר
 
 ## Panel
 
@@ -249,6 +253,7 @@ ipprotection-message-continuous-onboarding-intro = ניתן להפעיל VPN כ�
 ipprotection-message-continuous-onboarding-autostart = ניתן <a data-l10n-name="setting-link">להגדיר שה־VPN יופעל</a> בכל פעם ש־{ -brand-short-name } נפתח, לקבלת שכבת הגנה נוספת.
 ipprotection-message-continuous-onboarding-site-settings = ‏{ -brand-short-name } יזכור באילו אתרים הגדרת להשתמש ב־VPN. ניתן לעדכן אותם ב<a data-l10n-name="setting-link">הגדרות</a> בכל עת.
 confirmation-hint-ipprotection-navigated-to-excluded-site = ה־VPN כבוי עבור אתר זה
+confirmation-hint-ipprotection-navigated-to-included-site = ה־VPN פעיל עבור אתר זה
 ipprotection-open-button = פתיחת { -brand-product-name }
 ipprotection-come-back-title = חזרה לנסות את ה־VPN המובנה
 ipprotection-message-body-hide-location = ניתן להסתיר את המיקום שלך בזמן גלישה ב־{ -brand-product-name } לקבלת פרטיות ושליטה רבה יותר.

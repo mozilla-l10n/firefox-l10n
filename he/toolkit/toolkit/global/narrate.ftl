@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = קריאה בקול
+narrate-rate-input =
+    .aria-label = בחירת מהירות קריינות בין ‎-100 ל-100, כאשר 0 היא מהירות ברירת המחדל.
+    .title = מהירות
 narrate-rate-slow =
     .title = האטת הקריינות
 narrate-rate-fast =

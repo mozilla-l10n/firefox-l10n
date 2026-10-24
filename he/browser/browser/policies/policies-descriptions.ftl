@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = למנוע מ־{ -brand-short-name } להריץ �
 policy-DisableForgetButton = מניעת גישה לכפתור 'לשכוח'.
 policy-DisableFormHistory = לא לזכור היסטוריית חיפוש וטפסים.
 policy-DisableLaunchOnLogin = למנוע מ־{ -brand-short-name } להיפתח באופן אוטומטי כאשר המשתמש מתחבר.
+policy-DisableMacOSUserPolicies = להתעלם ממדיניות שהוגדרה בהעדפות המשתמש ובפרופילי תצורה ברמת המשתמש ב־macOS.
 policy-DisablePrimaryPasswordCreation = אם true, לא ניתן ליצור ססמה ראשית.
 policy-DisablePasswordReveal2 = לא לאפשר לחשוף ססמאות בכניסות השמורות או בשדות של ססמאות.
 policy-DisablePrivateBrowsing = השבתת גלישה פרטית.
