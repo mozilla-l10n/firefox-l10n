@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Čtení nahlas
+narrate-rate-input =
+    .aria-label = Zvolte rychlost vyprávění v rozmezí -100 až 100, kde 0 je výchozí rychlost.
+    .title = Rychlost
 narrate-rate-slow =
     .title = Zpomalení vyprávění
 narrate-rate-fast =
