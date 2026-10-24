@@ -5,11 +5,6 @@
 mini-window-close-button =
     .label = Fermer
     .tooltiptext = Fermer
-# Moves the tab in the mini window back to the original window
-# it came from.
-mini-window-restore-button =
-    .label = Remettre l’onglet en place
-    .tooltiptext = Remettre l’onglet en place
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
