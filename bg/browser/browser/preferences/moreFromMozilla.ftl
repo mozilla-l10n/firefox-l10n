@@ -42,3 +42,9 @@ more-from-moz-mozilla-monitor-button = Вземете { -monitor-brand-short-nam
 
 more-from-moz-solo-description = Създайте бързо ваш уеб сайт и свържете безплатно към собствен домейн.
 more-from-moz-solo-button = Опитайте { -solo-ai-brand-name }
+
+## These strings are for the config-based (SRD) moreFromMozilla page using
+## moz-promo, moz-fieldset (.label/.description), and moz-box-link (.label).
+
+more-from-moz-firefox-mobile-qr-promo =
+    .message = Сканирайте с камерата на телефона или таблета си, за да изтеглите приложението. Докоснете връзката, когато се покаже.
