@@ -1877,6 +1877,10 @@ notifications-state-allow = Permitir
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = Nunca
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Nenhum site adicionado com configuração de notificações
 
 ## Privacy Section - Data Collection
 
