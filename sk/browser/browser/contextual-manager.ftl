@@ -336,7 +336,7 @@ contextual-manager-passwords-no-passwords-header-2 = Uložte si heslá na bezpe�
 ## or not the user wants to discard their current edits to the login.
 
 contextual-manager-passwords-discard-changes-heading-and-message =
-    .heading = Zatvoriť bez uloženia?
+    .heading = Zavrieť bez uloženia?
     .message = Vykonané zmeny sa neuložia.
 contextual-manager-passwords-discard-changes-close-button = Zavrieť
 contextual-manager-passwords-discard-changes-go-back-button = Prejsť naspäť

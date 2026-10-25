@@ -77,7 +77,7 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Skúsiť znova
-smartwindow-nl-retry-message = Ak chcete stále zatvoriť karty, vyberte možnosť <strong>Skúsiť znova</strong> a vyberte si požadovanú možnosť na karte, ktorá sa otvorí.
+smartwindow-nl-retry-message = Ak chcete stále zavrieť karty, vyberte možnosť <strong>Skúsiť znova</strong> a vyberte si požadovanú možnosť na karte, ktorá sa otvorí.
 smartwindow-nl-retry-group-tabs-message = Ak chcete karty stále zoskupovať, vyberte možnosť <strong>Skúsiť znova</strong> a na otvorenej karte vyberte tie, ktoré chcete zoskupiť.
 smartwindow-nl-thinking = Hľadajú zodpovedajúce karty…
 smartwindow-loading-assistant-response =

@@ -227,7 +227,7 @@ firefoxview-import-history-description = Urobte si z { -brand-short-name(case: "
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Zavreli ste kartu príliš skoro?
-firefoxview-recentlyclosed-empty-description = Tu nájdete karty, ktoré ste nedávno zatvorili, takže ktorúkoľvek z nich môžete rýchlo znova otvoriť.
+firefoxview-recentlyclosed-empty-description = Tu nájdete karty, ktoré ste nedávno zavreli, takže ktorúkoľvek z nich môžete rýchlo znova otvoriť.
 firefoxview-recentlyclosed-empty-description-two = Ak chcete nájsť karty z minulosti, nájdete ich v <a data-l10n-name="history-url">histórii prehliadania</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.

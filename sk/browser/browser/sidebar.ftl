@@ -236,7 +236,7 @@ sidebar-menu-close-bookmarks-tooltip = Zavrieť záložky ({ $shortcut })
 
 sidebar-menu-open-ai-chatbot-tooltip-generic = Otvoriť chatbota s umelou inteligenciou ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Otvoriť { $provider } ({ $shortcut })
-sidebar-menu-close-ai-chatbot-tooltip-generic = Zatvoriť chatbota s umelou inteligenciou ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Zavrieť chatbota s umelou inteligenciou ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Zavrieť { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.

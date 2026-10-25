@@ -137,7 +137,7 @@ tabbrowser-ask-close-tabs-with-key-checkbox = Opýtať sa pred ukončením pomoc
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## and browser.warnOnQuitShortcut is true.
 
-tabbrowser-confirm-close-warn-shortcut-title = Ukončiť { -brand-short-name(case: "acc") } alebo zatvoriť aktuálnu kartu?
+tabbrowser-confirm-close-warn-shortcut-title = Ukončiť { -brand-short-name(case: "acc") } alebo zavrieť aktuálnu kartu?
 tabbrowser-confirm-close-windows-warn-shortcut-button =
     { PLATFORM() ->
         [windows] Ukončiť { -brand-short-name(case: "acc") }
@@ -352,7 +352,7 @@ tab-group-editor-action-copy-links =
            *[other] Kopírovať { $linkCount } odkazov v skupine
         }
 tab-group-editor-action-save =
-    .label = Uložiť a zatvoriť skupinu
+    .label = Uložiť a zavrieť skupinu
 tab-group-editor-action-ungroup =
     .label = Zrušiť zoskupenie kariet
 tab-group-editor-action-delete =

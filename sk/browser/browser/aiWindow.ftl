@@ -297,8 +297,8 @@ smart-window-confirm-deselect-all =
     .aria-label = Zrušiť výber
     .label = Zrušiť výber
 smart-window-close-confirm =
-    .aria-label = Zrušiť žiadosť a zatvoriť
-    .tooltiptext = Zrušiť žiadosť a zatvoriť
+    .aria-label = Zrušiť žiadosť a zavrieť
+    .tooltiptext = Zrušiť žiadosť a zavrieť
 smart-window-confirm-close-tab = Zavrieť
 # Variables
 #   $count (number) - Number of tabs to close
