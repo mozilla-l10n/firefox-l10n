@@ -53,6 +53,7 @@ policy-DisableFirefoxScreenshots = Izslēgt Firefox ekrānuzņēmumu iespēju.
 policy-DisableFirefoxStudies = Liedz { -brand-short-name } veikt pētījumus.
 policy-DisableForgetButton = Liedz pieeju Aizmirst pogai.
 policy-DisableFormHistory = Neatcerēties meklēšanas un veidlapu vēsturi.
+policy-DisableMacOSUserPolicies = Neņemt vērā pamatnostādnes no lietotāja izvēlēm un no macOS lietotāja tvēruma konfigurācijas profiliem.
 policy-DisablePrimaryPasswordCreation = Ja iestatīts, nevar izveidot galveno paroli.
 policy-DisablePasswordReveal2 = Neļaut atklāt paroles saglabātajos pieteikšanās vienumos vai paroļu laukos.
 policy-DisablePrivateBrowsing = Izslēgt privāto pārūkošanu.

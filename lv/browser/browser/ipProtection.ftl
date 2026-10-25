@@ -58,6 +58,7 @@ ipprotection-android-promo-callout-primary-button = Sapratu
 ## Feature discovery callout message advertising a feature where the user can turn on the VPN for specific sites only
 
 ipprotection-site-inclusions-callout-description-1 = VPN var ieslēgt, kad ir vēlēšanās pēc papildu privātumu vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
+ipprotection-site-inclusions-callout-description-lapsed-users = Var iestatīt kārtulas, lai ieslēgtu VPN, kad ir vēlēšanās pēc papildu privātuma vai pārlūkot saturu, kas paredzēts noteiktai atrašanās vietai, un izslēgt, kad tas nav nepieciešams.
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ne tagad
 ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Noraidīt
 
@@ -66,6 +67,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Noraidīt
 ipprotection-holiday-promo-description = Padari pārlūkošanu privātu un grūtāk izsekojamu ar iebūvēto VPN!
 ipprotection-holiday-promo-primary-button = Atvērt VPN
 ipprotection-holiday-promo-secondary-button = Noraidīt
+ipprotection-holiday-promo-title-1 = Iegūsti neierobežotu VPN līdz 31. janvārim
 
 ## Panel
 
@@ -119,6 +121,7 @@ ipprotection-connection-status-generic-error-try-again = Lūgums vēlāk mēģin
 ipprotection-connection-status-network-error-title-1 = Pārbaudi savienojumu ar internetu
     .aria-label = Pārbaudi savienojumu ar internetu
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN šai vietnei ir izslēgts
+confirmation-hint-ipprotection-navigated-to-included-site = Šajā vietnē ir ieslēgts VPN
 
 ## IP Protection Settings
 
