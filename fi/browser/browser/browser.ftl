@@ -251,6 +251,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Liitä ja avaa
     .accesskey = L
+urlbar-menuitem-paste-and-search =
+    .label = Liitä ja hae
+    .accesskey = L
 
 ## Searchbar context menu
 

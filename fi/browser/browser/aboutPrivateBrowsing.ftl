@@ -71,8 +71,15 @@ about-private-browsing-felt-privacy-v1-info-link = Kuka voi nähdä toimintani?
 
 about-private-browsing-nova-info-body = Kaikkien yksityisten ikkunoiden sulkeminen poistaa evästeet, historian ja sivustotiedot.
 about-private-browsing-nova-info-link = Kuka voi vielä mahdollisesti nähdä toimintani?
+about-private-browsing-private-window-basics-link = Yksityisten ikkunoiden perusteet
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Tietojasi ei talleteta
 about-private-browsing-nova-info-subheader2 = Poistamme kaikki haut ja sisäänkirjautumiset, kun suljet kaikki yksityiset ikkunat. { -brand-short-name }in sisäänrakennetut suojaukset, kuten seurainten esto, ovat myös käytössä.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Yksityisten ikkunoiden perusteet
+about-private-browsing-spotlight-basics-vpn = Käytä sisäänrakennettua VPN:ää vaikeuttaaksesi sijaintisi jäljittämistä.
+about-private-browsing-spotlight-basics-learn-more = Lue lisää

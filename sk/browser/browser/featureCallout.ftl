@@ -232,11 +232,11 @@ pin-tabs-callout-4-title = Pripnite si stránky, ktoré navštevujete najčastej
 ## Sidebar Onboarding Strings
 
 sidebar-customization-callout-1-title = Bočný panel: miesto pre vaše nástroje a karty
-sidebar-customization-callout-1-subtitle = Bočný panel { -brand-product-name(case: "gen") } vám poskytuje rýchly prístup k vašej histórii prehliadania, kartám z iných zariadení a AI chatbota – to všetko bez opustenia hlavného okna.
+sidebar-customization-callout-1-subtitle = Bočný panel { -brand-product-name(case: "gen") } vám poskytuje rýchly prístup k vašej histórii prehliadania, kartám z iných zariadení a chatbotovi s umelou inteligenciou – to všetko bez opustenia hlavného okna.
 sidebar-customization-callout-callout-button = Prispôsobiť bočný panel
 sidebar-customization-callout-dismiss-button = Skryť bočný panel
 sidebar-customization-callout-2-title = Prispôsobte si bočný panel { -brand-product-name(case: "gen") }
-sidebar-customization-callout-2-subtitle = Pridajte alebo odstráňte nástroje. Umiestnite karty na bočný panel. Vyskúšajte AI chatbota. Je len na vás, ako si prispôsobíte bočný panel.
+sidebar-customization-callout-2-subtitle = Pridajte si alebo odstráňte nástroje. Umiestnite si sem otvorené karty. Alebo vyskúšajte chatbota s umelou inteligenciou. Je len na vás, ako si prispôsobíte svoj bočný panel.
 
 ## Sidebar Callout Survey Strings
 
@@ -263,10 +263,10 @@ sidebar-callout-survey-saved-websites-2 = Rýchly prístup k vašim záložkám
 sidebar-callout-survey-none-of-above = Nič z vyššie uvedeného
 sidebar-callout-survey-submit = Odoslať
 sidebar-callout-survey-thank-you = Ďakujeme za vašu spätnú väzbu.
-sidebar-genai-survey-satisfaction-question = Ako ste spokojní s prístupom k AI chatbotu na bočnom paneli?
+sidebar-genai-survey-satisfaction-question = Ako ste spokojní s prístupom k chatbotovi s umelou inteligenciou v bočnom paneli?
 sidebar-genai-survey-productive-question =
     Do akej miery súhlasíte alebo nesúhlasíte s týmto tvrdením:<br/>
-    “AI chatbot na bočnom paneli mi pomáha byť produktívnejší”?
+    “Chatbot s umelou inteligenciou v bočnom paneli mi pomáha byť produktívnejší”?
 splitview-onboarding-callout-title-1 = Rozdelené zobrazenie: lepší spôsob multitaskingu
 splitview-onboarding-callout-subtitle-1 = Kliknite pravým tlačidlom myši na túto kartu a vyberte možnosť “Pridať rozdelené zobrazenie”, čím zobrazíte dve karty naraz.
 splitview-onboarding-callout-cta-1 = Vyskúšajte si to teraz

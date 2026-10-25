@@ -57,7 +57,7 @@ genai-menu-open-generic =
 genai-menu-open-provider =
     .label = Otvoriť { $provider }
 genai-menu-remove-generic =
-    .label = Odstrániť AI chatbota
+    .label = Odstrániť chatbota s umelou inteligenciou
 # $provider (string) - name of the provider
 genai-menu-remove-provider =
     .label = Odstrániť { $provider }
@@ -85,20 +85,20 @@ genai-menu-summarize-page = Vytvor súhrn stránky
 genai-input-ask-smart-window =
     .placeholder = Opýtať sa…
 genai-input-ask-generic =
-    .placeholder = Opýtať sa AI chatbota…
+    .placeholder = Opýtať sa chatbota s umelou inteligenciou…
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Opýtať sa { $provider }…
 # $selectionLength (number) - selected text length
 # $maxLength (number) - max length of what can be selected
 genai-shortcuts-selected-warning-generic =
-    .heading = AI chatbot nedostane celý označený text
+    .heading = Chatbot s umelou inteligenciou nedostane celý označený text
     .message =
         { $selectionLength ->
-            [one] Označili ste približne { $selectionLength } znak. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
-            [few] Označili ste približne { $selectionLength } znaky. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
-            [many] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
-           *[other] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať AI chatbotovi, je približne { $maxLength }.
+            [one] Označili ste približne { $selectionLength } znak. Počet znakov, ktoré môžeme poslať chatbotovi s umelou inteligenciou, je približne { $maxLength }.
+            [few] Označili ste približne { $selectionLength } znaky. Počet znakov, ktoré môžeme poslať chatbotovi s umelou inteligenciou, je približne { $maxLength }.
+            [many] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať chatbotovi s umelou inteligenciou, je približne { $maxLength }.
+           *[other] Označili ste približne { $selectionLength } znakov. Počet znakov, ktoré môžeme poslať chatbotovi s umelou inteligenciou, je približne { $maxLength }.
         }
 # $provider (string) - name of the provider
 # $selectionLength (number) - selected text length
@@ -115,16 +115,16 @@ genai-shortcuts-selected-warning =
 genai-shortcuts-hide =
     .label = Skryť skratku chatbota
 genai-menu-choose-chatbot =
-    .label = Vybrať AI chatbota
+    .label = Vybrať chatbota s umelou inteligenciou
 genai-menu-ask-generic-2 =
-    .label = Opýtať sa AI chatbota
+    .label = Opýtať sa chatbota s umelou inteligenciou
     .accesskey = c
 # $provider (string) - name of the provider
 genai-menu-ask-provider-2 =
     .label = Opýtať sa { $provider }
     .accesskey = O
 genai-menu-no-provider-2 =
-    .label = Opýtať sa AI chatbota
+    .label = Opýtať sa chatbota s umelou inteligenciou
     .accesskey = c
 genai-menu-ask-smart-window =
     .label = Opýtajte sa…
@@ -132,7 +132,7 @@ genai-menu-ask-smart-window =
 
 ## Chatbot header
 
-genai-chatbot-title = AI chatbot
+genai-chatbot-title = Chatbot s umelou inteligenciou
 genai-header-provider-menu =
     .title = Vyberte si chatbota
 genai-header-settings-button =
@@ -142,7 +142,7 @@ genai-header-close-button =
 genai-provider-view-details =
     .label = Zobraziť podrobnosti o chatbotovi
 genai-options-reload-generic =
-    .label = Znova načítať AI chatbota
+    .label = Obnoviť chatbota s umelou inteligenciou
 # $provider (string) - name of the provider
 genai-options-reload-provider =
     .label = Znovu načítať { $provider }
@@ -151,7 +151,7 @@ genai-options-show-shortcut =
 genai-options-hide-shortcut =
     .label = Skryť skratku pri výbere textu
 genai-options-about-chatbot =
-    .label = O AI chatbotoch vo { -brand-short-name(case: "loc") }
+    .label = O chatbotoch s umelou inteligenciou vo { -brand-short-name(case: "loc") }
 
 ## Chatbot message
 
@@ -164,7 +164,7 @@ genai-page-button-summarize = Vytvor súhrn stránky
 
 ## Chatbot onboarding
 
-genai-onboarding-choose-header = V bočnom paneli { -brand-short-name(case: "gen") } vyberte AI chatbota, ktorého chcete použiť
+genai-onboarding-choose-header = V bočnom paneli { -brand-short-name(case: "gen") } si vyberte chatbota s umelou inteligenciou, ktorého chcete použiť
 # "Switch anytime" refers to allowing the user to switch to a different chatbot.
 genai-onboarding-choose-description = Prepnúť môžete kedykoľvek. Ak potrebujete pomoc pri výbere, <a data-l10n-name="learn-more">prečítajte si viac informácií o jednotlivých chatbotoch</a>.
 genai-onboarding-primary = Pokračovať

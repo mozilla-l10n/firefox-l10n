@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 menu-view-genai-chat =
-    .label = AI Chatbot
+    .label = Chatbot s umelou inteligenciou
 menu-view-contextual-password-manager =
     .label = Heslá
 menu-view-resource-monitor =
@@ -189,7 +189,7 @@ sidebar-opentabs-preview-unmute-tab =
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
-    .label = AI chatbot
+    .label = Chatbot s umelou inteligenciou
 sidebar-menu-history-label =
     .label = História
 sidebar-menu-synced-tabs-label =
@@ -234,9 +234,9 @@ sidebar-menu-close-bookmarks-tooltip = Zavrieť záložky ({ $shortcut })
 ##   $shortcut (String) - The OS specific keyboard shortcut.
 ##   $provider (String) - The name of the AI chatbot provider (if available).
 
-sidebar-menu-open-ai-chatbot-tooltip-generic = Otvoriť AI chatbota ({ $shortcut })
+sidebar-menu-open-ai-chatbot-tooltip-generic = Otvoriť chatbota s umelou inteligenciou ({ $shortcut })
 sidebar-menu-open-ai-chatbot-provider-tooltip = Otvoriť { $provider } ({ $shortcut })
-sidebar-menu-close-ai-chatbot-tooltip-generic = Zavrieť AI chatbota ({ $shortcut })
+sidebar-menu-close-ai-chatbot-tooltip-generic = Zatvoriť chatbota s umelou inteligenciou ({ $shortcut })
 sidebar-menu-close-ai-chatbot-provider-tooltip = Zavrieť { $provider } ({ $shortcut })
 
 ## Headings for sidebar menu panels.
