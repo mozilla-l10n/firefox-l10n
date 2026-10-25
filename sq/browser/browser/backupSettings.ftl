@@ -72,6 +72,8 @@ turn-on-scheduled-backups-location-label = Vendndodhje
 #   $recommendedFolder (String) - Name of the recommended folder for saving backups
 turn-on-scheduled-backups-location-default-folder =
     .value = { $recommendedFolder } (e rekomanduar)
+turn-on-scheduled-backups-location-choose-folder =
+    .value = Zgjidhni një vendndodhje
 turn-on-scheduled-backups-location-choose-button =
     { PLATFORM() ->
         [macos] Zgjidhni…

@@ -26,6 +26,15 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Administroni rregullime për flluska dhe ridrejtime nga palë të treta…
     .accesskey = A
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } Lidhje
+           *[other] { $count } Lidhje
+        }
 urlbar-identity-button =
     .aria-label = Shihni hollësi sajti
 
@@ -318,6 +327,7 @@ quickactions-cmd-print = shtype
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Ruaje faqen si PDF
 quickactions-cmd-savepdf2 = pdf, ruaje faqen
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Hap dritare private
 quickactions-cmd-private = shfletim privat
@@ -489,6 +499,10 @@ sharing-warning-proceed-to-tab =
     .label = Kalo te Skeda
 sharing-warning-disable-for-session =
     .label = Çaktivizo mbrojtje ndarjeje për këtë sesion
+
+## WebSerial "select a port" popup
+
+webserial-select-port-label = Përzgjidhni një portë seriale:
 
 ## URL Bar
 
