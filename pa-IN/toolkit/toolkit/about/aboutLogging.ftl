@@ -67,6 +67,7 @@ about-logging-error = ਗਲਤੀ:
 
 ##
 
+about-logging-invalid-output = “{ $k }“ ਕੁੰਜੀ ਲਈ ਗੈਰ-ਵਾਜਬ “{ $v }“ ਮੁੱਲ
 about-logging-configuration-url-ignored = URL ਸੰਰਚਨਾ ਨੂੰ ਅਣਡਿੱਠ ਕੀਤਾ
 # Variables:
 #   $errorText (string) - The received error message, inserted as is.
