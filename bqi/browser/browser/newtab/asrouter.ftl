@@ -102,6 +102,8 @@ cfr-doorhanger-video-support-primary-button = سکو ورۊ رسۊوی بۊ
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
+spotlight-public-wifi-vpn-primary-button = وا { -mozilla-vpn-brand-name } ناشناس بمهنین
+    .accesskey = و
 spotlight-public-wifi-vpn-link = سکو ن
     .accesskey = N
 
@@ -257,6 +259,8 @@ windows-10-eos-feature-toast-dismiss-button = رڌ کردن
 
 ## Windows 10 EoS Global Infobar
 
+windows-10-eos-global-infobar-primary-button = رۊشن کردن لادراری گرؽڌن
+    .accesskey = ر
 windows-10-eos-global-infobar-learn-more-link = قلوه دووسته بۊین
     .accessKey = L
 
