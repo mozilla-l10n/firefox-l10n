@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+styleeditor-filter-input =
+    .placeholder = ਸਟਾਈਲ ਸ਼ੀਟਾਂ ਨੂੰ ਫਿਲਟਰ ਕਰੋ
 styleeditor-save-button = ਸੰਭਾਲੋ
     .tooltiptext = ਇਸ ਅੰਦਾਜ ਸ਼ੀਟ ਨੂੰ ਕਿਸੇ ਫਾਈਲ ਵਿੱਚ ਸੰਭਾਲੋ
     .accesskey = S
@@ -18,6 +20,9 @@ styleeditor-find =
 styleeditor-find-again =
     .label = ਮੁੜ ਕੇ ਲੱਭੋ
     .accesskey = g
+styleeditor-go-to-line =
+    .label = …ਲਾਈਨ ਉੱਤੇੇ ਜਾਓ
+    .accesskey = J
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

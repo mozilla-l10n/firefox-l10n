@@ -14,11 +14,25 @@ narrate-skip-previous =
     .title = Atpakaļ ({ $shortcut })
 narrate-start =
     .title = Sākt ({ $shortcut })
+narrate-stop =
+    .title = Apturēt ({ $shortcut })
+narrate-skip-next =
+    .title = Uz priekšu ({ $shortcut })
 
 ##
 
+# Header for the read aloud menu.
+narrate-header = Lasīt skaļi
+narrate-rate-input =
+    .aria-label = Izvēlies stāstījuma ātrumu no -100 līdz 100, kur 0 ir noklusējuma ātrums!
+    .title = Ātrums
+narrate-rate-slow =
+    .title = Palēnināt stāstījumu
+narrate-rate-fast =
+    .title = Paātrināt stāstījumu
+narrate-voice-header = Balss
 # Default voice is determined by the language of the document.
-narrate-voice-default = Noklusētais
+narrate-voice-default = Noklusējums
 # Label for a voice in the voice selector, e.g. "David (English)".
 # Variables:
 #   $name (String) - The name of the voice. On Linux, where voice names are often unlocalized language names, this is the localized language name instead.
