@@ -199,6 +199,12 @@ ip-protection-autostart-private-checkbox =
 
 ip-protection-exceptions-dialog-window =
     .title = دؽوۉداری سامووا وبگه
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = سامووݩ
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = زفت
+    .buttonaccesskeyaccept = S
 ip-protection-delete-site-rule-cancel =
     .label = لقو
 ip-protection-delete-site-rule-confirm =
