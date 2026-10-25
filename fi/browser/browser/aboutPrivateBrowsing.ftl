@@ -81,5 +81,6 @@ about-private-browsing-nova-info-subheader2 = Poistamme kaikki haut ja sisäänk
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Yksityisten ikkunoiden perusteet
+about-private-browsing-spotlight-basics-bookmarks-downloads = Kirjanmerkit ja lataukset pysyvät laitteellasi, ja ne saattavat näkyä osoiterivillä.
 about-private-browsing-spotlight-basics-vpn = Käytä sisäänrakennettua VPN:ää vaikeuttaaksesi sijaintisi jäljittämistä.
 about-private-browsing-spotlight-basics-learn-more = Lue lisää

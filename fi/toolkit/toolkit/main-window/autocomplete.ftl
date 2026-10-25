@@ -50,6 +50,8 @@ autocomplete-delete-entry = Poista
 # Variables:
 #   $entry (String) - The text of the saved form history entry that would be deleted.
 autocomplete-delete-form-history-entry2 = Poista { $entry } lomakehistoriasta
+# Tooltip for the button that opens the edit/delete menu.
+autocomplete-more-options = Lisää valintoja
 
 ## Confirmation shown before a record is removed from the autocomplete dropdown.
 ## Gated by the browser.autocomplete.removeRecords.enabled pref.

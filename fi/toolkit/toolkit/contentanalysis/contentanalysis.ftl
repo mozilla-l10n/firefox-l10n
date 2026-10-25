@@ -14,6 +14,10 @@ contentanalysis-slow-agent-dialog-body-file = { $agent } tarkistaa tiedostoa “
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } tarkistaa, mitä liitit organisaatiosi datakäytäntöjen vastaisesti. Tämä voi kestää hetken.
+# Written to the system clipboard in place of content that the user was not
+# permitted to copy, so that pasting produces this notice rather than silently
+# producing whatever was on the clipboard beforehand.
+contentanalysis-clipboard-copy-blocked-replacement = Organisaatiosi rajoittaa tämän sisällön kopiointia.
 contentanalysis-operationtype-clipboard = leikepöytä
 contentanalysis-operationtype-dropped-text = pudotettu teksti
 contentanalysis-warndialogtitle = Tämä sisältö saattaa olla vaarallista
@@ -47,6 +51,7 @@ contentanalysis-invalid-agent-signature-message-content = Allekirjoituksen vahvi
 contentanalysis-error-message-upload-file = Tiedoston "{ $filename }" lähetys estetty.
 contentanalysis-error-message-dropped-text = Vedä ja pudota -toiminto kielletty.
 contentanalysis-error-message-clipboard = Liittäminen estetty.
+contentanalysis-error-message-clipboard-copy = Kopiointi estetty.
 contentanalysis-error-message-print = Tulostus estetty.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
@@ -62,6 +67,7 @@ contentanalysis-block-dialog-title-download-file = Sinulla ei ole lupaa ladata t
 contentanalysis-block-dialog-body-download-file = Organisaatiosi tietosuojakäytäntöjen nojalla et saa ladata tiedostoa ”{ $filename }”. Ota yhteys järjestelmänvalvojaasi saadaksesi lisätietoja.
 contentanalysis-block-dialog-title-clipboard = Sinulla ei ole lupaa liittää tätä sisältöä
 contentanalysis-block-dialog-body-clipboard = Organisaatiosi tietosuojakäytäntöjen nojalla et saa liittää tätä sisältöä. Ota yhteys järjestelmänvalvojaasi saadaksesi lisätietoja.
+contentanalysis-block-dialog-title-clipboard-copy = Sinulla ei ole lupaa kopioida tätä sisältöä
 contentanalysis-block-dialog-title-dropped-text = Sinulla ei ole lupaa pudottaa tätä sisältöä
 contentanalysis-block-dialog-body-dropped-text = Organisaatiosi tietosuojakäytäntöjen nojalla et saa vetää ja pudottaa tätä sisältöä. Ota yhteys järjestelmänvalvojaasi saadaksesi lisätietoja.
 contentanalysis-block-dialog-title-print = Sinulla ei ole lupaa tulostaa tätä asiakirjaa
