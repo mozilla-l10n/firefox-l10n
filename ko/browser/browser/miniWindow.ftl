@@ -48,7 +48,7 @@ toolbar-button-mini-window =
     .tooltiptext = 미니 창 사용
 # Opens up the Mini Window section selector tool.
 main-context-menu-use-mini-window =
-    .label = 선택한 영역을 미니 창으로 이동
+    .label = 미니 창으로 영역 이동
     .accesskey = w
 # Moves full tabs to Mini Windows, one window per tab.
 # Variables
@@ -64,8 +64,8 @@ move-to-mini-window =
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.
 
-mini-window-overlay-header = 계속 표시할 페이지의 영역을 선택하세요
-mini-window-overlay-instructions = 마우스로 드래그하나 클릭하여 미니 창에 띄울 영역을 선택하세요. 탐색하는 동안 항상 맨 위에 표시됩니다.
+mini-window-overlay-header = 화면에서 계속 볼 영역 선택
+mini-window-overlay-instructions = 마우스로 드래그하거나 클릭하여 미니 창에 띄울 영역을 선택하세요. 탐색하는 동안 항상 맨 위에 표시됩니다.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
