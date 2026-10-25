@@ -40,7 +40,7 @@ customize-mode-downloads-button-autohide =
 ## Labels for the special items that can be added to toolbars in customize mode
 
 customize-mode-toolbarspring =
-    .title = Elastīga atstarpe
+    .title = Pielāgojoša atstarpe
 customize-mode-toolbarseparator =
     .title = Atdalītājs
 customize-mode-toolbarspacer =

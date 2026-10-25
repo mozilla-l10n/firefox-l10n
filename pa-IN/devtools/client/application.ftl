@@ -42,6 +42,13 @@ serviceworker-worker-status-stopped = ਰੁਕਿਆ
 serviceworker-empty-intro2 = ਕੋਈ ਸਰਵਿਸ ਵਰਕਰ ਨਹੀ ਲੱਭਾ
 # Link will open https://developer.mozilla.org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro-link = ਹੋਰ ਸਿੱਖੋ
+# Text displayed when there are no Service Workers to display for the current page,
+# introducing hints to debug Service Worker issues.
+# <a> and <span> are links that will open the webconsole and the debugger, respectively.
+serviceworker-empty-suggestions2 = ਜੇ ਮੌਜੂਦਾ ਸਫ਼ੇ ਉੱਤੇ ਇੱਕ ਸਰਵਿਸ ਵਰਕਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ ਤਾਂ ਤੁਹਾਨੂੰ <a>ਕਨਸੋਲ</a> ਵਿੱਚ ਗਲਤੀਆਂ ਵੇਖਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ ਜਾਂ <span>ਡੀਬੱਗਰ</span> ਵਿੱਚ ਸਰਵਿਸ ਵਰਕਰ ਰਜਿਸਟੇਸ਼ਨ ਵਿੱਚ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।
+# Suggestion to go to about:debugging in order to see Service Workers for all domains.
+# Link will open about:debugging in a new tab.
+serviceworker-empty-suggestions-aboutdebugging2 = ਹੋਰ ਡੋਮੇਨਾਂ ਤੋਂ ਸਰਵਿਸ ਵਰਕਰਾਂ ਨੂੰ ਵੇਖੋ
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = ਐਪ ਮੈਨੀਫੈਸਟ
 # Header for the Manifest page when there's no manifest to inspect
@@ -98,6 +105,22 @@ sidebar-item-manifest = ਮੈਨੀਫੈਸਟ
 sidebar-item-service-workers = ਸਰਵਿਸ ਵਰਕਰ
     .alt = ਸਰਵਿਸ ਵਰਕਰ ਆਈਕਨ
     .title = ਸਰਵਿਸ ਵਰਕਰ
+# Sidebar navigation item for Session History sidebar item section
+sidebar-item-session-history = ਸ਼ੈਸਨ ਅਤੀਤ
+    .alt = ਸ਼ੈਸਨ ਅਤੀਤ ਆਈਕਾਨ
+    .title = ਸ਼ੈਸਨ ਅਤੀਤ
+# Entry in the Session History diagram
+session-history-entry-info-button-title =
+    .title = ਸ਼ੈਸਨ ਅਤੀਤ ਡਾਟੇ ਨੂੰ ਵੇਖਾਓ
+# Title (tooltip) for the clickable Session History diagram column headers, which
+# navigate the inspected page to that entry in its session history.
+# Variables:
+#   $index (number) - The session history index that will be navigated to.
+session-history-navigate-button-title = ਸ਼ੈਸਨ ਅਤੀਤ ਐਂਟਰੀ { $index } ਉੱਤੇ ਜਾਓ
+# Header for the Session History page when session history diagrams are unavailable
+session-history-unavailable = ਸ਼ੈਸਨ ਅਤੀਤ ਸ਼ਕਲ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
+# Text displayed for when the target does not support showing session history diagrams
+session-history-target-unsupported = ਟਾਰਗੇਟ ਸ਼ੈਸਨ ਅਤੀਤ ਸ਼ਕਲ ਦਿਖਾਉਣ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ
 # Text for the ALT and TITLE attributes of the warning icon
 icon-warning =
     .alt = ਚੇਤਾਵਨੀ ਚਿੰਨ੍ਹ
