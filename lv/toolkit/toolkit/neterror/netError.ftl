@@ -79,7 +79,7 @@ neterror-captive-portal = Vispirms šajā tīklā jāpiesakās, lai varētu piek
 # $hostAndPath (String) - a suggested site (e.g. "www.example.com") that the user may have meant instead.
 neterror-dns-not-found-with-suggestion = Vai vēlējies doties uz <a data-l10n-name="website">{ $hostAndPath }</a>?
 neterror-dns-not-found-hint-header = <strong>Ja ievadīji pareizu adresi, tad var:</strong>
-neterror-dns-not-found-hint-try-again = Vēlāk mēģināt vēlreiz
+neterror-dns-not-found-hint-try-again = Vēlāk jāmēģina vēlreiz
 neterror-dns-not-found-hint-check-network = Pārbaudīt savienojumu ar internetu
 neterror-dns-not-found-hint-firewall = Pārliecināties, ka { -brand-short-name } ir atļauja piekļūt tīmeklim (var būt izveidots savienojums, bet aiz ugunsmūra)
 neterror-dns-not-found-hint-check-network-2 = Pārbaudīt savienojumu ar internetu.
@@ -100,7 +100,7 @@ neterror-redirect-loop = Šo problēmu reizēm var atrisināt, deaktivējot sīk
 neterror-not-cached-intro = Pieprasītais dokuments vairs nav pieejams  { -brand-short-name } kešatmiņā.
 neterror-not-cached-sensitive = Drošības apsvērumu dēļ,  { -brand-short-name } neveic sensitīvu dokumentu automātisku atkārtotu pieprasīšanu.
 neterror-not-cached-try-again = Jāklikšķina “Mēģināt vēlreiz”, lai no tīmekļvietnes atkārtoti pieprasītu dokumentu.
-neterror-net-offline = Nospiediet “Mēģināt vēlreiz” lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.
+neterror-net-offline = Jāspiež “Mēģināt vēlreiz”, lai pārslēgtos uz tiešsaistes režīmu un pārlādētu lapu.
 neterror-proxy-resolve-failure-settings = Pārbaudiet starpniekservera (proxy) iestatījumus.
 neterror-proxy-resolve-failure-connection = Jāpārliecinās, ka datora tīkla savienojums ir darba kārtībā.
 neterror-proxy-resolve-failure-firewall = Ja dators vai tīkls tiek aizsargāts ar ugunsmūri vai starpniekserveri, jāpārliecinās, ka { -brand-short-name } ir atļauts piekļūt tīmeklim.
