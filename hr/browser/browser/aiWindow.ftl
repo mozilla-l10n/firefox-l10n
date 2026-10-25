@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Firstrun memories onboarding
+
+aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } može učiti iz tvojih razgovora, pregledavanja ili oboje i time stvarati sjećanja. Sjećanja s vremenom čine odgovore korisnijima.
+aiwindow-firstrun-memories-privacy-body = Sjećanja se pohranjuju na ovom uređaju. Možeš ih izbrisat ili isključiti bilo kada.
+aiwindow-firstrun-memories-no-create = Shvaćam. { -smart-window-brand-name } neće stvarati sjećanja. To možeš promijeniti bilo kada u postavkama.
+
 ## Memories toggle button
 
 aiwindow-memories-on =
