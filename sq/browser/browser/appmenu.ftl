@@ -15,6 +15,8 @@ appmenuitem-banner-update-unsupported =
     .label = S’arrihet të përditësohet — mospërputhje sistemi
 appmenuitem-banner-update-restart =
     .label = Përditësim gati — riniseni tani
+appmenu-nova-update-description = Skedat tuaja do të rihapen.
+appmenu-nova-fxa-sign-in = Hyni
 appmenuitem-new-tab =
     .label = Skedë e re
 appmenuitem-new-window =
@@ -101,6 +103,30 @@ appmenu-remote-tabs-unverified = Llogaria juaj duhet verifikuar.
 appmenuitem-fxa-toolbar-sync-now2 = Njëkohësoji tani
 appmenuitem-fxa-sign-in = Hyni te { -brand-product-name }
 appmenuitem-fxa-manage-account = Administroni llogari
+# Button shown next to "Sync is Off" when the user is signed in but sync is
+# turned off. Turns syncing on by opening sync preferences.
+fxa-menu-sync-status-turn-on-button =
+    .label = Aktivizojeni
+fxa-menu-sync-status-turn-on-button-aria-label = Aktivizojeni
+# Shown as a secondary label under "Sync is Off" when the user needs to sign in
+# (again) for sync to work.
+fxa-menu-sync-off-signin-description = Për njëkohësim, bëni hyrjen
+fxa-menu-manage-sync-settings =
+    .label = Administroni Rregullime Njëkohësimi
+fxa-menu-add-device =
+    .label = Shtoni një Pajisje
+fxa-menu-manage-devices =
+    .label = Administroni Pajisjet Tuaja
+fxa-menu-device-missing =
+    .label = S’e Shihni Pajisjen Tuaj?
+# Mozilla account menu item when selected opens a panel with all devices synced to the user's account
+fxa-menu-all-devices =
+    .label = Krejt Pajisjet
+# Mozilla account panel title which shows all devices synced to a user's account
+fxa-menu-all-devices-panel =
+    .title = Krejt Pajisjet
+fxa-menu-secure-sync-subpanel =
+    .title = Njëkohësim i siguruar
 appmenu-account-header = Llogari
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
@@ -109,6 +135,11 @@ appmenu-fxa-last-sync = Njëkohësuar së fundi më { $time }
     .label = Njëkohësuar së fundi më { $time }
 appmenu-fxa-sync-and-save-data2 = Njëkohësoni dhe ruani të dhëna
 appmenu-fxa-signed-in-label = Hyni
+# Sign-in promo shown in the app menu when signed out and no menu message or
+# update banner is present, prompting the user to sign in and sync. The user can
+# dismiss it, after which the compact sign-in row is shown in its place.
+appmenu-fxa-sign-in-promo-heading2 = Njëkohësoni të dhënat tuaja kudo
+appmenu-fxa-sign-in-promo-link = Hyni
 appmenu-fxa-setup-sync =
     .label = Aktivizoni Sync-un…
 appmenu-fxa-setup-sync-new = Aktivizoje
@@ -213,6 +244,14 @@ appmenu-recently-closed-windows =
 appmenu-search-history =
     .label = Kërkoni në historik
 
+## Sync promo shown at the bottom of the History and Bookmarks panels. Its
+## variant depends on the user's account and Sync state. The sign-in heading and
+## all three call-to-action labels are shared by both panels; the remaining
+## headings are specific to the panel they appear in.
+
+appmenu-sync-promo-signin-cta = Hyni
+appmenu-sync-promo-connectdevice-cta = Lidhni një pajisje
+
 ## Help panel
 
 appmenu-help-header =
@@ -293,3 +332,11 @@ appmenu-edit-profile =
     .aria-label = Përpunoni profil
 appmenu-profiles-2 =
     .label = Profile
+appmenu-profiles-header = Profile
+appmenu-all-profiles =
+    .label = Krejt Profilet
+appmenu-secure-sync-header = Njëkohësim i siguruar
+# Panel shown when clicking a synced device in the Mozilla account menu.
+# The .title attribute sets the panel header text.
+fxa-menu-device-recent-tabs-panel =
+    .title = Skeda së fundi

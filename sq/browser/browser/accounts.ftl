@@ -28,6 +28,7 @@ account-manage-devices-titlecase = Administroni Pajisje…
 ## and the Sync account is unverified. Redirects to the Sync preferences page.
 
 account-send-tab-to-device-verify-status = Llogari Jo e Verifikuar
+account-send-tab-to-device-verify2 = Verifikoni Llogarinë Tuaj
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 

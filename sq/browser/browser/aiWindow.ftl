@@ -47,6 +47,20 @@ aiwindow-input-cta-stop-button =
 
 smartbar-placeholder =
     .placeholder = Pyetni, kërkoni, ose jepni një URL
+smartbar-placeholder-hint-3 = Jepni një adresë web…
+smartbar-placeholder-hint-4 = Kërkoni në Web…
+
+## Mentions
+
+smartbar-mentions-list-no-results-label = S’u gjetën përfundime
+smartbar-mentions-list-tab-groups-label = Grupe së fundi
+smartbar-mentions-list-recent-tabs-label = Skeda së fundi
+
+## Context mentions menu toggle button
+
+smartbar-context-menu-button =
+    .aria-label = Shtoni një skedë, ose një sajt
+    .tooltiptext = Shtoni një skedë, ose një sajt
 
 ## Website Chip
 
@@ -58,6 +72,8 @@ aiwindow-website-chip-remove-button =
 aiwindow-firstrun-title = Mirë se vini në { -smart-window-brand-name }
 aiwindow-firstrun-model-title = Ç’është e rëndësishme për ju?
 aiwindow-firstrun-model-title-v2 = Që t’ia fillohet, zgjidhni një model
+aiwindow-firstrun-model-fast-label = I shpejtë
+aiwindow-firstrun-model-allpurpose-label = I zhdërvjellët
 aiwindow-firstrun-button = Fillojmë
 aiwindow-firstrun-back-button = Mbrapsht
 aiwindow-firstrun-next-button = Pasuesja
@@ -68,6 +84,10 @@ aiwindow-input-model-select-button-label-fast = I shpejtë
 aiwindow-input-model-select-button-label-allpurpose = I zhdërvjellët
 aiwindow-input-model-select-button-label-personal = Personal
 aiwindow-input-model-select-button-label-custom = Vetjak
+# Variables:
+# $ownerName (string) - The name of the model owner/provider
+# $model (string) - The model name
+aiwindow-input-model-select-menu-item-description = { $ownerName } { $model }
 aiwindow-input-model-select-default-badge =
     .label = Parazgjedhje
     .title = Modeli parazgjedhje i përzgjedhur
@@ -167,3 +187,5 @@ smart-window-default-promo-additional-button = Jo tani
 
 aiwindow-feedback-submit = Parashtroje
 aiwindow-feedback-cancel = Anuloje
+aiwindow-feedback-reason-other = Tjetër
+aiwindow-feedback-preview-report = Shihni hollësi fjalosjeje

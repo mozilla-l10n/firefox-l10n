@@ -9,6 +9,8 @@ all-tabs-menu-new-user-context =
     .label = Skedë e Re Kontejneri
 all-tabs-menu-hidden-tabs =
     .label = Skeda të Fshehura
+all-tabs-menu-view-all-tabs =
+    .label = Shihini Krejt Skedat
 all-tabs-menu-close-all-duplicate-tabs =
     .label = Mbylli krejt skedat e përsëdytura
 all-tabs-menu-synced-tabs =
@@ -23,3 +25,6 @@ all-tabs-menu-tab-groups-show-all =
 # This is header for the sub view listing _all_ open and saved tab groups.
 all-tabs-menu-tab-groups-sub-view =
     .title = Grupe skedash
+# "Search" is a verb, as in "Search through all tabs".
+all-tabs-menu-search-all-tabs =
+    .label = Kërko Në Krejt Skedat

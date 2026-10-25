@@ -3,6 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Lyp Rinisje
+restart-required-more-details-heading = Më tepër hollësi
+restart-button-label2 = Rinise
+# Expands the "More details" section below the buttons.
+restart-required-see-more-button = Shihni më tepër
+# Collapses the "More details" section below the buttons.
+restart-required-see-less-button = Shihni më pak
 restart-required-heading = Që të Vazhdoni të Përdorni { -brand-short-name }, riniseni
 restart-required-intro = Ka filluar një përditësim i { -brand-short-name } në prapaskenë. Që të përfundojë përditësimi, do të duhet ta rinisni.
 window-restoration-info = Dritaret dhe skedat tuaja do të rikthehen në çast, por jo ato private ama.
