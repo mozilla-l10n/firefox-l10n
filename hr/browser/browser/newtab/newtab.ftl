@@ -89,9 +89,19 @@ home-prefs-privacy-header =
 # Crossword is a widget on New Tab that shows a daily crossword puzzle.
 home-prefs-crossword-widget-header =
     .label = Križaljka
+# Finance is a widget on New Tab that shows stock ticker prices.
+home-prefs-stocks-header2 =
+    .label = Financije
 # Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
 home-prefs-picture-header =
     .label = Slika dana
+# Search is a widget on New Tab that shows the user's recent and trending
+# searches.
+home-prefs-search-widget-header =
+    .label = Pretraživanje
+# Horoscopes is a widget on New Tab that shows daily horoscopes.
+home-prefs-horoscopes-header =
+    .label = Horoskopi
 home-prefs-mission-message2 =
     .message = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba.
 home-prefs-manage-topics-link2 =
@@ -153,6 +163,15 @@ home-prefs-mission-message-learn-more-link-srd = Saznaj kako
 
 # Context menu item linking to more information about the Privacy widget.
 newtab-privacy-menu-learn-more = Saznaj više
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-privacy-widget-open-menu-button =
+    .aria-label = Otvori izbornik za privatnost
+    .title = Otvori izbornik za privatnost
+# Accessible name for the Privacy widget container. The widget shows no visible
+# title, so screen readers rely on this label to identify it.
+newtab-privacy-widget-label =
+    .aria-label = Privatnost
 
 ## Privacy widget — count readout
 
@@ -250,6 +269,9 @@ newtab-privacy-message-first-protection-cta = Pogledaj zaštite
 newtab-stocks-menu-learn-more = Saznaj više
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Podaci o dionicama nisu dostupni.
+# Accessible name for the Finance widget. It is usually not shown, since the
+# list dropdown or the chosen ticker symbol takes the title's place.
+newtab-stocks-widget-title2 = Financije
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -263,6 +285,17 @@ newtab-stocks-ticker-status-up = { $name }, raste { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, pada { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, bez promjene, { $change }, { $price }
+
+## Finance widget ticker search
+
+# "Back" is an icon-only button in the search panel header that returns to the
+# widget — the attributes are consumed as tooltip/screen-reader label only. The
+# button never renders visible text.
+newtab-stocks-search-back-button =
+    .aria-label = Natrag
+    .title = Natrag
+# Shown while a ticker search is running; also announced to screen readers.
+newtab-stocks-search-loading = Učitavanje…
 
 ## Strings for the Picture of the Day widget
 
@@ -284,6 +317,13 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Pogledaj licenciju { $license }
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Postavi ovu sliku kao pozadinu
+    .label = Postavi pozadinu
+    .title = Postavi pozadinu
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -292,6 +332,10 @@ newtab-picture-set-wallpaper =
     .title = Postavi pozadinu
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Upravljaj pozadinom
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Sakrij ovu sliku
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Prikaži sliku
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Sakrij današnju sliku
@@ -299,6 +343,10 @@ newtab-picture-menu-hide-photo = Sakrij današnju sliku
 newtab-picture-menu-show-photo = Prikaži današnju sliku
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Saznaj više
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Prikaži sliku
+    .title = Prikaži sliku
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Prikaži današnju sliku
@@ -309,10 +357,61 @@ newtab-picture-check-back = Vrati se sutra za novu sliku
 # provides no localized description.
 newtab-picture-image-alt = Slika dana s Wikimedia Commonsa
 
-## Strings for the Travel widget
+## Strings for the Search widget
 
 # Context menu item linking to more information about the widget.
+newtab-recent-searches-menu-learn-more = Saznaj više
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = Nedavne pretrage
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = Popularno
+# Informs the user which engine the trending results come from.
+# Variables:
+#   $engine (string) - Name of the default search engine, e.g. "Google".
+newtab-recent-searches-trending-attribution = putem { $engine }
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = Upravo sada
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horoskopi
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Saznaj više
+
+## Strings for the Travel widget
+
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Putovanja
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Otvori izbornik putovanja
+    .title = Otvori izbornik putovanja
+# Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Saznaj više
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Pasijans
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Otvori izbornik pasijansa
+    .title = Otvori izbornik pasijansa
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Saznaj više
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Priče
+newtab-spaces-tab-widgets = Widgeti
+newtab-spaces-tab-activity = Aktivnost
 
 ## Search box component.
 
@@ -525,6 +624,21 @@ newtab-discovery-empty-section-topstories-loading = Učitavanje…
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Uh! Nismo potpuno učitali ovaj odjeljak.
 
+## Strings for the story cards carousel
+
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } od { $total }
+# Button that goes to the previous carousel slide.
+newtab-carousel-previous =
+    .aria-label = Prethodno
+# Button that goes to the next carousel slide.
+newtab-carousel-next =
+    .aria-label = Sljedeće
+
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
@@ -580,8 +694,27 @@ newtab-custom-widget-sports-toggle2 =
     .label = Sportovi
 newtab-custom-widget-privacy-toggle =
     .label = Privatnost
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+newtab-custom-widget-crossword-toggle =
+    .label = Križaljka
+# Finance is a widget on New Tab that shows stock ticker prices.
+newtab-custom-widget-stocks-toggle2 =
+    .label = Financije
 newtab-custom-widget-picture-toggle =
     .label = Slika dana
+newtab-custom-widget-search-toggle =
+    .label = Pretraživanje
+newtab-custom-widget-horoscopes-toggle =
+    .label = Horoskopi
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Putovanja
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Pasijans
 newtab-custom-widget-section-title = Widgeti
 newtab-custom-widget-section-toggle =
     .label = Widgeti
@@ -593,6 +726,13 @@ newtab-custom-close-menu-button =
     .aria-label = Zatvori izbornik
     .title = Zatvori
 newtab-custom-settings = Upravljaj dodatnim postavkama
+
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Natrag na prilagodbu
+    .title = Natrag na prilagodbu
 
 ## New Tab Appearance (browser theme picker)
 
@@ -629,6 +769,9 @@ newtab-wallpaper-add-an-image = Dodaj sliku
 newtab-wallpaper-custom-color = Odaberi boju
 newtab-wallpaper-toggle-title =
     .label = Pozadine
+# Label for the grid of wallpaper categories in the customize panel
+newtab-wallpaper-category-list =
+    .aria-label = Kategorije pozadina
 # Variables
 #   $file_size (number) - The number of the maximum image file size (in MB) that may be uploaded
 newtab-wallpaper-error-max-file-size = Slika premašuje ograničenje veličine datoteke od { $file_size } MB. Pokušaj prenijeti manju datoteku.
@@ -777,6 +920,11 @@ newtab-wallpaper-celestial-river = Satelitska snimka rijeke
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Sponzorirano
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Otvori izbornik prognoze
+    .title = Otvori izbornik prognoze
 newtab-weather-menu-change-location = Promijeni lokaciju
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Traži lokaciju
@@ -1052,6 +1200,12 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Odustani
     .title = Odustani
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Otvori izbornik popisa
+    .title = Otvori izbornik popisa
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Stvori novi popis
@@ -1137,6 +1291,11 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Isključi obavijesti
 newtab-widget-timer-menu-notifications-on = Uključi obavijesti
 newtab-widget-timer-menu-learn-more = Saznaj više
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Otvori izbornik odbrojavanja
+    .title = Otvori izbornik odbrojavanja
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Najnovije vijesti
 newtab-daily-briefing-card-menu-dismiss = Odbaci
@@ -1160,6 +1319,14 @@ newtab-promo-card-cta = Saznajte više
 newtab-promo-card-dismiss-button =
     .aria-label = Odbaci
     .title = Odbaci
+
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Otvori izbornik križaljke
+    .title = Otvori izbornik križaljke
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -1445,6 +1612,11 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Ovaj se prostor prilagođava tvojim pravilima
 newtab-activation-window-message-values-focus-message = { -brand-product-name } omogućuje pregledavanje na način koji ti se sviđa, s osobnijim načinom za početak dana na internetu. Prilagodi { -brand-product-name } svom ukusu.
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+newtab-nova-customization-callout-primary-button =
+    .label = Odaberi svoj izgled
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1525,6 +1697,11 @@ newtab-clock-widget-custom-zone-results =
 newtab-clock-widget-custom-zone-no-results = Nema odgovarajućih vremenskih zona
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = Natrag
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Otvori izbornik sata
+    .title = Otvori izbornik sata
 # Shown in place of the search results when the user's query does not match any
 # supported city — e.g. typing a misspelled name or a place not in the IANA
 # time zone list.

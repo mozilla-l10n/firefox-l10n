@@ -31,6 +31,7 @@ firefoxview-syncedtabs-loading-description = Kada sinkronizacija završi, vidjet
 firefoxview-syncedtabs-loading-header-2 = Dohvaćanje tvojih kartica…
 firefoxview-tabpickup-fxa-admin-disabled-header = Tvoja je organizacija deaktivirala sinkronizaciju
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne može sinkronizirati kartice između uređaja jer je tvoja organizacija deaktivirala sinkronizaciju.
+firefoxview-tabpickup-fxa-admin-disabled-header-2 = Sinkronizacija kartica je isključena
 firefoxview-tabpickup-network-offline-header = Provjeri internetsku vezu
 firefoxview-tabpickup-network-offline-description = Ako koristiš vatrozid ili proxy, provjeri ima li { -brand-short-name } dozvolu za pristup webu.
 firefoxview-tabpickup-network-offline-primarybutton = Pokušaj ponovo
@@ -48,6 +49,7 @@ firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-passwo
 firefoxview-tabpickup-signed-out-header = Prijavi se za ponovno povezivanje
 firefoxview-tabpickup-signed-out-description2 = Za ponovno povezivanje i preuzimanje tvojih kartica prijavi se.
 firefoxview-tabpickup-signed-out-primarybutton = Prijavi se
+firefoxview-tabpickup-signed-out-header-2 = Prijavi se za prikaz tvojih kartica
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -64,6 +66,9 @@ firefoxview-overview-nav = Nedavno pregledavanje
     .title = Nedavno pregledavanje
 firefoxview-overview-header = Nedavno pregledavanje
     .title = Nedavno pregledavanje
+toolbar-button-firefox-view-3 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Kartice i povijest pregledavanja na više uređaja
 
 ## History in this context refers to browser history
 

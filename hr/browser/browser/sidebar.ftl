@@ -50,6 +50,14 @@ sidebar-history-sort-option-date-and-site =
     .label = Datum i web-stranica
 sidebar-history-sort-option-last-visited =
     .label = Zadnja posjećena
+sidebar-history-sort-option-most-visited =
+    .label = Najposjećenije
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Nešto nedostaje? Dohvati povijest iz drugog preglednika.
+sidebar-history-import-promo-button =
+    .label = Uvezi u { -brand-short-name }
 
 ## Labels for sidebar search
 
@@ -78,6 +86,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Proširi bočnu traku prilikom prelaska mišem
+# Option to show a preview of the most recently active tabs when the mouse
+# pointer hovers over the Open Tabs button in the sidebar.
+sidebar-show-preview-on-hover =
+    .label = Prikaži pregled pri zadržavanju pokazivača
 sidebar-manage-extensions2 = Upravljaj svim proširenjima
 sidebar-customize-extensions-header2 = Proširenja
 sidebar-customize-firefox-tools-header2 =
@@ -155,6 +167,24 @@ sidebar-opentabs-sort-option-order =
 # Sort option that lists tabs by most recent activity, newest first.
 sidebar-opentabs-sort-option-recency =
     .label = Nedavno aktivno
+
+## Labels for the open tabs hover preview
+
+# Heading at the top of the preview shown when hovering the Open Tabs button
+# in the sidebar. "Recent tabs" refers to the tabs that were active most
+# recently, not to tabs that were recently opened.
+sidebar-opentabs-preview-heading = Nedavne kartice
+# Tooltip for the button that closes a tab from the Open Tabs hover preview.
+# Variables:
+#   $tabTitle (String) - Title of tab being closed
+sidebar-opentabs-preview-close-tab =
+    .title = Zatvori { $tabTitle }
+# Tooltip for the button that mutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-mute-tab =
+    .title = Isključi zvuk kartice
+# Tooltip for the button that unmutes a tab from the Open Tabs hover preview.
+sidebar-opentabs-preview-unmute-tab =
+    .title = Uključi zvuk kartice
 
 ## Labels for sidebar menu items.
 
