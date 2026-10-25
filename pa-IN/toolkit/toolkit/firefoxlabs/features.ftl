@@ -41,6 +41,8 @@ experimental-features-fx-web-apps =
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = { -firefox-home-brand-name } ਉੱਤੇ ਸੂਚੀਆਂ
+experimental-features-newtab-widget-lists-new =
+    .label = ਸੂਚੀਆਂ
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = { -firefox-home-brand-name } ਉੱਤੇ ਘੜੀ
