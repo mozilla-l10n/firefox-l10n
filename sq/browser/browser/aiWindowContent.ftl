@@ -5,6 +5,7 @@
 
 ## Error messages in the chat content
 
+smartwindow-assistant-error-generic-header = Diç shkoi ters. Ju lutemi, riprovoni.
 # Variables:
 #   $status (Number) - HTTP status code returned by the inference back-end
 smartwindow-assistant-error-http-header = Gabim shërbyesi (HTTP { $status }). Ju lutemi, riprovoni.
@@ -40,3 +41,27 @@ aiwindow-jump-to-bottom =
 
 smartwindow-nl-retry-tool-button =
     .label = Riprovo
+smartwindow-nl-retry-message = Nëse ende doni të mbyllni skeda, zgjidhni <strong>Riprovoni</strong> dhe bëni përzgjedhjen tuaj te karta që hapet.
+smartwindow-nl-undo-button =
+    .label = Zhbëje
+
+## Variables
+##   $count (number) - Number of tabs closed/restored
+
+smart-window-closed-tabs-label =
+    { $count ->
+        [one] U mbyll { $count } skedë
+       *[other] U mbyllën { $count } skeda
+    }
+smart-window-closed-tabs-summary =
+    { $count ->
+        [one] U bë! Skeda u mbyll.
+       *[other] U bë! Skedat u mbyllën.
+    }
+smart-window-closed-tabs-row-label = Skeda të mbyllura
+smart-window-closed-and-restored-label = Skeda të mbyllura dhe të rikthyera
+smart-window-restored-row-label =
+    { $count ->
+        [one] U rikthye { $count } skedë
+       *[other] U rikthyen { $count } skeda
+    }
