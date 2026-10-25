@@ -52,6 +52,10 @@ about-private-browsing-pin-promo-link-text =
     }
 about-private-browsing-pin-promo-title = Bez spremljenih kolačića ili povijesti, izravno s tvoje radne površine. Pregledavaj kao da nitko ne gleda.
 
+## Strings used in a promotion message for Firefox Relay
+
+about-private-browsing-relay-promo-link-text = Isprobaj maske e-pošte
+
 ## Strings used in a promotion message for cookie banner reduction
 
 # Simplified version of the headline if the original text doesn't work
@@ -69,8 +73,20 @@ about-private-browsing-felt-privacy-v1-info-link = Tko može vidjeti moju aktivn
 
 about-private-browsing-nova-info-body = Zatvaranjem svih privatnih prozora brišete kolačiće, povijest i podatke web stranica.
 about-private-browsing-nova-info-link = Tko bi još uvijek mogao vidjeti moju aktivnost?
+about-private-browsing-private-window-basics-link = Osnove privatnog prozora
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Nepoznati ste
 about-private-browsing-nova-info-subheader2 = Obrisat ćemo svaku pretragu i prijavu kada zatvorite privatne prozore. Ugrađene zaštite { -brand-short-name }a su ovdje također uključene, poput blokiranja praćenja.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-title = Osnove privatnog prozora
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Što treba znati
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Više zaštita privatnosti
+about-private-browsing-spotlight-basics-learn-more = Saznaj više

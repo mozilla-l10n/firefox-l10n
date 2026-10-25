@@ -41,9 +41,36 @@ smart-window-model-learn-link = Saznaj više o modelima
 ##   $model (string) - The name of the AI model
 ##   $ownerName (String) - The name of owner of the AI model
 
+smart-window-model-fast =
+    .description = Model { $model } tvrtke { $ownerName }
+    .label = Brzo: brzi odgovori
+smart-window-model-flexible =
+    .description = Model { $model } tvrtke { $ownerName }
+    .label = Fleksibilno: dobro pristaje većini potreba
+smart-window-model-personal =
+    .description = Model { $model } tvrtke { $ownerName }
+    .label = Osobno: najprilagođeniji odgovori
+smart-window-model-custom =
+    .label = Prilagođeno: tvoj vlastiti LLM
+smart-window-model-custom-name =
+    .label = Naziv modela
+    .placeholder = Primjer: glm4
+smart-window-model-custom-url =
+    .label = Krajnja točka modela
+    .placeholder = Primjer: http://localhost:11434/v1
+smart-window-model-custom-token =
+    .label = API ključ ili autentifikacijski token, ako je potreban
+smart-window-model-custom-info =
+    .message = Kada koristiš prilagođeni model, { -smart-window-brand-name } možda neće raditi kako se očekuje.
+smart-window-model-custom-more-link = Više o prilagođenim modelima
+smart-window-model-custom-save =
+    .label = Spremi
+smart-window-model-custom-save-confirmation = Pojedinosti o modelu su spremljene. Pokreni novi razgovor da ga isprobaš.
 ai-window-memories-section =
     .description = { -brand-short-name } može učiti iz tvoje aktivnosti i stvarati sjećanja. Ona se koriste kao pomoć pri personalizaciji odgovora i pohranjuju se lokalno na ovome uređaju.
     .label = Sjećanja
+ai-window-learn-from-chat-activity =
+    .label = Uči iz razgovora u značajci { -smart-window-brand-name }
 ai-window-manage-memories-button =
     .label = Upravljaj sjećanjima
 ai-window-manage-memories-header =
@@ -63,3 +90,11 @@ ai-window-delete-all-memories-title = Izbrisati sva sjećanja?
 ai-window-delete-all-memories-message = Postojeća sjećanja bit će izbrisana- Ako ne želiš da se stvaraju nova sjećanja, odznači opcije „Uči iz…” u postavkama za { -smart-window-brand-name }.
 ai-window-delete-all-memories-confirm = Izbriši
 ai-window-delete-all-memories-cancel = Odustani
+# Variables:
+#   $label (String) - The memory summary text that will be deleted
+ai-window-memory-delete-button =
+    .aria-label = Izbriši { $label }
+    .title = Izbriši sjećanje
+smart-window-model-fast-v2 =
+    .description = Najbolje za brze odgovore kada je bitna brzina. Puni naziv: { $model } od { $ownerName }
+    .label = { $shortName }: brzo

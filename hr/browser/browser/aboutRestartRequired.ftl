@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Potrebno je ponovno pokretanje
+restart-required-heading2 = Žao nam je, potrebno je ponovno pokrenuti { -brand-short-name }
+restart-required-more-details-heading = Više informacija
 restart-button-label2 = Ponovno pokreni
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Prikaži više
