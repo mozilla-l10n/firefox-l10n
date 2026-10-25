@@ -1795,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Válassza ki, hogy mely webhelyek telepíthetnek kiegészítőket
     .accesskey = e
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Engedélyezés, hogy a webhelyek alkalmazáshivatkozások megnyitását kérjék.
+    .accesskey = E
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Blokkolt oldalak kezelése
+    .accesskey = B
 permissions-location2 =
     .label = Hely
 permissions-localhost2 =
@@ -1819,6 +1828,62 @@ permissions-data-section =
     .heading = Engedélyek és adatok
 pane-permissions-data-title2 = Engedélyek és adatok
     .title = Engedélyek és adatok
+notifications-section-header =
+    .heading = Értesítések
+notifications-entry-card-header =
+    .description = Válassza ki, hogy mely weboldalak küldhetnek értesítéseket, és hogyan jelenjenek meg ezek a riasztások.
+    .label = Értesítések
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } webhely
+           *[other] { $count } webhely
+        }
+    .label = Értesítési beállítások kezelése
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Webhelyek értesítési beállításainak kezelése
+notifications-website-card-header =
+    .description = Válassza ki, hogy a webhelyek hogyan küldhetnek értesítéseket.
+    .label = Webhelyértesítések
+notifications-filter =
+    .placeholder = Webhelyek keresése
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Webhely
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Értesítések engedélyezése
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Webhelyek
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Mindig
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Engedélyezés
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Soha
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Nem lettek hozzáadva webhelyértesítések.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Egyetlen webhelyértesítés sem felel meg a keresésnek.
 
 ## Privacy Section - Data Collection
 

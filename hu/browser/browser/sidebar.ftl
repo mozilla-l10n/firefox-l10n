@@ -52,6 +52,10 @@ sidebar-history-sort-option-last-visited =
     .label = Utoljára látogatva
 sidebar-history-sort-option-most-visited =
     .label = Legtöbbször látogatott
+# Promo shown in the history panel to people with a new profile, inviting them
+# to import their browsing history from another browser.
+sidebar-history-import-promo =
+    .message = Hiányzik valami? Importálja az előzményeket egy másik böngészőből.
 sidebar-history-import-promo-button =
     .label = Importálás a { -brand-short-name }ba
 

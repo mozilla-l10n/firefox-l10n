@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Felolvasás
+narrate-rate-input =
+    .aria-label = Válasszon narrációs sebességet -100 és 100 között, ahol a 0 az alapértelmezett sebesség.
+    .title = Sebesség
 narrate-rate-slow =
     .title = A narráció lassítása
 narrate-rate-fast =
