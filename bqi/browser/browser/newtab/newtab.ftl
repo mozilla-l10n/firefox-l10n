@@ -651,6 +651,8 @@ newtab-custom-widget-crossword-toggle =
     .label = جدول کلمه یل موتقاتع
 newtab-custom-widget-picture-toggle =
     .label = شؽوات رۊز
+newtab-custom-widget-search-toggle =
+    .label = پیتینیڌن
 # Travel (noun) is a widget on New Tab for searching hotels, flights
 # and car rentals.
 newtab-custom-widget-travel-toggle =
@@ -841,6 +843,9 @@ newtab-weather-menu-change-location = آلشت جاگه
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = پیتینیڌن جاگه
     .placeholder = پیتینیڌن جاگه
+newtab-weather-cancel-input =
+    .aria-label = لقو
+    .title = لقو
 # "Current" refers to the user's physical/geographic location detected via geolocation.
 newtab-weather-change-location-search-use-current =
     .label = و کار گرؽڌن جاگه هیم سکویی
@@ -1204,6 +1209,8 @@ newtab-widget-timer-celebration-heading-focus = کار نشمینی بی
 newtab-sports-widget-menu-follow-teams = و دین کردن تیما
 newtab-sports-widget-menu-view-schedule = نیشتن برنومه زمووی
 newtab-sports-widget-menu-view-results = نیشتن نتیجه یل
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = ویرگارا کیلیتی
 newtab-sports-widget-menu-learn-more = قلوه دووسته بۊین
 # “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
 newtab-sports-widget-keep-tabs = جام جهۊوی ن وا ویر جمعی و دین کۊنین
@@ -1416,6 +1423,15 @@ newtab-clock-widget-button-save = زفت
 #   $city (string) - The city name displayed in the row.
 newtab-clock-widget-edit-item =
     .aria-label = { $city }
+newtab-clock-widget-add-clock-form =
+    .aria-label = ٱووردن ساعت
+newtab-clock-widget-edit-clock-form =
+    .aria-label = آلشت ساعت
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = نتیجه یل پیتینیڌن
 # Returns from the custom clock form back to the city search.
 newtab-clock-widget-custom-back = وورگشتن
 # Curated World Clock city names. The value is the city name shown on the
