@@ -1420,6 +1420,9 @@ newtab-clock-widget-button-cancel = لقو
 newtab-clock-widget-button-back =
     .aria-label = وورگشتن
     .title = وورگشتن
+newtab-clock-widget-button-edit-clock =
+    .aria-label = آلشت ساعت
+    .title = آلشت ساعت
 newtab-clock-widget-button-save = زفت
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
