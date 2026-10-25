@@ -163,6 +163,12 @@ permissions-site-xr-disable-label =
     .label = Új kérések blokkolása, melyek hozzáférést kérnek a virtuális valóságot nyújtó eszközeihez
 permissions-site-xr-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak engedélyt kérjenek a virtuális valóság eszközeihez. A virtuális valóság eszközök blokkolása működésképtelenné tehet néhány weboldal-funkciót.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-desc = Ezeknél a webhelyeknél blokkolva van, hogy alkalmazáshivatkozások – például az e-mailek (mailto:), megnyitását kérjék. Távolítson el egy webhelyet, hogy újra rákérdezzen.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =
