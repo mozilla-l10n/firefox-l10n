@@ -12,7 +12,12 @@ about-networking-dns-trr-url = DoH URL
 about-networking-dns-trr-mode = DoH ਮੋਡ
 about-networking-dns-suffix = DNS ਪਿਛੇਤਰ
 about-networking-websockets = ਵੈੱਬਸਾਕਟ
+about-networking-alt-svc-origin = ਮੁੱਢ
+about-networking-alt-svc-alternate = ਬਦਲਵਾਂ
+about-networking-alt-svc-alpn = ALPN
+about-networking-alt-svc-validated = ਪੱਕਾ ਕੀਤਾ
 about-networking-alt-svc-ttl = TTL
+about-networking-alt-svc-origin-attributes-suffix = ਵੱਖਰਤਾ ਕੁੰਜੀ
 about-networking-ssl-tokens = TLS ਟੋਕਨ
 # $count (Number) - Number of cached TLS resumption tokens
 about-networking-ssl-tokens-summary-count =
