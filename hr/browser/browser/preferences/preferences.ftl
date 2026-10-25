@@ -1751,6 +1751,10 @@ permissions-notification2 =
 permissions-header3 =
     .description = Upravljaj web-stranicama koje mogu pristupiti, kontrolirati ili pokrenuti određene stvari.
     .label = Dozvole
+permissions-data-section =
+    .heading = Dozvole i podaci
+pane-permissions-data-title2 = Dozvole i podaci
+    .title = Dozvole i podaci
 
 ## Privacy Section - Data Collection
 
@@ -1769,6 +1773,8 @@ collection-backlogged-crash-reports2 =
     .label = Automatski šalji izvještaje o prekidu rada programa
     .accesskey = A
 collection-backlogged-crash-reports-description = To pomaže da { -vendor-short-name } dijagnosticira i riješi probleme s preglednikom. Izvještaji mogu uključivati osobne ili osjetljive podatke.
+settings-redesign-promo-dismiss-button =
+    .label = Razumijem
 privacy-segmentation-section-header = Nove funkcije koje poboljšavaju tvoje pregledavanje interneta
 privacy-segmentation-section-description = Kada nudimo funkcije koje koriste tvoje podatke za pružanje osobnijeg iskustva:
 privacy-segmentation-radio-off =
@@ -1930,6 +1936,9 @@ preferences-doh-overview-default =
 preferences-doh-overview-custom =
     .description = Uvijek koristi sigurni DNS s kontrolom nad svojim pružateljem usluga i rezervnim ponašanjem.
     .label = Prilagođeno
+preferences-doh-overview-off =
+    .description = Koristi svoj zadani razrješivač DNS-a
+    .label = Isključeno
 preferences-doh-advanced-button =
     .label = Napredne postavke
 preferences-doh-advanced-section =
@@ -1985,10 +1994,49 @@ preferences-doh-custom-provider-label =
 preferences-doh-header2 =
     .heading = DNS preko HTTPS-a
 
+## Connection and software security section
+
+preferences-connection-link-button =
+    .label = Napredne postavke
+
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Radna površina
 downloads-folder-name = Preuzimanja
+
+## Appearance page
+
+preferences-appearance-header =
+    .heading = Izgled
+browser-theme-group =
+    .description = Stiliziraj { -brand-short-name } prema svom ukusu. Boje teme se primjenjuju na alatne trake, izbornike i poruke.
+    .label = Tema preglednika
+browser-theme-manage-link =
+    .label = Upravljaj temama za { -brand-short-name }
+appearance-window-density-group =
+    .description = Prilagodi razmak između elemenata prozora, poput alatne trake, kartica i bočne trake.
+    .label = Zbijenost prozora
+appearance-window-density-radio-group =
+    .aria-label = Zbijenost prozora
+appearance-window-density-automatic =
+    .description = Automatski se primjenjuje standardni, kompaktni ili razmak za dodir.
+    .label = Automatski (zadano)
+appearance-window-density-automatic-no-touch =
+    .description = Automatski se primjenjuje standardni ili kompaktni razmak
+    .label = Automatski (zadano)
+appearance-window-density-standard =
+    .description = Uravnoteženi razmak za većinu zaslona
+    .label = Standardno
+appearance-window-density-auto-touch-mode =
+    .label = Koristi razmak za dodir u tabletnom načinu rada
+appearance-window-density-compact =
+    .description = Smanjeni razmak za male zaslone
+    .label = Kompaktno
+appearance-window-density-touch =
+    .description = Veći elementi zaslona i mete za klikanje, čime je optimizirano za zaslone na dodir
+    .label = Dodir
+related-settings-group =
+    .label = Povezane postavke
 
 ## AI controls page
 

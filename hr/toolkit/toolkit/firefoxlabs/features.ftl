@@ -23,6 +23,8 @@ experimental-features-group-customize-browsing =
     .label = Prilagodi svoje pregledavanje
 experimental-features-group-productivity =
     .label = Produktivnost
+experimental-features-group-newtab-widgets =
+    .label = Widgeti na { -firefox-home-brand-name }
 # New Tab Custom Wallpapers
 experimental-features-custom-wallpaper =
     .label = Odaberi prilagođenu pozadinu ili boju za novu karticu
@@ -56,15 +58,28 @@ experimental-features-fx-web-apps-description = Otvarajte strancie koje često p
 # Lists Widget
 experimental-features-newtab-widget-lists =
     .label = Popisi na { -firefox-home-brand-name }
+experimental-features-newtab-widget-lists-new =
+    .label = Popisi
 experimental-features-newtab-widget-lists-description = Imajte svoj popis obaveza na umu kada otvorite novu karticu. Od popisa za pakiranje do popisa za kupovinu, napravite svoje planove u { -brand-product-name }. <a data-l10n-name="connect">Podijelite povratne informacije</a>
 # Timer Widget
 experimental-features-newtab-widget-timer =
     .label = Timer na { -firefox-home-brand-name }
+experimental-features-newtab-widget-timer-new =
+    .label = Odbrojavanje
 experimental-features-newtab-widget-timer-description = Postavite tajmer kako biste ostali usredotočeni, potaknuli se da ostanete na pravom putu ili se podsjetili da napunite baterije. <a data-l10n-name="connect">Podijelite povratne informacije</a>
 # Lists and Timer Widget (Combined)
 experimental-features-newtab-widget-lists-and-timer =
     .label = Popisi i timer na { -firefox-home-brand-name }
 experimental-features-newtab-widget-lists-and-timer-description = Imajte svoj popis obaveza na umu kada otvorite novu karticu. Od popisa za pakiranje do popisa za kupovinu, napravite svoje planove u { -brand-product-name }. Postavite timer kako biste ostali usredotočeni, potaknuli se da ostanete na pravom putu ili se podsjetili da napunite baterije. <a data-l10n-name="connect">Podijelite povratne informacije</a>
+# Weather Widget
+experimental-features-newtab-widget-weather =
+    .label = Vremenske prognoze
+# Picture of the Day Widget
+experimental-features-newtab-widget-picture-of-the-day =
+    .label = Slika dana
+# Clocks Widget
+experimental-features-newtab-widget-clocks =
+    .label = Satovi
 # Semantic History Search
 experimental-features-semantic-history-search =
     .label = Semantičko pretraživanje povijesti

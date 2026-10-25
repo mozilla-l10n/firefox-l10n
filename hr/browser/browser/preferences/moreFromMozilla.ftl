@@ -44,3 +44,19 @@ more-from-moz-solo-title-2 = { -solo-ai-brand-name } izrađivač web-stranica po
 
 more-from-moz-mdn-description = Nauči programirati za web uz besplatne, detaljne tutorijale i poveznice.
 more-from-moz-mdn-button = Nauči programirati za web
+
+## Product card strings for the config-based path. Each entry provides both
+## .label (title) and .description for a moz-fieldset inside a moz-card.
+
+more-from-moz-mozilla-vpn-box-link =
+    .label = Nabavi { -mozilla-vpn-brand-name }
+more-from-moz-firefox-relay-box-link =
+    .label = Nabavi { -relay-brand-short-name }
+more-from-moz-mdn-box-link =
+    .label = Pristupi MDN-u
+more-from-moz-thunderbird-box-link =
+    .label = Nabavi { -thunderbird-brand-short-name }
+more-from-moz-solo-box-link =
+    .label = Isprobaj { -solo-ai-brand-name }
+more-from-moz-new-products-box-link =
+    .label = Pogledaj nove proizvode

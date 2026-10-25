@@ -1832,12 +1832,40 @@ permissions-data-section =
     .heading = Дазволы і дадзеныя
 pane-permissions-data-title2 = Дазволы і дадзеныя
     .title = Дазволы і дадзеныя
+notifications-section-header =
+    .heading = Абвесткі
+notifications-entry-card-header =
+    .description = Выберыце, якія вэб-сайты могуць адпраўляць абвесткі і як гэтыя апавяшчэнні будуць адлюстроўвацца.
+    .label = Абвесткі
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } сайт
+            [few] { $count } сайты
+           *[many] { $count } сайтаў
+        }
+    .label = Кіраваць наладамі абвестак
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Кіраваць наладамі абвестак сайтаў
+notifications-website-card-header =
+    .description = Выберыце, як сайты могуць адпраўляць абвесткі.
+    .label = Абвесткі сайтаў
 notifications-filter =
     .placeholder = Пошук вэб-сайтаў
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
     .label = Сайт
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Дазволіць абвесткі
 # Heading of the list of websites when it has no rows, because no website has a
 # stored notification decision or a search matches no website.
 notifications-list-header-empty =
@@ -1854,6 +1882,13 @@ notifications-state-allow = Дазволіць
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = Ніколі
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Абвесткі ад сайтаў не дададзены.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Абвестак ад сайтаў, якія адпавядаюць вашаму запыту, не знойдзена.
 
 ## Privacy Section - Data Collection
 

@@ -900,7 +900,7 @@ newtab-section-toast-block =
 newtab-widget-lists-empty-cta = Mogućnosti su beskrajne. Dodajte jednu.
 # A simple label next to the default list name letting users know this is a new / beta feature
 newtab-widget-lists-label-new =
-    .label = Novi
+    .label = Novo
 newtab-widget-lists-label-beta =
     .label = Beta
 # When tasks have been previous marked as complete, they will appear in their own separate list beneath incomplete items
@@ -1189,6 +1189,35 @@ newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: 
 newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Odgođeno
 newtab-sports-widget-postponed = Odgođeno
+newtab-sports-widget-cancelled = Otkazano
+newtab-sports-widget-information = Informacije o utakmici
+newtab-sports-widget-view-results-link = Prikaži rezultate
+newtab-sports-widget-third-place = Treće mjesto
+# Runner-up is the team in 2nd place.
+newtab-sports-widget-runner-up = Viceprvaci
+newtab-sports-widget-champions = Prvaci
+newtab-sports-widget-world-cup-champions = Svjetsko prvenstvo 2026.
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Kraj utakmice
+newtab-sports-widget-match-halftime = Poluvrijeme
+newtab-sports-widget-match-extra-time = Produžeci
+newtab-sports-widget-match-penalties = Penali
+# Separator shown between two teams in a placeholder match row when no upcoming
+# match details are available yet.
+newtab-sports-widget-match-vs = protiv
+
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+# arrow button that goes to the previous page of live matches.
+newtab-sports-widget-pagination-previous =
+    .aria-label = Prethodno
+    .title = Prethodno
+# arrow button that goes to the next page of live matches.
+newtab-sports-widget-pagination-next =
+    .aria-label = Sljedeće
+    .title = Sljedeće
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

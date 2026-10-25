@@ -270,6 +270,14 @@ tab-context-unnamed-group =
     .label = Neimenovana grupa
 tab-group-name-default = Neimenovana grupa
 
+## Tab Groups
+## Variables:
+##  $tabGroupName (String): The name of the tab group. See also tab-group-name-default, which will be
+##                          used when the group's name is empty.
+
+# Title placed over a list of all of the user's tab groups
+tab-groups-list-title = Grupe kartica
+
 ## When collapsed, the tab group label's aria-description will indicate
 ## whether the hover menu is open or closed.
 
@@ -353,6 +361,14 @@ tab-group-overflow-count-tooltip =
         [few] I još { $tabCount } kartice
        *[other] I još { $tabCount } kartica
     }
+
+## The tab groups list provides a list of all open tab groups and saved tab
+## groups in one place. When the user has no tab groups, the list instead
+## recommends that the user create a tab group.
+
+tab-groups-list-empty-button = Stvori grupu kartica
+# Text for a button that, when clicked, creates a new tab group
+tab-groups-list-create-group-button = Nova grupa
 
 ## Open/saved tab group context menu
 

@@ -250,6 +250,7 @@ ipprotection-message-continuous-onboarding-intro = Уключыце VPN, каб 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Устанавіце VPN на ўключэнне</a> кожны раз, калі вы адкрываеце { -brand-short-name }, каб атрымаць дадатковы ўзровень аховы.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } запомніць, якія вэб-сайты вы наладзілі на выкарыстанне VPN. Абнавіце іх у <a data-l10n-name="setting-link">наладах</a> у любы час.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN для гэтага сайта выключаны
+confirmation-hint-ipprotection-navigated-to-included-site = VPN уключаны для гэтага сайта
 ipprotection-open-button = Адкрыць { -brand-product-name }
 ipprotection-come-back-title = Вярніцеся, каб паспрабаваць убудаваны VPN
 ipprotection-message-body-hide-location = Схавайце сваё месцазнаходжанне ў часе аглядання інтэрнэту ў { -brand-product-name } для большай прыватнасці і кантролю.

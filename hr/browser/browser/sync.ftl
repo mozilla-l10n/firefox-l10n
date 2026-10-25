@@ -83,6 +83,10 @@ sync-setup-verify-heading = Stvarno se želiš prijaviti za sinkronizaciju?
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Na ovom računalu je prije bio prijavljen jedan drugi korisnik. Prijava će spojiti zabilješke, lozinke i ostale postavke na ovom računalu sa { $email }
 
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Prijavi se za slanje kartica
+
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
 # Dialog 1 - different account signing in without option to merge
