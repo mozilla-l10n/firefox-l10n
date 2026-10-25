@@ -83,6 +83,11 @@ menu-file-close-tab =
            *[other] بستن { $tabCount } بلگه
         }
     .accesskey = C
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = بستن
+    .accesskey = ب
 menu-file-close-window =
     .label = بستن نیمدری
     .accesskey = d
