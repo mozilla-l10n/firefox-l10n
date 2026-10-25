@@ -7,6 +7,7 @@ restart-required-heading2 = Žao nam je, potrebno je ponovno pokrenuti { -brand-
 window-restoration-info2 = Ponovno ćemo otvoriti sve prozore i kartice, osim privatnih.
 restart-required-why-now-question = Zašto sada?
 restart-required-more-details-heading = Više informacija
+restart-required-unsaved-work-question = Mogu li izgubiti nespremljene podatke?
 restart-button-label2 = Ponovno pokreni
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Prikaži više

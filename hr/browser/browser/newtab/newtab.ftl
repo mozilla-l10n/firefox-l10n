@@ -76,7 +76,22 @@ home-prefs-lists-header =
     .label = Popisi
 # Timer is a widget on New Tab, similar to the Pomodoro timer.
 home-prefs-timer-header =
-    .label = Timer
+    .label = Odbrojavanje
+# Sports is a widget on New Tab showing sports scores and schedules.
+home-prefs-sports-widget-header =
+    .label = Sport
+# Clock is a widget on New Tab that displays time zones around the world.
+home-prefs-clocks-header =
+    .label = Sat
+# Privacy is a widget on New Tab that shows tracking protection activity.
+home-prefs-privacy-header =
+    .label = Privatnost
+# Crossword is a widget on New Tab that shows a daily crossword puzzle.
+home-prefs-crossword-widget-header =
+    .label = Križaljka
+# Picture of the day is a widget on New Tab that shows a daily Wikimedia Commons image.
+home-prefs-picture-header =
+    .label = Slika dana
 home-prefs-mission-message2 =
     .message = Naši sponzori podržavaju našu misiju u izgradnji boljeg weba.
 home-prefs-manage-topics-link2 =
@@ -133,6 +148,11 @@ home-prefs-weather-header-srd =
 home-prefs-support-firefox-header-srd =
     .label = { -brand-product-name } podrška
 home-prefs-mission-message-learn-more-link-srd = Saznaj kako
+
+## Strings for the Privacy widget
+
+# Context menu item linking to more information about the Privacy widget.
+newtab-privacy-menu-learn-more = Saznaj više
 
 ## Privacy widget — count readout
 
@@ -277,6 +297,17 @@ newtab-picture-menu-manage-wallpaper = Upravljaj pozadinom
 newtab-picture-menu-hide-photo = Sakrij današnju sliku
 # Context menu item that restores today’s picture after it has been hidden.
 newtab-picture-menu-show-photo = Prikaži današnju sliku
+# Context menu item linking to more information about the widget.
+newtab-picture-menu-learn-more = Saznaj više
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button =
+    .aria-label = Prikaži današnju sliku
+    .title = Prikaži današnju sliku
+# Shown when there is no new picture to display yet.
+newtab-picture-check-back = Vrati se sutra za novu sliku
+# Screen-reader text alternative for the picture; fallback used when the source
+# provides no localized description.
+newtab-picture-image-alt = Slika dana s Wikimedia Commonsa
 
 ## Strings for the Travel widget
 
@@ -357,6 +388,23 @@ topsite-label-pinned =
     .aria-label = { $title } (prikvačeno)
     .title = { $title }
 
+## Top Sites - Web notifications hover card
+
+# Variables:
+#   $site (string) - The label or hostname of the site the notifications are from.
+newtab-topsites-hover-card-header = Obavijesti s { $site }
+# Relative time shown for a notification posted less than a minute ago.
+newtab-topsites-hover-card-just-now = Upravo sada
+newtab-topsites-hover-card-mark-all-read =
+    .aria-label = Označi sve kao pročitano
+    .title = Označi sve kao pročitano
+newtab-topsites-hover-card-settings =
+    .aria-label = Postavke obavijesti
+    .title = Postavke obavijesti
+newtab-topsites-hover-card-dismiss =
+    .aria-label = Odbaci
+    .title = Odbaci
+
 ## Context Menu - Action Tooltips.
 
 # General tooltip for context menus.
@@ -373,6 +421,7 @@ newtab-menu-content-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = Uredi
+newtab-menu-add-topsite = Dodaj novi prečac
 newtab-menu-open-new-window = Otvori u novom prozoru
 newtab-menu-open-new-private-window = Otvori u novom privatnom prozoru
 newtab-menu-dismiss = Odbaci
@@ -490,6 +539,9 @@ newtab-custom-shortcuts-toggle =
     .label = Prečaci
 newtab-custom-shortcuts-nova =
     .label = Prečaci
+newtab-custom-web-notifications-toggle =
+    .description = Prikaži obavijesti sa svojih stranica na njihovim prečacima
+    .label = Web obavijesti
 newtab-custom-row-description =
     .description = Broj redaka
 # Variables
@@ -522,6 +574,14 @@ newtab-custom-widget-lists-toggle =
     .label = Popisi
 newtab-custom-widget-timer-toggle =
     .label = Odbrojavanje
+newtab-custom-widget-clock-toggle =
+    .label = Sat
+newtab-custom-widget-sports-toggle2 =
+    .label = Sportovi
+newtab-custom-widget-privacy-toggle =
+    .label = Privatnost
+newtab-custom-widget-picture-toggle =
+    .label = Slika dana
 newtab-custom-widget-section-title = Widgeti
 newtab-custom-widget-section-toggle =
     .label = Widgeti
@@ -533,6 +593,29 @@ newtab-custom-close-menu-button =
     .aria-label = Zatvori izbornik
     .title = Zatvori
 newtab-custom-settings = Upravljaj dodatnim postavkama
+
+## New Tab Appearance (browser theme picker)
+
+# Title of the browser theme ("Appearance") section in the customize panel.
+newtab-custom-appearance-section-title = Izgled
+# Button that opens the full browser theme selection view.
+newtab-appearance-more-themes-button =
+    .label = Prikaži više tema
+# Title of the full theme selection sub-panel, also used as its back button label.
+newtab-appearance-manage-title = { -brand-product-name } teme
+# Header for the list of the user's already-installed themes in the full theme panel.
+newtab-appearance-your-themes-header = Tvoje teme
+# Button that enables an already-installed theme.
+newtab-appearance-enable-theme-button =
+    .label = Omogući
+# Button that disables the active theme and reverts to the default.
+newtab-appearance-disable-theme-button =
+    .label = Onemogući
+# Button that installs a theme.
+newtab-appearance-install-theme-button =
+    .label = Instaliraj temu
+# Button/link on the full theme panel that opens the complete list of available themes.
+newtab-appearance-explore-more-themes-button = Otkrij još tema
 
 ## New Tab Wallpapers
 
@@ -701,6 +784,9 @@ newtab-weather-change-location-search-input-placeholder =
 newtab-weather-cancel-input =
     .aria-label = Odustani
     .title = Odustani
+# "Current" refers to the user's physical/geographic location detected via geolocation.
+newtab-weather-change-location-search-use-current =
+    .label = Koristi trenutnu lokaciju
 newtab-weather-menu-weather-display = Prikaz vremena
 newtab-weather-todays-forecast = Današnja vremenska prognoza
 newtab-weather-see-full-forecast = Pogledaj cijelu vremensku prognozu
@@ -788,8 +874,16 @@ newtab-topic-selection-button-pick-interests = Odaberi tvoje interese
 ## e.g. Following the travel section of stories.
 
 newtab-section-follow-button = Prati
+# Variables:
+#   $topic (string) - Topic that the user can follow
+newtab-section-follow-button-label =
+    .aria-label = Prati { $topic }
 newtab-section-following-button = Praćenje
 newtab-section-unfollow-button = Prestani pratiti
+# Variables:
+#   $topic (string) - Topic that the user is following and can unfollow
+newtab-section-unfollow-button-label =
+    .aria-label = Prati se: prestani pratiti temu „{ $topic }”
 # A modal may appear next to the Follow button, directing users to try out the feature
 newtab-section-follow-highlight-title = Podesi svoj feed
 newtab-section-follow-highlight-subtitle = Prati svoje interese i vidi više onoga što ti se sviđa.
@@ -809,6 +903,22 @@ newtab-topic-navigation-more-button = Više
 newtab-section-block-button = Blokiraj
 newtab-section-blocked-button = Blokirano
 newtab-section-unblock-button = Odblokiraj
+# Variables:
+#   $topic (string) - Name of topic that user is following
+newtab-section-follow-topic =
+    .aria-label = Prati temu „{ $topic }”
+# Variables:
+#   $topic (string) - Name of topic that user is unfollowing
+newtab-section-unfollow-topic =
+    .aria-label = Prestani pratiti temu „{ $topic }”
+# Variables:
+#   $topic (string) - Name of topic that user is blocking
+newtab-section-block-topic =
+    .aria-label = Blokiraj temu „{ $topic }”
+# Variables:
+#   $topic (string) - Name of topic that user is unblocking
+newtab-section-unblock-topic =
+    .aria-label = Deblokiraj temu „{ $topic }”
 
 ## Confirmation modal for blocking a section
 
@@ -838,6 +948,12 @@ newtab-custom-wallpaper-cta = Isprobaj
 newtab-new-user-custom-wallpaper-title = Odaberi pozadinu te prilagodi { -brand-product-name } sebi
 newtab-new-user-custom-wallpaper-subtitle = Neka svaka nova kartice pruža osjećaj doma uz prilagođene pozadine i boje.
 newtab-new-user-custom-wallpaper-cta = Isprobajte sada
+
+## Strings for Nova wallpaper feature highlight
+
+newtab-wallpaper-feature-highlight-title = Upravo su stigle nove pozadine
+newtab-wallpaper-feature-highlight-subtitle = Odaberi omiljenu pozadinu i osjećaj se na svakoj novoj kartici kao doma.
+newtab-wallpaper-feature-highlight-cta = Odaberi pozadinu
 
 ## Strings for download mobile highlight
 
@@ -907,6 +1023,8 @@ newtab-widget-lists-label-beta =
 # Variables:
 #   $number (number) - Amount of list items marked complete
 newtab-widget-lists-completed-list = Završeno ({ $number })
+newtab-widget-lists-celebration-headline = Dobar posao
+newtab-widget-lists-celebration-subhead = Sve je čisto
 newtab-widget-task-list-menu-copy = Kopiraj
 newtab-widget-lists-menu-edit = Uredi naziv popisa
 newtab-widget-lists-menu-edit2 =
@@ -929,12 +1047,22 @@ newtab-widget-lists-input-menu-move-up = Pomakni gore
 newtab-widget-lists-input-menu-move-down = Pomakni dolje
 newtab-widget-lists-input-menu-delete = Obriši
 newtab-widget-lists-input-menu-edit = Uredi
+newtab-widget-lists-input-menu-edit2 =
+    .aria-label = Uredi stavku
+newtab-widget-lists-edit-clear =
+    .aria-label = Odustani
+    .title = Odustani
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Stvori novi popis
 newtab-widget-lists-name-label-default =
     .label = Popis zadataka
+newtab-widget-lists-name-label-checklist =
+    .label = Popis zadataka
 newtab-widget-lists-name-placeholder-default =
+    .placeholder = Popis zadataka
+newtab-widget-lists-name-placeholder-checklist2 =
+    .aria-label = Uredi naziv popisa
     .placeholder = Popis zadataka
 # The placeholder value of the name field for a newly created list
 newtab-widget-lists-name-placeholder-new2 =
@@ -943,6 +1071,9 @@ newtab-widget-lists-name-placeholder-new2 =
 newtab-widget-section-title = Widgeti
 newtab-widget-menu-hide = Sakrij widget
 newtab-widget-menu-change-size = Promijeni veličinu
+# Parent label for a submenu in the widget menu that reorders the widget
+# among its siblings. "Left" and "Right" appear as items inside this submenu.
+newtab-widget-menu-move = Premjesti
 # Submenu item under "Move"; moves the widget one position to the left.
 # RTL locales should translate this as "Right".
 newtab-widget-menu-move-left = Lijevo
@@ -1189,6 +1320,7 @@ newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: 
 newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
 newtab-sports-widget-delayed = Odgođeno
 newtab-sports-widget-postponed = Odgođeno
+newtab-sports-widget-suspended = Zaustavljeno
 newtab-sports-widget-cancelled = Otkazano
 newtab-sports-widget-information = Informacije o utakmici
 newtab-sports-widget-view-results-link = Prikaži rezultate
@@ -1218,6 +1350,78 @@ newtab-sports-widget-pagination-previous =
 newtab-sports-widget-pagination-next =
     .aria-label = Sljedeće
     .title = Sljedeće
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Utakmica uživo { $index } od { $total }
+    .title = Utakmica uživo { $index } od { $total }
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore } protiv { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }) protiv { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = Uživo: { $homeTeam }, { $homeScore } protiv { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } protiv { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } protiv { $awayTeam }, odgođeno
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } protiv { $awayTeam }, odgođeno
+# An upcoming match row whose status is "cancelled".
+newtab-sports-widget-match-aria-label-upcoming-cancelled =
+    .aria-label = { $homeTeam } protiv { $awayTeam }, otkazano
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+newtab-sports-widget-team-name-label-bih =
+    .label = Bosna i Hercegovina
+newtab-sports-widget-team-name-label-civ =
+    .label = Obala Bjelokosti
+newtab-sports-widget-team-name-label-cod =
+    .label = DR Kongo
+newtab-sports-widget-team-name-label-eng =
+    .label = Engleska
+newtab-sports-widget-team-name-label-sco =
+    .label = Škotska
+
+## World Cup wallpaper OMC messages
+## Shown as on-screen messages promoting the World Cup wallpapers.
+
+newtab-sports-widget-message-wallpapers-cta = Odaberi pozadinu
+newtab-sports-widget-message-add-widgets-cta =
+    .label = Dodaj widgete
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Istraži widgete
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1243,6 +1447,13 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the Clock widget
 
+# Context menu item: toggle the clock card off.
+newtab-clock-widget-menu-hide = Sakrij sat
+newtab-clock-widget-menu-learn-more = Saznaj više
+newtab-clock-widget-menu-edit = Uredi satove
+newtab-clock-widget-menu-switch-to-12h = Prebaci se na 12-satni format
+newtab-clock-widget-menu-switch-to-24h = Prebaci se na 24-satni format
+newtab-clock-widget-label-your-clocks = Tvoji satovi
 newtab-clock-widget-search-location-input =
     .aria-label = Traži grad
     .label = Lokacija

@@ -89,4 +89,5 @@ about-private-browsing-spotlight-basics-what-to-know = Što treba znati
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Više zaštita privatnosti
+about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } te automatski upozorava na zlonamjerni softver i zavaravajuće stranice.
 about-private-browsing-spotlight-basics-learn-more = Saznaj više

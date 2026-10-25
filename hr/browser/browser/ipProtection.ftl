@@ -124,10 +124,20 @@ ipprotection-locations-subview =
 ipprotection-locations-subview-description = Odaberi drugu lokaciju za pregledavanje.
 ipprotecion-locations-subview-recommended-label = Preporučeno
 ipprotection-locations-subview-recommended-description = Pronađi najbržu lokaciju
+# Label shown next to a VPN location that the user cannot select.
+# The aria-label is for accessibility, and should communicate that the
+# location is unavailable and the button is disabled.
+ipprotection-locations-unavailable-label-1 = Nedostupno
+    .aria-label = Nedostupno, onemogućeno
+# Label shown next to a VPN location that the user cannot select.
+ipprotection-locations-unavailable-label = Nedostupno
+ipprotection-locations-subview-promo-button = Nabavi { -mozilla-vpn-brand-name }
 
 ## VPN paused state
 
 upgrade-vpn-button = Isprobaj { -mozilla-vpn-brand-name }
+ipprotection-connection-status-paused-title-2 = VPN je pauziran
+    .aria-label = VPN je pauziran
 
 ## Messages and errors
 
@@ -152,6 +162,8 @@ ipprotection-message-bandwidth-warning-mb =
     .message = Preostalo ti je { $usageLeft } GB od { $maxUsage } GB u ovom mjesecu.
 ipprotection-message-continuous-onboarding-intro = Uključi VPN za skrivanje tvoje lokacije i dodavanje dodatnog šifriranja za pregledavanje.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN je isključen za ovu web-stranicu
+ipprotection-open-button = Otvori { -brand-product-name }
+ipprotection-come-back-title = Vrati se da isprobaš ugrađeni VPN
 ipprotection-connection-status-generic-error-title-1 = Neuspjelo povezivanje VPN-om
     .aria-label = Neuspjelo povezivanje VPN-om
 
@@ -160,7 +172,13 @@ ipprotection-connection-status-generic-error-title-1 = Neuspjelo povezivanje VPN
 ip-protection-description =
     .description = Ugrađeni VPN za poboljšanu privatnost tijekom pregledavanja u { -brand-short-name(case: "loc") }
     .label = VPN
+ip-protection-description-1 =
+    .description = Ugrabi dodatnu privatnost sakrivanjem svoje lokacije tijekom pregledavanja.
+    .label = Ugrađeni VPN
 ip-protection-learn-more = Saznaj više
+ip-protection-not-opted-in-4 =
+    .heading = Isprobaj VPN ugrađen u { -brand-short-name }
+    .message = Pregledavaj uz dodatnu zaštitu sakrivanjem svoje lokacije.
 ip-protection-not-opted-in-button = Započni
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -194,6 +212,11 @@ ip-protection-exclusions-desc = Koristi VPN za sve web-stranice osim onih na ovo
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-gb = { $usageLeft } GB od { $maxUsage } GB preostalo ovaj mjesec
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (string) - The amount of data a user has left in a month (in GB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-gb-1 = Preostalo <span data-l10n-name="usage">{ $usageLeft } GB</span> od { $maxUsage } GB
 # Variables
 #   $usageLeft (string) - The amount of data a user has left in a month (in GB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -202,6 +225,11 @@ ip-protection-bandwidth-left-gb = { $usageLeft } GB od { $maxUsage } GB preost
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 ip-protection-bandwidth-left-this-month-mb = { $usageLeft } MB od { $maxUsage } GB preostalo ovaj mjesec
+# The text inside the <span> is emphasized to highlight the amount of data left.
+# Variables
+#   $usageLeft (number) - The amount of data a user has left in a month (in MB)
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-bandwidth-left-mb-1 = Preostalo <span data-l10n-name="usage">{ $usageLeft } MB</span> od { $maxUsage } GB
 # Variables
 #   $usageLeft (number) - The amount of data a user has left in a month (in MB)
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
@@ -228,6 +256,12 @@ vpn-paused-alert-title = VPN je pauziran
 # Variables
 #   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
 vpn-paused-alert-body = Iskoristio/la si svih { $maxUsage } GB tvojih VPN podataka. Pristup VPN-u će se resetirati sljedeći mjesec.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+vpn-error-page-paused-description = Iskorišteno je svih { $maxUsage } GB tvojih VPN podataka. Pristup će se ponovno postaviti sljedeći mjesec.
+vpn-error-page-continue-description = Odaberi kako nastaviti bez VPN-a
+vpn-error-page-keep-browsing = Nastavi pregledavati u ovoj sesiji
+vpn-error-page-new-session = Započni novu sesiju
 vpn-paused-alert-close-tabs-button = Zatvori sve kartice
 vpn-paused-alert-continue-wo-vpn-button = Nastavi bez VPN-a
 vpn-error-alert-title = VPN trenutačno ne radi.

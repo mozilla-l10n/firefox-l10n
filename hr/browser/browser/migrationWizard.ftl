@@ -188,6 +188,8 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Završeno
 migration-safari-password-import-header = Uvezi lozinke iz Safarija
+migration-safari-password-import-post-sequoia-step3 = Spremi datoteku
+migration-safari-password-import-post-sequoia-step4 = Odaberi spremljenu datoteku
 migration-safari-password-import-steps-header = Za uvoz Safari lozinki:
 migration-safari-password-import-step1 = U pregledniku Safari otvori izbornik „Safari” i idi na Postavke > Lozinke
 migration-safari-password-import-step2 = Odaberi gumb <img data-l10n-name="safari-icon-3dots"/> i odaberi opciju „Izvezi sve lozinke”
@@ -200,6 +202,7 @@ migration-chrome-windows-password-import-step2 = U izborniku odaberi „Postavke
 migration-chrome-windows-password-import-step3 = Odaberi „Preuzmi datoteku” i spremi je na svoj uređaj.
 migration-chrome-windows-password-import-step4 = Vrati se ovamo i odaberi „Odaberi datoteku” za završavanje uvoza.
 migration-manual-password-import-skip-button = Preskoči
+migration-manual-password-import-cancel-button = Odustani
 migration-manual-password-import-select-button = Odaberi datoteku
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.

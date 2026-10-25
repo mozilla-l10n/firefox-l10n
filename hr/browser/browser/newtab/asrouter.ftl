@@ -258,6 +258,17 @@ launch-on-login-infobar-final-message = <strong>Otvoriti { -brand-short-name } s
 launch-on-login-infobar-final-reject-button = Ne hvala
     .accesskey = N
 
+## Launch on login spotlight
+##
+## Shown as a spotlight message when the user closes the browser, offering to set
+## { -brand-short-name } to launch when the computer starts up.
+
+launch-on-login-spotlight-pin-taskbar-checkbox = Prikvači na programsku traku
+# This checkbox label intentionally matches “startup-restore-windows-and-tabs”
+# in the Settings (preferences.ftl). Localizers can reuse the existing
+# translation suggested by translation memory.
+launch-on-login-spotlight-restore-checkbox = Otvori prethodne prozore i kartice
+
 ## Tail Fox Set Default Spotlight
 
 # This title is displayed together with the picture of a running fox with a long tail.
@@ -371,6 +382,11 @@ windows-10-eos-feature-toast-subtitle = Na zahtjev mnogih, { -brand-product-name
 windows-10-eos-feature-toast-whats-new-button = Pogledaj što je novo
 windows-10-eos-feature-toast-dismiss-button = Odbaci
 
+## Windows 10 EoS Global Infobar
+
+windows-10-eos-global-infobar-learn-more-link = Saznaj više
+    .accessKey = S
+
 ## ETP (Enhanced Tracking Protection) Strict exceptions infobar
 ##
 ## These strings are displayed in an infobar notification that appears when
@@ -399,6 +415,13 @@ set-default-menu-message-row-layout-subtitle-variant =
     }
 set-default-menu-message-primary-button = Postavi kao zadano
 set-default-menu-message-primary-button-variant = Postavi kao primarni preglednik
+
+## Firefox Relay 50 Masks Announcement
+
+relay-50-masks-announcement-primary-button = Idi na { -relay-brand-name }
+    .accesskey = I
+relay-50-masks-announcement-secondary-button = Odbaci
+    .accesskey = d
 
 ## Refresh Firefox infobar
 ##
