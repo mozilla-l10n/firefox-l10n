@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = Annak a megakadályozása, hogy a { -brand-short-
 policy-DisableForgetButton = Az Elfelejtés gombhoz hozzáférés megakadályozása.
 policy-DisableFormHistory = Ne jegyezze meg a keresőmezők és űrlapmezők előzményeit.
 policy-DisableLaunchOnLogin = A { -brand-short-name } automatikus elindulásának megakadályozása, amikor a felhasználó bejelentkezik.
+policy-DisableMacOSUserPolicies = A felhasználói beállításokból és a macOS felhasználói hatókörének konfigurációs profiljaiból származó házirendek figyelmen kívül hagyása.
 policy-DisablePrimaryPasswordCreation = Ha igaz, akkor nem hozható létre elsődleges jelszó.
 policy-DisablePasswordReveal2 = Ne engedje, hogy a mentett bejelentkezésekben szereplő jelszavak megjelenítésre kerüljenek.
 policy-DisablePrivateBrowsing = Privát böngészés letiltása.

@@ -167,6 +167,9 @@ permissions-site-xr-disable-desc = Ez megakadályozza, hogy a fent fel nem sorol
 ## App links are links that a website can ask to open for you, like email
 ## (mailto:) links. Sites in this list are blocked from asking.
 
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Beállítások – Alkalmazáshivatkozások blokkolt webhelyei
 permissions-site-app-links-desc = Ezeknél a webhelyeknél blokkolva van, hogy alkalmazáshivatkozások – például az e-mailek (mailto:), megnyitását kérjék. Távolítson el egy webhelyet, hogy újra rákérdezzen.
 
 ## Site Permissions - Camera

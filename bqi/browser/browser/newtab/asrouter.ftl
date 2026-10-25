@@ -287,6 +287,8 @@ relay-50-masks-announcement-secondary-button = رڌ کردن
 
 ## Nova Early Access Infobar
 
+nova-early-access-share-feedback-link = یک رسۊوی منشڌ
+    .accesskey = ی
 nova-early-access-infobar-primary-button = فئمیم
     .accesskey = G
 
@@ -295,6 +297,7 @@ nova-early-access-infobar-primary-button = فئمیم
 ## Shown as a spotlight prompt on browser close or launch, offering
 ## launch-on-login, taskbar pinning, and session restore.
 
+launch-options-spotlight-title-launch-on-login = هر سا ک و من ویندووز ایاین، { -brand-short-name } ره بوۊفته؟
 launch-options-spotlight-checkbox-pin-to-taskbar = و تسکبار بدیسه
 # Primary button on the browser-close prompt
 launch-options-spotlight-primary-button-close = زفت کردن وو بستن { -brand-short-name }
