@@ -943,6 +943,12 @@ newtab-widget-lists-name-placeholder-new2 =
 newtab-widget-section-title = Widgeti
 newtab-widget-menu-hide = Sakrij widget
 newtab-widget-menu-change-size = Promijeni veličinu
+# Submenu item under "Move"; moves the widget one position to the left.
+# RTL locales should translate this as "Right".
+newtab-widget-menu-move-left = Lijevo
+# Submenu item under "Move"; moves the widget one position to the right.
+# RTL locales should translate this as "Left".
+newtab-widget-menu-move-right = Desno
 newtab-widget-size-small = Mali
 newtab-widget-size-medium = Srednji
 newtab-widget-size-large = Veliki
@@ -961,8 +967,25 @@ newtab-widget-section-minimize =
 newtab-widget-section-show-widgets =
     .aria-label = Prikaži odjeljak widgeta
     .title = Prikaži widgete
+newtab-widget-section-menu-button =
+    .aria-label = Otvori izbornik widgeta
+    .title = Izbornik widgeta
+newtab-widget-add-widgets-button =
+    .aria-label = Dodaj widget
+    .title = Dodaj widget
 newtab-widget-section-menu-manage = Upravljaj widgetima
+newtab-widget-section-menu-hide-all = Sakrij widgete
+newtab-widget-section-menu-learn-more = Saznaj više
 newtab-widget-section-feedback = Reci nam svoje mišljenje
+# Button shown when additional widgets are hidden beyond the
+# first row, allowing users to show them.
+newtab-widget-section-show-more =
+    .label = Prikaži više widgeta
+# Button shown when the widgets row is expanded to multiple rows,
+# allowing users to collapse it back to one row.
+newtab-widget-section-show-less =
+    .label = Prikaži manje widgeta
+newtab-widget-lists-name-default = Popis zadataka
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
@@ -992,6 +1015,8 @@ newtab-daily-briefing-card-timestamp = Aktualizirano prije { $minutes } min
 newtab-widget-message-title = Ostanite fokusirani uz popise i ugrađeno odbrojavanje
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Od brzih podsjetnika do dnevnih obaveza, sesija za fokusiranje do pauza za istezanje — ostanite usredotočeni na zadatak i na vrijeme.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Jedno mjesto za fokus, prognozu i još toga
 # "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
 # is to customize the new tab page with a background image or color from
 # the built-in wallpaper collection or uploading your own image.
@@ -1007,6 +1032,43 @@ newtab-promo-card-dismiss-button =
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Pokreni odbrojavanje od { $minutes } minute
+            [few] Pokreni odbrojavanje od { $minutes } minute
+           *[other] Pokreni odbrojavanje od { $minutes } minuta
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Pauziraj odbrojavanje
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-spinbutton-name =
+    .aria-label =
+        { $minutes ->
+            [one] { $minutes } minuta
+            [few] { $minutes } minute
+           *[other] { $minutes } minuta
+        }
+newtab-widget-timer-decrease-min =
+    .title = Smanji za 1 minutu
+newtab-widget-timer-increase-min =
+    .title = Povećaj za 1 minutu
+newtab-widget-timer-mode-group =
+    .aria-label = Način odbrojavanja
+# Small label shown beneath the live time while the focus timer is running or paused.
+newtab-widget-timer-running-focus = Fokus
+# Small label shown beneath the live time while the break timer is running or paused.
+newtab-widget-timer-running-break = Pauza
+# Context-menu item to hide the Timer widget. Replaces the shared "Hide widget"
+# copy with a widget-specific string per the Nova design.
+newtab-widget-timer-menu-hide = Sakrij odbrojavanje
+# Heading shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-heading-focus = Dobar posao
+# Heading shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-heading-break = Tvoja pauza je gotova
 # Message shown inside the Timer widget after a focus session ends.
 newtab-widget-timer-celebration-message-focus = Trebaš pauzu?
 # Message shown inside the Timer widget after a break session ends.
@@ -1103,6 +1165,30 @@ newtab-sports-widget-group-l = Grupa L
 newtab-sports-widget-round-32 = Šesnaestina finala
 newtab-sports-widget-round-16 = Osmina finala
 newtab-sports-widget-quarter-finals = Četvrt finala
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = UŽIVO
+newtab-custom-widget-live-refresh =
+    .aria-label = Osvježi rezultate
+    .title = Osvježi rezultate
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-key-dates = Ključni datumi
+newtab-sports-widget-upcoming = Nadolazeće
+# Used for a match currently ongoing
+newtab-sports-widget-now = Sada
+newtab-sports-widget-results = Rezultati
+newtab-sports-widget-semi-finals = Polufinale
+newtab-sports-widget-bronze-finals = Utakmica za broncu
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Finale
+# Variables:
+#   $start (Date) - Start date of a tournament stage
+#   $end (Date) - End date of a tournament stage
+newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
+newtab-sports-widget-delayed = Odgođeno
+newtab-sports-widget-postponed = Odgođeno
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input

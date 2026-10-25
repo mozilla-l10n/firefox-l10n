@@ -4,6 +4,7 @@
 
 restart-required-title = Potrebno je ponovno pokretanje
 restart-required-heading2 = Žao nam je, potrebno je ponovno pokrenuti { -brand-short-name }
+restart-required-why-now-question = Zašto sada?
 restart-required-more-details-heading = Više informacija
 restart-button-label2 = Ponovno pokreni
 # Expands the "More details" section below the buttons.

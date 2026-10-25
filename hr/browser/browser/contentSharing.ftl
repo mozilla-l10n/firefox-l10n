@@ -45,6 +45,17 @@ content-sharing-modal-too-many-links-2 =
 content-sharing-modal-no-shareable-links =
     .heading = Nema poveznica za dijeljenje
     .message = Dijeliti se mogu samo poveznice na web sadržaj.
+# Variables:
+#   $count (Number) - The maximum number of pages a user can share at one time
+content-sharing-modal-too-many-pages =
+    .heading =
+        { $count ->
+            [one] Podijelio/la si { $count } stranicu
+            [few] Podijelio/la si { $count } stranice
+           *[other] Podijelio/la si { $count } stranica
+        }
+    .message = Pokušaj ponovno nakon što istekne jedna od tvojih stranica.
+content-sharing-modal-some-invalid-links = Neke poveznice se ne mogu podijeliti.
 content-sharing-modal-generic-error-2 =
     .heading = Dogodila se neka greška
     .message = Trenutno nismo mogli stvoriti tvoju dijeljenu stranicu. Pokušaj ponovo kasnije.

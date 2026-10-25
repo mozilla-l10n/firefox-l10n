@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Sesli oku
+narrate-rate-input =
+    .aria-label = -10 ile 100 arasında bir konuşma hızı seçin. Varsayılan hız 0’dır.
+    .title = Hız
 narrate-rate-slow =
     .title = Anlatımı yavaşlat
 narrate-rate-fast =

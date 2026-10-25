@@ -309,6 +309,8 @@ quickactions-cmd-help = pomoć, podrška
 # Opens the devtools web inspector
 quickactions-inspector2 = Otvori alate za programere
 quickactions-cmd-inspector2 = inspektor, programerski alati
+# Opens the devtools eyedropper to pick a color from the page
+quickactions-colorpicker = Odaberi boju
 # Opens Firefox Library
 quickactions-cmd-library = biblioteka
 quickactions-library = Otvori biblioteku
@@ -321,6 +323,9 @@ quickactions-cmd-print = ispis
 # Opens the print dialog at the save to PDF option
 quickactions-savepdf = Spremi stranicu kao PDF
 quickactions-cmd-savepdf2 = pdf, spremi stranicu
+# Opens about:pdf, the PDF editor landing page
+quickactions-editpdf = Otvori uređivač PDF-ova
+quickactions-cmd-editpdf = pdf
 # Opens a new private browsing window
 quickactions-private2 = Otvori privatni prozor
 quickactions-cmd-private = privatno pregledavanje
@@ -352,6 +357,8 @@ quickactions-cmd-update = aktualiziraj
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Prikaži izvorni kod stranice
 quickactions-cmd-viewsource2 = prikaži izvorni kod, izvorni kod, izvorni kod stranice
+# Opens about:preferences:experimental (Firefox Labs)
+quickactions-labs = Otvori { -firefoxlabs-brand-name }
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Saznaj više o brzim radnjama
@@ -428,7 +435,10 @@ identity-clear-site-data =
     .label = Izbriši kolačiće i podatke stranica …
 identity-connection-not-secure-security-view = Nisi sigurno povezan/a na ovu stranicu.
 identity-connection-verified = Sigurno si povezan/a na ovu stranicu.
+identity-ev-owner-label2 = Certifikat je izdan za
+identity-verifier-label2 = Potvrđuje
 identity-ev-owner-label = Certifikat izdan za:
+identity-verifier-label = Potvrđuje:
 # "qualified" here refers to the qualified website authentication certificate presented by the site.
 identity-etsi = Kvalificirano prema Uredbi (EU) 2024/1183.
 identity-description-custom-root2 = Mozilla ne prepoznaje ovog izdavatelja certifikata. Možda ga je dodao tvoj operacijski sustav ili administrator.

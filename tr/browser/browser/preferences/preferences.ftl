@@ -1844,6 +1844,11 @@ notifications-entry-manage-button =
            *[other] { $count } web sitesi
         }
     .label = Bildirim ayarlarını yönet
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Web sitesi bildirim ayarlarını yönet
 notifications-website-card-header =
     .description = Web sitelerinin nasıl bildirim gönderebileceğini seçin.
     .label = Web sitesi bildirimleri

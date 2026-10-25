@@ -63,6 +63,7 @@ ipprotection-site-settings-callout-button = Razumijem
 
 ipprotection-location-selection-callout-title = Novo: promijeni svoje mjesto
 ipprotection-location-selection-callout-primary-button = Isprobaj
+ipprotection-location-selection-callout-secondary-button = Odbaci
 
 ## VPN for Android promo callout
 
@@ -84,6 +85,7 @@ site-exclusion-toggle-enabled-1 =
 site-exclusion-toggle-disabled-1 =
     .aria-label = VPN je isključen za ovu web-stranicu
     .label = Koristi VPN za ovu web-stranicu
+site-exclusion-toggle-description = Stranica ne radi? Probaj isključiti VPN.
 ipprotection-settings-link =
     .label = Postavke
 
@@ -106,6 +108,22 @@ ipprotection-connection-status-excluded-1 = VPN je isključen za ovu web-stranic
     .aria-label = VPN je isključen za ovu web-stranicu
 ipprotection-connection-status-connecting-1 = VPN se spaja …
     .aria-label = VPN se spaja …
+
+## Location controls
+
+# The button displays the selected VPN location.
+# This shows the default selection, "Recommended" which is the recommended location as determined by Firefox.
+ipprotection-recommended-location-button = Lokacija: preporučeno
+ipprotection-recommended-location-description = { -brand-product-name } pronalazi najbržu lokaciju
+ipprotection-recommended-location-badge = NOVO
+# Variables
+#   $country (string) - The country selected for the VPN server location
+ipprotection-location-country-button = Lokacija: { $country }
+ipprotection-locations-subview =
+    .title = Odaberi lokaciju
+ipprotection-locations-subview-description = Odaberi drugu lokaciju za pregledavanje.
+ipprotecion-locations-subview-recommended-label = Preporučeno
+ipprotection-locations-subview-recommended-description = Pronađi najbržu lokaciju
 
 ## VPN paused state
 
