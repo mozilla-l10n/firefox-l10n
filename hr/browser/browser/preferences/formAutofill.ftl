@@ -112,6 +112,10 @@ autofill-card-number = Broj kreditne kartice
 autofill-card-invalid-number = Upiši ispravan broj kreditne kartice
 autofill-card-name-on-card-2 =
     .label = Ime na kreditnoj kartici
+autofill-card-expires-month-2 =
+    .label = Mjesec isteka
+autofill-card-expires-year-2 =
+    .label = Godina isteka
 autofill-card-billing-address-2 =
     .label = Adresa za naplatu
 autofill-card-name-on-card = Ime na kreditnoj kartici
@@ -119,3 +123,34 @@ autofill-card-expires-month = Mjesec isteka
 autofill-card-expires-year = Godina isteka
 autofill-card-billing-address = Adresa za naplatu
 autofill-card-network = Vrsta kreditne kartice
+# This string is never actually displayed, but is used to make it easier to
+# find the payment methods section of about:settings via the search input. It's
+# simply a comma separated list of additional search keywords for the payment
+# methods section. Localizers should choose terms that make sense for payment
+# methods in their region.
+autofill-card-search-term-credit-cards = kreditne kartice, kreditna, kartice, debitne kartice, debitna, novčanik, blagajna
+
+## The passport autofill management dialog in browser preferences
+
+# The dialog title for creating a passport in browser preferences.
+autofill-add-passport-title = Dodaj putovnicu
+# The dialog title for editing a passport in browser preferences.
+autofill-edit-passport-title = Uredi putovnicu
+
+## Passport field labels shared by the passport capture doorhanger and the
+## passport management dialog. The labels are exposed as a .label attribute so
+## they can be assigned directly to moz-input-text and moz-select fields.
+
+autofill-passport-name =
+    .label = Ime
+autofill-passport-country =
+    .label = Država
+autofill-passport-number =
+    .label = Broj
+# Heading shown above the passport issue date fields.
+autofill-passport-issue-date = Datum izdavanja
+# Heading shown above the passport expiration date fields.
+autofill-passport-expiry-date = Valjana do
+# Month dropdown label for passport dates.
+autofill-passport-date-month =
+    .label = MM

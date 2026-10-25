@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Postavi pravila kojima će WebExtensions moći pristupiti putem chrome.storage.managed.
+policy-AIControls = Konfiguriraj kontrole umjetne inteligencije.
 policy-AllowedDomainsForApps = Definiraj domene kojima je dopušten pristup Google Workspaceu.
 policy-AllowFileSelectionDialogs = Dopusti dijaloške okvire za biranje datoteke.
 policy-AppAutoUpdate = Aktiviraj ili deaktiviraj automatsko aktualiziranje programa.

@@ -57,6 +57,15 @@ mr1-onboarding-theme-label-dark = Tamna
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 onboarding-theme-primary-button-label = Gotovo
 
+## Accessible labels for the icon-only play/pause toggle that controls animated
+## illustrations on the onboarding screen. The button replaces the animation
+## with a static image when clicked.
+
+onboarding-animation-pause-button =
+    .aria-label = Zaustavi animaciju
+onboarding-animation-play-button =
+    .aria-label = Pokreni animaciju
+
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
 ## doesn't become too long. Line breaks will be preserved when displaying the
@@ -379,6 +388,11 @@ onboarding-checklist-pin = Prikvači { -brand-short-name } na programsku traku
 onboarding-checklist-import = Uvezi iz prethodnog preglednika
 onboarding-checklist-extension = Dodaj proširenje
 onboarding-checklist-sign-up = Registriraj se ili se prijavi na svoj račun
+onboarding-checklist-minimize =
+    .label = Minimiziraj
+onboarding-checklist-remove =
+    .label = Ukloni popis zadataka
+onboarding-checklist-remove-2 = Ukloni popis zadataka
 
 ## Tab Groups feature onboarding strings
 
@@ -514,3 +528,17 @@ onboarding-refresh-pin-set-default-subtitle = Štitimo tvoje podatke i blokiramo
 # If it doesn’t translate well, you can use the alternative: “You’re safe with Firefox.”
 onboarding-refresh-pin-set-default-title = U sigurnim su rukama
 onboarding-refresh-import-subtitle = Prenesi svoje lozinke, zabilješke, povijest i još više.
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-accept = Prihvati
+smartwindow-existing-user-fx-tou-go-back = Idi natrag
+
+## Smart Window about:welcome screen
+
+smartwindow-onboarding-primary-button = Nastavi
+
+## Theme Picker screen strings
+
+onboarding-theme-picker-title = Odaberi temu
+onboarding-theme-picker-button-label = Spremi i nastavi

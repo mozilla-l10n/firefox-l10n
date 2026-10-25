@@ -4,6 +4,13 @@
 
 containers-window-close =
     .key = w
+containers-name-label2 =
+    .label = Naziv
+    .placeholder = Dodaj naziv
+containers-icon-label2 =
+    .label = Ikona
+containers-color-label2 =
+    .label = Boja
 containers-dialog =
     .buttonlabelaccept = Gotovo
     .buttonaccesskeyaccept = G

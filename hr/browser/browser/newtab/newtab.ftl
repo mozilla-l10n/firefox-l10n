@@ -1012,6 +1012,98 @@ newtab-widget-timer-celebration-message-focus = Trebaš pauzu?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = Spreman/na za fokusiranje?
 
+##
+
+newtab-sports-widget-menu-follow-teams = Prati ekipe
+newtab-sports-widget-menu-view-schedule = Prikaži raspored
+newtab-sports-widget-menu-view-upcoming = Prikaži nadolazeće
+newtab-sports-widget-menu-view-results = Prikaži rezultate
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Ključni datumi
+newtab-sports-widget-menu-learn-more = Saznaj više
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Ostani u toku sa Svjetskim prvenstvom
+newtab-sports-widget-get-updates = Primaj aktualiziranja utakmica uživo i još više.
+newtab-sports-widget-follow-teams =
+    .label = Prati ekipe
+newtab-sports-widget-view-matches =
+    .label = Prikaži utakmice
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Prati do { $number } ekipe
+        [few] Prati do { $number } ekipe
+       *[other] Prati do { $number } ekipa
+    }
+newtab-sports-widget-choose-wallpaper =
+    .label = Odaberi pozadinu
+newtab-sports-widget-skip = Preskoči
+newtab-sports-widget-search-country =
+    .aria-label = Traži državu
+    .placeholder = Traži državu
+newtab-sports-widget-cancel = Odustani
+newtab-sports-widget-back-button =
+    .aria-label = Natrag
+newtab-sports-widget-done-button =
+    .label = Gotovo
+# Shown in the follow-teams list for a team that has been knocked out of the tournament.
+# Variables:
+#   $teamName (string) - the localized team name (e.g. "Canada").
+newtab-sports-widget-team-name-eliminated = { $teamName } (izbačeni)
+newtab-sports-widget-view-all =
+    .label = Prikaži sve
+newtab-sports-widget-show-less =
+    .label = Prikaži manje
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Samo praćene ekipe
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Gledaj
+    .title = Gledaj uživo
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Gledaj uživo
+    .title = Gledaj uživo
+newtab-sports-widget-watch-dialog-close =
+    .aria-label = Zatvori
+    .title = Zatvori
+# Tag: user can watch without paying (sign-in may still be required).
+newtab-sports-widget-watch-stream-free = Besplatno
+# Tag: user can start watching via a trial; continued access may require payment after it ends.
+newtab-sports-widget-watch-stream-free-trial = Besplatno probno razdoblje
+# Tag: provider offers both a no-cost or trial path and a paid path.
+newtab-sports-widget-watch-stream-free-paid = Besplatno i plaćeno
+# Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
+newtab-sports-widget-watch-stream-paid = Plaćeno
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Samo odabrane utakmice
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Dostupno u tvojoj regiji
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Druge regije
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Otvori prijenos
+    .title = Otvori prijenos
+newtab-sports-widget-group-stage = Grupna faza
+newtab-sports-widget-group-a = Grupa A
+newtab-sports-widget-group-b = Grupa B
+newtab-sports-widget-group-c = Grupa C
+newtab-sports-widget-group-d = Grupa D
+newtab-sports-widget-group-e = Grupa E
+newtab-sports-widget-group-f = Grupa F
+newtab-sports-widget-group-g = Grupa G
+newtab-sports-widget-group-h = Grupa H
+newtab-sports-widget-group-i = Grupa I
+newtab-sports-widget-group-j = Grupa J
+newtab-sports-widget-group-k = Grupa K
+newtab-sports-widget-group-l = Grupa L
+newtab-sports-widget-round-32 = Šesnaestina finala
+newtab-sports-widget-round-16 = Osmina finala
+newtab-sports-widget-quarter-finals = Četvrt finala
+
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
 ## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
@@ -1036,10 +1128,94 @@ newtab-activation-window-message-values-focus-message = { -brand-product-name } 
 
 ## Strings for the Clock widget
 
+newtab-clock-widget-search-location-input =
+    .aria-label = Traži grad
+    .label = Lokacija
+    .placeholder = Traži grad
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .aria-label = Nadimak (neobavezno)
+    .label = Nadimak (neobavezno)
+    .placeholder = Dodaj nadimak
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .aria-label = Dodaj novi sat
+    .title = Dodaj novi sat
+newtab-clock-widget-button-add-clock = Dodaj
+newtab-clock-widget-button-cancel = Odustani
+newtab-clock-widget-button-back =
+    .aria-label = Natrag
+    .title = Natrag
+newtab-clock-widget-button-edit-clock =
+    .aria-label = Uredi sat
+    .title = Uredi sat
+newtab-clock-widget-button-save = Spremi
+newtab-clock-widget-button-remove-clock =
+    .aria-label = Ukloni sat
+    .title = Ukloni sat
+# Accessible name for a clock row in the "Your clocks" management panel
+# when the row has no user-provided nickname. Read aloud by screen
+# readers when focus lands on the row.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+newtab-clock-widget-edit-item =
+    .aria-label = { $city }
+# Accessible name for a clock row when a user nickname has been set.
+# Variables:
+#   $city (string) - The city name displayed in the row.
+#   $nickname (string) - The user-provided nickname for the row.
+newtab-clock-widget-edit-item-with-nickname =
+    .aria-label = { $city }, nadimak: { $nickname }
+newtab-clock-widget-add-clock-form =
+    .aria-label = Dodaj sat
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Uredi sat
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Rezultati pretrage
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Dodaj „{ $city }” kao prilagođeni sat
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .aria-label = Naziv grada
+    .label = Naziv grada
+    .placeholder = Imenuj ovaj sat
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .aria-label = Vremenska zona
+    .label = Vremenska zona
+    .placeholder = Traži po gradu, vremenskoj zoni ili UTC pomaku
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Rezultati vremenskih zona
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = Nema odgovarajućih vremenskih zona
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Natrag
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = Nema podudaranja
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .aria-label = Otvori izbornik sata
+    .title = Otvori izbornik sata
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Nadimak: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = New York
 newtab-clock-city-us-los-angeles = Los Angeles
+newtab-clock-city-us-chicago = Chicago
 newtab-clock-city-us-san-francisco = San Francisco
 newtab-clock-city-us-san-diego = San Diego
 newtab-clock-city-us-dallas = Dallas
@@ -1073,6 +1249,7 @@ newtab-clock-city-br-rio-de-janeiro = Rio de Janeiro
 newtab-clock-city-br-brasilia = Brasília
 newtab-clock-city-id-jakarta = Džakarta
 newtab-clock-city-id-surabaya = Surabaya
+newtab-clock-city-id-makassar = Makassar
 newtab-clock-city-ca-toronto = Toronto
 newtab-clock-city-ca-montreal = Montréal
 newtab-clock-city-ca-vancouver = Vancouver

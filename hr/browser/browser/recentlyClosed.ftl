@@ -16,3 +16,17 @@ recently-closed-menu-reopen-all-windows = Ponovno otvori sve prozore
 
 recently-closed-panel-reopen-all-tabs = Ponovno otvori sve kartice
 recently-closed-panel-reopen-all-windows = Ponovno otvori sve prozore
+
+##
+
+# Variables:
+#   $tabCount (Number): Number of tabs that were open in the closed window
+#   $winTitle (String): Window title
+#   $closedAt (Number): Milliseconds since epoch when the window was closed
+recently-closed-window-panel-tooltip =
+    { $tabCount ->
+        [0] { $winTitle }
+        [one] { $winTitle } ({ $tabCount } kartica, zatvoreno { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+        [few] { $winTitle } ({ $tabCount } kartice, zatvoreno { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+       *[other] { $winTitle } ({ $tabCount } kartica, zatvoreno { DATETIME($closedAt, dateStyle: "short", timeStyle: "short") })
+    }

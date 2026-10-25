@@ -8,8 +8,16 @@ menu-view-contextual-password-manager =
     .label = Lozinke
 menu-view-resource-monitor =
     .label = Nadzor resursa
+# Label for the Open Tabs entry in the View > Sidebars menu bar menu.
+# "Open Tabs" is a noun phrase referring to the tabs currently open in
+# the browser, not an instruction to open tabs.
+menu-view-open-tabs =
+    .label = Otvorene kartice
 sidebar-options-menu-button =
     .title = Otvori izbornik
+# Accessible label for the splitter used to resize the sidebar.
+sidebar-resize-splitter =
+    .aria-label = Promijeni veličinu bočne trake
 
 ## Labels for sidebar history panel
 
@@ -56,8 +64,12 @@ sidebar-search-results-header =
 sidebar-customize-firefox-settings = Upravljaj { -brand-short-name } postavkama
 sidebar-vertical-tabs =
     .label = Okomite kartice
+sidebar-settings2 =
+    .label = Postavke
 sidebar-hide-tabs-and-sidebar =
     .label = Sakrij kartice i bočnu traku
+sidebar-open-tools-from-sidebar =
+    .label = Otvori alate iz bočne trake
 sidebar-show-on-the-right =
     .label = Premjesti bočnu traku na desnu stranu
 sidebar-show-on-the-left =
@@ -66,6 +78,10 @@ sidebar-show-on-the-left =
 # hovers over it.
 expand-sidebar-on-hover =
     .label = Proširi bočnu traku prilikom prelaska mišem
+sidebar-manage-extensions2 = Upravljaj svim proširenjima
+sidebar-customize-extensions-header2 = Proširenja
+sidebar-customize-firefox-tools-header2 =
+    .label = Alati
 
 ## Labels for sidebar context menu items
 
@@ -120,6 +136,26 @@ sidebar-bookmarks-context-menu-delete-bookmark =
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Izbriši
 
+## Labels for sidebar open tabs context menu items
+
+# Label for the context menu item that closes the tab the user
+# right-clicked in the Open Tabs sidebar panel.
+sidebar-opentabs-context-close-tab =
+    .label = Zatvori karticu
+
+## Labels for the open tabs panel options menu
+
+# Heading in the Open Tabs panel options menu for the group of
+# tab sorting options, which appear directly beneath this heading.
+sidebar-opentabs-sort-by-heading =
+    .label = Sortiraj po
+# Sort option that lists tabs in the order they appear on the tab strip.
+sidebar-opentabs-sort-option-order =
+    .label = Redoslijed kartica
+# Sort option that lists tabs by most recent activity, newest first.
+sidebar-opentabs-sort-option-recency =
+    .label = Nedavno aktivno
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -128,6 +164,11 @@ sidebar-menu-history-label =
     .label = Povijest
 sidebar-menu-synced-tabs-label =
     .label = Kartice s drugih uređaja
+# Label for the Open Tabs panel in the sidebar tools list and customize
+# menu. "Open tabs" is a noun phrase referring to the tabs currently open
+# in the browser, not an instruction to open tabs.
+sidebar-menu-open-tabs-label =
+    .label = Otvorene kartice
 sidebar-menu-bookmarks-label =
     .label = Zabilješke
 sidebar-menu-customize-label =
@@ -176,6 +217,10 @@ sidebar-menu-history-header =
     .heading = Povijest
 sidebar-menu-syncedtabs-header =
     .heading = Kartice s drugih uređaja
+# Heading shown at the top of the Open Tabs sidebar panel. "Open tabs"
+# refers to the tabs currently open in the browser.
+sidebar-menu-open-tabs-header =
+    .heading = Otvorene kartice
 sidebar-menu-cpm-header =
     .heading = Lozinke
 sidebar-menu-bookmarks-header =
@@ -195,6 +240,26 @@ sidebar-bookmarks-folder-mobile = Zabilješke mobilnih uređaja
 sidebar-customize-title = Prilagodi bočnu traku
 sidebar-history-title = Povijest
 sidebar-syncedtabs-title = Kartice s drugih uređaja
+# Title of the Open Tabs sidebar panel. "Open tabs" refers to the tabs
+# currently open in the browser.
+sidebar-opentabs-title = Otvorene kartice
+# Title attribute for the pinned tabs section in the Open Tabs sidebar
+# panel.
+sidebar-opentabs-pinned-tabs =
+    .title = Prikvačene kartice
+# Heading shown above the tab list for the currently focused window
+# in the Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-current-window-header =
+    .heading = Prozor { $winID } (trenutni)
+# Heading shown above the tab list for a non-focused window in the
+# Open Tabs sidebar panel.
+# Variables:
+#   $winID (Number) - The position of the window in the open windows list.
+sidebar-opentabs-window-header =
+    .heading = Prozor { $winID }
+sidebar-bookmarks-title = Zabilješke
 
 ## Context for closing synced tabs when hovering over the items
 

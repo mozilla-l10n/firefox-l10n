@@ -179,44 +179,91 @@ monitor-resolve-breaches-link = Riješi curenja podataka
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
 bar-tooltip-social =
-    .title = Programi za praćenje od društvenih mreža
     .aria-label =
         { $count ->
             [one] { $count } program za praćenje od društvenih mreža { $percentage }
             [few] { $count } programa za praćenje od društvenih mreža { $percentage }
            *[other] { $count } programa za praćenje od društvenih mreža { $percentage }
         }
+    .title = Programi za praćenje od društvenih mreža
 bar-tooltip-cookie =
-    .title = Međustranični kolačići za praćenje
     .aria-label =
         { $count ->
             [one] { $count } međustranični kolačić za praćenje ({ $percentage } %)
             [few] { $count } međustranična kolačića za praćenje ({ $percentage } %)
            *[other] { $count } međustraničnih kolačića za praćenje ({ $percentage } %)
         }
+    .title = Međustranični kolačići za praćenje
 bar-tooltip-tracker =
-    .title = Sadržaj za praćenje
     .aria-label =
         { $count ->
             [one] { $count } sadržaj za praćenje { $percentage }
             [few] { $count } sadržaja za praćenje { $percentage }
            *[other] { $count } sadržaja za praćenje { $percentage }
         }
+    .title = Sadržaj za praćenje
 bar-tooltip-fingerprinter =
-    .title = Prikupljači digitalnih otisaka
     .aria-label =
         { $count ->
             [one] { $count } prikupljač digitalnih otisaka ({ $percentage }%)
             [few] { $count } prikupljača digitalnih otisaka ({ $percentage }%)
            *[other] { $count } prikupljača digitalnih otisaka ({ $percentage }%)
         }
+    .title = Prikupljači digitalnih otisaka
 bar-tooltip-cryptominer =
-    .title = Kripto-rudari
     .aria-label =
         { $count ->
             [one] { $count } kripto-rudar ({ $percentage }%)
             [few] { $count } kripto-rudara ({ $percentage }%)
            *[other] { $count } kripto-rudara ({ $percentage }%)
         }
+    .title = Kripto-rudari
 # Privacy Metrics Card
 privacy-metrics-title = Zaštite privatnosti
+# Variables:
+#   $count (Number) - Total number of trackers blocked this week
+privacy-metrics-blocked-this-week =
+    { $count ->
+        [one] { $count } blokiran ovaj tjedan
+        [few] { $count } blokirana ovaj tjedan
+       *[other] { $count } blokiranih ovaj tjedan
+    }
+# Variables:
+#   $count (Number) - Number of trackers blocked
+privacy-metrics-trackers =
+    { $count ->
+        [one] { $count } program za praćenje
+        [few] { $count } programa za praćenje
+       *[other] { $count } programa za praćenje
+    }
+# Variables:
+#   $count (Number) - Number of fingerprinters blocked
+privacy-metrics-fingerprinters =
+    { $count ->
+        [one] { $count } prikupljač digitalnih otisaka
+        [few] { $count } prikupljača digitalnih otisaka
+       *[other] { $count } prikupljača digitalnih otisaka
+    }
+# Variables:
+#   $count (Number) - Number of tracking cookies blocked
+privacy-metrics-cookies =
+    { $count ->
+        [one] { $count } kolačić za praćenje
+        [few] { $count } kolačića za praćenje
+       *[other] { $count } kolačića za praćenje
+    }
+# Variables:
+#   $count (Number) - Number of social trackers blocked
+privacy-metrics-social =
+    { $count ->
+        [one] { $count } program za praćenje od društvenih mreža
+        [few] { $count } programa za praćenje od društvenih mreža
+       *[other] { $count } programa za praćenje od društvenih mreža
+    }
+privacy-metrics-loading = Učitavanje statistike zaštite …
+
+## VPN promo card and banner
+
+protections-get-vpn-link = Nabavi { -mozilla-vpn-brand-name }
+protections-vpn-title-subscribed = VPN: pretplaćeno
+protections-vpn-banner-link = Nabavi { -mozilla-vpn-brand-name }
