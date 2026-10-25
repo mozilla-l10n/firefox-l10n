@@ -194,6 +194,7 @@ newtab-privacy-message-info-5-cta = نیشتن زفت وابیڌنا
 newtab-privacy-message-info-6-cta = قلوه دووسته بۊین
 newtab-privacy-message-info-7-cta = نیشتن زفت وابیڌنا
 newtab-privacy-message-info-8-cta = قلوه دووسته بۊین
+newtab-privacy-message-info-9-cta = سامووݩ و عونوان پؽش فرز
 newtab-privacy-message-info-11-cta = قلوه دووسته بۊین
 newtab-privacy-message-info-12-cta = نیشتن زفت وابیڌنا
 newtab-privacy-message-info-13-cta = نیشتن زفت وابیڌنا
@@ -233,6 +234,13 @@ newtab-privacy-message-first-protection-cta = نیشتن زفت وابیڌنا
 newtab-stocks-menu-learn-more = قلوه دووسته بۊین
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = دووسمندیا سهام من دسرس نؽڌن.
+# Toolbar button that opens the stock search. It shows only the icon until it is
+# hovered or focused, then the .label as well; "Search" is a verb. .title and
+# .aria-label name it for tooltips and screen readers.
+newtab-stocks-search-button =
+    .aria-label = پیتینیڌن و ری نوم یا نماد
+    .label = پیتینیڌن
+    .title = پیتینیڌن و ری نوم یا نماد
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -244,6 +252,8 @@ newtab-stocks-watchlist-empty-search =
 # and .label is shown on the button that opens it.
 newtab-stocks-list-markets = بازارا
     .label = بازارا
+# Context menu item that opens the stock search (by company name or ticker symbol).
+newtab-stocks-menu-search-stocks = پیتینیڌن و ری نوم یا نماد
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -260,6 +270,10 @@ newtab-stocks-ticker-status-flat = { $name }، بؽ آلشتکاری { $change }
 
 ## Finance widget ticker search
 
+# Placeholder and screen-reader label for the ticker search input.
+newtab-stocks-search-input =
+    .aria-label = پیتینیڌن و ری نوم یا نماد
+    .placeholder = پیتینیڌن و ری نوم یا نماد
 # "Search results" is the accessible label for the list of tickers matching the
 # search. It means "results of the search", not "search within the results".
 newtab-stocks-search-results =
@@ -343,8 +357,19 @@ newtab-picture-show-button =
 
 # Context menu item linking to more information about the widget.
 newtab-recent-searches-menu-learn-more = قلوه دووسته بۊین
+# Tab listing the searches the user has made recently.
+newtab-recent-searches-tab-recent = پیتینیڌنا دیندایی
+# Tab listing what is trending with the user's search engine.
+newtab-recent-searches-tab-trending = سرتالا ترند
+# Relative time shown for a search made less than a minute ago.
+newtab-recent-searches-just-now = هیم سکو
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = پیتینیڌن
+
+## Strings for the Horoscopes widget
+
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = قلوه دووسته بۊین
 
 ## Strings for the Travel widget
 
@@ -358,6 +383,19 @@ newtab-travel-widget-open-menu-button =
     .title = نومگه سفر ن بۊگۊشین
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = قلوه دووسته بۊین
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = قلوه دووسته بۊین
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = داستانا
+newtab-spaces-tab-widgets = ویجتا
 
 ## Search box component.
 
@@ -557,6 +595,12 @@ newtab-discovery-empty-section-topstories-timed-out = ای بوۊمی! ایما 
 
 ## Strings for the story cards carousel
 
+# Identifies the current carousel slide to screen reader users.
+# Variables:
+#   $index - the position of this slide
+#   $total - how many slides there are
+newtab-carousel-slide =
+    .aria-label = { $index } ز { $total }
 # Button that goes to the previous carousel slide.
 newtab-carousel-previous =
     .aria-label = دیندایی

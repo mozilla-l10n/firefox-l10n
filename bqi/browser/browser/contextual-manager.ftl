@@ -200,6 +200,7 @@ contextual-manager-passwords-username-field =
 contextual-manager-passwords-password-field =
     .label = رزم
 contextual-manager-passwords-password-field-description = رزم ن سی و من ٱووڌن و ای هساو بزنین.
+contextual-manager-passwords-origin-tooltip = نشۊوی دییق جاگهی ن ک ز من هو و ای وبگه ٱوۊڌین، بزنین.
 contextual-manager-passwords-password-tooltip-2 = رزم ن سی و من ٱووڌن و ای هساو بزنین.
 
 ## Password Card
