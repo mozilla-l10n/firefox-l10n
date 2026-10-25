@@ -1002,6 +1002,7 @@ newtab-new-user-custom-wallpaper-cta = هیم سکو امتهووݩ کوݩ
 ## Strings for Nova wallpaper feature highlight
 
 newtab-wallpaper-feature-highlight-title = شؽواتا پس زمینه نۊ وو تازه ز ره رسیڌن
+newtab-wallpaper-feature-highlight-cta = پسند شؽوات زمینه
 
 ## Strings for download mobile highlight
 
