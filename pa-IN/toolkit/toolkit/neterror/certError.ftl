@@ -74,12 +74,18 @@ fp-certerror-return-to-previous-page-recommended-button-2 = ਪਿੱਛੇ ਜ�
 fp-certerror-revoked-why-dangerous-body = { -brand-short-name } ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਬਾਰੇ ਸਾਵਧਾਨ ਕਰਦਾ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ ਜਾਰੀ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਮਨਸੂਖ਼ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ ਅਤੇ ਹੁਣ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਰਿਹਾ ਹੈ।
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-revoked-what-can-you-do-body = ਸ਼ਾਇਦ ਕੁਝ ਵੀ ਨਹੀਂ, ਕਿਉਂਕਿ ਸਾਈਟ ਨਾਲ ਹੀ ਸਮੱਸਿਆ ਹੈ। ਤੁਸੀਂ ਵੈੱਬਸਾਈਟ ਨਾਲ ਸੰਪਰਕ ਕਰਕੇ ਵੇਖ ਸਕਦੇ ਹੋ ਕਿ ਜੇ ਉਹ ਸਮੱਸਿਆ ਨੂੰ ਠੀਕ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਰਹੇ ਹਨ।
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-bad-domain-what-can-you-do-body = ਸ਼ਾਇਦ ਕੁਝ ਵੀ ਨਹੀਂ, ਕਿਉਂਕਿ ਇਹ ਸੰਭਾਵਨਾ ਹੈ ਕਿ ਸਾਈਟ ਵਿੱਚ ਹੀ ਕੋਈ ਸਮੱਸਿਆ ਹੈ। ਸਾਈਟਾਂ ਇੱਕ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ ਵਲੋਂ ਜਾਰੀ ਕੀਤੇ ਗਏ ਸਰਟੀਫਿਕੇਟਾਂ ਦੀ ਵਰਤੋਂ ਇਹ ਸਾਬਤ ਕਰਨ ਲਈ ਕਰਦੀਆਂ ਹਨ ਕਿ ਉਹ ਅਸਲ ਵਿੱਚ ਉਹੀ ਹਨ, ਜੋ ਉਹ ਦਿਖਾਈ ਦਿੰਦੇ ਹਨ। ਪਰ ਜੇਕਰ ਤੁਸੀਂ ਇੱਕ ਕਾਰਪੋਰੇਟ ਨੈੱਟਵਰਕ ਉੱਤੇ ਹੋ ਤਾਂ ਤੁਹਾਡੀ ਸਹਾਇਤਾ ਟੀਮ ਕੋਲ ਹੋਰ ਜਾਣਕਾਰੀ ਹੋ ਸਕਦੀ ਹੈ। ਜੇਕਰ ਤੁਸੀਂ ਐਂਟੀਵਾਇਰਸ ਸਾਫਟਵੇਅਰ ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਸੰਭਾਵੀ ਟਕਰਾਵਾਂ ਜਾਂ ਜਾਣੇ-ਪਛਾਣੇ ਮੁੱਦਿਆਂ ਦੀ ਖੋਜ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 # This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
 # Variables:
 #   $hostname (String) - Hostname of the website to which the user was trying to connect.
 fp-certerror-untrusted-issuer-why-dangerous-body = { -brand-short-name } ਤੁਹਾਨੂੰ ਇਸ ਸਾਈਟ ਬਾਰੇ ਸਾਵਧਾਨ ਕਰਦਾ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ  ਅਜਿਹੀ ਸੰਸਥਾ ਵਲੋਂ ਸਰਟੀਫਿਕੇਟ ਜਾਰੀ ਕੀਤਾ ਗਿਆ ਹੈ, ਜੋ ਕਿ ਹੁਣ ਭਰੋਸੇਯੋਗ ਨਹੀਂ ਰਹੀ ਹੈ।
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-untrusted-issuer-what-can-you-do-body = ਸ਼ਾਇਦ ਕੁਝ ਵੀ ਨਹੀਂ, ਕਿਉਂਕਿ ਸਾਈਟ ਨਾਲ ਹੀ ਸਮੱਸਿਆ ਹੈ। ਤੁਸੀਂ ਵੈੱਬਸਾਈਟ ਨਾਲ ਸੰਪਰਕ ਕਰਕੇ ਵੇਖ ਸਕਦੇ ਹੋ ਕਿ ਜੇ ਉਹ ਸਮੱਸਿਆ ਨੂੰ ਠੀਕ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ ਕਰ ਰਹੇ ਹਨ।
+# This string appears after the following string: "What makes the site look dangerous?" (fp-certerror-why-site-dangerous)
+fp-certerror-unknown-issuer-why-dangerous-body = ਸਾਈਟ ਦੇ ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਕੋਈ ਸਮੱਸਿਆ ਹੈ। ਇਹ ਸੰਭਵ ਹੈ ਕਿ ਕੋਈ ਗੜਬੜ ਕਰਨ ਵਾਲਾ ਸਾਈਟ ਦੀ ਨਕਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹੋਵੇ। ਸਾਈਟਾਂ ਇੱਕ ਸਰਟੀਫਿਕੇਟ ਅਥਾਰਟੀ ਵਲੋਂ ਜਾਰੀ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟਾਂ ਦੀ ਵਰਤੋਂ ਇਹ ਸਾਬਤ ਕਰਨ ਲਈ ਕਰਦੀਆਂ ਹਨ ਕਿ ਉਹ ਅਸਲ ਵਿੱਚ ਉਹੀ ਹਨ, ਜੋ ਉਹ ਦਿਖਾ ਰਹੀਆਂ ਹਨ। { -brand-short-name } ਇਸ ਸਾਈਟ ਉੱਤੇ ਭਰੋਸਾ ਨਹੀਂ ਕਰਦਾ ਹੈ, ਕਿਉਂਕਿ ਅਸੀਂ ਇਹ ਨਹੀਂ ਦੱਸ ਸਕਦੇ ਕਿ ਸਰਟੀਫਿਕੇਟ ਕਿਸਨੇ ਜਾਰੀ ਕੀਤਾ ਹੈ, ਇਹ ਸਵੈ-ਦਸਤਖ਼ਤ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਾਂ ਸਾਈਟ ਸਾਡੇ ਵਲੋਂ ਭਰੋਸੇਯੋਗ ਵਿਚੋਲੇ ਸਰਟੀਫਿਕੇਟ ਨਹੀਂ ਭੇਜ ਰਹੀ ਹੈ।
+# This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
+fp-certerror-unknown-issuer-what-can-you-do-body = ਸ਼ਾਇਦ ਕੁਝ ਵੀ ਨਹੀਂ, ਕਿਉਂਕਿ ਇਹ ਸੰਭਾਵਨਾ ਹੈ ਕਿ ਸਾਈਟ ਵਿੱਚ ਹੀ ਕੋਈ ਸਮੱਸਿਆ ਹੈ। ਪਰ ਜੇਕਰ ਤੁਸੀਂ ਇੱਕ ਕਾਰਪੋਰੇਟ ਨੈੱਟਵਰਕ ਉੱਤੇ ਹੋ, ਤਾਂ ਤੁਹਾਡੀ ਸਹਾਇਤਾ ਟੀਮ ਕੋਲ ਹੋਰ ਜਾਣਕਾਰੀ ਹੋ ਸਕਦੀ ਹੈ। ਜੇਕਰ ਤੁਸੀਂ ਐਂਟੀਵਾਇਰਸ ਸਾਫਟਵੇਅਰ ਵਰਤ ਰਹੇ ਹੋ ਤਾਂ ਇਸ ਨੂੰ { -brand-short-name } ਨਾਲ ਕੰਮ ਕਰਨ ਲਈ ਸੰਰਚਨਾ ਕਰਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ।
 # This string appears after the following string: "What can you do about it?" (fp-certerror-what-can-you-do)
 fp-certerror-self-signed-what-can-you-do-body = ਕੁਝ ਖਾਸ ਨਹੀਂ। ਇਹ ਖੁਦ ਸਾਈਟ ਨਾਲ ਵੀ ਸਮੱਸਿਆ ਜਾਪਦੀ ਹੈ।
 fp-certerror-self-signed-important-note = ਖਾਸ ਸੂਚਨਾ: ਜੇ ਤੁਸੀਂ ਕਾਰਪੋਰੇਟ ਇੰਟਰਾਨੈੱਟ ਉੱਤੇ ਇਸ ਸਾਈਟ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ IT ਸਟਾਫ ਵਲੋਂ ਖੁਦ-ਸਾਈਨ ਕੀਤੇ ਸਰਟੀਫਿਕੇਟ ਵਰਤੇ ਜਾ ਰਹੇ ਹੋ ਸਕਦੇ ਹਨ। ਇਸ ਦੀ ਪਰਮਾਣਕਿਤਾ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਤੁਸੀਂ ਉਹਨਾਂ ਤੋਂ ਮਦਦ ਲੈ ਸਕਦੇ ਹੋ।
@@ -130,7 +136,9 @@ cert-error-revoked-certificate = { -brand-short-name } ਨੇ ਇਸ ਸਾਈ�
 cert-error-bad-signature = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤੇ ਸਰਟੀਫਿਕੇਟ ਉੱਤੇ ਦਸਤਖ਼ਤ ਵਾਜਬ ਨਹੀਂ ਹਨ।
 cert-error-key-pinning-failure = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਆਸ ਤੋਂ ਵੱਖਰੀ ਪਬਲਿਕ ਕੁੰਜੀ ਨੂੰ ਵਰਤਦਾ ਹੈ।
 cert-error-bad-der = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਠੀਕ ਇੰਕੋਡਿੰਗ ਨਹੀਂ ਵਰਤਦਾ ਹੈ।
+cert-error-cert-not-in-name-space = { -brand-short-name } ਨੇ ਤੁਹਾਡੇ ਵਲੋਂ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਉਸ ਸਰਟੀਫਿਕੇਟ ਵਲੋਂ ਦਿੱਤੀਆਂ ਨਾਂ ਹੱਦਾਂ ਦੀ ਪਾਲਣਾ ਨਹੀਂ ਕਰਦਾ ਹੈ।
 cert-error-inadequate-cert-type = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਗਿਆ ਸਰਟੀਫਿਕੇਟ ਵੈੱਬ ਸਰਵਰ ਵਲੋਂ ਵਰਤੇ ਜਾਣ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀ ਦਿੰਦਾ ਹੈ।
+cert-error-path-len-constraint-invalid = { -brand-short-name } ਨੇ ਤੁਹਾਡੇ ਵਲੋਂ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਲਈ  ਦਿੱਤਾ ਸਰਫੀਫਿਕੇਟ ਲਈ ਰੂਟ ਸਰਟੀਫਿਕੇਟ ਲਈ ਬਹੁਤ ਜ਼ਿਆਦਾ ਵਿਚੋਲੇ ਸਰਟੀਫਿਕੇਟ ਹਨ।
 cert-error-invalid-key = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤੇ ਜਾ ਰਹੇ ਸਰਟੀਫਿਕੇਟ ਵਿਚਲੀ ਕੁੰਜੀ ਗ਼ੈਰ-ਵਾਜਬ ਹੈ। ਅਕਸਰ ਅਜਿਹਾ ਸੁਰੱਖਿਅਤ ਹੋਣ ਲਈ ਬਹੁਤ ਛੋਟੀ ਕੁੰਜੀ ਹੋਣ ਕਰਕੇ ਹੁੰਦਾ ਹੈ।
 cert-error-unknown-critical-extension = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਜਾ ਰਹੇ ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਗ਼ੈਰ-ਸਹਾਇਕ ਗੰਭੀਰ ਇਕਸਟੈਨਸ਼ਨ ਹੈ।
 cert-error-extension-value-invalid = { -brand-short-name } ਨੇ ਇਸ ਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹਣ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਈ ਹੈ, ਕਿਉਂਕਿ { $hostname } ਵਲੋਂ ਦਿੱਤਾ ਜਾ ਰਹੇ ਸਰਟੀਫਿਕੇਟ ਵਿੱਚ ਗ਼ੈਰ-ਵਾਜਬ ਇਕਸਟੈਨਸ਼ਨ ਹੈ।
