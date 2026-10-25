@@ -42,3 +42,11 @@ toolbox-always-on-top-enabled2 = ਹਮੇਸ਼ਾ ਉੱਤੇ ਨੂੰ ਅਸ�
     .title = ਇਸ ਨਾਲ ਡਿਵੈਲਪਰ ਟੂਲ ਮੁੜ-ਚਾਲੂ ਹੋਣਗੇ
 toolbox-always-on-top-disabled2 = ਹਮੇਸ਼ਾ ਉੱਤੇ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
     .title = ਇਸ ਨਾਲ ਡਿਵੈਲਪਰ ਟੂਲ ਮੁੜ-ਚਾਲੂ ਹੋਣਗੇ
+
+## These two labels are shown when navigating to a file:// URL while having DevTools opened,
+## in order to suggest enabling the Local Mode and load them from https instead.
+
+toolbox-local-mode-notice-add-to-settings-button = ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜੋੜੋ
+toolbox-local-mode-notice-try-it-button = ਅਜ਼ਮਾਓ
+toolbox-local-mode-notice-navigate-to-existing-mapping = ਮੌਜੂਦਾ ਮੈਪਿੰਗ ਉੱਤੇ ਜਾਓ
+toolbox-local-mode-notice-always-hide = ਮੈਨੂੰ ਇਹ ਮੁੜ ਨਾ ਦਿਖਾਓ
