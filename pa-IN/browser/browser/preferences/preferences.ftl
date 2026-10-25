@@ -1830,6 +1830,62 @@ permissions-data-section =
     .heading = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
 pane-permissions-data-title2 = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
     .title = ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਡਾਟਾ
+notifications-section-header =
+    .heading = ਨੋਟੀਫਿਕੇਸ਼ਨ
+notifications-entry-card-header =
+    .description = ਚੁਣੋ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਸੂਚਨਾ ਭੇਜ ਸਕਦੀਆਂ ਹਨ ਅਤੇ ਉਹ ਸੂਚਨਾ ਕਿਵੇਂ ਦਿਖਾਈ ਦੇਣ।
+    .label = ਨੋਟੀਫਿਕੇਸ਼ਨ
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } ਵੈੱਬਸਾਈਟ
+           *[other] { $count } ਵੈੱਬਸਾਈਟਾਂ
+        }
+    .label = ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = ਵੈੱਬਸਾਈਟ ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
+notifications-website-card-header =
+    .description = ਚੁਣੋ ਕਿ ਵੈੱਬਸਾਈਟਾਂ ਕਿਵੇਂ ਨੋਟੀਫਿਕੇਸ਼ਨ ਭੇਜ ਸਕਦੀਆਂ ਹਨ।
+    .label = ਵੈੱਬਸਾਈਟ ਨੋਟੀਫਿਕੇਸ਼ਨ
+notifications-filter =
+    .placeholder = ਵੈੱਬਸਾਈਟ ਖੋਜੋ
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = ਵੈੱਬਸਾਈਟ
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = ਨੋਟੀਫਿਕੇਸ਼ਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = ਵੈੱਬਸਾਈਟਾਂ
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = ਹਮੇਸ਼ਾਂ
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = ਮਨਜ਼ੂਰ
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = ਕਦੇ ਨਹੀਂ
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = ਕੋਈ ਵੈੱਬਸਾਈਟ ਨੋਟੀਫਿਕੇਸ਼ਨ ਜੋੜੇ ਨਹੀਂ ਗਏ ਹਨ।
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = ਤੁਹਾਡੀ ਖੋਜ ਨਾਲ ਕੋਈ ਵੈੱਬਸਾਈਟ ਨੋਟੀਫਿਕੇਸ਼ਨ ਮਿਲਦੇ ਹਨ।
 
 ## Privacy Section - Data Collection
 

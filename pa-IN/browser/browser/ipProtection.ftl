@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = { -brand-product-na
 ipprotection-feature-introduction-link-text-private-browsing-2 = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਅਤੇ ਆਪਣੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਵਰਤਦੇ ਹੋਵੋ, ਸਾਡੇ ਨਵੇਂ <a data-l10n-name="learn-more-vpn">ਨਾਲ ਮੌਜੂਦ VPN</a> ਨੂੰ ਵਰਤੋਂ।
 ipprotection-feature-introduction-description-private-browsing = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਵਿੱਚ ਹੋਵੋ।
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਜਦੋਂ ਤੁਹਾਨੂੰ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਜਾਂ ਟਿਕਾਣੇ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ VPN ਨੂੰ ਚਾਲੂ ਜਾਂ ਲੋੜ ਨਾ ਹੋਣ ਉੱਤੇ ਬੰਦ ਕਰਨ ਵਾਸਤੇ ਨਿਯਮ ਬਣਾਓ।
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = ਜਦੋਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ <a data-l10n-name="learn-more-vpn">ਵਧੀਕ ਪਰਦੇਦਾਰੀ</a> ਲਈ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਜਾਂ ਜਿੱਥੇ ਲੋੜ ਨਾ ਹੋਵੇ ਤਾਂ ਬੰਦ ਕਰਨ ਲਈ ਨਿਯਮ ਬਣਾਓ।
 ipprotection-feature-introduction-title-captive-portal = ਪਬਲਿਕ Wi-Fi ਵਰਤ ਰਹੇ ਹੋ? { -brand-product-name } ਦੇ ਵਿਚੇ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ।
 ipprotection-feature-introduction-description-captive-portal = ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾ ਕੇ ਵਾਧੂ ਸੁਰੱਖਿਆ ਨਾਲ ਬਰਾਊਜ਼ ਕਰੋ, ਜਦੋਂ ਕਿ ਤੁਸੀਂ ਪਬਲਿਕ Wi-Fi ਵੀ ਵਰਤਦੇ ਹੋਵੋ।
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = ਸਮਝੇ
 ipprotection-site-inclusions-callout-title-existing-users = ਵਿੱਚ ਮੌਜੂਦ VPN ਲਈ ਨਿਯਮ ਬਣਾਓ ਅਤੇ ਫੇਰ ਬਰਾਊਜ਼ ਕਰੋ
 ipprotection-site-inclusions-callout-title-lapsed-users = ਵਿੱਚ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਓ, ਹੁਣ ਹਰ ਸਾਈਟ ਲਈ ਵੱਖਰਾ-ਵੱਖਰਾ
 ipprotection-site-inclusions-callout-description-1 = ਜਦੋਂ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ VPN ਨੂੰ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਨਾ ਚਾਹੋ ਤਾਂ ਬੰਦ ਕਰੋ।
+ipprotection-site-inclusions-callout-description-lapsed-users = ਜਦੋਂ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਅਤੇ ਜਦੋਂ ਨਾ ਚਾਹੋ ਤਾਂ ਬੰਦ ਕਰਨ ਲਈ ਨਿਯਮ ਬਣਾਓ।
 ipprotection-site-inclusions-callout-description = ਜਦੋਂ ਵਧੀਕ ਪਰਦੇਦਾਰੀ ਜਾਂ ਟਿਕਾਣਾ ਅਧਾਰਿਤ ਬਰਾਊਜ਼ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇ ਤਾਂ ਚਾਲੂ ਕਰੋ ਅਤੇ ਜਦੋਂ ਨਾ ਚਾਹੋ ਤਾਂ ਬੰਦ ਕਰੋ।
 ipprotection-site-inclusions-callout-primary-button = ਨਿਯਮ ਬਣਾਓ
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ਹੁਣੇ ਨਹੀਂ
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = ਖ਼ਾ�
 ipprotection-holiday-promo-description = ਵਿੱਚੇ-ਮੌਜੂਦ VPN ਨਾਲ ਆਪਣੇ ਬਰਾਊਜ਼ ਕਰਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਣਾਓ ਅਤੇ ਸੂਹ ਲੈਣਾ ਔਖਾ ਕਰੋ।
 ipprotection-holiday-promo-primary-button = VPN ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-holiday-promo-secondary-button = ਖ਼ਾਰਜ ਕਰੋ
+ipprotection-holiday-promo-title-1 = 31 ਜਨਵਰੀ ਤੱਕ ਬੇਅੰਤ VPN ਲਵੋ
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = ਬਰਾਊਜ਼ ਕਰਨ ਦ
 ipprotection-message-continuous-onboarding-autostart = ਵਾਧੂ ਸੁਰੱਖਿਆ ਜੋੜਨ ਲਈ ਜਦੋਂ ਵੀ ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਖੋਲ੍ਹੋ ਤਾਂ ਹਰ ਵਾਰ <a data-l10n-name="setting-link">VPN ਨੂੰ ਚਾਲੂ ਕਰਨ ਲਈ ਸੈੱਟ ਕਰੋ</a>।
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ਯਾਦ ਰੱਖੇਗਾ ਕਿ ਕਿਹੜੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਤੁਸੀਂ VPN ਸੈੱਟ ਕੀਤਾ ਹੈ। ਇਹਨਾਂ ਨੂੰ ਕਿਸੇ ਵੀ ਵੇਲੇ <a data-l10n-name="setting-link">ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ ਅੱਪਡੇਟ ਕਰੋ।
 confirmation-hint-ipprotection-navigated-to-excluded-site = ਇਸ ਸਾਈਟ ਲਈ VPN ਬੰਦ ਹੈ
+confirmation-hint-ipprotection-navigated-to-included-site = ਇਸ ਸਾਈਟ ਲਈ VPN ਚਾਲੂ ਹੈ
 ipprotection-open-button = { -brand-product-name } ਨੂੰ ਖੋਲ੍ਹੋ
 ipprotection-come-back-title = ਨਾਲ ਮੌਜੂਦ VPN ਨੂੰ ਅਜ਼ਮਾਉਣ ਲਈ ਵਾਪਸ ਜਾਓ
 ipprotection-message-body-hide-location = ਹੋਰ ਪਰਦੇਦਾਰੀ ਅਤੇ ਕੰਟਰੋਲ ਵਾਸਤੇ { -brand-product-name } ਵਿੱਚ ਬਰਾਊਜ਼ ਕਰਨ ਦੇ ਦੌਰਾਨ ਆਪਣੇ ਟਿਕਾਣੇ ਨੂੰ ਲੁਕਾਓ।

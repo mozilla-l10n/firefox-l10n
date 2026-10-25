@@ -6,6 +6,9 @@
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =
     .label = ਮੀਡੀਆ: JPEG XL
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
 # Search during IME
 experimental-features-ime-search =
     .label = ਸਿਰਨਾਵਾਂ ਪੱਟੀ: IME ਬਣਾਉਣ ਦੌਰਾਨ ਨਤੀਜੇ ਵੇਖਾਓ
