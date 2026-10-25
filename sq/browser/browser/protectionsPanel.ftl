@@ -74,6 +74,11 @@ smartblock-placeholder-title = U bllokuan gjurmues dhe lëndë { $trackername }
 smartblock-placeholder-desc = Rregullimet tuaja për { -brand-short-name } e bllokuan këtë lëndë t’ju ndjekë nëpër sajte, apo që të përdoret për reklama.
 #  $websitehost (String): host of website with blocked content.
 smartblock-placeholder-button-text = Lejoje në { $websitehost }
+# Caption shown above the original text and links extracted from a blocked
+# third-party embed (e.g. a Twitter/X or Instagram post) that SmartBlock has
+# replaced with a placeholder. The caption sits above a bordered content box
+# containing the extracted text.
+smartblock-placeholder-content-header = Lëndë nga trupëzim i bllokuar
 
 ##
 

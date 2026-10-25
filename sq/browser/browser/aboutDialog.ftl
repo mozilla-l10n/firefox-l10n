@@ -66,6 +66,7 @@ aboutdialog-submit-feedback = Parashtroni Përshtypje
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> është një <label data-l10n-name="community-exp-creditsLink">bashkësi mbarëbotërore</label> që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.
 community-2 = { -brand-short-name }-i është hartuar nga <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, një <label data-l10n-name="community-creditsLink">bashkësi mbarëbotërore</label> që punon tok për ta mbajtur Web-in të hapët, publik dhe të përdorshëm nga kushdo.
 helpus = Doni të ndihmoni? <label data-l10n-name="helpus-donateLink">Bëni një dhurim</label> ose <label data-l10n-name="helpus-getInvolvedLink">përfshihuni!</label>
+helpus-referrals2 = Doni të ndihmoni? <label data-l10n-name="helpus-donateLink">Bëni një dhurim</label>, <label data-l10n-name="helpus-shareFirefoxLink">ndajeni { -brand-product-name }-in me të tjerë</label>, ose <label data-l10n-name="helpus-getInvolvedLink">përfshihuni!</label>
 bottomLinks-license = Të dhëna Licencimi
 bottom-links-terms = Kushte Përdorimi
 bottom-links-privacy = Shënim Mbi Privatësinë
