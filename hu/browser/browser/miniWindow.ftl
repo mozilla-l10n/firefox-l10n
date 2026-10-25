@@ -62,7 +62,15 @@ move-to-mini-window =
         }
     .accesskey = h
 
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Válassza ki az oldal megjelenítendő részét
+mini-window-overlay-instructions = Húzza vagy kattintson a terület kijelöléséhez, és mozgassa a mini ablakot. Böngészés közben mindig felül marad.
+
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
+mini-window-panel-header = Válassza ki, hogy mit helyez át egy mini ablakba
+mini-window-panel-move-selection = Kijelölés mozgatása
 mini-window-panel-move-full-tab = Teljes lap áthelyezése

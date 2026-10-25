@@ -125,6 +125,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Eltünteté
 ipprotection-holiday-promo-description = Tegye priváttá és nehezebben nyomon követhetővé a böngészését a beépített VPN-nel.
 ipprotection-holiday-promo-primary-button = VPN megnyitása
 ipprotection-holiday-promo-secondary-button = Eltüntetés
+ipprotection-holiday-promo-title-1 = Kapjon korlátlan VPN-t január 31-ig
 
 ## Panel
 
@@ -250,6 +251,7 @@ ipprotection-message-continuous-onboarding-intro = Kapcsolja be a VPN-t, hogy el
 ipprotection-message-continuous-onboarding-autostart = A további védelem érdekében <a data-l10n-name="setting-link">állítsa be, hogy a VPN automatikusan bekapcsolódjon</a> a { -brand-short-name } indításakor.
 ipprotection-message-continuous-onboarding-site-settings = A { -brand-short-name } megjegyzi, hogy mely webhelyeken állította be, hogy VPN-t használjanak. Ezeket bármikor frissítheti a <a data-l10n-name="setting-link">beállításokban</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = A VPN ki van kapcsolva ezen a webhelyen
+confirmation-hint-ipprotection-navigated-to-included-site = A VPN be van kapcsolva ezen a webhelyen
 ipprotection-open-button = A { -brand-product-name } megnyitása
 ipprotection-come-back-title = Térjen vissza, és próbálja ki a beépített VPN-t
 ipprotection-message-body-hide-location = Rejtse el a tartózkodási helyét a { -brand-product-name } böngészőben a nagyobb adatvédelem és irányítás érdekében.
