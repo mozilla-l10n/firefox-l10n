@@ -13,8 +13,13 @@ restart-required-multiple-instances-question = Zašto se to može dogoditi s vi�
 restart-required-multiple-instances-answer = Ako se jedan profil ili instanca ažuriraju, a drugi su još otvoreni, pokrenute instance ili profili mogu ostati na starijoj verziji. Ponovno pokretanje osigurava da se to ne dogodi.
 restart-required-single-instance-question = Ne koristim više profila ili instanci. Zašto se to događa?
 restart-required-single-instance-answer = { -brand-short-name } može tražiti ponovno pokretanje ako se ažuriranje odvija u pozadini dok je otvoren.
+restart-required-single-instance-answer-2 = Ovo se može dogoditi tijekom dugoga korištenja ili kada operacijski sustav ažurira { -brand-short-name }. Ponovno pokretanje osigurava da { -brand-short-name } bude siguran i da funkcionira normalno.
 restart-required-unsaved-work-question = Mogu li izgubiti nespremljene podatke?
+restart-required-unsaved-work-answer = Moguće. Znamo da je to frustrirajuće. { -brand-short-name } će ponovno otvoriti kartice, ali nespremljeni podatci, poput teksta u obrascima, mogu biti izgubljeni. Privatni se prozori neće ponovno otvoriti kako bi se zaštitila tvoja privatnost.
 restart-required-fix-question = Ovo je zbilja naporno! Radi li { -brand-short-name } na ispravku nedostatka?
+# Note: normally we would link to the bug here, but if the user sees this message,
+# then they cannot visit a link without a restart.
+restart-required-fix-answer = Da. Znamo da je ovakav princip rada nepoželjan i pokušavamo doći do rješenja. Pratite napredak rješavanja ovoga problema na Bugzilli (bug 2072739).
 restart-button-label2 = Ponovno pokreni
 # Expands the "More details" section below the buttons.
 restart-required-see-more-button = Prikaži više
