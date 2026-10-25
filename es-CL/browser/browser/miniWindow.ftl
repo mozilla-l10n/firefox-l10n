@@ -66,6 +66,7 @@ move-to-mini-window =
 ## what to move into a Mini Window.
 
 mini-window-overlay-header = Selecciona la parte de la página que deseas mantener visible
+mini-window-overlay-instructions = Arrastra o haz clic para seleccionar un área que quieras mover a una mini ventana. Se mantendrá visible mientras navegas.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
