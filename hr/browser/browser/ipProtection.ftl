@@ -26,8 +26,12 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Predstavljanje VPN-a, sada izravno u tvom pregledniku
 ipprotection-feature-introduction-title-1 = Isprobaj ugrađeni VPN { -brand-product-name(case: "gen") }
 ipprotection-feature-introduction-link-text-2 = Koristi naš novi <a data-l10n-name="learn-more-vpn">ugrađeni VPN</a> za skrivanje tvoje lokacije i za zaštitu tvojih podataka.
+ipprotection-feature-introduction-title-privacy = Dodaj još jedan sloj privatnosti
+ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">VPN ugrađen u { -brand-product-name }</a> štiti tvoje pregledavanje. Odaberi jednu od nekoliko lokacija da sakriješ otkud pregledavaš.
+ipprotection-feature-introduction-title-summer-promo = Imaš planove za putovanje? Ponesi privatnost sa sobom.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Koristi naš novi <a data-l10n-name="learn-more-vpn">ugrađeni VPN</a> za skrivanje tvoje lokacije i za zaštitu tvojih podataka, čak i kada se nalaziš u privatnom prozoru.
 ipprotection-feature-introduction-description-private-browsing = Pretraži s dodatnom zaštitom, skrivanjem svoje lokacije čak i kada si u privatnom prozoru.
+ipprotection-feature-introduction-title-captive-portal = Na javnom si WiFi-u? Isprobaj VPN ugrađen u { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Pretraži s dodatnom zaštitom, skrivanjem svoje lokacije čak i na javnoj Wi-Fi mreži.
 ipprotection-feature-introduction-button-primary = Dalje
 ipprotection-feature-introduction-button-secondary-not-now = Ne sada
@@ -36,13 +40,29 @@ ipprotection-feature-introduction-button-secondary-not-now-menuitem =
 ipprotection-feature-introduction-button-secondary-no-thanks = Ne hvala
 ipprotection-feature-introduction-button-secondary-no-thanks-menuitem =
     .label = Ne hvala
+ipprotection-feature-introduction-button-secondary-remove = Ukloni VPN iz alatne trake
+ipprotection-feature-introduction-button-secondary-remove-1 =
+    .label = Ukloni VPN iz alatne trake
+ipprotection-feature-introduction-button-open-vpn = Otvori VPN
 ipprotection-feature-introduction-button-get-started = Započni
+
+## Summer promo offramp callout buttons
+
+ipprotection-summer-promo-offramp-open-vpn-primary-button = Otvori VPN
+ipprotection-summer-promo-offramp-set-to-default-primary-button = Postavi kao zadano
+ipprotection-summer-promo-offramp-get-subscription-button = Nabavi { -mozilla-vpn-brand-name }
+ipprotection-summer-promo-offramp-dismiss-secondary-button = Odbaci
 
 ## Site settings callout
 
 ipprotection-site-settings-callout-title = Odaberi gdje koristiš VPN
 ipprotection-site-settings-callout-subtitle = Isključi VPN za određenu stranicu i mi ćemo je zapamtiti sljedeći put kada je posjetiš.
 ipprotection-site-settings-callout-button = Razumijem
+
+## Location selection callout
+
+ipprotection-location-selection-callout-title = Novo: promijeni svoje mjesto
+ipprotection-location-selection-callout-primary-button = Isprobaj
 
 ## VPN for Android promo callout
 

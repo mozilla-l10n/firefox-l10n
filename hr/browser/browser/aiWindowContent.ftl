@@ -63,8 +63,64 @@ smart-window-confirm-group-tabs =
     }
 # Button label - "Open" is a verb (action to open, then group, tabs)
 smart-window-confirm-open-tab = Otvori
+# Button label - "Open" is a verb (action to open, then group, tabs)
+smart-window-confirm-open-tabs =
+    { $count ->
+        [one] Otvori { $count } karticu
+        [few] Otvori { $count } kartice
+       *[other] Otvori { $count } kartica
+    }
+# Action result labels for grouped tabs
+# Variables
+#   $count (number) - Number of tabs grouped
+smart-window-grouped-tabs-label =
+    { $count ->
+        [one] Grupirana je { $count } kartica
+        [few] Grupirane su { $count } kartice
+       *[other] Grupirano je { $count } kartica
+    }
+# Fallback name used in place of $label above when the model didn't provide
+# one for the tab group.
+smart-window-default-tab-group-label = Grupa kartica
+smart-window-opened-tabs-row-label = Otvorene kartice
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Prebačene kartice
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Prebačeno na „{ $title }”.
+# Action result labels for ungrouped tabs
+smart-window-grouped-and-ungrouped-label = Kartice razgrupirane
+# Variables
+#   $count (number) - Number of tabs ungrouped
+smart-window-ungroup-success-summary =
+    { $count ->
+        [one] Grupirana je { $count } kartica, zatim je razgrupirana.
+        [few] Grupirane su { $count } kartice, zatim su razgrupirane.
+       *[other] Grupirano je { $count } kartica, zatim su razgrupirane.
+    }
+smart-window-ungrouped-row-label =
+    { $count ->
+        [one] Razgrupirana je { $count } kartica
+        [few] Razgrupirane su { $count } kartice
+       *[other] Razgrupirano je { $count } kartica
+    }
 
 ## Action log
 
+action-log-searching-tabs = Pretraživanje kartica
+action-log-searched-open-tabs = Pretražene su otvorene kartice
+action-log-searching-history = Pretraživanje povijesti
+action-log-searched-history = Pretražena je povijest
+action-log-reading-page = Čitanje stranice
+# Read is past tense, to indicate that the action has been completed.
+action-log-read-page = Pročitan je sadržaj stranice
+action-log-searching-web = Pretraživanje weba
+action-log-searched-web = Pretražen je web
+# Exa is the name of a third-party web search API and a brand name that
+# should not be translated. The <a> wraps "Exa" as a link to a support
+# article explaining the third-party web search integration.
+action-log-searching-web-with-exa = Pretraživanje weba pomoću servisa <a data-l10n-name="exa-link">Exa</a>
 action-log-checking-memories = Provjera sjećanja
 action-log-checked-memories = Provjerena su sjećanja
+action-log-searching-settings = Pretraživanje postavki
+action-log-searched-settings = Pretražene su postavke

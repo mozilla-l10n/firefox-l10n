@@ -3,6 +3,47 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## Chrome
+
+smartwindow-document-title = Nova kartica
+
+## Smart Window Toggle Button
+
+ai-window-toggleview-switch-classic =
+    .label = Klasični prozor
+    .value = Klasični prozor
+ai-window-toggleview-switch-classic-description =
+    .label = Standardno pregledavanje
+    .value = Standardno pregledavanje
+ai-window-toggleview-switch-ai =
+    .label = { -smart-window-brand-name }
+    .value = { -smart-window-brand-name }
+ai-window-toggleview-switch-ai-description =
+    .label = Pitaj dok pregledavaš
+    .value = Pitaj dok pregledavaš
+ai-window-toggleview-switch-private =
+    .label = Privatni prozor
+ai-window-toggleview-open-private =
+    .label = Otvori novi privatni prozor
+ai-window-toggleview-status-label-active = { -smart-window-brand-name }
+ai-window-toggleview-status-label-inactive = Klasični prozor
+
+## Input CTA
+
+aiwindow-input-cta-submit-label-chat = Pitaj
+aiwindow-input-cta-submit-label-navigate = Idi
+aiwindow-input-cta-submit-label-search = Traži
+aiwindow-input-cta-submit-label-stop = Zaustavi
+aiwindow-input-cta-menu-label-chat = Pitaj
+aiwindow-input-cta-menu-label-navigate = Idi na stranicu
+# $searchEngineName (string) - The name of the default search engine
+aiwindow-input-cta-menu-label-search = Pretraži s { $searchEngineName }
+aiwindow-input-cta-menu-label-search-with = Pretraži s…
+aiwindow-input-cta-search-submenu-header = Traži
+aiwindow-input-cta-stop-button =
+    .aria-label = Zaustavi stvaranje odgovora
+    .title = Zaustavi odgovor
+
 ## Firstrun memories onboarding
 
 aiwindow-firstrun-memories-subtitle = { -smart-window-brand-name } može učiti iz tvojih razgovora, pregledavanja ili oboje i time stvarati sjećanja. Sjećanja s vremenom čine odgovore korisnijima.

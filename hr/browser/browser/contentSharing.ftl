@@ -45,3 +45,6 @@ content-sharing-modal-too-many-links-2 =
 content-sharing-modal-no-shareable-links =
     .heading = Nema poveznica za dijeljenje
     .message = Dijeliti se mogu samo poveznice na web sadržaj.
+content-sharing-modal-generic-error-2 =
+    .heading = Dogodila se neka greška
+    .message = Trenutno nismo mogli stvoriti tvoju dijeljenu stranicu. Pokušaj ponovo kasnije.

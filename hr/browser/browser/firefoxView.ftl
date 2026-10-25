@@ -22,10 +22,13 @@ firefoxview-syncedtabs-adddevice-header-2 = Ugrabi kartice od bilo kuda
 firefoxview-syncedtabs-adddevice-description-2 = Prijavi se na { -brand-product-name } na svom telefonu ili drugom računalu kako bi se ovdje prikazale kartice. Saznaj kako <a data-l10n-name="url">povezati dodatne uređaje</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Isprobaj { -brand-product-name } za mobitel
 firefoxview-tabpickup-synctabs-primarybutton = Sinkroniziraj otvorene kartice
+firefoxview-tabpickup-synctabs-primarybutton-2 = Uključi sinkronizaciju kartica
 firefoxview-syncedtabs-synctabs-header = Aktualiziraj tvoje postavke sinkronizacije
 firefoxview-syncedtabs-synctabs-description = Za prikaz kartica s drugih uređaja moraš sinkronizirati otvorene kartice.
+firefoxview-syncedtabs-synctabs-header-2 = Sinkronizacija kartica je isključena
 firefoxview-syncedtabs-loading-header = Sinkronizacija u tijeku
 firefoxview-syncedtabs-loading-description = Kada sinkronizacija završi, vidjet ćeš sve otvorene kartice s drugih uređaja. Navrati uskoro.
+firefoxview-syncedtabs-loading-header-2 = Dohvaćanje tvojih kartica…
 firefoxview-tabpickup-fxa-admin-disabled-header = Tvoja je organizacija deaktivirala sinkronizaciju
 firefoxview-tabpickup-fxa-disabled-by-policy-description = { -brand-short-name } ne može sinkronizirati kartice između uređaja jer je tvoja organizacija deaktivirala sinkronizaciju.
 firefoxview-tabpickup-network-offline-header = Provjeri internetsku vezu

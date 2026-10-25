@@ -134,6 +134,34 @@ home-prefs-support-firefox-header-srd =
     .label = { -brand-product-name } podrška
 home-prefs-mission-message-learn-more-link-srd = Saznaj kako
 
+## Privacy widget — count readout
+
+# Label shown under the large tracker-count number, appearing like:
+# Line 1: 86
+# Line 2: Trackers blocked today
+# Translations can be adjusted to "Today's blocked trackers" or something
+# similar if this fixed order causes issues.
+# Variables:
+#   $count (number) - Number of trackers blocked today
+newtab-privacy-trackers-blocked-today =
+    { $count ->
+        [one] blokirani program za praćenje
+        [few] blokirana programa za praćenje
+       *[other] blokiranih programa za praćenje
+    }
+# Second line of the readout, under the large number and "Trackers blocked
+# today". Counts the sites those trackers were blocked on. The English is
+# shortened from "Blocked across { $count } sites" — translate it that fuller way
+# if the short fragment doesn't work in your language.
+# Variables:
+#   $count (number) - Number of sites where trackers were blocked
+newtab-privacy-across-sites =
+    { $count ->
+        [one] na { $count } stranici
+        [few] na { $count } stranice
+       *[other] na { $count } stranica
+    }
+
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
@@ -142,6 +170,113 @@ newtab-privacy-empty-state = { -brand-short-name } automatski blokira programe z
 # Here we are referring to the number of trackers blocked, which increases as the user browses.
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Pogledaj ukupni broj ovdje.
+
+## Privacy widget — informational messages
+##
+## Rotating "info" secondary messages. Each message has a body plus a matched
+## "-cta" button label sharing the same id stem (the CTA button isn't rendered
+## yet; the labels are authored so the pairing is ready).
+
+newtab-privacy-message-info-1 = { -brand-short-name } automatski blokira programe za praćenje tijekom pregledavanja weba.
+newtab-privacy-message-info-1-cta = Pogledaj zaštite
+newtab-privacy-message-info-2-cta = Pogledaj zaštite
+newtab-privacy-message-info-3-cta = Pogledaj zaštite
+newtab-privacy-message-info-4 = Odabirom { -brand-short-name(case: "gen") } biraš i zaštitu po zadanome.
+newtab-privacy-message-info-4-cta = Pogledaj zaštite
+newtab-privacy-message-info-5-cta = Pogledaj zaštite
+newtab-privacy-message-info-6-cta = Saznaj više
+newtab-privacy-message-info-7-cta = Pogledaj zaštite
+newtab-privacy-message-info-8-cta = Saznaj više
+newtab-privacy-message-info-9-cta = Postavi kao zadano
+newtab-privacy-message-info-10-cta = Idi na lozinke
+newtab-privacy-message-info-11-cta = Saznaj više
+newtab-privacy-message-info-12-cta = Pogledaj zaštite
+newtab-privacy-message-info-13-cta = Pogledaj zaštite
+
+## Privacy widget — promotional messages
+##
+## Rotating "promo" secondary messages suggesting another Firefox feature. Each
+## has a body plus a matched "-cta" button label.
+
+newtab-privacy-message-promo-monitor-1-cta = Saznaj više
+newtab-privacy-message-promo-monitor-2-cta = Saznaj više
+newtab-privacy-message-promo-signin-1-cta = Prijavi se
+newtab-privacy-message-promo-vpn-1-cta = Otvori VPN
+newtab-privacy-message-promo-vpn-2-cta = Otvori VPN
+newtab-privacy-message-promo-vpn-3-cta = Otvori VPN
+newtab-privacy-message-promo-private-window-1-cta = Otvori privatni prozor
+newtab-privacy-message-promo-relay-1-cta = Nabavi maske
+newtab-privacy-message-promo-relay-2 = Zaštiti sandučić dolazne pošte od neželjene pošte besplatnim maskiranjem adrese e-pošte.
+newtab-privacy-message-promo-relay-2-cta = Nabavi maske
+newtab-privacy-message-promo-relay-3 = Nabavi 50 besplatnih maski e-pošte koje će ti pomoći da zadržiš svoju stvarnu e-poštu privatnom.
+newtab-privacy-message-promo-relay-3-cta = Nabavi maske
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
+newtab-privacy-message-milestone-week-cta = Pogledaj zaštite
+newtab-privacy-message-milestone-month-cta = Pogledaj zaštite
+newtab-privacy-message-milestone-year-cta = Pogledaj zaštite
+newtab-privacy-message-milestone-total-cta = Pogledaj zaštite
+newtab-privacy-message-daily-cap-cta = Pogledaj zaštite
+newtab-privacy-message-streak-cta = Pogledaj zaštite
+newtab-privacy-message-first-protection-cta = Pogledaj zaštite
+
+## Strings for the Finance widget
+
+# Context menu item linking to more information about the Finance widget.
+newtab-stocks-menu-learn-more = Saznaj više
+# Shown in the Finance widget when its data could not be loaded.
+newtab-stocks-error-not-available = Podaci o dionicama nisu dostupni.
+
+## Screen-reader summary of a stock ticker.
+## Variables:
+##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
+##   $change (String) - the day's percentage change, e.g. "+2.1%".
+##   $price (String) - the last price, e.g. "$559.44".
+
+# Stock increased (went up) during the day
+newtab-stocks-ticker-status-up = { $name }, raste { $change }, { $price }
+# Stock decreased (went down) during the day
+newtab-stocks-ticker-status-down = { $name }, pada { $change }, { $price }
+# Stock didn't change during the day
+newtab-stocks-ticker-status-flat = { $name }, bez promjene, { $change }, { $price }
+
+## Strings for the Picture of the Day widget
+
+# Title shown at the top of the widget, with the source name appended.
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-header = Slika dana · Wikimedia Commons
+# Shorter title shown at the top of the widget, without the source name.
+newtab-picture-header-main = Slika dana
+# Attribution line shown under the title once a picture loads: an author
+# credit, a link to the picture's source page, and a link to its license.
+# "©" is the copyright symbol.
+# $author (string) - the name of the image's author.
+newtab-picture-attribution-author = © { $author }
+# Link to the picture's source page (its Wikimedia Commons file page).
+# "Wikimedia Commons" is a brand name and should not be translated.
+newtab-picture-attribution-source-link = Wikimedia Commons
+# Screen-reader label for the license link; the visible text is the license
+# name (for example "CC BY-SA 4.0") provided with the picture.
+# $license (string) - the name of the license.
+newtab-picture-attribution-license =
+    .aria-label = Pogledaj licenciju { $license }
+# Button that sets the current picture as the New Tab background wallpaper. The
+# button collapses to an icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper =
+    .aria-label = Postavi današnju sliku kao pozadinu
+    .label = Postavi pozadinu
+    .title = Postavi pozadinu
+# Context menu item that opens the New Tab customization panel.
+newtab-picture-menu-manage-wallpaper = Upravljaj pozadinom
+# Context menu item that hides today’s picture, replacing it with an existing
+# wallpaper.
+newtab-picture-menu-hide-photo = Sakrij današnju sliku
+# Context menu item that restores today’s picture after it has been hidden.
+newtab-picture-menu-show-photo = Prikaži današnju sliku
 
 ## Strings for the Travel widget
 
@@ -869,6 +1004,13 @@ newtab-promo-card-cta = Saznajte više
 newtab-promo-card-dismiss-button =
     .aria-label = Odbaci
     .title = Odbaci
+
+## Strings introduced by the Nova redesign of the Timer widget
+
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Trebaš pauzu?
+# Message shown inside the Timer widget after a break session ends.
+newtab-widget-timer-celebration-message-break = Spreman/na za fokusiranje?
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
