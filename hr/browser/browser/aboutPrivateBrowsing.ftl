@@ -54,6 +54,8 @@ about-private-browsing-pin-promo-title = Bez spremljenih kolačića ili povijest
 
 ## Strings used in a promotion message for Firefox Relay
 
+about-private-browsing-relay-promo-header = Spriječi primanje neželjene pošte pomoću maski e-pošte
+about-private-browsing-relay-promo-title = Sakrij svoju pravu adresu pomoću maske e-pošte pri registraciji, šopingu ili dijeljenju na webu.
 about-private-browsing-relay-promo-link-text = Isprobaj maske e-pošte
 
 ## Strings used in a promotion message for cookie banner reduction
@@ -74,6 +76,7 @@ about-private-browsing-felt-privacy-v1-info-link = Tko može vidjeti moju aktivn
 about-private-browsing-nova-info-body = Zatvaranjem svih privatnih prozora brišete kolačiće, povijest i podatke web stranica.
 about-private-browsing-nova-info-link = Tko bi još uvijek mogao vidjeti moju aktivnost?
 about-private-browsing-private-window-basics-link = Osnove privatnog prozora
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } je dizajniran da štiti tvoju privatnost pri pregledavanju weba pomoću ugrađene zaštite od praćenja. Zatvaranjem ovoga prozora brišu se povijest, kolačići i podatci web stranica kako bi tvoje pregledavanje bilo zaštićeno od drugih osoba koje koriste ovaj uređaj.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
@@ -83,11 +86,26 @@ about-private-browsing-nova-info-subheader2 = Obrisat ćemo svaku pretragu i pri
 ## Strings for the Private Window basics spotlight
 
 about-private-browsing-spotlight-basics-title = Osnove privatnog prozora
+about-private-browsing-spotlight-basics-subtitle = Privatni prozori pomažu ti u očuvanju privatnosti pregledavanja od drugih osoba na ovom uređaju. Ne čine te anonimnim niti brišu sve tvoje podatke.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Što treba znati
+about-private-browsing-spotlight-basics-activity-seen =
+    Neke aktivnosti mogu biti dostupne internetskim stranicama, tražilicama, pružateljima
+    usluga ili tvojem poslodavcu.
+about-private-browsing-spotlight-basics-bookmarks-downloads =
+    Zabilješke i preuzimanja ostaju na tvojem uređaju i mogu se
+    pojaviti u adresnoj traci.
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing additional privacy protection features available in { -brand-short-name }.
 about-private-browsing-spotlight-basics-more-privacy = Više zaštita privatnosti
 about-private-browsing-spotlight-basics-malware-alerts = { -brand-short-name } te automatski upozorava na zlonamjerni softver i zavaravajuće stranice.
+# "Participating sites" refers to websites that honor Global Privacy Control (GPC) signals, either voluntarily or where legally required.
+about-private-browsing-spotlight-basics-no-sell-data =
+    { -brand-short-name } automatski traži od uključenih internetskih stranica da
+    ne prodaju ni dijele tvoje privatne podatke.
+about-private-browsing-spotlight-basics-vpn = Koristi ugrađeni VPN da otežaš praćenje svoje lokacije.
+# "Strict" refers to the Strict level of Enhanced Tracking Protection settings.
+# Translations should be consistent with the existing "Strict" string in about:preferences.
+about-private-browsing-spotlight-basics-strict-tracking = U postavkama odaberi „Strogo” za bolju zaštitu od praćenja.
 about-private-browsing-spotlight-basics-learn-more = Saznaj više
