@@ -375,6 +375,9 @@ newtab-stocks-list-watchlist = Спіс назірання
     .label = Спіс назірання
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Пошук па назве ці сімвале
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Фінансы
@@ -547,6 +550,9 @@ newtab-recent-searches-just-now = Толькі што
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Выдаліць «{ $search }» з нядаўніх пошукаў
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Пошук
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -657,6 +663,9 @@ newtab-topsites-image-url-label = Уласны URL выявы
 newtab-topsites-use-custom-image-link = Выкарыстоўваць уласную выяву
 newtab-topsites-use-image-link = Выкарыстоўваць уласную выяву…
 newtab-topsites-image-validation = Не ўдалося атрымаць выяву. Паспрабуйце іншы URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Ачысціць тэкст
 
@@ -1102,6 +1111,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Ліса з правага краю на аранжавым фоне
 newtab-wallpaper-firefox-colorful-sky = Хвалі аранжавага колеру на фіялетавым начным небе
 newtab-wallpaper-firefox-desert-dark = Ліса сядзіць у цёмна-фіялетавай пустыні
@@ -1867,6 +1879,9 @@ newtab-clock-widget-menu-edit = Змяніць гадзіннікі
 newtab-clock-widget-menu-switch-to-12h = Перайсці на 12-гадзінны фармат
 newtab-clock-widget-menu-switch-to-24h = Перайсці на 24-гадзінны фармат
 newtab-clock-widget-label-your-clocks = Вашы гадзіннікі
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Пошук горада
+    .aria-label = Пошук горада
 newtab-clock-widget-search-location-input =
     .aria-label = Пошук горада
     .label = Месцазнаходжанне
