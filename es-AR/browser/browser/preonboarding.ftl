@@ -28,6 +28,6 @@ preonboarding-privacy-notice-header-button-title-b-v2 = Nota de privacidad
 preonboarding-header-button-description = Leer más
 # New user onboarding checklist
 preonboarding-checklist-interaction-data-label = Enviar datos técnicos y de interacción a { -vendor-short-name }
-preonboarding-checklist-interaction-data-description = Los datos sobre tu dispositivo, la configuración de hardware y cómo se usa { -brand-product-name } ayudan a mejorar las funciones, el rendimiento y la estabilidad para los usuarios de todo el mundo.
+preonboarding-checklist-interaction-data-description = Los datos sobre el dispositivo, la configuración de hardware y cómo se usa { -brand-product-name } ayudan a mejorar las funciones, el rendimiento y la estabilidad para los usuarios de todo el mundo.
 preonboarding-checklist-crash-reports-label = Enviar informes de fallos automáticamente
 preonboarding-checklist-crash-reports-description = Los informes de fallos nos permiten diagnosticar y solucionar problemas del navegador. Los informes pueden incluir datos personales o confidenciales.
