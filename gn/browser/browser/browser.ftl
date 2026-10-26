@@ -243,6 +243,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Mboja ha jeho
     .accesskey = G
+urlbar-menuitem-paste-and-search =
+    .label = Mboja ha heka
+    .accesskey = S
 
 ## Searchbar context menu
 
