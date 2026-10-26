@@ -1853,7 +1853,39 @@ notifications-entry-manage-button =
 # notification decision. It deliberately carries no description: the empty
 # state is stated on the Notifications page rather than on this row.
 notifications-entry-manage-button-empty =
-    .label = Ustawienia powiadomień od witryn
+    .label = Ustawienia powiadomień witryn
+notifications-website-card-header =
+    .description = Wybierz, w jaki sposób witryny mogą wysyłać powiadomienia.
+    .label = Powiadomienia witryn
+notifications-filter =
+    .placeholder = Szukaj witryn
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Witryna
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Zezwolenie na powiadomienia
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Witryny
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Zezwalaj także po zamknięciu przeglądarki
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Zezwalaj
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Nigdy nie zezwalaj
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Nie dodano powiadomień z żadnych witryn.
 
 ## Privacy Section - Data Collection
 
