@@ -54,9 +54,25 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Ievietot atlasīto tekstu starpliktuvē
     .tooltiptext = Ievietot atlasīto tekstu starpliktuvē
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Ievietots starpliktuvē
 genai-shortcut-more-actions-button =
     .aria-label = Vairāk iespēju
     .tooltiptext = Vairāk iespēju
+genai-more-actions-panel =
+    .aria-label = Izvēlies, kuras darbības rādīt
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Vaicāt { $provider }
+genai-more-actions-ai-generic =
+    .label = Vaicāt MI
+genai-more-actions-search =
+    .label = Meklēt
+genai-more-actions-copy =
+    .label = Ievietot starpliktuvē
+genai-more-actions-manage-settings =
+    .label = Pārvaldīt iestatījumus
 genai-input-ask-generic =
     .placeholder = Vaicāt AI tērzēšanas robotam…
 # $provider (string) - name of the provider
@@ -94,3 +110,8 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Meklēt
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Ievietot starpliktuvē

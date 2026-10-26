@@ -86,6 +86,19 @@ neterror-dns-not-found-hint-check-network-2 = Pārbaudīt savienojumu ar interne
 neterror-dns-not-found-hint-firewall-2 = Pārliecināties, ka { -brand-short-name } ir atļauja piekļūt tīmeklim (var būt izveidots savienojums, bet aiz ugunsmūra).
 neterror-dns-not-found-offline-hint-header = <strong>Ko ar šo var iesākt?</strong>
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Nekas nepieņem savienojumus portā { $port }. Jāpārliecinās, ka vietējais serveris darbojas.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Ja tas darbojas, jāpārliecinās, ka tas izmanto portu { $port }.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Jāpārliecinās, ka serveris šajā adresē pieņem savienojumus. Daži serveri klausās tikai [::1] vai tikai 127.0.0.1.
+
 ##
 
 neterror-file-not-found-filename = Pārbaudiet, vai faila vārds ir uzrakstīts pareizi un ar pareizā lieluma burtiem.

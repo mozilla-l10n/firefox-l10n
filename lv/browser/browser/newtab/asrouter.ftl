@@ -334,3 +334,17 @@ refresh-profile-infobar-button = Atsvaidzināt { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Vai atvērt iepriekšējās cilnes?</strong> Iepriekšējo sesiju var atjaunot { -brand-short-name } lietotnes izvēlnē <img data-l10n-name="icon"/> sadaļā “Vēsture”.
 restore-session-startup-suggestion-button = Parādīt, kā
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Atver savas iecienītākās vietnes kā lietotni
+taskbar-tabs-spotlight-subtitle = Viens klikšķis palaiž visbiežāk izmantotās vietnes vienkāršotā logā ar visu { -brand-short-name } aizsardzību.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Jāatlasa, lai pievienotu rīkjoslai
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Pievienot
+taskbar-tabs-spotlight-done-button = Gatavs

@@ -351,6 +351,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Horoskopu iespējas
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Uzzināt vairāk
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Darbina Yahoo
 
 ## Strings for the Travel widget
 
@@ -800,6 +803,14 @@ newtab-weather-menu-change-location = Mainīt atrašanās vietu
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Meklēt atrašanās vietu
     .placeholder = Meklēt atrašanās vietu
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Atpakaļ
+    .title = Atpakaļ
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Atrašanās vietas ieteikumi
 newtab-weather-cancel-input =
     .aria-label = Atcelt
     .title = Atcelt
@@ -975,6 +986,10 @@ newtab-nova-customization-callout-primary-button =
 
 ## Strings for the Clock widget
 
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Atpakaļ
+    .title = Atpakaļ
 newtab-clock-widget-search-location-input2 =
     .aria-label = Meklēt pilsētu
     .placeholder = Meklēt pilsētu
