@@ -1849,6 +1849,11 @@ notifications-entry-manage-button =
            *[many] { $count } witryn
         }
     .label = Ustawienia powiadomień
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Ustawienia powiadomień od witryn
 
 ## Privacy Section - Data Collection
 
