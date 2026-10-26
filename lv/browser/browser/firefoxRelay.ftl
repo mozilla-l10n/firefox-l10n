@@ -13,7 +13,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nevarēja atrast
 
 ##
 
-firefox-relay-must-login-to-account = Jāpiesakās kontā, lai izmantotu savus { -relay-brand-name } epasta aizsegus.
+firefox-relay-must-login-to-account = Jāpiesakās kontā, lai izmantotu savus { -relay-brand-name } e-pasta aizsegus.
 firefox-relay-get-unlimited-masks =
     .label = Pārvaldīt aizsegus
     .accesskey = P
@@ -32,17 +32,17 @@ firefox-relay-see-all-masks =
     .label = Apskatīt visus aizsegus
     .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
-firefox-relay-opt-in-title-1 = Aizsargā savu epasta adresi:
+firefox-relay-opt-in-title-1 = Aizsargā savu e-pasta adresi:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
-firefox-relay-opt-in-subtitle-1 = Izmantot { -relay-brand-name } epasta aizsegu
-firefox-relay-use-mask-title-1 = Izmantot epasta aizsegu
-firefox-relay-use-mask-title = Izmantot { -relay-brand-name } epasta aizsegu
+firefox-relay-opt-in-subtitle-1 = Izmantot { -relay-brand-name } e-pasta aizsegu
+firefox-relay-use-mask-title-1 = Izmantot e-pasta aizsegu
+firefox-relay-use-mask-title = Izmantot { -relay-brand-name } e-pasta aizsegu
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-b
-firefox-relay-opt-in-title-b = Iegūsti bezmaksas epasta aizsegu
+firefox-relay-opt-in-title-b = Iegūsti bezmaksas e-pasta aizsegu
 firefox-relay-opt-in-confirmation-enable-button =
-    .label = Izmantot epasta aizsegU
-    .accesskey = U
+    .label = Izmantot e-pasta aizsegu
+    .accesskey = I
 firefox-relay-opt-in-confirmation-disable =
     .label = Turpmāk vairs nerādīt
     .accesskey = T
@@ -52,7 +52,7 @@ firefox-relay-opt-in-confirmation-postpone =
 
 ## The "with-domain" variation of the Relay offer popup
 
-firefox-relay-and-fxa-popup-notification-header-with-domain = Iegūsti bezmaksas epasta aizsegu
+firefox-relay-and-fxa-popup-notification-header-with-domain = Iegūsti bezmaksas e-pasta aizsegu
 
 ## The "with-domain-and-value-prop" variation of the Relay offer popup
 
