@@ -231,11 +231,19 @@ link-preview-settings-key-points =
     .label = Emoneĩ AI mongu’eha tomoñe’ẽ kuatiarogue ñepyrũ ha tomoheñói mba’e porã
 link-preview-settings-long-press =
     .label = Mbopya’eha: Eikutu ha ejopy juajuha ári peteĩ aravo’ive aja (ejopy are).
+highlight-to-search-settings-enable =
+    .description = Erekóta jeike pya’eha oikóva eiporavóvo tetepy.
+    .label = Ehechauka jeike poravoha eiporavóvo moñe’ẽrã
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = Eporandu { $provider }-pe
 highlight-to-search-settings-ask-generic =
     .label = Eporandu IA-pe
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Search" is a verb: the action searches the selected text
+# with the default search engine.
+highlight-to-search-settings-search =
+    .label = Eheka
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ehechave IA ndive?
 # Message that appears when user is shown the opt-in flow for link previews

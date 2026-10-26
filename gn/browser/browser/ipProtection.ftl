@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Rohechauka VPN, ko’ág̃a ne kundah�
 ipprotection-feature-introduction-title-1 = Eiporu VPN jehe’apyre { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Eiporu ore <a data-l10n-name="learn-more-vpn">VPN juajupyre</a> pyahu eñomi hag̃ua ne rendaite ha emo’ã ne mba’ekuaarã.
 ipprotection-feature-introduction-title-privacy = Embojuaju ambue tekoñemiverã
+ipprotection-feature-introduction-title-privacy-1 = Embojuaju tekoñemive VPN mbojuajupyre ndive
 ipprotection-feature-introduction-link-text-privacy-1 = VPN oñemohendapyréva <a data-l10n-name="learn-more-vpn">{ -brand-product-name }</a> rehegua oipytyvõ omo’ã hag̃ua ne ñeikundaha. Eiporavo heta hendágui eikundaha ñemi hag̃ua.
 ipprotection-feature-introduction-link-text-privacy-3 = Ehupyty <a data-l10n-name="learn-more-vpn">tekoñemive</a> eiporavóvo heta tendaite apytégui eñomi hag̃ua eikundahaha.
 ipprotection-feature-introduction-title-summer-promo = ¿Eviajasépa? Egueraha nendive nde rekoñemi.

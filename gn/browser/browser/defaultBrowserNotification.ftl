@@ -43,3 +43,4 @@ default-browser-guidance-notification-v2-title = Ejapo { -brand-short-name } tah
 default-browser-guidance-notification-v2-body = Ñembohekohápe, eiporavo “Emoĩ ypyguárõ” { -brand-short-name }-pe g̃uarã.
 default-browser-guidance-notification-v2-title-only = Ejapo { -brand-short-name } taha’e ne kundahára ypyguáva Ñembohekohápe
 default-browser-guidance-notification-auto-trigger-title = Embojuruja juajuha { -brand-short-name } ndive
+default-browser-guidance-notification-auto-trigger-body = Eiporu { -brand-short-name } ne kundahára ypyguávarõ Ñembohekohápe.
