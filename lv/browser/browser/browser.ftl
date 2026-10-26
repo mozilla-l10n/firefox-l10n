@@ -1414,12 +1414,12 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-to-use-relay = Mūsu drošie, vienkārši izmantojamie aizsegi aizsargā Tavu identitāti un novērš mēstules ar e-pasta adreses paslēpšanu.
+firefox-relay-offer-why-to-use-relay = Mūsu drošie, vienkārši izmantojamie aizsegi aizsargā Tavu identitāti un novērš mēstules ar epasta adreses paslēpšanu.
 # Variables:
 #  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-provides = Visi uz Taviem e-pasta aizsegiem nosūtītie e-pasta ziņojumi tiks pārvirzīti uz <strong>{ $useremail }</strong> (ja vien neizlemsi aizturēt tos).
-firefox-relay-offer-legal-notice = Klikšķinot uz “Izmantot e-pasta aizsegu” tiek sniegta piekrišana <label data-l10n-name="tos-url">pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">privātuma paziņojumam </label>.
-firefox-relay-offer-legal-notice-1 = Ar reģistrēšanos un e-pasta aizsega izveidošanau Tu piekrīti <label data-l10n-name="tos-url">Pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">Paziņojumam par privātumu</label>.
+firefox-relay-offer-what-relay-provides = Visi uz Taviem epasta aizsegiem nosūtītie epasta ziņojumi tiks pārvirzīti uz <strong>{ $useremail }</strong> (ja vien neizlemsi aizturēt tos).
+firefox-relay-offer-legal-notice = Klikšķinot uz “Izmantot epasta aizsegu” tiek sniegta piekrišana <label data-l10n-name="tos-url">pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">privātuma paziņojumam </label>.
+firefox-relay-offer-legal-notice-1 = Ar reģistrēšanos un epasta aizsega izveidošanau Tu piekrīti <label data-l10n-name="tos-url">Pakalpojumu sniegšanas noteikumiem</label> un <label data-l10n-name="privacy-url">Paziņojumam par privātumu</label>.
 
 ## Add-on Pop-up Notifications
 

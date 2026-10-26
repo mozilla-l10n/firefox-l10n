@@ -54,9 +54,9 @@ about-private-browsing-pin-promo-title = Netiek saglabātas sīkdatnes vai vēst
 
 ## Strings used in a promotion message for Firefox Relay
 
-about-private-browsing-relay-promo-header = Palīdzi novērst mēstules iesūtnē ar e-pasta aizsegiem
-about-private-browsing-relay-promo-title = Paslēp savu īsto adresi ar e-pasta aizsegu, kad piesakies, iepērcies vai kopīgo to tiešsaistē.
-about-private-browsing-relay-promo-link-text = Izmēģini e-pasta aizsegus
+about-private-browsing-relay-promo-header = Palīdzi novērst mēstules iesūtnē ar epasta aizsegiem
+about-private-browsing-relay-promo-title = Paslēp savu īsto adresi ar epasta aizsegu, kad piesakies, iepērcies vai kopīgo to tiešsaistē.
+about-private-browsing-relay-promo-link-text = Izmēģini epasta aizsegus
 
 ## Strings used in a promotion message for cookie banner reduction
 

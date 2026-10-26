@@ -325,9 +325,9 @@ appmenuitem-monitor-title = { -monitor-brand-short-name }
 appmenuitem-monitor-description = Saņemt brīdinājumus par datu noplūdēm
 appmenuitem-relay-title = { -relay-brand-short-name }
 # Shown in place of appmenuitem-relay-title2 when the user has signed up for Relay.
-appmenuitem-relay-title-signed-in = Apskatīt e-pasta aizsegus
-appmenuitem-relay-description = Aizsedz savu īsto e-pasta adresi un tālruni
-appmenuitem-services-relay-description = Palaist e-pasta aizsegu pārskata paneli
+appmenuitem-relay-title-signed-in = Apskatīt epasta aizsegus
+appmenuitem-relay-description = Aizsedz savu īsto epasta adresi un tālruni
+appmenuitem-services-relay-description = Palaist epasta aizsegu pārskata paneli
 appmenuitem-vpn-description5 = Iegūsti papildu aizsardzību savās ierīcēs
 # Shown in place of appmenuitem-vpn-title2 when the user has signed up for VPN.
 appmenuitem-vpn-title-signed-in1 = Lejupielādēt { -mozilla-vpn-brand-name }

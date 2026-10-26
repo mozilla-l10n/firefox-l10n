@@ -194,8 +194,8 @@ main-context-menu-bookmark-page-2 =
 ##
 
 main-context-menu-copy-email =
-    .label = Kopēt e-pasta adresi
-    .accesskey = e
+    .label = Kopēt epasta adresi (l)
+    .accesskey = l
 main-context-menu-copy-phone =
     .label = Kopēt tālruņa numuru
     .accesskey = o
@@ -344,8 +344,8 @@ main-context-menu-use-saved-password =
     .label = Izmantot saglabāto paroli
     .accesskey = o
 main-context-menu-use-relay-mask =
-    .label = Izmantot { -relay-brand-short-name } e-pasta aizsegu
-    .accesskey = e
+    .label = Izmantot { -relay-brand-short-name } Epasta aizsegu
+    .accesskey = E
 main-context-menu-suggest-strong-password =
     .label = Ieteikt spēcīgu paroli…
     .accesskey = s
