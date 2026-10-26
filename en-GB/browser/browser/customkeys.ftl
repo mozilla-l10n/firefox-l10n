@@ -17,6 +17,7 @@ customkeys-reset-all = Reset all shortcuts to defaults
 customkeys-conflict-confirm = This key is already assigned to { $conflict }. Do you want to replace it?
 customkeys-reset-all-confirm = Are you sure you wish to reset all keyboard shortcuts to their defaults?
 customkeys-file-duplicate-tab = Duplicate Tab
+customkeys-file-copy-tab-url = Copy Tab URL
 customkeys-file-focus-search = Focus the Search Bar
 customkeys-history-reopen-tab = Reopen Last Closed Tab
 customkeys-history-reopen-window = Reopen Last Closed window
