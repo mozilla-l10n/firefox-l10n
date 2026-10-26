@@ -1365,6 +1365,11 @@ windows-passkey-settings-label = Prístupové kľúče môžete spravovať v nas
 privacy-panel-settings-header =
     .description = Získajte pomoc s ochranou svojich údajov vo { -brand-short-name(case: "loc") }.
     .label = Nastavenia panela ochrany osobných údajov
+# By “breach message” we mean the UI messaging shown when Firefox detects that a
+# site the user has interacted with has been involved in a known data breach
+privacy-panel-breach-alerts =
+    .label = Zobrazovať hlásenia o únikoch údajov
+    .accesskey = b
 
 ## OS Authentication dialog
 

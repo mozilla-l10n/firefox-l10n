@@ -551,6 +551,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Horoskop-innstillingar
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Les meir
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Driven av Yahoo
 
 ## Strings for the Travel widget
 
@@ -1119,6 +1122,10 @@ newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Søk plassering
     .placeholder = Søk plassering
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Tilbake
+    .title = Tilbake
 newtab-weather-cancel-input =
     .aria-label = Avbryt
     .title = Avbryt
@@ -1831,6 +1838,10 @@ newtab-clock-widget-menu-edit = Rediger klokker
 newtab-clock-widget-menu-switch-to-12h = Byt til 12-timars format
 newtab-clock-widget-menu-switch-to-24h = Byt til 24-timars format
 newtab-clock-widget-label-your-clocks = Dine klokker
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Tilbake
+    .title = Tilbake
 newtab-clock-widget-search-location-input2 =
     .aria-label = Søk etter ein by
     .placeholder = Søk etter ein by

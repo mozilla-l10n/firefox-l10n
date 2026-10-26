@@ -530,3 +530,17 @@ refresh-profile-infobar-button = Obnoviť { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Chcete otvoriť predchádzajúce karty?</strong> Predchádzajúcu reláciu môžete obnoviť z ponuky { -brand-short-name(case: "gen") } <img data-l10n-name="icon"/>, v časti História.
 restore-session-startup-suggestion-button = Ako na to
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Otvárajte obľúbené weby ako aplikácie
+taskbar-tabs-spotlight-subtitle = Jediným kliknutím otvoríte najpoužívanejšie stránky v prehľadnom okne so všetkými ochrannými funkciami prehliadača { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Vyberte stránky, ktoré chcete pridať na panel úloh
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Pridať
+taskbar-tabs-spotlight-done-button = Hotovo

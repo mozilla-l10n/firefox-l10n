@@ -17,6 +17,7 @@ customkeys-reset-all = Obnoviť všetky skratky na predvolené hodnoty
 customkeys-conflict-confirm = Tento kláves je už priradený pre { $conflict }. Chcete ho nahradiť?
 customkeys-reset-all-confirm = Naozaj chcete obnoviť všetky klávesové skratky na ich predvolené hodnoty?
 customkeys-file-duplicate-tab = Duplikovať kartu
+customkeys-file-copy-tab-url = Kopírovať adresu URL karty
 customkeys-file-focus-search = Prejsť do vyhľadávacieho panela
 customkeys-history-reopen-tab = Znova otvoriť poslednú zatvorenú kartu
 customkeys-history-reopen-window = Znova otvoriť posledné zatvorené okno

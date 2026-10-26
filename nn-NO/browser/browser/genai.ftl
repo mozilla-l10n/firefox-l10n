@@ -70,9 +70,23 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Kopier vald tekst
     .tooltiptext = Kopier vald tekst
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Kopiert
 genai-shortcut-more-actions-button =
     .aria-label = Fleire innstillingar
     .tooltiptext = Fleire innstillingar
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Spør { $provider }
+genai-more-actions-ai-generic =
+    .label = Spør KI
+genai-more-actions-search =
+    .label = Søk
+genai-more-actions-copy =
+    .label = Kopier
+genai-more-actions-manage-settings =
+    .label = Handsam innstillingar
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Spør { $provider }
@@ -238,6 +252,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Søk
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopier
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Sjå meir med KI?
 # Message that appears when user is shown the opt-in flow for link previews

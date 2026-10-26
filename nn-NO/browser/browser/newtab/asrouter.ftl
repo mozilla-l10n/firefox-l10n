@@ -519,3 +519,13 @@ refresh-profile-infobar-button = Frisk opp { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Opne tidlegare faner?</strong> Du kan gjenopprette den siste økta frå { -brand-short-name }-programmenyen <img data-l10n-name="icon"/>, under Historikk.
 restore-session-startup-suggestion-button = Vis meg korleis
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Legg til
+taskbar-tabs-spotlight-done-button = Ferdig

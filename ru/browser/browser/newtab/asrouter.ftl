@@ -530,3 +530,17 @@ refresh-profile-infobar-button = Очистить { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Открыть предыдущие вкладки?</strong> Вы можете восстановить предыдущий сеанс из меню { -brand-short-name } <img data-l10n-name="icon"/> в разделе «История».
 restore-session-startup-suggestion-button = Показать мне как
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Открывайте любимые сайты, как приложения
+taskbar-tabs-spotlight-subtitle = Одним щелчком мыши запускайте ваши наиболее часто используемые сайты в удобном окне со всей защитой { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Выберите, чтобы добавить на панель задач
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Добавить
+taskbar-tabs-spotlight-done-button = Готово

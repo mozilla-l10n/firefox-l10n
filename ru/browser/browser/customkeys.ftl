@@ -17,6 +17,7 @@ customkeys-reset-all = Сбросить все сочетания на наст�
 customkeys-conflict-confirm = Это сочетание уже назначено на { $conflict }. Вы хотите заменить его?
 customkeys-reset-all-confirm = Вы уверены, что хотите установить для всех сочетаний клавиш значения по умолчанию?
 customkeys-file-duplicate-tab = Дублировать вкладку
+customkeys-file-copy-tab-url = Копировать URL вкладки
 customkeys-file-focus-search = Сфокусироваться на панели поиска
 customkeys-history-reopen-tab = Восстановление последней закрытой вкладки
 customkeys-history-reopen-window = Восстановление последнего закрытого окна
