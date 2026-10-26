@@ -375,6 +375,9 @@ newtab-stocks-list-watchlist = Listă de urmărire
     .label = Listă de urmărire
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Caută după nume sau simbol
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finanţe
@@ -547,6 +550,9 @@ newtab-recent-searches-just-now = Adineauri
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Elimină „{ $search }” din căutările recente
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Caută
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -657,6 +663,9 @@ newtab-topsites-image-url-label = URL pentru imagine personalizată
 newtab-topsites-use-custom-image-link = Folosește o imagine personalizată
 newtab-topsites-use-image-link = Folosește o imagine personalizată…
 newtab-topsites-image-validation = Imaginea nu s-a încărcat. Încearcă o altă adresă.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Șterge textul
 
@@ -1102,6 +1111,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = O vulpe în partea dreaptă, pe un fundal portocaliu
 newtab-wallpaper-firefox-colorful-sky = Valuri portocalii pe un cer nocturn violet
 newtab-wallpaper-firefox-desert-dark = O vulpe așezată într-un deșert violet întunecat
@@ -1867,6 +1879,9 @@ newtab-clock-widget-menu-edit = Editează ceasurile
 newtab-clock-widget-menu-switch-to-12h = Treci la formatul de 12 ore
 newtab-clock-widget-menu-switch-to-24h = Treci la formatul de 24 de ore
 newtab-clock-widget-label-your-clocks = Ceasurile tale
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Caută un oraș
+    .aria-label = Caută un oraș
 newtab-clock-widget-search-location-input =
     .aria-label = Caută un oraș
     .label = Locație
