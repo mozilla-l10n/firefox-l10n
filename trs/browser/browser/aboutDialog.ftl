@@ -28,17 +28,17 @@ update-applying = Hìaj nagi'iaj nakàj sa naduninjt
 settings-update-applying =
     .label = Hìaj nagi'iaj nakàj sa naduninjt
 update-failed = Guire’ sa nagui’iaj naka. <label data-l10n-name="failed-link">Naduninj sa naka doj</label>
-update-failed-main = Guire’ sa nagui’iaj naka. <a data-l10n-name="failed-link-main">Naduninj sa naka doj</a>
+update-failed-main = Gire’ sa nagu’iaj nakà. <a data-l10n-name="failed-link-main">Naduninj sa nakà doj</a>
 update-policy-disabled = Giyichin’ sa nāhuin nākàa ‘hiaj ‘ngō yi’nïn’ïn
 settings-update-policy-disabled =
     .label = Giyichin’ sa nāhuin nākàa ‘hiaj ‘ngō yi’nïn’ïn
-update-noUpdatesFound = { -brand-short-name } nga ganahuin naka
+update-noUpdatesFound = { -brand-short-name } ngà ganahuin nakà ma
 settings-update-no-updates-found =
-    .label = { -brand-short-name } nga ganahuin naka
+    .label = { -brand-short-name } ngà ganahuin nakà ma
 aboutdialog-update-checking-failed = Gire’ guendâ nana’huij nej sa nahuin nākàa.
 settings-update-checking-failed =
     .label = Gire’ guendâ nana’huij nej sa nahuin nākàa.
-update-otherInstanceHandlingUpdates = { -brand-short-name } nahui nakà ma 'iaj a'ngo ña achín nì'iô'
+update-otherInstanceHandlingUpdates = { -brand-short-name } nahui nakà ma 'iaj a'ngô ña achín nì'iô'
 settings-update-other-instance-handling-updates =
     .label = { -brand-short-name } nahui nakà ma 'iaj a'ngo ña achín nì'iô'
 
@@ -47,7 +47,7 @@ settings-update-other-instance-handling-updates =
 
 aboutdialog-update-manual-with-link = Gà' hua sa nakà doj riña <label data-l10n-name="manual-link">{ $displayUrl }</label>
 settings-update-manual-with-link = Gà' hua sa nakà doj riña <a data-l10n-name="manual-link">{ $displayUrl }</a>
-update-unsupported = Si ga'ue nagi'iaj nakà rè' doj riña aga' na gà' rû' huaj<label data-l10n-name="unsupported-link">Gahuin chrun doj</label>
+update-unsupported = Si ga'hue nagi'iaj nakà rè' doj riña aga' na gà' rû' huaj<label data-l10n-name="unsupported-link">Gahuin chrun doj</label>
 settings-update-unsupported = Si ga'ue nagi'iaj nakà rè' doj riña aga' na gà' rû' huaj<a data-l10n-name="unsupported-link">Gahuin chrun doj</a>
 update-restarting = Nayi'ì ñûn
 settings-update-restarting =
@@ -59,7 +59,7 @@ settings-update-internal-error = Na’hue gā’nïn nānà’huij sa nāhuin n�
 
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
-aboutdialog-channel-description = Riñan man sa naka doj huin <label data-l10n-name="current-channel">{ $channel }</label> nan.
+aboutdialog-channel-description = Riñan man sa nakà doj huin <label data-l10n-name="current-channel">{ $channel }</label> nan.
 warningDesc-version = { -brand-short-name } ma si arajhuè si ngàj ni ga'ue si gi'iaj sun hue'ej
 aboutdialog-help-user = { -brand-product-name } Sa rūgûñu’ūnj un
 aboutdialog-submit-feedback = Gā’nïnj \‘ngō Sinūguàn\’t
