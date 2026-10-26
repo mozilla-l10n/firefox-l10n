@@ -18,3 +18,4 @@ moz-box-item-reorder-handle-named =
 ##   $total (number) - The total number of items in the list.
 
 moz-box-group-reorder-announcement = Elemento spostato in posizione { $position } su { $total }
+
