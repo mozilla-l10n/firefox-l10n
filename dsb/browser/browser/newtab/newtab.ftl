@@ -383,6 +383,9 @@ newtab-stocks-list-watchlist = Lisćina wobglědowanjow
     .label = Lisćina wobglědowanjow
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Pó mjenju abo symbolu pytaś
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finance
@@ -556,6 +559,9 @@ newtab-recent-searches-just-now = Rowno
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” z nejnowšych pytanjow wótwónoźeś
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Pytaś
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -666,6 +672,9 @@ newtab-topsites-image-url-label = URL swójskego wobraza
 newtab-topsites-use-custom-image-link = Swójski wobraz wužywaś
 newtab-topsites-use-image-link = Swójski wobraz wužywaś…
 newtab-topsites-image-validation = Wobraz njedajo se zacytaś. Wopytajśo drugi URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Tekst lašowaś
 
@@ -1112,6 +1121,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Liška na pšawej kšomje na oranžowej slězynje
 newtab-wallpaper-firefox-colorful-sky = Oranžowe žwały pśez wioletne nocne njebjo
 newtab-wallpaper-firefox-desert-dark = Liška, kótaraž w śamnej wioletnej pusćinje sejźi
@@ -1880,6 +1892,9 @@ newtab-clock-widget-menu-edit = Zegery wobźěłaś
 newtab-clock-widget-menu-switch-to-12h = Do 12-góźińskego formata změniś
 newtab-clock-widget-menu-switch-to-24h = Do 24-góźińskego formata změniś
 newtab-clock-widget-label-your-clocks = Waše zegery
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Město pytaś
+    .aria-label = Město pytaś
 newtab-clock-widget-search-location-input =
     .aria-label = Město pytaś
     .label = Stojnišćo
