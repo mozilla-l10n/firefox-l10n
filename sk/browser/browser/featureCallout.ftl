@@ -207,7 +207,7 @@ sidebar-deprecation-cta-button = Vyskúšajte si to hneď teraz
 
 vertical-tabs-callout-1-title = Ste zahltení príliš veľkým počtom kariet?
 vertical-tabs-callout-1-subtitle = Vyskúšajte naše nové zvislé rozloženie kariet na rýchle prehľadanie zoznamu kariet. Prví testeri uvádzajú, že toto rozloženie im pomáha cítiť sa organizovanejšie. Prepnúť môžete kedykoľvek.
-vertical-tabs-callout-1-cta-button = Vyskúšajte vertikálne karty
+vertical-tabs-callout-1-cta-button = Vyskúšať vertikálne karty
 vertical-tabs-callout-2-cta-button = Vyskúšať teraz
 vertical-tabs-callout-2-title = Zvyknete mať otvorených veľa kariet? Vyskúšajte vertikálne karty.
 vertical-tabs-callout-2-subtitle = Toto rozloženie uľahčuje rýchle skenovanie zoznamu kariet. Navyše môžete upraviť šírku, aby ste videli viac alebo menej názvov kariet.
