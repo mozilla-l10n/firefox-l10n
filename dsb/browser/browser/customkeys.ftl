@@ -17,6 +17,7 @@ customkeys-reset-all = Wšykne skrotconki na standard slědk stajiś
 customkeys-conflict-confirm = Toś ta tasta jo južo { $conflict } pśipokazana. Cośo ju wuměniś?
 customkeys-reset-all-confirm = Sćo se wěsty, až cośo wšykne tastowe skrotconki na jich standard slědk stajiś?
 customkeys-file-duplicate-tab = Rejtarik pódwójś
+customkeys-file-copy-tab-url = URL rejtarika kopěrowaś
 customkeys-file-focus-search = Fokusěrujśo pytańsku rědku
 customkeys-history-reopen-tab = Zacynjony rejtarik znowego wótnowiś
 customkeys-history-reopen-window = Slědne zacynjone wokno zasej wócyniś

@@ -540,7 +540,7 @@ restore-session-startup-suggestion-button = Pokazajće kak
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = Wočińće swoje najlubše sydła kaž nałoženje
-taskbar-tabs-spotlight-subtitle = Jedyn klik waše najhusćišo wužity sydła w podhladnym woknje ze wšěmi škitami { -brand-short-name } startuje.
+taskbar-tabs-spotlight-subtitle = Jedyn klik waše najhusćišo wužite sydła w přehladnym woknje ze wšěmi škitami { -brand-short-name } startuje.
 # Heading above the list of suggested websites.
 taskbar-tabs-spotlight-sites-heading = Wubjerće, štož so ma wašej nadawkowej lajsće přidać
 # Button shown in each row of the list of websites. Clicking it adds the
