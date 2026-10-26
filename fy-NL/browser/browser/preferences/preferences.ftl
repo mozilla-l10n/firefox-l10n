@@ -1828,6 +1828,28 @@ permissions-data-section =
     .heading = Tastimmingen en gegevens
 pane-permissions-data-title2 = Tastimmingen en gegevens
     .title = Tastimmingen en gegevens
+notifications-filter =
+    .placeholder = Websites trochsykje
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Website
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Websites
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Altyd
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Tastean
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Nea
 
 ## Privacy Section - Data Collection
 

@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Gean fierder mei de
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brûk ús nije <a data-l10n-name="learn-more-vpn">ynboude VPN</a> om jo lokaasje te ferstopjen en jo gegevens te beskermjen, sels as jo yn in priveefinster binne.
 ipprotection-feature-introduction-description-private-browsing = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels as jo in priveefinster brûke.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Help jo lokaasje te ferbergjen wylst jo sneupe. Stel regels yn om VPN yn te skeakeljen as jo <a data-l10n-name="learn-more-vpn">ekstra privacy</a> of lokaasje-basearre blêdzjen wolle, en út te skeakeljen as jo dat net wolle.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Help jo lokaasje te ferbergjen foar <a data-l10n-name="learn-more-vpn">ekstra privacy</a> wylst jo sneupe. Stel regels yn om de VPN yn te skeakeljen foar ekstra privacy of lokaasje-basearre navigearjen, en út te skeakeljen wêr’t jo dat net dogge.
 ipprotection-feature-introduction-title-captive-portal = Brûke jo iepenbiere wifi? Probearje de ynboude VPN fan { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navigearje mei ekstra beskerming troch jo lokaasje te ferstopjen, sels op iepenbiere wifi.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Begrepen
 ipprotection-site-inclusions-callout-title-existing-users = Stel ynboude VPN-regels yn en navigearje dan fierder
 ipprotection-site-inclusions-callout-title-lapsed-users = Probearje de ynboude VPN, no per website
 ipprotection-site-inclusions-callout-description-1 = Skeakelje VPN yn as jo ekstra privacy of lokaasje-basearre navigearje wolle, en út as jo dat net wolle.
+ipprotection-site-inclusions-callout-description-lapsed-users = Stel regels yn om VPN yn te skeakeljen as jo ekstra privacy of lokaasje-basearre navigearje wolle, en út as jo dat net wolle.
 ipprotection-site-inclusions-callout-description = Skeakelje it yn as jo ekstra privacy of lokaasje-basearre navigearje wolle, en út as jo dat net wolle.
 ipprotection-site-inclusions-callout-primary-button = Regels ynstelle
 ipprotection-site-inclusions-callout-secondary-button-existing-users = No net
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Slute
 ipprotection-holiday-promo-description = Meitsje jo navigaasje privee en dreger te folgjen mei ynboude VPN.
 ipprotection-holiday-promo-primary-button = VPN iepenje
 ipprotection-holiday-promo-secondary-button = Slute
+ipprotection-holiday-promo-title-1 = Untfang oant 31 jannewaris ûnbeheinde VPN
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Skeakelje VPN yn om jo lokaas
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stel VPN yn om</a> hieltyd as jo { -brand-short-name } iepenje yn te skeakeljen foar in ekstra beskermingslaach.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } ûnthâldt hokker websites jo ynsteld hawwe foar it gebrûk fan VPN. Wurkje dizze op elk winske momint by yn de <a data-l10n-name="setting-link">ynstellingen</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is út foar dizze website
+confirmation-hint-ipprotection-navigated-to-included-site = VPN is oan foar dizze website
 ipprotection-open-button = { -brand-product-name } iepenje
 ipprotection-come-back-title = Kom werom om de ynboude VPN te probearjen
 ipprotection-message-body-hide-location = Ferbergje jo lokaasje as jo navigearje yn { -brand-product-name } foar mear privacy en kontrôle.
