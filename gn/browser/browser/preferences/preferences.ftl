@@ -1791,6 +1791,10 @@ permissions-data-section =
     .heading = Ñemoneĩ ha mba’ekuaarã
 pane-permissions-data-title2 = Ñemoneĩ ha mba’ekuaarã
     .title = Ñemoneĩ ha mba’ekuaarã
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Emoneĩ
 
 ## Privacy Section - Data Collection
 

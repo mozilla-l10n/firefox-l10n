@@ -42,3 +42,4 @@ screenshots-component-reselect-button = Eñepyrũ jey
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
 mini-window-panel-move-selection = Erova jeporavopy
+mini-window-panel-move-full-tab = Erovapaite tendayke
