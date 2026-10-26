@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Osiągnij więcej z
 ipprotection-feature-introduction-link-text-private-browsing-2 = Skorzystaj z naszej nowej, <a data-l10n-name="learn-more-vpn">wbudowanej sieci VPN</a>, aby ukryć swoje położenie i chronić dane, nawet w trybie prywatnym.
 ipprotection-feature-introduction-description-private-browsing = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w trybie prywatnym.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Ukryj swoje położenie podczas przeglądania Internetu. Ustaw reguły, które włączą sieć VPN, gdy zależy Ci na <a data-l10n-name="learn-more-vpn">dodatkowej prywatności</a> lub dostępie zależnym od położenia, i wyłączą wtedy, gdy jej nie potrzebujesz.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Ukryj swoje położenie, zyskując <a data-l10n-name="learn-more-vpn">większą prywatność</a> podczas przeglądania Internetu. Ustaw reguły, które włączą sieć VPN, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłączą tam, gdzie jej nie potrzebujesz.
 ipprotection-feature-introduction-title-captive-portal = Korzystasz z publicznej sieci Wi-Fi? Wypróbuj wbudowaną sieć VPN { -brand-product-name(case: "gen") }.
 ipprotection-feature-introduction-description-captive-portal = Przeglądaj Internet z dodatkową ochroną, ukrywając swoje położenie, nawet w publicznej sieci Wi-Fi.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = OK
 ipprotection-site-inclusions-callout-title-existing-users = Ustaw reguły wbudowanej sieci VPN i przeglądaj dalej
 ipprotection-site-inclusions-callout-title-lapsed-users = Wypróbuj wbudowaną sieć VPN, którą teraz można włączać lub wyłączać dla wybranych witryn
 ipprotection-site-inclusions-callout-description-1 = Włącz sieć VPN, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłącz tam, gdzie jej nie potrzebujesz.
+ipprotection-site-inclusions-callout-description-lapsed-users = Ustaw reguły, które włączą sieć VPN, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłączą wtedy, gdy jej nie potrzebujesz.
 ipprotection-site-inclusions-callout-description = Włącz ją, gdy zależy Ci na dodatkowej prywatności lub dostępie zależnym od położenia, i wyłącz tam, gdzie jej nie potrzebujesz.
 ipprotection-site-inclusions-callout-primary-button = Ustaw reguły
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nie teraz
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Zamknij
 ipprotection-holiday-promo-description = Prywatnie przeglądaj Internet i utrudnij śledzenie swoich działań dzięki wbudowanej sieci VPN.
 ipprotection-holiday-promo-primary-button = Otwórz VPN
 ipprotection-holiday-promo-secondary-button = Zamknij
+ipprotection-holiday-promo-title-1 = Korzystaj z VPN bez ograniczeń do 31 stycznia
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Włącz VPN, aby ukryć swoje
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Ustaw włączanie VPN</a> za każdym razem, gdy otwierasz { -brand-short-name(case: "acc") }, aby zapewnić dodatkową warstwę ochrony.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } zapamięta, które witryny mają korzystać z VPN. W każdej chwili można je zmienić w <a data-l10n-name="setting-link">ustawieniach</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN jest wyłączony na tej witrynie
+confirmation-hint-ipprotection-navigated-to-included-site = VPN jest włączony na tej witrynie
 ipprotection-open-button = Otwórz { -brand-product-name(case: "acc") }
 ipprotection-come-back-title = Wróć i wypróbuj wbudowaną sieć VPN
 ipprotection-message-body-hide-location = Ukryj swoje położenie podczas przeglądania Internetu w { -brand-product-name(case: "loc") }, aby zwiększyć prywatność i kontrolę.

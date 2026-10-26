@@ -1832,6 +1832,23 @@ permissions-data-section =
     .heading = Uprawnienia i dane
 pane-permissions-data-title2 = Uprawnienia i dane
     .title = Uprawnienia i dane
+notifications-section-header =
+    .heading = Powiadomienia
+notifications-entry-card-header =
+    .description = Wybierz, które witryny mogą wysyłać powiadomienia i w jaki sposób są one wyświetlane.
+    .label = Powiadomienia
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } witryna
+            [few] { $count } witryny
+           *[many] { $count } witryn
+        }
+    .label = Ustawienia powiadomień
 
 ## Privacy Section - Data Collection
 
