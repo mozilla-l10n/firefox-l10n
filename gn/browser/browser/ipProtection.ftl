@@ -147,6 +147,8 @@ ipprotection-button-turn-vpn-off = Embogue VPN
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Embogue VPN opa hendápe
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Emyandy
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Emyandy VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = Emyandyhína…
@@ -158,6 +160,8 @@ ipprotection-connection-status-excluded-1 = VPN ogue ko tendápe g̃uarã
     .aria-label = VPN ogue ko tendápe g̃uarã
 ipprotection-connection-status-connecting-1 = Pe VPN oikehína…
     .aria-label = Pe VPN oikehína…
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Embogue
 
 ## Location controls
 
@@ -223,6 +227,7 @@ ipprotection-message-continuous-onboarding-intro = Embojuruja pe VPN eñomi hag�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Emboheko VPN ikatu hag̃uáicha hendy</a> oñembojuruja nove { -brand-short-name } peteĩ ñemo’ãverã.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } imandu’áta mba’e ñanduti roguépa oñemboheko oiporu hag̃ua VPN. Embohekopyahu <a data-l10n-name="setting-link">ñemboheko</a> ejapose vove.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN ogue ko tendápe g̃uarã
+confirmation-hint-ipprotection-navigated-to-included-site = VPN hendy ko tendápe g̃uarã
 ipprotection-open-button = Embojuruja { -brand-product-name }
 ipprotection-come-back-title = Ejevy eiporu hag̃ua VPN jehe’apype
 ipprotection-connection-status-generic-error-title-1 = Ndaikatúi eike VPN-pe
@@ -257,6 +262,11 @@ ip-protection-learn-more = Eikuaave
 ip-protection-not-opted-in-4 =
     .heading = Eiporu VPN jehe’apyre { -brand-short-name }
     .message = Eikundaha ñemo’ãve reheve emokañývo ne rendaite.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = ¿Oĩma eiporu hag̃uáicha?
+    .message = Ereko { $maxUsage } GB rei jasýpe ha eiporavo mba’e tendápe oiporu VPN.
 ip-protection-not-opted-in-button = Eñepyrũ
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -272,6 +282,9 @@ ip-protection-site-rules-header-1 =
 ip-protection-site-rules-button-1 =
     .description = Emoĩ mbojojaha tenda oikotevéva tekoñemive térã VPN ñembogue.
     .label = Eñangareko VPN mbojojaháre
+ip-protection-site-rules-list-section-1 =
+    .description = Emboheko mbojojaha emyandy térã embogue hag̃ua VPN ijehegui.
+    .label = Ñanduti rogue mbojojaha
 ip-protection-site-rules-add-button =
     .label = Emoĩ mbojojaha
 ip-protection-site-rules-delete-all-button =
@@ -337,6 +350,13 @@ ip-protection-site-rule-status-on =
     .label = Hendymeme
 ip-protection-site-rule-status-off =
     .label = Oguememe
+# Shown below the website field when what was typed is not a website address.
+ip-protection-site-rule-invalid-error = Ehaimína peteĩ ñe’ẽveve oikóva.
+# Shown below the website field when the typed website already has a rule.
+ip-protection-site-rule-duplicate-error = Ko tenda imbojojaháma.
+# Shown at the top of the dialog when the rule could not be saved.
+ip-protection-site-rule-save-error =
+    .message = Ejavy emoheñóivo mbojojaha. Eha’ã jey ag̃ave.
 ip-protection-delete-site-rule-cancel =
     .label = Eheja
 ip-protection-delete-site-rule-confirm =
