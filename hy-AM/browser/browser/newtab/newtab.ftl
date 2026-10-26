@@ -331,6 +331,9 @@ newtab-stocks-list-watchlist = Դիտացանկ
     .label = Դիտացանկ
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Որոնել անունով կամ խորհրդանիշով
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Ֆինանսներ
@@ -483,6 +486,9 @@ newtab-recent-searches-just-now = Հենց հիմա
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Հեռացնել «{ $search }»-ը վերջին որոնումներից
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Որոնում
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -512,6 +518,11 @@ newtab-horoscopes-menu-learn-more = Իմանալ ավելին
 
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Իմանալ ավելին
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -566,6 +577,9 @@ newtab-topsites-image-url-label = Հարմարեցված պատկերի URL
 newtab-topsites-use-custom-image-link = Օգտ. հարմարեցված պատկեր
 newtab-topsites-use-image-link = Օգտ. հարմարեցված պատկեր...
 newtab-topsites-image-validation = Նկարը չհաջողվեց բեռնել: Փորձեք այլ URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Մաքրել տեքստը
 
@@ -809,6 +823,9 @@ newtab-custom-close-menu-button =
     .title = Փակել
 newtab-custom-settings = Կառավարել լրացուցիչ կարգավորումները
 
+## Customization Menu
+
+
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -964,6 +981,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-colorful-sky = Նարնջագույն ալիքներ մանուշակագույն գիշերային երկնքում
 newtab-wallpaper-firefox-desert-dark = Աղվեսը նստած է մուգ մանուշակագույն անապատում
 newtab-wallpaper-firefox-desert-light = Աղվեսը վազում է լուսավոր անապատով
@@ -1680,6 +1700,9 @@ newtab-clock-widget-menu-edit = Ժամացույցների խմբագրում
 newtab-clock-widget-menu-switch-to-12h = Անցնել 12-ժամյա ձևաչափի
 newtab-clock-widget-menu-switch-to-24h = Անցնել 24-ժամյա ձևաչափի
 newtab-clock-widget-label-your-clocks = Ձեր ժամացույցները
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Որոնել քաղաք
+    .aria-label = Որոնել քաղաք
 newtab-clock-widget-search-location-input =
     .aria-label = Որոնել քաղաք
     .label = Տեղադրություն

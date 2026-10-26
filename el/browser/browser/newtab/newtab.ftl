@@ -367,6 +367,9 @@ newtab-stocks-list-watchlist = Λίστα παρακολούθησης
     .label = Λίστα παρακολούθησης
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Αναζήτηση με όνομα ή σύμβολο
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Οικονομικά
@@ -538,6 +541,9 @@ newtab-recent-searches-just-now = Μόλις τώρα
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Αφαίρεση του «{ $search }» από τις πρόσφατες αναζητήσεις
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Αναζήτηση
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -648,6 +654,9 @@ newtab-topsites-image-url-label = URL προσαρμοσμένης εικόνα�
 newtab-topsites-use-custom-image-link = Χρήση προσαρμοσμένης εικόνας
 newtab-topsites-use-image-link = Χρήση προσαρμοσμένης εικόνας…
 newtab-topsites-image-validation = Αποτυχία φόρτωσης εικόνας. Δοκιμάστε ένα διαφορετικό URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Απαλοιφή κειμένου
 
@@ -1092,6 +1101,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Μια αλεπού στη δεξιά άκρη με πορτοκαλί φόντο
 newtab-wallpaper-firefox-colorful-sky = Πορτοκαλί κύματα σε έναν μοβ νυχτερινό ουρανό
 newtab-wallpaper-firefox-desert-dark = Μια αλεπού καθισμένη σε μια σκούρα μοβ έρημο
@@ -1853,6 +1865,9 @@ newtab-clock-widget-menu-edit = Επεξεργασία ρολογιών
 newtab-clock-widget-menu-switch-to-12h = Εναλλαγή σε 12ωρη μορφή
 newtab-clock-widget-menu-switch-to-24h = Εναλλαγή σε 24ωρη μορφή
 newtab-clock-widget-label-your-clocks = Τα ρολόγια σας
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Αναζήτηση πόλης
+    .aria-label = Αναζήτηση πόλης
 newtab-clock-widget-search-location-input =
     .aria-label = Αναζήτηση πόλης
     .label = Τοποθεσία

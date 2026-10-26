@@ -116,6 +116,9 @@ newtab-privacy-widget-open-menu-button =
 newtab-privacy-widget-label =
     .aria-label = Privātums
 
+## Privacy widget — count readout
+
+
 ## Privacy widget — empty state
 
 # Shown when no trackers have been blocked yet today.
@@ -148,6 +151,12 @@ newtab-privacy-message-info-11-cta = Uzzināt vairāk
 
 newtab-privacy-message-promo-monitor-1-cta = Uzzināt vairāk
 newtab-privacy-message-promo-monitor-2-cta = Uzzināt vairāk
+
+## Privacy widget — celebration messages
+##
+## Earned "celebration" moments (milestones, daily cap, streak, first
+## protection). Count-bearing ones interpolate { $count }.
+
 
 ## Strings for the Finance widget
 
@@ -182,6 +191,9 @@ newtab-stocks-list-watchlist = Vērošanas saraksts
     .label = Vērošanas saraksts
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Meklēt pēc nosaukuma vai apzīmējuma
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finanses
@@ -322,6 +334,9 @@ newtab-recent-searches-just-now = Tikko
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Noņemt “{ $search }” no nesenajiem meklējumiem
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Meklēt
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -432,6 +447,9 @@ newtab-topsites-use-custom-image-link = Izmantot pielāgotu attēlu
 newtab-topsites-use-image-link = Izmantot pielāgotu attēlu…
 newtab-topsites-image-validation = Neizdevās ielādēt attēlu. Izmēģiniet citu adresi.
 
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
+
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Atcelt
@@ -449,6 +467,9 @@ newtab-confirm-delete-history-p2 = Šī ir neatgriezeniska darbība.
 ## Top Sites - Sponsored label
 
 newtab-topsite-sponsored = Apmaksāts
+
+## Label used by screen readers for pinned top sites
+
 
 ## Top Sites - Web notifications hover card
 
@@ -484,6 +505,9 @@ newtab-menu-show-privacy-info = Mūsu sponsori un jūsu privātums
 newtab-menu-section-block = Liegt
 # Context menu option to open a support page explaining the New Tab personalization features and privacy controls.
 newtab-menu-section-learn-more = Uzzināt vairāk
+
+## Context menu options for sponsored stories and new ad formats on New Tab.
+
 
 ##
 
@@ -769,6 +793,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Lapsa uz labās malas uz oranža fona
 newtab-wallpaper-firefox-colorful-sky = Oranži viļņi pār violetām nakts debesīm
 newtab-wallpaper-firefox-desert-dark = Lapsa, kas sēž tumši violetā tuksnesī
@@ -785,6 +812,12 @@ newtab-wallpaper-firefox-peak-dark = Lapsas purns kreisajā malā uz tumša fona
 newtab-wallpaper-firefox-peak-light = Lapsas purns kreisajā malā uz gaiša fona
 newtab-wallpaper-firefox-sky-dark = Tumši violeti pakalni zem nakts debesīm
 newtab-wallpaper-firefox-sky-light = Gaiši pakalni zem maigām debesīm
+
+## Firefox
+
+
+## Celestial
+
 
 ## New Tab Weather
 
@@ -898,6 +931,21 @@ newtab-section-confirm-block-topic-p1 = Vai tiešām liegt šo tēmu?
 #   $topic (string) - Name of topic that user is blocking
 newtab-section-block-topic-button = Liegt { $topic }
 
+## Strings for custom wallpaper highlight
+
+
+## Strings for new user activation custom wallpaper highlight
+
+
+## Strings for Nova wallpaper feature highlight
+
+
+## Strings for download mobile highlight
+
+
+## Strings for shortcuts highlight
+
+
 ## Strings for reporting issues with ads and content
 
 newtab-report-content-requires-payment-subscription-learn-more = Uzzināt vairāk
@@ -949,6 +997,9 @@ newtab-crossword-widget-open-menu-button =
     .aria-label = Atvērt krustvārdu mīklu izvēlni
     .title = Atvērt krustvārdu mīklu izvēlni
 
+## Strings introduced by the Nova redesign of the Timer widget
+
+
 ##
 
 newtab-sports-widget-menu-learn-more = Uzzināt vairāk
@@ -957,11 +1008,32 @@ newtab-sports-widget-search-country =
     .placeholder = Meklēt valsti
 newtab-sports-widget-results = Iznākums
 
+## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
+
+
+## Accessible labels for match rows in the sports widget. These are read by
+## screen readers to announce the match details and status.
+## Variables shared by all messages in this group:
+##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
+##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
+
+
+## Sports widget — team names (FIFA country codes)
+## Only includes names not adequately covered by standard country-code
+## internationalization tooling.
+
+
 ## World Cup wallpaper OMC messages
 ## Shown as on-screen messages promoting the World Cup wallpapers.
 
 newtab-sports-widget-message-add-widgets-cta =
     .label = Pievienot logrīkus
+
+## Strings for activation window message variants. In certain experiment configurations,
+## the strings from these variants may be displayed in a message below the search input
+## for the first 48 hours of a new profile's lifetime. Some messages include buttons with
+## labels, but not all.
+
 
 ## Strings for the New Tab customization callout shown at the Nova launch.
 
@@ -975,6 +1047,9 @@ newtab-nova-customization-callout-primary-button =
 
 ## Strings for the Clock widget
 
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Meklēt pilsētu
+    .aria-label = Meklēt pilsētu
 newtab-clock-widget-search-location-input =
     .aria-label = Meklēt pilsētu
     .label = Atrašanās vieta

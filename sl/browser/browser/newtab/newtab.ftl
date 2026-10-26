@@ -204,6 +204,9 @@ newtab-privacy-across-sites =
        *[other] na { $count } spletnih mestih
     }
 
+## Privacy widget — empty state
+
+
 ## Privacy widget — Enhanced Tracking Protection off state
 
 # Shown when the user has turned off the Enhanced Tracking Protection setting.
@@ -326,6 +329,9 @@ newtab-stocks-list-watchlist = Seznam za spremljanje
     .label = Seznam za spremljanje
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Iskanje po imenu ali simbolu
+
+## Strings for the Finance widget
+
 
 ## Screen-reader summary of a stock ticker.
 ## Variables:
@@ -469,6 +475,9 @@ newtab-recent-searches-just-now = Pravkar
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Odstrani "{ $search }" iz nedavnih iskanj
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Iskanje
 
@@ -491,6 +500,11 @@ newtab-horoscopes-menu-learn-more = Več o tem
 
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Več o tem
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -545,6 +559,9 @@ newtab-topsites-image-url-label = Spletni naslov slike po meri
 newtab-topsites-use-custom-image-link = Uporabi sliko po meri
 newtab-topsites-use-image-link = Uporabi sliko po meri …
 newtab-topsites-image-validation = Slike ni bilo mogoče naložiti. Poskusite drug spletni naslov.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Počisti besedilo
 
@@ -982,6 +999,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Lisica ob desnem robu oranžnega ozadja
 newtab-wallpaper-firefox-colorful-sky = Valovi oranžne barve na vijoličnem nočnem nebu
 newtab-wallpaper-firefox-desert-dark = Lisica, ki sedi v temnovijolični puščavi
@@ -1745,6 +1765,9 @@ newtab-clock-widget-menu-edit = Uredi ure
 newtab-clock-widget-menu-switch-to-12h = Preklopi na 12-urni zapis
 newtab-clock-widget-menu-switch-to-24h = Preklopi na 24-urni zapis
 newtab-clock-widget-label-your-clocks = Vaše ure
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Poiščite mesto
+    .aria-label = Poiščite mesto
 newtab-clock-widget-search-location-input =
     .aria-label = Poiščite mesto
     .label = Kraj

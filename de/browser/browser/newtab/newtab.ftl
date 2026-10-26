@@ -367,6 +367,9 @@ newtab-stocks-list-watchlist = Beobachtungsliste
     .label = Beobachtungsliste
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Nach Namen oder Symbol suchen
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finanzen
@@ -538,6 +541,9 @@ newtab-recent-searches-just-now = Gerade eben
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = "{ $search }" aus letzten Suchanfragen entfernen
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Suche
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -648,6 +654,9 @@ newtab-topsites-image-url-label = Adresse von benutzerdefinierter Grafik
 newtab-topsites-use-custom-image-link = Eine benutzerdefinierte Grafik verwenden
 newtab-topsites-use-image-link = Eine benutzerdefinierte Grafik verwenden…
 newtab-topsites-image-validation = Grafik konnte nicht geladen werden. Verwenden Sie eine andere Adresse.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Text löschen
 
@@ -1092,6 +1101,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Ein Fuchs am rechten Bildrand vor orangefarbenem Hintergrund
 newtab-wallpaper-firefox-colorful-sky = Orangefarbene Wogen über einem violetten Nachthimmel
 newtab-wallpaper-firefox-desert-dark = Ein Fuchs sitzt in einer dunkelvioletten Wüste
@@ -1858,6 +1870,9 @@ newtab-clock-widget-menu-edit = Uhren bearbeiten
 newtab-clock-widget-menu-switch-to-12h = Zum 12-Stunden-Format wechseln
 newtab-clock-widget-menu-switch-to-24h = Zum 24-Stunden-Format wechseln
 newtab-clock-widget-label-your-clocks = Ihre Uhren
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Ort suchen
+    .aria-label = Ort suchen
 newtab-clock-widget-search-location-input =
     .aria-label = Ort suchen
     .label = Standort

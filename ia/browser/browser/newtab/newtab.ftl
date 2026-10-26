@@ -367,6 +367,9 @@ newtab-stocks-list-watchlist = Lista de surveliantia
     .label = Lista de surveliantia
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Cercar per nomine o symbolo
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Financia
@@ -538,6 +541,9 @@ newtab-recent-searches-just-now = Justo ora
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Remover “{ $search }” ab recercas recente
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Cercar
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -648,6 +654,9 @@ newtab-topsites-image-url-label = URL de imagine personal
 newtab-topsites-use-custom-image-link = Usar un imagine personalisate
 newtab-topsites-use-image-link = Usar un imagine personalisate…
 newtab-topsites-image-validation = Error durante le cargamento del imagine. Prova un altere URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Vacuar le texto
 
@@ -1092,6 +1101,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Un vulpe al bordo dextre sur un fundo orange
 newtab-wallpaper-firefox-colorful-sky = Undas de orange a transverso un celo nocturne purpuree
 newtab-wallpaper-firefox-desert-dark = Un vulpe sedente in un deserto purpuree obscur
@@ -1854,6 +1866,9 @@ newtab-clock-widget-menu-edit = Modificar horologios
 newtab-clock-widget-menu-switch-to-12h = Passa al formato 12 horas
 newtab-clock-widget-menu-switch-to-24h = Passa al formato 24 horas
 newtab-clock-widget-label-your-clocks = Tu horologios
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Cercar citate
+    .aria-label = Cercar citate
 newtab-clock-widget-search-location-input =
     .aria-label = Cercar citate
     .label = Position

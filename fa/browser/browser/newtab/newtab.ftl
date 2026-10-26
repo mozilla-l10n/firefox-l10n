@@ -367,6 +367,9 @@ newtab-stocks-list-watchlist = دیده‌بان
     .label = دیده‌بان
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = جست‌وجو با نام شرکت یا نماد بورسی
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = مالی
@@ -519,6 +522,9 @@ newtab-recent-searches-just-now = همین الان
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = حذف «{ $search }» از جست‌وجوهای اخیر
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = جست‌وجو
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -548,6 +554,11 @@ newtab-horoscopes-menu-learn-more = بیشتر بدانید
 
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = بیشتر بدانید
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -602,6 +613,9 @@ newtab-topsites-image-url-label = نشانی سفارشی تصویر
 newtab-topsites-use-custom-image-link = استفاده از تصویر سفارشی
 newtab-topsites-use-image-link = استفاده از تصویر سفارشی…
 newtab-topsites-image-validation = بارگیری تصویر ناموفق بود. نشانی دیگری را امتحان کنید.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = پاک کردن متن
 
@@ -1037,6 +1051,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = روباهی در لبهٔ راست روی پس‌زمینهٔ نارنجی
 newtab-wallpaper-firefox-colorful-sky = امواج نارنجی در آسمان شب بنفش
 newtab-wallpaper-firefox-desert-dark = روباهی نشسته در کویر ارغوانی تیره
@@ -1797,6 +1814,9 @@ newtab-clock-widget-menu-edit = ویرایش ساعت‌ها
 newtab-clock-widget-menu-switch-to-12h = تغییر به قالب ۱۲ ساعته
 newtab-clock-widget-menu-switch-to-24h = تغییر به قالب ۲۴ ساعته
 newtab-clock-widget-label-your-clocks = ساعت‌های شما
+newtab-clock-widget-search-location-input2 =
+    .placeholder = جست‌وجوی یک شهر
+    .aria-label = جست‌وجوی یک شهر
 newtab-clock-widget-search-location-input =
     .aria-label = جست‌وجوی یک شهر
     .label = مکان

@@ -367,6 +367,9 @@ newtab-stocks-list-watchlist = واچ لسٹ
     .label = واچ لسٹ
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = ناویں یا سمبل نال ڳولو
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = فنانس
@@ -538,6 +541,9 @@ newtab-recent-searches-just-now = ہݨے
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = حال دیاں تلاشاں وچوں ”{ $search }“ ہٹاو
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = تلاش
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -648,6 +654,9 @@ newtab-topsites-image-url-label = مخصوص تصویر دا URL
 newtab-topsites-use-custom-image-link = ہک مخصوص تصویر استعمال کرو
 newtab-topsites-use-image-link = ہک مخصوص تصویر استعمال کرو …
 newtab-topsites-image-validation = تصویر لوڈ تھیوݨ وِچ ناکام رہی۔ براہ مہربانی ہک مختلف URL کوں آزماؤ۔
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = متن صاف کرو
 
@@ -1092,6 +1101,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = سنترے رنگ دے پس منظر وچ سڄے کنارے تے ہِک لومڑی
 newtab-wallpaper-firefox-colorful-sky = جامنی رات دے آسمان تے سنترے رنگ دیاں لہراں
 newtab-wallpaper-firefox-desert-dark = ڳہرے جامنی ریگستان وچ بیٹھی ہوئی ہِک لومڑی
@@ -1854,6 +1866,9 @@ newtab-clock-widget-menu-edit = گھڑیاں ایڈیٹ کرو
 newtab-clock-widget-menu-switch-to-12h = 12 گھنٹے دے فارمیٹ تے ونجو
 newtab-clock-widget-menu-switch-to-24h = 24 گھنٹے دے فارمیٹ تے ونجو
 newtab-clock-widget-label-your-clocks = تساݙیاں گھڑیاں
+newtab-clock-widget-search-location-input2 =
+    .placeholder = شہر ڳولو
+    .aria-label = شہر ڳولو
 newtab-clock-widget-search-location-input =
     .aria-label = شہر ڳولو
     .label = لوکیشن

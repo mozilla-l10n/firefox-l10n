@@ -275,6 +275,9 @@ newtab-stocks-list-watchlist = Overvågningsliste
     .label = Overvågningsliste
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Søg efter navn eller symbol
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finans
@@ -428,8 +431,14 @@ newtab-recent-searches-just-now = Nu
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Fjern "{ $search }" fra seneste søgninger
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søgning
+
+## Recent searches widget — empty states
+
 
 ## Strings for the Horoscopes widget
 
@@ -508,6 +517,9 @@ newtab-topsites-image-url-label = URL til selvvalgt billede
 newtab-topsites-use-custom-image-link = Brug selvvalgt billede
 newtab-topsites-use-image-link = Brug selvvalgt billede…
 newtab-topsites-image-validation = Kunne ikke indlæse billede. Prøv en anden URL.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Ryd tekst
 
@@ -950,6 +962,9 @@ feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
 
+## Firefox wallpaper descriptions used for screen readers
+
+
 ## Firefox
 
 newtab-wallpaper-category-title-firefox = { -brand-product-name }
@@ -1351,6 +1366,9 @@ newtab-promo-card-dismiss-button =
     .aria-label = Afvis
     .title = Afvis
 
+## Crossword widget
+
+
 ## Strings introduced by the Nova redesign of the Timer widget
 
 newtab-widget-timer-pause-aria =
@@ -1624,6 +1642,9 @@ newtab-activation-window-message-customization-focus-primary-button =
 # the existing widgetry that appears on it.
 newtab-activation-window-message-values-focus-header = Denne plads følger dine regler
 
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1633,6 +1654,9 @@ newtab-clock-widget-menu-edit = Rediger ure
 newtab-clock-widget-menu-switch-to-12h = Skift til 12-timers format
 newtab-clock-widget-menu-switch-to-24h = Skift til 24-timers format
 newtab-clock-widget-label-your-clocks = Dine ure
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Søg efter en by
+    .aria-label = Søg efter en by
 newtab-clock-widget-search-location-input =
     .aria-label = Søg efter en by
     .label = Sted
