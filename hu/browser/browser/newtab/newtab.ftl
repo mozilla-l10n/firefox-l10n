@@ -367,6 +367,9 @@ newtab-stocks-list-watchlist = Figyelőlista
     .label = Figyelőlista
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Keresés név vagy szimbólum szerint
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Pénzügy
@@ -538,6 +541,9 @@ newtab-recent-searches-just-now = Épp most
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = „{ $search }” eltávolítása a legutóbbi keresésekből
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Keresés
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -648,6 +654,9 @@ newtab-topsites-image-url-label = Egyéni kép webcíme
 newtab-topsites-use-custom-image-link = Egyéni kép használata
 newtab-topsites-use-image-link = Egyéni kép használata…
 newtab-topsites-image-validation = A kép betöltése nem sikerült. Próbáljon meg egy másik webcímet.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Szöveg törlése
 
@@ -1092,6 +1101,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Egy róka a jobb szélen, narancssárga háttérrel
 newtab-wallpaper-firefox-colorful-sky = Narancssárga hullámok a lila éjszakai égbolton
 newtab-wallpaper-firefox-desert-dark = Egy róka ül egy sötét lila sivatagban
@@ -1854,6 +1866,9 @@ newtab-clock-widget-menu-edit = Órák szerkesztése
 newtab-clock-widget-menu-switch-to-12h = Váltás 12 órás formátumra
 newtab-clock-widget-menu-switch-to-24h = Váltás 24 órás formátumra
 newtab-clock-widget-label-your-clocks = Saját órák
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Város keresése
+    .aria-label = Város keresése
 newtab-clock-widget-search-location-input =
     .aria-label = Város keresése
     .label = Hely
