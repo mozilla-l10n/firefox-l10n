@@ -22,7 +22,7 @@ neterror-copy-to-clipboard-button = Kopēt tekstu atmiņā
 neterror-learn-more-link = Uzzināt vairāk…
 neterror-open-portal-login-page-button = Atvērt tīkla pieteikšanās lapu
 neterror-override-exception-button = Pieņemt apdraudējumu un turpināt
-neterror-pref-reset-button = Atjaunot noklusētos iestatījumus
+neterror-pref-reset-button = Atjaunot noklusējuma iestatījumus
 neterror-return-to-previous-page-button = Doties atpakaļ
 neterror-return-to-previous-page-recommended-button = Doties atpakaļ (ieteicams)
 neterror-try-again-button-2 = Mēģināt vēlreiz
@@ -66,7 +66,7 @@ neterror-search-cta-learn-more = Uzzināt vairāk
 
 ##
 
-neterror-pref-reset = Izskatās, ka jūsu tīkla drošības iestatījumi varētu bū pie vainas. Vai vēlaties atjaunot noklusētos iestatījumus?
+neterror-pref-reset = Izskatās, ka šo varētu izraisīt tīkla drošības iestatījumi. Vai atjaunot noklusējuma iestatījumus?
 
 ## Specific error messages
 

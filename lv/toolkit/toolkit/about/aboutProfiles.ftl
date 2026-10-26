@@ -11,7 +11,7 @@ profiles-restart-normal = Pārstartēt parasti…
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profils: { $name }
-profiles-is-default = Noklusētais profils
+profiles-is-default = Noklusējuma profils
 profiles-rootdir = Saknes mape
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
@@ -24,7 +24,7 @@ profiles-current-profile = Šis profils šobrīd tiek izmantots, tāpēc to neva
 profiles-in-use-profile = Šis profils tiek lietots citā programmā, un to nevar dzēst.
 profiles-rename = Pārsaukt
 profiles-remove = Noņemt
-profiles-set-as-default = Iestatīt kā noklusēto profilu
+profiles-set-as-default = Iestatīt kā noklusējuma profilu
 profiles-launch-profile = Atvērt profilu jaunā pārlūkā
 profiles-yes = jā
 profiles-no = nē

@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 create-profile-window2 =
-    .title = Profila veidošanas vednis
     .style = min-width: 45em; min-height: 32em;
+    .title = Profila veidošanas vednis
 
 ## First wizard page
 
@@ -33,11 +33,11 @@ profile-creation-intro = Izveidojot vairākus profilus, tos var atšķirt pēc n
 profile-prompt = Ievadiet jaunu profila nosaukumu:
     .accesskey = e
 profile-default-name =
-    .value = Noklusētais lietotājs
+    .value = Noklusējuma lietotājs
 profile-directory-explanation = Jūsu iestatījumi, izvēles un citi lietotāja dati tiks saglabāti:
 create-profile-choose-folder =
     .label = Izvēlēties mapi...
     .accesskey = I
 create-profile-use-default =
-    .label = Lietot noklusēto mapi
-    .accesskey = u
+    .label = Izmantot noklusējuma mapi
+    .accesskey = I
