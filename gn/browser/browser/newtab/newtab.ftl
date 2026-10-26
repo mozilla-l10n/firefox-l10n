@@ -323,9 +323,6 @@ newtab-stocks-list-watchlist = Tapykuehoha rysýi
     .label = Tapykuehoha rysýi
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Eheka téra térã ta’ãnga’i rupi
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Viruporukuaa
@@ -457,9 +454,6 @@ newtab-recent-searches-tab-trending = Hechameméva
 newtab-recent-searches-trending-attribution = { $engine } rupive
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Ko’ag̃aite
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Eheka
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -467,9 +461,6 @@ newtab-search-widget-title = Eheka
 newtab-search-widget-open-menu-button =
     .aria-label = Embojuruja poravorã jehekaha
     .title = Embojuruja poravorã jehekaha
-
-## Recent searches widget — empty states
-
 
 ## Strings for the Horoscopes widget
 
@@ -485,11 +476,6 @@ newtab-horoscopes-menu-learn-more = Eikuaave
 
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Eikuaave
-
-## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
-## can play solitaire, a card game for one player, also known as patience.
-## Game displays within an iframe with name “Yahoo Solitaire”
-
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -544,9 +530,6 @@ newtab-topsites-image-url-label = URL ra’ãnga ñemomba’etepyre
 newtab-topsites-use-custom-image-link = Ta’ãnga ñemomba’etepyre
 newtab-topsites-use-image-link = Ta’ãnga ñemomba’etepyre…
 newtab-topsites-image-validation = Ta’ãnga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Emopotĩ moñe’ẽrã
 
@@ -982,9 +965,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Peteĩ aguara tembe’y akatúa gotyo tugua narã ári
 newtab-wallpaper-firefox-colorful-sky = Ónda narãva ára pytũ pytãũva ári
 newtab-wallpaper-firefox-desert-dark = Aguara oguapýva yvynandi pytaũ pytũvape
@@ -1744,8 +1724,8 @@ newtab-clock-widget-menu-switch-to-12h = Emoambue 12 aravohapegua
 newtab-clock-widget-menu-switch-to-24h = Emoambue 24 aravohapegua
 newtab-clock-widget-label-your-clocks = Ijaravopapaha
 newtab-clock-widget-search-location-input2 =
-    .placeholder = Eheka upe táva
     .aria-label = Eheka upe táva
+    .placeholder = Eheka upe táva
 newtab-clock-widget-search-location-input =
     .aria-label = Eheka upe táva
     .label = Tendaite

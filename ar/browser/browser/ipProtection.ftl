@@ -99,6 +99,8 @@ ipprotection-button-turn-vpn-off = ال VPN متوقف
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = ال VPN متوقف في كل مكان
 # Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = شغّل
+# Button to turn on the VPN
 ipprotection-button-turn-vpn-on = شغِّل VPN
 # Button while VPN is connecting
 ipprotection-button-connecting = يشغل…
@@ -110,6 +112,8 @@ ipprotection-connection-status-excluded-1 = ال VPN معطّل لهذا الم�
     .aria-label = ال VPN معطّل لهذا الموقع
 ipprotection-connection-status-connecting-1 = يتصل VPN...
     .aria-label = يتصل VPN...
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = عطّل
 
 ## Location controls
 

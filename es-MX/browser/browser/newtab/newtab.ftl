@@ -184,12 +184,6 @@ newtab-privacy-across-sites =
        *[other] En { $count } sitios web
     }
 
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -300,9 +294,6 @@ newtab-stocks-menu-learn-more = Más información
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Los datos bursátiles no están disponibles.
 
-## Strings for the Finance widget
-
-
 ## Screen-reader summary of a stock ticker.
 ## Variables:
 ##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
@@ -315,12 +306,6 @@ newtab-stocks-ticker-status-up = { $name }, subió { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, bajó { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, sin cambios, { $change }, { $price }
-
-## Finance widget watchlist add and remove controls
-
-
-## Finance widget ticker search
-
 
 ## Strings for the Picture of the Day widget
 
@@ -342,31 +327,10 @@ newtab-picture-attribution-license =
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Más información
 
-## Strings for the Search widget
-
-
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
-## Strings for the Horoscopes widget
-
-
 ## Strings for the Travel widget
 
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Más información
-
-## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
-## can play solitaire, a card game for one player, also known as patience.
-## Game displays within an iframe with name “Yahoo Solitaire”
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -414,9 +378,6 @@ newtab-topsites-image-url-label = URL de imagen personalizada
 newtab-topsites-use-custom-image-link = Utilizar una imagen personalizada
 newtab-topsites-use-image-link = Utilizar una imagen personalizada…
 newtab-topsites-image-validation = La imagen no se pudo cargar. Intente una URL diferente.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Limpiar texto
 
@@ -651,9 +612,6 @@ newtab-custom-close-menu-button =
     .title = Cerrar
 newtab-custom-settings = Administrar más ajustes
 
-## Customization Menu
-
-
 ## New Tab Appearance (browser theme picker)
 
 # Title of the browser theme ("Appearance") section in the customize panel.
@@ -707,11 +665,6 @@ newtab-wallpaper-dark-mountain = Paisaje montañoso
 newtab-wallpaper-dark-city = Paisaje de ciudad púrpura
 newtab-wallpaper-dark-fox-anniversary = Un zorro en la acera cerca de un bosque
 newtab-wallpaper-light-fox-anniversary = Un zorro en un campo de hierba con un paisaje montañoso brumoso
-
-## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
-## can be a file they uploaded, a Picture of the Day they chose to keep, or a
-## Firefox wallpaper kept for them when it was retired.
-
 
 ## Solid Colors
 
@@ -777,9 +730,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 
@@ -1174,9 +1124,6 @@ newtab-promo-card-dismiss-button =
     .aria-label = Descartar
     .title = Descartar
 
-## Crossword widget
-
-
 ## Strings introduced by the Nova redesign of the Timer widget
 
 # Variables:
@@ -1471,9 +1418,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Este espacio se rige por tus reglas
 newtab-activation-window-message-values-focus-message = { -brand-product-name } te permite navegar como quieras, con una forma más personal de empezar el día online. Haz de { -brand-product-name } algo tuyo.
 
-## Strings for the New Tab customization callout shown at the Nova launch.
-
-
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1484,8 +1428,8 @@ newtab-clock-widget-menu-switch-to-12h = Cambiar al formato de 12 horas
 newtab-clock-widget-menu-switch-to-24h = Cambiar al formato de 24 horas
 newtab-clock-widget-label-your-clocks = Tus relojes
 newtab-clock-widget-search-location-input2 =
-    .placeholder = Buscar una ciudad
     .aria-label = Buscar una ciudad
+    .placeholder = Buscar una ciudad
 newtab-clock-widget-search-location-input =
     .aria-label = Buscar una ciudad
     .label = Ubicación

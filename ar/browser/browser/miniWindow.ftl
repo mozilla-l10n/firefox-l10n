@@ -25,6 +25,10 @@ mini-window-audio-unmute =
 ## These strings label the buttons on the Screenshots selection overlay while
 ## it is being used to pick the region for a Mini Window.
 
+# Moves the tab to a Mini Window which frames the selected area of the page.
+screenshots-component-mini-window-button = انتقل إلى نافذة مصغرة
+    .aria-label = انتقل إلى نافذة مصغرة
+    .title = انتقل إلى نافذة مصغرة
 # Dismisses the Mini Window selection overlay without moving the tab.
 screenshots-component-mini-window-cancel-button = ألغِ
     .aria-label = ألغِ
@@ -37,6 +41,15 @@ screenshots-component-mini-window-cancel-button = ألغِ
 screenshots-component-reselect-button = ابدأ من جديد
     .aria-label = ابدأ من جديد
     .title = ابدأ من جديد
+# Opens a selection tool to select a section of a page to
+# open in a smaller window to appear cropped and always on top.
+toolbar-button-mini-window =
+    .label = نافذة مصغرة
+    .tooltiptext = استخدم خاصية النافذة المصغرة
+# Opens up the Mini Window section selector tool.
+main-context-menu-use-mini-window =
+    .label = انقل القسم إلى نافذة مصغرة
+    .accesskey = ن
 
 ## These strings label the Screenshots overlay while it is being used to pick
 ## what to move into a Mini Window.

@@ -383,9 +383,6 @@ newtab-stocks-list-watchlist = Lisćina wobkedźbowanjow
     .label = Lisćina wobkedźbowanjow
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Po mjenje abo symbolu pytać
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Financy
@@ -559,9 +556,6 @@ newtab-recent-searches-just-now = Runje
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = “{ $search }” z najnowšich pytanjow wotstronić
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Pytać
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -672,9 +666,6 @@ newtab-topsites-image-url-label = URL swójskeho wobraza
 newtab-topsites-use-custom-image-link = Swójski wobraz wužiwać
 newtab-topsites-use-image-link = Swójski wobraz wužiwać…
 newtab-topsites-image-validation = Wobraz njeda so začitać. Spytajće druhi URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Tekst zhašeć
 
@@ -1121,9 +1112,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = Liška na prawej kromje na oranžowym pozadku
 newtab-wallpaper-firefox-colorful-sky = Oranžowe žołmy přez wioletne nócne njebjo
 newtab-wallpaper-firefox-desert-dark = Liška, kotraž w ćmowej wioletnej pusćinje sedźi
@@ -1893,8 +1881,8 @@ newtab-clock-widget-menu-switch-to-12h = Do 12-hodźinskeho formata změnić
 newtab-clock-widget-menu-switch-to-24h = Do 24-hodźinskeho format změnić
 newtab-clock-widget-label-your-clocks = Waše časniki
 newtab-clock-widget-search-location-input2 =
-    .placeholder = Město pytać
     .aria-label = Město pytać
+    .placeholder = Město pytać
 newtab-clock-widget-search-location-input =
     .aria-label = Město pytać
     .label = Stejnišćo

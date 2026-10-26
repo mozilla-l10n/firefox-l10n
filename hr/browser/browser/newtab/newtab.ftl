@@ -210,9 +210,6 @@ newtab-privacy-empty-state = { -brand-short-name } automatski blokira programe z
 # An alternative can be "See a running total here"
 newtab-privacy-empty-state-tally = Pogledaj ukupni broj ovdje.
 
-## Privacy widget — Enhanced Tracking Protection off state
-
-
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -272,9 +269,6 @@ newtab-privacy-message-first-protection-cta = Pogledaj zaštite
 newtab-stocks-menu-learn-more = Saznaj više
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Podaci o dionicama nisu dostupni.
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Financije
@@ -291,9 +285,6 @@ newtab-stocks-ticker-status-up = { $name }, raste { $change }, { $price }
 newtab-stocks-ticker-status-down = { $name }, pada { $change }, { $price }
 # Stock didn't change during the day
 newtab-stocks-ticker-status-flat = { $name }, bez promjene, { $change }, { $price }
-
-## Finance widget watchlist add and remove controls
-
 
 ## Finance widget ticker search
 
@@ -381,12 +372,6 @@ newtab-recent-searches-trending-attribution = putem { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Upravo sada
 
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
 ## Strings for the Horoscopes widget
 
 # Widget heading; also the widget's accessible name.
@@ -473,9 +458,6 @@ newtab-topsites-image-url-label = Prilagođeni URL slike
 newtab-topsites-use-custom-image-link = Koristi prilagođenu sliku
 newtab-topsites-use-image-link = Koristi prilagođenu sliku…
 newtab-topsites-image-validation = Neuspjelo učitavanje slike. Pokušaj jedan drugi URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Očisti tekst
 
@@ -915,9 +897,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 
@@ -1648,8 +1627,8 @@ newtab-clock-widget-menu-switch-to-12h = Prebaci se na 12-satni format
 newtab-clock-widget-menu-switch-to-24h = Prebaci se na 24-satni format
 newtab-clock-widget-label-your-clocks = Tvoji satovi
 newtab-clock-widget-search-location-input2 =
-    .placeholder = Traži grad
     .aria-label = Traži grad
+    .placeholder = Traži grad
 newtab-clock-widget-search-location-input =
     .aria-label = Traži grad
     .label = Lokacija

@@ -144,84 +144,10 @@ home-prefs-support-firefox-header-srd =
     .label = Prudele { -brand-product-name }
 home-prefs-mission-message-learn-more-link-srd = Scuvierç cemût
 
-## Strings for the Privacy widget
-
-
-## Privacy widget — count readout
-
-
-## Privacy widget — empty state
-
-
-## Privacy widget — Enhanced Tracking Protection off state
-
-
-## Privacy widget — informational messages
-##
-## Rotating "info" secondary messages. Each message has a body plus a matched
-## "-cta" button label sharing the same id stem (the CTA button isn't rendered
-## yet; the labels are authored so the pairing is ready).
-
-
-## Privacy widget — promotional messages
-##
-## Rotating "promo" secondary messages suggesting another Firefox feature. Each
-## has a body plus a matched "-cta" button label.
-
-
-## Privacy widget — celebration messages
-##
-## Earned "celebration" moments (milestones, daily cap, streak, first
-## protection). Count-bearing ones interpolate { $count }.
-
-
-## Strings for the Finance widget
-
-
-## Strings for the Finance widget
-
-
-## Screen-reader summary of a stock ticker.
-## Variables:
-##   $name (String) - the full fund/ETF name, e.g. "SPDR S&P 500 ETF Trust".
-##   $change (String) - the day's percentage change, e.g. "+2.1%".
-##   $price (String) - the last price, e.g. "$559.44".
-
-
-## Finance widget watchlist add and remove controls
-
-
-## Finance widget ticker search
-
-
-## Strings for the Picture of the Day widget
-
-
-## Strings for the Search widget
-
-
-## Strings for the Search widget
-
-
-## Recent searches widget — empty states
-
-
-## Strings for the Horoscopes widget
-
-
 ## Strings for the Travel widget
 
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Plui informazions
-
-## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
-## can play solitaire, a card game for one player, also known as patience.
-## Game displays within an iframe with name “Yahoo Solitaire”
-
-
-## Strings for the navigable panels that new tab content area can be
-## split into.
-
 
 ## Search box component.
 
@@ -268,9 +194,6 @@ newtab-topsites-image-url-label = URL di imagjin personalizade
 newtab-topsites-use-custom-image-link = Dopre une imagjin personalizade
 newtab-topsites-use-image-link = Dopre une imagjin personalizade…
 newtab-topsites-image-validation = No si à rivât a cjariâ la imagjin. Prove cuntun URL diferent.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Nete test
 
@@ -299,9 +222,6 @@ newtab-topsite-sponsored = Sponsorizât
 topsite-label-pinned =
     .aria-label = { $title } (fissât)
     .title = { $title }
-
-## Top Sites - Web notifications hover card
-
 
 ## Context Menu - Action Tooltips.
 
@@ -492,12 +412,6 @@ newtab-custom-close-menu-button =
     .title = Siere
 newtab-custom-settings = Gjestìs plui impostazions
 
-## Customization Menu
-
-
-## New Tab Appearance (browser theme picker)
-
-
 ## New Tab Wallpapers
 
 #  (developer note): @nova-cleanup(remove-string): Remove old "Wallpapers" heading string once Nova lands. The newtab-wallpaper-toggle-title string will take over
@@ -528,11 +442,6 @@ newtab-wallpaper-dark-mountain = Paisaç cun montagne
 newtab-wallpaper-dark-city = Paisaç citadin cun tonalitât viole
 newtab-wallpaper-dark-fox-anniversary = Une bolp sul marcjepît dongje di un bosc
 newtab-wallpaper-light-fox-anniversary = Une bolp intun cjamp jerbôs cuntun paesaç di montagne infumatât
-
-## "Your images" is the folder of wallpapers someone has saved. A saved wallpaper
-## can be a file they uploaded, a Picture of the Day they chose to keep, or a
-## Firefox wallpaper kept for them when it was retired.
-
 
 ## Solid Colors
 
@@ -598,9 +507,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 
 ## Firefox
 
@@ -995,9 +901,6 @@ newtab-promo-card-dismiss-button =
     .aria-label = Scarte e siere
     .title = Siere
 
-## Crossword widget
-
-
 ## Strings introduced by the Nova redesign of the Timer widget
 
 # Variables:
@@ -1291,9 +1194,6 @@ newtab-activation-window-message-customization-focus-primary-button =
 newtab-activation-window-message-values-focus-header = Chest spazi al va daûr lis tôs regulis
 newtab-activation-window-message-values-focus-message = { -brand-product-name } ti lasse navigâ come che ti plâs, un mût plui personâl di scomençâ la zornade in rêt. Rint { -brand-product-name } pardabon to.
 
-## Strings for the New Tab customization callout shown at the Nova launch.
-
-
 ## Strings for the Clock widget
 
 # Context menu item: toggle the clock card off.
@@ -1304,8 +1204,8 @@ newtab-clock-widget-menu-switch-to-12h = Passe al formât di 12 oris
 newtab-clock-widget-menu-switch-to-24h = Passe al formât di 24 oris
 newtab-clock-widget-label-your-clocks = I tiei orlois
 newtab-clock-widget-search-location-input2 =
-    .placeholder = Cîr une citât
     .aria-label = Cîr une citât
+    .placeholder = Cîr une citât
 newtab-clock-widget-search-location-input =
     .aria-label = Cîr une citât
     .label = Posizion

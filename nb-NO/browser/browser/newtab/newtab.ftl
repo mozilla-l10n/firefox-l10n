@@ -362,9 +362,6 @@ newtab-stocks-list-watchlist = Overvåkningsliste
     .label = Overvåkningsliste
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Søk etter navn eller symbol
-
-## Strings for the Finance widget
-
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finans
@@ -517,9 +514,6 @@ newtab-recent-searches-just-now = Akkurat nå
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Fjern «{ $search }» fra nylige søk
-
-## Strings for the Search widget
-
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Søk
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -549,11 +543,6 @@ newtab-horoscopes-menu-learn-more = Les mer
 
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Les mer
-
-## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
-## can play solitaire, a card game for one player, also known as patience.
-## Game displays within an iframe with name “Yahoo Solitaire”
-
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -608,9 +597,6 @@ newtab-topsites-image-url-label = Tilpasset bilde-URL
 newtab-topsites-use-custom-image-link = Bruk et tilpasset bilde
 newtab-topsites-use-image-link = Bruk et tilpasset bilde…
 newtab-topsites-image-validation = Kunne ikke lese inn bildet. Prøv en annen URL.
-
-## Clear text button for the URL and image URL input fields in the Top Sites form.
-
 newtab-topsites-clear-input =
     .aria-label = Fjern tekst
 
@@ -1046,9 +1032,6 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
-
-## Firefox wallpaper descriptions used for screen readers
-
 newtab-wallpaper-firefox-orange = En rev i høyre kant på oransje bakgrunn
 newtab-wallpaper-firefox-colorful-sky = Oransje bølger over en lilla nattehimmel
 newtab-wallpaper-firefox-desert-dark = En rev som sitter i en mørkelilla ørken
@@ -1806,8 +1789,8 @@ newtab-clock-widget-menu-switch-to-12h = Bytt til 12-timers format
 newtab-clock-widget-menu-switch-to-24h = Bytt til 24-timers format
 newtab-clock-widget-label-your-clocks = Dine klokker
 newtab-clock-widget-search-location-input2 =
-    .placeholder = Søk etter en by
     .aria-label = Søk etter en by
+    .placeholder = Søk etter en by
 newtab-clock-widget-search-location-input =
     .aria-label = Søk etter en by
     .label = Plassering
