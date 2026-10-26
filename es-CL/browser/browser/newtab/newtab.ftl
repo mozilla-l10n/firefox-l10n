@@ -367,6 +367,9 @@ newtab-stocks-list-watchlist = Lista de seguimiento
     .label = Lista de seguimiento
 # Context menu item that opens the stock search (by company name or ticker symbol).
 newtab-stocks-menu-search-stocks = Buscar por nombre o símbolo
+
+## Strings for the Finance widget
+
 # Accessible name for the Finance widget. It is usually not shown, since the
 # list dropdown or the chosen ticker symbol takes the title's place.
 newtab-stocks-widget-title2 = Finanzas
@@ -538,6 +541,9 @@ newtab-recent-searches-just-now = Justo ahora
 #   $search (string) - The search the row shows, e.g. "puffin colonies".
 newtab-recent-searches-row-remove =
     .aria-label = Eliminar “{ $search }” de las búsquedas recientes
+
+## Strings for the Search widget
+
 # Widget heading; also the widget's accessible name.
 newtab-search-widget-title = Buscar
 # Tooltip and screen reader label for the icon-only button that opens the
@@ -648,6 +654,9 @@ newtab-topsites-image-url-label = URL de imagen personalizada
 newtab-topsites-use-custom-image-link = Utilizar una imagen personalizada
 newtab-topsites-use-image-link = Utilizar una imagen personalizada…
 newtab-topsites-image-validation = Falló la carga de la imagen. Prueba una URL diferente.
+
+## Clear text button for the URL and image URL input fields in the Top Sites form.
+
 newtab-topsites-clear-input =
     .aria-label = Limpiar texto
 
@@ -1092,6 +1101,9 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+
+## Firefox wallpaper descriptions used for screen readers
+
 newtab-wallpaper-firefox-orange = Un zorro en el borde derecho sobre un fondo naranja.
 newtab-wallpaper-firefox-colorful-sky = Ondas de color naranja a través del cielo nocturno púrpura
 newtab-wallpaper-firefox-desert-dark = Un zorro sentado en un desierto de color púrpura oscuro
@@ -1854,6 +1866,9 @@ newtab-clock-widget-menu-edit = Editar relojes
 newtab-clock-widget-menu-switch-to-12h = Cambiar al formato de 12 horas
 newtab-clock-widget-menu-switch-to-24h = Cambiar al formato de 24 horas
 newtab-clock-widget-label-your-clocks = Tus relojes
+newtab-clock-widget-search-location-input2 =
+    .placeholder = Buscar una ciudad
+    .aria-label = Buscar una ciudad
 newtab-clock-widget-search-location-input =
     .aria-label = Buscar una ciudad
     .label = Ubicación
