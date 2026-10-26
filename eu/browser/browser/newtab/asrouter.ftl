@@ -526,3 +526,17 @@ refresh-profile-infobar-button = Berritu { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Ireki aurreko fitxak?</strong> Aurreko zure saioa berrezar dezakezu { -brand-short-name } aplikazio-menutik <img data-l10n-name="icon"/>, Historia barnean.
 restore-session-startup-suggestion-button = Erakuts iezadazu nola
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Ireki zure gogoko guneak aplikazioak bailiran
+taskbar-tabs-spotlight-subtitle = Klik bakarrak gehien erabiltzen dituzun guneak leiho sinplifikatu batean abiatzen ditu { -brand-short-name }(r)en babes guztiekin.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Hautatu zure ataza-barran gehitzeko
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Gehitu
+taskbar-tabs-spotlight-done-button = Eginda

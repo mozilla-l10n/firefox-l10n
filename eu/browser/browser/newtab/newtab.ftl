@@ -567,6 +567,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Horoskopoaren aukerak
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Argibide gehiago
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Yahook hornitua
 
 ## Strings for the Travel widget
 
@@ -1140,6 +1143,14 @@ newtab-weather-menu-change-location = Aldatu kokapena
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Bilatu kokapena
     .placeholder = Bilatu kokapena
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Atzera
+    .title = Atzera
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Kokapenen gomendioak
 newtab-weather-cancel-input =
     .aria-label = Utzi
     .title = Utzi
@@ -1854,6 +1865,10 @@ newtab-clock-widget-menu-edit = Editatu erlojuak
 newtab-clock-widget-menu-switch-to-12h = Aldatu 12 orduko formatura
 newtab-clock-widget-menu-switch-to-24h = Aldatu 24 orduko formatura
 newtab-clock-widget-label-your-clocks = Zure erlojuak
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Atzera
+    .title = Atzera
 newtab-clock-widget-search-location-input2 =
     .aria-label = Bilatu hiria
     .placeholder = Bilatu hiria

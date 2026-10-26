@@ -17,6 +17,7 @@ customkeys-reset-all = Berrezarri lasterbide guztiak lehenespenetara
 customkeys-conflict-confirm = Tekla hau lehendik ere { $conflict }-era esleitua dago. Ordezkatu egin nahi duzu?
 customkeys-reset-all-confirm = Ziur zaude teklatuaren lasterbide guztiak lehenespenetara berrezarri nahi dituzula?
 customkeys-file-duplicate-tab = Bikoiztu fitxa
+customkeys-file-copy-tab-url = Kopiatu fitxaren URLa
 customkeys-file-focus-search = Jarri fokua bilaketa-barran
 customkeys-history-reopen-tab = Ireki berriro itxitako azken fitxa
 customkeys-history-reopen-window = Ireki berriro itxitako azken leihoa
