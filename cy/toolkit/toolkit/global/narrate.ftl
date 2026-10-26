@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Darllen yn uchel
+narrate-rate-input =
+    .aria-label = Dewiswch gyflymder adrodd o -100 i 100, a 0 yw'r cyflymder rhagosodedig.
+    .title = Cyflymder
 narrate-rate-slow =
     .title = Arafu'r arddweud
 narrate-rate-fast =

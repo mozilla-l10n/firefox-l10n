@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Ewch ymhellach gyda
 ipprotection-feature-introduction-link-text-private-browsing-2 = Defnyddiwch ein <a data-l10n-name="learn-more-vpn">VPN cynhenid</a> i guddio'ch lleoliad a diogelu eich data gydag amgryptio ychwanegol.
 ipprotection-feature-introduction-description-private-browsing = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan mewn Ffenest Breifat.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Helpwch i guddio'ch lleoliad wrth i chi bori. Gosodwch reolau i droi VPN ymlaen am <a data-l10n-name="learn-more-vpn">breifatrwydd ychwanegol</a> neu bori ar sail lleoliad, neu i ffwrdd pan nad oes ei angen.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Helpwch i guddio'ch lleoliad ar gyfer <a data-l10n-name="learn-more-vpn">preifatrwydd ychwanegol</a> wrth i chi bori. Gosodwch reolau i droi'r VPN ymlaen ar gyfer preifatrwydd ychwanegol neu bori ar sail lleoliad, a ei ddiffodd lle nad ydych chi.
 ipprotection-feature-introduction-title-captive-portal = Ar Wi-Fi cyhoeddus? Rhowch gynnig ar VPN cynhenid { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Porwch gydag diogelwch ychwanegol trwy guddio'ch lleoliad, hyd yn oed pan ar Wi-Fi cyhoeddus.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Iawn
 ipprotection-site-inclusions-callout-title-existing-users = Gosodwch reolau VPN cynhenid, yna parhau i borwch
 ipprotection-site-inclusions-callout-title-lapsed-users = Rhowch gynnig ar VPN cynhenid, nawr fesul gwefan
 ipprotection-site-inclusions-callout-description-1 = Trowch y VPN ymlaen pan fyddwch chi eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i ddiffodd pan nad ydych chi.
+ipprotection-site-inclusions-callout-description-lapsed-users = Trowch y VPN ymlaen pan fyddwch eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i diffodd lle nad oes ei angen.
 ipprotection-site-inclusions-callout-description = Trowch ef ymlaen pan fyddwch eisiau preifatrwydd ychwanegol neu bori ar sail lleoliad, a'i diffodd lle nad oes ei angen.
 ipprotection-site-inclusions-callout-primary-button = Gosod rheolau
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nid nawr
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Cau
 ipprotection-holiday-promo-description = Gwnewch eich pori'n breifat ac yn anoddach ei olrhain gyda VPN cynhenid.
 ipprotection-holiday-promo-primary-button = Agor y VPN
 ipprotection-holiday-promo-secondary-button = Cau
+ipprotection-holiday-promo-title-1 = Cael VPN diderfyn tan Ionawr 31
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Trowch y VPN ymlaen i guddio'
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Gosod y VPN i droi ymlaen</a> bob tro byddwch yn agor { -brand-short-name } am haen ychwanegol o ddiogelwch.
 ipprotection-message-continuous-onboarding-site-settings = Bydd { -brand-short-name } yn cofio pa wefannau rydych chi wedi'u gosod i ddefnyddio'r VPN. Diweddarwch y rhain yn y  <a data-l10n-name="setting-link">gosodiadau</a> ar unrhyw bryd.
 confirmation-hint-ipprotection-navigated-to-excluded-site = Mae'r VPN i ffwrdd ar y wefan hon
+confirmation-hint-ipprotection-navigated-to-included-site = Mae'r VPN ymlaen ar y wefan hon
 ipprotection-open-button = Agor { -brand-product-name }
 ipprotection-come-back-title = Dewch nôl i roi cynnig ar y VPN cynhenid
 ipprotection-message-body-hide-location = Cuddiwch eich lleoliad pan fyddwch yn pori yn { -brand-product-name } am fwy o breifatrwydd a rheolaeth.
