@@ -55,3 +55,18 @@ smartwindow-group-tabs-view-tab-groups = Vis fanegrupper
 # Accessible name for the list of existing tab groups the row above opens.
 smartwindow-group-tabs-groups-list =
     .aria-label = Fanegrupper
+# Action that closes this window's duplicate tabs, keeping the most recently
+# used tab of each set. Only shown when there are duplicates to close.
+# Variables:
+#   $tabCount (Number) - Number of duplicate tabs that activating it closes
+smartwindow-group-tabs-close-duplicates =
+    { $tabCount ->
+        [one] Lukk { $tabCount } duplisert fane
+       *[other] Lukk { $tabCount } dupliserte faner
+    }
+# Accessible name for the list of duplicate tabs the row above would close,
+# one row per tab. Activating a tab in the list switches to it.
+# "Duplicate tabs" refers to tabs that are copies of each other; it is not a
+# verb telling the user to duplicate anything.
+smartwindow-group-tabs-duplicates-list =
+    .aria-label = Dupliserte faner som kan lukkes

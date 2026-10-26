@@ -252,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Lim inn og åpne
     .accesskey = L
+urlbar-menuitem-paste-and-search =
+    .label = Lim inn og søk
+    .accesskey = s
 
 ## Searchbar context menu
 
@@ -1357,6 +1360,9 @@ tabs-toolbar =
     .aria-label = Nettleserfaner
 tabs-toolbar-new-tab =
     .label = Ny fane
+tabs-toolbar-list-all-tabs-2 =
+    .label = Søk etter og behandle faner
+    .tooltiptext = Søk etter og behandle faner
 tabs-toolbar-list-all-tabs =
     .label = List opp alle faner
     .tooltiptext = List opp alle faner
@@ -1381,6 +1387,9 @@ filepicker-blocked-infobar = Organisasjonen din har blokkert tilgang til lokale 
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } søker nå etter faner
+urlbar-addons-shortcut-moved-description = Bruk { $addonsShortcut } for å åpne utvidelser og temaer.
+urlbar-addons-shortcut-moved-change-shortcuts = Behandle hurtigtaster
 urlbar-addons-shortcut-moved-dismiss = Jeg forstår
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
