@@ -26,6 +26,11 @@ content-sharing-modal-link-copied =
     .label = Lidhja u kopjua
 content-sharing-modal-sign-in-2 =
     .label = Që të ndani me të tjerë, bëni hyrjen
+content-sharing-modal-title-2 = Ndajini këto faqe me cilindo
+content-sharing-modal-title-signed-in = Lidhjet tuaja janë gati për ndarje
+content-sharing-modal-description-2 = Që të krijoni një faqe lidhjesh që mund të ndahet kollaj me të tjerë, bëni hyrjen. S’mund të përpunohet apo fshihet dhe skadon pas 7 ditësh.
+content-sharing-modal-description-signed-in = Hartuam një faqe lidhjesh tuajat që mund të ndahet kollaj me të tjerë. S’mund të përpunohet apo fshihet dhe skadon pas 7 ditësh.
+content-sharing-modal-policy = Duke ndarë me të tjerë, pajtoheni me <a data-l10n-name="aup-link">Rregullat tona të Përdorimit të Pranueshëm</a>
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
 # The current max is 30.
