@@ -112,6 +112,12 @@ neterror-dns-not-found-offline-hint-reconnect = Źělśo wót a zwěžćo zasej 
 ##   $port (String) - The port number the connection was refused on.
 
 neterror-loopback-refused-not-running = Nic zwiski z portom { $port } njeakceptěrujo. Pśeglědajśo, lěc waš lokalny serwer běžy.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Jolic běžy, pśeglědajśo, lěc port { $port } wužywa.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Kontrolěrujśo, lěc serwer zwiski z toś teju adresu akceptěrujo. Někotare serwery jano na  [::1] abo jano na 127.0.0.1 słuchaju.
 
 ## TRR-only specific messages
 ## Variables:
