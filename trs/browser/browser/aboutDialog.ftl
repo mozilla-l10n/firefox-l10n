@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = Rayi’i { -brand-full-name }
+    .title = Rayi’î{ -brand-full-name }
 releaseNotes-link = Nùhuin sa hua nakàa doj
 update-checkForUpdatesButton =
     .label = Nana'uì' sa nahuin nakà doj
@@ -63,10 +63,11 @@ aboutdialog-channel-description = Riñan man sa nakà doj huin <label data-l10n-
 warningDesc-version = { -brand-short-name } ma si arajhuè si ngàj ni ga'ue si gi'iaj sun hue'ej
 aboutdialog-help-user = { -brand-product-name } Sa rūgûñu’ūnj un
 aboutdialog-submit-feedback = Gā’nïnj \‘ngō Sinūguàn\’t
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> 'ngo <label data-l10n-name="community-exp-creditsLink">yi’ni’ niko</label> hiaj sun nugua’an da’ ga’ué gara sun daran nej dugui’ man riki yumin guii.
-community-2 = { -brand-short-name } guiri rá...<label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ngo <label data-l10n-name="community-creditsLink">yi’ni’ niko</label> hiaj sun nugua’an da’ ga’ué gara sun daran nej dugui’ man riki yumin guii.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> 'ngo <label data-l10n-name="community-exp-creditsLink">yi’ni’ nìko</label> hiaj sun nugua’an da’ ga’ue garasun daran' nej duguî’ màn riki yumin guìi.
+community-2 = { -brand-short-name } sa gi'hiaj <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, ngo <label data-l10n-name="community-creditsLink">yi’ni’ niko</label> hiaj sun nugua’an da’ ga’ue garasun daran' nej duguî’ màn riki yumin guìi.
 helpus = ¿ruguñu'unjt ruhuâ raj?<label data-l10n-name="helpus-donateLink">Gà'uì' 'ngo nriû</label>asi<label data-l10n-name="helpus-getInvolvedLink">Gatu siganïnj ïn</label>
-bottomLinks-license = Nuguan’ da’ui guini’in
+helpus-referrals2 = Ruguñu'unjt ruhuâ raj <label data-l10n-name="helpus-donateLink"> Dunaj santû </label>, <label data-l10n-name="helpus-shareFirefoxLink">Duyinga' { -brand-product-name }</label>, nejn si <label data-l10n-name="helpus-getInvolvedLink">ruguñu'unj</label>
+bottomLinks-license = Nuguan’ da’hui gini’in'
 bottom-links-terms = Chrēj gānikò’t da’ gā’hue gārasunt
 bottom-links-privacy = Notisia huìi
 # Example of resulting string: 66.0.1 (64-bit)
