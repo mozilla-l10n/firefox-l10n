@@ -49,7 +49,7 @@ toolbar-button-mini-window =
 # Opens up the Mini Window section selector tool.
 main-context-menu-use-mini-window =
     .label = Bölümü mini pencereye taşı
-    .accesskey = ö
+    .accesskey = m
 # Moves full tabs to Mini Windows, one window per tab.
 # Variables
 #  $tabCount (Number): The number of tabs that will be moved.

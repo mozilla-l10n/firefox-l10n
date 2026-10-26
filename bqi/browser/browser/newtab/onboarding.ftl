@@ -288,3 +288,9 @@ smartwindow-sidebar-auto-open-callout-rejected-title = فئمیم
 ## Theme Picker screen strings
 
 onboarding-theme-picker-button-label = زفت کردن وو رئڌن وا پؽش
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-primary-button-label = ناهاڌن پا گشتن
+welcome-back-onboarding-pill-label-vpn = VPN منی
+welcome-back-onboarding-card-tilebutton-label = امتهووس کوݩ
