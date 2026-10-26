@@ -17,6 +17,7 @@ customkeys-reset-all = איפוס כל קיצורי הדרך לברירת המח
 customkeys-conflict-confirm = מקש זה כבר מוקצה ל־{ $conflict }. האם ברצונך להחליף אותו?
 customkeys-reset-all-confirm = האם ברצונך לאפס את כל קיצורי המקלדת לברירות המחדל שלהם?
 customkeys-file-duplicate-tab = שכפול לשונית
+customkeys-file-copy-tab-url = העתקת כתובת האתר
 customkeys-file-focus-search = העברת המיקוד לשורת החיפוש
 customkeys-history-reopen-tab = פתיחת הלשונית האחרונה שנסגרה מחדש
 customkeys-history-reopen-window = פתיחת החלון האחרון שנסגר מחדש

@@ -525,3 +525,17 @@ refresh-profile-infobar-button = ריענון { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>לפתוח את הלשוניות הקודמות?</strong> באפשרותך לשחזר את ההפעלה הקודמת שלך מתפריט היישום של { -brand-short-name } ‏<img data-l10n-name="icon"/>, תחת היסטוריה.
 restore-session-startup-suggestion-button = להראות לך איך
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = לפתוח את האתרים המועדפים עליך כמו אפליקציה
+taskbar-tabs-spotlight-subtitle = לחיצה אחת פותחת את האתרים הנפוצים ביותר שלך בחלון מפושט עם כל ההגנות של { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = בחירה באתרים להוספה לשורת המשימות שלך
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = הוספה
+taskbar-tabs-spotlight-done-button = סיום

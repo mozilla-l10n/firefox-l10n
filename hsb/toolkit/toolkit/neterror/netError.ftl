@@ -106,6 +106,19 @@ neterror-dns-not-found-offline-hint-different-device = Spytajće z druhim gratom
 neterror-dns-not-found-offline-hint-modem = Přepruwujće swój modem abo router.
 neterror-dns-not-found-offline-hint-reconnect = Dźělće wot a zwjazajće zaso z WLAN.
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Ničo zwiski z portom { $port } njeakceptuje. Přepruwujće, hač waš lokalny serwer běži.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Jeli běži, přepruwujće, hač port { $port } wužiwa.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Kontrolujće, hač serwer zwiski z tutej adresu akceptuje. Někotre serwery jenož na  [::1] abo jenož na 127.0.0.1 słuchaja.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

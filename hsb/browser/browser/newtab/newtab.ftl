@@ -585,6 +585,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Nastajenja horoskopow
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Dalše informacije
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Spěchowany wot Yahoo
 
 ## Strings for the Travel widget
 
@@ -1160,6 +1163,14 @@ newtab-weather-menu-change-location = Městno změnić
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Městno pytać
     .placeholder = Městno pytać
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Wróćo
+    .title = Wróćo
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Namjety městnow
 newtab-weather-cancel-input =
     .aria-label = Přetorhnyć
     .title = Přetorhnyć
@@ -1880,6 +1891,10 @@ newtab-clock-widget-menu-edit = Časniki wobdźěłać
 newtab-clock-widget-menu-switch-to-12h = Do 12-hodźinskeho formata změnić
 newtab-clock-widget-menu-switch-to-24h = Do 24-hodźinskeho format změnić
 newtab-clock-widget-label-your-clocks = Waše časniki
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Wróćo
+    .title = Wróćo
 newtab-clock-widget-search-location-input2 =
     .aria-label = Město pytać
     .placeholder = Město pytać
