@@ -357,10 +357,20 @@ ip-protection-site-rule-duplicate-error = Ko tenda imbojojaháma.
 # Shown at the top of the dialog when the rule could not be saved.
 ip-protection-site-rule-save-error =
     .message = Ejavy emoheñóivo mbojojaha. Eha’ã jey ag̃ave.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = ¿Embogue mbojojaha { $website }-pe g̃uarã?
 ip-protection-delete-site-rule-cancel =
     .label = Eheja
 ip-protection-delete-site-rule-confirm =
     .label = Embogue
+ip-protection-delete-all-site-rules-message = ¿Emboguepaite mbojojahaita ñanduti roguegua?
+ip-protection-delete-all-site-rules-confirm =
+    .label = Emboguepaite mbojojaha
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Neremboguekuaái mbojojaha
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Noñemboguekuaái mbojojahaita
 ip-protection-delete-site-rule-retry =
     .label = Eha’ã jey
 

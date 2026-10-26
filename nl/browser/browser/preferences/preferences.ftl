@@ -1828,6 +1828,8 @@ permissions-data-section =
     .heading = Toestemmingen en gegevens
 pane-permissions-data-title2 = Toestemmingen en gegevens
     .title = Toestemmingen en gegevens
+notifications-section-header =
+    .heading = Notificaties
 
 ## Privacy Section - Data Collection
 

@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Ga verder met de in
 ipprotection-feature-introduction-link-text-private-browsing-2 = Gebruik onze nieuwe <a data-l10n-name="learn-more-vpn">ingebouwde VPN</a> om uw locatie te verbergen en uw gegevens te beschermen, zelfs als u zich in een privévenster bevindt.
 ipprotection-feature-introduction-description-private-browsing = Navigeer met extra bescherming door uw locatie te verbergen, zelfs wanneer u een privévenster gebuikt.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Help uw locatie te verbergen terwijl u surft. Stel regels in om VPN in te schakelen wanneer u <a data-l10n-name="learn-more-vpn">extra privacy</a> of locatiegebaseerd navigeren wilt, en schakel uit wanneer u dat niet wilt.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Help uw locatie te verbergen voor <a data-l10n-name="learn-more-vpn">extra privacy</a> terwijl u navigeert. Stel regels in om de VPN voor extra privacy of locatiegebaseerd navigeren in te schakelen, en uit te schakelen waar dat niet nodig is.
 ipprotection-feature-introduction-title-captive-portal = Gebruikt u openbare wifi? Probeer de ingebouwde VPN van { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navigeer met extra bescherming door uw locatie te verbergen, zelfs op openbare wifi.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Begrepen
 ipprotection-site-inclusions-callout-title-existing-users = Stel ingebouwde VPN-regels in en navigeer vervolgens verder
 ipprotection-site-inclusions-callout-title-lapsed-users = Probeer de ingebouwde VPN, nu per website
 ipprotection-site-inclusions-callout-description-1 = Zet VPN aan wanneer u extra privacy of locatiegebaseerd navigeren wilt, en uit waar dat niet nodig is.
+ipprotection-site-inclusions-callout-description-lapsed-users = Stel regels in om VPN in te schakelen wanneer u extra privacy of locatiegebaseerd navigeren wilt, en uit wanneer u dat niet wilt.
 ipprotection-site-inclusions-callout-description = Zet de VPN aan wanneer u extra privacy of locatiegebaseerd navigeren wilt, en uit waar dat niet nodig is.
 ipprotection-site-inclusions-callout-primary-button = Regels instellen
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Niet nu
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Sluiten
 ipprotection-holiday-promo-description = Maak uw navigatie privé en moeilijker te volgen met ingebouwde VPN.
 ipprotection-holiday-promo-primary-button = VPN openen
 ipprotection-holiday-promo-secondary-button = Sluiten
+ipprotection-holiday-promo-title-1 = Ontvang tot 31 januari onbeperkte VPN
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Schakel VPN in om uw locatie 
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Stel VPN in om</a> telkens als u { -brand-short-name } opent in te schakelen voor een extra beschermingslaag.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } onthoudt welke websites u hebt ingesteld voor het gebruik van VPN. Werk deze op elk gewenst moment bij in de <a data-l10n-name="setting-link">instellingen</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN is uit voor deze website
+confirmation-hint-ipprotection-navigated-to-included-site = VPN is aan voor deze website
 ipprotection-open-button = { -brand-product-name } openen
 ipprotection-come-back-title = Kom terug om de ingebouwde VPN te proberen
 ipprotection-message-body-hide-location = Verberg uw locatie wanneer u navigeert in { -brand-product-name } voor meer privacy en controle.

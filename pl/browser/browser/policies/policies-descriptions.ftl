@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = Uniemożliwienie przeprowadzania badań przez pro
 policy-DisableForgetButton = Wyłączenie dostępu do przycisku „Wyczyść”.
 policy-DisableFormHistory = Wyłączenie zachowywania historii wyszukiwania i formularzy.
 policy-DisableLaunchOnLogin = Uniemożliwienie { -brand-short-name(case: "dat") } automatycznego uruchamiania po zalogowaniu użytkownika.
+policy-DisableMacOSUserPolicies = Ignorowanie zasad określonych w preferencjach użytkownika oraz w profilach konfiguracji na poziomie użytkownika w systemie macOS.
 policy-DisablePrimaryPasswordCreation = Wartość „prawda” powoduje, że nie można utworzyć hasła głównego.
 policy-DisablePasswordReveal2 = Wyłączenie możliwości wyświetlania haseł w zachowanych danych logowania i polach haseł.
 policy-DisablePrivateBrowsing = Wyłączenie trybu prywatnego.
