@@ -1903,7 +1903,7 @@ notifications-empty-message =
     .label = Dim hysbysiadau gwefan wedi'u hychwanegu.
 # Shown as a row under the list header when a search matches no website.
 notifications-no-results-message =
-    .label = Nid oes unrhyw hysbysiadau gwefan yn cyfateb i'ch chwilio.
+    .label = Does dim hysbysiadau gwefan yn cyfateb i'ch chwilio.
 
 ## Privacy Section - Data Collection
 
