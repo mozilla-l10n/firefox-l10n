@@ -16,6 +16,16 @@ content-sharing-tabs-title =
         [one] { $count } skedë
        *[other] { $count } skeda
     }
+content-sharing-modal-view-page-2 =
+    .label = Bëni paraparje të faqes
+content-sharing-modal-copy-link =
+    .label = Kopjoje lidhjen
+content-sharing-modal-generating-page =
+    .label = Po prodhohet faqja…
+content-sharing-modal-link-copied =
+    .label = Lidhja u kopjua
+content-sharing-modal-sign-in-2 =
+    .label = Që të ndani me të tjerë, bëni hyrjen
 # This is a warning to the user when they try to share more than the maximum
 # number of links and that the first N links will be shared.
 # The current max is 30.
