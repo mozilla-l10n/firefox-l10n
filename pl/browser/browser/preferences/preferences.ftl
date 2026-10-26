@@ -1886,6 +1886,9 @@ notifications-state-never = Nigdy nie zezwalaj
 # notification decision.
 notifications-empty-message =
     .label = Nie dodano powiadomień z żadnych witryn.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Żadne powiadomienia z witryn nie pasują do wyszukiwania.
 
 ## Privacy Section - Data Collection
 
