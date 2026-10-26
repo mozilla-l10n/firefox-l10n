@@ -129,7 +129,7 @@ fxa-menu-sync-status-turn-on-button =
 fxa-menu-sync-status-turn-on-button-aria-label = Aç
 # Shown as a secondary label under "Sync is Off" when the user needs to sign in
 # (again) for sync to work.
-fxa-menu-sync-off-signin-description = Sync’e giriş yapın
+fxa-menu-sync-off-signin-description = Eşitlemek için giriş yap
 # Sync is a verb, short for synchronize.
 # Variables:
 #   $deviceName (String): The name of the local device.
