@@ -1139,6 +1139,14 @@ newtab-weather-menu-change-location = Modifica località
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Cerca località
     .placeholder = Cerca località
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Indietro
+    .title = Indietro
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Posizioni suggerite
 newtab-weather-cancel-input =
     .aria-label = Annulla
     .title = Annulla
@@ -1853,6 +1861,13 @@ newtab-clock-widget-menu-edit = Modifica gli orologi
 newtab-clock-widget-menu-switch-to-12h = Passa al formato 12 ore
 newtab-clock-widget-menu-switch-to-24h = Passa al formato 24 ore
 newtab-clock-widget-label-your-clocks = I tuoi orologi
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Indietro
+    .title = Indietro
+newtab-clock-widget-search-location-input2 =
+    .aria-label = Cerca una città
+    .placeholder = Cerca una città
 newtab-clock-widget-search-location-input =
     .aria-label = Cerca una città
     .label = Posizione
