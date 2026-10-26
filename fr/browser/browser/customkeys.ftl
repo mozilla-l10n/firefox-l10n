@@ -17,6 +17,7 @@ customkeys-reset-all = Rétablir tous les raccourcis avec les paramètres par d�
 customkeys-conflict-confirm = Cette touche est déjà attribuée à { $conflict }. Voulez-vous la remplacer ?
 customkeys-reset-all-confirm = Voulez-vous vraiment réinitialiser tous les raccourcis clavier ?
 customkeys-file-duplicate-tab = Dupliquer l’onglet
+customkeys-file-copy-tab-url = Copier l’URL de l’onglet
 customkeys-file-focus-search = Activer la barre de recherche
 customkeys-history-reopen-tab = Rouvrir le dernier onglet fermé
 customkeys-history-reopen-window = Rouvrir la dernière fenêtre fermée

@@ -527,3 +527,17 @@ refresh-profile-infobar-button = Återställ { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Öppna tidigare flikar?</strong>Du kan återställa din tidigare session från programmenyn i { -brand-short-name } <img data-l10n-name="icon"/>, under Historik.
 restore-session-startup-suggestion-button = Visa mig hur
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Öppna dina favoritsajter som en app
+taskbar-tabs-spotlight-subtitle = Ett klick startar dina mest använda webbplatser i ett strömlinjeformat fönster med alla { -brand-short-name }:s skydd.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Välj för att lägga till i aktivitetsfältet
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Lägg till
+taskbar-tabs-spotlight-done-button = Klar
