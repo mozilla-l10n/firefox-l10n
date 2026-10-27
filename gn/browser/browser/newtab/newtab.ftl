@@ -415,6 +415,11 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Ehecha moneĩha { $license }
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-picture-widget-open-menu-button =
+    .aria-label = Embojuruja ta’ãnga poravoha araguáva
+    .title = Embojuruja ta’ãnga poravoha araguáva
 # Button that sets the picture shown in the widget, which may be today’s or the
 # previous day’s, as the New Tab background wallpaper. The button collapses to an
 # icon when not hovered/focused, so .title is its tooltip.
@@ -1738,6 +1743,10 @@ newtab-clock-widget-menu-edit = Embosako’i aravopapaha
 newtab-clock-widget-menu-switch-to-12h = Emoambue 12 aravohapegua
 newtab-clock-widget-menu-switch-to-24h = Emoambue 24 aravohapegua
 newtab-clock-widget-label-your-clocks = Ijaravopapaha
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Tapykue
+    .title = Tapykue
 newtab-clock-widget-search-location-input2 =
     .aria-label = Eheka upe táva
     .placeholder = Eheka upe táva

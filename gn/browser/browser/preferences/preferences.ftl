@@ -1791,6 +1791,23 @@ permissions-data-section =
     .heading = Ñemoneĩ ha mba’ekuaarã
 pane-permissions-data-title2 = Ñemoneĩ ha mba’ekuaarã
     .title = Ñemoneĩ ha mba’ekuaarã
+notifications-section-header =
+    .heading = Ñemomarandu
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Ñanduti rogue
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Emoneĩ ñemomarandu
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Ñanduti rogueita
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Tapiaite
 # Read-only state shown on each row of the website notifications list, in the
 # column headed "Allow notifications". "Allow" is used where notifications
 # cannot be delivered while Firefox is closed.
