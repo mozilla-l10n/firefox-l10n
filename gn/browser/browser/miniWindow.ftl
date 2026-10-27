@@ -41,6 +41,31 @@ screenshots-component-mini-window-cancel-button = Eheja
 screenshots-component-reselect-button = Eñepyrũ jey
     .aria-label = Eñepyrũ jey
     .title = Eñepyrũ jey
+# Opens a selection tool to select a section of a page to
+# open in a smaller window to appear cropped and always on top.
+toolbar-button-mini-window =
+    .label = Ovetã’i
+    .tooltiptext = Eiporu ovetã’i
+# Opens up the Mini Window section selector tool.
+main-context-menu-use-mini-window =
+    .label = Mover sección a mini ventana
+    .accesskey = w
+# Moves full tabs to Mini Windows, one window per tab.
+# Variables
+#  $tabCount (Number): The number of tabs that will be moved.
+move-to-mini-window =
+    .label =
+        { $tabCount ->
+            [1] Eguerova ovetã’ípe
+            [one] Eguerova ovetã’ípe
+           *[other] Eguerova ovetã’ietápe
+        }
+    .accesskey = M
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Embosa’y kuatiarogue vore ojehecha hag̃ua
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.

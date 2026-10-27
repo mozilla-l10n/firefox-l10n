@@ -513,3 +513,13 @@ refresh-profile-infobar-button = Embohekopyahu { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>¿Embojuruja tendayke mboyveguáva?</strong> Ehechajeykuaa ne rembiapokue tembiporu’i poravorã guive { -brand-short-name } <img data-l10n-name="icon"/>, Rembiasakuépe.
 restore-session-startup-suggestion-button = Ehechauka mba’éichapa
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Mbojuaju
+taskbar-tabs-spotlight-done-button = Apopyre

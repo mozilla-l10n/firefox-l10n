@@ -415,6 +415,13 @@ newtab-picture-attribution-source-link = Wikimedia Commons
 # $license (string) - the name of the license.
 newtab-picture-attribution-license =
     .aria-label = Ehecha moneĩha { $license }
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Emoĩ ko ta’ãnga ne mba’erechaha ruguárõ
+    .label = Emoĩ mba’erechaha ruguárõ
+    .title = Emoĩ mba’erechaha ruguárõ
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -423,6 +430,10 @@ newtab-picture-set-wallpaper =
     .title = Emoĩ mba’erechaha ruguárõ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Emongu’e jehechaha rugua
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Eñomi ko ta’ãnga
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Ehechauka ta’ãnga
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Eñomi ta’ãnga aragua
@@ -430,6 +441,10 @@ newtab-picture-menu-hide-photo = Eñomi ta’ãnga aragua
 newtab-picture-menu-show-photo = Ehechauka ta’ãnga aragua
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Eikuaave
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Ehechauka ta’ãnga
+    .title = Ehechauka ta’ãnga
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Ehechauka ta’ãnga aragua
