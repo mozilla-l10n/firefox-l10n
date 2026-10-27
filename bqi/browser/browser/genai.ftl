@@ -20,6 +20,12 @@ genai-menu-remove-sidebar =
 genai-shortcut-more-actions-button =
     .aria-label = گۊزینه یل قلوه
     .tooltiptext = گۊزینه یل قلوه
+genai-more-actions-search =
+    .label = پیتینیڌن
+genai-more-actions-copy =
+    .label = لف گیری
+genai-more-actions-manage-settings =
+    .label = دؽوۉداری سامووا
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = پورس کردن ز { $provider }
@@ -133,6 +139,11 @@ highlight-to-search-settings-ask-provider =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = پیتینیڌن
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = لف گیری
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = نیشتن دووسمندیا قلوه وا هیاری هۊش مسنۊعی؟
 # Header for the key points section
