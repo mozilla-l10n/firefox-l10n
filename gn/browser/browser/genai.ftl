@@ -69,9 +69,25 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Emonguatia moñe’ẽrã poravopyre
     .tooltiptext = Emonguatia moñe’ẽrã poravopyre
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Monguatiapyre
 genai-shortcut-more-actions-button =
     .aria-label = Jeporavorãve
     .tooltiptext = Jeporavorãve
+genai-more-actions-panel =
+    .aria-label = Eiporavo mba’épa ehechaukáta
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Eporandu { $provider }-pe
+genai-more-actions-ai-generic =
+    .label = Eporandu IA-pe
+genai-more-actions-search =
+    .label = Eheka
+genai-more-actions-copy =
+    .label = Monguatia
+genai-more-actions-manage-settings =
+    .label = Eñangareko ñembohekóre
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Eporandu { $provider }-pe
@@ -244,6 +260,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Eheka
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Monguatia
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = ¿Ehechave IA ndive?
 # Message that appears when user is shown the opt-in flow for link previews

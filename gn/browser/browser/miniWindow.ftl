@@ -25,6 +25,10 @@ mini-window-audio-unmute =
 ## These strings label the buttons on the Screenshots selection overlay while
 ## it is being used to pick the region for a Mini Window.
 
+# Moves the tab to a Mini Window which frames the selected area of the page.
+screenshots-component-mini-window-button = Eguerova ovetã’ípe
+    .aria-label = Eguerova ovetã’ípe
+    .title = Eguerova ovetã’ípe
 # Dismisses the Mini Window selection overlay without moving the tab.
 screenshots-component-mini-window-cancel-button = Eheja
     .aria-label = Eheja
