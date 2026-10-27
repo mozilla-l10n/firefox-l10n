@@ -106,6 +106,19 @@ neterror-dns-not-found-offline-hint-different-device = Tente ligar-se num dispos
 neterror-dns-not-found-offline-hint-modem = Verifique o seu modem ou router.
 neterror-dns-not-found-offline-hint-reconnect = Desligue e volte a ligar o Wi-Fi.
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Nada está a aceitar ligações na porta { $port }. Verifique se o seu servidor local está a ser executado.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Se estiver em execução, verifique se está a utilizar a porta { $port }.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Verifique se o servidor aceita ligações neste endereço. Alguns servidores escutam apenas em [::1] ou apenas em 127.0.0.1.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

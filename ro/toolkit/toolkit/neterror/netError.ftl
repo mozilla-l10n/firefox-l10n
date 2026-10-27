@@ -106,6 +106,19 @@ neterror-dns-not-found-offline-hint-different-device = Încearcă să te conecte
 neterror-dns-not-found-offline-hint-modem = Verifică modemul sau routerul.
 neterror-dns-not-found-offline-hint-reconnect = Deconectează-te și reconectează-te la Wi-Fi.
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Nimic nu acceptă conexiuni pe portul { $port }. Verifică dacă îți merge serverul local.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Dacă merge, verifică dacă rulează pe portul { $port }.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Verifică dacă serverul acceptă conexiuni pe această adresă. Unele servere ascultă numai pe [::1] sau numai pe 127.0.0.1.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

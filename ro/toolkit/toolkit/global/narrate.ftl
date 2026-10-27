@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Citește cu voce tare
+narrate-rate-input =
+    .aria-label = Alege o viteză de narare între -100 și 100, unde 0 este viteza implicită.
+    .title = Viteză
 narrate-rate-slow =
     .title = Citește mai încet
 narrate-rate-fast =
