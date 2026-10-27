@@ -104,7 +104,7 @@ choose-p12-restore-file-dialog = Importējamā faila nosaukums
 
 file-browse-certificate-spec = Sertifikāta datnes
 import-ca-certs-prompt = Izvēlieties failu, kas satur importējamo CA sertifikātu
-import-email-cert-prompt = Izvēlieties failu, kas satur importējamo epasta sertifikātu
+import-email-cert-prompt = Jāatlasa datne, kas satur ievietojamo e-pasta sertifikātu
 
 ## For editing certificates trust
 

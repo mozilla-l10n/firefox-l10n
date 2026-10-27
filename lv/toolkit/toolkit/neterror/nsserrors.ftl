@@ -6,9 +6,9 @@ psmerr-ssl-disabled = Nevar droši pieslēgties, jo SSL protokols ir deaktivēts
 psmerr-ssl2-disabled = Nevar droši pieslēgties, jo lapa izmanto vecāku, nedrošu SSL protokola versiju.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Ir saņemts nederīgs sertifikāts.  Lūdzu sazinieties ar servera administratoru vai savu epasta sarakstes biedru un nododiet viņam sekojošu informāciju:
+    Ir saņemts nederīgs sertifikāts.  Lūgums sazināties ar servera pārvaldītāju vai savu e-pasta sarakstes biedru un nododot šādu informāciju:
     
-    Jūsu sertifikāta numurs sakrīt ar kāda cita sertifikāta sērijas numuru, ko izdevusi šī sertifikātu autoritāte. Lūdzu iegūstiet jaunu sertifikātu ar unikālu sērijas numuru.
+    Tavs sertifikāta numurs sakrīt ar kāda cita sertifikāta sērijas numuru, ko izdevusi šī sertifikātu autoritāte. Lūgums iegūt jaunu sertifikātu ar neatkārtojošos sērijas numuru.
 ssl-error-export-only-server = Nevar sazināties droši.  Komunikācijas partneris neatbalsta augstas raudzes šifrēšanu.
 ssl-error-us-only-server = Nevar sazināties droši.  Komunikācijas partneris pieprasa augstas raudzes šifrēšanu, kas nav pieejama.
 ssl-error-no-cypher-overlap = Nevar sazināties droši ar komunikācijas partneri : nav kopīgu šifrēšanas algoritmu.
@@ -188,8 +188,8 @@ sec-internal-only = **TIKAI iekšējs modulis**
 sec-error-invalid-key = Šī atslēga neatbalsta pieprasīto darbību.
 sec-error-unknown-critical-extension = Sertifikāts satur nezināmu kritisku paplašinājumu.
 sec-error-old-crl = Jaunais CRL nav vēlāks par esošo.
-sec-error-no-email-cert = Nav šifrēts vai parakstīts: jums vēl nav epasta sertifikāta.
-sec-error-no-recipient-certs-query = Nav šifrēts vai parakstīts: jums vēl nav epasta sertifikāta katram no saņēmējam.
+sec-error-no-email-cert = Nav šifrēts vai parakstīts: Tev vēl nav e-pasta sertifikāta.
+sec-error-no-recipient-certs-query = Nav šifrēts: Tev vēl nav e-pasta sertifikāta katram no saņēmējiem.
 sec-error-not-a-recipient = Nevar atšifrēt: jūs neesat saņēmējs vai arī nav atrasts atbilstošs sertifikāts un privātās atslēga.
 sec-error-pkcs7-keyalg-mismatch = Nevar atšifrēt: atslēgu šifrēšanas algoritms neatbilst jūsu sertifikātam.
 sec-error-pkcs7-bad-signature = Paraksta pārbaude neizdevās: nav parakstītāja, to ir pārāk daudz vai arī dati ir nepareizi, bojāti.
