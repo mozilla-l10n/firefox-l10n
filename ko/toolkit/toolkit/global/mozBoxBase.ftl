@@ -11,3 +11,10 @@ moz-box-item-reorder-handle =
 #   $item (string) - The label of the moz-box-item being reordered.
 moz-box-item-reorder-handle-named =
     .aria-label = Ctrl+Shift+ArrowUp 또는 Ctrl+Shift+ArrowDown을 사용하여 { $item } 항목 순서 변경
+
+## Screen reader announcements made after an item in a reorderable list is moved.
+## Variables:
+##   $position (number) - The new position of the item in the list, starting at 1.
+##   $total (number) - The total number of items in the list.
+
+moz-box-group-reorder-announcement = 항목이 { $total } 중 { $position } 위치로 이동됨

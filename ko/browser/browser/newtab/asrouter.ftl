@@ -531,3 +531,10 @@ restore-session-startup-suggestion-button = 사용법 보기
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = 즐겨찾는 사이트를 앱처럼 열기
+taskbar-tabs-spotlight-subtitle = 클릭 한 번으로 자주 방문하는 사이트를 { -brand-short-name }의 강력한 보호 기능이 그대로 적용된 간결한 창으로 실행해 보세요.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = 작업 표시줄에 추가할 사이트 선택
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = 추가
+taskbar-tabs-spotlight-done-button = 완료

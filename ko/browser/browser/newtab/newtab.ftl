@@ -531,6 +531,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = 오늘의 운세 옵션
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = 더 알아보기
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Yahoo 제공
 
 ## Strings for the Travel widget
 
@@ -1103,6 +1106,14 @@ newtab-weather-menu-change-location = 위치 변경
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = 위치 검색
     .placeholder = 위치 검색
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = 뒤로
+    .title = 뒤로
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = 위치 제안
 newtab-weather-cancel-input =
     .aria-label = 취소
     .title = 취소
@@ -1805,6 +1816,10 @@ newtab-clock-widget-menu-edit = 시계 편집
 newtab-clock-widget-menu-switch-to-12h = 12시간제로 전환
 newtab-clock-widget-menu-switch-to-24h = 24시간제로 전환
 newtab-clock-widget-label-your-clocks = 나만의 시계
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = 뒤로
+    .title = 뒤로
 newtab-clock-widget-search-location-input2 =
     .aria-label = 도시 검색
     .placeholder = 도시 검색

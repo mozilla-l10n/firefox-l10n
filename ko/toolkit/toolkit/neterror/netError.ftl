@@ -106,6 +106,15 @@ neterror-dns-not-found-offline-hint-different-device = 다른 기기에서 연�
 neterror-dns-not-found-offline-hint-modem = 모뎀이나 공유기를 확인해 보세요.
 neterror-dns-not-found-offline-hint-reconnect = Wi-Fi 연결을 끊었다가 다시 연결해 보세요.
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = { $port } 포트에서 연결을 허용하지 않습니다. 로컬 서버가 실행중인지 확인하세요.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = 실행 중이라면 { $port } 포트를 사용하고 있는지 확인하세요.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
