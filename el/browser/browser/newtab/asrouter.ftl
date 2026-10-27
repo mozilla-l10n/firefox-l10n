@@ -526,3 +526,13 @@ refresh-profile-infobar-button = Ανανέωση του { -brand-short-name }�
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Άνοιγμα προηγούμενων καρτελών;</strong> Μπορείτε να ανακτήσετε την προηγούμενη συνεδρία σας από την ενότητα «Ιστορικό» του μενού εφαρμογής <img data-l10n-name="icon"/> του { -brand-short-name }.
 restore-session-startup-suggestion-button = Εμφάνιση οδηγιών
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Προσθήκη
+taskbar-tabs-spotlight-done-button = Τέλος

@@ -17,6 +17,7 @@ customkeys-reset-all = Επαναφορά όλων των προεπιλεγμέ
 customkeys-conflict-confirm = Αυτό το πλήκτρο έχει ήδη ανατεθεί στην ενέργεια «{ $conflict }». Θέλετε να γίνει αντικατάσταση;
 customkeys-reset-all-confirm = Θέλετε σίγουρα να επαναφέρετε όλες τις συντομεύσεις πληκτρολογίου στις προεπιλογές;
 customkeys-file-duplicate-tab = Αντιγραφή καρτέλας
+customkeys-file-copy-tab-url = Αντιγραφή URL καρτέλας
 customkeys-file-focus-search = Εστίαση στη γραμμή αναζήτησης
 customkeys-history-reopen-tab = Επαναφορά τελευταίας κλειστής καρτέλας
 customkeys-history-reopen-window = Επαναφορά τελευταίου κλειστού παραθύρου

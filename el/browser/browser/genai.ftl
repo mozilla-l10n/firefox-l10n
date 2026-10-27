@@ -74,9 +74,25 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Αντιγραφή επιλεγμένου κειμένου
     .tooltiptext = Αντιγραφή επιλεγμένου κειμένου
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Αντιγράφηκε
 genai-shortcut-more-actions-button =
     .aria-label = Περισσότερες επιλογές
     .tooltiptext = Περισσότερες επιλογές
+genai-more-actions-panel =
+    .aria-label = Επιλέξτε ποιες ενέργειες θα εμφανίζονται
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Ερώτηση στο { $provider }
+genai-more-actions-ai-generic =
+    .label = Ερώτηση στην ΤΝ
+genai-more-actions-search =
+    .label = Αναζήτηση
+genai-more-actions-copy =
+    .label = Αντιγραφή
+genai-more-actions-manage-settings =
+    .label = Διαχείριση ρυθμίσεων
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Ερώτηση στο { $provider }
@@ -248,6 +264,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Αναζήτηση
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Αντιγραφή
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Θέλετε να δείτε περισσότερα με την ΤΝ;
 # Message that appears when user is shown the opt-in flow for link previews

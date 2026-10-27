@@ -567,6 +567,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Επιλογές ζωδίων
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Μάθετε περισσότερα
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Με την υποστήριξη του Yahoo
 
 ## Strings for the Travel widget
 
@@ -1140,6 +1143,14 @@ newtab-weather-menu-change-location = Αλλαγή τοποθεσίας
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Αναζήτηση τοποθεσίας
     .placeholder = Αναζήτηση τοποθεσίας
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Πίσω
+    .title = Πίσω
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Προτάσεις τοποθεσίας
 newtab-weather-cancel-input =
     .aria-label = Ακύρωση
     .title = Ακύρωση
@@ -1853,6 +1864,10 @@ newtab-clock-widget-menu-edit = Επεξεργασία ρολογιών
 newtab-clock-widget-menu-switch-to-12h = Εναλλαγή σε 12ωρη μορφή
 newtab-clock-widget-menu-switch-to-24h = Εναλλαγή σε 24ωρη μορφή
 newtab-clock-widget-label-your-clocks = Τα ρολόγια σας
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Πίσω
+    .title = Πίσω
 newtab-clock-widget-search-location-input2 =
     .aria-label = Αναζήτηση πόλης
     .placeholder = Αναζήτηση πόλης

@@ -114,6 +114,10 @@ neterror-dns-not-found-offline-hint-reconnect = Wi-Fi 연결을 끊었다가 다
 neterror-loopback-refused-not-running = { $port } 포트에서 연결을 허용하지 않습니다. 로컬 서버가 실행중인지 확인하세요.
 # "it" is the local server that the user is trying to reach.
 neterror-loopback-refused-wrong-port = 실행 중이라면 { $port } 포트를 사용하고 있는지 확인하세요.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = 서버가 이 주소에서 연결을 수락하는지 확인하세요. 일부 서버는 [::1] 또는 127.0.0.1로만 요청을 대기하도록 설정되어 있을 수 있습니다.
 
 ## TRR-only specific messages
 ## Variables:
