@@ -211,9 +211,9 @@ fp-certerror-page-title = Upozornenie: bezpečnostné riziko
 fp-certerror-body-title = Buďte opatrní. Niečo nie je v poriadku.
 fp-certerror-why-site-dangerous = Čo spôsobuje, že stránka vyzerá nebezpečne?
 fp-certerror-what-can-you-do = Čo s tým môžete urobiť?
-fp-certerror-advanced-title = Pokročilé
-fp-certerror-advanced-button = Pokročilé
-fp-certerror-hide-advanced-button = Skryť pokročilé
+fp-certerror-advanced-title = Rozšírené
+fp-certerror-advanced-button = Rozšírené
+fp-certerror-hide-advanced-button = Skryť rozšírené
 
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

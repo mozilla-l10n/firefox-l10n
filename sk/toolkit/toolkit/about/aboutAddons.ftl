@@ -58,7 +58,7 @@ detail-update-manual =
     .label = Vypnuté
     .tooltiptext = Neinštalovať aktualizácie automaticky
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Povoliť v súkromných oknách
+detail-private-browsing-label = Spúšťať v súkromných oknách
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Toto rozšírenie sa nespúšťa v súkromných oknách
