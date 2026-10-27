@@ -17,6 +17,7 @@ customkeys-reset-all = Obnovit všechny zkratky na výchozí hodnoty
 customkeys-conflict-confirm = Tato klávesa je již přiřazena k { $conflict }. Provést nahrazení?
 customkeys-reset-all-confirm = Opravdu chcete obnovit všechny klávesové zkratky na výchozí hodnoty?
 customkeys-file-duplicate-tab = Duplikovat panel
+customkeys-file-copy-tab-url = Zkopírovat URL panelu
 customkeys-file-focus-search = Přejít do vyhledávacího pole
 customkeys-history-reopen-tab = Obnovit naposledy zavřený panel
 customkeys-history-reopen-window = Obnovit naposledy zavřené okno

@@ -612,6 +612,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Možnosti horoskopu
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Zjistit více
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Poskytuje Yahoo
 
 ## Strings for the Travel widget
 
@@ -1190,6 +1193,14 @@ newtab-weather-menu-change-location = Změnit místo
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Hledat umístění
     .placeholder = Hledat umístění
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Zpět
+    .title = Zpět
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Navrhované lokality
 newtab-weather-cancel-input =
     .aria-label = Zrušit
     .title = Zrušit
@@ -1950,6 +1961,10 @@ newtab-clock-widget-menu-edit = Úprava hodin
 newtab-clock-widget-menu-switch-to-12h = Přepnout na 12hodinový formát
 newtab-clock-widget-menu-switch-to-24h = Přepnout na 24-hodinový formát
 newtab-clock-widget-label-your-clocks = Vaše hodiny
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Zpět
+    .title = Zpět
 newtab-clock-widget-search-location-input2 =
     .aria-label = Vyhledat město
     .placeholder = Vyhledat město

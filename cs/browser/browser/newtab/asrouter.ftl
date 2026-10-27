@@ -749,3 +749,14 @@ restore-session-startup-suggestion-message =
        *[no-cases] <strong>Chcete otevřít předchozí panely?</strong> Předchozí relaci aplikace { -brand-short-name } můžete obnovit z nabídky <img data-l10n-name="icon"/> v části Historie.
     }
 restore-session-startup-suggestion-button = Jak na to
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Otevírejte oblíbené weby jako aplikace
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Přidat
+taskbar-tabs-spotlight-done-button = Hotovo
