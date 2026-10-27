@@ -566,6 +566,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Opciones de horóscopos
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Conocer más
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Powered by Yahoo
 
 ## Strings for the Travel widget
 
@@ -1139,6 +1142,14 @@ newtab-weather-menu-change-location = Cambiar ubicación
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Buscar ubicación
     .placeholder = Buscar ubicación
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Atrás
+    .title = Atrás
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Sugerencias de ubicación
 newtab-weather-cancel-input =
     .aria-label = Cancelar
     .title = Cancelar
@@ -1837,6 +1848,10 @@ newtab-clock-widget-menu-edit = Editar relojes
 newtab-clock-widget-menu-switch-to-12h = Cambiar a formato de 12 horas
 newtab-clock-widget-menu-switch-to-24h = Cambiar a formato de 24 horas
 newtab-clock-widget-label-your-clocks = Sus relojes
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Atrás
+    .title = Atrás
 newtab-clock-widget-search-location-input2 =
     .aria-label = Buscar una ciudad
     .placeholder = Buscar una ciudad

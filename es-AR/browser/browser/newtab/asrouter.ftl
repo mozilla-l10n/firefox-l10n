@@ -526,3 +526,17 @@ refresh-profile-infobar-button = Refrescar { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong> ¿Abrir pestañas anteriores? </strong> Puede restaurar su sesión anterior desde el menú de la aplicación { -brand-short-name } <img data-l10n-name = "icon" />, en Historial.
 restore-session-startup-suggestion-button = Mostrarme cómo
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Abrir sitios favoritos como una aplicación
+taskbar-tabs-spotlight-subtitle = Un clic abre los sitios más usados en una ventana simplificada con todas las protecciones de { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Seleccionar para agregar a la barra de tareas
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Agregar
+taskbar-tabs-spotlight-done-button = Listo
