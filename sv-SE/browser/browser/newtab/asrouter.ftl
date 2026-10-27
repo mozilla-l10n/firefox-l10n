@@ -533,10 +533,10 @@ restore-session-startup-suggestion-button = Visa mig hur
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
-taskbar-tabs-spotlight-title = Öppna dina favoritsajter som en app
-taskbar-tabs-spotlight-subtitle = Ett klick startar dina mest använda webbplatser i ett strömlinjeformat fönster med alla { -brand-short-name }:s skydd.
+taskbar-tabs-spotlight-title = Öppna dina favoritsajter som appar
+taskbar-tabs-spotlight-subtitle = Öppna dina mest använda webbplatser med ett klick i ett smidigt fönster med alla skydd från { -brand-short-name }.
 # Heading above the list of suggested websites.
-taskbar-tabs-spotlight-sites-heading = Välj för att lägga till i aktivitetsfältet
+taskbar-tabs-spotlight-sites-heading = Välj webbplatser att lägga till i aktivitetsfältet
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Lägg till
