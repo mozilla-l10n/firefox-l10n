@@ -35,6 +35,9 @@ appearance-browser-icon-bonus-group2 =
 
 ##
 
+# “Bonus” means “additional” in this context
+appearance-browser-icon-requirement =
+    .message = Ljúktu við þetta og opnaðu á bónusrebbatákn til að sérsníða { -brand-short-name }.
 # Shown in place of appearance-browser-icon-requirement once the bonus icons are
 # unlocked (the browser is both the default and pinned to the taskbar).
 appearance-browser-icon-unlocked =
