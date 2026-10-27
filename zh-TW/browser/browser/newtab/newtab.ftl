@@ -1115,6 +1115,10 @@ newtab-weather-change-location-search-input-placeholder =
 newtab-weather-search-back-button =
     .aria-label = 上一頁
     .title = 上一頁
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = 位置建議
 newtab-weather-cancel-input =
     .aria-label = 取消
     .title = 取消

@@ -531,6 +531,9 @@ restore-session-startup-suggestion-button = 告訴我如何作
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = 像開啟應用程式一樣開啟您的最愛網站
+taskbar-tabs-spotlight-subtitle = 只要點一下，即可在精簡視窗中開啟最常用的網站，同時仍享有 { -brand-short-name } 的完整防護。
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = 選擇此處即可將網站新增至工作列
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = 新增
