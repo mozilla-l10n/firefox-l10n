@@ -74,9 +74,15 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Скапіяваць вылучаны тэкст
     .tooltiptext = Скапіяваць вылучаны тэкст
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Скапіявана
 genai-shortcut-more-actions-button =
     .aria-label = Дадатковыя налады
     .tooltiptext = Дадатковыя налады
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Спытаць { $provider }
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Спытаць { $provider }

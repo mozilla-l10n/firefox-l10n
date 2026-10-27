@@ -125,6 +125,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Адхіл�
 ipprotection-holiday-promo-description = Зрабіце сваё агляданне прыватным і больш складаным для асочвання з дапамогай убудаванага VPN.
 ipprotection-holiday-promo-primary-button = Адкрыць VPN
 ipprotection-holiday-promo-secondary-button = Адхіліць
+ipprotection-holiday-promo-title-1 = Атрымайце неабмежаваны VPN да 31 студзеня
 
 ## Panel
 

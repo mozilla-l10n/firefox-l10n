@@ -17,6 +17,7 @@ customkeys-reset-all = Скінуць усе спалучэнні клавіш �
 customkeys-conflict-confirm = Гэта клавіша ўжо прызначана для { $conflict }. Хочаце замяніць?
 customkeys-reset-all-confirm = Вы ўпэўненыя, што хочаце скінуць усе спалучэнні клавіш да прадвызначаных значэнняў?
 customkeys-file-duplicate-tab = Дубляваць картку
+customkeys-file-copy-tab-url = Капіяваць URL карткі
 customkeys-file-focus-search = Фокус на радок пошуку
 customkeys-history-reopen-tab = Паўторна адкрыць апошнюю закрытую картку
 customkeys-history-reopen-window = Паўторна адкрыць апошняе закрытае акно
