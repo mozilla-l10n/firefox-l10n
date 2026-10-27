@@ -441,6 +441,8 @@ main-context-menu-reveal-password =
     .accesskey = y
 # The label of a badge shown in menu items to call out new features.
 main-context-menu-new-feature-badge = Nýtt
+# The label of a badge shown in menu items to call out features that are in beta.
+main-context-menu-beta-feature-badge = Beta-prófunarútgáfa
 main-context-menu-pdfjs-copy-page =
     .label = Afrita síðu
 main-context-menu-pdfjs-cut-page =

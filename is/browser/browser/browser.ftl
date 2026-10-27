@@ -36,6 +36,33 @@ urlbar-identity-button2 =
             [one] Skoða upplýsingar um vefsvæði (1 rekjari útilokaður)
            *[other] Skoða upplýsingar um vefsvæði ({ $count } rekjarar útilokaðir)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } tengill
+           *[other] { $count } tenglar
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, skilaboð og fleira…
+    .accesskey = p
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Skilaboð, póstur og fleira…
+    .accesskey = b
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Deila…
+    .accesskey = D
 urlbar-identity-button =
     .aria-label = Skoða upplýsingar um vefsvæði
 
@@ -223,6 +250,9 @@ urlbar-split-view-button =
 
 urlbar-menuitem-paste-and-go =
     .label = Líma og hoppa
+    .accesskey = L
+urlbar-menuitem-paste-and-search =
+    .label = Líma og leita
     .accesskey = L
 
 ## Searchbar context menu
@@ -1251,6 +1281,14 @@ restore-session-startup-suggestion-button = Sýna mér hvernig
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = Stofnunin/fyrirtækið þitt hefur lokað fyrir aðgang að staðbundnum skrám á þessari tölvu
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-dismiss = Náði því
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

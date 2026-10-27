@@ -72,6 +72,7 @@ customkeys-key-unchangeable = (er ekki hægt að breyta)
 
 customkeys-conflict-confirm-button-confirm = Nota samt
 customkeys-conflict-confirm-button-cancel = Hætta við
+customkeys-reset-all-confirm-title = Endurheimta sjálfgefin gildi?
 customkeys-reset-all-confirm-button-cancel = Hætta við
 
 ## Sidebar
