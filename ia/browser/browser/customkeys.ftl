@@ -17,6 +17,7 @@ customkeys-reset-all = Reinitialisar tote le accessos directe al valores predefi
 customkeys-conflict-confirm = Iste clave es jam assignate a { $conflict }. Desira tu substituer lo?
 customkeys-reset-all-confirm = Desira tu vermente reinitialisar tote le accessos directe a lor valores predefinite?
 customkeys-file-duplicate-tab = Duplicar scheda
+customkeys-file-copy-tab-url = Copiar URL scheda
 customkeys-file-focus-search = Activar le Barra de recerca
 customkeys-history-reopen-tab = Reaperir ultime scheda claudite
 customkeys-history-reopen-window = Reaperir ultime fenestra claudite

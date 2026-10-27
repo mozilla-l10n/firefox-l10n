@@ -527,3 +527,13 @@ refresh-profile-infobar-button = Refrescar { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Reaperir schedas anterior?</strong> Tu pote restaurar tu previe session a partir del menu <img data-l10n-name="icon"/> de { -brand-short-name }, sub Chronologia.
 restore-session-startup-suggestion-button = Monstrar como
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Adder
+taskbar-tabs-spotlight-done-button = Facite
