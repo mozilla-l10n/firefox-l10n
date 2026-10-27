@@ -333,3 +333,13 @@ refresh-profile-infobar-button = وانۊ کردن { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>اخۊین بلگه یل پؽشی ن بۊگۊشین؟</strong> ترین نشست پؽشی خوتووݩ ن ز نومگه { -brand-short-name } <img data-l10n-name="icon"/>، من بشن ویرگار وورگنین.
 restore-session-startup-suggestion-button = نشووݩ داڌن بارت کار
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = ٱووردن
+taskbar-tabs-spotlight-done-button = ٱنجوم وابی
