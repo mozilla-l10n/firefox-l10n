@@ -74,9 +74,25 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = 複製選擇的文字
     .tooltiptext = 複製選擇的文字
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = 已複製！
 genai-shortcut-more-actions-button =
     .aria-label = 更多選項
     .tooltiptext = 更多選項
+genai-more-actions-panel =
+    .aria-label = 選擇要顯示哪些動作
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = 問問 { $provider }
+genai-more-actions-ai-generic =
+    .label = 問問 AI
+genai-more-actions-search =
+    .label = 搜尋
+genai-more-actions-copy =
+    .label = 複製
+genai-more-actions-manage-settings =
+    .label = 管理設定
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = 問問 { $provider }
@@ -238,6 +254,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = 搜尋
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = 複製
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = 想要用 AI 看到更多內容嗎？
 # Message that appears when user is shown the opt-in flow for link previews

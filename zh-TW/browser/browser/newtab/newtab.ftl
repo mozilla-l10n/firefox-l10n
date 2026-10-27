@@ -535,6 +535,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = 星座選項
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = 更多資訊
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = 由 Yahoo 提供
 
 ## Strings for the Travel widget
 
@@ -1108,6 +1111,10 @@ newtab-weather-menu-change-location = 更改位置
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = 搜尋位置
     .placeholder = 搜尋位置
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = 上一頁
+    .title = 上一頁
 newtab-weather-cancel-input =
     .aria-label = 取消
     .title = 取消
@@ -1810,6 +1817,10 @@ newtab-clock-widget-menu-edit = 編輯時鐘
 newtab-clock-widget-menu-switch-to-12h = 切換為 12 小時格式
 newtab-clock-widget-menu-switch-to-24h = 切換為 24 小時格式
 newtab-clock-widget-label-your-clocks = 您的時鐘
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = 上一頁
+    .title = 上一頁
 newtab-clock-widget-search-location-input2 =
     .aria-label = 搜尋城市
     .placeholder = 搜尋城市
