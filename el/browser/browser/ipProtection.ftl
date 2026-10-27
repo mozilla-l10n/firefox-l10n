@@ -115,6 +115,7 @@ ipprotection-android-promo-callout-primary-button = Το κατάλαβα
 ipprotection-site-inclusions-callout-title-existing-users = Ορίστε κανόνες για το ενσωματωμένο VPN και συνεχίστε την περιήγηση
 ipprotection-site-inclusions-callout-title-lapsed-users = Δοκιμάστε το ενσωματωμένο VPN, πλέον ανά ιστότοπο
 ipprotection-site-inclusions-callout-description-1 = Ενεργοποιήστε το VPN όταν θέλετε επιπλέον ιδιωτικότητα ή περιήγηση βάσει τοποθεσίας και απενεργοποιήστε το όπου δεν χρειάζεται.
+ipprotection-site-inclusions-callout-description-lapsed-users = Ορίστε κανόνες για ενεργοποίηση του VPN όταν θέλετε επιπλέον ιδιωτικότητα ή περιήγηση βάσει τοποθεσίας, και απενεργοποίηση όπου δεν χρειάζεται.
 ipprotection-site-inclusions-callout-description = Ενεργοποιήστε το όταν θέλετε επιπλέον ιδιωτικότητα ή περιήγηση βάσει τοποθεσίας και απενεργοποιήστε το όπου δεν χρειάζεται.
 ipprotection-site-inclusions-callout-primary-button = Ορισμός κανόνων
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Όχι τώρα
@@ -124,6 +125,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Απόρρ�
 
 ipprotection-holiday-promo-primary-button = Άνοιγμα VPN
 ipprotection-holiday-promo-secondary-button = Απόρριψη
+ipprotection-holiday-promo-title-1 = Απεριόριστο VPN έως τις 31 Ιανουαρίου
 
 ## Panel
 
