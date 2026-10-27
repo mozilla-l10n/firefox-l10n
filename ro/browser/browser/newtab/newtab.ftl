@@ -576,6 +576,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Opțiuni pentru horoscop
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Află mai multe
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Susținut de Yahoo
 
 ## Strings for the Travel widget
 
@@ -1150,6 +1153,14 @@ newtab-weather-menu-change-location = Schimbă locația
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Caută locație
     .placeholder = Caută locație
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Înapoi
+    .title = Înapoi
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Sugestii de locații
 newtab-weather-cancel-input =
     .aria-label = Anulează
     .title = Anulează
@@ -1867,6 +1878,10 @@ newtab-clock-widget-menu-edit = Editează ceasurile
 newtab-clock-widget-menu-switch-to-12h = Treci la formatul de 12 ore
 newtab-clock-widget-menu-switch-to-24h = Treci la formatul de 24 de ore
 newtab-clock-widget-label-your-clocks = Ceasurile tale
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Înapoi
+    .title = Înapoi
 newtab-clock-widget-search-location-input2 =
     .aria-label = Caută un oraș
     .placeholder = Caută un oraș

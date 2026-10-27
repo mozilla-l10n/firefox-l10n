@@ -1832,6 +1832,63 @@ permissions-data-section =
     .heading = Permisiuni și date
 pane-permissions-data-title2 = Permisiuni și date
     .title = Permisiuni și date
+notifications-section-header =
+    .heading = Notificări
+notifications-entry-card-header =
+    .description = Alege ce site-uri web pot trimite notificări și modul în care se afișează aceste alerte.
+    .label = Notificări
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } site web
+            [few] { $count } site-uri web
+           *[other] { $count } de site-uri web
+        }
+    .label = Gestionează setările pentru notificări
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Gestionează setările pentru notificările site-urilor web
+notifications-website-card-header =
+    .description = Alege cum pot trimite notificări site-urile web.
+    .label = Notificări site-uri web
+notifications-filter =
+    .placeholder = Caută site-uri web
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Site web
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Permite notificările
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Site-uri web
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Întotdeauna
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Permite
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Niciodată
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Nu au fost adăugate notificări de la site-uri.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Nicio notificare de la site-uri nu se potrivește cu căutarea ta.
 
 ## Privacy Section - Data Collection
 

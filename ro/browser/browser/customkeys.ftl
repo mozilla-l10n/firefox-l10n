@@ -17,6 +17,7 @@ customkeys-reset-all = Resetează toate comenzile rapide la valorile implicite
 customkeys-conflict-confirm = Această cheie este deja atribuită pentru { $conflict }. Vrei să o înlocuiești?
 customkeys-reset-all-confirm = Sigur vrei să resetezi toate comenzile rapide din tastatură la valorile implicite?
 customkeys-file-duplicate-tab = Duplică fila
+customkeys-file-copy-tab-url = Copiază URL-ul filei
 customkeys-file-focus-search = Focalizare pe bara de căutare
 customkeys-history-reopen-tab = Redeschide ultima filă închisă
 customkeys-history-reopen-window = Redeschide ultima fereastră închisă

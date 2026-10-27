@@ -530,3 +530,17 @@ refresh-profile-infobar-button = Reîmprospătează { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Deschizi file anterioare?</strong> Poți restaura sesiunea anterioară din { -brand-short-name } meniul aplicației <img data-l10n-name="icon"/>, la Istoric.
 restore-session-startup-suggestion-button = Arată-mi cum
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Deschizi site-urile preferate ca pe aplicații
+taskbar-tabs-spotlight-subtitle = Un clic îți lansează într-o fereastră optimizată site-urile pe care le folosești cel mai frecvent, cu toate protecțiile { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Selectează pentru adăugare în bara de activități
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Adaugă
+taskbar-tabs-spotlight-done-button = Terminat

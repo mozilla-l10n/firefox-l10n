@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Mergi mai departe c
 ipprotection-feature-introduction-link-text-private-browsing-2 = Folosește noul nostru <a data-l10n-name="learn-more-vpn">VPN încorporat</a> ca să-ți ascunzi locația și să-ți protejezi datele, chiar și într-o fereastră privată.
 ipprotection-feature-introduction-description-private-browsing = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și într-o fereastră privată.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Ajută la ascunderea locației când navighezi. Setează reguli pentru activarea VPN-ului când vrei <a data-l10n-name="learn-more-vpn">un plus de confidențialitate</a> sau navigare în funcție de locație și pentru dezactivarea lui când nu vrei să îl folosești.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Te ajută să îți ascunzi locația pentru <a data-l10n-name="learn-more-vpn">un plus de confidențialitate</a> în timp ce navighezi. Setează reguli pentru activarea VPN-ului pentru un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
 ipprotection-feature-introduction-title-captive-portal = Ești într-o rețea Wi-Fi publică? Încearcă VPN-ul încorporat din { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Navighează cu protecție suplimentară ascunzându-ți locația, chiar și în Wi-Fi public.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = Am înțeles
 ipprotection-site-inclusions-callout-title-existing-users = Setează reguli pentru VPN-ul încorporat, apoi navighează mai departe
 ipprotection-site-inclusions-callout-title-lapsed-users = Încearcă VPN-ul încorporat, acum pentru fiecare site în parte
 ipprotection-site-inclusions-callout-description-1 = Activează VPN-ul încorporat când vrei un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
+ipprotection-site-inclusions-callout-description-lapsed-users = Setează reguli pentru activarea VPN-ul când vrei un plus de confidențialitate sau navigare în funcție de locație și pentru a-l dezactiva când nu ai nevoie.
 ipprotection-site-inclusions-callout-description = Activează-l când vrei un plus de confidențialitate sau navigare în funcție de locație și dezactivează-l când nu vrei să îl folosești.
 ipprotection-site-inclusions-callout-primary-button = Setează reguli
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Nu acum
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Închide
 ipprotection-holiday-promo-description = Navighează privat și fii mai greu de urmărit cu VPN-ul integrat.
 ipprotection-holiday-promo-primary-button = Deschide VPN-ul
 ipprotection-holiday-promo-secondary-button = Închide
+ipprotection-holiday-promo-title-1 = Obține VPN nelimitat până pe 31 ianuarie
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Activează VPN-ul pentru a-ț
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Setează VPN-ul să se activeze</a> de fiecare dată când deschizi { -brand-short-name } pentru un nivel suplimentar de protecție.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } va reține site-urile web pe care le-ai configurat să utilizeze VPN. Poți actualiza oricând opțiunile din <a data-l10n-name="setting-link">setări</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ul este dezactivat pentru acest site
+confirmation-hint-ipprotection-navigated-to-included-site = VPN-ul este activat pentru acest site
 ipprotection-open-button = Deschide { -brand-product-name }
 ipprotection-come-back-title = Revino să încerci VPN-ul încorporat
 ipprotection-message-body-hide-location = Ascunde-ți locația când navighezi în { -brand-product-name } pentru mai multă confidențialitate și control.

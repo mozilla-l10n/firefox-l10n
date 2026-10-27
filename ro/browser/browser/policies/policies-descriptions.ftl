@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = Împiedică efectuarea de studii de către { -bra
 policy-DisableForgetButton = Împiedică accesul la butonul de uitare.
 policy-DisableFormHistory = Nu memora istoricul căutărilor și al formularelor.
 policy-DisableLaunchOnLogin = Împiedică lansarea automată a { -brand-short-name } la autentificarea utilizatorului în cont.
+policy-DisableMacOSUserPolicies = Ignoră politicile din preferințele utilizatorului și din profilurile de configurare la nivel de utilizator pe macOS.
 policy-DisablePrimaryPasswordCreation = Dacă valoarea este adevărată, nu se poate crea o parolă primară.
 policy-DisablePasswordReveal2 = Nu permite afișarea parolelor în date de autentificare salvate sau în câmpuri pentru parolă.
 policy-DisablePrivateBrowsing = Dezactivează navigarea privată.
