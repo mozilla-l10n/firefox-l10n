@@ -539,3 +539,10 @@ refresh-profile-infobar-button = Adnewyddu { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Eisiau agor tabiau blaenorol?</strong> Gallwch adfer eich sesiwn flaenorol o ddewislen ap { -brand-short-name } <img data-l10n-name = "icon" />, o dan Hanes.
 restore-session-startup-suggestion-button = Dangos sut mae gwneud
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Agorwch eich hoff wefannau fel ap
