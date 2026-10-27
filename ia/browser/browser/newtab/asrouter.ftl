@@ -533,6 +533,10 @@ restore-session-startup-suggestion-button = Monstrar como
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
+taskbar-tabs-spotlight-title = Aperi tu sitos favorite como un application
+taskbar-tabs-spotlight-subtitle = Un clic lancea tu sitos plus usate in un fenestra simplificate con tote le protectiones de { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Seliger pro adder a tu barra del cargas
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Adder

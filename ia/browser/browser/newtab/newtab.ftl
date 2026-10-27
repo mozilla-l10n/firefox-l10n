@@ -567,6 +567,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Optiones pro horoscopos
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Pro saper plus
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Supportate per Yahoo
 
 ## Strings for the Travel widget
 
@@ -1144,6 +1147,10 @@ newtab-weather-change-location-search-input-placeholder =
 newtab-weather-search-back-button =
     .aria-label = Retro
     .title = Retro
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Suggestiones de localisation
 newtab-weather-cancel-input =
     .aria-label = Cancellar
     .title = Cancellar

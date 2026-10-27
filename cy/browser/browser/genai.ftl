@@ -74,9 +74,25 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Copïo testun wedi'i ddewis
     .tooltiptext = Copïo testun wedi'i ddewis
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Wedi'i gopïo
 genai-shortcut-more-actions-button =
     .aria-label = Rhagor o ddewisiadau
     .tooltiptext = Rhagor o ddewisiadau
+genai-more-actions-panel =
+    .aria-label = Dewiswch pa gamau i'w dangos
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Gofyn i { $provider }
+genai-more-actions-ai-generic =
+    .label = Gofyn i AI
+genai-more-actions-search =
+    .label = Chwilio
+genai-more-actions-copy =
+    .label = Copïo
+genai-more-actions-manage-settings =
+    .label = Rheoli gosodiadau
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Gofyn i { $provider }
@@ -262,6 +278,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Chwilio
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Copïo
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Gweld rhagor gydag AI?
 # Message that appears when user is shown the opt-in flow for link previews
