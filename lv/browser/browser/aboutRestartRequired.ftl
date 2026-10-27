@@ -11,5 +11,5 @@ restart-required-why-now-answer = Tas var notikt, kad tiek atjaunināts cits { -
 restart-required-more-details-heading = Vairāk informācijas
 restart-required-heading = Jāpalaiž atkārtoti, lai turpinātu izmantot { -brand-short-name }
 restart-required-intro = Fonā tika uzsākta { -brand-short-name } atjaunināšana. Būs nepieciešama atkārtota palaišana, lai pabeigtu atjaunināšanu.
-window-restoration-info = Jūsu logi un cilnes tiks ātri atjaunoti, bet ne privātie.
+window-restoration-info = Visi logi un cilnes, kas nav privātas, tiks ātri atjaunotas.
 restart-button-label = Aizvērt { -brand-short-name } un palaist no jauna
