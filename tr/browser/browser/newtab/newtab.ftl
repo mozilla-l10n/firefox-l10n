@@ -1140,6 +1140,14 @@ newtab-weather-menu-change-location = Konumu değiştir
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Konum ara
     .placeholder = Konum ara
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Geri
+    .title = Geri
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Konum önerileri
 newtab-weather-cancel-input =
     .aria-label = Vazgeç
     .title = Vazgeç
@@ -1854,6 +1862,10 @@ newtab-clock-widget-menu-edit = Saatleri düzenle
 newtab-clock-widget-menu-switch-to-12h = 12 saatlik biçime geç
 newtab-clock-widget-menu-switch-to-24h = 24 saatlik biçime geç
 newtab-clock-widget-label-your-clocks = Saatleriniz
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Geri
+    .title = Geri
 newtab-clock-widget-search-location-input2 =
     .aria-label = Şehir ara
     .placeholder = Şehir ara

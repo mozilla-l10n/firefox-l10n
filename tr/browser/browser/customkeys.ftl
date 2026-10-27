@@ -17,6 +17,7 @@ customkeys-reset-all = Tüm kısayolları varsayılana sıfırla
 customkeys-conflict-confirm = Bu tuş zaten { $conflict } kısayoluna atanmış. Değiştirmek istiyor musunuz?
 customkeys-reset-all-confirm = Tüm klavye kısayollarını varsayılanlarına sıfırlamak istediğinizden emin misiniz?
 customkeys-file-duplicate-tab = Sekmeyi çoğalt
+customkeys-file-copy-tab-url = Sekme adresini kopyala
 customkeys-file-focus-search = Arama çubuğuna odaklan
 customkeys-history-reopen-tab = Son kapatılan sekmeyi yeniden aç
 customkeys-history-reopen-window = Son kapatılan pencereyi yeniden aç

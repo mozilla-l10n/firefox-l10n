@@ -74,9 +74,20 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Seçilen metni kopyala
     .tooltiptext = Seçilen metni kopyala
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Kopyalandı
 genai-shortcut-more-actions-button =
     .aria-label = Diğer seçenekler
     .tooltiptext = Diğer seçenekler
+genai-more-actions-panel =
+    .aria-label = Gösterilecek işlemleri seçin
+genai-more-actions-search =
+    .label = Ara
+genai-more-actions-copy =
+    .label = Kopyala
+genai-more-actions-manage-settings =
+    .label = Ayarları yönet
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } sohbet botuna sor
@@ -250,6 +261,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Ara
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopyala
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Yapay zekâyla daha fazlasını görmek ister misiniz?
 # Message that appears when user is shown the opt-in flow for link previews

@@ -25,7 +25,7 @@ restore-page-try-again-button =
     .accesskey = O
 restore-page-close-button =
     .label = Yeni oturum başlat
-    .accesskey = e
+    .accesskey = Y
 
 ## The following strings are used in about:welcomeback
 
