@@ -17,6 +17,7 @@ customkeys-reset-all = 모든 단축키를 기본값으로 재설정
 customkeys-conflict-confirm = 이 키는 이미 { $conflict }에 할당되었습니다. 바꾸시겠습니까?
 customkeys-reset-all-confirm = 모든 키보드 단축키를 기본값으로 재설정하시겠습니까?
 customkeys-file-duplicate-tab = 탭 복제
+customkeys-file-copy-tab-url = 탭 URL 복사
 customkeys-file-focus-search = 검색 표시줄로 포커스 이동
 customkeys-history-reopen-tab = 닫은 탭 다시 열기
 customkeys-history-reopen-window = 닫은 창 다시 열기

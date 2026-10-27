@@ -74,9 +74,25 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = 선택한 텍스트 복사
     .tooltiptext = 선택한 텍스트 복사
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = 복사됨
 genai-shortcut-more-actions-button =
     .aria-label = 추가 옵션
     .tooltiptext = 추가 옵션
+genai-more-actions-panel =
+    .aria-label = 표시할 작업 선택
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = { $provider }에게 물어보기
+genai-more-actions-ai-generic =
+    .label = AI에게 물어보기
+genai-more-actions-search =
+    .label = 검색
+genai-more-actions-copy =
+    .label = 복사
+genai-more-actions-manage-settings =
+    .label = 설정 관리
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider }에게 물어보기
@@ -238,6 +254,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = 검색
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = 복사
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = AI로 더 보고 싶으세요?
 # Message that appears when user is shown the opt-in flow for link previews

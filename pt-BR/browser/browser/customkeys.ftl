@@ -17,6 +17,7 @@ customkeys-reset-all = Restaurar todos os atalhos para o padrão
 customkeys-conflict-confirm = Esta tecla já está atribuída a { $conflict }. Quer substituir?
 customkeys-reset-all-confirm = Tem certeza que quer restaurar todos os atalhos de teclado para o padrão?
 customkeys-file-duplicate-tab = Duplicar aba
+customkeys-file-copy-tab-url = Copiar URL da aba
 customkeys-file-focus-search = Foco na a barra de pesquisa
 customkeys-history-reopen-tab = Reabrir última aba fechada
 customkeys-history-reopen-window = Reabrir última janela fechada
