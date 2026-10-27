@@ -194,8 +194,8 @@ main-context-menu-bookmark-page-2 =
 ##
 
 main-context-menu-copy-email =
-    .label = Kopēt epasta adresi (l)
-    .accesskey = l
+    .label = Ievietot e-pasta adresi starpliktuvē
+    .accesskey = I
 main-context-menu-copy-phone =
     .label = Kopēt tālruņa numuru
     .accesskey = o

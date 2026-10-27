@@ -228,12 +228,12 @@ contextual-manager-passwords-origin-field =
 contextual-manager-passwords-origin-field-description = Jāievada tieši tā adrese, no kuras pieteiksies šajā vietnē.
 contextual-manager-passwords-username-field =
     .label = Lietotājvārds
-contextual-manager-passwords-username-field-description = Ievadiet lietotājvārdu, epasta adresi vai konta numuru, ko izmantojat, lai pierakstītos.
+contextual-manager-passwords-username-field-description = Jāievada izmantotais lietotājvārds, e-pasta adrese vai konta numurs, lai pieteiktos.
 contextual-manager-passwords-password-field =
     .label = Parole
 contextual-manager-passwords-password-field-description = Ievadiet paroli, lai pieteiktos šajā kontā.
 contextual-manager-passwords-origin-tooltip = Jāievada tieši tā adrese, no kuras pieteiksies šajā vietnē.
-contextual-manager-passwords-username-tooltip = Ievadiet lietotājvārdu, epasta adresi vai konta numuru, ko izmantojat, lai pierakstītos.
+contextual-manager-passwords-username-tooltip = Jāievada izmantotais lietotājvārds, e-pasta adrese vai konta numurs, lai pieteiktos.
 contextual-manager-passwords-password-tooltip-2 = Ievadiet paroli, lai pieteiktos šajā kontā.
 
 ## Password Card
