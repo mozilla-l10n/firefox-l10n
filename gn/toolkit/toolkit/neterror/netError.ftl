@@ -106,6 +106,14 @@ neterror-dns-not-found-offline-hint-different-device = Eñeha’ã eike ambue mb
 neterror-dns-not-found-offline-hint-modem = Ehechajey ne módem térã mbojuajuha.
 neterror-dns-not-found-offline-hint-reconnect = Esẽte ha upéi eikejey Wi-Fi rupive.
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Oku’e aja, ehechajey oiporúpa mbojuajuhaite { $port }.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
