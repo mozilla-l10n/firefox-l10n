@@ -129,6 +129,15 @@ sidebar-bookmarks-context-menu-delete-bookmark =
 sidebar-bookmarks-context-menu-delete-separator =
     .label = ลบ
 
+## Labels for sidebar open tabs context menu items
+
+
+## Labels for the open tabs panel options menu
+
+
+## Labels for the open tabs hover preview
+
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -269,3 +278,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = ลากแท็บสำคัญมาที่นี่เพื่อให้เข้าถึงแท็บเหล่านั้นได้ง่าย
+sidebar-pins-promo-text-2 =
+    .heading = ลากแท็บสำคัญมาที่นี่เพื่อให้เข้าถึงแท็บเหล่านั้นได้ง่าย
