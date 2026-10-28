@@ -87,7 +87,7 @@ item-cookies-site-data =
     .label = Kakor och webbplatsdata
     .accesskey = K
 # Description for the "Cookies and site data" item, which can be selected for deletion
-item-cookies-site-data-description2 = Loggar ut dig och får tömma kundvagnar
+item-cookies-site-data-description2 = Loggar ut dig och kan tömma varukorgar
 item-cookies-site-data-description = Kan logga ut dig från webbplatser eller tömma kundvagnar
 item-active-logins =
     .label = Aktiva inloggningar
