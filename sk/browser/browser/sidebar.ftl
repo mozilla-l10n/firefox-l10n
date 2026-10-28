@@ -329,3 +329,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Presuňte sem dôležité karty, aby ste ich mali vždy poruke
+sidebar-pins-promo-text-2 =
+    .heading = Presuňte sem dôležité karty, aby ste ich mali vždy poruke
