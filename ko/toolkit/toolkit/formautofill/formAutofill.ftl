@@ -107,6 +107,14 @@ credit-card-update-payment-method-doorhanger-header = 결제 수단을 변경하
 credit-card-capture-save-new-payment-method-button =
     .label = 새 결제 수단 저장
     .accessKey = S
+credit-card-capture-update-payment-method-button =
+    .label = 업데이트
+    .accessKey = U
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = 보안 코드를 저장하시겠습니까?
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

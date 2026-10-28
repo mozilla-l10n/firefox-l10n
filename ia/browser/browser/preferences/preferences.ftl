@@ -815,6 +815,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adresse(s) de sito web
+home-custom-homepage-list =
+    .aria-label = Adresses de sitos web
 home-custom-homepage-address =
     .placeholder = Insere adresse
 home-custom-homepage-address-button =
@@ -946,6 +948,8 @@ search-one-click-desc = Elige le motores de recerca alternative que appare infra
 search-one-click-header-3 =
     .description = Eliger que motor de recerca e visa breve apparera in tu barra de adresse
     .label = Motores de recerca additional
+search-engine-list =
+    .aria-label = Motores de recerca e vias breve
 update-search-engine-success =
     .message = Motor de recerca actualisate con successo
 search-edit-engine-2 =
@@ -1401,6 +1405,10 @@ autofill-payment-methods-manage-payments-title =
 autofill-payment-methods-manage-payments-button =
     .label = Gerer methodos de pagamento
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Requirer le accesso al apparato pro auto-compilar
+    .accesskey = p
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Requirer apertura de session sur le apparato pro completar automaticamente e gerer methodos de pagamento

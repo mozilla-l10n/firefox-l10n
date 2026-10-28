@@ -42,6 +42,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Non ora
     .accessKey = a
+credit-card-capture-never-save-payment-methods-button =
+    .label = Jammais salvar methodos de pagamento
+    .accessKey = J
 credit-card-capture-never-save-button =
     .label = Jammais salvar le cartas
     .accessKey = J
@@ -100,15 +103,41 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
+credit-card-update-payment-method-doorhanger-header = Actualisar methodo de pagamento?
+credit-card-capture-save-new-payment-method-button =
+    .label = Salvar nove methodo de pagamento
+    .accessKey = S
 credit-card-capture-update-payment-method-button =
     .label = Actualisar
     .accessKey = A
 
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Salvar codice de securitate?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } cryptara e salvara tu codice de securitate pro iste carta assi le pagamento sera plus veloce.
+
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
+credit-card-save-payment-method-doorhanger-header = Salvar iste methodo de pagamento?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } crypta e plena automaticamente tu detalios de pagamento pro un pagamento plus rapide.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } cryptara tu numero de carta e codice de securitate e los plenara pro te le proxime vice.
 credit-card-capture-dismiss-button =
     .label = Dimitter
     .accessKey = D
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Sempre salvar codices de securitate
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Non salvar codices de securitate
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
