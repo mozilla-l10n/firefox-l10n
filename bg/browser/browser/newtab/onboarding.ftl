@@ -230,6 +230,7 @@ onboarding-device-migration-primary-button-label = Вход
 ## Add-ons Picker screen
 
 amo-picker-title = Персонализирайте вашия { -brand-short-name }
+amo-picker-subtitle = Разширенията са като приложения за вашия браузър и ви дават възможност да защитавате пароли, да изтегляте видеоклипове, да намирате изгодни сделки, да блокирате досадни реклами, да променяте облика на браузъра си и много други.
 amo-picker-install-complete-label = Инсталирано
 amo-picker-collection-link = Открийте още добавки
 
