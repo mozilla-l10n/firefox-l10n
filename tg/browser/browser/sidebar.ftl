@@ -121,6 +121,15 @@ sidebar-bookmarks-context-menu-delete-bookmark =
 sidebar-bookmarks-context-menu-delete-separator =
     .label = Нест кардан
 
+## Labels for sidebar open tabs context menu items
+
+
+## Labels for the open tabs panel options menu
+
+
+## Labels for the open tabs hover preview
+
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -261,3 +270,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Варақаҳои муҳимро ба ин ҷой кашед, то ҳамеша дар дастрас бошанд
+sidebar-pins-promo-text-2 =
+    .heading = Варақаҳои муҳимро ба ин ҷой кашед, то ҳамеша дар дастрас бошанд
