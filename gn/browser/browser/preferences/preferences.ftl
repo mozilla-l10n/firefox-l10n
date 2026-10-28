@@ -1767,6 +1767,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Eiporavo mba’e ñanduti rogue omohendakuaa jepysokue
     .accesskey = E
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Emoneĩ tenda tojerure juajuha tembiporu’ípe.
+    .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Eñangareko tenda jokopyre
+    .accesskey = M
 permissions-location2 =
     .label = Tenda
 permissions-localhost2 =
@@ -1793,6 +1802,9 @@ pane-permissions-data-title2 = Ñemoneĩ ha mba’ekuaarã
     .title = Ñemoneĩ ha mba’ekuaarã
 notifications-section-header =
     .heading = Ñemomarandu
+notifications-entry-card-header =
+    .description = Eiporavo mba’e ñanduti rogue omomarandukuaa ha mba’éicha osẽ umi kyhyjerã.
+    .label = Ñemomarandu
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
