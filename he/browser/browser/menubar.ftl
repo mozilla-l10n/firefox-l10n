@@ -269,6 +269,10 @@ menu-bookmarks-other =
     .label = סימניות אחרות
 menu-bookmarks-mobile =
     .label = סימניות מהנייד
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = הצגת תוצאות נוספות בסרגל הצד
 
 ## Profiles Menu
 
