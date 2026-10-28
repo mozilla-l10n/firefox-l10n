@@ -35,6 +35,8 @@ contentanalysis-operationtype-dropped-text = Text Adjuntat
 contentanalysis-operationtype-print = imprimir
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = enviament de “{ $filename }”
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-download-description = descàrrega de “{ $filename }”
 contentanalysis-warndialogtitle = Aquest contingut pot no ser segur
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -47,9 +49,44 @@ contentanalysis-notification-title = Anàlisi de continguts
 #   $response - The response received from the content analysis agent, such as "REPORT_ONLY"
 contentanalysis-genericresponse-message = L'anàlisi de contingut ha respost amb { $response } per al recurs: { $content }
 # Variables:
+#   $content - Description of the content being blocked, such as "clipboard" or "aFile.txt"
+contentanalysis-block-message = La vostra organització utilitza programari de prevenció de pèrdua de dades que ha bloquejat aquest contingut: { $content }.
+# Variables:
 #   $agent - The name of the DLP agent doing the analysis
 #   $content - Localized text describing the content being blocked, such as "Paste denied."
 contentanalysis-unspecified-error-message-content = S'ha produït un error en comunicar-se amb { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-no-agent-connected-message-content = No s'ha pogut connectar amb { $agent }. { $content }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $content - Localized text describing the content being blocked, such as "Paste denied."
+contentanalysis-invalid-agent-signature-message-content = Ha fallat la verificació de la signatura de { $agent }. { $content }
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-error-message-upload-file = S'ha denegat l'enviament de “{ $filename }”.
+contentanalysis-error-message-dropped-text = S'ha denegat l'arrossegar i deixar.
 contentanalysis-error-message-clipboard = Enganxament denegat.
 contentanalysis-error-message-print = Impressió denegada.
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
+#   $contentName - Description of the content, such as "clipboard" or "aFile.txt"
+contentanalysis-timeout-block-error-message-content = Ha finalitzat el temps d'espera per connectar-se amb { $agent }. S'ha bloquejat { $contentName }.
+contentanalysis-block-dialog-title-upload-file = No teniu permís per enviar aquest fitxer
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-upload-file = Segons les polítiques de protecció de dades de la vostra organització, no teniu permís per enviar el fitxer "{ $filename }". Poseu-vos en contacte amb el vostre administrador per a obtenir més informació.
+contentanalysis-block-dialog-title-download-file = No teniu permís per descarregar aquest fitxer
+# Variables:
+#   $filename - Name of the file that was blocked, such as "aFile.txt"
+contentanalysis-block-dialog-body-download-file = Segons les polítiques de protecció de dades de la vostra organització, no teniu permís per descarregar el fitxer "{ $filename }". Poseu-vos en contacte amb el vostre administrador per obtenir més informació.
+contentanalysis-block-dialog-title-clipboard = No teniu permís per enganxar aquest contingut
+contentanalysis-block-dialog-body-clipboard = Segons les polítiques de protecció de dades de la vostra organització, no teniu permís per enganxar aquest contingut. Poseu-vos en contacte amb el vostre administrador per obtenir més informació.
+contentanalysis-block-dialog-title-dropped-text = No teniu permís per deixar anar aquest contingut
+contentanalysis-block-dialog-body-dropped-text = Segons les polítiques de protecció de dades de la vostra organització, no teniu permís per arrossegar i deixar anar aquest contingut. Poseu-vos en contacte amb el vostre administrador per obtenir més informació.
+contentanalysis-block-dialog-title-print = No teniu permís per imprimir aquest document
+contentanalysis-block-dialog-body-print = Segons les polítiques de protecció de dades de la vostra organització, no teniu permís per imprimir aquest document. Poseu-vos en contacte amb el vostre administrador per obtenir més informació.
+contentanalysis-inprogress-quit-title = Voleu sortir del { -brand-shorter-name }?
+contentanalysis-inprogress-quit-message = Hi ha diverses accions en curs. Si sortiu del { -brand-shorter-name }, aquestes accions no s'acabaran.
 contentanalysis-inprogress-quit-yesbutton = Sí, surt

@@ -29,3 +29,4 @@ profile-manager-use-selected =
     .label = Utilitza el perfil seleccionat sense demanar-ho a l'inici
     .accesskey = U
 profile-has-selectable-profiles-title = No es pot suprimir un perfil que està vinculat a altres perfils
+profile-has-selectable-profiles-message = Per suprimir aquest perfil, obriu-lo i seleccioneu ”Gestiona perfils” a la secció de perfils del menú del { -brand-short-name }. Després de suprimir qualsevol perfil addicional que hàgiu creat aquí, podeu tornar a about:profiles i suprimir aquest perfil.
