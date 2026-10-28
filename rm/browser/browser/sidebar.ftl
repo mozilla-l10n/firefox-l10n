@@ -109,6 +109,18 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Stizzar questas paginas da la cronologia
 
+## Labels for sidebar bookmarks context menu items
+
+
+## Labels for sidebar open tabs context menu items
+
+
+## Labels for the open tabs panel options menu
+
+
+## Labels for the open tabs hover preview
+
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -168,6 +180,9 @@ sidebar-menu-cpm-header =
 sidebar-panel-header-close-button =
     .tooltiptext = Serrar
 
+## Labels for sidebar bookmarks panel folder names.
+
+
 ## Titles for sidebar menu panels.
 
 sidebar-customize-title = Persunalisar la trav laterala
@@ -212,3 +227,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Tira nà qua ils tabs impurtants per als avair adina per mauns
+sidebar-pins-promo-text-2 =
+    .heading = Tira nà qua ils tabs impurtants per als avair adina per mauns
