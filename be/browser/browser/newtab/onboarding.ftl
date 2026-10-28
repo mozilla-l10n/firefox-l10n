@@ -568,6 +568,7 @@ onboarding-refresh-fro-import-body = Вашы асабістыя дадзены�
 onboarding-refresh-fro-skip-button = Прапусціць
 onboarding-refresh-fro-theme-header = Пабаўцеся з выглядам
 onboarding-refresh-tab-layout-header = Паспрабуйце іншы выклад картак
+onboarding-refresh-fro-tab-layout-title = Выберыце новы выклад картак
 onboarding-refresh-tab-layout-top = Наверсе
 onboarding-refresh-tab-layout-side = Збоку
 onboarding-refresh-tab-layout-minimal = Мінімалізм
