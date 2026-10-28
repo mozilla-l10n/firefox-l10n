@@ -94,7 +94,7 @@ credit-card-security-code-name-other = Segurtasun-kodea
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
-credit-card-doorhanger-card-details-security-code = { $securityCode } •••
+credit-card-doorhanger-card-details-security-code = { $securityCode }
 credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
 credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode } •••
 credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode } •••

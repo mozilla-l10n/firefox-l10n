@@ -335,6 +335,11 @@ newtab-privacy-message-first-protection-cta = Vis beskyttelser
 newtab-stocks-menu-learn-more = Les mer
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Aksjedata er ikke tilgjengelig.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Åpne finansmenyen
+    .title = Åpne finansmenyen
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -452,6 +457,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Dagens bilde · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Dagens bilde
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Dagens bilde: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -470,6 +479,13 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = Åpne dagens bilde-menyen
     .title = Åpne dagens bilde-menyen
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Sett dette bildet som bakgrunnsbilde
+    .label = Velg bakgrunnsbilde
+    .title = Velg bakgrunnsbilde
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -478,6 +494,10 @@ newtab-picture-set-wallpaper =
     .title = Angi som bakgrunnsbilde
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Behandle bakgrunnsbilde
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Skjul dette bildet
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Vis bilde
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Skjul dagens bilde
@@ -485,6 +505,10 @@ newtab-picture-menu-hide-photo = Skjul dagens bilde
 newtab-picture-menu-show-photo = Vis dagens bilde
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Les mer
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Vis bilde
+    .title = Vis bilde
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Vis dagens bilde
@@ -533,16 +557,46 @@ newtab-recent-searches-empty-trending = Populære søk er ikke tilgjengelige akk
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Horoskop
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Åpne horoskopmenyen
+    .title = Åpne horoskopmenyen
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Horoskop-innstillinger
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Les mer
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Drevet av Yahoo
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Reise
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Åpne reisemenyen
+    .title = Åpne reisemenyen
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Les mer
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Kabal
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Åpne kabalmenyen
+    .title = Åpne kabalmenyen
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Les mer
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -850,6 +904,15 @@ newtab-custom-widget-search-toggle =
     .label = Søk
 newtab-custom-widget-horoscopes-toggle =
     .label = Horoskop
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Reise
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Kabal
 newtab-custom-widget-section-title = Widgeter
 newtab-custom-widget-section-toggle =
     .label = Widgeter
@@ -1080,6 +1143,14 @@ newtab-weather-menu-change-location = Endre plassering
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Søk plassering
     .placeholder = Søk plassering
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Tilbake
+    .title = Tilbake
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Stedsforslag
 newtab-weather-cancel-input =
     .aria-label = Avbryt
     .title = Avbryt
@@ -1788,6 +1859,10 @@ newtab-clock-widget-menu-edit = Rediger klokker
 newtab-clock-widget-menu-switch-to-12h = Bytt til 12-timers format
 newtab-clock-widget-menu-switch-to-24h = Bytt til 24-timers format
 newtab-clock-widget-label-your-clocks = Dine klokker
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Tilbake
+    .title = Tilbake
 newtab-clock-widget-search-location-input2 =
     .aria-label = Søk etter en by
     .placeholder = Søk etter en by

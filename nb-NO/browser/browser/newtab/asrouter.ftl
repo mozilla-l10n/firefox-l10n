@@ -502,6 +502,10 @@ lapsed-user-toast-title = { -brand-product-name } passer fortsatt på deg
 lapsed-user-toast-subtitle = Sjekk ut nye måter du kan surfe på med flere valgmuligheter, mer personvern og kontroll.
 lapsed-user-toast-whats-new-button = Se hva som er nytt
 lapsed-user-toast-dismiss-button = Ignorer
+# Title of the second toast in the series. "New look" refers to the refreshed
+# design of the browser; "No starting over" means users don't have to set up
+# the browser again from scratch.
+lapsed-user-toast-import-title = Nytt utseende. Du trenger ikke begynne på nytt.
 
 ## Refresh Firefox infobar
 ##
@@ -519,3 +523,13 @@ refresh-profile-infobar-button = Nullstill { -brand-short-name } …
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Åpne tidligere faner?</strong> Du kan gjenopprette den forrige økten fra { -brand-short-name }-programmenyen <img data-l10n-name="icon"/>, under Historikk.
 restore-session-startup-suggestion-button = Vis meg hvordan
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Legg til
+taskbar-tabs-spotlight-done-button = Ferdig
