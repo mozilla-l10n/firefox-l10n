@@ -22,6 +22,16 @@ about-webauthn-confirm-deletion-section-title = Confirma la supressió
 
 about-webauthn-text-connect-device = Connecteu un testimoni de seguretat.
 
+## Results label
+
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [one] Error: PIN incorrecte. Torneu-ho a provar. Us queda un intent.
+       *[other] Error: PIN incorrecte. Torneu-ho a provar. Us queden { $retriesLeft } intents.
+    }
+
 ## Buttons
 
 about-webauthn-cancel-button = Cancel·la

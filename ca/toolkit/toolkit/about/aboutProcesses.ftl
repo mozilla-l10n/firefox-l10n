@@ -14,6 +14,16 @@ about-processes-shutdown-process =
     .title = Descarrega les pestanyes i finalitza el procés
 about-processes-shutdown-tab =
     .title = Tanca la pestanya
+# Profiler icons
+# Variables:
+#    $duration (Number) The time in seconds during which the profiler will be running.
+#                       The value will be an integer, typically less than 10.
+about-processes-profile-process =
+    .title =
+        { $duration ->
+            [one] Perfila tots els fils d'aquest procés durant { $duration } segon
+           *[other] Perfila tots els fils d'aquest procés durant { $duration } segons
+        }
 
 ## Column headers
 
