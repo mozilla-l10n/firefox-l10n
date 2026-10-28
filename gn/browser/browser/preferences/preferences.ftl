@@ -1805,6 +1805,24 @@ notifications-section-header =
 notifications-entry-card-header =
     .description = Eiporavo mba’e ñanduti rogue omomarandukuaa ha mba’éicha osẽ umi kyhyjerã.
     .label = Ñemomarandu
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } ñanduti rogue
+           *[other] { $count } ñanduti rogueita
+        }
+    .label = Embohape ñemboheko marandu
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Embohape ñanduti rogue momarandu moĩporã
+notifications-filter =
+    .placeholder = Eheka ñanduti rogueita
 # Heading of the website column in the list of websites and their notification
 # state, shown when the list has rows.
 notifications-list-header =
