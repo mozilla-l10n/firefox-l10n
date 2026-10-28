@@ -505,10 +505,10 @@ lapsed-user-toast-dismiss-button = Ignora
 # Title of the second toast in the series. "New look" refers to the refreshed
 # design of the browser; "No starting over" means users don't have to set up
 # the browser again from scratch.
-lapsed-user-toast-import-title = Nova imatge. Sense que calgui començar de nou.
+lapsed-user-toast-import-title = Aspecte nou. Sense començar de zero.
 # "The browser you use today" refers to another browser the user currently
 # uses instead of this one, such as Chrome or Edge.
-lapsed-user-toast-import-subtitle = Importeu adreces d'interès, contrasenyes i l'historial del navegador que esteu usant.
+lapsed-user-toast-import-subtitle = Porteu les adreces d'interès, les contrasenyes i l'historial del navegador que utilitzeu ara.
 
 ## Refresh Firefox infobar
 ##
@@ -526,3 +526,17 @@ refresh-profile-infobar-button = Restableix el { -brand-short-name }…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Voleu obrir les pestanyes anteriors?</strong> Podeu restaurar la sessió anterior des del menú de l'aplicació del { -brand-short-name } <img data-l10n-name="icon"/>, dins l'«Historial».
 restore-session-startup-suggestion-button = Mostra com fer-ho
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Obriu els vostres llocs preferits com si fossin aplicacions
+taskbar-tabs-spotlight-subtitle = Amb un clic, obriu els llocs que més utilitzeu en una finestra simplificada amb totes les proteccions del { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Seleccioneu els que voleu afegir a la barra de tasques
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Afegeix
+taskbar-tabs-spotlight-done-button = Fet

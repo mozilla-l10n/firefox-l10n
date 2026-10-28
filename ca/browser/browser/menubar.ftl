@@ -83,6 +83,11 @@ menu-file-close-tab =
            *[other] Tanca les { $tabCount } pestanyes
         }
     .accesskey = p
+# Replaces menu-file-close-tab in a window that can only ever hold one tab,
+# such as a popup, where closing the tab closes the window.
+menu-file-close =
+    .label = Tanca
+    .accesskey = C
 menu-file-close-window =
     .label = Tanca la finestra
     .accesskey = f
@@ -95,6 +100,9 @@ menu-file-email-link =
 menu-file-share-url =
     .label = Comparteix
     .accesskey = C
+menu-file-share-qrcode3 =
+    .label = Crea un codi QR
+    .accesskey = Q
 menu-file-share-qrcode =
     .label = Genera un codi QR…
     .accesskey = Q
@@ -234,6 +242,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Cerca en l'historial
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Cerca en les pestanyes
 
 ## Bookmarks Menu
 

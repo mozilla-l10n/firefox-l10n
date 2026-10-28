@@ -13,6 +13,15 @@ contentanalysis-slow-agent-dialog-header = Anàlisi en curs
 contentanalysis-slow-agent-dialog-body-file = { $agent } està revisant "{ $filename }" utilitzant les polítiques de dades de la vostra organització. Això pot tardar un moment.
 # Variables:
 #   $agent - The name of the DLP agent doing the analysis
+#   $filename - Name of a file being analyzed, such as "aFile.txt"
+#   $count (number) - The number of additional items in the request for analysis
+contentanalysis-slow-agent-dialog-body-file-and-more =
+    { $count ->
+        [one] { $agent } està revisant "{ $filename }" i { $count } ítem addicional d'acord amb la política de dades de la vostra organització. Això pot trigar una mica.
+       *[other] { $agent } està revisant "{ $filename }" i { $count } ítems addicionals d'acord amb la política de dades de la vostra organització. Això pot trigar una mica.
+    }
+# Variables:
+#   $agent - The name of the DLP agent doing the analysis
 contentanalysis-slow-agent-dialog-body-clipboard = { $agent } està revisant el que heu enganxat, amb les polítiques de dades de la vostra organització. Això pot tardar uns moments
 # Note that this is shown when the user drag and drops text into the browser.
 # Variables:
@@ -24,6 +33,8 @@ contentanalysis-slow-agent-dialog-body-print = { $agent } està revisant que heu
 contentanalysis-operationtype-clipboard = porta-retalls
 contentanalysis-operationtype-dropped-text = Text Adjuntat
 contentanalysis-operationtype-print = imprimir
+#   $filename - The filename associated with the request, such as "aFile.txt"
+contentanalysis-upload-description = enviament de “{ $filename }”
 contentanalysis-warndialogtitle = Aquest contingut pot no ser segur
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"

@@ -397,12 +397,18 @@ onboarding-checklist-remove-2 = Elimina la llista de verificació
 
 tab-groups-onboarding-feature-callout-title = Els grups de pestanyes milloren l’organització i la concentració
 tab-groups-onboarding-feature-callout-subtitle = Arrossegueu una pestanya sobre una altra per crear el vostre primer grup.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Trobeu els grups de pestanyes al menú «Cerca i gestiona les pestanyes» en qualsevol moment.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Trobareu els vostres grups de pestanyes al menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Trobeu els vostres grups cercant-los a la barra d'adreces.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Quan tanqueu un grup de pestanyes, torneu-lo a obrir des del menú «Cerca i gestiona les pestanyes» en qualsevol moment.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Quan tanqueu un grup de pestanyes, el podeu tornar a obrir des del menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Trobeu els grups tancats cercant-los a la barra d'adreces.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Reobriu els grups de pestanyes des del menú «Cerca i gestiona les pestanyes» en qualsevol moment.
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Torneu a obrir els vostres grups de pestanyes des del menú «Llista totes les pestanyes» quan vulgueu.
 tab-groups-onboarding-dismiss = D'acord
@@ -546,28 +552,28 @@ onboarding-refresh-hero-text = Dissenyat per a protegir-vos, no per a rastrejar-
 onboarding-refresh-tou-default = Obriu tots els enllaços amb el { -brand-short-name }
 onboarding-refresh-tou-pin =
     { PLATFORM() ->
-        [macos] Conserva el { -brand-short-name } al panell
+        [macos] Mantén el { -brand-short-name } al Dock
        *[other] Afegeix el { -brand-short-name } a la barra de tasques
     }
 onboarding-refresh-tou-default-unchecked = Navegueu sempre amb la protecció integrada
 onboarding-refresh-tou-pin-unchecked = Tingueu l'únic gran navegador independent a un sol clic
 onboarding-refresh-terms-of-use-with-links = En continuar, accepteu les <a data-l10n-name="terms_of_use">{ -brand-product-name } Condicions d'ús</a> i l'<a data-l10n-name="privacy_notice">Avís de privadesa</a>. Per a ajudar a millorar el navegador, el { -brand-product-name } envia dades de diagnòstic i interacció a { -vendor-short-name }.
-onboarding-refresh-data-collection-link = Gestiona els paràmetres de la recopilació de dades
+onboarding-refresh-data-collection-link = Gestiona la configuració de la recollida de dades
 onboarding-refresh-primary-button = Continua
-onboarding-refresh-fro-import-header = Porteu les vostres dades
-onboarding-refresh-fro-import-body = Les vostres dades personals romandran personals. El { -brand-product-name } mai les vendrà.
+onboarding-refresh-fro-import-header = Importeu les vostres dades
+onboarding-refresh-fro-import-body = Les vostres dades personals continuen sent personals. El { -brand-product-name } no les vendrà mai.
 onboarding-refresh-fro-skip-button = Omet
-onboarding-refresh-fro-theme-header = Jugueu amb l'aspecte
+onboarding-refresh-fro-theme-header = Personalitzeu-ne l'aspecte
 onboarding-refresh-tab-layout-header = Proveu una disposició de pestanyes diferent
 onboarding-refresh-tab-layout-top = A dalt
 onboarding-refresh-tab-layout-side = Al costat
 onboarding-refresh-tab-layout-minimal = Minimalista
 # Tooltip displayed on hover for minimal tabs image
 onboarding-minimal-tabs-tooltip =
-    .title = Una finestra del navegador que mostra les pestanyes com a petites icones pel lateral de la pantalla, en una barra lateral minimitzada.
+    .title = Una finestra del navegador que mostra les pestanyes com a icones petites al lateral de la pantalla, en una barra lateral minimitzada.
 # Description for minimal tabs image
 onboarding-minimal-tabs-description =
-    .aria-description = Una finestra del navegador que mostra pestanyes com a petites icones pel lateral de la pantalla, en una barra lateral minimitzada.
+    .aria-description = Una finestra del navegador que mostra les pestanyes com a icones petites al lateral de la pantalla, en una barra lateral minimitzada.
 
 ## Smart window switcher callout
 
@@ -606,3 +612,24 @@ smartwindow-sidebar-auto-open-callout-rejected-subtitle = Si canvieu d'opinió, 
 onboarding-theme-picker-title = Trieu un tema
 onboarding-theme-picker-subtitle = Porta una mica més de color a { -brand-short-name }.
 onboarding-theme-picker-button-label = Desa i continua
+
+## Carousel navigation
+
+# Default accessible name for the row of pills used to move between carousel
+# cards. String means `Highlights of a feature` (feature is a noun).
+onboarding-carousel-nav =
+    .aria-label = Característiques destacades
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-title = Funcions noves pensades per ajudar-vos a fer més coses
+welcome-back-onboarding-primary-button-label = Comença a navegar
+welcome-back-onboarding-secondary-button-label = Descobreix què més hi ha de nou
+# Pill label for features that allow you to tidy up your tabs
+welcome-back-onboarding-pill-label-tabs = Pestanyes endreçades
+welcome-back-onboarding-pill-label-vpn = VPN integrada
+welcome-back-onboarding-pill-label-pdf = Eines de PDF
+welcome-back-onboarding-card-label-tabs = Endreceu-ho amb pestanyes verticals i grups
+welcome-back-onboarding-card-label-vpn = Manteniu-vos ocult amb la VPN integrada
+welcome-back-onboarding-card-label-pdf = Ressalteu, signeu i treballeu amb PDF
+welcome-back-onboarding-card-tilebutton-label = Prova-ho

@@ -1140,6 +1140,10 @@ prefs-syncing-off = Sincronització: DESACTIVADA
 prefs-syncing-off-2 =
     .description = Activeu la sincronització per tenir les adreces d'interès, contrasenyes, historial i molt més en tots els dispositius.
     .label = La sincronització està DESACTIVADA
+# This string is shown when the user's device has per-device syncing enabled but sync is disabled on the device.
+prefs-syncing-off-3 =
+    .description = Activeu la sincronització per tenir les adreces d'interès, les contrasenyes, l'historial i molt més en aquest dispositiu.
+    .label = La sincronització està desactivada
 prefs-sync-turn-on-syncing =
     .label = Activa la sincronització…
     .accesskey = s
@@ -1163,6 +1167,7 @@ prefs-syncing-button-2 =
 
 sync-syncing-across-devices-heading = Actualment, sincronitzeu aquests elements en tots els vostres dispositius connectats:
 sync-syncing-across-devices-heading-2 = Dades sincronitzades entre dispositius
+sync-syncing-across-devices-heading-3 = Dades que se sincronitzen en aquest dispositiu
 sync-syncing-across-devices-empty-state2 =
     .description = Encara no esteu sincronitzant res… Comenceu a sincronitzar per accedir a totes les vostres dades en tots els vostres dispositius.
     .label = Gestiona les dades sincronitzades
@@ -1790,6 +1795,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Tria quins llocs web poden instal·lar extensions
     .accesskey = e
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Permet que els llocs demanin obrir enllaços d'aplicacions.
+    .accesskey = A
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Gestiona els llocs blocats
+    .accesskey = G
 permissions-location2 =
     .label = Ubicació
 permissions-localhost2 =
@@ -1814,6 +1828,62 @@ permissions-data-section =
     .heading = Permisos i dades
 pane-permissions-data-title2 = Permisos i dades
     .title = Permisos i dades
+notifications-section-header =
+    .heading = Notificacions
+notifications-entry-card-header =
+    .description = Trieu quins llocs web poden enviar notificacions i com es mostren aquestes alertes.
+    .label = Notificacions
+# Variables:
+#   $count (number) - Number of websites with a stored notification decision,
+#                     always one or more. The zero case is a separate message,
+#                     notifications-entry-manage-button-empty.
+notifications-entry-manage-button =
+    .description =
+        { $count ->
+            [one] { $count } lloc web
+           *[other] { $count } llocs web
+        }
+    .label = Gestiona la configuració de les notificacions
+# Replaces notifications-entry-manage-button when no website has a stored
+# notification decision. It deliberately carries no description: the empty
+# state is stated on the Notifications page rather than on this row.
+notifications-entry-manage-button-empty =
+    .label = Gestiona la configuració de notificacions dels llocs web
+notifications-website-card-header =
+    .description = Trieu com els llocs web poden enviar notificacions.
+    .label = Notificacions dels llocs web
+notifications-filter =
+    .placeholder = Cerca llocs web
+# Heading of the website column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header =
+    .label = Lloc web
+# Heading of the state column in the list of websites and their notification
+# state, shown when the list has rows.
+notifications-list-header-state = Permet notificacions
+# Heading of the list of websites when it has no rows, because no website has a
+# stored notification decision or a search matches no website.
+notifications-list-header-empty =
+    .label = Llocs web
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Always" is used where notifications can
+# also be delivered while Firefox is closed.
+notifications-state-always = Sempre
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications". "Allow" is used where notifications
+# cannot be delivered while Firefox is closed.
+notifications-state-allow = Permet
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Mai
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = No s'ha afegit cap notificació de llocs web.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = No hi ha cap notificació de llocs web que coincideixi amb la cerca.
 
 ## Privacy Section - Data Collection
 
@@ -2169,6 +2239,7 @@ preferences-ai-controls-block-confirmation-pdfjs = Text alternatiu de la imatge 
 preferences-ai-controls-block-confirmation-tab-group-suggestions = Suggeriments de grups de pestanyes
 preferences-ai-controls-block-confirmation-key-points = Punts clau a les previsualitzacions dels enllaços
 preferences-ai-controls-block-confirmation-sidebar-chatbot = Proveïdors de xat a la barra lateral
+preferences-ai-controls-block-confirmation-speech-recognition = Reconeixement de veu
 preferences-ai-controls-block-confirmation-features-after = El bloqueig també afecta les extensions que utilitzen la IA proporcionada per { -brand-short-name }.
 preferences-ai-controls-block-confirmation-cancel =
     .label = Cancel·la
@@ -2222,6 +2293,8 @@ issue-card-dismiss-button =
 preferences-etp-status-header =
     .description = Els llocs web utilitzen elements que fan el seguiment de la vostra navegació i que mostren anuncis esgarrifosos. El { -brand-short-name } us protegeix mentre navegueu, blocant els elements de seguiment automàticament perquè tingueu el control del vostre rastre digital.
     .label = Protecció contra el seguiment millorada
+preferences-etp-level-radio-group =
+    .aria-label = Protecció contra el seguiment millorada
 preferences-etp-level-standard =
     .description = Proteccions fortes i fiables que funcionen sense problemes amb la majoria de llocs web.
     .label = Estàndard (per defecte)
@@ -2278,6 +2351,10 @@ preferences-etp-custom-cookie-behavior-block-all-cross-site-cookies =
     .label = Bloqueja totes les galetes entre llocs (pot fer que els llocs web no funcionin)
 preferences-etp-custom-cookie-behavior-block-all =
     .label = Bloqueja totes les galetes (farà que els llocs web no funcionin)
+preferences-etp-custom-tracking-protection-enabled =
+    .label = Contingut que fa seguiment
+preferences-etp-custom-tracking-protection-enabled-context =
+    .aria-label = Contingut que fa seguiment
 preferences-etp-custom-crypto-mining-protection-enabled =
     .label = Miners de criptomonedes
 preferences-etp-custom-known-fingerprinting-protection-enabled =
@@ -2292,6 +2369,9 @@ preferences-etp-custom-suspect-fingerprinting-protection-enabled-context =
 security-privacy-issue-warning-fingerprinters =
     .description = Això pot permetre que alguns elements de seguiment us segueixin sense galetes.
     .label = Els generadors d'empremtes digitals coneguts no estan bloquejats
+security-privacy-issue-warning-third-party-cookies =
+    .description = Les galetes de tercers s'utilitzen per fer-vos el seguiment entre llocs web.
+    .label = Les galetes de tercers estan activades
 security-privacy-issue-warning-password-manager =
     .description = Els gestors de contrasenyes us ajuden a emmagatzemar contrasenyes segures per als vostres comptes.
     .label = El gestor de contrasenyes està desactivat

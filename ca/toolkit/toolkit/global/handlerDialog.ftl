@@ -23,6 +23,14 @@ permission-dialog-description-system-noapp = Voleu obrir l'enllaç { $scheme }?
 # Header on a permission prompt, asking the user if they should allow the website to continue.
 wallet-custom-scheme-warning-heading =
     .heading = Voleu permetre que aquest lloc obri la vostra cartera electrònica?
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host-app = Obrir un enllaç <strong>{ $scheme }</strong> permet que <strong>{ $host }</strong> sol·liciti la vostra identitat real amb <strong>{ $appName }</strong>. Continueu només si confieu en aquest lloc.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-app = Obrir un enllaç <strong>{ $scheme }</strong> permet que aquest lloc sol·liciti la vostra identitat real amb <strong>{ $appName }</strong>. Continueu només si confieu en aquest lloc.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning-host = Obrir un enllaç <strong>{ $scheme }</strong> permet que <strong>{ $host }</strong> sol·liciti la vostra identitat real del vostre moneder digital. Continueu només si confieu en aquest lloc.
+# Warning given to the user that the current page is trying to open their digital wallet app
+wallet-custom-scheme-warning = Obrir un enllaç <strong>{ $scheme }</strong> permet que aquest lloc web sol·liciti la vostra identitat real del vostre moneder digital. Continueu només si confieu en aquest lloc.
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
@@ -51,8 +59,8 @@ permission-dialog-set-change-app-link = Trieu una altra aplicació.
 ##  $scheme (string) - The type of link that's being opened.
 
 chooser-window =
-    .title = Trieu una aplicació
     .style = min-width: 26em; min-height: 26em;
+    .title = Trieu una aplicació
 chooser-dialog =
     .buttonlabelaccept = Obre l'enllaç
     .buttonaccesskeyaccept = O
@@ -76,6 +84,18 @@ choose-dialog-privatebrowsing-disabled = Desactivat en finestres privades
 ## Shown when the user clicks a mailto: link and lets them pick which configured
 ## web mail service (or the OS default app) should handle email links.
 
+mailto-handler-picker-window =
+    .style = min-width: 26em; min-height: 26em;
+    .title = Trieu l'aplicació per al correu electrònic
+mailto-handler-picker-subtitle = Trieu l'aplicació que voleu utilitzar per als enllaços de correu electrònic. Podeu canviar-ho més endavant a la configuració.
 # Checkbox letting the user keep being prompted with this picker each time they
 # click an email link, instead of remembering the chosen handler.
 mailto-handler-picker-always-ask = Demana-m'ho sempre quan faci clic a un enllaç de correu electrònic
+# Confirms the picker: sets the selected app as the handler for email links.
+mailto-handler-picker-set-default =
+    .label = Estableix com a predeterminat
+    .accesskey = s
+# Dismisses the picker without choosing an email app for now.
+mailto-handler-picker-not-now =
+    .label = Ara no
+    .accesskey = n

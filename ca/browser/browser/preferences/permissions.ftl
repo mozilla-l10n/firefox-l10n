@@ -163,6 +163,15 @@ permissions-site-xr-disable-label =
     .label = Bloca les noves sol·licituds d'accés als dispositius de realitat virtual
 permissions-site-xr-disable-desc = Això impedirà que els llocs web que no estiguin en aquesta llista us sol·licitin permís per accedir als dispositius de realitat virtual. Blocar l'accés als dispositius de realitat virtual podria fer que algunes funcions dels llocs web no funcionin correctament.
 
+## Site Permissions - App Links
+## App links are links that a website can ask to open for you, like email
+## (mailto:) links. Sites in this list are blocked from asking.
+
+permissions-site-app-links-window =
+    .style = { permissions-window2.style }
+    .title = Paràmetres - Llocs blocats per als enllaços d'aplicacions
+permissions-site-app-links-desc = Aquests llocs no poden demanar obrir enllaços d'aplicacions, com ara els de correu electrònic (mailto:). Elimineu un lloc perquè ho pugui tornar a demanar.
+
 ## Site Permissions - Camera
 
 permissions-site-camera-window2 =

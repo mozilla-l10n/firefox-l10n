@@ -15,6 +15,11 @@ autofill-use-payment-method-os-prompt-other = El { -brand-short-name } està pro
 autofill-edit-payment-method-os-prompt-macos = mostrar la informació emmagatzemada de formes de pagament
 autofill-edit-payment-method-os-prompt-windows = El { -brand-short-name } està provant de mostrar la informació emmagatzemada de formes de pagament. Confirmeu l'accés a aquest compte del Windows a continuació.
 autofill-edit-payment-method-os-prompt-other = El { -brand-short-name } està provant de mostrar la informació emmagatzemada de formes de pagament.
+# In macOS, this string is preceded by the operating system with "Firefox is trying to ",
+# and has a period added to its end. Make sure to test in your locale.
+autofill-delete-payment-method-os-prompt-macos = suprimir la informació emmagatzemada de formes de pagament
+autofill-delete-payment-method-os-prompt-windows = El { -brand-short-name } està intentant suprimir la informació emmagatzemada de formes de pagament. Confirmeu l'accés a aquest compte de Windows a continuació.
+autofill-delete-payment-method-os-prompt-other = El { -brand-short-name } està provant de suprimir la informació emmagatzemada de formes de pagament.
 # The button leads users to Form Autofill browser preferences.
 credit-card-doorhanger-options-button =
     .title = Opcions d'emplenament automàtic de formularis

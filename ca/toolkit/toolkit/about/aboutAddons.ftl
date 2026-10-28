@@ -513,3 +513,4 @@ mlmodel-speech-recognition = El { -brand-short-name } utilitza això per al reco
 addon-category-mlmodel = IA al dispositiu
 addon-category-mlmodel-title =
     .title = IA al dispositiu
+mlmodel-heading = Gestiona els models d'IA al dispositiu

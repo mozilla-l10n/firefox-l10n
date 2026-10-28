@@ -5,6 +5,8 @@
 about-pdf-title = Editor PDF del { -brand-short-name }
 about-pdf-header = PDF de { -brand-short-name }
 about-pdf-tagline = Una eina gratuïta per llegir, fusionar, signar, comentar i molt més, amb privadesa integrada.
+about-pdf-features-cta =
+    .label = Exploreu les eines per a PDF
 about-pdf-dropzone =
     .title = Arrossega fins aquí un PDF per començar, o prem «Enter».
 about-pdf-dropzone-hint = Arrossega fins aquí un PDF per començar
@@ -22,3 +24,26 @@ about-pdf-set-default =
     .label = Estableix com a predeterminat
 about-pdf-dismiss =
     .label = Ignora
+
+## The about:pdf#features page.
+
+about-pdf-features-header = Eines per a PDF del { -brand-short-name }
+about-pdf-features-intro = Llegiu, remarqueu i signeu PDFs des del propi navegador. És senzill, de franc i privat.
+about-pdf-features-back =
+    .label = Enrere
+about-pdf-feature-organize-heading = Organitza les pàgines
+about-pdf-feature-organize-description = Reordena, elimina, fusiona i exporta pàgines.
+about-pdf-feature-signatures-heading = Desa les signatures
+about-pdf-feature-signatures-description = Crea diverses signatures i afegeix-les als formularis.
+about-pdf-feature-comments-heading = Afegeix notes
+about-pdf-feature-comments-description = Deixeu comentaris i recordatoris a mida que aneu llegint
+about-pdf-feature-annotate-heading = Remarqueu PDFs
+about-pdf-feature-annotate-description = Afegiu text, subratllats i dibuixos.
+about-pdf-feature-images-heading = Pugeu imatges accessibles
+about-pdf-feature-images-description = Afegiu text alternatiu de manera que les imatges funcionin per a més persones.
+about-pdf-feature-view-heading = Trieu la visualització
+about-pdf-feature-view-description = Desplaceu-vos verticalment o horitzontal, o canvieu la disposició de les pàgines.
+about-pdf-feature-presentation-heading = Mostreu PDFs a pantalla completa
+about-pdf-feature-presentation-description = Compartiu una visualització neta en mode de presentació.
+about-pdf-feature-details-heading = Localitzeu els detalls més ràpid
+about-pdf-feature-details-description = Useu esquemes, adjuncions i propietats per moure's pels PDFs.

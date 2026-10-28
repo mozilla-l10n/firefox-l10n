@@ -49,20 +49,20 @@ menu-share-links =
 # is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
 # match the macOS translation of those names where possible.
 menu-share-mac-picker-single =
-    .label = AirDrop, missatges i més…
-    .accesskey = m
+    .label = AirDrop, Missatges i més…
+    .accesskey = M
 # macOS-only item that opens the system share picker, used when more than one
 # link is shared. AirDrop is not mentioned here because it can only share a
 # single URL. "Messages" and "Mail" are names of macOS apps, so they should
 # match the macOS translation of those names where possible.
 menu-share-mac-picker-multiple =
-    .label = Missatges, correu i més…
+    .label = Missatges, Mail i més…
     .accesskey = M
 # Share entry in the addressbar context menu. Opens the macOS share picker
 # directly, hence the ellipsis.
 urlbar-share-url =
     .label = Comparteix…
-    .accesskey = C
+    .accesskey = p
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 
@@ -128,6 +128,8 @@ urlbar-result-menu-tip-get-help2 = Obteniu ajuda
     .accesskey = j
 urlbar-result-menu-dismiss-suggestion2 = Descarta aquest suggeriment
     .accesskey = D
+urlbar-result-menu-remove-top-site = Elimina aquest lloc principal
+    .accesskey = T
 urlbar-result-menu-manage-firefox-suggest2 = Gestiona el { -firefox-suggest-brand-name }
     .accesskey = G
 # Some urlbar suggestions show the user's approximate location as automatically
@@ -250,6 +252,9 @@ urlbar-split-view-button =
 
 urlbar-menuitem-paste-and-go =
     .label = Enganxa i vés-hi
+    .accesskey = E
+urlbar-menuitem-paste-and-search =
+    .label = Enganxa i cerca
     .accesskey = E
 
 ## Searchbar context menu
@@ -984,8 +989,8 @@ urlbar-view-context-menu-open-in-private-window2 = Obre en una finestra privada 
 # navigating the address bar results stops on each result's menu button. When
 # checked, the Tab key moves straight from one result to the next, skipping the
 # menu button that opens this menu.
-urlbar-view-context-menu-skip-menu-with-tab = Ometeu aquest menú quan utilitzeu la tecla de tabulació
-    .accesskey = O
+urlbar-view-context-menu-skip-menu-with-tab = Omet aquest menú en utilitzar la tecla de tabulació
+    .accesskey = S
 
 ## Labels shown above groups of urlbar results
 
@@ -1357,8 +1362,8 @@ tabs-toolbar =
 tabs-toolbar-new-tab =
     .label = Pestanya nova
 tabs-toolbar-list-all-tabs-2 =
-    .label = Cerca i gestiona pestanyes
-    .tooltiptext = Cerca i gestiona pestanyes
+    .label = Cerca i gestiona les pestanyes
+    .tooltiptext = Cerca i gestiona les pestanyes
 tabs-toolbar-list-all-tabs =
     .label = Llista totes les pestanyes
     .tooltiptext = Llista totes les pestanyes
@@ -1384,7 +1389,8 @@ filepicker-blocked-infobar = La vostra organització ha blocat l'accés als fitx
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
 urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ara cerca a les pestanyes
-urlbar-addons-shortcut-moved-description = Per obrir extensions i temes, feu servir { $addonsShortcut }.
+urlbar-addons-shortcut-moved-description = Per obrir les extensions i els temes, utilitzeu { $addonsShortcut }.
+urlbar-addons-shortcut-moved-change-shortcuts = Gestiona les dreceres
 urlbar-addons-shortcut-moved-dismiss = Entesos
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -1411,6 +1417,10 @@ private-browsing-info-panel-description = Això ajuda a mantenir la vostra naveg
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Prevenció de pèrdua de dades (DLP) de { $agentName }. Feu clic per a més informació.
+content-analysis-panel-title2 = Prevenció de la pèrdua de dades
+# Variables:
+#   $agentName (String): The name of the DLP agent that is connected
+content-analysis-panel-text-styled2 = La vostra organització utilitza <b>{ $agentName }</b> per controlar com es poden compartir dades sensibles. <a data-l10n-name="info">Més informació</a>
 content-analysis-panel-title = Protecció de dades
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1466,6 +1476,27 @@ reset-pbm-panel-complete = S'han suprimit les dades de la sessió privada
 reset-pbm-toolbar-button2 =
     .label = Esborra la sessió privada
     .tooltiptext = Esborreu la sessió privada
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Suprimeix algunes o totes les dades de navegació
+    .tooltiptext = Suprimeix algunes o totes les dades de navegació
+fire-button-panel-heading = Voleu suprimir totes les dades de navegació?
+fire-button-panel-description = Això suprimeix l'historial, les galetes i les dades dels llocs. Es tancarà la sessió als llocs. Aquesta finestra es tancarà i el { -brand-short-name } n'obrirà una de nova.
+fire-button-panel-choose-description = Si no voleu suprimir-ho tot, trieu només algunes dades.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Tria…
+fire-button-panel-cancel-button =
+    .label = Cancel·la
+    .accesskey = C
+fire-button-panel-confirm-button =
+    .label = Suprimeix-ho tot
+    .accesskey = S
+fire-button-panel-complete = S'han suprimit les dades de navegació
 
 ## Autorefresh blocker
 

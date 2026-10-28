@@ -21,6 +21,7 @@ webext-perms-header-required-perms = Permisos necessaris:
 webext-perms-header-optional-settings = Paràmetres opcionals:
 webext-perms-header-update-required-perms = Permisos necessaris nous:
 webext-perms-header-optional-required-perms = Permisos nous:
+webext-perms-header-data-collection-perms = Recollida de dades necessàries:
 webext-perms-header-data-collection-is-none = Recollida de dades:
 # This is a header used in the add-ons "update" prompt, shown when the new
 # version requires new data collection permissions.
@@ -59,6 +60,7 @@ webext-perms-optional-perms-deny =
     .label = Denega
     .accesskey = D
 webext-perms-host-description-all-urls = Accedir a les dades de tots els llocs web
+webext-perms-host-description-file-urls = Accés als fitxers locals de l'ordinador
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Accedir a les dades web del domini { $domain }
@@ -112,6 +114,7 @@ webext-perms-optional-text-with-data-collection-only = { $extension } sol·licit
 
 webext-site-perms-header-with-gated-perms-midi = Aquest complement permet a { $hostname } accedir als vostres dispositius MIDI.
 webext-site-perms-header-with-gated-perms-midi-sysex = Aquest complement permet a { $hostname } accedir als vostres dispositius MIDI (compatibles amb SysEx).
+webext-site-perms-header-with-gated-perms-serial = Aquest complement permet a { $hostname } accedir als dispositius sèrie.
 
 ##
 
