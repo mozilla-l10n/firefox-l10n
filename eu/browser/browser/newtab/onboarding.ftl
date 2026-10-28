@@ -562,10 +562,14 @@ onboarding-refresh-terms-of-use-with-links = Jarraitzearekin bat, <a data-l10n-n
 onboarding-refresh-data-collection-link = Kudeatu datu-bilketaren ezarpenak
 onboarding-refresh-primary-button = Jarraitu
 onboarding-refresh-fro-import-header = Ekarri zure datuak
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Zurea izaten jarraitzen du. { -brand-product-name }(e)k inoiz ez du datu pertsonalik saltzen.
 onboarding-refresh-fro-import-body = Zure datu pertsonalak beti pertsonal mantentzen dira. { -brand-product-name }(e)k ez ditu inoiz salduko.
 onboarding-refresh-fro-skip-button = Saltatu
 onboarding-refresh-fro-theme-header = Jolastu itxurarekin
 onboarding-refresh-tab-layout-header = Probatu fitxen bestelako diseinu bat
+onboarding-refresh-fro-tab-layout-title = Aukeratu fitxen diseinu berri bat
 onboarding-refresh-tab-layout-top = Goian
 onboarding-refresh-tab-layout-side = Alboan
 onboarding-refresh-tab-layout-minimal = Gutxienezkoa

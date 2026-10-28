@@ -142,6 +142,12 @@ permissions-site-notification-desc = Ondorengo webguneek zuri jakinarazpenak bid
 permissions-site-notification-disable-label =
     .label = Blokeatu jakinarazpenak bidaltzeko eskaera berriak
 permissions-site-notification-disable-desc = Aukera honekin, jakinarazpenak bidaltzeko baimenak eskatzea galaraziko zaie goian zerrendatzen ez diren webguneei. Jakinarazpenak blokeatzeak webguneen zenbait eginbide hauts litzake.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Baimendu webguneen jakinarazpenak { -brand-short-name } itxita dagoenean
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Zure SEaren jakinarazpen-ezarpenek ere eragina dute.
 
 ## Site Permissions - Location
 

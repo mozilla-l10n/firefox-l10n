@@ -100,6 +100,37 @@ credit-card-doorhanger-card-details-name-security-code = { $name } | { $security
 credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode } •••
 credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode } •••
 
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-update-payment-method-doorhanger-header = Płaćensku metodu aktualizować?
+credit-card-capture-save-new-payment-method-button =
+    .label = Nowu płaćensku metodu składować
+    .accessKey = N
+credit-card-capture-update-payment-method-button =
+    .label = Aktualizować
+    .accessKey = A
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Wěstotny kod składować?
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Tutu płaćensku metodu składować?
+credit-card-capture-dismiss-button =
+    .label = Zaćisnyć
+    .accessKey = Z
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Wěstotne kody přeco składować
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Wěstotne kody njeskładować
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.

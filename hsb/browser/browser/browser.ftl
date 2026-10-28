@@ -1517,6 +1517,9 @@ fire-button-panel-confirm-button =
     .label = Wšě zhašeć
     .accesskey = W
 fire-button-panel-complete = Daty přehladowanja su so zhašeli
+fire-button-toolbar-button2 =
+    .label = Někotre abo wšě daty zhašeć
+    .tooltiptext = Někotre abo wšě wašich datow přehladowanja zhašeć
 
 ## Autorefresh blocker
 

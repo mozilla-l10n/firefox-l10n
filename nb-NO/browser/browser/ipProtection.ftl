@@ -27,6 +27,7 @@ ipprotection-feature-introduction-title = Vi introduserer VPN, nå rett i nettle
 ipprotection-feature-introduction-title-1 = Prøv den innebygde VPN-en i { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine.
 ipprotection-feature-introduction-title-privacy = Legg til et nytt lag med personvern
+ipprotection-feature-introduction-title-privacy-1 = Legg til et ekstra lag med personvern med innebygd VPN
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">{ -brand-product-name } sin innebygde VPN</a> bidrar til å beskytte surfingen din. Velg mellom flere plasseringer for å gjøre hvor du surfer mer privat.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">ekstra personvern</a> ved å velge mellom flere plasseringer for å skjule hvor du surfer.
 # Used for multiple discovery callouts after release of the site inclusions feature
@@ -36,6 +37,8 @@ ipprotection-feature-introduction-title-summer-promo = Skal du ut og reise? Ta p
 ipprotection-feature-introduction-description-summer-promo = Få mer ut av { -brand-product-name } sin innebygde VPN: flere plasseringer, ubegrenset båndbredde. Nå til og med 31. august.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Bruk vår nye <a data-l10n-name="learn-more-vpn">innebygde VPN</a> for å skjule plasseringen din og beskytte dataene dine, selv når du er i et privat vindu.
 ipprotection-feature-introduction-description-private-browsing = Surf med ekstra beskyttelse ved å skjule plasseringen din, selv når du er i et privat vindu.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Bidra til å skjule plasseringen din mens du surfer. Angi regler for å slå på VPN når du vil ha <a data-l10n-name="learn-more-vpn">ekstra personvern</a> eller stedsbasert surfing, og slå det av når du ikke trenger det.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Bidra til å skjule plasseringen din for <a data-l10n-name="learn-more-vpn">ekstra personvern</a> mens du surfer. Angi regler for å slå på VPN for ekstra personvern eller stedsbasert surfing, og slå det av der du ikke trenger det.
 ipprotection-feature-introduction-title-captive-portal = På offentlig Wi-Fi? Prøv den innebygde VPN-en i { -brand-product-name }.
@@ -113,6 +116,8 @@ ipprotection-android-promo-callout-primary-button = Jeg forstår
 # Here 'browse on' means continue browsing
 ipprotection-site-inclusions-callout-title-existing-users = Angi regler for den innebygde VPN-en, og surf videre
 ipprotection-site-inclusions-callout-title-lapsed-users = Prøv innebygd VPN, nå nettsted for nettsted
+ipprotection-site-inclusions-callout-description-1 = Slå på VPN når du vil ha ekstra personvern eller stedsbasert surfing, og av der du ikke trenger det.
+ipprotection-site-inclusions-callout-description-lapsed-users = Angi regler for å slå på VPN når du ønsker ekstra personvern eller stedsbasert surfing, og av når du ikke ønsker det.
 ipprotection-site-inclusions-callout-description = Slå det på når du vil ha ekstra personvern eller stedsbasert surfing, og av der du ikke trenger det.
 ipprotection-site-inclusions-callout-primary-button = Sett regler
 ipprotection-site-inclusions-callout-secondary-button-existing-users = Ikke nå
@@ -120,8 +125,10 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Ignorer
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-description = Gjør nettlesingen din privat og vanskeligere å spore med innebygd VPN.
 ipprotection-holiday-promo-primary-button = Åpen VPN
 ipprotection-holiday-promo-secondary-button = Ignorer
+ipprotection-holiday-promo-title-1 = Få ubegrenset VPN frem til 31. januar
 
 ## Panel
 
@@ -148,6 +155,12 @@ site-rules-status-heading = Din regel
 site-rules-description-exclusion = VPN er av for dette nettstedet
 # Used in the panel when a user navigates to a site where the VPN is on due to a site inclusion
 site-rules-description-inclusion = VPN er på for dette nettstedet
+# Message shown in the panel the first time a user turns on the VPN, offering to always turn on VPN for the current website
+# Variables
+#   $website (string) - The host of the current website (e.g. "example.com")
+site-rules-inclusion-prompt =
+    .heading = Vil du alltid slå på VPN for { $website }?
+    .message = Du kan når som helst endre reglene dine i innstillingene.
 ipprotection-settings-link =
     .label = Innstillinger
 
@@ -158,6 +171,8 @@ ipprotection-button-turn-vpn-off = Slå av VPN
 # Button to turn off the VPN when the VPN panel is open while viewing
 # a page from an excluded site.
 ipprotection-button-turn-vpn-off-excluded-site = Slå av VPN overalt
+# Button to turn on the VPN
+ipprotection-button-turn-vpn-on-1 = Slå på
 # Button to turn on the VPN
 ipprotection-button-turn-vpn-on = Slå på VPN
 # Button while VPN is connecting
@@ -170,6 +185,8 @@ ipprotection-connection-status-excluded-1 = VPN er av for dette nettstedet
     .aria-label = VPN er av for dette nettstedet
 ipprotection-connection-status-connecting-1 = VPN kobler til …
     .aria-label = VPN kobler til …
+# Button to turn off the VPN
+ipprotection-button-turn-vpn-off-1 = Slå av
 
 ## Location controls
 
@@ -237,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = Slå på VPN for å skjule pl
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Sett VPN til å slå seg på</a> hver gang du åpner { -brand-short-name } for et ekstra lag med beskyttelse.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } husker hvilke nettsteder du har satt til å bruke VPN. Oppdater disse i <a data-l10n-name="setting-link">innstillinger</a> når som helst.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN er av for dette nettstedet
+confirmation-hint-ipprotection-navigated-to-included-site = VPN er på for dette nettstedet
 ipprotection-open-button = Åpne { -brand-product-name }
 ipprotection-come-back-title = Kom tilbake for å prøve innebygd VPN
 ipprotection-message-body-hide-location = Skjul plasseringen din når du surfer med { -brand-product-name } for mer personvern og kontroll.

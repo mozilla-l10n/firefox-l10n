@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = { $midnightTime } ondoren
 clear-time-duration-value-today =
     .label = Gaur
+clear-time-duration-value-all-time =
+    .label = Betidanikoa
 clear-time-duration-value-everything =
     .label = Dena
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historia
+item-history-and-downloads2 =
+    .label = Nabigatze- eta deskarga-historia
+    .accesskey = b
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Bisitatutako guneak eta deskargen zerrenda
 item-history-and-downloads =
     .label = Nabigatze- eta deskarga-historia
     .accesskey = b
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookieak eta guneetako datuak
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Zure saioak amaitzen ditu eta erosketa-orgak hustu litzake
 item-cookies-site-data-description = Guneetako saioak amaitu edo erosketa-orgak hustu litezke
 item-active-logins =
     .label = Saio-hasiera aktiboak
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Cachea
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Behin-behineko fitxategiak ({ $amount } { $unit })
+    .accesskey = f
+item-cached-content2 =
+    .label = Behin-behineko fitxategiak
+    .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Guneak azkarrago kargatzen laguntzen du
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Gordetako inprimaki-informazioa
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Izenak, helbide elektronikoak eta inprimakietako sarrerak
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Webguneen baimenak eta hobespenak
 item-formdata-description = Garbitu izenak, helbide elektronikoak edo inprimakietan sartzen dituzun bestelako elementuak
 item-site-prefs-description = Zure baimenak eta gunearen hobespenak jatorrizko ezarpenetara berrezartzen ditu
 data-section-label = Datuak
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Lineaz kanpoko webguneen datuak
     .accesskey = L
+sanitize-everything-undo-warning2 = Hau ezin da desegin.
 sanitize-everything-undo-warning = Aldaketa hau ezin da desegin.
 window-close =
     .key = w
