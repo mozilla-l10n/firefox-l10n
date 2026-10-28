@@ -80,6 +80,8 @@ genai-shortcut-copy-confirmation = Gekopieerd
 genai-shortcut-more-actions-button =
     .aria-label = Meer opties
     .tooltiptext = Meer opties
+genai-more-actions-panel =
+    .aria-label = Kies welke acties u wilt tonen
 # $provider (string) - name of the chatbot provider
 genai-more-actions-ai-provider =
     .label = { $provider } vragen

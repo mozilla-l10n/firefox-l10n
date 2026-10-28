@@ -533,6 +533,10 @@ restore-session-startup-suggestion-button = Tonen hoe
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
+taskbar-tabs-spotlight-title = Open uw favoriete websites als een app
+taskbar-tabs-spotlight-subtitle = Met één klik start u uw meestgebruikte websites in een gestroomlijnd venster met alle beschermingen van { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Selecteer om toe te voegen aan uw taakbalk
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Toevoegen

@@ -1147,6 +1147,10 @@ newtab-weather-change-location-search-input-placeholder =
 newtab-weather-search-back-button =
     .aria-label = Terug
     .title = Terug
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Locatiesuggesties
 newtab-weather-cancel-input =
     .aria-label = Annuleren
     .title = Annuleren
