@@ -269,6 +269,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Szukaj
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopiuj
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Chcesz widzieć więcej dzięki sztucznej inteligencji?
 # Message that appears when user is shown the opt-in flow for link previews
