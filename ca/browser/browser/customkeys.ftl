@@ -17,6 +17,7 @@ customkeys-reset-all = Restaura totes les dreceres de teclat als valors predeter
 customkeys-conflict-confirm = Aquesta tecla ja està assignada a { $conflict }. Voleu substituir-la?
 customkeys-reset-all-confirm = Segur que voleu restablir totes les dreceres de teclat als valors predeterminats?
 customkeys-file-duplicate-tab = Duplica la pestanya
+customkeys-file-copy-tab-url = Copia l'URL de la pestanya
 customkeys-file-focus-search = Focus a la barra de cerca
 customkeys-history-reopen-tab = Torna a obrir la darrera pestanya tancada
 customkeys-history-reopen-window = Torna a obrir la darrera finestra tancada

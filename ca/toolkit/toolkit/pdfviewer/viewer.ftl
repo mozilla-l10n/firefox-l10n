@@ -197,6 +197,10 @@ pdfjs-thumb-page-canvas =
     .aria-label = Miniatura de la pàgina { $page }
 # Variables:
 #   $page (Number) - the page number
+pdfjs-thumb-page-checkbox1 =
+    .title = Selecciona la pàgina { $page }
+# Variables:
+#   $page (Number) - the page number
 #   $total (Number) - the number of pages
 pdfjs-thumb-page-title1 =
     .title = Pàgina { $page } de { $total }
@@ -300,12 +304,23 @@ pdfjs-highlight-floating-button1 =
     .aria-label = Ressalta
     .title = Ressalta
 pdfjs-highlight-floating-button-label = Ressalta
+pdfjs-comment-floating-button =
+    .aria-label = Comentari
+    .title = Comentari
+pdfjs-comment-floating-button-label = Comentari
+pdfjs-editor-comment-button =
+    .aria-label = Comentari
+    .title = Comentari
+pdfjs-editor-comment-button-label = Comentari
 pdfjs-editor-signature-button =
     .title = Afegeix una signatura
 pdfjs-editor-signature-button-label = Afegeix una signatura
 
 ## Default editor aria labels
 
+# “Highlight” is a noun, the string is used on the editor for highlights.
+pdfjs-editor-highlight-editor =
+    .aria-label = Editor de ressaltats
 # “Drawing” is a noun, the string is used on the editor for drawings.
 pdfjs-editor-ink-editor =
     .aria-label = Editor de dibuix
@@ -343,6 +358,8 @@ pdfjs-editor-stamp-add-image-button =
 pdfjs-editor-stamp-add-image-button-label = Afegeix una imatge
 # This refers to the thickness of the line used for free highlighting (not bound to text)
 pdfjs-editor-free-highlight-thickness-input = Gruix
+pdfjs-editor-free-highlight-thickness-title =
+    .title = Canvia el gruix en ressaltar elements que no siguin text
 pdfjs-editor-add-signature-container =
     .aria-label = Controls de signatura i signatures desades
 pdfjs-editor-signature-add-signature-button =
@@ -369,6 +386,8 @@ pdfjs-editor-comments-sidebar-close-button =
     .aria-label = Tanca la barra lateral
     .title = Tanca la barra lateral
 pdfjs-editor-comments-sidebar-close-button-label = Tanca la barra lateral
+# Instructional copy to add a comment by selecting text or an annotations.
+pdfjs-editor-comments-sidebar-no-comments1 = Veieu alguna cosa destacable? Ressalteu-la i deixeu un comentari.
 pdfjs-editor-comments-sidebar-no-comments-link = Més informació
 
 ## Alt-text dialog
@@ -391,6 +410,16 @@ pdfjs-editor-alt-text-textarea =
 # Alternative text (alt text) helps when people can't see the image.
 pdfjs-editor-alt-text-button =
     .aria-label = Text alternatiu
+
+## Editor resizers
+## This is used in an aria label to help to understand the role of the resizer.
+
+pdfjs-editor-resizer-top-left =
+    .aria-label = Cantonada superior esquerra - redimensiona
+pdfjs-editor-resizer-top-middle =
+    .aria-label = Part superior central - redimensiona
+pdfjs-editor-resizer-top-right =
+    .aria-label = Cantonada superior dreta - redimensiona
 
 ## Color picker
 
@@ -441,16 +470,49 @@ pdfjs-editor-new-alt-text-error-close-button = Tanca
 pdfjs-editor-new-alt-text-added-button =
     .aria-label = Text alternatiu afegit.
 pdfjs-editor-new-alt-text-added-button-label = Text alternatiu afegit.
+# This is a button that users can click to open the alt text editor and add alt text when it is not present.
+pdfjs-editor-new-alt-text-missing-button =
+    .aria-label = Hi manca un text alternatiu
+pdfjs-editor-new-alt-text-missing-button-label = Hi manca un text alternatiu
+# This is a button that opens up the alt text modal where users should review the alt text that was automatically generated.
+pdfjs-editor-new-alt-text-to-review-button =
+    .aria-label = Revisa el text alternatiu
+pdfjs-editor-new-alt-text-to-review-button-label = Revisa el text alternatiu
+# "Created automatically" is a prefix that will be added to the beginning of any alt text that has been automatically generated. After the colon, the user will see/hear the actual alt text description. If the alt text has been edited by a human, this prefix will not appear.
+# Variables:
+#   $generatedAltText (String) - the generated alt-text.
+pdfjs-editor-new-alt-text-generated-alt-text-with-disclaimer = S'ha creat automàticament: { $generatedAltText }
 
 ## Image alt-text settings
 
+pdfjs-image-alt-text-settings-button =
+    .title = Configuració del text alternatiu de la imatge
+pdfjs-image-alt-text-settings-button-label = Configuració del text alternatiu de la imatge
+pdfjs-editor-alt-text-settings-dialog-label = Configuració del text alternatiu de la imatge
+pdfjs-editor-alt-text-settings-automatic-title = Text alternatiu automàtic
+pdfjs-editor-alt-text-settings-create-model-button-label = Crea el text alternatiu automàticament
+pdfjs-editor-alt-text-settings-create-model-description = Suggereix descripcions per ajudar a les persones que no poden veure la imatge o quan la imatge no es carrega.
+pdfjs-editor-alt-text-settings-editor-title = Editor de text alternatiu
+pdfjs-editor-alt-text-settings-show-dialog-button-label = Mostra l'editor de text alternatiu tot just després d'afegir una imatge
+pdfjs-editor-alt-text-settings-show-dialog-description = Ajuda a assegurar que totes les imatges tinguin un text alternatiu.
 pdfjs-editor-alt-text-settings-close-button = Tanca
+
+## Accessibility labels (announced by screen readers) for objects added to the editor.
+
+pdfjs-editor-highlight-added-alert = S'ha afegit un ressaltat
+pdfjs-editor-freetext-added-alert = S'ha afegit un text
+pdfjs-editor-ink-added-alert = S'ha afegit un dibuix
+pdfjs-editor-stamp-added-alert = S'ha afegit una imatge
+pdfjs-editor-signature-added-alert = S'ha afegit una signatura
 
 ## "Annotations removed" bar
 
+pdfjs-editor-undo-bar-message-highlight = S'ha suprimit un ressaltat
+pdfjs-editor-undo-bar-message-freetext = S'ha eliminat un text
 pdfjs-editor-undo-bar-message-ink = S'ha eliminat el dibuix
 pdfjs-editor-undo-bar-message-stamp = S'ha eliminat la imatge
 pdfjs-editor-undo-bar-message-signature = S’ha eliminat la signatura
+pdfjs-editor-undo-bar-message-comment = S'ha eliminat un comentari
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -465,17 +527,51 @@ pdfjs-editor-undo-bar-close-button =
     .title = Tanca
 pdfjs-editor-undo-bar-close-button-label = Tanca
 
+## Add a signature dialog
+
+pdfjs-editor-add-signature-dialog-title = Afegeix una signatura
+
 ## Tab names
 
 # Type is a verb (you can type your name as signature)
 pdfjs-editor-add-signature-type-button = Tipus
     .title = Tipus
+# Draw is a verb (you can draw your signature)
+pdfjs-editor-add-signature-draw-button = Dibuixa
+    .title = Dibuixa
 pdfjs-editor-add-signature-image-button = Imatge
     .title = Imatge
 
+## Tab panels
+
+pdfjs-editor-add-signature-type-input =
+    .aria-label = Signeu
+    .placeholder = Signeu
+pdfjs-editor-add-signature-draw-placeholder = Dibuixeu la signatura
+pdfjs-editor-add-signature-draw-thickness-range-label = Gruix
+# Variables:
+#   $thickness (Number) - the thickness (in pixels) of the line used to draw a signature.
+pdfjs-editor-add-signature-draw-thickness-range =
+    .title = Gruix del dibuix: { $thickness }
+pdfjs-editor-add-signature-image-placeholder = Arrossegueu cap aquí un fitxer per enviar-lo
+pdfjs-editor-add-signature-image-browse-link =
+    { PLATFORM() ->
+        [macos] O trieu fitxers d'imatge
+       *[other] O trieu fitxers d'imatge
+    }
+
 ## Controls
 
+pdfjs-editor-add-signature-description-label = Descripció (text alternatiu)
+pdfjs-editor-add-signature-description-input =
+    .title = Descripció (text alternatiu)
+pdfjs-editor-add-signature-description-default-when-drawing = Signatura
 pdfjs-editor-add-signature-save-checkbox = Desa la signatura
+pdfjs-editor-add-signature-save-warning-message = Heu arribat al límit de 5 signatures desades. Elimineu-ne una per a desar-ne una altra.
+pdfjs-editor-add-signature-image-upload-error-title = No s'ha pogut penjar la imatge
+pdfjs-editor-add-signature-image-upload-error-description = Comproveu la connexió de xarxa o proveu amb una altra imatge.
+pdfjs-editor-add-signature-image-no-data-error-title = No es pot convertir aquesta imatge en una signatura
+pdfjs-editor-add-signature-image-no-data-error-description = Intenteu penjar una imatge diferent.
 pdfjs-editor-add-signature-error-close-button = Tanca
 
 ## Dialog buttons

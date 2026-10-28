@@ -45,6 +45,24 @@ menu-share-links =
             [one] { $count } enllaç
            *[other] { $count } enllaços
         }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, missatges i més…
+    .accesskey = m
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Missatges, correu i més…
+    .accesskey = M
+# Share entry in the addressbar context menu. Opens the macOS share picker
+# directly, hence the ellipsis.
+urlbar-share-url =
+    .label = Comparteix…
+    .accesskey = C
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 
@@ -431,6 +449,9 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Mostra l'editor en desar
     .accesskey = s
+bookmark-panel-save-button2 =
+    .label = Desa
+    .accesskey = a
 bookmark-panel-save-button =
     .label = Desa
 # Width of the bookmark panel.
@@ -959,6 +980,12 @@ urlbar-view-context-menu-open-in-window2 = Obre en una finestra nova
     .accesskey = n
 urlbar-view-context-menu-open-in-private-window2 = Obre en una finestra privada nova
     .accesskey = P
+# A checkable menu item that controls whether pressing the Tab key while
+# navigating the address bar results stops on each result's menu button. When
+# checked, the Tab key moves straight from one result to the next, skipping the
+# menu button that opens this menu.
+urlbar-view-context-menu-skip-menu-with-tab = Ometeu aquest menú quan utilitzeu la tecla de tabulació
+    .accesskey = O
 
 ## Labels shown above groups of urlbar results
 
@@ -1329,6 +1356,9 @@ tabs-toolbar =
     .aria-label = Pestanyes del navegador
 tabs-toolbar-new-tab =
     .label = Pestanya nova
+tabs-toolbar-list-all-tabs-2 =
+    .label = Cerca i gestiona pestanyes
+    .tooltiptext = Cerca i gestiona pestanyes
 tabs-toolbar-list-all-tabs =
     .label = Llista totes les pestanyes
     .tooltiptext = Llista totes les pestanyes
@@ -1346,6 +1376,16 @@ restore-session-startup-suggestion-button = Mostra com fer-ho
 ## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
 
 filepicker-blocked-infobar = La vostra organització ha blocat l'accés als fitxers locals d'aquest ordinador
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } ara cerca a les pestanyes
+urlbar-addons-shortcut-moved-description = Per obrir extensions i temes, feu servir { $addonsShortcut }.
+urlbar-addons-shortcut-moved-dismiss = Entesos
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 

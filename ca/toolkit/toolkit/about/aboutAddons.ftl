@@ -117,6 +117,8 @@ legacy-extensions-description = Aquestes extensions no compleixen els estàndard
 private-browsing-description2 =
     El { -brand-short-name } ha canviat el funcionament de les extensions en la navegació privada. Per defecte, les extensions noves que s'afegeixin al { -brand-short-name } no s'executaran en les finestres privades. Llevat que ho permeteu als paràmetres, l'extensió no funcionarà durant la navegació privada i no tindrà accés a les vostres activitats en línia. Hem fet aquest canvi per garantir la privadesa de la vostra navegació quan s'utilitzen les finestres privades.
     <label data-l10n-name="private-browsing-learn-more">Més informació sobre com gestionar els paràmetres de les extensions</label>
+aboutaddons-sidebar =
+    .heading = Complements
 addon-category-discover = Recomanacions
 addon-category-discover-title =
     .title = Recomanacions
@@ -162,6 +164,8 @@ extensions-warning-update-security-button = Habilita
 extensions-warning-imported-addons2 =
     .message = Finalitzeu la instal·lació de les extensions que s'han importat al { -brand-short-name }.
 extensions-warning-imported-addons-button = Instal·la les extensions
+extensions-warning-safe-mode3 =
+    .message = El mode de resolució de problemes ha desactivat tots els complements.
 
 ## Strings connected to add-on updates
 
@@ -193,6 +197,10 @@ addon-updates-manual-updates-found = Mostra les actualitzacions disponibles
 ## Add-on install/debug strings for page options menu
 
 addon-install-from-file = Instal·la un complement des d'un fitxer…
+    .accesskey = I
+# Like `addon-install-from-file` but used when the `extensions.webextensions.prefer-update-over-install-for-existing-addon`
+# pref is set.
+addon-install-or-update-from-file = Instal·la o actualitza un complement des d'un fitxer…
     .accesskey = I
 addon-install-from-file-dialog-title = Seleccioneu un complement per instal·lar
 addon-install-from-file-filter-name = Complements
@@ -249,6 +257,11 @@ discopane-notice-recommendations2 =
         Algunes d’aquestes recomanacions són personalitzades. Es basen en altres
         extensions que heu instal·lat, preferències del perfil i estadístiques d’ús.
 discopane-notice-learn-more = Més informació
+colorway-removal-notice-learn-more = Més informació
+# Notice to make user aware that themes are not applied in forced colors mode.
+# This notice is only visible on Windows.
+forced-colors-theme-notice =
+    .message = La configuració de contrast del Windows està substituint els temes del { -brand-short-name }. Desactiveu aquesta configuració per utilitzar temes amb el { -brand-short-name }.
 privacy-policy = Política de privadesa
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -376,6 +389,20 @@ addon-detail-group-label-quarantined-domains =
 # by Mozilla and we don't want forks to display "by Fork".
 addon-badge-line4 =
     .title = Extensió oficial creada per Mozilla. Compleix els estàndards de seguretat i rendiment.
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are performing the
+# security or performance reviews. As such, we avoid personalising language
+# like the words "our" or "we".
+addon-badge-verified4 =
+    .title = Aquesta extensió s'ha revisat i compleix els estàndards de seguretat i rendiment
+# This string needs to work in the context of other forks that are not Firefox
+# or built by Mozilla. In particular, we do not want to imply that an
+# organisation other than Mozilla or the Firefox team are making the
+# recommendation. As such, we hard code "Firefox" and avoid personalising
+# language like the words "our" or "we".
+addon-badge-recommended4 =
+    .title = El Firefox només recomana extensions que compleixen els estàndards de seguretat i de rendiment.
 
 ##
 
@@ -383,7 +410,15 @@ available-updates-heading = Actualitzacions disponibles
 recent-updates-heading = Actualitzacions recents
 release-notes-loading = S'està carregant…
 release-notes-error = S'ha produït un error en carregar les notes de la versió.
+addon-permissions-heading = Permisos
+addon-permissions-empty2 = Aquesta extensió no necessita cap permís.
+addon-permissions-required-label = Obligatori:
+addon-permissions-optional-label = Opcional:
 addon-permissions-learnmore = Més informació sobre els permisos
+# Shown above the permissions list when one or more permissions for this
+# extension are controlled by an enterprise policy and cannot be changed by
+# the user.
+addon-permissions-managed-by-policy = Alguns permisos són gestionats per la vostra organització.
 recommended-extensions-heading = Extensions recomanades
 recommended-themes-heading = Temes recomanats
 # Variables:
@@ -407,6 +442,9 @@ shortcuts-heading = Gestioneu les dreceres de les extensions
 default-heading-search-label = Cerca més complements
 addons-heading-search-input =
     .placeholder = Cerca a addons.mozilla.org
+addons-heading-search-button =
+    .aria-label = Cerqueu a addons.mozilla.org
+    .title = Cerqueu a addons.mozilla.org
 addon-page-options-button =
     .title = Eines per a tots els complements
 
@@ -422,6 +460,20 @@ details-notification-unsigned-and-disabled2 =
     .message = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name } i s'ha inhabilitat.
 details-notification-unsigned2 =
     .message = «{ $name }» no s'ha pogut verificar per al seu ús al { -brand-short-name }. Aneu amb compte.
+details-notification-hard-blocked-extension =
+    .message = Aquesta extensió està blocat perquè infringeix les polítiques de Mozilla i s’ha desactivat.
+details-notification-hard-blocked-other =
+    .message = Aquest complement està blocat perquè infringeix les polítiques de Mozilla i s'ha desactivat.
+details-notification-blocked-link2 = Mostra els detalls
+details-notification-soft-blocked-extension-disabled2 =
+    .message = Aquesta extensió està restringida i s’ha desactivat. Podeu activar-la, però pot ser perillós.
+details-notification-soft-blocked-extension-enabled2 =
+    .message = Aquesta extensió està restringida. El seu ús pot ser perillós.
+details-notification-soft-blocked-other-disabled2 =
+    .message = Aquest complement està restringit i s'ha desactivat. El podeu activar, però pot ser arriscat.
+details-notification-soft-blocked-other-enabled2 =
+    .message = Aquest complement està restringit. El seu ús pot ser arriscat.
+details-notification-softblocked-link2 = Mostra els detalls
 details-notification-gmp-pending2 =
     .message = «{ $name }» s'instal·larà aviat.
 
@@ -434,7 +486,30 @@ plugins-openh264-description = Mozilla instal·la automàticament aquest connect
 plugins-widevine-name = Mòdul de desxifratge de contingut Widevine proporcionat per Google Inc.
 plugins-widevine-description = Aquest complement permet la reproducció de contingut multimèdia xifrat d'acord amb l'especificació «Encrypted Media Extensions» (extensions de contingut multimèdia xifrat). Habitualment, els llocs web utilitzen contingut multimèdia xifrat per protegir-se contra la còpia de contingut prèmium. Visiteu https://www.w3.org/TR/encrypted-media/ per obtenir més informació sobre les extensions de contingut multimèdia xifrat.
 
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+# Name of the Permissions tab in `about:addons` when the data collection feature is enabled.
+permissions-data-addon-button = Permisos i dades
+# This is a description for extension that use this AI model
+# Variables:
+#   $extensionName (String) - Name of the extension
+mlmodel-extension-label = Utilitzat per l'extensió { $extensionName }
+addon-permissions-data-collection-heading = Recollida de dades
+addon-permissions-data-collection-empty = El desenvolupador diu que aquesta extensió no recopila cap dada.
+addon-data-collection-provided = Informació proporcionada pel desenvolupador de l'extensió
+addon-data-collection-learnmore = Més informació sobre la recol·lecció de dades
+
 ## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
 
+mlmodel-about-inference = El { -brand-short-name } fa servir això a about:inference
+mlmodel-link-preview = El { -brand-short-name } utilitza això per generar punts clau quan es previsualitzen els enllaços
+mlmodel-pdfjs = El { -brand-short-name } utilitza això per crear un text alternatiu per a les imatges que afegiu als PDF.
 mlmodel-smart-tab-topic-engine = El { -brand-short-name } l’utilitza per a suggerir els noms del grups de pestanyes
 mlmodel-smart-tab-embedding-engine = El { -brand-short-name } l’utilitza per a suggerir pestanyes per als grups de pestanyes
+mlmodel-formfill-engine = El { -brand-short-name } utilitza això per ajudar a omplir formularis d'adreça
+mlmodel-speech-recognition = El { -brand-short-name } utilitza això per al reconeixement de veu al dispositiu
+# AI Model will be downloaded on the users device and used locally
+addon-category-mlmodel = IA al dispositiu
+addon-category-mlmodel-title =
+    .title = IA al dispositiu

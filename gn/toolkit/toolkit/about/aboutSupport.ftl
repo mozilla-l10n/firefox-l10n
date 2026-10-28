@@ -141,6 +141,9 @@ pdfjs-enabled = Myandypyre
 # The annotation editor is the set of PDF editing tools (draw, add image, add
 # text, signature).
 pdfjs-enabled-annotation-editor = Jehaiha myandypyre
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Myanyhéha XFA myandypyre
+pdfjs-open-attachments-inline = Embojuruja marandurenda PDF oĩva ñandutípe
 library-version-title = Arandukaty peteĩchagua
 copy-text-to-clipboard-label = Moñe’ẽrã mbohasa kuatiajokohápe
 copy-raw-data-to-clipboard-label = mba’ekuaarã hi’akýva mbohasa kuatiajokohápe

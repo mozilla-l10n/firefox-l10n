@@ -544,9 +544,30 @@ onboarding-refresh-gratitude-title = El { -brand-short-name } està de part vost
 onboarding-refresh-splash-screen-title = El { -brand-product-name } us dona suport des d'ara mateix
 onboarding-refresh-hero-text = Dissenyat per a protegir-vos, no per a rastrejar-vos.
 onboarding-refresh-tou-default = Obriu tots els enllaços amb el { -brand-short-name }
+onboarding-refresh-tou-pin =
+    { PLATFORM() ->
+        [macos] Conserva el { -brand-short-name } al panell
+       *[other] Afegeix el { -brand-short-name } a la barra de tasques
+    }
 onboarding-refresh-tou-default-unchecked = Navegueu sempre amb la protecció integrada
 onboarding-refresh-tou-pin-unchecked = Tingueu l'únic gran navegador independent a un sol clic
 onboarding-refresh-terms-of-use-with-links = En continuar, accepteu les <a data-l10n-name="terms_of_use">{ -brand-product-name } Condicions d'ús</a> i l'<a data-l10n-name="privacy_notice">Avís de privadesa</a>. Per a ajudar a millorar el navegador, el { -brand-product-name } envia dades de diagnòstic i interacció a { -vendor-short-name }.
+onboarding-refresh-data-collection-link = Gestiona els paràmetres de la recopilació de dades
+onboarding-refresh-primary-button = Continua
+onboarding-refresh-fro-import-header = Porteu les vostres dades
+onboarding-refresh-fro-import-body = Les vostres dades personals romandran personals. El { -brand-product-name } mai les vendrà.
+onboarding-refresh-fro-skip-button = Omet
+onboarding-refresh-fro-theme-header = Jugueu amb l'aspecte
+onboarding-refresh-tab-layout-header = Proveu una disposició de pestanyes diferent
+onboarding-refresh-tab-layout-top = A dalt
+onboarding-refresh-tab-layout-side = Al costat
+onboarding-refresh-tab-layout-minimal = Minimalista
+# Tooltip displayed on hover for minimal tabs image
+onboarding-minimal-tabs-tooltip =
+    .title = Una finestra del navegador que mostra les pestanyes com a petites icones pel lateral de la pantalla, en una barra lateral minimitzada.
+# Description for minimal tabs image
+onboarding-minimal-tabs-description =
+    .aria-description = Una finestra del navegador que mostra pestanyes com a petites icones pel lateral de la pantalla, en una barra lateral minimitzada.
 
 ## Smart window switcher callout
 
