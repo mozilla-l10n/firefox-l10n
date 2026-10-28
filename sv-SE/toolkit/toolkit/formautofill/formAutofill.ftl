@@ -94,11 +94,11 @@ credit-card-security-code-name-other = Säkerhetskod
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
-credit-card-doorhanger-card-details-security-code = { $securityCode } •••
+credit-card-doorhanger-card-details-security-code = { $securityCode }
 credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
-credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode } •••
-credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode } •••
-credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode } •••
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
