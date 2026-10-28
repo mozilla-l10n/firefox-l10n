@@ -402,9 +402,13 @@ tab-groups-onboarding-create-group-title-4 = Du finner alltid fanegruppene dine 
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Finn fanegruppene dine når som helst i List opp alle faner-menyen.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Finn gruppene dine ved å søke etter dem i adresselinjen.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Når du lukker en fanegruppe, kan du når som helst åpne den på nytt fra menyen «Søk etter og behandle faner».
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Når du lukker en fanegruppe, kan du når som helst åpne den på nytt fra List opp alle faner-menyen.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finn dine lukkede grupper ved å søke etter dem i adressefeltet.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Du kan når som helst åpne fanegruppene dine på nytt fra menyen «Søk etter og behandle faner».
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Åpne fanegruppene dine på nytt fra List opp alle faner-menyen når som helst.
 tab-groups-onboarding-dismiss = OK
@@ -557,10 +561,14 @@ onboarding-refresh-terms-of-use-with-links = Ved å fortsette godtar du <a data-
 onboarding-refresh-data-collection-link = Behandle innstillinger for datainnsamling
 onboarding-refresh-primary-button = Fortsett
 onboarding-refresh-fro-import-header = Ta med dine data
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Dataene dine forblir dine. { -brand-product-name } selger aldri personopplysninger.
 onboarding-refresh-fro-import-body = Dine personopplysninger forblir personlige. { -brand-product-name } vil aldri selge dem.
 onboarding-refresh-fro-skip-button = Hopp over
 onboarding-refresh-fro-theme-header = Lek med din stil
 onboarding-refresh-tab-layout-header = Prøv en annet faneutforming
+onboarding-refresh-fro-tab-layout-title = Velg et nytt faneoppsett
 onboarding-refresh-tab-layout-top = På toppen
 onboarding-refresh-tab-layout-side = På siden
 onboarding-refresh-tab-layout-minimal = Minimal
@@ -615,3 +623,8 @@ onboarding-theme-picker-button-label = Lagre og fortsett
 # cards. String means `Highlights of a feature` (feature is a noun).
 onboarding-carousel-nav =
     .aria-label = Funksjonshøydepunkter
+
+## Welcome Back Onboarding
+
+welcome-back-onboarding-pill-label-pdf = PDF-verktøy
+welcome-back-onboarding-card-label-tabs = Rydd opp med vertikale faner og grupper
