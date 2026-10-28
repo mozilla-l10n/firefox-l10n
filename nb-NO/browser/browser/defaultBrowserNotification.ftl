@@ -43,3 +43,4 @@ default-browser-guidance-notification-v2-title = Fullfør å gjøre { -brand-sho
 default-browser-guidance-notification-v2-body = I Innstillinger velger du «Angi standard» for { -brand-short-name }.
 default-browser-guidance-notification-v2-title-only = Fullfør å gjøre { -brand-short-name } til standardnettleser i Innstillinger
 default-browser-guidance-notification-auto-trigger-title = Åpne lenkene dine med { -brand-short-name }
+default-browser-guidance-notification-auto-trigger-body = Velg { -brand-short-name } som standard nettleser i «Innstillinger».

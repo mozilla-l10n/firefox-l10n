@@ -11,6 +11,8 @@ confirmation-hint-password-created = Passord lagret
 confirmation-hint-password-updated = Passord oppdatert
 confirmation-hint-address-created = Adresse lagret
 confirmation-hint-address-updated = Adresse oppdatert
+confirmation-hint-payment-method-saved = Betalingsmåte lagret
+confirmation-hint-payment-method-updated = Betalingsmåte oppdatert
 confirmation-hint-credit-card-created = Kort lagret
 confirmation-hint-credit-card-updated = Kort oppdatert
 confirmation-hint-passport-created = Pass lagret
@@ -21,6 +23,7 @@ confirmation-hint-send-to-device = Sendt!
 confirmation-hint-firefox-relay-mask-created = Ny alias opprettet!
 confirmation-hint-firefox-relay-mask-reused = Eksisterende alias gjenbrukt!
 confirmation-hint-screenshot-copied = Skjermbilde kopiert!
+confirmation-hint-tab-group-saved = Fanegruppe lagret
 # Variables:
 #   $tabCount (Number): The number of duplicate tabs closed, at least 1.
 confirmation-hint-duplicate-tabs-closed =

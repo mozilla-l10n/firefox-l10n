@@ -1489,6 +1489,10 @@ fire-button-panel-cancel-button =
 fire-button-panel-confirm-button =
     .label = Slett alle
     .accesskey = S
+fire-button-panel-complete = Nettleserdata slettet
+fire-button-toolbar-button2 =
+    .label = Slett noen eller alle data
+    .tooltiptext = Slett noen eller alle nettleserdataene dine
 
 ## Autorefresh blocker
 
