@@ -547,6 +547,9 @@ onboarding-refresh-terms-of-use-with-links = בחירה בהמשך מהווה ה
 onboarding-refresh-data-collection-link = ניהול הגדרות איסוף נתונים
 onboarding-refresh-primary-button = המשך
 onboarding-refresh-fro-import-header = ייבוא הנתונים שלך
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = הנתונים נשארים שלך. { -brand-product-name } לעולם לא מוכר נתונים אישיים.
 onboarding-refresh-fro-import-body = המידע האישי שלך נשאר אישי. { -brand-product-name } לעולם לא ימכור אותו.
 onboarding-refresh-fro-skip-button = דילוג
 onboarding-refresh-fro-theme-header = התאמה אישית של המראה

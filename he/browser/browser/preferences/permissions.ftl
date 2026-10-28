@@ -141,6 +141,12 @@ permissions-site-notification-desc = האתרים הבאים ביקשו לשלו
 permissions-site-notification-disable-label =
     .label = חסימת בקשות חדשות להפעלת התרעות
 permissions-site-notification-disable-desc = הגדרה זו תמנע מאתרים שלא מופיעים להלן לבקש הרשאה לקבל גישה לשליחת התרעות. חסימת התרעות עשויה להפריע לפעולה של מגוון תכונות בחלק מהאתרים.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = לאפשר התרעות מאתרים כאשר { -brand-short-name } סגור
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = הגדרות ההתרעות של מערכת ההפעלה שלך חלות גם כן.
 
 ## Site Permissions - Location
 

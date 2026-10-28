@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = מאז { $midnightTime }
 clear-time-duration-value-today =
     .label = היום
+clear-time-duration-value-all-time =
+    .label = כל הזמנים
 clear-time-duration-value-everything =
     .label = הכול
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = היסטוריה
+item-history-and-downloads2 =
+    .label = היסטוריית גלישה והורדות
+    .accesskey = ה
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = אתרים שביקרת בהם ורשימת הורדות
 item-history-and-downloads =
     .label = היסטוריית גלישה והורדות
     .accesskey = ה
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = עוגיות ונתוני אתרים
     .accesskey = ע
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = מנתק אותך מחשבונות באתרים ועשוי לנקות עגלות קניות
 item-cookies-site-data-description = עשוי לנתק את החשבון שלך מאתרים או לרוקן את עגלת הקניות שלך
 item-active-logins =
     .label = כניסות פעילות
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = מטמון
     .accesskey = מ
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = קבצים זמניים ({ $amount } { $unit })
+    .accesskey = ק
+item-cached-content2 =
+    .label = קבצים זמניים
+    .accesskey = ק
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = מסייע לאתרים להיטען מהר יותר
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = פרטי טפסים שמורים
     .accesskey = ט
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = שמות, כתובות דוא״ל ורשומות בטפסים
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = הרשאות והעדפות אתרים
 item-formdata-description = מנקה דברים כמו שמות, כתובות דוא״ל ופריטים אחרים שמזינים בדרך כלל בטפסים
 item-site-prefs-description = מאפס את ההרשאות והעדפות האתר שלך להגדרות המקוריות
 data-section-label = נתונים
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = נתונים לא מקוונים של אתרים
     .accesskey = מ
+sanitize-everything-undo-warning2 = פעולה זו לא ניתנת לביטול.
 sanitize-everything-undo-warning = לא ניתן לבטל פעולה זו.
 window-close =
     .key = w
