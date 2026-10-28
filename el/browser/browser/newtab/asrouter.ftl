@@ -532,6 +532,10 @@ restore-session-startup-suggestion-button = Εμφάνιση οδηγιών
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
+taskbar-tabs-spotlight-title = Ανοίξτε τις αγαπημένες σας ιστοσελίδες, όπως μια εφαρμογή
+taskbar-tabs-spotlight-subtitle = Με ένα κλικ ανοίγετε τους πιο συχνούς ιστοτόπους σας σε ένα βελτιωμένο παράθυρο με όλη την προστασία του { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Επιλέξτε ιστότοπους για προσθήκη στη γραμμή εργασιών σας
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Προσθήκη

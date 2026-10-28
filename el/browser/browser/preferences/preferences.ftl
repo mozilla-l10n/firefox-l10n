@@ -1849,6 +1849,9 @@ notifications-entry-manage-button =
 # state is stated on the Notifications page rather than on this row.
 notifications-entry-manage-button-empty =
     .label = Διαχείριση ρυθμίσεων ειδοποιήσεων ιστοτόπων
+notifications-website-card-header =
+    .description = Επιλέξτε πώς οι ιστότοποι μπορούν να στέλνουν ειδοποιήσεις.
+    .label = Ειδοποιήσεις ιστοτόπων
 notifications-filter =
     .placeholder = Αναζήτηση ιστοτόπων
 # Heading of the website column in the list of websites and their notification
@@ -1874,6 +1877,13 @@ notifications-state-allow = Αποδοχή
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = Ποτέ
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Δεν έχουν προστεθεί ειδοποιήσεις ιστοτόπων.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Δεν βρέθηκαν ειδοποιήσεις ιστοτόπων που να αντιστοιχούν στην αναζήτησή σας.
 
 ## Privacy Section - Data Collection
 

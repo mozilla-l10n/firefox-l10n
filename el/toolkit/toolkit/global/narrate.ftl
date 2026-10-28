@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Εκφώνηση
+narrate-rate-input =
+    .aria-label = Επιλέξτε ταχύτητα αφήγησης από -100 έως 100, όπου 0 είναι η προεπιλεγμένη ταχύτητα.
+    .title = Ταχύτητα
 narrate-rate-slow =
     .title = Επιβράδυνση αφήγησης
 narrate-rate-fast =

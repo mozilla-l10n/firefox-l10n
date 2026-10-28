@@ -62,6 +62,7 @@ policy-DisableFirefoxStudies = Αποτροπή εκτέλεσης μελετώ�
 policy-DisableForgetButton = Αποτροπή πρόσβασης στο κουμπί «Διαγραφή».
 policy-DisableFormHistory = Να μην γίνεται διατήρηση ιστορικού αναζήτησης και φορμών.
 policy-DisableLaunchOnLogin = Αποτροπή αυτόματης εκκίνησης του { -brand-short-name } κατά τη σύνδεση του χρήστη.
+policy-DisableMacOSUserPolicies = Παράβλεψη πολιτικών από τις προτιμήσεις του χρήστη και από τα προφίλ ρυθμίσεων σε επίπεδο χρήστη στο macOS.
 policy-DisablePrimaryPasswordCreation = Αν είναι αληθές, δεν είναι δυνατή η δημιουργία κύριου κωδικού πρόσβασης.
 policy-DisablePasswordReveal2 = Να μην επιτρέπεται η αποκάλυψη κωδικών πρόσβασης σε αποθηκευμένες συνδέσεις ή πεδία κωδικού πρόσβασης.
 policy-DisablePrivateBrowsing = Απενεργοποίηση ιδιωτικής περιήγησης.

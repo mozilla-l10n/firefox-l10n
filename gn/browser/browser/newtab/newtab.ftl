@@ -491,11 +491,31 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Tenondekuaa poravorã
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Eikuaave
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Yahoo rembiporupyahu ndive
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Jehomombyry
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Eikuaave
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitario
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Embojuruja solitario poravoha
+    .title = Embojuruja solitario poravoha
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Eikuaave
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.
@@ -803,6 +823,15 @@ newtab-custom-widget-search-toggle =
     .label = Eheka
 newtab-custom-widget-horoscopes-toggle =
     .label = Tenondekuaa
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Jehomombyry
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitario
 newtab-custom-widget-section-title = Widgets
 newtab-custom-widget-section-toggle =
     .label = Widgets
@@ -1031,6 +1060,14 @@ newtab-weather-menu-change-location = Emoambue tendatee
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Eheka tendatee
     .placeholder = Eheka tendatee
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Tapykue
+    .title = Tapykue
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Tendaite je’epyre
 newtab-weather-cancel-input =
     .aria-label = Heja
     .title = Heja

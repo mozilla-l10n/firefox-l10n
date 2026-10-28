@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = Κάντε περι
 ipprotection-feature-introduction-link-text-private-browsing-2 = Χρησιμοποιήστε το νέο μας <a data-l10n-name="learn-more-vpn">ενσωματωμένο VPN</a> για να αποκρύψετε την τοποθεσία σας και να προστατέψετε τα δεδομένα σας, ακόμα και σε ιδιωτικά παράθυρα.
 ipprotection-feature-introduction-description-private-browsing = Περιηγηθείτε με επιπλέον προστασία κρύβοντας την τοποθεσία σας, ακόμα κι όταν βρίσκεστε σε ιδιωτικό παράθυρο.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = Βοηθήστε στην απόκρυψη της τοποθεσίας σας κατά την περιήγησή σας. Ορίστε κανόνες για ενεργοποίηση του VPN όταν θέλετε <a data-l10n-name="learn-more-vpn">επιπλέον διωτικότητα</a> ή περιήγηση βάσει τοποθεσίας και απενεργοποιήστε το όταν δεν θέλετε.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = Αποκρύψτε την τοποθεσία σας για <a data-l10n-name="learn-more-vpn">επιπλέον ιδιωτικότητα</a> κατά την περιήγηση. Ορίστε κανόνες για ενεργοποίηση του VPN για επιπλέον ιδιωτικότητα ή περιήγηση βάσει τοποθεσίας και απενεργοποίηση όταν δεν χρειάζεται.
 ipprotection-feature-introduction-title-captive-portal = Συνδεθήκατε σε δημόσιο Wi-Fi; Δοκιμάστε το ενσωματωμένο VPN του { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = Περιηγηθείτε με επιπλέον προστασία κρύβοντας την τοποθεσία σας, ακόμα και σε δημόσια Wi-Fi.
@@ -123,6 +125,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Απόρρ�
 
 ## Holiday Promotion Callout
 
+ipprotection-holiday-promo-description = Περιηγηθείτε με μεγαλύτερη ιδιωτικότητα και περιορίστε τη δυνατότητα καταγραφής σας με το ενσωματωμένο VPN.
 ipprotection-holiday-promo-primary-button = Άνοιγμα VPN
 ipprotection-holiday-promo-secondary-button = Απόρριψη
 ipprotection-holiday-promo-title-1 = Απεριόριστο VPN έως τις 31 Ιανουαρίου

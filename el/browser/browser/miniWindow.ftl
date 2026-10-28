@@ -5,6 +5,11 @@
 mini-window-close-button =
     .label = Κλείσιμο
     .tooltiptext = Κλείσιμο
+# Moves the tab in the mini window back to the original window
+# it came from.
+mini-window-restore-button =
+    .label = Επαναφορά καρτέλας
+    .tooltiptext = Επαναφορά καρτέλας
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
@@ -60,9 +65,11 @@ move-to-mini-window =
 ## what to move into a Mini Window.
 
 mini-window-overlay-header = Επιλέξτε το τμήμα της σελίδας που θέλετε να παραμένει ορατό
+mini-window-overlay-instructions = Σύρετε ή κάντε κλικ για να επιλέξετε την περιοχή που θα μεταφερθεί σε Μίνι παράθυρο. Θα παραμένει στην κορυφή κατά την περιήγησή σας.
 
 ## These strings label the panel that asks what the user wants to move into a
 ## Mini Window, shown alongside the Screenshots selection overlay.
 
+mini-window-panel-header = Επιλέξτε τι θέλετε να μεταφέρετε σε Μίνι παράθυρο
 mini-window-panel-move-selection = Μετακίνηση επιλογής
 mini-window-panel-move-full-tab = Μετακίνηση πλήρους καρτέλας
