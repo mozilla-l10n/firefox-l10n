@@ -756,6 +756,9 @@ restore-session-startup-suggestion-button = Jak na to
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = Otevírejte oblíbené weby jako aplikace
+taskbar-tabs-spotlight-subtitle = Jediným klepnutím otevřete své nejpoužívanější weby v přehledném okně se všemi ochrannými funkcemi prohlížeče { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Vyberte stránky, které chcete přidat na hlavní panel
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Přidat
