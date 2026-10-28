@@ -35,6 +35,14 @@ downloads-cmd-show-menuitem-2 =
            *[other] Mostra nella cartella
         }
     .accesskey = n
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = File eliminato
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Dimensione sconosciuta
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -249,10 +257,19 @@ downloads-state-starting = Avvio…
 downloads-state-failed = Non riuscito
 downloads-state-paused = In pausa
 downloads-state-canceled = Annullato
+downloads-state-completed = Completato
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Bloccato dal Controllo genitori
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Questo file contiene virus o malware.
+downloads-blocked-potentially-unwanted = Questo file potrebbe danneggiare il computer.
+downloads-blocked-potentially-insecure = File non scaricato. Potenziale rischio per la sicurezza.
+downloads-blocked-uncommon = Questo file non viene comunemente scaricato.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
@@ -266,6 +283,24 @@ downloads-state-canceled = Annullato
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Consentire questo download?
+downloads-unblock-header-open = Aprire questo file?
+downloads-unblock-type-malware = Questo file contiene virus o altro tipo di malware in grado di danneggiare il computer.
+downloads-unblock-type-potentially-unwanted = Questo file si presenta come un download utile ma potrebbe modificare i programmi installati e le impostazioni.
+downloads-unblock-type-content-analysis-warn = La tua organizzazione utilizza un software per la prevenzione della perdita di dati che ha segnalato questi contenuti come non sicuri.
+downloads-unblock-type-uncommon = Questo file non viene comunemente scaricato ed è rischioso aprirlo, in quanto potrebbe contenere virus o modificare in modo imprevisto i programmi installati e le impostazioni.
+downloads-unblock-insecure = Il download è offerto via HTTP nonostante il documento corrente sia stato trasmesso utilizzando una connessione sicura HTTPS. Se si procede, esiste il rischio che il file venga danneggiato o manomesso durante il download.
+downloads-unblock-tip = È possibile cercare una sorgente alternativa per il download o riprovare più tardi.
+downloads-unblock-content-analysis-warn-tip = Puoi scegliere di scaricarlo comunque.
+downloads-unblock-content-analysis-blocked = La tua organizzazione utilizza un software per la prevenzione della perdita di dati che ha bloccato questo download.
+downloads-unblock-content-analysis-override = Questa decisione può essere ignorata solo dalla tua organizzazione.
+downloads-unblock-content-analysis-tip = Puoi continuare il download o annullarlo.
+downloads-unblock-button-open =
+    .label = Apri
+downloads-unblock-button-unblock =
+    .label = Consenti download
+downloads-unblock-button-confirm-block =
+    .label = Elimina file
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -281,3 +316,5 @@ downloads-state-canceled = Annullato
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
