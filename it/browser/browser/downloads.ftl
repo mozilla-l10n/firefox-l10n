@@ -35,9 +35,14 @@ downloads-cmd-show-menuitem-2 =
            *[other] Mostra nella cartella
         }
     .accesskey = n
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = File spostato o mancante
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = File eliminato
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = File eliminato (bloccato)
 # Variables:
 #   $size (String) - The size number, for example "1.5".
 #   $unit (String) - The measurement unit, for example "MB".
@@ -270,12 +275,18 @@ downloads-blocked-malware = Questo file contiene virus o malware.
 downloads-blocked-potentially-unwanted = Questo file potrebbe danneggiare il computer.
 downloads-blocked-potentially-insecure = File non scaricato. Potenziale rischio per la sicurezza.
 downloads-blocked-uncommon = Questo file non viene comunemente scaricato.
+downloads-blocked-by-content-analysis = Questo file è stato bloccato dalla tua organizzazione.
+downloads-warned-by-content-analysis = Questo download potrebbe non essere sicuro e richiede una conferma.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Il file è stato bloccato in quanto { $agent } non è raggiungibile.
+downloads-content-analysis-invalid-agent-signature-error = Il file è stato bloccato in quanto { $agent } non ha superato la verifica della firma.
+downloads-content-analysis-unspecified-error = Il file è stato bloccato a causa di un errore di comunicazione con { $agent }.
+downloads-content-analysis-timeout-error = { $agent } fuori tempo massimo, il file è stato bloccato.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
