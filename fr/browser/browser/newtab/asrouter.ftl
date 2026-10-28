@@ -532,7 +532,7 @@ restore-session-startup-suggestion-button = Comment faire
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
-taskbar-tabs-spotlight-title = Ouvrez vos sites préférés comme une application
+taskbar-tabs-spotlight-title = Ouvrez vos sites préférés comme des applications
 taskbar-tabs-spotlight-subtitle = En un clic, les sites les plus utilisés sont ouverts dans une fenêtre simplifiée et dotée de toutes les protections de { -brand-short-name }.
 # Heading above the list of suggested websites.
 taskbar-tabs-spotlight-sites-heading = Sélectionner pour ajouter à la barre des tâches

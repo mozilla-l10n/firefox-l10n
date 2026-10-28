@@ -8,4 +8,5 @@
 ### be displayed inline, but the user can still open or download it according to
 ### their PDF handling settings.
 
+pdfjs-embed-fallback-message = Ko PDF ndojehechamo’ãi ko’ápe.
 pdfjs-embed-fallback-open-button = Embojuruja PDF
