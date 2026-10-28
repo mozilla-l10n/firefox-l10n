@@ -91,6 +91,12 @@ item-active-logins =
 item-cache =
     .label = Προσωρινή μνήμη
     .accesskey = ρ
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Προσωρινά αρχεία ({ $amount } { $unit })
+    .accesskey = χ
 item-cached-content2 =
     .label = Προσωρινά αρχεία
     .accesskey = χ
