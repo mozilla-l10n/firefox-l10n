@@ -25,10 +25,15 @@ inspector-element-specific-pseudo-classes-heading = Pseudoclasses específiques 
 inspector-split-orientation-button-title = Disposició de les subfinestres
 # A label for the split orientation menu item that switches the layout
 # automatically based on the panel width.
-inspector-split-orientation-auto = Automàtic
+inspector-split-orientation-auto = Automàtica
+# A label for the split orientation menu item that locks the panels side by side.
+inspector-split-orientation-side-by-side = Una al costat de l'altra
+# A label for the split orientation menu item that locks the panels on top of
+# each other.
+inspector-split-orientation-stacked = Apilades
 # A title text for the light color scheme emulation options
 inspector-color-scheme-emulation-light =
-    .title = Commuta l'emulació de l'esquema de color de la llum per a la pàgina
+    .title = Commuta l'emulació de l'esquema de color clar per a la pàgina
 # A title text for the dark color scheme emulation options
 inspector-color-scheme-emulation-dark =
     .title = Commuta l'emulació de l'esquema de color fosc per a la pàgina
@@ -40,22 +45,22 @@ inspector-emulation-panel-toggle =
 inspector-emulation-panel-color-scheme = Emulació de l'esquema de color
 # A label text for the print emulation options
 inspector-emulation-panel-print = Activa
-    .aria-label = Habilita l'emulació dels mitjans d'impressió
+    .aria-label = Activa l'emulació dels mitjans d'impressió
 # A label text for the light color scheme emulation radio button option.
 inspector-emulation-panel-color-scheme-light = Clar
-    .aria-label = Habilita l'emulació de l'esquema de color de la llum
+    .aria-label = Activa l'emulació de l'esquema de color clar
 # A label text for the dark color scheme emulation radio button option.
 inspector-emulation-panel-color-scheme-dark = Fosc
-    .aria-label = Habilita l'emulació de l'esquema de color fosc
+    .aria-label = Activa l'emulació de l'esquema de color fosc
 # A label text for the no color scheme emulation radio button option (uses user's preference).
 inspector-emulation-panel-color-scheme-none = Sense emulació
     .aria-label = Desactiva l'emulació de l'esquema de color
 # A label text for the reduced motion emulation radio button option.
 inspector-emulation-panel-reduced-motion-reduce = Redueix
-    .aria-label = Habilita l'emulació de moviment reduïda
+    .aria-label = Activa l'emulació de moviment reduït
 # A label text for the no preference for reduced motion emulation radio button option.
 inspector-emulation-panel-reduced-motion-no-preference = Sense preferència
-    .aria-label = No habiliteu cap preferència per l'emulació de moviment reduïda
+    .aria-label = No s'activa cap preferència per a l'emulació de moviment reduït
 # A label text for the no reduced motion emulation radio button option (uses user's preference).
 inspector-emulation-panel-reduced-motion-none = Sense emulació
-    .aria-label = Desactiva l'emulació de moviment reduïda
+    .aria-label = Desactiva l'emulació de moviment reduït
