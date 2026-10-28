@@ -1812,6 +1812,10 @@ notifications-state-always = Tapiaite
 # column headed "Allow notifications". "Allow" is used where notifications
 # cannot be delivered while Firefox is closed.
 notifications-state-allow = Emoneĩ
+# Read-only state shown on each row of the website notifications list, in the
+# column headed "Allow notifications", for websites blocked from sending
+# notifications.
+notifications-state-never = Araka’eve
 
 ## Privacy Section - Data Collection
 
