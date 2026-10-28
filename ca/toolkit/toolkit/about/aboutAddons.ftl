@@ -514,3 +514,13 @@ addon-category-mlmodel = IA al dispositiu
 addon-category-mlmodel-title =
     .title = IA al dispositiu
 mlmodel-heading = Gestiona els models d'IA al dispositiu
+# Label for button that when clicked removed local model
+mlmodel-remove-addon-button =
+    .aria-label = Elimina
+# Label for the aggregated value of all files for a model
+mlmodel-addon-detail-totalsize-label = Mida del fitxer
+mlmodel-addon-detail-last-used-label = Darrer ús
+# This is a section label to describe what extensions or features use a specific local AI model
+mlmodel-addon-detail-used-by-label = Utilitzat per
+# This is a section label to describe the link to the model card on the Hugging Face website
+mlmodel-addon-detail-model-card = Targeta del model

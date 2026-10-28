@@ -89,3 +89,6 @@ about-telemetry-category-header = categoria
 about-telemetry-method-header = mètode
 about-telemetry-object-header = objecte
 about-telemetry-extra-header = extra
+# Variables:
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = Procés { $process }

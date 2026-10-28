@@ -532,11 +532,11 @@ pdfjs-editor-signature-added-alert = S'ha afegit la signatura
 ## "Annotations removed" bar
 
 pdfjs-editor-undo-bar-message-highlight = S'ha eliminat el ressaltat
-pdfjs-editor-undo-bar-message-freetext = S'ha suprimit el text
+pdfjs-editor-undo-bar-message-freetext = S'ha eliminat el text
 pdfjs-editor-undo-bar-message-ink = S'ha eliminat el dibuix
 pdfjs-editor-undo-bar-message-stamp = S'ha eliminat la imatge
 pdfjs-editor-undo-bar-message-signature = S’ha eliminat la signatura
-pdfjs-editor-undo-bar-message-comment = S'ha suprimit el comentari
+pdfjs-editor-undo-bar-message-comment = S'ha eliminat el comentari
 # Variables:
 #   $count (Number) - the number of removed annotations.
 pdfjs-editor-undo-bar-message-multiple =
@@ -595,7 +595,7 @@ pdfjs-editor-add-signature-clear-button-label = Neteja la signatura
 pdfjs-editor-add-signature-clear-button =
     .title = Neteja la signatura
 pdfjs-editor-add-signature-save-checkbox = Desa la signatura
-pdfjs-editor-add-signature-save-warning-message = Heu arribat al límit de 5 signatures desades. Suprimiu-ne una per a desar-ne més.
+pdfjs-editor-add-signature-save-warning-message = Heu arribat al límit de 5 signatures desades. Elimineu-ne una per a desar-ne una altra.
 pdfjs-editor-add-signature-image-upload-error-title = No s'ha pogut pujar la imatge
 pdfjs-editor-add-signature-image-upload-error-description = Comproveu la connexió de xarxa o proveu amb una altra imatge.
 pdfjs-editor-add-signature-image-no-data-error-title = No es pot convertir aquesta imatge en una signatura
