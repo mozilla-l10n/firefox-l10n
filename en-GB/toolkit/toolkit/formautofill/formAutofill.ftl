@@ -111,6 +111,26 @@ credit-card-capture-update-payment-method-button =
     .label = Update
     .accessKey = U
 
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Save security code?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } will encrypt and save your security code for this card so checkout is faster.
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Save this payment method?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } encrypts and autofills your payment details for faster checkout.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } will encrypt your card number and security code and fill them in for you next time.
+credit-card-capture-dismiss-button =
+    .label = Dismiss
+    .accessKey = D
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
