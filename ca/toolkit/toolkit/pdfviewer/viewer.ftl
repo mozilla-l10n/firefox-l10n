@@ -741,6 +741,11 @@ pdfjs-digital-signature-properties-button-label = Propietats de la signatura dig
 ##   $count (Number) - number of signatures at the worst level.
 
 pdfjs-digital-signature-properties-banner-verified = El document s'ha signat amb una signatura digital vàlida
+pdfjs-digital-signature-properties-banner-unknown =
+    { $count ->
+        [one] Document signat, però no s'ha pogut verificar { $count } signatura digital
+       *[other] El document està signat, però no s'han pogut verificar { $count } signatures digitals
+    }
 pdfjs-digital-signature-properties-banner-untrusted =
     { $count ->
         [one] Document signat amb { $count } certificat que no és de confiança
@@ -755,6 +760,11 @@ pdfjs-digital-signature-properties-banner-invalid =
     { $count ->
         [one] El document té { $count } signatura digital no vàlida
        *[other] El document té { $count } signatures digitals no vàlides
+    }
+pdfjs-digital-signature-properties-banner-revoked =
+    { $count ->
+        [one] Document signat amb { $count } certificat revocat
+       *[other] Document signat amb { $count } certificats revocats
     }
 
 ## Per-signature status row. Only three distinct strings are needed:
