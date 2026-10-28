@@ -17,4 +17,4 @@ moz-box-item-reorder-handle-named =
 ##   $position (number) - The new position of the item in the list, starting at 1.
 ##   $total (number) - The total number of items in the list.
 
-moz-box-group-reorder-announcement = Élément déplacé à la position { $position } sur { $total }
+moz-box-group-reorder-announcement = Élément déplacé en position { $position } sur { $total }

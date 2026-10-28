@@ -111,7 +111,7 @@ neterror-dns-not-found-offline-hint-reconnect = Déconnectez-vous puis reconnect
 ## Variables:
 ##   $port (String) - The port number the connection was refused on.
 
-neterror-loopback-refused-not-running = Rien n’accepte de connexions sur le port { $port }. Vérifiez que votre serveur local est en cours d’exécution.
+neterror-loopback-refused-not-running = Aucun service n’accepte les connexions sur le port { $port }. Vérifiez que votre serveur local fonctionne.
 # "it" is the local server that the user is trying to reach.
 neterror-loopback-refused-wrong-port = S’il est en cours d’exécution, vérifiez qu’il utilise le port { $port }.
 # "this address" is the IP address of the page that failed to load, for example
