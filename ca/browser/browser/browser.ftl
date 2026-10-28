@@ -56,13 +56,13 @@ menu-share-mac-picker-single =
 # single URL. "Messages" and "Mail" are names of macOS apps, so they should
 # match the macOS translation of those names where possible.
 menu-share-mac-picker-multiple =
-    .label = Missatges, Mail i més…
+    .label = Missatges, correu i més…
     .accesskey = M
 # Share entry in the addressbar context menu. Opens the macOS share picker
 # directly, hence the ellipsis.
 urlbar-share-url =
     .label = Comparteix…
-    .accesskey = p
+    .accesskey = C
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 

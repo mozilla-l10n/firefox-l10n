@@ -42,4 +42,5 @@ about-pdf-feature-images-heading = Ehupi ta’ãnga ojehechakuaáva
 about-pdf-feature-images-description = Embojuaju moñe’ẽrã ta’ãngaita oikóva heta tapichápe g̃uarã.
 about-pdf-feature-view-heading = Eiporavo hecharã
 about-pdf-feature-view-description = Emongu’e yvýre ha yvate gotyo térã emoambue kuatiarogue moha’ãnga.
+about-pdf-feature-presentation-heading = Ehechauka PDFs mba’erechaha tuichávape
 about-pdf-feature-details-heading = Eheka  pya’e mba’emimi

@@ -76,7 +76,7 @@ genai-shortcut-copy-button =
     .tooltiptext = Copia el text seleccionat
 # Shown briefly after clicking the Copy action in the text selection menu,
 # confirming the selection was copied to the clipboard.
-genai-shortcut-copy-confirmation = Copiat
+genai-shortcut-copy-confirmation = S’ha copiat
 genai-shortcut-more-actions-button =
     .aria-label = Més opcions
     .tooltiptext = Més opcions
