@@ -240,6 +240,15 @@ tab-group-editor-action-new-tab =
     .label = Нов раздел в групата
 tab-group-editor-action-new-window =
     .label = Преместване в нов прозорец
+# Variables:
+#  $linkCount (Number): the number of shareable links in the group.
+tab-group-editor-action-copy-links =
+    .label =
+        { $linkCount ->
+            [1] Копиране на връзката от групата
+            [one] Копиране на { $linkCount } връзка от групата
+           *[other] Копиране на { $linkCount } връзки от групата
+        }
 tab-group-editor-action-save =
     .label = Запазване и затваряне на групата
 tab-group-editor-action-ungroup =
