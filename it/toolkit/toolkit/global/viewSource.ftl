@@ -28,4 +28,3 @@ view-source-context-wrap-long-lines-2 =
 view-source-context-highlight-syntax-2 =
     .label = Evidenzia sintassi
     .accesskey = E
-

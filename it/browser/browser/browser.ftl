@@ -1453,6 +1453,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Cancellare i dati e iniziare una nuova sessione anonima?
+reset-pbm-panel-description3 = Questa operazione cancella la cronologia e i cookie e ti disconnette dai siti. Le finestre anonime verranno chiuse e se ne aprirà una nuova.
 reset-pbm-panel-description2 = Questa operazione elimina la cronologia, i cookie e tutti gli altri dati dei siti senza chiudere la finestra anonima.
 reset-pbm-panel-always-ask-checkbox =
     .label = Chiedi sempre
@@ -1488,6 +1489,9 @@ fire-button-panel-confirm-button =
     .label = Elimina tutto
     .accesskey = E
 fire-button-panel-complete = Dati di navigazione eliminati
+fire-button-toolbar-button2 =
+    .label = Elimina alcuni o tutti i dati
+    .tooltiptext = Elimina in parte o del tutto i dati di navigazione
 
 ## Autorefresh blocker
 

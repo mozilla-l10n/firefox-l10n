@@ -47,4 +47,3 @@ customize-mode-toolbarseparator =
     .title = Separatore
 customize-mode-toolbarspacer =
     .title = Spazio
-

@@ -537,4 +537,3 @@ taskbar-tabs-spotlight-sites-heading = Scegli i siti da aggiungere alla barra de
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Aggiungi
 taskbar-tabs-spotlight-done-button = Fatto
-

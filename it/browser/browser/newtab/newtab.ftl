@@ -1546,6 +1546,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Apri menu per il widget Cruciverba
     .title = Apri menu per il widget Cruciverba
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Con tecnologia Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

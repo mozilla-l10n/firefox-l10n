@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = da mezzanotte ({ $midnightTime })
 clear-time-duration-value-today =
     .label = oggi
+clear-time-duration-value-all-time =
+    .label = Sempre
 clear-time-duration-value-everything =
     .label = tutto
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Cronologia
+item-history-and-downloads2 =
+    .label = Cronologia di navigazione e download
+    .accesskey = C
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Siti visitati e file scaricati
 item-history-and-downloads =
     .label = Cronologia navigazione e download
     .accesskey = z
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookie e dati dei siti web
     .accesskey = o
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Ti disconnette dai siti dai siti e potrebbe svuotare eventuali carrelli in sospeso
 item-cookies-site-data-description = Potrebbe disconnetterti dai siti o svuotare eventuali carrelli in sospeso.
 item-active-logins =
     .label = Accessi effettuati
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Cache
     .accesskey = h
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = File temporanei ({ $amount } { $unit })
+    .accesskey = F
+item-cached-content2 =
+    .label = File temporanei
+    .accesskey = F
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Velocizza il caricamento dei siti
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Informazioni salvate nei moduli
     .accesskey = u
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nomi, indirizzi email e dati inseriti nei moduli
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Autorizzazioni e preferenze dei siti web
 item-formdata-description = Elimina informazioni come nomi, indirizzi email ed altri elementi inseriti nei moduli
 item-site-prefs-description = Reimposta i permessi e le preferenze dei siti alle impostazioni originali
 data-section-label = Dati
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Dati non in linea dei siti web
     .accesskey = w
+sanitize-everything-undo-warning2 = Questa operazione non può essere annullata.
 sanitize-everything-undo-warning = Questa operazione non può essere annullata.
 window-close =
     .key = w
