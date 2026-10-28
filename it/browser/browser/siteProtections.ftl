@@ -103,3 +103,4 @@ protections-milestone =
         [one] { -brand-short-name } ha bloccato { $trackerCount } elemento tracciante da { DATETIME($date, month: "long", year: "numeric") }
        *[other] { -brand-short-name } ha bloccato più di { $trackerCount } elementi traccianti da { DATETIME($date, month: "long", year: "numeric") }
     }
+

@@ -81,3 +81,4 @@ credit-card-label-with-security-code-2 = { $label } | { $securityCode } ••�
 #     string, which additionally names the card type
 credit-card-label-with-security-code = { $label } | CVV salvato
     .aria-label = { $ariaLabel }, CVV salvato
+
