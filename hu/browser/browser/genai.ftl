@@ -74,9 +74,25 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Kijelölt szöveg másolása
     .tooltiptext = Kijelölt szöveg másolása
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Másolva
 genai-shortcut-more-actions-button =
     .aria-label = További beállítások
     .tooltiptext = További beállítások
+genai-more-actions-panel =
+    .aria-label = Válassza ki a megjelenítendő műveleteket
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = A(z) { $provider } megkérdezése
+genai-more-actions-ai-generic =
+    .label = MI megkérdezése
+genai-more-actions-search =
+    .label = Keresés
+genai-more-actions-copy =
+    .label = Másolás
+genai-more-actions-manage-settings =
+    .label = Beállítások kezelése
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = A(z) { $provider } megkérdezése
@@ -250,6 +266,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Keresés
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Másolás
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Megtekint többet az MI-vel?
 # Message that appears when user is shown the opt-in flow for link previews

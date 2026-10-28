@@ -17,6 +17,7 @@ customkeys-reset-all = Összes gyorsbillentyű visszaállítása az alapértelme
 customkeys-conflict-confirm = Ez a kulcs már hozzá van rendelve ehhez: { $conflict }. Lecseréli?
 customkeys-reset-all-confirm = Biztos, hogy visszaállítja az összes gyorsbillentyűt az alapértelmezettre?
 customkeys-file-duplicate-tab = Lap duplikálása
+customkeys-file-copy-tab-url = Lap webcímének másolása
 customkeys-file-focus-search = Fókuszálás a keresősávra
 customkeys-history-reopen-tab = Legutóbb bezárt lap újranyitása
 customkeys-history-reopen-window = Legutóbb bezárt ablak újranyitása

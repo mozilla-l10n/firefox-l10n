@@ -567,6 +567,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Horoszkópbeállítások
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = További tudnivalók
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = A Yahoo szolgáltatása
 
 ## Strings for the Travel widget
 
@@ -1140,6 +1143,14 @@ newtab-weather-menu-change-location = Hely módosítása
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Keresési hely
     .placeholder = Keresési hely
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Vissza
+    .title = Vissza
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Javasolt helyek
 newtab-weather-cancel-input =
     .aria-label = Mégse
     .title = Mégse
@@ -1854,6 +1865,10 @@ newtab-clock-widget-menu-edit = Órák szerkesztése
 newtab-clock-widget-menu-switch-to-12h = Váltás 12 órás formátumra
 newtab-clock-widget-menu-switch-to-24h = Váltás 24 órás formátumra
 newtab-clock-widget-label-your-clocks = Saját órák
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Vissza
+    .title = Vissza
 newtab-clock-widget-search-location-input2 =
     .aria-label = Város keresése
     .placeholder = Város keresése

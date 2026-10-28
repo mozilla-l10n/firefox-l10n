@@ -527,3 +527,17 @@ refresh-profile-infobar-button = { -brand-short-name } felfrissítése…
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>Megnyitná az előző lapokat?</strong> Visszaállíthatja az előző munkamenetét a { -brand-short-name } alkalmazásmenüben <img data-l10n-name="icon"/>, az Előzmények alatt.
 restore-session-startup-suggestion-button = Mutassa meg hogyan
+
+## Taskbar Tabs Spotlight
+##
+## A dialog that suggests websites to add to the Windows taskbar. Each website
+## is shown in a row with its name, web address and an “Add” button.
+
+taskbar-tabs-spotlight-title = Nyissa meg a kedvenc oldalait, mint egy alkalmazást
+taskbar-tabs-spotlight-subtitle = Egy kattintással elindítja a leggyakrabban használt webhelyeit egy áramvonalas ablakban, a { -brand-short-name } összes védelmével.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Kiválasztás és hozzáadás a tálcához
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Hozzáadás
+taskbar-tabs-spotlight-done-button = Kész

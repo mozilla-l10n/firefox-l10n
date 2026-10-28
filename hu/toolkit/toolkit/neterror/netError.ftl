@@ -106,6 +106,19 @@ neterror-dns-not-found-offline-hint-different-device = Próbáljon meg csatlakoz
 neterror-dns-not-found-offline-hint-modem = Ellenőrizze a modemet vagy a routert.
 neterror-dns-not-found-offline-hint-reconnect = Bontsa a kapcsolatot, majd kapcsolódjon újra a Wi–Fi-hez.
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Semmi sem fogad kapcsolatokat ezen a porton: { $port }. Ellenőrizze, hogy fut-e a helyi kiszolgálója.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = Ha fut, akkor ellenőrizze, hogy a(z) { $port } portot használja-e.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Ellenőrizze, hogy a kiszolgáló elfogad-e kapcsolatokat ezen a címen. Egyes kiszolgálók csak a [::1]-en vagy csak a 127.0.0.1-en figyelnek.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
