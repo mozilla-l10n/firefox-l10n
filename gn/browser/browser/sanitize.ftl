@@ -18,6 +18,13 @@ sanitize-dialog-title =
 sanitize-dialog-title-everything =
     .style = min-width: 34em
     .title = Opa tembiasakue ñemopotĩ
+# Title used whenever this dialog is opened to delete data, whichever entry
+# point it was opened from. sanitize-dialog-title2 is still used for the clear
+# on shutdown context, which saves preferences rather than deleting anything.
+# Keep the .style in sync with it.
+sanitize-dialog-delete-title =
+    .style = min-width: 34em
+    .title = Embogue ñeikundaha rapykuere
 clear-data-settings-label = Oñembotývo, { -brand-short-name } omboguepaiteva’erã ijehegui
 sanitize-on-shutdown-description = Ombogue ijehegui opaite mba’eporurã omembotykuévo { -brand-short-name }.
 

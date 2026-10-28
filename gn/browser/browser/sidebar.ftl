@@ -52,6 +52,8 @@ sidebar-history-sort-option-last-visited =
     .label = Jeike paha
 sidebar-history-sort-option-most-visited =
     .label = Ojeikevehague
+sidebar-history-import-promo-button =
+    .label = Emba’egueru { -brand-short-name }-pe
 
 ## Labels for sidebar search
 
