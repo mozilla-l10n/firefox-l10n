@@ -123,6 +123,9 @@ sidebar-bookmarks-context-menu-delete-separator =
 sidebar-opentabs-context-close-tab =
     .label = Serra s’ischeda
 
+## Labels for the open tabs panel options menu
+
+
 ## Labels for the open tabs hover preview
 
 # Heading at the top of the preview shown when hovering the Open Tabs button
@@ -266,3 +269,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Traga is ischedas de importu inoghe pro ddas tènnere a portada
+sidebar-pins-promo-text-2 =
+    .heading = Traga is ischedas de importu inoghe pro ddas tènnere a portada

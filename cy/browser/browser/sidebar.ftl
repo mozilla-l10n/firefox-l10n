@@ -329,3 +329,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Llusgwch dabiau pwysig yma i'w cadw o fewn gafael
+sidebar-pins-promo-text-2 =
+    .heading = Llusgwch dabiau pwysig yma i'w cadw o fewn gafael

@@ -329,3 +329,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Arraste para aqui os separadores importantes para tê-los sempre à mão
+sidebar-pins-promo-text-2 =
+    .heading = Arraste para aqui os separadores importantes para tê-los sempre à mão

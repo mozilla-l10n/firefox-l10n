@@ -329,3 +329,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Kéo các tab quan trọng vào đây để giữ chúng trong tầm tay
+sidebar-pins-promo-text-2 =
+    .heading = Kéo các tab quan trọng vào đây để giữ chúng trong tầm tay

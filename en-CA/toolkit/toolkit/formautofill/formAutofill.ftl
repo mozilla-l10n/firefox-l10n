@@ -45,6 +45,9 @@ credit-card-capture-cancel-button =
 credit-card-capture-never-save-button =
     .label = Never save cards
     .accessKey = N
+
+# Used on the doorhanger when an credit card change is detected.
+
 credit-card-update-doorhanger-header = Update card?
 credit-card-update-doorhanger-description = Card to update:
 credit-card-capture-save-new-button =
@@ -65,6 +68,10 @@ autofill-manage-payment-methods-label = Manage payment methods
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
 
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
@@ -72,6 +79,37 @@ autofill-card-security-code-label = CVC
 ##   $name (String): The cardholder name
 ##   $month (String): Two-digit month the card expires
 ##   $year (String): Two-digit year the card expires
+##   $securityCode (String): The name of the card's security code, from one of
+##     the credit-card-security-code-name-* strings (for example "CVV")
+## "•••" stands for the hidden security code; keep it as is rather than
+## translating it into words.
+
+credit-card-doorhanger-card-details-name = { $name }
+credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+
+## Details of the card shown on the credit card capture doorhanger, below the
+## masked card number. Each message is used for a different combination of the
+## available details.
+## Variables:
+##   $name (String): The cardholder name
+##   $month (String): Two-digit month the card expires
+##   $year (String): Two-digit year the card expires
+
 credit-card-doorhanger-details-name = { $name }
 credit-card-doorhanger-details-expiration = { $month }/{ $year }
 credit-card-doorhanger-details-cvv = CVV saved

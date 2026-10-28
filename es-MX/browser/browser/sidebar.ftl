@@ -141,6 +141,12 @@ sidebar-bookmarks-context-menu-delete-separator =
 sidebar-opentabs-context-close-tab =
     .label = Cerrar pestaña
 
+## Labels for the open tabs panel options menu
+
+
+## Labels for the open tabs hover preview
+
+
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -282,3 +288,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Arrastra las pestañas importantes aquí para tenerlas a la mano
+sidebar-pins-promo-text-2 =
+    .heading = Arrastra las pestañas importantes aquí para tenerlas a la mano
