@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Προσθήκη μηχανής αναζήτησης
     .accesskey = κ
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Ενεργοποίηση μενού ενεργειών
+    .accesskey = Ε
 main-context-menu-link-send-to-device =
     .label = Αποστολή συνδέσμου σε συσκευή
     .accesskey = μ

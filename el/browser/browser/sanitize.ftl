@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Από τις { $midnightTime }
 clear-time-duration-value-today =
     .label = Σήμερα
+clear-time-duration-value-all-time =
+    .label = Από την αρχή
 clear-time-duration-value-everything =
     .label = Όλα
 clear-time-duration-suffix =
@@ -63,6 +65,9 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Ιστορικό
+item-history-and-downloads2 =
+    .label = Ιστορικό περιήγησης και λήψεων
+    .accesskey = Ι
 item-history-and-downloads =
     .label = Ιστορικό περιήγησης και λήψεων
     .accesskey = π
@@ -86,6 +91,9 @@ item-active-logins =
 item-cache =
     .label = Προσωρινή μνήμη
     .accesskey = ρ
+item-cached-content2 =
+    .label = Προσωρινά αρχεία
+    .accesskey = χ
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
