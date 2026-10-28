@@ -138,6 +138,9 @@ pdfjs-title = PDF rechaha
 # PDF.js is the name of the project, leave it unchanged.
 pdfjs-version = PDF peteĩchagua
 pdfjs-enabled = Myandypyre
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Jehaiha myandypyre
 library-version-title = Arandukaty peteĩchagua
 copy-text-to-clipboard-label = Moñe’ẽrã mbohasa kuatiajokohápe
 copy-raw-data-to-clipboard-label = mba’ekuaarã hi’akýva mbohasa kuatiajokohápe

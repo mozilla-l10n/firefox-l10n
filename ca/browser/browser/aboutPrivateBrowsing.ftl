@@ -81,7 +81,7 @@ about-private-browsing-private-window-redesign-subheader = El { -brand-short-nam
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = No s'està registrant res
-about-private-browsing-nova-info-subheader2 = Esborrarem totes les cerques i els inicis de sessió quan tanqueu totes les vostres finestres privades. Les proteccions incloses al { -brand-short-name } també estan activades, com ara el bloqueig dels elements de seguiment.
+about-private-browsing-nova-info-subheader2 = Esborrarem totes les cerques i els inicis de sessió quan tanqueu totes les finestres privades. Les proteccions incloses al { -brand-short-name } també estan activades, com ara el bloqueig dels elements de seguiment.
 
 ## Strings for the Private Window basics spotlight
 
