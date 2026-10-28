@@ -48,9 +48,6 @@ credit-card-capture-never-save-payment-methods-button =
 credit-card-capture-never-save-button =
     .label = Non salvare mai le carte
     .accessKey = m
-
-# Used on the doorhanger when an credit card change is detected.
-
 credit-card-update-doorhanger-header = Aggiornare la carta?
 credit-card-update-doorhanger-description = Carta da aggiornare:
 credit-card-capture-save-new-button =
@@ -71,10 +68,6 @@ autofill-manage-payment-methods-label = Gestisci metodi di pagamento
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
 
-## The name of the security code printed on a payment card, as each card
-## network calls it.
-
-
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
@@ -89,21 +82,6 @@ autofill-card-security-code-label = CVC
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
-
-## Used on the doorhanger when a saved card is submitted with changed details
-## and security codes can be saved.
-
-
-## Used on the doorhanger when a saved card is submitted with a new or changed
-## security code.
-
-
-## Used on the doorhanger when users submit a new card and security codes can be saved.
-
-
-## The toggle turns saving security codes on and off. Its label describes the
-## current state: whether security codes are saved or not.
-
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
