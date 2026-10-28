@@ -329,3 +329,5 @@ sidebar-widget-hide-sidebar2 =
 # users who do not have any pinned tabs. Indicates that they can drop tabs in
 # this area to pin them.
 sidebar-pins-promo-text = Σύρετε τις σημαντικές καρτέλες εδώ για να τις έχετε κοντά σας
+sidebar-pins-promo-text-2 =
+    .heading = Σύρετε τις σημαντικές καρτέλες εδώ για να τις έχετε κοντά σας
