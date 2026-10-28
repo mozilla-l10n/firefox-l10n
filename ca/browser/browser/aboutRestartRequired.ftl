@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restart-required-title = Cal que reinicieu
-restart-required-heading2 = { -brand-short-name } necessita un reinici ràpid
+restart-required-heading2 = El { -brand-short-name } necessita un reinici ràpid
 restart-required-intro2 = El { -brand-short-name } ha d'acabar una actualització. Reinicieu per a mantenir les coses segures i suaus.
 window-restoration-info2 = Reobrirem totes les finestres i pestanyes excepte les privades.
 restart-required-why-now-question = Per què ara?
