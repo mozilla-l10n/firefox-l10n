@@ -1465,6 +1465,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = לנקות נתונים ולהתחיל הפעלה פרטית חדשה?
+reset-pbm-panel-description3 = פעולה זו מנקה את ההיסטוריה והעוגיות שלך, ומנתקת אותך מהחשבונות שלך באתרים. החלונות הפרטיים שלך ייסגרו, וייפתח חלון חדש.
 reset-pbm-panel-description2 = פעולה זו מוחקת את ההיסטוריה, העוגיות וכל שאר נתוני האתרים מבלי לסגור את החלון הפרטי שלך.
 reset-pbm-panel-always-ask-checkbox =
     .label = תמיד לשאול אותי
@@ -1500,6 +1501,9 @@ fire-button-panel-confirm-button =
     .label = מחיקת הכל
     .accesskey = מ
 fire-button-panel-complete = נתוני הגלישה נמחקו
+fire-button-toolbar-button2 =
+    .label = מחיקת חלק או כל הנתונים
+    .tooltiptext = מחיקת חלק או כל נתוני הגלישה שלך
 
 ## Autorefresh blocker
 
