@@ -14,6 +14,10 @@ smartwindow-organize-tabs-button =
 ## groups for the window's open tabs and creates the ones the user picks.
 
 smartwindow-group-tabs-panel-heading = Organiser faner
+# Shown while the on-device model clusters the open tabs into suggestions. It is
+# forming new groups from these tabs, not searching for tab groups that already
+# exist.
+smartwindow-group-tabs-loading = Ser etter faner som kan grupperast…
 # Accessible name for the flyout that lists the tabs of one suggested group.
 # Activating a tab in the list switches to it.
 # Variables:
