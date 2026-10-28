@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Gehitu bilaketa-motorra
     .accesskey = b
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Aktibatu ekintzen menua
+    .accesskey = e
 main-context-menu-link-send-to-device =
     .label = Bidali lotura gailura
     .accesskey = g

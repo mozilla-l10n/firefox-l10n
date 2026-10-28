@@ -269,6 +269,10 @@ menu-bookmarks-other =
     .label = Beste laster-markak
 menu-bookmarks-mobile =
     .label = Mugikorreko laster-markak
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Erakutsi gehiago alboko barran
 
 ## Profiles Menu
 

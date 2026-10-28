@@ -566,6 +566,7 @@ onboarding-refresh-fro-import-body = Waše wosobinske daty wosobinske wostawaja.
 onboarding-refresh-fro-skip-button = Přeskočić
 onboarding-refresh-fro-theme-header = Hrajće ze swojim napohladom
 onboarding-refresh-tab-layout-header = Wupruwujće druhe wuhotwanje rajtarkow
+onboarding-refresh-fro-tab-layout-title = Nowe wuhotowanje rajtarkow wubrać
 onboarding-refresh-tab-layout-top = Horjeka
 onboarding-refresh-tab-layout-side = Naboku
 onboarding-refresh-tab-layout-minimal = Minimalny

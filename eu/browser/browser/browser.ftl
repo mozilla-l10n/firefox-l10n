@@ -1461,6 +1461,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Garbitu datuak eta hasi saio pribatu berria?
+reset-pbm-panel-description3 = Honek zure historia eta cookieak garbitzen ditu eta guneetako zure saioak amaitzen ditu.  Zure leiho pribatuak itxi egingo dira eta berri bat irekiko da.
 reset-pbm-panel-description2 = Honek historia, cookieak eta gunearen bestelako datuak ezabatzen ditu zure leiho pribatua itxi gabe.
 reset-pbm-panel-always-ask-checkbox =
     .label = Galdetu beti
@@ -1496,6 +1497,9 @@ fire-button-panel-confirm-button =
     .label = Ezabatu denak
     .accesskey = E
 fire-button-panel-complete = Nabigatze-datuak ezabatuta
+fire-button-toolbar-button2 =
+    .label = Ezabatu datu batzuk edo guztiak
+    .tooltiptext = Ezabatu zure nabigatze-datu batzuk edo guztiak
 
 ## Autorefresh blocker
 

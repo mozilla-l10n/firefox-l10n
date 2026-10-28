@@ -13,6 +13,7 @@ genai-settings-chat-huggingchat-links = Ved å velge HuggingChat godtar du <a da
 genai-settings-chat-lechat-links-2 = Ved å velge Mistral Vibe godtar du Mistral AIs <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernpraksis</a>.
 genai-settings-chat-lechat-links = Ved å velge Le Chat Mistral godtar du Mistral AIs <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernpraksis</a>.
 genai-settings-chat-localhost-links = Ta med din egen private lokale chatbot som <a data-l10n-name="link1">llamafile</a> fra { -vendor-short-name }s innovasjonsgruppe.
+genai-settings-chat-scout-links = Ved å velge Yahoo Scout godtar du Yahoos <a data-l10n-name="link1">bruksvilkår</a> og <a data-l10n-name="link2">personvernpraksis</a>.
 
 ## Chatbot prompts
 ## Prompts are plain language ‘instructions’ sent to a chatbot.
@@ -24,6 +25,9 @@ genai-settings-chat-localhost-links = Ta med din egen private lokale chatbot som
 genai-prompts-summarize =
     .label = Oppsummer
     .value = Oppsummer utvalget med et presist og konsist språk. Bruk overskrifter og punktlister i sammendraget for å gjøre det lett å skanne. Oppretthold betydningen og faktanøyaktigheten.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Oppsummer nettsiden på { $url } med et presist og konsist språk. Bruk overskrifter og punktlister i oppsummeringen for å gjøre den lett å skumlese. Bevar meningsinnholdet og sørg for at opplysningene er korrekte.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Forenkle språket
@@ -70,9 +74,28 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Kopier valgt tekst
     .tooltiptext = Kopier valgt tekst
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Kopiert
 genai-shortcut-more-actions-button =
     .aria-label = Flere innstillinger
     .tooltiptext = Flere innstillinger
+genai-more-actions-panel =
+    .aria-label = Velg hvilke handlinger som skal vises
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Spør { $provider }
+genai-more-actions-ai-generic =
+    .label = Spør AI
+genai-more-actions-search =
+    .label = Søk
+genai-more-actions-copy =
+    .label = Kopier
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Du vil ikke se denne menyen når du markerer tekst. Gå til «Innstillinger» <span data-l10n-name="chevron"></span> «Faner og nettlesing» for å vise den igjen.
+genai-more-actions-manage-settings =
+    .label = Behandle innstillinger
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Spør { $provider }
@@ -171,6 +194,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Mistral Vibe
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Bruk en AI-chatbot uten å bytte faner
@@ -229,6 +254,9 @@ link-preview-settings-key-points =
     .label = La AI lese begynnelsen av siden og generere hovedpunkter
 link-preview-settings-long-press =
     .label = Snarvei: Klikk og hold inne lenken i 1 sekund (langt trykk)
+highlight-to-search-settings-enable =
+    .description = Få rask tilgang til nyttige handlinger når du markerer innhold.
+    .label = Vis handlingsmenyen når du markerer tekst
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Se mer med AI?
 # Message that appears when user is shown the opt-in flow for link previews

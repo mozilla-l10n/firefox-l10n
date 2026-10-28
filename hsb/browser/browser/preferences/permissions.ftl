@@ -142,6 +142,9 @@ permissions-site-notification-desc = Slědowace websydła su požadali wam zdź�
 permissions-site-notification-disable-label =
     .label = Nowe žadanja za dowolnosću zdźělenkow blokować
 permissions-site-notification-disable-desc = To budźe websydła, kotrež horjeka w lisćinje podate njejsu, při žadanju za słanjom zdźělenkow haćić. Hdyž zdźělenki blokujeće, móže so stać, zo někotre funkcije websydła njefunguja.
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Zdźělenske nastajenja wašeho dźěłoweho systema tež płaća.
 
 ## Site Permissions - Location
 

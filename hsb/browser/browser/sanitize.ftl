@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Wot { $midnightTime }
 clear-time-duration-value-today =
     .label = Dźensa
+clear-time-duration-value-all-time =
+    .label = Wšón čas
 clear-time-duration-value-everything =
     .label = Wšo
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historija
+item-history-and-downloads2 =
+    .label = Historija přehladowanja a sćehnjenjow
+    .accesskey = H
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Lisćina wopytanych sydłow a sćehnjenjow
 item-history-and-downloads =
     .label = Přehladowanska a sćehnjenska historija
     .accesskey = P
@@ -89,6 +96,15 @@ item-cache =
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Temporerne dataje ({ $amount } { $unit })
+    .accesskey = d
+item-cached-content2 =
+    .label = Temporerne dataje
+    .accesskey = d
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
     .label = Nachwilu pufrowane dataje a strony ({ $amount } { $unit })
     .accesskey = c
@@ -105,6 +121,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Składowane formularowe informacije
     .accesskey = f
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Mjena, e-mejlowe adresy a zapiski formularow
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Prawa a nastajenja websydłow
 item-formdata-description = Zhaša wěcy kaž mjena, e-mejlowe adresy a druhe zapiski, kotrež do formularow zapodawaće
 item-site-prefs-description = Staja waše prawa a nastajenja sydła na prěnjotne nastajenja wróćo
 data-section-label = Daty
@@ -114,6 +134,7 @@ item-site-settings =
 item-offline-apps =
     .label = Daty websydła offline
     .accesskey = D
+sanitize-everything-undo-warning2 = To njeda so cofnyć.
 sanitize-everything-undo-warning = Tuta akcija njeda so cofnyć.
 window-close =
     .key = w
