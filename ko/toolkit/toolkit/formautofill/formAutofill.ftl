@@ -42,8 +42,11 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = 나중에
     .accessKey = W
+credit-card-capture-never-save-payment-methods-button =
+    .label = 결제 수단 저장 안 함
+    .accessKey = N
 credit-card-capture-never-save-button =
-    .label = 카드를 저장 안 함
+    .label = 카드 저장 안 함
     .accessKey = N
 credit-card-update-doorhanger-header = 카드를 업데이트하시겠습니까?
 credit-card-update-doorhanger-description = 업데이트할 카드:
@@ -65,6 +68,18 @@ autofill-manage-payment-methods-label = 결제 수단 관리
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
 
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = CID
+# Used for any other card network, or when the network isn't known.
+credit-card-security-code-name-other = 보안 코드
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
@@ -79,6 +94,19 @@ autofill-card-security-code-label = CVC
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-update-payment-method-doorhanger-header = 결제 수단을 변경하시겠습니까?
+credit-card-capture-save-new-payment-method-button =
+    .label = 새 결제 수단 저장
+    .accessKey = S
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

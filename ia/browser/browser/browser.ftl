@@ -1462,6 +1462,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Vacuar datos e initiar un nove session private?
+reset-pbm-panel-description3 = Isto vacua tu chronologia e tu cookies, e te disconnecte del sitos. Tu fenestras private se claudera, e uno fresc se aperira.
 reset-pbm-panel-description2 = Isto dele chronologia, cookies, e tote le altere datos de sito sin clauder tu Fenestra private.
 reset-pbm-panel-always-ask-checkbox =
     .label = Sempre demandar me
@@ -1497,6 +1498,9 @@ fire-button-panel-confirm-button =
     .label = Deler toto
     .accesskey = D
 fire-button-panel-complete = Datos de navigation delite
+fire-button-toolbar-button2 =
+    .label = Deler alcun o tote le datos
+    .tooltiptext = Dele alcun o tote tu datos de navigation
 
 ## Autorefresh blocker
 
