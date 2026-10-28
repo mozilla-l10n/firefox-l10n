@@ -74,9 +74,25 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Kopiuj zaznaczony tekst
     .tooltiptext = Kopiuj zaznaczony tekst
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Skopiowano
 genai-shortcut-more-actions-button =
     .aria-label = Więcej opcji
     .tooltiptext = Więcej opcji
+genai-more-actions-panel =
+    .aria-label = Wybierz wyświetlane działania
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Zapytaj { $provider }
+genai-more-actions-ai-generic =
+    .label = Zapytaj sztuczną inteligencję
+genai-more-actions-search =
+    .label = Szukaj
+genai-more-actions-copy =
+    .label = Kopiuj
+genai-more-actions-manage-settings =
+    .label = Ustawienia
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Zapytaj { $provider }
