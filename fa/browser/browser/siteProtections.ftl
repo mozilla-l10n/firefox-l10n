@@ -83,7 +83,7 @@ protections-footer-blocked-tracker-counter =
         [one] { $trackerCount } مورد مسدود شده
        *[other] { $trackerCount } مورد مسدود شده‌اند
     }
-    .tooltiptext = از { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = از { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -95,6 +95,6 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] { -brand-short-name } تعداد { $trackerCount } ردیاب را از { DATETIME($date, year: "numeric", month: "long") } مسدود کرده است
-       *[other] { -brand-short-name } بیش از { $trackerCount } ردیاب را از { DATETIME($date, year: "numeric", month: "long") } مسدود کرده است
+        [one] { -brand-short-name } تعداد { $trackerCount } ردیاب را از { DATETIME($date, month: "long", year: "numeric") } مسدود کرده است
+       *[other] { -brand-short-name } بیش از { $trackerCount } ردیاب را از { DATETIME($date, month: "long", year: "numeric") } مسدود کرده است
     }

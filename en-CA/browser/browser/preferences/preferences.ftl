@@ -1831,27 +1831,27 @@ pane-permissions-data-title2 = Permissions and data
 notifications-section-header =
     .heading = Notifications
 notifications-entry-card-header =
-    .label = Notifications
     .description = Choose which websites can send notifications, and how those alerts show up.
+    .label = Notifications
 # Variables:
 #   $count (number) - Number of websites with a stored notification decision,
 #                     always one or more. The zero case is a separate message,
 #                     notifications-entry-manage-button-empty.
 notifications-entry-manage-button =
-    .label = Manage notification settings
     .description =
         { $count ->
             [one] { $count } website
            *[other] { $count } websites
         }
+    .label = Manage notification settings
 # Replaces notifications-entry-manage-button when no website has a stored
 # notification decision. It deliberately carries no description: the empty
 # state is stated on the Notifications page rather than on this row.
 notifications-entry-manage-button-empty =
     .label = Manage website notification settings
 notifications-website-card-header =
-    .label = Website notifications
     .description = Choose how websites can send notifications.
+    .label = Website notifications
 notifications-filter =
     .placeholder = Search websites
 # Heading of the website column in the list of websites and their notification

@@ -83,7 +83,7 @@ protections-footer-blocked-tracker-counter =
         [one] { $trackerCount } αποκλεισμένο
        *[other] { $trackerCount } αποκλεισμένα
     }
-    .tooltiptext = Από τις { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = Από τις { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -95,6 +95,6 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] Το { -brand-short-name } απέκλεισε { $trackerCount } ιχνηλάτη από τον { DATETIME($date, year: "numeric", month: "long") }
-       *[other] Το { -brand-short-name } απέκλεισε { $trackerCount } ιχνηλάτες από τον { DATETIME($date, year: "numeric", month: "long") }
+        [one] Το { -brand-short-name } απέκλεισε { $trackerCount } ιχνηλάτη από τον { DATETIME($date, month: "long", year: "numeric") }
+       *[other] Το { -brand-short-name } απέκλεισε { $trackerCount } ιχνηλάτες από τον { DATETIME($date, month: "long", year: "numeric") }
     }

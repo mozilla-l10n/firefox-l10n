@@ -257,7 +257,15 @@ discopane-notice-recommendations2 =
         Algunes d’aquestes recomanacions són personalitzades. Es basen en altres
         extensions que heu instal·lat, preferències del perfil i estadístiques d’ús.
 discopane-notice-learn-more = Més informació
+# Notice for the colorway theme removal
+colorway-removal-notice-message =
+    .heading = S'han eliminat els temes de combinacions de colors.
+    .message =
+        El { -brand-product-name } ha actualitzat la col·lecció de combinacions de colors. Hem eliminat
+        les versions antigues de la llista «Temes desats». Podeu obtenir les versions noves
+        al lloc web de complements.
 colorway-removal-notice-learn-more = Més informació
+colorway-removal-notice-button = Obtén els temes de combinacions de colors actualitzats
 # Notice to make user aware that themes are not applied in forced colors mode.
 # This notice is only visible on Windows.
 forced-colors-theme-notice =
@@ -282,6 +290,16 @@ find-more-themes = Cerqueu més temes
 # used for screen readers.
 addon-options-button =
     .aria-label = Més opcions
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+# We hard code "Firefox" because we do not want to imply that a Firefox fork is
+# making this recommendation.
+discopane-intro3 =
+    Les extensions i els temes us permeten personalitzar el { -brand-product-name }. Poden millorar la privadesa,
+    la productivitat i els continguts multimèdia, canviar l'aspecte del { -brand-product-name } i
+    molt més. Sovint, aquests petits programes els desenvolupen tercers. Aquí teniu
+    una selecció que el Firefox <a data-l10n-name="learn-more-trigger">recomana</a> per la seva
+    seguretat, rendiment i funcionalitat excepcionals.
 
 ## Add-on actions
 
@@ -514,6 +532,7 @@ addon-category-mlmodel = IA al dispositiu
 addon-category-mlmodel-title =
     .title = IA al dispositiu
 mlmodel-heading = Gestiona els models d'IA al dispositiu
+mlmodel-description = Algunes funcions i extensions del { -brand-short-name } funcionen amb models d'IA que s'executen localment al dispositiu. Això protegeix la vostra privadesa i, en molts casos, millora el rendiment. <a data-l10n-name="learn-more">Més informació</a>
 # Label for button that when clicked removed local model
 mlmodel-remove-addon-button =
     .aria-label = Elimina
@@ -524,3 +543,82 @@ mlmodel-addon-detail-last-used-label = Darrer ús
 mlmodel-addon-detail-used-by-label = Utilitzat per
 # This is a section label to describe the link to the model card on the Hugging Face website
 mlmodel-addon-detail-model-card = Targeta del model
+# This is a label for the Model Card link to Hugging face
+mlmodel-addon-detail-model-card-link-label = Mostra a Hugging Face
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+find-more-addons-promo =
+    .heading = Personalitzeu el { -brand-product-name } al vostre gust
+    .message = Afegiu eines i estils que s'adaptin a les vostres necessitats i gustos.
+find-more-addons-promo-open-amo-button = Explora les extensions i els temes
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+find-more-extensions-promo =
+    .heading = Trobeu la vostra pròxima extensió preferida
+    .message = Personalitzeu el { -brand-product-name } amb eines per a la concentració, la privadesa, les compres i molt més.
+find-more-extensions-promo-open-amo-button = Explora les extensions
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+find-more-themes-promo =
+    .heading = Descobriu més aspectes nous
+    .message = Trieu un estil que faci que el { -brand-product-name } sigui ben vostre.
+find-more-themes-promo-open-amo-button = Explora els temes
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+list-empty-get-extensions-promo =
+    .heading = Unes poques extensions marquen la diferència
+    .message = Tenim recomanacions que us ajudaran a millorar la concentració, la privadesa i molt més.
+list-empty-get-extensions-promo-button = Troba la primera extensió
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+themes-mode-light =
+    .label = Clar
+themes-mode-dark =
+    .label = Fosc
+# "Device" refers to the mode that makes the Firefox active theme's selected color scheme
+# update based on the color scheme mode currently chosen by the operating system.
+themes-mode-device =
+    .label = Sistema
+# Accessible name for the group of light/dark/device buttons.
+themes-mode =
+    .aria-label = Aparença
+# Heading for the in-product themes picker section in about:addons
+aboutaddons-themes-picker-heading =
+    .heading = Temes del { -brand-product-name }
+# Show more / show less button at the bottom of the themes picker
+aboutaddons-themes-picker-see-more = Mostra'n més
+aboutaddons-themes-picker-see-less = Mostra'n menys
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
+aboutaddons-themes-picker-enable-button =
+    .label = Activa
+aboutaddons-themes-picker-disable-button =
+    .label = Desactiva
+aboutaddons-themes-picker-install-button =
+    .label = Instal·la
+# Shown when a Nova theme fails to be downloaded, installed, enabled, or
+# disabled (e.g. no network access to reach the AMO-hosted theme, or a
+# local install/disk failure).
+aboutaddons-themes-picker-error-message =
+    .message = No s'ha pogut actualitzar el tema. Comproveu la connexió i torneu-ho a provar.
+# Checkbox shown inside the enabled default theme's addon-card, on Linux
+# only, to opt-in/opt-out matching the GTK/system theme colors instead of
+# the built-in default theme colors.
+aboutaddons-linux-theme-colors-checkbox-label =
+    .label = Usa el tema del sistema Linux

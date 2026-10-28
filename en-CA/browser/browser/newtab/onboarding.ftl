@@ -622,6 +622,7 @@ onboarding-carousel-nav =
     .aria-label = Feature highlights
 
 ## Welcome Back Onboarding
+
 welcome-back-onboarding-title = New features built to help you do more
 welcome-back-onboarding-primary-button-label = Start browsing
 welcome-back-onboarding-secondary-button-label = See what else is new

@@ -1711,6 +1711,9 @@ permissions-data-section =
     .heading = Tilladelser og data
 pane-permissions-data-title2 = Tilladelser og data
     .title = Tilladelser og data
+notifications-website-card-header =
+    .description = Vælg, hvordan websteder kan sende beskeder.
+    .label = Websteds-beskeder
 
 ## Privacy Section - Data Collection
 

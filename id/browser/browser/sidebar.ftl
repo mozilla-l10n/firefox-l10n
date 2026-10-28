@@ -109,18 +109,6 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Hapus Laman dari Riwayat
 
-## Labels for sidebar bookmarks context menu items
-
-
-## Labels for sidebar open tabs context menu items
-
-
-## Labels for the open tabs panel options menu
-
-
-## Labels for the open tabs hover preview
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -179,9 +167,6 @@ sidebar-menu-cpm-header =
     .heading = Kata Sandi
 sidebar-panel-header-close-button =
     .tooltiptext = Tutup
-
-## Labels for sidebar bookmarks panel folder names.
-
 
 ## Titles for sidebar menu panels.
 

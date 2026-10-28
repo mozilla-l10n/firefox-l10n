@@ -83,7 +83,7 @@ protections-footer-blocked-tracker-counter =
         [one] { $trackerCount } бұғатталған
        *[other] { $trackerCount } бұғатталған
     }
-    .tooltiptext = { DATETIME($date, year: "numeric", month: "long", day: "numeric") } бастап
+    .tooltiptext = { DATETIME($date, day: "numeric", month: "long", year: "numeric") } бастап
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -95,6 +95,6 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] { -brand-short-name } { DATETIME($date, year: "numeric", month: "long") } бастап, { $trackerCount } трекерді бұғаттады
-       *[other] { -brand-short-name } { DATETIME($date, year: "numeric", month: "long") } бастап, { $trackerCount } трекерді бұғаттады
+        [one] { -brand-short-name } { DATETIME($date, month: "long", year: "numeric") } бастап, { $trackerCount } трекерді бұғаттады
+       *[other] { -brand-short-name } { DATETIME($date, month: "long", year: "numeric") } бастап, { $trackerCount } трекерді бұғаттады
     }

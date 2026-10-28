@@ -90,7 +90,7 @@ protections-footer-blocked-tracker-counter =
         [few] Zablokovány { $trackerCount } prvky
        *[other] Zablokováno { $trackerCount } prvků
     }
-    .tooltiptext = Od { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = Od { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -105,23 +105,23 @@ protections-milestone =
     { $trackerCount ->
         [one]
             { -brand-short-name.gender ->
-                [masculine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokoval jeden sledovací prvek
-                [feminine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovala jeden sledovací prvek
-                [neuter] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovalo jeden sledovací prvek
-               *[other] Od { DATETIME($date, year: "numeric", month: "long") } aplikace { -brand-short-name } zablokovala jeden sledovací prvek
+                [masculine] Od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name } zablokoval jeden sledovací prvek
+                [feminine] Od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name } zablokovala jeden sledovací prvek
+                [neuter] Od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name } zablokovalo jeden sledovací prvek
+               *[other] Od { DATETIME($date, month: "long", year: "numeric") } aplikace { -brand-short-name } zablokovala jeden sledovací prvek
             }
         [few]
             { -brand-short-name.gender ->
-                [masculine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokoval více než { $trackerCount } sledovací prvky
-                [feminine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovala více než { $trackerCount } sledovací prvky
-                [neuter] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovalo více než { $trackerCount } sledovací prvky
-               *[other] Od { DATETIME($date, year: "numeric", month: "long") } aplikace { -brand-short-name } zablokovala více než { $trackerCount } sledovací prvky
+                [masculine] Od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name } zablokoval více než { $trackerCount } sledovací prvky
+                [feminine] Od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name } zablokovala více než { $trackerCount } sledovací prvky
+                [neuter] Od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name } zablokovalo více než { $trackerCount } sledovací prvky
+               *[other] Od { DATETIME($date, month: "long", year: "numeric") } aplikace { -brand-short-name } zablokovala více než { $trackerCount } sledovací prvky
             }
        *[other]
             { -brand-short-name.gender ->
-                [masculine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokoval více než { $trackerCount } sledovacích prvků
-                [feminine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovala více než { $trackerCount } sledovacích prvků
-                [neuter] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovalo více než { $trackerCount } sledovacích prvků
-               *[other] Od { DATETIME($date, year: "numeric", month: "long") } aplikace { -brand-short-name } zablokovala více než { $trackerCount } sledovacích prvků
+                [masculine] Od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name } zablokoval více než { $trackerCount } sledovacích prvků
+                [feminine] Od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name } zablokovala více než { $trackerCount } sledovacích prvků
+                [neuter] Od { DATETIME($date, month: "long", year: "numeric") } { -brand-short-name } zablokovalo více než { $trackerCount } sledovacích prvků
+               *[other] Od { DATETIME($date, month: "long", year: "numeric") } aplikace { -brand-short-name } zablokovala více než { $trackerCount } sledovacích prvků
             }
     }

@@ -42,7 +42,7 @@ protections-not-blocking-cookies-all =
 # This text indicates the total number of trackers blocked on all sites.
 # In its tooltip, we show the date when we started counting this number.
 protections-footer-blocked-tracker-counter = { $trackerCount } Nasɨ
-    .tooltiptext = Nee { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = Nee { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.

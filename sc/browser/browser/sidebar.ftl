@@ -123,9 +123,6 @@ sidebar-bookmarks-context-menu-delete-separator =
 sidebar-opentabs-context-close-tab =
     .label = Serra s’ischeda
 
-## Labels for the open tabs panel options menu
-
-
 ## Labels for the open tabs hover preview
 
 # Heading at the top of the preview shown when hovering the Open Tabs button

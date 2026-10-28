@@ -129,15 +129,6 @@ sidebar-bookmarks-context-menu-delete-bookmark =
 sidebar-bookmarks-context-menu-delete-separator =
     .label = ลบ
 
-## Labels for sidebar open tabs context menu items
-
-
-## Labels for the open tabs panel options menu
-
-
-## Labels for the open tabs hover preview
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

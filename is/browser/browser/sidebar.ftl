@@ -104,18 +104,6 @@ sidebar-history-context-menu-bookmark-page =
 sidebar-history-context-menu-delete-pages =
     .label = Eyða síðum úr vafurferli
 
-## Labels for sidebar bookmarks context menu items
-
-
-## Labels for sidebar open tabs context menu items
-
-
-## Labels for the open tabs panel options menu
-
-
-## Labels for the open tabs hover preview
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =
@@ -174,9 +162,6 @@ sidebar-menu-cpm-header =
     .heading = Lykilorð
 sidebar-panel-header-close-button =
     .tooltiptext = Loka
-
-## Labels for sidebar bookmarks panel folder names.
-
 
 ## Titles for sidebar menu panels.
 

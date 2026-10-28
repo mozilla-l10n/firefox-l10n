@@ -166,9 +166,10 @@ permissions-site-xr-disable-desc = This will prevent any websites not listed abo
 ## Site Permissions - App Links
 ## App links are links that a website can ask to open for you, like email
 ## (mailto:) links. Sites in this list are blocked from asking.
+
 permissions-site-app-links-window =
-    .title = Settings - Blocked Sites for App Links
     .style = { permissions-window2.style }
+    .title = Settings - Blocked Sites for App Links
 permissions-site-app-links-desc = These sites are blocked from asking to open app links, like email (mailto:). Remove a site to allow it to ask again.
 
 ## Site Permissions - Camera

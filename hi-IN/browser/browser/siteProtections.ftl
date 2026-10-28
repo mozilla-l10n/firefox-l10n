@@ -76,7 +76,7 @@ protections-footer-blocked-tracker-counter =
         [one] { $trackerCount } अवरुद्ध
        *[other] { $trackerCount } अवरुद्ध
     }
-    .tooltiptext = { DATETIME($date, year: "numeric", month: "long", day: "numeric") } से
+    .tooltiptext = { DATETIME($date, day: "numeric", month: "long", year: "numeric") } से
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.

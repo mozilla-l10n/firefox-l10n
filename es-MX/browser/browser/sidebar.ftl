@@ -141,12 +141,6 @@ sidebar-bookmarks-context-menu-delete-separator =
 sidebar-opentabs-context-close-tab =
     .label = Cerrar pestaña
 
-## Labels for the open tabs panel options menu
-
-
-## Labels for the open tabs hover preview
-
-
 ## Labels for sidebar menu items.
 
 sidebar-menu-genai-chat-label =

@@ -86,7 +86,7 @@ protections-footer-blocked-tracker-counter =
         [many] { $trackerCount } stanket
        *[other] { $trackerCount } stanket
     }
-    .tooltiptext = Abaoe { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = Abaoe { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.

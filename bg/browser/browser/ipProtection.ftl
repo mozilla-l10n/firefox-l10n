@@ -33,6 +33,7 @@ ipprotection-holiday-promo-title-1 = Вземете неограничен VPN �
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN е включен за този сайт
     .label = Използвайте VPN за този сайт
+site-exclusion-toggle-description = Сайтът не работи? Опитайте да изключите VPN.
 
 ## Status card
 

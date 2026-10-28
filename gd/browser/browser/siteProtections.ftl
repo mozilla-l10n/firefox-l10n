@@ -85,7 +85,7 @@ protections-footer-blocked-tracker-counter =
         [few] Chaidh { $trackerCount } a bhacadh
        *[other] Chaidh { $trackerCount } a bhacadh
     }
-    .tooltiptext = O { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = O { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -99,8 +99,8 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] Bhac { -brand-short-name } { $trackerCount } tracaiche o { DATETIME($date, year: "numeric", month: "long") }
-        [two] Bhac { -brand-short-name } { $trackerCount } thracaiche o { DATETIME($date, year: "numeric", month: "long") }
-        [few] Bhac { -brand-short-name } { $trackerCount } tracaichean o { DATETIME($date, year: "numeric", month: "long") }
-       *[other] Bhac { -brand-short-name } { $trackerCount } tracaiche o { DATETIME($date, year: "numeric", month: "long") }
+        [one] Bhac { -brand-short-name } { $trackerCount } tracaiche o { DATETIME($date, month: "long", year: "numeric") }
+        [two] Bhac { -brand-short-name } { $trackerCount } thracaiche o { DATETIME($date, month: "long", year: "numeric") }
+        [few] Bhac { -brand-short-name } { $trackerCount } tracaichean o { DATETIME($date, month: "long", year: "numeric") }
+       *[other] Bhac { -brand-short-name } { $trackerCount } tracaiche o { DATETIME($date, month: "long", year: "numeric") }
     }

@@ -6,6 +6,7 @@ report-broken-site-mainview-title = Доклад за повредена стр�
 report-broken-site-panel-header =
     .label = Доклад за повредена страница
     .title = Доклад за повредена страница
+report-broken-site-panel-reason-intro-text = Какво не работи?
 report-broken-site-panel-reason-load-moz-box-button =
     .label = Сайтът не се зарежда
 report-broken-site-panel-reason-slow-moz-box-button =

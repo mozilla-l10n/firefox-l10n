@@ -34,6 +34,6 @@ protections-header = Proteçioin pe { $host }
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] { -brand-short-name } blocou { $trackerCount } traciatô da { DATETIME($date, year: "numeric", month: "long") }
-       *[other] { -brand-short-name } o l'à blocou { $trackerCount } traciatoæî da { DATETIME($date, year: "numeric", month: "long") }
+        [one] { -brand-short-name } blocou { $trackerCount } traciatô da { DATETIME($date, month: "long", year: "numeric") }
+       *[other] { -brand-short-name } o l'à blocou { $trackerCount } traciatoæî da { DATETIME($date, month: "long", year: "numeric") }
     }

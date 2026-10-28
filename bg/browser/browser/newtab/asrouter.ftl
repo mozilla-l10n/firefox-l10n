@@ -343,6 +343,19 @@ set-default-menu-message-simple-layout-title-variant = { -brand-short-name } н�
 set-default-menu-message-row-layout-title = Направете { -brand-short-name } основен браузър
 set-default-menu-message-primary-button-variant = Задаване като основен браузър
 
+## Lapsed-user Windows toast notification for the Nova Fall 2026 campaign
+##
+## These strings will be displayed by the Windows operating system in a
+## native toast shown by the background task to users who have Firefox
+## installed but haven't opened it recently. The message itself is hosted
+## off-train on Remote Settings via Nimbus; the strings are landed here so
+## localization can begin.
+##
+## The button labels are fitted into narrow fixed-width buttons by
+## Windows and therefore must be as narrow as possible.
+
+lapsed-user-toast-whats-new-button = Вижте какво е новото
+
 ## Refresh Firefox infobar
 ##
 ## Shown at startup when the profile has not been used in over 60 days, or when

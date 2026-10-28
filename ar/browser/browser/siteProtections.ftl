@@ -87,7 +87,7 @@ protections-footer-blocked-tracker-counter =
         [many] حُجب { $trackerCount }
        *[other] حُجب { $trackerCount }
     }
-    .tooltiptext = منذ { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = منذ { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -103,10 +103,10 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [zero] لم يحجب { -brand-short-name } أيّ متعقّب منذ { DATETIME($date, year: "numeric", month: "long") }
-        [one] حجب { -brand-short-name } متعقّبًا واحدًا منذ { DATETIME($date, year: "numeric", month: "long") }
-        [two] حجب { -brand-short-name } متعقّبين اثنين منذ { DATETIME($date, year: "numeric", month: "long") }
-        [few] حجب { -brand-short-name } ما يزيد على { $trackerCount } متعقّبات منذ { DATETIME($date, year: "numeric", month: "long") }
-        [many] حجب { -brand-short-name } ما يزيد على { $trackerCount } متعقّبًا منذ { DATETIME($date, year: "numeric", month: "long") }
-       *[other] حجب { -brand-short-name } ما يزيد على { $trackerCount } متعقّبا منذ { DATETIME($date, year: "numeric", month: "long") }
+        [zero] لم يحجب { -brand-short-name } أيّ متعقّب منذ { DATETIME($date, month: "long", year: "numeric") }
+        [one] حجب { -brand-short-name } متعقّبًا واحدًا منذ { DATETIME($date, month: "long", year: "numeric") }
+        [two] حجب { -brand-short-name } متعقّبين اثنين منذ { DATETIME($date, month: "long", year: "numeric") }
+        [few] حجب { -brand-short-name } ما يزيد على { $trackerCount } متعقّبات منذ { DATETIME($date, month: "long", year: "numeric") }
+        [many] حجب { -brand-short-name } ما يزيد على { $trackerCount } متعقّبًا منذ { DATETIME($date, month: "long", year: "numeric") }
+       *[other] حجب { -brand-short-name } ما يزيد على { $trackerCount } متعقّبا منذ { DATETIME($date, month: "long", year: "numeric") }
     }

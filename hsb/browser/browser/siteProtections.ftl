@@ -85,7 +85,7 @@ protections-footer-blocked-tracker-counter =
         [few] { $trackerCount } zablokowane
        *[other] { $trackerCount } zablokowanych
     }
-    .tooltiptext = Wot { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = Wot { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -99,8 +99,8 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] { -brand-short-name } je { $trackerCount } přesćěhowak wot { DATETIME($date, year: "numeric", month: "long") } zablokował
-        [two] { -brand-short-name } je { $trackerCount } přesćěhowakaj wot { DATETIME($date, year: "numeric", month: "long") } zablokował
-        [few] { -brand-short-name } je { $trackerCount } přesćěhowaki wot { DATETIME($date, year: "numeric", month: "long") } zablokował
-       *[other] { -brand-short-name } je { $trackerCount } přesćěhowakow wot { DATETIME($date, year: "numeric", month: "long") } zablokował
+        [one] { -brand-short-name } je { $trackerCount } přesćěhowak wot { DATETIME($date, month: "long", year: "numeric") } zablokował
+        [two] { -brand-short-name } je { $trackerCount } přesćěhowakaj wot { DATETIME($date, month: "long", year: "numeric") } zablokował
+        [few] { -brand-short-name } je { $trackerCount } přesćěhowaki wot { DATETIME($date, month: "long", year: "numeric") } zablokował
+       *[other] { -brand-short-name } je { $trackerCount } přesćěhowakow wot { DATETIME($date, month: "long", year: "numeric") } zablokował
     }

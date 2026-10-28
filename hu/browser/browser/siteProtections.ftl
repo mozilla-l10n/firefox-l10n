@@ -83,7 +83,7 @@ protections-footer-blocked-tracker-counter =
         [one] 1 blokkolva
        *[other] { $trackerCount } blokkolva
     }
-    .tooltiptext = { DATETIME($date, year: "numeric", month: "long", day: "numeric") } óta
+    .tooltiptext = { DATETIME($date, day: "numeric", month: "long", year: "numeric") } óta
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -95,6 +95,6 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] A { -brand-short-name } { DATETIME($date, year: "numeric", month: "long") } óta { $trackerCount } nyomkövetőt blokkolt
-       *[other] A { -brand-short-name } { DATETIME($date, year: "numeric", month: "long") } óta { $trackerCount } nyomkövetőt blokkolt
+        [one] A { -brand-short-name } { DATETIME($date, month: "long", year: "numeric") } óta { $trackerCount } nyomkövetőt blokkolt
+       *[other] A { -brand-short-name } { DATETIME($date, month: "long", year: "numeric") } óta { $trackerCount } nyomkövetőt blokkolt
     }

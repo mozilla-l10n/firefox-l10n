@@ -84,7 +84,7 @@ protections-footer-blocked-tracker-counter =
         [few] { $trackerCount } užblokuotų
        *[other] { $trackerCount } užblokuoti
     }
-    .tooltiptext = Nuo { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = Nuo { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -97,7 +97,7 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] „{ -brand-short-name }“ užblokavo { $trackerCount } stebėjimo elementą nuo { DATETIME($date, year: "numeric", month: "long") }
-        [few] „{ -brand-short-name }“ užblokavo virš { $trackerCount } stebėjimo elementų nuo { DATETIME($date, year: "numeric", month: "long") }
-       *[other] „{ -brand-short-name }“ užblokavo virš { $trackerCount } stebėjimo elementų nuo { DATETIME($date, year: "numeric", month: "long") }
+        [one] „{ -brand-short-name }“ užblokavo { $trackerCount } stebėjimo elementą nuo { DATETIME($date, month: "long", year: "numeric") }
+        [few] „{ -brand-short-name }“ užblokavo virš { $trackerCount } stebėjimo elementų nuo { DATETIME($date, month: "long", year: "numeric") }
+       *[other] „{ -brand-short-name }“ užblokavo virš { $trackerCount } stebėjimo elementų nuo { DATETIME($date, month: "long", year: "numeric") }
     }

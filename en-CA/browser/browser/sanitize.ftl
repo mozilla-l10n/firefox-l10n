@@ -23,8 +23,8 @@ sanitize-dialog-title-everything =
 # on shutdown context, which saves preferences rather than deleting anything.
 # Keep the .style in sync with it.
 sanitize-dialog-delete-title =
-    .title = Delete browsing data
     .style = min-width: 34em
+    .title = Delete browsing data
 clear-data-settings-label = When closed, { -brand-short-name } should automatically clear all
 sanitize-on-shutdown-description = Automatically clear all checked items when { -brand-short-name } closes.
 

@@ -84,7 +84,7 @@ protections-footer-blocked-tracker-counter =
         [few] Zaszperowane { $trackerCount } elymynta
        *[many] Zaszperowanych { $trackerCount } elymyntōw
     }
-    .tooltiptext = Ôd { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+    .tooltiptext = Ôd { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # This text indicates the total number of trackers blocked on all sites.
 # It should be the same as protections-footer-blocked-tracker-counter;
 # this message is used to leave out the tooltip when the date is not available.
@@ -97,7 +97,7 @@ protections-footer-blocked-tracker-counter-no-tooltip =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] Aplikacyjo { -brand-short-name } zaszperowała { $trackerCount } śledzōncy elymynt ôd { DATETIME($date, year: "numeric", month: "long") }
-        [few] Aplikacyjo { -brand-short-name } zaszperowała wiyncyj jak { $trackerCount } śledzōnce elymynta ôd { DATETIME($date, year: "numeric", month: "long") }
-       *[many] Aplikacyjo { -brand-short-name } zaszperowała wiyncyj jak { $trackerCount } śledzōncych elymyntōw ôd { DATETIME($date, year: "numeric", month: "long") }
+        [one] Aplikacyjo { -brand-short-name } zaszperowała { $trackerCount } śledzōncy elymynt ôd { DATETIME($date, month: "long", year: "numeric") }
+        [few] Aplikacyjo { -brand-short-name } zaszperowała wiyncyj jak { $trackerCount } śledzōnce elymynta ôd { DATETIME($date, month: "long", year: "numeric") }
+       *[many] Aplikacyjo { -brand-short-name } zaszperowała wiyncyj jak { $trackerCount } śledzōncych elymyntōw ôd { DATETIME($date, month: "long", year: "numeric") }
     }
