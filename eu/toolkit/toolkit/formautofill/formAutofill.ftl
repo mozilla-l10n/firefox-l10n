@@ -115,6 +115,29 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = Gorde segurtasun-kodea?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name }(e)k txartel honen segurtasun-kodea zifratu eta gordeko du erosketa azkarragoa izateko.
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Gorde ordainketa-metodo hau?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name }(e)k zure ordainketaren xehetasunak zifratu eta automatikoki betetzen ditu erosketa azkarragoa izan dadin.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name }(e)k zure txartel-zenbakia eta segurtasun-kodea zifratzen ditu eta hurrengoan automatikoki beteko ditu.
+credit-card-capture-dismiss-button =
+    .label = Baztertu
+    .accessKey = B
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Gorde beti segurtasun-kodeak
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Ez gorde segurtasun-kodeak
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

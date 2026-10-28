@@ -290,6 +290,11 @@ ip-protection-learn-more = Les mer
 ip-protection-not-opted-in-4 =
     .heading = Prøv { -brand-short-name } sin innebygde VPN
     .message = Surf med ekstra beskyttelse ved å skjule posisjonen din.
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Klar til å prøve?
+    .message = Få { $maxUsage } GB gratis hver måned, og velg hvilke nettsteder som skal bruke VPN.
 ip-protection-not-opted-in-button = Kom i gang
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
@@ -300,6 +305,19 @@ ip-protection-site-exceptions-all-sites-button =
            *[other] { $count } nettsteder
         }
     .label = Behandle nettstedsinnstillinger
+ip-protection-site-rules-header-1 =
+    .heading = Behandle VPN-regler
+ip-protection-site-rules-button-1 =
+    .description = Angi regler for nettsteder som trenger ekstra personvern eller VPN slått av.
+    .label = Behandle VPN-regler
+ip-protection-site-rules-list-section-1 =
+    .description = Angi regler for å slå VPN på eller av automatisk.
+    .label = Nettstedsregler
+ip-protection-site-rules-add-button =
+    .label = Angi regel
+ip-protection-site-rules-delete-all-button =
+    .label = Slett alle regler
+ip-protection-site-rules-empty = Regler du angir vil vises her.
 ip-protection-site-rules-header =
     .heading = Behandle nettstedsregler
 ip-protection-site-rules-button =
