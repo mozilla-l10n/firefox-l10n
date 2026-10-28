@@ -1461,6 +1461,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Effacer les données et démarrer une nouvelle session privée ?
+reset-pbm-panel-description3 = Cette action efface votre historique et vos cookies, puis vous déconnecte des sites. Vos fenêtres de navigation privée vont se fermer et une nouvelle s’ouvrira.
 reset-pbm-panel-description2 = Cette action supprime l’historique, les cookies et toutes les autres données de site sans fermer votre fenêtre de navigation privée.
 reset-pbm-panel-always-ask-checkbox =
     .label = Toujours me demander
@@ -1496,6 +1497,9 @@ fire-button-panel-confirm-button =
     .label = Tout supprimer
     .accesskey = T
 fire-button-panel-complete = Données de navigation supprimées
+fire-button-toolbar-button2 =
+    .label = Supprimer tout ou partie des données
+    .tooltiptext = Supprimer tout ou partie de vos données de navigation
 
 ## Autorefresh blocker
 

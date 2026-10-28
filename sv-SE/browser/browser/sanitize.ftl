@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Sedan { $midnightTime }
 clear-time-duration-value-today =
     .label = Idag
+clear-time-duration-value-all-time =
+    .label = Hela tiden
 clear-time-duration-value-everything =
     .label = All historik
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historik
+item-history-and-downloads2 =
+    .label = Besökta sidor och filhämtningshistorik
+    .accesskey = B
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Besökta webbplatser och nedladdningslista
 item-history-and-downloads =
     .label = Besökta sidor och filhämtningshistorik
     .accesskey = B
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Kakor och webbplatsdata
     .accesskey = K
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Loggar ut dig och får tömma kundvagnar
 item-cookies-site-data-description = Kan logga ut dig från webbplatser eller tömma kundvagnar
 item-active-logins =
     .label = Aktiva inloggningar
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Cache
     .accesskey = C
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Tillfälliga filer ({ $amount } { $unit })
+    .accesskey = T
+item-cached-content2 =
+    .label = Tillfälliga filer
+    .accesskey = T
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Hjälper webbplatser att laddas snabbare
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Sparad formulärinfo
     .accesskey = S
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Namn, e-post och formulärposter
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Webbplatsens behörigheter och inställningar
 item-formdata-description = Rensar saker som namn, e-post och andra objekt som du anger i formulär
 item-site-prefs-description = Återställer dina behörigheter och webbplatsinställningar till ursprungliga inställningar
 data-section-label = Data
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Nedkopplad webbplatsdata
     .accesskey = N
+sanitize-everything-undo-warning2 = Detta kan inte ångras.
 sanitize-everything-undo-warning = Den här åtgärden kan inte ångras.
 window-close =
     .key = w

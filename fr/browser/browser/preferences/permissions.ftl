@@ -142,6 +142,12 @@ permissions-site-notification-desc = Les sites web suivants ont demandé à vous
 permissions-site-notification-disable-label =
     .label = Bloquer les nouvelles demandes d’activation des notifications
 permissions-site-notification-disable-desc = Cela empêchera tous les sites web non listés ci-dessus de demander l’autorisation d’envoyer des notifications. Le blocage des notifications peut invalider les fonctionnalités de certains sites web.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Autoriser les notifications lors de la fermeture de { -brand-short-name }
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Vos paramètres de notification au système d’exploitation s’appliquent également.
 
 ## Site Permissions - Location
 

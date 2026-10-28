@@ -274,3 +274,7 @@ multi-profile-spotlight-cta = Създаване на профил
 ## A screen shown to users during the onboarding process that asks them two qualifying questions about their use of the browser
 
 onboarding-personalization-motivation-privacy-option = Поверителност и сигурност
+
+## Smart Window ToU modal
+
+smartwindow-existing-user-fx-tou-go-back = Връщане назад

@@ -332,7 +332,9 @@ main-context-menu-audio-email =
 main-context-menu-send-to-device-2 =
     .label = Изпращане към устройство
     .accesskey = И
+main-context-menu-send-to-mobile-sign-in = Влезте, за да изпращате раздели
 main-context-menu-send-to-mobile-connect-phone2 = Свържете телефона си
+main-context-menu-send-to-mobile-connect-phone3 = Свържете устройство за изпращане на раздели
 
 ##
 

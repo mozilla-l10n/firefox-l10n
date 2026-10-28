@@ -269,6 +269,10 @@ menu-bookmarks-other =
     .label = Autres marque-pages
 menu-bookmarks-mobile =
     .label = Marque-pages des appareils mobiles
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Afficher plus dans la barre latérale
 
 ## Profiles Menu
 

@@ -1461,6 +1461,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Rensa data och starta en ny privat session?
+reset-pbm-panel-description3 = Detta rensar din historik och kakor och loggar ut dig från webbplatser. Ditt privata fönster stängs och ett nytt öppnas.
 reset-pbm-panel-description2 = Detta tar bort historik, kakor och all annan webbplatsdata utan att stänga ditt privata fönster.
 reset-pbm-panel-always-ask-checkbox =
     .label = Fråga mig alltid
@@ -1496,6 +1497,9 @@ fire-button-panel-confirm-button =
     .label = Ta bort allt
     .accesskey = T
 fire-button-panel-complete = Surfdata borttagen
+fire-button-toolbar-button2 =
+    .label = Ta bort delar av eller all data
+    .tooltiptext = Ta bort delar av eller all surfdata
 
 ## Autorefresh blocker
 

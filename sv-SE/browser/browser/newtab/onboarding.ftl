@@ -559,10 +559,14 @@ onboarding-refresh-terms-of-use-with-links = Genom att fortsätta godkänner du 
 onboarding-refresh-data-collection-link = Hantera inställningar för datainsamling
 onboarding-refresh-primary-button = Fortsätt
 onboarding-refresh-fro-import-header = Ta med din data
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Den förblir din. { -brand-product-name } säljer aldrig personuppgifter.
 onboarding-refresh-fro-import-body = Dina personuppgifter förblir privata. { -brand-product-name } kommer aldrig att sälja dem.
 onboarding-refresh-fro-skip-button = Hoppa över
 onboarding-refresh-fro-theme-header = Lek med din stil
 onboarding-refresh-tab-layout-header = Testa en annan fliklayout
+onboarding-refresh-fro-tab-layout-title = Välj en ny fliklayout
 onboarding-refresh-tab-layout-top = Överst
 onboarding-refresh-tab-layout-side = Vid sidan
 onboarding-refresh-tab-layout-minimal = Minimal

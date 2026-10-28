@@ -159,3 +159,8 @@ fp-certerror-what-can-you-do = Какво можете да направите?
 fp-certerror-advanced-title = Разширена информация
 fp-certerror-advanced-button = Разширена информация
 fp-certerror-hide-advanced-button = Скриване на разширената информация
+
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+
+fp-certerror-intro = { -brand-short-name } забеляза потенциално сериозен проблем със сигурността на <strong>{ $hostname }</strong>. Някой, представящ се за сайта, може да се опита да открадне неща като информация за банкови карти, пароли или имейли.

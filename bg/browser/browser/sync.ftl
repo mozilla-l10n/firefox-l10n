@@ -34,6 +34,10 @@ sync-setup-verify-continue = Продължаване
 #   $email - Email address of a user previously signed into sync.
 sync-setup-verify-description = Друг потребител е бил вписан, за да синхронизира на този компютър. Вписването ще слее отметките, паролите и другите настройки на този браузър с { $email }
 
+## The following strings are for displaying elements in the FxA send tab submenu to prompt users to sign in, enable sync, pair a device, troubleshoot device issues, or verify account.
+
+fxa-menu-send-to-mobile-sign-in = Влезте, за да изпращате раздели
+
 ## Sync warning strings that support the browser profiles feature, these will be shown when the user might be merging data
 
 # Variables:
