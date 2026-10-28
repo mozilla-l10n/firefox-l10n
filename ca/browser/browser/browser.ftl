@@ -36,6 +36,15 @@ urlbar-identity-button2 =
             [one] Mostra la informació del lloc ({ $count } element de seguiment blocat)
            *[other] Mostra la informació del lloc ({ $count } elements de seguiment blocats)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } enllaç
+           *[other] { $count } enllaços
+        }
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 

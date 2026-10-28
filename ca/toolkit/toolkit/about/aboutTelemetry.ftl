@@ -32,6 +32,16 @@ about-telemetry-late-writes-section = Escriptures tardanes
 about-telemetry-raw = JSON sense processar
 about-telemetry-full-sql-warning = NOTA: la depuració de SQL lenta està habilitada. Es poden mostrar les cadenes SQL completes a sota però no s'enviaran per a la telemesura.
 about-telemetry-fetch-stack-symbols = Obtén els noms de les funcions per a les piles
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } mostra, mitjana = { $prettyAverage }, suma = { $sum }
+       *[other] { $sampleCount } mostres, mitjana = { $prettyAverage }, suma = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Aquesta pàgina conté la informació del rendiment, ús i personalitzacions recopilada per a la telemesura. Aquesta informació s'envia a { $telemetryServerOwner } per ajudar a millorar { -brand-full-name }.

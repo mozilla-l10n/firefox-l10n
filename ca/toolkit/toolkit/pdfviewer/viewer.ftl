@@ -520,9 +520,23 @@ pdfjs-views-manager-layers-title1 = Capes
 pdfjs-views-manager-pages-option-label = Pàgines
 pdfjs-views-manager-layers-option-label = Capes
 pdfjs-views-manager-add-file-button-label = Afegeix un fitxer
+# Variables:
+#   $count (Number) - the number of selected pages.
+pdfjs-views-manager-pages-status-action-label =
+    { $count ->
+        [one] { $count } seleccionada
+       *[other] { $count } seleccionades
+    }
 pdfjs-views-manager-pages-status-copy-button-label = Copia
 pdfjs-views-manager-pages-status-cut-button-label = Retalla
 pdfjs-views-manager-pages-status-delete-button-label = Suprimeix
+# Variables:
+#   $count (Number) - the number of selected pages to be cut.
+pdfjs-views-manager-status-undo-cut-label =
+    { $count ->
+        [one] 1 pàgina retallada
+       *[other] { $count } pàgines retallades
+    }
 pdfjs-views-manager-status-close-button =
     .title = Tanca
 

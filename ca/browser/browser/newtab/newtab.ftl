@@ -203,6 +203,21 @@ newtab-privacy-across-sites =
        *[other] En { $count } llocs web
     }
 
+## Privacy widget — empty state
+
+# Shown when no trackers have been blocked yet today.
+newtab-privacy-empty-state = El { -brand-short-name } bloca automàticament els elements de seguiment i manté més privada la vostra activitat.
+# "A running tally" is an informal way to say a total that keeps updating as it goes.
+# Here we are referring to the number of trackers blocked, which increases as the user browses.
+# An alternative can be "See a running total here"
+newtab-privacy-empty-state-tally = Aquí podeu veure el recompte actualitzat.
+
+## Privacy widget — Enhanced Tracking Protection off state
+
+# Shown when the user has turned off the Enhanced Tracking Protection setting.
+newtab-privacy-etp-off-faster-browsing = Navegació més ràpida. Menys elements de seguiment.
+newtab-privacy-etp-off-turn-on-tracking = Activeu la protecció contra el seguiment als paràmetres per a començar a blocar.
+
 ## Privacy widget — informational messages
 ##
 ## Rotating "info" secondary messages. Each message has a body plus a matched
@@ -245,6 +260,7 @@ newtab-privacy-message-promo-monitor-1 = Esbrineu si la vostra informació perso
 newtab-privacy-message-promo-monitor-1-cta = Més informació
 newtab-privacy-message-promo-monitor-2 = Protegiu la vostra informació amb la supervisió gratuïta de filtracions de dades, per a un màxim de 20 correus electrònics.
 newtab-privacy-message-promo-monitor-2-cta = Més informació
+newtab-privacy-message-promo-signin-1 = Manteniu les adreces d'interès, les contrasenyes i les pestanyes xifrades entre dispositius amb el compte de { -vendor-short-name }.
 newtab-privacy-message-promo-signin-1-cta = Inicia la sessió
 newtab-privacy-message-promo-vpn-1 = Esteu de compres en una xarxa Wi-Fi pública? Activeu la VPN integrada per a una protecció addicional.
 newtab-privacy-message-promo-vpn-1-cta = Obre la VPN
@@ -255,17 +271,59 @@ newtab-privacy-message-promo-vpn-3-cta = Obre la VPN
 newtab-privacy-message-promo-private-window-1 = Proveu una finestra privada per a navegar amb més privacitat quan useu un ordinador compartit.
 newtab-privacy-message-promo-private-window-1-cta = Obre una finestra privada
 newtab-privacy-message-promo-relay-1 = Reserveu el vostre correu real per a la gent amb qui confieu. Useu una màscara de correu per als registres.
+newtab-privacy-message-promo-relay-1-cta = Obtén màscares
+newtab-privacy-message-promo-relay-2 = Protegiu la safata d'entrada del correu brossa amb màscares de correu electrònic gratuïtes.
+newtab-privacy-message-promo-relay-2-cta = Obtén màscares
+newtab-privacy-message-promo-relay-3 = Obteniu 50 màscares de correu electrònic gratuïtes per a mantenir privada la vostra adreça electrònica real.
+newtab-privacy-message-promo-relay-3-cta = Obtén màscares
 
 ## Privacy widget — celebration messages
 ##
 ## Earned "celebration" moments (milestones, daily cap, streak, first
 ## protection). Count-bearing ones interpolate { $count }.
 
+# Variables:
+#   $count (number) - Trackers blocked this week
+newtab-privacy-message-milestone-week =
+    { $count ->
+        [one] { $count } element de seguiment blocat aquesta setmana. Vegeu què manté a ratlla el { -brand-short-name }
+       *[other] { $count } elements de seguiment blocats aquesta setmana. Vegeu què manté a ratlla el { -brand-short-name }
+    }
 newtab-privacy-message-milestone-week-cta = Mostra les proteccions
+# Variables:
+#   $count (number) - Trackers blocked this month
+newtab-privacy-message-milestone-month =
+    { $count ->
+        [one] { $count } element de seguiment blocat aquest mes. Un petit pas per a la privadesa. Un gran pas per a la tranquil·litat.
+       *[other] { $count } elements de seguiment blocats aquest mes. Un petit pas per a la privadesa. Un gran pas per a la tranquil·litat.
+    }
 newtab-privacy-message-milestone-month-cta = Mostra les proteccions
+# Variables:
+#   $count (number) - Trackers blocked this year
+newtab-privacy-message-milestone-year =
+    { $count ->
+        [one] { $count } element de seguiment blocat aquest any. Ha estat un any intens protegint la vostra privadesa.
+       *[other] { $count } elements de seguiment blocats aquest any. Ha estat un any intens protegint la vostra privadesa.
+    }
 newtab-privacy-message-milestone-year-cta = Mostra les proteccions
+# Variables:
+#   $count (number) - Trackers blocked all-time
+newtab-privacy-message-milestone-total =
+    { $count ->
+        [one] { $count } element de seguiment blocat. És un gran avenç cap a una privadesa en els vostres termes.
+       *[other] { $count } elements de seguiment blocats. És un gran avenç cap a una privadesa en els vostres termes.
+    }
 newtab-privacy-message-milestone-total-cta = Mostra les proteccions
+# Shown when today's blocked-tracker count reaches the display cap ("100+").
+newtab-privacy-message-daily-cap = (Més de 100 elements de seguiment blocats avui.) Menys elements de seguiment vol dir més privadesa.
 newtab-privacy-message-daily-cap-cta = Mostra les proteccions
+# Variables:
+#   $count (number) - Consecutive days the user has had trackers blocked
+newtab-privacy-message-streak =
+    { $count ->
+        [one] Heu estat protegit { $count } dia consecutiu.
+       *[other] Heu estat protegit { $count } dies consecutius.
+    }
 newtab-privacy-message-streak-cta = Mostra les proteccions
 # Shown the first time the tracker count goes above zero.
 newtab-privacy-message-first-protection = Continua navegant, { -brand-short-name } seguirà bloquejant.
@@ -275,6 +333,8 @@ newtab-privacy-message-first-protection-cta = Mostra les proteccions
 
 # Context menu item linking to more information about the Finance widget.
 newtab-stocks-menu-learn-more = Més informació
+# Shown in the Finance widget when its data could not be loaded.
+newtab-stocks-error-not-available = Les dades de borsa no estan disponibles.
 # Tooltip and screen reader label for the icon-only button that opens the
 # widget's menu.
 newtab-stocks-widget-open-menu-button2 =
@@ -287,6 +347,9 @@ newtab-stocks-search-button =
     .aria-label = Cerca per nom o símbol
     .label = Cerca
     .title = Cerca per nom o símbol
+# Shown on the Watchlist while the user has no stocks in it, above a button that
+# opens the stock search.
+newtab-stocks-watchlist-empty = Comenceu a seguir els valors que us interessen
 # Button under the empty-watchlist message that opens the stock search. Shown
 # with a magnifying-glass icon and the .label, where "Search" is a verb; .title
 # and .aria-label name it the same way as the toolbar search button.
@@ -378,6 +441,14 @@ newtab-stocks-search-no-results = No hi ha resultats per a «{ $query }»
 newtab-stocks-search-loading = S'està carregant…
 # Shown when a ticker search fails to reach the service.
 newtab-stocks-search-error = No s’ha pogut cercar ara mateix. Torneu-ho a provar més tard.
+# Shown below successful search results when the watchlist is already full.
+# Variables:
+#   $limit (Number) - the maximum number of stocks the watchlist can hold.
+newtab-stocks-watchlist-full =
+    { $limit ->
+        [one] Podeu afegir fins a { $limit } valor. Suprimiu-ne un per a afegir-ne un altre.
+       *[other] Podeu afegir fins a { $limit } valors. Suprimiu-ne un per a afegir-ne un altre.
+    }
 
 ## Strings for the Picture of the Day widget
 
@@ -386,6 +457,10 @@ newtab-stocks-search-error = No s’ha pogut cercar ara mateix. Torneu-ho a prov
 newtab-picture-header = Imatge del dia · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Imatge del dia
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Imatge del dia: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -404,6 +479,13 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = Obre el menú de la imatge del dia
     .title = Obre el menú de la imatge del dia
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Estableix aquesta imatge com a fons de pantalla
+    .label = Estableix com a fons de pantalla
+    .title = Estableix com a fons de pantalla
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -412,6 +494,10 @@ newtab-picture-set-wallpaper =
     .title = Estableix un fons de pantalla
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Gestiona el fons de pantalla
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Oculta aquesta imatge
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Mostra la imatge
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Amaga la imatge del dia
@@ -419,6 +505,10 @@ newtab-picture-menu-hide-photo = Amaga la imatge del dia
 newtab-picture-menu-show-photo = Mostra la imatge del dia
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Més informació
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Mostra la imatge
+    .title = Mostra la imatge
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Mostra la imatge del dia
@@ -443,11 +533,77 @@ newtab-recent-searches-tab-trending = Tendències
 newtab-recent-searches-trending-attribution = mitjançant { $engine }
 # Relative time shown for a search made less than a minute ago.
 newtab-recent-searches-just-now = Ara mateix
+# Screen reader label for the button that forgets one listed search.
+# Variables:
+#   $search (string) - The search the row shows, e.g. "puffin colonies".
+newtab-recent-searches-row-remove =
+    .aria-label = Elimina «{ $search }» de les cerques recents
+# Widget heading; also the widget's accessible name.
+newtab-search-widget-title = Cerca
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-search-widget-open-menu-button =
+    .aria-label = Obre el menú de cerca
+    .title = Obre el menú de cerca
+
+## Recent searches widget — empty states
+
+# Shown in place of the list when the user has made no searches recently.
+newtab-recent-searches-empty-recent = Les cerques recents es mostraran aquí perquè les pugueu reprendre en qualsevol moment.
+# Shown in place of the list when there are no trending search results.
+newtab-recent-searches-empty-trending = Les cerques populars no estan disponibles ara mateix.
+
+## Strings for the Horoscopes widget
+
+# Widget heading; also the widget's accessible name.
+newtab-horoscopes-widget-title = Horòscops
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Obre el menú dels horòscops
+    .title = Obre el menú dels horòscops
+# Screen reader label for the widget's icon-only menu button.
+newtab-horoscopes-widget-menu-button =
+    .aria-label = Opcions d'horòscops
+# Context menu item linking to more information about the widget.
+newtab-horoscopes-menu-learn-more = Més informació
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Funciona amb Yahoo
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Viatges
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Obre el menú de viatges
+    .title = Obre el menú de viatges
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Més informació
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitari
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Obre el menú del solitari
+    .title = Obre el menú del solitari
+# Context menu item linking to more information about the widget.
+newtab-solitaire-menu-learn-more = Més informació
+
+## Strings for the navigable panels that new tab content area can be
+## split into.
+
+newtab-spaces-tab-stories = Articles
+newtab-spaces-tab-widgets = Ginys
+newtab-spaces-tab-activity = Activitat
 
 ## Search box component.
 
@@ -696,6 +852,9 @@ newtab-custom-shortcuts-toggle =
     .label = Dreceres
 newtab-custom-shortcuts-nova =
     .label = Dreceres
+newtab-custom-web-notifications-toggle =
+    .description = Mostra les notificacions dels llocs a les dreceres corresponents
+    .label = Notificacions web
 newtab-custom-row-description =
     .description = Nombre de files
 # Variables
@@ -745,6 +904,15 @@ newtab-custom-widget-search-toggle =
     .label = Cerca
 newtab-custom-widget-horoscopes-toggle =
     .label = Horòscop
+# Travel (noun) is a widget on New Tab for searching hotels, flights
+# and car rentals.
+newtab-custom-widget-travel-toggle =
+    .label = Viatges
+# Solitaire is a widget on New Tab where you can play solitaire, a card game
+# for one player, also known as patience.
+# Game displays within an iframe with name “Yahoo Solitaire”
+newtab-custom-widget-solitaire-toggle =
+    .label = Solitari
 newtab-custom-widget-section-title = Ginys
 newtab-custom-widget-section-toggle =
     .label = Ginys
@@ -756,6 +924,13 @@ newtab-custom-close-menu-button =
     .aria-label = Tanca el menú
     .title = Tanca
 newtab-custom-settings = Gestiona més paràmetres
+
+## Customization Menu
+
+# An arrow button that goes back from a sub-panel in the customize panel, such as a wallpaper category, to the main Customize panel.
+newtab-customize-panel-back-button =
+    .aria-label = Torna a la personalització
+    .title = Torna a la personalització
 
 ## New Tab Appearance (browser theme picker)
 
@@ -920,6 +1095,22 @@ feature-highlight-dismiss-button =
 feature-highlight-wallpaper =
     .aria-label = { -newtab-wallpaper-feature-highlight-content }
     .title = { -newtab-wallpaper-feature-highlight-header }
+newtab-wallpaper-firefox-orange = Una guineu a la vora dreta sobre un fons taronja
+newtab-wallpaper-firefox-colorful-sky = Ones de color taronja en un cel nocturn porpra
+newtab-wallpaper-firefox-desert-dark = Una guineu asseguda en un desert porpra fosc
+newtab-wallpaper-firefox-desert-light = Una guineu corre a través d'un desert clar
+newtab-wallpaper-firefox-hills-dark = Una guineu corre per turons foscos
+newtab-wallpaper-firefox-hills-light = Una guineu corre per turons clars
+newtab-wallpaper-firefox-tail-dark = La cua d'una guineu sobre un fons fosc
+newtab-wallpaper-firefox-tail-light = La cua d'una guineu sobre un fons clar
+newtab-wallpaper-firefox-side-kit-dark = Una guineu al costat esquerre, sobre un fons fosc
+newtab-wallpaper-firefox-side-kit-light = Una guineu al costat esquerre, sobre un fons clar
+newtab-wallpaper-firefox-sitting-hill-dark = Una guineu asseguda en uns turons de color porpra fosc
+newtab-wallpaper-firefox-sitting-hill-light = Una guineu asseguda en turons clars
+newtab-wallpaper-firefox-peak-dark = La cara d'una guineu a la vora esquerra, sobre un fons fosc
+newtab-wallpaper-firefox-peak-light = La cara d'una guineu a la vora esquerra, sobre un fons clar
+newtab-wallpaper-firefox-sky-dark = Turons de color porpra fosc sota un cel nocturn
+newtab-wallpaper-firefox-sky-light = Turons clars sota un cel suau
 
 ## Firefox
 
@@ -943,10 +1134,23 @@ newtab-wallpaper-celestial-river = Imatge de satèl·lit d'un riu
 # Variables:
 #   $provider (string) - Service provider for weather data
 newtab-weather-sponsored = { $provider } ∙ Patrocinat
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-weather-widget-open-menu-button =
+    .aria-label = Obre el menú del temps
+    .title = Obre el menú del temps
 newtab-weather-menu-change-location = Canvia la ubicació
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Cerca la ubicació
     .placeholder = Cerca la ubicació
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Enrere
+    .title = Enrere
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Suggeriments d'ubicació
 newtab-weather-cancel-input =
     .aria-label = Cancel·la
     .title = Cancel·la
@@ -1059,6 +1263,8 @@ newtab-section-follow-highlight-subtitle = Seguiu els vostres interessos per a v
 
 newtab-topic-navigation-label =
     .aria-label = Temes
+# Opens a menu listing the topics that did not fit in the row.
+newtab-topic-navigation-more-button = Més
 
 ## Button to block/unblock listed topics
 ## "Block", "unblocked", and "blocked" are social media terms that refer to hiding a section of stories.
@@ -1197,6 +1403,10 @@ newtab-widget-lists-menu-create = Crea una llista nova
 newtab-widget-lists-menu-delete = Suprimeix aquesta llista
 newtab-widget-lists-menu-copy = Copia la llista al porta-retalls
 newtab-widget-lists-menu-learn-more = Més informació
+# "Change" is a verb here: the button switches which list is shown
+newtab-widget-lists-change-list =
+    .aria-label = Canvia la llista
+    .title = Canvia la llista
 newtab-widget-lists-button-add-item = Afegeix un element
 newtab-widget-lists-input-add-an-item2 =
     .aria-label = Afegeix un element
@@ -1212,6 +1422,12 @@ newtab-widget-lists-input-menu-edit2 =
 newtab-widget-lists-edit-clear =
     .aria-label = Cancel·la
     .title = Cancel·la
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+# Lists is a noun, as in "the menu for your lists".
+newtab-widget-lists-open-menu-button =
+    .aria-label = Obre el menú de llistes
+    .title = Obre el menú de llistes
 # the + symbol emphasises the functionality of adding a new list
 newtab-widget-lists-dropdown-create =
     .label = + Crea una llista nova
@@ -1253,6 +1469,11 @@ newtab-widget-section-maximize =
 newtab-widget-section-minimize =
     .aria-label = Minimitza tots els widgets a mida compacta
     .title = Minimitza els widgets
+# Shown on the widgets section header button while the section is
+# auto-minimized to its title row, to open the section back up.
+newtab-widget-section-show-widgets =
+    .aria-label = Mostra la secció de ginys
+    .title = Mostra els ginys
 newtab-widget-section-menu-button =
     .aria-label = Obre el menú dels ginys
     .title = Menú de ginys
@@ -1292,6 +1513,11 @@ newtab-widget-timer-reset =
 newtab-widget-timer-menu-notifications = Desactiva les notificacions
 newtab-widget-timer-menu-notifications-on = Activa les notificacions
 newtab-widget-timer-menu-learn-more = Més informació
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-widget-timer-open-menu-button =
+    .aria-label = Obre el menú del temporitzador
+    .title = Obre el menú del temporitzador
 # The title displays above a set of top news headlines.
 newtab-daily-briefing-card-title = Titulars principals
 newtab-daily-briefing-card-menu-dismiss = Tanca
@@ -1301,6 +1527,14 @@ newtab-daily-briefing-card-timestamp = S'ha actualitzat fa { $minutes } min
 newtab-widget-message-title = Mantingueu la concentració amb les llistes i amb un temporitzador integrat
 # to-dos stands for "things to do".
 newtab-widget-message-copy = Des de recordatoris ràpids fins a tasques diàries pendents, sessions de concentració o pauses d'estirament: manteniu la productivitat i la puntualitat.
+# One spot refers to a dedicated section on new tab to manage and use widgets
+newtab-widget-message-focus-forecasts-title = Un sol lloc per a la concentració, les previsions i molt més
+newtab-widget-message-focus-forecasts-body = Feu que el dia flueixi amb els ginys del { -brand-product-name }. Consulteu la previsió del temps, centreu-vos en la tasca o seguiu l'hora arreu del món.
+# "Make Firefox yours" refers to about:newtab. The call to action here ("Try it now")
+# is to customize the new tab page with a background image or color from
+# the built-in wallpaper collection or uploading your own image.
+newtab-promo-card-title-addons = Personalitzeu el { -brand-product-name }
+newtab-promo-card-body-addons = Trieu un fons de pantalla de la nostra col·lecció o creeu-ne un de propi.
 newtab-promo-card-cta-addons = Proveu-ho ara
 newtab-promo-card-title = Col·laboreu amb el { -brand-product-name }
 newtab-promo-card-body = Els nostres patrocinadors donen suport a la nostra missió de crear un web millor
@@ -1309,8 +1543,26 @@ newtab-promo-card-dismiss-button =
     .aria-label = Ignora
     .title = Ignora
 
+## Crossword widget
+
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-crossword-widget-open-menu-button =
+    .aria-label = Obre el menú de paraules encreuades
+    .title = Obre el menú de paraules encreuades
+
 ## Strings introduced by the Nova redesign of the Timer widget
 
+# Variables:
+#   $minutes (number) - The currently selected timer duration in minutes
+newtab-widget-timer-start-aria =
+    .aria-label =
+        { $minutes ->
+            [one] Inicia el temporitzador de { $minutes } minut
+           *[other] Inicia el temporitzador de { $minutes } minuts
+        }
+newtab-widget-timer-pause-aria =
+    .aria-label = Posa en pausa el temporitzador
 # Variables:
 #   $minutes (number) - The currently selected timer duration in minutes
 newtab-widget-timer-spinbutton-name =
@@ -1319,6 +1571,12 @@ newtab-widget-timer-spinbutton-name =
             [one] { $minutes } minut
            *[other] { $minutes } minuts
         }
+newtab-widget-timer-decrease-min =
+    .title = Disminueix 1 minut
+newtab-widget-timer-increase-min =
+    .title = Augmenta 1 minut
+newtab-widget-timer-mode-group =
+    .aria-label = Mode del temporitzador
 # Small label shown beneath the live time while the focus timer is running or paused.
 newtab-widget-timer-running-focus = Concentració
 # Small label shown beneath the live time while the break timer is running or paused.
@@ -1330,19 +1588,45 @@ newtab-widget-timer-menu-hide = Amaga el temporitzador
 newtab-widget-timer-celebration-heading-focus = Bona feina
 # Heading shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-heading-break = La pausa s'ha acabat
+# Message shown inside the Timer widget after a focus session ends.
+newtab-widget-timer-celebration-message-focus = Necessiteu un descans?
 # Message shown inside the Timer widget after a break session ends.
 newtab-widget-timer-celebration-message-break = A punt per a concentrar-vos?
 
 ##
 
 newtab-sports-widget-menu-follow-teams = Segueix els equips
+newtab-sports-widget-menu-view-schedule = Mostra el calendari
+newtab-sports-widget-menu-view-upcoming = Mostra els pròxims partits
+newtab-sports-widget-menu-view-results = Mostra els resultats
+# Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
+newtab-sports-widget-menu-key-dates = Dates clau
 newtab-sports-widget-menu-learn-more = Més informació
+# “Keep tabs on” is an informal expression meaning to stay updated on, stay informed on, or regularly follow something (in this case, World Cup matches and updates).
+newtab-sports-widget-keep-tabs = Estigueu al corrent de la Copa del Món
+newtab-sports-widget-get-updates = Rebeu actualitzacions de partits en directe i molt més.
 newtab-sports-widget-follow-teams =
     .label = Segueix els equips
+newtab-sports-widget-view-matches =
+    .label = Mostra els partits
+# Variables:
+#   $number (number) - Maximum number of teams a user can choose to follow in the team selection state
+newtab-sports-widget-follow-teams-title =
+    { $number ->
+        [one] Seguiu fins a { $number } equip
+       *[other] Seguiu fins a { $number } equips
+    }
+newtab-sports-widget-choose-wallpaper =
+    .label = Tria un fons de pantalla
 newtab-sports-widget-skip = Omet
+newtab-sports-widget-search-country =
+    .aria-label = Cerca un país
+    .placeholder = Cerca un país
 newtab-sports-widget-cancel = Cancel·la
 newtab-sports-widget-back-button =
     .aria-label = Enrere
+newtab-sports-widget-done-button =
+    .label = Fet
 # Shown in the follow-teams list for a team that has been knocked out of the tournament.
 # Variables:
 #   $teamName (string) - the localized team name (e.g. "Canada").
@@ -1351,6 +1635,17 @@ newtab-sports-widget-view-all =
     .label = Mostra-ho tot
 newtab-sports-widget-show-less =
     .label = Mostra’n menys
+# Toggle that filters the list of teams the user follows
+newtab-sports-widget-followed-only-toggle =
+    .label = Només els equips seguits
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch =
+    .label = Mira
+    .title = Mira en directe
+# Watch is a verb (as in watch matches online).
+newtab-sports-widget-watch-icon =
+    .aria-label = Mira en directe
+    .title = Mira en directe
 newtab-sports-widget-watch-dialog-close =
     .aria-label = Tanca
     .title = Tanca
@@ -1362,6 +1657,17 @@ newtab-sports-widget-watch-stream-free-trial = Prova gratuïta
 newtab-sports-widget-watch-stream-free-paid = Gratuït i de pagament
 # Tag: user must pay to watch (subscription, TV provider, premium plan, or add-on).
 newtab-sports-widget-watch-stream-paid = De pagament
+# Note: provider only streams some matches, not the full tournament.
+newtab-sports-widget-watch-stream-select-games-only = Només alguns partits
+# Heading for the list of streaming services available in the user’s country/region.
+newtab-sports-widget-watch-available-region = Disponible a la vostra regió
+# Heading for the list of streaming services available outside the user’s country/region.
+newtab-sports-widget-watch-available-other-regions = Altres regions
+# Button that opens the provider’s stream page in a new tab.
+newtab-sports-widget-watch-play =
+    .aria-label = Obre la retransmissió
+    .title = Obre la retransmissió
+newtab-sports-widget-group-stage = Fase de grups
 newtab-sports-widget-group-a = Grup A
 newtab-sports-widget-group-b = Grup B
 newtab-sports-widget-group-c = Grup C
@@ -1377,19 +1683,52 @@ newtab-sports-widget-group-l = Grup L
 newtab-sports-widget-round-32 = Setzens de final
 newtab-sports-widget-round-16 = Vuitens de final
 newtab-sports-widget-quarter-finals = Quarts de final
+# The "LIVE" string is meant to be uppercase in English, but other languages and locales may vary in how they handle this.
+newtab-sports-widget-live = EN DIRECTE
+newtab-custom-widget-live-refresh =
+    .aria-label = Actualitza els resultats
+    .title = Actualitza els resultats
 # Milestone dates (e.g. group stage, semifinals, etc.). Refers to calendar dates.
 newtab-sports-widget-key-dates = Dates principals
+newtab-sports-widget-upcoming = Pròxims partits
 # Used for a match currently ongoing
 newtab-sports-widget-now = Ara
+newtab-sports-widget-results = Resultats
+newtab-sports-widget-semi-finals = Semifinals
+newtab-sports-widget-bronze-finals = Partit pel tercer lloc
+# Final is the final match for 1st place.
+newtab-sports-widget-final = Final
 # Variables:
 #   $start (Date) - Start date of a tournament stage
 #   $end (Date) - End date of a tournament stage
 newtab-sports-widget-key-date-range = { DATETIME($start, day: "numeric", month: "short") } – { DATETIME($end, day: "numeric", month: "short") }
+# Variables:
+#   $date (Date) - Date of a single tournament event
+newtab-sports-widget-key-date = { DATETIME($date, day: "numeric", month: "short") }
+newtab-sports-widget-delayed = Endarrerit
+newtab-sports-widget-postponed = Ajornat
+newtab-sports-widget-suspended = Suspès
+newtab-sports-widget-cancelled = Cancel·lat
+newtab-sports-widget-information = Informació sobre el partit
+newtab-sports-widget-no-live-data = Les dades del partit en directe no s'estan actualitzant ara mateix
+newtab-sports-widget-view-results-link = Mostra els resultats
+newtab-sports-widget-third-place = Tercer lloc
 # Runner-up is the team in 2nd place.
 newtab-sports-widget-runner-up = Subcampió
+newtab-sports-widget-champions = Campions
+newtab-sports-widget-world-cup-champions = Campions de la Copa del Món 2026
+# Variables:
+#   $date (Date) - The match start time
+newtab-sports-widget-match-time = { DATETIME($date, hour: "2-digit", minute: "2-digit") }
+newtab-sports-widget-match-full-time = Finalitzat
+newtab-sports-widget-match-halftime = Mitja part
+newtab-sports-widget-match-extra-time = Pròrroga
+newtab-sports-widget-match-penalties = Penals
 # Separator shown between two teams in a placeholder match row when no upcoming
 # match details are available yet.
 newtab-sports-widget-match-vs = contra
+# Note shown in the Upcoming tab when no match details are available yet.
+newtab-sports-widget-no-upcoming-matches = Aviat hi haurà més informació sobre els pròxims partits
 
 ## Sports widget live-games pagination. Shown when 2+ matches are live at the same time
 
@@ -1401,6 +1740,12 @@ newtab-sports-widget-pagination-previous =
 newtab-sports-widget-pagination-next =
     .aria-label = Següent
     .title = Següent
+# Dot indicator that jumps directly to a given live match.
+# $index (number) - 1-based position of this dot in the list.
+# $total (number) - Total number of live matches.
+newtab-sports-widget-pagination-dot =
+    .aria-label = Partit en directe { $index } de { $total }
+    .title = Partit en directe { $index } de { $total }
 
 ## Accessible labels for match rows in the sports widget. These are read by
 ## screen readers to announce the match details and status.
@@ -1408,6 +1753,41 @@ newtab-sports-widget-pagination-next =
 ##   $homeTeam (String) - The full name of the home team (e.g. "Mexico")
 ##   $awayTeam (String) - The full name of the away team (e.g. "Russia")
 
+# A finished match row (regular full-time result).
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+newtab-sports-widget-match-aria-label-results =
+    .aria-label = { $homeTeam }, { $homeScore }, contra { $awayTeam }, { $awayScore }
+# A finished match row that went to a penalty shootout.
+# Parenthesized values are the shootout score.
+# Variables:
+#   $homeScore (number) - The home team's regular-time score
+#   $awayScore (number) - The away team's regular-time score
+#   $homePenalty (number) - The home team's penalty shootout score
+#   $awayPenalty (number) - The away team's penalty shootout score
+newtab-sports-widget-match-aria-label-results-penalties =
+    .aria-label = { $homeTeam }, { $homeScore } ({ $homePenalty }), contra { $awayTeam }, { $awayScore } ({ $awayPenalty })
+# A match that is currently in progress.
+# Variables:
+#   $homeScore (number) - The home team's current score
+#   $awayScore (number) - The away team's current score
+newtab-sports-widget-match-aria-label-now =
+    .aria-label = En directe: { $homeTeam }, { $homeScore }, contra { $awayTeam }, { $awayScore }
+# An upcoming scheduled match row. Announces kickoff time and date.
+# Variables:
+#   $date (Date) - The scheduled kickoff date/time
+newtab-sports-widget-match-aria-label-upcoming =
+    .aria-label = { $homeTeam } contra { $awayTeam }, { DATETIME($date, hour: "numeric", minute: "numeric") }, { DATETIME($date, day: "numeric", month: "long") }
+# An upcoming match row whose status is "delayed".
+newtab-sports-widget-match-aria-label-upcoming-delayed =
+    .aria-label = { $homeTeam } contra { $awayTeam }, endarrerit
+# An upcoming match row whose status is "postponed".
+newtab-sports-widget-match-aria-label-upcoming-postponed =
+    .aria-label = { $homeTeam } contra { $awayTeam }, ajornat
+# An upcoming match row whose status is "suspended".
+newtab-sports-widget-match-aria-label-upcoming-suspended =
+    .aria-label = { $homeTeam } contra { $awayTeam }, suspès
 # An upcoming match row whose status is "cancelled".
 newtab-sports-widget-match-aria-label-upcoming-cancelled =
     .aria-label = { $homeTeam } contra { $awayTeam }, cancel·lat
@@ -1420,16 +1800,29 @@ newtab-sports-widget-team-name-label-bih =
     .label = Bòsnia i Hercegovina
 newtab-sports-widget-team-name-label-civ =
     .label = Costa d’Ivori
+newtab-sports-widget-team-name-label-cod =
+    .label = RD del Congo
 newtab-sports-widget-team-name-label-eng =
     .label = Anglaterra
 newtab-sports-widget-team-name-label-sco =
     .label = Escòcia
+# Placeholder used in a match row's aria-label for an undecided team (shown visually as "--").
+newtab-sports-widget-team-tbd = Per determinar
 
 ## World Cup wallpaper OMC messages
 ## Shown as on-screen messages promoting the World Cup wallpapers.
 
+newtab-sports-widget-message-wallpapers-title = Comenceu la Copa del Món amb fons de pantalla nous
+newtab-sports-widget-message-wallpapers-body = Porteu l'energia dels dies de partit al navegador durant el torneig.
+newtab-sports-widget-message-wallpapers-cta = Tria un fons de pantalla
+newtab-sports-widget-message-wallpapers-semifinals-title = Obteniu un fons de pantalla nou per a les semifinals
+newtab-sports-widget-message-wallpapers-semifinals-body = Prepareu l'escenari per als partits més importants de la Copa del Món.
 newtab-sports-widget-message-add-widgets-cta =
     .label = Afegeix ginys
+newtab-sports-widget-message-day-in-play-title = Mantingueu el ritme del dia amb els ginys del { -brand-product-name }
+newtab-sports-widget-message-day-in-play-body = Seguiu la Copa del Món, centreu-vos en la tasca, consulteu l'hora arreu del món i molt més.
+newtab-sports-widget-message-explore-widgets-cta =
+    .label = Explora els ginys
 
 ## Strings for activation window message variants. In certain experiment configurations,
 ## the strings from these variants may be displayed in a message below the search input
@@ -1439,8 +1832,29 @@ newtab-sports-widget-message-add-widgets-cta =
 newtab-activation-window-message-dismiss-button =
     .aria-label = Tanca
     .title = Tanca
+# "This space" refers to about:newtab. The call to action here ("make it your own")
+# is to customize newtab with a background image or colour, or by tweaking the
+# existing widgetry that appears on it.
+newtab-activation-window-message-customization-focus-header = Feu vostre aquest espai
+newtab-activation-window-message-customization-focus-message = Trieu un fons de pantalla nou, afegiu dreceres als llocs preferits i manteniu-vos al dia dels articles que us interessen.
 newtab-activation-window-message-customization-focus-primary-button =
     .label = Comença a personalitzar
+# "This space" refers to about:newtab. The sentiment of "plays by your rules" is
+# meant to evoke the idea that newtab is malleable and customizable. The call to
+# action is to customize newtab with a background image or colour, or by tweaking
+# the existing widgetry that appears on it.
+newtab-activation-window-message-values-focus-header = Aquest espai segueix les vostres regles
+newtab-activation-window-message-values-focus-message = El { -brand-product-name } us permet navegar com vulgueu, amb una manera més personal de començar el dia a Internet. Feu vostre el { -brand-product-name }.
+
+## Strings for the New Tab customization callout shown at the Nova launch.
+
+# "Put your finishing touch on" means to add the last, personal detail that
+# makes something yours. The call to action is to open the New Tab
+# customization panel and pick a theme or wallpaper.
+newtab-nova-customization-callout-header = Doneu el toc final al { -brand-product-name }
+newtab-nova-customization-callout-message = Exploreu temes clars o foscos i fons de pantalla que fan que el nou { -brand-product-name } sigui més vostre.
+newtab-nova-customization-callout-primary-button =
+    .label = Tria l'aspecte
 
 ## Strings for the Clock widget
 
@@ -1450,6 +1864,43 @@ newtab-clock-widget-menu-learn-more = Més informació
 newtab-clock-widget-menu-edit = Edita els rellotges
 newtab-clock-widget-menu-switch-to-12h = Canvia al format de 12 hores
 newtab-clock-widget-menu-switch-to-24h = Canvia al format de 24 hores
+newtab-clock-widget-label-your-clocks = Els vostres rellotges
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Enrere
+    .title = Enrere
+newtab-clock-widget-search-location-input2 =
+    .aria-label = Cerca una ciutat
+    .placeholder = Cerca una ciutat
+newtab-clock-widget-search-location-input =
+    .aria-label = Cerca una ciutat
+    .label = Ubicació
+    .placeholder = Cerca una ciutat
+# "Nickname (optional)" refers to a custom, user-defined label for a saved location
+# (e.g., "Home", "Office", or "School") to make it easier to recognize.
+# Not to be translated as a legal name, username, or alias used for identity verification.
+newtab-clock-widget-input-nickname =
+    .aria-label = Sobrenom (opcional)
+    .label = Sobrenom (opcional)
+    .placeholder = Afegeix un sobrenom
+# "Add new clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-button-add =
+    .aria-label = Afegeix un rellotge nou
+    .title = Afegeix un rellotge nou
+newtab-clock-widget-button-add-clock = Afegeix
+newtab-clock-widget-button-cancel = Cancel·la
+newtab-clock-widget-button-back =
+    .aria-label = Enrere
+    .title = Enrere
+newtab-clock-widget-button-edit-clock =
+    .aria-label = Edita el rellotge
+    .title = Edita el rellotge
+newtab-clock-widget-button-save = Desa
+newtab-clock-widget-button-remove-clock =
+    .aria-label = Elimina el rellotge
+    .title = Elimina el rellotge
 # Accessible name for a clock row in the "Your clocks" management panel
 # when the row has no user-provided nickname. Read aloud by screen
 # readers when focus lands on the row.
@@ -1463,6 +1914,52 @@ newtab-clock-widget-edit-item =
 #   $nickname (string) - The user-provided nickname for the row.
 newtab-clock-widget-edit-item-with-nickname =
     .aria-label = { $city }, sobrenom: { $nickname }
+newtab-clock-widget-add-clock-form =
+    .aria-label = Afegeix un rellotge
+newtab-clock-widget-edit-clock-form =
+    .aria-label = Edita el rellotge
+# "Search results" is the accessible label for the listbox dropdown that appears
+# below the location search field, listing matching cities as the user types.
+# It means "results of the search", not "search within the results".
+newtab-clock-widget-search-results =
+    .aria-label = Resultats de la cerca
+# Fallback row in the search results that lets the user add a city that is
+# not in the list. $city (String) is the text the user has typed.
+newtab-clock-widget-add-custom = Afegeix «{ $city }» com a rellotge personalitzat
+# Text field for the display name of a user-added custom clock.
+newtab-clock-widget-custom-city-input =
+    .aria-label = Nom de la ciutat
+    .label = Nom de la ciutat
+    .placeholder = Posa un nom al rellotge
+# Searchable time-zone field shown when adding a custom clock. The user
+# types a city they know and picks it to set the clock's time zone.
+newtab-clock-widget-custom-timezone-input =
+    .aria-label = Zona horària
+    .label = Zona horària
+    .placeholder = Cerca per ciutat, zona horària o diferència respecte a l'UTC
+newtab-clock-widget-custom-zone-results =
+    .aria-label = Resultats de zones horàries
+# Shown in the time-zone picker when the search matches no time zones.
+newtab-clock-widget-custom-zone-no-results = No hi ha cap zona horària que coincideixi
+# Returns from the custom clock form back to the city search.
+newtab-clock-widget-custom-back = Enrere
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-clock-widget-open-menu-button =
+    .aria-label = Obre el menú del rellotge
+    .title = Obre el menú del rellotge
+# Shown in place of the search results when the user's query does not match any
+# supported city — e.g. typing a misspelled name or a place not in the IANA
+# time zone list.
+newtab-clock-widget-search-no-results = No hi ha cap coincidència
+# "Open menu for clock" is an icon-only button in the widget toolbar — the
+# attributes are consumed as tooltip/screen-reader label only. The button
+# never renders visible text.
+newtab-clock-widget-menu-button =
+    .aria-label = Obre el menú del rellotge
+    .title = Obre el menú del rellotge
+# $nickname (String) - The user-defined nickname for a saved clock location (e.g., "Home", "Office").
+newtab-clock-widget-label-nickname-with-value = Sobrenom: { $nickname }
 # Curated World Clock city names. The value is the city name shown on the
 # clock; translate to your locale's usual spelling for the city.
 newtab-clock-city-us-new-york = Nova York
