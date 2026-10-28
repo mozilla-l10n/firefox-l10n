@@ -133,11 +133,11 @@ newtab-privacy-menu-learn-more = Tuilleadh eolais
 #   $count (number) - Number of trackers blocked today
 newtab-privacy-trackers-blocked-today =
     { $count ->
-        [one] $count lorgaire blocáilte inniu
-        [two] $count lorgaire blocáilte inniu
-        [few] $count lorgaire blocáilte inniu
-        [many] $count lorgaire blocáilte inniu
-       *[other] $count lorgaire blocáilte inniu
+        [one] { $count } lorgaire blocáilte inniu
+        [two] { $count } lorgaire blocáilte inniu
+        [few] { $count } lorgaire blocáilte inniu
+        [many] { $count } lorgaire blocáilte inniu
+       *[other] { $count } lorgaire blocáilte inniu
     }
 
 ## Privacy widget — informational messages
