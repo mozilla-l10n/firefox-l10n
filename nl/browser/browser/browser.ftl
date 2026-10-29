@@ -1462,6 +1462,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Gegevens wissen en een nieuwe privésessie starten?
+reset-pbm-panel-description3 = Dit wist uw geschiedenis en cookies, en meldt u af bij websites. Uw privévensters worden gesloten en er wordt een nieuw venster geopend.
 reset-pbm-panel-description2 = Hierdoor worden geschiedenis, cookies en alle overige websitegegevens verwijderd zonder uw privévenster te sluiten.
 reset-pbm-panel-always-ask-checkbox =
     .label = Mij altijd vragen
@@ -1497,6 +1498,9 @@ fire-button-panel-confirm-button =
     .label = Alles verwijderen
     .accesskey = A
 fire-button-panel-complete = Navigatiegegevens verwijderd
+fire-button-toolbar-button2 =
+    .label = Sommige of alle gegevens verwijderen
+    .tooltiptext = Een deel van of al uw navigatiegegevens verwijderen
 
 ## Autorefresh blocker
 

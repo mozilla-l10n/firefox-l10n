@@ -142,6 +142,12 @@ permissions-site-notification-desc = De volgende websites hebben gevraagd of ze 
 permissions-site-notification-disable-label =
     .label = Nieuwe verzoeken voor het toestaan van notificaties blokkeren
 permissions-site-notification-disable-desc = Dit voorkomt dat websites die hierboven niet worden vermeld om toestemming voor het sturen van notificaties vragen. Het blokkeren van notificaties kan bepaalde functies van websites verstoren.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Websitenotificaties toestaan wanneer { -brand-short-name } wordt gesloten
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = De notificatie-instellingen van uw besturingssysteem zijn ook van toepassing.
 
 ## Site Permissions - Location
 

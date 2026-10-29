@@ -357,6 +357,8 @@ website-language-heading =
     .label = Websitetaal
 website-preferred-language =
     .label = Voorkeurstalen
+website-language-list =
+    .aria-label = Voorkeurstalen
 website-add-language =
     .label = Taal toevoegen
 website-add-language-button =
@@ -813,6 +815,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Websiteadres(sen)
+home-custom-homepage-list =
+    .aria-label = Websiteadressen
 home-custom-homepage-address =
     .placeholder = Voer adres in
 home-custom-homepage-address-button =
