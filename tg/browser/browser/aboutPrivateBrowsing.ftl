@@ -86,4 +86,7 @@ about-private-browsing-spotlight-basics-title = Асосҳои равзанаи 
 # This is a section header in the Private Window basics spotlight dialog,
 # introducing information about what users should know about Private Windows.
 about-private-browsing-spotlight-basics-what-to-know = Бояд донист
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Муҳофизати иловагии махфият
 about-private-browsing-spotlight-basics-learn-more = Маълумоти бештар

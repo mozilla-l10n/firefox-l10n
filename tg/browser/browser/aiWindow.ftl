@@ -55,6 +55,8 @@ smartbar-placeholder-hint-4 = Ҷустуҷӯ дар Интернет…
 
 ## Mentions
 
+smartbar-mentions-list-no-results-label = Ягон натиҷа ёфт нашуд
+smartbar-mentions-list-tab-groups-label = Гурӯҳҳои охирин
 smartbar-mentions-list-recent-tabs-label = Варақаҳои охирин
 
 ## Context mentions menu toggle button
