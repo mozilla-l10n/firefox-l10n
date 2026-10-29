@@ -357,6 +357,8 @@ website-language-heading =
     .label = Web sitesi dili
 website-preferred-language =
     .label = Tercih edilen diller
+website-language-list =
+    .aria-label = Tercih edilen diller
 website-add-language =
     .label = Dil ekle
 website-add-language-button =
@@ -813,6 +815,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Web sitesi adres(ler)i
+home-custom-homepage-list =
+    .aria-label = Site adresleri
 home-custom-homepage-address =
     .placeholder = Adres yazın
 home-custom-homepage-address-button =
@@ -944,6 +948,8 @@ search-one-click-desc = Anahtar kelimeleri yazmaya başladığınızda adres çu
 search-one-click-header-3 =
     .description = Adres çubuğunda görünecek arama motorlarını ve kısayolları seçin.
     .label = Ek arama motorları
+search-engine-list =
+    .aria-label = Arama motorları ve kısayollar
 update-search-engine-success =
     .message = Arama motoru başarıyla güncellendi
 search-edit-engine-2 =
@@ -1007,6 +1013,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Yeni kapsayıcı ekle
     .accesskey = Y
+containers-list =
+    .aria-label = Kapsayıcılar
 containers-new-tab-check3 =
     .label = Her yeni sekme için kapsayıcı seç
     .accesskey = H
@@ -1398,6 +1406,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Ödeme yöntemlerini yönet
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Otomatik doldurma için cihazda oturum açmayı zorunlu kıl
+    .accesskey = O
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Ödeme yöntemlerini otomatik doldurmak ve yönetmek için cihazdan giriş yapmayı zorunlu tut
     .accesskey = Ö
@@ -1471,6 +1483,28 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
