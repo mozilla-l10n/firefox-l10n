@@ -142,6 +142,12 @@ permissions-site-notification-desc = De folgjende websites hawwe frege oft se jo
 permissions-site-notification-disable-label =
     .label = Nije fersiken foar it tastean fan notifikaasjes blokkearje
 permissions-site-notification-disable-desc = Dit foarkomt dat websites dy’t hjirboppe net fermeld wurde, om tastimming foar it stjoeren fan notifikaasjes freegje. It blokkearjen fan notifikaasjes kin bepaalde funksjes fan websites fersteure.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Websitenotifikaasjes tastean wannear { -brand-short-name } sletten is
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = De notifikaasjeynstellingen fan jo bestjoeringssysteem binne ek fan tapassing.
 
 ## Site Permissions - Location
 

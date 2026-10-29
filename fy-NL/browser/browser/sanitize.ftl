@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Sûnt { $midnightTime }
 clear-time-duration-value-today =
     .label = Hjoed
+clear-time-duration-value-all-time =
+    .label = Altyd
 clear-time-duration-value-everything =
     .label = Alles
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Skiednis
+item-history-and-downloads2 =
+    .label = Navigaasje- en downloadskiednis
+    .accesskey = N
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = List fan besochte websites en downloads
 item-history-and-downloads =
     .label = Navigaasje- en downloadskiednis
     .accesskey = S
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies en websitegegevens
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Meldt jo ôf en kin winkelkarren leechmeitsje
 item-cookies-site-data-description = Kin jo ôfmelde by websites of winkelweintsjes leech meitsje
 item-active-logins =
     .label = Aktive oanmeldingen
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Buffer
     .accesskey = u
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Tydlike bestannen ({ $amount } { $unit })
+    .accesskey = T
+item-cached-content2 =
+    .label = Tydlike bestannen
+    .accesskey = b
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Helpt websites flugger te laden
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Bewarre formuliergegevens
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nammen, e-mailadressen en formulieritems
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Websitemachtigingen en -foarkarren
 item-formdata-description = Wisket saken lykas nammen, e-mailadressen en oare items dy’t jo yn formulieren ynfiere
 item-site-prefs-description = Set jo tastimmingen en websitefoarkarren tebek nei de oarspronklike ynstellingen
 data-section-label = Gegevens
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Bewarre websitegegevens
     .accesskey = g
+sanitize-everything-undo-warning2 = Dit kin net ûngedien makke wurde.
 sanitize-everything-undo-warning = Dizze aksje kin net ûngedien makke wurde.
 window-close =
     .key = w

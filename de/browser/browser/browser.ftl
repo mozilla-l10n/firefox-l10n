@@ -1462,6 +1462,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Daten löschen und eine neue private Sitzung starten?
+reset-pbm-panel-description3 = Dadurch werden Ihre Chronik und Cookies gelöscht und Sie werden von Websites abgemeldet. Ihre Privaten Fenster werden geschlossen und ein neues wird geöffnet.
 reset-pbm-panel-description2 = Dadurch werden Chronik, Cookies und alle anderen Website-Daten gelöscht, ohne Ihr privates Fenster zu schließen.
 reset-pbm-panel-always-ask-checkbox =
     .label = Immer fragen
