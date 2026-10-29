@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = 新增搜尋引擎
     .accesskey = E
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = 開啟動作選單
+    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = 將鏈結傳送至裝置
     .accesskey = D

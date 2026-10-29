@@ -345,6 +345,8 @@ website-language-heading =
     .label = 網站語言
 website-preferred-language =
     .label = 偏好語言
+website-language-list =
+    .aria-label = 偏好語言
 website-add-language =
     .label = 新增語言
 website-add-language-button =
@@ -801,6 +803,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = 網站網址
+home-custom-homepage-list =
+    .aria-label = 網站網址
 home-custom-homepage-address =
     .placeholder = 請輸入網址
 home-custom-homepage-address-button =
@@ -932,6 +936,8 @@ search-one-click-desc = 請選擇當您在網址列或搜尋列輸入關鍵字�
 search-one-click-header-3 =
     .description = 選擇要在網址列顯示哪些搜尋引擎與捷徑。
     .label = 其他搜尋引擎
+search-engine-list =
+    .aria-label = 搜尋引擎與快速鍵
 update-search-engine-success =
     .message = 已成功更新搜尋引擎
 search-edit-engine-2 =
@@ -1387,6 +1393,10 @@ autofill-payment-methods-manage-payments-title =
 autofill-payment-methods-manage-payments-button =
     .label = 管理付款方式
     .accesskey = m
+# This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = 要求裝置登入才能自動填寫
+    .accesskey = o
 # This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = 自動填寫與管理付款資訊時，需進行裝置登入驗證

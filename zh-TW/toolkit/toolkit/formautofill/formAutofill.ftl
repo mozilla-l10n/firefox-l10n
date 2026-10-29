@@ -104,6 +104,32 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## and security codes can be saved.
 
 credit-card-update-payment-method-doorhanger-header = 要更新付款方式嗎？
+credit-card-capture-save-new-payment-method-button =
+    .label = 儲存新的付款方式
+    .accessKey = S
+credit-card-capture-update-payment-method-button =
+    .label = 更新
+    .accessKey = U
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = 要儲存安全碼嗎？
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = 要儲存這筆付款方式嗎？
+credit-card-capture-dismiss-button =
+    .label = 知道了！
+    .accessKey = D
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = 總是儲存安全碼
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = 不要儲存安全碼
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

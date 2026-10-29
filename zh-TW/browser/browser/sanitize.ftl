@@ -65,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = 瀏覽紀錄
+item-history-and-downloads2 =
+    .label = 瀏覽與下載記錄
+    .accesskey = B
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = 造訪過的網站與下載項目清單
 item-history-and-downloads =
     .label = 瀏覽與下載紀錄
     .accesskey = B
@@ -81,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookie 與網站資料
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = 會將您登出網站，也可能清除購物車內容
 item-cookies-site-data-description = 可能會將您登出網站或清空購物車
 item-active-logins =
     .label = 已登入的連線
@@ -88,9 +95,17 @@ item-active-logins =
 item-cache =
     .label = 快取
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = 暫存檔案（{ $amount } { $unit }）
+    .accesskey = f
 item-cached-content2 =
     .label = 暫存檔案
     .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = 讓網站更快載入
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -110,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = 儲存的表單資訊
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = 姓名、電子郵件地址和表單填寫內容
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = 網站權限與偏好設定
 item-formdata-description = 清除您在表單中輸入過的姓名、電子郵件地址與其他資訊
 item-site-prefs-description = 將您的權限與網站偏好設定重設回原始設定
 data-section-label = 資料
@@ -119,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = 離線網站資料
     .accesskey = O
+sanitize-everything-undo-warning2 = 此動作無法復原。
 sanitize-everything-undo-warning = 此動作無法復原。
 window-close =
     .key = w
