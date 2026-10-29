@@ -99,7 +99,7 @@ item-cache =
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size2 =
-    .label = Fichiers temporaires ({ $amount } { $unit })
+    .label = Fichiers temporaires ({ $amount } { $unit })
     .accesskey = F
 item-cached-content2 =
     .label = Fichiers temporaires

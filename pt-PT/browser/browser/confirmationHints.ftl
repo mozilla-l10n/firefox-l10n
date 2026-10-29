@@ -11,6 +11,7 @@ confirmation-hint-password-created = Palavra-passe guardada
 confirmation-hint-password-updated = Palavra-passe atualizada
 confirmation-hint-address-created = Endereço guardado
 confirmation-hint-address-updated = Endereço atualizado
+confirmation-hint-payment-method-saved = Método de pagamento guardado
 confirmation-hint-credit-card-created = Cartão guardado
 confirmation-hint-credit-card-updated = Cartão atualizado
 confirmation-hint-passport-created = Passaporte guardado

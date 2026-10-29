@@ -1462,6 +1462,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Limpar dados e iniciar uma nova sessão privada?
+reset-pbm-panel-description3 = Isto limpa o seu histórico e os cookies, e termina sessões nos sites. As suas Janelas Privadas irão fechar, e uma nova será aberta.
 reset-pbm-panel-description2 = Isto remove o histórico, os cookies e todos os restantes dados dos sites, sem fechar a sua janela privada.
 reset-pbm-panel-always-ask-checkbox =
     .label = Perguntar-me sempre
@@ -1497,6 +1498,9 @@ fire-button-panel-confirm-button =
     .label = Apagar tudo
     .accesskey = A
 fire-button-panel-complete = Dados de navegação apagados
+fire-button-toolbar-button2 =
+    .label = Apagar alguns ou todos os dados
+    .tooltiptext = Apagar alguns ou todos os seus dados de navegação
 
 ## Autorefresh blocker
 
