@@ -345,6 +345,8 @@ website-language-heading =
     .label = 웹 사이트 언어
 website-preferred-language =
     .label = 선호 언어
+website-language-list =
+    .aria-label = 선호 언어
 website-add-language =
     .label = 언어 추가
 website-add-language-button =
@@ -801,6 +803,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = 웹 사이트 주소
+home-custom-homepage-list =
+    .aria-label = 웹 사이트 주소
 home-custom-homepage-address =
     .placeholder = 주소 입력
 home-custom-homepage-address-button =
@@ -928,6 +932,8 @@ search-one-click-desc = 키워드 입력을 시작했을 때 주소 표시줄과
 search-one-click-header-3 =
     .description = 주소 표시줄에 표시할 검색 엔진과 바로 가기를 선택하세요.
     .label = 추가 검색 엔진
+search-engine-list =
+    .aria-label = 검색 엔진 및 바로 가기
 update-search-engine-success =
     .message = 검색 엔진 업데이트 완료
 search-edit-engine-2 =
@@ -991,6 +997,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = 새 컨테이너 추가
     .accesskey = A
+containers-list =
+    .aria-label = 컨테이너
 containers-new-tab-check3 =
     .label = 새 탭마다 컨테이너 선택
     .accesskey = S
@@ -1382,6 +1390,10 @@ autofill-payment-methods-manage-payments-button =
     .label = 결제 수단 관리
     .accesskey = m
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = 자동 채우기를 위해 기기 로그인 필요
+    .accesskey = o
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = 자동 채우기 및 결제 수단 관리에 기기 로그인 요구
     .accesskey = o
@@ -1455,6 +1467,28 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the

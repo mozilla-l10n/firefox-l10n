@@ -1443,6 +1443,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = 要清除資料並重新開始隱私瀏覽階段嗎？
+reset-pbm-panel-description3 = 將清除您的瀏覽紀錄與 Cookie，並將您從網站登出。將關閉您的隱私視窗並重新開啟新視窗。
 reset-pbm-panel-description2 = 不用關閉隱私瀏覽視窗，即可清除瀏覽紀錄、Cookie 以及所有其他網站資料。
 reset-pbm-panel-always-ask-checkbox =
     .label = 每次都問我

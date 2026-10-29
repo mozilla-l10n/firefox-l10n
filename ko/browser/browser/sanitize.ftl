@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = { $midnightTime } 이후
 clear-time-duration-value-today =
     .label = 오늘
+clear-time-duration-value-all-time =
+    .label = 전체 시간
 clear-time-duration-value-everything =
     .label = 전체
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = 기록
+item-history-and-downloads2 =
+    .label = 방문 및 다운로드 기록
+    .accesskey = B
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = 방문한 사이트 및 다운로드 목록
 item-history-and-downloads =
     .label = 방문 및 다운로드 기록
     .accesskey = B
@@ -86,6 +93,9 @@ item-active-logins =
 item-cache =
     .label = 캐시
     .accesskey = a
+item-cached-content2 =
+    .label = 임시 파일
+    .accesskey = f
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +115,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = 저장된 양식 정보
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = 이름, 이메일 및 양식 항목
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = 웹 사이트 권한 및 설정
 item-formdata-description = 이름, 이메일 및 양식에 입력 한 기타 항목과 같은 것을 지움
 item-site-prefs-description = 권한 및 사이트 설정을 원래대로 재설정
 data-section-label = 데이터
@@ -114,6 +128,7 @@ item-site-settings =
 item-offline-apps =
     .label = 오프라인 웹 데이터
     .accesskey = O
+sanitize-everything-undo-warning2 = 이 작업은 되돌릴 수 없습니다.
 sanitize-everything-undo-warning = 이 작업은 취소할 수 없습니다.
 window-close =
     .key = w

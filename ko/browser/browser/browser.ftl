@@ -1460,6 +1460,9 @@ fire-button-panel-confirm-button =
     .label = 모두 삭제
     .accesskey = D
 fire-button-panel-complete = 탐색 데이터 삭제됨
+fire-button-toolbar-button2 =
+    .label = 데이터 일부 또는 모두 삭제
+    .tooltiptext = 탐색 데이터의 일부 또는 모두를 삭제합니다
 
 ## Autorefresh blocker
 

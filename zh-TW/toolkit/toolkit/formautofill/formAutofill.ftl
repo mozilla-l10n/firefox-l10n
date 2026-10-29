@@ -115,10 +115,18 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = 要儲存安全碼嗎？
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } 會加密並儲存這張卡片的安全碼，讓您更快完成結帳。
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = 要儲存這筆付款方式嗎？
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } 會加密並自動填寫您的付款資訊，讓您更快完成結帳。
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } 會加密您的卡號、安全碼，下次即可為您自動填寫。
 credit-card-capture-dismiss-button =
     .label = 知道了！
     .accessKey = D
