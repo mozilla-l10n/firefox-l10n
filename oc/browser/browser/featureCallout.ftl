@@ -82,4 +82,5 @@ sidebar-callout-survey-agree = D’acòrd
 sidebar-callout-survey-disagree = Pas d’acòrd
 sidebar-callout-survey-strongly-disagree = Pas del tot d’acòrd
 sidebar-callout-survey-submit = Mandar
+splitview-onboarding-callout-cta-2 = Ensajatz la vista dividida
 unified-search-callout-primary-label = Seguent

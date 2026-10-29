@@ -132,6 +132,9 @@ urlbar-star-edit-bookmark =
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Marcar aquesta pagina ({ $shortcut })
+urlbar-split-view-button =
+    .aria-label = Vista dividida
+    .tooltiptext = Vista dividida
 
 ## URLbar context menu
 
@@ -475,6 +478,7 @@ urlbar-result-action-search-in-private = Recercar dins una fenèstra privada
 urlbar-result-action-search-w-engine = Recercar amb { $engine }
 urlbar-result-action-sponsored = Esponsorizat
 urlbar-result-action-switch-tab = Anar a l'onglet
+urlbar-result-action-move-tab-to-split-view = Desplaçar a la vista dividida
 urlbar-result-action-visit = Visitar
 # "Switch to tab with container" is used when the target tab is located in a
 # different container.

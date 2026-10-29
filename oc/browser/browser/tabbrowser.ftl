@@ -239,4 +239,28 @@ tab-context-ungroup-tab =
 
 ## Split View
 
+# Open a new tab next to the current tab and display their contents side by side
+tab-context-add-split-view =
+    .label = Apondre una vista dividida
+    .accesskey = A
+# Display the two selected tabs' contents side by side
+tab-context-open-in-split-view =
+    .label = Dobrir en vista dividida
+    .accesskey = D
+# Separate the two split view tabs and display the tabs and their contents as normal
+tab-context-separate-split-view =
+    .label = Separar la vista dividida
+    .accesskey = S
 tab-context-badge-new = Nòu
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the left tab inside of a tab split view
+# "left" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-left = { $label }, vista dividida a esquèrra
+# Split view tabs display their respective contents side by side
+# Displayed within the tooltip on the right tab inside of a tab split view
+# "right" corresponds to the visual position. Translate literally; do not swap for RTL languages.
+# Variables:
+#   $label (String): the text label of the tab visible in the tab strip
+tabbrowser-tab-label-tab-split-view-right = { $label }, vista dividida a drecha

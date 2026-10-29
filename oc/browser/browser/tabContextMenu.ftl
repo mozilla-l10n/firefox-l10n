@@ -119,6 +119,10 @@ tab-context-move-tabs =
            *[other] Desplaçar los onglets
         }
     .accesskey = D
+# Context menu option, highlighting this shows a submenu of potential destinations to move two tabs of a split view together to (tab groups, windows, profiles, start, end, etc.)
+tab-context-move-split-view =
+    .label = Desplaçar la vista dividida a
+    .accesskey = D
 tab-context-unload-n-tabs =
     .label =
         { $tabCount ->

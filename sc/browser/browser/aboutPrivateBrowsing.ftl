@@ -74,3 +74,13 @@ about-private-browsing-nova-info-link = Chie diat pòdere bìdere galu s’ativi
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Sa navigatzione tua no at a èssere sarvada
 about-private-browsing-nova-info-subheader2 = Amus a cantzellare totu is chircas e is identificatziones de sessione cando as a serrare totu is ventanas privadas. Is amparos integrados de { -brand-short-name } sunt ativos inoghe puru, comente su blocu de is sighiduras.
+
+## Strings for the Private Window basics spotlight
+
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing information about what users should know about Private Windows.
+about-private-browsing-spotlight-basics-what-to-know = Ite depes ischire
+# This is a section header in the Private Window basics spotlight dialog,
+# introducing additional privacy protection features available in { -brand-short-name }.
+about-private-browsing-spotlight-basics-more-privacy = Àteras protetziones de riservadesa
+about-private-browsing-spotlight-basics-learn-more = Àteras informatziones
