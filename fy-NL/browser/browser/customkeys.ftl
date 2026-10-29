@@ -17,6 +17,7 @@ customkeys-reset-all = Alle fluchtoetsen nei standertynstellingen weromsette
 customkeys-conflict-confirm = Dizze toets is al tawiisd oan { $conflict }. Wolle jo dizze ferfange?
 customkeys-reset-all-confirm = Binne jo wis dat jo alle fluchtoetsen weromsette wolle nei de standertynstellingen?
 customkeys-file-duplicate-tab = Ljepblêd duplisearje
+customkeys-file-copy-tab-url = Ljepblêd-URL kopiearje
 customkeys-file-focus-search = Fokus op de sykbalke
 customkeys-history-reopen-tab = Lêst sletten ljepblêd opnij iepenje
 customkeys-history-reopen-window = Lêst sletten finster opnij iepenje
@@ -83,6 +84,16 @@ customkeys-key-new =
     .label = Druk op nije toets:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (kin net wizige wurde)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (ynsteld yn macOS-toetseboerdynstellingen)
+       *[other] (ynsteld yn de toetseboerdynstellingen fan jo systeem)
+    }
 
 ## Confirmation dialogs
 

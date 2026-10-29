@@ -74,9 +74,28 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Selektearre tekst kopiearje
     .tooltiptext = Selektearre tekst kopiearje
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Kopiearre
 genai-shortcut-more-actions-button =
     .aria-label = Mear opsjes
     .tooltiptext = Mear opsjes
+genai-more-actions-panel =
+    .aria-label = Kies hokker aksjes jo toane wolle
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = { $provider } freegje
+genai-more-actions-ai-generic =
+    .label = AI freegje
+genai-more-actions-search =
+    .label = Sykje
+genai-more-actions-copy =
+    .label = Kopiearje
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Jo sjogge dit menu as jo tekst selektearje. Besykje Ynstellingen <span data-l10n-name="chevron"></span> en blêdzje om de side opnij te toanen.
+genai-more-actions-manage-settings =
+    .label = Ynstellingen beheare
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = { $provider } freegje
@@ -248,6 +267,11 @@ highlight-to-search-settings-ask-generic =
 # with the default search engine.
 highlight-to-search-settings-search =
     .label = Sykje
+# Checkbox label for one of the actions in the menu that appears when selecting
+# text on a page. "Copy" is a verb: the action copies the selected text to the
+# clipboard.
+highlight-to-search-settings-copy =
+    .label = Kopiearje
 # Title that appears when user is shown the opt-in flow for link previews
 link-preview-optin-title = Mear sjen mei AI?
 # Message that appears when user is shown the opt-in flow for link previews

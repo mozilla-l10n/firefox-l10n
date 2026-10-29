@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Sykmasine tafoegje
     .accesskey = S
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Menu Aksjes ynskeakelje
+    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = Keppeling nei apparaat ferstjoere
     .accesskey = p
