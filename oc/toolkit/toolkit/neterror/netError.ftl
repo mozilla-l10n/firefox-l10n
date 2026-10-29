@@ -29,6 +29,17 @@ neterror-add-exception-button = Totjorn contunhar per aqueste site
 neterror-settings-button = Modificar los paramètres DNS
 neterror-view-certificate-link = Mostrar lo certificat
 
+## Search call-to-action shown on the online dnsNotFound error page when
+## browser.netError.searchCTA.enabled is true. Offers a one-click web search
+## derived from the address that failed to resolve.
+
+# .tooltiptext doubles as the button's accessible description, so it explains
+# that results open in a new tab.
+neterror-search-cta-search-button =
+    .label = Recercar
+    .tooltiptext = Dobrir los resultats de recèrca dins un onglet novèl
+    .accesskey = c
+
 ##
 
 neterror-pref-reset = Sembla que la configuracion actuala de seguretat del ret a provocat aquesta error. Restablir los paramètres per defaut ?

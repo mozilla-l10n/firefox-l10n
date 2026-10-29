@@ -137,6 +137,27 @@ smart-window-grouped-tabs-label =
 # one for the tab group.
 smart-window-default-tab-group-label = Grupu de ischedas
 smart-window-grouped-tabs-row-label = Ischedas agrupadas
+# Action result labels for opened (and grouped) tabs
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-label =
+    { $count ->
+        [one] At abertu un’ischeda
+       *[other] At abertu { $count } ischedas
+    }
+# Variables
+#   $count (number) - Number of tabs opened
+smart-window-opened-tabs-summary-single =
+    { $count ->
+        [one] At abertu un’ischeda.
+       *[other] At abertu { $count } ischedas.
+    }
+smart-window-opened-tabs-row-label = Ischedas abertas
+# Action result labels for switching to a single already-open tab
+smart-window-switched-tab-label = Ischedas cuncambiadas
+# Variables
+#   $title (String) - Title of the tab switched to
+smart-window-switched-tab-summary = Passadu a “{ $title }”.
 # Action result labels for ungrouped tabs
 smart-window-grouped-and-ungrouped-label = Ischedas bogadas dae su grupu
 # Variables
