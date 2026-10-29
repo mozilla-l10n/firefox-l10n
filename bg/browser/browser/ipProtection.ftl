@@ -30,6 +30,7 @@ ipprotection-holiday-promo-title-1 = Вземете неограничен VPN �
 
 ## Panel
 
+unauthenticated-site-rules-message = Контролирайте кои сайтове използват VPN и кои не.
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN е включен за този сайт
     .label = Използвайте VPN за този сайт
@@ -84,6 +85,11 @@ ip-protection-bandwidth-warning-infobar-message-90 = <strong>Данните за
 ip-protection-description-1 =
     .description = Получете допълнителна поверителност, като скриете местоположението си, докато сърфирате.
     .label = Вграден VPN
+# Variables
+#   $maxUsage (number) - The maximum amount of data a user can use in a month (in GB)
+ip-protection-not-opted-in-inclusions-enabled =
+    .heading = Готови ли сте да го изпробвате?
+    .message = Получавайте { $maxUsage } GB безплатни всеки месец и изберете кои сайтове да използват VPN.
 # Variables:
 #   $count (number) - The number of sites saved as VPN exclusions.
 ip-protection-site-exceptions-all-sites-button =
