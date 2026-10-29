@@ -397,12 +397,18 @@ onboarding-checklist-remove-2 = Fjern sjekkliste
 
 tab-groups-onboarding-feature-callout-title = Prøv fanegrupper for mindre rot, og meir fokus
 tab-groups-onboarding-feature-callout-subtitle = Bli organisert ved å dra ei fane oppå ei anna for å opprette den første gruppa di.
+# The text "Search and Manage Tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-create-group-title-4 = Du finn alltid fanegruppene dine i menyen «Søk etter og handsam faner».
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-create-group-title-3 = Finn fanegruppene dine når som helst i List opp alle faner-menyen.
 tab-groups-onboarding-create-group-no-alltabs-button-title = Finn fanegruppene dine ved å søkje etter dei i adresselinja.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-saved-groups-title-4 = Når du lèt att ei fanegruppe, kan du når som helst opne henne på nytt frå menyen «Søk etter og handsam faner».
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-saved-groups-title-3 = Når du lèt att ei fanegruppe, kan du når som helst opne henne på nytt frå List opp alle faner-menyen.
 tab-groups-onboarding-saved-groups-no-alltabs-button-title-2 = Finn dei attlatne gruppene dine ved å søkje etter dei i adresselinja.
+# The text "Search and manage tabs" refers to the string tabs-toolbar-list-all-tabs-2
+tab-groups-onboarding-session-restore-title-3 = Du kan når som helst opne fanegruppene dine på nytt frå menyen «Søk etter og handsam faner».
 # The text "list all tabs" refers to the string tabs-toolbar-list-all-tabs
 tab-groups-onboarding-session-restore-title-2 = Opne fanegruppene dine på nytt frå List opp alle faner-menyen når som helst.
 tab-groups-onboarding-dismiss = OK

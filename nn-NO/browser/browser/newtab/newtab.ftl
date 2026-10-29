@@ -335,6 +335,11 @@ newtab-privacy-message-first-protection-cta = Vis vern
 newtab-stocks-menu-learn-more = Les meir
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Aksjedata er ikkje tilgjengelege.
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Opne finansmenyen
+    .title = Opne finansmenyen
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -452,6 +457,10 @@ newtab-stocks-watchlist-full =
 newtab-picture-header = Dagens bilde · Wikimedia Commons
 # Shorter title shown at the top of the widget, without the source name.
 newtab-picture-header-main = Dagens bilde
+# Title shown at the top of the widget, with the date of the picture shown.
+# $date (Date) - the day Wikimedia Commons featured the picture as its picture
+# of the day, shown in numbers (for example 10/8/2026).
+newtab-picture-header-date = Dagens bilde: { DATETIME($date, day: "numeric", month: "numeric", year: "numeric") }
 # Attribution line shown under the title once a picture loads: an author
 # credit, a link to the picture's source page, and a link to its license.
 # "©" is the copyright symbol.
@@ -470,6 +479,13 @@ newtab-picture-attribution-license =
 newtab-picture-widget-open-menu-button =
     .aria-label = Opne dagens bilde-menyen
     .title = Opne dagens bilde-menyen
+# Button that sets the picture shown in the widget, which may be today’s or the
+# previous day’s, as the New Tab background wallpaper. The button collapses to an
+# icon when not hovered/focused, so .title is its tooltip.
+newtab-picture-set-wallpaper2 =
+    .aria-label = Bruk dette bildet som bakgrunnsbilde
+    .label = Vel bakgrunnsbilde
+    .title = Vel bakgrunnsbilde
 # Button that sets the current picture as the New Tab background wallpaper. The
 # button collapses to an icon when not hovered/focused, so .title is its tooltip.
 newtab-picture-set-wallpaper =
@@ -574,6 +590,11 @@ newtab-travel-menu-learn-more = Les meir
 
 # Widget heading; also the widget's accessible name.
 newtab-solitaire-widget-title = Solitaire
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-solitaire-widget-open-menu-button =
+    .aria-label = Opne kabalmenyen
+    .title = Opne kabalmenyen
 # Context menu item linking to more information about the widget.
 newtab-solitaire-menu-learn-more = Les meir
 
@@ -1126,6 +1147,10 @@ newtab-weather-change-location-search-input-placeholder =
 newtab-weather-search-back-button =
     .aria-label = Tilbake
     .title = Tilbake
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Stadforslag
 newtab-weather-cancel-input =
     .aria-label = Avbryt
     .title = Avbryt

@@ -65,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ਅਤੀਤ
+item-history-and-downloads2 =
+    .label = ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਡਾਊਨਲੋਡ ਦਾ ਅਤੀਤ
+    .accesskey = B
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = ਖੋਲ੍ਹੀਆਂ ਸਾਈਟਾਂ ਅਤੇ ਡਾਊਨਲੋਡ ਦੀ ਸੂਚੀ
 item-history-and-downloads =
     .label = ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ
     .accesskey = B
@@ -81,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = ਤੁਹਾਨੂੰ ਸਾਈਟ ਆਉਟ ਕਰੇਗਾ, ਜਿਸ ਨਾਲ ਖਰੀਦਦਾਰੀ ਕਾਰਟ ਖਾਲੀ ਹੋ ਸਕਦੇ ਹਨ
 item-cookies-site-data-description = ਤੁਹਾਨੂੰ ਸਾਈਟਾਂ ਵਿੱਚ ਸਾਈਨ ਆਉਟ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਜਾਂ ਖਰੀਦਦਾਰੀ ਟੋਕਰੀਆਂ ਖਾਲੀ ਹੋ ਸਕਦੀਆਂ ਹਨ
 item-active-logins =
     .label = ਸਰਗਰਮ ਲਾਗਇਨ
@@ -88,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = ਕੈਸ਼
     .accesskey = A
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = ਆਰਜ਼ੀ ਫ਼ਾਇਲਾਂ ({ $amount } { $unit })
+    .accesskey = f
+item-cached-content2 =
+    .label = ਆਰਜ਼ੀ ਫ਼ਾਇਲਾਂ
+    .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = ਸਾਈਟਾਂ ਨੂੰ ਛੇਤੀ ਲੋਡ ਕਰਨ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -107,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = ਸੰਭਾਲੀ ਫਾਰਮ ਜਾਣਕਾਰੀ
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = ਨਾਂ, ਈਮੇਲ ਅਤੇ ਫਾਰਮ ਐਂਟਰੀਆਂ
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = ਵੈੱਬਸਾਈਟ ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਪਸੰਦਾਂ
 item-formdata-description = ਫਾਰਮਾਂ ਵਿੱਚ ਤੁਹਾਡੇ ਵਲੋਂ ਭਰੇ ਨਾਂ, ਈਮੇਲਾਂ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਮਿਟਾਉਂਦਾ ਹੈ
 item-site-prefs-description = ਆਪਣੀਆਂ ਇਜਾਜ਼ਤਾਂ ਅਤੇ ਸਾਈਟ ਪਸੰਦਾਂ ਨੂੰ ਅਸਲ ਸੈਟਿੰਗਾਂ ਲਈ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 data-section-label = ਮਿਤੀ
@@ -116,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = ਆਫਲਾਈਨ ਵੈੱਬਸਾਈਟ ਡਾਟਾ
     .accesskey = O
+sanitize-everything-undo-warning2 = ਇਸ ਨੂੰ ਵਾਪਸ ਨਹੀਂ ਲਿਆ ਜਾ ਸਕਦਾ ਹੈ।
 sanitize-everything-undo-warning = ਇਹ ਕਾਰਵਾਈ ਵਾਪਿਸ ਨਹੀਂ ਪਰਤਾਈ ਨਹੀਂ ਜਾ ਸਕਦੀ ਹੈ।
 window-close =
     .key = w

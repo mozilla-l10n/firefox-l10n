@@ -20,6 +20,10 @@ mini-window-audio-unmute =
 ## These strings label the buttons on the Screenshots selection overlay while
 ## it is being used to pick the region for a Mini Window.
 
+# Moves the tab to a Mini Window which frames the selected area of the page.
+screenshots-component-mini-window-button = Flytt til minivindauge
+    .aria-label = Flytt til minivindauge
+    .title = Flytt til minivindauge
 # Dismisses the Mini Window selection overlay without moving the tab.
 screenshots-component-mini-window-cancel-button = Avbryt
     .aria-label = Avbryt
@@ -52,3 +56,16 @@ move-to-mini-window =
            *[other] Flytt til minivindauge
         }
     .accesskey = F
+
+## These strings label the Screenshots overlay while it is being used to pick
+## what to move into a Mini Window.
+
+mini-window-overlay-header = Vel ein del av sida som skal halde fram med å vere synleg
+mini-window-overlay-instructions = Dra eller klikk for å velje eit område du vil flytte til eit minivindauge. Det vil halde fram med å vere øvst medan du surfar.
+
+## These strings label the panel that asks what the user wants to move into a
+## Mini Window, shown alongside the Screenshots selection overlay.
+
+mini-window-panel-header = Velg kva som skal flyttast til eit minivindauge
+mini-window-panel-move-selection = Flytt markeringa
+mini-window-panel-move-full-tab = Flytt heile fana

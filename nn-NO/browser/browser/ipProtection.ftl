@@ -380,6 +380,9 @@ ip-protection-site-rule-status-off =
 ip-protection-site-rule-invalid-error = Skriv inn ei gyldig nettstadadresse.
 # Shown below the website field when the typed website already has a rule.
 ip-protection-site-rule-duplicate-error = Denne nettstaden har allereie ein regel.
+# Variables:
+#   $website (string) - The website the rule applies to, e.g. https://example.com
+ip-protection-delete-site-rule-message = Slette regel for { $website }?
 ip-protection-delete-site-rule-cancel =
     .label = Avbryt
 ip-protection-delete-site-rule-confirm =
