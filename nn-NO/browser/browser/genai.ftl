@@ -25,6 +25,9 @@ genai-settings-chat-scout-links = Ved å velje Yahoo Scout godtek du Yahoos <a d
 genai-prompts-summarize =
     .label = Samanfatt
     .value = Samanfatt utvalet med eit presist og konsist språk. Bruk overskrifter og punktlister i samandraget for å gjere det lett å skanne. Hald oppe betydninga og faktanøyaktigheita.
+# Prompt purpose: help users understand what a webpage covers at a glance
+# $url (string) - address of the webpage to summarize
+genai-prompts-summarize-page = Samanfatt nettsida på { $url } med eit presist og konsist språk. Bruk overskrifter og punktlister i oppsummeringa for å gjera ho lett å skumlese. Bevar meiningsinnhaldet og sørg for at opplysningane er korrekte.
 # Prompt purpose: make a selection easier to read
 genai-prompts-simplify =
     .label = Forenkle språket
@@ -77,6 +80,8 @@ genai-shortcut-copy-confirmation = Kopiert
 genai-shortcut-more-actions-button =
     .aria-label = Fleire innstillingar
     .tooltiptext = Fleire innstillingar
+genai-more-actions-panel =
+    .aria-label = Vel kva handlingar som skal visast
 # $provider (string) - name of the chatbot provider
 genai-more-actions-ai-provider =
     .label = Spør { $provider }
@@ -86,6 +91,9 @@ genai-more-actions-search =
     .label = Søk
 genai-more-actions-copy =
     .label = Kopier
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Du vil ikkje sjå denne menyen når du markerer tekst. Gå til «Innstillingar» <span data-l10n-name="chevron"></span> «Faner og nettlesing» for å vise han igjen.
 genai-more-actions-manage-settings =
     .label = Handsam innstillingar
 # $provider (string) - name of the AI chat provider
@@ -243,6 +251,9 @@ link-preview-settings-key-points =
     .label = La KI lese byrjinga av sida og generere hovudpunkt
 link-preview-settings-long-press =
     .label = Snarveg: Klikk og hald inne lenka i 1 sekund (langt trykk)
+highlight-to-search-settings-enable =
+    .description = Få rask tilgang til nyttige handlingar når du markerer innhald.
+    .label = Vis handlingsmenyen når du markerer tekst
 # $provider (string) - name of the AI chatbot provider
 highlight-to-search-settings-ask-provider =
     .label = Spør { $provider }
