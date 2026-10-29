@@ -136,6 +136,8 @@ credit-card-capture-dismiss-button =
 
 credit-card-doorhanger-always-save-security-codes-toggle =
     .label = ਹਮੇਸ਼ਾਂ ਸੁਰੱਖਿਆ ਕੋਡ ਨੂੰ ਸੰਭਾਲੋ
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = ਸੁਰੱਖਿਆ ਕੋਡ ਨੂੰ ਨਾ ਸੰਭਾਲੋ
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
