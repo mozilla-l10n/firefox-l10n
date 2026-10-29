@@ -17,6 +17,7 @@ appmenuitem-banner-update-restart =
     .label = Налично е издание – рестартирайте
 appmenu-nova-switch-device-promo =
     .message = Скоро ще имате ново устройство? Вземете { -brand-short-name } със себе си!
+appmenu-nova-switch-device-link = Как да прехвърлите данните си
 appmenuitem-new-tab =
     .label = Нов раздел
 appmenuitem-new-window =
