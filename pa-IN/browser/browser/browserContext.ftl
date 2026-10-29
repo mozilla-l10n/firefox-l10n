@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = ਖੋਜ ਇੰਜਣ ਨੂੰ ਖੋਜੋ
     .accesskey = S
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = ਕਾਰਵਾਈਆਂ ਮੇਨੂ ਨੂੰ ਚਾਲੂ ਕਰੋ
+    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = ਲਿੰਕ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
     .accesskey = D
