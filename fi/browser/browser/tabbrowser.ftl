@@ -306,7 +306,7 @@ tab-context-move-split-view-to-group =
 tab-context-move-tab-to-group-saved-groups =
     .label = Suljetut ryhmät
 tab-group-editor-action-new-tab =
-    .label = Uusi välilehti ryhmässä
+    .label = Uusi välilehti ryhmään
 tab-group-editor-action-new-window =
     .label = Siirrä ryhmä uuteen ikkunaan
 # Variables:
