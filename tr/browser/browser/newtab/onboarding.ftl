@@ -562,10 +562,14 @@ onboarding-refresh-terms-of-use-with-links = Devam ederek <a data-l10n-name="ter
 onboarding-refresh-data-collection-link = Veri toplama ayarlarını yönet
 onboarding-refresh-primary-button = Devam et
 onboarding-refresh-fro-import-header = Verilerinizi içe aktarın
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Verileriniz sadece sizindir. { -brand-product-name } asla kişisel veri satmaz.
 onboarding-refresh-fro-import-body = Kişisel verileriniz size özel kalır. { -brand-product-name } asla verilerinizi satmaz.
 onboarding-refresh-fro-skip-button = Geç
 onboarding-refresh-fro-theme-header = Görünümünüzü özelleştirin
 onboarding-refresh-tab-layout-header = Başka bir sekme düzeni deneyin
+onboarding-refresh-fro-tab-layout-title = Yeni bir sekme düzeni seçin
 onboarding-refresh-tab-layout-top = Üstte
 onboarding-refresh-tab-layout-side = Yanda
 onboarding-refresh-tab-layout-minimal = Minimal

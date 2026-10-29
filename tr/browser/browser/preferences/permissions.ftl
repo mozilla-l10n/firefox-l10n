@@ -142,6 +142,12 @@ permissions-site-notification-desc = Aşağıdaki web siteleri size bildirim gö
 permissions-site-notification-disable-label =
     .label = Bildirim gönderme isteklerini sormadan engelle
 permissions-site-notification-disable-desc = Yukarıdaki listede bulunmayan hiçbir web sitesi size bildirim gönderme isteğinde bulunamayacaktır. Bildirimleri engellerseniz bazı site özellikleri çalışmayabilir.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = { -brand-short-name } kapalıyken web sitesi bildirimine izin ver
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = İşletim sisteminizin bildirim ayarları da geçerlidir.
 
 ## Site Permissions - Location
 

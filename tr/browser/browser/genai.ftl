@@ -82,10 +82,18 @@ genai-shortcut-more-actions-button =
     .tooltiptext = Diğer seçenekler
 genai-more-actions-panel =
     .aria-label = Gösterilecek işlemleri seçin
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = { $provider } botuna sor
+genai-more-actions-ai-generic =
+    .label = Yapay zekâya sor
 genai-more-actions-search =
     .label = Ara
 genai-more-actions-copy =
     .label = Kopyala
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Metin seçtiğinizde bu menüyü görmeyeceksiniz. Yeniden görmek isterseniz Ayarlar <span data-l10n-name="chevron"></span> Sekmeler ve gezinti sayfasını ziyaret edin.
 genai-more-actions-manage-settings =
     .label = Ayarları yönet
 # $provider (string) - name of the AI chat provider
