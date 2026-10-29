@@ -566,6 +566,7 @@ onboarding-refresh-fro-import-body = Los datos personales se mantienen personale
 onboarding-refresh-fro-skip-button = Omitir
 onboarding-refresh-fro-theme-header = Jugar con la apariencia
 onboarding-refresh-tab-layout-header = Probar un diseño de pestañas diferente
+onboarding-refresh-fro-tab-layout-title = Elegir una nueva disposición de pestañas
 onboarding-refresh-tab-layout-top = Arriba
 onboarding-refresh-tab-layout-side = A un costado
 onboarding-refresh-tab-layout-minimal = Minimalista

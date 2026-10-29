@@ -63,6 +63,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historial
+item-history-and-downloads2 =
+    .label = Historial de navegación y descargas
+    .accesskey = y
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Lista de sitios visitados y descargas
 item-history-and-downloads =
     .label = Historial de descargas y navegación
     .accesskey = H
@@ -79,6 +84,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies y datos del sitio
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Se cerrarán las sesiones y pueden vaciarse los carritos de compras
 item-cookies-site-data-description = Puede cerrar sesión en sitios o vaciar carritos de compras
 item-active-logins =
     .label = Sesiones activas
@@ -86,6 +93,17 @@ item-active-logins =
 item-cache =
     .label = Caché
     .accesskey = A
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Archivos temporales ({ $amount } { $unit })
+    .accesskey = h
+item-cached-content2 =
+    .label = Archivos temporales
+    .accesskey = h
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Ayuda a que los sitios se carguen más rápido
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +123,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Información guardada del formulario
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Nombres, correos electrónicos y entradas de formularios
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Permisos y preferencias de sitios web
 item-formdata-description = Borra cosas como nombres, correos electrónicos y otros elementos ingresados en formularios
 item-site-prefs-description = Restablece los permisos y preferencias del sitio a la configuración original
 data-section-label = Datos
@@ -114,6 +136,7 @@ item-site-settings =
 item-offline-apps =
     .label = Datos de sitios web sin conexión
     .accesskey = O
+sanitize-everything-undo-warning2 = Esto no se puede deshacer.
 sanitize-everything-undo-warning = Esta acción no puede deshacerse.
 window-close =
     .key = w

@@ -80,6 +80,45 @@ autofill-card-security-code-label = CVC
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
 
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-update-payment-method-doorhanger-header = ¿Actualizar método de pago?
+credit-card-capture-save-new-payment-method-button =
+    .label = Guardar nuevo método de pago
+    .accessKey = G
+credit-card-capture-update-payment-method-button =
+    .label = Actualizar
+    .accessKey = u
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = ¿Guardar código de seguridad?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } cifrará y guardará el código de seguridad de esta tarjeta para que el pago sea más rápido.
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = ¿Guardar este método de pago?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } cifra y autocompleta los datos de pago para agilizar la compra.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } cifrará el número de tarjeta y el código de seguridad, y los completará automáticamente la próxima vez.
+credit-card-capture-dismiss-button =
+    .label = Descartar
+    .accessKey = D
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Siempre guardar códigos de seguridad
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = No guardar códigos de seguridad
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
