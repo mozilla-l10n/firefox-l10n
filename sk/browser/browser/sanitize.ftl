@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = od { $midnightTime }
 clear-time-duration-value-today =
     .label = dnes
+clear-time-duration-value-all-time =
+    .label = Celé obdobie
 clear-time-duration-value-everything =
     .label = všetko
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = História
+item-history-and-downloads2 =
+    .label = História prehliadania a sťahovania
+    .accesskey = H
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = História navštívených stránok a stiahnutých súborov
 item-history-and-downloads =
     .label = História prehliadania a zoznam stiahnutých súborov
     .accesskey = H
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Cookies a údaje stránok
     .accesskey = C
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Odhlási vás a môže vyprázdniť nákupné košíky
 item-cookies-site-data-description = Môže vás odhlásiť zo stránok alebo vyprázdniť nákupné košíky
 item-active-logins =
     .label = Aktívne prihlásenia
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Vyrovnávacia pamäť
     .accesskey = V
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Dočasné súbory ({ $amount } { $unit })
+    .accesskey = D
+item-cached-content2 =
+    .label = Dočasné súbory
+    .accesskey = D
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Urýchľuje načítanie stránok
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Uložené údaje zadané do formulárov
     .accesskey = f
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Mená, e‑mailové adresy a údaje z formulárov
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Oprávnenia a nastavenia webových stránok
 item-formdata-description = Vymaže veci, ako sú mená, e‑mailové adresy a ďalšie položky, ktoré zadávate do formulárov
 item-site-prefs-description = Obnoví oprávnenia a predvoľby stránok na pôvodné nastavenia
 data-section-label = Údaje
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Stránky v režime offline
     .accesskey = S
+sanitize-everything-undo-warning2 = Túto akciu nemožno vrátiť späť.
 sanitize-everything-undo-warning = Túto akciu nie je možné vrátiť späť.
 window-close =
     .key = w

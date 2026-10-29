@@ -561,10 +561,14 @@ onboarding-refresh-terms-of-use-with-links = Pokračovaním vyjadrujete súhlas 
 onboarding-refresh-data-collection-link = Spravovať nastavenia zhromažďovania údajov
 onboarding-refresh-primary-button = Pokračovať
 onboarding-refresh-fro-import-header = Používajte svoje údaje
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Naďalej patria vám. { -brand-product-name } osobné údaje nikdy nepredáva.
 onboarding-refresh-fro-import-body = Vaše osobné údaje zostanú súkromné. { -brand-product-name } ich nikdy nepredá.
 onboarding-refresh-fro-skip-button = Preskočiť
 onboarding-refresh-fro-theme-header = Pohrajte sa so vzhľadom
 onboarding-refresh-tab-layout-header = Vyskúšajte si iné rozloženie kariet
+onboarding-refresh-fro-tab-layout-title = Vyberte si nové rozloženie kariet
 onboarding-refresh-tab-layout-top = Hore
 onboarding-refresh-tab-layout-side = Na bočnej strane
 onboarding-refresh-tab-layout-minimal = Úsporné

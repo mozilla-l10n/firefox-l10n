@@ -1516,6 +1516,9 @@ fire-button-panel-confirm-button =
     .label = Odstrániť všetko
     .accesskey = d
 fire-button-panel-complete = Údaje o prehliadaní boli odstránené
+fire-button-toolbar-button2 =
+    .label = Odstrániť niektoré alebo všetky údaje
+    .tooltiptext = Odstrániť niektoré alebo všetky údaje prehliadania
 
 ## Autorefresh blocker
 

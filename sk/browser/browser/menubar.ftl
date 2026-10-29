@@ -271,6 +271,10 @@ menu-bookmarks-other =
     .label = Ostatné záložky
 menu-bookmarks-mobile =
     .label = Záložky mobilného Firefoxu
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Zobraziť ďalšie v bočnom paneli
 
 ## Profiles Menu
 
