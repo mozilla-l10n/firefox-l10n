@@ -145,6 +145,9 @@ permissions-site-notification-disable-desc = Dies wird alle nicht oben aufgefüh
 # Shown only where notifications can be delivered while the browser is closed.
 permissions-site-notification-closed-delivery-label =
     .label = Website-Benachrichtigungen zulassen, wenn { -brand-short-name } geschlossen ist
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Die Benachrichtigungs-Einstellungen Ihres Betriebssystems gelten ebenfalls.
 
 ## Site Permissions - Location
 

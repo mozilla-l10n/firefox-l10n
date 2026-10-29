@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Suchmaschine hinzufügen
     .accesskey = S
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Aktionen-Menü aktivieren
+    .accesskey = A
 main-context-menu-link-send-to-device =
     .label = Link an Gerät senden
     .accesskey = X
