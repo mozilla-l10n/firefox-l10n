@@ -1364,7 +1364,7 @@ forms-windows-sso-desc = Účty môžete spravovať v nastaveniach vášho zaria
 windows-passkey-settings-label = Prístupové kľúče môžete spravovať v nastaveniach systému
 privacy-panel-settings-header =
     .description = Získajte pomoc s ochranou svojich údajov vo { -brand-short-name(case: "loc") }.
-    .label = Nastavenia panela ochrany osobných údajov
+    .label = Nastavenia panela ochrany súkromia
 # By “breach message” we mean the UI messaging shown when Firefox detects that a
 # site the user has interacted with has been involved in a known data breach
 privacy-panel-breach-alerts =

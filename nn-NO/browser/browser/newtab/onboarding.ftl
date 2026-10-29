@@ -561,10 +561,14 @@ onboarding-refresh-terms-of-use-with-links = Ved å halde fram godtek du <a data
 onboarding-refresh-data-collection-link = Handsam innstillingar for datainnsamling
 onboarding-refresh-primary-button = Hald fram
 onboarding-refresh-fro-import-header = Ta med deg dataa dine
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Dataa dine held fram med å vere dine. { -brand-product-name } sel aldri personopplysningar.
 onboarding-refresh-fro-import-body = Personopplysningane dine held fram med å vere personlege. { -brand-product-name } vil aldri selje dei.
 onboarding-refresh-fro-skip-button = Hopp over
 onboarding-refresh-fro-theme-header = Leik med din stil
 onboarding-refresh-tab-layout-header = Prøv ei anna faneutforming
+onboarding-refresh-fro-tab-layout-title = Vel eit nytt faneoppsett
 onboarding-refresh-tab-layout-top = På toppen
 onboarding-refresh-tab-layout-side = På sida
 onboarding-refresh-tab-layout-minimal = Minimal
@@ -626,4 +630,5 @@ welcome-back-onboarding-primary-button-label = Start nettlesinga
 welcome-back-onboarding-secondary-button-label = Sjå kva anna som er nytt
 welcome-back-onboarding-pill-label-vpn = Innebygd VPN
 welcome-back-onboarding-pill-label-pdf = PDF-verktøy
+welcome-back-onboarding-card-label-tabs = Rydd opp med vertikale faner og grupper
 welcome-back-onboarding-card-tilebutton-label = Prøv det

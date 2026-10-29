@@ -60,7 +60,7 @@ protections-panel-content-blocking-fingerprinters-label = Snímanie digitálneho
 
 protections-panel-blocking-label = Zablokované
 protections-panel-not-blocking-label = Povolené
-protections-panel-not-found-label = Nenájdené
+protections-panel-not-found-label = Nič nebolo zistené
 
 ## Smartblock strings
 

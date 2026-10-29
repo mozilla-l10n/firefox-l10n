@@ -1007,6 +1007,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Legg til ny behaldar
     .accesskey = L
+containers-list =
+    .aria-label = Behaldarar
 containers-new-tab-check3 =
     .label = Vel ein behaldar for kvar nye fane
     .accesskey = V
@@ -1462,6 +1464,28 @@ payment-moz-box-item =
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
 # code itself. "CVV" is a common abbreviation for the security code printed on a
 # payment card; use whichever abbreviation is most familiar in your locale.
 # Variables:
@@ -1783,6 +1807,15 @@ permissions-addon-install-warning3 =
 permissions-addon-exceptions2 =
     .label = Vel kva for nokre nettstadar som kan installere utvidingar
     .accesskey = V
+# App links are links that a website can ask to open for you, like email
+# (mailto:) links.
+permissions-allow-app-links =
+    .label = Tillat nettstadar å be om å opne applenker.
+    .accesskey = T
+# Opens the list of sites that are blocked from asking to open app links.
+permissions-app-links-manage-button =
+    .label = Handsam blokkerte nettstadar
+    .accesskey = H
 permissions-location2 =
     .label = Plassering
 permissions-localhost2 =
@@ -1807,6 +1840,8 @@ permissions-data-section =
     .heading = Løyve og data
 pane-permissions-data-title2 = Løyve og data
     .title = Løyve og data
+notifications-section-header =
+    .heading = Varsel
 # Read-only state shown on each row of the website notifications list, in the
 # column headed "Allow notifications". "Always" is used where notifications can
 # also be delivered while Firefox is closed.

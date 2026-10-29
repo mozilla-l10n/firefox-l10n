@@ -1480,6 +1480,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Vymazať údaje a začať novú súkromnú reláciu?
+reset-pbm-panel-description3 = Týmto sa vymaže vaša história a súbory cookie a odhlásite sa zo stránok. Vaše súkromné okná sa zatvoria a otvorí sa nové.
 reset-pbm-panel-description2 = Týmto sa vymaže história, súbory cookie a všetky ostatné údaje stránok bez zatvorenia súkromného okna.
 reset-pbm-panel-always-ask-checkbox =
     .label = Vždy sa opýtať
