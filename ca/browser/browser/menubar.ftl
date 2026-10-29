@@ -270,6 +270,10 @@ menu-bookmarks-other =
     .label = Altres adreces d'interès
 menu-bookmarks-mobile =
     .label = Adreces del mòbil
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Mostra'n més a la barra lateral
 
 ## Profiles Menu
 

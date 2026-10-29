@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = Des de { $midnightTime }
 clear-time-duration-value-today =
     .label = Avui
+clear-time-duration-value-all-time =
+    .label = Tot el temps
 clear-time-duration-value-everything =
     .label = Tot
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historial
+item-history-and-downloads2 =
+    .label = Historial de navegació i baixades
+    .accesskey = H
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Llista de llocs web visitats i de baixades
 item-history-and-downloads =
     .label = Historial de navegació i de baixades
     .accesskey = H
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Galetes i dades dels llocs
     .accesskey = G
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Tanca sessions, i pot buidar els carrets de la compra
 item-cookies-site-data-description = Pot fer que se us tanquin les sessions o que se us buidin els carros de la compra
 item-active-logins =
     .label = Sessions actives
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Memòria cau
     .accesskey = M
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Fitxers temporals ({ $amount } { $unit })
+    .accesskey = F
+item-cached-content2 =
+    .label = Fitxers temporals
+    .accesskey = F
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Ajuda a carregar els llocs web més ràpidament
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Informació de formularis desats
     .accesskey = o
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Noms, correus electrònics i dades de formularis
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Permisos i preferències de llocs web
 item-formdata-description = Esborra informació com ara noms, correus electrònics i altres elements introduïts en formularis
 item-site-prefs-description = Restableix els permisos i les preferències del lloc a la configuració original
 data-section-label = Dades
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Dades de llocs web fora de línia
     .accesskey = D
+sanitize-everything-undo-warning2 = Això no es pot desfer.
 sanitize-everything-undo-warning = Aquesta acció no es pot desfer.
 window-close =
     .key = w
