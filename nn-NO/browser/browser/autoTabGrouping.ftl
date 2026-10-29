@@ -20,12 +20,29 @@ smartwindow-group-tabs-panel-heading = Organiser faner
 smartwindow-group-tabs-loading = Ser etter faner som kan grupperast…
 # Shown when clustering produced no group worth suggesting.
 smartwindow-group-tabs-empty = Ingen fanegrupper å foreslå akkurat no. Prøv igjen seinare.
+# Shown in place of suggestions when every group the model found has already
+# been created.
+smartwindow-group-tabs-all-sorted = Bra jobba med å organisere fanene dine
+# Creates every suggested group at once.
+smartwindow-group-tabs-create-all = Opprett alle gruppene
+smartwindow-group-tabs-suggested-heading = Føreslåtte grupper
 # Accessible name for the flyout that lists the tabs of one suggested group.
 # Activating a tab in the list switches to it.
 # Variables:
 #   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
 smartwindow-group-tabs-flyout-list =
     .aria-label = Faner i { $groupLabel }
+# Accessible name for a suggested-group row. Activating the row creates the
+# group.
+# Variables:
+#   $groupLabel (String) - Name of the suggested group, generated automatically from the tab titles
+#   $tabCount (Number) - Number of tabs the group would contain
+smartwindow-group-tabs-suggestion =
+    .aria-label =
+        { $tabCount ->
+            [one] Opprett gruppa { $groupLabel }, { $tabCount } fane
+           *[other] Opprett gruppa { $groupLabel }, { $tabCount } faner
+        }
 # Heading for the list of groups the user just created (and can still undo).
 smartwindow-group-tabs-just-created-heading = Nettopp oppretta
 # Action that dissolves every group in the "Just created" list. The tabs stay

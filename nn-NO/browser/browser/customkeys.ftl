@@ -17,6 +17,7 @@ customkeys-reset-all = Tilbakestill alle hurtigtastar til standard
 customkeys-conflict-confirm = Denne tasten er allereie tildelt { $conflict }. Vil du erstatte han?
 customkeys-reset-all-confirm = Er du sikker på at du vil stille tilbake alle hurtigtastar til standardinnstilling?
 customkeys-file-duplicate-tab = Dupliser fane
+customkeys-file-copy-tab-url = Kopier fane-URL
 customkeys-file-focus-search = Fokuser på søkjefeltet
 customkeys-history-reopen-tab = Opne siste attlatne fane
 customkeys-history-reopen-window = Opne siste attlatne vindauge
@@ -83,6 +84,16 @@ customkeys-key-new =
     .label = Trykk på ein ny tast:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (kan ikkje endrast)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (angitt i tastaturinnstillingane i macOS)
+       *[other] (angitt i tastaturinnstillingane i systemet)
+    }
 
 ## Confirmation dialogs
 

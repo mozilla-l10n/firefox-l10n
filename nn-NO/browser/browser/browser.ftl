@@ -252,6 +252,9 @@ urlbar-split-view-button =
 urlbar-menuitem-paste-and-go =
     .label = Lim inn og opne
     .accesskey = L
+urlbar-menuitem-paste-and-search =
+    .label = Lim inn og søk
+    .accesskey = s
 
 ## Searchbar context menu
 
@@ -1357,6 +1360,9 @@ tabs-toolbar =
     .aria-label = Nettlesarfaner
 tabs-toolbar-new-tab =
     .label = Ny fane
+tabs-toolbar-list-all-tabs-2 =
+    .label = Søk etter og handsam faner
+    .tooltiptext = Søk etter og handsam faner
 tabs-toolbar-list-all-tabs =
     .label = Vis liste over alle faner
     .tooltiptext = Vis liste over alle faner
@@ -1381,6 +1387,9 @@ filepicker-blocked-infobar = Organisasjonen din har blokkert tilgang til lokale 
 ##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
 ##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
 
+urlbar-addons-shortcut-moved-title = { $searchTabsShortcut } søkjer no etter faner
+urlbar-addons-shortcut-moved-description = Bruk { $addonsShortcut } for å opne utvidingar og tema.
+urlbar-addons-shortcut-moved-change-shortcuts = Handsam hurtigtastar
 urlbar-addons-shortcut-moved-dismiss = Eg forstår
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
@@ -1480,6 +1489,10 @@ fire-button-panel-cancel-button =
 fire-button-panel-confirm-button =
     .label = Slett alle
     .accesskey = S
+fire-button-panel-complete = Nettlesardata sletta
+fire-button-toolbar-button2 =
+    .label = Slett nokre eller alle data
+    .tooltiptext = Slett nokre eller alle nettlesardataa dine
 
 ## Autorefresh blocker
 
