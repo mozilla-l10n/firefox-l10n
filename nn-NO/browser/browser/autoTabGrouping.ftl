@@ -18,6 +18,8 @@ smartwindow-group-tabs-panel-heading = Organiser faner
 # forming new groups from these tabs, not searching for tab groups that already
 # exist.
 smartwindow-group-tabs-loading = Ser etter faner som kan grupperast…
+# Shown when clustering produced no group worth suggesting.
+smartwindow-group-tabs-empty = Ingen fanegrupper å foreslå akkurat no. Prøv igjen seinare.
 # Accessible name for the flyout that lists the tabs of one suggested group.
 # Activating a tab in the list switches to it.
 # Variables:
