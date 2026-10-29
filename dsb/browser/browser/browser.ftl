@@ -1517,6 +1517,9 @@ fire-button-panel-confirm-button =
     .label = Wšykne lašowaś
     .accesskey = W
 fire-button-panel-complete = Daty pśeglědowanja su se wulašowali
+fire-button-toolbar-button2 =
+    .label = Někotare abo wšykne daty lašowaś
+    .tooltiptext = Někotare abo wšykne wašych datow pśeglědowanja lašowaś
 
 ## Autorefresh blocker
 

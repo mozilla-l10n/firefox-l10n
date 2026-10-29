@@ -142,6 +142,12 @@ permissions-site-notification-desc = Slědujuce websedła su pominali wam powě�
 permissions-site-notification-disable-label =
     .label = Nowe pominanja za dowolnosću powěźeńkow blokěrowaś
 permissions-site-notification-disable-desc = To buźo websedłam, kótarež górjejce w lisćinje pódane njejsu, pominanje za słanim powěźeńkow zajźowaś. Gaž powěźeńki blokěrujośo, móžo se staś, až někotare funkcije websedła njefunkcioněruju.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Powěźeńki websedłow dowóliś, gaž se { -brand-short-name } zacynja
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Nastajenja powěźeńkow wašogo źěłowego systema teke płaśe.
 
 ## Site Permissions - Location
 

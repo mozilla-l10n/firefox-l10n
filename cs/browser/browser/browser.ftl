@@ -1560,6 +1560,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Vymazat data a zahájit novou anonymní relaci?
+reset-pbm-panel-description3 = Tímto vymažete historii a cookies a odhlásíte se z webů. Všechna anonymní okna se zavřou a otevře se nové.
 reset-pbm-panel-description2 = Tato akce smaže historii, cookies a všechna další data stránky bez zavření anonymního okna.
 reset-pbm-panel-always-ask-checkbox =
     .label = Vždy se mě zeptat
@@ -1595,6 +1596,9 @@ fire-button-panel-confirm-button =
     .label = Smazat vše
     .accesskey = S
 fire-button-panel-complete = Data o prohlížení byla smazána
+fire-button-toolbar-button2 =
+    .label = Smazat některá nebo všechna data
+    .tooltiptext = Smaže některé nebo všechny údaje o prohlížení
 
 ## Autorefresh blocker
 

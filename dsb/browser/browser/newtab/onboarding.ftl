@@ -566,6 +566,7 @@ onboarding-refresh-fro-import-body = Waše wósobinske daty wósobinske wóstawa
 onboarding-refresh-fro-skip-button = Pśeskócyś
 onboarding-refresh-fro-theme-header = Grajśo ze swójim naglědom
 onboarding-refresh-tab-layout-header = Wopytajśo druge wugótowanje rejtarikow
+onboarding-refresh-fro-tab-layout-title = Nowe wugótowanje rejtarikow wubraś
 onboarding-refresh-tab-layout-top = Górjejce
 onboarding-refresh-tab-layout-side = Na boku
 onboarding-refresh-tab-layout-minimal = Minimalny
