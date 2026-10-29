@@ -66,7 +66,7 @@ clear-time-duration-suffix =
 
 history-section-label = 기록
 item-history-and-downloads2 =
-    .label = 방문 및 다운로드 기록
+    .label = 탐색 및 다운로드 기록
     .accesskey = B
 # Description for the "Browsing and downloads history" item, which can be selected for deletion
 item-history-and-downloads-description3 = 방문한 사이트 및 다운로드 목록

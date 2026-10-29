@@ -1425,6 +1425,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = 데이터를 지우고 사생활 보호 세션을 새로 시작하시겠습니까?
+reset-pbm-panel-description3 = 기록과 쿠키를 지우고 사이트에서 로그아웃됩니다. 사생활 보호 창이 닫히고 새 창이 열립니다.
 reset-pbm-panel-description2 = 사생활 보호 창을 닫지 않고, 기록, 쿠키 및 기타 모든 사이트 데이터를 삭제합니다.
 reset-pbm-panel-always-ask-checkbox =
     .label = 항상 묻기
