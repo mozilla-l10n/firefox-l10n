@@ -135,7 +135,7 @@ credit-card-capture-dismiss-button =
 ## current state: whether security codes are saved or not.
 
 credit-card-doorhanger-always-save-security-codes-toggle =
-    .label = Vždy ukladať bezpečnostné kódy
+    .label = Bezpečnostné kódy vždy ukladať
 credit-card-doorhanger-dont-save-security-codes-toggle =
     .label = Bezpečnostné kódy nikdy neukladať
 

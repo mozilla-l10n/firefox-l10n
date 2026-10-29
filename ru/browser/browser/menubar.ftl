@@ -271,6 +271,10 @@ menu-bookmarks-other =
     .label = Другие закладки
 menu-bookmarks-mobile =
     .label = Мобильные закладки
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Показать больше на боковой панели
 
 ## Profiles Menu
 

@@ -1472,6 +1472,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Удалить данные и начать новый приватный сеанс?
+reset-pbm-panel-description3 = Это действие удалит вашу историю и куки, а также выйдет из-под пользователя на сайтах. Ваши приватные окна закроются и откроется новое.
 reset-pbm-panel-description2 = Это действие удалит историю, куки и все другие данные сайтов, не закрывая ваше приватное окно.
 reset-pbm-panel-always-ask-checkbox =
     .label = Всегда спрашивать меня
@@ -1507,6 +1508,9 @@ fire-button-panel-confirm-button =
     .label = Удалить все
     .accesskey = В
 fire-button-panel-complete = Данные просмотра удалены
+fire-button-toolbar-button2 =
+    .label = Удалить некоторые или все данные
+    .tooltiptext = Удалить некоторые или все данные вашего веб-сёрфинга
 
 ## Autorefresh blocker
 
