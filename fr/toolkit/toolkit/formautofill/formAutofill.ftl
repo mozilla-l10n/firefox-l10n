@@ -103,9 +103,9 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
-credit-card-update-payment-method-doorhanger-header = Mettre à jour ce mode de paiement ?
+credit-card-update-payment-method-doorhanger-header = Mettre à jour ce moyen de paiement ?
 credit-card-capture-save-new-payment-method-button =
-    .label = Enregistrer le nouveau mode de paiement
+    .label = Enregistrer le nouveau moyen de paiement
     .accessKey = E
 credit-card-capture-update-payment-method-button =
     .label = Mettre à jour
@@ -120,11 +120,11 @@ credit-card-save-security-code-doorhanger-description = { -brand-short-name } ch
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
-credit-card-save-payment-method-doorhanger-header = Enregistrer ce mode de paiement ?
+credit-card-save-payment-method-doorhanger-header = Enregistrer ce moyen de paiement ?
 # Used when the security code won't be saved, because saving security codes
 # is turned off or the form didn't include one.
 # “Checkout” refers to the payment stage on websites.
-credit-card-save-payment-method-doorhanger-description = { -brand-short-name } chiffre et remplissez automatiquement vos informations de paiement pour accélérer le règlement.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } chiffre et renseigne automatiquement vos informations de paiement pour accélérer vos achats en ligne.
 # Used when the security code will be saved along with the card.
 credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } chiffrera votre numéro de carte et le code de sécurité et les remplira pour vous la prochaine fois.
 credit-card-capture-dismiss-button =
