@@ -1460,6 +1460,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Veriler temizlenip yeni bir gizli oturum başlatılsın mı?
+reset-pbm-panel-description3 = Bu işlem, geçmişinizi ve çerezlerinizi temizleyip sitelerdeki oturumlarınızı kapatır. Gizli pencereleriniz kapanır ve yeni bir gizli pencere açılır.
 reset-pbm-panel-description2 = Bu işlem, gizli pencerenizi kapatmadan geçmişi, çerezleri ve tüm site verilerini siler.
 reset-pbm-panel-always-ask-checkbox =
     .label = Her zaman sor
@@ -1495,6 +1496,9 @@ fire-button-panel-confirm-button =
     .label = Tümünü sil
     .accesskey = T
 fire-button-panel-complete = Gezinti verileri silindi
+fire-button-toolbar-button2 =
+    .label = Verilerin bir kısmını veya tamamını sil
+    .tooltiptext = Gezinti verilerimin bir kısmını veya tamamını sil
 
 ## Autorefresh blocker
 
