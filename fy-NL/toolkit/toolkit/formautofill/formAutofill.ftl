@@ -125,6 +125,19 @@ credit-card-save-payment-method-doorhanger-header = Dizze betellingsmetoade bewa
 # is turned off or the form didn't include one.
 # “Checkout” refers to the payment stage on websites.
 credit-card-save-payment-method-doorhanger-description = { -brand-short-name } fersiferet en follet jo betellingsgegevens automatysk yn foar flugger ôfrekkenjen.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } fersiferet jo kaartnûmer en jo befeiligingskoade en follet dizze de folgjende kear automatysk foar jo yn.
+credit-card-capture-dismiss-button =
+    .label = Slute
+    .accessKey = S
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Befeiligingskoaden altyd bewarje
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Befeiligingskoaden net bewarje
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

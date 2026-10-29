@@ -106,6 +106,19 @@ neterror-dns-not-found-offline-hint-different-device = Probearje ferbining te me
 neterror-dns-not-found-offline-hint-modem = Kontrolearje jo modem of router.
 neterror-dns-not-found-offline-hint-reconnect = Ferbrek de ferbining ferbyn opnij mei wifi.
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = Der wurde op poarte { $port } gjin ferbiningen akseptearre. Kontrolearje oft jo lokale server aktyf is.
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = As dizze aktyf is, kontrolearje dan of dizze poarte { $port } brûkt.
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = Kontrolearje oft de server ferbiningen op dit adres akseptearret. Guon servers harkje allinnich op [::1] of allinnich op 127.0.0.1.
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.

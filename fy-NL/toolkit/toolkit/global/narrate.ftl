@@ -23,6 +23,9 @@ narrate-skip-next =
 
 # Header for the read aloud menu.
 narrate-header = Hurdop foarlêze
+narrate-rate-input =
+    .aria-label = Kies in snelheid fan sprutsen tekst fan -100 oant 100, wêrby 0 de standertsnelheid is.
+    .title = Snelheid
 narrate-rate-slow =
     .title = Foarlêzen fertrage
 narrate-rate-fast =
