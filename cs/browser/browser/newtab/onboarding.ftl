@@ -800,6 +800,7 @@ onboarding-refresh-fro-import-body = Vaše osobní údaje zůstanou soukromé. {
 onboarding-refresh-fro-skip-button = Přeskočit
 onboarding-refresh-fro-theme-header = Přizpůsobte si vzhled
 onboarding-refresh-tab-layout-header = Vyzkoušejte jiné uspořádání panelů
+onboarding-refresh-fro-tab-layout-title = Vyberte nové rozložení panelů
 onboarding-refresh-tab-layout-top = Nahoře
 onboarding-refresh-tab-layout-side = Na straně
 onboarding-refresh-tab-layout-minimal = Úsporné

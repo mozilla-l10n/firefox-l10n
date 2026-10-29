@@ -408,6 +408,8 @@ website-language-heading =
     .label = Jazyk webových stránek
 website-preferred-language =
     .label = Preferované jazyky
+website-language-list =
+    .aria-label = Preferované jazyky
 website-add-language =
     .label = Přidat jazyk
 website-add-language-button =
@@ -910,6 +912,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Adresy webových stránek
+home-custom-homepage-list =
+    .aria-label = Webové adresy
 home-custom-homepage-address =
     .placeholder = Zadejte webovou adresu
 home-custom-homepage-address-button =
@@ -1054,6 +1058,8 @@ search-one-click-desc = Vyberte další vyhledávače, které se zobrazí v nab�
 search-one-click-header-3 =
     .description = Vyberte si vyhledávače a zkratky, které se zobrazí ve vašem adresním řádku.
     .label = Další vyhledávače
+search-engine-list =
+    .aria-label = Vyhledávače a zkratky
 update-search-engine-success =
     .message = Vyhledávač byl úspěšně aktualizován
 search-edit-engine-2 =
@@ -1117,6 +1123,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Přidat nový kontejner
     .accesskey = P
+containers-list =
+    .aria-label = Kontejnery
 containers-new-tab-check3 =
     .label = Zobrazit výběr kontejneru pro každý nový panel
     .accesskey = Z
@@ -1508,6 +1516,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Spravovat platební metody
     .accesskey = S
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Pro automatické vyplňování vyžadovat přihlášení ze zařízení
+    .accesskey = v
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = K automatickému vyplnění a správě platebních metod vyžadovat přihlášení se na zařízení
     .accesskey = v
@@ -1581,6 +1593,28 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the

@@ -58,6 +58,8 @@ clear-time-duration-value-since-midnight =
     .label = Od { $midnightTime }
 clear-time-duration-value-today =
     .label = Dnes
+clear-time-duration-value-all-time =
+    .label = Po celou dobu
 clear-time-duration-value-everything =
     .label = Vše
 clear-time-duration-suffix =
@@ -67,6 +69,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historii
+item-history-and-downloads2 =
+    .label = Historie prohlížení a stahování
+    .accesskey = H
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Historie navštívených stránek a stažených souborů
 item-history-and-downloads =
     .label = Historie prohlížení a stahování
     .accesskey = H
@@ -93,6 +100,17 @@ item-cache =
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Dočasné soubory ({ $amount } { $unit })
+    .accesskey = D
+item-cached-content2 =
+    .label = Dočasné soubory
+    .accesskey = D
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Pomáhá stránkám načítat se rychleji
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
     .label = Soubory a stránky dočasně uložené v mezipaměti ({ $amount } { $unit })
     .accesskey = S
@@ -109,6 +127,8 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Uložené údaje z formulářů
     .accesskey = o
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Oprávnění a předvolby webových stránek
 item-formdata-description = Vymaže jména, e-mailové adresy a další informace, které jste zadali do formulářů
 item-site-prefs-description = Obnoví výchozí nastavení oprávnění a zruší individuální nastavení webů
 data-section-label = Data

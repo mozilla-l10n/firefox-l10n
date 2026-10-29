@@ -126,6 +126,12 @@ autofill-card-expires-year-2 =
     .label = Konec platnosti: rok
 autofill-card-billing-address-2 =
     .label = Fakturační adresa
+# Variables:
+#   $securityCode (String): The name of the card's security code, which depends
+#     on the card network (for example "CVV", or "Security code" when the
+#     network isn't known yet)
+autofill-card-security-code-optional-2 =
+    .label = { $securityCode } (volitelné)
 # "CVV" is a common abbreviation for the security code printed on a payment
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-optional =

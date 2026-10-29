@@ -65,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historija
+item-history-and-downloads2 =
+    .label = Historija pśeglědowanja a zešěgnjenjow
+    .accesskey = H
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Lisćina woglědanych sedłow a ześěgnjenjow
 item-history-and-downloads =
     .label = Pśeglědowańska a ześěgnjeńska historija
     .accesskey = P
@@ -91,6 +96,15 @@ item-cache =
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Temporarne dataje ({ $amount } { $unit })
+    .accesskey = d
+item-cached-content2 =
+    .label = Temporarne dataje
+    .accesskey = d
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
     .label = Nachylu pufrowane dataje a boki ({ $amount } { $unit })
     .accesskey = a
@@ -107,6 +121,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Skłaźone formularowe informacije
     .accesskey = f
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Mjenja, e-mailowe adrese a zapiski formularow
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Pšawa a nastajenja websedłow
 item-formdata-description = Lašujo wěcy ako mjenja, e-mailowe adrese a druge zapiski, kótarež do formularow zapódawaśo
 item-site-prefs-description = Staja waše pšawa a nastajenja sedła na spócetne nastajenja slědk
 data-section-label = Daty
@@ -116,6 +134,7 @@ item-site-settings =
 item-offline-apps =
     .label = Daty websedła offline
     .accesskey = D
+sanitize-everything-undo-warning2 = To njedajo se anulěrowaś.
 sanitize-everything-undo-warning = Toś ta akcija njedajo se anulěrowaś.
 window-close =
     .key = w

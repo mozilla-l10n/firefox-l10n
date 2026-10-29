@@ -42,6 +42,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Nyní ne
     .accessKey = N
+credit-card-capture-never-save-payment-methods-button =
+    .label = Platební metody nikdy neukládat
+    .accessKey = P
 credit-card-capture-never-save-button =
     .label = Nikdy neukládat karty
     .accessKey = N
@@ -115,6 +118,7 @@ credit-card-save-security-code-doorhanger-header = Uložit bezpečnostní kód?
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
+credit-card-save-payment-method-doorhanger-header = Uložit tuto platební metodu?
 credit-card-capture-dismiss-button =
     .label = Zavřít
     .accessKey = Z
