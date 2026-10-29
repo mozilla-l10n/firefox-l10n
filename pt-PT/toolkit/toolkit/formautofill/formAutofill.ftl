@@ -42,6 +42,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Agora não
     .accessKey = n
+credit-card-capture-never-save-payment-methods-button =
+    .label = Nunca guardar métodos de pagamento
+    .accessKey = N
 credit-card-capture-never-save-button =
     .label = Nunca guardar cartões
     .accessKey = N
@@ -65,6 +68,18 @@ autofill-manage-payment-methods-label = Gerir métodos de pagamento
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
 
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = CID
+# Used for any other card network, or when the network isn't known.
+credit-card-security-code-name-other = Código de segurança
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
@@ -79,6 +94,50 @@ autofill-card-security-code-label = CVC
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-update-payment-method-doorhanger-header = Atualizar método de pagamento?
+credit-card-capture-save-new-payment-method-button =
+    .label = Guardar novo método de pagamento
+    .accessKey = G
+credit-card-capture-update-payment-method-button =
+    .label = Atualizar
+    .accessKey = A
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Guardar código de segurança?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = O { -brand-short-name } irá encriptar e guardar o seu código de segurança para este cartão para agilizar o pagamento.
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Guardar este método de pagamento?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = O { -brand-short-name } encripta e preenche automaticamente os seus detalhes de pagamento para pagamentos mais rápidos.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = O { -brand-short-name } irá encriptar o número do seu cartão e código de segurança e preenche-los por si da próxima vez.
+credit-card-capture-dismiss-button =
+    .label = Dispensar
+    .accessKey = D
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Guardar sempre códigos de segurança
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Não guardar códigos de segurança
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

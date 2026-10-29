@@ -566,6 +566,7 @@ onboarding-refresh-fro-import-body = Os seus dados pessoais permanecem pessoais.
 onboarding-refresh-fro-skip-button = Saltar
 onboarding-refresh-fro-theme-header = Experimente mudar o seu visual
 onboarding-refresh-tab-layout-header = Experimente uma disposição de separadores diferente
+onboarding-refresh-fro-tab-layout-title = Escolha uma disposição para novo separador
 onboarding-refresh-tab-layout-top = No topo
 onboarding-refresh-tab-layout-side = Ao lado
 onboarding-refresh-tab-layout-minimal = Minimalista
