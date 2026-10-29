@@ -269,6 +269,10 @@ menu-bookmarks-other =
     .label = Weitere Lesezeichen
 menu-bookmarks-mobile =
     .label = Mobile Lesezeichen
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Weitere Ergebnisse in der Sidebar anzeigen
 
 ## Profiles Menu
 

@@ -142,6 +142,9 @@ permissions-site-notification-desc = Die folgenden Websites haben um Erlaubnis a
 permissions-site-notification-disable-label =
     .label = Neue Anfragen zum Anzeigen von Benachrichtigungen blockieren
 permissions-site-notification-disable-desc = Dies wird alle nicht oben aufgeführten Websites daran hindern, um die Erlaubnis zum Anzeigen von Benachrichtigungen anzufragen. Durch das Blockieren von Benachrichtigungen können einige Funktionen von Webseiten nicht mehr funktionieren.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Website-Benachrichtigungen zulassen, wenn { -brand-short-name } geschlossen ist
 
 ## Site Permissions - Location
 

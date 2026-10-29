@@ -1498,6 +1498,9 @@ fire-button-panel-confirm-button =
     .label = Alle löschen
     .accesskey = l
 fire-button-panel-complete = Surf-Daten gelöscht
+fire-button-toolbar-button2 =
+    .label = Einige oder alle Daten löschen
+    .tooltiptext = Löschen Sie einige oder alle Ihrer Surf-Daten
 
 ## Autorefresh blocker
 

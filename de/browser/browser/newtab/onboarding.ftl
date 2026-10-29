@@ -562,10 +562,14 @@ onboarding-refresh-terms-of-use-with-links = Indem Sie fortfahren, stimmen Sie d
 onboarding-refresh-data-collection-link = Einstellungen zur Datenerhebung verwalten
 onboarding-refresh-primary-button = Weiter
 onboarding-refresh-fro-import-header = Geben Sie Ihre Daten ein
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Ihre Daten bleiben Ihre. { -brand-product-name } verkauft niemals personenbezogene Daten.
 onboarding-refresh-fro-import-body = Ihre persönlichen Daten bleiben privat. { -brand-product-name } wird sie niemals verkaufen.
 onboarding-refresh-fro-skip-button = Überspringen
 onboarding-refresh-fro-theme-header = Gestalten Sie Ihren Look
 onboarding-refresh-tab-layout-header = Probieren Sie ein anderes Tab-Layout aus
+onboarding-refresh-fro-tab-layout-title = Wählen Sie ein neues Tab-Layout
 onboarding-refresh-tab-layout-top = Oben
 onboarding-refresh-tab-layout-side = An der Seite
 onboarding-refresh-tab-layout-minimal = Minimalistisch
