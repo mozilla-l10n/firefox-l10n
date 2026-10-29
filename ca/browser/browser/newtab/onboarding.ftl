@@ -561,10 +561,14 @@ onboarding-refresh-terms-of-use-with-links = En continuar, accepteu les <a data-
 onboarding-refresh-data-collection-link = Gestiona la configuració de la recollida de dades
 onboarding-refresh-primary-button = Continua
 onboarding-refresh-fro-import-header = Importeu les vostres dades
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Continuen sent vostres. El { -brand-product-name } no ven mai dades personals.
 onboarding-refresh-fro-import-body = Les vostres dades personals continuen sent personals. El { -brand-product-name } no les vendrà mai.
 onboarding-refresh-fro-skip-button = Omet
 onboarding-refresh-fro-theme-header = Personalitzeu-ne l'aspecte
 onboarding-refresh-tab-layout-header = Proveu una disposició de pestanyes diferent
+onboarding-refresh-fro-tab-layout-title = Trieu una disposició de pestanyes nova
 onboarding-refresh-tab-layout-top = A dalt
 onboarding-refresh-tab-layout-side = Al costat
 onboarding-refresh-tab-layout-minimal = Minimalista
