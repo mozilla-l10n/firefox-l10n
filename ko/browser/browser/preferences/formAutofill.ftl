@@ -122,6 +122,12 @@ autofill-card-expires-year-2 =
     .label = 만료년
 autofill-card-billing-address-2 =
     .label = 청구 주소
+# Variables:
+#   $securityCode (String): The name of the card's security code, which depends
+#     on the card network (for example "CVV", or "Security code" when the
+#     network isn't known yet)
+autofill-card-security-code-optional-2 =
+    .label = { $securityCode } (선택 사항)
 # "CVV" is a common abbreviation for the security code printed on a payment
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-optional =

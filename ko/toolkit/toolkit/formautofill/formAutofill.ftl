@@ -115,6 +115,29 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = 보안 코드를 저장하시겠습니까?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name }가 이 카드의 보안 코드를 암호화하고 저장하므로 결제가 더 빨라집니다.
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = 이 결제 수단을 저장하시겠습니까?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name }는 더 빠른 체크아웃을 위해 결제 세부 정보를 암호화하고 자동으로 채웁니다.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name }가 카드 번호와 보안 코드를 암호화하고 다음 번에 이를 채워줍니다.
+credit-card-capture-dismiss-button =
+    .label = 닫기
+    .accessKey = D
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = 항상 보안 코드를 저장
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = 보안 코드를 저장하지 않음
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

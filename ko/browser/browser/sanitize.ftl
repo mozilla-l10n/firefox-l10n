@@ -93,6 +93,12 @@ item-active-logins =
 item-cache =
     .label = 캐시
     .accesskey = a
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = 임시 파일 ({ $amount } { $unit })
+    .accesskey = f
 item-cached-content2 =
     .label = 임시 파일
     .accesskey = f

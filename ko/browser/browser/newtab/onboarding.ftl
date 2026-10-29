@@ -561,10 +561,14 @@ onboarding-refresh-terms-of-use-with-links = 계속하시면 <a data-l10n-name="
 onboarding-refresh-data-collection-link = 데이터 수집 설정 관리
 onboarding-refresh-primary-button = 계속
 onboarding-refresh-fro-import-header = 데이터 가져오기
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = { -brand-product-name }는 개인 데이터를 절대 판매하지 않습니다.
 onboarding-refresh-fro-import-body = 개인 정보는 철저히 보호됩니다. { -brand-product-name }는 이를 판매하지 않습니다.
 onboarding-refresh-fro-skip-button = 건너뛰기
 onboarding-refresh-fro-theme-header = 나만의 스타일로 꾸며 보세요
 onboarding-refresh-tab-layout-header = 다른 탭 레이아웃 사용해보기
+onboarding-refresh-fro-tab-layout-title = 새 탭 레이아웃 선택
 onboarding-refresh-tab-layout-top = 위에
 onboarding-refresh-tab-layout-side = 옆에
 onboarding-refresh-tab-layout-minimal = 미니멀

@@ -142,6 +142,12 @@ permissions-site-notification-desc = 다음 웹사이트에서 알림을 보내�
 permissions-site-notification-disable-label =
     .label = 새 알림 허용 요청을 차단
 permissions-site-notification-disable-desc = 위 목록에 포함되지 않은 사이트는 알림 허용 요청을 차단합니다. 알림을 차단하면 어떤 웹 사이트에서는 기능이 정상적으로 작동하지 않을 수 있습니다.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = { -brand-short-name }가 닫혔을 때 웹 사이트 알림 허용
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = 사용자 OS 알림 설정도 적용됩니다.
 
 ## Site Permissions - Location
 
