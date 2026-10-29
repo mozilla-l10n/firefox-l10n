@@ -810,6 +810,9 @@ newtab-discovery-empty-section-topstories-header = Non c’è altro.
 newtab-discovery-empty-section-topstories-content = Controlla più tardi per altre storie.
 newtab-discovery-empty-section-topstories-try-again-button = Riprova
 newtab-discovery-empty-section-topstories-loading = Caricamento in corso…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Le storie non sono disponibili al momento
+newtab-discovery-empty-section-topstories-unavailable-body = Controlla la connessione o riprova più tardi.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Oops. Sembra che la sezione non si sia caricata completamente.
 

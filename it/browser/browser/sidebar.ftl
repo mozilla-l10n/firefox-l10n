@@ -331,4 +331,3 @@ sidebar-widget-hide-sidebar2 =
 sidebar-pins-promo-text = Trascina qui le schede più importanti per averle sempre a portata di mano
 sidebar-pins-promo-text-2 =
     .heading = Trascina qui le schede più importanti per averle sempre a portata di mano
-

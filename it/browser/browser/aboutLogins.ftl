@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importa da un altro bro
 about-logins-menu-menuitem-import-from-a-file = Importa da file…
 about-logins-menu-menuitem-export-logins2 = Esporta password…
 about-logins-menu-menuitem-remove-all-logins2 = Elimina tutte le password…
+about-logins-menu-menuitem-delete-all-logins = Elimina tutte le password…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opzioni
@@ -81,6 +82,7 @@ about-logins-intro-import3 = Seleziona il pulsante con il simbolo “+” per ag
 about-logins-login-item-new-login-title = Aggiungi password
 login-item-edit-button = Modifica
 about-logins-login-item-remove-button = Rimuovi
+about-logins-login-item-delete-button = Elimina
 login-item-origin-label = Indirizzo web
 about-logins-origin-tooltip2 = Inserisci l’indirizzo completo e assicurati che corrisponda esattamente a quello in cui hai effettuato l’accesso.
 # Variables
@@ -166,9 +168,15 @@ confirmation-dialog-dismiss-button =
     .title = Annulla
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Eliminare la password?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Eliminare la password?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Non è possibile annullare questa azione.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Verrà eliminata da { -brand-short-name } su tutti i dispositivi che sincronizzano le tue password. Questa operazione non può essere annullata.
 about-logins-confirm-remove-dialog-confirm-button = Rimuovi
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Elimina
 
 ## Variables
 ##   $count (number) - Number of items
@@ -178,8 +186,20 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Rimuovi
        *[other] Rimuovi tutte
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Elimina
+       *[other] Elimina tutte
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
+    { $count ->
+        [1] Sì, elimina la password
+       *[other] Sì, elimina le password
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
     { $count ->
         [1] Sì, elimina la password
        *[other] Sì, elimina le password
@@ -202,11 +222,19 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Eliminare la password da tutti i dispositivi?
        *[other] Eliminare { $count } password da tutti i dispositivi?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title = Eliminare { $count } password?
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Questa operazione rimuoverà la password salvata in { -brand-short-name } su tutti i dispositivi sincronizzati con il tuo account. Anche i relativi avvisi sulle violazioni verranno eliminati. Non sarà possibile annullare questa operazione.
        *[other] Questa operazione rimuoverà le password salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con il tuo account. Anche i relativi avvisi sulle violazioni verranno eliminati. Non sarà possibile annullare questa operazione.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] La password verrà eliminata da { -brand-short-name } su ogni dispositivo che sincronizza le tue password. L’operazione non può essere annullata.
+       *[other] Le password verranno eliminate da { -brand-short-name } su ogni dispositivo che sincronizza le tue password. L’operazione non può essere annullata.
     }
 
 ##
