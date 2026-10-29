@@ -269,6 +269,10 @@ menu-bookmarks-other =
     .label = 其他書籤
 menu-bookmarks-mobile =
     .label = 行動書籤
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = 在側邊欄中顯示更多
 
 ## Profiles Menu
 

@@ -1478,6 +1478,9 @@ fire-button-panel-confirm-button =
     .label = 全部刪除
     .accesskey = D
 fire-button-panel-complete = 已刪除瀏覽資料
+fire-button-toolbar-button2 =
+    .label = 刪除部分或全部資料
+    .tooltiptext = 刪除您部分或全部的瀏覽資料
 
 ## Autorefresh blocker
 

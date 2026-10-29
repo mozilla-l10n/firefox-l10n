@@ -553,6 +553,7 @@ onboarding-refresh-fro-import-body = 您的個人資料只屬於您，{ -brand-p
 onboarding-refresh-fro-skip-button = 略過
 onboarding-refresh-fro-theme-header = 玩出您的風格
 onboarding-refresh-tab-layout-header = 試用不同的分頁版面
+onboarding-refresh-fro-tab-layout-title = 選擇一種新分頁版面
 onboarding-refresh-tab-layout-top = 置於頂端
 onboarding-refresh-tab-layout-side = 置於側邊
 onboarding-refresh-tab-layout-minimal = 極簡

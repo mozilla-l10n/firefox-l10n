@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = 自 { $midnightTime } 起
 clear-time-duration-value-today =
     .label = 今天
+clear-time-duration-value-all-time =
+    .label = 全部時間
 clear-time-duration-value-everything =
     .label = 所有歷史記錄
 clear-time-duration-suffix =
@@ -86,6 +88,9 @@ item-active-logins =
 item-cache =
     .label = 快取
     .accesskey = a
+item-cached-content2 =
+    .label = 暫存檔案
+    .accesskey = f
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
