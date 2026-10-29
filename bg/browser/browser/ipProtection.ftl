@@ -30,7 +30,7 @@ ipprotection-holiday-promo-title-1 = Вземете неограничен VPN �
 
 ## Panel
 
-unauthenticated-site-rules-message = Контролирайте кои сайтове използват VPN и кои не.
+unauthenticated-site-rules-message = Изберете кои сайтове да използват VPN и кои не.
 site-exclusion-toggle-enabled-1 =
     .aria-label = VPN е включен за този сайт
     .label = Използвайте VPN за този сайт
