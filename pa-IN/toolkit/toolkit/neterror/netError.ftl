@@ -106,6 +106,19 @@ neterror-dns-not-found-offline-hint-different-device = ਵੱਖਰੇ ਡਿਵ
 neterror-dns-not-found-offline-hint-modem = ਆਪਣੇ ਮਾਡਮ ਜਾਂ ਰਾਊਟਰ ਦੀ ਜਾਂਚ ਕਰੋ।
 neterror-dns-not-found-offline-hint-reconnect = Wi-Fi ਨਾਲੋਂ ਡਿਸ-ਕਨੈਕਟ ਹੋ ਕੇ ਫੇਰ ਕਨੈਕਟ ਕਰੋ।
 
+## Hints shown, as one list of steps, when a connection to this computer
+## (localhost) is refused.
+## Variables:
+##   $port (String) - The port number the connection was refused on.
+
+neterror-loopback-refused-not-running = { $port } ਪੋਰਟ ਉੱਤੇ ਕੋਈ ਵੀ ਕਨੈਕਸ਼ਨ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਹਾਡਾ ਲੋਕਲ ਸਰਵਰ ਚੱਲ ਰਿਹਾ ਹੈ।
+# "it" is the local server that the user is trying to reach.
+neterror-loopback-refused-wrong-port = ਜੇ ਇਹ ਚੱਲ ਰਿਹਾ ਹੈ ਤਾਂ ਜਾਂਚ ਕਰੋ ਕਿ ਕੀ ਇਹ { $port } ਪੋਰਟ ਵਰਤ ਰਿਹਾ ਹੈ।
+# "this address" is the IP address of the page that failed to load, for example
+# 127.0.0.1 or [::1]. Do not translate or reformat the literal addresses [::1]
+# and 127.0.0.1 in the text.
+neterror-loopback-refused-address = ਜਾਂਚ ਕਰੋ ਕਿ ਸਰਵਰ ਇਸ ਸਿਰਨਾਵੇਂ ਲਈ ਕਨੈਕਸ਼ਨ ਮਨਜ਼ੂਰ ਕਰਦਾ ਹੈ। ਕੁਝ ਸਰਵਰ ਸਿਰਫ਼ [::1] ਜਾਂ ਸਿਰਫ਼ 127.0.0.1 ਉੱਤੇ ਹੀ ਸੁਣਦੇ ਹਨ।
+
 ## TRR-only specific messages
 ## Variables:
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
