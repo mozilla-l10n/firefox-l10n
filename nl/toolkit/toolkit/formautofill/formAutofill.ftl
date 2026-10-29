@@ -42,6 +42,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = Niet nu
     .accessKey = u
+credit-card-capture-never-save-payment-methods-button =
+    .label = Nooit betalingsmethoden opslaan
+    .accessKey = N
 credit-card-capture-never-save-button =
     .label = Kaarten nooit opslaan
     .accessKey = i
@@ -65,6 +68,18 @@ autofill-manage-payment-methods-label = Betalingsmethoden beheren
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
 
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = CID
+# Used for any other card network, or when the network isn't known.
+credit-card-security-code-name-other = Beveiligingscode
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
@@ -79,6 +94,50 @@ autofill-card-security-code-label = CVC
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-update-payment-method-doorhanger-header = Betalingsmethode bijwerken?
+credit-card-capture-save-new-payment-method-button =
+    .label = Nieuwe betalingsmethode opslaan
+    .accessKey = p
+credit-card-capture-update-payment-method-button =
+    .label = Bijwerken
+    .accessKey = B
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Beveiligingscode opslaan?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } versleutelt en slaat uw beveiligingscode voor deze kaart op, zodat betalen sneller gaat.
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Deze betalingsmethode opslaan?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } versleutelt en vult uw betalingsgegevens automatisch in voor sneller afrekenen.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } versleutelt uw kaartnummer en beveiligingscode en vult deze de volgende keer automatisch voor u in.
+credit-card-capture-dismiss-button =
+    .label = Sluiten
+    .accessKey = S
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Beveiligingscodes altijd opslaan
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Beveiligingscodes niet opslaan
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
