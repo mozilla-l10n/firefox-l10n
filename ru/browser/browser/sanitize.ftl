@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = С { $midnightTime }
 clear-time-duration-value-today =
     .label = За сегодня
+clear-time-duration-value-all-time =
+    .label = Всё время
 clear-time-duration-value-everything =
     .label = Всё
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Историю
+item-history-and-downloads2 =
+    .label = Журнал посещений и загрузок
+    .accesskey = И
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Список посещённых сайтов и загрузок
 item-history-and-downloads =
     .label = Журнал посещений и загрузок
     .accesskey = п
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Куки и данные сайтов
     .accesskey = у
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Производит выход из-под пользователя и может очищать корзины покупок
 item-cookies-site-data-description = Может привести к разлогину из сайтов или опустошению корзины покупок
 item-active-logins =
     .label = Текущие сеансы
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = Кеш
     .accesskey = е
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Временные файлы ({ $amount } { $unit })
+    .accesskey = а
+item-cached-content2 =
+    .label = Временные файлы
+    .accesskey = а
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Помогает сайтам загружаться быстрее
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Информация о сохранённой форме
     .accesskey = щ
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Имена, адреса электронной почты и данные форм
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Разрешения и настройки веб-сайтов
 item-formdata-description = Удаляет имена, адреса электронной почты и другие данные, вводимые вами в формах
 item-site-prefs-description = Сбрасывает ваши разрешения и настройки сайтов на исходные настройки
 data-section-label = Данные
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Данные автономных сайтов
     .accesskey = н
+sanitize-everything-undo-warning2 = Это не может быть отменено.
 sanitize-everything-undo-warning = Это действие нельзя отменить.
 window-close =
     .key = w

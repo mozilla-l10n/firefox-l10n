@@ -73,6 +73,12 @@ autofill-card-security-code-label = CVC
 
 # Visa calls it "CVV".
 credit-card-security-code-name-visa = CVV
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = CVC
+# American Express calls it "CID".
+credit-card-security-code-name-amex = CID
+# Used for any other card network, or when the network isn't known.
+credit-card-security-code-name-other = ਸੁਰੱਖਿਆ ਕੋਡ
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
@@ -88,6 +94,48 @@ credit-card-security-code-name-visa = CVV
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-update-payment-method-doorhanger-header = ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?
+credit-card-capture-save-new-payment-method-button =
+    .label = ਨਵੇਂ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਸੰਭਾਲੋ
+    .accessKey = S
+credit-card-capture-update-payment-method-button =
+    .label = ਅੱਪਡੇਟ ਕਰੋ
+    .accessKey = U
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = ਸੁਰੱਖਿਆ ਕੋਡ ਨੂੰ ਸੰਭਾਲਣਾ ਹੈ?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } ਤੇਜ਼ੀ ਨਾਲ ਚੈਕਆਉਟ ਵਾਸਤੇ ਇਸ ਕਾਰਡ ਨੂੰ ਲਈ ਤੁਹਾਡੇ ਸੁਰੱਖਿਆ ਕੋਡ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਕੇ ਸੰਭਾਲੇਗਾ।
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਸੰਭਾਲਣਾ ਹੈ?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } ਤੇਜ਼ੀ ਨਾਲ ਚੈਕ-ਆਉਟ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਡੇ ਭੁਗਤਾਨ ਢੰਗ ਦੇ ਵੇਰਵੇ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਕੇ ਆਪੇ-ਭਰਨ ਲਈ ਵਰਤਦਾ ਹੈ।
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } ਅਗਲੀ ਵਾਰ ਤੁਹਾਡੇ ਵਲੋਂ ਭਰਨ ਲਈ ਤੁਹਾਡੇ ਕਾਰਡ ਅਤੇ ਸੁਰੱਖਿਆ ਕੋਡ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰੇਗਾ।
+credit-card-capture-dismiss-button =
+    .label = ਖ਼ਾਰਜ ਕਰੋ
+    .accessKey = D
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = ਹਮੇਸ਼ਾਂ ਸੁਰੱਖਿਆ ਕੋਡ ਨੂੰ ਸੰਭਾਲੋ
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

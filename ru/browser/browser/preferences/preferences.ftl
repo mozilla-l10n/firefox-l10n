@@ -360,6 +360,8 @@ website-language-heading =
     .label = Язык веб-сайта
 website-preferred-language =
     .label = Предпочитаемые языки
+website-language-list =
+    .aria-label = Предпочитаемые языки
 website-add-language =
     .label = Добавить язык
 website-add-language-button =
@@ -816,6 +818,8 @@ home-homepage-custom-homepage-button =
 # Subheader on the Custom Homepage subpage. Followed by a form to enter URLs and a list of URLs already saved, if any.
 home-custom-homepage-card-header =
     .label = Адрес(а) веб-сайтов
+home-custom-homepage-list =
+    .aria-label = Адреса веб-сайтов
 home-custom-homepage-address =
     .placeholder = Введите адрес
 home-custom-homepage-address-button =
@@ -948,6 +952,8 @@ search-one-click-desc = Выберите иные поисковые систе�
 search-one-click-header-3 =
     .description = Выбрать. какие поисковые системы и их сокращения появляются в вашей адресной строке.
     .label = Дополнительные поисковые системы
+search-engine-list =
+    .aria-label = Поисковые системы и значки
 update-search-engine-success =
     .message = Поисковая система успешно обновлена
 search-edit-engine-2 =
@@ -1011,6 +1017,8 @@ containers-card-header2 =
 containers-add-button2 =
     .label = Добавить новый контейнер
     .accesskey = Ф
+containers-list =
+    .aria-label = Контейнеры
 containers-new-tab-check3 =
     .label = Выбирать контейнер для каждой новой вкладки
     .accesskey = Ы
@@ -1402,6 +1410,10 @@ autofill-payment-methods-manage-payments-button =
     .label = Управление способами оплаты
     .accesskey = ь
 # This operation requires the user to authenticate with the operating system (device sign-in)
+autofill-payment-methods-require-device-sign-in-checkbox =
+    .label = Требовать вход на устройстве для автозаполнения
+    .accesskey = щ
+# This operation requires the user to authenticate with the operating system (device sign-in)
 autofill-reauth-payment-methods-checkbox-2 =
     .label = Требовать входа с устройства для автозаполнения и управления способами платежей
     .accesskey = щ
@@ -1475,6 +1487,28 @@ preferences-passwords-autofill-header =
 #   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
 payment-moz-box-item =
     .description = { $expDate }
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item when a security code is saved alongside
+# the card. Only the presence of a saved security code is ever shown, never the
+# code itself: "•••" stands for the hidden code, so keep it as is rather than
+# translating it into words.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $expDate (string) - The obscured expiry date of the credit card (for example: XX/2027)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-with-security-code-2 =
+    .description = { $expDate } | { $securityCode } •••
+    .label = { $cardNumber }
+# Used in place of payment-moz-box-item-with-security-code-2 for a card that has
+# a saved security code but no expiry date to show alongside it. "•••" stands for
+# the hidden code.
+# Variables:
+#   $cardNumber (string) - The obscured credit card number (for example: ********* 2423)
+#   $securityCode (string) - The name of the card's security code, which depends
+#     on the card network (for example: CVV)
+payment-moz-box-item-security-code-only-2 =
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
