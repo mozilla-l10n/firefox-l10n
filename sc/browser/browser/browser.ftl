@@ -26,6 +26,16 @@ popups-infobar-dont-show-message2 =
 edit-popup-settings2 =
     .label = Gesti is cunfiguratziones de ventanas emergentes e rediretziones de àteras partes…
     .accesskey = G
+# Variables
+#   $count (number) - The number of blocked trackers on this page. Please leave the mention of blocked trackers out when there are none.
+urlbar-identity-button2 =
+    .aria-label =
+        { $count ->
+            [0] Ammustra informatziones de su situ
+            [1] Ammustra informatziones de su situ (1 sighidore blocadu)
+            [one] Ammustra informatziones de su situ (1 sighidore blocadu)
+           *[other] Ammustra informatziones de su situ ({ $count } sighidores blocados)
+        }
 urlbar-identity-button =
     .aria-label = Visualiza informatziones de su situ
 

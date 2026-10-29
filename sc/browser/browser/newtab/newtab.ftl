@@ -201,6 +201,7 @@ newtab-privacy-message-info-4-cta = Ammustra is amparos
 newtab-privacy-message-info-5 = Sighidores blocados bolet nàrrere chi prus pagu aziendas ti podent sighire intre is sitos.
 newtab-privacy-message-info-5-cta = Ammustra is amparos
 newtab-privacy-message-info-6-cta = Àteras informatziones
+newtab-privacy-message-info-7 = Ammustra is sighidores blocados dae { -brand-short-name }.
 newtab-privacy-message-info-7-cta = Ammustra is amparos
 newtab-privacy-message-info-8-cta = Àteras informatziones
 newtab-privacy-message-info-9-cta = Cunfigura comente predefinidu
