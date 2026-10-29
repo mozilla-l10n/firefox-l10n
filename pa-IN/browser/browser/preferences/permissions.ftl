@@ -142,6 +142,12 @@ permissions-site-notification-desc = ਹੇਠਲੀਆਂ ਵੈਬਸਾਈਟ
 permissions-site-notification-disable-label =
     .label = ਸੂਚਨਾਵਾਂ ਵਾਸਤੇ ਇਜਾਜ਼ਤ ਲਈ ਪੁੱਛਣ ਲਈ ਨਵੀਆਂ ਬੇਨਤੀਆਂ ਉੱਤੇ ਰੋਕ ਲਗਾਓ
 permissions-site-notification-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ ਨਾ ਹੋਣ ਵਾਲੀਆਂ ਕਿਸੇ ਵੀ ਵੈਬਸਾਈਟ ਨੂੰ ਸੂਚਨਾਵਾਂ ਭੇਜਣ ਲਈ ਇਜਾਜ਼ਤਾਂ ਦੀ ਬੇਨਤੀ ਕਰਨ ਤੋਂ ਰੋਕੇਗੀ। ਸੂਚਨਾਵਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਨਾਲ ਕੁਝ ਵੈਬਸਾਈਟ ਦੇ ਫ਼ੀਚਰ ਕੰਮ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਨ।
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = ਜਦੋਂ { -brand-short-name } ਬੰਦ ਹੋਵੇ ਤਾਂ ਵੈੱਬਸਾਈਟ ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = ਤੁਹਾਡੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਨੋਟੀਫਿਕੇਸ਼ਨ ਸੈਟਿੰਗਾਂ ਵੀ ਲਾਗੂ ਹੁੰਦੀਆਂ ਹਨ।
 
 ## Site Permissions - Location
 

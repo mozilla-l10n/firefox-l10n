@@ -68,7 +68,7 @@ more-from-moz-new-products-button = Vegeu els nous productes
 
 more-from-moz-firefox-mobile-qr-promo =
     .message = Escanegeu amb el telèfon o càmera de tauleta per aconseguir l'app. Toqueu l'enllaç quan aparegui.
-more-from-moz-firefox-mobile-email-link = Envieu per correu electrònic l'enllaç de descàrrega al mòbil
+more-from-moz-firefox-mobile-email-link = Envieu per correu electrònic l'enllaç de baixada al mòbil
 
 ## Product card strings for the config-based path. Each entry provides both
 ## .label (title) and .description for a moz-fieldset inside a moz-card.

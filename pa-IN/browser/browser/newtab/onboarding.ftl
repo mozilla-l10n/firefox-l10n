@@ -560,10 +560,14 @@ onboarding-refresh-terms-of-use-with-links = ਜਾਰੀ ਰੱਖ ਕੇ ਤ�
 onboarding-refresh-data-collection-link = ਡਾਟਾ ਇਕੱਤਰਤਾ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 onboarding-refresh-primary-button = ਜਾਰੀ ਰੱਖੋ
 onboarding-refresh-fro-import-header = ਆਪਣਾ ਡਾਟਾ ਨਾਲ ਲਿਆਓ
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = ਇਹ ਤੁਹਾਡਾ ਹੀ ਰਹਿੰਦਾ ਹੈ। { -brand-product-name } ਤੁਹਾਡੇ ਨਿੱਜੀ ਡਾਟੇ ਨੂੰ ਕਦੇ ਨਹੀਂ ਵੇਚਦਾ ਹੈ।
 onboarding-refresh-fro-import-body = ਤੁਹਾਡਾ ਨਿੱਜੀ ਡਾਟਾ ਨਿੱਜੀ ਹੀ ਰਹਿੰਦਾ ਹੈ। { -brand-product-name } ਇਸ ਨੂੰ ਕਦੇ ਨਹੀਂ ਵੇਚਦਾ ਹੈ।
 onboarding-refresh-fro-skip-button = ਛੱਡੋ
 onboarding-refresh-fro-theme-header = ਆਪਣੀ ਦਿੱਖ ਉੱਤੇ ਕੰਮ ਕਰੋ
 onboarding-refresh-tab-layout-header = ਵੱਖਰਾ ਟੈਬ ਖਾਕਾ ਅਜ਼ਮਾਓ
+onboarding-refresh-fro-tab-layout-title = ਕੋਈ ਨਵਾਂ ਟੈਬ ਖਾਕਾ ਚੁਣੋ
 onboarding-refresh-tab-layout-top = ਉੱਤੇ
 onboarding-refresh-tab-layout-side = ਪਾਸੇ
 onboarding-refresh-tab-layout-minimal = ਘੱਟੋ-ਘੱਟ

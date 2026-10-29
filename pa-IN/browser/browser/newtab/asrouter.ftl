@@ -533,6 +533,7 @@ restore-session-startup-suggestion-button = ਮੈਨੂੰ ਦੇਖਾਇਓ �
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = ਆਪਣੀਆਂ ਮਨਪਸੰਦ ਸਾਈਟਾਂ ਨੂੰ ਐਪ ਵਾਗੂੰ ਖੋਲ੍ਹੋ
+taskbar-tabs-spotlight-subtitle = ਇੱਕ ਕਲਿੱਕ ਨਾਲ ਤੁਹਾਡੇ ਵਲੋਂ ਅਕਸਰ ਵਰਤੀਆਂ ਸਾਈਟਾਂ ਨੂੰ { -brand-short-name } ਦੀ ਸਾਰੀ ਸੁਰੱਖਿਆ ਨਾਲ ਲੈੱਸ ਵਿੰਡੋ ਨਾਲ ਚਲਾ ਸਕਦੇ ਹੋ।
 # Heading above the list of suggested websites.
 taskbar-tabs-spotlight-sites-heading = ਆਪਣੀ ਟਾਸਕ-ਪੱਟੀ ਵਿੱਚ ਜੋੜਨ ਲਈ ਚੁਣੋ
 # Button shown in each row of the list of websites. Clicking it adds the
