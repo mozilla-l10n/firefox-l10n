@@ -554,6 +554,7 @@ onboarding-refresh-fro-import-body = המידע האישי שלך נשאר אי�
 onboarding-refresh-fro-skip-button = דילוג
 onboarding-refresh-fro-theme-header = התאמה אישית של המראה
 onboarding-refresh-tab-layout-header = לנסות פריסת לשוניות שונה
+onboarding-refresh-fro-tab-layout-title = בחירה בפריסת לשוניות חדשה
 onboarding-refresh-tab-layout-top = למעלה
 onboarding-refresh-tab-layout-side = בצד
 onboarding-refresh-tab-layout-minimal = מינימלי

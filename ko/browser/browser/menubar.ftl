@@ -269,6 +269,10 @@ menu-bookmarks-other =
     .label = 기타 북마크
 menu-bookmarks-mobile =
     .label = 모바일 북마크
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = 사이드바에서 더보기
 
 ## Profiles Menu
 

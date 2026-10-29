@@ -86,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = 쿠키 및 사이트 데이터
     .accesskey = e
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = 로그아웃되며 장바구니가 비워질 수 있음
 item-cookies-site-data-description = 사이트에서 로그아웃되거나 장바구니를 비우게 될 수 있음
 item-active-logins =
     .label = 활성 로그인
@@ -102,6 +104,8 @@ item-cached-content-with-size2 =
 item-cached-content2 =
     .label = 임시 파일
     .accesskey = f
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = 사이트를 더 빠르게 로드하도록 도움
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
