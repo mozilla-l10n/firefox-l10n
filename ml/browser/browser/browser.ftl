@@ -1192,6 +1192,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെട്ടിട്ടുള്ള ഒന്നോ ഒന്നിലധികമോ ആഡ്-ഓണുകള്‍ പരിശോധിക്കാന്‍ കഴിയാത്തതു് കാരണം പ്രവര്‍ത്തന രഹിതമാക്കിയിരിയ്കുുന്നു.
+unsigned-addons-disabled-learn-more =
+    .label = കൂടുതല്‍ അറിയുക
+    .accesskey = ക
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
