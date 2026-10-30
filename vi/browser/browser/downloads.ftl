@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] Hiển thị trong thư mục
         }
     .accesskey = F
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Tập tin đã bị xóa
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -252,6 +255,10 @@ downloads-state-blocked-parental-controls = Bị chặn bởi trình kiểm soá
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Tập tin này có chứa virus hoặc phần mềm ác ý.
+downloads-blocked-potentially-unwanted = Tập tin này có thể làm hại máy tính của bạn.
+downloads-blocked-potentially-insecure = Tập tin không được tải xuống: Rủi ro bảo mật tiềm ẩn.
+downloads-blocked-uncommon = Tập tin này thường không được tải xuống.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
