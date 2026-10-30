@@ -28,6 +28,8 @@ downloads-cmd-cancel =
     .tooltiptext = Anulla
 downloads-cmd-cancel-panel =
     .aria-label = Anulla
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Schedaio mesciou ò mancante
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -161,6 +163,9 @@ downloads-state-blocked-parental-controls = Blocòu da-o contròllo di genitoî
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Sto schedaio o contiene viros o malware.
+downloads-blocked-potentially-unwanted = Sto schedaio o porieiva aroinâ o computer.
+downloads-blocked-uncommon = Sto schedaio o no l'é scaregou de spesso.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
