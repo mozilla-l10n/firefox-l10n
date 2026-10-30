@@ -1536,6 +1536,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = 某些已安装的附加组件未通过验证，现已被禁用。
+unsigned-addons-disabled-learn-more =
+    .label = 详细了解
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
