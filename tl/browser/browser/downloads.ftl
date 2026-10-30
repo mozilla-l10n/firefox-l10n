@@ -35,6 +35,8 @@ downloads-cmd-show-menuitem-2 =
            *[other] Ipakita sa Folder
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Ang file ay nailipat or nawala na
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -225,6 +227,9 @@ downloads-state-blocked-parental-controls = Hinarang ng Parental Cotrols
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Ang file na ito ay may virus o malware.
+downloads-blocked-potentially-unwanted = Ang file na ito ay maaaring makapinsala sa iyong computer.
+downloads-blocked-uncommon = Ang file na ito ay hindi karaniwang dina-download.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
