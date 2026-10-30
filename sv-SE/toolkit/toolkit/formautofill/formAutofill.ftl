@@ -95,6 +95,7 @@ credit-card-security-code-name-other = Säkerhetskod
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
 credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
 credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
 credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
 credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
@@ -105,7 +106,7 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 credit-card-update-payment-method-doorhanger-header = Uppdatera betalningsmetod?
 credit-card-capture-save-new-payment-method-button =
     .label = Spara ny betalningsmetod
-    .accessKey = S
+    .accessKey = n
 credit-card-capture-update-payment-method-button =
     .label = Uppdatera
     .accessKey = U
@@ -115,7 +116,7 @@ credit-card-capture-update-payment-method-button =
 
 credit-card-save-security-code-doorhanger-header = Spara säkerhetskod?
 # “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = { -brand-short-name } kommer att kryptera och spara din säkerhetskod för det här kortet så att betalningen går snabbare.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } krypterar och sparar kortets säkerhetskod så att du kan betala snabbare.
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
@@ -123,12 +124,12 @@ credit-card-save-payment-method-doorhanger-header = Spara den här betalningsmet
 # Used when the security code won't be saved, because saving security codes
 # is turned off or the form didn't include one.
 # “Checkout” refers to the payment stage on websites.
-credit-card-save-payment-method-doorhanger-description = { -brand-short-name } krypterar och automatiskt fyller i din betalningsinformation för snabbare betalning.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } krypterar dina betalningsuppgifter och fyller i dem automatiskt så att du kan betala snabbare.
 # Used when the security code will be saved along with the card.
-credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } kommer att kryptera ditt kortnummer och säkerhetskod och fyller i dem nästa gång.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } krypterar ditt kortnummer och din säkerhetskod och fyller i dem åt dig nästa gång.
 credit-card-capture-dismiss-button =
     .label = Ignorera
-    .accessKey = I
+    .accessKey = g
 
 ## The toggle turns saving security codes on and off. Its label describes the
 ## current state: whether security codes are saved or not.
