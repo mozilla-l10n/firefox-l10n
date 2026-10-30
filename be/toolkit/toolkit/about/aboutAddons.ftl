@@ -449,6 +449,8 @@ addon-permissions-learnmore = Даведацца больш пра дазвол�
 # the user.
 addon-permissions-managed-by-policy = Некаторымі дазволамі кіруе ваша арганізацыя.
 recommended-extensions-heading = Рэкамендаваныя пашырэнні
+recommended-themes-card-heading =
+    .heading = Рэкамендаваныя тэмы
 recommended-themes-heading = Рэкамендаваныя тэмы
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
