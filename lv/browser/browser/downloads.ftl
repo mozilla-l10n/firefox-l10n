@@ -40,6 +40,11 @@ downloads-file-moved-or-missing = Datne nav atrodama
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Datne izdzēsta
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Nezināms izmērs
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -252,6 +257,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Uzsāk…
+downloads-state-failed = Neizdevās
+downloads-state-paused = Apturēta
+downloads-state-canceled = Atcelta
 downloads-state-completed = Pabeigta
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -278,6 +287,20 @@ downloads-blocked-uncommon = Šī datne parasti netiek lejupielādēta.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Vai tiešām vēlaties atļaut šo lejupielādi?
+downloads-unblock-header-open = Vai tiešām vēlaties atvērt šo datni?
+downloads-unblock-type-malware = Šajā datnē ir vīruss vai kāda cita kaitnieciska programma, kas kaitēs jūsu datoram.
+downloads-unblock-type-potentially-unwanted = Datne izliekas par noderīgu lejupielādi, bet tā var veikt negaidītas izmaiņas iestatījumos un programmās.
+downloads-unblock-type-uncommon = Parasti šādas datnes nelejupielādē un to atvērt var nebūt droši. Tajā var būt vīrusi vai negaidītas jūsu sistēmas un programmu konfigurācijas izmaiņas.
+downloads-unblock-insecure = Lejupielāde tiek piedāvāta ar HTTP, lai gan pašreizējais dokuments tika piegādāts ar drošu HTTPS savienojumu. Ja turpināsi, datne lejupielādes laikā var bojāta vai ietekmēta.
+downloads-unblock-tip = Varat mēģināt atrast šo datni citā vietā vai lejupielādēt vēlreiz nedaudz vēlāk.
+downloads-unblock-content-analysis-tip = Lejupielādi var turpināt vai atcelt.
+downloads-unblock-button-open =
+    .label = Atvērt
+downloads-unblock-button-unblock =
+    .label = Atļaut lejupielādi
+downloads-unblock-button-confirm-block =
+    .label = Izņemt datni
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -293,3 +316,5 @@ downloads-blocked-uncommon = Šī datne parasti netiek lejupielādēta.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
