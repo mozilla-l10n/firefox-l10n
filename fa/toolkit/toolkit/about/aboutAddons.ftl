@@ -436,6 +436,8 @@ addon-permissions-learnmore = درباره مجوزها بیشتر بدانید
 # the user.
 addon-permissions-managed-by-policy = سازمان شما برخی از مجوزها را مدیریت می‌کند.
 recommended-extensions-heading = افزونه‌های توصیه شده
+recommended-themes-card-heading =
+    .heading = پوسته‌های توصیه شده
 recommended-themes-heading = پوسته‌های توصیه شده
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
