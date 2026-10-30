@@ -1645,6 +1645,11 @@ process-hang-nonspecific-tab-message = Вэб-старонка запаволь�
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = “{ $title }” запавольвае { -brand-short-name }. Каб паскорыць працу вашага браўзера, спыніце тую старонку.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” запавольвае { -brand-short-name }. Каб паскорыць ваш браўзер, спыніце гэтае пашырэнне.
+process-hang-addon-learn-more =
+    .value = Падрабязней
 process-hang-stop-button =
     .label = Спыніць
     .accesskey = ы
