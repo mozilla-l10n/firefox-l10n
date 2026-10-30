@@ -441,6 +441,8 @@ addon-permissions-required-label = Обов'язково:
 addon-permissions-optional-label = Необов'язково:
 addon-permissions-learnmore = Докладніше про дозволи
 recommended-extensions-heading = Рекомендовані розширення
+recommended-themes-card-heading =
+    .heading = Рекомендовані теми
 recommended-themes-heading = Рекомендовані теми
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
