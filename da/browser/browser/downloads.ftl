@@ -35,9 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] Vis i mappe
         }
     .accesskey = V
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Filen er flyttet eller slettet
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Fil slettet
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Ukendt størrelse
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -248,6 +255,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Starter…
+downloads-state-failed = Mislykket
+downloads-state-paused = Sat på pause
+downloads-state-canceled = Annulleret
 downloads-state-completed = Færdig
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -261,12 +272,18 @@ downloads-blocked-malware = Filen indeholder virus eller malware.
 downloads-blocked-potentially-unwanted = Filen kan muligvis skade din computer.
 downloads-blocked-potentially-insecure = Fil ikke hentet: Mulig sikkerhedsrisiko.
 downloads-blocked-uncommon = Filen er muligvis ikke sikker at åbne.
+downloads-blocked-by-content-analysis = Denne fil blev blokeret af din organisation.
+downloads-warned-by-content-analysis = Denne filhentning kan være usikker og kræver bekræftelse.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Filen blev blokeret, fordi { $agent } ikke er tilgængelig.
+downloads-content-analysis-invalid-agent-signature-error = Filen blev blokeret, fordi { $agent } mislykkedes med signatur-godkendelse.
+downloads-content-analysis-unspecified-error = Filen blev blokeret, fordi der opstod en fejl i kommunikationen med { $agent }.
+downloads-content-analysis-timeout-error = { $agent } overskred tidsfristen, så filen blev blokeret.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -274,6 +291,24 @@ downloads-blocked-uncommon = Filen er muligvis ikke sikker at åbne.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Er du sikker på, at du vil tillade hentning af denne fil?
+downloads-unblock-header-open = Er du sikker på, at du vil åbne denne fil?
+downloads-unblock-type-malware = Filen indeholder virus eller anden malware, der vil skade din computer.
+downloads-unblock-type-potentially-unwanted = Denne fil er forklædt som en brugbar filtype, men den kan muligvis foretage uventede ændringer af dine programmer og indstillinger.
+downloads-unblock-type-content-analysis-warn = Din organisation bruger software til at forhindre tab af data. Softwaren har markeret dette indhold som usikkert.
+downloads-unblock-type-uncommon = Det er ikke normalt at hente filer af denne type. Den er muligvis ikke sikker at åbne og kan indeholde en virus eller foretage uventede ændringer af dine programmer og indstillinger.
+downloads-unblock-insecure = Filhentningen tilbydes over en HTTP-forbindelse, selvom det aktuelle dokument blev leveret over en sikker HTTPS-forbindelse. Hvis du fortsætter, kan filen blive beskadiget eller manipuleret med under hentningen.
+downloads-unblock-tip = Du kan prøve at finde et andet sted at hente filen eller prøve at hente den igen senere
+downloads-unblock-content-analysis-warn-tip = Du kan vælge at hente den alligevel.
+downloads-unblock-content-analysis-blocked = Din organisation bruger software til at forhindre tab af data. Softwaren har blokeret denne filhentning.
+downloads-unblock-content-analysis-override = Denne beslutning kan kun tilsidesættes af din organisation.
+downloads-unblock-content-analysis-tip = Du kan fortsætte filhentningen eller annullere den.
+downloads-unblock-button-open =
+    .label = Åbn
+downloads-unblock-button-unblock =
+    .label = Tillad filhentning
+downloads-unblock-button-confirm-block =
+    .label = Fjern fil
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -289,3 +324,5 @@ downloads-blocked-uncommon = Filen er muligvis ikke sikker at åbne.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
