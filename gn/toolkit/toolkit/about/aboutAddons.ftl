@@ -175,6 +175,10 @@ addon-updates-check-for-updates = Ñembohekopyahu jeheka
     .accesskey = C
 addon-updates-view-updates = Ñembohekopyahu ramovéva jehecha
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Moĩmbaha ijeheguietéva mbohekopyahu
     .accesskey = A
 
@@ -313,6 +317,8 @@ release-notes-addon-button = Jehaipy rehegua
 permissions-addon-button = Moneĩ
 extension-enabled-heading = Myandypyre
 extension-disabled-heading = Ojeporuve’ỹva
+theme-disabled-heading3 =
+    .heading = Téma ñongatupyre
 theme-enabled-heading = Myandypyre
 theme-disabled-heading2 = Téma ñongatupyre
 plugin-enabled-heading = Myandypyre
