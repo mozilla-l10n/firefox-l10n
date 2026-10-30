@@ -445,6 +445,8 @@ addon-permissions-learnmore = Маълумоти бештар дар бораи 
 # the user.
 addon-permissions-managed-by-policy = Баъзе иҷозатҳо аз ҷониби ташкилоти шумо идора карда мешаванд.
 recommended-extensions-heading = Васеъшавиҳои тавсияшуда
+recommended-themes-card-heading =
+    .heading = Мавзуъҳои тавсияшуда
 recommended-themes-heading = Мавзуъҳои тавсияшуда
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
