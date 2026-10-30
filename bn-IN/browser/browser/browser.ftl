@@ -588,6 +588,14 @@ popup-show-popup-menuitem =
 # `downloads-cmd-show-menuitem-2` and similar messages.
 
 
+## Unsigned add-ons notification
+
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-addon-learn-more =
+    .value = আরো জানুন
+
 ## Onboarding Finish Setup checklist
 
 
