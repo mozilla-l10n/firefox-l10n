@@ -100,6 +100,45 @@ credit-card-doorhanger-card-details-name-security-code = { $name } | { $security
 credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
 credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
 
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-update-payment-method-doorhanger-header = Diweddaru'r dull talu?
+credit-card-capture-save-new-payment-method-button =
+    .label = Cadw'r dull talu newydd
+    .accessKey = C
+credit-card-capture-update-payment-method-button =
+    .label = Diweddaru
+    .accessKey = D
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Cadw'r cod diogelwch?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = Bydd { -brand-short-name } yn amgryptio ac yn cadw cod diogelwch y cerdyn hwn fel bod y ddesg dalu yn gyflymach.
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Cadw'r dull talu hwn?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = Mae { -brand-short-name } yn amgryptio ac yn llenwi'ch manylion talu yn awtomatig er mwyn talu'n gyflymach.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = Bydd { -brand-short-name } yn amgryptio rhif eich cerdyn a'ch cod diogelwch ac yn eu llenwi ar eich cyfer y tro nesaf.
+credit-card-capture-dismiss-button =
+    .label = Cau
+    .accessKey = C
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Cadw codau diogelwch bob tro
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Peidio cadw codau diogelwch
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
