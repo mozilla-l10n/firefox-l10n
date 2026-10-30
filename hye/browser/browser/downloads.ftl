@@ -35,9 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] Ցուցադրել պանակում
         }
     .accesskey = Ց
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Նիշքը տեղափոխուել է կամ բացակայում է
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Նիշը ջնջուած է
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Անյայտ չափ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -239,10 +246,23 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Մեկնարկում է…
+downloads-state-failed = Չի յաջողուել
+downloads-state-paused = Դադար
+downloads-state-canceled = Չեղարկած
+downloads-state-completed = Աւարտուած է
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Արգելափակուած են ծնողների վերահսկողութեամբ
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Այս նիշքը պարունակում է վիրուս կամ վնասագիր։
+downloads-blocked-potentially-unwanted = Այս նիշքը կարող է վնասել Ձեր համակարգիչը։
+downloads-blocked-potentially-insecure = Նիշը ներբեռնուած չէ՝ հնարաւոր վտանգ։
+downloads-blocked-uncommon = Սա սովորական ներբեռնում չէ։
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
@@ -256,6 +276,18 @@ downloads-error-generic =
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Համոզուա՞ծ եք, որ ցանկանում եք թոյլ տալ այս ներբեռնումը:
+downloads-unblock-header-open = Համոզուա՞ծ եք, որ ցանկանում եք բացել այս նիշքը:
+downloads-unblock-type-malware = Այս նիշքը պարունակում է վիրուս կամ վնասագիր, որը կարող է վնասել Ձեր համակարգիչը։
+downloads-unblock-type-potentially-unwanted = Այս նիշքը, որը դիմակաւորուել է որպէս աւգտակար ներբեռնում, կարող է կատարել անսպասելի փոփոխութիւններ Ձեր ծրագրերում եւ կարգաւորումներում։
+downloads-unblock-type-uncommon = Այս նիշքը սովորական ներբեռնում չէ եւ կարող է անվտանգ չլինել։ Այն կարող է պարունակել վիրուս կամ կատարել անսպասելի փոփոխութիւններ Ձեր ծրագրերում եւ կարգաւորումներում։
+downloads-unblock-tip = Կարող եք փնտրել այլընտրանքային աղբիւր կամ փորձել ներբեռնել աւելի ուշ։
+downloads-unblock-button-open =
+    .label = Բացել
+downloads-unblock-button-unblock =
+    .label = Թոյլատրել ներբեռնումը
+downloads-unblock-button-confirm-block =
+    .label = Հեռացնել նիշքը
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -271,3 +303,5 @@ downloads-error-generic =
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
