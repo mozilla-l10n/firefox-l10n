@@ -1627,6 +1627,11 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Bu sayfa { -brand-short-name } tarayıcınızı yavaşlatıyor. Tarayıcınızı hızlandırmak için bu sayfayı durdurabilirsiniz.
+process-hang-nonspecific-tab-message = Bir web sayfası { -brand-short-name } tarayıcınızı yavaşlatıyor. Tarayıcınızı hızlandırmak için o sayfayı durdurabilirsiniz.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” { -brand-short-name } tarayıcınızı yavaşlatıyor. Tarayıcınızı hızlandırmak için o sayfayı durdurabilirsiniz.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = “{ $addonName }” { -brand-short-name } tarayıcınızı yavaşlatıyor. Tarayıcınızı hızlandırmak için bu uzantıyı durdurabilirsiniz.
