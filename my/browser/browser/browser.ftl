@@ -603,6 +603,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = တပ်ဆင်ထားသည့် အတ်အွန် တစ်ခုမကကို အတည်မပြုနိုင်ပါ။ ထို့ကြောင့် ပိတ်ထားသည်။
+unsigned-addons-disabled-learn-more =
+    .label = ပိုမိုလေ့လာရန်
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
