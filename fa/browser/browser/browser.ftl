@@ -1594,6 +1594,14 @@ file-picker-crashed-show-in-folder =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = این صفحه { -brand-short-name } را کُند کرده است. برای سرعت بخشیدن به مرورگر، این صفحه را متوقف کنید.
+process-hang-nonspecific-tab-message = یک صفحه { -brand-short-name } را کُند کرده است. برای سرعت بخشیدن به مرورگر، آن صفحه را متوقف کنید.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = «{ $title }» در حال کُند کردن { -brand-short-name } است. برای سرعت بخشیدن به مرورگر، آن را متوقف کنید.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = «{ $addonName }» در حال کُند کردن { -brand-short-name } است. برای سرعت بخشیدن به مرورگر، آن افزونه را متوقف کنید.
 process-hang-addon-learn-more =
     .value = بیشتر بدانید
 process-hang-stop-button =
