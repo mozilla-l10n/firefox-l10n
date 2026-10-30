@@ -35,6 +35,8 @@ downloads-cmd-show-menuitem-2 =
            *[other] Seall san lorgaire
         }
     .accesskey = S
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Chaidh am faidhle a ghluasad no tha e a dhìth
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -251,6 +253,10 @@ downloads-state-blocked-parental-controls = Chaidh casg a chur air le smachd nam
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Tha bìoras no bathar droch-rùnach san fhaidhle seo.
+downloads-blocked-potentially-unwanted = Dh'fhaoidte gun dèan am faidhle seo cron air a' choimpiutair agad.
+downloads-blocked-potentially-insecure = Cha deach am faidhle a luchdadh a-nuas ri linn amharas air cunnart tèarainteachd.
+downloads-blocked-uncommon = Cha luchdaichear a-nuas am faidhle seo gu tric.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
