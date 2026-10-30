@@ -445,6 +445,8 @@ addon-permissions-learnmore = Weitere Informationen zu Berechtigungen
 # the user.
 addon-permissions-managed-by-policy = Einige Berechtigungen werden von Ihrer Organisation verwaltet.
 recommended-extensions-heading = Empfohlene Erweiterungen
+recommended-themes-card-heading =
+    .heading = Empfohlene Themes
 recommended-themes-heading = Empfohlene Themes
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
