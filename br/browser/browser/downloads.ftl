@@ -35,6 +35,8 @@ downloads-cmd-show-menuitem-2 =
            *[other] Diskouez en teuliad
         }
     .accesskey = D
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Mankout a ra ar restr pe dilec'hiet eo bet
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -254,6 +256,10 @@ downloads-state-blocked-parental-controls = Harzet gant reolerezhioù ar gerent
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Ur virus pe ur meziant spiañ zo e-barzh ar restr.
+downloads-blocked-potentially-unwanted = Mekaet e vefe hoc'h urzhiataer gant ar restr-mañ.
+downloads-blocked-potentially-insecure = Neket bet pellgarget ar restr: danvez riskl diogelroez
+downloads-blocked-uncommon = Da gustum ne vez ket pellgarget ar restr-mañ.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
