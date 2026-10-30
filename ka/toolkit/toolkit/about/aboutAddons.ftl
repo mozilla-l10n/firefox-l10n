@@ -176,6 +176,10 @@ addon-updates-check-for-updates = განახლებების შემ
     .accesskey = შ
 addon-updates-view-updates = ბოლო განახლებების ნახვა
     .accesskey = ბ
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = დამატებების თვითგანახლება
     .accesskey = ვ
 
@@ -323,6 +327,8 @@ release-notes-addon-button = გამოშვების მონაცე�
 permissions-addon-button = ნებართვები
 extension-enabled-heading = ჩართულია
 extension-disabled-heading = ამორთულია
+theme-disabled-heading3 =
+    .heading = შენახული თემები
 theme-enabled-heading = ჩართულია
 theme-disabled-heading2 = შენახული თემები
 plugin-enabled-heading = ჩართულია
