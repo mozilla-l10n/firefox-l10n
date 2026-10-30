@@ -435,6 +435,8 @@ addon-permissions-learnmore = ਇਜਾਜ਼ਤਾਂ ਬਾਰੇ ਹੋਰ ਸ�
 # the user.
 addon-permissions-managed-by-policy = ਕੁਝ ਇਜਾਜ਼ਤਾਂ ਦਾ ਤੁਹਾਡੀ ਸੰਸਥਾ ਵਲੋਂ ਇੰਤਜ਼ਾਮ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।
 recommended-extensions-heading = ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
+recommended-themes-card-heading =
+    .heading = ਸਿਫਾਰਸ਼ੀ ਥੀਮ
 recommended-themes-heading = ਸਿਫਾਰਸ਼ੀ ਥੀਮ
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
