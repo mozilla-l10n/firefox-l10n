@@ -1244,6 +1244,19 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Esta páxina está a enlentecer o { -brand-short-name }. Para acelerar o navegador, pare esta páxina.
+process-hang-nonspecific-tab-message = Unha páxina web está a enlentecer o { -brand-short-name }. Para acelerar o navegador, pare esa páxina.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = «{ $title }» está a enlentecer o { -brand-short-name }. Para acelerar o navegador, pare esa páxina.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = «{ $addonName }» está a enlentecer o { -brand-short-name }. Para acelerar o navegador, pare esa extensión.
+process-hang-addon-learn-more =
+    .value = Máis información
+process-hang-stop-button =
+    .label = Parar
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
