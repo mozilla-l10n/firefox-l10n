@@ -371,6 +371,8 @@ release-notes-loading = Nisamäj…
 release-notes-error = Takuyu' qamak, xa xk'ulwachitäj jun sachoj toq nok pa ch'utaq rutzijol ri ko'öl wuj.
 addon-permissions-learnmore = Tetamäx ch'aqa' chik chi kij ri taq ya'oj q'ij
 recommended-extensions-heading = Chilab'en taq K'amal
+recommended-themes-card-heading =
+    .heading = Chilab'en taq Wachinel
 recommended-themes-heading = Chilab'en taq Wachinel
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
