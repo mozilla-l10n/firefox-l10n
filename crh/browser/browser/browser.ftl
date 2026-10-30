@@ -597,6 +597,8 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-addon-learn-more =
+    .value = Daa çoq ögren
 
 ## Onboarding Finish Setup checklist
 
