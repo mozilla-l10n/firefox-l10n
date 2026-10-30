@@ -590,6 +590,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = একটা বা তার বেশি অ্যাড-অন যাচাই করা যাবে না এবং নিষ্ক্রিয় করে দেওয়া হয়েছে।
+unsigned-addons-disabled-learn-more =
+    .label = আরও জানুন
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
