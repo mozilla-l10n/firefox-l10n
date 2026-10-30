@@ -1606,6 +1606,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Yhtä tai useampaa lisäosaa ei ole varmennettu, ja ne on poistettu käytöstä.
+unsigned-addons-disabled-learn-more =
+    .label = Lue lisää
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
