@@ -158,6 +158,11 @@ downloads-state-starting = আরম্ভ করা হচ্ছে…
 downloads-state-failed = বিফল
 downloads-state-paused = স্থগিত
 downloads-state-canceled = বাতিল
+downloads-state-completed = সমাপ্ত
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = অভিভাবকদের নিয়ন্ত্রণ অনুসারে প্রতিরোধ করা হয়েছে
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
