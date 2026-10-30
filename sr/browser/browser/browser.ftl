@@ -1579,8 +1579,19 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Ова страница успорава { -brand-short-name }. Зауставите је да бисте убрзали прегледач.
+process-hang-nonspecific-tab-message = Нека страница успорава { -brand-short-name }. Зауставите је да бисте убрзали прегледач.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = Страница „{ $title }” успорава { -brand-short-name }. Зауставите је да бисте убрзали прегледач.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = Страница „{ $addonName }” успорава { -brand-short-name }. Зауставите је да бисте убрзали прегледач.
 process-hang-addon-learn-more =
     .value = Сазнајте више
+process-hang-stop-button =
+    .label = Заустави
+    .accesskey = З
 
 ## Onboarding Finish Setup checklist
 
