@@ -1637,6 +1637,9 @@ process-hang-specific-tab-message = “{ $title }” { -brand-short-name } taray
 process-hang-addon-message = “{ $addonName }” { -brand-short-name } tarayıcınızı yavaşlatıyor. Tarayıcınızı hızlandırmak için bu uzantıyı durdurabilirsiniz.
 process-hang-addon-learn-more =
     .value = Daha fazla bilgi al
+process-hang-stop-button =
+    .label = Durdur
+    .accesskey = D
 
 ## Onboarding Finish Setup checklist
 
