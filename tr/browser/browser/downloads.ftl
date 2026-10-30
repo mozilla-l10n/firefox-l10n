@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Klasörde göster
         }
     .accesskey = ö
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Dosya taşınmış veya silinmiş
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Dosya silindi
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Dosya silindi (Engellendi)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Boyut bilinmiyor
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -248,6 +258,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Başlıyor…
+downloads-state-failed = Başarısız oldu
+downloads-state-paused = Duraklatıldı
+downloads-state-canceled = İptal edildi
 downloads-state-completed = Tamamlandı
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -261,12 +275,18 @@ downloads-blocked-malware = Bu dosya virüs veya zararlı yazılım içeriyor.
 downloads-blocked-potentially-unwanted = Bu dosya bilgisayarınıza zarar verebilir.
 downloads-blocked-potentially-insecure = Dosya indirilmedi: Olası güvenlik riski.
 downloads-blocked-uncommon = Bu dosya şimdiye kadar fazla indirilmemiş.
+downloads-blocked-by-content-analysis = Bu dosya kuruluşunuz tarafından engellendi.
+downloads-warned-by-content-analysis = Bu indirme işlemi güvenli olmayabileceği için onay gerektiriyor.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = { $agent } ulaşılabilir olmadığı için dosya engellendi.
+downloads-content-analysis-invalid-agent-signature-error = { $agent } imza doğrulamasını geçemediği için dosya engellendi.
+downloads-content-analysis-unspecified-error = { $agent } ile iletişim kurulurken oluşan bir hata nedeniyle dosya engellendi.
+downloads-content-analysis-timeout-error = { $agent } zaman aşımına uğradığı için bu dosya engellendi.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -274,6 +294,24 @@ downloads-blocked-uncommon = Bu dosya şimdiye kadar fazla indirilmemiş.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Bu indirmeye izin vermek istediğinizden emin misiniz?
+downloads-unblock-header-open = Bu dosyayı açmak istediğinizden emin misiniz?
+downloads-unblock-type-malware = Bu dosya bir virüs veya bilgisayarınıza zarar verecek başka bir kötü amaçlı yazılım içeriyor.
+downloads-unblock-type-potentially-unwanted = İşe yarar bir araç gibi görünen bu dosya, programlarınızda ve ayarlarınızda beklenmeyen değişiklikler yapacaktır.
+downloads-unblock-type-content-analysis-warn = Kuruluşunuz bu içeriği güvensiz olarak işaretleyen bir veri kaybı önleme yazılımı kullanıyor.
+downloads-unblock-type-uncommon = Bu dosya fazla indirilmemiş ve açılması güvenli olmayabilir. Virüs içerebilir veya programlarınız ve ayarlarınız üzerinde beklenmeyen değişiklikler yapabilir.
+downloads-unblock-insecure = Mevcut belge güvenli bir HTTPS bağlantısı üzerinden teslim edilmiş olmasına rağmen bu indirme HTTP üzerinden sunuluyor. Devam ederseniz indirme işlemi sırasında dosya bozulabilir veya dosyaya müdahale edilebilir.
+downloads-unblock-tip = Alternatif bir indirme kaynağı arayabilir veya daha sonra yeniden deneyebilirsiniz.
+downloads-unblock-content-analysis-warn-tip = Yine de indirmeyi seçebilirsiniz.
+downloads-unblock-content-analysis-blocked = Kuruluşunuz bu indirmeyi engelleyen bir veri kaybı önleme yazılımı kullanıyor.
+downloads-unblock-content-analysis-override = Bu karar yalnızca kuruluşunuz tarafından değiştirilebilir.
+downloads-unblock-content-analysis-tip = İndirmeye devam edebilir veya vazgeçebilirsiniz.
+downloads-unblock-button-open =
+    .label = Aç
+downloads-unblock-button-unblock =
+    .label = İndirmeye izin ver
+downloads-unblock-button-confirm-block =
+    .label = Dosyayı sil
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -289,3 +327,5 @@ downloads-blocked-uncommon = Bu dosya şimdiye kadar fazla indirilmemiş.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
