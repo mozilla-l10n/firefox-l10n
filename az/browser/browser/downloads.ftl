@@ -32,6 +32,11 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = F
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Fayl daşınıb və ya yoxdur
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Həcmi bilinmir
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -207,6 +212,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Başlayır…
+downloads-state-failed = Uğursuz oldu
+downloads-state-paused = Saxlanıldı
+downloads-state-canceled = Ləğv Edildi
 downloads-state-completed = Tamamlanmış
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -232,6 +241,18 @@ downloads-blocked-uncommon = Bu fayl indiyə qədər çox endirilməyib.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Bu endirməyə icazə vermək istədiyinizə əminsiniz?
+downloads-unblock-header-open = Bu faylı açmaq istədiyinizə əminsiniz?
+downloads-unblock-type-malware = Bu faylda kompüterinizə zərər verəcək virus və ya zərərli proqram var.
+downloads-unblock-type-potentially-unwanted = Faydalı kimi görünən bu fayl, proqramlarınızda və tənzimləmələrinizdə gözlənilməz dəyişikliklər edəcək.
+downloads-unblock-type-uncommon = Bu fayl indiyə qədər çox endirilməyib və açılması təhlükəli ola bilər. İçində virus saxlaya və ya proqramlarınız və tənzimləmələriniz üzərində gözlənilməyən dəyişikliklər edə bilər.
+downloads-unblock-tip = Alternativ bir endirmə qaynağı axtara bilər və ya sonra yenidən yoxlaya bilərsiniz.
+downloads-unblock-button-open =
+    .label = Aç
+downloads-unblock-button-unblock =
+    .label = Endirməyə icazə ver
+downloads-unblock-button-confirm-block =
+    .label = Faylı sil
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -247,3 +268,5 @@ downloads-blocked-uncommon = Bu fayl indiyə qədər çox endirilməyib.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
