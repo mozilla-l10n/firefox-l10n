@@ -30,6 +30,11 @@ downloads-cmd-cancel-panel =
     .aria-label = Anulla
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Schedaio mesciou ò mancante
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Dimenscion sconosciua
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -154,6 +159,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Iniçio…
+downloads-state-failed = Falio
+downloads-state-paused = In pösa
+downloads-state-canceled = Scancelou
 downloads-state-completed = Finio
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -179,6 +188,18 @@ downloads-blocked-uncommon = Sto schedaio o no l'é scaregou de spesso.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = T'ê seguo de permette sto descarigamento?
+downloads-unblock-header-open = T'ê seguo de arvî sto schedaio?
+downloads-unblock-type-malware = Sto schedaio o contegne viros ò 'n'atro tipo de malware che te peuan aroinâ o computer.
+downloads-unblock-type-potentially-unwanted = Sto schedaio o fâ mostra d'êse utile, ma o porieiva fâ di cangiamenti no aspetæ a-i teu programmi e inpostaçioin.
+downloads-unblock-type-uncommon = Sto schedaio o no l'é scaregou de spesso e porieva no êse seguo da arvî. O peu avéi di viros o fâ di cangiamenti a-i teu programmi e inpostaçioin.
+downloads-unblock-tip = Ti peu çercâ un descaregamento da 'na sorgente alternativa ò provâ torna dòppo.
+downloads-unblock-button-open =
+    .label = Arvi
+downloads-unblock-button-unblock =
+    .label = Permetti descaregamento
+downloads-unblock-button-confirm-block =
+    .label = Scancella schedaio
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
