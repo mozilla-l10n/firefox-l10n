@@ -35,6 +35,12 @@ downloads-cmd-show-menuitem-2 =
            *[other] نمایش در پوشه
         }
     .accesskey = پ
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = پرونده حذف شد
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = پرونده کنار گذاشته شد (مسدودشده)
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
