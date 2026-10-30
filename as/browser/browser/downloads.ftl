@@ -28,6 +28,11 @@ downloads-cmd-cancel =
     .tooltiptext = বাতিল
 downloads-cmd-cancel-panel =
     .aria-label = বাতিল
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = অজ্ঞাত আকাৰ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -136,6 +141,15 @@ downloads-history =
 downloads-details =
     .title = ডাউনল'ডৰ বিশদ-বিৱৰণ
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+
 ##
 
 downloads-clear-downloads-button =
@@ -157,3 +171,44 @@ downloads-error-generic =
     ডাউনল'ড সংৰক্ষণ কৰিব নোৱাৰি কাৰণ এটা ত্ৰুটি হৈছে।
     
     অনুগ্ৰহ কৰি আকৌ চেষ্টা কৰক।
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = এই ফাইলত এটা ভাইৰাচ অথবা মেলৱেৰ আছে।
+downloads-blocked-potentially-unwanted = এই ফাইলে আপোনাৰ কমপিউটাৰৰ ক্ষতি কৰিব পাৰে।
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-type-malware = এই ফাইলত এটা ভাইৰাচ অথবা অন্য মেলৱেৰ আছে যি আপোনাৰ কমপিউটাৰৰ ক্ষতি কৰিব পাৰে।
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
