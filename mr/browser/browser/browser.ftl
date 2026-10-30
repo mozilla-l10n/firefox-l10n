@@ -617,6 +617,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = एक किंवा अधिक ॲड-ऑन्स् सत्यापित करता आले नसून ते अक्षम करण्यात आले आहे.
+unsigned-addons-disabled-learn-more =
+    .label = अधिक जाणा
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
