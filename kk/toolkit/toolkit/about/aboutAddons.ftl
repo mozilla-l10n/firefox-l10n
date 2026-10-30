@@ -441,6 +441,8 @@ addon-permissions-learnmore = Рұқсаттар туралы көбірек б�
 # the user.
 addon-permissions-managed-by-policy = Кейбір рұқсаттарды сіздің ұйымыңыз басқарады.
 recommended-extensions-heading = Ұсынылатын кеңейтулер
+recommended-themes-card-heading =
+    .heading = Ұсынылатын темалар
 recommended-themes-heading = Ұсынылатын темалар
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
