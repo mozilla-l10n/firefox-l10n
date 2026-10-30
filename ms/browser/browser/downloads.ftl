@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = Batal
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Fail telah dialih atau hilang
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Saiz tidak diketahui
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -149,6 +154,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Memulakan…
+downloads-state-failed = Gagal
+downloads-state-paused = Dijeda
+downloads-state-canceled = Dibatalkan
 downloads-state-completed = Selesai
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -174,6 +183,18 @@ downloads-blocked-uncommon = Fail ini tidak biasa dimuat turun.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Adakah anda pasti mahu mengizinkan muat turun ini?
+downloads-unblock-header-open = Adakah anda pasti mahu membuka fail ini?
+downloads-unblock-type-malware = Fail ini mengandungi virus atau perisian hasad lain yang akan membahayakan komputer anda.
+downloads-unblock-type-potentially-unwanted = Fail ini digambarkan sebagai muat turun fail yang bermanfaat, tetapi tanpa anda jangka, fail ini boleh mengubah atur cara dan tetapan anda.
+downloads-unblock-type-uncommon = Fail ini tidak biasa dimuat turun dan mungkin tidak selamat untuk dibuka. Fail ini mungkin mengandungi virus atau boleh mengubah atur cara dan tetapan anda.
+downloads-unblock-tip = Anda boleh cari sumber muat turun ganti atau cuba lagi kemudian.
+downloads-unblock-button-open =
+    .label = Buka
+downloads-unblock-button-unblock =
+    .label = Izinkan muat turun
+downloads-unblock-button-confirm-block =
+    .label = Buang fail
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -189,3 +210,5 @@ downloads-blocked-uncommon = Fail ini tidak biasa dimuat turun.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
