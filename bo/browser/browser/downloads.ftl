@@ -23,6 +23,19 @@ downloads-cmd-cancel =
     .tooltiptext = ཕྱིར་འཐེན
 downloads-cmd-cancel-panel =
     .aria-label = ཕྱིར་འཐེན
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ཡིག་ཆ་སྤོས་ཟིན་པའམ་བརླག་ཟིན
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $unit } { $size }
+downloads-size-unknown = ཆེ་ཆུང་ཤེས་མི་ཐུབ
+
+## Displayed in the downloads context menu for files that can be opened.
+## Variables:
+##   $handler (String) - The name of the mime type's default file handler.
+##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
+
 
 ##
 
@@ -77,6 +90,15 @@ downloads-show-more-information =
 downloads-open-file =
     .value = ཡིག་ཆ་ཁ་ཕྱེ
 
+## Displayed when the user clicked on a download in process. Indicates that the
+## downloading file will be opened after certain amount of time using an app
+## available in the system.
+## Variables:
+##   $hours (number) - Amount of hours left till the file opens.
+##   $seconds (number) - Amount of seconds left till the file opens.
+##   $minutes (number) - Amount of minutes till the file opens.
+
+
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -97,6 +119,15 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = མར་འཇུག་ཞིབ་ཕྲ
+
+## These strings are displayed in the private browsing view of the downloads panel
+
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
 
 ##
 
@@ -119,3 +150,65 @@ downloads-error-generic =
     The download cannot be saved because an unknown error occurred.
     
     Please try again.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = འགོ་འཛུགས་བཞིན་ཡོད…
+downloads-state-failed = ལེན་མ་ཐུབ་པ
+downloads-state-paused = བཀག་ཚར
+downloads-state-canceled = ཕྱིར་འཐེན་བྱས་ཟིན
+downloads-state-completed = ལེགས་འགྲུབ་བྱས་ཟིན
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = ཕ་མའི་ཚོད་འཛིན་གྱིས་བཀག་ཡོད
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = ཡིག་ཆ་འདིའི་ནང་དུ་དུག་དང་ཡང་ན་གནོད་སྐྱེལ་ནང་དོན་འདུག
+downloads-blocked-potentially-unwanted = ཡིག་ཆ་འདིས་ཁྱེད་ཀྱི་རྩིས་འཁོར་ལ་གནོད་སྐྱེལ་སྲིད།
+downloads-blocked-uncommon = ཡིག་ཆ་འདི་དུས་རྒྱུན་མར་འཇུག་བྱེད་རྒྱུ་མ་རེད།
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = ཁྱེད་ཀྱིས་མར་འཇུག་དགོས་པར་གཏན་ཁེལ་ཡིན་ནམ།
+downloads-unblock-header-open = ཡིག་ཆ་འདི་ཁ་ཕྱེ་དགོས་པ་གཏན་ཁེལ་ཡིན་ནམ།
+downloads-unblock-type-malware = This file contains a virus or other malware that will harm your computer.
+downloads-unblock-type-potentially-unwanted = This file is disguised as a helpful download, but it can make unexpected changes to your programs and settings.
+downloads-unblock-type-uncommon = This file is not commonly downloaded and may not be safe to open. It may contain a virus or make unexpected changes to your programs and settings.
+downloads-unblock-tip = You can search for an alternate download source or try again later.
+downloads-unblock-button-open =
+    .label = ཁ་ཕྱེ
+downloads-unblock-button-unblock =
+    .label = མར་འཇུག་བྱེད་བཅུག་པ
+downloads-unblock-button-confirm-block =
+    .label = ཡིག་ཆ་བསུབ་པ།
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
