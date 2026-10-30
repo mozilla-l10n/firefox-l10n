@@ -7,6 +7,10 @@ search-header =
     .placeholder = addons.mozilla.org تلاش کریں
     .searchbuttonlabel = تلاش
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+
 ##
 
 list-empty-installed =
@@ -141,6 +145,10 @@ addon-updates-check-for-updates = تازہ کاریوں کے لیے پڑتال �
     .accesskey = پ
 addon-updates-view-updates = حالیہ تازہ کاریاں نظارہ کریں
     .accesskey = ن
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = ایڈ اون خود بخود تازہ کریں
     .accesskey = ا
 
@@ -258,6 +266,14 @@ install-update-button = تازہ کاری کریں
 addon-detail-private-browsing-allow = اجازت دیں
 addon-detail-private-browsing-disallow = اجازت مت دیں
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+
 ##
 
 available-updates-heading = دستیاب تازہ کاریاں
@@ -265,6 +281,8 @@ recent-updates-heading = حالیہ تازہ کاریاں
 release-notes-loading = لوڈ ہو رہا ہے…
 addon-permissions-learnmore = اجازتوں کے بارے میں مزید سیکھیں
 recommended-extensions-heading = تجویز شدہ ایکسٹنشن
+recommended-themes-card-heading =
+    .heading = تجویز شدہ تھیمز
 recommended-themes-heading = تجویز شدہ تھیمز
 
 ## Page headings
@@ -303,3 +321,38 @@ plugins-gmp-privacy-info = رازداری معلومات
 plugins-openh264-name = OpenH264 ویڈیو کوڈیک سسکو سسٹمز کیطرف سے فراہم کیا گیا ہے
 plugins-openh264-description = یہ پلگ ان خود کار طریقے سے Mozilla ویبRTC تفصیلات تنصیب کرتا ھے اور ویبRTC کو اہل کرنے کےلِے آلات کو کال کرتا ھے جس کو H.264 وڈیو کوڈیک درکار ھے۔ کوڈیک ماخذ کا نظارہ کرنے کے لیے  https://www.openh264.org/ کا دورہ کریں اور عمل درآمد کے بارے میں مزید جانیں۔
 plugins-widevine-name = وادوینی مشمول خفیہ کشائی گوگل انکارپوریٹڈ کی طرف سے فراہم کردہ ماڈیول
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
