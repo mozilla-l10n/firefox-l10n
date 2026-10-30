@@ -1496,6 +1496,14 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Laman ini memperlambat { -brand-short-name }. Untuk mempercepat peramban, hentikan laman ini.
+process-hang-nonspecific-tab-message = Sebuah laman web memperlambat { -brand-short-name }. Untuk mempercepat peramban, hentikan laman tersebut.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” memperlambat { -brand-short-name }. Untuk mempercepat peramban, hentikan laman tersebut.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” memperlambat { -brand-short-name }. Untuk mempercepat peramban, hentikan ekstensi tersebut.
 process-hang-addon-learn-more =
     .value = Pelajari lebih lanjut
 process-hang-stop-button =
