@@ -1620,6 +1620,14 @@ process-hang-nonspecific-tab-message = Une page web ralentit { -brand-short-name
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = « { $title } » ralentit { -brand-short-name }. Pour accélérer votre navigateur, arrêtez cette page.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = « { $addonName } » ralentit { -brand-short-name }. Pour accélérer votre navigateur, arrêtez cette extension.
+process-hang-addon-learn-more =
+    .value = En savoir plus
+process-hang-stop-button =
+    .label = Arrêter
+    .accesskey = A
 
 ## Onboarding Finish Setup checklist
 
