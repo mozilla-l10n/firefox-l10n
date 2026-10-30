@@ -1595,6 +1595,9 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-stop-button =
+    .label = Կանգնեցնել
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
