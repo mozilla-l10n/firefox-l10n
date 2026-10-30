@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] W zarědniku pokazaś
         }
     .accesskey = d
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Dataja jo se wulašowała
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -258,6 +261,10 @@ downloads-state-blocked-parental-controls = Pśez šćit młoźiny zablokěrowan
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Toś ta dataja wirus abo złosnu softwaru wopśimujo.
+downloads-blocked-potentially-unwanted = Toś ta dataja by mógła wašo licadło wobškóźeś.
+downloads-blocked-potentially-insecure = Dataja njejo se ześěgnuła: Potencielne wěstotne riziko.
+downloads-blocked-uncommon = Toś ta dataja se w normalnem paźe njeześěgujo.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
