@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Прикажи у фасцикли
         }
     .accesskey = ф
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Датотека је премештена или недостаје
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Датотека је избрисана
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Датотека одбачена (блокирана)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Непозната величина
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -250,6 +260,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Почетак…
+downloads-state-failed = Неуспело
+downloads-state-paused = Паузирано
+downloads-state-canceled = Отказано
 downloads-state-completed = Завршено
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -263,12 +277,18 @@ downloads-blocked-malware = Ова датотека је заражена вир
 downloads-blocked-potentially-unwanted = Ова датотека може оштетити ваш рачунар.
 downloads-blocked-potentially-insecure = Датотека није преузета; потенцијални безбедносни ризик.
 downloads-blocked-uncommon = Ова датотека се ретко преузима.
+downloads-blocked-by-content-analysis = Ваша организација је блокирала ову датотеку.
+downloads-warned-by-content-analysis = Ово преузимање може бити небезбедно и захтева потврду.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Датотека је блокирана јер { $agent } није доступан.
+downloads-content-analysis-invalid-agent-signature-error = Датотека је блокирана јер { $agent } није успео да потврди потпис.
+downloads-content-analysis-unspecified-error = Датотека је блокирана због грешке у комуникацији са { $agent }.
+downloads-content-analysis-timeout-error = Време за { $agent } је истекло, па је ова датотека блокирана.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -276,6 +296,24 @@ downloads-blocked-uncommon = Ова датотека се ретко преуз�
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Желите ли заиста да дозволите ово преузимање?
+downloads-unblock-header-open = Желите ли заиста да отворите ову датотеку?
+downloads-unblock-type-malware = Ова датотека је заражена вирусом или другим малвером који може оштетити ваш рачунар.
+downloads-unblock-type-potentially-unwanted = Ова датотека је маскирана као корисна, али њеним отварањем може доћи до неочекиваних промена у вашим програмима и подешавањима.
+downloads-unblock-type-content-analysis-warn = Ваша организација користи софтвер за спречавање губитка података који је означио овај садржај као небезбедан.
+downloads-unblock-type-uncommon = Ова датотека се ретко преузима и можда је заражена вирусом. Њеним отварањем може доћи до неочекиваних промена у вашим програмима и подешавањима.
+downloads-unblock-insecure = Преузимање се нуди преко HTTP-а иако је тренутни документ учитан преко безбедне HTTPS везе. Ако наставите, преузимање може да буде оштећено или компромитовано током процеса преузимања.
+downloads-unblock-tip = Потражите алтернативни извор за преузимање или покушајте касније.
+downloads-unblock-content-analysis-warn-tip = Можете ипак изабрати да је преузмете.
+downloads-unblock-content-analysis-blocked = Ваша организација користи софтвер за спречавање губитка података који је блокирао ово преузимање.
+downloads-unblock-content-analysis-override = Ову одлуку може поништити само ваша организација.
+downloads-unblock-content-analysis-tip = Можете наставити са преузимањем или га отказати.
+downloads-unblock-button-open =
+    .label = Отвори
+downloads-unblock-button-unblock =
+    .label = Дозволи преузимање
+downloads-unblock-button-confirm-block =
+    .label = Уклони датотеку
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -291,3 +329,5 @@ downloads-blocked-uncommon = Ова датотека се ретко преуз�
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
