@@ -397,6 +397,8 @@ release-notes-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ…
 release-notes-error = ᱤᱠᱟᱹ, ᱢᱮᱱᱠᱷᱟᱱ ᱨᱤᱞᱤᱡᱽ ᱱᱚᱴ ᱞᱟᱫᱮ ᱡᱷᱚᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
 addon-permissions-learnmore = ᱪᱷᱟᱹᱲ ᱵᱟᱵᱚᱛ ᱡᱟᱹᱥᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ
 recommended-extensions-heading = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱯᱟᱥᱱᱟᱣᱨᱠᱚ
+recommended-themes-card-heading =
+    .heading = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱛᱷᱤᱢᱠᱚ
 recommended-themes-heading = ᱵᱟᱛᱟᱣ ᱠᱟᱱ ᱛᱷᱤᱢᱠᱚ
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
