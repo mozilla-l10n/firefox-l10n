@@ -361,6 +361,8 @@ release-notes-loading = Laadimine…
 release-notes-error = Vabandust, väljalasketeate laadimisel esines viga.
 addon-permissions-learnmore = Rohkem teavet õiguste kohta
 recommended-extensions-heading = Soovitatavad laiendused
+recommended-themes-card-heading =
+    .heading = Soovitatavad teemad
 recommended-themes-heading = Soovitatavad teemad
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
