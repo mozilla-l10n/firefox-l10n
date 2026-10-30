@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = Atceļt
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Fails nav atrūnoms
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Nazynuoms izmārs
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -149,6 +154,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Uzsuokt…
+downloads-state-failed = Naizadeve
+downloads-state-paused = Apturāta
+downloads-state-canceled = Atcalta
 downloads-state-completed = Pabeigta
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -174,6 +183,18 @@ downloads-blocked-uncommon = Itys fails parostai natīk lejupīluodeits.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Voi tīšom vālotīs atļaut itū lejupīluodi?
+downloads-unblock-header-open = Voi tīšom vālotīs attaiseit itū failu?
+downloads-unblock-type-malware = This file contains a virus or other malware that will harm your computer.
+downloads-unblock-type-potentially-unwanted = This file is disguised as a helpful download, but it can make unexpected changes to your programs and settings.
+downloads-unblock-type-uncommon = This file is not commonly downloaded and may not be safe to open. It may contain a virus or make unexpected changes to your programs and settings.
+downloads-unblock-tip = You can search for an alternate download source or try again later.
+downloads-unblock-button-open =
+    .label = Attaiseit
+downloads-unblock-button-unblock =
+    .label = Atļaut lejupīluodi
+downloads-unblock-button-confirm-block =
+    .label = Aizvuokt failu
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -189,3 +210,5 @@ downloads-blocked-uncommon = Itys fails parostai natīk lejupīluodeits.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
