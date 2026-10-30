@@ -37,6 +37,9 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = S
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Chaidh am faidhle a ghluasad no tha e a dhìth
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Chaidh am faidhle a sguabadh às
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
