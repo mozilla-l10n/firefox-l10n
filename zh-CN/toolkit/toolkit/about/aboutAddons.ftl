@@ -432,6 +432,8 @@ addon-permissions-learnmore = 详细了解“权限”
 # the user.
 addon-permissions-managed-by-policy = 部分权限由您的组织管理。
 recommended-extensions-heading = 推荐扩展
+recommended-themes-card-heading =
+    .heading = 推荐主题
 recommended-themes-heading = 推荐主题
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
