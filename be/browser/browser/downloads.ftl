@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] Паказаць у папцы
         }
     .accesskey = а
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Файл выдалены
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -256,6 +259,10 @@ downloads-state-blocked-parental-controls = Затрымана бацькоўс�
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Гэты файл утрымлівае вірус або шкоднаснае праграмнае забеспячэнне.
+downloads-blocked-potentially-unwanted = Гэты файл можа нанесці шкоду вашаму камп'ютару.
+downloads-blocked-potentially-insecure = Файл не быў сцягнуты: Патэнцыйная рызыка бяспекі.
+downloads-blocked-uncommon = Гэты файл звычайна не сцягваюць.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
