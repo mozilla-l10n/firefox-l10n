@@ -180,6 +180,10 @@ addon-updates-check-for-updates = Controleren op updates
     .accesskey = C
 addon-updates-view-updates = Recente updates bekijken
     .accesskey = R
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Add-ons automatisch bijwerken
     .accesskey = a
 
@@ -329,6 +333,8 @@ release-notes-addon-button = Uitgaveopmerkingen
 permissions-addon-button = Toestemmingen
 extension-enabled-heading = Ingeschakeld
 extension-disabled-heading = Uitgeschakeld
+theme-disabled-heading3 =
+    .heading = Opgeslagen thema’s
 theme-enabled-heading = Ingeschakeld
 theme-disabled-heading2 = Opgeslagen thema’s
 plugin-enabled-heading = Ingeschakeld
