@@ -432,6 +432,8 @@ release-notes-error = Oprostite, ali došlo je do greške prilikom učitavanja n
 addon-permissions-empty2 = Ova ekstenzija ne zahtijeva nikakva odobrenja.
 addon-permissions-learnmore = Saznajte više o dozvolama
 recommended-extensions-heading = Preporučene ekstenzije
+recommended-themes-card-heading =
+    .heading = Preporučene teme
 recommended-themes-heading = Preporučene teme
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
