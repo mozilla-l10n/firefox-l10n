@@ -444,6 +444,8 @@ addon-permissions-learnmore = ვრცლად ნებართვები�
 # the user.
 addon-permissions-managed-by-policy = ზოგიერთი ნებართვა იმართება დაწესებულების მიერ.
 recommended-extensions-heading = შემოთავაზებული გაფართოებები
+recommended-themes-card-heading =
+    .heading = შემოთავაზებული თემები
 recommended-themes-heading = შემოთავაზებული თემები
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
