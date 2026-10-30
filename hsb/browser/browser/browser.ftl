@@ -67,6 +67,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = Dźělić…
     .accesskey = D
+
+##
+
 urlbar-identity-button =
     .aria-label = Sydłowe informacije wobhladać
 
@@ -762,6 +765,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · Sponserowany
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = Prašeć so
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1352,6 +1360,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1625,9 +1636,27 @@ file-picker-crashed-open = Datajowy dialog Windows je spadnył. Dataja abo rjado
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = Datajowy dialog Windows je spadnył. Dataja budźe so do { $path } składować.
 file-picker-crashed-save-nowhere = Datajowy dialog Windows je spadnył. Standardny rjadowak njeda so namakać; dataja njebudźe so składować.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = W rjadowaku pokazać
     .accessKey = r
+
+## Unsigned add-ons notification
+
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-selected-tab-message = Tuta strona { -brand-short-name } spomaluje. Zo byšće swój wobhladowak pospěšił, zastajće tutu stronu.
+process-hang-nonspecific-tab-message = Webstrona { -brand-short-name } spomaluje. Zo byšće swój wobhladowak pospěšił, zastajće tu stronu.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = „{ $title }“ { -brand-short-name } spomaluje. Zo byšće swój wobhladowak pospěšił, zastajće tu stronu.
 
 ## Onboarding Finish Setup checklist
 
@@ -1677,6 +1706,9 @@ trustpanel-blocker-see-all = Wšě pokazać
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = Slědowanski škit za { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
