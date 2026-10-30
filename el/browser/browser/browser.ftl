@@ -1611,14 +1611,26 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Ένα ή περισσότερα εγκατεστημένα πρόσθετα δεν μπορούν να επαληθευτούν και έχουν απενεργοποιηθεί.
+unsigned-addons-disabled-learn-more =
+    .label = Μάθετε περισσότερα
+    .accesskey = Μ
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Αυτή η σελίδα επιβραδύνει το { -brand-short-name }. Για να επιταχύνετε το πρόγραμμα περιήγησής σας, τερματίστε τη.
+process-hang-nonspecific-tab-message = Μια ιστοσελίδα επιβραδύνει το { -brand-short-name }. Για να επιταχύνετε το πρόγραμμα περιήγησής σας, τερματίστε τη.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = Το «{ $title }» επιβραδύνει το { -brand-short-name }. Για να επιταχύνετε το πρόγραμμα περιήγησής σας, τερματίστε αυτήν τη σελίδα.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = Το «{ $addonName }» επιβραδύνει το { -brand-short-name }. Για να επιταχύνετε το πρόγραμμα περιήγησής σας, τερματίστε αυτήν την επέκταση.
 process-hang-addon-learn-more =
     .value = Μάθετε περισσότερα
+process-hang-stop-button =
+    .label = Διακοπή
+    .accesskey = Δ
 
 ## Onboarding Finish Setup checklist
 
