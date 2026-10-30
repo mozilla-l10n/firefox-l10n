@@ -32,6 +32,11 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = T
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Comhad bogtha nó ar iarraidh
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Méid anaithnid
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -164,6 +169,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Á Tosú…
+downloads-state-failed = Teipthe
+downloads-state-paused = Curtha ar Sos
+downloads-state-canceled = Cealaithe
 downloads-state-completed = Críochnaithe
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -189,6 +198,18 @@ downloads-blocked-uncommon = Ní íoslódáiltear an comhad seo go minic.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = An bhfuil tú cinnte gur mhaith leat an íoslódáil seo a cheadú?
+downloads-unblock-header-open = An bhfuil tú cinnte gur mhaith leat an comhad seo a oscailt?
+downloads-unblock-type-malware = Tá víreas nó bogearraí mailíseacha a dhéanfadh dochar do do ríomhaire sa chomhad seo.
+downloads-unblock-type-potentially-unwanted = Tá an comhad seo ag ligean air gur íoslódáil chabhrach é, ach seans go n-athróidh sé do chóras ar bhealach nach mbeifeá ag súil leis.
+downloads-unblock-type-uncommon = Ní íoslódáiltear an comhad seo go minic agus seans go mbeadh sé contúirteach é a oscailt, mar shampla dá mbeadh víreas ann, nó dá ndéanfadh sé athrú ar do ríomhaire nach mbeifeá ag súil leis.
+downloads-unblock-tip = Tig leat an comhad a lorg ar shuíomh eile, nó iarracht eile a dhéanamh ar ball.
+downloads-unblock-button-open =
+    .label = Oscail
+downloads-unblock-button-unblock =
+    .label = Ceadaigh an íoslódáil
+downloads-unblock-button-confirm-block =
+    .label = Bain an comhad
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -204,3 +225,5 @@ downloads-blocked-uncommon = Ní íoslódáiltear an comhad seo go minic.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
