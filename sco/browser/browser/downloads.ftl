@@ -28,6 +28,13 @@ downloads-cmd-cancel =
     .tooltiptext = Stap
 downloads-cmd-cancel-panel =
     .aria-label = Stap
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = File flittit or missin
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Size no kent
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -138,6 +145,15 @@ downloads-history =
 downloads-details =
     .title = Doonload Details
 
+## These strings are displayed in the private browsing view of the downloads panel
+
+
+## Displayed when a site attempts to automatically download many files.
+## Variables:
+##   $num (number) - Number of blocked downloads.
+##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
+
+
 ##
 
 downloads-clear-downloads-button =
@@ -164,3 +180,66 @@ downloads-error-generic =
     The doonload cannae be saved acause an unkent error tuik place.
     
     Gie it anither shot.
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+downloads-state-starting = Stertin…
+downloads-state-failed = Didnae wirk
+downloads-state-paused = On haud the noo
+downloads-state-canceled = Stappit
+downloads-state-completed = Feenisht
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blockit by Parental Controls
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+downloads-blocked-malware = This file conteens a virus or malware.
+downloads-blocked-potentially-unwanted = This file micht hairm yer computer.
+downloads-blocked-potentially-insecure = File no doonloadit: Potential siccarness risk.
+downloads-blocked-uncommon = This file isnae fur ordinar doonloadit.
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+downloads-unblock-header-unblock = Are ye siccar yer wantin tae alloo this doonload?
+downloads-unblock-header-open = Are ye siccar yer wantin tae open this file?
+downloads-unblock-type-malware = This file conteens a virus or ither malware that will hairm yer computer.
+downloads-unblock-type-potentially-unwanted = This file lats on tae be a helpfu doonload, but it can mak unexpectit chynges tae yer programs and settins.
+downloads-unblock-type-uncommon = This file isnae fur ordinar doonloadit and micht no be sauf tae open. It micht conteen a virus or mak unexpectit chynges tae yer programs and settins.
+downloads-unblock-tip = Ye can luik fur an alternate doonload soorce or gie it anither shot later on.
+downloads-unblock-button-open =
+    .label = Open
+downloads-unblock-button-unblock =
+    .label = Alloo doonload
+downloads-unblock-button-confirm-block =
+    .label = Remuive file
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
