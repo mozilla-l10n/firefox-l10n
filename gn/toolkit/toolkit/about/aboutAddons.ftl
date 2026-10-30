@@ -434,6 +434,8 @@ addon-permissions-learnmore = Eikuaave ñemoneĩ rehegua
 # the user.
 addon-permissions-managed-by-policy = Oĩ ñemoneĩ ombohapéva ne mba’apohaguasu.
 recommended-extensions-heading = Jepysokue je’eporãpyre
+recommended-themes-card-heading =
+    .heading = Téma je’eporãpyre
 recommended-themes-heading = Téma je’eporãpyre
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
