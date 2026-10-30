@@ -96,6 +96,9 @@ genai-more-actions-copy =
 genai-more-actions-all-off-notice = Den här menyn visas inte när du markerar text. Gå till Inställningar <span data-l10n-name="chevron"></span> Flikar och surfning för att visa den igen.
 genai-more-actions-manage-settings =
     .label = Hantera inställningar
+genai-selection-callout-title = Markera text för att välja en åtgärd
+# "Search" and "Copy" are verbs.
+genai-selection-callout-text = Sök eller kopiera när du markerar text. Välj vilka åtgärder som ska visas på menyn <span data-l10n-name="more-actions">•••</span>.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Fråga { $provider }

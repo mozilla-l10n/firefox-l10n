@@ -583,6 +583,9 @@ newtab-travel-widget-open-menu-button =
     .title = Öppna menyn för resor
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Läs mer
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Drivs med kajak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -814,6 +817,9 @@ newtab-discovery-empty-section-topstories-header = Du är ikapp!
 newtab-discovery-empty-section-topstories-content = Kom tillbaka senare för fler berättelser.
 newtab-discovery-empty-section-topstories-try-again-button = Försök igen
 newtab-discovery-empty-section-topstories-loading = Laddar…
+# Headline and body shown when stories fail to load, for example when offline or the server can’t be reached.
+newtab-discovery-empty-section-topstories-unavailable-header = Berättelser är inte tillgängliga just nu
+newtab-discovery-empty-section-topstories-unavailable-body = Kontrollera din anslutning eller försök igen senare.
 # Displays when a layout in a section took too long to fetch articles.
 newtab-discovery-empty-section-topstories-timed-out = Hoppsan! Vi laddade nästan detta avsnitt, men inte riktigt.
 
@@ -1111,6 +1117,9 @@ newtab-wallpaper-firefox-peak-dark = Ett rävansikte längs vänsterkanten mot e
 newtab-wallpaper-firefox-peak-light = Ett rävansikte längs vänsterkanten mot en ljus bakgrund
 newtab-wallpaper-firefox-sky-dark = Mörklila kullar under en natthimmel
 newtab-wallpaper-firefox-sky-light = Ljusa kullar under en mild himmel
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Wrexham AFC-vapen på en röd bakgrund
 
 ## Firefox
 
@@ -1550,6 +1559,9 @@ newtab-promo-card-dismiss-button =
 newtab-crossword-widget-open-menu-button =
     .aria-label = Öppna korsordsmenyn
     .title = Öppna korsordsmenyn
+# Context menu item linking to the Particle website, the provider of the
+# crossword. “Particle” is a brand name and should not be translated.
+newtab-crossword-menu-powered-by-particle = Drivs av partiklar
 
 ## Strings introduced by the Nova redesign of the Timer widget
 

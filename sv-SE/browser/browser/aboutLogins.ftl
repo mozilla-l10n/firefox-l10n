@@ -23,6 +23,7 @@ about-logins-menu-menuitem-import-from-another-browser = Importera från en anna
 about-logins-menu-menuitem-import-from-a-file = Importera från en fil…
 about-logins-menu-menuitem-export-logins2 = Exportera lösenord…
 about-logins-menu-menuitem-remove-all-logins2 = Ta bort alla lösenord…
+about-logins-menu-menuitem-delete-all-logins = Ta bort alla lösenord…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Inställningar
@@ -89,6 +90,7 @@ about-logins-intro-import3 = Välj plustecknet ovan för att lägga till ett lö
 about-logins-login-item-new-login-title = Lägg till lösenord
 login-item-edit-button = Redigera
 about-logins-login-item-remove-button = Ta bort
+about-logins-login-item-delete-button = Ta bort
 login-item-origin-label = Webbadress
 about-logins-origin-tooltip2 = Ange hela adressen och se till att den stämmer exakt med var du loggar in.
 # Variables
@@ -174,9 +176,15 @@ confirmation-dialog-dismiss-button =
     .title = Avbryt
 # Title for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-title = Ta bort lösenord?
+# Title for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-title2 = Ta bort lösenord?
 # Message for modal to confirm the removal of one saved password
 about-logins-confirm-delete-dialog-message = Du kan inte ångra den här åtgärden.
+# Message for modal to confirm the deletion of one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-message2 = Detta tar bort den från { -brand-short-name } på varje enhet som synkroniserar dina lösenord. Du kan inte ångra detta.
 about-logins-confirm-remove-dialog-confirm-button = Ta bort
+# Confirm button for the modal to delete one saved password when per-device sync is enabled
+about-logins-confirm-delete-dialog-confirm-button = Ta bort
 
 ## Variables
 ##   $count (number) - Number of items
@@ -187,11 +195,25 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Ta bort
        *[other] Ta bort alla
     }
+# Confirm button for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Ta bort
+        [one] Ta bort alla
+       *[other] Ta bort alla
+    }
 # Checkbox for modal to confirm the removal of saved passwords
 about-logins-confirm-remove-all-dialog-checkbox-label2 =
     { $count ->
         [1] Ja, ta bort lösenordet
        *[other] Ja, ta bort lösenorden
+    }
+# Checkbox for modal to confirm the deletion of saved passwords when user IS synced with per-device sync
+about-logins-confirm-delete-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ja, ta bort lösenord
+        [one] Ja, ta bort lösenord
+       *[other] Ja, ta bort lösenord
     }
 # Title for modal to confirm the removal of all saved passwords when user is NOT synced
 about-logins-confirm-remove-all-dialog-title2 =
@@ -211,11 +233,24 @@ about-logins-confirm-remove-all-sync-dialog-title2 =
         [one] Vill du ta bort { $count } lösenord från alla enheter?
        *[other] Vill du ta bort alla { $count } lösenord från alla enheter?
     }
+# Title for modal to confirm the deletion of all saved passwords when user IS SYNCED with per-device sync
+about-logins-confirm-delete-all-sync-dialog-title =
+    { $count ->
+        [one] Ta bort { $count } lösenord?
+       *[other] Ta bort { $count } lösenord?
+    }
 # Message for modal to confirm the removal of saved passwords when user IS synced.
 about-logins-confirm-remove-all-sync-dialog-message3 =
     { $count ->
         [1] Detta kommer att ta bort lösenorden som sparas till { -brand-short-name } på alla dina synkroniserade enheter. Detta kommer också att ta bort eventuella intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
        *[other] Detta kommer att ta bort alla lösenord som sparas till { -brand-short-name } på alla dina synkroniserade enheter. Detta kommer också att ta bort eventuella intrångsvarningar som visas här. Du kan inte ångra den här åtgärden.
+    }
+# Message for modal to confirm the deletion of saved passwords when user IS synced with per-device sync.
+about-logins-confirm-delete-all-sync-dialog-message =
+    { $count ->
+        [1] Detta tar bort den från { -brand-short-name } på varje enhet som synkroniserar dina lösenord. Du kan inte ångra detta.
+        [one] Detta tar bort dem från { -brand-short-name } på varje enhet som synkroniserar dina lösenord. Du kan inte ångra detta.
+       *[other] Detta tar bort dem från { -brand-short-name } på varje enhet som synkroniserar dina lösenord. Du kan inte ångra detta.
     }
 
 ##

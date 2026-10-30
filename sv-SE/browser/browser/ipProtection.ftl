@@ -465,5 +465,7 @@ vpn-error-page-keep-browsing = Fortsätt surfa i den här sessionen
 vpn-error-page-new-session = Starta en ny session
 vpn-paused-alert-close-tabs-button = Stäng alla flikar
 vpn-paused-alert-continue-wo-vpn-button = Fortsätt utan VPN
+vpn-error-alert-title-1 = VPN och regler fungerar inte just nu.
+vpn-error-alert-body-1 = Att slå på och av VPN kan fixa problemet.
 vpn-error-alert-title = VPN fungerar inte just nu.
 vpn-error-alert-body = Försök igen senare.
