@@ -545,6 +545,8 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-addon-learn-more =
+    .value = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 
 ## Onboarding Finish Setup checklist
 
