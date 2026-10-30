@@ -149,3 +149,4 @@ downloads-unblock-button-confirm-block =
 ##   $end (String) - The text after the separator.
 
 downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
