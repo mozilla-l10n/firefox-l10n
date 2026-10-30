@@ -1618,11 +1618,17 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Legalább egy telepített kiegészítő nem ellenőrizhető, és le lett tiltva.
+unsigned-addons-disabled-learn-more =
+    .label = További tudnivalók
+    .accesskey = T
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
 process-hang-selected-tab-message = Ez az oldal lelassítja a { -brand-short-name } futását. A böngésző felgyorsítása érdekében állítsa le ezt az oldalt.
 process-hang-nonspecific-tab-message = Egy weboldal lelassítja a { -brand-short-name } futását. A böngésző felgyorsítása érdekében állítsa le azt az oldalt.
+process-hang-addon-learn-more =
+    .value = További tudnivalók
 
 ## Onboarding Finish Setup checklist
 
