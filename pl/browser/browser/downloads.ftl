@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Pokaż w folderze
         }
     .accesskey = P
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Brak pobranego pliku (mógł zostać przeniesiony lub usunięty)
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Usunięty plik
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Odrzucony plik (zablokowany)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Rozmiar nieznany
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -250,16 +260,35 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Rozpoczynanie…
+downloads-state-failed = Pobranie się nie powiodło
+downloads-state-paused = Pobieranie wstrzymane
+downloads-state-canceled = Pobieranie anulowane
+downloads-state-completed = Pobieranie ukończone
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Zablokowane przez kontrolę rodzicielską
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Ten plik zawiera wirusa lub inne złośliwe oprogramowanie
+downloads-blocked-potentially-unwanted = Ten plik może wyrządzić szkody na komputerze
+downloads-blocked-potentially-insecure = Nie pobrano pliku: potencjalne zagrożenie bezpieczeństwa
+downloads-blocked-uncommon = Ten plik nie jest zazwyczaj pobierany
+downloads-blocked-by-content-analysis = Ten plik został zablokowany przez Twoją organizację
+downloads-warned-by-content-analysis = Pobranie tego pliku może być niebezpieczne i wymaga potwierdzenia
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Plik został zablokowany, ponieważ nie można połączyć się z agentem { $agent }
+downloads-content-analysis-invalid-agent-signature-error = Plik został zablokowany, ponieważ agent { $agent } nie przeszedł weryfikacji podpisu
+downloads-content-analysis-unspecified-error = Plik został zablokowany z powodu błędu komunikacji z agentem { $agent }
+downloads-content-analysis-timeout-error = Agent { $agent } przekroczył czas oczekiwania, więc ten plik został zablokowany
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -267,6 +296,24 @@ downloads-error-generic =
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Czy na pewno pozwolić na pobranie tego pliku?
+downloads-unblock-header-open = Czy na pewno otworzyć ten plik?
+downloads-unblock-type-malware = Ten plik zawiera wirusa lub inne złośliwe oprogramowanie, które może wyrządzić szkody na komputerze.
+downloads-unblock-type-potentially-unwanted = Ten plik, przedstawiany jako pomocny, może wprowadzić nieoczekiwane zmiany w programach i ustawieniach.
+downloads-unblock-type-content-analysis-warn = Twoja organizacja korzysta z oprogramowania zapobiegającego utracie danych, które oznaczyło tę treść jako niebezpieczną.
+downloads-unblock-type-uncommon = Ten plik nie jest zazwyczaj pobierany, a jego otwarcie może nie być bezpieczne. Może zawierać wirusa lub wprowadzić nieoczekiwane zmiany w programach i ustawieniach.
+downloads-unblock-insecure = Pobieranie jest proponowane przez połączenie HTTP, mimo że bieżący dokument został dostarczony przez zabezpieczone połączenie HTTPS. Jeśli proces pobierania zostanie kontynuowany, plik może zostać uszkodzony lub sfałszowany.
+downloads-unblock-tip = Można spróbować pobrać plik później lub z innej lokalizacji.
+downloads-unblock-content-analysis-warn-tip = Można wybrać pobranie pliku mimo to.
+downloads-unblock-content-analysis-blocked = Twoja organizacja korzysta z oprogramowania zapobiegającego utracie danych, które zablokowało to pobieranie.
+downloads-unblock-content-analysis-override = Tę decyzję może zmienić wyłącznie Twoja organizacja.
+downloads-unblock-content-analysis-tip = Można kontynuować pobieranie lub je anulować.
+downloads-unblock-button-open =
+    .label = Otwórz
+downloads-unblock-button-unblock =
+    .label = Pozwól
+downloads-unblock-button-confirm-block =
+    .label = Usuń
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -282,3 +329,5 @@ downloads-error-generic =
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } — { $end }
