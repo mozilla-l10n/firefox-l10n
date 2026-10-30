@@ -101,6 +101,7 @@ downloads-error-extension = Stu scarricamentu nun po èssiri sarbatu picchì è 
 
 downloads-state-starting = Sta accuminciannu…
 downloads-state-failed = Fallutu
+downloads-state-paused = Misu ’n pausa
 downloads-state-canceled = Sfallutu
 downloads-state-completed = Cumpletu
 # Indicates that the download was blocked by the Parental Controls feature of
@@ -127,6 +128,12 @@ downloads-blocked-uncommon = Stu pricu nun veni scarricatu spissu.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Sì sicuru ca vo’ pirmèttiri stu scarricamentu?
+downloads-unblock-header-open = Vo’ gràpiri stu pricu?
+downloads-unblock-type-malware = Stu pricu cunteni un virus o autri prugrammi malèvuli ca ponnu causari danni ô to computer.
+downloads-unblock-type-potentially-unwanted = Stu pricu è mascaratu comu nu scarricamentu ùtili, ma putissi fari canciamenti chi nun t’aspetti ê to prugrammi e mpustazzioni.
+downloads-unblock-type-uncommon = Chistu nun è un pricu chi di sòlitu veni scarricatu e putissi nun èssiri sicuru di ràpiri. Putissi cuntèniri un virus o putissi fari canciamenti chi ’un t’aspetti ê to prugrammi e mpustazzioni.
+downloads-unblock-tip = Po’ riscèdiri n’autra funti pi scarricari o po’ pruvari arrè cchiù tardu.
 downloads-unblock-button-open =
     .label = Grapi
 downloads-unblock-button-unblock =
