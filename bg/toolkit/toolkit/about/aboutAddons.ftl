@@ -386,6 +386,8 @@ release-notes-loading = Зареждане…
 release-notes-error = За съжаление, зареждането на бележките към изданието е неуспешно.
 addon-permissions-learnmore = Научете повече за правата
 recommended-extensions-heading = Препоръчани разширения
+recommended-themes-card-heading =
+    .heading = Препоръчани теми
 recommended-themes-heading = Препоръчани теми
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
