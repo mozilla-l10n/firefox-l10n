@@ -1561,9 +1561,21 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = تعذّر التحقق من أحد الإضافات المثبتة لذا عُطّلت.
+unsigned-addons-disabled-learn-more =
+    .label = اطّلع على المزيد
+    .accesskey = ط
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = تتسبّب هذه الصفحة بإبطاء عمل { -brand-short-name }. أوقِفها لتسريع المتصفّح.
+process-hang-nonspecific-tab-message = تتسبّب إحدى الصفحات بإبطاء عمل { -brand-short-name }. أوقِفها لتسريع المتصفّح.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = يتسبّب اللسان ”{ $title }“ بإبطاء عمل { -brand-short-name }. أوقِفه لتسريع المتصفّح.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = يتسبّب الامتداد ”{ $addonName }“ بإبطاء عمل { -brand-short-name }. أوقِفه لتسريع المتصفّح.
 process-hang-addon-learn-more =
     .value = اطّلع على المزيد
 process-hang-stop-button =
