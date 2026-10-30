@@ -397,6 +397,8 @@ release-notes-error = Maaf, galat terjadi ketika memuat catatan rilis.
 addon-permissions-empty2 = Ekstensi ini tidak memerlukan izin apa pun.
 addon-permissions-learnmore = Pelajari lebih lanjut tentang perizinan
 recommended-extensions-heading = Ekstensi yang Disarankan
+recommended-themes-card-heading =
+    .heading = Tema yang Disarankan
 recommended-themes-heading = Tema yang Disarankan
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
