@@ -23,6 +23,11 @@ downloads-cmd-cancel =
     .tooltiptext = नेवसिगार
 downloads-cmd-cancel-panel =
     .aria-label = नेवसिगार
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = मोनथिमोनै महर
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -135,6 +140,8 @@ downloads-state-blocked-parental-controls = पेरेन्टाल सा�
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = बे फाइलआव भाइरास एबा खहागोनां बेसाद दं।
+downloads-blocked-potentially-unwanted = बेयो नोंथांनि कम्पुटारखौ खहा खालामनो हागौ।
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
@@ -148,6 +155,13 @@ downloads-state-blocked-parental-controls = पेरेन्टाल सा�
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-type-malware = बे फाइलआव भाइरास एबा गुबुन खहागोनां बेसाद दं जाय नोंथांनि कम्पुटारखौ खहा खालामनो हागौ।
+downloads-unblock-button-open =
+    .label = खेव
+downloads-unblock-button-unblock =
+    .label = डाउनॱलद खालामनो गनायथि होर
+downloads-unblock-button-confirm-block =
+    .label = फाइलखौ बोखार
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -163,3 +177,5 @@ downloads-state-blocked-parental-controls = पेरेन्टाल सा�
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
