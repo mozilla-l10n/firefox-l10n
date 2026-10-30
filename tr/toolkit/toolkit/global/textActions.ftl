@@ -83,7 +83,7 @@ text-action-copy-link-to-highlight-2 =
 # and it strips trackers etc.
 text-action-copy-clean-link-to-highlight-2 =
     .label = Vurgunun temiz bağlantısını kopyala
-    .accesskey = V
+    .accesskey = i
 # If the page has been loaded with a text fragment and text is
 # visibly highlighted, this removes any highlighted sections on the page.
 text-action-remove-highlight-2 =

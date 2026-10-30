@@ -50,53 +50,53 @@ permissions-autoplay-menu = Domyślne dla wszystkich witryn:
 permissions-searchbox =
     .placeholder = Szukaj witryn
 permissions-capabilities-autoplay-allow =
-    .label = zezwalanie na dźwięk i wideo
+    .label = Zezwalaj na dźwięk i wideo
 permissions-capabilities-autoplay-block =
-    .label = blokowanie dźwięku
+    .label = Blokuj dźwięk
 permissions-capabilities-autoplay-blockall =
-    .label = blokowanie dźwięku i wideo
+    .label = Blokuj dźwięk i wideo
 permissions-capabilities-allow =
-    .label = zezwalaj
+    .label = Zezwalaj
 permissions-capabilities-block =
-    .label = blokuj
+    .label = Blokuj
 permissions-capabilities-prompt =
-    .label = zawsze pytaj
+    .label = Zawsze pytaj
 permissions-capabilities-listitem-allow =
-    .value = zezwalaj
+    .value = Zezwalaj
 permissions-capabilities-listitem-block =
-    .value = blokuj
+    .value = Blokuj
 permissions-capabilities-listitem-allow-session =
-    .value = zezwalaj na czas sesji
+    .value = Zezwalaj na czas sesji
 permissions-capabilities-listitem-off =
-    .value = wyłącz
+    .value = Wyłącz
 permissions-capabilities-listitem-off-temporarily =
-    .value = wyłącz tymczasowo
+    .value = Wyłącz tymczasowo
 
 ## Invalid Hostname Dialog
 
-permissions-invalid-uri-title = Wprowadzono nieprawidłową nazwę hosta
-permissions-invalid-uri-label = Podaj prawidłową nazwę hosta
+permissions-invalid-uri-title = Podano nieprawidłową nazwę witryny
+permissions-invalid-uri-label = Podaj prawidłową nazwę witryny
 
 ## Exceptions - Tracking Protection
 
 permissions-exceptions-etp-window2 =
     .style = { permissions-window2.style }
     .title = Wzmocniona ochrona przed śledzeniem — wyjątki
-permissions-exceptions-manage-etp-desc = Określ, na których witrynach wyłączyć wzmocnioną ochronę przed śledzeniem. Podaj dokładny adres witryny, której ustawienia chcesz zmodyfikować, i naciśnij Dodaj wyjątek.
+permissions-exceptions-manage-etp-desc = Określ, na których witrynach wyłączyć wzmocnioną ochronę przed śledzeniem. Podaj dokładny adres witryny, której ustawienia chcesz zmodyfikować, i kliknij Dodaj wyjątek.
 
 ## Exceptions - Cookies
 
 permissions-exceptions-cookie-window2 =
     .style = { permissions-window2.style }
     .title = Ciasteczka i dane witryn — wyjątki
-permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i danych witryn. Podaj dokładny adres witryny, której uprawnienia chcesz zmodyfikować, a następnie naciśnij Zezwalaj, Blokuj lub Zezwalaj na czas sesji.
+permissions-exceptions-cookie-desc = Określ zasady akceptacji ciasteczek i danych witryn. Podaj dokładny adres witryny, której uprawnienia chcesz zmodyfikować, a następnie kliknij Zezwalaj, Blokuj lub Zezwalaj na czas sesji.
 
 ## Exceptions - Clear on Shutdown
 
 permissions-exceptions-shutdown-clearing-window =
     .style = { permissions-window2.style }
     .title = Czyszczenie historii podczas wyłączania — wyjątki
-permissions-exceptions-shutdown-clearing-desc = Określ, których witryn dane nie będą usuwane, kiedy { -brand-short-name } czyści historię podczas zamykania. Podaj dokładny adres witryny, która będzie zarządzana przez użytkownika, i naciśnij Zezwalaj.
+permissions-exceptions-shutdown-clearing-desc = Określ, których witryn dane nie będą usuwane, kiedy { -brand-short-name } czyści historię podczas zamykania. Podaj dokładny adres witryny, która będzie zarządzana przez użytkownika, i kliknij Zezwalaj.
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -140,7 +140,7 @@ permissions-site-notification-window2 =
     .title = Wyświetlanie powiadomień — uprawnione witryny
 permissions-site-notification-desc = Następujące strony prosiły o możliwość wyświetlania powiadomień. Określ, które witryny mogą je wyświetlać. Można także zablokować nowe prośby.
 permissions-site-notification-disable-label =
-    .label = Blokowanie nowych próśb o możliwość wyświetlania powiadomień
+    .label = Blokuj nowe prośby o możliwość wyświetlania powiadomień
 permissions-site-notification-disable-desc = Uniemożliwi to witrynom spoza listy powyżej proszenie o możliwość wysyłania powiadomień. Zablokowanie powiadomień może spowodować, że niektóre funkcje witryny nie będą działać.
 
 ## Site Permissions - Location

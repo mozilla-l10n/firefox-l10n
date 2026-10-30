@@ -1911,6 +1911,13 @@ notifications-state-allow = İzin ver
 # column headed "Allow notifications", for websites blocked from sending
 # notifications.
 notifications-state-never = Asla
+# Shown as a row under the list header when no website has a stored
+# notification decision.
+notifications-empty-message =
+    .label = Hiç web sitesi bildirimi eklenmedi.
+# Shown as a row under the list header when a search matches no website.
+notifications-no-results-message =
+    .label = Aramanızla eşleşen hiçbir web sitesi bildirimi bulunamadı.
 
 ## Privacy Section - Data Collection
 
