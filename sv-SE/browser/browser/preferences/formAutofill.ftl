@@ -127,7 +127,7 @@ autofill-card-billing-address-2 =
 #     on the card network (for example "CVV", or "Security code" when the
 #     network isn't known yet)
 autofill-card-security-code-optional-2 =
-    .label = { $securityCode } (valfritt)
+    .label = { $securityCode } (valfri)
 # "CVV" is a common abbreviation for the security code printed on a payment
 # card. Use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-optional =

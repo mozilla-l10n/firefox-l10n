@@ -144,7 +144,7 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = Detta kommer att förhindra att webbplatser som inte listas ovan från att begära tillstånd att skicka meddelanden. Blockering av meddelanden kan störa vissa webbplatsfunktioner.
 # Shown only where notifications can be delivered while the browser is closed.
 permissions-site-notification-closed-delivery-label =
-    .label = Tillåt webbplatsmeddelanden när { -brand-short-name } är stängd
+    .label = Tillåt aviseringar från webbplatser när { -brand-short-name } är stängd
 # Notes that the operating system's own notification settings can still block
 # notifications delivered while the browser is closed.
 permissions-site-notification-closed-delivery-desc = Dina aviseringsinställningar för operativsystemet gäller också.

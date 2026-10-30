@@ -55,7 +55,7 @@ clear-time-duration-value-since-midnight =
 clear-time-duration-value-today =
     .label = Idag
 clear-time-duration-value-all-time =
-    .label = Hela tiden
+    .label = Allt
 clear-time-duration-value-everything =
     .label = All historik
 clear-time-duration-suffix =
@@ -66,8 +66,8 @@ clear-time-duration-suffix =
 
 history-section-label = Historik
 item-history-and-downloads2 =
-    .label = Besökta sidor och filhämtningshistorik
-    .accesskey = B
+    .label = Webb- och nedladdningshistorik
+    .accesskey = W
 # Description for the "Browsing and downloads history" item, which can be selected for deletion
 item-history-and-downloads-description3 = Besökta webbplatser och nedladdningslista
 item-history-and-downloads =
@@ -105,7 +105,7 @@ item-cached-content2 =
     .label = Tillfälliga filer
     .accesskey = T
 # Description for the "Temporary files" item, which can be selected for deletion
-item-cached-content-description2 = Hjälper webbplatser att laddas snabbare
+item-cached-content-description2 = Gör att webbplatser laddas snabbare
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -128,7 +128,7 @@ item-formdata-prefs =
 # Description for the "Saved form info" item, which can be selected for deletion
 item-formdata-description2 = Namn, e-post och formulärposter
 # Description for the "Site settings" item, which can be selected for deletion
-item-site-prefs-description2 = Webbplatsens behörigheter och inställningar
+item-site-prefs-description2 = Behörigheter och inställningar för webbplatser
 item-formdata-description = Rensar saker som namn, e-post och andra objekt som du anger i formulär
 item-site-prefs-description = Återställer dina behörigheter och webbplatsinställningar till ursprungliga inställningar
 data-section-label = Data
