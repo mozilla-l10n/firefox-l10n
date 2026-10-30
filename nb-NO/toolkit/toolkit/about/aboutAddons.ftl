@@ -443,6 +443,8 @@ addon-permissions-learnmore = Les mer om tillatelser
 # the user.
 addon-permissions-managed-by-policy = Noen tillatelser administreres av organisasjonen din.
 recommended-extensions-heading = Anbefalte utvidelser
+recommended-themes-card-heading =
+    .heading = Anbefalte temaer
 recommended-themes-heading = Anbefalte temaer
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
