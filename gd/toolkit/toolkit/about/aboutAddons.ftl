@@ -371,6 +371,8 @@ release-notes-loading = ’Ga luchdadh…
 release-notes-error = Tha sinn duilich ach thachair mearachd rè luchdadh nan nòtaichean sgaoilidh.
 addon-permissions-learnmore = Barrachd fiosrachaidh mu cheadan
 recommended-extensions-heading = Leudachain a mholamaid
+recommended-themes-card-heading =
+    .heading = Ùrlaran a mholamaid
 recommended-themes-heading = Ùrlaran a mholamaid
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
