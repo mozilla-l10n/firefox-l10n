@@ -64,7 +64,7 @@ customkeys-caution-message = Questa funzione è sperimentale e potrebbe non funz
 # Displayed in the new key field when the key that was pressed isn't valid.
 customkeys-key-invalid = Non valido
 customkeys-shortcut-unassigned =
-    .placeholder = Aggiungi scorciatoia
+    .placeholder = Agg. scorciatoia
 # Variables:
 # $keyLabel (string) - The name of the shortcut, e.g. “New Tab”.
 customkeys-shortcut-input = Scorciatoia per: { $keyLabel }
