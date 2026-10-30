@@ -171,6 +171,10 @@ addon-updates-check-for-updates = 檢查更新
     .accesskey = C
 addon-updates-view-updates = 檢視最近的更新
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = 自動更新附加元件
     .accesskey = A
 
@@ -310,6 +314,8 @@ release-notes-addon-button = 發行公告
 permissions-addon-button = 權限
 extension-enabled-heading = 啟用
 extension-disabled-heading = 停用
+theme-disabled-heading3 =
+    .heading = 儲存的佈景主題
 theme-enabled-heading = 啟用
 theme-disabled-heading2 = 儲存的佈景主題
 plugin-enabled-heading = 啟用
