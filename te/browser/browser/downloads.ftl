@@ -37,6 +37,11 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = F
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = దస్త్రం వేరేచోటికి తరలించబడింది లేదా పోయింది
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = తెలియని పరిమాణం
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -209,6 +214,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = ప్రారంభిస్తోంది…
+downloads-state-failed = విఫలమైంది
+downloads-state-paused = నిలుపబడింది
+downloads-state-canceled = రద్దు చేయబడినది
 downloads-state-completed = పూర్తయింది
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -234,6 +243,18 @@ downloads-blocked-uncommon = సాధారణంగా ఈ దస్త్ర�
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = మీరు ఈ  దింపుకోళ్ళను ఖచ్చితంగా అనుమతించాలనుకుంటున్నారా?
+downloads-unblock-header-open = మీరు ఈ ఫైలును ఖచ్చితంగా తెరవాలనుకుంటున్నారా?
+downloads-unblock-type-malware = ఈ ఫైల్ మీ కంప్యూటర్‌కు హానికారకమైన వైరల్ లేదా ఇతర మాల్‌వేర్ కలిగివుంది.
+downloads-unblock-type-potentially-unwanted = ఈ ఫైలు ఒక ఉపయోగపడిందా  దింపుకోళ్ళు వలె మారువేషంలో, కానీ అది మీ కార్యక్రమాలు మరియు సెట్టింగులను ఊహించని మార్పులు చేయవచ్చు.
+downloads-unblock-type-uncommon = ఈ దస్త్రం సాధారణంగా  దింపుకోళ్ళచేయబడదు మరియు తెరవడానికి సురక్షితం కాకపోవచ్చు. ఇది ఒక వైరస్ కలిగి లేదా మీ కార్యక్రమాలు మరియు సెట్టింగులను ఊహించని మార్పులు చేయవచ్చు.
+downloads-unblock-tip = మీరు ఒక ప్రత్యామ్నాయ  దింపుకోళ్ళమూలం వెతకవచ్చు లేదా తరువాత మళ్ళీ ప్రయత్నించవచ్చు.
+downloads-unblock-button-open =
+    .label = తెరువు
+downloads-unblock-button-unblock =
+    .label = దింపుకోళ్ళను అనుమతించు
+downloads-unblock-button-confirm-block =
+    .label = ఫైల్‌ని తీసివేయి
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -249,3 +270,5 @@ downloads-blocked-uncommon = సాధారణంగా ఈ దస్త్ర�
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
