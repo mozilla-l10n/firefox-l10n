@@ -845,6 +845,14 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Esta pàgina fa que el { -brand-short-name } vagi més lent. Per accelerar el navegador, pareu-la.
+process-hang-nonspecific-tab-message = Una pàgina web fa que el { -brand-short-name } vagi més lent. Per accelerar el navegador, pareu-la.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = La pàgina «{ $title }» fa que el { -brand-short-name } vagi més lent. Per accelerar el navegador, pareu-la.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = L'extensió «{ $addonName }» fa que el { -brand-short-name } vagi més lent. Per accelerar el navegador, pareu-la.
 process-hang-addon-learn-more =
     .value = Més informació
 process-hang-stop-button =
