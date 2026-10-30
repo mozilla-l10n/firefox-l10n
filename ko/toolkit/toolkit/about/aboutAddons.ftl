@@ -442,6 +442,8 @@ addon-permissions-learnmore = 권한에 대해 더 알아보기
 # the user.
 addon-permissions-managed-by-policy = 일부 권한은 조직에서 관리합니다.
 recommended-extensions-heading = 추천 확장 기능
+recommended-themes-card-heading =
+    .heading = 추천 테마
 recommended-themes-heading = 추천 테마
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
