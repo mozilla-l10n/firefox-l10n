@@ -448,6 +448,8 @@ addon-permissions-learnmore = اطّلع على المزيد عن التصاري
 # the user.
 addon-permissions-managed-by-policy = تُدير منظمتك إدارة بعض الأذونات.
 recommended-extensions-heading = الامتدادات المقترحة
+recommended-themes-card-heading =
+    .heading = السمات المقترحة
 recommended-themes-heading = السمات المقترحة
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
