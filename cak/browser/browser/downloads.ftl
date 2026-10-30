@@ -35,6 +35,11 @@ downloads-cmd-show-menuitem-2 =
            *[other] Tik'ut pa Molyakb'äl
         }
     .accesskey = M
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Silon o sachinäq yakb'äl
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Yujun yakb'äl
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -248,6 +253,10 @@ downloads-state-blocked-parental-controls = Q'aton ruma k'wayöl taq PARENTAL
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = K'o jun chikopil o nimachikopil pa re yakb'äl re'.
+downloads-blocked-potentially-unwanted = Re yakb'äl re' tikirel nutz'ila' ri akematz'ib'.
+downloads-blocked-potentially-insecure = Man xqasäx ta ri yakb'äl: Nïm ruk'ayewal jikomal.
+downloads-blocked-uncommon = Re yakb'äl re' man junelïk ta niqasäx.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
