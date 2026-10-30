@@ -37,6 +37,11 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = F
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Ang file ay nailipat or nawala na
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Di alam kung gaano kalaki
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -218,6 +223,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Nagsisimula...
+downloads-state-failed = Nabigo
+downloads-state-paused = I-pause
+downloads-state-canceled = Kinansela
 downloads-state-completed = Tapos na
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -243,6 +252,18 @@ downloads-blocked-uncommon = Ang file na ito ay hindi karaniwang dina-download.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Sigurado ka bang pahihintulutan ang download na ito?
+downloads-unblock-header-open = Sigurado ka bang buksan ang file na ito?
+downloads-unblock-type-malware = Ang file na ito ay maaaring naglalaman ng virus o ibang malware na makakapinsala sa iyong computer.
+downloads-unblock-type-potentially-unwanted = Ang file na ito ay nagpapanggap na nakakatulong na download, subalit maaaring gumawa ng pagbabago sa iyong mga program at setting.
+downloads-unblock-type-uncommon = Ang file na ito ay hindi karaniwang nai-download at maaaring hindi ligtas na buksan. Maaaring naglalaman ito ng virus o gumawa ng hindi inaasahang mga pagbabago sa iyong mga programa at mga setting.
+downloads-unblock-tip = Pwede kang maghanap ng ibang pagda-downloadan o subukan uli mamaya.
+downloads-unblock-button-open =
+    .label = Buksan
+downloads-unblock-button-unblock =
+    .label = Pahintulotan ang pag-download
+downloads-unblock-button-confirm-block =
+    .label = Tanggalin ang file
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -258,3 +279,5 @@ downloads-blocked-uncommon = Ang file na ito ay hindi karaniwang dina-download.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
