@@ -387,6 +387,8 @@ release-notes-loading = Cargament…
 release-notes-error = Una error s'es produch en cargant las nòtas de version.
 addon-permissions-learnmore = Per ne saber mai sus las permissions
 recommended-extensions-heading = Extensions recomandadas
+recommended-themes-card-heading =
+    .heading = Tèmas recomandats
 recommended-themes-heading = Tèmas recomandats
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
