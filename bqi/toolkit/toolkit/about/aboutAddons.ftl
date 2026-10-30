@@ -249,6 +249,8 @@ addon-permissions-heading = موجوزا
 addon-permissions-empty2 = ای وردنی لنگ موجوز نؽ.
 addon-permissions-learnmore = زبار موجوزا قلوه دووسته بۊین
 recommended-extensions-heading = وردنی یل پؽشنهاڌ بیڌه
+recommended-themes-card-heading =
+    .heading = زمینه یل پؽشنهاڌ وابیڌه
 recommended-themes-heading = زمینه یل پؽشنهاڌ وابیڌه
 
 ## Page headings
