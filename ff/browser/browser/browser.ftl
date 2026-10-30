@@ -611,6 +611,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Ɓeydital gootal walla keewɗe koriima ƴeewteede kisa ndaaƴaama.
+unsigned-addons-disabled-learn-more =
+    .label = Ɓeydu Humpito
+    .accesskey = Ɓ
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
