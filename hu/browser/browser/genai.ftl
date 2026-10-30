@@ -91,6 +91,9 @@ genai-more-actions-search =
     .label = Keresés
 genai-more-actions-copy =
     .label = Másolás
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Nem fogja látni ezt a menüt, amikor szöveget jelöl ki. Az újbóli megjelenítéséhez keresse fel a Beállítások <span data-l10n-name="chevron"></span> Lapok és böngészés szakaszát.
 genai-more-actions-manage-settings =
     .label = Beállítások kezelése
 # $provider (string) - name of the AI chat provider

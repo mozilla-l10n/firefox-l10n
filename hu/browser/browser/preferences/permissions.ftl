@@ -142,6 +142,12 @@ permissions-site-notification-desc = A következő weboldalak kérték, hogy kü
 permissions-site-notification-disable-label =
     .label = Új értesítés engedélyezési kérések blokkolása
 permissions-site-notification-disable-desc = Ez megakadályozza, hogy a fent fel nem sorolt weboldalak értesítésküldést kérjenek. Az értesítések blokkolása működésképtelenné tehet néhány weboldal-funkciót.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = Webhelyértesítések engedélyezése, amikor a { -brand-short-name } be van zárva
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = Az operációs rendszer értesítési beállításai is vonatkoznak erre.
 
 ## Site Permissions - Location
 

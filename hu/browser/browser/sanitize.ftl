@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = { $midnightTime } óta
 clear-time-duration-value-today =
     .label = Ma
+clear-time-duration-value-all-time =
+    .label = Bármikor
 clear-time-duration-value-everything =
     .label = Minden
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Előzmények
+item-history-and-downloads2 =
+    .label = Böngészési és letöltési előzmények
+    .accesskey = B
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Látogatott oldalak és letöltések listája
 item-history-and-downloads =
     .label = Böngészési és letöltési előzmények
     .accesskey = B
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Sütik és oldaladatok
     .accesskey = S
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Kijelentkezteti, és törölheti a kosarait
 item-cookies-site-data-description = Kijelentkeztetheti a webhelyekről, vagy kiürítheti a kosarakat
 item-active-logins =
     .label = Aktív bejelentkezések
@@ -86,6 +95,15 @@ item-active-logins =
 item-cache =
     .label = Gyorsítótár
     .accesskey = G
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Ideiglenes fájlok ({ $amount } { $unit })
+    .accesskey = I
+item-cached-content2 =
+    .label = Ideiglenes fájlok
+    .accesskey = I
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"

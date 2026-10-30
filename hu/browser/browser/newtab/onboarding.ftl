@@ -561,10 +561,14 @@ onboarding-refresh-terms-of-use-with-links = A folytatással elfogadja a <a data
 onboarding-refresh-data-collection-link = Adatgyűjtési beállítások módosítása
 onboarding-refresh-primary-button = Folytatás
 onboarding-refresh-fro-import-header = Importálja adatait
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = Az Öné marad. A { -brand-product-name } soha nem adja el a személyes adatait.
 onboarding-refresh-fro-import-body = A személyes adatai személyesek maradnak. A { -brand-product-name } sosem adja el azokat.
 onboarding-refresh-fro-skip-button = Kihagyás
 onboarding-refresh-fro-theme-header = Játsszon a megjelenésével
 onboarding-refresh-tab-layout-header = Próbáljon ki egy másik lapelrendezést
+onboarding-refresh-fro-tab-layout-title = Válasszon új lapelrendezést
 onboarding-refresh-tab-layout-top = Felül
 onboarding-refresh-tab-layout-side = Oldalt
 onboarding-refresh-tab-layout-minimal = Minimális
