@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = Juki
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Kikobo pwail onyo pe tye
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Dite pe ngene
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -149,6 +154,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Cako…
+downloads-state-failed = Opoto
+downloads-state-paused = Ocung woko
+downloads-state-canceled = Kijuko woko
 downloads-state-completed = Otum
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -174,6 +183,18 @@ downloads-blocked-uncommon = Pwail eni pe kimaro gamo.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Imoko ada ni imito yee gam man?
+downloads-unblock-header-open = I moko ada ni i mito yabo pwail man?
+downloads-unblock-type-malware = Pwail man tye ki jami maracu ma twero balo kompiuta mamegi.
+downloads-unblock-type-potentially-unwanted = Pwail man time calo gam ma konyo, ento bi timo alokaloka ma pe kikuro i purugram ki ter mamegi.
+downloads-unblock-type-uncommon = Pwail man pe kimaro gamo kadong mogo pe twero bedo ber me ayaba. Twero bedo ki kwidi onyo loko ter atura i purugram ki ter mamegi.
+downloads-unblock-tip = Itwero yenyo ka gam mukene onyo tem doki lacen.
+downloads-unblock-button-open =
+    .label = Yab
+downloads-unblock-button-unblock =
+    .label = Yee gam
+downloads-unblock-button-confirm-block =
+    .label = Kwany pwail
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -189,3 +210,5 @@ downloads-blocked-uncommon = Pwail eni pe kimaro gamo.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
