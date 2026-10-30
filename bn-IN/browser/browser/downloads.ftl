@@ -23,6 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = বাতিল
 downloads-cmd-cancel-panel =
     .aria-label = বাতিল
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ফাইল সরানো হয়েছে অথবা পাওয়া যাচ্ছে না
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = অজানা মাপ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -147,10 +154,17 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = আরম্ভ করা হচ্ছে…
+downloads-state-failed = বিফল
+downloads-state-paused = স্থগিত
+downloads-state-canceled = বাতিল
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = এই ফাইলটিতে একটি ভাইরাস বা ম্যালওয়্যার রয়েছে।
+downloads-blocked-potentially-unwanted = এই ফাইলটি আপনার কম্পিউটারের ক্ষতি করতে পারে।
+downloads-blocked-uncommon = এই ফাইলটি সাধারণত ডাউনলোড করা হয়না।
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
@@ -164,6 +178,18 @@ downloads-error-generic =
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = আপনি কি ডাউনলোড এর অনুমতি দেয়ার ব্যাপারে নিশ্চিত?
+downloads-unblock-header-open = আপনি কি নিশ্চিতরূপে এই ফাইলটি আনব্লক করতে চান?
+downloads-unblock-type-malware = এই ফাইলে ভাইরাস বা অন্য কোন ম্যালওয়্যার থাকতে পারে যা আপনার কম্পিউটারের ক্ষতি করবে।
+downloads-unblock-type-potentially-unwanted = এই ফাইল টি, যা একটি ভাল ফাইলের ছদ্মবেশে আছে, আপনার প্রোগ্রাম এবং সেটিংসে অপ্রত্যাশিত পরিবর্তন করে ফেলতে পারে।
+downloads-unblock-type-uncommon = এই ফাইলটি সাধারণভাবে ডাউনলোড করা যাবে না এবং হয়তো সুরক্ষিত ভাবে খুলবে না। এটায় হয়তো ভাইরাস থাকতে পারে বা আপনার প্রোগ্রাম এবং বৈশিষ্ট্যাবলীতে অনিচ্ছাকৃত বদল আনতে পারে।
+downloads-unblock-tip = আপনি একটি বিকল্প ডাউনলোড সোর্স খুঁজতে পারেন অথবা পরে কোন সময় ফাইলটি আবার ডাউনলোড করার চেষ্টা করতে পারেন।
+downloads-unblock-button-open =
+    .label = খুলুন
+downloads-unblock-button-unblock =
+    .label = ডাউনলোডের অনুমতি দিন
+downloads-unblock-button-confirm-block =
+    .label = ফাইল মুছে ফেলুন
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
