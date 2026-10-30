@@ -1547,6 +1547,19 @@ unsigned-addons-disabled-message = Uno o más complementos instalados no pueden 
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Esta página está ralentizando { -brand-short-name }. Para acelerar el navegador, detén esta página.
+process-hang-nonspecific-tab-message = Una página web está ralentizando { -brand-short-name }. Para acelerar tu navegador, detén esa página.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = "{ $title }" está ralentizando { -brand-short-name }. Para acelerar tu navegador, detén esa página.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = "{ $addonName }" está ralentizando { -brand-short-name }. Para acelerar tu navegador, detén esa extensión.
+process-hang-addon-learn-more =
+    .value = Más información
+process-hang-stop-button =
+    .label = Detener
+    .accesskey = D
 
 ## Onboarding Finish Setup checklist
 
