@@ -1370,6 +1370,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Impussibel da verifitgar in u plirs supplements installads. Els èn vegnids deactivads.
+unsigned-addons-disabled-learn-more =
+    .label = Ulteriuras infurmaziuns
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -1383,6 +1387,9 @@ process-hang-specific-tab-message = «{ $title }» ralentescha { -brand-short-na
 process-hang-addon-message = «{ $addonName }» ralentescha { -brand-short-name }. Per accelerar tes navigatur, blochescha questa extensiun.
 process-hang-addon-learn-more =
     .value = Ulteriuras infurmaziuns
+process-hang-stop-button =
+    .label = Fermar
+    .accesskey = F
 
 ## Onboarding Finish Setup checklist
 
