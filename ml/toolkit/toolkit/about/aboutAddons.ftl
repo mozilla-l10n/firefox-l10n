@@ -352,6 +352,8 @@ recent-updates-heading = ഏറ്റവും പുതിയ പുതുക�
 release-notes-loading = ലഭ്യമാക്കുന്നു…
 addon-permissions-learnmore = അനുമതികളെക്കുറിച്ച് കൂടുതലറിയുക
 recommended-extensions-heading = ശുപാൎശ ചെയ്യപ്പെട്ട വിപുലീകരണങ്ങൾ
+recommended-themes-card-heading =
+    .heading = ശുപാൎശ ചെയ്യപ്പെട്ട അലങ്കാരങ്ങൾ
 recommended-themes-heading = ശുപാൎശ ചെയ്യപ്പെട്ട അലങ്കാരങ്ങൾ
 
 ## Page headings
