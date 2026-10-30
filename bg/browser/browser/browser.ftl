@@ -1370,6 +1370,11 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Тази страница забавя { -brand-short-name }. За да ускорите браузъра, спрете тази страница.
+process-hang-nonspecific-tab-message = Някоя уеб страница забавя { -brand-short-name }. За да ускорите браузъра спрете тази страница.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = "{ $title }" забавя { -brand-short-name }. За да ускорите браузъра спрете тази страница.
 process-hang-addon-learn-more =
     .value = Научете повече
 process-hang-stop-button =
