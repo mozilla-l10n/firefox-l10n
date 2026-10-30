@@ -588,6 +588,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = One or more installed add-ons cannot be verified and have been disabled.
+unsigned-addons-disabled-learn-more =
+    .label = Learn More
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
