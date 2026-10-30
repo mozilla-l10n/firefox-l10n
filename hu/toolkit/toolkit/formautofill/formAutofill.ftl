@@ -131,6 +131,14 @@ credit-card-capture-dismiss-button =
     .label = Eltüntetés
     .accessKey = E
 
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Biztonsági kódok mentése mindig
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Ne mentsen el biztonsági kódokat
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
