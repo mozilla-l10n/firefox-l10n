@@ -442,6 +442,8 @@ addon-permissions-learnmore = اجازتاں بارے ٻیا سکھو
 # the user.
 addon-permissions-managed-by-policy = کجھ اجازتاں تساݙی تنظیم ولوں منظم کیتے ویندیاں ہن۔
 recommended-extensions-heading = تجویز کردہ ایکسٹینشنز
+recommended-themes-card-heading =
+    .heading = تجویز کردہ تھیمز
 recommended-themes-heading = تجویز کردہ تھیمز
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
