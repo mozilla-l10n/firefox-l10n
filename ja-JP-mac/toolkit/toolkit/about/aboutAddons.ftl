@@ -448,6 +448,8 @@ addon-permissions-learnmore = 権限についての詳細情報
 # the user.
 addon-permissions-managed-by-policy = 一部の権限はあなたの所属組織に管理されています。
 recommended-extensions-heading = おすすめの拡張機能
+recommended-themes-card-heading =
+    .heading = おすすめのテーマ
 recommended-themes-heading = おすすめのテーマ
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
