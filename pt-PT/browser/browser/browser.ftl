@@ -1626,10 +1626,16 @@ file-picker-crashed-show-in-folder =
 process-hang-selected-tab-message = Esta página está a reduzir o desempenho do { -brand-short-name }. Para acelerar o seu navegador, pare esta página.
 process-hang-nonspecific-tab-message = Uma página de Internet está a reduzir o desempenho do { -brand-short-name }. Para acelerar o seu navegador, pare essa página.
 # Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” está a reduzir o desempenho do { -brand-short-name }. Para acelerar o seu navegador, pare esta página.
+# Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = “{ $addonName }” está a reduzir o desempenho do { -brand-short-name }. Para acelerar o seu navegador, pare esta extensão.
 process-hang-addon-learn-more =
     .value = Saber mais
+process-hang-stop-button =
+    .label = Parar
+    .accesskey = P
 
 ## Onboarding Finish Setup checklist
 
