@@ -35,9 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] Shfaqe në Dosje
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Kartela është lëvizur ose mungon
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Kartela u fshi
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Madhësi e panjohur
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -265,12 +272,18 @@ downloads-blocked-malware = Kjo kartelë përmban virus ose malware.
 downloads-blocked-potentially-unwanted = Kjo kartelë mund të dëmtojë kompjuterin tuaj.
 downloads-blocked-potentially-insecure = Kartelë jo e shkarkuar: Rrezik potencial sigurie.
 downloads-blocked-uncommon = Këtë kartelë zakonisht nuk e shkarkojnë.
+downloads-blocked-by-content-analysis = Kjo kartelë qe bllokuar nga enti juaj.
+downloads-warned-by-content-analysis = Ky shkarkim mund të jetë jo i parrezik dhe lyp ripohim.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Kartela qe bllokuar ngaqë { $agent } s’kapet dot.
+downloads-content-analysis-invalid-agent-signature-error = Kartela qe bllokuar ngaqë për { $agent } dështoi verifikimi i nënshkrimit.
+downloads-content-analysis-unspecified-error = Kartela qe bllokuar për shkak të një gabimi në komunikim me { $agent }.
+downloads-content-analysis-timeout-error = { $agent } i mbaroi koha, ndaj kartela qe bllokuar.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -278,6 +291,24 @@ downloads-blocked-uncommon = Këtë kartelë zakonisht nuk e shkarkojnë.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Jeni i sigurt se doni të lejohet ky shkarkim?
+downloads-unblock-header-open = Jeni i sigurt se doni të hapet kjo kartelë?
+downloads-unblock-type-malware = Kjo kartelë përmban virus ose malware tjetër që do të dëmtojë kompjuterin tuaj.
+downloads-unblock-type-potentially-unwanted = Kjo kartelë është maskuar si shkarkim i dobishëm, por mund të bëjë ndryshime të papritura te programet dhe rregullimet tuaja.
+downloads-unblock-type-content-analysis-warn = Enti juaj përdor program parandalimi humbjesh të dhënash, i cili i ka vënë shenjë kësaj lënde si jo e parrezik.
+downloads-unblock-type-uncommon = Këtë kartelë zakonisht nuk e shkarkojnë dhe mund të mos jetë e parrezik për hapje. Mund të përmbajë një virus ose të bëjë ndryshime të papritura te programet dhe rregullimet tuaja.
+downloads-unblock-insecure = Shkarkimi ofrohet përmes HTTP-je, edhe pse dokumenti aktual qe dërguar përmes një lidhjeje të siguruar HTTPS. Nëse vazhdoni më tej, shkarkimi mund të rezultojë i dëmtuar, ose të jenë futur hundët në të gjatë procesit të shkarkimit.
+downloads-unblock-tip = Mund të kërkoni për një burim alternativ shkarkimi ose të provoni ta shkarkoni kartelën më vonë.
+downloads-unblock-content-analysis-warn-tip = Mundeni, megjithatë, të zgjidhni të shkarkohet.
+downloads-unblock-content-analysis-blocked = Enti juaj përdor software parandalimi humbjesh të dhënash, i cili e ka bllokuar këtë shkarkim.
+downloads-unblock-content-analysis-override = Ky vendim mund të anashkalohet vetëm nga enti juaj.
+downloads-unblock-content-analysis-tip = Mund të vazhdoni ta shkarkoni, ose ta anuloni.
+downloads-unblock-button-open =
+    .label = Hape
+downloads-unblock-button-unblock =
+    .label = Lejoje shkarkimin
+downloads-unblock-button-confirm-block =
+    .label = Hiqe kartelën
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -293,3 +324,5 @@ downloads-blocked-uncommon = Këtë kartelë zakonisht nuk e shkarkojnë.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
