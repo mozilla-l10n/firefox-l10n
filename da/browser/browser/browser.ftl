@@ -1540,6 +1540,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = En eller flere installerede tilføjelser kan ikke verificeres og er derfor blevet deaktiveret.
+unsigned-addons-disabled-learn-more =
+    .label = Læs mere
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -1548,6 +1552,14 @@ process-hang-nonspecific-tab-message = En webside gør { -brand-short-name } lan
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = "{ $title }" gør { -brand-short-name } langsom. Stop siden for at gøre din browser hurtigere.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” gør { -brand-short-name } langsom. Stop udvidelsen for at gøre din browser hurtigere.
+process-hang-addon-learn-more =
+    .value = Læs mere
+process-hang-stop-button =
+    .label = Stop
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
