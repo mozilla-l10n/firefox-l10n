@@ -1614,6 +1614,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = ہک یا زیادہ انسٹال تھئے ایڈ آنز دی تصدیق نہیں کیتی ونڄ سڳدی تے انہاں کوں غیر فعال کر ݙتا ڳیا ہے۔
+unsigned-addons-disabled-learn-more =
+    .label = ٻیا سِکھو
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
