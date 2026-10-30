@@ -1548,6 +1548,9 @@ unsigned-addons-disabled-learn-more =
 process-hang-addon-message = “{ $addonName }”拖慢了您的 { -brand-short-name }。可停止该扩展，恢复浏览速度。
 process-hang-addon-learn-more =
     .value = 详细了解
+process-hang-stop-button =
+    .label = 停止
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
