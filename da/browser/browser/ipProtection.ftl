@@ -26,7 +26,6 @@ ipprotection-title = VPN
 ipprotection-feature-introduction-title = Vi introducerer VPN, direkte i din browser
 ipprotection-feature-introduction-title-1 = Prøv den indbyggede VPN i { -brand-product-name }
 ipprotection-feature-introduction-link-text-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data.
-ipprotection-feature-introduction-title-privacy = Tilføj yderligere et lag af sikkerhed
 ipprotection-feature-introduction-link-text-privacy-1 = <a data-l10n-name="learn-more-vpn">Den indbyggede VPN i { -brand-product-name }</a> hjælper med at beskytte dig på nettet. Vælg mellem flere placeringer for at beskytte dit privatliv, når du browser.
 ipprotection-feature-introduction-link-text-privacy-3 = Få <a data-l10n-name="learn-more-vpn">et bedre beskyttet privatliv</a> ved at vælge mellem flere placeringer, der skjuler hvor du befinder dig.
 ipprotection-feature-introduction-link-text-private-browsing-2 = Brug vores nye <a data-l10n-name="learn-more-vpn">indbyggede VPN</a> til at skjule din placering og beskytte dine data - selv om du befinder dig i et privat vindue.
