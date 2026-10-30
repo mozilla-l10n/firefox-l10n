@@ -506,6 +506,9 @@ lapsed-user-toast-dismiss-button = Ignorer
 # design of the browser; "No starting over" means users don't have to set up
 # the browser again from scratch.
 lapsed-user-toast-import-title = Nytt utseende. Du trenger ikke begynne på nytt.
+# "The browser you use today" refers to another browser the user currently
+# uses instead of this one, such as Chrome or Edge.
+lapsed-user-toast-import-subtitle = Importer bokmerkene, passordene og historikken din fra nettleseren du bruker i dag.
 
 ## Refresh Firefox infobar
 ##
@@ -529,6 +532,7 @@ restore-session-startup-suggestion-button = Vis meg hvordan
 ## A dialog that suggests websites to add to the Windows taskbar. Each website
 ## is shown in a row with its name, web address and an “Add” button.
 
+taskbar-tabs-spotlight-title = Åpne favorittnettstedene dine som en app
 # Button shown in each row of the list of websites. Clicking it adds the
 # website in that row to the Windows taskbar.
 taskbar-tabs-spotlight-add-button = Legg til

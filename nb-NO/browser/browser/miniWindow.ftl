@@ -2,11 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+mini-window-close-button =
+    .label = Lukk
+    .tooltiptext = Lukk
+# Moves the tab in the mini window back to the original window
+# it came from.
+mini-window-restore-button =
+    .label = Flytt tilbake fanen
+    .tooltiptext = Flytt tilbake fanen
 
 ## These strings are used as the label and tooltip for the button that mutes
 ## and unmutes the mini window's tab. The button only appears while the tab is
 ## playing audio, or while it is muted.
 
+mini-window-audio-mute =
+    .label = Lyd av i fane
+    .tooltiptext = Lyd av i fane
 mini-window-audio-unmute =
     .label = Lyd på i fane
     .tooltiptext = Lyd på i fane

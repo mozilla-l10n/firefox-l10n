@@ -626,5 +626,7 @@ onboarding-carousel-nav =
 
 ## Welcome Back Onboarding
 
+welcome-back-onboarding-pill-label-vpn = Innebygd VPN
 welcome-back-onboarding-pill-label-pdf = PDF-verktøy
 welcome-back-onboarding-card-label-tabs = Rydd opp med vertikale faner og grupper
+welcome-back-onboarding-card-tilebutton-label = Prøv det
