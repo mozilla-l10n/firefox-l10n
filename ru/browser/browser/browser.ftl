@@ -1636,9 +1636,16 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Одно или несколько установленных дополнений не могут быть проверены, поэтому они были отключены.
+unsigned-addons-disabled-learn-more =
+    .label = Подробнее
+    .accesskey = П
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = «{ $title }» замедляет { -brand-short-name }. Чтобы ускорить работу браузера, остановите эту страницу.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = «{ $addonName }» замедляет { -brand-short-name }. Чтобы ускорить работу браузера, остановите это расширение.
