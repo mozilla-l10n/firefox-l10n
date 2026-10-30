@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] Vis i mappe
         }
     .accesskey = V
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Fila er sletta
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
