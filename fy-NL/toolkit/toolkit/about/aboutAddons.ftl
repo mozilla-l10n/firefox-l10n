@@ -446,6 +446,8 @@ addon-permissions-learnmore = Mear ynfo oer tastimmingen
 # the user.
 addon-permissions-managed-by-policy = Guon machtigingen wurde troch jo organisaasje beheard.
 recommended-extensions-heading = Oanrekommandearre útwreidingen
+recommended-themes-card-heading =
+    .heading = Oanrekommandearre tema’s
 recommended-themes-heading = Oanrekommandearre tema’s
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
