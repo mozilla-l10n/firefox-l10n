@@ -98,6 +98,17 @@ item-cache =
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = Pliki tymczasowe ({ $amount } { $unit })
+    .accesskey = P
+item-cached-content2 =
+    .label = Pliki tymczasowe
+    .accesskey = P
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = Przyspieszają wczytywanie stron
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 item-cached-content-with-size =
     .label = Pliki i strony w tymczasowej pamięci podręcznej ({ $amount } { $unit })
     .accesskey = P
@@ -114,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = Zachowane dane formularzy
     .accesskey = Z
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = Imiona i nazwiska, adresy e-mail oraz dane wpisywane w formularzach
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = Uprawnienia i preferencje witryn
 item-formdata-description = Usuwa nazwiska, adresy e-mail i inne dane wprowadzone w formularzach
 item-site-prefs-description = Przywraca nadane uprawnienia i zmienione preferencje witryn do oryginalnych ustawień
 data-section-label = Dane
@@ -123,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = Dane witryn trybu offline
     .accesskey = w
+sanitize-everything-undo-warning2 = Tego nie można cofnąć!
 sanitize-everything-undo-warning = Tej czynności nie można cofnąć!
 window-close =
     .key = w
