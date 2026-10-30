@@ -165,6 +165,10 @@ addon-updates-check-for-updates = Gwiriañ mar bez hizivadurioù d'ober
     .accesskey = G
 addon-updates-view-updates = Gwelout an hizivadurioù nevesañ
     .accesskey = v
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Hizivaat an askouezhioù gant un doare emgefreek
     .accesskey = a
 
@@ -290,6 +294,8 @@ release-notes-addon-button = Notennoù handelv
 permissions-addon-button = Aotreoù
 extension-enabled-heading = Gweredekaet
 extension-disabled-heading = Diweredekaet
+theme-disabled-heading3 =
+    .heading = Neuzioù enrollet
 theme-enabled-heading = Gweredekaet
 theme-disabled-heading2 = Neuzioù enrollet
 plugin-enabled-heading = Gweredekaet
@@ -366,6 +372,10 @@ addon-detail-quarantined-domains-disallow = Na aotren
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+
 ##
 
 available-updates-heading = Hizivadurioù hegerz
@@ -418,3 +428,38 @@ plugins-openh264-name = Enboneger-ezvoneger Video OpenH264 pourchaset gant Cisco
 plugins-openh264-description = Ent emgefreek eo staliet an enlugellad-mañ gant Mozilla evit heuliañ despizadur WebRTC hag evit aotreañ galvadennoù WebRTC gant trevnadoù a hegerz ar bonez video H.264. Gweladennit https://www.openh264.org/ evit gwelet boneg tarzh ar bonez hag evit deskiñ hiroc'h diwar-benn e c'heflouerañ.
 plugins-widevine-name = Widevine Content Decryption Module pourchaset gant Google Inc.
 plugins-widevine-description = An enlugellad-mañ a ro an tu da lenn media enrineget a zouj ouzh erspizadur an enlugelladoù media enrineget. Ar media enrineget a zo arveret gant lec'hiennoù evit en em wareziñ ouzh eiladur danvez media paeus. Gweladennit https://www.w3.org/TR/encrypted-media/ evit kaout muioc'h a ditouroù war an enlugelladoù media enrineget.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
