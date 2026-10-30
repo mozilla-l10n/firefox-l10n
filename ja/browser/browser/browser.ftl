@@ -1597,6 +1597,14 @@ process-hang-nonspecific-tab-message = ウェブページが { -brand-short-name
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = “{ $title }” が { -brand-short-name } の動作を遅くしています。ページを停止して、ブラウザーの動作を速くします。
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” が { -brand-short-name } の動作を遅くしています。拡張機能を停止して、ブラウザーの動作を速くします。
+process-hang-addon-learn-more =
+    .value = 詳細
+process-hang-stop-button =
+    .label = 停止
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
