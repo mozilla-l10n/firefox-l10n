@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+##
+
 urlbar-identity-button =
     .aria-label = Amostrar a información d'o puesto
 
@@ -104,6 +107,9 @@ clear-search-history =
     .label = Limpiar l'historial de busca
     .accesskey = L
 
+## Page Action Context Menu
+
+
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -153,6 +159,11 @@ search-one-offs-tabs =
     .tooltiptext = Pestanyas ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historial ({ $restrict })
+
+## QuickActions are shown in the urlbar as the user types a matching string
+## The -cmd- strings are comma separated list of keywords that will match
+## the action. English commas should be used, i.e. ,
+
 
 ## Bookmark Panel
 
@@ -229,6 +240,9 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = Zarrar
 
+## Bookmarks toolbar items
+
+
 ## WebRTC Pop-up notifications
 
 popup-all-windows-shared = Se compartirán todas as finestras visibles en a suya pantalla.
@@ -241,6 +255,9 @@ sharing-warning-proceed-to-tab =
     .label = Pasar a la pestanya
 sharing-warning-disable-for-session =
     .label = Desactivar la protección de compartición pa esta sesión
+
+## WebSerial "select a port" popup
+
 
 ## URL Bar
 
@@ -315,11 +332,34 @@ urlbar-result-action-search-w-engine = Mirar con { $engine }
 urlbar-result-action-switch-tab = Cambiar t'a pestanya
 urlbar-result-action-visit = Vesitar
 
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
+
+## These strings are used for Realtime suggestions in the urlbar.
+## Market refers to stocks, indexes, and funds.
+
+
+## These strings are used for suggestions of important dates in the urlbar.
+
+
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Marcapachinas
 urlbar-searchmode-tabs4 = Pestanyas
 urlbar-searchmode-history4 = Historial
+
+## Action text shown in urlbar results, usually appended after the search
+## string or the url, like "result value - action text".
+## In these actions "Search" is a verb, followed by where the search is performed.
+
+
+## Used in the menu of a urlbar result.
+
+
+## Labels shown above groups of urlbar results
+
 
 ## Reader View toolbar buttons
 
@@ -329,6 +369,11 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Zarrar a Vista de Lectura
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 
 ## Full Screen and Pointer Lock UI
 
@@ -401,6 +446,9 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Marcapachinas
 
+## Repair text encoding toolbar button
+
+
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -457,6 +505,10 @@ toolbar-button-paste =
     .label = Apegar
     .tooltiptext = Apegar ({ $shortcut })
 
+## Default filenames used when saving a QR code. The file extension (.png)
+## is added automatically.
+
+
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Bell audio u video d'iste puesto fan servir software DRM, o qual puet limitar o que { -brand-short-name } le deixará fer con ell.
@@ -487,10 +539,17 @@ plugin-crashed-notification-submit-button =
     .label = Ninviar un reporte de fallo
     .accesskey = N
 
+## Password save/update panel
+
+
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = Zarrar
+
+## Variables:
+##  $uriHost (String): URI host for which the popup was allowed or blocked.
+
 
 ##
 
@@ -498,7 +557,14 @@ picture-in-picture-hide-toggle =
     .label = Amaga lo commutador d'imachen incrustada
     .accesskey = A
 
+## Since the default position for PiP controls does not change for RTL layout,
+## right-to-left languages should use "Left" and "Right" as in the English strings,
+
+
 ##
+
+
+# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -531,12 +597,50 @@ tabs-toolbar-list-all-tabs =
     .label = Amostrar todas as pestanyas
     .tooltiptext = Amostrar todas as pestanyas
 
+## Drop indicator text for pinned tabs when no tabs are pinned.
+
+
+## Infobar shown at startup to suggest session-restore
+
+
+## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
+
+
+## Address bar result shown when someone who used the Extensions and Themes
+## keyboard shortcut presses that shortcut after it moved to Search Tabs.
+## Variables:
+##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
+##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
+
+
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } ninvia automaticament bells datos ta { -vendor-short-name } pa que podamos amillorar a suya experiencia.
 data-reporting-notification-button =
     .label = Deixar-me trigar o que quiero compartir
     .accesskey = c
+
+## Unified extensions (toolbar) button
+
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
+## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
+
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
 
 ## Autorefresh blocker
 
@@ -545,6 +649,9 @@ refresh-blocked-redirect-label = { -brand-short-name } privó que ista pachina s
 refresh-blocked-allow =
     .label = Permitir
     .accesskey = P
+
+## Firefox Relay integration
+
 
 ## Add-on Pop-up Notifications
 
@@ -580,3 +687,41 @@ popup-warning-button =
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
     .label = Amostrar '{ $popupURI }'
+
+## File-picker crash notification ("FilePickerCrashed.sys.mjs")
+
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = Uno u mas complementos instalaus no se pueden verificar y s'han desactivau.
+unsigned-addons-disabled-learn-more =
+    .label = Saber-ne mas
+    .accesskey = S
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
+process-hang-addon-learn-more =
+    .value = Saber-ne mas
+
+## Onboarding Finish Setup checklist
+
+
+## The urlbar trust icon & panel
+
+
+## The urlbar trust icon & panel
+
+
+## Variables
+##  $count (String): the number of trackers blocked.
+
+
+## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
+
