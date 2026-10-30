@@ -123,8 +123,8 @@ urlbar-result-menu-tip-get-help2 = Ricevi assistenza
     .accesskey = a
 urlbar-result-menu-dismiss-suggestion2 = Ignora questo suggerimento
     .accesskey = u
-urlbar-result-menu-remove-top-site = Rimuovi dai siti principali
-    .accesskey = d
+urlbar-result-menu-remove-top-site = Rimuovi questo sito principale
+    .accesskey = m
 urlbar-result-menu-manage-firefox-suggest2 = Gestisci { -firefox-suggest-brand-name }
     .accesskey = G
 # Some urlbar suggestions show the user's approximate location as automatically

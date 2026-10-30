@@ -87,7 +87,7 @@ item-cookies-site-data =
     .label = Cookie e dati dei siti web
     .accesskey = o
 # Description for the "Cookies and site data" item, which can be selected for deletion
-item-cookies-site-data-description2 = Ti disconnette dai siti dai siti e potrebbe svuotare eventuali carrelli in sospeso
+item-cookies-site-data-description2 = Ti disconnette dai siti e potrebbe svuotare eventuali carrelli in sospeso
 item-cookies-site-data-description = Potrebbe disconnetterti dai siti o svuotare eventuali carrelli in sospeso.
 item-active-logins =
     .label = Accessi effettuati
