@@ -175,6 +175,10 @@ addon-updates-check-for-updates = Za aktualizacijami pytaś
     .accesskey = a
 addon-updates-view-updates = Nowe aktualizacije se woglědaś
     .accesskey = N
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Dodanki awtomatiski aktualizěrowaś
     .accesskey = D
 
@@ -325,6 +329,8 @@ release-notes-addon-button = Wersijowe informacije
 permissions-addon-button = Pšawa
 extension-enabled-heading = Zmóžnjony
 extension-disabled-heading = Znjemóžnjony
+theme-disabled-heading3 =
+    .heading = Skłaźone drastwy
 theme-enabled-heading = Zmóžnjony
 theme-disabled-heading2 = Skłaźone drastwy
 plugin-enabled-heading = Zmóžnjony
