@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = Naŋ
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Tukoo hun wal'a ši bara
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Adadu šibayante
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -145,6 +150,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Goo ma tun…
+downloads-state-failed = A kaŋ
+downloads-state-paused = Ga hunanzam
+downloads-state-canceled = A naŋandi
 downloads-state-completed = A ben
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -170,6 +179,18 @@ downloads-blocked-uncommon = Tukoo woo ši doona ka zumandi.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Alhakiika war ga yadda zumandiyanoo woo ga?
+downloads-unblock-header-open = Alhakiika war ga baa ka tukoo woo feeri?
+downloads-unblock-type-malware = Tukoo woo goo nda wiirisi wala hasaraw-goyjinay kaŋ ga hin ka war ordinateroo hasara.
+downloads-unblock-type-potentially-unwanted = Tukoo woo kaŋ taalam sanda faaba zumandi ga barmayyaŋ kaŋ ši naatandi tee war porogaramey nda kayandiyaney ga.
+downloads-unblock-type-uncommon = Tukoo woo ši doona ka zumandi nd'a ga hin ka hasaraw tee nd'a feera. A ga hin ka bara nda wirisi wal'a ma zanba ka war porogaramey nda kayandiyaney barmay.
+downloads-unblock-tip = War ga hin ka zumandi aššil tana guna wala ceeci koyne waati foo.
+downloads-unblock-button-open =
+    .label = Feeri
+downloads-unblock-button-unblock =
+    .label = Yadda k'a zumandi
+downloads-unblock-button-confirm-block =
+    .label = Tukoo kaa
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -185,3 +206,5 @@ downloads-blocked-uncommon = Tukoo woo ši doona ka zumandi.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
