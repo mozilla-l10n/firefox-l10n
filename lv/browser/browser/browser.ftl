@@ -1528,6 +1528,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Vienu vai vairākus no uzstādītajiem papildinājumiem nevar apliecināt, un tie tika atspējoti.
+unsigned-addons-disabled-learn-more =
+    .label = Uzzināt vairāk
+    .accesskey = U
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
