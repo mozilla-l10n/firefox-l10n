@@ -1617,14 +1617,26 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Instalatutako gehigarri bat edo gehiago ezin dira egiaztatu eta desgaitu egin dira.
+unsigned-addons-disabled-learn-more =
+    .label = Argibide gehiago
+    .accesskey = A
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Orri hau { -brand-short-name } mantsotzen ari da. Zure nabigatzailea bizkortzeko, gelditu orri hau.
+process-hang-nonspecific-tab-message = Webgune bat { -brand-short-name } mantsotzen ari da. Zure nabigatzailea bizkortzeko, gelditu orri hori.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = "{ $title }" fitxa { -brand-short-name } mantsotzen ari da. Zure nabigatzailea bizkortzeko, gelditu orri hori.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = "{ $addonName }" hedapena { -brand-short-name } mantsotzen ari da. Zure nabigatzailea bizkortzeko, gelditu hedapen hori.
 process-hang-addon-learn-more =
     .value = Argibide gehiago
+process-hang-stop-button =
+    .label = Gelditu
+    .accesskey = G
 
 ## Onboarding Finish Setup checklist
 
