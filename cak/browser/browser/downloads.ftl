@@ -40,6 +40,11 @@ downloads-file-moved-or-missing = Silon o sachinäq yakb'äl
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Yujun yakb'äl
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Man etaman ta runimilem
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -244,6 +249,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Tajin nitikïr el…
+downloads-state-failed = Man ütz ta xub'än
+downloads-state-paused = Q'aton
+downloads-state-canceled = Q'aton
 downloads-state-completed = Tz'aqatisan
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -270,6 +279,18 @@ downloads-blocked-uncommon = Re yakb'äl re' man junelïk ta niqasäx.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = ¿La kan nawajo' naya' q'ij richin chi tiqasäx?
+downloads-unblock-header-open = ¿La kan nawajo' chi najäq re yakb'äl re'?
+downloads-unblock-type-malware = K'o chikopil o nimachikopil pa re yakb'äl re', rik'in jub'a' nutz'ila' ri akematz'ib'.
+downloads-unblock-type-potentially-unwanted = Re yakb'äl re', nub'än chi jun ütz qasaxïk, xa xe chi xtitikïr xkerub'anala' taq k'exoj, ri man awoyob'en ta pa ri taq akema' chuqa' taq anuk'ulem.
+downloads-unblock-type-uncommon = Re yakb'äl re' man junelïk ta niqasäx, ruma ri' man jujïk ta chi nijaq. Rik'in jub'a' k'o ruchikopil o xkerub'anala' taq jaloj, ri man awoyob'en ta pa ri taq akema' chuqa' taq anuk'ulem.
+downloads-unblock-tip = Tikirel nakanoj jun ruxe'el ajk'exel richin naqasaj, chuqa' yatikïr natojtob'ej naqasaj chik pa jun ti ramaj.
+downloads-unblock-button-open =
+    .label = Tijaq
+downloads-unblock-button-unblock =
+    .label = Tiya' q'ij niqasäx
+downloads-unblock-button-confirm-block =
+    .label = Tiyuj yakb'äl
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -285,3 +306,5 @@ downloads-blocked-uncommon = Re yakb'äl re' man junelïk ta niqasäx.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start }—{ $end }
+downloads-status-separator-before-number = { $start } —  { $end }
