@@ -42,6 +42,9 @@ credit-card-capture-save-button =
 credit-card-capture-cancel-button =
     .label = No ahora
     .accessKey = h
+credit-card-capture-never-save-payment-methods-button =
+    .label = Nunca guardar métodos de pago
+    .accessKey = N
 credit-card-capture-never-save-button =
     .label = Nunca guardar tarjetas
     .accessKey = N
@@ -65,6 +68,18 @@ autofill-manage-payment-methods-label = Administrar métodos de pago
 # on a payment card; use whichever abbreviation is most familiar in your locale.
 autofill-card-security-code-label = CVC
 
+## The name of the security code printed on a payment card, as each card
+## network calls it.
+
+# Visa calls it "CVV".
+credit-card-security-code-name-visa = Código de seguridad
+# Mastercard calls it "CVC".
+credit-card-security-code-name-mastercard = Código de seguridad
+# American Express calls it "CID".
+credit-card-security-code-name-amex = Código de seguridad
+# Used for any other card network, or when the network isn't known.
+credit-card-security-code-name-other = Código de seguridad
+
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
 ## available details.
@@ -79,6 +94,11 @@ autofill-card-security-code-label = CVC
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
