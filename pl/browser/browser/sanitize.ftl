@@ -43,19 +43,21 @@ clear-time-duration-prefix2 =
     .value = Czas:
     .accesskey = C
 clear-time-duration-value-last-hour =
-    .label = ostatnia godzina
+    .label = Ostatnia godzina
 clear-time-duration-value-last-2-hours =
-    .label = ostatnie dwie godziny
+    .label = Ostatnie dwie godziny
 clear-time-duration-value-last-4-hours =
-    .label = ostatnie cztery godziny
+    .label = Ostatnie cztery godziny
 # Variables:
 #   $midnightTime (String) - Time of midnight (00:00 hours) - to inform the user that history will be cleared after midnight
 clear-time-duration-value-since-midnight =
-    .label = od { $midnightTime }
+    .label = Od { $midnightTime }
 clear-time-duration-value-today =
-    .label = dzisiaj
+    .label = Dzisiaj
+clear-time-duration-value-all-time =
+    .label = Od początku
 clear-time-duration-value-everything =
-    .label = wszystko
+    .label = Wszystko
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Historia
+item-history-and-downloads2 =
+    .label = Historia przeglądanych stron i pobranych plików
+    .accesskey = H
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = Lista odwiedzonych stron i pobranych plików
 item-history-and-downloads =
     .label = Historia przeglądanych stron i pobranych plików
     .accesskey = H
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = Ciasteczka i dane witryn
     .accesskey = C
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = Spowoduje wylogowanie ze stron i może opróżnić koszyki w sklepach
 item-cookies-site-data-description = Może spowodować wylogowanie ze stron lub opróżnienie koszyków w sklepach
 item-active-logins =
     .label = Aktywne zalogowania

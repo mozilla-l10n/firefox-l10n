@@ -125,6 +125,19 @@ credit-card-save-payment-method-doorhanger-header = Czy zachować tę metodę p�
 # is turned off or the form didn't include one.
 # “Checkout” refers to the payment stage on websites.
 credit-card-save-payment-method-doorhanger-description = { -brand-short-name } szyfruje i automatycznie wypełnia dane płatnicze, co przyspiesza płatności.
+# Used when the security code will be saved along with the card.
+credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } zaszyfruje numer karty i kod zabezpieczający, a następnym razem wypełni je automatycznie.
+credit-card-capture-dismiss-button =
+    .label = Zamknij
+    .accessKey = Z
+
+## The toggle turns saving security codes on and off. Its label describes the
+## current state: whether security codes are saved or not.
+
+credit-card-doorhanger-always-save-security-codes-toggle =
+    .label = Zawsze zachowuj kody zabezpieczające
+credit-card-doorhanger-dont-save-security-codes-toggle =
+    .label = Nie zachowuj kodów zabezpieczających
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
