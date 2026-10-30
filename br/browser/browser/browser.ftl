@@ -1111,6 +1111,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Unan pe muioc'h a askouezhioù n'hall ket bezañ gwiriet ha diweredekaet int bet.
+unsigned-addons-disabled-learn-more =
+    .label = Gouzout hiroc'h
+    .accesskey = G
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
