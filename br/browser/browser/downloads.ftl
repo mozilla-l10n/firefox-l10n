@@ -37,6 +37,9 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = D
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Mankout a ra ar restr pe dilec'hiet eo bet
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Dilamet eo bet ar restr
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
