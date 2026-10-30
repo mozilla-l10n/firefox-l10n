@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = Bekor qilish
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Fayl yo‘q yoki ko‘chirilgan
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Noma`lum hajmda
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -149,6 +154,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Boshlanmoqda…
+downloads-state-failed = Muvaffaqiyatsiz yakunlandi
+downloads-state-paused = Pauza qilingan
+downloads-state-canceled = Bekor qilingan
 downloads-state-completed = Tugadi
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -174,6 +183,18 @@ downloads-blocked-uncommon = Bu fayl to‘liq yuklab olinmagan.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Bu yuklab olishga ruxsat berishni xohlaysizmi?
+downloads-unblock-header-open = Ushbu faylni ochishni xohlaysizmi?
+downloads-unblock-type-malware = Ushbu faylda kompyuteringizga zarar keltirishi mumkin bo‘lgan virus yoki zararli dastur bor.
+downloads-unblock-type-potentially-unwanted = Ushbu fayl foydali yuklanma sifatida ko‘rsatilgan. lekin u dasturlaringiz va sozlamalaringizda kutilmagan o‘zgarishlarni amalga oshirishi mumkin.
+downloads-unblock-type-uncommon = Bu fayl oxirigacha yuklab olinmagan, shuning uchun uni ochish xavfli. Unda virus bo‘lishi yoki dasturlar va sozlamalarga yomon ta’sir ko‘rsatishi mumkin.
+downloads-unblock-tip = Siz muqobil yuklab olish manbalarini izlashingiz yoki keyinroq yuklab olish uchun urinib ko‘rishingiz mumkin.
+downloads-unblock-button-open =
+    .label = Ochish
+downloads-unblock-button-unblock =
+    .label = Yuklab olishga ruxsat berish
+downloads-unblock-button-confirm-block =
+    .label = Faylni olib tashlash
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -189,3 +210,5 @@ downloads-blocked-uncommon = Bu fayl to‘liq yuklab olinmagan.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
