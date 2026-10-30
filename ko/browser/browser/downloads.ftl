@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] 폴더에서 보기
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = 파일이 없거나 이동됨
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = 파일이 삭제됨
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = 파일 삭제됨 (차단됨)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = 알 수 없는 크기
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -246,6 +256,15 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = 시작 중…
+downloads-state-failed = 실패
+downloads-state-paused = 일시 중지됨
+downloads-state-canceled = 취소됨
+downloads-state-completed = 완료됨
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = 자녀 보호에 의해 차단됨
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
@@ -254,12 +273,18 @@ downloads-blocked-malware = 이 파일은 바이러스나 악성코드를 포함
 downloads-blocked-potentially-unwanted = 컴퓨터를 망가뜨릴 수도 있는 파일입니다.
 downloads-blocked-potentially-insecure = 파일이 다운로드되지 않음: 잠재적인 보안 위험
 downloads-blocked-uncommon = 이 파일은 일반적으로 다운로드하지 않습니다.
+downloads-blocked-by-content-analysis = 이 파일은 조직에서 차단했습니다.
+downloads-warned-by-content-analysis = 이 다운로드는 안전하지 않을 수 있으며 확인이 필요합니다.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = { $agent }에 도달할 수 없기 때문에 파일이 차단되었습니다.
+downloads-content-analysis-invalid-agent-signature-error = { $agent }가 서명 확인에 실패했기 때문에 파일이 차단되었습니다.
+downloads-content-analysis-unspecified-error = { $agent }와 통신하는 중 오류가 발생하여 파일이 차단되었습니다.
+downloads-content-analysis-timeout-error = { $agent } 시간이 초과되어서 이 파일은 차단되었습니다.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -267,6 +292,24 @@ downloads-blocked-uncommon = 이 파일은 일반적으로 다운로드하지 �
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = 이 다운로드를 정말로 허용하시겠습니까?
+downloads-unblock-header-open = 이 파일을 정말로 여시겠습니까?
+downloads-unblock-type-malware = 이 파일은 컴퓨터를 망가뜨릴 바이러스나 악성 코드가 들어 있습니다.
+downloads-unblock-type-potentially-unwanted = 이 파일은 도움이 되는 다운로드로 가장하고 있지만, 프로그램과 설정을 임의로 변경할 수 있습니다.
+downloads-unblock-type-content-analysis-warn = 조직에서 이 콘텐츠가 안전하지 않다고 표시한 데이터 손실 방지 소프트웨어를 사용하고 있습니다.
+downloads-unblock-type-uncommon = 이 파일은 일반적으로 다운로드 되지 않는 파일이고 안전하지 않을 수 있습니다. 바이러스를 포함하고 있거나 프로그램과 설정을 임의로 변경할 수 있습니다.
+downloads-unblock-insecure = 현재 문서가 보안 HTTPS 연결을 통해 전달되었지만 다운로드는 HTTP를 통해 제공됩니다. 계속하면 다운로드 프로세스 중에 다운로드가 손상되거나 변조될 수 있습니다.
+downloads-unblock-tip = 다른 다운로드 경로를 검색하거나 나중에 다시 시도할 수 있습니다.
+downloads-unblock-content-analysis-warn-tip = 어쨌든 다운로드하도록 선택할 수 있습니다.
+downloads-unblock-content-analysis-blocked = 사용자의 조직에서 이 다운로드를 차단한 데이터 손실 방지 소프트웨어를 사용하고 있습니다.
+downloads-unblock-content-analysis-override = 이 결정은 사용자가 속한 조직에서만 재정의할 수 있습니다.
+downloads-unblock-content-analysis-tip = 다운로드를 계속하거나 취소할 수 있습니다.
+downloads-unblock-button-open =
+    .label = 열기
+downloads-unblock-button-unblock =
+    .label = 다운로드 허용
+downloads-unblock-button-confirm-block =
+    .label = 파일 삭제
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -282,3 +325,5 @@ downloads-blocked-uncommon = 이 파일은 일반적으로 다운로드하지 �
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
