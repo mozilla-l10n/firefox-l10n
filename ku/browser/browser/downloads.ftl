@@ -95,6 +95,9 @@ downloads-error-generic =
 ## Downloads Panel and the Downloads View.
 
 downloads-state-starting = Dest pê dike...
+downloads-state-failed = Têk çû
+downloads-state-paused = Rawestand
+downloads-state-canceled = Hat betalkirin
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
