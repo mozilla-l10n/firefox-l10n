@@ -175,6 +175,10 @@ addon-updates-check-for-updates = Έλεγχος για ενημερώσεις
     .accesskey = χ
 addon-updates-view-updates = Εμφάνιση πρόσφατων ενημερώσεων
     .accesskey = φ
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Αυτόματη ενημέρωση προσθέτων
     .accesskey = Α
 
@@ -326,6 +330,8 @@ release-notes-addon-button = Σημειώσεις έκδοσης
 permissions-addon-button = Δικαιώματα
 extension-enabled-heading = Ενεργές
 extension-disabled-heading = Ανενεργές
+theme-disabled-heading3 =
+    .heading = Αποθηκευμένα θέματα
 theme-enabled-heading = Ενεργά
 theme-disabled-heading2 = Αποθηκευμένα θέματα
 plugin-enabled-heading = Ενεργά
