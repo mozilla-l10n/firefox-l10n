@@ -1118,6 +1118,14 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Emañ ar bajenn-mañ o c’horrekaat { -brand-short-name }. Evit buanaat ho merdeer, ehanit ar bajenn-mañ.
+process-hang-nonspecific-tab-message = Emañ ur bajenn web o c’horrekaat { -brand-short-name }. Evit buanaat ho merdeer, ehanit ar bajenn-se.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = Emañ "{ $title }" o c’horrekaat { -brand-short-name }. Evit buanaat ho merdeer, ehanit ar bajenn-se.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = Emañ “{ $addonName }” o c’horrekaat { -brand-short-name }. Evit buanaat ho merdeer, ehanit an askouezh-se.
 process-hang-addon-learn-more =
     .value = Gouzout hiroc'h
 process-hang-stop-button =
