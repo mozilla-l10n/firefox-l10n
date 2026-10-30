@@ -23,6 +23,8 @@ downloads-cmd-cancel =
     .tooltiptext = Bekor qilish
 downloads-cmd-cancel-panel =
     .aria-label = Bekor qilish
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Fayl yo‘q yoki ko‘chirilgan
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -156,6 +158,9 @@ downloads-state-blocked-parental-controls = Asosiy boshqaruvlar tomonidan blokla
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Ushbu faylda virus yoki zararli dastur bor.
+downloads-blocked-potentially-unwanted = Ushbu fayl kompyuteringizni zararlashi mumkin.
+downloads-blocked-uncommon = Bu fayl to‘liq yuklab olinmagan.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
