@@ -1641,6 +1641,8 @@ process-hang-specific-tab-message = Stran »{ $title }« upočasnjuje { -brand-s
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = Razširitev »{ $addonName }« upočasnjuje { -brand-short-name }. Brskalnik lahko razbremenite tako, da jo ustavite.
+process-hang-addon-learn-more =
+    .value = Več o tem
 process-hang-stop-button =
     .label = Ustavi
     .accesskey = U
