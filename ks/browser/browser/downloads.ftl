@@ -102,6 +102,14 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = شروع كران
+downloads-state-failed = ناکام  گٲمُت
+downloads-state-paused = روٛكیمُت
+downloads-state-canceled = منسوخ كرمُت
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = پیرنٹل قابو كرئن وئل بند كرموْت
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
