@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] הצגה בתיקייה
         }
     .accesskey = ה
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = קובץ הועבר או חסר
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = הקובץ נמחק
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = הקובץ הושלך (נחסם)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = גודל לא ידוע
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -281,6 +291,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = מתחיל…
+downloads-state-failed = כשלון
+downloads-state-paused = מושהה
+downloads-state-canceled = בוטל
 downloads-state-completed = הושלם
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -294,12 +308,18 @@ downloads-blocked-malware = קובץ זה מכיל וירוס או תוכנה ז
 downloads-blocked-potentially-unwanted = קובץ זה עשוי להזיק למחשב שלך.
 downloads-blocked-potentially-insecure = הקובץ לא הורד: סיכון אבטחה אפשרי.
 downloads-blocked-uncommon = קובץ זה לא מורד באופן תדיר.
+downloads-blocked-by-content-analysis = קובץ זה נחסם על־ידי הארגון שלך.
+downloads-warned-by-content-analysis = ייתכן שההורדה הזו אינה בטוחה ודורשת אישור.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = הקובץ נחסם מכיוון ש־{ $agent } אינו נגיש.
+downloads-content-analysis-invalid-agent-signature-error = הקובץ נחסם מכיוון ש־{ $agent } נכשל באימות חתימה.
+downloads-content-analysis-unspecified-error = הקובץ נחסם עקב שגיאה בהתקשרות עם { $agent }.
+downloads-content-analysis-timeout-error = פג הזמן הקצוב ל־{ $agent }, ולכן הקובץ נחסם.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -307,6 +327,23 @@ downloads-blocked-uncommon = קובץ זה לא מורד באופן תדיר.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = האם ברצונך לאפשר הורדה זו?
+downloads-unblock-header-open = האם ברצונך לפתוח קובץ זה?
+downloads-unblock-type-malware = קובץ זה מכיל וירוס או תוכנה זדונית אחרת שעשויים לפגוע במחשב שלך.
+downloads-unblock-type-potentially-unwanted = קובץ זה מוסווה כהורדה מועילה, אך הוא יכול לגרום לשינויים בלתי צפויים לתכניות ולהגדרות שלך.
+downloads-unblock-type-content-analysis-warn = הארגון שלך משתמש בתוכנה למניעת אובדן נתונים שסימנה את התוכן הזה כלא בטוח.
+downloads-unblock-type-uncommon = קובץ זה אינו מהווה הורדה נפוצה ועשוי להיות מסוכן לפתיחה. הוא עלול להכיל וירוס או לבצע שינויים לא צפויים ביישומים ובהגדרות שלך.
+downloads-unblock-tip = ניתן לחפש אחר מקור הורדה חלופי ולנסות שוב מאוחר יותר.
+downloads-unblock-content-analysis-warn-tip = באפשרותך לבחור להוריד אותו בכל מקרה.
+downloads-unblock-content-analysis-blocked = הארגון שלך משתמש בתוכנה למניעת אובדן נתונים שחסמה את ההורדה הזו.
+downloads-unblock-content-analysis-override = רק הארגון שלך יכול לבטל החלטה זו.
+downloads-unblock-content-analysis-tip = באפשרותך להמשיך בהורדה או לבטל אותה.
+downloads-unblock-button-open =
+    .label = פתיחה
+downloads-unblock-button-unblock =
+    .label = אפשר הורדה
+downloads-unblock-button-confirm-block =
+    .label = הסרת קובץ
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -322,3 +359,5 @@ downloads-blocked-uncommon = קובץ זה לא מורד באופן תדיר.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }‏
