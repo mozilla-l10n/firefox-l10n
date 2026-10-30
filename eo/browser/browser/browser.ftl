@@ -1590,6 +1590,11 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Tiu ĉi paĝo malrapidigas { -brand-short-name }. Por rapidigi vian retumilon, haltigu tiun ĉi paĝon.
+process-hang-nonspecific-tab-message = Retpaĝo malrapidigas { -brand-short-name }. Por rapidigi vian retumilon, haltigu tiun paĝon.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” malrapidigas { -brand-short-name }. Por rapidigi vian retumilon, haltigu tiun paĝon.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = “{ $addonName }” malrapidigas { -brand-short-name }. Por rapidigi vian retumilon, haltigu tiun etendaĵon.
