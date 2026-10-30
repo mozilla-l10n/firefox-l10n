@@ -91,6 +91,9 @@ genai-more-actions-search =
     .label = Pesquisar
 genai-more-actions-copy =
     .label = Copiar
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Este menu não aparece mais ao selecionar texto. Acesse Configurações <span data-l10n-name="chevron"></span> Abas e navegação para voltar a exibir.
 genai-more-actions-manage-settings =
     .label = Gerenciar configurações
 # $provider (string) - name of the AI chat provider

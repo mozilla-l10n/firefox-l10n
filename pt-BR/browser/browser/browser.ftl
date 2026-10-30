@@ -1497,6 +1497,9 @@ fire-button-panel-confirm-button =
     .label = Excluir tudo
     .accesskey = E
 fire-button-panel-complete = Dados de navegação excluídos
+fire-button-toolbar-button2 =
+    .label = Excluir alguns ou todos os dados
+    .tooltiptext = Excluir alguns ou todos os dados de navegação
 
 ## Autorefresh blocker
 

@@ -565,6 +565,7 @@ onboarding-refresh-fro-import-body = Seus dados pessoais permanecem privativos. 
 onboarding-refresh-fro-skip-button = Pular
 onboarding-refresh-fro-theme-header = Experimente mudar o visual
 onboarding-refresh-tab-layout-header = Experimente uma disposição diferente de abas
+onboarding-refresh-fro-tab-layout-title = Escolha uma nova disposição de abas
 onboarding-refresh-tab-layout-top = No alto
 onboarding-refresh-tab-layout-side = Ao lado
 onboarding-refresh-tab-layout-minimal = Mínimo

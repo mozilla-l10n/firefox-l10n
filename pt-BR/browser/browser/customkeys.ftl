@@ -84,6 +84,16 @@ customkeys-key-new =
     .label = Pressione a nova tecla:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (não pode ser alterado)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (definido nas configurações de teclado do macOS)
+       *[other] (definido nas configurações de teclado do sistema)
+    }
 
 ## Confirmation dialogs
 
