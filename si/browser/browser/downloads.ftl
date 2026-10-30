@@ -35,6 +35,11 @@ downloads-cmd-show-menuitem-2 =
            *[other] බහාලුමෙහි පෙන්වන්න
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ගොනුව ගෙනගොස් හෝ මඟහැරී ඇත
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = ගොනුව මකා ඇත
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -236,6 +241,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = ආරම්භ වෙමින්…
+downloads-state-failed = අසමත් විය
+downloads-state-paused = විරාමයකි
+downloads-state-canceled = අවලංගු කෙරිණි
 downloads-state-completed = සම්පූර්ණයි
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -245,6 +254,10 @@ downloads-state-blocked-parental-controls = දෙමාපිය පාලන �
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = මෙම ගොනුවේ වෛරසයක් හෝ අනිෂ්ට දෑ ඇත.
+downloads-blocked-potentially-unwanted = මෙම ගොනුව පරිගණකයට හානි කළ හැකිය.
+downloads-blocked-potentially-insecure = ගොනුව බාගත නොකෙරිණි: ආරක්‍ෂණ අවදානමකි.
+downloads-blocked-uncommon = මෙම ගොනුව සාමාන්‍යයෙන් බාගත නොකරයි.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
