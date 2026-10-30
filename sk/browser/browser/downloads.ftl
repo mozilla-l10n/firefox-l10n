@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Zobraziť v priečinku
         }
     .accesskey = b
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Súbor bol premiestnený alebo chýba
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Súbor bol odstránený
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Súbor zahodený (blokovaný)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Neznáma veľkosť
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -250,6 +260,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Začína sa…
+downloads-state-failed = Neúspešné
+downloads-state-paused = Pozastavené
+downloads-state-canceled = Zrušené
 downloads-state-completed = Dokončené
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -263,12 +277,18 @@ downloads-blocked-malware = Tento súbor obsahuje vírus alebo škodlivý softv�
 downloads-blocked-potentially-unwanted = Tento súbor môže poškodiť váš počítač.
 downloads-blocked-potentially-insecure = Súbor nebol stiahnutý - predstavuje možné bezpečnostné riziko.
 downloads-blocked-uncommon = Tento súbor nie je bežne sťahovaný.
+downloads-blocked-by-content-analysis = Tento súbor bol zablokovaný vašou organizáciou.
+downloads-warned-by-content-analysis = Toto sťahovanie môže byť nebezpečné a vyžaduje potvrdenie.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Súbor bol zablokovaný, pretože agent { $agent } nie je dostupný.
+downloads-content-analysis-invalid-agent-signature-error = Súbor bol zablokovaný, pretože agent { $agent } zlyhal pri overení podpisu.
+downloads-content-analysis-unspecified-error = Súbor bol zablokovaný kvôli chybe v komunikácii s { $agent }.
+downloads-content-analysis-timeout-error = Časový limit pre { $agent } vypršal, takže tento súbor bol zablokovaný.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -276,6 +296,24 @@ downloads-blocked-uncommon = Tento súbor nie je bežne sťahovaný.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Naozaj chcete toto sťahovanie povoliť?
+downloads-unblock-header-open = Naozaj chcete tento súbor otvoriť?
+downloads-unblock-type-malware = Tento súbor obsahuje vírus alebo iný škodlivý softvér, ktorý môže poškodiť váš počítač.
+downloads-unblock-type-potentially-unwanted = Tento súbor sa tvári ako užitočný nástroj, ale môže vykonať neočakávané zmeny vo vašich programoch či nastaveniach.
+downloads-unblock-type-content-analysis-warn = Vaša organizácia používa softvér na prevenciu straty údajov, ktorý označil tento obsah ako nebezpečný.
+downloads-unblock-type-uncommon = Tento súbor sa bežne nesťahuje a nemusí byť bezpečné ho otvárať. Môže obsahovať vírus alebo vykonať neočakávané zmeny vo vašich programoch či nastaveniach.
+downloads-unblock-insecure = Sťahovanie sa ponúka cez HTTP, aj keď bol aktuálny dokument doručený cez zabezpečené pripojenie HTTPS. Ak budete pokračovať, sťahovanie môže byť poškodené alebo s ním manipulované počas procesu sťahovania.
+downloads-unblock-tip = Môžete vyhľadať alternatívny zdroj súboru alebo to skúsiť neskôr.
+downloads-unblock-content-analysis-warn-tip = Môžete si ho aj tak stiahnuť.
+downloads-unblock-content-analysis-blocked = Vaša organizácia používa softvér na prevenciu straty údajov, ktorý toto sťahovanie zablokoval.
+downloads-unblock-content-analysis-override = Toto rozhodnutie môže zmeniť iba vaša organizácia.
+downloads-unblock-content-analysis-tip = Môžete pokračovať v sťahovaní alebo ho zrušiť.
+downloads-unblock-button-open =
+    .label = Otvoriť
+downloads-unblock-button-unblock =
+    .label = Povoliť stiahnutie
+downloads-unblock-button-confirm-block =
+    .label = Odstrániť súbor
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -291,3 +329,5 @@ downloads-blocked-uncommon = Tento súbor nie je bežne sťahovaný.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
