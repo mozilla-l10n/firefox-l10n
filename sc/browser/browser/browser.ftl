@@ -1541,6 +1541,14 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Custa pàgina est faghende istentare { -brand-short-name }. Pro fàghere su navigadore prus lestru, bloca·dda.
+process-hang-nonspecific-tab-message = Una pàgina est faghende istentare { -brand-short-name }. Pro fàghere su navigadore prus lestru, bloca·dda.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” est faghende istentare { -brand-short-name }. Pro fàghere su navigadore prus lestru, bloca sa pàgina.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” est faghende istentare { -brand-short-name }. Pro fàghere su navigadore prus lestru, bloca s'estensione.
 process-hang-addon-learn-more =
     .value = Àteras informatziones
 process-hang-stop-button =
