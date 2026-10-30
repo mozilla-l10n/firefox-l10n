@@ -173,6 +173,10 @@ addon-updates-check-for-updates = Hae päivityksiä
     .accesskey = H
 addon-updates-view-updates = Näytä tuoreet päivitykset
     .accesskey = N
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Päivitä lisäosat automaattisesti
     .accesskey = u
 
@@ -319,6 +323,8 @@ release-notes-addon-button = Julkaisutiedot
 permissions-addon-button = Oikeudet
 extension-enabled-heading = Käytössä
 extension-disabled-heading = Ei käytössä
+theme-disabled-heading3 =
+    .heading = Tallennetut teemat
 theme-enabled-heading = Käytössä
 theme-disabled-heading2 = Tallennetut teemat
 plugin-enabled-heading = Käytössä
