@@ -1634,6 +1634,9 @@ process-hang-specific-tab-message = “{ $title }”  { -brand-short-name } ਨ�
 process-hang-addon-message = “{ $addonName }” { -brand-short-name } ਨੂੰ ਹੌਲੀ ਕਰ ਰਹੀ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੇਜ਼ ਕਰਨ ਲਈ ਉਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਰੋਕੋ।
 process-hang-addon-learn-more =
     .value = ਹੋਰ ਜਾਣੋ
+process-hang-stop-button =
+    .label = ਠਹਿਰੋ
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
