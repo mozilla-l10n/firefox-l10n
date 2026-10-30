@@ -1384,6 +1384,14 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Tha an duilleag seo a’ cur maille air { -brand-short-name }. Airson am brabhsair agad a dhèanamh nas luaithe, cuir stad air an duilleag sin.
+process-hang-nonspecific-tab-message = Tha duilleag-lìn a’ cur maille air { -brand-short-name }. Airson am brabhsair agad a dhèanamh nas luaithe, cuir stad air an duilleag ud.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = Tha “{ $title }” a’ cur maille air { -brand-short-name }. Airson am brabhsair agad a dhèanamh nas luaithe, cuir stad air an duilleag ud.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = Tha “{ $addonName }” a’ cur maille air { -brand-short-name }. Airson am brabhsair agad a dhèanamh nas luaithe, cuir stad air an leudachan sin.
 process-hang-addon-learn-more =
     .value = Barrachd fiosrachaidh
 process-hang-stop-button =
