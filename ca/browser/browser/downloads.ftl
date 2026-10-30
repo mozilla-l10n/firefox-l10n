@@ -35,6 +35,12 @@ downloads-cmd-show-menuitem-2 =
            *[other] Mostra en la carpeta
         }
     .accesskey = M
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = S'ha suprimit el fitxer
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Fitxer descartat (bloquejat)
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -254,6 +260,10 @@ downloads-state-blocked-parental-controls = Blocat pels controls parentals
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Aquest fitxer conté un virus o programari maliciós.
+downloads-blocked-potentially-unwanted = Aquest fitxer podria malmetre l'ordinador.
+downloads-blocked-potentially-insecure = No s'ha baixat el fitxer: risc potencial de seguretat.
+downloads-blocked-uncommon = Aquest no és un fitxer que es baixi sovint.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
