@@ -175,6 +175,14 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = আৰম্ভ কৰা হৈছে…
+downloads-state-failed = ব্যৰ্থ হল
+downloads-state-paused = বিৰাম দিয়া হল
+downloads-state-canceled = বাতিল কৰা হল
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = উপধায়ক নিয়ন্ত্ৰণসমূহ দ্বাৰা প্ৰতিৰোধিত
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
