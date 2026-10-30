@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] 在文件夹中显示
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = 文件已被移动或移除
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = 文件已删除
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = 文件已丢弃（已阻止）
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = 未知大小
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -247,6 +257,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = 正在开始…
+downloads-state-failed = 失败
+downloads-state-paused = 已暂停
+downloads-state-canceled = 已取消
 downloads-state-completed = 已完成
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -260,12 +274,18 @@ downloads-blocked-malware = 此文件包含病毒或恶意软件。
 downloads-blocked-potentially-unwanted = 此文件可能危害您的计算机。
 downloads-blocked-potentially-insecure = 未下载文件：有潜在的安全风险。
 downloads-blocked-uncommon = 此文件很少被下载。
+downloads-blocked-by-content-analysis = 您的组织已拦截此文件。
+downloads-warned-by-content-analysis = 此下载可能不安全，需要确认。
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = 由于无法联系 { $agent }，文件已被拦截。
+downloads-content-analysis-invalid-agent-signature-error = 由于 { $agent } 未能进行签名验证，文件已被拦截。
+downloads-content-analysis-unspecified-error = 由于与 { $agent } 通信时发生错误，文件已被拦截。
+downloads-content-analysis-timeout-error = 由于 { $agent } 未在规定时间内回应，此文件已被拦截。
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -273,6 +293,24 @@ downloads-blocked-uncommon = 此文件很少被下载。
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = 您确定要允许下载此文件吗？
+downloads-unblock-header-open = 您确定要打开此文件吗？
+downloads-unblock-type-malware = 这个文件含有病毒或其他形式的恶意软件，将危害您的计算机。
+downloads-unblock-type-potentially-unwanted = 此文件伪装成有用的文件让您下载，但实际上会肆意更改您的程序和设置。
+downloads-unblock-type-content-analysis-warn = 您的组织使用的数据泄露防护软件已标记此内容为不安全。
+downloads-unblock-type-uncommon = 此文件很少被下载，打开它可能不安全。它可能包含病毒，或会自行对您的程序与设置作出意料外的更改。
+downloads-unblock-insecure = 当前网页是通过 HTTPS 加密连接传输的，但下载是以未加密的 HTTP 协议提供。若继续，下载过程中可能会发生损坏或遭窜改。
+downloads-unblock-tip = 您可以搜索其他下载源，或者稍后再试。
+downloads-unblock-content-analysis-warn-tip = 您可以选择继续下载。
+downloads-unblock-content-analysis-blocked = 您的组织使用的数据泄露防护软件阻止了此下载。
+downloads-unblock-content-analysis-override = 只有您的组织可以覆盖此决定。
+downloads-unblock-content-analysis-tip = 您可以继续下载，也可以取消。
+downloads-unblock-button-open =
+    .label = 打开
+downloads-unblock-button-unblock =
+    .label = 允许下载
+downloads-unblock-button-confirm-block =
+    .label = 移除文件
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -288,3 +326,5 @@ downloads-blocked-uncommon = 此文件很少被下载。
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
