@@ -1625,6 +1625,11 @@ process-hang-nonspecific-tab-message = ਵੈੱਬ ਸਫ਼ਾ { -brand-short-
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = “{ $title }”  { -brand-short-name } ਨੂੰ ਹੌਲੀ ਕਰ ਰਿਹਾ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੇਜ਼ ਕਰਨ ਲਈ ਉਸ ਸਫ਼ੇ ਨੂੰ ਰੋਕੋ।
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” { -brand-short-name } ਨੂੰ ਹੌਲੀ ਕਰ ਰਹੀ ਹੈ। ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਤੇਜ਼ ਕਰਨ ਲਈ ਉਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਰੋਕੋ।
+process-hang-addon-learn-more =
+    .value = ਹੋਰ ਜਾਣੋ
 
 ## Onboarding Finish Setup checklist
 
