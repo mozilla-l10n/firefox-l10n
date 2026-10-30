@@ -447,6 +447,8 @@ addon-permissions-learnmore = Μάθετε περισσότερα σχετικά
 # the user.
 addon-permissions-managed-by-policy = Ορισμένα δικαιώματα ρυθμίζονται από τον οργανισμό σας.
 recommended-extensions-heading = Προτεινόμενες επεκτάσεις
+recommended-themes-card-heading =
+    .heading = Προτεινόμενα θέματα
 recommended-themes-heading = Προτεινόμενα θέματα
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
