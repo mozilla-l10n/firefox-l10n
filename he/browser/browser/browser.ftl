@@ -62,6 +62,9 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = שיתוף…
     .accesskey = ש
+
+##
+
 urlbar-identity-button =
     .aria-label = הצגת נתוני אתר
 
@@ -753,6 +756,11 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 #   $provider (String) - The name of the weather-data provider. It will be the
 #       name of a company, organization, or service.
 urlbar-result-weather-provider-sponsored = ‏{ $provider } · ממומן
+
+## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
+## results with last-visited dates like history and top sites, these strings
+## explain why the result is shown.
+
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1335,6 +1343,9 @@ picture-in-picture-move-toggle-left =
 
 ##
 
+
+# Navigator Toolbox
+
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1600,9 +1611,26 @@ file-picker-crashed-open = דו־שיח הקבצים של Windows קרס. לא �
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = דו־שיח הקבצים של Windows קרס. הקובץ יישמר ב־{ $path }.
 file-picker-crashed-save-nowhere = דו־שיח הקבצים של Windows קרס. לא נמצאה תיקיית ברירת מחדל; הקובץ לא יישמר.
+
+# Button used with file-picker-crashed-save-default. Opens the folder in Windows
+# Explorer, with the saved file selected and in focus.
+#
+# The wording here should be consistent with the Windows variant of
+# `downloads-cmd-show-menuitem-2` and similar messages.
+
 file-picker-crashed-show-in-folder =
     .label = הצגה בתיקייה
     .accessKey = ת
+
+## Unsigned add-ons notification
+
+unsigned-addons-disabled-message = אחת או יותר מהתוספות המותקנות אינה ניתנת לאימות ולכן נוטרלה.
+unsigned-addons-disabled-learn-more =
+    .label = מידע נוסף
+    .accesskey = מ
+
+## Process hang notification ("ProcessHangMonitor.sys.mjs")
+
 
 ## Onboarding Finish Setup checklist
 
@@ -1652,6 +1680,9 @@ trustpanel-blocker-see-all = צפייה בהכל
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = הגנות מעקב עבור { $host }
+
+## The urlbar trust icon & panel
+
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.
