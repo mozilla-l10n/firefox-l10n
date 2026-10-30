@@ -51,42 +51,33 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = ডাউনলোড পরিশ্রুত করুন
     .accesskey = D
-
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = ডাউনলোড অনুমোদন করুন
     .accesskey = o
-
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = ফাইল সরিয়ে ফেলুন
-
 downloads-cmd-remove-file-panel =
     .aria-label = ফাইল সরিয়ে ফেলুন
-
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = ফাইল মুছে ফেলুন বা ডাউনলোডের অনুমতি দিন
-
 downloads-cmd-choose-unblock-panel =
     .aria-label = ফাইল মুছে ফেলুন বা ডাউনলোডের অনুমতি দিন
-
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = ফাইলটি খুলুন বা মুছে ফেলুন
-
 downloads-cmd-choose-open-panel =
     .aria-label = ফাইলটি খুলুন বা মুছে ফেলুন
-
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = অধিক তথ্য দেখান
-
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -107,25 +98,23 @@ downloads-open-file =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = আবার ডাউনলোডের চেষ্টা করুন
-
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = ডাউনলোড বাতিল করুন
-
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = সকল ডাউনলোড দেখাও
     .accesskey = S
-
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = ডাউনলোডের বিবরণ
 
 ## These strings are displayed in the private browsing view of the downloads panel
+
 
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
@@ -138,12 +127,10 @@ downloads-details =
 downloads-clear-downloads-button =
     .label = ডাউনলোড পরিষ্কার করুন
     .tooltiptext = সকল ডাউনলোড মুছে ফেলা হোক
-
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = কোন ডাউনলোড অবশিষ্ট নেই।
-
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = এই সেশনের জন্য কোন ডাউনলোড নেই।
@@ -156,3 +143,41 @@ downloads-error-generic =
     অজানা ত্রুটির ফলে ডাউনলোড সংরক্ষণ করা যায়নি।
     
     অনুগ্রহ করে পুনরায় প্রচেষ্টা করুন।
+
+## Download states, displayed in the status line of each download in the
+## Downloads Panel and the Downloads View.
+
+
+## These strings are shown in the status line and in the details sub-panel
+## for some types of blocked downloads.
+
+
+## Displayed when a download is blocked because of an error with the
+## data-loss prevention (DLP) software used by the organization.
+## Variables:
+##   $agent (String) - The name of the DLP agent.
+
+
+## These strings are displayed in the dialog shown when the user asks a blocked
+## download to be unblocked, and in the details sub-panel of the Downloads
+## Panel. The severity of the threat is expressed in descending order by the
+## downloads-unblock-type-* strings, it is higher for files detected as malware
+## and lower for uncommon downloads.
+
+
+## These strings define templates for the separation of different elements in
+## the status line of a download item. As a separator, by default we use the
+## Unicode character U+2014 'EM DASH' (long dash). Examples of status lines
+## include "Canceled — 222.net", "1.1 MB — website2.com", or "Paused —  1.1 MB".
+## Note that we use a wider space after the separator when it is followed by a
+## number, just to avoid visually confusing it with a minus sign with some
+## fonts. If you use a different separator, this might not be necessary.
+## However, there is usually no need to change the separator or the order of
+## the substitutions, even for right-to-left languages, unless the defaults are
+## not suitable.
+## Variables:
+##   $start (String) - The text before the separator.
+##   $end (String) - The text after the separator.
+
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
