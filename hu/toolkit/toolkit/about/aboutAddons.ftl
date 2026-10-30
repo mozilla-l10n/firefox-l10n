@@ -442,6 +442,8 @@ addon-permissions-learnmore = További tudnivalók az engedélyekről
 # the user.
 addon-permissions-managed-by-policy = Néhány engedélyt a szervezete kezel.
 recommended-extensions-heading = Ajánlott kiegészítők
+recommended-themes-card-heading =
+    .heading = Ajánlott témák
 recommended-themes-heading = Ajánlott témák
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
