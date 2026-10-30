@@ -19,6 +19,8 @@ about-sync-log-filter-type-error =
     .label = Error
 about-sync-log-filter-date =
     .aria-label = Data
+about-sync-log-filter-date-all =
+    .label = Tot el temps
 about-sync-log-filter-date-today =
     .label = Avui
 about-sync-log-filter-date-7days =
@@ -47,6 +49,15 @@ about-sync-log-count =
         [one] { $count } registre
        *[other] { $count } registres
     }
+# Heading of a log in the list, stating its outcome and when it was written.
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-success =
+    .heading = Èxit — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
+# Variables:
+#   $date (number) - Timestamp of when the log was written.
+about-sync-log-row-error =
+    .heading = Error — { DATETIME($date, dateStyle: "medium", timeStyle: "medium") }
 # Variables:
 #   $value (number) - The amount of data (e.g. "12.3").
 #   $unit (string) - The unit of data (e.g. "KB").

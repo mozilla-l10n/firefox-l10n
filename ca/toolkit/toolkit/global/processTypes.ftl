@@ -16,6 +16,8 @@ process-type-privilegedmozilla = Contingut de Mozilla privilegiat
 process-type-extension = Extensió
 # process used to open file:// URLs
 process-type-file = Fitxer local
+# process used to instantiate new child processes
+process-type-forkserver = Servidor de bifurcació
 # process used to isolate a webpage from other web pages
 # to improve security
 process-type-webisolated = Contingut web aïllat
@@ -37,6 +39,18 @@ process-type-gpu = GPU
 process-type-socket = Sòcol
 # process used to decode media
 process-type-rdd = RDD
+# process used to run inference
+process-type-inference = Inferència
+# process used to run some IPC actor in their own sandbox
+process-type-utility = Actor IPC en un entorn de proves
+process-type-utility-actor-audio-decoder-generic = Utilitat: descodificador d'àudio genèric
+process-type-utility-actor-audio-decoder-applemedia = Utilitat: AppleMedia
+process-type-utility-actor-audio-decoder-wmf = Utilitat: Windows Media Foundation
+process-type-utility-actor-mf-media-engine = Utilitat: motor de Media Foundation
+process-type-utility-actor-js-oracle = Utilitat: oracle de JavaScript
+process-type-utility-actor-windows-utils = Utilitat: utilitats de Windows
+process-type-utility-actor-windows-file-dialog = Utilitat: diàleg de fitxers de Windows
+process-type-utility-actor-hw-inference = Utilitat: inferència accelerada per maquinari
 
 ##
 ## Other

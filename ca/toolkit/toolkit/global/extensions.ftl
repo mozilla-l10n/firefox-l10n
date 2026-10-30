@@ -125,6 +125,12 @@ webext-site-perms-description-gated-perms-midi =
     Normalment, són dispositius com els sintetitzadors d'àudio, però també poden estar integrats en l'ordinador.
     
     Els llocs web normalment no poden accedir als dispositius MIDI. Un ús inadequat podria causar danys o posar la seguretat en risc.
+webext-site-perms-description-gated-perms-webserial =
+    Són dispositius com ara microcontroladors, impressores 3D i altres aparells que es connecten per USB, port sèrie o Bluetooth.
+    
+    Podreu triar a quins dispositius pot accedir el lloc web.
+    
+    Normalment, els llocs web no tenen permís per a accedir a dispositius sèrie. Un ús inadequat podria causar danys o comprometre la seguretat.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
@@ -139,3 +145,8 @@ webext-site-perms-header-unsigned-with-perms = Voleu afegir { $extension }? Aque
 
 webext-site-perms-midi = Accés a dispositius MIDI
 webext-site-perms-midi-sysex = Accés a dispositius MIDI compatibles amb SysEx
+webext-site-perms-serial = Accés a dispositius sèrie
+
+## Colorway theme migration
+
+webext-colorway-theme-migration-notification-button = Obtén les combinacions de colors actualitzades

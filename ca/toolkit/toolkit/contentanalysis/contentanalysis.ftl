@@ -44,7 +44,7 @@ contentanalysis-operationtype-print = imprimir
 #   $filename - The filename associated with the request, such as "aFile.txt"
 contentanalysis-upload-description = enviament de “{ $filename }”
 #   $filename - The filename associated with the request, such as "aFile.txt"
-contentanalysis-download-description = descàrrega de “{ $filename }”
+contentanalysis-download-description = baixada de «{ $filename }»
 contentanalysis-warndialogtitle = Aquest contingut pot no ser segur
 # Variables:
 #   $content - Description of the content being warned about, such as "clipboard" or "aFile.txt"
@@ -86,10 +86,10 @@ contentanalysis-block-dialog-title-upload-file = No teniu permís per enviar aqu
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
 contentanalysis-block-dialog-body-upload-file = Segons les polítiques de protecció de dades de la vostra organització, no teniu permís per enviar el fitxer "{ $filename }". Poseu-vos en contacte amb el vostre administrador per a obtenir més informació.
-contentanalysis-block-dialog-title-download-file = No teniu permís per descarregar aquest fitxer
+contentanalysis-block-dialog-title-download-file = No teniu permís per a baixar aquest fitxer
 # Variables:
 #   $filename - Name of the file that was blocked, such as "aFile.txt"
-contentanalysis-block-dialog-body-download-file = Segons les polítiques de protecció de dades de la vostra organització, no teniu permís per descarregar el fitxer "{ $filename }". Poseu-vos en contacte amb el vostre administrador per obtenir més informació.
+contentanalysis-block-dialog-body-download-file = D'acord amb les polítiques de protecció de dades de la vostra organització, no teniu permís per a baixar el fitxer «{ $filename }». Per a obtenir més informació, contacteu amb l'administrador.
 contentanalysis-block-dialog-title-clipboard = No teniu permís per enganxar aquest contingut
 contentanalysis-block-dialog-body-clipboard = Segons les polítiques de protecció de dades de la vostra organització, no teniu permís per enganxar aquest contingut. Poseu-vos en contacte amb el vostre administrador per obtenir més informació.
 contentanalysis-block-dialog-title-clipboard-copy = No teniu permís per copiar aquest contingut

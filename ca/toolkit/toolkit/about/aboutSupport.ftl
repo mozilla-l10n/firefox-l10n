@@ -15,6 +15,14 @@ support-addons-type = Tipus
 support-addons-enabled = Activat
 support-addons-version = Versió
 support-addons-id = ID
+# In the add-on world, locations are where the addon files are stored. Each
+# location has name. For instance: app-system-addons, app-builtin,
+# app-temporary, etc.
+support-addons-location-name = Ubicació
+legacy-user-stylesheets-title = Fulls d'estil d'usuari antics
+legacy-user-stylesheets-enabled = Actiu
+legacy-user-stylesheets-stylesheet-types = Fulls d'estil
+legacy-user-stylesheets-no-stylesheets-found = No s'ha trobat cap full d'estil
 security-software-title = Programari de seguretat
 security-software-type = Tipus
 security-software-name = Nom
@@ -69,6 +77,7 @@ app-basics-key-mozilla = Clau del servei d'ubicació de Mozilla
 app-basics-safe-mode = Mode segur
 app-basics-memory-size = Mida de la memòria (RAM)
 app-basics-disk-available = Espai de disc disponible
+app-basics-pointing-devices = Dispositius apuntadors
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -99,18 +108,42 @@ graphics-gpu2-title = GPU núm. 2
 graphics-decision-log-title = Registre de decisions
 graphics-crash-guards-title = Característiques del protector de fallades desactivades
 graphics-workarounds-title = Solucions temporals
+graphics-device-pixel-ratios = Relacions de píxels del dispositiu de la finestra
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Protocol de finestres
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = Entorn d'escriptori
 place-database-title = Base de dades de llocs
+place-database-stats = Estadístiques
+place-database-stats-show = Mostra les estadístiques
+place-database-stats-hide = Amaga les estadístiques
+place-database-stats-entity = Entitat
+place-database-stats-count = Recompte
+place-database-stats-size-kib = Mida (KiB)
+place-database-stats-size-perc = Mida (%)
+place-database-stats-efficiency-perc = Eficiència (%)
+place-database-stats-sequentiality-perc = Seqüencialitat (%)
 place-database-integrity = Integritat
 place-database-verify-integrity = Verifica la integritat
+place-database-last-idle-maintenance-data = Data de l'últim manteniment en inactivitat
+# Vacuum refers to a type of database maintenance process
+place-database-last-vacuum-date = Data de l'última neteja (VACUUM)
+place-database-last-integrity-corruption-date = Data de l'última corrupció d'integritat
 a11y-title = Accessibilitat
 a11y-activated = Activat
 a11y-force-disabled = Evita l'accessibilitat
 a11y-handler-used = Gestor d'accessibilitat utilitzat
 a11y-instantiator = Instanciador d'accessibilitat
+pdfjs-title = Visor de PDF
+# PDF.js is the name of the project, leave it unchanged.
+pdfjs-version = Versió de PDF.js
+pdfjs-enabled = Activat
+# The annotation editor is the set of PDF editing tools (draw, add image, add
+# text, signature).
+pdfjs-enabled-annotation-editor = Editor d'anotacions activat
+# XFA (XML Form Architecture) refers to Adobe’s technology for forms.
+pdfjs-enabled-xfa = Formularis XFA activats
+pdfjs-open-attachments-inline = Obre els fitxers adjunts dels PDF integrats
 library-version-title = Versions de la biblioteca
 copy-text-to-clipboard-label = Copia el text al porta-retalls
 copy-raw-data-to-clipboard-label = Copia les dades sense processar al porta-retalls
@@ -150,8 +183,35 @@ media-device-channels = Canals
 media-device-rate = Freqüència
 media-device-latency = Latència
 media-capabilities-title = Capacitats multimèdia
+media-codec-support-info = Informació de compatibilitat de còdecs
 # List all the entries of the database.
 media-capabilities-enumerate = Enumera la base de dades
+
+## Codec support table
+
+media-codec-support-sw-decoding = Descodificació per programari
+media-codec-support-hw-decoding = Descodificació per maquinari
+media-codec-support-sw-encoding = Codificació per programari
+media-codec-support-hw-encoding = Codificació per maquinari
+media-codec-support-codec-name = Nom del còdec
+media-codec-support-supported = Compatible
+media-codec-support-unsupported = No compatible
+media-codec-support-error = La informació de compatibilitat de còdecs no està disponible. Torneu-ho a provar després de reproduir un fitxer multimèdia.
+media-codec-support-lack-of-extension = Instal·la l'extensió
+
+## Media Content Decryption Modules (CDM)
+## See EME Spec for more explanation for following technical terms
+## https://w3c.github.io/encrypted-media/
+
+media-content-decryption-modules-title = Informació dels mòduls de desxifratge de contingut
+media-key-system-name = Nom del sistema de claus
+media-video-robustness = Robustesa del vídeo
+media-audio-robustness = Robustesa de l'àudio
+media-cdm-capabilities = Capacitats
+# Clear Lead isn't defined in the spec, which means the the first few seconds
+# are not encrypted. It allows playback to start without having to wait for
+# license response, improving video start time and user experience.
+media-cdm-clear-lead = Clear Lead
 
 ##
 
@@ -231,6 +291,7 @@ try-newer-driver = Blocat pel controlador gràfic. Proveu d'actualitzar-lo a la 
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Paràmetres de ClearType
 compositing = Composició
+support-font-determination = Informació de depuració de la visibilitat del tipus de lletra
 hardware-h264 = Descodificació H264 per maquinari
 main-thread-no-omtc = fil principal, sense OMTC
 yes = Sí
@@ -266,6 +327,11 @@ webgl2-renderer = Renderitzador del controlador WebGL 2
 webgl2-version = Versió del controlador WebGL 2
 webgl2-driver-extensions = Extensions del controlador WebGL 2
 webgl2-extensions = Extensions WebGL 2
+webgpu-default-adapter = Adaptador per defecte del WebGPU
+webgpu-fallback-adapter = Adaptador alternatiu del WebGPU
+# Variables
+#   $bugNumber (string) - Bug number on Bugzilla
+support-blocklisted-bug = A la llista de blocats per problemes coneguts: <a data-l10n-name="bug-link">error { $bugNumber }</a>
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = És a la llista de bloquejos; codi d'error { $failureCode }
@@ -278,16 +344,24 @@ gpu-device-reset = Restableix el dispositiu
 gpu-device-reset-button = Inicia el restabliment del dispositiu
 uses-tiling = Fa servir mosaics
 content-uses-tiling = Fa servir mosaics (contingut)
+off-main-thread-paint-enabled = Pintura fora del fil principal activada
+off-main-thread-paint-worker-count = Nombre de fils de treball de pintura fora del fil principal
+target-frame-rate = Freqüència de fotogrames objectiu
 min-lib-versions = Versió mínima esperada
 loaded-lib-versions = Versió en ús
 has-seccomp-bpf = Seccomp-BPF (filtratge de crides del sistema)
 has-seccomp-tsync = Sincronització de fils Seccomp
 has-user-namespaces = Espais de noms de l'usuari
 has-privileged-user-namespaces = Espais de noms de l'usuari per a processos privilegiats
+# Variables
+# $status (string) - Boolean value of hasUserNamespaces (should only be false when support-user-namespaces-unavailable is used)
+support-user-namespaces-unavailable = { $status } — El sistema no permet aquesta funció. Això pot restringir les funcions de seguretat del { -brand-short-name }.
 can-sandbox-content = Inclou en l'entorn de proves els processos de contingut
 can-sandbox-media = Inclou en l'entorn de proves els connectors multimèdia
 content-sandbox-level = Nivell de l'entorn de proves de processos de contingut
 effective-content-sandbox-level = Nivell de l'entorn de proves de processos de contingut efectiu
+content-win32k-lockdown-state = Estat de confinament de Win32k per al procés de contingut
+support-sandbox-gpu-level = Nivell de l'entorn de proves del procés de la GPU
 sandbox-proc-type-content = contingut
 sandbox-proc-type-file = contingut del fitxer
 sandbox-proc-type-media-plugin = connector multimèdia
@@ -311,6 +385,7 @@ multi-process-windows = { $remoteWindows }/{ $totalWindows }
 fission-windows = { $fissionWindows }/{ $totalWindows }
 fission-status-disabled-by-e10s-env = Desactivat per l'entorn
 fission-status-enabled-by-env = Activat per l'entorn
+fission-status-disabled-by-env = Desactivat per l'entorn
 fission-status-enabled-by-default = Activat per defecte
 fission-status-disabled-by-default = Desactivat per defecte
 fission-status-enabled-by-user-pref = Activat per l'usuari
@@ -348,13 +423,43 @@ support-printing-prefs-value = Valor
 
 ## Remote Settings sections
 
+support-remote-settings-title = Configuració remota
+support-remote-settings-status = Estat
 support-remote-settings-status-ok = D’acord
+# Status when synchronization is not working.
+support-remote-settings-status-broken = No funciona
+support-remote-settings-last-check = Darrera comprovació
+support-remote-settings-local-timestamp = Marca horària local
+support-remote-settings-sync-history = Historial
+support-remote-settings-sync-history-status = Estat
+support-remote-settings-sync-history-datetime = Data
+support-remote-settings-sync-history-infos = Informació
 
 ## Normandy sections
 
 support-remote-experiments-title = Experiments remots
 support-remote-experiments-name = Nom
 support-remote-experiments-branch = Branca de l'experiment
+support-remote-experiments-see-about-studies = Vegeu <a data-l10n-name="support-about-studies-link">about:studies</a> per a obtenir més informació, com ara la manera de desactivar experiments individuals o d'impedir que el { -brand-short-name } executi aquest tipus d'experiments en el futur.
 support-remote-features-title = Funcions remotes
 support-remote-features-name = Nom
 support-remote-features-status = Estat
+
+## Pointing devices
+
+pointing-device-mouse = Ratolí
+pointing-device-touchscreen = Pantalla tàctil
+pointing-device-pen-digitizer = Digitalitzador de llapis
+pointing-device-none = No hi ha cap dispositiu apuntador
+
+## Content Analysis (DLP)
+
+# DLP stands for Data Loss Prevention, an industry term for external software
+# that enterprises can set up to prevent sensitive data from being transferred
+# to external websites.
+content-analysis-title = Anàlisi de continguts (DLP)
+content-analysis-active = Actiu
+content-analysis-connected-to-agent = Connectat a l'agent
+content-analysis-agent-path = Camí de l'agent
+content-analysis-agent-failed-signature-verification = L'agent no ha superat la verificació de la signatura
+content-analysis-request-count = Nombre de sol·licituds
