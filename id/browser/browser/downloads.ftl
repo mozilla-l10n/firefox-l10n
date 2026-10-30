@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] Tampilkan di Folder
         }
     .accesskey = F
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Berkas dihapus
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -252,6 +255,10 @@ downloads-state-blocked-parental-controls = Diblokir oleh Parental Controls
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Berkas ini mengandung virus atau perangkat perusak.
+downloads-blocked-potentially-unwanted = Berkas ini meungkin dapat merusak komputer Anda.
+downloads-blocked-potentially-insecure = Berkas tidak diunduh: Potensi risiko keamanan.
+downloads-blocked-uncommon = Umumnya berkas ini tidak diunduh.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
