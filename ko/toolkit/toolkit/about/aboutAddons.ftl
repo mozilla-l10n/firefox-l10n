@@ -175,10 +175,6 @@ addon-updates-check-for-updates = 업데이트 확인
     .accesskey = C
 addon-updates-view-updates = 최근 업데이트 보기
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = 부가 기능을 자동으로 업데이트
     .accesskey = A
 

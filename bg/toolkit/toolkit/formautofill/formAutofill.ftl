@@ -61,8 +61,6 @@ credit-card-security-code-name-other = Код за сигурност
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
-## "•••" stands for the hidden security code; keep it as is rather than
-## translating it into words.
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
@@ -83,8 +81,6 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = Да се запази ли кода за сигурност?
-# “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = { -brand-short-name } ще шифрова и ще запази кода ви за сигурност за тази карта, така че плащанията да стават по-бързо.
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 

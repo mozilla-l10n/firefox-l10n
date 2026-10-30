@@ -162,10 +162,6 @@ addon-updates-check-for-updates = Ստուգել թարմացումները
     .accesskey = Ս
 addon-updates-view-updates = Տեսնել վերջին թարմացումները
     .accesskey = Տ
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Թարմացնել յաւելումներն ինքնաշխատաւրէն
     .accesskey = Թ
 
@@ -338,10 +334,6 @@ addon-detail-private-browsing-help = Երբ թոյլատրած է, ընդլայ�
 addon-detail-private-browsing-allow = Թոյլատրել
 addon-detail-private-browsing-disallow = Չթոյլատրել
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -408,38 +400,3 @@ plugins-openh264-name = OpenH264 Video Codec, որը մատակարարում է
 plugins-openh264-description = Այս ներդիրն ինքնաբար տեղադրուած է Mozilla-ի կողմից, որպէսզի  համապատասխանի WebRTC բնութագրին եւ միացնի WebRTC կանչերն այն սարքերի հետ, որոն որոնք պահանջում են H.264 տեսանիւթի կոդեկ։ Այցելէք https://www.openh264.org/ կայք կոդեկի բնագիրը դիտելու համար։
 plugins-widevine-name = Google-ի կողմից տրամադրուող լայնածաւալ բովանդակութեան գաղտնագրման մոդուլ:
 plugins-widevine-description = Այս ներդիր-ը հնարաւորութիւն է տալիս գաղտնագրուած մեդիայի նուագարկումը`ըստ գաղտնագրուած մեդիայի ընդարձակման (Encrypted Media Extensions) առանձնայատկութեան։ Գաղտնագրուած մեդիան կայքերի կողմից  սովորաբար աւգտագործուում է վճարովի բովանդակութիւնը պատճէնումից պաշտպանուելու համար։ Այցելէք https://www.w3.org/TR/encrypted-media/ ՝ Գաղտնագրուած մեդիայի ընդարձակման վերաբերեալ լրացուցիչ տեղեկութիւնների համար։
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-
-
-## Promo footer shown in the about:addons recommendations view when
-## Project Nova styles are enabled.
-## The heading refers to the user choosing a Firefox theme or extension to
-## install. In the message, "tools" refers to Firefox extensions and
-## "styles" refers to Firefox themes.
-
-
-## Promo footer shown in the about:addons extensions list view when
-## Project Nova styles are enabled.
-## In the message, "tools" refers to Firefox extensions.
-
-
-## Promo footer shown in the about:addons themes list view when
-## Project Nova styles are enabled.
-## "Find more fresh looks" refers to the user looking for more Firefox themes.
-
-
-## Promo shown in about:addons extensions list view when no extension is yet installed
-## and Project Nova is enabled.
-
-
-## Themes Mode segmented control shown at the top of the about:addons themes list view
-## when Project Nova is enabled.
-
-
-## Enable/disable/install buttons on each theme card inside the theme picker.
-

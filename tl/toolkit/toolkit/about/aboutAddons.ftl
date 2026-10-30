@@ -155,10 +155,6 @@ addon-updates-check-for-updates = Maghanap ng mga Update
     .accesskey = M
 addon-updates-view-updates = Tingnan ang mga Bagong Update
     .accesskey = T
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = I-update nang Kusa ang mga Add-on
     .accesskey = A
 
@@ -330,14 +326,6 @@ addon-detail-private-browsing-help = Kapag pinayagan, ang extension ay magkakaro
 addon-detail-private-browsing-allow = Payagan
 addon-detail-private-browsing-disallow = Huwag Payagan
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
 ##
 
 available-updates-heading = Mga Magagamit na Update
@@ -391,38 +379,3 @@ plugins-openh264-name = OpenH264 Video Codec ibinigay ng Cisco Systems, Inc.
 plugins-openh264-description = Ang plugin na ito ay kusang ikinabit ng Mozilla upang tumalima sa WebRTC specification at upang paganahin ang mga tawag gamit ang WebRTC sa mga device na nangangailangan ng H.264 video codec. Bisitahin ang https://www.openh264.org/ upang tingnan ang source code ng codec at matuto nang higit pa tungkol sa pagpapatupad nito.
 plugins-widevine-name = Module ng Nilalaman Decryption ng Widevine na ibinigay ng Google Inc.
 plugins-widevine-description = Ang plugin na ito ay nagbibigay-daan sa pag-playback ng naka-encrypt na media sa pagsunod sa mga pagtutukoy ng mga Naka-encrypt na Media Extension. Ang naka-encrypt na media ay kadalasang ginagamit ng mga site upang maprotektahan laban sa pagkopya ng nilalaman ng premyadong content. Bisitahin ang https://www.w3.org/TR/encrypted-media/ para sa marami pang impormasyon sa mga Na-encrypt na Mga Extension ng Media.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-
-
-## Promo footer shown in the about:addons recommendations view when
-## Project Nova styles are enabled.
-## The heading refers to the user choosing a Firefox theme or extension to
-## install. In the message, "tools" refers to Firefox extensions and
-## "styles" refers to Firefox themes.
-
-
-## Promo footer shown in the about:addons extensions list view when
-## Project Nova styles are enabled.
-## In the message, "tools" refers to Firefox extensions.
-
-
-## Promo footer shown in the about:addons themes list view when
-## Project Nova styles are enabled.
-## "Find more fresh looks" refers to the user looking for more Firefox themes.
-
-
-## Promo shown in about:addons extensions list view when no extension is yet installed
-## and Project Nova is enabled.
-
-
-## Themes Mode segmented control shown at the top of the about:addons themes list view
-## when Project Nova is enabled.
-
-
-## Enable/disable/install buttons on each theme card inside the theme picker.
-

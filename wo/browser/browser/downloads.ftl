@@ -29,12 +29,6 @@ downloads-cmd-cancel-panel =
 downloads-size-with-units = { $size } { $unit }
 downloads-size-unknown = Dayo bu kenn xamul
 
-## Displayed in the downloads context menu for files that can be opened.
-## Variables:
-##   $handler (String) - The name of the mime type's default file handler.
-##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
-
-
 ##
 
 downloads-cmd-retry =
@@ -48,15 +42,6 @@ downloads-cmd-copy-download-link =
     .label = Duppi màkkaanu buumu yeb bi
     .accesskey = m
 
-## Displayed when the user clicked on a download in process. Indicates that the
-## downloading file will be opened after certain amount of time using an app
-## available in the system.
-## Variables:
-##   $hours (number) - Amount of hours left till the file opens.
-##   $seconds (number) - Amount of seconds left till the file opens.
-##   $minutes (number) - Amount of minutes till the file opens.
-
-
 ##
 
 # This string is shown at the bottom of the Downloads Panel when all the
@@ -65,18 +50,6 @@ downloads-cmd-copy-download-link =
 downloads-history =
     .label = Wone yeb yépp
     .accesskey = W
-
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
-
-##
-
 
 ## Download errors
 
@@ -98,23 +71,6 @@ downloads-state-canceled = Neenalu na
 # Windows. "Parental Controls" should be consistently named and capitalized
 # with the display of this feature in Windows.
 downloads-state-blocked-parental-controls = Kontorolu wajur boloke na ko
-
-## These strings are shown in the status line and in the details sub-panel
-## for some types of blocked downloads.
-
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
-
-## These strings are displayed in the dialog shown when the user asks a blocked
-## download to be unblocked, and in the details sub-panel of the Downloads
-## Panel. The severity of the threat is expressed in descending order by the
-## downloads-unblock-type-* strings, it is higher for files detected as malware
-## and lower for uncommon downloads.
-
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the

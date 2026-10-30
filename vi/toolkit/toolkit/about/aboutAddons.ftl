@@ -176,10 +176,6 @@ addon-updates-check-for-updates = Kiểm tra cập nhật
     .accesskey = C
 addon-updates-view-updates = Xem các cập nhật gần đây
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Tự động cập nhật tiện ích
     .accesskey = A
 

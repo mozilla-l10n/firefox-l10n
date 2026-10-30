@@ -89,8 +89,6 @@ credit-card-security-code-name-other = ਸੁਰੱਖਿਆ ਕੋਡ
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
-## "•••" stands for the hidden security code; keep it as is rather than
-## translating it into words.
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
@@ -103,10 +101,6 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
-credit-card-update-payment-method-doorhanger-header = ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨਾ ਹੈ?
-credit-card-capture-save-new-payment-method-button =
-    .label = ਨਵੇਂ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਸੰਭਾਲੋ
-    .accessKey = S
 credit-card-capture-update-payment-method-button =
     .label = ਅੱਪਡੇਟ ਕਰੋ
     .accessKey = U
@@ -115,18 +109,14 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = ਸੁਰੱਖਿਆ ਕੋਡ ਨੂੰ ਸੰਭਾਲਣਾ ਹੈ?
-# “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = { -brand-short-name } ਤੇਜ਼ੀ ਨਾਲ ਚੈਕਆਉਟ ਵਾਸਤੇ ਇਸ ਕਾਰਡ ਨੂੰ ਲਈ ਤੁਹਾਡੇ ਸੁਰੱਖਿਆ ਕੋਡ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਕੇ ਸੰਭਾਲੇਗਾ।
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = ਇਸ ਭੁਗਤਾਨ ਢੰਗ ਨੂੰ ਸੰਭਾਲਣਾ ਹੈ?
-# Used when the security code won't be saved, because saving security codes
-# is turned off or the form didn't include one.
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
 # “Checkout” refers to the payment stage on websites.
 credit-card-save-payment-method-doorhanger-description = { -brand-short-name } ਤੇਜ਼ੀ ਨਾਲ ਚੈਕ-ਆਉਟ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਡੇ ਭੁਗਤਾਨ ਢੰਗ ਦੇ ਵੇਰਵੇ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਕੇ ਆਪੇ-ਭਰਨ ਲਈ ਵਰਤਦਾ ਹੈ।
-# Used when the security code will be saved along with the card.
-credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } ਅਗਲੀ ਵਾਰ ਤੁਹਾਡੇ ਵਲੋਂ ਭਰਨ ਲਈ ਤੁਹਾਡੇ ਕਾਰਡ ਅਤੇ ਸੁਰੱਖਿਆ ਕੋਡ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰੇਗਾ।
 credit-card-capture-dismiss-button =
     .label = ਖ਼ਾਰਜ ਕਰੋ
     .accessKey = D

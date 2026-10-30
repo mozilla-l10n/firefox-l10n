@@ -265,12 +265,6 @@ downloads-blocked-potentially-unwanted = ໄຟລນີ້ອາດເປັນ
 downloads-blocked-potentially-insecure = ບໍ່ໄດ້ດາວໂຫຼດໄຟລ໌: ຄວາມສ່ຽງດ້ານຄວາມປອດໄພທີ່ເປັນໄປໄດ້.
 downloads-blocked-uncommon = ໄຟລນີ້ບໍ່ສາມາດດາວໂຫລດໄດ້ທົ່ວໄປ
 
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
-
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
 ## Panel. The severity of the threat is expressed in descending order by the

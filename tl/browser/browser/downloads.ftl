@@ -183,9 +183,6 @@ downloads-history =
 downloads-details =
     .title = Detalye ng mga Download
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -239,12 +236,6 @@ downloads-state-blocked-parental-controls = Hinarang ng Parental Cotrols
 downloads-blocked-malware = Ang file na ito ay may virus o malware.
 downloads-blocked-potentially-unwanted = Ang file na ito ay maaaring makapinsala sa iyong computer.
 downloads-blocked-uncommon = Ang file na ito ay hindi karaniwang dina-download.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

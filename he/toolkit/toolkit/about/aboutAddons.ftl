@@ -173,10 +173,6 @@ addon-updates-check-for-updates = בדיקה אחר עדכונים
     .accesskey = ב
 addon-updates-view-updates = הצגת עדכונים אחרונים
     .accesskey = ה
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = עדכון תוספות אוטומטי
     .accesskey = ע
 

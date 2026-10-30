@@ -89,8 +89,6 @@ credit-card-security-code-name-other = Codi de seguretat
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
-## "•••" stands for the hidden security code; keep it as is rather than
-## translating it into words.
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
@@ -103,10 +101,6 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
-credit-card-update-payment-method-doorhanger-header = Voleu actualitzar el mètode de pagament?
-credit-card-capture-save-new-payment-method-button =
-    .label = Desa el mètode de pagament nou
-    .accessKey = S
 credit-card-capture-update-payment-method-button =
     .label = Actualitza
     .accessKey = U
@@ -115,18 +109,14 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = Voleu desar el codi de seguretat?
-# “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = El { -brand-short-name } xifrarà i desarà el codi de seguretat d'aquesta targeta perquè el pagament sigui més ràpid.
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = Voleu desar aquest mètode de pagament?
-# Used when the security code won't be saved, because saving security codes
-# is turned off or the form didn't include one.
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
 # “Checkout” refers to the payment stage on websites.
 credit-card-save-payment-method-doorhanger-description = El { -brand-short-name } xifra i emplena automàticament les dades de pagament perquè pugueu pagar més ràpidament.
-# Used when the security code will be saved along with the card.
-credit-card-save-payment-method-doorhanger-description-security-code = El { -brand-short-name } xifrarà el número de la targeta i el codi de seguretat i els emplenarà automàticament la pròxima vegada.
 credit-card-capture-dismiss-button =
     .label = Descarta
     .accessKey = D

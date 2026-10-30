@@ -172,10 +172,6 @@ addon-updates-check-for-updates = Kontrollo për Përditësime
     .accesskey = K
 addon-updates-view-updates = Shihni Përditësimet e Fundit
     .accesskey = S
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Përditësoji Shtesat Vetvetiu
     .accesskey = P
 
@@ -545,31 +541,3 @@ mlmodel-addon-detail-used-by-label = Përdorur nga
 mlmodel-addon-detail-model-card = Skedë modeli
 # This is a label for the Model Card link to Hugging face
 mlmodel-addon-detail-model-card-link-label = Shiheni te Hugging Face
-
-## Promo footer shown in the about:addons recommendations view when
-## Project Nova styles are enabled.
-## The heading refers to the user choosing a Firefox theme or extension to
-## install. In the message, "tools" refers to Firefox extensions and
-## "styles" refers to Firefox themes.
-
-
-## Promo footer shown in the about:addons extensions list view when
-## Project Nova styles are enabled.
-## In the message, "tools" refers to Firefox extensions.
-
-
-## Promo footer shown in the about:addons themes list view when
-## Project Nova styles are enabled.
-## "Find more fresh looks" refers to the user looking for more Firefox themes.
-
-
-## Promo shown in about:addons extensions list view when no extension is yet installed
-## and Project Nova is enabled.
-
-
-## Themes Mode segmented control shown at the top of the about:addons themes list view
-## when Project Nova is enabled.
-
-
-## Enable/disable/install buttons on each theme card inside the theme picker.
-

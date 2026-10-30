@@ -89,8 +89,6 @@ credit-card-security-code-name-other = Segurtasun-kodea
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
-## "•••" stands for the hidden security code; keep it as is rather than
-## translating it into words.
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
@@ -103,10 +101,6 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
-credit-card-update-payment-method-doorhanger-header = Eguneratu ordainketa-metodoa?
-credit-card-capture-save-new-payment-method-button =
-    .label = Gorde ordainketa-metodo berria
-    .accessKey = G
 credit-card-capture-update-payment-method-button =
     .label = Eguneratu
     .accessKey = E
@@ -115,18 +109,14 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = Gorde segurtasun-kodea?
-# “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = { -brand-short-name }(e)k txartel honen segurtasun-kodea zifratu eta gordeko du erosketa azkarragoa izateko.
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = Gorde ordainketa-metodo hau?
-# Used when the security code won't be saved, because saving security codes
-# is turned off or the form didn't include one.
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
 # “Checkout” refers to the payment stage on websites.
 credit-card-save-payment-method-doorhanger-description = { -brand-short-name }(e)k zure ordainketaren xehetasunak zifratu eta automatikoki betetzen ditu erosketa azkarragoa izan dadin.
-# Used when the security code will be saved along with the card.
-credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name }(e)k zure txartel-zenbakia eta segurtasun-kodea zifratzen ditu eta hurrengoan automatikoki beteko ditu.
 credit-card-capture-dismiss-button =
     .label = Baztertu
     .accessKey = B

@@ -175,10 +175,6 @@ addon-updates-check-for-updates = Ñembohekopyahu jeheka
     .accesskey = C
 addon-updates-view-updates = Ñembohekopyahu ramovéva jehecha
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Moĩmbaha ijeheguietéva mbohekopyahu
     .accesskey = A
 

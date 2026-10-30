@@ -173,10 +173,6 @@ addon-updates-check-for-updates = Hae päivityksiä
     .accesskey = H
 addon-updates-view-updates = Näytä tuoreet päivitykset
     .accesskey = N
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Päivitä lisäosat automaattisesti
     .accesskey = u
 

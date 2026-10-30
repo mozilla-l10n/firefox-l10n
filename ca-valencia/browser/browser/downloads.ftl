@@ -173,15 +173,6 @@ downloads-history =
 downloads-details =
     .title = Detalls de la baixada
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
-
 ##
 
 downloads-clear-downloads-button =
@@ -238,12 +229,6 @@ downloads-blocked-malware = Este fitxer conté un virus o programari maliciós.
 downloads-blocked-potentially-unwanted = Este fitxer podria malmetre l'ordinador.
 downloads-blocked-potentially-insecure = No s'ha baixat el fitxer: risc potencial de seguretat.
 downloads-blocked-uncommon = Este no és un fitxer que es baixe sovint.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

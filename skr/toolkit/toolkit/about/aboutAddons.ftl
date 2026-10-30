@@ -180,10 +180,6 @@ addon-updates-check-for-updates = اپ ڈیٹاں دی پڑتال کرو
     .accesskey = C
 addon-updates-view-updates = حالیہ اپ ڈیٹاں دا نظارہ کرو
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ایڈ آنز آپݨے آپ اپ ڈیٹ کرو
     .accesskey = A
 

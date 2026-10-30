@@ -266,12 +266,6 @@ downloads-blocked-malware = ഈ ഫയലില്‍ ഒരു വൈറസോ 
 downloads-blocked-potentially-unwanted = ഈ ഫയല്‍ നിങ്ങളുടെ കമ്പ്യൂട്ടറിനു് പ്രശ്നമുണ്ടാക്കാം.
 downloads-blocked-uncommon = ഈ ഫയൽ സാധാരണയായി ഇറക്കിവയ്ക്കാറില്ല.
 
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
-
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
 ## Panel. The severity of the threat is expressed in descending order by the

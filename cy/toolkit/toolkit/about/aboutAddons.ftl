@@ -173,10 +173,6 @@ addon-updates-check-for-updates = Gwirio am Ddiweddariadau
     .accesskey = G
 addon-updates-view-updates = Gweld Diweddariadau Diweddar
     .accesskey = D
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Diweddaru Ychwanegion yn Awtomatig
     .accesskey = A
 

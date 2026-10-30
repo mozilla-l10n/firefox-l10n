@@ -171,10 +171,6 @@ addon-updates-check-for-updates = Bilatu eguneraketak
     .accesskey = B
 addon-updates-view-updates = Ikusi azken eguneraketak
     .accesskey = I
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Eguneratu gehigarriak automatikoki
     .accesskey = g
 

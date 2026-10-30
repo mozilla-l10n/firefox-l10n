@@ -178,10 +178,6 @@ addon-updates-check-for-updates = Güncellemeleri denetle
     .accesskey = G
 addon-updates-view-updates = Son güncellemeleri görüntüle
     .accesskey = o
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Eklentileri kendiliğinden güncelle
     .accesskey = n
 

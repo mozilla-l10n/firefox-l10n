@@ -63,9 +63,6 @@ menu-share-mac-picker-multiple =
 urlbar-share-url =
     .label = شیئر کرو…
     .accesskey = h
-
-##
-
 urlbar-identity-button =
     .aria-label = سائٹ دیاں معلومات ݙیکھو
 
@@ -759,11 +756,6 @@ urlbar-result-weather-title-city-only = <strong>{ $temperature }°{ $unit }</str
 urlbar-result-weather-provider-sponsored = { $provider } · سپانسر شدہ
 # Used for asking AI assistant chat.
 urlbar-result-action-ai-chat = پچھو
-
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
 # This explanation is used when the last-visited date is formatted as one of the
 # following relative dates: "yesterday", "today"
 # Variables:
@@ -1340,9 +1332,6 @@ picture-in-picture-move-toggle-left =
 
 ##
 
-
-# Navigator Toolbox
-
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
@@ -1601,13 +1590,6 @@ file-picker-crashed-open = ونڈوز فائل ڈائیلاگ کریش تھی ڳ
 #   $path (string): The full path to which the file will be saved (e.g., 'C:\Users\Default User\Downloads\readme.txt').
 file-picker-crashed-save-somewhere = ونڈوز فائل ڈائیلاگ کریش تھی ڳیا ہے۔ فائل { $path } تے محفوظ تھیسی۔
 file-picker-crashed-save-nowhere = ونڈوز فائل ڈائیلاگ کریش تھی ڳیا ہے۔ کوئی ڈیفالٹ فولڈر کائنی لبھیا: فائل محفوظ کائناں تھیسی۔
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
 file-picker-crashed-show-in-folder =
     .label = فولڈر وِچ ݙکھاؤ
     .accessKey = F
@@ -1683,9 +1665,6 @@ trustpanel-blocker-see-all = سبھ ݙیکھو
 #  $host (String): the hostname of the site that is being displayed.
 trustpanel-blocker-header =
     .title = { $host } کیتے ٹریکنگ تحفظ
-
-## The urlbar trust icon & panel
-
 # LOCALIZATION NOTE (trustpanel-urlbar-notsecure-label):
 # Keep this string as short as possible, this is displayed in the URL bar
 # use a synonym for "safe" or "private" if "secure" is too long.

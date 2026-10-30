@@ -113,15 +113,6 @@ downloads-show-more-information =
 downloads-open-file =
     .value = Síne tutu
 
-## Displayed when the user clicked on a download in process. Indicates that the
-## downloading file will be opened after certain amount of time using an app
-## available in the system.
-## Variables:
-##   $hours (number) - Amount of hours left till the file opens.
-##   $seconds (number) - Amount of seconds left till the file opens.
-##   $minutes (number) - Amount of minutes till the file opens.
-
-
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -143,15 +134,6 @@ downloads-history =
 downloads-details =
     .title = Detalles nxinuun
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
-
 ##
 
 downloads-clear-downloads-button =
@@ -165,24 +147,11 @@ downloads-list-empty =
 downloads-panel-empty =
     .value = Ntu nxinuun ni'i nuu sesión ya'a.
 
-## Download errors
-
-
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
 downloads-state-starting = Kajie´e…
 downloads-state-canceled = Ntu nkuvi-ka
-
-## These strings are shown in the status line and in the details sub-panel
-## for some types of blocked downloads.
-
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

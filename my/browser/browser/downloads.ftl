@@ -98,15 +98,6 @@ downloads-show-more-information =
 downloads-open-file =
     .value = ဖိုင်ကို ဖွင့်ရန်
 
-## Displayed when the user clicked on a download in process. Indicates that the
-## downloading file will be opened after certain amount of time using an app
-## available in the system.
-## Variables:
-##   $hours (number) - Amount of hours left till the file opens.
-##   $seconds (number) - Amount of seconds left till the file opens.
-##   $minutes (number) - Amount of minutes till the file opens.
-
-
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -127,15 +118,6 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = ဆွဲယူထားသည့်ဖိုင်အသေးစိတ်
-
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
 
 ##
 
@@ -178,12 +160,6 @@ downloads-state-blocked-parental-controls = အုပ်ထိန်းသူမ
 downloads-blocked-malware = ဒီဖိုင်တွင် ဗိုင်းရပ်စ် သို့မဟုတ် ခိုးယူတိုက်ခိုက်သည့်ဆော့ဖ်ဝဲလ် ပါဝင်နေသည်။
 downloads-blocked-potentially-unwanted = ဒီဖိုင်သည် သင့်ကွန်ပြူတာကို ထိခိုက်စေနိုင်သည်။
 downloads-blocked-uncommon = ဒီဖိုင်ကို အများအားဖြင့် ဆွဲချကူးယူလေ့မရှိပါ။
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

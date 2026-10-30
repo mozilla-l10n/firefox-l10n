@@ -191,9 +191,6 @@ downloads-history =
 downloads-details =
     .title = ᱰᱟᱣᱱᱞᱚᱰ ᱵᱤᱵᱨᱚᱬ ᱠᱚ
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -265,12 +262,6 @@ downloads-blocked-malware = ᱱᱚᱶᱟ ᱨᱮᱫ ᱨᱮ ᱵᱷᱟᱭᱨᱚᱥ 
 downloads-blocked-potentially-unwanted = ᱱᱚᱶᱟ ᱨᱮᱫ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱭᱩᱴᱟᱨ ᱞᱟᱹᱜᱤᱫ ᱜᱷᱟᱛᱚᱠ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 downloads-blocked-potentially-insecure = ᱨᱮᱫ ᱵᱟᱭ ᱰᱟᱣᱱᱞᱚᱰ ᱟᱠᱟᱱᱟ: ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱤᱥᱠ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 downloads-blocked-uncommon = ᱱᱚᱶᱟ ᱨᱮᱫᱽ ᱫᱚ ᱵᱟᱭ ᱰᱟᱣᱱᱞᱚᱰᱚᱜᱼᱟ ᱾
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

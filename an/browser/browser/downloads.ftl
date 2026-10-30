@@ -138,15 +138,6 @@ downloads-history =
 downloads-details =
     .title = Detalles d'as descargas
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
-
 ##
 
 downloads-clear-downloads-button =
@@ -194,12 +185,6 @@ downloads-blocked-malware = Iste fichero contién un virus u software dolent.
 downloads-blocked-potentially-unwanted = Iste fichero podría danyar o suyo ordinador.
 downloads-blocked-potentially-insecure = No s'ha baixau lo fichero: risgo potencial de seguridat.
 downloads-blocked-uncommon = Iste fichero no se gosa descargar a sobén.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

@@ -173,10 +173,6 @@ addon-updates-check-for-updates = 检查更新
     .accesskey = C
 addon-updates-view-updates = 查看最近更新
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = 自动更新附加组件
     .accesskey = A
 

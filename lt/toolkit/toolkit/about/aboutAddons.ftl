@@ -165,10 +165,6 @@ addon-updates-check-for-updates = Tikrinti, ar yra naujinimų
     .accesskey = T
 addon-updates-view-updates = Rodyti paskiausiai atnaujintus priedus
     .accesskey = p
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Naujinti priedus automatiškai
     .accesskey = N
 
@@ -348,10 +344,6 @@ addon-detail-private-browsing-help = Leidus, priedas turės priėjimą prie jūs
 addon-detail-private-browsing-allow = Leisti
 addon-detail-private-browsing-disallow = Neleisti
 
-## "sites with restrictions" (internally called "quarantined") are special domains
-## where add-ons are normally blocked for security reasons.
-
-
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -418,38 +410,3 @@ plugins-openh264-name = „OpenH264“ vaizdo kodekas, sukurtas „Cisco Systems
 plugins-openh264-description = Šis papildinys yra automatiškai įdiegiamas norint laikytis „WebRTC“ specifikacijos ir įgalinti „WebRTC“ skambučius su įrenginiais, kurie reikalauja H.264 vaizdo kodeko. Apsilankykite https://www.openh264.org/ norėdami peržiūrėti pirminį kodeko kodą ir sužinoti daugiau apie jo realizavimą.
 plugins-widevine-name = „Google Inc.“ teikiamas „Widevine“ turinio dešifravimo modulis (CDM).
 plugins-widevine-description = Šis papildinys leidžia atkurti užšifruotą turinį, laikantis „Encrypted Media Extensions“ specifikacijos. Užšifruotą turinį svetainės dažniausiai naudoja norėdamos apsisaugoti nuo mokamo turinio kopijavimo. Aplankykite https://www.w3.org/TR/encrypted-media/ norėdami sužinoti daugiau apie „Encrypted Media Extensions“.
-
-## Headings for the Permissions tab in `about:addons` when the data collection
-## feature is enabled.
-
-
-## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
-
-
-## Promo footer shown in the about:addons recommendations view when
-## Project Nova styles are enabled.
-## The heading refers to the user choosing a Firefox theme or extension to
-## install. In the message, "tools" refers to Firefox extensions and
-## "styles" refers to Firefox themes.
-
-
-## Promo footer shown in the about:addons extensions list view when
-## Project Nova styles are enabled.
-## In the message, "tools" refers to Firefox extensions.
-
-
-## Promo footer shown in the about:addons themes list view when
-## Project Nova styles are enabled.
-## "Find more fresh looks" refers to the user looking for more Firefox themes.
-
-
-## Promo shown in about:addons extensions list view when no extension is yet installed
-## and Project Nova is enabled.
-
-
-## Themes Mode segmented control shown at the top of the about:addons themes list view
-## when Project Nova is enabled.
-
-
-## Enable/disable/install buttons on each theme card inside the theme picker.
-

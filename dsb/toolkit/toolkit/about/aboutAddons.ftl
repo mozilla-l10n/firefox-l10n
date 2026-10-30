@@ -175,10 +175,6 @@ addon-updates-check-for-updates = Za aktualizacijami pytaś
     .accesskey = a
 addon-updates-view-updates = Nowe aktualizacije se woglědaś
     .accesskey = N
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Dodanki awtomatiski aktualizěrowaś
     .accesskey = D
 

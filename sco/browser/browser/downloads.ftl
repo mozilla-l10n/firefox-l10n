@@ -145,15 +145,6 @@ downloads-history =
 downloads-details =
     .title = Doonload Details
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
-
 ##
 
 downloads-clear-downloads-button =
@@ -201,12 +192,6 @@ downloads-blocked-malware = This file conteens a virus or malware.
 downloads-blocked-potentially-unwanted = This file micht hairm yer computer.
 downloads-blocked-potentially-insecure = File no doonloadit: Potential siccarness risk.
 downloads-blocked-uncommon = This file isnae fur ordinar doonloadit.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

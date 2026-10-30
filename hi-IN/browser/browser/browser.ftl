@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-##
-
 urlbar-identity-button =
     .aria-label = साइट की जानकारी देखें
 
@@ -280,9 +277,6 @@ browser-window-restore-down-button =
 browser-window-close-button =
     .tooltiptext = बंद करें
 
-## Bookmarks toolbar items
-
-
 ## WebRTC Pop-up notifications
 
 popup-select-camera-device =
@@ -303,9 +297,6 @@ sharing-warning-window = आप { -brand-short-name } को साझा कर
 sharing-warning-screen = आप पूरी स्क्रीन साझा कर रहे हैं। नए टैब पर जाने पर अन्य व्यक्ति इसे देख सकता है।
 sharing-warning-disable-for-session =
     .label = इस सत्र के लिए साझाकरण सुरक्षा अक्षम करें
-
-## WebSerial "select a port" popup
-
 
 ## URL Bar
 
@@ -350,18 +341,6 @@ urlbar-result-action-search-w-engine = { $engine } से खोजें
 urlbar-result-action-switch-tab = 'टैब में स्विच करें
 urlbar-result-action-visit = भ्रमण करें
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = बुकमार्क
@@ -375,9 +354,6 @@ urlbar-searchmode-history4 = इतिहास
 urlbar-result-action-search-bookmarks = बुकमार्क खोजें
 urlbar-result-action-search-history = खोज इतिहास
 urlbar-result-action-search-tabs = खोज टैब
-
-## Used in the menu of a urlbar result.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -394,11 +370,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = रीडर दृश्य बंद करे|
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -471,9 +442,6 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = बुकमार्क
 
-## Repair text encoding toolbar button
-
-
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -530,10 +498,6 @@ toolbar-button-paste =
     .label = चिपकाएँ
     .tooltiptext = चिपकाएँ ({ $shortcut })
 
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
-
 ## EME notification panel
 
 eme-notifications-drm-content-playing = इस साइट पर कुछ ऑडियो या वीडियो DRM सॉफ्टवेयर का उपयोग करते है, जो सिमित कर सकता है कि { -brand-short-name } आपको इसके साथ क्या करने दे सकता हैं.
@@ -576,21 +540,7 @@ panel-save-update-password-2 =
 ui-tour-info-panel-close =
     .tooltiptext = बन्द करें
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-
 ##
-
-
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
-##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -623,50 +573,12 @@ tabs-toolbar-list-all-tabs =
     .label = सभी टैब सूचीबद्ध करें
     .tooltiptext = सभी टैब सूचीबद्ध करें
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
-## Address bar result shown when someone who used the Extensions and Themes
-## keyboard shortcut presses that shortcut after it moved to Search Tabs.
-## Variables:
-##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
-##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } स्वतः कुछ आँकड़ों को { -vendor-short-name } में भेजता है ताकि हम आपके अनुभव को बढ़ा सकें.
 data-reporting-notification-button =
     .label = चुनें जिसे मैंने साझा किया
     .accesskey = C
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
-
-## Fire button. Clears the whole browsing session, then closes every window and
-## opens a new one.
-
 
 ## Autorefresh blocker
 
@@ -675,9 +587,6 @@ refresh-blocked-redirect-label = { -brand-short-name } ने इस पृष�
 refresh-blocked-allow =
     .label = अनुमति दें
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -710,16 +619,6 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = '{ $popupURI }' दिखाएँ
 
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = एक या उससे अधिक सत्यापित ऐड-ऑन स्थापित नहीं कर सकते और निष्क्रिय कर दिया गया.
@@ -731,19 +630,3 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = अधिक जानें
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

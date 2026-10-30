@@ -2,9 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-##
-
 urlbar-identity-button =
     .aria-label = View site information
 
@@ -114,9 +111,6 @@ clear-search-history =
     .label = Dicht Airt-oot Historie
     .accesskey = H
 
-## Page Action Context Menu
-
-
 ## Auto-hide Context Menu
 
 full-screen-autohide =
@@ -174,11 +168,6 @@ search-one-offs-tabs =
     .tooltiptext = Tabs ({ $restrict })
 search-one-offs-history =
     .tooltiptext = Historie ({ $restrict })
-
-## QuickActions are shown in the urlbar as the user types a matching string
-## The -cmd- strings are comma separated list of keywords that will match
-## the action. English commas should be used, i.e. ,
-
 
 ## Bookmark Panel
 
@@ -306,9 +295,6 @@ sharing-warning-proceed-to-tab =
 sharing-warning-disable-for-session =
     .label = Disable sharin bieldin for this session
 
-## WebSerial "select a port" popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -410,18 +396,6 @@ urlbar-result-action-tabtosearch-other-engine = Sairch { $engine } straicht fae 
 # Action text for copying to clipboard.
 urlbar-result-action-copy-to-clipboard = Copy
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 urlbar-searchmode-bookmarks4 = Buikmerks
@@ -440,9 +414,6 @@ urlbar-searchmode-popup-add-engine = Eik on “{ $engineName }”
 urlbar-result-action-search-bookmarks = Sairch Buikmerks
 urlbar-result-action-search-history = Airt-Oot Historie
 urlbar-result-action-search-tabs = Sairch Tabs
-
-## Used in the menu of a urlbar result.
-
 
 ## Labels shown above groups of urlbar results
 
@@ -465,11 +436,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Sneck Reader View
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -622,10 +588,6 @@ toolbar-button-paste =
     .label = Paste
     .tooltiptext = Paste ({ $shortcut })
 
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
-
 ## EME notification panel
 
 eme-notifications-drm-content-playing = Some soond or video on this site yaises DRM saftware, and that micht leemit whit { -brand-short-name } can lat ye dae wi it.
@@ -676,24 +638,13 @@ menu-share-more =
 ui-tour-info-panel-close =
     .tooltiptext = Sneck
 
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
-
 ##
 
 picture-in-picture-hide-toggle =
     .label = Hide Pictur-in-Pictur Toggle
     .accesskey = H
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -726,50 +677,12 @@ tabs-toolbar-list-all-tabs =
     .label = List aw tabs
     .tooltiptext = List aw tabs
 
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
-## Address bar result shown when someone who used the Extensions and Themes
-## keyboard shortcut presses that shortcut after it moved to Search Tabs.
-## Variables:
-##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
-##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
-
-
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 data-reporting-notification-message = { -brand-short-name } automatically sends some data tae { -vendor-short-name } sae that we can impruive yer experience.
 data-reporting-notification-button =
     .label = Pick Whit I Share
     .accesskey = C
-
-## Unified extensions (toolbar) button
-
-
-## Unified extensions button when permission(s) are needed.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are quarantined.
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Unified extensions button when some extensions are disabled (e.g. through add-ons blocklist).
-## Note that the new line is intentionally part of the tooltip.
-
-
-## Private browsing reset button
-
-
-## Fire button. Clears the whole browsing session, then closes every window and
-## opens a new one.
-
 
 ## Autorefresh blocker
 
@@ -778,9 +691,6 @@ refresh-blocked-redirect-label = { -brand-short-name } stappit this page fae aut
 refresh-blocked-allow =
     .label = Alloo
     .accesskey = A
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -817,16 +727,6 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = Kythe “{ $popupURI }”
 
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Ane or mair instawed eik-ons cannae be verified and hae been disabled.
@@ -849,19 +749,3 @@ process-hang-addon-learn-more =
 process-hang-stop-button =
     .label = Stap
     .accesskey = S
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

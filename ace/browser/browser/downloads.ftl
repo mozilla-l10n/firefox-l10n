@@ -25,12 +25,6 @@ downloads-file-moved-or-missing = Beureukaih ka jipinah ho laén atawa pih ka ga
 downloads-size-with-units = { $size } { $unit }
 downloads-size-unknown = Hana Jituri seunipat
 
-## Displayed in the downloads context menu for files that can be opened.
-## Variables:
-##   $handler (String) - The name of the mime type's default file handler.
-##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
-
-
 ##
 
 # This is the tooltip of the action button shown when malware is blocked.
@@ -50,49 +44,12 @@ downloads-cmd-choose-open-panel =
 downloads-open-file =
     .value = Peuhah Beureukaih
 
-## Displayed when the user clicked on a download in process. Indicates that the
-## downloading file will be opened after certain amount of time using an app
-## available in the system.
-## Variables:
-##   $hours (number) - Amount of hours left till the file opens.
-##   $seconds (number) - Amount of seconds left till the file opens.
-##   $minutes (number) - Amount of minutes till the file opens.
-
-
-##
-
-
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
-
-##
-
-
-## Download errors
-
-
-## Download states, displayed in the status line of each download in the
-## Downloads Panel and the Downloads View.
-
-
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
 downloads-blocked-malware = Na virus atawa malware lam beureukaih nyoë.
 downloads-blocked-potentially-unwanted = Beureukaih nyoë mungkén jipeureulöh komputer droëneuh.
 downloads-blocked-uncommon = Beureukaih nyoë hana that kayém jidownload.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

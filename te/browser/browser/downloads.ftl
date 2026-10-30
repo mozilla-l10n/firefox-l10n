@@ -171,15 +171,6 @@ downloads-history =
 downloads-details =
     .title = దింపుకోలు వివరాలు
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
-
 ##
 
 downloads-clear-downloads-button =
@@ -230,12 +221,6 @@ downloads-state-blocked-parental-controls = పేరెంటల్ నియ�
 downloads-blocked-malware = ఈ ఫైల్ వైరల్ లేదా మాల్‌వేర్ కలిగివుంది.
 downloads-blocked-potentially-unwanted = ఈ ఫైల్ మీ కంప్యూటర్‌కు హాని కలిగించవచ్చు.
 downloads-blocked-uncommon = సాధారణంగా ఈ దస్త్రాన్ని దింపుకోరు.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

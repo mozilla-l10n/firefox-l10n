@@ -31,12 +31,6 @@ downloads-file-moved-or-missing = Tukoo hun wal'a ši bara
 downloads-size-with-units = { $size } { $unit }
 downloads-size-unknown = Adadu šibayante
 
-## Displayed in the downloads context menu for files that can be opened.
-## Variables:
-##   $handler (String) - The name of the mime type's default file handler.
-##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
-
-
 ##
 
 downloads-cmd-retry =
@@ -90,15 +84,6 @@ downloads-show-more-information =
 downloads-open-file =
     .value = Tuku feeri
 
-## Displayed when the user clicked on a download in process. Indicates that the
-## downloading file will be opened after certain amount of time using an app
-## available in the system.
-## Variables:
-##   $hours (number) - Amount of hours left till the file opens.
-##   $seconds (number) - Amount of seconds left till the file opens.
-##   $minutes (number) - Amount of minutes till the file opens.
-
-
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -115,15 +100,6 @@ downloads-cancel-download =
 downloads-history =
     .label = Zumandey kul cebe
     .accesskey = c
-
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
 
 ##
 
@@ -166,12 +142,6 @@ downloads-state-blocked-parental-controls = Gagayandi ihayrey dabari ra
 downloads-blocked-malware = Wirisi wala hasaraw-goyjinay goo tukoo woo ra.
 downloads-blocked-potentially-unwanted = Tukoo woo ga hin ka war ordinateroo hasara.
 downloads-blocked-uncommon = Tukoo woo ši doona ka zumandi.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

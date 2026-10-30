@@ -99,20 +99,6 @@ addon-category-sitepermission-title =
 
 extensions-warning-imported-addons-button = پۊرنیڌن وردنی یل
 
-## Strings connected to add-on updates
-
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
-
-## Specific add-ons can have custom update checking behaviors ("Manually",
-## "Automatically", "Use default global behavior"). These menu items reset the
-## update checking behavior for all add-ons to the default global behavior
-## (which itself is either "Automatically" or "Manually", controlled by the
-## extensions-updates-update-addons-automatically.label menu item).
-
-
 ## Status messages displayed when updating add-ons
 
 addon-updates-none-found = هیچ ورۊ رسۊوی نجۊرست
@@ -237,10 +223,6 @@ addon-detail-quarantined-domains-disallow = نشتن
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
 
-## This is the tooltip text for the recommended badges for an extension in about:addons. The
-## badge is a small icon displayed next to an extension when it is recommended on AMO.
-
-
 ##
 
 recent-updates-heading = ورۊ رسۊویا هیم دمۊوی
@@ -295,31 +277,3 @@ mlmodel-remove-addon-button =
 # Label for the aggregated value of all files for a model
 mlmodel-addon-detail-totalsize-label = هندا فایل
 mlmodel-addon-detail-last-used-label = کرت دیندایی و کار گرؽڌن
-
-## Promo footer shown in the about:addons recommendations view when
-## Project Nova styles are enabled.
-## The heading refers to the user choosing a Firefox theme or extension to
-## install. In the message, "tools" refers to Firefox extensions and
-## "styles" refers to Firefox themes.
-
-
-## Promo footer shown in the about:addons extensions list view when
-## Project Nova styles are enabled.
-## In the message, "tools" refers to Firefox extensions.
-
-
-## Promo footer shown in the about:addons themes list view when
-## Project Nova styles are enabled.
-## "Find more fresh looks" refers to the user looking for more Firefox themes.
-
-
-## Promo shown in about:addons extensions list view when no extension is yet installed
-## and Project Nova is enabled.
-
-
-## Themes Mode segmented control shown at the top of the about:addons themes list view
-## when Project Nova is enabled.
-
-
-## Enable/disable/install buttons on each theme card inside the theme picker.
-

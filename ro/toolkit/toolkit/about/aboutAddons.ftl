@@ -173,10 +173,6 @@ addon-updates-check-for-updates = Caută actualizări
     .accesskey = C
 addon-updates-view-updates = Vezi actualizările recente
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Actualizează automat suplimentele
     .accesskey = A
 

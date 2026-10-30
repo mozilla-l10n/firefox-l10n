@@ -191,9 +191,6 @@ downloads-history =
 downloads-details =
     .title = Ôsobliwości pobiyranio
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -265,12 +262,6 @@ downloads-blocked-malware = Tyn zbiōr mo wirusa abo je sorōński w inkszy spus
 downloads-blocked-potentially-unwanted = Tyn zbiōr może szkłōdzić twojimu kōmputrowi.
 downloads-blocked-potentially-insecure = Zbiōr niy ma pobrany: Możebne ryzyko bezpieczyństwa.
 downloads-blocked-uncommon = Tyn zbiōr niy ma czynsto pobiyrany.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

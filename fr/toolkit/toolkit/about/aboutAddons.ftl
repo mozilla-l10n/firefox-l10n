@@ -176,10 +176,6 @@ addon-updates-check-for-updates = Rechercher des mises à jour
     .accesskey = R
 addon-updates-view-updates = Afficher les mises à jour récentes
     .accesskey = A
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Mettre à jour les modules automatiquement
     .accesskey = M
 

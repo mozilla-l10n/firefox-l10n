@@ -89,8 +89,6 @@ credit-card-security-code-name-other = Beveiligingscode
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
-## "•••" stands for the hidden security code; keep it as is rather than
-## translating it into words.
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
@@ -103,10 +101,6 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
-credit-card-update-payment-method-doorhanger-header = Betalingsmethode bijwerken?
-credit-card-capture-save-new-payment-method-button =
-    .label = Nieuwe betalingsmethode opslaan
-    .accessKey = p
 credit-card-capture-update-payment-method-button =
     .label = Bijwerken
     .accessKey = B
@@ -115,18 +109,14 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = Beveiligingscode opslaan?
-# “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = { -brand-short-name } versleutelt en slaat uw beveiligingscode voor deze kaart op, zodat betalen sneller gaat.
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = Deze betalingsmethode opslaan?
-# Used when the security code won't be saved, because saving security codes
-# is turned off or the form didn't include one.
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
 # “Checkout” refers to the payment stage on websites.
 credit-card-save-payment-method-doorhanger-description = { -brand-short-name } versleutelt en vult uw betalingsgegevens automatisch in voor sneller afrekenen.
-# Used when the security code will be saved along with the card.
-credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } versleutelt uw kaartnummer en beveiligingscode en vult deze de volgende keer automatisch voor u in.
 credit-card-capture-dismiss-button =
     .label = Sluiten
     .accessKey = S

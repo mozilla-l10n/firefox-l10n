@@ -38,12 +38,6 @@ downloads-file-moved-or-missing = Fayl daşınıb və ya yoxdur
 downloads-size-with-units = { $size } { $unit }
 downloads-size-unknown = Həcmi bilinmir
 
-## Displayed in the downloads context menu for files that can be opened.
-## Variables:
-##   $handler (String) - The name of the mime type's default file handler.
-##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
-
-
 ##
 
 downloads-cmd-show-button-2 =
@@ -228,12 +222,6 @@ downloads-state-blocked-parental-controls = Valideyn nəzarəti tərəfindən bl
 downloads-blocked-malware = Bu faylda virus və ya zərərli proqram var.
 downloads-blocked-potentially-unwanted = Bu fayl kompüterinizə ziyan verə bilər.
 downloads-blocked-uncommon = Bu fayl indiyə qədər çox endirilməyib.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

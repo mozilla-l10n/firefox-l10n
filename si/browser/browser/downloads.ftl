@@ -191,9 +191,6 @@ downloads-history =
 downloads-details =
     .title = බාගැනීමේ විස්තර
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -263,12 +260,6 @@ downloads-blocked-malware = මෙම ගොනුවේ වෛරසයක් �
 downloads-blocked-potentially-unwanted = මෙම ගොනුව පරිගණකයට හානි කළ හැකිය.
 downloads-blocked-potentially-insecure = ගොනුව බාගත නොකෙරිණි: ආරක්‍ෂණ අවදානමකි.
 downloads-blocked-uncommon = මෙම ගොනුව සාමාන්‍යයෙන් බාගත නොකරයි.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

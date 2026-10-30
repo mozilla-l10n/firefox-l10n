@@ -28,27 +28,12 @@ downloads-cmd-cancel-panel =
 #   $unit (String) - The measurement unit, for example "MB".
 downloads-size-with-units = { $size } { $unit }
 
-## Displayed in the downloads context menu for files that can be opened.
-## Variables:
-##   $handler (String) - The name of the mime type's default file handler.
-##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
-
-
 ##
 
 downloads-cmd-retry =
     .tooltiptext = B'an unpajte
 downloads-cmd-retry-panel =
     .aria-label = B'an unpajte
-
-## Displayed when the user clicked on a download in process. Indicates that the
-## downloading file will be opened after certain amount of time using an app
-## available in the system.
-## Variables:
-##   $hours (number) - Amount of hours left till the file opens.
-##   $seconds (number) - Amount of seconds left till the file opens.
-##   $minutes (number) - Amount of minutes till the file opens.
-
 
 ##
 
@@ -57,42 +42,10 @@ downloads-cmd-retry-panel =
 downloads-retry-download =
     .value = B'an unpajte ti' teq'ol ku'tzan
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
-
-##
-
-
-## Download errors
-
-
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
 downloads-state-paused = Tanb'a'mal
-
-## These strings are shown in the status line and in the details sub-panel
-## for some types of blocked downloads.
-
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
-
-## These strings are displayed in the dialog shown when the user asks a blocked
-## download to be unblocked, and in the details sub-panel of the Downloads
-## Panel. The severity of the threat is expressed in descending order by the
-## downloads-unblock-type-* strings, it is higher for files detected as malware
-## and lower for uncommon downloads.
-
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the

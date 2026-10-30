@@ -38,12 +38,6 @@ downloads-file-moved-or-missing = फ़ाइल स्थानांतरि
 downloads-size-with-units = { $size } { $unit }
 downloads-size-unknown = अज्ञात आकार‌
 
-## Displayed in the downloads context menu for files that can be opened.
-## Variables:
-##   $handler (String) - The name of the mime type's default file handler.
-##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
-
-
 ##
 
 downloads-cmd-show-button-2 =
@@ -115,15 +109,6 @@ downloads-show-more-information =
 downloads-open-file =
     .value = फ़ाइल खोलें
 
-## Displayed when the user clicked on a download in process. Indicates that the
-## downloading file will be opened after certain amount of time using an app
-## available in the system.
-## Variables:
-##   $hours (number) - Amount of hours left till the file opens.
-##   $seconds (number) - Amount of seconds left till the file opens.
-##   $minutes (number) - Amount of minutes till the file opens.
-
-
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -144,15 +129,6 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = विवरण डाउनलोड करें
-
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
 
 ##
 
@@ -197,12 +173,6 @@ downloads-state-blocked-parental-controls = अभिभावक नियं�
 downloads-blocked-malware = फाइल में वाय‌रस या मालवेयर है.
 downloads-blocked-potentially-unwanted = यह फाइल आपके कंप्यूटर को नुकसान पहुँचा सकता है.
 downloads-blocked-uncommon = इस फाइल को सामान्यतः डाउनलोड नही किया गया है.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

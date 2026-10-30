@@ -4,9 +4,6 @@
 
 # This MUST match the translation of "BRIEF_APP_DESC" in custom.properties
 browser-shortcut-description = Navicazzioni privata e lesta
-
-##
-
 urlbar-identity-button =
     .aria-label = Talìa nfurmazzioni dû situ
 
@@ -222,12 +219,6 @@ browser-import-button2 =
 
 popup-all-windows-shared = Tutti i finestri visìbbili sunnu pi cullabburazziuni.
 
-## WebRTC window or screen share tab switch warning
-
-
-## WebSerial "select a port" popup
-
-
 ## URL Bar
 
 # This string is used as an accessible name to the "X" button that cancels a custom search mode (i.e. exits the Amazon.com search mode).
@@ -292,18 +283,6 @@ urlbar-result-action-before-tabtosearch-web = Ammacca Tab pi riscèdiri cu { $en
 #  (e.g. Google).
 urlbar-result-action-tabtosearch-web = Riscedi cu { $engine } direttu dâ barra dû nnirizzu
 
-## "Last visited" and "bookmarked" explanation strings. For bookmarks and urlbar
-## results with last-visited dates like history and top sites, these strings
-## explain why the result is shown.
-
-
-## These strings are used for Realtime suggestions in the urlbar.
-## Market refers to stocks, indexes, and funds.
-
-
-## These strings are used for suggestions of important dates in the urlbar.
-
-
 ## Strings used for buttons in the urlbar
 
 # Label prompting user to search with a particular search engine.
@@ -324,12 +303,6 @@ urlbar-searchmode-popup-one-off-header = Sta vota riscedi cu:
 
 urlbar-result-action-search-bookmarks = Riscedi nnê nzingalibbra
 
-## Used in the menu of a urlbar result.
-
-
-## Labels shown above groups of urlbar results
-
-
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
@@ -338,11 +311,6 @@ reader-view-enter-button =
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
     .aria-label = Chiuji mudalità littura
-
-## Picture-in-Picture urlbar button
-## Variables:
-##   $shortcut (String) - Keyboard shortcut to execute the command.
-
 
 ## Full Screen and Pointer Lock UI
 
@@ -424,9 +392,6 @@ bookmarks-toolbar-placeholder-button =
 library-bookmarks-menu =
     .label = Nzingalibbra
 
-## Repair text encoding toolbar button
-
-
 ## Variables:
 ##  $shortcut (String): keyboard shortcut to perform the action
 
@@ -474,13 +439,6 @@ toolbar-button-paste =
     .label = Ncoḍḍa
     .tooltiptext = Ncoḍḍa ({ $shortcut })
 
-## Default filenames used when saving a QR code. The file extension (.png)
-## is added automatically.
-
-
-## EME notification panel
-
-
 ## Notification bars for media playback issues
 
 eme-notifications-drm-content-disabled-button =
@@ -498,17 +456,10 @@ plugin-crashed-notification-submit-button =
     .label = Manna na signalijazzioni di bloccu
     .accesskey = M
 
-## Password save/update panel
-
-
 ##
 
 ui-tour-info-panel-close =
     .tooltiptext = Chiuji
-
-## Variables:
-##  $uriHost (String): URI host for which the popup was allowed or blocked.
-
 
 ##
 
@@ -516,14 +467,7 @@ picture-in-picture-hide-toggle =
     .label = Ammuccia buttuni dâ mmàggini-nnâ-mmàggini
     .accesskey = A
 
-## Since the default position for PiP controls does not change for RTL layout,
-## right-to-left languages should use "Left" and "Right" as in the English strings,
-
-
 ##
-
-
-# Navigator Toolbox
 
 # This string is a spoken label that should not include
 # the word "toolbar" or such, because screen readers already know that
@@ -555,25 +499,6 @@ tabs-toolbar-new-tab =
 tabs-toolbar-list-all-tabs =
     .label = Lista di tutti i schedi
     .tooltiptext = Lista di tutti i schedi
-
-## Drop indicator text for pinned tabs when no tabs are pinned.
-
-
-## Infobar shown at startup to suggest session-restore
-
-
-## Infobar shown when the user tries to open a file picker and file pickers are blocked by enterprise policy
-
-
-## Address bar result shown when someone who used the Extensions and Themes
-## keyboard shortcut presses that shortcut after it moved to Search Tabs.
-## Variables:
-##   $searchTabsShortcut (String) - The Search Tabs keyboard shortcut, e.g. "Ctrl+Shift+A".
-##   $addonsShortcut (String) - The Extensions and Themes keyboard shortcut, e.g. "Ctrl+Shift+F".
-
-
-## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
-
 
 ## Unified extensions (toolbar) button
 
@@ -608,22 +533,12 @@ unified-extensions-button-blocklisted =
         Stinneri
         Certi stinneri sunnu sdisabbilitati
 
-## Private browsing reset button
-
-
-## Fire button. Clears the whole browsing session, then closes every window and
-## opens a new one.
-
-
 ## Autorefresh blocker
 
 refresh-blocked-redirect-label = { -brand-short-name } bluccau sta pàggina di purtàriti ’n autumàticu a n’autra pàggina.
 refresh-blocked-allow =
     .label = Pirmetti
     .accesskey = P
-
-## Firefox Relay integration
-
 
 ## Add-on Pop-up Notifications
 
@@ -649,16 +564,6 @@ popup-warning-button =
 popup-show-popup-menuitem =
     .label = Mustra “{ $popupURI }”
 
-## File-picker crash notification ("FilePickerCrashed.sys.mjs")
-
-
-# Button used with file-picker-crashed-save-default. Opens the folder in Windows
-# Explorer, with the saved file selected and in focus.
-#
-# The wording here should be consistent with the Windows variant of
-# `downloads-cmd-show-menuitem-2` and similar messages.
-
-
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Unu o cchiù assai dî juncitini nzitati nun pòttiru èssiri virificati e foru disabbilitati.
@@ -670,19 +575,3 @@ unsigned-addons-disabled-learn-more =
 
 process-hang-addon-learn-more =
     .value = Cchiù nfurmazzioni
-
-## Onboarding Finish Setup checklist
-
-
-## The urlbar trust icon & panel
-
-
-## The urlbar trust icon & panel
-
-
-## Variables
-##  $count (String): the number of trackers blocked.
-
-
-## Reduced Protection Infobar ("ReducedProtectionNotification.sys.mjs")
-

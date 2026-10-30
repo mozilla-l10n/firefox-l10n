@@ -188,9 +188,6 @@ downloads-history =
 downloads-details =
     .title = डाउनलेाडको विवरणहरू
 
-## These strings are displayed in the private browsing view of the downloads panel
-
-
 ## Displayed when a site attempts to automatically download many files.
 ## Variables:
 ##   $num (number) - Number of blocked downloads.
@@ -259,12 +256,6 @@ downloads-state-blocked-parental-controls = अभिभावकीय नि�
 downloads-blocked-malware = यो फाइलमा भाइरस वा मालवेयर समावेश छ।
 downloads-blocked-potentially-unwanted = यो फाइलले तपाईँको कम्प्युटरलाई हानि गर्न सक्छ।
 downloads-blocked-uncommon = यो फाइल सामान्यतया डाउन्लोड गरिन्न।
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

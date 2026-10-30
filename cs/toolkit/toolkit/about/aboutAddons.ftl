@@ -193,10 +193,6 @@ addon-updates-check-for-updates = Zkontrolovat aktualizace
     .accesskey = k
 addon-updates-view-updates = Zobrazit nedávno aktualizované doplňky
     .accesskey = Z
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Automaticky aktualizovat doplňky
     .accesskey = A
 

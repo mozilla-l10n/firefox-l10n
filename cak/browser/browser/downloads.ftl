@@ -267,12 +267,6 @@ downloads-blocked-potentially-unwanted = Re yakb'äl re' tikirel nutz'ila' ri ak
 downloads-blocked-potentially-insecure = Man xqasäx ta ri yakb'äl: Nïm ruk'ayewal jikomal.
 downloads-blocked-uncommon = Re yakb'äl re' man junelïk ta niqasäx.
 
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
-
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
 ## Panel. The severity of the threat is expressed in descending order by the

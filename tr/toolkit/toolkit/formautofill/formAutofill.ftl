@@ -86,8 +86,6 @@ credit-card-security-code-name-other = Güvenlik kodu
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
-## "•••" stands for the hidden security code; keep it as is rather than
-## translating it into words.
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
@@ -100,10 +98,6 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
-credit-card-update-payment-method-doorhanger-header = Ödeme yöntemi güncellensin mi?
-credit-card-capture-save-new-payment-method-button =
-    .label = Yeni ödeme yöntemini kaydet
-    .accessKey = Y
 credit-card-capture-update-payment-method-button =
     .label = Güncelle
     .accessKey = G
@@ -112,8 +106,6 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = Güvenlik kodu kaydedilsin mi?
-# “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = Ödeme işlemlerinizi hızlandırmak için { -brand-short-name } bu kartın güvenlik kodunu şifreleyerek kaydedecektir.
 
 ## The toggle turns saving security codes on and off. Its label describes the
 ## current state: whether security codes are saved or not.

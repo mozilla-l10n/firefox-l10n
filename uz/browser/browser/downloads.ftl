@@ -31,12 +31,6 @@ downloads-file-moved-or-missing = Fayl yo‘q yoki ko‘chirilgan
 downloads-size-with-units = { $size } { $unit }
 downloads-size-unknown = Noma`lum hajmda
 
-## Displayed in the downloads context menu for files that can be opened.
-## Variables:
-##   $handler (String) - The name of the mime type's default file handler.
-##   Example: "Notepad", "Acrobat Reader DC", "7-Zip File Manager"
-
-
 ##
 
 downloads-cmd-retry =
@@ -90,15 +84,6 @@ downloads-show-more-information =
 downloads-open-file =
     .value = Faylni ochish
 
-## Displayed when the user clicked on a download in process. Indicates that the
-## downloading file will be opened after certain amount of time using an app
-## available in the system.
-## Variables:
-##   $hours (number) - Amount of hours left till the file opens.
-##   $seconds (number) - Amount of seconds left till the file opens.
-##   $minutes (number) - Amount of minutes till the file opens.
-
-
 ##
 
 # Displayed when hovering a download which is able to be retried by users,
@@ -119,15 +104,6 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Yuklanma haqida maʼlumot
-
-## These strings are displayed in the private browsing view of the downloads panel
-
-
-## Displayed when a site attempts to automatically download many files.
-## Variables:
-##   $num (number) - Number of blocked downloads.
-##   $url (string) - The url of the suspicious site, stripped of http, https and www prefix.
-
 
 ##
 
@@ -170,12 +146,6 @@ downloads-state-blocked-parental-controls = Asosiy boshqaruvlar tomonidan blokla
 downloads-blocked-malware = Ushbu faylda virus yoki zararli dastur bor.
 downloads-blocked-potentially-unwanted = Ushbu fayl kompyuteringizni zararlashi mumkin.
 downloads-blocked-uncommon = Bu fayl to‘liq yuklab olinmagan.
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads

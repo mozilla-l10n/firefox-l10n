@@ -173,10 +173,6 @@ addon-updates-check-for-updates = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰ�
     .accesskey = C
 addon-updates-view-updates = ਤਾਜ਼ਾ ਅੱਪਡੇਟ ਵੇਖੋ
     .accesskey = V
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = ਐਡ-ਆਨ ਆਟੋਮੈਟਿਕ ਹੀ ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = A
 

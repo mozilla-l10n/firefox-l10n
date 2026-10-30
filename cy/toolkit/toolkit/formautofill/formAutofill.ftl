@@ -89,8 +89,6 @@ credit-card-security-code-name-other = Cod diogelwch
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
-## "•••" stands for the hidden security code; keep it as is rather than
-## translating it into words.
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
@@ -103,10 +101,6 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
-credit-card-update-payment-method-doorhanger-header = Diweddaru'r dull talu?
-credit-card-capture-save-new-payment-method-button =
-    .label = Cadw'r dull talu newydd
-    .accessKey = C
 credit-card-capture-update-payment-method-button =
     .label = Diweddaru
     .accessKey = D
@@ -115,18 +109,14 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = Cadw'r cod diogelwch?
-# “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = Bydd { -brand-short-name } yn amgryptio ac yn cadw cod diogelwch y cerdyn hwn fel bod y ddesg dalu yn gyflymach.
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = Cadw'r dull talu hwn?
-# Used when the security code won't be saved, because saving security codes
-# is turned off or the form didn't include one.
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
 # “Checkout” refers to the payment stage on websites.
 credit-card-save-payment-method-doorhanger-description = Mae { -brand-short-name } yn amgryptio ac yn llenwi'ch manylion talu yn awtomatig er mwyn talu'n gyflymach.
-# Used when the security code will be saved along with the card.
-credit-card-save-payment-method-doorhanger-description-security-code = Bydd { -brand-short-name } yn amgryptio rhif eich cerdyn a'ch cod diogelwch ac yn eu llenwi ar eich cyfer y tro nesaf.
 credit-card-capture-dismiss-button =
     .label = Cau
     .accessKey = C

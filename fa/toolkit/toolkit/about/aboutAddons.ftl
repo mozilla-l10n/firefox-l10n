@@ -176,10 +176,6 @@ addon-updates-check-for-updates = بررسی برای بروزرسانی‌ها
     .accesskey = ب
 addon-updates-view-updates = مشاهده بروزرسانی‌های اخیر
     .accesskey = م
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = بروزرسانی خودکار همهٔ افزودنی‌ها
     .accesskey = ب
 

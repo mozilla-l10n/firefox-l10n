@@ -89,8 +89,6 @@ credit-card-security-code-name-other = 安全碼
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
-## "•••" stands for the hidden security code; keep it as is rather than
-## translating it into words.
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
@@ -103,10 +101,6 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
-credit-card-update-payment-method-doorhanger-header = 要更新付款方式嗎？
-credit-card-capture-save-new-payment-method-button =
-    .label = 儲存新的付款方式
-    .accessKey = S
 credit-card-capture-update-payment-method-button =
     .label = 更新
     .accessKey = U
@@ -115,18 +109,14 @@ credit-card-capture-update-payment-method-button =
 ## security code.
 
 credit-card-save-security-code-doorhanger-header = 要儲存安全碼嗎？
-# “Checkout” refers to the payment stage on websites.
-credit-card-save-security-code-doorhanger-description = { -brand-short-name } 會加密並儲存這張卡片的安全碼，讓您更快完成結帳。
 
 ## Used on the doorhanger when users submit a new card and security codes can be saved.
 
 credit-card-save-payment-method-doorhanger-header = 要儲存這筆付款方式嗎？
-# Used when the security code won't be saved, because saving security codes
-# is turned off or the form didn't include one.
+# Also used on the doorhanger when a saved card is submitted with a new or
+# changed security code.
 # “Checkout” refers to the payment stage on websites.
 credit-card-save-payment-method-doorhanger-description = { -brand-short-name } 會加密並自動填寫您的付款資訊，讓您更快完成結帳。
-# Used when the security code will be saved along with the card.
-credit-card-save-payment-method-doorhanger-description-security-code = { -brand-short-name } 會加密您的卡號、安全碼，下次即可為您自動填寫。
 credit-card-capture-dismiss-button =
     .label = 知道了！
     .accessKey = D

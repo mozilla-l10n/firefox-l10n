@@ -171,10 +171,6 @@ addon-updates-check-for-updates = Жаңартуларды тексеру
     .accesskey = к
 addon-updates-view-updates = Соңғы жаңартуларды қарау
     .accesskey = о
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Кеңейтулерді автожаңарту
     .accesskey = е
 

@@ -80,8 +80,6 @@ credit-card-security-code-name-other = Sikkerheitskode
 ##   $year (String): Two-digit year the card expires
 ##   $securityCode (String): The name of the card's security code, from one of
 ##     the credit-card-security-code-name-* strings (for example "CVV")
-## "•••" stands for the hidden security code; keep it as is rather than
-## translating it into words.
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
@@ -94,10 +92,6 @@ credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | 
 ## Used on the doorhanger when a saved card is submitted with changed details
 ## and security codes can be saved.
 
-credit-card-update-payment-method-doorhanger-header = Oppdatere betalingsmåte?
-credit-card-capture-save-new-payment-method-button =
-    .label = Lagre ny betalingsmåte
-    .accessKey = L
 credit-card-capture-update-payment-method-button =
     .label = Oppdater
     .accessKey = O

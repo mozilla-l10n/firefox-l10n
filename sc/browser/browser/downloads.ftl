@@ -273,12 +273,6 @@ downloads-blocked-potentially-unwanted = Custu archìviu podet fàghere dannu a 
 downloads-blocked-potentially-insecure = Archìviu no iscarrigadu: arriscu potentziale de seguresa.
 downloads-blocked-uncommon = Custu archìviu no ddu iscàrrigant a fitianu.
 
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
-
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
 ## Panel. The severity of the threat is expressed in descending order by the

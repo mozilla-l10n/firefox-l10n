@@ -167,10 +167,6 @@ addon-updates-check-for-updates = Ստուգել թարմացումները
     .accesskey = Ս
 addon-updates-view-updates = Տեսնել Վերջին Թարմացումները
     .accesskey = Տ
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Թարմացնել հավելումները ինքնաբերաբար
     .accesskey = Թ
 
@@ -455,13 +451,6 @@ addon-category-mlmodel-title =
     .title = Սարքի վրա գործող ԱԲ
 mlmodel-heading = Կառավարեք սարքի վրա գործող արհեստական բանականության մոդելները
 
-## Promo footer shown in the about:addons recommendations view when
-## Project Nova styles are enabled.
-## The heading refers to the user choosing a Firefox theme or extension to
-## install. In the message, "tools" refers to Firefox extensions and
-## "styles" refers to Firefox themes.
-
-
 ## Promo footer shown in the about:addons extensions list view when
 ## Project Nova styles are enabled.
 ## In the message, "tools" refers to Firefox extensions.
@@ -469,19 +458,3 @@ mlmodel-heading = Կառավարեք սարքի վրա գործող արհեստ
 find-more-extensions-promo =
     .heading = Գտեք ձեր հաջորդ սիրելի ընդլայնումը
     .message = Անհատականացրեք { -brand-product-name }-ը կենտրոնացման, գաղտնիության, գնումների և այլնի գործիքներով։
-
-## Promo footer shown in the about:addons themes list view when
-## Project Nova styles are enabled.
-## "Find more fresh looks" refers to the user looking for more Firefox themes.
-
-
-## Promo shown in about:addons extensions list view when no extension is yet installed
-## and Project Nova is enabled.
-
-
-## Themes Mode segmented control shown at the top of the about:addons themes list view
-## when Project Nova is enabled.
-
-
-## Enable/disable/install buttons on each theme card inside the theme picker.
-

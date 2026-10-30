@@ -176,10 +176,6 @@ addon-updates-check-for-updates = Kontrolearje op fernijingen
     .accesskey = K
 addon-updates-view-updates = Resinte fernijingen toane
     .accesskey = T
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Add-ons automatysk fernije
     .accesskey = a
 

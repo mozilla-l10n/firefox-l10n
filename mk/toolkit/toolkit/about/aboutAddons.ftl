@@ -173,10 +173,6 @@ addon-updates-check-for-updates = Провери за надградби
     .accesskey = П
 addon-updates-view-updates = Прегледај неодамнешни надградби
     .accesskey = н
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = Автоматски надградувај ги додатоците
     .accesskey = А
 

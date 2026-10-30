@@ -176,10 +176,6 @@ addon-updates-check-for-updates = განახლებების შემ
     .accesskey = შ
 addon-updates-view-updates = ბოლო განახლებების ნახვა
     .accesskey = ბ
-
-# This menu item is a checkbox that toggles the default global behavior for
-# add-on update checking.
-
 addon-updates-update-addons-automatically = დამატებების თვითგანახლება
     .accesskey = ვ
 

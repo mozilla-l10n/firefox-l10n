@@ -259,16 +259,6 @@ downloads-state-paused = واڌاشتن
 downloads-state-canceled = لقو وابیڌه
 downloads-state-completed = ٱنجوم وابی
 
-## These strings are shown in the status line and in the details sub-panel
-## for some types of blocked downloads.
-
-
-## Displayed when a download is blocked because of an error with the
-## data-loss prevention (DLP) software used by the organization.
-## Variables:
-##   $agent (String) - The name of the DLP agent.
-
-
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
 ## Panel. The severity of the threat is expressed in descending order by the
