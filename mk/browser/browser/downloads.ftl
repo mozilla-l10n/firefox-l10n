@@ -28,6 +28,8 @@ downloads-cmd-cancel =
     .tooltiptext = Откажи
 downloads-cmd-cancel-panel =
     .aria-label = Откажи
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Датотеката е преместена или недостасува
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -166,6 +168,9 @@ downloads-state-blocked-parental-controls = Блокирано од Parental Con
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Оваа датотека содржи вирус или малициозен софтвер.
+downloads-blocked-potentially-unwanted = Оваа датотека може да му наштети на вашиот компјутер.
+downloads-blocked-uncommon = Оваа датотека не е вообичаено преземана.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
