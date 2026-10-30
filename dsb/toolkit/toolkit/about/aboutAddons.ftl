@@ -448,6 +448,8 @@ addon-permissions-learnmore = Dalšne informacije wó pšawach
 # the user.
 addon-permissions-managed-by-policy = Někotare pšawa se wót wašeje organizacije zastoje.
 recommended-extensions-heading = Dopórucone rozšyrjenja
+recommended-themes-card-heading =
+    .heading = Dopórucone drastwy
 recommended-themes-heading = Dopórucone drastwy
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
