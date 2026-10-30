@@ -238,6 +238,9 @@ menu-history-undo-window-menu =
 # "Search" is a verb, as in "Search in History"
 menu-history-search =
     .label = Որոնման պատմություն
+# "Search" is a verb, as in "Search in Tabs"
+menu-history-search-tabs =
+    .label = Որոնման ներդիրներ
 
 ## Bookmarks Menu
 
@@ -263,6 +266,10 @@ menu-bookmarks-other =
     .label = Այլ Էջանիշեր
 menu-bookmarks-mobile =
     .label = Բջջային էջանիշեր
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Ցուցադրել ավելին կողային վահանակում
 
 ## Profiles Menu
 

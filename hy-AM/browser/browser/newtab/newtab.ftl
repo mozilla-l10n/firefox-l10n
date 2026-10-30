@@ -304,6 +304,11 @@ newtab-privacy-message-first-protection-cta = Դիտել պաշտպանությ�
 newtab-stocks-menu-learn-more = Իմանալ ավելին
 # Shown in the Finance widget when its data could not be loaded.
 newtab-stocks-error-not-available = Բաժնետոմսերի տվյալները հասանելի չեն։
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-stocks-widget-open-menu-button2 =
+    .aria-label = Բացել ֆինանսների ցանկը
+    .title = Բացել ֆինանսների ցանկը
 # Toolbar button that opens the stock search. It shows only the icon until it is
 # hovered or focused, then the .label as well; "Search" is a verb. .title and
 # .aria-label name it for tooltips and screen readers.
@@ -447,6 +452,10 @@ newtab-picture-set-wallpaper =
     .title = Կայել պաստառ
 # Context menu item that opens the New Tab customization panel.
 newtab-picture-menu-manage-wallpaper = Կառավարել պաստառը
+# Context menu item that hides the picture shown in the widget.
+newtab-picture-menu-hide-photo2 = Թաքցնել այս նկարը
+# Context menu item that restores the picture after it has been hidden.
+newtab-picture-menu-show-photo2 = Ցուցադրել նկարը
 # Context menu item that hides today’s picture, replacing it with an existing
 # wallpaper.
 newtab-picture-menu-hide-photo = Թաքցնել այսօրվա նկարը
@@ -454,6 +463,10 @@ newtab-picture-menu-hide-photo = Թաքցնել այսօրվա նկարը
 newtab-picture-menu-show-photo = Ցուցադրել այսօրվա նկարը
 # Context menu item linking to more information about the widget.
 newtab-picture-menu-learn-more = Իմանալ ավելին
+# Icon button shown on the widget once the picture is hidden; restores it.
+newtab-picture-show-button2 =
+    .aria-label = Ցուցադրել նկարը
+    .title = Ցուցադրել նկարը
 # Icon button shown on the widget once the picture is hidden; restores it.
 newtab-picture-show-button =
     .aria-label = Ցուցադրել այսօրվա նկարը
@@ -502,16 +515,39 @@ newtab-recent-searches-empty-trending = Թրենդային որոնումներ�
 
 # Widget heading; also the widget's accessible name.
 newtab-horoscopes-widget-title = Հորոսկոպներ
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-horoscopes-widget-open-menu-button =
+    .aria-label = Բացել հորոսկոպների ցանկը
+    .title = Բացել հորոսկոպների ցանկը
 # Screen reader label for the widget's icon-only menu button.
 newtab-horoscopes-widget-menu-button =
     .aria-label = Հորոսկոպի տարբերակներ
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Իմանալ ավելին
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Yahoo-ի կողմից մշակված
 
 ## Strings for the Travel widget
 
+# Widget heading; also the widget's accessible name. Travel (noun) is a
+# widget on New Tab for searching hotels, flights and car rentals.
+newtab-travel-widget-title = Ճամփորդություն
+# Tooltip and screen reader label for the icon-only button that opens the
+# widget's menu.
+newtab-travel-widget-open-menu-button =
+    .aria-label = Բացել ճանապարհորդության ցանկը
+    .title = Բացել ճանապարհորդության ցանկը
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Իմանալ ավելին
+
+## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
+## can play solitaire, a card game for one player, also known as patience.
+## Game displays within an iframe with name “Yahoo Solitaire”
+
+# Widget heading; also the widget's accessible name.
+newtab-solitaire-widget-title = Solitaire
 
 ## Strings for the navigable panels that new tab content area can be
 ## split into.

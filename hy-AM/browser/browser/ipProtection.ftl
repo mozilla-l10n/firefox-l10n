@@ -112,6 +112,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = Բաց թո
 
 ipprotection-holiday-promo-primary-button = Բացել VPN-ը
 ipprotection-holiday-promo-secondary-button = Բաց թողնել
+ipprotection-holiday-promo-title-1 = Ստացեք անսահմանափակ VPN մինչև հունվարի 31-ը
 
 ## Panel
 
@@ -237,6 +238,7 @@ ipprotection-message-continuous-onboarding-intro = Միացրեք VPN-ը՝ ձե�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">Սահմանեք VPN-ը միացված</a> ամեն անգամ, երբ բացում եք { -brand-short-name }-ը՝ պաշտպանության լրացուցիչ շերտ ստեղծելու համար։
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name }-ը կհիշի, թե որ կայքերն եք դուք կարգավորել VPN օգտագործելու համար: Թարմացրեք դրանք <a data-l10n-name="setting-link">կարգավորումներում</a> ցանկացած պահի:
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN-ն անջատված է այս կայքի համար
+confirmation-hint-ipprotection-navigated-to-included-site = VPN-ը անջատված է այս կայքի համար
 ipprotection-open-button = Բացել { -brand-product-name }-ը
 ipprotection-come-back-title = Վերադարձեք՝ ներկառուցված VPN-ը փորձելու համար
 ipprotection-message-body-hide-location = Թաքցրեք ձեր գտնվելու վայրը { -brand-product-name }-ում դիտարկելիս՝ ավելի շատ գաղտնիության և վերահսկողության համար։
@@ -341,6 +343,14 @@ ip-protection-site-rule-window =
     .title = Սահմանել կանոններ
 ip-protection-edit-site-rule-window =
     .title = Խմբագրել կանոնը
+ip-protection-site-rule-dialog =
+    .buttonlabelaccept = Կայել
+    .buttonaccesskeyaccept = S
+ip-protection-edit-site-rule-dialog =
+    .buttonlabelaccept = Պահպանել
+    .buttonaccesskeyaccept = S
+# VPN status refers to a state of 'always on' or 'always off' applied to a site
+ip-protection-site-rule-intro = Մուտքագրեք կայքը, այնուհետև ընտրեք դրա VPN կարգավիճակը։
 # "ex:" is short for "example".
 ip-protection-site-rule-website-field =
     .label = Կայք
@@ -362,6 +372,19 @@ ip-protection-site-rule-save-error =
 # Variables:
 #   $website (string) - The website the rule applies to, e.g. https://example.com
 ip-protection-delete-site-rule-message = Ջնջե՞լ { $website }-ի կանոնը։
+ip-protection-delete-site-rule-cancel =
+    .label = Չեղարկել
+ip-protection-delete-site-rule-confirm =
+    .label = Ջնջել
+ip-protection-delete-all-site-rules-message = Ջնջե՞լ կայքի բոլոր կանոնները։
+ip-protection-delete-all-site-rules-confirm =
+    .label = Ջնջել բոլոր կանոնները
+# Shown in place of the delete confirmation when deleting a rule fails.
+ip-protection-delete-site-rule-error = Չհաջողվեց ջնջել կանոնը
+# Shown in place of the delete confirmation when deleting all rules fails.
+ip-protection-delete-all-site-rules-error = Չհաջողվեց ջնջել կանոնը
+ip-protection-delete-site-rule-retry =
+    .label = Կրկին փորձել
 
 ## IP Protection Bandwidth
 

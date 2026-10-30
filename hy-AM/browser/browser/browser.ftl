@@ -36,6 +36,28 @@ urlbar-identity-button2 =
             [one] Դիտել կայքի տեղեկատվությունը ({ $count } հետագծողներ արգելափակված են)
            *[other] Դիտել կայքի տեղեկատվությունը ({ $count } հետագծողներ արգելափակված են)
         }
+# Caption shown in the native macOS share picker for the items being shared.
+# Variables:
+#   $count (Number) - The number of links being shared.
+menu-share-links =
+    .label =
+        { $count ->
+            [one] { $count } հղում
+           *[other] { $count } հղումներ
+        }
+# macOS-only item that opens the system share picker, used when a single link
+# is shared. "AirDrop" and "Messages" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-single =
+    .label = AirDrop, հաղորդագրություններ և այլն…
+    .accesskey = A
+# macOS-only item that opens the system share picker, used when more than one
+# link is shared. AirDrop is not mentioned here because it can only share a
+# single URL. "Messages" and "Mail" are names of macOS apps, so they should
+# match the macOS translation of those names where possible.
+menu-share-mac-picker-multiple =
+    .label = Հաղորդագրություններ, փոստ և այլն…
+    .accesskey = Հ
 # Share entry in the addressbar context menu. Opens the macOS share picker
 # directly, hence the ellipsis.
 urlbar-share-url =
@@ -1234,6 +1256,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Notification bars for media playback issues
 
+eme-notifications-drm-content-disabled-message = Այս էջում աուդիո կամ տեսանյութ նվագարկելու համար դուք պետք է միացնեք DRM-ը։
 eme-notifications-drm-content-disabled-button =
     .label = Միացնել DRM
     .accesskey = E
@@ -1367,6 +1390,8 @@ filepicker-blocked-infobar = Ձեր կազմակերպությունն արգե�
 
 urlbar-addons-shortcut-moved-title = { $searchTabsShortcut }-ը այժմ որոնում է ներդիրները
 urlbar-addons-shortcut-moved-description = Ընդլայնումները և թեմաները բացելու համար օգտագործեք { $addonsShortcut }-ը։
+urlbar-addons-shortcut-moved-change-shortcuts = Կառավարել կարճուղիները
+urlbar-addons-shortcut-moved-dismiss = Հասկացա՛։
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
@@ -1392,6 +1417,7 @@ private-browsing-info-panel-description = Սա օգնում է թաքցնել ձ
 #   $agentName (String): The name of the DLP agent that is connected
 content-analysis-indicator-tooltip =
     .tooltiptext = Տվյալների կորստի կանխարգելում (DLP) { $agentName }-ի կողմից: Սեղմեք՝ լրացուցիչ տեղեկությունների համար:
+content-analysis-panel-title2 = Տվյալների կորստի կանխարգելում
 content-analysis-panel-title = Տվյալների պաշտպանություն
 # Variables:
 #   $agentName (String): The name of the DLP agent that is connected
@@ -1445,6 +1471,24 @@ reset-pbm-panel-complete = Գաղտնի աշխատաշրջանի տվյալնե�
 reset-pbm-toolbar-button2 =
     .label = Մաքրել անձնական նիստը
     .tooltiptext = Մաքրել անձնական նիստը
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Ընտրել…
+fire-button-panel-cancel-button =
+    .label = Չեղարկել
+    .accesskey = Չ
+fire-button-panel-confirm-button =
+    .label = Ջնջել բոլորը
+    .accesskey = Ջ
+fire-button-panel-complete = Դիտարկման տվյալները ջնջվել են
+fire-button-toolbar-button2 =
+    .label = Ջնջել որոշ կամ բոլոր տվյալները
+    .tooltiptext = Ջնջել ձեր դիտարկման տվյալների մի մասը կամ ամբողջը
 
 ## Autorefresh blocker
 

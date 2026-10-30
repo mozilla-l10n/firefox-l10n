@@ -176,6 +176,7 @@ migration-wizard-progress-icon-in-progress =
 migration-wizard-progress-icon-completed =
     .aria-label = Ավարտված է
 migration-safari-password-import-header = Ներմուծեք գաղտնաբառեր Safari-ից
+migration-safari-password-import-post-sequoia-step2 = Էկրանի վերևի մասում գտնվող ընտրացանկի վահանակից ընտրեք Ֆայլ > Արտահանել բոլոր գաղտնաբառերը ֆայլ…
 migration-safari-password-import-post-sequoia-step3 = Պահպանել ֆայլը
 migration-safari-password-import-post-sequoia-step4 = Ընտրեք պահպանված ֆայլը
 migration-safari-password-import-steps-header = Safari-ի գաղտնաբառերը ներմուծելու համար՝

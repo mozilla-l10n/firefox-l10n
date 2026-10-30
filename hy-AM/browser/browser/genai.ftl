@@ -54,6 +54,9 @@ genai-menu-remove-provider =
     .label = Հեռացնել { $provider }-ը
 genai-menu-remove-sidebar =
     .label = Հեռացնել կողային վահանակից
+genai-shortcut-button-3 =
+    .aria-label = Հարցրեք այս տեքստի մասին
+    .tooltiptext = Հարցրեք այս տեքստի մասին
 # $engine (string) - name of the search engine
 # $selection (string) - the selected text, truncated
 genai-shortcut-search-button =
@@ -62,9 +65,28 @@ genai-shortcut-search-button =
 genai-shortcut-copy-button =
     .aria-label = Պատճենել ընտրված տեքստը
     .tooltiptext = Պատճենել ընտրված տեքստը
+# Shown briefly after clicking the Copy action in the text selection menu,
+# confirming the selection was copied to the clipboard.
+genai-shortcut-copy-confirmation = Պատճենված
 genai-shortcut-more-actions-button =
     .aria-label = Լրացուցիչ ընտրանքներ
     .tooltiptext = Լրացուցիչ ընտրանքներ
+genai-more-actions-panel =
+    .aria-label = Ընտրեք, թե որ գործողությունները ցուցադրել
+# $provider (string) - name of the chatbot provider
+genai-more-actions-ai-provider =
+    .label = Հարցրեք { $provider }-ին
+genai-more-actions-ai-generic =
+    .label = Հարցրեք արհեստական բանականությանը
+genai-more-actions-search =
+    .label = Որոնում
+genai-more-actions-copy =
+    .label = Պատճենել
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Տեքստ ընտրելիս այս ընտրացանկը չեք տեսնի։ Այն կրկին ցուցադրելու համար այցելեք Կարգավորումներ <span data-l10n-name="chevron"></span> Ներդիրներ և դիտում։
+genai-more-actions-manage-settings =
+    .label = Կառավարել կարգավորումները
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = Հարցրեք { $provider }-ին
@@ -77,6 +99,25 @@ genai-input-ask-generic =
 # $provider (string) - name of the provider
 genai-input-ask-provider =
     .placeholder = Հարցրեք { $provider }-ին…
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning-generic =
+    .heading = Արհեստական բանականությամբ չաթբոտը չի ստանա ձեր ամբողջական ընտրությունը
+    .message =
+        { $selectionLength ->
+            [one] Դուք ընտրել եք մոտ { $selectionLength } նիշ։ Արհեստական բանականության չաթբոտին կարող ենք ուղարկել մոտ { $maxLength } նիշ։
+           *[other] Դուք ընտրել եք մոտ { $selectionLength } նիշ։ Արհեստական բանականության չաթբոտին կարող ենք ուղարկել մոտ { $maxLength } նիշ։
+        }
+# $provider (string) - name of the provider
+# $selectionLength (number) - selected text length
+# $maxLength (number) - max length of what can be selected
+genai-shortcuts-selected-warning =
+    .heading = { $provider }-ը չի ստանա ձեր ամբողջական ընտրանի
+    .message =
+        { $selectionLength ->
+            [one] Դուք ընտրել եք մոտ { $selectionLength } նիշ։ { $provider }-ին կարող ենք ուղարկել մոտ { $maxLength } նիշ։
+           *[other] Դուք ընտրել եք մոտ { $selectionLength } նիշ։ { $provider }-ին կարող ենք ուղարկել մոտ { $maxLength } նիշ։
+        }
 genai-shortcuts-hide =
     .label = Թաքցնել չաթբոտի դյուրանցումը
 genai-menu-choose-chatbot =
@@ -118,6 +159,11 @@ genai-options-hide-shortcut =
 genai-options-about-chatbot =
     .label = ԱԲ չաթբոտերի մասին { -brand-short-name }-ում
 
+## Chatbot message
+
+genai-page-warning =
+    .message = Քանի որ էջը երկար է, սա մասնակի ամփոփում է։
+
 ## Chatbot footer
 
 genai-page-button-summarize = Ամփոփել էջը
@@ -141,6 +187,8 @@ genai-onboarding-huggingchat-tooltip =
     .title = HuggingChat
 genai-onboarding-lechat-tooltip-2 =
     .title = Միստրալ Վայբ
+genai-onboarding-scout-tooltip =
+    .title = Yahoo Scout
 genai-onboarding-lechat-tooltip =
     .title = Le Chat Mistral
 genai-chatbot-contextual-title = Օգտագործեք արհեստական բանականության չաթբոտ՝ առանց ներդիրները փոխելու
@@ -162,6 +210,18 @@ genai-model-optin-cancel =
 
 ## Link previews
 
+# ‘min’ is short for “minute”
+# ‘mins’ is short for “minutes”
+# An estimate for how long it takes to read an article,
+# expressed as a range covering both slow and fast readers.
+# Variables:
+#   $rangePlural (String): The plural category of the range, using the same set as for numbers.
+#   $range (String): The range of minutes as a localised string. Examples: "3-7", "~1".
+link-preview-reading-time =
+    { $rangePlural ->
+        [one] { $range } րոպե ընթերցման ժամանակ
+       *[other] { $range } րոպե ընթերցանության ժամանակ
+    }
 # Error message displayed when a link preview cannot be generated
 link-preview-error-message-v2 = { -brand-short-name }-ը չկարողացավ նախադիտել այս հղումը
 # Text for the link to visit the original URL when in error state
