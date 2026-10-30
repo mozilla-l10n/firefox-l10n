@@ -37,6 +37,11 @@ downloads-cmd-show-menuitem-2 =
     .accesskey = F
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = फाइल सारियो वा हराएको छ
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = अज्ञात आकार
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -238,6 +243,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = सुरु हुँदै...
+downloads-state-failed = असफल भयो
+downloads-state-paused = रोकिएको
+downloads-state-canceled = रद्द गरियो
 downloads-state-completed = पूरा भयो
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -263,6 +272,18 @@ downloads-blocked-uncommon = यो फाइल सामान्यतया 
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = तपाईँ यो डाउनलोड गर्न निश्चित हुनुहुन्छ?
+downloads-unblock-header-open = तपाईँ यस फाइल खोल्न निश्चित हुनुहुन्छ?
+downloads-unblock-type-malware = यो फाइलमा भाइरस वा अन्य मालवेयर समावेश छन् जसले तपाईँको कम्प्युटरलाई हानि गर्न सक्छ।
+downloads-unblock-type-potentially-unwanted = यो फाइल सहयोगी डाउनलोडका रूपमा देखाइएको छ, तर यो फाइलले तपाईँको प्रोग्राम र सेटिङ्हरूमा अनपेक्षित परिवर्तन ल्याउन सक्छ।
+downloads-unblock-type-uncommon = यो फाइल सामान्यतया डाउनलोड गरिएको छैन र सायद खोल्नु सुरक्षित नहुन सक्छ। यस्मा भाइरस समावेश गरिएको हुन सक्छ वा तपाईँको कार्यक्रम र सेटिङहरूमा अनपेक्षित परिवर्तन गर्न सक्छ।
+downloads-unblock-tip = तपाईँ अरू कुनै वैकल्पिक डाउनलोड स्रोत खोज्न सक्नुहुन्छ वा पछि पुनःप्रयास गर्नुहोस्।
+downloads-unblock-button-open =
+    .label = खोल्नुहोस्
+downloads-unblock-button-unblock =
+    .label = डाउनलोड गर्न अनुमति दिनुहोस
+downloads-unblock-button-confirm-block =
+    .label = फाइल हटाउनुहोस्
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -278,3 +299,5 @@ downloads-blocked-uncommon = यो फाइल सामान्यतया 
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
