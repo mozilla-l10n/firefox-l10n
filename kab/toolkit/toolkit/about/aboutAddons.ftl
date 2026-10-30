@@ -413,6 +413,8 @@ addon-permissions-required-label = Yettawsra:
 addon-permissions-optional-label = D axetṛan:
 addon-permissions-learnmore = Issin ugar ɣef tsirag
 recommended-extensions-heading = Isiɣzaf ihulen
+recommended-themes-card-heading =
+    .heading = Isental ihulen
 recommended-themes-heading = Isental ihulen
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
