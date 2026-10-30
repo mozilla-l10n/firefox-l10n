@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Se etter oppdateringer
     .accesskey = S
 addon-updates-view-updates = Vis nylig oppdaterte
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Oppdater utvidelser automatisk
     .accesskey = O
 
@@ -322,6 +326,8 @@ release-notes-addon-button = Versjonsnotat
 permissions-addon-button = Tillatelser
 extension-enabled-heading = Påslått
 extension-disabled-heading = Avslått
+theme-disabled-heading3 =
+    .heading = Lagrede tema
 theme-enabled-heading = Påslått
 theme-disabled-heading2 = Lagrede tema
 plugin-enabled-heading = Påslått
