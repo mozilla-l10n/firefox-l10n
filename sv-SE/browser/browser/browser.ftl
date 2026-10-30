@@ -1615,6 +1615,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Ett eller flera installerade tillägg inte kan verifieras och har inaktiverats.
+unsigned-addons-disabled-learn-more =
+    .label = Lär dig mer
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -1628,6 +1632,9 @@ process-hang-specific-tab-message = "{ $title }" slöar ner { -brand-short-name 
 process-hang-addon-message = "{ $addonName }" slöar ner { -brand-short-name }. För att snabba upp din webbläsare, stoppa tillägget.
 process-hang-addon-learn-more =
     .value = Läs mer
+process-hang-stop-button =
+    .label = Stoppa
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
