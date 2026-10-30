@@ -176,6 +176,10 @@ addon-updates-check-for-updates = Sprawdź dostępność aktualizacji
     .accesskey = S
 addon-updates-view-updates = Wyświetl ostatnie aktualizacje
     .accesskey = W
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Automatyczne aktualizacje dodatków
     .accesskey = A
 
@@ -317,6 +321,8 @@ release-notes-addon-button = Informacje o wydaniu
 permissions-addon-button = Uprawnienia
 extension-enabled-heading = Włączone
 extension-disabled-heading = Wyłączone
+theme-disabled-heading3 =
+    .heading = Zachowane motywy
 theme-enabled-heading = Włączone
 theme-disabled-heading2 = Zachowane motywy
 plugin-enabled-heading = Włączone
