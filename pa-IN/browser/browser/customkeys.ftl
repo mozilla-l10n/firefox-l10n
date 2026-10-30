@@ -17,6 +17,7 @@ customkeys-reset-all = ਸਾਰੇ ਸ਼ਾਰਟਕੱਟਾਂ ਨੂੰ ਮੂ
 customkeys-conflict-confirm = ਇਹ ਸਵਿੱਚ ਪਹਿਲਾਂ ਜਾਰੀ ਕੀਤੇ { $conflict } ਨਾਲ ਟਕਰਾ ਕਰਦੀ ਹੈ। ਕੀ ਤੁਸੀਂ ਇਸ ਨੂੰ ਬਦਲਣਾ ਚਾਹੁੰਦੇ ਹੋ?
 customkeys-reset-all-confirm = ਕੀ ਤੁਸੀਂ ਸਾਰੇ ਕੀਬੋਰਡ ਸ਼ਾਰਟਕੱਟ ਨੂੰ ਉਹਨਾਂ ਦੇ ਡਿਫਾਲਟ ਲਈ ਬਹਾਲ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?
 customkeys-file-duplicate-tab = ਡੁਪਲੀਕੇਟ ਟੈਬ
+customkeys-file-copy-tab-url = ਟੈਬ URL ਨੂੰ ਕਾਪੀ ਕਰੋ
 customkeys-file-focus-search = ਖੋਜ ਪੱਟੀ ਉੱਤੇ ਫੋਕਸ ਕਰੋ
 customkeys-history-reopen-tab = ਆਖਰੀ ਬੰਦ ਕੀਤੀ ਟੈਬ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
 customkeys-history-reopen-window = ਆਖਰੀ ਬੰਦ ਕੀਤੀ ਵਿੰਡੋ ਨੂੰ ਮੁੜ-ਖੋਲ੍ਹੋ
@@ -83,6 +84,16 @@ customkeys-key-new =
     .label = ਨਵੀਂ ਸਵਿੱਚ ਦੱਬੋ:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (ਬਦਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ਹੈ)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (macOS ਕੀਬੋਰਡ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਸੈੱਟ ਕਰੋ)
+       *[other] (ਆਪਣੇ ਸਿਸਟਮ ਦੀਆਂ ਕੀਬੋਰਡ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਸੈੱਟ ਕਰੋ)
+    }
 
 ## Confirmation dialogs
 

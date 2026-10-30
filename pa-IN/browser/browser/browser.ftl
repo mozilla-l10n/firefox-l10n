@@ -1463,6 +1463,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = ਡਾਟਾ ਮਿਟਾ ਕੇ ਨਵਾਂ ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਸ਼ੁਰੂ ਕਰਨਾ ਹੈ?
+reset-pbm-panel-description3 = ਇਹ ਤੁਹਾਡੇ ਅਤੀਤ ਅਤੇ ਕੂਕੀਜ਼ ਨੂੰ ਮਿਟਾਏਗਾ ਅਤੇ ਤੁਹਾਨੂੰ ਸਾਈਟਾਂ ਵਿੱਚੋਂ ਸਾਈਟ ਆਉਟ ਕਰ ਦਿੰਦਾ ਹੈ। ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਬੰਦ ਹੋਣਗੀਆਂ ਅਤੇ ਨਵੀਆਂ ਖੋਲ੍ਹੀਆਂ ਜਾਣਗੀਆਂ।
 reset-pbm-panel-description2 = ਇਹ ਤੁਹਾਡੀ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋ ਨੂੰ ਬੰਦ ਕੀਤੇ ਬਗ਼ੈਰ ਅਤੀਤ, ਕੂਕੀਜ਼ ਅਤੇ ਹੋਰ ਸਾਈਟ ਡਾਟੇ ਨੂੰ ਹਟਾਉਂਦੀ ਹੈ।
 reset-pbm-panel-always-ask-checkbox =
     .label = ਹਮੇਸ਼ਾਂ ਮੈਨੂੰ ਪੁੱਛੋ
@@ -1498,6 +1499,9 @@ fire-button-panel-confirm-button =
     .label = ਸਭ ਨੂੰ ਹਟਾਓ
     .accesskey = D
 fire-button-panel-complete = ਬਰਾਊਜ਼ ਕਰਨ ਵਾਲਾ ਡਾਟਾ ਹਟਾਇਆ
+fire-button-toolbar-button2 =
+    .label = ਕੁਝ ਜਾਂ ਸਾਰੇ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
+    .tooltiptext = ਤੁਹਾਡੇ ਬਰਾਊਜ਼ ਕੀਤੇ ਕੁਝ ਜਾਂ ਸਾਰੇ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
 
 ## Autorefresh blocker
 
