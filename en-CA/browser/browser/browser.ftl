@@ -1628,6 +1628,9 @@ process-hang-specific-tab-message = “{ $title }” is slowing down { -brand-sh
 process-hang-addon-message = “{ $addonName }” is slowing down { -brand-short-name }. To speed up your browser, stop that extension.
 process-hang-addon-learn-more =
     .value = Learn more
+process-hang-stop-button =
+    .label = Stop
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
