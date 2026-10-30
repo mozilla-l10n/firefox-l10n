@@ -1631,6 +1631,19 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = דף זה מאט את { -brand-short-name }. כדי להאיץ את הדפדפן שלך, כדאי לעצור דף זה.
+process-hang-nonspecific-tab-message = דף אינטרנט מאט את { -brand-short-name }. כדי להאיץ את הדפדפן שלך, כדאי לעצור דף זה.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = ‏“{ $title }” מאט את { -brand-short-name }. כדי להאיץ את הדפדפן שלך, כדאי לעצור דף זה.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = ההרחבה “{ $addonName }” מאטה את { -brand-short-name }. כדי להאיץ את הדפדפן שלך, כדאי לעצור הרחבה זו.
+process-hang-addon-learn-more =
+    .value = מידע נוסף
+process-hang-stop-button =
+    .label = עצירה
+    .accesskey = ע
 
 ## Onboarding Finish Setup checklist
 
