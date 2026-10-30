@@ -1591,6 +1591,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = یک یا چند افزودنی نصب شده تایید نشده و غیرفعال شدند.
+unsigned-addons-disabled-learn-more =
+    .label = بیشتر بدانید
+    .accesskey = ب
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
