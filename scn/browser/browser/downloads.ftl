@@ -99,6 +99,8 @@ downloads-error-extension = Stu scarricamentu nun po èssiri sarbatu picchì è 
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Sta accuminciannu…
+downloads-state-failed = Fallutu
 downloads-state-canceled = Sfallutu
 downloads-state-completed = Cumpletu
 # Indicates that the download was blocked by the Parental Controls feature of
