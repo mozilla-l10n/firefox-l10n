@@ -1631,6 +1631,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Unul sau mai multe suplimente instalate nu pot fi verificate și au fost dezactivate.
+unsigned-addons-disabled-learn-more =
+    .label = Află mai multe
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
