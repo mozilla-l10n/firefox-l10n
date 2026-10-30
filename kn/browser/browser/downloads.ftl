@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = ರದ್ದು ಮಾಡು
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = ಕಡತದ ಹೆಸರು ಕಾಣೆಯಾಗಿದೆ ಅಥವ ಸರಿಸಲಾಗಿದೆ
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = ಗಾತ್ರ ತಿಳಿದಿಲ್ಲ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -146,6 +151,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = ಆರಂಭಿಸಲಾಗುತ್ತಿದೆ…
+downloads-state-failed = ವಿಫಲಗೊಂಡಿದೆ
+downloads-state-paused = ವಿರಮಿಸಲಾಗಿದೆ
+downloads-state-canceled = ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ
 downloads-state-completed = ಪೂರ್ಣಗೊಂಡಿದೆ
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -171,6 +180,18 @@ downloads-blocked-uncommon = ಈ ಕಡತವನ್ನು ಸಾಮಾನ್ಯ�
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = ನೀವು ಈ ಡೌನ್‌ಲೋಡ್ ಅನ್ನು  ಅನುಮತಿಸುತ್ತಿರುವುದು ಖಚಿತವೆ?
+downloads-unblock-header-open = ನೀವು ಈ ಕಡತವನ್ನು ಖಚಿತವಾಗಿಯೂ ತೆಗೆಯಲು ಬಯಸುವಿರಾ?
+downloads-unblock-type-malware = ಈ ಕಡತವು ನಿಮ್ಮ ಗಣಕಕ್ಕೆ ತೊಂದರೆ ಉಂಟುಮಾಡುವ ಒಂದು ವೈರಸ್‌ ಅನ್ನು ಅಥವ ಮಾಲ್ವೇರ್‌ ಅನ್ನು ಹೊಂದಿದೆ.
+downloads-unblock-type-potentially-unwanted = ಒಂದು ನೆರವಿನ ಡೌನ್‌ಲೋಡ್‌ ಎಂದು ಸೋಗುಹಾಕಲಾದ ಈ ಕಡತವು, ನಿಮ್ಮ ಪ್ರೊಗ್ರಾಮ್‌ಗಳಿಗೆ ಮತ್ತು ಸಿದ್ಧತೆಗಳಿಗೆ ಅನಿರೀಕ್ಷಿತವಾದ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡುತ್ತದೆ.
+downloads-unblock-type-uncommon = ಇದು ಸಾಮಾನ್ಯವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿಕೊಳ್ಳಲಾಗುವ ಒಂದು ಕಡತವಾಗಿಲ್ಲ ಆದ್ದರಿಂದ ತೆರೆಯುವುದು ಸುರಕ್ಷಿತವಲ್ಲ. ಇದು ವೈರಸ್ ಅನ್ನು ಹೊಂದಿರಬಹುದು ಅಥವಾ ನಿಮ್ಮ ಪ್ರೋಗ್ರಾಮ್‌ಗಳು ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಅನಿರೀಕ್ಷಿತ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಬಹುದು.
+downloads-unblock-tip = ನೀವು ಪರ್ಯಾಯ ಡೌನ್‌ಲೋಡ್‌ ಮೂಲದಿಂದ ಹುಡುಕಬಹುದು ಅಥವ ಸ್ವಲ್ಪ ಸಮಯದ ನಂತರ ಪ್ರಯತ್ನಿಸಬಹುದು.
+downloads-unblock-button-open =
+    .label = ತೆರೆ
+downloads-unblock-button-unblock =
+    .label = ಡೌನ್‌ಲೋಡ್ ಅನುಮತಿಸು
+downloads-unblock-button-confirm-block =
+    .label = ಕಡತ ತೆಗೆದುಹಾಕು
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -186,3 +207,5 @@ downloads-blocked-uncommon = ಈ ಕಡತವನ್ನು ಸಾಮಾನ್ಯ�
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
