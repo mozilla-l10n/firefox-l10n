@@ -443,6 +443,8 @@ addon-permissions-learnmore = Află mai multe despre permisiuni
 # the user.
 addon-permissions-managed-by-policy = Unele permisiuni sunt gestionate de organizația ta.
 recommended-extensions-heading = Extensii recomandate
+recommended-themes-card-heading =
+    .heading = Teme recomandate
 recommended-themes-heading = Teme recomandate
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
