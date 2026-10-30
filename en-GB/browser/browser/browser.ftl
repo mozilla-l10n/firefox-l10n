@@ -1615,6 +1615,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = One or more installed add-ons cannot be verified and have been disabled.
+unsigned-addons-disabled-learn-more =
+    .label = Learn More
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -1628,6 +1632,9 @@ process-hang-specific-tab-message = “{ $title }” is slowing down { -brand-sh
 process-hang-addon-message = “{ $addonName }” is slowing down { -brand-short-name }. To speed up your browser, stop that extension.
 process-hang-addon-learn-more =
     .value = Learn more
+process-hang-stop-button =
+    .label = Stop
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
