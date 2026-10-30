@@ -185,6 +185,9 @@ downloads-state-blocked-parental-controls = پرینٹل کنٹرول سے بل�
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = اس مسل میں وائرس یا برا سافٹ ویئر ہے۔
+downloads-blocked-potentially-unwanted = یہ مسل آپ کے کمپیوٹر کو نقصان پہنچا سکتی ہے۔
+downloads-blocked-uncommon = یہ مسل عامومن طور پر ڈاؤن لوڈ نہیں ہوئی
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
