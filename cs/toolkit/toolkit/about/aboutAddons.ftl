@@ -498,6 +498,8 @@ addon-permissions-learnmore = Zjistit více o oprávněních
 # the user.
 addon-permissions-managed-by-policy = Některá oprávnění jsou spravována vaší organizací.
 recommended-extensions-heading = Doporučená rozšíření
+recommended-themes-card-heading =
+    .heading = Doporučené vzhledy
 recommended-themes-heading = Doporučené vzhledy
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
