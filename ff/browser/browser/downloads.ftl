@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = &Haaytu
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = Fiilde dirtinaande walla yejjitaande
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Ɓetol anndaaka
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -149,6 +154,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Nana fuɗɗoo…
+downloads-state-failed = Woorii
+downloads-state-paused = Ena sabbii
+downloads-state-canceled = Haaytinaama
 downloads-state-completed = Timmii
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -174,6 +183,18 @@ downloads-blocked-uncommon = Ndee fiilde heewaani aawteede.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Aɗa yenanaa yiɗde yamirde ngol gaawtol?
+downloads-unblock-header-open = Aɗa yenanaa yiɗde udditde ndee fiilde?
+downloads-unblock-type-malware = Ndee fiilde ena wondi e mboros walla mbonnateeri mbaawndi bonnude ordinateer maa.
+downloads-unblock-type-potentially-unwanted = Ndee fiilde koko suuɗii e fiilde nafoore kono ende waawi addude bayle ɗe kaanaani e teelte walla topirɗe maa.
+downloads-unblock-type-uncommon = Ndee fiilde heewaani aawteede tee ena waawi waasde hisde udditde. Ende waawi loowde mboros walla nde adda bayle ɗe tijjaaka e juɓɓe maa e teelte maa.
+downloads-unblock-tip = Aɗa yiylaade aawtirde woɗnde ɓurnde hisde walla kadi so ɓooyii.
+downloads-unblock-button-open =
+    .label = Uddit
+downloads-unblock-button-unblock =
+    .label = Yamir aawtagol
+downloads-unblock-button-confirm-block =
+    .label = Momtu fiilde
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -189,3 +210,5 @@ downloads-blocked-uncommon = Ndee fiilde heewaani aawteede.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
