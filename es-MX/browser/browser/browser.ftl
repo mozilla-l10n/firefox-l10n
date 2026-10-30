@@ -1544,6 +1544,9 @@ file-picker-crashed-show-in-folder =
 ## Unsigned add-ons notification
 
 unsigned-addons-disabled-message = Uno o más complementos instalados no pueden ser verificados y han sido deshabilitados.
+unsigned-addons-disabled-learn-more =
+    .label = Más información
+    .accesskey = S
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
