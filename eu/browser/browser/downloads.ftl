@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] Erakutsi karpetan
         }
     .accesskey = k
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Fitxategia ezabatuta
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -250,6 +253,10 @@ downloads-state-completed = Eginda
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Fitxategi honek birusa edo malwarea dauka.
+downloads-blocked-potentially-unwanted = Fitxategi honek zure ordenagailua kalte lezake.
+downloads-blocked-potentially-insecure = Ez da fitxategia deskargatu: balizko segurtasun-arriskua.
+downloads-blocked-uncommon = Fitxategi hau ez da sarri deskargatzen.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
