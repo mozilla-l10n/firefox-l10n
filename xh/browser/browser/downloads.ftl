@@ -25,6 +25,11 @@ downloads-cmd-cancel-panel =
     .aria-label = Rhoxisa
 # Displayed when a complete download which is not at the original folder.
 downloads-file-moved-or-missing = IFayile esusiweyo okanye elahlekileyo
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Ubungakanani obungaziwayo
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -145,6 +150,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Iyaqalisa…
+downloads-state-failed = Ayiphumelelanga
+downloads-state-paused = Inqumamile
+downloads-state-canceled = Irhoxisiwe
 downloads-state-completed = Egqityiweyo
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -170,6 +179,18 @@ downloads-blocked-uncommon = Le fayile ayidawnlowudwa ngokuqhelekileyo.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Uqinisekile ukuba ufuna ukukuvumela oku kudawnlowuda?
+downloads-unblock-header-open = Uqinisekile na ukuba ufuna ukuvula le fayile?
+downloads-unblock-type-malware = Le fayile iqulethe ivirus okanye enye i-malwane ezokwenzakalisa ikhompyutha yakho.
+downloads-unblock-type-potentially-unwanted = Le fayile, izenza njengesikhupheli esiluncedo, kodwa inokwenza iinguqu ezingalindelekanga kwiinkqubo zakho neesetingi.
+downloads-unblock-type-uncommon = Le fayile ayidawnlowudwa ngokuqhelekileyo yaye kusenokungakhuseleki ukuyivula. Inokuba nevayirasi okanye yenze utshintsho olungalindelekanga kwiinkqubo neesetingi zakho.
+downloads-unblock-tip = Ungakhangela esinye isibonelelo sokukhuphela okanye ukukhuphela ifayile kwakhona ngelinye ixesha
+downloads-unblock-button-open =
+    .label = Vula
+downloads-unblock-button-unblock =
+    .label = Vumela ukudawnlowuda
+downloads-unblock-button-confirm-block =
+    .label = Susa ifayile
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -185,3 +206,5 @@ downloads-blocked-uncommon = Le fayile ayidawnlowudwa ngokuqhelekileyo.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
