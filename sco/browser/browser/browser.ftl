@@ -829,6 +829,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Ane or mair instawed eik-ons cannae be verified and hae been disabled.
+unsigned-addons-disabled-learn-more =
+    .label = Lairn Mair
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
