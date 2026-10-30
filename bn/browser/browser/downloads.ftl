@@ -35,6 +35,8 @@ downloads-cmd-show-menuitem-2 =
            *[other] ফোল্ডারে দেখান
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ফাইল সরানো হয়েছে বা পাওয়া যাচ্ছে না
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -231,6 +233,10 @@ downloads-state-blocked-parental-controls = প্যারেন্টাল �
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = এই ফাইলে কোন ভাইরাস বা ম্যালওয়্যার রয়েছে।
+downloads-blocked-potentially-unwanted = এই ফাইল আপনার কম্পিউটারের ক্ষতি করতে পারে।
+downloads-blocked-potentially-insecure = ফাইল ডাউনলোড করা হয়নি: সম্ভাব্য নিরাপত্তা ঝুঁকি।
+downloads-blocked-uncommon = এই ফাইলটি সাধারণত ডাউনলোড করা হয়না।
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
