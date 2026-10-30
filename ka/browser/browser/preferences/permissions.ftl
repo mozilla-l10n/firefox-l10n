@@ -142,6 +142,9 @@ permissions-site-notification-desc = მოცემული ვებსაი
 permissions-site-notification-disable-label =
     .label = შეტყობინებების ჩვენების ახალი მოთხოვნების შეზღუდვა
 permissions-site-notification-disable-desc = შედეგად, ყველა ვებსაიტს, რომლებიც ზემოთ არ იქნება მითითებული, შეეზღუდება შეტყობინებების ჩვენების უფლება. შეტყობინებების ჩვენების აკრძალვის გამო შესაძლოა, ვებსაიტის ზოგიერთმა შესაძლებლობამ ვერ იმუშაოს.
+# Shown only where notifications can be delivered while the browser is closed.
+permissions-site-notification-closed-delivery-label =
+    .label = ვებსაიტის შეტყობინებების ნებართვა, როცა { -brand-short-name } დახურულია
 
 ## Site Permissions - Location
 

@@ -1462,6 +1462,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = წაიშალოს მონაცემები და გაეშვას ახალი პირადი სეანსი?
+reset-pbm-panel-description3 = შედეგად წაიშლება თქვენი ისტორია, ფუნთუშები და საიტებიდანაც გამოხვალთ. თქვენი პირადი ფანჯრები დაიხურება და გაიხსნება ახალი.
 reset-pbm-panel-description2 = შედეგად წაიშლება ისტორია, ფუნთუშები და საიტის ყველა სხვა მონაცემი პირადი ფანჯრის დაუხურავად.
 reset-pbm-panel-always-ask-checkbox =
     .label = შეკითხვა ყოველ ჯერზე
@@ -1497,6 +1498,9 @@ fire-button-panel-confirm-button =
     .label = ყველას წაშლა
     .accesskey = ყ
 fire-button-panel-complete = დათვალიერების მონაცემები წაშლილია
+fire-button-toolbar-button2 =
+    .label = ზოგიერთი ან ყველა მონაცემის წაშლა
+    .tooltiptext = წაშალეთ ნაწილობრივ ან სრულად თქვენი დათვალიერების მონაცემები
 
 ## Autorefresh blocker
 

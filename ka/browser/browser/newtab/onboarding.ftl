@@ -562,10 +562,14 @@ onboarding-refresh-terms-of-use-with-links = თუ განაგრძობ�
 onboarding-refresh-data-collection-link = მონაცემთა აღრიცხვის პარამეტრების მართვა
 onboarding-refresh-primary-button = განაგრძეთ
 onboarding-refresh-fro-import-header = გადმოიტანეთ თქვენი მონაცემები
+# "It" in "It stays yours" means the browsing data the user is importing (bookmarks, passwords, history).
+# Refers to personal data, indicating that ownership of imported data remains with the user.
+onboarding-refresh-fro-import-subtitle = მუდამ თქვენ მხარეს. { -brand-product-name } არასდროს გაყიდის პირად მონაცემებს.
 onboarding-refresh-fro-import-body = თქვენი კერძო მონაცემები რჩება პირადი. { -brand-product-name } არასდროს გაყიდის.
 onboarding-refresh-fro-skip-button = გამოტოვება
 onboarding-refresh-fro-theme-header = მოსინჯეთ სხვადასხვა იერსახე
 onboarding-refresh-tab-layout-header = მოსინჯეთ ჩანართების სხვა განლაგება
+onboarding-refresh-fro-tab-layout-title = ახალ ჩანართში განლაგების შერჩევა
 onboarding-refresh-tab-layout-top = ზემოთ
 onboarding-refresh-tab-layout-side = გვერდით
 onboarding-refresh-tab-layout-minimal = სადა

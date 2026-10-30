@@ -75,8 +75,14 @@ about-private-browsing-felt-privacy-v1-info-link = Siapa yang mungkin bisa melih
 
 about-private-browsing-nova-info-body = Menutup semua jendela pribadi Anda akan menghapus kuki, riwayat, dan data situs Anda.
 about-private-browsing-nova-info-link = Siapa yang mungkin masih dapat melihat aktivitas saya?
+about-private-browsing-private-window-redesign-subheader = { -brand-short-name } dirancang untuk melindungi privasi Anda saat Anda meramban, dengan lindungan pelacakan bawaan. Menutup jendela ini akan menghapus riwayat, kuki, dan data situs untuk menjaga perambanan Anda tetap pribadi dari orang lain yang menggunakan peranti ini.
 # "You're off the record" is an English idiom meant to communicate that you
 # are not being recorded. If there is not a comparable phrase in the locale,
 # fall back to "Your browsing will be deleted"
 about-private-browsing-nova-info-header = Anda tidak direkam
 about-private-browsing-nova-info-subheader2 = Kami akan menghapus setiap pencarian dan proses masuk saat Anda menutup semua Jendela Pribadi Anda. Perlindungan bawaan { -brand-short-name } juga ada di sini, seperti memblokir pelacak.
+
+## Strings for the Private Window basics spotlight
+
+about-private-browsing-spotlight-basics-bookmarks-downloads = Markah dan unduhan menetap di peranti Anda dan mungkin muncul di bilah alamat.
+about-private-browsing-spotlight-basics-vpn = Gunakan VPN bawaan untuk membuat lokasi Anda lebih sulit dilacak.

@@ -77,6 +77,9 @@ genai-shortcut-copy-button =
 genai-shortcut-more-actions-button =
     .aria-label = სხვა პარამეტრები
     .tooltiptext = სხვა პარამეტრები
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = ამ მენიუს აღარ იხილავთ ტექსტის მონიშვნისას. კვლავ გამოსაჩენად პარამეტრებში მოიძიეთ <span data-l10n-name="chevron"></span> ჩანართები და მონახულება.
 # $provider (string) - name of the AI chat provider
 genai-shortcut-button =
     .aria-label = გიპასუხებთ { $provider }

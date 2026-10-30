@@ -1346,6 +1346,7 @@ unified-extensions-button-blocklisted =
 
 ## Private browsing reset button
 
+reset-pbm-panel-description3 = Ini akan membersihkan riwayat dan kuki Anda, serta mengeluarkan Anda dari situs. Jendela Pribadi Anda akan ditutup, dan yang baru akan terbuka.
 reset-pbm-panel-always-ask-checkbox =
     .label = Selalu tanyakan
     .accesskey = t
@@ -1353,6 +1354,29 @@ reset-pbm-panel-cancel-button =
     .label = Batal
     .accesskey = B
 reset-pbm-panel-complete = Data sesi pribadi dihapus
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button =
+    .label = Hapus sebagian atau semua data perambanan Anda
+    .tooltiptext = Hapus sebagian atau semua data perambanan Anda
+fire-button-panel-heading = Hapus semua data perambanan?
+fire-button-panel-description = Ini akan menghapus riwayat, kuki, dan data situs. Anda akan keluar dari situs. Jendela ini akan ditutup, dan { -brand-short-name } akan membuka yang baru.
+# Opens the "Delete browsing data" dialog, where the user picks
+# which kinds of data to delete. The trailing ellipsis marks that a dialog
+# follows rather than the action happening immediately.
+fire-button-panel-choose-link = Pilih…
+fire-button-panel-cancel-button =
+    .label = Batal
+    .accesskey = B
+fire-button-panel-confirm-button =
+    .label = Hapus semua
+    .accesskey = H
+fire-button-panel-complete = Data perambanan dihapus
+fire-button-toolbar-button2 =
+    .label = Hapus sebagian atau semua data
+    .tooltiptext = Hapus sebagian atau semua data perambanan Anda
 
 ## Autorefresh blocker
 
