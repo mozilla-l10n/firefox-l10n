@@ -1590,6 +1590,14 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” malrapidigas { -brand-short-name }. Por rapidigi vian retumilon, haltigu tiun etendaĵon.
+process-hang-addon-learn-more =
+    .value = Pli da informo
+process-hang-stop-button =
+    .label = Haltigi
+    .accesskey = H
 
 ## Onboarding Finish Setup checklist
 
