@@ -444,6 +444,8 @@ addon-permissions-learnmore = Сазнајте више о дозволама
 # the user.
 addon-permissions-managed-by-policy = Неким овлашћењима управља ваша организација.
 recommended-extensions-heading = Препоручени додаци
+recommended-themes-card-heading =
+    .heading = Препоручене теме
 recommended-themes-heading = Препоручене теме
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
