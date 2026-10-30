@@ -40,6 +40,11 @@ downloads-file-moved-or-missing = Mankout a ra ar restr pe dilec'hiet eo bet
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Dilamet eo bet ar restr
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Ment dianav
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -250,6 +255,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = O kregiñ…
+downloads-state-failed = C'hwitet warni
+downloads-state-paused = Ehanet
+downloads-state-canceled = Nullet
 downloads-state-completed = Echu
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -276,6 +285,18 @@ downloads-blocked-uncommon = Da gustum ne vez ket pellgarget ar restr-mañ.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Sur oc'h e fell deoc'h aotren ar pellgargadur-mañ?
+downloads-unblock-header-open = Sur oc'h e fell deoc'h digeriñ ar restr-mañ?
+downloads-unblock-type-malware = Ur virus pe ur meziant spiañ zo e-barzh ar restr ma vo mekaet hoc'h urzhiataer gantañ.
+downloads-unblock-type-potentially-unwanted = Treuzwisket eo ar restr-mañ evel ur restr skoazellañ. Kemmoù dic'hortoz a ray d'hoc'h arventennoù hag arloadoù, avat.
+downloads-unblock-type-uncommon = Da gustum ne vez ket pellgarget ar restr-mañ ha gallout a ra bezañ arvarus d'he digeriñ. Gallout a ra enderc'hel ur viruz pe ober kemmoù dic'hortoz d'hoc'h arloadoù pe arventennoù.
+downloads-unblock-tip = Klaskit un tarzh pellgargañ all pe glaskit en-dro diwezhatoc'h.
+downloads-unblock-button-open =
+    .label = Digeriñ
+downloads-unblock-button-unblock =
+    .label = Aotren ar pellgargañ
+downloads-unblock-button-confirm-block =
+    .label = Dilemel ar restr
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -291,3 +312,5 @@ downloads-blocked-uncommon = Da gustum ne vez ket pellgarget ar restr-mañ.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
