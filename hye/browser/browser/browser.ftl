@@ -838,6 +838,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Մեկ կամ մի քանի ներբեռնուած հաւելումներ չեն կարող հաստատուել եւ անջատուել են:
+unsigned-addons-disabled-learn-more =
+    .label = Իմանալ աւելին
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
