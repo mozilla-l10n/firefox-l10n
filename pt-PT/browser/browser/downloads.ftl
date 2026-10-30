@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Mostrar na pasta
         }
     .accesskey = M
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Ficheiro movido ou em falta
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Ficheiro eliminado
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Ficheiro descartado (bloqueado)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Tamanho desconhecido
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -248,6 +258,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = A iniciar…
+downloads-state-failed = Falhou
+downloads-state-paused = Pausada
+downloads-state-canceled = Cancelada
 downloads-state-completed = Concluída
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -261,12 +275,18 @@ downloads-blocked-malware = Este ficheiro contém um vírus ou malware.
 downloads-blocked-potentially-unwanted = Este ficheiro pode prejudicar o seu computador.
 downloads-blocked-potentially-insecure = Ficheiro não transferido: Potencial risco de segurança.
 downloads-blocked-uncommon = Este ficheiro não é geralmente transferido.
+downloads-blocked-by-content-analysis = Este ficheiro foi bloqueado pela sua organização.
+downloads-warned-by-content-analysis = Esta transferência pode ser insegura e requer confirmação.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = O ficheiro foi bloqueado porque { $agent } não está acessível.
+downloads-content-analysis-invalid-agent-signature-error = O ficheiro foi bloqueado porque { $agent } falhou a verificação da assinatura.
+downloads-content-analysis-unspecified-error = O ficheiro foi bloqueado devido a um erro na comunicação com { $agent }.
+downloads-content-analysis-timeout-error = { $agent } expirou, pelo que este ficheiro foi bloqueado.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -274,6 +294,24 @@ downloads-blocked-uncommon = Este ficheiro não é geralmente transferido.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Tem a certeza que pretende permitir esta transferência?
+downloads-unblock-header-open = Tem a certeza que pretende abrir este ficheiro?
+downloads-unblock-type-malware = Este ficheiro contém um vírus ou outro malware que pode prejudicar o seu computador.
+downloads-unblock-type-potentially-unwanted = Este ficheiro está disfarçado de transferência útil, mas irá efetuar alterações inesperadas aos seus programas e definições.
+downloads-unblock-type-content-analysis-warn = A sua organização utiliza um programa de proteção contra perda de dados que etiquetou este conteúdo como inseguro.
+downloads-unblock-type-uncommon = Este ficheiro não é geralmente transferido e pode não ser seguro para abrir. Pode conter vírus ou fazer alterações inesperadas aos seus programas e definições.
+downloads-unblock-insecure = A transferência é oferecida por HTTP, mesmo que o documento atual tenha sido entregue através de uma conexão HTTPS segura. Se continuar, a transferência pode ser corrompida ou adulterada durante o processo de transferência.
+downloads-unblock-tip = Pode procurar por uma fonte de transferência alternativa ou tentar novamente mais tarde.
+downloads-unblock-content-analysis-warn-tip = Pode optar por transferir o mesmo ainda assim.
+downloads-unblock-content-analysis-blocked = A sua organização utiliza um programa de proteção contra perda de dados que bloqueou esta transferência.
+downloads-unblock-content-analysis-override = Esta decisão só pode ser sobrescrita pela sua organização.
+downloads-unblock-content-analysis-tip = Pode continuar a sua transferência ou cancelá-la.
+downloads-unblock-button-open =
+    .label = Abrir
+downloads-unblock-button-unblock =
+    .label = Permitir transferência
+downloads-unblock-button-confirm-block =
+    .label = Remover ficheiro
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -289,3 +327,5 @@ downloads-blocked-uncommon = Este ficheiro não é geralmente transferido.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
