@@ -565,7 +565,7 @@ newtab-horoscopes-widget-menu-button =
 newtab-horoscopes-menu-learn-more = Ulteriori informazioni
 # Context menu item linking to the Yahoo website, the provider of the
 # horoscopes. “Yahoo” is a brand name and should not be translated.
-newtab-horoscopes-menu-powered-by-yahoo = Realizzato da Yahoo
+newtab-horoscopes-menu-powered-by-yahoo = Offerto da Yahoo
 
 ## Strings for the Travel widget
 
@@ -579,6 +579,9 @@ newtab-travel-widget-open-menu-button =
     .title = Apri menu per il widget Viaggi
 # Context menu item linking to more information about the widget.
 newtab-travel-menu-learn-more = Ulteriori informazioni
+# Context menu item linking to the Kayak website, the provider of the
+# travel search. “Kayak” is a brand name and should not be translated.
+newtab-travel-menu-powered-by-kayak = Offerto da Kayak
 
 ## Strings for the Solitaire widget. Solitaire is a widget on New Tab where you
 ## can play solitaire, a card game for one player, also known as patience.
@@ -1110,6 +1113,9 @@ newtab-wallpaper-firefox-peak-dark = Il muso di una volpe sul bordo sinistro, su
 newtab-wallpaper-firefox-peak-light = Il muso di una volpe sul bordo sinistro, su uno sfondo chiaro
 newtab-wallpaper-firefox-sky-dark = Colline viola scure sotto il cielo notturno
 newtab-wallpaper-firefox-sky-light = Colline luminose sotto un cielo tenue
+# “Wrexham AFC” is the name of a football club and should not be translated.
+# "crest" refers to the football club's logo (team badge).
+newtab-wallpaper-firefox-wrexham = Lo stemma del Wrexham AFC su uno sfondo rosso
 
 ## Firefox
 
@@ -1551,7 +1557,7 @@ newtab-crossword-widget-open-menu-button =
     .title = Apri menu per il widget Cruciverba
 # Context menu item linking to the Particle website, the provider of the
 # crossword. “Particle” is a brand name and should not be translated.
-newtab-crossword-menu-powered-by-particle = Con tecnologia Particle
+newtab-crossword-menu-powered-by-particle = Offerto da Particle
 
 ## Strings introduced by the Nova redesign of the Timer widget
 
