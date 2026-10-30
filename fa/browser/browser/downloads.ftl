@@ -254,6 +254,10 @@ downloads-state-blocked-parental-controls = مسدود شده توسط «کنت�
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = این پرونده حاوی ویروس یا نرم افزار مخرب است.
+downloads-blocked-potentially-unwanted = این پرونده امکان دارد به کامپیوترتان صدمه بزند.
+downloads-blocked-potentially-insecure = پرونده بارگیری نشد: خطر احتمالیِ امنیتی.
+downloads-blocked-uncommon = این فایل بارگیری شده معمولی نیست.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
