@@ -62,8 +62,8 @@ credit-card-label-number-name-expiration-2 = { $number }, { $name }, { credit-ca
 #
 # In the visible label, "•••" stands for the hidden security code; keep it as is
 # rather than translating it into words.
-credit-card-label-with-security-code-2 = { $label } | kod { $securityCode } •••
-    .aria-label = { $ariaLabel }, zachowano kod { $securityCode }
+credit-card-label-with-security-code-2 = { $label } | { $securityCode } •••
+    .aria-label = { $ariaLabel }, zachowano { $securityCode }
 # Wraps one of the credit-card-label-* strings above to note that a security
 # code is saved alongside the card. Only the presence of a saved security code
 # is ever shown, never the code itself.

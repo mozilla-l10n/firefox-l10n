@@ -66,17 +66,19 @@ autofill-manage-payment-methods-label = Zarządzaj metodami płatności
 # field is the card security code. The card's masked number is shown underneath
 # it as the secondary label. "CVC" is a common abbreviation for the code printed
 # on a payment card; use whichever abbreviation is most familiar in your locale.
-autofill-card-security-code-label = Kod CVC
+autofill-card-security-code-label = CVC
 
 ## The name of the security code printed on a payment card, as each card
 ## network calls it.
 
 # Visa calls it "CVV".
-credit-card-security-code-name-visa = Kod CVV
+credit-card-security-code-name-visa = CVV
 # Mastercard calls it "CVC".
-credit-card-security-code-name-mastercard = Kod CVC
+credit-card-security-code-name-mastercard = CVC
 # American Express calls it "CID".
-credit-card-security-code-name-amex = Kod CID
+credit-card-security-code-name-amex = CID
+# Used for any other card network, or when the network isn't known.
+credit-card-security-code-name-other = Kod zabezpieczający
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the
@@ -92,6 +94,37 @@ credit-card-security-code-name-amex = Kod CID
 
 credit-card-doorhanger-card-details-name = { $name }
 credit-card-doorhanger-card-details-expiration = { $month }/{ $year }
+credit-card-doorhanger-card-details-security-code = { $securityCode }
+credit-card-doorhanger-card-details-name-expiration = { $name } | { $month }/{ $year }
+credit-card-doorhanger-card-details-name-security-code = { $name } | { $securityCode }
+credit-card-doorhanger-card-details-expiration-security-code = { $month }/{ $year } | { $securityCode }
+credit-card-doorhanger-card-details-name-expiration-security-code = { $name } | { $month }/{ $year } | { $securityCode }
+
+## Used on the doorhanger when a saved card is submitted with changed details
+## and security codes can be saved.
+
+credit-card-update-payment-method-doorhanger-header = Czy zaktualizować metodę płatności?
+credit-card-capture-save-new-payment-method-button =
+    .label = Zachowaj nową metodę płatności
+    .accessKey = n
+credit-card-capture-update-payment-method-button =
+    .label = Zaktualizuj
+    .accessKey = a
+
+## Used on the doorhanger when a saved card is submitted with a new or changed
+## security code.
+
+credit-card-save-security-code-doorhanger-header = Czy zachować kod zabezpieczający?
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-security-code-doorhanger-description = { -brand-short-name } zaszyfruje i zachowa kod zabezpieczający tej karty, co przyspieszy płatności.
+
+## Used on the doorhanger when users submit a new card and security codes can be saved.
+
+credit-card-save-payment-method-doorhanger-header = Czy zachować tę metodę płatności?
+# Used when the security code won't be saved, because saving security codes
+# is turned off or the form didn't include one.
+# “Checkout” refers to the payment stage on websites.
+credit-card-save-payment-method-doorhanger-description = { -brand-short-name } szyfruje i automatycznie wypełnia dane płatnicze, co przyspiesza płatności.
 
 ## Details of the card shown on the credit card capture doorhanger, below the
 ## masked card number. Each message is used for a different combination of the

@@ -1498,7 +1498,7 @@ payment-moz-box-item =
 #   $securityCode (string) - The name of the card's security code, which depends
 #     on the card network (for example: CVV)
 payment-moz-box-item-with-security-code-2 =
-    .description = { $expDate } | kod { $securityCode } •••
+    .description = { $expDate } | { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item-with-security-code-2 for a card that has
 # a saved security code but no expiry date to show alongside it. "•••" stands for
@@ -1508,7 +1508,7 @@ payment-moz-box-item-with-security-code-2 =
 #   $securityCode (string) - The name of the card's security code, which depends
 #     on the card network (for example: CVV)
 payment-moz-box-item-security-code-only-2 =
-    .description = Kod { $securityCode } •••
+    .description = { $securityCode } •••
     .label = { $cardNumber }
 # Used in place of payment-moz-box-item when a security code is saved alongside
 # the card. Only the presence of a saved security code is ever shown, never the
