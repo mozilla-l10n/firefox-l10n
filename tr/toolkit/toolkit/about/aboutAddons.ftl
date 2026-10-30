@@ -441,6 +441,8 @@ addon-permissions-learnmore = İzinler hakkında daha fazla bilgi alın
 # the user.
 addon-permissions-managed-by-policy = Bazı izinler kuruluşunuz tarafından yönetiliyor.
 recommended-extensions-heading = Önerilen uzantılar
+recommended-themes-card-heading =
+    .heading = Önerilen temalar
 recommended-themes-heading = Önerilen temalar
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
