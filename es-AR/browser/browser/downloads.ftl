@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Mostrar en carpeta
         }
     .accesskey = r
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Archivo movido o borrado
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Archivo borrado
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Archivo descartado (Bloqueado)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Tamaño desconocido
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -248,6 +258,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Iniciando…
+downloads-state-failed = Falló
+downloads-state-paused = Pausado
+downloads-state-canceled = Cancelado
 downloads-state-completed = Completo
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -261,12 +275,18 @@ downloads-blocked-malware = Este archivo contiene virus o malware.
 downloads-blocked-potentially-unwanted = Este archivo puede dañar su computadora.
 downloads-blocked-potentially-insecure = No se descargó el archivo: riesgo potencial de seguridad.
 downloads-blocked-uncommon = Este archivo no se descarga habitualmente.
+downloads-blocked-by-content-analysis = Este archivo fue bloqueado por su organización.
+downloads-warned-by-content-analysis = Esta descarga puede ser insegura y requiere confirmación.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = El archivo fue bloqueado porque { $agent } no es accesible.
+downloads-content-analysis-invalid-agent-signature-error = El archivo fue bloqueado porque { $agent } falló en la verificación de la firma.
+downloads-content-analysis-unspecified-error = El archivo fue bloqueado por un error al comunicarse con { $agent }.
+downloads-content-analysis-timeout-error = { $agent } superó el tiempo de espera, así que este archivo fue bloqueado.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -274,6 +294,24 @@ downloads-blocked-uncommon = Este archivo no se descarga habitualmente.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = ¿Está seguro de querer permitir esta descarga?
+downloads-unblock-header-open = ¿Está seguro de querer abrir este archivo?
+downloads-unblock-type-malware = Este archivo contiene un virus o algún otro malware que dañará su computadora.
+downloads-unblock-type-potentially-unwanted = Este archivo está disfrazado como una descarga útil pero puede provocar cambios inesperados a sus programas y configuraciones.
+downloads-unblock-type-content-analysis-warn = Su organización utiliza software de prevención de pérdida de datos que ha marcado este contenido como inseguro.
+downloads-unblock-type-uncommon = Este archivo no es comunmente descargado y puede que no sea seguro para abrirse. Puede contener un virus o hacer cambios inesperados a sus programas y configuraciones.
+downloads-unblock-insecure = La descarga se ofrece a través de HTTP aunque el documento actual se entregó a través de una conexión HTTPS segura. Si continúa, la descarga puede dañarse o alterarse durante el proceso de descarga.
+downloads-unblock-tip = Puede buscar una fuente alternativa de descarga o intentar de nuevo más tarde.
+downloads-unblock-content-analysis-warn-tip = Puede elegir descargarlo igualmente.
+downloads-unblock-content-analysis-blocked = Su organización utiliza software de prevención de pérdida de datos que ha bloqueado esta descarga.
+downloads-unblock-content-analysis-override = Esta decisión solo puede ser anulada por su organización.
+downloads-unblock-content-analysis-tip = Puede continuar la descarga o cancelarla.
+downloads-unblock-button-open =
+    .label = Abrir
+downloads-unblock-button-unblock =
+    .label = Permitir descarga
+downloads-unblock-button-confirm-block =
+    .label = Eliminar archivo
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -289,3 +327,5 @@ downloads-blocked-uncommon = Este archivo no se descarga habitualmente.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
