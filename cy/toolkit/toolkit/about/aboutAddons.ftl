@@ -453,6 +453,8 @@ addon-permissions-learnmore = Darllen rhagor am ganiatâd
 # the user.
 addon-permissions-managed-by-policy = Mae rhai caniatâd yn cael eu rheoli gan eich sefydliad.
 recommended-extensions-heading = Estyniadau Cymeradwy
+recommended-themes-card-heading =
+    .heading = Themâu Cymeradwy
 recommended-themes-heading = Themâu Cymeradwy
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
