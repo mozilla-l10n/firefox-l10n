@@ -1589,6 +1589,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = 未検証のため、無効になっているアドオンがあります。
+unsigned-addons-disabled-learn-more =
+    .label = 詳細
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
