@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] Sýna í möppu
         }
     .accesskey = F
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = Skrá eytt
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -254,6 +257,10 @@ downloads-state-blocked-parental-controls = Stöðvað af foreldrastýringu
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Þessi skrá inniheldur vírus eða spillihugbúnað.
+downloads-blocked-potentially-unwanted = Þessi skrá gæti eyðilagt tölvuna þína.
+downloads-blocked-potentially-insecure = Skrá ekki sótt: Hugsanleg öryggisáhætta.
+downloads-blocked-uncommon = Þessari skrá er ekki hlaðið niður mjög oft.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
