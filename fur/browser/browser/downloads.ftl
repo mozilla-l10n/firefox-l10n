@@ -35,9 +35,16 @@ downloads-cmd-show-menuitem-2 =
            *[other] Mostre te cartele
         }
     .accesskey = M
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = File spostât o al mancje
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = File eliminât
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Dimension no cognossude
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -248,6 +255,15 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Daûr a scomençâ…
+downloads-state-failed = Falît
+downloads-state-paused = In pause
+downloads-state-canceled = Anulât
+downloads-state-completed = Completât
+# Indicates that the download was blocked by the Parental Controls feature of
+# Windows. "Parental Controls" should be consistently named and capitalized
+# with the display of this feature in Windows.
+downloads-state-blocked-parental-controls = Blocât dai controi parentâi
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
@@ -256,12 +272,18 @@ downloads-blocked-malware = Chest file al conten un virus o un malware.
 downloads-blocked-potentially-unwanted = Chest file al podarès fâ dams al computer.
 downloads-blocked-potentially-insecure = File no discjariât: potenziâl risi di sigurece.
 downloads-blocked-uncommon = Di solit chest file nol ven discjariât.
+downloads-blocked-by-content-analysis = Chest file al è stât blocât de tô organizazion.
+downloads-warned-by-content-analysis = Al è pussibil che chest file discjariât nol sedi sigûr e e je necessarie la conferme.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Il file al è stât blocât stant che nol è pussibil rivâ a { $agent }.
+downloads-content-analysis-invalid-agent-signature-error = Il file al è stât blocât stant che { $agent } nol à superât la verifiche de firme.
+downloads-content-analysis-unspecified-error = Il file al è stât blocât par vie di un erôr di comunicazion cun { $agent }.
+downloads-content-analysis-timeout-error = { $agent } al è lât fûr timp massim, duncje il file al è stât blocât.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -269,6 +291,24 @@ downloads-blocked-uncommon = Di solit chest file nol ven discjariât.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Permeti pardabon chest discjariament?
+downloads-unblock-header-open = Vierzi pardabon chest file?
+downloads-unblock-type-malware = Chest file al conten un virus o altri malware che al podarès fâ dams al to computer.
+downloads-unblock-type-potentially-unwanted = Chest file si presente tant che discjariament util, ma al pues fâ modifichis ai tiei programs e aes tôs impostazions.
+downloads-unblock-type-content-analysis-warn = La tô organizazion e dopre un software pe prevenzion de pierdite di dâts che e à segnalât chescj contignûts tant che no sigûrs.
+downloads-unblock-type-uncommon = Di solit chest file nol ven discjariât e al podarès jessi pericolôs vierzilu. Al podarès contignî un virus o modificâ in maniere inspietade programs e impostazions.
+downloads-unblock-insecure = Il discjariament al è ufiert vie HTTP ancje se il document corint al è stât trasmetût sore une conession sigure HTTPS. Se tu continuis, e esist la pussibilitât che il file al vegni ruvinât o modificât dilunc il procès.
+downloads-unblock-tip = Tu puedis cirî une sorzint di discjariament alternative o provâ plui indenant.
+downloads-unblock-content-analysis-warn-tip = Tu puedis sielzi di discjariâlu distès.
+downloads-unblock-content-analysis-blocked = La tô organizazion e dopre un software pe prevenzion de pierdite di dâts che al à blocât il discjariament.
+downloads-unblock-content-analysis-override = Nome la tô organizazion e pues lâ parsore di cheste decision.
+downloads-unblock-content-analysis-tip = Tu puedis continuâ a discjariâlu o anulâlu.
+downloads-unblock-button-open =
+    .label = Vierç
+downloads-unblock-button-unblock =
+    .label = Permet discjariament
+downloads-unblock-button-confirm-block =
+    .label = Gjave file
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -284,3 +324,5 @@ downloads-blocked-uncommon = Di solit chest file nol ven discjariât.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
