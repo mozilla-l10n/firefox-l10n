@@ -642,6 +642,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = 'Ngo hùij nej sa nutâ't ni nu ga'ue natsij aga' na ma yi'í dan nu nahuin nakà ma.
+unsigned-addons-disabled-learn-more =
+    .label = Gahuin chrūn doj
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
