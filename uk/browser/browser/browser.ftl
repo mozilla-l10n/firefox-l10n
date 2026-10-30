@@ -1569,6 +1569,9 @@ unsigned-addons-disabled-learn-more =
 process-hang-selected-tab-message = Ця сторінка сповільнює { -brand-short-name }. Щоб пришвидшити роботу браузера, зупиніть цю сторінку.
 process-hang-nonspecific-tab-message = Вебсторінка сповільнює { -brand-short-name }. Щоб пришвидшити роботу браузера, зупиніть цю сторінку.
 # Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” сповільнює { -brand-short-name }. Щоб пришвидшити роботу браузера, зупиніть цю сторінку.
+# Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = “{ $addonName }” сповільнює { -brand-short-name }. Щоб пришвидшити роботу браузера, зупиніть це розширення.
 process-hang-addon-learn-more =
