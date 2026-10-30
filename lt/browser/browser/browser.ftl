@@ -954,6 +954,10 @@ popup-show-popup-menuitem =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Vienas ar daugiau įdiegtų priedų negali būti patikrintas (-i), tad buvo išjungtas (-i).
+unsigned-addons-disabled-learn-more =
+    .label = Sužinoti daugiau
+    .accesskey = S
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -962,6 +966,14 @@ process-hang-nonspecific-tab-message = Tinklalapis lėtina „{ -brand-short-nam
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = „{ $title }“ lėtina „{ -brand-short-name }“ veikimą. Norėdami paspartinti naršyklę, sustabdykite šį tinklalapį.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = „{ $addonName }“ lėtina „{ -brand-short-name }“ veikimą. Norėdami paspartinti naršyklę, sustabdykite šį priedą.
+process-hang-addon-learn-more =
+    .value = Sužinoti daugiau
+process-hang-stop-button =
+    .label = Sustabdyti
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
