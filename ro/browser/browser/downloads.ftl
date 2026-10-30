@@ -256,6 +256,8 @@ downloads-state-blocked-parental-controls = Blocat prin controlul parental
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Fișierul conține un virus sau programe rău intenționate.
+downloads-blocked-potentially-unwanted = Acest fișier poate dăuna calculatorului.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
