@@ -1618,14 +1618,26 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Een of meer geïnstalleerde add-ons kunnen niet worden geverifieerd en zijn uitgeschakeld.
+unsigned-addons-disabled-learn-more =
+    .label = Meer info
+    .accesskey = M
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Deze pagina vertraagt { -brand-short-name }. Stop deze pagina om uw browser te versnellen.
+process-hang-nonspecific-tab-message = Een webpagina vertraagt { -brand-short-name }. Stop die pagina om uw browser te versnellen.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = ‘{ $title }’ vertraagt { -brand-short-name }. Stop die pagina om uw browser te versnellen.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = ‘{ $addonName }’ vertraagt { -brand-short-name }. Stop die extensie om uw browser te versnellen.
 process-hang-addon-learn-more =
     .value = Meer info
+process-hang-stop-button =
+    .label = Stoppen
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
