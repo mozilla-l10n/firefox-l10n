@@ -1618,6 +1618,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Un o més complements instal·lats no estan verificats i s'han inhabilitat.
+unsigned-addons-disabled-learn-more =
+    .label = Més informació
+    .accesskey = M
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -1629,6 +1633,11 @@ process-hang-specific-tab-message = La pàgina «{ $title }» fa que el { -brand
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = L'extensió «{ $addonName }» fa que el { -brand-short-name } vagi més lent. Per accelerar el navegador, atureu-la.
+process-hang-addon-learn-more =
+    .value = Més informació
+process-hang-stop-button =
+    .label = Atura
+    .accesskey = A
 
 ## Onboarding Finish Setup checklist
 
