@@ -1618,9 +1618,18 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Ein oder mehrere Add-ons konnten nicht verifiziert werden und wurden deshalb deaktiviert.
+unsigned-addons-disabled-learn-more =
+    .label = Weitere Informationen
+    .accesskey = W
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Diese Seite verlangsamt { -brand-short-name }. Halten Sie die Seite an, um den Browser zu beschleunigen.
+process-hang-nonspecific-tab-message = Eine Webseite verlangsamt { -brand-short-name }. Halten Sie die Seite an, um den Browser zu beschleunigen.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = "{ $title }" verlangsamt { -brand-short-name }. Halten Sie die Seite an, um den Browser zu beschleunigen.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = "{ $addonName }" verlangsamt { -brand-short-name }. Halten Sie die Erweiterung an, um den Browser zu beschleunigen.
