@@ -145,6 +145,9 @@ permissions-site-notification-disable-desc = შედეგად, ყველ
 # Shown only where notifications can be delivered while the browser is closed.
 permissions-site-notification-closed-delivery-label =
     .label = ვებსაიტის შეტყობინებების ნებართვა, როცა { -brand-short-name } დახურულია
+# Notes that the operating system's own notification settings can still block
+# notifications delivered while the browser is closed.
+permissions-site-notification-closed-delivery-desc = ასევე მოქმედებს თქვენი საოპერაციო სისტემის შეტყობინებების პარამეტრები.
 
 ## Site Permissions - Location
 

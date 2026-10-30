@@ -54,6 +54,8 @@ clear-time-duration-value-since-midnight =
     .label = { $midnightTime } დროიდან
 clear-time-duration-value-today =
     .label = დღევანდელი
+clear-time-duration-value-all-time =
+    .label = ყველა დროის
 clear-time-duration-value-everything =
     .label = ყველაფერი
 clear-time-duration-suffix =
@@ -63,6 +65,11 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ისტორია
+item-history-and-downloads2 =
+    .label = მონახულებული გვერდები და ჩამოტვირთვები
+    .accesskey = ხ
+# Description for the "Browsing and downloads history" item, which can be selected for deletion
+item-history-and-downloads-description3 = ნანახი გვერდებისა და ჩამოტვირთვების სია
 item-history-and-downloads =
     .label = საიტებისა და ჩამოტვირთვების ისტორია
     .accesskey = ს
@@ -79,6 +86,8 @@ item-cookies-site-data-with-size =
 item-cookies-site-data =
     .label = ფუნთუშები და საიტის მონაცემები
     .accesskey = ფ
+# Description for the "Cookies and site data" item, which can be selected for deletion
+item-cookies-site-data-description2 = გამოხვალთ ანგარიშებიდან და შეიძლება საყიდლების კალათებიც გასუფთავდეს
 item-cookies-site-data-description = შესაძლოა, გამოხვიდეთ საიტების ანგარიშებიდან ან დაცარიელდეს საყიდლების კალათა
 item-active-logins =
     .label = მოქმედი ანგარიშები
@@ -86,6 +95,17 @@ item-active-logins =
 item-cache =
     .label = მომარაგებული
     .accesskey = ო
+# Variables:
+#   $amount (Number) - Amount of cached data
+#   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
+item-cached-content-with-size2 =
+    .label = დროებითი ფაილები ({ $amount } { $unit })
+    .accesskey = ო
+item-cached-content2 =
+    .label = დროებითი ფაილები
+    .accesskey = ო
+# Description for the "Temporary files" item, which can be selected for deletion
+item-cached-content-description2 = ეხმარება საიტებს სწრაფ ჩატვირთვაში
 # Variables:
 #   $amount (Number) - Amount of cached data
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
@@ -105,6 +125,10 @@ item-site-prefs =
 item-formdata-prefs =
     .label = შენახული ველების შესავსები
     .accesskey = ვ
+# Description for the "Saved form info" item, which can be selected for deletion
+item-formdata-description2 = სახელები, ელფოსტის მისამართები და შევსებული ველები
+# Description for the "Site settings" item, which can be selected for deletion
+item-site-prefs-description2 = საიტის ნებართვები და მახასიათებლები
 item-formdata-description = ასუფთავებს ველებში შეყვანილ ჩანაწერებს, სახელებს, ელფოსტასა და სხვ.
 item-site-prefs-description = საწყისზე დააბრუნებს მიცემულ ნებართვებსა და შერჩეულ პარამეტრებს საიტისთვის.
 data-section-label = მონაცემები
@@ -114,6 +138,7 @@ item-site-settings =
 item-offline-apps =
     .label = ვებსაიტის შენახული მონაცემები
     .accesskey = მ
+sanitize-everything-undo-warning2 = ეს ქმედება შეუქცევადია.
 sanitize-everything-undo-warning = ეს ქმედება შეუქცევადია.
 window-close =
     .key = w
