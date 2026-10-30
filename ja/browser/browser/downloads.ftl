@@ -35,6 +35,9 @@ downloads-cmd-show-menuitem-2 =
            *[other] 保存フォルダーを開く
         }
     .accesskey = F
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = ファイルを削除しました
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -254,6 +257,10 @@ downloads-state-blocked-parental-controls = 保護者による制限によりブ
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = このファイルはウイルスやマルウェアが含まれています。
+downloads-blocked-potentially-unwanted = このファイルはあなたのコンピューターに害を及ぼします。
+downloads-blocked-potentially-insecure = 潜在的なセキュリティ問題により、このファイルはダウンロードされませんでした。
+downloads-blocked-uncommon = このファイルを開くのは危険です。
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
