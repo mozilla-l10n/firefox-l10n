@@ -160,6 +160,10 @@ addon-updates-check-for-updates = പരിഷ്കരണങ്ങള്‍ക�
     .accesskey = C
 addon-updates-view-updates = ഏറ്റവും പുതിയ പരിഷ്കരങ്ങള്‍ കാണുക
     .accesskey = V
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = ഓട്ടോമാറ്റിക്കായി ആഡ്-ഓണുകള്‍ പരിഷ്കരിയ്ക്കുക
     .accesskey = A
 
@@ -273,6 +277,8 @@ release-notes-addon-button = വെളിപ്പെടുത്തൽക്ക
 permissions-addon-button = അനുമതികൾ
 extension-enabled-heading = പ്രവർത്തനക്ഷമം
 extension-disabled-heading = പ്രവര്‍ത്തനരഹിതം
+theme-disabled-heading3 =
+    .heading = കരുതിവച്ച അലങ്കാരങ്ങൾ
 theme-enabled-heading = പ്രവർത്തനക്ഷമം
 theme-disabled-heading2 = കരുതിവച്ച അലങ്കാരങ്ങൾ
 plugin-enabled-heading = പ്രവർത്തനക്ഷമം
@@ -335,6 +341,10 @@ addon-detail-quarantined-domains-disallow = അനുവദിക്കരുത
 addon-detail-group-label-quarantined-domains =
     .aria-label = { addon-detail-quarantined-domains-label }
 
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+
 ##
 
 available-updates-heading = ഉള്ള പുതുക്കലുകൾ
@@ -377,3 +387,38 @@ plugins-gmp-license-info = ലൈസന്‍സ് വിവരം
 plugins-gmp-privacy-info = സ്വകാര്യതാ വിവരം
 plugins-openh264-name = Cisco Systems, Inc ലഭ്യമാക്കുന്ന OpenH264 വീഡിയോ കോഡക്ക്
 plugins-openh264-description = WebRTC നിര്‍ദേശങ്ങള്‍ അനുസരിക്കുന്നതിനും H.264 വീഡിയോ കോഡെക്ക് ഉപയോഗിക്കുന്ന ഡിവൈസുകളുമായുള്ള WebRTC കോളുകള്‍ സാധ്യമാക്കുന്നതിനും വേണ്ടി മോസ്സില്ലാ ഈ പ്ലഗിന്‍ സ്വയമേ ഇന്‍സ്റ്റള്‍ ചെയ്തിരിക്കുന്നു. വീഡിയോ സോഴ്സ്സ് കോഡ് കാണ്ണുന്നതിനും കൂടുതല്‍ മനസ്സിലാക്കുന്നതിനും https://www.openh264.org/ സന്ദര്‍ശിക്കുക.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
