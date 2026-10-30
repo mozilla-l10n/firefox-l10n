@@ -35,6 +35,11 @@ downloads-cmd-show-menuitem-2 =
            *[other] ສະແດງໃນ Finder
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = ໄຟລຖືກຍ້າຍ ຫຼື ຫາຍໄປ
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = ລຶບໄຟລ໌ແລ້ວ
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -246,6 +251,10 @@ downloads-state-blocked-parental-controls = ຖືກບັອກໂດຍກາ
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = ໄຟລນີ້ມີໄວລັດ ຫຼື ເມົາແວ
+downloads-blocked-potentially-unwanted = ໄຟລນີ້ອາດເປັນອັນຕະລາຍຕໍ່ຄອມພິວເຕີຂອງທ່ານ
+downloads-blocked-potentially-insecure = ບໍ່ໄດ້ດາວໂຫຼດໄຟລ໌: ຄວາມສ່ຽງດ້ານຄວາມປອດໄພທີ່ເປັນໄປໄດ້.
+downloads-blocked-uncommon = ໄຟລນີ້ບໍ່ສາມາດດາວໂຫລດໄດ້ທົ່ວໄປ
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
