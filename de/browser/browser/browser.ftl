@@ -1635,6 +1635,9 @@ process-hang-specific-tab-message = "{ $title }" verlangsamt { -brand-short-name
 process-hang-addon-message = "{ $addonName }" verlangsamt { -brand-short-name }. Halten Sie die Erweiterung an, um den Browser zu beschleunigen.
 process-hang-addon-learn-more =
     .value = Weitere Informationen
+process-hang-stop-button =
+    .label = Anhalten
+    .accesskey = A
 
 ## Onboarding Finish Setup checklist
 
