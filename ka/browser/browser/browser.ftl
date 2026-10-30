@@ -1617,14 +1617,26 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = ერთი ან რამდენიმე ჩადგმული დამატების გადამოწმება ვერ ხერხდება, რის გამოც გამოირთვება.
+unsigned-addons-disabled-learn-more =
+    .label = ვრცლად
+    .accesskey = ვ
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = ამ გვერდის გამო ნელდება { -brand-short-name }. შეაჩერეთ იგი, ბრაუზერის ასასწრაფებლად.
+process-hang-nonspecific-tab-message = ვებგვერდის გამო ნელდება { -brand-short-name }. შეაჩერეთ იგი, ბრაუზერის ასასწრაფებლად.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = „{ $title }“ გვერდის გამო ნელდება { -brand-short-name }. შეაჩერეთ იგი, ბრაუზერის ასასწრაფებლად.
 # Variables:
 #   $addonName (String): the name of the extension.
 process-hang-addon-message = „{ $addonName }“ გაფართოების გამო ნელდება { -brand-short-name }. შეაჩერეთ იგი, ბრაუზერის ასასწრაფებლად.
 process-hang-addon-learn-more =
     .value = ვრცლად
+process-hang-stop-button =
+    .label = შეწყვეტა
+    .accesskey = წ
 
 ## Onboarding Finish Setup checklist
 
