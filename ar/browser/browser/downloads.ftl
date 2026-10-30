@@ -35,6 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] اعرض في المجلد
         }
     .accesskey = ف
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = نُقِل الملف أو حُذِف
+# Displayed when a downloaded file has been deleted by the browser,
+# e.g. by the "Delete" context menu item.
+downloads-file-deleted = حُذف الملف
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = أُهمِل الملف (محظور)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = ‏{ $size }‏ { $unit }
+downloads-size-unknown = الحجم غير معروف
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -253,6 +266,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = يبدأ…
+downloads-state-failed = فشل
+downloads-state-paused = أُلبِث
+downloads-state-canceled = أُلغِيَ
 downloads-state-completed = مكتمل
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -266,12 +283,18 @@ downloads-blocked-malware = يحتوي هذا الملف على فيروس أو 
 downloads-blocked-potentially-unwanted = قد يؤذي هذا الملف حاسوبك.
 downloads-blocked-potentially-insecure = لم يُنزّل الملف: تنزيله يعدّ خطرا أمنيا محتملا.
 downloads-blocked-uncommon = هذا الملف ليس شائع التنزيل.
+downloads-blocked-by-content-analysis = لقد حُظر هذا الملف بواسطة منظّمتك.
+downloads-warned-by-content-analysis = قد يكون هذا التنزيل غير آمن ويتطلب التأكيد.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = حُظر الملف لأن { $agent } غير قابل للوصول.
+downloads-content-analysis-invalid-agent-signature-error = حُظر الملف بسبب فشل { $agent } في التحقق من التوقيع.
+downloads-content-analysis-unspecified-error = حُظر الملف بسبب خطأ في الاتصال بـ { $agent }.
+downloads-content-analysis-timeout-error = انتهت مهلة { $agent }، لذا حُظر هذا الملف.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -279,6 +302,24 @@ downloads-blocked-uncommon = هذا الملف ليس شائع التنزيل.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = أتريد حقّا السماح بهذا التنزيل؟
+downloads-unblock-header-open = أتريد حقًا فتح هذا الملف؟
+downloads-unblock-type-malware = يحتوي هذا الملف على فيروس أو برنامج تجسس أو برمجية خبيثة أخرى قد تؤذي حاسوبك.
+downloads-unblock-type-potentially-unwanted = هذا الملف، الذي يتخفى في شكل تنزيل مفيد، قد يسبب تغييرات غير متوقعة في برمجياتك و إعداداتك.
+downloads-unblock-type-content-analysis-warn = تستخدم منظّمتك برنامجًا لمنع فقدان البيانات صنف هذا المحتوى على أنه غير آمن.
+downloads-unblock-type-uncommon = ليس هذا الملف شائع التنزيل و قد لا يكون من الآمن فتحه. قد يحتوي فيروسًا أو يُحدث تغييرات غير متوقعة على برامجك و إعداداتك.
+downloads-unblock-insecure = يتم تقديم التنزيل عبر HTTP على الرغم من تسليم المستند الحالي عبر اتصال HTTPS آمن. إذا تابعت، فقد يكون التنزيل تالفًا أو تعرّض للعبث أثناء عملية التنزيل.
+downloads-unblock-tip = يمكنك البحث عن مصدر بديل أو إعادة المحاولة لاحقًا.
+downloads-unblock-content-analysis-warn-tip = يمكنك اختيار تنزيله على أية حال.
+downloads-unblock-content-analysis-blocked = تستخدم منظّمتك برنامجًا لمنع فقدان البيانات والذي حظر هذا التنزيل.
+downloads-unblock-content-analysis-override = لا يمكن تجاوز هذا القرار إلا من قِبل منظّمتك.
+downloads-unblock-content-analysis-tip = يمكنك متابعة التنزيل أو إلغاؤه.
+downloads-unblock-button-open =
+    .label = افتح
+downloads-unblock-button-unblock =
+    .label = اسمح بالتنزيل
+downloads-unblock-button-confirm-block =
+    .label = احذف الملف
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -294,3 +335,5 @@ downloads-blocked-uncommon = هذا الملف ليس شائع التنزيل.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = ‏{ $start }‏ — { $end }
+downloads-status-separator-before-number = ‏{ $start }‏ —  { $end }
