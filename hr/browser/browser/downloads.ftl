@@ -247,6 +247,7 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Započinje …
 downloads-state-completed = Dovršeno
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -256,6 +257,10 @@ downloads-state-blocked-parental-controls = Blokirala roditeljska zaštita
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Ova datoteka sadrži virus ili malware.
+downloads-blocked-potentially-unwanted = Ova datoteka može naštetiti tvom računalu.
+downloads-blocked-potentially-insecure = Datoteka nije preuzeta: potencijalni sigurnosni rizik.
+downloads-blocked-uncommon = Ova datoteka se obično ne preuzima.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
@@ -284,3 +289,4 @@ downloads-state-blocked-parental-controls = Blokirala roditeljska zaštita
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator-before-number = { $start } – { $end }
