@@ -35,12 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Mostra en la carpeta
         }
     .accesskey = M
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Falta el fitxer o s'ha mogut
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = S'ha suprimit el fitxer
 # Displayed when a download was blocked for safety reasons and the blocked file
 # data was subsequently deleted at the user's request.
 downloads-file-blocked-and-deleted = Fitxer descartat (bloquejat)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Mida desconeguda
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -251,6 +258,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = S'està iniciant…
+downloads-state-failed = Ha fallat
+downloads-state-paused = En pausa
+downloads-state-canceled = S'ha cancel·lat
 downloads-state-completed = Ha acabat
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -264,12 +275,18 @@ downloads-blocked-malware = Aquest fitxer conté un virus o programari maliciós
 downloads-blocked-potentially-unwanted = Aquest fitxer podria malmetre l'ordinador.
 downloads-blocked-potentially-insecure = No s'ha baixat el fitxer: risc potencial de seguretat.
 downloads-blocked-uncommon = Aquest no és un fitxer que es baixi sovint.
+downloads-blocked-by-content-analysis = Aquest fitxer ha estat bloquejat per la vostra organització.
+downloads-warned-by-content-analysis = Aquesta baixada pot no ser segura i requereix confirmació.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = El fitxer ha estat bloquejat perquè no es pot accedir a { $agent }.
+downloads-content-analysis-invalid-agent-signature-error = El fitxer ha estat bloquejat perquè ha fallat la verificació de la signatura de { $agent }.
+downloads-content-analysis-unspecified-error = El fitxer ha estat bloquejat a causa d'un error al comunicar-se amb { $agent }.
+downloads-content-analysis-timeout-error = S'ha esgotat el temps d'espera amb { $agent }, pel què aquest fitxer ha estat bloquejat.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -277,6 +294,24 @@ downloads-blocked-uncommon = Aquest no és un fitxer que es baixi sovint.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = Segur que voleu permetre aquesta baixada?
+downloads-unblock-header-open = Esteu segur que voleu obrir aquest fitxer?
+downloads-unblock-type-malware = Aquest fitxer conté un virus o programari maliciós que malmetrà l'ordinador.
+downloads-unblock-type-potentially-unwanted = Aquest fitxer està camuflat com a una baixada útil, però pot fer canvis indesitjats als vostres programes i paràmetres.
+downloads-unblock-type-content-analysis-warn = La vostra organització utilitza programari de prevenció de pèrdua de dades que ha marcat aquest contingut com a no segur.
+downloads-unblock-type-uncommon = Aquest no és un fitxer que es baixi sovint, i pot ser que no sigui segur obrir-lo. Podria contenir un virus o fer canvis indesitjats als vostres programes i paràmetres.
+downloads-unblock-insecure = La baixada es farà oferir mitjançant HTTP tot i que el document actual s'ha tramès mitjançant una connexió HTTPS segura. Si continueu, la baixada podria resultar malmesa o manipulada durant el procés de baixada.
+downloads-unblock-tip = Podeu cercar una font de baixada alternativa o tornar-ho a provar més tard.
+downloads-unblock-content-analysis-warn-tip = Podeu optar per baixar-lo igualment.
+downloads-unblock-content-analysis-blocked = La vostra organització utilitza programari de prevenció de pèrdua de dades que ha bloquejat aquesta baixada.
+downloads-unblock-content-analysis-override = Aquesta decisió només pot ser anul·lada per la vostra organització.
+downloads-unblock-content-analysis-tip = Podeu continuar amb la baixada o cancel·lar-la.
+downloads-unblock-button-open =
+    .label = Obre
+downloads-unblock-button-unblock =
+    .label = Permet la baixada
+downloads-unblock-button-confirm-block =
+    .label = Elimina el fitxer
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -292,3 +327,5 @@ downloads-blocked-uncommon = Aquest no és un fitxer que es baixi sovint.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
