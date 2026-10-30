@@ -1572,6 +1572,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = 설치된 하나 이상의 부가 기능을 확인할 수 없어 비활성화되었습니다.
+unsigned-addons-disabled-learn-more =
+    .label = 더 알아보기
+    .accesskey = L
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
