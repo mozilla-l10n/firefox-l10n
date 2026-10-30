@@ -1618,6 +1618,14 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = This page is slowing down { -brand-short-name }. To speed up your browser, stop this page.
+process-hang-nonspecific-tab-message = A web page is slowing down { -brand-short-name }. To speed up your browser, stop that page.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” is slowing down { -brand-short-name }. To speed up your browser, stop that page.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” is slowing down { -brand-short-name }. To speed up your browser, stop that extension.
 process-hang-addon-learn-more =
     .value = Learn more
 
