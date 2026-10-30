@@ -173,6 +173,10 @@ addon-updates-check-for-updates = Poišči posodobitve
     .accesskey = P
 addon-updates-view-updates = Pokaži nedavne posodobitve
     .accesskey = n
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Samodejno posodobi dodatke
     .accesskey = d
 
@@ -322,6 +326,8 @@ release-notes-addon-button = Opombe ob izdaji
 permissions-addon-button = Dovoljenja
 extension-enabled-heading = Omogočeno
 extension-disabled-heading = Onemogočeno
+theme-disabled-heading3 =
+    .heading = Shranjene teme
 theme-enabled-heading = Omogočeno
 theme-disabled-heading2 = Shranjene teme
 plugin-enabled-heading = Omogočeno
