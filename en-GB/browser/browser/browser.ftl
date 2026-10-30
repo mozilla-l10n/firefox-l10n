@@ -1623,6 +1623,11 @@ process-hang-nonspecific-tab-message = A web page is slowing down { -brand-short
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = “{ $title }” is slowing down { -brand-short-name }. To speed up your browser, stop that page.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” is slowing down { -brand-short-name }. To speed up your browser, stop that extension.
+process-hang-addon-learn-more =
+    .value = Learn more
 
 ## Onboarding Finish Setup checklist
 
