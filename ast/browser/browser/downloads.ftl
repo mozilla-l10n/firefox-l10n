@@ -23,6 +23,13 @@ downloads-cmd-cancel =
     .tooltiptext = Encaboxar
 downloads-cmd-cancel-panel =
     .aria-label = Encaboxar
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = El ficheru movióse o desanicióse
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Desconozse'l tamañu
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -170,11 +177,18 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Aniciando…
+downloads-state-failed = Falló
+downloads-state-paused = En posa
+downloads-state-canceled = Encaboxóse
 downloads-state-completed = Completóse
 
 ## These strings are shown in the status line and in the details sub-panel
 ## for some types of blocked downloads.
 
+downloads-blocked-malware = Esti ficheru contién malware.
+downloads-blocked-potentially-unwanted = Esti ficheru pue dañar l'ordenador.
+downloads-blocked-uncommon = Esti ficheru nun suel baxase.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
@@ -188,6 +202,17 @@ downloads-state-completed = Completóse
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = ¿De xuru que quies permitir esta descarga?
+downloads-unblock-header-open = ¿De xuru que quies abrir esti ficheru?
+downloads-unblock-type-malware = Esti ficheru contién un virus u otru tipu de malware que daña l'ordenador
+downloads-unblock-type-uncommon = La descarga d'esti ficheru nun ye habitual y pue ser que nun seya seguro abrilu. Pue contener virus o facer cambeos inesperaos nos programes y axustes.
+downloads-unblock-tip = Pues buscar una fonte de desacarga alternativa o volver tentalo dempués.
+downloads-unblock-button-open =
+    .label = Abrir
+downloads-unblock-button-unblock =
+    .label = Permitir la descarga
+downloads-unblock-button-confirm-block =
+    .label = Quitar el ficheru
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -203,3 +228,5 @@ downloads-state-completed = Completóse
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
