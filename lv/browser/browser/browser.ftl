@@ -1541,6 +1541,9 @@ process-hang-specific-tab-message = “{ $title }” palēnina { -brand-short-na
 process-hang-addon-message = “{ $addonName }” palēnina { -brand-short-name }. Lai paātrinātu pārlūku, šis paplašinājums ir jāaptur.
 process-hang-addon-learn-more =
     .value = Uzzināt vairāk
+process-hang-stop-button =
+    .label = Apturēt
+    .accesskey = A
 
 ## Onboarding Finish Setup checklist
 
