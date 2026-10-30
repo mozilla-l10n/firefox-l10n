@@ -35,9 +35,19 @@ downloads-cmd-show-menuitem-2 =
            *[other] Ehechauka Marandurendápe
         }
     .accesskey = F
+# Displayed when a complete download which is not at the original folder.
+downloads-file-moved-or-missing = Marandurenda mongu’epyre térã okañýmava
 # Displayed when a downloaded file has been deleted by the browser,
 # e.g. by the "Delete" context menu item.
 downloads-file-deleted = Marandurenda mboguepyre
+# Displayed when a download was blocked for safety reasons and the blocked file
+# data was subsequently deleted at the user's request.
+downloads-file-blocked-and-deleted = Marandurenda mboykepyre (jokopyre)
+# Variables:
+#   $size (String) - The size number, for example "1.5".
+#   $unit (String) - The measurement unit, for example "MB".
+downloads-size-with-units = { $size } { $unit }
+downloads-size-unknown = Ndojeikuaái ituichakue
 
 ## Displayed in the downloads context menu for files that can be opened.
 ## Variables:
@@ -248,6 +258,10 @@ downloads-error-generic =
 ## Download states, displayed in the status line of each download in the
 ## Downloads Panel and the Downloads View.
 
+downloads-state-starting = Oñepyrũhína…
+downloads-state-failed = Javypyre
+downloads-state-paused = mombytapyre
+downloads-state-canceled = Hejapyre
 downloads-state-completed = Opámava
 # Indicates that the download was blocked by the Parental Controls feature of
 # Windows. "Parental Controls" should be consistently named and capitalized
@@ -261,12 +275,18 @@ downloads-blocked-malware = Ko marandurenda oguereko mba’echu’i térã malwa
 downloads-blocked-potentially-unwanted = Ko marandurenda ombyaikuaa nemohendaha.
 downloads-blocked-potentially-insecure = Noñemboguejýi marandurenda: ndoikói hekorosã.
 downloads-blocked-uncommon = Ko marandurenda noñemboguejymeméi.
+downloads-blocked-by-content-analysis = Ko marandurenda ojokóma imba’apohaguasu.
+downloads-warned-by-content-analysis = Ko ñemboguejy ikatu naherosãi ha oikotevẽ ñemoneĩ.
 
 ## Displayed when a download is blocked because of an error with the
 ## data-loss prevention (DLP) software used by the organization.
 ## Variables:
 ##   $agent (String) - The name of the DLP agent.
 
+downloads-content-analysis-no-agent-error = Pe marandurenda ojejoko ndaikatúigui ojeike { $agent }-pe.
+downloads-content-analysis-invalid-agent-signature-error = Marandurenda ojejoko { $agent } ndohasáigui mboheraguapy jehechajey.
+downloads-content-analysis-unspecified-error = Marandurenda ojejoko ojavýgui marandu { $agent } ndive.
+downloads-content-analysis-timeout-error = { $agent } hu’ãma ijaravo, upévare ko marandurenda ojejokóma.
 
 ## These strings are displayed in the dialog shown when the user asks a blocked
 ## download to be unblocked, and in the details sub-panel of the Downloads
@@ -274,6 +294,24 @@ downloads-blocked-uncommon = Ko marandurenda noñemboguejymeméi.
 ## downloads-unblock-type-* strings, it is higher for files detected as malware
 ## and lower for uncommon downloads.
 
+downloads-unblock-header-unblock = ¿Añetehápe remoneĩse ko ñemboguejy?
+downloads-unblock-header-open = Añetehápepa eikese ko marandurendápe?
+downloads-unblock-type-malware = Ko marandurenda oguereko peteĩ mba’evai ýrõ ambue malware ombyaikuaáva ne mohendaha.
+downloads-unblock-type-potentially-unwanted = Marandurenda ojehechauka ñemboguejy oikóvaramo, hákatu omoambuekuaa eha’ãrõ’ỹva nde apopyrã ha ñembohekópe.
+downloads-unblock-type-content-analysis-warn = Imba’apohaguasu oiporu software omboykéva mba’ekuaarã ñehundi omongurusúva ko tetepy hekorosã’ỹvaramo.
+downloads-unblock-type-uncommon = Ko marandurenda ndaikatúi emboguejy porã ha ikatu hína nahekorosãi eike hag̃ua. Ikatu oguereko mba’echu’i térã omoambue eipota’ỹva nerembiaporape ha ñembohekópe.
+downloads-unblock-insecure = Pe ñemboguejy oñekuãve’ẽ HTTP rupive pe kuatiaite oñeme’ẽramo jepe HTTPS hekorosã rupi. Eku’ejeýramo, ñemboguejy oñembyai térã iñambuekuaa pe oñemboguejy aja.
+downloads-unblock-tip = Emboguejykuaa ambue tendágui ýramo eñeha’ã jey ag̃amieve.
+downloads-unblock-content-analysis-warn-tip = Eiporavo emboguejy hag̃ua ikatuháicha.
+downloads-unblock-content-analysis-blocked = Nde atyguasu oiporu software mba’ekuaarã ani hag̃ua oñehundi ojokómava ko ñemboguejy.
+downloads-unblock-content-analysis-override = Ko je’epyre ikatu ombotove nde atyguasu añoite.
+downloads-unblock-content-analysis-tip = Emboguejyvekuaa térã ikatu ejoko.
+downloads-unblock-button-open =
+    .label = Juruja
+downloads-unblock-button-unblock =
+    .label = Emoneĩ ñemboguejy
+downloads-unblock-button-confirm-block =
+    .label = Marandurenda jeguerova
 
 ## These strings define templates for the separation of different elements in
 ## the status line of a download item. As a separator, by default we use the
@@ -289,3 +327,5 @@ downloads-blocked-uncommon = Ko marandurenda noñemboguejymeméi.
 ##   $start (String) - The text before the separator.
 ##   $end (String) - The text after the separator.
 
+downloads-status-separator = { $start } — { $end }
+downloads-status-separator-before-number = { $start } —  { $end }
