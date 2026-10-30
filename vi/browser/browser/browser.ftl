@@ -1577,6 +1577,11 @@ process-hang-nonspecific-tab-message = Một trang web đang làm chậm { -bran
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = “{ $title }” đang làm chậm { -brand-short-name }. Để tăng tốc trình duyệt của bạn, hãy dừng trang đó lại.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” đang làm chậm { -brand-short-name }. Để tăng tốc trình duyệt của bạn, hãy dừng tiện ích đó lại.
+process-hang-addon-learn-more =
+    .value = Tìm hiểu thêm
 
 ## Onboarding Finish Setup checklist
 
