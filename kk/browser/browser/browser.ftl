@@ -1611,6 +1611,10 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Бір немесе бірнеше орнатылған қосымшаны растау мүмкін емес, сондықтан олар сөндіріледі.
+unsigned-addons-disabled-learn-more =
+    .label = Көбірек білу
+    .accesskey = К
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
@@ -1619,8 +1623,14 @@ process-hang-nonspecific-tab-message = Веб-парағы { -brand-short-name }
 # Variables:
 #   $title (String): the title of the tab.
 process-hang-specific-tab-message = "{ $title }" "{ -brand-short-name }" жұмысын тежеп тұр. Браузеріңізді жылдамдату үшін, ол парақты тоқтатыңыз.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = "{ $addonName }" "{ -brand-short-name }" жұмысын тежеп тұр. Браузеріңізді жылдамдату үшін, ол кеңейтуді тоқтатыңыз.
 process-hang-addon-learn-more =
     .value = Көбірек білу
+process-hang-stop-button =
+    .label = Тоқтату
+    .accesskey = т
 
 ## Onboarding Finish Setup checklist
 
