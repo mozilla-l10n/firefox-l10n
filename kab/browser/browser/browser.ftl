@@ -1313,6 +1313,14 @@ unsigned-addons-disabled-learn-more =
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” yuɣal ẓẓay { -brand-short-name }. I wakken ad terreḍ iminig-ik•im d arurad, seḥbes asiɣzef-nni.
+process-hang-addon-learn-more =
+    .value = Issin ugar
+process-hang-stop-button =
+    .label = Seḥbes
+    .accesskey = S
 
 ## Onboarding Finish Setup checklist
 
