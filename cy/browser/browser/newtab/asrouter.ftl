@@ -546,3 +546,10 @@ restore-session-startup-suggestion-button = Dangos sut mae gwneud
 ## is shown in a row with its name, web address and an “Add” button.
 
 taskbar-tabs-spotlight-title = Agorwch eich hoff wefannau fel ap
+taskbar-tabs-spotlight-subtitle = Mae un clic yn agor eich gwefannau mwyaf cyffredin mewn ffenestr symlach gyda holl ddiogelwch { -brand-short-name }.
+# Heading above the list of suggested websites.
+taskbar-tabs-spotlight-sites-heading = Dewis i ychwanegu at eich bar tasgau
+# Button shown in each row of the list of websites. Clicking it adds the
+# website in that row to the Windows taskbar.
+taskbar-tabs-spotlight-add-button = Ychwanegu
+taskbar-tabs-spotlight-done-button = Gorffen

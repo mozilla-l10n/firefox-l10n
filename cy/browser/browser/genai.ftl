@@ -91,6 +91,9 @@ genai-more-actions-search =
     .label = Chwilio
 genai-more-actions-copy =
     .label = Copïo
+# The span is a right-pointing chevron that separates the steps of the path to
+# the setting, in place of a ">" character.
+genai-more-actions-all-off-notice = Byddwch chi ddim yn gweld y ddewislen hon pan fyddwch yn dewis testun. Ewch i Gosodiadau <span data-l10n-name="chevron"></span> Tabiau a phori i'w ddangos eto.
 genai-more-actions-manage-settings =
     .label = Rheoli gosodiadau
 # $provider (string) - name of the AI chat provider

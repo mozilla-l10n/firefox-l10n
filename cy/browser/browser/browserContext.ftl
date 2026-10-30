@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Ychwanegu Peiriant Chwilio
     .accesskey = Y
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Troi'r Ddewislen Camau Gweithredu Ymlaen
+    .accesskey = G
 main-context-menu-link-send-to-device =
     .label = Anfon Dolen i Ddyfais
     .accesskey = D

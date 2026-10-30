@@ -1502,6 +1502,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Clirio'r data a dechrau sesiwn breifat newydd?
+reset-pbm-panel-description3 = Mae hyn yn clirio'ch hanes a'ch cwcis, ac yn eich allgofnodi o wefannau. Bydd eich Ffenestri Preifat yn cau, a bydd un newydd yn agor.
 reset-pbm-panel-description2 = Mae hyn yn dileu hanes, cwcis, a holl ddata'r wefan ond heb gau eich Ffenest Breifat.
 reset-pbm-panel-always-ask-checkbox =
     .label = Gofyn i mi bob tro
@@ -1537,6 +1538,9 @@ fire-button-panel-confirm-button =
     .label = Dileu'r cyfan
     .accesskey = D
 fire-button-panel-complete = Data pori wedi'i ddileu
+fire-button-toolbar-button2 =
+    .label = Dileu rhywfaint neu'r holl ddata
+    .tooltiptext = Dileu rhywfaint neu'r cyfan o'ch data pori
 
 ## Autorefresh blocker
 

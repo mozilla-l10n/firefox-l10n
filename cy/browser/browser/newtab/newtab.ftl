@@ -603,6 +603,9 @@ newtab-horoscopes-widget-menu-button =
     .aria-label = Dewisiadau horosgopau
 # Context menu item linking to more information about the widget.
 newtab-horoscopes-menu-learn-more = Dysgu rhagor
+# Context menu item linking to the Yahoo website, the provider of the
+# horoscopes. “Yahoo” is a brand name and should not be translated.
+newtab-horoscopes-menu-powered-by-yahoo = Wedi'i bweru gan Yahoo
 
 ## Strings for the Travel widget
 
@@ -1180,6 +1183,14 @@ newtab-weather-menu-change-location = Newid lleoliad
 newtab-weather-change-location-search-input-placeholder =
     .aria-label = Chwilio am leoliad
     .placeholder = Chwilio am leoliad
+# "Back" is an icon-only button next to the location search field that returns to the widget.
+newtab-weather-search-back-button =
+    .aria-label = Nôl
+    .title = Nôl
+# Screen reader label for the dropdown below the location search field that
+# lists matching locations as the user types.
+newtab-weather-location-search-results =
+    .aria-label = Awgrymiadau lleoliad
 newtab-weather-cancel-input =
     .aria-label = Diddymu
     .title = Diddymu
@@ -1906,6 +1917,10 @@ newtab-clock-widget-menu-edit = Golygu clociau
 newtab-clock-widget-menu-switch-to-12h = Newid i fformat 12 awr
 newtab-clock-widget-menu-switch-to-24h = Newid i fformat 24 awr
 newtab-clock-widget-label-your-clocks = Eich clociau
+# "Back" is an icon-only button next to the city search field form that returns to the list of clocks.
+newtab-clock-widget-search-back-button =
+    .aria-label = Nôl
+    .title = Nôl
 newtab-clock-widget-search-location-input2 =
     .aria-label = Chwilio am ddinas
     .placeholder = Chwilio am ddinas

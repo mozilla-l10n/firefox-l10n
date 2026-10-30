@@ -17,6 +17,7 @@ customkeys-reset-all = Ailosod pob llwybr byr i'r rhagosodiadau
 customkeys-conflict-confirm = Mae'r fysell hon eisoes wedi'i haseinio i { $conflict }. Ydych chi am ei disodli?
 customkeys-reset-all-confirm = Ydych chi'n siŵr eich bod am ailosod pob llwybr byr bysellfwrdd i'w rhagosodiadau?
 customkeys-file-duplicate-tab = Dyblygu Tab
+customkeys-file-copy-tab-url = Copïo URL Tab
 customkeys-file-focus-search = Canolbwyntio'r Bar Chwilio
 customkeys-history-reopen-tab = Ail agor Tabiau Caewyd Diwethaf
 customkeys-history-reopen-window = Ail agor ffenestr Caewyd Diwethaf
@@ -83,6 +84,16 @@ customkeys-key-new =
     .label = Pwyswch fysell newydd:
 # Displayed below the action label (e.g. "Undo") when the shortcut cannot be changed.
 customkeys-key-unchangeable = (dim modd ei newid)
+# Displayed below the action label (e.g. "Undo") when the user has assigned the
+# shortcut in the operating system's keyboard settings (System Settings on
+# macOS). That shortcut is used instead of any shortcut set here, and it can't
+# be changed here. Translate "keyboard settings" the way the operating system
+# names these settings in your language. "set" here means "assigned".
+customkeys-key-system-assigned =
+    { PLATFORM() ->
+        [macos] (wedi'i osod yng ngosodiadau bysellfwrdd macOS)
+       *[other] (wedi'i osod yng ngosodiadau bysellfwrdd macOS)
+    }
 
 ## Confirmation dialogs
 

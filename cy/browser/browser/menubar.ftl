@@ -274,6 +274,10 @@ menu-bookmarks-other =
     .label = Nodau Tudalen Eraill
 menu-bookmarks-mobile =
     .label = Nodau Tudalen Symudol
+# The native macOS menu may limit the number of query results. When that happens,
+# this item opens the bookmarks or history sidebar to show more results.
+menu-places-show-more-in-sidebar =
+    .label = Dangos Rhagor yn y Bar Ochr
 
 ## Profiles Menu
 
