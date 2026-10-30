@@ -17,6 +17,7 @@ customkeys-reset-all = ყველა მალსახმობის ნა�
 customkeys-conflict-confirm = ეს ღილაკზე უკვე მითითებულია { $conflict }. გსურთ მისი ჩანაცვლება?
 customkeys-reset-all-confirm = ნამდვილად გსურთ, რომ ყველა მალსახმობი ნაგულისხმევს დაუბრუნდეს?
 customkeys-file-duplicate-tab = ჩანართის გაორმაგება
+customkeys-file-copy-tab-url = ჩანართის ბმულის ასლი
 customkeys-file-focus-search = ძიების ზოლში გადასვლა
 customkeys-history-reopen-tab = ბოლოს დახურულის დაბრუნება
 customkeys-history-reopen-window = ბოლოს დახურული ფანჯრის აღდგენა

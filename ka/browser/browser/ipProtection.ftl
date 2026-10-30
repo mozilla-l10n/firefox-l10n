@@ -38,6 +38,8 @@ ipprotection-feature-introduction-description-summer-promo = უფრო შო
 ipprotection-feature-introduction-link-text-private-browsing-2 = გამოიყენეთ ჩვენი ახალი <a data-l10n-name="learn-more-vpn">ჩაშენებული VPN</a> თქვენი ადგილსამყოფლის დასაფარად და მონაცემების დასაცავად პირადი ფანჯრით სარგებლობის დროსაც.
 ipprotection-feature-introduction-description-private-browsing = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის პირად ფანჯრებში.
 # Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
+ipprotection-feature-introduction-description-private-browsing-3 = გეხმარებათ თქვენი ადგილმდებარეობის დამალვაში გვერდების მონახულებისას. გამართეთ წესები, რომ ჩაირთოს VPN, როცა გსურთ <a data-l10n-name="learn-more-vpn">დამატებითი პირადულობა</a> ან სხვა მდებარეობაზე მორგებული გვერდების მონახულება, ხოლო გამოირთოს, როცა არ გჭირდებათ.
+# Alternate version of the feature discovery callout copy used after we've released site inclusions for the VPN. Users have the option to turn the VPN on for specific sites only
 ipprotection-feature-introduction-description-private-browsing-1 = გააუმჯობესეთ ადგილმდებარეობის დამალვით <a data-l10n-name="learn-more-vpn">პირადულობა</a> გვერდების მონახულებისას. მიუთითეთ წესები, როდის ჩაირთოს VPN გაუმჯობესებული პირადულობისთვის ან მდებარეობაზე მორგებული გვერდების მოსანახულებლად და როდის დარჩეს გამორთული.
 ipprotection-feature-introduction-title-captive-portal = მოსინჯეთ ჩაშენებული VPN, რომელსაც გთავაზობთ { -brand-product-name }.
 ipprotection-feature-introduction-description-captive-portal = იმოგზაურეთ ინტერნეტში მეტად დაცულად მდებარეობის დაფარვით, მათ შორის საჯარო WiFi-ქსელებში.
@@ -115,6 +117,7 @@ ipprotection-android-promo-callout-primary-button = გასაგებია
 ipprotection-site-inclusions-callout-title-existing-users = მომართეთ ჩაშენებული VPN წესებით და დაიწყეთ თვალიერება
 ipprotection-site-inclusions-callout-title-lapsed-users = გამოცადეთ ჩაშენებული VPN, ახლა უკვე საიტების მიხედვით
 ipprotection-site-inclusions-callout-description-1 = ჩართეთ VPN, როცა გსურთ გაუმჯობესებული პირადულობა ან მდებარეობაზე მორგებული გვერდების მონახულება და გამორთეთ, როცა არ გჭირდებათ.
+ipprotection-site-inclusions-callout-description-lapsed-users = მიუთითეთ წესები, რომ მაშინ ჩაირთოს VPN, როცა გსურთ გაუმჯობესებული პირადულობა ან მდებარეობაზე მორგებული გვერდების მონახულება და გამოირთოს, როცა არ გჭირდებათ.
 ipprotection-site-inclusions-callout-description = ჩართეთ, როცა გსურთ გაუმჯობესებული პირადულობა ან მდებარეობაზე მორგებული გვერდების მონახულება და გამორთეთ, როცა არ გჭირდებათ.
 ipprotection-site-inclusions-callout-primary-button = წესების მითითება
 ipprotection-site-inclusions-callout-secondary-button-existing-users = ახლა არა
@@ -125,6 +128,7 @@ ipprotection-site-inclusions-callout-secondary-button-lapsed-users = აცი�
 ipprotection-holiday-promo-description = გახადეთ გვერდების მონახულება მეტად პირადი და ძნელად მისადევნებელი, ჩაშენებული VPN-ის მეშვეობით.
 ipprotection-holiday-promo-primary-button = გახსენით VPN
 ipprotection-holiday-promo-secondary-button = აცილება
+ipprotection-holiday-promo-title-1 = მიიღეთ VPN შეუზღუდავად 31 იანვრამდე
 
 ## Panel
 
@@ -250,6 +254,7 @@ ipprotection-message-continuous-onboarding-intro = ჩართეთ VPN, რ�
 ipprotection-message-continuous-onboarding-autostart = <a data-l10n-name="setting-link">VPN ჩაირთოს</a> ყოველ ჯერზე, როცა კი გაეშვება { -brand-short-name } დაცვის დამატებითი შრით უზრუნველსაყოფად.
 ipprotection-message-continuous-onboarding-site-settings = { -brand-short-name } დაიხსომებს, რომელი საიტებისთვის უნდა გამოიყენოს VPN. შეცვლა ნებისმიერ დროს შეგეძლებათ <a data-l10n-name="setting-link">პარამეტრებიდან</a>.
 confirmation-hint-ipprotection-navigated-to-excluded-site = VPN გამორთულია ამ საიტზე
+confirmation-hint-ipprotection-navigated-to-included-site = VPN ჩართულია ამ საიტზე
 ipprotection-open-button = გახსენით { -brand-product-name }
 ipprotection-come-back-title = დაბრუნდით და მოსინჯეთ ჩაშენებული VPN
 ipprotection-message-body-hide-location = დამალეთ თქვენი მდებარეობა, როცა { -brand-product-name } გვერდებს მოინახულებს, დამატებითი პირადულობისა და უკეთ განკარგვისთვის.
