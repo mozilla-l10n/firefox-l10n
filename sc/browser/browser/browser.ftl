@@ -1388,6 +1388,7 @@ unified-extensions-button-blocklisted =
 ## Private browsing reset button
 
 reset-pbm-panel-heading2 = Boles cantzellare is datos e aviare una sessione privada noa?
+reset-pbm-panel-description3 = Custu cantzellat sa cronologia e is testimòngios, e serrat sa sessione de is sitos web. Is ventanas privadas ant a èssere serradas e s’at a abèrrere una ventana noa.
 reset-pbm-panel-description2 = Custu cantzellat sa cronologia, is testimòngios e totu is àteros datos de sitos sena de serrare sa ventana privada tua.
 reset-pbm-panel-always-ask-checkbox =
     .label = Pregunta·mi·ddu semper
@@ -1402,6 +1403,13 @@ reset-pbm-panel-complete = Datos de sa sessione privada cantzellados
 reset-pbm-toolbar-button2 =
     .label = Cantzella sa sessione privada
     .tooltiptext = Cantzella sa sessione privada
+
+## Fire button. Clears the whole browsing session, then closes every window and
+## opens a new one.
+
+fire-button-toolbar-button2 =
+    .label = Cantzella totu o unos cantos datos
+    .tooltiptext = Cantzellat totu o una parte de is datos de navigatzione
 
 ## Autorefresh blocker
 

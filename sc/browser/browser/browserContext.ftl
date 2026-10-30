@@ -369,6 +369,10 @@ main-context-menu-manage-passwords =
 main-context-menu-add-engine =
     .label = Agiunghe unu motore de chirca
     .accesskey = A
+# Actions menu that appears when selecting text with actions like Ask AI, Search, or Copy.
+main-context-menu-turn-on-actions-menu =
+    .label = Ativa su menù de atziones
+    .accesskey = m
 main-context-menu-link-send-to-device =
     .label = Imbia su ligòngiu a su dispositivu
     .accesskey = d
