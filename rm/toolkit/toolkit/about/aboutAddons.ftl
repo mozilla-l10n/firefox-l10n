@@ -422,6 +422,8 @@ release-notes-error = Perstgisa, ma cun chargiar las remartgas davart la versiun
 addon-permissions-empty2 = Questa extensiun na pretenda naginas permissiuns.
 addon-permissions-learnmore = Vegnir a savair dapli davart permissiuns
 recommended-extensions-heading = Extensiuns recumandadas
+recommended-themes-card-heading =
+    .heading = Designs recumandads
 recommended-themes-heading = Designs recumandads
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
