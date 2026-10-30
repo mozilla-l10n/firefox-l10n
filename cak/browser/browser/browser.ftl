@@ -1207,9 +1207,21 @@ file-picker-crashed-show-in-folder =
 
 ## Unsigned add-ons notification
 
+unsigned-addons-disabled-message = Jun o ch'aqa' chik taq tz'aqat eyakon man tikirel ta yenik'öx, ruma ri' xetz'apïx.
+unsigned-addons-disabled-learn-more =
+    .label = Tetamäx Ch'aqa' Chik
+    .accesskey = T
 
 ## Process hang notification ("ProcessHangMonitor.sys.mjs")
 
+process-hang-selected-tab-message = Re ruxaq eqal nisamäj { -brand-short-name }. Richin anin nib'an chi re ri okik'amaya'l, tiq'at re ruxaq.
+process-hang-nonspecific-tab-message = Jun ajk'amaya'l ruxaq eqal nisamäj { -brand-short-name }. Richin anin nib'an chi re ri okik'amaya'l, taq'ata' re ruxaq.
+# Variables:
+#   $title (String): the title of the tab.
+process-hang-specific-tab-message = “{ $title }” eqal nisamäj { -brand-short-name }. Richin anin nib'an chi re ri okik'amaya'l, taq'ata' re ruxaq.
+# Variables:
+#   $addonName (String): the name of the extension.
+process-hang-addon-message = “{ $addonName }” eqal nisamäj { -brand-short-name }. Richin anin nib'an chi re ri okik'amaya'l, taq'ata' re k'amal.
 process-hang-addon-learn-more =
     .value = Tetamäx ch'aqa' chik
 process-hang-stop-button =
