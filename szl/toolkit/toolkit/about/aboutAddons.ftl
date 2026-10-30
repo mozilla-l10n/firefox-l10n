@@ -7,6 +7,10 @@ search-header =
     .placeholder = Szukej na addons.mozilla.org
     .searchbuttonlabel = Szukej
 
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+
 ##
 
 list-empty-installed =
@@ -147,6 +151,10 @@ addon-updates-check-for-updates = Badnij za aktualizacyjami
     .accesskey = B
 addon-updates-view-updates = Pokoż ôstatnie aktualizacyje
     .accesskey = P
+
+# This menu item is a checkbox that toggles the default global behavior for
+# add-on update checking.
+
 addon-updates-update-addons-automatically = Autōmatycznie aktualizuj rozszyrzynia
     .accesskey = A
 
@@ -318,6 +326,14 @@ addon-detail-private-browsing-help = Jak dosz zgoda, to rozszyrzynie bydzie mie�
 addon-detail-private-browsing-allow = Przizwōl
 addon-detail-private-browsing-disallow = Niy zwolej
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
+
+## This is the tooltip text for the recommended badges for an extension in about:addons. The
+## badge is a small icon displayed next to an extension when it is recommended on AMO.
+
+
 ##
 
 available-updates-heading = Dostympne aktualizacyje
@@ -325,6 +341,8 @@ recent-updates-heading = Ôstatnie aktualizacyje
 release-notes-loading = Ladowanie…
 release-notes-error = Przi ladowaniu informacyji ô wydaniu pokozoł sie feler.
 recommended-extensions-heading = Rykōmyndowane rozszyrzynia
+recommended-themes-card-heading =
+    .heading = Rykōmyndowane motywy
 recommended-themes-heading = Rykōmyndowane motywy
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -369,3 +387,38 @@ plugins-openh264-name = OpenH264 Video Codec ôd Cisco Systems, Inc.
 plugins-openh264-description = Te rozszyrzynie je autōmatycznie insztalowane ôd Mozille, coby sie przipasować do specyfikacyje WebRTC i coby dać WebRTC łōnczyć sie z maszinami, co potrzebujōm video kodeka H.264. Nawiydź strōna https://www.openh264.org/, coby ôboczyć zdrzōdłowy kod kodeka i przewiedzieć sie wiyncyj ô tyj implemyntacyji.
 plugins-widevine-name = Widevine Content Decryption Module ôd Google Inc.
 plugins-widevine-description = Te rozszyrzynie dowo puszczać zaszyfrowane mydia we zgodzie ze specyfikacyjōm Encrypted Media Extensions. Zaszyfrowane mydia porzōnd sōm używane ôd strōn, coby sie brōnić przed kopiowaniym mydiowyj zawartości. Nawiydź stōna https://www.w3.org/TR/encrypted-media/, coby przewiedzieć sie wiyncyj ô Encrypted Media Extensions.
+
+## Headings for the Permissions tab in `about:addons` when the data collection
+## feature is enabled.
+
+
+## Mapping Engine IDs from AI models to how that feature represented by the engine Id is described in the used by section in local model management
+
+
+## Promo footer shown in the about:addons recommendations view when
+## Project Nova styles are enabled.
+## The heading refers to the user choosing a Firefox theme or extension to
+## install. In the message, "tools" refers to Firefox extensions and
+## "styles" refers to Firefox themes.
+
+
+## Promo footer shown in the about:addons extensions list view when
+## Project Nova styles are enabled.
+## In the message, "tools" refers to Firefox extensions.
+
+
+## Promo footer shown in the about:addons themes list view when
+## Project Nova styles are enabled.
+## "Find more fresh looks" refers to the user looking for more Firefox themes.
+
+
+## Promo shown in about:addons extensions list view when no extension is yet installed
+## and Project Nova is enabled.
+
+
+## Themes Mode segmented control shown at the top of the about:addons themes list view
+## when Project Nova is enabled.
+
+
+## Enable/disable/install buttons on each theme card inside the theme picker.
+
